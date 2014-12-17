@@ -1,54 +1,63 @@
-> *The following text is extracted and transformed from the democratichub.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625173739id_/http%3A//www.democratichub.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democratichub.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217050712id_/http%3A//www.democratichub.com/website-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Democratic Hub
 
-****** ** **PRIVACY POLICY**
+The Democratic Hub is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the the Democratic Hub website and governs data collection and usage. By using the Democratic Hub website, you consent to the data practices described in this statement. 
 
-The Democratic Hub is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the The Democratic Hub Web site and governs data collection and usage. By using The Democratic Hub website, you consent to the data practices described in this statement. 
+## COLLECTION OF YOUR PERSONAL INFORMATION
 
-**COLLECTION OF YOUR PERSONAL INFORMATION**  
 The Democratic Hub collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The Democratic Hub also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites. 
 
-There is also information about your computer hardware and software that is automatically collected by The Democratic Hub. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by The Democratic Hub for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of The Democratic Hub Web site. 
+There is also information about your computer hardware and software that is automatically collected by the Democratic Hub. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by the Democratic Hub for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Democratic Hub website. 
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through The Democratic Hub public message boards, this information may be collected and used by others. Note: The Democratic Hub does not read any of your private online communications. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Democratic Hub public message boards, this information may be collected and used by others. Note: the Democratic Hub does not read any of your private online communications. 
 
-The Democratic Hub encourages you to review the privacy statements of Web sites you choose to link to from The Democratic Hub so that you can understand how those Web sites collect, use and share your information. The Democratic Hub is not responsible for the privacy statements or other content on Web sites outside of The Democratic Hub and The Democratic Hub family of Web sites. 
+The Democratic Hub encourages you to review the privacy statements of websites you choose to link to from the Democratic Hub so that you can understand how those websites collect, use and share your information. The Democratic Hub is not responsible for the privacy statements or other content on websites outside of the Democratic Hub and the Democratic Hub family of websites. 
 
-**USE OF YOUR PERSONAL INFORMATION**   
-Profile information as well as first name/last initial, gender and photos are displayed to people in a user's personal network to support the function of the site as social community. A user�s full name is used when a user invites a friend via email to join the service or attend an event, when we send notifications to a user related to their use of the service or when a user specifies in their account to make their full name public.  A user's email address, home address or phone number are never shared or displayed. 
+## USE OF YOUR PERSONAL INFORMATION
 
-The Democratic Hub collects and uses your personal information to operate The Democratic Hub Web site and deliver the services you have requested. The Democratic Hub also uses your personally identifiable information to inform you of other products or services available from The Democratic Hub and its affiliates. The Democratic Hub may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
+Profile information as well as first name/last initial, gender and photos are displayed to people in a user's personal network to support the function of the site as social community. A user's full name is used when a user invites a friend via email to join the service or attend an event, when we send notifications to a user related to their use of the service or when a user specifies in their account to make their full name public. A user's email address, home address or phone number are never shared or displayed. 
 
-The Democratic Hub does not sell, rent or lease its customer lists to third parties. The Democratic Hub may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, The Democratic Hub may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to The Democratic Hub, and they are required to maintain the confidentiality of your information. 
+The Democratic Hub collects and uses your personal information to operate the Democratic Hub website and deliver the services you have requested. The Democratic Hub also uses your personally identifiable information to inform you of other products or services available from the Democratic Hub and its affiliates. The Democratic Hub may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
+
+The Democratic Hub does not sell, rent or lease its customer lists to third parties. The Democratic Hub may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, the Democratic Hub may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to the Democratic Hub, and they are required to maintain the confidentiality of your information. 
 
 The Democratic Hub does not use or disclose sensitive personal information, such as phone number, email, or address, without your explicit consent. 
 
-The Democratic Hub keeps track of the Web sites and pages our customers visit within The Democratic Hub, in order to determine what The Democratic Hub services are the most popular. This data is used to deliver customized content and advertising within The Democratic Hub to customers whose behavior indicates that they are interested in a particular subject area. 
+The Democratic Hub keeps track of the websites and pages our customers visit within the Democratic Hub, in order to determine what the Democratic Hub services are the most popular. This data is used to deliver customized content and advertising within the Democratic Hub to customers whose behavior indicates that they are interested in a particular subject area. 
 
-The Democratic Hub Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on The Democratic Hub or the site; (b) protect and defend the rights or property of The Democratic Hub; and, (c) act under exigent circumstances to protect the personal safety of users of The Democratic Hub, or the public. 
+The Democratic Hub website will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on the Democratic Hub or the site; (b) protect and defend the rights or property of the Democratic Hub; and, (c) act under exigent circumstances to protect the personal safety of users of the Democratic Hub, or the public. 
 
-**CORRECTING/UPDATING INFORMATION**  
-Members can access, change and update their registration and personal information by logging onto The Democratic Hub and selecting the Modify Profile option. Users who leave the service may choose to have their personal information deleted by contacting us. 
+## CORRECTING/UPDATING INFORMATION
 
-**CHAT ROOMS, MESSAGE BOARDS & PUBLIC FORUMS **  
+Members can access, change and update their registration and personal information by logging onto the Democratic Hub and selecting the Modify Profile option. Users who leave the service may choose to have their personal information deleted by contacting us. 
+
+## CHAT ROOMS, MESSAGE BOARDS & PUBLIC FORUMS
+
 Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, chat areas, file uploads, events, and listings - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties. 
 
-**NEWSLETTER**  
+## NEWSLETTER
+
 If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Email addresses will only be used to send the newsletter. Members may choose to opt-out of receiving the newsletter anytime. 
 
-**USE OF COOKIES**  
-The Democratic Hub Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
+## USE OF COOKIES
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize The Democratic Hub pages, or register with The Democratic Hub site or services, a cookie helps The Democratic Hub to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same The Democratic Hub Web site, the information you previously provided can be retrieved, so you can easily use The Democratic Hub features that you customized. 
+The Democratic Hub website uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of The Democratic Hub services or Web sites you visit. 
+The Democratic Hub website also uses 3rd party software from reputable partners such as Google who may use cookies or other technologies to track your online behavior. 
 
-**SECURITY OF YOUR PERSONAL INFORMATION**  
-The Democratic Hub secures your personal information from unauthorized access, use or disclosure. The Democratic Hub secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the Democratic Hub pages, or register with the Democratic Hub site or services, a cookie helps the Democratic Hub to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same the Democratic Hub website, the information you previously provided can be retrieved, so you can easily use the Democratic Hub features that you customized. 
 
-**CHANGES TO THIS STATEMENT**  
-The Democratic Hub will occasionally update this Statement of Privacy to reflect company and customer feedback. The Democratic Hub encourages you to periodically review this Statement to be informed of how The Democratic Hub is protecting your information. 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Democratic Hub services or websites you visit. 
 
-**CONTACT INFORMATION**  
-The Democratic Hub welcomes your comments regarding this Statement of Privacy. If you believe that The Democratic Hub has not adhered to this Statement, please contact The Democratic Hub at <http://www.democratichub.com/contactus.aspx>. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+## SECURITY OF YOUR PERSONAL INFORMATION
+
+The Democratic Hub secures your personal information from unauthorized access, use or disclosure. The Democratic Hub secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+
+## CHANGES TO THIS STATEMENT
+
+The Democratic Hub will occasionally update this Statement of Privacy to reflect company and customer feedback. The Democratic Hub encourages you to periodically review this Statement to be informed of how the Democratic Hub is protecting your information. 
+
+## CONTACT INFORMATION
+
+The Democratic Hub welcomes your comments regarding this Statement of Privacy. If you believe that the Democratic Hub has not adhered to this Statement, please contact the Democratic Hub at <http://www.democratichub.com/website-contactus.aspx>. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
