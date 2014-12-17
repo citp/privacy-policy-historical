@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelrylessons.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614031442id_/http%3A//www.jewelrylessons.com/page/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelrylessons.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217034139id_/http%3A//www.jewelrylessons.com/page/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JewelryLessons.com
 
@@ -8,9 +8,9 @@
 
 Updated August 19, 2010
 
-[ Click here for Previous Privacy Policy](https://web.archive.org/web/20140614031442id_/http%3A//www.jewelrylessons.com/page/privacy-policies-august-2009)
+[ Click here for Previous Privacy Policy](https://web.archive.org/web/20141217034139id_/http%3A//www.jewelrylessons.com/page/privacy-policies-august-2009)
 
-Our Privacy Policy governs information that is collected through the Jewelrylessons.com Website ("Site"), through our company, Eni Oken Designs, Inc. DBA EaZy Communities ("EZ"), through the use of the Site, and other services offered on or through the Site (collectively, the "Services"). This Privacy Policy is incorporated by reference into the [Terms and Conditions of Use.](https://web.archive.org/web/20140614031442id_/http%3A//www.jewelrylessons.com/page/terms-use). 
+Our Privacy Policy governs information that is collected through the Jewelrylessons.com Website ("Site"), through our company, Eni Oken Designs, Inc. DBA EaZy Communities ("EZ"), through the use of the Site, and other services offered on or through the Site (collectively, the "Services"). This Privacy Policy is incorporated by reference into the [Terms and Conditions of Use.](https://web.archive.org/web/20141217034139id_/http%3A//www.jewelrylessons.com/page/terms-use). 
 
 Please read the Privacy Policy carefully. This explains what Personal Information we will gather from you, and when and how this information is used. Our Terms of Use explains the legal obligations of EZ and you, the user, and also outlines what you can and cannot do while accessing the Site and Services. 
 
