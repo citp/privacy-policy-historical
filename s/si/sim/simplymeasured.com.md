@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplymeasured.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613142505id_/http%3A//simplymeasured.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplymeasured.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217050738id_/http%3A//simplymeasured.com/privacy) for the most accurate reproduction.*
 
-# Simply Measured, Inc - Privacy Policy | Simply Measured
+# Privacy Policy | Simply Measured
 
 **Last Updated:** October 1, 2013
 
