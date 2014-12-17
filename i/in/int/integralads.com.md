@@ -1,34 +1,27 @@
-> *The following text is extracted and transformed from the integralads.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113724id_/http%3A//integralads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integralads.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217225506id_/http%3A//integralads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Integral Ad Science
 
-Integral Ad Science, Inc. ("Integral") is the industry leader in online brand protection and risk management. Our Rating System provides an independent, third-party content rating and certification platform to help standardize and better control the online advertising ecosystem. With Integral's proprietary Firewall product, marketers' advertising only appears on sites with content deemed by the marketer to be consistent with brand image and corporate philosophy. Integral enables ad-networks to monitor their inventory performance and provides a third party certification of publisher site content. This privacy policy describes the privacy-related policies and practices for Integral’s websites, products and services.
-
-Privacy Policy for our public website at www.IntegralAds.com (our “Website”)
-
-Privacy Policy for our client portal at www.IntegralPlatform.com (“Client Portal”)
-
-Privacy Policy for our technology at www.AdSafeProtected.com (our “Technology”)
-
-Additional Privacy Information Applicable to all Integral Products, Sites and Technologies
+Integral Ad Science, Inc. (“Integral”) is the industry leader in online brand protection and risk management. Our Rating System provides an independent, third-party content rating and certification platform to help standardize and better control the online advertising ecosystem. With Integral’s proprietary Firewall product, marketers’ advertising only appears on sites with content deemed by the marketer to be consistent with brand image and corporate philosophy. Integral enables ad-networks to monitor their inventory performance and provides a third party certification of publisher site content. This privacy policy describes the privacy-related policies and practices for Integral’s websites, products and services.
 
 ### Privacy Policy for our public website at [www.IntegralAds.com](http://www.integralads.com/) (our “Website”)
 
-This section explains what and how Integral collects, uses, stores and protects the information gathered from its Website. By using and visiting the Website, you agree to this Policy and the uses made of your information as set forth herein or amended hereafter. 
+This section explains what and how Integral collects, uses, stores and protects the information gathered from its Website. By using and visiting the Website, you agree to this Policy and the uses made of your information as set forth herein or amended hereafter.
 
-**Collection and Use of Information**
+**Collection and Use of Information  
+**
 
 Integral does not collect personally identifiable information (e.g., postal address, email address, telephone number) about you unless you choose to provide it to us through an online form, via e-mail, or you are accessing client-specific, secure content via our Client Portal (see below). Typically, clients or prospective clients provide us with information. We will use this information for the purposes in which you provided it and will store it for a reasonable time for legitimate business purposes.
 
 Our Website also automatically creates logs regarding your visits to IntegralAds.com, such as features that you use, the actions that you take, and the information that you access. We generally use this information in statistical and aggregate formats to assess the effectiveness of our Website and to better understand the ways the website is being used.
 
-**Use of Cookies**  
+**Use of Cookies**
 
 We don’t use Cookies or web beacons on the Website.
 
-### Privacy Policy for our client portal at [www.IntegralPlatform.com](http://www.integralplatform.com/) (“Client Portal”) 
+### **Privacy Policy for our client portal at**[ **www.IntegralPlatform.com**](http://www.integralplatform.com/) **(“Client Portal”)**
 
-This section explains what and how AdSafe collects, uses, stores and protects the information gathered from our Client Portal, which is also sometimes referred to as the Integral Platform. The Client Portal is a password protected website for a clients and prospective clients, which are usually businesses. 
+This section explains what and how AdSafe collects, uses, stores and protects the information gathered from our Client Portal, which is also sometimes referred to as the Integral Platform. The Client Portal is a password protected website for a clients and prospective clients, which are usually businesses.
 
 **Collection and Use of Information**
 
@@ -38,46 +31,58 @@ Our Client Portal does collect non-personally identifiable information. For exam
 
 **Use of Cookies**
 
-We use cookies on the Client Portal. Cookies are small pieces of information transferred to your computer's hard drive through your web browser to enable our systems to recognize your preferences and settings. We use cookies to ensure authorized access to client-specific secure content and reports. When accessing client-specific secure content, you are acting as a representative of your company and your interactions with our site in this capacity are governed by our relationship agreement with your company.
+We use cookies on the Client Portal. Cookies are small pieces of information transferred to your computer’s hard drive through your web browser to enable our systems to recognize your preferences and settings. We use cookies to ensure authorized access to client-specific secure content and reports. When accessing client-specific secure content, you are acting as a representative of your company and your interactions with our site in this capacity are governed by our relationship agreement with your company.
 
-Most browsers automatically accept cookies and you may manually disable them. For more information on disabling cookies, go to the "help" menu on your browser. Please note that if you disable cookies, the Client Portal may not operate correctly. For more information about cookies, please visit <http://www.allaboutcookies.org/cookies/>.
+Most browsers automatically accept cookies and you may manually disable them. For more information on disabling cookies, go to the “help” menu on your browser. Please note that if you disable cookies, the Client Portal may not operate correctly. For more information about cookies, please visit <http://www.allaboutcookies.org/cookies/>.
 
-### Privacy Policy for our technology at [www.AdSafeProtected.com](http://www.adsafemedia.com/) (our “Technology”)
+### Privacy Policy for our technology at [www.AdSafeProtected.com](http://www.adsafeprotected.com/) and [www.iasds01.com](http://www.iasds01.com/) (our “Technology”)
 
-This section explains what and how Integral collects, uses, stores and protects the information gathered by our Technology, which powers the Integral AdSafe Firewall, and the Network Monitor, (collectively, our “Technology Products”). 
+This section explains our collection and usage practices with respect to the information gathered by our Technology.  Our Technology powers our Integral AdSafe Firewall product, our Programmatic Products,  our Network Monitor product and our Causal Impact Product (collectively, the “Technology Products”).
 
 **Collection and Use of Information**
 
-Integral does not collect personally identifiable information via our Technology. We do collect non-personally identifiable information such as IP address, browser type, user agent and referring URL. We use this information in order to provide our Technology Products and we may share that information with our clients to help them ensure brand safety in their online advertising campaigns and for analytics, ad delivery and reporting purposes. 
+We do not collect personally identifiable information via our Technology. We do collect and store various signals from tracked and measured impressions. Collected data ranges from information about the page where an ad was displayed to the dimensions and location of the ad to measurements pertaining to ad viewability and user interaction with the ad.  We also collect IP address, browser type, user agent and referring URL. We use this information in order to provide our Technology Products to our clients, and we may share this information with our clients to help them ensure brand safety in their online advertising campaigns and for analytics, ad delivery and reporting and targeting purposes.
 
 **Use of Cookies**
 
-Our Technology utilizes cookies. Cookies are small pieces of information transferred to your computer's hard drive through your web browser. Our Technology uses cookies to enhance our ability to understand ad delivery metrics. For example, cookies will help our Technology determine whether a particular advertisement is likely to have been viewed.
+We and our business associates utilize cookies to enable our campaign performance analytics products, which use statistical population-level data derived from measured impression and conversion data.  Cookies are small pieces of information transferred to your computer’s hard drive through your web browser so that your computer will “remember” information about your visit.  We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them)..  If you do not want us to place a cookie on your hard drive, you may be able to turn that feature off on your computer.   Please consult your Internet browser’s documentation for information on how to do this and how to delete cookies.  However, if you decide not to accept cookies from us, some of our Technology Products may not function properly.
+
+We do not use any data collected for behavioral or any other user-level targeting.
 
 ### Additional Privacy Information Applicable to all Integral Products, Sites and Services
 
 **Data Security/Integrity**
 
-Integral has reasonable security measures in place to the information in our care from loss, misuse, alteration or destruction. Only authorized employees have access to the data you provided and that access is limited by need. Our employees who have access to the data you provided have agreed to maintain the confidentiality of such information. No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while the company strives to use commercially acceptable means to protect your information, it cannot guarantee absolute security.
+We take commercially reasonable security measures to protect the information in our care from loss, misuse, alteration or destruction.  However, no method of transmission over the Internet or method of electronic storage is 100% secure; therefore, we cannot guarantee absolute security.
 
-**Children's Privacy**
+**Children’s Privacy**
 
-We intend the Website and Client Portal to be used only by adults. Children are to obtain their parents' permission prior to sending any personally identifiable information to us over the Internet. Neither the Website nor the Client Portal knowingly or intentionally collects information on children under the age of 13. If we discover that a child under the age of 13 has supplied personally identifiable information to Integral via the Website or Client Portal without their parent's consent, we will use reasonable attempts to ensure that this information is deleted from our system. 
+We intend the Technology Products to be used only by adults.  We do not collect any personally identifiable information via the Technology.  If we discover that a child under the age of 13 has supplied personally identifiable information to us via the Technology without his/her parent’s consent, we will use reasonable attempts to ensure that this information is deleted from our system.
 
 **Disclosure of Information by Integral**
 
-Integral generally does not sell, distribute or disclose your personally identifiable information collected from the Website to third parties without your consent. However, we may release information to a third party if required by a legal process such as a subpoena or a search warrant.  Moreover, Integral may share certain information with trusted third-party partners. These third party contractors are prohibited from using the information for purposes other than performing services for Integral. Finally, Integral may transfer any information that we have, including any personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+As mentioned above, we use the information collected via the Technology in order to provide our Technology Products to our clients, and we may share this information with our clients to help them ensure compliance and verification in their online advertising campaigns and for analytics, ad delivery and reporting and targeting purposes.
+
+We may also use and/or share such information as described below:
+
+  * We may employ other companies and individuals to perform functions on our behalf.  Examples may include providing technical assistance and hosting services.  These other companies will have access to such information only as necessary to perform their functions and to the extent permitted by law.
+  * In an ongoing effort to better understand our products and services, we may analyze such information in aggregate form in order to operate, maintain, manage, and improve our products and services.  This aggregate information does not identify you personally.  We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and services to current and prospective business partners and to other third parties for other lawful purposes.
+  * We may share some or all of such information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us.
+  * As we develop our businesses, we might sell or buy businesses or assets.  In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, such information may be part of the transferred assets.
+  * To the extent permitted by law, we may also disclose such information: (i) when required by law, court order, or other government or law enforcement authority or regulatory agency; or (ii) whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights, property, or safety of us or others.
+
+
 
 **Changes to Our Privacy Policy**
 
-Integral may change and update this Privacy Policy, including materially changing the use made of personal information described herein. Any change or update to our privacy policy will be posted on our Website under "Privacy Policy" at least 30 days prior to their implementation. Your continued use of the Website after the effective date of any changes will constitute your acceptance of all of the changes.
+Integral may change and update this Privacy Policy at any time. Any change or update to this Privacy Policy will be posted on our Website under “Privacy Policy” at least 30 days prior to implementation. Your continued use of the Technology Product(s) after the effective date of any changes will constitute your acceptance of all of the changes.
 
 **Contacting Us**
 
-If you have questions regarding our privacy practices, please submit a privacy inquiry or send us an email at [privacy@integralads.com](mailto:privacy@integralads.com?subject=%22Integral_Privacy%22). 
+If you have questions regarding our privacy practices, please submit a privacy inquiry or send us an email at [privacy@integralads.com](mailto:privacy@integralads.com).
 
 **Miscellaneous**
 
-This Policy and any issue or dispute regarding privacy concerns will be governed by and interpreted in accordance with the laws of the State of New York, without regard to the choice of law provisions. The Website is intended for visitors who are located in the United States of America, and this Privacy Policy shall be interpreted under the laws of the United States.
+This Privacy Policy is incorporated by reference into our Terms of Use. The Technology and our servers are operated in the United States.  If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States.  By using the Technology, you consent to this transfer and our use of the information collected via the Technology in accordance with this Privacy Policy.
 
-_Updated October 15, 2013._
+_Updated June 30, 2014._
