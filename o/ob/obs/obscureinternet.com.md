@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the obscureinternet.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210000101id_/http%3A//obsoletegamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obscureinternet.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217091341id_/http%3A//obsoletegamer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Obsolete Gamer
+# Privacy Policy - Obsolete Gamer Obsolete Gamer
 
 **What information do we collect?**
 
@@ -56,3 +56,15 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 www.obsoletegamer.com  
 jalaraque@obsoletegamer.com
+
+Share the OG Nation!
+
+  * 
+
+
+  *   *   *   *   *   * 
+
+
+#### About 
+
+J.A. Laraque is a freelance writer and novelist. His passion for writing mixed with a comedic style and intelligent commentary has brought him success in his various endeavors. Whatever the subject, J.A. has an opinion on it and will present it in writing with an insight and flair that is both refreshing and informative.
