@@ -1,159 +1,266 @@
-> *The following text is extracted and transformed from the unigo.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215023722id_/http%3A//www.unigo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unigo.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217031732id_/https%3A//www.unigo.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Unigo
 
-This Privacy Policy ("Privacy Policy") governs your use of www.unigo.com, and our other Web Sites on which this Privacy Policy is posted (the "Web Sites"), and explains, in general, what Personal Information (as defined below) and other information is collected on the Web Sites, how the information is used, and with whom we may share such information. Unigo, LLC is referred to in this Privacy Policy as "Unigo," "Company," "we," "us," "our," or other similar pronouns. The terms "you" and "User" refer to anyone who uses or visits the Web Sites in any capacity, including but not limited to a Member or Counselor as defined in the Terms of Use or a user of the Web Site. 
+###### Last modified: July 24, 2014
 
-By visiting the Web Sites, and/or by using the services available on the Web Sites, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy hereby incorporates by reference all terms, conditions, policies and guidelines on the Website, including the Web Site Terms and Conditions, which also governs your use of the Web Sites in general.
+This website, and portions of other webpages or web content through which you have accessed this Privacy Notice (collectively, this "Website"), is owned and operated by EDPlus Holdings, LLC, doing business as Unigo Group (hereafter referred to as "we," "us," "our" or "Unigo"). For a list of Unigo's divisions or lines of business and websites (collectively, the "Unigo Businesses"), please refer to the Unigo Businesses section below.
 
-The Web Sites are intended for Users who are located in the United States of America. This Privacy Policy shall be interpreted under the laws of the United States. 
+We want you to understand what information we gather from or about you, how we use it and the safeguards we have in place to protect it. Except in cases where alternative or additional information practices and privacy policies apply, this Privacy Notice applies to information collected through this Website and as otherwise specified in this Privacy Notice. See the Privacy Notice Scope section for more information.
 
-By submitting Personal Information through the Web Site, you expressly consent to the processing of your Personal Information according to this Privacy Policy. Your Personal Information may be processed by Unigo in the country where it was collected, as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.
+Your use of this Website and our services, and any disputes arising from it, are subject to this Privacy Notice and this Websites' [Terms of Use](https://web.archive.org/terms.aspx) and all of its dispute resolution provisions, including arbitration, limitation on damages and choice of law.
 
-This Privacy Policy does not apply to information that you may provide to us, or that we may obtain, through sources other than our Web Sites, such as by phone, through postal mail and through other live and print media, including without limitation, information obtained from or provided to us by third parties.
+Please read this Privacy Notice and the Terms of Use carefully to understand our policies and practices regarding your personal information and how we will treat it. 
 
-**You may opt in or opt out of our sharing of your personal information with third parties for marketing purposes by following the directions in the "Right to Opt In and Opt Out" section below.**
+By accessing, using or submitting information to this Website, you agree to this Privacy Notice and our Terms of Use. Read below about your choices with respect to the information you provide to us and how you can opt-out of certain disclosures or activities. Additional privacy rights applicable to California residents are provided below.
 
-Advertisements and other content which may be displayed or transmitted to you on or through the Web Sites may be customized to your, interests and preferences, based on your Personal Information and Web Site Usage Information (each term as defined in greater detail below), including (but not limited to) non-personally identifying information, which we may obtain from you or from other sources.
+Unigo Businesses, doing business as Unigo Group, include, without limitation: [Unigo](https://web.archive.org/), [Scholarship Experts](https://www.scholarshipexperts.com/), [Campus Discovery](http://www.campusdiscovery.com/), [SchoolBound](http://www.schoolbound.com/), and [eStudentLoan](http://www.estudentloan.com/). We may change, remove or add a Unigo Business in our discretion and without notice to you.
 
-## Purpose
+  * Children's Personal Information
+  * Information We Collect About You
+  * User Contributions
+  * Automatic Information Collection Technologies and Website Usage Information
+  * Third Party Advertisers and Interest-Based Ads
+  * Links to Third Party Websites and Social Media Widgets
+  * How We Use Your Information
+  * Disclosure of Your Information
+  * Special Notice to California Residents - Your California Privacy Rights
+  * Your Choices About Use and Disclosure of Your Information
+  * Accessing and Correcting Your Information
+  * Protection of Your Information
+  * Visiting this Website from Outside the United States
+  * Changes to this Privacy Notice
+  * Contacting Us
+  * Unigo Businesses
+  * Privacy Notice Scope
 
-Your privacy is important to us. In order to make your visits to our Web Sites and use of the services available through our Web Sites as worthwhile as possible, we may ask you for Personal Information and we may collect certain information from your computer each time you visit the Web Sites. "Personal Information" includes, for example, your name; home and/or business address; e-mail address; telephone, wireless and/or fax number; short message service or text message address or other wireless device address; instant messaging address; credit card and other payment information; demographic information, educational and scholastic information and/or other information that may identify you as an individual or allow online or offline contact with you as an individual.
 
-## What Information is Collected on the Web Sites?
 
-### User-Provided Information
+* * *
 
-#### User Information
+### Children's Personal Information
 
-We collect Personal Information from Users of our Web Sites, for example, through such Users' activities, transactions and completion of online forms on our Web Sites. Such information may be collected, for example, when Users create profiles, register or subscribe for accounts or features on our Web Sites, enter into online transactions, complete surveys, provide college reviews, respond to polls, input information into our interactive programming features such as our interactive calendar and search engine, submit content, including without limitation, media files, photos, videos, documents or other information to the Web Sites, contribute to a chat room, list serve, blog or other open forum or community feature that we may make available on our Web Sites, submit a comment or question to us using a "contact us" or similar feature on our Web Sites, send us an e-mail, view web pages, advertisements or file attachments, or in any other way submit Personal Information to us via our Web Sites. 
+**This Website is not intended for children under 13 years of age**. We do not knowingly collect personal information from children under 13.
 
-You may be able to send information about our products and services to your friends and family members through our Web Sites by clicking on an E-mail to Friend or similar button on our Web Sites or in an e-mail that we have sent you. In some of these cases (unless you simply forward our e-mail on your own), you may be able to provide the name and e-mail address of your friend or family member to us. If you have a Gmail account and have given us permission to access your Gmail address book to make suggestions about friends or family members you may want to send such messages to, you understand that Unigo may access your Gmail account address book for such purposes. Such information will be treated in accordance with this Privacy Policy and applicable law.
+In the event that we learn that we have collected personal information from a child younger than 13 years old, we will delete that information and terminate the child's account (if any). If you believe that a child under the age of 13 has provided us with personal information without verification of parental consent, please contact us at [privacy@unigogroup.com](mailto:privacy@unigogroup.com). 
 
-#### Registration Information
+return to top
 
-If you register as a Member or a Counselor using Unigo, we collect and store Personal Information that specifically identifies you or your account. At this time, the most information you would be required to submit is your first name, last name, User ID, password, street address, city, state, zip code, country, phone number, email address and valid financial Account information. Other information requested in the registration form is optional, and may be used to help us to tailor our services to you in the Site and deliver personalized information to you.
+### Information We Collect About You
 
-Credit card or other financial Account information is transmitted via SSL ("Secure Socket Layer") encryption for your protection.
+Depending which of our websites and services you are visiting or using, we collect and may collect several types of information from and about you, including information that can personally identify you, such as your name, postal address, e-mail address, telephone number, mobile number, fax number, short message service or text message address or other wireless device address, instant messaging address, credit card and other payment information, and social security number, as well as demographic information, education and scholastic information and any transaction you conduct or submit to on or through this Website, and any other information that would allow online or offline contact with you as an individual (collectively, "Personal Information").
 
-Without your agreement or consent, we will not share, rent or sell any Personal information with third parties in any way other than what is disclosed in this Privacy Policy.
+We also collect Website Usage Information (as defined below) and other information from and about you in a way that does not personally identify you or would allow online or offline contact with you as an individual ("Non-Personally Identifiable Information" or "Non-PII"). Non-PII, and in most instances, Website Usage Information (as defined below), by themselves, do not personally identify you or allow you to be personally contacted, but they can be combined with other information in a way that allows you to be identified or personally contacted. If this happens, we will treat the combined information as Personal Information.
 
-#### Unigo Account Transaction Payment
+We may also collect or collect and store information that you provide to us about other people (such as family members or co-borrowers in the case of www.estudentloan.com), including their name, postal address, telephone number, mobile number, and e-mail address for purposes of fulfilling the purposes for which you provide such information.
 
-Unigo requires you as a Member to pay with a credit card, debit card or PayPal. Consequently, Unigo will collect your credit card number and/or other entered financial institution information such as bank account numbers or PayPal email ID and will use that information to process financial transactions incurred at the Web Site and/or to perform the billing operation on behalf of the Counselor, including but not limited to the use and disclosure of such credit card information to third parties as necessary to complete such billing operation. Verification of credit card information, however, is accomplished solely by the User through the authentication process.
+We may collect information from or about you in the following ways:
 
-### Web Site Usage Information
+  * **Information Provided by You.** We collect information provided by you when you (1) inquire about or obtain our services or products; (2) communicate with us or request information about or from us, whether via e-mail or other means; (3) fill out forms or fields on this Website; (4) register as a user or sign-up for any of our newsletters, materials or services through this Website; (5) enter into online transactions; (6) create profiles; (7) provide college reviews or participate in our online surveys or questionnaires; (8) input information into our interactive programming features or participate in our online forums; (9) participate in any of our marketing initiatives, including contests, scholarship offers, events, or promotions; and (10) post to this Website or provide user-generated content or submissions to us, including without limitation media files, photos, videos, documents or other information, and contributions to a chat room, list serve, blog, or other open forum or community feature that we make available on this Website ("User Contributions").
 
-#### Cookies
+  * **Information from Other Sources.** We may collect information about you from other third party or public sources, such as from public forums, social networks (i.e., Facebook, LinkedIn, Twitter, or others), blogs, other users, or our business partners.
 
-We may use "cookies" to keep, and sometimes track, information about you. Cookies are small data files that are sent to your browser or related software from a Web server and stored on your computer's hard drive. Cookies track where you travel on our Web Sites and what you look at and purchase. They may store your username and/or password. A cookie may enable us to relate your use of our Web Sites to other information about you, including your Personal Information. All of these purposes serve to improve and personalize your experience on our Web Sites. Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Sites or certain areas or features of the Web Sites.
+  * **Automatic Information Collection.** We and our service providers use automatic data collection technologies to collect and store Website Usage Information (as defined below). We also may allow third party advertising companies and ad networks to use automaic data collection technologies to collect Website Usage Information for purposes of providing interest based ads. See the Automatic Information Collection Technologies and Website Usage Information and the Third Party Advertisers and Interest-Based Ads sections for more information.
 
-#### Clear GIFs
 
-We may use "clear GIFs" (aka "Web beacons" or "pixel tags") or similar technologies, in the Web Sites and/or in our communications with you to enable us to know whether you have visited a Web page or received a message. A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a Web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual's viewing or receipt of a Web page or message. A clear GIF may enable us to relate your viewing or receipt of a Web page or message to other information about you, including your Personal Information.
+return to top
 
-IP Address and Clickstream Data 
+### User Contributions
 
-Our servers automatically collect data about your server's Internet address when you visit us. This information is known as an IP Address, and is a number that's automatically assigned to your computer by your Internet service provider. When you request pages from our Web Sites, our servers may log your IP Address and sometimes your domain name. Our servers may also record the referring page that linked you to us (e.g., another Web site or a search engine); the pages you visit on our Web Sites; the Web site you visit after our Web Sites; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on our Web Sites or a referral site; and other Web usage activity and data logged by our Web servers. We use this information for internal system administration, to help diagnose problems with our server, and to administer our Web Sites. Such information may also be used to gather broad demographic information, such as country of origin and Internet Service Provider. We may also link this information with your Personal Information.
+This Website may contain public areas, forums, or features that allow you to provide your User Contributions to be published or displayed or transmitted to other users of this Website. Your User Contributions are posted on this Website and transmitted to others at your own risk. For this reason, we recommend that you do not include any sensitive or personally identifiable information about yourself or others in your User Contributions for these areas of this Website. Please see our [Terms of Use](https://web.archive.org/terms.aspx) for more information concerning User Contributions.
 
-Any or all of these activities with regard to Web Site Usage Information may be performed on our behalf by our services providers.
+return to top
 
-#### How is Personal Information Used?
+### Automatic Information Collection Technologies and Website Usage Information
 
-We will use the Personal Information you provide to our Web Sites, for example, to respond to your requests and to provide you with our services and features. We may also use your Personal Information to maintain our internal record keeping. We may match information collected from you through different means or at different times, including both Personal Information and Web Site Usage Information, and use such information along with information obtained from other sources, including third parties. 
+We and our service providers automatically collect "Website Usage Information" from or about you, such as information about your computer or mobile device, IP address, web browser, computer or device platform, related software and settings you are using, browsing actions and patterns, the referring page that linked you to us and the website you visit after this Website, and other usage activity on this Website. Collection of Website Usage Information helps us to improve this Website and to deliver a better and more personalized service by enabling us to, among other things: (1) estimate our audience size and usage patterns; (2) store information about your preferences, allowing us to customize this Website according to your individual interests; (3) speed up your searches; and (4) recognize you when you return to this Website.
 
-In addition, we may send you notices (for example, in the form of e-mails, mailings and the like) and otherwise correspond with you, about products, services, companies and events, sponsored by us and others, that we think might interest you. You may opt out of receiving such correspondence by following the instructions in the Right to Opt In and Opt Out section.
+The automatic collection technologies we and our service providers may use for this automatic information collection include:
 
-We may analyze user behavior as a measure of interest in, and use of, our Web Site and e-mails, both on an individual basis and in the aggregate.
+  * **Cookies (or browser cookies).** A cookie is a small data file that is sent to your browser or related software and stored on your computer's hard drive when you visit a website. Generally, cookies can track what you look at and where you travel on websites and what transactions you make. They can also store Personal Information about you, including your username and password. A "session cookie" expires immediately when you end your browsing session with the particular website. A "persistent cookie" stores information on your hard drive so when you end your browsing session and return to the same website later, the cookie information is still available. This Website may use both types of cookies. 
 
-## Do We Share Personal Information and Web Site Usage Information With Others?
+  * **Flash Cookies.** Certain features of this Website may use locally stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on this Website. 
 
-### Public Forums & Submitted Content
+  * **Web Beacons.** Pages of this Website and any e-mails we send to you may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit us, for example, to count users who have visited those pages or opened our e-mails and for other related website analytics (e.g., recording the popularity of certain website content and verifying system and server integrity). 
 
-When you contribute to a public area or similar feature of our Web Sites, such as a chat room, bulletin board, survey, list serve, blog, wiki or other open forum that we may make available on or through our Web Sites, or when you contribute content to any of our Web Sites, the information that you submit may be made available to other Users of the Web Sites as well as the general public. For this reason, we recommend that you do not include any sensitive information on, or in your submissions to, these areas of our Web Sites, including, for example, your full name, home address, phone number, social security number, financial information or other information that would enable other Users to locate you.
 
-### Private Chat Room
 
-The Private Chat Room area of the Web Site is for the benefit of Member(s) who purchased service from Counselor. The Private Chat Room areas of the Web Site facilitate communication and the exchange and sharing of information between Member(s) and Counselor once Service has been purchased. The information contained in Private Chat Room shared between Member(s) and Counselor, including text, images, audio or video chats, is not used for any purposes other than to facilitate communication and the exchange of information between the parties involved. Unigo reserves the right to monitor communications in the Private Chat Room in order to verify compliance with our Terms of Service, international, federal or state laws and/or our other stated policies.
 
-### User Profiles
+For more information about managing your privacy settings regarding automatic collection of Website Usage Information, see the Choices about How We Use and Disclose Your Information section.
 
-As part of registration, you may set up a Profile describing your qualifications and experience. After you become a Member or Counselor, you must create a Profile, and in order to create a Profile, you will be required to provide some information about yourself. You will not put any identifiable Personal Information on your Profile may be viewed by other registered Users. Unigo will not have any obligation under this Privacy Policy with respect to information in your Profile or information you voluntarily put on the Profile or provide to other Users via the Web Site. 
+return to top
 
-### Other Information
+### Third Party Advertisers and Interest-Based Ads
 
-You may provide Unigo information when you interact with us through email, online chat, or otherwise. We may retain such information in order to provide you with Services, including for diagnosing technical or billing issues.
+With the exception of certain of our webpages, services or features that may collect sensitive Personal Information such as financial information, we may permit third party advertising companies or ad networks to display third party advertisements on our websites and/or automatically collect Website Usage Information from our websites for purposes of determining your preferences and delivering interest-based advertising and content to you, whether for our products or services or other companies' products or services. 
 
-### Third-Party Offers
+These third party advertisers may combine the Website Usage Information with Personal Information you directly submit to them or that they receive from other sources, or the Website Usage Information they collect may include information that could allow someone to specifically contact you online without necessarily knowing your identity. We do not have access to or control over the automatic collection technologies that these third party advertisers may use, and the information practices of these third party advertisers are subject to these parties' respective privacy policies, not this Privacy Notice. 
 
-We may provide visitors an opportunity to receive offers from other entities, including, without limitation, institutions of higher education and promotional partners, who have services, products and offers that we think might be of interest to you. Unless you elect not to receive such offers by following the instructions in the Right to Opt In and Opt Out section above, we may provide your Personal Information to these entities so that they may send you these offers. If you change your mind and no longer want us to share your Personal Information with these types of third parties, follow the instructions to opt out in the Right to Opt In and Opt Out section above.
+You may want to receive interest-based ads for several reasons. Interest-based ads are helpful because they are more likely to be tailored to your particular interests. They are also more likely to help you discover new products and services that are actually relevant to you and your interests. Also if interest-based tracking is enabled, you likely will not see the same ads over and over because the number of times you see a particular interest-based ad is usually limited. By opting-out of interest-based ads, you lose all of these benefits. If you would like more information about opting-out of interest-based ads or would like to opt-out, see the Choices about How We Use and Disclose Your Information section or visit the opt-out pages of the [Network Advertising Initiative ("NAI")](http://www.networkadvertising.org/managing/opt_out.asp) and [Digital Advertising Alliance ("DAA")](http://www.aboutads.info/choices). We follow the DAA's Self-Regulatory Principles for Online Behavioral Advertising. 
 
-Co-sponsored Contests, Sweepstakes and Offerings 
+return to top
 
-We may offer contests, sweepstakes and other offerings (including, for example, scholarship opportunities) on our Web Sites, some of which may be operated by or co-sponsored with another company. In those situations, unless you give your information to that other company directly, the information we may obtain from you in connection with such contest, sweepstake or offering may be shared with our sponsor and other third parties, unless you instruct us not to by following the instructions in the Right to Opt In and Opt Out section above. In those situations, such other companies or our co-sponsors may have the right to use your information for their own purposes, in accordance with their own policies. We are not responsible for how such other companies or our co-sponsors may use your information. In certain cases, if you do not allow us to share your information with third parties for their direct marketing purposes, you may not be eligible to participate in certain contests or offerings.
+### Links to Third Party Websites and Social Media Widgets
 
-### Service Providers
+This Website and all electronic communications sent in connection with this Website, may contain links to other websites that are owned and operated by third parties. Links to third parties from this Website are not an endorsement by us of such third parties, or their websites, products, services, or practices. We do not control, and are not responsible for, the privacy and security practices of these third parties. We recommend that you review the privacy and security policies of these third parties to determine how they handle information they may collect from or about you.
 
-We may use third-party partners to help operate or promote our Web Sites and deliver our products and services, and may share your information with our affiliates, service providers and other third parties that provide products or services for or through the Web Sites or for our business (such as Web site or database hosting companies, address list hosting companies, e-mail service providers, analytics companies, distribution companies, fulfillment companies, licensees of our data and other similar service providers that use such information on our behalf).
+This Website may also include social media features, such as the Facebook Like button, Google Plus, and Twitter widgets. These features may collect information about your IP address and which page you are visiting on this Website, and they may set a cookie to make sure the feature functions properly. Your interactions with these features and the information from or about you collected by them are governed by the privacy policies of the companies that provide them. 
 
-### Aggregate Statistics
+return to top
 
-We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Web Sites and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual User.
+### How We Use Your Information
 
-### Legally Compelled Disclosures
+We use your information, including any Personal Information, to:
 
-We may disclose User information (which may include Personal Information) to government authorities, and to other third parties when compelled to do so by government authorities, at our discretion, or otherwise as required or permitted by law, including but not limited to in response to court orders and subpoenas. We also may disclose User information when we have reason to believe that someone is causing injury to or interference with our rights or property, other Users of the Web Sites, or anyone else that could be harmed by such activities.
+  * Provide products and services requested by you;
 
-### Business Transfers
+  * Provide customer support, including responding to your requests and questions and troubleshooting and resolving problems or complaints;
 
-In the event that we, or substantially all of our assets, are acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, Personal Information may be one of the transferred assets.
+  * Verify the information you provide to us;
 
-### Third-Party Ad Servers
+  * Communicate with you;
 
-We may use third-party advertising companies to serve ads when you visit our Web Sites. These companies may use information about you and your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. These companies also may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your Web Site Usage Information or Personal Information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the Network Advertising Initiative's consumer Web site at http://www.networkadvertising.org/consumer/.
+  * Understand and anticipate your use of or interest in, our products, services, and content, and the products, services, and content offered by others;
 
-### Accessing and Correcting Your Information 
+  * Develop and display products, services, and content tailored to your interests on our websites and other websites;
 
-You may be able to review and/or correct the Personal Information (not necessarily including any content or reviews that you have submitted to the Web Sites) that is stored in your user account that you may have created on our Web Sites, and, if applicable, you may be able to do so by visiting a "My Account" or similar area of your account on the Web Sites. Before we are able to provide you with any information, correct any inaccuracies or delete any information, however, we may ask you to verify your identity and to provide other details to help us to respond to your request.
+  * Measure the overall effectiveness of our online advertising, content, and programming, and other activities;
 
-### Security
+  * Offer you personalized information and products, services, promotions, contests, or scholarships of ours, our affiliates, or our third party business partners that may be of interest to you;
 
-We endeavor to protect the security and integrity of all sensitive Personal Information provided to us via our Web Sites. We will use commercially reasonable methods to keep Personal Information securely in our files and systems. Our Payment System is operated using secure Internet connections, using SSL (Secure Sockets Layer) encryption, to help protect your financial data. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers. 
+  * Manage our business and operations;
 
-If you contact us by e-mail or a "contact us" or similar feature on our Web Sites, you should be aware that your transmission might not be secure. A third party could view information you send by these methods in transit.
+  * Protect the security and integrity of this Website;
 
-Upon registration, you may be able to create an account on our Web Sites with a username and password. If so, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any access to or use of the Web Sites by you or any person or entity using your password, whether or not such access or use has been authorized by or on behalf of you. You agree to immediately notify us of any unauthorized use of your password or account or any other breach of security. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision, nor will we have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+  * Carry out our obligations and enforce our rights arising from this Privacy Notice, the Terms of Use and any other applicable agreements and policies;
 
-In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, if we have your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification. If you prefer for us to use another method to notify you in this situation, please e-mail us at privacy@unigo.com with the alternative contact information you wish to be used.
+  * Use or post User Contributions as permitted in our Terms of Use; and
 
-### Regarding Children Under 13
+  * Fulfill any other purposes for which you provide your information and for any other purpose as described to you at the time your information is collected or for which your consent is given.
 
-We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Web Site or send any information about yourself to us, including your name, address, telephone number or e-mail address. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy@unigo.com.
 
-### Terminating Your Membership.
+return to top
 
-We save your Personal Information until your membership with us is terminated. To terminate your membership, contact us at contact@unigo.com. If you terminate your membership, your Personal Information cannot be recovered. You may continue to receive email communications for a short period of time until we have updated all of our databases. After termination of your membership, your Personal Information may remain on our archived database and records. Notwithstanding the above, we will maintain information on Users who have been removed for violating our Terms and Conditions.
+### Disclosure of Your Information
 
-### Consent to Processing
+We may disclose and share anonymized or aggregated information about you (information that does not directly and personally identify you) or any other of your Non-PII at our discretion.
 
-By providing Personal Information to our Web Sites, you understand and consent to the collection, maintenance, processing and transfer of such information in and to the United States and other countries and territories.
+We may disclose or share other information from or about you, including your Personal Information, as follows: 
 
-### Third-Party "Linked-To" Web Sites
+  * With any Unigo Businesses for support of our internal and business operations, for cross-marketing purposes, or in connection with a request made by you or your opt-in or consent. However, unless you are otherwise first given notice, the evaluation of any request or application by you for any of our products or services offered through our websites will be based on the information you specifically submit to obtain such product or service and not any other information you may submit to us for other purposes or for other products or services we may offer (except for your sign-in, basic account registration information, and any other information that we may pre-populate on your request or application form for your convenience). Refer to the Unigo Businesses section below to see a list of all Unigo Businesses. 
 
-When you are on our Web Sites you may have the opportunity to visit, or link to, other sites not operated by us. These sites may collect Personal Information from and about you. Unigo does not control such web sites and is not responsible for the privacy and information practices of these sites. This Privacy Policy does not address the privacy and information practices of those other Web sites. 
+  * With our affiliated companies (i.e., companies that control, are controlled by, or are under common control with us).
 
-### Right to Opt In and Opt Out 
+  * With our non-affiliated third party business partners, service providers, and vendors to enable them to assist us in providing you the products or services you request through this Website or to provide us with support for our internal and business operations, such as data processing, data storage, research, analytics, web hosting, marketing, and delivery of promotional or transactional materials.
 
-You may have the right and opportunity on the Web Sites to opt in and opt out of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on the Web Sites, we may provide you with the opportunity to elect to, or elect not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities for their marketing purposes. You also may be able to make these requests by adjusting your marketing preferences in your Web Site account, if such an account is available on the Web Site you are visiting. You will also be able to opt out of Company's promotional e-mails by clicking on an opt-out link within the e-mail you receive.
+  * With other non-affiliated companies, parties, or organizations when you engage in certain activities through this Website or our services that are sponsored or provided by them, such as requesting or purchasing products or services offered by these third parties, electing to receive information or communications from them, or electing to participate in contests, sweepstakes, games, scholarships, or other programs sponsored or provided by these third parties, in whole or in part. When we disclose your information to these third parties, your information will become subject to the information use and sharing practices of these third parties, and these third parties will not be restricted by this Privacy Notice with respect to their use and further sharing of your information.
 
-Please understand that if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly.
+  * With non-affiliated third parties that are interested in contacting you or providing offers to you that may be related to our products or services or about other products or services you may find interesting. To opt-out of our sharing of your information with such third parties, see the Choices about How We Use and Disclose Your Information section. 
 
-### Changes to this Privacy Policy
+  * Elsewhere at your direction or request. For example, through [http://www.unigo.com](http://www.unigo.com/), we share your name and contact information with schools, to which you request us to introduce you, and through any refer-a-friend or email-a-friend function offered on this Website, we may share your name and e-mail address with any person to whom you request that we send such e-mail.
 
-We reserve the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify Users of our Web Sites by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to the Web Sites. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web Sites or sending you an e-mail. 
+  * With any person who, in our reasonable judgment, is authorized to receive your information, such as your agent, attorney, parent, legal guardian, or co-signor of a loan application.
 
-### Contact Us
+  * We may disclose information we collect from or about you when we believe disclosure is appropriate to comply with the law, to enforce or apply applicable terms and conditions and other agreements, or to protect the rights, property, or safety of our company, our affiliates, our other customers or users of this Website, or others.
 
-If you have any questions or comments regarding our privacy practices, you may contact us at privacy@unigo.com, or at Unigo, LLC, 386 Park Avenue South, 15th Floor, New York, New York 10016. 
+  * If some or all of our business assets are sold or transferred, whether through a sale, acquisition, merger, consolidation, reorganization, bankruptcy, or other corporate change involving us and/or our affiliates, we may transfer the corresponding information regarding our customers and users of this Website, including Personal Information. We also may retain a copy of such information. Nothing in this Privacy Notice is intended to interfere with our ability to transfer all or part of our business, equity interests, or assets (including this Website) to an affiliate or non-affiliated third party at any time, for any purpose, without any limitation, and without notice or any compensation to you, whatsoever.
 
-Last Updated: December 2, 2011
+
+return to top
+
+### Special Notice to California Residents - Your California Privacy Rights
+
+If you are a California resident and have provided your personally identifiable Personal Information to us, you may request a notice disclosing the categories of Personal Information we have shared with third parties for their direct marketing purposes during the preceding calendar year. To request a notice, your request must be submitted to us at [privacy@unigogroup.com](mailto:privacy@unigogroup.com) with the words "California Privacy Information Request" in the subject line, or by mail addressed to: Unigo Group, Attn: Customer Support - California Privacy Information Request, 5300 Meadows Road, Suite 400, Lake Oswego, OR 97035. 
+
+Your request must include the e-mail address or mailing address, as applicable, for us to send our response. These requests may be made no more than once per calendar year. 
+
+return to top
+
+### Your Choices About Use and Disclosure of Your Information
+
+We strive to provide you with choices regarding the Personal Information you provide to us. Below are some mechanisms that provide you with control over your information:
+
+* **Promotional E-mails.** If you do not wish to receive promotional e-mails from us, including our e-newsletters, contact us at [privacy@unigogroup.com](mailto:privacy@unigogroup.com) to opt-out or follow the unsubscribe process at the bottom of the promotional e-mail. Note that even if you opt-out, you may still receive transactional e-mails from us (e.g., e-mails related to the completion of your registration, correction of user data, password reset requests, reminder e-mails that you have requested, and any other similar communications essential to your transactions on or made through this Website). 
+
+* **Telephone Calls.** If you do not wish to receive promotional telephone calls, contact us at [privacy@unigogroup.com](mailto:privacy@unigogroup.com) to opt-out. This opt-out does not apply to any informational telephone calls. 
+
+* **Automatic Information Collection Technologies and Advertising.** Our systems currently recognize "do not track" signals from your browser. In addition, the "help" function of your browser should contain instructions on how to set your browser to not accept new cookies, to notify you when a cookie is issued, or how to disable cookies altogether. If Flash cookies are used on this Website, you can manage your Flash cookie settings, by visiting the [Flash player settings page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) on Adobe's website. If you disable or refuse cookies, please note that some parts of this Website may be inaccessible or not function properly.
+
+* **Third Party Interest-Based Ads.** We do not control third parties' collection or use of your information to serve interest-based ads. However, you can opt-out of receiving interest-based ads from third party advertisers and ad networks who are members of the NAI or who follow the DAA's Self-Regulatory Principles for Online Behavioral Advertising by visiting the [NAI](http://www.networkadvertising.org/managing/opt_out.asp) and [DAA](http://www.aboutads.info/choices) websites. If you opt-out, you may still see contextual advertising from us, meaning you may still see personalized recommendations about our products and services and other similar features on this Website. You may also still see ads provided by us or others on other third party websites; they just will not be based on your particular interests. Also note that your opt-out will be managed through the use of cookies, so if you delete these cookies or use a different browser or computer, you will have to make this same election again.
+
+* **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your Personal Information with non-affiliated third parties for promotional purposes (i.e., do not opt-out) concerning such information sharing on this Website's registration page contact us at [privacy@unigogroup.com](mailto:privacy@unigogroup.com) to opt-out. You can also always opt-out by logging into this Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes. However, any subsequent opt-out request will only apply from the date of your request, and we will not be responsible for any communications that you may receive from third parties who received your Personal Information prior to your request. In these cases, please contact the third parties directly.
+
+return to top
+
+### Accessing and Correcting Your Information
+
+The appropriate method(s) for accessing your information, if any, will depend on which of our websites and services you have visited or used. Depending on the website and service, you may have the ability to view or edit some of your information online, by logging into the website and visiting your account profile page. You may also contact us at [privacy@unigogroup.com](mailto:privacy@unigogroup.com) to request access to, correct, or delete any Personal Information that you have provided to us; however, we may ask you to verify your identity and provide other details to help us to respond to your request. 
+
+We cannot delete your Personal Information except by also deleting your user account. Once your user account is deleted, it cannot be recovered. We also may not accommodate a request to change or delete information if we believe the change would violate any law or legal requirements, be contrary to our Terms of Use or any other applicable agreement between you and us, or cause the information to be incorrect. After deletion of your user account, your Personal Information may remain on our archived database and records. 
+
+Also, if you delete or request the deletion of your User Contributions from this Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied, stored, or reposted to another website by other users of this Website. 
+
+return to top
+
+### Protection of Your Information
+
+We use reasonable security measures to protect your information collected through this Website. However, no method of transmission or electronic storage is 100% effective, and we cannot guarantee absolute security. Therefore, your use of this Website is at your own risk and we do not promise or guarantee, and you should not expect, that your information will always and absolutely remain private and secure. We are not responsible for the circumvention of any privacy settings or security measures contained on or concerning this Website. You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+
+In the unlikely event that we believe that the security of your Personal Information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, if we have your e-mail address, we may notify you by e-mail. **You consent to our use of e-mail as a means of such notification. If you prefer for us to use another method to notify you in this situation, please e-mail us at[support@unigogroup.com](mailto:support@unigogroup.com) with the alternative contact information you wish to be used.**
+
+return to top
+
+### Visiting this Website from Outside the United States
+
+This Website is operated in the United States is not intended for international users. This Privacy Notice is intended to cover the collection of information on this Website from residents of the United States. If you are visiting this Website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States and other countries and territories. The information protection laws of the United States and the other countries and territories might not be as comprehensive or protective as those in your country. By using this Website and our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Notice. We make no claim that this Website may be lawfully viewed or used outside of the United States.
+
+return to top
+
+### Changes to this Privacy Notice
+
+We may update or amend this Privacy Notice at any time. This Privacy Notice will reflect the date it was last updated or amended. If we make any material amendments, we will notify you by posting a notice of the updated or amended Privacy Notice on this Website. All amendments will take effect immediately upon our posting of the updated Privacy Notice on this Website. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Notice by additional means, such as posting a notice on the homepage of this Website or sending you an e-mail. Please check this Privacy Notice each time you use this Website to ensure you are aware of any changes in our practices. Your continued use of this Website will indicate your acceptance of the changes to the Privacy Notice.
+
+return to top
+
+### Contacting Us
+
+If you have questions or concerns about this Privacy Notice, our information practices, or wish to make a request regarding your information, please contact us at any of the following: 
+
+Via postal mail: Unigo Group, Attn: Customer Support, 5300 Meadows Road, Suite 400, Lake Oswego, OR 97035
+
+Via e-mail: [privacy@unigogroup.com](mailto:privacy@unigogroup.com)
+
+return to top
+
+### Unigo Businesses
+
+Unigo Businesses, doing business as Unigo Group, include, without limitation: Unigo ([www.unigo.com](http://www.unigo.com/)), Scholarship Experts ([www.scholarshipexperts.com](http://www.scholarshipexperts.com/)), Campus Discovery ([www.campusdiscovery.com](http://www.campusdiscovery.com/)), and eStudentLoan ([www.estudentloan.com](http://www.estudentloan.com/)). We may change, remove or add a Unigo Business in our discretion and without notice to you.
+
+return to top
+
+### Privacy Notice Scope
+
+This Privacy Notice applies to all current and former customer and user personal information, except in cases where alternative or additional information practices and privacy policies apply, such as in connection with information collected by the following or provided for under:
+
+  * Unigo Return on Education™ (MyROE™) service offered through [www.unigo.com](http://www.unigo.com/). See [Unigo Return on Education™ Privacy Notice](https://web.archive.org/roeprivacy.aspx).
+
+  * eStudentLoan's products or services offered through [www.estudentloan.com](http://www.estudentloan.com/). See [eStudentLoan GLBA Privacy Notice](https://web.archive.org/glbaprivacy.aspx).
+
+  * Any of our products or services for which a separate privacy notice or terms apply, such as any contests, contest entries, contest awards, scholarship applications, and scholarship awards. See the official rules, terms and privacy notice (if applicable) that apply to the specific product or service being offered.
+
+
+
+
+This Privacy Notice also does not apply to:
+
+  * Other Unigo websites or online services (if any) that do not link to this Privacy Notice;
+
+  * Third party websites or features to which this Website may link; or
+
+  * Information collected by any non-affiliated third party, even if related to this Website or our services or products.
+
+
+return to top
+
+Last Updated: July 29, 2014  
+033552/00079/5181165v4
