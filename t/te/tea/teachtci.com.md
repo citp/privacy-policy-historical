@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503064857id_/http%3A//www.teachtci.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachtci.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218005857id_/http%3A//www.teachtci.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TCI
 
@@ -30,7 +30,7 @@ Like many websites, Teachers' Curriculum Institute collects personal information
 
 In general, you can visit this Website without telling us who you are or revealing any information about yourself. As part of the standard operation of our Website, we may passively collect certain non-personal information from you including, but not limited to, your browser type (e.g., Firefox or Internet Explorer), operating system (e.g., Windows or Macintosh), Internet Service Provider ("ISP"), IP address, web sites visited and the domain name from which you accessed the Website (e.g., yahoo.com). In addition, we may collect information about your browsing behavior, such as the date and time you visited our Website, the areas or pages of our Website that you visit, the amount of time spent viewing our Website, the number of times you return to our Website and other click-stream data. 
 
-Further, most websites use "cookies" and we may as well. A cookie is a bit of information (a small text file) that is stored on a visitor's hard drive and enables the server to recognize your computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of this Website. Cookies help us learn how groups of people use the Website, and help us collect information to track usage patterns, browsing behavior and assess web content and structure. We do not use cookies to obtain your name or any personal information.
+Further, most websites use "cookies" and we may as well. A cookie is a bit of information (a small text file) that is stored on a visitor's hard drive and enables the server to recognize your computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of this Website. Cookies help us learn how groups of people use the Website, and help us collect information to track usage patterns, browsing behavior and assess web content and structure. We do not use cookies to obtain your name or any personal information. TCI only uses cookies to support the internal operations of its website.
 
 You have the ability to accept or decline cookies. If you prefer not to accept cookies, you can set your web browser to reject them or to alert you before one is placed. The "help" segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie and how to erase cookies from a computer's hard drive.
 
@@ -40,11 +40,11 @@ Teachers' Curriculum Institute may engage third-party vendors to provide various
 
 ## Children's Privacy
 
-Teachers' Curriculum Institute complies with the Children's Online Privacy Protection Act ("COPPA"). COPPA requires that website operators never knowingly collect personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. We do not knowingly solicit or collect personal information from or about children. If we discover personal data from a child under the age of 13, we will eliminate that data.
+Teachers' Curriculum Institute complies with the Children's Online Privacy Protection Act ("COPPA"). COPPA requires that website operators never knowingly collect personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. We do not knowingly solicit or collect personal information from or about children. If we discover personal data from a child under the age of 13, we will eliminate that data. Under the 2013 revisions to COPPA, persistent identifiers like cookies may be considered personal information if they can trace users across sites and over time. TCI cookies are encrypted and cannot be recognized by any other website. TCI only uses cookies to support the internal operations of its website.
 
 ## Notice to School Districts, Teachers, other Purchasers and Parents
 
-Teachers' Curriculum Institute collects limited information from students accessing its websites, including students' first names, last initials, usernames and passwords. We offer access to children under 13 to this Website based upon the presumption that you, or any other party facilitating access to this Website by students, have obtained authorization for the storage and use by Teachers' Curriculum Institute of such students' information necessary to offer this Website, including, without limitation, parental consent to the collection of such information by Teachers' Curriculum Institute.
+Teachers' Curriculum Institute collects limited information from students accessing its websites, including students' first initials, last names, usernames and passwords. We offer access to children under 13 to this Website based upon the presumption that you, or any other party facilitating access to this Website by students, have obtained authorization for the storage and use by Teachers' Curriculum Institute of such students' information necessary to offer this Website, including, without limitation, parental consent to the collection of such information by Teachers' Curriculum Institute.
 
 ## Special Notice to Children
 
@@ -54,7 +54,7 @@ Ask your parent or guardian for permission before you send any personal informat
 
 ### Personal Information:
 
-The personal information that you provide to Teachers' Curriculum Institute may be stored, processed and used by Teachers' Curriculum Institute for the following purposes: (i) to respond to your comments, requests for information and inquiries; (ii) to help administer and protect the security or integrity of our Website, (iii) to process online purchases, (iv) to permit access and use by users of our web-based products and services, and (v) for our marketing and promotional purposes, including, without limitation, sending newsletters.
+The personal information that you provide to Teachers' Curriculum Institute may be stored, processed and used by Teachers' Curriculum Institute for the following purposes: (i) to respond to your comments, requests for information and inquiries; (ii) to help administer and protect the security or integrity of our Website, (iii) to process online purchases, (iv) to permit access and use by users of our web-based products and services, and (v) for our marketing and promotional purposes, including, without limitation, sending newsletters. Under the 2013 revisions to COPPA, persistent identifiers like cookies may be considered personal information if they can trace users across sites and over time. TCI cookies are encrypted and cannot be recognized by any other website. TCI only uses cookies to support the internal operations of its website and not for any marketing or promotional purposes.
 
 We will disclose your personal information only if you direct us to do so, or if we are required to do so as specified in more detail in "Disclosure Exceptions" below or for processing online purchases. We do not share, sell or lease personal information about you to any third parties for their marketing use.
 
@@ -62,7 +62,7 @@ You should be aware that any personal information that is voluntarily posted by 
 
 ### Non-personal Information:
 
-Information that we collect from you regarding your browser type, operating system, ISP, IP address, web sites visited and the domain name from which you accessed this Website is not used by us to personally identify you, but, instead, may be compiled and analyzed internally on an aggregated basis to measure our users' habits. This helps Teachers' Curriculum Institute measure the use of our Website, improve the content of our Website and to better understand and serve our users. 
+Information that we collect from you regarding your browser type, operating system, ISP, IP address, web sites visited and the domain name from which you accessed this Website is not used by us to personally identify you. Instead, this information may be compiled and analyzed internally on an aggregated basis to measure our users' habits for the sole purpose of supporting the operations of TCI's website. This information helps Teachers' Curriculum Institute measure the use of our Website, improve the content of our Website and to better understand and serve our users.
 
 ## Disclosure Exceptions
 
