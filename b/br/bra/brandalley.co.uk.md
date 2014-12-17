@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandalley.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114631id_/http%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandalley.co.uk privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217021840id_/http%3A//www.brandalley.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & cookies | BrandAlley
 
@@ -108,9 +108,9 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ### Third Parties
 
-We would like to share your information with companies whose products or services we think may interest you. They may contact you by email, mail or telephone to let you know about any goods, services or promotions, which may be of interest to you. We will always give you an option to opt out at the point where you give us your details. We will never supply your information to a third party for marketing purposes if you tell us not to.
+We would like to share your information with companies whose products or services we think may interest you. They may contact you by email, mail or telephone to let you know about any goods, services or promotions, which may be of interest to you. We will always give you an option to opt out at the point where you give us your details. We will never supply your information to a third party for marketing purposes if you tell us not to. By opting into relevant partner offers, you will be indicating your consent to receiving email, SMS, telephone and other marketing messages from us and our partners concerning finance, prize draws, travel, telecom, dating and other offers. You may unsubscribe from these messages at any time in the future.
 
-You may also exercise your right to opt out of the use of your information being supplied to a third party (delete comma) for marketing purposes at any time, by contacting us or by the methods explained in the section “Updating or deleting your personal information". 
+You may also exercise your right to opt out of the use of your information being supplied to a third party  for marketing purposes at any time, by contacting us or by the methods explained in the section “Updating or deleting your personal information". 
 
 ### Credit checks
 
