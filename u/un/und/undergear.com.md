@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undergear.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413130930id_/http%3A//undergear.com/on/demandware.store/Sites-undergear-Site/default/Page-Show%3Fcid%3Dug-privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergear.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217023129id_/http%3A//www.undergear.com/on/demandware.store/Sites-undergear-Site/default/Page-Show%3Fcid%3Dug-privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Undergear
 
@@ -93,7 +93,7 @@ If at any time you have a question or dispute concerning your visit here, your o
 
 To Residents of a European Union Member Country (EU Residents)—Re: The DMA Safe Harbor Program
 
-If you are an EU Resident, your personal data in the possession or control of Undergear® is subject to the United States-European Union Safe Harbor Privacy Principles, FAQ"s and other relevant EU documents (the "Safe Harbor"). Safe Harbor Privacy Principles are made available by the U.S. Department of Commerce on their website at <http://www.export.gov/about/eg_main_016803.asp>. FAQs and other relevant Safe Harbor documents are made available by the U.S. Department of Commerce on their website at <http://www.export.gov/safeharbor/>.
+Brawn, LLC complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. [Your organization’s name] has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Brawn, LLC’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/)
 
 If you are an EU Resident, in the event you are not satisfied with the resolution by Undergear® of any questions or complaints you may have regarding your personal data in our possession, then you may submit your questions and complaints to the Direct Marketing Association ("DMA") Safe Harbor Enforcement Program as follows: e-mail: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org "Link Opens An Email To Safe Harbor"); mail: Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW, Suite 1100, Washington, DC 20036, USA, Telecopier: 202-955-0085; Telephone: 202-861-2445.
 
