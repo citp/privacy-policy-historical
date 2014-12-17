@@ -1,57 +1,108 @@
-<!--The following is the downloaded HTML source of the moo.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628043615id_/http%3A//us.moo.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moo.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217083735id_/http%3A//ca.moo.com/about/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class="jsOn"><head>
-
+<!DOCTYPE html><html lang="en" class=" jsOn no-js"><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Privacy and Cookie Policy</title>
 
     
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+        
+            
+            
+        
+    
 
     
     
-    <script src="/libjs/boomerang-0.9.1366041404.js"></script><script type="text/javascript" async="" src="https://cdn.optimizely.com/js/14551493.js"></script><script type="text/javascript">
-        window._gaq = [];
-        window._maq = [];
-        window._gaqAdditionalParams = {};
+    <script type="text/javascript" async="" src="/bower_components/moo-toolkit/dist/javascript/toolkit-compiled.js?q=01acf95be98282ce0934e1106787e74a"></script><script type="text/javascript" async="" src="https://cdn.optimizely.com/js/14551493.js"></script><script type="text/javascript">
         window._gtmAdditionalParams = {};
         window.__MOO_CORE_TIMER = new Date();
-        document.documentElement.className = "jsOn";
+        document.documentElement.className = document.documentElement.className.replace( /(^|\s)jsOff(\s|$)/ , ' jsOn ' );
     </script>
 
+    <link rel="stylesheet" media="all" type="text/css" href="http://static4.moo.com/css/937f37b98e83ec70dd2edceded22db58dae1f1d1/compiled/core.css">
+<link rel="stylesheet" media="all" type="text/css" href="http://static1.moo.com/css/937f37b98e83ec70dd2edceded22db58dae1f1d1/compiled/core-components.css">
+<link rel="stylesheet" media="all" type="text/css" href="http://static7.moo.com/css/937f37b98e83ec70dd2edceded22db58dae1f1d1/toolkit.css">
+<link rel="stylesheet" media="all" type="text/css" href="http://static4.moo.com/css/937f37b98e83ec70dd2edceded22db58dae1f1d1/toolkit-aliases.css">
+<!--[if IE 8]><link rel="stylesheet" media="all" type="text/css" href="http://static1.moo.com/css/937f37b98e83ec70dd2edceded22db58dae1f1d1/compiled/ie/ie8.css" /><![endif]-->
+<!--[if IE 9]><link rel="stylesheet" media="all" type="text/css" href="http://static1.moo.com/css/937f37b98e83ec70dd2edceded22db58dae1f1d1/compiled/ie/ie9.css" /><![endif]-->
+<!--[if lt IE 8]><link rel="stylesheet" media="all" type="text/css" href="http://static1.moo.com/css/937f37b98e83ec70dd2edceded22db58dae1f1d1/ie/font-face-fix.css" /><![endif]-->
+<link rel="stylesheet" media="all" type="text/css" href="http://static4.moo.com/css/937f37b98e83ec70dd2edceded22db58dae1f1d1/core/live-chat.css">
+<link rel="stylesheet" media="all" type="text/css" href="http://static4.moo.com/css/937f37b98e83ec70dd2edceded22db58dae1f1d1/compiled/about.css">
     
-    
-    
+        
 
 
 
-<script type="text/javascript">
-   var accountName,
-        bAccountName,
-        pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js',
-        _gaq = _gaq || [];
 
-                    accountName = 'UA-66896-7';
-                            bAccountName = 'UA-66896-17';
-                    
-        // Make our own copy of analytics data
-        _gaq.push(['_setLocalRemoteServerMode']);
-        _gaq.push(['_setLocalGifPath', 'https://secure.moo.com/_mtm.png']);
 
-        // Enhanced link attribution
-        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-        _gaq.push(['b._require', 'inpage_linkid', pluginUrl]);
 
-        _gaq.push(['_setAccount', accountName], ['_setDomainName', '.moo.com'], ['_addIgnoredRef', 'moo.com'], ['b._setAccount', bAccountName], ['b._setDomainName', '.moo.com'], ['b._addIgnoredRef', 'moo.com']);
-</script>
+
+
+
 
     
+
+
     
-                	
+    
+	        
         <script type="text/javascript">
         
             (function() {
+                var EXPERIMENT_COOKIE_NAME = "MOO-Alt-Experiment",
+                // cookie goes on the general domain so it can be seen on secure.
+                    COOKIE_DOMAIN = document.location.host.replace(/^(uk|us|ca|au|eu|nl)/, ''),
+                    COOKIE_EXPIRES = 'Sat, 06 Sep 2014 00:00:00 +0000',
+                    mooE = window['optimizely'] = [];
+
+
+                // pull out the value of any mooExperiment cookie.
+                // from Quirksmode
+                var contents = decodeURIComponent((function readCookie(name) {
+                    var nameEQ = name + "=";
+                    var ca = document.cookie.split(';');
+                    for(var i=0;i < ca.length;i++) {
+                        var c = ca[i];
+                        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+                        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+                    }
+                    return null;
+                })(EXPERIMENT_COOKIE_NAME));
+
+                // list of { optimizelyExperimentId: x, optimizelyVariationId: y } objects.
+                var optimizelyExperiments = [],
+                    calls = [];
+
+                if (contents.match(/^mooE=(\d+):(\d+)/)) {
+                    // extract any moo experiment data.
+                    var mInfo = contents.match(/^mooE=(\d+):(\d+)/),
+
+                        experimentId = parseInt(mInfo[1], 10),
+                        variationId = parseInt(mInfo[2], 10);
+
+                    // check for optimizely data.
+                    if (contents.match(/\|o=(\d+):(\d+)/)) {
+                        var oInfo = contents.match(/\|o=(\d+):(\d+)/);
+                        optimizelyExperiments.push({
+                            optimizelyExperimentId: parseInt(oInfo[1], 10),
+                            optimizelyVariationId: parseInt(oInfo[2], 10)
+                        });
+                    }
+                }
+
+                for (var i=0; i < optimizelyExperiments.length; i++) {
+                    // activate experiments.
+                    var experiment = optimizelyExperiments[i];
+
+                    if (experiment.optimizelyExperimentId != 0 && experiment.optimizelyVariationid != 0) {
+                        mooE.push(['activate', experiment.optimizelyExperimentId]);
+                        mooE.push(['bucketVisitor', experiment.optimizelyExperimentId, experiment.optimizelyVariationId]);
+                    }
+                }
+
+                // load the snippet.
                 var optimizely = document.createElement('script'); optimizely.type = 'text/javascript';
                 optimizely.async = true;
                 optimizely.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.optimizely.com/js/14551493.js';
@@ -61,16 +112,16 @@
         </script>
 	
 
-    <script src="/libjs/tools/tools.min.js"></script>
+    <script src="/libjs/tools/tools.min.js?q=01acf95be98282ce0934e1106787e74a"></script>
 
     
-    <script type="text/javascript" src="http://static4.moo.com/javascript/compiled/jquery.js?q=fe7037109905a0055e5f9e7b73494eac" crossorigin=""></script>
-<!--[if lt IE 9]><script type="text/javascript" src="http://static3.moo.com/libjs/html5shiv.js?q=fe7037109905a0055e5f9e7b73494eac" crossorigin></script><![endif]-->
-<script type="text/javascript" src="http://static7.moo.com/javascript/compiled/error-handler.js?q=fe7037109905a0055e5f9e7b73494eac" crossorigin=""></script>
-<script type="text/javascript" src="http://static3.moo.com/libjs/require-config.js?q=fe7037109905a0055e5f9e7b73494eac" crossorigin=""></script>
-<script type="text/javascript" src="http://static4.moo.com/javascript/compiled/core.js?q=fe7037109905a0055e5f9e7b73494eac" crossorigin=""></script>
-<script type="text/javascript" src="http://static8.moo.com/en/javascript/strings.js?q=fe7037109905a0055e5f9e7b73494eac" crossorigin=""></script>
-<script type="text/javascript" src="http://static4.moo.com/javascript/compiled/signin.js?q=fe7037109905a0055e5f9e7b73494eac" crossorigin=""></script> 
+    <script type="text/javascript" src="http://static2.moo.com/javascript/compiled/jquery.js?q=01acf95be98282ce0934e1106787e74a" crossorigin=""></script>
+<!--[if lt IE 9]><script type="text/javascript" src="http://static3.moo.com/libjs/html5shiv.js?q=01acf95be98282ce0934e1106787e74a" crossorigin></script><![endif]-->
+<script type="text/javascript" src="http://static7.moo.com/javascript/compiled/error-handler.js?q=01acf95be98282ce0934e1106787e74a" crossorigin=""></script>
+<script type="text/javascript" src="http://static3.moo.com/libjs/require-config.js?q=01acf95be98282ce0934e1106787e74a" crossorigin=""></script>
+<script type="text/javascript" src="http://static2.moo.com/javascript/compiled/core.js?q=01acf95be98282ce0934e1106787e74a" crossorigin=""></script>
+<script type="text/javascript" src="http://static8.moo.com/en/javascript/strings.js?q=01acf95be98282ce0934e1106787e74a" crossorigin=""></script>
+<script type="text/javascript" src="http://static4.moo.com/javascript/compiled/signin.js?q=01acf95be98282ce0934e1106787e74a" crossorigin=""></script> 
     
         
 
@@ -84,25 +135,14 @@
 
 
 
-    
-
-    
-        
-        
-            
-            
-            
-            
-            
-        
     
 
         
                 
-         
+        
                             
                                     
-                        
+                    
     
 
 
@@ -112,13 +152,20 @@
 
 <meta name="robots" content="NOODP,NOYDIR">
 
+
     
 
     
         
-    <link rel="shortcut icon" href="http://us.moo.com/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="http://us.moo.com/favicon.ico" type="image/x-icon">
-    
+<link rel="shortcut icon" href="http://ca.moo.com/bower_components/moo-toolkit/dist/images/favicon/favicon.ico?v=2">
+<link rel="icon" sizes="16x16 32x32 64x64" href="http://ca.moo.com/bower_components/moo-toolkit/dist/images/favicon/favicon.ico?v=2">
+<link rel="icon" type="image/png" sizes="196x196" href="http://ca.moo.com/bower_components/moo-toolkit/dist/images/favicon/favicon-196.png">
+<link rel="icon" type="image/png" sizes="160x160" href="http://ca.moo.com/bower_components/moo-toolkit/dist/images/favicon/favicon-160.png">
+<link rel="icon" type="image/png" sizes="96x96" href="http://ca.moo.com/bower_components/moo-toolkit/dist/images/favicon/favicon-96.png">
+<link rel="icon" type="image/png" sizes="64x64" href="http://ca.moo.com/bower_components/moo-toolkit/dist/images/favicon/favicon-64.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://ca.moo.com/bower_components/moo-toolkit/dist/images/favicon/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="http://ca.moo.com/bower_components/moo-toolkit/dist/images/favicon/favicon-16.png">
+
 
 
     
@@ -129,37 +176,10 @@
                             <link rel="alternate" hreflang="it-IT" href="http://uk.moo.com/it/about/privacy-policy/">
                                                 <link rel="alternate" hreflang="en-US" href="http://us.moo.com/about/privacy-policy/">
                             <link rel="alternate" hreflang="fr-US" href="http://us.moo.com/fr/about/privacy-policy/">
-                            <link rel="alternate" hreflang="de-US" href="http://us.moo.com/de/about/privacy-policy/">
                             <link rel="alternate" hreflang="es-US" href="http://us.moo.com/es/about/privacy-policy/">
-                            <link rel="alternate" hreflang="it-US" href="http://us.moo.com/it/about/privacy-policy/">
-                                                <link rel="alternate" hreflang="en-NL" href="http://nl.moo.com/about/privacy-policy/">
-                            <link rel="alternate" hreflang="fr-NL" href="http://nl.moo.com/fr/about/privacy-policy/">
-                            <link rel="alternate" hreflang="de-NL" href="http://nl.moo.com/de/about/privacy-policy/">
-                            <link rel="alternate" hreflang="es-NL" href="http://nl.moo.com/es/about/privacy-policy/">
-                            <link rel="alternate" hreflang="it-NL" href="http://nl.moo.com/it/about/privacy-policy/">
-                                                <link rel="alternate" hreflang="en-EU" href="http://eu.moo.com/about/privacy-policy/">
-                            <link rel="alternate" hreflang="fr-EU" href="http://eu.moo.com/fr/about/privacy-policy/">
-                            <link rel="alternate" hreflang="de-EU" href="http://eu.moo.com/de/about/privacy-policy/">
-                            <link rel="alternate" hreflang="es-EU" href="http://eu.moo.com/es/about/privacy-policy/">
-                            <link rel="alternate" hreflang="it-EU" href="http://eu.moo.com/it/about/privacy-policy/">
+                                                <link rel="alternate" hreflang="en-AU" href="http://au.moo.com/about/privacy-policy/">
+                                                <link rel="alternate" hreflang="en-CA" href="http://ca.moo.com/about/privacy-policy/">
                         
-
-    <link rel="stylesheet" media="all" type="text/css" href="http://static2.moo.com/css/theme-orange.css?q=fe7037109905a0055e5f9e7b73494eac">
-<link rel="stylesheet" media="all" type="text/css" href="http://static7.moo.com/css/compiled/core.css?q=fe7037109905a0055e5f9e7b73494eac">
-<!--[if IE 7]><link rel="stylesheet" media="all" type="text/css" href="http://static9.moo.com/css/compiled/ie/ie7.css?q=fe7037109905a0055e5f9e7b73494eac" /><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" media="all" type="text/css" href="http://static8.moo.com/css/compiled/ie/ie8.css?q=fe7037109905a0055e5f9e7b73494eac" /><![endif]-->
-<!--[if IE 9]><link rel="stylesheet" media="all" type="text/css" href="http://static8.moo.com/css/compiled/ie/ie9.css?q=fe7037109905a0055e5f9e7b73494eac" /><![endif]-->
-<!--[if lt IE 8]><link rel="stylesheet" media="all" type="text/css" href="http://static1.moo.com/css/ie/font-face-fix.css?q=fe7037109905a0055e5f9e7b73494eac" /><![endif]-->
-<link rel="stylesheet" media="all" type="text/css" href="http://static3.moo.com/css/core/live-chat.css?q=fe7037109905a0055e5f9e7b73494eac">
-<link rel="stylesheet" media="all" type="text/css" href="http://static2.moo.com/css/compiled/about.css?q=fe7037109905a0055e5f9e7b73494eac">
-    
-        
-
-
-
-
-
-    
 
     
     
@@ -167,15 +187,15 @@
     if(typeof(window['pageData']) == 'undefined'){
         var pageData = {};
     }
-    pageData.wwwServer = 'http://us.moo.com';
+    pageData.wwwServer = 'http://ca.moo.com';
     pageData.secureServer = 'https://secure.moo.com';
     pageData.mooUserSignedIn = '';
     pageData.userCurrencyCode = '';
-    pageData.websiteName = 'MOO_US';
+    pageData.websiteName = 'MOO_CA';
 
             pageData.currentPageUrl = 'http://www.moo.com/about/privacy-policy/';
                 pageData.currentPageHash = '4c60ae98f37ef822982b3235dde6b0f8';
-                pageData.transactionId = 'd54a47d7-0482-558545e1-53ae4640-3f3d';
+                pageData.transactionId = 'a56862c2-fa73-558545de-549140cf-6e71';
         //]]></script>
 
     <script type="text/javascript">//<![CDATA[
@@ -197,93 +217,14 @@ pageData.signin.hideAccountLink = '';
     
 
     
-    
-<script>
-    (function(d, s) {
-   var js = d.createElement(s),
-       sc = d.getElementsByTagName(s)[0];
-
-   js.src= '/libjs/boomerang-0.9.1366041404.js';
-   sc.parentNode.insertBefore(js, sc);
-}(document, "script"));
-</script>
-
-
-	<script type="text/javascript">
-    var _maq = _maq || [];
-    require(['moo/onLoadEvents'], function (onLoadEvents) {
-        onLoadEvents.addOnLoadEvent(
-               function () {
-                   var gaqAdditionalParams = _gaqAdditionalParams || {},
-                        $ = require('jquery');
-                   (function () {
-                       $.fn.mooTrackCustomPageView(_maq, _gaqAdditionalParams);
-
-                       var ma = document.createElement('script');
-                       ma.type = 'text/javascript';
-                       ma.async = true;
-                       ma.src = "https://secure.moo.com/analytics.js";
-                       var s1 = document.getElementsByTagName('script')[0];
-                       s1.parentNode.insertBefore(ma, s1);
-                   })();
-               }
-           );
-    });
-</script>
-
-
-
-
-<script type="text/javascript">
-    var _gaqAdditionalParams = _gaqAdditionalParams || {};
-    require(['moo/onLoadEvents'], function (onLoadEvents) {
-    onLoadEvents.addOnLoadEvent(
-    function () {
-            var utma,
-            $ = require('jquery');
-
-        
-        
-        
-        
-                    
-            utma = $.fn.readUtmCookie('__utma');
-            if (utma) {
-                $.fn.customerVarTracking(2, 'utma', utma, 2);
-            }
-
-            $.fn.mooTrackCustomPageView(_gaq, _gaqAdditionalParams);
-        
-        
-        
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-        
-	}
- 	);
- 	});
-</script>
-
-
-
-    
     <!-- chat doesn't play with Selenium so turn off if a cookie set -->
             
 <script type="text/javascript">
 
-require(['jquery'], function ($) {
+require(['jquery', 'moo/onLoadEvents'], function ($, onLoadEvents) {
     'use strict';
-    $(window).load(function () {
-
-        var scheme = ('https:' === document.location.protocol ? pageData.secureServer : pageData.wwwServer),
-            token = $('#mooFormToken input').val(),
-            lang = 'en',
+    onLoadEvents.addOnLoadEvent(function () {
+        var lang = 'en',
             config = {
                 license: "2070511",
                 visitor: {
@@ -340,48 +281,33 @@ require(['jquery'], function ($) {
 });
 </script>
 
-    
-
-</head>
+    </head>
 
 
 
-<body id="htmlBody" class="theme-orange ">
-    
-    
-            
-                                        
-    
-
-
-
-
-            
-                
-    
-
-    
+<body id="htmlBody" class="">
 
     
     <!-- Google Tag Manager -->
 <noscript>
-    <iframe src="//www.googletagmanager.com/ns.html?id=" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TKGG2R" height="0" width="0" style="display:none;visibility:hidden"></iframe>
 </noscript>
 
 <script type="text/javascript">
     var _gtmAdditionalParams = _gtmAdditionalParams || {},
         gtmAccountId = 'GTM-TKGG2R',
-        dataLayer = [];
+        dataLayer = (typeof dataLayer === 'undefined') ? [] : dataLayer;
 
-    (function ($) {
+    require(['jquery'], (function ($) {
         
         _gtmAdditionalParams.core = {
             title: document.getElementsByTagName("title")[0].innerHTML,
-            website: "MOO_US",
-            websiteId: "2",
+            website: "MOO_CA",
+            websiteId: "6",
             language: "en",
-            optimizelyBuckets: ""
-        }
+            experimentVariationId: "0",
+            isMobile: false        }
         dataLayer.push({data: _gtmAdditionalParams});
 
         
@@ -393,12 +319,12 @@ require(['jquery'], function ($) {
             success: function (result) {
                 dataLayer.push({
                     "data" : result,
-                    "event" : "wait_for_data"                 
+                    "event" : "wait_for_data"
                 })
             }
             
         });
-    })(jQuery);
+    }));
 
     (function(w,d,s,l,i){
         w[l]=w[l]||[];w[l].push({
@@ -426,367 +352,394 @@ require(['jquery'], function ($) {
     
 
     
-        
-        <div id="divHeaderWrapper">
-    <div id="divHeader" class="clearfix">
-        <div id="divHeaderLogo">
+    
+        <header>
+    <div class="container">
+        <div class="row">
             
-            <p class="stripe"><a href="http://us.moo.com/" title="MOO">
-                <span class="hide">MOO</span></a></p>
-        </div>
-        
-        <div id="divHeaderNavigation">
-            
-            <!-- Start of User Info -->
+            <nav class="col-12 menu-top-nav">
+                <!-- Start of User Info -->
 
 
 
 
     
-<ul id="topMenu">
-    <li>
+
     
     <!-- Start of User Info -->
             
 
 <ul id="ulUserInfo" class="noSessionInfo">
     <li><a href="https://secure.moo.com/account/signin.php?return_url=%2Fabout%2Fprivacy-policy%2F&amp;return_url_hash=b1b49c5fd9b62e11ffb9fa877b8b079d" class="signIn">Sign in</a></li>
-    <li><a href="http://us.moo.com/referafriend">Refer a friend</a></li>
-    <li><a href="https://secure.moo.com/cart/" class="header-cart-empty" title="Cart" id="aHeaderCart">Cart (<span id="spnHeaderCartCount">0</span>)</a></li>
+    <li><a href="http://ca.moo.com/referafriend">Refer a friend</a></li>
+    <li><span class="mooicon-cart"></span><a href="https://secure.moo.com/cart/" class="header-cart-empty" title="Cart" id="aHeaderCart">Cart (<span id="spnHeaderCartCount">0</span>)</a></li>
 </ul>
 
 
         <!-- End of User Info -->
-    </li>
-    <li>
-        <ul id="navExtras">
+
+    
+            <ul>
+            <li>
+                <div class="popover-content" data-placement="bottom" data-toggle="popover">
+                    
+                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <div class="popover-list-current option-ca_en website_MOO_CA">
+                                                <span class="text-hide">
+                            English ($CAD)
+                        </span>
+                    </div>
+                    <span class="popover-list-selection">Select language</span>
+
+                    <div class="popover-html hidden">
+                        <ul class="popover-list-items">
+                                                            
+                                                                        <li>
+                                        <div class="option-ca_en current">
+                                        <a rel="alternate" href="" title="English" class="store-switch">
+                                            English ($CAD)
+                                        </a>
+                                        </div>
+                                    </li>
+                                
+                                                            
+                                                                        <li>
+                                        <div class="option-uk_en ">
+                                        <a rel="alternate" href="https://secure.moo.com/store-switch.php?_cr=f&amp;_s=1&amp;loc=1" title="English" class="store-switch">
+                                            English (£GBP)
+                                        </a>
+                                        </div>
+                                    </li>
+                                
+                                                            
+                                                                        <li>
+                                        <div class="option-us_en ">
+                                        <a rel="alternate" href="https://secure.moo.com/store-switch.php?_cr=f&amp;_s=2&amp;loc=1" title="English" class="store-switch">
+                                            English ($USD)
+                                        </a>
+                                        </div>
+                                    </li>
+                                
+                                                            
+                                                                        <li>
+                                        <div class="option-eu_en ">
+                                        <a rel="alternate" href="https://secure.moo.com/store-switch.php?_cr=f&amp;_s=4&amp;loc=1" title="English" class="store-switch">
+                                            English (€EUR)
+                                        </a>
+                                        </div>
+                                    </li>
+                                
+                                                            
+                                                                        <li>
+                                        <div class="option-uk_de ">
+                                        <a rel="alternate" href="https://secure.moo.com/store-switch.php?_cr=f&amp;_s=1&amp;loc=1&amp;lang=de" title="Deutsch" class="store-switch">
+                                            Deutsch (€EUR)
+                                        </a>
+                                        </div>
+                                    </li>
+                                
+                                                            
+                                                                        <li>
+                                        <div class="option-uk_es ">
+                                        <a rel="alternate" href="https://secure.moo.com/store-switch.php?_cr=f&amp;_s=1&amp;loc=1&amp;lang=es" title="Español" class="store-switch">
+                                            Español (€EUR)
+                                        </a>
+                                        </div>
+                                    </li>
+                                
+                                                            
+                                                                        <li>
+                                        <div class="option-uk_fr ">
+                                        <a rel="alternate" href="https://secure.moo.com/store-switch.php?_cr=f&amp;_s=1&amp;loc=1&amp;lang=fr" title="Français" class="store-switch">
+                                            Français (€EUR)
+                                        </a>
+                                        </div>
+                                    </li>
+                                
+                                                            
+                                                                        <li>
+                                        <div class="option-nl_en ">
+                                        <a rel="alternate" href="https://secure.moo.com/store-switch.php?_cr=f&amp;_s=3&amp;loc=1" title="English" class="store-switch">
+                                            English (€EUR)
+                                        </a>
+                                        </div>
+                                    </li>
+                                
+                                                            
+                                                                        <li>
+                                        <div class="option-uk_it ">
+                                        <a rel="alternate" href="https://secure.moo.com/store-switch.php?_cr=f&amp;_s=1&amp;loc=1&amp;lang=it" title="Italiano" class="store-switch">
+                                            Italiano (€EUR)
+                                        </a>
+                                        </div>
+                                    </li>
+                                
+                                                            
+                                                                        <li>
+                                        <div class="option-au_en ">
+                                        <a rel="alternate" href="https://secure.moo.com/store-switch.php?_cr=f&amp;_s=5&amp;loc=1" title="English" class="store-switch">
+                                            English ($AUD)
+                                        </a>
+                                        </div>
+                                    </li>
+                                
+                                                    </ul>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    
+    <ul class="social-links">
+        <li>
             
-                            <li class="storeSwitcher ">
-                    <form action="#" class="storeLanguageSwitcherControl website_MOO_US">
-                        <select name="storeLanguageSwitcher" data-selected="us_en">
-                                                                                                                            <option value="us_en" data-lang-code="en" data-url="" class="option-us_en" selected="selected">English ($ USD)</option>
-                                                                                                                            <option value="uk_en" data-lang-code="en" data-url="https%3A%2F%2Fsecure.moo.com%2Fstore-switch.php%3F_cr%3Df%26_s%3D1%26loc%3D1" class="option-uk_en">English (£ GBP)</option>
-                                                                                                                            <option value="eu_en" data-lang-code="en" data-url="https%3A%2F%2Fsecure.moo.com%2Fstore-switch.php%3F_cr%3Df%26_s%3D4%26loc%3D1" class="option-eu_en">English (€ EUR)</option>
-                                                                                                                            <option value="uk_de" data-lang-code="de" data-url="https%3A%2F%2Fsecure.moo.com%2Fstore-switch.php%3F_cr%3Df%26_s%3D1%26loc%3D1%26lang%3Dde" class="option-uk_de">Deutsch (€ EUR)</option>
-                                                                                                                            <option value="uk_es" data-lang-code="es" data-url="https%3A%2F%2Fsecure.moo.com%2Fstore-switch.php%3F_cr%3Df%26_s%3D1%26loc%3D1%26lang%3Des" class="option-uk_es">Español (€ EUR)</option>
-                                                                                                                            <option value="uk_fr" data-lang-code="fr" data-url="https%3A%2F%2Fsecure.moo.com%2Fstore-switch.php%3F_cr%3Df%26_s%3D1%26loc%3D1%26lang%3Dfr" class="option-uk_fr">Français (€ EUR)</option>
-                                                                                                                            <option value="nl_en" data-lang-code="en" data-url="https%3A%2F%2Fsecure.moo.com%2Fstore-switch.php%3F_cr%3Df%26_s%3D3%26loc%3D1" class="option-nl_en">English (€ EUR)</option>
-                                                                                                                            <option value="uk_it" data-lang-code="it" data-url="https%3A%2F%2Fsecure.moo.com%2Fstore-switch.php%3F_cr%3Df%26_s%3D1%26loc%3D1%26lang%3Dit" class="option-uk_it">Italiano (€ EUR)</option>
-                                                    </select>
-                    </form>
-                </li>
-                                        <li class="socialLinks last">
-                    
-                        <a href="http://www.facebook.com/moo" class="header-social header-facebook mooCustomTracking" title="Find MOO on Facebook" rel="gaUrl:/customPageView/us/socialbutton/facebook">Find MOO on Facebook</a>
-                        <a href="http://twitter.com/#!/overheardatmoo" class="header-social header-twitter mooCustomTracking" title="Follow MOO on Twitter" rel="gaUrl:/customPageView/us/socialbutton/twitter">Follow MOO on Twitter</a>
-                        <a href="https://plus.google.com/u/0/112829521495919737876" class="header-social header-google mooCustomTracking" title="Add MOO to your Google+ circles" rel="gaUrl:/customPageView/us/socialbutton/google">Add MOO to your Google+ circles</a>
-                    
-                </li>
-                    </ul>
-        
-    </li>
-</ul>
-
-
-            <!-- Start of Main Navigation -->
-<ul id="ulNav">
-            <li>
-            <a href="http://us.moo.com/products/" class="tab mooCustomTracking " rel="gaUrl:/customPageView/topnav/uk/Products">
-                <span class="tab-left"></span>
-                <span class="tab-middle">Products</span>
-                <span class="tab-right"></span>
-            </a>
-            <div class="menu">
-                <div class="menu-inner rounded-corners-except-top-left-5 shadow">
-                    <div class="menu-option-list">
-		                <ul>
-                            		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/products/business-cards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/BusinessCards">
-                                        
-                                                                                Business Cards
-                                    </a>
-
-		                                                              <div class="submenu">
-			                           <ul>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/business-cards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/BusinessCards/ClassicBusinessCards">Classic Business Cards</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/luxe/business-cards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/BusinessCards/LuxeBusinessCards">Luxe Business Cards</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/gloss-business-cards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/BusinessCards/GlossBusinessCards">Gloss Business Cards</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/rounded-corner-business-cards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/BusinessCards/RoundedCornerBusinessCards">Rounded Corner Business Cards</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/facebook-cards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/BusinessCards/FacebookCards">Facebook Cards</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/start.php?productTypeName=businesscard&amp;contentSourceName=uploader&amp;packSize=50&amp;paperClassName=classic&amp;finishingOptionName=square_corners&amp;flowType=full-upload" class="group-marker mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/BusinessCards/UploadACompleteDesign">Upload a complete design</a></li>
-			                               			                           </ul>
-                                   </div>
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/products/minicards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/MiniCards">
-                                        
-                                                                                MiniCards
-                                    </a>
-
-		                                                              <div class="submenu">
-			                           <ul>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/minicards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/MiniCards/ClassicMiniCards">Classic MiniCards</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/luxe/minicards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/MiniCards/LuxeMiniCards">Luxe MiniCards</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/gloss-minicards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/MiniCards/GlossMiniCards">Gloss MiniCards</a></li>
-			                               			                           </ul>
-                                   </div>
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/products/letterheads.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/LetterHeads">
-                                        
-                                                                                Letterhead
-                                    </a>
-
-		                                                              <div class="submenu">
-			                           <ul>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/letterheads.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/LetterHeads/ClassicLetterHeads">Classic Letterhead</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/luxe/letterheads.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/LetterHeads/LuxeLetterHeads">Luxe Letterhead</a></li>
-			                               			                           </ul>
-                                   </div>
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/products/flyers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/flyers">
-                                        
-                                                                                Flyers
-                                    </a>
-
-		                                                              <div class="submenu">
-			                           <ul>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/half-page-flyers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Flyers/HalfPageFlyers">Half Page Flyers</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/third-page-flyers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Flyers/ThirdPageFlyers">Third Page Flyers</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/square-flyers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Flyers/SquareFlyers">Square Flyers</a></li>
-			                               			                           </ul>
-                                   </div>
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/products/postcards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/Postcards">
-                                        
-                                                                                Postcards
-                                    </a>
-
-		                                                              <div class="submenu">
-			                           <ul>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/postcards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/Postcards">Classic Postcards</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/luxe/postcards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/Postcards">Luxe Postcards</a></li>
-			                               			                           </ul>
-                                   </div>
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/products/luxe/notecards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/Notecards">
-                                        
-                                                                                Notecards
-                                    </a>
-
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/products/stickers" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/Stickers">
-                                        
-                                                                                Stickers
-                                    </a>
-
-		                                                              <div class="submenu">
-			                           <ul>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/round-stickers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/Stickers/RoundStickers">Round Stickers</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/rectangular-stickers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/Stickers/RectangularStickers">Rectangular Stickers</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/stickerbooks.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/Stickers/Stickerbooks">Stickerbooks</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/business-logo-stickers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/Stickers/LogoStickers">Logo Stickers</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/products/rectangular-stickers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/Stickers/MailingLabels">Mailing Labels</a></li>
-			                               			                           </ul>
-                                   </div>
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/products/greeting-cards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Products/GreetingCards">
-                                        
-                                                                                Greeting Cards
-                                    </a>
-
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/accessories/" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Accessories">
-                                        
-                                                                                Accessories
-                                    </a>
-
-		                                                              <div class="submenu">
-			                           <ul>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/accessories/business-card-holders.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/accessories/BusinessCardHolders">Business Card Holders</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/accessories/minicard-holders.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Accessories/MiniCardHolders">MiniCard Holders</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/accessories/notebooks.html" class="mooCustomTracking">Notebooks</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/accessories/envelopes.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Accessories/Envelopes">Envelopes</a></li>
-			                               			                                   <li class="submenu-option"><a href="http://us.moo.com/accessories/" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Accessories/AllAccessories">All Accessories</a></li>
-			                               			                           </ul>
-                                   </div>
-		                           		                       </li> 
-		                    		                </ul>
-                    </div>
-                </div>
-            </div>
-        </li>
-            <li>
-            <a href="http://us.moo.com/ideas/inspiration.html" class="tab mooCustomTracking " rel="gaUrl:/customPageView/topnav/uk/MoreProducts">
-                <span class="tab-left"></span>
-                <span class="tab-middle">Inspiration</span>
-                <span class="tab-right"></span>
-            </a>
-            <div class="menu">
-                <div class="menu-inner rounded-corners-except-top-left-5 shadow">
-                    <div class="menu-option-list">
-		                <ul>
-                            		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/ideas/inspiration.html" class="mooCustomTracking " rel="gaUrl:/customPageView/topnav/uk/Inspiration/InspirationGallery">
-                                        
-                                                                                Inspiration Gallery
-                                    </a>
-
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/ideas/expert-tips.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Inspiration/ExpertTips">
-                                        
-                                                                                Expert Tips
-                                    </a>
-
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/startup-business-toolkit/" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Inspiration/TheStartupToolkit">
-                                        
-                                                                                The Startup Toolkit
-                                    </a>
-
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/blog/" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Inspiration/Blog">
-                                        
-                                                                                Blog
-                                    </a>
-
-		                           		                       </li> 
-		                    		                        <li class="menu-option">
-
-                                    
-                                    <a href="http://us.moo.com/luxe-project/index.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/Inspiration/TheLuxeProject">
-                                        
-                                                                                The Luxe Project
-                                    </a>
-
-		                           		                       </li> 
-		                    		                </ul>
-                    </div>
-                </div>
-            </div>
-        </li>
-            <li>
-            <a href="http://us.moo.com/products/business-services.html" class="tab mooCustomTracking " rel="gaUrl:/customPageView/topnav/uk/10PlusEmployees">
-                <span class="tab-left"></span>
-                <span class="tab-middle">10+ Employees?</span>
-                <span class="tab-right"></span>
-            </a>
-            <div class="menu">
-                <div class="menu-inner rounded-corners-except-top-left-5 shadow">
-                    <div class="menu-option-list">
-		                <ul>
-                                                            <li class="menu-option">
-                                    <a href="http://us.moo.com/products/business-services.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/10PlusEmployees/10PlusEmployees">10+ Employees</a>
-                                </li>
-                            		                    		                </ul>
-                    </div>
-                </div>
-            </div>
-        </li>
-            <li>
-            <a href="http://us.moo.com/help/faq/" class="tab mooCustomTracking " rel="gaUrl:/customPageView/topnav/uk/HelpFAQ">
-                <span class="tab-left"></span>
-                <span class="tab-middle">Help &amp; FAQ</span>
-                <span class="tab-right"></span>
-            </a>
-            <div class="menu">
-                <div class="menu-inner rounded-corners-except-top-left-5 shadow">
-                    <div class="menu-option-list">
-		                <ul>
-                                                            <li class="menu-option">
-                                    <a href="http://us.moo.com/help/faq/cost-calculator.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/HelpFAQ/PriceAndDelivery">Pricing &amp; turnaround times</a>
-                                </li>
-                                                            <li class="menu-option">
-                                    <a href="http://us.moo.com/help/faq/using-my-own-artwork.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/HelpFAQ/Artworkguidelines">Artwork templates &amp; guidelines</a>
-                                </li>
-                                                            <li class="menu-option">
-                                    <a href="http://us.moo.com/about/paper.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/HelpFAQ/Orderasample">Order a sample</a>
-                                </li>
-                                                            <li class="menu-option">
-                                    <a href="http://us.moo.com/help/faq/where-is-my-order.html" class="group-marker mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/HelpFAQ/Wheresmyorder">Where's my order?</a>
-                                </li>
-                                                            <li class="menu-option">
-                                    <a href="http://us.moo.com/help/faq/" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/HelpFAQ/AllFAQs">All FAQs</a>
-                                </li>
-                                                            <li class="menu-option">
-                                    <a href="http://us.moo.com/help/contact-us.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/HelpFAQ/ContactMOO">Contact MOO</a>
-                                </li>
-                            		                    		                </ul>
-                    </div>
-                </div>
-            </div>
-        </li>
-            <li>
-            <a href="https://secure.moo.com/account/" class="tab tab-last mooCustomTracking " rel="gaUrl:/customPageView/topnav/uk/YourAccount">
-                <span class="tab-left"></span>
-                <span class="tab-middle">Your Account</span>
-                <span class="tab-right"></span>
-            </a>
-            <div class="menu menu-last">
-                <div class="menu-inner rounded-corners-except-top-right-5 shadow">
-                    <div class="menu-option-list">
-		                <ul>
-                                                            <li class="menu-option">
-                                    <a href="https://secure.moo.com/account/" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/YourAccount/Overview">Overview</a>
-                                </li>
-                                                            <li class="menu-option">
-                                    <a href="https://secure.moo.com/account/reorder.php" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/YourAccount/Reorder">Re-order</a>
-                                </li>
-                                                            <li class="menu-option">
-                                    <a href="https://secure.moo.com/account/order-history.php" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/YourAccount/OrderHistory">Order history</a>
-                                </li>
-                                                            <li class="menu-option">
-                                    <a href="https://secure.moo.com/account/unfinished-projects.php" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/YourAccount/SavesProjects">Saved projects</a>
-                                </li>
-                                                            <li class="menu-option">
-                                    <a href="https://secure.moo.com/account/gift-cards.php" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/uk/YourAccount/RedeemGiftCards">Redeem Gift Cards</a>
-                                </li>
-                            		                    		                </ul>
-                    </div>
-                </div>
-            </div>
+                <a href="http://www.facebook.com/moo" class="moosprite-social-facebook text-hide mooCustomTracking" title="Find MOO on Facebook" rel="gaCat:header,gaAct:socialLinks,gaLab:facebook">Find MOO on Facebook</a>
+                <a href="http://twitter.com/#!/MOO" class="moosprite-social-twitter text-hide mooCustomTracking" title="Follow MOO on Twitter" rel="gaCat:header,gaAct:socialLinks,gaLab:twitter">Follow MOO on Twitter</a>
+                <a href="https://plus.google.com/u/0/112829521495919737876" class="moosprite-social-google text-hide mooCustomTracking" title="Add MOO to your Google+ circles" rel="gaCat:header,gaAct:socialLinks,gaLab:gPlus">Add MOO to your Google+ circles</a>
+            
         </li>
     </ul>
+
+
+            </nav>
+
+            <div class="col-4">
+                <div class="moo-logo">
+                    <a href="http://ca.moo.com/" class="mooimage-lockup text-hide link-unstyled" title="MOO">MOO</a>
+                    
+                    <span class="moo-logo-strap">Design works wonders</span>
+                    
+                </div>
+            </div>
+            <nav class="dropdown-nav" id="pageHeader">
+                <!-- Start of Main Navigation -->
+<ul class="dropdown-nav-links" data-toggle="tab-hover">
+                        <li class="dropdown">
+                <a href="http://ca.moo.com/products/" class="dropdown-toggle  mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products">
+                    Products
+                </a>
+                <ul class="dropdown-menu text-hidden ">
+                                                                        <li>
+                                
+                                <a href="http://ca.moo.com/products/business-cards.html" class="mooCustomTracking sub-menu-chevron" rel="gaCat:header,gaAct:header-menu">
+                                    
+                                                                        Business Cards
+                                </a>
+                                <div class="drop-menu-pop">
+                                    <ul>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/business-cards.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Classic Business Cards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/luxe/business-cards.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Luxe Business Cards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/gloss-business-cards.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Gloss Business Cards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/green/business-cards.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Green Business Cards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/rounded-corner-business-cards.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Rounded Corner Business Cards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/letterpress-business-cards.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Letterpress Business Cards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/start.php?productTypeName=businesscard&amp;contentSourceName=uploader&amp;packSize=50&amp;paperClassName=classic&amp;finishingOptionName=square_corners&amp;flowType=full-upload" class="group-marker mooCustomTracking separator-top" rel="gaCat:header,gaAct:header-menu">Upload a complete design</a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                                                                <li>
+                                
+                                <a href="http://ca.moo.com/products/square-business-cards.html" class="mooCustomTracking sub-menu-chevron" rel="gaUrl:/customPageView/topnav/us/Products/SquareBusinessCards">
+                                    
+                                                                        Square Business Cards
+                                </a>
+                                <div class="drop-menu-pop">
+                                    <ul>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/square-business-cards.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Classic Square Business Cards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/luxe/square-business-cards.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Luxe Square Business Cards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/gloss-square-business-cards.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Gloss Square Business Cards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/green-square-business-cards.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Green Square Business Cards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/start.php?productTypeName=businesscard_square&amp;contentSourceName=uploader&amp;packSize=50&amp;paperClassName=classic&amp;finishingOptionNa=square_corners&amp;flowType=full-upload" class="group-marker mooCustomTracking separator-top" rel="gaCat:header,gaAct:header-menu">Upload a complete design</a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/products/letterpress-business-cards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/Letterpress">Letterpress Business Cards</a>
+                            </li>
+                                                                                                <li>
+                                
+                                <a href="http://ca.moo.com/products/minicards.html" class="mooCustomTracking sub-menu-chevron" rel="gaUrl:/customPageView/topnav/us/Products/MiniCards">
+                                    
+                                                                        MiniCards
+                                </a>
+                                <div class="drop-menu-pop">
+                                    <ul>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/minicards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/MiniCards/ClassicMiniCards">Classic MiniCards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/luxe/minicards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/MiniCards/LuxeMiniCards">Luxe MiniCards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/gloss-minicards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/MiniCards/GlossMiniCards">Gloss MiniCards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/start.php?productTypeName=minicard&amp;contentSourceName=uploader&amp;flowType=full-upload" class="mooCustomTracking separator-top" rel="gaUrl:/customPageView/topnav/us/BusinessCards/MiniCards/UploadACompleteDesign">Upload a complete design</a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/gifts/cards" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/GiftCards">Gift Cards</a>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/products/greeting-cards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/GreetingCards">Greeting Cards</a>
+                            </li>
+                                                                                                <li>
+                                
+                                <a href="http://ca.moo.com/products/flyers.html" class="mooCustomTracking sub-menu-chevron" rel="gaCat:header,gaAct:header-menu">
+                                    
+                                                                        Flyers
+                                </a>
+                                <div class="drop-menu-pop">
+                                    <ul>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/half-page-flyers.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Half Page Flyers</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/third-page-flyers.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Third Page Flyers</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/square-flyers.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Square Flyers</a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                                                                <li>
+                                
+                                <a href="http://ca.moo.com/products/postcards.html" class="mooCustomTracking sub-menu-chevron" rel="gaUrl:/customPageView/topnav/us/Products/Postcards">
+                                    
+                                                                        Postcards
+                                </a>
+                                <div class="drop-menu-pop">
+                                    <ul>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/postcards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/Postcards">Classic Postcards</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/luxe/postcards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/Postcards">Luxe Postcards</a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/products/luxe/notecards.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/Notecards">Notecards</a>
+                            </li>
+                                                                                                <li>
+                                
+                                <a href="http://ca.moo.com/products/stickers" class="mooCustomTracking sub-menu-chevron" rel="gaUrl:/customPageView/topnav/us/Products/Stickers">
+                                    
+                                                                        Stickers
+                                </a>
+                                <div class="drop-menu-pop">
+                                    <ul>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/round-stickers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/Stickers/RoundStickers">Round Stickers</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/rectangular-stickers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/Stickers/RectangularStickers">Rectangular Stickers</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/stickerbooks.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/Stickers/Stickerbooks">StickerBooks</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/business-logo-stickers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/Stickers/LogoStickers">Logo Stickers</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/rectangular-stickers.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Products/Stickers/MailingLabels">Mailing Labels</a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                                                                <li>
+                                
+                                <a href="http://ca.moo.com/products/letterheads.html" class="mooCustomTracking sub-menu-chevron" rel="gaCat:header,gaAct:header-menu">
+                                    
+                                                                        Letterhead
+                                </a>
+                                <div class="drop-menu-pop">
+                                    <ul>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/letterheads.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Classic Letterhead</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/products/luxe/letterheads.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Luxe Letterhead</a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                                                                <li>
+                                
+                                <a href="http://ca.moo.com/accessories/" class="mooCustomTracking sub-menu-chevron" rel="gaUrl:/customPageView/topnav/us/Accessories">
+                                    
+                                                                        Accessories
+                                </a>
+                                <div class="drop-menu-pop">
+                                    <ul>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/accessories/business-card-holders.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/accessories/BusinessCardHolders">Business Card Holders</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/accessories/minicard-holders.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Accessories/MiniCardHolders">MiniCard Holders</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/accessories/notebooks.html" class="mooCustomTracking" rel="gaCat:header,gaAct:header-menu">Notebooks</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/accessories/envelopes.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Accessories/Envelopes">Envelopes</a></li>
+                                                                                    <li class="submenu-option"><a href="http://ca.moo.com/accessories/" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Accessories/AllAccessories">All Accessories</a></li>
+                                                                            </ul>
+                                </div>
+                            </li>
+                                                            </ul>
+            </li>
+                                <li class="dropdown">
+                <a href="http://ca.moo.com/ideas/inspiration.html" class="dropdown-toggle  mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/MoreProducts">
+                    Inspiration
+                </a>
+                <ul class="dropdown-menu text-hidden ">
+                                                                        <li>
+                                <a href="http://ca.moo.com/ideas/inspiration.html" class="mooCustomTracking " rel="gaUrl:/customPageView/topnav/us/Inspiration/InspirationGallery">Inspiration Gallery</a>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/holidays2014/" class="mooCustomTracking">Holidays at MOO</a>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/ideas/expert-tips.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Inspiration/ExpertTips">Expert Tips</a>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/startup-business-toolkit/" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Inspiration/TheStartupToolkit">The Startup Toolkit</a>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/blog/" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Inspiration/Blog">Blog</a>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/luxe-project/index.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Inspiration/TheLuxeProject">The Luxe Project</a>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/business-professionals/index.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/Inspiration/BusinessProfessionalsGuide">Business Professional's Guide</a>
+                            </li>
+                                                            </ul>
+            </li>
+                                <li class="dropdown">
+                <a href="http://ca.moo.com/products/business-services.html" class="dropdown-link  mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/10PlusEmployees">
+                    10+ Employees?
+                </a>
+            </li>
+                                <li class="dropdown">
+                <a href="https://support.moo.com/hc/en-us" class="dropdown-toggle  mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/HelpFAQ">
+                    Help &amp; FAQ
+                </a>
+                <ul class="dropdown-menu text-hidden ">
+                                                                        <li>
+                                <a href="http://ca.moo.com/help/faq/cost-calculator.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/HelpFAQ/PriceAndDelivery">Pricing &amp; turnaround times</a>
+                            </li>
+                                                                                                <li>
+                                <a href="https://support.moo.com/hc/en-us/sections/200572464" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/HelpFAQ/Artworkguidelines">Artwork templates &amp; guidelines</a>
+                            </li>
+                                                                                                <li>
+                                <a href="http://ca.moo.com/about/paper.html" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/HelpFAQ/Orderasample">Order a sample</a>
+                            </li>
+                                                                                                <li>
+                                <a href="https://support.moo.com/hc/en-us/sections/200585404" class="group-marker mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/HelpFAQ/Wheresmyorder">Where's my order?</a>
+                            </li>
+                                                                                                <li>
+                                <a href="https://support.moo.com/hc/en-us" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/HelpFAQ/AllFAQs">All FAQs</a>
+                            </li>
+                                                                                                <li>
+                                <a href="https://support.moo.com/hc/en-us/sections/200598374" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/HelpFAQ/ContactMOO">Contact MOO</a>
+                            </li>
+                                                            </ul>
+            </li>
+                                <li class="dropdown">
+                <a href="https://secure.moo.com/account/" class="dropdown-toggle  mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/YourAccount">
+                    Your Account
+                </a>
+                <ul class="dropdown-menu text-hidden last">
+                                                                        <li>
+                                <a href="https://secure.moo.com/account/" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/YourAccount/Overview">Overview</a>
+                            </li>
+                                                                                                <li>
+                                <a href="https://secure.moo.com/account/reorder.php" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/YourAccount/Reorder">Re-order</a>
+                            </li>
+                                                                                                <li>
+                                <a href="https://secure.moo.com/account/order-history.php" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/YourAccount/OrderHistory">Order history</a>
+                            </li>
+                                                                                                <li>
+                                <a href="https://secure.moo.com/account/unfinished-projects.php" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/YourAccount/SavesProjects">Saved projects</a>
+                            </li>
+                                                                                                <li>
+                                <a href="https://secure.moo.com/account/gift-cards.php" class="mooCustomTracking" rel="gaUrl:/customPageView/topnav/us/YourAccount/RedeemGiftCards">Redeem Gift Cards</a>
+                            </li>
+                                                            </ul>
+            </li>
+            </ul>
 <!-- End of Main Navigation -->
 
+            </nav>
         </div>
     </div>
-</div>
+</header>
 
     
     
@@ -801,20 +754,24 @@ require(['jquery'], function ($) {
 
     
     <div class="container">
-        
-        <div class="heading-container"><h1>Privacy and Cookie Policy</h1></div>
 
-        <div class="col12 push-bottom">
-            
-            <div class="box rounded-corners-5 legal">
-            	
-				<h2 class="underline-dotted">MOO, Inc. – Privacy and Cookie Policy</h2>
-				                
-                <!--
-                 if content field is a field list, output each item in the list,
-                 otherwise output the content as a single block.
-                -->
-                                    <p>At MOO, we believe that anyone who uses the internet should be fully aware of how their information is used - so we’ve put together this document to explain exactly how we approach handling your data.</p>
+        <div class="row">
+            <div class="col-12 page-header">
+                <h1>Privacy and Cookie Policy</h1>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 push-bottom">
+                <div class="panel panel-default legal">
+                    <div class="panel-body">
+        				<h2 class="panel-title">MOO, Inc. – Privacy and Cookie Policy</h2>
+
+                        <!--
+                         if content field is a field list, output each item in the list,
+                         otherwise output the content as a single block.
+                        -->
+                                                    <p>At MOO, we believe that anyone who uses the internet should be fully aware of how their information is used - so we’ve put together this document to explain exactly how we approach handling your data.</p>
 
 <p>Before you read it, the most important thing you need to know is this: your privacy is as important to us as it is to you. Giving us your personal details is an act of trust, and one that we take seriously. We will never show your details to anyone else, sell, rent or otherwise disclose any of your personal information, including your email address, to any third party without your prior and explicit consent. And unless you give us specific consent to act otherwise, the following Privacy and Cookie policy legal document outlines how MOO handles your private information.</p> 
 
@@ -1016,7 +973,7 @@ The data contained in the Cookies used in these adverts is completely anonymous 
 <p>If you’re still interested, you might like to visit <a rel="external" href="http://www.youronlinechoices.com/uk/your-ad-choices">this website</a> to learn more about the Cookies on your computer set by other companies, and opt out of them if you want to.</p>
 
 <p><strong>Further information about Cookies</strong></p>
-<p>If you'd like to learn more about Cookies in general and how to manage them, visit <a rel="external" href="http://aboutCookies.org">aboutCookies.org</a></p>
+<p>If you'd like to learn more about Cookies in general and how to manage them, visit <a rel="external" href="http://www.aboutcookies.org">aboutCookies.org</a></p>
 
 <h3>5. Our commitment to the privacy of children</h3>
 <p>Protecting the privacy of the very young is extremely important to MOO. No part of our website is structured to attract anyone under 13. We never seek to collect or maintain information from those under the age of 13, but if it comes to our attention that we have received information about a child under the age of 13 we’ll immediately delete their information from our records. (Though we’d secretly be quite impressed that a 13 year old needed business cards.)</p>
@@ -1097,16 +1054,15 @@ Credit and Payment Card information.</p>
 <p>As a user, you have certain rights under the Data Protection Act 1998. You have the right to be told what personal information we hold about you on our database. Should you wish to exercise that right, please contact us – we’ll be happy to help.</p>
 
 <h3>14. Data Protection Information</h3>
-<p>Are you actually still reading this? That’s very impressive! For even more information about data protection laws by visiting the Information Commissioner’s web site at <a href="http://ico.org.uk/">http://ico.org.uk/</a></p>
+<p>Are you actually still reading this? That’s very impressive! For even more information about data protection laws by visiting the Information Commissioner’s web site at <a href="http://www.dataprotection.gov.uk/">www.dataprotection.gov.uk</a></p>
 
 <p><strong>© 2012 MOO Print Ltd. All Rights Reserved.</strong></p>
 <p>At MOO, we believe that anyone who uses the internet should be fully aware of how their information is used - so we’ve put together this document to explain exactly how we approach handling your data.</p>
-                
-				
-			</ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></div>
-			
-        </div>      
-        
+                                            </ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></div>
+    			</div>
+            </div>
+        </div>
+
     </div>
 
 
@@ -1118,123 +1074,125 @@ Credit and Payment Card information.</p>
 
     
     
-    <div id="divFooter" class="clearfix">
-    <div class="no-padding brand-boxes clearfix container">
-    <ul>
-        <li class="col4 first border">
-                <h4 class="module-subheading">Next day Rush Printing</h4>
-                <p class="border">
-                     <img src="http://static1.moo.com/images/footer/footer_shipping.png?q=1-68515085585451178113225920551332" width="64" height="68" alt="shipping">
-                     <span>Order before midnight and we'll print the next day. <a href="/help/faq/delivery-and-turnaround.html">More on Rush Printing</a>.
-</span>
-                </p>
-        </li>
-        <li class="col4 border">
-                <h4 class="module-subheading">Ordering for 10+ Employees?</h4>
-                <p class="border">
-                    <img src="http://static1.moo.com/images/footer/footer_mbs.png?q=1-104655585457020132259198266295" width="64" height="68" alt="moo business services">
-                    <span>We offer a dedicated account managed service and easy online ordering system. <a href="/products/business-services/">Find out more</a>.</span>
-                </p>
-        </li>
-        <li class="col4 last">
-                <h4 class="module-subheading">The MOO Promise</h4>
-                <p>
-                    <img src="http://static8.moo.com/images/footer/footer_moo_promise.png?q=1-605255854510033132259202195477" width="64" height="68" alt="moo promise">
-                    <span>We’re only happy when you’re happy – our <a href="/help/contact-us.html">customer service</a> team are always there to help.</span>
-                </p>
-        </li>
-    </ul>
+    <footer class="separator separator-thin separator-top leading-sm">
+    <div class="container">
+        <div class="row separator separator-bottom separator-thin separator-light spacer-top spacer-bottom">
+    <div class="col-4 spacer-bottom">
+        <span class="h6">Next day delivery</span>
+        <div>
+            <div class="mooimage-stopwatch pull-right spacer-left"></div>
+            Order Business Cards before midday, and we'll deliver them the next day. <a href="/next-day-delivery/" rel="gaCat:footer,gaAct:BrandBox,gaLab:More on delivery times">More on delivery times</a>.
+
+        </div>
+    </div>
+    <div class="col-4 spacer-bottom">
+        <span class="h6">Ordering for 10+ Employees?</span>
+        <div>
+            <div class="mooimage-people pull-right spacer-left"></div>
+            We offer a dedicated account managed service and easy online ordering system. <a href="/products/business-services/" rel="gaCat:footer,gaAct:BrandBox,gaLab:Find out more">Find out more</a>.
+        </div>
+    </div>
+    <div class="col-4 spacer-bottom">
+        <span class="h6">The MOO Promise</span>
+        <div>
+            <div class="mooimage-promise-stamp pull-right spacer-left"></div>
+            <a href="/about/moo-promise.html" rel="gaCat:footer,gaAct:BrandBox,gaLab:We’re only happy when you’re happy">We’re only happy when you’re happy</a> – our customer service <br> team are always there to help.
+        </div>
+    </div>
 </div>
 
 
 
-    <div class="no-padding clearfix footer-block">
-    
-            <dl class="col2">
-            <dt>Products</dt>
-                            <dd><a href="http://us.moo.com/products/business-cards.html">Business Cards</a></dd>
-                            <dd><a href="http://us.moo.com/products/minicards.html">MiniCards</a></dd>
-                            <dd><a href="http://us.moo.com/products/postcards.html">Postcards</a></dd>
-                            <dd><a href="http://us.moo.com/products/luxe/notecards.html">Notecards</a></dd>
-                            <dd><a href="http://us.moo.com/products/letterheads.html">Letterhead</a></dd>
-                            <dd><a href="http://us.moo.com/products/stickers/">Stickers</a></dd>
-                            <dd><a href="http://us.moo.com/products/greeting-cards.html">Greeting Cards</a></dd>
-                            <dd><a href="http://us.moo.com/accessories/">Accessories</a></dd>
-                    </dl>
-            <dl class="col2">
-            <dt>Useful Stuff</dt>
-                            <dd><a href="http://us.moo.com/about/moo-promise.html">The MOO Promise</a></dd>
-                            <dd><a href="http://us.moo.com/about/">Why choose MOO?</a></dd>
-                            <dd><a href="http://us.moo.com/help/faq/">FAQs</a></dd>
-                            <dd><a href="http://us.moo.com/help/faq/cost-calculator.html">Pricing</a></dd>
-                            <dd><a href="http://us.moo.com/help/faq/delivery-and-turnaround.html">Delivery &amp; turnaround times</a></dd>
-                            <dd><a href="http://us.moo.com/help/faq/templates-and-guidelines.html">Artwork guidelines</a></dd>
-                            <dd><a href="http://us.moo.com/refer-a-friend/">Refer a Friend</a></dd>
-                            <dd><a href="http://us.moo.com/about/privacy-policy/">Privacy &amp; Cookie policy</a></dd>
-                    </dl>
-            <dl class="col2">
-            <dt>Working with MOO</dt>
-                            <dd><a href="http://us.moo.com/products/business-services">10+ Employees?</a></dd>
-                            <dd><a href="http://us.moo.com/students/">Student ordering</a></dd>
-                            <dd><a href="http://us.moo.com/affiliates/">Affiliate program</a></dd>
-                            <dd><a href="http://us.moo.com/pickup/">MOO for Events</a></dd>
-                            <dd><a href="http://us.moo.com/about/jobs/">Careers</a></dd>
-                            <dd><a href="http://us.moo.com/about/press.html">Press kit</a></dd>
-                            <dd><a href="http://us.moo.com/api/">API</a></dd>
-                    </dl>
-            <dl class="col2">
-            <dt>Contact MOO</dt>
-                            <dd><a href="http://us.moo.com/help/contact-us.html">Contact us</a></dd>
-                            <dd><a href="http://www.moo.com/blog/">Blog</a></dd>
-                            <dd><a href="http://us.moo.com/newsletter/archive.html">Newsletter</a></dd>
-                            <dd><a href="http://www.twitter.com/overheardatmoo">Twitter</a></dd>
-                            <dd><a href="http://us.moo.com/about/community.html">Community</a></dd>
-                    </dl>
-    
-    
-    
-    <dl class="col2 langSelectComponent">
-        <dt>We speak</dt>
-                                    <dd class="langSelectOption" data-lang="de">
-                    <a href="http://us.moo.com/de/about/privacy-policy/" title="Change language">Deutsch</a>
-                </dd>                   
-                                                <dd class="selected">   
-                    <span>English</span>
-                </dd>
-                                                <dd class="langSelectOption" data-lang="es">
-                    <a href="http://us.moo.com/es/about/privacy-policy/" title="Change language">Español</a>
-                </dd>                   
-                                                <dd class="langSelectOption" data-lang="fr">
-                    <a href="http://us.moo.com/fr/about/privacy-policy/" title="Change language">Français</a>
-                </dd>                   
-                                                <dd class="langSelectOption" data-lang="it">
-                    <a href="http://us.moo.com/it/about/privacy-policy/" title="Change language">Italiano</a>
-                </dd>                   
-                        </dl>
+        <div class="row">
+
+            <nav class="col-2">
+            Products
+            <ul class="list-unstyled list-row-spacing">
+                            <li><a href="http://ca.moo.com/products/business-cards.html" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Products/Business Cards">Business Cards</a></li>
+                            <li><a href="http://ca.moo.com/products/minicards.html" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Products/MiniCards">MiniCards</a></li>
+                            <li><a href="http://ca.moo.com/products/postcards.html" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Products/PostCards">Postcards</a></li>
+                            <li><a href="http://ca.moo.com/products/luxe/notecards.html" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Products/Notecards">Notecards</a></li>
+                            <li><a href="http://ca.moo.com/products/letterheads.html" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Products/Letterhead">Letterhead</a></li>
+                            <li><a href="http://ca.moo.com/products/stickers/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Products/Stickers">Stickers</a></li>
+                            <li><a href="http://ca.moo.com/products/greeting-cards.html" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Products/Greeting Cards">Greeting Cards</a></li>
+                            <li><a href="http://ca.moo.com/accessories/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Products/Accessories">Accessories</a></li>
+                            <li><a href="http://ca.moo.com/flyers/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Products/Flyers">Flyers</a></li>
+                        </ul>
+        </nav>
+            <nav class="col-2">
+            Useful Stuff
+            <ul class="list-unstyled list-row-spacing">
+                            <li><a href="http://ca.moo.com/about/moo-promise.html" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Useful Stuff/The MOO Promise">The MOO Promise</a></li>
+                            <li><a href="http://ca.moo.com/about/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Useful Stuff/Why Choose MOO?">Why choose MOO?</a></li>
+                            <li><a href="https://support.moo.com/hc/en-us/sections/200572464" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Useful Stuff/FAQs">FAQs</a></li>
+                            <li><a href="http://ca.moo.com/help/faq/cost-calculator.html" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Useful Stuff/Pricing">Pricing</a></li>
+                            <li><a href="https://support.moo.com/hc/en-us/sections/200571244" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Useful Stuff/Delivery &amp; turnaround times">Delivery &amp; turnaround times</a></li>
+                            <li><a href="https://support.moo.com/hc/en-us/sections/200572464" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Useful Stuff/Artwork guidelines">Artwork guidelines</a></li>
+                            <li><a href="http://ca.moo.com/refer-a-friend/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Useful Stuff/Refer a Friend">Refer a Friend</a></li>
+                            <li><a href="http://ca.moo.com/about/privacy-policy/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Useful Stuff/Privacy and cookie policy">Privacy &amp; Cookie policy</a></li>
+                        </ul>
+        </nav>
+            <nav class="col-2">
+            Working with MOO
+            <ul class="list-unstyled list-row-spacing">
+                            <li><a href="http://ca.moo.com/products/business-services/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Working with MOO/10+ Employees?">10+ Employees?</a></li>
+                            <li><a href="http://ca.moo.com/students/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Working with MOO/Student ordering">Student ordering</a></li>
+                            <li><a href="http://ca.moo.com/affiliates/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Working with MOO/Affiliate programme">Affiliate program</a></li>
+                            <li><a href="http://ca.moo.com/pickup/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Working with MOO/MOO for Events">MOO for Events</a></li>
+                            <li><a href="http://ca.moo.com/about/jobs/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Working with MOO/Careers">Careers</a></li>
+                            <li><a href="http://ca.moo.com/about/press.html" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Working with MOO/Press kit">Press kit</a></li>
+                            <li><a href="http://ca.moo.com/api/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Working with MOO/API">API</a></li>
+                        </ul>
+        </nav>
+            <nav class="col-2">
+            Contact MOO
+            <ul class="list-unstyled list-row-spacing">
+                            <li><a href="https://moo.zendesk.com/hc/en-us/sections/200598374" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Contact MOO/Contact us">Contact us</a></li>
+                            <li><a href="http://www.moo.com/blog/" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Contact MOO/Blog">Blog</a></li>
+                            <li><a href="http://ca.moo.com/about/community.html" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Contact MOO/Community">Community</a></li>
+                            <li><a href="http://www.twitter.com/MOO" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Contact MOO/Twitter">Twitter</a></li>
+                            <li><a href="http://www.facebook.com/moo" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Contact MOO/Facebook">Facebook</a></li>
+                            <li><a href="https://plus.google.com/u/0/+moohq/posts" class="mooCustomTracking" rel="gaCat:footer,gaAct:footer-menu,gaLab:Contact MOO/gPlus">Google Plus</a></li>
+                        </ul>
+        </nav>
     
     
     
-    <dl class="col2 clearfix">
-        <dt>We accept:</dt>
-        <dd class="footer-payment"><img src="http://static2.moo.com/images/footer/payment_methods_us.png?q=1-2532370000015991138997099013986" alt="Payment methods"></dd>
-    </dl>
+    <nav class="col-2">
+            </nav>
+    
+
+    
+    <div class="col-2">
+        We accept:
+        <div class="row">
+            <div class="col-8">
+                <img src="http://static2.moo.com/images/footer/payment_methods_us.png?q=1-29904903165045530" alt="Payment methods">
+            </div>
+        </div>
+    </div>
 </div>
-    <div id="divCompanyInfo">
-    <address>
-        <span class="moo-droplet">&nbsp;</span>
-        <span class="hide tooltip rounded-corners-5" id="spnMOODropletBox">
-            <span>Oh hi, nice to see you!</span>
-            <span class="down"></span>
-        </span>
-        <span class="links">
-                            <a href="http://us.moo.com/about/fonts/" id="aFonts">Fonts</a>
-                            <a href="http://us.moo.com/about/terms-conditions/" id="aTC">Terms &amp; conditions</a>
-                            <a href="http://us.moo.com/about/privacy-policy/" id="aPrivacy">Privacy policy</a>
-                    </span>
-        <span class="address">© MOO Inc.</span>,  985 Waterman Avenue, East Providence, RI 02914, USA - Registered in the United States of America.
-    </address>
+    </div>
+    <div class="smallprint background-alt separator separator-thin separator-top spacer-top">
+        <div class="container spacer-top spacer-bottom">
+    <span class="pull-left mooimage-ink-drop-filled"></span>
+    <small class="pull-left">
+        <address class="address-inline">
+            <span class="address">© MOO Inc.</span>,  985 Waterman Avenue, East Providence, RI 02914, USA - Registered in the United States of America.
+        </address>
+    </small>
+    <small class="pull-right">
+        <ul class="list-horizontal pull-right">
+                            <li><a href="http://ca.moo.com/about/fonts/" id="aFonts" rel="gaCat:footer,gaAct:details,gaLab:fonts">Fonts</a></li>
+                            <li><a href="http://ca.moo.com/about/terms-conditions/" id="aTC" rel="gaCat:footer,gaAct:details,gaLab:termsAndConditions">Terms &amp; conditions</a></li>
+                            <li><a href="http://ca.moo.com/about/privacy-policy/" id="aPrivacy" rel="gaCat:footer,gaAct:details,gaLab:privacyPolicy">Privacy policy</a></li>
+                            <li><a href="http://ca.moo.com/sitemap" id="aSitemap" rel="gaCat:footer,gaAct:details,gaLab:sitemap">Sitemap</a></li>
+                    </ul>
+    </small>
 </div>
-</div>
+
+    </div>
+</footer>
     <script type="text/javascript">
     require(['jquery'], function ($) {
         'use strict';
@@ -1302,39 +1260,24 @@ require(['moo/onLoadEvents'], function (onLoadEvents) {
 
 
 
- 
- 
-
-<script type="text/javascript">
- require(['moo/onLoadEvents'], function (onLoadEvents) {
-    onLoadEvents.addOnLoadEvent(
-            function () {
-                     var page_url = encodeURIComponent(document.URL),
-                         ref_url = encodeURIComponent(document.referrer),
-                         mpt = new Date(),
-                         mpts = mpt.getTimezoneOffset() + mpt.getTime(),
-                         protocol = window.location.protocol === "https:" ? "https://secure." : "http://",
-                         $ = require('jquery');
-
-                     // Using double quotes and escaping here to prevent 404s in some (older) browsers which were interpreting everything after src= as a string when using single 's
-                     $('body').append("<iframe src=\"" + protocol + "img-cdn.mediaplex.com/0/22291/universal.html?page_name=content&mpt="
-                         + mpts + "&url=" + page_url + "&ref=" + ref_url + "\" height=\"1\" width=\"1\" frameborder=\"0\" class=\"hide\"></iframe>");
-                 }
-    );
- });
- </script>
-
-
-
-
-
-
 <script type="text/javascript" id="srcFooterTracking">
 </script>
 
 
     
-<!-- Generated by zappa using release fe7037109905a0055e5f9e7b73494eac  -->
+    <script type="text/javascript">
+    (function(){
+        var a = document.createElement('script');
+        a.type = 'text/javascript';
+        a.async = true;
+        a.src = '/bower_components/moo-toolkit/dist/javascript/toolkit-compiled.js?q=01acf95be98282ce0934e1106787e74a';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(a, s);
+    })();
+</script>
+
+    
+<!-- Generated by bolan using release 01acf95be98282ce0934e1106787e74a  -->
 
 
     
@@ -1342,6 +1285,7 @@ require(['moo/onLoadEvents'], function (onLoadEvents) {
 
     
     
+
 
 
 
