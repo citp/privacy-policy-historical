@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momarewethereyet.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630172137id_/http%3A//momarewethereyet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momarewethereyet.net privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217113739id_/http%3A//momarewethereyet.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mom, Are We There Yet?
 
