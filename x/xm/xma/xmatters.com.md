@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmatters.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404064907id_/http%3A//www.xmatters.com/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmatters.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217201605id_/http%3A//www.xmatters.com/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | xMatters, inc.
 
