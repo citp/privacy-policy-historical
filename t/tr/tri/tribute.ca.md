@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tribute.ca privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628041036id_/http%3A//www.tribute.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribute.ca privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217013302id_/http%3A//www.tribute.ca/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tribute.ca
 
@@ -87,5 +87,7 @@ This Privacy Policy may be updated periodically to reflect changes to our person
 **CONTACT US**
 
 If you have any questions, concerns or complaints regarding our Privacy Policy or the manner in which we or our service providers treat your personal information, please contact our **Privacy Officer** at the following information: [**generalinfo@tribute.ca**](mailto:generalinfo@tribute.ca)
+
+* * *
 
 Last updated: January 29, 2014 
