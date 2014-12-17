@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nortonrosefulbright.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065306id_/http%3A//www.nortonrosefulbright.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nortonrosefulbright.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217092406id_/http%3A//www.nortonrosefulbright.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice| Norton Rose Fulbright
 
@@ -50,3 +50,7 @@ Norton Rose Fulbright LLP
 3 More London Riverside  
 London, SE1 2AQ  
 United Kingdom
+
+### Australia
+
+In Australia certain additional restrictions apply – please see our [Australian policy](https://web.archive.org/au/privacy-notice/).
