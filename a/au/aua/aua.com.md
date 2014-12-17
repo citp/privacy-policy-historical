@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aua.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015334id_/http%3A//www.austrian.com/Info/LegalRegulations/DataProtection.aspx%3Fsc_lang%3Den%26cc%3DAT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aua.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217031109id_/http%3A//www.austrian.com/Info/LegalRegulations/DataProtection.aspx%3Fsc_lang%3Den%26cc%3DAT) for the most accurate reproduction.*
 
 # Privacy Policy
 
