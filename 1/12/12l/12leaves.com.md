@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12leaves.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615045702id_/http%3A//www.12leaves.com/privacy-policy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12leaves.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217062651id_/http%3A//www.12leaves.com/privacy-policy-en.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
