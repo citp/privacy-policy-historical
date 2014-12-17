@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imexamerica.com privacy policy that was archived on 2014-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140617074205id_/http%3A//www.imexamerica.com/about-us/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imexamerica.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217075807id_/http%3A//www.imexamerica.com/about-us/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width"><title>
 	IMEX America: Privacy Statement
@@ -21,9 +21,22 @@
         var restrictedUrl = 'http://www.imexamerica.com/login/';
       
 
-      if (restrictedContent && typeof isLoggedIn != 'undefined' && isLoggedIn == "no") {
-      window.location = restrictedUrl + "?r=" + window.location;
-      }
+
+          function arrContains(a, obj) {var i = a.length; while (i--) { if (a[i] === obj) { return true; } } return false; }
+
+          var restrictedRoles = "";
+          var restrictedRolesArr =  restrictedRoles.length>0 ? restrictedRoles.split(',') : new Array();
+
+          if (restrictedContent && typeof isLoggedIn != 'undefined' && (isLoggedIn == "no" || isLoggedIn == "0")) {
+          window.location = restrictedUrl + "?r=" + window.location;
+          }else  if (restrictedContent && typeof isLoggedIn != 'undefined' && restrictedRolesArr.length > 0){
+          var u = isLoggedIn.split('|||');
+          if(u.length == 2 && !arrContains(restrictedRolesArr, u[1])){
+          window.location = restrictedUrl + "?r=" + window.location;
+          }
+          }
+
+
     </script>
 
         <!--[if lt IE 9]>
@@ -62,7 +75,7 @@
     <li>&nbsp;</li>
   </ul></nav>
             <nav class="grid_9"><ul class="tertiary-nav">
-    <li class="first"><a href="http://www.imexamerica.com/app/">App</a></li> <li><a href="http://portal.imexamerica.com/vex/vexsearch.php " target="_blank">Exhibitor Directory</a></li> <li><a href="http://www.imexamerica.com/press/">Press</a></li> <li><a href="http://www.imexamerica.com/resources/">Resources</a></li> <li class="last"><a href="http://www.imexamerica.com/publications/">Publications</a></li> <li><a id="login-link" target="_blank" href="https://portal.imexamerica.com/portal.php">LOGIN</a></li>
+    <li class="first"><a href="http://portal.imexamerica.com/vex/vexsearch.php " target="_blank">Exhibitor Search</a></li> <li><a href="https://portal.imexamerica.com/events.php" target="_blank">Education</a></li> <li><a href="http://www.imexamerica.com/press/">Press</a></li> <li><a href="http://www.imexamerica.com/resources/">Resources</a></li> <li><a href="http://www.imexamerica.com/publications/">Publications</a></li> <li class="last"><a href="http://www.imexamerica.com/app/">App</a></li> <li><a id="login-link" target="_blank" href="https://portal.imexamerica.com/portal.php">LOGIN</a></li>
     <li class="lastnode site-search">
       <fieldset class="site-search-form"><input class="search-button" type="submit" value=""><input class="search-box" type="text" placeholder="Search..."></fieldset>
     </li>
@@ -71,37 +84,53 @@
     </div>
     <form method="post" action="/about-us/privacy-statement/" id="Form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAmYPZBYCAg0QZGQWAgIND2QWCGYPZBYCZg9kFgJmD2QWDgIBD2QWAmYPZBYEAgEPFgIeBFRleHQFBjExLDQyMmQCAw8WAh8ABRFUd2l0dGVyIGZvbGxvd2Vyc2QCAw8WAh8ABQ5UaGUgSU1FWCBHcm91cGQCBQ8PFgQfAAULQElNRVhfR3JvdXAeC05hdmlnYXRlVXJsBSFodHRwOi8vd3d3LnR3aXR0ZXIuY29tL0lNRVhfR3JvdXBkZAIHDxYCHwAFrwJJcyBZb3VyIFNvY2lhbCBNYXJrZXRpbmcgU3RyYXRlZ3kgR29pbmcgU3RhbGU/IHwgPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL0Fzc29jaWF0aW9uc05vdyI+QEFzc29jaWF0aW9uc05vdzwvYT4gPGEgaHJlZj0iaHR0cDovL3QuY28vVDY5RTR2WUlZQSI+c2NvLmx0LzV5SjZieDwvYT4gPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL3NlYXJjaD9xPSUyM21hcmtldGluZyI+I21hcmtldGluZzwvYT4gPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL3NlYXJjaD9xPSUyM2Fzc29jaWF0aW9ucyI+I2Fzc29jaWF0aW9uczwvYT5kAgkPDxYEHwAFBVJlcGx5HwEFQmh0dHA6Ly93d3cudHdpdHRlci5jb20vaW50ZW50L3R3ZWV0P2luX3JlcGx5X3RvPTQ3ODU2ODQwNDYxNDY3MjM4NWRkAgsPDxYEHwAFB1JldHdlZXQfAQVJaHR0cDovL3d3dy50d2l0dGVyLmNvbS9pbnRlbnQvcmV0d2VldD90d2VldF9pZD00Nzg1Njg0MDQ2MTQ2NzIzODUmbGFuZz1lbmRkAg0PDxYEHwAFCEZhdm9yaXRlHwEFQmh0dHA6Ly93d3cudHdpdHRlci5jb20vaW50ZW50L2Zhdm9yaXRlP3R3ZWV0X2lkPTQ3ODU2ODQwNDYxNDY3MjM4NWRkAgIPZBYCZg9kFgJmD2QWBgIBDxYCHwAFBTQsNzA1ZAIDDxYCHwAFDkZhY2Vib29rIGxpa2VzZAIFDxYCHgtfIUl0ZW1Db3VudAIBFgJmDxYCHgdWaXNpYmxlaGQCBA9kFgJmD2QWAmYPZBYGAgEPFgIfAAUCNDVkAgMPFgIfAAUOWW91dHViZSB2aWRlb3NkAgUPFgIfAgIBFgICAQ9kFgoCAQ8WAh8ABSpodHRwOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VHQ4b2hueThhdDRkAgMPFgIfAAUcSU1FWCBBbWVyaWNhIDIwMTMgVGltZSBMYXBzZWQCBQ8PFgIeCEltYWdlVXJsBTBodHRwOi8vaTEueXRpbWcuY29tL3ZpL1R0OG9obnk4YXQ0L2hxZGVmYXVsdC5qcGdkZAIHDxYCHwAFHElNRVggQW1lcmljYSAyMDEzIFRpbWUgTGFwc2VkAgkPDxYEHwAFGFN1YnNjcmliZSB0byBvdXIgY2hhbm5lbB8BBZEBaHR0cDovL3d3dy55b3V0dWJlLmNvbS91c2VyL0lNRVhleGhpYml0aW9ucz9mZWF0dXJlPWNyZWF0b3JzX2Nvcm5pZXItJTJGJTJGcy55dGltZy5jb20lMkZ5dCUyRmltZyUyRmNyZWF0b3JzX2Nvcm5lciUyRllvdVR1YmUlMkZ5b3V0dWJlXzMyeDMyLnBuZ2RkAgcPZBYCZg9kFgICBA9kFgoCAQ8WAh8ABSdjbGFzcz0ibmV3c2xldHRlcnNpZ251cHdpZGdldGV4dGVuZGVkICJkAgMPFgIfAGVkAgUPFgIfAgIBFgJmD2QWBgIBDxYCHwAFEG5ld3NsZXR0ZXJzaWdudXBkAgMPFgIfAAUiPGxlZ2VuZD5OZXdzbGV0dGVyIFNpZ251cDwvbGVnZW5kPmQCBQ8WAh8CAgYWDGYPZBYIAgEPFgIfAAUidGV4dCBmaXJzdG5hbWUgdGV4dGZpZWxkIG1hbmRhdG9yeWQCAw8PFggeCENzc0NsYXNzBQpmaWVsZExhYmVsHwAFCkZpcnN0IG5hbWUeE0Fzc29jaWF0ZWRDb250cm9sSUQFJDcwMmRhYzJlX2ZiYTFfNGI4YV9iYWUwX2JmNTAwZjExNmU5OR4EXyFTQgICZGQCBQ9kFgJmDw8WBB8FBQR0ZXh0HwcCAmRkAgkPDxYIHgxFcnJvck1lc3NhZ2UFHFBsZWFzZSBlbnRlciB5b3VyIGZpcnN0IG5hbWUeD1ZhbGlkYXRpb25Hcm91cAU1Q29udGVudFBsYWNlSG9sZGVyRGVmYXVsdF9Gb290ZXJDb250ZW50X1JlbmRlckZvcm1fMjEeEUNvbnRyb2xUb1ZhbGlkYXRlBSQ3MDJkYWMyZV9mYmExXzRiOGFfYmFlMF9iZjUwMGYxMTZlOTkfA2dkZAIBD2QWCAIBDxYCHwAFLXRleHQgbGFzdG5hbWUgdGV4dGZpZWxkIG1hbmRhdG9yeSBhbHRlcm5hdGluZ2QCAw8PFggfBQUKZmllbGRMYWJlbB8ABQlMYXN0IG5hbWUfBgUkOTc5MDllMDlfMjEyY180MjkyX2JkODVfNWE1ZTY4MDgzMzNlHwcCAmRkAgUPZBYCZg8PFgQfBQUEdGV4dB8HAgJkZAIJDw8WCB8IBRtQbGVhc2UgZW50ZXIgeW91ciBsYXN0IG5hbWUfCQU1Q29udGVudFBsYWNlSG9sZGVyRGVmYXVsdF9Gb290ZXJDb250ZW50X1JlbmRlckZvcm1fMjEfCgUkOTc5MDllMDlfMjEyY180MjkyX2JkODVfNWE1ZTY4MDgzMzNlHwNnZGQCAg9kFggCAQ8WAh8ABSF0ZXh0IGpvYnRpdGxlIHRleHRmaWVsZCBtYW5kYXRvcnlkAgMPDxYIHwUFCmZpZWxkTGFiZWwfAAUJSm9iIHRpdGxlHwYFJDBmMDAxM2Y0Xzg3YjVfNGJhNl85ZGMyXzg3MjA3YWIxMjAzZB8HAgJkZAIFD2QWAmYPDxYEHwUFBHRleHQfBwICZGQCCQ8PFggfCAUbUGxlYXNlIGVudGVyIHlvdXIgam9iIHRpdGxlHwkFNUNvbnRlbnRQbGFjZUhvbGRlckRlZmF1bHRfRm9vdGVyQ29udGVudF9SZW5kZXJGb3JtXzIxHwoFJDBmMDAxM2Y0Xzg3YjVfNGJhNl85ZGMyXzg3MjA3YWIxMjAzZB8DZ2RkAgMPZBYIAgEPFgIfAAUwdGV4dCBjb21wYW55bmFtZSB0ZXh0ZmllbGQgbWFuZGF0b3J5IGFsdGVybmF0aW5nZAIDDw8WCB8FBQpmaWVsZExhYmVsHwAFDENvbXBhbnkgbmFtZR8GBSQ0ZWM1NjFjYl8wNzRmXzRmNDhfYTk1MF9jYzZiNGM3MDVjMDgfBwICZGQCBQ9kFgJmDw8WBB8FBQR0ZXh0HwcCAmRkAgkPDxYIHwgFHlBsZWFzZSBlbnRlciB5b3VyIGNvbXBhbnkgbmFtZR8JBTVDb250ZW50UGxhY2VIb2xkZXJEZWZhdWx0X0Zvb3RlckNvbnRlbnRfUmVuZGVyRm9ybV8yMR8KBSQ0ZWM1NjFjYl8wNzRmXzRmNDhfYTk1MF9jYzZiNGM3MDVjMDgfA2dkZAIED2QWCgIBDxYCHwAFMnRleHQgZW1haWxhZGRyZXNzIHRleHRmaWVsZCBtYW5kYXRvcnkgaGFzdmFsaWRhdG9yZAIDDw8WCB8FBQpmaWVsZExhYmVsHwAFDUVtYWlsIEFkZHJlc3MfBgUkN2E4N2QzMWZfNGFmY180NGNkXzkyZWZfNThiNDY2ZDQyZDViHwcCAmRkAgUPZBYCZg8PFgQfBQUEdGV4dB8HAgJkZAIJDw8WCB8IBR9QbGVhc2UgZW50ZXIgeW91ciBlbWFpbCBhZGRyZXNzHwkFNUNvbnRlbnRQbGFjZUhvbGRlckRlZmF1bHRfRm9vdGVyQ29udGVudF9SZW5kZXJGb3JtXzIxHwoFJDdhODdkMzFmXzRhZmNfNDRjZF85MmVmXzU4YjQ2NmQ0MmQ1Yh8DZ2RkAgsPDxYKHwgFIlBsZWFzZSBlbnRlciBhIHZhbGlkIGVtYWlsIGFkZHJlc3MfCQU1Q29udGVudFBsYWNlSG9sZGVyRGVmYXVsdF9Gb290ZXJDb250ZW50X1JlbmRlckZvcm1fMjEfCgUkN2E4N2QzMWZfNGFmY180NGNkXzkyZWZfNThiNDY2ZDQyZDViHhRWYWxpZGF0aW9uRXhwcmVzc2lvbgVUXltfYS16QS1aMC05LV0rKFwuW19hLXpBLVowLTktXSspKkBbYS16QS1aMC05LV0rKFwuW2EtekEtWjAtOS1dKykqKFwuW2EtekEtWl17Miw0fSkkHwNnZGQCBQ9kFggCAQ8WAh8ABUFyYWRpb2J1dHRvbmxpc3QgdmlzaXRvcnR5cGUgcmFkaW9idXR0b25saXN0IG1hbmRhdG9yeSBhbHRlcm5hdGluZ2QCAw8PFggfBQUKZmllbGRMYWJlbB8ABQxWaXNpdG9yIFR5cGUfBgUkMTg2ZjgwZDBfODdiZl80YjZkXzk2MzFfMjU3MmY5OWIxZTM0HwcCAmRkAgUPZBYCZg8QDxYEHwUFD3JhZGlvYnV0dG9ubGlzdB8HAgJkZGRkAgkPDxYIHwgFH1BsZWFzZSBjaG9vc2UgYSB0eXBlIG9mIHZpc2l0b3IfCQU1Q29udGVudFBsYWNlSG9sZGVyRGVmYXVsdF9Gb290ZXJDb250ZW50X1JlbmRlckZvcm1fMjEfCgUkMTg2ZjgwZDBfODdiZl80YjZkXzk2MzFfMjU3MmY5OWIxZTM0HwNnZGQCBw8PFgQfAAUEUHJldh8DaGRkAggPDxYIHwUFJ2NvbnRvdXJCdXR0b24gY29udG91ck5leHQgY29udG91clN1Ym1pdB8ABQZTdWJtaXQfCQU1Q29udGVudFBsYWNlSG9sZGVyRGVmYXVsdF9Gb290ZXJDb250ZW50X1JlbmRlckZvcm1fMjEfBwICZGRkOk3A6fng6IX5GQ/CYKrsvi3oRPFhdG23rQveyFs++rM=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAmYPZBYCAg0QZGQWAgIND2QWCGYPZBYCZg9kFgJmD2QWDgIBD2QWAmYPZBYEAgEPFgIeBFRleHQFBjE0LDEwMmQCAw8WAh8ABRFUd2l0dGVyIGZvbGxvd2Vyc2QCAw8WAh8ABQ5UaGUgSU1FWCBHcm91cGQCBQ8PFgQfAAULQElNRVhfR3JvdXAeC05hdmlnYXRlVXJsBSFodHRwOi8vd3d3LnR3aXR0ZXIuY29tL0lNRVhfR3JvdXBkZAIHDxYCHwAFrwJPbmxpbmUgSW5zcGlyYXRpb24gSHViIGhhcyBvdmVyIDUwIHBvc3RzIG9uIDxhIGhyZWY9Imh0dHA6Ly90d2l0dGVyLmNvbS9zZWFyY2g/cT0lMjNQZXJzb25hbCI+I1BlcnNvbmFsPC9hPiA8YSBocmVmPSJodHRwOi8vdHdpdHRlci5jb20vc2VhcmNoP3E9JTIzRGV2ZWxvcG1lbnQiPiNEZXZlbG9wbWVudDwvYT4gPGEgaHJlZj0iaHR0cDovL3QuY28vMzc3cTJ0ek9DRCI+b3cubHkvQVIybHY8L2E+IGh0dHA6Ly90LmNvL0Q3djFKRUg1djAgPGEgaHJlZj0iaHR0cDovL3R3aXR0ZXIuY29tL3NlYXJjaD9xPSUyM09JSCI+I09JSDwvYT5kAgkPDxYEHwAFBVJlcGx5HwEFQmh0dHA6Ly93d3cudHdpdHRlci5jb20vaW50ZW50L3R3ZWV0P2luX3JlcGx5X3RvPTU0NDkzNjMyNjEwNjQ3MjQ0OWRkAgsPDxYEHwAFB1JldHdlZXQfAQVJaHR0cDovL3d3dy50d2l0dGVyLmNvbS9pbnRlbnQvcmV0d2VldD90d2VldF9pZD01NDQ5MzYzMjYxMDY0NzI0NDkmbGFuZz1lbmRkAg0PDxYEHwAFCEZhdm9yaXRlHwEFQmh0dHA6Ly93d3cudHdpdHRlci5jb20vaW50ZW50L2Zhdm9yaXRlP3R3ZWV0X2lkPTU0NDkzNjMyNjEwNjQ3MjQ0OWRkAgIPZBYCZg9kFgJmD2QWBgIBDxYCHwAFBTUsMzc1ZAIDDxYCHwAFDkZhY2Vib29rIGxpa2VzZAIFDxYCHgtfIUl0ZW1Db3VudAIBFgJmD2QWBAIBDxYCHwAFMiBGcmFua2Z1cnQgLSBmcm9tIGFib3ZlIGJ5IHRob21hc2RlY2tlcnQgdmlhIDUwMHB4ZAIDDw8WBB8BBTlodHRwOi8vd3d3LmZhY2Vib29rLmNvbS9JTUVYR3JvdXAvcG9zdHMvMTAxNTI1ODQ1NTg3NjI4MTAfAAUJUmVhZCBNb3JlZGQCBA9kFgJmD2QWAmYPZBYGAgEPFgIfAAUCMzlkAgMPFgIfAAUOWW91dHViZSB2aWRlb3NkAgUPFgIfAgIBFgICAQ9kFgoCAQ8WAh8ABSpodHRwOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SGYwY1liaThjcWtkAgMPFgIfAAUhSU1FWCBBbWVyaWNhIDIwMTQgU2hvdyBUaW1lIExhcHNlZAIFDw8WAh4ISW1hZ2VVcmwFL2h0dHA6Ly9pLnl0aW1nLmNvbS92aS9IZjBjWWJpOGNxay9ocWRlZmF1bHQuanBnZGQCBw8WAh8ABSFJTUVYIEFtZXJpY2EgMjAxNCBTaG93IFRpbWUgTGFwc2VkAgkPDxYEHwAFGFN1YnNjcmliZSB0byBvdXIgY2hhbm5lbB8BBZEBaHR0cDovL3d3dy55b3V0dWJlLmNvbS91c2VyL0lNRVhleGhpYml0aW9ucz9mZWF0dXJlPWNyZWF0b3JzX2Nvcm5pZXItJTJGJTJGcy55dGltZy5jb20lMkZ5dCUyRmltZyUyRmNyZWF0b3JzX2Nvcm5lciUyRllvdVR1YmUlMkZ5b3V0dWJlXzMyeDMyLnBuZ2RkAgcPZBYCZg9kFgICBA9kFgoCAQ8WAh8ABSdjbGFzcz0ibmV3c2xldHRlcnNpZ251cHdpZGdldGV4dGVuZGVkICJkAgMPFgIfAGVkAgUPFgIfAgIBFgJmD2QWBgIBDxYCHwAFEG5ld3NsZXR0ZXJzaWdudXBkAgMPFgIfAAUiPGxlZ2VuZD5OZXdzbGV0dGVyIFNpZ251cDwvbGVnZW5kPmQCBQ8WAh8CAgYWDGYPZBYIAgEPFgIfAAUidGV4dCBmaXJzdG5hbWUgdGV4dGZpZWxkIG1hbmRhdG9yeWQCAw8PFggeCENzc0NsYXNzBQpmaWVsZExhYmVsHwAFCkZpcnN0IG5hbWUeE0Fzc29jaWF0ZWRDb250cm9sSUQFJDcwMmRhYzJlX2ZiYTFfNGI4YV9iYWUwX2JmNTAwZjExNmU5OR4EXyFTQgICZGQCBQ9kFgJmDw8WBB8EBQR0ZXh0HwYCAmRkAgkPDxYIHgxFcnJvck1lc3NhZ2UFHFBsZWFzZSBlbnRlciB5b3VyIGZpcnN0IG5hbWUeD1ZhbGlkYXRpb25Hcm91cAU1Q29udGVudFBsYWNlSG9sZGVyRGVmYXVsdF9Gb290ZXJDb250ZW50X1JlbmRlckZvcm1fMjEeEUNvbnRyb2xUb1ZhbGlkYXRlBSQ3MDJkYWMyZV9mYmExXzRiOGFfYmFlMF9iZjUwMGYxMTZlOTkeB1Zpc2libGVnZGQCAQ9kFggCAQ8WAh8ABS10ZXh0IGxhc3RuYW1lIHRleHRmaWVsZCBtYW5kYXRvcnkgYWx0ZXJuYXRpbmdkAgMPDxYIHwQFCmZpZWxkTGFiZWwfAAUJTGFzdCBuYW1lHwUFJDk3OTA5ZTA5XzIxMmNfNDI5Ml9iZDg1XzVhNWU2ODA4MzMzZR8GAgJkZAIFD2QWAmYPDxYEHwQFBHRleHQfBgICZGQCCQ8PFggfBwUbUGxlYXNlIGVudGVyIHlvdXIgbGFzdCBuYW1lHwgFNUNvbnRlbnRQbGFjZUhvbGRlckRlZmF1bHRfRm9vdGVyQ29udGVudF9SZW5kZXJGb3JtXzIxHwkFJDk3OTA5ZTA5XzIxMmNfNDI5Ml9iZDg1XzVhNWU2ODA4MzMzZR8KZ2RkAgIPZBYIAgEPFgIfAAUhdGV4dCBqb2J0aXRsZSB0ZXh0ZmllbGQgbWFuZGF0b3J5ZAIDDw8WCB8EBQpmaWVsZExhYmVsHwAFCUpvYiB0aXRsZR8FBSQwZjAwMTNmNF84N2I1XzRiYTZfOWRjMl84NzIwN2FiMTIwM2QfBgICZGQCBQ9kFgJmDw8WBB8EBQR0ZXh0HwYCAmRkAgkPDxYIHwcFG1BsZWFzZSBlbnRlciB5b3VyIGpvYiB0aXRsZR8IBTVDb250ZW50UGxhY2VIb2xkZXJEZWZhdWx0X0Zvb3RlckNvbnRlbnRfUmVuZGVyRm9ybV8yMR8JBSQwZjAwMTNmNF84N2I1XzRiYTZfOWRjMl84NzIwN2FiMTIwM2QfCmdkZAIDD2QWCAIBDxYCHwAFMHRleHQgY29tcGFueW5hbWUgdGV4dGZpZWxkIG1hbmRhdG9yeSBhbHRlcm5hdGluZ2QCAw8PFggfBAUKZmllbGRMYWJlbB8ABQxDb21wYW55IG5hbWUfBQUkNGVjNTYxY2JfMDc0Zl80ZjQ4X2E5NTBfY2M2YjRjNzA1YzA4HwYCAmRkAgUPZBYCZg8PFgQfBAUEdGV4dB8GAgJkZAIJDw8WCB8HBR5QbGVhc2UgZW50ZXIgeW91ciBjb21wYW55IG5hbWUfCAU1Q29udGVudFBsYWNlSG9sZGVyRGVmYXVsdF9Gb290ZXJDb250ZW50X1JlbmRlckZvcm1fMjEfCQUkNGVjNTYxY2JfMDc0Zl80ZjQ4X2E5NTBfY2M2YjRjNzA1YzA4HwpnZGQCBA9kFgoCAQ8WAh8ABTJ0ZXh0IGVtYWlsYWRkcmVzcyB0ZXh0ZmllbGQgbWFuZGF0b3J5IGhhc3ZhbGlkYXRvcmQCAw8PFggfBAUKZmllbGRMYWJlbB8ABQ1FbWFpbCBBZGRyZXNzHwUFJDdhODdkMzFmXzRhZmNfNDRjZF85MmVmXzU4YjQ2NmQ0MmQ1Yh8GAgJkZAIFD2QWAmYPDxYEHwQFBHRleHQfBgICZGQCCQ8PFggfBwUfUGxlYXNlIGVudGVyIHlvdXIgZW1haWwgYWRkcmVzcx8IBTVDb250ZW50UGxhY2VIb2xkZXJEZWZhdWx0X0Zvb3RlckNvbnRlbnRfUmVuZGVyRm9ybV8yMR8JBSQ3YTg3ZDMxZl80YWZjXzQ0Y2RfOTJlZl81OGI0NjZkNDJkNWIfCmdkZAILDw8WCh8HBSJQbGVhc2UgZW50ZXIgYSB2YWxpZCBlbWFpbCBhZGRyZXNzHwgFNUNvbnRlbnRQbGFjZUhvbGRlckRlZmF1bHRfRm9vdGVyQ29udGVudF9SZW5kZXJGb3JtXzIxHwkFJDdhODdkMzFmXzRhZmNfNDRjZF85MmVmXzU4YjQ2NmQ0MmQ1Yh4UVmFsaWRhdGlvbkV4cHJlc3Npb24FVF5bX2EtekEtWjAtOS1dKyhcLltfYS16QS1aMC05LV0rKSpAW2EtekEtWjAtOS1dKyhcLlthLXpBLVowLTktXSspKihcLlthLXpBLVpdezIsNH0pJB8KZ2RkAgUPZBYIAgEPFgIfAAVBcmFkaW9idXR0b25saXN0IHZpc2l0b3J0eXBlIHJhZGlvYnV0dG9ubGlzdCBtYW5kYXRvcnkgYWx0ZXJuYXRpbmdkAgMPDxYIHwQFCmZpZWxkTGFiZWwfAAUMVmlzaXRvciBUeXBlHwUFJDE4NmY4MGQwXzg3YmZfNGI2ZF85NjMxXzI1NzJmOTliMWUzNB8GAgJkZAIFD2QWAmYPEA8WBB8EBQ9yYWRpb2J1dHRvbmxpc3QfBgICZGRkZAIJDw8WCB8HBR9QbGVhc2UgY2hvb3NlIGEgdHlwZSBvZiB2aXNpdG9yHwgFNUNvbnRlbnRQbGFjZUhvbGRlckRlZmF1bHRfRm9vdGVyQ29udGVudF9SZW5kZXJGb3JtXzIxHwkFJDE4NmY4MGQwXzg3YmZfNGI2ZF85NjMxXzI1NzJmOTliMWUzNB8KZ2RkAgcPDxYEHwAFBFByZXYfCmhkZAIIDw8WCB8EBSdjb250b3VyQnV0dG9uIGNvbnRvdXJOZXh0IGNvbnRvdXJTdWJtaXQfAAUGU3VibWl0HwgFNUNvbnRlbnRQbGFjZUhvbGRlckRlZmF1bHRfRm9vdGVyQ29udGVudF9SZW5kZXJGb3JtXzIxHwYCAmRkZGSSfS+GSaGBgg6eEhVPBUTQWV2qFhOwv5JeYXqL/jqW">
 </div>
 
 
-<script src="/ScriptResource.axd?d=DAdYLKs3siRjh0A9XaXyrY30rRIj4gYWzqs6akEgse1DChn3HA7TONXQzCyNIJ7NxxkOfq4_X0fDM3RKoHmUvKZMvsXBiF52AwVJe2xHKLL4PyjSR7XWhTU2mE_XLYeWG6YAY-11Msh69G3nepe0zl4YxDLcQ8RswAajDsow0Ro1&amp;t=ca758f3" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=k40nyeWmWMXqF7UsCwnSq73P6BX-Vfxvm3jOSWJDDJwzUtqiOWINOHN39LYKc-10mYtkAtkmDyPLQcIeoOKHSrer1ijaS39feg9PvKLe27LOYTlDYjamyNP2ZVzx0ctVOFBfCtlqc7VCbtkDIPJFBbYzmszsNnZerzSytfXjUIPSpVzedJbE007pVezf8GhG0&amp;t=ffffffff87077381" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=0LuK-1N9STokDq63UqFN0ppYt7_ZiMXN4cf74Mh33tkVeffMX8f8-5S-nKMjHbByy_dcPfqYlS_FXcLW6HN1E0Dd592GNg0XR9UeZWnjF6HXO4UQniJkZIbPq1g0tB7m6WQL_SlXiweqGoEqejctJCFkTY3Lty7H7304PYyQzRtrl6sU2QZovoe0F-rLrKnOZEiI1HOP732Ysa7ziyuqWw2&amp;t=ffffffffb76e1de1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DAdYLKs3siRjh0A9XaXyrY30rRIj4gYWzqs6akEgse1DChn3HA7TONXQzCyNIJ7NxxkOfq4_X0fDM3RKoHmUvKZMvsXBiF52AwVJe2xHKLL4PyjSR7XWhTU2mE_XLYeWG6YAY-11Msh69G3nepe0zl4YxDLcQ8RswAajDsow0Ro1&amp;t=ffffffffb53e74b8" type="text/javascript"></script>
 
     <!-- HEADER -->
-    <div class="container_full-width">
-        <div class="header container_12 clearfix" role="banner">
+    <div class="container_full-width header">
+        <div class="container_12 clearfix" role="banner">
             <h1 class="imex-logo grid_12" itemscope="" itemtype="http://schema.org/Organization">
                 <a itemprop="url" href="/">
-                    <img class="" src="/ImageGen.ashx?image=%2fmedia%2f175866%2fc7733174_IMEX_2014webheader.jpg&amp;height=140&amp;width=940" alt="IMEX2014Banner" height="140" width="940">
+                    <img class="" src="/ImageGen.ashx?image=%2fmedia%2f496545%2fimexamerica2015.jpg&amp;height=140&amp;width=940" alt="Imexamerica2015" height="140" width="940">
                 </a>
             </h1>
 
             <ul class="main-nav grid_12" role="navigation">
-  <li class="has-sub-nav firstnode "><a href="http://www.imexamerica.com/events/"><span>Events</span></a><ul class="nav-sub-menu" role="navigation">
-      <li class="firstnode "><a href="http://www.imexamerica.com/events/business/">Business</a></li> <li class=""><a href="http://www.imexamerica.com/events/education/">Education</a></li> <li class=""><a href="http://www.imexamerica.com/events/forums/">Forums</a></li> <li class="lastnode"><a href="http://www.imexamerica.com/events/networking-events/">Networking Events</a></li> </ul>
-  </li> <li class="has-sub-nav "><a href="http://www.imexamerica.com/attendees/"><span>Attendees</span></a><ul class="nav-sub-menu" role="navigation">
-      <li class="firstnode "><a href="http://www.imexamerica.com/attendees/how-to-attend/">How to Attend</a></li> <li class=""><a href="http://www.imexamerica.com/attendees/why-attend/">Why Attend?</a></li> <li class="lastnode"><a href="http://www.imexamerica.com/attendees/your-team-contacts/">Your Team &amp; Contacts</a></li> </ul>
-  </li> <li class="has-sub-nav "><a href="http://www.imexamerica.com/hosted-buyers/"><span>Hosted Buyers</span></a><ul class="nav-sub-menu" role="navigation">
-      <li class="firstnode "><a href="http://www.imexamerica.com/hosted-buyers/hosted-buyer-program/">Hosted Buyer Program</a></li> <li class=""><a href="http://www.imexamerica.com/hosted-buyers/intermediaries/">Intermediaries</a></li> <li class=""><a href="http://www.imexamerica.com/hosted-buyers/terms-conditions/">Terms &amp; Conditions</a></li> <li class="lastnode"><a href="http://www.imexamerica.com/hosted-buyers/your-team-contacts/">Your Team &amp; Contacts</a></li> </ul>
-  </li> <li class="has-sub-nav "><a href="http://www.imexamerica.com/exhibitors/"><span>Exhibitors</span></a><ul class="nav-sub-menu" role="navigation">
-      <li class="firstnode "><a href="http://www.imexamerica.com/exhibitors/additional-benefits/">Additional Benefits</a></li> <li class=""><a href="http://www.imexamerica.com/exhibitors/appointment-system/">Appointment System</a></li> <li class=""><a href="http://www.imexamerica.com/exhibitors/book-your-booth/">Book Your Booth</a></li> <li class=""><a href="http://www.imexamerica.com/exhibitors/booth-options/">Booth Options</a></li> <li class=""><a href="http://www.imexamerica.com/exhibitors/sponsorship-opportunities/">Sponsorship Opportunities</a></li> <li class=""><a href="http://www.imexamerica.com/exhibitors/why-exhibit/">Why Exhibit?</a></li> <li class="lastnode"><a href="http://www.imexamerica.com/exhibitors/your-team-contacts/">Your Team &amp; Contacts</a></li> </ul>
-  </li> <li class=""><a href="http://www.imexamerica.com/register/"><span>Register</span></a></li> <li class="has-sub-nav "><a href="http://www.imexamerica.com/show-info/"><span>Show Info</span></a><ul class="nav-sub-menu" role="navigation">
-      <li class="firstnode "><a href="http://www.imexamerica.com/show-info/accommodations/">Accommodations</a></li> <li class=""><a href="http://www.imexamerica.com/show-info/hours/">Hours</a></li> <li class="lastnode"><a href="http://www.imexamerica.com/show-info/location/">Location</a></li> </ul>
-  </li> <li class="has-sub-nav selected "><a href="http://www.imexamerica.com/about-us/"><span>About Us</span></a><ul class="nav-sub-menu" role="navigation">
-      <li class="firstnode "><a href="http://www.imexamerica.com/about-us/10-ways-imex-is-unique/">10 Ways IMEX is Unique</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/awards/">Awards</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/future-dates/">Future Dates</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/imex-awards-program/">IMEX Awards Program</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/imex-challenge/">IMEX Challenge</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/imex-recipes/">IMEX Recipes</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/partner-links/">Partner Links</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/show-statistics/">Show Statistics</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/social/">Social</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/sustainability/">Sustainability</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/vision-initiatives/">Vision Initiatives</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/where-is-the-imex-team/">Where is the IMEX Team?</a></li> <li class=""><a href="http://www.imexamerica.com/about-us/cookies/">Cookies</a></li> <li class="selected lastnode"><a href="http://www.imexamerica.com/about-us/privacy-statement/">Privacy Statement</a></li> </ul>
-  </li> <li class="lastnode"><a href="http://www.imexamerica.com/contact-us/"><span>Contact Us</span></a></li> </ul>
+  <li class="has-sub-nav firstnode "><a title="Events" href="http://www.imexamerica.com/events/"><span>Events</span></a><ul class="nav-sub-menu" role="navigation">
+      <li class="firstnode "><a title="IMEX America As It Happened" href="http://www.imexamerica.com/events/imex-america-as-it-happened/">IMEX America As It Happened</a><ul class="nav-sub-menu" role="navigation">
+          <li class="firstnode "><a title="At a Glance" href="http://www.imexamerica.com/events/imex-america-as-it-happened/at-a-glance/">At a Glance</a></li> <li class=""><a title="Education" href="https://portal.imexamerica.com/events.php?f=1&amp;e=seminar" target="_blank">Education</a></li> <li class=""><a title="Education Presentations" href="http://www.imexamerica.com/events/imex-america-as-it-happened/education-presentations/">Education Presentations</a></li> <li class=""><a title="Exhibitor Events" href="http://portal.imexamerica.com/events.php?f=1&amp;e=exhibitorevent" target="_blank">Exhibitor Events</a></li> <li class=""><a title="News: Daily Paper" href="http://www.imexamerica.com/events/imex-america-as-it-happened/news-daily-paper/">News: Daily Paper</a></li> <li class=""><a title="News: Press Releases" href="http://www.imexamerica.com/events/imex-america-as-it-happened/news-press-releases/">News: Press Releases</a></li> <li class=""><a title="Podcasts" href="http://www.imexamerica.com/events/imex-america-as-it-happened/podcasts/">Podcasts</a></li> <li class=""><a title="Photos" href="http://www.imexamerica.com/events/imex-america-as-it-happened/photos/">Photos</a></li> <li class=""><a title="Social Media IMEXlive" href="http://www.imexamerica.com/events/imex-america-as-it-happened/social-media-imexlive/">Social Media IMEXlive</a></li> <li class=""><a title="TV News Headlines" href="http://www.imexamerica.com/events/imex-america-as-it-happened/tv-news-headlines/">TV News Headlines</a></li> <li class="lastnode"><a title="What Was New" href="http://www.imexamerica.com/events/imex-america-as-it-happened/what-was-new/">What Was New</a></li> </ul>
+      </li> <li class=""><a title="Business" href="http://www.imexamerica.com/events/business/">Business</a></li> <li class=""><a title="Education" href="http://www.imexamerica.com/events/education/">Education</a><ul class="nav-sub-menu" role="navigation">
+          <li class="firstnode "><a title="Association Focus" href="http://www.imexamerica.com/events/education/association-focus/">Association Focus</a></li> <li class=""><a title="Certified Points" href="http://www.imexamerica.com/events/education/certified-points/">Certified Points</a></li> <li class=""><a title="Keynotes" href="http://www.imexamerica.com/events/education/keynotes/">Keynotes</a></li> <li class=""><a title="IMEX Vision Guide" href="http://www.imexamerica.com/events/education/imex-vision-guide/">IMEX Vision Guide</a></li> <li class=""><a title="MPI Education" href="http://www.imexamerica.com/events/education/mpi-education/">MPI Education</a></li> <li class=""><a title="Search Education" href="http://portal.imexamerica.com/events.php?f=1&amp;e=seminar" target="_blank">Search Education</a></li> <li class=""><a title="Show Floor Education" href="http://www.imexamerica.com/events/education/show-floor-education/">Show Floor Education</a></li> <li class=""><a title="Smart Monday" href="http://www.imexamerica.com/events/education/smart-monday/">Smart Monday</a></li> <li class="lastnode"><a title="Tracks" href="http://www.imexamerica.com/events/education/tracks/">Tracks</a></li> </ul>
+      </li> <li class=""><a title="Forums" href="http://www.imexamerica.com/events/forums/">Forums</a><ul class="nav-sub-menu" role="navigation">
+          <li class="firstnode "><a title="Faculty Engagement Program" href="http://www.imexamerica.com/events/forums/faculty-engagement-program/">Faculty Engagement Program</a></li> <li class=""><a title="Future Leaders Forum" href="http://www.imexamerica.com/events/forums/future-leaders-forum/">Future Leaders Forum</a></li> <li class="lastnode"><a title="Executive Meeting Forum" href="http://www.imexamerica.com/events/forums/executive-meeting-forum/">Executive Meeting Forum</a></li> </ul>
+      </li> <li class=""><a title="Networking Events" href="http://www.imexamerica.com/events/networking-events/">Networking Events</a><ul class="nav-sub-menu" role="navigation">
+          <li class="firstnode "><a title="Association Evening" href="http://www.imexamerica.com/events/networking-events/association-evening/">Association Evening</a></li> <li class=""><a title="MPI Foundation Rendezvous" href="http://www.imexamerica.com/events/networking-events/mpi-foundation-rendezvous/">MPI Foundation Rendezvous</a></li> <li class="lastnode"><a title="Site Nite North America" href="http://www.imexamerica.com/events/networking-events/site-nite-north-america/">Site Nite North America</a></li> </ul>
+      </li> <li class="lastnode"><a title="Special Event: Bill McDermott" href="http://www.imexamerica.com/events/special-event-bill-mcdermott/">Special Event: Bill McDermott</a></li> </ul>
+  </li> <li class="has-sub-nav "><a title="Attendees" href="http://www.imexamerica.com/attendees/"><span>Attendees</span></a><ul class="nav-sub-menu" role="navigation">
+      <li class="firstnode "><a title="How to Attend" href="http://www.imexamerica.com/attendees/how-to-attend/">How to Attend</a></li> <li class=""><a title="Tips for Attending" href="http://www.imexamerica.com/attendees/tips-for-attending/">Tips for Attending</a></li> <li class=""><a title="Why Attend?" href="http://www.imexamerica.com/attendees/why-attend/">Why Attend?</a></li> <li class="lastnode"><a title="Your Team &amp; Contacts" href="http://www.imexamerica.com/attendees/your-team-contacts/">Your Team &amp; Contacts</a></li> </ul>
+  </li> <li class="has-sub-nav "><a title="Hosted Buyers" href="http://www.imexamerica.com/hosted-buyers/"><span>Hosted Buyers</span></a><ul class="nav-sub-menu" role="navigation">
+      <li class="firstnode "><a title="Hosted Buyer Program" href="http://www.imexamerica.com/hosted-buyers/hosted-buyer-program/">Hosted Buyer Program</a><ul class="nav-sub-menu" role="navigation">
+          <li class="firstnode "><a title="Appointment System" href="http://www.imexamerica.com/hosted-buyers/hosted-buyer-program/appointment-system/">Appointment System</a></li> <li class=""><a title="Commitments" href="http://www.imexamerica.com/hosted-buyers/hosted-buyer-program/commitments/">Commitments</a></li> <li class=""><a title="FAQs" href="http://www.imexamerica.com/hosted-buyers/hosted-buyer-program/faqs/">FAQs</a></li> <li class=""><a title="How to Qualify &amp; Apply" href="http://www.imexamerica.com/hosted-buyers/hosted-buyer-program/how-to-qualify-apply/">How to Qualify &amp; Apply</a></li> <li class=""><a title="Travel and Accommodations" href="http://www.imexamerica.com/hosted-buyers/hosted-buyer-program/travel-reimbursements/">Travel and Accommodations</a></li> <li class=""><a title="Who are Hosted Buyers?" href="http://www.imexamerica.com/hosted-buyers/hosted-buyer-program/who-are-hosted-buyers/">Who are Hosted Buyers?</a></li> <li class="lastnode"><a title="Why be Hosted?" href="http://www.imexamerica.com/hosted-buyers/hosted-buyer-program/why-be-hosted/">Why be Hosted?</a></li> </ul>
+      </li> <li class=""><a title="Intermediaries" href="http://www.imexamerica.com/hosted-buyers/intermediaries/">Intermediaries</a><ul class="nav-sub-menu" role="navigation">
+          <li class="firstnode "><a title="How to bring a Group" href="http://www.imexamerica.com/hosted-buyers/intermediaries/how-to-bring-a-group/">How to bring a Group</a></li> <li class=""><a title="Intermediary Responsibilities" href="http://www.imexamerica.com/hosted-buyers/intermediaries/intermediary-responsibilities/">Intermediary Responsibilities</a></li> <li class="lastnode"><a title="Why be an Intermediary?" href="http://www.imexamerica.com/hosted-buyers/intermediaries/why-be-an-intermediary/">Why be an Intermediary?</a></li> </ul>
+      </li> <li class=""><a title="Terms &amp; Conditions" href="http://www.imexamerica.com/hosted-buyers/terms-conditions/">Terms &amp; Conditions</a><ul class="nav-sub-menu" role="navigation">
+          <li class="firstnode lastnode"><a title="Flight Terms Conditions" href="http://www.imexamerica.com/hosted-buyers/terms-conditions/flight-terms-conditions/">Flight Terms Conditions</a></li> </ul>
+      </li> <li class="lastnode"><a title="Your Team &amp; Contacts" href="http://www.imexamerica.com/hosted-buyers/your-team-contacts/">Your Team &amp; Contacts</a></li> </ul>
+  </li> <li class="has-sub-nav "><a title="Exhibitors" href="http://www.imexamerica.com/exhibitors/"><span>Exhibitors</span></a><ul class="nav-sub-menu" role="navigation">
+      <li class="firstnode "><a title="Additional Benefits" href="http://www.imexamerica.com/exhibitors/additional-benefits/">Additional Benefits</a></li> <li class=""><a title="Appointment System" href="http://www.imexamerica.com/exhibitors/appointment-system/">Appointment System</a></li> <li class=""><a title="Book Your Booth" href="http://www.imexamerica.com/exhibitors/book-your-booth/">Book Your Booth</a></li> <li class=""><a title="Booth Options" href="http://www.imexamerica.com/exhibitors/booth-options/">Booth Options</a></li> <li class=""><a title="Sponsorship Opportunities" href="http://www.imexamerica.com/exhibitors/sponsorship-opportunities/">Sponsorship Opportunities</a></li> <li class=""><a title="Why Exhibit?" href="http://www.imexamerica.com/exhibitors/why-exhibit/">Why Exhibit?</a></li> <li class="lastnode"><a title="Your Team &amp; Contacts" href="http://www.imexamerica.com/exhibitors/your-team-contacts/">Your Team &amp; Contacts</a></li> </ul>
+  </li> <li class=""><a title="Register" href="http://www.imexamerica.com/register/"><span>Register</span></a></li> <li class="has-sub-nav "><a title="Show Info" href="http://www.imexamerica.com/show-info/"><span>Show Info</span></a><ul class="nav-sub-menu" role="navigation">
+      <li class="firstnode "><a title="Future Dates" href="http://www.imexamerica.com/show-info/future-dates/">Future Dates</a></li> <li class=""><a title="Getting Around" href="http://www.imexamerica.com/show-info/getting-around/">Getting Around</a></li> <li class="lastnode"><a title="Location" href="http://www.imexamerica.com/show-info/location/">Location</a></li> </ul>
+  </li> <li class="has-sub-nav selected "><a title="About Us" href="http://www.imexamerica.com/about-us/"><span>About Us</span></a><ul class="nav-sub-menu" role="navigation">
+      <li class="firstnode "><a title="10 Ways IMEX is Unique" href="http://www.imexamerica.com/about-us/10-ways-imex-is-unique/">10 Ways IMEX is Unique</a></li> <li class=""><a title="Awards" href="http://www.imexamerica.com/about-us/awards/">Awards</a></li> <li class=""><a title="Future Dates" href="http://www.imexamerica.com/about-us/future-dates/">Future Dates</a></li> <li class=""><a title="IMEX Awards Program" href="http://www.imexamerica.com/about-us/imex-awards-program/">IMEX Awards Program</a></li> <li class=""><a title="IMEX Challenge" href="http://www.imexamerica.com/about-us/imex-challenge/">IMEX Challenge</a></li> <li class=""><a title="IMEX Recipes" href="http://www.imexamerica.com/about-us/imex-recipes/">IMEX Recipes</a></li> <li class=""><a title="Partner Links" href="http://www.imexamerica.com/about-us/partner-links/">Partner Links</a></li> <li class=""><a title="Show Statistics" href="http://www.imexamerica.com/about-us/show-statistics/">Show Statistics</a></li> <li class=""><a title="Social" href="http://www.imexamerica.com/about-us/social/">Social</a></li> <li class=""><a title="Sustainability" href="http://www.imexamerica.com/about-us/sustainability/">Sustainability</a><ul class="nav-sub-menu" role="navigation">
+          <li class="firstnode "><a title="Green Team" href="http://www.imexamerica.com/about-us/sustainability/green-team/">Green Team</a></li> <li class=""><a title="How You Can Help" href="http://www.imexamerica.com/about-us/sustainability/how-you-can-help/">How You Can Help</a></li> <li class=""><a title="Legacy Projects" href="http://www.imexamerica.com/about-us/sustainability/legacy-projects/">Legacy Projects</a></li> <li class=""><a title="Our Partners" href="http://www.imexamerica.com/about-us/sustainability/our-partners/">Our Partners</a></li> <li class="lastnode"><a title="Sustainability Videos" href="http://www.imexamerica.com/about-us/sustainability/sustainability-videos/">Sustainability Videos</a></li> </ul>
+      </li> <li class=""><a title="Vision Initiatives" href="http://www.imexamerica.com/about-us/vision-initiatives/">Vision Initiatives</a><ul class="nav-sub-menu" role="navigation">
+          <li class="firstnode lastnode"><a title="Vision Team" href="http://www.imexamerica.com/about-us/vision-initiatives/vision-team/">Vision Team</a></li> </ul>
+      </li> <li class=""><a title="Where is the IMEX Team?" href="http://www.imexamerica.com/about-us/where-is-the-imex-team/">Where is the IMEX Team?</a></li> <li class=""><a title="Cookies" href="http://www.imexamerica.com/about-us/cookies/">Cookies</a></li> <li class="selected "><a title="Privacy Statement" href="http://www.imexamerica.com/about-us/privacy-statement/">Privacy Statement</a></li> <li class="lastnode"><a title="Liability Waiver" href="http://www.imexamerica.com/about-us/liability-waiver/">Liability Waiver</a></li> </ul>
+  </li> <li class="lastnode"><a title="Contact Us" href="http://www.imexamerica.com/contact-us/"><span>Contact Us</span></a></li> </ul>
         </div>
     </div>
 
@@ -119,7 +148,7 @@
             
             
                 <div class="grid_3">
-                    <nav><ul class="grid_3 sub-nav-list"><li class="level-1 lastnav"><a title="" href="http://www.imexamerica.com/about-us/">About Us</a></li><li><a title="10 Ways IMEX is Unique" href="http://www.imexamerica.com/about-us/10-ways-imex-is-unique/">10 Ways IMEX is Unique</a></li><li><a title="Awards" href="http://www.imexamerica.com/about-us/awards/">Awards</a></li><li><a title="Future Dates" href="http://www.imexamerica.com/about-us/future-dates/">Future Dates</a></li><li><a title="IMEX Awards Program" href="http://www.imexamerica.com/about-us/imex-awards-program/">IMEX Awards Program</a></li><li><a title="IMEX Challenge" href="http://www.imexamerica.com/about-us/imex-challenge/">IMEX Challenge</a></li><li><a title="IMEX Recipes" href="http://www.imexamerica.com/about-us/imex-recipes/">IMEX Recipes</a></li><li><a title="Partner Links" href="http://www.imexamerica.com/about-us/partner-links/">Partner Links</a></li><li><a title="Show Statistics" href="http://www.imexamerica.com/about-us/show-statistics/">Show Statistics</a></li><li><a title="Social" href="http://www.imexamerica.com/about-us/social/">Social</a></li><li><a title="Sustainability" href="http://www.imexamerica.com/about-us/sustainability/">Sustainability</a><ul class="nav-sub-menu" role="navigation"><li><a title="Green Team" href="http://www.imexamerica.com/about-us/sustainability/green-team/">Green Team</a></li><li><a title="How You Can Help" href="http://www.imexamerica.com/about-us/sustainability/how-you-can-help/">How You Can Help</a></li><li><a title="Legacy Projects" href="http://www.imexamerica.com/about-us/sustainability/legacy-projects/">Legacy Projects</a></li><li class="lastnav"><a title="Our Partners" href="http://www.imexamerica.com/about-us/sustainability/our-partners/">Our Partners</a></li></ul></li><li><a title="Vision Initiatives" href="http://www.imexamerica.com/about-us/vision-initiatives/">Vision Initiatives</a><ul class="nav-sub-menu" role="navigation"><li class="lastnav"><a title="Vision Team" href="http://www.imexamerica.com/about-us/vision-initiatives/vision-team/">Vision Team</a></li></ul></li><li><a title="Where is the IMEX Team?" href="http://www.imexamerica.com/about-us/where-is-the-imex-team/">Where is the IMEX Team?</a></li><li><a title="Cookies" href="http://www.imexamerica.com/about-us/cookies/">Cookies</a></li><li class="lastnav"><a title="Privacy Statement" href="http://www.imexamerica.com/about-us/privacy-statement/" class="selected">Privacy Statement</a></li></ul></nav>
+                    <nav><ul class="sub-nav-list"><li class="level-1 lastnav"><a title="" href="http://www.imexamerica.com/about-us/">About Us</a></li><li><a title="10 Ways IMEX is Unique" href="http://www.imexamerica.com/about-us/10-ways-imex-is-unique/">10 Ways IMEX is Unique</a></li><li><a title="Awards" href="http://www.imexamerica.com/about-us/awards/">Awards</a></li><li><a title="Future Dates" href="http://www.imexamerica.com/about-us/future-dates/">Future Dates</a></li><li><a title="IMEX Awards Program" href="http://www.imexamerica.com/about-us/imex-awards-program/">IMEX Awards Program</a></li><li><a title="IMEX Challenge" href="http://www.imexamerica.com/about-us/imex-challenge/">IMEX Challenge</a></li><li><a title="IMEX Recipes" href="http://www.imexamerica.com/about-us/imex-recipes/">IMEX Recipes</a></li><li><a title="Partner Links" href="http://www.imexamerica.com/about-us/partner-links/">Partner Links</a></li><li><a title="Show Statistics" href="http://www.imexamerica.com/about-us/show-statistics/">Show Statistics</a></li><li><a title="Social" href="http://www.imexamerica.com/about-us/social/">Social</a></li><li><a title="Sustainability" href="http://www.imexamerica.com/about-us/sustainability/">Sustainability</a><ul class="nav-sub-menu" role="navigation"><li><a title="Green Team" href="http://www.imexamerica.com/about-us/sustainability/green-team/">Green Team</a></li><li><a title="How You Can Help" href="http://www.imexamerica.com/about-us/sustainability/how-you-can-help/">How You Can Help</a></li><li><a title="Legacy Projects" href="http://www.imexamerica.com/about-us/sustainability/legacy-projects/">Legacy Projects</a></li><li><a title="Our Partners" href="http://www.imexamerica.com/about-us/sustainability/our-partners/">Our Partners</a></li><li class="lastnav"><a title="Sustainability Videos" href="http://www.imexamerica.com/about-us/sustainability/sustainability-videos/">Sustainability Videos</a><ul class="nav-sub-menu" role="navigation"><li><a title="Sustainable Initiatives" href="http://www.imexamerica.com/about-us/sustainability/sustainability-videos/sustainable-initiatives/">Sustainable Initiatives</a></li><li><a title="Food Donations" href="http://www.imexamerica.com/about-us/sustainability/sustainability-videos/food-donations/">Food Donations</a></li><li><a title="Waste Management at the Sands Expo" href="http://www.imexamerica.com/about-us/sustainability/sustainability-videos/waste-management-at-the-sands-expo/">Waste Management at the Sands Expo</a></li><li><a title="Community Development" href="http://www.imexamerica.com/about-us/sustainability/sustainability-videos/community-development/">Community Development</a></li><li><a title="Sustainable Food" href="http://www.imexamerica.com/about-us/sustainability/sustainability-videos/sustainable-food/">Sustainable Food</a></li><li class="lastnav"><a title="The Sands Global Sustainability Program" href="http://www.imexamerica.com/about-us/sustainability/sustainability-videos/the-sands-global-sustainability-program/">The Sands Global Sustainability Program</a></li></ul></li></ul></li><li><a title="Vision Initiatives" href="http://www.imexamerica.com/about-us/vision-initiatives/">Vision Initiatives</a><ul class="nav-sub-menu" role="navigation"><li class="lastnav"><a title="Vision Team" href="http://www.imexamerica.com/about-us/vision-initiatives/vision-team/">Vision Team</a></li></ul></li><li><a title="Where is the IMEX Team?" href="http://www.imexamerica.com/about-us/where-is-the-imex-team/">Where is the IMEX Team?</a></li><li><a title="Cookies" href="http://www.imexamerica.com/about-us/cookies/">Cookies</a></li><li><a title="Privacy Statement" href="http://www.imexamerica.com/about-us/privacy-statement/" class="selected">Privacy Statement</a></li><li class="lastnav"><a title="Liability Waiver" href="http://www.imexamerica.com/about-us/liability-waiver/">Liability Waiver</a></li></ul></nav>
                     
                 </div>
             
@@ -128,43 +157,42 @@
 	
     <div class="grid_9 main-content-column">
         <h1>IMEX Exhibitions Privacy Statement</h1>
-        <h2>How we will use your personal information</h2>
-<p>This privacy notice applies to anyone visiting our website, registering online for an IMEX exhibition, subscribing to our newsletter or making an inquiry or complaint to us.</p>
-<p>This notice does not cover third party websites to which we provide links, which should be covered by their own privacy notices. IMEX is not responsible for the content of third party websites.</p>
+        <h3>How we will use your personal information</h3>
+<p>This privacy notice applies to anyone entering information on our website, registering online for an IMEX exhibition, subscribing to our newsletter or making an inquiry or complaint to us.</p>
+<p><br>This notice does not cover third party websites to which we provide links, which should be covered by their own privacy notices. The IMEX Group is not responsible for the content of third party websites.</p>
 <h3>Who we are</h3>
-<p>Regent Exhibitions Limited, The Agora, First Floor, Ellen Street, Hove, East Sussex, United Kingdom BN3 3LN. Company No. 4244004</p>
-<h3>Other companies in our group</h3>
-<p>IMEX America Limited (Address as above). Company No 7339316 IMEX America Exhibitions Inc., 415 Madison Avenue Floor 15, New York, NY 10017-7935</p>
-<h3>Our approach to your personal information</h3>
-<p>We are committed to collecting and using your personal information fairly and transparently, so we will make it clear if we are collecting personal information from you or intend to use it for any purpose that is not obvious.</p>
-<h3>Visitors to our website</h3>
-<p>We use Google Analytics to help us to improve our website. This uses cookies to collect information about how visitors reach and use our website, but does not identify any individuals. Other cookies are used to help you log in and use the site most effectively. By accepting this privacy policy you are giving your consent to the use of cookies on our website. See the <a href="http://www.imexexhibitions.com/cookies.html">Cookies</a> section of our website for more information.</p>
-<p>Further information about the cookies used by Google Analytics is given at <a href="https://developers.google.com/analytics/resources/concepts/gaConceptsCookies">Cookies and Google Analytics</a>.</p>
-<h3>What we will do with your personal information</h3>
-<p>We will use your personal information to provide you with the services you have requested, for example if you subscribe to our newsletter, we will send you details of our news, events and offers.</p>
-<p>We will not pass your personal information to any third party for marketing purposes without your consent.</p>
-<p>We may disclose personal information if required to do so by law.</p>
+<p>Regent Exhibitions Ltd owns the IMEX in Frankfurt exhibition. IMEX America Ltd owns the IMEX America exhibition. Both Regent Exhibitions Ltd and IMEX America Ltd are incorporated in the UK. IMEX America Exhibitions Inc. is a US incorporated company which provides support services in the US to IMEX America Ltd. All are collectively known as the IMEX Group.<br> <br> Regent Exhibitions Limited, The Agora, First Floor, Ellen Street, Hove, East Sussex, United Kingdom BN3 3LN. Company No. 4244004</p>
+<p>IMEX America Limited (Address as above). Company No 7339316<br> <br> IMEX America Exhibitions Inc., 415 Madison Avenue Floor 15, New York, NY 10017-7935 Incorporated in Delaware</p>
+<h3>How we will use your personal information</h3>
+<p>We are committed to collecting and using your personal information fairly and transparently, so we will make it clear if we are collecting personal information from you or intend to use it for any purpose that is not obvious. <br> <br> We use the personal information that you provide to us for our internal purposes, such as responding to your requests for information, contacting you, conducting internal analyses, and processing and completing orders and event registrations.</p>
+<p>The IMEX Group also reserves the right to compile, save, use within the scope of our activities, and analyse any and all data (contact and personal data, use history, etc.) that we collect from you through the Website.</p>
+<p>We may disclose personal information to a third party, such as a law enforcement agency, if required to do so by law.</p>
+<h3>Opt in preferences – the IMEX Group and third parties</h3>
+<p>When you submit personal information to us through the Registration Pages on this Website, you will be given an opportunity to opt in to receiving information from us and from selected third parties. When such permission is granted, we may provide lists containing your name, company, title, address, telephone number and/or email address to third parties and our affiliates for their direct and indirect marketing and promotional purposes, and we may use your personal information for the same purposes. <br> <br> The IMEX Group will not pass your personal information to any third party for marketing purposes without your consent.<br> <br> If you initially elect to opt in to either the IMEX Group or third party mailing lists, and later decide that you would like to opt out, you may email us at <a href="mailto:privacy@imexexhibitions.com?subject=IMEX%20Exhibitions%20Privacy%20Statement">privacy@imexexhibitions.com</a>. Please keep in mind that although the IMEX Group strives to update our mailing list database as frequently as possible, it may take up to ten days to process email requests, during which time your information might be communicated to another party in connection with a mailing list. Additionally, you should be aware that any mailing lists that have been provided to third parties prior to your election to opt out cannot be retrieved by the IMEX Group, and you cannot retroactively opt out with respect to such third parties.&nbsp;</p>
+<h3>Sharing your personal information with vendors</h3>
+<p>We may share the personal information you provide to us with other companies we have hired to provide services for us. These companies – our vendors – are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide.</p>
+<h3>Security</h3>
+<p>We will take care to ensure that your personal information is secure. When we do provide mailing <br> lists to third parties or vendors we enter into agreements with such parties requiring them to comply with all applicable laws, and prohibiting further distribution or disclosure of the lists to other parties.</p>
 <h3>Transferring personal information overseas</h3>
 <p>Our website is hosted and backed up on a server in Germany.</p>
 <p>We may transfer your personal information to countries outside the European Economic Area (where lower levels of data protection may apply) to make arrangements for any exhibition you have registered to attend, or in any other case where we have your specific consent.</p>
-<h3>Security</h3>
-<p>We will take care to ensure your personal information is secure.</p>
-<p>Before we pass your personal information to a third party organization to process it on our behalf, for example to process your registration or a marketing campaign, we will obtain a commitment from them to keep it secure.</p>
+<h3>Your rights</h3>
+<p>You have the right to access personal information we hold on you.</p>
+<p>You can ask us to correct any personal information we hold on you.<br> <br> To review the information IMEX currently holds on you, please email <a href="mailto:privacy@imexexhibitions.com?subject=IMEX%20Exhibitions%20Privacy%20Statement">privacy@imexexhibitions.com</a> and request to view your contact and demographic information.</p>
+<h3>Changes to your personal information</h3>
+<p>Please let us know if any personal information you have given us changes, so we can keep our records up-to-date.</p>
+<h3>Visitors to our website</h3>
+<p>We use Google Analytics to help us to improve our website. This uses cookies to collect information about how visitors reach and use our website, but does not identify any individuals. Other cookies are used to help you log in and use the site most effectively. By accepting this privacy policy you are giving your consent to the use of cookies on our website. See the&nbsp;<a href="http://www.imexamerica.com/about-us/cookies/" title="Cookies">Cookies</a>&nbsp;section of our website for more information.</p>
+<p>Further information about the cookies used by Google Analytics is given at&nbsp;<a href="https://developers.google.com/analytics/resources/concepts/gaConceptsCookies" target="_blank" title="Google and Cookies">Cookies and Google Analytics</a>.</p>
 <h3>Recording at exhibitions</h3>
 <p>Videos and photographs are taken at IMEX exhibitions and used to promote future events, including direct mail and email marketing, newsletters, press releases and broadcasts over the internet, through our broadcast partners, or via other broadcast services. CCTV and webcams are not used by our organization, although our exhibition venues may utilize them.</p>
 <h3>Corporate transactions</h3>
 <p>If we sell or transfer the whole or part of our business or assets we may transfer personal information to the buyer or transferee.</p>
-<h3>Your rights</h3>
-<p>You have the right to access personal information we hold on you.</p>
-<p>You can ask us to correct any personal information we hold on you.</p>
-<p>You can ask us not to send direct marketing to you and we will include an opt-out in all our marketing communications.</p>
 <h3>How to contact us</h3>
-<p>You can contact us with any questions or comments on this notice at <a href="mailto:privacy@imexexhibitions.com?subject=IMEX%20Exhibitions%20Privacy%20Statement">privacy@imexexhibitions.com</a>. For any other questions or comments, please see the <a href="http://www.imex-frankfurt.com/imex-contactus.html">Contact Us </a>section on our website.</p>
-<h3>Changes to your personal information</h3>
-<p>Please let us know if any personal information you have given us changes, so we can keep our records up-to-date.</p>
+<p>You can contact us with any questions or comments on this notice at&nbsp;<a href="mailto:privacy@imexexhibitions.com?subject=IMEX%20Exhibitions%20Privacy%20Statement">privacy@imexexhibitions.com</a>. For any other questions or comments, please see the&nbsp;<a href="http://www.imexamerica.com/contact-us/" title="Contact Us">Contact Us</a>&nbsp;section on our website.</p>
 <h3>Changes to this privacy notice</h3>
 <p>We will regularly review and update this privacy notice and will ask for your consent before using your personal information in a way that is significantly different.</p>
-<p>This notice applies to visitors to our website from April 1, 2012, and was last revised on May 7, 2012.</p>
+<p>This notice applies to visitors to our websites from April 1, 2012, and was last revised on July 1, 2014.</p>
     </div>
 
 
@@ -188,7 +216,7 @@
 <header class="gradient-grey clearfix">
         <span class="footer-icon"></span>
         <h2>
-            11,422</h2>
+            14,102</h2>
         <p>
             Twitter followers</p>
     </header>
@@ -197,16 +225,16 @@
         <p>
             The IMEX Group
             <a id="ContentPlaceHolderDefault_FooterContent_TwitterFooter_15_hypTwitter" href="http://www.twitter.com/IMEX_Group">@IMEX_Group</a>
-            Is Your Social Marketing Strategy Going Stale? | <a href="http://twitter.com/AssociationsNow">@AssociationsNow</a> <a href="http://t.co/T69E4vYIYA">sco.lt/5yJ6bx</a> <a href="http://twitter.com/search?q=%23marketing">#marketing</a> <a href="http://twitter.com/search?q=%23associations">#associations</a>
+            Online Inspiration Hub has over 50 posts on <a href="http://twitter.com/search?q=%23Personal">#Personal</a> <a href="http://twitter.com/search?q=%23Development">#Development</a> <a href="http://t.co/377q2tzOCD">ow.ly/AR2lv</a> http://t.co/D7v1JEH5v0 <a href="http://twitter.com/search?q=%23OIH">#OIH</a>
 
         </p>
         <ul class="twitter-links">
             <li>
-                <a id="ContentPlaceHolderDefault_FooterContent_TwitterFooter_15_hypReply" href="http://www.twitter.com/intent/tweet?in_reply_to=478568404614672385" target="_blank">Reply</a></li>
+                <a id="ContentPlaceHolderDefault_FooterContent_TwitterFooter_15_hypReply" href="http://www.twitter.com/intent/tweet?in_reply_to=544936326106472449" target="_blank">Reply</a></li>
             <li>
-                <a id="ContentPlaceHolderDefault_FooterContent_TwitterFooter_15_hypRetweet" href="http://www.twitter.com/intent/retweet?tweet_id=478568404614672385&amp;lang=en" target="_blank">Retweet</a></li>
+                <a id="ContentPlaceHolderDefault_FooterContent_TwitterFooter_15_hypRetweet" href="http://www.twitter.com/intent/retweet?tweet_id=544936326106472449&amp;lang=en" target="_blank">Retweet</a></li>
             <li class="lastnode">
-                <a id="ContentPlaceHolderDefault_FooterContent_TwitterFooter_15_hypFavourite" href="http://www.twitter.com/intent/favorite?tweet_id=478568404614672385" target="_blank">Favorite</a></li>
+                <a id="ContentPlaceHolderDefault_FooterContent_TwitterFooter_15_hypFavourite" href="http://www.twitter.com/intent/favorite?tweet_id=544936326106472449" target="_blank">Favorite</a></li>
         </ul>
     </div>
 
@@ -223,7 +251,7 @@
     <header class="gradient-grey clearfix">
         <span class="footer-icon"></span>
         <h2>
-            4,705</h2>
+            5,375</h2>
         <p>
             Facebook likes</p>
     </header>
@@ -231,6 +259,11 @@
     <div class="content-box">
         
         
+                <p>
+                     Frankfurt - from above by thomasdeckert via 500px<br>
+                    <a id="ContentPlaceHolderDefault_FooterContent_FacebookFooter_18_repPosts_hypPost_0" class="link-arrow" href="http://www.facebook.com/IMEXGroup/posts/10152584558762810" target="_blank">Read More</a>
+                </p>
+            
     </div>
 
 </div>
@@ -247,7 +280,7 @@
 
     <header class="gradient-grey clearfix">
         <span class="footer-icon"></span>
-        <h2>45</h2>
+        <h2>39</h2>
         <p>Youtube videos</p>
     </header>
     
@@ -256,11 +289,11 @@
     
         <li class="clearfix">
             <div class="video-media">
-                <a href="http://www.youtube.com/watch?v=Tt8ohny8at4" class="no-link-arrow video-link" title="IMEX America 2013 Time Lapse"></a>
-                <img id="ContentPlaceHolderDefault_FooterContent_YouTubeFooter_20_repVideos_imgThumb_0" src="http://i1.ytimg.com/vi/Tt8ohny8at4/hqdefault.jpg" alt=" " style="height:147px;width:196px;">
+                <a href="http://www.youtube.com/watch?v=Hf0cYbi8cqk" class="no-link-arrow video-link" title="IMEX America 2014 Show Time Lapse"></a>
+                <img id="ContentPlaceHolderDefault_FooterContent_YouTubeFooter_20_repVideos_imgThumb_0" src="http://i.ytimg.com/vi/Hf0cYbi8cqk/hqdefault.jpg" alt=" " style="height:147px;width:196px;">
             </div>
             <div class="video-content">
-                <h3>IMEX America 2013 Time Lapse</h3>
+                <h3>IMEX America 2014 Show Time Lapse</h3>
                 
                 <a id="ContentPlaceHolderDefault_FooterContent_YouTubeFooter_20_repVideos_hypSubscribe_0" href="http://www.youtube.com/user/IMEXexhibitions?feature=creators_cornier-%2F%2Fs.ytimg.com%2Fyt%2Fimg%2Fcreators_corner%2FYouTube%2Fyoutube_32x32.png" target="_blank">Subscribe to our channel</a>
             </div>
@@ -486,9 +519,8 @@
                 </div>
 
             </div>
-            
-                    <p class="grid_9 creds-left">© 2014 <a href="http://www.imexexhibitions.com/" target="_blank">Regent Exhibitions</a> Ltd | The Agora, 1st Floor, Ellen Street, Hove, East Sussex, BN3 3LN, United Kingdom</p>
-                     <p class="grid_3 creds">Designed By <a href="http://www.dotagency.co.uk" target="_blank">DotAgency</a></p>
+       
+                    <p class="grid_12 creds-left">© 2014 <a href="http://www.imexexhibitions.com/" target="_blank">Regent Exhibitions</a> Ltd | The Agora, 1st Floor, Ellen Street, Hove, East Sussex, BN3 3LN, United Kingdom</p>
                 
 
         </div>
@@ -535,33 +567,10 @@ _gaq.push(['_trackPageview']);
   })();
 </script>
     
+<div class="aspNetHidden">
 
-<script type="text/javascript">
-//<![CDATA[
-Sys.Application.add_init(function() {
-    $create(Umbraco.Forms.Core.Controls.Validation.ValidationFieldExtenderBehavior, {"InvalidLabelCssClass":"contourError","InvalidTextBoxCssClass":"contourError","TargetLabelID":$get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_label_0"),"ValidLabelCssClass":"contourValid","ValidTextBoxCssClass":"contourValid","id":"ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_ctl00_0"}, null, null, $get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_mandatory_0"));
-});
-Sys.Application.add_init(function() {
-    $create(Umbraco.Forms.Core.Controls.Validation.ValidationFieldExtenderBehavior, {"InvalidLabelCssClass":"contourError","InvalidTextBoxCssClass":"contourError","TargetLabelID":$get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_label_1"),"ValidLabelCssClass":"contourValid","ValidTextBoxCssClass":"contourValid","id":"ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_ctl00_1"}, null, null, $get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_mandatory_1"));
-});
-Sys.Application.add_init(function() {
-    $create(Umbraco.Forms.Core.Controls.Validation.ValidationFieldExtenderBehavior, {"InvalidLabelCssClass":"contourError","InvalidTextBoxCssClass":"contourError","TargetLabelID":$get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_label_2"),"ValidLabelCssClass":"contourValid","ValidTextBoxCssClass":"contourValid","id":"ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_ctl00_2"}, null, null, $get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_mandatory_2"));
-});
-Sys.Application.add_init(function() {
-    $create(Umbraco.Forms.Core.Controls.Validation.ValidationFieldExtenderBehavior, {"InvalidLabelCssClass":"contourError","InvalidTextBoxCssClass":"contourError","TargetLabelID":$get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_label_3"),"ValidLabelCssClass":"contourValid","ValidTextBoxCssClass":"contourValid","id":"ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_ctl00_3"}, null, null, $get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_mandatory_3"));
-});
-Sys.Application.add_init(function() {
-    $create(Umbraco.Forms.Core.Controls.Validation.ValidationFieldExtenderBehavior, {"InvalidLabelCssClass":"contourError","InvalidTextBoxCssClass":"contourError","TargetLabelID":$get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_label_4"),"ValidLabelCssClass":"contourValid","ValidTextBoxCssClass":"contourValid","id":"ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_ctl00_4"}, null, null, $get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_mandatory_4"));
-});
-Sys.Application.add_init(function() {
-    $create(Umbraco.Forms.Core.Controls.Validation.ValidationFieldExtenderBehavior, {"InvalidLabelCssClass":"contourError","InvalidTextBoxCssClass":"contourError","TargetLabelID":$get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_label_4"),"ValidLabelCssClass":"contourValid","ValidTextBoxCssClass":"contourValid","id":"ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_ctl01_4"}, null, null, $get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_regex_4"));
-});
-Sys.Application.add_init(function() {
-    $create(Umbraco.Forms.Core.Controls.Validation.ValidationFieldExtenderBehavior, {"InvalidLabelCssClass":"contourError","InvalidTextBoxCssClass":"contourError","TargetLabelID":$get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_label_5"),"ValidLabelCssClass":"contourValid","ValidTextBoxCssClass":"contourValid","id":"ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_ctl00_5"}, null, null, $get("ContentPlaceHolderDefault_FooterContent_RenderForm_21_rpFieldsets_rpFields_0_mandatory_5"));
-});
-//]]>
-</script>
-</form>
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+</div></form>
     
 	
 
