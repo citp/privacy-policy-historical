@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidguys.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610123949id_/http%3A//www.androidguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidguys.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217132730id_/http%3A//www.androidguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AndroidGuys
 
@@ -99,7 +99,7 @@ J. Miscellaneous
 We control and operate the Web Site from our offices in the [COUNTRY OF HOSTING]. By providing Personal Information to this Web Site, you understand and consent to such collection, maintenance, processing and transfer of such information. We do not represent that materials on the Web Site are appropriate or available for use in other locations. Persons who choose to access the Web Site from other locations do so on their own initiative, and are responsible for compliance with local laws, if and to the extent local laws are applicable. All parties to this Privacy Policy waive their respective rights to a trial by jury.
 
 (ii) Your Access Rights  
-You may review the Personal Information that is stored in your user account on this Web Site by visiting the ["Member Profile"] or equivalent area of your account on this Web Site or by e-mailing scott@androidguys.com
+You may review the Personal Information that is stored in your user account on this Web Site by visiting the [“Member Profile”] or equivalent area of your account on this Web Site or by e-mailing scott@androidguys.com
 
 (iii) Changes to this Privacy Policy  
 The Web Site reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web Site by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Web Site. Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web Site or sending you an e-mail.
