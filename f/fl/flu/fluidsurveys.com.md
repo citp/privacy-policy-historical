@@ -1,115 +1,34 @@
-> *The following text is extracted and transformed from the fluidsurveys.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074847id_/http%3A//fluidsurveys.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluidsurveys.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217183421id_/http%3A//fluidsurveys.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FluidSurveys
+# Privacy Statement - FluidSurveys
 
-Effective Date: 01/05/2014
+### FluidSurveys Privacy Statement
 
-This privacy policy applies to www.fluidsurveys.com owned and operated by Fluidware Corporation (“We”, “Fluidware”). This privacy policy describes how Fluidware Corporation collects and uses the personal information you provide on our web site: www.fluidsurveys.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+**Posted** : August 5, 2014  
+**Effective date** September 6, 2014
 
-We DO NOT share, sell, rent, or trade Personally Identifiable Information with third parties except as disclosed within this privacy policy.
+FluidSurveys is an online survey tool that allows individuals and organizations to create their own surveys and collect data from respondents. FluidSurveys is a service provided by SurveyMonkey.
 
-FluidSurveys is a product of Fluidware Corporation.
+Personal information and data collected, used and disclosed in the course of using FluidSurveys will be treated in the manner set out below and in SurveyMonkey’s main Privacy Policy at <http://www.surveymonkey.com/mp/policy/privacy-policy>. This privacy statement describes privacy practices that are specific to FluidSurveys, but it should be read in conjunction with the [main Privacy Policy](https://www.surveymonkey.com/mp/policy/privacy-policy/).
 
-### Collected data
+### 1\. How does SurveyMonkey use the information we collect?
 
-When you register to use www.fluidsurveys.com, we (Fluidware Inc.) collect very basic information including but not limited to: email and name. For the paid accounts, we ask for more information including but not limited to your address and credit card information. This personal information is private, we will not share it.  
-After registering with the site, we use your email address to provide you with a series of ‘Ongoing Communications and Product Updates’ (see ‘Communication from the Site’). These communications are used to give you a better understanding of the site, what it offers, and how it is best utilized. As always, you have the option not to receive these types of communications (see ‘Choice and Opt-out’).
+**To monitor, maintain, and improve our services and features.** In addition to the uses of data set out in the [SurveyMonkey Privacy Policy](http://www.surveymonkey.com/mp/policy/privacy-policy), SurveyMonkey internally performs statistical and other analysis on information we collect (including usage data, device data, referral data, and information from page tags) to analyze and measure user behavior and trends, to understand how people use our services, and to monitor, troubleshoot and improve our services. We may use your information for internal purposes designed to keep our services secure and operational, such as for troubleshooting and testing purposes, and for service improvement and development purposes.
 
-### How we use the data collected
+**To create new services, features or content.** We may use your aggregated survey data and survey metadata (that is, data about the characteristics of a survey) to create and provide new services, features or content.
 
-We reserve the right to contact you, regarding your account or any other matter regarding your use of Fluidware products. With your authorization, we may use some information collected from you to help diagnose technical problems, and improve the quality and types of services delivered. We may use and share non-identifiable aggregated usage and statistical information. We may also share information with third parties in limited circumstances including when complying with legal processes, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, preventing fraud or imminent harm, ensuring security of network and services and due to violation of the terms of service. Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose.
+### 2\. With whom do we share or disclose your information?
 
-Fluidware CorporationFluidware Inc. (maker of FluidSurveys.com) has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.fluidsurveys.com. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@fluidsurveys.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+**Your email address to your organization.** If the email address under which you’ve registered your account belongs to or is controlled by an organization, we may disclose your email address to that organization in order to help the organization understand which of its personnel use FluidSurveys.
 
-### Collected data on your surveys
+### 3\. What are your rights to your information?
 
-The surveys and data collected by your surveys and other information you upload is yours. We will not use it or share it in any way.
+**Access and correct your personal information.** You may access and correct inaccuracies in the personal information that SurveyMonkey holds about you. This right may be exercised by visiting your account management page or by emailing [support@fluidsurveys.com](mailto:support@fluidsurveys.com). This right is subject to some exceptions, such as where giving you access would have an unreasonable impact on the privacy of other individuals. SurveyMonkey will respond to your request for access or correction within a reasonable time and, where reasonable and practicable to do so, we will provide access to your personal information in the manner requested by you.
 
-### Note for European Visitors
+### 4\. Security, cookies and other important information
 
-Please note that Fluidware may transfer collected information outside the European Economic Area. By using our web site and providing us with your personal data, you consent to such transfer of your personal data.
+**Data locations.** The servers on which FluidSurveys operate are located in Canada, so your information will be hosted in Canada. Additionally, your information may be processed in and transferred or disclosed to countries in which our affiliates are located and in which our service providers are located or have servers. You can view where our affiliates are located on the [Office Locations](https://www.surveymonkey.com/mp/aboutus/office-locations/) page.
 
-### Cookies
+**Contact Information.** If you wish to access or correct inaccuracies in the personal information we hold about you, or if you have any questions or comments about the manner in which treat your data (including your personal information), please contact us at [support@fluidsurveys.com](mailto:support@fluidsurveys.com).
 
-Cookies are required when using FluidSurveys. We use cookies to identify unique visitors, provide per-user customization, and to make FluidSurveys easier to use. We don’t share our cookies, nor do we use cookies to track your behavior on other sites.
-
-### Third Party Cookies
-
-The use of cookies by our partners and service providers is/is not covered by our privacy statement. We do/do not have access or control over these cookies. Our partners and service providers use session ID cookies to make it easier for you to navigate our site.
-
-### Clear Gifs
-
-We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see ‘Choice and Opt-out’.  
-Ongoing Communication and Product Updates  
-We will occasionally send you information on product enhancements, new services, and additional instruction on utilizing our services. These communications are designed to educate our users on the services offered. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the ‘Choice and Opt-out’.
-
-### Analytics/LSOs
-
-As is true of most web sites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
-
-### Behavioral Targeting/Re-Targeting
-
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
-
-### Service-related Announcements
-
-We will send you service-related announcements when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Service-related emails are also sent confirming billing transactions, account upgrades, and account cancellations. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to cancel your account. In order to cancel a premium (non-free) subscription with FluidSurveys, please see: [How to Cancel my Subscription](http://help.chide.it/entries/309040-how-do-i-cancel-my-account). In order to delete your FluidSurveys account altogether, please send an email to support@fluidsurveys.com and Fluidware support staff will process your request.
-
-### Customer Service
-
-Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password as well an account manager contact information. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account.
-
-### Live Chat
-
-We use live chat to assist you with sales questions and support questions from time to time. If our live chat is offline we will collect your name and email address so that we may reply to your request via email at a later time.
-
-### Blog
-
-Our Web site offers publicly accessible blogs & community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at info@fluidsurveys.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-### Customer Testimonials
-
-We post customer testimonials/comments/reviews on our web site which may contain personal information. We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at info@fluidsurveys.com.
-
-### Social Media Widgets
-
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-### Choice/Opt-out
-
-If you no longer wish to receive our product updates, you may opt-out of receiving them by following the instructions included in each product update email.
-
-### What you can do
-
-Your data (personally identifiable information) is yours; you can correct, update or delete or export it at anytime by logging into your account and doing these changes through your user preferences. If you’d like your account to be deleted, please do send us an email at info@fluidsurveys.com. We may for a time, maintain a residual copy of your data in our backups. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-### Information Obtained from Third Parties
-
-You can import contacts from your Outlook or other email account address book to invite them to become members of our site. We collect the username and password for the email account you wish to import your contacts from and will only use it for that purpose. If you provide us personal information about others, or if others give us your information, we do store this information and will only use that information for the specific reason for which it was provided to us.  **Your friend may contact us at support@fluidsurveys.com to request that we remove this information from our database.**
-
-### Security
-
-Fluidware servers are protected with generally available security technologies, including firewalls and data encryption. These technologies are designed to prevent unauthorized access, but no guarantee can be made that your information and data will be secure from intrusions and unauthorized released to third parties.  
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number, national ID, personal health information) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
-
-### Contact
-
-Any questions regarding this policy should be addressed to info@fluidsurveys.com. If a question comes up not covered by this policy, we will answer it remembering that your data belongs to you. If you’d like to send us snail mail, please visit our contact page for the best address to send to.
-
-### Notification of Privacy Statement Changes
-
-Fluidware may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. The policies outlined in this document are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-### Contact Information
-
-Fluidware Inc. | 1-866-218-5127 | [support@fluidsurveys.com](mailto:support@fluidsurveys.com)
-
-If you’d like to send us snail mail, you can also use our following office locations:
-
-Canada  
-12 York Street, 2nd Floor  
-Ottawa, Ontario, K1N 5S6 Canada
-
-USA  
-1203 Geiger Ln., Suite 100  
-Bridgewater, NJ, 08807 USA
+[View privacy statement applicable to the FluidSurveys service through September 5, 2014.](http://fluidsurveys.com/about/privacy-sept5)
