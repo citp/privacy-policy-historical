@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujixerox.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617042543id_/http%3A//www.fujixerox.com/eng/common/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujixerox.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217064205id_/http%3A//www.fujixerox.com/eng/common/privacy_policy) for the most accurate reproduction.*
 
 # Fuji Xerox Privacy Policy (Handling of Personal Information) : FUJI XEROX
 
