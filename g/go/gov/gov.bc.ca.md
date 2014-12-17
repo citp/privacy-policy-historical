@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gov.bc.ca privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616112111id_/http%3A//www2.gov.bc.ca/gov/admin/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.bc.ca privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217120217id_/http%3A//www2.gov.bc.ca/gov/admin/privacy.page) for the most accurate reproduction.*
 
-# Privacy Statement - Province of B.C.
+# copyright
 
 The British Columbia (B.C.) government is committed to protecting your privacy. The B.C. Government collects, uses and discloses your personal information in accordance with the __[_Freedom of Information and Protection of Privacy Act_](http://www.bclaws.ca/Recon/document/ID/freeside/96165_00) _  (FOIPPA)_ and other applicable legislation. ‘Personal information’ is defined broadly in the _Freedom of Information and Protection of Privacy Act_ as recorded information about an identifiable individual, other than contact information, which is the information used to contact a person at a place of business. The purpose of this privacy statement is to inform you of the personal information that may be collected from you when visiting a B.C. government website and how that information may be used.
 
