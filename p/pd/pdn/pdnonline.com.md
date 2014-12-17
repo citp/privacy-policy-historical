@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdnonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061806id_/http%3A//www.pdnonline.com/Privacy-Policy-2344.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdnonline.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217033525id_/http%3A//www.pdnonline.com/Privacy-Policy-2344.shtml) for the most accurate reproduction.*
 
 # Photo Magazine | Photography Magazine | Photos Magazine | Professional Photographer Magazine | Photo News | Best News Photos
 
