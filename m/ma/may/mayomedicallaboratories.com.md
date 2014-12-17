@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayomedicallaboratories.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627180029id_/http%3A//www.mayomedicallaboratories.com/customer-service/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayomedicallaboratories.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217101125id_/http%3A//www.mayomedicallaboratories.com/customer-service/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mayo Medical Laboratories
 
@@ -48,4 +48,4 @@ Rochester, MN 55901
 
 ## Changes to our Privacy Policy
 
-MayoMedicalLaboratories' occasionally updates the privacy policy. You are encouraged to periodically review this policy. 
+MayoMedicalLaboratories occasionally updates the privacy policy. You are encouraged to periodically review this policy. 
