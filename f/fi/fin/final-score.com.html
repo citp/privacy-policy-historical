@@ -1,27 +1,78 @@
-<!--The following is the downloaded HTML source of the final-score.com privacy policy that was archived on 2013-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212223529id_/http%3A//www.final-score.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the final-score.com privacy policy that was archived on 2014-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141217115959id_/http%3A//www.final-score.com/customerserv/help%3AprivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-	<!-- web-50 -->
-	<script type="text/javascript" src="/images/common/jquery/jquery.latest.js"></script>
+	<!-- web-13 -->
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/images/common/jquery/jquery.latest.js"></script>
 	
+
 	
 	<meta name="format-detection" content="telephone=no">
 
 	
 
-	<meta http-equiv="published" content="Thursday, December 12, 2013 4:35:29">
+	<meta http-equiv="published" content="Wednesday, December 17, 2014 5:59:59">
 
-	<!--cache_delete_after_here--> 
+	
+
+	<script language="JavaScript">
+		
+		var tagMgt = {page_id:null,cart_id:null,device:null,department:null,category:null,subcategory:null,brand:null,gender:null,sport:null,team:null,product_sku:null,product_image:null,referrer_source:null,matchback_id:null,customer_id:null,vip_id:null,breadcrumb:null,img_url:null,cg:null,video_id:null,video_name:null,article_id:null,article_name:null,special_page:null,order_id:null,total_value:null,total_items:null,cart_lines:null};
+		tagMgt.device = "Desktop";
+		
+	</script>
+
+	<script>
+        var RBM = new Object();
+
+        function rbAdd(name, value){
+            var t = name.split(".");
+            try {
+                rbObjectify(RBM, t, value);
+            } catch (err) {
+                console.log(err);
+                console.log(name);
+            }
+        }
+        function rbObjectify(to, from, value) {
+            var next = from[0];
+            from.shift();
+
+            if(from.length == 0){
+                to[next] = value;
+            } else {
+                if (to[next] === undefined){
+                    to[next] = {};
+                }
+                rbObjectify(to[next], from, value);
+            }
+        }
+		
+		function fitToViewport(maxWidth, marginToAdjust) {
+			if (typeof marginToAdjust === 'undefined') {
+				var marginToAdjust = 32;
+			}
+			var adjustedMaxWidth = $(window).width() - marginToAdjust;
+			return adjustedMaxWidth < maxWidth ? adjustedMaxWidth : maxWidth;
+		}
+	</script>
+
+	
 	<!--[if lt IE 9]>
 	  <script type="text/javascript" src="/shared/scripts/excanvas.js"></script>
 	<![endif]-->
-	<script type="text/javascript" src="/combine?type=js&amp;files=shared/tipped/tipped.js,shared/scripts/jquery.bgiframe.pack.js,shared/scripts/ajax.js,shared/scripts/common.js,shared/search/scripts/sizesearch.js"></script>
+	<script type="text/javascript" src="/combine?type=js&amp;files=shared/tipped/tipped.js,shared/scripts/jquery.bgiframe.pack.js,shared/scripts/ajax.js,shared/scripts/common.js,shared/search/scripts/sizesearch.js,shared/scripts/jquery.mask.min.js&amp;locale=en_US&amp;ver=1099b&amp;cd=1d"></script>
 
 	
 
 	<script type="text/javascript">//<![CDATA[
-		var sizeSearchActionURL = 'http://www.final-score.com/includes/sizeSearchForm.cfm';
+		var locale = 'en_US';
+		var sizeSearchActionURL = 'http://www.final-score.com/includes/sizeSearchForm';
+
+		var premierBogoEnabled = false;
+		var premierBogoCalloutsEnabled = false;
+		
+			var premierBogoDetails = {};
 		
 	//]]>
 	</script>
@@ -38,7 +89,7 @@
 	
 	</script>
 	
-	</head><body><ignoreurlreformat>
+	</head><body class="en"><ignoreurlreformat>
 		
 
 		<script type="text/javascript">
@@ -105,42 +156,7 @@
 //-->
 </script>
 
-	<script type="text/javascript" src="/combine?type=js&amp;files=shared/endeca/js/bsn.AutoSuggest_2.1.3.js" charset="utf-8"></script>
-	    
-	<ignoreurlreformat>
-    <script type="text/javascript">
-		var advancedSearchShouldSubmit = false;
-		var advancedSearchPageURL = "http://www.final-score.com/searchresults/?cm_prefix=GSTPAH&N=";
-        $(document).ready(function() {
-			$("form[name='keywordSearch']").submit(function() { return advancedSearchShouldSubmit; });
-			
-			$("form[name='keywordSearch'] input.submitbutton").click(keywordSubmit);
-			
-            // Attach Type-Ahead Functionality to Search Input Box
-            var options = {
-				script: function (input) { return "http://www.final-score.com/endeca/search_typeahead.cfm?Dn=0&Dp=8&Dr=AND(NOT(P_ExcludeFromResults:Y),P_ProductSiteId:1,Record Type:Product,P_IsSaleable:Y)&D=*"+input+"*"; }
-			,	json: true
-			,	maxentries: 10
-			,	shownoresults: false
-			,	minchars: 3
-			,	timeout: 5000
-			,	delay: 200
-            };
-			var as = null;
-            if ($("#reduce_input_text_height").length) {
-				as = new bsn.AutoSuggest('reduce_input_text_height', options);
-			}
-			else if ($("#key_word_search").length) {
-				as = new bsn.AutoSuggest('key_word_search', options);
-			}
-			else if ($("#searchKeywordInput").length) {
-				as = new bsn.AutoSuggest('searchKeywordInput', options);
-			}
-        });
-    </script>
-	</ignoreurlreformat>
-
-    		<script type="text/javascript" src="/combine?type=js&amp;files=shared/wishlist/wl_sharedWishList.js,shared/myAccount/login.js"></script>
+    		<script type="text/javascript" src="/combine?type=js&amp;files=shared/wishlist/wl_sharedWishList.js,shared/myAccount/login.js&amp;locale=en_US&amp;ver=1099b&amp;cd=1d"></script>
     	
 <script language="javascript">
 function clickSearch(fieldObj) {
@@ -152,7 +168,7 @@ function clickSearch(fieldObj) {
 
 
                 	<style type="text/css">
-				@import '/combine?type=css&files=shared/tipped/tipped.css,/css/typography.css,/css/style.css,/css/default_template.css,shared/wishlist/wl_sharedWishList.css,shared/myAccount/login.css,shared/endeca/css/autosuggest_inquisitor.css,/endeca/autosuggest.css';
+				@import '/combine?type=css&files=shared/tipped/tipped.css,/css/typography.css,/css/style.css,/css/default_template.css,shared/wishlist/wl_sharedWishList.css,shared/myAccount/login.css&locale=en_US&ver=1099b&cd=1d';
                 	</style>
 		
                 	<style type="text/css">
@@ -168,58 +184,19 @@ function clickSearch(fieldObj) {
 		display: block;
 	}
 
-	div.autosuggest ul em {
-		color: #FF4500;
-	}
-	div.autosuggest ul li.as_highlight a {
-		background-color: #c00;
-		background-image: none;
-	}
-	div.autosuggest ul li.as_highlight a:hover {
-		background-color: #c00;
-	}	
-	div.autosuggest ul li.as_highlight a em {
-		color: #fff;
-	}			
-	div.autosuggest ul li.as_highlight a .tr {
-		background-image: none;
-	}	
-	div.autosuggest ul li.as_highlight a span {
-		background-image: none;
-		color: #fc3;
-	}
-	div.autosuggest ul li a span {
-		font-size: 14px;
-		font-weight: normal;
-	}	
-
                 	</style>
 		
                 	<style type="text/css">
 				</style>
-<link rel="stylesheet" href="/images/common/css/global-styles.css">
-<script src="//cdn.optimizely.com/js/82719230.js"></script>
+<link rel="stylesheet" href="//www.final-score.com/ns/css/site_master_v1.6.css">
+<link rel="stylesheet" href="/ns/common/css/global-btn-styles.css">
+<link rel="stylesheet" href="/ns/css/fs-btn-styles.css">
+<link rel="stylesheet" href="/ns/common/mta/css/mta_v2.css">
+<link rel="stylesheet" href="/images/common/mta/mta-fs_v1.css">
+<link rel="stylesheet" type="text/css" href="/ns/shadowbox/shadowbox.css">
+<script src="//cdn.optimizely.com/js/650470749.js"></script>
+<script src="/ns/common/js/backtomobile_v1.2.js"></script>
 
-<script type="text/javascript">
-function backToMobile() {
-	var date=new Date();date.setTime(date.getTime()+(30*24*60*60*1000));
-	document.cookie = 'MOBILE_DEVICE=true; expires='+date+';domain=.final-score.com;path=/';
-	document.location.href = 'http://m.final-score.com';
-	return false;
-}
-$(document).ready(function(e) {
-    if(readCookie('MDR_DEVICE') == "true") {
-		$('<a/>', {
-			id: 'back_to_mobile',
-			href: '#',
-			title: 'Back To Mobile',
-			text: 'Back To Mobile',
-			onclick : 'return false;'
-		}).appendTo('body');
-		$('#back_to_mobile').click(backToMobile);
-	}
-});
-</script>
 <!--[if IE]>
 <style>
 	#endecaNav .fb_edge_widget_with_comment {
@@ -227,858 +204,19 @@ $(document).ready(function(e) {
     }
 </style>
 <![endif]-->
-<style>
-a {
-	color:#000;
-}
-a:visited {
-	color:#000;
-}
-ul li a:visited{
-	color:#000;
-}
-p a:visited{
-	color:#000;
-}
-body{
-margin:0 0 0 0;
-text-align:center;
-font-family:arial,helvetica,sans-serif;
-}
-#wrapper {
-width:966px;
-margin:0 auto;
-text-align:center;
-padding:0px;
-}
 
-.noscript_error {
-	width:966;
-	height:100px;
-	font:normal 10pt Arial, Helvetica, sans-serif;
-	color:#000;
-	text-align:center;
-	background-color:#FFF;
-	margin:0 auto;
-}
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-.noscript_error p {
-	margin:0;
-	padding:10px 0;
-}
+  ga('create', 'UA-50007301-10', 'auto');
+  ga('send', 'pageview');
 
-.noscript_error a {
-	font-weight:bold;
-	color:#FF0000;
-	text-decoration:underline;
-}
+</script>
 
-.noscript_error a:hover {
-	font-weight:bold;
-	color:#999;
-	text-decoration:underline;
-}
-
-#container{
-text-align:left;
-margin:0;
-padding:0;
-}
-
-
-/* --- start header styles --- */
-
-#header {
-text-align:left;
-}
-#header-left {
-width:578px;
-float:left;
-}
-#header-right {
-width:379px;
-float:right;
-}
-#logo{
-padding:8px 0 0 0px;
-margin-top:28px;
-height:65px;
-width:523px;
-}
-#tagline {
-padding-left:0px;
-margin:0;
-padding-top:0;
-}
-#tagline h1 {
-font-family:verdana, Arial, Helvetica, sans-serif;
-font-size:19px;
-font-weight:bold;
-margin:0;
-padding:0;
-
-}
-#upper-right
-{
-padding:0;
-margin:25px 0 25px 0;
-text-align: right;
-}
-#lower-right {
-margin-top:14px;
-}
-/* -- ie adjustment -- */
-* html #lower-right {
-margin-top:19px;
-}
-#shoppingcart {
-	font-size: 12px;
-	color: #000;
-	text-align: right;
-	font-weight:bold;
-	float:right;
-	width:35%;
-	padding-top:1px;
-}
-#shoppingcart a, #shoppingcart a:visited, #shoppingcart a:active {
-	text-decoration:none;
-	color:#000;
-}
-#shoppingcart a:hover {
-	text-decoration:underline;
-	color:#000;
-}
-
-#advancedsearch-wrap {
-	background-image: url(http://www.final-score.com/images/fs/topnav/Wide/art-searchbox.gif);
-	background-repeat:no-repeat;
-	background-position:top right;
-	width:293px;
-	min-height:53px;
-	height:53px;
-	text-align:right;
-	float:right;
-	padding:0;
-	margin:0;
-}
-#advancedsearch-box {
-	font-size: 10px;
-	padding-top:4px;
-	padding-bottom:2px;
-	padding-right:0px;
-	color: #000;
-	width: 295px;
-	text-align:right;
-	font-weight:bold;
-	margin-top:0px;
-}
-#searchform {
-	padding:0px;
-	margin:0px;
-	width:290px;
-}
-/*#searchform span {
-	font-weight:bold;
-	margin-right:12px;
-	font-size:12px;
-}*/
-#searchform input {
-	 border: 0px outset #fff;
-	 margin-top:12px;
-          margin-right:6px;
- 	 font-weight:bold;
-          font-size:12px;
-	 color:#999999;
-	 height:16px;
-	 width:155px;
-}
-.submitbutton {
-	margin-top:1px;
-	margin-right:9px;
-}
-/* --- ie adjustment --- */
-* html .submitbutton {
-	margin-top:8px;
-	margin-right:12px;
-}
-/*
-#phone {
-	font-size: 12px;
-	color: #fff;
-	width: 200px;
-	float:left;
-	margin-left:60px;
-	text-align:center;
-	padding-top:30px;
-	font-weight:bold;
-}
-#phone span {
-
-font-size:22px;
-}
-*/
-#custserv-links
-{
-width:100%;
-margin:2px 0 0 0;
-color:#000;
-font-size:11px;
-font-weight:bold;
-}
-.navtoplink a, .navtoplink a:visited {
-  text-decoration: none;
-  color: #000;
-
-}
-.navtoplink a:hover {
-  color: #000;
-  text-decoration:underline;
-  }
-
-/* --- end header styles --- */
-
-/* -- menu styles --*/
-#menu-tabs {
-float:left;
-}
-
-    #menu-tabs ul {
-	/*margin:0;
-	padding:10px;  overall padding around menu-tabs - probably set to 0 for production */
-	list-style:none;
-	margin:12px 0 0 0;
-padding:0px;
-width:578px;
-      }
-/* --- ie adjustment --- */
-* html #menu-tabs ul {
-	margin:12px 0 0 0;
-      }	  
-    #menu-tabs li {
-      display:inline;
-      margin:0;
-      padding:0;
-      }
-    #menu-tabs a {
-	font-family:helvetica, arial, sans serif;
-font-size:12px;
-font-weight:bold;
-text-transform:uppercase;
-      float:left;
-    /* background:url("../images/art-tab-left.gif") no-repeat left top;   call the bacground image for the left corners of tab */
-      margin:0;
-      padding:0px 2px 0 4px; /* shorthand for padding around tabs (top-right-bottom-left): change ONLY the "right" value to open up/close gap between tabs  */
-      text-decoration:none; /* remove underline, etc. from links */
-      }
-	  .first {
-	 background:url("http://www.final-score.com/images/fs/topnav/Wide/art-tab-left-first.gif") no-repeat left top; /* call the bacground image for the left corners of tab */
-	 width:80px;
-	 text-align:right;
-	 }
-	 .others {
-	 background:url("http://www.final-score.com/images/fs/topnav/Wide/art-tab-left.gif") no-repeat left top; /* call the bacground image for the left corners of tab */
-	 }
-    #menu-tabs a span {
-      float:left;
-      display:block; 
-      background:url("http://www.final-score.com/images/fs/topnav/Wide/art-tab-right.gif") no-repeat right top; /* call the bacground image for the body and right corners of tab */
-      padding:6px 6px 9px .6em; /* (top-right-bottom-left) set padding around clickable link inside of tab */
-      color:#fff; /* set the color of the text links inside tabs */
-      }
-    /* Commented Backslash Hack hides rule from IE5-Mac \*/
-    #menu-tabs a span {float:none;}
-    /* End IE5-Mac hack */
-    #menu-tabs a:hover span {
-       /*color:#000; set the color of the text links inside tabs on hover */
-      }
-    #menu-tabs a:hover {
-      /*background-position:0% -40px;  determines proper position of background image on hover (40px is half of the height of the tab images) */
-      }
-    #menu-tabs a:hover span {
-     /* background-position:100% -40px;  determines proper position of background image on hover (40px is half of the height of the tab images) */
-      }
-/* -- end menu styles --*/
-
-
-
-
-
-/* -- inner content area styles -- */
-
-#content_container {/*main content container*/
-	width:966px;
-	height:auto;
-	margin:0 auto;
-	padding:0;
-	text-align:left;
-	/*border:1px solid #FF0000;*/
-}
-
-.clear {clear:both;}
-
-/*----------------START Top Row Mechandise Space----------------*/
-.main_merch_container {/*top row merchandising space container*/
-	width:966px;
-	height:364px;
-	margin:0 0 12px 0 !important;
-	margin:0 0 0 0;
-	padding:0;
-}
-
-.main_graphic {/*first main graphic*/
-	float:left;
-	width:525px;
-	height:364px;
-	margin:3px 0px 0 0;
-	padding:0;
-	background-color:#CCCCCC;
-}
-
-.main_products {/*products container*/
-	float:right;
-	width:437px;
-	height:364px;
-	margin:0 0px 0 0 !important;
-	margin:0 0 0 0;
-	padding:0;
-	/*background-image:url(images/hotbuys_03.gif);*/
-	background-repeat:no-repeat;
-	background-position:top;
-	/*border:1px solid #FF0000;*/
-}
-
-.main_products_title {/*section title of products*/
-	width:415px;
-	height:38px;
-	font-family:Arial, Helvetica, sans-serif;
-	font-weight:bold;
-	font-size:14px;
-	color:#000000;
-}
-
-.main_products_row {/*products row container*/
-	float:left;
-	width:415px;
-	height:auto;
-	margin:0 0 0 0;
-	padding:0;
-	/*border:1px solid #FF0000;*/
-}
-
-.main_products_slots {/*individual product slots*/
-	float:left;
-	width:120px;
-	height:auto;
-	margin:0 10px 10px 5px;
-	padding:0;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:12px;
-	font-weight:normal;
-	line-height:13px;
-	color:#000000;
-	text-align:center;
-}
-
-.main_products_slots a {/*text link rules*/
-	color:#000000;
-	text-decoration:none;
-}
-
-.main_products_slots a:hover {/*text link hover rules*/
-	color:#FF0000;
-	text-decoration:none;
-}
-	
-.main_products_slots img {/*product image rules*/
-	text-align:center;
-	margin:0;
-	padding:0;
-}
-
-.bold {
-	font-weight:bold;
-	color:#FF0000;
-	margin:0;
-	padding:0;
-	}
-
-.strike {
-	text-decoration:line-through;
-	color:#000000;
-	margin:0;
-	padding:0;
-}
-
-.normal {
-	margin:0;
-	padding:0;
-	}
-/*----------------END Top Row Mechandise Space----------------*/
-
-/*----------------START Text Link Lists----------------*/
-.text_links_list {/*Search by sport CONTAINER*/
-	width:966px;
-	height:260px;
-	margin:0;
-	padding:0;
-	/*background-image:url(images/sport_05.gif);*/
-	background-repeat:no-repeat;
-	background-position:top;
-}
-
-.text_links_list_title {/*title for section*/
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:16px;
-	font-weight:bold;
-	margin:0;
-	padding:0;
-}
-
-h2 {/*head title for each category*/
-	font-family:Arial, Helvetica, sans-serif;
-	font-size: 14px;
-	font-weight:bold;
-}
-
-h3 {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:16px;
-	font-weight:bold;
-	color:#000000;
-	margin:0 0 3px 0;
-	padding:0;
-}
-
-.text_link_left_column {	
-	float:left;
-	width:150px;
-	height:auto;
-	margin:0 0 0 60px !important;
-	margin:0 0 0 30px;
-	padding:0;
-}
-
-.text_link_column {	
-	float:left;
-	width:150px;
-	height:auto;
-	margin:0 0 0 30px;
-	padding:0;
-}
-
-
-		
-.text_links_list ul {/*overall list positioning*/
-	margin:0;
-	padding:0;
-}
-
-.text_links_list li {/*list item rules*/
-	list-style:none;
-	margin:0;
-	padding:0;
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:12px;
-	color:#000000;
-	line-height:16px;
-	text-transform:uppercase;
-}
-
-.text_links_list li a{/*list item link rules*/
-	color:#000000;
-	text-decoration:none;
-}
-
-.text_links_list li a:hover {/*list item link hover rules*/
-	color:#FF0000;
-	text-decoration:none;
-}
-/*----------------END Text Link Lists----------------*/
-
-/*----------------START Top Brands Section----------------*/
-.brands {/*top brands container rules*/
-	float:left;
-	width:966px;
-	height:auto;
-	margin:0;
-	padding:0;
-	background-image:url(brands_07.gif);
-	background-repeat:no-repeat;
-	background-position:top;
-}
-
-.brands_title {/*top brands section title rules*/
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:16px;
-	font-weight:bold;
-}
-
-.brands ul {
-	margin:0;
-	padding:0;
-	}
-	
-.brands li {
-	list-style:none;
-	margin:0 0 0 5px;
-	padding:0;
-	display:inline;
-	}
-
-/*-----------END Top Brands Section-----------*/
-
-/* -- end inner content area styles -- */
-
-
-
-/* --- Start footer styles --- */
-.footer-flex {
-	padding-top: 4px;
-	font-family:Arial, sans-serif;
-	font-size:10px;
-	font-weight:normal;
-	color:#fff;
-	height:115px;
-	background-color:#fff;
-	clear:both;
-	width:966px;
-	height:125px;
-	background-image: url(//www.final-score.com/ns/homepage/footer/images/fs-footer-bg.jpg);
-	background-position:top left;
-	background-repeat:no-repeat;
-}
-.flex-column-category1 {
-	float:left;
-	text-align:left;
-	width:190px;
-	margin-right:2px;
-	margin-left:2px;
-}
-.flex-column-category2 {
-	float:left;
-	text-align:left;
-	width:186px;
-	margin-right:2px;
-	margin-left:2px;
-}
-.flex-column-category3 {
-	float:left;
-	text-align:left;
-	width:186px;
-	margin-right:2px;
-	margin-left:2px;
-}
-
-.flex-column-customerservice {
-	float:left;
-	text-align:left;
-	width:184px;
-	color:#000;
-	margin-right:2px;
-	margin-left:2px;
-}
-.flex-column-connect {
-	float:left;
-	text-align:left;
-	width:188px;
-	margin-left:2px;
-}
-#email-wrap {
-	padding-left:10px;
-	font-size:11px;
-	font-weight:bold;
-	text-transform:uppercase;
-	color:#000;
-	width:100%;
-	margin:30px 0 0 0;
-	padding:0;
-	text-align:right;
-}
-#email-icon {
-	float:left;
-}
-#email-form {
-	float:right;
-	padding-right:8px;
-}
-#email-form span {
-	margin-left:38px;
-}
-#email-form form {
-	padding:3px 0 0 0;
-	margin:0;
-}
-#email-form form input {
-	border-left:#999 1px solid;
-	border-top:#999 1px solid;
-	border-right:#fff 1px solid;
-	border-bottom:#fff 1px solid;
-}
-
-#mobile-form form {
-	padding:3px 0 0 0;
-	margin:0;
-}
-#mobile-form form input {
-	border:#000 2px solid;
-}
-.flex-titlebar {
-	padding-left:11px; 
-	font-size:12px;
-	font-weight:bold;
-	color:#fff;
-	text-align:center;
-	padding-top:4px;
-	text-transform:uppercase;
-}
-/* --- single flex links --- */
-.flex-links {
-	line-height:15px;
-	color:#000;
-	width:100%;
-}
-.flex-links ul {
-	width:99%;
-	padding:0;
-	margin:9px 0 0 11px;
-}
-/* -- ie adjustment --*/
-* html .flex-links ul {
-	margin:9px 0 0 -5px;
-}
-.flex-links ul li {
-	list-style-position:inside;
-	list-style:none;
-}
-.flex-links a, .flex-links a:link, .flex-links a:visited {
-	text-decoration:none;
-	color:#000;
-	font-size:11px;
-	font-weight:bold;
-	text-transform:uppercase;
-}
-.flex-links a:hover {
-	text-decoration:underline;
-	color:#000;
-}
-.flex-vertline {
-	width:11px;
-	height:110px;
-	margin-top:4px;
-	float:left;
-	margin-right:0px;
-}
-
-.flex-connect {
-	line-height:15px;
-	color:#000;
-	width:100%;
-	height:auto;
-	margin:9px 0 0 0;
-	padding:0 0 0 25px;
-}
-.flex-connect-slot {
-	width:100%;
-	height:auto;
-	margin:0 !important;
-	margin:0 0 5px 0;
-	padding:0;
-	clear:both;
-}
-.flex-connect-slot img {
-	float:left;
-	margin:0 0 5px 0 !important;
-}
-.flex-connect-slot p {
-	float:left;
-	margin:0;
-	padding:4px 0 0 5px;
-}
-.flex-connect a, .flex-connect a:link, .flex-connect a:visited {
-	text-decoration:none;
-	color:#000;
-	font-size:11px;
-	font-weight:bold;
-	text-transform:uppercase;
-	cursor:pointer;
-}
-.flex-connect a:hover {
-	text-decoration:underline;
-	color:#000;
-	cursor:pointer;
-}
-
-.more-info {
-	width:966px;
-	height:auto;
-	margin:20px 0 0 0;
-	padding:0;
-	text-align:center;
-}
-.more-info a, .more-info a:link, .more-info a:visited {
-	text-decoration:none;
-	color:#000;
-	font-size:11px;
-	font-weight:normal;
-	text-transform:uppercase;
-	cursor:pointer;
-}
-.more-info a:hover {
-	text-decoration:underline;
-	color:#000;
-	cursor:pointer;
-}
-
-/* --- flex links - bottom --- */
-.flex-links-bottom {
-	line-height:15px;
-	text-align:left;
-	color:#000;
-	padding-left:7px;
-	float:left;
-}
-.flex-links-bottom a, .flex-links-bottom a:link, .flex-links-bottom a:visited {
-	text-decoration:none;
-	color:#004a80;
-	font-size:10px;
-	font-weight:bold;
-	text-transform:uppercase;
-	float:left;
-}
-.flex-links-bottom a:hover {
-	text-decoration:underline;
-	color:#5f7fa5;
-	float:left;
-}
-#footer-icons {
-	padding-top:10px;
-	background-color:#fff;
-	text-align:center;
-}
-#footer-tagline {
-	line-height:14px;
-	font-family:Arial, sans-serif;
-	font-size:12px;
-	text-align:center;
-	padding-top:8px;
-	color: #000;
-	background-color:#fff;
-	width:100%;
-	text-transform:uppercase;
-}
-#footer-tagline a {
-	text-decoration:none;
-	color:#666;
-	text-transform:uppercase;
-}
-#footer-tagline a:hover {
-	text-decoration:underline;
-	color:#666;
-	text-transform:uppercase;
-}
-#footer-bottom {
-	background-image:url('http://www.final-score.com/images/fs/bottomnav/Wide/art-footer-bottom.gif');
-	background-position:top;
-	background-repeat:no-repeat;
-	width:100%;
-}
-/* --- end footer styles --- */
-#cleardiv
-{
-clear: both;
-height: 1px;
-overflow:hidden;
-}
-.cleardiv
-{
-clear: both;
-height: 1px;
-overflow:hidden;
-}
-
-#order_summary {
-	float:right;
-	font-size:11px;
-	font-weight:bold;
-	padding-top:0px;
-	padding-right:8px;
-	text-align:right;
-	color: red;
-}
-.form_title_red {
-	color: #000 !important;
-}
-#custgreet {
-float:right;
-position:relative;
-top:10px;
-padding-right:5px;
-width:99%;
-text-align:right;
-
-}
-
-#custgreet a, #custgreet a:hover {
-color: 737373;
-}			
-	#guest_welcome {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:12px;
-	color:737373;
-	}
-	#guest_welcome a {
-	color:737373;
-	}
-	#guest_welcome a:hover {
-	color:737373;
-	}
-	#guest_welcome a:visited {
-	color:737373;
-	}
-	#member_welcome {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:12px;
-	color:red;
-	font-weight:bold;
-	}
-	#member_welcome a {
-	color:737373;
-	}
-	#member_welcome a:hover {
-	color:737373;
-	}
-	#member_welcome a:visited {
-	color:737373;
-	}
-	#not_member_welcome {
-	font-family:Arial, Helvetica, sans-serif;
-	font-size:11px;
-	color:737373;
-	}
-	#not_member_welcome a {
-	color:737373;
-	}
-	#not_member_welcome a:hover {
-	color:737373;
-	}
-	#not_member_welcome a:visited {
-	color:737373;
-	}
-
-#back_to_mobile {
-	position: fixed;
-	display: inline-block;
-	font-family: Arial, Helvetica, sans-serif;
-	width: 100%;
-	bottom: 0;
-	left: 0;
-	line-height: 35px;
-	height: 35px;
-	background: #000;
-	color: #FFF;
-	text-align: center;
-	text-decoration: none;
-} @import 'http://t.p.mybuys.com/css/mbstyles.css'; 
+<style> @import 'http://t.p.mybuys.com/css/mbstyles.css'; 
 	.checkout_step {
 		height: 35px;
 		background-color: transparent;
@@ -1103,11 +241,11 @@ color: 737373;
 <!--
 
 	
-	cmSetClientID("90101773",false,"rpt.final-score.com","final-score.com"); 
+	cmSetClientID("90101773",false,"rpt.final\x2Dscore.com","final\x2Dscore.com"); 
 	cmSetupOther({"cm_TrackImpressions":""});
 	
 	
-		cmCreatePageviewTag("Customer Service: otherServices: privacyPolicy", "CSprivacyPolicy", null, null);
+		cmCreatePageviewTag("Customer\x20Service\x3A\x20otherServices\x3A\x20privacyPolicy", "CSprivacyPolicy", null, null);
 		
 //-->
 </script>
@@ -1128,69 +266,134 @@ color: 737373;
 <script language="javascript1.1" src="//www.final-score.com/shared/coremetrics/cmcustom.js" type="text/javascript"></script>
 <!-- START DOCTYPE COMMON STYLES -->
 <style>
-#helpheader {
-	position: relative;
-}
-.chat-custserv-header-button {
-	position: absolute;
-	top: 0;
-	left: 566px;
-	z-index: 100;
-}
-.accordion_left {
-	left: 8px;
-	height: 39px;
-}
-.accordion_wrapper {
-	height: 40px;
-}
-.accordion_right {
-	top: 0;
-	line-height: 40px;
-}
-#pdp_info {
-	height: auto !important;
-}
-#storegrid ul {
-	min-width: 905px;
-	width: 885px;
-}
-#storegrid ul li {
-	padding-left: 0 !important;
-	height: 160px !important;
-}
-#storegrid ul li p, #storegrid ul li div { margin-left: 25px; }
-#promoCodeFields { width: 100%; }
-#giftCardLabel, #addMoreContainer { width: 50px !important; }
+    #helpheader {
+        position: relative;
+    }
+
+    .chat-custserv-header-button {
+        position: absolute;
+        top: 0;
+        left: 566px;
+        z-index: 100;
+    }
+
+    .accordion_left {
+        left: 8px;
+        height: 39px;
+    }
+
+    .accordion_wrapper {
+        height: 40px;
+    }
+
+    .accordion_right {
+        top: 0;
+        line-height: 40px;
+    }
+
+    #pdp_info {
+        height: auto !important;
+    }
+
+    #storegrid ul {
+        min-width: 905px;
+        width: 885px;
+    }
+
+        #storegrid ul li {
+            padding-left: 0 !important;
+        }
+
+            #storegrid ul li p, #storegrid ul li div {
+                margin-left: 25px;
+            }
+
+    #promoCodeFields {
+        width: 100%;
+    }
+
+    #giftCardLabel, #addMoreContainer {
+        width: 50px !important;
+    }
+
+    #editPaneHeader > table, #loginPane_edit > table {
+        width: 100%;
+    }
+
+    body:not(:-moz-handler-blocked) #billAddressPane_edit #editPaneHeader > table, body:not(:-moz-handler-blocked) #loginPane_edit > table, body:not(:-moz-handler-blocked) #billAddressPane_view .view_pane > table {
+        position: relative;
+    }
+
+    .screenreader {
+        position: absolute;
+        left: -10000px;
+        top: auto;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
+    }
+
+    .screenreader_show {
+        left: 0px;
+        top: 0px;
+        width: 100px;
+        height: auto;
+        padding: 5px 0;
+        overflow: hidden;
+        text-align: center;
+        background-color: #fff;
+        color: #000;
+        border: 1px solid #000;
+        display: block;
+        border-radius: 5%;
+    }
+
+        .screenreader_show.close_menu {
+            position: relative;
+            right: 0px;
+            top: 0px;
+            font-size: 14px;
+            line-height: 1;
+            height: 25px;
+            width: 50%;
+        }
+
+        .screenreader_show.skip {
+            position: absolute;
+            right: 0px;
+            top: 0px;
+            width: 100px;
+            height: 40px;
+            z-index: 1006;
+        }
 </style>
 <!-- END DOCTYPE COMMON STYLES -->
-
 <!-- START TABLET FIXES -->
 <script type="text/javascript">
-var TOUCH_DEVICE = (typeof document.ontouchstart != "undefined") ? true : false;
-if(TOUCH_DEVICE) {
-    $("<link/>", {
-       rel: "stylesheet",
-       type: "text/css",
-       href: "/ns/common/css/tablet-styles.css?cd=0"
-    }).appendTo("head");
-}
+    var TOUCH_DEVICE = (typeof document.ontouchstart != "undefined") ? true : false;
+    if (TOUCH_DEVICE) {
+        $("<link/>", {
+            rel: "stylesheet",
+            type: "text/css",
+            href: "/ns/common/css/tablet-styles.css?cd=0"
+        }).appendTo("head");
+    }
 </script>
 <!-- END TABLET FIXES -->
 
-<script type="text/javascript" language="javascript" src="/ns/chat/js/hours-toggle.js"></script> 
+<script type="text/javascript" language="javascript" src="/ns/chat/js/hours-toggle.js"></script>
 <script type="text/javascript" language="javascript" src="/ns/common/js/responseLiveChat.js"></script>
 <script type="text/javascript" language="javascript">
-$(document).ready(function() {
-	$("#helpheader").append("<div class=\"chat-custserv-header-button\"><a href=\"#\" onClick=\"cmCreateConversionEventTag('Live Chat',1,'Chat',0); cmCreateConversionEventTag('Live Chat',2,'Chat',0); startChatAndCobrowse(gIChannel, gServer, gAttachedData, prefillValues, agentOnlyValues, bEnterOnQueuePage); return false;\"><img src=\"/images/fs/global/pixel.gif\" height=\"186\" width=\"254\" border=\"0\" /></a></div>");
-});
+    $(document).ready(function () {
+        $("#helpheader").append("<div class=\"chat-custserv-header-button\"><a href=\"#\" onClick=\"cmCreateConversionEventTag('Live Chat',1,'Chat',0); cmCreateConversionEventTag('Live Chat',2,'Chat',0); startChatAndCobrowse(gIChannel, gServer, gAttachedData, prefillValues, agentOnlyValues, bEnterOnQueuePage); return false;\"><img src=\"/images/fs/global/pixel.gif\" height=\"186\" width=\"254\" border=\"0\" /></a></div>");
+    });
 </script>
 
 <style type="text/css">
-#order_summary a, #order_summary a:hover, #order_summary a:visited {
-text-decoration:none;
-cursor:pointer;
-}
+    #order_summary a, #order_summary a:hover, #order_summary a:visited {
+        text-decoration: none;
+        cursor: pointer;
+    }
 </style>
 
 <!--[if lte IE 7]>
@@ -1216,101 +419,111 @@ cursor:pointer;
     </map>
 </div>
 <![endif]-->
-
 <!-- start outer wrapper div -->
 <div id="wrapper">
 
-<noscript>
-<div class="noscript_error">
-	<p>We're Sorry! You must have JavaScript enabled in your browser to experience all of the features of our site and to be able to place an order.</p>
-    <p>To continue, please enable JavaScript by changing the preferences in your browser, then refresh the page.  <a href="http://www.final-score.com/promotion/promoId:5002727/javascript/" title="JavaScript Help Page">Click Here</a> for detailed instructions.<br />You may also call <strong>1.800.863.8932</strong> to place your order!</p>
-</div>
-</noscript>
-
-  <!-- start container div -->
-  <div id="container">	
-<!-- start header div -->
-    <div id="header">
-	<!-- start header-left div -->
-	<div id="header-left">
-      <!-- start logo div -->
-      <div id="logo"><a href="http://www.final-score.com/home/default.cfm"><img src="http://www.final-score.com/images/fs/topnav/Wide/art-logo-355x65.gif" width="355" height="65" alt="Final-Score" title="Final-Score Home"></a> 
-        <!-- end logo div -->
-      </div>
-	  <!-- start tagline div -->
-	  <div id="tagline">
-	 <h1><!-- Final-Score tagline here-->&nbsp;</h1> 
-	  </div>
-	  <!-- end tagline div -->
-	  <!-- start menu-tabs div --> 
-	  <div id="menu-tabs">
-  <ul>
-     <li><a href="http://www.final-score.com/Shoes/_-_/N-ne" title="Shoes" class="first"><span>Shoes</span></a></li>
-          <li><a href="http://www.final-score.com/Clothing/_-_/N-nf" title="Clothing" class="others"><span>Clothing</span></a></li>
-          <li><a href="http://www.final-score.com/_-_/keyword-fangear" title="Fan Gear" class="others"><span>Fan Gear</span></a></li>
-          <li><a href="http://www.final-score.com/Equipment/_-_/N-ng" title="Equipment" class="others"><span>Equipment</span></a></li>
-          <li><a href="http://www.final-score.com/Accessories/_-_/N-nh" title="Accessories" class="others"><span>Accessories</span></a></li>
-		  <li><a href="http://www.final-score.com/brands/category.cfm" title="Brands" class="others"><span>Brands</span></a></li>
-<li><a href="http://www.facebook.com/FinalScoreDeals" title="Follow Final-Score on Facebook" style="padding:0px;" target="_blank"><img src="http://www.final-score.com/images/fs/topnav/Wide/facebook-logo.gif" height="29" width="80" style="margin-left:0px;margin-top:-2px;"></a></li>
-  </ul>
-</div> 
-<!-- end menu-tabs div -->
-	  	<!-- end header-left div -->
-	</div>
-	<!-- start header-right div -->
-	<div id="header-right">
-	<div id="custgreet">
-<div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
-								or <a href="https://www.final-score.com/account/default.cfm?action=accountCreate" rel="nofollow">register</a>.</span></div>
-</div> 
-      <!-- start upper-right div -->
-      <div id="upper-right">
-        <!-- start custserv div -->
-        <div id="custserv-links" class="navtoplink">1.800.826.6603&nbsp;|&nbsp;<a href="http://www.final-score.com/customerserv/" title="Customer Service">Customer Service</a>&nbsp;|&nbsp;<a href="https://www.final-score.com/account/default.cfm?action=orderStatus" title="Order Status">Order Status</a>&nbsp;|&nbsp;<a href="https://www.final-score.com/account/default.cfm" title="Customer Service">My Account</a>&nbsp;|&nbsp;<span id="header_login_area"><a href="javascript:openLoginDialogForID('top_welcome_login', null, null, function() {updateWelcome()}, 'left', 'Global Header', 'Log In' , 'true', 'true')" id="top_welcome_login" rel="nofollow">Log In</a></span>
-          <!-- end custserv div -->
+    <noscript>
+        <div class="noscript_error">
+            <p>We're Sorry! You must have JavaScript enabled in your browser to experience all of the features of our site and to be able to place an order.</p>
+            <p>To continue, please enable JavaScript by changing the preferences in your browser, then refresh the page.  <a href="http://www.final-score.com/promotion/promoId:5002727/javascript/" title="JavaScript Help Page">Click Here</a> for detailed instructions.<br />You may also call <strong>1.800.863.8932</strong> to place your order!</p>
         </div>
-		<br>
+    </noscript>
 
- 	<!-- start shoppingcart div -->
-        <div id="shoppingcart"><a href="http://www.final-score.com/catalog/shoppingCart" class="ViewCartBannerLink" title="View Shopping Cart">Shopping Cart<img src="http://www.final-score.com/images/fs/topnav/Wide/art-icon-cart.gif" alt="View Shopping Cart" title="View Shopping Cart" name="shoppingcart_icon" width="13" height="11" hspace="2" border="0" align="absmiddle" id="shoppingcart_icon"></a>
-          <!-- end shoppingcart div -->
-		  <div id="order_summary"><a href="http://www.final-score.com/catalog/shoppingCart" class="ViewCartBannerLink" title="View Shopping Cart">
+    <!-- start container div -->
+    <div id="container">
+        <div class="screenreader" id="pageLoaded" role="alert" aria-live="assertive">Page is loaded</div><p class="screenreader" id="loadAssist" role="alert" aria-live="assertive">Page is loaded</p><a class="screenreader skip" tabindex="2" id="skip_link" href="#skiptomaincontent">Skip to main content</a>
+        <div id="mta-outer-wrapper">
+            <div id="mta-wrapper"></div> <!-- Merchandised Type Ahead Container -->
+        </div>
+        <!-- start header div -->
+        <div id="header">
+            <!-- start header-left div -->
+            <div id="header-left">
+                <!-- start logo div -->
+                <div id="logo">
+                    <a tabindex="10" href="http://www.final-score.com/home/default.cfm"><img src="http://www.final-score.com/images/fs/topnav/Wide/art-logo-355x65.gif" width="355" height="65" alt="Final-Score" title="Final-Score Home"></a>
+                    <!-- end logo div -->
+                </div>
+                <!-- start tagline div -->
+                <div id="tagline">
+                    <h1><!-- Final-Score tagline here-->&nbsp;</h1>
+                </div>
+                <!-- end tagline div -->
+                <!-- start menu-tabs div -->
+                <div id="menu-tabs">
+                    <ul>
+                        <li><a href="http://www.final-score.com/Shoes/_-_/N-ne" title="Shoes" class="first" tabindex="50"><span>Shoes</span></a></li>
+                        <li><a href="http://www.final-score.com/Clothing/_-_/N-nf" title="Clothing" class="others" tabindex="50"><span>Clothing</span></a></li>
+                        <li><a href="http://www.final-score.com/_-_/keyword-fangear" title="Fan Gear" class="others" tabindex="50"><span>Fan Gear</span></a></li>
+                        <li><a href="http://www.final-score.com/Equipment/_-_/N-ng" title="Equipment" class="others" tabindex="50"><span>Equipment</span></a></li>
+                        <li><a href="http://www.final-score.com/Accessories/_-_/N-nh" title="Accessories" class="others" tabindex="50"><span>Accessories</span></a></li>
+                        <li><a href="http://www.final-score.com/brands/category.cfm" title="Brands" class="others" tabindex="50"><span>Brands</span></a></li>
+                        <li><a href="http://www.facebook.com/FinalScoreDeals" title="Follow Final-Score on Facebook" style="padding:0px;" target="_blank" tabindex="50"><img src="http://www.final-score.com/images/fs/topnav/Wide/facebook-logo.gif" height="29" width="80" style="margin-left:0px;margin-top:-2px;"></a></li>
+                    </ul>
+                </div>
+                <!-- end menu-tabs div -->
+                <!-- end header-left div -->
+            </div>
+            <!-- start header-right div -->
+            <div id="header-right">
+                <div id="custgreet">
+                    <div id="welcome_area"><span id="guest_welcome" tabindex="20">Welcome, Guest, click here to <a title="Log In" href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow" tabindex="20">log in</a> 
+								or <a title="Register" href="https://www.final-score.com/account/default.cfm?action=accountCreate" rel="nofollow" tabindex="20">register</a>.</span></div>
+                </div>
+                <!-- start upper-right div -->
+                <div id="upper-right">
+                    <!-- start custserv div -->
+                    <div id="custserv-links" class="navtoplink">
+                        <span tabindex="20"><span class="screenreader">Contact us at 1-800-826-6603</span><span aria-hidden="true">1.800.826.6603</span></span>&nbsp;|&nbsp;<a href="http://www.final-score.com/customerserv/" title="Customer Service" tabindex="20">Customer Service</a>&nbsp;|&nbsp;<a href="https://www.final-score.com/account/default.cfm?action=orderStatus" title="Order Status" tabindex="20">Order Status</a>&nbsp;|&nbsp;<a href="https://www.final-score.com/account/default.cfm" title="My Account" tabindex="20">My Account</a>&nbsp;|&nbsp;<span id="header_login_area"><a title="Log In" href="javascript:openLoginDialogForID('top_welcome_login', null, null, function() {updateWelcome()}, 'left', 'Global Header', 'Log In' , 'true', 'true')" id="top_welcome_login" rel="nofollow" tabindex="20">Log In</a></span>
+                        <!-- end custserv div -->
+                    </div>
+                    <br>
+
+                    <!-- start shoppingcart div -->
+                    <div id="shoppingcart">
+                        <a href="http://www.final-score.com/catalog/shoppingCart" class="ViewCartBannerLink" title="View Shopping Cart" tabindex="20">Shopping Cart<img src="http://www.final-score.com/images/fs/topnav/Wide/art-icon-cart.gif" alt="View Shopping Cart" title="View Shopping Cart" name="shoppingcart_icon" width="13" height="11" hspace="2" border="0" align="absmiddle" id="shoppingcart_icon"></a>
+                        <!-- end shoppingcart div -->
+                        <div id="order_summary">
+                            <a href="http://www.final-score.com/catalog/shoppingCart" class="ViewCartBannerLink" title="View Shopping Cart">
 <span class="order_summary_value" id="order_summary_content">
 
 	<span class="item_count_value">0</span> <span class="label">Items</span><span class="subtotal_value invisible">0</span>
 
 </span>
-</a></div><br>
-		          </div>
-				  <br>
-		
+</a>
+                        </div><br>
+                    </div>
+                    <br>
 
-        <!-- end upper-right div -->
-      </div>
-	  <!-- start lower-right div -->
-	  <div id="lower-right">
-		<!-- start advancedsearch-wrap div -->
-		<div id="advancedsearch-wrap">
-        <!-- start advancedsearch div -->
-        <div id="advancedsearch-box">
-          <form name="keywordSearch" action="javascript:void(0);" method="" id="searchform">
-            <input type="hidden" name="search" value="k">
-            <input type="text" id="reduce_input_text_height" name="keyword" maxlength="40" value="Enter Keyword/Product#" onfocus="clickSearch(this);" autocomplete="off"><a href="javascript:submitKeywordSearch();"><img src="http://www.final-score.com/images/fs/topnav/Wide/art-button-go.jpg" width="26" height="23" alt="GO" title="GO" vspace="1" border="0" align="absmiddle" class="submitbutton"></a>
-            <script type="text/javascript" src="/ns/common/js/keyword-search.js"></script>
-          </form>
-          <!-- end advancedsearch div -->	 
+
+                    <!-- end upper-right div -->
+                </div>
+                <!-- start lower-right div -->
+                <div id="lower-right">
+                    <!-- start advancedsearch-wrap div -->
+                    <div id="advancedsearch-wrap">
+                        <!-- start advancedsearch div -->
+                        <div id="advancedsearch-box">
+                            <form name="keywordSearch" action="javascript:void(0);" method="" id="searchform">
+                                <input type="hidden" name="search" value="k">
+                                <input type="text" id="reduce_input_text_height" name="keyword" maxlength="40" placeholder="Enter Keyword/Product#" tabindex="50" autocomplete="off"><a href="javascript:submitKeywordSearch();" tabindex="50"><img src="http://www.final-score.com/images/fs/topnav/Wide/art-button-go.jpg" width="26" height="23" alt="GO" title="GO" vspace="1" border="0" align="absmiddle" class="submitbutton"></a>
+                                <script type="text/javascript" src="/ns/common/js/keyword-search.js"></script>
+                            </form>
+                            <!-- end advancedsearch div -->
+                        </div>
+
+                        <!-- end advancedsearch-wrap div -->
+                    </div>
+
+                    <!-- end lower-right div -->
+                </div>
+                <!-- end header-right div -->
+            </div>
+            <!-- end header div -->
         </div>
+        <div class="cleardiv"></div>
+        <a name="skiptomaincontent" class="screenreader" tabindex="499">Main Content</a>
 
-		<!-- end advancedsearch-wrap div -->
-		</div>
-
-		 <!-- end lower-right div -->
-	  </div>
-<!-- end header-right div -->
-	</div>
-	<!-- end header div -->
-    </div>
-<div class="cleardiv"></div> 
         <style>
                 #product_freeShipping, #pdp_freeShipping, .product_freeShipping {
                         display: none;
@@ -1319,9 +532,7 @@ cursor:pointer;
 
 	<script language="javascript">
 		<!--
-		viewBannerEvent("Email Gift Cards", 90); 
-			var excludeBannerFromDiscount = false;
-		
+		viewBannerEvent("poswt launch", 90); 
 		//-->
 	</script>
 
@@ -1332,11 +543,16 @@ cursor:pointer;
 </script>
 <div id="global_Banner">
 	
-		<!-- tpbann --><img src="//www.final-score.com/ns/images/fsg091713a.jpg" border="0" usemap="#freeshipping">
-<map name="freeshipping">
-  <area shape="rect" coords="2,4,536,45" href="http://www.final-score.com/ns/disclaimers/124FSdisclaimer.html" target="_blank" title="Free Shipping at Final Score">
-  <area shape="rect" coords="541,3,960,47" href="http://ebm.e.final-score.com/r/regf2?a=0&amp;aid=2087424288&amp;n=2">
-</map><!-- end tpbann -->
+		<!-- tpbann --><div style="width: 525px; cursor: pointer;" onclick="Shadowbox.open({ content: '/ns/disclaimers/1124offerdisclaimer.html?cd=0', width: 600, height: 380 , player: 'iframe'}); return false;">
+	<img src="//www.final-score.com/ns/images/fsg112114a.jpg" border="3" usemap="#freeshipping">
+</div>
+<map name="freeshipping" id="freeshipping">
+	<area shape="rect" coords="541,3,960,47" href="http://ebm.e.final-score.com/r/regf2?a=0&amp;aid=2087424288&amp;n=2">
+</map>
+<script type="text/javascript" language="javascript" src="/ns/common/js/shadowbox-jquery.js"></script>
+<script language="javascript">
+	Shadowbox.init();
+</script><!-- end tpbann -->
 	
 </div>	
 
@@ -1346,7 +562,7 @@ cursor:pointer;
 <script language="Javascript">		
 	var inlineAddToCartEnabled = true;
 	var useMyBuyYMALS = true;
-	var MyBuysDisabledForHL = false;
+	var MyBuysDisabledForHL = true;
 	var co_cd = '04';
 </script>
 
@@ -1443,41 +659,45 @@ cursor:pointer;
 		<div class="help_index"><strong>Help Index</strong></div>
 		<ul>
 			
-					<li><a href="http://www.final-score.com/customerserv/help:account/">My Account</a></li>
+					<li tabindex="-1"><a href="http://www.final-score.com/customerserv/help:account/" title="My Account" tabindex="550">My Account</a></li>
 				
-					<li><a href="http://www.final-score.com/customerserv/help:orderInfo/">Order Information</a></li>
+					<li tabindex="-1"><a href="http://www.final-score.com/customerserv/help:orderInfo/" title="Order Information" tabindex="550">Order Information</a></li>
 				
-					<li><a href="http://www.final-score.com/customerserv/help:shipInfo/">Shipping Information</a></li>
+					<li tabindex="-1"><a href="http://www.final-score.com/customerserv/help:shipInfo/" title="Shipping Information" tabindex="550">Shipping Information</a></li>
 				
-					<li><a href="http://www.final-score.com/customerserv/help:returnsExchanges/">Returns and Exchanges</a></li>
+					<li tabindex="-1"><a href="http://www.final-score.com/customerserv/help:returnsExchanges/" title="Returns and Exchanges" tabindex="550">Returns and Exchanges</a></li>
 				
-					<li><a href="http://www.final-score.com/customerserv/help:giftInfo/">GiftCards</a></li>
+					<li tabindex="-1"><a href="http://www.final-score.com/customerserv/help:giftInfo/" title="GiftCards" tabindex="550">GiftCards</a></li>
 				
-					<li><a href="http://www.final-score.com/customerserv/help:otherServices/">Other Services</a></li>
+					<li tabindex="-1"><a href="http://www.final-score.com/customerserv/help:otherServices/" title="Other Services" tabindex="550">Other Services</a></li>
 				
-					<li><a href="http://www.final-score.com/customerserv/help:search_tips/">Website Search Tips</a></li>
+					<li tabindex="-1"><a href="http://www.final-score.com/customerserv/help:search_tips/" title="Website Search Tips" tabindex="550">Website Search Tips</a></li>
 				
-					<li><a href="http://www.final-score.com/customerserv/help:sportSpecificSizing/">Sport-Specific Sizing Help, Tips &amp; Information</a></li>
+					<li tabindex="-1"><a href="http://www.final-score.com/customerserv/help:sportSpecificSizing/" title="Sport-Specific Sizing Help, Tips &amp; Information" tabindex="550">Sport-Specific Sizing Help, Tips &amp; Information</a></li>
 				
 		</ul>
 	</div>
 	<div id="helpcontent">
                 <div id="helpheader">
-                        <a href="http://www.final-score.com/customerserv/"><img src="http://www.final-score.com/images/fs/staticheaders/hdr_customerservice.gif" alt="Customer Service" border="0"></a>
-                <div class="chat-custserv-header-button"><a href="#" onclick="cmCreateConversionEventTag('Live Chat',1,'Chat',0); cmCreateConversionEventTag('Live Chat',2,'Chat',0); startChatAndCobrowse(gIChannel, gServer, gAttachedData, prefillValues, agentOnlyValues, bEnterOnQueuePage); return false;"><img src="/images/fs/global/pixel.gif" height="186" width="254" border="0"></a></div></div>
+                        <a href="http://www.final-score.com/customerserv/" title="Customer Service" tabindex="550"><img src="http://www.final-score.com/images/fs/staticheaders/hdr_customerservice.gif" alt="Customer Service" border="0"></a>
+                <div class="chat-custserv-header-button"><a href="#" onclick="cmCreateConversionEventTag('Live Chat',1,'Chat',0); cmCreateConversionEventTag('Live Chat',2,'Chat',0); startChatAndCobrowse(gIChannel, gServer, gAttachedData, prefillValues, agentOnlyValues, bEnterOnQueuePage); return false;" tabindex="550"><img src="/images/fs/global/pixel.gif" height="186" width="254" border="0"></a></div></div>
 
 		
 
-			<div id="contenttitle">
+			<div id="contenttitle"><span tabindex="550">
             	Privacy Policy
-                <hr size="1">
-            </div>
+                </span><span tabindex="-1"><hr size="1"></span><span tabindex="-1">
+            </span></div>
 			<ul></ul>
 			
 				
 				<!--Page name is privacy_policy.html-->
-<p style="text-align: left;"><strong><big>Online Privacy Statement</big></strong></p>
-<p>Final Score believes in keeping your information confidential. With this in mind, we have adopted this Online Privacy Statement. By using this Website, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Website. This Statement addresses:</p>
+<p tabindex="-1"><span tabindex="550">Last Updated June, 2014</span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550">Thank you for visiting our Website. We recently revised our Privacy Statement to make it easier for you to understand. This revised Statement, like our previous one, outlines the information we collect, how we may use and disclose it, and what your options are with respect to our practices. If you have any questions, please contact us at finalscore@eastbay.com</span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p style="text-align: left;" tabindex="-1"><span tabindex="550"><strong><big>Privacy Statement</big></strong></span></p>
+<p tabindex="-1"><span tabindex="550">Final Score believes in protecting your information.  With this in mind, we have adopted this Privacy Statement, which describes the information we may collect when you use visit our websites (each a "Site"), sign up for a brand loyalty membership (each a "Loyalty Program"), or shop in our stores (each a "Store") (collectively the "Services"). By using this Site, you agree to the collection, use and disclosure of your personal information as described in this Statement. If you do not, please do not use the Site.  This Statement addresses:</span></p>
 <table style="width: 100%;" border="1">
 <tbody>
 </tbody>
@@ -1485,83 +705,87 @@ cursor:pointer;
 <table class="content_area" style="width: 50%;" border="0" align="center">
 <tbody>
 <tr>
-<td><a href="#Info">Information Collection</a></td>
-<td><a href="#Option">Option to Opt-out</a></td>
+<td><span tabindex="-1"><a href="#Info" tabindex="550">Information Collection</a></span></td>
+<td><span tabindex="-1"><a href="#Use" tabindex="550">Information Use</a></span></td>
 </tr>
 <tr>
-<td><a href="#Registration">Registration</a></td>
-<td><a href="#Security">Security of Information</a></td>
+<td><span tabindex="-1"><a href="#Disclosure" tabindex="550">Information Disclosure</a></span></td>
+<td><span tabindex="-1"><a href="#Updating" tabindex="550">Updating Your Information</a></span></td>
 </tr>
 <tr>
-<td><a href="#Use">Use of Information</a></td>
-<td><a href="#Contests">Contests</a></td>
+<td><span tabindex="-1"><a href="#Changes" tabindex="550">Changes to our Privacy Statement</a></span></td>
+<td><span tabindex="-1"><a href="#Option" tabindex="550">Option to Opt-out</a></span></td>
 </tr>
 <tr>
-<td><a href="#Disclosure">Disclosure of Information</a></td>
-<td><a href="#CA">Your California Privacy Rights</a></td>
+<td><span tabindex="-1"><a href="#Children" tabindex="550">Children's Privacy</a></span></td>
+<td><span tabindex="-1"><a href="#Security" tabindex="550">Security of Information</a></span></td>
 </tr>
 <tr>
-<td><a href="#Updating">Updating of Information</a></td>
-<td><a href="#Contacting">Contacting the Website</a></td>
+<td><span tabindex="-1"><a href="#CA" tabindex="550">Your California Privacy Rights</a></span></td>
+<td><span tabindex="-1"><a href="#Contacting" tabindex="550">Questions/Contacting Us</a></span></td>
 </tr>
 <tr>
-<td><a href="#Changes">Changes to our Privacy Statement</a></td>
-<td><a href="#Links">Links to Other Websites</a></td>
-</tr>
-<tr>
-<td><a href="#Cookies">Cookies and Pixel Tags</a></td>
-<td><a href="#Safe">Safe Harbor Certification</a></td>
+<td><span tabindex="-1"><a href="#Links" tabindex="550">Links to Other Websites</a></span></td>
+<td><span tabindex="-1"><a href="#Safe" tabindex="550">Safe Harbor Certification</a></span></td>
 </tr>
 </tbody>
 </table>
-<p><strong><a name="Info">Information Collection</a></strong><br><strong>We do not sell products for purchase by children.</strong> We sell children's products for purchase by adults. We do not direct the Website to, nor do we knowingly collect any personal information from, children under the age of thirteen. <strong>You must be 13 years of age or older to submit personal information to us, including to register or place an order on the Website or participate in one of our online promotions.</strong> Please see our <a href="http://www.final-score.com/content/custserv/help--terms&amp;&amp;">Terms of Use</a> for additional information regarding the use of this Website.</p>
-<p>We only collect personal information from you when you provide it to us, such as when you: (1) register; (2) place an order; (3) complete a survey; (4) participate in one of our promotions; (5) sign up for VIP, Star Club, or other brand loyalty membership; or (6) contact us. The personal information we collect from you may include your name, age, mailing address, daytime telephone number, cell phone number, e-mail address, password and payment information. We may also combine the information you provide to us with information we receive from third parties, such as address update services.</p>
-<p><strong><a name="Registration">Registration</a></strong><br>We encourage you to register when shopping at our Website, however it is not required. Our <a href="http://www.final-score.com/account/default.cfm?&amp;action=accountCreate">registration form</a> requires users to give us contact information (such as name, age, mailing address, daytime telephone number, cell phone number, e-mail address and password). <strong>You must be 13 years of age or older to register.</strong> Registration helps us to provide you with a quick and simple checkout experience. The customer contact information you supply on the registration form will be used to contact you concerning the status of an order or to answer your questions. In addition, unless you choose to opt-out, it will be used to send you e-mail updates about upcoming sales, contests, promotions and product information. <em>You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password. You are responsible for all use of the Website accessed through it.</em> If you would like, you can also fill out a customer profile. While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve our customers' shopping experience with us.</p>
-<p><strong><a name="Use">Use of Information</a></strong><br>We use the personal information we collect from you for the following purposes:</p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Info" tabindex="550"></a></strong></span><span tabindex="550"><strong>Information Collection</strong></span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
 <ol type="1">
-<li>To provide you with a quick and simple checkout experience;</li>
-<li>To process your orders, to contact you concerning the status of an order, to answer any of your questions, or to otherwise contact you when necessary; </li>
-<li>To contact you about upcoming Final Score sales, promotions, and product information; </li>
-<li>To allow you to participate in contests and other promotions;</li>
-<li>To help us learn more about our site visitors and customers and to improve their shopping experience and our business;</li>
-<li>To address problems with the Website, our business or our products and services and to protect the security of the Website and our business;</li>
-<li>To contact you about upcoming promotions and offers from our partners; and</li>
-<li>Otherwise, as disclosed to you at the point of information collection.</li>
+<li tabindex="550"><i><span style="text-decoration: underline;">Information You Provide to Us.</span></i> We only collect certain information from you when you provide it to us, such as when you: (1) register; (2) place an order; (3) complete a survey or product review; (4) participate in one of our promotions; (5) sign up for VIP, Star Club, or other Loyalty Program; or (6) contact us.  The information we collect from you may include your name, age, mailing address, daytime telephone number, cell phone number, e-mail address, account user name and password, and payment information.  If you use a third party login to register or otherwise link to us, we may receive certain information about you from the third party (such as a social network) based on your registration and privacy settings on that third party service.</li>
+<li tabindex="-1"><i><span style="text-decoration: underline;">Registration.</span></i> We encourage you to register when shopping on our Site; however registration is not required.  Our <a href="http://www.final-score.com/account/default.cfm?&amp;&amp;action=accountcreate" tabindex="550">Registration Form</a> requires users to provide contact information (such as name, age, mailing address, daytime telephone number, cell phone number, e-mail address and password).  <strong>You must be 13 years of age or older to register.</strong> Registration helps us to provide you with a quick and simple checkout experience.  The customer contact information you provide will be used to contact you concerning the status of an order, answer your questions and, unless you choose to opt-out, to send you communications about upcoming sales, contests, promotions and product information.  You acknowledge and agree that you are responsible for maintaining the confidentiality of your registration information and password.  You are responsible for all use of the Site under your registered account.  If you would like, you can also fill out a customer profile.  While it is not required, information obtained from the customer profile questions helps us to learn more about our customers and is used to improve your shopping experience and to provide you with more relevant content and advertising.</li>
+<li tabindex="550"><i><span style="text-decoration: underline;">Information We Automatically Collect.</span></i> We may use cookies, web beacons, pixel tags, log files, or other technologies to automatically collect certain information when you use our Site, or interact with our emails or advertisements on our Site or other websites.  A cookie is a small data file that is sent to your browser from a web server and stored on your computer's hard drive.  For example, we may automatically collect information such as your IP address, geolocation data, unique user ID, cell phone model, operating system, and carrier, and Internet Service Provider.  We also may collect information about your use of our Services, such as the time you spend using the Site, the number of times you return, whether you click-through, open, or forward links, emails, and ads, and other Site usage data.  These technologies, such as cookies, allow us to keep track of your order as you shop on our Site, recognize registered users when they visit, and to provide those customers with information and advertising that is more relevant to them. <br> <br> If you register with or order from us, we may use cookies to monitor and maintain information about how you use our Site and what you buy.  If you do not register with or buy from us, we may monitor and maintain information about your use in order to improve your shopping experience and provide you with more relevant content and advertising.</li>
+<li tabindex="-1"><i><span style="text-decoration: underline;">Tracking Options.</span></i> You may adjust your browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of our offerings. <br> <br> Even without a cookie, you can still take advantage of most of the features of our Site, including making a purchase, but we will not be able to recognize you as a registered user unless you log in. Our system may not respond to Do Not Track requests or headers from some or all browsers.  To learn more about the use of cookeis or other technologies to deliver more relevant advertising and your choices about not having this information used by certain service providers, please click <a href="http://www.networkadvertising.org/choices/" tabindex="550">here</a>.</li>
+<li tabindex="550"><i><span style="text-decoration: underline;">Information Collected From Other Sources.</span></i> We may obtain information about you from other sources, including social networks that you use to connect with us.  This information may include name, user name, demographic information, updated address or contact information, interests, and publicly-observed data, such as from social media and online activity.</li>
+<li tabindex="550"><i><span style="text-decoration: underline;">Combination of Information.</span></i> We may also combine the information we receive from and about you, including the information you provide to us on the Site or through the Loyalty Program, information we receive from third parties, information we automatically collect (as explained above), and information provided or collected offline when you shop in our Stores.</li>
 </ol>
-<p><strong><a name="Disclosure">Disclosure of Information</a></strong><br>We may disclose your personal information as follows:</p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Use" tabindex="550"></a></strong></span><span tabindex="550"><strong>Information Use</strong></span><span tabindex="-1"><br></span><span tabindex="550">We may use the information we collect from and about you for the following purposes:</span></p>
 <ol type="1">
-<li>To carefully selected third party partners, so that they may inform you of offers, promotions and services.</li>
-<li>Footlocker.com, Inc. will have access to and will use the personally identifiable information you provide in connection with your purchases on this Website, and it may use your data for payment processing and authorization, fraud protection and credit risk reduction, website evaluation and data analysis, and also for marketing and promotional material distribution for the Foot Locker family of companies.</li>
-<li>To our Website hosting partners, and other parties who assist us in operating our Website or conducting Final Score business, so long as those outside parties agree to keep the information confidential.</li>
-<li>To comply with the law, to respond to governmental inquiries or requests, to enforce our Website policies, or to protect our or others' rights, property, or safety.</li>
-<li>To a third party advertising partner and its service providers. The information we disclose may include your transactional information with us. Our advertising partner makes the data we provide anonymous and does not use your personal information such as your name, address, email address, etc., in order to deliver advertising to you that is tailored to your interests. To choose not to have your transactional information given to, or used by, our third-party advertising partner in this way, <a href="http://usucmweb.dotomi.com/2223/optout.html" target="_blank">click here</a>.</li>
-<li>Otherwise, with your consent.</li>
+<li tabindex="550">To provide you with a quick and simple checkout experience;</li>
+<li tabindex="550">To process your orders, contact you concerning the status of an order, answer any of your questions, or otherwise contact and communicate with you;</li>
+<li tabindex="550">To provide you with customized content, targeted offers, and advertising on the Site, other websites or via text message, and to contact you about upcoming Final Score sales, promotions, and product information;</li>
+<li tabindex="550">To allow you to participate in promotions;</li>
+<li tabindex="550">To help us learn more about our Site visitors, Loyalty Program members, and customers and to improve their shopping experience and our business;</li>
+<li tabindex="550">To address problems with the Site, our business or our products and services and to protect the security of the Site and our business;</li>
+<li tabindex="550">To contact you about upcoming promotions and offers on behalf of our partners; and</li>
+<li tabindex="550">Otherwise, as described to you at the point of collection.</li>
 </ol>
-<p><strong>Any personal information or content that you voluntarily upload or submit for posting to the Website becomes publicly available and can be collected and used by others. It is in violation of the Website's <a href="http://www.final-score.com/content/custserv/help--terms&amp;&amp;">Terms of Use</a> for you to post any content that requests personally identifiable information.</strong></p>
-<p>As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets. In such transactions, information about customers often is among the transferred assets. Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets.</p>
-<p>We may share aggregate, non-personally identifiable information about Website users with third parties.</p>
-<p><strong><a name="Updating">Updating of Information</a></strong><br>In order to change or modify personal information previously provided by you, please choose <a href="http://www.final-score.com/account/default?&amp;">"My Account"</a> and update your information using the options on this page.</p>
-<p><strong><a name="Changes">Changes to our Privacy Statement</a></strong><br>We may amend this Privacy Statement at any time. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you provided us, and/or by prominently posting notice of the changes on the Website covered by this Privacy Statement. Any material changes to this Privacy Statement will be effective upon the earlier of thirty (30) calendar days following our transmittal of an e-mail notice to you or thirty (30) calendar days following our posting of the notice of changes on the Website covered by the Privacy Statement.</p>
-<p>Please note that, at all times, you are responsible for updating your personal information to provide us your current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our transmittal of the e-mail containing such notice will nevertheless constitute effective notice of the changes described in the notice.</p>
-<p>In any event, changes to this Privacy Statement may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not accept these changes in our use of your information, you must notify us prior to the effective date of your wish to opt-out.</p>
-<p><strong><a name="Cookies">Cookies and Pixel Tags</a></strong><br>Final Score does place a feature called a "cookie" on your hard drive. A cookie is a small data file that is sent to your browser from a web server and stored on your computer's hard drive. A cookie may contain certain information, such as a unique user session ID number, which is used to track the page(s) you visited. This unique number allows us to keep track of your order as you shop on our Website. Cookies also allow us to recognize registered users when they visit, and to provide those customers with information relevant to them.</p>
-<p>If you register with us or order from our Website, we use cookies to monitor and maintain information about how you use our Website and what you buy. If you do not register or buy from the Website, we may monitor and maintain information about your use of our Website in order to improve your shopping experience. Our Website logs do generate certain kinds of non-identifying site usage data, such as the number of visits to our Website and pages viewed. This information is used for internal purposes by technical support staff to provide better service to you.</p>
-<p>Most Web browsers automatically accept cookies, but you can usually change the configuration of your browser to prevent this from occurring. Even without a cookie, you can still take advantage of most of the features of our Website, including making a purchase, but we will not be able to recognize you as a registered user unless you log-in.</p>
-<p>We may use pixel tags (web beacons) on our Website, in our advertisements on other websites, and in our emails. Pixel tags help us analyze our site users' behavior and evaluate the effectiveness of our Website and our advertising campaigns. We may work with service providers that help us collect and analyze this information. On our Website, we may use pixel tags to collect information about your visit, such as the pages you view, the links you click and other actions you take. In our advertisements on other websites, we may use pixel tags to tell us when you click on the ad and what, if any, action you take on our Website after that (such as making a purchase). In our emails, we may use pixel tags to tell us when you open, click on or take any other action with respect to the message.</p>
-<p><strong><a name="Option">Option to Opt-out</a></strong><br>At all times, you have the option of "opting out" of receiving future e-mail marketing updates by sending us an e-mail with "unsubscribe" in the subject line at finalscore@eastbay.com. Even if you opt out, you may continue to receive non-marketing e-mail messages from us, including, for example, order confirmations.</p>
-<p><strong><a name="Security">Security of Information</a></strong><br>Final Score has security measures in place to protect against the loss, misuse or alteration of the information you provide. We encrypt your personal information, including your credit card number, when transmitting over the Internet using triple key encryption technology by Secure Server Certification Authority RSA Data Security Inc. US and a VeriSign SSL (Secure Socket Layer), to safeguard your Internet transactions. VeriSign, Inc. is a leading provider of Public Key Infrastructure and digital certificate solutions used by enterprises, websites and consumers to conduct secure communications and transactions over the Internet and private networks.</p>
-<p>Browsers that allow for SSL Technology Ordering from our Website require the use of an SSL-compliant browser, such as Netscape 4.0 or later; Microsoft Internet Explorer 5.0 or later; 5.0 AOL client for PCs; or the 5.0 AOL client for Macs. <strong>You will not be able to use [Secure Mode] if you have an older version of an Internet browser that does not support secure transactions, or if your computer is located on a local area network (LAN) that uses a firewall that prohibits secure transactions. If [Secure Mode] is not possible, please select one of our off-line options to place your order.</strong></p>
-<p><strong><a name="Contests">Contests</a></strong><br>Final Score may occasionally conduct contests on our Website in which we ask participants for contact information, such as e-mail address or telephone number. <strong>You must be 13 years of age or older to participate.</strong> Participation in any contest is not mandatory. If you participate in a contest, we may use this contact information to send you, when necessary, information about the contest or our company. If you participate in a contest, and then prefer not to receive information or be contacted by us, please contact us at the Website or address listed below.</p>
-<p><strong><a name="CA">Your California Privacy Rights</a></strong><br>If you are a California resident, you may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the address below.</p>
-<p><strong><a name="Contacting">Contacting the Website</a></strong><br>Should you have any further questions regarding this Privacy Statement, the practices of this Website, or your dealings with this Website, please:</p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Disclosure" tabindex="550"></a></strong></span><span tabindex="550"><strong>Information Disclosure</strong></span><span tabindex="-1"><br></span><span tabindex="550">We may disclose the information we collect from and about you as follows:</span></p>
 <ol type="1">
-<li>Contact our Customer Service Department at : finalscore@eastbay.com; or </li>
-<li>Write to us at:</li>
+<li tabindex="550">Among the Foot Locker family of companies including Foot Locker, Lady Foot Locker, Kids Foot Locker, Footaction, Final-Score, Champs Sports, Eastbay, CCS and SIX:02.</li>
+<li tabindex="550">To our service providers, if the disclosure will enable them to perform a business, professional, or technical support function for us.</li>
+<li tabindex="550">To carefully-selected third party partners, so that they may inform you of offers, promotions and services.</li>
+<li tabindex="550">For payment processing and authorization, fraud protection and credit risk reduction, website evaluation and data analysis, and distributing marketing and promotional material</li>
+<li tabindex="550">To comply with the law, to respond to governmental inquiries or requests, to enforce our policies, or to protect our or others' rights, property, or safety.</li>
+<li tabindex="550">Otherwise, with your consent.</li>
 </ol>
-<p style="padding-left: 40px;">Internet Customer Service<br>Footlocker.com, Inc.<br>PO Box 8066<br>111 South 1st Avenue<br>Wausau, WI 54402-8066</p>
-<p><strong><a name="Links">Links to Other Websites</a></strong><br>This Website contains links to other sites, which may have privacy policies that differ from our own. We are not responsible for the privacy practices or content of such other websites. Accordingly, we recommend that you review the Privacy Statement posted on any website that you access through this Website. The terms and conditions herein do not apply to any such linked websites. Final Score does not endorse any linked websites, or the information, materials, products or services that are contained in or accessible through such linked websites. Final Score disclaims all warranties, express or implied, with respect to the information, materials, products and services that are contained in or accessible through linked websites, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose or non-infringement.</p>
-<p>You acknowledge and agree that Final Score is not responsible for the content, accuracy, legality, decency, copyright compliance, privacy practices, security or any other aspects of any such linked websites, and that the access or use of any such linked websites is solely at your own risk, and you hereby waive any and all claims against Final Score with respect to such linked websites.</p>
-<p><strong><a name="Safe">Safe Harbor Certification</a></strong> Final Score adheres to the Safe Harbor Privacy Framework as set forth by the United States Department of Commerce in coordination with the European Commission. If you have any complaints regarding our compliance with the Safe Harbor you should contact us at: <a href="mailto:counsel@footlocker.com">counsel@footlocker.com</a>.</p>
+<p tabindex="-1"><span tabindex="550"><strong>Any personal information or content that you voluntarily upload or submit for public posting to the Site becomes publicly available and can be collected and used by others.  It is a violation of the Site's  <a href="http://www.final-score.com/content/custserv/help--terms&amp;&amp;" tabindex="550">Terms of Use</a> for you to post any content that requests personally identifiable information from others on the Site.</strong></span></p>
+<p tabindex="-1"><span tabindex="550">As with any business, it is possible that as our business develops, we might sell or buy online stores or other assets.  In such transactions, information about customers often is among the transferred assets.  Accordingly, in the unlikely event that our company or substantially all of our assets are acquired by a third party, such information may be one of the transferred assets.  Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through the Services in a manner that is consistent with this Privacy Statement.</span></p>
+<p tabindex="-1"><span tabindex="550">We may share aggregate, non-personally identifiable information about Site users with third parties.</span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Updating" tabindex="550"></a></strong></span><span tabindex="550"><strong>Updating Your Information</strong></span><span tabindex="-1"><br></span><span tabindex="550">Please note that, at all times, you are responsible for updating the personal information you provide to us.  If you have registered with us or participate in a Loyalty Program, you may update your personal information through your registered account or Loyalty Program account.  If you elect to delete some or all of your personal information, keep in mind that we may retain transactional data in accordance with various laws, regulations and our Company's retention policy.</span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Changes" tabindex="550"></a></strong></span><span tabindex="550"><strong>Changes To Our Privacy Statement</strong></span><span tabindex="-1"><br></span><span tabindex="550">We may amend this Privacy Statement at any time.  If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you provided us, and/or by prominently posting notice of the changes on the Site .  Any material changes to this Privacy Statement will be effective upon the earlier of thirty (30) calendar days following our transmittal of an e-mail notice to you or thirty (30) calendar days following our posting of the notice of changes.</span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Option" tabindex="550"></a></strong></span><span tabindex="550"><strong>Option To Opt-out</strong></span><span tabindex="-1"><br></span><span tabindex="550">At all times, you have the option of "opting out" of receiving future e-mail marketing updates by sending us an    e-mail with "unsubscribe" in the subject line at finalscore@eastbay.com. Even if you opt out, you may continue to receive non-marketing e-mail messages from us, including, for example, order confirmations.</span></p>
+<p tabindex="-1"><span tabindex="550">If you previously registered for a text messaging campaign and now want to opt out, text "STOP" to the short code / number for the program that you've signed up for.</span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Children" tabindex="550"></a></strong></span><span tabindex="550"><strong>Children's Privacy</strong></span><span tabindex="-1"><br></span><span tabindex="550"><strong>We do not sell products for purchase by children.</strong></span><span tabindex="550"> We sell children's products for purchase by adults.  We do not direct the Website to, nor do we knowingly collect any personal information from, children under the age of thirteen.  </span><span tabindex="550"><strong>You must be 13 years of age or older to submit personal information to us, including to register or place an order on the Website or participate in one of our online promotions.</strong></span><span tabindex="550"> Please see our </span><span tabindex="-1"><a href="http://www.final-score.com/content/custserv/help--terms&amp;&amp;" tabindex="550">Terms of Use</a></span><span tabindex="550"> for additional information regarding the use of this Website.</span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Security" tabindex="550"></a></strong></span><span tabindex="550"><strong>Security Of Information</strong></span><span tabindex="-1"><br></span><span tabindex="550">Final Score has implemented certain physical, administrative, and technical security measures to protect against the loss, misuse or alteration of the information you provide.  We encrypt your personal information, including your credit card number, when transmitting over the Internet using triple key encryption technology by Secure Server Certification Authority RSA Data Security Inc. US and a VeriSign SSL (Secure Socket Layer), to safeguard your Internet transactions.</span></p>
+<p tabindex="-1"><span tabindex="550">Browsers that allow for SSL Technology Ordering from our Website require the use of an SSL-compliant browser, such as Netscape 4.0 or later; Microsoft Internet Explorer 5.0 or later; 5.0 AOL client for PCs; or the 5.0 AOL client for Macs. </span><span tabindex="550"><strong>You will not be able to use 'secure mode' if you have an older version of an Internet browser that does not support secure transactions, or if your computer is located on a local area network (LAN) that uses a firewall that prohibits secure transactions. If 'secure mode' is not possible, please select one of our off-line options to place your order.</strong></span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="CA" tabindex="550"></a></strong></span><span tabindex="550"><strong>Your California Privacy Rights</strong></span><span tabindex="-1"><br></span><span tabindex="550">Final Score may share your personal information with affiliated third parties such as the Foot Locker family of companies, some of which do not share the Final Score name, for their direct marketing purposes.  This category of affiliate is considered an unaffiliated party under California law and, if you are a California resident, you may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.  To make such a request, please contact us as directed below.</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Contacting" tabindex="550"></a></strong></span><span tabindex="550"><strong>Questions/Contacting Us</strong></span><span tabindex="-1"><br></span><span tabindex="550">Should you have any questions regarding this Privacy Statement or our data handling practices you may contact our Privacy Administrator by e-mail at finalscore@eastbay.com; or by writing to us at:</span></p>
+<p style="padding-left: 40px;" tabindex="-1"><span tabindex="550">Attn:  Privacy Administrator</span><span tabindex="-1"><br></span><span tabindex="550">Footlocker.com, Inc.</span><span tabindex="-1"><br></span><span tabindex="550">PO Box 8066</span><span tabindex="-1"><br></span><span tabindex="550">111 South 1st Avenue</span><span tabindex="-1"><br></span><span tabindex="550">Wausau, WI 54402-8066</span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Links" tabindex="550"></a></strong></span><span tabindex="550"><strong>Links To Other Websites</strong></span><span tabindex="-1"><br></span><span tabindex="550">This Site contains links to other sites, which may have privacy policies that differ from our own. We are not responsible for the privacy practices or content of such other websites. Accordingly, we recommend that you review the Privacy Statement posted on any website that you access through this Site. The terms and conditions herein do not apply to any such linked websites. Final Score does not endorse any linked websites, or the information, materials, products or services that are contained in or accessible through such linked websites. Foot Locker disclaims all warranties, express or implied, with respect to the information, materials, products and services that are contained in or accessible through linked websites, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose or non-infringement.</span></p>
+<p tabindex="-1"><span tabindex="550">You acknowledge and agree that Final Score is not responsible for the content, accuracy, legality, decency, copyright compliance, privacy practices, security or any other aspects of any such linked websites, and that the access or use of any such linked websites is solely at your own risk, and you hereby waive any and all claims against Final Score with respect to such linked websites.</span></p>
+<p tabindex="-1"><span tabindex="-1">&nbsp;</span></p>
+<p tabindex="-1"><span tabindex="550"><strong><a name="Safe" tabindex="550"></a></strong></span><span tabindex="550"><strong>Safe Harbor Certification</strong></span><span tabindex="-1"><br></span><span tabindex="550">Final Score adheres to the Safe Harbor Privacy Framework as set forth by the United States Department of Commerce in coordination with the European Commission. If you have any complaints regarding our compliance with the Safe Harbor, you should contact us at: </span><span tabindex="-1"><a href="mailto:counsel@footlocker.com" tabindex="550">counsel@footlocker.com</a></span><span tabindex="550">.</span></p>
 
 				
 			
@@ -1571,138 +795,145 @@ cursor:pointer;
 
 
 	<footer>
-    <style type="text/css">
-#footer-icons {
-	width:966px;
-	height:100px;
-	margin:0;
-	padding:0;
-}
+    <!-- start footer div -->
+<div class="footer-flex">
+    <div id="flex-generic-1" class="flex-column-category1">
+        <div class="flex-titlebar">Markdowns</div>
+        <div class="flex-links">
+            <ul>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+basketball+shoes" title="Shop Basketball Shoes" tabindex="9000">Basketball Shoes</a></li>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+running+shoes" title="Shop Running Shoes" tabindex="9000">Running Shoes</a></li>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+soccer+cleats" title="Shop Soccer Cleats" tabindex="9000">Soccer Cleats</a></li>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+running+shoes" title="Shop Running Shoes" tabindex="9000">Running Shoes</a></li>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+casual+shoes" title="Shop Casual Shoes" tabindex="9000">Casual Shoes</a></li>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+football+cleats" title="Shop Football Cleats" tabindex="9000">Football Cleats</a></li>
 
-.footer-icons-slot {
-	float:left;
-	width:auto;
-	height:100px;
-	margin:0 20px 0 0;
-	padding:0;
-}
-
-.margin-mod {margin:20px 20px 0 0}
-
-.footer-slot-spacer {
-	float:left;
-	width:400px;
-	height:100px;
-	margin:0;
-	padding:0;	
-}
-
-</style>
-
-<!-- start footer div -->
-    <div class="footer-flex">
-        <div id="flex-generic-1" class="flex-column-category1">
-            <div class="flex-titlebar">New Markdowns</div>
-            <div class="flex-links"> 
-                <ul>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+nike+training+shoes" title="Nike Training Shoes">Nike Training Shoes</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+adidas+basketball+shoes" title="adidas Basketball Shoes">adidas Basketball Shoes</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+coogi+clothing" title="Coogi Polos, T-shirts, Jeans">Coogi Clothing</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+timberland" title="Timberland Boots and Shoes">Timberland Boots</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+hurley+clothing" title="Hurley T-shirts, Shorts, Polos">Hurley Clothing</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+quiksilver+clothing" title="Quiksilver Shorts, T-shirts, Polos">Quiksilver Clothing</a></li>
-                </ul>
-            </div>
+            </ul>
         </div>
+    </div>
 
-        <div id="flex-generic-2" class="flex-column-category2">
-            <div class="flex-titlebar">Top Sellers</div>
-            <div class="flex-links">
-                <ul>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+nike+basketball+shoes" title="Nike Basketball Shoes">Nike Basketball Shoes</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+jordan+shoes" title="Jordan Basketball and Casual Shoes">Jordan Shoes</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+southpole+clothing" title="Southpole Polos, Shorts, T-shirts, Jeans">Southpole Clothing</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+nike+running+shoes" title="Nike Running Shoes">Nike Running Shoes</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+under+armour+training" title="Under Armour Training Shoes and Clothing">Under Armour Training</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+college+t-shirts" title="College T-shirts">College T-shirts</a></li>
-                </ul>
-            </div>
-          </div>
-		  
-        <div id="flex-generic-3" class="flex-column-category3">
-            <div class="flex-titlebar">Always at Final-Score</div>
-            <div class="flex-links"> 
-                <ul>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+nike+casual+shoes" title="Nike Casual Shoes">Nike Casual Shoes</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+asics+running+shoes" title="ASICS Running Shoes">ASICS Running Shoes</a></li>
-                    <li><a href="http://www.final-score.com/promotion/promoId:5002703/large-sizes/" title="Large Size Shoes">Large Sizes Shoes</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+jordan" title="Jordan Shoes, Clothing and Accessories">Jordan</a></li>
-                    <li><a href="http://www.final-score.com/_-_/keyword-sale+baseball+shoes" title="Baseball Shoes">Baseball Shoes</a></li>
-                    <li><a href="http://www.eastbay.com/Sale/" target="_blank" title="Eastbay Sale">Eastbay Sale</a></li>
-                </ul>
-            </div>
+    <div id="flex-generic-2" class="flex-column-category2">
+        <div class="flex-titlebar">Top Sellers</div>
+        <div class="flex-links">
+            <ul>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+nike+basketball+shoes" title="Shop Nike Basketball Shoes" tabindex="9000">Nike Basketball Shoes</a></li>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+jordan+shoes" title="Shop Jordan Basketball and Casual Shoes" tabindex="9000">Jordan Shoes</a></li>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+southpole+clothing" title="Shop Southpole Polos, Shorts, T-shirts, Jeans" tabindex="9000">Southpole Clothing</a></li>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+nike+running+shoes" title="Shop Nike Running Shoes" tabindex="9000">Nike Running Shoes</a></li>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+under+armour+training" title="Shop Under Armour Training Shoes and Clothing" tabindex="9000">Under Armour Training</a></li>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+college+t-shirts" title="Shop College T-shirts" tabindex="9000">College T-shirts</a></li>
+            </ul>
         </div>
-		  
-		  
-        <div id="flex-generic-4" class="flex-column-customerservice">
-            <div class="flex-titlebar">Customer Service</div>
-            <div class="flex-links">
-                <ul>
-                	<li><a href="http://www.final-score.com/customerserv/help:returnsExchanges/" title="Returns and Exchanges">Return Policy</a></li>
-                    <li><a href="http://www.final-score.com/customerserv/help:orderInfo/" title="Ordering Help">Ordering Help</a></li>
-                    <li><a href="http://www.final-score.com/customerserv/help:sportSpecificSizing/" title="Sizing Help">Sizing Help</a></li>
-                    <li><a href="http://www.final-score.com/customerserv/help:shipInfo/" title="Shipping Info">Shipping Info</a></li>
-                    <li><a href="http://www.final-score.com/promotion/promoId:5002513/" title="Gift Cards">Gift Cards</a></li>
-                    <li><a href="http://www.final-score.com/customerserv/help:contact/Q:6/" title="Contact Us">Contact Us</a></li>
-                </ul>
-            </div>
+    </div>
+
+    <div id="flex-generic-3" class="flex-column-category3">
+        <div class="flex-titlebar">Head to Toe</div>
+        <div class="flex-links">
+            <ul>
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+t+shirts" title="Shop T Shirts" tabindex="9000">T Shirts</a></li>
+
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+hoodie" title="Shop Hoodies" tabindex="9000">Hoodies</a></li>
+
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+shorts" title="Shop Shorts" tabindex="9000">Shorts</a></li>
+
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+pants" title="Shop Pants" tabindex="9000">Pants</a></li>
+
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+socks" title="Shop Socks" tabindex="9000">Socks</a></li>
+
+                <li><a href="http://www.final-score.com/_-_/keyword-sale+shoes" title="Shop Shoes" tabindex="9000">Shoes</a></li>
+            </ul>
         </div>
-		  
-		     
-        <div id="flex-generic-5" class="flex-column-connect">
-            <div class="flex-titlebar">Get Connected</div>
-            <div class="flex-connect">
-                
-            	<div class="flex-connect-slot"><a href="http://ebm.e.final-score.com/r/regf2?a=0&amp;aid=2087424288&amp;n=2" target="_blank" title="Join Final-Score Email Club"><img src="//www.final-score.com/ns/homepage/footer/images/email.jpg" alt="Join Final-Score Email Club" width="30" height="23" border="0"><p>Email</p></a></div>
-                
-                <div class="flex-connect-slot"><a href="http://www.Facebook.com/FinalScoreDeals" title="Final-Score Facebook Become A Fan" target="_blank"><img src="//www.final-score.com/ns/homepage/footer/images/facebook.jpg" alt="Final-Score Facebook" width="28" height="27" border="0"><p>Facebook</p></a></div>
-                <!--<div class="flex-connect-slot"><a href="http://www.final-score.com/catRequest/category/" title="Order A Final-Score Catalog"><img src="//www.final-score.com/ns/homepage/footer/images/catalog.jpg" alt="Order A Final-Score Catalog" width="30" height="38" border="0" /><p>Order a Catalog</p></a></div>-->
-            </div>
+    </div>
+
+
+    <div id="flex-generic-4" class="flex-column-customerservice">
+        <div class="flex-titlebar">Customer Service</div>
+        <div class="flex-links">
+            <ul>
+                <li><a href="http://www.final-score.com/customerserv/help:returnsExchanges/" title="Returns and Exchanges" tabindex="9000">Return Policy</a></li>
+                <li><a href="http://www.final-score.com/customerserv/help:orderInfo/" title="Ordering Help" tabindex="9000">Ordering Help</a></li>
+                <li><a href="http://www.final-score.com/customerserv/help:sportSpecificSizing/" title="Sizing Help" tabindex="9000">Sizing Help</a></li>
+                <li><a href="http://www.final-score.com/customerserv/help:shipInfo/" title="Shipping Info" tabindex="9000">Shipping Info</a></li>
+                <li><a href="http://www.final-score.com/promotion/promoId:5002513/" title="Gift Cards" tabindex="9000">Gift Cards</a></li>
+                <li><a href="http://www.final-score.com/customerserv/help:contact/Q:6/" title="Contact Us" tabindex="9000">Contact Us</a></li>
+            </ul>
         </div>
-      <!-- end footer div -->
-  </div>
-  
-    <!-- start more info links -->
-    	<div class="more-info">
-        	<a href="http://www.final-score.com/customerserv/help:privacyPolicy/" title="Privacy Policy">Privacy Policy</a> | 
-            <a href="http://www.final-score.com/customerserv/help:terms/" title="Terms of Use">Terms of Use</a> | 
-            <a href="http://www.final-score.com/promotion/promoId:5002608/about-us/" title="About Us">About Us</a>
+    </div>
+
+
+    <div id="flex-generic-5" class="flex-column-connect">
+        <div class="flex-titlebar">Get Connected</div>
+        <div class="flex-connect">
+
+            <div class="flex-connect-slot"><a href="http://ebm.e.final-score.com/r/regf2?a=0&amp;aid=2087424288&amp;n=2" target="_blank" title="Join Final-Score Email Club" tabindex="9000"><img src="//www.final-score.com/ns/homepage/footer/images/email.jpg" alt="Join Final-Score Email Club" width="30" height="23" border="0"><p>Email</p></a></div>
+
+            <div class="flex-connect-slot"><a href="http://www.Facebook.com/FinalScoreDeals" title="Final-Score Facebook Become A Fan" target="_blank" tabindex="9000"><img src="//www.final-score.com/ns/homepage/footer/images/facebook.jpg" alt="Final-Score Facebook" width="28" height="27" border="0"><p>Facebook</p></a></div>
+            <!--<div class="flex-connect-slot"><a href="http://www.final-score.com/catRequest/category/" title="Order A Final-Score Catalog"><img src="//www.final-score.com/ns/homepage/footer/images/catalog.jpg" alt="Order A Final-Score Catalog" width="30" height="38" border="0" /><p>Order a Catalog</p></a></div>-->
         </div>
-    <!-- start more info links -->
-		<!-- start footer-tagline div -->
-		
-<div id="footer-tagline">
-Prices subject to change without notice. © 2002-2013 Eastbay.com, Inc. All Rights Reserved<br>
-<!-- start footer-icons div -->
-<div id="footer-icons">
-	<div class="footer-slot-spacer">&nbsp;</div>
-    <div class="footer-icons-slot margin-mod"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.final-score.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.final-score.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></div>
-    <div class="footer-icons-slot"><img src="//www.final-score.com/ns/images/nortonsecured-logo-wht.jpg" width="102px" height="59px" alt="Norton Secured - Powered by Verisign"><!-- <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.final-score.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br /><a href="http://www.verisign.com/ssl-certificate/" target="_blank"  style="color:#000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a>--></div>
-<!-- end footer-icons div -->
+    </div>
+    <!-- end footer div -->
 </div>
-<!-- end footer-tag div -->
+
+<!-- start more info links -->
+<div class="more-info">
+    <a href="http://www.final-score.com/customerserv/help:privacyPolicy/" title="Privacy Policy" tabindex="9000">Privacy Policy</a> |
+    <a href="http://www.final-score.com/customerserv/help:privacyPolicy/?section=adchoices" title="Privacy Policy" tabindex="9000">Ad Choices</a> |
+    <a href="http://www.final-score.com/customerserv/help:terms/" title="Terms of Use" tabindex="9000">Terms of Use</a> |
+    <a href="http://www.final-score.com/promotion/promoId:5002608/about-us/" title="About Us" tabindex="9000">About Us</a>
+</div>
+<!-- start more info links -->
+<!-- start footer-tagline div -->
+
+<div id="footer-tagline">
+    <span tabindex="9000">Prices subject to change without notice. © 2002-2014 Eastbay.com, Inc. All Rights Reserved</span><br>
+    <!-- start footer-icons div -->
+    <!-- start back to mobile link -->
+    <div id="back_to_mobile_container" style="display: none;"><a href="http://m.final-score.com" id="back_to_mobile">view mobile site</a></div>
+    <!-- end back to mobile link -->
+    <div id="footer-icons">
+        <div class="footer-icons-slot margin-mod"><a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.final-score.com" tabindex="9000"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.final-score.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a></div>
+        <div class="footer-icons-slot"><a href="http://www.final-score.com/promotion/promoId:5002761" title="Military Discount" tabindex="9000"><img src="//www.final-score.com/ns/common/images/sheerID-newb-031314.jpg" alt="Military Discount" height="47" border="0"></a></div>
+        <div class="footer-icons-slot"><img src="//www.final-score.com/ns/images/nortonsecured-logo-wht.jpg" width="102px" height="59px" alt="Norton Secured - Powered by Verisign"><!-- <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.final-score.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br /><a href="http://www.verisign.com/ssl-certificate/" target="_blank"  style="color:#000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a>--></div>
+        <!-- end footer-icons div -->
+    </div>
+    <!-- end footer-tag div -->
 </div>
 
 
 <!-- start footer-bottom div -->
 <div id="footer-bottom">
-&nbsp;
-<!-- end footer-bottom div -->
+    &nbsp;
+    <!-- end footer-bottom div -->
 </div>
- <!-- end container div -->	
-	</footer></div>
+<!-- end container div -->
+    </footer></div>
 <!-- end outer wrapper div -->
-  </div> 
+  </div>
+<script type="text/javascript">
+    //Make Search left nav hide on no filters
+    $(document).ready(function () {
+        if ($("#endecaNav .mainsite_guided_navigation").length == 0 && $("#endecaNav").length > 0) {
+            $('#endecaNav h3').css('display', 'none');
+        }
+        var mtaOptions = {
+            halfWidth: 300, // width of type ahead with just the typeahead section and no flyout
+            fullWidth: 762, // width of type ahead and flyout combined, set outside of mta object before calling mta.init(); varies per site
+            maxChar: 28,    // max amount of characters in type ahead words before they need to be cut off and given '...'
+            maxVertProd: 4, // maximum amount of vertical records that can display in flyout space
+            maxHoriProd: 4,  // maximum amount of horizontal records that can display in flyout space
+            siteName: 'final-score',
+            searchDelay: 200, // amount of time (ms) to delay typeahead request after keyup
+            flyoutActive: true // set this to false to deactivate the flyout
+        };
+        mta.init(mtaOptions);
+    });
+</script>
+<script type="text/javascript" src="/ns/common/js/quickViewReviews.js"></script>
+<script type="text/javascript" src="/ns/common/jquery/jquery.lib.1.2.9.js"></script>
+<script src="/ns/common/mta/js/mta.js"></script>
+<script type="text/javascript" src="/ns/common/js/accessibility_checkout.js"></script>
+<script type="text/javascript" src="/ns/common/js/accessibility_custserv.js"></script>
+<script type="text/javascript" src="/ns/js/tabindex-fs.js"></script> 
       
 
 
@@ -1714,4 +945,4 @@ Prices subject to change without notice. © 2002-2013 Eastbay.com, Inc. All Righ
             try { mybuys.initPage(); } catch(e) {}; 
         }); 
     </script> 
-</body></html>
+<div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-logo"></div><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()">Close</a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()">Next</a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()">Previous</a></div></div></div></div></div></body></html>
