@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconarchive.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627104234id_/http%3A//www.iconarchive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconarchive.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217162428id_/http%3A//www.iconarchive.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
