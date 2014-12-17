@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626183330id_/http%3A//www.instantoffices.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217104726id_/http%3A//www.instantoffices.com/privacy.aspx) for the most accurate reproduction.*
 
 # Instant | Privacy Pages | Read more...
 
 ###### Call us now on
 
-1-866-918-4640
+1-877-317-8269
 
 ### For FREE, no obligation, expert, local help and advice
 
 Instant Offices Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20140626183330id_/http%3A//www.instantoffices.com/terms-of-website-use.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/web/20141217104726id_/http%3A//www.instantoffices.com/terms-of-website-use.aspx) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Instant Offices Limited of The Blue Fin Building, 1st floor, 110 Southwark Street, London SE1 0TA.
 
@@ -177,7 +177,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Instant Offices Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20140626183330id_/http%3A//www.instantoffices.com/terms-of-website-use.aspx) and other agreements; or to protect the rights, property, or safety of Instant Offices Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20141217104726id_/http%3A//www.instantoffices.com/terms-of-website-use.aspx) and other agreements; or to protect the rights, property, or safety of Instant Offices Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
