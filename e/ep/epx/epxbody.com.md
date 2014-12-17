@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epxbody.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207233306id_/http%3A//www.epxbody.com/0/index.php%3FtoDo%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epxbody.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217023059id_/http%3A//www.epxbody.com/0/index.php%3FtoDo%3Dprivacy-policy) for the most accurate reproduction.*
 
-# www.EPXBody.com
+# EPXBody
 
 At EPX Body, we respect and are committed to protecting your privacy and personal information. Please read the following to learn more about what type of information is gathered, how the information is used and for what purposes, how or when we disclose the information and how we safeguard your personal information. EPX Body’s Privacy Policy covers the collection, use, and disclosure of personal information that may be collected anytime you interact with EPX Body, such as when you visit our website, when you purchase EPX Body products and services, or when you call our Support Service representatives.
 
