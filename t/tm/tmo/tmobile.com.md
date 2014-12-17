@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmobile.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133731id_/http%3A//www.t-mobile.com//company/website/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmobile.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217155434id_/http%3A//www.t-mobile.com//company/website/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Highlights
 
@@ -24,7 +24,7 @@ For more information see [Privacy Resources/Customer Proprietary Network Informa
 
 **Credit and Financial Information**
 
-We collect information about your credit card or banking information, Social Security Number, and credit history for account opening, management and billing and collection purposes. Financial information we collect is governed by [T-Mobile’s Financial Privacy Policy](http://www.t-mobile.com/Cms/Files/Published/0000BDF20016F5DD010312E2BDE4AE9B/5657114502E70FF30124DE7B5D9A9D91/file/Financial%20Privacy%20Policy%20Feb%202012%20Final.pdf)
+We collect information about your credit card or banking information, Social Security Number, and credit history for account opening, management and billing and collection purposes. Financial information we collect is governed by [T-Mobile’s Financial Privacy Policy](http://s.tmocache.com/Cms/Files/Published/0000BDF20016F5DD010312E2BDE4AE9B/5657114502E70FF30124DE7B5D9A9D91/file/Financial%20Privacy%20Policy%20Feb%202012%20Final.pdf)
 
 **Network and Device Information**
 
