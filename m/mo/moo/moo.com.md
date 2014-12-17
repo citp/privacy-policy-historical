@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628043615id_/http%3A//us.moo.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2014-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141217083735id_/http%3A//ca.moo.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -19,7 +19,7 @@ If you’re still interested, you might like to visit [this website](http://www.
 
 **Further information about Cookies**
 
-If you'd like to learn more about Cookies in general and how to manage them, visit [aboutCookies.org](http://aboutcookies.org/)
+If you'd like to learn more about Cookies in general and how to manage them, visit [aboutCookies.org](http://www.aboutcookies.org/)
 
 ### 5\. Our commitment to the privacy of children
 
@@ -119,7 +119,7 @@ As a user, you have certain rights under the Data Protection Act 1998. You have 
 
 ### 14\. Data Protection Information
 
-Are you actually still reading this? That’s very impressive! For even more information about data protection laws by visiting the Information Commissioner’s web site at <http://ico.org.uk/>
+Are you actually still reading this? That’s very impressive! For even more information about data protection laws by visiting the Information Commissioner’s web site at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)
 
 **© 2012 MOO Print Ltd. All Rights Reserved.**
 
