@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motel6.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511025226id_/http%3A//www.motel6.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motel6.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218173554id_/http%3A//www.motel6.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Motel 6 - G6 Hospitality Privacy Protection Policy
 
