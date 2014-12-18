@@ -1,49 +1,17 @@
-> *The following text is extracted and transformed from the webtotell.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204064451id_/http%3A//www.webtotell.com/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtotell.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy Human Edited Search Engine Friendly Web Directory
+# Legal
 
-**_Privacy policy of _WebToTell__**
+* * *
 
-**Introduction**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-  
-**_WebToTell_**  respects each individual’s right to personal privacy.  We collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at **_WebToTell_** web site.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Part I.   Information Collection**
 
-  
-**_WebToTell_** collects information through our Web site at several points.  We collect the following information about primary visitors: the browser that you use, your IP address and the information that you provide e-mail address and user name.
 
-We collect this information through registration forms and internet tracking. Information regarding the web pages visited, length of visit and time of day, dates, first pages entered, browsers used, IP addresses, geographic location and area, referring pages are collected through normal internet tracking programs. 
-
-We do employ cookies. A cookie is a small text file that our Web server places on a user’s computer hard drive to be a unique identifier. Cookies enable **_WebToTell_** to track usage patterns and deliver customized content to users.  Our cookies do have an expiration date. Our cookies do not collect personally identifiable information.
-
-**Part II.   Information Usage. **
-
-**  
-** The information collected by **_WebToTell_** will be used for marketing purposes only. 
-
-Registered users will receive additional announcements from us about products, services, special deals. Out of respect for the privacy of our users we present the option to not receive these types of communications.
-
-The information we collect will not be used to create customer profiles based on browsing or purchasing history.  We will not supplement information collected at our Web site with data from other sources such as credit history to authorize purchases.
-
-We will not share data with the any Third Party Company or individual.   
-
-We offer links to other Web sites.  Please note: When you click on links to other Web sites, we encourage you to read their privacy policies.  Their standards may differ from ours.
-
-If our policy on information collection or uses changes, will advise you by e-mail.
-
-**Part III.   Access to Information **
-
-**  
-_WebToTell_** maintains the accuracy of our information by verifying it with the user.  Users may access their own personal information and contact us about inaccuracies they may find by e-mailing us. Users may delete their information from our database by asking us to do so.
-
-**Part IV. Problem Resolution**
-
-**  
-** If problems arise, users may contact **_WebToTell_** by writing to us and stating the concern.  We are committed to resolving disputes within a reasonable time frame.
-
-**Part V. Data Storage and Security**
-
-**  
-_WebToTell_**  protects user information with the following security measures: with fire walls, secure servers.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
