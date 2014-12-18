@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hierosgamos.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630214946id_/http%3A//www.hg.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hierosgamos.org privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202732id_/http%3A//www.hg.org/privacy-policy.html) for the most accurate reproduction.*
 
 # HG.org Privacy Policy
 
