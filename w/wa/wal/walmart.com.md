@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walmart.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521171010id_/http%3A//www.walmartstores.com/PrivacySecurity/9243.aspx%3Fpovid%3DP1171-C1093.2766-L103) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walmart.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218105835id_/http%3A//corporate.walmart.com/privacy-security/walmart-privacy-policy) for the most accurate reproduction.*
 
-# Walmart Corporate - Walmart Privacy Policy Highlights
+# Walmart Privacy Policy Highlights
 
 ##  Walmart Privacy Policy - Highlights 
 
@@ -8,7 +8,7 @@
 
 This Policy applies to customer information we collect in the United States and Puerto Rico at Walmart retail stores ("stores") and through our websites (for purposes of this Policy, "websites" includes our mobile applications).
 
-Walmart has a specific [Notice of Privacy Practices](http://corporate.walmart.com/privacy-security/notices/health-wellness) for its personal information practices relating to our Health and Wellness operations (Pharmacy and Vision Center) in our retail stores. This [ **Notice**](http://corporate.walmart.com/privacy-security/notices/health-wellness) is available at each Pharmacy and Vision Center.  
+Walmart has a specific [Notice of Privacy Practices](http://corporate.walmart.com/privacy-security/notices/health-wellness) for its personal information practices relating to our Health and Wellness operations (Pharmacy and Vision Center) in our retail stores. This [Notice](http://corporate.walmart.com/privacy-security/notices/health-wellness) is available at each Pharmacy and Vision Center.  
   
 
 
@@ -113,7 +113,7 @@ Personal information is information that identifies you or is reasonably linked 
 
 **Information from Other Sources**  
 
-We may receive personal information about you from other sources as well. Examples of these sources are entities that can help us correct or supplement our records, improve the quality or personalization of our service to you, and help prevent or detect fraud. In addition, we may collect information from consumer reporting agencies or other service providers if you obtain certain financial products. 
+We receive personal information about you from other sources.  This information helps us to correct or supplement our records, improve the quality or personalization of our service to you, and prevent or detect fraud.  We collect personal information from consumer reporting agencies in conjunction with products or services that involve financial risk to Walmart, such as check cashing.
 
 **Automated Information Collection**  
 
@@ -157,7 +157,7 @@ We may disclose your information in other special circumstances. These include s
 
 **Marketing Purposes**  
 
-From time to time with your consent, we may disclose information with carefully selected companies who may offer you products and services of interest. You may opt in to this sharing under the  ["Your Choices"](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#YourChoices) section below. 
+From time to time with your consent, we may disclose information with carefully selected companies who may offer you products and services of interest. You may opt in to this sharing under the  ["Your Choices"](http://corporate.walmart.com/privacy-security/walmart-privacy-policy#YourChoices "Link: http://corporate.walmart.com/privacy-security/walmart-privacy-policy#YourChoices") section below. 
 
 **Business Transfers  
 **   
@@ -188,15 +188,15 @@ The above marketing preferences do not apply to our credit card offerings since 
 
 **Online Operations and Advertising**  
 
-You may exercise choices related to our online operations and advertising. For instance, you can choose to browse our websites without accepting cookies Please know that cookies allow us to recognize you from page to page, and they support your transactions with us. Without cookies enabled, you will still be able to browse our websites, but will not be able to complete a purchase or take advantage of certain website features. 
+You may exercise choices related to our online operations and advertising. For instance, you can choose to browse our websites without accepting cookies. Please know that cookies allow us to recognize you from page to page, and they support your transactions with us. Without cookies enabled, you will still be able to browse our websites, but will not be able to complete a purchase or take advantage of certain website features. 
 
 To learn more about cookies, including how to refuse cookies on your device, follow these links: 
 
   * [Microsoft Internet Explorer](http://www.microsoft.com/info/cookies.mspx "Link: http://www.microsoft.com/info/cookies.mspx")
-  * [Mozilla Firefox](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html)
-  * [All About Cookies](http://www.allaboutcookies.org/cookies/)
-  * [Adobe Flash Cookies](http://www.adobe.com/security/flashplayer/articles/lso/)
-  * [Safari](http://support.apple.com/kb/HT4228)
+  * [Mozilla Firefox](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html "Link: http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html")
+  * [All About Cookies](http://www.allaboutcookies.org/cookies/ "Link: http://www.allaboutcookies.org/cookies/")
+  * [Adobe Flash Cookies](http://www.adobe.com/security/flashplayer/articles/lso/ "Link: http://www.adobe.com/security/flashplayer/articles/lso/")
+  * [Safari](http://support.apple.com/kb/HT4228 "Link: http://support.apple.com/kb/HT4228")
 
 
 
@@ -300,4 +300,4 @@ Our privacy Policy describes how we share information for marketing purposes. Th
 
 Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above. 
 
-######  Last Updated: Sept. 17, 2013 
+######  Last Updated: Sept. 15, 2014 
