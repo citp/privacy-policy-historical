@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618203846id_/http%3A//www.cipd.co.uk/site-terms/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cipd.co.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218015115id_/http%3A//www.cipd.co.uk/site-terms/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Site terms - CIPD
 
