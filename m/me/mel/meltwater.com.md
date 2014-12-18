@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meltwater.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090503id_/http%3A//www.meltwater.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meltwater.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218222023id_/http%3A//www.meltwater.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy English
+# Privacy and Cookie Policy
 
 At Meltwater, we know that you care about how your personal information is used and shared, and that is why we are committed to respecting your privacy and helping protect the security of your information. The purpose of this cookie and privacy statement (“Statement”) is to help you better understand how and why we gather, store and process information collected from you. This Statement also explains what cookies are, how and why they are used as well as your options regarding the use of cookies and the information collected.
 
