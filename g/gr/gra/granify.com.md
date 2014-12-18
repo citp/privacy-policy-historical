@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the granify.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054936id_/http%3A//granify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the granify.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218122549id_/http%3A//www.granify.com/privacy) for the most accurate reproduction.*
 
 # Granify | Privacy Statement
 
 * * *
 
-This Privacy Statement relates solely to the online information collection and use practices of our Web site located at granify.com (this “Web Site”), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information.
+This Privacy Statement relates solely to the online information collection and use practices of our Web site located at granify.com (this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information.
 
 This Privacy Statement, which may be updated from time to time, has been developed to address those concerns. Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement.
 
@@ -14,7 +14,7 @@ If you have any questions or concerns regarding this Privacy Statement, please c
 
 ## What information about you do we collect?
 
-When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site’s content or services.
+When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.
 
 * * *
 
@@ -26,7 +26,7 @@ We may ask for certain personal information from you for the purpose of providin
 
 ## Non-Personally Identifiable Information We Collect.
 
-Cookies/Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called “cookies” and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user’s Web browser on the user’s hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser’s provider/manufacturer if you have any questions regarding disabling cookies.
+Cookies/Web server logs: Similar to other commercial Web sites, our Web Site utilizes standard technology called "cookies" and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
 
 * * *
 
@@ -40,7 +40,7 @@ We may employ other companies and individuals to perform functions on our behalf
 
 We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.
 
-Cookies can be used to track your session on our website, to serve customized ads from our advertising partners. They may use this data to show you advertisements on this website and across the Internet based on your prior visits to this website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. Visit [this page](http://www.networkadvertising.org/choices/) and select "Adroll" to opt out of our advertising partners’ targeted advertising.
+Cookies can be used to track your session on our website, to serve customized ads from our advertising partners. They may use this data to show you advertisements on this website and across the Internet based on your prior visits to this website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. Visit [this page](http://www.networkadvertising.org/choices/) and select "Adroll" to opt out of our advertising partners' targeted advertising.
 
 We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.
 
