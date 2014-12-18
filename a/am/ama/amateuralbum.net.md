@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateuralbum.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625131200id_/http%3A//www.amateuralbum.net/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateuralbum.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218205043id_/http%3A//www.amateuralbum.net/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # AmateurAlbum.net - Privacy Statement
 
@@ -34,4 +34,4 @@ Support
 
 AmateurAlbum.net provides email support for users who purchase the software at our Helpdesk. AmateurAlbum.net does not currently provide telephone support. If you have any questions or concerns about this Privacy Policy or our information handling practices, please [contact Us]() through email. We will do our best to respond to your inquiry within four business days.  
   
-Real sluts near you. Have an affair! 
+Local moms need sex. Just send a message and ask to fuck! 
