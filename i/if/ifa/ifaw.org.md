@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401174104id_/http%3A//www.ifaw.org/united-states/our-work/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218060433id_/http%3A//www.ifaw.org/united-states/our-work/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement | IFAW - International Fund for Animal Welfare
+# Website privacy statement | IFAW - International Fund for Animal Welfare
 
-The International Fund for Animal Welfare (IFAW) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.ifaw.org](http://www.ifaw.org/)
+The International Fund for Animal Welfare (IFAW) has created this website privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.ifaw.org](http://www.ifaw.org/)
 
 This site contains links to other sites. IFAW is not responsible for the privacy practices or the content of such Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
@@ -18,7 +18,7 @@ Our site uses "cookies". A "cookie" is a piece of data stored on the user's hard
 **Various Registrations**  
 In order to receive certain updates or use certain features of this website, a user may have to first complete a registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. If asked for, it is optional for a user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site.
 
-IFAW processes its donations through a third party service operated by WorldPay of Sterling, VA. This relationship is 100% confidential and secure. After a completed donation is accepted by WorldPay's server and authorized, the credit card information is destroyed and a finalized report is sent through to IFAW. No information other than to diagnose problems with the transaction server is retained by WorldPay. WorldPay does not resell, retransmit, or retain any information about transactions or personal contact information for donors it processes on behalf of IFAW.
+IFAW processes its donations through a third party service operated by Ingenico Payment Services. This relationship is 100% confidential and secure. After a completed donation is accepted by WorldPay's server and authorized, the credit card information is destroyed and a finalized report is sent through to IFAW. No information other than to diagnose problems with the transaction server is retained by WorldPay. WorldPay does not resell, retransmit, or retain any information about transactions or personal contact information for donors it processes on behalf of IFAW.
 
 **Newsletter**  
 If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
