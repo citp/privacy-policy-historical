@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609174835id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218204923id_/http%3A//www.site5.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Site5 - Privacy Policy
 
@@ -36,11 +36,11 @@ Your browser’s help file contains information and instructions for removing pe
 
 ### 4\. Log Files
 
-Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
+Like most standard websites, we use log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
 
 ### 5\. How we use this Information
 
-Site5 may from time to time engage third parties, including but not limited to, its own subsidiaries, affiliate companies, business partners, agents and contractors, to preserve, analyze, store or manipulate information collected from Users on behalf of Site5 in connection with delivering Site5 services. In all such cases, such third party service providers or business partners will be required to treat all such information collected from Users, including Users personally identifiable data, with the same degree of care as Site5 and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
+Site5 may use the personally identifiable information collected by Site5 to contact customers regarding products and services offered by Site5 and, to the extent the User has agreed to it, by its trusted affiliates, independent contractors and business partners.
 
 We may also use this information for research purposes regarding the effectiveness of our Services and marketing and sales efforts. Site5 will not in any way share this information with a third party either for free or by selling it, unless you specifically authorize such disclosures.
 
