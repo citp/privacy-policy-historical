@@ -1,66 +1,17 @@
-> *The following text is extracted and transformed from the discountholidays.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628065339id_/http%3A//www.holiday.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountholidays.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Holidays - From cheap all inclusive package holidays to luxury holiday deals
+# Legal
 
-  
+* * *
+
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-## » Our Commitment to Privacy
 
-  
-Holiday.co.uk and its owner Holiday Express Ltd are committed to protecting the privacy of those using the Holiday.co.uk web site and the confidentiality of the personal information which our customers provide us with. We use the information we collect to provide services and to ensure that your booking is processed smoothly. Beyond that we only use personal information if volunteered by you. Holiday.co.uk will never sell personal information or share personal information with third parties unless these are involved to fulfil your holiday or flight booking.
-
-At Holiday.co.uk we use the information we collect in the following ways:
-
-• When you place a booking through Holiday.co.uk, we need to know your name, e-mail address, delivery address, name(s) and number of passengers, credit or debit card number and expiry date. This allows us to book your holiday or flight and to keep you up to date on the dispatch of tickets and payment progress.
-
-• So that we can make the experience with Holiday.co.uk as good as possible and provide you with over and above service, Holiday.co.uk store with your consent personal information and information about the booking and the use of our services. 
-
-• With your consent we may also use your contact information to let you know about enhancements to the site, special offers and competitions. 
-
-• If you respond to a promotion or competition we will ask for your name, address and e-mail address. This is so that we can fulfil the promotion, notify competition winners and track the popularity of our marketing activity. 
-
-## » Holiday.co.uk Will Never Sell Personal Information
-
-  
-Holiday.co.uk will never sell personal information or share personal information with third parties, unless these are involved with the fulfilment of your booking or without your consent. Our employees and associated companies are obliged by us to respect confidentiality.
-
-## » Your Personal Information Is Safe With Holiday.co.uk
-
-  
-At Holiday.co.uk, data security is one of our highest priorities and we do our utmost to protect the data you provide. When you book online or access your booking details, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us.
-
-## » Phone Call Monitoring
-
-  
-During telephone enquiry and booking, we occasionally record the phone call for training purposes only. Your conversation will not be passed on to any other company or used for any other means except training. 
-
-## » Changes to Policy
-
-  
-All changes to the privacy policy in the future will be highlighted in this section. This privacy policy v1.0 was last updated on 8th May 2001.
-
-## » Cookies
-
-  
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Holiday.co.uk uses cookies to recognise when you return to Holiday.co.uk. Cookies also enable us to gain information about the use of our services and to enhance our site according to the preferences of our customers. Our cookies do not contain any personally identifying information.
-
-## » Further Questions
-
-  
-Should you have further questions regarding our privacy policy, please refer by e-mail to **[feedback@holiday.co.uk](mailto:feedback@holiday.co.uk)**.
-
-Our customer service also helps you if you need information about your data or if you would like to have data corrected. If a change of our privacy policy should become necessary you will always find the actual version on this page.
-
-Holiday.co.uk welcomes your questions and comments about privacy, please send e-mail to **[feedback@holiday.co.uk](mailto:feedback@holiday.co.uk)**.
-
-## » Our postal address is:
-
-  
-**Holiday.co.uk**
-
-**118 Travel Ltd.**  
-23 New Mount Street  
-Suite 2-3  
-Manchester  
-M4 4DE
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
