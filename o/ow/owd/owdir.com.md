@@ -1,28 +1,17 @@
-> *The following text is extracted and transformed from the owdir.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525053900id_/http%3A//www.owdir.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owdir.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Owdir - Open Web Directory - policies
+# Legal
 
-1) Privacy Policy  
-The privacy of your nonpublic personal information is important to us. We use safeguards to protect your privacy and confidentiality. This Disclosure discusses information we collect and the manner in which it is used.
+* * *
 
-We reserve the right, at any time, to add to, change, update or modify our privacy policy simply by posting such change, update or modification on the Website. Any such change, update or modification will be effective immediately upon posting on the Website.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-2) Security  
-We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-3) Information Collecting  
-If you do nothing during your visit but browse through the Website and read the information contained on the Web pages, we may gather certain information about your visit automatically. This information does not identify you personally. We may automatically gather the Internet domain, IP address from which you access our Website, and the date and time you access our Website and the pages you visit.
 
-We may collect nonpublic personal information from you when you voluntarily provide personally identifiable information to us though our Website, such as when subscribing to a newsletter or registering a member account. We limit use of such information to the purposes for which the information was provided. However, we reserve the right to use such information to contact you regarding additional services or products that you may find useful.
 
-If you send an e-mail message that includes personally identifiable information, for example, in an e-mail message containing an inquiry, we will use that information to respond to your inquiry. Remember that e-mail is not necessarily secure against interception.
-
-It is our policy to not sell, rent, or give away any nonpublic personal information unless required by law. WE DO NOT DISCLOSE ANY NONPUBLIC PERSONAL INFORMATION ABOUT YOU WITH ANYONE FOR ANY PURPOSE THAT IS NOT SPECIFICALLY PERMITTED BY LAW.
-
-We may use "cookies" to improve our service to you. Cookies may help us recall a previous visit, or recall a registered user's information. If you are not comfortable with this use, you may configure your browser to be notified when cookies are to be received and to provide you with the option of refusing cookies. However, refusing cookies may limit your ability to use our Website in its entirety. Our advertisers and sponsors may use cookies as well, we do not have access to any of this information and are not responsible for it's usage.
-
-4) Links to Other Websites  
-Our Website may contain links to Websites that are provided and maintained exclusively by third parties. Websites provided and maintained by third parties are not subject to this privacy policy. Please review the privacy policies on those Websites to understand their personal information handling practices. We make no representations concerning the privacy policies of these third party Websites.
-
-5) Questions  
-If you have any questions about our policies, you may contact us by using our contact form.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
