@@ -1,49 +1,17 @@
-> *The following text is extracted and transformed from the nolimitvideo.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217063149id_/http%3A//www.nolimitvideo.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nolimitvideo.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Streaming
+# Legal
 
-"No Limit Video".com recognizes that its customers, visitors, users, and others who use "No Limit Video" value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the "No Limit Video" web site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
+* * *
 
-Please note that any video, image, or other content posted at the direction of users onto the "No Limit Video" site becomes published content and is not considered personally identifiable information subject to this privacy notice. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**The Information "No Limit Video" Collects  **
-
-User-provided information: You provide certain personally identifiable information (such as your name and email address) to "No Limit Video" when choosing to participate in various activities on the sites such as uploading videos or posting messages.
-
-  * Cookies Information: When you visit the "No Limit Video" web site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. "No Limit Video" uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the "No Limit Video" web site may not function properly if the ability to accept cookies is disabled.
-  * Log File Information: When you use the "No Limit Video" web site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
-
-
-
-**The Way "No Limit Video" Retains Information**
-
-  * To preserve the integrity of website databases, "No Limit Video" Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to "No Limit Video", you are consenting to store that information indefinitely.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
 
-**The Way "No Limit Video" Uses Information  **
-
-  * If you submit personally identifiable information to us through the "No Limit Video" web site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.
-  * Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the "No Limit Video" web site, and other users can contact you through messages and comments. Any videos that you submit to the "No Limit Video" web site may be redistributed through the Internet and other media channels, and may be viewed by the general public.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.
-
-
-
-**When "No Limit Video" Discloses Information**
-
-  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
-  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
-  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  * "No Limit Video" also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of "No Limit Video", our users or others.
-
-
-
-**Our Commitment to Legal-Age Usage**  
-Protecting children from adult content is especially important. For that reason, "No Limit Video" does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the "No Limit Video" web site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the "No Limit Video" web site at any time or in any manner. If "No Limit Video" learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.
-
-**In the Event of Merger, Sale, or Bankruptcy**  
-In the event that "No Limit Video" is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
-
-**Changes and updates to this Privacy Notice  **
-
-This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the "No Limit Video" web site constitutes your agreement to this privacy notice and any future revisions. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
