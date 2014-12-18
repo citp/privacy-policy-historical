@@ -1,41 +1,17 @@
-> *The following text is extracted and transformed from the majorbarter.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021720id_/http%3A//majorbarter.com/%3Fa%3Dcust%26page%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorbarter.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# MajorBarter
+# Legal
 
-| 
+* * *
 
-| 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**     OUR SPONSORS **  
-  
----  
-  
-|   
-  
----  
-  
-**     Contact Us **  
-  
----  
-  
-|   
-  
----  
-  
-**Major Barter  
-Plaza Neptuno Oficina 7  
-Avendia Ricardo J Alfaro,Tumba Muerto  
-Panama city, Panama  
-Tel : (+507) 832-6676  
-Fax: (+507) 910-0324  
-(24 hours per week) **  
-  
-**Privacy Policy** -This privacy policy sets out how MajorBarter uses and protects any information that you give when you use this website. MajorBarter is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. MajorBarter may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
--You agree that all information, communications, materials coming from MajorBarter.com are unsolicited and must be kept private, confidential and protected from any disclosure. Any information, communications and materials contained herein are not to be regarded as an offer, nor a solicitation for investments in any jurisdiction which deems non-public offers or solicitations unlawful, nor to any person to whom it will be unlawful to make such offer or solicitation. All the data giving by a member to MajorBarter.com will be used privately and not disclosed to any third parties. MajorBarter.com is not responsible or liable for any loss of data that happens by your fault. 
 
--We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard the information we collect online. 
 
--A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. We only use this information for statistical analysis purposes and then the data is removed from the system. 
-
--We will not sell, distribute or lease your personal information to third parties. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
