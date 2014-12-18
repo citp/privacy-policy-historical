@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meriview.in privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327064439id_/http%3A//www.meriview.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meriview.in privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218154305id_/http%3A//www.meriview.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# MeriView.in: Privacy Policy
+# Result - Admit Card - Jobs - MeriView.in: Privacy Policy
 
 This Privacy Policy governs the manner in which MeriView.in collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.meriview.in website ("Site"). This privacy policy applies to the Site and all products and services offered by MeriView.in.
 
@@ -41,6 +41,8 @@ Your acceptance of these terms
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+If you have any objection with any content of the site, you can request for the removal by sending the email at akpanchal2013@gmail.com
 
 This document was last updated on November 21, 2013
 
