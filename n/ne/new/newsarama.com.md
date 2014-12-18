@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the newsarama.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023106id_/http%3A//www.techmedianetwork.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsarama.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219005735id_/http%3A//www.purch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech Media Network
+# Privacy Policy | Purch
 
-Welcome to TechMedia Network!
+Purch has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices, including but not limited to such activities as forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds and newsletters, among other offerings. Purch has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies only to information collected through Purch and not to information collected offline or to information you may provide to any third-party sites to which Purch may link, except as expressly provided herein.
 
-TechMedia Network has created this Privacy Policy in order to set forth the principles governing our information-gathering and dissemination practices, including but not limited to such activities as forums, chat rooms, personal profile pages, product reviews, article commentary, blogs, RSS feeds and newsletters, among other offerings. Tech MediaNetwork has a strong commitment to the privacy of our users. Please note that this Privacy Policy applies only to information collected through TechMedia Network and not to information collected offline or to information you may provide to any third-party sites to which TechMedia Network may link, except as expressly provided herein.
+## Information We Collect
 
-**Information We Collect**  
-There are two kinds of information that TechMedia Network can obtain about you: “Anonymous Information” and “Personally Identifiable Information.”
+**There are two kinds of information that Purch can obtain about you: “Anonymous Information” and “Personally Identifiable Information.”**
 
-“Anonymous Information” consists of non-personally-identifiable data, such as your Internet Protocol (“IP”) address or domain, or information about your usage on TechMedia Network that is used for administrative purposes only. For example, an IP address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We may collect our users’ IP addresses for such purposes as to help diagnose problems with our servers and to report aggregate information to our advertisers, corporate affiliates and consultants, and to third parties that perform particular services on our behalf.
+“Anonymous Information” consists of non-personally-identifiable data, such as your Internet Protocol (“IP”) address or domain, or information about your usage on Purch that is used for administrative purposes only. For example, an IP address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We may collect our users’ IP addresses for such purposes as to help diagnose problems with our servers and to report aggregate information to our advertisers, corporate affiliates and consultants, and to third parties that perform particular services on our behalf.
 
 We may also use the information linked to IP addresses to ban users who violate our Terms and Conditions of use.
 
@@ -17,48 +16,29 @@ We may also use the information linked to IP addresses to ban users who violate 
 
 When we collect Personally Identifiable Information from you, you will have the opportunity to “opt in” to receive email or other digital communications from us and/or our business partners.
 
-If you have submitted your personal information to TechMedia Network, you may correct, amend or delete the Personally Identifiable Information maintained on file about you if it is incorrect.
+If you have submitted your personal information to Purch, you may correct, amend or delete the Personally Identifiable Information maintained on file about you if it is incorrect.
 
-If you are a registered Community member of TechMedia Network, you may manage your membership information as well as your subscriptions. Simply login to your community account and click on “Account Options.” Click on the tab marked “Account” to manage your password and email address; click on the tab marked “Subscriptions ” to manage your newsletter subscriptions and Click on the tab, “Profile” to edit your public profile.
+If you are a registered Community member of Purch, you may manage your membership information as well as your subscriptions. Simply login to your community account and click on “Account Options.” Click on the tab marked “Account” to manage your password and email address; click on the tab marked “Subscriptions ” to manage your newsletter subscriptions and Click on the tab, “Profile” to edit your public profile.
 
 In all cases, we will only use your information as permitted by law. Notwithstanding any other provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to others if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases.
 
-**Use of “Cookies”**  
-TechMedia Network uses “cookies” – data that is transferred from TechMedia Network to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit TechMedia Network. Some of the advertisements appearing on TechMedia Network are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique “cookie” in your browser’s cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick’s privacy policy, [please click here](http://www.google.com/intl/en/policies/). If you would like to “opt out” of having a unique cookie placed on your hard drive by DoubleClick, please [click here](https://www.google.com/settings/u/0/ads?hl=en%3D&sig=ACi0TCgi_F7bhDkAYfI7Zsmt0XyqON_l9WpiW7JLcooryHI3UxZqj0wDxnlnJcj8qCnZlYK8RpmPLl4Ggw1rRWGn_yR_d4zcR-fH-8AdLrOvKf4Ri3qI061fbiOati0kNZXBZjvMfC86n5xZPYDAHZrVDfCpnfMYCziTA_hhhSHSRa7-NtC3SNA#display_optout) or [here](http://www.aboutads.info/choices/#completed).
+### Use of “Cookies”
 
-**Disclosure of Information through Business Transfers**  
-As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or all of TechMedia Network’s assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.
+**Purch uses “cookies”** – data that is transferred from Purch to your hard drive for record-keeping purposes. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit Purch. Some of the advertisements appearing on Purch are delivered by our third-party ad network, DoubleClick. In the course of serving advertisements, DoubleClick may place or recognize a unique “cookie” in your browser’s cache, and may use Anonymous Information (including date/time of the banner ad displayed, the ad that was displayed and the IP address of the visitor) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you and to collect statistical information. For more information about DoubleClick’s privacy policy, please click here. If you would like to “opt out” of having a unique cookie placed on your hard drive by DoubleClick, please click here or here.
 
-**Third Party Web Sites**  
-TechMedia Network contains links to third-party Web sites not owned or controlled by TechMedia Network. TechMedia Network is not responsible for the privacy practices or the content of such third-party Web sites. Inclusion of any linked Web site on TechMedia Network does not imply or express an approval or endorsement of the linked Web site by us, or of any of the content, opinions, products or services provided on these Web sites. Even if an affiliation exists between TechMedia Network and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site via a link from one of our Sites, we encourage you to consult that Web site’s privacy policy before providing any personal information, and whenever interacting with any such Web site.
+## Disclosure of Information through Business Transfers
 
-**Public Forums**  
-TechMedia Network may make chat rooms, forums, blogs, article commenting, and personal profile pages available to users. Please remember that any such information that you may choose to provide in these areas becomes accessible to the public, and also becomes the property of TechMedia Network in accordance with our Terms and Conditions, and we may use such information in any way that we see fit. Consequently, you should exercise caution when deciding to disclose your personal information or to upload material of any kind.
+As we continue to develop our business, we may buy, merge or partner with other companies or businesses, and in so doing, acquire customer information. In such transactions, user information may be among the transferred assets. Similarly, in the event that a portion or all of Purch’s assets are sold or transferred to a third party, customer information (including your email address) would likely be one of the transferred business assets.
 
-**Security**  
-TechMedia Network has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control. Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. Please note that your email, like most, if not all, unencrypted Internet communications, may potentially be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use email to communicate information to us that you consider confidential. While we strive to protect your personal information, TechMedia Network cannot ensure or warrant the security of any information you transmit to us. Once we receive your transmission, we will use reasonable efforts to ensure its security on our internal systems. Depending on the nature of the inquiry, your communication may be discarded or archived.
+## Contacting Purch
 
-**Policy Regarding Minors**  
-Children should always ask parents before providing any personal information online. No information should be submitted to or posted on TechMedia Network by any minor (a person under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any Personally Identifiable Information about minors, regardless of its source, nor is this information knowingly used by TechMedia Network for any marketing or promotional purposes. Minors are not eligible to participate in contests.
+**If you have any questions about this Privacy Statement you may contact us at:**
 
-TechMedia Network abides by the Children’s Online Privacy Protection Act. In the event that we learn that we have collected information from any child under the age of 13 without verification of parental consent, we will delete this information from our database as quickly as reasonably possible. If you believe that any Site has collected any information about anyone under 13, please contact TechMedia Network’s Site Administrator via postal mail or email at one of the addresses listed below.
-
-**Financial Relationships**  
-Please note that TechMedia Network may have financial relationships with some of the merchants/vendors mentioned on this website. In some instances, TechMedia Network may be compensated if consumers choose to utilize the links located throughout the content on this site and generate sales for said merchant/vendor.
-
-**Limitation of Liability**  
-TECHMEDIA NETWORK PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITES “AS IS” WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT TECHMEDIA NETWORK SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS, THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH TECHMEDIA NETWORK FORUMS IS DONE AT YOUR OWN RISK, AND THAT TECHMEDIA NETWORK IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS. TECHMEDIA NETWORK SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK.
-
-**Consent and Modifications to this Privacy Statement**  
-TechMedia Network is controlled, operated and administered entirely within the United States. By using TechMedia Network and/or participating in the activities of TechMedia Network Community, you signify your agreement to the terms of this Privacy Statement. If you do not agree with this Privacy Statement, please do not disclose any personal information through our site. TechMedia Network may modify this Privacy Statement at any time, at its discretion, and modifications are effective upon being posted on this the applicable Site. You are responsible for reviewing this Privacy Statement periodically to ensure that you are aware of any changes to it.
-
-**Contacting TechMedia Network**  
-If you have any questions about this Privacy Statement you may contact us at:
-
-**Site Administrator  
-TechMedia Network  
+**Site Administrator**  
+Purch  
 2425 Lincoln Ave.  
-Ogden, UT 84401  
-[Contact Us](http://www.techmedianetwork.com/contact-us/advertising/ "Advertising")**
+Ogden, UT 84401
+
+[Contact Us](http://purch.com/#contact)
 
 This Privacy Policy is effective as of January 2012 and supersedes all earlier versions of our Privacy Policy
