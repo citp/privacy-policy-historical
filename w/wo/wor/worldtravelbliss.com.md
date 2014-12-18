@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldtravelbliss.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613054429id_/http%3A//worldtravelbliss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelbliss.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218091716id_/http%3A//worldtravelbliss.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | World Travel Bliss
 
 Net 90, LLC knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
