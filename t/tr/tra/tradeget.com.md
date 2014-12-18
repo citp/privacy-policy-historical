@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeget.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620031240id_/http%3A//www.tradeget.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeget.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218094233id_/http%3A//www.tradeget.com/privacy-statement) for the most accurate reproduction.*
 
 # All about Privacy Statement at Tradeget.com
 
