@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316214510id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218113843id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalGiving
 
@@ -119,8 +119,8 @@ If you still have questions or concerns regarding our privacy policy write us at
 
 GlobalGiving  
 [privacy@globalgiving.com](mailto:privacy@globalgiving.com)   
-1023 15th Street, NW   
-12th Floor   
+1110 Vermont Avenue NW   
+Suite 550   
 Washington, DC 20005   
 USA
 
