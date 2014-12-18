@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbponline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120759id_/http%3A//wbponline.com/Static/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbponline.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218035909id_/http%3A//wbponline.com/Static/PrivacyPolicy) for the most accurate reproduction.*
 
 # WBP Online - PrivacyPolicy
 
@@ -10,7 +10,7 @@ WORLD BUSINESS PRESS Inc. ("WBP Online" or "The Company") is the owner of this w
 
 ### WBP Online Privacy Pledge
 
-The term "personal data" as used in this Policy refers to information such as your name, e-mail address or mailing address, or any data that can be used to identify you. We ensure that our staff and those acting on our behalf obtain, use and disclose personal information lawfully and correctly. Sharing Information with third parties WBP Online does not disclose your personal information to third parties, except as described in this Policy. Third party disclosures may include sharing such information with non-affiliated parties. Non-affiliated companies that assist WBP Online in providing services to you are required to maintain the confidentiality of such information to the extent they receive it and to use your personal information only in the course of providing such services and only for the purposes that WBP Online dictates. WBP Online reserves the right to sell such information to third parties who might be interested in offering its services to WBP Online�s customers of which WBP Online find appropriate to offer its customer base. WBP Online may also disclose your personal information to third parties to fulfill your instructions or pursuant to your express consent. 
+The term "personal data" as used in this Policy refers to information such as your name, e-mail address or mailing address, or any data that can be used to identify you. We ensure that our staff and those acting on our behalf obtain, use and disclose personal information lawfully and correctly. Sharing Information with third parties WBP Online does not disclose your personal information to third parties, except as described in this Policy. Third party disclosures may include sharing such information with non-affiliated parties. Non-affiliated companies that assist WBP Online in providing services to you are required to maintain the confidentiality of such information to the extent they receive it and to use your personal information only in the course of providing such services and only for the purposes that WBP Online dictates. WBP Online reserves the right to sell such information to third parties who might be interested in offering its services to WBP Online's customers of which WBP Online find appropriate to offer its customer base. WBP Online may also disclose your personal information to third parties to fulfill your instructions or pursuant to your express consent. 
 
 ### Right of information
 
@@ -22,7 +22,7 @@ By using this Site, or providing information to us in other formats, you consent
 
 ### Rights of access, rectification, cancellation and objection
 
-The Company informs you of the possibility of exercising your rights to access, rectify, cancel and object to the processing of your personal data simply by making a written request to Fusion Media.com using our contact us page. Your requests will be dealt with in a prompt and proper manner. 
+The Company informs you of the possibility of exercising your rights to access, rectify, cancel and object to the processing of your personal data simply by making a written request to WBP Online using our contact us page. Your requests will be dealt with in a prompt and proper manner. 
 
 ### Security and confidentiality
 
