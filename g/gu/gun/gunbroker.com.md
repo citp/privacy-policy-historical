@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629104520id_/http%3A//www.gunbroker.com/User/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218204613id_/http%3A//www.gunbroker.com/User/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at GunBroker.com
 
@@ -129,7 +129,7 @@ _Third Party Advertising_
 
 <http://www.networkadvertising.org/managing/opt_out.asp>
 
-Third Party Advertising Company: [ValueClick Media](http://cdn.fastclick.net/fastclick.net/nai/enhanced_notice.html?cid=328572&mid=639667&sid=58332&which=enhanced_notice); Cross Pixel Media 
+Third Party Advertising Company: ValueClick Media; [Bounce Exchange](http://bounceexchange.com/doc/privacy)
 
 We will update this section of this Privacy Policy if our practices with respect to advertisers change, including identifying any third party advertising companies making use of the Site, so you should check this section of the Privacy Policy if you are concerned about third party advertising companies. 
 
@@ -170,5 +170,5 @@ You can [Contact Customer Support](http://www.gunbroker.com/Support/)
 
 Please check this Privacy Policy periodically to inform yourself of any changes. We reserve the right to modify this Privacy Policy at any time, so you should review it frequently. If we make material changes to this Privacy Policy, we will post such revised policy on our Site and notify you by email or otherwise as permitted by law. 
 
-Effective Date: May 13, 2013   
+Effective Date: Nov 17, 2014   
 Copyright © 2013 GunBroker.com, LLC 
