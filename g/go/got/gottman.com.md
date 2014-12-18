@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629052813id_/http%3A//www.gottman.com/privacy-and-hipaa-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218182239id_/http%3A//www.gottman.com/privacy-and-hipaa-policy) for the most accurate reproduction.*
 
-# Privacy and HIPAA Policy - The Gottman Institute
+# Privacy and HIPAA Policy | The Gottman InstituteThe Gottman Institute
 
 **The Gottman Institute Privacy Policy  **
 
@@ -16,7 +16,7 @@ Subpoenas: The Gottman Institute does not disclose the identities of visitors or
 
 Correct/Update Procedure: If You want to delete or modify Your Personal Information or Automated Information from The Gottman Institute’s records, You may do so by:
 
-Email:   [info@gottman.com ](mailto:info@gottman.com)
+Email:   [products@gottman.com ](mailto:products@gottman.com)
 
 Mail: The Gottman Institute, Inc. , 1401 E. Jefferson St., Suite 501, Seattle, WA 98122
 
