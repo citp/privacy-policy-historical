@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the smith-wessonforum.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110629id_/http%3A//www.intermarkets.net/ourCompany/legal/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smith-wessonforum.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218052818id_/http%3A//www.intermarkets.net/ourCompany/legal/index.html) for the most accurate reproduction.*
 
-# Intermarkets, Inc.
+# Intermarkets Privacy Policy
 
 Revised: July 17, 2013
+
+[Intermarkets Terms and Conditions](http://www.intermarkets.net/legal/termsAndConditions.html)
 
 Intermarkets, Inc. is an online advertising management services firm that offers advertisers opportunities to display their interactive ads on websites that are included within the Intermarkets Portfolio. Our services streamline the selection and delivery of interactive ads for advertisers and website publishers. We also provide targeted advertising services using non-personal information that is gathered across multiple, unaffiliated websites. 
 
@@ -110,6 +112,6 @@ When you use the Intermarkets website, you are accepting the terms and condition
 
 ## Additional information
 
-For the privacy policies for each of our Portfolio publishers, please visit their sites.  Links to our Portfolio publishers’ websites are located in our [Media Kit](https://web.archive.org/web/20140625110629id_/http%3A//www.intermarkets.net/advertisers/index.html). 
+For the privacy policies for each of our Portfolio publishers, please visit their sites.  Links to our Portfolio publishers’ websites are located in our [Media Kit](https://web.archive.org/web/20141218052818id_/http%3A//www.intermarkets.net/advertisers/index.html). 
 
 RETURN TO TOP
