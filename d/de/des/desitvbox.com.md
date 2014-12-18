@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desitvbox.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051319id_/http%3A//www.desitvbox.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitvbox.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218210029id_/http%3A//www.desitvbox.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesiTVBox.me
 
