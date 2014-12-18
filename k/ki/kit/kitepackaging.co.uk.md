@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626170809id_/http%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218090132id_/http%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Kite Packaging
 
@@ -70,6 +70,12 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 By continuing to use this website it is implied that you consent to our use of cookies.
 
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/policies/privacy/>
+
+We make use of a Google Analytics remarketing cookie to serve ads based on a user’s prior visit history to our website. These ads are displayed to users on third party websites across the internet that have signed up to the Google Ad network. No personally identifiable information is passed through these cookies. We also make use of Google Analytics Demographics and Interest Reporting. To determine your interests, Google will track your behaviour on our website and on other websites across the web using a cookie.
+
+You can view, delete or add interest categories associated with your browser using Google's Ads Preference Manager, available at <http://www.google.com/ads/preferences/>. You can opt-out of the Adsense partner network cookie at: <http://www.google.com/policies/technologies/ads/>. To ensure that an opt-out is maintained in respect of a particular browser, you should use the Google browser plug-in available at <https://www.google.com/settings/ads/plugin>.
+
 **Links To Other Websites**
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
@@ -78,7 +84,7 @@ Our website may contain links to enable you to visit other websites of interest 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We will not use your personal information to send you promotional information about third parties for promotional purposes.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write us (see our postal address at the top of the page). A small fee of £5 will be payable. Alternatively, you can view and edit your details online \- [please click here](https://web.archive.org/catapult/frontend/MyAccount/AccountOverview.aspx?myacctab=3).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write us (see our postal address at the top of the page). A small fee of £5 will be payable. Alternatively, you can view and edit your details online \- [please click here](https://www.kitepackaging.co.uk/Catapult/frontend/MyAccount/AccountOverview.aspx).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.
 
