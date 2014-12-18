@@ -1,51 +1,17 @@
-> *The following text is extracted and transformed from the frankstube.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019071012id_/http%3A//www.jerk2it.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankstube.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Jerk2It
+# Legal
 
-**This document details important information regarding the use and disclosure of User Data collected on Jerk2It.com**
+* * *
 
-The security of your Data is very important to Jerk2It.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. This site expressly and strictly limits its membership and/or viewing privliges to adults 18 years of age and over or having attentaind the age of majotity in their comunity. All persons who do not meet tis criteria are strictly forbiden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Data Collected  
-**  
-**Personal Information**
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Non-Registered users can watch videos without registering and without any information being collected and processed.
 
-Registered Members: Registration is required for uploading videos, and accessing many other Jerk2It.com features. The following personal information is requested at the time of registration: username (required), and email address (required), and password (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
 
-**Content Uploaded to the site**
-
-Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-
-**Cookies**
-
-When you visit Jerk2It.com, we may send one or more cookies to your computer that uniquely identifies your browser session and ensure some site features work properly (such as remembering your login so you do not have to log in again after visiting Jerk2It.com).
-
-**Log File Information**
-
-When you visit Jerk2It.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-
-**Uses**
-
-1) Your Personally identifiable information submitted to Jerk2It.com is used to provide to the user the website's features and special personalized features.
-
-2) Your chosen usernaname (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the Jerk2It.com private mail, etc. Other Users can contact you through, private messages.
-
-3) Any videos that you submit to Jerk2It.com may be redistributed through the internet and other media channels, and may be viewed by the general public.
-
-4) We may use your email address without further consent for administrative purposes (such as notifying you of key website changes or for customer service purposes).
-
-**Disclosure Of Information**
-
-if under duty to do so Jerk2It.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Jerk2It.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Jerk2It.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-
-**Should you deliberatlly upload any illegal material Jerk2It.com shall forward all available information to all relevant authrities and this without notice.**
-
-**Security**
-
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
-
-**Your Rights**
-
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at support@Jerk2It.com. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
