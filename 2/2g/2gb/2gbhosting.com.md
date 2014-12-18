@@ -1,32 +1,41 @@
-> *The following text is extracted and transformed from the 2gbhosting.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213143345id_/http%3A//www.2gbhosting.com/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2gbhosting.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218060416id_/http%3A//www.2gbhosting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy United States
+# Privacy Policy India
 
- Privacy Policy  
----  
-  | We protect you personal data and do not share it with third parties.  
-  | Privacy Policy - 2gbhosting Technologies  
-  | 2gbhosting Technologies respects the your privacy and takes its responsibilities regarding the security of your customer information very seriously. We are committed to providing you with a professional, valuable and personalised service whilst safeguarding your privacy. This Privacy Policy applies to 2gbhosting Technologies business. It has been created to explain to you the way in which 2gbhosting Technologies use your personal data. This information will assist you to determine whether or not to provide us with your personal information.  
-  | This Privacy Policy applies without exception to all 2gbhosting Technologies customers. It is applicable for personal data collected from persons located worldwide. We may update this Privacy Policy. We will notify you of all changes through our website at least one month prior to any change being implemented. This Privacy Policy explains the following regarding 2gbhosting Technologies's treatment of personal data:  
-  | Definitions of personal data?  
-  | **Personal data is any information that allows you to be identified**. The types of personal data 2gbhosting Technologies collect may include details of your name, address, telephone number, email address, fax number and date of birth.  
-  | We do not collect personal data about your racial and ethnic origin, political opinion, religious beliefs or other beliefs of a similar nature, membership of a trade union, physical or mental health or conditions, sexual life or any other sensitive information.  
-  | Practices and procedures to collect your personal data  
-  | 
+**We protect you personal data and do not share it with third parties.**
 
-2gbhosting Technologies collect personal data for you through the use of enquiry and registration forms, direct personal contact with you and every time you e-mail us your details. We will use your personal data where it is necessary to do so because it is relevant to 2gbhosting Technologies's dealings with you (i.e. it is relevant to the provision of the services that you have requested from 2gbhosting Technologies) including for billing, customer service and network management.  
-  
-  | Without your consent, we will not use your personal data for direct marketing, including the provision of offers for 2gbhosting Technologies and its third party partners' products and services and customer surveys. We will not process personal information about you without your express consent. 2gbhosting Technologies will not sell, trade or rent your personal information to others.  
-  | 2gbhosting Technologies may disclose your personal data to carefully selected business partners and third party suppliers to whom we engage to provide services. However, other than as set out in this Privacy Policy, 2gbhosting Technologies will not disclose or share your personal data with any other third party without your express consent unless this is necessary to provide the services or products which you requested when providing us with your personal data or as required by law.  
-  | Direct marketing  
-  | If you have consented at the point of collection to 2gbhosting Technologies (and/or any third party) providing you with direct marketing material you will be requested to elect the type of media via which this material shall be provided (for example, by post, e-mail, telephone or fax). We will only provide you with such material via your chosen media.  
-  | If, at any stage, you object to 2gbhosting Technologies's use of your personal data for direct marketing or to the media in which such material is being sent, you may choose to unsubscribe to its receipt. If you have consented to receive third party direct marketing you will need to unsubscribe directly with that third party.  
-  | Use of "cookies"  
-  | 2gbhosting Technologies may use "cookies" on our website and its subsites. A "cookie" is information that a web site puts on your hard drive so that it can remember pieces of information about you when you next visit the website or a related website. We use cookies to record personal data about you only when you use our web site in order to facilitate your future activities.  
-  | Unless otherwise notified by us, 2gbhosting Technologies will not use personal data sent in a cookie for marketing purposes. If you prefer not to receive cookies from our site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse cookies by turning them off in your browser.  
-  | Security of your personal data  
-  | 2gbhosting Technologies has in place appropriate technical and organisational security measures to prevent unauthorized or unlawful disclosure or access to or, accidental or unlawful loss of or destruction, or alteration or unauthorised disclosure of or access to, or other damage to your personal data. These measures ensure an appropriate level of security in relation to the risks inherent in the processing and the nature of the personal data to be protected.  
-  | Your rights to your personal data  
-  | We will only keep your information for as long as we are either required to by law, or as is relevant for the purposes for which it was collected. During this period, you may contact our officer at any time if you would like to see details of the personal data that we hold about you. You also may inform yourself about the purposes for which your personal data are being used, details of the parties with whom we may share your personal data or to ask us to correct, update, supplement or delete this personal data.  
-  | 2gbhosting Technologies enforcement of this Privacy Policy  
-  | If you have a question or enquiry about this Privacy Policy or a complaint about the way 2gbhosting Technologies has used your personal data you should first contact our Data Protection Officer. The 2gbhosting Technologies's Data Protection Officer is responsible to deal with and respond to all enquiries came from any client. The Data Protection officer reports directly to the company Executive Director. The 2gbhosting Technologies's executive director meet on an "as necessary" basis to discuss our Privacy Policy and any individual complaints or disputes.
+### Privacy Policy - 2gbhosting Technologies
+
+2gbhosting Technologies respects the your privacy and takes its responsibilities regarding the security of your customer information very seriously. We are committed to providing you with a professional, valuable and personalised service whilst safeguarding your privacy. This Privacy Policy applies to 2gbhosting Technologies business. It has been created to explain to you the way in which 2gbhosting Technologies use your personal data. This information will assist you to determine whether or not to provide us with your personal information.
+
+This Privacy Policy applies without exception to all 2gbhosting Technologies customers. It is applicable for personal data collected from persons located worldwide. We may update this Privacy Policy. We will notify you of all changes through our website at least one month prior to any change being implemented. This Privacy Policy explains the following regarding 2gbhosting Technologies's treatment of personal data:
+
+### Definitions of personal data?
+
+Personal data is any information that allows you to be identified. The types of personal data 2gbhosting Technologies collect may include details of your name, address, telephone number, email address, fax number and date of birth. We do not collect personal data about your racial and ethnic origin, political opinion, religious beliefs or other beliefs of a similar nature, membership of a trade union, physical or mental health or conditions, sexual life or any other sensitive information.
+
+### Practices and procedures to collect your personal data
+
+2gbhosting Technologies collect personal data for you through the use of enquiry and registration forms, direct personal contact with you and every time you e-mail us your details. We will use your personal data where it is necessary to do so because it is relevant to 2gbhosting Technologies's dealings with you (i.e. it is relevant to the provision of the services that you have requested from 2gbhosting Technologies) including for billing, customer service and network management.
+
+Without your consent, we will not use your personal data for direct marketing, including the provision of offers for 2gbhosting Technologies and its third party partners' products and services and customer surveys. We will not process personal information about you without your express consent. 2gbhosting Technologies will not sell, trade or rent your personal information to others. 2gbhosting Technologies may disclose your personal data to carefully selected business partners and third party suppliers to whom we engage to provide services. However, other than as set out in this Privacy Policy, 2gbhosting Technologies will not disclose or share your personal data with any other third party without your express consent unless this is necessary to provide the services or products which you requested when providing us with your personal data or as required by law.
+
+### Direct marketing
+
+If you have consented at the point of collection to 2gbhosting Technologies (and/or any third party) providing you with direct marketing material you will be requested to elect the type of media via which this material shall be provided (for example, by post, e-mail, telephone or fax). We will only provide you with such material via your chosen media. If, at any stage, you object to 2gbhosting Technologies's use of your personal data for direct marketing or to the media in which such material is being sent, you may choose to unsubscribe to its receipt. If you have consented to receive third party direct marketing you will need to unsubscribe directly with that third party.
+
+### Use of "cookies"
+
+2gbhosting Technologies may use "cookies" on our website and its subsites. A "cookie" is information that a web site puts on your hard drive so that it can remember pieces of information about you when you next visit the website or a related website. We use cookies to record personal data about you only when you use our web site in order to facilitate your future activities. Unless otherwise notified by us, 2gbhosting Technologies will not use personal data sent in a cookie for marketing purposes. If you prefer not to receive cookies from our site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse cookies by turning them off in your browser.
+
+### Security of your personal data
+
+2gbhosting Technologies has in place appropriate technical and organisational security measures to prevent unauthorized or unlawful disclosure or access to or, accidental or unlawful loss of or destruction, or alteration or unauthorised disclosure of or access to, or other damage to your personal data. These measures ensure an appropriate level of security in relation to the risks inherent in the processing and the nature of the personal data to be protected.
+
+### Your rights to your personal data
+
+We will only keep your information for as long as we are either required to by law, or as is relevant for the purposes for which it was collected. During this period, you may contact our officer at any time if you would like to see details of the personal data that we hold about you. You also may inform yourself about the purposes for which your personal data are being used, details of the parties with whom we may share your personal data or to ask us to correct, update, supplement or delete this personal data.
+
+### 2gbhosting Technologies enforcement of this Privacy Policy
+
+If you have a question or enquiry about this Privacy Policy or a complaint about the way 2gbhosting Technologies has used your personal data you should first contact our Data Protection Officer. The 2gbhosting Technologies's Data Protection Officer is responsible to deal with and respond to all enquiries came from any client. The Data Protection officer reports directly to the company Executive Director. The 2gbhosting Technologies's executive director meet on an "as necessary" basis to discuss our Privacy Policy and any individual complaints or disputes.
