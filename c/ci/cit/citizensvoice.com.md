@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensvoice.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101422id_/http%3A//www.timesshamrockcommunications.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensvoice.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218105226id_/http%3A//www.timesshamrockcommunications.com/policy.html) for the most accurate reproduction.*
 
 # Times-Shamrock Communications Online Privacy & Posting Policies
 
