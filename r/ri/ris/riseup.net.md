@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riseup.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331235926id_/https%3A//help.riseup.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riseup.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218032724id_/https%3A//help.riseup.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - help.riseup.net
 
@@ -15,7 +15,7 @@ We collect user information from you when you make a request for service. Once y
 
 Riseup.net does not want to keep your user information. If we don’t have your information, we cannot be forced to provide this data to a third party. It is our preference that you delete your information now. But the choice is up to you.
 
-For mail accounts, user information can be deleted by visiting [mail.riseup.net](http://mail.riseup.net/) and clicking “change my settings.” For lists, you can edit the list description and owners (and other information) from the list admin interface once you are logged into [lists.riseup.net](http://lists.riseup.net/).
+For mail accounts, user information can be deleted by visiting [mail.riseup.net](https://mail.riseup.net/) and clicking “change my settings.” For lists, you can edit the list description and owners (and other information) from the list admin interface once you are logged into [lists.riseup.net](https://lists.riseup.net/).
 
 ### We keep minimal logs
 
