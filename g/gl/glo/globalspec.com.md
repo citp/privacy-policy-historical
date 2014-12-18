@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619153746id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalspec.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218231544id_/http%3A//www.globalspec.com/Help/Privacy) for the most accurate reproduction.*
 
 # GlobalSpec - Privacy Policy
 
 ### Introduction
 
-GlobalSpec and its family of products are committed to protecting our users' privacy. This privacy policy is designed to inform users of GlobalSpec-brand products about how GlobalSpec gathers and uses anonymous and profile information, and in what circumstances GlobalSpec will disclose such information. GlobalSpec will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws. 
+GlobalSpec (also known as IHS Engineering360) and its family of products are committed to protecting our users' privacy. This privacy policy is designed to inform users of GlobalSpec-brand products about how GlobalSpec gathers and uses anonymous and profile information, and in what circumstances GlobalSpec will disclose such information. GlobalSpec will take reasonable steps to protect user privacy consistent with the guidelines set forth in this policy and with applicable U.S. laws. 
 
 ### Key Definitions
 
@@ -20,7 +20,7 @@ In this Privacy Policy, we use the following key definitions. Other terms are de
 
 ###  This Privacy Policy Does Not Apply to Third Party and Co-Branded Web Sites. 
 
-Some Third Party Content made available through the other organizations is maintained on the web site of the Content Provider, and not on the GlobalSpec site. This means that when you click through to that Third Party Content, you will be leaving the GlobalSpec web site. It will be clear to you when this happens, as the look and feel of your web page will change, and the URL will no longer refer to a web site owned and operated by GlobalSpec. This Privacy Policy does not govern the use and disclosure of any information you choose to disclose to the Content Provider on the Content Provider site. 
+Some Third Party Content made available through other organizations is maintained on the web site of the Content Provider, and not on the GlobalSpec site. This means that when you click through to that Third Party Content, you will be leaving the GlobalSpec web site. It will be clear to you when this happens, as the look and feel of your web page will change, and the URL will no longer refer to a web site owned and operated by GlobalSpec. This Privacy Policy does not govern the use and disclosure of any information you choose to disclose to the Content Provider on the Content Provider site. 
 
 In addition, the sites you are viewing may be co-branded, meaning that the sites are branded with the logos of both GlobalSpec and a third party ("Co-Branded Sites"). If you register or log in on a Co-Branded Site, you are choosing to disclose information to both GlobalSpec and the third party with whose brand the site is co-branded. This Privacy Policy only governs GlobalSpec's use of your information. The third party's use of that personal information is governed by the partner's privacy policy, and not by this Privacy Policy. 
 
@@ -65,7 +65,7 @@ Event Registration Information: When registering to attend a GlobalSpec event, t
 
 **Disclosure of Anonymous, Aggregated Information**
 
-We provide summary reports to our Content Providers, based on our analysis of Clickstream Data. The type of information included in a summary report is "3,000 people looked at your information this week, and of those people 60% clicked through to read the full report." This aggregated information is anonymous and does not disclose to the content providers, advertisers, prospective advertisers, and partners any profile information about the individual users who saw or clicked on their reports. 
+We provide summary reports to our Content Providers, customers and other third party suppliers/advertisers/service providers, based on our analysis of Clickstream Data. The type of information included in a summary report is "3,000 people looked at your information this week, and of those people 60% clicked through to read the full report." This aggregated information is anonymous and does not disclose to the content providers, advertisers, prospective advertisers, and partners any profile information about the individual users who saw or clicked on their reports. 
 
 **Disclosure of Personal Information**
 
@@ -119,4 +119,4 @@ GlobalSpec will investigate your complaint and respond to you promptly.
 
 ###  GlobalSpec Events Giveaways: 
 
-Additional Giveaway Rules and Disclaimers apply for registrants attending GlobalSpec Events. See [Prize Rules](https://web.archive.org/web/20140619153746id_/http%3A//www.globalspec.com/Help/Privacy?type=prize). 
+Additional Giveaway Rules and Disclaimers apply for registrants attending GlobalSpec Events. See [Prize Rules](https://web.archive.org/web/20141218231544id_/http%3A//www.globalspec.com/Help/Privacy?type=prize). 
