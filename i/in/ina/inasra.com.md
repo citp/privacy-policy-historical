@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inasra.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327145213id_/http%3A//www.stayzilla.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inasra.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218212737id_/http%3A//www.stayzilla.com/privacy.php) for the most accurate reproduction.*
 
 # Stayzilla.com - Learn how our privacy policy keeps you secure
 
@@ -15,7 +15,7 @@
   * When you register with Stayzilla.com, we ask for your name, email address, birth date, gender, complete address and contact numbers. Once you register with Stayzilla.com and sign in to our services, you are not anonymous to us.
   * Stayzilla.com also automatically receives and records information on our server logs from your browser including your IP address, Stayzilla.com cookie information and the page you requested.
   * In addition, when you use Stayzilla.com's services, you may make some of your personal information public. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-  * Stayzilla.com uses information for three general purposes: to customize the content you see, to fulfill your requests for our products and services (bookings), and to contact you about booking changes and confirmations. 
+  * Stayzilla.com uses information for four general purposes: to customize the content you see, to fulfill your requests for our products and services (bookings), to contact you about booking changes and confirmations and to keep you informed of exciting stay offers. 
 
 
 
