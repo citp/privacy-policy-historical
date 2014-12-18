@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232714id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218071456id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # Bidder & Subscriber Privacy Policy | Invaluable
 
@@ -124,11 +124,11 @@ As a dynamic and growing Site, Invaluable may contain links to other sites that 
 
 **6) HOW TO CONTACT US**
 
-If you feel that we have not followed our privacy policy, or if you have any questions or concerns about the Invaluable Privacy Policy or its implementation, please contact us by email at: _[Bpeverill@i nvaluable.com](mailto:Bpeverill@invaluable.com)_, or by mail at: 
+If you feel that we have not followed our privacy policy, or if you have any questions or concerns about the Invaluable Privacy Policy or its implementation, please contact us by email at: _[customercare@invaluable.com](mailto:customercare@invaluable.com)_ , or by mail at: 
 
 Invaluable, LLC
 
-Attention: William M. Peverill
+Attention: Privacy Officer
 
 38 Everett Street, Suite 101 
 
