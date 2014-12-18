@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gator995.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223181249id_/http%3A//gator995.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gator995.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218011740id_/http%3A//gator995.com/privacy) for the most accurate reproduction.*
 
-# GATOR 99.5 Radio - The MOST Country - Lake Charles Music
+# Gator 99.5 – Lake Charles’ Country Station – Lake Charles Country Radio
 
 ### About GATOR995.COM
 
