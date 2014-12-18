@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630204837id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8tracks.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218222748id_/http%3A//8tracks.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | 8tracks radio
 
 ## **Privacy policy**
 
-**Last Revised: November 13 th, 2012**
+**Last Revised: October 8 th, 2014**
 
 The 8tracks Platform, including the website [http://8tracks.com](http://8tracks.com/), is owned and operated by 8tracks, Inc. (" **8tracks** " or " **We** "). We understand you value your privacy. At 8tracks, we want to make your experience online satisfying and safe. This statement governs information you provide to us or we learn from your use of the 8tracks Platform and tells you how we may collect, use and, in some instances, share this information.
 
@@ -23,7 +23,7 @@ _The Information 8tracks Collects_
 
   * We may use your email address, without further consent, for administrative communications such as notifying you of major 8tracks Platform updates, for customer service purposes, and to send privacy or security related notices. 
   * 8tracks uses all of the information that we collect to understand the usage trends and preferences of our Users, to improve the way the 8tracks Platform works and looks, and to create new features and functionality. 
-  * 8tracks may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the 8tracks application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the 8tracks Platform; (c) provide customized third-party advertisements, content and information both on and off the 8tracks Platform; (d) monitor and report on the effectiveness of third-party marketing campaigns; (e) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities. 
+  * tracks may use "Automatically Collected" information and "Cookies" information to: (a) automatically update the 8tracks application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the 8tracks Platform; (c) provide customized third-party advertisements, content and information both on and off the 8tracks Platform; (d) monitor and report on the effectiveness of third-party marketing campaigns; (e) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (d) track your entries, submissions, and status in any promotions or other activities; and (e) track and enforce any programming limitations adopted by the Service, including by way of example and not limitation, how frequently you may listen to a particular playlist within a defined time period.
 
 
 
@@ -44,7 +44,7 @@ To protect your privacy and security, we take reasonable steps to verify your id
 
 8tracks does not provide your personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks 8tracks to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach.
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for further information. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or websites. 8tracks reserves the right the add or remove third-party ad networks or ad servers in its discretion and 8tracks may not at all times list such updated ad network or ad server partners in this Privacy Policy.
+You should consult the respective privacy policies of these third-party ad servers or ad networks for further information. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or websites. 8tracks reserves the right to add or remove third-party ad networks or ad servers in its discretion and 8tracks may not at all times list such updated ad network or ad server partners in this Privacy Policy.
 
 You may learn more about interest-based advertising by going to <http://www.networkadvertising.org/> and you may opt out of participation in multi-site data collection and sharing of data for use in interest-based advertising outside of the 8tracks Platform by clicking [here](http://www.lotame.com/opt-out-preference-manager).
 
