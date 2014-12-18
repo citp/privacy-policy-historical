@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethiojobs.net privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612004526id_/http%3A//www.ethiojobs.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiojobs.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218180251id_/http%3A//www.ethiojobs.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Latest Jobs in Ethiopia
+# Privacy Policy
 
 Info Mind Solutions PLC (collectively, “IMS”, “We” or “Our”) has drafted its Privacy Policy to ensure that you can use Ethiojobs’ site on your own terms. IMS continues to strive to provide the safest possible environment for you to search for and apply to jobs.
 
