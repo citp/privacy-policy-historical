@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wordsinasentence.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111745id_/http%3A//wordsinasentence.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordsinasentence.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218155426id_/http%3A//wordsinasentence.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | WordsinaSentence.com
+# Privacy Policy - WordsinaSentence.com
 
 This Privacy Policy governs the manner in which WordsinaSentence collects, uses, maintains and discloses information collected from users (each, a “User”) of the [wordsinasentence.com](http://www.generateprivacypolicy.com/account/policies/edit/wordsinasentence.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by WordsinaSentence.
 
