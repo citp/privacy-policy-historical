@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpseoninja.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330181802id_/http%3A//www.wpseoninja.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpseoninja.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218212454id_/http%3A//www.wpseoninja.com/privacy) for the most accurate reproduction.*
 
 # privacy | WP SEO Ninja 2.0
 
