@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053124id_/http%3A//consumersunion.org/about/advocacy-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218185329id_/http%3A//consumersunion.org/about/advocacy-privacy-policy) for the most accurate reproduction.*
 
 # Advocacy Privacy Policy | Consumers Union
 
@@ -14,7 +14,7 @@ Consumers Union (“CU”, “we” or “us”) is the public policy and advoca
 
 This Consumers Union Privacy Policy applies to information provided or collected in connection with CU’s consumer advocacy programs and campaigns and their associated websites, which are accessible from our website located at ConsumersUnion.org.
 
-A separate privacy policy applies to the Consumer Reports family of print, wireless and online information products and services, and is available on the [ConsumerReports.org](http://www.consumerreports.org/cro/2012/10/privacy-policy-highlights/index-htm) website. For purposes of this Consumers Union Privacy Policy and our [User Agreement](http://www.consumersunion.org/about/user-agreement/), the ConsumersUnion.org website includes all of the Consumers Union advocacy campaign websites accessible from ConsumersUnion.org except for Consumer Reports WebWatch and Greener Choices, which are governed by the ConsumerReports.org Privacy Policy.
+A separate privacy policy applies to the Consumer Reports family of print, wireless and online information products and services, and is available on the ConsumerReports.org website. For purposes of this Consumers Union Privacy Policy and our [User Agreement](http://www.consumersunion.org/about/user-agreement/), the ConsumersUnion.org website includes all of the Consumers Union advocacy campaign websites accessible from ConsumersUnion.org except for Consumer Reports WebWatch and Greener Choices, which are governed by the ConsumerReports.org Privacy Policy.
 
 ### YOUR CONSENT TO THIS PRIVACY POLICY
 
@@ -200,7 +200,7 @@ If you have any questions or concerns about the ConsumersUnion.org Privacy Polic
 
 If you feel that we have not followed our Consumers Union Privacy Policy please let us know by sending an email to actions@cu.consumer.org or calling us at 512-477-4431. Additionally, you may contact your state or local consumer protection office, the Better Business Bureau, or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at www.ftc.gov.
 
-If you are a subscriber to Consumer Reports or any of our other publications, [click here](https://web.archive.org/web/20140625053124id_/http://consumersunion.org/about/advocacy-privacy-policy/If%20you%20are%20a%20subscriber%20to%20Consumer%20Reports%20or%20any%20of%20our%20other%20publications,%20click%20here%20%20http://www.consumerreports.org/cro/2012/10/privacy-policy-highlights/index-htm) to review the Consumer Reports privacy policy.
+If you are a subscriber to Consumer Reports or any of our other publications, [click here](https://web.archive.org/web/20141218185329id_/http://consumersunion.org/about/advocacy-privacy-policy/If%20you%20are%20a%20subscriber%20to%20Consumer%20Reports%20or%20any%20of%20our%20other%20publications,%20click%20here%20%20http://www.consumerreports.org/cro/2012/10/privacy-policy-highlights/index-htm) to review the Consumer Reports privacy policy.
 
 ### CHANGES TO THIS PRIVACY POLICY
 
