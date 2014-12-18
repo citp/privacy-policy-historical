@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transparency.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625174450id_/https%3A//www.transparency.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparency.org privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218151905id_/http%3A//www.transparency.org/privacy) for the most accurate reproduction.*
 
-# Transparency International - Privacy policy
+# Privacy policy
 
 Transparency International (TI) is committed to ensuring the privacy of all our users. We collect and retain only such personal information as you choose to provide us. All such information is stored securely and will not be made public, sold, rented or likewise distributed.
 
@@ -40,4 +40,4 @@ Transparency International Secretariat
 Alt Moabit 96  
 10559 Berlin, Germany
 
-Or please [email us here](mailto:resources@transparency.org?subject=Query%20about%20your%20privacy%20policy)
+Or please [email us here](mailto:dataprotection@transparency.org?subject=Query%20about%20your%20privacy%20policy)
