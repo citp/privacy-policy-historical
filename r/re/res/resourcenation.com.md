@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the resourcenation.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508010043id_/http%3A//www.resourcenation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcenation.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218061358id_/http%3A//www.resourcenation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ResourceNation
 
-Last updated on December 14, 2012
+Last updated on December 04, 2014
 
 OVERVIEW
 
@@ -44,6 +44,10 @@ We do not share your profile with any third parties, although we will pass the i
 We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users. This information is used to recruit vendors into our vendor network. Typical information shared with vendors may include the number of quote requests, the popular geographic locations of quote requests, and the type of quote requests. We do not share personally identifying information except with Vendors for the specific quote requests that have been matched.
 
 We do not link aggregate user data with personally identifiable information.
+
+If you prefer to have an untargeted ad experience while you surf, please visit <http://www.networkadvertising.org/choices/> and simply select the companies you'd like to "Opt Out" of receiving targeted ads from.
+
+No additional informational cookies will be delivered to you from Resourcenation.com. Please note that by opting out through this interface you are only opting out of ad targeting activity that is conducted online via Resourcenation.com and its partners (some of which are listed here). Resourcenation.com is not responsible for online or offline data collection conducted by other organizations with which you may interact. For more information, review the opt-out tool from the Network Advertising Initiative at: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Personally identifiable information**  
 We DO NOT Share Personally Identifiable Information with third parties, EXCEPT for the NO MORE THAN 6 vendors we match your quote request.
