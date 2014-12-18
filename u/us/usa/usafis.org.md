@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629191554id_/http%3A//www.usafis.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203504id_/http%3A//www.usafis.org/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | USAFIS - Green Card DV Lottery Program
 
@@ -31,7 +31,9 @@ We use your Data for legitimate business operational and marketing purposes, whi
 • Resolving disputes, collecting fees, and troubleshooting problems.  
 • Conducting market research surveys.  
 • Occasionally offering current subscribers the chance to participate in contests.  
-• Providing you with information about products and services we offer.  **You may stop the delivery of marketing emails by following the instructions accompanying a particular communication or by contacting us at  [privacy@Usafis.org.](mailto:privacy@Usafis.org)**
+• Providing you with information about the products and services that we offer.  ****
+
+**You may stop the delivery of marketing emails by following the instructions accompanying a particular communication or by contacting us at  [privacy@Usafis.org.](mailto:privacy@Usafis.org)**
 
 Usafis Organization may share information about users with business partners, sponsors and other third parties. We provide this information in aggregate form so that no individual user is identified.  **If you prefer not to receive online marketing information from third-party companies, please contact our Privacy Officer by e-mail at  [privacy@Usafis.org.](mailto:privacy@Usafis.org)**
 
@@ -45,7 +47,7 @@ When purchasing a product using a credit card, you will be asked to submit data 
 
 Usafis.org has appropriate measures in place to help ensure that our users’ Data is protected against unauthorized access or use, alteration, unlawful or accidental destruction and accidental loss. Although we make reasonable efforts to protect your Personal Information from loss, misuse, or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet.
 
-We have adopted security tools and procedures that limit access to private and personal information as well as locates and prevents access from unauthorized users. While our security measures exceed the industry standards and we have not received any complaints about the penetrability of our security system, there is some risk that thieves could find a way to thwart our security systems.
+We have adopted security tools and procedures that limit the access to private and personal information. These security tools and procedures also locate and prevent access from unauthorized users. While our security measures exceed the industry standards and we have not received any complaints about the penetrability of our security system, there is some risk that hackers could find a way to thwart our security systems.
 
 We utilize ‘Cookies’ on your computer in order to simplify the user’s experience. You can set your browser preferences to a ‘cookie’ rejecting mode, but be advised that the service may not function properly. Usafis.org data is stored behind ‘Firewalls’ so as to prevent loss, changing or misuse of information under our control.
 
@@ -53,7 +55,7 @@ Usafis.org includes links to different sites. Please note that when ‘clicking�
 
 #### **Access to Data and Contact Info**
 
-You may request a copy or send a correction of the personal information we hold about you by contacting the Privacy Officer at [privacy@Usafis.org](mailto:privacy@Usafis.org) or writing to:
+You may request a correction to or a copy of the personal information we hold about you by contacting the Privacy Officer at [privacy@Usafis.org](mailto:privacy@Usafis.org) or writing to:
 
 Privacy Officer  
 Usafis Organization  
