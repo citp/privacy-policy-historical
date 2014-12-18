@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614020941id_/http%3A//www.thenonprofittimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218172450id_/http%3A//www.nptimes.com/privacy) for the most accurate reproduction.*
 
-# Privacy | The NonProfit TimesThe NonProfit Times
+# Privacy - The NonProfit TimesThe NonProfit Times
 
 **Our postal address is**  
 201 Littleton Road – 2nd Floor  
@@ -25,6 +25,6 @@ With respect to Ad Servers: we do not partner with or have special relationships
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our website and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us an email at the address provided above.
 
-### NPT 2014 Buyers' Guide
+### NPT 2015 Buyers' Guide
 
-[ ](http://www.thenonprofittimes.com/wp-content/uploads/2013/11/NPT-BuyersGuide-2014.pdf) The authoritative resource for suppliers and service providers to the nonprofit sector. [Download your copy today!](http://www.thenonprofittimes.com/wp-content/uploads/2013/11/NPT-BuyersGuide-2014.pdf)
+[ ](http://www.thenonprofittimes.com/the-nonprofit-times-buyers-guide/)
