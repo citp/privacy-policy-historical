@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2012-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121226123001id_/http%3A//gc.guitarcenter.com/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitarcenter.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218195911id_/http%3A//gc.guitarcenter.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Guitar Centers Policies - Guitar Center
 
@@ -66,9 +66,7 @@ By using the Site, you agree to the terms of our Privacy Policy. If you do not a
 
 **Collection Of Children's Personal Information**
 
-Guitar Center is committed to protecting the privacy of children. The Site is not directed at children under the age of 13, and Guitar Center does not collect or maintain personal information online from children we actually know are under the age of 13. Should a child who we know is under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information.
-
-**How to Contact**
+Guitar Center is committed to protecting the privacy of children. The Site is not directed to children under the age of 13, and Guitar Center does not collect or maintain personal information online from children we actually know are under the age of 13. Should we discover that we have collected personal information online from a child who is under 13, we will promptly delete that personal information. If you have concerns over the collection of children’s personal information online, please contact us at the address below. **How to Contact**
 
 If you have any questions or concerns about this Privacy Policy and/or if you want to exercise any of the rights that you are given under this Privacy Policy, please contact us by mail at:
 
