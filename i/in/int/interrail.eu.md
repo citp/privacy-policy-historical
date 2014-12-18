@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the interrail.eu privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530205955id_/http%3A//www.interrail.eu/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interrail.eu privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218200739id_/http%3A//www.interrail.eu/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interrail.eu
 
-At InterRail.eu, we are committed to protecting the online privacy of visitors to our website. This Policy applies only to the website and online services provided by InterRail.eu (hereafter referred to as "InterRail"). The purpose of this Policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
+At InterRail.eu, we are committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by InterRail.eu (hereafter referred to as "InterRail"). The purpose of this Policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
 
 InterRail adheres to and is in compliance with the Safe Harbor Privacy Principles developed in coordination with the European Union's Directive on Data Protection and the U.S. Department of Commerce.
 
 Topics on this page
 
-Information that we collect  
-How we use the information we collect  
+What information do we collect?  
+How do we use the information we collect?  
 Disclosure of information to third parties  
 Security of the information we collect  
 Accuracy of the information we collect  
  
 
-## Information that we collect
+## What information do we collect?
 
 ### Personal Information
 
@@ -71,7 +71,7 @@ You can find more information about cookies by visiting: [www.allaboutcookies.or
 
 This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy-service). We are using the information collected by ClickTale service to optimize the user experience of our site. You can choose to disable the service at: <http://www.clicktale.net/disable.html>.
 
-## How we use the information we collect
+## How do we use the information we collect?
 
 ### Our services and websites
 
