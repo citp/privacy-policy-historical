@@ -1,37 +1,17 @@
-> *The following text is extracted and transformed from the 2gb-hosting.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513142056id_/http%3A//www.2gb-hosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2gb-hosting.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - 2GB Hosting
+# Legal
 
-PRIVACY POLICY
+* * *
 
-This document outlines exactly what you are permitted and not permitted to do as a user of 2GB-Hosting. Note that by visiting 2GB-Hosting, you are an user of 2GB-Hosting and these rules apply to you. Using this site simply means visiting it, or downloading it.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-**Your Privacy is Important**
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-2GB-Hosting respects the privacy and sensitivity of any information you may give us, and strives to protect this information for its intended uses. This document is meant to clearly outline how personal information given to us will be used.
 
-**Information Collected and Uses**
 
-2GB-Hosting chiefly collects personal information during the registration process. During this process, the following information are mandatory:
-
-• Valid email address: The email address you provide us will only be used for account notifications, for example, when a video associated to your account is removed due to copyright concerns. It will also be used for statistics recovery and other affiliate services. Your email will not be disclosed to anyone
-
-**2GB-Hosting also runs 3rd-party advertisements and statistics software.**
-
-The information collected by these programs may include your IP address and various other non-personal information such as the city of your Internet Service Provider. In addition, your response to certain advertisements (e.g. by clicking on them) may cause the advertiser to profile you in a certain demographic, so as to provide ads more relevant to your needs. Rest assured that no personally-identifying information will be given to third-party ad servers. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
-
-If you decide to to contact us, your email and name will remain confidential and be used solely for communicating with you regarding the subject of the contact.
-
-Finally, any marked "public" videos published by you are published with the clear intention for them to be publicly viewable.
-
-**Our Commitment to Privacy**
-
-Your information will NOT be used for any purposes other than those outlined above. Information will not be sold or given willingly to a third party for any non-related purposes. Our web servers are securely hosted to prevent unauthorized access.
-
-In short, your information is safe at 2GB-Hosting
-
-Our Policy on Content Removal
-
-Please note that 2GB-Hosting reserves the right to remove any video uploaded by any user without issuing any kinds of notices. 2GB-Hosting respects the rights of content distributors and replies promptly to any requests for the removal of copyrighted content
-
-If you have found an infringing video, please contact us directly using the our [Contact Form](https://web.archive.org/contact-us).
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
