@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidegis.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608235532id_/http%3A//www.androidegis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidegis.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218191313id_/http%3A//www.androidegis.com/privacy-policy) for the most accurate reproduction.*
 
 # AndroidEgis | Privacy Policy
 
@@ -27,7 +27,7 @@ Android Egis is a web blog and it’s completely dedicated to Android operating 
 
 ## Content
 
-We link all of suggestions, opinions, media, articles, images, etc. to original resources. We do not try to share misleading detail but if you still find us wrong on any step, you may [contact us](http://www.androidegis.com/contact-us/).
+We link all of suggestions, opinions, media, articles, images, etc. to original resources. We do not try to share misleading detail but if you still find us wrong on any step, you may [contact us](http://www.androidegis.com/contact-us/). With lots of combinations of configurations and updates of software, we are unable to give everything free from risk.
 
 ## Modifications to This Privacy Policy
 
