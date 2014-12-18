@@ -1,43 +1,53 @@
-> *The following text is extracted and transformed from the gamewatcher.com privacy policy that was archived on 2012-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120517105653id_/http%3A//www.gamewatcher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamewatcher.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218215703id_/http%3A//gamewatcher.com/pages/privacy) for the most accurate reproduction.*
 
-# GameWatcher: Privacy Policy
+# Privacy Policy - GameWatcher.com
 
-GameWatcher respects your privacy and provides you with this privacy policy (“Privacy Policy”) so that you may understand the ways in which it does and does not use the information you transmit when visiting its website www.GameWatcher.com (“Website”). Please note that your use of the Website constitutes your acceptance of this Privacy Policy as well as our Terms of Use. Terms of Use
+####  Privacy Policy 
 
-IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE.
+Description
+    Game Watcher recognizes the importance of protecting the privacy of all information provided by users of gamewatcher.com. We created the following policy guidelines with a fundamental respect for our users' right to privacy.
+General
+    
 
-Please note that this Privacy Policy applies only to information submitted and collected online through the Website, and does not apply to information that may be collected by GameWatcher or its affiliates offline.
+Game Watcher uses reasonable precautions to keep the personal information disclosed to us secure and to never disclose such information to third parties.
 
-What Information is Collected  
-In order to optimize your experience on the Website, GameWatcher may collect information about you, but only if you voluntarily give it to us. We may ask you to submit personal and/or demographic information in connection with our online store, general support, and your registration with our Website. For example, GameWatcher may ask for personal information to better help it respond to customer service questions related to the Website. GameWatcher may also ask for an email address to communicate directly with a user about technology-related questions, and provide them with answers that they may find helpful. For some activities on the Website, you will be required to create a user name and password. For the purchase of games, you may be asked to provide additional information such as your credit card information (e.g., cardholder name, credit card number, expiration date and billing address, as well as other typically required information) in order to process and fulfill your order.
+Game Watcher is not responsible for the content or the privacy policies of websites to which we may provide links or the websites of our affiliates or advertisers.
 
-GameWatcher only collects personal information that it deems to be reasonably necessary to fulfill your online requests and our legitimate business objectives. To only browse certain content on the Website, you do not need to provide any personal information.
+Information Collected by Game Watcher
+    Game Watcher collects information about users during their registration and during their participation in certain activities on our website, including contests. When users request pages from our server, our Web server automatically collects some information about the users, including their IP addresses. These addresses are used by computers on the network to send the requested pages to users.
+Use of Information
+    
 
-Use and Disclosure of Information  
-Generally, the personally identifiable information collected by GameWatcher will only be used for the particular purpose for which it was collected. GameWatcher may also transfer, disclose or share your personally identifiable information with partners and affiliates, and third parties who may be engaged by it specifically to handle and deliver certain activities necessary to operate GameWatcher´s business (e.g., processing orders and payments; these third parties only have access to personal information needed to perform their functions. Additionally, in the event of a corporate reorganization (e.g., all or substantially all of the assets relating to GameWatcher are transferred or sold to another entity), personally identifiable information submitted to GameWatcher may be transferred to the acquiring entity. GameWatcher may also disclose personally identifiable information to third parties in order to comply with federal, state or local laws, in response to requests by law enforcement agencies, to enforce its Terms of Use, or to protect the rights, property or safety of its Website, users of its Website and others. We may also occasionally use your email address to send you announcements regarding our business that may be of interest to you.
+Game Watcher does not reveal any personal information that users provide to us to any third party without their permission.
 
-GameWatcher requests that anyone under the age of 18 not send any personal information about themselves over the Internet unless sent under the supervision of their parent or guardian. We do not knowingly collect personal information such as name and email address from children under 13 years old on our Website. We believe it is important to safeguard the privacy of children and encourage parents to regularly monitor their children&acutes use of online activities.
+Game Watcher uses users' IP addresses to help diagnose problems with our server and to administer our website. We also use it to gather broad demographic information about our users in general. We may combine demographic information supplied by a subscriber at registration with site usage data to provide profiles, in aggregate form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers to help them better understand our services, but Game Watcher does not give advertisers information about individual users of Strategy Informer.
 
-Cookies and Log Data  
-A cookie is information a website places on your computer&acutes hard drive so that the website is able to remember your preferences and/or which pages you visited on the website and make your visit more efficient and enjoyable. GameWatcher may use cookies to determine the number of unique visitors to its Website over a given period, or to remember user screen names so that the need for multiple log-ins is eliminated. It may combine information collected through cookies to any personal information submitted online when using its Website to help personalize a user&acutes visit to the Website. Cookies may be disabled on your computer by indicating this in the preferences or options menus in your browser.
+Game Watcher uses cookies to deliver content specific to users' interests and to honor their preferences. This information is used to assist us in creating a site that will serve the needs of our users.
 
-GameWatcher may collect data in the form of logs. Log data collected on web servers supplies GameWatcher with aggregate information about the number of visits to different pages on its Website and other navigational data.
+Advertising
+    
 
-Ordering from GameWatcher  
-Along with information provided at registration, visitors that make purchases through the Website are asked to provide certain personally identifiable information, such as full name, billing address, email address, phone number and credit card number/expiration date. Please note that you must be the age of 18 or older to make purchases through the Website.
+Game Watcher may use user entered information in combination with site usage information to help display advertisements relevant to the users interest and navigation patterns. Game Watcher may use cookies to help in tracking these patterns but does not store or collect an personal data in combination with user supplied information.
 
-Once customers have successfully entered valid credit card information and completed the order process, a purchasing account will be created and maintained for them. If customers do not complete the order process, the information they submitted during the order process will not be captured by GameWatcher&acutes systems. GameWatcher uses the information provided to process the customer´s order and to send order confirmations via email. GameWatcher does not sell, transfer or share customer information with third parties, except when the information is transferred, disclosed and shared with its third-party agent(s) who uses the information solely to handle and deliver certain online activities necessary to operate GameWatcher&acutes business (e.g., processing orders and payments).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
 
-During the checkout process, customers may occasionally be provided the opportunity to receive newsletters, sales and promotions from GameWatcher. To be removed from the contact list at any time, customers can elect to unsubscribe in the next email they receive from GameWatcher.
+Public Forums
+    Game Watcher makes message boards available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Children's Guidelines
+    Although Game Watcher does not specifically seek to obtain any information from children, there are certain areas of our website that children may visit. We urge children to only give us any information after they have discussed it with their parents.
+Contacting the Web Site
+    
 
-GameWatcher is always looking for ways to improve your experience on the Website. GameWatcher may at times solicit additional personally identifiable information to help it to offer new GameWatcher products and services that may be of interest to you.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with Strategy Informer, you can contact:
 
-Security  
-GameWatcher has taken steps to ensure that the personally identifiable information it collects is secure, including employing electronic security systems and password protections designed to guard against unauthorized access.
+Crypta d.o.o
 
-Please note that GameWatcher may provide links to other websites that are operated and hosted by third parties who may have their own information collection practices. These other websites are governed by their own privacy policies, which may be substantially different from GameWatcher&acutes policy. Visitors to other websites are encouraged to review the privacy policies and information collection practices of those websites.
+Kresimirova 1
 
-Questions, Comments or Complaints  
-If you have any questions, comments or complaints regarding this Privacy Policy, please contact us at support [ at ] gamewatcher.com
+51000 Rijeka
 
-This Privacy Policy is subject to change. GameWatcher will notify you of material changes by posting them at its Website. You are encouraged to check back and review this Privacy Policy from time to time so that you will always know what information is collected how it is used and to whom it is disclosed.
+Croatia
+
+Or [contact us](https://web.archive.org/contact_us) via email. Crypta d.o.o. is the owner of GameWatcher.com. 
+
+###  Trending Digital Sales Hunted by Gamehour
