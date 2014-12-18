@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreecast.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610035203id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreecast.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218061026id_/http%3A//about.spreecast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – About Spreecast
 
