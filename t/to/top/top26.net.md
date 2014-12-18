@@ -1,23 +1,17 @@
-> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212132432id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Top 26 Gaming
+# Legal
 
-there are currently 618 visitors online!
+* * *
 
-[](http://www.top26.net/)
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-Welcome to the Top 26 Gaming sites, providing the best free gaming and emulation links **since 2001**. You should bookmark this site now, as we always have the newest and best gaming sites, updated daily! We do not allow any sites which have force voting or excessive popup's, so where ever you click you will always get a quality link! Looing for funny videos? You can watch the latest [funny videos](http://www.viduu.com/ "Funny Videos") and funny video clips at [Viduu](http://www.viduu.com/ "Funny Video Clips"). 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-Sites with [](https://web.archive.org/hqicon.html) icon are particularly high quality - Votes in are reset **every day** at 5am GMT.
 
-**Privacy Policy**
 
-Top 26 Gaming does not sell, rent, or give out any information about our visitors. This includes email addresses, IP addresses, or any other type of information we might collect. 
-
-Top 26 Gaming does not collect any unique information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information. 
-
-Top 26 Gaming currently collects information about browser types, operating systems, screen resolution, screen colors, and other information which we can use to help design our web sites. These are basic computer stats which can only be used to make a small demographic of the types of computers people have. 
-
-Top 26 Gaming is not responsible for anything on its affiliates websites. The sites linked to by Top 26 Gaming are developed by people over whom Top 26 Gaming exercises no control. These other sites may send their own cookies to users, collect data, or solicit personal information. We recommend going to the affiliates website for information on their privacy policy. 
-
-All question about Top 26 Gaming's privacy statement should be e-mailed to: webmaster@top26.net. Feel free to contact us any time and we'll answer any additional questions you may have. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
