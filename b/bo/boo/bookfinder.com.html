@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the bookfinder.com privacy policy that was archived on 2014-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140610093248id_/http%3A//www.bookfinder.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookfinder.com privacy policy that was archived on 2014-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141218110457id_/http%3A//www.bookfinder.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-us"><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.8.3.min.js"></script>
-<script type="text/javascript" src="/js/jquery.cookie.js"></script>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://i.bookfinder.com/js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="http://i.bookfinder.com/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://i.bookfinder.com/site/js/overlib/overlib_mini.js"></script>
+<script type="text/javascript" src="http://i.bookfinder.com/js/pageload.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
 <script type="text/javascript">
     function trackOutboundLink(event, link, category, action) {
         try {
@@ -37,22 +39,17 @@
 <link rel="apple-touch-icon" href="http://i.bookfinder.com/images/icon/apple-touch-icon.bf.png">
 <link rel="search" type="application/opensearchdescription+xml" href="http://www.bookfinder.com/site/opensearch/" title="BookFinder.com">
 <link rel="canonical" href="http://www.bookfinder.com/about/privacy/">
-<meta name="description" content="Find and price compare new and used books from 60+ stores, including textbooks and international titles.">
-<meta name="robots" value="noodp">
+<meta name="robots" content="noodp">
 <script type="text/javascript">
-function allocation(name, cells){
+function deallocation(name) {
     var cell = $.cookie('ab-test-' + name);
-    if (cell) return cell;
-    var random = Math.random();
-    if (random < 0.5){
-        cell = cells[0];
-    } else {
-        cell = cells[1];
+    if (cell) {
+        $.removeCookie('ab-test-' + name);
     }
-    $.cookie('ab-test-' + name, cell, {expires: 30, path: '/'});
-    return cell;
 }
 $(document).ready(function(){
+    deallocation('isbn-results');
+    
     $("#search_form").submit(function(e) {
         optinForm = this;
         if (window._gat) {
@@ -79,14 +76,7 @@ $(document).ready(function(){
             setTimeout(function() { optinForm.submit();}, 25);
         }
     });
-    
-    allocation('isbn-results', ['on', 'off']);
 });
-var cell = $.cookie('session_id');
-if (cell === undefined) {
-   var seed = Math.floor(Math.random() * 100);
-   $.cookie('session_id', seed, {path : '/'});
-}
 </script>
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -99,21 +89,17 @@ var _gaq = _gaq || [];
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<script language="javascript" type="text/javascript">
-<!--
-if (top != self) {
-    top.location.href = location.href;
-}
-//-->
-</script>
 </head>
-<!-- SI:/hn=/hp=7/cp=27/mu=15/la=0.1/df=21/bx=2xeoncpue5.2394.17084/up=3.54/ -->
+<!-- SI:/hn=/hp=16/cp=38/mu=22/la=0.2/df=22/bx=8xeoncpue5.2793.15046/up=7.70/ -->
 <body class="">
 <!-- start yui grids doc, sidebar on right -->
 <div id="doc3" class="yui-t4">
 <div id="hd"> <!-- start yui grids header -->
   <div align="center" id="header">
-    <!-- 10.31.129.136 -->
+    <!-- 10.101.145.177 -->
+<script type="text/javascript">
+    _gaq.push(['_trackEvent', 'AB-Testing', 'ebooks-sws-' + "a_a",,, true]);
+</script>
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
 <tbody><tr id="header-row-1">
   <td align="left" id="header-section-logo">
@@ -139,14 +125,42 @@ if (top != self) {
 <form action="http://www.bookfinder.com/search/" method="GET" accept-charset="iso-8859-1" name="header-search-form" id="header-search-form" class="header-search-form">
 <div style="padding: 2px; font-size: small">
 <label style="display: none">Search Author, Title or ISBN   </label>
-<input style="font-size: small; color: rgb(136, 136, 255);" id="header-search-form-input" name="keywords" type="text" value="" size="45" tabindex="200">
+<input style="font-size: small" id="header-search-form-input" name="keywords" type="text" value="" size="45" tabindex="200">
+    <input type="hidden" value="" name="new_used">
+  <input type="hidden" value="" name="lang">
 <input type="hidden" name="st" value="sh">
 <input type="hidden" name="ac" value="qr">
-<input type="hidden" name="new_cache" value="on">
 <button style="background-color: #ececff; font-size: small" type="submit" name="submit" tabindex="201">Go</button>
 </div>
 </form>
 <script type="text/javascript" language="javascript">
+ $(document).ready(function(){
+       $('#header-search-form').on('submit', function(){
+            var languageInputField = $("[name|=lang]");
+            if (languageInputField.length > 0) {
+               var language = $(languageInputField[0]).val();
+                if (language === 'any') {
+                    var prefs = $.cookie('search_prefs');
+                    if (!prefs) {
+                        lang = 'no cookie';
+                    } else {
+                        var langIndex = prefs.indexOf('lang&');
+                        if (langIndex === -1) {
+                            lang = 'not set';
+                        } else {
+                            var searchStringLength = 'lang&'.length;
+                            var MAX_LANG_LENGTH = 3;
+                            var lang = prefs.substring(langIndex + searchStringLength, langIndex + searchStringLength + MAX_LANG_LENGTH);
+                            if (lang.indexOf('&') !== -1) { //language preference has a '&' on the end of it
+                              lang = lang.substring(0, lang.indexOf('&'));
+                            }
+                        }
+                    }
+                    _gaq.push(['_trackEvent', 'AnyLanguage', lang,,,true]); 
+                }
+            }
+        }); 
+ });
  if (document && document.getElementById &&
     document.getElementById('header-search-form-input')) {
     var def = 'Search Author, Title or ISBN   ';
@@ -305,11 +319,12 @@ called "ad networks" or "network advertisers"), including information about how 
 Search for books in...&nbsp;
 
 
-<a href="http://www.bookfinder.com/dutch_books/?ref=bf_uu_ft_l1">Dutch</a>&nbsp;
-<a href="http://www.bookfinder.com/french_books/?ref=bf_uu_ft_l2">French</a>&nbsp;
-<a href="http://www.bookfinder.com/german_books/?ref=bf_uu_ft_l3">German</a>&nbsp;
-<a href="http://www.bookfinder.com/italian_books/?ref=bf_uu_ft_l4">Italian</a>&nbsp;
-<a href="http://www.bookfinder.com/spanish_books/?ref=bf_uu_ft_l5">Spanish</a>&nbsp;
+<a href="http://www.bookfinder.com?lang=any&amp;mode=advanced&amp;ref=bf_uu_ft_l1">Any Language</a>&nbsp;
+<a href="http://www.bookfinder.com/dutch_books/?ref=bf_uu_ft_l2">Dutch</a>&nbsp;
+<a href="http://www.bookfinder.com/french_books/?ref=bf_uu_ft_l3">French</a>&nbsp;
+<a href="http://www.bookfinder.com/german_books/?ref=bf_uu_ft_l4">German</a>&nbsp;
+<a href="http://www.bookfinder.com/italian_books/?ref=bf_uu_ft_l5">Italian</a>&nbsp;
+<a href="http://www.bookfinder.com/spanish_books/?ref=bf_uu_ft_l6">Spanish</a>&nbsp;
 
 </div>
 <!-- end language mode line -->
@@ -324,8 +339,8 @@ Search for books in...&nbsp;
 
 </font></div><font color="#B40404"> <!-- end footer -->
 
-<!-- SI:/hn=/hp=7/cp=27/mu=15/la=0.1/df=21/bx=2xeoncpue5.2394.17084/up=3.54/ -->
-<!-- TM:/ABsh1=0.00/ABsh2=0.00/ -->
+<!-- SI:/hn=/hp=16/cp=38/mu=22/la=0.2/df=22/bx=8xeoncpue5.2793.15046/up=7.70/ -->
+<!-- TM:/ABsh1=0.00/ABsh2=0.00/TOga=0.00/ -->
 
 
 </font></div><font color="#B40404"> <!-- end ft -->
