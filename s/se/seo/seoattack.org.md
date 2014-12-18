@@ -1,37 +1,17 @@
-> *The following text is extracted and transformed from the seoattack.org privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025155116id_/http%3A//www.seoattack.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoattack.org privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# SEO Attack | Free, Easy and Simple Backlink Analysis
+# Legal
 
-  
-**_Collected Information - Voluntary_**   
-Attack Suite does not collect or obtain any personal or contact information about its users without their express, prior permission. 
+* * *
 
-Users can, at their option, opt to join the Attack Suite email newsletter. Attack Suite uses a reputable, CAN-SPAM compliant newsletter management service. Attack Suite only sends email communications to users who specifically request information about affiliate marketing or internet business. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-If a subscribed user wishes to unsubscribe from the newsletter for any reason, he or she may do so instantly by following the automated unsubscribe link, located in the footer of every email. In addition, the user may email us at support@attacksuite.com, or by mail at: 
-
-Attack Suite  
-c/o 2245787 Ontario Inc  
-88 Dellgrove Circle  
-Cambridge Ontario  
-Canada    N1T 2J9  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-  
-The data collected by our newsletter system will be used for marketing purposes related to topics on affiliate marketing, internet business or similarly relevant content. 
 
-The data will not be shared, sold, rented or distributed to any other party for any reason. 
-
-The only exception to this is if Attack Suite is sold to a third-party, at which time data may be transferred to the new owner. Subscribed users will promptly be made aware of any such activity before any data is transferred, and will be given sufficient time to unsubscribe if they choose not to have their information transfered to the new ownership. 
-
-**_Collected Information - Involuntary_**
-
-The only information collected involuntarily from all visitors is basic geographic, referral, on-site navigation patterns and IP information for the purpose of tracking our website traffic statistics. We use this data in order to improve our website & user experience, as well as measuring the effectiveness of our advertising & marketing efforts. 
-
-Data is not evaluated on a "user by user" basis, but rather in the aggregate on a mass scale. We look at the overall patterns based on the statistical information collected from thousands of visitors. 
-
-The data is collected (and stored) by our preferred & reputable traffic analysis service. The data is stored securely and is not publicly available. Only Attack Suite (ownership & staff) can access this statistical data, without exception. 
-
-This data is collected through the use of a simple javascript script on each page of Attack Suite, and does not interfere with or affect the user's internet browsing program whatsoever. 
-
-Attack Suite does NOT use spyware, adware, viruses, trojans or otherwise any invasive, involuntary methods to increase incoming traffic, or otherwise for any other purpose. 
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
