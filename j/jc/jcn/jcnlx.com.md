@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jcnlx.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045237id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcnlx.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203114id_/https%3A//secure.my.jobs/privacy) for the most accurate reproduction.*
 
 # Privacy policy for My.jobs
 
-This Privacy Policy covers the collection, use and disclosure of information collected through the My.jobs and Universe.jobs websites, owned and operated by DirectEmployers Association (hereafter, “DE”, “We”, “Us”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This Privacy Policy covers the collection, use and disclosure of information collected through the My.jobs website, owned and operated by DirectEmployers Association (hereafter, “DE”, “We”, “Us”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 [ ](https://privacy.truste.com/privacy-seal/DirectEmployers-Association/validation?rid=39667ce1-6884-4b85-a86b-cd9a659f9e31 "TRUSTe online privacy certification")
 
-DirectEmployers Association has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the My.jobs and Universe.jobs websites and does not cover information that may be collected through any mobile applications, devices or third party affiliates and partners. 
+DirectEmployers Association has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the My.jobs website and does not cover information that may be collected through any mobile applications, devices or third party affiliates and partners. 
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@my.jobs](mailto:privacy@my.jobs). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
@@ -38,7 +38,7 @@ We collect the following personal information from you when you visit our websit
 
 ### Information Sharing
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell, rent or otherwise distribute your personal information to third parties. 
+We will share your personal information with third parties only in the ways that are described in this privacy policy. These companies are authorized to use your personally identifiable information _only as necessary to provide these services to us._ We do not sell, rent or otherwise distribute your personal information to third parties. 
 
 ##### The My.jobs Platform
 
@@ -71,25 +71,19 @@ If you wish to subscribe to our newsletter(s), we will use your name and email a
 
 ##### Tracking Technologies / Cookies
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on our sites to identify and track visitors, their usage of our websites, and their website access preferences across multiple requests and visits. We link the information we store in cookies to personally identifiable information you submit while on our site. 
-
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. If you reject cookies, you may still use our site, but the functionality of some areas of our site will be limited. 
-
-##### Web Beacons / Pixels
-
-The analytics service we employ uses a software technology called clear pixels (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear pixels are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online activities of website users. In contrast to cookies, which are stored on a user’s computer hard drive, clear pixels are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear pixels to your personally identifiable information. 
+Technologies such as: cookies, beacons, tags and scripts are used by DirectEmployers Association, our member companies and our partners (talent networks, partner job sites, company microsites and career sites), affiliates, or analytics or service providers (error and performance tracking and monitoring, traffic analysis). These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to remember users’ settings, sites visited and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
 
 ##### Analytics / Log Files
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information. 
 
-##### 3rd Party Tracking
-
-The use of tracking technologies by our service providers, technology partners or other 3rd party assets (such as social media) on the site is not covered by our privacy policy. These 3rd parties may use cookies, clear pixels, images, and scripts to help them better manage their content on our site. We do not have access or control over these technologies. We do not tie the information gathered to your personally identifiable information. 
-
 ##### Behavioral Targeting / Re-Targeting
 
-We may partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+We may partner with a third party ad network to either display advertising on our website or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other websites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/) (if located in the European Union, click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+
+##### Local Storage Objects
+
+We may, in the future, use Local Storage Objects (LSOs) such as HTML5 or Flash to store content and preferences related to user-interface manipulation and display. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here:](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
 ### Security
 
@@ -114,3 +108,13 @@ Our website includes Social Media Features, such as the Facebook Like button, li
 ##### Changes To This Policy
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+##### Contact Us
+
+DirectEmployers Association  
+Suite 100  
+N. Purdue Rd  
+Indianapolis, IN 46268  
+(317) 874-9000  
+privacy@my.jobs  
+
