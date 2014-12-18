@@ -1,30 +1,17 @@
-> *The following text is extracted and transformed from the morehitz.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203182452id_/http%3A//www.morehitz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morehitz.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# MoreHitz.com - Increase Website Traffic with our Guaranteed Web Traffic Packages!
-
-We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to **MoreHitz.com** will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to **[_let us know_](https://web.archive.org/web/20050203182452id_/http%3A//www.morehitz.com/contact_us.htm)**  .
+# Legal
 
 * * *
 
-****Resale or disclosure of information to third parties:****
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-> **MoreHitz.com** does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership forms or email lists.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-  
-****Browser information collected on the website:****
 
-> **MoreHitz.com** analyzes our website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
 
-  
-****Use of cookies:****
-
-> We do not use cookies on this site.
-
-**  
-**Privacy of email addresses:****
-
-> **MoreHitz.com** maintains records of the email addresses of all customers soley for the purpose of corresponding with customers to co-ordinate purchased advertising campaigns. We do not sell, rent, loan, trade, or lease the addresses to anyone. UNDER NO CIRCUMSTANCES will these email addresses be used for solicitations from any 3rd party.
-
-****Contact Us:****
-
-> > **MoreHitz.com** is committed to customer satisfaction. Contact us any time: [**_webmaster@MoreHitz.com_**](mailto:webmaster@MoreHitz.com)
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
