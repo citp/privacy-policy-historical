@@ -1,42 +1,97 @@
-> *The following text is extracted and transformed from the jennycraig.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523091916id_/http%3A//jennycraig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jennycraig.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218185643id_/http%3A//jennycraig.com/site/privacy) for the most accurate reproduction.*
 
-# Jenny Craig Privacy Policy
+# Weight Loss Programs & Diet Plans | Jenny Craig Official Site
 
 ## General
 
-Many of the ways in which you interact with the Jenny Craig Web site (the "Site") allow us to learn about you. We collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. For example, we track the number of people who view each page to learn which features are the most popular. In most instances, we do not obtain personally identifiable information about you. 
+Many of the ways in which you interact with the Jenny Craig Web site ([www.jennycraig.com](http://www.jennycraig.com/) and [www.jennycraig.ca](http://www.jennycraig.ca/)) (each, a “Site”) and the Jenny Craig mobile app (the “App”) allow us to learn about you. This Privacy Statement describes the type of information we collect from you when you visit our Site or use our App and explains how Jenny Craig may use and disclose such information, as well as your ability to control certain uses of it.
 
-In those instances where we do collect personally identifiable information, you have the option of choosing whether or not to reveal it to us. Some examples of when you voluntarily submit this kind of information include (but may not be limited to) when you fill out the registration page, send us feedback, or post in our chat rooms or message boards. Personally identifiable information you may choose to provide include your name, physical address, email address, telephone number, other information such as your current weight and goal weight, or a credit card number, provided in association with other personally identifiable information. If you do not provide all "required" information, however, some portions of our site will not work properly for you, or you may be denied access to certain sections of the Web site.   
-In the event of a complaint, we may also receive personally identifiable information about you from other parties or from other users or third parties who may communicate information to us about you in relation to that complaint. 
+## INFORMATION COLLECTION
 
-## How We Use and Disclose Your Information
+## Information You Provide
 
-We do not sell your email addresses or your name and personal demographic information to mass marketers. We use your information on personal and aggregated basis to do such things as distribute email communications, operate our site, enhance our site, and sell and deliver advertising. We also use this data, both aggregated and personally identifiable, to enhance your on-site experience by displaying content and marketing messages that we believe will be of interest to you. We may disclose aggregated information about our site to third parties for purposes of analyzing our Web site traffic and optimizing how we lay out content on the site. 
+Jenny Craig collects information from you when you choose to share it with us to use our Site or App, create an online account with us, request information from us, sign up for newsletters or our email list, post in our chat rooms or message boards, or otherwise contact us. The information we collect may include your name, physical address, email address, telephone number, photo/image, gender, date of birth, health information such as your current weight and goal weight, food consumption, and measurements, and, if you are a Jenny Craig customer, a credit/debit card number or other financial information. You have the option of choosing whether or not to reveal personally identifiable information to us. If you do not provide all “required” information, however, some portions of our Site or App will not work properly for you, or you will not be able to register or access certain sections of the Site. In the event of a complaint, we may also receive personally identifiable information about you from other parties or from other users or third parties who may communicate information to us about you in relation to that complaint. 
 
-We may share information collected through transactions (either online or at a local Centre), like names, addresses, and purchase history, under contracts with non-Jenny Craig companies such as printers, mail houses, and list management companies that help Jenny Craig inform you of products or special offers to which you may be entitled. All companies with which we do business have agreed to be bound to this Privacy Policy restraints and will not sell, rent, or otherwise transmit your personal information. 
+We may combine the information you provide to us with information (1) from and about you that we automatically collect when you use Jenny Craig’s Sites or App, (2) we collect when you visit a Jenny Craig Center, or (3) from other online and offline sources in an effort to provide you with a seamless experience, better serve your needs, and provide you with content and advertising that is more relevant to your interests.
+
+## Information Automatically Collected
+
+We may use cookies, web beacons, log files, or other technologies to collect certain information about visitors to and users of our Sites and App, to deliver online advertisements that we think would be more relevant to your interests, and to monitor interactions with our emails and online advertisements. For example, we may automatically collect certain non-personal information from you, including but not limited to your browser type, operating system, Internet Protocol (“IP”) address, software version, and the domain name from which you accessed the Site or App. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site or App, the areas or pages of the Site or App that you visit, the amount of time you spend viewing or using the Site or App, the number of times you return to the Site, other click-stream or Site or App usage data, and emails or ads that you open, forward or click-through to our Site or App.
+
+We may also use third party advertisements to support our Sites and App. Some of these advertisers may use technology such as cookies, web beacons, or log files when they advertise on our Sites or App, which may send these advertisers information, including your non-personal information.
 
 ## Cookies and Other Tracking Methods
 
-Cookies are small pieces of information stored on your hard drive, not on our Site. We use cookies or, in a limited number of cases, IP addresses, for a number of reasons. First, cookies allow you to store your password without having to constantly re-enter it. Second, cookies can also help us to tailor our Site or a marketing message to better match your needs and interests. Third, cookies allow us to better understand how users use our Site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our Site may not work properly if you do.
+Cookies are small pieces of information that are stored on your hard drive when you visit our Site. We use cookies or, in a limited number of cases, IP addresses or other tracking tools, for a number of reasons. For example, these tools may (a) allow you to store your password without having to constantly re-enter it; (b) help us to tailor our Site or a marketing message to better match your needs and interests; and (c) allow us to better understand how you and others use our Site, which in turn helps us focus our resources on features that are the most popular. You are always free to decline our cookies if your browser permits, but some parts of our Site may not work properly if you do. Check the “Help” menu of your browser to learn how to change your cookie preferences. To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices about not having this information used by certain Service Providers (defined below), please click [here](http://www.aboutads.info/choices/). 
 
-## Other Sites
+## Information from Other Sources
 
-Please note that if you provide any information on your own to parties who provide service to us or to any other sites you encounter on the Internet (even if these sites are branded with our branding), different rules may apply to their use or disclosure of the personal information you disclose to them. We encourage you to investigate and ask questions before disclosing information to third parties.
+## Information Use
 
-## Limits on Our Abilities
+Jenny Craig may use the information we collect from and about you for any of the following purposes:
 
-Although your privacy is important to us, we cannot ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Additionally, in the event we need to investigate or resolve possible problems or inquiries, we can (and by use of our Site you authorize us to) disclose information about you to private entities, law enforcement, or other government officials as we, in our discretion or as may be required under law, believe necessary or appropriate.
+  * To operate our Site; 
+  * To enhance our Site; 
+  * To sell and deliver customized Site and App content, targeted offers and advertising on the Site or App, on other sites or apps, or via email; 
+  * To analyze our Site or App traffic and optimize how we lay out content on the Site or App;
+  * To fulfill orders, provide service and communicate with customers;
+  * To research and develop new products or services;
+  * To post reviews of products and services our Site or App;
+  * To respond to your inquiries;
+  * To contact you with information, newsletters, and promotional materials from Jenny Craig;
+  * To contact you when necessary;
+  * To review the usage and operations of our Site or App and improve our content, products, and services;
+  * To address problems with the Site, App, or our business;
+  * To promote the Site or App;
+  * To manage our telecommunications networks;
+  * To protect the security or integrity of the Site, App, and our business; 
+  * As described to you at the point of data collection; and
+  * To use and disclose your credit/debit card information only to process payments and prevent fraud.
+
+
+
+## Information Disclosure
+
+We do not sell your email addresses or your name and personal demographic information to third parties. We may share information collected through transactions (either online or at a local Center), like names, addresses, and purchase history, under contracts with our Service Providers.
+
+Jenny Craig may also disclose the personal information we collect from and about you as follows: (1) to our Service Providers, if the disclosure will enable them to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of the Jenny Craig Terms of Use or of our rights or the rights of any third party; (3) to respond to judicial process and provide information to law enforcement or regulatory agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) as described to you at the point of collection.
+
+Jenny Craig may share aggregate or anonymous non-personal information with third parties.
+
+Also, Jenny Craig may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this Site in a manner that is consistent with this Privacy Statement.
 
 ## Security
 
-We use industry-standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers where appropriate. However, "perfect security" does not exist on the Internet. Jenny Craig encourages you to learn as much as you can about your privacy on the Internet.
+We take certain physical, administrative, and technical steps to safeguard the confidentiality of the information we collect from and about our customers and Site visitors. Although your privacy is important to us, we cannot guarantee our security measures. Jenny Craig encourages you to learn as much as you can about your privacy on the Internet. 
 
-## Changes To The Website
+When you enter sensitive personal information (such as credit card information), we encrypt the transmission of that information using Secure Socket Layer technology (SSL).
 
-We may change, move, or delete portions of, or may add to, our Site from time to time.
+## Service Providers
+
+Jenny Craig may contract with third parties to perform functions related to the Site (“Service Providers”). Service Providers will have access to your information needed to perform their business functions, but may not use or share that information for other purposes. All companies with which we do business have agreed to be bound by the terms of this Privacy Statement and will not sell, rent, or otherwise transmit your personal information to third parties.
+
+## Public Forums & Reviews
+
+Any information that you may disclose on our Sites or App such as in blogs, on message boards, in chat rooms, or on other public areas on the Site or App, becomes public information. Please exercise caution when disclosing personal information in these public areas. If you terminate your account, we may continue to show some of your content in anonymized form. 
+
+## Links to Other Websites
+
+The Sites and App may have links to third-party websites or applications, which may have privacy policies that differ from our own. We are not responsible for the practices of such sites or applications. Please note that if you provide any information on your own to third parties, different rules may apply to their use or disclosure of your personal information. We encourage you to investigate and ask questions before disclosing information to third parties.
+
+## Our Commitment to Children’s Privacy
+
+Protecting children’s privacy is important to us. We do not direct the Sites or App to, nor do we knowingly, collect any personal information from children under the age of thirteen.
+
+## Access to Your Personal Information
+
+You may sign into your account or contact Customer Service or your Jenny Craig At Home Representative to update your profile information stored by Jenny Craig.
 
 ## Updates
 
-Written notice of modifications to the Privacy Policy will be posted on this Web site and announced in our monthly email newsletter (to register for this newsletter, please create or edit your eTools account). Your use of our Site following any such change constitutes your agreement to follow and be bound by the terms as changed. 
+Jenny Craig reserves the right to revise this Privacy Statement at any time. Written notice of modifications will be posted on the Site or App and announced in our monthly email newsletter (to register for this newsletter, please create or edit your eTools account). If we change the Privacy Statement in a material way, we will provide appropriate notice to you. Your continued use of our Sites or App following any such change constitutes your agreement to follow and be bound by the terms as changed. 
 
-Revised July 1, 2004 
+## If You Have Questions
+
+If you have questions about this Privacy Statement or the practices described herein, you may contact us at 1-800-JennyCare (536-6922).
+
+Effective Date: October 2013 
