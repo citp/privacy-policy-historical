@@ -1,72 +1,17 @@
-> *The following text is extracted and transformed from the remaxbeta.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530054430id_/http%3A//www.remax.com/misc/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remaxbeta.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | RE/MAX, LLC.
+# Legal
 
-At RE/MAX, LLC. your privacy is very important to us. The purpose of this privacy policy is to provide you with a description of the types of information we collect about you when you visit the remax.com web site (the "Web Site"), and how we use that information. By visiting or using the Web Site, you agree to the provisions of this privacy policy. If you do not agree to the terms of this Policy, please do not use the Web Site.
+* * *
 
-This policy only applies to information collected while you are on the Web Site. For more information on how the Web Site may redirect you to other web sites, please see the Links and Redirection to Third Party Sites section below.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-### Information We Collect
-
-We collect and store information that you voluntarily provide to us as well as data related to your Web Site visit and usage.
-
-We collect personally identifiable information (including, but not limited to, name, address and phone number) that is voluntarily provided to us by you. For example, you voluntarily provide personally identifiable information when you send us an email, use certain features of the Web Site such as registering for My RE/MAX or the "Contact an Agent" feature or participate in a survey or sweepstakes.
-
-In addition, during your visit we automatically collect certain aggregate information related to your Web Site visit. Aggregate information is non-personally identifiable or anonymous information about you, including the date and time of your visit, your IP address, your computer browser information, the Internet address that you visited prior to and after reaching the Web Site, the name of the domain and host you used to access the Internet, and the features of our Web Site which you accessed.
-
-### Use of Cookies
-
-"Cookies" are simple text files stored on your computer for use by a browser. Certain Web Site features may only be available through the placement of a cookie. We may use "cookies" to assist in data collection and to track visitor Web Site usage and trends to help us better serve you. The use of cookies is a standard practice among Internet web sites; most Internet browsers permit a user to accept, decline or delete cookies. This Web Site works with a first party cookie that collects anonymous traffic data at the Web Site.
-
-### How We Use Information
-
-We use collected information to make available and to improve our high standard of reliable services. We use such information to:  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-### Disclosure of Information
 
-When you search for a property, we will redirect you to the site of an independently owned and operated RE/MAX franchise office and provide information you have submitted to us, including the parameters of the search, and if you have registered, your contact information, to that office. Similarly, if you request to be contacted by an agent or office or otherwise request information from us, we will disclose the personally identifiable information you provide to appropriate affiliates of RE/MAX to satisfy your request.
-
-We do not sell or rent personally identifiable information to third parties who are not affiliates of the RE/MAX franchise network. We may disclose personally identifiable information to appropriate affiliates of RE/MAX, including strategic alliance affiliates and third party service providers, to respond to a request for service or to provide information about available products or services. 
-
-We may share aggregate (non-personally identifiable) information with certain third parties such as advertisers, national industry organizations, and prospective affiliates. In addition, we reserve the right to disclose aggregate information and personally identifiable information to third parties as required or permitted by law and when we believe that disclosure is necessary to protect our rights.
-
-### Links and Redirection to Third Party Sites
-
-The Web Site contains links to third party web sites and may redirect you to third party web sites.("Third Party Sites") These include sites of:  
-
-
-  
-
-
-Third Party Sites are not under the control of RE/MAX, LLC, and RE/MAX, LLC is not responsible for such Third Party Sites, including without limitation the accuracy, sufficiency, correctness, reliability, veracity, completeness, or timeliness thereof, any link contained therein, or any changes or updates thereto. The inclusion or access to Third Party Sites does not imply an endorsement thereof by RE/MAX, LLC, or of the provider of such content or services, or of any third party web site. RE/MAX, LLC reserves the right to terminate any link or linking program at any time. 
-
-Please be aware that when you enter a third party web site, any information you provide, including financial information, is subject to the terms of use and privacy policy of that site.
-
-### Childrens Privacy
-
-This Web site is not directed toward children, and we do not knowingly collect information from children.
-
-### Effective Date; Policy Changes
-
-Each time you use the Web Site, the current version of the policy will apply. Accordingly, when you use the Web Site, you should check the date of this policy (which appears at the top of the policy) and review any changes since the last version. We reserve the right to add to, change, update or modify this Privacy Policy at any time and without notice other than simply posting such changes, update or modification on this Web Site. Any such change, modification or update will be effective immediately upon posting on the Web Site.
-
-### Lost or Stolen Information
-
-You must promptly notify us if you become aware that any information provided by or submitted to this Web Site is lost, stolen, or used without permission.
-
-### Limitation of Liability
-
-UNDER NO CIRCUMSTANCES SHALL RE/MAX, LLC BE LIABLE FOR ANY DAMAGES (INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, CONSEQUENTIAL, LOST PROFITS OR LOST REVENUE) THAT RESULT FROM THE USE OF THE INFORMATION OR MATERIALS ON THIS WEB SITE, EVEN IF RE/MAX, LLC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-
-### Governing Law
-
-This policy is governed by the laws of the State of Colorado without giving effect to any principles of conflict of law.
-
-### Contact Us
-
-To contact us with your questions or comments regarding this policy or the information collection and dissemination practices of this Web Site, please email us at [webmaster@remax.com](mailto:webmaster@remax.com).
-
-To see the Terms of Use that apply to this Web Site, [click here](https://web.archive.org/terms_of_use/index.aspx).
-
-All trademarks, service marks, and other proprietary materials herein are the property of RE/MAX, LLC. 2010. All rights reserved.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
