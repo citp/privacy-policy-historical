@@ -1,31 +1,64 @@
-> *The following text is extracted and transformed from the natgeotraveller.co.uk privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608084039id_/http%3A//natgeotraveller.co.uk/auxiliary_materials/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natgeotraveller.co.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218041846id_/http%3A//natgeotraveller.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / auxiliary materials / National Geographic Traveller (UK)
+# Privacy policy | National Geographic Traveller (UK)
 
-**Website & eblast privacy rules**
+This privacy policy sets out how APL Media Limited uses and protects any information that you give APL Media Limited when you use this website.
 
-This website is owned and managed by Absolute Publishing Ltd.
+APL Media Limited is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Company number: Company No: 3393234 VAT: 701391176  
-Registered Office: 30 City Road, London EC1Y 2AB.
+APL Media Limited may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 2014.
 
-Any information stored by us is covered by the Data Protection Act 1998 (more information is available at www.ico.gov.uk).
+**What we collect**
 
-What We Use Your Information For  
-Absolute Publishing will use the information which we collect from this website and via our email campaigns (eblasts) to provide you with any services you have requested of us. We may also from time to time use your contact details to send you information about other services and products provided by Absolute Publishing and its partners. Any aggregate user information which we collect from this website will be used for the purpose of statistics and will not contain any personally identifying information.
+We may collect the following information:
 
-We will not disclose your information to third parties without your consent, except when:  
-We need to send the information to companies who work on our behalf to provide a product or service to you; (unless stated otherwise, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us); or  
-We need to share your information to provide the product or service you have requested; or  
-We respond to any legitimate request by authorities with which we must comply or legal process.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-If you wish to unsubscribe from any of our services, please send an email to [info@absolutepublishing.com](mailto:info@absolutepublishing.com "Absolute Publishing")
 
-Access to Your Data  
-You may request, at any time, a copy of the information we hold on you by writing to [info@absolutepublishing.com](mailto:info@absolutepublishing.com "Absolute Publishing"). You can also make changes to the information we hold by writing to us at [info@absolutepublishing.com](mailto:info@absolutepublishing.com "Absolute Publishing").
 
-Cookies  
-Our website uses cookies. These are small text files which your web browser stores on your computer. Cookies are used to identify your computer to our server and store your website preferences. Cookies do not contain any personally identifying information.
+**What we do with the information we gather**
 
-Links  
-This website may contain links to other external websites. Absolute Publishing Ltd accepts no liability for the content of these websites.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+
+
+**Security**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@aplmedia.co.uk
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to APL Media Limited, Unit 310 Highgate Studios, 53-79 Highgate Road, London NW5 1TL.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
