@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090014id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218140800id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy And Cookies Policy : Food Network UK
 
