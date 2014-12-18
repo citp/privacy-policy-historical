@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsquared.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506033552id_/http%3A//www.wpsquared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsquared.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218154236id_/http%3A//www.wpsquared.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WP Squared
 
@@ -86,6 +86,6 @@ _Linkedin Privacy Policy_
 
 _Mailchimp Privacy Policy_
 
-[Free Website Privacy Policy](http://www.jamieking.co.uk/resources/free_sample_privacy_policy.html) written by Jamie King Media – SEO Pembrokeshire © 2013 – v.2.0 April 2013
+[Free Website Privacy Policy](http://www.jamieking.co.uk/resources/free_sample_privacy_policy.html) written by Jamie King Media – SEO Pembrokeshire © 2013 – v.2.0 April 2013 
 
 Last Updated: Wednesday, November 27, 2013
