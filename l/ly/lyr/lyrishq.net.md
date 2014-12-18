@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyrishq.net privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531031917id_/http%3A//www.lyris.com/us-en/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyrishq.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218211033id_/http%3A//www.lyris.com/us-en/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,12 +7,6 @@
 The following statement (this “Statement”) discloses the policies of Lyris, Inc. (which is sometimes referred to in this Privacy Policy as "Lyris," the "Company," "we," or "us") with respect to information that we collect from visitors to our corporate Web site (www.lyris.com). This Statement also describes the services (our “Services”) we provide to our customers (each, a “Customer”) via our Platforms (Lyris One and Lyris HQ) and contains our end user opt-out mechanism. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Lyris. Unless otherwise provided in this Statement, this Statement does not apply to our offline data practices. This Statement is effective as of the date set forth above.
 
 This Statement applies to the operation of any Web site that directly links to this Statement when you click on “privacy statement” in the Web site footer.
-
-Lyris has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) and the TRUSTed Cloud Program Requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site: Lyris.com and the platforms: Lyris HQ and Lyris ONE.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as provided below. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
-
-The TRUSTe program does not cover any software that may be downloaded from our Web site.
 
 ## Definitions
 
@@ -115,7 +109,7 @@ Lyris Inc
 6401 Hollis Street   
 Suite 125   
 Emeryville, CA 94608   
-[legal@lyris.com](mailto:legal@lyris.com)  
+[legal@lyris.com](mailto:legal@lyris.com)   
 510.844.1505 (phone)   
 510.355.3700 (fax)
 
