@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615084411id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmart.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219001357id_/http%3A//www.tmart.com/HelpCenter/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Tmart.com
+# Privacy Policy : Tmart
 
 Tmart.com highly values your privacy and ensures your online security seriously. In order to make you understand our policy fully, we provide the notice below to explain our online information practices and the choices you can make about the way your information is collected and used. If our Privacy Policy is updated, all revisions will be posted on this page. We reserve the right to update the privacy policy any time.
 
