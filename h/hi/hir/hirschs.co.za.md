@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hirschs.co.za privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091433id_/http%3A//hirschs.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirschs.co.za privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218124357id_/http%3A//www.hirschs.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Hirsch's Hirsch's Privacy Policy
+# Hirsch's Privacy Policy | Buy online | hirschs.co.za
 
 This privacy policy sets out how Hirsch's HomeStore uses and protects any information that you give Hirsch's HomeStore when you use this website. Hirsch's HomeStore is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Hirsch's HomeStore may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
