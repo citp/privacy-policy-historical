@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hdfcbankdinersclub.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629200943id_/http%3A//www.hdfcbank.com/aboutus/terms_conditions/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hdfcbankdinersclub.com privacy policy that was archived on 2014-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141218194655id_/http%3A//www.hdfcbank.com/aboutus/terms_conditions/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>HDFC Bank - Leading Bank in India, Banking Services, Private Banking, Personal Loan, Car Loan</title> 
@@ -72,6 +72,7 @@ $(this).parent().find('.toolTip').hide();
 <div class="sectionnav">
 <ul>
 <li><a href="/personal/index">Personal</a></li>
+<li><a href="/personal/HNW_Banking/hnw_banking">Premier</a></li>
 <li><a href="/nri_banking/home.htm">NRI</a></li>
 <li><a href="/personal/sme/sme-homepage">SME</a></li>
 <li><a href="/wholesale/default.htm">Wholesale</a></li>
@@ -257,7 +258,7 @@ and a range of offers. </td>
 <div class="footer clearfix">
 <div class="groupwebsites ">
 <p>HDFC Group websites:</p>
-<ul>
+<ul class="target">
 <li><a target="_blank" href="http://www.hdfc.com" rel="nofollow">HDFC Ltd</a></li>
 <li><a target="_blank" href="http://www.hdfcsec.com" rel="nofollow">HDFC Securities</a></li>
 <li><a target="_blank" href="http://www.hdfcfund.com" rel="nofollow">HDFC Mutual Fund</a></li>
@@ -268,14 +269,23 @@ and a range of offers. </td>
 <li><a target="_blank" href="http://www.hdbfs.com" rel="nofollow">HDB Financial Services</a></li>
 </ul>
 </div>
-<div class="groupwebsites calc"><p>EMI Calculators:</p><ul><li><a href="/personal/personal-loan-emi-calculator" target="_blank" title="Personal Loan EMI Calculator">Personal Loan EMI Calculator</a></li><li><a href="/car-loan-emi-calculator/index.aspx" target="_blank" title="Car Loan EMI Calculator">Car Loan EMI Calculator</a></li><li><a href="/two-wheeler-loan-emi-calculator/index.aspx" target="_blank" title="Two Wheeler Loan EMI Calculator">Two Wheeler Loan EMI Calculator</a></li><li><a href="/RD_Calculator/rdcalculator.aspx" target="_blank" title=" RD Calculator"> RD Calculator</a></li></ul></div>
+<div class="groupwebsites calc">
+<p>EMI Calculators:</p>
+<ul>
+<li><a href="/personal/personal-loan-emi-calculator" target="_blank" title="Personal Loan EMI Calculator">Personal Loan EMI Calculator</a></li>
+<li><a href="/car-loan-emi-calculator/index.aspx" target="_blank" title="Car Loan EMI Calculator">Car Loan EMI Calculator</a></li>
+<li><a href="/two-wheeler-loan-emi-calculator/index.aspx" target="_blank" title="Two Wheeler Loan EMI Calculator">Two Wheeler Loan EMI Calculator</a></li>
+<li><a href="/RD_Calculator/rdcalculator.aspx" target="_blank" title=" RD Calculator"> RD Calculator</a></li>
+<li><a href="/personal/fixed-deposit-calculator" target="_blank" title=" FD Calculator">FD Calculator</a></li>
+</ul>
+</div>
 <div class="footerLinks">
 <ul>
 <li class="firstItem"><a target="_self" href="https://leads.hdfcbank.com/applications/misc/dnc/dnc.htm" rel="nofollow">Do-Not-Call Registration</a></li>
 <li><a target="_self" href="/assets/pdf/Investor_Presentation.pdf">Investor Informaiton</a></li>
 <li><a target="_self" href="/assets/pdf/IMLACretificate.pdf">US Patriot Act Certificate</a></li>
 <li><a target="_self" href="/aboutus/basel_disclosures/default.htm">Regulatory Disclosures Section</a></li>
-<li><a target="_blank" href="https://dncdedupe.hdfcbank.com/dnc_reg/dsa_main.php" rel="nofollow">DNC Dedupe</a></li>
+<li><a target="_blank" href="https://dncdedupe.hdfcbank.com/dnc/" rel="nofollow">DNC Dedupe</a></li>
 </ul>
 <ul>
 <li class="firstItem"><a target="_self" onclick="" rel="" href="/aboutus/terms_conditions/privacy.htm">Privacy</a></li>
@@ -307,8 +317,8 @@ $(document).ready(function(){
 //alert("hi");
 if($(".sectionnav ul li.selected a").html()=='NRI')
 {
-$(".groupwebsites ul").append('<li><a href="http://www.hdfcbankhongkong.com/" rel="nofollow"><span class="tab">Hong Kong</span></a></li>');
-$(".groupwebsites ul").append('<li><a href="http://www.hdfcbankbahrain.com/" rel="nofollow"><span class="tab">Bahrain</span></a></li>');
+$(".groupwebsites ul.target").append('<li><a href="http://www.hdfcbankhongkong.com/" rel="nofollow"><span class="tab">Hong Kong</span></a></li>');
+$(".groupwebsites ul.target").append('<li><a href="http://www.hdfcbankbahrain.com/" rel="nofollow"><span class="tab">Bahrain</span></a></li>');
 $(".groupwebsites ul").addClass("nriClass_ul");
 }
 //getJSONData('GetTop3NRItestimonial', 'nrihome', '&action=GetTop3NRItestimonial');
