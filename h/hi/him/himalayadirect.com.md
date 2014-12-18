@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the himalayadirect.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629134120id_/http%3A//www.himalayadirect.com/shopcontent.asp%3Ftype%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the himalayadirect.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218221510id_/http%3A//www.himalayadirect.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 ### Information Collection and Use
 
-SIA Himalaya Herbal Healthcare (Latvia), hereinafter referred to as Himalayadirect.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Himalayadirect.com collects information from our users at several different points on our website.
+SIA "The Himalaya Drug Company", hereinafter referred to as Himalayadirect.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Himalayadirect.com collects information from our users at several different points on our website.
 
   
 
