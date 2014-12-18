@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620224335id_/http%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218182313id_/http%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | STD Test Express
 
-[](https://privacy.truste.com/privacy-seal/Analyte-Media/validation?rid=2206ee15-de6c-4463-8fca-86d6d15c372d "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/Analyte-Media-/validation?rid=c4c7e858-5478-4c4c-95b2-66a5177a7a5b "TRUSTe online privacy certification")
 
 We take your privacy very seriously. We believe in protecting your information in the same way we want ours protected. Analyte Physicians Group, S.C. and its authorized agents (including Analyte Health, Inc.) (collectively, "Analyte," "we" or "us"), encourage you to become familiar with this Privacy Policy and our Terms and Conditions of Use. 
 
-This Privacy Policy describes what information we collect about you, how we collect it, how we use it, with whom we may share it, and what choices you have regarding it, on our website www.sexualhealth.com. This Privacy Policy is incorporated into and is a part of the Terms and Conditions of Use of our website (the "Site"). We encourage you to become familiar with this Privacy Policy and our Terms and Conditions of Use. By accessing and using the Site, you agree that you have read and understand this Privacy Policy and that you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy.
+This Privacy Policy describes what information we collect about you, how we collect it, how we use it, with whom we may share it, and what choices you have regarding it, on our website [www.stdtestexpress.com](http://stdtestexpress.com/). This Privacy Policy is incorporated into and is a part of the Terms and Conditions of Use of our website (the "Site"). We encourage you to become familiar with this Privacy Policy and our Terms and Conditions of Use. By accessing and using the Site, you agree that you have read and understand this Privacy Policy and that you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy.
 
-Analyte Physicians Group has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.sexualhealth.com and does not cover information that may be collected through any mobile applications, downloads or behind the log in on our website.
+Analyte Physicians Group has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [www.stdtestexpress.com](http://stdtestexpress.com/) and does not cover information that may be collected through any mobile applications, downloads or behind the log in on our website.
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at info@apgservices.com. If you are not satisfied with our response you can contact TRUSTe here.
 
@@ -22,9 +22,9 @@ In addition, our Site may send one or more "cookies" to your computer to improve
 
 The use of cookies by our affiliates and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our affiliates and service providers use session ID cookies to make it easier for you to navigate our site, in order for you to find services available in your area, and facilitate our marketing efforts.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personally identifiable information.
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information.
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of Analyte. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
 
@@ -42,7 +42,7 @@ In addition to the uses described above or in our Terms and Conditions of Use, w
 
 We may share Collected Information with our authorized agents in order to provide services to you, and for any other lawful business reasons. If all or part of Analyte is sold, merged, or otherwise transferred to another entity, we may transfer Collected Information to such entity as part of that transaction. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-We may disclose Collected Information to the proper authorities if we become subject to a subpoena or court order or if we are otherwise legally required to disclose such information. We may also use and disclose information about you to establish or exercise our legal rights, to enforce gc the Terms and Conditions of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.
+We may disclose Collected Information to the proper authorities if we become subject to a subpoena or court order or if we are otherwise legally required to disclose such information. We may also use and disclose information about you to establish or exercise our legal rights, to enforce the Terms and Conditions of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.
 
 We may provide your personal information to companies that provide services to help us with our business activities. These companies are authorized to use your personal information only as permitted by law and only as necessary to provide these services to us.
 
@@ -66,7 +66,7 @@ In addition to this Privacy Policy, Analyte provides a Notice of Privacy Practic
 
 **Analyte Health**  
 328 South Jefferson Street  
-Suite 775  
+Suite 770  
 Chicago, IL 60661
 
 You may also email us. 
