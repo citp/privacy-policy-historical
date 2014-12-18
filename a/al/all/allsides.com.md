@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allsides.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621122547id_/http%3A//www.allsides.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsides.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218132013id_/http%3A//www.allsides.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllSides
 
@@ -48,7 +48,7 @@ This online Privacy Policy applies only to information collected through our Web
 
 #### Terms and Conditions
 
-Please also visit our [Terms of Use](https://web.archive.org/web/20140621122547id_/http%3A//www.allsides.com/content/terms-use) section establishing the use, disclaimers, and limitations of liability governing the use of our Website.
+Please also visit our [Terms of Use](https://web.archive.org/web/20141218132013id_/http%3A//www.allsides.com/content/terms-use) section establishing the use, disclaimers, and limitations of liability governing the use of our Website.
 
 #### Your Consent
 
