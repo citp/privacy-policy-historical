@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614172146id_/http%3A//www.swell.com/c/privacyandsecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218144828id_/http%3A//www.swell.com/c/privacyandsecurity.htm) for the most accurate reproduction.*
 
 # Swell.com
 
