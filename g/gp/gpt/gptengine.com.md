@@ -1,84 +1,17 @@
-> *The following text is extracted and transformed from the gptengine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070203id_/http%3A//www.pixelior.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptengine.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Pixelior
+# Legal
 
-####### White Label Guarantee
+* * *
 
-\- We guarantee that all information that you've shared with us will remain confidential.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-\- We will never contact your clients or the clients of your clients.
-
-  
-
-
-####### What information do we collect?
-
-We collect information from you when you register on our site, place an order, fill out a form or Send Us an email.
-
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or State, ZIP Code. You may, however, visit our site anonymously.
-
-  
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
 
-####### What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways:
-
-  * • To personalize your experience: (your information helps us to better respond to your individual needs)
-
-  * • To improve our website: (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-  * • To improve customer service: (your information helps us to more effectively respond to your customer service requests and support needs)
-
-  * • To send periodic emails: The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or request.
-
-  * • To administer a contest, promotion, survey or other site feature
-
-
-  
-
-
-####### How do we protect your information?
-
-We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information.
-
-These security measures include: password protected directories and databases to safeguard your information or SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely.
-
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-  
-
-
-####### Do we use cookies?
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
-
-  
-
-
-####### Do we disclose any information to outside parties?
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-  
-
-
-####### Terms and Conditions
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website, [click here](https://web.archive.org/web/20140625070203id_/http%3A//www.pixelior.com/tos.php).
-
-  
-
-
-####### Your Consent
-
-By using our site, you consent to our privacy policy.
-
-  
-
-
-####### Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. This policy was last modified on  **3/23/2013.**
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
