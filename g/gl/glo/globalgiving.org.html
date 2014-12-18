@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalgiving.org privacy policy that was archived on 2014-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140316214510id_/https%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgiving.org privacy policy that was archived on 2014-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141218113843id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<title>Privacy Policy - GlobalGiving</title>  
@@ -13,11 +13,21 @@
 
 
 
-    <meta property="og:image" content="http://www.globalgiving.org/img/logos/gg_stacked_color_small.jpg">
+    <meta property="og:image" content="http://www.globalgiving.org/img/logos/gg_stacked_color_small.png">
 
 
-<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">  
-
+<link rel="apple-touch-icon" sizes="60x60" href="https://dpqe0zkrjo0ak.cloudfront.net/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://dpqe0zkrjo0ak.cloudfront.net/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://dpqe0zkrjo0ak.cloudfront.net/favicon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://dpqe0zkrjo0ak.cloudfront.net/favicon/apple-touch-icon-180x180.png">
+<meta name="apple-mobile-web-app-title" content="GlobalGiving">
+<link rel="icon" type="image/png" href="https://dpqe0zkrjo0ak.cloudfront.net/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://dpqe0zkrjo0ak.cloudfront.net/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://dpqe0zkrjo0ak.cloudfront.net/favicon/favicon-32x32.png" sizes="32x32">
+<meta name="msapplication-TileColor" content="#9f00a7">
+<meta name="msapplication-TileImage" content="https://dpqe0zkrjo0ak.cloudfront.net/favicon/mstile-144x144.png">
+<meta name="application-name" content="GlobalGiving">	
+	
 <!-- ****** STYLESHEETS ***** -->
  <link href="/css/styles.css" rel="stylesheet" type="text/css">   
  
@@ -33,12 +43,12 @@
 <![endif]--> 
 
 <!-- ****** JAVASCRIPT ***** -->
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/javascript/commonScripts.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/javascript/commonScripts.js"></script>
 
 <!-- ****** OPTIMIZELY EXPERIMENT SCRIPT ***** -->
 <script src="//cdn.optimizely.com/js/555520144.js"></script>
 <script type="text/javascript">
-   window.optimizely = window.optimizely || [];
+   window.optimizely = window.optimizely || { data : { experiments: [ ] }} 
    for (experiment_id in window.optimizely.data.experiments){
       variation  = window.optimizely.data.state.variationNamesMap[experiment_id];
       if (variation != undefined){
@@ -51,27 +61,26 @@
 
 
 <!-- *** GOOGLE ANALYTICS TRACKING CODE ***-->    
-<!-- Async Tracking Code - http://code.google.com/intl/en-US/apis/analytics/docs/tracking/asyncTracking.html -->
+<!-- Google Universal Analytics -->
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1836649-1']);
-  _gaq.push(['_setSiteSpeedSampleRate', 5]);
-  _gaq.push(['_trackPageview']);
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-  
-  // Client Side Error Tracking - GGL-4221
+  ga('create', 'UA-1836649-1', {'cookieDomain': 'globalgiving.org', 'siteSpeedSampleRate': 100} );
+  ga('require', 'displayfeatures');
+  // Optimizely Universal Analytics Integration
+  window.optimizely = window.optimizely || [];
+  window.optimizely.push("activateUniversalAnalytics");
+  ga('send', 'pageview');
+
+  // JS error tracking
   window.onerror = function(message, file, line) { 
      var sFormattedMessage = '[' + file + ' (' + line + ')] ' + message; 
-     _gaq.push(['_trackEvent', 'Errors', 'Browser', sFormattedMessage, null, true]);
-  }
+     ga('send', 'exception', { 'exDescription': sFormattedMessage, 'exFatal': false });
+  };
 </script>
-
-
 
 
 
@@ -183,6 +192,16 @@
 
             <!-- Gift Card Holiday Callout - Use true=false to turn it off for the rest of the year -->
 		    
+			    
+					<div id="giftCardPromo">
+					    <a href="/dy/gifts/personalize/gg.html?selectedDesign=63&amp;media=&amp;isGiftCertificate=true" onclick="recordLink(this, 'Gift Links', 'Great gift ideas');"></a>
+					    <!--
+					    <a href="/gifts/" onclick="recordLink(this, 'Gift Links', 'Free shipping for gift cards');"></a>
+						<a href="/redeem"  onclick="trackHeaderClick(this);"></a>
+					    -->
+					</div>
+			    
+		    
 
 			<div id="nav"> 
 				<!-- The following sets up the vars display settings for apache so we can default to the right page. -->
@@ -195,6 +214,7 @@
 <!-- non-profits -->
  
  
+
 
 
  
@@ -277,7 +297,7 @@
 			<a href="/non-profits/features-and-benefits/" onclick="trackHeaderClick(this);">Features &amp; Benefits</a>
 		</li>
 		<li id="join">
-			<a href="/non-profits/join-globalgiving/" onclick="trackHeaderClick(this);">Join GlobalGiving</a>
+			<a href="/dy/v2/pe/application/start.html" onclick="trackHeaderClick(this);">Join GlobalGiving</a>
 		</li>
 		<li id="manage">
 			<a href="/dy/v2/pe/dashboard/overview.html" onclick="trackHeaderClick(this);">Manage Project(s)</a>
@@ -305,11 +325,11 @@
 		<!--************* ABOUT US NAV *************-->
 		
 		<ul id="ul_about" style="display:block;"> 
-		<li id="howitworks">
-			<a href="/howitworks.html" onclick="trackHeaderClick(this);">How It Works</a>
-		</li>
 		<li id="team">
 			<a href="/aboutus/bios.html" onclick="trackHeaderClick(this);">Our Team</a>
+		</li>
+		<li id="impact">
+			<a href="/aboutus/impact/" onclick="trackHeaderClick(this);">Our Impact</a>
 		</li>
 		<li id="jobs">
 			<a href="/aboutus/jobs/" onclick="trackHeaderClick(this);">Jobs</a>
@@ -356,6 +376,9 @@
 
         
 
+    
+    
+        
         
     
     <!--************* NON-PROFITS > TOOLS AND TRAINING > SUBNAV *************-->
@@ -372,13 +395,13 @@
 
     <!--************* CORPORATE PARTERNS > CONTACT US > SUBNAV *************-->
     
-    
-    <!--************* ABOUT US > HOW IT WORKS > SUBNAV *************-->
-	 
 
     <!--************* ABOUT US > OUR TEAM > SUBNAV *************-->
 	 
 
+    <!--************* ABOUT US > IMPACT > SUBNAV *************-->
+	 
+	
     <!--************* ABOUT US > JOBS > SUBNAV *************-->
 	 
     
@@ -407,10 +430,7 @@
 	<!-- default template -->
 	<div id="siteWrapperDiv" class="siteWrapper fullWidth">	<!-- START wrapper DIV --> 
 	<div id="whiteMarginBox" class="clear"> 
-      <div id="mainHeader" class="clear"><!-- START top  rounded corners-->
-         <div class="roundedCorner left"></div>
-         <div class="roundedCorner right"></div>
-      </div><!-- END top rounded corners --> 
+       
 	<div class="container_12"> 
     
  		 
@@ -792,8 +812,8 @@ make changes to your information and update your account at any time.
   <script type="text/javascript" language="JavaScript">
   mkaddr("privacy","Privacy Policy Inquiry");
   </script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>
-  <br>1023 15th Street, NW
-<br>12th Floor
+  <br>1110 Vermont Avenue NW
+<br>Suite 550
 <br>Washington, DC 20005
 <br>USA<br>
   <br>Phone: 202-232-5784
@@ -816,10 +836,6 @@ make changes to your information and update your account at any time.
   
 <div class="clear"></div>
 </div> <!-- END container 12 for content -->
-<div id="mainFooter"><!-- START bottom  rounded corners-->
-   <div class="roundedCorner left"></div>
-   <div class="roundedCorner right"></div>
-</div><!-- END bottom  rounded corners-->
 </div> <!-- end white margin box --> 
 
 </div><!-- END wrapper DIV -->
@@ -848,10 +864,10 @@ make changes to your information and update your account at any time.
 
 			<div class="grid_2">
 				<ul class="footText"> 
-					<li class="footTitle"><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this);">Post A Project</a></li> 
-					<li><a href="/non-profits/join-globalgiving/" onclick="trackFooterClick(this);">Add Your Project</a></li>
-					<li><a href="/non-profits/join-globalgiving/recommend.html" onclick="trackFooterClick(this);">Recommend a Project</a></li>
+					<li class="footTitle"><a href="/dy/v2/pe/application/start.html" onclick="trackFooterClick(this);">Post A Project</a></li> 
+					<li><a href="/dy/v2/pe/application/start.html" onclick="trackFooterClick(this);">Add Your Project</a></li>
 					<li><a href="/non-profits/features-and-benefits/" onclick="trackFooterClick(this);">Features &amp; Benefits</a></li>
+					<li><a href="/crowdfundamentals/" onclick="trackFooterClick(this);">Crowdfundamentals</a></li>
 					<li><a href="http://tools.blog.globalgiving.org/" onclick="trackFooterClick(this);">Tools &amp; Training</a></li>
 					<li><a href="/project-leader-manual/" onclick="trackFooterClick(this);">Project Leader Manual</a></li>
 				</ul>
@@ -869,7 +885,7 @@ make changes to your information and update your account at any time.
 			</div>
 			<div class="grid_2 ">
 				<ul class="footText">
-					<li class="footTitle"><a href="/get-involved/" onclick="trackFooterClick(this);">Help &amp; Info</a></li>
+					<li class="footTitle"><a href="/help.html" onclick="trackFooterClick(this);">Help &amp; Info</a></li>
                     <li><a href="/help.html" onclick="trackFooterClick(this);">Help</a></li>
                     <li><a href="/contactus/" onclick="trackFooterClick(this);">Contact Us</a></li>
 					<li><a href="/guaranteed/" onclick="trackFooterClick(this);">Satisfaction Guaranteed</a></li>
@@ -899,8 +915,8 @@ make changes to your information and update your account at any time.
 		
 		<div class="grid_12 alpha omega center">
 			<div class="newsletterSignup">
-                <div class="footLogoTitle" style="margin-right: 10px;"><a href="/newsletter/" onclick="trackFooterClick(this);">Subscribe to Our Newsletter</a></div> 
-                <form action="http://globalgiving.us1.list-manage1.com/subscribe/post?u=3cd22f53c66be5c139fe0dc7a&amp;id=7bd2052374" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onsubmit="_gaq.push(['_trackEvent', 'Newslettler', 'Email Submitted']);">                     
+                <div class="footLogoTitle" style="margin-right: 10px;"><a href="/newsletter/" onclick="trackFooterClick(this);">Subscribe to Our Newsletter</a></div>
+                <form action="https://globalgiving.us1.list-manage.com/subscribe/post?u=3cd22f53c66be5c139fe0dc7a&amp;id=7bd2052374" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" onsubmit="ga('send', 'event', 'Newslettler', 'Email Submitted');">                     
                     <div class="ctrlHolder">    
                     <input type="text" value="e-mail" name="EMAIL" class="required email" size="35" maxlength="200" id="mce-EMAIL" style="color: #777777; padding: 2px; vertical-align: middle;" onclick="clearEmail(this);" onfocus="clearEmail(this);" onblur="fillEmail(this);"> 
                     <input type="image" src="https://dpqe0zkrjo0ak.cloudfront.net/img/buttons/sign_up_footer.gif" name="submitbutton" value="Submit" style="position: relative; bottom: 2px; vertical-align: middle; margin-top: 2px;">
@@ -912,7 +928,7 @@ make changes to your information and update your account at any time.
 		
 		<div class="grid_12 alpha omega center smallText">
 			<!-- Site Uptime Warning: GG.org looks for the EIN. If you edit the text, change settings in Site Uptime-->
-            <a href="/aboutus/">© 2000-2014 GlobalGiving Foundation, a 501(c)3 organization (EIN: 30-0108263)</a>. &nbsp;&nbsp;&nbsp; <a href="/contactus/">1023 15th Street, NW, 12th Floor, Washington, DC 20005</a><br>
+            <a href="/aboutus/">© 2000-2014 GlobalGiving Foundation, a 501(c)3 organization (EIN: 30-0108263)</a>. &nbsp;&nbsp;&nbsp; <a href="/contactus/">1110 Vermont Avenue NW, Suite 550, Washington, DC 20005</a><br>
         </div>
         
 	</div>
