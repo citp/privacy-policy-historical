@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the content-ad.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527121812id_/http%3A//www.hrmjobs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the content-ad.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218204829id_/http%3A//www.hrmjobs.com/privacy.html) for the most accurate reproduction.*
 
 # Job Ads, Welding Jobs, Materials Jobs, Chemistry Jobs, Polymer Jobs, Ceramic Jobs, Metallurgy Jobs, Brazing Jobs
 
