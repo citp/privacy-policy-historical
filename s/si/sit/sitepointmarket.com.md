@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitepointmarket.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630213444id_/https%3A//flippa.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepointmarket.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218064924id_/https%3A//flippa.com/privacypolicy) for the most accurate reproduction.*
 
-# Flippa: Privacy Policy
+# Flippa: Privacy Policy | Flippa
 
 The privacy of your personal information is afforded the highest level of importance by **Flippa Pty Ltd** (ACN 135 570 713). We are bound by the Privacy Act 1988 (Cth) (“ **Act** ”) regarding the manner in which we handle your personal information and how we respond to your requests to access and correct it. While we take careful measurements to protect the confidentiality of information provided to us, we have adopted the Privacy Policy detailed in this document in compliance with the Act. This document sets out our information handling procedures and the rights and obligations that both you and we have in relation to your personal information.
 
