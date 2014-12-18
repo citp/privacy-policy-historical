@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626141155id_/http%3A//www.diet.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diet.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218141252id_/https%3A//www.diet.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,7 +99,7 @@ Go back to the top
   
 Contacting the Website  
   
-If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us using our [Contact Form](https://web.archive.org/corporate/contact.php) or write to us at Diet Health, Inc., Attn: Privacy, 106 S. 7th Street, Philadelphia, PA 19106.  
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us using our [Contact Form](https://web.archive.org/corporate/contact.php) or write to us at Diet Health, Inc., Attn: Privacy, 721 Chestnut St., Philadelphia, PA 19106.  
   
   
 Go back to the top
