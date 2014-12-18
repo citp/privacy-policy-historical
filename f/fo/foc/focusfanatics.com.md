@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the focusfanatics.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215043920id_/http%3A//www.focusfanatics.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusfanatics.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218140850id_/http%3A//www.focusfanatics.com%3Fpageid%3Dprivacyp) for the most accurate reproduction.*
 
-# Focus Fanatics - Privacy Policy
+# Ford Focus Forum, Focus ST Forum, Focus RS Forum - PrivacyPolicy
 
 **The Focus Fanatics Privacy Policy**  
 Focus Fanatics is committed to protecting your privacy. To make your online experience more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information. 
