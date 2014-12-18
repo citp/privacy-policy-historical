@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062657id_/http%3A//bethbenderbeauty.com/legal%3F___store%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethbenderbeauty.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218080118id_/http%3A//bethbenderbeauty.com/legal%3F___store%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Disclaimer
 
@@ -46,6 +46,8 @@ We use this information to process your order and to make sure that it is delive
 
 We request an e-mail address during the order process so that we can send an e-mail confirmation message acknowledging the receipt of your order. This message contains your name, address, the list of items you purchased, an order reference number, a confirmation of your shipping method, and the total cost of items requested, including any shipping / delivery charges and taxes. Please note that this confirmation e-mail does NOT contain your credit card number.
 
+Beth Bender Beauty reserves the right to withhold shipping on any orders they deem as fraudulent or may infringe on their intellectual properties. If this should occur all funds will be automatically refunded to the buyer and their order cancelled. 
+
 **Click-Stream Data (And Cookie Technology):**
 
 In order to register on - or purchase products from - bethbenderbeauty.com , your browser must be set to accept "cookies." A cookie is a small piece of data housed in a text file or folder on your computer's hard drive that helps us recognize you when you visit our sites. We use cookies to help us remember things such as the following: (1) the profile facts you tell us about yourself, (2) your specified areas of interest on our sites, (3) the items you've placed in your shopping basket, and/or (4) the pages you visit as you shop.
@@ -71,6 +73,8 @@ Other than as stated above, bethbenderbeauty.com does not provide customer names
 Links to or From Other Sites - bethbenderbeauty.com may provide links to websites outside of bethbenderbeauty.com as an added convenience to the user. Other websites may link to bethbenderbeauty.com. Any link to or from this web site does not imply or convey endorsement of the other company or organization, its site, or its products or services. bethbenderbeauty.com is not responsible for the privacy, terms of use, or other policies of any other website. bethbenderbeauty.com's Online Security Statement: 
 
 bethbenderbeauty.com understands that many consumers are concerned about Internet security. bethbenderbeauty.com employs industry-leading technologies to store sensitive information and protect it while in transit over the Internet. The following Security Statement describes the technologies we use and provides additional details about how we handle sensitive data like credit card information. We want you to be able to shop at bethbenderbeauty.com with complete confidence.
+
+Beth Bender Beauty is not responsible for any harm that may come due to the misuse of our makeup tools and products. 
 
 **The Transmission of Your Data:**
 
