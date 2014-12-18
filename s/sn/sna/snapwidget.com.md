@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapwidget.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222033715id_/http%3A//snapwidget.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapwidget.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218200512id_/http%3A//snapwidget.com/privacy) for the most accurate reproduction.*
 
 # SnapWidget | Instagram Widget | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 * * *
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@snapwidget.com](mailto:info@snapwidget.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [support@snapwidget.com](mailto:support@snapwidget.com).
 
 At SnapWidget, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by SnapWidget.com and how it is used.
 
