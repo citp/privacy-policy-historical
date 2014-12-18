@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205080940id_/http%3A//www.shadowshopper.com/new/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218234629id_/http%3A//www.shadowshopper.com/home/privacy_policy.cfm) for the most accurate reproduction.*
 
-# The World's Largest Source of Mystery Shopping Jobs - ShadowShopper.com
+# World's Largest Source of Mystery Shopping Jobs
 
 The following information covers how ShadowShopper treats personal information that ShadowShopper collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
