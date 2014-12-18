@@ -1,25 +1,17 @@
-> *The following text is extracted and transformed from the freepressreleaselist.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218031457id_/http%3A//www.freepressreleaselist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressreleaselist.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy : Free Press Release List
+# Legal
 
-At freepressreleaselist we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by freepressreleaselist LLC (“freepressreleaselist”) or its subsidiaries or affiliated companies (collectively, freepressreleaselist’s “services”).
+* * *
 
-**Information you provide:**
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-The freepressreleaselist website allows its members to submit personal information. Other members, when looking at your profile, can view some of the information in your profile (e.g. name, company, and tags). This is information about yourself that you are asked to submit or be candid about. Other, more personal, information will only be accessible to others if you choose to submit and make it publicly visible to others. This information includes but is not limited to your email address and phone number. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**User communications:**
 
-When you send email or other communication to or through freepressreleaselist, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
-**Links:**
-
-freepressreleaselist may present links in a format that enables us to keep track of whether these links have been followed. This information is only used to improve the quality of our service.
-
-**Aggregation:**
-
-freepressreleaselist retains the right to share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
-
-**Changes to this policy:**
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
