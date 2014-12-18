@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327013045id_/http%3A//www.gopetplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetplan.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218040806id_/http%3A//www.gopetplan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy from Petplan USA
 
@@ -105,11 +105,7 @@ Petplan
 3805 West Chester Pike, Suite 240   
 Newtown Square, PA 19073 
 
-Telephone: 1.866.467.3875 
-
-Alternatively, you can email us at [privacy@gopetplan.com](mailto:).
-
-Whether you choose to write or email, please do not forget to include your name and policy number (if applicable) so that we can respond to your inquiry. 
+Telephone: 1.866.467.387 
 
 
 
