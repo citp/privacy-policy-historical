@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620032133id_/http%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218220921id_/http%3A//www.stockmusicsite.com/stockmusic/legal/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
 
@@ -88,23 +88,23 @@ We know that you care how your information is used, and we appreciate your trust
   
 
 
-sound effects cartoon and movie,  
-movie sound effects,  
-sound effects downloads,  
-rain sound effects,  
-free sound effects for mac,  
-eastenders effect sounds,  
-dolphin sound effects in toys,  
-splatter sound effect,  
-fairy dust sound effect,  
-bagpipe sound clip,  
-truck horn sound effect,  
-cartoon sound clips,  
-sound effects free,  
-free explosion sound effect downloads,  
-swish sound effect,  
-does movie maker have sound effects,  
-sounds to use with skype,  
-sounds effect,  
-sounds of nature free online download,  
-wav sound effects 
+intro sound effects,  
+hd sound effects,  
+cool sounds effects download,  
+online free sounds effects of cannons,  
+free download sound effects mp3,  
+sound effects virtual dj,  
+free sound effects libraries,  
+shark sound effects,  
+piercing thunder and winds sound effect,  
+free beating heart sound effect,  
+free jaws sound effect,  
+air raid sirens sounds,  
+gunshot sound effect download,  
+gong sounds,  
+cheer music sound effects,  
+marvel intro sound,  
+endangered species downloadable sounds,  
+wav sounds,  
+음향 효과,  
+wav office space 
