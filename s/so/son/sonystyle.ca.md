@@ -1,107 +1,79 @@
-> *The following text is extracted and transformed from the sonystyle.ca privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624035115id_/http%3A//www.ocado.com/webshop/content/ws5/customerServices/policies/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonystyle.ca privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218080500id_/http%3A//store.sony.ca/helpdeskarticle/-/-template_sny_helpdesk_safety_security-component_sny_helpdesk_safety_security_privacy_policy) for the most accurate reproduction.*
 
-# Ocado: devoted to your shopping
+# Sony CA
 
-We know that by choosing Ocado to deliver your groceries, you've placed a great deal of trust in us. We also understand that you want the personal information you give us to be kept private as well as secure. To reassure you that we feel the same way, here's how we will and, more importantly, will not use the personal information you give us. 
+Sony of Canada Ltd. ("Sony") respects your right to personal privacy. When we collect your personal information ("Personal Information"), you can be confident that we'll handle and store it in a secure manner to protect your information from unauthorized access or disclosure. 
 
-This Privacy Policy was most recently updated on 12th June 2014. 
+This code describes our privacy practices. By purchasing a product or service, submitting a warranty card, participating in our web sites, or otherwise providing us with your Personal Information, you are accepting the practices described in this Privacy Code. These terms and conditions are subject to change from time to time, so you should review them for changes periodically. Please note that anonymous data from which you cannot be identified is excluded from the restrictions described in this Privacy Code. 
 
-###  Information Collection 
+### Why do we collect your personal information?
 
-When you shop with Ocado you will submit your personal information to Ocado. We will treat all information submitted by you in accordance with the terms of this privacy policy (as updated and amended from time to time) and in strict compliance with all Data Protection legislation. 
+Our goal at Sony is to provide our customers with the highest quality products and services. In order to process and record your purchases, and to ensure that you receive quality products and customer services, we collect certain Personal Information directly from our customers.
 
-By entering your personal information in the Ocado web site you accept that we may retain your information and it may be held by Ocado or by any third party company that processes it on our behalf. 
+You can visit Sony's retail stores or our web sites without identifying yourself or providing any Personal Information. At certain times, however, we ask you to provide information that will enable us to complete a transaction, provide you with important product information, enhance your visit or follow up later. Your participation is completely optional.
 
-###  What we collect and why 
+For example, we request information when you:
 
-The information we gather from customers helps us to continually improve the service we offer to our customers. 
-
-When you shop with Ocado, there are different ways we gather information about you: 
-
-  * When you register with us, we ask for information such as your name, e-mail address, delivery address, contact details and, if you place an order, your debit or credit card details. We keep a record of this information. All this is necessary for us to recognise you as a registered customer and to fulfil the orders you place with us. Storing this information means you do not need to re-enter these details each time you shop. 
-  * We keep a record of your purchases with us, which means we can create lists of your favourite items to make your shopping experience quicker and more convenient. It also means we can deal a lot quicker with any problems you may experience with your order. 
-  * We keep a record of any e-mail correspondence you send us. This helps us keep track of your likes and dislikes and any problems or concerns you've had with our products or services. 
-  * Telephone calls made to our Customer Service Helpline may be recorded for monitoring and quality control purposes. 
-
-
-
-###  How we use your personal information 
-
-All the information we collect via our website or through correspondence with you is used by members of the Ocado group to operate and improve the service we offer you. We are committed to using your personal information only for: 
-
-  * Dealing with orders and accounts for the supply of our goods and services. 
-  * Monitoring and improving the Ocado web site and our services. 
-  * Planning and managing Ocado business activities, including analysing customers' shopping habits and preferences. 
-  * Enabling third parties to carry out technical, logistical or other functions on our behalf. 
-  * Conducting market research including statistical analysis of customer behaviour that we may disclose to third parties in depersonalised, aggregated form. 
-  * Providing you with information about the products and services we offer. 
-  * Providing you with periodic communications (this may be by post, telephone, SMS, email or as part of your Ocado grocery delivery) about features, products, services, events, promotions and special offers. Such communications from Ocado might include advertising for or offers from third parties (which we will pass on, on our partner's behalf. We will never pass your information outside of Ocado for marketing purposes). 
-  * Assessing your request for delivery of groceries from us where we may make enquiries about you including searching your records held by organisations like Experian and Equifax and credit reference agencies. We may also check your details held by the IMRG Security Alert scheme and other fraud prevention schemes. 
-  * Enabling a debt collection agency to collect payment from you should that be necessary. 
-  * Preventing and detecting fraud or abuses of our website. 
-  * Allowing us to comply with any requirements imposed on Ocado by law or court order. 
+  * • purchase a product or service;
+  * • register as a member of one of our programs;
+  * • register a product warranty;
+  * • purchase a Sony Care extended warranty;
+  * • complete a survey;
+  * • participate in a contest or other promotional offer;
+  * • subscribe to a newsletter or mailing list;
+  * • apply for employment
 
 
 
-By opening an account with us you agree to us collecting and using your information in this way. 
+In these instances, we may ask for your name, address, e-mail address, telephone number, information about a product you have purchased, billing or credit card information, or other information. We may also keep records of previous purchases made by you, information we have provided to you, and details of any enquires, complaints or compliments made by you and our response, if any (referred to as your "Personal History"). Your Personal Information and Personal History will be added to our customer database.
 
-###  Unsubscribing from our marketing communications 
+### Automatic Information Collection and Monitoring on our Websites.
 
-You may opt out of receiving our marketing communications when you open your account or anytime after that by 1) going to Account Settings/Marketing Communications and unticking the appropriate boxes or 2) sending an email from your Ocado registered email address to [unsubscribe@ocado.com](mailto:unsubscribe@ocado.com) with the word "unsubscribe" in the subject line. 
+For each visitor to a Sony website, Sony's web server automatically recognizes and stores information, such as the visitor's IP address/domain name combination and any referring websites. We use this information to understand visitor traffic patterns through our websites for purposes of enhancing their usability. Your computer provides this information automatically each time you log on, unless you have activated blocking technology available in some browsers.
 
-###  When we share your personal information 
+When you visit Sony websites or advertisements appearing thereon, or use one or more of Sony's website services, we may use an industry-wide technology called "cookies' that store certain information on your computer and that allow us to customize your experience to better match your interests and preferences, or to simply facilitate your signing in to use the services. Most browsers will allow you to erase cookies from your computer's hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase cookies, we may not be able to restore any preferences or customize settings you previously specified, and our ability to personalize your online experience would be limited. Please refer to your browser instructions or "help" screen to learn more about these functions.
 
-Information about our customers is an important part of our business and we do not sell or rent your information to anyone else to enable them to send you direct marketing unless you agree otherwise. However, there are circumstances where it is necessary for us to share personal information in order for us to provide our customers with the Ocado delivery service. At all times where we use or disclose your information it will remain secure. 
+Sony may but is not obligated to monitor communications such as messages to, from, within or directly related to our services and websites to ensure that our policies regarding use and our terms and conditions are being complied with and are not being violated (e.g. no obscenity, defamation or abusive language, no content that may infringe legal rights), and Sony has the right to block, remove and/or report any such communications and activities as appropriate. We may keep records of user's messages and, among other things, the email addresses involved. By accessing a Sony website or application, you acknowledge and consent to such monitoring.
 
-The circumstances where we may share some of your information with others are described below: 
+### What do we do with your personal information?
 
-  1. **Third party service providers**   
-We employ other companies and individuals to perform functions on our behalf. For example we engage companies to analyse customer information, provide marketing assistance, process credit card payments. We also engage agents including credit reference agencies, fraud prevention and detection agencies and debt collection agencies that we use to process the orders you place with us or who assist us in the service we provide to you. In these instances, we provide them with only the information they need to perform their function. 
-  2. **Promotional offers**   
-Sometimes we send offers to selected groups of Ocado customers on behalf of other businesses. We will not permit other businesses to contact Ocado customers directly and all such promotional offers will come via Ocado. If you wish to withdraw your consent from receiving these communications you can do so by logging onto your Ocado account and amending your communication settings online. 
-  3. **Business transfer**   
-If our company is ever sold or its assets are purchased by another company it would typically be part of such a transaction for customer information to form part of the business assets being transferred but the information will remain subject to the obligations as outlined in this Privacy Policy. 
-  4. **Research companies**   
-To outside research companies whom we may ask to contact you directly for your opinions on our products and services (in which case we provide them with only the information they need to perform their function). 
-  5. **Protection of Ocado and others**   
-We release account and other personal information when we believe release is appropriate to comply with the law, to enforce our Terms and Conditions and other agreements or protect the rights, property or safety of Ocado, our customers or others. 
-  6. **With your consent**   
-Other than as set out above you will receive notice when information about you may be sent to a third party and you will have an opportunity to choose not to share the information. 
+The primary purpose of our collection of this information is to be able to provide products and services to you, to provide you with customer support services, to seek your opinion from time to time, and to compile marketing and other statistics for use by Sony. Sony may also use this information with data from third parties to provide information to you on Sony products, services and promotions, and on complementary products and services offered by our affiliated companies and other companies. At times we collect Personal Information with third parties, who may also keep your Personal Information.
 
+When we do so, the identity of the third party will be made known to you. Personal History information is primarily used for customer support, statistical and customer services purposes.
 
+Your Personal Information and Personal History will be kept confidential and used to enrich your customer relationship with Sony. For instance, we may inform you of product upgrades, special offers, updated information and other new Sony products and services we feel may be of interest to you. When you visit our company web sites, we want to help you find information quickly and to personalize your visits.
 
-###  Security and data retention 
+### We protect your personal information
 
-Security is very important to Ocado and we use sophisticated technology to ensure that your information is protected at all times. Secure Socket Layer ("SSL") encryption technology is used for protection of information in transit for any sensitive transactions such as payments. Additional security procedures are in place to protect the confidentiality and integrity of your information. 
+We will not share your Personal Information with anyone outside Sony and its affiliated companies, except to the extent necessary to fulfill the purposes described or where we have collected Personal Information with a third party as noted above. When we employ other companies and individuals to perform functions on our behalf – such as delivering products, sending postal or electronic mail, analyzing data, taking product orders, providing marketing assistance, processing credit card payments and providing other forms of service – and where we collect Personal Information with third parties, we ensure by contractual means that these third parties may not use your Personal Information for any other purpose without your knowledge and consent. 
 
-We reveal only the last four digits of your credit card number when confirming an order. We also display the last four digits of your credit card, the expiry date and card type on your receipt. Of course we transmit the entire credit card number to the appropriate credit card company during the order processing. 
+Your personal information may be maintained and processed by our affiliates and other third party service providers in the US or other jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes.
 
-We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. 
+### Our Information Policy Re: Children
 
-It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when using a shared computer. 
+If you are under 13 years of age, you should not provide any personally identifiable information to Sony without the knowledge and permission of your parent or guardian. If we learn that you are under 13 years of age, we will not use any personally identifiable information about you without the consent of your parents or guardian, except as allowed by law. This may mean that you will be unable to participate in some activities offered by Sony without that consent.
 
-###  Identify fraud 
+In some circumstances, we may ask our customers and web site visitors to provide us with contact information of their parent or guardian. We will use this information only for the purpose of contacting the parent or guardian to notify them of our information practices with respect to children, to notify that person of a child's participation in one of our promotional activities or on one of our web sites, and/or to seek the consent of the parent or guardian to such participation.
 
-Fraudsters create authentic looking, but false or "spoof" websites. Their purpose is to tempt users to enter personal information to be re-used to try and access your bank accounts. Fraudsters are increasingly turning to email to generate traffic to these websites. Recently customers of several financial institutions have received such emails and this activity is only likely to increase. Such emails typically contain a link to a spoof website and advise account holders to enter user names and passwords so that security details can be updated or passwords changed. 
+The parent or guardian of any person under the age of 13 whose Personal Information we have collected may ask to review that Personal Information and to have it deleted (subject to certain restrictions). For more information on how to do this, please contact Sony as indicated below.
 
-If you get any email containing an embedded link and a request for you to enter any personal details, treat it as suspicious and do not input any personal information, even if the page appears legitimate. No reputable company ever sends emails of this type. 
+### Legal, Government & Other Disclosures
 
-###  Data over the internet 
+Sony, our affiliates and our Canadian, US and other service providers may provide your Personal Information and Personal History Information to appropriate third parties including law enforcement or other government agencies in connection with a criminal investigation, fraud prevention or other legal action, or if Sony reasonably believes it is necessary to protect Sony including its systems and operations, its customers or the public, or as otherwise required by applicable Canadian, US or other law.
 
-The internet is a global network - therefore there are cases where your data travels internationally, which may include places outside the European Union. We want you to know that if you visit or shop with Ocado, you're agreeing and authorising us to process data this way. 
+Sony web sites may contain links to other sites. Sony and its affiliates are not responsible for the privacy practices or the content of such sites and expressly disclaim all liability associated with your use of and the content on such other sites. 
 
-###  Updates 
+### We encourage communication
 
-You may change your personal information retained by Ocado at any time by accessing your user profile on the Ocado web site. 
+Customers who want more information about our privacy policy, wish access to their Personal Information, or wish to raise a concern about the use of their Personal Information, can contact Sony at 1-888-494-7669 or by writing to the Privacy Office, Sony of Canada Ltd., 115 Gordon Baker Road, Toronto, Ontario M2H 3R6, Attention: Chief Privacy Officer. Subject to certain limitations, you may review, correct or update your Personal Information, limit or revoke consent for disclosure or use or, in certain circumstances, have your Personal Information deleted. We will keep your Personal Information for a reasonable period or time in order to fulfill your primary business purpose, or as required or permitted by law or business custom, whichever is longer.
 
-We may change the terms of this Privacy Policy from time to time and you should check it regularly. Your use of the Ocado web site will at all times be subject to the Privacy Policy applicable at the time of each use. 
+If you no longer wish to receive communications from Sony of Canada Ltd. you can click on the unsubscribe link at the bottom of a commercial electronic message from Sony of Canada Ltd. or you can contact us:
 
-###  Further information 
+**By Phone:** Toll-free (within Canada) 1-888-494-7669
 
-If you have questions about your personal information or our privacy policy, please contact us at [ privacy@ocado.com ](mailto:privacy@ocado.com). To see all the information we have about you, and to correct any inaccuracies, write to: 
+**By Mail:** Sony of Canada Ltd.,  
+115 Gordon Baker Road,  
+Toronto, Ontario, M2H 3R6  
+Attn: Privacy Officer, Law Department
 
-**The Company Secretary  
-Ocado Group plc   
-Titan Court,   
-Hatfield Business Park   
-Hatfield, AL10 9NE **
+Personal Information submitted to us in any application for employment is not used for marketing purposes.
