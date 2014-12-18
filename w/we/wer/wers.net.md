@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wers.net privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531214733id_/http%3A//www.wers.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wers.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218201143id_/http%3A//www.wers.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Australian Window Association
 
@@ -31,7 +31,7 @@ This site gives users the following options for removing their information from 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact :
 
 [Australian Window Association](http://www.wers.net/)  
-71 Ridge Street Gordon NSW 2072  
+Suite 1, Level 1, Building 1 20 Bridge Street Pymble NSW 2073  
 Telephone: 02 9498 2768  
 Fax: 02 9498 3816  
 Email: [info@awa.org.au](mailto:info@awa.org.au)
