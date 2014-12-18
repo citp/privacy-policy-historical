@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyguru.com.sg privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622034319id_/http%3A//www.propertyguru.com.sg/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyguru.com.sg privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218213339id_/http%3A//www.propertyguru.com.sg/customer-service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
