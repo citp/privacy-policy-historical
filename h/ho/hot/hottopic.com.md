@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hottopic.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416175857id_/http%3A//www.hottopic.com/hottopic/cs/CustomerService/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hottopic.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218211134id_/http%3A//www.hottopic.com/hottopic/cs/CustomerService/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Hot Topic
 
@@ -119,8 +119,4 @@ Hot Topic reserves the right to change this Privacy Policy at any time without n
 
 Hot Topic’s mailing address is 18305 East San Jose Avenue, City of Industry, CA, 91748, our customer service telephone number is 800.892.8674, and our customer service email address for questions about this Privacy Policy is **[privacy@hottopic.com](mailto:privacy@hottopic.com)**.
 
-**Advertising OPT-OUT**
-
-You may choose to [opt out](http://mediamgt.hottopic.com/optout.html) of receiving marketing messages from 3rd party advertisers that use cookies to track repeat users and maintain campaign information. Click [here](http://mediamgt.hottopic.com/optout.html) for details.
-
-This Privacy Policy was last updated May 15, 2010.
+This Privacy Policy was last updated November 28th, 2014.
