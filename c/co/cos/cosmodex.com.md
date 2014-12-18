@@ -1,57 +1,17 @@
-> *The following text is extracted and transformed from the cosmodex.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005051922id_/http%3A//www.cosmodex.com/def/customPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmodex.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Cosmodex - Privacy Policy
+# Legal
 
-|  |  |   
----  
-|  |  |    
-| 
+* * *
 
-Privacy Policy
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-|    
-  
----|---|---  
-|  |  |   
----  
-|  | **Cosmodex™ Privacy Policy**  
----  
-   
-This website is administered by Cosmodex™. The primary purpose of Cosmodex™ is to be a dynamic resource and business tool to help you create your future. We want you to feel secure when visiting our site and are committed to maintaining your privacy when doing so.  
-   
-The following provides an overview of how we protect your privacy during your visit.  
-   
-**What information do we gather?**  
-Information on Cosmodex™ is gathered in two ways: (1) indirectly (for example, through our site's technology); and (2) directly (for example, when you provide information on various pages of Cosmodex™).  
-  
-   
-One example of information we collect indirectly is through our Internet access logs. When you access Cosmodex™, your Internet address is automatically collected and is placed in our Internet access logs.  
-   
-We collect information directly from you in a number of ways, some of which we describe in this Privacy Statement. One way is through the use of cookies. Cookies are small files of information, which save and retrieve information about your visit to Cosmodex—for example, how you entered our site, how you navigated through the site, and what information was of interest to you. The cookies we use identify you merely as a number. (If you are uncomfortable regarding cookies use, please keep in mind you can disable cookies on your computer by changing the settings in preferences or options menu in your browser.)  
-   
-We also collect information when you voluntarily submit it to us. Throughout our site, we provide the opportunity to register for an event or conference, order a white paper, or participate in an online survey. When we collect this type of information, we will notify you as to why we are asking for information and how this information will be used. It is completely up to you whether or not you want to provide it.  
-|   
-|  | 
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-| **How do we use this information?**  
-We analyze it to determine what is most effective about our site, to help us identify ways to improve it, and eventually, to determine how we can tailor Cosmodex™ to make it more effective. We may also use data for other purposes, which we would describe to you at the point we collect the information.  
-  
----  
-   
-**Will we share this with outside parties?**  
-As a global organization, data we collect may be transferred internationally throughout Cosmodex's worldwide organization. We will not sell individual information and will share it only with our advisors. But again, before you submit any information, we will notify you as to why we are asking for specific information and it is completely up to you whether or not you want to provide it.   
-  
-   
-**What about sensitive personal data?**  
-We do not generally seek to collect sensitive personal data through this site. If we do seek to collect such data, we will ask you to consent to our proposed uses of the data. We may also collect some sensitive personal data incidentally. By providing us with unsolicited sensitive personal data, you consent to our using the data subject to applicable law as described in this Privacy Statement. The references to "sensitive personal data" are to the various categories of personal data identified by United States and other data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent. These categories comprise personal identity numbers, personal data about personality and private life, racial or ethnic origin, nationality, political opinions, membership of political parties or movements, religious, philosophical or other similar beliefs, membership of a trade union or profession or trade association, physical or mental health, genetic code, addictions, sexual life, property matters or criminal record (including information about suspected criminal activities).   
-   
-**Do we store collected information about you?**  
-You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by [sending us an e-mail](mailto:support@cosmodex.com).  
-  
-   
-**What about data security?**  
-We take appropriate steps to maintain the security of your data on Cosmodex™. You should understand that the open nature of the Internet is such that data may flow over networks without security measures and may be accessed and used by people other than those for whom the data is intended.  
-   
-That's it in a nutshell. The short of it is—we are interested in maintaining your privacy and creating a valuable resource for you to use. If you have any questions now or during your visit, please [contact us](https://web.archive.org/def/contact/contactus.aspx).  
-  
- 
+
+
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
