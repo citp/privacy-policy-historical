@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044514id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218162152id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Internet Lawyer - Internet Business Lawyer Mike Young - Internet Attorney
 
