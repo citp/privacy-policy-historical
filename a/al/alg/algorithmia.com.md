@@ -1,69 +1,87 @@
-> *The following text is extracted and transformed from the algorithmia.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627215330id_/http%3A//algorithmia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algorithmia.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218204759id_/https%3A//algorithmia.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Algorithmia
 
 Privacy Policy
 
-The Algorithmia website is an algorithm repository, hosting, and service site. This Privacy Policy describes how and when Algorithmia collects, uses and shares your information when you use our Services. By using the Algorithmia website, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. 
+**LAST UPDATED** 7/25/2014 
 
-If you have any questions or comments about this Privacy Policy, please contact us at [support@algorithmia.com](mailto:support@algorithmia.com). 
+This Privacy Policy explains how information about you is collected, used and disclosed by Algorithmia, Inc. [and our subsidiaries and affiliated companies] ("Algorithmia," "we" or "us. This Privacy Policy applies to information we collect when you use our websites, products, services, applications or software (collectively, the "Services") or when you otherwise interact with us. 
 
-## Collection of your Personal Information
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy. 
 
-Algorithmia collects information to provide better services to all of our users. 
+## Collection of Information
 
-Algorithmia may collect personally identifiable information, such as your name and email address. If you purchase Algorithmia's products and services, we may collect billing and credit card information. This information is used to complete the purchase transaction. Algorithmia may also collect anonymous demographic information, which is not unique to you, such as your age and gender. We may gather additional personal or non-personal information in the future. 
+### Information you provide us
 
-Information about your computer hardware and software may be automatically collected by Algorithmia. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Algorithmia website. 
+We collect information you provide directly to us. For example, we collect information when you sign up for an account; participate in any interactive features of the Services; make a purchase; participate in a survey, contest or promotion; request customer support or otherwise communicate with us. The types of information we may collect include your name, username, email address, postal address, social media usernames/handles, biographical information, source code and any other information you choose to provide. 
 
-We work hard to protect Algorithmia and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. To this end, we use various security mechanisms to guard against unauthorized access to our systems and your information. We encrypt many of our services using SSL. 
+### Information We Collect Automatically When You Use the Services
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Algorithmia's public message boards, this information may be collected and used by others. 
+When you access or use our Services, we automatically collect information about you, including: 
 
-Algorithmia encourages you to review the privacy statements of websites you choose to link to from Algorithmia so that you can understand how those websites collect, use and share your information. Algorithmia is not responsible for the privacy statements or other content on websites outside of the Algorithmia website. 
+  * **Log Information:** We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services. 
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below.
+  * **Information We Collect From Other Sources** We may also obtain information from other sources and combine that with information we collect through our Services.
 
-## Use of your Personal Information
 
-Algorithmia may also use your personally identifiable information to inform you of other products or services available from Algorithmia and its affiliates. Algorithmia may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
 
-Algorithmia does not sell, rent or lease its customer lists to third parties. 
+## Use of Information
 
-Algorithmia may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. Algorithmia may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Algorithmia, and they are required to maintain the confidentiality of your information. 
+We may use information about you for various purposes, including to:
 
-Algorithmia may keep track of the websites and pages our users visit within Algorithmia, in order to determine what Algorithmia services are the most popular. This data is used to deliver customized content and advertising within Algorithmia to customers whose behavior indicates that they are interested in a particular subject area. 
+  * Provide, maintain and improve our Services;
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices,
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards and events offered by Algorithmia and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Personalize and improve the Services and provide content or features that match user profiles or interests;
+  * Process and deliver contest entries and rewards;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose for which the information was collected.
 
-Algorithmia will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Algorithmia or the site; (b) protect and defend the rights or property of Algorithmia; and, (c) act under exigent circumstances to protect the personal safety of users of Algorithmia, or the public. 
 
-### Cookies
 
-The Algorithmia website uses "cookies" to record current session information, and help you personalize your online experience. A cookie is a small amount of data that is stored on your computer by a web page server. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
+Algorithmia is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries. 
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Algorithmia services or websites you visit. 
+## Sharing of Information
 
-### Log Data
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services or use our Application Programming Interface ("API"). 
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * With other users when you create an algorithm or a bounty or otherwise participate in the interactive features of our Services;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Algorithmia or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company; and
+  * With your consent or at your direction.
 
-### Source Code
 
-Source code that you upload to Algorithmia is publicly visible by default. We claim no intellectual property rights over the material you provide to the Service. Your profile and materials uploaded remain yours. However, by setting your algorithms to be viewed publicly, you agree to allow others to view and fork your source code repositories. In order to make your algorithms available as a service, you hereby grants Algorithmia a non-exclusive license to copy, distribute, perform, execute, display, store, modify, and otherwise use you data in connection with operating our services. 
 
-## External processing
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+## Social Sharing Features 
 
-## Opt-Out & Unsubscribe
+The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Algorithmia by selecting your communication preferences here: [https://algorithmia.com/optout](https://web.archive.org/optout)
+## Analytics Services Provided by Others
 
-## Changes to this Statement
+We may allow others to provide analytics services on our behalf. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Algorithmia and others to, among other things, analyze and track data, determine the popularity of certain content, deliver content targeted to your interests and better understand your online activity. 
 
-Algorithmia may occasionally update this policy. The most current version of the policy will govern our use of your information and will always be available at [https://algorithmia.com/privacy](https://web.archive.org/privacy). If we make a change to this policy that, in our sole discretion, is material, we will notify you by placing a prominent notice on this site. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+## Your Choices
 
-## Contact Information
+### Account information
 
-Algorithmia welcomes your questions or comments regarding this Privacy Policy. If you believe that Algorithmia has not adhered to this Statement, please contact Algorithmia at: 
+You may update, correct or delete information about you at any time by logging into your online account. If you wish to delete your account, please email us at [support@algorithmia.com](mailto:support@algorithmia.com), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
-[info@algorithmia.com](mailto:info@algorithmia.com)
+###  Cookies
 
-_Effective as of October 3, 2013_
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. 
+
+### Promotional Communications
+
+You may opt out of receiving promotional communications from Algorithmia by following the instructions in those communications or by visiting https://algorithmia.com/optout. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations. 
+
+## Contact
+
+If you have any questions about this Privacy Policy, please contact us at [support@algorithmia.com.](mailto:support@algorithmia.com)
