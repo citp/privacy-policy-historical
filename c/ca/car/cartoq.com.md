@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101172102id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoq.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218184805id_/http%3A//www.cartoq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for CarToq.com website and CarToq Facebook App | Cartoq - Honest Car Advice
 
@@ -50,7 +50,7 @@ For the purposes of this document, “Sensitive Personal Information” means pe
 
   1. As required by law, Users shall not, host, display, upload, modify, publish, transmit, update or share any information that:
     * belongs to another person and to which such User does not have any right to
-    * is grossly harmful , harassing, blasphemous, defamatory, obscene, pornographic, paedophilic, libelous, invasive of another’s privacy, hateful, or  racially , ethnically objectionable, disparaging,  relating or encouraging money laundering or gambling, or otherwise unlawful in any manner whatever
+    * is grossly harmful , harassing, blasphemous, defamatory, obscene, pornographic, paedophilic, libelous, invasive of another’s privacy, hateful, or racially , ethnically objectionable, disparaging, relating or encouraging money laundering or gambling, or otherwise unlawful in any manner whatever
     * harm minors in any way
     * infringes any patent, trademark, copyright or other proprietary rights
     * violates any law for the time being in force
@@ -79,7 +79,8 @@ For the purposes of this document, “Sensitive Personal Information” means pe
 **Cookies**
 
   1. To enhance your online experience “CARTOQ” uses “cookies”. Cookies are text files placed in your computer’s browser to store preferences. Cookies, by themselves, do not reveal your e-mail address or other personally information unless you choose to provide this information by, for example, registering at one of our sites. However, once you choose to furnish the site with personally information, this information may be linked to the data stored in the cookie. Cookies are used to understand Internet usage and to improve our content, offerings, and advertisements.
-  2. “CARTOQ” may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views or advertising responses. These “web beacons” may be used to deliver cookies that conform to our cookie policy.
+  2. We and our service providers may use analytics cookies, which are sometimes called performance cookies, to collect information about your use of the Site and enable us to improve the way it works. Analytics cookies collect information about how you use the Site, for instance, which pages you go to most. The information allows us to see the overall patterns of usage on the Site, help us record any difficulties you have with the Site and show us whether our advertising is effective or not.
+  3. “CARTOQ” may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views or advertising responses. These “web beacons” may be used to deliver cookies that conform to our cookie policy.
 
 
 
