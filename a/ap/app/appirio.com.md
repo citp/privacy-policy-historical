@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064918id_/http%3A//appirio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appirio.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203347id_/http%3A//appirio.com/privacy) for the most accurate reproduction.*
 
 # Appirio, Inc. Privacy Policy - Appirio
 
