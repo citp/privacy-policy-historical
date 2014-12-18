@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topdreamer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235747id_/http%3A//www.topdreamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdreamer.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218095212id_/http%3A//www.topdreamer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy -
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy Policy](mailto:contact@topdreamer.com).
 
