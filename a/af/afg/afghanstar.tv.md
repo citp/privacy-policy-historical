@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afghanstar.tv privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507015727id_/http%3A//www.afghanstar.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afghanstar.tv privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218061023id_/http%3A//www.afghanstar.tv/privacy-policy) for the most accurate reproduction.*
 
-# | Afghan Star
+# Privacy Policy | Afghan Star
 
 Afghan Star and this website (the "Site") is owned and operated by MOBY GROUP, Afghanistan  
 We are committed to protecting your privacy on-line. We use the information we collect about you to provide services to you when you visit the Site. We appreciate that you do not want any personal information you provide to us distributed indiscriminately and here, we explain how we collect information, what we do with it and what controls you have.  
