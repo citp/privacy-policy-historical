@@ -1,263 +1,789 @@
-<!--The following is the downloaded HTML source of the buildmyincomedaily.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627223422id_/http%3A//buildmyincomedaily.com/r/freedom4u2/terms_of_s.html%23PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buildmyincomedaily.com privacy policy that was archived on 2014-12-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141218134419id_/http%3A//www.buildmyincomedaily.com/terms%23Privacy) for the most accurate reproduction.-->
 
-<html><head><title>Terms Of Service</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>BuildMyIncomeDaily.com Making ...Success A LifeStyle - Terms and Conditions</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<link rel="SHORTCUT ICON" href="http://www.buildmyincomedaily.com/templates/buildmyincomedailycom/images/favicon.ico" type="image/x-icon">
+<link rel="alternate" href="http://www.buildmyincomedaily.com/feed.php" type="application/rss+xml" title="BuildMyIncomeDaily.com Making ...Success A LifeStyle">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.buildmyincomedaily.com/templates/buildmyincomedailycom/default.css">
+<!-- Begin jscripts.html -->
+<script type="text/javascript" src="http://www.buildmyincomedaily.com/etcs/jquery152.js"></script>
+<script type="text/javascript" src="http://www.buildmyincomedaily.com/etcs/helphint.js"></script>
+<script type="text/javascript" src="http://www.buildmyincomedaily.com/etcs/flowplayer-3.2.6.min.js"></script>
+
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+function vercodereloaded() {
+	document.getElementById('vercodereloaded').src = "http://www.buildmyincomedaily.com/captcha.php?" + (new Date()).getTime();
+}
+function out(username)
+{
+  image = new Image();
+  image.src= 'http://www.buildmyincomedaily.com/index.php?a=out&u=' + username;
+}
+
+function yesno_alert(warnmsg,locasi){
+	if (confirm(warnmsg) != "0"){
+		window.location = locasi;
+	}
+}
+
+function yesno_alert_post(warnmsg){
+	question = confirm(warnmsg)
+	if (question !="0")	return true;
+	else return false;
+}
+// -->
+</script>
+
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+	jQuery('#usernameLoading').hide();
+	jQuery('#username').blur(function(){
+	  jQuery('#usernameLoading').show();
+      jQuery.post("verify_username.php", {
+        u: jQuery('#username').val()
+      }, function(response){
+        jQuery('#usernameResult').fadeOut();
+        setTimeout("finishAjax('usernameResult', '"+escape(response)+"')", 400);
+      });
+    	return false;
+	});
+});
+
+function finishAjax(id, response) {
+  jQuery('#usernameLoading').hide();
+  jQuery('#'+id).html(unescape(response));
+  jQuery('#'+id).fadeIn();
+} //finishAjax
+</script><!-- End jscripts.html -->
+
+
+
+
+<meta name="norton-safeweb-site-verification" content="7y24qiv1b7cndrj96ex84gu3gdyegiha3s7uo27k3pi8sydh5sf1gyryvj3qd3kwlwzy-450g0rux0e1iv60af689npd5vnpegkf7hn-spc5v6oe00o414d45o3r7sgl">
 <style type="text/css">
-body, p {font-family: Verdana; font-size: 12px}
-#signupForm{padding: 5px; width: 465px }
+
+
+
+ body, p {font-family: Verdana; font-size: 12px}
+
+
+
+ #signupForm{padding: 5px; width: 465px }
+
  #signupForm #table{width:100%}
+
  #signupForm #section{border: 1px solid #999999;padding: 3px;}
+
  #signupForm .label, .value{font-family: Verdana; font-size:12px}
+
  #signupForm .error{font-family: Verdana; font-size:10px; color: red; font-weight: bold}
+
  #signupForm .input{font-family: Arial; font-size:12px}
+
  #signupForm #terms{border: 1px solid #efefef; width: 100%}
+
  #signupForm .link{text-decoration: underlined; color: blue}
+
  #signupForm #heading{border: 1px solid #999999; background-color: #efefef; border-bottom: none; width:160px; font-family: verdana; font-weight: bolder; font-size:12px; padding: 4px; padding-bottom: 6px}
-</style><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-45526237-1']);
-  _gaq.push(['_trackPageview']);
+</style>
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+<style type="text/css">
 
-</script></head>
+<!--
 
-<body><font size="2" face="Arial, Helvetica, Garmond">
-<h1 align="center">
-<img border="0" src="http://buildmyincomedaily.com/images/bmid-agreement.png" width="374" height="51"></h1>
+body {
+
+  background-image: url(http://www.buildmyincomedaily.com/templates/buildmyincomedailycom/images/bmid-bg.jpg);
+
+  background-color: #000D15;
+
+  background-repeat: repeat-x;
+
+  margin-left: 0px;
+
+  margin-top: 0px;
+
+  margin-right: 0px;
+
+  margin-bottom: 0px;
+
+  background-attachment: fixed;
+
+}
+
+.style1 {  color: #FFFFFF;
+
+  font-weight: bold;
+
+}
+
+p  { margin-right: 20px; margin-left: 10px; font-family: Tahoma; color: #000000 }
+
+H2           { color: fontcolour  ; font-weight: bold; font-size: 22px; line-height: 18px; font-family: Tahoma; clear: right; margin-right: 20px; margin-top: 10px; margin-left: 20px }
+
+-->
+
+</style></head>
+
+<body style="background-image: url('http://www.buildmyincomedaily.com/templates/buildmyincomedailycom/images/bmid-bg.jpg')">
+
+
+
+<div align="center">
+
+    <table width="978" border="0" align="center" cellpadding="0" cellspacing="0">
+
+  <tbody><tr style="color: fontcolour; font-size: 10pt; font-family: Tahoma">
+
+    <td align="center" valign="top" style="color: fontcolour; font-size: 10pt; font-family: Tahoma"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+      <tbody>
+
+    <tr style="color: fontcolour; font-size: 10pt; font-family: Tahoma">
+
+        <td align="center" valign="top" style="color: fontcolour; font-size: 10pt; font-family: Tahoma">
+
+    <img border="0" src="http://www.buildmyincomedaily.com/templates/buildmyincomedailycom/images/header.png" width="978" height="112"></td>
+
+
+
+      </tr>
+
+      <tr valign="top" style="color: fontcolour; font-size: 10pt; font-family: Tahoma">
+
+        <td bgcolor="#FFFFFF" style="color: fontcolour; font-size: 10pt; font-family: Tahoma"><center><center>
+
+<center>
+<table width="98%" border="0" align="center" cellpadding="2" cellspacing="2">
+    <tbody><tr>
+      <td align="left" width="100%">
+          <h2 align="center"><b><font face="Tahoma">
+      <font color="#000080" style="font-size: 14pt">
+      <a href="http://www.buildmyincomedaily.com">
+      HOME</a></font><span style="font-size: 14pt">
+      <font color="#0099CC">|</font>
+      <a href="http://www.buildmyincomedaily.com/contact">CONTACT</a>
+      <font color="#0099CC">|</font> <font color="#000080">
+      <a href="http://www.buildmyincomedaily.com/payplan">COMP PLAN</a></font>
+      <font color="#0099CC">|</font> <font color="#000080">
+      <a href="http://www.buildmyincomedaily.com/products">PRODUCTS</a></font>
+      <font color="#0099CC">|</font> <font color="#000080">
+      <a href="http://www.buildmyincomedaily.com/join">JOIN</a></font>
+      <font color="#0099CC">|</font> <font color="#000080">
+      <a href="http://www.buildmyincomedaily.com/faqs">FAQs</a></font>
+      <font color="#0099CC">|</font> </span> <font color="#000080">
+      <span style="font-size: 14pt">
+      <a href="http://www.buildmyincomedaily.com/client" class="">
+      MEMBER LOGIN</a></span></font></font></b></h2>
+    </td>
+  </tr>
+    <tr>
+      <td align="left" width="33%">
+      <p align="center"></p></td>
+  </tr>
+  </tbody></table>
+<br>
+
+    <table align="center" cellspacing="0" cellpadding="2" width="98%" style="clear: both;">
+    <tbody><tr><td align="left"></td></tr>
+    <tr><td align="left"><h3 align="center">Terms and Conditions</h3>
+<font size="2" face="Arial, Helvetica, Garmond">
+
+<h1 align="center"> <img border="0" src="http://buildmyincomedaily.com/images/bmid-agreement.png" width="374" height="51"></h1>
+
 </font>
-<p align="center"><font face="Arial, Helvetica, Garmond" style="font-size: 11pt">
-<span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">
-By using this site, you signify your Consent and Agreement to these Terms. <br>
-If 
-you do not agree to these Terms of Use, then do not use the site.</span></font><font size="2" face="Arial, Helvetica, Garmond"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium"></span></font></p><font size="2" face="Arial, Helvetica, Garmond">
 
-<span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt">
-</span></font><p align="center"><font size="2" face="Arial, Helvetica, Garmond">
-&nbsp;</font><font face="Arial, Helvetica, Garmond"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><a target="_self" href="http://www.buildmyincomedaily.com/r/freedom4u2/terms_of_s.html#Refund"><font color="#309DCF"><span style="font-size: 11pt">Refund Policy</span></font></a></span><span style="font-size: 11pt"><span class="Apple-style-span" style="font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><font color="#309DCF"><span class="Apple-converted-space">&nbsp;</span></font>|<font color="#309DCF"><span class="Apple-converted-space">&nbsp;</span></font></span></span></font><span style="font-size: 11pt"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><a target="_self" href="http://www.buildmyincomedaily.com/r/freedom4u2/terms_of_s.html#Disclaimers"><font color="#309DCF" face="Arial, Helvetica, Garmond">Earnings/Income 
-Disclaimer</font></a><span class="Apple-style-span" style="font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><font color="#309DCF" face="Arial, Helvetica, Garmond"><span class="Apple-converted-space">&nbsp;</span></font><font face="Arial, Helvetica, Garmond">|</font><font color="#309DCF" face="Arial, Helvetica, Garmond"><span class="Apple-converted-space">&nbsp;</span></font></span></span></span><font face="Arial, Helvetica, Garmond"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><font color="#008000"><span style="font-size: 11pt"><a target="_self" href="http://www.buildmyincomedaily.com/r/freedom4u2/terms_of_s.html#PRIVACY"><font color="#309DCF">PRIVACY</font></a></span></font></span></font><span style="font-size: 11pt"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span class="Apple-style-span" style="font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><font color="#309DCF" face="Arial, Helvetica, Garmond"><span class="Apple-converted-space">&nbsp;</span></font><font face="Arial, Helvetica, Garmond">|</font><font color="#309DCF" face="Arial, Helvetica, Garmond"><span class="Apple-converted-space">&nbsp;</span></font></span></span></span><font face="Arial, Helvetica, Garmond"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><font color="#008000"><span style="font-size: 11pt"><a target="_self" href="http://www.buildmyincomedaily.com/r/freedom4u2/terms_of_s.html#Anti-Spam"><font color="#309DCF">Anti-Spam</font></a></span></font></span></font><font size="2" face="Arial, Helvetica, Garmond"></font></p><font size="2" face="Arial, Helvetica, Garmond">
-<span class="Apple-style-span" style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; ">
-<p>&nbsp;</p>
+<p align="center"><font face="Arial, Helvetica, Garmond" style="font-size: 11pt"> <span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "> By using this site, you signify your Consent and Agreement to these Terms. <br>
+
+  If 
+
+  you do not agree to these Terms of Use, then do not use the site.<br>
+</span></font><font size="2" face="Arial, Helvetica, Garmond"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium">
+<br>
+
 </span>
-</font><font size="4" face="Arial, Helvetica, Garmond">
-<span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
-			</span></font><blockquote><font size="4" face="Arial, Helvetica, Garmond">
-				</font>
-				<p align="left"><font size="4" face="Arial, Helvetica, Garmond"><b>
-				<span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">Earnings &amp; Income</span><span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><span class="Apple-converted-space">&nbsp;</span></span><span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><a name="Disclaimers"><font color="#FF0000">Disclaimers</font></a></span></b></font><font size="2" face="Arial, Helvetica, Garmond"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt; "><br>
-				<br>This publication provides the collective company's opinion in regards to the 
-subject matter contained herein. Neither the Company, Publisher not the Author 
-intends, with this information, to render legal, accounting or other 
-professional advice. With regards to the licensing of a business enterprise, 
-income generation or any other legal or accounting matters, the Publisher and 
-Author recommend that the reader seek the advice of an appropriately licensed 
-professional.<br><br>The Company, Publisher and Author disclaim any personal liability, both tangible 
-and intangible, loss or risk incurred as a consequence of the use and 
-application, either directly or indirectly, of any advice, information or 
-methods presented herein.<br><br>The information included on our web site(s) and 
-				any accompanying literature, with regard to various business or 
-				marketing methods, is for information purposes only. All money 
-				spent in setting up, running or marketing your business either 
-				as described in this manual, or otherwise is the sole 
-				responsibility of the business owner. <br><br>If you make a decision to get involved in any business that is referred by, 
-through Publisher or its web site(s), please be aware of the following 
-conditions: As with any business, your results may vary, and will be based on 
-your individual capacity, business experience, expertise, and level of desire. 
-There are no guarantees concerning the level of success you may experience.<span class="Apple-converted-space">&nbsp;</span><br>
-				<br>The testimonials and examples used are exceptional results, which do not apply 
-to the average purchaser, and are not intended to represent or guarantee that 
-anyone will achieve the same or similar results. Each individual's success 
-depends on his or her background, dedication, desire and motivation. There is no 
-assurance that examples of past earnings can be duplicated in the future. No one 
-cannot guarantee your future results and/or success.<span class="Apple-converted-space">&nbsp;</span><br>
-				<br>There are some unknown risks in every business and on the internet that you 
-cannot foresee which can reduce results. We are not responsible for your 
-actions. The use of our information, products, system and services should be 
-based on your own due diligence and you agree that our company is not liable for 
-any success or failure of your business that is directly or indirectly related 
-to the purchase and use of our information, products and services.<br><br>All testimonies are a result of personal experience or were provided by each 
-individual. They have NOT be verified for accuracy or truthfulness. These 
-testimonies, although believed to be completely accurate, should not be used as 
-an indication or prediction of your results. No incomes are represented or 
-guaranteed of any amount for any participant. Some people will earn no money at 
-all in this program. All examples are for illustration purposes only. Results of 
-participation may vary widely. Any references to income or earnings are only 
-for the purpose of example. Where specific income figures are used and 
-attributed to an individual or business, we have every reason to believe that 
-those people have earned that amount of money, however, no statements of income 
-have been verified.<br><br>There is no assurance that you will do as well financially as others may have 
-done in the past or may be doing presently. You cannot rely upon the examples 
-given as a prediction of what you may earn. Any and all claims or 
-representations as to income or earnings are not to be considered average 
-earnings, nor are they indicative of what you may expect to earn.<br><br>The prior success or past results related to the income of any person or 
-business cannot be used as an indication of your future success or results. 
-Monetary success and income results are based on many factors. We have no way of 
-knowing how well you will do, as we do not know you, your background, your work 
-ethic, your level of commitment, your financial standing or your business 
-skills. We DO NOT guarantee, imply or predict that you will get rich, that you 
-will do as well as others or that you will earn any money at all. If you rely 
-upon income examples given you must fully accept the risk that you may not do as 
-well, or that you could experience a total loss financially.<br><br>Every kind of business or method of income generation involves substantial risks 
-and are not suitable for everyone. It's your responsibility to use caution when 
-entering any new business venture and to seek the advice of an appropriately 
-qualified professional (accountant, lawyer, or other professional) before acting 
-on this or other information provided to you. You are advised to do your own due 
-diligence when it comes to making business decisions. You should not rely on 
-mere statements or illustrations of income, or any other information provided as 
-fact or as definitive or expert advice in reaching your decision whether or not 
-to get involved.<br><br>You agree that our company is NOT responsible for the success or failure of your 
-business or your business decisions relating to any information presented by our 
-company or our company products and/or services.<br><br>Publisher makes no representations as to the accurateness or reliability of any 
-advertising message or marketing tool offered through any referral, outside 
-company or on this site. While we believe the people/companies we work with to 
-be honest and ethical, we recommend you do your own due diligence relating to 
-any specific claims or promises made in the marketing message, as it relates to 
-your use and purchase.<br><br>Publisher is making no offer of a business opportunity whatsoever. Publisher 
-disclaims any and all liability, both tangible and intangible, loss or risk 
-incurred as a consequence of the use and application, either directly or 
-indirectly, of any advice, information or methods presented by company through 
-any and all mediums-- including, but not limited to, oral and written direction. 
-All money spent in setting up, running or marketing your business either as 
-described, or otherwise is the sole responsibility of the business owner. 
-Publisher does not accept responsibility for the money spent or lost. 
-Furthermore, Publisher renders no legal or accounting opinion of any kind 
-related to the legal compliance or financial soundness of any product, service 
-or program offered by or through this web site and/or our clients or affiliated 
-companies.</span></font></p>
-				<p><font size="4" face="Arial, Helvetica, Garmond"><b>
-				<span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
-				<a name="Anti-Spam0"><font color="#FF0000">Anti-Spam</font></a><font color="#FF0000"> </font>
-				Policy</span></b></font></p>
-				<p><font face="Arial" style="font-size: 11pt">Build My Income 
-				Daily.com maintains a<span class="Apple-converted-space">&nbsp;</span><font color="#ff0000"><strong>ZERO 
-				TOLERANCE POLICY</strong></font><span class="Apple-converted-space">&nbsp;</span>towards 
-				the sending of spam email. Spam email is defined as Unsolicited 
-				Commercial Email (UCE). In the event that you send spam email to 
-				individuals without their permission, you risk immediate 
-				cancellation of your account and forfeiture of all contacts in 
-				that account. You understand and acknowledge that:</font></p>
-				<ul>
-					<li><font face="Arial" style="font-size: 11pt">You are 
-					solely responsible for mail received and/or sent on your 
-					behalf.</font></li>
-					<li><font face="Arial" style="font-size: 11pt">Build My 
-					Income Daily.com will immediately terminate your service..</font></li>
-					<li><font face="Arial" style="font-size: 11pt">Build My 
-					Income Daily.com reserves the right to take legal action 
-					against any member found violating this Spam Policy.</font></li>
-				</ul>
-				<p><font face="Arial" style="font-size: 11pt">In the event that 
-				you have received spam from a Build My Income Daily.com 
-				websites, please notify us by sending a notice to<span class="Apple-converted-space">&nbsp;</span><a class="thickbox gray" title="Close" href="http://buildmyincomedaily.com/support">Support</a>.</font></p>
-				<p><font face="Arial" style="font-size: 11pt"><b>
-				<font color="#003300">Isn't there a law restricting Spam?</font><font color="#5900ab"><span class="Apple-converted-space">&nbsp;</span></font></b><br>
-				Yes, but state spam statutes vary so it is important to conform 
-				to the strictest standards. Many states have spam statutes, and 
-				they all differ; each state has its own definition of 
-				unsolicited commercial email. Additionally, there are various 
-				federal agencies keeping track of spam including the Federal 
-				Trade Commission.</font><font size="2" face="Arial, Helvetica, Garmond"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt; "><br>&nbsp;</span></font></p><font size="2" face="Arial, Helvetica, Garmond">
-				
-				</font><font size="4" face="Arial, Helvetica, Garmond">
-				<span class="Apple-style-span" style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
-				</span></font><p align="left"><font size="4" face="Arial, Helvetica, Garmond"><b>
-				<font color="#FF0000">
-				<span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
-				<a name="PRIVACY">PRIVACY</a></span></font><span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><span class="Apple-converted-space">&nbsp;</span></span></b></font><font size="2" face="Arial, Helvetica, Garmond"><font size="4" face="Arial, Helvetica, Garmond"><b><span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">POLICY</span></b></font><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt; "><br>
-				<br></span>
-				<font face="Arial, Helvetica, Garmond" style="font-size: 11pt">
-				<span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">1. Our Commitment to Privacy. This notice describes our Privacy Policy. Our 
-Privacy Policy is designed to advise you about how we collect, use, and protect 
-the Personally Identifiable Information you provide. By visiting this site, you 
-are accepting the practices described in this Privacy Policy.<span class="Apple-converted-space">&nbsp;</span><br>
-				<br>2. What Information is Collected.<br><br>(a) Information You Provide to Us:<span class="Apple-converted-space">&nbsp;</span><br>
-				<br>We collect the Personally Identifiable Information you choose to enter on 
-various pages of our site, or that you may choose to give us in some other way 
-(such as by email, physical mail, or by telephone). For example, you will be 
-asked to provide Personally Identifiable Information when you register for 
-access to certain portions of our site, sign up for newsletters or mailings, or 
-make a purchase.<span class="Apple-converted-space">&nbsp;</span><br><br>The categories of Personally Identifiable Information we may collect are your 
-first and last name, email address, physical address, and telephone number.<br>
-				<br>You can choose not to provide certain information, but you may not be able to 
-take advantage of our services and features.<br><br>(b) Automatic Information:<span class="Apple-converted-space">&nbsp;</span><br>
-				<br>When you visit a website, you disclose certain information, such as your 
-Internet Protocol (IP) address and the time of your visit. This site, like many 
-other sites, records this basic information about visits to our site.<br><br>(c) Cookies:<span class="Apple-converted-space">&nbsp;</span><br>
-				<br>Cookies are pieces of information that are transferred to your computer from a 
-web server.<span class="Apple-converted-space">&nbsp;</span><br><br>We use cookies to store visitor preferences, record session information (such as 
-items that you add to your shopping cart) record user-specific information on 
-what pages users access or visit, alert visitors to new areas that we think 
-might be of interest to them when they return to our site, record past activity 
-at a site in order to provide better service when visitors return to our site, 
-ensure that visitors are not repeatedly sent the same banner ads, and to 
-customize Web page content based on visitors' browser type or other information 
-that the visitor sends.<br><br>Most browsers are set up to accept cookies, but you can change your settings to 
-have your browser notify you when you receive a new cookie or you can change 
-your settings to refuse to accept cookies.<br><br>3. How and When the Information is Used. The information we collect is used for 
-administering our business activities as follows:<br><br>(a) to improve the content of our site;<br>
-				<br>(b) to customize the content and/or layout of site pages for each individual 
-visitor;<br><br>(c) used to notify consumers about updates to our Web site;<br>
-				<br>(d) used by us to contact consumers for marketing purposes.<br>
-				<br>4. How We Protect Your Information. The privacy and protection of your 
-information is important to us. We offer some of our services in connection with 
-other web sites. The affiliated sites may have different privacy practices and 
-we encourage you to read their privacy policies. Your access to some services 
-and content is password protected. We advise that you do not disclose your 
-password to anyone. In addition, we recommend you sign out of password-protected 
-services at the end of your session. You should also be aware that if you 
-voluntarily disclose Personally Identifiable Information on message boards or in 
-chat areas, that information can be viewed publicly and can be collected and 
-used by third parties without our knowledge and may result in unsolicited 
-messages from other individuals or third parties. Such activities are beyond our 
-control and this policy.<br><br>5. Who Has Access to the Information. Information about our users is important 
-to us. Access to your information may be provided to third parties who provide 
-technical support for the operation of our site. In addition, we may sell our 
-business or buy, merge or partner with other companies or businesses. In such 
-transactions, user information may be transferred along with other assets. We 
-may also disclose your information in response to a court order and we may 
-disclose your information when we believe we are required to do so by law. We 
-may disclose your information in connection with the collection of amounts you 
-may owe to us and to law enforcement authorities whenever we deem it appropriate 
-or necessary. Please note we may not provide you with notice prior to 
-disclosure.<br><br>6. Methods We Use to Protect Your Information. We use security software to 
-protect the confidentiality of your personal information. In addition, our 
-business practices are reviewed periodically for compliance with policies and 
-procedures governing the security and confidentiality of our information. Our 
-business practices limit employee access to confidential information, and limit 
-the use and disclosure of such information to authorized persons.<br><br>7. Children. This website does not provide services or sell products to children 
-under the age of 18. If we discover we have received any information from a 
-child under the age of 18 in violation of this policy, we will delete that 
-information immediately. If you believe we have received any information from or 
-about anyone under the age of 18, please contact us at the address listed below.<br>
-				<br>8. How You Can Access Your Information. You can request access to all your 
-personally identifiable information maintained by us by sending an email to us 
-at the address listed below. Upon request we offer you the ability to have 
-inaccuracies corrected in your personally identifiable information. You can have 
-this information corrected by sending us an email from<span class="Apple-converted-space">&nbsp;&nbsp;our 
-				</span></span>
-				<span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
-				<a target="_blank" href="http://www.buildmyincomedaily.com/support">Support Ticket Center</a></span><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><br>
-				<br>9. Consent. By using our website, you consent to the collection and use of your 
-personal information as described in this Privacy Policy.<br><br>10. Changes to Privacy Policy. If our Privacy Policy or procedures change, we 
-will immediately post those changes to our website. Any such changes will be 
-effective immediately upon being posted, unless otherwise stated in the change.</span></font></font></p>
-				<p align="left">
-				<font face="Arial, Helvetica, Garmond" style="font-size: 13pt">
-				<span class="Apple-style-span">
-				<span style="letter-spacing: normal">To learn more about the 
-				Build My Income Daily.com system and how it functions, please 
-				visit our
-				<a target="_blank" href="http://www.buildmyincomedaily.com/support/kb/faq.php?cid=1">
-				FAQs.</a></span></span></font></p><font face="Arial, Helvetica, Garmond" style="font-size: 13pt">
-			</font></blockquote><font face="Arial, Helvetica, Garmond" style="font-size: 13pt">
-			</font><font size="2" face="Arial, Helvetica, Garmond"><font size="2" face="Arial, Helvetica, Garmond"><font size="2" face="Arial, Helvetica, Garmond"><font size="2" face="Arial, Helvetica, Garmond">
-			<center><input type="button" value="Close Window" onclick="window.close();">
-</center></font></font></font></font></body></html>
+
+</font>
+<span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-stroke-width: 0px">
+<font face="Tahoma" style="color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px">
+<span style="font-size: 13pt; font-weight:700">
+<font color="#309DCF">
+<a target="_self" href="#Refund">
+<font color="#309DCF">Refund Policy</font></a></font></span></font><font face="Tahoma" style="color: rgb(0, 0, 0); font-size: 13pt; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px"></font></span><span style="font-size: 13pt"><font color="#309DCF" face="Tahoma" style="color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px"><span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-stroke-width: 0px"><span class="Apple-converted-space">&nbsp;</span></span></font><font face="Tahoma" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px">|</font><font color="#309DCF" face="Tahoma" style="color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px"><span class="Apple-converted-space">&nbsp;</span></font></span><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-stroke-width: 0px"><span style="color: rgb(0, 0, 0); font-family: Verdana; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 13pt"><a target="_self" href="#Disclaimers"><font color="#309DCF" face="Tahoma">Earnings/Income 
+Disclaimer</font></a></span><span style="color: rgb(0, 0, 0); font-family: Verdana; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; font-size: 13pt"><font color="#309DCF" face="Tahoma"><span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-stroke-width: 0px"><span class="Apple-converted-space">&nbsp;</span></span></font><font face="Tahoma">|</font><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-stroke-width: 0px;"><font color="#309DCF" face="Tahoma"><span class="Apple-converted-space">&nbsp;</span></font></span></span></span><font face="Tahoma" style="color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-stroke-width: 0px"><font color="#008000"><span style="font-size: 13pt"><a target="_self" href="#Privacy"><font color="#309DCF">PRIVACY</font></a></span></font></span></font><font size="2" face="Arial, Helvetica, Garmond"></font></p><font size="2" face="Arial, Helvetica, Garmond">
+
+<span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt"> <br>
+
+</span>
+
+</font> <span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+
+<span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "> 
+<font face="Arial, Helvetica, Garmond" style="font-size: 14pt"> 
+
+</font><blockquote><font face="Arial, Helvetica, Garmond" style="font-size: 14pt"> 
+        </font><p align="left"><font face="Arial, Helvetica, Garmond" style="font-size: 14pt"><b>Our</b></font><font size="4" face="Arial, Helvetica, Garmond"><b><span style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><span class="Apple-converted-space"><span style="color: #008000; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 14pt">
+        </span></span> </span> 
+        <span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 14pt"> 
+        <font color="#008000">
+        <span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+        <a name="Refund">Refund</a></span></font></span><span style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 14pt"><span class="Apple-converted-space">
+        </span></span> 
+        <span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 14pt"> 
+        <span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">Policy</span></span></b></font><font style="font-size: 11pt" face="Arial, Helvetica, Garmond"><span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><br>
+        <br></span></span>
+    <span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt">
+    <span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+    Upgrades:</span></span></font><span class="Apple-style-span"><span style="letter-spacing: normal"><font face="Arial, Helvetica, Garmond" style="font-size: 11pt"><span class="Apple-style-span" style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt"><br>
+    If you decide to upgrade, you will do so knowing there are&nbsp;</span><span class="Apple-style-span" style="font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt">NO 
+    REFUNDS</span><span class="Apple-style-span" style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt">&nbsp;once 
+    a payment has processed.&nbsp; You are agreeing to this and if you file a 
+    dispute with any payment processor, this agreement will be sent along 
+    with our response to any dispute.</span></font></span></span><span class="Apple-style-span" style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt"></span></p>
+         <span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt"> 
+  <p align="left"><font size="4" face="Arial, Helvetica, Garmond"><b> 
+  <span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">Earnings &amp; Income</span><span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><span class="Apple-converted-space"> </span></span><span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><a name="Disclaimers"><font color="#FF0000">Disclaimers</font></a></span></b></font><font size="2" face="Arial, Helvetica, Garmond"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt; "><br>
+
+    <br>
+
+    This publication provides the collective company's opinion in regards to the 
+
+    subject matter contained herein. Neither the Company, Publisher not the Author 
+
+    intends, with this information, to render legal, accounting or other 
+
+    professional advice. With regards to the licensing of a business enterprise, 
+
+    income generation or any other legal or accounting matters, the Publisher and 
+
+    Author recommend that the reader seek the advice of an appropriately licensed 
+
+    professional.<br>
+
+    <br>
+
+    The Company, Publisher and Author disclaim any personal liability, both tangible 
+
+    and intangible, loss or risk incurred as a consequence of the use and 
+
+    application, either directly or indirectly, of any advice, information or 
+
+    methods presented herein.<br>
+
+    <br>
+
+    The information included on our web site(s) and 
+
+    any accompanying literature, with regard to various business or 
+
+    marketing methods, is for information purposes only. All money 
+
+    spent in setting up, running or marketing your business either 
+
+    as described in this manual, or otherwise is the sole 
+
+    responsibility of the business owner. <br>
+
+    <br>
+
+    If you make a decision to get involved in any business that is referred by, 
+
+    through Publisher or its web site(s), please be aware of the following 
+
+    conditions: As with any business, your results may vary, and will be based on 
+
+    your individual capacity, business experience, expertise, and level of desire. 
+
+    There are no guarantees concerning the level of success you may experience.<span class="Apple-converted-space"> </span><br>
+
+    <br>
+
+    The testimonials and examples used are exceptional results, which do not apply 
+
+    to the average purchaser, and are not intended to represent or guarantee that 
+
+    anyone will achieve the same or similar results. Each individual's success 
+
+    depends on his or her background, dedication, desire and motivation. There is no 
+
+    assurance that examples of past earnings can be duplicated in the future. No one 
+
+    cannot guarantee your future results and/or success.<span class="Apple-converted-space"> </span><br>
+
+    <br>
+
+    There are some unknown risks in every business and on the internet that you 
+
+    cannot foresee which can reduce results. We are not responsible for your 
+
+    actions. The use of our information, products, system and services should be 
+
+    based on your own due diligence and you agree that our company is not liable for 
+
+    any success or failure of your business that is directly or indirectly related 
+
+    to the purchase and use of our information, products and services.<br>
+
+    <br>
+
+    All testimonies are a result of personal experience or were provided by each 
+
+    individual. They have NOT be verified for accuracy or truthfulness. These 
+
+    testimonies, although believed to be completely accurate, should not be used as 
+
+    an indication or prediction of your results. No incomes are represented or 
+
+    guaranteed of any amount for any participant. Some people will earn no money at 
+
+    all in this program. All examples are for illustration purposes only. Results of 
+
+    participation may vary widely. Any references to income or earnings are only 
+
+    for the purpose of example. Where specific income figures are used and 
+
+    attributed to an individual or business, we have every reason to believe that 
+
+    those people have earned that amount of money, however, no statements of income 
+
+    have been verified.<br>
+
+    <br>
+
+    There is no assurance that you will do as well financially as others may have 
+
+    done in the past or may be doing presently. You cannot rely upon the examples 
+
+    given as a prediction of what you may earn. Any and all claims or 
+
+    representations as to income or earnings are not to be considered average 
+
+    earnings, nor are they indicative of what you may expect to earn.<br>
+
+    <br>
+
+    The prior success or past results related to the income of any person or 
+
+    business cannot be used as an indication of your future success or results. 
+
+    Monetary success and income results are based on many factors. We have no way of 
+
+    knowing how well you will do, as we do not know you, your background, your work 
+
+    ethic, your level of commitment, your financial standing or your business 
+
+    skills. We DO NOT guarantee, imply or predict that you will get rich, that you 
+
+    will do as well as others or that you will earn any money at all. If you rely 
+
+    upon income examples given you must fully accept the risk that you may not do as 
+
+    well, or that you could experience a total loss financially.<br>
+
+    <br>
+
+    Every kind of business or method of income generation involves substantial risks 
+
+    and are not suitable for everyone. It's your responsibility to use caution when 
+
+    entering any new business venture and to seek the advice of an appropriately 
+
+    qualified professional (accountant, lawyer, or other professional) before acting 
+
+    on this or other information provided to you. You are advised to do your own due 
+
+    diligence when it comes to making business decisions. You should not rely on 
+
+    mere statements or illustrations of income, or any other information provided as 
+
+    fact or as definitive or expert advice in reaching your decision whether or not 
+
+    to get involved.<br>
+
+    <br>
+
+    You agree that our company is NOT responsible for the success or failure of your 
+
+    business or your business decisions relating to any information presented by our 
+
+    company or our company products and/or services.<br>
+
+    <br>
+
+    Publisher makes no representations as to the accurateness or reliability of any 
+
+    advertising message or marketing tool offered through any referral, outside 
+
+    company or on this site. While we believe the people/companies we work with to 
+
+    be honest and ethical, we recommend you do your own due diligence relating to 
+
+    any specific claims or promises made in the marketing message, as it relates to 
+
+    your use and purchase.<br>
+
+    <br>
+
+    Publisher is making no offer of a business opportunity whatsoever. Publisher 
+
+    disclaims any and all liability, both tangible and intangible, loss or risk 
+
+    incurred as a consequence of the use and application, either directly or 
+
+    indirectly, of any advice, information or methods presented by company through 
+
+    any and all mediums-- including, but not limited to, oral and written direction. 
+
+    All money spent in setting up, running or marketing your business either as 
+
+    described, or otherwise is the sole responsibility of the business owner. 
+
+    Publisher does not accept responsibility for the money spent or lost. 
+
+    Furthermore, Publisher renders no legal or accounting opinion of any kind 
+
+    related to the legal compliance or financial soundness of any product, service 
+
+    or program offered by or through this web site and/or our clients or affiliated 
+
+    companies.</span></font></p>
+
+  <p><font size="4" face="Arial, Helvetica, Garmond"><b> <span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"> <a name="Anti-Spam0"><font color="#FF0000">Anti-Spam</font></a> Policy</span></b></font></p>
+
+  <p><font face="Arial" style="font-size: 11pt">Build My Income 
+
+    Daily.com maintains a<span class="Apple-converted-space">&nbsp;</span><font color="#ff0000"><strong>ZERO 
+
+    TOLERANCE POLICY</strong></font><span class="Apple-converted-space">&nbsp;</span>towards 
+
+    the sending of spam email. Spam email is defined as Unsolicited 
+
+    Commercial Email (UCE). In the event that you send spam email to 
+
+    individuals without their permission, you risk immediate 
+
+    cancellation of your account and forfeiture of all contacts in 
+
+    that account. You understand and acknowledge that:</font></p>
+
+  <ul>
+
+    <li><font face="Arial" style="font-size: 11pt">You are 
+
+      solely responsible for mail received and/or sent on your 
+
+      behalf.</font></li>
+
+    <li><font face="Arial" style="font-size: 11pt">Build My 
+
+      Income Daily.com will immediately terminate your service..</font></li>
+
+    <li><font face="Arial" style="font-size: 11pt">Build My 
+
+      Income Daily.com reserves the right to take legal action 
+
+      against any member found violating this Spam Policy.</font></li>
+
+  </ul>
+
+  <p><font face="Arial" style="font-size: 11pt">In the event that 
+
+    you have received spam from a Build My Income Daily.com 
+
+    websites, please notify us by sending a notice to<span class="Apple-converted-space">&nbsp;</span><a class="thickbox gray" title="Close" href="http://buildmyincomedaily.com/support">Support</a>.</font></p>
+
+  <p><font face="Arial" style="font-size: 11pt"><b> <font color="#003300">Isn't there a law restricting Spam?</font><font color="#5900ab"><span class="Apple-converted-space">&nbsp;</span></font></b><br>
+
+    Yes, but state spam statutes vary so it is important to conform 
+
+    to the strictest standards. Many states have spam statutes, and 
+
+    they all differ; each state has its own definition of 
+
+    unsolicited commercial email. Additionally, there are various 
+
+    federal agencies keeping track of spam including the Federal 
+
+    Trade Commission.</font><font size="2" face="Arial, Helvetica, Garmond"><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt; "><br>
+
+    &nbsp;</span></font></p><font size="2" face="Arial, Helvetica, Garmond">
+
+  </font></span><font size="2" face="Arial, Helvetica, Garmond"> </font><font size="4" face="Arial, Helvetica, Garmond"> <span class="Apple-style-span" style="font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+
+  </span></font><p align="left"><font size="4" face="Arial, Helvetica, Garmond"><b> <font color="#FF0000"> <span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"> <a name="Privacy">PRIVACY</a></span></font><span class="Apple-style-span" style="color: #008000; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"><span class="Apple-converted-space"> </span></span></b></font><font size="2" face="Arial, Helvetica, Garmond"><font size="4" face="Arial, Helvetica, Garmond"><b><span class="Apple-style-span" style="font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">POLICY</span></b></font><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 11pt; "><br>
+
+    <br>
+
+    </span> <font face="Arial, Helvetica, Garmond" style="font-size: 11pt"> <span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">1. Our Commitment to Privacy. This notice describes our Privacy Policy. Our 
+
+    Privacy Policy is designed to advise you about how we collect, use, and protect 
+
+    the Personally Identifiable Information you provide. By visiting this site, you 
+
+    are accepting the practices described in this Privacy Policy.<span class="Apple-converted-space"> </span><br>
+
+    <br>
+
+    2. What Information is Collected.<br>
+
+    <br>
+
+    (a) Information You Provide to Us:<span class="Apple-converted-space"> </span><br>
+
+    <br>
+
+    We collect the Personally Identifiable Information you choose to enter on 
+
+    various pages of our site, or that you may choose to give us in some other way 
+
+    (such as by email, physical mail, or by telephone). For example, you will be 
+
+    asked to provide Personally Identifiable Information when you register for 
+
+    access to certain portions of our site, sign up for newsletters or mailings, or 
+
+    make a purchase.<span class="Apple-converted-space"> </span><br>
+
+    <br>
+
+    The categories of Personally Identifiable Information we may collect are your 
+
+    first and last name, email address, physical address, and telephone number.<br>
+
+    <br>
+
+    You can choose not to provide certain information, but you may not be able to 
+
+    take advantage of our services and features.<br>
+
+    <br>
+
+    (b) Automatic Information:<span class="Apple-converted-space"> </span><br>
+
+    <br>
+
+    When you visit a website, you disclose certain information, such as your 
+
+    Internet Protocol (IP) address and the time of your visit. This site, like many 
+
+    other sites, records this basic information about visits to our site.<br>
+
+    <br>
+
+    (c) Cookies:<span class="Apple-converted-space"> </span><br>
+
+    <br>
+
+    Cookies are pieces of information that are transferred to your computer from a 
+
+    web server.<span class="Apple-converted-space"> </span><br>
+
+    <br>
+
+    We use cookies to store visitor preferences, record session information (such as 
+
+    items that you add to your shopping cart) record user-specific information on 
+
+    what pages users access or visit, alert visitors to new areas that we think 
+
+    might be of interest to them when they return to our site, record past activity 
+
+    at a site in order to provide better service when visitors return to our site, 
+
+    ensure that visitors are not repeatedly sent the same banner ads, and to 
+
+    customize Web page content based on visitors' browser type or other information 
+
+    that the visitor sends.<br>
+
+    <br>
+
+    Most browsers are set up to accept cookies, but you can change your settings to 
+
+    have your browser notify you when you receive a new cookie or you can change 
+
+    your settings to refuse to accept cookies.<br>
+
+    <br>
+
+    3. How and When the Information is Used. The information we collect is used for 
+
+    administering our business activities as follows:<br>
+
+    <br>
+
+    (a) to improve the content of our site;<br>
+
+    <br>
+
+    (b) to customize the content and/or layout of site pages for each individual 
+
+    visitor;<br>
+
+    <br>
+
+    (c) used to notify consumers about updates to our Web site;<br>
+
+    <br>
+
+    (d) used by us to contact consumers for marketing purposes.<br>
+
+    <br>
+
+    4. How We Protect Your Information. The privacy and protection of your 
+
+    information is important to us. We offer some of our services in connection with 
+
+    other web sites. The affiliated sites may have different privacy practices and 
+
+    we encourage you to read their privacy policies. Your access to some services 
+
+    and content is password protected. We advise that you do not disclose your 
+
+    password to anyone. In addition, we recommend you sign out of password-protected 
+
+    services at the end of your session. You should also be aware that if you 
+
+    voluntarily disclose Personally Identifiable Information on message boards or in 
+
+    chat areas, that information can be viewed publicly and can be collected and 
+
+    used by third parties without our knowledge and may result in unsolicited 
+
+    messages from other individuals or third parties. Such activities are beyond our 
+
+    control and this policy.<br>
+
+    <br>
+
+    5. Who Has Access to the Information. Information about our users is important 
+
+    to us. Access to your information may be provided to third parties who provide 
+
+    technical support for the operation of our site. In addition, we may sell our 
+
+    business or buy, merge or partner with other companies or businesses. In such 
+
+    transactions, user information may be transferred along with other assets. We 
+
+    may also disclose your information in response to a court order and we may 
+
+    disclose your information when we believe we are required to do so by law. We 
+
+    may disclose your information in connection with the collection of amounts you 
+
+    may owe to us and to law enforcement authorities whenever we deem it appropriate 
+
+    or necessary. Please note we may not provide you with notice prior to 
+
+    disclosure.<br>
+
+    <br>
+
+    6. Methods We Use to Protect Your Information. We use security software to 
+
+    protect the confidentiality of your personal information. In addition, our 
+
+    business practices are reviewed periodically for compliance with policies and 
+
+    procedures governing the security and confidentiality of our information. Our 
+
+    business practices limit employee access to confidential information, and limit 
+
+    the use and disclosure of such information to authorized persons.<br>
+
+    <br>
+
+    7. Children. This website does not provide services or sell products to children 
+
+    under the age of 18. If we discover we have received any information from a 
+
+    child under the age of 18 in violation of this policy, we will delete that 
+
+    information immediately. If you believe we have received any information from or 
+
+    about anyone under the age of 18, please contact us at the address listed below.<br>
+
+    <br>
+
+    8. How You Can Access Your Information. You can request access to all your 
+
+    personally identifiable information maintained by us by sending an email to us 
+
+    at the address listed below. Upon request we offer you the ability to have 
+
+    inaccuracies corrected in your personally identifiable information. You can have 
+
+    this information corrected by sending us an email from<span class="Apple-converted-space"> our </span></span> <span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: 700; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"> <a target="_blank" href="http://www.buildmyincomedaily.com/support">Support Ticket Center</a></span><span class="Apple-style-span" style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto;  text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><br>
+
+    <br>
+
+    9. Consent. By using our website, you consent to the collection and use of your 
+
+    personal information as described in this Privacy Policy.<br>
+
+    <br>
+
+    10. Changes to Privacy Policy. If our Privacy Policy or procedures change, we 
+
+    will immediately post those changes to our website. Any such changes will be 
+
+    effective immediately upon being posted, unless otherwise stated in the change.</span></font></font></p>
+
+  <p align="left"> <font face="Arial, Helvetica, Garmond" style="font-size: 13pt"> <span class="Apple-style-span"> <span style="letter-spacing: normal">To learn more about the 
+
+    Build My Income Daily.com system and how it functions, please 
+
+    visit our <a href="faqs">FAQs.</a></span></span></font></p><font face="Arial, Helvetica, Garmond" style="font-size: 13pt">
+
+</font></blockquote><font face="Arial, Helvetica, Garmond" style="font-size: 13pt">
+
+</font><font size="2" face="Arial, Helvetica, Garmond"><font size="2" face="Arial, Helvetica, Garmond"><font size="2" face="Arial, Helvetica, Garmond"><font size="2" face="Arial, Helvetica, Garmond"> </font></font></font></font>​</span></span></td></tr>
+    </tbody></table>
+
+<br>
+<table width="100%" cellpadding="3" cellspacing="0" border="0" bordercolor="#FF8C00" style="border-collapse: collapse">
+    <tbody><tr><td class="menuf" align="center">
+    <span></span><strong> | <a href="http://www.buildmyincomedaily.com/" class="">Home</a> <span>| <a href="http://www.buildmyincomedaily.com/join" class="">Register</a> </span> | <a href="http://www.buildmyincomedaily.com/faqs" class="">FAQ</a> | <a href="http://www.buildmyincomedaily.com/subscriber" class="">Subscriber</a> | <a href="http://www.buildmyincomedaily.com/terms" class="active">Terms</a> | <a href="http://www.buildmyincomedaily.com/terms#Refund" class="active">Refund Policy</a> | <a href="http://www.buildmyincomedaily.com/terms#Disclaimers" class="active">Earning Disclaimers</a> | <a href="http://www.buildmyincomedaily.com/terms#Privacy" class="active">Privacy</a> | <a href="http://www.buildmyincomedaily.com/contact" class="">Contact</a> | </strong></td></tr>
+</tbody></table>
+
+</center>
+</center></center></td>
+
+      </tr>
+
+      <tr style="color: fontcolour; font-size: 10pt; font-family: Tahoma">
+
+        <td align="center" valign="top" style="color: fontcolour; font-size: 10pt; font-family: Tahoma">
+
+    <img border="0" src="http://www.buildmyincomedaily.com/templates/buildmyincomedailycom/images/footer.png" width="978" height="112">
+    </td>
+
+      </tr>
+
+    </tbody></table>
+  </td>
+
+  </tr>
+
+</tbody></table>
+
+
+</div>
+
+<!-- Begin footcode.html -->
+
+<!-- End footcode.html -->
+
+
+
+
+</body></html>
