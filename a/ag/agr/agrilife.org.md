@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162226id_/http%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218034630id_/http%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
 
 # Privacy & Security Policy | AgriLife.org
 
@@ -38,3 +38,7 @@ We use log analysis tools to create summary statistics, which are used for purpo
 ### Information Security
 
 We employ extensive security measures consistent with the Texas Administrative Code (TAC) “Information Security Standards” and Texas A&M University Rules and Standard Administrative Procedures to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of our web sites and/or associated electronic information resources. The information resources that support our web sites undergo an annual information security risk assessment via the Information Security Awareness Assessment and Compliance (ISAAC) system. The ISAAC system assesses the security posture of information systems and measures compliance with information security standards.
+
+### Social Media
+
+[Public Social Media Notification](https://www.tamus.edu/offices/marcomm/socialmedia/public)
