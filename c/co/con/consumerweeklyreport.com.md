@@ -1,33 +1,17 @@
-> *The following text is extracted and transformed from the consumerweeklyreport.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028044650id_/http%3A//www.consumerweeklyreport.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerweeklyreport.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Legal
 
-This is a privacy policy for news9at5.com who respects your privacy. Below is an outline of the information that this web site gathers, how it’s used, and how you can “opt-out”
+* * *
 
-We invite you to contact us if you have questions about this policy. 
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-You may contact us by filling out this form:
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-[Contact Us](https://web.archive.org/web/contact-us.html)
 
-Site Visits:
 
-Whenever you request a page through your browser, navigation and clickstream data such as:
-
-    * your IP address,   
-    * browser and version,   
-    * operating system,   
-    * date and time and   
-    * the site from which you came
-
-are stored in a log file and/or database. 
-
-When opting into our mail lists, your information is kept on a secure dedicated server hosted by Aweber.
-
-The email addresses collected from opt-ins to our mailing lists are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out communications (for example, newsletters). You will not receive any mailings you did not request. The email addresses collected at our web site are stored on a server hosted by Aweber. You can remove yourself from our list at any time by clicking on the unsubscribe link at the bottom of any emails sent from us.
-
-When a contest/sweepstakes/survey is run on this site you may be asked to supply some personally identifying information like your name, email address and/or phone number by the third-party company offering the contest/sweepstakes/survey. We are not affiliated with these companies and cannot extend our privacy policy to prevent these companies from using your information in the manner the deem suitable.  Please review the terms and conditions of any offers presented before you complete any of the offers.
-
-Any data collected will be used by ourselves and our agents. news9at5.com hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
-
-If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please [contact us](https://web.archive.org/web/contact-us.html).
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
