@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the hdwallpaperspot.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212223428id_/http%3A//www.hdwallpaperspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaperspot.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202808id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | hdwallpaperspot.com
+# Legal
 
-Hdwallpaperspot.com clearly honors the privacy and security of its valuable visitors. Every visitor’s confidentiality is secured through a methodical and complete privacy policy. Hdwallpaperspot clearly defines the information it collects from its visitors, and how the information is used.
+* * *
 
-Once the amount of collected information is clearly stated, the user feels more secure and at ease when browsing the website. Internet browsing is not free of spam and scams, thus at hdwallpaperspot we collect only the relevant personal information of a user. This information is used to enhance the visitor’s experience at the website. The visitor’s personal information is safeguarded and not given to any third parties on hdwallpaperspot.
+**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
 
-The following types of information are stored by the website.
+  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+  * the date and time you access the website and pages you visit;
+  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
+  * demographic and other non-personally identifiable profile information about you; and
+  * information to combat fraud or misuse
 
-**Log Files**
 
-The website stores any data given in the log files of the user. This is a common practice carried out by most web pages on the World Wide Web. A user’s log file information on hdwallpaperspot stores the IP (Internet Protocol) address, the ISP name, the time the website was visited, the information of pages visited and the browser used (Safari, Internet Explorer etc.).
 
-**Cookies and Web Beacons**
-
-Once a visitor logs in to hdwallpaperspot, the website strives to provide him/her with a unique browsing experience. To ensure that the advertisements etc. viewed by a user are of related interest, the web site stores cookies. These cookies stock up a visitor’s personal preferences and browsing information.
-
-Cookies are also responsible for giving the users many privileges on the website. Advertisements take the help of a user’s cookies to display ads of a user’s interest. Advertisers also use web beacons for the same purposes. It extracts information about a user’s browser, plug in details, ISP and IP address.
-
-Google also provides the DART cookies technology, which can help advertisements relating your interests reach you. However, as a visitor hdwallpaperspot gives you full control and you can opt out of this service at any time.
-
-If you do not approve of the retrieval of personal information, you can opt out of it by installing any antivirus services. This will fulfill your privacy measures but it might also limit your usability of the website. This is because certain features require cookies to function.
-
-**Third Party Advertisers**
-
-Hdwallpaperspot employs third party advertisers to improve the browsing experience. Third party advertisers use algorithms to provide our visitors with ads of their interest. Therefore to carry out this task, third party advertisers are given your personal information, so the algorithms can efficiently figure out the best ads for you.
-
-Any personal information like the visitor’s name, address, contact information etc. is not handed over to the third party advertisers.
-
-Once again, Hdwallpaperspot allows you to opt out of this service as well. We work to make your browsing experience safe, secure and enjoyable – wishing you protected and fruitful browsing!
+**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
