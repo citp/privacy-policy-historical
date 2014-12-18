@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmall.eu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084825id_/https%3A//www.golem.eu/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D84%26Itemid%3D159%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmall.eu privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218202906id_/https%3A//www.golem.eu/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D84%26Itemid%3D159%26lang%3Den) for the most accurate reproduction.*
 
 # GOLEM ® Domain Aftermarket - Privacy Statement
 
@@ -61,6 +61,6 @@ If you have any questions regarding this privacy policy you may contact us using
 
 **GOLEM Domain Aftermarket**  
 host.at Software GmbH  
-Hausergasse 21  
-A-9500 Villach  
-Carinthia, Austria
+Mariahilfer Straße 36  
+A-1070 Wien  
+Vienna, Austria
