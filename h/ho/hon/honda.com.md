@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honda.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629111233id_/http%3A//www.honda.com/site/site_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218201422id_/http%3A//www.honda.com/site/site_privacy.aspx) for the most accurate reproduction.*
 
 # Honda Cars Motorcycles Watercraft ATVs Engines Generators, Acura
 
@@ -232,5 +232,17 @@ We may also disclose:
 * information about you to nonaffiliated third parties as permitted or required by law (for example, information provided to credit reporting agencies or in response to a subpoena).
 
 If we modify our privacy policy on how we handle your personal information, we will post the revised information here, with a revised "effective date" at the top of this privacy policy. If there are material changes to this privacy policy or in how we will use your personal information, we may notify you by other means, such as sending an email to you or by posting a notice of such changes on our website. We encourage you to periodically review this statement to be informed of how we are protecting your information.
+
+BACK TO TOP
+
+**greendealer.honda.com**
+
+**Honda Green Dealer**
+
+**Email Newsletters.  **You may decide that you wish to sign up to receive email newsletters on Honda environmentally responsible products & technology, “green dealer” guideline updates, and/or other site features. In doing so, you will be required to provide your email address and occupation, and asked to submit your first name, last name, country of origin, and organization. Requesting email newsletters and providing your personal information is your choice.
+
+**Download the “Green Dealer” Guide.**  You may download the “green dealer” guideline. In doing so, you will be required to provide your email address and occupation, and asked to submit your first name, last name, country of origin, and organization before your download begins. Downloading the “green dealer” guideline and providing your personal information is your choice.
+
+**Locate a “Green Dealer” & “Green Dealers” by Award Level.**  Dealerships referenced herein are Honda and Acura dealers, which are independent from American Honda. Visiting these dealers online or in person is your personal choice.
 
 BACK TO TOP
