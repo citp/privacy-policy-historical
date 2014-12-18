@@ -1,60 +1,77 @@
-> *The following text is extracted and transformed from the mytopclip.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122110047id_/http%3A//www.mytopclip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytopclip.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203159id_/http%3A//www.buybonsaipot.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
-# Mytopclip - The Best Video Clips :: Privacy Policy
+# Privacy Policy
 
-We do not send spam to or sell e-mail addresses.  
+This Privacy Policy governs the manner in which EBG GROUP collects, uses, maintains and discloses information collected from users (each, a "User") of the Buybonsaipot.com website ("Site"). This privacy policy applies to the Site and all products and services offered by EBG GROUP.
 
+Personal identification information
 
-Mytopclip is an online video sharing site. Members of its networking community set up personal profiles that can be inter-connected through networks of friends. Members can view other members' profiles; communicate with each other over the network, and share media files, comments, tags and web links to describe their interests. In this process, Mytopclip request and display some personal information of members to other members and visitors, which allows our users to identify each other and expand their network of friends. Mytopclip members can change their profile information at any time.  
+We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
+Non-personal identification information
 
-By visiting our web site or its affiliated partners, you are accepting the terms and conditions of the privacy policy of Mytopclip.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-  * Information Collected and Used by Mytopclip 
+Web browser cookies
 
-Mytopclip collects member submitted account information such as name, email address, and birthday to identify members and to send notifications to those members relating to the Mytopclip service. Mytopclip also collects other profile data including but not limited to: personal interests, gender, age, education and occupation in order to assist members in finding and communicating with each other.
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Mytopclip also logs non-personally-identifiable information including IP address, profile information, aggregate user data, and browser type, from members and visitors to the site This data is used to manage the website, track usage and improve the website services. This non-personally-identifiable information may be shared with third-parties to provide more relevant services and advertisements to members. User IP addresses are recorded for security and monitoring purposes.
+How we use collected information
 
-User Profile information including members' pictures and first names are displayed to people in order to facilitate user interaction in the Mytopclip social networking community. Email addresses are used to invit new friends to join Mytopclip, to add users to members' friends' networks, and to send notifications related to the service. With the exception of inviting friends, adding friends, and notifications, a user's email address is not shared or displayed to people within a user's personal network. Users within a personal network communicate on Mytopclip with each other through the Mytopclip service, without disclosing their email addresses. Users' full names are never directly revealed to other members.
+EBG GROUP collects and uses Users personal information for the following purposes:
 
-From time to time, Mytopclip or a partner may sponsor a promotion, sweepstake or contest on our website. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate.
+\- To personalize user experience  
+ We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+\- To improve our Site  
+ We continually strive to improve our website offerings based on the information and feedback we receive from you.  
+\- To improve customer service  
+ Your information helps us to more effectively respond to your customer service requests and support needs.  
+\- To process transactions  
+ We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
+\- To send periodic emails  
+The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-  * Invitations and Other Communications to Non-members 
+How we protect your information
 
-Mytopclip members can invite friends to join the network by sending invitation emails via our automated invitation system. Mytopclip stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations. Mytopclip does not sell these email addresses or use them to send any other communication besides invitations. Recipients of invitations from Mytopclip may contact us to request the removal of their information from our database.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-  * Use of Cookies 
+Sharing your personal information
 
-Mytopclip uses cookies to store visitors' preferences and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set -- each browser is different, so check the "Help menu of your browser to learn how to change your cookie preferences -- however, you must enable cookies from Mytopclip in order to use most functions on the site. Please note that we allow 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Please also be aware that dvertisers' use of cookies is subject to their own privacy policies, not the Mytopclip Privacy Policy.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-  * Links 
+Third party websites
 
-Mytopclip contains links to other websites, either provided by us or posted by members and visitors of the Mytopclip website. Mytopclip is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our privacy policy only governs information collected on Mytopclip website.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-  * Publicly Published Contents 
+Advertising
 
-Please be aware that whenever you voluntarily post public information to the website that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-  * Third Party Advertising 
+Google Adsense
 
-Ads appearing on this website may be delivered to users by Mytopclip or one of our web advertising partners. Our web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Mytopclip and does not cover the use of cookies by any advertisers.
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.htmlCompliance)
 
-  * Correcting, Updating or Removing Information 
+[ Compliance](http://www.google.com/privacy_ads.htmlCompliance)
 
-Mytopclip users may modify or remove any of their personal information at any time
+with children's online privacy protection act
 
-  * Security
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-Mytopclip's members' accounts are protected by member-created passwords. We take precautions to insure that member account information is kept private. We use reasonable measures to protect member information stored within our database, and we limit access to member information to those employees who need access to perform their job functions, such as customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. If you have any further question about the security at our website, please contact us.
+Changes to this privacy policy
 
-  * Disclosure of Information Mytopclip Collects 
+EBG GROUP has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-Except as described above, Mytopclip will not disclose personal information to any third party without a member's explicit permission unless required by law. Mytopclip reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of Mytopclip or substantially all of its assets to that successor in interest. For more information see the "Changes in Our Privacy Policy" section below.
+Your acceptance of these terms
 
-  * Changes in Our Privacy Policy 
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-From time to time we may make changes to our privacy policy. If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted. If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our website.
+Contacting us
 
-
-
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+EBG GROUP  
+Buybonsaipot.com  
+732 panda rd  
+Washougal, wa 98671  
+360-837-8000  
+[bonsai@buybonsai.com](mailto:bonsai@buybonsai.com)  
+ document was last updated on October 03, 2010
