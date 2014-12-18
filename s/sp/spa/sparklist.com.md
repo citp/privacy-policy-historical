@@ -1,92 +1,122 @@
-> *The following text is extracted and transformed from the sparklist.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004105530id_/http%3A//www.sparklist.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklist.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218211033id_/http%3A//lyris.com/us-en/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
-# SparkLIST - Privacy Policy
+# Privacy Policy
 
-> > [ ](https://www.truste.org/validate/5162)
+### Effective Date: 29/01/2014
 
-This confirms that SparkLIST is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [http://SparkLIST.com/](https://web.archive.org/).
+The following statement (this “Statement”) discloses the policies of Lyris, Inc. (which is sometimes referred to in this Privacy Policy as "Lyris," the "Company," "we," or "us") with respect to information that we collect from visitors to our corporate Web site (www.lyris.com). This Statement also describes the services (our “Services”) we provide to our customers (each, a “Customer”) via our Platforms (Lyris One and Lyris HQ) and contains our end user opt-out mechanism. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Lyris. Unless otherwise provided in this Statement, this Statement does not apply to our offline data practices. This Statement is effective as of the date set forth above.
 
-TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
+This Statement applies to the operation of any Web site that directly links to this Statement when you click on “privacy statement” in the Web site footer.
 
-1\. What personally identifiable information of yours or third party personally identification is collected from you through the web site 
+## Definitions
 
-2\. The organization collecting the information 
+"Personal Information" or "Information" means information that (1) is about, or pertains to a specific individual; and (2) can be linked to that individual.
 
-3\. How the information is used 
+"Sensitive Personal Information" means financial data, such as credit card number or social security number.
 
-4\. With whom the information may be shared 
+## Privacy Principles
 
-5\. What choices are available to you regarding collection, use and distribution of the information 
+### Notice
 
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under SparkLIST control 
+You can visit and navigate through our main, corporate Web Site (www.lyris.com) to gather information about our company and Services without telling us who you are and without otherwise revealing any type of Personal Information.
 
-7\. How you can correct any inaccuracies in the information. 
+Our website does offer several opportunities for visitors to register for free information, seminars, or demonstration copies of our software, and for assistance in evaluating our software and Services. These registration forms are often linked to Lyris mailing lists, and require users to provide Personal Information (such as name, phone number and e-mail address), which we use to send users information about our company and our products and Services. We also use this information to contact site visitors by e-mail for marketing purposes if they have granted us permission (on the mailing list form or other forms on our website) to send it to them, and for administrative purposes such as providing time and location of seminars. Users may also be contacted by phone or postal mail for marketing purposes.
 
-If you have questions or concerns regarding this statement, you should first contact: 
+We use information that is not Personal Information (e.g., IP address) to help diagnose problems with our server and to administer our website. IP addresses are also used to gather broad, personally non-identifiable demographic information, such the countries in which our Web site visitors live.
 
-> > privacy@sparklist.com  
->  510.204.8580  
->  Fax 510.549.4351  
->  2070 Allston Way, Suite 101  
->  Berkeley, CA 94704
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We also have third party cookies and other tracking technologies on our site that collect data in the aggregate only.
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog_intro.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+The use of cookies by our partners and tracking utility companies is not covered by our privacy statement. We do not have access or control over these cookies.
 
-* * *
+Our website contains testimonials that contain information such as Customer names and titles. Lyris obtains the consent of each Customer prior to posting any information on such a list or posting testimonials. If you want your testimonial removed please contact us as set forth below.
 
-SparkLIST uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
+Some of our third party service providers employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
 
-This site contains links to other sites. SparkLIST is not responsible for the privacy practices or the content of such Web sites. SparkLIST recommends you refer to each Web site's Privacy Statements. 
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
-SparkLIST uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). The customer's contact information is used to get in touch with the visitor for billing purposes only. Financial information that is collected is used to bill the user for products and services. SparkLIST's use of customer contact information only includes SparkLIST's enterprise customers and potential customers, and not information from our customers' email lists. 
+Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. Our website contains links to other sites. Lyris is not responsible for the privacy practices or the content of such websites and recommends that you check the privacy policies of other sites to be aware of how your information is being used.
 
-SparkLIST uses subscription forms for individuals to request information. We collect visitor's contact information (like your email address) to provide you with the information that you request. We will periodically send you email referring to SparkLIST news and updates to the services we provide. Again, SparkLIST's use of customer contact information only includes SparkLIST's enterprise customers and potential customers, and not information from our customers' email lists.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us as set forth below. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Each client will be notified via email, telephone or postal mail relating to any changes regarding the use of sensitive client information by SparkLIST. Written or active email consent by the individual user will be required. 
+### Choice
 
-**Sharing Information**  
-SparkLIST does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+Any Personal Information collected by Lyris is used for the sole purpose of communicating with prospects, Customers, and contacts that have requested to receive information from us regarding specific marketing events, materials, or other information specifically advertised by Lyris in promotional material. You have the ability to “opt-out” or unsubscribe from any Lyris’ communications via email, phone, mail, or fax (provided below) at anytime. Lyris also provides opt-out information in all marketing communications via an “unsubscribe” link in communication emails which directly unsubscribes you from any further communication from Lyris.
 
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SparkLIST's terms of use, or as otherwise required by law.
-  * In the event of a sale, merger, liquidation, dissolution, reorganization or acquisition of SparkLIST or a SparkLIST business or business unit, information may be transferred together with its business operations.
+### Access
+
+We allow our Web site visitors to access their Personal Information and allow them to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. Customers may request that we update, amend, or delete their Personal Information by following the Profile Update link in every Lyris e-mail communication. Alternatively, you can contact us as described below if you would like your Personal Information deleted. We will respond to your request within 30 business days.
+
+We will retain your Personal Information for as long as your account is active or as needed to provide you with information or services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us as described below. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### Onward Transfers
+
+We will share your personal information with third parties only in the ways that are described in this Statement. The Personal Information we collect is not shared, rented, or sold to any third-parties. We may provide your Personal Information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We may also disclose your personal information:
+
+  * as required by law, such as to comply with a subpoena, or similar legal process;
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+  * if we are involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your personal information; and
+  * to any other third party with your prior consent to do so.
 
 
 
-**Supplementation of Information**  
-SparkLIST does not supplement your information with any outside third parties.
+### Lyris’s Provision of Services to its Customers
 
-**Security**  
-The SparkLIST web site has security measures in place to protect the loss, misuse and alteration of the information under our control. Sensitive data, such as credit card information, collected through SparkLIST's website is transferred via Secure Socket Layer (SSL) server only. SparkLIST employees are made aware of all security policies and are maintaining and protecting your personally identifiable information. 
+Lyris is a provider of email marketing solutions. Our Services include Customer database management and analysis, e-mail delivery, e-mail tracking, and website tracking. Some of our products are offered as application Services, meaning that we host a software application that our Customers access via the worldwide web. Each Customer understands that in the course of providing our Services to it, we collect or receive information about the individual to whom our Customer directs its marketing messages. Some of the information that we collect and store on our Customers’ behalf is personally identifiable, meaning that it can be used to identify an individual person.
 
-**Choice / Opt-In**  
-SparkLIST provides opt-in opportunities for all email lists that you choose to receive. We use your email addresses to confirm your subscription and validity of the provided email address. Your reply to this email is necessary for completing your subscription to any email list. 
+As between Lyris and our Customer, all of the information we receive from our Customer belongs to our Customer and not to Lyris. Lyris collects information under the direction of its Customers, and has no direct relationship with the individuals whose personal data it processes. Lyris may use such information only as provided in our written agreement with the individual Customer. While our specific responsibilities regarding such information are found in these written Customer agreements, Lyris does not allow individual information collected and stored for one Customer to be accessed or used by any other Lyris Customer (or by Lyris on its own behalf). We reserve a limited right to use our Customers’ information to compile aggregated statistics, which we use to report such facts as how many emails we have delivered. However, we do not disclose this information in such a way as to enable anyone to identify a Customer or any individual. Our Customer agreements also permit us to disclose any information if required by law or court order, and to access a Customer’s email addresses in order to unsubscribe an individual who asks us to do so. If you are an end user of one of our Customers, and would no longer like to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly. An end user who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to Lyris’ Customer (the data controller). If the Customer requests Lyris to remove the data, we will respond to their request within 30 business days.
 
-**Choice / Opt-Out**  
-SparkLIST provides its users the opportunity to opt-out of receiving communications from us. We offer users the following options for removing their information from our database, to not receive future communications or to no longer receive our service. 
+Lyris may transfer personal information to companies that help us provide our service. Transfers to these third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Customers.
 
-> 1\. email: [webmaster@sparklist.com](mailto:webmaster@sparklist.com)  
->  2\. telephone: 510.204.8580
+In our Customer agreements, we require each Customer to abide by all laws, rules and regulations that are applicable to the Customer’s use of our Services (such as CAN-SPAM), and we promise each Customer that we will do the same with respect to our provision of Services. We ask each Customer to post a privacy policy that covers the Customer’s use of our Services. We also request the Customer to acquire and maintain all rights that allow us to provide the Services, such as to receive the information that we collect and store on the Customer’s behalf.
 
-**Correct / Update**  
-Change the email address that you have subscribed with by first unsubscribing with your current email address. Then, resubscribe with your new email address. All email list welcome messages contain the information necessary for subscription and removal from their appropriate list. SparkLIST also provides the following contact information for modifying information previously provided. 
+For any email list that we manage on behalf of a Customer, the email recipients can unsubscribe from the list via a link in the footer of most e-mail messages that we deliver. Alternatively, recipients can reply to an e-mail message according to the instructions provided at the bottom of the message. Finally, a recipient can contact us as provided below and we will manually unsubscribe you from any list.
 
-> 1\. email: [webmaster@sparklist.com](mailto:webmaster@sparklist.com)  
->  2\. telephone: 510.204.8580
+Our Services sometimes use cookies to help our Customers better analyze the success of their email and other online marketing campaigns. The cookies we use are often correlated with information that can identify an individual, but this information is not shared with anyone other than the Customer. As with the email addresses and other information we maintain and process for each of our Customers, this information is not used by us except as described above or shared with other Lyris Customers.
 
-**Unsubscribe**  
-SparkLIST provides unsubscribe / opt-out opportunities for all email lists that you choose to receive. All email list welcome messages contain the information necessary for removal from the list. Removal from all lists is instant and automated by our servers.
+Lyris is not responsible for its Customers' own privacy policies and makes no representations about their accuracy. If you have questions about our Customers' practices, we recommend you check their privacy policies and/or contact them directly.
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
+### Data Security
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+Lyris takes reasonable steps to protect Personal Information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. We have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information from loss, misuse, unauthorized access or disclosure, alteration or destruction. However, we cannot guarantee the security of information on, or transmitted via, the Internet.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+Lyris will retain personal data we process on behalf of our Customers for as long as needed provide services to our Customer. Lyris will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-> Webmaster  
->  SparkLIST  
->  2070 Allston Way, Suite 101  
->  Berkeley, CA 94704  
->  [privacy@sparklist.com](mailto:privacy@sparklist.com)
+The security of your personal information and our clients’ information is important to us. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us as set forth below.
+
+### Data Integrity
+
+Lyris processes Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the owning individual. To the extent necessary for those purposes, we take reasonable steps to ensure that Personal Information is accurate, complete, current and reliable for its intended use.
+
+### Safe Harbor
+
+The Company respects and protects the individual privacy and confidence of our Customers, stakeholders, employees, business partners and others who may use our Services. Protecting consumer privacy is important to the Company. The Company adheres to the Safe Harbor Agreement concerning the transfer of personal data from the European Union (“EU”) to the United States of America (European Union Safe Harbor). Accordingly, we follow the Seven (7) Safe Harbor Principles published by the U.S. Department of Commerce (the “Principles”) with respect to all such data. Lyris has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Our privacy practices are self-certified as part of the U.S. Commerce Department's Safe Harbor Program. Information regarding the E.U. Safe Harbor Framework can be found at: [http://export.gov/safeharbor](http://export.gov/safeharbor/).
+
+If there is any conflict between the policies in this Statement and the Principles, the Principles shall govern. This Statement outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information.
+
+### Enforcement
+
+Company utilizes a self-assessment approach to assure compliance with this Statement and periodically verifies that the Statement is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible. We encourage interested persons to raise any concerns using the contact information provided below, and we will investigate and attempt to resolve any complaints and/or disputes regarding our use and disclosure of Personal Information in accordance with this Statement. We also have a third party dispute resolution provider, TRUSTe. You can contact TRUSTe as described above.
+
+### Children
+
+This Web site is not intended to nor does it seek to receive any information from children under the age of 13.
+
+### Contact Information
+
+Questions or comments regarding this Statement can be submitted to us by mail or e-mail as follows:
+
+Lyris Inc   
+6401 Hollis Street   
+Suite 125   
+Emeryville, CA 94608   
+[legal@lyris.com](mailto:legal@lyris.com)   
+510.844.1505 (phone)   
+510.355.3700 (fax)
+
+### Amendments
+
+This Statement may be amended from time to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### Information Subject to Other Policies
+
+The Company is committed to following the Principles for all Personal Information within the scope of the Safe Harbor Agreement. However, certain information is subject to policies of the Company that may differ in some respects from the general policies set forth in this Privacy Policy.
