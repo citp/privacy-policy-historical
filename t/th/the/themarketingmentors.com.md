@@ -1,73 +1,63 @@
-> *The following text is extracted and transformed from the themarketingmentors.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070157id_/http%3A//themarketingmentors.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themarketingmentors.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218100725id_/http%3A//themarketingmentors.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# None
 
-### **Privacy Statement:**
+#### Effective Date: January 2014
 
-We never give out, rent, sell or share any of your information under any circumstances.
+The following Privacy Policy governs the online information collection practices of Marketing Mentors, Inc. d/b/a “themarketingmentors.com” (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the themarketingmentors.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail). 
 
-### **Cookies:**
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified. 
 
-Some pages on our web sites use cookies in order to log you into private sections of the sites, know what page you enter my sites on, what pages you exit on, how long you stay here, what browser you used and also to track who referred you to our sites.
+themarketingmentors.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. “Period.” 
 
-That’s what cookies do. Nearly everything else you hear about them is b.s. and hysteria. They are extremely small text files that give marketers basic information make your web surfing experience better.
+#### How We Collect and Use Information
 
-### **Online Sales:**
+We may collect and store personal or other information that you voluntarily supply to us online while using the Site (e.g., while on the Site or in responding via email to a feature provided on the Site). Themarketingmentors.com only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. Themarketingmentors.com collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you. 
 
-We use InfusionSoft.com to process requests for free information and sales orders from our site. Any post sales information is stored in a secure area.
+We also collect and store information that is generated automatically as you navigate online through the Site. For example, we may collect information about your computer’s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. 
 
-### **Information gathered through forms:**
+Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address. 
 
-  * Email Address
-  * Person’s Name
-  * Postal Address
-  * Phone Number
-  * Fax Number
-  * Credit Card Information
+The Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages. 
 
+#### What Are Cookies?
 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
 
-This information is gathered when a request for a free offer or an order is placed so that it can be fulfilled properly. The visitor’s name and address are required for delivery by mail. The phone number is necessary because if a question arises with an order, we need to be able to contact our customer. The email address is necessary so that we can send an acknowledgment.
+#### IP Addresses
 
-### **Marketing Profile:**
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you. 
 
-Information we request on forms, including “tell us how you discovered this web site” is used to refine our marketing efforts so we can identify other visitors like you with minimal cost and reduce the likelihood of intruding on consumers who are not likely to be interested in our products and services. We will use the “opt-in” email address to send electronic newsletters and updates or announcements about the site and products and services offered by Adam Urbanski, The Marketing Mentors and/or our partners and affiliates if the visitor indicates interest.
+#### How Do We Use the Information That You Provide to Us
 
-### **What we do with the information collected through forms:**
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers. 
 
-  * Contact you by email
-  * Contact you by mail
-  * Contact you by phone
-  * Save to improve site
+themarketingmentors.com will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. 
 
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. 
 
+We also may provide your information to third parties, such as service providers and contractors, for a variety of purposes. Unless you inform us in accordance with the process described below, we reserve the right to use, and to disclose to third parties, all of the information collected from and about you while you are using the Site in any way and for any purpose, such as to enable us or a third party to provide you with information about products and services. If you do not wish your information to be used for these purposes, you must send a letter to the Online Privacy Coordinator whose address is listed at the end of this Privacy Policy requesting to be taken off any lists of information that may be used for these purposes or that may be given or sold to third-parties. 
 
-We take orders and requests for free offers that are then used to ship products and free samples. The visitor’s name, address, phone, fax, and email address are only used by Adam Urbanski and are not shared with third parties.
+Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online — for example on message boards, web logs, through email, or in chat areas — that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information. 
 
-### **Changing Information:**
+The Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase third-party products or services through the Site, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services. 
 
-If you wish to update or change information we’ve received from you, contact **:**
+We may also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner’s use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. 
 
-**Email:  
-** [wecare@themarketingmentors.com](mailto:wecare@themarketingmentors.com)
+Be aware that we may occasionally release information about our visitors when release is appropriate to comply with law or to protect the rights, property or safety of users of the Site or the public. 
 
-**Telephone and Fax:  
-**tel.  +1 949-651-8286  
-fax. +1 949-551-2814
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets or one or more of our websites is acquired by another company, information about our users may be among the transferred assets. 
 
-**Mail:  
-**Marketing Mentors  
-15333 Culver Drive, Suite 340-173  
-Irvine, CA 92604
+#### How do we store your information?
 
-### **Guarantees:**
+Your information is stored at the list server that delivers themarketingmentors.com newsletters, daily tips and email messages. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive communication from themarketingmentors.com 
 
-Your satisfaction is assured through our no risk, you-can’t-lose, 100%, no-questions-asked, iron-clad money-back guarantee.
+All of the newsletters or emails that are sent to you by themarketingmentors.com include an unsubscribe link in them. You can remove yourself at any time from our newsletters or mailing list by clicking on the unsubscribe link that can be found in every communication that we send you. 
 
-If for any reason, you aren’t thrilled and satisfied with your purchase, just contact us within the next 90 days and we’ll refund 100% of your purchase price.
+#### Policy Changes
 
-### **Support Contacts:**
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
 
-Have a Sales or Billing Question? [Click here](http://themarketingmentors.com/contact/)
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
-Please contact Adam Urbanski ([adam@themarketingmentors.com](mailto:adam@themarketingmentors.com)) with any questions regarding this privacy policy.
+If you have any questions or concerns regarding our privacy policy please direct them to [wecare@themarketingmentors.com](mailto:wecare@themarketingmentors.com)  
