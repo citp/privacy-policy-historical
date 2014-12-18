@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the androsweb.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808131313id_/http%3A//directory.androsweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androsweb.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218113131id_/http%3A//directory.addlinksuggest.com/privacy.html) for the most accurate reproduction.*
 
-# Androsweb::Privacy Policy
+# AddLinkSuggest::Privacy Policy
 
-[](https://web.archive.org/submit.html)
-
-**Privacy Policy**
+  **Privacy Policy**
 
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
 
