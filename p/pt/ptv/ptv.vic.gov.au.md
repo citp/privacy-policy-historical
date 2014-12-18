@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ptv.vic.gov.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630060728id_/http%3A//www.ptv.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptv.vic.gov.au privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219003645id_/http%3A//ptv.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Public Transport Victoria
 
-Public Transport Victoria (PTV) will collect, use, store and disclose personal information and health information in accordance with Information Privacy Principles (IPPs) set out in the Information Privacy Act 2000 (Vic) and the Health Privacy Principles (HPPs) and the Health Records Act 2001 (Vic).
+Public Transport Victoria ( **PTV** ) will collect, use, store and disclose personal information and health information in accordance with Information Privacy Principles ( **IPPs** ) set out in the Privacy and Data Protection Act 2014 (Vic) ( **Privacy and Data Protection Act** ) and the Health Privacy Principles ( **HPPs** ) set out in the Health Records Act 2001 (Vic) ( **Health Records Act** ).
 
-This policy outlines how PTV manages Personal Information and Health Information, and is designed to assist people to understand how Personal Information and Health Information is managed by PTV
+This policy outlines how PTV manages Personal Information and Health Information, and is designed to assist people to understand how Personal Information and Health Information is managed by PTV.
 
-Information is also provided about how people can seek assurance that their Personal Information and/or Health Information is maintained in accordance with the Information Privacy Act 2000 and the Health Records Act 2001.
+Information is also provided about how people can seek assurance that their Personal Information and/or Health Information is maintained in accordance with the Privacy and Data Protection Act and the Health Records Act.
 
-This policy applies to all employees of PTV when dealing with Personal Information or Health Information. Where PTV enters into a contract with another organisation for the provision of goods or services relevant to the functions and powers of PTV, those organisations will be required to manage all Personal Information and Health Information in accordance with the Information Privacy Act 2000 and Health Records Act 2001 too, but may have their own relevant privacy policies.
+This policy applies to all employees of PTV when dealing with Personal Information or Health Information. Where PTV enters into a contract with another organisation for the provision of goods or services relevant to the functions and powers of PTV, those organisations will be required to manage all Personal Information and Health Information in accordance with the Privacy and Data Protection Act and the Health Records Act too, but may have their own relevant privacy policies.
 
 This policy may be varied from time to time and will operate consistently, and in conjunction, with customised privacy policies and collection statements developed by individual business or work units within PTV to explain their particular privacy management practices.
 
@@ -40,7 +40,7 @@ Some reasons that PTV may collect Personal Information or Health Information fro
   * request to be placed on a mailing list maintained by PTV;
   * contact PTV directly, or contact the Victorian Government about a matter relevant to PTV’s function or services;
   * are provided with products or services by PTV; or
-  * make a request for access to documents under the Freedom of Information Act 1982 (Vic);
+  * make a request for access to documents under the Freedom of Information Act 1982 (Vic) ( **Freedom of Information Act** ).
 
 
 
@@ -54,9 +54,9 @@ Whenever it is lawful and practical, PTV will provide people with the option of 
 
 #### Correspondence
 
-Correspondence (including email) or complaints addressed to Victorian Government Ministers or agencies, or queries made through PTV’s call centre regarding matters related to the functions of, or service provided by PTV may be referred to PTV advice and response. Such correspondence, as well as correspondence addressed directly to PTV may include Personal Information or Health Information, and may be accessed by PTV staff, subject to operational need.
+Correspondence (including emails) or complaints addressed to Victorian Government Ministers or agencies, or queries made through PTV’s call centre regarding matters related to the functions of, or service provided by PTV may be referred to PTV for advice and response. Such correspondence, as well as correspondence addressed directly to PTV, may include Personal Information or Health Information, and may be accessed by PTV staff, subject to operational need.
 
-Copies of correspondence, applicable responses and details pertaining correspondence received by PTV which contains Personal Information or Health Information may be retained by PTV for certain periods of time, in accordance with the Public Records Act 1973 and other applicable legislation.
+Copies of correspondence, applicable responses and details pertaining correspondence received by PTV which contains Personal Information or Health Information may be retained by PTV for certain periods of time, in accordance with the Public Records Act 1973 (Vic) ( **Public Records Act** ) and other applicable legislation.
 
 #### Information collected on PTV’s website
 
@@ -74,31 +74,33 @@ We may use local device storage to store information on your computer. We use lo
 
 If a person is employed by, or applies to be employed by, PTV, PTV may collect and store information about the recruitment process used and their application including character checks, security clearances and criminal history checks undertaken as part of that process.
 
-Employment and recruitment information collected by PTV may be retained for certain periods of time, in accordance with the Public Records Act 1973 (Vic), the Public Administration Act 2004 (Vic), and other applicable legislation. Some of this information may be disclosed to third parties, where legally required.
+Employment and recruitment information collected by PTV may be retained for certain periods of time, in accordance with the Public Records Act, the Public Administration Act 2004 (Vic) and other applicable legislation. Some of this information may be disclosed to third parties, where legally required.
+
+For more information, see the Public Transport Victoria [Recruitment Privacy Statement](https://cms.ptv.vic.gov.au/).
 
 ## Use and disclosure of information
 
 PTV will only use or disclose Personal Information or Health Information for the purpose which was either specified or reasonably apparent at the time of collection unless the individual in question has consented to, or would reasonably expect that the information was put to another related use.
 
-PTV will only use Sensitive Information or Health Information for another purpose if the secondary purpose directly relates to the primary purpose for which it was collected. In some circumstances PTV may be authorised by legislation to use or provide Personal Information or Health Information to another organisation for a particular reason. For example, PTV may not have to comply with IPPs when exercising responsibilities directly related to law enforcement or where the Australian Security and Intelligence Organisation (ASIO), the Australian Secret Intelligence Service (ASIS) or CentreLink have requested the disclosure of your Personal Information or Health Information.
+PTV will only use Sensitive Information or Health Information for another purpose if the secondary purpose directly relates to the primary purpose for which it was collected. In some circumstances, PTV may be authorised by legislation to use or provide Personal Information or Health Information to another organisation for a particular reason. For example, PTV may not have to comply with IPPs when exercising responsibilities directly related to law enforcement or where the Australian Security and Intelligence Organisation ( **ASIO** ), the Australian Secret Intelligence Service ( **ASIS** ) or CentreLink have requested the disclosure of your Personal Information or Health Information.
 
 PTV will only transfer your Personal Information or Health Information to another individual or organisation in limited circumstances, including that the recipient is subject to a law which upholds similar principles to the IPPs or HPPs, or if the transfer is consented to.
 
-PTV may also provide your Personal Information or Health Information to public transport operators and authorities for the purposes of providing feedback and answering queries. “public transport authorities” are: the Transport Ticketing Authority, Transport Safety Victoria and the Department of Transport.
+PTV may also provide your Personal Information or Health Information to public transport operators and authorities for the purposes of providing feedback and answering queries. “Public transport authorities” include Transport Safety Victoria and the Department of Transport Planning and Local Infrastructure.
 
 ## Data security and destruction
 
 Irrespective of whether your Personal Information or Health Information is stored electronically or in hard copy form, PTV will take reasonable steps to protect it from misuse and loss and unauthorised access, modification or disclosure.
 
-PTV will also take reasonable steps to destroy or permanently de-identify your Personal Information or Health Information if it is no longer needed for any purpose, unless, in the case of Personal Information, it is subject to the Public Records Act 1973, in which case it will be retained or disposed of in accordance with that legislation.
+PTV will also take reasonable steps to destroy or permanently de-identify your Personal Information or Health Information if it is no longer needed for any purpose, unless, in the case of Personal Information, it is subject to the Public Records Act, in which case it will be retained or disposed of in accordance with that legislation.
 
 ## Data quality, access and correction
 
 PTV will take reasonable steps to ensure that your Personal Information and Health Information, collected from you or other organisations is accurate, complete and up to date.
 
-People are entitled to contact PTV Information Privacy Officer (contact details are set out below) and request access to, and correction of any of their Personal Information or Health Information held by PTV. PTV will take reasonable steps to correct and update any Personal Information or Health Information that is established to be inaccurate, incomplete or not up to date or provide you with a written statement if such a request is refused.
+People are entitled to contact PTV's Information Privacy Officer (contact details are set out below) and request access to, and correction of any of their Personal Information or Health Information held by PTV. PTV will take reasonable steps to correct and update any Personal Information or Health Information that is established to be inaccurate, incomplete or not up to date or provide you with a written statement if such a request is refused.
 
-If a person’s Personal Information or Health Information is associated with information relating to an event, commercial activities or in some way affects the privacy of another individual, they will need to make a formal Freedom of Information request pursuant to section 17 of the Freedom of Information Act 1982.Your Freedom of Information application should be made to:
+If a person’s Personal Information or Health Information is associated with information relating to an event, commercial activities or in some way affects the privacy of another individual, they will need to make a formal Freedom of Information request pursuant to section 17 of the Freedom of Information Act. Your Freedom of Information application should be made to:
 
 **PTV Freedom of Information Officer**  
 PO Box 4724  
@@ -123,15 +125,15 @@ PTV will not:
 
 The following information refers to privacy and myki. Most cardholders may choose whether they want to register their myki. Find out the benefits of [registering your myki](http://ptv.vic.gov.au/tickets/myki/registering-your-myki/).
 
-The full myki Privacy Policy can be found [here](http://ptv.vic.gov.au/assets/PDFs/myki-Privacy-Policy-May-2013-updated.pdf "Download the full myki Privacy Policy").
+Download the full [myki Privacy Policy](http://ptv.vic.gov.au/assets/PTV/PTV%20docs/Privacy/PTV-Policy-myki-Privacy-Policy-September-2014.pdf "Download the full myki Privacy Policy") (PDF) 184 kB
 
 ### **Personal information will be collected if you choose to do any of the following things:**
 
 #### **Registering a myki**
 
-Registration will require at least minimum contact details. For some concession cardholders, it is mandatory to register and personalise their card (with name, or name and photo), dependent on the category of concession entitlement. Registered cardholders can choose to personalise their myki with their name if this is requested at the time of purchase.
+Registration will require at least minimum contact details. For some concession cardholders, it is mandatory to register and personalise their card (with name, or name and photo), depending on the category of concession entitlement. Registered cardholders can choose to personalise their myki with their name if this is requested at the time of purchase.
 
-Personal information provided by or about the account holder or cardholder or generated by using the Card is collected by PTV to issue and administer the Card and relevant entitlements. The account holder or cardholder will generally be able to access his/her personal information. PTV requires personal information to provide the Card and related services, such as registration.
+Personal information provided by or about the account holder or cardholder, or generated by using the card, is collected by PTV to enable it to issue and administer the card and relevant entitlements. The account holder or cardholder will generally be able to access his/her personal information. PTV requires personal information to provide the card and related services, such as registration.
 
 #### **Setting auto top up**
 
@@ -153,7 +155,7 @@ PTV may require personal information (contact details) in order to respond to qu
 
 Use of the myki will generate a record, which will include the location, time and date of the transaction. If a cardholder has provided personal details, PTV will have the ability to link these with cardholder's transactions. However, PTV or its agents will not normally need to do so in connection with the operation of the payment system.
 
-Personal information held by PTV and public entities may be used or disclosed (including to each other) for the operation of myki; to verify entitlement to concession travel; for ticketing enforcement; in emergencies; otherwise as required or authorised by or under law; or with your consent. The full PTV Privacy Policy explains these circumstances.
+Personal information held by PTV and public entities may be used or disclosed (including to each other) for the operation of myki, to verify entitlement to concession travel, for ticketing enforcement, in emergencies, otherwise as required or authorised by or under law, or with your consent. The full PTV Privacy Policy explains these circumstances.
 
 ### **Security**
 
@@ -165,7 +167,7 @@ To view or correct information that PTV holds about you, log into your account (
 
 ## Privacy complaints
 
-If a person believes that their Personal or Health Information has been used by PTV in a manner contrary to the Information Privacy Act 2000 or Health Records Act 2001, they may contact PTV Information Privacy Officer.
+If you believe that your Personal or Health Information has been used by PTV in a manner contrary to the Privacy and Data Protection Act or Health Records Act, you may contact PTV's Information Privacy Officer.
 
 **PTV Information Privacy Officer**  
 PO Box 4724  
@@ -174,18 +176,20 @@ Melbourne VIC 3000
  **Facsimile:** 9027 4074  
  **Email:** [ptvprivacy@ptv.vic.gov.au](mailto:ptvprivacy@ptv.vic.gov.au)
 
-Complaints about any use of a person’s Health Information which is believed to be contrary to the Health Records Act 2001 can be made with the Health Services Commissioner. Information for submitting complaints in respect of Health Information is available at [www.health.vic.gov.au/hsc](http://www.health.vic.gov.au/hsc).
+Complaints about any use of a person’s Health Information which is believed to be contrary to the Health Records Act can be made to the Health Services Commissioner. Information for submitting complaints in respect of Health Information is available at [www.health.vic.gov.au/hsc](http://www.health.vic.gov.au/hsc). (link opens in a new window)
 
-**Health Services Commissioner contact**  
+**Health Services Commissioner**  
 570 Bourke Street  
 Melbourne VIC 3000  
  **Telephone:** 1800 146 066  
  **Facsimile:** 8601 5219  
  **Email:** [hsc@health.vic.gov.au](mailto:hsc@health.vic.gov.au)
 
-People can also contact the Victorian Privacy Commissioner for more information or to raise certain complaints about privacy matters and regulation in Victoria.
+People can also contact the Victorian Commissioner for Privacy and Data Protection for more information or to raise certain complaints about privacy matters and regulation in Victoria.
 
-**Victorian Privacy Commissioner**  
+**Privacy and Data Protection **Victoria****  
+Level 6, 121 Exhibition Street  
+Melbourne VIC 3000  
 PO Box 5057  
 Melbourne VIC 3001  
  **Telephone:** 1300 666 444  
