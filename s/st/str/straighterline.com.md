@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617072952id_/http%3A//www.straighterline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straighterline.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218052358id_/http%3A//www.straighterline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StraighterLine
 
@@ -12,7 +12,7 @@ StraighterLine
 1201 South Sharp Street  
 Suite 110  
 Baltimore, MD 21230  
-877.787.8375   
+(877) 787-8375   
 [info@straighterline.com](mailto:info@straighterline.com)
 
   2. Usage Eligibility
@@ -23,7 +23,7 @@ The StraighterLine service is intended for students over the age of 18. For webs
 
 The only personal information this website obtains about you is information voluntarily provided by you.
 
-You are free to visit StraighterLine; however, if you would like to use the StraighterLine service, you must make a purchase. When you purchase course(s) from us, we will request certain personal information including - e-mail, phone number, zip code, country and credit card information. Response to our surveys is entirely voluntary and not required for receipt of services.
+You are free to visit StraighterLine; however, if you would like to use the StraighterLine service, you must make a purchase. When you purchase course(s) from us, we will request certain personal information including - email, phone number, zip code, country and credit card information. Response to our surveys is entirely voluntary and not required for receipt of services.
 
 This information is used by StraighterLine for (1) billing and account purposes; (2) demographic assessments of and provision of services to the user population; (3) empirical research; (4) communication with you; and (5) internal auditing purposes. Only strictly authorized StraighterLine employees have access to this personal information. It may be given to an institutional administrator or other third parties with direct relationships with StraighterLine.
 
