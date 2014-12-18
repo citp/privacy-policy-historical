@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052908id_/http%3A//www.fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fcps.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218022706id_/http%3A//www.fcps.net/about-fcps/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ##  Fayette County Public Schools 
 
-This is the website of **Fayette County Public Schools,** Lexington Kentucky.
+This is the website of **Fayette County Public Schools** in Lexington, Kentucky.
 
 Our postal address:
 
@@ -16,7 +16,7 @@ Our physical address:
 **701 E. Main St.  
 Lexington KY 40502**
 
-We can be reached via email at [info@fayette.kyschools.us](mailto:info@fayette.kyschools.us) for general questions or comments. For technical questions or to be removed from a mailing list, use this address: [web.team@fayette.kyschools.us](mailto:web.team@fayette.kyschools.us). You can reach us by telephone at (859) 381-4100.
+You can reach the district via [www.fcps.net/letstalk](https://web.archive.org/letstalk) for general questions or comments, or call our switchboard at (859) 381-4100. For technical issues or to be removed from a mailing list, please email [web.team@fayette.kyschools.us](mailto:web.team@fayette.kyschools.us). 
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or email address.
 
@@ -40,6 +40,6 @@ If you feel that this website is not following its stated information policy, yo
 
   * For questions: **[Pete Koutoulas](http://www.fcps.net/administration/staff-directory/k/koutoulas-pete)**
   * To report a broken link or other website issues: [Tammy Lane](https://web.archive.org/administration/staff-directory/l/lane-tammy)
-  * Updated: **June 21, 2014**
+  * Updated: **November 6, 2014**
 
 
