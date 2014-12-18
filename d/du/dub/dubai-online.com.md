@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubai-online.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234803id_/http%3A//www.dubai-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubai-online.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218184604id_/http%3A//www.dubai-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dubai Online
 
@@ -74,3 +74,9 @@ Bolton BL1 5ES
 United Kingdom
 
 10 December 2013
+
+  * [Facebook](https://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.dubai-online.com%2Fprivacy-policy%2F)
+  * [Twitter](http://twitter.com/share?url=http%3A%2F%2Fwww.dubai-online.com%2Fprivacy-policy%2F)
+  * [Google Plus](https://plus.google.com/share?url=http%3A%2F%2Fwww.dubai-online.com%2Fprivacy-policy%2F)
+
+
