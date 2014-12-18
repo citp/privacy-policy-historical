@@ -1,27 +1,28 @@
-> *The following text is extracted and transformed from the andyroid.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140957id_/http%3A//www.andyroid.net/privacy-policy%3Ftmpl%3Dcomponent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andyroid.net privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218074423id_/http%3A//www.andyroid.net/privacy-policy%3Ftmpl%3Dcomponent) for the most accurate reproduction.*
 
-# Privacy Policy - andy
+# Privacy Policy - Andy - Android Emulator for PC & Mac
 
-##  Privacy Policy 
+[](http://www.andyroid.net/ "Andy – Android Emulator for PC & Mac")
 
-**Privacy statement**
+[](http://www.andyroid.net/ "Andy – Android Emulator for PC & Mac")
 
-**_General Information_**
+## Privacy Policy
+
+### Andy OS Inc has always been committed to maintaining the accuracy, confidentiality, and security of your personal and corporate information. We have established Privacy Principles to govern our use of customer information.
+
+###  General Information
+
+Andy OS Inc does not sell, share or distribute Customer Information to any third party organization.
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes.
 
-**_What we do_**
+### What we do
 
-·       We only collect basic, non-personal technical information, such as browser type, from those who visit the Site but who do not register for the Service (“Visitors”).
+We only collect basic, non-personal technical information, such as browser type, from those who visit the Site but who do not register for the Service (“Visitors”).  
+By default, Andy collects statistics about your usage of Andy (software version, downloaded apps, apps usage time), which are anonymized before being sent.
 
-·       By default, Zako collects statistics about your usage of Andy (software version, downloaded apps, apps usage time), which are anonymized before being sent. 
+### What we don’t do
 
-·       We collect technical log information in regards to errors with andy
-
-**_What we don't do_**
-
-·       We don’t keep information about your Google play login credentials and/or your credit card information.
-
-·       We never sell your personal information.
-
-·       We Don't track your activity across the Internet, although we do receive and keep information about how you got to andy.
+We never sell your personal information.  
+While we do automatically collect technical information about how Visitors and Users interact with Andy, we don’t automatically collect personal information without your permission.  
+We don’t track your activity across the Internet, although we do receive and keep information about how you got to Andy.
