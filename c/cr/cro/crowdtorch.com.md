@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdtorch.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611052331id_/http%3A//www.crowdtorch.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdtorch.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219001302id_/http%3A//www.crowdtorch.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # CrowdTorch - Privacy Policy
 
