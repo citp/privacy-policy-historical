@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the london.gov.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627010841id_/http%3A//www.london.gov.uk/utilities/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the london.gov.uk privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218140152id_/http%3A//london.gov.uk/utilities/privacy-policy) for the most accurate reproduction.*
 
 # The Greater London Authority’s Commitment to Privacy | Greater London Authority
 
