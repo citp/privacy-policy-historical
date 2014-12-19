@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034735id_/http%3A//www.folica.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folica.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220003604id_/http%3A//www.folica.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Folica.com - The best selection of hair care, flat irons and hair styling products anywhere
 
@@ -116,7 +116,7 @@ Writing us at:
 
 Customer Service Department
 
-Folica.com  
+Folica  
 90 Stults Road  
 Dayton, NJ 08810 
 
@@ -148,17 +148,7 @@ Folica.com wants to hear your feedback concerning this policy. Please send your 
 
 Customer Service Department
 
-Folica.com  
-90 Stults Road  
-Dayton, NJ 08810 
-
-[ ](https://privacy.truste.com/privacy-seal/Folica,-Inc-/validation?rid=101e6e7d-1d15-439d-a827-849c546f9756 "TRUSTe online privacy certification")
-
-Folica has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [fcs@folica.com](mailto:fcs@folica.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe here](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison to resolve your concerns.
-
-Folica.com  
+Folica  
 90 Stults Road  
 Dayton, NJ 08810 
 
