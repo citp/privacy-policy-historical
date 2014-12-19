@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cincinnati.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627140101id_/http%3A//static.cincinnati.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincinnati.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219122046id_/http%3A//static.cincinnati.com/privacy) for the most accurate reproduction.*
 
-# Cincinnati.com Privacy Policy | Cincinnati.com
+# Privacy Policy | Cincinnati.com
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
@@ -14,7 +14,6 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 Mark Faris  
 Online Privacy Coordinator  
-[ cincinnati.com](http://www.cincinnati.com/)  
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
@@ -99,7 +98,6 @@ If you have any questions about this Privacy Notice, our privacy practices, or y
 
 Mark Faris  
 Online Privacy Coordinator  
-[ cincinnati.com](http://www.cincinnati.com/)  
 Gannett Law Department  
 7950 Jones Branch Drive  
 McLean, VA 22107
