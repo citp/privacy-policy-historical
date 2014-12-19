@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e3d-online.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073143id_/http%3A//e3d-online.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3d-online.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092443id_/http%3A//e3d-online.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
