@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepoliticalinsider.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629232528id_/http%3A//www.thepoliticalinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepoliticalinsider.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219073622id_/http%3A//www.thepoliticalinsider.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | The Political Insider
+# Privacy policy - The Political Insider
 
 The Political Insider LLC Privacy Policy
 
@@ -115,3 +115,8 @@ If you are a California resident and you provided your personal information to 
 Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties.  
 We reserve our right not to respond to requests sent more than once in a calendar year, or requests submitted to an address other than the one posted in this notice.  
 Please note that the California Shine the Light law does not cover all information sharing. Our disclosure only includes information covered by the law.
+
+**Share**
+
+  
+
