@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ruzeshoes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154215id_/http%3A//ruzeshoes.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruzeshoes.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219200002id_/http%3A//ruzeshoes.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Ruzeshoes.com | Online Discount Shoes
+
+Object reference not set to an instance of an object.
 
 **Privacy & Security Policy**
 
