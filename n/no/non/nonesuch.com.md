@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nonesuch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063957id_/http%3A//www.nonesuch.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonesuch.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219200916id_/http%3A//www.nonesuch.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nonesuch Records
+# Privacy policy | Nonesuch Records
 
 **LAST UPDATE:** February 2, 2012
 
