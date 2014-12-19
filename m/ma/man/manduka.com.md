@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manduka.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619191910id_/http%3A//www.manduka.com/us/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manduka.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092659id_/http%3A//www.manduka.com/us/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Manduka | Privacy Policy
 
