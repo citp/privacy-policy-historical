@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftsvilla.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083007id_/http%3A//www.craftsvilla.com/privacy-policy-craftsvilla) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsvilla.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219150617id_/http%3A//www.craftsvilla.com/privacy-policy-craftsvilla) for the most accurate reproduction.*
 
 # Privacy Policy
 
