@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspirationsandinnovations.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210091900id_/http%3A//inspirationsandinnovations.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspirationsandinnovations.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219174951id_/http%3A//inspirationsandinnovations.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # World of Inspirations and Innovations!!!
 
