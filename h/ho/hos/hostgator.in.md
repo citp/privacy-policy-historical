@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023459id_/http%3A//hostgator.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostgator.in privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219023245id_/http%3A//www.hostgator.in/privacy) for the most accurate reproduction.*
 
 # HostGator.in - We Eat Up The Competition
 
