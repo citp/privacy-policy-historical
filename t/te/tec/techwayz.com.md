@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techwayz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625145136id_/http%3A//techwayz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwayz.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219144235id_/http%3A//techwayz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TechWayz
+# Privacy Policy - Tech Wayz
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at pramod@techwayz.com.
 
