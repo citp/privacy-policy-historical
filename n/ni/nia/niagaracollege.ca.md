@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511005354id_/http%3A//www.niagaracollege.ca/content/PrivacyStatementforOnlineVisitors.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219060542id_/http%3A//www.niagaracollege.ca/content/PrivacyStatementforOnlineVisitors.aspx) for the most accurate reproduction.*
 
 # Privacy Statement for Online Visitors
 
