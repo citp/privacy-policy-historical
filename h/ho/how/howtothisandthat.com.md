@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howtothisandthat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053741id_/http%3A//howtothisandthat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtothisandthat.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219040948id_/http%3A//howtothisandthat.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : How To... This and That
+# Privacy Policy - How To... This and That
 
 At _How To... This and That_ , the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by _How To... This and That_ and how it is used.
 
