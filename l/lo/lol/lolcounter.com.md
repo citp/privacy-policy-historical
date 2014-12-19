@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lolcounter.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421221219id_/http%3A//www.lolcounter.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolcounter.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219212952id_/http%3A//www.solomid.net/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Solomid.net
 
 **What information do we collect?**
 
@@ -56,7 +56,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.solomid.net/tos.php>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.solomid.net/page/tos>
 
 **Your Consent**
 
@@ -72,6 +72,6 @@ This policy was last modified on August 7, 2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.solomid.net/
+<http://www.solomid.net/page/contact>
 
 This policy is powered by Trust Guard PCI compliant security scanning.
