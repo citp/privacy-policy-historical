@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veoh.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628041248id_/http%3A//www.veoh.com/corporate/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veoh.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219164456id_/http%3A//www.veoh.com/corporate/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Veoh Video Network
 
@@ -59,9 +59,9 @@ Veoh provides users the opportunity to opt-out of receiving certain communicatio
 You should be aware that the United States and other countries have not harmonized their privacy regulations. Because Veoh is intended specifically for users in the United States, we have written our Privacy Policy to satisfy United States regulations and make no representations regarding the laws and regulations of other jurisdictions. By using Veoh, you agree to the level of privacy protection set out in our Privacy Policy. 
 
 FC2  
-101 Convention Center Drive  
-Suite 700  
-Las Vegas, NV 89019  
+4730 South Fort Apache Road  
+Suite 300  
+Las Vegas, NV 89147  
 Tel: (310) 409-8217  
 Fax: (310) 496-2823  
 Email: [info@veoh.com](mailto:info@veoh.com)
