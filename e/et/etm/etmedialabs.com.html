@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the etmedialabs.com privacy policy that was archived on 2014-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140531013201id_/http%3A//etmedialabs.com/%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etmedialabs.com privacy policy that was archived on 2014-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219170524id_/http%3A//etmedialabs.com/%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -11,11 +11,11 @@
 	<meta property="fb:admins" content="100000170824682">
 	<meta property="og:title" content="Online Advertising &amp; Digital Media Marketing Company | ET Medialabs | India's Best Internet Agency"> <!--this code retrieves the post title-->
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="http://etlabs.in"><!--this code gets the post URL-->
-	<meta property="og:image" content="http://etlabs.in/template/images/etlabs-logo.jpg">
-	<meta property="og:site_name" content="etlabs">
+	<meta property="og:url" content="http://etmedialabs.com"><!--this code gets the post URL-->
+	<meta property="og:image" content="http://etmedialabs.com/template/images/logo.jpg">
+	<meta property="og:site_name" content="ET Medialabs">
 	<meta property="og:description" content="Get a better ROI from your online ads. Affordable pricing &amp; measureable results. ET Medialabs is India's leading ads technology &amp; analytics company.">
-	<link rel="image_src" href="http://etlabs.in/template/images/etlabs-logo.jpg">
+	<link rel="image_src" href="http://etmedialabs.com/template/images/logo.jpg">
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
 	<!-- PAGE TITLE -->
@@ -200,6 +200,13 @@ $(function(){
 			return false;  
 		}
 		dataString += '&phone=' + phone;
+				var query = $("#quick_query").val();  
+		if (query == ""){  
+			$(".error").html("<p class='error1' style='color:red;'>Please do not leave query blank.</p>").fadeIn().fadeOut(3000);  
+			$("input#quick_query").focus();  
+			return false;  
+		}
+		dataString += '&query=' + query;
 				var message = $("#quick_message").val();  
 		if (message == ""){  
 			$(".error").html("<p class='error1' style='color:red;'>Please do not leave message blank.</p>").fadeIn().fadeOut(3000);  
@@ -208,26 +215,30 @@ $(function(){
 		}
 		dataString += '&message=' + message;
 			  
-		dataString += '&agent_type=desktop_web&agent=ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)&ip=204.236.235.245&referer=&from_inv=0&request_id=&from_share=0&sharer_uid=&selfurl=http://etmedialabs.com/?&version=1&utm_term=&utm_content=&utm_source=&utm_medium=&utm_campaign=';
+		dataString += '&agent_type=desktop_web&agent=Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)&ip=207.241.229.150&referer=http://etlabs.in/&from_inv=&request_id=&from_share=&sharer_uid=&selfurl=http://etmedialabs.com&version=10&utm_term=&utm_content=&utm_source=&utm_medium=&utm_campaign=';
 		$('#ajax_div').fadeIn();
+		
 		$.ajax({
+		
 			type: "POST",
 			url: "ajax/mail.php",
 			data: dataString,  
 			success: function(result){		  
 				$('#ajax_div').fadeOut(300);
+		
 				//result = result.split("|");
 				if(result==1){
 					$(".error").html("<p class='error1' style='color:red;'>Critical Error. Please fill the form again.</p>").fadeIn().fadeOut(3000);  
 				}else if(result==2){
 					$(".error").html("<p align='center' style='color:red;'>You are already subscribed.</p>").fadeIn();
 				}else if(result==3){
-											ga('send', 'event', 'submit', 'click', 'form');
+											ga('send', 'event', 'button', 'click', 'form-success');
 						
-					$(".error").html("<div align='center' style='color:green;'>Thanks for contacting us. We'll be in touch soon!</div>").fadeIn();
+					$(".error").html("<div align='center' style='color:green;'></div>").fadeIn();
 											$("input#quick_name").val('');
 											$("input#quick_email").val('');
 											$("input#quick_phone").val('');
+											$("input#quick_query").val('');
 											$("input#quick_message").val('');
 																
 				}else{
@@ -246,10 +257,10 @@ $(function(){
 			<!--BEGIN HOME SECTION -->
 			<div class="home-text-wrapper" align="center">
 				<h1 id="reason" style="padding-bottom: 10px;background: rgba(0,0,0,0.8);">India's leading <br>Online Ad Technology and Analytics company </h1>  
-				<h1 id="reason1" style="padding-bottom: 10px;background: rgba(0,0,0,0.8);">#Reliable #Measurable #Scalable #Affordable<br><span id="reason2">An IIT &amp; IIM Alumni Venture</span></h1>	
+				<h1 id="reason1" style="padding-bottom: 10px;background: rgba(0,0,0,0.8);"><span id="reason2">An IIT &amp; IIM Alumni Venture</span><br>#Reliable #Measurable #Scalable #Affordable</h1>	
 				<div style="background: rgba(0,0,0,0.8);padding: 0px 0px 30px;">
-					<a class="nb_dlbtn scroll-to" href="#case-study" align="center" style="border:7px double #fff;background:#E74C3C;" onclick="ga_event('Button', 'Click', 'TopCaseStudies');">
-						<h3><span class="proof">Read our case studies</span></h3>
+					<a class="nb_dlbtn scroll-to" href="#contact" align="center" style="border:7px double #fff;background:#E74C3C;" onclick="ga_event('Button', 'Click', 'TopCaseStudies');">
+						<h3><span class="proof">Read Our Case Studies</span></h3>
 					</a>
 				</div>
 			</div><!-- END HOME TEXT WRAPPER -->
@@ -284,7 +295,7 @@ $(function(){
 			</div><!-- END CONTAINER -->	
 		</nav>
 		<!-- END NAVIGATION -->
-		<div id="about" class="page13 section  about "><!-- SECTION -->  
+		<div id="about" class="page13 section  about " style="padding-bottom:0px;"><!-- SECTION -->  
 			<div class="container">	
 				<div class="row">	
 					<div class="sixteen columns">            
@@ -335,24 +346,24 @@ $(function(){
 						<div class="clear"></div>
 				</div>
 			</div>
-						<div class="container">
+						<div class="container" style="margin-bottom:-30px;">
 				<div class="aligncenter">
 							<h2 style="width:100%;float:left;">How about Some Fun Facts about our company?</h2>
 							<div class="one_third">
-								<div class="milestone-counter" data-perc="690"><span class="milestone-count highlight">690</span><h6 class="milestone-details">Pizzas Ordered</h6></div>
+								<div class="milestone-counter" data-perc="830"><span class="milestone-count highlight">830</span><h6 class="milestone-details">Pizzas Ordered</h6></div>
 							</div>
 							<div class="one_third" style="margin-right:0 !important;">
-								<div class="milestone-counter" data-perc="43"><span class="milestone-count highlight">43</span><h6 class="milestone-details">Clients Worked With</h6></div>
+								<div class="milestone-counter" data-perc="57"><span class="milestone-count highlight">57</span><h6 class="milestone-details">Clients Worked With</h6></div>
 							</div>
 							<div class="one_third" style="margin-right:0 !important;">
-								<div class="milestone-counter" data-perc="145"><span class="milestone-count highlight">145</span><h6 class="milestone-details">Campaign Completed</h6></div>
+								<div class="milestone-counter" data-perc="187"><span class="milestone-count highlight">187</span><h6 class="milestone-details">Campaign Completed</h6></div>
 							</div>
 							<div class="clear"></div>
 				</div>
 				<div class="full-width" style="color: #333333;background: #f6f6f6;">
 						<div class="clearfix aligncenter"><div class="fancy-header1"><h2>So what are we upto?</h2></div></div>
 						<div class="subtitle">
-							<p style="text-align:center;">We are on a mission to build world's most efficient &amp; analytics driven digital media buying technology. We aim at helping diverse businesses in completely eliminating the need for analytics &amp; technology manpower, for executing digital marketing campaigns, in near future, with the help of our product that we are tirelessly working on. So hold on, wait for Adbytzz (thats what we would like to call it), it is going to be Legen- wait for it- Dary.
+							<p style="text-align:justify;">We are on a mission to build world's most efficient &amp; analytics driven digital media buying technology. We aim at helping diverse businesses in completely eliminating the need for analytics &amp; technology manpower, for executing digital marketing campaigns, in near future, with the help of our product that we are tirelessly working on. So hold on, wait for Adbytzz (thats what we would like to call it), it is going to be Legen- wait for it- Dary.
 							</p>
 						</div>
 					</div>
@@ -525,15 +536,38 @@ $(function(){
 							<div class="space" style="height: 30px;"></div>
 						</div>
 					</div>
-					<h2 style="text-align:center;">RECOGNITIONS</h2>
-				</div><br>
+				</div>
+					<h2 style="text-align:center;clear:both;" id="recog">RECOGNITIONS</h2>
+				<br>
 				<div class="client-logos">
-				<a href="#" title="Client" class="clients" target="_blank"><img class="clientimg" src="template/images/org1.png" alt="RECOGNITION" title="RECOGNITIONS" width="200" height="70"></a>
-				<a href="#" title="Client" class="clients" target="_blank"><img class="clientimg" src="template/images/org2.png" alt="RECOGNITIONS" title="RECOGNITIONS" width="200" height="70"></a>
-				<a href="#" title="Client" class="clients" target="_blank"><img class="clientimg" src="template/images/org3.png" alt="RECOGNITIONS" title="RECOGNITIONS" width="200" height="70"></a>
-				<a href="#" title="Client" class="clients" target="_blank"><img class="clientimg" src="template/images/org4.png" alt="RECOGNITIONS" title="RECOGNITIONS" width="200" height="70"></a>
-				<a href="#" title="Client" class="clients" target="_blank"><img class="clientimg" src="template/images/org5.png" alt="RECOGNITIONS" title="RECOGNITIONS" width="200" height="70"></a>
-				<a href="#" title="Client" class="clients" target="_blank"><img class="clientimg" src="template/images/org6.png" alt="RECOGNITIONS" title="RECOGNITIONS" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/org1.png" alt="Microsoft Bizspark" title="Microsoft Bizspark" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/org2.png" alt="Entrepreneurs' Organization" title="Entrepreneurs' Organization" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/org3.png" alt="Ministry of Science &amp; Technology" title="Ministry of Science &amp; Technology" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/org4.png" alt="Google Partners " title="Google Partners" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/org5.png" alt="Facebook Partners" title="Facebook Partners" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/org6.png" alt="MCIIE- IIT (BHU)" title="MCIIE- IIT (BHU)" width="200" height="70"></a>
+				</div>
+<!-------------media coverage------------------> 				
+				<h2 style="text-align:center;clear:both;" id="coverage">Media Coverage</h2>
+				<p style="text-align:center;font-size:20px;">We have been covered by leading media firms like:</p><p> 
+				<br>
+				</p><div class="client-logos">
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/coverage1.png" alt="Times Of India" title="Times Of India" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/coverage2.png" alt="The Pioneer" title="The Pioneer" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/coverage3.png" alt="Hindustan Times" title="Hindustan Times" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/org7.png" alt="Social Samosa" title="Social Samosa" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/org8.png" alt="Your Story" title="Your Story" width="200" height="70"></a>
+				</div>
+				<!-------------networks------------------> 				
+				<h2 style="text-align:center;clear:both;" id="networks">Networks</h2>
+				<p style="text-align:center;font-size:20px;">Some of the Ad networks we work with include:</p><p> 
+				<br>
+				</p><div class="client-logos" style="margin-bottom:70px;">
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/network1.png" alt="Facebook" title="Facebook" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/network2.png" alt="Google" title="Google" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/network3.png" alt="Adroll" title="Adroll" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/network4.png" alt="Times Internet" title="Times Internet" width="200" height="70"></a>
+				<a href="#recog" title="Client" class="clients"><img class="clientimg" src="template/images/network5.png" alt="ReTargeter" title="ReTargeter" width="200" height="70"></a>
 				</div>
 			</div>
 		</div>
@@ -754,17 +788,25 @@ $(function(){
 							</div>
 							<br>
 							<div class="client-logos">
-								<a href="#" title="Privat" class="clients" target="_blank"><img src="template/images/client1.png" alt="Privat" title="Privat" width="170" height="171"></a>
+								<a href="#" title="Airtel" class="clients" target="_blank"><img src="template/images/client32.png" alt="Airtel" title="Airtel" width="170" height="171"></a>
+								<a href="#" title="India Gate" class="clients" target="_blank"><img src="template/images/client7.png" alt="India Gate" title="India Gate" width="170" height="171"></a>
+								<a href="#" title="KRBL" class="clients" target="_blank"><img src="template/images/client8.png" alt="KRBL" width="170" title="KRBL" height="171"></a>
+								<a href="#" title="faballey" class="clients" target="_blank"><img src="template/images/client31.png" alt="faballey" title="faballey" width="170" height="171"></a>
+								<a href="#" title="Jaypore" class="clients" target="_blank"><img src="template/images/client18.png" alt="Jaypore" title="Jaypore" width="170" height="171"></a>	
+							</div>
+							
+							<div class="client-logos">
+								<a href="#" title="Thrillophilia" class="clients" target="_blank"><img src="template/images/client24.png" alt="Thrillophilia" width="170" height="171"></a>	
 								<a href="#" title="Tjori" class="clients" target="_blank"><img src="template/images/client2.png" alt="Tjori" title="Tjori" width="170" height="171"></a>
-								<a href="#" title="Varighty" class="clients" target="_blank"><img src="template/images/client3.png" alt="Varighty" title="Varighty" width="170" height="171"></a>
-								<a href="#" title="Holiday Dialysis" class="clients" target="_blank"><img src="template/images/client27.png" alt="Holiday Dialysis" title="Holiday Dialysis" width="170" height="171"></a>
+								<a href="#" title="Felicity" class="clients" target="_blank"><img src="template/images/client30.png" alt="Felicity" title="Felicity" width="170" height="171"></a>
+								<a href="#" title="Hushbabies" class="clients" target="_blank"><img src="template/images/client10.png" alt="Hushbabies" title="Hushbabies" width="170" height="171"></a>
 								<a href="#" title="House of Technology" class="clients" target="_blank"><img src="template/images/client5.png" alt="House of Technology" title="House of Technology" width="170" height="171"></a>
 							</div>
 							<div class="client-logos">
 								<a href="#" title="Qualemagni" class="clients" target="_blank"><img src="template/images/client6.png" alt="Qualemagni" title="Qualemagni" width="170" height="171"></a>
-								<a href="#" title="India Gate" class="clients" target="_blank"><img src="template/images/client7.png" alt="India Gate" title="India Gate" width="170" height="171"></a>
-								<a href="#" title="KRBL" class="clients" target="_blank"><img src="template/images/client8.png" alt="KRBL" width="170" title="KRBL" height="171"></a>
-								<a href="#" title="Hushbabies" class="clients" target="_blank"><img src="template/images/client10.png" alt="Hushbabies" title="Hushbabies" width="170" height="171"></a>
+								<a href="#" title="Varighty" class="clients" target="_blank"><img src="template/images/client3.png" alt="Varighty" title="Varighty" width="170" height="171"></a>
+								<a href="#" title="Privat IVF Clinic" class="clients" target="_blank"><img src="template/images/client25.png" alt="Privat IVF Clinic" title="Privat IVF Clinic" width="170" height="171"></a>
+								<a href="#" title="Privat" class="clients" target="_blank"><img src="template/images/client1.png" alt="Privat" title="Privat" width="170" height="171"></a>
 								<a href="#" title="Gyans" class="clients" target="_blank"><img src="template/images/client11.png" alt="Gyans" width="170" title="Gyans" height="171"></a>
 							</div>
 							<div class="client-logos">
@@ -775,18 +817,11 @@ $(function(){
 								<a href="#" title="Iprof DigiLibrary" class="clients" target="_blank"><img src="template/images/client16.png" alt="Iprof DigiLibrary" title="Iprof DigiLibrary" width="170" height="171"></a>
 							</div>
 							<div class="client-logos">
-								<a href="#" title="Style Arrest" class="clients" target="_blank"><img src="template/images/client17.png" alt="Style Arrest" title="Style Arrest" width="170" height="171"></a>
-								<a href="#" title="Jaypore" class="clients" target="_blank"><img src="template/images/client18.png" alt="Jaypore" title="Jaypore" width="170" height="171"></a>
+								<a href="#" title="Style Arrest" class="clients" target="_blank"><img src="template/images/client17.png" alt="Style Arrest" title="Style Arrest" width="170" height="171"></a>							
+								<a href="#" title="Medinyx" class="clients" target="_blank"><img src="template/images/client23.png" alt="Medinyx" title="Medinyx" width="170" height="171"></a>
 								<a href="#" title="WeddingPlz" class="clients" target="_blank"><img src="template/images/client19.png" alt="WeddingPlz" title="WeddingPlz" width="170" height="171"></a>
 								<a href="#" title="Era Business School" class="clients" target="_blank"><img src="template/images/client20.png" alt="Era Business School" title="Era Business School" width="170" height="171"></a>
 								<a href="#" title="Privat Cosmetic Clinic" class="clients" target="_blank"><img src="template/images/client21.png" alt="Privat Cosmetic Clinic" title="Privat Cosmetic Clinic" width="170" height="171"></a>
-							</div>
-							<div class="client-logos">
-								<a href="#" title="Emergency Rescue Card" class="clients" target="_blank"><img src="template/images/client22.png" alt="Emergency Rescue Card" title="Emergency Rescue Card" width="170" height="171"></a>
-								<a href="#" title="Medinyx" class="clients" target="_blank"><img src="template/images/client23.png" alt="Medinyx" title="Medinyx" width="170" height="171"></a>
-								<a href="#" title="Asia Medical Assistance" class="clients" target="_blank"><img src="template/images/client24.png" alt="Asia Medical Assistance" title="Asia Medical Assistance" width="170" height="171"></a>
-								<a href="#" title="Privat IVF Clinic" class="clients" target="_blank"><img src="template/images/client25.png" alt="Privat IVF Clinic" title="Privat IVF Clinic" width="170" height="171"></a>
-								<a href="#" title="Privat Medi Otel" class="clients" target="_blank"><img src="template/images/client26.png" alt="Privat Medi Otel" title="Privat Medi Otel" width="170" height="171"></a>
 							</div>
 						</div> 
 					</div> 
@@ -832,7 +867,7 @@ $(function(){
 					<div class="title">
 						<h1 class="header-text">Contact</h1>
 						<div class="subtitle">
-							<p>We'd really love to hear from you so why not drop us an email at <span class="highlight">iamgame@etmedialabs.com</span>, and we promise to get back to you within 24 hours. And if you prefer to talk, feel free to call us at <span class="highlight">+91 9910192202</span>.</p>
+							<p>We'd really love to hear from you so why not drop us an email at <span class="highlight">iamgame@etmedialabs.com</span>, and we promise to get back to you within 24 hours. And if you prefer to talk, feel free to call us at <span class="highlight">+91 8587884587</span>.</p>
 						</div><!-- END SUBTITLE -->
 					</div><!-- END TITLE -->  	                           
 				</div><!-- END SIXTEEN COLUMNS -->  
@@ -857,13 +892,13 @@ $(function(){
 							</div>                              
 							<div id="contact-submit">
 								<input type="hidden" name="submitted" id="submitted" value="true">
-								<input type="hidden" name="agent" id="agent" value="ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)">
+								<input type="hidden" name="agent" id="agent" value="Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)">
 								<input type="hidden" name="agent_type" id="agent_type" value="desktop_web">
-								<input type="hidden" name="ip" id="ip" value="204.236.235.245">
-								<input type="hidden" name="referer" id="referer" value="">
-								<input type="hidden" name="from_inv" id="from_inv" value="0">
+								<input type="hidden" name="ip" id="ip" value="207.241.229.150">
+								<input type="hidden" name="referer" id="referer" value="http://etlabs.in/">
+								<input type="hidden" name="from_inv" id="from_inv" value="">
 								<input type="hidden" name="request_id" id="request_id" value="">
-								<input type="hidden" name="from_share" id="from_share" value="0">
+								<input type="hidden" name="from_share" id="from_share" value="">
 								<input type="hidden" name="sharer_uid" id="sharer_uid" value="">
 								<input type="submit" value="SUBMIT" class="comment-submit button submit" id="quick">
 								<!-- <span id="msg"></span> -->
@@ -895,7 +930,7 @@ $(function(){
 				<div class="one_third" style="margin-right:50px !important;">
 					<ul class="footeraddress">
 						<li>India</li>
-						<li>Delhi- +91 9212356671 (Headquarters)</li>
+						<li>Delhi- +91 8587884587 (Headquarters)</li>
 						<li>Mumbai- +91- 7738534782</li>
 						<li>Bangalore- +91- 8197983570</li>
 					</ul>
@@ -917,7 +952,15 @@ $(function(){
 			</div> <!-- END SIXTEEN COLUMNS -->
 			
 			<h2 style="clear: both;"><img src="template/images/logo.png" alt="ET Medialabs" title="ET Medialabs" width="173" height="75" style="padding-left:100px;"></h2>
-			<h2 style="margin: 0;font-size: 11px;font-family:arial;color:#fff;padding-bottom: 17px;margin-top: -25px;">FOLLOW US ON&nbsp;&nbsp;&nbsp; &nbsp;<div style="position: relative;top: 18px;" class="social-icon social-digg"><a href="http://www.linkedin.com/company/et-medialabs?trk=company_name/" target="_blank" title="Digg">Digg</a></div></h2>
+			<div class="socialsharing">
+				<div class="social-icons">
+					<div class="social-icon social-fb"><a href="https://www.facebook.com/etmedialabs" target="_blank" title="Facebook">Facebook</a></div>
+				    <div class="social-icon social-twitter"><a href="http://twitter.com/etmedialabs" target="_blank" title="Twitter">Twitter</a></div>
+				    <div class="social-icon social-ln"><a href="https://www.linkedin.com/company/et-medialabs" target="_blank" title="Ln">Linkdn</a></div>
+				    <div class="social-icon social-google"><a href="https://plus.google.com/115961927196612517954" rel="publisher" target="_blank" title="Google">Google+</a></div>
+				    <div class="social-icon social-slideshare"><a href="http://www.slideshare.net/rknexus" target="_blank" title="Slideshare">Slideshare</a></div>
+	   			</div>
+	   		</div>
 			<p style="color:#ffffff;font-size:13px;">© 2014 Etmedialabs. All rights reserved.<a data-toggle="modal" href="#privacy" class="modal-popup-link view-profile" style="padding-right: 10px;"> &nbsp;Privacy Policy</a><a data-toggle="modal" href="#Terms" class="modal-popup-link view-profile" style="padding-right: 10px;"> &nbsp;Terms &amp; Conditions</a> Regd: ET Media Labs Pvt. Ltd.
 		
                 
