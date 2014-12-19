@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dcart.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624092036id_/http%3A//www.3dcart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcart.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219234207id_/http%3A//www.3dcart.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for www.3dcart.com
 
@@ -91,6 +91,14 @@ The security of your personal information is important to us. When you enter sen
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our website, you can contact us at [sales@3dcart.com](mailto:sales@3dcart.com). 
+
+**Anti-spam Policy**
+
+Spam is the term used to describe unwanted, unsolicited e-mail messages. These messages can be referred to as junk mail, bulk e-mail or unsolicited commercial e-mail (UCE).
+
+3dcart has a spam policy of zero tolerance and does not allow spam being sent using the 3dcart mail servers.
+
+3dcart continuosly monitors the mail servers for spam and abuse. Any 3dcart user found to be using 3dcart mail servers for spam will be immediately suspended from the use of 3dcart services.
 
 **Notification of Privacy Statement Changes**
 
