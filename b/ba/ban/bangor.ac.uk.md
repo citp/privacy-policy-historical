@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangor.ac.uk privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605184758id_/http%3A//www.bangor.ac.uk/corporate/cookies/index.php.en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangor.ac.uk privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219232951id_/http%3A//www.bangor.ac.uk/corporate/cookies/index.php.en) for the most accurate reproduction.*
 
 # The University
 
@@ -18,9 +18,9 @@ The University is a Registered Data Controller as defined by the Data Protection
 
 You may also wish to consult our;
 
-  * [Freedom of Information Policy](http://www.bangor.ac.uk/ar/ro/recordsmanagement/freedomofinformation/index.php.en?catid=&subid=3423)
+  * [Freedom of Information Policy](http://www.bangor.ac.uk/ar/ro/recordsmanagement/freedomofinformation/index.php.en)
   * [Data Protection Policy](http://www.bangor.ac.uk/ar/ro/recordsmanagement/dataprotection/DPPolicy.php.en)
-  * [Privacy Policy (Website)](https://web.archive.org/web/20140605184758id_/http%3A//www.bangor.ac.uk/corporate/cookies/Privacy%20Policy.pdf)
+  * [Privacy Policy (Website)](https://web.archive.org/web/20141219232951id_/http%3A//www.bangor.ac.uk/corporate/cookies/Privacy%20Policy.pdf)
 
 
 
@@ -218,7 +218,7 @@ Personal web pages are hosted at <http://pages.bangor.ac.uk/>.
 
 Personal staff, student and other non-BU templated web pages remain the **sole responsibility of the page author** , even when linked to official pages on the University web site. The University shall not be liable for the content or presentation of such pages.
 
-**If you have web pages hosted on pages.bangor.ac.uk** then you should [consult this article on the JISC Legal website](http://www.jisclegal.ac.uk/ManageContent/ViewDetail/ID/2051/What-Does-the-New-Cookie-Legislation-Require-us-to-do.aspx). Please [contact the ITS HelpDesk for further guidance](http://www.bangor.ac.uk/itservices/help/index.php.en?menu=13&catid=3700&subid=0) as we will be happy to help you work towards compliance.
+**If you have web pages hosted on pages.bangor.ac.uk** then you should [consult this article on the JISC Legal website](http://www.jisclegal.ac.uk/ManageContent/ViewDetail/ID/2051/What-Does-the-New-Cookie-Legislation-Require-us-to-do.aspx). Please [contact the ITS HelpDesk for further guidance](http://www.bangor.ac.uk/itservices/help/index.php.en) as we will be happy to help you work towards compliance.
 
 ## Other websites hosted at Bangor University
 
@@ -228,4 +228,4 @@ These web pages remain the **sole responsibility of the page or site author/owne
 
 **If you are responsible for any web based content hosted at the University** , and your site does not use the University template system, then you must ensure that your site is compliant with appropriate legislation.
 
-For information regarding your responsibilities with regards website privacy and cookies please [consult this article on the JISC Legal website](http://www.jisclegal.ac.uk/ManageContent/ViewDetail/ID/2051/What-Does-the-New-Cookie-Legislation-Require-us-to-do.aspx) and [contact the ITS HelpDesk for further guidance](http://www.bangor.ac.uk/itservices/help/index.php.en?menu=13&catid=3700&subid=0) as we will be happy to help you work towards compliance. 
+For information regarding your responsibilities with regards website privacy and cookies please [consult this article on the JISC Legal website](http://www.jisclegal.ac.uk/ManageContent/ViewDetail/ID/2051/What-Does-the-New-Cookie-Legislation-Require-us-to-do.aspx) and [contact the ITS HelpDesk for further guidance](http://www.bangor.ac.uk/itservices/help/index.php.en) as we will be happy to help you work towards compliance. 
