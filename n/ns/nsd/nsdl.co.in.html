@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nsdl.co.in privacy policy that was archived on 2014-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140208022222id_/https%3A//nsdl.co.in/about/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nsdl.co.in privacy policy that was archived on 2014-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219220405id_/https%3A//nsdl.co.in/about/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,7 +10,7 @@
 <link href="https://nsdl.co.in/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <link rel="stylesheet" href="https://nsdl.co.in/include/css/nsdl.css" type="text/css">
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -110,6 +110,12 @@ function validateAA()
 		frm.cir_year1.focus();
 		return false;
 	}
+	if(frm.cir_year1.value == '2013')
+	{
+		alert('No records to display!');
+		frm.cir_year1.focus();
+		return false;
+	}
 	//frm.submit();
 	var filenameAA = "../downloadables/html/AA-"+frm.cir_year1.value+".html";
 	document.open(filenameAA,"NSDLAA","scrollbars=1,width=700");
@@ -132,7 +138,7 @@ function lettersOnly(evt)
    evt = (evt) ? evt : event;
    var charCode = (evt.charCode) ? evt.charCode : ((evt.keyCode) ? evt.keyCode :
    ((evt.which) ? evt.which : 0));
-   if (charCode > 31 && (charCode < 65 || charCode > 90) &&
+    if (charCode > 31 && (charCode < 65 || charCode > 90) &&
    (charCode < 97 || charCode > 122) && (charCode < 48 || charCode > 57))
    {
      alert("Enter letters and Numbers only.");
@@ -154,6 +160,7 @@ function numbersOnly(evt)
 }
 function whichButton(event)
 {
+	
    if (event.button==2)//RIGHT CLICK
    {
 	 alert("Not Allow Right Click!");
@@ -173,7 +180,31 @@ function noCTRL(e)
 
 <body>
 <div id="main">
-	<div class="main-container"> 
+<script type="text/javascript">
+
+ 
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-18985685-1']);
+
+  _gaq.push(['_trackPageview']);
+
+ 
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+ 
+
+</script>	<div class="main-container"> 
 		<div class="top-bg"><img src="https://nsdl.co.in/images/spacer.gif" alt=""></div>
 		<div class="mid-bg">
 			<div class="home-bg-in">
@@ -190,7 +221,8 @@ function noCTRL(e)
 							<div class="quick-link">Quick Links 
 								<select name="menu1" onchange="MM_jumpMenu('parent',this,0)">
 									<option selected="selected">Select</option>
-									<option value="https://nsdl.co.in/goodpractices.php">DP Business - Good Practices</option>
+									<!-- <option value="https://nsdl.co.in/goodpractices.php">DP Business - Good Practices</option> -->
+									<option value="https://www.fpi.nsdl.co.in/">Foreign Portfolio Investors (FPI)</option>
 									<option value="https://nsdl.co.in/business/bptraining.php">Business Partner Training</option>
 									<option value="https://nsdl.co.in/downloadables/list-debt.php">List of Debt Instruments, Commercial Papers and Certificate of Deposit</option>
 									<option value="https://nsdl.co.in/downloadables/list-comp1.php">Companies with Overdue Demat Requests</option>
@@ -308,13 +340,16 @@ function noCTRL(e)
 			<li><a href="https://nsdl.co.in/debtinst/certdep-faq.php">Certificate of Deposit</a></li>
 			<li><a href="https://nsdl.co.in/downloadables/pdf/FAQs-by-Investors-Holding-of-Mutual-Fund-Units.pdf" target="blank">Mutual fund</a></li>
 			<li><a href="https://nsdl.co.in/downloadables/pdf/FAQ-RGESS.pdf" target="blank">RGESS</a></li>
+			<li><a href="https://nsdl.co.in/downloadables/pdf/SEBI(FPI)_Regulations_2014_Frequently_Asked_Question.pdf" target="blank">SEBI FAQs on SEBI(FPI) Regulations, 2014</a></li>
 			<li class="bot"><img src="https://nsdl.co.in/images/spacer.gif" alt=""></li>
 		</ul>
 	</li>
 	<li><a href="#" class="menulink">Data Releases</a>
 		<ul class="guide">
 			<li class="top"><img src="https://nsdl.co.in/images/spacer.gif" alt=""></li>
-			<li><a href="https://nsdl.co.in/FII/FII.php">Debt Utilisation Status – FIIs &amp; QFIs</a></li>
+			<!--<li><a href="https://nsdl.co.in/Investment-QFIs/Investment-QFIs.php">QFI/FII/FPI Investment</a></li>-->
+<li><a target="_blank" href="https://www.fpi.nsdl.co.in/web/Reports/ReportsListing.aspx">Foreign Portfolio Investor (FPI) Statistics</a></li>
+			<li><a href="https://nsdl.co.in/FII/FII.php">Debt Utilisation Status � FIIs &amp; QFIs</a></li>
 			<li><a href="https://nsdl.co.in/nsdlnews/Investment-QFIs.php">Investment by Qualified Foreign Investors (QFIs)</a></li>
 			<li><a href="https://nsdl.co.in/Status-RGESS.php">Status of Rajiv Gandhi Equity Savings Scheme, 2012 (RGESS)</a></li>
 			<li class="bot"><img src="https://nsdl.co.in/images/spacer.gif" alt=""></li>
@@ -418,7 +453,7 @@ function noCTRL(e)
 	<p>If we decide to change our privacy policy, we will post those changes on this page.</p>						</div>
 </div>
 </div>
-<div class="footer"><a href="https://nsdl.co.in/index.php">Home</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/contactus.php">Contact Us</a>  &nbsp;:&nbsp;   <a href="https://nsdl.co.in/careers.php">Careers</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/sitemap.php">Site Map</a>  &nbsp;:&nbsp;  <!--a href="https://nsdl.co.in/related/deprt.php">Related Links</a>  &nbsp;:&nbsp;-->  <a href="https://nsdl.co.in/nsdlnews/investors.php">Investors</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/guidedtour/investor.php">Guided Tours</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/about/privacy-policy.php">Privacy Policy</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/disclaimer.php">Disclaimer</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/photogallery.php">Photo Gallery</a></div>
+<div class="footer"><a href="https://nsdl.co.in/index.php">Home</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/contactus.php">Contact Us</a>  &nbsp;:&nbsp;   <a href="https://nsdl.co.in/careers.php">Careers</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/sitemap.php">Site Map</a>  &nbsp;:&nbsp;  <!--a href="https://nsdl.co.in/related/deprt.php">Related Links</a>  &nbsp;:&nbsp;-->  <a href="https://nsdl.co.in/nsdlnews/investors.php">Investors</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/guidedtour/investor.php">Guided Tours</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/about/privacy-policy.php">Privacy Policy</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/disclaimer.php">Disclaimer</a>  &nbsp;:&nbsp;  <a href="https://nsdl.co.in/photogallery.php">Photo Gallery</a>&nbsp;:&nbsp;<a href="https://nsdl.co.in/Events.php">Events</a> </div>
 				<div class="copyright">© Copyright 2012, National Securities Depository Ltd. (NSDL)</div>
 			</div>
 		</div>
