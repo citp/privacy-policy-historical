@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ease2ad.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618025450id_/http%3A//ease2ad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ease2ad.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092415id_/http%3A//ease2ad.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ease2ad Free Classified ads in India Buy/Sell/Rent Anything
 
