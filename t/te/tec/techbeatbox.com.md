@@ -1,75 +1,35 @@
-> *The following text is extracted and transformed from the techbeatbox.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234647id_/http%3A//www.techbeatbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techbeatbox.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219145206id_/http%3A//www.techbeatbox.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TechBeatBox - A Daily Dose of TechnologyTechBeatBox – A Daily Dose of Technology
+# Privacy Policy » TechBeatBox
 
-[](http://www.hupso.com/share/)
+This Privacy Policy was last modified on October, 29, 2014.  
+TechBeatBox (“us”, “we”, or “our”) operates www.techbeatbox.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.  
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.techbeatbox.com.
 
-This Privacy Policy governs the manner in which TechBeatBox collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.techbeatbox.com](http://www.generateprivacypolicy.com/account/policies/edit/www.techbeatbox.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by TechBeatBox.
+**Information Collection And Use**
 
- **Personal identification information**
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+**Log Data**
 
- **Non-personal identification information**
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**Cookies**
 
- **Web browser cookies**
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.  
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+**Security**
 
- **How we use collected information**
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-TechBeatBox may collect and use Users personal information for the following purposes:
+**Links To Other Sites**  
+Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.  
+TechBeatBox has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To send periodic emails_  
-We may use the email address to send them information and updates pertaining to their order.
+**Changes To This Privacy Policy**
 
+TechBeatBox may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-
-**How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
- **Sharing your personal information**
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
-
- **Third party websites**
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
-
- **Advertising**
-
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
- **Google Adsense**
-
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
-
- **Compliance with children’s online privacy protection act**
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
-
- **Changes to this privacy policy**
-
-TechBeatBox has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
- **Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
- **Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[TechBeatBox](http://www.generateprivacypolicy.com/account/policies/edit/www.techbeatbox.com)  
-[www.techbeatbox.com](http://www.generateprivacypolicy.com/account/policies/edit/www.techbeatbox.com)  
-No 1, Lingappa Block, Deva Gowda Road, R.t nagar, Bangalore – 32  
-9620998409  
-techbeatbox@gmail.com
-
-This document was last updated on April 18, 2014
-
-[](http://www.hupso.com/share/)
+**Contact Us**  
+If you have any questions about this Privacy Policy, please [contact us](http://www.techbeatbox.com/contact-us/).
