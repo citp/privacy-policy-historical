@@ -1,86 +1,41 @@
-<!--The following is the downloaded HTML source of the cambridgema.gov privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628070109id_/http%3A//www.cambridgema.gov/privacystatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cambridgema.gov privacy policy that was archived on 2014-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219201434id_/http%3A//www.cambridgema.gov/privacystatement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="js"><head><title>
 	Privacy Statement - City of Cambridge, Massachusetts
-</title><meta name="description" content="City of Cambridge Privacy Statment"><meta name="keywords" content="privacy statement"><meta name="robots" content="index, follow"><meta name="author" content="City of Cambridge, Massachusetts"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=8"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/global.css" media="all"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/coc.css" media="all"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/print.css" media="print"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/image-gallery.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/translate.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/ui.tabs.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/ui.tabs.ext.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/global.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/coc.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/carousel.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.tablesorter.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/styleswitcher.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.tools.min.js"></script><link href="/Layouts/NewCity/_resources/css/default-txt.css" rel="stylesheet" type="text/css" title="default" disabled=""><link href="/Layouts/NewCity/_resources/css/medium-txt.css" rel="alternate stylesheet" type="text/css" title="medium" disabled=""><link href="/Layouts/NewCity/_resources/css/large-txt.css" rel="alternate stylesheet" type="text/css" title="large" disabled="">
+</title><meta name="description" content="City of Cambridge Privacy Statment"><meta name="keywords" content="privacy statement"><meta name="robots" content="index, follow"><meta name="author" content="City of Cambridge, Massachusetts"><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/global.css" media="all"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/coc.css" media="all"><link rel="stylesheet" type="text/css" href="/Layouts/NewCity/_resources/css/print.css" media="print"><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/image-gallery.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/translate.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/ui.tabs.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/ui.tabs.ext.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/global.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/coc.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/carousel.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.tablesorter.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/styleswitcher.js"></script><script type="text/javascript" src="/Layouts/NewCity/_resources/js/jquery.tools.min.js"></script><script type="text/javascript" src="/Layouts/SharedPresentation/_resources/js/universal.js"></script><link href="/Layouts/NewCity/_resources/css/default-txt.css" rel="stylesheet" type="text/css" title="default" disabled=""><link href="/Layouts/NewCity/_resources/css/medium-txt.css" rel="alternate stylesheet" type="text/css" title="medium" disabled=""><link href="/Layouts/NewCity/_resources/css/large-txt.css" rel="alternate stylesheet" type="text/css" title="large" disabled="">
 	<!-- new city master -->
 	<link rel="shortcut icon" href="/Layouts/NewCity/_resources/favicon.ico">
 	
+    
 	<script>
-		var trackEvent = function(url, category, action, label) {
-		   ga('send', 'event', category, action, label, {'hitCallback':
-			 function () {
-				window.location = url;
-			 }
-		   });
-		};
-		
-		var trackEventNR = function(category, action, label, nonInt) {
-			if (nonInt == undefined)
-			{
-				console.log("Defaulting nonInt");
-				nonInt = false;
-			}
-			
-			console.log("nonInt is " + nonInt);
-			
-			ga('send', 'event', category, action, label, {'nonInteraction': nonInt});
-		};
-		
-		var trackEventNI = function(category, action, label) {
-			ga('send', 'event', category, action, label, {'nonInteraction': 1});
-		};
-		
-		// Set up event tracking on common controls
-		$(document).ready(function() {
-			// Callouts
-			$("DIV#secondary DIV.callout DIV.callout A").each(function(i) {
-				$(this).click(function(e) {
-					trackEvent($(this).attr("href"), "Homepage Callouts", "Click", $(this).attr("href"));
-					e.preventDefault();
-				});
-			});
-			
-			// Quick Links
-			$("DIV.callout > H3:contains('Quick Links') ~ UL A").each(function(i) {
-				$(this).click(function(e) {
-					trackEvent($(this).attr("href"), "Homepage Quick Links", "Click", $(this).text());
-					e.preventDefault();
-				});
-			});
-			
-			// Fat Footer
-			$("DIV#footer-content A").each(function(i) {
-				$(this).click(function(e) {
-					trackEvent($(this).attr("href"), "Homepage Fat Footer", "Click", $(this).text());
-					e.preventDefault();
-				});
-			});
-			
-			// Footer
-			$("DIV#copyright A").each(function(i) {
-				$(this).click(function(e) {
-					trackEvent($(this).attr("href"), "Homepage Footer", "Click", $(this).text());
-					e.preventDefault();
-				});
-			});
+	    $(document).ready(function() {
+		    $("DIV#secondary DIV.callout DIV.callout A").each(function () { $(this).click(function (t) { trackEvent($(this).attr("href"), "Homepage Callouts", "Click", $(this).attr("href")), t.preventDefault() }) });
+		    $("DIV.callout > H3:contains('Quick Links') ~ UL A").each(function () { $(this).click(function (t) { trackEvent($(this).attr("href"), "Homepage Quick Links", "Click", $(this).text()), t.preventDefault() }) });
+		    $("DIV#footer-content A").each(function () { $(this).click(function (t) { trackEvent($(this).attr("href"), "Homepage Fat Footer", "Click", $(this).text()), t.preventDefault() }) });
+		    $("DIV#copyright A").each(function () { $(this).click(function (t) { trackEvent($(this).attr("href"), "Homepage Footer", "Click", $(this).text()), t.preventDefault() }) });
+		    $("UL#alternate-txt A").each(function(){$(this).click(function(){trackEventNR("Text Resizer","Click",$(this).attr("class"))})});
+			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
 		});
 	</script>
-</head>
+<meta name="PageID" content="{08CEC95E-A7AE-483C-A201-A6206DEB4797}"></head>
 <body class="interior wide">
 	<form name="aspnetForm" method="post" action="/privacystatement.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQyMDcxOTA0Ng9kFgJmD2QWAgIDDxYCHgVjbGFzcwUNaW50ZXJpb3Igd2lkZWRkLkpsPjobD2P3GBAi+AKLYBW6ies5DDw8+oGIIeeJxEI=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQyMDcxOTA0Ng9kFgJmD2QWAgIDDxYCHgVjbGFzcwUNaW50ZXJpb3Igd2lkZWRk38/tY2Jg/13eaMvNAC2c+xIzknQWuFWxO0otQesLm4s=">
 </div>
 
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C831671C">
+</div>
 	
 	<div id="wrapper">
 		<div id="wrapper-content">
             
 			    <div id="header">
 				    <a id="brand" href="/">Welcome to the City of Cambridge</a>
-				    <img src="/~/media/Images/City/bannernew2011/North_Point_by_Bob_Coe.ashx" alt="North Point Picture by Bob Coe" title="North Point by Bob Coe">
+				    <img src="/~/media/Images/City/bannersummer2014/Harvest_Coop_Mural_by_Lise_Stern.ashx" alt="Harvest_Coop_Mural_by_Lise_Stern" title="Harvest_Coop_Mural_by_Lise_Stern">
 				    <div id="header-content">
 					    <ul><li><a href="/citycalendar.aspx">Calendar</a> | </li><li><a href="/workingincambridge.aspx">Jobs</a> | </li><li class="last"><a href="/citynewsandpublications/publications.aspx">City Publications</a></li></ul>
 				        <fieldset id="search-form">
@@ -160,41 +115,28 @@ Completion of a payment transaction using the online bill-pay service is conting
 							
 							
 								<div class="callout feature homepage noborder">
-	<a href="/iReport" style="display:block;">
-        <img width="194" height="94" border="0" alt="Cambridge iReport Promo" style="border:solid 2px #484848;margin-bottom:20px;" src="~/media/DB0C012FB6AF46D786B8CD4FBF809BB4.ashx?w=194&amp;h=94&amp;as=1">
-      </a>
-
-      <a href="~/link.aspx?_id=8D74270F19774801878143319281914A&amp;_z=z" style="display:block;height:98px;">
-        <img width="194" height="94" border="0" style="border:solid 2px #484848;" alt="Cambridge Mobile Apps callout" src="~/media/F19299BFC09E414F91730E18E83A6DF6.ashx?w=194&amp;h=94&amp;as=1"></a>
+	<a href="/iReport" style="display: block;" alt="ireport request city services, report an issue" src="~/media/B23874E1ED91471AA1B5F81F449317D5.ashx" height="90" width="194"><img width="194" height="90" alt="ireport request city services, report an issue" src="~/media/B23874E1ED91471AA1B5F81F449317D5.ashx"></a>
 </div>
 							
 							
-								<div class="callout feature homepage">
-	<a href="~/link.aspx?_id=ADFB128FAECF485E996B9CE0084FF0A1&amp;_z=z">
-      <img width="192" height="84" alt="Cambridge Alert Network Promo" src="~/media/B060A9FBE55D4C69ADD4C0B13C344CF4.ashx?w=192&amp;h=84&amp;as=1">
-    </a>
+								<div class="callout feature homepage noborder">
+	<a href="~/link.aspx?_id=6F71DD4C67E145428798624B5297D8B8&amp;_z=z"><img width="194" height="90" alt="google translate this page" src="~/media/DA632FCDF50E45DBBD0AF81D2A81D225.ashx"></a>
 </div>
 							
                             
-								<div class="callout feature homepage">
-	<a href="~/link.aspx?_id=2FC58C957A6D4F7E9669DF6746EF90C1&amp;_z=z">
-      <img width="194" height="84" alt="City Webcast Promo" src="~/media/ADEEAACA1B7F43AB914970B9ADB46EE8.ashx?w=194&amp;h=84&amp;as=1">
-    </a>
+								<div class="callout feature homepage noborder">
+	<a href="~/link.aspx?_id=ADFB128FAECF485E996B9CE0084FF0A1&amp;_z=z"><img width="194" height="90" alt="Cambridge Alert Network Logo" src="~/media/0D877338012E43EDBA6A057963169F08.ashx"></a>
 </div>
 							
 							
-								<div class="callout feature homepage">
-	<a href="~/link.aspx?_id=6F71DD4C67E145428798624B5297D8B8&amp;_z=z">
-      <img width="194" height="76" alt="Google Translate Promo" src="~/media/E75FA5880D214286B22750CA696BEBDF.ashx?w=194&amp;h=76&amp;as=1">
-    </a>
-</div>
+								
 							
 							
 						</div>
 						<!-- /callout -->
 						<div class="callout">
 							<h3>Quick Links</h3>
-							<ul><li><a href="/pio/citytelephonedirectory/citytelephonedirectory.aspx">City Directory and Directions</a></li><li><a href="/boardsandcommissionsdirectory.aspx">Boards &amp; Commissions</a></li><li><a href="/theworks/ourservices/engineering/weeklyconstructionhighlights/constructioninteractivemap.aspx">Construction Interactive Map</a></li><li><a href="http://library.municode.com/index.aspx?clientId=16889&amp;stateId=21&amp;stateName=Massachusetts&amp;customBanner=16889.jpg&amp;imageclass=L&amp;cl=16889.txt">City Ordinances</a></li><li><a href="/finance/relatedlinks/thecityofcambridgescholarshipfund.aspx">The City of Cambridge Scholarship Fund</a></li><li><a href="/~/media/Files/publicinformationoffice/annualreportarchives/FY13 Annual Report.ashx">FY13 COC Annual Report</a></li><li><a href="/itd/CPI.aspx">CPI Wifi Access Points</a></li><li><a href="/cpl.aspx">Library</a></li><li><a href="/cmanager/mlkjrschoolconstruction.aspx">MLK School Construction Project</a></li><li><a href="/theworks.aspx">Public Works</a></li><li><a href="/socialmedia.aspx">Social Media Sites</a></li></ul>
+							<ul><li><a href="/boardsandcommissionsdirectory.aspx">Boards &amp; Commissions</a></li><li><a href="http://library.municode.com/index.aspx?clientId=16889&amp;stateId=21&amp;stateName=Massachusetts&amp;customBanner=16889.jpg&amp;imageclass=L&amp;cl=16889.txt">City Ordinances</a></li><li><a href="/pio/citytelephonedirectory/citytelephonedirectory.aspx">Department Directory</a></li><li><a href="/cpl/hoursandlocations.aspx">Library Hours &amp; Locations</a></li><li><a href="http://www.cambridgema.gov/purchasing/listBids.cfm">Purchasing Bid List</a></li><li><a href="http://www2.cambridgema.gov/inspectional/searchinspections.cfm">Restaurant Inspections</a></li><li><a href="/ec1/towedvehicles.aspx">Towed Vehicle Lookup</a></li><li><a href="/election/voterregistrationsearch.aspx">Voter Registration Search</a></li></ul>
 						</div>
 						<!-- /callout -->
 						
@@ -214,11 +156,12 @@ Completion of a payment transaction using the online bill-pay service is conting
                                     <p>Monday: 8:30am-8pm
 <br>Tuesday-Thursday: 8:30am-5pm
 <br>Friday: 8:30am-12pm</p>
-                                    <p></p><p sizset="27" sizcache="11"><a href="~/link.aspx?_id=4BDE8CE65C0A4700BB26D753473A5F6C&amp;_z=z">City Department Directory</a> </p>
-<p><em>Richard C. Rossi</em> <br>
+                                    <p><em><strong>Richard C. Rossi</strong> </em><br>
 City Manager</p>
-<p><em>Lisa C. Peterson</em> <br>
-Deputy City Manager</p><p></p>
+<p><em><strong>Lisa C. Peterson</strong></em> <br>
+Deputy City Manager</p>
+<p><a href="~/link.aspx?_id=539176F4070B4F219E803CC52D916C68&amp;_z=z" class="email">Contact</a></p>
+<a href="https://twitter.com/cambma" class="twitter-follow-button">Follow @cambma</a>
                                 
                         </div>
 						<!-- /callout -->
@@ -238,7 +181,7 @@ Deputy City Manager</p><p></p>
     
 	    <div id="footer">
 		    <div id="footer-content">
-			    <dl><dt>Living in Cambridge</dt><dd><a href="/livingincambridge.aspx">Living Home Page</a></dd><dd><a href="/citycalendar.aspx">City Calendar</a></dd><dd><a href="/externallinks/cambridgeusa/communitycalendar.aspx">Community Calendar</a></dd><dd><a href="/livingincambridge/residentservices1.aspx">Resident Services</a></dd><dd><a href="/theworks/ourservices/recyclingandtrash.aspx">Trash and Recycling</a></dd></dl><dl><dt>&nbsp;</dt><dd><a href="/CDD.aspx">Community Development</a></dd><dd><a href="/externallinks/CDD/Housing.aspx">Housing</a></dd><dd><a href="/DHSP.aspx">Human Services</a></dd><dd><a href="/DHSP/programsforfamilies/seniorscouncilonaging.aspx">Seniors</a></dd><dd><a href="/DHSP/programsforkidsandyouth.aspx">Youth and Families</a></dd></dl><dl><dt>Working in Cambridge</dt><dd><a href="/workingincambridge.aspx">Working Home page</a></dd><dd><a href="/externallinks/CDD/cityfactsbrochure.aspx">City Facts Brochure</a></dd><dd><a href="/externallinks/CDD/Workshops.aspx">Business Workshops</a></dd><dd><a href="/externallinks/cambridgelocalfirst.aspx">Cambridge Local First</a></dd></dl><dl><dt>Visiting Cambridge</dt><dd><a href="/externallinks/cambridgeusa/officefortourism.aspx">Cambridge Tourism Office</a></dd><dd><a href="/externallinks/artsandentertainment/cambridgeartscouncil.aspx">Arts and Entertainment</a></dd><dd><a href="/arts.aspx">Cambridge Arts Council</a></dd><dd><a href="/externallinks/cambridgeusa/thingstodo.aspx">Things to Do</a></dd></dl>
+			    <dl><dt>Living in Cambridge</dt><dd><a href="/citycalendar.aspx">City Calendar</a></dd><dd><a href="/externallinks/cambridgeusa/communitycalendar.aspx">Community Calendar</a></dd><dd><a href="/livingincambridge.aspx">Living Home Page</a></dd><dd><a href="/theworks.aspx">Public Works</a></dd><dd><a href="/livingincambridge/residentservices1.aspx">Resident Services</a></dd><dd><a href="/theworks/ourservices/recyclingandtrash.aspx">Trash and Recycling</a></dd></dl><dl><dt>&nbsp;</dt><dd><a href="/CDD.aspx">Community Development</a></dd><dd><a href="/externallinks/CDD/Housing.aspx">Housing</a></dd><dd><a href="/DHSP.aspx">Human Services</a></dd><dd><a href="/cpl.aspx">Public Library</a></dd><dd><a href="/DHSP/programsforfamilies/seniorscouncilonaging.aspx">Seniors</a></dd><dd><a href="/DHSP/programsforkidsandyouth.aspx">Youth and Families</a></dd></dl><dl><dt>Working in Cambridge</dt><dd><a href="/externallinks/CDD/Workshops.aspx">Business Workshops</a></dd><dd><a href="/externallinks/cambridgelocalfirst.aspx">Cambridge Local First</a></dd><dd><a href="/externallinks/CDD/cityfactsbrochure.aspx">City Facts Brochure</a></dd><dd><a href="/purchasing/currentbidlist.aspx">Purchasing Bid List</a></dd><dd><a href="/workingincambridge.aspx">Working Home page</a></dd></dl><dl><dt>Visiting Cambridge</dt><dd><a href="/arts.aspx">Cambridge Arts Council</a></dd><dd><a href="/externallinks/cambridgeusa/officefortourism.aspx">Cambridge Tourism Office</a></dd><dd><a href="/externallinks/cambridgeusa/thingstodo.aspx">Things to Do</a></dd></dl>
 		    </div>
 		    <!-- /footer-content -->
 		    <div id="copyright">
