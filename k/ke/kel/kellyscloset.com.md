@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellyscloset.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630214200id_/http%3A//www.kellyscloset.com/Kellys-Closet-Privacy-Policy_ep_39-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellyscloset.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219043134id_/http%3A//www.kellyscloset.com/Kellys-Closet-Privacy-Policy_ep_39-1.html) for the most accurate reproduction.*
 
 # Kelly's Closet Privacy Policy
 
@@ -64,4 +64,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://www.kellyscloset.com  
 PO BOX 369  
 South Paris, ME 04281  
-kellyscloset@diapershops.com
+[info@diapershops.com](mailto:info@diapershops.com)
