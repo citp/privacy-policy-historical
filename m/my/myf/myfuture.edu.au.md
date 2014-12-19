@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424020528id_/http%3A//www.myfuture.edu.au/Footer%2520Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219050409id_/http%3A//www.myfuture.edu.au/Footer%2520Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# myfuture: Privacy policy
+# myfuture:Privacy policy
 
   * Introduction
   * Information collected when you use this website
