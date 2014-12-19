@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macphun.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083838id_/http%3A//www.macphun.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macphun.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220002703id_/http%3A//macphun.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Macphun Privacy Policy
 
 This privacy policy designates how any information you give us while using [macphun.com](http://macphun.com/), [snapheal.com](http://snapheal.com/), [macphunapp.com](http://macphunapp.com/), [colorstrokesapp.com](http://colorstrokesapp.com/) or [vintagioapp.com](http://vintagioapp.com/) is used and protected.
 
@@ -42,7 +42,7 @@ Our site may contain links that belong to third parties. Any third party website
 
 To whom we disclose personal data
 
-We keep customer personal data and information private and confidential, and we will not disclose this it to other individuals or organizations unless required by law. We will not distribute your data to be used in mailing lists or for any other purpose other than what is stated in the "Use of your information" section.
+We keep customer personal data and information private and confidential, and we will not disclose this it to other individuals or organizations unless required by law. We will not distribute your data to be used in mailing lists or for any other purpose other than what is stated in the &quot;Use of your information&quot; section.
 
 We may disclose Personal Data so far as reasonably necessary: To third parties including our hosting company. When we are required to do so by applicable laws, statutes, regulations, standards or codes of conduct.
 
