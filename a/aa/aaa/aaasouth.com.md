@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aaasouth.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808004811id_/http%3A//autoclubsouth.aaa.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaasouth.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219202123id_/http%3A//autoclubsouth.aaa.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# AAA Privacy Policy
+# AAA Auto Club Group - Privacy Policy
 
 At AAA, maintaining your trust and confidence is our top priority. We do not sell or rent nonpublic personal information about our members or former members. We do not share non-public personal information about our members or former members with companies outside of AAA, except where required or permitted by law. We carefully manage and safeguard information among our companies and affiliates, based on your membership or other relationships with AAA, in order to provide you with unsurpassed service, greater convenience and superior value.
 
