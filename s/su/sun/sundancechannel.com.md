@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sundancechannel.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209123800id_/http%3A//www.sundancechannel.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundancechannel.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219134610id_/http%3A//www.sundance.tv/about/privacy) for the most accurate reproduction.*
 
-# Privacy – Sundance Channel
+# Privacy – SundanceTV
 
-Thank you for visiting sundancechannel.com, an AMC Networks Inc. website (“the Website”). Your patronage means a lot to us. We understand that your privacy is important and we are committed to providing you with clear information about the data we collect, how we use that information and the safeguards we have in place to protect it.
+Thank you for visiting sundance.tv, an AMC Networks Inc. website (“the Website”). Your patronage means a lot to us. We understand that your privacy is important and we are committed to providing you with clear information about the data we collect, how we use that information and the safeguards we have in place to protect it.
 
-This Privacy Policy (“Policy”) is effective as of February 26, 2013, for AMC Networks Inc. and its subsidiaries (“AMC”, “we”, “us”, or “our”). It applies to the Website and all other Websites owned or operated by AMC, including, but not limited to, AMCNetworks.com, AMCtv.com, Filmsite.org, GuySpeak.com, IFC.com, IFCAdSales.com, IFCCenter.com, IFCFilms.com, Press.amcnetworks.com, SundanceChannel.com, SundanceSelects.com, SundanceNow.com, WEtv.com and Yeahtv.com, as well as other AMC services, features, applications or functions offered or made available on or through the Website or other services or applications, mobile applications, and/or social networking applications (collectively, “the Services”). Furthermore, the Policy applies regardless of the device used to access the Website and/or the Services (e.g., personal computer, mobile device, consumer electronics device, or any other technology or software known today or developed in the future).
+This Privacy Policy (“Policy”) is effective as of February 26, 2014, for AMC Networks Inc. and its subsidiaries (“AMC”, “we”, “us”, or “our”). It applies to the Website and all other Websites owned or operated by AMC, including, but not limited to, AMCNetworks.com, AMCtv.com, Filmsite.org, GuySpeak.com, IFC.com, IFCAdSales.com, IFCCenter.com, IFCFilms.com, Press.amcnetworks.com, Sundance.tv, SundanceSelects.com, SundanceNow.com, WEtv.com and Yeahtv.com, as well as other AMC services, features, applications or functions offered or made available on or through the Website or other services or applications, mobile applications, and/or social networking applications (collectively, “the Services”). Furthermore, the Policy applies regardless of the device used to access the Website and/or the Services (e.g., personal computer, mobile device, consumer electronics device, or any other technology or software known today or developed in the future).
 
 Please carefully review this Policy. Your use of any part of the Website or Services indicates your acceptance of this Policy and your consent to the collection, use and disclosure of your information in accordance with this Policy.
 
@@ -42,11 +42,11 @@ This Website is controlled, operated and administered entirely within the United
 
 **YOUR CHOICES REGARDING MARKETING AND OPTING OUT**
 
-If you have provided personally identifiable information on one of our Websites or through our Services and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at feedback@sundancechannel.com; or (iii) writing us at AMC Networks Inc., c/o Sundance Channel L.L.C., 11 Penn Plaza, New York, NY 10001, Attn: Sundance Channel Privacy Coordinator.
+If you have provided personally identifiable information on one of our Websites or through our Services and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at feedback@sundance.tv; or (iii) writing us at AMC Networks Inc., c/o SundanceTV LLC, 11 Penn Plaza, New York, NY 10001, Attn: SundanceTV Privacy Coordinator.
 
 **UPDATING YOUR INFORMATION**
 
-To keep information that you provide via this Website accurate, current and complete, visit your Website subscription page(s) or email feedback@sundancechannel.com. If a member name and password were required to access the feature, you will need to provide such information to update your registration information.
+To keep information that you provide via this Website accurate, current and complete, visit your Website subscription page(s) or email feedback@sundance.tv. If a member name and password were required to access the feature, you will need to provide such information to update your registration information.
 
 **LINKS**
 
@@ -73,17 +73,17 @@ Please do not hesitate to contact us with any questions, concerns, requests or c
 Writing to us at:
 
 AMC Networks Inc.  
-c/o Sundance Channel L.L.C.  
+c/o SundanceTV LLC  
 11 Penn Plaza
 
 New York, NY 10001  
-Attention: Sundance Channel Privacy Coordinator  
-feedback@sundancechannel.com
+Attention: SundanceTV Privacy Coordinator  
+feedback@sundance.tv
 
 **SECURITY**
 
 We have implemented commercially reasonable security measures to protect the personal information that we collect. Despite our efforts, however, no security measure is perfect or impenetrable. Please be aware that any communications to the Website or through the Services may be unlawfully intercepted or accessed by third parties and/or the Website or Services may be subject to hostile network attacks or administrative error. Accordingly, AMC cannot and does not guarantee that the information you provide is completely secure and safe from such risks.
 
-Copyright © 2013 Sundance Channel L.L.C.
+Copyright © 2014 SundanceTV LLC
 
-Version: February 2013
+Version: February 2014
