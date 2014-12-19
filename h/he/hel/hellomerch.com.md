@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellomerch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143204id_/http%3A//shop.hellomerch.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellomerch.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219044255id_/http%3A//shop.hellomerch.com/pages/privacy-statement) for the most accurate reproduction.*
 
 # Hello Merch — Privacy Statement
 
@@ -43,4 +43,4 @@ By using this site, you represent that you are at least the age of majority in y
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
 **QUESTIONS AND CONTACT INFORMATION**  
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at orders@hellomerch.com or by mail at Hello Merch [Re: Privacy Compliance Officer] 5213 W Lamar Rd, Ste 1, Glendale, Arizona, US, 85301
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at orders@hellomerch.com or by mail at Hello Merch [Re: Privacy Compliance Officer] 7310 W. Roosevelt St, Ste 2, Glendale, Arizona, US, 85043
