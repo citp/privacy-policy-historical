@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the wazzub.com privacy policy that was archived on 2013-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131215171656id_/http%3A//wazzub.perfectinter.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wazzub.com privacy policy that was archived on 2014-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219092451id_/http%3A//wazzub.perfectinter.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><script async="" src="https://malsup.github.io/jquery.form.js?_=1580495334727"></script>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Expires" content="-1">
@@ -11,8 +11,11 @@
 <meta name="keywords" content="">
 <link rel="P3Pv1" href="./w3c/p3p.xml">
 <title>WAZZUB::Privacy</title>
-<link rel="stylesheet" type="text/css" href="themes/handshakes_neo/gfx/style.css">
+<meta property="og:image" content="http://wazzubdev.perfectinter.net/photos/e7/bf/46/e7bf46d9b8059ac.jpeg" id="meta_FaceBook">
 <script src="./jscript/jquery/jquery-1.6.2.min.js"></script>
+<script src="./jscript/noty/packaged/jquery.noty.packaged.min.js"></script>
+<script src="./jscript/jquery.colorbox.js"></script>
+<script src="./jscript/jquery.uploadfile.js"></script>
 
 <script language="JavaScript">
 <!--
@@ -59,17 +62,162 @@ function HS_BuildNotification(NotiType,NotiMessage){
 		<script src="./jscript/jquery/uniform/jquery.uniform.js" type="text/javascript"></script>
 		<script type="text/javascript" charset="utf-8">
 	      $(function(){
-	        $("input:checkbox, input:radio, input:text, input:password, textarea").uniform();
+	        $("input:text, input:password, textarea").uniform();
 	      });
 	    </script>
 	    <link rel="stylesheet" href="./jscript/jquery/uniform/css/uniform.default.css" type="text/css" media="screen">
 	    
+<link rel="stylesheet" type="text/css" href="themes/handshakes_neo/gfx/nonsession.css">
+<link rel="stylesheet" type="text/css" href="themes/handshakes_neo/gfx/landing_page_new.css">
+<script type="text/javascript" src="./jscript/base.js"></script>
+<script type="text/javascript" src="./jscript/rotate3di.js"></script>
+<script type="text/javascript" src="./jscript/nonregisterheader.js"></script>
+
+
 <link rel="stylesheet" type="text/css" href="./jscript/jquery/css/prettyPhoto.css">
 <script src="./jscript/jquery/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
 
 <script type="text/javascript" charset="utf-8">
+function notify_background(t){
+	$(t).css("background-color","#DDD");
+}
+function notify_set_read(){
+	$('#n_noti_ul > li:not(:last-child) > a').css("background-color","#DDD");
+	retrieve_data('account','noti_mark_read','','');
+}
+function notify_menus(key){
+    if(key == 'f'){
+        $('#m_noti_ul').hide();
+        $('#n_noti_ul').hide();
+    }
+    if(key == 'n'){
+        //alert(ids_to_hide);$('#m_noti_ul').hide();
+        $('#f_noti_ul').hide();
+        var ids_to_hide = $('#notify_ids_to_hide').val();
+        
+        $.ajax({
+            url: 'ajax.php?module=activity&act=clear_notification&ids_to_hide='+ids_to_hide,
+            success: function(data) {
+                $('#n_notify').hide(1000);
+            
+           }
+        });
+    }
+    if(key == 'm'){
+        $('#f_noti_ul').hide();
+        $('#n_noti_ul').hide();
+    }
+    $('#'+key+'_noti_ul').toggle(100);
+    $('#'+key+'_noti_ul').blur(function(){
+        $('#'+key+'_noti_ul').hide();
+    });
+}
+function change_bg_color(color){
+    $('#colorbox').css('visibility','hidden');
+    $('#cboxOverlay').css('visibility','hidden');
+    $('body').css('background-color',color);
+    $('body').css('background-image','none');
+    $.cookie("BackgroundWazzubColor", color); 
+}
+jQuery.cookie = function (name, value, options) {
+    if (typeof value != 'undefined') { // name and value given, set cookie
+        options = options || {};
+        if (value === null) {
+            value = '';
+            options.expires = -1;
+        }
+        var expires = '';
+        if (options.expires && (typeof options.expires == 'number' || options.expires.toUTCString)) {
+            var date;
+            if (typeof options.expires == 'number') {
+                date = new Date();
+                date.setTime(date.getTime() + (options.expires * 24 * 60 * 60 * 1000));
+            } else {
+                date = options.expires;
+            }
+            expires = '; expires=' + date.toUTCString(); // use expires attribute, max-age is not supported by IE
+        }
+        // CAUTION: Needed to parenthesize options.path and options.domain
+        // in the following expressions, otherwise they evaluate to undefined
+        // in the packed version for some reason...
+        var path = options.path ? '; path=' + (options.path) : '';
+        var domain = options.domain ? '; domain=' + (options.domain) : '';
+        var secure = options.secure ? '; secure' : '';
+        document.cookie = [name, '=', encodeURIComponent(value), expires, path, domain, secure].join('');
+    } else { 
+        var cookieValue = null;
+        if (document.cookie && document.cookie != '') {
+            var cookies = document.cookie.split(';');
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = jQuery.trim(cookies[i]);
+                // Does this cookie string begin with the name we want?
+                if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+}
 			$(document).ready(function(){
-				$("a[rel^='prettySlide']").prettyPhoto({
+         
+					$('#MainBody').on("click",function(e) {
+							
+						  $('#m_noti_ul').hide();
+        			$('#n_noti_ul').hide();
+        			$('#f_noti_ul').hide();
+					});
+					         
+                                if($.cookie("BackgroundWazzubColor")){
+                                    $('body').css('background-color',$.cookie("BackgroundWazzubColor"));
+                                    $('body').css('background-image','none');
+                                }
+				//Examples of how to assign the Colorbox event to elements
+				$(".group1").colorbox({rel:'group1'});
+				$(".group2").colorbox({rel:'group2', transition:"fade"});
+				$(".group3").colorbox({rel:'group3', transition:"none", width:"75%", height:"75%"});
+				$(".group4").colorbox({rel:'group4', slideshow:true});
+				/*$(".ajax").colorbox({innerWidth:640, innerHeight:720, height:"90%"});*/
+				$(".ajax").colorbox({innerWidth:865, innerHeight:720, height:"635px"});
+				$(".youtube").colorbox({iframe:true, innerWidth:640, innerHeight:390});
+				$(".vimeo").colorbox({iframe:true, innerWidth:500, innerHeight:409});
+				$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
+				$(".inline").colorbox({inline:true, width:"50%"});
+				$(".callbacks").colorbox({
+					onOpen:function(){ alert('onOpen: colorbox is about to open'); },
+					onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
+					onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
+					onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
+					onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
+				});
+                
+              
+
+				$('.non-retina').colorbox({rel:'group5', transition:'none'})
+				$('.retina').colorbox({rel:'group5', transition:'none', retinaImage:true, retinaUrl:true});
+				
+				//Example of preserving a JavaScript event for inline calls.
+				$("#click").click(function(){ 
+					$('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+					return false;
+				});
+			});
+			
+			function noty_generate(txt,layout) {
+				   if(!layout)
+				   	layout = "topLeft";
+		        var n = noty({
+		            text        : txt,
+		            type        : 'alert',
+		            dismissQueue: true,
+		            layout      : layout,
+		            theme       : 'defaultTheme'
+		        });
+		        console.log('html: ' + n.options.id);
+	    }
+			$(document).ready(function(){
+				/*$("a[rel^='prettySlide']").prettyPhoto({
 					iframe_markup: '<iframe src ="{path}" width="{width}" height="{height}" frameborder="no"></iframe>',
 					slideshow: 8000,
 					autoplay_slideshow: true
@@ -78,106 +226,68 @@ function HS_BuildNotification(NotiType,NotiMessage){
 				$("a[rel^='prettyPhoto']").prettyPhoto({
 					iframe_markup: '<iframe src ="{path}" width="{width}" height="{height}" frameborder="no"></iframe>',
 					autoplay_slideshow: false
-				});
+				});*/
+				$.noty.defaults = {
+				    layout: 'top',
+				    theme: 'defaultTheme',
+				    type: 'alert',
+				    text: '', // can be html or string
+				    dismissQueue: true, // If you want to use queue feature set this true
+				    template: '<div class="noty_message"><span class="noty_text"></span><div class="noty_close"></div></div>',
+				    animation: {
+				        open: {height: 'toggle'},
+				        close: {height: 'toggle'},
+				        easing: 'swing',
+				        speed: 500 // opening & closing animation speed
+				    },
+				    timeout: 10000, // delay for closing event. Set false for sticky notifications
+				    force: false, // adds notification to the beginning of queue when set to true
+				    modal: false,
+				    maxVisible: 5, // you can set max visible notification for dismissQueue true option,
+				    killer: false, // for close all notifications before show
+				    closeWith: ['button'], // ['click', 'button', 'hover']
+				    callback: {
+				        onShow: function() {},
+				        afterShow: function() {},
+				        onClose: function() {},
+				        afterClose: function() {}
+				    },
+				    buttons: false // an array of buttons
+				};
 			});
 </script>
 
 
-
-
-
-		<script type="text/javascript" src="./jscript/genuskbl.js"></script>
-
-
-<script type="text/javascript">
-$(document).ready(function(){	
-	$("#slider").easySlider({
-	auto: true, 
-	continuous: true,
-	numeric: true
-	});
-});	
-
-</script>
-
+		
 
 </head>
-<body onload="HS_PosBlinds();">
-	
-	<!-- Start Alexa Certify Javascript -->
-	<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "kJpAf1agkf00UO", domain:"perfectinter.net"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=kJpAf1agkf00UO" style="display:none" height="1" width="1" alt="" /></noscript>
-	<!-- End Alexa Certify Javascript -->
-	<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "4vgzf1agkf0086", domain:"perfectinter.net"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=4vgzf1agkf0086" style="display:none" height="1" width="1" alt="" /></noscript>
-	<!-- End Alexa Certify Javascript -->
-	
-<script type="text/javascript" src="./jscript/sblib.js"></script>
-<script type="text/javascript" src="./jscript/wz_tooltip.js"></script>
-<div id="BLIND">
-<div class="noti"><table cellpadding="0" cellspacing="0" border="0" width="180" height="115">
-	<tbody><tr height="20"><td height="20" align="center" class="noti-header">Notification [<a href="javascript:HS_CloseNotification('BLIND')">x</a>]</td></tr>
-	<tr><td align="center" style="padding:5px;" class="noti-body"><div id="notification_message_BLIND"></div></td></tr>
-</tbody></table></div>
-<div id="notification_message_BLIND"></div>
-</div>
-<div id="blinds_panel"></div>
-<iframe name="notifications_js" id="notifications_js" src="./modules/my_handshakes.php?action=notifications_js" width="0" height="0" scrolling="no" frameborder="0" border="0" style="border: none"></iframe><div id="vchat_window"></div>
-<div class="wrapper">
-<div class="newhead">
-<div class="the-logo" style="float:left;">
- <a href="./"><img src="themes/handshakes_neo/gfx/wazzublogo.png" width="328" height="133"></a>
-</div>
-<div style="float:right; background: url(themes/handshakes_neo/gfx/thewepower.png) top right no-repeat; width:617px;  height:133px; position:relative;">
-
-<div style="position: absolute;
-bottom: 10px;
-right: 10px;">
-
-							
-					<div id="google_translate_element"></div> 
-					<script>
-						function googleTranslateElementInit() {	
-							new google.translate.TranslateElement({	pageLanguage: 'en',	layout: google.translate.TranslateElement.InlineLayout.SIMPLE	},'google_translate_element');
-						}
-					</script>
-					<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
- 				
- 			            </div>
-
-</div>
-<div style="clear:both;"></div>
-</div>
-
- 
-	 
-		<div class="mainMenu">
-                		<div onmouseover="HS_SwapClass( this, 'selected' )" onmouseout="HS_SwapClass( this, '' )"><a target="" href="./index.php">Home</a>
-</div>
-<div onmouseover="HS_SwapClass( this, 'selected' )" onmouseout="HS_SwapClass( this, '' )"><a target="" href="./index.php?page=about">About WAZZ<span class="difcolor">UB</span></a>
-</div>
-<div onmouseover="HS_SwapClass( this, 'selected' )" onmouseout="HS_SwapClass( this, '' )"><a target="" href="./index.php?page=wazzub_privacy">Privacy Policy</a>
-</div>
-<div onmouseover="HS_SwapClass( this, 'selected' )" onmouseout="HS_SwapClass( this, '' )"><a target="" href="./index.php?page=charity">WAZZ<span class="difcolor">UB</span> Charity</a>
-</div>
-<div onmouseover="HS_SwapClass( this, 'selected' )" onmouseout="HS_SwapClass( this, '' )"><a target="" href="./index.php?page=song">WAZZ<span class="difcolor">UB</span> Song</a>
-</div>
-<div onmouseover="HS_SwapClass( this, 'selected' )" onmouseout="HS_SwapClass( this, '' )"><a target="" href="./index.php?page=sharing">Success Sharing Phenomenon</a>
-</div>
-		
-        		</div>
+	<body><div id="top">
+      <div id="header">
+          <div id="logo">
+              <a href="#"><img width="294" height="86" src="themes/handshakes_neo/gfx/brands_wazzub.gif"></a>
+          </div>
+          <div style="width: 400px; text-align: center; float: left; height: 95px; margin-top: 0px;"> <iframe class="pp_ad" src="http://perfectpages.perfectinter.net/banner_api.php?type=banner_390x95_f&amp;u=ext" scrolling="no" frameborder="0" width="390" height="95"></iframe></div>
+          <div id="banner">
+              
+          </div>
+          <div id="header_text">
+                <img src="themes/handshakes_neo/gfx/thepower.png">
+          </div>
         
-        
-				
-	 
-	
+      </div>
+  </div>
+			
+<div class="MainContentBox">
 		
 	
-		<div class="banner-header"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- WAZZUB I -->
-<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6261112377373830" data-ad-slot="8094153702"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-	<div class="whiteBox" style="margin-top: -10px;">
+<div class="myWrapper">
+<div class="columnSmall">
+
+		
+		<div class="banner-side"><iframe class="pp_ad" src="http://perfectpages.perfectinter.net/banner_api.php?type=banner_120x600_f&amp;u=ext" scrolling="no" frameborder="0" width="120" height="600"></iframe></div>
+	
+</div>
+<div class="whiteBox" style="margin-top: -10px;">
 	<div class="tch"><div class="b"><div class="l"><div class="r"><div class="bl"><div class="br"><div class="tlh"><div class="trh">
 	<div class="whiteBoxHeader"> <strong>WAZZ<span class="difcolor">UB</span></strong> Privacy Policy</div>
 	<div class="whiteBoxBody">    <div class="extexts" style="padding-bottom:5px;">
@@ -213,62 +323,29 @@ Please be aware that whenever members voluntarily disclose personal information 
 
 </div>
 </div>
-	</div></div></div></div></div></div></div></div></div></div>	
+	</div></div></div></div></div></div></div></div></div></div>
+     </div>
+<div class="clear"></div>
+</div><div style=" height:10px; clear:both;"></div>
 	
-	<div style=" height:10px; clear:both;"></div>
-		<div class="banner-footer"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- WAZZUB I -->
-<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6261112377373830" data-ad-slot="8094153702"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script></div>
-	<div class="footer" style="margin-left:3px; margin-right:3px;">
+<div id="footer">
+     	<div id="foot-inner">
+            <div style="margin-left: 3px; margin-right: 3px; text-align: center; padding-top: 40px;" class="footer">
 		 			
 			  
 				  <a href="./index.php?page=contact">Contact Us</a> 
 				  <a href="./index.php?page=terms">Terms and Conditions</a> 
-				 <a href="./index.php?page=privacy">Privacy Policy</a> 
+				  <a href="./index.php?page=privacy">Privacy Policy</a> 
 			 
-		 ® 2012 GIT Global Investments, Inc.
-	</div>
-
-	
-</div>
-
-
-<div class="topMenu" style="display:none;">
-
-			<ul>
-																		<li>
-			<a target="" href="./index.php"><img src="themes/handshakes_neo/gfx/buttons/top/home.gif" alt="" width="24" height="24" border="0"></a>
-			</li>
-												<li>
-			<a target="" href="./index.php?page=mailbox&amp;section=inbox"><img src="themes/handshakes_neo/gfx/buttons/top/mailbox.gif" alt="" width="24" height="24" border="0"></a>
-			</li>
-												<li>
-			<a target="" href="./index.php?page=calendar"><img src="themes/handshakes_neo/gfx/buttons/top/calendar.gif" alt="" width="24" height="24" border="0"></a>
-			</li>
-													<li class="right"><a href="javascript:void(0)" onclick="sbDropDown( this )" onmouseout="sbHide()" onmouseover="sbStopTimer()"><img src="themes/handshakes_neo/gfx/buttons/top/bookmark.gif" alt="" width="125" height="16" border="0"></a></li>
-						
-			</ul>
-			
-			</div>
-<div id="sbdropdown" onmouseover="sbStopTimer()" onmouseout="sbHide()">
-<div class="sbitem" onclick="sbDoFavorite('http://wazzub.perfectinter.net/index.php?page=privacy','WAZZUB Privacy')" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/star.png" alt="" style="vertical-align:middle;"> Favorites</div>
-<div class="sbitem" onclick="sbBookmark('http://del.icio.us/post?url=http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy;title=WAZZUB+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/delicious.png" alt="" style="vertical-align:middle;"> Del.icio.us</div>
-<div class="sbitem" onclick="sbBookmark('http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy&amp;title=WAZZUB+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/digg.png" alt="" style="vertical-align:middle;"> Digg</div>
-<div class="sbitem" onclick="sbBookmark('http://www.furl.net/storeIt.jsp?u=http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy&amp;t=WAZZUB+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/furl.gif" alt="" style="vertical-align:middle;"> Furl</div>
-<div class="sbitem" onclick="sbBookmark('http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy&amp;title=WAZZUB+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/stumbleupon.png" alt="" style="vertical-align:middle;"> StumbleUpon</div>
-<div class="sbitem" onclick="sbBookmark('http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy&amp;title=WAZZUB+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/google.gif" alt="" style="vertical-align:middle;"> Google</div>
-<div class="sbitem" onclick="sbBookmark('http://myweb2.search.yahoo.com/myresults/bookmarklet?t=WAZZUB+Privacy&amp;u=http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/yahoo.png" alt="" style="vertical-align:middle;"> Yahoo</div>
-<div class="sbitem" onclick="sbBookmark('http://technorati.com/faves?add=http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/technorati.gif" alt="" style="vertical-align:middle;"> Technorati</div>
-<div class="sbitem" onclick="sbBookmark('http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy&amp;Title=WAZZUB+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/blinklist.png" alt="" style="vertical-align:middle;"> BlinkList</div>
-<div class="sbitem" onclick="sbBookmark('http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy&amp;c=WAZZUB+Privacy&amp;t=WAZZUB+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/myspace.jpg" alt="" style="vertical-align:middle;"> MySpace</div>
-<div class="sbitem" onclick="sbBookmark('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy&amp;t=WAZZUB+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/facebook.gif" alt="" style="vertical-align:middle;"> Facebook</div>
-<div class="sbitem" onclick="sbBookmark('http://twitter.com/home?status=Check this out:%20http%3A%2F%2Fwazzub.perfectinter.net%2Findex.php%3Fpage%3Dprivacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://wazzub.perfectinter.net/includes/sbicons/twitter.gif" alt="" style="vertical-align:middle;"> Twitter</div>
-</div><br>
-<br>
-<br>
+				 <p style="display:inline; margin-left:120px;"> ® 2011 - 2014  Wazzub Inc.
+			</p></div>
+           
+            
+         </div>
+    </div>
 
 
-</body></html>
+ 
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div></body></html>
