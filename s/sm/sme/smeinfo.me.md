@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smeinfo.me privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618064141id_/http%3A//www.ameinfo.com/smeinfo/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smeinfo.me privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219051924id_/http%3A//smeinfo.me/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Sme Ameinfo Com
 
