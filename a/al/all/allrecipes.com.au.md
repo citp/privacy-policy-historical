@@ -1,8 +1,31 @@
-> *The following text is extracted and transformed from the allrecipes.com.au privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605100756id_/http%3A//allrecipes.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220002819id_/http%3A//allrecipes.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - All recipes Australia NZ
 
-##  Privacy Policy _ as of 15/07/2008_
+as of 15/07/2008
+
+  * About the Privacy Policy
+  * Types of Information We Collect
+  * How We Collect and Use Personal Information
+  * Registration, Purchases; Other Information Submissions
+  * E-mail and Newsletters
+  * E-mail-A-Friend
+  * Competitions, Promotions, Offers and Surveys
+  * Customer Service
+  * Cookies, Web Beacons and Log Files
+  * Disclosure of Personal Information
+  * Own Business Purposes
+  * Protection of Allrecipes.com and Others
+  * Business Transfers
+  * Children
+  * Third Party Advertising
+  * Third Party Links
+  * Third Party Sources
+  * Security
+  * Correcting/Updating Personal Information
+  * Contact us
+
+
 
 * * *
 
