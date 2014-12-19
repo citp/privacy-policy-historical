@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210051746id_/http%3A//www.ifc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092543id_/http%3A//www.ifc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – IFC
 
@@ -277,3 +277,5 @@ We have implemented commercially reasonable security measures to protect the per
 Copyright © 2013 ifc.com
 
 Version:  February 2013
+
+Copyright © 2014 IFC TV LLC. All rights reserved.
