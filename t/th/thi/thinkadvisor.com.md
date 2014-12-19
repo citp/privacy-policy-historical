@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkadvisor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171029id_/http%3A//www.thinkadvisor.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkadvisor.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219135918id_/http%3A//www.thinkadvisor.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ThinkAdvisor
 
@@ -93,7 +93,7 @@ If you have any questions about the accuracy of information on Summit Profession
 
 **By regular mail:**  
 Summit Professional Networks  
-5081 Olympic Blvd  
+4157 Olympic Blvd, Suite 225  
 Erlanger, KY 41018  
 Attn: Customer Service 
 
