@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wingstop.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617081346id_/http%3A//www.wingstop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wingstop.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219012642id_/http%3A//www.wingstop.com/privacy-policy) for the most accurate reproduction.*
 
 # Wingstop - Privacy Policy
 
