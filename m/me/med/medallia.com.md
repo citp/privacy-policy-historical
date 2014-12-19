@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620225402id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medallia.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219145137id_/http%3A//www.medallia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Medallia
 
-Effective date: September 24, 2004 • Last reviewed and updated May 07, 2014
+Effective date: September 24, 2004 • Last reviewed and updated October 16, 2014
 
 [](http://privacy.truste.com/privacy-seal/Medallia,-Inc-/validation?rid=97940707-77d5-495c-94ba-4b8bf361f4ee "TRUSTe")
 
@@ -32,10 +32,13 @@ Medallia may, with the written consent of its clients, ask questions of customer
 
 When Medallia surveys respondents on its own behalf, it typically does not collect or have any other access to personally identifying information. If Medallia does request personally identifiable information during a survey, it will use the personally identifiable information as described in that survey. When Medallia provides resulting proprietary research to third parties, it sometimes reveals individual responses, but these do not contain any personally identifying information.
 
-Medallia does not collect or receive sensitive personally identifiable information such as: credit card numbers, social security numbers, financial account and transaction information, political opinions, religious or philosophical beliefs, or trade union membership. Medallia does collect demographic information for statistical purposes. Responses to demographic questions are entirely voluntary.  
+Medallia does not collect or receive sensitive personally identifiable information such as: credit card numbers, social security numbers, political opinions, religious or philosophical beliefs, or trade union membership. Medallia does collect demographic information for statistical purposes. Responses to demographic questions are entirely voluntary.
+
 Medallia’s mobile reporting application, used by Medallia’s clients, uses third-party services to gather data on application usage and stability. This data is shared only with the relevant client. A user may unsubscribe from tracking through the user settings screen within the mobile application.
 
-Medallia uses cookies primarily to identify returning users from the same computer and insure the integrity of its research. As part of its basic uses of Internet technology to provide surveys, Medallia also collects technical information such as: respondent IP address; the date and time at which respondents access Medallia’s website and respondent HTTP request headers. Medallia also uses third-party analytical cookies for tracking web traffic and usage.  The use of cookies by our affiliates is not covered by our privacy policy.  We do not have access to these cookies.
+Medallia and its service providers use cookies primarily to identify returning users from the same computer and ensure the integrity of its research. As part of its basic uses of Internet technology to provide surveys, Medallia also collects technical information such as: respondent IP address; the date and time at which respondents access Medallia’s website and respondent HTTP request headers.
+
+Medallia also uses third-party analytical cookies for tracking web traffic and usage.  The use of analytical cookies by our affiliates is not covered by our privacy policy.  We do not have access to these cookies.
 
 Medallia uses Google Display Advertising and Remarketing cookies on the Medallia website (but not on the survey site or reporting application), which enable third-party vendors to show Medallia advertisements across the Internet. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences.truste.com/).
 
@@ -117,4 +120,4 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 If you have any questions or comments about this privacy policy or the practices of this site, please contact Medallia by e-mailing privacy@medallia.com, faxing (650) 321-3156, calling (650) 321-3000, or writing Attention: Privacy, Medallia, Inc., 395 Page Mill Road, Suite 100, Palo Alto, CA 94306. Medallia responds to non-frivolous privacy-related requests in a timely fashion, not to exceed ten (10) business days.
 
-Effective date: September 24, 2004. Last reviewed and updated, January 07, 2014.
+Effective date: September 24, 2004. Last reviewed and updated, October 16, 2014.
