@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commbank.com.au privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623184649id_/https%3A//www.commbank.com.au/security-privacy/general-security/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commbank.com.au privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219063003id_/https%3A//www.commbank.com.au/security-privacy/general-security/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - CommBank
+# Learn about our Privacy Policy - CommBank
 
 In our increasingly digital world, we take our responsibility to protect your privacy very seriously by applying strict security and privacy controls to the way we handle your personal information. We use the information you provide us to give you the best possible banking experiences, to help us assess your applications as well as design and tailor products and services so they’re just right for you.
 
