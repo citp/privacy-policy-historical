@@ -1,58 +1,47 @@
-> *The following text is extracted and transformed from the healthines.com privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106121941id_/http%3A//www.healthines.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthines.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219150848id_/http%3A//www.healthines.com/privacy-policy) for the most accurate reproduction.*
 
-# Healthines - About Us - Privacy Statement
+# healthines.com » Privacy Policy
 
-**1\. General**  
-Healthines Inc. (hereinafter "Healthines") respects the privacy of every individual who visits www.Healthines.com (hereinafter the "Web Site"). This Privacy Policy outlines the information Healthines will collect and how we will use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared. 
-
-**2\. Personally-Identifiable Information**  
-There are cases where Healthines may ask you for personally-identifiable information such as your name, mailing address and e-mail address. For example, we request personally-identifiable information when you register for an account on the Web Site, for online shopping or transactions, or for other services that require registration or subscription. Healthines will not collect any personally-identifiable information about you unless you provide it to us voluntarily. 
-
-When you do provide us with personally-identifiable information, Healthines may: 
-
-  * Store and process that information to better understand your needs and how we can improve our products and services;
-  * Use that information to contact you for informational, marketing and promotional purposes;
-  * Disclose that information to third parties when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with the rights or property (either intentionally or unintentionally) of Healthines, other members or users of the Web Site, or anyone else that could be harmed by such activities;
-  * Disclose that information to third parties when we believe in good faith that the law requires it;
-  * Disclose that information to third parties when we believe in good faith that such action is necessary to enforce the [Terms of Service](http://www.healthines.com/about/terms.html); and
-  * Disclose that information when we contract with a third party to deliver e-mail on our behalf or provide other services involving list update or list maintenance.
-
-Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, we will not provide personally-identifiable information to third parties, although certain non-personally-identifiable user information may be provided in aggregate form to third parties. 
-
-In case you would like to remove or change some personally-identifiable information, you may do so by visiting your member services page or contacting our [Customer Support Department](http://www.healthines.com/research/help/). (Remember, however, that removing some or all of your personally-identifiable information may limit your ability to access some or all of the features and services of the Web Site.) In addition, to keep you in control of your personally-identifiable information and the communications directed to you, we allow you to opt-out of receiving communications from Healthines about new Web Site features or Healthines services. You may opt-out of these services by contacting our [Customer Support Department](http://www.healthines.com/research/help/). 
-
-Some of our services or promotions are offered through an affiliation with another company in what we call a "co-branded" area of our site or through a co-sponsored promotion, and visitor information may be shared with those partners and/or sponsors. If you request information about or from our partners or sponsors, or visit a co-branded or sponsor-specific area of the site, you give Healthines permission to provide information about you (such as your e-mail address) to the partner or sponsor. 
-
-**3\. Public Forums**  
-This Web Site may make chat rooms, discussion boards, news groups and/or other public forums available to its users. Please remember that any information that is disclosed to these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-**4\. Children**  
-This Web Site is not directed at individuals under 18 years of age, and Healthines does not intend to collect any personally-identifiable information from such individuals. Where appropriate, Healthines will specifically instruct children not to submit such information on the Web Site. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the mailing address or e-mail address listed at the bottom of this Policy if he would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files. 
-
-**5\. Non-Personally-Identifiable Information**  
-Healthines may also collect information about you that is not personally-identifiable. Examples of this type of information may include your age, gender, interests and preferences, the type of Internet browser you are using, the type of computer operating system you are using, and the domain name of the web site from which you linked to the Web Site. Healthines may share this information with advertisers, business partners, sponsors and other third parties. For example, Healthines may inform a sponsor that the membership of the Web Site is x percent females and y percent males. This data is used to customize the Web Site's content and advertising, and to deliver a better experience for our members and users. 
-
-**6\. Information We May Place Automatically on Your Computer's Hard Drive**  
-When you view the Web Site, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. A Cookie is an element of data that a web site can send to your browser, which may then store the Cookie on your hard drive. Consequently, the next time you visit the Web Site, Healthines can recognize you. For example, Cookies are used to allow us to tailor the Web Site to better match your interests and preferences. With most Internet browsers, you can erase Cookies from your computer's hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. 
-
-**7\. Links to Other Web Sites**  
-The Web Site allows links to various other web sites as stated in Healthines's [Terms of Service](http://www.healthines.com/about/terms.html). Healthines assumes no responsibility for the information practices of sites you are able to access through the Web Site. These links to other sites do not imply affiliation or endorsement of a linked site in any way. 
-
-**8\. Security**  
-Please keep in mind that whenever you give out personal information online --- for example, via discussion boards or chat rooms --- that information can be collected and used by people you don't know. While Healthines strives to protect your information and privacy, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
-
-The importance of security for all personally-identifiable information associated with our users and members is of utmost concern to us. Unfortunately, no data transmission over the Internet can be guaranteed to be secure. As a result, while we strive to protect your personally-identifiable information, Healthines can't ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your personally-identifiable information, we will take reasonable efforts to ensure its security on our systems. 
-
-Your account on the Web Site is password-protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. Healthines will never ask you for your password in an unsolicited phone call or e-mail. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Remember to sign out of your account on the Web Site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if your computer is accessible to others or if you share a computer with someone else or are using a computer in a public place like a library or an Internet café. Healthines's policy on termination of subscribers or members who violate security provisions is set out in Healthines's Web Site [Terms of Service](http://healthines.com/about/terms.html). 
-
-**9\. Business Transfers**  
-As we continue to develop our business, we might sell or buy stores or assets, or transfer a service we provide to a carefully chosen strategic partner. In such transactions, customer info generally is one of the transferred business assets. 
-
-**10\. Your Acceptance of These Terms**  
-By using the Web Site, you signify your assent to the Healthines Privacy Policy and the Web Site's Terms of Service. If you do not agree to this Policy or the Terms of Service, please do not use the Web Site. Your continued use of the Web Site following the posting of changes to these terms will mean you accept those changes. 
-
-**11\. Whom to Contact**  
-If you have questions or concerns regarding this Privacy Policy, the practice of this Web Site, your dealings with this Web Site, or would like to notify us of an alleged infringement of copyrights, you should contact Healthines by mail at: Healthines Inc., 25 Stillman Street, Suite 102, San Francisco, CA 94107-1309; or through our [contact form](http://healthines.com/research/help/). 
-
-**12\. Ad Serving**  
-The ads appearing on Healthines.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto Healthines.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to Healthines.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please click [here](http://www.doubleclick.net/us/corporate/privacy). 
+This privacy policy sets out how healthines.com uses and protects any information that you provide when you use this website.  
+healthines.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
+healthines.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 2010.  
+What we collect  
+We may collect the following information:  
+Name  
+Contact information including email address  
+Demographic information such as zipcode, preferences and interests  
+Other information relevant to your participation a course, tour or event in the case of online class and event  
+registration  
+What we do with the information we gather  
+We require this information to understand your needs and provide you with better service, and in particular for the  
+following reasons:  
+Internal record keeping.  
+We may use the information to improve our products and services.  
+If you do not exclude yourself, we may periodically send promotional email about new services, special events or  
+other information which we think you may find interesting using the email address which you have provided.  
+We may use the information to help connect you with the most appropriate department, unit or individual based on your request.  
+We may use the information to customize the website according to your interests.  
+We will never sell your information.  
+Security  
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure  
+we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information  
+we collect online.  
+How we use cookies  
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file  
+is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow  
+web applications to respond to you as an individual. The web application can tailor its operations to your needs,  
+likes and dislikes by gathering and remembering information about your preferences.  
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic  
+and improve our website in order to tailor it to customer needs. We only use this information for statistical  
+analysis purposes and then the data is removed from the system.  
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than  
+the data you choose to share with us.  
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.  
+Links to other websites  
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.  
+Controlling your personal information  
+You may choose to restrict the collection or use of your personal information in the following ways:  
+Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do  
+not want the information to be used by anybody for direct marketing purposes.  
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at webmaster@healthines.com.  
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
