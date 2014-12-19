@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox29.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630194427id_/http%3A//www.myfoxphilly.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox29.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219071152id_/http%3A//www.myfoxphilly.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
 # Fox Television Stations Privacy Policy - FOX 29 News Philadelphia | WTXF-TV
 
