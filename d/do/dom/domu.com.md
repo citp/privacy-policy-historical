@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the domu.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626095711id_/http%3A//www.domu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domu.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219203310id_/http%3A//www.domu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**What information is collected**
+**What information does Domu collect?**
 
-Once you land on any page of the domu website you disclose your IP address and certain information about your computing, such as the type of browser and operating system you are using and the page that you were referred from.  You should assume that this information will be preserved.
+When you visit the Domu website, you disclose your IP address and certain information about your computing, such as the type of browser and operating system you are using and the page that referred you to our site.  Domu may preserve this information.
 
-If all you ever do on domu is search for a chicago apartment, then no other information will be collected from you.  To take advantage of certain functionalities offered by the website, however, you will need to supply additional information:
+If you use Domu solely to browse listings, then Domu will not collect any additional information from you.  But to take advantage of certain functionalities offered by the website, you will need to supply additional information.  For example,
 
-If you want to save your searches, you will need to supply an e-mail address and password.
+To save your searches, you must share your e-mail address and create a password;
 
-If you would like to contact a landlord using our web form, you will need to supply an e-mail address.
+To contact a landlord about a listing, you will must share your e-mail address;
 
-If you want  to send a listing to a friend, you will need to supply your own e-mail address, as well as your friend’s e-mail address.
+To send a listing to a friend, you must share your e-mail address as well as your friend’s;
 
-If you wish to list an apartment for rent, you will need to supply an e-mail address, a password, and a credit card number with name and billing address.
+To post an apartment for rent, you must share an e-mail address, create a password, and provide a valid credit card number with name and billing address.
 
 **Who receives the information**
 
@@ -30,9 +30,9 @@ Domu may also use your e-mail address to communicate with you regarding specific
 
 Whenever you establish an account, domu will send you an e-mail confirming that the account has been created.
 
-If you save a search, domu will periodically alert you to newly-listed chicago apartments matching your search criteria, although you have the option to set preferences on how often you would like to be notified of new search results, including the preference not to be contacted at all.
+If you save a search, domu will periodically alert you to newly-listed Chicago apartments matching your search criteria, although you have the option to set preferences on how often you would like to be notified of new search results, including the preference not to be contacted at all.
 
-If you activate a listing for a chicago apartment, domu will confirm the receipt of your credit card payment and may later alert you when your listing is about to expire or remind you of your ability to renew it.
+If you activate a listing for a Chicago apartment, domu will confirm the receipt of your credit card payment and may later alert you when your listing is about to expire or remind you of your ability to renew it.
 
 Domu does not accept advertisements (other than listings) and does not disclose e-mail addresses to third-parties, subject to the exceptions set forth in the next paragraph.
 
