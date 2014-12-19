@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polaris.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613000257id_/http%3A//www.polaris.com/en-us/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaris.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219140736id_/http%3A//www.polaris.com/en-us/company/privacy.aspx) for the most accurate reproduction.*
 
 # Polaris ATV, Snowmobiles, RANGER, Victory
 
