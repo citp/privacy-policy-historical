@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vocalcom.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613055030id_/http%3A//www.vocalcom.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocalcom.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219043807id_/http%3A//www.vocalcom.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Vocalcom Privacy
+
+## Privacy Statement
 
 Your privacy is important to Vocalcom Group. This privacy statement provides information about the personal information that Vocalcom Group collects, and the ways in which Vocalcom Group uses that personal information. 
 
