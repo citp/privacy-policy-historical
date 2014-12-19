@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215190146id_/http%3A//www.appointment-plus.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointment-plus.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219194309id_/http%3A//www.appointment-plus.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Appointment-Plus Privacy Policy | Online Scheduling Software Privacy
 
