@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the paper-source.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404112756id_/http%3A//www.paper-source.com/cgi-bin/paper/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper-source.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219150742id_/http%3A//www.papersource.com/security.html) for the most accurate reproduction.*
 
 # Security & Privacy | Paper Source
 
-[Home: ](http://www.paper-source.com/cgi-bin/paper/index.html) Security & Privacy Policy
+[Home: ](http://www.papersource.com/index.html) Security & Privacy Policy
 
 _Please note that Paper Source changed its privacy policy as of February 2011._
 
@@ -24,11 +24,11 @@ _To opt out_ : To remove yourself from our email list, please notify our custome
 
 **Web Analytics** : Our web analytics provider helps us assess visitation to our website by placing small pixel tags and cookies on our site. While this allows us to track visits and analyze our website traffic, the data retrieved cannot be used for any reason without our authorization.
 
-_To opt out_ : To check or change your cookie status, [click here](https://web.archive.org/cgi-bin/paper/opt_out.html). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out. Please allow time for processing. 
+_To opt out_ : To check or change your cookie status, [click here](https://web.archive.org/opt_out.html). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out. Please allow time for processing. 
 
-**Online Advertising** : We contract with third-party service providers who help us place advertising messages on other websites. We may directly collect and these providers may also collect anonymous information about your visits to our website, and your interaction with our products and services. This information may be used to target advertising messages to you based on your interests. This anonymous information is collected through the use of a cookie and pixel tag, which is an industry standard technology used by most major websites. Your personal information is not shared directly with these providers, as it is made anonymous by a vendor contracted with the provider before it reaches the provider's system. If you prefer not to receive relevant banner advertising from our third party service providers, please visit the NAI (Network Advertising Initiative) website, which allows opt-out for all of its members' cookies from a central opt-out page. [Click here](http://www.networkadvertising.org/) to opt-out with NAI. To opt-out of direct enhanced online advertising provided by Us, [click here](https://web.archive.org/cgi-bin/paper/opt_out.html). 
+**Online Advertising** : We contract with third-party service providers who help us place advertising messages on other websites. We may directly collect and these providers may also collect anonymous information about your visits to our website, and your interaction with our products and services. This information may be used to target advertising messages to you based on your interests. This anonymous information is collected through the use of a cookie and pixel tag, which is an industry standard technology used by most major websites. Your personal information is not shared directly with these providers, as it is made anonymous by a vendor contracted with the provider before it reaches the provider's system. If you prefer not to receive relevant banner advertising from our third party service providers, please visit the NAI (Network Advertising Initiative) website, which allows opt-out for all of its members' cookies from a central opt-out page. [Click here](http://www.networkadvertising.org/) to opt-out with NAI. To opt-out of direct enhanced online advertising provided by Us, [click here](https://web.archive.org/opt_out.html). 
 
-_To opt out_ : If you would like to request your information not be included in our behavioral advertising practices, [click here](https://web.archive.org/cgi-bin/paper/opt_out.html). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out. Please allow time for processing. 
+_To opt out_ : If you would like to request your information not be included in our behavioral advertising practices, [click here](https://web.archive.org/opt_out.html). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out. Please allow time for processing. 
 
 Secure Shopping
 
