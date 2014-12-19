@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628143553id_/http%3A//www.kqed.org/about/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219062150id_/http%3A//www.kqed.org/about/help/privacy.jsp) for the most accurate reproduction.*
 
 # KQED's Commitment to Your Online Privacy | KQED Public Media for Northern CA
 
@@ -36,22 +36,22 @@ _Effective_ : December 11, 2013
 
 ####  Also on KQED.org this week ... 
 
-[](http://www.kqed.org/community/heritage/lgbt/index.jsp)
+[](http://blogs.kqed.org/bayareabites/tag/christmas/)
 
-##### Lesbian, Gay, Bisexual, Transgender Pride Month
+##### Bay Area Bites Holiday Menus
 
-KQED proudly celebrates the diversity of our community by commemorating Lesbian, Gay, Bisexual, Transgender Pride Month in June. View a guide highlighting broadcasts and community events.
+Bay Area Bites shares holiday menus with creative yet traditional recipes along with related posts to cooking guides, advice, and safety tips to have a delicious and stress-free holiday meal.
 
-  * [Lesbian, Gay, Bisexual, Transgender Pride](http://www.kqed.org/community/heritage/lgbt/index.jsp)
+  * [View Recipes](http://blogs.kqed.org/bayareabites/tag/christmas/)
 
 
 
-[](http://ww2.kqed.org/arts/series/summer-arts-guide-2014/)
+[](https://web.archive.org/holidays)
 
-##### KQED's Hot Summer Days and Night Guide
+##### KQED Celebrates the Holidays
 
-Our critics pick for the season's best concerts, books, movies, outdoor plays, visual arts and more.
+Find holiday-related KQED television and radio programming, Bay Area events, recipes, and other Web-exclusive goodies.
 
-  * [Get the Guide](http://ww2.kqed.org/arts/series/summer-arts-guide-2014/)
+  * [Holidays Page](https://web.archive.org/holidays)
 
 
