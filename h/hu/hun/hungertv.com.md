@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungertv.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620084000id_/http%3A//www.hungertv.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungertv.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219044024id_/http%3A//www.hungertv.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HUNGER TV
 
