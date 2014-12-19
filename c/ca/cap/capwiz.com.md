@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capwiz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114628id_/http%3A//corporate.cqrollcall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capwiz.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219033816id_/http%3A//corporate.cqrollcall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CQ Roll Call
 
