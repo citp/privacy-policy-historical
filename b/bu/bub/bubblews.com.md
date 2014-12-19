@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bubblews.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626222413id_/http%3A//bubblews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bubblews.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219054608id_/http%3A//www.bubblews.com/page/privacy_policy) for the most accurate reproduction.*
 
-# Privacy - Bubblews
+# Privacy Policy - Bubblews
 
 Bubblews.com, LLC respects your privacy. This privacy policy (this "Policy") informs you of our privacy practices and the choices you can make about the way your information is collected online and how that information is used.
 
@@ -33,11 +33,11 @@ Bubblews.com collects personal information from users of Bubblews.com Sites in c
 We use the personal information you provide to us (i) in the manner described in this Policy, (ii) to improve and customize this site and the products and services offered to you, and (iii) as directed by you as indicated by your use of the products and services offered on this site. For example, we may use your personal information in connection with the following:
 
 **A.** Creation of membership accounts;  
-**B.** Offers to participate in competitions and event;  
-**C.** Delivery of email updates and newsletters;  
-**D.** Communications of offers for promotions, sweepstakes and contests;  
-**E.** Invitations to participate in user surveys and polls;  
-**F.** Providing software updates and interactive materials.
+ **B.** Offers to participate in competitions and event;  
+ **C.** Delivery of email updates and newsletters;  
+ **D.** Communications of offers for promotions, sweepstakes and contests;  
+ **E.** Invitations to participate in user surveys and polls;  
+ **F.** Providing software updates and interactive materials.
 
 We may also use your personal information to contact you offline concerning the products and services offered on this site.
 
@@ -72,10 +72,10 @@ Bubblews.com uses various automatic data collection tools in connection with Bub
 You can find information on popular browsers and how to adjust your cookie preferences at the following websites:
 
 Microsoft Internet Explorer:  
-http://www.microsoft.com/info/cookies.ms...
+<http://www.microsoft.com/info/cookies.ms>...
 
 Mozilla Firefox:  
-http://www.mozilla.org/projects/security...
+<http://www.mozilla.org/projects/security>...
 
 **B.** Data Collection Tools of Third Parties. You should know that companies that advertise on Bubblews.com Sites and their agents and service providers may set their own cookies and web beacons when you click their advertising banners on Bubblews.com Sites. Information collected as a result of cookies and web beacons set by third party advertisers and their agents and service providers is subject to and controlled by the privacy practices of such third parties and Bubblews.com is not responsible for either the privacy practices of such third parties or the use of the information they collect.
 
@@ -91,11 +91,9 @@ We reserve the right, at our discretion, to make changes to this Policy at any t
 
 If you have any other questions, comments or complaints about this Policy, please contact us email at support (at) bubblews (dot) com or write to us at:
 
-Legal Counsel  
-Bubblews.com, LLC
-
-4100 Monument Corner Drive
-
+Legal Counsel   
+Bubblews.com, LLC   
+4100 Monument Corner Drive   
 Fairfax, Virginia 22030
 
 **10\. Governing Law and Disputes**
