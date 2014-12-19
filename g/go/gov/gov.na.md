@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gov.na privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106004011id_/http%3A//www.gov.na/en_GB/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.na privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219135009id_/http%3A//www.gov.na/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement - grnnet.gov.na
+# Privacy Policy - GRN Portal
 
-###  Privacy Policy
+### Privacy Policy
 
 The Government Portal (www.gov.na or www.grnnet.gov.na) is the entry point for websites of the different Offices/Ministries/Agencies of the Government of Namibia .
 
