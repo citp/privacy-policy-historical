@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanbolt.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508030858id_/http%3A//www.fanbolt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbolt.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219061836id_/http%3A//www.fanbolt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,37 +6,37 @@
 
 FanBolt respects its users’ rights to privacy and will never disclose any personal information about its users to any third parties. Any information provided to FanBolt by its users will be held strictly by FanBolt. FanBolt does reserve the right to send email to it’s users at any time about topics pertaining to the site itself, network sites, or the shows that FanBolt hosts message boards for. If you wish not to receive these emails, then please turn off the accept email from admins option in your profile.
 
-**Registration:**
+ **Registration:**
 
 FanBolt requires personal information from its users upon registering for an account on the FanBolt network. The only information FanBolt collects is a username (this may be any user name) a password (this password remains confidential and is encrypted, preventing any users on the site, including administrators, from viewing the password), and a birth date. A user may update his or her profile, including email address, location, or password at any time by accessing their control panel. A user may also have his or her account deleted at any time. To do this, please contact an Administrator of the site, via Private Message through the message board system, or via email.
 
-**Contests:**
+ **Contests:**
 
 The only time FanBolt will ask for a user’s personal information is when a user has won a contest held by FanBolt. Users will be required to provide a correct name and mailing address so that they may receive their prize. This information is used solely for the purpose of delivering the prize and for nothing more.
 
-**Cookie Use and IP Logging:**
+ **Cookie Use and IP Logging:**
 
 FanBolt logs IP addresses for any user who logs onto any site on the FanBolt Network. This IP address is used to help diagnose server problems, and for security reasons. User’s IP addresses are viewable ONLY by site administrators and no one else.
 
 Cookies are also used on FanBolt for the purposes of saving users’ passwords so they do not have to log in each time they visit the site, and to deliver content that caters to users’ specific interests. They are also used to determine whether or not you are a valid user. No personal information is stored within the cookies, nor do they pose any sort of security risk.
 
-**FanBolt Community:**
+ **FanBolt Community:**
 
 The FanBolt forums provide a message board and chat room to its users. Any information disclosed in these public discussion forums becomes public. Users should exercise caution when disclosing any personal information.
 
-**Advertisements:**
+ **Advertisements:**
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-**Newsletters:**
+ **Newsletters:**
 
 FanBolt reserves the right to email its users at any point, this includes but is not limited to site newsletters and site sponsor information. If you do not wish to receive emails from the site, please turn the option off in your usercp on the site.
 
-**Board/Network Site Gallery Content:**
+ **Board/Network Site Gallery Content:**
 
 FanBolt does not take responsibility for any materials posted on its forums or its galleries. If there is material on FanBolt that violates any form of copyright, please notify us immediately and it will be removed from our site within 48 hours.
 
-**FanBolt.Com Gallery Content:**
+ **FanBolt.Com Gallery Content:**
 
 All of the pictures provided in the FanBolt.Com Galleries are:
 
