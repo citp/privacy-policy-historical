@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemystuffnow.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403102031id_/http%3A//www.valuemystuff.com/en/orphan-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemystuffnow.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219214618id_/http%3A//www.valuemystuff.com/us/orphan-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ The VALUEMYSTUFF.COM site may contain links to other Web sites. None of the info
 
 **Cookies**
 
-VALUEMYSTUFF.COM may also use on its Internet properties a personalization technology called a "cookie." A cookie is a small text file placed on your computer's hard disk that identifies your browser software to a Web site. Cookies allow us to track when you enter, leave, and re-enter our sites and what path you take through our sites. In doing this, we can provide you with a more personalised experience and better use of our site. 
+VALUEMYSTUFF.COM may also use on its Internet properties a personalization technology called a "cookie." A cookie is a small text file placed on your computer's hard disk that identifies your browser software to a Web site. Cookies allow us to track when you enter, leave, and re-enter our sites and what path you take through our sites. In doing this, we can provide you with a more personalised experience and better use of our site. To learn more about our cookie police [click here](http://www.valuemystuff.com/en/orphan-pages/cookie-policy?culture=). 
 
 **Exceptions**
 
