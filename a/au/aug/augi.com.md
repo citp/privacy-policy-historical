@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the augi.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601022653id_/http%3A//www.augi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augi.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219010844id_/http%3A//www.augi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AUGI
 
@@ -32,20 +32,3 @@ If you have any questions about this privacy statement, the practices of this si
 
 Autodesk User Group International, Inc.  
 [membership@augi.com](mailto:membership@augi.com)
-
-[
-
-Become part of the largest Autodesk community
-
-](http://www.augi.com/account/register/)
-
-  1.     1. Pullman Melbourne Albert Park, Melbourne, Victoria, AUS
-    2. May 29th - 31st, 2014 
-  2.     1. Renaissance Schaumburg Convention Center Hotel, Schaumburg, Illinois, USA
-    2. Jun 19th - 21st, 2014 
-  3.     1. Dublin Castle, Dublin, Ireland
-    2. Oct 30th - Nov 1st, 2014 
-  4.     1. Mandalay Bay Hotel and Casino. Las Vegas, NV, USA
-    2. Dec 2nd - 4th, 2014 
-
-
