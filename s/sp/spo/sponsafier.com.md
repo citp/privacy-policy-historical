@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sponsafier.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021511id_/http%3A//www.toyota.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsafier.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219032037id_/http%3A//www.toyota.com/support/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Toyota.com
 
@@ -57,7 +57,7 @@ To read our full Privacy Policy _click here_.
 
 UPDATED AS OF: January 1, 2014
 
-Toyota Motor Sales, U.S.A., Inc. ("Toyota", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications (“Platforms”).
+Toyota Motor Sales, U.S.A., Inc. ("Toyota", "we", "us", or "our") is committed to maintaining your confidence and trust as it relates to the privacy of your information. Please read below and learn how we collect, protect, share and use your information as part of our technology platforms, including, without limitation, our websites, web pages, interactive features, applications, Twitter, Facebook and other social media networks, and mobile applications (“Platforms”). If you are a resident of the European Union, please use the applicable European Union websites and applications, as our Platforms are intended only for the United States residents.
 
 We take your privacy seriously, no matter how you access our Platforms. For a version of this Privacy Notice optimized for our mobile applications, please click [_here_](http://touch.toyota.com/help/privacy.html).
 
