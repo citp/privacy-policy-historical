@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the christies.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625214323id_/http%3A//www.christies.com/about-us/contact/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christies.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219223736id_/http%3A//www.christies.com/about-us/contact/privacy) for the most accurate reproduction.*
 
-# 私隐政策
-
-**2012**
+# Privacy Policy
 
 #### Christie’s Privacy Policy
 
 Christie’s group of companies (“we” or “us”) consider the privacy and protection of our clients' data, both corporate and personal, to be of the utmost importance and we take robust measures across our business to protect the security and integrity of all such information.
 
-However, the law requires us to take particular steps in relation to the processing and protection of personal data. To ensure that you feel confident about providing us with your personal information when communicating with us and using our services, we outline below our practices in relation to the collection and use of personal data. This policy (together with our [terms of use](https://web.archive.org/about-us/help/terms-and-conditions) and any other documents referred to on it) sets out the basis on which we will collect, use and process personal data. Please read this Privacy Policy carefully to ensure you understand how we handle your personal data; please also check this page from time to time as the Policy may be updated.
+However, the law requires us to take particular steps in relation to the processing and protection of personal data. To ensure that you feel confident about providing us with your personal information when communicating with us and using our services, we outline below our practices in relation to the collection and use of personal data. This policy (together with our [terms of use](https://web.archive.org/about-us/contact/terms-and-conditions/) and any other documents referred to on it) sets out the basis on which we will collect, use and process personal data. Please read this Privacy Policy carefully to ensure you understand how we handle your personal data; please also check this page from time to time as the Policy may be updated.
 
 #### Information We May Collect from You
 
