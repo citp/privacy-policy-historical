@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621234805id_/http%3A//www.smm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219010045id_/http%3A//www.smm.org/privacy) for the most accurate reproduction.*
 
 # Science Museum of Minnesota - Privacy Statement
 
@@ -28,7 +28,7 @@
 
 #### General Privacy Statement
 
-The Science Museum of Minnesota is committed to its mission to "Turn on the science: realizing the potential of policy makers, educators, and individuals to achieve full civic and economic participation in the world." As an element of its operations in pursuit of that mission, the Science Museum routinely collects contact and other personal information from or about its constituents. The Science Museum recognizes and respects the need for privacy and security with information of this kind. The Science Museum is committed to following both the letter and the spirit of all laws governing its operations, including those pertaining to privacy and use of information.
+The Science Museum of Minnesota is committed to its mission to "Turn on the science: Inspire learning. Inform policy. Improve lives." As an element of its operations in pursuit of that mission, the Science Museum routinely collects contact and other personal information from or about its constituents. The Science Museum recognizes and respects the need for privacy and security with information of this kind. The Science Museum is committed to following both the letter and the spirit of all laws governing its operations, including those pertaining to privacy and use of information.
 
 The following privacy policy describes the Science Museum's current policies and practices with regard to information collected from and about its constituents. Unless otherwise indicated, all procedures apply to information collected online (via the Internet, World Wide Web, and email) and offline (via postal mail, telephone, fax, and in person). The collective term "constituents" is used to refer to Science Museum members, donors, website visitors, students, retail and rental customers, gift recipients for whom personal information is required, people who respond to offers sent by mail, people who request that information about the museum be sent to them, and all others from whom we collect information in order to provide requested services and products.
 
