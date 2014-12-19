@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gohoming.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622111310id_/https%3A//www.hubzu.com/portal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohoming.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219064002id_/http%3A//www.hubzu.com/portal/privacy-policy) for the most accurate reproduction.*
 
-# Your Privacy Rights | Hubzu
+# Your Privacy Rights|Hubzu
 
 Online Privacy Notice   
 __Updated March 12, 2012__
