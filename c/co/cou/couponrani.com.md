@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the couponrani.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209055137id_/http%3A//www.couponrani.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponrani.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219065206id_/http%3A//www.couponrani.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | CouponRani - Coupons, Coupon Codes and Offers
+
+##### Privacy Policy
 
 **Privacy Policy**
 
@@ -47,4 +49,4 @@ In line with local laws, if required to do so we would be obliged to pass specif
 
 We may disclose your personal information to third parties: We may share information submitted as part of third party promotional activities only when you agree the specific Terms and Conditions of the promotion by opting in to the promotion.
 
-In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
