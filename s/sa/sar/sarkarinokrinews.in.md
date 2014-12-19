@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarkarinokrinews.in privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506060847id_/http%3A//www.sarkarinokrinews.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarinokrinews.in privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219031342id_/http%3A//www.sarkarinokrinews.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Sarkari Naukri News 2013
+# Privacy Policy
 
 **Privacy Policy for http://www.sarkarinokrinews.in/**  
 
