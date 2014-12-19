@@ -1,79 +1,91 @@
-> *The following text is extracted and transformed from the thegrio.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629175703id_/http%3A//www.nbcuni.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegrio.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219092335id_/http%3A//thegrio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Home | NBCUniversal
+# Privacy Policy | theGrio
 
-In this privacy policy:
+D2M2 LLC (“us”, “we”, or “our”) operates the <http://thegrio.com/> website (the “Service”).
 
-  * We’ve summarized our privacy policy terms so you can find what you need quickly;
-  * We’ve designed one privacy policy to apply across many NBCUniversal online services;
-  * We’ve added more detail about the personal information we use and collect, including through mobile apps;and
-  * We explain how we share information with the companies in the NBCUniversal group.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <http://thegrio.com/>
 
-Most recent change – May 2014
+**Information Collection And Use**
 
-  * We’ve added more information about how to opt out of receiving targeted advertising on [mobile apps](https://web.archive.org/privacy/mobile-apps/#access_and_opt-outs "mobile apps").
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address (“Personal Information”).
 
+**Log Data**
 
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-**Privacy at NBCUniversal**
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-At NBCUniversal, we respect personal information and take seriously our privacy obligations. This website describes NBCUniversal’s approach to privacy for the NBCUniversal websites and mobile applications that link to this page (“online services”).  We are committed to handling personal information in compliance with the specific provisions of applicable privacy laws worldwide.
+**Cookies**
 
-## What information do we collect and how is it used?
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-NBCUniversal may collect the following information:(1) information you provide actively (e.g. through forms, surveys, or similar interactive features on the online services); (2) information from the device that you use to access the online services; (3) information about your use of the online services, including video viewing, which may be collected through [cookies/ tracking technologies](https://web.archive.org/privacy/cookies) and/or (4) information from third parties.
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-[more](https://web.archive.org/privacy/full-privacy-policy/#what_information_do_we_collect_and_how_is_it_used "What information do we collect and how is it used?")
+**DoubleClick Cookie**
 
-## Children and Privacy
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.
 
-Except where otherwise indicated, our online services are not knowingly directed to children under the age of 13. If you’re under 13 please do not provide us information about yourself. Where we direct our online services to children, we will take additional steps, as required, to protect children’s privacy.
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page.
 
-[more](https://web.archive.org/privacy/full-privacy-policy/#children "Children and Privacy")
+**Do Not Track Disclosure**
 
-## How do we share information?
+We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
 
-You understand and agree that NBCUniversal shares information we collect as follows:
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
 
-  * Within NBCUniversal and with third party suppliers, in order to provide you with the online services;
-  * With other third parties (e.g., law enforcement agencies) where required by law or where required as a part of a corporate transaction (e.g., if a company is sold);
-  * With third parties for marketing and advertising purposes (this may vary across different countries or states in accordance with law). California residents can access a list of these third parties.
-  * With companies in the NBCUniversal family, in order to cross-promote NBCUniversal services or for research purposes. You have choices about this.
+**Service Providers**
 
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
 
-[more](https://web.archive.org/privacy/full-privacy-policy/#how_we_share_personal_information "How do we share information?")
+**Communications**
 
-## Your rights and choices
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
 
-NBCUniversal provides online service users with access to and choices about their information as required by law. This includes rights to unsubscribe from marketing, opt-out of targeted advertising and revoke permissions previously provided (e.g. you may revoke permissions to have a mobile app use your current location). Some online services may not be available or there may be impact on functionality when you make these choices.
+**Compliance With Laws**
 
-[more](https://web.archive.org/privacy/full-privacy-policy/#your_rights_and_choices "Your rights and choices")
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
-## How is information protected?
+**Business Transaction**
 
-We provide physical, electronic, and procedural safeguards to protect information. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+If D2M2 LLC is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
-[more](https://web.archive.org/privacy/full-privacy-policy/#general "How is information protected?")
+**Security**
 
-## Tracking/Cookies and Ads
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-We may use the information we collect about your use of online services from your browsing behavior to provide you with online advertisements that might be relevant to you. You can opt- out of this “targeted advertising”. The effect of opting out is controlled by third parties, but they may still collect your usage information for analytic, research or internal operations purposes.
+**International Transfer**
 
-Cookies/ tracking technologies are used on some of our online services to serve ads, perform analytics, and make the online services as interesting as possible to you. By using our online services you are consenting to the use of these cookies/tracking technologies but you do have choices about cookies/tracking technologies.  Some online services may not be available or there may be impact on functionality when you make these [choices](https://web.archive.org/privacy/cookies/#your_cookie_choices_and_how_to_opt-out).
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-[more](https://web.archive.org/privacy/full-privacy-policy/#targeted_advertising_and_cookies_tracking_technologies "Tracking/Cookies and Ads")
+If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and processes it there.
 
-## Where is information processed?
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-NBCUniversal is a global company with headquarters in the United States. Information may be processed in the United States, as well as at various locations globally.
+**Links To Other Sites**
 
-[more](https://web.archive.org/privacy/full-privacy-policy/#where_your_personal_information_will_be_used "Where is information processed?")
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-## Contact us 
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-If you have questions about the privacy practices of our online services, please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com).  Please include specific information about the online service you are using and your question so we can respond as soon as possible.
+**Children’s Privacy**
 
-[more](https://web.archive.org/privacy/full-privacy-policy/#contact_us "Contact us  ")
+Our Service does not address anyone under the age of 13 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+
+**Changes To This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us.
