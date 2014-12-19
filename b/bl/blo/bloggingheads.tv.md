@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052222id_/http%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingheads.tv privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219162535id_/http%3A//bloggingheads.tv/privacy-policy) for the most accurate reproduction.*
 
 # Bloggingheads.tv
 
@@ -44,11 +44,11 @@ Cookies are bits of computer code stored on your own computer by a website that 
 
 The cookies we use on Bloggingheads.tv do not collect personally identifiable information. Currently we use cookies to limit the frequency with which a user is presented with pre-roll video ads. You may set your browser to refuse cookies from any website you visit. If you choose to do so, you should still have full use of Bloggingheads.tv, but you may see more frequent pre-roll video ads.
 
-We also uses the following Google services on Bloggingheads.tv, all of which employ cookies to collect nonpersonal information:
+We also use the following Google services on Bloggingheads.tv, all of which employ cookies to collect nonpersonal information:
 
 ### Google Analytics
 
-We uses a third-party vendor, Google Analytics, to store and analyze cookies in order to make Bloggingheads.tv more interesting and useful to you. Information that we collect from these cookies is not used to create profiles of individual users and is used only in aggregate form. You may opt out of Google Analytics by using the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout?hl=en).
+We use a third-party vendor, Google Analytics, to store and analyze cookies in order to make Bloggingheads.tv more interesting and useful to you. Information that we collect from these cookies is not used to create profiles of individual users and is used only in aggregate form. You may opt out of Google Analytics by using the [Google Analytics Opt-out Browser Add-on](http://tools.google.com/dlpage/gaoptout?hl=en).
 
 ### Google AdSense
 
