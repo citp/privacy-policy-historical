@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.ca privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614053118id_/http%3A//www.consumer.equifax.ca/privacy_policy/en_ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.ca privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219033859id_/http%3A//www.consumer.equifax.ca/privacy_policy/en_ca) for the most accurate reproduction.*
 
 # Equifax Canada - Privacy Policy - www.equifax.com
 
@@ -60,12 +60,11 @@ General questions about Equifax's commitment to personal privacy and data protec
 
 **Chief Privacy Officer**
 
-**Equifax Canada Co.  
-**
+**Equifax Canada Co.**
 
-**5650 Yonge St., 13th Floor**
+**5700 Yonge St., 17th Floor**
 
-**Toronto, ON M2M 4G3**
+**Toronto, ON M2M 4K2**
 
 **chief.privacy.officer@equifax.com**
 
@@ -285,9 +284,9 @@ If you have any questions about this policy or Equifax's practices and procedure
 
 **Equifax Canada Co.  **
 
-**5650 Yonge St., 13th floor  **
+**5700 Yonge St., 17th floor  **
 
-**Toronto, ON M2M 4G3  **
+**Toronto, ON M2M 4K2**
 
 **chief.privacy.officer@equifax.com**
 
@@ -315,9 +314,9 @@ For more information about Equifax's Privacy Policy or to advise us of a privacy
 
 **Equifax Canada Co.  **
 
-**5650 Yonge St., 13th floor  **
+****5700 Yonge St., 17th floor****
 
-**Toronto, ON M2M 4G3  **
+****Toronto, ON M2M 4K2****
 
 **chief.privacy.officer@equifax.com**
 
@@ -378,8 +377,6 @@ Equifax will disclose your credit information to you free of charge by mail or t
 Equifax has an Interactive Voice Response System for consumer credit file disclosures. You can order a copy of your credit report over the phone by dialling 1-800-465-7166, and then entering certain required information to verify your identity. The report will be delivered by mail directly to your home address.
 
 In addition to the Interactive Voice Response System, you can request a copy of your Equifax credit file by mailing or faxing a photocopy of two pieces of signed valid identification, including at least one with photo identification. Examples of acceptable identification include: a driver's license; birth certificate; social insurance number (optional); and passport. A copy of your credit file is mailed to you once your identity is confirmed. Once the identification you provided has been used to verify your identify, Equifax destroys all copies of it.
-
-You may also request your credit file by e-mail. In this case, the identification documents noted above must be attached to the e-mail in order for Equifax to be able process the request.
 
 Please never send originals of your documents, and make sure that all copies of your identification are legible. Equifax will send you a copy of your credit file by regular mail.
 
