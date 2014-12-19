@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the labroots.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625101717id_/http%3A//labroots.com/index/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the labroots.com privacy policy that was archived on 2014-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219025533id_/http%3A//labroots.com/index/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -50,99 +50,189 @@ http://www.cssstickyfooter.com/using-sticky-footer-code.html
 	<!-- MAIN START -->
 	<div id="main">
 
-	<div class="header_1">
+	<div class="header">
     	<div class="frame_header">
             <div class="logo" style="margin-top:15px;">
-            	            <a href="/"><img src="/public/templates/public/system/images/header-icons/labroots_reverse_tagline_155x64.png" alt="LabRoots"></a>            </div>
-            
-<div class="login_1">
-		<form name="public-login" id="public-login" action="/index/ajax-login" method="post">
-		<div class="lev">
-			<span>Email</span>
-			<input type="text" name="email" id="email" value="">			<p class="notes_errors"><span class="decor"></span></p>
-		</div>
-		<div class="lev">
-			<span>Password</span>
-			<input type="password" name="password" id="password" value="">			<p class="notes_errors"><span class="decor"></span></p>
-		</div>
-		<label for="remember" class="logged_in">
-			<input type="hidden" name="remember" value="0"><input type="checkbox" name="remember" id="remember" value="1" checked="checked">			Keep me logged in
-		</label>
-		<a class="forgot" href="/index/forgot-pass">Forgot your password?</a>
-		<input type="submit" name="submit" value="Log in">
-	</form>
-		</div>
+            	            <a href="/"><img src="/public/templates/public/system/images/header-icons/labroots_logo_155x42_trans.png" alt="LabRoots"></a>            </div>
+            <div class="fri_req">
+ 	<span class="icon_fri"></span>
+ 	   	<div id="friend_request"></div>
+</div>
 
-<script type="text/javascript">
-	var formLogin = '#public-login';
-	var optionsLogin = {dataType: "json",success: processLogin};
-	$(document).ready(function(){
-		$('.bag_errors').live('hover',function(){
-			var offset = $(this).offset();
-			var top = offset.top;
-			var left = offset.left;
-			$(this).next('.notes_errors').css({'top':top+'px'});
-		});
-		$(formLogin).submit(function(){
-		
-			var email = $(this).find('#email').val();
-			var password = $(this).find('#password').val();
-			
-			$(formLogin).find('#email').removeClass('bag_errors');
-			$(formLogin).find('#password').removeClass('bag_errors');
 
-			if(email == ''){
-				$(formLogin).find('#email').addClass('bag_errors');
-				loadError($(formLogin).find('#email'), 'Please enter your email');
-				if(password != ''){
-					$(formLogin).find('#password').parent().find('.notes_errors').hide();
-					$(formLogin).find('#password').unbind('mouseenter mouseleave');
-				}
-			}else if(password == ''){
-				$(formLogin).find('#password').addClass('bag_errors');
-				loadError($(formLogin).find('#password'), 'Please enter your password');
-				if(email != ''){
-					$(formLogin).find('#email').parent().find('.notes_errors').hide();
-					$(formLogin).find('#email').unbind('mouseenter mouseleave');
-				}
-			}else{	
-				if(email != ''){
-					$(formLogin).find('#email').parent().find('.notes_errors').hide();
-					$(formLogin).find('#email').unbind('mouseenter mouseleave');
-				}
-				if(password != ''){
-					$(formLogin).find('#password').parent().find('.notes_errors').hide();
-					$(formLogin).find('#password').unbind('mouseenter mouseleave');
-				}
-				
-				$(this).ajaxSubmit(optionsLogin); 
-			}
-			return false;
-		});
-	});
-	
-	function processLogin(data){
-		if(data.type == 'success'){
-			if(data.flag_login == 0){
-				window.location.href = '/user/contact-invite/invite-find';
-			}else{
-				window.location.href = '/index/privacy';
-			}
-		}else{		
-			$(formLogin).find('#email').removeClass();
-			$(formLogin).find('#password').removeClass();
-			var clss = $(formLogin).find('#email').attr('class');
-			if(clss != 'bag_errors'){
-				$(formLogin).find('#email').parent().find('.notes_errors').hide();
-				$(formLogin).find('#email').unbind('mouseenter mouseleave');
-			}
-			for(var x in data.msg){
-				$(formLogin).find('#' + x).addClass('bag_errors');
-				loadError($('#' + x), data.msg[x]);
-			}
+<script>
+	$(document).click(function (e) {
+		if($(e.target).closest("#friend_request").length){
+			return;
 		}
-	}
-</script>                    </div>
+		if(e.target.className == 'icon_fri'){
+			if($('.fri_req #friend_request').is(':empty')){
+				$('.fri_req #friend_request').html('<div class="noti_loading"><img alt="" src="/public/templates/public/system/images/ajax_loading.gif"></div>');
+				$('.fri_req #friend_request').load('/user/index/friend-request');
+			}else{
+				$('.fri_req .list_fri_req').hide(0, function(){
+					$(this).remove();
+					$('.fri_req #friend_request').html('');
+				});
+			}
+		}else{
+			$('.fri_req .list_fri_req').hide(0, function(){
+				$(this).remove();
+				$('.fri_req #friend_request').html('');
+			});
+		}
+	});
+</script>
+<div class="fri_req">
+ 	<span class="icon_noti"></span>
+ 	   	<div id="noti_request"></div>
+</div>
+
+
+<script>
+	$(document).click(function (e) {
+		if($(e.target).closest("#noti_request").length){
+			return;
+		}
+		if(e.target.className == 'icon_noti'){
+			$('.fri_req .icon_noti').next('.new_msg').remove();
+			if($('.fri_req #noti_request').is(':empty')){
+				$('.fri_req #noti_request').html('<div class="noti_loading"><img alt="" src="/public/templates/public/system/images/ajax_loading.gif"></div>');
+				$('.fri_req #noti_request').load('/user/index/noti-request');
+			}else{
+				$('.fri_req .list_noti_req').hide(0, function(){
+					$(this).remove();
+					$('.fri_req #noti_request').html('');
+				});
+			}
+		}else{
+			$('.fri_req .list_noti_req').hide(0, function(){
+				$(this).remove();
+				$('.fri_req #noti_request').html('');
+			});
+		}
+	});
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="search">
+	<form name="form_search_all" id="form_search_all" method="post" action="/user/search/search-r" autocomplete="off">
+		<input type="text" name="keywords_main" id="keywords_main" value="" class="placeholder"> <input type="submit" name="search_all" id="search_all" value="">	</form>
+	<div id="data_search"></div>
+</div>
+
+
+<script>
+$(document).ready(function(){
+	var delay = (function(){
+	  var timer = 0;
+	  return function(callback, ms){
+	    clearTimeout(timer);
+	    timer = setTimeout(callback, ms);
+	  };
+	})();
+	placeholder($('.search input#keywords_main'), 'Search');
+	$('#keywords_main').keyup(function(){
+			var str = $(this).val();
+			str = str.replace(/^\s+/,"");
+			str = encodeURI(str);
+			if(str == ''){
+				$('#data_search').html('');
+			}else{
+				$('#data_search').html('<div class="list_search"><div class="search_loading"><img alt="" src="/public/templates/public/system/images/ajax_loading.gif"></div></div>');
+				delay(function(){
+					$.post('/user/search/main-search' + '/keyword-main/' + str, function(data){
+						$('#data_search').html(data).show();
+					});
+				}, 800);
+			}
+	});
+	$('#form_search_all').submit(function(){
+		var str = $('#keywords_main').val();
+		str = $.trim(str);
+		if(str == '' || $('#keywords_main').hasClass('placeholder')){
+			$('.cnt_note').html('You have to enter your keyword');
+			$('.note_popup_error').fadeIn(300).delay(4000).fadeOut(300);
+			return false;
+		}
+	});
+	$(document).click(function (e) {
+		if($(e.target).closest("#data_search").length){
+			return;
+		}
+		if(e.target.id == 'keywords_main'){
+			str = $('#keywords_main').val();
+			str = str.replace(/^\s+/,"");
+			str = escape(str);
+			if(str == ''){
+				$('#data_search').html('');
+			}else{
+				if($('#data_search').is(':empty')){
+					$('#data_search').html('<div class="list_search"><div class="search_loading"><img alt="" src="/public/templates/public/system/images/ajax_loading.gif"></div></div>');
+					$.post('/user/search/main-search' + '/keyword-main/' + str, function(data){
+						$('#data_search').html(data).show();
+					});
+				}else{
+					$('#data_search').show();
+				}
+			}
+		}else{
+			$('#data_search').hide();
+		}
+	});
+})
+</script>
+<div class="login">
+	<ul class="login_active">
+		<li class="avatar_top">
+			<a class="img_avatar request-register" href="javascript:;" title="Guest ">
+						<img src="/public/files/no-avatar.jpg" alt="">
+					<strong>Guest </strong></a>		</li>
+		<li class="home_top"><a class="icon_home" href="/user/activity/activity-wall"><img style="border:0" src="/public/templates/public/system/images/header-icons/home.png" alt=""></a></li>
+		<li>
+				<a class="mesages request-register" href="javascript:;">
+							<img style="border:0" src="/public/templates/public/system/images/header-icons/mail.png" alt=""></a>		
+				
+			<ul>
+				<li>
+				<a class="request-register" href="javascript:;">Inbox</a>				</li>
+				<li>
+				<a class="request-register" href="javascript:;">Sent</a>				</li>
+				<li>
+				<a class="request-register" href="javascript:;">Compose Message</a>				</li>
+			</ul>
+		</li>
+		<li><a class="icon_account_setting" href="#"><img style="border:0" src="/public/templates/public/system/images/header-icons/gear.png" alt=""></a>
+			<ul>
+           		<li>
+           		<a class="active request-register" href="javascript:;">Profile Settings</a>           		</li>
+           		<li>
+           		<a class="active request-register" href="javascript:;">Account Settings</a>           		</li>
+           		<li>
+           		<a class="active request-register" href="javascript:;">Notification Settings</a>           		</li>
+           		<li>
+           		<a class="active request-register" href="javascript:;">Privacy Settings</a>           		</li>
+           		<li>
+           		<a href="/public/logout" class="active">Logout or Register</a>           		</li>
+           	</ul>
+		</li>
+	</ul>
+	
+</div>
+                    </div>
     </div>
     <div class="note_popup_error" style="display: none">
 		<p class="cnt_note">Now Following</p>
@@ -211,8 +301,7 @@ http://www.cssstickyfooter.com/using-sticky-footer-code.html
 			<h3>Published October 14, 2008</h3>
 <p>This policy describes the ways LabRoots collects, stores, uses and protects your personal information. This Privacy Policy is a part of the LabRoots Authorized User Agreement (the "User Agreement"), and you accepted this policy when you registered for access to LabRoots website (the "Site") and agreed to the terms and conditions of the User Agreement. LabRoots may amend this policy from time to time by posting a revised version on the Site, and without giving you notice, so please check this policy each time you visit the Site and note the date of publication.</p>
 <p>This privacy policy covers the site www.labroots.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe through the TRUSTe Web Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations establish trusting relationships based on respect for personally identifiable information by promoting the use of fair information practices. The TRUSTe program only covers information collected through the Site, and does not cover information that may be collected through software downloaded from the Site.</p>
-<p>We participate in the EU Safe Harbor Web Privacy Framework as set forth by the United States Department of Commerce. As part of our participation, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework.</p>
-<p>If you have questions or concerns regarding this statement or any complaints regarding our compliance with the Safe Harbor Web Privacy Framework, you should first contact Labroots by email at privacy@labroots.com. If you do not receive acknowledgment of your inquiry or complaint, or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process at www.truste.org/consumers/watchdog_complaint.php. TRUSTe will serve as a liaison with the Site to resolve user concerns. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, visit their website. The TRUSTe dispute resolution process is conducted in English.</p>
+
 <h3>Information Collection</h3>
 <p><strong>Registration:</strong>In order to become a LabRoots user, you must first create an account on this Site. To create an account you are required to provide the following information: name, email address, country, ZIP/postal code, your primary scientific discipline, a brief summary of your professional background (current occupation and networking objectives), and you must choose a password.</p>
 <p><strong>Profile Information:</strong>Once a user, you may provide additional information in the Profile section describing your skills, professional experiences, and expanding on your networking objectives. Providing additional information beyond what is required at registration is entirely optional, and enables you to better identify yourself and find opportunities on the Site.</p>
