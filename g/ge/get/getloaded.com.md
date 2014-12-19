@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getloaded.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628213629id_/http%3A//www.getloaded.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getloaded.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219214900id_/http%3A//www.getloaded.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Getloaded
 
@@ -15,7 +15,7 @@ If you have any questions about this Privacy Policy, please feel free to contact
 Privacy Matters  
 Getloaded Corp.  
 One Park West Circle  
-Suite 300  
+Suite 306A  
 Midlothian, VA 23114  
 USA
 
@@ -83,7 +83,7 @@ Getloaded regularly reviews its compliance with this Privacy Policy. Please feel
 Privacy Matters  
 Getloaded Corp.  
 One Park West Circle  
-Suite 300  
+Suite 306A  
 Midlothian, VA 23114  
 USA
 
@@ -97,6 +97,6 @@ If you have any additional questions or concerns about this Privacy Policy, plea
 Privacy Matters  
 Getloaded Corp.  
 One Park West Circle  
-Suite 300  
+Suite 306A  
 Midlothian, VA 23114  
 USA
