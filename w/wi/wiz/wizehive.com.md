@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233947id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizehive.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219175144id_/http%3A//www.wizehive.com/privacy_policy) for the most accurate reproduction.*
 
 # WizeHive - Enterprise Collaboration, Business Process and Workflow
 
@@ -42,13 +42,13 @@ If we are required by law, regulation or legal process (e.g. subpoena) to disclo
 
 ##### Updating Personal Information
 
-If your personal information changes, you may correct, update, amend, delete/remove information through the Site or by emailing our Customer Support team at [support@wizehive.com](mailto:someone@example.com). We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If your personal information changes, you may correct, update, amend, delete/remove information through the Site or by emailing our Customer Support team at [support@wizehive.com](mailto:support@wizehive.com). We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ##### Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card information) on your online registration we encrypt that information using secure socket layer technology (SSL).
 
-We follow generally accepted industry standards to protect personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our site, you can email us at [support@wizehive.com](mailto:someone@example.com). 
+We follow generally accepted industry standards to protect personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our site, you can email us at [support@wizehive.com](mailto:support@wizehive.com). 
 
 ##### Other Websites & Links
 
@@ -58,6 +58,6 @@ The Site may contain links to other websites or services maintained by our custo
 
 Our site is designed to be used by people over 13 years of age. The Children's Online Privacy Protection Act ("COPPA") protects the online privacy of children under 13 years of age. WizeHive does not knowingly collect or maintain personal information from anyone under the age of 13, unless or except as permitted by law. Any person who provides Personal Information through our site represents to us that he or she is 13 years of age or older. If we learn that Personal Information has been collected from a user under 13 years of age, then we will take the appropriate steps to cause this information to be deleted.
 
-For more information, contact us at 215-600-1600
+For more information, contact us at 1-877-767-9493
 
 Updated January 2014
