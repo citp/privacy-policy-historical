@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625161642id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220004424id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy - Aviva
 
-You are currently within [Homepage](https://web.archive.org/ "Homepage") > [Legal](https://web.archive.org/legal/) > Privacy policy
+You are currently within [Homepage](https://web.archive.org/) > [Legal](https://web.archive.org/legal/) > Privacy policy
 
 The pages on this website are only directed at United Kingdom residents and comply with appropriate UK legislation and regulation. We have provided this privacy policy to help you understand how we collect and use your personal information when you visit our website.
 
