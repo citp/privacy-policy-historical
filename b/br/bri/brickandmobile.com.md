@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brickandmobile.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625171237id_/http%3A//www.brickandmobile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickandmobile.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219031228id_/http%3A//www.brickandmobile.com/privacy) for the most accurate reproduction.*
 
-# brick&mobilePrivacy Policy | brick&mobile's privacy policy on purchased products
+# Privacy Policy | brick&mobile's privacy policy on purchased products
 
 _Last modified: September 7, 2012_
 
