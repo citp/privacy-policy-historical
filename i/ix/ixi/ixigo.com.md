@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624035223id_/http%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixigo.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219030856id_/http%3A//www.ixigo.com/html/info/privacy.ixi) for the most accurate reproduction.*
 
 # ixigo.com - Privacy Policy
 
