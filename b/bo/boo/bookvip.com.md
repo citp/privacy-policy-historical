@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625205649id_/http%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookvip.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219085024id_/http%3A//www.bookvip.com/home/privacypolicy) for the most accurate reproduction.*
 
 # BookVIP.com - Cheapest Vacation Packages To The Most Popular Destinations
 
@@ -9,7 +9,7 @@ Toll Free
   * [Hot Weekly Deals](http://bookvip.com/weeklydeals)
   * [All Promotional Packages](http://bookvip.com/vacationspecials)
   * [About Us](http://bookvip.com/home/aboutus)
-  * [Contact Us](http://bookvip.com/home/contactus)
+  * [Testimonials](http://bookvip.com/sitereviews)
 
 
 
