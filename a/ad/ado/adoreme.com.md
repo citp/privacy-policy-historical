@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adoreme.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331145203id_/http%3A//www.adoreme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoreme.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219045152id_/http%3A//www.adoreme.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
