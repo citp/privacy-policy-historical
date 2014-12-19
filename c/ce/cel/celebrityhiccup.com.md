@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the celebrityhiccup.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223131247id_/http%3A//celebrityhiccup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrityhiccup.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219093453id_/http%3A//celebrityhiccup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Latest Celebrity Gossip, News, & Pictures - CelebrityHiccup.com
-
-Posted April 15th, 2011 by [admin](http://celebrityhiccup.com/author/admin "Posts by admin").
+# Latest Celebrity Gossip, News, & Pictures – CelebrityHiccup.com | Privacy Policy
 
 **Privacy Policy**
 
