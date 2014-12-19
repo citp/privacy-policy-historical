@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igi-global.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608234329id_/http%3A//www.igi-global.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igi-global.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219234931id_/http%3A//www.igi-global.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | IGI Global
 
