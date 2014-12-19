@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the ttc.ca privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625044531id_/http%3A//www.ttc.ca/Privacy/index.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ttc.ca privacy policy that was archived on 2014-12-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141219071113id_/http%3A//www.ttc.ca/Privacy/index.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en-ca">
+<meta property="og:image" content="http://ttc.ca/images/fixedImages/ttc-main-logo.gif">
 
 <meta name="description" content="The Toronto Transit Commission is the quick, convenient and safe way to get around Toronto. The subway system is linked with buses and streetcars to get you around Toronto on one fare, provided it's a one-way trip with no stopovers. You can travel on the TTC every day.">
 
@@ -25,7 +26,7 @@
 
 
 <link rel="icon" href="/favicon.ico" type="image/x-icon"> 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/js/widths.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" src="/js/widths.js"></script>
 <script type="text/javascript" src="/js/homestretchMaster.js"></script>
 
  
@@ -44,6 +45,11 @@ $imageroot='/images/fixedImages/';
 
 </script>
 
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+    </script>
+
 
 
 
@@ -54,12 +60,23 @@ $imageroot='/images/fixedImages/';
 
 
 <script type="text/javascript" src="/js/general.js"></script>
-<title>TTC   Privacy Policy</title>
+<script type="text/javascript">
+window.onload=function(){
+var s = document.title;
+if(s.indexOf("TTC") != 0)
+{
+   var ttc = "TTC ";
+   document.title = ttc.concat(s);
+}
+};
+</script>
+<title>TTC Privacy Policy</title>
 
 
 </head>
 
 <body>
+
 
 
 
@@ -223,7 +240,19 @@ select="$node.contribution('Subtitle')"
 
 
 
-			<div id="email-to-friend"><a href="/emailToFriend.action?emailPage=/Privacy/index.jsp">Email this page to a friend</a></div>
+<div style="margin-top:50px;float:left">
+			<script language="javascript">
+				function emailCurrentPage(){
+					window.location.href="mailto:?subject=Check%20Out%20"+escape(document.title)+"&body=Hello,%20%0A%0A%0AVisit:%20"+escape(window.location.href)+"%0A%0A%0AFind%20out%20more%20about%20the%20TTC%20at%20http://www.ttc.ca%0A";
+				}
+			</script>
+		    <ul>
+			<li style="float:left;list-style:none;padding-right:25px;padding-top:5px"><div class="fb-share-button" data-href="index.jsp"></div></li>
+			<li style="float:left;list-style:none;"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a></li>
+			<li style="float:left;list-style:none;"><g:plus action="share" annotation="bubble"></g:plus></li>
+			<li style="float:left;list-style:none;padding-left:25px;"><a href="javascript:emailCurrentPage()">Email a friend</a></li>
+			</ul>
+			</div>
 
 
 
@@ -308,10 +337,10 @@ select="$node.contribution('Subtitle')"
 			<div class="extra-info">
 
 
-<img alt="TTC Day Pass logo - Family, Single, Group - Unlimited Travel" border="0" height="103" hspace="0" src="/images/Features/Day_PASS.jpg" vspace="0px" width="139">
+
 <h6>See where $11.00 can take you</h6>
-				<p><br>
-<a href="/Fares_and_passes/Passes/Day_Pass/index.jsp" target="_self" title="Day Pass">Day Pass</a>
+				<p>The TTC Day Pass gives you unlimited one-day travel on all regular TTC services.<br>
+<a href="/Fares_and_passes/Passes/Day_Pass/index.jsp" target="_self" title="Day Pass">Get your Day Pass today</a>
 				</p>
 
 
@@ -319,7 +348,7 @@ select="$node.contribution('Subtitle')"
 <img alt="Connect With TTC - ttc.ca, mobile.ttc.ca, Trip Planer, e-Newsletter, Social Media and Next Vehicle Arrival icons" border="0" height="103" src="/images/Features/Connect_with_us_6_up.jpg" width="139">
 <h6>Connect with us every day.</h6>
 				<p>You can plan your trip, get up-to-the-minute service information through e-alerts, and know for certain when the next vehicle will arrive at your stop with our online services.<br>
-<a href="/Riding_the_TTC/Connect_With_The_TTC_And_Stay_Informed/index.jsp" target="_self" title="Connect With The TTC and Stay Informed">Connect With The TTC and Stay Informed</a>
+<a href="/Riding_the_TTC/Connect_With_The_TTC_And_Stay_Informed/index.jsp" target="_self" title="Connect With The TTC and Stay Informed">Connect With Us and Stay Informed</a>
 				</p>
 
 
@@ -359,7 +388,26 @@ select="$node.contribution('Subtitle')"
 
 
 
+<script type="text/javascript">
+$(document).ready(function()
+{
+$(".sub-level1 a").each(function(){
+	if($(this).attr("href").indexOf("null") >= 0)
+	{
+		$(this).parent().remove();
+	}
+});
 
+$(".sub-level2 a").each(function(){
+	if($(this).attr("href").indexOf("null") >= 0)
+	{
+		$(this).parent().remove();
+	}
+});
+
+
+});
+</script>
 
 
 
