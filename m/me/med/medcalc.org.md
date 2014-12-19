@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medcalc.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627112520id_/http%3A//www.medcalc.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medcalc.org privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219141058id_/http%3A//www.medcalc.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,9 +23,9 @@ MedCalc Software never shares this information with third parties.
 
 ## Online purchases
 
-Online purchases are handled by [Plimus](http://www.plimus.com/), a reputable third party e-commerce service provider.
+Online purchases are handled by [Bluesnap](http://www.bluesnap.com/), a reputable third party e-commerce service provider.
 
-  * Read more about [Plimus privacy policy and security](http://www.plimus.com/privacy.shtml). 
+  * Read more about [Bluesnap privacy policy and security](http://home.bluesnap.com/ecommerce/legal/privacy-policy). 
 
 
 
