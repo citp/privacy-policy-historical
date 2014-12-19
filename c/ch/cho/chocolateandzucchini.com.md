@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chocolateandzucchini.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074900id_/http%3A//chocolateandzucchini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chocolateandzucchini.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219154729id_/http%3A//chocolateandzucchini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chocolate & Zucchini
 
@@ -14,11 +14,11 @@ Each user’s IP address is logged with each visit and each action performed on 
 
 We may collect non-personal identification information about Users whenever they interact with our Site and store it in log files. This information includes Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the site, track users’ movements around the site and gather demographic information about our user base as a whole. Except as noted herein, we do not link this automatically-collected data to personal information.
 
-## Web browser cookies
+## Cookies and Opting Out
 
 Our Site may use “cookies” to enhance User experience. Users’ web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Google, as a third party vendor, uses cookies to serve some of the ads on the Site. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to the Site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html.
+Some of the ads that run on Our Site use cookies; you can opt out of those using the Digital Advertising Alliance’s [opt-out page](http://www.aboutads.info/choices/) and the Network Advertising Initiative’s [opt-out page](http://www.networkadvertising.org/choices/).
 
 ## Comments
 
