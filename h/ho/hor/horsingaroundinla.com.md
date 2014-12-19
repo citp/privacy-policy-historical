@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the horsingaroundinla.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061244id_/http%3A//www.horsingaroundinla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horsingaroundinla.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219064137id_/http%3A//www.horsingaroundinla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Horsing Around In LA
+# Privacy Policy - Horsing Around In LAHorsing Around In LA
 
 **What information do we collect?**
 
@@ -71,7 +71,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 [http://horsingaroundinla.wordpress.com](http://horsingaroundinla.wordpress.com/) , [horsingaroundinla@gmail.com](mailto:horsingaroundinla@gmail.com)
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm)
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.horsingaroundinla.com%2Fprivacy-policy%2F&media=)
-
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.horsingaroundinla.com%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
