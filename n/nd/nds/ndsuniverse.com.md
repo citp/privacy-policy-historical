@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ndsuniverse.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609093816id_/http%3A//www.ndsuniverse.com/page.php%3F20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndsuniverse.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219192501id_/http%3A//romuniverse.com/page.php%3F20) for the most accurate reproduction.*
 
-# NDSUniverse - The #1 Resource for Free NDS Roms and more! Privacy Policy
+# Free NDS Roms, N64, PSX Isos, GameCube Isos and more from RomUniverse, your Rommunity: Privacy Policy
 
 **Privacy Policy:**
 
