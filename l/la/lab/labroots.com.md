@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labroots.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101717id_/http%3A//labroots.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labroots.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219025533id_/http%3A//labroots.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy | LabRoots | A Scientific Social Networking Website
 
@@ -7,10 +7,6 @@
 This policy describes the ways LabRoots collects, stores, uses and protects your personal information. This Privacy Policy is a part of the LabRoots Authorized User Agreement (the "User Agreement"), and you accepted this policy when you registered for access to LabRoots website (the "Site") and agreed to the terms and conditions of the User Agreement. LabRoots may amend this policy from time to time by posting a revised version on the Site, and without giving you notice, so please check this policy each time you visit the Site and note the date of publication.
 
 This privacy policy covers the site www.labroots.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe through the TRUSTe Web Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations establish trusting relationships based on respect for personally identifiable information by promoting the use of fair information practices. The TRUSTe program only covers information collected through the Site, and does not cover information that may be collected through software downloaded from the Site.
-
-We participate in the EU Safe Harbor Web Privacy Framework as set forth by the United States Department of Commerce. As part of our participation, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework.
-
-If you have questions or concerns regarding this statement or any complaints regarding our compliance with the Safe Harbor Web Privacy Framework, you should first contact Labroots by email at privacy@labroots.com. If you do not receive acknowledgment of your inquiry or complaint, or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process at www.truste.org/consumers/watchdog_complaint.php. TRUSTe will serve as a liaison with the Site to resolve user concerns. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, visit their website. The TRUSTe dispute resolution process is conducted in English.
 
 ### Information Collection
 
