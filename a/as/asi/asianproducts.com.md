@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianproducts.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015539id_/http%3A//www.asianproducts.com/service/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianproducts.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219063548id_/http%3A//www.asianproducts.com/service/privacy_policy.php) for the most accurate reproduction.*
 
 # Asian Products--Import Export Directory for Importers, manufacturers, exporters,suppliers
 
@@ -84,4 +84,4 @@ You can access, view and edit your Registration Information, Publishing Informat
 
 our feedback
 
-AsianProducts.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses by email using the contact us link on pages available on [www.AsianProducts.com](http://www.asianproducts.com/) or at this link: <http://member.backup.apsys.net/service/contact_us.php>. Alternatively, you may write to us at Media Federal, AsianProducts.com , 18Floor, No 114, Sec 1, Xintai 5th Road, Xizhi Dist., New Taipei City, 22102, Taiwan, R.O.C OR contact us by telephone at +886 2 7708 1168 
+AsianProducts.com welcomes your continuous input regarding our Privacy Policy or our services provided to you. You may send us your comments and responses by email using the contact us link on pages available on [www.AsianProducts.com](http://www.asianproducts.com/) or at this link: <http://member.backup.apsys.net/service/contact_us.php>. Alternatively, you may write to us at Media Federal, AsianProducts.com , 9F., No.465, Sec. 6, Zhongxiao E. Rd., Nangang Dist., Taipei City 115, Taiwan, R.O.C OR contact us by telephone at +886 2 2656 0101 
