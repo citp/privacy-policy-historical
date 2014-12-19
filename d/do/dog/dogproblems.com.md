@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dogproblems.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154159id_/http%3A//www.dogproblems.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogproblems.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219060854id_/http%3A//www.dogproblems.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Please share this article...
 
 We are strongly committed to safeguarding subscribers’ privacy on this web site.
 
