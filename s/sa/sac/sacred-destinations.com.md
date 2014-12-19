@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the sacred-destinations.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506122440id_/http%3A//www.sacred-destinations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacred-destinations.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219030443id_/http%3A//www.sacred-destinations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
   1. [Sacred Destinations](https://web.archive.org/)
-  2.  __Privacy Policy
+  2. Privacy Policy
 
 
 
@@ -17,11 +17,4 @@ We use Google's advertising technology to serve relevant ads when you visit our 
 
 This privacy policy covers www.sacred-destinations.com only. Other sites we link to have their own privacy policies. 
 
-## Article Info
-
-Title:| Privacy Policy  
----|---  
-Author:| []()  
-Last updated:|   
-Permalink:| [www.sacred-destinations.com/privacy-policy](http://www.sacred-destinations.com/privacy-policy)  
-Link code:| <a href="http://www.sacred-destinations.com/privacy-policy">Privacy Policy</a>
+Last updated: May 12, 2014.
