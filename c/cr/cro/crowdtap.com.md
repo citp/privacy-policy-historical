@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331112526id_/http%3A//crowdtap.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219045545id_/http%3A//crowdtap.com/pages/privacy) for the most accurate reproduction.*
 
 # Crowdtap - Where Consumers and Brands Collaborate
 
