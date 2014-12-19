@@ -1,127 +1,49 @@
-> *The following text is extracted and transformed from the aeroforceone.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403183351id_/http%3A//www.aeroforceone.com/index.cfm/pk/content/pid/444163) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeroforceone.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219061644id_/https%3A//www.aerosmith.com/privacy) for the most accurate reproduction.*
 
-# AeroForceOne | Aerosmith - Privacy Policy
+# Official Aerosmith Website :: Privacy Policy
 
-Some of the content on Aero Force One is free to our visitors and does not require the collection of any personally identifiable information. This site only collects personal information from our visitors on a voluntary basis. [www.AeroForceOne.com](http://www.aeroforceone.com/) is a fan-oriented website for the Official Aerosmith Fan Club and related products. By accessing this website our visitors can experience much of our content free of charge and have the option of paying an annual membership fee to gain access to the members only section of the site.
+**This web site is powered by products and services from BubbleUp Ltd. (BubbleUp). BubbleUp's privacy policy is below.**
 
-At Aero Force One we are committed to protecting your online privacy and the safety of all our website visitors. WE do not require our visitors to disclose more information than is reasonably necessary to participate in an activity. The following policy describes how Aero Force One collects, protects, and uses information it receives from visitors to the website. WE recognize the importance of adhering to the highest standards of decency, fairness and integrity in the operation of this website and are committed to providing quality online activities and information to all visitors. 
+**Privacy Statement for BubbleUp.**
 
-Please check back from time to time as WE may amend our privacy policy to cover those activities that may be offered in the future. WE reserve the right, at our discretion to change or modify this privacy policy, with such changes or modifications becoming effective immediately upon the posting thereof. Your continued use of this site following the posting of changes and/or modifications will constitute your acceptance of our revised privacy policy. 
+BubbleUp has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for BubbleUp and all other Web sites powered by BubbleUp.
 
-Remember, never give out your full name, home address, email address, telephone number, or any other personally identifiable information that would allow any other online user to contact you either online or offline.
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information.
 
-**Reminder for Parents** Aero Force One encourages children to consult with their parents before submitting any information to any website, including Aero Force One. However, WE believe parents should be involved in the online activities of their children and suggest that parents do their best to provide their children with a safe and friendly online environment.   
-**  
-INFORMATION COLLECTION POLICIES  
-**  
-**Personally Identifiable Information**   
-Some of the products and services on our site are offered without collecting any personally identifiable information from you. You may surf most of this site and its content anonymously without giving out any personally identifiable information. Aero Force One only collects personal information from our visitors on a voluntary basis. WE don't require any personally identifiable information to obtain access to the area of the site that is free to the public, and only collect personally identifiable information such as first and last name, mailing address, email address, telephone number, gender and date of birth when visitors register to join Aero Force One members only section of the site or to receive promotional information from US or enter a featured sweepstakes or contest where such information is required. 
+BubbleUp uses cookies to keep track of your shopping cart in the stores and to keep track of your membership status on the Web site. We use cookies to save your password so you don't have to re-enter it each time you visit our site. The cookies we use only track your currently logged in status or your shopping cart status.
 
-Personally identifiable information is collected from our members and is used to fulfill requested transactions (such as purchasing an annual membership or shipping merchandise) and to provide special offers and services through newsletters, mailings, emails and telephone calls by US. Personally identifiable information is only collected from children under 13 years of age with verifiable parental or guardian consent for the purposes defined below. If you purchase an Aerosmith Fan Club annual membership or merchandise and services, WE may also collect a credit cardholder name, cardholder address and card number, street and billing address of any purchaser. 
+Our registration form requires users to give us contact information (name and e-mail address) and demographic information (zip code). The customer's contact information is used to contact the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We do not share mailing address, credit card, or any personally identifiable information with other companies. Demographic and profile data are used only for personalized Web content and statistical information and are not shared with other companies except in ways that do not personally identify our users.
 
-**The Collection of Limited Personally Identifiable Information  
-**Information provided at the Aero Force One website may be shared with Aerosmith and Rag Doll Merchandise, Inc., their management, representatives, and any existing or new record label they may join. WE are not responsible for how Third Parties handle the data once they receive it. When WE have co-branded or sponsored services, when WE host a site, or when WE join with other parties to provide specific services, WE may share (provide or receive) your personal information with them. 
+This site contains links to other sites. BubbleUp is not responsible for the privacy practices or the content of such Web sites. We place advertising on our site that originates from third party advertisers and/or advertising agencies. Even though these advertisements are embedded in our Web site, cookies may be assigned by the advertisers themselves. BubbleUp does not control those cookies.
 
-**Reviewing Personally Identifiable Information  
-**If you would like to review the personally identifiable information that we have collected about you or your child online, please send an email to [customerservice@AeroForceOne.com](mailto:customerservice@AeroForceOne.com). After verifying your identity WE will send you an email with all the personally identifiable information that Aero Force One has collected. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (e-mail address) and financial information (credit card numbers). Contact information from the order form is used to send our customers' orders and information about our company and about companies we choose. The customer's contact information is also used to get in touch with the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial and contact information that is collected is used to bill the user for products and services and may be shared with companies that help us operate our site, such as the credit card companies that we use.
 
-**Choice / Opt-out  
-**Online visitors, including children under the age of 13 and/or their parents, who no longer wish to receive our promotional materials or would like to unsubscribe may opt-out of receiving these communications by sending us an email entitled "unsubscribe" to [customerservice@AeroForceOne.com](mailto:customerservice@AeroForceOne.com).
+BubbleUp runs contests on our site in which we ask visitors for contact information (e-mail address) and demographic information (zip code). We use contact data from our contests to send users information about our company and about companies we choose. The customer's contact information is also used to contact the visitor when necessary and may be shared with other select companies who want to contact the user. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We may share your contact and demographic information with the contest prize providers.
 
-**New Notice for Consent**   
-If there are material changes in the collection, use or disclosure practices to which a parent has already agreed, WE will send a new notice and request the consent of the parents.
+BubbleUp provides online ticketing to venues and artists in which we ask customers for contact information (e-mail address and mailing and billing addresses). BubbleUp provides your contact information to the venues, artists and/or promoters of the events for which you purchase tickets. By purchasing tickets, you acknowledge that BubbleUp has no control over and is not responsible for the privacy policies of those venues, artists or promoters or their subsequent use of your contact information.
 
-**Sweepstakes & Contest Rules**  
-Aero Force One occasionally offers contests and sweepstakes to both fan club members and the general public, but does not condition participation in an activity on disclosing more personally identifiable information than is reasonably necessary to administer the activity. When you enter or participate in a contest or sweepstakes, WE request personal information from you (such as your full name, mailing address, email address, telephone number, gender and date of birth). The information you provide is used for the purpose of conducting the promotion (i.e. identifying winners). WE may also use this information to send you newsletters and other information we think may be of interest. Recipients of our mailings can unsubscribe by sending an email to [customerservice@AeroForceOne.com](mailto:customerservice@AeroForceOne.com).
+In addition, BubbleUp collects and stores statistics and other information about the online activities of our users on an aggregated (collected) basis. For example, we track the number of people who view each page, the order in which pages are viewed, and other information to learn which features are the most popular and to refine our design and marketing efforts.
 
-**Cookies**  
-Aero Force One may use “cookie” technology to passively obtain non-personal information from its online visitors. A cookie is a piece of data stored on the visitor’s hard drive containing information about the user. Once the user closes his/her browser, the cookie simply terminates. At Aero Force One, cookies are used to improve your online experiences by providing content specific to your interests (e.g., to store your password to eliminate the need for multiple log-in information or to recognize you by name). The use of cookies is an industry standard that is found on most major websites.
+You agree that we may assign, sell, license or otherwise transfer to a third party your personal information in connection with an assignment, sale, joint venture or other transfer or disposition of all or substantially all of the assets or capital stock of BubbleUp or its affiliated entities.
 
-**Security**  
-Aero Force One has taken steps to make all information received from our online visitors as secure as possible against unauthorized access and use. All information related to this website is protected through proper security measures, which are periodically reviewed.   
-Privacy Statement for Children Under the Age of 13.
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-The activities of this site are carried out in compliance with the Children’s Online Privacy Protection Act of 1998. Under this Act, we may not ask a child to provide more personal information than is reasonably necessary to participate in the free Aero Force One website.   
-On certain occasions, Aero Force One may offer sweepstakes promotions and/or contests. Children under the age of 13 will be asked to check a box indicating he/she is under the age of 13. If so, he/she will be asked to submit his/her parent’s email address. After retrieving such information, Aero Force One will send an email to the parent notifying him/her the child has registered and provide him/her with information about the program and give instructions on how the parent can remove the child from the promotion and/or contest. Aero Force One will use the collected information (emails) ONLY to notify the promotion and/or contest winners and their parent that they have won. Aero Force One requires the winners’ parents to provide us with all information other than as needed for legal requirements in connection with the promotion and/or contest. At Aero Force One, we will ONLY collect the child’s email as well as the parent’s email for promotional or contest purposes and in no event will Aero Force One use the information for any other purposes than to award prizes. The child will not be able to enter any sweepstakes or contest if he/she does not submit his/her parent’s email address. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our database servers are protected from intruders by a Cisco firewall router and your credit card transactions are enacted using 128-bit SSL encryption. We may be required to release personal information about you as a result of a lawsuit or subpoena or as immediately necessary to protect our rights or the rights and safety of others. Additionally, "perfect security" does not exist on the internet.
 
-When we receive a request to purchase a membership or merchandise from a child under the age of 13, which would require our collection of personally identifiable information, an email requesting the consent of the parent along with instructions on purchasing the membership online or via telephone or mail is sent to the parent. The parent must fill out the personally identifiable information needed including the parent’s credit card number to consent to the child’s purchase and participation in the Aerosmith Fan Club.
+BubbleUp strongly encourages parents and guardians to supervise their children's online activities and to consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent children from disclosing online their name, address, and other personally identifiable information without parental permission. Tickets for sale are intended for purchase by adults. By making a purchase on the site, you agree that you are at least 13 years of age. Although the BubbleUp site is not directed to children under the age of 13, BubbleUp does
 
-**Message Board Policy  
-**Participants must have a paid annual membership, which requires parental consent for a child under the age of 13, to join the Aero Force One Fan Club and participate on the Aero Force One Message Boards. It’s recommended that visitors never give out their full name, home address, email address, telephone number, or any other personally identifiable information that would allow any other online user to contact you either online or offline.
+NOT collect online contact information from children under the age of 13 without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.
 
-The information, ideas or opinions posted through this website do not necessarily reflect the views of US. WE shall not assume responsibility or liability for any postings or for any claims, damages or losses resulting from their use or appearance on this website. WE will sweep the message boards periodically at our discretion.
+NOT collect personally identifiable offline contact information from children under the age of 13 without prior parental consent.
 
-• WE do not allow postings that contain profanity or obscenities;
+NOT distribute to third parties any personally identifiable information with respect to children under the age of 13 without prior parental consent.
 
-• Please be respectful of others. You can debate and disagree all you want but don't insult fellow board members.
+NOT give the ability to publicly post or otherwise distribute personally identifiable contact information with respect to children under the age of 13 without prior parental consent.
 
-• WE do not allow posts or links to sites that are sexual in nature or violate our standards. The AF1 team shall be the sole arbitrator of what does and what does not violate community standards.
+NOT entice children under the age of 13 by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity.
 
-• WE do not allow posts that contain private or personal information that identifies a user or another person;
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-• WE will not tolerate slanderous, defamatory, threatening, rudeness, insulting posts, personal attacks, harassing comments; and other information that Aero Force One believes is inappropriate.
+_This site gives users the option of removing their information from our database to not receive future communications or to no longer receive our service._
 
-• Absolutely no threads promoting or condoning illegal drug use or illegal activities.
-
-• Do not start another thread for an already existing topic or that thread could possibly be locked, removed or moved to that appropriate already existing thread. Please keep all related postings to that thread under that topic
-
-• Advertising, spamming and trolling is not allowed. This includes using the forum, email, visitor messages, blog comments, picture comments and private message systems to spam other members.
-
-• Discussion of illegal activities such as software and music piracy and other intellectual property violations are not allowed.
-
-• This message board may only be used for noncommercial purposes. Users may not post any information intended to promote or generate revenue for themselves or other third-party businesses.
-
-• Also while these rules cover most common situations, they cannot anticipate everything. Consequently we reserve the right to take any actions we deem appropriate to ensure these forums are not disrupted or abused in any way.
-
-• WE reserve the right to edit, delete or refuse to post any messages that violate its policies and does not endorse the accuracy or reliability of the content posted by its users.
-
-• WE reserve the right to remove offensive posts without notice.
-
-• WE reserve the right to ban anyone, without notice, who willfully violates the forum rules, as access to our forum are a privilege and not a right.
-
-• Keep your avatars and signatures to a minimum. Let's face it, when threads are longer in signatures and graphics than they are in content, we know we have a problem! Please stick to the limits below... Thank you in advance!
-
-Avatars:  
-GIF and JPEG file formats only with a maximum dimension of 80 pixels wide, by 80 pixels tall. File sizes are not to exceed 75K, and animated GIF's are allowed. No profanity. No 3rd party advertising for any website(s).
-
-Signatures:  
-A maximum of three lines of text or 255 characters , with any graphic image counting as one line (only one image is allowed). GIF and JPEF file formats for any image with a maximum dimension of 100 tall by 150 pixels wide. File size is not to exceed 25k, and animated GIF's are allowed.
-
-Links:  
-Please do not post links to 3rd party sites or unlicensed, unauthorized or bootleg Aerosmith materials. You have lots of other message boards for that kinda stuff. You may however, have a link to your own personal website in your signature or Profile. The content of your personal website may be reviewed, however, and based on how it ranks as a PG-13 website, you may be asked to remove the link to your personal website from your signature and in some cases, your Profile.
-
-WE reserve the right to edit, delete or refuse to post any messages that violate its policies and does not endorse the accuracy or reliability of the content posted by its users.
-
-By submitting a posting on Aero Force One message board, you agree to hold us harmless from and against any breach of your representations, warranties or undertakings.
-
-Children under the age of 13 must receive verifiable parental consent, which is received through the registration process in joining and purchasing an annual Aero Force One Fan Club membership, in order to participate on the message boards where personally identifiable information may be posted.
-
-Again, Aero Force One encourages participants not to post personally identifiable information on the Message Boards and retains rights to remove any personally identifiable information that may be posted.
-
-Basic Guidelines to follow:
-
-Golden Rule - Respect Yourself & Others  
-\- No X-Rated pictures, jokes, videos, links, etc. No racist remarks. There will be no tolerance on this.
-
-NO Swearing  
-\- Swearing (including defeating the automatic censor) will not be tolerated.
-
-Locked or Deleted posts  
-\- If one of your posts is locked or deleted, please do not start another thread dedicated to why it was edited. If you have a problem with your post being locked or deleted, please send a private message to an Admin/Moderator describing the problem.
-
-No Defamatory or Political Signatures  
-\- Leave the polarizing divisive political statements out of your signatures.
-
-No Drug or Illegal Related Posts  
-\- Absolutely no threads promoting or condoning illegal drug use or illegal activities.
-
-No Spam!  
-\- If a post is deleted and labeled as spam then we consider it spam so please do not post it again.
-
-Leave if you don't like the way the forum is run  
-\- It’s impossible to make everyone happy. We will do our best to keep this forum a fun and positive place for Aerosmith fans to gather on the Official Aerosmith Fan Community website. If you are unhappy with the rules posted above please don’t turn the AF1 forums into a negative place – we only want to create good karma and a healthy environment for all.
-
-This is a FAN site  
-\- Remember fist and foremost this is a FAN site. A place where fans come and gather and talk about a common interest. If you are not a fan please find the appropriate forum elsewhere. The Internet is a big place, you shouldn't have a problem finding one.
-
-These rules and guidelines can change without notice as we see fit.
+Simply update your email preferences on the site.
