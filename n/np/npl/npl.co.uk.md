@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615015402id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npl.co.uk privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219185018id_/http%3A//www.npl.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy : National Physical Laboratory
 
@@ -171,45 +171,7 @@ resource.npl.co.uk
 project.npl.co.uk  
   
   
-You can view Kiss Insights Privacy Policy [here](http://www.kissinsights.com/privacy)
-
-### AddThis
-
-An AddThis social sharing toolbar is found on icon bar at the bottom of the site. It allows visitors to share our content on the social network of their choice. None of the data that is collected from this service is personally identifiable.
-
-**Name**
-
-| 
-
-**Description**
-
-| 
-
-**Longevity**
-
-| 
-
-**Domain**  
-  
----|---|---|---  
-  
-**_atuvc**
-
-| 
-
-Allows user to see accurate share numbers in AddThis widget.
-
-| 
-
-Long-term typically 2 years
-
-| 
-
-npl.co.uk  
-resource.npl.co.uk  
-  
-  
-You can opt out of AddThis data collection [here](http://www.addthis.com/advertising-choices#.T7ZKKehYtoE)
+You can view Kiss Insights' Privacy Policy [here](http://www.kissinsights.com/privacy)
 
 ### Session cookie
 
@@ -293,16 +255,6 @@ On some areas of the site we use third party multimedia services to support our 
 **More information**  
   
 ---|---|---  
-  
-**AddThis**
-
-| 
-
-Social sharing toolbar found in icon bar
-
-| 
-
-[Privacy policy](http://www.addthis.com/privacy/privacy-policy#.T7ZadOhYtoE)  
   
 **YouTube**
 
