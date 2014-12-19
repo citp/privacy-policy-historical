@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onenetmarketing.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515042900id_/http%3A//www.onenetmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onenetmarketing.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219183414id_/http%3A//onenetmarketing.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ∙ One Net Marketing
+# Privacy Policy | One Net Marketing
 
 ## What information do we collect?
 
@@ -12,10 +12,10 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  1. To improve customer service: your information helps us to more effectively respond to your customer service requests and support needs.
-  
+    1. To improve customer service: your information helps us to more effectively respond to your customer service requests and support needs.
 
-  2. To send periodic newsletters (emails): The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+
+  1. To send periodic newsletters (emails): The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 
 
@@ -43,7 +43,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
 
 ## Childrens Online Privacy Protection Act Compliance
 
@@ -69,9 +69,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 [www.onenetmarketing.com](http://www.onenetmarketing.com/)
 
-Suite 301 - 733 Johnson Street
+Suite 301 – 733 Johnson Street
 
-Victoria, British Columbia 
+Victoria, British Columbia
 
 V8W-3C7
 
