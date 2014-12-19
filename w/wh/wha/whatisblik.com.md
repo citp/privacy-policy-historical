@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatisblik.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512111119id_/http%3A//www.whatisblik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatisblik.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219054830id_/http%3A//www.whatisblik.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Official Blik Store: Buy Wall Decals, Wall Stickers, Wall Graphics
 
