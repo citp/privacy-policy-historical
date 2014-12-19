@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialog.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615204500id_/http%3A//www.proquest.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialog.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219104602id_/http%3A//www.proquest.com/about/privacy-statement.html) for the most accurate reproduction.*
 
 # About - Privacy
 
