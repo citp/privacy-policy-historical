@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509063809id_/http%3A//www.discogs.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219112949id_/http%3A//www.discogs.com/help/doc/privacy-policy) for the most accurate reproduction.*
 
 # Discogs Help - Privacy Policy
 
-[Help](https://web.archive.org/help/) » [Account](https://web.archive.org/help/account)
+### You're serious about your music… and we are, too. All the info you need for finding, buying, selling, and cataloging music is right here.
+
+[Help](https://web.archive.org/help)
 
 #### Collection
 
