@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chipandco.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513155349id_/http%3A//www.chipandco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipandco.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219132043id_/http%3A//www.chipandco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,3 +38,6 @@ policies.
 Contact Information
 
 Concerns or questions can be directed to chip@chipandco.com for further clarification.
+
+  
+
