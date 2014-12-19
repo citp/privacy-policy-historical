@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091317id_/http%3A//lowfares.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowfares.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219100749id_/http%3A//lowfares.com/privacy) for the most accurate reproduction.*
 
-# Travel Comparison Shopping - Flights, Airfare, Hotels, Vacations - LowFares.com
+# LowFares.com
 
-Last Updated:  December 16, 2011
+Lowfares.com is committed to protecting the privacy of your information. We recognize that privacy is of the utmost importance, and operate our website (the "Site") with the goal of protecting your sensitive personal information in mind. As a user of the Site or the services provided at the Site (the "Services"), this Privacy Policy is intended to describe for you: 
 
-Lowfares.com is committed to protecting the privacy of your information. We recognize that privacy is of the utmost importance, and operate our website (the “Site”) with the goal of protecting your sensitive personal information in mind. As a user of the Site or the services provided at the Site (the "Services"), this Privacy Policy is intended to describe for you: 
-
-  * the information we collect about you,
-  * how that information may be used,
-  * with whom it may be shared,
-  * how you may access the information you provide us, and
-  * your choices about such uses and disclosures.
+  * The information we collect about you, 
+  * How that information may be used, 
+  * With whom it may be shared, 
+  * How you may access the information you provide us, and
+  * Your choices about such uses and disclosures.
 
 
 
-We encourage you to read this Privacy Policy carefully before using the Site or Services or transacting business with us. By using the Site, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please contact us via email or mail using the contact information provided below.
+We encourage you to read this Privacy Policy carefully before using the Site o Services or transacting business with us. By using the Site, you are accepting the practices described in this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please contact us via email or mail using the contact information provided below.
 
 **Information Collection**
 
@@ -22,18 +20,18 @@ We may collect personal information that can identify you such as your name and 
 
 _User Provided Information_. We may collect and store any personal information that you enter into the Site or provide to us in some other manner. This includes identifying information (such as your name, address, e-mail address, and telephone number), and any other personal information you choose to provide while using the Site or the Services.
 
-_Third Party List Information_.  We may also obtain both personal and non-personal information about you from third party data gathering sources.  We may match this third-party collected information with the personally identifying information that you provide to us.  When obtaining this information from third parties, we seek assurances from such third parties that they have the right to provide the information to us.
+_Third Party List Information_. We may also obtain both personal and non-personal information about you from third party data gathering sources. We may match this third-party collected information with the personally identifying information that you provide to us. When obtaining this information from third parties, we seek assurances from such third parties that they have the right to provide the information to us.
 
 _Cookies, Web Beacons, and Other Information Collection Technology._ We and our business partners, such as advertisers, may use various technologies to collect information from your computer and about your activities on the Site. For example, we and our business partners may collect and store non-personally identifying information through technologies such as cookies, log files, clear gifs (also known as web beacons), and other tracking pixels and third parties to help determine user viewing preferences for advertising and other purposes. 
 
-  * _Log Files._ Technical information from your browser is automatically collected when you visit the Site.  This information includes your IP address, your browser type, operating system, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
-  * _Cookies._ A cookie is a piece of data stored on a user’s computer that tracks non-personal information about the user. When using the Site, we may assign your computer one or more cookies which enable us to improve the quality of our Service and to customize your experience.  Cookies allow us to automatically collect information about your browser or device activity on the Site, such as the web pages you visit, the links or advertisements you click, or the other actions you conduct while using the Site.  Most browsers automatically accept cookies, but you can usually modify your browser setting to disable cookies. If you choose to disable cookies, you will still be able to access the Site, but you may not be able to use all of the interactive features we offer. Additional information on cookies can be found at: <http://www.microsoft.com/info/cookies.htm>.
-  * _Web Beacons._ We, or our advertisers, may use standard Internet technology such as web beacons or clear gifs and other similar technologies, to gather aggregate information about your browser or device activity on the Site.  We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. This allows us to gauge the effectiveness of our marketing efforts and the quality of the Site.
-  * _Information collected by third-parties._ We and our business partners, such as advertisers, may use technologies, such as cookies and tracking pixels, to collect information about users who view or interact with these advertisements and connect to other websites.  This information allows us and our business partners to deliver customized advertisements and gauge their effectiveness.  Please note that we do not have access to or control over third parties’ cookies used on the Site, and this policy does not govern the use of cookies by these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative (NAI) and/or participants of the Digital Advertising Alliance (DAA), which offer a single location to opt out of ad customization from their respective participating companies at <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices/>.
+  * _Log Files._ Technical information from your browser is automatically collected when you visit the Site. This information includes your IP address, your browser type, operating system, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
+  * _Cookies._ A cookie is a piece of data stored on a user's computer that tracks non-personal information about the user. When using the Site, we may assign your computer one or more cookies which enable us to improve the quality of our Service and to customize your experience. Cookies allow us to automatically collect information about your browser or device activity on the Site, such as the web pages you visit, the links or advertisements you click, or the other actions you conduct while using the Site. Most browsers automatically accept cookies, but you can usually modify your browser setting to disable cookies. If you choose to disable cookies, you will still be able to access the Site, but you may not be able to use all of the interactive features we offer. Additional information on cookies can be found at: <http://www.microsoft.com/info/cookies.htm>.
+  * _Web Beacons._ We, or our advertisers, may use standard Internet technology such as web beacons or clear gifs and other similar technologies, to gather aggregate information about your browser or device activity on the Site. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. This allows us to gauge the effectiveness of our marketing efforts and the quality of the Site.
+  * _Information collected by third-parties._ We and our business partners, such as advertisers, may use technologies, such as cookies and tracking pixels, to collect information about users who view or interact with these advertisements and connect to other websites. This information allows us and our business partners to deliver customized advertisements and gauge their effectiveness. Please note that we do not have access to or control over third parties' cookies used on the Site, and this policy does not govern the use of cookies by these third parties. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative (NAI) and/or participants of the Digital Advertising Alliance (DAA), which offer a single location to opt out of ad customization from their respective participating companies at <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/choices/>.
 
 
 
-One of our third-party cookie partners is Datran Media (for Datran Media’s privacy policy, please visit <http://www.datranmedia.com/privacy/>).  To opt out of Datran Media’s cookie-based marketing program, _[click here](http://rt.displaymarketplace.com/optout.html)_.
+One of our third-party cookie partners is Datran Media (for Datran Media's privacy policy, please visit <http://www.datranmedia.com/privacy/>). To opt out of Datran Media's cookie-based marketing program, _[click here](http://rt.displaymarketplace.com/optout.html)_.
 
 _Sponsor or Link Websites_. Links or sponsor websites may be presented in a manner that allows us to keep track of whether the links or sponsor sites have been used. We use this information to improve the quality of the Site, to keep track of advertising, and to customize your online experience. We are not responsible for the privacy practices of other websites.
 
@@ -69,7 +67,7 @@ _Links_. This Site contains links to other websites, including through advertise
 
 **Choice/Opt Out**
 
-We give our users the opportunity to “opt-out” of having their information used for purposes not directly related to the Site at the point where we ask for the information, including the sharing of personal information with third parties for their own marketing purposes. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our Services, you can opt-out by contacting us via email or mail using the contact information provided below.
+We give our users the opportunity to "opt-out" of having their information used for purposes not directly related to the Site at the point where we ask for the information, including the sharing of personal information with third parties for their own marketing purposes. Please be aware that this may result in our not being able to provide certain services to you that require us to share information with third parties. If you choose to receive communications from us but later wish to discontinue receiving communications or our Services, you can opt-out by contacting us via email or mail using the contact information provided below.
 
 Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you will have to change your preferences directly with that third party. To opt-out of communications from our third party business partners, please contact them directly. 
 
@@ -83,9 +81,8 @@ This Privacy Policy may be updated from time to time to reflect changes in our p
 
 **General Contact:**
 
-Lowfares.com  
-Attn: Privacy  
-515 S. Flower Street, Suite 4400  
-Los Angeles, California 90071  
-[privacy@lowfares.com](mailto:privacy@lowfares.com)  
-(213) 607-0225
+LowFares.com  
+550 S. Hope Street  
+Suite 200  
+Los Angeles, CA 90071  
+[privacy@lowfares.com](mailto:privacy@lowfares.com)
