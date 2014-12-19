@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the miami.edu privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516003715id_/http%3A//www.miami.edu/index.php/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miami.edu privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219204812id_/http%3A//miami.edu/index.php/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement and Legal Notices | University of Miami
 
 Thank you for visiting the University of Miami website. The University of Miami is a private, independent, international university and an equal opportunity/affirmative action employer.
 
-**Non-Discrimination Policy**  
+ **Non-Discrimination Policy**  
 It is the policy of the University of Miami that no person within the jurisdiction thereof shall, on the basis of race, religion, color, sex, age, disability, sexual orientation, gender identity or expression, veteran status, or national origin, be excluded from participation in, be denied the benefits of, or be subjected to discrimination or harassment (including all forms of sexual harassment and sexual violence) under any program or activity of the University, regardless of whether such program or activity occurs on-campus or off-campus. The University does not intend by this commitment to require compliance with this policy by governmental or external organizations that associate with but are not controlled by the University, except as required by law. The Executive Director of Equality Administration is responsible for coordinating the University’s effort to implement the nondiscrimination policy and Affirmative Action Programs for employees and students. The Director may be contacted at the following address or telephone number: Equality Administration Office, 1320 South Dixie Highway, Gables One Tower, Suite 100R, Coral Gables, FL 33146; Phone: (305) 284-3064.
 
 **International Students**  
