@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entheos.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213053429id_/http%3A//www.entheos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entheos.com privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219101355id_/http%3A//www.entheos.com/privacy) for the most accurate reproduction.*
 
 # The Academy for Optimal Living | en*theos
 
@@ -18,11 +18,13 @@ We love and respect all of our amazing peeps and want to remind you that we do n
 
 Basic information is shared with the Professors we partner with to teach Academy courses for the purpose of supporting you through the courses and beyond.
 
-When you sign up for one of our Virtual Conferences, your name and email address are shared with the Host-only of that conference, and not the guest experts.
+When you sign up for one of our Symposiums, your name and email address are shared with the Host-only of that conference, and not the guest experts.
 
 We don’t share your information with any third party outside of our organization, except for the fulfillment of an order (applies to shipping the hardcover of A Philosopher’s Notes through our fulfillment partners at [Bang Printing]()).
 
 While you are on our site we use cookies (the delicious, vegan kind that Alexandra whips up :)) to keep track of what you put in your shopping cart, and how you arrived at our site. If you were referred by one of our amazing affiliates, we keep track of what you purchase so we can give them a virtual hug/high five! No personal information is shared with our affiliates. (Learn more about our affiliate program here!)
+
+**Please note** , your profile and posts on the site may be indexed and findable on Google and other search engines. (We are working on giving you better control over the privacy of content you post on the site and will release it soon!)
 
 ## You have total control of what we retain.
 
