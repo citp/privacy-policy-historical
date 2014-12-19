@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spoongraphics.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062233id_/http%3A//blog.spoongraphics.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoongraphics.co.uk privacy policy that was archived on 2014-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141219083721id_/http%3A//blog.spoongraphics.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Blog.SpoonGraphics Privacy Policy
 
 [](http://blog.spoongraphics.co.uk/)
 
-This Privacy Policy governs the manner in which SpoonGraphics collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://blog.spoongraphics.co.uk](http://blog.spoongraphics.co.uk/) website ("Site"). This privacy policy applies to the Site and all products and services offered by SpoonGraphics.
+This Privacy Policy governs the manner in which Spoon Graphics Ltd collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://blog.spoongraphics.co.uk](http://blog.spoongraphics.co.uk/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Spoon Graphics Ltd.
 
 ## Personal identification information
 
@@ -20,7 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 ## How we use collected information
 
-SpoonGraphics may collect and use Users personal information for the following purposes:
+Spoon Graphics Ltd may collect and use Users personal information for the following purposes:
 
   * To improve customer service
   * To personalize user experience
@@ -51,7 +51,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 ## Changes to this privacy policy
 
-SpoonGraphics has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Spoon Graphics Ltd has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ## Your acceptance of these terms
 
@@ -61,4 +61,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://blog.spoongraphics.co.uk/contact).
 
-This document was last updated on October 30, 2012
+This document was last updated on September 15, 2014
