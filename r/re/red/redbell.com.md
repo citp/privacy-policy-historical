@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redbell.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907112810id_/http%3A//www.redbell.com/Security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbell.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220073746id_/http%3A//www.redbell.com/t-security.aspx) for the most accurate reproduction.*
 
-# Security & Privacy
+# Security Policy
 
 **Security & Privacy**
 
@@ -26,7 +26,7 @@ _With the exception of dealer partners listed above, we absolutely do NOT share 
 
 **Cookies**  
 _From time to time, we may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. To protect your privacy we do not use cookies to store or transmit any personal information about you on the Internet. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies certain features of the site may not function properly as a result._ **Updation of Information**  
-A user may edit his/her account information and profile by logging onto our website and/or by sending a request to [ customerservice@pr.redbell.com](mailto:customerservice@pr.redbell.com).The requested changes may take up to 30 days to appear online because of verification process and server cache policies.
+A user may edit his/her account information and profile by logging onto our website and/or by sending a request to [customerservice@redbell.com](mailto:customerservice@redbell.com).The requested changes may take up to 30 days to appear online because of verification process and server cache policies.
 
 A user account can be deleted or deactivated, but doing so will result in the user not being able to access the network. Residual information will remain within our archive records.
 
@@ -40,11 +40,11 @@ We request our users to sign out of their **Redbell** account and close their br
 Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while **Redbell** strives to protect the user's personal & business information, it cannot ensure the security of any information transmitted to **Redbell** and you do so at your own risk. Once **Redbell** receives your transmission, it makes best efforts to ensure its security in its systems. Please keep in mind that whenever you post personal & business information online, that is accessible to the public, you may receive unsolicited messages from other parties. 
 
 **Customer Service**  
-_**Redbell** will never ask for your login, personally identifiable or billing information in instant messages, or pop-ups. If you witness any of these possible scams, ignore them and inform **Redbell** at **+91 11 43757879**.
+**_Redbell_** _will never ask for your login, personally identifiable or billing information in instant messages, or pop-ups. If you witness any of these possible scams, ignore them and inform **Redbell** at **+91 11 42696677**
 
-For certain high value orders our customer service representative may request some identity verification proofs (such as scanned copies of driving license, PAN Card or any other document that has your name & photograph on it) in an email format. This email will be sent only from [ customerservice@pr.redbell.com](mailto:customerservice@pr.redbell.com) and no other email account. We will never ask for credit card information on email or phone. We take your privacy VERY seriously; if you feel **Redbell** is violating your privacy in any way, please contact at **+91 11 43757879**.
+ertain high value orders our customer service representative may request some identity verification proofs (such as scanned copies of driving license, PAN Card or any other document that has your name & photograph on it) in an email format. This email will be sent only from 
 
-_
+_[_customerservice@redbell.com_](mailto:customerservice@redbell.com) _and no other email account. We will never ask for credit card information on email or phone. We take your privacy VERY seriously; if you feel **Redbell** is violating your privacy in any way, please contact at **+91 11 42696677**_
 
 **Changes in Security and Privacy Policy**  
 The policy may change from time to time so please check periodically.
