@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastbrowsersearch.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208013523id_/http%3A//www.fastbrowsersearch.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastbrowsersearch.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220054326id_/http%3A//www.fastbrowsersearch.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Fast Browser Search - Privacy Policy
 
