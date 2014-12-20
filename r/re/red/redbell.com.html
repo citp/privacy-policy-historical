@@ -1,736 +1,592 @@
-<!--The following is the downloaded HTML source of the redbell.com privacy policy that was archived on 2013-09-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130907112810id_/http%3A//www.redbell.com/Security.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redbell.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220073746id_/http%3A//www.redbell.com/t-security.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_Head1"><title>
-	Security &amp; Privacy
-</title><link href="css/jquery-ui.css" rel="stylesheet" type="text/css"><meta name="description" content="Largest Online Toy store at your home in India"><meta name="keywords" content="largest, best, biggest, online, toy, store, india, indian, bell, kids, toys, barbie, fisher price, game, disney, ok play, shop, online toystore, online toy store"><link rel="shortcut icon" href="favicon.ico" type="image/x-icon"><meta name="verify-v1" content="XUo9GGxrZ7cMOms1V0p2kYihfCRAd2RKL1LELX09JBw=">
-
-    <script language="javascript" type="text/javascript" src="files/Script.js"></script>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	Security Policy
+</title><meta name="description" content="Redbell"><meta name="keywords" content="Redbell"><link href="images/favicon.ico" rel="Shortcut Icon">
     
-
-        
-        
-
-    <script language="javascript" type="text/javascript" src="/js/validation.js"></script>
-
-    <script type="text/javascript" src="/js/countdown.js"></script>
-
-    <link rel="stylesheet" href="zoomer/thumbnailviewer.css" type="text/css">
-
-    <script src="zoomer/thumbnailviewer.js" type="text/javascript">
-    </script></head><body><div id="thumbBox" onclick="thumbnailviewer.closeit()"><div id="thumbImage"></div><div class="footerbar">CLOSE X</div></div><div id="thumbLoading"><img src="loading.gif"> Loading Image...</div>
-     <script type="text/javascript" src="js/jquery-1.7.2.js"></script>
-     <script type="text/javascript" src="/js/eulajquery.js"></script>
-         <script type="text/javascript">
-             $(document).ready(function () {
-
-                 //Code to fetch
-                 $.ajax({
-                     type: "POST",
-                     url: "http://www.redbell.com/Service/WSDataService.asmx/GetStates",
-                     dataType: "json",
-                     data: "{}",
-                     contentType: "application/json; charset=utf-8",
-                     success: function (data) {
-                         var datafromServer = data.d.split(":");
-                         $("[ID$='txtSearchTerms']").autocomplete({
-                             source: datafromServer
-                         });
-                     },
-                     error: function (XMLHttpRequest, textStatus, errorThrown) {
-                         //alert(textStatus);
-                     }
-                 });
-             });
- </script>
-  <script type="text/javascript" language="javascript">
-      $(document).ready(function () {
-
-          var div = $('#hdrSection2,#fixsearch');
-          var start = $(div).offset().top;
-
-          $.event.add(window, "scroll", function () {
-              var p = $(window).scrollTop();
-              $(div).css('position', ((p) > start) ? 'fixed' : 'static');
-              $(div).css('top', ((p) > start) ? '0px' : '');
-              $(div).css('z-index', ((p) > start) ? '10' : '');
-              $(div).css('left', ((p) > start) ? 'auto' : '');
-              $(div).css('width', ((p) > start) ? '1001px' : '1001px');
-              $('#hdrSection2').css('position', ((p) > start) ? 'fixed' : 'static');
-              $('#hdrSection2').css('top', ((p) > start) ? '115px' : '');
-              $('#hdrSection2').css('left', ((p) > start) ? 'auto' : '');
-          });
-
-      });
-</script>
     
+		
+	<!-- Vibe Commerce Trib Add On -->
+    <script async="" charset="utf-8" src="//cdn.zopim.com/?ephNHFGwlpY4b8SXiG3yVmDMJaczXluv" type="text/javascript"></script><script src="jscripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="jscripts/vibe/vibe.trib.cookie.js" type="text/javascript"></script>
+    <script src="jscripts/vibe/Vibe.trib.js" type="text/javascript"></script>
+    <!--  End -->
 
-    <script src="/js/mime.js" type="text/javascript"></script>
-
-    <script src="/js/tryout.js" type="text/javascript"></script>
-
-    <script src="/js/eula.js" type="text/javascript"></script>
-
-    <style type="text/css" media="screen">
-        @import url("/App_Themes/publicStore/RBStyle.css";
-    </style>
-
-    <script type="text/javascript" language="JavaScript">
- 
- <!--
-        
-        var popupTimerHandle = null;
-
-
-        function showBox(div) {
-            closeall();
-            if (popupTimerHandle != null) {
-                clearTimeout(popupTimerHandle);
-                popupTimerHandle = null;
-            }
-
-            divObj = document.getElementById(div);
-            divObj.style.display = 'block';
-            divObj.focus();
-
-        }
-
-        function hideBox(div) {
-            popupTimerHandle = setTimeout("reallyHideBox('" + div + "');", 500);
-        }
-        function reallyHideBox(div) {
-            divObj1 = document.getElementById(div);
-            divObj1.style.display = 'none';
-
-        }
-        function closeall() {
-            divObj1 = document.getElementById('dvCategories');
-            if (divObj1 != null) {
-                divObj1.style.display = 'none';
-            }
-            divObj2 = document.getElementById('dvPrice');
-            if (divObj2 != null) {
-                divObj2.style.display = 'none';
-            }
-            divObj3 = document.getElementById('dvBrand');
-            if (divObj3 != null) {
-                divObj3.style.display = 'none';
-            }
-            divObj4 = document.getElementById('dvAge');
-            if (divObj4 != null) {
-                divObj4.style.display = 'none';
-            }
-
-
-        }
-        function HideContent(d) {
-            if (d.length < 1) { return; }
-            document.getElementById(d).style.display = "none";
-        }
-        function ShowContent(d) {
-            if (d.length < 1) { return; }
-            document.getElementById(d).style.display = "block";
-        }
-        function ReverseContentDisplay(d) {
-            if (d.length < 1) { return; }
-            if (document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
-            else { document.getElementById(d).style.display = "none"; }
-        }
-//-->
-    </script>
-
-    <style type="text/css">
-        .style4
-        {
-            width: 9px;
-        }
-    </style>
+	 <script src="jscripts/jquery-1.9.1.js" type="text/javascript"></script><script src="jscripts/jquery-1.6.4.js" type="text/javascript"></script>    
+	<script src="Js_Slider/jquery.sexyslider.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="js_SmartSearch/SmartSearch.js"></script>
+    <script type="text/javascript" src="js_SmartSearch/jquery.highlight-3.js"></script>
+    <script src="jscripts/jquery.anythingfader.js" type="text/javascript" charset="utf-8"></script>
    
-<link href="App_Themes/publicStore/print.css" type="text/css" rel="stylesheet"><link href="App_Themes/publicStore/RBStyle.css" type="text/css" rel="stylesheet"><link href="App_Themes/publicStore/redbell.css" type="text/css" rel="stylesheet"><link href="App_Themes/publicStore/reset-fonts-grids.css" type="text/css" rel="stylesheet"><link href="App_Themes/publicStore/slimbox.css" type="text/css" rel="stylesheet"><link href="App_Themes/publicStore/style.css" type="text/css" rel="stylesheet">
+   
+    <script src="jscripts/jquery.ui.core.js" type="text/javascript"></script>
+    <script src="jscripts/jquery.ui.widget.js" type="text/javascript"></script>
+    <script src="jscripts/jquery.ui.mouse.js" type="text/javascript"></script>
+    <script src="jscripts/jquery.ui.slider.js" type="text/javascript"></script>    
+    <script src="jscripts/jquery-migrate-1.1.1.min.js" type="text/javascript"></script>
+	<!--[if IE 7]>
+	<style type='text/css' media='screen,projection'>
+	@import 'Styles/IE.css';
+	</style>
+	
+	
+	<![endif]--> 
 
-        
-<div>
+   <script type="text/javascript">
+	$('document').ready(function(){
+	SmartSearch('.search_input');
+	});
+	</script>
+	<!--Start of Zopim Live Chat Script-->
+	<script type="text/javascript">
+	window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');$.src='//cdn.zopim.com/?ephNHFGwlpY4b8SXiG3yVmDMJaczXluv';z.t=+new Date;$.type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');</script><!--End of Zopim Live Chat Script-->
 
- 
+  <!--Google Analytics Start--> 
+      <!--<script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "'google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>-->
+      <script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
+  <!--Google Analytics End-->
+
+ <link href="App_Themes/Skin_101/DialogStyle.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_101/fader.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_101/jquery.ui.slider.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_101/jquery.ui.theme.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_101/page.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_101/style.css" type="text/css" rel="stylesheet"><link href="App_Themes/Skin_101/style-vibe.trib.css" type="text/css" rel="stylesheet"><link href="/WebResource.axd?d=LO-6jIZV5iAypR1MsX5yrhYklfi2k0_QkP7IspWVxTigu6VHFJJ6_f67Tr4RggAz0&amp;t=635357752168477355" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/WebResource.axd?d=LO-6jIZV5iAypR1MsX5yrhYklfi2k0_QkP7IspWVxTgqMALD_3xjuhJWUnCD9YPlvlSHStDi-AUUXocXHHu9TQ2&amp;t=635357752168477355" type="text/css" rel="stylesheet" class="Telerik_stylesheet"></head>
+<body>
+    
+	
+    <!--
+PAGE INVOCATION: /t-security.aspx
+PAGE REFERRER: 
+STORE LOCALE: en-IN
+STORE CURRENCY: INR
+CUSTOMER ID: 0
+AFFILIATE ID: 0
+CUSTOMER LOCALE: en-IN
+CURRENCY SETTING: INR
+CACHE MENUS: True
+-->
 
 
-</div>
-<div>
+    <form name="aspnetForm" method="post" action="t-security.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMzc2Mjc3NjQPZBYCZg9kFgICBg9kFgJmDxQrAAIUKwADDxYCHhdFbmFibGVBamF4U2tpblJlbmRlcmluZ2hkZGQQFgFmFgEUKwADDxYCHwBoZGRkDxYBZhYBBWVUZWxlcmlrLldlYi5VSS5SYWRXaW5kb3csIFRlbGVyaWsuV2ViLlVJLCBWZXJzaW9uPTIwMTEuMy4xMTE1LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbBYCZg8UKwADDxYCHwBoZGRkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUWY3RsMDAkUmFkV2luZG93TWFuYWdlcgUVY3RsMDAkUmFkV2luZG93TWFzdGVyb8Y0BjWGeLbmwTqcXWRzgIZB04s=">
 
 
-
-
-
-
-</div>
-    <div class="PageWrapper" style="position:relative;">
-        <form name="aspnetForm" method="post" action="/Security.aspx" id="aspnetForm">
-<input type="hidden" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgQCAQ9kFggCAg8WAh4HY29udGVudAUuTGFyZ2VzdCBPbmxpbmUgVG95IHN0b3JlIGF0IHlvdXIgaG9tZSBpbiBJbmRpYWQCAw8WAh8ABaEBbGFyZ2VzdCwgYmVzdCwgYmlnZ2VzdCwgb25saW5lLCB0b3ksIHN0b3JlLCBpbmRpYSwgaW5kaWFuLCBiZWxsLCBraWRzLCB0b3lzLCBiYXJiaWUsIGZpc2hlciBwcmljZSwgZ2FtZSwgZGlzbmV5LCBvayBwbGF5LCBzaG9wLCBvbmxpbmUgdG95c3RvcmUsIG9ubGluZSB0b3kgc3RvcmVkAgYPFQIRL2pzL3ZhbGlkYXRpb24uanMQL2pzL2NvdW50ZG93bi5qc2QCCA8VBREvanMvZXVsYWpxdWVyeS5qcwsvanMvbWltZS5qcw0vanMvdHJ5b3V0LmpzCy9qcy9ldWxhLmpzIy9BcHBfVGhlbWVzL3B1YmxpY1N0b3JlL1JCU3R5bGUuY3NzZAIDD2QWBAIBD2QWCAIBD2QWAmYPEGQQFQINSW5kaWFuIFJ1cGVlcwlVUyBEb2xsYXIVAgIxNwExFCsDAmdnFgFmZAICD2QWAmYPEGQQFQIHRW5nbGlzaBVTcGFuaXNoIChQdWVydG8gUmljbykVAgE3AjE2FCsDAmdnFgFmZAIED2QWBAIDDw9kFgIeCm9uS2V5UHJlc3MFcHJldHVybiBzdWJtaXRlbnRlcihjdGwwMF9jdHJsSGVhZGVyX2N0cmxTZWFyY2hCb3hfdHh0U2VhcmNoVGVybXMsZXZlbnQsY3RsMDBfY3RybEhlYWRlcl9jdHJsU2VhcmNoQm94X2J0blNlYXJjaClkAgcPD2QWAh4Hb25jbGljawVGcmV0dXJuIElzU2VhcmNoQm94RW1wdHkoY3RsMDBfY3RybEhlYWRlcl9jdHJsU2VhcmNoQm94X3R4dFNlYXJjaFRlcm1zKWQCBg8PFgIeBFRleHQFBFJzIDBkZAICD2QWAmYPZBYCZg9kFgICag8PFgIeC05hdmlnYXRlVXJsBRF+L1JldHVybkdpZnQuYXNweGRkZOM8WSNe/klDCRnpGggTfL8DAQrf">
-
-
-<script src="/ScriptResource.axd?d=bpZlGDL4FNXPpEXsME9vg1D5mDy1GEBO1Gbsscc7pLmTgxNiT7_vF1a8yg8xnAMjsIaf_hAyZXYpn9H0hyx5xsjou5pM8bwEgm-bq4kLfQY1&amp;t=ffffffffec2d9970" type="text/javascript"></script>
+<script src="jscripts/formvalidate.js" type="text/javascript"></script>
+<script src="jscripts/core.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=6emP6gEsGI1WB6u3kOiYYuIDf-VWFBp8tQyeT-87Xl-4PFP_qPxDWA7zHOJzKB6YQC5FrS2mGSFMjE-Yy_7wXKd24M6A2TBH9Fli637DGn01&amp;t=ffffffffec2d9970" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCQLn74vICgK1uJyKCgKm3fyMCAKBxPq8AwLPqonyAgLWoqeHAwLqzKHGAQKFvO7wDAK0kqSQCr2VJfF+IImTUpaPzhCWKdoJgs9f">
-        <input type="hidden" name="ctl00$hdnfb_user" id="ctl00_hdnfb_user">
+<script src="/ScriptResource.axd?d=EGDXT6ApNAUyUGGubr_AKoByCKK7qa9HHi7Ikq1P5lz_lIozq1QhNd_ZwarGQ6-F0&amp;t=ffffffff8e69edb3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EGDXT6ApNAUyUGGubr_AKoByCKK7qa9HHi7Ikq1P5lxmP7mXxcN0cr0noWE82wkFTg4gma5D_je-44NxEely3w2&amp;t=ffffffff8e69edb3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EGDXT6ApNAUyUGGubr_AKoByCKK7qa9HHi7Ikq1P5lxdLVP7ESWP-M1bpk2W1UNeFBPo3jwbWb0O3M6Hr4ZdMg2&amp;t=ffffffff8e69edb3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EGDXT6ApNAUyUGGubr_AKoByCKK7qa9HHi7Ikq1P5lyhUBalTI_7MwLF8fQtuAYp0vNfejXyi-fejVo-FzvOIuzm-6m8QI6Mfjwk4sxTf6E1&amp;t=ffffffff8e69edb3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EGDXT6ApNAUyUGGubr_AKoByCKK7qa9HHi7Ikq1P5lwhIPUisxQ6Lt_WgsyiYh-YcawtL-vBtaSsr804CmbxEw2&amp;t=ffffffff8e69edb3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EGDXT6ApNAUyUGGubr_AKoByCKK7qa9HHi7Ikq1P5lys-BeBf0d9XMIGjaSeaZXMMkuXBC1pXco5X3X1kXA2xA2&amp;t=ffffffff8e69edb3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EGDXT6ApNAUyUGGubr_AKipfLSYvgx06ERle2mfaCSAC0wTYtmSxEgDicgEJVikL9nZ-E82gQ1Av1sidCMKe8Q2&amp;t=ffffffff8e69edb3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EGDXT6ApNAUyUGGubr_AKipfLSYvgx06ERle2mfaCSBMz41rX6l2ObMleycpFZ5H24xOfD8X7qryVhS5habHww2&amp;t=ffffffff8e69edb3" type="text/javascript"></script>
+<script src="Newsletter.Subscribe.asmx/jsdebug" type="text/javascript"></script>
         
-<style type="text/css">
-    .style1
+    <div id="ctl00_RadWindowManager" style="z-index:100001;display:none;">
+	<!-- 2011.3.1115.0 --><div id="ctl00_RadWindowMaster" style="display:none;">
+		<div id="ctl00_RadWindowMaster_C">
+
+		</div><input id="ctl00_RadWindowMaster_ClientState" name="ctl00_RadWindowMaster_ClientState" type="hidden">
+	</div><div id="ctl00_RadWindowManager_alerttemplate" style="display:none;">
+		<div class="rwDialogPopup radalert">			
+			<div class="rwDialogText">
+			{1}				
+			</div>
+			
+			<div>
+				<a onclick="$find('{0}').close(true);" class="rwPopupButton" href="javascript:void(0);">
+					<span class="rwOuterSpan">
+						<span class="rwInnerSpan">##LOC[OK]##</span>
+					</span>
+				</a>				
+			</div>
+		</div>
+		</div><div id="ctl00_RadWindowManager_prompttemplate" style="display:none;">
+		 <div class="rwDialogPopup radprompt">			
+			    <div class="rwDialogText">
+			    {1}				
+			    </div>		
+			    <div>
+				    <script type="text/javascript">
+				    function RadWindowprompt_detectenter(id, ev, input)
+				    {							
+					    if (!ev) ev = window.event;                
+					    if (ev.keyCode == 13)
+					    {															        
+					        var but = input.parentNode.parentNode.getElementsByTagName("A")[0];					        
+					        if (but)
+						    {							
+							    if (but.click) but.click();
+							    else if (but.onclick)
+							    {
+							        but.focus(); var click = but.onclick; but.onclick = null; if (click) click.call(but);							 
+							    }
+						    }
+					       return false;
+					    } 
+					    else return true;
+				    }	 
+				    </script>
+				    <input title="Enter Value" onkeydown="return RadWindowprompt_detectenter('{0}', event, this);" type="text" class="rwDialogInput" value="{2}">
+			    </div>
+			    <div>
+				    <a onclick="$find('{0}').close(this.parentNode.parentNode.getElementsByTagName('input')[0].value);" class="rwPopupButton" href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				    <a onclick="$find('{0}').close(null);" class="rwPopupButton" href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			    </div>
+		    </div>				       
+		</div><div id="ctl00_RadWindowManager_confirmtemplate" style="display:none;">
+		<div class="rwDialogPopup radconfirm">			
+			<div class="rwDialogText">
+			{1}				
+			</div>						
+			<div>
+				<a onclick="$find('{0}').close(true);" class="rwPopupButton" href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				<a onclick="$find('{0}').close(false);" class="rwPopupButton" href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			</div>
+		</div>		
+		</div><input id="ctl00_RadWindowManager_ClientState" name="ctl00_RadWindowManager_ClientState" type="hidden">
+</div>
+
+    
+    <div id="wrapper">
+        
+       <!--Main Start-->
+<div id="main">
+	<!--Header Start-->
+    <div id="header">
+    	<!--Line1 Start-->
+	<div class="line1">
+            <!--Logo Start-->
+            <div class="logo"><a href="default.aspx" title="Redbell">Redbell - Toy Store At Your Home</a></div>
+            <!--Logo Closed-->
+		
+
+            
+            <!--Top Right Start-->
+            <div class="top_right_widget">
+            
+             	<ul class="top_form">
+             
+                     
+			        
+	            	<li></li>
+			      	<li></li>
+                    <li></li>
+                     
+                    
+                </ul>
+                <div>&nbsp;</div>
+                <div>&nbsp;</div>
+                <ul class="top_form">
+                 <li><div id="divAddonContent"></div></li>
+                <li></li>
+                </ul>
+               
+
+	    </div>
+        
+            <!--Top Right Closed-->
+        </div>
+        <!--Line1 Closed--> 
+        
+        <!--Line2 Start-->
+    	<div class="line2"> 
+        
+                              
+            <!--Top Right Start-->
+            <ul class="top_nav">
+            	
+
+                <li>
+			<a href="#" id="wishlistlink">
+		                <span class="bg_right">
+                		    <span class="top_txt">Wish</span>
+		                    <span class="bigger_txt">List</span>
+                		</span>
+			</a>
+                 	<div class="Wishsub_links">
+                    		<ul>                        	
+	                            <li><a href="wishlist.aspx">View Your Wish List</a></li>                                                     
+        	                </ul>
+                	        <div class="box_bottom"></div>
+                  	</div>
+                </li> 
+   
+        
+        <li><a href="#" id="minicartspan" class="active">
+                <span class="bg_right cart_width">
+                    <span class="cart_value" id="carttotal">0</span>
+                    <span class="top_txt"> </span>                
+                    <span class="bigger_txt">Cart</span>                
+                </span></a>
+                
+                <div class="cartsub_links">
+                    	<ul>                        	
+                            <li>
+                <div id="cartcontent">Fetching...</div>
+                </li>
+                </ul>
+                        <div class="box_bottom"></div>
+                  </div>
+                    <!--Sub Links Closed-->
+
+                
+                </li>
+        
+                
+                <li><a href="#" id="accountlink">                    
+                     <span class="bg_right">
+                    <span class="top_txt"></span>
+                    <span class="bigger_txt">Your Account</span>
+                </span>
+                </a>
+                
+                <!--Sub Links Start-->
+                	<div class="sub_links">
+                    	<ul>
+                        	<li><a class="button_link" href="/signin.aspx">Login</a>
+                            
+<br>
+
+  <p class="signin">New Customer ?  
+							<a href="createaccount.aspx" class="blue_link">Start here</a>.</p>  </li>
+                            <li><a href="account.aspx">Your Account</a></li>
+                            <li><a href="account.aspx#orderhostory">Your Order</a></li>                            
+                        </ul>
+                        <div class="box_bottom"></div>
+                  </div>
+                    <!--Sub Links Closed-->
+                
+                
+                </li>                        
+            </ul>
+            <!--Top Right Closed-->	
+            
+            <!--Search Start-->
+        	<div class="search_widget">
+            	
+                	<span class="adnce_search"><a href="searchadv.aspx">Advance search</a></span>
+					
+       <span id="ctl00_ctrlSearch" class="search"><div id="ctl00_ctrlSearch_SearchPanel">
+	<input type="button" name="ctl00$ctrlSearch$SearchButton" value="Go" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctrlSearch$SearchButton&quot;, &quot;&quot;, true, &quot;search&quot;, &quot;&quot;, false, true))" id="ctl00_ctrlSearch_SearchButton" class="search_button"><span id="smartsearch"><input name="ctl00$ctrlSearch$SearchText" type="text" id="ctl00_ctrlSearch_SearchText" class="search_input"><div id="result"></div></span>
+</div></span>
+			
+            
+            	
+        	</div>  
+            <!--Search Closed-->
+        </div>     
+        <!--Line2 Closed-->     
+</div>
+    <!--Header Closed-->
+    <!--Content Start-->
+  <div id="content">
+    <!--Left Content Start-->
+                    <div class="left_content">
+                        <!--Tabs Start-->
+                        <div class="module top_margin">                           
+                             <div id="tabs_widget"><ul class="tabs"><li id="cat"><a class="active" alt="Category" title="Category" href="#category">Category</a></li><li id="manuf"><a alt="Brand" title="Brand" href="#manufacturer">Brand</a></li></ul><div class="tabs_name">Shop By <span>category</span></div></div><div class="tabs_container"><div id="category-content" style="display:block;"><div class="tab-content" id="navigation"><ul class="left_nav"><li id="3"><a href="/c-3-action-figures.aspx">Action Figures</a></li><li id="4"><a href="/c-4-activity-play-sets.aspx">Activity &amp; Play Sets</a></li><li id="5"><a href="/c-5-art-craft.aspx">Art &amp; Craft</a></li><li id="6"><a href="/c-6-bags-pouches.aspx">Bags &amp; Pouches</a></li><li id="9"><a href="/c-9-blocks-constructio.aspx">Blocks-Construction</a></li><li id="10"><a href="/c-10-board-games.aspx">Board Games</a></li><li id="11"><a href="/c-11-books-educational.aspx">Books &amp; Educational</a></li><li id="12"><a href="/c-12-camera.aspx">Camera</a></li><li id="13"><a href="/c-13-card-games.aspx">Card Games</a></li><li id="14"><a href="/c-14-cars-trains-bikes.aspx">Cars, Trains &amp; Bikes</a></li></ul><p align="center"><a href="showentity.aspx?entity=Allcat">View all »</a></p></div><div class="fade_bottom"></div></div><div id="manufacturer-content" style="display:none;"><div class="tab-content" id="navigation"><ul class="left_nav"><li id="101"><a href="/m-101-anmol-toys.aspx">Anmol Toys</a></li><li id="99"><a href="/m-99-aroma.aspx">Aroma</a></li><li id="95"><a href="/m-95-awals.aspx">Awals</a></li><li id="91"><a href="/m-91-centy.aspx">Centy</a></li><li id="98"><a href="/m-98-creatives.aspx">Creatives</a></li><li id="100"><a href="/m-100-edu-edge.aspx">Edu Edge</a></li><li id="94"><a href="/m-94-ekta.aspx">Ekta</a></li><li id="93"><a href="/m-93-kids-creation.aspx">Kids Creation</a></li><li id="97"><a href="/m-97-little-genius.aspx">Little Genius</a></li><li id="4"><a href="/m-4-airfix.aspx">Airfix</a></li></ul><p align="center"><a href="showentity.aspx?entity=Allmanuf">View all »</a></p></div><div class="fade_bottom"></div></div></div>                           
+                            <!--Tabs Container Closed-->
+                        </div>
+                        <!--Tabs Closed-->
+
+                        <!--News & Webinars Start-->                        
+                              
+                        <!--News & Webinars Closed-->  
+                        <!--Milano Store Locator -->
+                        
+                        <!--Milano Store Locator Closed-->                      
+                         <span id="ctl00_ctrlPoll"></span>
+                         <!--Newsletter signup Start-->
+                        <span id="ctl00_NewsletterControl1">
+                        <div id="ptkSubscribe">
+                            <div class="module">
+                                <h4 class="heading"><span>Subscribe For Newsletter:</span></h4>
+                                <div class="side_content">
+                                    <p></p>
+                                        <ul class="poll"> 
+                                            
+<input type="hidden" id="txt_NL_FirstName" value="">
+<input type="hidden" id="txt_NL_LastName" value="">
+                  	
+                                            <li>
+                                               <label class="label">Your Email-ID <span class="star">*</span> </label>
+                                               <p>
+                                                 <input type="text" name="textfield2" class="textfield" id="txtEmailAddress" onkeypress="enterSubmit(event);">
+                                                <input type="hidden" id="txtCaptcha" value="">
+                                               </p>
+                                            </li>
+                                            <li>
+                                               <input type="button" class="button" value="Sign UP" id="cmdSubmit" onclick="clickSubmit();">
+                                            </li>                           
+                                        </ul>
+                                </div>
+                                <div class="bottom"><span></span></div>
+                            </div>
+                        </div>
+                        
+
+            <script>
+            function clickSubmit()
+            {
+	            var xReq = new SOAPRequest('Newsletter.Subscribe.asmx', 'Subscribe', 'http://aspdotnetstorefront.com')  
+                xReq.addParameter('emailAddress', document.getElementById('txtEmailAddress').value);
+                xReq.addParameter('Captcha', document.getElementById('txtCaptcha').value);
+	            xReq.Execute(buildBox);
+            }
+            function buildBox(submitResponse)
+            {
+	            document.getElementById('ptkSubscribe').innerHTML = 
+		            submitResponse;
+            }
+            </script>
+            
+<script>///<reference name="MicrosoftAjax.js"/>
+
+Type.registerNamespace("AspDotNetStorefrontControls");
+
+AspDotNetStorefrontControls.NewsletterControl = function(element) {
+    AspDotNetStorefrontControls.NewsletterControl.initializeBase(this, [element]);
+}
+
+AspDotNetStorefrontControls.NewsletterControl.prototype = {
+    initialize: function() {
+        AspDotNetStorefrontControls.NewsletterControl.callBaseMethod(this, 'initialize');
+        
+        // Add custom initialization here
+    },
+    dispose: function() {        
+        //Add custom dispose actions here
+        AspDotNetStorefrontControls.NewsletterControl.callBaseMethod(this, 'dispose');
+    }
+    
+    
+}
+function enterSubmit(e)
+{
+    var key;
+    if(window.event) 
+	{
+	key = e.keyCode;
+	}
+else if(e.which) 
+	{
+	key = e.which;
+	}
+	if (key == 13)
+	{
+	    clickSubmit();
+	}
+}
+function clickSubmit()
+{
+   var firstName = $get('txt_NL_FirstName').value;
+   var lastName = $get('txt_NL_LastName').value;
+   var address = $get('txtEmailAddress').value;
+   var captcha = $get('txtCaptcha').value;
+   
+    AspDotNetStorefrontControls.NewsletterControlService.Subscribe(firstName, lastName, address, captcha, callback);
+       
+}
+
+function callback(res)
+{   
+    if (res == "CAPTCHA_ERROR")
     {
-        width: 1px;
+        AspDotNetStorefrontControls.NewsletterControlService.getCapthaErrorBlock(callback);
+        AspDotNetStorefrontControls.NewsletterControlService.ErrorStallback(callback);
     }
-    .style2
+    else if (res == "ADDRESS_ERROR")
     {
+        AspDotNetStorefrontControls.NewsletterControlService.getAddressErrorBlock(callback);
+        AspDotNetStorefrontControls.NewsletterControlService.ErrorStallback(callback);
     }
-</style>
-<div id="fixsearch" class="box" style="width:1001px;">
-    <div class="side_left">
-        <div class="side_right">
-            <div class="side_top">
-                <div class="left_top">
-                    <div class="right_top">
-                        <div class="PageHeader">
-                            <table width="100%">
-                                <tbody><tr>
-                                    <td>
-                                        <span class="logo"><a href="/Default.aspx">
-                                            <img alt="Redbell | Toy Store At Your Home" title="Redbell | Toy Store At Your Home" src="Images/logo.jpg" border="0"></a> </span>
-                                        <div class="currencySelector">
-                                            
-                                        </div>
-                                        <div class="languageSelector">
-                                            
-                                        </div>
-                                        <div class="headerLinks">
-                                            
-                                            
-                                            <a href="/account.aspx">My Account</a> |
-                                            
-                                                    <a href="/Login.aspx">
-                                                        Register with Redbell</a> | <a href="/Login.aspx">
-                                                            Log in</a>
-                                                
-                                            <br>
-                                            <table width="750px" border="0" cellspacing="0" cellpadding="0" align="right" height="40px">
-                                                <tbody><tr>
-                                                    <td colspan="2" height="15px">
-                                                    </td>
-                                                </tr>
-                                                <tr style="height: 30px;">
-                                                    <td width="400px">
-                                                        
-
-<script type="text/javascript">
-<!--
-    function submitenter(myfield, e, b) {
-        var keycode;
-        if (window.event) keycode = window.event.keyCode;
-        else if (e) keycode = e.which;
-        else return true;
-
-        if (keycode == 13 && myfield.value != "") {
-            b.click();
-            return false;
-        }
-        else
-            return true;
+    else
+    {
+        $get("ptkSubscribe").innerHTML = res;
     }
-    function IsSearchBoxEmpty(textbox) {
-        if (textbox.value == "" || textbox.value.length == 1) {
-            return false;
-            textbox.focus();
-        }
-        return true;
-    }
-//-->
-</script>
+}
 
-<table style="width: 500px">
-<tbody>
-    <tr>
-        <td>
-            <img id="ctl00_ctrlHeader_ctrlSearchBox_imgSearch" alt="Search" title="Search" src="images/SearchT.gif" border="0">
-        </td>
-        <td>
-            <input name="ctl00$ctrlHeader$ctrlSearchBox$txtSearchTerms" type="text" id="ctl00_ctrlHeader_ctrlSearchBox_txtSearchTerms" class="textBox" placeholder="Search..." onkeypress="return submitenter(ctl00_ctrlHeader_ctrlSearchBox_txtSearchTerms,event,ctl00_ctrlHeader_ctrlSearchBox_btnSearch)" style="border-width:1px;border-style:solid; font-family:Cambria; font-size:medium; border-color:Gray;">
-        </td>
-        <td>
-        <select name="ctl00$ctrlHeader$ctrlSearchBox$SearchParam" id="ctl00_ctrlHeader_ctrlSearchBox_SearchParam" style="border-width:1px;border-style:solid; border-color:Gray; font-family:Cambria; font-size:medium;">
-	<option value="Product">Product</option>
-	<option value="Category">Category</option>
-	<option value="Brand">Brand</option>
-	<option value="CharacterTheme">Character Theme</option>
-	<option value="SKU">SKU</option>
 
-</select>
-        </td>
-        <td>
-        <div style="margin-left:2px;">
-        <input type="submit" name="ctl00$ctrlHeader$ctrlSearchBox$btnSearch" value="Go!" onclick="return IsSearchBoxEmpty(ctl00_ctrlHeader_ctrlSearchBox_txtSearchTerms);" id="ctl00_ctrlHeader_ctrlSearchBox_btnSearch" class="button">&nbsp;&nbsp;
-        </div> 
-        </td>
-    </tr>
+AspDotNetStorefrontControls.NewsletterControl.registerClass('AspDotNetStorefrontControls.NewsletterControl', Sys.UI.Control);
+
+if (typeof(Sys) !== 'undefined') Sys.Application.notifyScriptLoaded();
+</script></span> 
+                        <!--poll Closed-->
+                        
+                    </div>
+    <!--Left Content Closed-->
+                    
+    <!--Right Content Start-->
+                    <div class="content">                        
+                        <!-- CONTENTS START -->
+                    
+    <div id="ctl00_PageContent_pnlContent">
+	
+        <!-- READ FROM DB --><p style="margin: 0cm 0cm 10pt;"><b>Security &amp; Privacy</b><br>
+<br>
+<b>Your Security and Privacy</b><br>
+Your privacy is important to us so we have created the following Privacy and Security Policy. This Privacy and Security Policy is governed by our Terms and Conditions. We may periodically make changes to this Privacy and Security Policy, which will be included on this page. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. <br>
+<br>
+<b>Collection of Information/What Information We Collect</b><br>
+<b>Redbell</b> collects information from its users when they register to gain access to our services or at other specific instances when they are requested to provide us with their personal &amp; business information. During registration, we ask the users for their name, email address, business information and other personal details. <i>We store information that we collect through registration, cookies and log files.</i> Once a user registers, he/she is no longer anonymous to <b>Redbell</b>. <i>Personally identifiable information is used by Redbell in order to provide tailored services and to improve the content of the site for you.</i><br>
+<br>
+When you are on our network and are asked for personal information, you are sharing the information with <b>Redbell</b> alone, unless it is specifically stated otherwise. Promotions that run on our network may be sponsored by companies other than <b>Redbell</b> or may be co-sponsored by <b>Redbell</b> and another company. Some or all data collected during a promotion may be shared with the sponsor. However, you can decide not to participate in the promotion if you don't want your data to be shared.<br>
+<br>
+We also gather usage statistics such as pages viewed, number of unique visitors, browser software, your IP address, screen resolution etc. for analysis that helps us provide you improved user experience and services.<br>
+<br>
+<b>Sharing of Information/Who We Share Your Information With</b><br>
+<i>For <b>Redbell</b> users, it is necessary to share your order information with a trusted dealer partner to complete your transaction. The dealer partner do not retain, share, store or use personally identifiable information for any purpose other than fulfilling the order and post order service.</i> <br>
+<br>
+As a general rule, <b>Redbell</b> will not disclose or share any of the user's personally identifiable information except when <b>Redbell</b> has the user's permission or under special circumstances, such as when <b>Redbell</b> believes in good faith that the law requires it or as permitted in terms of this policy.<br>
+<br>
+<b>Redbell</b> may also disclose account information in special cases when <b>Redbell</b> has reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating I <b>Redbell</b> 's Terms of Services or may be causing injury to or interference with (either intentionally or unintentionally) <b>Redbell</b> 's rights or property, other <b>Redbell</b> network website users, or if <b>Redbell</b> deems it necessary to maintain, service, and improve its products and services. Personal information collected may be transferred and shared in the event of a sale.<br>
+<br>
+<b>Who We Do Not Share Your Information With</b><br>
+<i>With the exception of dealer partners listed above, we absolutely do NOT share your personally identifiable information (email address, phone number, first or last name, birth date, or any other information) with ANY third-party or partner unless you explicitly request that we do. </i><br>
+<br>
+<b>Cookies</b><br>
+<i>From time to time, we may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. To protect your privacy we do not use cookies to store or transmit any personal information about you on the Internet. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies certain features of the site may not function properly as a result.<br>
+<br>
+</i><b>Updation of Information</b><br>
+A user may edit his/her account information and profile by logging onto our website and/or by sending a request to <a href="mailto:customerservice@redbell.com"><span style="color: #0000ff;">customerservice@redbell.com</span></a>.The requested changes may take up to 30 days to appear online because of verification process and server cache policies.<br>
+<br>
+A user account can be deleted or deactivated, but doing so will result in the user not being able to access the network. Residual information will remain within our archive records.<br>
+<br>
+<b>Protection of information</b><br>
+As with all information, <b>Redbell</b> does not sell any user's personal information or business information until and unless it is permitted by the user. Any user statistics that we may provide to prospective advertisers or partners regarding product or service usage on <b>Redbell</b> network is provided in an aggregate form only and does not include any personally identifiable information about any individual user. <br>
+<br>
+We request our users to sign out of their <b>Redbell</b> account and close their browser window when they have finished their work. This is to ensure that others cannot access their personal or business information and correspondence, if the user shares the computer with someone else or is using a computer in a public place. <br>
+<br>
+<b>Redbell</b> takes necessary steps, within its limits of commercial viability and necessity, to ensure that the user's information is treated securely.<br>
+<br>
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while <b>Redbell</b> strives to protect the user's personal &amp; business information, it cannot ensure the security of any information transmitted to <b>Redbell</b> and you do so at your own risk. Once <b>Redbell</b> receives your transmission, it makes best efforts to ensure its security in its systems. Please keep in mind that whenever you post personal &amp; business information online, that is accessible to the public, you may receive unsolicited messages from other parties. <br>
+<br>
+<b>Customer Service</b><br>
+<b><i>Redbell</i></b><i> will never ask for your login, personally identifiable or billing information in instant messages, or pop-ups. If you witness any of these possible scams, ignore them and inform <b>Redbell</b> at <b>+91 11 42696677</b><br>
+<br>
+ertain high value orders our customer service representative may request some identity verification proofs (such as scanned copies of driving license, PAN Card or any other document that has your name &amp; photograph on it) in an email format. This email will be sent only from </i><a href="mailto:customerservice@redbell.com"><i><span style="color: #0000ff;">customerservice@redbell.com</span></i></a><i> and no other email account. We will never ask for credit card information on email or phone. We take your privacy VERY seriously; if you feel <b>Redbell</b> is violating your privacy in any way, please contact at <b>+91 11 42696677</b></i><br>
+<br>
+<b>Changes in Security and Privacy Policy</b><br>
+The policy may change from time to time so please check periodically.</p><!-- END OF DB -->
+
+
+    
+</div>
+
+                <!-- CONTENTS END -->   
+                      
+                    
+</div>
+    <!--Content Closed-->
+   <!--Footer Start-->
+    <div id="footer">
+        <div class="top_footer">
+            <!-- Footer -->
+                 <table style="width: 100%;" cellspacing="0" cellpadding="0" align="center">
+    <tbody>
+        <tr>
+            <td colspan="4"><hr>
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 25%;">&nbsp;</td>
+            <td style="border: 0px solid #17365d;">
+            <h4>About Us</h4>
+            <ul>
+                <li><a href="t-about.aspx" target="blank">Company Info</a>&nbsp; </li>
+                <li><a href="t-WhyRedbell.aspx" target="blank">Why&nbsp;Redbell?</a>&nbsp; </li>
+                <li>&nbsp;Contact us</li>
+            </ul>
+            </td>
+            <td style="vertical-align: top; text-align: left; border: 0px solid;">
+            <h4><span style="font-size: 14px;">Help</span></h4>
+            <ul>
+                <li><a href="t-helpbox.aspx" target="blank"><span style="color: #068fe0;">Help</span></a>&nbsp; </li>
+                <li><a href="t-Safety Info.aspx" target="blank"><span style="color: #068fe0;">Safety Information</span></a>&nbsp; </li>
+                <li></li>
+            </ul>
+            </td>
+            <td style="vertical-align: top; text-align: left; border: 0px solid #17365d;">
+            <h4><span style="font-size: 14px;">Safe And Secure Shopping</span></h4>
+            <ul>
+                <li><a href="t-ShippingAndReturns.aspx" target="blank"><span style="color: #068fe0;">Shipping and Returns</span></a>&nbsp; </li>
+                <li><a href="t-termsandconditions.aspx" target="blank"><span style="color: #068fe0;">Terms And Conditions</span></a>&nbsp; </li>
+                <li><a href="t-security.aspx" target="blank"><span style="color: #068fe0;">Security And Privacy</span></a>&nbsp; </li>
+            </ul>
+            <p>&nbsp;</p>
+            </td>
+        </tr>
     </tbody>
 </table>
+           <!-- Footer End --> 
+        </div>
+        <div class="footer_bottom">
+         <p style="text-align: center;">Powered by <a href="http://www.ivend.com" target="_blank">CitiXsys</a></p>
 
-                                                    </td>
-                                                    <td style="border-left: #d6e8ff solid 2px;">
-                                                        <table>
-                                                            <tbody><tr>
-                                                                <td align="left" colspan="2">
-                                                                <a href="/StoreCreditjournal.aspx">
-                                                                    <img id="ctl00_ctrlHeader_Image1" title="Store Credit" src="images/Store_credit.jpg" alt="Store Credit" border="0">
-                                                                    </a>
-                                                                </td>
-                                                                <td align="left" style="width: 123px;">
-                                                                    <span id="ctl00_ctrlHeader_hlkStoreCredit">Rs 0</span>
-                                                                    
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <td align="right">
-                                                                    <a href="/AddStoreCredit.aspx">
-                                                                        <img alt="Add Store Credit" title="Add Store Credit" src="images/add_credit.png" border="0"></a>
-                                                                </td>
-                                                                <td align="left">
-                                                                    <a href="/AddStoreCredit.aspx" style="font-size: small; font-weight: normal; text-decoration: underline">
-                                                                        &nbsp;Add Credit</a>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody></table>
-                                                    </td>
-                                                    
-                                                </tr>
-                                                <tr style="height: 5px;">
-                                                    <td width="400px">
-                                                    </td>
-                                                    <td style="border-left: #d6e8ff solid 2px;">
-                                                    </td>
-                                                </tr>
-                                            </tbody></table>
-                                        </div>
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <!--Bottom Start-->
+         
+        <!--Bottom Closed-->
         </div>
     </div>
+    <!--Footer Closed-->
 </div>
-
-        <div class="clear">
-        </div>
-        
-
-
-<div id="hdrSection2">
-    <div id="hdrShoppingNav" style="height:43px">
-        <ul id="mainNav">
-            <li id="mainNav1"><a href="/AllCategories.aspx?Menu=1">
-                <img src="/menu/category.jpg" alt="Category" title="Category"></a>
-                <ul>
-                    <li><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/outdoor-play-1.aspx">Outdoor Play</a><a href="http://www.redbell.com/Category/slides-swings-2.aspx">Slides &amp; Swings</a><a href="http://www.redbell.com/Category/outdoor-games-3.aspx">Outdoor Games</a><a href="http://www.redbell.com/Category/riding-toys-9.aspx">Riding Toys</a><a href="http://www.redbell.com/Category/fun-stations-36.aspx">Fun Stations</a><a href="http://www.redbell.com/Category/pools-48.aspx">Pools</a><a class="more" href="http://www.redbell.com/Category/outdoor-play-1.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/art-craft-4.aspx">Art &amp; Craft</a><a href="http://www.redbell.com/Category/play-sets-94.aspx">Play Sets</a><a href="http://www.redbell.com/Category/etch-a-sketch-97.aspx">Etch A Sketch</a><a href="http://www.redbell.com/Category/craft-kits-100.aspx">Craft Kits</a><a href="http://www.redbell.com/Category/painting-kits-103.aspx">Painting Kits</a><a href="http://www.redbell.com/Category/drawing-coloring-220.aspx">Drawing &amp; Coloring</a><a class="more" href="http://www.redbell.com/Category/art-craft-4.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/preschool-6.aspx">Preschool</a><a href="http://www.redbell.com/Category/art-craft-7.aspx">Art &amp; Craft</a><a href="http://www.redbell.com/Category/riding-toys-8.aspx">Riding Toys</a><a href="http://www.redbell.com/Category/musical-toys-12.aspx">Musical Toys</a><a href="http://www.redbell.com/Category/electronic-learning-17.aspx">Electronic Learning</a><a href="http://www.redbell.com/Category/pretend-play-24.aspx">Pretend Play</a><a class="more" href="http://www.redbell.com/Category/preschool-6.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/baby-toys-13.aspx">Baby Toys</a><a href="http://www.redbell.com/Category/musical-toys-14.aspx">Musical Toys</a><a href="http://www.redbell.com/Category/riding-toys-15.aspx">Riding Toys</a><a href="http://www.redbell.com/Category/baby-gym-play-mats-16.aspx">Baby Gym &amp; Play Mats</a><a href="http://www.redbell.com/Category/early-development-toys-37.aspx">Early Development Toys</a><a href="http://www.redbell.com/Category/gift-sets-39.aspx">Gift Sets</a><a class="more" href="http://www.redbell.com/Category/baby-toys-13.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/learning-20.aspx">Learning</a><a href="http://www.redbell.com/Category/early-development-toys-21.aspx">Early Development Toys</a><a href="http://www.redbell.com/Category/activity-sets-25.aspx">Activity Sets</a><a href="http://www.redbell.com/Category/pretend-play-26.aspx">Pretend Play</a><a href="http://www.redbell.com/Category/reading-writing-31.aspx">Reading &amp; Writing</a><a href="http://www.redbell.com/Category/educational-games-32.aspx">Educational Games</a><a class="more" href="http://www.redbell.com/Category/learning-20.aspx">More &gt;&gt;</a></li><li><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/pretend-play-22.aspx">Pretend Play</a><a href="http://www.redbell.com/Category/play-sets-23.aspx">Play Sets</a><a href="http://www.redbell.com/Category/beauty-fashion-85.aspx">Beauty &amp; Fashion</a><a href="http://www.redbell.com/Category/lets-play-258.aspx">Lets Play</a><a href="http://www.redbell.com/Category/playhouse-262.aspx">Playhouse</a><a href="http://www.redbell.com/Category/climb-slide-263.aspx">Climb &amp; Slide</a><a class="more" href="http://www.redbell.com/Category/pretend-play-22.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/sporting-goods-43.aspx">Sporting Goods</a><a href="http://www.redbell.com/Category/individual-sports-44.aspx">Individual Sports</a><a href="http://www.redbell.com/Category/team-sports-47.aspx">Team Sports</a><a href="http://www.redbell.com/Category/play-sets-96.aspx">Play Sets</a><a href="http://www.redbell.com/Category/baseball-set-250.aspx">Baseball Set</a><a href="http://www.redbell.com/Category/sporting-goods-306.aspx">Sporting Goods</a><a class="more" href="http://www.redbell.com/Category/sporting-goods-43.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/dolls-45.aspx">Dolls</a><a href="http://www.redbell.com/Category/doll-houses-46.aspx">Doll Houses</a><a href="http://www.redbell.com/Category/fashion-dolls-84.aspx">Fashion Dolls</a><a href="http://www.redbell.com/Category/play-sets-86.aspx">Play Sets</a><a href="http://www.redbell.com/Category/princess-fairy-dolls-87.aspx">Princess &amp; Fairy Dolls</a><a href="http://www.redbell.com/Category/ethnic-88.aspx">Ethnic</a><a class="more" href="http://www.redbell.com/Category/dolls-45.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/building-sets-blocks-49.aspx">Building Sets &amp; Blocks</a><a href="http://www.redbell.com/Category/building-sets-53.aspx">Building Sets</a><a href="http://www.redbell.com/Category/play-sets-58.aspx">Play Sets</a><a href="http://www.redbell.com/Category/bricks-blocks-62.aspx">Bricks &amp; Blocks</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/play-remote-control-vehicles-51.aspx">Play &amp; Remote Control Vehicles</a><a href="http://www.redbell.com/Category/train-train-set-52.aspx">Train &amp; Train Set</a><a href="http://www.redbell.com/Category/trucks-54.aspx">Trucks</a><a href="http://www.redbell.com/Category/remote-control-vehicles-59.aspx">Remote Control Vehicles</a><a href="http://www.redbell.com/Category/cars-63.aspx">Cars</a><a href="http://www.redbell.com/Category/action-track-sets-64.aspx">Action Track Sets</a><a class="more" href="http://www.redbell.com/Category/play-remote-control-vehicles-51.aspx">More &gt;&gt;</a></li><li><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/action-figures-56.aspx">Action Figures</a><a href="http://www.redbell.com/Category/play-sets-57.aspx">Play Sets</a><a href="http://www.redbell.com/Category/play-vehicles-60.aspx">Play Vehicles</a><a href="http://www.redbell.com/Category/robots-61.aspx">Robots</a><a href="http://www.redbell.com/Category/action-track-sets-98.aspx">Action Track Sets</a><a href="http://www.redbell.com/Category/alien-figures-128.aspx">Alien Figures</a><a class="more" href="http://www.redbell.com/Category/action-figures-56.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/games-puzzles-66.aspx">Games &amp; Puzzles</a><a href="http://www.redbell.com/Category/interactive-toys-67.aspx">Interactive Toys</a><a href="http://www.redbell.com/Category/action-games-68.aspx">Action Games</a><a href="http://www.redbell.com/Category/interactive-games-69.aspx">Interactive Games</a><a href="http://www.redbell.com/Category/board-games-104.aspx">Board Games</a><a href="http://www.redbell.com/Category/puzzles-107.aspx">Puzzles</a><a class="more" href="http://www.redbell.com/Category/games-puzzles-66.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/books-musics-educational-cd-dvd-70.aspx">Books, Musics, Educational CD &amp; Dvd</a><a href="http://www.redbell.com/Category/books-71.aspx">Books</a><a href="http://www.redbell.com/Category/musical-instrument-132.aspx">Musical Instrument</a><a href="http://www.redbell.com/Category/story-books-154.aspx">Story Books</a><a href="http://www.redbell.com/Category/cd-dvd-176.aspx">CD &amp; DVD</a><a href="http://www.redbell.com/Category/activity-book-206.aspx">Activity Book</a><a class="more" href="http://www.redbell.com/Category/books-musics-educational-cd-dvd-70.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/electronics-78.aspx">Electronics</a><a href="http://www.redbell.com/Category/tv-79.aspx">TV</a><a href="http://www.redbell.com/Category/audio-cd-player-80.aspx">Audio CD Player</a><a href="http://www.redbell.com/Category/dvd-player-81.aspx">DVD Player</a><a href="http://www.redbell.com/Category/remote-control-vehicles-116.aspx">Remote Control Vehicles</a><a href="http://www.redbell.com/Category/play-sets-129.aspx">Play Sets</a><a class="more" href="http://www.redbell.com/Category/electronics-78.aspx">More &gt;&gt;</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/kids-fashion-101.aspx">Kids Fashion</a><a href="http://www.redbell.com/Category/girls-world-102.aspx">Girls World</a><a href="http://www.redbell.com/Category/fashion-world-177.aspx">Fashion World</a><a href="http://www.redbell.com/Category/beauty-fashion-225.aspx">Beauty &amp; Fashion</a><a href="http://www.redbell.com/Category/earbuds-329.aspx">Earbuds</a><a href="http://www.redbell.com/Category/headphones-331.aspx">Headphones</a><a class="more" href="http://www.redbell.com/Category/kids-fashion-101.aspx">More &gt;&gt;</a></li><li><a class="hdrMenuTab1Cat" href="ReturnGift.aspx">Birthday Return Gifts</a><a href="ReturnGift.aspx">Gift Sets</a><a href="http://www.redbell.com/Category/books-208.aspx">Books</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/bikes-riding-toys-149.aspx">Bikes &amp;  Riding Toys</a><a href="http://www.redbell.com/Category/scooters-151.aspx">Scooters</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/kids-room-191.aspx">Kids Room</a><a href="http://www.redbell.com/Category/room-dcor-198.aspx">Room Décor</a><a href="http://www.redbell.com/Category/room-dcor-221.aspx">Room  Décor</a><a href="http://www.redbell.com/Category/play-decorate-235.aspx">Play &amp; Decorate</a><a class="hdrMenuTab1Cat" href="http://www.redbell.com/Category/bogo-deal-257.aspx">Bogo Deal</a></li><br><br><a class="promo" href="HotDeals/Default.aspx"><img src="Images/menu_promo.gif" border="0"></a>
-
-
-                </ul>
-            </li>
-            <li id="mainNav2"><a href="/Allage.aspx?Menu=2">
-
-
-                <img src="/menu/Age.jpg" alt="Age" title="Age"></a>
-                <ul>
-                    
-                    <li><a href="/Search/SearchPage.aspx?age=Birth - 12 Months" class="hdrMenuTopic">Birth to 12 Months</a></li>
-                    <li><a href="/Search/SearchPage.aspx?age=12 - 24 Months" class="hdrMenuTopic">12 to 24 Months</a></li>
-                    <li><a href="/Search/SearchPage.aspx?age=2 - 3 Years" class="hdrMenuTopic">2 to 3 Years</a></li>
-                    <li><a href="/Search/SearchPage.aspx?age=3 - 5 Years" class="hdrMenuTopic">3 to 5 Years</a></li>
-                    <li><a href="/Search/SearchPage.aspx?age=5 - 8 Years" class="hdrMenuTopic">5 to 8 Years</a></li>
-                    <li><a href="/Search/SearchPage.aspx?age=8 - 12 Years" class="hdrMenuTopic">8 to 12 Years</a></li>
-                    <li><a href="/Search/SearchPage.aspx?age=12 - 14 Years" class="hdrMenuTopic">12 to 14 Years</a></li>
-                    <li><a href="/Search/SearchPage.aspx?age=Big%20Kids" class="hdrMenuTopic">
-                        Big Kids</a></li>
-                </ul>
-            </li>
-           
-            <li id="mainNav4"><a href="/AllBrands.aspx?Menu=3">
-                <img src="/menu/Brand.jpg" alt="Brand" title="Brand"></a>
-                <ul>
-                    <li><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Step2">Step2</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=OK-Play">OK-Play</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Leap Frog">Leap Frog</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Barbie">Barbie</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Hot Wheels">Hot Wheels</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Disney">Disney</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Disney Princess">Disney Princess</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=High School Musical 3">High School Musical 3</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Fisher-Price">Fisher-Price</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Little Mommy">Little Mommy</a></li><li><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Matchbox">Matchbox</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Funskool">Funskool</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Tomy">Tomy</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Playskool">Playskool</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Noddy">Noddy</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Mitashi">Mitashi</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Maisto">Maisto</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Wowwee">Wowwee</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Redbell">Redbell</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=HCL ME">HCL ME</a></li><li><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Frank">Frank</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Chicoo">Chicoo</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Wild Republic">Wild Republic</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Denkosekka">Denkosekka</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Spy Gear">Spy Gear</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Zapak">Zapak</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Funzoo">Funzoo</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Realtoy">Realtoy</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Zapak Tactic">Zapak Tactic</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Mee Mee">Mee Mee</a></li><li><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Blueberry">Blueberry</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Skillofun">Skillofun</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Zoggs">Zoggs</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Khet">Khet</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=MOLTO">MOLTO</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Playplay">Playplay</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Raster">Raster</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Role Play">Role Play</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Dream-Creation">Dream-Creation</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Lerado">Lerado</a></li><li><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Yedoo">Yedoo</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Daydream">Daydream</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Hannah Montana">Hannah Montana</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Micro">Micro</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Mattel">Mattel</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Annie">Annie</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Totum">Totum</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=IMC">IMC</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Cardinal">Cardinal</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=A2E">A2E</a></li><li><a class="hdrMenuTopic" href="Search/SearchPage.aspx?brand=Zeeva">Zeeva</a></li>
-
-                </ul>
-            </li>
-            <li id="mainNav5">
-                <img src="/menu/Price.jpg" alt="Price" title="Price">
-                <ul>
-                    <li><a class="hdrMenuTopic" href="Search/SearchPage.aspx?price=0-250">0-250</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?price=250-500">250-500</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?price=500-750">500-750</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?price=750-1000">750-1000</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?price=1000-2000">1000-2000</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?price=2000-3500">2000-3500</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?price=3500-5000">3500-5000</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?price=5000-10000">5000-10000</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?price=10000-50000">10000-50000</a><a class="hdrMenuTopic" href="Search/SearchPage.aspx?price=50000-700000">50000-700000</a></li><li></li>
-                    
-                </ul>
-            </li>
-             <li id="mainNav3"><a href="/AllThemes.aspx?Menu=5">
-                <img src="/menu/Theme.jpg" alt="Character/Theme" title="Character/Theme"></a>
-                <ul>
-                    <li><a class="hdrMenuTopic" href="CharacterTheme.aspx?Theme=Barbie">Barbie</a><a class="hdrMenuTopic" href="CharacterTheme.aspx?Theme=Hannah+Montana">Hannah Montana</a><a class="hdrMenuTopic" href="CharacterTheme.aspx?Theme=Disney+Princess">Disney Princess</a><a class="hdrMenuTopic" href="CharacterTheme.aspx?Theme=Little+Mommy">Little Mommy</a><a class="hdrMenuTopic" href="CharacterTheme.aspx?Theme=Noddy">Noddy</a><a class="hdrMenuTopic" href="CharacterTheme.aspx?Theme=Mickey+Mouse">Mickey Mouse</a><a class="hdrMenuTopic" href="CharacterTheme.aspx?Theme=Dora">Dora</a><a class="hdrMenuTopic" href="CharacterTheme.aspx?Theme=Pogo">Pogo</a></li><li><a class="hdrMenuTopic" href="CharacterTheme.aspx?Theme=Ben+10">Ben 10</a><a class="hdrMenuTopic" href="CharacterTheme.aspx?Theme=Angry+Bird">Angry Bird</a></li>
-
-                </ul>
-            </li>
-            <li id="mainNav6">
-                <img src="/menu/Gift.jpg" alt="Gift Certificate" title="Gift Certificate">
-                 <ul>
-                  <li><a href="/GiftCertificate.aspx" class="hdrMenuTopic">Buy</a></li>
-                    <li><a href="/GCRedeem.aspx" class="hdrMenuTopic">Redeem</a></li>
-                </ul>
-                 </li>
-            <li id="mainNav7">
-                <table width="184px" cellpadding="0" cellspacing="0">
-                    <tbody><tr><td style="width: 184px;">
-                    <a href="/clearance.aspx?Menu=7">
-                    <img src="/menu/clear1.jpg" alt="Clearance Sale" title="Clearance Sale"></a>
-                    </td>
-                        
-                    </tr>
-                </tbody></table>
-            </li>
-            <li id="mainNav8">
-                <table width="229px" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                        <td style="width: 109px; background-color:#ffedd7;"><a href="/ShoppingCart.aspx"><img src="/menu/cart.jpg" alt="Shopping Cart" title="Shopping Cart"></a></td>
-                        <td background="/menu/round.jpg" alt="Shopping Cart" title="Shopping Cart" valign="middle" align="center" width="30px"><a href="/ShoppingCart.aspx"><b>0</b></a></td>
-                        <td style="width: 58px;"><img src="/menu/items.jpg" alt="Wishlist" title="Wishlist"></td>
-                        <td style="width: 32px; background: #ffedd7;"></td>
-                    </tr>
-                </tbody></table>
-            </li>
-            
-        </ul>
-    </div>
-</div>
-
-        <div style="background-color: #d6e8ff">
-            <a href="/combooffers.aspx">
-                <img src="/images/gd_bn.jpg"></a>
-        </div>
-        <div class="clear">
-        </div>
-        <div class="PageCenter">
-            <table cellspacing="0" cellpadding="0" border="0" width="1px">
-                <tbody><tr>
-                    <td valign="top" class="style4">
-                        <div class="ColumnLeft">
-                            <!-- <img id="ctl00_Image1" src="images/narrow.gif" border="0" />-->
-                            <div class="clear">
-                            </div>
-                            <div class="clear">
-                            </div>
-                            <!--
-<div class="infoblock-navigation">
-    <div class="title">
-        Information
-    </div>
-    <div class="clear">
-    </div>
-    <div class="listbox">
-        <ul>
-            <li><a href="/ShippingInfo.aspx">
-                Shipping & Returns</a></li>
-            <li><a href="/PrivacyInfo.aspx">
-                Privacy Notice</a></li>
-            <li><a href="/ConditionsInfo.aspx">
-                Conditions of Use</a></li>
-            
-            <li><a href="/Blog.aspx">
-                Blog</a></li>
-            
-            <li><a href="/RecentlyAddedProducts.aspx">
-                New products</a></li>
-            <li><a href="/RecentlyViewedProducts.aspx">
-                Recently viewed products</a></li>
-            
-            <li><a href="/CompareProducts.aspx">
-                Compare products list</a></li>
-            
-            <li><a href="/ContactUs.aspx">
-                Contact Us</a> </li>
-        </ul>
-    </div>
-</div>
--->
-                        </div>
-                    </td>
-                    <td class="ColumnSeparator">
-                    </td>
-                    <td valign="top">
-                        <div class="ColumnRight">
-                            
-<script src="js/jquery-1.6.2.min.js" type="text/javascript"></script>
-<div align="center"><table width="800px" align="center"><tbody><tr><td align="left">
-<span style="font-size:16px"><b>Security &amp; Privacy</b></span><br><br>
-<b>Your Security and Privacy</b><br>
-Your privacy is important to us so we have created the following Privacy and Security Policy. This Privacy and 
-Security Policy is governed by our Terms and Conditions. We may periodically make changes to this Privacy and Security 
-Policy, which will be included on this page. It is your responsibility to review this Privacy and Security Policy 
-frequently and remain informed about any changes to it, so we encourage you to visit this page often. <br><br>
-
-<b>Collection of Information/What Information We Collect</b><br>
-<b>Redbell</b> collects information from its users when they register to gain access to our services or at other specific 
-instances when they are requested to provide us with their personal &amp; business information. During registration, 
-we ask the users for their name, email address, business information and other personal details. <i>We store information 
-that we collect through registration, cookies and log files.</i> Once a user registers, he/she is no longer anonymous to 
-<b>Redbell</b>. <i>Personally identifiable information is used by Redbell in order to provide tailored services and to improve 
-the content of the site for you.</i><br><br>
-When you are on our network and are asked for personal information, you are sharing the information with <b>Redbell</b> 
-alone, unless it is specifically stated otherwise. Promotions that run on our network may be sponsored by companies 
-other than <b>Redbell</b> or may be co-sponsored by <b>Redbell</b> and another company. Some or all data collected during a 
-promotion may be shared with the sponsor. However, you can decide not to participate in the promotion if you don't 
-want your data to be shared.<br><br>
-We also gather usage statistics such as pages viewed, number of unique visitors, browser software, your IP address, 
-screen resolution etc. for analysis that helps us provide you improved user experience and services.<br><br>
-
-<b>Sharing of Information/Who We Share Your Information With</b><br>
-<i>For <b>Redbell</b> users, it is necessary to share your order information with a trusted dealer partner to complete your 
-transaction. The dealer partner do not retain, share, store or use personally identifiable information for any purpose 
-other than fulfilling the order and post order service.</i> <br><br>
-As a general rule, <b>Redbell</b> will not disclose or share any of the user's personally identifiable information except 
-when <b>Redbell</b> has the user's permission or under special circumstances, such as when <b>Redbell</b> believes in good faith 
-that the law requires it or as permitted in terms of this policy.<br><br>
-<b>Redbell</b> may also disclose account information in special cases when <b>Redbell</b> has reasons to believe that disclosing 
-this information is necessary to identify, contact or bring legal action against someone who may be violating I 
-<b>Redbell</b> 's Terms of Services or may be causing injury to or interference with (either intentionally or unintentionally) 
-<b>Redbell</b> 's rights or property, other <b>Redbell</b> network website users, or if <b>Redbell</b> deems it necessary to maintain, 
-service, and improve its products and services. Personal information collected may be transferred and shared in the 
-event of a sale.<br><br>
-
-<b>Who We Do Not Share Your Information With</b><br>
-<i>With the exception of dealer partners listed above, we absolutely do NOT share your personally identifiable 
-information (email address, phone number, first or last name, birth date, or any other information) with ANY 
-third-party or partner unless you explicitly request that we do. </i><br><br>
-
-<b>Cookies</b><br>
-<i>From time to time, we may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a 
-web server and stored on your computer's hard drive, that help us to recognize you if you visit our website again. 
-Also, our site uses cookies to track how you found our site. To protect your privacy we do not use cookies to store 
-or transmit any personal information about you on the Internet. You have the ability to accept or decline cookies. 
-Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies 
-if you prefer. If you choose to decline cookies certain features of the site may not function properly as a result.<br><br></i>
-
-<b>Updation of Information</b><br>
-A user may edit his/her account information and profile by logging onto our website and/or by sending a request to 
-<a href="mailto:customerservice@pr.redbell.com"> customerservice@pr.redbell.com</a>.The requested changes may take up to 30 days to appear online because of verification 
-process and server cache policies.<br><br>
-
-A user account can be deleted or deactivated, but doing so will result in the user not being able to access the 
-network. Residual information will remain within our archive records.<br><br>
-
-<b>Protection of information</b><br>
-As with all information, <b>Redbell</b> does not sell any user's personal information or business information until and 
-unless it is permitted by the user. Any user statistics that we may provide to prospective advertisers or partners 
-regarding product or service usage on <b>Redbell</b> network is provided in an aggregate form only and does not include any 
-personally identifiable information about any individual user. <br><br>
-
-We request our users to sign out of their <b>Redbell</b> account and close their browser window when they have finished 
-their work. This is to ensure that others cannot access their personal or business information and correspondence, 
-if the user shares the computer with someone else or is using a computer in a public place. <br><br>
-
-<b>Redbell</b> takes necessary steps, within its limits of commercial viability and necessity, to ensure that the 
-user's information is treated securely.<br><br>
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while <b>Redbell</b> 
-strives to protect the user's personal &amp; business information, it cannot ensure the security of any information 
-transmitted to <b>Redbell</b> and you do so at your own risk. Once <b>Redbell</b> receives your transmission, it makes best efforts 
-to ensure its security in its systems. Please keep in mind that whenever you post personal &amp; business information 
-online, that is accessible to the public, you may receive unsolicited messages from other parties. <br><br>
-
-<b>Customer Service</b><br>
-<i><b>Redbell</b> will never ask for your login, personally identifiable or billing information in instant messages, or pop-ups. 
-If  you witness any of these possible scams, ignore them and inform <b>Redbell</b> at <b>+91 11 43757879</b>.<br><br>
-
-For certain high value orders our customer service representative may request some identity verification proofs 
-(such as scanned copies of driving license, PAN Card or any other document that has your name &amp; photograph on it) in 
-an email format. This email will be sent only from <a href="mailto:customerservice@pr.redbell.com"> customerservice@pr.redbell.com</a> and no other email account. We will 
-never ask for credit card information on email or phone. We take your privacy VERY seriously; if you feel <b>Redbell</b> is 
-violating your privacy in any way, please contact at <b>+91 11 43757879</b>.</i>
-<br><br>
-
-<b>Changes in Security and Privacy Policy</b><br>
-The policy may change from time to time so please check periodically.<br><br>
-
-</td></tr></tbody></table></div>
-
-                        </div>
-                    </td>
-                </tr>
-            </tbody></table>
-        </div>
-        <div class="clear">
-        </div>
-        
-
-<style type="text/css">
-    .style3
-    {
-        width: 100%;
-    }
-    .style4
-    {
-        height: 33px;
-    }
-</style>
-<div class="PageWrapper" style="min-height:0;">
-<div align="center">
-
-<img id="ctl00_ctrlFooter_Image7" src="images/line.jpg" border="0">
-<table width="99%" border="0" cellpadding="0" cellspacing="0" bgcolor="#d6e8ff" style="font-size:11px;">
-  <tbody><tr>
-    <td width="2%">&nbsp;</td>
-    <td colspan="6">&nbsp;</td>
-    <td width="2%">&nbsp;</td>
-  </tr>
-  <tr align="left">
-    <td width="2%" height="20">&nbsp;</td>
-    <td width="14%"><img id="ctl00_ctrlFooter_Image1" src="images/YourOrder_f.jpg" border="0"></td>
-    <td width="16%"><img id="ctl00_ctrlFooter_Image8" src="images/ql.jpg" border="0"></td>
-    <td width="17%"><img id="ctl00_ctrlFooter_Image3" src="images/gift_f.jpg" border="0"></td>
-    <td width="14%"><img id="ctl00_ctrlFooter_Image4" src="images/about_f.jpg" border="0"></td>
-    <td width="15%"><img id="ctl00_ctrlFooter_Image2" src="images/help_f.jpg" border="0"></td>
-    <td width="23%"><img id="ctl00_ctrlFooter_Image5" src="images/safe_f.jpg" border="0"></td>
-    <td width="2%">&nbsp;</td>
-  </tr>
-  <tr align="left" valign="top">
-    <td width="2%">&nbsp;</td>
-    <td width="14%">
-    
-    <a href="/Account.aspx">My Info</a><br>
-    <a href="/Account.aspx?TabIndex=1">My Addressess</a><br>
-    <a href="/Account.aspx?TabIndex=2">My Orders</a><br>
- 
-    
-    </td>
-    <td width="14%">
-    <a href="/RecentlyAddedProducts.aspx">New Products</a><br>
-    <a href="/hotdeals/default.aspx">Promotional Products</a><br>
-    <a href="/recentlyviewedproducts.aspx">Recently Viewed Products</a>
-    
-    </td>
-    <td width="14%">
-    <a href="/GiftCertificate.aspx">Buy Gift Certificate</a><br>
-    <a href="/GCRedeem.aspx">Redeem Gift Certificate</a><br>
-    <a href="/returngift.aspx">Birthday Return Gifts</a>
-    </td>
-    <td width="14%">
-    <a href="/AboutUs.aspx">Company Info</a><br>
-    <a href="/WhyRedbell.aspx">Why Redbell?</a><br>
-    <a href="/ContactUs.aspx">Contact Us</a>
-    </td>
-    <td width="15%">
-    <a href="/Help.aspx">Help</a><br>
-    <a href="/safety.aspx">Safety Information</a><br>
-    <a href="/feedback.aspx">Feedback</a>
-    
-    </td>
-    <td width="23%" align="left">
-    <a href="/ShippingInfo.aspx">Shipping &amp; Returns</a><br>
-    <a href="/TermsConditions.aspx">Terms &amp; Conditions</a><br>
-    <a href="/Security.aspx">Security &amp; Privacy</a><br>
-    </td>
-    <td width="2%">&nbsp;</td>
-  </tr>
-  <tr>
-    <td width="2%">&nbsp;</td>
-    <td colspan="6">&nbsp;</td>
-    <td width="2%">&nbsp;</td>
-  </tr>
-</tbody></table>
-
+<!--Main Closed-->
 
 </div>
-<div align="center">
-    <table>
-        <tbody><tr>
-            <td align="center" style="color:#0055af; font-size:14px; height:35px;">
-               Our customer service specialists are available from Monday to Saturday (10 AM to 7 PM) at <b>011-42696677</b> (toll free) 
-    
-    </td>
-        </tr>
-        <tr>
-            <td align="center" style="font-size:11px" valign="top">
-                    Copyright © 2010 Redbell.com. All Rights Reserved.<br><br></td>
-        </tr>
-        <tr>
-            <td align="center" valign="top">
-            
-    <a href="http://www.americanexpress.com/india/homepage.shtml" target="_blank"><img id="ctl00_ctrlFooter_Image11" src="images/amex.gif" border="0"></a>&nbsp;
-    <a href="http://usa.visa.com/personal/security/visa_security_program/vbv/verified_by_visa_faq.html" target="_blank"><img id="ctl00_ctrlFooter_Image6" src="images/v-visa.gif" border="0"></a>&nbsp;
-    <a href="http://www.mastercard.com/in/merchant/en/security/what_can_do/SecureCode/index.html" target="_blank"><img id="ctl00_ctrlFooter_Image10" src="images/mastersecure.gif" border="0"></a>&nbsp;&nbsp;
-    <a href="http://www.hdfcbank.com/personal/default.htm" target="_blank"><img id="ctl00_ctrlFooter_Image9" src="images/hdfc.gif" border="0"></a>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" valign="top" style="height:10px">
-           
-            </td>
-        </tr>
-    </tbody></table>
-    </div>
 </div>
+<div><script>
+                      $('document').ready(function(){
 
-        
-        
+                      $('#minicartspan').addClass("active"); $('#minicart').css('display', 'block');
+                      setTimeout(function () {$('#minicartspan').removeClass("active"); }, 5000)
+
+                      $('#cartcontent').html('Fetching...');
+                      $.post('ajaxCXSRequestExecuter.aspx?packageid=popupminicart.xml.config', {}, function (data) {
+                      $('#cartcontent').html(data);
+
+                      });
+
+
+                      });
+                    </script></div>
+
+
 
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindow, {"_dockMode":false,"clientStateFieldID":"ctl00_RadWindowMaster_ClientState","enableShadow":true,"formID":"aspnetForm","height":"600px","iconUrl":"","minimizeIconUrl":"","name":"RadWindowMaster","reloadOnShow":true,"showContentDuringLoad":false,"skin":"Default","visibleStatusbar":false,"width":"800px"}, null, null, $get("ctl00_RadWindowMaster"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindowManager, {"clientStateFieldID":"ctl00_RadWindowManager_ClientState","enableShadow":true,"formID":"aspnetForm","iconUrl":"","minimizeIconUrl":"","name":"RadWindowManager","reloadOnShow":true,"skin":"Default","visibleStatusbar":false,"windowControls":"['ctl00_RadWindowMaster']"}, null, {"child":"ctl00_RadWindowMaster"}, $get("ctl00_RadWindowManager"));
+});
+Sys.Application.add_init(function() {
+    $create(AspDotNetStorefrontControls.NewsletterControl, null, null, null, $get("ctl00_NewsletterControl1"));
+});
 //]]>
 </script>
 </form>
-    </div>
 
-    <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-    <script type="text/javascript">
-        try {
-            var pageTracker = _gat._getTracker("UA-9347007-1");
-            pageTracker._trackPageview();
-        } catch (err) { }</script>
-
-    <!-- Google Code for Sale Conversion Page -->
-
-    <script language="JavaScript" type="text/javascript">
-<!--
-        var google_conversion_id = 1031093250;
-        var google_conversion_language = "en_US";
-        var google_conversion_format = "3";
-        var google_conversion_color = "ffffff";
-        var google_conversion_label = "p8K4CIzNigEQgvjU6wM";
-//-->
-    </script>
-
-    <script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js">
-    </script>
-
-    <noscript>
-        <img height="1" width="1" border="0" src="http://www.googleadservices.com/pagead/conversion/1031093250/?label=p8K4CIzNigEQgvjU6wM&amp;guid=ON&amp;script=0" />
-    </noscript>
-
-    <script language="JavaScript" type="text/javascript">
-<!-- Yahoo!
-var ysm_accountid  = "1U40VQB6DJA71OMS1CH4NKLG29K";
-document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
-+ "SRC=//" + "srv3.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
-+ "></SCR" + "IPT>");
-// -->
-    </script><script language="JavaScript" type="text/javascript" src="//srv3.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1U40VQB6DJA71OMS1CH4NKLG29K"></script>
+   <script type="text/javascript" src="jscripts/base.js"></script> 
+ <!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+     
 
 
-<script src="js/jquery-ui-1.8.custom.min.js" type="text/javascript"></script>
+
 
 </body></html>
