@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034951id_/http%3A//coull.com/cookies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220081239id_/http%3A//coull.com/cookies-privacy) for the most accurate reproduction.*
 
 # Coull | Privacy Policy
 
