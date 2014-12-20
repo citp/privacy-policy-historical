@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motricity.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140915id_/http%3A//www.voltari.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motricity.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220030440id_/http%3A//www.voltari.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | voltari.com
 
 Your privacy is important to us. This Privacy Policy will tell you what information we collect, how we collect it, how we use it, how we disclose it, how we protect it, and what choices you have with respect to all of the above. We urge you to read this Privacy Policy so that you will understand both our commitment to you and your privacy, and how you can participate in that commitment.
 
-This Privacy Policy governs the information collection and disclosure practices for the web sites and mobile data services operated by Voltari, Inc. and its subsidiaries (collectively, the "Company", or "we" or "us"). The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: [www.motricity.com](http://www.motricity.com/), [www.voltari.com](http://www.voltari.com/), [www.serranomobile.com](http://www.serranomobile.com/), [www.mcore.com](http://www.mcore.com/), and [www.yourmobile.com](http://www.yourmobile.com/) (each a "Web Site" and collectively the "Web Sites").
+This Privacy Policy governs the information collection and disclosure practices for the web sites and mobile data services operated by Voltari, Inc. and its subsidiaries (collectively, the "Company", or "we" or "us"). The Company's web sites include, but are not necessarily limited to, all of the following web sites, each of which is operated (either directly or through one or more wholly-owned subsidiaries) by the Company: www.motricity.com, www.voltari.com, www.serranomobile.com, www.mcore.com, and www.yourmobile.com (each a "Web Site" and collectively the "Web Sites").
 
 ## Changes to this Policy
 
@@ -138,7 +138,7 @@ Questions regarding children's privacy should be directed to us at the contact i
 
 ### Safe Harbor
 
-We abide by the European Union ("EU") Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the EU. Our privacy practices with respect to personal data collected from individuals residing in the EU are self-certified to the Safe Harbor Program developed by the US Department of Commerce and the European Commission. For more information about the Safe Harbor Program, please go to <http://export.gov/safeharbor/>. Terms that are capitalized below have the same meanings given to them as part of the Safe Harbor Program.
+We abide by the European Union ("EU") Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the EU. Our privacy practices with respect to personal data collected from individuals residing in the EU are self-certified to the Safe Harbor Program developed by the US Department of Commerce and the European Commission. For more information about the Safe Harbor Program, please go to http://export.gov/safeharbor/. Terms that are capitalized below have the same meanings given to them as part of the Safe Harbor Program.
 
 ### Mobile Services
 
@@ -158,7 +158,7 @@ Voltari verifies that this Privacy Policy is accurate, comprehensive, and comple
 
 ### Enforcement
 
-If you have any questions or concerns regarding our Privacy Policy, please direct them to us at the contact information provided below. We have instituted internal policies and procedures for handling such submissions and will respond to you in a timely manner. If you do not receive acknowledgement of your inquiry, or if it is not satisfactorily addressed, you may contact the Federal Trade Commission for further action on your complaint at [www.ftc.gov/privacy](http://www.ftc.gov/privacy).
+If you have any questions or concerns regarding our Privacy Policy, please direct them to us at the contact information provided below. We have instituted internal policies and procedures for handling such submissions and will respond to you in a timely manner. If you do not receive acknowledgement of your inquiry, or if it is not satisfactorily addressed, you may contact the Federal Trade Commission for further action on your complaint at www.ftc.gov/privacy.
 
 ## Contacting Us
 
