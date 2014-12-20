@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luluguinness.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509041138id_/http%3A//www.luluguinness.com/security/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luluguinness.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221004958id_/http%3A//www.luluguinness.com/security/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Lulu Guinness
 
