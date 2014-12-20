@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaaryah.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524015015id_/http%3A//www.kaaryah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaaryah.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220121746id_/http%3A//www.kaaryah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,12 +9,8 @@ We ensure the privacy of all our members.
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE.  **  
 **
 
-**Enjoy Secure Shopping**
-
 We use encryption technology, digital certificates, secure commerce servers, and authentication to ensure that your personal information is secure online.  **  
 **
-
-**Your Registration or Account**
 
 **KAARYAH** keeps track of your information to offer you the best possible shopping experience. Before completing your purchase, we ask you for your name, phone number, email, billing and shipping addresses. This information, along with your payment method, is necessary to fulfill your order. This information may be disclosed to specific members of our staff and to select third parties (such as our credit card processor and shipping provider) involved in the completion of your transaction and delivery of your order. We may also need your email address or phone numbers to contact you if we have questions about your order. We or our associate companies may also use your email address to notify you about new services or special promotional programs, or send you offers or information if you have opted-in. Emails are sent only to  **KAARYAH** members who have chosen to receive them (opted-in) or who have made a purchase on our website. At any time, you can notify us that you wish to stop receiving these emails. Additionally, we keep a record of your past purchases, returns, and credits. We may also ask you for information regarding your personal preferences and demographics to help us better meet your needs.  **  
 **
