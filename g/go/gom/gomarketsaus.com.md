@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the gomarketsaus.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616214747id_/http%3A//www.gomarketsaus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomarketsaus.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221002023id_/http%3A//www.gomarketsaus.com/privacy-policy) for the most accurate reproduction.*
 
 # GO Markets - Foreign Exchange (forex) Trading - Privacy Policy
 
-### Our Commitment
+* * *
+
+## Our Commitment
 
 **GO Markets**  is committed to providing you with the highest levels of client service. We recognise that your privacy is very important to you and we respect the confidentiality of information and the privacy of individuals. Your personal information will be treated strictly in accordance with the Australian Privacy Principles in the  _Privacy Act 1988_  (Cth) and the "private sector amendments" contained in the  _Privacy Amendment (Enhancing Privacy Protection) Act 2012_  (Cth). Further information on privacy in Australia may be obtained by visiting the website of the Office of the Federal Privacy Commissioner at  **[http://www.privacy.gov.au](http://www.privacy.gov.au/)**.
 
@@ -10,7 +12,9 @@
 
 We encourage you to check our website regularly for any updates to our  **Privacy Policy**.
 
-### Why We Collect Personal Information
+* * *
+
+## Why We Collect Personal Information
 
 **GO Markets**  is required to meet particular legislative and regulatory requirements which requires us to collect certain personal information from you for the purposes of:
 
@@ -20,7 +24,9 @@ We encourage you to check our website regularly for any updates to our  **Priva
 
 
 
-### Your Personal Information
+* * *
+
+## Your Personal Information
 
 Due to government regulations and the nature of the products we provide, we are required to collect personal information from customers which can include, but is not limited to, the below:
 
@@ -42,7 +48,9 @@ Due to government regulations and the nature of the products we provide, we are 
 
 You are not required by law to provide us with any of the personal information requested, however without the information required  **GO Markets**  will not be able to provide you with any of the services or assistance you have sought.
 
-### How We Collect Personal Information
+* * *
+
+## How We Collect Personal Information
 
 **GO Markets**  collects personal information in a number of ways, including:
 
@@ -63,9 +71,11 @@ Primarily, your personal information is used in order to:
 
 
 
-From time to time, we may provide you with direct marketing material. This will include e-mails, articles and newsletters that may be of interest to you. If, at any time, you do not wish to receive this information any further, you may contact us with this request. We will endeavour to meet your request within 1 week. We maintain a Register for those individuals not wanting direct marketing material. For marketing that you receive as a result of our use of cookies, please see the section dealing with cookies below. In particular please note the information about how to manage your preferences both personally and with any social media websites. 
+From time to time, we may provide you with direct marketing material. This will include e-mails, articles and newsletters that may be of interest to you. If, at any time, you do not wish to receive this information any further, you may contact us with this request. We will endeavour to meet your request within 1 week. We maintain a Register for those individuals not wanting direct marketing material. For marketing that you receive as a result of our use of cookies, please see the section dealing with cookies below. In particular please note the information about how to manage your preferences both personally and with any social media websites.
 
-### When We Disclose Your Personal Information and Who We Disclose it to, Including Cross Border Disclosures
+* * *
+
+## When We Disclose Your Personal Information and Who We Disclose it to, Including Cross Border Disclosures
 
 In line with modern business practices common to many financial institutions and to meet your specific needs we may disclose your personal information to the organisations described below.
 
@@ -76,6 +86,7 @@ We collect information about you for the purpose of reporting to  **AUSTRAC** �
 For the purposes set out above, we may disclose your personal information to organisations outside  **GO Markets**. The organisations to which we disclose information may include:
 
   * other product providers in order to manage or administer your product or service;
+  * our subsidiary companies;
   * compliance consultants to ensure that our representatives are meeting our compliance standards; 
     * mailing houses;
     * your professional advisers, including your solicitor or accountant as authorised by you;
@@ -100,13 +111,17 @@ Our ability to enforce the Australian Privacy Principles or any other contractua
 
 In the event of that we propose to sell the business, we may disclose your personal information to potential purchasers for the purpose of them conducting due diligence investigations. Disclosure will be made in confidence and it will be a condition of that disclosure that no personal information will be used or disclosed by them.
 
-### Solicited Personal Information
+* * *
+
+## Solicited Personal Information
 
 Without your consent we will not collect information about you that reveals your racial or ethnic origin, political opinions, religious or philosophical beliefs or affiliations, membership of professional or trade association, membership of a trade union, details of health, disability, sexual orientation, or criminal record.
 
 It is our policy that sensitive information will be used and disclosed only for the purposes for which it was provided, unless the customer agrees otherwise or the use or disclosure of this information is allowed by law, or when the information is necessary for the establishment, exercise or defence of a legal claim.
 
-### How We Store and Secure Your Personal Information
+* * *
+
+## How We Store and Secure Your Personal Information
 
 We keep your personal information in your client file. These files are accessible to authorised personnel only and are appropriately secured out of hours.
 
@@ -122,7 +137,9 @@ Personal information will be treated as confidential information and sensitive i
 
 It is a legislative requirement that we keep all personal information and records for a period of 7 years. Should you cease to be a client of ours, we will maintain your personal information on or off site in a secure manner for 7 years. After this, the information will be destroyed.
 
-### Ensure Your Personal Information is Correct and Up-to-Date
+* * *
+
+## Ensure Your Personal Information is Correct and Up-to-Date
 
 **GO Markets**  takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. To ensure we can maintain this level of accuracy and completeness, we recommend that you:
 
@@ -135,7 +152,9 @@ We can generally update your customer information over the telephone, by e-mail 
 
 If you provide inaccurate or incomplete information we may not be able to provide you with the products or services you are seeking.
 
-### Access to Your Personal Information
+* * *
+
+## Access to Your Personal Information
 
 You have a right to access your personal information, subject to certain exceptions allowed by law. We ask that you provide your request for access in writing (for security reasons) and we will provide you with access to that personal information. Access to the requested personal information may include:
 
@@ -162,21 +181,29 @@ Some exceptions exist where we will not provide you with access to your personal
 
 Should we refuse you access to your personal information, we will provide you with a written explanation for that refusal.
 
-### Using Government Identifiers
+* * *
+
+## Using Government Identifiers
 
 Although in certain circumstances we are required to collect government identifiers such as your tax file number, Medicare number or pension card number, we do not use or disclose this information other than when required or authorised by law or unless you have voluntarily consented to disclose this information to any third party.
 
-### Dealing with Us Anonymously
+* * *
+
+## Dealing with Us Anonymously
 
 You can deal with us anonymously where it is lawful and practicable to do so. For example, if you telephone requesting our postal address. However, please be advised, due to the nature of the services we provide and regulatory requirements associated we cannot offer an option allowing you to transact as client of ours on an anonymous basis.
 
-### Complaints Resolutions
+* * *
+
+## Complaints Resolutions
 
 Please contact our Privacy Officer if you wish to complain about any breach or potential breach of your privacy rights. Your complaint will be responded to within 7 days. If you are not satisfied with the outcome of your complaint, you are entitled to contact the Office of the Privacy Commissioner.
 
 **GO Markets**  may record telephone conversations between you and persons working for  **GO Markets**. Such recordings, or transcripts from such recordings, may be used for training purposes and to assist with the resolve of any dispute between you and  **GO Markets**.
 
-### Our Website
+* * *
+
+## Our Website
 
 **GO Markets**  website provides links to third party websites. The use of your information by these third party sites is not within the control of  **GO Markets  **and we cannot accept responsibility for the conduct of these organisations. Other websites are not subject to our privacy standards, policies and procedures. You will need to contact or review those websites directly to ascertain their privacy stands, policies and procedures.
 
@@ -190,7 +217,9 @@ We also use standard web server log files to help us count visitors and evaluate
 
 To browse without cookies, you can configure your browser to reject all cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
 
-### Spam Act
+* * *
+
+## Spam Act
 
 _Spam_  is a generic term used to describe electronic ‘junk mail’- unwanted messages sent to a person’s e-mail account or mobile phone. In Australia, spam is defined as ‘unsolicited commercial electronic messages’.
 
@@ -200,11 +229,15 @@ _Spam_  is a generic term used to describe electronic ‘junk mail’- unwanted
 
 Equally importantly,  **GO Markets**  makes sure that our practices are in accordance with the National Privacy Principles in all activities where they deal with personal information. Personal information includes our clients contact details.
 
-### 'Do Not Call' Register
+* * *
+
+## 'Do Not Call' Register
 
 Unless you ask us by calling  **1800 88 55 71**  not to contact you about products or services and not to disclose your information to others for that purpose, by accessing this website you consent to us contacting you by telephone while you hold any product or receive any services from us notwithstanding registration at any time of your telephone number on the ‘do not call’ register.
 
-### Internal Procedure for Dealing with Communications
+* * *
+
+## Internal Procedure for Dealing with Communications
 
 The three key steps  **GO Markets**  follows:
 
@@ -214,19 +247,27 @@ The three key steps  **GO Markets**  follows:
 
 
 
-### Consented to Such Communications
+* * *
+
+## Consented to Such Communications
 
 Commercial messages will only be sent to you when you have given consent. This may be express consent – a direct indication that it is okay to send the message, or messages of that nature or inferred consent based on our business or other relationship with you and your conduct.
 
-### Comply with the Law Regarding Viral Messages
+* * *
+
+## Comply with the Law Regarding Viral Messages
 
 **GO Markets**  ensures that Commercial Communications that include a Forwarding Facility contain a clear recommendation that the Recipient should only forward the Commercial Communication to persons with whom they have a relationship, where that relationship means that person could be said to have Consented to receiving Commercial Communications.
 
-### Comply with the Age Sensitive Content of Commercial Communication
+* * *
+
+## Comply with the Age Sensitive Content of Commercial Communication
 
 Where the content of a Commercial Communication seeks to promote or inspire interaction with a product, service or event that is age sensitive,  **GO Markets**  takes reasonable steps to ensure that such content is sent to Recipients who are legally entitled to use or participate in the product service or event.
 
-### Contact Details
+* * *
+
+## Contact Details
 
 Contact:  **GO Markets Compliance Department**
 
