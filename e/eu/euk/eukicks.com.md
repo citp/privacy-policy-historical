@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eukicks.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602121347id_/http%3A//www.eukicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eukicks.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220023339id_/http%3A//www.eukicks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,4 +25,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Thanks to [JenSense](https://web.archive.org/web/20140602121347id_/http://www.eukicks.com/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+Thanks to [JenSense](http://www.jensense.com/)
