@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the verabradley.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207020723id_/http%3A//www.verabradley.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verabradley.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220173958id_/http%3A//www.verabradley.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vera Bradley
 
 Effective Date: February 13, 2006  
-Last Updated: July 13, 2012
+Last Updated: June 9, 2014
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make links available to it on our homepage and at points where personal information may be requested. Vera Bradley Designs, Inc. ("Vera Bradley") reserves the right to change, modify, add to or remove portions of this policy at any time. Please check this page periodically for any changes. Privacy Policy changes will apply to the Personal Information collected from the date of posting of the revised Privacy Policy to Vera Bradley's website. Vera Bradley will always apply the version of the Privacy Policy under which your information was collected, unless we obtain your prior consent.
@@ -25,7 +25,7 @@ Vera Bradley collects Personal Information from our visitors on a voluntary bas
 
 Additionally, we may use this information to send emails reminding you of new products or special promotions. In addition, we may send you content-specific emails or special information about other Vera Bradley products in the future. On occasion, we also may send information or offers to our email subscribers on behalf of other Vera Bradley entities, such as Vera Bradley Retail Stores or the Vera Bradley Foundation for Breast Cancer.
 
-If you prefer not to receive the information or offers described above, please 1) follow the instructions in the email to "unsubscribe;" 2) send a postcard or letter to Vera Bradley Customer Service, 2208 Production Road, Fort Wayne, Indiana 46808; or 3) send an email to [customercare@verabradley.com](mailto:customercare@verabradley.com), and we will remove your name from our email mailing list. Please include your full name, email address and phone number in case we have questions. It may take several days to process your instructions, and you may receive messages after submitting your instructions.
+If you prefer not to receive the information or offers described above, please 1) follow the instructions in the email to "unsubscribe;" 2) send a postcard or letter to Vera Bradley Customer Service, 12420 Stonebridge Road, Roanoke, Indiana 46783; or 3) send an email to [customercare@verabradley.com](mailto:customercare@verabradley.com), and we will remove your name from our email mailing list. Please include your full name, email address and phone number in case we have questions. It may take several days to process your instructions, and you may receive messages after submitting your instructions.
 
   * **Email a Friend:** There are some features on our website that may require visitors to enter another person's Personal Information and/or email address in order to use the feature. We only use this information to allow visitors to share certain website content with friends.
 
@@ -77,8 +77,8 @@ Vera Bradley's website may contain links to other sites, and we make every effo
 Visitors may modify Personal Information stored by Vera Bradley by accessing their account. Stored Personal Information does not expire and is retained until you request that it be deleted from our database. If you would like to remove your name and Personal Information from our records, please write to us at or call:
 
 Vera Bradley Customer Service  
-2208 Production Road  
-Fort Wayne, Indiana 46808  
+12420 Stonebridge Road  
+Roanoke, Indiana 46783  
 or [customercare@verabradley.com](mailto:customercare@verabradley.com) or (888) 855-8372.
 
 Please include your full name, email address and phone number in case we have questions. 
@@ -96,8 +96,9 @@ When you send an email to Vera Bradley, you are communicating with Vera Bradle
 Beginning January 1, 2005, California law permits individuals who are California residents to request once in any calendar year certain information regarding our disclosure of Personal Information to third parties for marketing purposes. To make such a request, please contact us by email at [customercare@verabradley.com](mailto:customercare@verabradley.com), or write us at: 
 
 Vera Bradley Customer Service  
-2208 Production Road  
-Fort Wayne, Indiana 46808
+12420 Stonebridge Road  
+Roanoke, Indiana 46783  
+
 
 #### Questions/Contact Us
 
