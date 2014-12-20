@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetx.co.uk privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615132353id_/http%3A//www.planetx.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetx.co.uk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220194833id_/http%3A//www.planetx.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Planet X
 
