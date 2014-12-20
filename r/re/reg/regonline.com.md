@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623105654id_/http%3A//www.activenetwork.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220175054id_/http%3A//www.activenetwork.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
-### Effective date: May 1, 2014
+### Effective date: August 12th, 2014
 
 OVERVIEW  
 WHAT INFORMATION DO WE COLLECT ABOUT YOU AND WHY?   
@@ -75,7 +75,7 @@ _Information We Collect from Facebook._ We may provide you with the opportunity 
 
 _Information We Collect About You From Third Parties._ We also may collect information, including personally identifiable information, about you from our affiliates and non-affiliated third parties. For example, if you register for a race by clicking through our Sites, the sponsor of the race may provide us with your name and contact information; and, when the race is over, we also may obtain your race time.
 
-_Information We Collect Automatically._ We may use cookies, web beacons, and other automated devices to collect information, including personally identifiable information, about you when you visit our Sites and receive emails from us. Specifically, we may collect the following information about your use of our Sites via these technologies: your browser type and operating system; web pages you view; links you click; your Internet Protocol (“IP”) address; your approximate geographic location; your interaction with the Sites; length of time you are logged in to our Sites; and websites visited before or after our Sites. In some of our email messages, we use a “click-through URL” linked to content on the ACTIVE website. When Customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our Site. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages. We also collect non-personal data (including, without limitation, of the type set forth above) from third parties. The information we collect from third parties may be combined with the information we collect. This information also may be associated with your username and combined with other information, including personally identifiable information that we collect about you. For more detailed information on our use of cookies and other tracking technologies, please see our cookie policy here: <http://www.activenetwork.com/information/cookie-policy.htm>. 
+_Information We Collect Automatically._ We may use cookies, web beacons, and other automated devices to collect information, including personally identifiable information, about you when you visit our Sites and receive emails from us. Specifically, we may collect the following information about your use of our Sites via these technologies: your browser type and operating system; web pages you view; links you click; your Internet Protocol (“IP”) address; your approximate geographic location; your interaction with the Sites; length of time you are logged in to our Sites; and websites visited before or after our Sites. In some of our email messages, we use a “click-through URL” linked to content on the ACTIVE website. When Customers click one of these URLs, they pass through a separate web server before arriving at the destination page on our Site. We track this click-through data to help us determine interest in particular topics and measure the effectiveness of our customer communications. If you prefer not to be tracked in this way, you should not click text or graphic links in the email messages. We also collect non-personal data (including, without limitation, of the type set forth above) from third parties. The information we collect from third parties may be combined with the information we collect. This information also may be associated with your username and combined with other information, including personally identifiable information that we collect about you. For more detailed information on our use of cookies and other tracking technologies, please see our cookie policy here: [http://www.activenetwork.com/information/cookie-policy](http://www.activenetwork.com/information/cookie-policy.htm). 
 
 #### HOW DO WE USE YOUR INFORMATION?
 
@@ -119,7 +119,7 @@ We also may share your information for the following reasons:
 
 **Third Party Applications.** Third party applications, such as the Facebook, Twitter, Pinterest, or Google buttons, may be available on our Sites. The owners or providers of those third party applications may collect personally identifiable information from you. Their collection of information is bound by their own information collection policies and practices. Your interactions with third party applications on our Sites may be shared with others within your social network. We are not responsible for the collection and use of your information by third parties.
 
-**Network Advertisers.** Network advertisers are third parties that display advertisements based on your visits to our Sites and other websites you have visited. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. These third party services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third parties with information, including both personally identifiable and non-personally identifiable information, about your usage of our Sites and our Services. For more detailed information on the use of third party technologies and how to opt out of receiving targeted advertisements, please see our cookie policy: <http://www.activenetwork.com/information/cookie-policy.htm>. 
+**Network Advertisers.** Network advertisers are third parties that display advertisements based on your visits to our Sites and other websites you have visited. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. These third party services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third parties with information, including both personally identifiable and non-personally identifiable information, about your usage of our Sites and our Services. For more detailed information on the use of third party technologies and how to opt out of receiving targeted advertisements, please see our cookie policy: [http://www.activenetwork.com/information/cookie-policy](http://www.activenetwork.com/information/cookie-policy.htm). 
 
 **Third Party Links.** At times, our Sites and Applications may contain links to other third party websites. Any access to and use of such linked websites is not governed by this Policy, but, instead, is governed by the privacy policies of those third party websites, and we are not responsible for the information practices of such third party websites. 
 
@@ -127,7 +127,7 @@ We also may share your information for the following reasons:
 
 We have implemented commercially reasonable precautions, including, where appropriate, password protection, encryption, and secure socket layering to protect our Sites and the information we collect from loss, misuse and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security all of the time. Please keep this in mind when disclosing any of your personal information via the Internet.
 
-You should take steps to protect against unauthorized access to your password, computer, and web-enabled devices, among other things, by signing off after using a shared computer, inserting a password on your web-enabled device, choosing a password that nobody else knows or can easily guess, keeping your password private, and periodically changing your password. You should never share your log-in information with others. We are not responsible for any lost, stolen or compromised passwords, or for any activity on your account via unauthorized password activity. More information on ACTIVE’s security can be found at: <http://www.activenetwork.com/security.htm>.
+You should take steps to protect against unauthorized access to your password, computer, and web-enabled devices, among other things, by signing off after using a shared computer, inserting a password on your web-enabled device, choosing a password that nobody else knows or can easily guess, keeping your password private, and periodically changing your password. You should never share your log-in information with others. We are not responsible for any lost, stolen or compromised passwords, or for any activity on your account via unauthorized password activity. More information on ACTIVE’s security can be found at: [http://www.activenetwork.com/security](http://www.activenetwork.com/security.htm).
 
 #### CAN I ACCESS AND MODIFY MY PERSONAL INFORMATION? 
 
@@ -191,7 +191,7 @@ Parents have the right to consent to the collection and use of personal informat
 
 **_Can I access and modify my Child’s personal information?_**
 
-If your Child’s personal information changes, if you no longer wish to allow your Child to participate on the Sites, or if you wish to delete your Child’s information and refuse further collection and use of the information, please email us at [privacy@activenetwork.com](https://web.archive.org/web/20140623105654id_/http%3A//www.activenetwork.com/information/privacy@activenetwork.com). 
+If your Child’s personal information changes, if you no longer wish to allow your Child to participate on the Sites, or if you wish to delete your Child’s information and refuse further collection and use of the information, please email us at [privacy@activenetwork.com](https://web.archive.org/web/20141220175054id_/http%3A//www.activenetwork.com/information/privacy@activenetwork.com). 
 
 **_How long is my Child’s information retained?_**
 
@@ -199,19 +199,22 @@ We will retain the information we collect for as long as your or your Child’s 
 
 #### TERMS OF USE
 
-Your use our Sites or Services, as well as any dispute over privacy, is subject to this Policy and our Terms of Use, <http://www.activenetwork.com/information/terms-of-use.htm>, including applicable limitations on damages and the resolution of disputes. 
+Your use our Sites or Services, as well as any dispute over privacy, is subject to this Policy and our Terms of Use, [http://www.activenetwork.com/information/terms-of-use](http://www.activenetwork.com/information/terms-of-use.htm), including applicable limitations on damages and the resolution of disputes. 
 
 #### SPECIAL INFORMATION FOR CALIFORNIA RESIDENTS
 
-California residents may request a list of all third parties to which ACTIVE has disclosed certain personally identifiable information about you for marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at:
+**_California “Shine the Light” Request._** California residents may request a list of all third parties to which ACTIVE has disclosed certain personally identifiable information about you for marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at:
 
 Attn: ACTIVE Privacy  
 Active Network, LLC  
-10182 Telesis Court  
-San Diego, CA 92121  
+717 North Harwood Street  
+Suite 2500  
+Dallas, TX 75201  
 Phone: 858-964-3800  
 Toll Free: 888-543-7223  
 Email: [privacy@activenetwork.com](mailto:privacy@activenetwork.com)
+
+**_California Do Not Track Disclosures._** For information on our online tracking practices please refer to the section entitled Information We Collect Automatically.
 
 #### CHANGES TO THIS POLICY
 
@@ -225,8 +228,9 @@ ACTIVE regularly reviews its practices regarding personally identifiable informa
 
 Attn: ACTIVE Privacy  
 Active Network, LLC  
-10182 Telesis Court  
-San Diego, CA 92121  
+717 North Harwood Street  
+Suite 2500  
+Dallas, TX 75201  
 Phone: 858-964-3800  
 Toll Free: 888-543-7223  
 Email: [privacy@activenetwork.com](mailto:privacy@activenetwork.com)
