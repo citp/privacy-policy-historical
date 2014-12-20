@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edufindme.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082926id_/http%3A//edufindme.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edufindme.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220064608id_/http%3A//edufindme.com/pages/privacy) for the most accurate reproduction.*
 
 # EDUFINDME - Privacy Policy
 
@@ -42,7 +42,9 @@ Edufindme.com users may access, control and update the information supplied by t
 
 Edufindme uses cookies in order to better get to know user browsing on Edufindme.com and in general, by Internet. Cookies are information files that are stored on your computer and help to recognize it upon returning to the Edufindme.com page, which allows it to adjust to your personal information. 
 
-#### **Security of your other social media accounts that are synchronized with Edufindme**
+As you browse [EDUEXPOS.com](http://www.eduexpos.com/), advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with [EDUEXPOS.COM](http://www.eduexpos.com/). The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit this page to opt out of AdRoll's and their partners' targeted advertising.
+
+####  **Security of your other social media accounts that are synchronized with Edufindme**
 
 We do not access or request your other personal information from other social networks, such as status updates, wall posts, interests, check-ins and current location. Edufindme stresses that your private Facebook profile cannot be accessed through Edufindme by anyone who does not already have access to it based on your Facebook Privacy Settings.
 
@@ -50,4 +52,4 @@ Edufindme only has access to your Facebook information that you choose to share 
 
 ####  **Contact**
 
-If you would like to contact us with questions about our privacy policy or products and services, feel free to send an email to: info@edufindme.com
+If you would like to contact us with questions about our privacy policy or products and services, feel free to send an email to: info@edufindme.com 
