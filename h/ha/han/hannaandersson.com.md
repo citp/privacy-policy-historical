@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521075102id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220232202id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.*
 
-# Security & Privacy
+# SECURITY & PRIVACY
 
 | 
 
-Security & Privacy
+SECURITY & PRIVACY
 
 At Hanna Andersson ("Hanna") we are committed to your security and privacy. We want to make any shopping experience you have with us enjoyable, informative, convenient, and secure. To accomplish this we collect customer information that permits us to enhance your shopping experience and to communicate with you about our products, services, and promotions. We want to assure you that your personal information is managed responsibly.
 
@@ -39,8 +39,6 @@ Occasionally Hanna provides your name and postal address (not your email address
 We contract with third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They will collect anonymous information about your visits to our Website, and your interaction with our products and services. They may also use information about your visits to this and other Websites to target advertisements for goods and services. These targeted advertisements may appear on our site or on other sites that you visit. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected in this process. If you do not want third-party service providers to collect this information you may opt-out. Opting-out will not in any way affect your use of our site. In order to opt-out please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Hanna has partnered with Omniture, a company that helps us better understand our customers’ use of hannaandersson.com. Omniture uses cookies to collect and analyze information, such as how customers navigate our website and which products they browse and purchase, so that we may make improvements to our site. Omniture is not allowed to collect credit card, username, or password information. In addition, Omniture is contractually prohibited from using Hanna data for any other purposes, or to match it against any other information in its possession, and is required to maintain all information collected in the strictest confidence. As a visitor to www.hannaandersson.com you may “opt out” of this Omniture data collection. To learn more about your Omniture tracking options [click here](http://www.omniture.com/en/privacy/2o7#optout). 
-
-Hanna uses the Hotjobs.com service to help job applicants in their job search on our website. Hotjobs.com maintains separate information policies. Should you have questions about Hotjobs.com, or its privacy and security policies, you may contact them at hotjobs.com.
 
 **What are cookies and how does Hanna use them?**  
 The Hanna website uses a browser feature known as a cookie. A cookie is a small text file created by a website that is stored by your browser on your hard drive. Hanna does not save any password or credit card information in cookies. Hanna does place a unique identifier in the cookie which allows us to connect your computer with the information we store in our secure database. This allows us to provide services such as a more personalized experience on our website, remembering items placed in your shopping cart for 14 days, auto-filling forms and providing enhanced online display advertising tailored to your interests. To opt out of advertising provided directly by Hanna, [click here](http://dtmc.hannaandersson.com/adinfo/adchoices_fpc.html?cid=2363&cname=Hanna%20Andersson&cmagic=505259&clogo=hanna_andersson.png).
