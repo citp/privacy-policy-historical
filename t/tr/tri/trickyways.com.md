@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trickyways.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508004943id_/http%3A//www.trickyways.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickyways.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220141451id_/http%3A//www.trickyways.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TrickyWays
 
