@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows7update.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328101059id_/http%3A//www.windows7update.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7update.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220062233id_/http%3A//www.windows7update.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Windows 7 Update Privacy Policy
 
