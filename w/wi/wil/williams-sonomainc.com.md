@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williams-sonomainc.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044755id_/http%3A//www.williams-sonomainc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williams-sonomainc.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220041434id_/http%3A//www.williams-sonomainc.com/privacy) for the most accurate reproduction.*
 
 # Williams-Sonoma, Inc. - Privacy Policy
 
@@ -43,7 +43,7 @@ In certain instances we may disclose your contact information when we have reaso
 
 ## Opting Out Of Marketing And Transfers; Updating and Deleting Information About You
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know by contacting us at 1.800.541.1262 or by sending us an email. Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way.
+We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know by contacting us at 1.800.541.1262 or by sending us an email to [customerservice@williams-sonoma.com](mailto:customerservice@williams-sonoma.com "Send Us An Email"). Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way.
 
 You may also click the designated link at the bottom of all email advertisements to be removed from future email updates.
 
@@ -63,7 +63,7 @@ If you choose to provide Williams-Sonoma, Inc. Brands with your information, you
 
 Williams-Sonoma, Inc. Brands adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.
 
-Any questions or concerns regarding the use or disclosure of your information should be directed to Williams-Sonoma, Inc. Brands by calling us at 1.800.541.1262 or by sending us an [email]( "Send Us An Email"). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the EU-US Safe Harbor Privacy Principles.
+Any questions or concerns regarding the use or disclosure of your information should be directed to Williams-Sonoma, Inc. Brands by calling us at 1.800.541.1262 or by sending us an email to [international@williams-sonoma.com](mailto:international@williams-sonoma.com "Send Us An Email"). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the EU-US Safe Harbor Privacy Principles.
 
 ## Cookies
 
@@ -97,7 +97,7 @@ If we decide to change our privacy policy in whole or in part, we will inform yo
 
 ## Your Feedback
 
-To help us improve our privacy policy and practice, please give us your feedback. You may email us or call us at 1.800.541.1262.
+To help us improve our privacy policy and practice, please give us your feedback. You may email us at [customerservice@williams-sonoma.com](mailto:customerservice@williams-sonoma.com "Send Us An Email") or call us at 1.800.541.1262.
 
 Effective Date: January 1, 2014
 
