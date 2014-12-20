@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogworld.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613023324id_/http%3A//www.blogworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogworld.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103151id_/http%3A//www.blogworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — New Media Expo Blog
+# Privacy Policy | New Media Expo Blog
 
 **Changes to the Privacy Policy** ****
 
@@ -12,7 +12,7 @@ NMX has a policy of not disclosing the personal information of our Website visit
 
 NMX also reserves the right to compile, save, use within the scope of our activities, and analyze any and all data (contact and personal data, use history, etc.) that we collect from you through the Website. We use the personal information that you provide to us for our internal purposes such as responding to your requests for information, contacting you, conducting internal analyses, and processing and completing orders and event registrations. We also use your personal information to communicate with you, such as, for example, to provide you with newsletters, press releases, membership information, or information relating to programs or grassroots activities that may be of interest to you.
 
-We may share the personal information you provide to us with other companies we have hired to provide services for us. These companies \- our vendors \- are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide.
+We may share the personal information you provide to us with other companies we have hired to provide services for us. These companies – our vendors – are contractually bound to use personal information that we share with them only to perform the services we have hired them to provide.
 
 We may also collect and group demographic and preferences information, responses to surveys and other personal information that we collect from you into an aggregate, non-personally identifiable form for disclosure to our existing or potential business partners, affiliates, sponsors or other third parties. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Website.
 
