@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvbase.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609054640id_/http%3A//www.mtvbase.com/info/mtvbase-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvbase.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220094530id_/http%3A//www.mtvbase.com/info/mtvbase-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy| Info | MTV Base
 
