@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alitalia.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134152id_/http%3A//www.alitalia.com/it_en/Footer/Privacy/Alitalia/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alitalia.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220101851id_/http%3A//www.alitalia.com/it_en/Footer/Privacy/Alitalia/index.html) for the most accurate reproduction.*
 
-# None
+# Alitalia Privacy | Alitalia
 
 POLICY AND CONSENT TO THE USE OF PERSONAL DATA, PURSUANT TO LEGISLATIVE DECREE NO. 196 OF JUNE 30, 2003, ART. 13 
 
