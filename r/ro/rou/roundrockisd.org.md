@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roundrockisd.org privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025171025id_/http%3A//rrisd.ss4.sharpschool.com/cms/One.aspx%3FportalId%3D32799%26pageId%3D1231709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roundrockisd.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220232342id_/https%3A//www.roundrockisd.org/about-rrisd/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Round Rock ISD
+# Round Rock ISD | Privacy Policy
 
-Round Rock Independent School District (Round Rock ISD, RRISD, or District) is committed to respecting and protecting your privacy as a visitor to our website. We will only collect, store and use your personal information for defined purposes. 
+Round Rock Independent School District (Round Rock ISD, RRISD, or District) is committed to respecting and protecting your privacy as a visitor to our website. We will only collect, store and use your personal information for defined purposes.
 
- The information collected during your visit is limited and only used to help us support and enhance our relationship with you. Your information may also be used to improve our services and your web experience.
+The information collected during your visit is limited and only used to help us support and enhance our relationship with you. Your information may also be used to improve our services and your web experience.
 
 Personally identifiable information is not collected or stored when browsing, reading or downloading information from our website.
 
@@ -25,4 +25,4 @@ Pursuant to the CAN-SPAM Act of 2003, Round Rock ISD will not give, sell, or oth
 
 Personally identifiable information will be used only as needed to complete your requests or process your transactions. Round Rock ISD will only disclose personal information as required by law.
 
-See also, [Legal Services](http://rrisd.ss4.sharpschool.com/cms/One.aspx?portalId=32799&pageId=238097 "Legal Services") for more on public information, directory information and the Family Educational Rights and Privacy Act (FERPA).
+See also, [Governmental Relations](http://www.roundrockisd.org/departments/governmental-relations "Governmental Relations") for more on public information, directory information and the Family Educational Rights and Privacy Act (FERPA).
