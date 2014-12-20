@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetake.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516121701id_/http%3A//thescript.thetake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetake.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220105108id_/http%3A//thescript.thetake.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TheTake
 
