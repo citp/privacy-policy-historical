@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531132102id_/http%3A//mouseflow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouseflow.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220074422id_/http%3A//mouseflow.com/privacy) for the most accurate reproduction.*
 
-# Mouseflow – Privacy Policy
+# Mouseflow – Mouse Tracking, Website Heatmaps – Privacy Policy
 
 * At Mouseflow we recognize that your privacy is important. We value your trust and confidence and are firmly committed to protecting the privacy of our clients and visitors to our website. Mouseflow is equally committed to protecting the privacy of the information that it gathers.
 
