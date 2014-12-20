@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221211446id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfair.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213341id_/http%3A//www.betfair.com/en/aboutUs/Privacy.Policy) for the most accurate reproduction.*
 
 # Betfair
 
 ## Betfair Privacy Policy
+
+This Privacy Policy does not apply to residents of Australia and New Zealand. To view Betfair Australia’s Privacy Policy please click [here](https://www.betfair.com.au/info/privacy-policy/).
 
 ### Introduction
 
@@ -114,20 +116,6 @@ You may at any time request a copy of your Personal Information held by Betfair 
 Betfair reserves the right to change the Privacy Policy including altering the purposes for which it processes your Personal Information. In the event that Betfair considers it appropriate to make any such change, the Privacy Policy will be updated and posted on our site. Your continued use of the site will constitute acceptance of those changes.
 
 For full details about Group members, where they operate, or for a copy of your Personal Information or any other queries you may have about our Privacy Policy, please contact us. Again, our contact details are located in the 'Contact Us' pages of our website.
-
-## Special terms applicable only to customers from Germany
-
-This Privacy Policy is to be modified for customers from Germany who are transferred by TSE Global to the [www.betfair.com](http://www.betfair.com/) website by the following provisions:
-
-### TSE Global Limited
-
-Customers from Germany are given access to Betfair through TSE Global Limited, Waterfront, Hammersmith Embankment, Winslow Road, London W6 9HP, email [tseglobal@googlemail.com](mailto:tseglobal@googlemail.com) ('TSE Global'). TSE Global operates the [www.betfair.de](http://www.betfair.de/) website. Customers in Germany seeking to place bets on sporting events will be connected from this website to the [www.betfair.com](http://www.betfair.com/) website, which is operated by Betfair. TSE Global acts as an intermediary between you and Betfair.
-
-### Forwarding of customers by TSE Global
-
-From [www.betfair.de](http://www.betfair.de/) you will get to [www.betfair.com](http://www.betfair.com/) on request. If you are already registered, you will also be taken from [www.betfair.com](http://www.betfair.com/) to the [www.betfair.de](http://www.betfair.de/) website. All personal information required for registration is exclusively collected and processed by Betfair.
-
-At the [www.betfair.com](http://www.betfair.com/) website, you are asked to enter your username and password. It is possible that your username and password contains personal information (e.g., if you have chosen your own name as your username). This information is exclusively collected and processed by Betfair.
 
 ## Special terms applicable only to customers betting on australian events*
 
