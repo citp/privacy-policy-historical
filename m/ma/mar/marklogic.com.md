@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marklogic.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331033414id_/http%3A//www.marklogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marklogic.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220010825id_/http%3A//www.marklogic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MarkLogic Corporation
 
@@ -44,7 +44,9 @@ The cookies used on this site are described according to the following cookie ca
 
 If you have registered your product and created a MarkLogic account, we will match the information gathered from our cookies with any information you have given us about yourself, or that is stored in your MarkLogic account, or that we have otherwise collected about you for the purposes explained in this Privacy Statement.
 
-**You can opt out from these cookies by adjusting your browser settings to reject cookies. If you have previously visited our websites, you may also have to delete any existing cookies from your browser.**
+We have enabled the Google Analytics Demographics and Interest Reporting feature to collect demographic information, as well information about your interests. You can opt out of this by clicking [here](https://tools.google.com/dlpage/gaoptout).
+
+**You can also opt out from these cookies by adjusting your browser settings to reject cookies. If you have previously visited our websites, you may also have to delete any existing cookies from your browser.**
 
  **Many of our cookies are functionality cookies and some of these cookies are managed for us by third parties. You can control the use of these cookies through your browser settings, but if you opt out from them, we may be unable to offer some services or support and we may also be unable to remember your preferences or that you did not want a certain service.**
 
