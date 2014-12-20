@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogatrail.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629040132id_/http%3A//www.yogatrail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogatrail.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190216id_/http%3A//www.yogatrail.com/privacy-policy) for the most accurate reproduction.*
 
 # YogaTrail Privacy Policy | YogaTrail
 
@@ -10,7 +10,7 @@ The information you provide to YogaTrail may reveal, or allow others to identify
 
 ### What is Covered Under this Privacy Policy
 
-This Policy applies to all of the Services offered by YogaTrail (“YogaTrail”, “we”, “us”, “ours”, “our Website”). This Policy describes how we treat personal information that we collect and receive. Personal information is any information about you that is personally identifiable (including your first and last name, telephone number, postal and e-mail addresses, username and password), and that is not commonly, publicly available. This policy does not apply to practices of companies that are not owned or controlled by us, or to people who are not employed, or managed by us. 
+This Policy applies to all of the Services offered by YogaTrail Inc. (“YogaTrail”, “we”, “us”, “ours”, “our Website”). This Policy describes how we treat personal information that we collect and receive. Personal information is any information about you that is personally identifiable (including your first and last name, telephone number, postal and e-mail addresses, username and password), and that is not commonly, publicly available. This policy does not apply to practices of companies that are not owned or controlled by us, or to people who are not employed, or managed by us. 
 
 ### What Information We Collect From You
 
@@ -22,7 +22,8 @@ You will have the opportunity to provide contact information for other people th
 
 ### Information From Other Sources
 
-We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources, and add it to other information about you. For example, if you access third party services, such as social media services, through our Website we may collect information made available to us through those services in order to establish your identity, and to improve and personalize your use of our Website.  
+We also may periodically obtain both personal and non-personal information about you from affiliated entities, business partners and other independent third-party sources, and add it to other information about you. For example, if you access third party services, such as social media services, through our Website we may collect information made available to us through those services in order to establish your identity, and to improve and personalize your use of our Website. 
+
 You can choose to log on to YogaTrail by using your Facebook account. Facebook provides us with information that you have chosen to make available pursuant to your Facebook privacy settings. That information may include your name, profile picture, gender, friends lists and any other information you have chosen to make available. Please note that, if you have Facebook friends who are using YogaTrail, they may also have shared information about you with us through Facebook. If you wish to prevent that sharing, you can do so by editing your Facebook privacy settings.
 
 ### Automatic Information
@@ -162,12 +163,7 @@ If you have questions about this Privacy Policy, please contact us at: mail(at)y
 
 Or write to: 
 
-YogaTrail c/o BUZZWOO! GmbH & Co. KG  
-Alexanderstrasse 81  
-D-70182 Stuttgart  
-Germany
-
-YogaTrail is: Jens Brater, Sven Ernst, Sven Peter Gradwohl, Maria Alexandra Jaton, Alexander Jörgen Klein, Marcus Andreas Renz.
+YogaTrail Inc. - PO Box 192750 #63657 San Francisco, CA 94119
 
 ©2014 YogaTrail. All rights reserved.
 
