@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061653id_/http%3A//www.ipswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220035606id_/http%3A//www.ipswitch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Ipswitch.com
+# Privacy Policy - Ipswitch.com
 
 Ipswitch is committed to protecting your privacy. The following discloses our information collection and use practices for our Website.
 
@@ -28,7 +28,7 @@ Ipswitch uses a third party vendor to help measure and analyze the effectiveness
 
 **CUSTOMER DATA**
 
-Customers of Ipswitch may electronically submit data or information to the Company’s services (“Customer Data”). Ipswitch will not review, share, distribute, or reference any such Customer Data except as provided in applicable Ipswitch product license agreements or service agreements; or as may be required by law. In accordance with such, Ipswitch may access Customer Data only for the purposes of providing the services, preventing or addressing service or technical problems, at a Customer’s request in connection with customer support matters, or as may be required by law.
+Customers of Ipswitch may electronically submit data or information to the Company's services ("Customer Data"). Ipswitch will not review, share, distribute, or reference any such Customer Data except as provided in applicable Ipswitch product license agreements or service agreements; or as may be required by law. In accordance with such, Ipswitch may access Customer Data only for the purposes of providing the services, preventing or addressing service or technical problems, at a Customer's request in connection with customer support matters, or as may be required by law.
 
 **WHAT MEASURES ARE IN PLACE TO PROTECT CUSTOMER INFORMATION?**
 
@@ -87,7 +87,7 @@ The Website may make discussion boards, groups and/or other public forums availa
 
 **CHILDREN**
 
-This Website is not directed at persons under 18 years of age and our content and other services are not written, intended, or designed for persons under 18 years of age. We do not intend to collect any personally identifiable information from such individuals. Where appropriate, Ipswitch will specifically instruct children not to submit such information on the Website. If a child has provided us with personally identifiable information, a parent or guardian of that child should contact us at the mailing address or e-mail address listed at the bottom of this policy if he would like this information deleted from our records. We will use reasonable efforts to delete the child’s information from our existing files.
+This Website is not directed at persons under 18 years of age and our content and other services are not written, intended, or designed for persons under 18 years of age. We do not intend to collect any personally identifiable information from such individuals. Where appropriate, Ipswitch will specifically instruct children not to submit such information on the Website. If a child has provided us with personally identifiable information, a parent or guardian of that child should contact us at the mailing address or e-mail address listed at the bottom of this policy if he would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files.
 
 **YOUR CONSENT TO THIS POLICY**
 
