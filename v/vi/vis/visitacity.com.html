@@ -1,18 +1,17 @@
-<!--The following is the downloaded HTML source of the visitacity.com privacy policy that was archived on 2014-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140605185714id_/http%3A//www.visitacity.com/jsp/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visitacity.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220053212id_/http%3A//www.visitacity.com/jsp/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Visit a City</title> 
 				
-		
-		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+				<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="referrer" content="always">
 		<meta name="language" content="english">
 		
 		<link rel="SHORTCUT ICON" href="http://img.visitacity.com/images/toptab.png">
 		
-		<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/JavaScript" src="http://dyn.visitacity.com/scripts/common/timeTracking.js"></script>
+		<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/JavaScript" src="http://dyn.visitacity.com/scripts/common/timeTracking.js"></script>
 		
 		<script>
 			var timingTopToBottom = new TrackTiming("PageCoreLoad", "top_to_bottom");
@@ -30,8 +29,7 @@
 			
 			var basicLinkPath = 'http://www.visitacity.comnull';
 			var curPage = '/jsp/privacyPolicy.jsp';
-			var pageSource = '';
-			var sessionId = '';
+
 			
 			
 		
@@ -47,7 +45,9 @@
 				
 		<script type="text/javascript" src="http://dyn.visitacity.com/scripts/lib/require.js"></script>		 
 		<script type="text/javascript" src="http://dyn.visitacity.com/scripts/lib/jquery-1.8.3.min.js"></script>		 
+
 		<script type="text/javascript" src="http://dyn.visitacity.com/scripts/lib/jquery.tools.min.js"></script>
+
 		<script type="text/javascript" src="http://dyn.visitacity.com/scripts/lib/jquery-ui-1.9.2.custom.min.js"></script>				
 		<script type="text/javascript" src="http://dyn.visitacity.com/scripts/lib/ddsmoothmenu.js"></script>		
 		
@@ -116,6 +116,7 @@
 
 
 
+
 	 <!-- white background header -->
 	 <div style="height:96px;background-color: white;">
 	 	
@@ -144,56 +145,58 @@
 		 		 	
 			<div style="float:right;width:400px;position: absolute;right:0px;top:20px">
 					
-
+			<!-- Social Icons -->
 			<div style="float:right;min-width:260px;height:22px;overflow:hidden">				
-				
-					
 					 
 					 <!-- Facebook -->
-					 <div class="fb-like" data-href="" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
-					 
-					<script>(function(d, s, id) {
-					  $(".fb-like").attr("data-href", window.location.href);	
-					  var js, fjs = d.getElementsByTagName(s)[0];
-					  if (d.getElementById(id)) return;
-					  js = d.createElement(s); js.id = id;
-					  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=150153265190737";
-					  fjs.parentNode.insertBefore(js, fjs);
-					}(document, 'script', 'facebook-jssdk'));</script>	
-					
+					<div class="fb-like" data-href="http://www.visitacity.com" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
 					<script>
-					  window.fbAsyncInit = function() {
-						  FB.Event.subscribe('edge.create', function(targetUrl) {
-							  _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
-						  });
-						  
-						  FB.Event.subscribe('message.send', function(targetUrl) {
-							  _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
-						  });						  
-					  };					
-					</script>
+						$(window).ready(function() {
+							  var d=document,s='script',id='facebook-jssdk';
+							  var js, fjs = d.getElementsByTagName(s)[0];
+							  if (d.getElementById(id)) return;
+							  js = d.createElement(s); js.id = id;
+							  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=150153265190737&version=v2.1";
+							  fjs.parentNode.insertBefore(js, fjs);							
+						});
+						
+						  window.fbAsyncInit = function() {
+							  FB.Event.subscribe('edge.create', function(targetUrl) {
+								  _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+							  });
+							  
+							  FB.Event.subscribe('message.send', function(targetUrl) {
+								  _gaq.push(['_trackSocial', 'facebook', 'send', targetUrl]);
+							  });						  
+						  };					
+					
+					</script>					 
 					
 					<!-- Google -->
 					<div class="g-plusone" data-size="medium" data-annotation="none"></div>
 					
 					<!-- Place this tag after the last +1 button tag. -->
 					<script type="text/javascript">
-					  (function() {
-					    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-					    po.src = 'https://apis.google.com/js/platform.js';
-					    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-					  })();
+						$(window).ready(function() {
+						    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+						    po.src = 'https://apis.google.com/js/platform.js';
+						    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);							
+						});
 					</script>						
 					
 					<!--  Twitter -->				
 					<a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
-				  <script type="text/javascript" charset="utf-8">
-				    window.twttr = (function (d,s,id) {
+				  	<script type="text/javascript" charset="utf-8">
+				    window.twttr = function (d,s,id) {
 				      var t, js, fjs = d.getElementsByTagName(s)[0];
 				      if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
 				      js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
 				      return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
-				    }(document, "script", "twitter-wjs"));
+				    };
+
+				    $(window).ready(function() {
+				    	 window.twttr(document, "script", "twitter-wjs");
+				    });
 				    
 				    function trackTwitter(intent_event) {
 				        if (intent_event) {
@@ -206,10 +209,7 @@
 				      }
 
 				      //Wrap event bindings - Wait for async js to load
-				      twttr.ready(function (twttr) {
-				        //event bindings
-				        twttr.events.bind('tweet', trackTwitter);
-				      });				    
+			    
 				  </script>											
 					
 					<!-- Pinterest -->			
@@ -225,7 +225,7 @@
 						
 						$("#hrefPinterest").attr("href", ref);
 						
-						$(document).ready(function() {
+						$(window).ready(function() {
 							$("#pinterest").click(function() {
 								_gaq.push(['_trackSocial', 'pinterest', 'pin', window.location.href]);
 							});
@@ -233,13 +233,15 @@
 						
 					</script>				
 					<script type="text/javascript">
-					(function(d){
+					
+					$(window).ready(function() {
+						var d = document;
 					    var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
 					    p.type = 'text/javascript';
 					    p.async = true;
 					    p.src = '//assets.pinterest.com/js/pinit.js';
-					    f.parentNode.insertBefore(p, f);
-					}(document));
+					    f.parentNode.insertBefore(p, f);						
+					});
 					</script>						
 				
 				</div>			
@@ -269,11 +271,15 @@
 								
 								<li><a href="http://www.visitacity.com/en/amsterdam"><span class="topMenuSubItem">Amsterdam</span></a></li>
 								
+								<li><a href="http://www.visitacity.com/en/athens"><span class="topMenuSubItem">Athens</span></a></li>
+								
 								<li><a href="http://www.visitacity.com/en/bangkok"><span class="topMenuSubItem">Bangkok</span></a></li>
 								
 								<li><a href="http://www.visitacity.com/en/barcelona"><span class="topMenuSubItem">Barcelona</span></a></li>
 								
 								<li><a href="http://www.visitacity.com/en/berlin"><span class="topMenuSubItem">Berlin</span></a></li>
+								
+								<li><a href="http://www.visitacity.com/en/dublin"><span class="topMenuSubItem">Dublin</span></a></li>
 								
 								<li><a href="http://www.visitacity.com/en/florence"><span class="topMenuSubItem">Florence</span></a></li>
 								
@@ -281,7 +287,13 @@
 								
 								<li><a href="http://www.visitacity.com/en/hong-kong"><span class="topMenuSubItem">Hong Kong</span></a></li>
 								
+								<li><a href="http://www.visitacity.com/en/italian-lakes"><span class="topMenuSubItem">Italian Lakes</span></a></li>
+								
 								<li><a href="http://www.visitacity.com/en/london"><span class="topMenuSubItem">London</span></a></li>
+								
+								<li><a href="http://www.visitacity.com/en/melbourne"><span class="topMenuSubItem">Melbourne</span></a></li>
+								
+								<li><a href="http://www.visitacity.com/en/milan"><span class="topMenuSubItem">Milan</span></a></li>
 								
 								<li><a href="http://www.visitacity.com/en/munich"><span class="topMenuSubItem">Munich</span></a></li>
 								
@@ -295,11 +307,19 @@
 								
 								<li><a href="http://www.visitacity.com/en/salzburg"><span class="topMenuSubItem">Salzburg</span></a></li>
 								
+								<li><a href="http://www.visitacity.com/en/san-francisco"><span class="topMenuSubItem">San Francisco</span></a></li>
+								
+								<li><a href="http://www.visitacity.com/en/sydney"><span class="topMenuSubItem">Sydney</span></a></li>
+								
 								<li><a href="http://www.visitacity.com/en/tokyo"><span class="topMenuSubItem">Tokyo</span></a></li>
 								
 								<li><a href="http://www.visitacity.com/en/venice"><span class="topMenuSubItem">Venice</span></a></li>
 								
+								<li><a href="http://www.visitacity.com/en/verona"><span class="topMenuSubItem">Verona</span></a></li>
+								
 								<li><a href="http://www.visitacity.com/en/vienna"><span class="topMenuSubItem">Vienna</span></a></li>
+								
+								<li><a href="http://www.visitacity.com/en/zurich"><span class="topMenuSubItem">Zurich</span></a></li>
 								
 							</ul>
 							
@@ -425,7 +445,7 @@
 		padding: 10px 10px 0px 10px;border-top:1px solid rgb(128, 128, 128)">
 		
 		<div style="width:670px;float:left">
-			<a href="/jsp/copyright.jsp">Copyright  2012 visitacity.com.</a> 
+			<a href="/jsp/copyright.jsp">Copyright  2014 visitacity.com.</a> 
 			All rights reserved. No part of this site may be reproduced without our written permission.		
 		</div>
 		
