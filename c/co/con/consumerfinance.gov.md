@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerfinance.gov privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620101633id_/http%3A//www.consumerfinance.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerfinance.gov privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220101559id_/http%3A//www.consumerfinance.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy & legal notices > Consumer Financial Protection Bureau
 
