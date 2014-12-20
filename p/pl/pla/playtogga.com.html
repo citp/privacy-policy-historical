@@ -1,0 +1,1028 @@
+<!--The following is the downloaded HTML source of the playtogga.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220045405id_/http%3A//www.playtogga.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <!-- Optimizely Code Snippet -->
+    <script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/1138232312.js"></script>
+
+    <!-- Page Refresh -->
+    <meta http-equiv="refresh" content="1800">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="keywords" content="fantasy soccer, fantasy football, soccer, football, premier league, premiership, togga, play togga,draft league,draft soccer,draft,epl">
+    <meta name="description" content="Draft-style fantasy soccer. Create a league, invite your friends, run a draft, &amp; start playing head-to-head matches! Sign up for free and join the fantasy soccer community.">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="ico/favicon.ico">
+
+    <!-- Facebook Meta Tags, need to make this dynamic for sharing more than just the homepage -->
+    <meta property="og:url" content="http://www.playtogga.com">
+    <meta property="og:title" content="Fantasy Premier League | Draft Fantasy Soccer | EPL Fantasy">
+    <meta property="og:description" content="Draft-style fantasy soccer. Create a league, invite your friends, run a draft, &amp; start playing head-to-head matches! Sign up for free and join the fantasy soccer community.">
+    <meta property="og:image" content="http://www.playtogga.com/img/togga.png">
+
+	<!-- iPhone Mobile Safari Meta Tags -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<link rel="apple-touch-icon" href="../img/touch-icon-iphone.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="../img/touch-icon-ipad.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="../img/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="../img/touch-icon-ipad-retina.png">
+
+
+    <title>Fantasy Soccer | Fantasy Premier League | EPL &amp; BPL Draft</title>
+
+    <link href="//fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css">
+
+    <!-- VENDOR STYLESHEETS -->
+    <link href="http://www.playtogga.com/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://www.playtogga.com/vendor/font-awesome/font-awesome.css" rel="stylesheet">
+    <link href="http://www.playtogga.com/vendor/bootstrap-social/bootstrap-social.css" rel="stylesheet">
+    <link href="http://www.playtogga.com/vendor/bootstrap-datepicker/css/datepicker3.css" rel="stylesheet">
+    <link href="http://www.playtogga.com/vendor/bootstrap-3-timepicker/css/bootstrap-timepicker.min.css" rel="stylesheet">
+    <link href="http://www.playtogga.com/vendor/jquery-fixedheadertable/default-theme.css" rel="stylesheet">
+    <link href="http://www.playtogga.com/vendor/bootstrap-dataTables/css/dataTables.bootstrap.css" rel="stylesheet">
+
+    <!-- MAIN STYLESHEET -->
+        <link href="http://togga.s3.amazonaws.com/dist/all-decc39a1.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!--
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" ></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js" type="text/javascript"></script>-->
+    <script src="//connect.facebook.net/en_US/sdk.js"></script>
+
+
+    <script src="http://togga.s3.amazonaws.com/dist/js/all.min.js"></script>
+    <script src="http://togga.s3.amazonaws.com/bower_components/listjs/dist/list.js"></script>
+    <script src="http://togga.s3.amazonaws.com/bower_components/list.pagination.js/dist/list.pagination.js"></script>
+
+    <script src="http://togga.s3.amazonaws.com/js/togga/helpers.js"></script>
+    <script src="http://togga.s3.amazonaws.com/js/facebook-api.js"></script>
+    <script src="http://togga.s3.amazonaws.com/js/client-ids.js"></script>
+    <script src="http://togga.s3.amazonaws.com/js/components/uModal.js"></script>
+        <script src="http://cdn.datatables.net/1.10.4/js/jquery.dataTables.min.js"></script>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster
+    <script src="http://togga.s3.amazonaws.com/js/bootstrap.js"></script>
+    <script src="http://togga.s3.amazonaws.com/js/tab.js"></script>
+    <script src="http://togga.s3.amazonaws.com/js/transition.js"></script>
+    <script src="http://togga.s3.amazonaws.com/js/tooltip.js"></script> -->
+
+    <script>
+                        $(document).ready(function() {
+                    $("input").bind("keydown", function(event) {
+                        // track enter key
+                        var keycode = (event.keyCode ? event.keyCode : (event.which ? event.which : event.charCode));
+                        if (keycode == 13) { // keycode for enter key
+                            // force the 'Enter Key' to implicitly click the Update button
+                            event.preventDefault();
+                            doSignIn();
+                            return false;
+                        } else  {
+                            return true;
+                        }
+                    }); // end of function
+                });
+        
+        //initialize some togga js variables
+        var toggaSettings = {
+            baseUrl: 'http://www.playtogga.com',
+            authParams: '',
+            supportEmail: 'support@playtogga.com',
+            imageServer: 'http://togga.s3.amazonaws.com'
+        };
+
+        //initialize hello.js
+        hello.init( CLIENT_IDS, {redirect_uri:'../'} );
+
+        function doSignIn() {
+            _gaq.push(['_trackEvent', 'Landing Page', 'Login', 'Click']);
+            var data_url	= 'http://www.playtogga.com/api/login.php';
+            var email		= $('#signInEmail').val();
+            var pwd			= $('#signInPassword').val();
+
+            if (email.length < 5) {
+                displayMessage('Something Went Wrong', 'Please verify you have entered your email correctly. Your email should be something like suzie@something.com.');
+                return;
+            }
+            if (pwd.length < 5) {
+                displayMessage('Something Went Wrong', 'Please verify you have entered a valid password. Passwords must be at least 5 characters long.');
+                return;
+            }
+            $.ajax({
+                type: "POST",
+                data: "email="+email+"&password="+pwd,
+                dataType: "json",
+                url: data_url,
+                success: function(data) {
+                    if (data.response_type == 0) {
+                        _gaq.push(['_trackEvent', 'Landing Page', 'Login', 'Fail']);
+
+                        $('#loginError').show();
+                        $('#loginError').html('Something Went Wrong: ' + data.msg);
+                        //displayMessage('Something Went Wrong', data.msg);
+                    }
+                    else {
+                        _gaq.push(['_trackEvent', 'Landing Page', 'Login', 'Success', 1]);
+
+                        doMixpanelIdentify(data.id);
+                        doMixpanel('Login', {'Type':'Togga'});
+
+                        top.location.href	= 'http://www.playtogga.com/';
+                    }
+                },
+                error: function(request, textStatus, errorThrown) {
+                    $('#loginError').show();
+                    $('#loginError').html('Something Went Wrong: ' + "Please refresh your browser and try again or contact us at support@playtogga.com if you continue to have trouble.");
+                    //displayMessage('Something Went Wrong', "Please refresh your browser and try again or contact us at support@playtogga.com if you continue to have trouble.");
+                }
+            });
+        }
+        function doSignOut() {
+            var data_url	= 'http://www.playtogga.com/api/logout.php';
+            $.ajax({
+                type: "GET",
+                url: data_url,
+                success: function(data) {
+                    if (data.response_type == 0) {
+                        displayMessage('Something Went Wrong', data.msg);
+                    }
+                    else {
+                        top.location.href	= 'http://www.playtogga.com/';
+                    }
+                },
+                error: function(request, textStatus, errorThrown) {
+                    displayMessage('Something Went Wrong', "Please refresh your browser and try again or contact us at support@playtogga.com if you continue to have trouble.");
+                }
+            });
+        }
+    </script>
+    <script type="text/javascript">
+var bottom_js_version	= 100;
+
+function loadWorkspace(page_to_load, callback) {
+    addLoader('workspace');
+    loadSpace(page_to_load, 'workspace', callback);
+    window.scrollTo(0,0);
+}
+
+function loadSpace(page_to_load, name_of_space, callback) {
+    //console.log('load_space: '+page_to_load);
+    if (page_to_load.indexOf('?') < 0)
+    {
+        page_to_load = page_to_load + '?';
+    }
+    else
+    {
+        page_to_load = page_to_load + '&';
+    }
+
+    $.get(page_to_load + "", function(data) {
+        var $el = $('#'+name_of_space);
+        if ($el.length > 0) {
+            $el.html(data);
+
+            if (callback) {
+                callback();
+            }
+        }
+    });
+}
+
+
+function loadUModal(page_to_load, html, background_image, verticalLevel, widthSetting, loaderBall, callback) {
+    if ($(window).width() < 768)
+    {
+        verticalLevel = undefined;
+    }
+
+    uModal.init(html, background_image, verticalLevel, widthSetting);
+
+    if (loaderBall != undefined && loaderBall == false)
+    {
+        loadSpace(page_to_load, 'uModal-content', function () {
+            if (callback)
+            {
+                callback();
+            }
+            $('.uModal-backdrop').css('display','table');
+            $('body').addClass('no-scroll');
+        });
+    }
+    else
+    {
+        addLoader('uModal-content');
+        $('#work_loader').parent().css('height',300).css('width',300).css('margin', '0 auto');
+        loadSpace(page_to_load, 'uModal-content', callback);
+        $('.uModal-backdrop').css('display','table');
+        $('body').addClass('no-scroll');
+    }
+}
+
+function closeUModal() {
+  $('.uModal-backdrop').hide();
+  $('body').removeClass('no-scroll');
+  $('#uModal-content').css('background-image', 'none');
+  $('.uModal-container').removeClass(function (index, css) {
+      return (css.match (/\bvertical-center-\S+/g) || []).join(' ');
+  });
+}
+
+function displayMessage(title, msg) {
+    $('#messageModalTitle').text(title);
+    $('#messageModalBody').text(msg);
+    $('#messageModal').modal({});
+}
+function comingSoon() {
+    displayMessage('Coming Soon!', 'This completely amazing feature has not been implemented yet.')
+}
+
+function addLeagueToNav(leagueId, leagueName) {
+    leagueName  = leagueName.replace(/'/g, '\'');
+    var s       = '<li id="nav-league-"'+leagueId+'" role="presentation"><a onclick="loadWorkspace(\'/pages/leagues/view.php?LID='+leagueId+'\');return false;" role="menuitem" tabindex="-1" href="#">'+leagueName+'</a></li>';
+    $("#nav-leagues").prepend(s);
+}
+
+function addTeamToNav(teamId, teamName) {
+    teamName    = teamName.replace(/'/g, '\'');
+    var s       = '<li id="nav-team-"'+teamId+'" role="presentation"><a onclick="loadWorkspace(\'/pages/teams/manageteam-2.php?TID='+teamId+'\');return false;" role="menuitem" tabindex="-1" href="#">'+teamName+'</a></li>';
+    $("#nav-teams").prepend(s);
+}
+
+function validateEmail($email) {
+    if ($email.length < 3) {
+        return false;
+    }
+    var emailReg = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
+    return emailReg.test( $email );
+}
+function formatSeconds(seconds)
+{
+    var m = Math.floor(seconds / 60);
+    var s1 = ((seconds % 60) < 10) ? "0" : "";
+    var s2 = seconds % 60;
+    clockVal = m.toString() + ':' + s1.toString() + s2.toString();
+    return clockVal;
+}
+function formatSecondsWithHours(seconds)
+{
+    var h		= Math.floor(seconds / 3600);
+    var hrs		= ((h < 10) ? "0" + h : h);
+
+    var m		= Math.floor((seconds - (h * 3600)) / 60);
+    var min		= ((m < 10) ? "0" + m : m);
+
+    var s		= seconds % 60;
+    var sec		= ((s < 10) ? "0" + s : s);
+
+    clockVal	= hrs.toString() + ':' + min.toString() + ':' + sec.toString();
+    return clockVal;
+}
+function formatTimerTime(seconds) {
+    var num1	= 0;
+    var num2	= 0;
+    var txt1	= '';
+    var txt2	= '';
+
+    if (seconds > 86400) {
+        // Use days and hours
+        txt1	= 'd';
+        txt2	= 'h';
+        num1	= Math.floor(seconds / 86400);
+        num2	= Math.ceil((seconds - (num1 * 86400)) / 24);
+    } else if (seconds == 86400) {
+        txt1	= 'd';
+        txt2	= 'h';
+        num1	= 1;
+        num2	= 0;
+    } else if (seconds > 3600) {
+        txt1	= 'h';
+        txt2	= 'm';
+        num1	= Math.floor(seconds / 3600);
+        num2	= Math.ceil((seconds - (num1 * 3600)) / 60);
+    } else if (seconds == 3600) {
+        txt1	= 'h';
+        txt2	= 'm';
+        num1	= 1;
+        num2	= 0;
+    } else if (seconds > 60) {
+        txt1	= 'm';
+        txt2	= 's';
+        num1	= Math.floor(seconds / 60);
+        num2	= seconds - (num1 * 60);
+    } else if (seconds == 60) {
+        txt1	= 'm';
+        txt2	= 's';
+        num1	= 1;
+        num2	= 0;
+    } else {
+        txt1	= 'm';
+        txt2	= 's';
+        num1	= 0;
+        num2	= seconds;
+    }
+
+    var out 	= '';
+    //if (num1 == seconds) {
+    //	out	= num1+txt1;
+    //} else {
+    out	= num1+txt1+' '+num2+txt2;
+    //}
+
+    return out;
+}
+function addLoader(elementName) {
+    var	e	= document.getElementById(elementName);
+    if (!e) {
+        alert('Cannot addLoader for: '+elementName);
+    }
+    e.innerHTML="<div style='height:500px;'><img id='work_loader' src='http://togga.s3.amazonaws.com/img/spinners/soccer-ball.gif' /></div>";
+    centerMe(elementName, 'work_loader');
+}
+
+// Centers an element relative to another element
+function centerMe(my_parent_id, my_id) {
+    //get the width of the parent
+    var parent_height	= $('#'+my_parent_id).height();
+    var parent_width	= $('#'+my_parent_id).width();
+
+    //get the width of the image
+    var image_height	= $('#'+my_id).height();
+    var image_width		= $('#'+my_id).width();
+
+    //calculate how far from top the image should be
+    var top_margin		= (parent_height - image_height)/2;
+    var left_margin		= (parent_width - image_width)/2;
+
+    //and change the margin-top css attribute of the image
+    $('#'+my_id).css( 'margin-top' , top_margin);
+    $('#'+my_id).css( 'margin-left' , left_margin);
+}
+function doMixpanelAlias(userId) {
+                mixpanel.alias(userId);
+    }
+function doMixpanelIdentify(userId) {
+                mixpanel.identify(userId);
+    }
+/*
+    Anonymous pages should submit an empty string as userId.
+*/
+function doMixpanel(eventName, properties) {
+                mixpanel.track(eventName, properties);
+    }
+</script>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-50679507-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+    <!-- Conversion Pixel Code for Facebook, Google, and Bing -->
+    <script type="text/javascript">
+        function facebookConversionPixel(fb_pixel, fb_value){
+            var image = new Image(1,1);
+            image.src = "//www.facebook.com/offsite_event.php?id=" + fb_pixel + "&amp;value=" + fb_value + "&amp;currency=USD";
+        }
+        function googleConversionPixel(google_conversion_id, google_conversion_label) {
+            var image = new Image(1,1);
+            image.src = "//www.googleadservices.com/pagead/conversion/"+google_conversion_id+"/?label="+google_conversion_label;
+        }
+        function bingConversionPixel() {
+            var image = new Image(1,1);
+            image.src = "//flex.msn.com/mstag/tag/c713829c-894b-4d03-894e-e868dbb7adbb/analytics.html?dedup=1&domainId=3227923&type=1&actionid=256060";
+        }
+    </script>
+
+    <!-- start Mixpanel --><script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+            for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]);
+        mixpanel.init("36ab16d8795e2fd94b714433bbdb7be9");</script><!-- end Mixpanel -->
+</head>
+<body class="togga">
+<!-- Facebook SDK -->
+<div id="fb-root"></div>
+<!-- Facebook Pixel -->
+<div id="fb-pixel"></div>
+
+<!-- Facebook App Init -->
+<script>
+    FB.init({
+        appId      : '1448076638808025',
+        xfbml      : true,
+        version    : 'v2.2'
+    });
+</script><script>
+    function showResetPasswordModal() {
+        $('#resetPasswordSuccess').hide();
+        $('#resetPasswordError').hide();
+        $('#resetPasswordIntro').show();
+        $('#btnResetPassword').show();
+
+        $('#resetPasswordModal').modal('show');
+        $('#resetPasswordEmail').focus();
+    }
+    function showSignInModal() {
+        // $('#resetPasswordSuccess').hide();
+        // $('#resetPasswordError').hide();
+        // $('#resetPasswordIntro').show();
+        // $('#btnResetPassword').show();
+
+        $('#signInModal').modal('show');
+        $('#signInModal').focus();
+        $('.landingpage').css('overflow-y', 'hidden');
+    }
+    function resetPassword() {
+        var data_url	= 'http://www.playtogga.com/api/resetpassword.php';
+        $('#resetPasswordError').hide();
+
+        var email   = $('#resetPasswordEmail').val();
+        if (!validateEmail(email)) {
+            $('#resetPasswordError').html("That is not a valid email address.");	//show error to user
+            $('#resetPasswordError').show();
+            return false;
+        }
+
+        $.ajax({
+            type: "POST",
+            data: "email="+email,
+            dataType: "json",
+            url: data_url,
+            success: function(data) {
+                if (data.response_type == 0) {
+                    $('#resetPasswordError').html(data.msg);
+                    $('#resetPasswordError').show();
+                }
+                else {
+                    $('#resetPasswordIntro').hide();
+                    $('#resetPasswordSuccess').show();
+                    $('#btnResetPassword').hide();
+                }
+            },
+            error: function(request, textStatus, errorThrown) {
+                $('#resetPasswordError').html("Something went wrong. Please refresh your browser and try again or contact us at support@playtogga.com if you continue to have trouble.");
+            }
+        });
+    }
+</script>
+
+<!-- Register Modal -->
+<div id="signInModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="signInLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" onclick="
+        $('.landingpage').css('overflow-y', 'hidden');" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="signInLabel">Sign In</h4>
+            </div>
+            <div class="modal-body">
+                <div id="loginError" class="alert alert-danger" role="alert" style="display:none;"></div>
+
+                <div class="row btn-facebook-sign-in-row">
+                    <div class="col col-md-6">
+                        <a id="btnFacebookLogin" class="btn btn-lg btn-block btn-block btn-social btn-facebook"><i class="fa fa-facebook"></i>Sign in with Facebook</a>
+                    </div>
+                </div>
+
+                <script>
+                    $(document).ready(function(){
+                        $('#btnFacebookLogin').click(function(e){
+                            hello.login('facebook', {scope:'email, friends'}, function(e){
+                                loginWithFacebook(e, 'http://www.playtogga.com');
+                            });
+                        });
+                    });
+                </script>
+
+                <div class="social-sign-in-separator sc-font-light sc-text-light col col-md-12"><span>Or sign in with your email</span></div>
+
+                <form role="form">
+                    <div class="form-group form-group-lg col col-md-12">
+                        <input id="signInEmail" type="email" class="form-control input-lg" placeholder="Email Address">
+                    </div>
+                    <div class="form-group form-group-lg col col-md-12">
+                        <input id="signInPassword" type="password" class="form-control input-lg" placeholder="Password">
+                    </div>
+
+                    <div class="row btn-sign-in-row">
+                        <div class="col col-md-6 ">
+                            <button id="btnSignIn" type="submit" onclick="doSignIn();return false;" class="btn btn-lg btn-block btn-success">Sign in</button>
+                        </div>
+                    </div>
+
+                    <div class="row btn-forgot-pwd-row">
+                        <div class="col col-md-6">
+                            <a href="#" onclick="showResetPasswordModal();return false;">Forgot password?</a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="resetPasswordModal" tabindex="-1" role="dialog" aria-labelledby="resetPasswordModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="resetPasswordLabel">Reset Password</h4>
+            </div>
+            <div class="modal-body">
+                <div id="resetPasswordError" class="alert alert-danger"></div>
+                <div id="resetPasswordSuccess" class="alert alert-success">
+                    <p>We have sent your new password to your email address. Please check your spam folder just in case and add
+                    support@playtogga.com to your contacts.</p>
+                </div>
+                <div id="resetPasswordIntro">
+                    <p>We want to get you in and playing as fast as possible. You can reset your password here but don't hesitate to email us if you're having trouble, <a href="mailto:support@playtogga.com">support@playtogga.com</a>.</p>
+
+                    <form role="form">
+                      <div class="form-group">
+                        <label for="resetPasswordEmail">Email address</label>
+                        <input type="email" class="form-control" id="resetPasswordEmail" placeholder="Enter email">
+                      </div>
+                        <button id="btnResetPassword" type="button" onclick="resetPassword();return false;" class="btn btn-primary btn-success">Reset Password</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<nav class="no-padding togga-navbar navbar  navbar-fixed-top top-nav" role="navigation">
+	<div class="container">
+		<div class="navbar-header">
+            <div class="nav-toggle-container">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-nav-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar top"></span>
+                    <span class="icon-bar middle"></span>
+                    <span class="icon-bar bottom"></span>
+                </button>
+            </div>
+			<div class="brand-container">
+		        <a class="navbar-brand" href="/">
+				    <img class="logo-big hidden-xs img-responsive" width="165" height="51" src="http://togga.s3.amazonaws.com/img/togga_logo_white.png" alt="Togga">
+					<img class="logo-small visible-xs img-responsive" width="165" height="51" src="http://togga.s3.amazonaws.com/img/togga_logo_white.png" alt="Togga">
+				</a>
+			</div>
+            <div class="profile-container">
+                            </div>
+		</div>
+		<div id="top-nav-collapse" class="navbar-collapse collapse navbar-right">
+	    	<ul id="top-nav" class="nav navbar-nav">
+				
+						        <li class="anon-blog-link">
+			        <a id="drop5" class="collapse-link nav-link" role="button" tabindex="-1" href="http://blog.playtogga.com">Blog</a>
+		        </li>
+		        
+		        
+		        <form id="loginForm" style="display:block;" class="navbar-form navbar-right" role="login">
+		            <button id="btnSignIn" type="button" onclick="showSignInModal();return false;" class="btn btn-success">Sign in</button>
+		        </form>
+		    </ul>
+	    </div><!--/.nav-collapse -->
+	</div>
+</nav>
+
+
+
+<script>
+	$(function() {
+		$('.navbar-toggle').click(function() {
+			$('.navbar-toggle').toggleClass('active');
+		})
+
+					$('body').css('margin-top', 55);
+        
+        function animateBottomNav() {
+            $('.bottom-nav').effect("bounce", { times:5, direction: 'left', distance: '100%' }, 1500);
+        }
+
+        if ( $(window).width() <= 767 ) {
+            setTimeout(animateBottomNav, 1000);
+        }
+
+        leagueButtons = new initLeagueButtons();
+    })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    initLeagueButtons = function () {
+        // var self = t;
+        turnOff();
+
+        this.joinLeague = function () {
+          // e.preventDefault();
+
+          loadUModal('/pages/modals/join-league-modal.php', '', '', 3, 6, false);
+
+
+          initJoinLeagueButton();
+          initUModalCloseButton();
+        };
+
+        this.createLeague = function () {
+          // e.preventDefault();
+
+          loadUModal('/pages/modals/create-league-modal.php', '', '', 2, 6, false, function () {
+            $('#create-league-modal #time-zone').text('EST');
+
+            $('#create-league-modal #draft-time').on('focus', function () {
+                $(this).off('focus');
+                $(this).timepicker({defaultTime: '8:00 PM'});
+            });
+            $('#create-league-modal #draft-date').on('focus', function () {
+                $(this).off('focus');
+                $(this).datepicker({todayHighlight: true});
+                $(this).datepicker('update', new Date());
+            });
+          });
+
+          initCreateLeagueButton();
+          initUModalCloseButton();
+        };
+
+        // helper functions for initLeagueButtons
+        function initUModalCloseButton () {
+          $('.uModal-close').one('click', function () {
+            $(document).off('click', '#join-league-modal button');
+            $(document).off('click', '#create-league-modal button');
+          });
+        };
+
+        function initCreateLeagueButton () {
+          $(document).one('click', '#create-league-modal button', function (e) {
+            e.preventDefault();
+
+            $('#create-league-modal #button-text').hide();
+            $('#create-league-modal #spinner').show();
+
+            var leagueName = $('#create-league-modal #league-name').val();
+            var teamName = $('#create-league-modal #team-name').val();
+            var draftDate = $('#create-league-modal #draft-date').val();
+            var draftTime = $('#create-league-modal #draft-time').val();
+
+            draftDate = draftDate.substring(0, 5);
+            var draft = draftDate + " " + draftTime;
+
+            if (leagueName.length < 5)
+            {
+              showCreateLeagueErrorMessage('League name must be greater than 5 characters.');
+            }
+            else if (teamName.length < 3)
+            {
+              showCreateLeagueErrorMessage('Team name must be greater than 3 characters.');
+            }
+            else if (draft.length < 11)
+            {
+              showCreateLeagueErrorMessage('Please verify you have entered a valid date and time for your draft.');
+            }
+            else
+            {
+              createLeagueAPI(leagueName, teamName, draft);
+            }
+          });
+        };
+
+        function initJoinLeagueButton () {
+          $(document).one('click', '#join-league-modal button', function (e) {
+            e.preventDefault();
+
+            var refCode = $('#join-league-modal #ref-code').val();
+            var teamName = $('#join-league-modal #team-name').val();
+
+            $('#join-league-modal #button-text').hide();
+            $('#join-league-modal #spinner').show();
+
+            if (refCode.length < 9)
+            {
+              showJoinLeagueErrorMessage('Referral code must be 10 characters or greater.');
+            }
+            else if (teamName.length < 3)
+            {
+              showJoinLeagueErrorMessage('Team name must be greater than 3 characters.');
+            }
+            else
+            {
+              joinLeagueAPI(refCode, teamName);
+            }
+
+          });
+        };
+
+        function createLeagueAPI (leagueName, teamName, draft) {
+          var apiUrl = toggaSettings.baseUrl + '/api/teams/createleague2.php?' + toggaSettings.authParams;
+          var apiData = "leagueName="+leagueName+"&teamName="+teamName+"&draft="+draft;
+
+          $.ajax({
+            type: "POST",
+            url: apiUrl,
+            data: apiData,
+            dataType: 'json',
+            success: function(data) {
+              if(data.response_type === 0)
+              {
+                showCreateLeagueErrorMessage(data.msg);
+              }
+              else if(data.response_type === 1)
+              {
+                showCreateLeagueSuccessMessage("League created! Redirecting to the league page.")
+
+                setTimeout(function () {
+                  closeUModal();
+                  loadWorkspace('/pages/leagues/view.php?LID='+data.leagueId);
+                }, 1500);
+              }
+            },
+            error: function(request, textStatus, errorThrown) {
+              $(document).off('click', '#join-league-modal button');
+              $(document).off('click', '#create-league-modal button');
+              closeUModal();
+              // self.showTransactionMessage("failure", "Internal error getting createLeague2 API. Refresh or contact support.");
+            }
+          });
+        };
+
+        function joinLeagueAPI (refCode, teamName) {
+          var apiUrl = toggaSettings.baseUrl + '/api/teams/joinleague2.php?' + toggaSettings.authParams;
+          var apiData = "refCode="+refCode+"&teamName="+teamName;
+
+          $.ajax({
+            type: "POST",
+            url: apiUrl,
+            data: apiData,
+            dataType: 'json',
+            success: function(data) {
+              if(data.response_type === 0)
+              {
+                showJoinLeagueErrorMessage(data.msg);
+              }
+              else if(data.response_type === 1)
+              {
+                showJoinLeagueSuccessMessage("League joined! Redirecting to the league page.")
+
+                setTimeout(function () {
+                  closeUModal();
+                  loadWorkspace('/pages/leagues/view.php?LID='+data.leagueId);
+                }, 1500);
+              }
+            },
+            error: function(request, textStatus, errorThrown) {
+              $(document).off('click', '#join-league-modal button');
+              $(document).off('click', '#create-league-modal button');
+              closeUModal();
+              // self.showTransactionMessage("failure", "Internal error getting joinLeague2 API. Refresh or contact support.");
+            }
+          });
+        };
+
+        function showCreateLeagueErrorMessage(message) {
+          $('#create-league-modal .modal-message').css('visibility', 'hidden');
+          $('#create-league-modal .modal-message').html(message);
+          $('#create-league-modal .modal-message').addClass('alert-error');
+          $('#create-league-modal .modal-message').css('visibility', 'visible');
+
+          $('#create-league-modal #spinner').hide();
+          $('#create-league-modal #button-text').show();
+          initCreateLeagueButton();
+        };
+
+        function showCreateLeagueSuccessMessage(message) {
+          $('#create-league-modal .modal-message').css('visibility', 'hidden');
+          $('#create-league-modal .modal-message').html(message);
+          $('#create-league-modal .modal-message').addClass('alert-success');
+          $('#create-league-modal .modal-message').css('visibility', 'visible');
+        };
+
+        function showJoinLeagueErrorMessage(message) {
+          $('#join-league-modal .modal-message').css('visibility', 'hidden');
+          $('#join-league-modal .modal-message').html(message);
+          $('#join-league-modal .modal-message').addClass('alert-error');
+          $('#join-league-modal .modal-message').css('visibility', 'visible');
+
+          $('#join-league-modal #spinner').hide();
+          $('#join-league-modal #button-text').show();
+          initJoinLeagueButton();
+        };
+
+        function showJoinLeagueSuccessMessage(message) {
+          $('#join-league-modal .modal-message').css('visibility', 'hidden');
+          $('#join-league-modal .modal-message').html(message);
+          $('#join-league-modal .modal-message').addClass('alert-success');
+          $('#join-league-modal .modal-message').css('visibility', 'visible');
+        };
+
+        function turnOff() {
+          $('.uModal-close').off('click');
+
+        };
+    };
+
+</script>
+<div id="workspace" style="margin-top:55px;"><div class="privacy container">
+    <div class="row">
+        <div class="col col-md-12">
+            <div class="row" style="margin-top:20px;">
+                <div class="togga-green-panel panel panel-default">
+                    <div class="panel-heading">
+                        <h3>Privacy Policy (Revised June 2014)</h3>
+                    </div>
+                    <div class="panel-body">
+                        <p>Togga, Inc., a Delaware corporation (“Togga,” “our,” “us,” or "we") respects your privacy. In that regard, we have created this Privacy Policy to let you know what information we collect when you use the website vip.playtogga.com (the “Website”), why we collect it, and how it is used. By accessing the Website, you consent to the data practices prescribed in this Privacy Policy.
+
+                        </p><p style="font-weight:bold;">What information does Togga collect?
+
+                        </p><p>Personal Information.  If you sign up to play in a fantasy football league on the Website or fill out any other forms located on the Website, we may ask you to provide certain Personal Information (including your first and last name, email address, user name and password) that, among other things, will enable you to use certain features and will allow us to efficiently respond to your request. It is always your choice whether or not to provide that Personal Information. If you choose not to provide requested Personal Information, you may not be able to use certain features of the Website. As used in this document, "Personal Information," means any information that may be used to identify an individual, including, but not limited to, first and last name, employment information, home or other physical address, email address, phone number, or other contact information, whether at work or at home.
+
+                        </p><p>Technical Information.  We may collect and use technical data and related information, including but not limited to technical information about your device, system and application software, peripherals and your interactions with the Website (“Technical Information”).  Technical Information is gathered periodically to provide software updates, product support, product enhancements and other services to you (if any) related to the Website.  We may also automatically receive and record information on our server logs from your browser or mobile device, which could include your IP address, cookie information, browser information and the page you request. This information is not deemed by Togga to constitute Personal Information and while Togga will not use it in a way that associates such information with you, we may aggregate and use such information. Togga owns this information and may use it in any manner it deems appropriate.
+
+                        </p><p>Location Based Information.  You also acknowledge and agree that we may collect information about your physical location and the location of your device through the Website (“Location-Based Information”).
+
+                        </p><p>Do Not Track.  We may collect information from your web browser about your activities over time and across third-party websites, applications or other online services (including through embedded features such as buttons or widgets).  Your web browser may allow you to opt-out of our collection of this information by selecting a “do not track” (or similar) setting.  However, we do not currently have processes to address those settings or other “do not track” requests, and consequently, cannot guarantee that it will honor such requests.  If you do not want us to collect this information, do not use the Website.
+
+                        </p><p style="font-weight:bold;">How does Togga use this Information?
+
+                        </p><p>Except as otherwise set forth herein, Personal Information, Technical Information and Location-Based Information (collectively, “Information”) that you provide or that we collect will be kept confidential and used to support your relationship with Togga. Among other things, we want to help you quickly find information through the Website, and alert you to product upgrades, special offers, updated information and other new products and services through newsletters and emails from Togga. YOUR EMAIL ADDRESS AND OTHER INFORMATION MAY BE USED FOR THE PURPOSE OF INITIATING COMMERCIAL MESSAGES. We will allow you to opt out of receiving commercial messages, but in order to stop receiving any messages from us whatsoever (including administrative messages regarding the Service), you will need to terminate your account.
+
+
+                        </p><p>You own all right, title, and interest in and to any data (excluding Technical Information) that we collect from you via your use of and interaction with the Website (“Data”).  You also grant Togga a perpetual, non-exclusive, transferable, sublicensable, royalty free license to use such Data in order to collect, develop, create, extract or otherwise generate statistics and other information and to otherwise compile, synthesize and analyze such Data (“Blind Data”). To the extent that Togga collects or generates Blind Data, such Blind Data will be owned solely by Togga and may be used for any lawful business purpose without a duty of accounting to you, provided that such data is not personally identifiable and does not identify the source of such data.
+
+                        </p><p style="font-weight:bold;">Sharing of Information
+
+                        </p><p>Except as set forth herein, Togga does not rent, sell or share Information with or to third parties, and Information is only used to provide you with Togga products and services and to comply with any requirements of law.
+
+                        </p><p>Agents, technology vendors and/or contractors of Togga may have access to your Information on a need to know basis for the purpose of performing services on behalf of Togga or providing or enabling elements of the Website. All such agents or contractors who have access to such Information are required to keep it confidential and not use it for any other purpose than to carry out the services they are performing for Togga or as otherwise required by law.
+
+                        </p><p>Togga or its agents or contractors may disclose Information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process; (2) protect and defend the rights or property of Togga or its agents or contractors; or (3) act in urgent circumstances to protect the personal safety of users of the Website or the public.
+
+                        </p><p>Finally, if Togga should ever merge with another organization, file for bankruptcy, or sell our assets or capital stock, we may transfer the Information to a third party or share the Information to the company or its agents with which we enter into such transaction as a part of such transaction.
+
+                        </p><p style="font-weight:bold;">Security of Your Information
+
+                        </p><p>We maintain physical, electronic, and procedural safeguards designed to protect the Information.  Despite the actions and precautions we take, no data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of the Information and you acknowledge and agree that you transmit it to us at your own risk.
+
+                        </p><p>Please keep in mind that whenever you voluntarily disclose Information on our message boards or other public forums or features or through e-mail or group messaging, or voluntarily utilize features of the Service that inherently share Information, that Information can be collected and used by others. In short, by posting Information online that is publicly accessible (i.e. within message boards and the like), you may receive unsolicited messages from other parties in return or make others aware of your location.  We are not responsible for the security or privacy of any Information you choose to submit in connection with these public features.
+
+
+                        </p><p style="font-weight:bold;">Third-Party Websites, Websites and Technologies
+
+                        </p><p>We may provide links to third-party websites within the Website or the Website or in other communications to you. Such links may appear as a specific domain name or URL or may be activated by clicking on an advertisement or other icon or graphic. Please be aware that other websites and services, including the websites of third parties that you connect with through the Website, may collect personally identifiable information about you. This Privacy Policy does not cover the information practices of those third-party websites, services or applications and cannot control and are not responsible for the information collection practices of any such websites, services or applications. We encourage you to carefully review the terms of use, privacy policies, and any other legal notifications on such websites before using or providing information through such websites, services or applications. Further, the Website may employ third party technologies (such as Google Analytics) that require you to accept such third party’s terms. This Privacy Policy does not cover the information practices of those third-party technologies.
+
+                        </p><p style="font-weight:bold;">International Transfers
+
+                        </p><p>Information collected through the Website may be stored and processed in the United States or any other country in which Togga or its affiliates, subsidiaries, agents or contractors maintain facilities. If you are accessing the Website from the European Union or other regions with laws governing data collection and use the Website, please note that you are agreeing to the transfer of your data to the United States and processing globally. By providing your Information, you consent to any transfer and processing in accordance with this Privacy Policy.
+
+                        </p><p style="font-weight:bold;">Copyright Infringement.
+
+                        </p><p>If you believe that your work has been copied and posted on the Website in a way that constitutes copyright infringement, please send our Copyright Agent a notice of infringement with the following information: (a) an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright; (b) a description of the copyrighted work that you claim has been infringed; (c) a description of where the material that you claim is infringing is located on the App or the Website; (d) your address, telephone number, and primary email address; (e) a written statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and (f) a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. You may file a notice of infringement with our designated Copyright Agent.
+
+                        </p><p>It is our policy to respond to notices of alleged copyright infringement that comply with the requirements of the Digital Millennium Copyright Act (“DMCA”). Our designated Copyright Agent to receive DMCA communications (including notices and counter-notices of alleged infringement) is: Copyright Agent, [Name of Agent], [Insert address], Email: [insert email address], Phone: [insert phone number]
+
+                        </p><p>Upon receipt of a proper DMCA notice of infringement, we will promptly remove or disable access to the content that is the subject of the notice. It is our policy in appropriate circumstances to suspend, disable or terminate, without notice and in our sole discretion, the accounts of those subscribers that we determine to be “repeat infringers.”
+
+                        </p><p style="font-weight:bold;">Your Consent to this Privacy Policy
+
+                        </p><p>By using the Website, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version.
+
+                        </p><p>We may change this Privacy Policy by posting a new version of this Privacy Policy on our website or through the Website, and it is your responsibility to review this policy periodically. When we do change the policy, we will also revise the “last updated” date at the Privacy Policy and may notify you or post a message on the Website and/or through the Website. Your continued use of the Website constitutes your agreement to this Privacy Policy and any updates.
+
+                        </p><p style="font-weight:bold;">Contacting Togga
+
+                        </p><p>For questions or comments regarding this Privacy Policy, please contact us at <a href="mailto:support@playtogga.com">support@playtogga.com</a>.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div></div><div class="togga-footer footer">
+  <div class="container">
+    <!-- <div class="footer-main-row row visible-lg-block visible-md-block hidden-sm hidden-xs">
+        <div class="col-md-12">
+            <div class="row">
+                <a target="_blank" href="http://www.twitter.com/playtogga"><img src='http://togga.s3.amazonaws.com/img/landing_page/twitter_icon.png' title='Share On Twitter' style='height:28px;margin-right:15px;'/></a>
+                <a target="_blank" href="http://www.facebook.com/playtogga"><img src='http://togga.s3.amazonaws.com/img/landing_page/facebook_icon.png' title='Share On Facebook' style='height:28px;'/></a>
+            </div>
+            <div class="row">
+                &copy; 2014 TOGGA, Inc. All Rights Reserved
+            </div>
+            <div class="row">
+                <ul class="list-inline">
+                  <li><a href="/aboutus.php">About Us</a></li>
+                  <li><a href="http://blog.playtogga.com/">Blog</a></li>
+                  <li><a href="/faq.php">FAQ</a></li>
+                  <li><a href="/rules.php">Rules</a></li>
+                  <li><a href="/scoring.php">Scoring</a></li>
+                  <li><a href="/privacy.php">Privacy Policy</a></li>
+                  <li><a href="/termsofuse.php">Terms of Service</a></li>
+                </ul>
+            </div>
+        </div>
+    </div> -->
+    <div class="footer-main-row row visible-lg-block visible-md-block hidden-sm hidden-xs">
+        <div class="togga-footer-links col-md-7">
+            <!-- <div class="pull-right"> -->
+                    &nbsp;© 2014 TOGGA, Inc. All Rights Reserved
+                <ul class="list-inline">
+                  <li><a href="/aboutus.php">About Us</a></li>
+                  <li><a href="http://blog.playtogga.com/">Blog</a></li>
+                  <li><a href="/faq.php">FAQ</a></li>
+                  <li><a href="/rules.php">Rules</a></li>
+                  <li><a href="/scoring.php">Scoring</a></li>
+                  <li><a href="/privacy.php">Privacy Policy</a></li>
+                  <li><a href="/termsofuse.php">Terms of Service</a></li>
+                </ul>
+            <!-- </div> -->
+            <div style="margin-top:30px;">
+                <a href="https://mixpanel.com/f/partner"><img src="//cdn.mxpnl.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a>
+            </div>
+        </div>
+        <div class="col-md-5">
+            <!-- <div class="row">
+                <div class="col-md-4"> -->
+                <div class="pull-right">
+                    <span class="helper"></span>
+                    <a class="btn btn-social-icon btn-twitter" target="_blank" href="http://www.twitter.com/playtogga"><i class="fa fa-twitter"></i></a>
+                    <a class="btn btn-social-icon btn-facebook" target="_blank" href="http://www.facebook.com/playtogga"><i class="fa fa-facebook"></i></a>
+                </div>
+                <!-- </div>
+                <div class="col-md-8"> -->
+                <!-- </div>
+            </div> -->
+        </div>
+    </div>
+    <div class="footer-main-row row hidden-lg hidden-md visible-sm-block visible-xs-block">
+        <div class="col-sm-12 col-xs-12">
+            <div class="row">
+                <div class="col-sm-12 col-xs-12">
+                    <a class="btn btn-social-icon btn-twitter" target="_blank" href="http://www.twitter.com/playtogga"><i class="fa fa-twitter"></i></a>
+                    <a class="btn btn-social-icon btn-facebook" target="_blank" href="http://www.facebook.com/playtogga"><i class="fa fa-facebook"></i></a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12 col-xs-12">© 2014 TOGGA, Inc. All Rights Reserved</div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12 col-xs-12">
+                    <ul class="list-inline">
+                      <li><a href="/aboutus.php">About Us</a></li>
+                      <li><a href="http://blog.playtogga.com/">Blog</a></li>
+                      <li><a href="/faq.php">FAQ</a></li>
+                      <li><a href="/rules.php">Rules</a></li>
+                      <li><a href="/scoring.php">Scoring</a></li>
+                      <li><a href="/privacy.php">Privacy Policy</a></li>
+                      <li><a href="/termsofuse.php">Terms of Service</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+</div>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="http://togga.s3.amazonaws.com/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="http://togga.s3.amazonaws.com/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+<script src="http://togga.s3.amazonaws.com/vendor/bootstrap-3-timepicker/js/bootstrap-timepicker.min.js"></script>
+<script src="http://togga.s3.amazonaws.com/vendor/transition-js/transition.js"></script>
+<script src="http://togga.s3.amazonaws.com/vendor/bootstrap-dataTables/dataTables.bootstrap.js"></script>
+<script>
+	window.onbeforeunload = function(){
+		window.scrollTo(0,0);
+	}
+</script>
+
+
+
+</body></html>
