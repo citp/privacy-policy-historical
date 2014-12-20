@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitestuff.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428032507id_/http%3A//www.whitestuff.com/article-artltechie_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitestuff.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220115851id_/http%3A//www.whitestuff.com/privacy-policy-techie_privacy) for the most accurate reproduction.*
 
 # White Stuff | Techie stuff | Privacy
 
@@ -26,3 +26,5 @@ We are committed to protecting your personal information and we will endeavour o
 * Understanding the interests and buying behaviour of our website users and visitors.  
 * Disclosing your personal information on a need to know basis to agents that we use to help us improve our service to you and to process orders placed by you (for example credit companies) or any appropriate investigative third party if we believe you may be involved in any illegal or harmful conduct or if we are required to do so by law.  
 * Transferring your personal information to other companies in the same group of companies as White Stuff or to a third party who acquires all or substantially all of the assets of White Stuff, this is because our data forms part of our assets, whether by merger acquisition reorganisation or otherwise.
+
+[.](http://www.whitestuff.com/thank-you-cat_accept/?cid=knlqx2hcoy44yvndgmlqguye4upj48z7&clm=1)
