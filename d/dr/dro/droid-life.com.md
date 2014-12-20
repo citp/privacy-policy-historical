@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droid-life.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625194823id_/http%3A//www.droid-life.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droid-life.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221000020id_/http%3A//www.droid-life.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Droid Life
 
