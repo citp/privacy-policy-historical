@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caretoclick.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110452id_/http%3A//www.caretoclick.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caretoclick.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220040728id_/http%3A//caretoclick.com/privacy) for the most accurate reproduction.*
 
 # Care to Click
 
@@ -117,7 +117,7 @@ Individuals who are residents of California and have provided their personally i
 
 Care to Click, LLC
 
-PO Box 1150
+PO Box 642
 
 Boynton Beach, FL 33425
 
@@ -127,6 +127,6 @@ You may opt out of us disclosing your personally identifiable information to thi
 
 Care to Click, LLC
 
-PO Box 1150
+PO Box 642
 
 Boynton Beach, FL 33425
