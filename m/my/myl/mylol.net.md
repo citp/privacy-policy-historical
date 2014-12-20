@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610185601id_/http%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220041009id_/http%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
 
-# Forum - MyLOL
+# Teen Dating - MyLOL - Teen APP
 
 **This web site is owned and managed by Mylol.**
 
