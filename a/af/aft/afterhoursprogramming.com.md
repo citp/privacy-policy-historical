@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the afterhoursprogramming.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512121924id_/http%3A//www.afterhoursprogramming.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterhoursprogramming.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220175448id_/http%3A//www.afterhoursprogramming.com/information/privacy-policy) for the most accurate reproduction.*
 
-# Web Development Tutorials
-
-  
-
-
-[Terms of Use](http://www.afterhoursprogramming.com/information/terms-of-use/)
+# Privacy Policy
 
 ## What information do we collect?
 
@@ -59,7 +54,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 ## Your Consent
 
-By using our site, you consent to our websites privacy policy.
+By using our site or applications, you consent to this privacy policy.
 
 ## Changes to our Privacy Policy
 
@@ -67,3 +62,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
   
 
+
+If you enjoyed this resource, support me by sharing this page with others.
