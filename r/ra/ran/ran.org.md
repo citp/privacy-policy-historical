@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160310id_/http%3A//ran.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220063255id_/http%3A//www.ran.org/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rainforest Action Network
+# Privacy Policy - Rainforest Action Network
+
+  1. [Home](https://web.archive.org/)
+  2. Privacy Policy
+
+
 
 ## Rainforest Action Network's Privacy Policy
 
