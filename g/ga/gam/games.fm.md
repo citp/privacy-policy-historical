@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games.fm privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070422id_/http%3A//www.games.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.fm privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220122648id_/http%3A//www.games.fm/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -179,6 +179,106 @@ Snail Bob is still on the way. His dramatic stories take your heart. Does he com
 [](http://www.games.fm/angry+birds+games "Angry birds games")
 
 Games which are similar to Angry birds style. Shoot and hit enemies by cannon and save friends.
+
+[
+
+## Tycoon games
+
+](http://www.games.fm/tycoon+games "Tycoon games")
+
+[](http://www.games.fm/tycoon+games "Tycoon games")
+
+Tycoon games are one from the best types of online strategic games. Build your own railroad, hotel, resort, nightclub or building.
+
+[
+
+## Goodgame Empire
+
+](http://www.games.fm/goodgame-empire "Goodgame Empire")
+
+[](http://www.games.fm/goodgame-empire "Goodgame Empire")
+
+Great strategic online game from Middleages time. Millions of players around the world. Fight with them and be great king of your land.
+
+[
+
+## Shadow kings: Dark ages
+
+](http://www.games.fm/shadow-kings-dark-ages "Shadow kings: Dark ages")
+
+[](http://www.games.fm/shadow-kings-dark-ages "Shadow kings: Dark ages")
+
+You have to build city in game Shadow kings. Your mission is to develop the economy of city. Attention, you will be under attack of enemy units!
+
+[
+
+## Zombie games
+
+](http://www.games.fm/zombie+games "Zombie games")
+
+[](http://www.games.fm/zombie+games "Zombie games")
+
+Zombie games take place in modern day-styled game worlds. Zombie outbreaks are normally the product of scientific experiments gone wrong.
+
+[
+
+## Cooking games
+
+](http://www.games.fm/cooking+games "Cooking games")
+
+[](http://www.games.fm/cooking+games "Cooking games")
+
+Cooking games are usually aimed at children, especially girls. These educational games teach girls how to read and follow recipes.
+
+[
+
+## Hotel games
+
+](http://www.games.fm/hotel+games "Hotel games")
+
+[](http://www.games.fm/hotel+games "Hotel games")
+
+Hotel games are strategic time management games that allow the players to manage their own hotel. Usually the player is in charge of purchasing in-game properties.
+
+[
+
+## Math games
+
+](http://www.games.fm/math+games "Math games")
+
+[](http://www.games.fm/math+games "Math games")
+
+Math games are extremely educational puzzle games that teach children how to solve mathematical problems. They are available for children of all ages.
+
+[
+
+## Sniper games
+
+](http://www.games.fm/sniper+games "Sniper games")
+
+[](http://www.games.fm/sniper+games "Sniper games")
+
+Sniper games are first-person shooter games that rely on a player's reflexes. They can be rather complicated to beat and oftentimes rely on strategic thinking.
+
+[
+
+## Educational games
+
+](http://www.games.fm/educational+games "Educational games")
+
+[](http://www.games.fm/educational+games "Educational games")
+
+Educational games can encompass any number of game categories. They are usually aimed at younger children who are playing games for the first time.
+
+[
+
+## Uphill rush games
+
+](http://www.games.fm/uphill+rush+games "Uphill rush games")
+
+[](http://www.games.fm/uphill+rush+games "Uphill rush games")
+
+Select vehicle and ride. Famous Uphill rush series presents latest part of fantastic ride.
 
   
 
