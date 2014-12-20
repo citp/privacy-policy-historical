@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triadretail.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082729id_/http%3A//www.triadretail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triadretail.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220114819id_/http%3A//www.triadretail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Triad Retail Media
 
@@ -70,6 +70,8 @@ As provided by California Civil Code Section 1798.83, a California resident who 
 
 However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the publish in its privacy policy a policy of not disclosing customers’ personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
 
+California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. Because there currently isn't an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time.
+
 ## 12. Safe Harbor Compliance: Privacy Principles Concerning Information Collected/Transmitted from the European Union
 
 The following privacy principles specifically pertain to information collected/transmitted from the European Union (“EU”). Triad complies with the US-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Triad has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/ 
@@ -106,4 +108,4 @@ For concerns or complaints that cannot be resolved between Triad and the complai
 We welcome any questions or comments you may have regarding this privacy policy or the use of personal data. In addition, if you wish to contact correct, amend or delete information about privacy related issue or for any reason at all, you may do so in mailing your request to: Privacy Policy c/o Triad Digital Media, LLC db/a Triad Retail Media, 100 Carillon Pkwy., Ste. 100, Saint Petersburg, FL  33716  
 or email to: privacy@triadretail.com.
 
-[SMS Terms and Conditions](https://web.archive.org/web/20140625082729id_/http://triadretail.com/privacy/sms-terms-and-conditions.html)
+[SMS Terms and Conditions](https://web.archive.org/web/20141220114819id_/http%3A//www.triadretail.com/sms-terms-and-conditions.html)
