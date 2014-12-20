@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state-election.info privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605194507id_/http%3A//politicks.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state-election.info privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220124038id_/http%3A//politicks.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Presidential Election | Privacy Policy
 
@@ -18,6 +18,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Under no circumstances would we divulge any information about any individual user to any third party.
+Under no circumstances would we divulge personal information about any individual user to any third party - because we don't have any!.
 
 We are committed to conducting our website in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. This notice applies to all information collected from or submitted to these websites. We will only collect personal information by lawful and fair means and readily make available our policies and practices relating to the management of personal information. If you have any questions, concerns, or comments about our privacy policy please feel free to contact us.
