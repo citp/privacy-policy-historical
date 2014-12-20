@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the models-resource.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220025928id_/http%3A//www.models-resource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the models-resource.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220112131id_/http%3A//www.models-resource.com/privacy) for the most accurate reproduction.*
 
-# The Models Resource - Privacy Policy
+# Privacy Policy - The Models Resource
 
 The VG Resource cares about your privacy:
 
@@ -12,7 +12,7 @@ If we change our privacy policy, we will notify you by sending the changes to yo
 
 Information Collection  
 Registration  
-In order to become a member of The VG Resource, you must provide us with a valid email address, an identitying name ("username") and a password. If you were invited to GamerDNA by another member, we will also record who sent you the original invitation.
+In order to become a member of The VG Resource, you must provide us with a valid email address, an identifying name ("username") and a password. If you were invited to The VG Resource by another member, we will also record who sent you the original invitation.
 
 Invitations  
 If you invite another person to become a member of The VG Resource, we will send that person an e-mail with a personalized invitation from you. This email will contain your e-mail address. To confirm that invitations are accepted by the intended individual, we maintain a record of the e-mail addresses of the sender and recipient of invitations. We do not use this information for any purpose other than verifying invitation acceptance.
@@ -49,4 +49,4 @@ We may provide aggregate information, such as demographic, psychographic and pag
 
 When you send instant-messages or e-mails to other members through the service, your own instant-messaging information and e-mail contact information will be provided to those members. Any further communication between yourself and that member is subject to whatever privacy and security functions are present within your e-mail and instant messaging programs.
 
-If you have questions or comments about the The VG Resource privacy policy, please e-mail us at or write to us using the links provided to the right.
+If you have questions or comments about the The VG Resource privacy policy, please contact us using the contact form found in the link above.
