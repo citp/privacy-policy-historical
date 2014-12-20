@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakfiles.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607230127id_/http%3A//www.pakfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakfiles.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220202009id_/http%3A//www.pakfiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Pakfiles.com a source of entertainment
 
@@ -25,3 +25,9 @@ We keep the information you have given us for as long as you are a member on the
 
 **6\. Monitoring online activity**  
 Our members communicate with each other through instant messages, voice mail and onsite mail. While we do not generally censor or monitor members' private exchanges and Private videos, we reserve the right to do so if we suspect users of being under 18 or of using our Services in violation of our terms of use, Privacy Statement or disclosure agreement. Member submissions of videos, comments and personal profiles that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site.
+
+### Oops, your web browser will be unsupported soon.
+
+Our site is optimized with a wide range of browsers, please upgrade to a modern, fully supported browser. Find the latest versions of supported browsers below. 
+
+## Get Latest
