@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the recruitmentcareer.in privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531071724id_/http%3A//www.recruitmentcareer.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitmentcareer.in privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220122741id_/http%3A//www.recruitmentcareer.in/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Online Application 2014 | Recruitment Notification | KPSC | APPSC | MPPSC
+# Privacy Policy | RrecruitmentCareer.in | Admit Card | Results
 
 **Privacy Policy**
 
