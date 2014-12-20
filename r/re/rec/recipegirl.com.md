@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the recipegirl.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630104243id_/http%3A//www.recipegirl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipegirl.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220180457id_/http%3A//www.recipegirl.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Recipe Girl
-
-## Privacy Policy
+# Privacy Policy - RecipeGirl
 
 Your privacy is very important to us. We do not distribute your personal information to third parties for any purpose. We appreciate your business and are committed to protect your personal information as we would our own. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
