@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523153053id_/https%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220193910id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
 
-# The Clymb | The Gear You Need. Up To 70% Below Retail.™
+# Privacy Policy | The Clymb
 
-You must be logged in to continue. Please log in.
-
-## Privacy Policy
-
-Last Updated: April 2nd, 2013
-
-The Clymb respects your privacy. This Privacy Policy describes how The Clymb ("The Clymb", "we", "us" or "our") collects and uses your information through The Clymb website and handles the information you provide through your use of The Clymb website. This Privacy Policy does not apply to any information we collect through other sources. By using our website or purchasing any product or service online from The Clymb, you consent to the terms of our Privacy Policy.
+> #### Last Updated: April 2nd, 2013
+> 
+> The Clymb respects your privacy. This Privacy Policy describes how The Clymb ("The Clymb", "we", "us" or "our") collects and uses your information through The Clymb website and handles the information you provide through your use of The Clymb website. This Privacy Policy does not apply to any information we collect through other sources. By using our website or purchasing any product or service online from The Clymb, you consent to the terms of our Privacy Policy.
 
 ### Changes to this Privacy Policy
 
@@ -33,7 +29,7 @@ We do not knowingly collect or solicit personal information from children who ar
 
 
 
-## How We Use the Information
+### How We Use the Information
 
 The information we gather enables us to provide you with our website and services and to help administer your account. You consent to our use of your information to do the following:
 
@@ -46,7 +42,7 @@ The information we gather enables us to provide you with our website and service
 
 
 
-## Information We Share
+### Information We Share
 
 You consent to our sharing of information for the purposes described below.
 
@@ -91,9 +87,13 @@ To modify or delete your personal information, please update your member account
 
 ### Communication and Notifications
 
+* * *
+
 We may use e-mail, phone or other contact methods to (1) notify you of special offers, newsletters, and product alerts or features in which we believe you may be interested, (2) request information regarding your account or payment, (3) disseminate passwords, validate requests and provide customer support and (4) provide you with information that you request. You consent to receipt of any such communication. To unsubscribe from certain communications, please change your member account communications settings or follow the instructions in the email or other communication you receive. There are some essential, administrative communications for which you cannot opt out. Regardless of the settings you select, we may still send you service-related communications. All changes may take a few days to become effective. For example, if you have unsubscribed from any of our communications, you may still receive communications already in production due to production schedules. h3 Third Party Sites p | We are not responsible for the content of any pages, websites, applications or other services linked to or from our website. Links appearing on our website are for convenience only and are not an endorsement by us or our affiliates or their partners of the referenced content, product, service or supplier. Your linking to or from any off-site pages or other websites is at your own risk. You should carefully review the terms and conditions and privacy policies of all other pages, websites, applications and other services that you visit and/or use.
 
 ### Third Party Sites
+
+* * *
 
 We are not responsible for the content of any pages, websites, applications or other services linked to or from our website. Links appearing on our website are for convenience only and are not an endorsement by us or our affiliates or their partners of the referenced content, product, service or supplier. Your linking to or from any off-site pages or other websites is at your own risk. You should carefully review the terms and conditions and privacy policies of all other pages, websites, applications and other services that you visit and/or use.
 
