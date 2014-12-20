@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewillnigeria.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622102335id_/http%3A//thewillnigeria.com/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewillnigeria.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220185657id_/http%3A//thewillnigeria.com/news/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – THEWILL
+# Privacy Policy | THEWILL
 
 **Privacy Policy:**
 
