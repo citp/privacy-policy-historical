@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenya-airways.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220039id_/http%3A//kenya-airways.com/Global/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenya-airways.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220092951id_/http%3A//www.kenya-airways.com/Global/Privacy_Policy) for the most accurate reproduction.*
 
 # 
 
@@ -23,6 +23,16 @@ The personal information we collect and maintain about you is made up of informa
 **3\. What information do we collect about you?**  
 
 The personal information that we collect from you includes details such as your name, address, date of birth, telephone numbers, email address, flight details, credit card/bank account details, frequent flyer membership details and any special assistance or dietary requirements. You retain the right to withhold any information from us but please be aware that some of our products and services may not be available to you if this information is not collected.
+
+With regard to each of your visits to our website we may automatically collect the following information: 
+
+  1. i. technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; and 
+
+
+  1. ii. information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); web pages on our website that you have visited; products/videos/campaign materials you viewed or searched for; page response times; whether you downloaded a particular whitepaper or campaign material; download errors; the length of your visits to certain pages; page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page; and any phone number used to call our customer service number."  
+  2.  
+
+
 
 **4\. What about sensitive information?**  
 
@@ -52,7 +62,14 @@ In certain circumstances you may give us information about another person, for e
 
 • To comply with any applicable laws and regulations, including the transfer of personal information to relevant customs and immigration authorities
 
-6.2 We may retain and store some of your personal information, including your customer profile information (such as your name, contact details, flight and seat preferences) and transactional information (flight bookings and service history) to improve customer satisfaction and to tailor our services to meet your individual needs.
+6.2 We may retain and store some of your personal information, including your customer profile information (such as your name, contact details, flight and seat preferences) and transactional information (flight bookings and service history) as well as technical information and information about your visits to our website to improve customer satisfaction and to tailor our website and our services to meet your individual needs, as well as to conduct relevant and targeted campaigns to our website visitors.  
+ 
+
+6.3 We may also use this information: 
+
+i. to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about; or 
+
+ii. to provide you, or permit selected third parties (such as our subsidiaries, associate companies and/or business associates) to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means only if you have expressly consented to this. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data. 
 
 **7\. Where will your information be processed?**  
 
@@ -66,11 +83,25 @@ We take security issues seriously. We have implemented appropriate steps to help
 
 **9\. How do we keep your online information secure?**  
 
-To ensure that the information you provide us with online is protected, we use a secure server known as Secure Server Layer (SSL). This means that all information submitted through our web site, including your credit card details, is encrypted to provide greater protection. Although we take every measure to protect this information, we make no warranty regarding the effectiveness of this encryption and we will not be held liable for unauthorised access to this information.
+To ensure that the information you provide us with online is protected, we use a secure server known as Secure Server Layer (SSL). This means that all information submitted through our web site, including your credit card details, is encrypted to provide greater protection. Nevertheless, the transmission of information via the internet is not completely secure and we cannot guarantee the effectiveness of this encryption. 
 
-**10\. Does our web site use cookies?**  
+**10\. Does our website use cookies?  ** 
 
-The web site uses cookies, small pieces of information that are stored by the browser on your computer's hard drive, to help us provide you with a better site experience. None of your personal details are held in these cookies. If you are uncomfortable with our use of cookies you can disable them by changing the settings on your browser, but please note that if you disable them it may affect your ability to properly use the site. You can find out more about the way cookies work and how to disable them at http://www.cookiecentral.com.
+The website uses cookies, small pieces of information that are stored by the browser on your computer's hard drive, to help us provide you with a better site experience. 
+
+None of your personal details are held in these cookies. 
+
+For example, the cookies will be able to collect the following information about your behavior:
+
+• Web pages on our website that you have visited
+
+• Whether you downloaded a particular whitepaper or other campaign material
+
+• Whether you have viewed a video/campaign material on the website
+
+KQ will collect your behavioral information about our website and be able to conduct relevant and targeted campaigns to our website visitors.
+
+If you are uncomfortable with our use of cookies you can disable them by changing the settings on your browser, but please note that if you disable them it may affect your ability to properly use the site. By using this site without disabling cookies settings on your browser, you agree to the placement of cookies on your computer in accordance with the terms of this policy. You can find out more about the way cookies work and how to disable them at [http://www.cookiecentral.com.](http://www.cookiecentral.com./ "http://www.cookiecentral.com.") 
 
 **_DISCLOSING YOUR INFORMATION TO THIRD PARTIES_**  
 
@@ -90,7 +121,7 @@ The web site uses cookies, small pieces of information that are stored by the br
 
 • authorised or required by law
 
-• reasonably necessary to enforce the law
+• reasonably necessary to enforce the law or 
 
 • necessary to investigate a suspected unlawful activity.
 
