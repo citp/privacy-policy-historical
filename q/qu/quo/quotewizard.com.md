@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110931id_/http%3A//quotewizard.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotewizard.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220091837id_/http%3A//quotewizard.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | QuoteWizard Insurance Leads
+# Privacy Policy | QuoteWizard
 
 _This privacy policy was last updated on May 12th, 2014_
 
