@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytrippen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101912id_/http%3A//www.daytrippen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytrippen.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220110200id_/http%3A//www.daytrippen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Daytrippen Privacy Policy Statement
 
@@ -27,10 +27,20 @@ Cookies
 Ad Servers  
 To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. 
 
-Google Advertising  
-Google, as a third party vendor, uses cookies to serve ads on your site.   
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+Google Advertising
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.  
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of interest-based advertising by visiting [Ads Setting](http://www.google.com/ads/preferences/)s.
+
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+
 Users may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html). 
+
+Affiliate Link Disclosure
+
+Some links on this site are for products or tickets provide a small commission. This helps with costs associated with maintaining and running this site. NONE of the events or destinations links are paid or sponsored.
 
 Editor’s Note: Comments that appear on the site are not the opinion of DayTrippen.com, but only of the comment writer. Personal attacks, offensive language and unsubstantiated allegations are not allowed. 
 
