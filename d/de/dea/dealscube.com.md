@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the dealscube.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121841id_/http%3A//www.dealscube.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealscube.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220075510id_/http%3A//www.dealscube.com/privacy.asp) for the most accurate reproduction.*
 
 # Online Marketplace
 
 [ ](http://www.dealscube.com/index.asp)
 
-  * [ Home ](http://www.dealscube.com/index.asp)
-  * [ Browse ](http://www.dealscube.com/browse.asp)
-  * [ Register ](https://www.dealscube.com/register.asp)
-  * [ My Account ](https://www.dealscube.com/myauction.asp)
-  * [ Sell ](http://www.dealscube.com/sellitem.asp)
-  * [ Stores ](http://www.dealscube.com/stores.asp)
-  * [ Help ](http://www.dealscube.com/helpgeneral.asp)
-  * [ Community ](http://www.dealscube.com/chat/default.asp)
-  * [ Contact Us ](http://www.dealscube.com/contact.asp)
-
-
-
-100% Free Online Marketplace 
+Online Marketplace 
 
   
 
@@ -40,6 +28,3 @@ We may share information with governmental agencies or other companies assisting
 Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
-
-  
-
