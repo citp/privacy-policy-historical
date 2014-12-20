@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the philly.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630202430id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the philly.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220181831id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <title>Privacy Policy &amp; Terms of Use - philly.com</title>
@@ -25,125 +25,118 @@
 <link rel="shortcut icon" href="http://media.philly.com/designimages/favicon.ico" type="image/vnd.microsoft.icon">
 <link rel="apple-touch-icon" href="http://media.philly.com/designimages/apple-touch-icon.png" type="image/png">
  
- <script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://www.philly.com/includes/9dd21d9990e911a03189ffc3529b9c9b/jQuery-1-8-2-min.js"></script>
+
+
+ <script type="text/javascript" async="" src="https://scdn.cxense.com/cx.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="http://a.visualrevenue.com/vrs.js"></script><script type="text/javascript" src="http://www.philly.com/includes/9dd21d9990e911a03189ffc3529b9c9b/jQuery-1-8-2-min.js"></script>
 
 
 
-		
+	
 	 
 
 
 
-		<link rel="stylesheet" type="text/css" href="http://www.philly.com/includes/e2502879177502931b24edad4f013a52/global.css">
-		<link rel="stylesheet" type="text/css" href="http://www.philly.com/includes/331d994407a1419c192c7dbbfa32c26d/main_philly.css">
+		<link rel="stylesheet" type="text/css" href="http://www.philly.com/includes/a8e801a6e4c545edd0f23f57fe441dbd/global.css">
+	
+	<link rel="stylesheet" type="text/css" href="http://www.philly.com/includes/e0ef8647a7f87755440b3cf83fe5173f/main_philly.css">
 
 	 	 
 				
 	 
 
 
+	
+		<script type="text/javascript">
+		rm = false;
+		userName = "";
+		userEmail = "";
+		userIdHere = "";
 
-			<script language="javascript" type="text/javascript">
-				rm = false;
-				userName = "";
-				userEmail = "";
-				userIdHere = "";
-			</script>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-function createCookie(name,value,days) {
-	if (days) {
-		var date = new Date();
-		date.setTime(date.getTime()+(days*24*60*60*1000));
-		var expires = "; expires="+date.toGMTString();
-	}
-	else var expires = "";
-	document.cookie = name+"="+value+expires+"; path=/; domain=.philly.com";
-}
-
-function readCookie(name) {
-	var nameEQ = name + "=";
-	var ca = document.cookie.split(';');
-	for(var i=0;i < ca.length;i++) {
-		var c = ca[i];
-		while (c.charAt(0)==' ') c = c.substring(1,c.length);
-		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-	}
-	return null;
-}
-
-function eraseCookie(name) {
-	var expires = "";
-	createCookie(name,null,-1);
-	document.cookie = name+"="+value+expires;
-}
-
-function getUserName(){
-	document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://www.philly.com/philly/userarea/?c=n&d=0.08941149901187495"></scr'+'ipt>');
-}
-
-
- // If the server has logged them in but they don't have a username or SID cookie set yet, call getUserName(), which will set all the login cookies.
- // NOTE: since this runs on every page, provides a way of setting new cookies on already logged-in [persisted] user sessions
-if(readCookie("UID") && (!readCookie("username") || !readCookie("SID") || !readCookie("7445598737"))){
-	getUserName();
-
-}
-
-
-
-if(readCookie("username") && readCookie("username") !=""){
-	rm = true;
-	rname = readCookie("username");
-	userName = rname;
-	userEmail = readCookie("email");
-	userIdHere = readCookie("SID");
-}else{
-	rm = false;
-	if(!readCookie("splitGroup")) {
-			createCookie("splitGroup","a",30);
+		function createCookie(name,value,days){
+			var cookieStr = "";
+			var expires = "";
+			if (days) {
+				var dateObj = new Date();
+				dateObj.setTime(dateObj.getTime()+(days*24*60*60*1000));
+				expires = "; expires="+dateObj.toGMTString();
+			}
+			cookieStr = name + "=" + value + expires + "; path=/; domain=.philly.com";
+			document.cookie = cookieStr;
 		}
-}
+		
+		function readCookie(name){
+			var nameEQ = name + "=";
+			var ca = document.cookie.split(';');
+			for (var i=0, l=ca.length; i<l; ++i) {
+				var c = ca[i];
+				while (c.charAt(0)==' ')
+					c = c.substring(1,c.length);
+				if (c.indexOf(nameEQ) == 0)
+					return c.substring(nameEQ.length,c.length);
+			}
+			return null;
+		}
 
-// Adding to make sure when a pending user signs out and comes back in, the regConfirmationCookie is properly cleared out.
-if(!readCookie("UID") && readCookie("regConfirmationStatus")){
-	eraseCookie("regConfirmationStatus");
-}
+		function eraseCookie(name){
+			createCookie(name,"",-1);
+			
+		}
 
-// Adding to make sure when a user signs out, the SID cookie is properly cleared out.
-if(!readCookie("UID") && readCookie("SID")){
-	eraseCookie("SID");
-}
-
-
-
-// As long as regConfirmationStatus remains pending, call the /philly/userarea "determine login status" template (via getUserName()) to re- set the cookie values.
-if(readCookie("regConfirmationStatus") && readCookie("regConfirmationStatus") == "pending") {
-	getUserName();
-}
-
-if(readCookie("regConfirmationStatus")){
-	var userStatus = readCookie("regConfirmationStatus");
-}
-
-
-
-if(!readCookie("splitGroup")) {
+		function getUserName(){
+							document.write('<scr'+'ipt type="text/javascript" src="http://www.philly.com/philly/userarea/?c=n&d=0.04947937910212952"></scr'+'ipt>');
+					}
 
 
-	createCookie("splitGroup","a",30);
+		// If the server has logged them in but they don't have a username or SID cookie set yet, call getUserName(), which will set all the login cookies.
+		// NOTE: since this runs on every page, provides a way of setting new cookies on already logged-in [persisted] user sessions
+		if(readCookie("UID") && (!readCookie("username") || !readCookie("SID") || !readCookie("7445598737"))){
+			getUserName();
+		
+		}
 
+		if(!readCookie("UID") && readCookie("username")){
+			eraseCookie("username");
+		}
 
-}
+		if (readCookie("username") && readCookie("username") !="") {
+			rm = true;
+			rname = readCookie("username");
+			userName = rname;
+			userEmail = readCookie("email");
+			userIdHere = readCookie("SID");
+		} else {
+			rm = false;
+			userName = "";
+			userEmail = "";
+			userIdHere = "";
+			
+		}
 
-// -->
-</script>
+		// Adding to make sure when a pending user signs out and comes back in, the regConfirmationCookie is properly cleared out.
+		if (!readCookie("UID") && readCookie("regConfirmationStatus")) {
+			eraseCookie("regConfirmationStatus");
+		}
 
+		// Adding to make sure when a user signs out, the SID cookie is properly cleared out.
+		if (!readCookie("UID") && readCookie("SID")) {
+			eraseCookie("SID");
+		}
 
+		// As long as regConfirmationStatus remains pending, call the /philly/userarea "determine login status" template (via getUserName()) to re- set the cookie values.
+		if (readCookie("regConfirmationStatus") && readCookie("regConfirmationStatus") == "pending") {
+			getUserName();
+		}
 
+		if (readCookie("regConfirmationStatus")) {
+			var userStatus = readCookie("regConfirmationStatus");
+		}
 
+		if (!readCookie("splitGroup")) {
+							createCookie("splitGroup","a",30);
+					}
+	</script>
+	
+	
 
 
  <script type="text/javascript" language="javascript" src="http://www.philly.com/includes/994c0b445697af92242c16f1cb5b8701/global.js"></script> 
@@ -154,9 +147,7 @@ if(!readCookie("splitGroup")) {
 
 
  <script type="text/javascript">
-  	   	   	   	   	   	   	   	   	   	   	   	   	   	 
-
-		
+  	   	   	   	   	   	   	   	   	   	   	   	   	   	   	 	
 </script>
 <script type="text/javascript" src="http://www.philly.com/includes/2764a133bf7eb4dcf423acec2b95de9f/navHover.js"> </script>
 
@@ -168,7 +159,6 @@ if(!readCookie("splitGroup")) {
 	<!-- 
 
 		
-	
 	
 
 	
@@ -183,7 +173,6 @@ if(!readCookie("splitGroup")) {
 	</style>
 					<link rel="stylesheet" type="text/css" href="http://www.philly.com/templates/pageLayoutCSS?id=175222231">
 				
-
 
 
 
@@ -249,19 +238,15 @@ var AamGpt = {
 
 
 		<script type="text/javascript">
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-	(function () {
-	    var gads = document.createElement('script');
-	    gads.async = true;
-	    gads.type = 'text/javascript';
-	    var useSSL = 'https:' == document.location.protocol;
-	    gads.src = (useSSL ? 'https:' : 'http:') +
-		'//www.googletagservices.com/tag/js/gpt.js';
-	    var node = document.getElementsByTagName('script')[0];
-	    node.parentNode.insertBefore(gads, node);
+	(function() {
+	var src = '//www.googletagservices.com/tag/js/gpt.js';
+	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+	})(); </script><script src="//www.googletagservices.com/tag/js/gpt.js"></script> <script type="text/javascript">
+	(function() {
+	var src = '//ox-d.philly.servedbyopenx.com/w/1.0/jstag?nc=4495-philly';
+	document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 	})();
-	</script>
+	</script><script src="//ox-d.philly.servedbyopenx.com/w/1.0/jstag?nc=4495-philly"></script>
 				 
 
       			   <script type="text/javascript">
@@ -269,11 +254,11 @@ var AamGpt = {
 
 
 
-														
+		 	 													
 						
 					
 
-						googletag.defineSlot('/4495/ph.admin/terms_of_use', [[972,30],[1,1],[972,250],[728,90],[972,75],[970,250],[940,30],[940,300],[970,90]], 'div-gpt-ad-slider-1')
+						googletag.defineSlot('/4495/ph.admin/terms_of_use', [[970,30],[1,1],[728,90],[970,250],[970,90]], 'div-gpt-ad-slider-1')
 			.addService(googletag.pubads())
 			.setTargeting('pos','slider');
 									googletag.defineSlot('/4495/ph.admin/terms_of_use', [[300, 250],[300, 600],[300, 1050]], 'div-gpt-ad-mrec-5')
@@ -285,14 +270,18 @@ var AamGpt = {
 									googletag.defineSlot('/4495/ph.admin/terms_of_use', [[300, 250]], 'div-gpt-ad-rail-11')
 			.addService(googletag.pubads())
 			.setTargeting('pos','rail');
-																																																																																																																																																																																																																							googletag.pubads().setTargeting('type',['secondary']);		
+																																																																																																																																																																																																																																																																							
+			
+						
+																																																																		
+			
+									googletag.pubads().setTargeting('type',['secondary']);		
 		if(typeof AamGpt.getCookie("philly_aam") != "undefined" &&
 typeof AamGpt.getCookie("aam_uuid") != "undefined" ){
    googletag.pubads().setTargeting(AamGpt.getKey("philly_aam"), AamGpt.getValues("philly_aam"));
    googletag.pubads().setTargeting("aamId", AamGpt.getCookie("aam_uuid"));
 };
-		googletag.defineOutOfPageSlot('/4495/ph.admin/terms_of_use', 'div-gpt-ad-wallpaper-oop').addService(googletag.pubads());
-		
+		googletag.defineOutOfPageSlot('/4495/ph.admin/terms_of_use', 'div-gpt-ad-wallpaper-oop').addService(googletag.pubads());		
 				googletag.pubads().collapseEmptyDivs();
 		googletag.pubads().enableSingleRequest();
 		googletag.enableServices();
@@ -300,33 +289,27 @@ typeof AamGpt.getCookie("aam_uuid") != "undefined" ){
 	</script>
 	
 
+
 </head>
 <body itemscope="" itemtype="http://schema.org/Thing"><!--googleoff: all-->
 <div class="tracking">
-
-
-
 <!-- SiteCatalyst code version: H.25.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
  
-<script language="JavaScript" type="text/javascript" src="http://www.philly.com/includes/phillyATM_loader.js"></script>
-
+	<script language="JavaScript" type="text/javascript" src="http://www.philly.com/includes/phillyATM_loader.js"></script>
+	 
 <script language="JavaScript" type="text/javascript">//<![CDATA[
 if(s){
   
 s.server="www.philly.com";
 
 
+
 	s.pageName="section front: Privacy Policy & Terms of Use - philly";
 	s.channel="admin";
 	s.prop2="philly Privacy Policy & Terms of Use";
-
-		
-	s.prop4 = "philly";
-
-
-
+			s.prop4 = "philly";
  s.prop8=s.getTimeParting('d','-5','2014');  // set day of week 
  s.prop9=s.getTimeParting('h','-5','2014');  // set hour of day 
  s.prop10=s.getTimeParting('w','-5','2014'); // set weekend/weekday
@@ -337,37 +320,21 @@ if(readCookie("igmContent") && readCookie("igmContent") != "") {
 } else {
 	s.prop30="logged out";
 }
-
 if(readCookie("userAge") && readCookie("userAge") != "") {
 s.eVar41 = readCookie("userAge"); 
 }
 if(readCookie("gender") && readCookie("gender") != "") {
 s.eVar42 = readCookie("gender"); 
 }
-
 if (readCookie("splitGroup") !="") {
 	s.eVar13=readCookie("splitGroup");
 }
-
-											
-
-s.prop21=s.getDaysSinceLastVisit();
+											s.prop21=s.getDaysSinceLastVisit();
 s.prop22=s.server;
-s.prop23="philly:about:terms_of_use";
- 
-
-
-
-s.prop27="";
-
+s.prop23="philly:about:terms_of_use"; s.prop27="";
 /* Hierarchy Variables */
-
 s.prop5="philly,admin,about,terms_of_use,index";
-
 s.hier2="philly,philly,admin,about,terms_of_use,index";
-
-
-
 
 	s.prop60="admin";
 	s.eVar60=s.prop60;
@@ -375,22 +342,14 @@ s.hier2="philly,philly,admin,about,terms_of_use,index";
 		s.eVar61=s.prop61;
 				s.prop62="terms_of_use";
 		s.eVar62=s.prop62;
-		
-
-
-
-s.hier1=s.prop5;
-
+	s.hier1=s.prop5;
 s.events="event1,event4";
 s.t()
 }
 //]]</script>
 
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-
 		  
-	  
-
 <!--Visual Revenue Reader Response Tracking Script (v6) -->
 <script type="text/javascript">
 var _vrq = _vrq || [];
@@ -407,39 +366,32 @@ x.parentNode.insertBefore(svr, x);
 </script>
 <!-- End of VR RR Tracking Script - All rights reserved -->
 
-
-
-	
-
-
-
- 	<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
+	 	<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
 var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900167921";_q+="&7=167921";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900167921";_qc+="&7=167921";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900167921&7=167921&25=0&18=0.9449481164053802">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900167921&7=167921&25=0&18=0.6540554641175029">
 </noscript>
 
-
-
-	
-</div>
+	</div>
 	 
 
 
 <div id="member-bar-wrapper">
 <div id="member-bar-area">
 	<div id="header-widgetArea">
-		<div id="tdate"><span>Monday, June 30, 2014</span></div>
+		<div id="tdate"><span>Saturday, December 20, 2014</span></div>
 	</div>
 	<div id="user-welcome-snippet-wrapper">
 			<div id="social-media-header">
 				<ul>
-					<li><a href="https://www.facebook.com/phillydotcom"><span id="header_facebook_icon"><img border="0" src="http://media.philly.com/designimages/social-media-icons-fb.png"></span></a></li>
-					<li><a href="https://twitter.com/phillydotcom"><span id="header_twitter_icon"><img border="0" src="http://media.philly.com/designimages/social-media-icons-t.png"></span></a></li>
-					<li><a href="https://plus.google.com/+phillynews/posts"><span id="header_gplus_icon"><img border="0" src="http://media.philly.com/designimages/social-media-icons-g.png"></span></a></li>
+					<li id="header_facebook_icon"><a href="https://www.facebook.com/phillydotcom"><span id="header_facebook_icon"><img width="20" border="0" src="http://media.philly.com/designimages/social-media-icons-facebook.png"></span></a></li>
+					<li class="social_spacer"></li>
+					<li id="header_twitter_icon"><a href="https://twitter.com/phillydotcom"><span id="header_twitter_icon"><img width="20" border="0" src="http://media.philly.com/designimages/social-media-icons-twitter.png"></span></a></li>
+					<li class="social_spacer"></li>
+					<li id="header_gplus_icon"><a href="https://plus.google.com/+phillynews/posts"><span id="header_gplus_icon"><img width="20" border="0" src="http://media.philly.com/designimages/social-media-icons-google.png"></span></a></li>
 				</ul>
 			</div>
 			<div id="user-welcome-snippet">
@@ -475,9 +427,9 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 
 
 				} else {
-										document.write('<div class=\'np-link\'> <b>Member Login:</b></div><div class=\'np-link\'> <a rel="nofollow" href="/s?action=login&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use" id="signinlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign In\');"> Sign In</a> |</div><div class=\'np-link\'> <a rel="nofollow" href="/s?action=reg&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use" id="registerlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Register\');">Register</a></div>');
+										document.write('<div class=\'np-link\'> </div><div class=\'np-link\'> <a rel="nofollow" href="/s?action=login&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use" id="signinlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign In\');"> Sign In</a> |</div><div class=\'np-link\'> <a rel="nofollow" href="/s?action=reg&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use" id="registerlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Register\');">Register</a></div>');
 								}
-			</script><div class="np-link"> <b>Member Login:</b></div><div class="np-link"> <a rel="nofollow" href="/s?action=login&amp;requested=y&amp;rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use" id="signinlink" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Right: Sign In');"> Sign In</a> |</div><div class="np-link"> <a rel="nofollow" href="/s?action=reg&amp;requested=y&amp;rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use" id="registerlink" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Right: Register');">Register</a></div>
+			</script><div class="np-link"> </div><div class="np-link"> <a rel="nofollow" href="/s?action=login&amp;requested=y&amp;rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use" id="signinlink" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Right: Sign In');"> Sign In</a> |</div><div class="np-link"> <a rel="nofollow" href="/s?action=reg&amp;requested=y&amp;rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use" id="registerlink" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Right: Register');">Register</a></div>
 
 
 
@@ -489,37 +441,40 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 </div><!-- this closes member bar area-->
 </div><!-- this closes member bar wrapper-->
 <div id="maincontainer">
-	<div id="pageTopCorner" style="overflow:hidden;">
+	<div id="pageTopCorner" style="overflow:hidden;" class="sectionFront">
 <div id="headerLogo" itemscope="" itemtype="http://schema.org/Organization">
-	<a itemprop="url" href="http://www.philly.com/" target="_top" onclick="var s=s_gi('phillycom');s.tl(this,'o',' Logo: Header: Philly.com');"><img itemprop="logo" src="http://media.philly.com/designimages/philly-default-header-logo.png" alt="philly.com" name="logophilly" border="0" id="logophilly"></a>
+	<a itemprop="url" href="http://www.philly.com/" target="_top" onclick="var s=s_gi('phillycom');s.tl(this,'o',' Logo: Header: Philly.com');"><img itemprop="logo" src="http://media.philly.com/designimages/phillydotcom-default-logo.png" width="260" alt="philly.com" name="logophilly" border="0" id="logophilly"></a>
+</div>
+<div id="inq-logo"><a id="inquirerDigitalLink" href="http://www.philly.com/inquirer" target="_self" onclick="trackThisLink('Inquirer','Top Right','Inquirer: Top Right','Inquirer: '+s.pageName,true);"><img src="http://media.philly.com/designimages/philly_header_inq_logo_2014.png" border="0" width="140" alt="Inquirer" title="Inquirer"></a>
+</div>
+<div id="dn-logo"><a id="dailynewsDigitalLink" href="http://www.philly.com/dailynews" target="_self" onclick="trackThisLink('Daily News','Top Right','Daily News: Top Right','Daily News: '+s.pageName,true);"><img src="http://media.philly.com/designimages/philly_header_dn_logo_2014.png" border="0" width="120" alt="Daily News" title="Daily News"></a>
 </div>
 <div id="weatherWrap">
 <div id="wui_main">
 <div id="weather-widget"></div>
-<script type="text/javascript" src="http://www.weathersavior.com/widget/phillywidget.js" async=""></script>
+<script type="text/javascript" src="http://www.philly.com/includes/phillywidget-2014.js" async=""></script>
 </div>
 </div>
 				<div id="pageheader-navleft">
 		
-	
-
-
-
 
 				
-
+<div id="searchBtn"><a><img src="http://media.philly.com/designimages/header-search-btn.png" width="36"></a></div>
+<div id="overlay_gradient" class="overlayGradient" style="display:none;"></div>
 <div id="search">
 					<script type="text/javascript">
 	function searchFormSubmit2(form) {
 		qfield = jQuery("#gsaphilly").val();
 		if(qfield != null) {
-			if(qfield == "" || qfield == "Search") {
-			alert('You must enter a search phrase');
+			if(qfield == "") {
+				jQuery('#search').hide();
+				jQuery('#overlay_gradient').css({display:'none'});
+				jQuery('#overlay_gradient').removeClass('overlay_gradientActive');
 			return false;
 			}
 			return true;
 		}
-	}		
+	}
 </script>
 <form action="http://search.philly.com/search" method="get" name="gs" onsubmit="return searchFormSubmit2(this)" target="_top" id="search_form">
 		<input class="phillyGSA" type="hidden" name="search" value="y">
@@ -533,32 +488,42 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 	<input class="phillyGSA" type="hidden" value="UTF-8" name="oe">
 	<input class="phillyGSA" type="hidden" value="UTF-8" name="ie">
 	<input class="phillyGSA" type="hidden" value="1" name="ud">
-	<input class="phillyGSA" id="gsaphilly" name="q" type="text" value="Search" onfocus="this.value='';">
+	<input class="phillyGSA" id="gsaphilly" name="q" type="text" value="Enter search term" onfocus="this.value='';">
 	<label>
 		<input name="Submit" value="" type="submit" class="point-black">
 	</label>
 	<br>	
 </form>
+<script type="text/javascript">
+   jQuery(document).click(function(e) {
+	var focusSearch = jQuery("#gsaphilly").is(":focus");
+	if (!focusSearch) {
+		jQuery('#search').hide();
+		jQuery('#overlay_gradient').css({display:'none'});
+		jQuery('#overlay_gradient').removeClass('overlay_gradientActive');
+	}
+   });
+  jQuery('#searchBtn a').click(function(e){
+	e.preventDefault();
+	jQuery('#overlay_gradient').css({display:'block'});
+	jQuery('#overlay_gradient').addClass('overlay_gradientActive');
+	jQuery("#search").show();
+	jQuery("#gsaphilly").focus();
+	 e.stopPropagation();
+  });
+</script>
 </div>
 
 
-
-
-	<div id="pageheader-navright">
-		<div id="pageheader-navright-inner">
-						<a id="inquirerDigitalLink" href="http://www.inquirer.com" target="_blank" onclick="trackThisLink('Inquirer','Top Right','Inquirer: Top Right','Inquirer: '+s.pageName,true);"><img src="http://media.philly.com/designimages/philly_header_inq_logo_061314.png" alt="Inquirer" title="Inquirer"></a>
-			<a id="dailynewsDigitalLink" href="http://www.phillydailynews.com" target="_blank" onclick="trackThisLink('Daily News','Top Right','Daily News: Top Right','Daily News: '+s.pageName,true);"><img src="http://media.philly.com/designimages/philly_header_dn_logo_061314.png" alt="Daily News" title="Daily News"></a>
-		</div>	
-
-	</div>
 </div>
 
  
 </div>
+<div id="contentMainWrap">
 <div id="navPlacement"><div id="globalPrimaryNav">
 	<ul id="primaryNav">	
 		
-		<li><a href="http://www.philly.com/" id="navT1_philly" target="_top" onclick="trackThisLink('home','Main Nav','home: Main Nav','home: '+s.pageName,true);">Home</a></li>		
+		<li><a href="http://www.philly.com/" id="navT1_philly" target="_top" onclick="trackThisLink('home','Main Nav','home: Main Nav','home: '+s.pageName,true);"><img src="http://media.philly.com/designimages/pcom_homeIcon.png" width="20" height="16" border="0" alt="Home" title="Home"></a></li>		
 	 	 				<li class="navDelimiter">|</li>
 		<li><a href="http://www.philly.com/philly/news" id="navT1_news" target="_top" onclick="trackThisLink('news','Main Nav','news: Main Nav','news: '+s.pageName,true);">News</a></li>
 					 	 				<li class="navDelimiter">|</li>
@@ -567,6 +532,8 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 		<li><a href="http://www.philly.com/philly/entertainment" id="navT1_entertainment" target="_top" onclick="trackThisLink('entertainment','Main Nav','entertainment: Main Nav','entertainment: '+s.pageName,true);">Entertainment</a></li>
 					 	 				<li class="navDelimiter">|</li>
 		<li><a href="http://www.philly.com/philly/business" id="navT1_business" target="_top" onclick="trackThisLink('business','Main Nav','business: Main Nav','business: '+s.pageName,true);">Business</a></li>
+					 				<li class="navDelimiter">|</li>
+		<li><a href="http://www.philly.com/philly/opinion" id="navT1_opinion" target="_top" onclick="trackThisLink('opinion','Main Nav','opinion: Main Nav','opinion: '+s.pageName,true);">Opinion</a></li>
 					 				<li class="navDelimiter">|</li>
 		<li><a href="http://www.philly.com/philly/food" id="navT1_food" target="_top" onclick="trackThisLink('food','Main Nav','food: Main Nav','food: '+s.pageName,true);">Food</a></li>
 					 	 				<li class="navDelimiter">|</li>
@@ -588,7 +555,6 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 		                        <div class="secondaryNavSplitTitle">Shopping</div>
 	                            <li><a href="http://www.philly.com/philly/living/shopping/circulars?locale=en&amp;utm_campaign=&amp;utm_source=&amp;utm_medium=hp-navigation_nov2013&amp;utm_term=" onclick="trackThisLink('circulars','Main Nav','circulars: Main Nav','circulars: '+s.pageName,true);">Circulars</a></li>
         	                    <li><a href="http://newspaperads.philly.com/ROP/Categories.aspx" onclick="trackThisLink('offers_online','Main Nav','offers_online: Main Nav','offers_online: '+s.pageName,true);">Print Offers Online</a></li>
-                	            <li><a href="http://tickets.philly.com/" onclick="trackThisLink('tickets','Main Nav','tickets: Main Nav','tickets: '+s.pageName,true);">Tickets</a></li>
                         	    <li><a href="http://www.philly.com/philly/calendar" onclick="trackThisLink('events','Main Nav','events: Main Nav','events: '+s.pageName,true);">Events</a></li>
                         	    <li><a href="http://phillydealyo.philly.com" onclick="trackThisLink('local_deals','Main Nav','local_deals: Main Nav','local_deals: '+s.pageName,true);">Local Deals</a></li>
 	                        </div>
@@ -597,7 +563,7 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 		 </li>		
 			</ul>
 </div>
-																																																																																																																			<div id="secondaryNav"><ul class="admin"> 
+																																																																																																																							<div id="secondaryNav"><ul class="admin"> 
 	<li><div><a href="http://www.philly.com/philly/about" target="_top">Member Benefits</a></div></li>
  	<li><div><a href="http://www.philly.com/philly/newsletters" target="_top">Newsletters</a></div></li>
  	<li><div><a href="http://www.philly.com/philly/contests" target="_top">Contests &amp; Freebies</a></div></li>
@@ -642,11 +608,13 @@ document.write("<link rel='stylesheet' type='text/css' href='http://media.philly
 	
 	
 				
-			<div id="content-toprail">
+								<div id="sectionBar-ph" class="sectionBar"></div>	     
+		
+		<div id="content-toprail">
 				
 
 
-				</div>
+				</div>	
 	
 
                 
@@ -966,56 +934,13 @@ document.write("<link rel='stylesheet' type='text/css' href='http://media.philly
 
 											</div>
 			</div>		
-						 </div> 
-		
-
-
-	
-	 	  
-	 	 <div id="navT1menu_news" class="megamenu4 megamenu">
-	 
-	 </div>
-	  	 	 
-	
-	 	  
-	 	 <div id="navT1menu_sports" class="megamenu4 megamenu">
-	 
-	 </div>
-	  	 	 
-	
-	 	  
-	 	 <div id="navT1menu_health" class="megamenu4 megamenu">
-	 
-	 </div>
-	  	 	 
-	
-	 	  
-	 	 <div id="navT1menu_living" class="megamenu4 megamenu">
-	 
-	 </div>
-	  	 	 
-	
-	 	  
-	 	 <div id="navT1menu_business" class="megamenu4 megamenu">
-	 
-	 </div>
-	  	 	 
-	
-	 	  
-	 	 <div id="navT1menu_entertainment" class="megamenu4 megamenu">
-	 
-	 </div>
-	  	 	 
- 
-
-
-
+						 </div> 			</div></div><!--closes contentwrap-->
 		<div id="footer">
 
 	
-	
 		
-						
+	
+				
 		 
  	 		
 				
@@ -1173,14 +1098,14 @@ document.write("<link rel='stylesheet' type='text/css' href='http://media.philly
 						
 				
 		 						
-		 																																																																																																																				
+		 																																																																																																																																																
 
 		 
 		
 
 		 		
 									
-		 																																																									
+		 																																																																				
 	
 
 
@@ -1209,6 +1134,10 @@ document.write("<link rel='stylesheet' type='text/css' href='http://media.philly
 
 									
  | <a href="http://www.philly.com/philly/mobile/" class="bl">Apps</a>
+
+
+									
+ | <a href="http://reprints.ygsgroup.com/m/philly" class="bl">Reprints &amp; Permissions</a>
 
 
 			 </dt>	</dl>
@@ -1249,6 +1178,7 @@ document.write("<link rel='stylesheet' type='text/css' href='http://media.philly
 <dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.inquirer.com/promosub" class="bl">Subscribe</a></dt> 
 
 								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://nie.philly.com" class="bl">Newspapers in Education</a></dt> 
+<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/about/community_relations/6088301.html" class="bl">Internships</a></dt> 
 			 	</dl>
 	</div>				
  </div>
@@ -1285,7 +1215,8 @@ document.write("<link rel='stylesheet' type='text/css' href='http://media.philly
 
  
 		 	 	 		 																						
-					 	 			 							
+					 
+			 							
 
  		 
 
@@ -1309,7 +1240,8 @@ document.write("<link rel='stylesheet' type='text/css' href='http://media.philly
 
 
 	 	 	 		 																						
-					 	 			 			  	
+					 
+			 			  	
 
  		 
 
@@ -1355,7 +1287,11 @@ document.write("<link rel='stylesheet' type='text/css' href='http://media.philly
 
 	
 	
-</div></div>
+</div>
+
+	
+</div>
+
 
 
 		</div>
@@ -1407,7 +1343,7 @@ document.write("<link rel='stylesheet' type='text/css' href='http://media.philly
 	</div></div>				
 
 		</div>
-<div class="divclear"></div>	
+<div class="divclear"></div>
 </div> </div><!-- closes supercontainer -->
  </div><!-- closing custom CSS --> 
 			<div class="footercenter">
@@ -1423,13 +1359,9 @@ document.write("<link rel='stylesheet' type='text/css' href='http://media.philly
 		© Copyright 2014 Interstate General Media, LLC
 	</div>
 	
-
-
-	
-
 	</div> 
 
-</div></div> 
+</div> 
 <div id="fb-root"></div>
 <script language="javascript">
 window.fbAsyncInit = function() { 
@@ -1471,16 +1403,13 @@ FB.Event.subscribe('edge.create', function(href, widget) {
 
 	 
 
-			
-
-
-
-<script type="text/javascript">
+				<script type="text/javascript">
 var _sf_async_config={};
 /** CONFIGURATION START **/
 _sf_async_config.uid = 12719;
 _sf_async_config.domain = "philly.com"; 
-_sf_async_config.sections = s.prop5; 
+_sf_async_config.sections = s.prop5;
+_sf_async_config.useCanonical = true;
 _sf_async_config.path = "/philly/about/terms_of_use";
     if(s.prop13 !="") {
     _sf_async_config.authors = s.prop13;
@@ -1505,10 +1434,6 @@ _sf_async_config.path = "/philly/about/terms_of_use";
 
 
 
-
-
-
- 
 
 	
 
@@ -1552,7 +1477,7 @@ _sf_async_config.path = "/philly/about/terms_of_use";
     };
 </script> 
 
-<script type="text/javascript" async="" src="//launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+<script type="text/javascript" async="" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
 			<script>
 // Collapse text 'Advertise Here' in right rail if rectangle ad unit is not displaying.
 (function()
@@ -1579,6 +1504,7 @@ var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.i
 </script>
 <!-- Cxense script end -->
 	
+
 
 
 </body></html>
