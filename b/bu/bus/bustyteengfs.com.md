@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustyteengfs.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626211853id_/http%3A//join.bustyteengfs.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustyteengfs.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220162658id_/http%3A//join.bustyteengfs.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
