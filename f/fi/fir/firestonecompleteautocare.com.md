@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204200850id_/http%3A//www.firestonecompleteautocare.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firestonecompleteautocare.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220014020id_/http%3A//www.firestonecompleteautocare.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Firestone Complete Auto Care
 
