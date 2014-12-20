@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628204008id_/https%3A//www.classicrummy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicrummy.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220191858id_/https%3A//www.classicrummy.com/privacy-policy) for the most accurate reproduction.*
 
 # Rummy Online Games Privacy Policy | Play Rummy Free Games at Classic Rummy
 
@@ -7,6 +7,7 @@ Jump to navigation
 ## You are here
 
   1. [Home](https://web.archive.org/) › 
+  2. Privacy Policy
 
 
 
@@ -81,4 +82,13 @@ If You send Us an e-mail or give any feed back to ClassicRummy through the Websi
 
 
 
-[](https://web.archive.org/web/20140628204008id_/https%3A//www.classicrummy.com/void\(0\);)
+## Main menu
+
+
+
+
+## main-menu-telugu
+
+## main-menu-hindi
+
+[](https://web.archive.org/web/20141220191858id_/https%3A//www.classicrummy.com/void\(0\);)
