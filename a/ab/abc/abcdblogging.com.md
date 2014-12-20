@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the abcdblogging.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227091515id_/http%3A//www.abcdblogging.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcdblogging.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220101152id_/http%3A//www.abcdblogging.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ABCD Blogging
+# Privacy Policy • ABCD Blogging
 
 **Privacy Policy for www.abcdblogging.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@abcdblogging.com or abidomarabcd@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@vebblabs.com
 
 At www.abcdblogging.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.abcdblogging.com and how it is used.
 
