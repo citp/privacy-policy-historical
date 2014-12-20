@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truenomads.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005546id_/http%3A//truenomads.com/true-nomads-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truenomads.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220125054id_/http%3A//truenomads.com/true-nomads-privacy-policy) for the most accurate reproduction.*
 
 # True Nomads Privacy Policy |
 
