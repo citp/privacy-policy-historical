@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613075558id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220085108id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering sys
 
  **Privacy & Security**
 
-[](http://www.truste.org/ivalidate.php?url=www.kinglinen.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/KingLinen/validation?rid=e7cf2269-f764-4fd9-945f-2939cfc67a97 "TRUSTe online privacy certification")
 
 **Information Collection and Use**
 
