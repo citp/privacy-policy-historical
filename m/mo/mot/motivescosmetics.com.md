@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivescosmetics.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031752id_/http%3A//www.motivescosmetics.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivescosmetics.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220092558id_/http%3A//www.motivescosmetics.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Motives by Loren Ridinger | Motives Cosmetics
 
@@ -104,3 +104,5 @@ Your use of the Site, and any disputes arising from it, are subject to this Priv
 ### Contact Us
 
 We always welcome your questions and feedback. For privacy-related issues, please contact us at [privacy@marketamerica.com](mailto:privacy@marketamerica.com). 
+
+Third party Information. We may permit web analytics and other providers to collect and process information on our websites using the technologies described above. Some of these providers have information about you, including personal information, demographic information and interest reports. They may share this information with us and we may share your personal information with them. Third Party Information helps us to enhance and personalize our interactions with you so that the information you receive is more relevant to you. We use third party information for behavioral advertising, which allows us to predict your preferences and to show you ads and send you e-mails that are more likely to interest you. 
