@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vkool.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074013id_/http%3A//vkool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vkool.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220193201id_/http%3A//vkool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
