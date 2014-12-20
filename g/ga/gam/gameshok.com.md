@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameshok.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063312id_/http%3A//gameshok.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshok.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220180014id_/http%3A//gameshok.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fun Online Games - Fun Games - Gameshok.com!
 
