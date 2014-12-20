@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the keepersecurity.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625141654id_/https%3A//keepersecurity.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keepersecurity.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220052731id_/https%3A//www.keepersecurity.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head>
 <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8">
@@ -12,7 +12,7 @@
 <meta property="og:image" content="https://d3fyaiwg010let.cloudfront.net/images/keeper_lock_200.png">
 <meta property="og:image" content="https://d3fyaiwg010let.cloudfront.net/images/keeper_appicon_200.png">
 <meta property="og:image" content="https://d3fyaiwg010let.cloudfront.net/images/keeper_lock_text_200.png">
-<meta property="og:site_name" content="Keeper Password &amp; Data Vault">
+<meta property="og:site_name" content="Keeper Password Manager &amp; Digital Vault">
 <meta property="fb:app_id" content="418595631571154">
 <meta property="og:description" content="Read Keeper's Privacy Policy.">
 
@@ -25,10 +25,10 @@
 
 <title>Keeper - Privacy Policy</title>
 
-<link href="https://d3fyaiwg010let.cloudfront.net/en_US/css/keepersecurity/keeper-3e2e9c3078ec22b81856421e1a857216.min.css" rel="stylesheet" type="text/css">
+<link href="https://d3fyaiwg010let.cloudfront.net/en_US/css/keepersecurity/keeper-14b7d677ff8f45d1b38103e48f9efcb1.min.css" rel="stylesheet" type="text/css">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
 
 <script src="https://d3fyaiwg010let.cloudfront.net/en_US/js/keepersecurity/keeper-56f46dd4b33bb3d59b658819653f4da5.min.js"></script>
 
@@ -59,6 +59,7 @@ $( document ).ready(function(){
       $('.f7 div').css({"top":"3px"});
       $('.f7').css({"height":"550px"});
       $('.g4 div').css({"top":"19px"});
+      $('.consoleLogin').css('width', 'auto');
       break;
     case 'fr_FR':
       $('#headerNav .dropdown a').css("width", "180px");
@@ -175,40 +176,86 @@ $( document ).ready(function(){
       <div class="container">
         <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
 
+        <a href="/">
+
+          <div class="keeperlogo"></div>
+
+        </a>
+
+        <style>
+          .keeperlogo {
+            background-image: url(https://d3fyaiwg010let.cloudfront.net/images/logos/Keeper_Black_Standard.png);
+            background-size: 205px 65px;
+            height: 65px;
+            width: 205px;
+          }
+          .keeperlogo.backup {
+            background-image: url(https://d3fyaiwg010let.cloudfront.net/images/logos/Keeper_Black_Standard_Backup.png);
+            background-size: 175px 65px;
+            height: 65px;
+            width: 175px;
+          }
+          .keeperlogo.unlimited {
+            background-image: url(https://d3fyaiwg010let.cloudfront.net/images/logos/Keeper_Black_Standard_Unlimited.png);
+            background-size: 244px 65px;
+            height: 65px;
+            width: 244px;
+          }
+          .keeperlogo.groups {
+            background-image: url(https://d3fyaiwg010let.cloudfront.net/images/logos/Keeper_Black_Standard_Groups.png);
+            background-size: 195px 65px;
+            height: 65px;
+            width: 195px;
+          }
+          @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx) {
+            .keeperlogo {
+              background-image: url(https://d3fyaiwg010let.cloudfront.net/images/logos/Keeper_Black_Standard@2x.png);
+            }
+            .keeperlogo.backup {
+              background-image: url(https://d3fyaiwg010let.cloudfront.net/images/logos/Keeper_Black_Standard_Backup@2x.png);
+            }
+            .keeperlogo.unlimited {
+              background-image: url(https://d3fyaiwg010let.cloudfront.net/images/logos/Keeper_Black_Standard_Unlimited@2x.png);
+            }
+            .keeperlogo.groups {
+              background-image: url(https://d3fyaiwg010let.cloudfront.net/images/logos/Keeper_Black_Standard_Groups@2x.png);
+            }
+          }
+          @media only screen and (max-width: 479px) {
+            .keeperlogo {
+              background-size: 140px 48px;
+              height: 48px;
+              width: 140px;
+            }
+            .header.floating .menu {
+              padding-top: 25px;
+            }
+            .navbar .menu {
+              margin-top: -10px;
+            }
+          }
+          .navbar .keeperlogo {
+            float: left;
+            margin: 0 0 5px 15px;
+          }
+        </style>
+
         <ul class="menu">
           <li><a href="/vault/#lang/en_US">Login</a></li>
           <li class="btn menu-glyph icon-menu" data-toggle="collapse" data-target=".nav-collapse"></li>
         </ul>
 
-	
-            <a class="brand hires" href="/"><img src="https://s3.amazonaws.com/keepersecurity/images/keeper_logo_new.png" data-src2x="https://s3.amazonaws.com/keepersecurity/images/keeper_logo_new@2x.png" alt="Keeper" id="corner_logo"></a>
-	
-
         <!-- Magic menus -->
         <div class="nav-collapse collapse navbar-responsive-collapse">
           <ul class="nav pull-right" id="headerNav">
+            <li><a href="/learnmore">Learn More</a></li>
+            <li><a href="/backup">Personal</a></li>
+            <li><a href="/groups">Business</a></li>
+            <li><a href="/download">Download</a></li>
 
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle getKeeper" data-toggle="dropdown">
-                Get Keeper
-                <b class="caret"></b>
-              </a>
-              <ul class="dropdown-menu subdrop sdp1">
-                <li><a href="/backup">Keeper Backup</a></li>
-                <li><a href="/groups">Keeper for Groups</a></li>
-                <li><a href="/download">Download</a></li>
-                <li><a href="/pricing">Pricing</a></li>
-                <li><a href="/buy">Buy Now</a></li>
-              </ul>
-            </li>
-
-            <li class="divider-vertical"></li>
-
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle getKeeper" data-toggle="dropdown">
-                <img class="loginLogo" src="https://d3fyaiwg010let.cloudfront.net/images/login_lock.png" data-src2x="https://d3fyaiwg010let.cloudfront.net/images/login_lock@2x.png">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                 Login
-                <b style="position:relative; left:3px; top:1px;" class="caret"></b>
               </a>
               <ul class="dropdown-menu subdrop sdp2">
                 <li><a href="/vault/#lang/en_US">Web App</a></li>
@@ -240,73 +287,66 @@ $( document ).ready(function(){
     enableFloatingHeader();
   </script>
 
+
 <style>
-h2{
-	font-size: 20px !important;
-}
+  .termsOfService {
+	  margin: 0 20px;
+	}
+  .termsOfService h1 {
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+  }
+  .termsOfService h2 {
+	  font-size: 20px;
+	  margin-top: 30px;
+	}
 </style>
-<div class="container" id="main" style="min-height: 400px;">
-	<div class="topCorner"></div>
-	<div class="innerPart">
-		<div class="termsOfService">
-			<p>
-			</p><h1 style="text-align: center; font-size:26px; line-height:30px;">
-			  Keeper Mobile &amp; Desktop Security Software<br> Privacy and Email Communications Policy
-			</h1>
-			<br>
-			<h2>General</h2>
-			Keeper Security, Inc. (“Keeper Security”) values your privacy. Keeper Security has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for https://keepersecurity.com and its services. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.<br><br>We reserve the right to change this Policy and will notify you of such changes via email or our website. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective. If you have questions or concerns regarding this Privacy Policy, you may contact us at support@keepersecurity.com. <br><br>Keeper Security, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the English website keepersecurity.com and mobile applications. TRUSTe's certification does not cover proprietary encryption schemes or similar security auditing. <br><br>TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@keepersecurity.com. 
-			If you are not satisfied with our response you can contact TRUSTe at <a target="_blank" href="http://watchdog.truste.com/pvr.php?page=complaint">http://watchdog.truste.com/pvr.php?page=complaint</a>. 
-                        <br><br>
-			Keeper Security, Inc. complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Keeper Security, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Keeper Security, Inc.'s certification, please visit http://www.export.gov/safeharbor/. 
-                        <br><br>
-			<h2>Security</h2>
-			Keeper Security stores its servers in a highly secure server environment with 24 X 7 monitoring, surveillance and support to prevent unauthorized access and data security. Advanced security measures including firewalls, security guards and surveillance are taken to ensure the continued service and protection of your data from natural disaster, intruders and disruptive events.
-			<br> <br>
-			Smartphones and Tablets are insecure from a security perspective. With typically unsecure or weak logic access to data in the calendar, contact list, email database and notes - they represent a massive flaw in many internal security and control systems. When a user’s Smartphone or Tablet is lost or stolen, the data on that device is subject to theft and misappropriation. The result can be devastating in terms of risk exposure and financial loss.
-			<br> <br>
-			Keeper software serves a massive, positive movement in Mobile Device Security. Keeper was pioneered to run on the widest platform base using a feature-rich mobile security application. Keeper runs on iPhone*, iPad*, iPod*, Android*, Android Tablets*, BlackBerry*, Windows Phone* and all primary PC platforms - Windows*, Mac OS* and Linux*. Keeper uses 256-bit AES encryption and PBKDF2 key derivation.  Please refer to our <a href="https://keepersecurity.com/security">Security Disclosure</a> page for detailed information about our security and encryption practices.  (*Note: These trade names are protected by the registered trademarks of their respective owners. Keeper and Password Keeper are U.S. registered trademarks of Keeper Security, Inc.).
-			<br> <br>
-			Keeper protects “Micro Data.” Micro Data consists of small strings of information, usually 50 characters or less, used by every consumer of a Smartphone, Tablet or PC. Examples include: Social Security Numbers, Bank Account and Routing Information, Client Account Numbers, Vendor Account Numbers, Customer Purchasing Information, Credit Limit Terms, Log In Passwords, Encryption Codes, Alarm Codes, Access Codes, Employee ID Numbers, etc. Micro Data is the small strings of information that although small, represent the most important element of an end user’s identity. Micro Data is the target for any thief, spy or hacker. Too often, Micro Data is kept by professionals and end users in sticky notes, paper notebooks, envelopes, file folders and email note tabs on mobile devices and computers. More often than not, they are easily accessible by an unwanted user and are the primary target for today’s identity and financial thieves. By example, from a corporate risk perspective, an employee’s mobile device may have a cost value of $195 but the information on that device may be worth several million dollars.
-			<br> <br>
-			Keeper is one of the most downloaded password security applications for storing, accessing and safeguarding Micro Data. 
-			<br> <br>
-			<h2>U.S. Government Approval &amp; Encryption Level </h2>
-			Keeper utilizes strong encryption using the 256-bit AES cipher. Keeper is approved for export to unrestricted countries* by the U.S. Department of Commerce Bureau of Industry and Security under classification #5D992 (*See <a href="https://keepersecurity.com/terms">Terms of Use</a>).
-			<br> <br>
-			<h2>Information We Collect</h2>
-			Keeper Security collects limited personal information from customers who register with our services. When customers register with our services, we require a user name, password, and email address.   If a customer decides to subscribe to our service, we may collect a credit card number.  We use the customer registration information to authenticate users and provide access to https://keepersecurity.com.  When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID"). We also use the email addresses used in the registration information to communicate with our users. When you register for a subscription to Keeper software, you automatically "opt-in" to receive email communication from us which shall concur with the CAN-SPAM Act of 2003. From time to time, Keeper Security may contact you via email to notify you of changes to its services, maintenance notifications, information about Keeper Security and promotional materials from Keeper Security. You will be permitted at any time to "opt-out" of the receipt of email communications related to marketing and promotional material. The "opt-out" page can be viewed here: https://keepersecurity.com/unsubscribe. In the event you opt-out from receiving marketing and promotional material, we may, as necessary, email you in connection with a purchase confirmation, customer support matter or security issue related to your account. Keeper Security will never have access to your Master Password or individual records stored within your Keeper database. For users of Keeper Backup or Keeper Enterprise, we only have access to an encrypted binary file (which we cannot open) on our Cloud Security Vault™. This allows us to help you in the event your device is lost, damaged or stolen or if you have a problem accessing your personal data file.<br><br>If you choose to allow other people to access to a record, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site. Keeper Security stores this information to send this one-time email and track who has permission to access a record.
-			<br>
-			<br>
-			Keeper Security collects and logs aggregate user statistics and website traffic. Such information includes website traffic statistics, date and time of visits, browser type used to access the service, frequency of visits and to which pages, etc. We use this information to improve the services delivered to our customers, to track and diagnose performance problems and administer the website. <br> <br> Keeper Security may disclose aggregated user statistics (for example, 50% of Keeper Security customers use the service daily) in order to describe our services to prospective partners, advertisers, affiliates and other third parties for lawful purposes. Keeper Security will never disclose such data on an individual or identifiable basis to third parties except when we must comply with laws that require such disclosure to law enforcement authorities or other government third party officials such as subpoenas, or we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others and to investigate fraud.<br><br>If Keeper Security is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.<br><br>We may provide your personal information to companies that provide services to help us with our business activities such as our live chat customer support or analytics provider. These companies are authorized to use your personal information only as necessary to provide these services to us.
-			<br> <br>
-			You may deactivate your Keeper Security account and delete your personally identifiable information at any time by contacting us at support@keepersecurity.com clearly indicating that you wish to deactivate and delete such information.  If your personal information changes, you may correct or update by emailing our Customer Support at support@keepersecurity.com. We will respond to your request to access within 30 days.<br><br>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.<br> <br>In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA) Keeper Security does not intentionally collect personally identifiable information from nor solicit children under the age of thirteen (13) years of age. <br> <br> Other than as disclosed in this Privacy Policy, at no time will Keeper Security disclose identifiable personal information to any third parties without your express, written consent. <br> <br> Keeper Security will be permitted to display an active customer's corporate logo on its website for the purpose of promoting both the customer and Keeper Security.
-			<br> <br>
-			<h2>Cookies</h2>
-			Keeper Security uses cookies to store and track information about your usage of our services. Cookies are encrypted and unidentifiable bits of information sent to your browser from a web server that is stored on your computer's hard drive. Cookies are set each time you register, or log in or log out of Keeper Security. Cookies may be used to store your username or email address so that you don't have to re-enter it each time you visit https://keepersecurity.com. We may also use cookies to gather aggregated information about user habits on our website and services. For example, we may use cookies to estimate the number of concurrent users, estimate the total number of users, measure traffic statistics and to better understand how our users are using our services. We may share this data, in its aggregate form, with advertisers, affiliates and partners who may advertise on our website and services.<br><br>The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
-			<br> <br>
-			<h2>Passwords</h2>
-			Your Keeper Security account information, user name, password and customer profile are password-protected so that you have secure access to entering and editing personal information. It is the user's responsibility to protect the security of their password. Access to Keeper Security services are protected by a unique user name and password that is known by you only. Keeper Security has designed internal security processes that encrypt customer passwords to protect it from being divulged or accessed by anyone other than you. Neither Keeper Security employees nor any of its contractors can obtain or access your password. Keeper Security employees or nor any of its contractors will ask you for your password via mail, email or telephone nor any other unsolicited manner.
-			<br> <br>
-			<h2>Blogs</h2>
-			Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
-			<br> <br>
-			<h2>Third Party Links</h2>
-			When customers and users access and use Keeper Security, there may be links to websites and services operated by third parties. Keeper Security makes no representations or warranties about the policies of third party websites that are linked to Keeper Security or any of its services. Keeper Security recommends that you read the privacy policies posted by those third party websites.
-			<br> <br>
-			<h2>Social Media Widgets</h2>
-			Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
-			<br> <br>
-			<h2>Further Questions</h2>
-			If you have further questions about our Privacy Policy, email us at <a href="mailto:support@keepersecurity.com">support@keepersecurity.com</a>.<br><br>Keeper Security, Inc.<br>850 W. Jackson Blvd.<br>Suite 500<br>Chicago IL 60607
-			<br> <br>
-			<p></p>
-		</div>
-		<div class="clear"></div>
-	</div>
-	<div class="bottomCorner"></div>
-	<div class="clear"></div>
+
+<div class="container" id="main">
+  <div class="termsOfService">
+    <h1>Keeper Mobile &amp; Desktop Security Software<br> Privacy and Email Communications Policy</h1>
+
+    <h2>General</h2>
+    <p>Keeper Security, Inc. (“Keeper Security”) values your privacy. Keeper Security has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for https://keepersecurity.com and its services. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.<br><br>We reserve the right to change this Policy and will notify you of such changes via email or our website. If we make any material changes we will notify you by email or by means of a notice on this Site prior to the change becoming effective. If you have questions or concerns regarding this Privacy Policy, you may contact us at support@keepersecurity.com. <br><br></p>
+    <p></p>
+    <p>Keeper Security, Inc. complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Keeper Security, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Keeper Security, Inc.'s certification, please visit http://www.export.gov/safeharbor/.</p>
+
+    <h2>Security</h2>
+    <p>Keeper Security stores its servers in a highly secure server environment with 24 X 7 monitoring, surveillance and support to prevent unauthorized access and data security. Advanced security measures including firewalls, security guards and surveillance are taken to ensure the continued service and protection of your data from natural disaster, intruders and disruptive events.</p>
+    <p>Smartphones and Tablets are insecure from a security perspective. With typically unsecure or weak logic access to data in the calendar, contact list, email database and notes - they represent a massive flaw in many internal security and control systems. When a user’s Smartphone or Tablet is lost or stolen, the data on that device is subject to theft and misappropriation. The result can be devastating in terms of risk exposure and financial loss.</p>
+    <p>Keeper software serves a massive, positive movement in Mobile Device Security. Keeper was pioneered to run on the widest platform base using a feature-rich mobile security application. Keeper runs on iPhone*, iPad*, iPod*, Android*, Android Tablets*, BlackBerry*, Windows Phone* and all primary PC platforms - Windows*, Mac OS* and Linux*. Keeper uses 256-bit AES encryption and PBKDF2 key derivation.  Please refer to our <a href="https://keepersecurity.com/security">Security Disclosure</a> page for detailed information about our security and encryption practices.  (*Note: These trade names are protected by the registered trademarks of their respective owners. Keeper and Password Keeper are U.S. registered trademarks of Keeper Security, Inc.).</p>
+    <p>Keeper protects “Micro Data.” Micro Data consists of small strings of information, usually 50 characters or less, used by every consumer of a Smartphone, Tablet or PC. Examples include: Social Security Numbers, Bank Account and Routing Information, Client Account Numbers, Vendor Account Numbers, Customer Purchasing Information, Credit Limit Terms, Log In Passwords, Encryption Codes, Alarm Codes, Access Codes, Employee ID Numbers, etc. Micro Data is the small strings of information that although small, represent the most important element of an end user’s identity. Micro Data is the target for any thief, spy or hacker. Too often, Micro Data is kept by professionals and end users in sticky notes, paper notebooks, envelopes, file folders and email note tabs on mobile devices and computers. More often than not, they are easily accessible by an unwanted user and are the primary target for today’s identity and financial thieves. By example, from a corporate risk perspective, an employee’s mobile device may have a cost value of $195 but the information on that device may be worth several million dollars.</p>
+    <p>Keeper is one of the most downloaded password security applications for storing, accessing and safeguarding Micro Data.</p>
+
+    <h2>U.S. Government Approval &amp; Encryption Level </h2>
+    <p>Keeper utilizes strong encryption using the 256-bit AES cipher. Keeper is approved for export to unrestricted countries* by the U.S. Department of Commerce Bureau of Industry and Security under classification #5D992 (*See <a href="https://keepersecurity.com/terms">Terms of Use</a>).</p>
+
+    <h2>Information We Collect</h2>
+    <p>Keeper Security collects limited personal information from customers who register with our services. When customers register with our services, we require a user name, password, and email address.  If a customer decides to subscribe to our service, we may collect a credit card number.  We use the customer registration information to authenticate users and provide access to https://keepersecurity.com.  When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID"). We also use the email addresses used in the registration information to communicate with our users. When you register for a subscription to Keeper software, you automatically "opt-in" to receive email communication from us which shall concur with the CAN-SPAM Act of 2003. From time to time, Keeper Security may contact you via email to notify you of changes to its services, maintenance notifications, information about Keeper Security and promotional materials from Keeper Security. You will be permitted at any time to "opt-out" of the receipt of email communications related to marketing and promotional material. The "opt-out" page can be viewed here: https://keepersecurity.com/unsubscribe. In the event you opt-out from receiving marketing and promotional material, we may, as necessary, email you in connection with a purchase confirmation, customer support matter or security issue related to your account. Keeper Security will never have access to your Master Password or individual records stored within your Keeper Vault. For users of Keeper Backup or Keeper Enterprise, we only have access to an encrypted binary file (which we cannot open) on our Cloud Security Vault™. This allows us to help you in the event your device is lost, damaged or stolen or if you have a problem accessing your personal vault.<br><br>If you choose to allow other people to access to a record, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site. Keeper Security stores this information to send this one-time email and track who has permission to access a record.</p>
+    <p>Keeper Security collects and logs aggregate user statistics and website traffic. Such information includes website traffic statistics, date and time of visits, browser type used to access the service, frequency of visits and to which pages, etc. We use this information to improve the services delivered to our customers, to track and diagnose performance problems and administer the website. <br> <br> Keeper Security may disclose aggregated user statistics (for example, 50% of Keeper Security customers use the service daily) in order to describe our services to prospective partners, advertisers, affiliates and other third parties for lawful purposes. Keeper Security will never disclose such data on an individual or identifiable basis to third parties except when we must comply with laws that require such disclosure to law enforcement authorities or other government third party officials such as subpoenas, or we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others and to investigate fraud.<br><br>If Keeper Security is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.<br><br>We may provide your personal information to companies that provide services to help us with our business activities such as our live chat customer support or analytics provider. These companies are authorized to use your personal information only as necessary to provide these services to us.</p>
+    <p>You may deactivate your Keeper Security account and delete your personally identifiable information at any time by contacting us at support@keepersecurity.com clearly indicating that you wish to deactivate and delete such information.  If your personal information changes, you may correct or update by emailing our Customer Support at support@keepersecurity.com. We will respond to your request to access within 30 days.<br><br>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.<br> <br>In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA) Keeper Security does not intentionally collect personally identifiable information from nor solicit children under the age of thirteen (13) years of age. <br> <br> Other than as disclosed in this Privacy Policy, at no time will Keeper Security disclose identifiable personal information to any third parties without your express, written consent. <br> <br> Keeper Security will be permitted to display an active customer's corporate logo on its website for the purpose of promoting both the customer and Keeper Security.</p>
+
+    <h2>Cookies</h2>
+    <p>Keeper Security uses cookies to store and track information about your usage of our services. Cookies are encrypted and unidentifiable bits of information sent to your browser from a web server that is stored on your computer's hard drive. Cookies are set each time you register, or log in or log out of Keeper Security. Cookies may be used to store your username or email address so that you don't have to re-enter it each time you visit https://keepersecurity.com. We may also use cookies to gather aggregated information about user habits on our website and services. For example, we may use cookies to estimate the number of concurrent users, estimate the total number of users, measure traffic statistics and to better understand how our users are using our services. We may share this data, in its aggregate form, with advertisers, affiliates and partners who may advertise on our website and services.<br><br>The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.</p>
+
+    <h2>Passwords</h2>
+    <p>Your Keeper Security account information, user name, password and customer profile are password-protected so that you have secure access to entering and editing personal information. It is the user's responsibility to protect the security of their password. Access to Keeper Security services are protected by a unique user name and password that is known by you only. Keeper Security has designed internal security processes that encrypt customer passwords to protect it from being divulged or accessed by anyone other than you. Neither Keeper Security employees nor any of its contractors can obtain or access your password. Keeper Security employees or nor any of its contractors will ask you for your password via mail, email or telephone nor any other unsolicited manner.</p>
+
+    <h2>Blogs</h2>
+    <p>Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.</p>
+
+    <h2>Third Party Links</h2>
+    <p>When customers and users access and use Keeper Security, there may be links to websites and services operated by third parties. Keeper Security makes no representations or warranties about the policies of third party websites that are linked to Keeper Security or any of its services. Keeper Security recommends that you read the privacy policies posted by those third party websites.</p>
+
+    <h2>Social Media Widgets</h2>
+    <p>Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.</p>
+
+    <h2>Further Questions</h2>
+    <p>If you have further questions about our Privacy Policy, email us at <a href="mailto:support@keepersecurity.com">support@keepersecurity.com</a>.<br><br>Keeper Security, Inc.<br>850 W. Jackson Blvd.<br>Suite 500<br>Chicago IL 60607</p>
+  </div>
 </div>
+
 
 
 
@@ -361,15 +401,13 @@ h2{
 
   <div class="span1">
     <ul>
-      <li class="footerListHeader regionHolder" style="width:200px;"><a href="javascript:regionSwitch()" class="regionChooser" style="color:black"><span class="icon-globe-1" style="font-size:16px;margin-right:10px;vertical-align:0"></span>English (US)</a></li>
+      <li class="footerListHeader regionHolder" style="width:180px;"><a href="javascript:regionSwitch()" class="regionChooser" style="color:black">English (US)</a></li>
     </ul>
   </div>
 
   <div class="span3 offset1 copyCopy">
     <p>
-      Copyright © 2014 Keeper Security, Inc.<br>
-      U.S. Patent No. 8,656,504 and 8,738,934<br>
-      Patents Pending
+      © 2014 Keeper Security, Inc.
     </p>
   </div>
 
@@ -453,7 +491,6 @@ h2{
 </script>
 <noscript><a href="https://www.olark.com/site/2842-793-10-5180/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
 <!-- end olark code -->
-
 
 
 
