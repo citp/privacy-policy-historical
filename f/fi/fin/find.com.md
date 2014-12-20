@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the find.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622124358id_/http%3A//www.find.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220023149id_/http%3A//www.find.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Find.com
 
 This privacy policy sets out how Find.com uses and protects any information that you give Find.com when you use this website.
 
@@ -42,7 +42,7 @@ You can find more information about cookies at:
 
   * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
   * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
 
 
 
@@ -89,7 +89,7 @@ You may request details of personal information which we hold about you under th
 
 A small fee will be payable.
 
-If you would like a copy of the information held on you please [contact us](https://web.archive.org/contact)
+If you would like a copy of the information held on you please [contact us](http://www.find.com/contact)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
 
