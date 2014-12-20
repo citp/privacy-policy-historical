@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frankkern.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612175005id_/http%3A//www.frankkern.com/frankkern/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frankkern.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220203224id_/http%3A//www.frankkern.com/frankkern/terms/privacy.html) for the most accurate reproduction.*
 
 # 
 
