@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasureisland.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630212621id_/http%3A//www.treasureisland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasureisland.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220063329id_/http%3A//www.treasureisland.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Treasure Island
 
@@ -175,4 +175,4 @@ If you have any questions regarding this Privacy Policy, please contact us at [T
 
 Revised: March 26, 2009
 
-© 2013 Treasure Island, LLC
+© 2014 Treasure Island, LLC
