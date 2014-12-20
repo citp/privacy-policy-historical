@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the t-app.com.au privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624080846id_/http%3A//www.t-app.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-app.com.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220020536id_/http%3A//www.t-app.com.au/privacy.aspx) for the most accurate reproduction.*
 
-# tApp is a FREE online tenancy application form that streamlines the rental sign-up process.
+# 
 
 **
 
