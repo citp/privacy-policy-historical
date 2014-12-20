@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.com.hk privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624055917id_/http%3A//www.zalora.com.hk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.hk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220074517id_/http%3A//www.zalora.com.hk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZALORA.com.hk
 
@@ -10,7 +10,7 @@ We will only keep your information for as long as we are either required to by l
 You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
 If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at service@zalora.com.hk.  
-Alternatively you may call us on **5801 0000** – this telephone number will be open to receive calls between 9am to 6pm. 
+Alternatively you may call us on **+852 3051 9300** – this telephone number will be open to receive calls between 9am to 6pm. 
 
 _
 
@@ -43,7 +43,7 @@ We may pass your name and address on to a third party in order to make delivery 
 
 When you register as a user on ZALORA website, we will also use your personal information to send you marketing and/or promotional materials from time to time. You can unsubscribe from marketing information at anytime by using the unsubscribe function within the electronic marketing material.
 
-Payments that you make through the Site will be processed by our agent Adyen. You must only submit to us or our Agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.
+Payments that you make through the Site will be processed by our agent Cybersource. You must only submit to us or our Agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.
 
   
 
