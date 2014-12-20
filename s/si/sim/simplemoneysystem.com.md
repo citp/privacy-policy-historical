@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplemoneysystem.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627130128id_/http%3A//www.pureleverage.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplemoneysystem.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220192954id_/http%3A//www.pureleverage.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
