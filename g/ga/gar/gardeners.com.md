@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515190823id_/http%3A//www.gardeners.com/Privacy-Policy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardeners.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103514id_/http%3A//www.gardeners.com/how-to/privacy-policy/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Gardener's Supply
 
