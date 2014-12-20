@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycollegeoptions.org privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404203234id_/https%3A//www.mycollegeoptions.org/Core/SiteContent/Students/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycollegeoptions.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220050859id_/http%3A//www.mycollegeoptions.org/Core/SiteContent/Students/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # My College Options - PrivacyPolicy
 
@@ -44,14 +44,9 @@ National School Boards Association |    |  Delia Pompa
 Director of Education  
 National Council of La Raza  
 ---|---|---  
-Phyllis Blaunstein  
-Senior Counsel  
-Widmeyer Communications, Inc. |    |  Jill Cook  
+Jill Cook  
 Director of Programs  
-American School Counselor Association  
-Dr. John A. Martin  
-President  
-Roberts Wesleyan College |    |  Harley Frankel  
+American School Counselor Association |    |  Harley Frankel  
 Director  
 College Match  
 Ms. Joyce Smith  
