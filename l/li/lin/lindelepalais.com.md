@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604001543id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220115218id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
 
 # lindelepalais.com :: Policy and more
 
@@ -113,20 +113,20 @@ The customer has the right to withdraw from the contract concluded with L'INDE, 
  **Goods return procedure**   
 The right of withdrawal/return is subject to the following conditions:
 
-  * The **withdrawal/return form** must be carefully and correctly filled in and forwarded to L'INDE within 8 days from the goods receipt. Furthermore, the reasons of withdrawal/return must be stated.
+  * The **withdrawal/return form** must be carefully and correctly filled in and forwarded to L'INDE within 14 days from the goods receipt. Furthermore, the reasons of withdrawal/return must be stated.
   * The items have to be returned by forwarding agent as indicated by L'INDE (UPS) or other courier, following the drawing up of the Return Form available at the bottom of the website.
   * Returns have not to be washed, used, worn or damaged.
   * The items have to be provided with the identification tag
   * The items have to be returned intact and not used in their original package (books, CDs and design objects with all seals intact); if you want to return a kit, please include all its components.
   * Goods must be returned by one shipment only. L'INDE reserves the right not to accept the restitution of items included in the same order but returned with more than one shipping.
   * Before shipping the goods, you will receive from L'INDE an e-mail confirmation, to be enclosed in the dispatch of the items.
-  * The goods must be delivered to the forwarding agent within eight (8) days from the receipt of our mail confirmation.
+  * The goods must be delivered to the forwarding agent within fourteen (14) days from the receipt of our mail confirmation.
 
 
 
   
 **Terms of refund**  
-After receiving the returns, L'INDE will check the fulfilment of all requirements and send you an e-mail of confirmation/payment/replacement of your returns. L'INDE will arrange the refund of the already paid amounts, less any shipment cost and, when necessary, custom duties. Once the correct execution of the term and conditions above mentioned is verified, you will be refunded as soon as possible. At least, within forty-five (45) days from the goods receipt, L'INDE will activate the refund procedures.  
+After receiving the returns, L'INDE will check the fulfilment of all requirements and send you an e-mail of confirmation/payment/replacement of your returns. L'INDE will arrange the refund of the already paid amounts, less any shipment cost and, when necessary, custom duties. Once the correct execution of the term and conditions above mentioned is verified, you will be refunded as soon as possible. At least, within fourteen (14) days from the goods receipt, L'INDE will activate the refund procedures.  
 In case of incorrect return procedure, as specified in this paragraph, you have no right to be refunded, whereas returned objects can be delivered to you once again, at your own expenses. Otherwise, L'INDE is allowed to keep the goods, along with the amounts paid for it.   
 After three months, the returned objects will be destroyed or arranged for disposal.  
 Should the products received indicated in the order form different from the person who arranged the payment L'INDE, in case of goods return, will refund the amount to whom effected the payment.   
