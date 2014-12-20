@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketbis.net privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329181850id_/http%3A//www.ticketbis.net/informacion/privacidad) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbis.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220230145id_/http%3A//www.ticketbis.net/information/privacidad) for the most accurate reproduction.*
 
-# PRIVACY
+# Privacy Policy | Ticketbis United Kingdom
 
 ## Terms and conditions - Privacy and protection of personal information on [www.ticketbis.net](http://www.ticketbis.net/). Automatic processing of personal data.
 
@@ -26,7 +26,7 @@ The purpose of personal data collection and automated processing is solely for t
 
 ### 4\. Communications.
 
-With acceptance of our Privacy Policy and data protection, the User accepts that TICKETBIS, S.L. may communicate, if necessary, the personal data to the rest of the companies within the Group regardless of their domicile, with the same purposes that have been indicated in the preceding paragraph. In any case, TICKETBIS, S.L. guarantees the maintenance of confidentiality and secure processing of the personal data in these international movements. The use of personal data by the foreign companies within the TICKETBIS, S.L. Group will be confined to the contents of this document. 
+With acceptance of our Privacy Policy and data protection, the User accepts that TICKETBIS, S.L. may communicate, if necessary, the personal data to the rest of the [companies within the Group](http://www.ticketbis.net/information/sociedades) regardless of their domicile, with the same purposes that have been indicated in the preceding paragraph. In any case, TICKETBIS, S.L. guarantees the maintenance of confidentiality and secure processing of the personal data in these international movements. The use of personal data by the foreign companies within the TICKETBIS, S.L. Group will be confined to the contents of this document. 
 
 ### 5\. Security Measures.
 
