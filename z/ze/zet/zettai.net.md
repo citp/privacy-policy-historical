@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zettai.net privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616011940id_/http%3A//www.zettai.net/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zettai.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220045126id_/http%3A//www.zettai.net/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
