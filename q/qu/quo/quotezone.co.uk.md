@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331184842id_/http%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220104135id_/http%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Quotezone
 
@@ -10,7 +10,7 @@ If you provide us with your information through this website, for instance by fi
 
 In particular, we may need to collect your sensitive personal information to allow us to provide you with quotes, for instance information relating to criminal convictions or to your health. You consent to our use of such information for the purposes set out below.
 
-If you give us your personal information, we will use it to provide you with the quote comparison information you request. We may also from time to time contact you by mail, telephone, SMS, or email to provide information that may be of interest to you, including our newsletter, special offers and details about the services we offer. We shall give you an opportunity to choose not to receive marketing by email before you submit your personal information. You can tell us to stop sending you marketing information at any time by contacting us via our contact us page - [Click Here](http://quotezone.co.uk/contact-quotezone.htm).
+If you give us your personal information, we will use it to provide you with the quote comparison information you request. We may also from time to time contact you by mail, telephone, SMS, or email to provide information that may be of interest to you, including our newsletter, special offers and details about the services we offer. If for any reason you do not want to receive any marketing communications then you can unsubscribe by [clicking here](http://www.quotezone.co.uk/contact-quotezone.htm) and then you can use the unsubscribe service on the contact us page. You can use that unsubscribe option at any time. If you initially decide to accept marketing e-mails but then change your mind you can always use the unsubscribe link in our marketing e-mails.
 
 We advise you that insurance providers exchange information through various databases, including the Claims and Underwriting Exchange (CUE), which holds a record of incidents reported to insurers by policyholders and third party claimants. This information exchange enables insurers to validate the information provided by you, both about yourself and any other person named on the application, and aims to reduce fraudulent claims. Insurers may use this information to consider the risk of your application.
 
