@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331070723id_/http%3A//www.nowtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowtv.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221000405id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | NOW TV
 
-## Privacy Notice
+* * *
 
 This privacy notice applies to the use of personal information by British Sky Broadcasting Limited and its group companies.
 
@@ -36,7 +36,7 @@ In addition to using your information to provide you with requested products or 
 
   * To monitor and improve our products, services and websites.
   * We may share information with credit reference and fraud prevention agencies for use in credit decisions, and for fraud detection and prevention purposes.
-  * If false or inaccurate information is provided and fraud is identified, the details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related or other facilities; managing credit and credit related accounts and facilities; recovering debt; checking details on proposals and claims for all types of insurance; or checking details of job applications and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. Please contact us by emailing us at [mysky@bskyb.com](mailto:mysky@bskyb.com) if you want to receive details of the relevant fraud prevention agencies.
+  * If false or inaccurate information is provided and fraud is identified, the details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related or other facilities; managing credit and credit related accounts and facilities; recovering debt; checking details on proposals and claims for all types of insurance; or checking details of job applications and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. Please contact us by emailing us at [mysky@bskyb.com](mailto:mysky@bskyb.com) if you want to receive details of the relevant fraud prevention agencies. 
   * We may also share your information with other companies for debt recovery purposes.
   * For market research.
   * To enable us to comply with any legal or regulatory requirements; to protect or enforce our rights or the rights of any third party; in the detection and prevention of fraud and other crimes; and for the purpose of safeguarding national security.
@@ -85,7 +85,9 @@ You can change your marketing preference at any time within your account managem
 
 ### Contacting Sky
 
-Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to [dpoffice@bskyb.com](mailto:dpoffice@bskyb.com) or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK.
+Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to [dpoffice@bskyb.com](mailto:dpoffice@bskyb.com) or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian,
+
+##### 
 
 Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 08442 414141 or through MySky.
 
