@@ -1,59 +1,59 @@
-<!--The following is the downloaded HTML source of the paultan.org privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625092219id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paultan.org privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220220506id_/http%3A//paultan.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://my-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?onload=OnLoadCallback"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=54900598145"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgAGWFFWGwIDXFZbBgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" async="" src="https://my-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?onload=OnLoadCallback"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=54900598145"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgAGWFFWGwIDXFZbBgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
     
 <link rel="apple-touch-icon" href="http://cdn.paultan.org/touch-icon-iphone.png">
 <link rel="apple-touch-icon" sizes="72x72" href="http://cdn.paultan.org/touch-icon-ipad.png">
 <link rel="apple-touch-icon" sizes="114x114" href="http://cdn.paultan.org/touch-icon-iphone-retina.png">
 <link rel="apple-touch-icon" sizes="144x144" href="http://cdn.paultan.org/touch-icon-ipad-retina.png">    
     
-	<link rel="stylesheet" type="text/css" href="http://s4.paultan.org/wp-content/themes/morning/style.css" media="screen">    
+	<link rel="stylesheet" type="text/css" href="http://s1.paultan.org/wp-content/themes/morning/style.css" media="screen">    
 	<link rel="stylesheet" href="http://cdn.paultan.org/reactions.css" type="text/css" media="screen">
 	
-	<link rel="canonical" href="http://paultan.org/privacy-policy/"><link href="http://s4.paultan.org/wp-content/themes/morning/styles/dark.css" rel="stylesheet" type="text/css">
-<link href="http://s4.paultan.org/wp-content/themes/morning/functions/wpzoom/assets/css/shortcodes.css" rel="stylesheet" type="text/css">
-<link href="http://s4.paultan.org/wp-content/themes/morning/custom.css" rel="stylesheet" type="text/css">
+	<link rel="canonical" href="http://paultan.org/privacy-policy/"><link href="http://s1.paultan.org/wp-content/themes/morning/styles/dark.css" rel="stylesheet" type="text/css">
+<link href="http://s1.paultan.org/wp-content/themes/morning/functions/wpzoom/assets/css/shortcodes.css" rel="stylesheet" type="text/css">
+<link href="http://s1.paultan.org/wp-content/themes/morning/custom.css" rel="stylesheet" type="text/css">
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.5 - http://yoast.com/wordpress/seo/ -->
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="robots" content="noodp,noydir">
-<link rel="original-source" href="">
+<link rel="original-source" href="http://paultan.org/privacy-policy/">
 <meta name="description" content="paultan.org collects information when a site visitor submits a form. We do not share this information with any third parties without the express permission">
 <link rel="canonical" href="http://paultan.org/privacy-policy/">
-<link rel="author" href="https://plus.google.com/108357362828998265350">
+<link rel="publisher" href="https://plus.google.com/+paultanautonews">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Paul Tan's Automotive News - Privacy Policy">
 <meta property="og:description" content="paultan.org collects information when a site visitor submits a form. We do not share this information with any third parties without the express permission">
 <meta property="og:url" content="http://paultan.org/privacy-policy/">
 <meta property="og:site_name" content="Paul Tan's Automotive News">
+<meta property="article:publisher" content="http://www.facebook.com/paultanautonews">
 <meta property="article:section" content="Cars">
-<meta property="article:published_time" content="2005-06-03T11:40:14+00:00">
-<meta property="article:modified_time" content="2009-11-07T14:39:56+00:00">
-<meta property="og:updated_time" content="2009-11-07T14:39:56+00:00">
 <meta property="fb:admins" content="713876005">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@paultan">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="paultan.org collects information when a site visitor submits a form. We do not share this information with any third parties without the express permission">
+<meta name="twitter:title" content="Paul Tan's Automotive News - Privacy Policy">
+<meta name="twitter:site" content="@paultantk">
 <meta name="twitter:domain" content="Paul Tan's Automotive News">
 <meta name="twitter:creator" content="@paultantk">
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="Paul Tan's Automotive News » Privacy Policy Comments Feed" href="http://paultan.org/privacy-policy/feed/">
-<link rel="stylesheet" id="sweetcaptcha_Stylesheet-css" href="http://paultan.org/wp-content/plugins/sweetcaptcha-revolutionary-free-captcha-service/css/style.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack-subscriptions-css" href="http://paultan.org/wp-content/plugins/jetpack/modules/subscriptions/subscriptions.css?ver=3.9.1" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack-widgets-css" href="http://paultan.org/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003" type="text/css" media="all">
-<link rel="stylesheet" id="wzslider-css" href="http://s4.paultan.org/wp-content/themes/morning/functions/wpzoom/assets/css/wzslider.css?ver=3.9.1" type="text/css" media="all">
-<script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<link rel="stylesheet" id="yarppWidgetCss-css" href="http://paultan.org/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.1" type="text/css" media="all">
+<link rel="stylesheet" id="sweetcaptcha_Stylesheet-css" href="http://paultan.org/wp-content/plugins/sweetcaptcha-revolutionary-free-captcha-service/css/style.css?ver=3.0.9" type="text/css" media="all">
+<link rel="stylesheet" id="wzslider-css" href="http://s1.paultan.org/wp-content/themes/morning/functions/wpzoom/assets/css/wzslider.css?ver=4.1" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://paultan.org/wp-content/plugins/jetpack/css/jetpack.css?ver=3.3" type="text/css" media="all">
+<script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
 <script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript" src="http://paultan.org/wp-content/plugins/q2w3-fixed-widget/js/q2w3-fixed-widget.min.js?ver=4.0.6"></script>
-<script type="text/javascript" src="http://paultan.org/wp-content/plugins/sweetcaptcha-revolutionary-free-captcha-service/js/swtcptcf.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
-<script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/jquery/ui/jquery.ui.widget.min.js?ver=1.10.4"></script>
-<script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/jquery/ui/jquery.ui.tabs.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2"></script>
+<script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.2"></script>
 <script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/functions/wpzoom/assets/js/shortcodes.js?ver=1"></script>
-<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/init.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/init.js?ver=4.1"></script>
+<script type="text/javascript" src="http://paultan.org/wp-content/plugins/sweetcaptcha-revolutionary-free-captcha-service/js/swtcptcf.js?ver=3.0.9"></script>
 
 <link rel="shortlink" href="http://wp.me/P1x6AR-2i">
 
@@ -114,20 +114,15 @@
 
 
 
+
 <script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
 (function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
 var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
+var src = (useSSL ? 'https:' : 'http:') +
 '//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 })();
-</script>
+</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
 <style type="text/css">
 #subscribe-label.subscribe-label { width: 400px !important; }
@@ -135,6 +130,15 @@ node.parentNode.insertBefore(gads, node);
 .tiled-gallery { margin-bottom: 0px !important; }
 </style>
 
+
+<!-- BEGIN Tynt Script -->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+ var Tynt=Tynt||[];Tynt.push('duzTHGj4Kr3QLFacn9QLxW');
+ (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<!-- END Tynt Script -->
 
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="page page-id-142 page-template-default">
@@ -189,7 +193,7 @@ node.parentNode.insertBefore(gads, node);
 
 				 					
 									<!-- PaulTan.org_ROS_728x90 -->
-					<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=8229756475" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.222565&amp;sid=8229756475"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=8229756475' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=8229756475' border='0'></a></noscript>
+					<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=8229756475" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.425607&amp;sid=8229756475"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=8229756475' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=8229756475' border='0'></a></noscript>
 												
 							
 			</div><!-- end .header-banner -->
@@ -203,18 +207,11 @@ node.parentNode.insertBefore(gads, node);
 			<div class="wrapper">
 			
 				<ul id="main-menu" class="dropdown"><li id="menu-item-108659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-108659"><a href="http://paultan.org/">Home</a></li>
-<li id="menu-item-108660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-108660"><a rel="nofollow" href="http://www.oto.my/">Cars for Sale</a>
-<ul class="sub-menu">
-	<li id="menu-item-240356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240356"><a href="http://www.oto.my/cars-for-sale/?condition=new&amp;display=multi">New Cars</a></li>
-	<li id="menu-item-240358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240358"><a href="http://www.oto.my/cars-for-sale/?display=multi&amp;condition=used">Used Cars</a></li>
-	<li id="menu-item-240359" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-240359"><a href="http://www.oto.my/cars-for-sale/?display=multi&amp;condition=recond">Recond Cars</a></li>
-</ul>
-</li>
-<li id="menu-item-218232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218232"><a href="http://www.infokereta.com/">Bahasa</a></li>
 <li id="menu-item-108661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108661"><a href="http://paultan.org/topics/local-news/">Malaysian News</a></li>
 <li id="menu-item-108662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108662"><a href="http://paultan.org/topics/test-drive-reviews/">Car Reviews</a></li>
-<li id="menu-item-108750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108750"><a href="http://paultan.org/topics/special/feature-stories/">Features</a></li>
+<li id="menu-item-260647" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-260647"><a href="http://paultan.org/topics/special/feature-stories/">Features</a></li>
 <li id="menu-item-108698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108698"><a href="http://paultan.org/topics/cars/spyshots/">Spyshots</a></li>
+<li id="menu-item-108750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108750"><a href="http://www.carbase.my/search?on_sale=1&amp;utm_source=cbpricelistmenu&amp;utm_medium=paultanmenubar&amp;utm_campaign=paultan">Pricelist</a></li>
 <li id="menu-item-207285" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-207285"><a href="http://paultan.org/topics/bikes/">Bikes</a></li>
 <li id="menu-item-108699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-108699"><a href="http://paultan.org/topics/videos/">Videos</a>
 <ul class="sub-menu">
@@ -223,11 +220,13 @@ node.parentNode.insertBefore(gads, node);
 </li>
 <li id="menu-item-141578" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-141578"><a rel="nofollow" href="http://www.techattack.my/">Tech</a></li>
 <li id="menu-item-236271" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-236271"><a href="http://paultan.org/topics/lifestyle/">Watches</a></li>
+<li id="menu-item-218232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-218232"><a href="http://www.infokereta.com/">Bahasa</a></li>
 <li id="menu-item-116515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-116515"><a rel="nofollow" href="http://www.carbase.my/tool/loan-calculator">Tools</a>
 <ul class="sub-menu">
 	<li id="menu-item-116516" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116516"><a rel="nofollow" href="http://www.carbase.my/tool/loan-calculator">Car Loan Calculator</a></li>
 	<li id="menu-item-117155" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117155"><a rel="nofollow" href="http://www.carbase.my/tool/road-tax-calculator">Road Tax Calculator</a></li>
 	<li id="menu-item-117154" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117154"><a rel="nofollow" href="http://www.carbase.my/tool/insurance-calculator">Insurance Calculator</a></li>
+	<li id="menu-item-264238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-264238"><a href="http://www.carbase.my/tool/car-market-value-guide">Car Market Value Guide</a></li>
 </ul>
 </li>
 <li id="menu-item-108725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108725"><a href="http://paultan.org/contact/">Contact</a></li>
@@ -239,6 +238,7 @@ node.parentNode.insertBefore(gads, node);
 	</header><!-- end header -->
 	
 	<section id="main">
+	
 
 <div class="wrapper">
 
@@ -320,10 +320,39 @@ node.parentNode.insertBefore(gads, node);
 					<div id="comments">
 				
 
-	<!-- If comments are open, but there are no comments. -->
+
+	<p class="title title-medium"><span> 1 Comment</span></p>
+
+	<ul class="comment-list">
+	   <li class="comment even thread-even depth-1" id="li-comment-3499316">
+	<div id="comment-3499316" class="commbody">
+	 <div class="commleft">
+		  <div class="comment-author vcard">
+		  
+
+		  
+			 <img alt="" src="http://0.gravatar.com/avatar/0b6cf50290b76363013af2b951dea790?s=80&amp;d=http%3A%2F%2F0.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D80&amp;r=G" class="avatar avatar-80 photo" height="80" width="80">
+			 <strong><cite class="fn">polo ralph lauren logo</cite></strong>
+			on <a href="http://paultan.org/privacy-policy/#comment-3499316">Oct 20, 2014 </a>
+			at <a href="http://paultan.org/privacy-policy/#comment-3499316">7:00 am</a>
+			
+
+			
+					</div>
+      </div>
+
+      <p>Greetings from California! I’m bored at work so I decided to browse your website on my iphone during lunch break. I enjoy the knowledge you present here and can’t wait to take a look when I get home. I’m amazed at how quick your blog loaded on my mobile .. I’m not even using WIFI, just 3G .. Anyhow, very good blog!</p>
+<div class="CommentRating">Like or Dislike: <img style="padding: 0px; margin: 0px; border: none; cursor: pointer;" onmouseover="this.width=this.width*1.3" onmouseout="this.width=this.width/1.2" id="up-3499316" src="http://paultan.org/wp-content/plugins/comment-rating-redis/images/1_14_up.png" alt="Thumb up" onclick="javascript:ckratingKarma('3499316', 'add', 'paultan.org/wp-content/plugins/comment-rating-redis/', '1_14_');" title="Thumb up"> <span id="karma-3499316-up" style="font-size:12px; color:#009933;">0</span>&nbsp;<img style="padding: 0px; margin: 0px; border: none; cursor: pointer;" onmouseover="this.width=this.width*1.3" onmouseout="this.width=this.width/1.2" id="down-3499316" src="http://paultan.org/wp-content/plugins/comment-rating-redis/images/1_14_down.png" alt="Thumb down" onclick="javascript:ckratingKarma('3499316', 'subtract', 'paultan.org/wp-content/plugins/comment-rating-redis/', '1_14_')" title="Thumb down"> <span id="karma-3499316-down" style="font-size:12px; color:#990033;">0</span></div>            <!-- <br /> -->
+      
+		       <div class="reply">
+         <a class="comment-reply-link" href="/privacy-policy/?replytocom=3499316#respond" onclick="return addComment.moveForm( &quot;comment-3499316&quot;, &quot;3499316&quot;, &quot;respond&quot;, &quot;142&quot; )" aria-label="Reply to polo ralph lauren logo">Reply</a>      </div>
+      <div class="clear"></div>
+     </div>
+</li><!-- #comment-## -->
+	</ul>
+	
 		
-		
- 
+	 
  
 	<div class="cleaner">&nbsp;</div>
 	<div id="respond">
@@ -374,7 +403,7 @@ node.parentNode.insertBefore(gads, node);
 			</div>
 			<input type="hidden" name="comment_post_ID" value="142" id="comment_post_ID">
 <input type="hidden" name="comment_parent" id="comment_parent" value="0">
-			<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="888c41831f"></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p>		
+			<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="e6170d4a63"></p><p class="comment-subscription-form"><input type="checkbox" name="subscribe_comments" id="subscribe_comments" value="subscribe" style="width: auto; -moz-appearance: checkbox; -webkit-appearance: checkbox;"> <label class="subscribe-label" id="subscribe-label" for="subscribe_comments">Notify me of follow-up comments by email.</label></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="32"></p>		
 		</form>
 		
 		
@@ -410,21 +439,21 @@ node.parentNode.insertBefore(gads, node);
 
 <div id="pixel_sidebar_ads">
 			<!-- PaulTan.org_ROS_BoxAd_1 -->
-		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=598724111063" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.978178&amp;sid=598724111063"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=598724111063' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=598724111063' border='0'></a></noscript>
+		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=598724111063" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.844506&amp;sid=598724111063"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=598724111063' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=598724111063' border='0'></a></noscript>
 		<!-- PaulTan.org_ROS_1_300x250 -->
-		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=87690405104" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.687009&amp;sid=87690405104"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=87690405104' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=87690405104' border='0'></a></noscript>
+		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=87690405104" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.225355&amp;sid=87690405104"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=87690405104' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=87690405104' border='0'></a></noscript>
 		<!-- PaulTan.org_ROS_2_300x250 -->
-		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=27401024867" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.225876&amp;sid=27401024867"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=27401024867' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=27401024867' border='0'></a></noscript>
+		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=27401024867" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.990505&amp;sid=27401024867"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=27401024867' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=27401024867' border='0'></a></noscript>
 		<!-- PaulTan.org_ROS_3_300x250 -->
-		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=402502451062" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.470567&amp;sid=402502451062"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=402502451062' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=402502451062' border='0'></a></noscript>
+		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=402502451062" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.337188&amp;sid=402502451062"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=402502451062' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=402502451062' border='0'></a></noscript>
 		<!-- PaulTan.org_ROS_BoxAd_2 -->
-		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=830229091064" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.482145&amp;sid=830229091064"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=830229091064' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=830229091064' border='0'></a></noscript>
+		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=830229091064" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.741730&amp;sid=830229091064"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=830229091064' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=830229091064' border='0'></a></noscript>
 		<!-- paultan.org ros box ad 3 -->
-		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=578116821065" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.849694&amp;sid=578116821065"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=578116821065' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=578116821065' border='0'></a></noscript>	
+		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=578116821065" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.386663&amp;sid=578116821065"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=578116821065' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=578116821065' border='0'></a></noscript>	
 		<!-- paultan.org ros box ad 4 -->
-		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=663713422139" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.055590&amp;sid=663713422139"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=663713422139' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=663713422139' border='0'></a></noscript>
- 
-        	</div>
+		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=663713422139" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.773483&amp;sid=663713422139"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=663713422139' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=663713422139' border='0'></a></noscript> 
+
+	</div>
 
 	
 	</div><!-- end #side -->
@@ -432,7 +461,8 @@ node.parentNode.insertBefore(gads, node);
 		
 	<div class="cleaner">&nbsp;</div>
 
-			<div class="wrapper-footer">
+	
+		<div class="wrapper-footer">
 		
 			<div class="column">
 			
@@ -454,7 +484,8 @@ node.parentNode.insertBefore(gads, node);
 			
 			<div class="cleaner">&nbsp;</div>
 		
-		</div><!-- end .wrapper-footer -->	 
+		</div><!-- end .wrapper-footer -->
+	 
 </div><!-- end .wrapper -->
 
 
@@ -494,27 +525,30 @@ node.parentNode.insertBefore(gads, node);
 
 <!-- This site is patched which an important unfixed problem since WordPress 2.5+ to 3.9+ -->
 
-<script>(function($){$(document).ready(function(){});})(jQuery);</script><script type="text/javascript" src="http://paultan.org/wp-content/plugins/comment-rating-redis/ck-karma.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/comment-reply.min.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/colorbox.min.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/slides.min.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/app.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/dropdown.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/jcarousel.js?ver=3.9.1"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201426"></script>
+<script>(function($){$(document).ready(function(){});})(jQuery);</script><script type="text/javascript" src="http://paultan.org/wp-content/plugins/akismet/_inc/form.js?ver=3.0.4"></script>
+<script type="text/javascript" src="http://paultan.org/wp-content/plugins/comment-rating-redis/ck-karma.js?ver=4.1"></script>
+<script type="text/javascript" src="http://s2.paultan.org/wp-includes/js/comment-reply.min.js?ver=4.1"></script>
+<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/colorbox.min.js?ver=4.1"></script>
+<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/slides.min.js?ver=4.1"></script>
+<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/app.js?ver=4.1"></script>
+<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/dropdown.js?ver=4.1"></script>
+<script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/js/jcarousel.js?ver=4.1"></script>
+<script type="text/javascript" src="https://www.sweetcaptcha.com/api/v2/apps/csrf/64391?ver=3.0.9"></script>
 <script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/functions/wpzoom/assets/js/galleria.js"></script>
 <script type="text/javascript" src="http://s2.paultan.org/wp-content/themes/morning/functions/wpzoom/assets/js/wzslider.js"></script>
 
-	<script src="http://stats.wordpress.com/e-201426.js" type="text/javascript"></script>
+	<script src="http://stats.wp.com/e-201451.js" type="text/javascript"></script>
 	<script type="text/javascript">
-	st_go({v:'ext',j:'1:2.9.3',blog:'22666509',post:'142',tz:'8'});
+	st_go({v:'ext',j:'1:3.3',blog:'22666509',post:'142',tz:'8'});
 	var load_cmc = function(){linktracker_init(22666509,142,2);};
 	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 	else load_cmc();
 	</script>
+	<!-- ROS OTP2 -->
+	<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=866476885650" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.089939&amp;sid=866476885650"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=866476885650' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=866476885650' border='0'></a></noscript>
 
 	<!-- pixel ROS skinner -->
-	<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=509448172127" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.362705&amp;sid=509448172127"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=509448172127' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=509448172127' border='0'></a></noscript>
+	<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=509448172127" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.369502&amp;sid=509448172127"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=509448172127' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=509448172127' border='0'></a></noscript>
 
 <!-- google plusone -->
 <script type="text/javascript">
@@ -525,7 +559,7 @@ node.parentNode.insertBefore(gads, node);
   })();
 </script>
 
-<!-- 33 queries. 0.237 seconds. -->
+<!-- 20 queries. 0.380 seconds. -->
 
 <!-- BEGIN EFFECTIVE MEASURE CODE -->
 <!-- COPYRIGHT EFFECTIVE MEASURE -->
@@ -547,10 +581,9 @@ _atrk_opts = { atrk_acct:"B/kii1agq800Mb", domain:"paultan.org",dynamic: true};
 (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
 </script>
 <noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=B/kii1agq800Mb" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
+<!-- End Alexa Certify Javascript -->  
 
-
-<!-- chartbeat -->
+<!-- chartbeat code for non permalink -->
 <script type="text/javascript">
 var _sf_async_config={uid:7622,domain:"paultan.org"};
 (function(){
@@ -570,10 +603,8 @@ var _sf_async_config={uid:7622,domain:"paultan.org"};
 })();
 </script>
 
-
-
 		<!-- ros tracker -->
-		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=672481512149" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.405543&amp;sid=672481512149"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=672481512149' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=672481512149' border='0'></a></noscript>
+		<script language="JavaScript" type="text/javascript">randomstr = new String (Math.random());randomstr = randomstr.substring(1,8);document.write ("<" + "script language='JavaScript' type='text/javascript' src='" + "http://pixel-my.pixelinteractivemedia.com/adj.php?ts=" + randomstr + "&amp;sid=672481512149" + "'><" + "/script>");</script><script language="JavaScript" type="text/javascript" src="http://pixel-my.pixelinteractivemedia.com/adj.php?ts=.459188&amp;sid=672481512149"></script><noscript><a href='http://pixel-my.pixelinteractivemedia.com/adc.php?sid=672481512149' ><img src='http://pixel-my.pixelinteractivemedia.com/adv.php?sid=672481512149' border='0'></a></noscript>
 		
 <script type="text/javascript">
 adroll_adv_id = "ETJXITTHENCGTCC2YPBHFP";
@@ -592,13 +623,15 @@ window.onload = function(){
    if(oldonload){oldonload()}};
 }());
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"8ec4b19ef6","applicationID":"1387911","transactionName":"NQYHZUtWD0MCBkRYDAxMJFJNXg5eTBVRVgY=","queueTime":0,"applicationTime":277,"ttGuid":"","agentToken":"","atts":"GUEEEwNMHE0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"8ec4b19ef6","applicationID":"1387911","transactionName":"NQYHZUtWD0MCBkRYDAxMJFJNXg5eTBVRVgY=","queueTime":0,"applicationTime":427,"atts":"GUEEEwNMHE0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Object Caching 2033/2051 objects using memcached
-Content Delivery Network via s4.paultan.org
+Object Caching 2064/2088 objects using memcached
+Content Delivery Network via s1.paultan.org
 
- Served from: _ @ 2014-06-25 17:22:20 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+ Served from: _ @ 2014-12-21 06:05:07 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-476.min.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
