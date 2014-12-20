@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629004446id_/http%3A//4arabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220145229id_/http%3A//www.4arabs.com/privacy.html) for the most accurate reproduction.*
 
 # 4Arabs Network: Privacy Policy
 
@@ -20,7 +20,7 @@ Our site contains links to other sites. 4Arabs Network is not responsible for th
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 **Choice/Opt-Out**
 
