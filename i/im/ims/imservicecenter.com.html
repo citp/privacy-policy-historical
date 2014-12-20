@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imservicecenter.com privacy policy that was archived on 2013-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130922041353id_/http%3A//www.imservicecenter.com/Privacy-Policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imservicecenter.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220151010id_/http%3A//www.imservicecenter.com/Privacy-Policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>imsc</title>
@@ -7,11 +7,12 @@
 <meta name="keywords" content="Please insert Meta Keyword which contained 1-255 characters.">
 <meta name="description" content="Please insert Meta Description which contained 1-255 characters.">
 <meta name="generator" content="Rvglobalsoft">
-<!-- Version: 5.0.37 PRO; Project name: project2; Project id: ebface853249c284c85dbef04ea94e90; Template Name: pro_4-270-1_blue_circle_2; 
-Published date: July 30, 2013, 7:32 21 (GMT -04:00) --> 
+<!-- Version: 5.4.0 PRO; Project name: project2; Project id: ebface853249c284c85dbef04ea94e90; Template Name: pro_4-270-1_blue_circle_2; 
+Published date: November 30, 2014, 11:13 37 (GMT -05:00) --> 
 <link rel="stylesheet" href="http://imservicecenter.com/style.css" type="text/css">
 
 <link rel="stylesheet" href="http://imservicecenter.com/Verdana.css" type="text/css">
+<link rel="stylesheet" href="http://imservicecenter.com/customcss/style.css" type="text/css">
 <link rel="stylesheet" href="http://imservicecenter.com/Navigator.css" type="text/css">
 <link rel="stylesheet" href="http://imservicecenter.com/pathway.css" type="text/css">
 
@@ -24,8 +25,13 @@ Published date: July 30, 2013, 7:32 21 (GMT -04:00) -->
 
 
 <script type="text/javascript" src="http://imservicecenter.com/js/jquery.url.js"></script>
-<script type="text/javascript">
-//<![CDATA[
+<!-- new navigation style 2013 -->
+<link rel="stylesheet" type="text/css" href="http://imservicecenter.com/js/publishNavigator/ddsmoothmenu.css">
+<link rel="stylesheet" type="text/css" href="http://imservicecenter.com/js/publishNavigator/ddsmoothmenu-v.css">
+
+<script type="text/javascript" defer="defer">
+
+(function ($) {
 $(document).ready(function() {
     var CurrentUrl = window.location.href;
     if (CurrentUrl.match(/(rvsindex.php)|(blogweb\/index)|(faqweb\/)/)) {
@@ -37,14 +43,35 @@ $(document).ready(function() {
             CurrentUrl = page;
         }
     }
-        var poiont = $('.rvnavigator a[href="' + page + '"]').parents("li").length;
+    
+    if ($.browser.webkit) {
+	    window.addEventListener('load', function(){
+	    	$(':-webkit-autofill').each(function(){
+            	var text = $(this).val();
+            	var name = $(this).attr('name');
+            	$(this).after(this.outerHTML).remove();
+            	$('input[name=' + name + ']').val(text);
+            });
+	    }, false);
+	}
+    
+    
+    var poiont = $('.rvnavigator a[href="' + page + '"]').parents("li").length;
     if (poiont > 0) {
         for (i=0;i<=poiont;i++) {
             $('.rvnavigator a[href="' + page + '"]').parents("li").eq(i).find('a:first').attr('class', 'current');
         }
     }
+    
+    $('#jumpmenu').find('option').each(function() {
+		if($(this).val() == window.location.href) {
+			$(this).attr('selected', 'selected');
+		}
+	})
+    
 });
-//]]>
+})($);
+
 </script>
 
 <script type="text/javascript" src="http://imservicecenter.com/rvsincludefile/rvscustomopenwindow.js"></script>
@@ -101,55 +128,55 @@ $(document).ready(function() {
             	<table cellpadding="0" cellspacing="0" width="100%">
                 	 <tbody><tr>
                     	<td class="bg_l"><img src="images/spacer.gif" alt="" width="9" height="1"></td>
-                        <td align="left" valign="top" height="32" width="99%" class="bgmenu"><ul class="rvnavigator">
+                        <td align="left" valign="top" height="32" width="99%" class="bgmenu"><div id="rvnavigator"><ul class="rvnavigator">
 <li>
-<a href="Home.php" target="_self"><span>Home</span></a></li>
+<a href="http://imservicecenter.com/Home.php" target="_self"><span>Home</span></a></li>
 <li>
-<a href="Contact-Us.php" target="_self"><span>Contact Us +</span></a><ul>
+<a href="http://imservicecenter.com/Contact-Us.php" target="_self"><span>Contact Us +</span></a><ul>
 <li>
 <a href="http://directresponders.com/ar3/t.php?id=1496" title=" http://directresponders.com/ar3/t.php?id=1496" target="_self"><span>Support</span></a></li>
 </ul>
 </li>
 <li>
-<a href="Webdesign.php" target="_self"><span>Webdesign +</span></a><ul>
+<a href="http://imservicecenter.com/Webdesign.php" target="_self"><span>Webdesign +</span></a><ul>
 <li>
-<a href="Banner-Design.php" target="_self"><span>Banner Design</span></a></li>
+<a href="http://imservicecenter.com/Banner-Design.php" target="_self"><span>Banner Design</span></a></li>
 <li>
-<a href="Graphic-Design.php" target="_self"><span>Graphic Design</span></a></li>
+<a href="http://imservicecenter.com/Graphic-Design.php" target="_self"><span>Graphic Design</span></a></li>
 <li>
-<a href="ultimate-order.php" target="_self"><span>ultimate-order</span></a></li>
+<a href="http://imservicecenter.com/ultimate-order.php" target="_self"><span>ultimate-order</span></a></li>
 <li>
-<a href="Logo-Design.php" target="_self"><span>Logo Design</span></a></li>
+<a href="http://imservicecenter.com/Logo-Design.php" target="_self"><span>Logo Design</span></a></li>
 <li>
-<a href="Card-Design.php" target="_self"><span>Card Design</span></a></li>
+<a href="http://imservicecenter.com/Card-Design.php" target="_self"><span>Card Design</span></a></li>
 </ul>
 </li>
 <li>
-<a href="Services.php" target="_self"><span>Services +</span></a><ul>
+<a href="http://imservicecenter.com/Services.php" target="_self"><span>Services +</span></a><ul>
 <li>
-<a href="Your-Own-Giveaway.php" target="_self"><span>Your Own Giveaway</span></a></li>
+<a href="http://imservicecenter.com/Your-Own-Giveaway.php" target="_self"><span>Your Own Giveaway</span></a></li>
 <li>
 <a href="http://gawaycenter.com/gad/" title=" http://gawaycenter.com/gad/" target="_blank"><span>Giveaway Events</span></a></li>
 <li>
-<a href="Business_Services.php" target="_self"><span>Business_Services</span></a></li>
+<a href="http://imservicecenter.com/Business_Services.php" target="_self"><span>Business_Services</span></a></li>
 </ul>
 </li>
 <li>
-<a href="News.php" target="_self"><span>News +</span></a><ul>
+<a href="http://imservicecenter.com/News.php" target="_self"><span>News +</span></a><ul>
 <li>
 <a href="http://www.imservicecenter.com/vcart/new_products.html" title=" http://www.imservicecenter.com/vcart/new_products.html" target="_blank"><span>Shopping</span></a></li>
 <li>
-<a href="Promotions.php" target="_self"><span>Promotions</span></a></li>
+<a href="http://imservicecenter.com/Promotions.php" target="_self"><span>Promotions</span></a></li>
 <li>
 <a href="http://gawaycenter.com/Portfolio.php" title=" http://gawaycenter.com/Portfolio.php" target="_blank"><span>Portfolio</span></a></li>
 <li>
-<a href="Partner-Links.php" target="_self"><span>Partner Links</span></a></li>
+<a href="http://imservicecenter.com/Partner-Links.php" target="_self"><span>Partner Links</span></a></li>
 </ul>
 </li>
 <li>
 <a href="http://gawaycenter.com/resellers/" title=" http://gawaycenter.com/resellers/" target="_blank"><span>Reseller Club +</span></a><ul>
 <li>
-<a href="JV-Partner-Signup.php" target="_self"><span>JV Partner Signup</span></a></li>
+<a href="http://imservicecenter.com/JV-Partner-Signup.php" target="_self"><span>JV Partner Signup</span></a></li>
 <li>
 <a href="http://gawaycenter.com/resellers/index.php?action=affsignup" title=" http://gawaycenter.com/resellers/index.php?action=affsignup" target="_blank"><span>Affiliate Signup</span></a></li>
 </ul>
@@ -171,7 +198,7 @@ $(document).ready(function() {
 </ul>
 </li>
 <li>
-<a href="Affiliates.php" title=" Affiliates.php" target="_blank"><span>Affiliates +</span></a><ul>
+<a href="http://imservicecenter.com/Affiliates.php" title=" http://imservicecenter.com/Affiliates.php" target="_blank"><span>Affiliates +</span></a><ul>
 <li>
 <a href="http://www.imservicecenter.com/affiliatepro/affiliate/index.php" title=" http://www.imservicecenter.com/affiliatepro/affiliate/index.php" target="_blank"><span>Affiliate Welcome</span></a></li>
 <li>
@@ -186,7 +213,14 @@ $(document).ready(function() {
 <a href="http://www.gawaycenter.com/idevaffiliate/login.php" title=" http://www.gawaycenter.com/idevaffiliate/login.php" target="_blank"><span>Academy Affiliate Login</span></a></li>
 </ul>
 </li>
+<li>
+<a href="http://store142581.duoservers.com/" title=" http://store142581.duoservers.com/" target="_blank"><span>Webhosting +</span></a><ul>
+<li>
+<a href="http://directresponders.com/ar3/t.php?id=2974" title=" http://directresponders.com/ar3/t.php?id=2974" target="_blank"><span>Reseller Hosting</span></a></li>
 </ul>
+</li>
+</ul></div>
+<div class="clear"></div>
 </td>
                         <td class="bg_r"><img src="images/spacer.gif" alt="" width="9" height="1"></td>    
                     </tr>
@@ -304,28 +338,11 @@ We reserve the right, at any time and without notice, to add to, change, update,
 														<!-- Begin SIDE2 -->
 														<td width="160" align="center" valign="top" class="magin"><div></div>
 <div align="center">
-<div align="center"><script type="text/javascript" src="http://imservicecenter.com/oiopub/js.php#type=link&amp;align=center&amp;zone=1"></script> </div></div>
+<div align="center"> </div></div>
 <div align="center">
 <div align="center">&nbsp;</div></div>
-<div align="center">
-<div align="center"><!-- BEGIN Comm100 Live Chat Button Code -->
-<div align="center">
-<link href="https://chatserver.comm100.com/css/comm100_livechatbutton.css" rel="stylesheet" type="text/css"><a href="http://www.comm100.com/livechat" target="_blank" onclick="comm100_124688.openChatWindow(event,969,-1);return false;"><img alt="" title="" style="border: 0px" id="comm100_ButtonImage" src="https://chatserver.comm100.com/BBS.aspx?siteId=124688&amp;planId=969&amp;partnerId=-1" border="0" height="128" width="220"></a><script src="https://chatserver.comm100.com/js/LiveChat.js?siteId=124688&amp;planId=969&amp;partnerId=-1" type="text/javascript"></script></div>
-<div id="comm100_ChatButton">
-<div id="comm100_warp">
-<div id="comm100_dvhelp">
-<div id="comm100_track"><a href="http://www.comm100.com/livechat/" target="_blank"><strong>Live Chat</strong></a> by <a style="color: #009999; cursor: pointer" onclick="javascript:document.getElementById('comm100_dvbox').style.display='';">Comm100</a></div></div>
-<div id="comm100_dvbox" class="comm100_dvbox_css" style="display: none" onmouseover="this.style.display=''" onmouseout="this.style.display='none'">
-<div class="comm100_dvcontent_css">
-<p class="comm100_ptitle_css"><strong><a href="http://www.comm100.com/" target="_blank" class="comm100_atitle_css">Comm100</a> Products:</strong></p>
-<ul class="comm100_ulbox_css">
-<li style="display: none" class="comm100_onelinone">&nbsp;</li>
-<li><a href="http://www.comm100.com/livesupport/" target="_blank">Live Support</a> Software</li>
-<li><a href="http://www.comm100.com/emailmarketing/" target="_blank">Email Marketing</a></li>
-<li><a href="http://www.comm100.com/emailmarketing/" target="_blank">Email Marketing Software</a></li>
-<li><a href="http://www.comm100.com/helpdesk/" target="_blank">Help Desk</a> Software</li>
-<li><a href="http://www.comm100.com/emailmarketing/emailmarketingtips.aspx" target="_blank">Email Marketing Tips</a></li>
-<li><a href="http://www.comm100.com/ticket/" target="_blank">Support Ticket</a> Software</li></ul></div></div></div></div><!-- End Comm100 Live Chat Button Code --></div></div>
+<div align="center"><script type="text/javascript" src="https://mylivechat.com/chatbutton.aspx?hccid=47922158"></script></div><br>
+<div align="center"></div>
 <div></div>
 <div>
 <table style="width: 200px; height: 360px; border-collapse: collapse" id="table1" align="center" bgcolor="#ffffff" border="1" bordercolor="#ffbea5" cellpadding="1" cellspacing="0">
@@ -366,8 +383,19 @@ and much more!</strong></font></font></div>
 <div>
 <div>
 <div>
+<div></div>
 <div>
-<div>&nbsp;</div></div></div></div></div></div>
+<div>&nbsp;</div></div>
+<div>
+<div><!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
+<div itemscope="" itemtype="http://schema.org/Person" class="fiverr-seller-widget" style="display: inline-block"><a itemprop="url" href="https://www.fiverr.com/bartweller?from_widget=true" rel="nofollow" target="_blank" style="display: inline-block">
+<div class="fiverr-seller-content" id="fiverr-seller-widget-content-1c0006d2-f6f0-4c19-89f8-b78ee19506fa" itemprop="contentURL" style="display: none"></div>
+<div id="fiverr-widget-seller-data" style="display: none">
+<div itemprop="name">bartweller</div>
+<div itemscope="" itemtype="http://schema.org/Organization"><span itemprop="name">Fiverr</span></div>
+<div itemprop="jobtitle">Seller</div>
+<div itemprop="description">I am a IM addict and can design anything you can imagine, also can build your desperately needed subscribers list and teach you anything you might need for your online endeavors, can do many things you need .</div> </div></a></div>
+<div align="center"><script id="fiverr-seller-widget-script-1c0006d2-f6f0-4c19-89f8-b78ee19506fa" src="https://widgets.fiverr.com/api/v1/seller/bartweller?widget_id=1c0006d2-f6f0-4c19-89f8-b78ee19506fa" data-config="{&quot;category_name&quot;:&quot;Online Marketing&quot;}" async="true" defer="true"></script></div></div></div></div></div></div></div>
 <div>
 <div>&nbsp;</div></div>
 <div align="center">
@@ -377,9 +405,16 @@ and much more!</strong></font></font></div>
 <script type="text/javascript" src="http://imservicecenter.com/oiopub/js.php#type=banner&amp;align=center&amp;zone=1"></script><br>
 <br> </div></div>
 <div align="center">
-<div align="center"><script type="text/javascript" src="http://imservicecenter.com/oiopub/js.php#type=banner&amp;align=center&amp;zone=2"></script> </div></div>
-<div align="center"><a href="http://traffic-magician.com/aff/2214" target="_blank"><img title="Click here to get The Traffic Magician" alt="Click here to get The Traffic Magician" src="http://traffic-magician.com/images/ban/250x250.gif" border="1" height="220" width="220"></a>
+<div align="center"> </div></div>
+<div align="center"><a href="http://traffic-magician.com/aff/2214" target="_blank"></a>
 <div align="center">
+<div align="center"><object width="220" height="300" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" title="">
+<param name="scale" value="showall">
+<param name="bgcolor" value="">
+<param name="wmode" value="opaque">
+<param name="flashvars" value="">
+<param name="movie" value="http://imservicecenter.com/media/imscpro10.swf">
+<param name="quality" value="high"><embed width="220" height="300" scale="showall" wmode="transparent" quality="high" src="http://imservicecenter.com/media/imscpro10.swf" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></object>&nbsp;</div>
 <div align="center">&nbsp;</div></div></div>
 <div align="center"><a href="http://imservicecenter.com/Webdesign.php" title=""></a></div></td>
 														<!-- End SIDE2 -->
@@ -402,8 +437,8 @@ and much more!</strong></font></font></div>
 								<td align="center" class="magin"><div align="center"><font color="#000099">&nbsp;&nbsp;&nbsp;<a title="" href="Terms-of-Use.php">Terms of use</a>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <a title="" href="Privacy-Policy.php">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a title="" href="Anti-Spam-Policy.php">Anti Spam Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a title="" href="Whitelist.php">Whitelist</a>&nbsp; &nbsp;<a title="" href="Earnings-Disclaimer.php">Earnings Disclaimer</a></font></div>
 <div align="center"><font color="#000099"></font>&nbsp;</div>
 <div align="center"><font color="#000099"></font>&nbsp;</div>
-<div align="center"><font color="#000099">Copyright ©&nbsp;2012&nbsp; imservicecenter.com &nbsp;&nbsp;<a href="http://www.copyscape.com/online-copyright-protection/"><img src="http://imservicecenter.com/images/cs-wh-3d-234x16.gif" alt="Protected by Copyscape Online Copyright Protection" title="Protected
-by Copyscape Plagiarism Checker - Do not copy content from this page." width="234" border="0" height="16"></a>
+<div align="center"><font color="#000099">Copyright ©&nbsp;2014&nbsp; imservicecenter.com &nbsp;&nbsp;<a href="http://www.copyscape.com/online-copyright-protection/"><img src="http://imservicecenter.com/images/cs-wh-3d-234x16.gif" alt="Protected by Copyscape Online Copyright Protection" title="Protected
+by Copyscape Plagiarism Checker - Do not copy content from this page." border="0" height="16" width="234"></a>
 
 
 
