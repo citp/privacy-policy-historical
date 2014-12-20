@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edweek.org privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630072504id_/http%3A//www.edweek.org/info/about/privacy-policy.html%3Fintc%3Dthed) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edweek.org privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220063747id_/http%3A//www.edweek.org/info/about/privacy-policy.html%3Fintc%3Dthed) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
@@ -9,6 +9,35 @@ on_before_html_head - start
 
 -->
 
+<!--BEGIN LOCALSTORAGE OBJECT-->
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+	function EPECookie(parent) { this.parent = parent; }
+	EPECookie.prototype.DOMAIN = ".edweek.org";
+	EPECookie.prototype.PATH = "/";
+	EPECookie.prototype.Support = function () { return navigator.cookieEnabled; }
+	EPECookie.prototype.setCookie = function ( key, val, d ) { document.cookie = key + "=" + val + ";expires=" + d.toString() + ";domain=" + this.DOMAIN + ";path=" + this.PATH; }
+	EPECookie.prototype.getCookie = function ( key, def ) { var name = key + "="; var ca = document.cookie.split(';'); for( var i = 0; i < ca.length; i++ ) { var c = ca[i]; while (c.charAt(0)==' ') { c = c.substring(1); } if (c.indexOf(name) != -1) { return c.substring(name.length,c.length); } } return def; }	
+	EPECookie.prototype.Load = function ( key, def ) { var result = def; if (this.Support()) { val = this.getCookie( key, def ); if ( val ) { result = val; } } return result; }
+	EPECookie.prototype.Inc  = function ( key ) { var val = this.Load( key, 0 ); val = parseInt( val ); val++; this.Save( key, val ); return val; }
+	EPECookie.prototype.Format = function ( val, len ) { var result = val; var d = new Date(); if ( val == "Y" ) { result = d.getFullYear(); } if ( val == "m" ) { result = d.getMonth(); } if ( val == "d" ) { result = d.getDate(); } if ( val == "H" ) { result = d.getHours(); } if ( val == "s" ) { result = d.getMinutes(); } if ( val == "i" ) { result = d.getSeconds(); } if ( val == "t" ) { var d1 = new Date(d.getFullYear(), d.getMonth() + 1, 0);  result = d1.getDate(); } result = result.toString(); while ( result.length < len ) { result = "0" + result; } return result; }
+	EPECookie.prototype.EO = function ( fmt ) { var fmtArr = fmt.replace( / /g, "-" ).replace( /:/g, "-" ).split( "-" ); return new Date( this.Format( fmtArr[ 0 ], 4 ), this.Format( fmtArr[ 1 ], 2 ), this.Format( fmtArr[ 2 ], 2 ), this.Format( fmtArr[ 3 ], 2 ), this.Format( fmtArr[ 4 ], 2 ), this.Format( fmtArr[ 5 ], 2 ) ); }
+	EPECookie.prototype.Fmt = function ( d ) { return this.Format( d.getYear(), 4 )  + "-" + this.Format( d.getMonth(), 2 ) + "-" + this.Format( d.getDate(), 2 ) + " " + this.Format( d.getHours(), 2 ) + ":" + this.Format( d.getMinutes(), 2 ) + ":" + this.Format( d.getSeconds(), 2 ); }
+	EPECookie.prototype.EOY = function () { return this.EO( 'Y-12-31 23:59:59' ); }
+	EPECookie.prototype.EOM = function () { return this.EO( 'Y-m-t 23:59:59' ); }
+	EPECookie.prototype.EOD = function () { return this.EO( 'Y-m-d 23:59:59' ); }
+	EPECookie.prototype.Save = function ( key, val ) { if (this.Support()) { this.setCookie( key, val, this.EOM() ); } }
+
+</script> 
+<script type="text/javascript">
+
+	var cookie = new EPECookie( null );
+	
+</script> 
+
+
+<!--END LOCALSTORAGE OBJECT-->
 
 <!--
 
@@ -38,8 +67,9 @@ on_before_html_head - end
 
 
     <link href="/css/infopage.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/common.js"></script>
-    <script type="text/javascript"> // <!--
+    <script type="text/javascript" src="/js/common.js"></script>
+    <!--BEGIN CE-->
+<script type="text/javascript"> // <!--
 var s_account="epeglobal";
 // --></script>
 <script language="JavaScript" type="text/javascript" src="http://www.edweek.org/js/sc.js?v=140"></script>
@@ -73,7 +103,7 @@ s._login=false;s._preview=false;s._slu=false;s._level=0;s._access=0;s._prof=0;s.
 </script>
 <!-- ---- END g_analytics.html ---- --> 
 
-
+<!-- END CE-->
     
 <!--
 
@@ -341,13 +371,20 @@ var Query=function(a){"use strict";var b=function(a){var b=[],c,d,e,f;if(typeof 
 
 
 <!--END PAGE OBJECT-->
-	<!-- BEGIN global_js.html -->
+	<!-- BEGIN page_head.html -->
     <script type="text/javascript" src="/js/common.js"></script>
     <script type="text/javascript" src="/js/flash.js"></script>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-	<script type="text/javascript" src="/js/jquery.validate.js?v=112"></script>
-    <script type="text/javascript" src="/js/tabpane.js"></script>
-    <script type="text/javascript" src="/js/blog.js"></script>
+    <script>window.$j || document.write('<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"><\/script>')</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script>window.setupAllTabs || document.write('<script src="/js/tabpane.js"><\/script>')</script><script src="/js/tabpane.js"></script>
+    <script>
+	
+	if (window.$j) {
+		if (!window.$j.validator) {
+			document.write('<script src="/js/jquery.validate.js?v=112"><\/script>')
+		}
+	}
+	
+	</script>
     <script type="text/javascript" src="/js/featuredcontentglider.js">
     /***********************************************
     * Featured Content Glider script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
@@ -356,13 +393,19 @@ var Query=function(a){"use strict";var b=function(a){var b=[],c,d,e,f;if(typeof 
     ***********************************************/
     </script>	
     <script type="text/javascript" src="/js/jquery.hoverIntent.minified.js"></script>  
-    <script type="text/javascript">
-       jQuery.noConflict();
-       var $j = jQuery;
-    </script>
-	<script type="text/javascript" src="/js/metermessage_v2.js"></script>  
+	<script type="text/javascript">
+	
+	try {
+		if (!window.$j) {
+			jQuery.noConflict();
+			var $j = jQuery;
+		}
+	} catch(e) { console.log("Jquery Error: " + e.message); }
+	
+	</script>
+	<script type="text/javascript" src="/js/metermessage_v2.js"></script> 
     <script src="//cdn.optimizely.com/js/315407138.js"></script>
-	<!-- END global_js.html -->
+	<!-- END page_head.html -->
 
 <!--
 
@@ -416,7 +459,7 @@ on_before_page_header - end
    var $j = jQuery;
 </script>
 <!-- BEGIN ONEBYONE -->
-<div style="height:0;"><script type="text/javascript" src="http://ad.doubleclick.net/adj/info/info;-1;tile=1;sz=1x1;dcopt=ist;ord=42205833;r=a;"></script></div>
+<div style="height:0;"><script type="text/javascript" src="http://ad.doubleclick.net/adj/info/info;-1;tile=1;sz=1x1;dcopt=ist;ord=82103021;r=a;"></script></div>
 <!-- END ONEBYONE -->
 
  
@@ -427,7 +470,7 @@ on_before_page_header - end
     
     <div id="header-center">
         <div id="masthead">
-            <!-- <div class="dateline">June 30, 2014</div> -->
+            <!-- <div class="dateline">December 20, 2014</div> -->
             <a href="http://www.edweek.org/info/about/"><img src="/images/spacer.gif" id="ewlogo" width="300" height="50px" alt="Education Week"></a>
         </div>
         <div id="header-tools">
@@ -435,7 +478,7 @@ on_before_page_header - end
                  
                                 <div class="account-links">
 				  										  					  <a href="http://www.edweek.org/login.html?source=http%3A%2F%2Fwww.edweek.org%2Finfo%2Fabout%2Fprivacy-policy.html&amp;destination=http%3A%2F%2Fwww.edweek.org%2Finfo%2Fabout%2Fprivacy-policy.html&amp;intc=lhed">Login</a>
-									  										   | 					  <a href="http://www.edweek.org/order.html?iProdId=&amp;mkey=&amp;ListSource=AXEHEDR&amp;source=http%3A%2F%2Fwww.edweek.org%2Finfo%2Fabout%2Fprivacy-policy.html&amp;destination=http%3A%2F%2Fwww.edweek.org%2Finfo%2Fabout%2Fprivacy-policy.html">Register</a>
+									  										   | 					  <a href="http://www.edweek.org/order.html?action=REGISTRATION&amp;iProdId=1000&amp;mkey=&amp;ListSource=AXEHEDR&amp;source=http%3A%2F%2Fwww.edweek.org%2Finfo%2Fabout%2Fprivacy-policy.html&amp;destination=http%3A%2F%2Fwww.edweek.org%2Finfo%2Fabout%2Fprivacy-policy.html">Register</a>
 									  										   | 					  <a href="http://www.edweek.org/offer.html?source=http%3A%2F%2Fwww.edweek.org%2Finfo%2Fabout%2Fprivacy-policy.html&amp;destination=http%3A%2F%2Fwww.edweek.org%2Finfo%2Fabout%2Fprivacy-policy.html&amp;intc=sahed">Subscribe</a>
 									  									  				</div>
             </div> 
@@ -1303,18 +1346,13 @@ function pluck_action(evt) {
 
 <script type="text/javascript">
 <!--
-	$j("#copyright p").click(function (e) {
-	   if (e.ctrlKey)
-        {
-            $j( "#debug_info" ).toggle();
-        }	   
-      });
-	  
-	function copyrightclick(e) 
-	{ 
-		$j( "#debug_info" ).toggle();
-	}
-
+	try {
+		$j("#copyright p").click(function (e) {
+			if (e.ctrlKey) {
+				$j( "#debug_info" ).toggle();
+			}
+		});
+	} catch(e) { }
 -->
 </script>
 
@@ -1331,14 +1369,14 @@ function pluck_action(evt) {
 	<p>DisplayName: <b></b></p>
 	<p>TrialsLeft: <b>0</b></p>
 	<p><b>Trials</b>: <br>
-			http://blogs.edweek.org/edweek/learning_forwards_pd_watch/2013/02/leading_the_way_on_common_core.html
+			http://blogs.edweek.org/edweek/inside-school-research/2012/09/doe_education_library_disables.html
 		<br>
 		</p>
 	<br>
 	<br>
 	<br>
 	<!-- TierLogPlaceHolder -->
-	<p><b>Tier Preview Log:</b></p><p>Exception pages ( /info/about/privacy-policy.html )                    = NO</p><p>Internal request ( 207.241.226.77 )                                    = NO</p><p>Open House ( 2014-06-30 03:05:25 )                                     = NO</p><p>Site Licence : ( 207.241.226.77 )                                      = NO</p><p>ACL Free A vs U ( 0 vs 0 )                                             = YES</p><p>Access granted ( 3 )                                                   = YES</p>
+	<p><b>Tier Preview Log:</b></p><p>Exception pages ( /info/about/privacy-policy.html )                    = NO</p><p>Internal request ( 128.48.120.140 )                                    = NO</p><p>Open House ( 2014-12-20 01:48:37 )                                     = NO</p><p>Personal SL : ( EMPTY )                                                = NO</p><p>Site Licence : ( 128.48.120.140 )                                      = NO</p><p>ACL Free A vs U ( 0 vs 0 )                                             = YES</p><p>Access granted ( 3 )                                                   = YES</p>
 	<br><br><br>
 	</span>
 	
@@ -1351,7 +1389,7 @@ on_after_page - end
 -->
 
 
-<!-- Total load time [ 0.17158389 sec ] for [ /info/about/privacy-policy.html?intc=thed ] -->
+<!-- Total load time [ 0.17319202 sec ] for [ /info/about/privacy-policy.html?intc=thed ] -->
 </div><!-- #container end --> 
 
 
