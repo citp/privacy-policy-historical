@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the okcaller.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608143246id_/http%3A//okcaller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okcaller.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220152120id_/http%3A//okcaller.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | okcaller.com
+# Privacy Policy | OkCaller.com
 
 **What information do we collect?**
 
@@ -62,6 +62,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-okcaller.com  
-, Washington 232-677-3287  
-89231
+OkCaller.com  
+Washington 215-488-7711
