@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the casalemedia.com privacy policy that was archived on 2014-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140624152111id_/http%3A//casalemedia.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the casalemedia.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220061017id_/http%3A//casalemedia.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300" rel="stylesheet" type="text/css">
@@ -10,37 +10,97 @@
 	<meta name="google-site-verification" content="3wUHbktqbPY50rlzwi1SzX28DC2vZcO4ua3e4fv86bg">
 
 	<script type="text/javascript" src="/script.js"></script>
+		<!-- SMOOTH SCROLL -->
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script>
+		$(function() {
+		  $('a[href*=#]:not([href=#])').click(function() {
+			if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+			  var target = $(this.hash);
+			  target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+			  if (target.length) {
+				$('html,body').animate({
+				  scrollTop: target.offset().top - 120
+				}, 800);
+				return false;
+			  }
+			}
+		  });
+		});
+		</script>
+		<!-- End of SMOOTH SCROLL -->
+		
+			<!-- map -->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAvq3C8lIaG6-QRQJkTuIgZ-VhxzBAonSM&amp;sensor=false" type="text/javascript"></script>		
+	<script src="../js/map_Wingold.js" type="text/javascript"></script>	
+	<!-- map -->
+
+	<script>
+	$(document).ready(function(){		
+		map_init();
+
+	});
+	</script>
+	<script src="/js/jquery-1.8.2.min.js"></script>
+	<script>
+		$(document).ready(function(){
+
+			// hide #back-top first
+			$("#back-top").hide();
+
+			// fade in #back-top
+			$(function () {
+				$(window).scroll(function () {
+					if ($(this).scrollTop() > 100) {
+						$('#back-top').fadeIn();
+					} else {
+						$('#back-top').fadeOut();
+					}
+				});
+
+				// scroll body to 0px on click
+				$('#back-top a').click(function () {
+					$('body,html').animate({
+						scrollTop: 0
+					}, 800);
+					return false;
+				});
+			});
+
+		});
+		</script>
+
+		
 </head>
 <body>
 
-
-<div class="container" style="border-bottom:1px solid #ccc;padding-bottom:5px;">
-	<div id="header">
-		<div id="logo">
-			<a href="http://casalemedia.com"><!--
-			SVG Support --><img src="/casalemedia.svg" width="111" height="68" border="0" alt="Casale Media Logo" class="has-svg"><!--
-			No SVG Support --><img src="/casalemedia.png" width="111" height="68" border="0" alt="Casale Media Logo" class="no-svg"></a>
-		</div>
-		<div id="menu">
-			<a href="/about/">ABOUT</a>
-			<span style="padding-left:30px;"><a href="/newsroom/">NEWS</a></span>
-			<span style="padding-left:30px;"><a href="/careers/">CAREERS</a></span>
-			<span style="padding-left:30px;"><a href="/contact/">CONTACT</a></span>
+<div id="menubg">
+	<div class="headerwide">
+		<div class="headercontainer">
+				<div id="logo">
+					<a href="http://casalemedia.com"><!--
+					SVG Support --><img src="/casalemedia.svg" width="111" height="68" border="0" alt="Casale Media Logo" class="has-svg"><!--
+					No SVG Support --><img src="/casalemedia.png" width="111" height="68" border="0" alt="Casale Media Logo" class="no-svg"></a>
+				</div>
+				<div id="menu">
+					<span style="padding-left:30px;"><a href="/corporate/">CORPORATE</a></span>
+					<span style="padding-left:30px;"><a href="http://www.indexexchange.com/careers/" target="_blank">CAREERS</a></span>
+					<span style="padding-left:30px;"><a href="/contact/">CONTACT</a></span>
+				</div>
 		</div>
 	</div>
 </div>
 
 
-
-<div class="container">
+<div class="containerwide">
 	<div id="content">
 
-		<div style="font-weight:300;text-align:right;padding:25px 0 25px 0;"><img src="/privacy.png" border="0" style="float:left;"></div>
-		<br><span style="font-size: 10pt;">LAST UPDATED 11.20.13</span>
+		<h5>Privacy policy</h5>
+		<br><span style="font-size: 10pt;">LAST UPDATED 07.16.14</span>
 			<span id="bodycontent">
 			<p>Casale Media participates in TRUSTe's Privacy and Trusted Data Collection Programs. TRUSTe privacy seals help thousands of businesses promote online safety and trust, and guide consumers to websites that protect their privacy online.</p>		
 			
-			<p>This privacy policy covers the data collection and use practices of the Casale Media website, www.casalemedia.com. To view the policy for our Online Advertising Network, (MediaNet®), and to opt out, please visit <a href="http://www.medianet.com/privacy/" target="_blank">www.medianet.com/privacy/</a>.</p> Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. If users have questions or concerns regarding this policy, you should first <a href="/contact"> contact us</a>. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank&quot;">TRUSTe here.</a><p></p>
+			<p>This privacy policy covers the data collection and use practices of the Casale Media website, www.casalemedia.com. To view the policy for our Online Advertising Network, (MediaNet®), and to opt out, please visit <a href="http://www.medianet.com/privacy/" target="_blank">www.medianet.com/privacy/</a>. To view the policy for Index Exchange, and to opt out, please visit <a href="http://www.indexexchange.com/privacy/" target="_blank">www.indexexchange.com/privacy/</a></p> Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. If users have questions or concerns regarding this policy, you should first <a href="/contact"> contact us</a>. If you are not satisfied with our response you can contact <a href="https://feedback-form.truste.com/watchdog/request" target="_blank&quot;">TRUSTe here.</a><p></p>
 		
 			<p>TRUSTe will serve as a liaison to resolve users concerns.</p>
 			<a href="//privacy.truste.com/privacy-seal/Casale-Media/validation?rid=4c035c77-2f0b-450a-9723-93fcbe983e01" target="_blank" title="TRUSTe online privacy certification"><img style="border: medium none" src="//privacy-policy.truste.com/privacy-seal/Casale-Media/seal?rid=4c035c77-2f0b-450a-9723-93fcbe983e01" alt="TRUSTe online privacy certification" align="top"></a>
@@ -104,7 +164,11 @@
 </div>
 
 
-		<div class="container" style="border-top:1px solid #ccc;">
+<div id="back-top" style="display: none;">
+		<a href="#top"><span></span></a>
+	</div>
+
+		<div class="containerwide" style="border-top:1px solid #ccc;padding-top:5px;">
 			<div id="footer">
 				<span>
 					<a href="http://linkedin.com/company/casale-media" target="_blank"><img src="/LI.png" border="0" alt="LinkedIn"></a>
@@ -112,7 +176,7 @@
 					<a href="http://casalemedia.wordpress.com" target="_blank"><img src="/WP.png" border="0" alt="Blog" style="padding-left:30px;"></a>
 					<a href="/contact/" target=""><img src="/MP.png" border="0" alt="Locations" style="padding-left:30px;"></a>
 				</span>
-				<p>Copyright ® 2001-2014 Casale Media Inc.&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/legal/">Legal</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy/">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">Opt-Out</a></p>
+				<p>Copyright ® 2001-2014 Casale Media Inc.&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/legal/">Legal</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy/">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.networkadvertising.org/" target="_blank">Opt-Out</a></p>
 			</div>
 		</div>
 
