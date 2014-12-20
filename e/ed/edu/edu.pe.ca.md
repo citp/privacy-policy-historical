@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the edu.pe.ca privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626072127id_/http%3A//www.gov.pe.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edu.pe.ca privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220215028id_/http%3A//www.gov.pe.ca/privacy) for the most accurate reproduction.*
 
 # Government of PEI: Privacy
 
 [ ](http://www.addthis.com/bookmark.php?v=250&username=xa-4bbc898368800927)[](javascript:window.print\(\) "print this page")  [](https://web.archive.org/styleswitch.php?style=med "change font to medium") [](https://web.archive.org/styleswitch.php?style=large "change font to large") 
 
-[HOME](https://web.archive.org/web/20140626072127id_/http%3A//www.gov.pe.ca/index.php3?lang=E) / [COPYRIGHT](https://web.archive.org/web/20140626072127id_/http%3A//www.gov.pe.ca/index.php3?number=1024402&lang=E) / 
+[HOME](https://web.archive.org/web/20141220215028id_/http%3A//www.gov.pe.ca/index.php3?lang=E) / [COPYRIGHT](https://web.archive.org/web/20141220215028id_/http%3A//www.gov.pe.ca/index.php3?number=1024402&lang=E) / 
 
 Privacy
 
