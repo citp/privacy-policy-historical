@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlyhiphop.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616063626id_/http%3A//onlyhiphop.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyhiphop.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220075331id_/http%3A//onlyhiphop.com/terms) for the most accurate reproduction.*
 
-# Terms of Use & Privacy Policy OnlyHipHop.com - Only The Best Hip Hop Music. Updated 24/7 Since 2007
+# Terms of Use & Privacy Policy OnlyHipHop.com - Only The Best Hip Hop. Updated 24/7 Since 2007
 
 **Terms of Use**
 
