@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleswrap.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611011039id_/http%3A//articleswrap.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleswrap.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220161826id_/http%3A//articleswrap.com/policy.php) for the most accurate reproduction.*
 
 # ArticlesWrap Policy – Point to Accompany While Submitting Article
 
