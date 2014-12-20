@@ -1,71 +1,70 @@
-> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621002900id_/http%3A//storynory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220160216id_/http%3A//www.storynory.com/about-storynory/privacy) for the most accurate reproduction.*
 
-# Privacy | Free Audio Story
+# Privacy and Cookies - Storynory - Free Audio Stories for kids
 
-We try to make our site as safe and enjoyable for you and your children as possible. To give you the best possible service, it is necessary for us to collect certain information about you. This policy tells you how we collect information about you and how we protect it.
+This pivacy and cookies statement covers the services provided by Storynory Ltd at Storynory.com
 
-We are particularly keen not to obtain the personal addresses of children under the age of 13. We ask that in all email communications with us, you use the address of somebody who is at least 13 years old. This policy is to reassure parents and guardians that Storynory is a safe site for their children to use.
+### Cookies
 
-**Control of Information** Storynory is owned by Blog Relations Limited, 26 Star St, London W2 1QB, . Any information collected by Storynory is controlled by Blog Relations Limited (“we/us/our”). Your point of contact for privacy issues is Hugh Fraser: hugh@blog-relations.com. Telephone +44 (0)20 7706 7974.
+When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, your computer or mobile phone. These include small files known as cookies. 
 
-Many of our Web pages contain links to external Web sites outside the control of Blog Relations Limited. Please be aware that when you follow a link to another site, you are then subject to the privacy policies of the new site.
+#### We use our own cookies for the following:
 
-**Feedback and Forum** Many sites request users to fill in an email address in order to take part in feedback forums. Storynory does NOT request an email address from those leaving comments and we ask that users fill in a first name only. This policy is to reassure visitors that Storynory is a safe environment for children to explore and use.
+  * To remember your first name if you enter it into one of our comment boxes. We do not ask for your email address, your second name, or other personal information, nor do we record your IP address when you leave a comment. (comment_author cookie) 
+  * Admin of our site – this should not affect you unless you work with us.
 
-**Automatic Collection for information** : When you visit our site, we automatically collect and store the following information:
 
-* the date and time  
-* the originating IP address (a number assigned to your computer when you access the Web).  
-* the type of browser and operating system used (if provided by the browser)  
-* the URL of the referring page (if provided by the browser)  
-* the object requested  
-* completion status of the request  
-* pages visited
 
-In many cases and a particular IP address will indicate a geographic region in which the computer is located.
+#### We use third party cookies for :
 
-**How the Information is Used** : We use the information that we collect automatically to measure the number of visitors to the different areas of our sites, and to help us make our sites more useful to visitors. This includes analyzing these logs periodically to determine the traffic through our servers, the number of pages served, and the level of demand for pages and topics of interest. For example, Awstats is one of the statistical programs we use to analyze the data that we collect automatically.
+  * Google’s AdSense programme – to serve advertisements – this is how we fund our service and keep our stories free. Google normally uses a DoubleClick cookie which enables it to serve ads to users based on their visits to sites on the Internet. We have tagged Storynory with Google to show that our site is “for Child-Directed Treatment”. On our site, DoubleClick’s cookies will not be used to target advertising based on past or current activity. . There are other ways in which Adsense uses cookies, and to find out more, you can read more about [How Google uses data when you use its partners’ sites or apps](http://www.google.com/policies/privacy/partners/)
+  * Google Analytics – to inform us in a general way about our visitor stats and help us understand how visitors use our site. We do NOT track interests and demographic profiles such as age, or precise geo-location. You can learn more about [Google Analytics and privacy here](https://www.google.com/intl/en/analytics/learn/privacy.html). You can opt out of Google’s analytics cookies using [Google’s browser add-on.](https://tools.google.com/dlpage/gaoptout)
+  * This website uses Google Custom Search to provide the site’s search functionality. Google may set cookies when you use the search function. You can find out more about how Google uses data [www.google.com/policies/privacy/>here](http://www.google.com/policies/privacy/partners/). 
 
-**How Long is the Information Retained** : The logs may be preserved indefinitely and used at any time and in any way necessary to prevent security breaches and to insure the integrity of the data on our servers.
 
-**Safeguarding your personal information** If you enter into a financial transaction with us, a record of the transaction will be maintained by [Paypal ](https://www.paypal.com/)in a secure area which we can access. Bertie’s Birthday Stories have are subject to their own [terms and conditions](http://storynory.com/terms-and-conditions/) to take account of information you may send us to complete the transaction.
 
-**Email** By sending us an electronic mail message you may be sending us personally-identifying information. In these cases, we may retain the information as long as necessary to respond to your request or otherwise resolve the subject matter of your e-mail.
+### What if you are concerned about cookies?
 
-In particular you may be sending us pictures or other user generated content. We will delete your email after the content has been posted to the site.
+You can learn more about cookies, how to manage them in your web browser, and how to delete them, [at this website.](http://www.aboutcookies.org/)
 
-Please be aware that email is not necessarily secure from interception or misdirection.
+### Subscription
 
-If you enter an email address into any of our forms (such as email subscription or e-cards), or send us an email, we ask that you use the address of somebody who is at least 13 years or older. Typically this would the address of a parent or guardian.
+If you subscribe to our stories via iTunes or RSS feed, we have no idea who you are, unless you contact us personally. 
 
-**Children Under the age of 13** Children may view our site and download our stories freely. NON Personally Identifiable Information will be collected from them automatically and included in the general statistics about visitors to our site. There is no way for us to determine the age of a visitor.
+### Social Networks
 
-We do not knowingly collect personally identifiable information from children under 13 directly from the site.
+You can follow us by Twitter or Facebook. This is a great way to get in touch with us, and get to know us personally. Social networks are perfect for parents and teachers, grown-up language learners, and other older listeners or young adults. We ask that only people who are thirteen years or older use Social Networks, as we do not think they are safe for children. 
 
-**User Generated Content** We encourage users to send us children’s content including pictures, jokes and stories.
+Our share and social media buttons do not use cookies or javascript.
 
-If you send us a child’s picture or story or other content, all we need to know is the following: child’s first name, age, M or F, country. This is the information that we will publish along side the content. Please send the content to us from an adult’s email address – and NOT from an email address belonging to a child under 13 years of age.
+### Third Party Websites
 
-Your email will be retained ONLY as long as it is needed to post the content to the site (see above notice concerning email). We will NOT collect and store any information from your email (such as your email address and your family name) which might be used to personally identify the child. This information will be deleted.
+We may link to other websites, but we are not responsible for their content or privacy policies. 
 
-**Future use of user generated content** As we are unable to retain personal data about users, you must note that we won’t be able to inform you personally if we re-publish any content you send us in a new format. For that reason, it is important that you familiarise yourself with the copyright page before sending us any content so that you are aware how we may use it in future.
+### Competitions and activities
 
-**Cookies** This site uses cookies. Cookies are small files that Web servers place on a user’s hard drive. Cookies have several functions:
+From time to time we may run competitions and activities on our site. We will not require a child to disclose more information than is reasonably necessary to participate in an activity and we will hold information (such as email addresses) only as long as is necessary to complete the activity. 
 
-* they allow the Web site to identify you as a previous visitor each time you access a site;  
-* they track what information you view at a site (important to commercial sites trying to determine your buying preferences);  
-* in the more advanced cases they track your movements through many Web sites but not the whole Web;  
-* businesses use them for customer convenience to allow them to produce a list of items to buy and pay for them all at one time and to garner information about what individuals are buying at their sites;  
-* advertisers use them to determine the effectiveness of their marketing and offer insights into consumer preferences and tastes by collecting data from many Web sites; and  
-* they can be used to help a Web site tailor screens for each customer’s preference.
+### Third Parties
 
-If you are concerned about the potential use of the information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies.
+We will not disclose any data we hold about children to third parties except in instance of Force Majeure, see below.
 
-**Information Protection**  
-We will take reasonable precaution to protect any information we receive such that contained in emails until such time as it is deleted.
+### Force Majeure
 
-**Jurisdiction** This agreement is governed by the laws of the United Kingdom and any litigation or dispute arising from it will be settled in a UK Court of law.
+If a court of law or government body or agency directs us to disclose any of our user information, we may in that instance be forced to do so, otherwise we will not share your data with third parties. 
 
-**Future change of Privacy Policy** This Policy was last updated on 19th August 2007. If we need to change this policy in future, we will draw attention to the change on our site in a way that is clearly noticeable.
+### Parents Rights
 
-This policy was last updated to take account of financial transactions with us.
+If you wish to review or request deletion of any information that we hold about a child in your care, please contact the Data Controller (details below). We will need to ascertain proof of your identity and relationship to the child. 
+
+### Contact Data Controller
+
+The Data Controller for Storynory.com is Hugh Fraser, aka Bertie. email: bertie@storynory.com. 26 Star Street, London W2 1QB. +44 (0)7941 190 740. If you have any questions or concerns, or wish us to delete any information which you believe we hold about you or children in your care, please email bertie@storynory.com. 
+
+### Updates
+
+This privacy policy was last updated on September 14, 2014. The policy may change from time to time as we add additional services, so we suggest that if you are concerned about privacy, you review it regularly. 
+
+### Thank you 
+
+Thank you for using Storynory. We hope that our privacy information is clear and that you feel we have taken reasonable steps to protect the privacy of children.
