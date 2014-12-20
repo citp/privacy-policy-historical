@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorware.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209165838id_/http%3A//www.colorware.com/company.aspx%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorware.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220224914id_/http%3A//www.colorware.com/company.aspx%23privacy-policy) for the most accurate reproduction.*
 
 # ColorWare - About
 
@@ -156,30 +156,11 @@ In 2012, ColorWare quadrupled the size of their state-of-the-art paint facility.
 
 ColorWare was featured as number 108 on the Inc. 500 list of fastest growing privately held companies in the fall of 2007.
 
-### Now In Color
+### [Blog—Now In Color](https://web.archive.org/web/20141220224914id_/http%3A//www.colorware.com/nowincolor.aspx)
 
-Check here to find the latest products offered by ColorWare
+Hello, and welcome to ColorWare’s new [blog—Now In Color](https://web.archive.org/web/20141220224914id_/http%3A//www.colorware.com/nowincolor.aspx). ColorWare is a tech-savvy, fashion-minded brand that offers a unique customization service on a variety of tech products. Because of our intriguing art application processes, high quality photographs and videos, as well as our unique products and services, we designed [Now In Color](https://web.archive.org/web/20141220224914id_/http%3A//www.colorware.com/nowincolor.aspx) with more stimulating content. We have a dedicated team with diverse backgrounds to bring you credible and insightful information. [Now In Color](https://web.archive.org/web/20141220224914id_/http%3A//www.colorware.com/nowincolor.aspx) includes a comprehensive range of culturally relevant content such as tech, art, design, automobiles, sports, fashion and travel. 
 
-[RSS Feed](http://feeds.feedburner.com/Colorware)
-
-  * [](https://web.archive.org/web/20140209165838id_/http%3A//www.colorware.com/p-475-kitchenaid-stand-mixer.aspx)
-
-### [KitchenAid Mixer Stand](https://web.archive.org/web/20140209165838id_/http%3A//www.colorware.com/p-475-kitchenaid-stand-mixer.aspx)  2/3/2014
-
-This mixer is durable, powerful and versatile. Its 325-watt motor enables you to mix large batches or heavy mixtures. With 10 speeds you are bound to find the perfect speed for any mixing job.
-
-This mixer comes with three attachments, a flat beater, a wire whip, and a hook for mixing and kneading yeast dough. The mixer also includes a pouring shield to guide ingredients to their proper destination. It’s truly a culinary legend. 
-
-  * [](https://web.archive.org/web/20140209165838id_/http%3A//www.colorware.com/p-470-xbox-one.aspx)
-
-### [Xbox One](https://web.archive.org/web/20140209165838id_/http%3A//www.colorware.com/p-470-xbox-one.aspx)  12/27/2013
-
-The Xbox One is a beast of a machine. It’s built to invade your living room by controlling your games, cable TV, music and movies. However, with Kinect as part of the bundle, you are able to use voice control and motion detection with a 1080p sensor to guide your Xbox One.
-
-Now it’s time to liven up that boxy, imposing, black plastic device. The Xbox One shouts for attention, so check out the ColorWare design studio and drench that dark, clunky, 1980’s, VCR-like machine with your favorite colors.
-
-
-
+[RSS Feed](http://www.colorware.com/rssfeed.aspx?channel=blog)
 
 ### Notable Clients
 
@@ -226,9 +207,9 @@ To achieve this highly durable finish, the X2 coating is applied similarly to th
 
 ### Press
 
-[Press Request Form](https://web.archive.org/web/20140209165838id_/http%3A//www.colorware.com/pressrequest.aspx)
+[Press Request Form](https://web.archive.org/web/20141220224914id_/http%3A//www.colorware.com/pressrequest.aspx)
 
-ColorWare has been featured in a variety of magazines. If you would like more information about featuring a ColorWare product in your magazine, please fill out our [Press Request Form](https://web.archive.org/web/20140209165838id_/http%3A//www.colorware.com/pressrequest.aspx).
+ColorWare has been featured in a variety of magazines. If you would like more information about featuring a ColorWare product in your magazine, please fill out our [Press Request Form](https://web.archive.org/web/20141220224914id_/http%3A//www.colorware.com/pressrequest.aspx).
 
   * [](https://dq5eb43zrmc0c.cloudfront.net/images/company/press/martha%20stewart%20weddings/outside-large.jpg)[](https://dq5eb43zrmc0c.cloudfront.net/images/company/press/martha%20stewart%20weddings/inside-large.jpg)
 
