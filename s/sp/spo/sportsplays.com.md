@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsplays.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413175248id_/http%3A//www.sportsplays.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsplays.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220223347id_/http%3A//www.sportsplays.com/privacy.html) for the most accurate reproduction.*
 
 # SportsPlays.com Privacy Policy
 
