@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royyoungchemist.com.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628132228id_/http%3A//www.royyoungchemist.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royyoungchemist.com.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220072323id_/http%3A//www.royyoungchemist.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ We are required by law to collect some personal information about you so we can 
 
 We also keep record of your purchase details to assist with any enquiries you might have at a later stage such as the need for receipts or refunds etc.
 
-YOUR CHEMIST SHOP doest NOT pass on any personal information of our customers for any reason unless required by law.
+Roy Young Pharmacy doest NOT pass on any personal information of our customers for any reason unless required by law.
 
 If you feel that we have committed a breach of any of the privacy principles, please raise it with us first as we may be able to resolve the issue. You can speak to the pharmacist in charge or send us a note to this address:
 
@@ -22,12 +22,12 @@ ROY YOUNG CHEMIST
 LEVEL 4, WESTFIELD CHATSWOOD  
 CHATWOOOD NSW 2067
 
-ROY YOUNG PHARMACY DOES NOT store credit card information on our website. This minimizes the chances of hackers obtaining your credit card details. This means you will need to provide your credit card details for each order you submit via the web site. This is one of the many security measures that we take to ensure that you have a safe an joyful shopping experience with us. For more information about our Security measures, please read our [Security Policy HERE.](http://www.yourchemistshop.com.au/shop-security-policy "Security Policy")
+ROY YOUNG PHARMACY DOES NOT store credit card information on our website. This minimizes the chances of hackers obtaining your credit card details. This means you will need to provide your credit card details for each order you submit via the web site. This is one of the many security measures that we take to ensure that you have a safe an joyful shopping experience with us. For more information about our Security measures, please read our [Security Policy HERE.](http://www.royyoungchemist.com.au/shop-security-policy/ "Security Policy")
 
 Our Pharmacists may be contacted to discuss any queries regarding your medication during the following hours:
 
 MON-FRI 9AM-5PM
 
-Saturdays, Sundays and Public holidays we may be contacted via our ["ASK THE PHARMACIST"](https://web.archive.org/softicket/index/) LINK on our website.
+Saturdays, Sundays and Public holidays we may be contacted via our "Contact Us" LINK on our website.
 
 You can rest assured that your privacy is our number one priority.
