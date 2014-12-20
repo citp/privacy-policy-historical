@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629000303id_/http%3A//www.angloinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angloinfo.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190553id_/http%3A//www.angloinfo.com/privacy) for the most accurate reproduction.*
 
-# Privacy | AngloINFO Worldwide
+# Privacy » AngloINFO Worldwide
 
 AngloINFO takes privacy seriously. Please read the following to learn more about our policies on privacy when related to angloinfo.com.
 
@@ -59,6 +59,8 @@ AngloINFO will send personally identifiable information about you to other compa
   * Your actions on our World Wide Web site violate the law, or any of AngloINFO's usage guidelines for specific products or services. 
 
 
+
+You have the right to request exemption from marketing activities by emailing us at **[info@angloinfo.com](mailto:info@angloinfo.com)** , you also have the right to access any data we hold about you.
 
 ##### Cookies
 
