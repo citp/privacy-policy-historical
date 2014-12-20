@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newspoint.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153937id_/http%3A//www.newspoint.in/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspoint.in privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220144531id_/http%3A//newspoint.in/privacy-policy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy.
 
