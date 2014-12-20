@@ -1,69 +1,78 @@
-> *The following text is extracted and transformed from the htc.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120165127id_/http%3A//www.htc.com/us/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htc.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220014729id_/http%3A//www.htc.com/us/terms/privacy) for the most accurate reproduction.*
 
-# HTC privacy policy
+# Privacy Policy | Terms | HTC United States
 
-This privacy policy (“ **Policy** ”) describes how HTC Corporation, HTC America, Inc., and their related companies (“ **HTC** ”, " **we** / **our** / **us** ") collect, use, and share personal information that we collect from you as a user of HTC websites, devices, applications, and services (together the “ **Services** ”).
+This privacy policy (the “ **Policy** ”) describes how HTC Corporation, HTC America, Inc., and their related companies (“ **HTC** ” or " **we/our/us** ") collect, use, and share personal information that we collect from you as a user of HTC websites, devices, applications, and services (together, the “ **Services** ”). HTC strives to comply with all laws that apply to our handling of information collected about you. This Policy is subject to those laws that may be more strict than as outlined here.
 
-We may add to or amend this Policy with other notices. We may also post different privacy statements for some Services and when we do so, this Policy does not apply. For example, separate policies apply to information collected from your device through Tell HTC Usage and Tell HTC Error Reporting.
+We may add to or amend this Policy with other notices. We may also post different privacy statements for some Services, and when we do so, this Policy does not apply. For example, where applicable, separate policies apply to information collected from your device through Tell HTC Usage and Tell HTC Error Reporting.
 
-NOTE: Your wireless operator, mobile operating system provider, and/or third-party applications, toolbars, services and websites may also collect, use, and share information about you and your device and your usage. HTC’s privacy policies do not cover any third parties, their products, actions, or their services. HTC cannot control how third parties collect, use, or secure your data. For information about third party privacy practices, please consult their privacy policies. Only download applications from reputable third parties.
+NOTE: Your wireless operator, mobile operating system provider, and/or third party applications, toolbars, services, “plug-ins,” social media platforms, and websites may also collect, use, and share information about you and your device and your usage. HTC’s privacy policies do not cover any third parties, their products, actions, or their services. HTC cannot control how third parties collect, use, or secure your data. For information about third party privacy practices, please consult their privacy policies. Only download applications from, and interact and connect with, reputable third parties.
 
 * **INFORMATION YOU GIVE US**
 
-When you use our Services, you may provide information to us, both online and offline, including, for example: your name, email address, postal address, phone numbers, fax number, date of birth, device identifiers, location data, your carrier information, photos, videos, and demographics (gender, company or organization name, occupation, language preference, city, country, zip code, area code, time zone, etc.). If you purchase through the Services, we may also hold your credit card numbers or other payment information. We may also hold and associate this payment information with information from other sources, including your social accounts that you choose to associate with the Services, or with information from other companies. 
+When you use our Services, you may provide information to us, both online and offline, including, for example: your name, email address, postal address, phone numbers, fax number, date of birth, device identifiers, location data, your carrier information, photos, videos, and demographics (gender, company or organization name, occupation, language preference, city, country, zip code, area code, time zone, etc.). If you purchase Services from us, we may also store your credit card numbers or other payment information, as required. We may hold and associate any information you provide us with information gathered from other sources, including the social accounts that you choose to associate with your use of the Services, or with information we receive from other companies. 
 
   
 
 * **INFORMATION WE AUTOMATICALLY COLLECT**
 
-When you use the Services, we automatically collect some information. We may collect information about your usage of and activity on our Services. When you visit our websites, information we may automatically log includes, for example, your operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before visiting our website. When you use our devices, download and use our applications, or access the Services from your device, we may also log information related to your device. We may log, for example, your location, phone number, device type, serial number, device identifiers (e.g., IMEI, MEID, serial number, CID, MID, and eMCC ID Number or SIM card ID), the types and versions of mobile operating systems, applications and software you use, content you view or use and time-stamped logs of data exchanges. 
+When you use the Services, we automatically collect some information. We may collect information about your usage of and activity on our Services. When you visit our websites, information we may automatically log includes, for example, your operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before visiting our website. When you use our devices, download and use our applications, or access the Services from your device, we may also log information related to your device and your use of our applications and Services. We may log, for example, the date you activate your device, your location, phone number, device type, serial number, device identifiers (e.g., IMEI, MEID, serial number, CID, MID, and MCC ID Number or SIM card ID), the types and versions of mobile operating systems on your device, applications and software you install and use and how you use them, content you view or use and time-stamped logs of data exchanges. If you use the Services to back-up and store your device data and content with an independent third party service provider, we will collect certain information needed to help restore your data and content to your device, such as your device settings and the names of files and applications you wish to back-up. 
 
-We may also log information using web beacons, cookies, local shared objects (LSOs), and similar methods (defined below). If you do not wish for us to use cookies, do not use the Services unless you first disable the cookies as described below. We may automatically link any of the information that we collect to your personal information.
+We may also log information about you using web beacons, cookies, local shared objects (LSOs), and similar methods (examples of which are defined below). We may automatically link any of the information that we collect about you using these methods to information you provide us and any other information we collect about you in accordance with this Policy. 
 
-  * **Web Beacons.** Web beacons are electronic images we may use on our websites or in our emails to deliver cookies, count visits, and understand usage and campaign effectiveness such as whether you open and act on an email we send you.
-  * **Cookies.** Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our websites and your experience. We use cookies to see which areas of our websites and which features are popular and to count visits to our websites. We also use information gathered from cookies to customize content. You can typically remove and reject cookies from our websites with your browser settings. Many browsers are set to accept cookies until you change your settings. Removing or rejecting our cookies could affect how our websites work for you, and you may not be able to experience the Services in full. To learn how to manage privacy and storage settings for cookies click here [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) (or in the EU <http://www.youronlinechoices.com/>). Click here to learn what cookie information is collected on htc.com and your choices
+  * **Web Beacons.** Web beacons are electronic images we may use on our websites or in our emails to deliver cookies, count visits, and understand usage and campaign effectiveness, such as whether you open and act on an email we send you.
+  * **Cookies.** Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve your experience using our websites and Services. We use cookies to see which areas of our websites and which features are popular and to count visits to our websites. We also use information gathered from cookies to customize content and target our advertising. To learn more about how to manage your privacy and storage settings for cookies, click on the links below.
+
+For the United States: <http://www.allaboutcookies.org/>
+
+For the EU:<http://www.youronlinechoices.com/>
 
   
-**Local Shared Objects ("Flash Cookies")** We use local shared objects, also known as "Flash cookies,” to store your preferences such as volume control or to display content based upon what you view on our websites to personalize your visit. Third party partners may also provide certain features on our websites and display advertising based upon your Web browsing activity using Flash cookies to collect and store information. Flash cookies are different from other cookies because of the amount of, type of, and way in which data is stored. Cookie management tools provided by your browser usually will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118> (or in the EU <http://www.youronlinechoices.com/>). 
 
-**Tell HTC Experience Log Reporting and Error Reporting** In addition to the information we automatically collect described above, on select devices, we may collect more detailed data about your usage of our devices with your consent if you opt-in to TellHTC reporting or agree to share error report data. For more information, visit the TellHTC Experience Privacy Policy and the TellHTC Error Report Privacy Policy accessible from your device under “Settings.” 
+  * **Local Shared Objects ("Flash Cookies").** We use local shared objects, also known as "Flash Cookies,” to store your preferences, such as volume control, or to display content based upon what you view on our websites in order to personalize your visit. Flash Cookies are different from other cookies because of the amount and type of data collected, and the way in which data is stored. To learn more about the privacy and storage settings for Flash Cookies, click on the links below.
+
+For the United States: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+For the EU: <http://www.youronlinechoices.com/>
+
+  * **Usage Data and Error Reporting.** In addition to the information we automatically collect, as described above, we may collect more detailed de-identified data about your device usage and error report data about your device (formerly called Tell HTC Experience and Tell HTC Error Report on older devices). When you participate in these programs, you help us to understand how you use your device and improve HTC devices and other HTC and trusted partner products and services. HTC may re-identify this data when appropriate; for example, when you request technical support, choose to use a specific HTC service or app, or create an HTC Account. To learn more about usage and error reporting on your device, and/or to change your option to participate, go to “Settings” on your device. Usage and error data settings will not affect HTC’s collection of de-identified activation data or data about specific HTC apps and services you choose to use, including HTC Account, and are otherwise subject to limitations described in this Policy.
+
+
+
+Others, including third party analytics service providers and third party ad service providers, as described in the section below, may also automatically collect the same or similar information about you and your device when you use the Services, including personally identifiable information about your online activities over time and across third party website and applications. 
 
   
 
 * **INFORMATION COLLECTED THROUGH ADVERTISING**
 
-**THIRD PARTY ADS IN THE SERVICES.**
+We may use third party ad service providers to serve ads in our Services. We may also use third parties to deliver or help us deliver HTC-branded ads to you on third party websites. To deliver these ads, third parties automatically collect certain information about you and your devices and your use of the Services. This information may include visits to the websites and applications of HTC and others, your IP address, your internet service provider, and the browser you use to visit our website. 
 
-We may use third parties to serve ads in our Services. Certain third parties may automatically collect information about your use of the Services, visits to our websites and other websites, your IP address, your ISP and the browser you use to visit our website (but not your name, address, email address or telephone number). Third parties may collect information by using cookies, clear gifs, or other technologies. These third parties may use this information to deliver advertising targeted to your interests and to understand the usage and visitation of the Services and the other websites tracked by these third parties. This Policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads. We encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you want more information about this practice and about your choices for many of our ad networks, click here: <http://www.networkadvertising.org/choices/>. 
-
-**HTC ADS ON THIRD PARTY WEBSITES.**
-
-We may use information collected using third-party cookies and web beacons on our Services and in our emails to deliver HTC-branded advertising displayed to you on third-party websites. We also may use cookie information to know when you return to our website after visiting these third-party websites. We use this and other information about you to try to understand your interests and show you relevant advertising about products and services that may interest you.
+Third parties may collect information by using cookies (including Flash Cookies), web beacons, device identifiers, or other technologies. These third parties may use information collected about you for their own purposes and those of other third parties to deliver advertising targeted to your interests and to understand the usage and visitation to the websites and applications of HTC and others. This Policy does not apply to, and we are not responsible for, cookies or web beacons used or hosted by third parties. We encourage you to check the privacy policies of these third parties and advertisers to learn about their use of cookies and other technology. If you want more information about the practices of many of our common ad services, click here: <http://www.networkadvertising.org/choices/>
 
   
 
 * **USE OF YOUR PERSONAL INFORMATION**
 
-HTC may use your personal information to:
+HTC may use your information, including personal information, to:
 
   * operate and improve our websites, products, Services, and marketing;
   * provide you with a personalized and customized experience, content, marketing, and recommendations across all our Services;
   * respond to your comments and questions and provide customer service;
   * provide and deliver products and Services you request;
   * send you information related to your requests and purchases, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
-  * communicate with you about contests, promotions, rewards, upcoming events, and news about products and services offered by HTC and our selected partners (we do this per your choices below) and process and deliver contest entries and rewards;
-  * link or combine your personal information with other information we get about your use of other HTC Services and from third parties to help understand you and your needs, and provide you with recommendations, better service, and customized marketing; and
-  * protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
+  * communicate with you about contests, promotions, rewards, upcoming events, and news about products and services offered by HTC and our selected partners (we do this per your choices, as outlined by our policies) and to process and deliver contest entries and rewards;
+  * link or combine your personal information with other information we get about your use of other HTC Services and from third parties for the purposes we disclose in this policy, including to help understand you and your needs, and provide you with recommendations, better service, and customized marketing;
+  * protect, investigate, and deter against fraudulent, unauthorized, or illegal activity;
+  * filter the content to be displayed as part of the Services;
+  * compile usage and other statistics and insights relating to the Services; and
+  * facilitate sharing of information and content you upload via social media. 
 
 
   
 
 * **MORE ABOUT LOCATION DATA**
 
-  * When you use certain Services, we may collect, process, store, and share precise location data. This location information may include real-time geographic location of your device. It may also include names of places you have been, where you check-in, places you mark on a map, geographic location of where you have taken photos, routes you have travelled, and the dates and times you were at certain locations. HTC may share your location data with application providers who show they have the right permissions.
-  * HTC may associate location data with your device ID and your account information.
-  * Our Services may also collect precise location data in a de-identified form, and we may share this data with partners and carriers to improve features and services.
-
+When you use certain Services, we may collect, process, store, and share your precise location data. This location information may include real-time geographic location of your device. It may also include the names of places you have been, where you choose to “check-in,” to determine, log, or share your location, places you mark on a map, the geographic location, dates, and other metadata of photos you’ve taken, routes you have travelled, how close you are to other devices, such as Bluetooth enabled devices, wifi routers, and services that use those devices (such as a store’s tracking of your movement for data collection and marketing purposes), and the dates and times you were at certain locations. HTC may share your location data with application providers who show they have the right permissions. HTC may associate location data with personally identifiable or identifying information, such as your device ID and your account information. Our Services may also collect precise location data in a de-identified form, and we may share this data with partners and carriers to improve features and services. 
 
   
 
@@ -71,60 +80,66 @@ HTC may use your personal information to:
 
 **INFORMATION YOU SHARE**
 
-The Services may allow you to connect and share your actions, comments, content, and information publicly or with other people. You may also connect to, and share your information on, third party websites and services. Please be mindful of your own privacy needs as you choose who to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others. 
+The Services may allow you to connect and share your actions, comments, content, and information publicly or with people you specify. You may also connect to, and share your information on, third party social media platforms, websites, applications, and services (“Third Party Sharing Services”) through “plug-ins,” widgets, buttons, and other third party features made available on and connected with our Services. Please be mindful of your own privacy needs as you choose who to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others. We also cannot control and are not responsible for any Third Party Sharing Services or their actions, including the data that these Third Party Sharing Services collect from you and your device, or how they use such data. Please review the privacy policies of all Third Party Sharing Services to understand their privacy practices. 
 
 **INFORMATION WE SHARE**
 
 We may share your personal information as follows:
 
-  * We may share your personal information with your consent. For example, you may let us share personal information with our partners on a co-branded website, or you may use the Services to connect to our partners’ services or request to receive information from them. Our partners’ use of your personal information will be subject to their privacy policies.
-  * We may share your personal information for the purposes of a business deal (or negotiation of a business deal) involving sale or transfer of all or a part of our business or assets. Business deals may include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
-  * We may share personal information for legal, protection, security, and safety purposes, including: 
-    * to comply with laws or regulatory requirements and to respond to lawful requests and legal process;
+  * With your consent. For example, you may let us share your personal information with our partners on a co-branded website, or you may use the Services to connect to our partners’ services or to request information from them. Our partners’ use of your personal information will be subject to their privacy policies.
+  * For the purposes of a business deal (or negotiation of a business deal) involving sale or transfer of all or a part of our business or assets. Business deals may include any merger, financing, acquisition, or bankruptcy transaction or proceeding.
+  * For legal, protection, security, and safety purposes, including:
+    * to comply with laws or regulatory requirements and to respond to lawful requests and legal processes;
     * to protect the rights and property of HTC, our agents, customers, and others, including enforcing our agreements, policies, and terms of use and protecting our network and physical assets; and/or
-    * in an emergency, including protecting the safety of our employees and agents, our customers, or any person.
-  * We may share information with those who use the information to provide us services or do work for us.
-  * We may share your information with carriers. Their use of your information is subject to their privacy policies.
-  * We may share aggregated and de-identified data with others.
+    * in an emergency, including protecting the safety of our employees and agents, our customers, or any other person.
+  * With those who use the information to provide services to us or on our behalf.
+  * With wireless carriers. Their use of your information is subject to their privacy policies.
 
+  
+We may share aggregated and de-identified data with others for any purpose. 
+* **WHERE WE STORE YOUR INFORMATION; TRANSFER OF YOUR INFORMATION; RETENTION**
 
-* **WHERE WE STORE YOUR INFORMATION; TRANSFER OF YOUR INFORMATION**
-
-Information we collect may be stored on your phone or stored on our servers and transferred to, stored and processed in the United States, Taiwan, Singapore, EU member state countries, and any other country where HTC or its service providers maintain facilities including jurisdictions that may not have data privacy laws that provide equivalent protections as your home country. We will protect the personal information we transfer in accordance with this Privacy Policy. By using the Services, you consent to this transfer.
+Information we collect may be stored on your phone or stored on our servers and transferred to, stored, and processed in the United States, Taiwan, Singapore, EU member state countries, and any other country where HTC or its service providers maintain facilities, including jurisdictions that may not have data privacy laws that provide protections equivalent to those provided in your home country. However, we will protect all personal information we obtain in accordance with this Policy. By using the Services, you consent to our transfer of your personal information in accordance with this Policy. Personal information we collect may be retained for as long as needed to fulfill the purposes outlined in the “USE OF YOUR PERSONAL INFORMATION” section above, or for a period of time specifically required by applicable regulations or laws. 
 
   
 
 * **INFORMATION CHOICES AND CHANGES**
 
-Our marketing emails tell you how to “opt-out” of receiving marketing emails. If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you.
+Our marketing emails tell you how to “opt-out” of receiving further marketing emails. If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and our business dealings with you, and may include a request that you participate in surveys related to your use of and satisfaction with the Services. 
 
-You may send requests about personal information to us through our Contact Information below. You can request to change contact choices, marketing choices and to update, access or make other changes regarding your personal information.
+You may send requests about your personal information to us through our contact information below. You can request to change contact choices or marketing choices and to update, access, delete, or make other changes regarding your personal information or content you post on the Services. We may not honor all such requests unless required by law.
 
-You can use settings on your device and in your browser settings to change how we, and others, can collect certain information about you (e.g., by blocking certain cookies). Read your product manual for more information about device settings and see the cookie section and Information Collected Through Advertising section, above. 
+When you use our Services, we and third parties may give you choices about use of certain mechanisms for tracking, including tracking of your online activities over time and across different websites, applications, and online services. We may provide settings on your device that allow you to change how we, and others, collect certain information about you. Read your product manual for more information about settings on your device. Many browsers are set to accept cookies unless and until you change your settings.  
+Removing or rejecting our cookies could affect how our websites and Services work for you and could delete or disable opt-out cookies set by us and third parties.
+
+Certain of our third party ad service providers also provide choices for use of cookies to deliver ads tailored to your profile and preferences. To learn more visit:  
+<http://www.networkadvertising.org/choices/>  
+<http://www.adobe.com/privacy/opt-out.html#measure>
+
+While we and others give you certain choices, as further outlined in this Policy, there are many ways in which Web browser signals and similar mechanisms can indicate your choice to disable tracking, and we may not be aware of nor honor every such mechanism. 
 
   
 
 * **SECURITY OF YOUR PERSONAL INFORMATION**
 
-We strive to protect the personally identifiable information we get from you through our Services. Although we take steps to use and improve safeguards, no company can prevent every security risk or harm. If you become aware of a vulnerability affecting HTC Services please email [security@htc.com](mailto:security@htc.com) or visit this [website](https://web.archive.org/web/20131120165127id_/http://www.htc.com/us/terms/product-security) to report it.
+We strive to protect personal information by taking appropriate physical, technical, and organizational measures to help guard against unauthorized or unlawful access, use, processing, or alteration of the personal information we obtain from you through our Services and against any breaches or loss of such personal information. Although we take steps to use and improve various safeguards, no system or technology is completely secure. If you become aware of a technical vulnerability affecting HTC Services, please email [security@htc.com](mailto:security@htc.com) or visit this website to report it. If you have a concern related to the protection of personal information or this Policy, please send an email to [Global-Privacy@htc.com.](mailto:Global-Privacy@htc.com.)
 
-HTC Account lets you use a single user name and password to log on to HTCSense.com and other HTC applications and Services. Some HTC applications and Services require a different user name and password. Please protect your user names and passwords to help prevent anyone from accessing your accounts and Services.
+HTC Account lets you use a single user name and password to log on to [HTCSense.com](https://www.htcsense.com/) and other HTC applications and Services. Some HTC applications and Services require a different user name and password. Please protect your user names and passwords to help prevent anyone from accessing your accounts and your personal information.
 
-We are not responsible for the security of third-party applications and services or the data those third-party applications and services may collect about you. Please ask those third parties how they keep your data safe. 
+We are not responsible for the security of any independent third party applications and services or the data those third party applications and services may collect about you. Please ask those third parties how they keep your data safe. 
 
   
 
 * **CONTACT INFORMATION**
 
-We welcome your comments or questions about this Policy. Please email us at [global-privacy@htc.com](mailto:global-privacy@htc.com). You may also contact us at our address:
+We welcome your comments or questions about this Policy. Please email us at [global-privacy@htc.com](mailto:global-privacy@htc.com). You may also contact us in writing at the addresses listed below:
 
   
 **Americas:**  
 HTC America, Inc.  
 13920 SE Eastgate Way, Suite 400  
 Bellevue, WA 98005  
-Attention: Privacy Administrator  
-Email: [privacy_na@htc.com](mailto:privacy_na@htc.com)
+Attention: Privacy Administrator
 
 **APAC:**  
 HTC Corporation  
@@ -133,14 +148,13 @@ Zhongxing Road
 Xindian District  
 New Taipei City  
 Taiwan, 231  
-Email address: [Webmaster_NA@htc.com](mailto:Webmaster_NA@htc.com)  
-Company registration number: 16003518
+Company registration number: 16003518  
+Attention: Privacy Administrator
 
 **EU:**  
 HTC Europe Co. Ltd   
-Communications House Presley Way  
-Crownhill Milton Keynes MK8 0ES UK  
-Email address: [Webmaster_NA@htc.com](mailto:Webmaster_NA@htc.com)  
+Salamanca, Wellington Street  
+Slough, Berkshire SL1 1YP, U.K.  
 Company registration number: 04826012  
 Attention: Privacy Administrator
 
@@ -148,5 +162,9 @@ Attention: Privacy Administrator
 
 * **CHANGES TO THIS PRIVACY POLICY**
 
-We may change this Privacy Policy. If we make any changes, we will change the ”Last Updated” date below.   
-**THIS PRIVACY POLICY WAS LAST UPDATED ON 10 APRIL 2013.**
+We may make changes to this Policy. If we make any changes to the Policy they will be posted on this page and we will change the “Last Updated” date below.
+
+**THIS PRIVACY POLICY WAS LAST UPDATED ON September 29,2014.**
+
+  
+
