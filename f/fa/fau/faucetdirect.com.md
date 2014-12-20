@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620032203id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213442id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
-# Faucets, Kitchen Faucets, Bathroom Fixtures, Sinks & Faucet Parts - FaucetDirect.com
+# Faucet Direct – Your Online Faucet Showroom - FaucetDirect.com
 
 The Privacy Policy was last updated Apr. 21, 2014.
 
