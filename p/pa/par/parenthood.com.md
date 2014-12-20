@@ -1,72 +1,108 @@
-> *The following text is extracted and transformed from the parenthood.com privacy policy that was archived on 2006-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061207174552id_/http%3A//www.parenthood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parenthood.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220221225id_/http%3A//www.dominionenterprises.com/privacy) for the most accurate reproduction.*
 
-# Parenting, Pregnancy,Conception, Babynames - Parenthood.com
+# Privacy - Dominion Enterprises
 
-| 
+### Dominion Enterprises Privacy Policy
 
-| 
+Your privacy is important to us.  To better protect your privacy, Dominion Enterprises and/or our applicable subsidiaries and/or affiliates (collectively, “Dominion”, “us”, “our” or “we”) provide this Privacy Policy, which explains our information practices and the choices you can make about the way in which your information is collected and used on this website, any other website operated by us where this policy appears or is otherwise accessible by you (for instance, via links from the website) and/or via any software applications we have created and made available for your use on your mobile device(s) (such websites and applications are, collectively, the “Services”).  (Some of our Services may also be governed by separate or additional privacy policies.)  Please see our Terms and Conditions for additional information applicable to your use of our Services.  By providing us with personally identifiable information, you expressly consent to our collection, storage, use and disclosure of your personally identifiable information as described in this Privacy Policy.
 
-**Privacy Policy for Parenthood.com**
+#### The Information We Collect
 
-  1. What information is collected?
-  2. How is the information collected?
-  3. How information will be used?
-  4. User choices in receiving and distribution of information
-  5. Data Security
-  6. Data Quality and Access
-  7. Questions
+You do not have to give us personally identifiable information in order to access certain of our Services.  However, while using our Services, you may be able to search, buy, order or bid on products, enter promotions, sweepstakes or other contests, participate in a survey, complete a questionnaire or other “information request” form, or otherwise subscribe to one of our services such as our online newsletters, participate in one of our online forums/communities, express an opinion or communicate with our customer service.  In order to utilize, participate in or otherwise access such products, services or other offerings, you may be required to provide us with your personally identifiable information, which is information that, alone or in combination with other information, allows us to indentify you, such as your name, address, phone number, e‑mail address, contact preferences, credit card information, financial information or information relating to a support or service issue.
 
-**I. What information is collected?**
+In addition, when you download, register and/or use any of our software applications (each, an “Application”), you may provide us with some or all of the following information:  (a) your name, email address, age, user name, password and other registration information such as, by way of example and not limitation, your vehicle identification number; (b) transaction-related information, such as when you make purchases or respond to any offers via the Application; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, where applicable, and any third-party products or services available through the Application; and (e) information you enter into our system when using the Application, such as contact information; and (f) in certain circumstances, access to your user name, password and profile information related to your social media accounts, such as Twitter, Google+ and Pinterest. In addition to the uses described above, we may also use the information you provide us in connection with the Application to provide customer service and other requested actions with respect to the Application or your associated user account and/or to contact you from time to time to provide you with important information, required notices and marketing promotions.  Furthermore, the Application may collect certain information automatically, such as the type of mobile device you use, your mobile devices’ unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use and information about the way you use the Application.  The Application may also collect precise information about the location of your device using your device’s global positioning system technology.  We may use your location information to provide requested location services, and to market certain of our products and services to you.  You may at any time opt-out from further allowing us to have access to your location data by managing your location preferences either from the Application, where applicable, or via your mobile device settings.
 
-  1. Personal Information:  
-We require personal contact and other information from our members. The required information is used to effectively and accurately create, maintain, and display Parenthood.com's services. The required other information varies with each site of the Parenthood.com network depending on the industry and its relevant data.
-  2. Cookies:  
-Some sites in the Parenthood.com network utilize cookies in order to provide members and merchants with a more personalized experience by remembering who you are when you revisit the site. Cookies also track visitor activity and traffic patterns among the sites so that we can identify users' interests and behavior. With this information, we can improve existing user services and develop new products appropriate for our audience.   
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://www.advertising.com/Privacy.html).   
-back to the top
+**If you provide us with your personally identifiable information, you are giving us permission to use that information for the specific purpose for which it is provided and for any other purpose described in this Privacy Policy, which are described in detail below under “How We Use the Information”.**  Users unwilling to provide personally identifiable information online can choose not to provide such information, and in some (but not all) situations users may be able to work with a sales representative or customer service representative to utilize our Services or other offerings without providing personally identifiable information.  **IN ADDITION, IF YOU DO PROVIDE US WITH YOUR PERSONALLY IDENTIFIABLE INFORMATION, YOU HAVE THE ABILITY TO PREVENT US FROM SHARING YOUR INFORMATION WITH THIRD PARTIES IF YOU WISH, AS DESCRIBED BELOW UNDER “Your Options Regarding Personally Identifiable Information”.**
 
-**II. How is the information collected?**
+We also may collect, store and use certain non-personally identifiable information we receive when you use our Services, and we may aggregate data and information provided by or collected from multiple users (which may include you) in a manner that is not personally identifiable to any individual user.  All non-personally identifiable information collected by us through our Services and all aggregated/compilations of data we create are the exclusive property of Dominion.  Nothing in this Privacy Policy limits our right to use any such non-personally identifiable or aggregated information in any way (including, but not limited to, monitoring user traffic patterns, analyzing and quantifying user preferences, improving the design and content of our Services, and enabling us to personalize your user experience) or prohibits us from sharing non-personally identifiable or aggregated information with third parties.
 
-  1. Members are requested to submit personal and other information using the online Email Notify, Boards and other services. Users unwilling to pass personal information online can choose to work with a sales representative or customer service representative to utilize member services.   
-back to the top
+#### How We Use the Information
 
-**III. How information will be used?**
+Information about our customers is an important part of our business, and we share personally identifiable information collected through our Services with unaffiliated third parties only as described below.  (Please see “Your Options Regarding Personally Identifiable Information” below for information on how to avoid having your personally identifiable information shared by us.)
 
-  1. Resale and Disclosure of Information  
-United Parenting Publications reserves the right to sell or disclose some personal information collected on our site to third parties. We may provide third parties with non-exclusive, limited use of United Parenting Publication's collected information in order for the third party to promote and market the third party's service. Any right of the third party to distribute, transfer, transmit, or re-sell United Parenting Publication's information is prohibited.
-  2. Privacy of Parenthood.com Email Lists  
-We collect and record personal information in order to maintain email lists. We utilize the emails to keep members informed of the site services, site performance, promotions, and offer information regarding industry related services and products.   
-back to the top
-
-**IV. User choices in receiving and distribution of information**
-
-  1. Parenthood.com Email Lists  
-Members receive monthly emails informing them of news, information, special promotions and advertising tips. Members wishing not to receive the mailer can send a request via email to be removed from the mailing list. Private party members automatically receive an email to confirm their placement on our site and to give them the necessary information to edit and delete their classified ads. Private parties also receive notification of ad renewal opportunities. United Advertising Publications reserves the right to include third party advertisements that provide additional services to members in the confirmation emails.
-  2. Third Party Distribution  
-Members may receive information directly from third parties that have related services. Members that do not wish to receive the third party information can opt-out of the service at the time they place an ad with Parenthood.com. Third parties receive only the needed personal information in order to effectively target members' needs and interests. Third parties have non-exclusive, limited use of the information provided by United Parenting Publications. Any right of the third party to distribute, transfer, transmit, or re-sell United Parenting Publication's information is prohibited.   
-back to the top
-
-**V. Data Security**
-
-  1. Personal Information  
-To protect the member's account information, Parenthood.com assigns each member with either a unique user name or password or a unique ad ID number. These unique identifiers are disclosed to the user via email immediately upon joining the Parenthood.com network. Only members have the ability to modify their personal information and delete their ads as needed.
-  2. Credit Card Transactions  
-Parenthood.com uses Verisign Certification and secure servers to transmit all online credit card transaction in an encrypted format.   
-back to the top
-
-**VI. Data Quality and Access**
-
-  1. · Members may access their information 24 hours a day using their designated user name and password or ad ID number. Members may modify or delete their information as needed.  
-back to the top
-
-**VIII. Questions**
-
-  1. If you have further questions that were not addressed in the above privacy policy, please contact United Advertising Publications Legal Department at 757-640-4000 or email [webmaster@Parenthood.com](mailto:webmaster@Parenthood.com).   
-back to the top
+  * **Business Providers; Unaffiliated Businesses:**  At times, we may provide products, services or offerings through our Services in cooperation with an unaffiliated third party.  We may share personally identifiable information that you provide in connection with any such products, services or offerings with the unaffiliated third party(ies) involved in your particular product, service or offering.  For instance, when you express interest in products, services, promotions, contests or sweepstakes that we offer (for example, by completing a request for or information regarding such services or completing an entry form for a promotion), we will share your request or expression of interest with the businesses with which we partner to offer you those products, services, promotions, contests and sweepstakes and, as applicable, with their affiliates and third party finder or marketing companies (collectively, “Business Providers”).   **By electing to participate or otherwise expressing interest in any such product, service or offering conducted in conjunction with any Business Provider, you expressly authorize us to provide your personally identifiable information to those Business Providers.**   Please be aware the Business Providers with whom we share your personally identifiable information may retain or use your information whether or not you use their services, and the privacy and information sharing practices of such Business Providers may differ from those described in this Privacy Policy.  Additionally, we may share personally identifiable information with unaffiliated third parties to whom you explicitly ask us to send your information.  If you prefer not to be contacted by any such Business Provider or other third party with whom we share your personally identifiable information, you may follow the “unsubscribe” instructions provided in any email you receive from any such third party.  In addition, you may opt‑out of our sharing your personally identifiable information with Business Providers and other third parties by following the instructions on our **[Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form)** , as described below under **“Your Options Regarding Personally Identifiable Information”.**
+  * **Third Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples may include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. In connection with their performance of functions on our behalf, we may share personally identifiable information with such companies and individuals as needed for them to perform their functions, but we do not permit such entities and individuals to use personally identifiable information for other purposes.
+  * **Third Party Promotions:** We may send offers to selected groups of customers on behalf of unaffiliated businesses that want to market their products or services to you, and as part of these promotional offers we may sell or disclose certain of your personally identifiable information to such unaffiliated businesses.  If you prefer not to be contacted by any such business with whom we share your personally identifiable information, you may follow the “unsubscribe” instructions provided in any email you receive from any such third party.  In addition, you may opt‑out of our sharing your personally identifiable information with such businesses by following the instructions on our **[Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form),** as described below under **“Your Options Regarding Personally Identifiable Information”.**
+  * **In-House Promotions:**   We may on occasion combine information we receive through our Services with outside records to enhance our ability to market our products and services that may be of interest to you.  If you have signed up to receive our e-mails and prefer not to receive marketing information in connection with our Services, please follow the “unsubscribe” instructions provided on any marketing e-mail you receive in connection with our Services or by following the instructions in our **[Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form)** , as described below under **“Unsubscribe Requests”.**
+  * **Business Transfers:** As our businesses continue to evolve, we might sell one or more of our companies, subsidiaries or business units. In such transactions, personally identifiable information generally is one of the transferred business assets.  In such event, this Privacy Policy may be amended as set forth below or the collection and uses of your personally identifiable information may be governed by a different privacy policy.
+  * **Protection of Our Services and Others:**  We reserve the right to release personally identifiable information to unaffiliated third parties when we believe its release is appropriate to comply with the law, enforce or apply our Terms and Conditions and other agreements, or protect the rights, property or safety of Dominion, our users or others. This includes exchanging information with other unaffiliated third parties in connection with fraud protection and credit risk reduction.
+  * **With Your Consent:** Other than as set out above, you will receive notice and have the opportunity to withhold consent when personally identifiable information about you might be shared with unaffiliated third parties.
+  * **User Submissions:** If you participate in any online forum/communities, chat sessions and/or blogs, or otherwise post in any user comment field visible to other users of our Services, any information that you submit or post will be visible to and may be read, collected or used by others who use our Services.  We are not responsible for any information, including personally identifiable information, you choose to submit in any such user comment field.
 
 
 
-* * *
+**Your Options Regarding Personally Identifiable Information**
 
-|   
----|---
+Except where we believe the release of your personally identifiable information is necessary or appropriate (a) to allow third party service providers to perform functions on our behalf or (b) to comply with law, enforce or apply our Terms and Conditions and other agreements, or protect the rights, property or safety of Dominion, our users or others, you may opt out of our sharing your personally identifiable information with unaffiliated third parties by completing our **[Email Opt Out Form](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form)**.
+
+**Third Party Online Advertising**
+
+We use third-party advertising companies to provide advertisements to you when you use our Services. These companies may use information (not including your name, address, email address or telephone number) about your use of our Services and other websites and services in order to show you advertisements tailored to your interests on our Services and other interactive media and/or to keep track of your response to each ad. For more information on this practice, or to opt out of having this information used by these companies, please visit the Network Advertising Initiative here: [**http://www.networkadvertising.org/managing/opt_out.asp**](http://www.networkadvertising.org/managing/opt_out.asp).
+
+**This website uses Google® AdWords**
+
+This website uses the Google AdWords remarketing service to advertise on third party could mean that we advertise to previous visitors who haven’t completed a websites (including Google) to previous visitors to our site. It task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to a website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the _ _ _[Google Ad Preferences page](http://www.google.com/settings/ads/onweb/ "Google Ad Preferences page"),_ and if you want to you can  
+_[opt out of interest-based advertising entirely by cookie settings ](http://www.google.com/settings/ads/onweb/ "opt out of interest-based advertising entirely by cookie settings")or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/ "permanently using a broswer plugin")._
+
+**Cookies and Web Beacons**
+
+To enhance your experience with our Services, many of our Web pages use “cookies.” Cookies are text files we place in your computer’s or mobile device’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or reveal other personally identifiable information unless you choose to provide this information to us by, for example, registering at one or more of our websites. However, once you choose to furnish us with personally identifiable information, this information may be linked to the data stored in the cookie.
+
+We use cookies to understand site usage and to improve the content and offerings on our Services.  For example, we may use cookies to personalize your experience at one or more of our websites (e.g., to recognize you by name when you return to our websites), save your password in password-protected areas and enable you to use shopping carts on our websites.  We also may use cookies to offer you products, programs or services.
+
+“Web beacons” or clear .gifs are small pieces of code placed on a Web page to monitor behavior and collect data about the visitors viewing a Web page. For example, Web beacons or similar technology can be used to count the users who visit a website or to deliver a cookie to the browser of a visitor viewing that page. We may use Web beacons or similar technology on our Services from time to time for this and other purposes.
+
+**Collection of Information by Third-Party Sites, Services, Ad Servers and Sponsors**
+
+Our Services may contain links to other websites or services whose information practices may be different than ours.  For example, while using one or more of our websites, you may link to a third party’s website via a window opened within (or on top of) our website.  Some of our Services may allow users to interface with third party websites or services, such as Facebook and Twitter.  You will remain logged into those third party websites or services until you actively log off.  By interfacing with those third party websites or services, you are allowing our Services to access your information that is or becomes available via such third party websites or services, and you are agreeing to those third party’s applicable terms and conditions.  Once you log onto any such third party websites or services, the content you post there may also post to our Services.  Our Privacy Policy and procedures may or may not be consistent with the policies and procedures of such third party websites or services, and when you visit such websites or services our Privacy Policy does not apply to personally identifiable information and other data collected by the third party.  You should consult, read and understand the privacy notices of such third parties before choosing to provide personally identifiable information on any such websites or services.
+
+Our Services may also use a third party ad server to present the advertisements that you may see on our Services. These third party ad servers may use cookies, Web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
+
+**California Do Not Track Notice**
+
+ Certain websites and other technology can track their users over time to, for instance, provide targeted advertising.  Do Not Track (“DNT”) mechanisms allow Internet users to control, and where desired prevent, the tracking of their online activities across such websites and technology.  Currently, various Internet browsers offer a DNT option that sends signals to websites visited by the browser about the users DNT preference – you can usually access your browser’s DNT option in your browser’s preferences.  Specifically as DNT relates to your use of our Services, we currently do not have the capability to recognize or respond to web browser Do Not Track signals and other similar mechanisms. In addition, in the DNT context, other parties do not have the ability to collect your personally identifiable information through advertising technologies deployed in ads that may appear within our Services.
+
+**Canada’s Anti-Spam Law**
+
+Commercial electronic messages that are sent from or accessed in Canada, including emails and text messages (“CEMs”), are governed by Canada’s Anti-Spam Law and its relevant rules and regulations (“CASL”). CASL requires that any CEMs sent to Canadian recipients in connection with our Services comply with certain consent and informational requirements (generally speaking, CASL prohibits sending CEMs to Canadian recipients without the prior consent of the recipient).  Consent may either be implied (which is temporary) or express (which is permanent, unless and until withdrawn).  Examples of implied consent to receive CEMs include (i) your having purchased something from us within the past two years, (ii) your download of software included within our Services or (iii) your giving us your business card at a trade show.  You provide express consent when you affirmatively elect to receive CEMs in response to a clear solicitation to do so (for instance, filling out a form on one of our websites where the form clearly states that you will receive CEMs from Dominion).  When applicable, Dominion will ask for your express consent to receive CEMs, and will respect your decision.  Under any circumstances, however, you have the right to withdraw your consent — whether express or implied — by completing our [**Email Opt Out Form**](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form) or by contacting us via the contact information provided below.
+
+**Our Commitment to Security**
+
+We have in place what we believe to be reasonable physical, electronic and managerial procedures to safeguard and help prevent unauthorized access of, maintain data security for and correctly use the personally identifiable information you have provided or that we otherwise collect through our Services. **HOWEVER, WHILE SUCH EFFORTS ARE INTENDED TO ENSURE THE CONFIDENTIALITY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION AVAILABLE TO US AS A RESULT OF YOUR USE OF OUR SERVICES, WE CANNOT AND DO NOT WARRANT OR GUARANTEE THE ABSOLUTE SAFETY AND SECURITY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION.**
+
+  * We work to protect the security of your personally identifiable information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. To assist in keeping your personally identifiable information safe, you must use an SSL-enabled browser (i.e., Internet Explorer).
+  * It is important for you to protect against unauthorized access to your password, your computer and your mobile device(s). Be sure to sign off when finished using a shared computer. Additionally, change your passwords often using a combination of letters and numbers, and make sure you use a secure Web browser.
+
+
+
+**How You Can Access or Correct Information**
+
+You may obtain information regarding the personally identifiable information that you provide or we collect about you via our Services for the limited purpose of viewing and correcting any factual errors in such information. Access to personally identifiable information that you provide or we collect via our Services may be accessible for a limited period of time after the point of collection. For example, if you created a password-protected account within our Services, you may return to that portion of the Services to review the personally identifiable information you provided. Alternatively, you may send an e-mail or letter to the following e-mail or street address requesting information about or corrections to your personally identifiable information **Dominion Enterprises, Intellectual Property Administrator, P.O. Box 2576, Norfolk, VA  23501 or [IPadministrator@dominionenterprises.com](mailto:IPadministrator@dominionenterprises.com), **subject to appropriate verification procedures. To protect your privacy and security, we will take what we believe are reasonable steps to help verify your identity before providing personally identifiable information, granting access or making corrections.
+
+**Usage Terms**
+
+Access to and use of any of our Services is subject to compliance with the applicable Service’s Terms and Conditions.
+
+**Unsubscribe Requests**
+
+To unsubscribe from email communications from us, please enter your email address and select the name of the applicable Dominion business from the list on our [**Email Opt Out Form**](http://www.dominionenterprises.com/main/do/DE_Email_Opt_Out_Form).
+
+**Special Note for Parents**
+
+Our Services are intended for a general audience and were not designed for children. We are not responsible for any access or use of our Services by children. (By way of example, our Services are not intended to sell products for purchase by children.)  If you are under 18, you may use our Services only with the involvement of a parent or guardian.
+
+**Disclaimer**
+
+As noted in this Privacy Policy, we take our commitment to protection of your privacy seriously.  However, NOTHING IN THIS PRIVACY POLICY IS INTENDED TO CREATE OR PROVIDE ANY RIGHT OF ACTION FOR VIOLATION.
+
+**How to Contact Us**
+
+If you have any questions or concerns about the Privacy Policy for our Services or its implementation, you may contact the **Dominion Enterprises Intellectual Property Administrator, P.O. Box 2576, Norfolk, VA  23501 or [IPadministrator@dominionenterprises.com](mailto:IPadministrator@dominionenterprises.com)** for information as to how to contact us.
+
+**Updates and Effective Date**
+
+We reserve the right to make changes to our Privacy Policy from time to time for any reason. Such changes, modifications, additions or deletions shall be effective immediately upon posting, unless otherwise indicated. We have no duty or obligation to inform prior visitors that changes have been made, regardless of the scope and importance of the changes. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it and to whom we disclose it. Your continued use of the Services after such changes are posted will be deemed to constitute your agreement to and acceptance of such changes.
+
+[POLICY LAST UPDATED July 2014]
