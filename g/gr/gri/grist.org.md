@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091456id_/http%3A//grist.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220064715id_/http%3A//grist.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Grist
 
 Privacy Policy   |   [Terms of Use](https://web.archive.org/about/terms)   |   [Trademarks](https://web.archive.org/about/trademarks)
 
-**Last Updated: January 25, 2013**
+**Last Updated: October 21, 2014**
 
-Grist Magazine, Inc. (“Grist,” “we” or “us”) respects your privacy and has adopted policies and procedures to ensure that information collected on our website about visitors (“you”) is handled responsibly. This Privacy Policy (“Policy”) describes the privacy practices of [www.grist.org](http://www.grist.org/) (“website”). Use of this website is also subject to our [Terms of Use](https://web.archive.org/about/terms).
+Grist Magazine, Inc. (“Grist,” “we” or “us”) respects your privacy and has adopted policies and procedures to ensure that information collected on our website about visitors (“you”) is handled responsibly. This Privacy Policy (“Policy”) describes the privacy practices of [grist.org](http://grist.org/) (“website”). Use of this website is also subject to our [Terms of Use](https://web.archive.org/about/terms).
 
 This Policy outlines:
 
@@ -17,6 +17,7 @@ This Policy outlines:
   5. How do I update my communications preferences or update the information Grist has about me?
   6. What other information should I know about Grist’s data practices?
   7. How can I contact Grist?
+  8. How can I opt out of tracking?
 
 
 
@@ -81,6 +82,15 @@ Our website provides numerous opportunities for visitors to express their opinio
 _Surveys & Polls _  
 We occasionally conduct surveys and polls. Participation in these is completely voluntary. Non-personal demographic information collected in surveys or polls will be used to monitor and improve the website. If a survey or poll requests personally identifiable information, that information will only be used for the purpose disclosed at the point of collection.
 
+_Google Analytics Demographics and Interest Reporting_  
+This website collects data about you and your visits via [Google advertising cookies](https://www.google.com/policies/privacy/key-terms/#toc-terms-cookie) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), in addition to data collected through a standard Google Analytics implementation. This none-personally identifiable data includes information about your demographics and general interests. We do not facilitate the merging of personally-identifiable information with non-personally identifiable information collected through these means.  You may opt out of the collecting of this information.
+
+_AdWords Remarketing_  
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to Grist. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), or you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/).
+
 **Back to Top**
 
 **5\. Updating Your Communications Preferences and Personally Identifiable Information**
@@ -113,4 +123,15 @@ If you have questions or concerns regarding this Policy, please [contact us](htt
 
 **Back to Top**
 
-## We've devised the world's shortest survey to find out what kind of actions our readers are taking. You know you want to.
+**8\. How to opt out of tracking**
+
+We use some third party tools to collect data about how users interact with our site. You can find more information about how we use these tools in our privacy policy above. If you’d prefer that we not track your interactions you may opt out by using the following links:
+
+  * [Inspectlet.com opt-out](https://www.inspectlet.com/optout)
+  * [Kissmetrics.com opt-out](http://www.kissmetrics.com/user-privacy)
+  * [Google Analytics opt-out](https://tools.google.com/dlpage/gaoptout/)
+  * [Quantcast opt-out](https://www.quantcast.com/company/opt-out)
+
+
+
+**Back to Top**
