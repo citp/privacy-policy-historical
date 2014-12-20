@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivahabandhan.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227094621id_/http%3A//www.vivahabandhan.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivahabandhan.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220203752id_/http%3A//www.vivahabandhan.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Matrimonial Services | Free Marriage Sites | Genuine Matrimony Profiles
 
