@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the vertitechnology.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205021340id_/http%3A//www.vertitechnologygroup.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertitechnology.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220014146id_/http%3A//www.vertitechnologygroup.com/policy) for the most accurate reproduction.*
 
 # Verti Technology Group
 
-## Including for the RocketFuel Installer
+## Including for the Verti Installer Technologies
 
-_Updated 08/07/2011_
+_Updated 12/04/2013_
 
-This Privacy Policy describes how and when Verti Technology Group ("Verti", "we", "us" or "our") collects, uses and shares your information when you use our Services. We respect your privacy and are concerned about how your personal information is shared and used. You acknowledge that you accept the terms of this privacy policy whenever you use any of our services or products, including without limitation the Verti RocketFuel Installer software, and our websites that post a link to this privacy policy, including [http://www.vertitechnologygroup.com](http://www.vertitechnologygroup.com/), ("Sites", "Services" or "Products").
+This Privacy Policy describes how and when Verti Technology Group ("Verti", "we", "us" or "our") collects, uses and shares your information when you use our Services. We respect your privacy and are concerned about how your personal information is shared and used. You acknowledge that you accept the terms of this privacy policy whenever you use any of our services or products, including without limitation the Verti installer software, and our websites that post a link to this privacy policy, including [http://www.vertitechnologygroup.com](http://www.vertitechnologygroup.com/), ("Sites", "Services" or "Products").
 
 You must be at least 18 years of age to use our Sites or Software. If you are under 18 years old, do not use our Sites and do not download our products.
 
@@ -91,5 +91,6 @@ _Questions and Concerns_. If you believe that we have not followed our privacy p
   
 Verti Technology Group  
 Attention: Customer Service  
-10900 NE 8th Street, Suite 1000  
-Bellevue, WA 98004 
+3600 136th Pl SE,  
+Bellevue,  
+WA 98006 
