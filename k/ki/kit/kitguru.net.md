@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kitguru.net privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110172523id_/http%3A//www.kitguru.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitguru.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220054649id_/http%3A//www.kitguru.net/privacy) for the most accurate reproduction.*
 
-# Privacy | KitGuru
+# Kitguru.net | KitGuru
 
   1. The Kit Guru Website (www.kitguru.net) is maintained by Kit Guru. Protecting your privacy is important to Kit Guru, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically. 
   2. **Scope of the Privacy Policy**. This Privacy Policy applies only to the collection and use of information collected online on the Kit Guru Website. Other websites that may be affiliated with Kit Guru may have different privacy policies. 
