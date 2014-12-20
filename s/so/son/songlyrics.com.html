@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the songlyrics.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628204059id_/http%3A//www.songlyrics.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the songlyrics.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220191521id_/http%3A//www.songlyrics.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
 	<title>Privacy | Collection of Song Lyrics at SongLyrics.com</title>
@@ -108,6 +108,37 @@ scpt.parentNode.insertBefore(elem, scpt);
 <!-- End Quantcast tag, part 1 -->
 
 
+
+
+
+<!-- Place in head part widget:slyr002 -->
+<script type="text/javascript">
+ 
+    var sbElementInterval = setInterval(function(){sbElementCheck()}, 50);
+ 
+    function sbElementCheck() {
+ 
+        var targetedElement = document.getElementById('ingageunit');
+        if(targetedElement) {
+            clearInterval(sbElementInterval);
+            (function(d) {
+                var js, s = d.getElementsByTagName('script')[0];
+                js = d.createElement('script');
+                js.async = true;
+                js.onload = function(e) {
+                    SbInGageWidget.init({
+                        partnerId : 4439,
+                        widgetId : 'slyr002',
+                        cmsPath : 'http://cms.springboardplatform.com'
+                    });
+                }
+                js.src = "http://cdn.springboardplatform.com/storage/js/ingage/apingage.min.js";
+                s.parentNode.insertBefore(js, s);
+            })(window.document);
+        }
+    }
+</script>
+<!-- Place in head part -->
 
 </head>
 <body>
@@ -390,7 +421,7 @@ $(window).load(function () {
 			<li class="ftlast-li">
 			<a href="/about.php">About</a>
 			</li>
-			<!--<li class="ftlast-li">Created in 0.011667 sec</li>-->
+			<!--<li class="ftlast-li">Created in 0.014324 sec</li>-->
 			<li class="ftlast-li">
 				<ul>
 					<li class="ft-logo"><a class="ft-sm" href="http://www.soundmedia.com/" target="_blank" title="Advertise on SongLyrics">SoundMedia</a></li>
