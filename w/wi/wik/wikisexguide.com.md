@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikisexguide.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626174035id_/http%3A//www.wikisexguide.com/wiki/Wikisexguide%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikisexguide.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103624id_/http%3A//www.wikisexguide.com/wiki/WikiSexGuide%3APrivacy_policy) for the most accurate reproduction.*
 
-# Wikisexguide:Privacy policy - WikiSexGuide - International World Sex Guide
+# WikiSexGuide:Privacy policy - WikiSexGuide - International World Sex Guide
 
 ## Uses of Information
 
@@ -38,7 +38,7 @@ Wikisexguide believes that maintaining and preserving the privacy of user data i
 
 ## See Also
 
-  * [Wikisexguide:General disclaimer](https://web.archive.org/wiki/Wikisexguide:General_disclaimer "Wikisexguide:General disclaimer")
-  * [Wikisexguide:Copyrights](https://web.archive.org/wiki/Wikisexguide:Copyrights "Wikisexguide:Copyrights")
+  * [Wikisexguide:General disclaimer](https://web.archive.org/wiki/WikiSexGuide:General_disclaimer "WikiSexGuide:General disclaimer")
+  * [Wikisexguide:Copyrights](https://web.archive.org/wiki/WikiSexGuide:Copyrights "WikiSexGuide:Copyrights")
 
 
