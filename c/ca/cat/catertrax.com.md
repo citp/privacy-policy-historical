@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catertrax.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625195728id_/http%3A//www.catertrax.com/shopportal.asp%3Fpageid%3D556) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catertrax.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220143509id_/http%3A//catertrax.com/shopportal.asp%3Fpageid%3D556) for the most accurate reproduction.*
 
 # Privacy Policy - CaterTrax Web Based Catering Management Software and Online Ordering Solutions for Hospitality Professionals
 
