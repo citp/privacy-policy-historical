@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519013357id_/http%3A//www.creditloan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220100546id_/http%3A//www.creditloan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | CreditLoan.com®
 
-## Updated January 23, 2014
+We are committed to protecting your privacy and securing your information. Please read our full privacy policy below.
 
 This privacy statement applies to www.creditloan.com owned and operated by Credit Loan, LLC (“Credit Loan”, “we”, “us”, “our”). This privacy statement describes how Credit Loan, LLC collects and uses the personal information you provide on our web site:  www.creditloan.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
@@ -42,14 +42,13 @@ We may also use your IP addresses to compile and provide aggregate statistics ab
 
 If your personal information changes, or if you no longer desire our service, you may correct, update, delete or deactivate your information by emailing our Customer Support at [support@creditloan.com](mailto:support@creditloan.com), or by contacting us by telephone or postal mail at the contact information listed below.
 
-Phone: 813-421-1589
+Phone: 813-527-0728
 
 Mailing Address:
 
 Credit Loan, LLC  
-Attn: Customer Support  
-235 APOLLO BEACH BLVD, STE 218  
-Apollo Beach, Florida 33572
+235 Apollo Beach Blvd, STE 218  
+Apollo Beach, FL 33572 
 
 ## Our Commitment to Children's Privacy
 
@@ -61,17 +60,17 @@ We use your e-mail address to: Send you newsletters, and other customer related 
 
 Creditloan.com has a zero tolerance policy for e-mail abuse. If you receive unsolicited e-mails from creditloan.com please report it to us at [support@creditloan.com](mailto:support@creditloan.com).
 
-We will never ask you to provide non-public or sensitive information in an e-mail. DO NOT RESPOND to an e-mail that appears to be from us requesting non-public or sensitive information the e-mail. Contact us immediately at 813-421-1589 or by e-mail at [support@creditloan.com](mailto:support@creditloan.com)
+We will never ask you to provide non-public or sensitive information in an e-mail. DO NOT RESPOND to an e-mail that appears to be from us requesting non-public or sensitive information the e-mail. Contact us immediately at 813-527-0728 or by e-mail at [support@creditloan.com](mailto:support@creditloan.com)
 
 We do not store e-mail addresses from correspondence sent to us. If you contact us by e-mail we will respond by email. Creditloan.com will not use or store your email address in our database from such correspondence.
 
 ## Choice/Opt-out
 
-You may opt-out of receiving communications from us and or our third-party associates by not submitting your information. When you enter your personal information at the Web site, you have opted-in to request that we share your personal information with third parties to receive marketing communications. When contacted by any of these third-party marketers, you should notify them directly of your choices regarding their use and sharing of your information and may opt-out of receiving additional offers from them or any third-parties with whom they have shared your information. If you no longer wish to receive our newsletter and/or promotional communications from us, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@creditloan.com](mailto:support@creditloan.com). We also offer an opportunity to opt-out of certain communications utilizing the online contact us link, or via telephone at 813-421-1589.
+You may opt-out of receiving communications from us and or our third-party associates by not submitting your information. When you enter your personal information at the Web site, you have opted-in to request that we share your personal information with third parties to receive marketing communications. When contacted by any of these third-party marketers, you should notify them directly of your choices regarding their use and sharing of your information and may opt-out of receiving additional offers from them or any third-parties with whom they have shared your information. If you no longer wish to receive our newsletter and/or promotional communications from us, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@creditloan.com](mailto:support@creditloan.com). We also offer an opportunity to opt-out of certain communications utilizing the online contact us link, or via telephone at 813-527-0728.
 
 ## Co-Branded Disclosure and External Web Sites
 
-Please note that Creditloan.com contains links, co-branded links, and forms that direct to other web sites. Please be aware that we are not responsible for the privacy practices of these other web sites. In any case that you fill out an application that looks like it is located on www.Creditloan.com , it will not be collected by our web site, but by the affiliate or Loan Provider website. We encourage you to be aware while using our site, when you leave our site, and to read the terms and conditions and/or privacy statements of each and every site seeking your personal information.
+Please note that Creditloan.com contains links, co-branded links, and forms that direct to other web sites. Please be aware that we are not responsible for the privacy practices of these other web sites. In any case that you fill out an application that looks like it is located on www.creditloan.com , it will not be collected by our web site, but by the affiliate or Loan Provider website. We encourage you to be aware while using our site, when you leave our site, and to read the terms and conditions and/or privacy statements of each and every site seeking your personal information.
 
 ## Cookies and other Tracking Technologies
 
@@ -122,9 +121,8 @@ We routinely check for copyright violations and content duplication. Federal leg
 If you have questions or comments, email us at [support@creditloan.com](mailto:support@creditloan.com), or mail us via postal mail at:
 
 Credit Loan, LLC  
-Attn: Customer Support:  
-235 APOLLO BEACH BLVD, STE 218  
-Apollo Beach, Florida 33572
+235 Apollo Beach Blvd, STE 218  
+Apollo Beach, FL 33572 
 
 We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
@@ -133,3 +131,5 @@ We reserve the right to disclose your personal information as required by law an
 We reserve the right, in our sole discretion, to change, modify, add and/or remove portions of this Privacy Statement at any time. Please check the Site periodically for any changes. Your continued use of the Site and/or acceptance of our e-mail communications following the posting of changes to this Privacy Statement will constitute your acceptance of any and all changes.
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
+
+_Updated January 23, 2014_
