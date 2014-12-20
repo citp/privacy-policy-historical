@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myplayyard.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213141453id_/http%3A//www.myplayyard.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myplayyard.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220044817id_/http%3A//www.myplayyard.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - myplayyard.com
 
