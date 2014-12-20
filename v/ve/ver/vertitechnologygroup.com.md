@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vertitechnologygroup.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614212418id_/http%3A//www.vertitechnologygroup.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertitechnologygroup.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220014146id_/http%3A//www.vertitechnologygroup.com/policy) for the most accurate reproduction.*
 
 # Verti Technology Group
 
@@ -91,5 +91,6 @@ _Questions and Concerns_. If you believe that we have not followed our privacy p
   
 Verti Technology Group  
 Attention: Customer Service  
-10900 NE 8th Street, Suite 1000  
-Bellevue, WA 98004 
+3600 136th Pl SE,  
+Bellevue,  
+WA 98006 
