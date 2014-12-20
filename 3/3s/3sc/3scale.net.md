@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3scale.net privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210072534id_/http%3A//www.3scale.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3scale.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220162353id_/http%3A//www.3scale.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 3scale - The API Management Solution Experts
+# Privacy Policy - 3scale API Management Platform
 
 In order for 3scale’s web site to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources. This information is not shared with any additional outside parties.
 
@@ -18,7 +18,7 @@ You further acknowledge that 3scale may, in its sole discretion, preserve or dis
 
  
 
-3scale reserves the right to use the Web Services description to configure examples in its press releases, marketing channels and any other publicity materials as well as the right to link to your site.
+3scale reserves the right to use the [Web Services](http://www.3scale.net/) description to configure examples in its press releases, marketing channels and any other publicity materials as well as the right to link to your site.
 
  
 
