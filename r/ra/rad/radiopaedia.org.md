@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626023726id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220060548id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Radiopaedia.org
 
@@ -45,7 +45,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 #### Anonymity of cases / images
 
-All cases submitted should be de-identified, in such a way as to leave no way of identifying an individual patient. Information which should NOT appear on any of the cases includes (based on HIPAA guidelines), but is not limited to:
+All cases submitted should be de-identified, in such a way as to leave no way of identifying an individual patient. Information which should **NOT** appear on any of the cases includes (based on [HIPAA](http://www.hhs.gov/ocr/privacy/hipaa/understanding/summary/) guidelines), but is not limited to:
 
   * name
   * initials
@@ -60,14 +60,19 @@ All cases submitted should be de-identified, in such a way as to leave no way of
   * biometric data
   * facial photograph or comparable image
   * names of relatives
+  * date of study
 
 
 
-Additionally if a case is for one reason or another unique in a way that could lead to identification of an individual then it should also not be uploaded. This means that a case which is has been featured in the media is usually inappropriate. 
+Additionally if a case is for one reason or another unique in such a way that could lead to identification of an individual from the images alone then it should also not be uploaded. This means that a case which is has, for example, been featured in the media is usually inappropriate for upload. 
 
-Please note: We take this very seriously, and failure to abide by these rules a breach of out [privacy policy](https://web.archive.org/privacy_policy) and [terms of use](https://web.archive.org/terms). If you upload a case with patient information, your case will be immediately deleted and if you repeatedly upload cases with patient details your account will be suspended. 
+Similarly the textual information accompanying the text should also be devoid of identifying information, and devoid of other unnecessary information which could aid in the identification of a patient. 
 
-If you find such a case please contact us at privacy@radiopaedia.org.
+Note: Our privacy policy does not override the individual policies of institutions and users should ensure that they are using images within their local guidelines. 
+
+We take this **very seriously** , and failure to abide by these rules a breach of our [privacy policy](https://web.archive.org/privacy_policy) and [terms of use](https://web.archive.org/terms). If you upload a case with patient information, your case will be immediately deleted and if you repeatedly upload cases with patient details your account will be suspended. 
+
+If you find such a case please contact us at [privacy@radiopaedia.org](mailto:privacy@radiopaedia.org).
 
 #### Our commitment to data security
 
@@ -76,10 +81,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 #### How you can access or correct your information
 
 You can access all your personally identifiable information that we collect online and maintain by accessing your user profile page. 
-
-#### How to contact us in regards to privacy concerns
-
-Should you have other questions or concerns about these privacy policies, please send us an email at privacy@radiopaedia.org.
 
 #### How to contact us in regards to privacy concerns
 
