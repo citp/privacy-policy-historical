@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the offerpop.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503201644id_/http%3A//www.offerpop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerpop.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220221541id_/http%3A//www.offerpop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective February , 2014
+Effective July 23, 2014
 
 This privacy policy applies to www.offerpop.com owned and operated by Offerpop Corporation. Offerpop Corporation ("Offerpop") provides this Information and Privacy Policy to inform you of Offerpop's policies and procedures regarding the collection, use and disclosure of information that Offerpop receives from the following:
 
@@ -29,7 +29,7 @@ INFORMATION OFFERPOP MAY RECEIVE FROM USERS
   2. Campaign Operators. If you are a Campaign Operator, in the course of using the Offerpop Site or the Offerpop Applications, you may provide Offerpop with (i) Personal Information in your user or account profile with Offerpop, such as your name, phone number, credit card or other billing information, email address, and home and/or business postal addresses; and (ii) Personal Information in your user or account profile with the Third Party Site that interact with the Offerpop Applications, that may include, but are not limited to, your log in credentials and profile information you have elected to make public; (iii) Personal Information of your Social Users that you elect to collect, process, and/or store in connection with such Social Users' participation in a Campaign using the Offerpop Applications; and (iv) Feedback.
   3. Social Users. If you are a Social User (e.g. Facebook)  in the course of using the Offerpop Applications, Offerpop may receive, directly or through Campaign Operators, Personal Information of yours that may include, but is not limited to, (i) your social media profile (e.g. your Facebook profile name or handle, and its associated email address, but never your password); (ii) information posted on your social media profile such as wall posts, likes, dislikes, or items you follow, but only to the extent that you make this information publicly available, that you authorize the use of private information through a permission grant or other means provided by that Social Service, or that you provide this information to the Campaign Operators in response to a promotion or other marketing campaign operated by the Campaign Operators by use of the Offerpop Applications.
   4. If you are a Social User we may provide you the opportunity to refer friends to a Campaign Operator promotion. If you choose to do so we may ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to view the Campaign Operator’s promotion. Offerpop stores this information for the sole purpose of sending this one-time email and tracking the success of the referral. Your friend may contact us at privacy@offerpop.com to request that we remove this information from our database.
-  5. Offerpop collects information under the direction of its Campaign Operators, and has no direct relationship with the Social Users whose personal data it processes.
+  5. Offerpop collects information under the direction of its Campaign Operators, and has no direct relationship with the Social Users whose personal data it processes. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Campaign Operators.
 
 
 
