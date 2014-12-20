@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennisduel.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310012547id_/http%3A//s3.tennisduel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennisduel.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220175808id_/http%3A//s4.tennisduel.com/privacy-policy) for the most accurate reproduction.*
 
 # Tennis Duel
 
@@ -6,7 +6,7 @@
 Privacy Policy
 
 Operator: POWERPLAY MANAGER, s.r.o.  
-(current version valid as of 02/11/2014)
+(valid and effective as of 04/04/2014)
 
 This privacy policy applies to all services offered on www.tennisduel.com operated by POWERPLAY MANAGER, s.r.o., registered seat at Budatínska 57, 851 06 Bratislava, Slovak Republic, Identification number: 36 722 405, registered in the Business Register of the District Court Bratislava I, Section: Sro, Insert No.: 43978/B (hereinafter as "operator"). In case the user makes use of services provided by third parties, the Privacy Policy conditions of these third parties apply exclusively. The operator does not revise Privacy Policy conditions of third parties. 
 
@@ -20,7 +20,7 @@ The operator bears no liability for the user's disclosure of his/her personal da
 
 The operator may automatically store such data as the user's IP address or browser type. The operator may also store cookies on the user's machine without which the user would be unable to sign into his/her account and use operator's services. 
 
-Cookies are small amounts of data in the form of text files which the website stores on the user's device. Cookies allow the operator to monitor traffic on the website, simplify the user's visits to the website (for example, by remembering which language the user selected or the last time you logged on to the website). A temporary cookie is also used to keep track of the user's "session". Without that temporary cookie (which is not stored after the user quits the browser), the user would have had to log in again on each page. 
+Cookies are small amounts of data in the form of text files which the website stores on the user's device. Cookies allow the operator to monitor traffic on the website, simplify the user's visits to the website (for example, by remembering which language the user selected the last time he/she logged into the application). A temporary cookie is also used to keep track of the user's "session". Without that temporary cookie (which is not stored after the user quits the browser), the user would have had to log in again on each page. 
 
 Except for the purpose of prosecuting unauthorized use of www.tennisduel.com and all offered services on this website, the operator evaluates such data only for statistical and performance-related purposes. 
 
@@ -75,6 +75,12 @@ The operator has issued Security guidelines on protection of personal data in ac
 The operator obtains, processes and makes accessible to Google the user's localization data obtained from GPS, Wi-Fi or telecommunication towers. These localization data are made accessible only to Google for the purposes of using the advertising system of Google. 
 
 The operator uses on its websites service of Google AdSense for video and AdSense for games. Due to the usage of these services by the operator, the third parties such as Google may gather certain types of data about the user's visits of internet pages of the operator, including interactions with the content on these pages. It is not possible to identify persons with the data gathered this way. 
+
+  
+
+  10. **Removal of personal data**
+
+The user may request the removal of his/her personal data from the application (e-mail address, IP addresses and login times) by sending an e-mail to support[a]tennisduel.com. The message must contain an explicit request to remove the user's personal data. If a user requests removal of his/her personal data, his/her account will be blocked, personal data will be deleted and username in the application will be changed. If the e-mail message does not contain the explicit request of the user to remove his/her personal data, his/her personal data will not be removed. 
 
   
 
