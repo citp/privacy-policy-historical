@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the posist.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530063105id_/http%3A//www.posist.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posist.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220112133id_/http%3A//www.posist.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy for sale and product (POS), Posist Technologies |
 
@@ -70,6 +70,6 @@
 
   
   
-  * [](https://web.archive.org/web/20140530063105id_/http://www.posist.com/privacypolicy/careers)
+  * [](https://web.archive.org/web/20141220112133id_/http%3A//www.posist.com/careers)
 
 
