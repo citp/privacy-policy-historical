@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the cvscaremark.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063810id_/http%3A//info.cvscaremark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvscaremark.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220203017id_/http%3A//www.cvshealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CVS Caremark
+# None
 
-## CVS Caremark’s Privacy Commitments
+## CVS Health’s Privacy Commitments
 
-Effective Date: November 30, 2012.
+Effective Date: September 3, 2014.
 
-At CVS Caremark, we are committed to ensuring your privacy, and this guides every decision we make about how, where, and when to collect your personally identifiable information. Our goal is to provide you with clear, easy-to-read information about our privacy policy and information practices in one place. This Privacy Policy and the other explanatory information we provide on this site apply throughout our businesses and across our websites, mobile apps and social media presences (“Our Sites”). We welcome your questions and feedback about our Privacy Policy or our privacy commitments, and invite you to [Contact Us](https://web.archive.org/contact).
+At CVS Health, we are committed to ensuring your privacy, and this guides every decision we make about how, where, and when to collect your personally identifiable information. Our goal is to provide you with clear, easy-to-read information about our privacy policy and information practices in one place. This Privacy Policy and the other explanatory information we provide on this site apply throughout our businesses and across our websites, mobile apps and social media presences (“Our Sites”). We welcome your questions and feedback about our Privacy Policy or our privacy commitments, and invite you to [Contact Us](http://www.cvshealth.com/contact).
 
-We recognize the trust you place in us to safeguard your privacy. Our privacy commitments are and will remain a fundamental component of our business, and will apply to everyone who has a relationship with CVS Caremark, including patients, customers, and visitors to Our Sites.
+We recognize the trust you place in us to safeguard your privacy. Our privacy commitments are and will remain a fundamental component of our business, and will apply to everyone who has a relationship with CVS Health, including patients, customers, and visitors to Our Sites.
 
 As part of our privacy commitment to you, we want to share with you the basic components of our Privacy Policy:
 
   * **Transparency**. We will make our privacy commitments easy to find and easy to read.
   * **Notice**. We will notify you of changes to our Privacy Policy before they take effect.
-  * **Choice**. You have choices about what information you provide to CVS and how CVS Caremark will use your information for marketing purposes.
+  * **Choice**. You have choices about what information you provide to CVS and how CVS Health will use your information for marketing purposes.
   * **Security**. We will use state of the art security safeguards to protect your privacy and the data entrusted to us.
   * **Control**. We will not sell your personal information to anyone, for any purpose. And when we share information with our subsidiaries or trusted service providers, they too must comply with our privacy commitments.
   * **Accessibility**. We will listen to your feedback and answer your questions about our Privacy Policy, commitments, and practices.
@@ -23,15 +23,15 @@ As part of our privacy commitment to you, we want to share with you the basic co
 
 ___________________________
 
-## The CVS Caremark Privacy Policy
+## The CVS Health Privacy Policy
 
 _The Scope of this Privacy Policy_
 
-CVS Caremark Sites and Mobile Apps, including those for CVS/pharmacy, Caremark, and MinuteClinic, are owned and operated by CVS Pharmacy, Inc.
+CVS Health Sites and Mobile Apps, including those for CVS/pharmacy, Caremark, and MinuteClinic, are owned and operated by CVS Pharmacy, Inc.
 
-This Privacy Policy describes the choices you can make about the way your information is collected and used. Our Privacy Policy applies to the information collected on Our Sites and to any other information that CVS Caremark collects about you.
+This Privacy Policy describes the choices you can make about the way your information is collected and used. Our Privacy Policy applies to the information collected on Our Sites and to any other information that CVS Health collects about you.
 
-**_For information about the privacy of your personal health information, please review the CVS Caremark  [Notice of Privacy Practices](https://web.archive.org/patientprivacy)_**.
+**_For information about the privacy of your personal health information, please review the CVS Health[Notice of Privacy Practices](http://www.cvshealth.com/patientprivacy)_**.
 
 _Your Consent to Use Our Sites_
 
@@ -39,21 +39,21 @@ By using Our Sites, you signify your consent to our collection, use, and disclos
 
 _The Information We Collect About Customers and Users_
 
-CVS Caremark may collect different types of personal or other information when you visit Our Sites, when you place orders with us, and in other circumstances described in this Privacy Policy. Some examples of the information we collect include:
+CVS Health may collect different types of personal or other information when you visit Our Sites, when you place orders with us, and in other circumstances described in this Privacy Policy. Some examples of the information we collect include:
 
   * Contact Information, which we use for contacting you regarding your orders or for services which may be of interest to you;
   * Billing Information necessary for your financial relationship with us, including payment method data you store with us for the completion of orders;
-  * Protected Health Information necessary for filling prescription orders from CVS Caremark. This information is also protected under our [Notice of Privacy Practices](https://web.archive.org/patientprivacy);
+  * Protected Health Information necessary for filling prescription orders from CVS Health. This information is also protected under our [Notice of Privacy Practices](http://www.cvshealth.com/patientprivacy);
   * Technical Information relating to your use of our Sites or mobile apps.
 
 
 
 _How We Collect Information About Customers and Users_
 
-CVS Caremark collects information in four primary ways:
+CVS Health collects information in four primary ways:
 
-  * When you provide us with information when you purchase or interact with us about products or services offered by CVS Caremark;
-  * When you register as a user of a CVS Caremark Site;
+  * When you provide us with information when you purchase or interact with us about products or services offered by CVS Health;
+  * When you register as a user of a CVS Health Site;
   * When we collect technical information automatically when you visit Our Sites; and
   * When we obtain information about you from your employer or health care plan in connection with your prescription orders.
 
@@ -61,7 +61,7 @@ CVS Caremark collects information in four primary ways:
 
 _How We Use Information About Customers and Users_
 
-CVS Caremark may use the information we collect in a variety of ways to enhance our customers’ experiences, including to:
+CVS Health may use the information we collect in a variety of ways to enhance our customers’ experiences, including to:
 
   * Process your orders for products or services;
   * Improve customer services;
@@ -85,16 +85,16 @@ _Online Activity Tracking and Advertising_
 
 _How We Share Personal Information_
 
-CVS Caremark will only share your personal information in manners described within this Privacy Policy.
+CVS Health will only share your personal information in manners described within this Privacy Policy.
 
-  * _With CVS Caremark Companies_ : CVS Caremark and its subsidiaries may share your personally identifiable information with one another to ensure that your experiences as a customer or user of CVS Caremark Sites is as seamless and enjoyable as possible.
-  * _With Third Party Companies_ : In limited circumstances, CVS Caremark may share your personally identifiable information with third party companies to provide you with technologies, services, or content that may be of interest to you, or to assist us in fulfilling your orders. In all instances in which CVS Caremark shares your personally identifiable information, we require that the recipient agrees to protect it in a manner consistent with this privacy policy.
-  * _In Other Circumstances_ : CVS Caremark may share your information in other limited circumstances, including:
+  * _With CVS Health Companies_ : CVS Health and its subsidiaries may share your personally identifiable information with one another to ensure that your experiences as a customer or user of CVS Health Sites is as seamless and enjoyable as possible.
+  * _With Third Party Companies_ : In limited circumstances, CVS Health may share your personally identifiable information with third party companies to provide you with technologies, services, or content that may be of interest to you, or to assist us in fulfilling your orders. In all instances in which CVS Health shares your personally identifiable information, we require that the recipient agrees to protect it in a manner consistent with this privacy policy.
+  * _In Other Circumstances_ : CVS Health may share your information in other limited circumstances, including:
   * \- Responding to requests from law enforcement officials or judicial authorities or to otherwise cooperate with authorities pursuant to a legal matter;
   * \- Responding to matters of personal or public safety;
   * \- In litigation where the data is pertinent;
   * \- To investigate security incidents;
-  * \- In the event of the sale or transfer of CVS Caremark or of some of our assets, or in the context of similar business negotiations.  
+  * \- In the event of the sale or transfer of CVS Health or of some of our assets, or in the context of similar business negotiations.  
 We do not sell your personal information to anyone for marketing purposes.
 
 
@@ -102,33 +102,33 @@ We do not sell your personal information to anyone for marketing purposes.
 _Anonymous and Aggregate Information_
 
   * We also collect technical, non-personal information about Site users.
-  * CVS Caremark may also remove personally identifiable information to create anonymous data.
+  * CVS Health may also remove personally identifiable information to create anonymous data.
   * This data cannot be used to identify any individual.
-  * CVS Caremark uses and shares this data for historical, statistical, or business planning purposes.
+  * CVS Health uses and shares this data for historical, statistical, or business planning purposes.
 
 
 
 _Our Online Privacy Policy for Children_
 
-  * CVS Caremark Sites are not intended or designed to attract users under the age of 13.
+  * CVS Health Sites are not intended or designed to attract users under the age of 13.
   * We do not collect personally identifiable information from any person we know to be under the age of 13.
-  * We instruct users under the age of 13 not to send any information to CVS Caremark through our Sites.
+  * We instruct users under the age of 13 not to send any information to CVS Health through our Sites.
 
 
 
 _Our Data Protection and Security Policy_
 
-  * We maintain industry standard data security measures, including SSL encryption, to protect sensitive data such as when it is stored by CVS Caremark and when you send it to us.
+  * We maintain industry standard data security measures, including SSL encryption, to protect sensitive data such as when it is stored by CVS Health and when you send it to us.
   * We ask all third parties acting on our behalf to protect your information in accordance with this Privacy Policy and to implement comparable data protection and security policies.
   * We maintain personal information for registered Site users in accordance with our Records Retention Policy and Procedure, and you have the right to change your membership information or status at any time.
 
 
 
-_CVS Caremark Customer Privacy Choice and Control_
+_CVS Health Customer Privacy Choice and Control_
 
   * You have the ability to review, modify, or request the removal of personal information we collect about you. Certain information may be retained, however, to satisfy legal obligations.
-  * You may choose to limit the types and frequency of communications you receive from CVS Caremark.
-  * You may choose to end your relationship with CVS Caremark at any point.
+  * You may choose to limit the types and frequency of communications you receive from CVS Health.
+  * You may choose to end your relationship with CVS Health at any point.
 
 
 
@@ -150,12 +150,12 @@ _Changes to this Privacy Policy_
 
 _Your Personal Health Information_
 
-In some circumstances, CVS Caremark’s use of your information will also be subject to the requirements of the Health Insurance Portability and Accountability Act (frequently referred to as ‘HIPAA’). For example, when you are submitting personal health information for prescription refills, we are subject to the requirements of HIPAA.
+In some circumstances, CVS Health’s use of your information will also be subject to the requirements of the Health Insurance Portability and Accountability Act (frequently referred to as ‘HIPAA’). For example, when you are submitting personal health information for prescription refills, we are subject to the requirements of HIPAA.
 
-In these circumstances, the terms of CVS Caremark’s [HIPAA Notice of Privacy Practices](https://web.archive.org/patient-privacy) will apply.
+In these circumstances, the terms of CVS Healthk’s [HIPAA Notice of Privacy Practices](http://www.cvshealth.com/patient-privacy) will apply.
 
-If you have questions about which policy applies to information you have provided us, please do not hesitate to [Contact Us](https://web.archive.org/contact), or call us toll-free at 888-607-4287.
+If you have questions about which policy applies to information you have provided us, please do not hesitate to [Contact Us](http://www.cvshealth.com/contact), or call us toll-free at 888-607-4287.
 
 _Your California Privacy Rights_
 
-Under California Civil Code Section 1798.83, California customers are entitled to request information relating to whether a business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. As explained elsewhere in this Privacy Policy, CVS Caremark will not sell or transfer your personal information with third party companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this statute or who have questions more generally about our Privacy Policy and our privacy commitments to our customers and Site users should not hesitate to [Contact Us](https://web.archive.org/contact), or call us toll-free at 888-607-4287.
+Under California Civil Code Section 1798.83, California customers are entitled to request information relating to whether a business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. As explained elsewhere in this Privacy Policy, CVS Health will not sell or transfer your personal information with third party companies for their direct marketing purposes without your consent. California customers who wish to request further information about our compliance with this statute or who have questions more generally about our Privacy Policy and our privacy commitments to our customers and Site users should not hesitate to [Contact Us](http://www.cvshealth.com/contact), or call us toll-free at 888-607-4287.
