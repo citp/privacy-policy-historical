@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thedailymeal.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013931id_/http%3A//www.thedailymeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailymeal.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220170645id_/http%3A//www.thedailymeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Meal
 
 **PRIVACY POLICY**
 
-Spanfeller Media Group, Inc. (the “Company”) respects your privacy and the security of your personal data.  This Privacy Policy explains how we treat and safeguard personal information.  Please read this Privacy Policy carefully prior to your access to and/or use of [www.TheDailyMeal.com](http://www.thedailymeal.com/ "www.TheDailyMeal.com") (the “Website”).  If you do not agree with the terms of the Privacy Policy, please do not use our Website.
+Spanfeller Media Group, Inc. (the “Company”) respects your privacy and the security of your personal data.  This Privacy Policy explains how we treat and safeguard personal information.  Please read this Privacy Policy carefully prior to your access to and/or use of [www.TheDailyMeal.com](http://www.thedailymeal.com/) (the “Website”).  If you do not agree with the terms of the Privacy Policy, please do not use our Website.
 
-By using this Website, you are accepting the practices described in this Privacy Policy and the Terms of Use.  This Privacy Policy is subject to the Terms of Use, which includes all disclaimers of warranties and limitation of liabilities. All capitalized terms not defined in this Privacy Policy have the meaning set forth in the [Terms of Use](https://web.archive.org/legal).
+By using this Website, you are accepting the practices described in this Privacy Policy and the Terms of Use.  This Privacy Policy is subject to the Terms of Use, which includes all disclaimers of warranties and limitation of liabilities. All capitalized terms not defined in this Privacy Policy have the meaning set forth in the [Terms of Use](https://web.archive.org/legal).
 
 **Collected Information**
 
@@ -38,9 +38,9 @@ We use data analytics collected by the systems described above to develop and pr
 
 To enhance your experience we may provide you with interactive communications or e-mails to the e-mail address that you provide to us.  Such communications are provided only to users who have expressly provided us with their permission to receive them as part of their user profile.
 
-In certain instances we may also share your personally identifiable information with our third-party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to third parties without your consent. 
+In certain instances we may also share your personally identifiable information with our third-party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Website, and with third parties who assist us in using the content or other information you have posted or shared with us via our Website (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. Except as provided in this Privacy Policy, our Terms of Use, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to third parties without your consent.
 
-Registered users may change the information stored in their member profile may elect to stop receiving marketing material from the Company or on behalf of external third party business partners. Users may choose to stop receiving such communications at any time by visiting the ["Member Profile"](https://web.archive.org/user) page, or by following instructions at the end of any such e-mail received.
+Registered users may change the information stored in their member profile may elect to stop receiving marketing material from the Company or on behalf of external third party business partners. Users may choose to stop receiving such communications at any time by visiting the ["Member Profile"](https://web.archive.org/user) page, or by following instructions at the end of any such e-mail received.
 
 You may also request to delete your personal account if you wish to do so. Please email us at the contact information included below. We will respond to your request within 30 business days.
 
@@ -101,5 +101,3 @@ Spanfeller Media Group, Inc.
 New York, NY 10010
 
 Office: (646) 459-0604
-
-E-mail: info@spanfellergroup.com
