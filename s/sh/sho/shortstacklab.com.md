@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shortstacklab.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120041108id_/http%3A//www.shortstacklab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortstacklab.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220132426id_/http%3A//www.shortstack.com/privacy) for the most accurate reproduction.*
 
 # ShortStack.com Privacy Policy - ShortStack
 
@@ -70,6 +70,6 @@ In the event that the terms of this Policy conflict with or are inconsistent wit
 
 Any claim under this Policy or otherwise related to ShortStack or Pancake shall be governed by the laws of the State of Nevada without regard to its conflict of law provisions, and shall be exclusively resolved by a state or federal court located in Washoe County, Nevada. You agree to submit to the personal jurisdiction of the courts located within Washoe County, Nevada, for the purpose of litigating all such claims.
 
-If any provision of this Policy is found by a court of competent jurisdiction or arbitrator to be illegal, void, or unenforceable, the unenforceable provision will be modified so as to render it enforceable and effective to the maximum extent possible in order to effect the intention of the provision; and if a court or arbitrator finds the modified provision invalid, illegal, void or unenforceable, the validity, legality and enforceability of the remaining provisions of this Policy will not be affected in any way.
+If any provision of this Policy is found by a court of competent jurisdiction or arbitrator to be illegal, void, or unenforceable, the unenforceable provision will be modified so as to render it enforceable and effective to the maximum extent possible in order to effect the intention of the provision; and if a court or arbitrator finds the modified provision invalid, illegal, void or unenforceable, the validity, legality and enforceability of the remaining provisions of this Policy will not be affected in any way. 
 
 Any questions on this Policy or the privacy practices of Pancake or ShortStack should be directed to [contact@shortstacklab.com](mailto:contact@shortstacklab.com).
