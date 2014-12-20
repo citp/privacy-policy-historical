@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the chimpoo.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209024301id_/http%3A//www.chimpoo.com/chimpooworld/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chimpoo.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220180712id_/http%3A//chimpoo.com/chimpooworld/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chimpoo.com - a free online virtual world for kids!
 
 Modified on August 04, 2013
 
-[](https://privacy.truste.com/privacy-seal/Games2win-com/validation?rid=d5e6b2c3-6a86-4f56-8d38-5dddc6c14041 "TRUSTe Children privacy certification")
-
 The Site [www.chimpoo.com](http://www.chimpoo.com/) is owned and operated by Games2win India Pvt. Ltd.
 
 This Privacy Policy covers use of information collected by Chimpoo.com 
-
-Games2win.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program only covers information collected on www.chimpoo.com and does not cover information that may be collected through other Web sites owned or controlled by us or through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
-
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [chimpoo@chimpoo.com](mailto:chimpoo@chimpoo.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 As described in this Privacy Policy, we directly collect from child users during our initial registration process a parent's email address, the child's account name, and the child's password. When a Chimpoo.com child registrant acquires a paid membership, we may collect additional personally identifiable information ("PII") from the registrant's parent. The types of PII that may be collected at that time include the parent's full name, email address, and credit card billing information including mailing address.
 
