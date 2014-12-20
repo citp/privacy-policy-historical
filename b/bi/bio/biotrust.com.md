@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biotrust.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625232358id_/https%3A//www.biotrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biotrust.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220125042id_/http%3A//www.biotrust.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BioTRUST
 
@@ -89,8 +89,9 @@ This policy was last modified on **10/26/12**
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 www.biotrust.com  
-410 Marina Village Cove  
-Austin, TX 78734  
+BioTrust Nutrition, LLC  
+111 Congress Ave; Suite 400  
+Austin, TX 78701  
 USA  
 support@nullbiotrust.com  
 1-800-766-5086
