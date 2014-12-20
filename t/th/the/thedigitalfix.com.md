@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedigitalfix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625150234id_/http%3A//www.thedigitalfix.com/content/id/25/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedigitalfix.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220051230id_/http%3A//thedigitalfix.com/content/id/25/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Misc Content | The Digital Fix
 
