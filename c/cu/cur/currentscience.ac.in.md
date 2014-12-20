@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407001727id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220185823id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
 
 # Current Science - Privacy Policy
 
 Guest Editorial
 
-Science in the service of a symbiotic society  
-Madhav Gadgil
+Who owns India?  
+Gopalkrishna Gandhi
 
-In Hind Swaraj, the book that outlined his social and economic philosophy Mahatma Gandhi unfortunately re-jected modern science, technology and industrialization....
+Continents are nature’s work; countries that of man. Con-tinents are made by time working on land and sea, ice and rock. Time uses a very blunt chisel and a heavy hammer...
 
-[...read more](https://web.archive.org/web/20140407001727id_/http%3A//www.currentscience.ac.in/php/Volumes/106/06/0787.pdf)
+[...read more](https://web.archive.org/web/20141220185823id_/http%3A//www.currentscience.ac.in/php/Volumes/107/11/1775.pdf)
 
 Privacy Policy
 
