@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paidviewpoint.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141255id_/http%3A//paidviewpoint.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidviewpoint.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220050843id_/http%3A//paidviewpoint.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - PaidViewpoint
 
@@ -57,7 +57,7 @@ Your demographics and specific answers to questions in surveys or PV contests wi
 
 Our Site includes links to other Web sites whose privacy practices may differ from those of Umongous. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
-We may learn your name on certain other occasions, but we do not then store it within PV databases or use it for any other purpose than to resolve a customer support issue initiated by you. For instance, if you send us an email, your name may be revealed to us in your email address, or because you have used your name in your email. If you post a message on our [Get Satisfaction](http://getsatisfaction.com/paidviewpoint) page you may choose to sign it with your real name. We do not encourage you to publicly reveal your name even though no third parties will be able to see your registration demographics or other personal information. When we send you money by PayPal.com, your name may be revealed to us in our Paypal account but we will not transfer your name from there to the PV database. 
+We may learn your name on certain other occasions, but we do not then store it within PV databases or use it for any other purpose than to resolve a customer support issue initiated by you. For instance, if you send us an email, your name may be revealed to us in your email address, or because you have used your name in your email. We do not encourage you to publicly reveal your name even though no third parties will be able to see your registration demographics or other personal information. When we send you money by PayPal.com, your name may be revealed to us in our Paypal account but we will not transfer your name from there to the PV database. 
 
 ### Customer Testimonials/Comments/Reviews/User Feedback
 
