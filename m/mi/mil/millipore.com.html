@@ -1,487 +1,3426 @@
-<!--The following is the downloaded HTML source of the millipore.com privacy policy that was archived on 2010-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100201124420id_/http%3A//www.millipore.com/ec/cp3/security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the millipore.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220103508id_/http%3A//www.emdmillipore.com/US/en/legal/privacy-statement/Y.2b.qB.iJsAAAFA8iYQWTDS%2Cnav%3FCategoryName%3D073013022335%26CategoryDomainName%3DMerck-content_catalog) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-		<!-- MILLIPORE.COM OK -->
-		<!-- dominoServer="" -->
-	 	<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="cache-control" content="no-cache">
-<meta http-equiv="cache-control" content="no-store">
-<meta http-equiv="expires" content="0">
-<meta http-equiv="expires" content="Thursday, 11-Mar-99 18:31:30 GMT">
-<meta name="Keywords" content="">
-    <meta name="Description" content="Millipore's online security and privacy policy.">
-    <title>Millipore - Security and Privacy</title>
-	<script language="javascript" type="text/javascript" src="/js/flashobject.js"></script>
-<script language="javascript" type="text/javascript" src="/js/dom_helper.js"></script>
-<script language="javascript" type="text/javascript" src="/js/user_nav_conditional.js"></script>
-<script language="javascript">AC_FL_RunContent = 0;</script>
-<script language="javascript" type="text/javascript" src="/js/AC_RunActiveContent.js"></script>
+<!DOCTYPE html><html class="no-js  en" lang="en"><!--<![endif]--><head>
+<meta charset="utf-8">
+<title>Privacy Statement | EMD Millipore</title><meta name="description" content="EMD Millipore Privacy Statement"><meta name="viewport" content="width=device-width"><meta name="robots" content="noodp"><meta name="robots" content="noindex"><meta name="keywords" content="privacy statement, data privacy"> 
+ 
+<link href="/INTERSHOP/static/WFS/Merck-US-Site/-/-/en_CA/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
 
-<script language="javascript" type="text/javascript" src="/js/prototype.js"></script>
-<script language="javascript" type="text/javascript" src="/js/scriptaculous/scriptaculous.js"></script>
 
-<script language="javascript" type="text/javascript" src="/js/livepipe/livepipe.js"></script>
-<script language="javascript" type="text/javascript" src="/js/livepipe/window.js"></script>
-<script language="javascript" type="text/javascript" src="/js/window_factory.js"></script>
-<script language="javascript" type="text/javascript">var previousPage = "L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5"</script>
+ 
 
-<script type="text/javascript" language="JavaScript" src="/js/millipore.js"></script>
 
-<script language="javascript" type="text/javascript">
 
-	var unc=null;
-	var tsr=null;
-	var siteModal;
-	var siteModalMini;
-	var g_bInitAutocomplete = false;
-	var g_bInitAutocompleteForTechService = false;
+<script type="text/javascript">
+	var SYNCHRONIZER_TOKEN_VALUE = 'b273c48015dd40a56e2d63fd10e667dab0c04dd1b7c5c8bf676fd31899d13001';
+</script> 
+<!--[if lt IE 9]><script src="/INTERSHOP/static/WFS/Merck-US-Site/-/-/en_CA/bundles/js/merck-vendor-ie.min.js?lastModified=1419053740000"></script> 
+<![endif]-->
+<!--[if (IE 9)|!(IE)]><!--><script src="/INTERSHOP/static/WFS/Merck-US-Site/-/-/en_CA/bundles/js/merck-vendor.min.js?lastModified=1419053740000"></script> 
+<!--<![endif]-->
+		
+ 
+<link type="text/css" rel="stylesheet" href="/INTERSHOP/static/WFS/Merck-US-Site/-/-/en_CA/bundles/css/merck.min.css?lastModified=1419053740000" media="all"><link type="text/css" rel="stylesheet" href="/INTERSHOP/static/WFS/Merck-US-Site/-/-/en_CA/bundles/css/meerck-print.min.css?lastModified=1419053740000" media="print">
+<style type="text/css">
 
-	//Madhav : This function is used to enable typeahead
-	// for header search
-	function initAutocomplete() {
-		  
-	        if ( g_bInitAutocomplete == true )
-	            return;
-	        
-	    new Ajax.Autocompleter("q","autocomplete","/pages/fast/typeahead.jsp", {
-	        tokens:',',
-	        minChars: 2,
-	        afterUpdateElement: function() {
-	            searchByCat();
-	        }
-	    });
-	    
-	    g_bInitAutocomplete = true;
-	
-	}
-
-	//Madhav : This function is used for enabling typeahead for CatalogNumber 
-	// in tech services. 
-	// Note that the autocompleter constructor has no tokens element
-    function initAutocompleteForTechService(form) {        
-        if ( g_bInitAutocompleteForTechService == true )
-            return;
-        
-    new Ajax.Autocompleter("catalogNbr","autocompleter","/pages/techservices/typeahead.jsp", {        
-        minChars: 2,        
-        afterUpdateElement: function() {
-    	getSKU(form);
-        }
-    });
-    
-    g_bInitAutocompleteForTechService = true;
-
+.mega-menu >li {
+    float:left;
+    display:block;
+    text-align:center;
+    position:relative;
+    margin:3px 0px 0;
+    border:none;
 }
 
-	
-	function init() {
-	
-		initSiteModal();
-		initSiteModalMini();
-		
-		initCartAndFavs();
-		setPreviousPage();
-		unc=new user_nav_conditional();
+.mega-menu >li >a {
+    display:block;
+    outline:0;
+    text-decoration:none;
+    border-bottom:1px solid;
+    padding:2px 10px;
+}
 
-		// Required to hide/unhide billing_details
-		billingchk();
+.dropdown {
+	margin: -1px auto 0 -50px;
+	float: left;
+	position: absolute;
+	text-align: left;
+	padding: 10px 5px 10px 5px;
+	border: 1px solid #dedede;
+	background: #fff;
+	z-index: 999;
+	display: none;
+}
 
-		// call specific method from include page
-		if (window.initSub) {
-			initSub();
-		}
-		
-		
-    }
+.dropdownMarketingContent{
+	display: none;
+}
+</style>
 
-	function getOmnitureFeedbackSurveyId()
-	{
-		
-        return "2421"
-	}
-
-</script>
-<style type="text/css" media="screen">
-	
-		@import url(/css/company.css);
-	
-	
-		@import url(/css/global.css);
-		@import url(/css/text.css);
-		@import url(/css/window.css);
-		
+	<style>
+		input.placeholder                { color: #aaa; } /* All browsers */
+		::-webkit-input-placeholder { color: #aaa; } /* WebKit */
+		:-moz-placeholder           { color: #aaa; } /* Firefox 4+ */
 	</style>
-<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
-<link rel="stylesheet" href="/css/text.css" type="text/css" media="print">
 
-<link rel="shortcut icon" href="/favicon.ico">
-<link rel="icon" href="/favicon.ico"></head>
-	<body onload="init();">
-	<!-- Start: wrapper -->
- 		<div id="wrapper">
- 			<div id="siteModal" class="modal" style="display:none;"></div>
- 			<div id="siteModalMini" style="display:none;"></div>
- 			<div id="modal_loading" style="display:none;"><img src="/assets/images/fst/ajax_loader.gif"></div>
- 			
-		  	<!-- Start: header -->
-		  	<!-- Start: header -->
-			<div id="header">
-				<a href="/index.do" id="milliporeLogo"><img alt="Millipore Home" title="Millipore Home" src="/assets/images/global/logo-millipore.gif"><span>Millipore Home</span></a>
-				<!-- Start: account -->
-				<div id="account">
-				    <ul id="userNav">
-					<li><a href="#" id="unclinkLogin">Login</a></li>
-							<span>|</span>
-							<li><a href="/accounts/register.do">Register</a></li>
-						<span>|</span>
-							<li><a href="#" id="unclinkAccount">My Account</a></li>
-						<span>|</span>
-						<li><a href="/ec/cart.do">Shopping Cart</a></li>
-						<span>|</span>
-						<li><a href="/ec/cp3/help">Help</a></li>
-						</ul>
-					<!-- Start: user_nav_conditional - Login -->
-						<div class="user_nav_conditional login_box" id="userNavConditionalLogin">
-							<form name="loginForm" method="POST" action="/login-action.do">
-								<!-- TODO: span>*User Name/Password Not Recognized</span -->
-								<span>Username:</span><input type="text" name="userName" value="" class="field" tabindex="1/">
-								<span>Password:</span><input type="password" name="userPassword" value="" class="field" tabindex="2/">
-								<input type="hidden" name="returnUrl" value="https://web.archive.org/web/20100201124420id_/http%3A//www.millipore.com/ec/cp3/security">
-								<script language="JavaScript"> 
-								<!--
-									document.loginForm.returnUrl.value = location.href;
-								//-->
-								</script>
-								
-								<input type="submit" name="actionName" value="Login" class="submit"></form>
-						</div>
-						<!-- Start: user_nav_conditional - My Account -->
-					<div class="user_nav_conditional" id="userNavConditionalAccount">
-						<ul id="userNavSub">
-							<li><a href="/accounts/quicklist.do">My Favorites</a></li>
-							<li><a href="/ec/millitrack.do">Track Order</a></li>
-							<li><a href="/ec/quickpurchase.do">Quick Purchase</a></li>
-							<li><a href="/accounts/accountprofile.do">My Account Profile</a></li>
-							<li><a href="/press/pr3/rss_feeds_podcasts">My RSS Feeds</a></li>
-						</ul>
-					</div>
-					<!-- Start: user_nav_conditional - Shopping Cart -->
-					<div class="user_nav_conditional" id="userNavConditionalCart">
-					</div>
-					<!-- Start: user_nav_conditional - Help -->
-					<div class="user_nav_conditional" id="userNavConditionalHelp">
-					</div>
-					<!-- Start: user_nav_conditional - Region -->
-					<div class="user_nav_conditional" id="userNavConditionalRegion">
-					</div>
-				</div>
-				<!-- End: account -->
-				<div id="topSearch">
-					
-					<form method="GET" name="search" action="/searchsummary.do">
-						<div class="serach_btn">
-							<span><a href="javascript:searchByCat();">GO</a></span>
-						</div>
-						<select name="tabValue" class="field" onkeypress="doOnEnter(event);">
-							<option value="">Entire site</option>
-							<option value="PC">Product Catalogue</option>
-						<option value="TLB">Technical Library</option>
-						<option value="LC">Learning Center</option>
-						<option value="PS">Press Room</option>
-						<option value="OTH">Other</option>
-						</select>
-						
-						<!-- input type="text" name="q" id="q" class="field" maxlength="500" autocomplete="off"/ -->
-						<input type="text" name="q" id="q" class="field" maxlength="500" autocomplete="off" onfocus="initAutocomplete();">
-						
-                        <!-- div id="autocomplete" class="autocomplete" style="display:none;"></div -->
 
-						<label>Search</label>
-						<div class="clear_right"></div>
-					</form>
-				</div>
+
+<!-- AnalyticsHeader -->
+<script type="text/javascript">//<![CDATA[
+window._scViewCategoryEvent = {
+  "category" : {
+    "id" : "Y.2b.qB.iJsAAAFA8iYQWTDS",
+    "name" : "073013022335",
+    "parent" : null,
+    "subCategories" : [ ]
+  },
+  "pageName" : "category",
+  "pageType" : "category"
+};
+ 
+
+//]]></script><!-- 
+Channel: Merck-US-Site
+Variant UUID: 372b.qB.BU8AAAFCC_4Xr7kb
+Variant ID: pg_20131203_163734 
+Catalog: content_catalog
+Category: 073013022335
+Category Path: content_catalog/legal-nav-id/073013022335
+--> 
+</head>
+<body> 
+<div class="container_12 clearfix"><header id="hdr" class="width_12 ">
+
+
+
+<!-- Modules -->
+<!-- ismodule DatePrint -->
+
+
+
+
+
+
+<!-- iscache type="forbidden" -->
+
+
+<section class="cookie-section">
+	<div class="cookie-container" style="display: none;">
+		
+	</div>
+</section>
+
+	
+
+
+<div id="pdp_print_date" style="display:none; text-align: right;"></div>
+<section class="header-section">
+<div class="site-logo">
+	
+<a rel="home" href="http://www.emdmillipore.com:80/US/en">
+
+	 <img src="/INTERSHOP/static/WFS/Merck-US-Site/-/-/en_CA/images/logo2.png" alt="Logo">
+
+</a>
+</div>
+
+	
+
+
+
+	
+
+
+<nav class="top-nav">
+	<ul>
+		<li>
+			
+				<a id="countrySelector" class="US open-as-modal-mandatory" trackingtype="layerview" trackingparam="Functional" trackingvalue="SiteWideCountrySelector" href="http://www.emdmillipore.com:80/US/en/systempage.country.selection.pagelet2-systempage.country.selection">
+					United States
+				</a>
+				/
+				English
+			
+		</li>
+		
+		
+		<li><a href="https://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/QuickPurchase-Start">Quick Purchase</a></li>
+		
+              <li>
+              		<a href="http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewWishlist-ViewAll">My Favorites</a>
+              </li>
+       	
+       	
+			<a class="open-as-modal" id="contactUsHeaderLink" data-context-sensitive="true" trackingtype="layerview" trackingparam="Functional" trackingvalue="SiteWideContactUs" href="http://www.emdmillipore.com:80/US/en/systempage.contactus.pagelet2-systempage.contactus">Contact Us</a>
+		
+	</ul>       		
+</nav>
+
+
+	<gridparametergenerator><section class=" search-box search-context ui-front ">
+<form class="search" role="search" name="Search_2wKb.qB.2uUAAAE__REHTp9S" action="http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewParametricSearch-SimpleOfferSearch" method="get">
+<input type="hidden" name="search" value="">
+<!-- Search type - pagelet id --> 
+<input type="hidden" name="TrackingSearchType" value="SB - Search Box"><select class="searchContext" name="SearchContextPageletUUID"><option value="">All</option>
+<option value="Eteb.qB.MacAAAFAIkQEM3Pp" class="contextOptionGroup">Analytics and Sample Preparation</option>
+<option value="btyb.qB.jdYAAAFAVSkEM3Pt" class="contextOptionGroup">Biopharmaceutical Manufacturing</option>
+<option value="_dWb.qB.SiUAAAFA8pIEM3P1" class="contextOptionGroup">Industrial Microbiology</option>
+<option value="TXyb.qB.j0QAAAFA3KUEM3P2" class="contextOptionGroup">IVD/OEM Kits, Materials and Reagents</option>
+<option value=".eyb.qB.QLwAAAFA2lcEM3Pm" class="contextOptionGroup">Life Science Research </option>
+<option value="71mb.qB.utsAAAFAaNAEM3Pr" class="contextOptionGroup">Reagents, Chemicals and Labware</option>
+<option value="OB2b.qB.ot4AAAFAHHgEM3Pu" class="contextOptionGroup">Small Molecule Pharmaceuticals</option>
+<option value="kIeb.qB.6SEAAAFAYS0EM3Po" class="contextOptionGroup">Water Purification</option></select><input type="text" id="searchTerm_2wKb.qB.2uUAAAE__REHTp9S" data-search-suggest="data-search-suggest" data-suggest-delay="400" name="SearchTerm" value="" data-default-value="Search product, CAS, keyword, ..." placeholder="Search product, CAS, keyword, ...">
+<button type="submit" name="search" title="Search">Search</button></form>
+</section>
+
+
+<nav class="store-nav">
+	
+	<ul>
+		 
+<li>
+<div class="">
+<form method="post" action="https://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewUserAccount-ShowLogin?TargetPipelineAfterLogin=Default-Start&amp;TargetPipeline=Default-Start" id="ShowLoginFormRedirectToLogin"> 
+<input type="hidden" name="currentURL" id="currentURL" value=""> 
+</form> 
+<a href="#" id="submitShowLoginForm">Login</a> 
+</div>
+</li>
+<li>
+<div>
+<a href="https://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewUserAccount-ShowRegister">Register</a>
+</div>
+</li> 
+
+		<input type="hidden" name="ProductCompareRefIDs" id="ProductCompareRefIDs" value="[]">
+<li>
+<div class="compare-products"><span id="text_nosOfProductOnPage">0</span><div class="compare-link" style="display:none;">
+<a href="http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewProductCompare-Show" id="compareProductId" class="compare-open-as-modal" trackingtype="layerview" trackingparam="Functional" trackingvalue="SiteWideProductCompare">Compare</a>
+</div>
+<div class="compare-label" style="display:inline-block;">
+<a id="labelForProductCompareLink" style="text-decoration: none; color: black; cursor: default;" class="tooltip" data-tooltip-config-maxwidth="300" data-tooltip-config-position="bottom-left" data-tooltip-config-trigger="click" data-tooltip-config-content="compareMinProductsErrorMessage" onclick="javascript:return false;">Compare</a>
+</div>
+<div id="compareMinProductsErrorMessage" style="display:none">
+<a class="close-button" onclick="javascript:return $.fn.compareErrorCloseClicked('labelForProductCompareLink');">close</a>
+<p>Please select at least two items to compare</p>
+</div> 
+<input type="hidden" id="productCompareFlag" value="">
+<input type="hidden" id="nosOfProductOnPage" value="0">
+</div>
+</li>
+		
+<li>
+<div class="mini-cart-tab"><span id="mini-cart-tab-total-count">0</span>
+<a href="#">Cart</a> 
+</div>
+</li>
+<li> 
+</li>
+	</ul>
+	
+	<section id="mini-login" class="mini-login"></section>
+	<section id="mini-cart" class="mini-cart">
+		 
+	</section>
+</nav>
+<nav class="mega-nav">
+	<!-- iscache type="daily" hour="0" minute="0" -->
+
+
+
+
+
+<ul class="mega-menu" data-dynamic-block-id="tLWb.qB.wvgAAAFAj0VoM0vN">
+	 <li>
+		<a href="http://www.emdmillipore.com:80/US/en">Home</a>
+	 </li>
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- End of Code change for BR-6166-->
+
+<li class="level0 cascading-catalog"> <!-- level 0 -->
+
+	<!-- Updated href for BR-6166-->
+	<!-- Updated the a href to generate a valid ISH link under BR-6166 -->
+	<a href="http://www.emdmillipore.com:80/US/en/products/vMqb.qB.GdEAAAE_Mhd3.Lxj,nav?CategoryName=000000260000d30c00010023&amp;CategoryDomainName=Merck-MerckMillipore">
+		Products
+		
+			
+		
+	</a>
+	
+		<div class="dropdown showmenu">
+			<ul> <!-- level 1 -->
 				
-				<div class="clear_right"></div>
-				<ul id="mainNav" class="en">
-					<li class="first"><a href="/index.do">Home</a></li>
-					<li><a href="/catalogue/index.do">Products</a></li>
-					<li><a href="/services/svcs/services">Services</a></li>
-					<li><a href="/company/ms2/learningcenter">Learning Center</a></li>
-					<li><a href="/techlibrary/index.do">Tech Library</a></li>
-					<li><a href="/company/sup3/support">Support</a></li>
-					<li><a href="/company/cp4/companyinformation" class="current">Company</a></li>
-					<div class="clear"></div>
-				</ul>
-				<div class="clear"></div>
-			</div>
+					<li class="level1">
+					
+				
+							<a href="http://www.emdmillipore.com:80/US/en/products/analytics-sample-prep/YUCb.qB.amIAAAE_fOt3.Lxi,nav">
+								
+									Analytics and Sample Preparation
+								
+							</a>
+		
+						<div class="dropdown">
+							<ul> <!-- level 2 -->
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/analytics-sample-prep/chromatography-for-analysis/4aOb.qB.GMkAAAE_NeF3.Lxi,nav">
+											
+												Chromatography for Analysis
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/analytics-sample-prep/analytical-sample-preparation/qsib.qB.npAAAAE_sAR3.Lxj,nav">
+											
+												Analytical Sample Preparation
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/analytics-sample-prep/reagents-pharmacopoeia-analysis/2BKb.qB.LuYAAAE_xO13.Lxi,nav">
+											
+												Reagents for Pharmacopoeia Analysis
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/analytics-sample-prep/reference-materials/Lumb.qB.Wn4AAAE_IPB3.Lxi,nav">
+											
+												Reference Materials
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/analytics-sample-prep/spectroscopy/M7Ob.qB.fbkAAAE_lQV3.Lxj,nav">
+											
+												Spectroscopy
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/analytics-sample-prep/test-kits-and-photometric-methods/.gSb.qB.srcAAAE_Of53.Lxi,nav">
+											
+												Test Kits and Photometric Methods
+											
+										</a>
+							
+									</li>
+								
+							</ul>
+	
+												
+							
+							
+							<div class="dropdownMarketingContent">							
+								
+									
+											<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
 
-			<!-- Start: userModule -->
-				<div class="source_content" id="favs_content">
-	Content Loading...</div>
-<div class="source_content" id="cart_content">
-	Content Loading...</div>
-<div id="userModule" class="en">
-	<div class="cart">
-		<a href="#" id="cart_btn"><span>Your Cart</span></a>
-		<p><a href="/ec/cart.do">0 Items</a></p>
-			</div>
-	<div class="favorites">
-		<a href="#" id="fav_btn"><span>Favorites</span></a>
-		<p><a href="/accounts/quicklist.do">0 Items</a></p>
-			</div>
-	<div class="clear"></div>
-	<div id="lastItem">
-		<span>Last Item Added:</span> 
-		<span class="item_name">
-			0 Items</span>
-	</div>
+<div style="position: absolute; bottom: 14px; right: -80px; z-index: 0;">
+<img width="160" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/asp-chromolith-highresolution.png"></div>
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Chromolith® HighResolution</div>
+<div style="margin-top: 4px;color: #999999; position: relative;">The faster way to trouble- free high resolution separations.</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/products/analytics-sample-prep/chromatography-for-analysis/analytical-hplc/chromolith-hplc-columns/Rk2b.qB.cMMAAAE_hPB3.Lxi,nav">Learn More</a></div>
 </div>
-<div class="window" id="cart_and_favs_win">
-	<div id="cart_and_favs_win_content">
-			Content Loading...</div>
-	<div id="cart_edit">
-		<a href="/ec/cart.do" class="block_link">&nbsp;»&nbsp;EditYour Cart&nbsp;</a>
-	</div>
-	<div id="fav_edit">
-		<a href="/accounts/quicklist.do" class="block_link">&nbsp;»&nbsp;EditFavorites&nbsp;</a>
-	</div>
-	<a href="#" id="cart_and_favs_close">» Close</a>
-</div><div class="clear"></div>
-				<div class="hr"></div>
-				<!-- End: header -->
-				<!-- Start: content -->
-				<div id="content">
-			<div id="globalLeftNav">
-			<!-- Start: filterResults -->
-<div id="filterResults">
-	<div class="filter_module collapsible_container open">
-		<a class="collapsible_controller">Company Information</a>
-		<ul>
-			<li><a href="/company/cp4/companyinformation">Company Information</a></li>
-			<li><a href="/company/cp3/company_information">About Millipore</a></li>
-			<li><a href="/company/ir3/investor_relations">Investor Relations</a></li>
-			<li><a href="/careers/hr2/careershome">Careers</a></li>
-			<li><a href="/press/pr/press_room">Media Room</a></li>
-			<li><a href="/sustainability/eco3/home">Sustainability</a></li>
-			<li><a href="/corporategiving/mf3/corporate_giving">Corporate Giving Program</a></li>
-			<li><a href="/company/cq3/corporate_quality">Quality Assurance &amp; Regulatory Affairs</a></li>
+
+<br>
+
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;">
+<img width="80" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/asp-mquant-test-strips.png"></div>
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">MQuant™ Test Strips</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Fast determination of ions, organic and inorganic substances.</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/products/analytics-sample-prep/test-kits-and-photometric-methods/visual-tests-for-semi-quantitative-analyses/test-strips-mquant/q42b.qB.2.IAAAE_CBZ3.Lxj,nav">Learn More</a></div>
+</div></section>
+
+								 		
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+							</div>
+						</div>
+					</li>
+				
+					<li class="level1">
+					
+				
+							<a href="http://www.emdmillipore.com:80/US/en/products/biopharmaceutical-manufacturing/X.6b.qB.o_UAAAE_uwt3.Lxj,nav">
+								
+									Biopharmaceutical Manufacturing
+								
+							</a>
+		
+						<div class="dropdown">
+							<ul> <!-- level 2 -->
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/biopharmaceutical-manufacturing/upstream-processing/coWb.qB.phQAAAE_LPd3.Lxi,nav">
+											
+												Upstream Processing
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/biopharmaceutical-manufacturing/harvest/UsWb.qB.A2oAAAE_TQ53.Lxj,nav">
+											
+												Harvest
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/biopharmaceutical-manufacturing/downstream-processing/_Dab.qB.zZYAAAE_CfZ3.Lxi,nav">
+											
+												Downstream Processing
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/biopharmaceutical-manufacturing/drug-substance/HhGb.qB.Y7EAAAFDUAF4saSR,nav">
+											
+												Drug Substance
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/biopharmaceutical-manufacturing/formulation/4aKb.qB.Y7MAAAFDUAF4saSR,nav">
+											
+												Formulation
+											
+										</a>
+							
+									</li>
+								
+							</ul>
+	
+												
+							
+							
+							<div class="dropdownMarketingContent">							
+								
+										
+								
+									
+											<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/biop-application-guide.jpg" border="0" width="66"></div>
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Biopharm Application Guide</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Find the products and services for your process.</div>
+<div style="bottom: 10px; position: absolute;"><a href="http://www.emdmillipore.com:80/US/en/20140910_175917" class="button">Learn More</a></div>
+</div>
+<br>
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/biop-chromabolt.png" border="0" width="38"></div>
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Chromabolt® prepacked columns</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Free up your time and resources with Chromabolt® prepacked chromatography columns.</div>
+<div style="bottom: 10px; position: absolute;"><a href="http://www.emdmillipore.com:80/US/en/products/biopharmaceutical-manufacturing/downstream-processing/chromatography/prepacked-columns/chromabolt-column/08ib.qB.IFkAAAFDrFN4saSR,nav" class="button">Learn More</a></div>
+</div></section>
+
+								 		
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+							</div>
+						</div>
+					</li>
+				
+					<li class="level1">
+					
+				
+							<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/3Vyb.qB.B4YAAAE_0AZ3.Lxj,nav">
+								
+									Industrial Microbiology
+								
+							</a>
+		
+						<div class="dropdown">
+							<ul> <!-- level 2 -->
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/bioburden-testing/.leb.qB.xg8AAAE_M_B3.Lxi,nav">
+											
+												Bioburden Testing
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/culture-media/dLWb.qB.5kgAAAFAX8JkiQpx,nav">
+											
+												Culture Media
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/environmental-monitoring/HlOb.qB..70AAAFAAMRkiQpx,nav">
+											
+												Environmental Monitoring
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/indicator-organisms-for-food-and-beverage-industry/2Myb.qB.01kAAAFDR4hUTxI8,nav">
+											
+												Indicator Organisms for Food &amp; Beverage Industry
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/media-fills/eASb.qB.UWwAAAE_WBV3.Lxj,nav">
+											
+												Media Fills
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/mycoplasma-testing/smab.qB.KmkAAAFA91k.1bqG,nav">
+											
+												Mycoplasma Testing
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/pathogen-and-spoilage-testing/ct.b.qB.yWoAAAFAz7NkiQpx,nav">
+											
+												Pathogen &amp; Spoilage Testing
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/pyrogen-testing/QSub.qB.FeYAAAE_qgV3.Lxj,nav">
+											
+												Pyrogen Testing
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/sterility-testing/wPeb.qB.Vt0AAAE_xQt3.Lxj,nav">
+											
+												Sterility Testing
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/microbiology-services/6mGb.qB.yR0AAAE_rvl3.Lxi,nav">
+											
+												Microbiology Services
+											
+										</a>
+							
+									</li>
+								
+							</ul>
+	
+												
+							
+							
+							<div class="dropdownMarketingContent">							
+								
+										
+								
+										
+								
+									
+											<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/im-team-experts.gif" border="0" width="60"></div>
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Your personal team of experts</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Optimize your QC lab workflow and ensure regulatory compliance.</div>
+<div style="bottom: 10px; position: absolute;"><a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/microbiology-services/6mGb.qB.yR0AAAE_rvl3.Lxi,nav" class="button">Learn More</a></div>
+</div>
+<br>
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/im-steritest-symbio-pumps.jpg" border="0" width="75"></div>
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Steritest™ Symbio Pumps</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Sterility Testing Made Easy with NEW Steritest™ Symbio Pumps</div>
+<div style="bottom: 10px; position: absolute;"><a href="http://www.emdmillipore.com:80/US/en/products/industrial-microbiology/sterility-testing/sterility-testing-hardware/XGub.qB.fPEAAAE_YA53.Lxj,nav" class="button">Learn More</a></div>
+</div></section>
+
+								 		
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+							</div>
+						</div>
+					</li>
+				
+					<li class="level1">
+					
+				
+							<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/6EGb.qB.DWUAAAE_APZ3.Lxi,nav">
+								
+									IVD/OEM Materials and Reagents
+								
+							</a>
+		
+						<div class="dropdown">
+							<ul> <!-- level 2 -->
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/bulk-and-custom-antibodies/Auyb.qB.zmUAAAE_L.R3.Lxi,nav">
+											
+												Bulk and Custom Antibodies
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/oem-membranes/L.eb.qB.TUMAAAE_L_53.Lxi,nav">
+											
+												OEM Membranes
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/anaerobic-system/D8Gb.qB.8dkAAAFAlLNkiQpx,nav">
+											
+												Anaerobic System
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/clinical-diagnostics-and-research/0bGb.qB.smcAAAFAWbRkiQpx,nav">
+											
+												Clinical Diagnostics and Research
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/contract-manufacturing-services/MKWb.qB.GdIAAAE_Mhd3.Lxj,nav">
+											
+												Contract Manufacturing Services
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/urine-testing/xKCb.qB.hyIAAAFARrRkiQpx,nav">
+											
+												Urine Testing
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/microscopy/qpab.qB.fnUAAAFAeMJkiQpx,nav">
+											
+												Microscopy
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/polymeric-microspheres-and-magnetic-beads/EtOb.qB.4EIAAAE_pPl3.Lxi,nav">
+											
+												Polymeric Microspheres and Magnetic Beads
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/lateral-flow-membranes/n6mb.qB.L0YAAAE_gut3.Lxi,nav">
+											
+												Lateral Flow Membranes
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/blood-typing/Amab.qB.xNoAAAE_Kfd3.Lxi,nav">
+											
+												Blood Typing
+											
+										</a>
+							
+									</li>
+								
+							</ul>
+	
+												
+							
+							
+							<div class="dropdownMarketingContent">							
+								
+										
+								
+										
+								
+										
+								
+									
+											<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;">
+<img width="66" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/ivd-reagents-manufacturing.png"></div>
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Reagents for IVD Manufacturing</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Primary and secondary antibodies, blockers and custom services.</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/bulk-and-custom-antibodies/Auyb.qB.zmUAAAE_L.R3.Lxi,nav">Learn More</a></div>
+</div>
+
+
+<br>
+
+
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 6px; right: 8px; z-index: 0;">
+<img width="60" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/ivd-microfiltration-membranes.png"></div>
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Microfiltration Membranes</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Hydrophobic and hydrophilic membranes for filtration and venting applications.</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/products/ivd-oem-materials-reagents/oem-membranes/microfiltration-oem-membranes/GZGb.qB.uigAAAE_RPB3.Lxi,nav">Learn More</a></div>
+</div></section>
+
+								 		
+								
+										
+								
+										
+								
+										
+								
+										
+								
+							</div>
+						</div>
+					</li>
+				
+					<li class="level1">
+					
+				
+							<a href="http://www.emdmillipore.com:80/US/en/products/life-science-research/wuCb.qB.ULIAAAFA4KtkiQpx,nav">
+								
+									Life Science Research
+								
+							</a>
+		
+						<div class="dropdown">
+							<ul> <!-- level 2 -->
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/life-science-research/antibodies-assays/0JSb.qB.n2EAAAFAC7lkiQpx,nav">
+											
+												Antibodies and Assays
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/life-science-research/inhibitors-and-biochemicals/esGb.qB.HRgAAAFAErlkiQpx,nav">
+											
+												Inhibitors and Biochemicals
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/life-science-research/drug-discovery-and-development/cECb.qB.z9EAAAFALLlkiQpx,nav">
+											
+												Drug Discovery and Development
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/life-science-research/proteins-enzymes/cr.b.qB.9b8AAAFA4rpkiQpx,nav">
+											
+												Proteins and Enzymes
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/life-science-research/protein-detection-and-quantification/7zab.qB.q8cAAAFAqbxkiQpx,nav">
+											
+												Protein Detection and Quantification
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/life-science-research/cell-analysis/98ab.qB.oIIAAAFABLlkiQpx,nav">
+											
+												Cell Analysis
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/life-science-research/cell-culture-and-systems/pceb.qB.kagAAAFACLlkiQpx,nav">
+											
+												Cell Culture and Systems
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/life-science-research/genomic-analysis/asGb.qB.4s8AAAFAqLxkiQpx,nav">
+											
+												Genomic Analysis
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/life-science-research/protein-sample-preparation/fnOb.qB.F5QAAAFAGLlkiQpx,nav">
+											
+												Protein Sample Preparation
+											
+										</a>
+							
+									</li>
+								
+							</ul>
+	
+												
+							
+							
+							<div class="dropdownMarketingContent">							
+								
+										
+								
+										
+								
+										
+								
+										
+								
+									
+											<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 0; right: 0; z-index: 0;">
+<img width="66" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/lsr-smartrnaplex-microrna-profiling.png"></div>
+
+<div style="color: #33ccff; font-weight: bold; position: relative;">SmartRNAplex microRNA profiling</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">More plex than qPCR. More samples than microarrays. Find the miRs that matter.</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/life-science-research/genomic-analysis/smartrnaplex-microrna-profiling-assays/YVKb.qB.GQwAAAFCS.0DhDjE,nav">Learn More</a></div>
+</div>
+
+<br>
+
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;">
+<img width="50" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/lsr-cells-gone-wild.png"></div>
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Cells Gone Wild!</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Control the action with CellASIC™. Watch Live video.</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/life-science-research/cell-culture-systems/cellASIC-live-cell-analysis/videos-images/HmOb.qB.wAkAAAFBnDNb3.sM,nav">Learn More</a></div>
+</div></section>
+
+								 		
+								
+										
+								
+										
+								
+										
+								
+							</div>
+						</div>
+					</li>
+				
+					<li class="level1">
+					
+				
+							<a href="http://www.emdmillipore.com:80/US/en/products/reagents-chemicals-labware/jEyb.qB.xZ4AAAE_X_x3.Lxi,nav">
+								
+									Reagents, Chemicals and Labware
+								
+							</a>
+		
+						<div class="dropdown">
+							<ul> <!-- level 2 -->
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/reagents-chemicals-labware/cleaning-of-lab-equipment/Qwyb.qB.o9sAAAE_mwV3.Lxj,nav">
+											
+												Cleaning of Lab Equipment
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/reagents-chemicals-labware/inorganic-reagents/zzKb.qB.6tAAAAE_vQt3.Lxj,nav">
+											
+												Inorganic Reagents
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/reagents-chemicals-labware/lab-filtration/q06b.qB.NgQAAAE_WxV3.Lxj,nav">
+											
+												Lab Filtration
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/reagents-chemicals-labware/organic-synthesis/22qb.qB.zsgAAAE_5wZ3.Lxj,nav">
+											
+												Organic Synthesis
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/reagents-chemicals-labware/peptide-and-ht-organic-synthesis/g0Cb.qB.y4YAAAE_rfl3.Lxi,nav">
+											
+												Peptide and HT Organic Synthesis
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/reagents-chemicals-labware/solvents/yqWb.qB.kuQAAAE_Sw53.Lxj,nav">
+											
+												Solvents
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/reagents-chemicals-labware/Research-Biochemicals/V1ib.qB.XMIAAAFFQggcVtxh,nav">
+											
+												Research Biochemicals
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/reagents-chemicals-labware/Labware/hbWb.qB.6ogAAAFFPwgcVtxh,nav">
+											
+												Labware
+											
+										</a>
+							
+									</li>
+								
+							</ul>
+	
+												
+							
+							
+							<div class="dropdownMarketingContent">							
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+									
+											<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">SupraSolv®</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Solvents for Headspace GC analysis of residual solvents.</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/products/reagents-chemicals-labware/solvents/yqWb.qB.kuQAAAE_Sw53.Lxj,nav">Learn More</a></div>
+</div>
+
+<br>
+
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 0px; right: 8px; z-index: 0;">
+<img width="100" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/rcl-emsure.jpg"></div>
+
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">More than sure</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Choose EMSURE®</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/20140401_114830">Learn More</a></div>
+</div></section>
+
+								 		
+								
+										
+								
+							</div>
+						</div>
+					</li>
+				
+					<li class="level1">
+					
+				
+							<a href="http://www.emdmillipore.com:80/US/en/products/small-molecule-pharmaceuticals/G4Ob.qB.no8AAAE_sAR3.Lxj,nav">
+								
+									Small Molecule Pharmaceuticals
+								
+							</a>
+		
+						<div class="dropdown">
+							<ul> <!-- level 2 -->
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/small-molecule-pharmaceuticals/api-synthesis/mRqb.qB.KssAAAE_ngV3.Lxj,nav">
+											
+												API Synthesis
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/small-molecule-pharmaceuticals/bulk-api/ly2b.qB.J9kAAAE_vAR3.Lxj,nav">
+											
+												Bulk API
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/small-molecule-pharmaceuticals/purification-of-pharm-drugs/BY6b.qB.AsEAAAFDUQF4saSR,nav">
+											
+												Purification of Pharm Drugs
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/small-molecule-pharmaceuticals/formulation/qSmb.qB.EZgAAAE_x.13.Lxi,nav">
+											
+												Formulation
+											
+										</a>
+							
+									</li>
+								
+							</ul>
+	
+												
+							
+							
+							<div class="dropdownMarketingContent">							
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+									
+											<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 4px; right: 8px; z-index: 0;">
+<img width="66" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/smp-emprove.png"></div>
+
+<div style="color: #999999; position: relative;">
+Increase your pharma raw materials know-how with <strong style="color: #33ccff;">EMPROVE®</strong> ready-to-use regulatory documentation.
+</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/emprove-qualification/9qmb.qB.T_gAAAFDRclUTz7y,nav">Learn More</a></div>
+</div>
+
+<br>
+
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 6px; right: 8px; z-index: 0;">
+<img width="66" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/smp-bioavailability.png"></div>
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Bioavailability</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Improve your score rate with enhanced bioavailability.</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/bioavailability/V2ib.qB.0SAAAAFDQwdUTzVk,nav">Learn More</a></div>
+</div></section>
+
+								 		
+								
+										
+								
+										
+								
+							</div>
+						</div>
+					</li>
+				
+					<li class="level1">
+					
+				
+							<a href="http://www.emdmillipore.com:80/US/en/products/water-purification/xWqb.qB.E3QAAAE_Rg53.Lxj,nav">
+								
+									Water Purification
+								
+							</a>
+		
+						<div class="dropdown">
+							<ul> <!-- level 2 -->
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/water-purification/type-1/5cSb.qB.89EAAAFAJqxkiQpx,nav">
+											
+												Type 1 (Ultrapure) Milli-Q Water Purification Systems
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/water-purification/type-2/2s6b.qB.PYQAAAFA_bJkiQpx,nav">
+											
+												Type 2 (Pure) Elix Water Purification Systems
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/water-purification/type-3/kS6b.qB.ciQAAAFAZKxkiQpx,nav">
+											
+												Type 3 (RO) RiOs Water Purification Systems
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/water-purification/biomedical/YKGb.qB.LDQAAAFAQLNkiQpx,nav">
+											
+												Biomedical (CLSI) AFS Water Purification Systems
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/water-purification/consumables/V1Ob.qB.3SgAAAFAUq9kiQpx,nav">
+											
+												Water Purification Consumables
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/water-purification/tanks-accessories/oIGb.qB.RL8AAAFAzbNkiQpx,nav">
+											
+												Water Purification Tanks and Accessories
+											
+										</a>
+							
+									</li>
+								
+									<li>
+								
+									<a href="http://www.emdmillipore.com:80/US/en/products/water-purification/water-purification-services/p7eb.qB.ZTsAAAE_B_Z3.Lxi,nav">
+											
+												Water Purification Services
+											
+										</a>
+							
+									</li>
+								
+							</ul>
+	
+												
+							
+							
+							<div class="dropdownMarketingContent">							
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+										
+								
+									
+											<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;">
+<img width="56" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/water-milli-q-integral.jpg"></div>
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Milli-Q® Integral</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Pure and Ultrapure water at your fingertips.</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/product/Milli-Q-Integral-Water-Purification-System,MM_NF-C72876?CatalogCategoryID=">Learn More</a></div>
+</div>
+
+<br>
+
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 6px; right: 8px; z-index: 0;">
+<img width="66" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/water-millitrack-esolutions.png"></div>
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Millitrack® e-Solutions</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">For optimized laboratory performance and remote access.</div>
+<div style="bottom: 10px; position: absolute;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/water-purification/millitrack-esolutions/qbWb.qB.YncAAAFDZAlh32M1,nav">Learn More</a></div>
+</div></section>
+
+								 		
+								
+							</div>
+						</div>
+					</li>
+				
 			</ul>
-	</div>
-<div id="topic_nav_menu">Loading...</div>
+
+					
+			<div class="dropdownMarketingContent"><section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 0px; right: -30px; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/main-innovation.png" border="0" width="120"></div>
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Innovation</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Innovations are the fundamental driver behind the growth and evolution<br>of our society!</div>
+<div style="position: absolute; bottom: 10px;"><a href="http://www.emdmillipore.com:80/US/en/about-us/innovation/dkOb.qB.FpwAAAFEOxwWq_U7,nav" class="button">Learn More</a></div>
 </div>
-<script language="JavaScript" type="text/javascript">
-	showLoadingMessage("topic_nav_menu");
-</script>
-<!-- End: filterResults --></div>
-		  
-			<!--  insert the body -->
-			<script language="javascript" type="text/javascript" src="/js/collapsible_containers.js"></script>
-<script language="JavaScript" type="text/javascript">
-	function initSub() {
-		initCollapsibleContainers();
-	}
-</script>
-
-<div id="findProduct">
-	<!-- BEGIN CONTENT PAGE -->
 <br>
-<h1>Security &amp; Privacy</h1><br>
-<font size="2" face="Arial">Millipore Security protocols adhere to the latest US and European standards; your information is encrypted during your e-commerce sessions with Millipore. </font><br>
-<br>
-<font size="2" face="Arial">We do not store credit card or purchasing card information on our web server, and do require a re-entry of the credit card number for each purchase. This is an added level of security, and helpful in laboratories or purchasing departments with multiple users of a central computer.  </font><br>
-<br>
-<font size="2" face="Arial">Security audits are conducted by third parties in order to further ensure security.</font><br>
-<br>
-<h6 class="gradient_bg">Millipore Online Privacy Policy</h6>
-<p><font size="2" face="Arial">This Policy relates only to our online information collection and use practices. At Millipore we recognize that many consumers who visit our web site are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy we have developed and implemented this Privacy Policy. This Policy relates only to our online information collection and use practices. As this policy may change from time to time, we encourage you to periodically check it. </font><br>
-<br><strong>In short, we do the following:</strong><br>
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/main-webinars.png" border="0" width="70"></div>
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Webinars &amp; Webcasts</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Learn about experimental tips &amp; troubleshooting strategies for using the latest technologies</div>
+<div style="position: absolute; bottom: 10px;"><a href="http://www.emdmillipore.com:80/US/en/20141125_172224" class="button">Learn More</a></div>
+</div></section></div>
 
-<br>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top"><td width="12"><font size="2" face="Arial">•</font></td><td width="596"><font size="2" face="Arial">We only collect personally identifiable information that you voluntarily and knowingly provide us.</font></td></tr>
-
-<tr valign="top"><td width="12"><font size="2" face="Arial">•</font></td><td width="596"><font size="2" face="Arial">We use the information that you provide us only for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent.</font></td></tr>
-
-<tr valign="top"><td width="12"><font size="2" face="Arial">•</font></td><td width="596"><font size="2" face="Arial">We do not share any information you provide us with anyone outside of Millipore Corporation, except for suppliers who assist us in maintaining and managing the activities on our site. These suppliers are legally obligated to maintain the confidentiality of any information we provide them, including your information.</font></td></tr>
-
-<tr valign="top"><td width="12"><font size="2" face="Arial">•</font></td><td width="596"><font size="2" face="Arial">We may use a technology called “cookies” to enhance your experience on our site.</font></td></tr>
-
-<tr valign="top"><td width="12"><font size="2" face="Arial">•</font></td><td width="596"><font size="2" face="Arial">We employ appropriate security measures to protect against the loss, misuse and alteration of any information you provide us.</font></td></tr>
-
-<tr valign="top"><td width="12"><font size="2" face="Arial">•</font></td><td width="596"><font size="2" face="Arial">We provide you with choice and control over the collection and use of any personally identifiable information that you provide us on-line, and a means for updating, correcting or removing this information.</font></td></tr>
-</tbody></table>
-<br>
-<font size="2" face="Arial">Below is a more detailed explanation of our policy in each of these areas.</font><br>
-<br>
-</p><h6 class="gradient_bg">Information We Collect and How We Use It</h6>
-<font size="2" face="Arial"><br></font><h6>General</h6>
-<font size="2" face="Arial">We only collect personally identifiable information on a voluntary basis. We do not require that you provide this information to gain access to our site, and we do not require you to disclose more information than is reasonably needed to participate in an activity on our site.  However, if you do not provide the information that is noted as being required or mandatory in connection with a particular activity, you will not be permitted to engage in that activity.  We collect personally identifiable information primarily to e-mail updates and news, to respond to your questions or suggestions, and to complete online transactions. We do not sell any information we gather at our web site to anyone outside of Millipore Corporation. We do not transfer or disclose any information we gather at our web site to anyone outside of Millipore Corporation without your prior consent, except (1) in cases where we believe in good faith that we have a legal obligation to disclose such information, and (2) to certain suppliers that assist Millipore in maintaining and managing the activities on its web site. Please be assured that these suppliers are legally obligated to maintain the confidentiality of this information and do not acquire any rights to use your information for their own benefit. We may share non-identifiable aggregate information about our users with business partners and other third parties in an effort to customize or enhance the content and advertising on our site for our users.</font>
-<p><font size="2" face="Arial">We do reserve the right, in connection with the potential sale or transfer of the interests of Millipore and its subsidiaries and affiliates, to sell or transfer your information (including but not limited to your address, name, age, gender, zip code, state, and country of residency and other information that your provide through other communications) to a third party entity that (1) concentrates its business in a similar practice or service, (2) agrees to be Millipore’s successor in interest with regard to the maintenance and protection of the information collected, and (3) agrees to the obligations of this privacy policy.</font><br>
-<font size="2" face="Arial"><br></font></p><h6>Polls &amp; Surveys</h6><font size="2" face="Arial">We periodically conduct polls and surveys on our site. The information we collect from these polls and surveys is only for Millipore’s use. If sample answers to polls or surveys are posted our web site, no identifiable information is included.</font>
-<p></p><h6>Online Purchasing</h6><font size="2" face="Arial">When you order from us on our web site we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, in order to fill your order and to communicate with you about your order. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use.  If you do not provide the information that is noted as being required or mandatory, you will not be able to place orders on our web site.</font>
-<p></p><h6>Cookies</h6> <font size="2" face="Arial">Like many companies, we use a technology called “cookies” to enhance your experience on our web site.  “Cookies” are small pieces of information sent by a web server to a web browser which the web server is then able to retrieve from the web browser when you visit other pages of our web site or you subsequently visit our web site.  Millipore uses these cookies for a number of purposes, such as saving information about your language preference (so that you do not have to choose it every time you come to our site) or country (if applicable), authenticating registered users, supporting the mechanisms for our shopping cart and on-line ordering, and enabling general traffic trend analysis.  The cookies Millipore uses do not contain any personally identifiable information and can not profile your system or collect information from your hard drive. You are not identified by name or e-mail address, just by a unique string of numbers that we assign the first time you come to our site.</font><br>
-<p><font size="2" face="Arial">While you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to access content in languages other than English, shop on-line at our web store, or access any areas reserved for registered users.</font><br>
-<br>
-<font size="2" face="Arial">Most browsers allow you to turn off the cookie function.  If you want to know how to do this, please look at the help menu on your browser.  As described above, turning off the cookie function will restrict the on-line services from Millipore that you can use.</font><br>
-</p><h6>Security</h6><font size="2" face="Arial">We employ appropriate security measures to protect against the loss, misuse and alteration of the information under our control. For our e-commerce activities, we employ Secure Sockets Layer (SSL) software, which encrypts information you input, as an additional security measure. However, as no on-line data transmission can be guaranteed to be totally secure, we (like all web sites) cannot warrant or guarantee 100% security of any information you transmit to us at our web site.</font>
-<p></p><h6 class="gradient_bg">Choice and Control</h6> 
-<font size="2" face="Arial"><br></font><h6>Choice/Opt-in</h6><font size="2" face="Arial">Our site provides you the opportunity to opt-in to receive communications from us, as described at each opt-in opportunity. Further, when you receive the requested communication, you are given the opportunity to unsubscribe from receiving any future communications or to change your information.</font>
-<p></p><h6>Control</h6><font size="2" face="Arial">You can always ask to review any personal information that we may have collected from you at our web site, have us update, correct or delete this information (if we still have the information in our databases), and/or instruct us not to use this information in the future. If you wish to exercise this right, simply  </font><a href="/reply/form/webmaster"><b>Contact Us<b></b></b></a><b><b><a href="/reply/form/webmaster"></a><font size="2" face="Arial">.</font>
-<p></p><h6>Links to Other Sites</h6><font size="2" face="Arial">Millipore does not guarantee the content of other sites for which we provide a link.</font>
-<p></p><h6>Transfer of Information to USA</h6><font size="2" face="Arial">This web site is offered by Millipore Corporation and is hosted at its Corporate Headquarters in Billerica, MA, USA.  Data transferred from you by your use of this web site outside of the USA is therefore transferred to the USA and then may be transferred back to our European subsidiaries in order to respond to your request.  The USA may have different data protection standards than your country; however, we will still handle information in the manner we describe in this Privacy Policy.</font>
-<p><font size="2" face="Arial">Click </font><a href="/ec/cp3/fdof"><b>here<b></b></b></a><b><b><a href="/ec/cp3/fdof"></a><font size="2" face="Arial"> to access Descriptions of Data Files made available for review pursuant to the Finnish Personal Data Act.</font><br>
-
-</b></b></p><h6 class="gradient_bg"><b><b>How To Contact Us</b></b></h6><b><b> <b><font color="#6A8BB6" face="Arial"> </font></b><br>
-<font size="2" face="Arial">If you have any questions or concerns about our Privacy Policy or your dealings with this web site, you can contact us </font><a href="/reply/form/webmaster"><b>here<b></b></b></a><b><b><a href="/reply/form/webmaster"></a><font size="2" face="Arial"> or at: </font><br>
-<br>
-<font size="2" face="Arial">Millipore Corporation</font><br>
-<font size="2" face="Arial">290 Concord Rd.</font><br>
-<font size="2" face="Arial">Billerica, MA </font><br>
-<font size="2" face="Arial">Attention: Legal Department</font><br>
-<br>
-<font size="2" face="Arial">Last Revised: October 10, 2005</font><br>
-<br>
-<h4>LEGAL/TRADEMARK NOTICES</h4>
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top"><td width="33%"><font size="2" color="#B02828" face="Arial">• </font><a href="/company/cp3/legal#copyright"><font size="2" face="Arial">Copyright</font></a><br>
-<font size="2" color="#B02828" face="Arial">• </font><a href="/company/cp3/legal#trademarks"><font size="2" face="Arial">Trademarks </font></a><font size="2" face="Arial">  </font><br>
-<font size="2" color="#B02828" face="Arial">• </font><a href="/company/cp3/legal#business"><font size="2" face="Arial">Business relationships</font></a></td><td width="14%">&nbsp;&nbsp;</td><td width="53%"><font size="2" color="#B02828" face="Arial">• </font><a href="/company/cp3/legal#info"><font size="2" face="Arial">Confidential Information</font></a><br>
-<font size="2" color="#B02828" face="Arial">• </font><a href="/company/cp3/legal#global"><font size="2" face="Arial">Global availability</font></a></td></tr>
-</tbody></table>
-<script src="https://seal.verisign.com/getseal?host_name=www.millipore.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=NO"></script>
-<ul><!-- BEGIN DOC DATA --><!--
-key|security~taxonomy|~keyword|~title|Security and Privacy~description|Millipore's online security and privacy policy.~search|~unid|A90B4275C39FA17D85257368006D2A42~category|~fastkeyword|~module|~args|~countryrequired|
---><!-- END DOC DATA -->
-<!-- WebLoginAnonymous -->
-<!-- END CONTENT PAGE --></ul></b></b></b></b></b></b></div><b><b><b>
-
-<script language="JavaScript" type="text/javascript">
-
-	callUrlWithRequestPost("/pages/navmenu/shared/topics.jsp?menu=companyInformation", "?taxonomy=&keyword=&title=Security+and+Privacy&key=security&description=Millipore's+online+security+and+privacy+policy.&cmssearch=&secure=", "topic_nav_menu");
-	
-	callUrlWithRequestPost("/corporate/stockticker.do", "", "stock_ticker");
-</script><div id="productActions">
-	<h4 class="first">Sustainability</h4>
-	<p>
-		<img src="/config/files/sustainability/$file/reportcover75px.jpg" alt="img" class="imgRight">Sustainability is an opportunity - and a responsibility. Read more in our 2008 Sustainability Report.</p>
-	<p><a href="/sustainability/eco2/sustainability_report" class="viewall">More »</a></p>	
-<h4>Find A Location</h4>
-	<p>Find the Millipore office or expert closest to you.</p>
-	<ul>
-		<li><a href="/offices/cp3/officeshome"><img src="/corporate.nsf/files/2007icons/$file/icon_world.gif" class="iconleft" alt="icon">Local Millipore Offices &amp; Phone Numbers</a></li>
-		<li><a href="/sales/cp3/ecardhome"><img src="/corporate.nsf/files/2007icons/$file/icon_group.gif" class="iconleft" alt="icon">Local Application Specialists</a></li>
-		</ul>
-<h4>Contact Us</h4>
-	<p>We want to hear from you. Contact a specific department below or click "Suggestions and Feedback" to send your comments.</p>
-	<ul>
-		<li><a href="/support"><img src="/corporate.nsf/files/2007icons/$file/icon_tech.gif" class="iconleft" alt="icon">Millipore Support</a></li>
-		<li><a href="/reply/form/techservice"><img src="/corporate.nsf/files/2007icons/$file/icon_tech.gif" class="iconleft" alt="icon">Technical Service</a></li>
-		<li><a href="/reply/form/customerservice"><img src="/corporate.nsf/files/2007icons/$file/icon_telephone.gif" class="iconleft" alt="icon">Customer Service</a></li>
-		<li><a href="/offices/cp3/officeshome"><img src="/company/files/2007icons/$file/icon_telephone.gif" class="iconleft" alt="icon">Worldwide Offices</a></li>
-		<li><a href="javascript:s.Survey.launch(getOmnitureFeedbackSurveyId());void(null);"><img src="/corporate.nsf/files/2007icons/$file/icon_feedback.gif" class="iconleft" alt="icon">Suggestions &amp; Feedback</a></li>
-		<li><a href="/reply/form/imagerequest"><img src="/corporate.nsf/files/2007icons/$file/icon_disk.gif" class="iconleft" alt="icon">Media Use Request</a></li>
-		<li><a href="/company/cp3/cdtt"><img src="/corporate.nsf/files/2007icons/$file/icon_telephone.gif" class="iconleft" alt="icon">Department of Technology Transfer</a></li>
-		</ul>
-</div><!-- End: content -->
-			<!-- Start: footer -->
-		 <div class="clear"></div>
-			</b></b></b></div><b><b><b>
-		<div id="footer">
-				<ul>
-				    <li><a href="/index.do">Home</a></li>
-	                    <span>|</span>
-					<li><a href="/country.do">Change Country</a></li>
-					<span>|</span>
-					<li><a href="/company/cp3/legal">Legal/Trademark</a></li>
-					<span>|</span>
-					<li><a href="/ec/cp3/security">Privacy</a></li>
-					<span>|</span>
-						<li><a href="/ec/cp3/faq">FAQs</a></li>
-					<span>|</span>
-					<li><a href="javascript:" onclick="javascript:s.Survey.launch(getOmnitureFeedbackSurveyId());">Site Feedback</a></li>
-					<span>|</span>
-					<li><a href="/sitemap/home">Site Map</a></li>
-				</ul>
-				<ul>
-				<li><a href="/lang.do?lang=en&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">English</a></li>
-					<span>|</span>
-				<li><a href="/lang.do?lang=fr&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Français</a></li>
-					<span>|</span>
-				<li><a href="/lang.do?lang=it&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Italiano</a></li>
-					<span>|</span>
-				<li><a href="/lang.do?lang=de&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Deutsch</a></li>
-					<span>|</span>
-				<li><a href="/lang.do?lang=es&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Español</a></li>
-					<span>|</span>
-				<li><a href="/lang.do?lang=pt&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">Português</a></li>
-					<span>|</span>
-				<li><a href="/lang.do?lang=ja&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">日本語</a></li>
-					<span>|</span>
-				<li><a href="/lang.do?lang=zh&amp;previousPage=L2NvcnBvcmF0ZS9jb21wYW55My5kbz9kYj0vZWMubnNmJmlkPXNlY3VyaXR5">中文</a></li>
-					<span>|</span>
-				</ul>
-				<div class="printCopyright">© 1994-Mon Feb 01 07:44:18 EST 2010 Millipore Corporation. All rights reserved.</div>
-			</div>
 			
-			<div id="autocomplete" class="autocomplete" style="display:none;z-index:99999"></div>
-			<script language="javascript" type="text/javascript">
-		              if (top.location != location)
-		        	  {
-		            	  top.location.href = document.location.href;
-		              }
-		          </script>
-		       <!-- End: footer --></b></b></b></div><b><b><b>
-		<!-- End: wrapper -->
-		<form id="previouspage" method="GET" name="previouspage">
-	<input type="hidden" name="previousPage" value="">
-</form><form id="debug" method="GET" name="debug">
-    <input type="hidden" id="serverName" name="serverName" value="jspbilprod01.millipore.com">
-    <input type="hidden" id="actionResponseMs" name="actionResponseMs" value="556 ms">
-    <input type="hidden" id="soapResponseMs" name="soapResponseMs" value="">
-    <input type="hidden" id="tomcatResponseMs" name="tomcatResponseMs" value="556 ms">
-    <input type="hidden" id="initHeap" name="initHeap" value="0">
-    <input type="hidden" id="initNonHeap" name="initNonHeap" value="19136512">
-    <input type="hidden" id="maxHeap" name="maxHeap" value="2019491840">
-    <input type="hidden" id="maxNonHeap" name="maxNonHeap" value="117440512">
-    <input type="hidden" id="commHeap" name="commHeap" value="795869184">
-    <input type="hidden" id="commNonHeap" name="commNonHeap" value="71106560">
-    <input type="hidden" id="usedHeap" name="usedHeap" value="765307120">
-    <input type="hidden" id="usedNonHeap" name="usedNonHeap" value="70311896">
-</form><script type="text/javascript" language="JavaScript" src="/js/s_code.js"></script><img name="s_i_foundrynetcom" height="1" width="1" border="0" alt="" src="https://foundrynetworks.122.2O7.net/b/ss/foundrynetcom/1/H.2-Pdv-2/s26374617563801?[AQB]&amp;ndh=1&amp;t=31/0/2020%2018%3A7%3A25%205%200&amp;ce=8859_1&amp;ns=foundrynetworks&amp;pageName=corporate%3Asecurity&amp;g=https%3A//web.archive.org/web/20100201124420id_/http%253A//www.millipore.com/ec/cp3/security&amp;cc=USD&amp;ch=corporate&amp;server=jspbilprod01.millipore.com&amp;events=event17&amp;c1=public&amp;c4=public&amp;c7=en&amp;c8=00&amp;v16=corporate&amp;v36=200&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-	
-	<script language="JavaScript">	
-		s.pageName="corporate:security"
-		s.server="jspbilprod01.millipore.com"
-		s.channel="corporate"
+			<div class="cascadingContent"></div>
+			<div class="marketingContent"><section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 0px; right: -30px; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/main-innovation.png" border="0" width="120"></div>
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Innovation</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Innovations are the fundamental driver behind the growth and evolution<br>of our society!</div>
+<div style="position: absolute; bottom: 10px;"><a href="http://www.emdmillipore.com:80/US/en/about-us/innovation/dkOb.qB.FpwAAAFEOxwWq_U7,nav" class="button">Learn More</a></div>
+</div>
+<br>
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/main-webinars.png" border="0" width="70"></div>
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Webinars &amp; Webcasts</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Learn about experimental tips &amp; troubleshooting strategies for using the latest technologies</div>
+<div style="position: absolute; bottom: 10px;"><a href="http://www.emdmillipore.com:80/US/en/20141125_172224" class="button">Learn More</a></div>
+</div></section></div>			
 
-		s.eVar36="200"
-		s.eVar16="corporate"
-		s.prop1="public"
-		
-				s.prop4="public"		
+	</div>
 			
-		s.prop7="en"
-	
+</li>
+
+
+
+
+<li class="level0 list-catalog"> <!-- level 0 -->
+	<a href="http://www.emdmillipore.com:80/US/en/services/bt2b.qB.2EwAAAFD5fksznLp,nav?CategoryName=010814123201&amp;CategoryDomainName=Merck-content_catalog">
+		Services
+
 		
-				s.prop8="00"
 			
-			s.events="event17"
 		
+	</a>
+	 
 	
+		<div class="dropdown showmenu">
+
+			<ul> <!-- level 1 -->
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/services/analytics-and-sample-preparation/Kbab.qB.tlMAAAFDwVUszn0m,nav">
+							
+								Analytics and Sample Preparation 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/analytics-and-sample-preparation/hplc-columns/l56b.qB.4ToAAAFG_rcxoSTD,nav">
+										
+											HPLC Columns 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/analytics-and-sample-preparation/retrologistik/iemb.qB.hMAAAAFGDtcxoSTC,nav">
+										
+											Retrologistik 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/analytics-and-sample-preparation/test-strips/krGb.qB.RLsAAAFGL2gxoSTA,nav">
+										
+											Test Strips 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/analytics-and-sample-preparation/waste-disposal/F5ub.qB.f.AAAAFGo156mmhG,nav">
+										
+											Waste Disposal 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/services/biopharmaceutical-manufacturing-small-molecule-pharmaceuticals/asCb.qB.l2QAAAFDfeAszn0m,nav">
+							
+								Biopharmaceutical Manufacturing<br>&amp; Small Molecule Pharmaceuticals 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/biopharmaceutical-manufacturing-small-molecule-pharmaceuticals/process-development-services/dcqb.qB.ra4AAAFGx8sxoSAU,nav">
+										
+											Process Development Services 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/biopharmaceutical-manufacturing-small-molecule-pharmaceuticals/process-validation-equipment-qualification-services/CNab.qB.X0gAAAFGFh4xoSAY,nav">
+										
+											Process Validation &amp; Equipment Qualification Services 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/biopharmaceutical-manufacturing-small-molecule-pharmaceuticals/gmp-drug-production-services/EBeb.qB.YR4AAAFGJVYxoSAe,nav">
+										
+											GMP Drug Production Services 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/biopharmaceutical-manufacturing-small-molecule-pharmaceuticals/clean-room-packaging/5lab.qB.fEYAAAFGSxgxoSTF,nav">
+										
+											Clean Room Packaging 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/biopharmaceutical-manufacturing-small-molecule-pharmaceuticals/custom-synthesis/9W6b.qB.EuYAAAFGRgoxoSTK,nav">
+										
+											Custom Synthesis 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/biopharmaceutical-manufacturing-small-molecule-pharmaceuticals/customized-formulation/Kr.b.qB.4egAAAFGOtgxoSTH,nav">
+										
+											Customized Formulation 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/biopharmaceutical-manufacturing-small-molecule-pharmaceuticals/customized-packaging/aTib.qB.Ct8AAAFGVK4xoSTG,nav">
+										
+											Customized Packaging 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/biopharmaceutical-manufacturing-small-molecule-pharmaceuticals/custom-made-drug-delivery-compounds/Iqmb.qB.raEAAAFG7nZ6mm0I,nav">
+										
+											Custom Made Drug Delivery Compounds 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/services/oem-materials-and-reagents/ivd/IzGb.qB.STsAAAFDJ4sszn0o,nav">
+							
+								IVD/OEM Materials and Reagents 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/services/life-science-research/FO6b.qB._jgAAAFDj5gszn0l,nav">
+							
+								Life Science Research 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/services/water-purification/xNyb.qB.2o0AAAFDGAkszn0p,nav">
+							
+								Water Purification 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/services/industrial-microbiology/A5qb.qB.IH8AAAFDqe0szn0n,nav">
+							
+								Industrial Microbiology 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/industrial-microbiology/application-support/L4yb.qB.dUYAAAFK2O0SMTSw,nav">
+										
+											Application Support 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/industrial-microbiology/environmental-monitoring/Es6b.qB.KiwAAAFGo9ExoSTO,nav">
+										
+											Environmental Monitoring 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/industrial-microbiology/seminars-and-training/s9eb.qB.Fw4AAAFKJ6YSMTSz,nav">
+										
+											Seminars &amp; Training 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/industrial-microbiology/sterility-testing-services/lw6b.qB.kC4AAAFG1TcxoSTS,nav">
+										
+											Sterility Testing Services 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/services/industrial-microbiology/validation-support/dweb.qB.Id8AAAFKBbYIilMB,nav">
+										
+											Validation Support 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+			</ul>
+			<div class="marketingContent" style="position:static;margin:20px;float:right;">
+			<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 0; right: 0; z-index: 0;">
+<img width="56" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/services-provantage.jpg"></div>
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Provantage® Services</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Greater control and increased flexibility for both small &amp; large molecule development &amp; manufacturing processes.</div>
+<br><br>
+<div style="position: absolute; bottom: 10px;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/services/provantage-services/AD.b.qB.zt0AAAFABCkENHRW,nav">Learn More</a></div>
+</div>
+
+<br>
+
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;">
+<img width="70" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/services-water-purification.jpg"></div>
+
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Water Purification Services</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">EMD Millipore is the partner of choice for Water Purification systems and services.</div>
+<div style="position: absolute; bottom: 10px;"><a class="button" style="padding-left: 10px; padding-right: 10px;" href="http://www.emdmillipore.com:80/US/en/services/D0Gb.qB.wN4AAAE_Eth3.MQH,nav">Learn More</a></div>
+</div></section></div>
+			<div style="float:clear;">
+		</div>	
+	
+</div></li>
+
+
+
+
+
+
+
+
+	<li>
+		<a href="http://www.emdmillipore.com:80/US/en/documents/Z.qb.qB.tecAAAFDDJUsznLq,nav?CategoryName=010814123202&amp;CategoryDomainName=Merck-content_catalog">
+			Documents
+		</a>
+	</li>
+
+
+
+
+
+<li class="level0 list-catalog"> <!-- level 0 -->
+	<a href="http://www.emdmillipore.com:80/US/en/responsibility/85qb.qB.xuAAAAFAbPU.1ZZf,nav?CategoryName=0819201373901&amp;CategoryDomainName=Merck-content_catalog">
+		Responsibility
+
 		
-		//************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-		var s_code=s.t();if(s_code)document.write(s_code)
-		//-->	
-	</script>
+			
+		
+	</a>
+	 
+	
+		<div class="dropdown showmenu">
+
+			<ul> <!-- level 1 -->
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/responsibility/our-approach/iWqb.qB.9wMAAAFA.to.1ZZh,nav">
+							
+								Our Approach 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/our-approach/guidelines-management-systems/ldib.qB.RJcAAAFAtIs.1ZZr,nav">
+										
+											Guidelines &amp; Management Systems 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/responsibility/products/HOOb.qB.KB4AAAFAuk0.1ZZk,nav">
+							
+								Products 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/products/design-innovation/bzmb.qB.D0AAAAFAryg.1ZZt,nav">
+										
+											Design &amp; Innovation 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/products/recycling-end-of-life/1gyb.qB.QxgAAAFAoTI.1ZZu,nav">
+										
+											Recycling &amp; End of Life 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/products/packaging/XdKb.qB.FGQAAAFAfh8.1ZZv,nav">
+										
+											Packaging 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/products/product-quality-safety/.Byb.qB.enAAAAFAe0M.1ZZw,nav">
+										
+											Product Quality &amp; Safety 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/responsibility/operations/68yb.qB.IL8AAAFAJA0.1ZZj,nav">
+							
+								Operations 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/operations/climate-energy/Xo.b.qB.mvcAAAFA_Nc.1ZZx,nav">
+										
+											Climate &amp; Energy 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/operations/water/l52b.qB.Y3oAAAFA_9s.1ZZy,nav">
+										
+											Water 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/operations/waste/5kqb.qB.TxcAAAFA270.1ZZz,nav">
+										
+											Waste 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/operations/supply-chain/U_qb.qB.404AAAFAUco.1ZZ0,nav">
+										
+											Supply Chain 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/responsibility/people/B3ab.qB.LIkAAAFALaw.1ZZl,nav">
+							
+								People 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/people/workplace/dLmb.qB.44wAAAFAy1w.1ZZ2,nav">
+										
+											Workplace 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/responsibility/people/community-engagement/0qmb.qB.ywMAAAFAJT8.1ZZ3,nav">
+										
+											Community Engagement 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/responsibility/Case-Studies/2Eib.qB.hzAAAAFAI4g.1ZZm,nav">
+							
+								Case Studies 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+			</ul>
+			<div class="marketingContent" style="position:static;margin:20px;float:right;">
+			<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; color: #999999; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+Our commitment means providing leading life sciences products in ways that help improve our communities and environment.
+</div>
+
+<br>
+
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="color: #33ccff; font-size: 13px; font-weight: bold;">Responsibility at EMD Millipore</div>
+<div style="color: #999999;">Creating value responsibly for a stronger, healthier business and society.</div>
+
+<a href="http://www.emdmillipore.com:80/US/en/responsibility/85qb.qB.xuAAAAFAbPU.1ZZf,nav">
+<img width="200" style="margin-left: 0; margin-top: 12px;" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/cr-tomorrow-re-imagined.png" border="0" alt="Tomorrow Re.Imagined">
+</a>
+</div></section></div>
+			<div style="float:clear;">
+		</div>	
+	
+</div></li>
+
+
+
+
+<li class="level0 list-catalog"> <!-- level 0 -->
+	<a href="http://www.emdmillipore.com:80/US/en/support/aHKb.qB.MwQAAAFAudwQWRbT,nav?CategoryName=07251311401&amp;CategoryDomainName=Merck-content_catalog">
+		Support
+
+		
+			
+		
+	</a>
+	 
+	
+		<div class="dropdown showmenu">
+
+			<ul> <!-- level 1 -->
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/support/ecommerce-solutions/dbab.qB.ykkAAAFDit0sznMG,nav">
+							
+								eCommerce Solutions 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/ecommerce-solutions/eprocurement/1hib.qB.WeUAAAFDtcssznMH,nav">
+										
+											eProcurement 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/ecommerce-solutions/eshop/3hWb.qB.QvkAAAFD3UUsznMH,nav">
+										
+											eShop 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/support/login-help/_cyb.qB.4YIAAAFGaEl6mmJJ,nav">
+							
+								Login Help 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/support/support-library-webcasts-webinars-videos/xQab.qB.lY8AAAFKvdQIilSP,nav">
+							
+								Support Library: <br>Webcasts, Webinars, Videos 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/support/customer-service-faqs/SLWb.qB.TKEAAAFGnEQxoR_B,nav">
+							
+								Customer Service FAQs 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/support/new-customer-account-info/oleb.qB.7l4AAAFG4xk3JCo0,nav">
+							
+								New Customer Account Info 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/support/biomonitoring-instrument-return-form/J3ab.qB.lisAAAFGcJB.ALoK,nav">
+							
+								BioMonitoring Instrument Return Form 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/support/customer-notifications/KHGb.qB.l1AAAAFA_YkQWRbX,nav">
+							
+								Customer Notifications 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/customer-notifications/product-change-notifications/G7eb.qB.lq0AAAFFL4RjZ9I_,nav">
+										
+											Product Change Notifications 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/support/licensing/TT6b.qB.lO8AAAFAz8gQWRbX,nav">
+							
+								Licensing 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/licensing/proprietary-technologies/hZ2b.qB.6wYAAAFACKIQWTWj,nav">
+										
+											Proprietary Technologies 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/licensing/ucoe-expression/V_2b.qB.JroAAAFA9l0QWTWn,nav">
+										
+											UCOE Expression 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/licensing/department-of-technology-transfer/Kayb.qB.ZY4AAAFA2cAQWTWp,nav">
+										
+											Department of Technology Transfer 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/licensing/partner-with-us/Aq2b.qB.VPQAAAFAi0YQWTWr,nav">
+										
+											Partner with Us 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/support/safety/Flqb.qB.MeUAAAFALV0QWRbW,nav">
+							
+								Safety 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/acids-in-safety-bottles/mVOb.qB.f70AAAFCmjsXr74m,nav">
+										
+											Acids in Safety Bottles 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/basic-rules/l.Kb.qB.VPcAAAFCrqYXr74o,nav">
+										
+											Basic Rules 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/chemical-waste/rieb.qB.00IAAAFCAJUXr74q,nav">
+										
+											Chemical Waste 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/clean-room-packaging/3.qb.qB.UbUAAAFCoRkXr74r,nav">
+										
+											Clean Room Packaging 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/dangerous-goods/68Kb.qB.HfEAAAFC_0QXr74s,nav">
+										
+											Dangerous Goods 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/h-and-p-statements/5m2b.qB.aKQAAAFF4yYcWdw7,nav">
+										
+											H and P Statements 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/hydrofluoric-acid-passport/8lyb.qB._JIAAAFCkJwXr74t,nav">
+										
+											Hydrofluoric Acid Passport 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/labeling-hazardous-chemicals/AKub.qB.RoUAAAFFiMljZ8zb,nav">
+										
+											Labeling of Hazardous Chemicals 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/material-safety-data-sheets/Ivmb.qB.TzsAAAFCXd4Xr74u,nav">
+										
+											Material Safety Data Sheets 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/product-safety-summaries/E9ub.qB.2xoAAAFCiNEXr74r,nav">
+										
+											Product Safety Summaries 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/safe-storage/oaSb.qB.i0MAAAFCzrkXr74v,nav">
+										
+											Safe Storage 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/safetycap/qn6b.qB.V8wAAAFCOT0Xr74u,nav">
+										
+											SafetyCap 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/safety/videos-safety-in-the-laboratory/KWGb.qB.TvYAAAFFvK07Qji_,nav">
+										
+											Videos: Safety in the Laboratory 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/Up.b.qB.CN8AAAFAnd8QWRbW,nav">
+							
+								Regulatory Support 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/certification/9gCb.qB.hUcAAAFGkGAcWRXj,nav">
+										
+											Certification 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/complaint-management/8q6b.qB.blEAAAFACWoQWSul,nav">
+										
+											Complaint Management 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/customer-audits/h22b.qB.oBgAAAFAc.MQWSul,nav">
+										
+											Customer Audits 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/emprove-qualification/9qmb.qB.T_gAAAFDRclUTz7y,nav">
+										
+											EMPROVE qualification 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/eomt/xlub.qB.Lq4AAAFHY3YXX44M,nav">
+										
+											eOMT 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/excipact/bemb.qB.p7QAAAFDV.wEqJJd,nav">
+										
+											EXCiPACT 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/ghs-harmonized-classification/6zub.qB.gzEAAAFAcRYQWSun,nav">
+										
+											GHS: Harmonized Classification 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/gmo-genetically-modified-organisms/t4Kb.qB.hvwAAAFAyYYQWSun,nav">
+										
+											GMO: Genetically Modified Organisms 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/iso-certification/hoGb.qB.fVgAAAFA7igQWRbX,nav">
+										
+											ISO Certification 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/international-regulations/jIWb.qB.N3gAAAFAphgQWSuo,nav">
+										
+											International Regulations 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/professional-memberships/4Oub.qB.RskAAAFApTgQWSuq,nav">
+										
+											Professional Memberships 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/quality-management/M.mb.qB.q7UAAAFAobMQWSuq,nav">
+										
+											Quality Management 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/reach/bfeb.qB.RRwAAAFAqlEQWSur,nav">
+										
+											REACH 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/support/regulatory-support/weee-compliance/gYub.qB.21UAAAFFJ90Oa3Aq,nav">
+										
+											WEEE Compliance 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+			</ul>
+			<div class="marketingContent" style="position:static;margin:20px;float:right;">
+			<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 0; right: 0; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/support.png" border="0" width="100"></div>
+<div style="color: #999999; position: relative;">Our combined Customer Service and Tech Service organizations are dedicated to you, our Customer.</div>
+<div style="margin-top: 6px; position: relative;"><span style="color: #33ccff; font-weight: bold;">Order Questions?</span><br> <span style="color: #125dab; font-weight: bold;">Technical queries?<br><br><br></span></div>
+<div style="bottom: 10px; position: absolute;"><a href="http://www.emdmillipore.com:80/US/en/support/aHKb.qB.MwQAAAFAudwQWRbT,nav" class="button">Get Support</a></div>
+</div>
+<br>
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 7px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 0; right: 0; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/support-account.png" border="0" width="100"></div>
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Webcasts, Webinars, Videos</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Watch, learn and engage with EMD Millipore. &nbsp;Training programs and seminars designed for you.</div>
+<div style="bottom: 10px; position: absolute;"><a href="http://www.emdmillipore.com:80/US/en/20141125_172224" class="button">Learn More</a></div>
+</div>
+<br>
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 7px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 8px; right: 8px; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/support-mobile-apps.png" border="0" width="50"></div>
+<div style="color: #33ccff; font-size: 13px; font-weight: bold; position: relative;">Mobile Apps</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Catalogs and product finders. <br>Explore, interact.</div>
+<div style="bottom: 10px; position: absolute;"><a href="http://www.emdmillipore.com:80/US/en/search-options/mobile-apps/Qh.b.qB.U.4AAAFAd_UQWRbV,nav" class="button">Browse</a></div>
+</div></section></div>
+			<div style="float:clear;">
+		</div>	
+	
+</div></li>
+
+
+
+
+<li class="level0 list-catalog"> <!-- level 0 -->
+	<a href="http://www.emdmillipore.com:80/US/en/about-us/FYib.qB.IAYAAAE_0T93.L6m,nav?CategoryName=about-us-id&amp;CategoryDomainName=Merck-content_catalog">
+		About Us
+
+		
+			
+		
+	</a>
+	 
+	
+		<div class="dropdown showmenu">
+
+			<ul> <!-- level 1 -->
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/about-us/divisional-profile/DpSb.qB.NyUAAAFBfP5hRKgc,nav">
+							
+								Divisional Profile 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/about-us/leadership-team/K8.b.qB.owAAAAFBhkNhRKge,nav">
+							
+								Leadership Team 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/about-us/innovation/dkOb.qB.FpwAAAFEOxwWq_U7,nav">
+							
+								Innovation 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/about-us/events/ALSb.qB.L.EAAAFBXY9KhMHe,nav">
+							
+								Events 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/about-us/partner-with-us/NUyb.qB.q.kAAAFEDhUWq.U2,nav">
+							
+								Partner with Us 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/about-us/news-media-room/CJmb.qB.6c0AAAFBob5hRKge,nav">
+							
+								News &amp; Media Room 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/about-us/news-media-room/customer-letter/h2qb.qB.D88AAAFIGctSpp69,nav">
+										
+											Customer Letter 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/about-us/news-media-room/press-releases/yoqb.qB.f2UAAAFEbSVRnx1I,nav">
+										
+											Press Releases 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/about-us/news-media-room/media-resources/Y2mb.qB.YR8AAAFBsJxhRKiZ,nav">
+										
+											Media Resources 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/about-us/news-media-room/media-contacts/H4Sb.qB.XaEAAAFBn0BhRKia,nav">
+										
+											Media Contacts 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/about-us/news-media-room/magazines/E9.b.qB.I4EAAAFGTst1zJDG,nav">
+										
+											Magazines 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/about-us/our-history/qb2b.qB.oVQAAAFBGyFhRKgf,nav">
+							
+								Our History 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/about-us/worldwide-offices/YzSb.qB.rCcAAAFBNdlhRKg0,nav">
+							
+								Worldwide Offices 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/about-us/careers/xpKb.qB.u1IAAAFAzdkENHgO,nav">
+							
+								Careers 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+			</ul>
+			<div class="marketingContent" style="position:static;margin:20px;float:right;">
+			<section class="editable-content editable-content-no-2-top "><div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="position: absolute; bottom: 6px; right: 6px; z-index: 0;"><img src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/about-calendar.jpg" border="0" alt="Events: Tradeshows, Fairs &amp; Exhibitions" width="66"></div>
+<div style="color: #33ccff; font-weight: bold; position: relative;">Events</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Tradeshows, Fairs &amp; Exhibitions<br>Visit us.&nbsp;</div>
+<div style="position: absolute; bottom: 10px;"><a href="http://www.emdmillipore.com:80/US/en/about-us/events/ALSb.qB.L.EAAAFBXY9KhMHe,nav" class="button">See schedule</a></div>
+</div>
+<br>
+<div style="padding: 12px; min-height: 114px; background-color: #ffffff; border: 1px; border-color: #dddddd; border-style: solid; border-radius: 5px; overflow: hidden; position: relative;">
+<div style="color: #33ccff; font-weight: bold; position: relative;">Agreement to Acquire<br>Sigma-Aldrich</div>
+<div style="margin-top: 4px; color: #999999; position: relative;">Serving our life science customers and the world...</div>
+<div style="position: absolute; bottom: 10px;"><a href="http://www.emdmillipore.com:80/US/en/about-us/news-media-room/CJmb.qB.6c0AAAFBob5hRKge,nav" class="button">Learn more</a></div>
+</div></section></div>
+			<div style="float:clear;">
+		</div>	
+	
+</div></li>
+
+
+
+
+<li class="level0 list-catalog"> <!-- level 0 -->
+	<a href="http://www.emdmillipore.com:80/US/en/search-options/o0ab.qB.uA8AAAFFtGtjZ744,nav?CategoryName=050214023501&amp;CategoryDomainName=Merck-content_catalog">
+		Search Options
+
+		
+			
+		
+	</a>
+	 
+	
+		<div class="dropdown showmenu">
+
+			<ul> <!-- level 1 -->
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/search-options/product-finders/Nnib.qB.JPsAAAFACCMQWRbV,nav">
+							
+								Product Finders 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/search-options/product-design-tools-milliplex-smartflare/kSab.qB.WDUAAAFG.aJ1zJn9,nav">
+							
+								Product Design Tools:<br>Milliplex &amp; Smartflare 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/search-options/tools/hQqb.qB.UlcAAAFAkXYQWRbV,nav">
+							
+								Tools 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/tools/lab-tools-booklet/FGCb.qB.Rx8AAAFCDJkXr8NU,nav">
+										
+											Lab Tools Booklet 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/tools/unit-converter/gzOb.qB.GiMAAAFAIWoQWTT8,nav">
+										
+											Unit Converter 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/tools/molar-mass-calculator/W3ib.qB.4f4AAAFAZsEQWTT9,nav">
+										
+											Molar Mass Calculator 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/tools/concentration-density-finder/VDKb.qB.0vMAAAFAlSEQWTT_,nav">
+										
+											Concentration Density Finder 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/tools/ph-indicator-selector/MM2b.qB.I6gAAAFA2wsQWTUB,nav">
+										
+											pH-Indicator Selector 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+				
+					<li>
+						<a href="http://www.emdmillipore.com:80/US/en/search-options/mobile-apps/Qh.b.qB.U.4AAAFAd_UQWRbV,nav">
+							
+								Mobile Apps 
+							
+						</a>
+						
+						<ul> <!-- level 2 -->
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/mobile-apps/histone-modification/2mib.qB.sfoAAAFA.A8QWTY3,nav">
+										
+											Histone Modification 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/mobile-apps/periodic-table/V1.b.qB._EMAAAFApKEQWTYw,nav">
+										
+											Periodic Table 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/mobile-apps/milli-q-integral/6Geb.qB.iW4AAAFA9DUQWTYy,nav">
+										
+											Milli-Q Integral 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/mobile-apps/elix-advantage/_1yb.qB.4isAAAFAIqIQWTY1,nav">
+										
+											Elix Advantage 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/mobile-apps/chrombook-tablet/UP.b.qB.N3IAAAFFYFVjZ9Iu,nav">
+										
+											Chrombook Tablet 
+										
+									</a>
+									
+								</li>
+							
+								<li>
+									<a href="http://www.emdmillipore.com:80/US/en/search-options/mobile-apps/millex-filter-finder/7g6b.qB.Sd4AAAFA.oYQWTY4,nav">
+										
+											Millex Filter Finder 
+										
+									</a>
+									
+								</li>
+							
+						</ul>
+					</li>
+				
+			</ul>
+			<div class="marketingContent" style="position:static;margin:20px;float:right;">
+			<section class="editable-content editable-content-no-2-top "><style>
+.mkt-banner { 
+	padding: 12px; min-height: 110px; 
+	background-color: #ffffff; border: 1px #dddddd solid; border-radius: 5px;
+	overflow: hidden; position: relative; }
+
+.mkt-banner-image { position: absolute; z-index: 0; }
+.mkt-banner-heading1 { color: #33ccff; font-size: 13px; font-weight: bold; position: relative; }
+.mkt-banner-heading2 { color: #125dab; font-size: 13px; font-weight: bold; position: relative; }
+.mkt-banner-text { margin-top: 2px; color: #999999; font-size: 12px; position: relative; }
+.mkt-banner-button { position: absolute; bottom: 10px; }
+.mkt-banner-button-link { padding-left: 8px !important; padding-right: 8px !important; }
+</style></section><section class="editable-content editable-content-no-2-top "><div class="mkt-banner">
+<div class="mkt-banner-image" style="bottom: 0px; right: 8px;">
+<img width="90" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/search-advanced.jpg"></div>
+<div class="mkt-banner-heading1">Advanced Search</div>
+<div class="mkt-banner-text">Use a combination of word(s) and / or phrases to fine tune your search</div>
+<br><br>
+<div class="mkt-banner-button"><a class="button mkt-banner-button-link" href="http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewParametricSearch-AdvancedSearch">Learn More</a></div>
+</div>
+
+<br>
+
+<div class="mkt-banner">
+<div class="mkt-banner-image" style="bottom: 0px; right: 8px;">
+<img width="80" src="/INTERSHOP/static/WFS/Merck-Site/-/Merck/en_US/Mega-Nav/search-structure.jpg"></div>
+<div class="mkt-banner-heading1">Structure Search</div>
+<div class="mkt-banner-text">Locate products by drawing a chemical structure or structure fragment.</div>
+<br><br>
+<div class="mkt-banner-button"><a class="button mkt-banner-button-link" href="http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewStructureSearch-Start">Learn More</a></div>
+</div></section></div>
+			<div style="float:clear;">
+		</div>	
+	
+</div></li>	 
+</ul>
+
+
+
+</nav> 
+<div class="print-link ir" id="print_me">
+	
+</div>
+</gridparametergenerator></section>
+
+
+
+</header><!-- iscache type="daily" hour="0" minute="0" --><div class="hub  width_12"> 
+
+<nav class=" breadcrumbs"><ul>
+</ul></nav>
+&nbsp;
+</div><!-- iscache type="daily" hour="0" minute="0" --><div class="  width_3"> 
+
+
+
+
+
+
+
+<div class="utilityLinksHeader editable-content-no-margin-top editable-content-no-margin-bottom"><a href="http://www.emdmillipore.com:80/US/en/legal/OLyb.qB.y7EAAAFANQQQWTDR,nav"> 
+Legal 
+</a>
+</div>
+<nav class="navtree">
+<ul> 
+<li class="" style="background: #e0f2f7"> 
+<span> 
+<a href="http://www.emdmillipore.com:80/US/en/legal/conditions-of-sale/Yeeb.qB.u0kAAAFAIbMQWTDR,nav">Conditions of Sale</a>
+</span></li><li class="" style="background: #e0f2f7"> 
+<span> 
+<a href="http://www.emdmillipore.com:80/US/en/legal/declaration-of-consent-data-privacy/f7qb.qB.O14AAAFENYJXHaKf,nav">Declaration of Consent for Storage and Use of Data</a>
+</span></li><li class="" style="background: #e0f2f7"> 
+<span> 
+<a href="http://www.emdmillipore.com:80/US/en/legal/imprint/b6Kb.qB.KgsAAAFA.8YQWTDS,nav">Imprint</a>
+</span></li>
+
+
+
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
 
 	
-	
+		        <!-- do not show is already show as root -->
+				<li class="active"><span style="color: white;"> 
+				 
+				<a href="http://www.emdmillipore.com:80/US/en/legal/privacy-statement/Y.2b.qB.iJsAAAFA8iYQWTDS,nav" style="color: white;">
+						<b>
+						
+							Privacy Statement
+						
+						</b>
+					</a>
+		
+				</span></li>
+				
+			  
+					<li>
+					<ul>
+				
+						
+			  
+					</ul>
+ 				</li>
+ 			  
+<li class="" style="background: #e0f2f7"> 
+<span> 
+<a href="http://www.emdmillipore.com:80/US/en/legal/virtual-patent-markings/3y2b.qB.rN0AAAFG3VYaIaTo,nav">Virtual Patent Markings</a>
+</span></li><li class="" style="background: #e0f2f7"> 
+<span> 
+<a href="http://www.emdmillipore.com:80/US/en/legal/california-transparency-in-supply-chains-act/M0Cb.qB.NZEAAAFFRG4cWfXb,nav">California Transparency in Supply Chains Act</a>
+</span></li></ul>
+</nav>
+&nbsp;
+</div><!-- iscache type="daily" hour="0" minute="0" --><div class="  width_9"> 
+<section class="editable-content editable-content-no-2-top "><h1>Privacy Statement</h1>
+<b>Introduction</b>
+<p>Thank you for your interest in the Merck KGaA website (referred to briefly as “Merck” in this statement). The issue of data protection and confidentiality is a topic we take very seriously and we follow the applicable national and European data protection regulations. With this statement on data protection measures, we therefore want to provide you with information on the types of data that we may collect and how we use that data.</p>
+<b>Storage and use of data</b>
+<p>As a visitor to our Web site, you will remain anonymous. The data we store and analyze is used for statistical purposes only, for instance to ensure the continuous improvement of our services. The data we store on our servers comprises the name of your internet service provider, the website from which you visited us, the Merck KGaA webpages you have looked up, your IP address and the date and duration of your visit.</p>
+<b>Collection, processing and use of personal data</b>
+<p>We only collect and process personal data if you make use of specific services and we therefore require your data or if you have voluntarily given us your express consent. You may do so, for instance, as part of a registration procedure, by completing a form or by sending an e-mail, ordering products or services, sending us a query or requesting materials. Unless we are subject to other legal commitments, we only use your personal data for the purposes for which you have given your consent.</p>
+<p>Your personal data will only be shared by us with third parties if that is required in order to provide a service you have requested or if you have given your consent. If data has been released for use by Merck KGaA subsidiaries and if such permission involves data transfer to other countries, Merck KGaA will ensure that the data importer is placed under a suitable level of data protection commitment.</p>
+<b>Data retention</b>
+<p>We store data as required by legal obligation or for the period of time that is required to provide a service you have requested or as agreed in applicable consent.</p>
+<b><b>Right to review, correct and object<b></b></b></b>
+<p>You are entitled to review and correct any of your personal data we have stored, and you may withdraw your consent to the use of your data at any time, affecting all future use. All you need to do is to send an e-mail to ecommercemm@merckgroup.com.</p>
+<b>Data protection and security</b>
+<p>Our employees involved in data processing are obliged to confidentiality in the use of personal data. Our data protection measures are continually updated, reflecting technical developments.</p>
+<b><b><b><b>Cookies and Google Analytics</b></b></b></b>
+<p>This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. In case IP-anonymisation is activated on this website, your IP address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. The IP-anonymisation is active on this website. Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage. The IP-address that your Browser conveys within the scope of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: „http://tools.google.com/dlpage/gaoptout?hl=de“.</p>
+<p>You can find information on the cookies used on our website <a href="http://www.emdmillipore.com:80/US/en/systempage.cookie.policy.pagelet2-systempage.cookie.policy"><span style="text-decoration: underline;">here</span></a>.</p>
+<b><b><b><b>Contact</b></b></b></b>
+<p>If you have questions or suggestions, please feel free to contact our Corporate Privacy Officer.</p>
+<p>Norbert Moeren<br> Corporate Privacy Officer at Merck KGaA<br> Phone: +49(0)6151 72 0<br> Fax: +49(0)6151 72 2000<br> e-mail: privacy@merckgroup.com</p></section>
+&nbsp;
+</div><!-- iscache type="relative" hour="24" -->
+<footer class="width_12 "><div class="width_12 alpha omega">
+<ul>
+
+
+
+
+
+
+
+<li><a href="http://www.emdgroup.com" target="_blank">EMD Group</a></li> 
+
+
+
+
+
+<li><a href="http://www.emdmillipore.com:80/US/en/legal/imprint/b6Kb.qB.KgsAAAFA.8YQWTDS,nav?CategoryName=073013022425&amp;CategoryDomainName=Merck-content_catalog">Imprint</a></li> 
+
+
+
+
+
+<li><a href="http://www.emdmillipore.com:80/US/en/legal/OLyb.qB.y7EAAAFANQQQWTDR,nav?CategoryName=legal-nav-id&amp;CategoryDomainName=Merck-content_catalog">Terms of Use</a></li> 
+
+
+
+
+
+<li><a href="http://www.emdmillipore.com:80/US/en/systempage.cookie.policy.pagelet2-systempage.cookie.policy">Cookies</a></li> 
+
+
+
+
+
+<li><a href="http://www.emdmillipore.com:80/US/en/legal/privacy-statement/Y.2b.qB.iJsAAAFA8iYQWTDS,nav?CategoryName=073013022335&amp;CategoryDomainName=Merck-content_catalog">Privacy Statement</a></li> 
+
+
+
+
+
+<li><a href="http://www.emdmillipore.com:80/US/en/legal/conditions-of-sale/Yeeb.qB.u0kAAAFAIbMQWTDR,nav?CategoryName=073013022250&amp;CategoryDomainName=Merck-content_catalog">Conditions of Sale</a></li> 
+&nbsp;
+</ul>
+</div><div class="width_12 alpha omega">
+<ul>
+
+
+
+
+
+<li><a href="http://www.emdmillipore.com:80/US/en/support/aHKb.qB.MwQAAAFAudwQWRbT,nav?CategoryName=07251311401&amp;CategoryDomainName=Merck-content_catalog">Help</a></li> <!-- Modules -->
+<!-- ismodule DatePrint --> 
+<li><a href="http://www.emdmillipore.com:80/US/en/systempage.contactus.pagelet2-systempage.contactus" id="contactUsFooterLink" data-context-sensitive="true" trackingtype="layerview" trackingparam="Functional" trackingvalue="SiteWideContactUs">Contact Us</a></li> 
+
+
+
+
+
+<li><a href="http://www.emdmillipore.com:80/US/en/20131105_132048">Feedback</a></li> 
+
+
+
+
+
+<li><a href="http://www.emdmillipore.com:80/US/en/about-us/news-media-room/CJmb.qB.6c0AAAFBob5hRKge,nav?CategoryName=101113112402&amp;CategoryDomainName=Merck-content_catalog">News</a></li> 
+
+
+
+
+
+<li><a href="http://www.emdmillipore.com:80/US/en/about-us/careers/xpKb.qB.u1IAAAFAzdkENHgO,nav?CategoryName=careers-id&amp;CategoryDomainName=Merck-content_catalog">Careers</a></li> 
+
+
+
+		
+
+
+
+<li><a href="http://www.emdmillipore.com:80/US/en/systempage.country.selection.pagelet2-systempage.country.selection" id="modal_dlg_q7Sb_qB_5GcAAAFB_P9QSjbP" trackingtype="&quot;layerview&quot;" trackingvalue="&quot;SiteWideCountrySelector&quot;" trackingparam="&quot;Functional&quot;">Change Country</a></li> 
+&nbsp;
+</ul>
+</div><div style="text-align: center;">
+<p style="font-size: 11px;">EMD Millipore is a division of Merck KGaA, Darmstadt, Germany<br> © Merck KGaA, Darmstadt, Germany, 2014</p>
+</div><span id="cnp_text_print_pdp" style="display:none;text-align: center">© Merck KGaA, Darmstadt, Germany, 2014. All references to Merck refer to Merck KGaA, Darmstadt, Germany.</span>
+</footer></div><div class="ish-smallLoader"></div><script src="/INTERSHOP/static/WFS/Merck-US-Site/-/-/en_CA/js/vendor/jquery-1.8.3.min.js"></script><script src="/INTERSHOP/static/WFS/Merck-US-Site/-/-/en_CA/bundles/js/merck.min.js?lastModified=1419053742000"></script><!--[if lt IE 9]>
+<script src="/INTERSHOP/static/WFS/Merck-US-Site/-/-/en_CA/js/vendor/selectivizr-min.js"></script>
+<![endif]-->
   
-<!-- Action response time: 0 ms-->
-<!-- Tomcat response time: -->
-<!-- Tomcat response time: 2361 ms--></b></b></b></body></html>
+<script type="text/javascript">
+var isCountryEMD = 'yes';
+var triggerCountrySelection = true;
+var currentPipeline = 'ViewProductCatalogNavigation-Expand'
+var currentDomain = 'Merck-US-Site';
+var redirectToCurrentPage = (typeof currentPipeline != "undefined" && $.inArray(currentPipeline, ['ViewHomepage-DisplayCachedHomepage','ViewHomepage-DisplayHomepage','Default-Start','ViewProduct-Start','ViewProductCatalogNavigation-Expand','ViewContent-Start', 'ViewUserAccount-Start']) > -1);
+</script><script type="text/javascript">
+CSRFGuard.injectTokens(document.body);
+</script>
+<script type="text/javascript" language="JavaScript">    
+    window.PrudsysRecommConfig = {
+        "getRecommendedProductsAjaxRequest": "http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewProductRecommendation-Start",
+        "getRecommendationSessionAjaxRequest": "http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewProductRecommendation-GetSessionData"
+    };    
+</script>
+
+<script type="text/javascript">
+	// http://stackoverflow.com/a/21712356
+	function detectIE() {
+	    var ua = window.navigator.userAgent;
+	    var msie = ua.indexOf('MSIE ');
+	    var trident = ua.indexOf('Trident/');
+	    if (msie > 0) {
+	        // IE 10 or older => return version number
+	        return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+	    }
+	
+	    if (trident > 0) {
+	        // IE 11 (or newer) => return version number
+	        var rv = ua.indexOf('rv:');
+	        return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+	    }
+	    // other browser
+	    return false;
+	}
+
+	$(function() {
+
+		function toggleL0(e) {
+	    	if(e.type == 'mouseenter')
+			{//hover:clear cascading catalog L1
+	        	$('>.dropdown .cascadingContent', this).html('');
+	        	$('li.level1.active', this).removeClass('active');
+	        	// WEP-1574
+	        	if(detectIE()) {
+	        		$("[type='text']").blur();
+	        	}
+			}
+	    	//mark active LI only
+	    	var that = $('>a', this);
+	    	that.parent().siblings().removeClass('active');
+	    	that.parent().toggleClass('active');
+	    	
+	    	$('.dropdown', that.parent().siblings('.level0')).hide();//hide any other link content
+	        $(">.dropdown", that.parent()).toggle();//toggle link content
+	        return false;
+	    }
+
+		function toggleL1(e) {
+	    	var that = $('>a', this);
+	    	
+	        var dropdownL0 = that.parents().eq(3).find('>.dropdown')
+	        var listItemL1 = that.parent();
+	        var dropdownL1 = $(".dropdown", listItemL1);
+	        
+		    if(e.type == 'mouseleave')
+			{//hover
+				return true;
+			}
+			
+	        if(listItemL1.hasClass('active')){//toggle content on same-link click/hover
+	        	$('.cascadingContent', dropdownL0).html('');
+	        	listItemL1.removeClass('active');
+		    }
+	        else{//display relevant content
+	        	$('.cascadingContent', dropdownL0).html($('ul', dropdownL1).parent().html());
+	        	
+	        	that.parent().siblings('.level1').removeClass('active');
+	        	listItemL1.addClass('active');
+		    }
+	        
+
+			//marketing content is always shown on L0
+	        if( !$.trim( $('>.dropdownMarketingContent', dropdownL1).html() ).length ) {//L0 marketing content					        
+	        	 $('.marketingContent', dropdownL0).html($('>.dropdownMarketingContent', dropdownL0).html());
+	        }
+	        else{//L1 marketing content
+	        	 $('.marketingContent', dropdownL0).html($('>.dropdownMarketingContent', dropdownL1).html());
+		    }					        
+
+	        return false;
+	    }		
+
+		var type = "hover";//click or hover
+		if(type == "hover"){
+			//handler for level 0 links(cascading catalog or list catalog)
+			jQuery(".mega-menu li.level0").hoverIntent( {over: toggleL0, out: toggleL0, interval: 250, timeout: 250});
+			//handler for level 1 links (cascading catalog only)
+			jQuery(".mega-menu .cascading-catalog li.level1").hoverIntent( {over: toggleL1, out: toggleL1, interval: 250, timeout: 250});
+		}else{
+			jQuery(".mega-menu li.level0").click(toggleL0);
+			jQuery(".mega-menu .cascading-catalog li.level1").click(toggleL1);
+		}
+
+		
+			    
+		//organize each list catalog in columns
+		$('.list-catalog >.dropdown >ul').each(function() { 
+			var items = $('>li',this);
+			var wrapAmount = items.length / 2;
+			for(var i = 0; i < items.length; i+=wrapAmount){
+				items.slice(i, i+wrapAmount).wrapAll('<li class="column"><ul></ul></li>');
+			}				
+		});															
+	});
+</script>
+<script language="javascript" type="text/javascript">
+$('.cookie-container').hide();
+</script><script type="text/javascript">
+$('#contactUsFooterLink').fancybox({
+'autoScale' : true,
+'autoSize' : true,
+'transitionIn' : 'none',
+'transitionOut' : 'none',
+'type' : 'ajax'
+});
+</script>
+		<script type="text/javascript">
+			// hook the FancyBox to the link, using a size
+			$('#modal_dlg_q7Sb_qB_5GcAAAFB_P9QSjbP').fancybox({
+			   'autoScale' : true,
+			   'autoSize' : true,
+			   'transitionIn' : 'none',
+			   'transitionOut' : 'none',
+			   'type' : 'ajax'
+			 });			
+		</script>
+		<script type="text/javascript">
+$(document).ready(function() {
+
+var ul = $('nav.breadcrumbs').find('ul');
+var append = '<li><a rel="home" href="http://www.emdmillipore.com:80/US/en">Home</a><span>></span></li>';
+ul.append(append);
+
+append = '<li><a href="http://www.emdmillipore.com:80/US/en/legal/OLyb.qB.y7EAAAFANQQQWTDR,nav">Legal</a><span>></span></li>';
+
+ul.append(append);
+
+append = '<li>Privacy Statement</li>';
+
+ul.append(append);
+ 
+});
+</script><script type="text/javascript">
+$(function() {
+$('.selectLangForChannel').click(function(event){
+event.preventDefault();
+var redirect = $(this).attr('href');
+if(redirectToCurrentPage)
+redirect += '&TargetURL=' + encodeURIComponent(document.URL);
+window.location.replace(redirect);
+}); 
+$('.openlanguagelayer').hover(function(e) {
+$('.language-selection').css('left', $('.openlanguagelayer').position().left+'px');
+$('.language-selection').show();
+return false;
+});
+$('.language-selection').mouseleave(function(){
+$('.language-selection').hide();
+});
+});
+</script><script type="text/javascript" language="JavaScript">
+window.SuggestConfig = {
+"url": "http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewSuggestSearch-Suggest",
+"productsText": "Products",
+"termsText": "Search Terms", 
+"skusText": "Catalog Numbers"
+};
+</script><script type="text/javascript">
+function openPronetDocument(id) 
+{
+var pdf_url = "http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ShowDocument-Pronet";
+pdf_url += "?id=" + id;
+window.open(pdf_url,scrollbars='yes', resizable='yes', status='yes');
+}
+function openProductDocument(filter) {
+var id = filter.id || 'null';
+var type = filter.type;
+var sku = filter.sku;
+var language = filter.language || 'en';
+var country = filter.country || 'CA';
+var batchno = filter.batchno;
+var parameters = "?ProductSKU=" + sku + '&DocumentId=' + id;
+if(type){
+parameters += "&DocumentType=" + type;
+}
+if(language){
+parameters += "&Language=" + language;
+}
+if (country){
+parameters += "&Country=" + country;
+} 
+if (batchno){
+parameters += "&ProductBatchNo=" + batchno;
+}
+if(filter.fallback){
+parameters += "&fallback=" + filter.fallback;
+} 
+var pdf_url = "http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ShowDocument-File" + parameters;
+window.open(pdf_url);
+} 
+</script>
+<script type="text/javascript">
+	$(document).ready(function () {
+		$('input[placeholder]').placeholder();
+	});
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+$("#compareProductId" ).bind("click", function() {
+var data = $(this).closest('form').serialize();
+var url= $(this).attr("href");
+$.ajax({
+type: "get",
+url: url,
+data : data,
+dataType : "html",
+beforeSend: function () {
+$.fancybox.helpers.overlay.open();
+$.fancybox.showLoading();
+},
+success: function(result) {
+$.fancybox.hideLoading();
+$.fancybox.helpers.overlay.close();
+$.fancybox(result);
+}
+});
+return false;
+});
+});
+</script>
+
+<script type="text/javascript">
+	var countryFromSession = 'US';
+	var EMDDomain = 'www.emdmillipore.com';
+</script>
+	
+<script type="text/javascript">
+var	oPopupWindow;
+	$(document).ready(function() {
+	
+		var countryFromCookie = readCookie('SelectedCountry');
+		var tokenDomainCookie = readCookie('TokenDomain');
+		if(triggerCountrySelection && 
+					(
+						(countryFromCookie == null && countryFromSession == '') || 
+						(!tokenDomainCookie && isCountryEMD == 'yes' && countryFromSession == '' && (typeof EMDDomain != "undefined" && EMDDomain && document.domain != EMDDomain))
+					)
+				) {
+			$("#countrySelector").click();
+		}
+		$(function() {
+			$.ajax({
+				type : "GET",
+				url : 'http://www.emdmillipore.com/Web-US-Site/en_CA/-/USD/ViewPagelet_comp_cart-MiniCart',
+				dataType : "html",
+				success: function(data) 
+				{
+					document.getElementById('mini-cart').innerHTML = data;
+				}
+			});
+		});
+
+		//check weather current page is PDP.
+	
+		$( "#print_me" ).click(function() {
+			if($("#isPdpPage").val()=="true")
+			{
+				
+	    	oPopupWindow = null;
+	    	modifyPrintContent();
+				
+			}
+			else
+			{
+				var oPopupWindowx = window.open(window.location,"_blank","status=yes,toolbar=no,menubar=no,location=yes,scrollbars=yes");
+		
+				oPopupWindowx.onload = function()
+				{
+					oPopupWindowx.$('footer').css('display','none');
+					oPopupWindowx.print();
+				};
+			}
+		});
+
+		$( "#print_me2" ).click(function() {
+		    	oPopupWindow = null;
+		    	modifyPrintContent();
+		});
+
+
+		$.fn.getDate = function() { 
+			 var d=new Date();
+			 var m = ['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'];
+			 var date = m[d.getMonth()] + " " + d.getDate() + ", "+ d.getFullYear();
+
+			 return date;
+		 }
+		
+	});
+ var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+ var is_safari = navigator.userAgent.toLowerCase().indexOf("safari") > -1;
+ function modifyPrintContent()
+	{
+	
+        if(oPopupWindow == null) {
+        	oPopupWindow = window.open(window.location,"_blank","status=yes,toolbar=no,menubar=no,location=yes,scrollbars=yes");
+        	if(is_chrome || is_safari) {
+        		oPopupWindow.onload = function() {oPopupWindow.printMyself();};
+        	}
+        }
+        				
+		if(!is_chrome || !is_safari) {		
+
+	     	if(oPopupWindow.document.readyState !== "complete" && isPricingFinished) {
+            	setTimeout(modifyPrintContent,500);
+        	} 
+       	else 
+        	{
+if ( oPopupWindow.$('.ish-smallLoader').is('.itIsDone') ) {
+					if($('#desc_short').css('display') == 'block')
+					{
+						oPopupWindow.$.toggleLongDescription('more');
+						oPopupWindow.$('#desc_full a').html("");
+					}					
+					oPopupWindow.$('#image-caption').css('display','none');
+					oPopupWindow.$('.cta.action').css('display','none');
+					oPopupWindow.$('.compare').css('display','none');
+					oPopupWindow.$('.search-box').css('display','none');
+					oPopupWindow.$('#recommended-viewed-products').css('display','none');
+					oPopupWindow.$('#design_price_kit').css('display','none');
+					oPopupWindow.$('.show-favorites').css('display','none');
+					oPopupWindow.$('.top-nav').css('display','none');
+					oPopupWindow.$('.store-nav').css('display','none');
+					oPopupWindow.$('.mega-nav').css('display','none');
+					oPopupWindow.$('.doc-links.clearfix').css('display','none');
+					oPopupWindow.$('.attributes').css('display','none');
+					oPopupWindow.$('.thumbs').css('display','none');
+					oPopupWindow.$('.image-container > nav').css('display','none');
+					oPopupWindow.$('#image-caption-for-print').css('display','block');
+					oPopupWindow.$('#merck-pdp-pdf-print-disclaimer').css('display','block');
+					oPopupWindow.$('#pdp_print_date').css('display','block');
+					oPopupWindow.$('#pdp_print_date').html($.fn.getDate());
+					oPopupWindow.$('#print_me').css('display','none');
+					var login_to_see_id = 'price-login-' + $('#isPdpPageProductSKU').val();
+					oPopupWindow.$('#'+login_to_see_id).html(' ');
+					var cnpTxt = $('#cnp_text_print_pdp');
+					oPopupWindow.$('footer .width_12').css('display','none');
+					oPopupWindow.$('footer div').css('display','none');
+					oPopupWindow.$('#cnp_text_print_pdp').css('display','block');
+					oPopupWindow.document.close();				
+					oPopupWindow.focus();
+					oPopupWindow.print();
+					oPopupWindow.close();
+} else {
+setTimeout(modifyPrintContent,500);
+}	
+      	}
+      	}
+	}
+
+function printMyself() {
+	if ( $('.ish-smallLoader').is('.itIsDone') ) {
+					if($('#desc_short').css('display') == 'block')
+					{
+						$.toggleLongDescription('more');
+						$('#desc_full a').html("");
+					}					
+					$('#image-caption').css('display','none');
+					$('.cta.action').css('display','none');
+					$('.compare').css('display','none');
+					$('.search-box').css('display','none');
+					$('#recommended-viewed-products').css('display','none');
+					$('#design_price_kit').css('display','none');
+					$('.show-favorites').css('display','none');
+					$('.top-nav').css('display','none');
+					$('.store-nav').css('display','none');
+					$('.mega-nav').css('display','none');
+					$('.doc-links.clearfix').css('display','none');
+					$('.attributes').css('display','none');
+					$('.thumbs').css('display','none');
+					$('.image-container > nav').css('display','none');
+					$('#image-caption-for-print').css('display','block');
+					$('#merck-pdp-pdf-print-disclaimer').css('display','block');
+					$('#pdp_print_date').css('display','block');
+					$('#pdp_print_date').html($.fn.getDate());
+					$('#print_me').css('display','none');
+					var login_to_see_id = 'price-login-' + $('#isPdpPageProductSKU').val();
+					$('#'+login_to_see_id).html(' ');
+					var cnpTxt = $('#cnp_text_print_pdp');
+					$('footer .width_12').css('display','none');
+					$('footer div').css('display','none');
+					$('#cnp_text_print_pdp').css('display','block');
+					this.document.close();				
+					this.focus();
+					this.print();
+					this.close();
+} else {
+setTimeout(printMyself,500);
+}	
+      	}
+</script>
+<script src="/waroot/s_code.js"></script> 
+<script type="text/javascript">
+window.pageVariationUUID = '372b.qB.BU8AAAFCC_4Xr7kb';
+</script>
+<noscript>
+	<div class="container_12 nojs-msg clearfix">
+		<article class="width_12">				
+				<header id="no-js-title">
+					<h1>It appears that your browser has JavaScript disabled.</h1>
+				</header>
+				<p>This Website requires your browser to be JavaScript enabled.</p>
+				<p>Please enable JavaScript and reload this page.</p>		
+		</article>
+	</div>
+</noscript>
+
+<!-- AnalyticsFooter -->
+<script type="text/javascript">//<![CDATA[
+if (window.jQuery) {
+(function ($){ 
+var _scdataServer = {
+  "contentlevel" : "Legal|Privacy Statement",
+  "contenttype" : "Category Page",
+  "country" : "United States of America",
+  "errorcode" : "",
+  "errorurl" : "",
+  "failedlogin" : "false",
+  "language" : "en_CA",
+  "loginstatus" : "public",
+  "pageid" : "073013022335",
+  "pagename" : "Privacy Statement_073013022335",
+  "path" : "Legal|Privacy Statement",
+  "redirects" : "",
+  "sbu" : "",
+  "searchterm" : "",
+  "site_area" : "Category",
+  "variantid" : "Category Page - Category Page - Privacy Statement"
+};
+
+if (typeof window._scdataDynamic === "undefined") {
+window._scdataDynamic = {};
+}
+window._scdata = $.extend({}, _scdataServer , window._scdataDynamic);
+})(jQuery);
+} else {
+console.log("JQuery is not loaded yet!");
+}
+//]]></script> 
+ 
+
+
+
+
+
+
+
+
+
+ 
+</body></html>
