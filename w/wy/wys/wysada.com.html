@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the wysada.com privacy policy that was archived on 2014-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140613212904id_/http%3A//wysada.com/en/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wysada.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220195035id_/http%3A//wysada.com/en/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en" class="no-js"><!--<![endif]--><head>
 	
-<meta charset="utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/1369.js?439022" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8EVFZSGwAJVFlWDgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MQSBGF"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw8EVFZSGwAJVFlWDgg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy - WYSADA</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -23,10 +23,15 @@
 
 
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-<link type="text/css" rel="stylesheet" href="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/css/app.css">
+<link type="text/css" rel="stylesheet" href="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/css/app_1418991144.css">
+<link type="text/css" rel="stylesheet" href="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/css/print.css" media="print">
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript">jQuery.noConflict();</script>
+
+<link type="text/css" rel="stylesheet" href="http://static1.wysadacdn.com/skin/frontend/base/default/css/Toogas/Featuredpopup/default.css">
+
+<link rel="apple-touch-icon" href="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/images/encoded/60x60px.jpg">
 
 <!--[if lte IE 8]>
 <script type="text/javascript" src="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/js/jquery/selectivizr.js"></script>
@@ -46,6 +51,7 @@
 <script type="text/javascript" src="http://static3.wysadacdn.com/js/startup.js"></script>
 <script type="text/javascript" src="http://static3.wysadacdn.com/js/prototype/window.js"></script>
 <script type="text/javascript" src="http://static3.wysadacdn.com/js/belvg/referralreward.js"></script>
+<script type="text/javascript" src="http://static3.wysadacdn.com/js/tco/tco.infinitescroll.js"></script>
 <script type="text/javascript" src="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/js/jquery/jquery.bxslider.js"></script>
 <script type="text/javascript" src="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/js/jquery/jquery.colorbox.js"></script>
 <script type="text/javascript" src="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/js/tco/ajaxaccount.js"></script>
@@ -55,6 +61,7 @@
 <script type="text/javascript" src="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/js/modernizr-wysada.js"></script>
 <script type="text/javascript" src="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/js/slidebars.js"></script>
 <script type="text/javascript" src="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/js/plugins.js"></script>
+<link href="http://wysada.com/en/rss/catalog/latest/store_id/1/" title="Latest Products Feed" rel="alternate" type="application/rss+xml">
 
 <script type="text/javascript">
 //<![CDATA[
@@ -77,40 +84,37 @@ Mage.Cookies.domain   = '.wysada.com';
 optionalZipCountries = ["AF","AX","AL","DZ","AS","AD","AO","AI","AQ","AG","AR","AM","AW","AU","AT","AZ","BS","BH","BD","BB","BY","BE","BZ","BJ","BM","BT","BO","BA","BW","BV","BR","IO","VG","BN","BG","BF","BI","KH","CM","CA","CV","KY","CF","TD","CL","CN","CX","CC","CO","KM","CG","CD","CK","CR","CI","HR","CU","CY","CZ","DK","DJ","DM","DO","EC","EG","SV","GQ","ER","EE","ET","FK","FO","FJ","FI","FR","GF","PF","TF","GA","GM","GE","DE","GH","GI","GR","GL","GD","GP","GU","GT","GG","GN","GW","GY","HT","HM","HN","HK","HU","IS","IN","ID","IR","IQ","IE","IM","IL","IT","JM","JP","JE","JO","KZ","KE","KI","KW","KG","LA","LV","LB","LS","LR","LY","LI","LT","LU","MO","MK","MG","MW","MY","MV","ML","MT","MH","MQ","MR","MU","YT","MX","FM","MD","MC","MN","ME","MS","MA","MZ","MM","NA","NR","NP","NL","AN","NC","NZ","NI","NE","NG","NU","NF","MP","KP","NO","OM","PK","PW","PS","PA","PG","PY","PE","PH","PN","PL","PT","PR","QA","RE","RO","RU","RW","BL","SH","KN","LC","MF","PM","VC","WS","SM","ST","SA","SN","RS","SC","SL","SG","SK","SI","SB","SO","ZA","GS","KR","ES","LK","SD","SR","SJ","SZ","SE","CH","SY","TW","TJ","TZ","TH","TL","TG","TK","TO","TT","TN","TR","TM","TC","TV","UG","UA","AE","GB","US","UY","UM","VI","UZ","VU","VA","VE","VN","WF","EH","YE","ZM","ZW"];
 //]]>
 </script>
+
 <script>
 	//globals for login
 	var root_url = "http://wysada.com/en/";
 	var ajaxaccount = {};
 	ajaxaccount.loginURL = 'http://wysada.com/en/ajaxaccount/account/login/';
+	ajaxaccount.snsURL = 'http://wysada.com/en/ajaxaccount/account/sns/';
+	ajaxaccount.countryIP='US';
 	ajaxaccount.staticLoginURL = 'http://wysada.com/en/customer/account/login/';
 	ajaxaccount.forgotURL = 'http://wysada.com/en/ajaxaccount/account/forgotPassword/';
 	ajaxaccount.loggedIn = false;
+	ajaxaccount.Curcountry='INT';
+	ajaxaccount.Base='http://wysada.com/en/';
 	jQuery(document).ready(function(){
 		Translator.add('Continue shopping', 'Continue shopping');
 	});
-</script><script type="text/javascript">//<![CDATA[
+</script>
+<script type="text/javascript">//<![CDATA[
         var Translator = new Translate({"Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Please enter a valid phone number.","Please enter a valid email address. For example johndoe@domain.com.":"Invalid email address"});
-        //]]></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+        //]]></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 <body class=" cms-page-view cms-privacy-policy">
-<!-- BEGIN GOOGLE ANALYTICS CODEs -->
-<script type="text/javascript">
-//<![CDATA[
-    var _gaq = _gaq || [];
-    
-_gaq.push(['_setAccount', 'UA-35694901-1']);
-_gaq.push(['_trackPageview']);
-    _gaq.push(['_setAllowLinker', true]);
-    
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
 
-//]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
+<script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No"}];</script>
+
+
+<!-- Google Tag Manager -->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MQSBGF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MQSBGF');</script>
+
+<!-- End Google Tag Manager -->
 
 <div id="sb-site">
 	<!-- Your main site content. -->
@@ -127,11 +131,9 @@ _gaq.push(['_trackPageview']);
 		
 <header class="site-header">
 	<div class="site-header-top">
-
-		<a class="site-logo" href="http://wysada.com/en/" title="WYSADA">
-			<img src="http://static1.wysadacdn.com/skin/frontend/enterprise/wysada-new/images/encoded/logo-wysada.png" alt="Wysada logo">
-		</a>
-
+        <h1>
+        	<a class="site-logo" href="http://wysada.com/en/" title="WYSADA">Wysada</a>
+        </h1>
 		<div class="site-header__extras-wrapper">
 			<ul class="customer-nav">
 				<li class="customer-nav__mobile">
@@ -215,7 +217,7 @@ _gaq.push(['_trackPageview']);
 				<li class="customer-nav__divider"></li>
 
 				<li class="customer-nav__account ">
-					<span><!--{WELCOME_bf67a2d2be3704171d1de4d71e03e9c9}--><a onclick="ajaxLoginDialog(false, event, false);" href="https://wysada.com/en/customer/account/login/" class="popup-login exc">Login</a><span> or </span><a onclick="ajaxLoginDialog(false, event, true);" href="https://wysada.com/en/customer/account/create/" class="popup-register exc">Sign Up</a><!--/{WELCOME_bf67a2d2be3704171d1de4d71e03e9c9}--></span>
+					<span><a id="head-login" onclick="ajaxLoginDialog(false, event, false);" href="https://wysada.com/en/customer/account/login/" class="popup-login exc">Login</a><span> or </span><a id="head-register" onclick="ajaxLoginDialog(false, event, true);" href="https://wysada.com/en/customer/account/create/" class="popup-register exc">Sign Up</a></span>
 
 									</li>
 
@@ -229,8 +231,8 @@ _gaq.push(['_trackPageview']);
 	</button>
 
 
-	<div class="" id="searchajaxico" style="display: none;"></div>
-	<div id="search_autocomplete" class="search-autocomplete" style="display:none;"></div>
+	<div class="" id="searchajaxico"></div>
+	<div id="search_autocomplete" class="search-autocomplete"></div>
 
 		<script type="text/javascript">
 		Event.observe('search', 'keydown', function(event){
@@ -284,7 +286,7 @@ _gaq.push(['_trackPageview']);
 		{
 			//flag=1;
 			//alert("Is clck");
-			//$('search_autocomplete').show();
+			//$('search_autocomplete').show(); 
 		}
 		//]]>
 		function gosearch()
@@ -307,7 +309,7 @@ _gaq.push(['_trackPageview']);
 		</div>
 	</div>
 
-	<!--{TOPMENU_95689ba07fc067975655fc950d42638d}-->
+	
 <div class="top-nav-wrapper">
 	<span class="bg-truck"></span>
 	<ul id="top-nav" class="site-nav top-nav">
@@ -315,77 +317,77 @@ _gaq.push(['_trackPageview']);
 				<a href="http://wysada.com/en/all-sales">
 					ALL SALES				</a>
 
-								<div class="site-nav--dropdown" style="display: none">
+								<div class="site-nav--dropdown">
 
 												<div class="site-nav--dropdown-col site-nav--dropdown-col-narrow">
 							<p class="site-nav--dropdown-heading h2">Latest Sales</p>
 																									<ul class="site-nav--dropdown-list">
 								
 								<li>
-									<a href="http://wysada.com/en/all-sales/scented-soaps-for-your-home">Scented Soaps for your Home</a>
+									<a href="http://wysada.com/en/all-sales/furniture-radiance-safavieh">Furniture Radiance - Safavieh</a>
 								</li>
 
 								
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/summer-lounging-with-missoni">Summer Lounging with Missoni</a>
+									<a href="http://wysada.com/en/all-sales/the-intrepid-explorer">The Intrepid Explorer</a>
 								</li>
 
 								
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/get-the-look-garden-living">Get the Look: Garden Living</a>
+									<a href="http://wysada.com/en/all-sales/tabletop-treasures">Tabletop Treasures</a>
 								</li>
 
 								
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/french-country-chic">French Country Chic</a>
+									<a href="http://wysada.com/en/all-sales/vintage-browns">Vintage Browns</a>
 								</li>
 
 								
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/editors-pick-bedroom-bliss">Editor’s Pick: Bedroom Bliss</a>
+									<a href="http://wysada.com/en/all-sales/dreamscene-bedding">Dreamscene Bedding</a>
 								</li>
 
 								
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/decadent-lighting-from-honsel">Decadent Lighting from Honsel</a>
+									<a href="http://wysada.com/en/all-sales/dressed-to-impress">Dressed to Impress</a>
 								</li>
 
 								
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/cook-in-color-kitchen-scales">Cook in Color – Kitchen Scales</a>
+									<a href="http://wysada.com/en/all-sales/gothic-glamour-skull-tableware">Gothic Glamour - Skull Tableware</a>
 								</li>
 
 								
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/colorful-handbags-for-summer-fun">Colorful Handbags for Summer Fun</a>
+									<a href="http://wysada.com/en/all-sales/alex-clark-tableware-love-birds">Alex Clark Tableware - Love Birds</a>
 								</li>
 
 								
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/wysada-exclusive-luxury-versace-tableware">Wysada Exclusive-Luxury Versace Tableware</a>
+									<a href="http://wysada.com/en/all-sales/masterchef-in-the-making">Masterchef in the Making</a>
 								</li>
 
 								
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/timeless-home-accessories">Timeless Home Accessories</a>
+									<a href="http://wysada.com/en/all-sales/mosaic-splendor">Mosaic Splendor</a>
 								</li>
 
 								
@@ -397,70 +399,70 @@ _gaq.push(['_trackPageview']);
 																									<ul class="site-nav--dropdown-list">
 								
 								<li>
-									<a href="http://wysada.com/en/all-sales/distinctive-design-from-tom-raffield">Distinctive Design from Tom Raffield</a>
+									<a href="http://wysada.com/en/all-sales/handcrafted-mother-of-pearl-furniture">Handcrafted Mother of Pearl Furniture</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/luxury-grooming-from-carmen">Luxury Grooming from Carmen</a>
+									<a href="http://wysada.com/en/all-sales/calligraphy-printed-wall-art">Calligraphy Printed Wall Art</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/collectible-wall-art-from-parvez-taj-1">Collectible Wall Art from Parvez Taj</a>
+									<a href="http://wysada.com/en/all-sales/helena-springfield-a-pastel-boudoir">Helena Springfield: A Pastel Boudoir</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/get-the-look-vibrant-wall-art">Get the Look: Vibrant Wall Art</a>
+									<a href="http://wysada.com/en/all-sales/retro-home-accents">Retro Home Accents</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/contemporary-hanging-clocks">Contemporary Hanging Clocks</a>
+									<a href="http://wysada.com/en/fashion-accessories/swarovski-elements-jewelry">Swarovski Elements Jewelry</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/editors-pick-summer-garden-essentials">Editor's Pick: Summer Garden Essentials</a>
+									<a href="http://wysada.com/en/all-sales/ornate-detailed-finishes">Ornate Detailed Finishes</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/summer-silk-bedding-from-gingerlily">Summer Silk Bedding from Gingerlily</a>
+									<a href="http://wysada.com/en/all-sales/the-dark-side">The Dark Side</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/luxury-cashmere-scarves-and-throws">Luxury Cashmere Scarves and Throws</a>
+									<a href="http://wysada.com/en/all-sales/helena-springfield-bedroom-brights">Helena Springfield: Bedroom Brights</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/editors-pick-lamps-to-love">Editor’s Pick: Lamps to Love</a>
+									<a href="http://wysada.com/en/all-sales/traditional-garden-elegance">Traditional Garden Elegance</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/italian-handmade-leather-handbags">Italian Handmade Leather Handbags</a>
+									<a href="http://wysada.com/en/all-sales/kitchen-cool-from-morphy-richards">Kitchen Cool from Morphy Richards</a>
 								</li>
 
 																									
@@ -469,74 +471,74 @@ _gaq.push(['_trackPageview']);
 																									<ul class="site-nav--dropdown-list">
 								
 								<li>
-									<a href="http://wysada.com/en/all-sales/luxury-leather-accessories-from-estados">Luxury Leather Accessories from Estados</a>
+									<a href="http://wysada.com/en/all-sales/dreamscene-thows-and-blankets">Dreamscene Throws and Blankets</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/pretty-patterned-porcelain-tableware">Pretty Patterned Porcelain Tableware</a>
+									<a href="http://wysada.com/en/fashion-accessories/travel-in-style">Travel in Style</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/wireless-sound-from-jabra">Wireless Sound from Jabra</a>
+									<a href="http://wysada.com/en/all-sales/pop-art-seating">Pop Art Seating</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/chateau-chic-summer-pastels">Chateau Chic – Summer Pastels</a>
+									<a href="http://wysada.com/en/all-sales/classical-living">Classical Living</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/get-the-look-elegant-home-adornments">Get the Look: Elegant Home Adornments</a>
+									<a href="http://wysada.com/en/all-sales/the-best-of-morphy-richards">The Best of Morphy Richards</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/travel-in-style-with-american-tourister">Travel in Style with American Tourister </a>
+									<a href="http://wysada.com/en/all-sales/luxury-lamps">Luxury Lamps</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/bed-bath-essentials-from-lexington">Bed &amp; Bath Essentials from Lexington</a>
+									<a href="http://wysada.com/en/all-sales/gold-silver-decadence">Gold &amp; Silver Decadence</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/wysada-exclusive-luxury-versace-tableware">Wysada Exclusive-Luxury Versace Tableware</a>
+									<a href="http://wysada.com/en/all-sales/amefa-cutlery-sets">Amefa Cutlery Sets</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/cook-in-color-kitchen-scales">Cook in Color – Kitchen Scales</a>
+									<a href="http://wysada.com/en/all-sales/contemporary-cushions-by-elizabeth’s-tailleur">Contemporary Cushions by Elizabeth’s Tailleur</a>
 								</li>
 
 																									
 								
 																
 								<li>
-									<a href="http://wysada.com/en/all-sales/timeless-home-accessories">Timeless Home Accessories</a>
+									<a href="http://wysada.com/en/all-sales/us-polo-bedding-sets">U.S Polo-Bedding Sets</a>
 								</li>
 
 																											<li>
-											<a class="btn" href="http://wysada.com/en/all-sales" style="color: #FFFFFF">ALL SALES</a>
+											<a class="btn" href="http://wysada.com/en/all-sales">ALL SALES</a>
 										</li>
 																	
 																	</ul>
@@ -548,7 +550,7 @@ _gaq.push(['_trackPageview']);
 				<a href="#">
 					CATEGORIES				</a>
 
-								<div class="site-nav--dropdown" style="display: none">
+								<div class="site-nav--dropdown">
 
 											<div class="site-nav--dropdown-col site-nav--dropdown-col-narrow">
 							<p class="site-nav--dropdown-heading h2">Categories</p>
@@ -591,6 +593,11 @@ _gaq.push(['_trackPageview']);
 					THE MALL				</a>
 
 							</li>
+								<li class="">
+				<a href="http://wysada.com/en/fashion-accessories">
+					FASHION ACCESSORIES				</a>
+
+							</li>
 						</ul>
 
 	<p class="free-shipping-top">
@@ -606,18 +613,18 @@ _gaq.push(['_trackPageview']);
 			<li><a href="http://wysada.com/en/narrow/kids_babies">Kids &amp; Babies</a></li>
 			<li><a href="http://wysada.com/en/narrow/kitchen_dining">Kitchen &amp; Dining</a></li>
 			<li><a href="http://wysada.com/en/narrow/outdoor_garden">Outdoor &amp; Garden</a></li>
-	</ul><!--/{TOPMENU_95689ba07fc067975655fc950d42638d}--></header>
+	</ul></header>
 
 
-		<!--{GLOBAL_MESSAGES_080eef98e74771eff102b2bda2d8758c}--><!--/{GLOBAL_MESSAGES_080eef98e74771eff102b2bda2d8758c}-->		
+				
 		<div class="site-content">
 			    <div class="page-title">
         <h1>Privacy Policy</h1>
     </div>
-<div class="cms-page-wrapper"><!--{MESSAGES_04f39d18f79007c091e3292473e63481}--><!--/{MESSAGES_04f39d18f79007c091e3292473e63481}--><div class="std"><!-- START PRIVACY POLICY CODE -->
+<div class="cms-page-wrapper"><div class="std"><!-- START PRIVACY POLICY CODE -->
 <div>
-<p><strong>What information we collect:</strong><br>We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or Facebook profile. <br><br>When ordering or registering on our site, you may be asked to enter your name, e-mail address, phone number or country. You may, however, visit our site anonymously.<br><br> <strong>What we use your information for:</strong><br>Any of the information we collect from you may be used in one of the following ways:</p>
-<ul style="margin: 10px 0px 10px 30px;">
+<p><strong> What information we collect: </strong> <br> We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or Facebook profile. <br><br> When ordering or registering on our site, you may be asked to enter your name, e-mail address, phone number or country. You may, however, visit our site anonymously. <br><br> <strong> What we use your information for: </strong> <br> Any of the information we collect from you may be used in one of the following ways:</p>
+<ul class="suprt_ansr_ul">
 <li>• To personalize your experience: your information helps us to better respond to your individual needs</li>
 <li>• To improve our website: We continually strive to improve our website based on the information and feedback we receive from you</li>
 <li>• To improve customer service: Your information helps us to effectively respond to your customer service requests and support needs</li>
@@ -626,10 +633,10 @@ _gaq.push(['_trackPageview']);
 <li>• To send periodic emails: The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to <br> &nbsp;&nbsp;&nbsp;receiving occasional company news, updates, related product or service information, etc</li>
 </ul>
 <p>&nbsp;</p>
-<p>Note: If at any time you would like to unsubscribe from Wysada emails, there are detailed unsubscribe instructions at the bottom of each email.<br><br> <strong>How we protect your information:</strong><br>We implement a variety of security measures to maintain the safety of your personal information, when you place an order with us, or enter, submit, or access your personal information. <br> <br>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database. This is only accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.<br><br>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.<br><br> <strong>Do we use cookies?</strong> <br>A Cookie is a small data file that is stored by your Web browser on your computer.</p>
-<p>We use Cookies to keep track of your current shopping session, to enable you to proceed to checkout at any time and to personalize your online experience. If you do not accept Cookies you will be unable to use this website.<br><br> <strong>Do we disclose any information to outside parties?</strong> <br>We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. <br> This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, as long as those parties agree to keep this information confidential. <br> We may also release your information when we believe is appropriate. For example; to comply with the law, enforce our site policies, protect our property and safety, or to protect our rights and the rights of others. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br><br> <strong>Customer care</strong><br>Please contact our Customer Care team during business hours for immediate assistance:<br><br> </p><div class="widget widget-static-block"><p>Email us at: <a href="mailto:support@wysada.com"><strong>support@wysada.com</strong></a> <br> <span style="width: 125px; float: left;">Toll Free inside UAE:</span><strong>800WYSADA or 800 997232</strong><br><span style="width: 125px; float: left;">Outside UAE:</span><strong>+971 800 997232<br></strong><span style="width: 125px; float: left;">Jordan:</span><strong>+962 78 7773999<br></strong> <br> <br> Hours of operation from Saturday to Thursday: <br> <span style="width: 45px; float: left;">Jordan:</span> <strong>8:00am-8:00pm</strong><br> <span style="width: 45px; float: left;">KSA:</span><strong>9:00am-9:00pm</strong><br> <span style="width: 45px; float: left;">UAE:</span><strong>10:00am-10:00pm</strong></p>
+<p>Note: If at any time you would like to unsubscribe from Wysada emails, there are detailed unsubscribe instructions at the bottom of each email. <br><br> <strong> How we protect your information: </strong> <br> We implement a variety of security measures to maintain the safety of your personal information, when you place an order with us, or enter, submit, or access your personal information. <br> <br> We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database. This is only accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. <br><br> After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. <br><br> <strong> Do we use cookies? </strong> <br> A Cookie is a small data file that is stored by your Web browser on your computer.</p>
+<p>We use Cookies to keep track of your current shopping session, to enable you to proceed to checkout at any time and to personalize your online experience. If you do not accept Cookies you will be unable to use this website. <br><br> <strong> Do we disclose any information to outside parties? </strong> <br> We do not sell, trade, or otherwise transfer your personally identifiable information to outside parties. <br> This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, as long as those parties agree to keep this information confidential. <br> We may also release your information when we believe is appropriate. For example; to comply with the law, enforce our site policies, protect our property and safety, or to protect our rights and the rights of others. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. <br><br> <strong> Customer care </strong> <br> Please contact our Customer Care team during business hours for immediate assistance: <br><br> </p><div class="widget widget-static-block"><p>Email us at: <a href="mailto:support@wysada.com"><strong>support@wysada.com</strong></a> <br> <span class="wy_cms_sb_contct">Toll Free inside UAE:</span> <strong>800WYSADA or 800 997232</strong> <br> <span class="wy_cms_sb_contct"> Outside UAE:</span> <strong> +971 800 997232 <br> </strong> <span class="wy_cms_sb_contct"> Jordan: </span> <strong> +962 78 7773999 <br> </strong> <br> <br> Hours of operation from Saturday to Thursday: <br> <span class="wy_cms_sb_contct_spn"> Jordan: </span> <strong> 9:00am-6:00pm </strong> <br> <span class="wy_cms_sb_contct_spn"> KSA: </span> <strong> 9:00am-6:00pm </strong> <br> <span class="wy_cms_sb_contct_spn"> UAE: </span> <strong> 10:00am-7:00pm </strong></p>
 <p>Holiday: Friday.</p></div>
-<br> <strong>Our Address:</strong> <br>Al Barsha1-Bedaya Building 3rd floor Office no.307<br> Dubai, Dubai 487084<br>UAE <br><br> <strong>Your Consent</strong> <br>By using our site, you consent to our web site privacy policy.<br><br> <strong>Changes to our Privacy Policy</strong> <br>If we decide to change our privacy policy, we will post such changes on this page.<br><br> <strong>Contacting Us</strong> <br>If you have any questions regarding this privacy policy, do get in touch using the information above. <br><br>Wysada.com - Happiness Delivered<p></p>
+ <br> <strong> Our Address: </strong> <br><br> Al Barsha1-Bedaya Building 3rd floor Office no.307 <br> Dubai, Dubai 487084 <br> UAE <br><br> <strong> Your Consent </strong> <br><br> By using our site, you consent to our web site privacy policy. <br><br> <strong> Changes to our Privacy Policy </strong> <br> <br> If we decide to change our privacy policy, we will post such changes on this page. <br><br> <strong> Contacting Us </strong> <br> <br> If you have any questions regarding this privacy policy, do get in touch using the information above. <br><br> Wysada.com - Happiness Delivered<p></p>
 <!-- END PRIVACY POLICY CODE --></div>
 </div></div>		</div>
 	</div>
@@ -667,8 +674,8 @@ _gaq.push(['_trackPageview']);
 
 		<ul class="footer--col">
 			<li><a href="http://wysada.com/en/contacts/">Contact Us</a></li>
+			<li><a href="mailto:pr@wysada.com">Press Inquiries</a></li>
 			<li><a href="http://wysada.com/en/vendor/">Become a Vendor</a></li>
-			<li><a href="http://wysada.com/en/affiliate/">Become an Affiliate</a></li>
 			<li class="footer--social">
 				<ul>
 					<li><a class="facebook" href="http://www.facebook.com/wysada" target="_blank"></a></li>
@@ -684,73 +691,35 @@ _gaq.push(['_trackPageview']);
 </div>
 
 
+<script>
+    var touch = navigator.userAgent.match('android. +mobile/avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|iP(hone)|iris|kindle|lge|Andro|U\-GT-N8000|iP(a|ro)d|kindle|Tablet|GT-P10|SC-01C|SHW-M180S|SGH-T849|SCH-I800|SHW-M180L|SPH-P100|SGH-I987|zt180|HTC(.Flyer|\_Flyer)|Sprint.ATP51|ViewPad7|pandigital(sprnova|nova)|Ideos.S7|Dell.Streak.7|Advent.Vega|A101IT|A70BHT|MID7015|Next2|nook/i');
+    if (navigator.userAgent.indexOf('Firefox') != -1){//Firefox
+    //Allow
+    }else if (navigator.userAgent.indexOf('Chrome') != -1){//Chrome
+    //Allow
+    }else if(navigator.userAgent.indexOf('Safari') == -1 && navigator.userAgent.indexOf('Version') == -1   || touch || navigator.userAgent.indexOf('Macintosh') != -1 ){//Safari
+    //Allow
+    }else if (navigator.userAgent.indexOf('MSIE') != -1 && parseFloat(navigator.userAgent.substring(navigator.userAgent.indexOf('MSIE')).split(' ')[0]) >= 8){//IE
+    //Allow
+    }
+    else
+    {
+        // Block
+        //document.body.onload = addElement;
+        jQuery(document).ready(function()
+        {
+            var divTag = document.createElement("div");
+            divTag.className ="browser-check";
+            
+            divTag.innerHTML = "You're currently using an old browser that is not supported anymore! Please consider upgrading to <a href=\"//www.google.com/chrome/\" target=_blanck> Google Chrome</a> for a much better experience";
+            
+            my_div = document.getElementById("sb-site"); 
+            document.body.insertBefore( divTag, my_div )
+        });
 
-<!-- AdTegrity Tracking -->
-<img src="https://a.adtpix.com/px/?id=103427" width="1" height="1">
-<!-- End AdTegrity -->
-
-<!-- Start Alexa Certify Javascript -->
-<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "U9Y/g1agYe00Oz", domain:"wysada.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=U9Y/g1agYe00Oz" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->
-
-<!-- Start Yahoo! -->
-<img src="https://ad.yieldmanager.com/pixel?id=2371106&amp;t=2" width="1" height="1" style="bottom: 0; position: absolute;">
-<!-- End Yahoo! -->
-
-
-
-<!-- CrazyEgg -->
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/1369.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+    }
 </script>
-<!-- End CrazyEgg -->
 
-<!-- Start Affiliate Tracking Script -->
-<script type="text/javascript">
-<!--
-document.write(unescape("%3Cscript id='omniaff_o789258' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") +  "wysada.myomnistar.com/track.js' type='text/javascript'%3E%3C/script%3E"));
-//--> </script><script id="omniaff_o789258" src="https://wysada.myomnistar.com/track.js" type="text/javascript"></script>
-<!-- End Affiliate Tracking Script -->
-
-<!-- Start Adroll -->
-<script type="text/javascript">
-adroll_adv_id = "LQSIKOFOH5BITEG5PLINLC";
-adroll_pix_id = "G2K2J7LNNBBKNEQT2ZUKVJ";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-<!-- End Adroll -->
-
-<!-- Google Code for Remarketing Tag -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 973048343;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/973048343/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- End Google Code for Remarketing Tag -->
 </div>
 
 <div class="sb-slidebar sb-right">
@@ -760,8 +729,8 @@ var google_remarketing_only = true;
 			<button class="mini-search__submit js-search-submit" type="button" title="Search">
 				<i class="fa fa-search"></i>
 			</button>
-			<div class="" id="searchajaxico" style="display: none;"></div>
-			<div id="search_autocomplete" class="search-autocomplete" style="display:none;"></div>
+			<div class="" id="searchajaxico"></div>
+			<div id="search_autocomplete" class="search-autocomplete"></div>
 		</form>
 	</div>
 	<nav>
@@ -811,6 +780,10 @@ var google_remarketing_only = true;
 								<li class="">
 				<a class="sb-toggle-submenu" href="http://wysada.com/en/mall">
 					THE MALL				</a>
+							</li>
+								<li class="">
+				<a class="sb-toggle-submenu" href="http://wysada.com/en/fashion-accessories">
+					FASHION ACCESSORIES				</a>
 							</li>
 						</ul>
 
@@ -893,13 +866,14 @@ var google_remarketing_only = true;
 
 	<ul class="sb-menu-switches">
 		<li>
-			<!--{WELCOME_bf67a2d2be3704171d1de4d71e03e9c9}--><a onclick="ajaxLoginDialog(false, event, false);" href="https://wysada.com/en/customer/account/login/" class="popup-login exc">Login</a><span> or </span><a onclick="ajaxLoginDialog(false, event, true);" href="https://wysada.com/en/customer/account/create/" class="popup-register exc">Sign Up</a><!--/{WELCOME_bf67a2d2be3704171d1de4d71e03e9c9}-->		</li>
+			<a id="head-login" onclick="ajaxLoginDialog(false, event, false);" href="https://wysada.com/en/customer/account/login/" class="popup-login exc">Login</a><span> or </span><a id="head-register" onclick="ajaxLoginDialog(false, event, true);" href="https://wysada.com/en/customer/account/create/" class="popup-register exc">Sign Up</a>		</li>
 		<li>
 					</li>
 	</ul>
 </nav>
 </div>
 
+<div id="fb-root"></div>
 <script language="JavaScript" type="text/javascript">
 /*<![CDATA[*/
 window.fbAsyncInit = function() {
@@ -960,6 +934,6 @@ function fblogin(event){
 	return false;
 }
 /*]]>*/
-</script><!--{WISHLISTS_585397e8ee43f32a9fd0407322b92be9}--><!--/{WISHLISTS_585397e8ee43f32a9fd0407322b92be9}--><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"8950a48207","applicationID":"3908499","transactionName":"blFXbEtSXxdYARVQV1cbYEpQHFgKXQcZF0hRRA==","queueTime":0,"applicationTime":586,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"8950a48207","applicationID":"3908499","transactionName":"blFXbEtSXxdYARVQV1cbdk1KR14JFgEMShdJVVJdFkVYAU5CSVRXXUFZXQMTUglKSw==","queueTime":0,"applicationTime":445,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
