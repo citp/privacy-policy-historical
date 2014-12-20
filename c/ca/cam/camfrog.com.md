@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camfrog.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528024801id_/http%3A//www.camfrog.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camfrog.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220042323id_/https%3A//www.camfrog.com/en/privacy.phtml) for the most accurate reproduction.*
 
 # Camfrog - Privacy Policy
 
@@ -53,7 +53,7 @@ Camfrog.com
 PO Box 685106  
 Austin, TX, 78768 
 
-Or, please contact our helpful customer support staff online at [www.camfrog.com/help](http://www.camfrog.com/help).
+Or, please contact our helpful customer support staff online at [www.camfrog.com/help](https://www.camfrog.com/en/help).
 
 ## Log Files
 
