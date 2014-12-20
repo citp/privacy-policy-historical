@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guff.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090501id_/http%3A//www.guff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guff.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220075731id_/http%3A//guff.com/privacy) for the most accurate reproduction.*
 
 # Guff
 
-_Updated: November 25, 2012_
+_Updated: June 16, 2014_
 
 Your privacy is one of our biggest concerns. Occasionally Guff.com may change its privacy policy. Guff.com encourages visitors to check this page often to check for any changes to the privacy policy. Continued use of Guff.com websites upon modification to its privacy policy will act as your acceptance of any and all changes.
 
