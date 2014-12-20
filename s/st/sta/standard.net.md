@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standard.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628105000id_/http%3A//www.standard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220143209id_/http%3A//www.standard.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy | Standard-Examiner
 
