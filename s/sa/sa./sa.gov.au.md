@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627182157id_/http%3A//www.sa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sa.gov.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220192838id_/http%3A//www.sa.gov.au/privacy) for the most accurate reproduction.*
 
 # sa.gov.au - Privacy
 
