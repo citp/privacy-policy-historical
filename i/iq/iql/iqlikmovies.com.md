@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqlikmovies.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608072622id_/http%3A//www.iqlikmovies.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqlikmovies.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220031658id_/http%3A//www.iqlikmovies.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy :: iQlik Movies
 
