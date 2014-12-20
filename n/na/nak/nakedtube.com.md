@@ -1,53 +1,23 @@
-> *The following text is extracted and transformed from the nakedtube.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126222841id_/http%3A//www.nakedtube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedtube.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220182719id_/http%3A//nakedtube.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**PRIVACY POLICY FOR NakedTube.com**
+The following discloses our information gathering and dissemination practices for the websites operated by us. 
 
-This Privacy Policy statement sets forth the policies and practices with respect to information or data that is received or gathered regarding Members, visitors and Users of NakedTube.com (hereafter the "Site") or the services provided by this Site.
+Because of the way that World Wide Web communication standards work, when you arrive at or leave our website, we automatically receive the IP address of the site that you came from or are going to. We use IP addresses primarily to optimize website presentation, control website access, and improve server performance. IP addresses may also be used to help identify visitors and to gather broad demographic information. We also collect information on which pages of our website you visit while you are on our website, the type of browser you use and the times you access our website. We use this information only to try to understand our member/ subscriber's preferences better and to manage the load on our servers, so as to improve our service and your experience with our website. 
 
-CAREFULLY READ THIS PRIVACY POLICY STATEMENT BECAUSE BY YOUR USE OF THIS SITE AND ITS SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS POLICY STATEMENT.
+"Cookies" are small files of data that reside on your computer and allow us to recognize you as a member, subscriber or prior visitor if you return to our website using the same computer and browser. We send a "session cookie" to your computer if and when you log in to your membership account by entering your e-mail address and password. These cookies allow us to recognize you if you visit multiple pages in our site during the same session, so that you don't need to re-enter your password multiple times. Once you log out or close your browser, these session cookies expire and no longer have any effect. 
 
-IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT USE THIS SITE OR THE SERVICES PROVIDED BY THIS SITE.
+We also may use longer-lasting cookies to display your e-mail address on our sign-in form, so that you don't have to retype the e-mail address each time when you log in to your membership account. In addition, we use cookies to process our referral program, described in Section C below. Our cookie files are encoded so that your e-mail address and other information can only be interpreted by Us. We may, however, share cookie information regarding whether or not a certain user is already registered with us with certain merchants, partners and third-parties with whom we have an official relationship. 
 
-**1\. MEMBER, VISITOR OR USER INFORMATION**
+Contact information is primarily used to communicate with members when necessary about membership or product concerns. Contact information may also be used to convey promotional opportunities from us or our We Internet-approved partners. We may disclose information that we in good faith believe is appropriate to cooperate in investigations of fraud or other illegal activity, or to conduct investigations of violations of our User Agreement. For example, this means that if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we can give that person or entity's contact information to victims who request it. Furthermore, we do disclose information in response to a subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver or other comparable legal process, including subpoenas from private parties in a civil action. 
 
-If you visit this Site, we will collect and store in our database only the following non-personally identifying information from you; the name of the domain name from which you access the Internet; the date and time you access our site; and the Internet address of the Website from which you linked directly to our site.
+Our websites often contain links to other websites (“third-party websites”). We is not responsible for the privacy practices or the content of other such websites. Transactions that occur between the User and third parties are strictly between the User and the third party and are not the responsibility of We. Furthermore, we are not responsible for the availability, privacy practices, policies or content of third party websites. Any concerns regarding third-party websites should be directed to the respective administrator(s) of such third-party website(s). 
 
-We use this information to measure the number of visitors to the different sections of our Site, to help us make our site more useful to visitors, and to measure the amount of traffic generated through our affiliate network with whom this information may be shared.
+Websites operated by Us may contain chat rooms, forums, message boards, and/or news groups. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-The only personally-identifying information we collect and store about you is the information you, voluntarily choose to provide to us, such as your Username, e-mail address, address, zip code, etc. In addition, we may ask you to voluntarily provide us with personal information when you become a Member for billing and shipping purposes.
+By accepting the Terms and Conditions in registration, a member (“you”) expressly consents to our use and disclosure of your personal information in the manner described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of our User Agreement. This Privacy Policy was last updated on January 1, 2009. 
 
-When a Member, visitor or User of this Site requests web pages from the Site's server or clicks on banners or other hypertext links, the Site may automatically collect some information or data about the Member, visitor or User, including the IP address from which the Site is being accessed, the pages or links that were requested, the special preferences or requests of the Member, visitor or User and cookie information received from the computer of the Member, visitor or User; all that information and data may be collected by the Site and included in its database.
+Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country but we will hold and transmit your personal information in a safe, confidential and secure environment. If you object to your personal information being transferred or used as described in this Privacy Policy, please do not subscribe, join or seek membership at our website. If you send us correspondence, including e-mails and faxes, we retain such information in the records of your account. We will also retain customer service correspondence and other correspondence from us to you. We retain these records in order to measure and improve our customer service, and to investigate potential fraud and violations of our User Agreement. We may, over time, delete these records if permitted by law. 
 
-If a Member, visitor or User sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its database.
-
-**2\. COOKIES**
-
-NakedTube.com uses cookies to store and sometimes track information to make your online experience easier and more personalized. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Most major Web browsers are set up so that they will initially accept cookies, but you may modify your computers preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. If you choose to reject all cookies, there are areas of this Site and other websites that may not function properly.
-
-You may obtain further information about "cookies" and how they function at: http://www.cookiecentral.com
-
-**3\. USE OF PERSONAL INFORMATION AND DISCLAIMER**
-
-By the use of the Site or its services, the Member, visitor or User expressly agrees that the Site may use any information that it gathers or collects about the Member, visitor or User including personal information that has been provided by the Member, visitor or User for technical, administration, research and development, customer administration, age verification, marketing, promotional and advertising use and for the transmission of email communications, the sending of products or the fulfilling of any terms and conditions.
-
-The Site considers any personal information provided by a User to the Site as confidential. However, the Site is not responsible or liable for any information that a Member, visitor or User may provide independently to third-party websites that have banner ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites, and those third-party websites may have different privacy policies than this Site. Whenever applicable, each Member, visitor or User should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site.
-
-By your acts of signing up as a subscriber to the Site, accepting the Terms and Conditions of the Site and affirmatively consenting to accept emails from this Site, you are agreeing to all of the following: (1) that Site has your permission to collect your email address and all personal information you supply relating to that email address; (2) that Site has your permission to send you e-mail communications including communications describing special offers, discounts and products.
-
-**4\. "OPT-OUT" - REVOCATION OF CONSENT PROCEDURE**
-
-The Site also offers all Members and Users a procedure for "Opting-Out" if the Member or User subsequently chooses to revoke or withdraw any consent to receive Offers by sending an e-mail to [cs@FreeHDAccess.com](mailto:cs@FreeHDAccess.com) clearly stating that the Member or User has revoked or withdrawn consent to receive any future Offers.
-
-**5\. DISCLOSURE**
-
-NakedTube.com will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to enforce any of our rights and terms and conditions or identify, contact or bring legal action against someone who may be violating the NakedTube.com [Terms and Conditions](https://web.archive.org/web/20131126222841id_/http%3A//www.nakedtube.com/terms.html). No personal information will be shared with any third parties without the customer's permission.
-
-**6\. REVISIONS TO THIS PRIVACY POLICY**
-
- **
-
-This Site reserves the right, in its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner. Changes to this Policy will be effective by posting revisions on the Site. This Privacy Policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party.
-
-**
+For questions regarding this privacy statement, please contact us. 
