@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winnersedgetrading.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622100556id_/http%3A//www.winnersedgetrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnersedgetrading.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190618id_/http%3A//www.winnersedgetrading.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | Winners Edge Trading
 
 Privacy Policy  
 Our Commitment To Privacy
