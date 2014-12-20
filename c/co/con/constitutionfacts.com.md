@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the constitutionfacts.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502043212id_/http%3A//www.constitutionfacts.com%3Fsection%3DaboutUs%26page%3DprivacyNotice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constitutionfacts.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220202126id_/http%3A//www.constitutionfacts.com%3Fsection%3DaboutUs%26page%3DprivacyNotice.cfm) for the most accurate reproduction.*
 
 # ConstitutionFacts.com - Learn about the U.S. Constitution, the Bill of Rights, the Declaration of Independence and much more!
 
