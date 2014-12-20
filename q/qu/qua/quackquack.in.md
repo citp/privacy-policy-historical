@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the quackquack.in privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209093750id_/http%3A//www.quackquack.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackquack.in privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220171945id_/http%3A//www.quackquack.in/privacypolicy.php) for the most accurate reproduction.*
 
-# QuackQuack.in - Privacy Policy
+# QuackQuack.in - Online Dating Site Privacy Policy Notice
 
 QuackQuack.in Privacy Policy
-
-**Privacy Policy**
 
 We, at Quackquack.in, take your privacy very seriously and abide by the following policy to ensure your satisfaction. If you have any concerns, please do not hesitate to [contact us](http://help.quackquack.in/support/tickets/new)
 
