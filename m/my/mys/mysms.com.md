@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysms.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512180818id_/http%3A//www.mysms.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysms.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220112008id_/http%3A//www.mysms.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | mysms
 
@@ -38,7 +38,7 @@ mysms uses a variety of services hosted by third parties to help provide and imp
 
 You may, of course, decline to submit personal information through mysms Services. However, mysms may not be able to offer certain services to you. We take reasonable measures to protect your privacy (such as verifying your number when creating an account) in order to identify your identity before granting you access to an account.
 
-If you have any questions or comments about this Privacy Notice, please contact mysms via email at [help@mysms.com](mailto:help@mysms.com "Email the mysms support team").
+If you have any questions or comments about this Privacy Notice, please contact mysms via email at [help@mysms.com](mailto:help@mysms.com).
 
 **Information sharing and disclosure**
 
