@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamespot365.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117175803id_/http%3A//gamespot365.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamespot365.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221002157id_/http%3A//gamespot365.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Gamespot 365
 
