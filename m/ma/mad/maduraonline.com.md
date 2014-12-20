@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maduraonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123721id_/http%3A//www.maduraonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maduraonline.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221001909id_/http%3A//www.maduraonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -75,8 +75,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.maduraonline.com  
+Madura Kulatunga  
 313/4/C, Gonamaditta Road  
-Piliyandala, Western 10300  
+Piliyandala 10300  
 Sri Lanka  
 [info@maduraonline.com](mailto:info@maduraonline.com)
