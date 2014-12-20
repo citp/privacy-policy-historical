@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426163354id_/http%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220134527id_/http%3A//www.usgs.gov/laws/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
 U.S. Geological Survey
 
-The information on these pages is provided to assist you in finding information that will help you understand the [Privacy Act](http://www.justice.gov/opcl/privstat.htm "Privacy Act") (Public Law 5 U.S.C. § 552a, as amended), as it relates to privacy policies of the U.S. Geological Survey, a bureau of the Department of the Interior. See [DOI Privacy Policy](http://www.doi.gov/privacy.cfm "DOI Privacy Policy").
+The information on these pages is provided to assist you in finding information that will help you understand the [Privacy Act](https://it.ojp.gov/default.aspx?area=privacy&page=1279 "Privacy Act") (Public Law 5 U.S.C. § 552a, as amended), as it relates to privacy policies of the U.S. Geological Survey, a bureau of the Department of the Interior. See [DOI Privacy Policy](http://www.doi.gov/privacy.cfm "DOI Privacy Policy").
 
 The type of information that we receive from your visit to our Web sites depends upon what you do when visiting our sites. We use this information to measure the number of visitors to the different sections of our sites and to help us make our sites more useful to visitors.
 
@@ -83,3 +83,19 @@ We may use some of this information in order to improve the effectiveness of our
 While we encourage comments on our Pinterest accounts, there are some comments which we may consider inappropriate or offensive based upon our Comment Policy (which is stated on each Page). In the event that a comment does violate the USGS Comment Policy, we have the right to delete that content. Before doing so, we do capture the content of that comment for records purposes, but we do not collect the name associated with that content. We are concerned only with the comment itself as to why it was deleted and how it conflicts with our posted Comment Policy. If a comment does contain personally identifiable information within the actual comment text, we will remove the portion classified as personally identifiable information. The USGS is solely interested in our interaction with the general public and not collecting personal identifiable information.
 
 In addition, the USGS may also provide embedded Pinterest content within our own pages on the domains in which we own and maintain. In these cases, Pinterest may set a persistent cookie as a result of the embedded content. The USGS use of any possible information provided to us through this embedded content will be consistent with the previously stated usage. If there is any more specific use that falls outside of the stated one on this page, that information will be listed directly alongside with the embedded content.
+
+**Storify** \- Storify allows the us to curate social media and other publicly available content into a "story" which helps to show useful information and content based on an event that occurred or a specific topic. For example, we may create a storify article which pulls together different content shared on social media sites or websites related to a specific earthquake event. This article would help us tell a story for the event that occurred, what was said, video or other multimedia from the event, etc.
+
+Storify allows publishers to notify people who have their social media content has been added to a story, via Twitter, when they're posts have been used. This is an optional feature. If weÂ choose to tweet notifications mentioning users who's content has been added to a USGS Storify article, then they will receive a public tweet linking to the Storify article which show their publicly posted content.
+
+We will not require visitors to its Storify pages to register or submit PII to view content. Users who choose to engage further within the Storify environment will log in with either their Facebook, Twitter, or Storify credentials. These credentials are not provided to USGS. The only information made available to us are the listing of followers of USGS Storify page(s) which is publicly available in a similar fashion to how Twitter allows people to see a list of followers on different accounts. In addition, Storify may provide basic statistics related to use of our Storify articles, where they were shared, when they were shared, etc. This information will only be used for the purposes of improving our use of Storify.
+
+We may embed Storify articles created by our USGS accounts on USGS websites where related content is available, for example in a news release, publication, or other USGS page. 
+
+Lastly, visitors will have the option to follow a USGS Storify page, which will enable notification when new stories are posted. Subscriptions are done via the Storify system and are publicly viewable as part of the Storify .
+
+Read the [Storify Privacy page](https://storify.com/privacy) for more information regarding how Storify handles privacy information.
+
+**Thunderclap** \- The USGS uses a tool called Thunderclap. Thunderclap allows USGS to spread the word about events , special alerts, tips or other special messages throughout various social media platforms. You help by allowing us to send a message to your social media followers through Thunderclap. This spreading occurs only when a person opts-in to help spread that message. 
+
+How does Thunderclap work? When you sign up in Thunderclap, you let the Thunderclap system post our message to your Twitter, FB, or other accounts that you select. It's like a virtual flash mob - the messages will go out on everyone's walls and feeds at the same time. Note that you're only agreeing to each message at a time, not to all our future thunderclaps. Read the [Thunderclap Privacy page](https://www.thunderclap.it/privacy) for more information regarding how Thunderclap handles privacy information.
