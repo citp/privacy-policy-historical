@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112612id_/http%3A//kbhgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbhgames.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220081005id_/http%3A//kbhgames.com/privacy) for the most accurate reproduction.*
 
-# Privacy | KBH Games
+# Privacy - KBH Games
 
 We get asked a lot what our policy is on the games we put up. It’s really very simple. We put up games that we find fun and we don’t alter them in anyway and we always try to give credit to their creators. That’s really important to us.
 
