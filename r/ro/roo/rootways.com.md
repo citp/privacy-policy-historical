@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rootways.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072115id_/http%3A//www.rootways.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rootways.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220104557id_/http%3A//rootways.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Open Source Development - Web Services Canada
+# Privacy Policy – Open Source Development Canada
 
-At rootways we are committed to protecting your privacy. The purpose of his Privacy Statement is to inform you about Media practices relating to the collection, use and disclosure of personal information that may be provided through access to or use of our [WebSites](http://rootways.com/our-services/web-design-development/) or [hosting services](http://rootways.com/our-services/web-hosting/) and related services or that may be otherwise be collected by us.
+At rootways we are committed to protecting your privacy. The purpose of his Privacy Statement is to inform you about Media practices relating to the collection, use and disclosure of personal information that may be provided through access to or use of our [WebSites](http://rootways.com/our-services/web-design-development/) or [hosting services](http://rootways.com/our-services/other-services/) and related services or that may be otherwise be collected by us.
 
 Rootways is the sole owner of the information collected on this Site. We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. Rootways will protect the confidentiality of its customers’ information, account information, personal communications and any other information collected in any form to the fullest extent possible and consistent with the law.
 
