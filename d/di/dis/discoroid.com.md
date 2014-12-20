@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discoroid.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114222id_/http%3A//en.discoroid.com/android/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoroid.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220234319id_/http%3A//en.discoroid.com/android/Privacy-Policy) for the most accurate reproduction.*
 
-# Download apps for Android, games for Android: Discoroid
+# Download apps for Android, games for Android: Discoroid, Android Review
 
 When accessing Discoroid we will learn certain information about you during your visit. While reading and / or downloading information on our pages, we collect and store the following information about you: 
 
