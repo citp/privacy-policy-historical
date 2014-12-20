@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoox.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622223835id_/http%3A//www.yoox.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoox.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220011130id_/http%3A//www.yoox.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # YOOX.COM - Legal area
 
@@ -118,7 +118,7 @@ In the event there is a change in the corporate structure of YOOX USA including,
 
 In any event, your personal data will not be disclosed to third parties without you being informed or without your consent, when such consent is required by law.
 
- **6\. HOW DO WE COLLECT YOUR DATA ON YOOX.COM**
+ **6\. HOW DO WE COLLECT YOUR DATA ON yoox.com**
 
 When you are using the US Site, some personal data may be collected automatically through so-called "cookies". We use cookies to collect users' IP addresses and other information regarding users' data traffic or preferences in the choice of services provided and products purchased through the US Site.
 
@@ -178,7 +178,7 @@ b) to the processing of your personal data for advertising or direct marketing p
 
 You may freely and at any time exercise your rights, provided that you do so in compliance with applicable laws and regulations, by sending your request to YOOX USA at [privacy@yoox.com](mailto:privacy@yoox.com). 
 
-**11\. LINKS TO OTHER WEB SITES**
+**11\. LINKS TO OTHER websiteS**
 
 The US Site may provide hyperlinks to third party websites (the "Third Party Websites"). YOOX USA and YOOX Italy do not operate, control, endorse or guarantee any Third Party Websites. You agree that YOOX USA and YOOX Italy are not responsible for any content, services and/or products provided by any Third Party Website, nor are YOOX USA and YOOX Italy responsible for any practice followed by such Third Party Website with respect to the collection and processing of personal data of their users. When you access any Third Party Website through a hyperlink posted on the US Site, please carefully read the Privacy Policy and other policies of such Third Party Website. Our Privacy Policy and other policies do not apply to any Third Party Website.
 
@@ -188,7 +188,7 @@ YOOX USA provides hyperlinks to Third Party Websites only for the convenience of
 
 If you wish to receive further information regarding our privacy practices, please contact us by e-mail at [privacy@yoox.com](mailto:privacy@yoox.com).
 
-For more information regarding your rights under the Italian Data Protection Code, please go to the web site of the Italian Data Protection Authority at www.garanteprivacy.it. 
+For more information regarding your rights under the Italian Data Protection Code, please go to the website of the Italian Data Protection Authority at www.garanteprivacy.it. 
 
 **13\. GOVERNING LAW**
 
