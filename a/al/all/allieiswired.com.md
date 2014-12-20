@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allieiswired.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083524id_/http%3A//allieiswired.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allieiswired.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220035139id_/http%3A//allieiswired.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Allie is Wired
 
