@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607001047id_/http%3A//www.zapak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapak.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220212653id_/http%3A//www.zapak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Online games | Free Cricket Games | Racing Games | Download Free Games | Best Online Games - Zapak.com
 
