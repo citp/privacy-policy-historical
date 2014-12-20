@@ -1,67 +1,86 @@
-> *The following text is extracted and transformed from the tbuy.in privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325020906id_/http%3A//www.tbuy.in/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbuy.in privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220233639id_/http%3A//www.tbuy.in/privacy-policy.html) for the most accurate reproduction.*
 
-# Telebuy Privacy Policy
+# Privacy Policy
 
-This privacy policy tells you how Telebuy India use personal information submitted or collected at this site with your consent. Please read this privacy policy before using the site or submitting any personal information. By using the site or the various features available and present herein, you are accepting the practices and the standard operating procedure as described in this privacy policy. These practices may be changed time to time as part of continuous change and applicability of new legal and statutory provisions which are binding upon us as a law abiding corporate citizen but any changes which could be undertaken by the Company shall be published and changes will only applicable to activities and information on a prospective basis , not retroactively. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. By using website of Telebuy India, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.
+##  1\. GENERAL PRINCIPLES
 
-**User Information:**
+Protecting your privacy is very important to us. We have accordingly developed this Privacy Policy to protect your personal information and keep it confidential. We endeavour to comply with laws of other countries but cannot and do not warrant that we do. We do everything we reasonably can to protect your rights of privacy on systems and the Website controlled by us, but we are not liable for any unauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Website. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.
 
-To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites we require your contact addresses.
+We want you to
 
-All required information is service dependent and TELEBUY India may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services
+  * feel comfortable using our web sites 
+  * feel secure submitting information to us
+  * contact us with your questions or concerns about privacy on this site
+  * know that by using our sites you are consenting to the collection of certain data
 
-Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.
 
-**Cookies:**
 
-To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalized Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
+We categorise information about you (collectively referred to as "Personal Information") as follows:
 
-Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
+(a) Profiling Information: Information which you provide when you register for a Service, which may include some or all of the following
 
-**Link to Third Party Sites:**
+  * Information about your personal identity such as gender, marital status, age etc.;
+  * Your financial information such as your banking details and any information relating to your income and lifestyle levels; and
+  * Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like.
 
-TELEBUY India includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.
 
-When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TELEBUY India, we contact you from time to time about updating your content to provide the users such features that we believe may benefit you.
 
-**Information Sharing:**
+(b) Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc. We maintain this in encrypted form on secure servers.
 
-TELEBUY India shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
+(c) Service Usage: Information about your navigation using our Services, for example the URLs of websites, which you visit and from which you request downloads.
 
-a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.
+(d) Log information: Information such as your web request, IP address, browser type, browser language, date and time of request.
 
-b) Telebuy India proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+(e) Transactional Information: Transactional history (other than banking details) about your e-commerce activities.
 
-**Accessing And Updating Personal Information:**
+(f) Correspondence Information: Content, information about your correspondents, and the destination/origin of communications between you and any other person using our Services, which include email communications, blog, chat room and discussion board communications, instant message communications, experts forum communications, faxmail communications, membership of mailing lists etc.
 
-When you use TELEBUY India's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.
+(g) User IDs: Your usernames, passwords, email addresses and other security-related information used by you in relation to our Services.
 
-**Information Security:**
+(h) Stored Information: Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.
+We only collect your Personal Information to conduct our business and to enable us to deliver and improve our Services. We do not for any reason whatsoever sell your Personal Information to any third party or otherwise trade on it.
 
-All information gathered on Tbuy.in is securely stored within the TELEBUY India controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
+We will only disclose your Personal Information in accordance with this Privacy Policy. If we want to use it for any other purpose, we will obtain your prior written consent.
 
-However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
+If you decline to submit personal information to us, then we will unfortunately not be in a position to provide the Services to you. Any of your information which you provide when you use certain Services and are to an open, public environment or forum including (without limitation) any blog, community or discussion board, is not confidential, does not constitute Personal Information, and is not subject to protection under Privacy Policy.
 
-We respect your privacy. We do not share or sell personal information about visitors and subscribers with other companies.
+Since such public environments are accessible by third parties, it is possible that third parties may collect and collate and use such information for their own purposes. You should accordingly be careful when deciding to share any of your Personal Information in such public environments.
 
-You may choose to share with us personal information, viz., your name, mailing address and e-mail id required to correspond with you and ensure shipment of products. If you do not want us to use this information for further contact, we shall respect your wishes.
+Information, which is disclosed publicly, is also shared with our affiliates, third party service providers, sponsors of competitions etc. unless expressly stated otherwise.
 
-**When and what information do we collect?**
+We are not liable to you or any third party for any damages that you or any third party may suffer howsoever arising from your disclosure of Personal Information in any public environment. You accordingly disclose information in a public environment at your own risk.
 
-We collect basic information required to service your requests, including your name, mailing address, email and phone number. This information is gathered when you purchase products/gift certificates, or sign up for email notifications. Your card information is requested only when you place an order and is submitted via the highest level of encryption to ensure the greatest amount of safety and security.
+##  2\. RIGHT TO COLLECT
 
-When you browse our website, we also use 'cookies' or bits of tracking data to gather information about your preferences. This includes your internet service provider's address and your clicks and activity on our website. We do not trace this information to individual customers and will never use cookies to save confidential information such as passwords or credit/debit card information.
+By accepting the Terms of Service you agree that we may collect and store your Personal Information as long as you use our Services subject to the limitations set out in this Privacy Policy.
 
-**Why do we collect this information?**
+2.1 We collect your Profiling and Account Information for the following reasons:  
+(a) We need your identity details, contact details, banking information and account history to manage our relationship with you and provide Services to you. We will only disclose this information as provided below.  
+(b) We use certain of your information in an aggregated form to compile statistical and demographical profiles for our business and marketing activities. We may disclose such information about you, provided that the information is in an aggregated form that is not capable of being used or interpreted in such a manner as to identify you.  
+2.2 We collect and store your Service Usage and Transactional Information to:  
+(a) determine and verify the Service Charges payable by you and to administer our relationship with you.  
+(b) comply with any statutory or regulatory requirement.  
+(c) compile statistical and demographical profiles about you for our business and marketing activities and to customise our Services to you. While we are entitled to use such information about you for our own internal business purposes without limitation, we will only disclose it in an aggregated form which is not capable of being used or interpreted in such a manner as to identify you; and  
+(d) monitor your use of our Services for the purposes of ensuring compliance with our Terms of Service.  
+2.3 We collect and store your Correspondence Information and Personal Identifiers to:  
+(a) comply with our obligations under law; and  
+(b) monitor your use of our Services in order to ensure your compliance with our Terms of Service.  
+Any Personal Information which we collect and which we may use in an aggregated format ensuring you are not individually identified is our property. We may use it, in our sole discretion and without any compensation to you, for any legitimate purpose including (without limitation) the commercial sale thereof to third parties.
 
-The primary reason we gather information is for order processing, shipping and customer service. For example, we may contact you to provide an update on your order, information regarding the shipping status or to clarify questions related to your order. We also use this information to improve our products, services, website content and navigation.
+Sometime we use "cookies" so that we can provide you with more customised information when you return to our website. "Cookies" are used to store user preferences and to track user trends, so as to enhance your interactive experience and generally improve our Services to you. You can set your browser to notify you when you are sent a "cookie", giving you the chance to decide whether or not to accept it. If you do accept a "cookie", you thereby agree to our use of any Personal Information collected by us using that Cookie.  
+You may update your Profiling Information at any time on the website.  
+You acknowledge and agree that in the interests of improving personalisation and Service efficiency, we may, under controlled and secure circumstances, share your Personal Information with our affiliates (an entity which is our subsidiary or holding company or a subsidiary of our holding company or an entity which controls, is controlled by or is under common control with us).
 
-**What steps do we take to ensure security when shopping online?**
+##  3\. GENERAL EXCEPTIONS
 
-When you place orders or access your account information, we offer the use of secure socket layer (SSL) technology. The secure socket layer (SSL) encrypts all information you put in before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we have employed reasonable and current Internet security methods and technologies.
+  * by law;
+  * to conduct our business;
+  * to secure our systems; or
+  * to enforce our own rights,
 
-**Do we share your information with other companies?**
 
-We respect that you do not want your personal information shared with other companies. Therefore, the information which you provide will only be used for your intended purpose and to complete your online purchase. We do not share or sell your information with any other company. On a time to time basis we may share offers that we feel will be beneficial for you.
+
+we will do so in the manner as prescribed by law.
+
+Such interception, disclosure, monitoring and storage may take place without your knowledge. In that case, we will not be liable to you or any third party for any damages howsoever arising from such interception, disclosure, monitoring and storage. In order to ensure that all our Users comply with the Terms of Service, we may monitor your Personal Information to the extent that this may be required to determine compliance and/or to identify instances of non-compliance. To ensure that the security and integrity of our Services are safeguarded, we may monitor your Personal Information. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content. We may under certain circumstances procure an element of the Services from a third party service provider. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party.
