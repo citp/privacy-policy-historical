@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618025145id_/http%3A//www.thesearchagency.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220063634id_/http%3A//www.thesearchagency.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Search Marketing and Optimization Firm - SEO - SEM -The Search Agency
+# Privacy Policy | TheSearchAgency.com
 
 Protecting your privacy is important to us at The Search Agency. The following privacy policy covers The Search Agency's collection, storage, use and disclosure of personal information of our clients and of users of our online services through the "Client Control Center" area of our website located at [www.thesearchagency.com](http://www.thesearchagency.com/) and [www.thesearchagents.com](http://www.thesearchagents.com/) (the "Site"). For the purposes of this privacy policy, "personal information" or "information" refers to identifying information such as your name, physical address, email address, telephone number, etc. This privacy policy is effective as of December 17, 2013. Please take a moment to read the following to learn about our information collection, storage, use, and disclosure practices.
 
