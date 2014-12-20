@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the ledsmagazine.com privacy policy that was archived on 2014-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622102714id_/http%3A//www.pennwell.com/index/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ledsmagazine.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220190648id_/http%3A//www.pennwell.com/index/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html class="js"><head>
         <script type="text/javascript">
-            var $buoop = {vs: {i: 7, f: 18, s: 5}, text: 'Your browser %s is no longer support by this website. Please upgrade to the latest version.'}
+            var $buoop = {vs: {i: 9, f: 26, s: 6, c: 32}, text: 'This site is best viewed with Internet Explorer 10, Firefox or Google Chrome. Please consider upgrading.'}
             $buoop.ol = window.onload;
             window.onload = function () {
                 try {
@@ -12,7 +12,8 @@
                 }
                 var e = document.createElement('script');
                 e.setAttribute('type', 'text/javascript');
-                e.setAttribute('src', 'http://browser-update.org/update.js');
+                //e.setAttribute('src', 'http://browser-update.org/update.js');
+                e.setAttribute('src', '/etc/designs/corporate_design/static/clientlibs/source/update.js');
                 document.body.appendChild(e);
             }
         </script>
@@ -39,6 +40,7 @@
         </script>
         
             
+
         
         
 
@@ -48,21 +50,21 @@
 
 
 
+        
 
-        <script type="text/javascript">
-CQURLInfo = {
-    "contextPath": null,
-    "requestPath": '\/content\/pennwell-corporate\/en\/index\/privacy-policy',
-    "selectorString": null,
-    "selectors": [],
-    "extension": 'html',
-    "suffix": null,
-    "systemId": '6d11b141-3c74-490b-b08b-4ccdf4048c75',
-    "runModes": 'publish'
-};</script>
+
+
+
+
+
+
+
+        <link rel="stylesheet" href="/etc/clientlibs/foundation/main.css" type="text/css">
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/main.js"></script>
-<link rel="stylesheet" href="/etc/clientlibs/foundation/main.css" type="text/css">
 
         <script type="text/javascript" src="/etc/designs/corporate_design/static/clientlibs.js"></script>
 
@@ -80,6 +82,7 @@ CQURLInfo = {
 <link href="http://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/etc/designs/pennwell_design/css/everslider.css" type="text/css">
 <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+<link rel="stylesheet" href="/etc/designs/pennwell_design/fontAwesome/css/font-awesome.min.css" type="text/css">
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="news_keywords" content="">
@@ -108,7 +111,6 @@ CQURLInfo = {
 
 
 
-
         
 
 
@@ -118,8 +120,8 @@ CQURLInfo = {
 
 
 
-            <meta name="original-source" content="http://www.pennwell.com//index/privacy-policy.html">
-            <link rel="canonical" href="http://www.pennwell.com//index/privacy-policy.html">
+            <meta name="original-source" content="http://www.pennwell.com/index/privacy-policy.html">
+            <link rel="canonical" href="http://www.pennwell.com/index/privacy-policy.html">
 
 
         
@@ -164,7 +166,51 @@ CQURLInfo = {
         var adCacheBust = new String(Math.random());
         var dynamicAdPool = "";
         var sponsoredParam = $.query.get('sponsored');
+  </script>
+
+
+  
+    <script type="text/javascript" charset="utf-8">
+      if(navigator.userAgent.match(/msie/) || navigator.userAgent.match(/\.NET\ CLR/)) {
+             var oldOnload = window.onload;
+             window.onload = function() {
+               try {
+                 if (oldOnload) oldOnload();
+               } catch(e){
+                 //do nothing
+               }
+               if (document.getElementById('peel') != null){
+                 fixupPagePeel();
+               }
+             }
+        }
+
+        var savedPagePeel = '';
+        function modifiedPeel(action) {
+          if(action == 'peel') {
+            document.getElementById('flap').style.visibility = 'hidden';
+            document.getElementById('peel').style.visibility = 'visible';
+            document.getElementById('peel').style.width = peelwidth + 'px';
+            document.getElementById('peel').style.height = peelheight + 'px';
+          } else {
+            document.getElementById('flap').style.visibility = 'visible';
+            if ( savedPagePeel != ''){
+               document.getElementById('peel').innerHTML = savedPagePeel;
+               document.getElementById('peel').onmouseleave = modifiedPeel;
+            }
+            document.getElementById('peel').style.visibility = 'hidden';
+            document.getElementById('peel').style.width = '75px';
+            document.getElementById('peel').style.height = '75px';
+          }
+       }
+
+      function fixupPagePeel() {
+        savedPagePeel = document.getElementById('peel').innerHTML;
+        peel = modifiedPeel;
+        document.getElementById('peel').onmouseleave = modifiedPeel;
+      }
     </script>
+
 
         <link rel="stylesheet" type="text/css" href="/etc/designs/corporate_design/content5.css">
         
@@ -235,19 +281,6 @@ height:370px;
          </style>
          
        
-        <style title="addthisstyle" type="text/css">
-           <!--
-            .addthis_toolbox.addthis_pill_combo a { float: left; }
-            .addthis_toolbox.addthis_pill_combo a.addthis_button_tweet { margin-right:10px; margin-top: -2px; }
-            .addthis_button_compact .at15t_compact { margin-right: 4px; float: left; }
-           -->
-        </style>
-        <script type="text/javascript">
-          var addthis_config = { "data_track_clickback" : true };
-        </script>
-        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=pennwell"></script>
-        
-       
         <script type="text/javascript">
             var ie7css = 'true';
             var ie8css = 'true';
@@ -267,7 +300,7 @@ height:370px;
             }
         </script>
 
-    </head>
+    <style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
     
 
     <body class="generic page ">
@@ -448,8 +481,8 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 
 
 
-      <div class="parsys styleoverrides iparsys"><div class="iparys_inherited"><div class="parsys styleoverrides iparsys">
-                 <div class="section"><div class="standard">
+      <div class="parsys styleoverrides iparsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys styleoverrides iparsys"><div class="standard section">
 
 
 
@@ -484,8 +517,8 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 
   
 </div>
-</div></div>
-</div><div class="section"><div class="new"></div>
+
+</div>
 </div>
 </div>
 
@@ -526,7 +559,96 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 </div>
 
     <div id="templateOuterLeft">
-      <div id="templateOuterRight">
+      <div id="templateOuterRight"><div id="mobileHeader" style="display: none;">
+    
+        <div id="mobileSearch">
+            <a href="#" id="searchIcon"></a>
+        </div> 
+    
+    
+   
+         
+
+
+
+
+
+
+
+
+
+    
+
+    <div id="mobileNavigation">
+        <a class="toggleMenu" id="toggleMenuToggler" href="#" style="display: none;">&nbsp;</a>
+        <ul class="nav">
+  <li class=" pennwellNavItem pwhome">
+    <a target="" href="/content/pennwell-corporate/en/index.html">Home</a>
+  </li>
+  <li class=" pennwellNavItem">
+    <a target="" href="/content/pennwell-corporate/en/publications.html">Publications</a>
+  </li>
+  <li class=" pennwellNavItem">
+    <a target="" href="/content/pennwell-corporate/en/events.html">Events</a>
+  </li>
+  <li class=" pennwellNavItem">
+    <a target="" href="/content/pennwell-corporate/en/advertise.html">Advertise</a>
+  </li>
+  <li class=" pennwellNavItem">
+    <a target="" href="/content/pennwell-corporate/en/marketing-solutions.html">Marketing Solutions</a>
+  </li>
+  <li class=" pennwellNavItem">
+    <a target="" href="/content/pennwell-corporate/en/data-information-products.html">Data &amp; Information Products</a>
+  </li>
+  <li class=" pennwellNavItem">
+    <div class="firstLevel parent"> </div>
+    <a target="" href="/content/pennwell-corporate/en/index/about-us.html">About Us</a>
+    <ul class="nav">
+      <li class=" pennwellNavItem">
+        <a target="" href="/content/pennwell-corporate/en/index/about-us/press-news.html">Press &amp; News</a>
+      </li>
+      <li class=" pennwellNavItem">
+        <a target="" href="/content/pennwell-corporate/en/index/about-us/careers.html">Careers</a>
+      </li>
+      <li class=" pennwellNavItem">
+        <a target="" href="/content/pennwell-corporate/en/index/about-us/courage-and-valor-foundation.html">Courage and Valor Foundation</a>
+      </li>
+      <li class=" pennwellNavItem last-item">
+        <a target="" href="/content/pennwell-corporate/en/index/contact-us.html">Contact Us</a>
+      </li>
+    </ul>
+  </li>
+  <li class=" pennwellNavItem last-item">
+    <a target="" href="/content/pennwell-corporate/en/social-media.html">Social Media</a>
+  </li>
+</ul>
+    </div>
+
+    
+    <div id="mobileLogo">
+        <div class="logo brandingImage">                   
+
+
+
+
+
+
+
+<a href="/content/pennwell-corporate/en/index.html"><img title="Home" style="margin:10px 0 0" alt="Home" src="/etc/designs/pennwell_design/_jcr_content/generic/brandingImage.img.png/1372182757014.png"></a>
+    
+  </div>
+
+    </div>
+
+        
+        <div id="mobileSearch2">
+            <form id="utility-bar-searchForm-mobile" onsubmit="return validateSearchInput('#utilitybox-search-string-mobile')" name="SearchForm" action="/_search" method="get" class="mobileSearch" _="��">
+            <input id="utilitybox-search-string-mobile" type="search" name="q" value="" autocomplete="on" class="mobileSearch">
+            </form>
+        </div>
+    
+<div class="clearer"></div>     
+</div>
         <div id="template">
             <div id="header">
                 <div id="topHeader">
@@ -535,8 +657,9 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
                                 <div id="LBright">
                                     <div id="LBcenter">
                                         <div id="topLeaderBoard">
-                                            <div class="parsys iparsys leaderads"><div class="iparys_inherited"><div class="parsys iparsys leaderads"></div>
-</div><div class="section"><div class="new"></div>
+                                            <div class="parsys iparsys leaderads"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys leaderads">
+</div>
 </div>
 </div>
 
@@ -577,12 +700,25 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 
 
 
+
     <div id="loginlinks">
-        <div id="userGreeting" style="display:none;">
-            <span id="ubGreeting">Hello <span id="ubGreetingName"></span></span>
-            <span id="userName"></span><a href="/bin/handlelogout.html/content/pennwell-corporate/en/index/privacy-policy.html" id="logoutlink" rel="nofollow">Logout</a>
+
+        <div id="userGreeting" style="display: none;">
+            <span id="ubGreeting">Hello
+                
+                    
+                    
+                        <span id="ubGreetingName"></span>
+                    
+                
+            </span>
+
+            <span id="userName"></span>
+            <span id="userEditProfile"><a href=".html"></a></span>
+            <a href="/bin/handlelogout.html/content/pennwell-corporate/en/index/privacy-policy.html" id="logoutlink" rel="nofollow">Logout</a>
         </div>
-        <div id="loginreglinks" style="display:none;">
+
+        <div id="loginreglinks" style="display: none;">
             <span id="login-reg-text-links">
                 <a id="gigya-login-link" class="gigya-login-link">Login</a> or
                 <a id="gigya-reg-link" class="gigya-login-link">Register</a> using
@@ -768,96 +904,7 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 <link rel="stylesheet" type="text/css" href="/etc/designs/corporate_design/responsive.css">
 <script src="/etc/designs/corporate_design/static/clientlibs/source/jquery/doubletaptogo.js"></script>
 <script type="text/javascript" src="/etc/designs/corporate_design/static/clientlibs/source/responsive.js"></script>
-<div id="mobileHeader">
-    
-        <div id="mobileSearch">
-            <a href="#" id="searchIcon"></a>
-        </div> 
-    
-    
-   
-         
 
-
-
-
-
-
-
-
-
-    
-
-    <div id="mobileNavigation">
-        <a class="toggleMenu" id="toggleMenuToggler" href="#">&nbsp;</a>
-        <ul class="nav">
-  <li class=" pennwellNavItem pwhome">
-    <a target="" href="/content/pennwell-corporate/en/index.html">Home</a>
-  </li>
-  <li class=" pennwellNavItem">
-    <a target="" href="/content/pennwell-corporate/en/publications.html">Publications</a>
-  </li>
-  <li class=" pennwellNavItem">
-    <a target="" href="/content/pennwell-corporate/en/events.html">Events</a>
-  </li>
-  <li class=" pennwellNavItem">
-    <a target="" href="/content/pennwell-corporate/en/advertise.html">Advertise</a>
-  </li>
-  <li class=" pennwellNavItem">
-    <a target="" href="/content/pennwell-corporate/en/marketing-solutions.html">Marketing Solutions</a>
-  </li>
-  <li class=" pennwellNavItem">
-    <a target="" href="/content/pennwell-corporate/en/data-information-products.html">Data &amp; Information Products</a>
-  </li>
-  <li class=" pennwellNavItem">
-    <div class="firstLevel"> </div>
-    <a target="" href="/content/pennwell-corporate/en/index/about-us.html">About Us</a>
-    <ul class="nav">
-      <li class=" pennwellNavItem">
-        <a target="" href="/content/pennwell-corporate/en/index/about-us/press-news.html">Press &amp; News</a>
-      </li>
-      <li class=" pennwellNavItem">
-        <a target="" href="/content/pennwell-corporate/en/index/about-us/careers.html">Careers</a>
-      </li>
-      <li class=" pennwellNavItem">
-        <a target="" href="/content/pennwell-corporate/en/index/about-us/courage-and-valor-foundation.html">Courage and Valor Foundation</a>
-      </li>
-      <li class=" pennwellNavItem last-item">
-        <a target="" href="/content/pennwell-corporate/en/index/contact-us.html">Contact Us</a>
-      </li>
-    </ul>
-  </li>
-  <li class=" pennwellNavItem last-item">
-    <a target="" href="/content/pennwell-corporate/en/social-media.html">Social Media</a>
-  </li>
-</ul>
-    </div>
-
-    
-    <div id="mobileLogo">
-        <div class="logo brandingImage">                   
-
-
-
-
-
-
-
-<a href="/content/pennwell-corporate/en/index.html"><img title="Home" style="margin:10px 0 0" alt="Home" src="/etc/designs/pennwell_design/_jcr_content/generic/brandingImage.img.png/1372182757014.png"></a>
-    
-  </div>
-
-    </div>
-
-        
-        <div id="mobileSearch2">
-            <form id="utility-bar-searchForm-mobile" onsubmit="return validateSearchInput('#utilitybox-search-string-mobile')" name="SearchForm" action="/_search" method="get" class="mobileSearch" _="��">
-            <input id="utilitybox-search-string-mobile" type="search" name="q" value="" autocomplete="on" class="mobileSearch">
-            </form>
-        </div>
-    
-<div class="clearer"></div>     
-</div>
 </div>
 
                     <div style="clear: both;"> </div>
@@ -869,26 +916,24 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
               
                 <div id="breadcrumbAds">
                     <div class="parsys iparsys breadcrumbTop"><div class="iparys_inherited"><div class="parsys iparsys breadcrumbTop"></div>
-</div><div class="section"><div class="parbase image"><div id="cq-image-jsp-/content/pennwell-corporate/en/index/privacy-policy/jcr:content/breadcrumbTop/image"><img title="homestaticbg" alt="homestaticbg" class="cq-dd-image" src="/content/pennwell-corporate/en/index/privacy-policy/_jcr_content/breadcrumbTop/image.img.jpg/1383693070067.jpg"></div>
+</div><div class="parbase image section"><div id="cq-image-jsp-/content/pennwell-corporate/en/index/privacy-policy/jcr:content/breadcrumbTop/image"><img title="homestaticbg" alt="homestaticbg" class="cq-dd-image" src="/content/pennwell-corporate/en/index/privacy-policy/_jcr_content/breadcrumbTop/image.img.jpg/1383693070067.jpg"></div>
     
     
-
-
 <script type="text/javascript">
     (function() {
         var imageDiv = document.getElementById("cq-image-jsp-/content/pennwell-corporate/en/index/privacy-policy/jcr:content/breadcrumbTop/image");
-        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/pennwell-corporate/site-images/homestaticbg.jpg", imageTitle: "homestaticbg" }';
+        var imageEvars = '{ imageLink: "/", imageAsset: "/content/dam/pennwell-corporate/site-images/homestaticbg.jpg", imageTitle: "homestaticbg" }';
         var tagNodes = imageDiv.getElementsByTagName('A');
         for (var i = 0; i < tagNodes.length; i++) {
             var link = tagNodes.item(i); 
-            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect:  false, options: { obj: this }, componentPath: "foundation/components/image"})');
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect: false, options: { obj: this }, componentPath: "foundation/components/image"})');
         }
         
     })();
 </script>
+
 </div>
-</div><div class="section"><div class="new"></div>
-</div>
+
 </div>
 
                     <div style="clear: both;"> </div>
@@ -925,8 +970,9 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
                       <div style="clear:both;"> </div>
                 </div>
                 <div id="containerTopParsys">
-                    <div class="parsys iparsys containerTop"><div class="iparys_inherited"><div class="parsys iparsys containerTop"></div>
-</div><div class="section"><div class="new"></div>
+                    <div class="parsys iparsys containerTop"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys containerTop">
+</div>
 </div>
 </div>
 
@@ -937,8 +983,9 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
                   
                   <div id="leftColWrapper">
                     <div id="leftColumn" class="column973">
-                          <div class="parsys leftinheritedtop iparsys"><div class="iparys_inherited"><div class="parsys leftinheritedtop iparsys"></div>
-</div><div class="section"><div class="new"></div>
+                          <div class="parsys leftinheritedtop iparsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys leftinheritedtop iparsys">
+</div>
 </div>
 </div>
 
@@ -998,7 +1045,7 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 </ul>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To match the right messages to you on our sites or on third party sites</p>
 <p>The information you provide may be used to send you information and updates pertaining to your order.&nbsp; In addition, you may receive related company news, updates, and product or service information, etc.</p>
-<p>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.&nbsp; You may also reach us via our <a href="/content/pennwell-corporate/en/index/customer-service-form.html" adhocenable="false">Customer Service Form</a>.</p>
+<p>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.&nbsp; You may also reach us via our <a adhocenable="false" href="/content/pennwell-corporate/en/index/customer-service-form.html">Customer Service Form</a>.</p>
 <p>&nbsp;</p>
 <h3>How do we protect your information?</h3>
 <p>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.</p>
@@ -1021,7 +1068,7 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 <p>&nbsp;</p>
 <h3>U.S. - EU Safe Harbor Self- Certified</h3>
 <p>When we collect personal information from you on your website, we adhere to the U.S. –EU Safe Harbor Framework concerning the transfer of personal data from the European Union (“EU”) to the United States of America.&nbsp; Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce with respect to all such data. If there is any conflict between the policies in this privacy policy, rules set by the Department of Commerce will prevail.</p>
-<p>To learn more about the Safe Harbor program, and to view PennWell’s certification, please visit&nbsp;<a adhocenable="false" href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a></p>
+<p>To learn more about the Safe Harbor program, and to view PennWell’s certification, please visit&nbsp;<a target="_blank" href="http://www.export.gov/safeharbor/" adhocenable="false">http://www.export.gov/safeharbor/</a></p>
 <p>&nbsp;</p>
 <h3>Children’s Online Privacy Protection Act Compliance</h3>
 <p>We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act) and children under the age of 13 are not eligible to use the services of this site. Our website, products and services are all directed to people who are at least 13 years of age or older.</p>
@@ -1039,18 +1086,18 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 <p>If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.</p>
 <p>&nbsp;</p>
 <h3>Updating Personal Information</h3>
-<p>If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or request deletion on our site by submitting your request via&nbsp;<a adhocenable="false" href="/content/pennwell-corporate/en/index/customer-service-form.html">this form</a>&nbsp;to our customer service team.&nbsp; We will respond to requests within 30 days. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p>If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or request deletion on our site by submitting your request via&nbsp;<a href="/content/pennwell-corporate/en/index/customer-service-form.html" adhocenable="false">this form</a>&nbsp;to our customer service team.&nbsp; We will respond to requests within 30 days. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
 <p>&nbsp;</p>
 <h3>Contacting Us</h3>
 <p>If there are any questions regarding this privacy policy or complaints about our websites you may contact us using the information below.</p>
 <p>1421 S. Sheridan<br>
 Tulsa, OK 74112<br>
 United States<br>
-Website:&nbsp;&nbsp;<a adhocenable="false" target="_blank" href="http://www.pennwell.com/">www.pennwell.com</a><br>
-Email:&nbsp;&nbsp;<a adhocenable="false" href="/content/pennwell-corporate/en/index/contact-us.html">Complete form</a><br>
+Website:&nbsp;&nbsp;<a href="http://www.pennwell.com/" target="_blank" adhocenable="false">www.pennwell.com</a><br>
+Email:&nbsp;&nbsp;<a href="/content/pennwell-corporate/en/index/contact-us.html" adhocenable="false">Complete form</a><br>
 Phone: &nbsp;800-331-4463</p>
 <table width="160" border="0">
-<tbody><tr><td><a target="_blank" href="http://www.dmaresponsibility.org/safeharbor/consumers.shtml" adhocenable="false"><img src="/content/dam/pennwell-corporate/site-images/DMA%20Safe%20Harbor.JPG"></a></td>
+<tbody><tr><td><a adhocenable="false" href="http://www.dmaresponsibility.org/safeharbor/consumers.shtml" target="_blank"><img src="/content/dam/pennwell-corporate/site-images/DMA%20Safe%20Harbor.JPG"></a></td>
 </tr></tbody></table>
 <p><b><u>European Consumers</u></b></p>
 <p>As part of the Safe Harbor self-certification, the Direct Marketing Association acts as PennWell’s dispute resolution mediator.&nbsp; If you believe we have not adequately resolved your data questions, feel free to contact the Direct Marketing Association.</p>
@@ -1058,19 +1105,20 @@ Phone: &nbsp;800-331-4463</p>
 Direct Marketing Association<br>
 1615 L Street, NW - Suite 1100<br>
 Washington, DC 20036<br>
-Website:&nbsp; <a href="http://www.dmaresponsibility.org/safeharbor/consumers.shtml" target="_blank" adhocenable="false">www.dmaresponsibility.org/safeharbor/consumers.shtml</a><br>
-Email:&nbsp; <a href="mailto:safeharbor@the-dma.org" target="_blank" adhocenable="false">safeharbor@the-dma.org</a><br>
+Website:&nbsp; <a adhocenable="false" target="_blank" href="http://www.dmaresponsibility.org/safeharbor/consumers.shtml">www.dmaresponsibility.org/safeharbor/consumers.shtml</a><br>
+Email:&nbsp; <a adhocenable="false" target="_blank" href="mailto:safeharbor@the-dma.org">safeharbor@the-dma.org</a><br>
 Fax:&nbsp; 202.955.0085</p>
-<p>Last Updated:&nbsp; October 2, 2013<br>
-</p>
+<p>Last Updated:&nbsp; October 7, 2014</p>
 <p>&nbsp;</p>
 
 </div></div>
+
 </div>
 
 
-                          <div class="parsys iparsys leftinheritedbottom"><div class="iparys_inherited"><div class="parsys iparsys leftinheritedbottom"></div>
-</div><div class="section"><div class="new"></div>
+                          <div class="parsys iparsys leftinheritedbottom"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys leftinheritedbottom">
+</div>
 </div>
 </div>
 
@@ -1083,8 +1131,9 @@ Fax:&nbsp; 202.955.0085</p>
 
                 <div style="clear:both;"> </div>
                 <div id="containerBottomParsys">
-                    <div class="parsys iparsys containerBottom"><div class="iparys_inherited"><div class="parsys iparsys containerBottom"></div>
-</div><div class="section"><div class="new"></div>
+                    <div class="parsys iparsys containerBottom"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys containerBottom">
+</div>
 </div>
 </div>
 
@@ -1111,8 +1160,9 @@ Fax:&nbsp; 202.955.0085</p>
             <div id="footer">
                 <hr style="color: #efefef; margin: 0;">
                 <div id="bottomLeaderBoard">
-                   <div class="leaderads2 parsys iparsys"><div class="iparys_inherited"><div class="leaderads2 parsys iparsys"></div>
-</div><div class="section"><div class="new"></div>
+                   <div class="leaderads2 parsys iparsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="leaderads2 parsys iparsys">
+</div>
 </div>
 </div>
 
@@ -1172,8 +1222,8 @@ Fax:&nbsp; 202.955.0085</p>
      </div>
     <div id="extendFooter">
         <div id="extendFooterContent">
-            <div class="parsys iparsys extendedfooter"><div class="iparys_inherited"><div class="parsys iparsys extendedfooter">
-                 <div class="section"><div class="text parbase">
+            <div class="parsys iparsys extendedfooter"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys extendedfooter"><div class="text parbase section">
 <div id="pennwellsocial">
     
     <div id="socialMedia"><div class="socialWrapper"><span>Stay Connected</span><a class="pwsmBtn facebook" href="https://www.facebook.com/PennWellCorporation"></a><a class="pwsmBtn linkedin" href="http://www.linkedin.com/company/pennwell"></a><a class="pwsmBtn pinterest" href="http://pinterest.com/pennwell/"></a><a class="pwsmBtn googleplus" href="https://plus.google.com/105343913508564578571/about"></a></div>
@@ -1181,8 +1231,7 @@ Fax:&nbsp; 202.955.0085</p>
 </div>
 
 </div></div>
-</div>
-                 <div class="section"><div class="extendedfooter">
+<div class="extendedfooter section">
 
 
 
@@ -1234,135 +1283,139 @@ function slide() {
         <div id="extendedfooterlinks" style="" class="">
                 <div id="pwresources"><div style="margin: 0 auto;"><h1 style="text-align: center; padding: 0px 0px 10px 0px; font-size: 28px; color: white;">PENNWELL PUBLICATIONS</h1>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>Oil &amp; Gas:</h3>
-<a target="_blank" href="http://www.ogj.com/" adhocenable="false">Oil &amp; Gas Journal</a>&nbsp;|&nbsp;<a target="_blank" href="http://www.ogfj.com/" adhocenable="false">Oil &amp; Gas Financial Journal</a> |<br>
-<a target="_blank" href="http://www.offshore-mag.com/" adhocenable="false">Offshore</a> | <a target="_blank" href="http://www.ogpe.com/" adhocenable="false">Oil Gas &amp; Petrochem Equipment</a> | <a target="_blank" href="http://www.pennenergy.com/index.html" adhocenable="false">PennEnergy</a> | <a target="_blank" href="http://ogjresearch.stores.yahoo.net/index.html" adhocenable="false">PennEnergy Research</a> |<br>
-<a target="_blank" href="http://www.pennenergyequipment.com/" adhocenable="false">PennEnergy Equipment</a> | <a target="_blank" href="http://pennenergyjobs.com/" adhocenable="false">PennEnergyJOBS</a></div>
+<a adhocenable="false" href="http://www.ogj.com/" target="_blank">Oil &amp; Gas Journal</a>&nbsp;|&nbsp;<a adhocenable="false" href="http://www.ogfj.com/" target="_blank">Oil &amp; Gas Financial Journal</a> |<br>
+<a adhocenable="false" href="http://www.offshore-mag.com/" target="_blank">Offshore</a> | <a adhocenable="false" href="http://www.ogpe.com/" target="_blank">Oil Gas &amp; Petrochem Equipment</a> | <a adhocenable="false" href="http://www.pennenergy.com/index.html" target="_blank">PennEnergy</a> | <a adhocenable="false" href="http://ogjresearch.stores.yahoo.net/index.html" target="_blank">PennEnergy Research</a> |<br>
+<a adhocenable="false" href="http://www.pennenergyequipment.com/" target="_blank">PennEnergy Equipment</a> | <a adhocenable="false" href="http://pennenergyjobs.com/" target="_blank">PennEnergyJOBS</a></div>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>Power:</h3>
-<a target="_blank" href="http://www.cospp.com/" adhocenable="false">Cogeneration &amp; On-Site Power Production</a>&nbsp;|&nbsp;<a target="_blank" href="http://www.elp.com/" adhocenable="false">Electric Light &amp; Power</a> |&nbsp;<a target="_blank" href="http://www.powerengineeringint.com/meecurrentissue" adhocenable="false">Middle East Energy</a> |&nbsp;<a target="_blank" href="http://www.power-eng.com/index/npi-current-issue.html" adhocenable="false">Nuclear Power International</a> |&nbsp;<a target="_blank" href="http://www.powerengineeringint.com/world-regions/latin-america/mas-potencia.html" adhocenable="false">Potencia</a> |&nbsp;<a target="_blank" href="http://www.power-engineering.com/" adhocenable="false">Power Engineering</a> |&nbsp;<a target="_blank" href="http://www.powerengineeringint.com/" adhocenable="false">Power Engineering International</a> |&nbsp;<a target="_blank" href="http://www.elp.com/pgicurrentissue" adhocenable="false">POWERGRID International</a> |&nbsp;<a target="_blank" href="http://www.utilityproducts.com/" adhocenable="false">Utility Products</a> | <a target="_blank" href="http://generationhub.com/" adhocenable="false">GenerationHUB</a> |&nbsp;<a target="_blank" href="http://transmissionhub.com/" adhocenable="false">TransmissionHUB</a><br>
+<a adhocenable="false" href="http://www.cospp.com/" target="_blank">Cogeneration &amp; On-Site Power Production</a>&nbsp;|&nbsp;<a adhocenable="false" href="http://www.elp.com/" target="_blank">Electric Light &amp; Power</a> |&nbsp;<a adhocenable="false" href="http://www.powerengineeringint.com/meecurrentissue" target="_blank">Middle East Energy</a> |&nbsp;<a adhocenable="false" href="http://www.power-eng.com/index/npi-current-issue.html" target="_blank">Nuclear Power International</a> |&nbsp;<a adhocenable="false" href="http://www.powerengineeringint.com/world-regions/latin-america/mas-potencia.html" target="_blank">Potencia</a> |&nbsp;<a adhocenable="false" href="http://www.power-engineering.com/" target="_blank">Power Engineering</a> |&nbsp;<a adhocenable="false" href="http://www.powerengineeringint.com/" target="_blank">Power Engineering International</a> |&nbsp;<a adhocenable="false" href="http://www.elp.com/pgicurrentissue" target="_blank">POWERGRID International</a> |&nbsp;<a adhocenable="false" href="http://www.utilityproducts.com/" target="_blank">Utility Products</a> | <a adhocenable="false" href="http://generationhub.com/" target="_blank">GenerationHUB</a> |&nbsp;<a adhocenable="false" href="http://transmissionhub.com/" target="_blank">TransmissionHUB</a><br>
 <br>
 </div>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>Fire:</h3>
-<a target="_blank" href="http://www.fireengineering.com/" adhocenable="false">Fire Engineering</a>&nbsp;| <a target="_blank" href="http://www.fireapparatusmagazine.com/index.html" adhocenable="false">Fire Apparatus</a> | <a target="_blank" href="http://www.fireengineering.com/firelife.html" adhocenable="false">Fire Life</a> |&nbsp;&nbsp;<a target="_blank" href="http://www.firefighteracademy.com/index.html" adhocenable="false">Fire Fighter Academy</a> | <a target="_blank" href="http://www.fireengineering.com/urbanfirefighter.html" adhocenable="false">Urban Firefighter</a> | <a adhocenable="false" href="http://www.fireengineeringuniversity.com/" target="_blank">Fire Engineering University</a> | <a adhocenable="false" href="http://www.pennwellbooks.com/fire.html" target="_blank">PennWell Fire Books</a><br>
+<a adhocenable="false" href="http://www.fireengineering.com/" target="_blank">Fire Engineering</a>&nbsp;| <a adhocenable="false" href="http://www.fireapparatusmagazine.com/index.html" target="_blank">Fire Apparatus</a> | <a adhocenable="false" href="http://www.fireengineering.com/firelife.html" target="_blank">Fire Life</a> |&nbsp;&nbsp;<a adhocenable="false" href="http://www.firefighteracademy.com/index.html" target="_blank">Fire Fighter Academy</a> | <a adhocenable="false" href="http://www.fireengineering.com/urbanfirefighter.html" target="_blank">Urban Firefighter</a> | <a target="_blank" href="http://www.fireengineeringuniversity.com/" adhocenable="false">Fire Engineering University</a> | <a target="_blank" href="http://www.pennwellbooks.com/fire.html" adhocenable="false">PennWell Fire Books</a><br>
 </div>
-<div class="clearer"></div>
+<div class="clearer">&nbsp;</div>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>Public Safety:</h3>
-<a adhocenable="false" href="http://jems.com/" target="_blank">JEMS</a>&nbsp;| <a adhocenable="false" href="http://lawofficer.com/" target="_blank">Law Officer</a> | <a adhocenable="false" href="http://psc.apcointl.org/" target="_blank">Public Safety Communicatio</a>ns |&nbsp;<a adhocenable="false" href="http://www.firefighternation.com/" target="_blank">Fire Fighter Nation</a><br>
+<a target="_blank" href="http://jems.com/" adhocenable="false">JEMS</a>&nbsp;| <a target="_blank" href="http://lawofficer.com/" adhocenable="false">Law Officer</a> | <a target="_blank" href="http://psc.apcointl.org/" adhocenable="false">Public Safety Communicatio</a>ns |&nbsp;<a target="_blank" href="http://www.firefighternation.com/" adhocenable="false">Fire Fighter Nation</a><br>
 </div>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>Water &amp; Waste Management:</h3>
-<a target="_blank" href="http://www.waterworld.com/" adhocenable="false">WaterWorld</a>&nbsp;|&nbsp;<a target="_blank" href="http://www.waterworld.com/wwicurrentissue" adhocenable="false">Water &amp; Wastewater International</a> | <a target="_blank" href="http://www.waterworld.com/iwwcurrentissue" adhocenable="false">Industrial WaterWorld</a> | <a target="_blank" href="http://waste-management-world.com/" adhocenable="false">Waste Management World</a> | <a target="_blank" href="http://www.waterworldce.com/" adhocenable="false">WaterWorld CE</a> | <a target="_blank" href="http://waterworld1.jobamatic.com/a/jbb/find-jobs" adhocenable="false">WaterWorld Jobs</a><br>
+<a adhocenable="false" href="http://www.waterworld.com/" target="_blank">WaterWorld</a>&nbsp;|&nbsp;<a adhocenable="false" href="http://www.waterworld.com/wwicurrentissue" target="_blank">Water &amp; Wastewater International</a> | <a adhocenable="false" href="http://www.waterworld.com/iwwcurrentissue" target="_blank">Industrial WaterWorld</a> | <a adhocenable="false" href="http://waste-management-world.com/" target="_blank">Waste Management World</a> | <a adhocenable="false" href="http://www.waterworldce.com/" target="_blank">WaterWorld CE</a> | <a adhocenable="false" href="http://waterworld1.jobamatic.com/a/jbb/find-jobs" target="_blank">WaterWorld Jobs</a><br>
 <br>
 </div>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>Dental:</h3>
-<a target="_blank" href="http://www.dentaleconomics.com/" adhocenable="false">Dental Economics</a>&nbsp;|&nbsp; <a target="_blank" href="http://www.dentistryiq.com/index.html" adhocenable="false">DentistryIQ</a> |&nbsp;&nbsp;<a target="_blank" href="http://www.rdhmag.com/" adhocenable="false">RDH</a> | <a target="_blank" href="http://www.surgicalrestorative.com/index.html" adhocenable="false">Surgical Restorative Resource</a> | <a adhocenable="false" href="http://www.pennwellbooks.com/dental.html" target="_blank">PennWell Dental Books</a> | <a adhocenable="false" href="http://www.proofs.com/" target="_blank">Proofs</a><br>
+<a adhocenable="false" href="http://www.dentaleconomics.com/" target="_blank">Dental Economics</a>&nbsp;|&nbsp; <a adhocenable="false" href="http://www.dentistryiq.com/index.html" target="_blank">DentistryIQ</a> |&nbsp;&nbsp;<a adhocenable="false" href="http://www.rdhmag.com/" target="_blank">RDH</a> | <a adhocenable="false" href="http://www.surgicalrestorative.com/index.html" target="_blank">Surgical Restorative Resource</a> | <a target="_blank" href="http://www.pennwellbooks.com/dental.html" adhocenable="false">PennWell Dental Books</a> | <a target="_blank" href="http://www.proofs.com/" adhocenable="false">Proofs</a><br>
 </div>
-<div class="clearer"></div>
+<div class="clearer">&nbsp;</div>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>Cabling &amp; Broadband:</h3>
-<a target="_blank" href="http://www.cablinginstall.com/" adhocenable="false">Cabling Installation &amp; Maintenance</a> | <a target="_blank" href="http://broadbandgear.net/" adhocenable="false">BTR</a><br>
+<a adhocenable="false" href="http://www.cablinginstall.com/" target="_blank">Cabling Installation &amp; Maintenance</a> | <a adhocenable="false" href="http://broadbandgear.net/" target="_blank">BTR</a><br>
 </div>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>Optoelectronics &amp; Photonics:</h3>
-<a target="_blank" href="http://www.bioopticsworld.com/" adhocenable="false">BioOptics World</a> |&nbsp;<a target="_blank" href="http://www.vision-systems.com/" adhocenable="false">Vision Systems Design</a> | <a target="_blank" href="http://www.laserfocusworld.com/" adhocenable="false">Laser Focus World</a> |&nbsp;<a target="_blank" href="http://www.lightwavemag.com/" adhocenable="false">Lightwave</a> | <a target="_blank" href="http://industrial-lasers.com/" adhocenable="false">Industrial Laser Solutions</a><br>
+<a adhocenable="false" href="http://www.bioopticsworld.com/" target="_blank">BioOptics World</a> |&nbsp;<a adhocenable="false" href="http://www.vision-systems.com/" target="_blank">Vision Systems Design</a> | <a adhocenable="false" href="http://www.laserfocusworld.com/" target="_blank">Laser Focus World</a> |&nbsp;<a adhocenable="false" href="http://www.lightwavemag.com/" target="_blank">Lightwave</a> | <a adhocenable="false" href="http://industrial-lasers.com/" target="_blank">Industrial Laser Solutions</a><br>
 <br>
 </div>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>Hydropower &amp; Renewable Energy:</h3>
-<a target="_blank" href="http://www.renewableenergyworld.com/" adhocenable="false">Renewable Energy World</a> | <a href="http://www.hydroworld.com" adhocenable="false">HydroWorld</a> | <a adhocenable="false" href="http://www.hydroworld.com/index/current-issue-index.html" target="_blank">HRW</a> | <a adhocenable="false" href="http://www.hydroworld.com/index/current-issue-index.html" target="_blank">Hydro Review</a><br>
+<a adhocenable="false" href="http://www.renewableenergyworld.com/" target="_blank">Renewable Energy World</a> | <a adhocenable="false" href="http://www.hydroworld.com">HydroWorld</a> | <a target="_blank" href="http://www.hydroworld.com/index/current-issue-index.html" adhocenable="false">HRW</a> | <a target="_blank" href="http://www.hydroworld.com/index/current-issue-index.html" adhocenable="false">Hydro Review</a><br>
 </div>
-<div class="clearer"></div>
+<div class="clearer">&nbsp;</div>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>Aviation &amp; Defense:</h3>
-<a target="_blank" href="http://www.militaryaerospace.com/" adhocenable="false">Military &amp; Aerospace Electronics</a> |&nbsp;<br>
-<a target="_blank" href="http://www.avionics-intelligence.com/index.html" adhocenable="false">Avionics Intelligence</a></div>
+<a adhocenable="false" href="http://www.militaryaerospace.com/" target="_blank">Military &amp; Aerospace Electronics</a> |&nbsp;<br>
+<a adhocenable="false" href="http://www.intelligent-aerospace.com/index.html" target="_blank">Intelligent Aerospace</a></div>
 <div style="float: left; margin: 0 15px; width: 30%;"><h3>LEDs &amp; Lighting:</h3>
-<a target="_blank" href="http://www.ledsmagazine.com/" adhocenable="false">LEDs Magazine</a>&nbsp;|&nbsp;<a target="_blank" href="http://www.strategies-u.com/index.html" adhocenable="false">Stategies Unlimited</a> | <a target="_blank" href="http://illuminationinfocus.com/" adhocenable="false">Illumination in Focus</a><br>
+<a adhocenable="false" href="http://www.ledsmagazine.com/" target="_blank">LEDs Magazine</a>&nbsp;|&nbsp;<a adhocenable="false" href="http://www.strategies-u.com/index.html" target="_blank">Stategies Unlimited</a> | <a adhocenable="false" href="http://illuminationinfocus.com/" target="_blank">Illumination in Focus</a><br>
 </div>
-<div class="clearer"></div>
+<div class="clearer">&nbsp;</div>
 </div>
-<div class="clearer"></div>
+<div class="clearer">&nbsp;</div>
 <div style="margin: 0 auto;"><h1 style="text-align: center; padding: 20px; font-size: 28px; color: white;">PENNWELL EVENTS</h1>
 <div style="float: left; margin-left: 0px; margin-right: 15px; width: 23%;"><ul style="list-style-type: disc;">
-<li><a target="_blank" href="http://www.asia-industrialwaterforum.com/index.html" adhocenable="false">Asia Industrial Water Forum</a></li>
-<li><a target="_blank" href="http://www.coal-gen.com/" adhocenable="false">COAL-GEN US</a></li>
-<li><a target="_blank" href="http://www.deepoffshoretechnology.com/" adhocenable="false">Deep Offshore Technology Int'l</a></li>
-<li><a adhocenable="false" href="http://www.deepwateroperations.com/index.html" target="_blank">Deepwater Operations</a></li>
-<li><a target="_blank" href="http://www.distributech.com/" adhocenable="false">DistribuTECH</a></li>
-<li><a target="_blank" href="http://www.distributechafrica.com/index.html" adhocenable="false">DistribuTECH Africa</a></li>
-<li><a target="_blank" href="http://www.distributechbrasil.com/en/index.html" adhocenable="false">DistribuTECH Brasil</a></li>
-<li><a adhocenable="false" href="http://www.distributechindia.com/index.html" target="_blank">DistribuTECH India</a></li>
-<li><a target="_blank" href="http://www.elpconference.com/index.html" adhocenable="false">Electric Light &amp; Power Executive Conference</a></li>
-<li><a target="_blank" href="http://www.emstoday.com/index.html" adhocenable="false">EMS Today</a></li>
-<li><a target="_blank" href="http://www.fdic.com/index.html" adhocenable="false">FDIC</a></li>
-<li><a target="_blank" href="http://www.hydrovisionbrasil.com/en/index.html" adhocenable="false">HydroVision Brasil</a></li>
+<li><a adhocenable="false" href="http://www.asia-industrialwaterforum.com/index.html" target="_blank">Asia Industrial Water Forum</a></li>
+<li><a adhocenable="false" href="http://www.coal-gen.com/" target="_blank">COAL-GEN US</a></li>
+<li><a adhocenable="false" href="http://www.deepoffshoretechnology.com/" target="_blank">Deep Offshore Technology Int'l</a></li>
+<li><a target="_blank" href="http://www.deepwateroperations.com/index.html" adhocenable="false">Deepwater Operations</a></li>
+<li><a adhocenable="false" href="http://www.distributech.com/" target="_blank">DistribuTECH</a></li>
+<li><a adhocenable="false" href="http://www.distributechafrica.com/index.html" target="_blank">DistribuTECH Africa</a></li>
+<li><a adhocenable="false" href="http://www.distributechbrasil.com/en/index.html" target="_blank">DistribuTECH Brasil</a></li>
+<li><a target="_blank" href="http://www.distributechindia.com/index.html" adhocenable="false">DistribuTECH India</a></li>
+<li><a adhocenable="false" href="http://www.elpconference.com/index.html" target="_blank">Electric Light &amp; Power Executive Conference</a></li>
+<li><a adhocenable="false" href="http://www.emstoday.com/index.html" target="_blank">EMS Today</a></li>
+<li><a adhocenable="false" href="http://www.fdic.com/index.html" target="_blank">FDIC</a></li>
+<li><a adhocenable="false" href="http://www.hydrovisionbrasil.com/en/index.html" target="_blank">HydroVision Brasil</a></li>
 </ul>
 </div>
 <div style="float: left; margin: 0 15px; width: 24%;"><ul style="list-style-type: disc;">
-<li><a target="_blank" href="http://www.hydroevent.com/index.html" adhocenable="false">HydroVision International</a></li>
-<li><a target="_blank" href="http://www.hydrovision-russia" adhocenable="false">HydroVision Russia</a><br>
+<li><a adhocenable="false" href="http://www.hydroevent.com/index.html" target="_blank">HydroVision International</a></li>
+<li><a adhocenable="false" href="http://www.hydrovision-russia" target="_blank">HydroVision Russia</a><br>
 </li>
-<li><a target="_blank" href="http://www.marketplaceseminar.com/index.html" adhocenable="false">Lasers &amp; Photonics Marketplace Seminar</a></li>
-<li><a target="_blank" href="http://www.nationalhydroconference.com/index.html" adhocenable="false">National Hydropower Association</a></li>
-<li><a target="_blank" href="http://www.nuclearpowerinternational.com" adhocenable="false">NUCLEAR POWER International</a></li>
-<li><a target="_blank" href="http://www.offshoremiddleeast.com/index.html" adhocenable="false">Offshore Middle East</a></li>
-<li><a target="_blank" href="http://www.offshorewestafrica.com/index.html" adhocenable="false">Offshore West Africa</a><br>
+<li><a adhocenable="false" href="http://www.marketplaceseminar.com/index.html" target="_blank">Lasers &amp; Photonics Marketplace Seminar</a></li>
+<li><a adhocenable="false" href="http://www.nationalhydroconference.com/index.html" target="_blank">National Hydropower Association</a></li>
+<li><a adhocenable="false" href="http://www.nuclearpowerinternational.com" target="_blank">NUCLEAR POWER International</a></li>
+<li><a adhocenable="false" href="http://www.offshoremiddleeast.com/index.html" target="_blank">Offshore Middle East</a></li>
+<li><a adhocenable="false" href="http://www.offshorewestafrica.com/index.html" target="_blank">Offshore West Africa</a><br>
 </li>
-<li><a target="_blank" href="http://www.oilandgaspipelineevent.com/index.html" adhocenable="false">Oil &amp; Gas Pipeline Conference</a></li>
-<li><a target="_blank" href="http://www.pnecconferences.com/" adhocenable="false">PNEC Conferences</a></li>
-<li><a target="_blank" href="http://www.powergenafrica.com/index.html" adhocenable="false">POWER-GEN Africa</a></li>
-<li><a target="_blank" href="http://www.powergenasia.com/index.html" adhocenable="false">POWER-GEN Asia</a></li>
-<li><a target="_blank" href="http://www.powergenbrasil.com/en/index.html" adhocenable="false">POWER-GEN Brasil</a></li>
+<li><a adhocenable="false" href="http://www.pnecconferences.com/" target="_blank">PNEC Conferences</a></li>
+<li><a target="_blank" href="http://www.pipelineweek.com/index.html" adhocenable="false">Pipeline Week</a><br>
+</li>
+<li><a adhocenable="false" href="http://www.powergenafrica.com/index.html" target="_blank">POWER-GEN Africa</a></li>
+<li><a adhocenable="false" href="http://www.powergenasia.com/index.html" target="_blank">POWER-GEN Asia</a></li>
+<li><a adhocenable="false" href="http://www.powergenbrasil.com/en/index.html" target="_blank">POWER-GEN Brasil</a></li>
+<li><a adhocenable="false" href="http://www.powergeneurope.com/index.html" target="_blank">POWER-GEN Europe</a></li>
 </ul>
 </div>
 <div style="float: left; margin: 0 15px; width: 25%;"><ul style="list-style-type: disc;">
-<li><a target="_blank" href="http://www.powergeneurope.com/index.html" adhocenable="false">POWER-GEN Europe</a></li>
-<li><a target="_blank" href="http://www.power-genindia.com/index.html" adhocenable="false">POWER-GEN India &amp; Central Asia</a></li>
-<li><a target="_blank" href="http://www.power-gen.com/index.html" adhocenable="false">POWER-GEN International</a></li>
-<li><a target="_blank" href="http://www.powergenfinancialforum.com/index.html" adhocenable="false">POWER-GEN International Financial Forum</a></li>
-<li><a target="_blank" href="http://www.power-gen-middleeast.com/index.html" adhocenable="false">POWER-GEN Middle East</a></li>
-<li><a target="_blank" href="http://www.rdhunderoneroof.com/index.html" adhocenable="false">RDH Under One Roof</a></li>
-<li><a target="_blank" href="http://www.renewableenergyworld-asia.com/index.html/" adhocenable="false">Renewable Energy World Asia</a></li>
-<li><a target="_blank" href="http://www.renewableenergyworld-europe.com/index.html" adhocenable="false">Renewable Energy World Europe</a></li>
-<li><a target="_blank" href="http://www.renewableenergyworldindia.com/index.html" adhocenable="false">Renewable Energy World India</a></li>
-<li><a target="_blank" href="http://www.renewableenergyworld-events.com/index.html" adhocenable="false">Renewable Energy World North America</a></li>
-<li><a target="_blank" href="http://www.russia-power.org/en_GB/index.html" adhocenable="false">Russia Power</a></li>
+<li><a adhocenable="false" href="http://www.power-genindia.com/index.html" target="_blank">POWER-GEN India &amp; Central Asia<br>
+</a></li>
+<li><a adhocenable="false" href="http://www.power-gen.com/index.html" target="_blank">POWER-GEN International</a></li>
+<li><a adhocenable="false" href="http://www.powergenfinancialforum.com/index.html" target="_blank">POWER-GEN International Financial Forum</a></li>
+<li><a adhocenable="false" href="http://www.power-gen-middleeast.com/index.html" target="_blank">POWER-GEN Middle East</a></li>
+<li><a adhocenable="false" href="http://www.power-gennaturalgas.com/index.html" target="_blank">POWER-GEN Natural Gas</a><br>
+</li>
+<li><a adhocenable="false" href="http://www.rdhunderoneroof.com/index.html" target="_blank">RDH Under One Roof</a></li>
+<li><a adhocenable="false" href="http://www.renewableenergyworld-asia.com/index.html/" target="_blank">Renewable Energy World Asia</a></li>
+<li><a adhocenable="false" href="http://www.renewableenergyworld-europe.com/index.html" target="_blank">Renewable Energy World Europe</a></li>
+<li><a adhocenable="false" href="http://www.renewableenergyworldindia.com/index.html" target="_blank">Renewable Energy World India</a></li>
+<li><a adhocenable="false" href="http://www.renewableenergyworld-events.com/index.html" target="_blank">Renewable Energy World North America</a></li>
+<li><a adhocenable="false" href="http://www.russia-power.org/en_GB/index.html" target="_blank">Russia Power</a></li>
 </ul>
 </div>
 <div style="float: left; margin-left: 15px; margin-right: 0px; width: 18.3%;"><ul style="list-style-type: disc;">
-<li><a target="_blank" href="http://www.strategiesinbiophotonics.com" adhocenable="false">Strategies in Biophotonics</a></li>
-<li><a target="_blank" href="http://www.strategiesinlight.com/index.html" adhocenable="false">Strategies in Light</a></li>
-<li><a target="_blank" href="http://www.sileurope.com/index.html" adhocenable="false">Strategies in Light Europe</a></li>
+<li><a adhocenable="false" href="http://www.strategiesinbiophotonics.com" target="_blank">Strategies in Biophotonics</a></li>
+<li><a adhocenable="false" href="http://www.strategiesinlight.com/index.html" target="_blank">Strategies in Light</a></li>
+<li><a adhocenable="false" href="http://www.sileurope.com/index.html" target="_blank">Strategies in Light Europe</a></li>
 <li><a href="http://www.sil-ledjapan.com/index.html">Strategies in Light Japan</a></li>
-<li><a target="_blank" href="http://www.subseatiebackforum.com/index.html" adhocenable="false">Subsea Tieback Forum</a></li>
-<li><a adhocenable="false" href="http://www.theledshow.com/index.html" target="_blank">The LED Show</a></li>
-<li><a adhocenable="false" href="http://www.topsidesevent.com/index.html" target="_blank">Topsides Conference</a></li>
-<li><a target="_blank" href="http://transmissionhub.com/transforum/east/index.php" adhocenable="false">TransForum East</a></li>
-<li><a target="_blank" href="http://transmissionhub.com/transforum/texas/index.php" adhocenable="false">TransForum Texas</a></li>
-<li><a target="_blank" href="http://transmissionhub.com/transforum/west/index.php" adhocenable="false">TransForum West</a></li>
-<li><a adhocenable="false" href="http://www.utilityproductsexpo.com/index.html" target="_blank">Utility Products Conference</a></li>
-<li><a adhocenable="false" href="http://www.waterworldmiddleeast.com/index.html" target="_blank">WaterWorld Middle East</a></li>
+<li><a adhocenable="false" href="http://www.subseatiebackforum.com/index.html" target="_blank">Subsea Tieback Forum</a></li>
+<li><a target="_blank" href="http://www.theledshow.com/index.html" adhocenable="false">The LED Show</a></li>
+<li><a target="_blank" href="http://www.topsidesevent.com/index.html" adhocenable="false">Topsides Conference</a></li>
+<li><a adhocenable="false" href="http://transmissionhub.com/transforum/east/index.php" target="_blank">TransForum East</a></li>
+<li><a adhocenable="false" href="http://transmissionhub.com/transforum/texas/index.php" target="_blank">TransForum Texas</a></li>
+<li><a adhocenable="false" href="http://transmissionhub.com/transforum/west/index.php" target="_blank">TransForum West</a></li>
+<li><a target="_blank" href="http://www.utilityproductsexpo.com/index.html" adhocenable="false">Utility Products Conference</a></li>
+<li><a target="_blank" href="http://www.waterworldmiddleeast.com/index.html" adhocenable="false">WaterWorld Middle East</a></li>
 </ul>
 </div>
-<div class="clearer"></div>
+<div class="clearer">&nbsp;</div>
 </div>
-<div class="clearer"></div>
+<div class="clearer">&nbsp;</div>
 <div style="margin: 0 auto; text-align: center;"><h1 style="text-align: center; padding: 20px; font-size: 28px; color: white;">PENNWELL DATA &amp; INFORMATION PRODUCTS</h1>
 <div style="margin: 0 auto; width: 50%; float: none;"><div style="margin-left: 15px; margin-right: 15px;"><ul style="list-style-type: disc;">
-<li><a adhocenable="false" href="http://www.pennenergy.com/research.html">PennEnergy Research Center</a></li>
-<li><a adhocenable="false" href="http://www.mapsearch.com/index.html" target="_blank">MAPSearch/Envision</a></li>
-<li><a adhocenable="false" href="http://generationhub.com/" target="_blank">GenerationHub</a></li>
+<li><a href="http://www.pennenergy.com/research.html" adhocenable="false">PennEnergy Research Center</a></li>
+<li><a target="_blank" href="http://www.mapsearch.com/index.html" adhocenable="false">MAPSearch/Envision</a></li>
+<li><a target="_blank" href="http://generationhub.com/" adhocenable="false">GenerationHub</a></li>
 </ul>
 </div>
 <div style="margin-left: 15px; margin-right: 15px;"><ul style="list-style-type: disc;">
-<li><a adhocenable="false" href="http://transmissionhub.com/" target="_blank">TransmissionHub</a></li>
-<li><a adhocenable="false" href="http://www.pennwellbooks.com/" target="_blank">Books</a></li>
-<li><a adhocenable="false" href="http://www.pennenergyjobs.com/index.html" target="_blank">Jobs</a></li>
+<li><a target="_blank" href="http://transmissionhub.com/" adhocenable="false">TransmissionHub</a></li>
+<li><a target="_blank" href="http://www.pennwellbooks.com/" adhocenable="false">Books</a></li>
+<li><a target="_blank" href="http://www.pennenergyjobs.com/index.html" adhocenable="false">Jobs</a></li>
 </ul>
 </div>
 <div style="margin-left: 15px; margin-right: 15px;"><ul style="list-style-type: disc;">
-<li><a adhocenable="false" href="http://www.strategies-u.com" target="_blank">Strategies Unlimited</a></li>
-<li><a adhocenable="false" href="/content/pennwell-corporate/en/data-information-products/buyers-guide.html">Buyers Guides</a></li>
-<li><a adhocenable="false" href="/content/pennwell-corporate/en/list-rental-services.html">List Rental</a></li>
+<li><a target="_blank" href="http://www.strategies-u.com" adhocenable="false">Strategies Unlimited</a></li>
+<li><a href="/content/pennwell-corporate/en/data-information-products/buyers-guide.html" adhocenable="false">Buyers Guides</a></li>
+<li><a href="/content/pennwell-corporate/en/list-rental-services.html" adhocenable="false">List Rental</a></li>
 </ul>
 </div>
 </div>
 </div>
-<div class="clearer"></div>
+<div class="clearer">&nbsp;</div>
 </div>
 
         </div>
@@ -1371,8 +1424,7 @@ function slide() {
 </div>
 
 </div>
-</div>
-                 <div class="section"><div class="text parbase">
+<div class="text parbase section">
 <div id="pwfooter">
     
     <div id="pennwellFooter"><div id="pennwellLogo"></div>
@@ -1381,8 +1433,8 @@ Copyright © 2014: PennWell Corporation, Tulsa, OK; All Rights Reserved</div>
 </div>
 
 </div></div>
-</div></div>
-</div><div class="section"><div class="new"></div>
+
+</div>
 </div>
 </div>
 
@@ -1752,4 +1804,4 @@ Copyright © 2014: PennWell Corporation, Tulsa, OK; All Rights Reserved</div>
     
     
 
-<script type="text/javascript" src="http://browser-update.org/update.js"></script></body></html>
+<script type="text/javascript" src="/etc/designs/corporate_design/static/clientlibs/source/update.js"></script></body></html>
