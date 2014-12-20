@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hurley.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614002513id_/http%3A//www.hurley.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hurley.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103528id_/http%3A//www.hurley.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Hurley Digital Privacy Policy
 
 Effective February 21, 2012
 
-This HURLEY Digital Privacy Policy (USA) ("Privacy Policy") describes how we collect and use your information through a variety of digital means. By accessing or using this website, mobile application or other HURLEY product or service on any computer, mobile phone, tablet, console or other device (collectively, "Device"), you consent to our Privacy Policy. HURLEY may modify this Privacy Policy at any time effective upon its posting. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](https://web.archive.org/web/20140614002513id_/http%3A//www.hurley.com/terms.html).
+This HURLEY Digital Privacy Policy (USA) ("Privacy Policy") describes how we collect and use your information through a variety of digital means. By accessing or using this website, mobile application or other HURLEY product or service on any computer, mobile phone, tablet, console or other device (collectively, "Device"), you consent to our Privacy Policy. HURLEY may modify this Privacy Policy at any time effective upon its posting. Your continued use of our products and services constitutes your acceptance to this Privacy Policy and any updates. This Privacy Policy is incorporated into, and is subject to, the [Terms of Use](https://web.archive.org/web/20141220103528id_/http%3A//www.hurley.com/terms.html).
 
 While this Privacy Policy is intended to generally describe our privacy practices, our goal is to also provide more detailed information at times when it's most meaningful to you.  Please look for these notices within our HURLEY services.  
 
