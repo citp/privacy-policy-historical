@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekscab.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606190922id_/http%3A//www.geekscab.com/p/privacy-policy-for-www.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekscab.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220083255id_/http%3A//www.geekscab.com/p/privacy-policy-for-www.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ GeeksCab
 
