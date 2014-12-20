@@ -1,153 +1,364 @@
-<!--The following is the downloaded HTML source of the rentalhomesplus.com privacy policy that was archived on 2014-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140505104649id_/http%3A//rentalhomesplus.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rentalhomesplus.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220190539id_/http%3A//corporate.apartments.com/disclaimers/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-4.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"400991f6db","applicationID":"3814736","transactionName":"YwBVbUEAXEsAVkINWFpKeVZBDFNUCE9TABge","queueTime":0,"applicationTime":4,"ttGuid":"291DECD0DE39C838","agent":"js-agent.newrelic.com/nr-400.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIOWFNSGwAIVVVVBAc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,o,a,u){return s?s-=1:n("err",[u||new UncaughtException(t,e,o)]),"function"==typeof i?i.apply(this,r(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}var n=t("handle"),r=t(6),o=t(5),i=window.onerror,a=!1,s=0;t("loader").features.push("err"),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),a=!0)}o.on("fn-start",function(){a&&(s+=1)}),o.on("fn-err",function(t,e,r){a&&(this.thrown=!0,n("err",[r,(new Date).getTime()]))}),o.on("fn-end",function(){a&&!this.thrown&&s>0&&(s-=1)}),o.on("internal-error",function(t){n("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);return i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1),n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,p=e(d);if(p&&(r.rxSize=p),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){a.emit("internal-error",e)}};for(var p=0;u>p;p++)n.addEventListener(s[p],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=c.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID){c.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=c.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",p="attachEvent",f=(""+location).split("?")[0],c=e.exports={offset:i(),origin:f,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[p]("onreadystatechange",r),s[p]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,n,r){function nrWrapper(){try{var a,u=s(arguments),d=this,p=n&&n(u,d)||{}}catch(f){i([f,"",[u,d,r],p])}o(e+"start",[u,d,r],p);try{return a=t.apply(d,u)}catch(c){throw o(e+"err",[u,d,c],p),c}finally{o(e+"end",[u,d,a],p)}}return t&&"function"==typeof t&&t.apply&&!t._wrapped?(e||(e=""),nrWrapper._wrapped=!0,nrWrapper):t}function r(t,e,r,o){r||(r="");var i,a,s,u="-"===r.charAt(0);for(s=0;s<e.length;s++)a=e[s],i=t[a],i&&"function"==typeof i&&i.apply&&!i._wrapped&&(t[a]=n(i,u?a+r:r,o,a,t))}function o(t,e,n){try{a.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{a.emit("internal-error",t)}catch(e){}}var a=t(1),s=t(2);e.exports=n,n.inPlace=r},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="robots" content="index, follow">
-<meta name="revisit-after" content="15 days">
-<meta name="description" content="Property advertising online at apartments.com. List your apartment and search properties.">
-<meta name="keywords" content="apartment advertising, property advertising, apartment, apartments, list rental, list an apartment, advertise rental property, apartment vacancy,  advertise vacancy, advertise my apartment, list rental property, truck rental company, connect utilities, utility connection, interstate mover">
-<title>Apartments.com Private Policy</title>
-<link rel="STYLESHEET" type="text/css" href="/style_apts.css">
-<link rel="stylesheet" href="/style_apts_results.css" type="text/css"></head>
-<body bgcolor="white" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<script src="/horizontal.js" language="javascript"></script>
-<table cellspacing="0" cellpadding="0" border="0" align="center">
-<tbody><tr>
-<td valign="top" width="140" rowspan="2" class="pad_top_5">
-<!--LEFT NAV -->
-<script language="JavaScript" src="/moveManager_pr.js"></script>
-<!-- END LEFT NAV-->
-</td>
-<td width="10">&nbsp;</td>
-<td class="pad_top_5">
-	<table cellspacing="0" cellpadding="0" width="618" border="0">
-        <tbody>
-        <tr>
-          <td class="arial12" valign="top" height="20">
-            <p><font color="#000000"></font></p><center>
-              <h3 align="center"><strong>Privacy Statement </strong></h3>
-            </center><p></p>
-            <p><font color="#000000">The Privacy Statement (the  "Statement") that follows describes the collection, use and  disclosure of information practices by Classified Ventures, LLC (“CV”, “us”  ‘we”) &nbsp;in connection with the operation  of our Web sites <a href="http://www.apartments.com">www.apartments.com</a>, <a href="http://www.rentalhomesplus.com">www.rentalhomesplus.com</a>, <a href="http://www.apartmentlhomeliving.com">www.apartmentlhomeliving.com</a>, <a href="http://www.movingcenter.com">www.movingcenter.com</a> and our related mobile  applications. (collectively, the “Site”) &nbsp;This Statement also applies to the national  version of Apartments.com as well as to any other versions or pages of&nbsp; Apartments.com that we operate, including versions  or pages that Apartments.com co-brands or private labels with its newspaper and  broadcast affiliates and other partners (collectively, "<strong>Affiliates</strong>"). For  example, you may have arrived at a co-branded version of Apartments.com from an  Affiliate's Web site, in which case, that Affiliate will be clearly identified  at the top of the home page of this Site. In this Statement Apartments.com may  refer to those versions of the Site as "<strong>Affiliate Versions</strong>." Please be aware  that Apartments.com may share any information you submit through this Site with  Affiliates, as described below. During your visit to any Affiliate Version, the  Affiliate may independently collect other information from you. <br>
-              <br>
-            </font>This Statement  does not describe the collection, use and disclosure of information through  means other than the Site (e.g., offline) or the collection, use and disclosure  practices of any third party, including Affiliates. For information on a third  party’s information collection, use and disclosure practices, please review the  privacy policy on the applicable third party’s Web site. Also, please note that  this Site contains links to other Web sites. We are not responsible for the Web  sites, content or privacy practices of any third party. By using this Site, you  acknowledge that you have read this Statement and agree that you are subject to  the corresponding Terms of Service:<br>
-            <br>
-            <a href="http://www.apartments.com/terms.htm">http://www.apartments.com/terms.htm</a><br>
-            <br>
-            <a href="http://www.rentalhomesplus.com/RHP/termsofservice.aspx">http://www.rentalhomesplus.com/RHP/termsofservice.aspx</a> <br>
-            <br>
-            <a href="http://www.apartmenthomeliving.com/info/terms.aspx">http://www.apartmenthomeliving.com/info/terms.aspx</a> <font color="#000000"><br>
-            <br></font>The policy that  follows is applicable to CV’s information collection, use and disclosure  practices. For information on the policy applicable to the affiliate's  information collection, use and disclosure practices, please review the privacy  statement on the affiliate's Web site (this may be the site from which you  linked to get here). Also, please note that the Site contains links to other  Web sites. CV and its affiliates are not responsible for the content or the  privacy policies of any Web sites to which the Site may link.&nbsp; If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:legal@classifiedventures.com">legal@classifiedventures.com</a>.</p>
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
 
-            <h3 align="center"><strong>Collection of Personally Identifiable Information</strong></h3>
-            <p>You are not  required to provide any personally identifiable information to visit the Site. CV  &nbsp;automatically collects Usage Data (as  described below) and may collect ZIP codes and other information in connection  with your use of the Site(e.g., the type of apartment you are looking for). We collect  personally identifiable information only when you provide it. You may be  required to provide personally identifiable information to use certain  services.&nbsp;&nbsp; In addition, you may submit personally identifiable  information in other ways, including: (a) participating in online surveys,  promotions, contests and sweepstakes; (b) subscribing to newsletters, editorial  content, or promotional content sent via email (which have opt-out instructions  if you wish to unsubscribe); and (c) in connection with other products,  services, features, or requests made available through the Site. We also  publish toll-free phone numbers for many of the properties that list apartments  for rent on the Site. If you dial one of these phone numbers, the Site or a  service provider operating on the Site’s behalf may record the date, time and  length of your call and the phone number from which the call originated, along  with other information that may be captured. Any Usage Data and/or personally  identifiable information resulting from such calls may be used as described in  this Statement, including for follow up marketing purposes. The types of  personally identifiable information collected will depend on the nature of the  submission or the features of the Site used, but could include your name,  address, phone number, email address and credit card information. In the event  that you purchase an ad in a print/online package through a newspaper  Affiliate, the Affiliate is required to share your name, phone number and email  address with CV in order to allow us to process and maintain your ad.  &nbsp;&nbsp;&nbsp;</p>
-            <h3 align="center"><strong>Passive Information Collection</strong></h3>
-            <p>The Site  automatically collects information and may also customize your visit through  technical means, including the following:<br>
-              <br>
-              <strong>Cookies:</strong> Cookies are small text files that are placed on your computer's hard drive by  computers (or servers) to identify your computer.<br>
-              <br>
-              <strong>Web Beacons:</strong> Web beacons (also known as pixel tags, Internet tags, clear GIFs, or  single-pixel GIFs) are electronic images embedded into a Web page.<br>
-              <br>
-              <strong>IP Address Logs:</strong> CV also logs Internet Protocol (IP) addresses— the location of your computer on  the Internet.</p>
-            <p>Cookies allow CV to  recognize you when you visit the Site, to personalize your experience and  generally to serve you better. For example, if you enter your name, address or  ZIP code on one of the Site's forms, it may be stored in a cookie so you do not  have to enter it again on other forms on the Site. Cookies and Web beacons 
-                (which may be placed by us or a third party tracking utility partner) can  tell us what advertising you have seen on the Site, which allows CV to offer  you a more diverse selection of advertising information and may also be used  together to measure the effectiveness of our advertising campaigns. Cookies,  Web beacons and IP addresses are also used to compile data regarding Site usage  (what Web site you came from, what pages of the Site you visit, how long you  were on the Site, what type of browser you are using, what Web site did you go  to, etc.). This type of tracking does not identify you personally.&nbsp; Web beacons may also be included in emails  sent by the Site to determine when and if such emails are opened or forwarded.  You can disable cookies or otherwise manage them through tools provided with  your browser software and with third-party software packages. If you turn off  cookies, many of the Site's features will not work as well or at all. Anonymous  information regarding usage of our Site and services that is collected and/or  aggregated by or on behalf of Apartments.com through the use of such technical  means or otherwise is referred to in this Statement as "<strong>Usage Data</strong>."&nbsp; 
-                The use of third party cookies is not covered by our privacy policy. We do not 
-                have access or control over these cookies. </p>
-            <p><strong>Flash  LSOs:</strong> We use local  shared objects, also known as Flash cookies, to store your preferences such as  volume control or high game score, or display content based upon what you view  on our site to personalize your visit.&nbsp; Third Parties, with whom we  partner to provide certain features on our site or to display advertising based  upon your Web browsing activity, use Flash cookies to collect and store  information.</p>
-            <p>Flash cookies are different from browser  cookies because of the amount of, type of, and how data is stored.&nbsp; Cookie  management tools provided by your browser will not remove Flash cookies.&nbsp;  To learn how to manage privacy and storage settings for Flash cookies click  here:&nbsp; </p>
-            <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a>
-            <h3 align="center"><strong>Information Use</strong></h3>
-            <p>Personally  Identifiable Information. Personally identifiable information collected by CV through  your use of the Site may be stored on servers or in a cookie on your computer  and may be used by us for any of the following purposes:</p>
-            <ul>
-		        <li>To confirm or fulfill a request that you make (e.g.,       in order to send you apartment information you have requested, CV will share       your contact information with a participating Site property owner and/or       management company). </li>
-			      <li>To follow up on any request that you have previously       made (e.g., the Site may contact you to determine whether the property       owner and/or management company responded to your original request). </li>
-			      <li>To communicate with you regarding the Site service       (e.g., the Site may send you emails or call you to confirm an apartment       availability inquiry or to notify you that you have received a lead       regarding an apartment you have advertised or to request that you       participate in a survey). </li>
-			      <li>To send promotional materials, newsletters, or other       content via email or otherwise, unless you have indicated that you do not       wish to receive such materials. </li>
-			      <li>To permit third parties to whom the Site may disclose       personally identifiable information specifically for direct marketing       purposes to send you promotional or informational messages, but only if       you have first affirmatively agreed to receive such messages. </li>
-			      <li>To improve your user experience. </li>
-			      <li>To manage its relationships with Affiliates,       customers, and other third parties to which the Site may disclose       personally identifiable information pursuant to this Statement (e.g., to       provide reporting to Affiliates and customers, to provide customer       support, and to resolve disputes). </li>
-			      <li>For Site administration, analysis, research,       development, optimization and other internal purposes, including, without       limitation, to compile Usage Data. </li>
-	           </ul>
-            <p><strong>Usage  Data:</strong> Usage Data is used by the Site for administrative, analytical, research,  optimization and other purposes. For example, the Site may use statistical  analyses of Usage Data in order to measure interest in the various areas of the  Site, for development purposes and to inform advertisers and partners in  aggregate and anonymous terms about consumers who click on their advertising or  other messages. IP Addresses are also used for systems administration and  troubleshooting purposes. <br>
-              <br>
-With respect to promotional materials and newsletters that the Site may send  via email from time to time, the Site will not continue to send you such  communications if you ask us not to by following the unsubscribe instructions  in each promotional email from the Site or by a request sent to <a href="mailto:movinghelp@apartments.com">movinghelp@apartments.com</a>. However, you agree that the  Site may send to you, and you cannot opt out of, communications of a  transactional or relationship nature, including, but not limited to,  communications regarding fraudulent or illegal activity, account status, changes  to this Statement or the Site’s Terms of Service, as well as communications to  confirm, fulfill and follow up on your registration, service or a request  submitted through the Site. </p>
-            <h3 align="center"><strong>Information Sharing</strong></h3>
-            <p>The Site may  share personally identifiable information that you provide with third parties  in the following cases:</p>
-            <ol start="1" type="1">
-              <li><strong>Affiliates.</strong> The Site may share your       personally identifiable information with Affiliates on the condition that       the Affiliates' disclosure and use of the information is consistent with       this Statement. </li>
-              <li><strong>Requests.</strong> The Site maintains relationships       with third party providers for some of the products and services offered       through the Site.&nbsp; If you request information or services through the       Site, you agree that the Site may share personally identifiable       information as may be necessary to provide such information to or perform       such services for you. For example, if you request information about a       unit or floor plan for a property advertised on the Site, Apartments.com       will share the information collected through such request with that       property (or its designee) and any other parties providing that listing       (e.g., if a third party management company provides the listing to us on       behalf of the property or our “Feedback” service provider may collect       information and ideas on our behalf).&nbsp; In some cases, the information       that you provide through the Site may be collected directly by a third       party or its designee (e.g., through forms hosted by such third party or       on a page framed with the Site’s branding).&nbsp; Personally identifiable       information also may be shared with the specific third parties that can       respond to your requests in the form of reporting and other follow-up       communications. The subsequent use or disclosure of any information       collected by or provided to third parties is subject to their privacy       policies and practices.&nbsp; </li>
-              <li>&nbsp;<strong>Sweepstakes/Promotions.</strong> In the event that you participate in a sweepstakes, contest, or other       promotion on the Site that is sponsored by the Site and a third party, we reserve       the right to share personally identifiable information collected in       conjunction with the sweepstakes, contest or promotion with the third       party. After the information is provided to such third parties, the       subsequent use or disclosure of such information is subject to those third       parties’ privacy policies and practices. </li>
-              <li><strong>Direct Marketing.</strong> Except as provided herein, it is       the Site’s policy not to disclose personally identifiable information of       our customers to third parties specifically for the third parties' direct       marketing purposes. If you are 18 years of age or older and have       affirmatively agreed to receive third party direct marketing materials, the       Site may share your personally identifiable information with third parties       for direct marketing purposes. Although the Site will endeavor to notify       all third-party direct marketers that the information provided to them is       confidential, the subsequent use or disclosure of information is subject       to those third parties’ privacy policies and practices. </li>
-              <li><strong>Service Providers.</strong> The Site works with third       parties that provide services on its behalf.&nbsp; Examples include       providers of analytical, development, promotional, research, Live Chat,       and credit card processing and other services. For example, the Site may       ask that a third party conduct an online survey or sweepstakes or send       newsletters on its behalf. Similarly, if you make a payment to the Site by       credit card, the Site will share your personally identifiable information       and credit card information with a third party in order to process credit       card transactions, or such information may be collected directly by the       credit card processing service provider on the Site’s behalf. In such       cases, the Site requires that the third party maintain your personally       identifiable information as confidential and use the information only to       perform the services specified by the Site and not for their own       promotional purposes. . </li>
-              <li><strong>Email List Opt-Outs.</strong> In the event the Site sends       promotional emails to you on behalf of third-party advertisers and you inform       the Site you wish to opt out of future promotional emails from a       particular third party, the Site will share your email address with that       third party so the third party may add you to its opt-out lists. </li>
-              <li><strong>Other.</strong> The Site expressly reserves the       right to release any personally identifiable information or other       information you provide to third parties under the following       circumstances: (a) when required by law or legal process, (b) to       investigate and/or take action against illegal activity, suspected abuse,       or unauthorized use of the Site ’s services, (c) to protect the property       or safety of our users or others, (d) to enforce our Terms of Service and       (e) in connection with any sale or other transfer of ownership of all or a       part of CV or any of its businesses.&nbsp; If you make any personally       identifiable information publicly available on the Site (e.g., by posting       a listing which contains personally identifiable information), anyone may       see and use such information and Apartments.com is not responsible for       such use.&nbsp; The Site reserves the right to share any personally       identifiable information you post on the Site with third parties with your       prior consent.&nbsp; To the extent the Site does so, the subsequent use       and disclosure of such information is subject to the privacy policies and       practices of those third parties.&nbsp; </li>
-            </ol>
-            <p>Please note that  the messages that the Site sends to you to confirm, fulfill, or follow up on a  request may incidentally include promotional material or other content from the  Site or its partners. In the case of these messages, the Site is not sharing  your personally identifiable information with those third parties. The Site reserves  the right to share Usage Data with any third party for any reason.</p>
-           <h3 align="center"><strong>Mobile Applications </strong></h3>
-           <p><strong>Location Information:</strong><br>
-Your location is  obtained from the mobile device or the network, or directly from you, and is  used to search for information you may need – including local searches for rental  properties. When we execute such searches on your behalf we do not transfer  your identity or personally identifiable information to third parties, other  than the rental property owners. &nbsp;This  information is not used to create a profile about you or your activities.&nbsp; Your location is only stored in the app if  you save your location (rental property) searches and may be deleted by you by  clearing your search history.&nbsp; Location  coordinates are shared with our geocoding service provider (such as Google  Maps) only to perform the task of providing maps and directions per your  request.<br> 
-&nbsp;&nbsp;<br>
-<strong>Other information about your device:<br>
-<br>
-</strong>We collect non-personally identifiable information from your mobile device in order to provide our services to you.  Information may include device type and mobile service carrier.  No information, including location information, is shared with any third parties for marketing purposes.  Our apps do not interact or share information with any other applications installed on your mobile device.</p>
-           <h3 align="center"><strong>"For Rent By Owner" Ads</strong></h3>
-            <p>When purchasing a  “For Rent By Owner” online classified listing (a “<strong>FRBO Ad</strong>”), it is  important to note that any information you choose to include in a FRBO Ad may  be made publicly available via the Site and other media in which the Site &nbsp;listings are published, including third party  Web sites and print publications. For example, you may include a phone number  and/or an email address to allow users to contact you regarding your FRBO Ad.  As such, you may receive unsolicited phone calls and emails from third parties,  even after your FRBO Ad is no longer on the Site. Except for required  information, you should not include any contact or other information in a FRBO  Ad that you do not want other parties to see or use.&nbsp; If you wish to  access, verify the accuracy of, or change the personally identifiable  information in your FRBO Ad account, you can use the interface available at <a href="https://secure.apartments.com/common/emaillogin.aspx"><strong>https://secure.apartments.com/common/emaillogin.aspx</strong></a>.</p>
-            <h3 align="center">Access to Personally Identifiable Information</h3>
-            <p>If your personal information changes, or if you no longer desire our service, you 
-                may correct, delete inaccuracies, or update it by emailing us at 
-                <a href="mailto:feedback@apartments.com">feedback@apartments.com</a>. We will respond to your access request within 30 days.<br>
-                <br>
-                We will retain your information as needed to provide you services. If you wish 
-                to request that we no longer use your information to provide you services 
-                contact us at <a href="mailto:feedback@apartments.com">feedback@apartments.com</a>. We will retain and use your information 
-                as necessary to comply with our legal obligations, resolve disputes, and enforce 
-                our agreements.<br>
-                <br>
-                To request removal of your personal information from our blog, community forums 
-                or testimonials, contact us at feedback@apartments.com. In some cases we may not 
-                be able to remove your personal information, in which case we will let you know 
-                if we are unable to do so and why. </p>
-            <h3 align="center"><strong>Message Boards</strong></h3>
-            <p>The Site may  offer message boards, bulletin boards, chat rooms, comments areas, or other  forums ("Forums") on the Site that are intended for use by visitors  who are 18 years of age or older. Any information you disclose when posting a  message in these Forums may become public. You should not include any information  in your posting that you do not want other parties to see or use. Moreover, if  you post any messages in the Forums that include your email address or phone  number you may receive unsolicited email or calls from third parties.</p>
-            <h3 align="center"><strong>Testimonials</strong> </h3>
-            <p>From time to time,  the Site posts testimonials received from users of the Site.&nbsp; We receive permission to post testimonials  that include personally identifiable information including photographs prior to  posting on the Site</p>
-            <h3 align="center"><strong>Email a Friend</strong></h3>
-            <p>The Site offers  you the ability to email certain pages or content of the Site to a friend or  other third party. If you choose to use the “Email a Friend” functionality,  your name, email address and any message you are allowed to include will be  visible to the recipient of the email.&nbsp; Apartments.com does not use the  names and addresses stored through the "Email a Friend" functionality  for any purpose other than sending a one-time email to your friend. The  "Email a Friend" functionality is for informational purposes only and  you may not use it for any unlawful purpose, including any harassment or  threats. </p>
-            <h3 align="center"><strong>Changes to this Statement</strong></h3>
-            <p><strong>NNotification  of Changes:</strong> Any changes to this Statement will be posted on the Site in this  location and this Statement will be identified as "Updated". If we change how we use your  personally identifiable information, we will notify you here, by email, or by  means of a notice on our home page. Your continued  use of the Site after such notice constitutes acceptance of such changes. </p>
-            <h3 align="center"><strong>Security</strong></h3>
-            <p>Your personally  identifiable information is one of our most valuable assets. We follow  generally accepted industry standards to keep it physically secure in our data  centers and it is accessible only to authorized personnel as needed to perform  operations governed by this policy. In addition, when the Site collects credit  card information from you, the Site uses Secure Socket Layer (SSL) encryption,  the industry standard for protecting privacy in Web transactions. Please keep  in mind that despite these measures, the Site cannot guarantee or warrant 100%  security of its servers and databases. Moreover, the Site cannot guarantee that  personally identifiable information that you submit through the Site will not  be intercepted or otherwise disclosed.</p>
-            <h3 align="center"><strong>Children</strong></h3>
-            <p>The Site believes  that it is especially important to protect children's privacy online. The Site does  not knowingly collect or use any personally identifiable information from  children under the age of 13 and Site does not knowingly provide any personally  identifiable information, regardless of its source, to any third party for any  purpose whatsoever from visitors younger than 13 years old. No information  should be submitted to or posted at the Site by visitors younger than 13 years  old.</p>
-            <h3 align="center"><strong>Links</strong></h3>
-            <p>This Site  contains links to other sites. While the Site encourages our business partners  to adopt privacy policies and practices that build users' trust and confidence  in the Internet, the SIte is not responsible for the privacy policies or  practices of third parties or any of the content of Web sites linked to the  Site or any third-party products or services offered through the Site.</p>
-            <h3 align="center"><strong>Collection of Information by Third Parties</strong></h3>
-            <p>As noted above,  Affiliates and other third parties may collect information about you when using  the Site through the use of cookies and Web beacons. For example, the Site uses  third-party companies to serve advertisements when you visit the Site and to  collect statistical information regarding Site usage. Third-party advertising  companies, 
-                including Google, may collect non-personally identifiable information about your visits  to the Site and other Web sites in order to provide advertisements 
-                across the internet about goods  and services of interest to you. The Google 
-                Analytics feature implemented and used on this Site include Remarketing Display 
-                Advertising.&nbsp; In addition, the Site &nbsp;may share statistical and behavioral data  about visitors to our Sites with these third-party advertising companies for  the purpose of managing and targeting advertisements on the Site and/or on  other Web sites. These third-party advertising companies may note some of the  pages you visit on the Site through the use of Web beacons. In the course of serving  advertisements to you, these third-party advertising companies may also place  or recognize a unique "cookie" on your computer to allow them to  recognize Web beacons and otherwise improve advertising effectiveness.&nbsp; If you would like  more information about the information collection practices of some of these  third party advertising companies and learn which of these companies allow you  to opt-out of this type of information collection, please click <a href="http://www.networkadvertising.org/choices/" target="_blank">here</a>.  Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the <a href="https://www.google.com/settings/ads/onweb" target="_blank">Ads Preferences Manager</a>.<br><br>
-If you have any  questions about this Privacy Statement, please email us at <a href="mailto:legal@classifiedventures.com">legal@classifiedventures.com</a>. </p>
-            <p>© 2007 - 2010 Classified  Ventures, LLC, 175 West Jackson, Suite 800, Chicago, IL   60604</p>
-            <p>Last updated on 10/06/1<font color="#000000">1<br>
-                <br>
-            </font></p>
-            </td></tr></tbody></table>
-</td>
-<td width="10">&nbsp;</td>
-<td valign="top" width="140" rowspan="2" class="pad_top_5">
-<!--LEFT NAV -->
-<script language="JavaScript" src="/apts_rightrail.js"></script>
-<!-- END LEFT NAV-->
-</td>
-</tr>
-</tbody></table>
-<center> <br>
-<script language="javascript" type="text/javascript" src="/jscript/common/common.js"></script>
-<script language="javascript" src="/index_footer.js"></script>
-</center>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+<title>
+Privacy Statement | Apartments.com Corporate</title>
+    <link href="/content/uploads/2014/05/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://corporate.apartments.com/xmlrpc.php">
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.5 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://corporate.apartments.com/disclaimers/privacy-statement/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Statement | Apartments.com Corporate">
+<meta property="og:description" content="The Privacy Statement (the “Statement”) that follows describes the collection, use and disclosure of information practices by Apartments, LLC and its affiliates (“us” or “we”) in connection with the operation of our websites www.apartments.com, www.rentalhomesplus.com, www.apartmenthomeliving.com, and our related mobile…Read more ›">
+<meta property="og:url" content="http://corporate.apartments.com/disclaimers/privacy-statement/">
+<meta property="og:site_name" content="Apartments.com Corporate">
+<meta property="article:published_time" content="2013-06-11T15:11:20+00:00">
+<meta property="article:modified_time" content="2014-04-23T12:11:57+00:00">
+<meta property="og:updated_time" content="2014-04-23T12:11:57+00:00">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Apartments.com Corporate » Feed" href="http://corporate.apartments.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Apartments.com Corporate » Comments Feed" href="http://corporate.apartments.com/comments/feed/">
+<link rel="stylesheet" id="digg-digg-css" href="http://corporate.apartments.com/content/plugins/digg-digg/css/diggdigg-style.css?ver=5.3.6" type="text/css" media="screen">
+<link rel="stylesheet" id="responsive-style-css" href="http://corporate.apartments.com/content/themes/responsive-child/style.css?ver=1.9.3" type="text/css" media="all">
+<link rel="stylesheet" id="apts-font-awesome-css" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-media-queries-css" href="http://corporate.apartments.com/content/themes/responsive/core/css/style.css?ver=1.9.3.2" type="text/css" media="all">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://corporate.apartments.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="http://corporate.apartments.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://corporate.apartments.com/content/themes/responsive/core/js/responsive-modernizr.js?ver=2.6.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://corporate.apartments.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 3.9.1">
+<!-- Custom CSS Styles -->
+<style type="text/css" media="screen">
+.management-profile a:hover {
+    text-decoration: none;
+}
+</style>
+<!-- We need this for debugging -->
+<!-- Responsive 1.9.3.3 -->
+<!-- Responsive Child 0.1.0 -->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+
+</head>
+
+<body class="page page-id-65 page-child parent-pageid-53 page-template page-template-full-width-page-php custom-background">
+<a id="top"></a>                 
+<div id="container" class="hfeed">
+         
+        <div id="header">
+
+		    
+                
+    
+
+
+<div class="aptsnav-wrapper">
+<a href="http://advertise.apartments.com/sign-in" id="sign-in">Sign In</a>
+    <div id="logo">
+        <a href="http://www.apartments.com"><img src="http://graphics.aptcdn.com/ACW/Apts/Images/apt_logo.png" alt="Apartments.com logo"></a>
+    </div>
+
+<div class="headerNav">
+	<ul>
+		<li class="seach-for-rentals-tab"><a id="search-for-rentals-tab" title="Find your perfect fit." href="http://www.apartments.com" data-nav="search" data-om="link" data-om-linkname="search_tab">Search</a></li>
+		<li class="reviews-tab"><a id="reviews-tab" href="http://www.apartments.com/reviews/" title="Apartments.com Reviews" data-nav="reviews" data-om="link" data-om-linkname="reviews_tab">Reviews</a></li>
+		<li class="renter-resources-tab"><a id="renter-resources-tab" href="http://renters.apartments.com/" title="Everything you need to know about living in an apartment. Browse useful information on landlords, leases, budgeting, moving, gardening, decorating and more." data-om="link" data-om-linkname="renterresc_tab">Renter&nbsp;Resources</a></li>
+		<li class="advertise-tab"><a id="advertise-tab" href="http://advertise.apartments.com/" title="Advertise" data-om="link" data-om-linkname="advertise_tab">Advertise</a></li>
+	</ul>
+
+<div class="clear">&nbsp;</div>
+</div>
+
+</div><!--.aptsnav-wrapper-->
 
 
 
 
-<script src="https://js-agent.newrelic.com/nr-400.min.js"></script></body></html>
+
+        
+				<div class="main-nav"><ul id="menu-main-nav" class="menu"><li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://corporate.apartments.com/">About Us</a></li>
+<li id="menu-item-900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a href="http://corporate.apartments.com/management/">Management</a></li>
+<li id="menu-item-896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-896"><a href="http://corporate.apartments.com/responsibility/">Corporate Responsibility</a>
+<ul class="sub-menu">
+	<li id="menu-item-905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-905"><a href="http://corporate.apartments.com/responsibility/grant-program/">Grant Program</a></li>
+</ul>
+</li>
+<li id="menu-item-895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-895"><a href="http://corporate.apartments.com/press-room/">Press Room</a></li>
+<li id="menu-item-901" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-901"><a href="http://corporate.apartments.com/disclaimers/">Disclaimers</a>
+<ul class="sub-menu">
+	<li id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-902"><a href="http://corporate.apartments.com/disclaimers/terms-of-service/">Terms of Service</a></li>
+	<li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-65 current_page_item menu-item-903"><a href="http://corporate.apartments.com/disclaimers/privacy-statement/">Privacy Statement</a></li>
+	<li id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904"><a href="http://corporate.apartments.com/disclaimers/equal-opportunity-in-housing-statement/">Equal Opportunity in Housing Statement</a></li>
+	<li id="menu-item-906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906"><a href="http://corporate.apartments.com/disclaimers/avoid-scams-and-fraud/">Avoid Scams and Fraud</a></li>
+</ul>
+</li>
+<li id="menu-item-899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899"><a href="http://corporate.apartments.com/contact-us/">Contact Us</a></li>
+</ul></div>                
+            
+			 
+    </div><!-- end of #header -->
+
+       	    <div id="wrapper" class="clearfix">
+
+				     
+<div id="content-full" class="grid col-940">
+
+	
+		        
+        <div class="breadcrumb-list" xmlns:v="http://rdf.data-vocabulary.org/#"><span class="breadcrumb" typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://corporate.apartments.com/">Home</a></span> <span class="chevron">›</span> <span class="breadcrumb" typeof="v:Breadcrumb"><a rel="v:url" property="v:title" href="http://corporate.apartments.com/disclaimers/">Disclaimers</a></span> <span class="chevron">›</span> <span class="breadcrumb-current">Privacy Statement</span></div>
+						<div id="post-65" class="post-65 page type-page status-publish hentry">       
+				
+                
+<h1 class="post-title ">Privacy Statement</h1>
+
+<span class="drophead"></span>
+
+                 
+                <div class="post-entry">
+                    <p>The Privacy Statement (the “Statement”) that follows describes the collection, use and disclosure of information practices by Apartments, LLC and its affiliates (“us” or “we”) in connection with the operation of our websites www.apartments.com, www.rentalhomesplus.com, www.apartmenthomeliving.com, and our related mobile applications, (collectively, the “Site”). This Statement applies to the national version of Apartments.com as well as to any other versions or pages of Apartments.com that we operate, including a version of the Site that you may have arrived at from a distribution partner’s website. </p>
+<p>This Statement does not describe the collection, use and disclosure of information through means other than the Site (e.g., offline) or the collection, use and disclosure practices of any third party, including Apartments, LLC’s distribution partners. For information on a third party’s information collection, use and disclosure practices, please review the privacy policy on the applicable third party’s website. Also, please note that this Site contains links to other websites. We are not responsible for the websites, content or privacy practices of any third party. By using this Site, you acknowledge that you have read this Statement and agree that you are subject to the corresponding Terms of Service:</p>
+<p><a href="http://corporate.apartments.com/disclaimers/terms-of-service/" title="http://corporate.apartments.com/disclaimers/terms-of-service/">http://corporate.apartments.com/disclaimers/terms-of-service/</a></p>
+<p><a href="http://corporate.apartments.com/disclaimers/rentalhomesplus-com-terms-of-service/" title="RentalHomesPlus.com Terms of Service">http://corporate.apartments.com/disclaimers/rentalhomesplus-com-terms-of-service/</a></p>
+<p><a href="http://www.apartmenthomeliving.com/info/terms.aspx" title="http://www.apartmenthomeliving.com/info/terms.aspx">http://www.apartmenthomeliving.com/info/terms.aspx</a></p>
+<p>The policy that follows is applicable to our information collection, use and disclosure practices. </p>
+<h2>Collection of Personally Identifiable Information</h2>
+<p>You are not required to provide any personally identifiable information to visit the Site. We automatically collect Usage Data (as described below) and may collect ZIP codes and other information in connection with your use of the Site (e.g., the type of apartment you are looking for). We collect personally identifiable information only when you provide it. You may be required to provide personally identifiable information to use certain services. In addition, you may submit personally identifiable information in other ways, including: (a) participating in online surveys, promotions, contests and sweepstakes; (b) subscribing to newsletters, editorial content, or promotional content sent via email (which have opt-out instructions if you wish to unsubscribe); and (c) in connection with other products, services, features, or requests made available through the Site. We also publish toll-free phone numbers for many of the properties that list apartments for rent on the Site. If you dial one of these phone numbers, the Site or a service provider operating on the Site’s behalf may record the date, time and length of your call and the phone number from which the call originated, along with other information that may be captured. Any Usage Data and/or personally identifiable information resulting from such calls may be used as described in this Statement, including for follow up marketing purposes. The types of personally identifiable information collected will depend on the nature of the submission or the features of the Site used, but could include your name, address, phone number, email address and credit card information.  </p>
+<h2>Passive Information Collection</h2>
+<p>The Site automatically collects information and may also customize your visit through technical means, including the following:</p>
+<ol>
+<li><strong>Cookies</strong>: Cookies are small text files that are placed on your computer’s hard drive by computers (or servers) to identify your computer.</li>
+<li><strong>Web Beacons</strong>: Web beacons (also known as pixel tags, Internet tags, clear GIFs, or single-pixel GIFs) are electronic images embedded into a Web page.</li>
+<li><strong>IP Address Logs</strong>: CV also logs Internet Protocol (IP) addresses – the location of your computer on the Internet.</li>
+</ol>
+<p>Cookies allow us to recognize you when you visit the Site, to personalize your experience and generally to serve you better. For example, if you enter your name, address or ZIP code on one of the Site’s forms, it may be stored in a cookie so you do not have to enter it again on other forms on the Site. Cookies and Web beacons (which may be placed by us or a third party tracking utility partner) can tell us what advertising you have seen on the Site, which allows us to offer you a more diverse selection of advertising information and may also be used together to measure the effectiveness of our advertising campaigns. Cookies, Web beacons and IP addresses are also used to compile data regarding Site usage (what Web site you came from, what pages of the Site you visit, how long you were on the Site, what type of browser you are using, what Web site did you go to, etc.). This type of tracking does not identify you personally. Web beacons may also be included in emails sent by the Site to determine when and if such emails are opened or forwarded. You can disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages. If you turn off cookies, many of the Site’s features will not work as well or at all. Anonymous information regarding usage of our Site and services that is collected and/or aggregated by or on behalf of Apartments, LLC through the use of such technical means or otherwise is referred to in this Statement as “<strong>Usage Data</strong>.” The use of third party cookies is not covered by our privacy policy. We do not have access or control over these cookies.</p>
+<p><strong>Flash LSOs</strong>: We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.</p>
+<p>Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:</p>
+<p><a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" title="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" target="blank">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a></p>
+<h2>Information Use</h2>
+<p>Personally Identifiable Information. Personally identifiable information collected by us through your use of the Site may be stored on servers or in a cookie on your computer and may be used by us for any of the following purposes:</p>
+<p>To confirm or fulfill a request that you make (e.g., in order to send you apartment information you have requested, we will share your contact information with a participating Site property owner and/or management company).</p>
+<p>To follow up on any request that you have previously made (e.g., the Site may contact you to determine whether the property owner and/or management company responded to your original request).</p>
+<p>To communicate with you regarding the Site service (e.g., the Site may send you emails or call you to confirm an apartment availability inquiry or to notify you that you have received a lead regarding an apartment you have advertised or to request that you participate in a survey).</p>
+<p>To send promotional materials, newsletters, or other content via email or otherwise, unless you have indicated that you do not wish to receive such materials.</p>
+<p>To permit third parties to whom the Site may disclose personally identifiable information specifically for direct marketing purposes to send you promotional or informational messages, but only if you have first affirmatively agreed to receive such messages.</p>
+<p>To improve your user experience.</p>
+<p>To manage its relationships with its distribution partners, customers, and other third parties to which the Site may disclose personally identifiable information pursuant to this Statement (e.g., to provide reporting to customers, to provide customer support, and to resolve disputes).</p>
+<p>For Site administration, analysis, research, development, optimization and other internal purposes, including, without limitation, to compile Usage Data.</p>
+<p>Usage Data: Usage Data is used by the Site for administrative, analytical, research, optimization and other purposes. For example, the Site may use statistical analyses of Usage Data in order to measure interest in the various areas of the Site, for development purposes and to inform advertisers and partners in aggregate and anonymous terms about consumers who click on their advertising or other messages. IP Addresses are also used for systems administration and troubleshooting purposes.</p>
+<p>With respect to promotional materials and newsletters that the Site may send via email from time to time, the Site will not continue to send you such communications if you ask us not to by following the unsubscribe instructions in each promotional email from the Site or by a request sent to unsubscribe@apartments.com. However, you agree that the Site may send to you, and you cannot opt out of, communications of a transactional or relationship nature, including, but not limited to, communications regarding fraudulent or illegal activity, account status, changes to this Statement or the Site’s Terms of Service, as well as communications to confirm, fulfill and follow up on your registration, service or a request submitted through the Site.</p>
+<h2>Information Sharing</h2>
+<p>The Site may share personally identifiable information that you provide with third parties in the following cases:</p>
+<p>Distribution partners. The Site may share your personally identifiable information with its distribution partners on the condition that such partner’s disclosure and use of the information is consistent with this Statement.</p>
+<p>Requests. The Site maintains relationships with third party providers for some of the products and services offered through the Site. If you request information or services through the Site, you agree that the Site may share personally identifiable information as may be necessary to provide such information to or perform such services for you. For example, if you request information about a unit or floor plan for a property advertised on the Site, we will share the information collected through such request with that property (or its designee) and any other parties providing that listing (e.g., if a third party management company provides the listing to us on behalf of the property or our “Feedback” service provider may collect information and ideas on our behalf). In some cases, the information that you provide through the Site may be collected directly by a third party or its designee (e.g., through forms hosted by such third party or on a page framed with the Site’s branding). Personally identifiable information also may be shared with the specific third parties that can respond to your requests in the form of reporting and other follow-up communications. The subsequent use or disclosure of any information collected by or provided to third parties is subject to their privacy policies and practices.</p>
+<p>Sweepstakes/Promotions. In the event that you participate in a sweepstakes, contest, or other promotion on the Site that is sponsored by the Site and a third party, we reserve the right to share personally identifiable information collected in conjunction with the sweepstakes, contest or promotion with the third party. After the information is provided to such third parties, the subsequent use or disclosure of such information is subject to those third parties’ privacy policies and practices.</p>
+<p>Direct Marketing. Except as provided herein, it is the Site’s policy not to disclose personally identifiable information of our customers to third parties specifically for the third parties’ direct marketing purposes. If you are 18 years of age or older and have affirmatively agreed to receive third party direct marketing materials, the Site may share your personally identifiable information with third parties for direct marketing purposes. Although the Site will endeavor to notify all third-party direct marketers that the information provided to them is confidential, the subsequent use or disclosure of information is subject to those third parties’ privacy policies and practices.</p>
+<p>Service Providers. The Site works with third parties that provide services on its behalf. Examples include providers of analytical, development, promotional, research, Live Chat, and credit card processing and other services. For example, the Site may ask that a third party conduct an online survey or sweepstakes or send newsletters on its behalf. Similarly, if you make a payment to the Site by credit card, the Site will share your personally identifiable information and credit card information with a third party in order to process credit card transactions, or such information may be collected directly by the credit card processing service provider on the Site’s behalf. In such cases, the Site requires that the third party maintain your personally identifiable information as confidential and use the information only to perform the services specified by the Site and not for their own promotional purposes.</p>
+<p>Email List Opt-Outs. In the event the Site sends promotional emails to you on behalf of third-party advertisers and you inform the Site you wish to opt out of future promotional emails from a particular third party, the Site will share your email address with that third party so the third party may add you to its opt-out lists.</p>
+<p>Other. The Site expressly reserves the right to release any personally identifiable information or other information you provide to third parties under the following circumstances: (a) when required by law or legal process, (b) to investigate and/or take action against illegal activity, suspected abuse, or unauthorized use of the Site’s services, (c) to protect the property or safety of our users or others, (d) to enforce our Terms of Service and (e) in connection with any sale or other transfer of ownership of all or a part of Apartments, LLC or any of its businesses. If you make any personally identifiable information publicly available on the Site (e.g., by posting a listing which contains personally identifiable information), anyone may see and use such information and we are not responsible for such use. The Site reserves the right to share any personally identifiable information you post on the Site with third parties with your prior consent. To the extent the Site does so, the subsequent use and disclosure of such information is subject to the privacy policies and practices of those third parties.</p>
+<p>Please note that the messages that the Site sends to you to confirm, fulfill, or follow up on a request may incidentally include promotional material or other content from the Site or its partners. In the case of these messages, the Site is not sharing your personally identifiable information with those third parties. The Site reserves the right to share Usage Data with any third party for any reason.</p>
+<h2>Mobile Applications</h2>
+<p>Location Information:<br>
+Your location is obtained from the mobile device or the network, or directly from you, and is used to search for information you may need – including local searches for rental properties. When we execute such searches on your behalf we do not transfer your identity or personally identifiable information to third parties, other than the rental property owners. This information is not used to create a profile about you or your activities. Your location is only stored in the app if you save your location (rental property) searches and may be deleted by you by clearing your search history. Location coordinates are shared with our geocoding service provider (such as Google Maps) only to perform the task of providing maps and directions per your request.</p>
+<p>Other information about your device:<br>
+We collect non-personally identifiable information from your mobile device in order to provide our services to you. Information may include device type and mobile service carrier. No information, including location information, is shared with any third parties for marketing purposes. Our apps do not interact or share information with any other applications installed on your mobile device.</p>
+<h2>“For Rent By Owner” Ads</h2>
+<p>When purchasing a “For Rent By Owner” online classified listing (a FRBO Ad), it is important to note that any information you choose to include in a FRBO Ad may be made publicly available via the Site and other media in which the Site listings are published, including third party Web sites and print publications. For example, you may include a phone number and/or an email address to allow users to contact you regarding your FRBO Ad. As such, you may receive unsolicited phone calls and emails from third parties, even after your FRBO Ad is no longer on the Site. Except for required information, you should not include any contact or other information in a FRBO Ad that you do not want other parties to see or use. If you wish to access, verify the accuracy of, or change the personally identifiable information in your FRBO Ad account, you can use the interface available at  <a href="https://secure.apartments.com/common/emaillogin.aspx" title="https://secure.apartments.com/common/emaillogin.aspx" target="blank">https://secure.apartments.com/common/emaillogin.aspx</a>.</p>
+<h2>Access to Personally Identifiable Information</h2>
+<p>If your personal information changes, or if you no longer desire our service, you may correct, delete inaccuracies, or update it by emailing us at feedback@apartments.com. We will respond to your access request within 30 days.</p>
+<p>We will retain your information as needed to provide you services. If you wish to request that we no longer use your information to provide you services contact us at feedback@apartments.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p>To request removal of your personal information from our blog, community forums or testimonials, contact us at feedback@apartments.com. In some cases we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<h2>Message Boards</h2>
+<p>The Site may offer message boards, bulletin boards, chat rooms, comments areas, or other forums (“Forums”) on the Site that are intended for use by visitors who are 18 years of age or older. Any information you disclose when posting a message in these Forums may become public. You should not include any information in your posting that you do not want other parties to see or use. Moreover, if you post any messages in the Forums that include your email address or phone number you may receive unsolicited email or calls from third parties.</p>
+<h2>Testimonials</h2>
+<p>From time to time, the Site posts testimonials received from users of the Site. We receive permission to post testimonials that include personally identifiable information including photographs prior to posting on the Site.</p>
+<h2>Email a Friend</h2>
+<p>The Site offers you the ability to email certain pages or content of the Site to a friend or other third party. If you choose to use the “Email a Friend” functionality, your name, email address and any message you are allowed to include will be visible to the recipient of the email. We do not use the names and addresses stored through the “Email a Friend” functionality for any purpose other than sending a one-time email to your friend. The “Email a Friend” functionality is for informational purposes only and you may not use it for any unlawful purpose, including any harassment or threats.</p>
+<h2>Changes to this Statement</h2>
+<p>Notification of Changes: Any changes to this Statement will be posted on the Site in this location and this Statement will be identified as “Updated”. If we change how we use your personally identifiable information, we will notify you here, by email, or by means of a notice on our home page. Your continued use of the Site after such notice constitutes acceptance of such changes.</p>
+<h2>Security</h2>
+<p>Your personally identifiable information is one of our most valuable assets. We follow generally accepted industry standards to keep it physically secure in our data centers and it is accessible only to authorized personnel as needed to perform operations governed by this policy. In addition, when the Site collects credit card information from you, the Site uses Secure Socket Layer (SSL) encryption, the industry standard for protecting privacy in Web transactions. Please keep in mind that despite these measures, the Site cannot guarantee or warrant 100% security of its servers and databases. Moreover, the Site cannot guarantee that personally identifiable information that you submit through the Site will not be intercepted or otherwise disclosed.</p>
+<h2>Children</h2>
+<p>The Site believes that it is especially important to protect children’s privacy online. The Site does not knowingly collect or use any personally identifiable information from children under the age of 13 and Site does not knowingly provide any personally identifiable information, regardless of its source, to any third party for any purpose whatsoever from visitors younger than 13 years old. No information should be submitted to or posted at the Site by visitors younger than 13 years old.</p>
+<h2>Links</h2>
+<p>This Site contains links to other sites. While the Site encourages our business partners to adopt privacy policies and practices that build users’ trust and confidence in the Internet, the Site is not responsible for the privacy policies or practices of third parties or any of the content of Web sites linked to the Site or any third-party products or services offered through the Site.</p>
+<h2>Collection of Information by Third Parties</h2>
+<p>As noted above, Apartments, LLC’s distribution partners and other third party vendors may collect information about you when using the Site through the use of cookies and Web beacons. For example, third-party advertising companies, such as Google, use cookies to serve advertisements about goods and services that may be of interest to you across the Internet based on your past visits to the Site and other websites. The Site also uses third-party vendors to collect statistical information regarding Site usage. These third-party vendors may note some of the pages you visit on the Site through the use of Web beacons. In the course of serving advertisements to you, these third-party advertising companies may also place or recognize a unique “cookie” on your computer to allow them to recognize Web beacons and otherwise improve advertising effectiveness. The Google Analytics feature implemented and used on this Site includes remarketing display advertising where Google uses a cookie to remember information about your visit and deliver more relevant ads. In addition, the Site may share statistical and behavioral data about visitors to our Sites with these third-party advertising companies for the purpose of managing and targeting advertisements on the Site and/or on other websites. Visitors can opt-out of Google’s use of cookies by visiting Google’s <a href="http://www.google.com/settings/ads?hl=en&amp;sig=ACi0TCjTh3C9OInr5V6CZvr-kt_QIr6iozZk-3TSbax5oR7OmoOwABtv0GNqztY-LXgbZsTGVsapRN1EVSrmi7fcEMu-Nika8vy_Ib8RNF2onqvMSUa4D_g" title="Google Ad Settings" target="blank">Ad Settings</a>.</p>
+<p>If you have any questions about this Privacy Statement, please email us at <a href="mailto:privacy@costar.com" title="privacy@costar.com">privacy@costar.com</a>. </p>
+<p>©2014 Apartments, LLC, 1331 L Street, NW, Washington, DC 20005.</p>
+<p>Last updated: April 1, 2014</p>
+<p><!-- Digg Digg Disabled --></p>
+                                    </div><!-- end of .post-entry -->
+            
+				
+
+	<div class="post-data">
+			</div><!-- end of .post-data --> 
+ 
+           
+
+				               
+				      
+			</div><!-- end of #post-65 -->       
+			            
+						
+
+
+
+			            
+          
+      
+</div><!-- end of #content-full -->
+
+		    </div><!-- end of #wrapper -->
+
+    </div><!-- end of #container -->
+
+<div id="footer" class="clearfix">
+	
+    <div id="footer-wrapper">
+    
+        <div class="grid col-940">
+        
+        <div class="grid col-540">
+		         </div><!-- end of col-540 -->
+         
+         <div class="grid col-380 fit">
+         <ul class="social-icons"></ul><!-- end of .social-icons -->         </div><!-- end of col-380 fit -->
+         
+         </div><!-- end of col-940 -->
+                     
+<footer itemscope="" itemtype="http://schema.org/WPFooter">
+    <div class="footer-wrapper">
+        <div class="footer-links-container">
+            <div class="footer-links footer-col two">
+                <div class="footer-col-title">About Us</div>
+                                    <ul id="menu-footer-menu-2" class=""><li id="menu-item-991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-991"><a href="http://corporate.apartments.com/">Who We Are</a></li>
+<li id="menu-item-992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-992"><a href="http://careers.apartments.com/">Careers</a></li>
+<li id="menu-item-993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-993"><a href="http://www.apartments.com/sitemap.htm">Site Map</a></li>
+<li id="menu-item-994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-994"><a href="http://corporate.apartments.com/disclaimers/avoid-scams-and-fraud/">Avoid Scams &amp; Fraud</a></li>
+<li id="menu-item-995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-995"><a href="http://corporate.apartments.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-989" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-989"><a href="http://www.costargroup.com/">CoStar Group, Inc.</a></li>
+<li id="menu-item-990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-990"><a href="http://www.loopnet.com/">LoopNet, Inc.</a></li>
+</ul>                            </div>
+            <div class="footer-links footer-col two">
+                <div class="footer-col-title">For Renters</div>
+                                    <ul>
+                        <li><a title="Renter Resources" href="http://renters.apartments.com" data-om="link" data-om-linkname="footer_renter_resources">Renter Resources</a></li>
+                        <li><a href="http://www.apartmenthomeliving.com/" target="_blank" data-om="link" data-om-linkname="footer_apartment_home_living">Apartment Home Living</a></li>
+                        <li><a href="http://www.rentalhomesplus.com/" target="_blank" data-om="link" data-om-linkname="footer_houses_for_rent">Houses for Rent</a></li>
+                        <li><a title="Apartments.com Mobile Website" href="http://renters.apartments.com/mobile" data-om="link" data-om-linkname="footer_mobile">Mobile Apps</a></li>
+                    </ul>
+
+                            </div>
+            <div class="footer-links footer-col one">
+                <div class="footer-col-title">For Advertisers</div>
+                                    <ul>
+                        <li><a title="Advertise Hub" href="http://advertise.apartments.com/" data-om="link" data-om-linkname="footer_advertise">Advertise Hub</a></li>
+                        <li><a title="For Rent By Owner" href="http://advertise.apartments.com/products/for-rent-by-owner/" data-om="link" data-om-linkname="footer_frbo">For Rent By Owner</a></li>
+                        <li><a title="Apartments.com Blog" href="http://blog.apartments.com/" data-om="link" data-om-linkname="footer_aptsblog">Apartments.com Blog</a></li>
+
+                    </ul>
+                            </div>
+            <div class="footer-links footer-col four">
+                <div class="footer-col-title">Join Us</div>
+                <ul>
+                    <!-- Krux tracking IDs [#social-media .**MEDIA NAME**] -->
+
+                    <li class="facebook"><a data-om-linkname="footer_facebook" data-om="link" target="_blank" href="http://www.facebook.com/Apartments.comManagerCenter" title="Like us on Facebook!">Facebook</a></li>
+                    <li class="twitter"><a data-om-linkname="footer_twitter" data-om="link" target="_blank" href="http://twitter.com/apartmentscom" title="Follow us on Twitter!">Twitter</a></li>
+                    <li class="google-plus"><a data-om-linkname="footer_googleplus" data-om="link" target="_blank" href="http://plus.google.com/+apartmentscom" title="Find us on Google+!">Google+</a></li>
+                    <li class="youtube"><a data-om-linkname="footer_youtube" data-om="link" target="_blank" href="http://youtube.com/apartmentscom" title="Subscribe on YouTube!">YouTube</a></li>
+                    <li class="pinterest"><a data-om-linkname="footer_pinterest" data-om="link" target="_blank" href="http://pinterest.com/apartmentscom" title="Find us on Pinterest!">Pinterest</a></li>
+                    <li class="linkedin"><a data-om-linkname="footer_linkedin" data-om="link" target="_blank" href="http://linkedin.com/company/apartments.com" title="Follow us on LinkedIn!">LinkedIn</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-separator"></div>
+        <div class="the-company">
+            <span class="parent-company">© 2014 Apartments, LLC powered by CoStar</span>
+                            <a data-om-linkname="footer_equal_housing" data-om="link" href="http://corporate.apartments.com/disclaimers/equal-opportunity-in-housing-statement" class="equal-housing" title="Equal Housing Opportunity">Equal Housing Opportunity</a>
+                <a data-om-linkname="footer_terms_of_service" data-om="link" href="http://corporate.apartments.com/disclaimers/terms-of-service" title="Terms of Service">Terms of Service</a>
+                <a data-om-linkname="footer_privacy_policy" data-om="link" href="http://corporate.apartments.com/disclaimers/privacy-statement" title="Privacy Policy">Privacy Policy</a>
+                    </div>
+    
+    </div>
+
+</footer>
+
+<div class="clear"></div>
+
+    </div><!-- end #footer-wrapper -->
+    
+	</div><!-- end #footer -->
+
+    <!-- Begin Omniture SiteCatalyst  code version: H.25.4. -->
+
+    <script language="JavaScript" type="text/javascript" src="http://corporate.apartments.com/content/themes/responsive-child/js/s_code3.js"></script>
+
+    
+    <script type="text/javascript">
+
+        s.pageName = 'aptscorporate_page_detail';
+s.prop3 = 'Privacy-Statement-|-Apartments.com-Corporate';
+s.eVar3 = 'Privacy-Statement-|-Apartments.com-Corporate';
+
+        
+        s.server = "";
+        s.channel = "";
+        s.pageType = "";
+        s.prop14 = '';
+        s.prop22 = "AptsCorporate";
+
+        /* Conversion Variables */
+        s.campaign = "";
+        s.state = "";
+        s.zip = "";
+        s.events = "";
+        s.products = "";
+        s.purchaseID = "";
+        s.eVar16 = '';
+        s.eVar27 = "AptsCorporate";
+
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code)//-->
+
+    </script>
+
+    <script type="text/javascript">
+        <!--if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')//-->
+    </script>
+
+    <noscript><img src="http://metrics.apartments.com/b/ss/cvencorporatesite/1/H.25.4--NS/0"
+                   height="1" width="1" border="0" alt="" /></noscript>
+    <!-- End SiteCatalyst code version: H.25.4. -->
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-40744327-1', 'apartments.com');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- End Google Analytics -->
+<script type="text/javascript" src="http://corporate.apartments.com/content/themes/responsive-child/js/apts-mobile-nav.js"></script>
+<script type="text/javascript" src="http://corporate.apartments.com/content/themes/responsive/core/js/responsive-scripts.js?ver=1.2.4"></script>
+
+
+
+
+</body></html>
