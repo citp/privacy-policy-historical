@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritybabyscoop.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618061546id_/http%3A//www.celebritybabyscoop.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritybabyscoop.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220045130id_/http%3A//www.celebritybabyscoop.com/privacy_policy) for the most accurate reproduction.*
 
 # CelebrityBabyScoop.com Privacy Policy | Celebrity Baby Scoop
 
