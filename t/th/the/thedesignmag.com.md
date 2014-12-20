@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedesignmag.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618182201id_/http%3A//thedesignmag.com/terms-of-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedesignmag.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220150720id_/http%3A//thedesignmag.com/terms-of-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
