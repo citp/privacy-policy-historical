@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvema.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614223713id_/http%3A//www.socialproject.com/UserAgreements/EnUS/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvema.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220063612id_/http%3A//www.socialproject.com/UserAgreements/EnUS/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Social Project - Privacy Policy
 
