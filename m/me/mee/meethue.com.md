@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meethue.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625113143id_/http%3A//meethue.com/en-us/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meethue.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220072714id_/http%3A//www2.meethue.com/en-us/privacy-and-cookies) for the most accurate reproduction.*
 
 # Meet hue | Privacy and cookies
 
