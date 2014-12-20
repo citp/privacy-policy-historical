@@ -1,96 +1,47 @@
-> *The following text is extracted and transformed from the millipore.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201124420id_/http%3A//www.millipore.com/ec/cp3/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millipore.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220103508id_/http%3A//www.emdmillipore.com/US/en/legal/privacy-statement/Y.2b.qB.iJsAAAFA8iYQWTDS%2Cnav%3FCategoryName%3D073013022335%26CategoryDomainName%3DMerck-content_catalog) for the most accurate reproduction.*
 
-# Millipore - Security and Privacy
+# Privacy Statement | EMD Millipore
 
-  
+**Introduction**
 
+Thank you for your interest in the Merck KGaA website (referred to briefly as “Merck” in this statement). The issue of data protection and confidentiality is a topic we take very seriously and we follow the applicable national and European data protection regulations. With this statement on data protection measures, we therefore want to provide you with information on the types of data that we may collect and how we use that data.
 
-Millipore Security protocols adhere to the latest US and European standards; your information is encrypted during your e-commerce sessions with Millipore. 
+**Storage and use of data**
 
-We do not store credit card or purchasing card information on our web server, and do require a re-entry of the credit card number for each purchase. This is an added level of security, and helpful in laboratories or purchasing departments with multiple users of a central computer. 
+As a visitor to our Web site, you will remain anonymous. The data we store and analyze is used for statistical purposes only, for instance to ensure the continuous improvement of our services. The data we store on our servers comprises the name of your internet service provider, the website from which you visited us, the Merck KGaA webpages you have looked up, your IP address and the date and duration of your visit.
 
-Security audits are conducted by third parties in order to further ensure security.
+**Collection, processing and use of personal data**
 
-###### Millipore Online Privacy Policy
+We only collect and process personal data if you make use of specific services and we therefore require your data or if you have voluntarily given us your express consent. You may do so, for instance, as part of a registration procedure, by completing a form or by sending an e-mail, ordering products or services, sending us a query or requesting materials. Unless we are subject to other legal commitments, we only use your personal data for the purposes for which you have given your consent.
 
-This Policy relates only to our online information collection and use practices. At Millipore we recognize that many consumers who visit our web site are concerned about any information they provide us on-line, and how we maintain and use this information. To address these concerns and to demonstrate our commitment to privacy we have developed and implemented this Privacy Policy. This Policy relates only to our online information collection and use practices. As this policy may change from time to time, we encourage you to periodically check it. 
+Your personal data will only be shared by us with third parties if that is required in order to provide a service you have requested or if you have given your consent. If data has been released for use by Merck KGaA subsidiaries and if such permission involves data transfer to other countries, Merck KGaA will ensure that the data importer is placed under a suitable level of data protection commitment.
 
-**In short, we do the following:**
+**Data retention**
 
-•| We only collect personally identifiable information that you voluntarily and knowingly provide us.  
----|---  
-•| We use the information that you provide us only for the purpose(s) for which you specifically provided it or for specific additional purposes for which we receive your prior consent.  
-•| We do not share any information you provide us with anyone outside of Millipore Corporation, except for suppliers who assist us in maintaining and managing the activities on our site. These suppliers are legally obligated to maintain the confidentiality of any information we provide them, including your information.  
-•| We may use a technology called “cookies” to enhance your experience on our site.  
-•| We employ appropriate security measures to protect against the loss, misuse and alteration of any information you provide us.  
-•| We provide you with choice and control over the collection and use of any personally identifiable information that you provide us on-line, and a means for updating, correcting or removing this information.  
-  
-Below is a more detailed explanation of our policy in each of these areas.
+We store data as required by legal obligation or for the period of time that is required to provide a service you have requested or as agreed in applicable consent.
 
-###### Information We Collect and How We Use It
+****Right to review, correct and object ********
 
-###### General
+You are entitled to review and correct any of your personal data we have stored, and you may withdraw your consent to the use of your data at any time, affecting all future use. All you need to do is to send an e-mail to ecommercemm@merckgroup.com.
 
-We only collect personally identifiable information on a voluntary basis. We do not require that you provide this information to gain access to our site, and we do not require you to disclose more information than is reasonably needed to participate in an activity on our site. However, if you do not provide the information that is noted as being required or mandatory in connection with a particular activity, you will not be permitted to engage in that activity. We collect personally identifiable information primarily to e-mail updates and news, to respond to your questions or suggestions, and to complete online transactions. We do not sell any information we gather at our web site to anyone outside of Millipore Corporation. We do not transfer or disclose any information we gather at our web site to anyone outside of Millipore Corporation without your prior consent, except (1) in cases where we believe in good faith that we have a legal obligation to disclose such information, and (2) to certain suppliers that assist Millipore in maintaining and managing the activities on its web site. Please be assured that these suppliers are legally obligated to maintain the confidentiality of this information and do not acquire any rights to use your information for their own benefit. We may share non-identifiable aggregate information about our users with business partners and other third parties in an effort to customize or enhance the content and advertising on our site for our users.
+**Data protection and security**
 
-We do reserve the right, in connection with the potential sale or transfer of the interests of Millipore and its subsidiaries and affiliates, to sell or transfer your information (including but not limited to your address, name, age, gender, zip code, state, and country of residency and other information that your provide through other communications) to a third party entity that (1) concentrates its business in a similar practice or service, (2) agrees to be Millipore’s successor in interest with regard to the maintenance and protection of the information collected, and (3) agrees to the obligations of this privacy policy.  
-  
+Our employees involved in data processing are obliged to confidentiality in the use of personal data. Our data protection measures are continually updated, reflecting technical developments.
 
+********Cookies and Google Analytics********
 
-###### Polls & Surveys
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. In case IP-anonymisation is activated on this website, your IP address will be truncated within the area of Member States of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. The IP-anonymisation is active on this website. Google will use this information on behalf of the operator of this website for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing them other services relating to website activity and internet usage. The IP-address that your Browser conveys within the scope of Google Analytics will not be associated with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You can also opt-out from being tracked by Google Analytics with effect for the future by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: „http://tools.google.com/dlpage/gaoptout?hl=de“.
 
-We periodically conduct polls and surveys on our site. The information we collect from these polls and surveys is only for Millipore’s use. If sample answers to polls or surveys are posted our web site, no identifiable information is included.
+You can find information on the cookies used on our website [here](http://www.emdmillipore.com/US/en/systempage.cookie.policy.pagelet2-systempage.cookie.policy).
 
-###### Online Purchasing
+********Contact********
 
-When you order from us on our web site we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, in order to fill your order and to communicate with you about your order. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use. If you do not provide the information that is noted as being required or mandatory, you will not be able to place orders on our web site.
+If you have questions or suggestions, please feel free to contact our Corporate Privacy Officer.
 
-###### Cookies
+Norbert Moeren  
+Corporate Privacy Officer at Merck KGaA  
+Phone: +49(0)6151 72 0  
+Fax: +49(0)6151 72 2000  
+e-mail: privacy@merckgroup.com
 
-Like many companies, we use a technology called “cookies” to enhance your experience on our web site. “Cookies” are small pieces of information sent by a web server to a web browser which the web server is then able to retrieve from the web browser when you visit other pages of our web site or you subsequently visit our web site. Millipore uses these cookies for a number of purposes, such as saving information about your language preference (so that you do not have to choose it every time you come to our site) or country (if applicable), authenticating registered users, supporting the mechanisms for our shopping cart and on-line ordering, and enabling general traffic trend analysis. The cookies Millipore uses do not contain any personally identifiable information and can not profile your system or collect information from your hard drive. You are not identified by name or e-mail address, just by a unique string of numbers that we assign the first time you come to our site.
-
-While you do not need to allow your browser to accept cookies in order to browse much of our web site or to access many of our services, you must have cookies enabled if you wish to access content in languages other than English, shop on-line at our web store, or access any areas reserved for registered users.
-
-Most browsers allow you to turn off the cookie function. If you want to know how to do this, please look at the help menu on your browser. As described above, turning off the cookie function will restrict the on-line services from Millipore that you can use.  
-
-
-###### Security
-
-We employ appropriate security measures to protect against the loss, misuse and alteration of the information under our control. For our e-commerce activities, we employ Secure Sockets Layer (SSL) software, which encrypts information you input, as an additional security measure. However, as no on-line data transmission can be guaranteed to be totally secure, we (like all web sites) cannot warrant or guarantee 100% security of any information you transmit to us at our web site.
-
-###### Choice and Control
-
-###### Choice/Opt-in
-
-Our site provides you the opportunity to opt-in to receive communications from us, as described at each opt-in opportunity. Further, when you receive the requested communication, you are given the opportunity to unsubscribe from receiving any future communications or to change your information.
-
-###### Control
-
-You can always ask to review any personal information that we may have collected from you at our web site, have us update, correct or delete this information (if we still have the information in our databases), and/or instruct us not to use this information in the future. If you wish to exercise this right, simply [**Contact Us ******](https://web.archive.org/reply/form/webmaster) ** **[](https://web.archive.org/reply/form/webmaster).
-
-###### Links to Other Sites
-
-Millipore does not guarantee the content of other sites for which we provide a link.
-
-###### Transfer of Information to USA
-
-This web site is offered by Millipore Corporation and is hosted at its Corporate Headquarters in Billerica, MA, USA. Data transferred from you by your use of this web site outside of the USA is therefore transferred to the USA and then may be transferred back to our European subsidiaries in order to respond to your request. The USA may have different data protection standards than your country; however, we will still handle information in the manner we describe in this Privacy Policy.
-
-Click [**here ******](https://web.archive.org/ec/cp3/fdof) ** **[](https://web.archive.org/ec/cp3/fdof)to access Descriptions of Data Files made available for review pursuant to the Finnish Personal Data Act.  
-****
-
-###### ****How To Contact Us****
-
- ** ******  
-If you have any questions or concerns about our Privacy Policy or your dealings with this web site, you can contact us [**here ******](https://web.archive.org/reply/form/webmaster) ** **[](https://web.archive.org/reply/form/webmaster)or at: Millipore Corporation  
-290 Concord Rd.  
-Billerica, MA   
-Attention: Legal DepartmentLast Revised: October 10, 2005
-
-#### LEGAL/TRADEMARK NOTICES
-
-  
-
-
-
-************
+ 
