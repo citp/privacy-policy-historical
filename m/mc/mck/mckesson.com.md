@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckesson.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101300id_/http%3A//www.mckesson.com/About-McKesson/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckesson.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220175744id_/http%3A//www.mckesson.com/About-McKesson/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
