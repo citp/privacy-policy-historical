@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214140059id_/http%3A//www.sportsshoes.com/support/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220223718id_/http%3A//www.sportsshoes.com/support/Privacy) for the most accurate reproduction.*
 
 # Support, Help & Advice | SportsShoes.com
-
-Welcome to **SportsShoes.com** Currency  Language 
-
-[](http://www.sportsshoes.com/ "SportsShoes.com")
-
-## Privacy Policy
 
 At sportsshoes.com we respect your privacy and are committed to maintaining it. Our privacy policy statement is given below. If we make changes to this policy, we will notify you by updating this statement on our website. 
 
