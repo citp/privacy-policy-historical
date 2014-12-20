@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthybodynow.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628061244id_/http%3A//healthybodynow.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthybodynow.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213622id_/http%3A//healthybodynow.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · Healthy Body Now
+# Privacy Policy - Healthy Body Now
 
 The privacy of our visitors to **healthybodynow.net** is important to us.
 
