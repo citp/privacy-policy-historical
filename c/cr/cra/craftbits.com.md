@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftbits.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628064913id_/http%3A//craftbits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftbits.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220071005id_/http%3A//craftbits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Craftbits.com — craftbits.com
 
@@ -44,7 +44,7 @@ We care about children and understand that they have special privacy needs. Ther
 
   * We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
   * We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent
-  * When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to: 
+  * When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to:
     * Respond directly to the child’s request on a one-time basis and not use that information to re-contact the child for other purposes.
     * Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.
     * Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.
