@@ -1,166 +1,159 @@
-> *The following text is extracted and transformed from the gfi.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429180815id_/http%3A//www.gfi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfi.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220100550id_/http%3A//www.gfi.com/legal/global-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Global privacy policy
 
-**_Last modified: August 2011_**
+Last modified: September 2013
 
 ## Introduction
 
-The GFI Group ( **"we / us"** ) respect your privacy and are committed to protecting it through our compliance with this policy.
+GFI Software and its affiliated companies and subsidiaries ("we / us") respect your privacy and are committed to protecting it through our compliance with this privacy policy (“Privacy Policy”).
 
-This policy (together with our terms of use and any other documents referred to in it) describes the personal information that we collect from you, or that you provide on this website [www.gfi.com](http://www.gfi.com/?webSyncID=1be7b9b4-3db1-67e0-10db-83bbb6c23907&sessionGUID=9e454208-c82a-7d18-7474-ee21e2742a15) (our "Website") and how that information may be used or disclosed by us.
+This Privacy Policy (together with our terms of use and any other documents referred to in it) describes the type of information that we collect from you through the use of our products and/or services (“Products”), or the use of this website www.gfi.com (our "Website"), how that information may be used or disclosed by us and the safeguards we use to protect it.
 
-This policy does not apply to information collected on any third-party site or by any third-party application that may link to or be accessible from the Website.
+This Privacy Policy does not apply to information collected on any third-party site or by any third-party application that may link to or be accessible from the Website or any of the Products. GFI encourages you to review the privacy statements of other websites and applications to understand their information practices.
 
-Please read the following carefully to understand our policies and practices regarding your personal information and how we will treat it. By using or accessing our Website, you agree to this privacy policy. This policy may change from time to time and your continued use of the Website is deemed to be acceptance of such changes, so please check the policy periodically for updates.
-
-## Children under the age of 13
-
-Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at [legal@gfi.com](mailto:legal@gfi.com?webSyncID=1be7b9b4-3db1-67e0-10db-83bbb6c23907&sessionGUID=9e454208-c82a-7d18-7474-ee21e2742a15).
-
-## Information we collect about you
-
-We collect several types of information from and about users of our Website, including: information you provide to us, that we collect as you navigate through the Website, – traffic and location data, IP addresses, usage details through the use of certain technologies, including cookies and web beacons, as well as information we receive from third parties, for example, our business partners - whether this is required for our own billing purposes or otherwise] and the resources that you access.
+Please read the following carefully to understand our policies and practices regarding your information and how we will treat it. By using or accessing our Website or the Products, you agree to the collection, use and disclosure of information in accordance with this Privacy Policy. This Privacy Policy may change from time to time and your continued use of the Website or the Products is deemed to be acceptance of such changes, so please check the Privacy Policy periodically for updates.
 
 ## Information you provide to us
 
-We may collect and use the following information that you provide to us:
+We collect and use personal information that you voluntarily provide to us on our Website or through the use of the Products including but not limited to your name, address, email address, telephone number or financial information, in the following circumstances:
 
-  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website, subscribing to our services, posting material or requesting further services or information. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
-  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
-  * Your responses to surveys that we might ask you to complete for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our Website and of the fulfilment of your orders. You may be required to provide financial information before placing an order through our Website.
+  * **Accounts** – when you register for an account or subscribe to use the Products or our Website 
+  * **Support** – when you request support, services or information about the Products or our Website
+  * **Contests and Promotions** – when you participate in a contest, promotion or survey sponsored by us
+  * **Correspondence** – if you contact us we will collect the personal information contained within your correspondence (including e-mail addresses)
+  * **Transactions and Orders** – when you carry out transactions through our Website or purchase the Products including on a trial basis or any upgrades 
 
 
 
-## Uses made of the information
+If you choose not to provide the personal information we request, you can still visit most areas of the Website, but you may be unable to access certain options, offers and services that involve interaction. You have the final decision on whether to proceed with any activity that requests personal information.
+
+## Information we may collect 
+
+We may automatically collect statistical or aggregate non-personal information about your interaction with our Website or the Products.
+
+Aggregate information is information that we collect about a group or category of products, services or customers that is not personally identifiable. This may include usage information about your computer, laptop, tablet, mobile phone or other electronic device and your activity using the Products or our Website. We may collect information including the internet protocol (IP) addresses, browser type, internet service provider (ISP), pages that you access, referring/exit pages, operating system, resources that you access, date/time stamp and other interactions with our Website or the Products. This information can assist us in analysing trends, providing statistical information and improving our Website and Products.
+
+If we link or associate any information gathered with personal information we treat the combined information as personal information. Otherwise we use and disclose information collected solely by passive means in aggregate form or in a non-personally identifiable form. We may collect, use and disclose non-personal information for any purpose. Where, according to local law, IP addresses and the like are considered personal information, then we treat it as such.  
+
+## Technologies
+
+Like the vast majority of website providers, we use various common internet technologies, such as cookies and web beacons, to collect details about your interactions with our Website and Products. We only collect aggregate information, such as, for example, traffic data, logs and other communication data, whether this is required for our own contractual purposes or otherwise. 
+
+**Cookies** \- Cookies are small files stored on the browser or the hard drive of your computer. Use of cookies help us to improve our Website and Products and to deliver a better and more personalized service by enabling us to: estimate our audience size and usage patterns, store information about your preferences, allowing us to customize our Website according to your individual interests, speed up your searches and recognize you when you return to our Website. For more information on how we use cookies and how to opt-out please read our Cookie Policy [here](http://www.gfi.com/legal/cookie-policy). **If you register with us or if you continue to use our Website and/or Products, you agree to our use of cookies.**
+
+**Web Beacons** \- Web beacons also known as pixel tags are electronic images, contained on a website that permit us to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). Web beacons are not used to access your personal information on the Website and are only used to compile aggregated statistics concerning use of the Website.
+
+**Web Analytics** \- We also collect some information (ourselves or using third party services) using web analytic tools to help us continuously improve our Website and the Products. We use third-party services that use tracking technologies to track non-personally identifiable information about interactions on our Website and Products in the aggregate to capture usage and volume statistics. This information is used to monitor and analyse the use of our Website and/or the Products, to increase our services functionality and for the technical administration. 
+
+**Third Party Advertising Technologies** \- In addition to our use of technologies as described herein, we may use third party vendors such as Google to perform display advertising or remarketing services to display advertising on our Website or manage our advertising on other sites. These services can help us tailor advertising that we think may be of interest to you based on your use of our Website and/or Products and to otherwise collect and use data about your use of our Website and/or Products. Third-party vendors may use cookies and web beacons to collect non-personal information about your activities on our Website and other websites to provide you with targeted ads. 
+
+As always we respect your privacy and do not collect any personally identifiable information through the use of Google or any other third party services. Any information collected is used only for remarketing purposes and will not be used by third-party marketing vendors for any other purpose.
+
+To opt out of Remarketing and Advertising [click here](https://www.google.com/settings/ads/onweb/?hl=en&hl=en&sig=ACi0TCh1gvijSzZx4FCDDmvxyO8mg--FNzsJ9FePCZ1Eo1O4IZLK4Zr9rxlra5PbI2hpRsYTPex6eJxhkjScAQkjhrIqEuqqM7uosv39MRB23XmOSm4f7NCfNI2oKpiJD6Lw3Tigg57LthVKLdRPdaFsLtqhckW_rB3JDMS7Q5RT5WqQ08Rs7icRHPDWBtIjexnOD). To find out more about how Google uses any data it collects please visit [here](http://www.google.com/privacy_ads.html).  Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+
+## How we use the information
 
 We use information that we collect about you or that you provide to us, including any personal information, in the following ways:
 
-  * To present our Website and its contents in a suitable and effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us.
-  * To carry out our obligations, process and enforce our rights arising from any contracts entered into between you and us.
-  * To notify you about changes to our service.
-  * To allow you to participate in interactive features of our services, when you choose to do so.
-  * For marketing and promotional purposes so as to provide you with information about services we think you might like.
+  * To administer, operate, maintain and improve the Products, services and our Website
+  * To provide you with information, newsletters and Products or services that you request from us
+  * To notify you about any changes or provide you with support
+  * To carry out our obligations, process and enforce our rights arising from any contracts entered into between you and us such as communications related to payments and changes to our terms, conditions and policies.
+  * To allow you to purchase and download Products and participate in interactive features of our services, when you choose to do so.
+  * For billing and accounting purposes.
+  * For internal purposes such as performing research and analysis and to provide anonymous reporting internally or externally
+  * For marketing and promotional purposes so as to provide you with information about Products or services we think you might like. You may opt-out of receiving these communications by following the steps described below.
+  * For any other purposes that we may disclose to you at the point at which we request your personal information and pursuant to your consent 
+  * To prevent or take action against activities that are or may be in violation of the Product end-user license agreement, the Website Terms of Use or applicable law.
 
 
 
-We may also use your information, or permit carefully selected third parties to use your information, to contact you about goods and services that may be of interest to you where you have consented to be contacted for such purposes. If you do not want us to use your information in this way, or to provide your information to third parties for marketing purposes, please check the relevant box located on the form on which we collect your data and / or adjust your user preferences accordingly in your account profile.
-
-Depending on whether you have provided your consent We may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by post or telephone.
-
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
-
-## Technology usage
-
- **IP Addresses**  
-Like the vast majority of website providers, we collect details of your visits to our Website.  We only collect aggregate information, such as, for example, traffic data, logs and other communication data, whether this is required for our own contractual purposes or otherwise. The information we collect concerns the resources that you access, information about your computer and internet connection, including your IP address, operating system and browser type, for system administration, marketing purposes and to report aggregate information to our advertisers.
-
-Where, according to local law, IP addresses and the like are considered personal information, then we treat it as such.
-
-The information we collect is merely statistical data about our users' equipment, browsing actions and patterns and does not and cannot identify any individual.
-
- **Cookies** are small files stored on the browser or the hard drive of your computer. Use of cookies help us to improve our Website and to deliver a better and more personalized service by enabling us to: estimate our audience size and usage patterns, store information about your preferences, allowing us to customize our Website according to your individual interests, speed up your searches and recognize you when you return to our Website.
-
- **If you register with us or if you continue to use our website, you agree to our use of cookies.**
-
-You can refuse to accept cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
-
- **Web Beacons** , also known as pixel tags are electronic images, contained on a website  that permit us to count users who have visited those pages and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). Web beacons are not used to access your personal information on the Website and are only used to compile aggregated statistics concerning use of the Website.
-
- **Third-Party Advertisers Use Technologies.**  
-Some advertisements on the Website are served by third-party advertising companies. Please note that our advertisers may also use cookies and / or web beacons to collect aggregate and non identifying information about our users. We do not have control over third-party advertisers' technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly.
-
-## User Contributions
-
-You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website, or transmit to other users of the Website (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Terms of Use and known or suspected violations should be reported to [privacy@gfi.com](mailto:privacy@gfi.com?webSyncID=1be7b9b4-3db1-67e0-10db-83bbb6c23907&sessionGUID=9e454208-c82a-7d18-7474-ee21e2742a15).
+Once you have registered for the Products we reserve the right to send you certain communications relating to the Products, such as service announcements and administrative messages that are considered part of the Product. 
 
 ## Disclosure of your information
 
-We may disclose personal information that you provide via this Website to the following third parties:
+We do not sell or rent your personal information to third parties. Except as described in this Privacy Policy we will not disclose your personal information that we collect from the Products or our Website to third parties without your consent. We may disclose personal information that you provide to us when necessary to the following third parties:
 
-  * To a member of our group – holding company and its subsidiaries and affiliates.
-  * Direct contractors and service providers we use to support our business.
-  * In the event (whether perspective or actual) of a merger, acquisition, or any form of sale of some or all of GFI’s assets, in which case personal information held by GFI’s about its customers will be among the assets transferred to the (prospective) buyer.
-
-
-
-We may also disclose your personal information to third parties to:
-
-  * Comply with any court order or other legal obligation.
-  * Enforce or apply our terms of use or terms of sale and other agreements.
+  * To a member of our group – holding company and its subsidiaries and affiliates. This information helps us make your customer experience more seamless and efficient by allowing us to improve our marketing efforts to better target customer needs, streamline our processes and consolidate our backend business systems.
+  * Direct or indirect contractors and service providers we occasionally use to support our business as may be required for example, to fulfil orders, conduct billing/credit card processing, provide you with services or perform statistical analysis of the Products and our Website. Those service providers will be permitted to obtain only the personal information they need to deliver the service in accordance with our policies under confidentiality agreements and not for their own purposes. 
+  * Authorised partners, distributors and resellers to fulfil any terms under your licensing and service relationship with us and to provide you with local technical and customer support
+  * In the event (whether perspective or actual) of a merger, acquisition, or any form of sale of some or all of GFI’s assets, in which case personal information held by us about you and our customers will be among the assets transferred to the (prospective) buyer.
+  * Comply with a law, court order or other legal obligation.
+  * Enforce or apply our terms of use or terms of license or sale and other agreements.
   * Protect the rights, property, or safety of GFI, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
 
-## Your choices about how we use and disclose your information
+We may disclose your non-private, aggregated or otherwise non-personal information that doesn’t identify you, to our partners or other third parties about how our customers, collectively, use our Website and the Products but we do not sell or share any information at the individual level. 
 
-We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+## Your choices and opt-out  
 
-  *  **Cookies**  
-We use a trusted third party to provide you with the ability to opt – out from collecting cookies, if you do not wish to have cookies, please click here: <http://www.omniture.com/en/privacy/2o7#optout>.In addition, you may also set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this site may then be inaccessible or not function properly.  
+We strive to provide you with choices regarding the information you provide to us. You may elect to opt out of receiving direct marketing or market research information. We have created mechanisms to provide you with the following control over your information:
 
-  *  **Promotional Offers from Third Parties**  
-If you do not wish us to share your personal information with affiliated third parties for promotional purposes, you can opt-out by checking the relevant box located on the form on which we collect your data; the registration form. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [privacy@gfi.com](mailto:privacy@gfi.com?webSyncID=1be7b9b4-3db1-67e0-10db-83bbb6c23907&sessionGUID=9e454208-c82a-7d18-7474-ee21e2742a15).  
+**Cookies** \- You can refuse to accept cookies by activating the appropriate setting on your browser. Please be aware that restricting the use of cookies may impact on the functionality of our Website and you may be unable to access certain parts of our Website. More information can be found in our Cookie Policy. 
 
-  *  **Promotional Offers from GFI.** If you do not wish to have your e-mail address used for promotional purposes by GFI, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always opt-out of receiving e-mail information from us other than the e-mail informing you of the completion of user registration, correction of user data, or change of password by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [privacy@gfi.com](mailto:privacy@gfi.com?webSyncID=1be7b9b4-3db1-67e0-10db-83bbb6c23907&sessionGUID=9e454208-c82a-7d18-7474-ee21e2742a15). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to GFI as a result of a product downloads or purchase, warranty registration, product service experience or other transactions.  
+Visitors can opt-out of Google Analytics for Display Advertising using the [Ads Settings](https://www.google.com/settings/ads).
 
-  *  **Personalized Advertising.** If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always adjust your user advertising preferences accordingly in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [privacy@gfi.com](mailto:privacy@gfi.com?webSyncID=1be7b9b4-3db1-67e0-10db-83bbb6c23907&sessionGUID=9e454208-c82a-7d18-7474-ee21e2742a15).
+**Promotional Offers from Third Parties**  \- If you do not wish us to share your personal information with affiliated third parties for promotional purposes, you can opt-out by checking the relevant box located on the applicable registration form on which we collect your data. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [privacy@gfi.com](mailto:privacy@gfi.com).
 
+**Promotional Offers from GFI**. If you do not wish to have your e-mail address used for promotional purposes by GFI, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always opt-out of receiving e-mail information from us other than the e-mail informing you of the completion of user registration, correction of user data, or change of password by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [privacy@gfi.com](mailto:privacy@gfi.com). If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. 
 
+**Personalized Advertising**. If you do not want us to use personal information that we gather to allow third parties to personalize advertisements we display to you, you can opt-out by checking the relevant box located on the form on which we collect your data. You can also always adjust your user advertising preferences accordingly in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [privacy@gfi.com](mailto:privacy@gfi.com).
 
-You should review this privacy policy carefully, because if you do not agree with our practices, your ultimate choice is not to use the Website. Remember, by using any part of the Website, you accept and agree to our privacy practices. If we update this privacy policy, your continued use of the Website (following the posting of the revised privacy policy) means that you accept and agree to the terms of the revised privacy policy.
+**Unsubscribing** In each and every marketing or promotional email that we send to you, there is an ‘unsubscribe’ hyperlink, which you may you use if you wish to ‘opt out’ of and stop receiving email communications from us. The hyperlink will direct you to our website, where upon entering the email address that you no longer wish to receive GFI emails, one last confirmation email shall then be sent to the email address you designate. Merely confirm that you do indeed wish to stop GFI email’s being sent to you and that email address shall automatically be unsubscribed.
+
+Alternatively, you may email GFI at [unsubscribe@gfi.com](mailto:privacy@gfi.com) with your request, stating ‘Unsubscribe’ in the header and what email addresses you wish not to receive GFI emails and within a reasonable period, we shall ensure that such email addresses are unsubscribed and shall no longer receive any communications from us.
+
+**Call-Home**. - Some of the Products will automatically contact us in particular but not limited to if and when the following events occur; i) the Product is successfully installed by you; ii) you fail to install the Product successfully; iii) the Product has been successfully configured iv) there are changes to the Product license key and v) the Product is uninstalled. You may opt-out of the call home feature by sending an opt-out request to [legal@gfi.com.](mailto:legal@gfi.com)
+
+These choices do not apply to the receipt of mandatory communications related to the Products that are considered part of the Product which you may receive periodically unless you cancel the Product. Please be aware that you may not opt out of receiving this information. If you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request, and you may receive commercial e-mail from us during that period.
+
+You should review this Privacy Policy carefully, because if you do not agree with our practices, your ultimate choice is not to use the Website or the applicable Product. Remember, by using any part of the Website, you accept and agree to our privacy practices. If we update this Privacy Policy, your continued use of the Website and Products (following the posting of the revised Privacy Policy) means that you accept and agree to the terms of the revised Privacy Policy.
+
+## User Contributions
+
+You are responsible for any content, including personal information, that you contribute to be posted, published or displayed on the Website, or transmit to other users of the Website (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to other users of the Website at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions; therefore, we cannot guarantee who will view or use your User Contributions. We are not responsible for circumvention by third parties of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of your User Contributions may remain viewable in cached and archived pages, or may have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by this Privacy Policy and our Website Terms of Use and known or suspected violations should be reported to [privacy@gfi.com](mailto:privacy@gfi.com).
 
 ## Accessing and correcting your personal information
 
-You can review and update your personal information by logging into the Website and visiting your account profile page and making changes. If you have forgotten your password, once you have tried to register and failed, you can click on the "Forgot your password?" link to reach a page on which you can submit your e-mail address. Your user name and password then will be e-mailed to you.
+You can review, update, correct or delete your personal information by logging into the Website and visiting your account profile page and making changes. If you have forgotten your password, once you have tried to register and failed, you can click on the "Forgot your password?" link to reach a page on which you can submit your e-mail address. Your user name and password then will be e-mailed to you. Alternatively, you can also contact us at [privacy@gfi.com](mailto:privacy@gfi.com) if you wish to exercise these rights. While we will strive to accommodate your requests, we may reject requests which risk the privacy of others, are unreasonable or repetitive, require disproportionate technical effort (such as developing new systems or fundamentally changing an existing business practice), or would be extremely impractical. Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. 
 
-##  **Unsubscribing**
-
-In each and every email that we send to you, there is an ‘unsubscribe’ hyperlink, which you may you use if you wish to ‘opt out’ of and stop receiving email communications from us.  The hyperlink will direct you to our website, where upon entering the email address that you no longer wish to receive GFI emails, one last confirmation email shall then be sent to the email address you designate.  Merely confirm that you do indeed wish to stop GFI email’s being sent to you and that email address shall automatically be unsubscribed.
-
-Alternatively, you may email GFI at [unsubscribe@gfi.com](mailto:unsubscribe@gfi.com) with your request, stating ‘Unsubscribe’ in the header and what email addresses you wish not to receive GFI emails and within a reasonable period, we shall ensure that such email addresses are unsubscribed and shall no longer receive any communications from us.
+If you request that we delete your account we will do so within a reasonable period of time, but we may need to retain some of your personal information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.
 
 ## Where we store your personal data
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+
+With respect to data transfers from the EEA to the United States or to other countries outside the EEA, we have taken steps to ensure adequate protection for such data transfers in accordance with European data protection legislation. We have entered into appropriate data transfer agreements based on the standard contractual clauses approved by the European Commission to provide adequate protection for data transfers between GFI entities outside the EEA, as necessary.
 
 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+## Children under the age of 13
+
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to us. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us at [legal@gfi.com](mailto:legal@gfi.com).
 
 ## Data security
 
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on secure servers behind firewalls. Any payment transactions and  is encrypted using SSL technology.
+We have implemented reasonable administrative, technical and physical security measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on secure servers behind firewalls and strictly controlled. Any payment transactions are encrypted using SSL technology.
 
 The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-## Your rights
-
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [privacy@gfi.com](mailto:privacy@gfi.com?webSyncID=1be7b9b4-3db1-67e0-10db-83bbb6c23907&sessionGUID=9e454208-c82a-7d18-7474-ee21e2742a15).
-
-Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website or through your use of our Products and any transmission is at your own risk. 
 
 ## Your California privacy rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@gfi.com](mailto:privacy@gfi.com?webSyncID=1be7b9b4-3db1-67e0-10db-83bbb6c23907&sessionGUID=9e454208-c82a-7d18-7474-ee21e2742a15).
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes during the immediately preceding calendar year . To make such a request, please send an e-mail to [privacy@gfi.com](mailto:privacy@gfi.com).
 
-## Access to information
+## Changes to our Privacy Policy
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee as applicable and in accordance with the laws of the country from which you are accessing the Website, to meet our costs in providing you with details of the information we hold about you.
+It is our policy to post any changes we make to our Privacy Policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our Products shall be deemed to be your consent to such changes.
 
-## Changes to our privacy policy
-
-It is our policy to post any changes we make to our privacy policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our services shall be deemed to be your consent to such changes.
-
-The date the privacy policy was last revised is identified at the top of the page.
+The date the Privacy Policy was last revised is identified at the top of the page.
 
 ## Contact information
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@gfi.com](mailto:privacy@gfi.com?webSyncID=1be7b9b4-3db1-67e0-10db-83bbb6c23907&sessionGUID=9e454208-c82a-7d18-7474-ee21e2742a15)
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: [privacy@gfi.com](mailto:privacy@gfi.com)
 
 ## Corporate address
 
@@ -169,6 +162,6 @@ L-2557 Luxembourg
 Grand Duchy of Luxembourg  
 Europe
 
- **Email:** [legal@gfi.com](mailto:legal@gfi.com)
+**Email:**  legal@gfi.com
 
- **Telephone:** +352 2786 0231
+**Telephone:**  +352 2786 0231
