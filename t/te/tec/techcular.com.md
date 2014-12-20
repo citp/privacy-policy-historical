@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techcular.com privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422141344id_/http%3A//www.techcular.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcular.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213904id_/http%3A//www.techcular.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policay of Techcular.com | TechCular
 
