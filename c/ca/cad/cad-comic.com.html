@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cad-comic.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625060802id_/http%3A//www.cad-comic.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cad-comic.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220043808id_/http%3A//www.cad-comic.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head profile="http://gmpg.org/xfn/11">
 	<title>Ctrl+Alt+Del - Privacy Policy</title>
@@ -220,8 +220,8 @@ googletag.enableServices();
 					<h1>Upcoming Appearances</h1>
 					<ul>
 												<li>
-							<strong><a href="http://connecticon.org/" target="_blank">ConnectiCon</a></strong><br>
-							<small>Jul 10 - Jul 13 2014</small>
+							<strong>None</strong><br>
+							<small>Keep looking!</small>
 						</li>
 											</ul>
 
@@ -280,14 +280,28 @@ googletag.enableServices();
 			
 						
 			
-					
+			
 
 
-
-
-
-
-
+<script type="text/javascript">
+function fxmSkin(resp) {
+    if (window.innerWidth > 1000) {
+        var columnWidth = Math.ceil((window.innerWidth-1000)/2);
+        document.body.style.background = resp.background + " url(" + resp.imageURL + ") no-repeat center top";
+        var wrapper = document.createElement('div');
+        wrapper.innerHTML = '<a href="' + resp.clickURL + '"><div id="rightColumn" style="width:' + columnWidth + 'px;height:1000px;position:absolute;top:0px;right:0px;border:0px;"></div></a><a href="' + resp.clickURL + '"><div id="leftColumn" style="width:' + columnWidth + 'px;height:1000px;position:absolute;top:0px;left:0px;border:0px;"></div></a>';
+        document.body.appendChild(wrapper);
+    }
+    if (resp.impressionURLs.length > 0) {
+        for (var i = 0; i < resp.impressionURLs.length; i++) {
+            var impressionPixel = document.createElement('img');
+            impressionPixel.src = resp.impressionURLs[i];
+            document.body.appendChild(impressionPixel);
+        }
+    }
+}
+</script>
+<script src="http://traffic.fenixm.com/tags/skin/cad?callback=fxmSkin" async="async"></script>
 
 
 
@@ -340,7 +354,6 @@ googletag.enableServices();
   })();
 
 </script>
-
 		
 		
 	
