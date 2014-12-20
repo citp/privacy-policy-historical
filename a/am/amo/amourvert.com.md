@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amourvert.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618050407id_/http%3A//www.amourvert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amourvert.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220083326id_/http%3A//www.amourvert.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
