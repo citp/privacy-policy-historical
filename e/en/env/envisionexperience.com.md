@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the envisionexperience.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531182847id_/http%3A//www.envisionexperience.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envisionexperience.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220070857id_/http%3A//www.envisionexperience.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ As we continue to offer different types of content and services, we may modify o
 
 ####  I. THE INFORMATION WE COLLECT ONLINE
 
-At Envision EMI, we do not collect Personally Identifiable Information unless our visitors voluntarily provide it to us. This information is necessary for enrollment in our programs, for nominations of students for our programs and for program information requests. When visitors come to our website, we automatically collect some non-personally identifiable information such as the type of computer operating system (e.g., Windows '95 or Mac OS) and browser (e.g., Netscape, Internet Explorer) being used, and the domain name of the Internet service provider (e.g., America Online, EarthLink). 
+At Envision EMI, we do not collect Personally Identifiable Information unless our visitors voluntarily provide it to us. This information is necessary for enrollment in our programs, for nominations of students for our programs and for program information requests. When visitors come to our website, we automatically collect some non-personally identifiable information such as the type of computer operating system (e.g., Windows 7 or Mac OS) and browser (e.g., Chrome, Internet Explorer) being used, and the domain name of the Internet service provider (e.g., America Online, Verizon). 
 
 When a parent or a child registers on our site, we collect the information voluntarily provided at the time of registration. The only information we collect during our child registration process is a first and last name, email address, the child’s interest, the identity of the registrant as a parent, teacher or child, a phone number and the child’s grade in school.
 
@@ -40,7 +40,6 @@ We use a software technology called "cookies." Cookies are small text files that
     * To safeguard and help prevent unauthorized access, maintain data security and correctly use the information we collect online, we have put in place appropriate physical, electronic and managerial procedures.
     * We are particularly sensitive to visitors' security concerns regarding the use of credit cards to purchase products over the Internet. We use a technology that automatically encrypts credit card data while information is being transmitted over the Internet, provided that the visitor's browser supports the Secure Socket Layer protocol (SSL).
     * To verify the security of your connection, check the lower right corner of your browser window after accessing the server. If you see an unbroken or a closed lock, then SSL is active and the server is secure. You may also check by looking at the URL line of your browser. When accessing a secure server, the site address will change from http:// to https://.
-    * We also encrypt Personally Identifiable Information.
 
 #### VI. REVIEW OF INFORMATION 
 
