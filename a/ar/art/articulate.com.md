@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articulate.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209112931id_/http%3A//www.articulate.com/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articulate.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220075249id_/https%3A//www.articulate.com/terms/privacy.php) for the most accurate reproduction.*
 
 # Articulate Privacy Policy
 
@@ -15,7 +15,7 @@ Articulate collects information on our users two ways: by your voluntary submiss
 The information Articulate collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; to notify you about updates; to provide you information you have requested; and to let you know about our products and services.
 
 **Email**  
-When requesting information or a trial of our software, you may be asked to provide your email address. You never have to provide your email address, and you can decline this exchange of information at any time. If you have provided us your email address, please note that Articulate periodically sends emails about services offered by Articulate. If you do not wish to receive email information from Articulate, let us know by emailing us at: [privacy@articulate.com](mailto:privacy@articulate.com). 
+When requesting information or a trial of our software, you may be asked to provide your email address. If you have provided us your email address, please note that Articulate periodically sends emails about services, products, and content we think will help our customers succeed. If you do not wish to receive email information from Articulate, you can opt-out by unsubscribing at any time. We will never sell your email address to any other company. We may share contact information with our authorized resellers so that they can provide customers outside the U.S. with timely, helpful information about our products. Our resellers are contractually obligated to abide by the Articulate privacy policy, preventing them from sharing your information with any other third parties. 
 
 **Cookies**  
 Articulate may automatically collect non-Personally Identifiable Information and data through the use of “cookies.” Cookies are small text files a website uses to recognize repeat users, facilitate the user’s ongoing access to the site, and facilitate the use of the site. “Cookies” also allow a site to track usage behavior and compile site-usage information that will allow for the improvement of content.
