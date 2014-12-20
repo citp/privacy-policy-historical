@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the anyvan.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051023id_/http%3A//www.anyvan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyvan.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220031231id_/http%3A//www.anyvan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnyVan
 
 #### Overview
 
-The privacy practices of this statement apply to our services available under the domain and subdomains of www.ANYVAN.com (the "Site"). By visiting this website, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our site.
+The privacy practices of this statement apply to our services available under the domain and subdomains of www.AnyVan.com (the "Site"). By visiting this website, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our site.
 
-By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the ANYVAN User Agreement.
+By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the AnyVan User Agreement.
 
 #### Information Collection & Use
 
@@ -30,7 +30,7 @@ You agree that we may use personal information, including your email address to 
 
 #### COMPANY DETAILS
 
-ANYVAN LTD – Trading as ANYVAN is a company registered in England and Wales and having its registered address at:
+AnyVan LTD - Trading as AnyVan is a company registered in England and Wales and having its registered address at:
 
 The Triangle,  
 5-17 Hammersmith Grove,  
@@ -40,9 +40,31 @@ W6 0LG
 
 Registered under the Data Protection Act.
 
-You can contact ANYVAN on:
+You can contact AnyVan on:
 
 Phone: 020 3005 6000  
 E-mail: [info@anyvan.com](mailto:info@anyvan.com)
 
 To unsubscribe from our mailing list simply click on the unsubscribe link at the bottom of every marketing email and you will be opted out of all email communications.
+
+This company is a member of the **AnyVan Association of Professional Removers**
+
+Find out more
+
+This company is a member of the **AnyVan Association of Professional Car Transporters**
+
+Find out more
+
+This company is a member of the **AnyVan Association of Professional Motorcycle Transporters**
+
+Find out more
+
+Repeat user who has posted a listing on AnyVan previously  
+**19% greater chance of quote acceptance!**
+
+**This is a mobile site user.** They are more likely to be in a hurry - a realistic first bid may secure the job!
+
+Repeat user who has accepted a quote on AnyVan previously  
+**60% greater chance of quote acceptance!**
+
+This transport provider is currently available today! We highly recommend sending them a message to see if they can undertake your job if it’s urgent.
