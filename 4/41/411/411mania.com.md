@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the 411mania.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081402id_/http%3A//www.411mania.com/about_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 411mania.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220220949id_/http%3A//411mania.com/privacy-policy) for the most accurate reproduction.*
 
-# 411mania.com: About Us
+# 411MANIA | Privacy Policy
 
-Privacy Policy Thank you for visiting 411mania.com or one of our affiliate sites. Your privacy on the Internet is of the utmost importance to us, and with that in mind we have devised this notice to fully disclose our online information practices. This privacy statement discloses the privacy practices for 411wrestling.com - what information we gather, how we use it and how to correct or change it.
+Privacy Policy Thank you for visiting 411mania.com or one of our affiliate sites. Your privacy on the Internet is of the utmost importance to us, and with that in mind we have devised this notice to fully disclose our online information practices. This privacy statement discloses the privacy practices for 411wrestling.com – what information we gather, how we use it and how to correct or change it.
 
 **Third Party Advertising**
 
-We use Tribal Fusion, Burst! Media, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+We use Tribal Fusion, Burst! Media, and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 **Information Collection And Use**
 
@@ -28,7 +28,7 @@ The information collected in connection with online forums and communities is us
 
 On occasion, 411mania.com may use the non-personally identifiable information collected to improve the design and content of 411mania.com and its sites and to enable us to personalize the overall experience of each individual visitor. This information may also be used to analyze site usage, as well as to offer visitors products, programs, or services.
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request.
 
 Agents and contractors of 411mania.com who have access to personally identifiable information are required to protect this information in a manner that is consistent with the privacy policy by, for example, not using the information for any purpose other than to carry out the services they are performing for 411mania.com.
 
@@ -42,9 +42,9 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 **Cookies**
 
-Cookies are text files placed in the users' computer's browser to store your preferences. On their own, cookies do not provide your e-mail address or other personally identifiable information. But if the user provides that information, for example, by registering at 411mania.com or an affiliate site, this information may be linked to the data stored in the cookie.
+Cookies are text files placed in the users’ computer’s browser to store your preferences. On their own, cookies do not provide your e-mail address or other personally identifiable information. But if the user provides that information, for example, by registering at 411mania.com or an affiliate site, this information may be linked to the data stored in the cookie.
 
-411mania.com uses cookies to understand site usage and to improve the content and offerings on the sites. For example, cookies could be used to personalize the users' experience at our web pages (such as to already be logged in at a message board), save your password in password-protected areas, and enable you to use shopping carts on our sites. Cookies may also be used to offer products, programs, or services to the user.
+411mania.com uses cookies to understand site usage and to improve the content and offerings on the sites. For example, cookies could be used to personalize the users’ experience at our web pages (such as to already be logged in at a message board), save your password in password-protected areas, and enable you to use shopping carts on our sites. Cookies may also be used to offer products, programs, or services to the user.
 
 **Traffic Monitoring**
 
@@ -52,7 +52,4 @@ Cookies are text files placed in the users' computer's browser to store your pre
 
 **Contact**
 
-If there are any additional privacy concerns, don't hesitate to e-mail us and any questions will be answered to the best of our ability. All of our contact information can be found [here](http://www.411mania.com/about_us/contact_us).
-
-  
-
+If there are any additional privacy concerns, don’t hesitate to e-mail us and any questions will be answered to the best of our ability. All of our contact information can be found [here](http://www.411mania.com/about_us/contact_us).
