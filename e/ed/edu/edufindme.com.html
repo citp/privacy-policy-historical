@@ -1,977 +1,387 @@
-<!--The following is the downloaded HTML source of the edufindme.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625082926id_/http%3A//edufindme.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edufindme.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220064608id_/http%3A//edufindme.com/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta name="google-site-verification" content="LZdEM_CP8QrdMlbYBFpeOsYez0wfvrBNn8FDUYhByyw">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAQDVFNbGwEHUFRSAwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<title>EDUFINDME  - Privacy Policy</title>
-<link rel="shortcut icon" type="image/x-icon" href="http://edufindme.com/public/favicon.ico">
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAQDVFNbGwEHUFRSAwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+        <title>EDUFINDME  - Privacy Policy</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="stylesheet" href="http://edufindme.com/styles/main.css">        <link rel="stylesheet" href="http://edufindme.com/styles/tips.css">        <link rel="stylesheet" href="http://edufindme.com/styles/form.css">        <link rel="stylesheet" href="http://edufindme.com/styles/header.css">        <link rel="stylesheet" href="http://edufindme.com/public/css_extra/general.css">
 
-<link rel="stylesheet" href="http://edufindme.com/css/base_final_new.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/container.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/slide.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/dropdown1.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/default.advanced1.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/default1.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/uploadify.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/facebox1.2.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/jquery-impromptu.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/tablesorter/blue/style.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/jquery.editProfilePicture.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/jquery.Jcrop.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/jquery.autocomplete.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/jquery.hoverscroll-0.2.2.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/textboxlist/TextboxList.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/textboxlist/TextboxList.Autocomplete.css?1328018908" type="text/css" media="screen"><link rel="stylesheet" href="http://edufindme.com/css/jquery.edutip.new.css?1328018908" type="text/css" media="screen"><script type="text/javascript" src="http://edufindme.com/js/jquery-1.4.2.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.validate.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.livequery.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/swfobject.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.tools.min.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.blockUI.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.corner.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/slide.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.uploadify.v2.1.0.min.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/facebox1.2.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery-impromptu.3.0.min.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.tablesorter.min.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.editProfilePicture.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.Jcrop.min.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.infieldlabel.min.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.hoverscroll-0.2.2.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.jcarousel.min.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.twit.0.2.0.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/textboxlist/GrowingInput.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/textboxlist/TextboxList.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/textboxlist/TextboxList.Autocomplete.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.numeric.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.autocomplete.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.edutip.js?1328018908"></script><script type="text/javascript" src="http://edufindme.com/js/jquery.limit-1.2.source.js?1328018908"></script>
-<style type="text/css" media="screen">
-  div.user-image-loader {
-    float: left;
-  }
-  div.user-image-loader-loading {
-    background: url(http://edufindme.com/img/ajax-loader.gif) no-repeat center center
-  }
+        <script src="http://edufindme.com/bower_components/modernizr/modernizr.js"></script>
 
-  img.user-image-loader {
-    display:inline !important;
-  }
+        <script type="text/javascript" src="http://edufindme.com/scripts/vendor.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/app.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/plugins.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/vendor/jquery.validate.min.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/vendor/jquery.form.js"></script>        <script type="text/javascript" src="http://edufindme.com/scripts/vendor/jquery.limit-1.2.source.js"></script>
+        <script type="text/javascript">
+            $(function () {
+                $( document ).on( "click", ".translate-this", function () {
+                    var text = $($(this).attr('data-target')).html();
+                    $.post('http://edufindme.com/ajax/translate',{'text':text}, function(data) {
+                        $('#modal-template-translate').modal('show');
+                        $('#modal-template-translate .text').html(data);
+                    });
+                    return false;
+                });
+            });
+        </script>
 
-  button.btnSmallBlue {
-    font-size: 13px;
-    font-weight: bold;
-    color: #ffffff;
-    padding: 4px 10px;
-    background-color:#317699;
-    background: -moz-linear-gradient(
-    	top,
-    	#baedff 0%,
-    	#2b8ebf 50%,
-    	#317699 50%,
-    	#0092c7);
-    background: -webkit-gradient(
-    	linear, left top, left bottom,
-    	from(#baedff),
-    	color-stop(0.50, #2b8ebf),
-    	color-stop(0.50, #317699),
-    	to(#0092c7));
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    border-radius: 5px;
-    border: 1px solid #2b8ebf;
-    -moz-box-shadow:
-    	0px 2px 2px rgba(000,000,000,0.3),
-    	inset 0px 0px 2px rgba(255,255,255,1);
-    -webkit-box-shadow:
-    	0px 2px 2px rgba(000,000,000,0.3),
-    	inset 0px 0px 2px rgba(255,255,255,1);
-    box-shadow:
-    	0px 2px 2px rgba(000,000,000,0.3),
-    	inset 0px 0px 2px rgba(255,255,255,1);
-    text-shadow:
-    	0px -1px 0px rgba(000,000,000,0.2),
-    	0px 1px 0px rgba(255,255,255,0.4);
-  }
+    </head>
+        <body class="page-wrap">
 
-  button.btnSmallGreen {
-    font-size: 13px;
-    font-weight: bold;
-    color: #ffffff;
-    padding: 4px 10px;
-    background-color:#3B9932;
-    background: -moz-linear-gradient(
-    	top,
-    	#baffba 0%,
-    	#2cbd2c 50%,
-    	#3b9932 50%,
-    	#0ac700);
-    background: -webkit-gradient(
-    	linear, left top, left bottom,
-    	from(#baffba),
-    	color-stop(0.50, #2cbd2c),
-    	color-stop(0.50, #3b9932),
-    	to(#0ac700));
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    border-radius: 5px;
-    border: 1px solid #44bd2c;
-    -moz-box-shadow:
-    	0px 2px 2px rgba(000,000,000,0.3),
-    	inset 0px 0px 2px rgba(255,255,255,1);
-    -webkit-box-shadow:
-    	0px 2px 2px rgba(000,000,000,0.3),
-    	inset 0px 0px 2px rgba(255,255,255,1);
-    box-shadow:
-    	0px 2px 2px rgba(000,000,000,0.3),
-    	inset 0px 0px 2px rgba(255,255,255,1);
-    text-shadow:
-    	0px -1px 0px rgba(000,000,000,0.2),
-    	0px 1px 0px rgba(255,255,255,0.4);
-  }
-</style>
+        
 
-<script type="text/javascript">
-  $(function () {
-    $('.translate-this').live('click',function (e) {
-      var text = $($(this).attr('data-target')).html();
-      jQuery.facebox(function($) {
-       jQuery.post('http://edufindme.com/ajax/translate',{'text':text}, function(data) { jQuery.facebox(data) })
-     });
-      return false;
-    });
-  });
-</script>
+        <input type="hidden" id="please_wait" value="Please wait">
+        <script type="text/javascript" src="http://edufindme.com/scripts/vendor/jquery.blockUI.js"></script>        <svg display="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="829" height="80" viewBox="0 0 829 80">
+            <defs>
+                <g id="icon-language-bubble">
+                    <path class="path1" d="M18.861 15.124c0.035 0.525 0.094 1.009 0.176 1.441-1.107 0.203-1.152-0.889-0.176-1.441zM11.023 14.868h1.789l-0.891-2.555-0.899 2.555zM20.086 14.746c0.018 0.419 0.053 0.811 0.103 1.169 0.325-0.336 0.58-0.763 0.774-1.193-0.281-0.023-0.58-0.015-0.876 0.023zM28.875 14.924c0 6.556-7.223 12.678-17.132 10.245-1.8 1.113-5.769 2.238-8.56 2.747 1.042-2.072 2.198-4.915 2.139-6.898-1.403-1.692-2.196-3.872-2.196-6.093 0-6.261 6.074-10.839 12.875-10.839 6.758 0 12.875 4.544 12.875 10.839zM15.405 17.847l-2.751-7.143h-1.445l-2.741 7.143h1.496l0.649-1.83h2.599l0.649 1.83h1.545zM22.567 13.873c0.070-0.27 0.111-0.473 0.15-0.672l-1.22-0.238c-0.020 0.102-0.057 0.296-0.122 0.555-0.412-0.060-0.85-0.068-1.294-0.023 0.010-0.298 0.028-0.59 0.054-0.871h1.363v-1.155h-1.199c0.059-0.295 0.11-0.471 0.16-0.638l-1.191-0.356c-0.087 0.292-0.16 0.576-0.234 0.994h-1.36v1.155h1.212c-0.032 0.374-0.052 0.761-0.058 1.153-2.918 1.072-2.175 4.261 0.137 4.051 1.555-0.141 2.593-1.316 3.202-2.761 0.629 0.363 0.892 0.973 0.655 1.538-0.219 0.522-0.866 1.020-2.1 0.994v1.244c1.37 0.021 2.718-0.499 3.246-1.757 0.516-1.228-0.073-2.571-1.401-3.214z"></path>
+                </g>
+                <g id="icon-paper-plane">
+                    <path d="M462,54.955L355.371,437.187l-135.92-128.842L353.388,167l-179.53,124.074L50,260.973L462,54.955zM202.992,332.528v124.517l58.738-67.927L202.992,332.528z"></path>
+                </g>
+            </defs>
+        </svg>
 
-<script type="text/javascript">
-$(document).ready(function() {
+        <!--[if lt IE 10]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <header role="banner" class="banner">
+                <a href="http://edufindme.com" class="logo"><img src="http://edufindme.com/images/logo.png" alt="Edufindme" title="Ir para home do Edufindme"></a>
 
-$('a[rel=feedback]').livequery('click', function(event) {
-  $.facebox({ajax: $(this).attr('href')});
-  return false;
-});
+                <nav role="navigation">
+                    <!-- start menu -->
+                                        <!-- end menu -->
+                </nav>
 
-	
-	
+                
+                    <div class="register_box">
+        <a class="white_button" id="login_button">Login</a>
+        <div class="btn-group">
+            <a class="dropdown-toggle white_button signup_button" data-toggle="dropdown">Sign up</a>
+            <ul class="dropdown-menu dropdown-menu-right">
+                <li class="separator"><a href="http://edufindme.com/register/user/student" class="register_link">Student</a></li>
+                <li class="separator"><a href="http://edufindme.com/register/plans/institution" class="register_link">School</a></li>
+                <li class="separator"><a href="http://edufindme.com/register/plans/agent" class="register_link">Agent</a></li>
+                <li><a href="http://edufindme.com/register/user/government" class="register_link">Government Agency</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="language_box btn-group 00">
+        <span class="helvetica_bold white float_left margin_right">Language: </span>
+        <a class="language_text azul_claro dropdown-toggle language float_left white_caret" data-toggle="dropdown">English <span class="caret"></span></a>
 
-  $.edutip('http://edufindme.com/pages/tip');
+        <ul class="dropdown-menu language-menu" role="menu">
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://00.edufindme.com/pages/privacy">English</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://br.edufindme.com/pages/privacy">Português (Brasil)</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://cn.edufindme.com/pages/privacy">简体字</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://de.edufindme.com/pages/privacy">Deutsch</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://en.edufindme.com/pages/privacy">English (US)</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://fr.edufindme.com/pages/privacy">Français</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://id.edufindme.com/pages/privacy">Bahasa Indonesia</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://it.edufindme.com/pages/privacy">Italiano</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://ja.edufindme.com/pages/privacy">日本語</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://ko.edufindme.com/pages/privacy">한국어</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://nl.edufindme.com/pages/privacy">Nederlands</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://ru.edufindme.com/pages/privacy">Русский язык</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://sp.edufindme.com/pages/privacy">Español</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://th.edufindme.com/pages/privacy">ภาษาไทย</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://tr.edufindme.com/pages/privacy">Türkçe</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://vi.edufindme.com/pages/privacy">Tiếng Việt</a></li>
+                                            <li class="separator"><a class="language_link" tabindex="-1" href="http://zh.edufindme.com/pages/privacy">繁体字</a></li>
+                    </ul>
+    </div>
 
+    <div class="login_box" style="display: none;">
+                <form action="http://edufindme.com/pages/login" method="POST" class="center">
+            <ul id="login">
+                <li>
+                    <label>Email:</label>
+                    <input name="email" type="text" class="form-control">
+                </li>
+                <li>
+                    <label class="margin-top">Password:</label>
+                    <input name="passwd" type="password" class="form-control">
+                </li>
+                <li><br><input type="submit" class="btn btn-info" value="Login"></li>
+            </ul>
+            <div class="keep_me_logged">
+                <div>
+                    <div class="checkbox">
+                        <label><input name="keep_me_logged_in" value="1" id="keep_me_logged_in" checked="checked" type="checkbox"> Keep me logged in</label>
+                    </div>
+                </div>
+                <div>
+                    <a href="" data-modal="http://edufindme.com/pages/forgot_password_new">Totally blanking on my password</a>
+                </div>
+            </div>
+        </form>
+    </div>
 
-  $('img.cometchat_avatar').livequery(function() {
-    var _img = this;
+    <script>
+        $(function () {
+            $('.dropdown-toggle').dropdown();
 
-    var url = $(_img).attr('src').match('http://users.edufindme.com.s3.amazonaws.com/(.+)')[1];
-    var url_array = url.split('/');
-    var usertype = url_array.splice(0,1);
-    var usernick = url_array.splice(0,1);
-    var userfolder = url_array.splice(0,1);
-    var userimg = url_array[0].slice(6);
+            $('#login_button').on('click', function(event) {
+                
+                $('.login_box').toggle();
+                if($('.login_box').is(':visible')){
+                    $('[name="email"]').focus();
+                }
+                $('.btn-group').removeClass('open');
+                return false;
+            });
 
-    var userurl = 'http://users.edufindme.com.s3.amazonaws.com/'+usertype+'/'+usernick+'/'+userfolder+'/30x30.'+userimg;
-    var style = 'width: 30px; height: 30px;';
-    var w = '30';
-    var h = '30';
-    var _class = 'user-image-loader user-image-loader-loading';
+            $('body').on('click', function(e) {
+                var el = $(e.target).parents('.login_box');
 
-    var content = '<div src="'+userurl+'" style="'+style+'" usertype="'+usertype+'" class="'+_class+'" width="'+w+'" height="'+h+'"></div>';
-    $(_img).replaceWith(content);
-  });
-
-  $('div.user-image-loader').livequery(function() {
-    var img = new Image();
-    var $loader = $(this);
-    $(img)
-      .load(function() {
-        $(this).hide();
-        //$loader.removeClass('user-image-loader-loading').append(this);
-        $loader.replaceWith(this);
-        $(this).fadeIn();
-      })
-      .error(function() {
-        $.each($loader[0].attributes, function(index, attr) {
-          if (attr.name == 'src') {
-            $(img).attr(attr.name, 'http://edufindme.com/img/'+$loader.attr('usertype')+'.png');
-          } else {
-            $(img).attr(attr.name, attr.value);
-          };
+                if ( !$(el).hasClass('login_box') ) {
+                     $('.login_box').hide();
+                };
+               
+                $('.btn-group').removeClass('open');
+            });
         });
-      })
-      .attr('src', $loader.attr('src'));
-      $.each($loader[0].attributes, function(index, attr) {
-        if (attr.name != 'src') {
-          $(img).attr(attr.name, attr.value);
-        };
-      });
-  });
-
-  $('ul li.demo').corner("top");
-  $('ul .demo2').corner("bottom cc:#FFF");
-  $('ul .demo3').corner();
-  $('span .count').corner();
-  $('ul li.curvec').corner("top");
-  $('div .curveAll').corner();
-  $('div .curveTotal').corner("100px");
-  $('div .spanlegalimg').corner("left");
-  $('ul li.curveAllList').corner();
-
-  //$('div .curveAllButton').corner("5px");
-  $('div .curveAllButton').livequery(function() {
-    $(this).corner("5px");
-  });
-
-	$('div .curveLeft5').corner("left 5px");
-	$('div .curveRight5').corner("right 5px");
-  $('.curveAllLink').corner("5px");
-  $('.buttomLink').corner("8px");
-  $('div .curveTop').corner("top 5px");
-  $('.curveTopProfile').corner("top 5px bottom 0px");
-  $('.curveBottomProfile').corner("bottom 5px");
-  $('div .curveBottom').corner("bottom");
-  $('.curveBottom5').corner("bottom 5px");
-  $('div .curveBottomMessage').corner("bottom cc:#3F6B8F");
-	$('div .curveLeft').corner("tl 5px");
-	$('div .curveRight').corner("tr 5px");
-	$('div .curveTotalTitle').corner("5px");
-	$('div .curveTotalContent').corner("5px");
-	$('div .curveTotalExpo').corner("5px");
-	$('div .curveLeftExpo').corner("left 5px");
-	$('div .curveRightExpo').corner("right 5px");
-	$('div .curveLeftBlue').corner("tl 5px cc:#3F6B8F");
-	$('div .curveRightBlue').corner("tr 5px cc:#3F6B8F");
-	$('div .curveT').corner();
-	$('ul li.curveL').corner("left");
-	$('ul li.tabSelected').corner("left");
+    </script>
 
 
-	$('#menu_user_link').click(function() {
-	  if ($(this).hasClass('menu_down')) {
-	    $(this).removeClass('menu_down').addClass('menu_up');
-	    $('img', this).attr('src', 'http://edufindme.com/img/menuUp.png');
-	    $('#menu_down').slideDown('slow');
-	  } else if ($(this).hasClass('menu_up')) {
-	    $(this).removeClass('menu_up').addClass('menu_down');
-	    $('img', this).attr('src', 'http://edufindme.com/img/menuDown.png');
-	    $('#menu_down').slideUp('slow');
-	  };
+            </header>
+            <div class="main-content">
 
-	  return false;
-	});
+<aside class="column sidebar">
+    
+        
 
-	$('li.link_hover, li.link_hover2').hover(function() {
-	  $('a', this).css('color', '#ffffff');
-	  $(this).css('cursor', 'pointer');
-	}, function() {
-	  if ($(this).hasClass('link_hover')) {
-	    $('a', this).css('color', '#466D94');
-	  } else {
-	    $('a', this).css('color', '#21415A');
-	  };
+    
 
-	  $(this).css('cursor', 'auto');
-	}).click(function() {
-	  window.location = $(this).children('a').attr('href');
-	});
+<ul class="nav sidebar-nav">
+    <li class="nav-item"><a href="about_providers" class="nav-link">About us for Educational Providers</a></li>
+	<li class="nav-item"><a href="about_students" class="nav-link">About us for Students</a></li>
+	<li class="nav-item"><a href="privacy" class="nav-link">Privacy Policy</a></li>
+	<li class="nav-item"><a href="terms" class="nav-link">Terms of Service</a></li>
+	<li class="nav-item"><a href="feedback" class="nav-link">Tell us what you think!</a></li>
+</ul></aside>
 
+<main role="main" class="column">
+    <style type="text/css">
+        .footer-pages div {
+            line-height: 150%;
+            font-size: 13px;
+        }
 
-
-        $('li.submenu ul').hide();
-
-        $('li.submenu a').click(function() {
-          if ($(this).siblings('ul').length == 0) {
-            return true;
-          }
-
-					var _main = $(this).parents('ul').first().hasClass('menu');
-					if (_main) {
-						$('.openedMenu').removeClass('openedMenu');
-					}
-
-          if ($(this).next('ul').hasClass('opened')) {
-						if (_main)
-							$(this).next('ul').hide().removeClass('opened');
-						else
-            	$(this).next('ul').slideUp().removeClass('opened');
-          } else {
-						$(this).parents('li').first().addClass('openedMenu');
-						if (_main) {
-							$(this).parents('ul').first().find('li.submenu ul').hide().removeClass('opened');
-	            $(this).next('ul').show().addClass('opened');
-						} else {
-							$(this).parents('ul').first().find('li.submenu ul').slideUp().removeClass('opened');
-	            $(this).next('ul').slideDown().addClass('opened');
-						}
-          };
-
-          return false;
-        });
+        .footer-pages ul {
+            list-style-type: circle;
+            margin: 20px;
+        }
+    </style>
 
 
-        $('.show-box').click(function () {
+    <h1>EDUFINDME/EXPO</h1>
+    <h2>Privacy Policy</h2>
 
-          var target = $($(this).attr('data-target'));
-          if (target.is(':visible')) {
-            $('.login-box').hide();
-            $('.signup-box').hide();
-            $('.signup-box2').hide();
-          } else {
-            $('.login-box').hide();
-            $('.signup-box').hide();
-            $('.signup-box2').hide();
-            target.show();
+    <div class="footer-pages">
+        <p>
+        This Privacy Policy determines the legally binding use of your data provided on Edufindme. Edufindme respects fully the privacy of its users and allows its users to decide themselves in their Edufindme account which data will be visible to other users and visitors and which will not. In order to use Edufindme.com you must agree to the terms mentioned in this policy upon your registration.</p><h4><strong>Safe Environment</strong></h4><p>Edufindme reviews each registration on Edufindme.com made by institutions, agencies and organizations, which use Edufindme in a professional manner, in order to maintain a safe and high quality environment. An account for the professional use of Edufindme (designed for institutions, agencies, organizations) needs to be verified and approved in order to network with students and to utilize the features available on Edufindme.com. Edufindme requires accurate information from users and only approves accounts for professional use if it deems the information authentic. Accounts with dubious or non-sufficient information are not approved and/or deleted. Agents must provide references, which can only be seen by the Edufindme moderator. Notwithstanding, Edufindme is not responsible for the information provided by its users and has no obligation to review the accuracy of its User Content.</p><h4><strong>What information is visible</strong></h4><p>Edufindme allows students and professionals working in the field of education to create profiles and to network with one another. A public student profile displays information provided by users on Edufindme except for their full name and contact details and this information be seen by both visitors and members of Edufindme. On public profiles, features of Edufindme are disabled. Once a network between a student and an educational provider/agency is built, both parties gain full access to the others' profile and can use all features of Edufindme to establish communication. In this network, full profile information can be seen, which contains the full name and contact information. Students can determine in their profile if they prefer to hide such information and can provide it to the institution/agency upon request.</p><h4><strong>What information is collected</strong></h4><p>Students will be asked to enter their contact and background information, educational information, interests, educational plans and may upload files such as CVs. This information, except for their full name and contact information, can be seen by any members and/or visitors of Edufindme.com. Institutions, agencies and organizations are asked to provide information about themselves, contact information and information on their programs and services.</p><h4><strong>Use of collected information</strong></h4><p>The information provided by its users on Edufindme.com will be processed in order to match students with institutions, agencies and organizations on Edufindme.com with the purpose of putting students and institutions in contact in terms of study abroad. The information will only be used for the above-mentioned purposes.</p><p>Edufindme neither gives away nor markets, under any circumstances, individual information about its users without their express authorization. Edufindme may release data about its user profiles either generally or segmented, such as distribution by region, gender, age, education level, etc. Nevertheless, we guarantee that no individual user information will be supplied to third parties, unless we have express authorization from the user.</p><p>Edufindme guarantees that it does not deliver information to third parties for mass mailings by email or SMS, without your express authorization. Emails and SMS messages sent to users require user authorization by means of the registration form.</p><p>Edufindme reserves the right to release its users' personal information in case they are requested to by judicial authorities.</p><h4><strong>How information is collected</strong></h4><p>All information available on Edufindme is gathered solely via registration forms and can only be edited by the user him/herself from the user's account. This information is used transparently and Edufindme maintains control over the obtaining and use of said information.</p><h4><strong>Institutions, agencies and organizations</strong></h4><p>Edufindme is designed for institutions, agencies and organizations as a recruitment tool, lead management system and Customer-Relationship-Management System. Each registration will be checked and assessed if it fits the quality requirements and purpose of Edufindme. Accounts must be approved in order to build networks and to use features on Edufindme.com. Edufindme staff assists each user with their recruitment efforts and difficulties on Edufindme.com via email.</p><h4><strong>Changes in information provided to Edufindme.com</strong></h4><p>Edufindme.com users may access, control and update the information supplied by them through the data update tool. They may do so by modifying or eliminating profile data, logging into their account with their login and password. If the user has participated in the Edufindme.com forums, he/she will not be able to remove the comments left by him/her.</p><h4><strong>Cookies</strong></h4><p>Edufindme uses cookies in order to better get to know user browsing on Edufindme.com and in general, by Internet. Cookies are information files that are stored on your computer and help to recognize it upon returning to the Edufindme.com page, which allows it to adjust to your personal information.  </p><p>As you browse <a href="http://www.eduexpos.com">EDUEXPOS.com</a>, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with <a href="http://www.eduexpos.com">EDUEXPOS.COM</a>. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit this page to opt out of AdRoll's and their partners' targeted advertising.</p><h4><strong>Security of your other social media accounts that are synchronized with Edufindme</strong></h4><p>We do not access or request your other personal information from other social networks, such as status updates, wall posts, interests, check-ins and current location. Edufindme stresses that your private Facebook profile cannot be accessed through Edufindme by anyone who does not already have access to it based on your Facebook Privacy Settings.</p><p>Edufindme only has access to your Facebook information that you choose to share on Edufindme. Our use of limited information keeps your private life on Facebook and your educational profile on Edufindme. This means that your status updates, photo albums, and other personal information are NOT visible on Edufindme  to your contacts. For this reason, Edufindme is also the perfect place and alternative to connect with students and schools when you do not want to engage with them on Facebook.</p><h4><strong>Contact</strong></h4><p>If you would like to contact us with questions about our privacy policy or products and services, feel free to send an email to: info@edufindme.com        </p>
+    </div>
 
-            if (target.hasClass('login-box')) {
-              target.find('input:first').focus();
-            }
-          }
+</main>
 
-          return false;
-        });
+</div>
 
-});
-</script>
+<footer class="footer">
+        <p role="contentinfo">Copyright © EDUFindME 2014, All right reserved.</p>
+</footer>
 
-<script type="text/javascript" charset="utf-8">
-  $.blockUI.defaults.message = '<img src="http://edufindme.com/img/ajax-loader.gif" align="bottom" style="padding-bottom:5px;" /><br><span>Saving. Please wait!</span>';
-  $.blockUI.defaults.css = {
-    padding: 0,
-		'padding-top': '18px',
-		'padding-bottom': '18px',
-    margin: 0,
-    width: '30%',
-    top: '40%',
-    left: '35%',
-    textAlign: 'center',
-    color: '#000',
-    border: 'none',
-    backgroundColor:'#fff',
-    cursor: 'wait',
-		'font-size':'13px',
-    '-webkit-border-radius': '10px',
-    '-moz-border-radius': '10px',
-  };
-  $.blockUI.defaults.overlayCSS = {
-    backgroundColor: '#000',
-    opacity: 0.6
-  };
+<div id="modal-template" class="modal fade" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content"></div>
+    </div>
+</div>
 
-</script>
+<div id="modal-template-confirm" class="modal fade" role="dialog" aria-hidden="true" data-backdrop="static">
+    <div class="modal-dialog">
+        <div class="modal-content modal-clean">
+            <div class="modal-header">
+                <h4 class="modal-title"></h4>
+                </div>
+                <div class="modal-body">
+                <p class="text"></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default cancel" data-dismiss="modal"></button>
+                <button type="button" class="btn btn-primary confirm"></button>
+            </div>
+        </div>
+    </div>
+</div>
 
-
-
-
+<div id="modal-template-translate" class="modal fade" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content modal-clean">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">
+                <span class="sr-only">Close</span>
+                <span aria-hidden="true"><i class="icons icon-popup-close"></i></span>
+                </button>
+                <h4 class="modal-title">Translation</h4>
+            </div>
+            <div class="modal-body">
+                <p class="text"></p>
+            </div>
+        </div>
+    </div>
+</div>
 
 <script>
-    var _prum = [['id', '51c77fb9abe53d3e4c000000'],
-                 ['mark', 'firstbyte', (new Date()).getTime()]];
-    (function() {
-        var s = document.getElementsByTagName('script')[0]
-          , p = document.createElement('script');
-        p.async = 'async';
-        p.src = '//rum-static.pingdom.net/prum.min.js';
-        s.parentNode.insertBefore(p, s);
-    })();
-</script>
-</head>
-
-<body>
-
-<!--Wrap begin-->
-<div id="wrap">
-
-  <style type="text/css" media="screen">
-    .topSub {display:none;}
-
-
-    #menuTop a {
-      text-decoration: none;
-    }
-
-		body {
-			background:url("http://edufindme.com/img/backgroundn_profile.gif") repeat-y scroll center top transparent;
-		}
-  </style>
-
-<style type="text/css">
-.demo {
-	-moz-border-radius: 10px 0px 0px 0px;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:bold;
-	text-align: center;
-	color: #466d94;
-	list-style:none;
-	float:left;
-	width:157px;
-	/*min-width:300px;*/
-	/*height:27px;*/
-	margin-right:5px;
-	background-color:#d5dee5;
-}
-
-.demo2 {
-	-moz-border-radius: 10px 0px 0px 0px;
-}
-
-.demo3 ul li a{
-	/*color:#fff;*/
-}
-
-.demo ul li a{
-	color:#466d94;
-}
-
-.demo ul li a:hover,.demo ul li a.hover{
-	color:#FFFFFF;
-}
-
-.demo:hover {
-	background-color:#466d94;
-}
-
-.count{
-	background-color:#FF6600;
-	font-size:9px;
-	font-weight:normal;
-	color:#FFFFFF;
-	padding: 0px 3px 0px 3px;
-	-moz-border-radius: 4px 4px 4px 4px;
-  -webkit-border-radius: 4px 4px 4px 4px;
-}
-
-.countInactive{
-	background-color:#7f7f7f;
-	font-size:9px;
-	font-weight:normal;
-	color:#FFFFFF;
-	padding: 0px 3px 0px 3px;
-	-moz-border-radius: 4px 4px 4px 4px;
-  -webkit-border-radius: 4px 4px 4px 4px;
-}
-
-ul.dropdown li, ul.dropdown ul li.subdir {
-	margin-top:7px;
-	padding-top:4px;
-}
-ul.dropdown li {
-	margin-right:1px;
-}
-
-</style>
-
-<style type="text/css">
-	#user_menu_out{
-		min-width:190px;
-		margin-top:16px;
-		margin-right:10px;
-	}
-	#user_menu{
-		min-width:121px;
-		height:23px;
-		float:right;
-		padding:4px 7px 0px 7px;
-		margin-right:1px;
-		background-color:#7dd4f7;
-		text-align:center;
-	}
-	#menu_user{
-		min-width:67px;
-		height:23px;
-		float:right;
-		padding:4px 7px 0px 7px;
-		background-color:#d5dee5;
-		text-align:center;
-		font-weight:bold;
-	}
-	#menu_down{
-		width:970px;
-		height:33px;
-		background:url(http://edufindme.com/img/topMenuShadow.gif) top repeat-x;
-		background-color:#d5dee5;
-		margin-top:2px;
-		margin-right:20px;
-		float:right;
-		padding:0px 10px 0px 10px;
-		/*margin-bottom:30px;*/
-		margin-bottom:0px;
-	}
-
-	#dropdown{
-		padding:0px;
-		margin:0px;
-		height:24px;
-	}
-
-	#barraLateral ul li, #barraLateralConteudo ul li{
-		border:none;
-		width:auto;
-		margin-top:5px;
-	}
-</style>
-
-
-<style type="text/css">
-/* new menu */
-
-	.menu {
-		border-radius:0px 0px 10px 10px;
-		font-weight:bold;
-		margin-top:5px;
-		margin-left:-40px;
-	}
-	.menu li { list-style:none; }
-	.menu li a{ color:#466d94;text-decoration:none; }
-	.menu li a:hover{ color:#ffffff; }
-	.left, .leftLine{ float:left; padding:4px; }
-	.leftLine{ color:#9ab5ca; margin:0px 1px 0px 1px; }
-	.right{ float:right; }
-	ul.topSub{ position:absolute; margin-top:4px; background-color:#466d94; border-radius:0px 5px 5px 5px; width:200px; padding:10px; margin-left:-4px; }
-	.topSub li a{ color:#FFFFFF; font-size:11px; line-height:2;  }
-	.openedMenu{ background-color:#466D94;height:200%;border-radius:5px 5px 0px 0px; }
-	.openedMenu a{ color:#ffffff !important; }
-	.ptl li a{ font-weight:normal; }
-	.topSub li ul{ background-color:#648fbb;margin:0px -8px 0px -8px; }
-
-  .topSub li a:hover { color:yellow !important; }
-
-</style>
-
-
-
-
-
-
-
-<style type="text/css">
-.signup-box,
-.signup-box2 {
-  left: 125px;
-  height: auto !important;
-  padding: 5px;
-}
-
-.signup-box2 {
-/*  left:41px;
-  top:50px;*/
-  left: 120px;
-  top: -180px;
-}
-
-.signup-box span.text-type,
-.signup-box2 span.text-type {
-  text-align: center;
-  font-weight: bold;
-  display: block;
-  margin-bottom: 15px;
-  margin-top: 3px;
-  font-size: 16px;
-  color: #4A7092;
-}
-
-.signup-box a,
-.signup-box2 a {
-  text-align: center;
-  display: block;
-  background-color: #689BBA;
-  color:#fff;
-  margin-bottom: 8px;
-  padding: 6px;
-  font-weight: bold;
-  border: 1px solid  #476d86;
-  text-decoration: none;
-  -webkit-box-shadow: 0px 1px 0px #76b3d8;
-  box-shadow: inset 0px 1px 0px #76b3d8;
-  border-radius: 2px;
-}
-
-.signup-box a:hover,
-.signup-box2 a:hover {
-  background-color: #75b2d7;
-  border: 1px solid  #476d86;
-  box-shadow: inset 0px 1px 0px #81c8f2;
-}
-
-.login-box,
-.signup-box,
-.signup-box2 {
-  background: #FFFFFF;
-  border: 6px solid #466C8B;
-  display: none;
-  position: absolute;
-  top: 30px;
-  left: -20px;
-  width: 200px;
-  height: 200px;
-  padding: 10px;
-  z-index: 20;
-  border-radius: 3px;
-  box-shadow: 2px 3px 3px rgba(0,0,0,0.3);
-}
-  .login-box ul {
-    list-style: none;
-    margin: 0px;
-    padding: 0;
-  }
-  .login-box ul li {
-    width: 100%;
-    text-align: left;
-  }
-  .login-box ul li.formulario input {
-    width: 190px;
-    margin-bottom: 10px;
-  }
-  .login-box .btnLogin {
-    width: 30px;
-    height: 30px;
-    border: none;
-    float: right;
-  }
-  .login-box .keepmeLogged {
-    float: left;
-    font-size: 11px;
-    text-align: left;
-    width: 150px;
-  }
-  .login-box .forgotPass {
-    display: table;
-    margin-top: 20px;
-    float: left;
-    text-align: center;
-  }
-  .login-box .forgotPass a {
-    background-color: #466C8B;
-    padding: 3px 6px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    border-radius: 5px;
-    text-align: center;
-    color: #FFFFFF;
-    font-size: 11px;
-    display: table;
-  }
-
-  .align-login {
-  	position: relative;
-  	float: right;
-  }
-</style>
-
-
-
-
-
-<div id="" style="width:100%;height:69px;*height:110px;margin-bottom:20px;background:url(http://edufindme.com/img/bg_profile.gif) repeat-x;">
-
-	<div id="container">
-		<div class="container_16">
-			
-
-<!--				<a href="http://edufindme.com/pages/report_a_problem" rel="facebox"><img src="http://edufindme.com/img/havin_problems.png" style="margin-top:-28px;*margin-top:-34px;" border="0" /></a>
-			</div> -->
-
-      <div class="titulo" style="margin-top:10px;">
-                                </div>
-
-			<div class="grid_4 alpha" style="z-index:100;">
-				<a href="http://edufindme.com"><img src="http://edufindme.com/img/home/logo_edu.png" height="35" border="0"></a>
-			</div>
-
-
-		      <div class="grid_10 omega" id="info" style="margin:-5px;float:right;margin-right:20px;">
-
-        <div class="align-login" style="margin-top:5px">
-	        <!--dan-->
-	        <button type="button" name="" value="" class="btnSmallBlue show-box" data-target=".login-box">Log in</button>
-	        <button type="button" name="" value="" class="btnSmallGreen show-box" data-target=".signup-box">Sign up</button>
-	        <div class="login-box">
-	          	          <form action="http://edufindme.com/pages/login" method="POST">
-	            <ul id="login">
-	              <li class="formularioLogin">Email:</li>
-	              <li class="formulario"><input name="email" type="text"></li>
-	              <li class="formularioPass">Password:</li>
-	              <li class="formulario"><input name="passwd" type="password"></li>
-	              <li><input src="http://edufindme.com/img/botaoOk.jpg" type="image" width="30" height="30" class="btnLogin"></li>
-	            </ul>
-	            <div>
-	              <div class="opcoesLogin">
-	                <span class="keepmeLogged">
-	                <input name="keep_me_logged_in" value="1" id="keep_me_logged_in" checked="checked" type="checkbox"> Keep me logged in</span></div>
-	              <div class="opcoesLogin forgotPass">
-	                <center>
-	                  <a href="http://edufindme.com/pages/forgot_password" rel="facebox">Totally blanking on my password</a>
-	                </center>
-	              </div>
-	            </div>
-	          </form>
-	        </div>
-	        <div class="signup-box">
-	          <span class="text-type">Your account type</span>
-	          <a href="http://edufindme.com/register/user/student">Student</a>
-	          <a href="http://edufindme.com/register/plans/institution">School</a>
-	          <a href="http://edufindme.com/register/plans/agent">Agent</a>
-	          <a href="http://edufindme.com/register/user/government">Government Agency</a>
-	        </div>
-        </div>
-			</div>
-		
-		</div>
-
-	</div>
-</div>
-
-<!-- <div id="container" style="float: left;margin-top: 20px;width: 100%;margin-bottom:15px">
-
-    <div class="container_16">
-        <div class="grid_12 alpha omega" style="background-color:#8CC63E;display:table;margin-left:120px;">
-            <div style="display:table;padding:15px;">
-                <span style="">The EDUVirtualEXPO has just started!</span><br>
-                <span style="">Study Abroad Virtual Fair</span><br>
-                <a href="/events/virtualfairs" style="background-color:#F4C700;"><span style="padding:10px 15px;font-size:15px;color:#FFFFFF;text-shadow:-2px 2px 2px #999999;">Learn more</span></a>
-                <img src="/img/virtualfair_screen.png" style="float:right;display:table;margin-top:-30px">
-            </div>
-        </div>
-    </div>
-
-</div> -->
-
-<div id="container" class="generalContent">
-
-	<div class="container_16" style="margin-bottom:300px;">
-    
-    <!-- Início do menu -->
-    <div class="grid_4 alpha">
-    <ul id="CMS">
-    	<li><a href="about_providers">About us for Educational Providers</a></li>
-    	<li><a href="about_students">About us for Students</a></li>
-    	<li class="marcado"><a href="privacy">Privacy Policy</a></li>
-    	<li><a href="terms">Terms of Service</a></li>
-    	<li><a href="forgot_password" rel="facebox">Totally blanking on my password</a></li>
-    	<li><a href="feedback">Tell us what you think!</a></li>
-    </ul>
-    </div>
-    <!-- Fim do menu -->
-    
-    <!-- Conteúdo -->
-    <div class="grid_11 omega" id="textosCMS">
-    <h1 class="sessao">EDUFINDME/EXPO</h1>
-    <h1>Privacy Policy</h1>
-		
-
-<p>
-This Privacy Policy determines the legally binding use of your data provided on Edufindme. Edufindme respects fully the privacy of its users and allows its users to decide themselves in their Edufindme account which data will be visible to other users and visitors and which will not. In order to use Edufindme.com you must agree to the terms mentioned in this policy upon your registration.</p><h4><strong>Safe Environment</strong></h4><p>Edufindme reviews each registration on Edufindme.com made by institutions, agencies and organizations, which use Edufindme in a professional manner, in order to maintain a safe and high quality environment. An account for the professional use of Edufindme (designed for institutions, agencies, organizations) needs to be verified and approved in order to network with students and to utilize the features available on Edufindme.com. Edufindme requires accurate information from users and only approves accounts for professional use if it deems the information authentic. Accounts with dubious or non-sufficient information are not approved and/or deleted. Agents must provide references, which can only be seen by the Edufindme moderator. Notwithstanding, Edufindme is not responsible for the information provided by its users and has no obligation to review the accuracy of its User Content.</p><h4><strong>What information is visible</strong></h4><p>Edufindme allows students and professionals working in the field of education to create profiles and to network with one another. A public student profile displays information provided by users on Edufindme except for their full name and contact details and this information be seen by both visitors and members of Edufindme. On public profiles, features of Edufindme are disabled. Once a network between a student and an educational provider/agency is built, both parties gain full access to the others' profile and can use all features of Edufindme to establish communication. In this network, full profile information can be seen, which contains the full name and contact information. Students can determine in their profile if they prefer to hide such information and can provide it to the institution/agency upon request.</p><h4><strong>What information is collected</strong></h4><p>Students will be asked to enter their contact and background information, educational information, interests, educational plans and may upload files such as CVs. This information, except for their full name and contact information, can be seen by any members and/or visitors of Edufindme.com. Institutions, agencies and organizations are asked to provide information about themselves, contact information and information on their programs and services.</p><h4><strong>Use of collected information</strong></h4><p>The information provided by its users on Edufindme.com will be processed in order to match students with institutions, agencies and organizations on Edufindme.com with the purpose of putting students and institutions in contact in terms of study abroad. The information will only be used for the above-mentioned purposes.</p><p>Edufindme neither gives away nor markets, under any circumstances, individual information about its users without their express authorization. Edufindme may release data about its user profiles either generally or segmented, such as distribution by region, gender, age, education level, etc. Nevertheless, we guarantee that no individual user information will be supplied to third parties, unless we have express authorization from the user.</p><p>Edufindme guarantees that it does not deliver information to third parties for mass mailings by email or SMS, without your express authorization. Emails and SMS messages sent to users require user authorization by means of the registration form.</p><p>Edufindme reserves the right to release its users' personal information in case they are requested to by judicial authorities.</p><h4><strong>How information is collected</strong></h4><p>All information available on Edufindme is gathered solely via registration forms and can only be edited by the user him/herself from the user's account. This information is used transparently and Edufindme maintains control over the obtaining and use of said information.</p><h4><strong>Institutions, agencies and organizations</strong></h4><p>Edufindme is designed for institutions, agencies and organizations as a recruitment tool, lead management system and Customer-Relationship-Management System. Each registration will be checked and assessed if it fits the quality requirements and purpose of Edufindme. Accounts must be approved in order to build networks and to use features on Edufindme.com. Edufindme staff assists each user with their recruitment efforts and difficulties on Edufindme.com via email.</p><h4><strong>Changes in information provided to Edufindme.com</strong></h4><p>Edufindme.com users may access, control and update the information supplied by them through the data update tool. They may do so by modifying or eliminating profile data, logging into their account with their login and password. If the user has participated in the Edufindme.com forums, he/she will not be able to remove the comments left by him/her.</p><h4><strong>Cookies</strong></h4><p>Edufindme uses cookies in order to better get to know user browsing on Edufindme.com and in general, by Internet. Cookies are information files that are stored on your computer and help to recognize it upon returning to the Edufindme.com page, which allows it to adjust to your personal information.  </p><h4><strong>Security of your other social media accounts that are synchronized with Edufindme</strong></h4><p>We do not access or request your other personal information from other social networks, such as status updates, wall posts, interests, check-ins and current location. Edufindme stresses that your private Facebook profile cannot be accessed through Edufindme by anyone who does not already have access to it based on your Facebook Privacy Settings.</p><p>Edufindme only has access to your Facebook information that you choose to share on Edufindme. Our use of limited information keeps your private life on Facebook and your educational profile on Edufindme. This means that your status updates, photo albums, and other personal information are NOT visible on Edufindme  to your contacts. For this reason, Edufindme is also the perfect place and alternative to connect with students and schools when you do not want to engage with them on Facebook.</p><h4><strong>Contact</strong></h4><p>If you would like to contact us with questions about our privacy policy or products and services, feel free to send an email to: info@edufindme.com</p>
-
-
-    </div>
-    <!-- Fim do conteúdo -->
-    	
-    </div>
-
-
-
-
-
-
-<script type="text/javascript">
-  $(document).ready(function() {    
-    $('a[rel*=facebox]').facebox();
-  });
-</script></div>
-</div>
-<!-- CONTENT END -->
-
-
-<!--Wrap end-->
-
-<style type="text/css" media="screen">
-  .footerArea {
-    background-color: #e9e9e9 !important;
-    border-top: 3px solid #c3ccd4 !important;
-    margin-top: 10px !important;
-    display:table;
-    width:100%;
-  }
-  .footerArea ul {
-      display: table;
-      list-style: none outside none !important;
-      margin-bottom: 2px !important;
-      margin-top: 0 !important;
-  }
-/*    .footerArea ul {
-      list-style: none !important;
-      margin-top: -10px;
-    }*/
-    
-    .footerArea .footerEdu ul li {
-      float: left !important;
-      font-size: 11px !important;
-      margin: 7px 15px 7px 0px !important;
-    }
-    .footerArea .footerEdu ul li a {
-      color: #3b5e95 !important;
-    }
-  .footerOptions {
-   background-color: #4a6f91 !important;
-   border-top: 1px solid #FFFFFF !important;
-  }
-    .footerOptions .submenu {
-      float: left !important;
-      width: 180px !important;
-      height: 90px !important;
-      margin-top: 15px !important;
-      margin-right: 15px !important;
-    }
-      .submenu .subTitle {
-        margin-bottom: 15px !important;
-      }
-    .footerOptions ul li {
-      font-size: 15px !important;
-      color: #b9cdf2 !important;
-      font-weight: bold !important;
-    }
-    .footerOptions ul li a {
-      font-size: 12px !important;
-      color: #FFFFFF !important;
-      font-weight: bold !important;
-    }
-  .footerContent {
-    height: 35px !important;
-    padding-top: 10px !important;
-  }
-  .footerContent a {
-    text-decoration: none !important;
-  }
-</style>
-
-<div class="footerContent">
-  
-  
-
-    
-  <div class="footerArea">
-    <div class="container_16">
-      <div class="row">
-        <div class="span16">
-          <!-- <div class="" style="margin-top: -142px !important;height: 142px !important;"> -->
+    $(function() {
+
+        $(document).on('hidden.bs.modal', function (e) {
+            $(e.target).removeData('bs.modal');
+        });
+
+        $('body').on('click', '[data-modal]', function  () {
+            var el = $(this);
+            var href = $(this).data('modal');
+
+            var mclass = 'modal-clean';
+
+            if ( $(this).data('modal-class') != undefined) {
+                mclass = $(this).data('modal-class');
+            }
+
+            if ( $(this).data('modal-backdrop') != undefined) {
+                $('#modal-template').data('backdrop', $(this).data('modal-backdrop'));
+            }
+
+            $('#modal-template .modal-content').html('');
+            $('#modal-template .modal-content').prop('class','modal-content');
+            $('#modal-template .modal-content').addClass(mclass);
+
+            if ( $(this).data('modal-size') != undefined) {
+                $('#modal-template .modal-dialog').addClass($(this).data('modal-size'));
+            }
+
+            $('#modal-template').modal({
+                    show: true,
+                    remote: href,
+                    keyboard: true
+            });
             
-            <div>
+            $('#modal-template').off('hide.bs.modal');
+            $('#modal-template').on('hide.bs.modal', function() {
 
+                $('#modal-template .modal-content').html('');
 
-            <div class="footerEdu">
+                if ( $(el).data('modal-callback') != undefined) {
+                    var myFunc = window[$(el).data('modal-callback')];
+                    myFunc();
+                }
 
-            	<div class="language1">
-            		<div class="row">
-              		<ul>
-              		                			  <li><a href="http://00.edufindme.com">English (Standard)</a></li>
-              			
-              			              			  <li><a href="http://br.edufindme.com">Português (Brasil)</a></li>
-              			
-              		                			  <li><a href="http://sp.edufindme.com">Español</a></li>
-              			
-              		                			  <li><a href="http://it.edufindme.com">Italiano</a></li>
-              			              			
-              		                			  <li><a href="http://de.edufindme.com">Deutsch</a></li>
-              			              			
-              		                			  <li><a href="http://ja.edufindme.com">日本語</a></li>
-              			              			
-              		                			  <li><a href="http://id.edufindme.com">Bahasa Indonesia</a></li>
-              			              			
-              		                			  <li><a href="http://th.edufindme.com">ภาษาไทย</a></li>
-              			              			
-              		                			  <li><a href="http://zh.edufindme.com">繁體版</a></li>
-              			
-              		                			  <li><a href="http://cn.edufindme.com">简体版</a></li>
-              			              			
-              		                			  <li><a href="http://tr.edufindme.com">Türkçe</a></li>
-              			              			
-              		                			  <li><a href="http://ru.edufindme.com">Русский язык</a></li>
-              			
-              			<li><a href="http://edufindme.com/pages/languages" rel="facebox">»</a></li>
-              		</ul>
-            		</div>
-            	</div>
-            </div>
-          </div>
-
-                  </div>
-      </div>
-    </div>
-    
-  	  	<div class="footerOptions">
-  	    <div class="container_16">
-  	      <div id="row">
-            <ul class="submenu">
-            	<li class="subTitle">About Us</li>
-              <li><a href="http://edufindme.com/pages/about_providers">For Educational Providers</a></li>
-              <li><a href="http://edufindme.com/pages/about_students">For Students</a></li>
-            </ul>
-
-            <ul class="submenu">
-            	<li class="subTitle">Privacy &amp; Terms</li>
-              <li><a href="http://edufindme.com/pages/privacy">Privacy Policy</a></li>
-              <li><a href="http://edufindme.com/pages/terms">Terms of Service</a></li>
-            </ul>
-
-            <ul class="submenu" style="width: 210px !important">
-            	<li class="subTitle">Forgot password &amp; Help</li>
-              <li><a href="http://edufindme.com/pages/forgot_password" rel="facebox">Totally blanking on my password</a></li>
-              <li style="font-size:11px;font-weight:normal;color:#9f9f9f"></li>
-            </ul>
-
-            <ul class="submenu">
-            	<li class="subTitle">Give Feedback</li>
-              <li><a href="http://edufindme.com/pages/feedback">Tell us what you think!</a></li>
-            </ul>
-
-            <div class="clear"></div><br><br>
-  	      </div>
-  	    </div>
-    </div>
-      </div>
-  <!-- End Footer area -->
-   
-  <!-- <div id="container" class="foot">
+            });
+            
+            return false;
+        });
   
-    <div class="language">
-      <div class="container_16">
-      <ul>
-                  <li><a href="http://00.edufindme.com">English (Standard)</a></li>
-              
-                  <li><a href="http://br.edufindme.com">Português (Brasil)</a></li>
-              
-                  <li><a href="http://sp.edufindme.com">Español</a></li>
-              
-                  <li><a href="http://it.edufindme.com">Italiano</a></li>
-              
-                  <li><a href="http://tr.edufindme.com">Türkçe</a></li>
-              
-                  <li><a href="http://th.edufindme.com">ภาษาไทย</a></li>
-              
-                  <li><a href="http://zh.edufindme.com">繁體版</a></li>
-              
-                  <li><a href="http://cn.edufindme.com">简体版</a></li>
-              
-                  <li><a href="http://vi.edufindme.com">Tiếng Việt</a></li>
-              
-                  <li><a href="http://ja.edufindme.com">日本語</a></li>
-              
-                  <li><a href="http://ko.edufindme.com">한국</a></li>
+        // Script para ativar o menu correspondente ao action corrente
+        $(document).ready(function() {
+            var active_menu = "privacy";
+            $('.sidebar-nav a.nav-link[href*="' + active_menu + '"]:first').parents('li').addClass('is-current');
+        });
+    });
+
+    (function( $ ) {
+
+        $('body').on('click', '.send_message_off', function() {
+            var name = $(this).parents('.popover').find('.p-name').html();
+            $('.popover').popover('hide');
+            $.confirm({
+                text:   '<p>You need to be logged in to send a message to {name}.</p>'.replace('{name}', name),
+                title:  'Confirmation',
+                confirm_text: 'Ok'
+            });
+        });
         
-                  <li><a href="http://fr.edufindme.com">Français</a></li>
-              
-                  <li><a href="http://de.edufindme.com">Deutsch</a></li>
-              
-                  <li><a href="http://nl.edufindme.com">Nederlands</a></li>
-              
-        <li><a href="http://edufindme.com/pages/languages" rel="facebox">»</a></li>
-      </ul>
-      </div>
-    </div>
-    
-    
-          <style type="text/css" media="screen">
-       #submenu{
-         width:23% !important;
-       }
-      </style>
-    <div class="container_16">
-    
-      <ul id="submenu">
-        <li>About Us</li>
-          <li><a href="http://edufindme.com/pages/about_providers">For Educational Providers</a></li>
-          <li><a href="http://edufindme.com/pages/about_students">For Students</a></li>
-      </ul>
-    
-      <ul id="submenu">
-        <li>Privacy & Terms</li>
-          <li><a href="http://edufindme.com/pages/privacy">Privacy Policy</a></li>
-          <li><a href="http://edufindme.com/pages/terms">Terms of Service</a></li>
-      </ul>
-    
-      <ul id="submenu">
-        <li>Forgot password & Help</li>
-          <li><a href="http://edufindme.com/pages/forgot_password" rel="facebox">Totally blanking on my password</a></li>
-<li style="font-size:11px;font-weight:normal;color:#9f9f9f"></li>
+        // hack para modalover
+        $('#modal-template-confirm').on('hidden.bs.modal', function (e) {
+            if ($('.modal-backdrop').length > 0) {
+                $('body').addClass('modal-open');
+                $('body').css('padding-right','15px');
+            }
+        });
+ 
+        $.confirm = function(user_options, callback) {
 
-      </ul>
+            var options = {
+                title : 'Info'
+            };
+
+            jQuery.extend(options, user_options);
+            
+            $('#modal-template-confirm .modal-title').html(options.title);
+
+            $('#modal-template-confirm .text').html(options.text);
+            $('#modal-template-confirm').modal('show');
+
+            // hack para modalover
+            $('#modal-template-confirm').css('z-index', 1052);
+            $('.modal-backdrop:last').css('z-index', 1051);
+            
+            if (options.confirm_text != undefined) {
+                $('#modal-template-confirm .confirm').show();
+                $('#modal-template-confirm .confirm').html(options.confirm_text);
+            } else {
+                $('#modal-template-confirm .confirm').hide();
+            }
+
+            if (options.cancel_text != undefined) {
+                $('#modal-template-confirm .cancel').show();
+                $('#modal-template-confirm .cancel').html(options.cancel_text);
+            } else {
+                $('#modal-template-confirm .cancel').hide();
+            }
+
+            $('#modal-template-confirm .confirm').off();
+            $('#modal-template-confirm .confirm').on('click', function () {
+                $('#modal-template-confirm').modal('hide');
+
+                if (callback != undefined) {
+                    callback(true);
+                };
+                
+                return false;
+
+            });
+
+            $('#modal-template-confirm .cancel').off();
+            $('#modal-template-confirm .cancel').on('click', function () {
+                $('#modal-template-confirm').modal('hide');
+
+                if (callback != undefined) {
+                    callback(false);
+                };
+               
+                return false;
+
+            });
+
+            
+        };
+             
+    }( jQuery ));
+
+
+
+</script>
+
     
-      <ul id="submenu">
-        <li>Give Feedback</li>
-          <li><a href="http://edufindme.com/pages/feedback">Tell us what you think!</a></li>
-      </ul>
-       <div class="clear"></div><br /><br /> 
-    </div>
-      
-  </div>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"BI27k1a0Sn00qp", domain:"edufindme.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=BI27k1a0Sn00qp" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
 
-  <div id="container" class="footCopyright" style="margin:-14px; margin-left: auto;
-    margin-right: auto;">
-    <div class="container_16">
-      All rights reserved      </div>
-  </div> -->
-  
-</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"47578a2a51","applicationID":"2745045","transactionName":"NVABbRNVVhBYWxYICQwaIEwSQFcOFkgDBgMRGhNLCEJZAEA=","queueTime":0,"applicationTime":11,"atts":"GRcCG1tPRR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"47578a2a51","applicationID":"2745045","transactionName":"NVABbRNVVhBYWxYICQwaNksIG0gWW1QLAkkLWwdcGRpIC0k=","queueTime":0,"applicationTime":49,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
