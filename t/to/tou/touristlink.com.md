@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165305id_/http%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touristlink.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220235150id_/http%3A//www.touristlink.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Touristlink :: Privacy Policy
 
@@ -75,7 +75,7 @@ Contacting TouristLink about Privacy Policy
 
 Attn: Privacy Officer  
 Touristlink.com  
-GoTripIndia Pvt Ltd.
+Holiday Deals Pvt Ltd. / Touristlink Corp
 
 14/1 & 14/2, 2nd Floor, IT Park  
 South Ambazari Road,Parsodi,  
