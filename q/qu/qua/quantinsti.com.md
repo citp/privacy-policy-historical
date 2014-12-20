@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quantinsti.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606191219id_/http%3A//www.quantinsti.com/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantinsti.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220051004id_/http%3A//www.quantinsti.com/Privacy_Policy.php) for the most accurate reproduction.*
 
-# Quantitative Analysis,Learn Quantitative Analysis,Mathematics Required in Quantitative Analysis
+# Privacy Policy:quantinsti.com
 
 ## Privacy Policy
 
