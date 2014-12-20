@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujifilm.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625143900id_/http%3A//www.fujifilm.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilm.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220235120id_/http%3A//www.fujifilm.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fujifilm Global
 
@@ -50,10 +50,10 @@ E-mail:
 
 Regarding personal information of customers who are under the age of 16, information must be provided with the consent of their guardians.
 
-## 4\. Use of SSL
+## 4\. Use of TLS
 
-  1. 1. In principle, as a countermeasure against illegal third party interception, the Secure Sockets Layer (SSL) method shall be used to encrypt the data on the data entry form, which is made available on The Website (s) so customers may provide their personal information.
-  2. 2. On The Website (s), in addition to SSL encrypted data entry forms, there may be cases in which data entry forms without SSL data encryption are made available for customers whose browsers are not compatible with SSL encryption. Please note before using such data entry forms that the transferred data will not be encrypted and that there is the possibility that a third party will illegally intercept the data and read it.
+  1. 1. In principle, as a countermeasure against illegal third party interception, the Transport Layer Security (TLS) method shall be used to encrypt the data on the data entry form, which is made available on The Website (s) so customers may provide their personal information.
+  2. 2. On The Website (s), in addition to TLS encrypted data entry forms, there may be cases in which data entry forms without TLS data encryption are made available for customers whose browsers are not compatible with TLS encryption. Please note before using such data entry forms that the transferred data will not be encrypted and that there is the possibility that a third party will illegally intercept the data and read it.
 
 
 
@@ -93,6 +93,6 @@ E-mail:
 
 
 
-Last update: June 1, 2008  
+Last update: December 1, 2014  
 Internet Office  
 FUJIFILM Corporation
