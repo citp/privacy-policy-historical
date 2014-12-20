@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the days.to privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092706id_/http%3A//days.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the days.to privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220230317id_/http%3A//days.to/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | days.to
 
@@ -68,4 +68,4 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 
 ## Contacting Us
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [our support site](http://daysto.uservoice.com/).
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [our support site](https://daysto.uservoice.com/).
