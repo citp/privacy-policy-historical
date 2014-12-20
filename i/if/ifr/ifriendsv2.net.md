@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ifriendsv2.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630020508id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/general/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifriendsv2.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220185218id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/general/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for iFriends
 
 **Overview**  
 ---  
 **Effective August 2008**   
-We understand that privacy is an ongoing and important concern for all of our users. For more than 10 years we have maintained a secure online environment for users to express themselves. We respect and safeguard the privacy of every individual who visits or creates Content on or through our website(s). 
+_ _ We understand that privacy is an ongoing and important concern for all of our users. For more than 10 years we have maintained a secure online environment for users to express themselves. We respect and safeguard the privacy of every individual who visits or creates Content on or through our website(s). 
 
 This Privacy Policy is a formal document which outlines the information that may be collected about you while you use this Service, and how that information may be used. This Policy will also instruct you on what to do if you do not want your personal information collected or shared. This Policy incorporates our [Terms of Service](http://www.ifriends.net/ifpage.dll?t=site/general/legal/tos), and if there is a conflict between this Policy and our Terms of Service, the Terms of Service prevail. If you would like to review a plain-spoken presentation of how we protect your privacy, and the practical ways that our Policy might affect your life, please [click here](http://www.ifriends.net/ifpage.dll?t=site/general/legal/privacyprotection) for our "side bar" article, "How We Protect Your Privacy," or [click here](http://www.ifriends.net/ifpage.dll?t=site/general/legal/privacyfaq) for a list of frequently-asked questions and answers concerning our policies.   
   
