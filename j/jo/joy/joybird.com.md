@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the joybird.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070801id_/http%3A//joybird.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joybird.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220210819id_/http%3A//joybird.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joybird.com
 
 ## Privacy Policy
 
-From time to time, we here at Joybird Furniture will update our privacy statement based on the feedback we receive, and we’ll be sure to let you know by adding the word “Updated” next to our Privacy Policy link. It’s a good idea to take a peek at the changes, so you know how we’re protecting your information when you buy from us. If you have any questions or concerns about our privacy policy or updates, don’t hesitate to contact our customer service department at support@joybird.com or (888) 282-0842.
+From time to time, we here at Joybird Furniture will update our privacy statement based on the feedback we receive, and we’ll be sure to let you know by adding the word “Updated” next to our Privacy Policy link. It’s a good idea to take a peek at the changes, so you know how we’re protecting your information when you buy from us. If you have any questions or concerns about our privacy policy or updates, don’t hesitate to contact our customer service department at support@joybird.com or 888-282-0842.
 
 ###  How we use the information we collect
 
@@ -28,7 +28,7 @@ Occasionally, we might ask you if you’d like to participate in a completely vo
 
 ###  Opt-Out Policy
 
-If you’d rather not hear from us, we won’t take it personally! Just hit “unsubscribe” on our subscription status page and enter your information. You can also opt out by calling us at (888) 282-0842 or emailing us at support@joybird.com.
+If you’d rather not hear from us, we won’t take it personally! Just hit “unsubscribe” on our subscription status page and enter your information. You can also opt out by calling us at 888-282-0842 or emailing us at support@joybird.com.
 
 Opt out of customized Google Display Network ads by visiting the [Ads Preferences Manager](http://www.google.com/settings/ads/onweb/?sig=ACi0TCiRDcnrXrdffABE6Nifr9QppTwHkj_NTB8gd0FaMd9YV_wg5YIp3OvYIp-y-pdTWNhIhLjQXh6TyIek2jcL233J8XokduMKuR1N-zHOJP2Ls6zIAM_wKkwTu-xTmML-Aucg-KSrCOB6oLAL11n-sPX9rEefGBMsmC7iVBTJsDKZmWkr3jnzCeVGR-wzwiV8cGO96yfR&hl=en).
 
@@ -42,7 +42,7 @@ We want to make sure your customer service experience is as high-quality as our 
 
 ###  Contact Us
 
-Directly contact a Joybird consultant by email either via the “Contact Us” link or writing to support@joybird.com. We always read every email and try to answer your questions as quickly as possible. You can also call us at (888) 282-0842. We may use your comments to improve the site and service, or review and discard the information. We also love to hear your comments and feedback about the website or your shopping experience, and sincerely welcome any testimonials about our service or products.
+Directly contact a Joybird consultant by email either via the “Contact Us” link or writing to support@joybird.com. We always read every email and try to answer your questions as quickly as possible. You can also call us at 888-282-0842. We may use your comments to improve the site and service, or review and discard the information. We also love to hear your comments and feedback about the website or your shopping experience, and sincerely welcome any testimonials about our service or products.
 
 ###  Fraudulent Charge Protection
 
@@ -50,4 +50,4 @@ Don’t worry -- you are protected if a third party perpetrates credit card frau
 
 ###  Legal Disclaimer
 
-The only time we’ll share your personal information is when required by law or with the good-faith belief that it is necessary in order to conform to the law. If you have any questions about this privacy statement, please contact our customer service department at support@joybird.com or (888) 282-0842.
+The only time we’ll share your personal information is when required by law or with the good-faith belief that it is necessary in order to conform to the law. If you have any questions about this privacy statement, please contact our customer service department at support@joybird.com or 888-282-0842.
