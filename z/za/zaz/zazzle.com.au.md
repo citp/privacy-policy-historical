@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zazzle.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626155659id_/http%3A//www.zazzle.com.au/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com.au privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221002727id_/http%3A//www.zazzle.com.au/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
@@ -110,7 +110,7 @@ Zazzle may disclose non-personally-identifiable information to third parties in 
 
 #### Advertising
 
-Zazzle may use third party service providers to place ads on our behalf across the internet and sometimes on the Site. They may collect anonymous information about your visits to our Site, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a web beacon, which is industry standard technology used by most major sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service providers, please contact us at [privacy@zazzle.com.au](mailto:privacy@zazzle.com.au).
+Zazzle may use third party service providers to place ads on our behalf across the internet and sometimes on the Site. They may collect anonymous information about your visits to our Site, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a web beacon, which is industry standard technology used by most major sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service providers, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com).
 
 In addition, Zazzle is a dynamic marketplace with a great number of branded products and content. We will offer our users the opportunity to opt-in to receive emails, notifications of promotions and the like offered by our partners from such partners. You have the right to decline to opt-in to take advantage of this service.
 
@@ -126,18 +126,18 @@ This information is used to fulfill the requested order; confirm shipment; compl
 
 Parents of children under the age of 13 have the option to consent to the collection of this information from their children or not. Such consent will not be used as consent for the dissemination of any of this information and the information will not be released by Zazzle to third parties without the parents' consent except as may be required by law or upon court order. Personal information at Zazzle is kept confidential and is disclosed only with the consent of the Zazzle user or as set forth in this Privacy Policy. We do not engage in the selling of information regarding the habits, behaviour, buying patterns, or demographic information of our users. Zazzle does not condition a child's participation in any on-line activity on the granting of any unnecessary information beyond that actually needed in connection with that activity. Parents can review any information Zazzle has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from the Zazzle records or to forbid any use of such information, you may send a request to Zazzle Customer Support. 
 
-[Contact us](mailto:support@zazzle.com) by sending an email with Parental Notification in the subject line. Alternatively, you may contact the Zazzle Child Privacy Representative by phone, email, or letter at:
+[Contact us](mailto:support@zazzle.com.au) by sending an email with Parental Notification in the subject line. Alternatively, you may contact the Zazzle Child Privacy Representative by phone, email, or letter at:
 
 Zazzle Inc.  
 Attn: Privacy  
 1800 Seaport Blvd  
 Redwood City, CA 94063  
-[coppa@zazzle.com.au](mailto:coppa@zazzle.com.au)  
+[coppa@zazzle.com](mailto:coppa@zazzle.com)  
 +1-408-983-2800 
 
 #### How can I change, delete, or update my information?
 
-Most of your account information can be changed in the My Account section of the Site. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com.au](mailto:privacy@zazzle.com.au) or Privacy c/o Zazzle Inc., 1800 Seaport Blvd., Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
+Most of your account information can be changed in the My Account section of the Site. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com](mailto:privacy@zazzle.com) or Privacy c/o Zazzle Inc., 1800 Seaport Blvd., Redwood City, CA 94063. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
 
 Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
