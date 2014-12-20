@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the casalemedia.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624152111id_/http%3A//casalemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casalemedia.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220061017id_/http%3A//casalemedia.com/privacy) for the most accurate reproduction.*
 
 # Casale Media Inc.
 
-LAST UPDATED 11.20.13
+##### Privacy policy
+
+LAST UPDATED 07.16.14
 
 Casale Media participates in TRUSTe's Privacy and Trusted Data Collection Programs. TRUSTe privacy seals help thousands of businesses promote online safety and trust, and guide consumers to websites that protect their privacy online.
 
-This privacy policy covers the data collection and use practices of the Casale Media website, www.casalemedia.com. To view the policy for our Online Advertising Network, (MediaNet®), and to opt out, please visit [www.medianet.com/privacy/](http://www.medianet.com/privacy/).
+This privacy policy covers the data collection and use practices of the Casale Media website, www.casalemedia.com. To view the policy for our Online Advertising Network, (MediaNet®), and to opt out, please visit [www.medianet.com/privacy/](http://www.medianet.com/privacy/). To view the policy for Index Exchange, and to opt out, please visit [www.indexexchange.com/privacy/](http://www.indexexchange.com/privacy/)
 
 Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe. If users have questions or concerns regarding this policy, you should first [ contact us](https://web.archive.org/contact). If you are not satisfied with our response you can contact [TRUSTe here.](https://feedback-form.truste.com/watchdog/request)
 
