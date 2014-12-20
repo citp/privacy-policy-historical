@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the corybooker.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627224425id_/http%3A//corybooker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corybooker.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220021328id_/http%3A//corybooker.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Cory Booker for SenateCory Booker for Senate
+# Privacy Policy - Cory Booker for SenateCory Booker for Senate
 
 [ ](https://web.archive.org/ "Cory Booker for Senate")
 
   * [About Cory](https://web.archive.org/about "About Cory")
-  * [Vision](https://web.archive.org/vision "Vision")
   * [Action](https://web.archive.org/act "Action")
   * [Video](https://web.archive.org/video "Video")
   * [Photos](https://web.archive.org/photos "Photos")
