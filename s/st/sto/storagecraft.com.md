@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storagecraft.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628223716id_/https%3A//www.storagecraft.com/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storagecraft.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220072534id_/https%3A//www.storagecraft.com/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StorageCraft
 
@@ -60,7 +60,7 @@ StorageCraft gives you access to a range of information about your account and y
 
 ## _6.   REMOVAL PROCEDURES_
 
-As all information is collected via opt-in methods, we believe all information you receive from StorageCraft will be relevant to your computing and backup needs.  However, if you do not wish to receive certain communications from StorageCraft, visit [Marketing Preferences](https://www.storagecraft.com/marketing-preferences) and select which communications you prefer.
+As all information is collected via opt-in methods, we believe all information you receive from StorageCraft will be relevant to your computing and backup needs.  However, if you do not wish to receive certain communications from StorageCraft, visit [Marketing Preferences](http://pages.storagecraft.com/unsubscribe.html) and select which communications you prefer.
 
 ## _7.   CONDITIONS OF USE AND CHANGES TO OUR PRIVACY POLICY_
 
