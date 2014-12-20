@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopdroplol.com privacy policy that was archived on 2014-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140412042252id_/http%3A//www.stopdroplol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopdroplol.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220062407id_/http%3A//stopdroplol.com/privacy-policy) for the most accurate reproduction.*
 
 # Stop Drop LOL - Privacy Policy
 
