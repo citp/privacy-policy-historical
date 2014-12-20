@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverscollection.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621023457id_/http%3A//driverscollection.com%3FPrivacyPolicy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverscollection.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190725id_/http%3A//driverscollection.com%3FPrivacyPolicy%3D1) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -52,7 +52,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
   12. **Agreement**
 
-Please also visit our Agreement section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Agreement page](http://driverscollection.com/?Agreement=1)
+Please also visit our Agreement section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Agreement page](https://driverscollection.com/?Agreement=1)
 
 
 
