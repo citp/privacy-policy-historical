@@ -1,51 +1,83 @@
-> *The following text is extracted and transformed from the mountvernon.org privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530224642id_/http%3A//www.mountvernon.org/more/terms-use/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountvernon.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220102420id_/http%3A//www.mountvernon.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | George Washington's Mount Vernon
+# Privacy Policy · George Washington's Mount Vernon
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
+Last updated: July 21, 2014
 
-###### **What Information Do We Collect?**
+The Mount Vernon Ladies Association of the Union ("us", "we", or "our") operates the http://www.mountvernon.org website (the "Service").
 
-###### When you visit our Web site you may provide us with two types of information: Personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-## 1.     Personal Information You Choose to Provide.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**Registration Information.**  
-You will provide us information about yourself, your firm or company, and your practices when you register to be a member of MVLA, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see MVLA servicing your needs and interests.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.mountvernon.org and we ask that you please read these Terms and Conditions carefully before using our Service.
 
-**Email Information.**  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+**Information Collection And Use**
 
-## 2.     Web Site Use Information.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, postal address ("Personal Information").
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small pieces of code called “web beacons” or “clear gifs” to determine which advertisements and promotions users have seen and how users responded to them.  
- **  
-How Do We Use the Information That You Provide to Us?  
-** Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [webmaster@mountvernon.org](mailto:webmaster@mountvernon.org).  
- **  
-What Are Cookies?**  
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.  
- **  
-How Do We Use Information We Collect from Cookies?**  
-We do not use cookies to store any personal information about you.  As you shop on our Web site, the site uses its cookies to differentiate you from other shoppers so your shopping cart is only available to you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, may allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.  
- **  
-Sharing Information with Third Parties.**  
-We may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that we think will be of interest to you. In connection with alliances, partnerships or arrangements, we may also provide certain information to third parties if we have determined that the information will be used in a responsible manner by a responsible third party. For example, some of our partners operate stores or provide services on our site, while others power offerings developed by us for your use. We also use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, our partners and other third parties may have access to your personal information for use in connection with business activities.  
- **  
-Notice of New Services and Changes.**  
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [webmaster@mountvernon.org](mailto:webmaster@mountvernon.org).
+**Log Data**
 
-**How Do We Secure Information Transmissions?**  
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, encryption services, which are enabled by VeriSign, Inc. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact [webmaster@mountvernon.org](mailto:webmaster@mountvernon.org) if you have any questions or concerns.  
- **  
-How Can You Access and Correct Your Information?**  
-You may access any personal information that you have entered into your Personal Profile via the username and password you selected, to view or update your information.  You may also request access to all your personally identifiable information that we collect online and maintain in our database by emailing [webmaster@mountvernon.org](mailto:webmaster@mountvernon.org).
+We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-**Certain Disclosures.**  
-We may disclose your personal information if required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on us or Affiliated Parties; (b) protect and defend our rights and property, the Site, the users of the Site, and/or our Affiliated Parties; or (c) act under circumstances to protect the safety of users of the Site, us, or third parties.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
 
-**What About Other Web Sites Linked to Our Web Site?**  
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+**Cookies**
 
-**Your Consent.**  
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
+
+We use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+**Do Not Track Disclosure**
+
+We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+**Service Providers**
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+**Communications**
+
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+
+**Compliance With Laws**
+
+We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
+
+**Security**
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+**International Transfer**
+
+Your information, including Personal Information, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside the United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to the United States and processes it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+**Links To Other Sites**
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+**Children's Privacy**
+
+Our Service does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your Children have provided us with Personal Information, please [contact us](http://www.mountvernon.org/about/contact-us/). If we discover that a child under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+
+**Changes To This Privacy Policy**
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please [contact us](http://www.mountvernon.org/about/contact-us/).
