@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622023618id_/http%3A//www.veeam.com/privacy_policy.html%3Fad%3Dfooter-bottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213459id_/http%3A//www.veeam.com/privacy_policy.html%3Fad%3Dfooter-bottom) for the most accurate reproduction.*
 
 # Veeam: Privacy Policy- safeguarding your privacy online.
 
