@@ -1,58 +1,73 @@
-> *The following text is extracted and transformed from the maebag.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612013639id_/http%3A//www.maebag.com/general.php%3Fid%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maebag.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220185644id_/http%3A//www.maebag.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Online Shop from Cochin for Malayalam Books, Malayalam DVD, Churidar Materials, Funskool Toys, Kerala Sarees, Gifts to Kerala
+# Online shopping from Cochin for Malayalam books, movies, dvds, Kerala Sarees, Churidar Materials, Christmas Gifts to Kerala, Birthday gifts to Kerala, Anniversary Gifts to Kerala
 
-## About MaEbag.com
+## Privacy Policy
 
-**MaEbag.com** is the largest online store from Kerala. We are the only online super store from Kerala serving more than 25,000 customers across the world. We started in 2004 as a small online store selling Malayalam Music and Movies. Now, we sell products in a wide range of departments - Movies, Music, Malayalam Books, Apparels, Cakes and chocolates, Gifts, Imitation ornaments and many more.
+This privacy policy sets out how MaEbag.com uses and protects any information that you give MaEbag.com when you use this website. **MaEbag.com** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. MaEbag.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1-Jan-2010.
 
-With a customer base of 25,000 people and 8 years into operations as a trusted online store, we are associated with many partners such as Mathrubhumi, Daily Malayalam etc. MaEbag.com is the online store provider for mathrubhumi shopping. Our team is very robust and we are here to do business and help our customers to fulfil their needs in buying things from us. Our motto is to serve our customers and provide them the best products at the most reasonable prices. Also, we are committed in meeting the objectives of our investors and stake holders. Our Contact Information MaEbag.com, 35/926, B1, Rajbhavan, Power House Road, Palarivattom, Cochin 25 Phone +91 484 2102069, +91 98954 74333 Email- info@maebag.com 
+### What we collect
 
-## Contact Address
+**We may collect the following information:**
 
-If you have a query about **MaEbag.com** and its products, services, quality, discounts, bulk purchase options or any other things you may want to know from us please send an email to **info@maebag.com**.
-
-Based on the nature of the query, we will respond to you in 2-3 business days.
-
-We can be reached at the below address and phone numbers as well.
-
-**Our Contact details**
-
-MaEbag.com  
-35/926, B1, Rajbhavan, Power House Road,  
-Palarivattom, Cochin 25  
-Phone: +91 98954 96555, +91 98954 74333  
-Email- info@maebag.com  
+  * Name and job title
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
 
-Welcome to MaEbag.com. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern MaEbag.com's relationship with you in relation to this website. The term 'MaEbag.com' or 'us' or 'we' refers to the owner of the website whose registered office is 35/926, B1, Rajbhavan, Power House Road, Palarivattom, Cochin, Kerala, India. Our company registration number is C14/10102/2005-06 Cochin. The term 'you' refers to the user or viewer of our website The use of this website is subject to the following terms of use: The content of the pages of this website is for your general information and use only. It is subject to change without notice. Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law. Your use of any information or materials on this website is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this website meet your specific requirements. This website contains material which is owned by or licensed to us. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions. All trade marks reproduced in this website which are not the property of, or licensed to, the operator are acknowledged on the website. Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence. From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s). You may not create a link to this website from another website or document without MaEbag.com� s prior written consent. Your use of this website and any dispute arising out of such use of the website is subject to the laws of India or other regulatory authority. I agree to pay the customs duty (if any) in addition to the shipping charges at the time of receipt of the consignment.. 
 
-Privacy Policy This privacy policy sets out how MaEbag.com uses and protects any information that you give MaEbag.com when you use this website. MaEbag.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. MaEbag.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1-Jan-2010. What we collect We may collect the following information: Name and job title Contact information including email address Demographic information such as postcode, preferences and interests Other information relevant to customer surveys and/or offers What we do with the information we gather We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: Internal record keeping. We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. Security We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. How we use cookies A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. Links to other websites Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. Controlling your personal information You may choose to restrict the collection or use of your personal information in the following ways: Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@maebag.com We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to the contact address mentioned below. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. Contacting Us If there are any questions regarding this privacy policy you may contact us using the information below: Company Name: MaEbag Address: 32/925, Powerhouse Road, Palarivattom, Cochin, Kerala, India Telephone No: +91 484 2102069 E-Mail ID: info@maebag.com 
+**What we do with the information we gather**
 
-The information contained in this website is for general information purposes only. The information is provided by MaEbag.com and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk. 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this website. 
-
-Through this website you are able to link to other websites which are not under the control of MaEbag.com. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. 
-
-Every effort is made to keep the website up and running smoothly. However, MaEbag.com takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control. 
-
-For International buyers, orders are shipped and delivered through registered international courier companies and/or International speed post only. For domestic buyers, orders are shipped through registered domestic courier companies and /or speed post only. Orders are shipped within 5 working days for domestic and 10 working days for international shipments or as per the delivery date agreed at the time of order confirmation and delivering of the shipment subject to Courier Company / post office norms. MaEbag.com is not liable for any delay in delivery by the courier company / postal authorities and only guarantees to hand over the consignment to the courier company or postal authorities within 15 working days from the date of the order and payment or as per the delivery date agreed at the time of order confirmation. Delivery of all orders will be to registered address of the buyer as per the credit/debit card only at all times (Unless specified at the time of Order). MaEbag.com is in no way responsible for any damage to the order while in transit to the buyer. 
-
-**Payments**  
-MaEbag.com is proud to use multiple payment gateways for fast, easy and efficient secure payments. We use CCAvenue and EBS as our payment gateways. All major credit cards are accepted. Also, you can pay by cheque, demand draft, online bank transfer or cash deposit at any branches of ICICI or Axis bank in India. 
-
-**Shipping & Delivery Policy (Services) **  
-Delivery of our services will be confirmed on your mail ID as specified during registration. For any issues in utilizing our services you may contact our helpdesk on (contact number)  
- **How the delivery charge is calculated for multiple units and some products**  
-The shipping charge is based on the weight of the product. For multiple products ordered from the same category the programme adds up the weight of all the units ordered and charges a single delivery fee. 
-
-Shipping charges are calculated as per the weight of the consignment. Shipping charges are calculated on the base of slabs of 500 grams each. Minimum weight is 500 grams. Shipping charges differ from country to country. Please see a list of all shipping charges to all countries here. 
-
-MaEbag.com believes in helping its customers as far as possible, and has therefore a liberal cancellation policy. Under this policy:
-
-  * � Cancellations will be considered only if the request is made within 72 hours of placing an order. However, the cancellation request will not be entertained if the orders have been communicated to the vendors/merchants and they have initiated the process of shipping them.
-  * � There is no cancellation of orders placed under the Same Day Delivery category.
-  * � No cancellations are entertained for those products that the MaEbag.com marketing team has obtained on special occasions like Onam, Christmas, Pongal, Diwali, Valentine�s Day etc. These are limited occasion offers and therefore cancellations are not possible.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+  * We may use the information to customise the website according to your interests.
 
 
+
+### Security
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+
+### How we use cookies 
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+
+### Links to other websites 
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+### Controlling your personal information 
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@maebag.com
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to the contact address mentioned below. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+### Contacting Us 
+
+If there are any questions regarding this privacy policy you may contact us using the information below: 
+
+Company Name: MaEbag 
+
+Address: 32/925, Powerhouse Road, Palarivattom,  
+Cochin, Kerala, India 
+
+Telephone No: +91 484 2102069 
+
+E-Mail ID: info@maebag.com
