@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the kony.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626012207id_/http%3A//www.kony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kony.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220191158id_/http%3A//www.kony.com/privacy-policy) for the most accurate reproduction.*
 
 # Kony Privacy Policy | Kony
 
-This privacy policy tells you about Kony, Inc.’s policies and practices for the collection, use, processing, storage, and disclosure of information that we collect about you through our websites and services. It applies to your use of our website located at [http://www.kony.com](http://www.kony.com/) (the "website"), but does not apply to any third party sites that may be linked to our website.
+## Kony Data Privacy Policy
+
+This privacy policy tells you about Kony, Inc.’s policies and practices for the collection, use, processing, storage, and disclosure of information that we collect about you through our websites and services. It applies to your use of our website located at http://www.kony.com (the "website"), but does not apply to any third party sites that may be linked to our website.
 
 The terms "we," "us," "our," and "Kony PAAS" refer to Kony, Inc.  The terms "you" and "your" refer to you, as a subscriber of our services. The term "personal information" means information that you provide to us which personally identifies you, such as your name, phone number, email address, and other data that is tied to such information. By using our website and services you agree to be bound by the terms of this privacy policy. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE KONY PAAS.
 
@@ -28,7 +30,7 @@ _Transfer of data to third parties_
 
 Kony does not share, sell, rent, or trade personal data with third parties for their promotional purposes. We do not partner with or have special relationships with any ad server companies.
 
-Kony does use third-party entities to provide valuable services on our behalf. To provide these services to you, we need your explicit consent to share your personal data with them. Third parties with which we share your information are bound by all relevant data privacy laws, terms of confidentiality, and this privacy policy. For a complete list of these third parties and the services they provide, [contact us](http://www.kony.com/contact).
+Kony does use third-party entities to provide valuable services on our behalf. To provide these services to you, we need your explicit consent to share your personal data with them. Third parties with which we share your information are bound by all relevant data privacy laws, terms of confidentiality, and this privacy policy. For a complete list of these third parties and the services they provide, [contact us](https://web.archive.org/contact).
 
 If your employer subscribed for the service on your behalf, then we may pass certain information to your employer about your use of the service where your employer has a legitimate reason to receive it.
 
@@ -58,4 +60,4 @@ Fax: 407-440-3738
 
 _Questions_
 
-If you have questions or concerns regarding this policy, please [contact us](http://www.kony.com/contact).
+If you have questions or concerns regarding this policy, please [contact us](https://web.archive.org/contact).
