@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomex.net privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604022555id_/http%3A//www.komli.com/in/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomex.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220194012id_/http%3A//www.komli.com/in/content/privacy-policy) for the most accurate reproduction.*
 
 # Komli Media | Privacy Policy
 
