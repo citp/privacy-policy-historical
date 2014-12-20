@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the businesspundit.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604231911id_/http%3A//www.businesspundit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesspundit.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220180408id_/http%3A//www.businesspundit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Filed in archive [Biz](http://www.businesspundit.com/category/biz/ "View all posts in Biz") by Ryan on November 22, 2006 | [No Comments](http://www.businesspundit.com/privacy-policy/#respond "Comment on Privacy Policy")
+Filed in archive [Biz](http://www.businesspundit.com/category/biz/) by Ryan on November 22, 2006 | [No Comments](http://www.businesspundit.com/privacy-policy/#respond "Comment on Privacy Policy")
 
 ## [Privacy Policy](http://www.businesspundit.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
