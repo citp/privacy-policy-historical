@@ -1,20 +1,13 @@
-> *The following text is extracted and transformed from the dropps.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104601id_/http%3A//dropps.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropps.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220204703id_/http%3A//dropps.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dropps®
 
 [](http://www.dropps.com/)
 
-  * [Scent Shop](https://web.archive.org/pages/scent-shop)
-    * [Fresh Scent](https://web.archive.org/collections/fresh-scent)
-    * [Lavender](https://web.archive.org/collections/lavender)
-    * [Orange Blossom](https://web.archive.org/collections/orange-blossom)
-    * [Wild Orchid](https://web.archive.org/collections/wild-orchid)
-    * [Alpine](https://web.archive.org/collections/alpine)
-    * [Petal](https://web.archive.org/collections/petal)
   * [Laundry](https://web.archive.org/pages/laundry)
     * [Detergents](https://web.archive.org/collections/detergents-laundry)
     * [Baby](https://web.archive.org/collections/baby-laundry)
-    * [In Wash Boosters + Softeners](https://web.archive.org/pages/laundry-in-wash-boosters)
+    * [In Wash Boosters and Softeners](https://web.archive.org/collections/in-wash-boosters-laundry)
   * [Baby](https://web.archive.org/pages/baby)
     * [Detergents](https://web.archive.org/collections/detergents-baby)
     * [In Wash Boosters](https://web.archive.org/collections/in-wash-boosters-baby)
@@ -22,22 +15,21 @@
     * [Detergents](https://web.archive.org/collections/detergents-scent-dye-free)
     * [Baby](https://web.archive.org/collections/baby-scent-dye-free)
     * [In Wash Boosters](https://web.archive.org/collections/in-wash-boosters-scent-dye-free)
-  * [Stain Fighting](https://web.archive.org/pages/stain-fighting)
-    * [Detergents](https://web.archive.org/collections/stain-fighting-detergents)
-    * [Baby](https://web.archive.org/collections/stain-fighting-baby)
-    * [In-Wash Boosters](https://web.archive.org/collections/stain-fighting-in-wash-boosters)
-  * [Dish](https://web.archive.org/collections/dish)
+  * [Scent Shop](https://web.archive.org/pages/scent-shop)
+    * [Fresh Scent](https://web.archive.org/collections/fresh-scent)
+    * [Lavender](https://web.archive.org/collections/lavender)
+    * [Orange Blossom](https://web.archive.org/collections/orange-blossom)
+    * [Wild Orchid](https://web.archive.org/collections/wild-orchid)
+    * [Petal](https://web.archive.org/collections/petal)
+  * [Dish Care](https://web.archive.org/collections/dish)
   * [Buy In Bulk](https://web.archive.org/pages/buy-in-bulk)
     * [Detergents](https://web.archive.org/collections/detergents-buy-in-bulk)
     * [Baby](https://web.archive.org/collections/baby-buy-in-bulk)
     * [Scent + Dye Free](https://web.archive.org/collections/scent-dye-free-buy-in-bulk)
-    * [In Wash Boosters](https://web.archive.org/pages/buy-in-bulk-in-wash-boosters)
+    * [In-Wash Boosters](https://web.archive.org/collections/buy-in-bulk-in-wash-boosters)
     * [Dish](https://web.archive.org/collections/dish-detergent-buy-in-bulk)
-  * [Auto-Ship](https://web.archive.org/pages/auto-ship)
-    * [Auto-Ship Detergents](https://web.archive.org/pages/auto-ship-detergent)
-    * [Auto-Ship Baby](https://web.archive.org/collections/auto-ship-baby)
-    * [Auto-Ship In-Wash Boosters](https://web.archive.org/pages/auto-ship-in-wash-boosters)
-    * [Auto-Ship Dish](https://web.archive.org/collections/auto-ship-dish)
+  * [About Us](https://web.archive.org/pages/our-story)
+  * [Our Blog](https://web.archive.org/blogs/spincycle)
 
 
 
