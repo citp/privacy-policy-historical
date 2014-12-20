@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gminsidenews.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629061208id_/http%3A//www.gminsidenews.com/forums/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gminsidenews.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220074312id_/http%3A//www.gminsidenews.com/forums/privacy-policy.php) for the most accurate reproduction.*
 
 # GM Inside News Forum Privacy Policy
 
