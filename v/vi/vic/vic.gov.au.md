@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vic.gov.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630145608id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vic.gov.au privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220015753id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Victorian Government
 
@@ -12,7 +12,7 @@ This privacy statement applies only to the www.vic.gov.au website and not to any
 
 www.vic.gov.au only requests you to provide personal information for the purposes of responding to your feedback. The purpose for collecting personal information is to provide feedback and answer queries that you have in respect of a particular site or the information you are trying to obtain and www.vic.gov.au will only use and/or disclose the information for these purposes. It is possible to provide feedback without providing your personal information although if you do this, we are unable to respond to you about your feedback or your query.
 
-Personal information that is collected by www.vic.gov.au will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Information Privacy Act 2000 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/1057e6ed22971413ca257bc60005daf9!OpenDocument).
+Personal information that is collected by www.vic.gov.au will be used by and disclosed to Victorian Government employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the [Privacy and Data Protection Act 2014 (Vic)](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/409fbd6322ca2b75ca257d5700232e36!OpenDocument).
 
 www.vic.gov.au uses a secure system to transmit your personal information via our feedback form. This means that any data you transmit using this form is encrypted and unable to be read by anyone outside our secure system.
 
@@ -25,8 +25,8 @@ The Manager, vic.gov.au may be contacted about access to, and correction of, per
 by completing our [feedback form](https://www.vic.gov.au/feedback.html)
     
 by post at:
-     Manager vic.gov.au  
-Information Victoria  
+     Product Lead - vic.gov.au  
+Digital Engagement  
 Department of State Development, Business and Innovation  
 GPO Box 4509  
 Melbourne Victoria 3001
@@ -53,7 +53,7 @@ You will know if www.vic.gov.au is collecting personal information from you beca
 
 The first exception is where someone else provides www.vic.gov.au with your personal information. www.vic.gov.au cannot prevent this. However, you are entitled to access and correct any personal information about you collected by www.vic.gov.au.
 
-The second exception is where www.vic.gov.au collects statistics using software techniques such as web server log file analysis, clickstream data, cookies and web beacons. For an explanation of these techniques, and how they are used on www.vic.gov.au, see Web measurement services used by www.vic.gov.au below. Such statistics may qualify as personal information under the _Information Privacy Act 2000 (Vic)_. However, these statistics are not used to identify individual users of www.vic.gov.au.
+The second exception is where www.vic.gov.au collects statistics using software techniques such as web server log file analysis, clickstream data, cookies and web beacons. For an explanation of these techniques, and how they are used on www.vic.gov.au, see Web measurement services used by www.vic.gov.au below. Such statistics may qualify as personal information under the _Privacy and Data Protection Act 2014 (Vic)_. However, these statistics are not used to identify individual users of www.vic.gov.au.
 
 ##  Internet Use Risk
 
@@ -119,4 +119,4 @@ Please be aware that privacy policies provided by social media websites may not 
 
 Also we advise that personally identifiable information or other information you share via social media or applications may be accessible by non-government third parties.
 
-This page was updated 6 February 2014.
+This page was updated 1 October 2014.
