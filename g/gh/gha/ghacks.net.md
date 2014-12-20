@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623213022id_/http%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghacks.net privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220045420id_/https%3A//www.ghacks.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | gHacks Technology News
 
