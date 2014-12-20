@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyfrontier.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513002613id_/http%3A//www.flyfrontier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyfrontier.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220073344id_/http%3A//www.flyfrontier.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,9 +44,9 @@ Except as otherwise described in this Privacy Policy, Frontier Airlines does not
 **Reviewing/Changing Personal Information.** You can review and edit any of the Personal Information you have provided through this Website at any time by logging into your account. Other requests for access to your Personal Information may be made by writing to:
 
 Attn. Customer Relations  
-Frontier Airlines, Inc.  
-7001 Tower Road   
-Denver, CO 80249-7312
+Frontier Airlines  
+PO Box 492085  
+Denver, CO 80249
 
 **Opting-Out.** You may opt-out of receiving communications about special offers or programs from Frontier Airlines or other information for which you subscribed by clicking on a link provided at the bottom of the email communication or by logging into your account to update your email preferences. You can visit the Network Advertising Initiative or Digital Advertising Alliance to find out which companies have currently enabled customized ads for your browser and opt out of browser-enabled interest-based advertising.
 
@@ -64,4 +64,4 @@ In addition to Frontier using cookies and web beacons on our network of websites
 
 **Miscellaneous.** This Privacy Policy shall be governed by and construed in accordance with the laws of the State of Colorado, other than such laws, rules, regulations and case law that would result in the application of the laws of a jurisdiction other than the State of Colorado. If any part of this Privacy Policy is determined to be invalid or unenforceable pursuant to applicable law, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of this Privacy Policy shall continue in force and effect.
 
-Copyright© 2013, Frontier Airlines, Inc. All Rights Reserved.
+Copyright© 2014, Frontier Airlines, Inc. All Rights Reserved.
