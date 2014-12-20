@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotbookmarking.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223040635id_/http%3A//www.hotbookmarking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotbookmarking.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220171248id_/http%3A//www.hotbookmarking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › HotBookmarking.com : Easiest social bookmarking to advertise your site | Promote your website by social bookmark submission | Share, organize & search your bookmarked news
 
