@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427195655id_/http%3A//www.catsone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220202821id_/http%3A//www.catsone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CATS Applicant Tracking System
 
@@ -8,11 +8,11 @@ This policy explains our information practices, defines your privacy options and
 
 This policy covers the website at http://www.catsone.com (the “Site”).
 
-By using visiting the Site, you agree to the collection and use of information in the manner described in this policy. CATS shall have right at any time and without prior notice, at its sole discretion, to revise this policy. Such revisions and additions shall be effective immediately upon notice, which may be given by any means, including but not limited to posting the revised or additional terms and conditions on the Site. You are responsible for reviewing the Site periodically for any modification to this policy.
+By visiting the Site, you agree to the collection and use of information in the manner described in this policy. CATS shall have right at any time and without prior notice, at its sole discretion, to revise this policy. Such revisions and additions shall be effective immediately upon notice, which may be given by any means, including but not limited to posting the revised or additional terms and conditions on the Site. You are responsible for reviewing the Site periodically for any modification to this policy.
 
 #### Information We Collect
 
-This policy applies to all information collected on the Site and any information you provide to CATS. You will most likely provide us personal information to us when you register as a Site user, participate in certain CATS promotions or use certain CATS services (collectively the “Services”). The personal information we collect may include: user ID, password, your name, your address, your email address and your phone number. The information you submit to CATS may also include text, photographs, video, graphics, music and any other materials you might submit as part of, or in conjunction with, your use of the Site or the Services.
+This policy applies to all information collected on the Site and any information you provide to CATS. You will most likely provide personal information to us when you register as a Site user, participate in certain CATS promotions or use certain CATS services (collectively the “Services”). The personal information we collect may include: user ID, password, your name, your address, your email address and your phone number. The information you submit to CATS may also include text, photographs, video, graphics, music and any other materials you might submit as part of, or in conjunction with, your use of the Site or the Services.
 
 #### Blogs and Message Areas
 
@@ -64,4 +64,4 @@ The Site may contain links to other websites. CATS is not responsible for the pr
 
 #### How to Contact Us
 
-Should you have privacy questions or concerns, please call us at 952-373-4010, send an email to support@catsone.com, or mail to CATS Software, Inc., 12 South 6th Street, Suite 614, Minneapolis, MN 55402 USA.
+Should you have privacy questions or concerns, please call us at 952-373-4010, send an email to support@catsone.com, or mail to CATS Software, Inc., 706 2nd Ave S, Suite 950, Minneapolis, MN 55402 USA.
