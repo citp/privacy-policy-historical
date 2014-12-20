@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryoutfitter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215336id_/http%3A//www.countryoutfitter.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryoutfitter.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220221624id_/http%3A//www.countryoutfitter.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -10,7 +10,7 @@ Thanks for visiting! We want to assure you that your privacy is safe with us at 
 
 ### Our visitors - Automatic Data Collection
 
-Like most websites, countryoutfitter.com collects non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally-identifying information is to better understand how our visitors use this website. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of this website.
+The countryoutfitter.com website is operated by Acumen Brands, Inc. Like most websites, countryoutfitter.com collects non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally-identifying information is to better understand how our visitors use this website. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of this website.
 
 Country Outfitter also collects potentially personally-identifying-information like Internet Protocol (IP) addresses. We do not use such information to identify our visitors, however, and do not disclose such information, other than under the same circumstances that we use and disclose personally-identifying information, as described below.
 
