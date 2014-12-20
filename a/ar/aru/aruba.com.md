@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aruba.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404094115id_/http%3A//www.aruba.com/contenido/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aruba.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220184058id_/http%3A//www.aruba.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Aruba.com Privacy Policy
 
@@ -94,13 +94,17 @@ In order to provide certain services to you, we may on occasion supplement the p
 
 **3.1 Aggregate Information (non-personally identifiable)**
 
-We share aggregated demographic information about our user base with our partners and advertisers. Aggregated information is information about more than one individual, where the identity of the individual is not known, and cannot be inferred from the information. Sharing this information permits our advertisers to know whether our Site will permit the advertisers to target their goods and services to a specific demographic (for example, to know whether there are any unmarried, over-40 year old scuba divers in our user base). In such circumstances, however, we do not link aggregate user data with personally identifiable information of a specific User. You may elect not to have yur information shared as aforesaid through our opt-out mechanism located at: <http://www.adsrvr.org/>. 
+We share aggregated demographic information about our user base with our partners and advertisers. Aggregated information is information about more than one individual, where the identity of the individual is not known, and cannot be inferred from the information. Sharing this information permits our advertisers to know whether our Site will permit the advertisers to target their goods and services to a specific demographic (for example, to know whether there are any unmarried, over-40 year old scuba divers in our user base). In such circumstances, however, we do not link aggregate user data with personally identifiable information of a specific User. You may elect not to have your information shared as aforesaid through our opt-out mechanism located at: <http://www.adsrvr.org/>. 
 
 **3.2 Personally identifiable information**
 
 We may share your personally identifiable information in the following ways: 
 
 Agents. We may use an outside shipping company to fulfill orders, and a credit card or other payment processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes, and are contractually bound to implement appropriate security measures to protect such personally identifiable information and to use the personal information only to perform the services for which they are hired.
+
+**3.3 Google Analytics**
+
+We use Google Analytics and have recently implemented Google Analytics Demographics and Interest Reporting. However, data collected as a result of our use of Google Analytics is only used internally to enhance our users’ experience using this site and for our own internal marketing purposes. Such data is shared with our partners and advertisers only as aggregate information, as specified in Section 3.1 above. Also, please note that by using Ads Settings you may be able to opt-out of Google Analytics.
 
 **4\. Legal Disclaimer**
 
