@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nowtv.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331070723id_/http%3A//www.nowtv.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nowtv.com privacy policy that was archived on 2014-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221000405id_/http%3A//watch.nowtv.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="ng-app" ng-app="nowtv" ng-controller="AppCtrl" class="no-js" lang="en" data-version="2"><!--<![endif]--><head>
     <title>Privacy &amp; Cookies | NOW TV</title>
@@ -29,16 +29,14 @@ var NOWTV = NOWTV || {};
   "secureServerURL": "https://watch.nowtv.com",
   "cmsUrls": {
     "sports": "http://www.nowtv.com/sports",
-    "movies": "http://www.nowtv.com/movies"
-  },
-  "liveAgent": {
-    "deploymentURL": "https://c.la1w1.salesforceliveagent.com/content/g/deployment.js"
+    "movies": "http://www.nowtv.com/movies",
+    "entertainment": "http://www.nowtv.com/entertainment"
   },
   "epg": {
     "domain": "nowtv.com",
-    "frameSrc": "http://tvguide.nowtv.com/embedded-guide?externalCss=http://watch.nowtv.com/css/epg.css&externalJs=http://watch.nowtv.com/assets/fake/epgOverrides.js&channelList=1301,1302,1306,1322,1333,1314&domain=nowtv.com",
+    "frameSrc": "http://tvguide.nowtv.com/embedded-guide?channelList=1314,1301,1302,1333,1322,1303,1306&domain=nowtv.com&externalCss=http://watch.nowtv.com/assets/listings-aee436f5fd5ada1457f5af909304907f.css&externalJs=http://watch.nowtv.com/assets/epgOverrides-95edbc8013d9eb0771c29262e161ac25.js",
     "imageServerURL": "http://epgstatic.sky.com/epgdata/1.0/paimage/81/0/",
-    "defaultChannel": "1301"
+    "defaultChannel": "1314"
   },
   "webServices": {
     "customer": "/webservices/customer",
@@ -59,14 +57,17 @@ var NOWTV = NOWTV || {};
   },
   "urls": {
     "sports": "http://watch.nowtv.com/sports",
+    "sportsListings": "http://watch.nowtv.com/sports/listings",
     "movies": "http://watch.nowtv.com/movies",
+    "entertainment": "http://watch.nowtv.com/entertainment",
     "genres": "http://watch.nowtv.com/movies/genres",
+    "moviesExplorer": "http://watch.nowtv.com/movies/explorer",
     "collections": "http://watch.nowtv.com/movies/collections",
     "liveTv": "http://watch.nowtv.com/movies/livemovies",
-    "ents": "http://watch.nowtv.com/entertainment",
     "entsGenres": "http://watch.nowtv.com/entertainment/genres",
     "entsChannels": "http://watch.nowtv.com/entertainment/channels",
     "entsLiveTv": "http://watch.nowtv.com/entertainment/livetv",
+    "entertainmentExplorer": "http://watch.nowtv.com/entertainment/explorer",
     "myTv": "http://watch.nowtv.com/mytv",
     "help": "http://watch.nowtv.com/help",
     "community": "http://watch.nowtv.com/community",
@@ -74,141 +75,57 @@ var NOWTV = NOWTV || {};
     "terms": "http://watch.nowtv.com/terms",
     "blog": "http://watch.nowtv.com/blog",
     "nowTvBoxLink": "http://shop.nowtv.com",
-    "endEventProxy": "http://watch.nowtv.com/stream/event?eventUrl=",
     "almostDone": "https://watch.nowtv.com/setup/almostdone"
   },
   "features": {
     "nowTvBoxLink": true
   },
   "player": {
-    "version": "1.7.5148.30373",
+    "version": "2.0.5415.41605",
     "domain": ".nowtv.com",
-    "playerXap": "/xap/1.7.5148.30373/player.xap",
-    "miniClientExtensionXap": "/xap/1.7.5148.30373/MiniClientExtension.xap",
+    "playerXap": "/xap/2.0.5415.41605/player.xap",
+    "miniClientExtensionXap": "/xap/2.0.5415.41605/MiniClientExtension.xap",
     "convivaConfigEnabled": false
+  },
+  "channelColours": "",
+  "mentionMe": {
+    "urls": {
+      "dashboard": "https://tag.mention-me.com/api/v2/dashboard/mmfe2eed5d",
+      "convert": "https://tag.mention-me.com/api/v2/order/mmfe2eed5d"
+    }
   }
 };
 })(NOWTV);
                
 
-
+    
 
         (function(w){w.EventCollector=function(rethrowOriginalError){this.rethrowOriginalError=rethrowOriginalError===undefined?true:rethrowOriginalError;this.bindOnErrorHandler()};w.EventCollector.prototype={LOG_URL:"http://log.nowtv.com/log",LOG_ORIGIN:"nowtv-prod",METHOD:"post",SEVERITY:{ERROR:"error"},TYPE:{GLOBAL:"global"},previousHandler:null,destroy:function(){this.unbindOnErrorHandler()},onError:function(){try{var xhr=this.getXhrObject(),payload=this.createLogPayload.apply(this,arguments);xhr.send(JSON.stringify(payload))}catch(err){}},sendError:function(severity,type,message,errorCode){try{var xhr=this.getXhrObject(),payload=this.createLogPayload(severity,type,message);if(errorCode){payload.errorCode=errorCode}xhr.send(JSON.stringify(payload))}catch(err){}},getProfileId:function(){var profileId=document.cookie.replace(/(?:(?:^|.*;\s*)just\s*\=\s*([^;]*).*$)|^.*$/,"$1");return profileId?parseInt(profileId,10):null},createLogPayload:function(severity,type,message,fileName,lineNumber){return{origin:this.LOG_ORIGIN,severity:severity,type:type,message:message,location:fileName?fileName+":"+lineNumber:"",profileId:this.getProfileId(),href:this._getWindowLocationHref()}},_getWindowLocationHref:function(){return window.location.href},bindOnErrorHandler:function(){if(!this.previousHandler){var self=this;this.previousHandler=w.onerror;w.onerror=function(message,fileName,lineNumber){try{self.onError.call(self,self.SEVERITY.ERROR,self.TYPE.GLOBAL,message,fileName,lineNumber)}catch(ex){self.triggerPreviousOnError(ex.message,ex.fileName,ex.lineNumber)}if(self.rethrowOriginalError){self.triggerPreviousOnError(message,fileName,lineNumber)}}}},triggerPreviousOnError:function(){if(typeof this.previousHandler==="function"){this.previousHandler.apply(window,arguments)}},unbindOnErrorHandler:function(){if(this.previousHandler){w.onerror=this.previousHandler;this.previousHandler=null}},getXhrObject:function(){var xhr=new XMLHttpRequest;if(!("withCredentials"in xhr)&&typeof XDomainRequest!="undefined"){xhr=new XDomainRequest;xhr.open(this.METHOD,this.LOG_URL)}else{xhr.open(this.METHOD,this.LOG_URL,true);xhr.setRequestHeader("Content-Type","application/json")}return xhr}}})(window)
         window.PRE_NOWTV = {};
         window.PRE_NOWTV.ec = new EventCollector();
 
-
+    
+    window.universal_variable = window.universal_variable || {}; universal_variable.events = universal_variable.events || [];
 </script>
 
-<script>
-    window["adrum-app-key"] = "AD-AAB-AAA-DKS";
-    window["adrum-start-time"] = new Date().getTime();
-</script>
+
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-95091-1126102.js" async="" defer="" type="text/javascript"></script>
 <script src="//web.static.nowtv.com/ice/3.0.4/js/iceberg.widget.bundle.js"></script>
 
-    <script src="/assets/base-head-65abcf19085b468122d92d94e888dd5f.js" type="text/javascript"></script>
-    <link rel="stylesheet" href="/assets/base-458a08cf2242ffe22bcaede1351c7bc6.css">
+    <script src="/assets/base-head-103b18002e8cfe4e753174e8292d4cdf.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/assets/screen-68111588cdf9d14f778fa0f1980317bb.css">
 
     <script>
         (function(ntv) {
 
             ntv.dfa = { trackingURL: '//fls.doubleclick.net/activityi;src=3662759;', env: '' };
-            ntv.genres = ntv.genres || {};ntv.genres.movies = [
-  {
-    "title": "View All",
-    "url": "http://watch.nowtv.com/movies/genres"
-  },
-  {
-    "title": "Action",
-    "url": "http://watch.nowtv.com/movies/genres/action"
-  },
-  {
-    "title": "Classic",
-    "url": "http://watch.nowtv.com/movies/genres/classic"
-  },
-  {
-    "title": "Comedy",
-    "url": "http://watch.nowtv.com/movies/genres/comedy"
-  },
-  {
-    "title": "Disney",
-    "url": "http://watch.nowtv.com/movies/genres/disney"
-  },
-  {
-    "title": "Drama",
-    "url": "http://watch.nowtv.com/movies/genres/drama"
-  },
-  {
-    "title": "Factual",
-    "url": "http://watch.nowtv.com/movies/genres/factual"
-  },
-  {
-    "title": "Family",
-    "url": "http://watch.nowtv.com/movies/genres/family"
-  },
-  {
-    "title": "Horror",
-    "url": "http://watch.nowtv.com/movies/genres/horror"
-  },
-  {
-    "title": "Indie",
-    "url": "http://watch.nowtv.com/movies/genres/indie"
-  },
-  {
-    "title": "Romance",
-    "url": "http://watch.nowtv.com/movies/genres/romance"
-  },
-  {
-    "title": "Sci-fi",
-    "url": "http://watch.nowtv.com/movies/genres/sci-fi"
-  },
-  {
-    "title": "Thriller",
-    "url": "http://watch.nowtv.com/movies/genres/thriller"
-  }
-];ntv.genres.entertainment = [
-  {
-    "title": "View All",
-    "url": "http://watch.nowtv.com/entertainment/genres"
-  },
-  {
-    "title": "Comedy",
-    "url": "http://watch.nowtv.com/entertainment/genres/comedy"
-  },
-  {
-    "title": "Documentaries",
-    "url": "http://watch.nowtv.com/entertainment/genres/documentaries"
-  },
-  {
-    "title": "Drama",
-    "url": "http://watch.nowtv.com/entertainment/genres/drama"
-  },
-  {
-    "title": "Entertainment",
-    "url": "http://watch.nowtv.com/entertainment/genres/entertainment"
-  },
-  {
-    "title": "Kids",
-    "url": "http://watch.nowtv.com/entertainment/genres/kids"
-  },
-  {
-    "title": "Music and Arts",
-    "url": "http://watch.nowtv.com/entertainment/genres/music-and-arts"
-  }
-];
 
-            var supportsPlaceholder = Modernizr.input.placeholder,
-    isLargeDeviceOrIe8  = ( Modernizr.mq('only screen and (min-device-width: 1025px)') || !Modernizr.touch || ($('html').hasClass('lt-ie9')) );
+            var supportsPlaceholder = Modernizr.input.placeholder;
 
 ntv.load([
     {
         test: supportsPlaceholder,
         nope: [ '/assets/polyfills/placeholder-ed18faa1b83ed3f3995a984a515f0cb4.js' ]
-    },
-    {
-        test: isLargeDeviceOrIe8,
-        yep: [ '/assets/modules/liveSearch-eb2e6dca0c71747461badac2d04f9117.js' ],
-        callback: function() { ntv.livesearch = new ntv.LiveSearch(); }
     }
 ]);
 
@@ -227,346 +144,382 @@ ntv.session = ntv.session || {};
 
     
 
-    <link href="http://www.nowtv.com/resources/terms.css" type="text/css" rel="stylesheet" media="screen, projection"><script src="http://www.nowtv.com/resources/terms.js" type="text/javascript"></script>
-    <link href="http://www.nowtv.com/resources/cookie-banner.css" type="text/css" rel="stylesheet" media="screen, projection"><script src="http://www.nowtv.com/resources/cookie-banner.js" type="text/javascript"></script>
 </head>
 
-<body>
-    <div class="ib-cookie-info-container"><div class="ib-cookie-info"><a class="dismiss" href="#" style=""></a><p class="message">Cookies remember you so we can give you a better service online. By using this website or closing this message, you are agreeing to our <a href="http://www.nowtv.com/privacy">Cookies notice</a>.</p></div></div>
+<body ntv-scrolled="">
 
-    <div id="pageNotification">
-        <div class="notification">
-            <div class="message"></div>
+    
+<div data-notification="pageNotification" class="l-notification">
+    <div data-notification-body="" class="notification">
+        <div data-notification-msg="" class="notification-message"></div>
+        <a data-notification-close="" href="javascript:void(0);" class="l-notification-close notification-close"><i class="icon-close-dark" text=""></i></a>
+    </div>
+</div>
+
+    <script type="text/ng-template" id="partials/maintenance.html"><div class="t-moody l-curtain">
+    <section class="l-fixed-container">
+        <div class="l-full-body l-firstblock">
+            <h1>Maintenance Message</h1>
+            <p>This section of the site is currently down for maintenance. We will be back soon.</p>
+        </div>
+    </section>
+</div></script>
+    <script type="text/ng-template" id="partials/notFound.html"><div class="t-moody l-curtain">
+    <section class="l-fixed-container">
+        <div class="l-full-body l-firstblock">
+            <h1>Not Found</h1>
+            <p>The page you've requested couldn't be found. Please try another link or click the back button on your browser.</p>
+        </div>
+    </section>
+</div>
+</script>
+    <script type="text/ng-template" id="partials/searchSuggestions.html"><div data-t-search>
+    <input class="search-input_resizeable" ng-class="{ 'is-focused': inputHasFocus }" ng-model="query" name="query" ng-keydown="keydown($event)" data-search-query />
+    <ul class="l-list-stacked search-suggest" data-search-suggest ng-mouseenter="setSuggestionsInUse(true)" ng-mouseleave="setSuggestionsInUse(false)">
+        <li class="search-suggest-item" ng-class="{ 'is-selected': suggestion.isSelected }"
+            ng-repeat="suggestion in suggestions"
+            ng-click="selectSuggest(suggestion)"
+            ng-bind-html="suggestion.getTitle() | suggestion:query" ng-mouseover="selectSuggestion(suggestion)" data-t-search-suggest-item></li>
+    </ul>
+</div></script>
+    <script type="text/ng-template" id="partials/navigationMenu.html"><nav class="l-leftcolumn nav" data-nav-target ng-mouseenter="show($event)" ng-mouseleave="hide($event)" ng-class="{ 'is-open': open }">
+    <ul class="nav-links">
+        <li ng-repeat="link in navigation" ntv-navigation-item link="link"></li>
+    </ul>
+</nav></script>
+    <script type="text/ng-template" id="partials/navigation/navigationCurrent.html"><nav class="l-leftbar" data-t-nav-current>
+    <a href="#" data-nav-trigger class="l-leftbar-primary menubar-navlink" ng-class="{ 'is-menu-open': isMenuOpen }">
+        <h1 class="menubar-pagename">
+            <i class="icon-menu"></i>{{currentPage}}
+        </h1>
+    </a>
+</nav>
+</script>
+    <script type="text/ng-template" id="partials/navigation/navigationItem.html"><li class="t-{{ link.title | lowercase | removeWhiteSpaces }}" data-t="{{link.title}}">
+    <a ng-href="{{ link.url }}" class="nav-links-heading" ng-class="{'is-active': isActive, 'is-selected': isSelected}" >{{ link.title }}
+    </a>
+    <ul ng-show="link.subNav">
+        <li ng-repeat="subLink in link.subNav">
+            <a ng-href="{{ subLink.url }}" ng-class="{'is-selected': subLink.isSelected }" data-t="{{subLink.title}}">{{ subLink.title }}</a>
+        </li>
+    </ul>
+</li></script>
+    <script type="text/ng-template" id="partials/globalUserMenu.html"><nav id="userMenu" class="l-rightbar menubar-statenav" data-t-user-menu>
+    <ul class="l-list-inline">
+        <li class="menu-bar-search">
+            <div ntv-search-suggest></div>
+        </li><li
+            ><a ng-show="!customer.isAuthenticated()" ng-href="{{signInUrl()}}" data-t-sign-in>{{titles.signIn}}</a></li><li
+            ><a ng-show="customer.hasWallet()" ng-href="{{urls.myAccount}}" data-t-account ng-class="{'is-active': myAccount }">{{titles.myAccount}}</a></li><li
+            ><a ng-show="customer.isAuthenticated()" ng-href="{{urls.signOut}}" data-t-sign-out>{{titles.signOut}}</a></li><li
+            ><a ng-href="{{urls.help}}" data-t-help>{{titles.help}}</a></li>
+    </ul>
+</nav></script>
+    <script type="text/ng-template" id="partials/overlay.html"><div ng-show="show">
+    <div class="l-curtain overlay-shim" data-t-overlay-shim>
+        <div class="l-overlay-progress overlay-progress" ng-show="spinner"></div>
+    </div>
+    <div class="l-wrapper overlay" id="{{id}}" data-t-overlay>
+        <div class="l-overlay-container">
+            <div ng-class="{'t-moody': defaultStyle }" class="l-overlay {{style}}">
+                <a class="l-overlay-close overlay-close" ng-if="defaultStyle" ng-click="close()" data-t-overlay-close><i class="icon-close"></i></a>
+                <div ng-class="{'box no-spacing box-section': defaultStyle}" data-overlay-content></div>
+            </div>
         </div>
     </div>
-
-    <script type="text/ng-template" id="partials/navigation.html"><ul>
-    <li class="nav_{{ link.title | lowercase | removeWhiteSpaces }}" ng-class="selected(link.sectionIds)" ng-repeat="link in navigation">
-        <a ng-href="{{ link.url }}">{{ link.title }}</a>
-        <ul class="sub-nav" ng-show="link.subNav">
-            <li class="nav_{{ subLink.title | lowercase }}" ng-repeat="subLink in link.subNav" ng-class="selected(subLink.sectionIds)">
-                <a ng-href="{{ subLink.url }}">{{ subLink.title }}</a>
-                <div class="dropdown clearfix browse-list genres" ng-show="subLink.dropDown">
-                    <ul ng-class="{'last-child': $last}" ng-repeat="column in subLink.dropDown">
-                        <li ng-repeat="genre in column">
-                            <a ng-href="{{genre.url}}">{{genre.title}}</a>
-                        </li>
-                    </ul>
-                </div>
-            </li>
-        </ul>
+</div></script>
+    <script type="text/ng-template" id="partials/progress.html"></script>
+    <script type="text/ng-template" id="partials/deviceSlots.html"><ul class="devices">
+    <li ng-repeat="device in devices"
+        id="device_{{device.id}}"
+        data-device-id="{{device.id}}"
+        data-t-device
+        ntv-device-slot device="device" index="{{$index}}" changesleft="{{changesLeft}}">
     </li>
 </ul></script>
-    <script type="text/ng-template" id="partials/globalUserMenu.html"><nav id="userMenu" class="user-menu clearfix">
-    <a ng-show="!customer.isAuthenticated()" ng-href="{{signInUrl()}}" class="sign-in">{{titles.signIn}}</a>
-
-    <a ng-show="customer.hasWallet()" ng-href="{{urls.myAccount}}" class="my-account">{{titles.myAccount}}</a>
-    <a ng-show="customer.isAuthenticated()" ng-href="{{urls.signOut}}" class="sign-out">{{titles.signOut}}</a>
-    <a ng-href="{{urls.help}}" class="help">{{titles.help}}</a>
-    <a ng-href="{{urls.community}}" class="community">{{titles.community}}</a>
-    <a ng-href="{{urls.blog}}" class="blog">{{titles.blog}}</a>
-</nav></script>
-    <script type="text/ng-template" id="partials/overlay.html"><div class="overlay-container" ng-show="show">
-    <div class="overlay-shim" ng-click="close()"></div>
-    <div class="overlay">
-        <button class="close" ng-click="close()">close</button>
-        <div class="overlay-content" ng-transclude ng-class="{'short': isShortWindow}"></div>
-        <div class="overlay-progress"></div>
-    </div>
-</div>
-</script>
-    <script type="text/ng-template" id="partials/progress.html"><div>
-    <div class="progress-bar" ng-show="progress.isCurrent">
-        <p class="time-elapsed"><span>{{progress.elapsedTime}}</span> / {{progress.runTime}} mins</p>
-        <progress max="{{progress.duration}}" value="{{progress.progress}}">
-            <div class="progress-fallback"><div class="progress-so-far" style="width:{{progress.progressPercentage}}%;"></div></div>
-        </progress>
-    </div>
-
-    <time ng-hide="progress.isCurrent" datetime="{{progress.dateTime}}">{{progress.startTime}}</time>
-</div>
-</script>
-    <script type="text/ng-template" id="partials/deviceSlots.html"><div>
-    <p>
-        You can add one device per month, up to your limit of 4.
-    </p>
-
-    <ol class="devices">
-
-        <li ng-repeat="device in devices"
-            id="device_{{device.id}}"
-            data-device-id="{{device.id}}"
-            ng-class="{ 'even': ($index + 1) % 2 == 0, 'unassigned': (!device.id && !device.loading), 'loading': device.loading }"
-            ntv-device-slot device="device" index="{{$index}}" changesleft="{{changesLeft}}">
-        </li>
-    </ol>
-</div>
-</script>
     <script type="text/ng-template" id="partials/deviceSlot.html"><li>
-    <table border="0" cellpadding="0" cellspacing="0" class="device-slot">
-        <thead>
-            <tr>
-                <th scope="col">Device Number</th>
-                <th scope="col">Device Type</th>
-                <th scope="col">Device Details</th>
-                <th scope="col">Actions</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr ng-show="device.loading">
-                <td class="slot-number">
-                    {{getSlotNumber()}}
-                </td>
-                <td colspan="3">
-                    loading devices...
-                </td>
-            </tr>
-            <tr ng-show="isLoaded() && !isRenaming()">
-                <td class="slot-number">
-                    {{getSlotNumber()}}
-                </td>
-                <td class="device-type" ng-class="['device-type', '{{device.type.toLowerCase()}}']">{{device.type}}</td>
-                <td>
-                   <span class="device-name">{{device.name}}</span>
-                   <span class="device-firstUsed" ng-show="device.firstUsed">Date added: {{device.firstUsed | dayMonthYear}}</span>
-                   <span class="current-device" ng-show="device.currentDevice">(current device)</span>
-                </td>
-                <td class="slot-actions">
-                    <button data-t-remove-btn data-device-id="{{device.id}}" class="btn" ng-click="removeDevice()">Remove</button>
-                    <a data-t-rename-link href="javascript:void(0);" title="Rename Device" data-device-id="{{device.id}}" ng-click="renameDevice()">Rename</a>
-                </td>
-            </tr>
-            <tr ng-show="isRenaming()">
-                <td class="slot-number">
-                    {{getSlotNumber()}}
-                </td>
-                <td class="device-type" ng-class="['device-type', '{{device.type.toLowerCase()}}']">{{device.type}}</td>
-                </td>
-                <td colspan="2">
-                    <form name="renameForm" novalidate>
-                        <input type="text" name="renameDevice" autocomplete="off"
-                               ng-model="device.name"
-                               required
-                               ng-pattern="deviceNameRegex"
-                               data-t-rename-device class="rename-field" />
-                        <button type="submit" class="btn" ng-click="saveRename()" ng-disabled="renameForm.$invalid || device.invalidDeviceName" data-t-save-btn>Save</button>
-                        <button class="btn inverse-btn" ng-click="cancelRename()" data-t-cancel-btn>Cancel</button>
-                        <div class="validation-message">
-                            <p data-t-invalid="{{index}}" ng-show="renameForm.$invalid || device.invalidDeviceName">
-                                Up to 18 characters. Letters and numbers only</p>
-                        </div>
-                    </form>
-                </td>
-            </tr>
-            <tr ng-show="isUnassigned()">
-                <td class="slot-number">
-                    {{getSlotNumber()}}
-                </td>
-                <td colspan="3">
-                    Unused slot<br />
-                    A new device will be automatically registered the first time you watch from it.
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</li>
-
-</script>
-
-    <div class="user-navbar">
-        <div class="navbar">
-            <div ntv-user-menu=""></div>
+    <div class="device" ng-cloak ng-show="isLoaded() && !isRenaming()">
+        <div class="l-list-icon device-icon">
+            <i data-t-device-icon class=" icon-{{device().type.toLowerCase()}}"></i>
         </div>
+        <div class="l-list-label">
+            <span class="device-name" data-t-device-name>{{device().name}}</span>
+            <p ng-show="device().firstUsed" class="no-spacing" data-t-device-added>Added: {{device().firstUsed | dayMonthYear}}</p>
+        </div>
+        <button class="l-list-action button" data-t-remove-btn data-device-id="{{device().id}}" ng-click="removeDevice()">Delete</button>
+        <button class="l-list-action l-omega button" data-t-rename-link data-device-id="{{device().id}}" ng-click="renameDevice()">Rename</button>
     </div>
 
-    <div class="nowtv">
-        <div class="grid">
-
-            <header class="site-header">
-                <div class="logo">
-                    <a href="http://watch.nowtv.com" class="logo-link" title="NOW TV">NOW TV</a>
-                </div>
-                <nav class="primary-nav" role="navigation">
-                    <div ntv-navigation="" selected-item=""></div>
-                </nav>
-
-                <form action="http://watch.nowtv.com/search" method="get" id="search" class="search">
-    <div data-tracking-search="content" data-tracking-context-id="searchQuery" class="search-icon"></div>
-    <input id="searchQuery" class="query" type="text" name="query" autocomplete="off" placeholder="Search">
-    <div class="dropdown live-search">
-    <ul class="preview"></ul>
-</div>
-</form>
-            </header>
-
-            <section role="main">
-                
-    <section class="terms-page">
-        <h2>Privacy Notice</h2>
-        <p>This privacy notice applies to the use of personal information by British Sky Broadcasting Limited and its group companies.</p>
-        <p>Any member of the British Sky Broadcasting group may use and share, within that group, the information you provide and other information it holds about you for the purposes set out below.&nbsp;<a href="#privacy-policy" target="_self">Please see our privacy notice</a>.</p>
-
-        <h3>Cookies Notice</h3>
-        <p>When you create or log in to an online account you agree to our privacy and cookies notice. Otherwise, by continuing to use our websites or mobile services you agree to the use of cookies as described in this notice.&nbsp;<a href="#cookies-policy" target="_self">Please see our cookies notice</a>.</p>
-
-        <h3>Now TV</h3>
-        <p>If you are a Now TV customer, there are additions to this notice specific to the Now TV service. <a href="#nowtv" target="_self">Please see Now TV additions</a>.</p>
-
-        <h2 id="privacy-policy">Privacy Notice</h2>
-
-        <p>Information we may hold about you:</p>
-
-        <ul>
-            <li>Information you've provided to us, including on our websites.</li>
-            <li>Information about our products and services you've ordered or enquired about.</li>
-            <li>Information provided by other companies who've obtained your permission to share information about you.</li>
-            <li>Information about the channels, programmes, advertisements and services you access, for example how you view, record or fast forward them.</li>
-            <li>Information we collect using cookies stored on your device about your use of Sky and/or selected third party websites. For more information on cookies and how to manage them, please see the&nbsp;<a href="#cookies-policy" target="_self">section on cookies</a>.</li>
-            <li>Your IP address, this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites.</li>
-            <li>Technical information from your Sky device(s) relating to the service you receive, for example, the collection of diagnostic information.</li>
-        </ul>
-
-        <p>How we may we use your information:</p>
-
-        <p>In addition to using your information to provide you with requested products or services and general account management and the management of traffic across our network, we may also use your information in the following ways:</p>
-
-        <ul>
-            <li>To monitor and improve our products, services and websites.</li>
-            <li>We may share information with credit reference and fraud prevention agencies for use in credit decisions, and for fraud detection and prevention purposes.</li>
-            <li>If false or inaccurate information is provided and fraud is identified, the details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related or other facilities; managing credit and credit related accounts and facilities; recovering debt; checking details on proposals and claims for all types of insurance; or checking details of job applications and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. Please contact us by emailing us at <a href="mailto:mysky@bskyb.com">mysky@bskyb.com</a>&nbsp;if you want to receive details of the relevant fraud prevention agencies.</li>
-            <li>We may also share your information with other companies for debt recovery purposes.</li>
-            <li>For market research.</li>
-            <li>To enable us to comply with any legal or regulatory requirements; to protect or enforce our rights or the rights of any third party; in the detection and prevention of fraud and other crimes; and for the purpose of safeguarding national security.</li>
-            <li>We may disclose your information to any successors of our business for them to use for the purposes set out in this privacy notice.</li>
-        </ul>
-
-        <p>and unless you've asked us not to:</p>
-
-        <ul>
-            <li>To send you periodic newsletters about your chosen services.</li>
-            <li>To send you direct marketing. This may include communications by post, telephone or email and if you've a Sky Bet, Sky Poker, Sky Vegas and/or Sky Bingo account, by SMS, about us and our business partners’ products and services, events and special offers, including, where applicable, for a reasonable time after you have ceased to be a customer of ours.</li>
-            <li>To provide you with personalised services, such as providing you with viewing recommendations and tailored advertising. This means that we have your agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you.</li>
-            <li>To provide you with online behavioural advertising through the use of cookies when you visit our websites.</li>
-        </ul>
-
-        <h3>Your preferences</h3>
-
-        <h4>Marketing</h4>
-            <p>You can opt out by calling us on 08442 414141 or via your MySky account. You can also click on the "unsubscribe" link in direct marketing emails from us. You can opt out of direct marketing altogether or you can choose between post, telephone and email. Sky Bet, Sky Poker, Sky Vegas and Sky Bingo customers can opt out of marketing SMS messages by replying "STOP"</p>
-            <p>You can also opt out of receiving our newsletters by clicking on the "unsubscribe" link in emails, or via your MySky account.</p>
-        <h4>Personalisation (including tailored advertising)</h4>
-            <p>You can opt out by calling us on 08442 414141 or via your MySky account. Please note that if you opt out of personalisation you will not receive tailored advertising. This means you will still see the same number of adverts but they will be ones that appear as standard.</p>
-        <h4>Online behavioural advertising</h4>
-            <p>If you do not want to receive online behavioural advertising, or don't want any information processed through the use of cookies, please see the&nbsp;<a href="#cookies-policy" target="_self">section on cookies</a>.</p>
-
-        <h2 id="nowtv">Now TV</h2>
-
-        <h3>Recommendations</h3>
-        <p>We will personalise the NowTV service to better reflect your interests and to provide you with recommendations on movies and entertainment we think you will find enjoyable. To do this we will collect information related to your use of our service and website including content viewed and browsed and user material you submit such as your ratings, reviews and comments made on our forum.</p>
-
-        <h3>Social Media</h3>
-        <p>Once you have registered for Now TV you can link your account to Facebook. Linking your account to Facebook will mean that your activity on the Now TV website, such as what you watched, may be posted on your Facebook account. Please note that Facebook will use and retain this information for its own purposes so before linking your account you should familiarise yourself with Facebook’s privacy policy and settings. Now TV also has a presence on social networking sites and we may occasionally identify and respond to customers seeking assistance with Now TV related-queries</p>
-
-        <h3>Marketing</h3>
-        <p>You can change your marketing preference at any time within your account management area.</p>
-
-        <h3>Contacting Sky</h3>
-        <p>Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to&nbsp;<a href="mailto:dpoffice@bskyb.com">dpoffice@bskyb.com</a>&nbsp;or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK.</p>
-        <p>Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 08442 414141 or through MySky.</p>
-
-
-        <h2 id="cookies-policy">Cookies</h2>
-
-        <p>You should be aware that when you use our websites, mobile sites, or mobile apps, we may collect information by using 'cookies'.</p>
-
-        <h3>What are cookies and how do they work?</h3>
-        <p>Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.&nbsp;</p>
-
-        <h3>What do you use cookies for?</h3>
-        <p>Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups.</p>
-
-        <h3>Cookies that are needed to provide the service you have asked for</h3>
-        <p>Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet.</p>
-
-        <p>Here are some examples of essential cookies.</p>
-
-        <ul>
-            <li>Keeping you logged in during your visit; without cookies you might have to log in on every page you go to.</li>
-            <li>When you add something to the online shopping basket, cookies make sure it's still there when you get to the checkout.</li>
-            <li>Some are session cookies which make it possible to navigate through the website smoothly. However these are automatically deleted after you close your web browser.</li>
-        </ul>
-
-        <h3>Improving your browsing experience</h3>
-        <p>These cookies allow the website to remember choices you make, such as your language or region and they provide improved features.&nbsp;</p>
-
-        <p>Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites.</p>
-        <ul>
-            <li>Remembering your preferences and settings, including marketing preferences, such as opting in or out of marketing emails.</li>
-            <li>Remembering if you've filled in a survey, so you're not asked to do it again.</li>
-            <li>Remembering if you've been to the site before. If you are a first-time user, you might see different content to a regular user.</li>
-            <li>Restricting the number of times you're shown a particular advertisment. This is sometimes called 'frequency capping'.</li>
-            <li>Showing you information that's relevant to products of ours that you have.</li>
-            <li>Giving you access to content provided by social-media sites like Facebook or Twitter.</li>
-            <li>Showing 'related article' links that are relevant to the page you're looking at.</li>
-            <li>Remembering a location you've entered such as weather forecasts.</li>
-        </ul>
-
-
-        <h3>Analytics</h3>
-        <p>We like to keep track of what pages and links are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages.</p>
-        <p>This group of cookies, often called 'analytics cookies' are used to gather this information. These cookies don't collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works.&nbsp;</p>
-        <p>Some of our websites and some of the emails you might get from us also contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails. These web beacons are anonymous and don't contain or collect any information that identifies you.&nbsp;</p>
-        <p>We also use 'affiliate' cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie.</p>
-
-        <h3>Showing advertising that is relevant to your interests</h3>
-        <p>We sell space on some of our sites to advertisers. The resulting adverts often contain cookies. The advertiser uses the browsing information collected from these cookies to:&nbsp;</p>
-
-        <ul>
-            <li>restrict the number of times you see the same ad (frequency capping); and</li>
-            <li>help show other ads that are relevant to you while you're on our websites. This is often called online behavioural advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests. The OBA data collected from cookies you get when you're on our sites is only used to show relevant ads on our sites, not on other websites.</li>
-        </ul>
-
-        <p>Sometimes our websites contain ads for our own Sky products. These ads use cookies in the same way as described above.</p>
-
-        <p>So how does OBA work? Let's look at an example. Imagine you visit a website about travel. That website shows an advert and with that advert you receive a cookie. Imagine you then visit one of our websites which has an advert from the same advertiser you saw on the travel site. The advertiser will give you a new version of the cookie you received on the travel site. The advertiser can then use that cookie to recognise that you've previously been to a travel site and show you a relevant ad.</p>
-        <p>Although the OBA data collected uses your browsing activity to understand your interests, the data is anonymous and isn’t linked to you as a person. Even if you log in to our websites, the OBA data is still not linked to you or your Sky package.&nbsp;</p>
-        <p>Neither we, nor the companies who show ads on our sites sell data collected from cookies to any other organisations.</p>
-    </section>
-
-            </section>
-
+    <div class="device" ng-show="isRenaming()" data-t-renaming>
+        <div class="l-list-icon device-icon">
+            <i data-t-device-icon class="icon-{{device().type.toLowerCase()}}"></i>
         </div>
-
-        <footer>
-            <nav>
-    <ul class="site-links">
-        <li><a href="http://watch.nowtv.com" class="home">Home</a></li>
-        <li><a href="http://watch.nowtv.com/privacy" class="privacy">Privacy &amp; Cookies</a></li>
-        <li><a href="http://watch.nowtv.com/terms" class="terms">Terms &amp; Conditions</a></li>
-        <li><a href="http://watch.nowtv.com/contactus">Contact Us</a></li>
-    </ul>
-    <ul class="social-links">
-        <li><a class="icon icon-facebook" href="http://facebook.com/NOWTV" target="_blank" title="Facebook">Facebook</a></li>
-        <li>
-            <a class="icon icon-twitter" href="javascript:void(0);" title="Twitter">Twitter</a>
-
-            <div class="twitter-choice">
-                <ul>
-                    <li><a href="http://twitter.com/NOWTV" target="_blank">Movies</a></li>
-                    <li><a href="http://twitter.com/NOWTVSport" target="_blank">Sports</a></li>
-                </ul>
+        <form name="renameForm" novalidate>
+            <div class="l-list-label">
+                <input type="text" name="renameDevice" autocomplete="off" maxlength="18" class="device-newname"
+                   ng-model="device().name"
+                   required
+                   ng-pattern="deviceNameRegex"
+                   data-t-rename-device/>
+                <p class="device-rename-msg no-spacing" data-t-invalid ng-show="renameForm.$invalid || device().invalidDeviceName">
+                    Up to 18 characters. Letters and numbers only</p>
             </div>
-        </li>
-        <li><a class="icon icon-youtube" href="http://youtube.com/nowtvofficial" target="_blank" title="YouTube">Youtube</a></li>
-    </ul>
-</nav>
-<div class="brought-to-you">Brought to you by</div>
-            <div id="disclaimer" class="disclaimer grid"><h5>The Legal bit:</h5><small><div class="legal-column"><p>*Available on iPhone and selected Android devices.</p><p><span class="underline">Comparison:</span> Comparison of online movie subscription using top UK box office films from past 18 months. See <a href="/compare" class="terms-footer-link">nowtv.com/compare</a>.</p><p><span class="underline">Sky Movies Pass:</span> Fees apply after Free Trial. Sky Movies Pass automatically renews at £8.99 a month unless cancelled and you can stop renewal at any time. One Free Trial per person, excludes Sky Sports Day Pass, Entertainment Month Pass or new customers who purchase a NOW TV Box movies bundle. Live channels not available on YouView.</p>
-<p><span class="underline">Sports Day Pass:</span> Each Pass costs £9.99. Viewing period ends 24 hours after you first watch. Pass must be redeemed within 365 days of purchase. Only available on YouView to TalkTalk customers. Red button and interactive services are unavailable.</p>
-<p><span class="underline">Entertainment Month Pass:</span> Introductory price of £4.99 per month if joining by 29th May 2014. Pass automatically renews unless cancelled. Currently not available on Android devices and YouView. Not all content available on catch up or live channels. For content we cannot show on live channels see  <a href="http://help.nowtv.com/HelpArticle?id=kA1G0000000Cum3&amp;topicKey=All&amp;selectedTopicKey=">nowtv.com/slating</a></p></div><div class="legal-column"><p><span class="underline">NOW TV Box:</span>&nbsp;Connects to TV via HDMI (cable supplied). BBC iPlayer, Demand 5 and 4OD apps offer a wide selection of the catch up content available on the BBC/Channel 5/4OD websites. A Spotify Premium account is required to use the Spotify application on the NOW TV Box.</p>
-<p><span class="underline">General:</span> 18+. UK Only. Content streamed. Requires broadband/3G (charges may apply). Register up to four compatible devices, and watch on two at the same time. Device changes limited to one per month. Some content unavailable on live channels and/or some devices. Xbox® Gold Live needed to use NOW TV on Xbox® 360. NOW TV available on compatible Roku LT and XS boxes only. HDMI cable required for higher quality viewing. You will need to create a Roku UK account to use NOW TV with Roku. See <a href="http://community.nowtv.com/t5/NOW-TV-news-and-information/NOW-TV-Device-FAQs/td-p/51688">here</a> for device compatibility requirements. For content/device restrictions read the FAQs. Full terms of service <a href="http://www.nowtv.com/terms" class="terms-footer-link">here</a>. (Updated in October 2013 for Entertainment Month Pass.)</p></div></small></div>
-        </footer>
+            <button type="submit" class="l-list-action button device-rename" ng-click="saveRename()" ng-disabled="renameForm.$invalid || device().invalidDeviceName" data-t-save-btn>Save</button>
+            <button class="l-list-action l-omega button" ng-click="cancelRename()" data-t-cancel-btn>Cancel</button>
+            <div>
+            </div>
+        </form>
     </div>
+
+    <div ng-show="isUnassigned()" class="device is-unassigned l-list-message" data-t-unassigned>
+        <h4 class="box-heading_small">Unused slot</h4>
+        <p class="no-spacing">A new device will be automatically registered the first time you watch from it.</p>
+    </div>
+
+    <span ng-if="!isLoaded() && !isUnassigned()" ng-transclude></span>
+</li></script>
+    <script type="text/ng-template" id="partials/content/show.html"><a ng-href="{{ show.getContentUrl() }}" data-t-link="show" ntv-popover="show" wrapper-element="[data-popover-wrapper]" target-element="[data-popover-image]">
+    <div class="poster_with-logo">
+        <div class="poster-img-overlay"></div>
+        <img class="poster-img" ntv-lazy-load="{{ show.getStillImageUrl(carousel.getImageSize()) }}" src="/assets/still-trans.png" alt="{{ show.getTitle() }}" data-t-poster-img data-popover-image />
+        <img class="branding_overlay" ng-src="{{ show.getLogoUrl() }}" alt="Channel logo for {{ show.getChannel() }}" data-t-channel-logo />
+    </div>
+    <span class="poster-name" ng-href="{{ show.getContentUrl() }}" data-t-item-title>
+        {{ show.getTitle() | ellipsis:60 }}
+    </span>
+</a></script>
+
+    <div class="l-fluid-container">
+    <header class="l-full-body-floaty menubar" data-menubar="">
+        <div class="menubar-background"></div>
+        <div class="menubar-logo">
+            <a href="http://watch.nowtv.com" class="logo-link" title="NOW TV">
+                <svg xmlns="http://www.w3.org/2000/svg" width="136" height="25"><g fill="#fff"><path d="M119.385 1.073h-21.579v3.769h7.608v18.879h4.244v-18.88h6.403l6.962 18.879h4.376l8.353-22.648h-4.447l-5.959 17.282-5.961-17.281zM23.054 1.073l-1.66 9.493-6.469-9.493h-6.216l-3.957 22.624h8.825l1.534-8.775 6.129 8.962h6.665l3.989-22.813-8.84.002zM75.772 23.697l-2.359-10.681-5.797 10.681h-6.796l-3.969-22.624h8.925l1.619 9.116 4.97-9.116h6.383l1.943 9.111 4.625-9.111h9.143l-11.516 22.625-7.171-.001zM44.373 0c-6.783 0-12.284 5.546-12.284 12.385 0 6.84 5.5 12.386 12.283 12.386 6.785 0 12.284-5.545 12.284-12.386 0-6.839-5.499-12.385-12.283-12.385zm-2.944 18.444l.002-12.119 9.05 6.059-9.052 6.06z"></path></g></svg>
+                <img ntv-image="" png-src="/assets/nowtv-logo-d432d675ce585435f3d7fdad5d76608a.png">
+            </a>
+        </div>
+
+        <div ntv-navigation-current=""></div>
+        <div ntv-user-menu=""></div>
+    </header>
+
+    <div ntv-navigation-menu=""></div>
+</div>
+
+
+    
+<div class="t-moody">
+    <div class="l-fixed-container l-firstblock_padded l-lastblock">
+        <div class="l-full-body">
+
+            <section class="box">
+                <h1 class="all-caps box-heading l-full-width">Privacy Notice</h1>
+                <hr>
+
+                <div class="l-full-width">
+
+                    <p>This privacy notice applies to the use of personal information by British Sky Broadcasting Limited and its group companies.</p>
+
+                    <p>Any member of the British Sky Broadcasting group may use and share, within that group, the information you provide and other information it holds about you for the purposes set out below.&nbsp;<a href="#privacy-policy" target="_self">Please see our privacy notice</a>.</p>
+
+                   <h3 class="all-caps">Cookies Notice</h3>
+
+                    <p>When you create or log in to an online account you agree to our privacy and cookies notice. Otherwise, by continuing to use our websites or mobile services you agree to the use of cookies as described in this notice.&nbsp;<a href="#cookies-policy" target="_self">Please see our cookies notice</a>.</p>
+
+                   <h3 class="all-caps">Now TV</h3>
+
+                    <p>If you are a Now TV customer, there are additions to this notice specific to the Now TV service. <a href="#nowtv" target="_self">Please see Now TV additions</a>.</p>
+
+                   <h2 class="all-caps" id="privacy-policy">Privacy Notice</h2>
+
+                    <p>Information we may hold about you:</p>
+
+                    <ul class="unordered">
+                        <li>Information you've provided to us, including on our websites.</li>
+                        <li>Information about our products and services you've ordered or enquired about.</li>
+                        <li>Information provided by other companies who've obtained your permission to share information about you.</li>
+                        <li>Information about the channels, programmes, advertisements and services you access, for example how you view, record or fast forward them.</li>
+                        <li>Information we collect using cookies stored on your device about your use of Sky and/or selected third party websites. For more information on cookies and how to manage them, please see the&nbsp;<a href="#cookies-policy" target="_self">section on cookies</a>.</li>
+                        <li>Your IP address, this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites.</li>
+                        <li>Technical information from your Sky device(s) relating to the service you receive, for example, the collection of diagnostic information.</li>
+                    </ul>
+
+                    <p>How we may we use your information:</p>
+
+                    <p>In addition to using your information to provide you with requested products or services and general account management and the management of traffic across our network, we may also use your information in the following ways:</p>
+
+                    <ul class="unordered">
+                        <li>To monitor and improve our products, services and websites.</li>
+                        <li>We may share information with credit reference and fraud prevention agencies for use in credit decisions, and for fraud detection and prevention purposes.</li>
+                        <li>If false or inaccurate information is provided and fraud is identified, the details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related or other facilities; managing credit and credit related accounts and facilities; recovering debt; checking details on proposals and claims for all types of insurance; or checking details of job applications and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. Please contact us by emailing us at <a href="mailto:mysky@bskyb.com">mysky@bskyb.com</a>&nbsp;if you want to receive details of the relevant fraud prevention agencies.
+                        </li>
+                        <li>We may also share your information with other companies for debt recovery purposes.</li>
+                        <li>For market research.</li>
+                        <li>To enable us to comply with any legal or regulatory requirements; to protect or enforce our rights or the rights of any third party; in the detection and prevention of fraud and other crimes; and for the purpose of safeguarding national security.</li>
+                        <li>We may disclose your information to any successors of our business for them to use for the purposes set out in this privacy notice.</li>
+                    </ul>
+
+                    <p>and unless you've asked us not to:</p>
+
+                    <ul class="unordered">
+                        <li>To send you periodic newsletters about your chosen services.</li>
+                        <li>To send you direct marketing. This may include communications by post, telephone or email and if you've a Sky Bet, Sky Poker, Sky Vegas and/or Sky Bingo account, by SMS, about us and our business partners’ products and services, events and special offers, including, where applicable, for a reasonable time after you have ceased to be a customer of ours.</li>
+                        <li>To provide you with personalised services, such as providing you with viewing recommendations and tailored advertising. This means that we have your agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you.</li>
+                        <li>To provide you with online behavioural advertising through the use of cookies when you visit our websites.</li>
+                    </ul>
+
+                   <h3 class="all-caps">Your preferences</h3>
+
+                   <h4 class="all-caps">Marketing</h4>
+
+                    <p>You can opt out by calling us on 08442 414141 or via your MySky account. You can also click on the "unsubscribe" link in direct marketing emails from us. You can opt out of direct marketing altogether or you can choose between post, telephone and email. Sky Bet, Sky Poker, Sky Vegas and Sky Bingo customers can opt out of marketing SMS messages by replying "STOP"</p>
+
+                    <p>You can also opt out of receiving our newsletters by clicking on the "unsubscribe" link in emails, or via your MySky account.</p>
+                   <h4 class="all-caps">Personalisation (including tailored advertising)</h4>
+
+                    <p>You can opt out by calling us on 08442 414141 or via your MySky account. Please note that if you opt out of personalisation you will not receive tailored advertising. This means you will still see the same number of adverts but they will be ones that appear as standard.</p>
+                   <h4 class="all-caps">Online behavioural advertising</h4>
+
+                    <p>If you do not want to receive online behavioural advertising, or don't want any information processed through the use of cookies, please see the&nbsp;<a href="#cookies-policy" target="_self">section on cookies</a>.</p>
+
+                   <h2 class="all-caps" id="nowtv">Now TV</h2>
+
+                   <h3 class="all-caps">Recommendations</h3>
+
+                    <p>We will personalise the NowTV service to better reflect your interests and to provide you with recommendations on movies and entertainment we think you will find enjoyable. To do this we will collect information related to your use of our service and website including content viewed and browsed and user material you submit such as your ratings, reviews and comments made on our forum.</p>
+
+                   <h3 class="all-caps">Social Media</h3>
+
+                    <p>Once you have registered for Now TV you can link your account to Facebook. Linking your account to Facebook will mean that your activity on the Now TV website, such as what you watched, may be posted on your Facebook account. Please note that Facebook will use and retain this information for its own purposes so before linking your account you should familiarise yourself with Facebook’s privacy policy and settings. Now TV also has a presence on social networking sites and we may occasionally identify and respond to customers seeking assistance with Now TV related-queries</p>
+
+                   <h3 class="all-caps">Marketing</h3>
+
+                    <p>You can change your marketing preference at any time within your account management area.</p>
+
+                   <h3 class="all-caps">Contacting Sky</h3>
+
+                    <p>Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to&nbsp;<a href="mailto:dpoffice@bskyb.com">dpoffice@bskyb.com</a>&nbsp;or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian,</p><h5 class="all-caps" 4="" 7dd,="" uk.="" <="" p="">
+
+                    <p>Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 08442 414141 or through MySky.</p>
+
+
+                   </h5><h2 class="all-caps" id="cookies-policy">Cookies</h2>
+
+                    <p>You should be aware that when you use our websites, mobile sites, or mobile apps, we may collect information by using 'cookies'.</p>
+
+                   <h3 class="all-caps">What are cookies and how do they work?</h3>
+
+                    <p>Cookies are small bits of text that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognise you and can then tailor what you see on the screen.&nbsp;</p>
+
+                   <h3 class="all-caps">What do you use cookies for?</h3>
+
+                    <p>Cookies are an important part of the internet. They make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups.</p>
+
+                   <h3 class="all-caps">Cookies that are needed to provide the service you have asked for</h3>
+
+                    <p>Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies don't gather information about you that could be used for marketing or remembering where you've been on the internet.</p>
+
+                    <p>Here are some examples of essential cookies.</p>
+
+                    <ul class="unordered">
+                        <li>Keeping you logged in during your visit; without cookies you might have to log in on every page you go to.</li>
+                        <li>When you add something to the online shopping basket, cookies make sure it's still there when you get to the checkout.</li>
+                        <li>Some are session cookies which make it possible to navigate through the website smoothly. However these are automatically deleted after you close your web browser.</li>
+                    </ul>
+
+                   <h3 class="all-caps">Improving your browsing experience</h3>
+
+                    <p>These cookies allow the website to remember choices you make, such as your language or region and they provide improved features.&nbsp;</p>
+
+                    <p>Here are a few examples of just some of the ways that cookies are used to improve your experience on our websites.</p>
+                    <ul class="unordered">
+                        <li>Remembering your preferences and settings, including marketing preferences, such as opting in or out of marketing emails.</li>
+                        <li>Remembering if you've filled in a survey, so you're not asked to do it again.</li>
+                        <li>Remembering if you've been to the site before. If you are a first-time user, you might see different content to a regular user.</li>
+                        <li>Restricting the number of times you're shown a particular advertisment. This is sometimes called 'frequency capping'.</li>
+                        <li>Showing you information that's relevant to products of ours that you have.</li>
+                        <li>Giving you access to content provided by social-media sites like Facebook or Twitter.</li>
+                        <li>Showing 'related article' links that are relevant to the page you're looking at.</li>
+                        <li>Remembering a location you've entered such as weather forecasts.</li>
+                    </ul>
+
+
+                   <h3 class="all-caps">Analytics</h3>
+
+                    <p>We like to keep track of what pages and links are popular and which ones don't get used so much to help us keep our sites relevant and up to date. It's also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get 'error messages' from web pages.</p>
+
+                    <p>This group of cookies, often called 'analytics cookies' are used to gather this information. These cookies don't collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works.&nbsp;</p>
+
+                    <p>Some of our websites and some of the emails you might get from us also contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used to count the number of times the page or email has been viewed and allows us to measure the effectiveness of its marketing and emails. These web beacons are anonymous and don't contain or collect any information that identifies you.&nbsp;</p>
+
+                    <p>We also use 'affiliate' cookies. Some of our web pages will contain promotional links to other companies’ sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. This works using a cookie.</p>
+
+                   <h3 class="all-caps">Showing advertising that is relevant to your interests</h3>
+
+                    <p>We sell space on some of our sites to advertisers. The resulting adverts often contain cookies. The advertiser uses the browsing information collected from these cookies to:&nbsp;</p>
+
+                    <ul class="unordered">
+                        <li>restrict the number of times you see the same ad (frequency capping); and</li>
+                        <li>help show other ads that are relevant to you while you're on our websites. This is often called online behavioural advertising (OBA). OBA is a way of using information about your web-browsing activity, collected by using cookies, to group you with other users into interest groups and show you advertisements based on those interests. The OBA data collected from cookies you get when you're on our sites is only used to show relevant ads on our sites, not on other websites.</li>
+                    </ul>
+
+                    <p>Sometimes our websites contain ads for our own Sky products. These ads use cookies in the same way as described above.</p>
+
+                    <p>So how does OBA work? Let's look at an example. Imagine you visit a website about travel. That website shows an advert and with that advert you receive a cookie. Imagine you then visit one of our websites which has an advert from the same advertiser you saw on the travel site. The advertiser will give you a new version of the cookie you received on the travel site. The advertiser can then use that cookie to recognise that you've previously been to a travel site and show you a relevant ad.</p>
+
+                    <p>Although the OBA data collected uses your browsing activity to understand your interests, the data is anonymous and isn’t linked to you as a person. Even if you log in to our websites, the OBA data is still not linked to you or your Sky package.&nbsp;</p>
+
+                    <p>Neither we, nor the companies who show ads on our sites sell data collected from cookies to any other organisations.</p>
+
+                </div>
+            </section>
+        </div></div></div>
+
+
+    <footer data-footer="" ntv-footer="" class="footer" ng-controller="FooterCtrl" xmlns="http://www.w3.org/1999/html">
+    <div class="footer-nav">
+        <div class="l-fixed-container">
+            <nav class="footer-links l-footer">
+                <ul class="l-list-inline l-footer-links-left">
+                    <li><a target="_self" class="footer-navlink" ng-click="legalClick()" href="javascript:void(0);" data-t-the-legal-bit="">The Legal Bit <i class="icon-arrow-down"></i></a></li>
+                    <li><a target="_self" class="footer-navlink" href="http://watch.nowtv.com/privacy" title="Privacy and Cookies">Privacy &amp; Cookies</a></li>
+                    <li><a target="_self" class="footer-navlink" href="http://watch.nowtv.com/terms" title="Terms and Conditions">Terms &amp; Conditions</a></li>
+                    <li><a target="_self" class="footer-navlink" href="http://watch.nowtv.com/contactus" title="Contact Us">How to Contact Us</a></li>
+                    <li><a target="_blank" class="footer-navlink" href="http://community.nowtv.com" title="NOW TV Community">Community</a></li>
+                    <li><a target="_blank" class="footer-navlink" href="http://watch.nowtv.com/blog" title="NOW TV Blog">Blog</a></li>
+                </ul>
+
+                <ul class="l-list-inline footer-social l-footer-right">
+                    <li><a href="http://facebook.com/NOWTV" class="footer-navlink footer-icon" target="_blank" title="Facebook"><i class="icon-facebook"></i></a></li>
+                    <li><a href="javascript:void(0);" class="footer-navlink footer-social-twitter footer-icon" title="Twitter"><i class="icon-twitter"></i></a>
+                        <div class="footer-social-twitter-popup">
+                            <ul class="footer-social-twitter-options l-list-stacked">
+                                <li><a href="http://twitter.com/NOWTV" class="footer-social-link" target="_blank">Movies</a></li>
+                                <li><a href="http://twitter.com/NOWTVSport" class="footer-social-link" target="_blank">Sports</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="http://youtube.com/nowtvofficial" class="footer-navlink footer-icon" target="_blank" title="YouTube"><i class="icon-youtube"></i></a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="footer-terms">
+        <div class="l-fixed-container" ng-hide="legalHidden">
+            <section class="l-footer">
+                <div>
+                    <h5 class="footer-terms-header">The Legal bit:</h5>
+                    <small>
+                        <div class="footer-terms-legal">
+                            <p><span class="underline">Limited Time Offer - now extended:</span> Sky Sports Day Pass and Sky Sports Week Pass pricing available for limited time only and until 2 March 2015.</p>
+<strong>*Available on iPhone and selected Android devices.</strong><p>Comparison: Comparison of online movie subscription using top UK box office films from past 18 months. See <a href="/compare">nowtv.com/compare</a>.</p><p>Sky Movies Pass: Fees apply after Free Trial. Sky Movies Pass automatically renews at £9.99 a month unless cancelled and you can stop renewal at any time. One Free Trial per person, excludes Sky Sports Day Pass, Entertainment Month Pass or new customers who purchase a NOW TV Box Movies pack or partner package which includes a Sky Movies Pass. Live channels not available on YouView.</p><p>Sports Passes: Each Sky Sports Day Pass costs £6.99. Each Sky Sports Week Pass costs £10.99. Viewing period ends either 24 hours or 7 days after you first watch, depending on pass purchased. Passes must be redeemed within 365 days of purchase. Only one Sky Sports Pass can be added to an account at any time. Only available on YouView to TalkTalk customers. Red button and interactive services are unavailable. Sky Sports Week Pass only currently available to purchase via nowtv.com.</p><p>Entertainment Month Pass: £6.99 a month unless cancelled and you can stop renewal at any time. Currently not available on Android devices and YouView. Not all content available on catch up or live channels. For content we cannot show on live channels see <a href="http://help.nowtv.com/article/Slating-Rights-Restrictions">nowtv.com/slating</a>. Shows only available on catch up for up to 30 days from date first shown.</p><p>NOW TV Box: Connects to TV via HDMI (cable supplied).  BBC iPlayer, Demand 5 and 4OD apps offer a wide selection of the catch up content available on the BBC/Channel 5/4OD websites. A Spotify Premium account is required to use the Spotify application on the NOW TV Box.</p><p>General: 18+. UK Only. Content streamed. Requires broadband/3G (charges may apply). Register up to four compatible devices, and watch on two at the same time. Device changes limited to one per month. Some content unavailable on live channels and/or some devices. NOW TV available on compatible Roku LT and XS boxes only. HDMI cable required for higher quality viewing. You will need to create a Roku UK account to use NOW TV with Roku. See <a href="http://community.nowtv.com/t5/NOW-TV-news-and-information/NOW-TV-Device-FAQs/td-p/51688">here</a> for device compatibility requirements. For content/device restrictions read the FAQs. Full terms of service <a href="http://www.nowtv.com/terms">here</a>. (Updated in October 2013 for Entertainment Month Pass.)</p><p>NOW TV accepts Visa and MasterCard</p>
+                        </div>
+                    </small>
+                </div>
+            </section>
+        </div>
+    </div>
+</footer>
 
     <script type="text/javascript">
     NOWTV.SKY_TRACKING = {
@@ -597,192 +550,216 @@ ntv.session = ntv.session || {};
 
 
 
-    <script type="text/html" id="customerDetailsErrorOverlayTmpl"><div id="customerDetailsErrorMessage" class="modal-dialog">
-
-    <h2>We've encountered a problem</h2>
-    <p>We could not load your details, please refresh the page or contact customer support at <a class="error" href="/help">nowtv.com/help</a>.</p>
-
-    <div class="overlay-actions">
-        <button class="btn">Refresh page</button>
+    <script type="text/html" id="customerDetailsErrorOverlayTmpl"><div id="customerDetailsErrorMessage">
+    <div class="l-full-width">
+        <h1 class="box-heading">We've encountered a problem</h1>
     </div>
-</div>
-</script>
-    <script type="text/html" id="purchaseWithPaymentPinOverlayTmpl"><div id="confirmPaymentPinForm" class="paymentpin-box">
+    <hr />
+    <div class="l-full-width box-content">
+        <p>We could not load your details, please refresh the page or contact customer support at <a href="/help" data-t-help-link>http://help.nowtv.com</a>.</p>
 
-    <h1 class="purchase">Complete Purchase</h1>
-    <p>Please enter your 4 digit payment PIN.</p>
-
-    <form action="" method="post" name="paymentPin">
-        <fieldset>
-            {{>pinEntry pinEntryModel}}
-        </fieldset>
-    </form>
-
-    <a class="forgotten-pwd"><span>Forgotten your PIN?</span></a>
-    <a class="forgotten-pwd-syndicated-player" target="_blank"><span>Forgotten your PIN?</span></a>
-</div>
-</script>
-    <script type="text/html" id="moviesSummaryOverlayTmpl"><div id="purchaseSubscription" class="prompt-overlay purchase-subscription">
-    <p>Your order:</p>
-    <h1 class="purchase">SKY MOVIES PASS</h1>
-
-    <p>&pound;8.99 a month.</p>
-
-    <p class="purchase-price">Please confirm your purchase - payment will be taken as soon as you<br /> click "Buy Month Pass"</p>
-    <p>You can manage your subscription in My Account once signed in.</p>
-
-    <a href="{{ termsUrl }}" class="terms" target="_blank">Terms &amp; Conditions apply</a>
-
-    <div class="overlay-actions">
-        <button class="btn" id="cancel" title="Cancel">Cancel</button>
-        <button class="btn" id="voucher" title="Apply a voucher">Apply a voucher</button>
-        <button class="btn" id="confirm" title="Buy Month Pass">Buy Month Pass</button>
+        <div class="overlay-actions">
+            <button class="button_overlay" data-reload>Refresh page</button>
+        </div>
     </div>
 </div></script>
-    <script type="text/html" id="moviesSummaryFreeTrialOverlayTmpl"><div id="moviesFreeTrialSubscription" class="prompt-overlay purchase-subscription">
-    <p>Your order:</p>
-    <h1 class="purchase">SKY MOVIES PASS</h1>
-
-    <p class="purchase-price">30 day free trial then &pound;8.99 a month.</p>
-    <p>Start watching more of the latest and biggest movies 12 months before Netflix or Lovefilm Instant</p>
-    <p>Click "Start Now" to start your 30 day free trial.</p>
-
-    <p><a href="{{ termsUrl }}" class="terms" target="_blank">Terms &amp; Conditions apply</a></p>
-
-    <div class="overlay-actions">
-        <button class="btn" id="cancel" title="Cancel">Cancel</button>
-        <button class="btn" id="voucher" title="Apply a voucher">Apply a voucher</button>
-        <button class="btn" id="confirm" title="Start Now">Start Now</button>
+    <script type="text/html" id="purchaseWithPaymentPinOverlayTmpl"><div id="confirmPaymentPinForm">
+    <div class="l-full-width">
+        <h1 class="box-heading">Complete Purchase</h1>
     </div>
-</div></script>
-    <script type="text/html" id="entertainmentSummaryOverlayTmpl"><div id="purchaseSubscription" class="prompt-overlay purchase-subscription">
-    <p>Your order:</p>
-    <h1 class="purchase">ENTERTAINMENT MONTH PASS</h1>
+    <hr />
+    <div class="l-full-width box-content">
+        <p>Please enter your 4 digit payment PIN.</p>
 
-    <p>&pound;4.99 a month introductory price</p>
+        <form action="" method="post" name="paymentPin">
+            <fieldset class="pin-group">
+                {{>pinEntry pinEntryModel}}
+            </fieldset>
+        </form>
 
-    <p class="purchase-price">Click "Buy Now" to purchase your Entertainment Month Pass</p>
-
-    <a href="{{ termsUrl }}" class="terms" target="_blank">Terms &amp; Conditions apply</a>
-
-    <div class="overlay-actions">
-        <button class="btn" id="cancel" title="Cancel">Cancel</button>
-        <button class="btn" id="voucher" title="Apply a voucher">Apply a voucher</button>
-        <button class="btn" id="confirm" title="Buy Now">Buy Now</button>
+        <p>
+            <a class="forgotten-pwd"><span>Forgotten your PIN?</span></a>
+            <a class="forgotten-pwd-syndicated-player" target="_blank"><span>Forgotten your PIN?</span></a>
+        </p>
     </div>
-
-    <p class="footer">Please note: The Entertainment Month Pass is currently not available on Android devices and YouView.</p>
-
 </div>
 </script>
-    <script type="text/html" id="entertainmentSummaryRenewalOverlayTmpl"><div id="purchaseSubscription" class="prompt-overlay purchase-subscription">
-    <p>Your order:</p>
-    <h1 class="purchase">ENTERTAINMENT MONTH PASS</h1>
-
-    <p>&pound;4.99 a month introductory price</p>
-
-    <p class="purchase-price">Click "Buy Month Pass" to purchase your Entertainment Month Pass</p>
-
-    <a href="{{ termsUrl }}" class="terms" target="_blank">Terms &amp; Conditions apply</a>
-
-    <div class="overlay-actions">
-        <button class="btn" id="cancel" title="Cancel">Cancel</button>
-        <button class="btn" id="voucher" title="Apply a voucher">Apply a voucher</button>
-        <button class="btn" id="confirm" title="Buy Month Pass">Buy Month Pass</button>
+    <script type="text/html" id="moviesSummaryOverlayTmpl"><div id="purchaseSubscription">
+    <div class="l-full-width">
+        <h1 class="box-heading">Sky Movies Pass</h1>
     </div>
-
-    <p class="footer">Please note: The Entertainment Month Pass is currently not available on Android devices and YouView.</p>
-
-</div>
-</script>
-    <script type="text/html" id="moviesVoucherEntryTmpl"><div id="voucherEntry" class="prompt-overlay purchase-subscription">
-    <h1 class="purchase">SKY MOVIES PASS</h1>
-
-    <div class="purchase-instructions">
-        <p>To use a voucher, enter it below and click "Apply Voucher".</p>
-    </div>
-
-    <form id="voucher" class="voucher-form">
-        <label for="voucherCode">Enter a voucher code:</label>
-        <input class="overlay-field" type="text" name="voucherCode" id="voucherCode" placeholder="Enter a voucher code..."/>
-    </form>
-    <div id='voucherErrorPlaceholder'></div>
-
-    <div class="overlay-actions day-pass">
-        {{#if isFirst }}
-        <button class="btn" id="cancel" title="Cancel">Cancel</button>
+    <hr />
+    <div class="l-full-width box-content">
+        {{#if product.futurePrice}}
+            <p>&pound;{{product.price}} a month until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month</p>
         {{else}}
-        <button class="btn" id="back" title="Back">Back</button>
-        {{/if }}
-        <button class="btn" id="confirm" title="Apply voucher">Apply voucher</button>
+            <p>&pound;{{product.price}} a month.</p>
+        {{/if}}
+        <p data-t-ecrd>By clicking "Pay Now" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel.</p>
+
+        <div class="overlay-actions t-movies">
+            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
+            <button class="button_overlay" id="voucher" title="Apply a voucher">Apply a voucher</button>
+            <button class="button_purchase" id="confirm" title="Pay Now">Pay Now</button>
+        </div>
+
+        <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
     </div>
 </div></script>
-    <script type="text/html" id="entertainmentVoucherEntryTmpl"><div id="voucherEntry" class="prompt-overlay purchase-subscription">
-    <h1 class="purchase">ENTERTAINMENT MONTH PASS</h1>
-
-    <div class="purchase-instructions">
-        <p>To use a voucher, enter it below and click "Apply Voucher".</p>
+    <script type="text/html" id="moviesSummaryFreeTrialOverlayTmpl"><div id="moviesFreeTrialSubscription">
+    <div class="l-full-width">
+        <h1 class="box-heading">Sky Movies Pass</h1>
     </div>
-
-    <form id="voucher" class="voucher-form">
-        <label for="voucherCode">Enter a voucher code:</label>
-        <input class="overlay-field" type="text" name="voucherCode" id="voucherCode" placeholder="Enter a voucher code..."/>
-    </form>
-    <div id='voucherErrorPlaceholder'></div>
-
-    <div class="overlay-actions day-pass">
-        {{#if isFirst }}
-        <button class="btn" id="cancel" title="Cancel">Cancel</button>
+    <hr />
+    <div class="l-full-width box-content">
+        {{#if product.futurePrice}}
+            <p data-t-purchase-price>30 day free trial then &pound;{{product.price}} a month (until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month).</p>
         {{else}}
-        <button class="btn" id="back" title="Back">Back</button>
-        {{/if }}
-        <button class="btn" id="confirm" title="Apply voucher">Apply voucher</button>
+            <p data-t-purchase-price>30 day free trial then &pound;{{product.price}} a month.</p>
+        {{/if}}
+        <p data-t-ecrd>By clicking "Pay After Trial" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel.</p>
+
+        <div class="overlay-actions t-movies">
+            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
+            <button class="button_overlay" id="voucher" title="Apply a voucher">Apply a voucher</button>
+            <button class="button_purchase" id="confirm" title="Pay After Trial">Pay After Trial</button>
+        </div>
+
+        <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
     </div>
 </div></script>
-    <script type="text/html" id="subscriptionConfirmPurchaseTmpl"><div id="subscriptionConfirmPurchase" class="prompt-overlay">
-    <h1 class="purchase">Confirm Purchase</h1>
-
-    <div class="purchase-instructions">
-       <p><span class="confirm-text">Please confirm your purchase. The card details saved in your NOW TV account will be charged immediately.</span></p>
+    <script type="text/html" id="entertainmentSummaryOverlayTmpl"><div id="purchaseSubscription">
+    <div class="l-full-width">
+        <h1 class="box-heading">Entertainment Month Pass</h1>
     </div>
+    <hr />
+    <div class="l-full-width box-content">
 
-    <div class="overlay-actions day-pass">
-        <button class="btn" id="back" title="Back">Back</button>
-        <button class="btn" id="confirm" title="">Buy now</button>
+        {{#if product.futurePrice}}
+            <p>&pound;{{product.price}} a month until {{product.futurePrice.date}}, then &pound;{{product.futurePrice.price}} a month</p>
+        {{else}}
+            <p>&pound;{{product.price}} a month.</p>
+        {{/if}}
+
+    <p data-t-purchase-price>Click "Pay Now" to purchase your Entertainment Month Pass</p>
+    <p data-t-ecrd>By clicking "Pay Now" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel</p>
+
+        <div class="overlay-actions t-entertainment">
+            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
+            <button class="button_overlay" id="voucher" title="Apply a voucher">Apply a voucher</button>
+            <button class="button_purchase" id="confirm" title="Pay Now">Pay Now</button>
+        </div>
+
+        <p><a href="{{ termsUrl }}" target="_blank" data-t-terms-link>Terms &amp; Conditions apply</a></p>
+
+        <p>Please note: The Entertainment Month Pass is currently not available on YouView.</p>
     </div>
 </div></script>
-    <script type="text/html" id="setPinsPromptTmpl"><div id="setPinsPrompt" class="prompt-overlay">
-    <h1>NEARLY THERE</h1>
+    <script type="text/html" id="moviesVoucherEntryTmpl"><div id="voucherEntry">
+    <div class="l-full-width">
+        <h1 class="box-heading">Sky Movies Pass</h1>
+    </div>
+    <hr />
+    <div class="l-full-width box-content">
 
-    <p class="overlay-text">We need you to finish setting up your Now TV account before you can start watching.<br /><br />Please click the CONTINUE button below to go to the PIN set up page. You’ll be sent back here when you are done.</p>
+        <p data-t-purchase-instructions>To use a voucher, enter it below and click "Apply Voucher".</p>
 
-    <div class="overlay-actions">
-        <button class="btn" id="cancel">Cancel</button>
-        <button class="btn" id="continue">Continue</button>
+        <form id="voucher">
+            <p>
+                <input type="text" name="voucherCode" id="voucherCode" placeholder="Enter a voucher code..." class="overlay-input_voucher" />
+            </p>
+        </form>
+
+        <div id='voucherErrorPlaceholder'></div>
+
+        <div class="overlay-actions">
+            {{#if isFirst }}
+            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
+            {{else}}
+            <button class="button_overlay" id="back" title="Back">Back</button>
+            {{/if }}
+            <button class="button_overlay" id="confirm" title="Apply voucher">Apply voucher</button>
+        </div>
+    </div>
+</div></script>
+    <script type="text/html" id="entertainmentVoucherEntryTmpl"><div id="voucherEntry">
+    <div class="l-full-width">
+        <h1 class="box-heading">Entertainment Month Pass</h1>
+    </div>
+    <hr />
+    <div class="l-full-width box-content">
+
+        <p data-t-purchase-instructions>To use a voucher, enter it below and click "Apply Voucher".</p>
+
+        <form id="voucher">
+            <p>
+                <input type="text" name="voucherCode" id="voucherCode" placeholder="Enter a voucher code..." class="overlay-input_voucher" />
+            </p>
+        </form>
+
+        <div id='voucherErrorPlaceholder'></div>
+
+        <div class="overlay-actions">
+            {{#if isFirst }}
+            <button class="button_overlay" id="cancel" title="Cancel">Cancel</button>
+            {{else}}
+            <button class="button_overlay" id="back" title="Back">Back</button>
+            {{/if }}
+            <button class="button_overlay" id="confirm" title="Apply voucher">Apply voucher</button>
+        </div>
+    </div>
+</div></script>
+    <script type="text/html" id="subscriptionConfirmPurchaseTmpl"><div id="subscriptionConfirmPurchase">
+
+    <div class="l-full-width">
+        <h1 class="box-heading">Confirm Purchase</h1>
+    </div>
+    <hr />
+    <div class="l-full-width box-content">
+        <p data-t-purchase-instructions>{{purchaseInstructions}}</p>
+        <p data-t-ecrd>By clicking "{{ctaText}}" – and entering your PIN if you use one – you acknowledge you will lose your right to a refund should you cancel</p>
+
+
+        <div class="overlay-actions">
+            <button class="button_overlay" id="back" title="Back">Back</button>
+            <button class="button_overlay" id="confirm" title="{{ctaText}}">{{ctaText}}</button>
+        </div>
+    </div>
+</div></script>
+    <script type="text/html" id="setPinsPromptTmpl"><div id="setPinsPrompt">
+    <div class="l-full-width">
+        <h1 class="box-heading">Nearly there</h1>
+    </div>
+    <hr />
+    <div class="l-full-width box-content">
+        <p>We need you to finish setting up your NOW TV account before you can start watching.</p>
+        <p>Please click the Continue button below to finish setting up your account. You’ll be sent back here when you are done.</p>
+
+        <div class="overlay-actions">
+            <button class="button_overlay" id="cancel">Cancel</button>
+            <button class="button_overlay" id="continue">Continue</button>
+        </div>
     </div>
 </div>
 </script>
-    <script type="text/html" id="pinEntryPartialTmpl"><div id="{{ id }}Row" class="row {{rowClassname}}">
-    <label for="{{id}}" class="label">{{label}}</label>
-    <input type="tel" maxlength="4" pattern="[0-9]{1}" min="0" max="9" class="pin" name="{{name}}" id="{{id}}"
+    <script type="text/html" id="pinEntryPartialTmpl"><p id="{{ id }}Row" class="{{rowClassname}}" data-t-row="">
+    <label for="{{id}}" class="l-overlay-label pin-label">{{label}}</label>
+    <input type="tel" maxlength="4" pattern="[0-9]{1}" min="0" max="9" class="pin-input" name="{{name}}" id="{{id}}"
            autocomplete="off"/>
-</div>
+</p>
 </script>
 
     
 
-    <script src="/assets/base-defer-ae1748fa5b00bb0a1bc451af76b8a648.js" type="text/javascript"></script>
-    <script>
-    window.optimizely = {
-        push: function () {}
-    };
-</script>
-
+    <script src="/assets/base-defer-5035e22961f33e6e167d9c716c8c15ab.js" type="text/javascript"></script>
+    
     
         <script src="//cdn.optimizely.com/js/562540257.js"></script>
     
 
 
     
+    <div ntv-page-load=""></div>
+    <div ntv-qubit=""></div>
 
 </body></html>
