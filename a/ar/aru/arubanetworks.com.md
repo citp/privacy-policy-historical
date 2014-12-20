@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arubanetworks.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529172252id_/http%3A//www.arubanetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arubanetworks.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220052202id_/http%3A//www.arubanetworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Aruba Networks
+# Aruba Networks Privacy Statement | Aruba Networks
 
 **Introduction**  
 Aruba Networks, Inc. and its subsidiaries (collectively, “Aruba”) are committed to protecting your privacy and ensuring you have a positive experience on our websites and in using our products and services (“Solution” or “Solutions”). This Privacy Statement applies to our Solutions with websites or agreements that link to this Statement, but does not apply to those Aruba Solutions with websites or agreements that have their own privacy statement. Our handling practices for Personal Information are set forth in this Privacy Statement, in the supplements to this Privacy Statement and in the notices we provide to you at the point of collection.
