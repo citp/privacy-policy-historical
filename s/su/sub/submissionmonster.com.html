@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the submissionmonster.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209033226id_/http%3A//www.submissionmonster.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the submissionmonster.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220213928id_/http%3A//www.submissionmonster.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   
@@ -18,22 +18,83 @@
   <meta name="robots" content="ALL">
   <meta name="rating" content="GENERAL">
   <meta name="distribution" content="GLOBAL">
+  <meta property="og:image" content="http://www.submissionmonster.com/images/fb_profile.jpg">
   <!-- Your Meta content goes here -->
 
-  <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="/js/jquery-1.7.1.min.js"></script>
-  <script src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-  <script src="/style/bootstrap/js/bootstrap-transitions.js"></script>
-  <script src="/style/bootstrap/js/bootstrap-dropdown.js"></script>
-  <script src="/style/bootstrap/js/bootstrap-buttons.js"></script>
-  <script src="/style/bootstrap/js/bootstrap-tooltip.js"></script>
-  <script src="/style/bootstrap/js/bootstrap-popover.js"></script>
-  <script src="/style/bootstrap/js/bootstrap-modal.js"></script>
-  <script src="/js/jquery.dataTables.min.js"></script>
-  <script src="/js/site.js"></script>
+  <script src="/js/jquery-1.7.1.min.js.pagespeed.jm.A_xP-993uZ.js"></script>
+  <script src="/js/fancybox/jquery.fancybox-1.3.4.pack.js.pagespeed.jm.TDnM90nhme.js"></script>
+  <script>//<![CDATA[
+!function($){$(function(){"use strict"
+$.support.transition=(function(){var thisBody=document.body||document.documentElement,thisStyle=thisBody.style,support=thisStyle.transition!==undefined||thisStyle.WebkitTransition!==undefined||thisStyle.MozTransition!==undefined||thisStyle.MsTransition!==undefined||thisStyle.OTransition!==undefined
+return support&&{end:(function(){var transitionEnd="TransitionEnd"
+if($.browser.webkit){transitionEnd="webkitTransitionEnd"}else if($.browser.mozilla){transitionEnd="transitionend"}else if($.browser.opera){transitionEnd="oTransitionEnd"}
+return transitionEnd}())}})()})}(window.jQuery)
+//]]></script>
+  <script>//<![CDATA[
+!function($){"use strict"
+var toggle='[data-toggle="dropdown"]',Dropdown=function(element){var $el=$(element).on('click.dropdown.data-api',this.toggle)
+$('html').on('click.dropdown.data-api',function(){$el.parent().removeClass('open')})}
+Dropdown.prototype={constructor:Dropdown,toggle:function(e){var $this=$(this),selector=$this.attr('data-target'),$parent,isActive
+if(!selector){selector=$this.attr('href')
+selector=selector&&selector.replace(/.*(?=#[^\s]*$)/,'')}
+$parent=$(selector)
+$parent.length||($parent=$this.parent())
+isActive=$parent.hasClass('open')
+clearMenus()
+!isActive&&$parent.toggleClass('open')
+return false}}
+function clearMenus(){$(toggle).parent().removeClass('open')}
+$.fn.dropdown=function(option){return this.each(function(){var $this=$(this),data=$this.data('dropdown')
+if(!data)$this.data('dropdown',(data=new Dropdown(this)))
+if(typeof option=='string')data[option].call($this)})}
+$.fn.dropdown.Constructor=Dropdown
+$(function(){$('html').on('click.dropdown.data-api',clearMenus)
+$('body').on('click.dropdown.data-api',toggle,Dropdown.prototype.toggle)})}(window.jQuery)
+//]]></script>
+  <script>//<![CDATA[
+!function($){"use strict"
+var Button=function(element,options){this.$element=$(element)
+this.options=$.extend({},$.fn.button.defaults,options)}
+Button.prototype={constructor:Button,setState:function(state){var d='disabled',$el=this.$element,data=$el.data(),val=$el.is('input')?'val':'html'
+state=state+'Text'
+data.resetText||$el.data('resetText',$el[val]())
+$el[val](data[state]||this.options[state])
+setTimeout(function(){state=='loadingText'?$el.addClass(d).attr(d,d):$el.removeClass(d).removeAttr(d)},0)},toggle:function(){var $parent=this.$element.parent('[data-toggle="buttons-radio"]')
+$parent&&$parent.find('.active').removeClass('active')
+this.$element.toggleClass('active')}}
+$.fn.button=function(option){return this.each(function(){var $this=$(this),data=$this.data('button'),options=typeof option=='object'&&option
+if(!data)$this.data('button',(data=new Button(this,options)))
+if(option=='toggle')data.toggle()
+else if(option)data.setState(option)})}
+$.fn.button.defaults={loadingText:'loading...'}
+$.fn.button.Constructor=Button
+$(function(){$('body').on('click.button.data-api','[data-toggle^=button]',function(e){$(e.target).button('toggle')})})}(window.jQuery)
+//]]></script>
+  <script src="/style/bootstrap/js/bootstrap-tooltip.js.pagespeed.jm.UDxm5MZWz3.js"></script>
+  <script>//<![CDATA[
+!function($){"use strict"
+var Popover=function(element,options){this.init('popover',element,options)}
+Popover.prototype=$.extend({},$.fn.tooltip.Constructor.prototype,{constructor:Popover,setContent:function(){var $tip=this.tip(),title=this.getTitle(),content=this.getContent()
+$tip.find('.popover-title')[$.type(title)=='object'?'append':'html'](title)
+$tip.find('.popover-content > *')[$.type(content)=='object'?'append':'html'](content)
+$tip.removeClass('fade top bottom left right in')},hasContent:function(){return this.getTitle()||this.getContent()},getContent:function(){var content,$e=this.$element,o=this.options
+content=$e.attr('data-content')||(typeof o.content=='function'?o.content.call($e[0]):o.content)
+content=content.toString().replace(/(^\s*|\s*$)/,"")
+return content},tip:function(){if(!this.$tip){this.$tip=$(this.options.template)}
+return this.$tip}})
+$.fn.popover=function(option){return this.each(function(){var $this=$(this),data=$this.data('popover'),options=typeof option=='object'&&option
+if(!data)$this.data('popover',(data=new Popover(this,options)))
+if(typeof option=='string')data[option]()})}
+$.fn.popover.Constructor=Popover
+$.fn.popover.defaults=$.extend({},$.fn.tooltip.defaults,{placement:'right',content:'',template:'<div class="popover"><div class="arrow"></div><div class="popover-inner"><h3 class="popover-title"></h3><div class="popover-content"><p></p></div></div></div>'})}(window.jQuery)
+//]]></script>
+  <script src="/style/bootstrap/js/bootstrap-modal.js.pagespeed.jm.-MYHzJdnZF.js"></script>
+  <script src="/js/jquery.dataTables.min.js+site.js.pagespeed.jc.veIjk6O6rJ.js"></script><script>eval(mod_pagespeed_GBEzUEtNcZ);</script>
+  <script>eval(mod_pagespeed__2gWfAe0dy);</script>
   
-  <link rel="stylesheet" href="/style/nicks.css">
-  <link rel="stylesheet" href="/style/main_final.css">
-  <link rel="stylesheet" href="/js/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="/style/A.nicks.css+main_final.css,Mcc.Q09_CV8Gga.css.pagespeed.cf.IuGqa-xfPY.css">
+  
+  <link rel="stylesheet" href="/js/fancybox/A.jquery.fancybox-1.3.4.css.pagespeed.cf.HCZrBDk0Gw.css" type="text/css" media="screen">
 	<link rel="shortcut icon" href="http://www.submissionmonster.com/favicon.ico?v=2">
 
   <!--[if lte IE 7]>
@@ -43,26 +104,10 @@
 	<!--[if IE 6]>
 		<link rel="stylesheet" href="styles/ie6fix.css" type="text/css" media="screen" />
 	<![endif]-->
-
-  <!-- Place this render call where appropriate -->
-   <script type="text/javascript">
-     (function() {
-       var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-       po.src = 'https://apis.google.com/js/plusone.js';
-       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-     })();
-   </script>
    
-   <script src="/js/jquery.placeholder.min.js"></script>
-   <script>
-
-      $(function() {
-       // Invoke the plugin
-       $('input, textarea').placeholder();
-
-      });
-   </script>
-   
+   <script src="/js/jquery.placeholder.min.js.pagespeed.jm.1vcqpKleVq.js"></script>
+   <script>$(function(){$('input, textarea').placeholder();});</script>
+   <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 </head>
 
 <body>
@@ -71,7 +116,7 @@
     	    <div class="row header">
       <div>
         <div class="logo">
-          <a href="/"><img src="/images/sm_logo_large.png" alt="Submission Monster"></a>
+          <a href="/"><img src="/images/xsm_logo_large.png.pagespeed.ic.SajNeo7mag.png" alt="Submission Monster"></a>
         </div>
         <div class="login_main">
                     <form action="/process.php" name="login" id="login" method="post" class="default top_login">
@@ -106,13 +151,13 @@
       </div>
     </div>
       <div class="row graphic">
-    <img src="images/sm_header_new.jpg">
+    <img src="images/xsm_header_new.jpg.pagespeed.ic.2DElef3IDq.jpg">
   </div>
 
   <div class="row interior_info">
     <h2 class="main_title">Privacy Policy Overview</h2>
     <span class="title_icon">
-      <img src="images/privacy_small.png" alt="Privacy Policy">
+      <img src="images/xprivacy_small.png.pagespeed.ic.3o_0jP4JYh.png" alt="Privacy Policy">
     </span>
     <p>This Privacy Policy covers the Submission Monster treatment of personal information that is recorded when you sign-up for our search engine submission service.</p>
     <p>Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the Submission Monster website, nor does it extend to people that Submission Monster does not employ or manage.</p>
@@ -136,7 +181,7 @@
 
     <div class="social_icons_home">
         <div><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.submissionmonster.com&amp;send=false&amp;layout=button_count&amp;width=49&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:49px; height:21px;margin-top:2px;" allowtransparency="true"></iframe><!-- Place this tag where you want the +1 button to render -->
-        <g:plusone annotation="none" href="http://www.submissionmonster.com"></g:plusone></div>
+        <g:plusone annotation="none" href="http://www.submissionmonster.com"></g:plusone></div>        
     </div>
 
   </div>
