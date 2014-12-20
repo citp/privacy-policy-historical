@@ -1,84 +1,57 @@
-> *The following text is extracted and transformed from the teeshirtpalace.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080336id_/http%3A//www.teeshirtpalace.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeshirtpalace.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220160426id_/http%3A//www.teeshirtpalace.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tee Shirt Palace: Help > Privacy, Security & Accessibility
 
-What information do we collect?
+This notice describes our Privacy Policy. By visiting our site, you are accepting the practices described in this Privacy Policy.
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter.
+### What Personal Information About Customers Do We Gather?
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
+Here are the types of information we gather.
 
-What do we use your information for?
+  * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests and communicating with you.
+  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our Web site.
 
-Any of the information we collect from you may be used in one of the following ways:
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+### What About Cookies?
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser, to provide certain features, and to allow storage of items in your shopping cart between visits.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-• To process transactions
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-• To administer a contest, promotion, survey or other site feature
+### Do We Share the Information We Receive?
 
-• To send periodic emails
+We share information as described below.
 
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+  * **Businesses and Individuals:** We work closely with other businesses and individuals, and we may share information about you with those businesses and individuals.
+  * **Third-Party Service Providers:** We may employ other companies and individuals to perform functions on our behalf. Examples include providing Web site services, fulfilling orders, delivering packages, sending postal mail and e-mail, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise).
+  * **Our Protection and Protection of Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Use and other agreements; or protect our rights, property, or safety and those of our users, and others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+### How Secure Is Information About Me?
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
+  * Your information is protected during transmission by Secure Sockets Layer (SSL) software, which encrypts information you input.
+  * Only the last four digits of your credit card numbers are revealed when confirming an order. Of course, the entire credit card number is transmitted to the appropriate credit card company during order processing.
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-Do we use cookies?
 
-Yes, the website does use cookies.
 
-Do we disclose any information to outside parties?
+### Which Information Can I Access?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We give you access to information about your account and your interactions with us for the limited purpose of viewing and, in certain cases, updating that information.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+### What Choices Do I Have?
 
-Children's Online Privacy Protection Act Compliance
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain features.
+  * You can add or update certain information on pages such as those referenced in the "Which Information Can I Access?" section. When you update information, a copy of the prior version may be kept for our records.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Online Privacy Policy Only
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+### Terms of Use, Notices, and Revisions
 
-Terms and Conditions
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [TeeShirtPalace.com](http://www.teeshirtpalace.com/)
-
-Your Consent
-
-By using our site, you consent to our websites privacy policy.
-
-Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[TeeShirtPalace.com](http://www.teeshirtpalace.com/)
-
-10325 Capital St.
-
-Oak Park, MI 48237
-
-United States
-
-248-549-7922
+If you choose to visit this Web site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, resolution of disputes, and application of the law of the state of Washington. Our business changes constantly, and our Privacy Policy and the Terms of Use will change also. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
