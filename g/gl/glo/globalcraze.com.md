@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcraze.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213011559id_/http%3A//www.globalcraze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcraze.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220121805id_/http%3A//www.globalcraze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,9 +20,9 @@ A “ _cookie_ ” is a small data text file that is placed in your browser and 
 
 [Globalcraze.com](http://www.globalcraze.com/ "Globalcraze.com") may collect and use Users personal information for the following purposes:
 
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and contents.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to send them information and updates pertaining to their order.
 
 ## How we protect your information
@@ -62,12 +62,3 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 ## [Contacting us](http://www.globalcraze.com/contact-us/ "Contacting us")
 
 Feel free to contact the blog Author using the [contact page](http://www.globalcraze.com/contact-us/ "Contacting us") for any other query / information. 
-
-The following two tabs change content below.
-
-  * Bio
-  * Latest Posts
-
-
-
-[GlobalCraze](http://www.globalcraze.com/) is based on WordPress Blogging tips, SEO, Social Media, Technology even more by Chetan Gupta who covers useful articles for Newbie bloggers and readers. Chetan Gupta is a Passionate blogger by profession and resides in New Delhi, India. He is a WordPress and Internet enthusiast. Apart from blogging, he takes delight in listening music, surfing internet and he loves to playing chess. ;) [Chetan on Facebook](http://www.facebook.com/itschetanhere) and Follow him [on Twitter](http://www.twitter.com/GlobalCraze)
