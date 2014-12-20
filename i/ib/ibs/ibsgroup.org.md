@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215050047id_/http%3A//www.ibsgroup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220234843id_/http%3A//www.ibsgroup.org/privacy) for the most accurate reproduction.*
 
 # The Irritable Bowel Syndrome Self Help and Support Group Respects Your Privacy | IBSgroup.org
 
-**Publication Date (revised): October 1, 2013**
+**Publication Date (revised): April 1, 2014**
 
 IBS Self Help and Support Group ("IBS Group") respects your privacy. That's why we have created this Privacy Statement to explain how and why we collect certain information online, and how we use that information. This statement also explains how you can prevent collection of certain information about yourself, if you choose. Please take a few moments to read our Privacy Statement. This statement applies to both information we collect from visitors to the IBSGroup.org Web site, as well as information we collect or have access to when on our message boards.
 
@@ -11,14 +11,17 @@ As IBS Group is constantly innovating and enhancing the forums and services it p
 
 However, regardless of how this Privacy Statement may change or evolve over time, IBS Group will not collect or maintain your private and personally identifiable information without your consent. Further, if you consent to give us your personal information, we will keep it confidential and will not sell, license or disclose your personal information to any third party without your consent, unless we are compelled to do so under the law or to comply with a court order.
 
+If you opt-out of our mailing list we may privately share your email address with a third party so that the 3rd party may separately opt you out of their list.
+
 **Contact for Privacy Inquiries**  
 If you have any questions about this Privacy Statement or other questions about privacy on the IBS Group site, please contact:
 
 **Via Postal Mail:**  
 IBS Self Help and Support Group  
-24 Dixwell Avenue #118
-
-New Haven, CT 06511 
+c/o VerticalScope Inc.  
+111 Peter Street, Suite 700  
+Toronto, Ontario, Canada  
+M5V 2H1
 
 **Or Via E-mail:**  [ibs@ibsgroup.org](mailto:ibs@ibsgroup.org "E-mail Link")
 
