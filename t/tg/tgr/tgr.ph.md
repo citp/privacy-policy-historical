@@ -1,99 +1,133 @@
-> *The following text is extracted and transformed from the tgr.ph privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231214016id_/http%3A//www.telegraph.co.uk/topics/about-us/3691972/Privacy-and-Cookie-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgr.ph privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220195057id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy - Telegraph
+# Privacy Policy | Bitly
 
-This Privacy and Cookie Policy explains how Telegraph Media Group Limited uses personal information we collect and how you can limit our use of that personal data. 
+This Privacy Policy describes the policies and procedures of Bitly, Inc. (“Bitly”, “we” or “us”) on the collection, use and disclosure of information about you on [https://bitly.com](https://bitly.com/) (the “Site”) and the services, features, content or applications offered by Bitly (collectively with the Site, the “Services”). Bitly receives information about you from various sources, such as: (i) when you register for the Site and the Services, through your user account with Bitly (your “Account”); (ii) when you use the Services; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, storage, disclosure and other uses of your information as described in this Privacy Policy. The information you provide may be transferred, processed and/or accessed by us in the United States or another country where we (or our service providers) operate.
 
-1\. **What information do we gather?**
+### What Does This Privacy Policy Cover?
 
-1.1 We gather information that relates to, and can identify you (e.g. your name and address) and information that does not identify you (e.g. a visitor’s behaviour patterns when they visit our website). We collect information that does not identify you to evaluate our site, ensure that our site and services run properly and ensure we are paid for advertising services we offer. 
+This Privacy Policy covers the treatment of the information gathered by Bitly when you are using or accessing the Services. This Privacy Policy also covers Bitly’s treatment of any information about you that Bitly’s business partners share with Bitly or that Bitly shares with its business partners.
 
-2\. **How do we gather information?**
+This Privacy Policy does not apply to the practices of other businesses that Bitly does not own or control, including other companies’ websites, services and applications (“Third Party Services”) that you can access through the Services, such as Facebook or Twitter, or to individuals that Bitly does not manage or employ. While we attempt to partner with only those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to review the privacy policies of any Third Party Services you access.
 
-2.1 Information is gathered in two ways: 
+### What Information Does Bitly Collect and How is it Used?
 
-(1) indirectly (e.g. using website technology or technology when you use a Telegraph application for a mobile device); and 
+The information we collect is primarily used to provide the Services, to process and complete any transactions, to respond to inquiries, to personalize and improve the Services, to monitor and analyze usage and trends of the Services, to provide you with related, relevant information, and for any other purpose for which the information was collected. In connection with certain aspects of the Services, we may request, collect and/or display some information about you. We collect the following types of information from our users.
 
-(2) directly (e.g. when you buy a subscription, sign up to create a telegraph.co.uk profile, download a mobile device application or return coupons published in our newspapers). 
+#### User Information:
 
-2.2 When responding to promotions, offers etc. by postcard, if you do not wish for your details to be used by us to send you promotions and offers, please make this clear by stating "No Offers". 
+When you create an Account, we will collect personal information from you, such as your name and email address. If you create an Account using your login from another account, such as Facebook or Twitter, we will access and collect the personal information about you that the account provides (which is based on your privacy settings), so that you can create your Account with us. We use your contact information to send you information about our Services. You may unsubscribe from receiving certain types of these messages through your Account settings, although Bitly reserves the right to contact you when we believe it is necessary, such as for administrative and account management purposes.
 
-3\. **Use of your information**
+_Note regarding children:_ We do not knowingly collect personal information from children. If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible.
 
-3.1 We might use your personal information to: 
+#### URL Information:
 
-(1) remember you when you visit our website and track your browsing patterns by using cookies. You can prevent this; section 5 deals with this in more detail. 
+One feature of the Services is the ability to create shortened uniform resource locators (URLs) of websites (“Bitly Links”). Bitly collects and stores both the original URL and the shortened URL and, if you are logged in to your Account, we will associate that information with your Account. Bitly also collects and stores the time and date on which you shortened the original URL and when you share the Bitly Link, information on the channels through which the Bitly Link was shared.
 
-(2) ensure any products or services you receive are correctly administered (including subscriptions). 
+#### Metrics and Analytics:
 
-(3) contact you by email, mail or telephone to let you know about any of our products, services or promotions (which, in some cases may be provided by third parties) if you give us permission. 
+Bitly collects information about accesses (such as clicks) of every Bitly Link created through the Services. This information includes, but is not limited to: (i) the IP address and physical location of the devices accessing the Bitly Link; (ii) the referring websites or services; (iii) the time and date of each access; and (iv) information about sharing of the Bitly Link on Third Party Services such as Twitter and Facebook. These metrics and analytics are used by Bitly and its partners to improve their websites and services by, for example, providing value-added features.
 
-(4) ensure materials on the website are presented in the most effective manner for you and your computer. 
+#### User Content:
 
-(5) collate and log numeric internet addresses to improve the website and to monitor website usage. 
+Some features of the Services allow you to provide content to the Services, such as written descriptions of URLs, comments, images and video. For example, using the Bundles feature, Bitly users can curate and “bundle together” a set of links, and can add content to those Bundles, such as comments and videos. All content submitted by you to the Services may be retained by Bitly, even after you terminate your account, and may continue to be shared by third parties, as described in this Privacy Policy.
 
-4\. **Accessing and updating your personal information**
+#### Information Collected From Third Party Services:
 
-4.1 You can update your details and marketing preferences by accessing your account pages on the website, by emailing data.protection@telegraph.co.uk or by writing to us at Data Department, Victory House, Meeting House Lane, Chatham, Kent, ME4 4TT. 
+Some features of the Services allow you to share your content and Bitly Links through your accounts with other companies such as Facebook and Twitter. If you choose to connect Bitly to such Third Party Services, we may collect information related to your use of those Third Party Services, such as authentication tokens that allow us to connect to your Third Party Service accounts or the contact information of your friends (if you choose to connect your friends, followers, or contacts from your account) so that you can contact these people when you use the Services. We may also collect information about how you are using the Services to interact with those connected Third Party Services. Note that Third Party Services may have the ability to restrict the information that is provided to us based on your privacy settings of that account.
 
-4.2 If you have signed up to receive marketing from us by text, to stop this, please reply STOP to the last message you received. 
+#### Information Collected Automatically:
 
-4.3 You have the right to access the personal information held about you. To obtain a copy of the personal information we hold about you, please send an email to data.protection@telegraph.co.uk. There will be an administrative charge of £10 for providing a copy of this information. 
+  * Bitly automatically receives and records information from your web browser when you interact with the Services, such as your IP address, browser type, your general location and cookie information. This information may be used to help us understand how users transit a website, to fight spam/malware, to facilitate collection of data concerning your interaction with the Services (e.g., what Bitly Links you have clicked on) and for other similar purposes.
+  * Bitly also automatically receives and records information that your mobile device transmits when you access the Services, like a device identifier, device settings, and operating system. This information is used to facilitate your access and use of the Services, to access and use other Third Party Services, and for other similar purposes.
+  * Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. Bitly may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
+  * We will collect information about your general location (such as your city and state) when you visit the Site (which is derived from your IP address) and we may use various technologies to determine your location (if you enable this feature), when you access and use the Services through a mobile device.
+  * We may receive a confirmation when you open an email from us. We use this confirmation to improve our customer service.
 
-5\. **Cookies**
 
-5.1 A cookie is a small piece of information that is placed on your computer when you visit certain websites. Find out more about the use of cookies on http://www.cookiecentral.com. 
 
-5.2 We use cookies to: 
+#### Cookie Policy:
 
-(1) remember you when you visit this website to keep track of your browsing patterns and to build up a profile of how you and other users use the website. 
+  * Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit our Site and use the Services through the web.
+  * Bitly cookies also allow Bitly to track when you have clicked on a Bitly Link. Each click of a Bitly Link is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser and associated with Bitly.
+  * Bitly cookies do not, by themselves, contain any personal information about you, and we do not combine the general information collected through cookies with your personal information to tell us who you are. We do, however, use cookies to identify that your web browser has accessed a Bitly Link and may associate that information with your Account if you have one.
+  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. If you disable cookies, you will not be able use most features of the Services. Bitly cookies are set to automatically expire after 6 months from when they are set.
+  * You may also ask Bitly not to place cookies on your web browser. When cookies are disabled in this manner, clicks on Bitly Links are not tied back to or associated with your web browser.
+  * You can also manage other companies’ cookies used for online advertising here: [Consumer Choice Page](http://www.aboutads.info/choices/)
+  * This Privacy Policy covers the use of cookies by Bitly only and does not cover the use of cookies by any Third Party Services. Bitly does not control when or how third parties place cookies on your computer, such as when you visit the website from a Bitly Link.
 
-(2) make our website work as efficiently as possible. 
 
-(3) administer services to you and to advertisers. 
 
-5.3 Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates. 
+### What Information Is Shared?
 
-5.4 NetRatings UK Limited are one of the third parties we use to provide us with information about how users use our website. Click here to learn more information about how we use their third party service to collect and use information about this website. 
+The Services are designed to help you share information with others. As a result, much of the information generated through the Services is shared publicly or with third parties.
 
-6\. **Third party advertising cookies**
+#### Bitly Links and Usage Information:
 
-6.1 Most of the advertisements you see on the website are generated by third parties. 
+Much of your activity on and through the Services is public by default. This includes, but is not limited to:
 
-Some of these third parties generate their own cookies (or web beacons) to track how many people have seen a particular advertisement (or use the services of third parties to do this), and to track how many people have seen it more than once. These cookies cannot be used to identify an individual; they can only be used for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Some of the information gleaned from third party cookies will be aggregated with other anonymous information for statistical purposes. The third party companies that generate these cookies have their own, very strict, privacy policies but we don't have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users of the website). 
+  * The original URLs you have shortened, their corresponding Bitly Links, the time and date those URLs were shortened, and metrics and analytics information for your Bitly Links, as described above;
+  * Aggregate non-personal information about what Bitly Links you have clicked on and associated metrics and analytics information, as described above; and
+  * Any Bundles you have created, along with content added to those Bundles, if you have elected to make those Bundles public.
 
-6.2 If you would like to disable "third party" cookies generated by advertisers or providers of targeted advertising services, you can turn them off by going to the third party's website and getting them to generate a one-time "no thanks" cookie that will stop any further cookies being written to your machine. Here are links to the two main third party advertising platforms we use, each of which haveinstructions on how to do this: 
 
-http://www.doubleclick.com/us/about_doubleclick/privacy/ad-cookie/ 
 
-http://www.audiencescience.com/privacy 
+Registered users may have some of this information associated with their Accounts. Unregistered users will not have this association, but information concerning their use of the Services (such as what Bitly Links they click on, when they clicked, from where they clicked, etc.) is tracked anonymously through the use of cookies and stored by Bitly.
 
-6.3 You can also visit the trade body representing these advertising companies for more information on how to opt out of these cookies: http://youronlinechoices.com/ 
+For registered users, some of this information is publicly accessible through a unique URL, which you can make non-public through your Account settings when you are logged in. Removing access to the unique URL does not, however, make this information non-public, and it may still be accessible through other means, such as Bitly’s API services.
 
-7\. **Security**
+Bitly Links and the general use of the Services may be shared in anonymized and/or aggregated form (in other words, non-personally identifiable) with our customers and business partners, like with the owners of the URLs that are shared through the Services. This information enables them to do things like better understand how people use their products and services and other products and services, to learn about the interests their users have and how our Services interoperate with their services, to do product development, marketing optimization and research, and to improve the relevancy of any online advertisements or marketing that is displayed through their services (or to tailor it to your interests).
 
-7.1 The password you provide when registering with the website is encrypted to ensure protection against unauthorised access to your personal information. 
+Please also remember that if you choose to provide information about you using certain features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available to others.
 
-7.2 We invest in high-quality security and do our utmost to protect user privacy. No data transmission over the Internet can be entirely secure, and therefore we cannot guarantee the security of your personal information and/or use of the website. Any information that you send is at your own risk and may be read by others. However once we have received your personal information we use strict procedures to protect the security of your personal information. 
+#### IP Address Information:
 
-8\. **Disclosing your information**
+While we collect and store IP address information, that information is not shared publicly. We do at times, however, share IP address information with our partners, service providers and other companies with whom we conduct business. In most cases, when we share your IP address with other third parties, we will use a cryptographic hash of the IP address, which cannot feasibly be reversed into the actual IP addresses themselves or linked to you individually.
 
-8.1 We may disclose your personal information if we are approached by a potential buyer of our business, if we required to do so by law or in good-faith believing such action is necessary to comply with the law. 
+#### Information You Elect to Share:
 
-8.2 We sometimes share your personal information with third parties who are our subcontractors or providers of various products and services on our behalf e.g. the providers of the services available on our “Offers” page: http://www.telegraph.co.uk/sponsored/offers/. 
+When creating a Bitly Link, you can share that Bitly Link through Third Party Services. Any information that you elect to distribute through Third Party Services is provided to them and may then become accessible to users of those services. You can also access other Third Party Services through the Services, for example by clicking on links in the Statistics page for a Bitly Link. We recommend that you review the terms of services and privacy policies of such Third Party Services that you access through the Services, since Bitly does not control and is not responsible for the privacy practices of these Third Party Services.
 
-8.3 We never sell personal information, or pass it to third parties for marketing purposes without your permission. 
+#### User Profile Information:
 
-9\. **Where we store your personal information**
+User profile information including your username, Twitter handle and Facebook account name (to the extent you have linked your Account with those services), and other information you enter may be displayed to other users to facilitate user interaction within the Services. Users’ email addresses will not be directly revealed to other users by Bitly.
 
-9.1 The personal information that we collect from you may be sent and stored outside the European Economic Area ("EEA") in order to carry out the activities listed in “Use of Your Information”. 
+#### Information Shared with Service Providers of Bitly:
 
-10\. **Changes to this Policy**
+We may employ and contract with people and other entities to perform certain tasks on our behalf and under our direction (our “Service Providers”). We may need to share information about you with our Service Providers in order to provide products or services to you. Unless we tell you differently, our Service Providers do not have any right to use the information we share with them beyond what is necessary to assist us.
 
-10.1 If we change our Policy, we will post the changes on this page. Please check the website regularly for any changes to this Policy. 
+#### Information Disclosed Pursuant to Business Transfers:
 
-11\. If you don't feel we're adhering to this Policy, what should you do? 
+We may transfer and/or provide information about our users in connection with an acquisition, sale of company assets, or other situation where user information would be transferred as one of our business assets. In such a case, the acquirer of Bitly may continue to use your information as set forth in this policy.
 
-11.1 If you believe that we have not adhered to this Policy, please notify us by email at data.protection@telegraph.co.uk and we will try to solve the problem promptly. 
+#### Information Disclosed for the Protection of Bitly and Others:
 
-_This Policy was last updated on 3 August 2011_. 
+Bitly also reserves the right to access, read, preserve, and disclose any information as it reasonably believes is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these Terms of Service, including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect the rights, property or safety of Bitly, its users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+
+#### Information We Share With Your Consent:
+
+We will share information about you when you instruct us to do so, such as when you share Bitly Links or content with others through the Services or if we notify you that the information you provide will be shared in a particular manner and you provide such information (like sharing/posting it with a Third Party Service).
+
+### How Is My Information Protected?
+
+Your Account information is protected by a password for your privacy and security. You can prevent unauthorized access to your account by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+
+Bitly endeavors to protect the information it collects about its users using industry-standard security processes and controls, however, despite these efforts, no security measure is perfect or impenetrable and Bitly does not guarantee or warrant that such measures will prevent unauthorized access to the information about you that is stored by Bitly. In the event we experience a breach of security, we will promptly notify you if your personal information has been compromised, in accordance with applicable law.
+
+### What Choices Do I Have and What Information of Mine Can I Access?
+
+You don’t need an account to create Bitly Links and you can use many of the features of the Services without registering, thereby limiting the type of information that is collected about you individually.
+
+If you are a registered user, you can access information associated with your Account by logging into the Site. This information includes a history of the URLs you have shortened, and access to the metrics pages for those URLs. You can deactivate your Account at any time through your Account settings page. If you deactivate your Account, you will no longer be able to access or use the Services.
+
+Please note that in the interest of ensuring that existing Bitly Links continue to function for all of our users, the Bitly Links that you have created and shared cannot be deleted or disabled (even if your Account is deactivated), and any shortening and sharing activity that has already occurred on your Account also cannot be deleted (but your user history can be set to private from within your Account settings). If you have concerns about any unauthorized usage of your Account, please contact us at [support@bitly.com](mailto:support@bitly.com) and we will disable future shortening activity on your Account.
+
+If you are not a registered user, you can access the metrics pages for your Bitly Links by adding the “+” symbol to the end of the URL.
+
+### What Happens When There Are Changes to this Privacy Policy?
+
+Bitly may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes in the way we collect or use information, we will notify you by posting an announcement on the Services or sending you an email and we will indicate when those changes will become effective. You are agreeing to be bound by any changes to the Privacy Policy when you use the Services after those changes become effective.
+
+### What If I Have Questions or Concerns?
+
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to: [support@bitly.com](mailto:support@bitly.com). We will make every effort to resolve your concerns.
