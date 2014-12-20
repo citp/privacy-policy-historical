@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvyaar.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531021220id_/http%3A//tvyaar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvyaar.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220090851id_/http%3A//tvyaar.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Apne TV
 
