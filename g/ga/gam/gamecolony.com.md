@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecolony.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602061150id_/http%3A//www.gamecolony.com/privacy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecolony.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220120759id_/http%3A//www.gamecolony.com/privacy2.html) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -23,8 +23,8 @@ Public Chat
 
 Security 
 
-  * All of the player data we collect is protected against unauthorized access. In order to maintain data accuracy and ensure the correct use of information, we have put in place appropriate electronic, and managerial procedures to safeguard and secure the information we collect on-line. All transactions are run through regularly maintained encrypted pathways to ensure security. The site and the software have **military-grade security** measures in place to protect the loss, misuse, and alteration of the information under our control. 
-  * When you access your account information, it is protected by our highly secure encoding and processing technologies, utilizing the 128 bit SSL encryption which ensures server and client (us and you) authentication through encrypted algorithms, and is the industry standard. 
+  * All of the player data we collect is protected against unauthorized access. In order to maintain data accuracy and ensure the correct use of information, we have put in place appropriate electronic, and managerial procedures to safeguard and secure the information we collect on-line. All transactions are run through regularly maintained encrypted pathways to ensure security. The site and the software have industry-standard security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+  * When you access your account information, it is protected by our industry-standard secure encoding and processing technologies, utilizing the 256 bit SSL encryption which ensures server and client (us and you) authentication through encrypted algorithms. 
   * GameColony.com utilizes the latest encryption technology to ensure that sensitive data is transferred securely over the Internet. All credit card details are stored on in full compliance with and certyified by SecurityMetrics.com. This means that using your credit card on our site could be far safer than using it to order a pizza at your local cafe... 
 
 
