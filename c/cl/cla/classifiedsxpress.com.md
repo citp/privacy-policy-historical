@@ -1,150 +1,134 @@
-> *The following text is extracted and transformed from the classifiedsxpress.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328225636id_/http%3A//www.classifiedsxpress.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsxpress.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220043430id_/http%3A//www.hagenhosting.com/about/privacy.html) for the most accurate reproduction.*
 
-# ClassifiedsXpress - Submit Free Classified Ads | Post Free Ads | Find, buy, sell or rent cars, properties, your products, services, jobs, business advertising and many more...
+# Web hosting: premium web hosting
 
-  * [Home](http://www.classifiedsxpress.com/)
-  * »
-  * [ClassifiedsXpress - Submit Free Classified Ads](https://web.archive.org/hsx/classifieds.hsx/)
+## Hagen Hosting Privacy Policy Statement
 
-[Search Ads](https://web.archive.org/search.html) [Post Ads](https://web.archive.org/post.html) [My Account](https://web.archive.org/my_account.html) [My Checklist](https://web.archive.org/my_checklist.html) [My Searches](https://web.archive.org/my_searches.html) [Auto Notify](https://web.archive.org/auto_notify.html)
+Hagen Hosting is committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customers. This Privacy Policy governs the manner in which Hagen Hosting collects, uses, stores, archives and discloses information collected from visitors of this Web site.
 
-Submit **Free Classified Ads** \- Find, Buy, sell or rent cars, properties, your products and services, jobs, business advertising and many more...
-
-Just about anything you want! Enhance your ads visibility with featured, premium and ranked classifieds.
-
-Classified ad solutions powered by a "state of the art" SEO friendly application software. All ads are human edited and goes live after our editorial team review.
-
-**IMPORTANT:** Please ensure you select and post your ad in the **correct category** in order to avoid rejection of your ad!
-
-## ClassifiedsXpress - Submit Free Classified Ads Privacy Policy Statement
-
-ClassifiedsXpress - Submit Free Classified Ads is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the ClassifiedsXpress - Submit Free Classified Ads. This policy may change from time to time so please check back periodically.
+For visitors, once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with Hagen Hosting.
 
 This policy will let you know:
 
-  1. What personally identifiable information is collected from you
-  2. What cookies are and how they are used
-  3. How your information is used
-  4. Who is collecting your information
-  5. With whom your information may be shared
-  6. What choices are available to you regarding collection, use, and distribution of your information
-  7. How you can access, update or delete your information
-  8. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information
-  9. How ClassifiedsXpress - Submit Free Classified Ads protects children's privacy
-  10. What else you should know about your online privacy
+  1. What personally identifiable information is collected from Visitors?
+  2. How do we use the information collected from visitors?
+  3. What information is collected from Customers?
+  4. How can you access, update or delete your information?
+  5. How do we use the information collected from Customers?
+  6. What are the kind of security precautions that are in place to protect the loss, misuse, or alteration of your information?
+  7. How does Hagen Hosting protect children's privacy?
+  8. What else should you know about your online privacy?
+  9. Can changes be made to this Policy?
 
 
 
 * * *
 
-**What personally identifiable information is collected from you**
+**What personally identifiable information is collected from Visitors?**
 
-The ClassifiedsXpress - Submit Free Classified Ads collects information in several ways from different parts of our web site.
+Hagen Hosting collects information in several ways from different parts of our web site. The primary goal of Hagen Hosting in collecting personal information is to provide you, the user, with a customized experience and to assist your navigation throughout this web site.
 
-Some personal information is gathered when you register. During registration, we ask for your name and email address. The system will also ask for your street address, city, state/province, zip/postal code, country, telephone number, and the URL of your web site, although only fields that are marked with an asterisk (*) on the registration field are required. This information is used solely to assist you in navigating the system by automatically filling in certain forms (such as the ad posting form) with your information so that you don't have to continually re-enter it. Once you register you are no longer anonymous to ClassifiedsXpress - Submit Free Classified Ads - you have a username and are able to take full advantage of the many offerings of the ClassifiedsXpress - Submit Free Classified Ads.
+When you visit our web site, our web server collects basic visitor information about you that includes your ISP's domain, the time you accessed our web site, and the pages from within our web site that you visit. The web server may also collect other information such as the web browser that you are using (which may also include operating system information) and the page that you came from before visiting this page on our server.
 
-In addition to registration we may ask you for personal information at other times, including (but not limited to) when you place ads or take advantage of the other features of the ClassifiedsXpress - Submit Free Classified Ads. If you contact us, we may keep a record of that correspondence. Every page within the ClassifiedsXpress - Submit Free Classified Ads includes a link to this Privacy Policy.
+Hagen Hosting may collect aggregated, anonymous data about Visitors, including, for example, the number of unique views received by the Web site, the domains from which such Visitors originate, and similar information that does not identify any particular User.
 
 Back to Top
 
 * * *
 
-**What cookies are and how they are used**
+**How do we use the information collected from Visitors?**
 
-As part of offering and providing customizable and personalized services, the ClassifiedsXpress - Submit Free Classified Ads may use [cookies](http://www.zdwebopedia.com/cookie.htm) to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Several features of the ClassifiedsXpress - Submit Free Classified Ads require that you accept cookies in order to work properly. (See "What choices are available to you regarding collection, use, and distribution of your information" for more information on cookies.)
+The basic user information collected is used to help us analyze web traffic and to improve the content of our web site. Cookies may be used to facilitate your customer interaction with us.  Cookies are small pieces of information that a web site can store in a designated file on your computer. Cookies allow a web application to respond to you as an individual. By gathering and remembering information about your preferences, the web application can tailor its operation to your needs, likes, and dislikes.
 
-Generally, we use cookies for the following purposes:
+We may from time to time disclose to third parties aggregate information on our web site's traffic profile. For example, Internet advertising companies may require this data to help us better target our advertisements on our web site(s) and/or other web sites.
 
-  1. To identify and label all "new" ads since your last visit to the site.
-  2. Optionally to permanently save your password on your computer so you don't have to re-enter it each time you visit our site.
-  3. To enable you to "checklist" ads that you want to mark for future retrieval and viewing.
-
-
-
-Advertising networks that serve ads onto the ClassifiedsXpress - Submit Free Classified Ads may also use their own cookies.
-
-The ClassifiedsXpress - Submit Free Classified Ads may also collect [IP addresses](http://www.zdwebopedia.com/TERM/I/IP_address.html) for system administration and to report aggregate information to our advertisers.
+Note that our site may provide links to products and services offered by other companies; the company's web site that you link to will be able to determine that you linked from our web site.
 
 Back to Top
 
 * * *
 
-**How your information is used**
+**What information is collected from Customers?**
 
-The primary goal of the ClassifiedsXpress - Submit Free Classified Ads in collecting personal information is to provide you, the user, with a customized experience and to assist your navigation throughout the ClassifiedsXpress - Submit Free Classified Ads.
+Hagen Hosting collects information in several ways from different parts of our web site.
 
-Back to Top
+When you sign up for Hagen Hosting's services, you provide us with both contact and payment information. Contact information typically includes your name, address, phone number and domain name. Payment information typically includes your credit card number.
 
-* * *
-
-**Who is collecting your information**
-
-When you are asked for personal information on the ClassifiedsXpress - Submit Free Classified Ads, you are sharing that information with the ClassifiedsXpress - Submit Free Classified Ads alone, unless it is specifically stated otherwise. However, some activities will, by their very nature, result in your personal information being revealed to other users of the ClassifiedsXpress - Submit Free Classified Ads. For example, when you enter personal information on the ad posting form, this information will generally be included in your ad, unless specifically stated otherwise.
+While you are a Hagen Hosting customer, we manage information with regard to your account status, choice of services, and customer logs. In addition, we may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications.
 
 Back to Top
 
 * * *
 
-**With whom your information may be shared**
+**How can you access, update or delete your information?**
 
-As a general rule, ClassifiedsXpress - Submit Free Classified Ads will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared.
-
-ClassifiedsXpress - Submit Free Classified Ads may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service of the ClassifiedsXpress - Submit Free Classified Ads or may be causing injury to or interference with (either intentionally or unintentionally) the rights or property of the ClassifiedsXpress - Submit Free Classified Ads, other users of the ClassifiedsXpress - Submit Free Classified Ads, or anyone else %that could be harmed by such activities. ClassifiedsXpress - Submit Free Classified Ads may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
+We will provide you with the means to ensure that your personal information is correct and current.
 
 Back to Top
 
 * * *
 
-**What choices are available to you regarding collection, use, and distribution of your information**
+**How do we use the information collected from Customers ?**
 
-If you choose not to register or provide personal information, you can still use most of the ClassifiedsXpress - Submit Free Classified Ads, but you will not be able to access areas or use features that require registration.
+We use the contact information you provide us to establish our service for you. We use payment information for payment processing purposes only. We create and maintain other information such as customer account status, choice of services, and customer logs in the normal course of providing service.
 
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those services of the ClassifiedsXpress - Submit Free Classified Ads that require registration in order to participate. These services include the identification of new ads that have been posted since your last visit, auto-fillin of the logon form, and the Checklist feature. You can still use most of the features of the ClassifiedsXpress - Submit Free Classified Ads even if you do not accept cookies.
+Hagen Hosting may share customer information with selected partners/third parties, for example, to provide you with information about products which might be of interest to you or to enable you to take advantage of special partner programs. Hagen Hosting may also use customer information to provide customers with system information or information about new or upgraded products.
 
-The ClassifiedsXpress - Submit Free Classified Ads does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service.
+We will not otherwise disclose customer personal and account information unless we have reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Hagen Hosting, our customers, or others, or where Hagen Hosting has a good faith belief that the law requires such disclosure.
 
-Back to Top
+Hagen Hosting also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Hagen Hosting stores or transmits for its customers. The circumstances under which Hagen Hosting will disclose such electronic customer communications are when:
 
-* * *
+  1. It is necessary in order to provide service to the customer;
+  2. It is necessary to protect the legitimate interests of Hagen Hosting and its customers;
+  3. It is required to cooperate with interception orders, warrants, or other legal process that Hagen Hosting determines in its sole discretion to be valid and enforceable; and
+  4. It is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Hagen Hosting and appear to pertain to the commission of a crime.
 
-**How you can access, update or delete your information**
 
-We will provide you with the means to ensure that your personal information is correct and current. You may edit or delete your user profile at any time by clicking on the "My Profile" link or graphic provided by the system once you are logged in. Once you have logged onto the system during a given session, wherever you go on the ClassifiedsXpress - Submit Free Classified Ads, your information will stay with you until or unless you click on the "Logoff" link, which is accessible from within the "My Profile" screen.
 
-If you are a previously registered user and you have lost or forgotten your password, you may obtain it by email by using our "Forgot Password" feature. Click the button on any login page to request that your password be emailed to you. We cannot provide your password by any other means.
+Hagen Hosting disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Hagen Hosting will, however, review, delete, or block access to communications that may harm Hagen Hosting, its customers or third parties. The grounds on which Hagen Hosting may take such action include, but are not limited to, actual or potential violations of Hagen Hosting's Terms of Service.
 
-Your ClassifiedsXpress - Submit Free Classified Ads account can be deleted, but doing so will result in not being able to access any of the features of the program that require user registration.
+Customers may opt out of receiving newsletters and/or notices of new or upgraded products and services from Hagen Hosting by sending a request to [privacy@hagenhosting.com](mailto:privacy%40HagenHosting.com). In this request, customers must identify their domain name and contact information.
 
-Back to Top
-
-* * *
-
-**The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information**
-
-Other than the administrator of the ClassifiedsXpress - Submit Free Classified Ads or other authorized personnel of the ClassifiedsXpress - Submit Free Classified Ads, you are the only person who has access to your personal information. Your user registration is password-protected to prevent unauthorized access.
-
-We recommend that you do not divulge your password to anyone. ClassifiedsXpress - Submit Free Classified Ads will never ask you for your password in an unsolicited phone call or in an unsolicited email. As an extra security precaution, you may want to logoff once you have completed a session in the ClassifiedsXpress - Submit Free Classified Ads. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, ClassifiedsXpress - Submit Free Classified Ads cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
+Please note, however, that Hagen Hosting reserves the right to send bulletins and other important information regarding our services at our discretion.
 
 Back to Top
 
 * * *
 
-**How ClassifiedsXpress - Submit Free Classified Ads protects children's privacy**
+**What are the kind of security precautions that are in place to protect the loss, misuse, or alteration of your information?**
 
-ClassifiedsXpress - Submit Free Classified Ads is a general audience web site. Children should always ask a parent for permission before sending personal information to anyone online. ClassifiedsXpress - Submit Free Classified Ads does not share personal information about users %under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, ClassifiedsXpress - Submit Free Classified Ads will not send any direct email offers to users who indicate they are under the age of 13.
+Other than authorized personnel of Hagen Hosting, you are the only person who has access to your personal information. Your account is password-protected to prevent unauthorized access.
+
+We recommend that you do not divulge your password to anyone. Hagen Hosting will never ask you for your password in an unsolicited phone call or in an unsolicited email. As an extra security precaution, you may want to logoff once you have completed a communications session with our servers via FTP, Telnet, SSH, your Control Panel, or other means. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
+
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Hagen Hosting cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
 Back to Top
 
 * * *
 
-**What else you should know about your online privacy**
+**How does Hagen Hosting protect children's privacy?**
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example in ads that you post or through email - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+HagenHosting.com is a general audience web site. Children should always ask a parent for permission before sending personal information to anyone online. Hagen Hosting does not share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, Hagen Hosting will not send any direct email offers to users who indicate they are under the age of 13.
+
+As a result of the new Children's Online Privacy Protection Act (COPPA) in the United States, we are required to prohibit children under 13 who reside in the U.S. from using any of the features of our site that require them to submit information via forms. This is due to the onerous reporting and verification requirements that this new law places on web sites that allow children under 13 to submit information via forms. Since we do not have the large, dedicated staff that would be necessary to comply with these requirements, our only option in order to remain in compliance with the law is to prohibit all children under 13 who reside in the U.S. from posting any information via forms on our web site. Therefore, children under 13 who reside in the U.S. should not submit any information via forms on our web site, and if you submit such information, you warrant that you are either over the age of 13 or not located in the U.S. and thus not subject to COPPA.
+
+Back to Top
+
+* * *
+
+**What else should you know about your online privacy?**
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
 
 Back to Top
 
 * * *
+
+Can changes be made to this Policy?
+
+Hagen Hosting may modify this Privacy Policy at any time. This Privacy Policy was last revised on May 4, 2001
+
+Back to Top
+
+Copyright © 1995-2012 Hagen Software Inc.
