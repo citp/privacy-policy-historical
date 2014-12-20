@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathportal.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325032228id_/http%3A//www.mathportal.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathportal.org privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220070227id_/http%3A//www.mathportal.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for www.mathportal.org
 
