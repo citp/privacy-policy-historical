@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pophangover.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527050651id_/http%3A//www.pophangover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pophangover.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220051811id_/http%3A//www.pophangover.com/privacy) for the most accurate reproduction.*
 
 # Pophangover Network Disclosure and Privacy Policy » POPHANGOVER
 
