@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegreatimages.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626001819id_/http%3A//www.freegreatimages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegreatimages.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190607id_/http%3A//www.freegreatimages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
