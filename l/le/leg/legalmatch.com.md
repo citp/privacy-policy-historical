@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the legalmatch.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630090032id_/http%3A//www.legalmatch.com/company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalmatch.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220015019id_/http%3A//www.legalmatch.com/company/privacy_statement.html) for the most accurate reproduction.*
 
 # LegalMatch Privacy Statement
 
 [](https://privacy.truste.com/privacy-seal/LegalMatch-com/validation?rid=e5840f6c-4417-46a7-a71d-ebe13bcf17b7 "TRUSTe online privacy certification")
 
-LegalMatch [[www.legalmatch.com](http://www.legalmatch.com/ "Find the Right Lawyer at LegalMatch")] has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [www.legalmatch.com](http://www.legalmatch.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@legalmatch.com](mailto:privacy@legalmatch.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+LegalMatch.com [[www.legalmatch.com](http://www.legalmatch.com/ "Find the Right Lawyer at LegalMatch")] has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, [www.legalmatch.com](http://www.legalmatch.com/) and our mobile website. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@legalmatch.com](mailto:privacy@legalmatch.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
 
 ## Privacy and Security Statement
 
@@ -28,13 +28,21 @@ However, to avoid unauthorized use of your account by others, you must take step
 
 When you register with LegalMatch.com, we ask that you provide your name, email address, and zip code. If you are an attorney or other professional services provider, you will also be asked to provide your firm name, address, telephone number, state where you are licensed, and bar number. In the course of your use of the site, we may also request additional information from you. For example, if you are an attorney or other professional services provider, you will be asked to describe your areas of practice, experience, and education. If you are searching for an attorney, you will be asked to describe your situation so that attorneys can evaluate your legal needs and make a response to work for you.
 
-In the course of using our site, we automatically track certain information including your IP address, what browser you are using, and the URL you just came from. We also collect information about your use of our site in order to optimize our site usability.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-We use cookie technology to assist users in navigating through our site more efficiently. Third party affiliates may also set cookies on the site for the purpose of tracking leads. A cookie is a small text file that resides on your hard drive. At various points on our site, our system will request the cookie from your browser so that we can retrieve the stored information. The cookie may be linked to a unique number that our system can read to determine your user ID and preferences. This prevents you from repeatedly making the same selections. Knowing how you use the site enables us to better tailor content and services to your needs. The cookie does not contain information that others could use to personally identify you, and other Web sites cannot access the information we store on your computer. Although we use both session ID cookies and persistent cookies, most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. You must set your browser to accept cookies to be able to use our site at this time.
+We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers' or Users' personally identifiable information.
+When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and the device identifier (or "UDID").
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking Here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We do not ask you for, access or track any location based information from your mobile device at any time while downloading or using our Mobile site.
+
+Technologies such as: cookies, beacons, tags and scripts are used by LegalMatch.com and our partners marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
+
+Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>. 
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 NOTE: Participant may also link to the NAI opt-out mechanism [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
@@ -42,7 +50,7 @@ NOTE: Participant may also link to the NAI opt-out mechanism [www.networkadverti
 
 The primary reason that LegalMatch collects information from its users is to match the right attorneys and professional services providers with the people and businesses that need them.
 
-LegalMatch.com does not sell, trade, or rent your personal information to others without your permission. We use your information to improve our marketing and promotional efforts, statistically analyze site usage, and improve our site's content, offering, and layout. If you are an attorney member, we may use information we have about you as part of our ongoing marketing efforts, including but not limited to displaying your profile, practice and rating information publicly in association with LegalMatch. Your IP address may be used to help diagnose problems with our server, to administer our Web site, and for security needs. LegalMatch.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to third-party vendors, but these statistics will include no personal identifying information.
+LegalMatch.com does not sell, trade, or rent your personal information to others without your permission. We will share your personal information with third parties only in the ways that are described in this privacy policy. We use your information to improve our marketing and promotional efforts, statistically analyze site usage, and improve our site's content, offering, and layout. If you are an attorney member, we may use information we have about you as part of our ongoing marketing efforts, including but not limited to displaying your profile, practice and rating information publicly in association with LegalMatch. Your IP address may be used to help diagnose problems with our server, to administer our Web site, and for security needs. LegalMatch.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to third-party vendors, but these statistics will include no personal identifying information.
 
 We may use the information we collect to notify you about the status of your LegalMatch account, important functionality changes to our Web site, new LegalMatch.com services, and special offers we think you'll find valuable. We may also contact you to verify your information or ask you about your experiences with our system.
 
@@ -65,6 +73,8 @@ In order to achieve the benefits of the LegalMatch service, there are some situa
 
 
 
+We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
 LegalMatch.com may also develop business partnerships with other companies, as part of our service to users. These special business partnerships may include acquisitions by or mergers with other companies or special joint ventures that integrate our Web sites and services. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 Whenever LegalMatch shares personally identifying information with a partner, we will do so confidentiality and require use restrictions on the information.
@@ -75,7 +85,7 @@ LegalMatch.com may release account information when we believe, in good faith, t
 
   * comply with law
   * enforce or apply the terms of any of our user agreements, or
-  * protect the rights, property or safety of LegalMatch.com, our users, or others.
+  * protect the rights, property or safety of LegalMatch.com, our users, or others, investigate fraud, or respond to a government request.
 
 
 
@@ -89,11 +99,11 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
 ### IV. Consent and Changes to This Policy
 
-By using our Web site, you consent to the collection and use of this information by LegalMatch.com. If we change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it. If we make any retroactive changes to how we disclose personally identifiable information to others, we will notify you by email and provide you at least ten (10) days to object to such disclosure and to delete your registration.
+By using our Web site, you consent to the collection and use of this information by LegalMatch.com. If we change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it. If we make any retroactive changes to how we disclose personally identifiable information to others, we will notify you by email and provide you at least ten (10) days to object to such disclosure and to delete your registration. If we make any material changes, we will notify you by email or by means of a notice on this site prior to the change becoming effective.
 
 [LegalMatch.com](http://www.legalmatch.com/)  
 395 Oyster Point Blvd. Suite 550  
 South San Francisco, CA 94080  
 [privacyoptout@legalmatch.com](mailto:privacyoptout@legalmatch.com?subject=Privacy%20Issues)
 
-Version 3.2.4; Effective 05/05/2014
+Version 3.5.1; Effective 09/12/2014
