@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-nextlevel.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022131id_/http%3A//www.the-nextlevel.com/tnl/faq.php%3Ffaq%3Dvb_faq%23faq_privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-nextlevel.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220213749id_/http%3A//www.the-nextlevel.com/tnl/faq.php%3Ffaq%3Dvb_faq%23faq_privacy_statement) for the most accurate reproduction.*
 
 # The Next Level Forum FAQ
 
