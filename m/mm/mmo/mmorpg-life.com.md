@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmorpg-life.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527153019id_/http%3A//www.mmorpg-life.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpg-life.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220201336id_/http%3A//www.mmorpg-life.com/privacy-policy) for the most accurate reproduction.*
 
 # MMORPG Life » Privacy PolicyMMORPG Life
 
@@ -6,8 +6,8 @@ At Mmorpg-Life.com we recognize that privacy is important. This policy describes
 
   1. **How we collect information about you**  
 The only information we collect are related to site contributors. If you write a comment or if you register as a site contributor, we collect the following types of information from you:  
-\- Email address you can access  
-\- IP addressAny other information collected would be provided entirely at your choice.
+– Email address you can access  
+– IP addressAny other information collected would be provided entirely at your choice.
   2. **How we use the personal information we collect:**  
 We do not share any of this information with outside parties.
   3. **How you can access or change your personal information**  
