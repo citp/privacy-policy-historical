@@ -1,24 +1,66 @@
-> *The following text is extracted and transformed from the safecaller.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624185029id_/http%3A//www.safecaller.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safecaller.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220140905id_/http%3A//www.safecaller.com/privacy.php) for the most accurate reproduction.*
 
-# Do Not Call Compliance Are You in Danger of Inadvertently Breaking DNC compliance?
+# Privacy Policy | SafeCaller.com
 
-Since your privacy is important to us, SafeCaller has created this privacy statement in order to demonstrate our firm commitment to privacy. 
+**What information do we collect?**
 
-This document sets forth the SafeCaller Online Privacy Policy (the “Privacy Policy”) for this web site, www.safecaller.com (the “Site”). If you have objections to the Privacy Policy, you should not access or use this Site. 
+We collect information from you when you register on our site, place an order or fill out a form. 
 
-By visiting this site or downloading the software you confirm and acknowledge that you have read this statement and that you are happy for your data to be used under the terms of this statement. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-**Your visit data**  
-We store data about your visit like which pages/files on our site you requested on your visit and which pages referred you to our site if your browser sends us that data. We also store the date and time of your visits and information about the frequency of your visits to our site in order to improve our marketing and also for fraud prevention. 
+ **What do we use your information for?**
 
-**Links to other sites**  
-This site contains links to other sites. Please be aware that SafeCaller Software is not responsible for the privacy practices or the content of such Web Sites as well as any information they might collect, even though our name or logo may appear on those sites. We encourage you to be aware when you leave our site and to read the Privacy Statements of each and every Web site that you visit, as the privacy policy of those sites may differ from ours. Our Privacy Statement applies solely to www.safecaller.com. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Opt-Out policy**  
-When a visitor registers, the visitor is included in the SafeCaller Software mailing/fax list. Inclusion on the mailing list may entitle the user to receive information or updates about special offers, programs, new products and/or services. 
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**Use of Cookies**  
-When you visit this Site, you can browse the Site and access important information without revealing your identity. In order to improve our Site, we use “‘cookies” to track your visit. A cookie is small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. It functions as your identification card, and enables SafeCaller to record your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some Web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.) 
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**Personal Data**  
-As a visitor to this Site, you can engage in many activities without providing any personal information. In connection with other activities, such as utilizing software applications, SafeCaller may ask you to provide certain information about yourself by filling out and submitting an online form. If you elect to engage in these activities, however, SafeCaller may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), e-mail address, job title and department, telephone and facsimile numbers, and other personal information. When ordering products or services on the Site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. When using our software programs some of your personal data gets collected such as IP address and computer ID. 
+\- To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+ **How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential. 
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+ **Children's Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Your Consent**
+
+By using our site, you consent to our web site privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+SafeCaller.com  
+Washington 215-488-7711
