@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508160408id_/http%3A//www.truthdig.com/privacy_policy/%3Fbn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220085109id_/http%3A//www.truthdig.com/privacy_policy) for the most accurate reproduction.*
 
 # Truthdig - Privacy Policy
 
 ### PRIVACY POLICY
 
-Welcome to Truthdig.com (the "Web Site," "Service" or "we"). At Truthdig, we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on the Web Site and acknowledge the importance of protecting this information. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
+Welcome to Truthdig.com (the "Web Site," "Service" or "we"). At Truthdig, we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on the website and acknowledge the importance of protecting this information. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
 
 ### Traffic Data
 
-When you visit Truthdig, our systems collect basic information about your computer, including Internet Protocol Address, operating system, browser software, Internet Service Provider. We also collect information about what you view on the Web Site. This information reflects our readership as a whole and is used to help us better understand and best serve the Truthdig community.
+When you visit Truthdig, our systems collect basic information about your computer, including Internet Protocol Address (IP Address), operating system, browser software and Internet Service Provider. We also collect information about what you view on the website. This information reflects our readership as a whole and is used to help us better understand and best serve the Truthdig community.
 
 ### Use of Cookies
 
-The Web Site uses "cookies" -- a small piece of information which a web server can store temporarily with your web browser. We use cookies to track the type of content and web sites to which our users link, the length of time they spend at any particular web site and the Truthdig services they use. Cookies also help us diagnose problems with our server.
+The website uses "cookies" -- a small piece of information which a web server can store temporarily with your web browser. We use cookies to track the type of content and web sites to which our users link, the length of time they spend at any particular web site and the Truthdig services they use. Cookies also help us diagnose problems with our server.
 
 ### Email News and "Send to a Colleague" Feature
 
@@ -22,21 +22,21 @@ We offer a "Send to a Colleague" feature, which allows our users to inform other
 
 ### Discussion Forums
 
-Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig's [User Agreement](https://web.archive.org/web/20140508160408id_/http%3A//www.truthdig.com/user_agreement), by using the Web Site you grant Truthdig permission to use any content you post on the Web Site for any purpose.
+Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig's [User Agreement](https://web.archive.org/web/20141220085109id_/http%3A//user_agreement), by using the website you grant Truthdig permission to use any content you post on the website for any purpose.
 
 If you have any concerns about the discussion forums, send email to [info@truthdig.com](mailto:info@truthdig.com).
 
 ### Surveys
 
-From time to time Truthdig will conduct voluntary surveys of Web Site visitors to obtain aggregate demographic information about them. This information may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals.
+From time to time Truthdig will conduct voluntary surveys of website visitors to obtain aggregate demographic information about them. This information may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals.
 
 ### Linking to Other Sites
 
-The Web Site may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any personal information on such web sites.
+The website may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any personal information on such websites.
 
 ### Children's Guidelines
 
-Protecting the rights of children is important to us. As a result, we do not collect or maintain any information from individuals we know to be under 13 years old, and no part of the Web Site is intended to attract anyone under 13 years old.
+Protecting the rights of children is important to us. As a result, we do not collect or maintain any information from individuals we know to be under 13 years old, and no part of the website is intended to attract anyone under 13 years old.
 
 ### Unsubscribe, Data Removal and Data Modification Policies
 
@@ -55,12 +55,10 @@ Truthdig will not use or disclose your personal information without your consent
 
 ### Contacting Truthdig
 
-If you have any questions about this Privacy Policy, the practices of the Web Site or your dealings with the Web Site, you can contact:
+If you have any questions about this Privacy Policy, the practices of the website or your dealings with the website, you can contact:
 
 [info@truthdig.com](mailto:info@truthdig.com)
 
 ### Policy Changes
 
-Truthdig reserves the right to amend this Privacy Policy at any time without notice, and only the current Privacy Policy may be deemed effective. If we decide to change our Privacy Policy in whole or in part, we will inform you by posting a notice on the Web Site. Those changes will go into effect on the date posted in the notice. The new Privacy Policy will apply to all current and past users of the Web Site and will replace any prior policies that are inconsistent.
-
-Last Updated: November 29, 2005
+Truthdig reserves the right to amend this Privacy Policy at any time without notice, and only the current Privacy Policy may be deemed effective. If we decide to change our Privacy Policy in whole or in part, we will inform you by posting a notice on the website. Those changes will go into effect on the date posted in the notice. The new Privacy Policy will apply to all current and past users of the website and will replace any prior policies that are inconsistent.
