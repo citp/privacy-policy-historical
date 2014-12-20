@@ -1,46 +1,118 @@
-> *The following text is extracted and transformed from the pennnet.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211045546id_/http%3A//www.pennwell.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennnet.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220190648id_/http%3A//www.pennwell.com/index/privacy-policy.html) for the most accurate reproduction.*
 
-# PennWell Publishing- B2B Print & Online Magazine, Events and Jobs
+# Privacy Policy - Pennwell Corporate
 
-Privacy Policy
+PennWell believes in protecting your privacy.  We have procedures in place to ensure that we adhere to the latest privacy practices including adhering to state laws (California Online Privacy Protection Act Compliance), Federal laws (Children’s Online Privacy Protection Act), and International agreements (U.S.-EU Safe Harbor Framework). 
 
-**PennWell Corporation ONLINE PRIVACY POLICY**  
-_(Last updated Sept 4, 2003)_
+### What information do we collect?
 
-Your privacy on the Internet is important to us at PennWell Corporation ("PennWell").  PennWell is committed to tailoring content to match our user's individual needs, but we also recognize the importance of protecting the personally identifiable information we may collect about you, our users. PennWell has developed this privacy policy in an attempt to balance our legitimate business interests in collecting and using information with your reasonable expectations of privacy for your personal information provided to us while visiting any of our web sites.  Please review the entire policy and feel free to contact us at [webmaster](mailto:webmaster@pennwell.com) if you have any questions.  This policy may change from time to time so please check back periodically so you are familiar with our current privacy policy. 
+When you visit one of our websites or other digital services, we may collect anonymous or personally identifiable information from you. Personally identifiable information (PII) is information that can identify you, such as your full name, email address, postal address, telephone number, and fax number. In some cases, you may provide information to us, and in other cases information about you or your activities on our Services may be automatically collected.
 
-**PennWell's Collection of User Information**
+When you provide information to us by registering on one of our websites subscribing to one of our newsletters, responding to a survey, filling out a form  or voluntarily providing any other information across any of our digital services, we may choose to capture that information.
 
-PennWell collects user information in various ways: personal information (e.g. name, e-mail address, mailing address, industry, occupation) that you supply when registering for, subscribing to, bidding on, or purchasing services or products through our web sites ("personally identifying information"), information that you provide regarding your interests, and activity and preference tracking information from our use of "cookies" and other aggregate activity logging.  PennWell does not collect personally identifying information from our users other than what is supplied to us on a voluntary basis. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number or credit card information.
 
-A cookie is a small amount of data that is sent to your browser from a web server and is stored on your computer's hard drive.  Cookies allow you to enter your password less frequently during an online session and assist us in providing information to you that is targeted to your interests.  We may use a separate cookie to track each site's aggregated page views, which tells us which features are most interesting to our visitors.  You also may be served cookies from our advertisers while visiting our sites.  We do not control or have access to any information they may collect.  Our cookies do not store personally identifying information about you.  Since cookies are now used as industry standard, most web browsers automatically accept cookies, but you can usually change your browser to decline cookies.  If you choose to decline cookies, you may not be able to access certain features on our sites. 
+When you download or use apps created by us or our subsidiaries, we may receive information about your location, app usage and your mobile device.  We may use this information to provide you with location-based or other services.
 
-Our web sites log IP addresses and browser types (primarily for systems administration purposes), but we do not match IP addresses to any personally identifiable information.  This means that your session will be tracked, but you can remain anonymous in the public areas of our sites.  You can browse those areas of our sites without entering any personal information and therefore remain anonymous during your visit.  However, we hope that all of our users will register with us so that you can utilize all of the product and service offerings available at our sites and so we can learn more about our valuable customers and keep you updated. 
+### What do we use your information for and what is the purpose of collecting it?
 
-PennWell's web sites may contain links to other web sites. We encourage you to visit those web sites to learn more about their online privacy as they may differ from this privacy policy. PennWell does not control the privacy policies of our advertisers, sponsors, or other sites to which we may provide hyperlinks. 
+Any of the information we collect from you may be used in one of the following ways:
 
-**Use of Personal Information Collected**
+  * To personalize your experience
+  * To improve our website
+  * To process your orders or requests and to pre-populate forms
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails
 
-Personally identifying information that we collect may be added to our databases and used for future communications regarding site updates, new products and services, upcoming events, and status of orders placed online.  The data that we collect from cookies and browser identification provides demographic data about our audience in the aggregate that we use to improve our service and tailor our offerings.  Personal data may also be used for editorial purposes, for marketing and promotional purposes, for a statistical analysis of users' behavior, for product development, for content improvement, to inform advertisers as to how many visitors have seen or clicked on their advertisements, or to customize the content and layout of our sites. 
 
-**Sharing of Information with Third Parties**
 
-PennWell may provide personally identifiable information, voluntarily provided by visitors, to third parties who provide products and services that PennWell believes our visitors may be interested in purchasing, obtaining, or learning more about.  Many visitors and subscribers find this a valuable and time-saving service.  Unless you provide an "opt-out" notice, we may (and you authorize us to) provide your personally identifying information as part of our visitor and subscriber lists for each such third party to use, if we believe our subscribers would be interested in receiving an e-mail or other written correspondence from any such third party.  Regardless of any opt-out notice, we will provide your personally identifiable information to third parties if we believe in good faith that the law requires us to do so or if it is necessary to protect the rights or property of PennWell or our users. 
+·        To match the right messages to you on our sites or on third party sites
 
-We share with our advertisers the data that we collect from cookies and other browser technology or IP addresses to help them better understand our audience and to monitor the reach of their advertising. 
+The information you provide may be used to send you information and updates pertaining to your order.  In addition, you may receive related company news, updates, and product or service information, etc.
 
-**User's Right to Opt-Out**
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  You may also reach us via our [Customer Service Form](https://web.archive.org/content/pennwell-corporate/en/index/customer-service-form.html).
 
-In the event that you do not wish your personally identifying information to be used by third parties to send you information about products and services, you may opt-out of this service by checking the "opt-out" box wherever provided.  In addition to such options made available to you when we collect your personally identifying information, you may opt-out of this service at any time by mailing us a letter or sending us an e-mail at the address below, specifying that you have elected to opt-out of any third party mailings.  Include your full name, address, and e-mail address with your notice to: PennWell, Privacy Manager, 1421 S. Sheridan Road, Tulsa, OK 74112 or [privacy@pennwell.com](mailto:privacy@pennwell.com).  We will update your records as promptly as practical; however, you may receive third-party communications while we process your request. 
+### How do we protect your information?
 
-**Updating Personal Information**
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-If you would like to correct and/or update your personally identifying information or other information that you have supplied, please contact our [webmaster](mailto:webmaster@pennwell.com).  Once we have updated your information, we will send a return e-mail indicating that the requested changes have been made. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
-**Security Features**
+### Do we use cookies?
 
-PennWell has implemented a number of security features to prevent the unauthorized release of or access to personally identifying information, such as firewalls and secure servers.  The secure server encrypts all information you input before it is sent to us.  Please be advised, however, that while we have endeavored to create a secure and reliable site for our users, perfect security is not yet available on the Internet and the confidentiality of any communication or material transmitted to or from us via our sites or e-mail cannot be 100% guaranteed.  Accordingly, we are not responsible for the security of information transmitted via the Internet.  Once we receive your transmission, we make our best effort to ensure its security on our system.  Only authorized personnel have access to any stored personally identifying information which PennWell may collect from its users. 
+Yes we use cookies.  Cookies are small files that a site, or its service provider, transfers to your device through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information
 
-**Children's Privacy**
+We use cookies to understand and save your preferences for future visits.  We use information gathered through analytics tools that utilize cookies to aggregate anonymized user information to help us better design our Sites, and to enhance the functionality you enjoy as you navigate between our digital services.
 
-It is important to us that we do our part to protect the privacy of children.  For this reason, we do not intentionally collect or maintain information through our web sites from those we actually know are under 13, and no part of our web site is designed to target or attract anyone under 13. 
+We also may use cookies to match the right people with the right message you see on our Services or on third-party sites in conjunction with third-party advertising companies.
+
+By using our site or allowing your browser to “accept cookies”, you consent to use of cookies with respect to your device.
+
+### Do we disclose any information to outside parties?
+
+PennWell does provide your personally identifiable information to (i) trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential, and (ii) trusted third parties with whom PennWell contracts with to provide you services and products whereby, in such instances, notice will be provided to you before such services or products are purchased. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+### Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+### California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act.  Protecting consumer privacy is important to PennWell. 
+
+### U.S. - EU Safe Harbor Self- Certified
+
+When we collect personal information from you on your website, we adhere to the U.S. –EU Safe Harbor Framework concerning the transfer of personal data from the European Union (“EU”) to the United States of America.  Accordingly, we follow the Safe Harbor Principles published by the U.S. Department of Commerce with respect to all such data. If there is any conflict between the policies in this privacy policy, rules set by the Department of Commerce will prevail.
+
+To learn more about the Safe Harbor program, and to view PennWell’s certification, please visit <http://www.export.gov/safeharbor/>
+
+### Children’s Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act) and children under the age of 13 are not eligible to use the services of this site. Our website, products and services are all directed to people who are at least 13 years of age or older.
+
+### Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+### Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.pennwell.com/index/terms.html>
+
+### Your Consent
+
+By using our site, you consent to our online privacy policy.
+
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+### Updating Personal Information
+
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or request deletion on our site by submitting your request via [this form](https://web.archive.org/content/pennwell-corporate/en/index/customer-service-form.html) to our customer service team.  We will respond to requests within 30 days. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy or complaints about our websites you may contact us using the information below.
+
+1421 S. Sheridan  
+Tulsa, OK 74112  
+United States  
+Website:  [www.pennwell.com](http://www.pennwell.com/)  
+Email:  [Complete form](https://web.archive.org/content/pennwell-corporate/en/index/contact-us.html)  
+Phone:  800-331-4463
+
+[](http://www.dmaresponsibility.org/safeharbor/consumers.shtml)
+
+**_European Consumers_**
+
+As part of the Safe Harbor self-certification, the Direct Marketing Association acts as PennWell’s dispute resolution mediator.  If you believe we have not adequately resolved your data questions, feel free to contact the Direct Marketing Association.
+
+Safe Harbor Line  
+Direct Marketing Association  
+1615 L Street, NW - Suite 1100  
+Washington, DC 20036  
+Website:  [www.dmaresponsibility.org/safeharbor/consumers.shtml](http://www.dmaresponsibility.org/safeharbor/consumers.shtml)  
+Email:  [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)  
+Fax:  202.955.0085
+
+Last Updated:  October 7, 2014
