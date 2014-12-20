@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learninggamesforkids.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629143332id_/http%3A//www.learninggamesforkids.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learninggamesforkids.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220181606id_/http%3A//www.learninggamesforkids.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Learning Games For Kids
 
