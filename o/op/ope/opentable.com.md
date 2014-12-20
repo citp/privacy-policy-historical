@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628015612id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2014-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141220081728id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Online Reservations Privacy Policy - OpenTable
 
-**Last Updated: May 16, 2014**
+**Last Updated: November 21, 2014**
 
 This privacy policy (this “ **Policy** ”) explains how personal information is collected, used, and disclosed by OpenTable, Inc. (“ **OpenTable** ” or “ **we** ”). This Policy applies to consumer users (individually referred to as “ **you** ”) of OpenTable’s websites, applications, and other online services (collectively, our “ **Sites** ”).
 
@@ -10,7 +10,7 @@ Other third parties, such as restaurants at which you make reservations through 
 
 **INFORMATION WE COLLECT**
 
-We collect information about you in various ways when you use our Sites. We use this information to, among other things, provide the functionality and improve the quality of our Sites and personalize your experience. For example, we may collect your name, email address, postal address, phone number (including your mobile phone number), billing information, survey responses, demographics, primary dining city, current and prior restaurant reservation details, favorite restaurants, special restaurant requests, passwords, contact information of people you add to, or notify of, your restaurant reservations through our Sites, names and email addresses of recipients of OpenTable Gift Cards (as this term is defined in the OpenTable Terms of Use) and Merchant Gift Cards, and other information you provide on our Sites. If you use our mobile application, either to make reservations or to pay a restaurant, we may also collect your mobile device ID, your precise location data, and the restaurant search locations you select. For certain services on our Sites, credit or debit card account information may be required, as further described in the section called “Payment Card Information” below. We may also obtain information from other sources, such as third-party websites, applications, and services (each, a “ **Third-Party Platform** ”), through which you connect with our Sites and combine that with information we collect on our Sites. 
+We collect information about you in various ways when you use our Sites. We use this information to, among other things, provide the functionality and improve the quality of our Sites and personalize your experience. For example, we may collect your name, email address, postal address, phone number (including your mobile phone number), billing information, survey responses, demographics, primary dining city, current and prior restaurant reservation details, favorite restaurants, special restaurant requests, passwords, contact information of people you add to, or notify of, your restaurant reservations through our Sites, names and email addresses of recipients of OpenTable Gift Cards (as this term is defined in the OpenTable Terms of Use) and Merchant Gift Cards, and other information you provide on our Sites. If you use our mobile application, we may also collect your mobile device ID, your precise location data, and the restaurant search locations you select. For certain services on our Sites, credit or debit card account information may be required, as further described in the section called “Payment Card Information” below. We may also obtain information from other sources, such as third-party websites, applications, and services (each, a “ **Third-Party Platform** ”), through which you connect with our Sites and combine that with information we collect on our Sites. 
 
 When you visit our Sites, some information is automatically collected. For example, when you visit our Sites, we may automatically collect your location, computer operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before our Sites. We also collect information about your usage and activity on our Sites using certain technologies, such as:
 
@@ -53,7 +53,7 @@ When you make a restaurant reservation through our Sites, your information is pr
 
 We may share with restaurants summary reports of feedback from diners. If you provide comments about a restaurant through our Sites, these comments may be shared with that restaurant. We will not tie your comments with other information that can identify you, but a restaurant may be able to tell who you are from your comments, particularly if you give your name in the comments or provide contact information, such as an email address.
 
-Information you choose to share with a restaurant when you make a reservation and/or pay a restaurant through our Sites may be used by the restaurant for its own purposes. OpenTable does not control the privacy practices of restaurants. Please contact the restaurant directly if you want to learn about its privacy practices. 
+Information you choose to share with a restaurant when you make a reservation and/or pay a restaurant through our Sites may be used by the restaurant for its own purposes. OpenTable does not control, and is not responsible for, the privacy practices of restaurants. Please contact the restaurant directly if you want to learn about its privacy practices. 
 
 **Information Shared With Gift Card Merchants**
 
@@ -111,9 +111,9 @@ You may opt out of receiving promotional emails from OpenTable by following the 
 
 **United States and Europe**
 
-For questions about accessing, changing, or deleting your personal information, please visit http://www.opentable.com/ or contact customer support at 1-800-OPENTABLE.
+For questions about accessing, changing, or deleting your personal information, please visit http://www.opentable.com/ or contact customer support at 1-800-OPENTABLE or via email at privacy@opentable.com.
 
-For questions or opinions on this Policy, please contact OpenTable via email at http://support.opentable.com/ or by postal mail at: OpenTable, Attn: Legal Department, 1 Montgomery Street, 7th Floor, San Francisco, CA 94104.
+For questions or opinions on this Policy, please contact OpenTable via email at privacy@opentable.com or by postal mail at: OpenTable, Attn: Legal Department, 1 Montgomery Street, 7th Floor, San Francisco, CA 94104.
 
 **Japan**
 
