@@ -1,31 +1,35 @@
-<!--The following is the downloaded HTML source of the gearbest.com privacy policy that was archived on 2014-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140528060026id_/http%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gearbest.com privacy policy that was archived on 2014-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141220070523id_/http%3A//www.gearbest.com/about/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="UTF-8">
-	<title>Privacy Policy | GearBest.com</title>
+	<title>
+            Privacy Policy | GearBest.com
+    </title>
+<meta name="renderer" content="webkit">
+
 <link rel="shortcut icon" href="/favicon.ico">
 <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.gearbest.com/about/privacy-policy.html">
 <link rel="alternate" media="handheld" href="http://m.gearbest.com/about/privacy-policy.html">
 <meta name="keywords" content="Privacy Policy | GearBest.com">
-<meta name="description" content=" | GearBest.com">
+    <meta name="description" content=" | GearBest.com">
+<!-- 添加数据格式 -->
+
 
 
 
 
 <!--公用样式-->
-<link rel="stylesheet" href="http://css.gearbest.com/imagecache/GB/mincss/base_min.css?2014030701">
-<link rel="stylesheet" href="http://css.gearbest.com/imagecache/GB/mincss/common_min.css?2014051601">
+<link rel="stylesheet" href="http://css.gearbest.com/imagecache/GB/mincss/base_min.css?20140162801">
+<link rel="stylesheet" href="http://css.gearbest.com/imagecache/GB/mincss/common_min.css?2014121805">
 
 
 <!--[if lte IE 8]>
 <script>(function(){for(var a=arguments.length,b=0;a>b;b++)document.createElement(arguments[b])})("address","article","aside","audio","canvas","details","figcaption","figure","header","footer","hgroup","menu","nav","section","summary","time","video");</script>
 <![endif]-->
 
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://css.gearbest.com/imagecache/GB/minjs/jquery-1.8.0.min.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://secure-cdn.mplxtms.com/s/MasterTMS.min.js#1386"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="http://css.gearbest.com/imagecache/GB/minjs/jquery-1.8.0.min.js"></script>
 <script src="http://css.gearbest.com/imagecache/GB/minjs/jquery.common_plug.min.js"></script>
-
-
 
 
 <script>
@@ -45,20 +49,27 @@ var HTTPS_LOGIN_DOMAIN      = 'https://login.gearbest.com',
 </script>
 
 
-
+<script src="http://css.gearbest.com/imagecache/GB/minjs/device.min.js"></script>
 <script>
+var mobile_redirect_url = "http://m.gearbest.com/about/privacy-policy.html";
 
-var mobile_redirect_url = 'http://m.gearbest.com/about/privacy-policy.html';
 
-if(window.location.href == DOMAIN+'/?full_site=true'){
-	$.cookie("full_site",'yes',{expires:1,path:"/",domain:COOKIESDIAMON});
-}
 (function(){
+	var windUrl = window.location.href, gclid = windUrl.match(/(gclid=.+)/i);
+    var portrait = device.portrait();
+    //判断当前流量的来源：是否从m站而来
+    var from = (document.referrer.indexOf('m.gearbest.com') !== -1);
+    if (from) {
+        $.cookie("fromM" ,'yes', {expires:1, path:'/', domain:COOKIESDIAMON});
+    };
+	if(windUrl.indexOf("full_site=true") > -1 ){
+		$.cookie("full_site",'yes',{expires:1,path:"/",domain:COOKIESDIAMON});
+	}
 	var mobile = (/iphone|ipod|android|windows phone/i.test(navigator.userAgent.toLowerCase()));
 	if (mobile) {
-	    if($.cookie("full_site") == null)
+	    if($.cookie("full_site") == null && (portrait==true) && $.cookie("fromM") == null )
 	    {
-	        window.location.href = mobile_redirect_url;
+	       window.location.href = gclid ? mobile_redirect_url+'?'+gclid[0] : mobile_redirect_url;
 	    }
 	}
 })()
@@ -66,109 +77,137 @@ if(window.location.href == DOMAIN+'/?full_site=true'){
 </script>
 
 
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '734859979899275']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=734859979899275&amp;ev=PixelInitialized" /></noscript>
 
 <script src="http://css.gearbest.com/imagecache/GB/minjs/LAB.min.js"></script>
 <!--<script src="http://css.gearbest.com/imagecache/GB/minjs/common.min.js"></script>-->	<link rel="stylesheet" type="text/css" href="http://css.gearbest.com/imagecache/GB/mincss/others_min.css?2014030701">
 </head>
 <body>
 	<header>
-		<div id="topBannerShow">
-	<a target="_blank" href="/promotion-cell-phone-clearance-special-5.html">
-		<img src="http://css.gearbest.com/imagecache/GB/images/Activity/2014/0428cellphone/cell.jpg" alt="Cellphone Clearance Sale">
-		<i id="closeTopBannerBtn"></i>
-	</a> 
-</div>
+		<div class="topSaleBox" id="js_topSaleBox">
+	
+	<div class="topS_sBanner" id="js_topS_sBanner">
+		<ul>
+			<li class="title"><strong class="js_show_topSBanner"></strong></li>
+			<li><a href="/cell-phones-c_11293/" class="l_1"><i>Cell Phones</i></a></li>
+			<li><a href="/tablet-pcs-c_11294/" class="l_2"><i>Tablet PCs</i></a></li>
+			<li><a href="/watches-c_11292/" class="l_3"><i>Watches</i></a></li>
+			<li><a href="/men-s-clothing-c_11283/" class="l_4"><i>Men's Clothing</i></a></li>
+			<li><a href="/computers-networking-c_11257/" class="l_5"><i>Computers &amp; Networking</i></a></li>
+			<li><a href="/led-lights-c_11264/" class="l_6"><i>LED Light &amp; Flashlights</i></a></li>
+			<li><a href="/radio-control-c_11302/" class="l_7"><i></i></a></li>
 
+			<li><a href="/mobile-accessories-c_11231/" class="l_8"><i>Mobile Accessories</i></a></li>
+			<li><a href="/audio-video-c_11239/" class="l_9"><i>Audio &amp; Video</i></a></li>
+			<li><a href="/car-electronics-c_11247/" class="l_10"><i>Car Electronics</i></a></li>
+			<li><a href="/home-garden-c_11319/" class="l_11"><i>Home &amp; Garden</i></a></li>
+			<li><a href="/lifestyle-c_11270/" class="l_12"><i>Outdoors &amp; Sports</i></a></li>
+
+			<li class="upBtn js_show_topSBanner"><img src="http://css.gearbest.com/imagecache/GB/images/domeimg/sales/up_n.png"></li>
+		</ul>
+		<!-- <div class="upBtn js_show_topSBanner"><img src="http://css.gearbest.com/imagecache/GB/images/domeimg/sales/up_n.png"/></div> -->
+	</div><!-- .topS_sBanner -->
+
+	<div class="topS_BBanner" id="js_topS_BBanner">
+		<div class="topS_BB_inner clearfix">
+			<div class="bg cutOff"></div>
+			<div class="navList">
+				<ul>
+					<li>
+						<a href="/cell-phones-c_11293/" class="l_1"><i></i>Cell Phones</a>
+					</li>
+					<li>
+						<a href="/tablet-pcs-c_11294/" class="l_2"><i></i>Tablet PCs</a>
+					</li>
+					<li>
+						<a href="/watches-c_11292/" class="l_3"><i></i>Watches</a>
+					</li>
+					<li>
+						<a href="/men-s-clothing-c_11283/" class="l_4"><i></i>Men's Clothing</a>
+					</li>
+					<li>
+						<a href="/computers-networking-c_11257/" class="l_5"><i></i>Computers &amp; Networking</a>
+					</li>
+					<li>
+						<a href="/led-lights-c_11264/" class="l_6"><i></i>LED Light &amp; Flashlights</a>
+					</li>
+
+					<li>
+						<a href="/mobile-accessories-c_11231/" class="l_7"><i></i>Mobile Accessories</a>
+					</li>
+					<li>
+						<a href="/audio-video-c_11239/" class="l_8"><i></i>Audio &amp; Video</a>
+					</li>
+					<li style="margin-right:37px;">
+						<a href="/car-electronics-c_11247/" class="l_9"><i></i>Car Electronics</a>
+					</li>
+					<li>
+						<a href="/radio-control-c_11302/" class="l_10"><i></i>Radio Control</a>
+					</li>
+					<li>
+						<a href="/home-garden-c_11319/" class="l_11"><i></i>Home &amp; Garden</a>
+					</li>
+					<li>
+						<a href="/lifestyle-c_11270/" class="l_12"><i></i>Outdoors &amp; Sports</a>
+					</li>
+					
+				</ul>
+			</div><!-- .navList -->
+			<a href="javascript:void(0);" class="close"><img src="http://css.gearbest.com/imagecache/GB/images/domeimg/sales/close_n.png"></a>
+		</div><!-- .topS_BB_inner -->
+
+	</div><!-- .topS_BBanner -->
+</div><!-- .topSaleBox -->
 
 <div id="top">
 	<ul class="topLink">
-		<li><a href="/new-products/">New Arrivals</a></li>
-		<li><a href="/cool/">Cool</a></li>
-		<li><a href="/for-fun/">Fun</a></li>
-		<!--<li><a href="/get-it-free/">Get It Free</a></li>-->
-		<li class="dealsNav"><a href="/gadget-deals.html"><i class="nowGif"></i>Deals</a></li>
+		<li><a href="/gadget-deals.html"><i class="c_tagbg icon_gadget"></i>GADGET DEALS</a></li>
+        <li><a href="/presale.html">PRESALE</a></li>
+		<li><a href="/new-products/">NEW ARRIVALS</a></li>
+		<li><a href="/cool/">COOL</a></li>
+                <li><a href="/videos/">VIDEOS</a></li>
 	</ul>
 	<!--end .topLink-->
 
 	<div class="top_r">
-		<span class="top_signText" id="js_isNotLogin"><a href="https://login.gearbest.com/m-users-a-sign.htm?type=1" rel="nofollow">Sign In</a>&nbsp;or&nbsp;<a href="https://login.gearbest.com/m-users-a-sign.htm?type=2" rel="nofollow">Register</a></span>
-		<!-- <dl class="top_operate">
-			<dt><a href="#">Sign in</a> or <a href="#">Register</a></dt>
-			<dd class="top_loginBox">
-				<form id="js_topSign">
-					<h4 class="tc pb5">Sign in</h4>
-					<p>
-						<label for="txt-topEmail">Email Address</label>
-						<input type="text" name="email" id="txt-topEmail" class="textInput" value="" autocomplete="off" />
-					</p>
-					<p>
-						<label for="txt-topPwd">Password</label>
-						<input type="password" name="password" id="txt-topPwd" class="textInput">
-					</p>
-					<button type="submit" id="js_topSignBtn">sign in</button>
-					<div class="top_loginOther pt5">Login from other: &nbsp;<a href="#" rel="nofollow" class="top_faceBook">facebook</a></div>
-				</form>
-			</dd>
-		</dl>--><!--end .top_operate-->
-		<span class="top_signText none" id="js_isLoginInfo"></span>
-		<dl class="top_operate top_account " id="js_top_account" style="display:none">
-			<a href="http://user.gearbest.com/my-favorites.html" rel="nofollow"><dt>My Account<i class="triangle b_tri"></i></dt></a>
-			<dd>
-				<ul id="js_user_links">
-					<li><a href="http://user.gearbest.com/my-shares.html" rel="nofollow">My Shares</a></li>
-					<li><a href="http://user.gearbest.com/my-favorites.html" rel="nofollow">My Favorites</a></li>
-                    <li><a href="http://user.gearbest.com/my-orders.html" rel="nofollow">My Order</a></li>
-                    <li><a href="http://user.gearbest.com/my-points.html" rel="nofollow">My Points</a></li>
-                    <li><a href="http://user.gearbest.com/my-profile.html" rel="nofollow">My Profile</a></li>
-                    <li><a href="http://user.gearbest.com/m-users-a-logout.htm" rel="nofollow">Logout</a></li>
-                </ul>
-			</dd>
-		</dl>
-
 		<dl class="top_operate top_currency">
-			<dt><span class="js_showBZ"> <strong>USD</strong></span><i class="triangle b_tri"></i></dt>
+			<dt><span class="js_showBZ"> <strong></strong></span><i class="triangle b_tri"></i></dt>
 			<dd class="js_bzList">
-				<ul>
-					<li data-bizhong="USD" data-icon="$"><label>$</label>USD</li>
-					<li data-bizhong="EUR" data-icon="€"><label>€</label>EUR</li>
-					<li data-bizhong="GBP" data-icon="£"><label>£</label>GBP</li>
-					<li data-bizhong="AUD" data-icon="AU $"><label>$</label>AUD</li>
-					<li data-bizhong="CAD" data-icon="C $"><label>$</label>CAD</li>
-					<li data-bizhong="CHF" data-icon="CHF"><label>₣</label>CHF</li>
-					<li data-bizhong="HKD" data-icon="HK$"><label>HK$</label>HKD</li>
-					<li data-bizhong="CNY" data-icon="¥"><label>¥</label>CNY</li>
-					<li data-bizhong="RUB" data-icon="руб."><label>руб.</label>RUB</li>
-	                <li data-bizhong="NZD" data-icon="NZ$"><label>NZ$</label>NZD</li>
-	                <li data-bizhong="JPY" data-icon="円"><label>円</label>JPY</li>
-	                <li data-bizhong="BRL" data-icon="R$"><label>R$</label>BRL</li>
-	                <li data-bizhong="CLP" data-icon="CLP $"><label>$</label>CLP</li>
-	                <li data-bizhong="NOK" data-icon="NOK"><label>kr.</label>NOK</li>
-	                <li data-bizhong="DKK" data-icon="kr."><label>kr.</label>DKK</li>
-	                <li data-bizhong="SEK" data-icon="kr"><label>Kr.</label>SEK</li>
-	                <!-- <li data-bizhong="KRW"><label>₩</label>KRW</li> -->
-	                <li data-bizhong="ILS" data-icon="₪"><label>₪</label>ILS</li>
-				</ul>
+				<ul></ul>
 			</dd>
 		</dl><!--end .top_operate-->
 
 
 		<dl class="top_operate top_liveChat">
-			<dt>Live Chat</dt>
+			<dt><i class="c_tagbg icon_live_chat"></i></dt>
 			<dd class="top_liveChat_Box">
-				<p class="pb10 onelinepic">
-					<strong>Pre-sales</strong>
-					If you have any questions before making a purchase, chat with our online sales to get more information.
-					<a href="javascript:void(0);" rel="nofollow" onclick="lpButtonCTTUrl='http://server.iad.liveperson.net/hc/88788168/?cmd=file&amp;file=visitorWantsToChat&amp;site=88788168&amp;imageUrl='+location.protocol+'//server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&amp;referrer='+escape(document.location);lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ?lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat88788168','width=475,height=400,resizable=yes');return false; " class="unl">Start Online Chat</a>
-					<i>Pre-sales</i>
-				</p>
-				<p class="customerpic">
-					<strong>After Sales</strong>
-					Contact customer service for order status and other after-sales issues. 
-					<a rel="nofollow" target="_blank" href="http://support.gearbest.com/" class="unl">Submit a Request </a>
-					<i>After Sales</i>
-				</p>
+				
 			</dd>
 		</dl><!--end .top_operate-->
+		<script>
+
+			var chatHtml = { 
+				title:'Live Chat',
+				con: '<p class="pb10 onelinepic"><strong>Pre-sales</strong>If you have any questions before making a purchase, chat with our online sales to get more information.<a href="javascript:void(0);" ="nofollow" onclick="lpButtonCTTUrl=\'http://server.iad.liveperson.net/hc/88788168/?cmd=file&file=visitorWantsToChat&site=88788168&imageUrl=\'+location.protocol+\'//server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&referrer=\'+escape(document.location);lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != \'undefined\' ?lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl);window.open(lpButtonCTTUrl,\'chat88788168\',\'width=475,height=400,resizable=yes\');return false; " class="unl">Start Online Chat</a><i>Pre-sales</i></p><p class="customerpic"><strong>After Sales</strong>Contact customer service for order status and other after-sales issues. <a rel="nofollow" target="_blank" href="http://support.gearbest.com/"  class="unl">Submit a Request </a><i>After Sales</i></p>'
+			
+		} 
+		
+		</script>
 
 	</div><!--end .top_r-->
 </div><!--end #top-->
@@ -179,35 +218,56 @@ if(window.location.href == DOMAIN+'/?full_site=true'){
 
 			<form class=" js_topSeachForm" name="searchFrom" method="post">
 				<div class="top_seachBox">
-					<input type="text" name="k1" class="searchArea fl js_k" id="js_topSeachInput" placeholder="Product keywords" maxlength="150" value="">
+					<input type="text" name="k1" class="searchArea fl js_k" id="js_topSeachInput" placeholder="Product keywords" maxlength="150" value="" autocomplete="off">
+					<button type="submit" class="fl seachBtn c_tagbg" id="js_keyBtn">Search</button>
 					<input type="hidden" name="category" value="0" id="js_top_seachCate">
-                                        <input type="hidden" id="shop_name" value="">
+                    <input type="hidden" id="shop_name" value="">
+					<div class="searchTips" id="js_searchTips"></div>
 				</div><!--end .top_seachBox-->
 
-				<button type="submit" class="fl seachBtn" id="js_keyBtn"><span class="allBtn">Search</span></button>
-
 			</form>
-		</div><!--end .top_m_inner-->
+                        								</div><!--end .top_m_inner-->
 	</div><!--end .top_m-->
 
-	<div class="topm_aside">
+
+	<div class="nav_bar_outer">
 		<div class="logo">
-			<a href="http://www.gearbest.com"><img src="http://css.gearbest.com/imagecache/GB/images/domeimg/logo.gif" width="145" height="55"></a>
+			<a href="http://www.gearbest.com"><img src="http://css.gearbest.com/imagecache/GB/images/domeimg/index/merry_logo.gif"></a>
 		</div>
-
-		<dl class="top_cate js_top_cate">
-			<dt><i class="triangle b_tri fr"></i>Shop by Category</dt>
-            <dd>
-
-            </dd>
-		</dl><!--end .top_cate-->
-
+		<div class="nav_cats">
+			<h2>Department<span class="triangle_wrap"><i class="triangle triangle_b"></i><i class="triangle triangle_bg"></i></span></h2>
+                        <input type="hidden" id="is_index" value="">
+			<div class="nav_list" id="js_nav_list">
+                            			</div>
+		</div>
 	</div><!--end .top_l-->
 
 	<div class="topm_r">
-		<a href="http://cart.gearbest.com/m-flow-a-cart.htm">
-		<div class="top_items"><span class="carts_number"><b id="js_cart_items" rel="nofollow">0</b><i></i></span></div>
-       </a>
+		<div class="fl top_account_wrap none" id="js_top_account">
+			<span class="top_signText" id="js_isLoginInfo"></span>
+			<dl class="top_operate top_account ">
+				<dt><a href="http://user.gearbest.com/my-favorites.html" rel="nofollow">My Account<i class="triangle triangle_b"></i></a></dt>
+				<dd>
+					<ul id="js_user_links">
+											<li><a href="http://user.gearbest.com/my-favorites.html" rel="nofollow">My Favorites</a></li>
+						<li><a href="http://user.gearbest.com/my-orders.html" rel="nofollow">My Order</a></li>
+						<li><a href="http://user.gearbest.com/my-points.html" rel="nofollow">My Points</a></li>
+						<li><a href="http://user.gearbest.com/my-profile.html" rel="nofollow">My Profile</a></li>
+				  						<li><a href="http://www.gearbest.com/m-users-a-logout.htm" rel="nofollow">Logout</a></li>
+					</ul>
+				</dd>
+			</dl>
+		</div>
+		
+		<div class="fl top_login">
+			<span class="top_signText" id="js_isNotLogin"><a href="https://login.gearbest.com/m-users-a-sign.htm?type=1" rel="nofollow" title="Login"><img src="http://css.gearbest.com/imagecache/GB/images/domeimg/ee.png" alt="" height="37"></a></span>
+		</div>
+
+		<div class="fl top_cart">
+			<div class="top_items">
+				<a href="http://cart.gearbest.com/m-flow-a-cart.htm"><span class="carts_number"><b id="js_cart_items" rel="nofollow">0</b><i></i></span></a>
+			</div>
+		</div>
 	</div><!--end .top_r-->
 
 </div><!--end #topMian-->
@@ -273,6 +333,7 @@ if(window.location.href == DOMAIN+'/?full_site=true'){
 											<li><a href="http://www.gearbest.com/about/about-points.html" class="cur">My Points</a></li>
 											<li><a href="http://www.gearbest.com/about/affiliate.html" class="cur">Affiliate Program</a></li>
 											<li><a href="http://www.gearbest.com/about/sitemap.html" class="cur">Sitemap</a></li>
+											<li><a href="http://www.gearbest.com/about/faq.html" class="cur">FAQ</a></li>
 																				<li><a href="http://www.gearbest.com/about/about-us.html" class="cur">About Us</a></li>
 											<li><a href="http://www.gearbest.com/about/privacy-policy.html" class="cur">Privacy Policy</a></li>
 											<li><a href="http://www.gearbest.com/about/terms-and-conditions.html" class="cur">Terms and Conditions</a></li>
@@ -282,107 +343,91 @@ if(window.location.href == DOMAIN+'/?full_site=true'){
 		</aside>		
 	</div><!--end #mainWrap-->
 	<footer>
-		<div class="footHelp">
-	<div class="footHelp_inner clearfix">
-				<dl>
-			<dt>Customer Service</dt>
-			<dd>
-								<a href="http://www.gearbest.com/about/contact-us.html" rel="nofollow">Contact Us</a>
-								<a href="http://www.gearbest.com/about/warranty-and-return.html" rel="nofollow">Warranty and Return</a>
-								<a href="http://www.gearbest.com/about/payment-methods.html" rel="nofollow">Payment Methods</a>
-								<a href="http://www.gearbest.com/about/testimonials.html" rel="nofollow">Testimonials</a>
-								<a href="http://www.gearbest.com/about/shipping-methods.html" rel="nofollow">Shipping Methods</a>
-				 
-		    </dd>
-		</dl>
-				<dl>
-			<dt>My Account</dt>
-			<dd>
-								<a href="http://www.gearbest.com/my-favorites.html" rel="nofollow">My Favorites</a>
-								<a href="http://www.gearbest.com/about/about-points.html" rel="nofollow">My Points</a>
-								<a href="http://www.gearbest.com/about/affiliate.html" rel="nofollow">Affiliate Program</a>
-								<a href="http://www.gearbest.com/about/sitemap.html" rel="nofollow">Sitemap</a>
-				 
-		    </dd>
-		</dl>
-				<dl>
-			<dt>About GearBest</dt>
-			<dd>
-								<a href="http://www.gearbest.com/about/about-us.html" rel="nofollow">About Us</a>
-								<a href="http://www.gearbest.com/about/privacy-policy.html" rel="nofollow">Privacy Policy</a>
-								<a href="http://www.gearbest.com/about/terms-and-conditions.html" rel="nofollow">Terms and Conditions</a>
-								<a href="http://www.gearbest.com/about/legal-window.html" rel="nofollow">Legal Window</a>
-								<a href="http://www.gearbest.com/about/why-choose-gearbest.html" rel="nofollow">Why Choose GearBest</a>
-				 
-		    </dd>
-		</dl>
-				<div class="bottomForm">
-			
+		
+<div class="footHelp">
+	<div class="footHelp_inner clearfix tc">
+				<div class="bottomForm tl">
+			<form method="post" name="pinglunform" action="/m-cemails.html" class="userform cb pr15 fl">
+			                                <input type="hidden" name="is_search" value="1">
+				<label for="txt-checkOrder">Newsletter<span class="pl5">GearBest respects your <a rel="nofollow" href="http://cart.gearbest.com/about/privacy-policy.html" style="color:#03559e">privacy</a></span></label>
+				<p><input type="text" id="txt-subscribe" class="textInput" maxlength="90" name="k" autocomplete="off" placeholder="Your Email Address"><button id="btn-subscribe"><span>SUBSCRIBE</span></button></p>
+			</form>
+
 			<div class="other_shareInner fl">
 				<p>Follow us</p>
 				<ul class="shareList clearfix">
-					<li><a href="http://www.facebook.com/gearbest" class="fbk">facebook</a></li>
-					<li><a href="https://twitter.com/gearbest2013" class="tw">twitter</a></li>
+					<li><a href="http://www.facebook.com/gearbest" class="fbk" target="_blank">facebook</a></li>
 					<!-- <li><a href="#" class="pi">pinit</a></li> -->
-					<li><a href=" http://www.youtube.com/user/TheGearBest" class="yt">youTbe</a></li>
-					<li><a href="https://plus.google.com/u/7/b/101751748833906210609/101751748833906210609/posts" class="google">g+</a></li>
+					<li><a href=" http://www.youtube.com/user/TheGearBest" class="yt" target="_blank">youTbe</a></li>
+					<li><a href="https://plus.google.com/u/7/b/101751748833906210609/101751748833906210609/posts" class="google" target="_blank">g+</a></li>
+					<li><a href="http://vk.com/gearbest" class="vk" target="_blank">vk</a></li>
 				</ul>
 			</div>
-			<div class="fr code_2">
-                    <p>Mobile site</p>
-                    <a href="http://m.gearbest.com">
-                            <div class="codeImgPop">
-                                <div class="codeImg">
-                                    <img src="http://css.gearbest.com/imagecache/GB/images/domeimg/code/codeimgb.gif" width="116" height="116">
-                                </div>
-                                <p>Mobile Site</p>
-                                <i>◆</i><span>◆</span>
-                            </div>
-                    </a>
-                </div>
 
-			<form method="post" name="pinglunform" action="/m-cemails.html" class="userform cb">
-				<label for="txt-checkOrder">Newsletter<span class="pl5">GearBest respects your <a rel="nofollow" href="http://cart.gearbest.com/about/privacy-policy.html" style="color:#03559e">privacy</a></span></label>
-				<p class="pb15"><input type="text" id="txt-subscribe" class="textInput" maxlength="90" name="k" autocomplete="off" placeholder="Your Email Address"><button id="btn-subscribe"><span>GO</span></button></p>
-			</form>
-			
+			<div class="fl code_2  pl15">
+                <p>Mobile site</p>
+                <a href="http://m.gearbest.com">
+                        <div class="codeImgPop">
+                            <div class="codeImg">
+                                <img src="http://css.gearbest.com/imagecache/GB/images/domeimg/code/codeimgb.gif" width="116" height="116" alt="GearBest Mobile Site">
+                            </div>
+                            <p>Mobile Site</p>
+                            <i>◆</i><span>◆</span>
+                        </div>
+                </a>
+            </div>
 			
 		</div><!--end .bottomForm-->
 
-	</div><!--end .footHelp_inner-->       
+		<div class="nationalFlag" style="display:none;">
+			<h4>Google Translator</h4>
+			<div class="Flag">
+				<a href="javascript:void(0);"><i class=""></i></a><span></span>
+			</div><!-- .Flag -->
+		</div><!-- .nationalFlag -->
+		
+		<div class="inner">
+		    <img src="http://css.gearbest.com/imagecache/GB/images/domeimg/footerimg/paypal.gif" width="223" height="58">
+		    <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.gearbest.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
+		    <a href="/about/warranty-and-return.html" class="mt15">
+		    	<img src="http://css.gearbest.com/imagecache/GB/images/domeimg/footerimg/money.gif" width="120" height="50">
+		    </a>
+	    </div><!-- .inner -->
+		
+		<ul class="helpNav clearfix">
+			<li class="first"><a href="http://www.gearbest.com/about/about-us.html" rel="nofollow">About Us</a></li>
+			<li><a href="http://www.gearbest.com/about/warranty-and-return.html" rel="nofollow">Warranty and Return</a></li>
+			<li><a href="http://www.gearbest.com/about/privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
+			<li><a href="http://www.gearbest.com/about/terms-and-conditions.html" rel="nofollow">Terms and Conditions</a></li>
+			<li><a href="http://www.gearbest.com/about/contact-us.html" rel="nofollow">Contact Us</a></li>
+			<li><a href="http://www.gearbest.com/about/faq.html" rel="nofollow">FAQ &amp; Support</a></li>
+			<li><a href="http://www.gearbest.com/about/sitemap.html">Sitemap</a></li>
+			                        <li><a href="/about/make-money.html" rel="nofollow">Make Money</a></li>
+			<li><a href="http://www.gearbest.com/about/legal-window.html" rel="nofollow">Legal</a></li>
+		</ul>
+
+	</div><!--end .footHelp_inner-->   
 </div><!--end .footHelp-->
 
 
-<div class="bottommenu tc">
-    <img src="http://css.gearbest.com/imagecache/GB/images/domeimg/f1.gif?2014030501?2014030701" alt="" width="273" height="60">
-    <a target="_blank" rel="nofollow" href="https://www.paypal.com/us/verified/pal=payment@gearbest.com">
-    	<img src="http://css.gearbest.com/imagecache/GB/images/domeimg/footpaypal.gif?2014030701" width="63" height="60">
-    </a>
-    <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.gearbest.com&amp;size=XS&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
-    <!-- START MCAFEESECURE CODE -->
-    <!-- <a target="_blank" rel="nofollow" href="https://www.mcafeesecure.com/RatingVerify?ref=everbuying.com&amp;cb=51">
-    	<img width="94" height="54"  src="//images.mcafeesecure.com/meter/everbuying.com/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a> -->
-    <!-- END MCAFEESECURE CODE -->
 
-    <img src="http://css.gearbest.com/imagecache/GB/images/domeimg/f2.gif?2014030501?2014030701" alt="" width="323" height="60">
-
-    <!--<a rel="nofollow" href="http://www.resellerratings.com/store/EverBuying_Dalee_Technology_Limited" target="_blank">
-    	<img src="http://css.gearbest.com/imagecache/GB/images/domeimg/rf1.gif" alt="" width="118" height="60">
-    </a>-->
-</div>
 <div class="bottomtext">Copyright © 2014 Gearbest.com All Rights Reserved.</div>
 
-<script src="/data-cache/currency_huilv.js"></script>
+<script src="/data-cache/currency_huilv.js?1418969341"></script>
 <script src="/data-cache/lang_currency.js"></script>
 
 
-<script src="http://css.gearbest.com/imagecache/GB/minjs/languege/en/var_languages.js?2014051401"></script>
-<script src="http://css.gearbest.com/imagecache/GB/minjs/jquery.common_plug.min.js"></script>
-<!-- <script src="http://css.gearbest.com/imagecache/GB/minjs/jquery.validate.min.js"></script> -->
-<script src="http://css.gearbest.com/imagecache/GB/minjs/jquery.layer.min.js"></script>
-<script src="http://css.gearbest.com/imagecache/GB/minjs/common.min.js?2014052003"></script>
+<script src="http://css.gearbest.com/imagecache/GB/minjs/languege/en/var_languages.js?2014120301"></script>
 
+ <script src="http://css.gearbest.com/imagecache/GB/minjs/jquery.validate.min.js"></script>
+<script src="http://css.gearbest.com/imagecache/GB/minjs/jquery.layer.min.js?2014101401"></script>
+<script src="http://css.gearbest.com/imagecache/GB/minjs/common.min.js?2014121101"></script>
 
+<script>/*DO NOT ALTER *** GearBest*/
+    
+    (function(e){var t="1386",n=document,r,i,s={http:"http://cdn.mplxtms.com/s/MasterTMS.min.js",https:"https://secure-cdn.mplxtms.com/s/MasterTMS.min.js"},o=s[/\w+/.exec(window.location.protocol)[0]];i=n.createElement("script"),i.type="text/javascript",i.async=!0,i.src=o+"#"+t,r=n.getElementsByTagName("script")[0],r.parentNode.insertBefore(i,r),i.readyState?i.onreadystatechange=function(){if(i.readyState==="loaded"||i.readyState==="complete")i.onreadystatechange=null}:i.onload=function(){try{e()}catch(t){}}})(function(){});
+    
+</script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -395,6 +440,17 @@ if(window.location.href == DOMAIN+'/?full_site=true'){
 
 </script>
 
+
+<script type="text/javascript">
+    var query_url = window.location.href;
+    //aff source
+    var aff_source = _GET('utm_source', query_url);//"{$smarty.get.utm_source}";
+    if(aff_source)
+    {
+        $.cookie('aff_source',aff_source, {expires: 60, path: '/',domain:COOKIESDIAMON});
+    }
+    //aff source end
+</script>
 
 
 <script type="text/javascript">
@@ -423,6 +479,129 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/974492405/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
+
+
+
+<!-- 谷歌翻译入口js -->
+<script>
+
+  (function(){
+    var lang;
+    var $i = $(".nationalFlag").find("i");
+    var $span = $(".nationalFlag").find("span");
+    var $a = $(".nationalFlag").find("a")[0];
+    if(navigator.language){
+      lang = navigator.language;
+    }else{
+      lang = navigator.browserLanguage; 
+    }
+       
+    if (lang.indexOf('en') > -1){//英语
+
+    } 
+    else if (lang.indexOf('ro') > -1){//罗马尼亚============================借鉴模仿
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","ro");
+      $span.html("Romania");//Romanian
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cro', 'English_to_Romanian', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('he') > -1){//希伯来============================借鉴模仿
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","he");
+      $span.html("עִבְרִית");//Hebrew
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Che', 'English_to_Hebrew', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('el') > -1){//希腊============================借鉴模仿
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","el");
+      $span.html("Ελληνικ");//Greek
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cel', 'English_to_Greek', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('da') > -1){//丹麦
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","da");
+      $span.html("Dansk");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cda', 'English_to_Denmark', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('no') > -1){//挪威============================借鉴模仿
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","no");
+      $span.html("Norsk");//Norsk
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cno', 'English_to_Norsk', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('nl') > -1){//荷兰
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","nl");
+      $span.html("Nederland");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cnl', 'English_to_Dutch', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('ar') > -1){//阿拉伯============================借鉴模仿
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","ar");
+      $span.html("لغة عربية");//Arabic
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Car', 'English_to_Arabic', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('ko') > -1){//韩国
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","ko");
+      $span.html("Korea");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cko', 'English_to_Korean', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('ja') > -1){//日本
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","ja");
+      $span.html("Japan");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cja', 'English_to_Japanese', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('it') > -1){//意大利
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","it");
+      $span.html("Italiano");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cit', 'English_to_Italian', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('fr') > -1){//法国
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","fr");
+      $span.html("Française");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cfr', 'English_to_French', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('de') > -1){//德国
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","de");
+      $span.html("Deutsch");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cde', 'English_to_German', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('pt') > -1 && lang.indexOf('BR') == -1){//葡萄牙
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","pt");
+      $span.html("Portuguesa");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cpt', 'English_to_Portuguese', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('es') > -1){//西班牙
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","es");
+      $span.html("España");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Ces', 'English_to_Spanish', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('ru') > -1){//俄罗斯
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","ru");
+      $span.html("Русский");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cru', 'English_to_Russian', 'resizable,scrollbars,status'))";
+    }
+    else if (lang.indexOf('BR') > -1 && lang.indexOf('pt') > -1){//巴西葡语
+      $(".nationalFlag").css("display","inline-block");
+      $i.attr("class","br");
+      $span.html("BR");
+      $a.href = "javascript: void(window.open('http://translate.google.com/translate?u='+escape(location.href)+'&amp;langpair=en%7Cpt-BR', 'English_to_pt-BR', 'resizable,scrollbars,status'))";
+    }else{//其他情况
+
+    } 
+  })();
+
+</script>
+
 
 <!--[if lte IE 9]>
 <script type="text/javascript" src="http://css.gearbest.com/imagecache/GB/minjs/jquery.placeholder.1.3.min.js"></script>
