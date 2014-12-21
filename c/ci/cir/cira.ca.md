@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627134154id_/http%3A//cira.ca/privacy/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cira.ca privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221032923id_/http%3A//cira.ca/privacy/policy.html) for the most accurate reproduction.*
 
 # CIRA - Privacy Policy
 
