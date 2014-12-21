@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the colliers.com privacy policy that was archived on 2014-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140620160001id_/http%3A//www.colliers.com/en-us/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the colliers.com privacy policy that was archived on 2014-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221214745id_/http%3A//www.colliers.com/en-us/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><meta charset="utf-8"><title>
 	Privacy Policy | Global | Colliers International
@@ -7,9 +7,8 @@
 	<link href="/favicon.ico" rel="shortcut icon">
 
     <link rel="stylesheet" type="text/css" href="/_ui/css/main.comb.css">
+	<meta name="robots" content="NOODP,NOYDIR">
 
-<meta name="”robots”" content="”NOODP,NOYDIR”">
-	
 	<!--[if lte IE 9]><link rel="stylesheet" href="/_ui/css/ie9.comb.css" type="text/css" media="all" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="/_ui/css/ie8.comb.css" type="text/css" media="all" /><![endif]-->
 	<!--[if lte IE 7]><link rel="stylesheet" href="/_ui/css/ie7.comb.css" type="text/css" media="all" /><![endif]-->
@@ -24,7 +23,11 @@
 	    COLLIERS.currentMarketPath = '/en-us';
 		COLLIERS.isGlobalHomepage = false;
 		COLLIERS.isLocationHomepage = false;
-
+        COLLIERS.geoDetected = 'United States';
+        
+            COLLIERS.loadGoogle = true;
+        
+       
         var gomez= { 
 		     gs: new Date().getTime(), 
 		     acctId:'318388', 
@@ -40,9 +43,15 @@
         <script src="/_ui/js/main.comb.js"></script>
     
 
-    <script src="http://www.google.ca/jsapi"></script>
+    
+        <script src="http://www.google.ca/jsapi"></script>
+    
+
+    
     <script>
-    	google.load('search', '1'); // load google search api after jsapi script tag above
+        if (COLLIERS.loadGoogle) {
+            google.load('search', '1'); // load google search api after jsapi script tag above
+        }
     </script>
 
 	<script>
@@ -191,7 +200,7 @@
 		<ul>
 		    <li>
                 <a href="/en-us/insights">
-                    Market Insights
+                    Research
                 </a>
             </li>
 		    <li>
@@ -209,6 +218,14 @@
                     Meet Our Experts
                 </a>
             </li>
+		   <!-- DFC added blog link below --> 
+            
+                <li>
+                    <a target="_blank" href="http://insights.colliers.com">
+                        Blog
+                    </a>
+                </li><!-- end DFC blog link --> 
+            
 		    <li>
                 <a href="/en-us/about">
                     About
@@ -226,9 +243,13 @@
 
 		<form method="post" action="/en-us/privacypolicy" id="ctl01">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="9mlxEFH9K0Gjg2akoZGvShpFVAdZm11v/f6ygZ0i0ozo4jN/RpeET+sKFPHiXOZ0lxofxaQFKGqEu9jYuC01wRDobuyDPS1K1JC3FX3cFP2GPR2AN2Y46BWlJOXZuBqGTK8RG80CWP5XDcTxR55RJ1jV+ieMa2+RaJS8hMJJfmOa0oiKrU7tt0qISHToEL4P6zkrn9AR7O/sz1+VVHbRHdoxQTJAZ8xYiRsHwym+slf4iJCzDiRXtTUDCEygxtFFmF22D+kxLiAYRogg6R4ZDL+WU7Hdcf+0TyRjhr5M/YJ0njVSvBDdGfs8dVE9iJ/rGLkxnYSp35VWVGeeK8ELuf51pVgIsLqH4Sjey9Y6XQGs49nDAnLCPOcnwL8jcC+FInyWx8KiUcoGBUn8UqUuVoyi93jJdGnN15cYBNqPLj6yHk5zlkklKWT2Nbb6gUb+T+d66K9NleVLyL9Ci6bos7Hwi+pCZt0muzaXEXxQV6F3yEoXSy88CcuEt0P5VOu1VOcSikY9iCqtaHayYmN8F6xrKOkT+ubgBSSTJPfitcy5hatn+vUnZHVxLqtpA/diACHWzuhHeGalU7w1njy6uQVTPMpVjwRpurb1P+L8a4ugREdD/KIz7PL4FDLGCb/pYz7qnmRpJGf9+k98BLBfg4zVPzFysAz5pFlcge1+f8gZuTRdPGlgoFuhHn7Wa6l10Ob/3thmRUgnrZesJyHnjtOP07bpwm2kIKK580p9NE+J3tsw">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="l5O8O/yjLO6Rzr15EXP7gJIZLJokbQV6xurzX6xIMZ1Ymp4Mtz/zY1NxN+XBENwVbH07xfuNE4kbImYKtntWx8WOyJBapDeaVyxNL2Ltg2PYqlg1SwdNBg98jbiA7QIFWFrUhpk7rZoFLICf+sLlWbN0xa0KbzLM8MgcLTZhJTwOre/isivxKj1KKHaV7SqUGa0EsNvm5wmdc9w8vkT3fAE4sWYDI2sZSc1FkHRWikUWCtzhefZoQj5uPhxPS45BAu0ORFfiCq1mLy8JX83RT6Id+qI1Yr+6Rwn8vEtyJSBVO/YlfvatNU2+0ZBEgxuxPNYl1jYXoYt2agoPtQeFj1NSQwKcYYwvqEq1PmayqPU+wJPBghXauKO+wAthZGklPXlIaXdde0bXTjOKQtqqDTwNUQeGRAF15wKH87NQ72zktLY83UFUUqiWv//UCTSjhDQQllEmN+ltaZMJnA+l013lrLINRJqjNt0PTIx75HHcomVHY6gvORWaxzbM8xzdCvZvQD9V9L8Z4dPljFVTRD3yXnePPUNKe1yQ18XkYwh8J+CT+dGbcvfbi6FAI606oDaJnhUOj/DjExeWnmkLonUKaBaM39t6hwfCNvVZ4wD/g1Z4gRwnYmxlZX4aFIkGVXA1mAaacAHxLz1jOBSSDfQa+k6bBo3hfC4kJEEUZzevYGcsta6EVGZlnWV5qSqnmioIASkBWAXho3j1aokbAYos2ED0aOXv0UZN583jUtTQQ98a2PZ/I8CXRQeO6ZjHosiyBUN0uV8qnihOEjPt2MA0beyZuUxUUQef1uBOuD0ZsbdTHnvLZDgdvdPbKDpRuu+clQ0XpeDjOCGkwp5FQMN+Ad0=">
 </div>
 
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="59A241EF">
+</div>
 		
 
 			<div id="contentContainer">
@@ -335,7 +356,7 @@ For any questions regarding this statement , please <a href="/en-us/about/contac
 	<h5>Global</h5>
     601 Union Street, Suite 4800 Seattle, WA 98101 United States  | Tel: +1 206 695 4200
 	<nav>
-        <a href="http://www.youtube.com/colliersintl" target="_blank">Watch us on <strong>YouTube</strong></a><a href="http://twitter.com/colliersintl" target="_blank">Follow us on <strong>Twitter</strong></a><a href="http://www.facebook.com/colliersglobal" target="_blank">Like us on <strong>Facebook</strong></a>
+        <a href="http://www.youtube.com/colliersintl" target="_blank">Watch us on <strong>YouTube</strong></a><a href="http://twitter.com/colliersintl" target="_blank">Follow us on <strong>Twitter</strong></a><a href="http://www.facebook.com/colliersglobal" target="_blank">Like us on <strong>Facebook</strong></a><a href="http://instagram.com/colliersinternational" target="_blank">Follow Us on <strong>Instagram</strong></a>
 	</nav>
 </section>
 			</div>
@@ -370,13 +391,16 @@ For any questions regarding this statement , please <a href="/en-us/about/contac
 		    <li><a href="/en-us/privacypolicy">Privacy Policy</a></li>
             
 		    <li><a href="/en-us/termsofuse">Terms Of Use</a></li>
-              <li><a target="_blank" href="/en-us/blog"></a></li>
-            <li><a target="_blank" href="/en-us/findacolliersoffice#?q=b6ab7036-ee93-4085-a49d-c9cca907c689">Find a Colliers Office</a></li>
+             
+            <li><a href="/en-us/findacolliersoffice#?q=b6ab7036-ee93-4085-a49d-c9cca907c689">Find a Colliers Office</a></li>
 		</ul>
 	</nav>
 	<div class="clear"></div>
 	<p class="copyright">Copyright © <script>var d = new Date();document.write(d.getFullYear());</script>2020 Colliers International, Colliers International Global Headquarters 601 Union St., Suite 4800, Seattle, WA 98101 +1 206 695 4200</p>
 </footer>
+
+ 
+
 			</div>
 
         
@@ -752,6 +776,8 @@ For any questions regarding this statement , please <a href="/en-us/about/contac
 
 	var _gaq = _gaq || [];
 		(function() {
+        if (!COLLIERS.loadGoogle) { return;}
+
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
