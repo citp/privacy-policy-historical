@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331070241id_/http%3A//www.hoodamath.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoodamath.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221110409id_/http%3A//www.hoodamath.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - HOODA MATH - over 500 Math Games
+# Privacy Policy
 
-**Updated: February 2, 2014**
+**Updated: September 29, 2014**
 
 HoodaMath.com has created this privacy statement in order to demonstrate our firm commitment to privacy. Hooda Math is intended to provide fun and educational resources for kids and teens to use under the guidance of their parents and teachers. As required by The Children's Online Privacy Protection Act ("COPPA"), we provide this privacy policy to inform parents and legal guardians (collectively, “Parents”) about our privacy practices on our site www.hoodamath.com. 
 
@@ -64,6 +64,8 @@ We will retain your information as needed to provide you services. If you wish t
 We may update this privacy policy to reflect changes to our information practices. If we make material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 If we make material changes to how we use personal information collected from children under 13, we will notify parents by e-mail (if possible), or by means of a notice on this Site in order to obtain verifiable consent for the new uses of the child's personal information. 
+
+Classroom Pages collect information only from Teachers and Parents to set-up a classroom page account. This information is used in summation to better understand where are users are located in the US and to be used as proof of use to our advertisers. "Student Login" is not an actual login, but rather a code a teacher gives to all of their students that links to the Classroom Page, nothing personally identifiable in any way. 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
