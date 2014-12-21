@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622001959id_/http%3A//www.whattoexpect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whattoexpect.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221083012id_/http%3A//www.whattoexpect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Everyday Health Privacy Policy**
 
-This Policy was last changed on December 30, 2013
+This Policy was last changed in 2014
 
 WhatToExpect.com (the “Site”) is operated by Everyday Health Media, LLC ("Everyday Health," “us” or “we”) on behalf of What to Expect, LLC. Everyday Health also provides services related to or offered on the Site (hereinafter, the "Services"), which may include, without limitation, tools, applications, email services, bulletin and message boards, chat areas, news groups, forums, communities, calendars, and downloadable mobile applications related to the Site or provided through the Site.
 
@@ -19,6 +19,23 @@ By visiting this Site or using the Services, you are accepting the policies and 
 Your Personal Information will be processed by us in the United States. 
 
 In addition to this general Policy, each Service may have additional privacy provisions that are specific to the particular Service. These supplemental disclosures are made adjacent to the particular Service at the time we collect the information. These supplemental disclosures also govern the use of your information. 
+
+**Index**
+
+  1. The Information We Gather
+  2. How We Use Your Information
+  3. Cookies and Targeted Advertising
+  4. How We Disclose Information to Third Parties
+  5. Message Boards and Chats
+  6. Children's Information
+  7. Updating and Control of Your Personal Information
+  8. Co-branded Sections of the Sites
+  9. Third Party Links
+  10. Security
+  11. How to Contact Us
+  12. Privacy Policy Changes
+
+
 
 **1\. The Information We Gather**
 
@@ -49,7 +66,7 @@ We may also combine online and/or offline information received from third partie
 We will use your Personal Information in the ways described below or described at the time that the information is collected.
 
 **A. Advertising.**   
-We believe that advertising is more interesting to you when it is relevant. Accordingly, we customize the advertisements that you see based upon: (i) the information that you provide us (e.g., age, gender, stated health interests and other information in your profile); (ii) geographic location information, which we may determine through your IP address, from your mobile device, or other ways; (iii) data we receive from third parties or; (iv) your visits on the Site or use of Services (commonly referred to as "Behavioral Advertising"). Please see the Cookies and Targeted Advertising section below for more information on the use of cookies and the information collected for Behavioral Advertising.
+We believe that advertising is more interesting to you when it is relevant. Accordingly, we customize the advertisements that you see based upon: (i) the information that you provide us (e.g., age, gender, stated health interests and other information in your profile); (ii) geographic location information, which we may determine through your IP address, from your mobile device, or other ways; (iii) data we receive from third parties or; (iv) your visits on the Site or use of Services (commonly referred to as "Behavioral Advertising"). Please see the Cookies and Targeted Advertising section below for more information on the use of cookies and the information collected for Behavioral Advertising. We may use your personal information to deliver customized advertising to you on this Site, on other websites and other digital and offline media channels.
 
 You can limit the way that we tailor advertising based on your self-reported interests and other information in your profile by clicking on the "Profile" or "My Account" section of this Site and deleting or modifying the information. Please see the section below on Updating and Control of Your Personal Information for more information. In addition, you can delete the cookies that we have placed on your browser. Please see the section below on Cookies, Web Beacons and IP Address Information for more information.
 
@@ -73,7 +90,7 @@ In general, we use your Personal Information as necessary or appropriate for pur
 **A. Cookies, Web Beacons and IP Address Information**   
 
 
-  * Cookies" are small pieces of information that a website places on your browser when you visit that website. We may use cookies to provide you with a more personal and interactive experience with the Site and Services. For example, we may use cookies to control what advertisements you see, the sequence of advertisements and to make sure you don't see the same advertisement too many times. For contests or sweepstakes, we may also use cookies in order to track your progress and the number of entries in some promotions. For polls, we may use cookies to help ensure that an individual can't vote more than once on a particular question or issue. We do not store Personal Information in any cookies on your computer.
+  * "Cookies" are small pieces of information that a website places on your browser when you visit that website. We may use cookies to provide you with a more personal and interactive experience with the Site and Services. For example, we may use cookies to control what advertisements you see, the sequence of advertisements and to make sure you don't see the same advertisement too many times. For contests or sweepstakes, we may also use cookies in order to track your progress and the number of entries in some promotions. For polls, we may use cookies to help ensure that an individual can't vote more than once on a particular question or issue. We do not store Personal Information in any cookies on your computer.
   * Cookies can be removed by following your Internet browser's directions within the help tab. In order to use certain Services offered through the Site, your web browser must accept cookies. If you choose to disable cookies, some aspects of the Site may not work properly, and you may not be able to access our Services.
   * We may also use cookies, pixels, web beacons (which are usually small, transparent graphic images), operating system and device information and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit, the features and information for which you searched and viewed, the email you opened, or on which advertisements you clicked. This type of information is collected to make the Site and Services more useful to you and to tailor the experience with us to meet your special interests and needs.
   * An "Internet protocol address" or "IP Address" is a number that is automatically assigned to your computer when you use the Internet. We, or our service providers, may use your IP Address when you access the Site or Services or use other means to assist with delivering geographically targeted advertisements.
@@ -81,7 +98,7 @@ In general, we use your Personal Information as necessary or appropriate for pur
 
 
 **B. Targeted Advertising**   
-Companies Everyday Health works with may use cookies for purposes including understanding Web usage patterns of users who see advertisements on the Sites, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Sites, we may use cookies from a vendor to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Sites with information about pages you visit on other websites and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of this Site, another Site or any other website on the Internet if the website also has a relationship with our vendor.
+Companies Everyday Health works with may use cookies for purposes including understanding Web usage patterns of users who see advertisements on the Sites, controlling the sequence of advertisements you see, making sure you don't see the same advertisement too many times, determining your interests and tailoring advertisements and promotions based on those interests. For example, if you read an article about a particular health condition on the Sites, we may use cookies from a vendor to later serve you an advertisement for a product related to the viewed article. These third party vendors may connect information about pages you visit on our Sites with information about pages you visit on other websites and media channels and show you advertising based on this combined information. The advertisement may appear when you are visiting a different section of this Site or another website or media channel if the website or media channel also has a relationship with our vendor.
 
 You can choose to limit Behavioral Advertising on the Sites by clicking **[here](http://www.aboutads.info/choices)** and opting-out of cookies placed by those vendors listed. After you opt-out, you will still see advertisements but the advertising may not be as relevant to your interests. If you change your computer, change your browser, or delete your cookies, you will need to renew your opt-out. Our Sites currently are not setup to process or respond to “Do Not Track” settings or signals from web browsers. We do adhere to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (for more information click **[here](http://www.aboutads.info/consumers)** ).
 
@@ -96,7 +113,7 @@ We may share your Personal Information with third parties as specifically approv
 We may disclose and release your Personal Information to third parties: (a) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (b) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or in any cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, illegal conduct or a violation or alleged violation of this Policy or other agreement we may have with you.
 
 **B. Agents and Contractors.**   
-We may provide your Personal Information to service providers who work on our behalf or help us to operate our business, the Site and the Services. Examples of such service providers include vendors and suppliers that provide us with technology, services, and/or content for sending email, analyzing data, research, providing advertising and marketing assistance, processing payments (including credit card payments), and providing customer service. Access to your Personal Information by these service providers is limited to the information reasonably necessary to perform its limited function.
+We may provide your Personal Information to service providers who work on our behalf or help us to operate our business, the Site and the Services. Examples of such service providers include vendors and suppliers that provide us with technology, services, and/or content for sending email, analyzing data, research, providing marketing assistance, serving advertisements on our Sites and Services and on third party channels, processing payments (including credit card payments), and providing customer service. Access to your Personal Information by these service providers is limited to the information reasonably necessary to perform its limited function.
 
 **C. Aggregated, Anonymous Information.**   
 We may share aggregated Anonymous Information about you with third parties. Aggregated information is your Anonymous Information that is combined with the Anonymous Information of other users. 
@@ -130,7 +147,7 @@ The Site and Services are not directed or intended for children under 13 years o
 
 We offer you choices regarding the collection, use, and sharing of your Personal Information. When you receive promotional communications from us you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the promotional e-mail or newsletter you receive or by editing your preference to receive these communications within the "Manage My Email" or similar feature on the individual Site when you are logged in as a registered user. 
 
-You can update or correct your Personal Information by visiting the "Profile" or "My Account" section on the Site. If you no longer wish Everyday Health to use or share your Personal Information in accordance with this Policy or you no longer desire to use or access the Site or Services, you can also remove the Personal Information from the "Profile" or "My Account" section on the Site. If you would like assistance disabling your account please contact customer services at support@everydayhealthinc.com or call 1-888-795-4719.
+You can update or correct your Personal Information by logging-in and visiting the "Profile" or "My Account" section on the Site. If you no longer wish Everyday Health to use or share your Personal Information in accordance with this Policy or you no longer desire to use or access this Site, you can also remove the Personal Information from the "Profile" or "My Account" section on the Site. If you would like assistance disabling your account please contact customer services at support@everydayhealthinc.com or call 1-888-795-4719.
 
 Keep in mind, however, that even if you delete information from your profile, we may retain your Personal Information in conformance with our data retention policy and Personal Information may remain within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information contained in the lists or databases of third parties who previously had been provided information as permitted by this Policy. 
 
