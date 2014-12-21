@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627060100id_/http%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahalife.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221062635id_/http%3A//www.ahalife.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AHAlife
 
 Effective date: January 24, 2014 
 
-Thank you for visiting Ahalife.com. AHAlife Holdings Inc. ("AHAlife," "we" or "us"), is committed to keeping our customers informed about how we use the information we gather from you through the use of our website, Ahalife.com (the "Site"), and through our products, services and applications offered on or off the Site (collectively with the Site, the “Services”). Our commitment to you as a valued customer is to provide you with an exciting, safe and personalized experience. As part of this commitment to you, we have created this privacy policy to inform you about how we collect, use and share your personal information. In addition, we explain the steps we take to secure your personal information. **By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies described in this Privacy Policy, and you hereby consent that we will collect, use and share your information in the following ways. If you do not agree to this Privacy Policy, please do not use the Services.**
+Thank you for visiting Ahalife.com. AHAlife Holdings Inc. ("AHAlife," "we" or "us"), is committed to keeping our customers informed about how we use the information we gather from you through the use of our website, Ahalife.com (the "Site"), and through our products, services and applications offered on or off the Site (collectively with the Site, the “Services”). Our commitment to you as a valued customer is to provide you with an exciting, safe and personalized experience. As part of this commitment to you, we have created this privacy policy to inform you about how we collect, use and share your personal information. In addition, we explain the steps we take to secure your personal information. By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies described in this Privacy Policy, and you hereby consent that we will collect, use and share your information in the following ways. If you do not agree to this Privacy Policy, please do not use the Services. 
 
-Remember that your use of AHAlife’s Services is at all times subject to the [Terms of Use](http://www.ahalife.com/terms), which incorporates this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the [Terms of Use](http://www.ahalife.com/terms). 
+Remember that your use of AHAlife’s Services is at all times subject to the 
+
+[_Terms of Use_](http://www.ahalife.com/terms)
+
+, which incorporates this Privacy Policy. Any terms we use in this Privacy Policy without defining them have the definitions given to them in the 
+
+[_Terms of Use_](http://www.ahalife.com/terms)
+
+. 
 
 This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Services, but not the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our services, to allow you to set up a user account and profile, to contact you and allow other users to contact you, to fulfill your requests for certain products and services, and to analyze how you use the Services. In certain cases, we may also share some Personal Information with third parties, but only as described below. 
 
@@ -77,17 +85,37 @@ Through your account settings, you may access, and, in some cases, edit or delet
 
 
 
-The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please [contact us](https://web.archive.org/contact). 
+The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please 
 
-In certain circumstances under California law, consumer customers of AHAlife who are California residents are entitled to certain information regarding any personally identifiable information (as defined by certain California laws) we may share with direct marketing companies. Personally identifiable information generally is defined under California law as information that identifies specifics about an individual and can be used to identify, contact, or locate an individual including that individual’s name, mailing address, telephone number, mobile phone number, email address and other identification and contact information. If you are an eligible customer of AHAlife and would like to receive a list detailing the types of personally identifiable information we share with direct marketing companies and the names and addresses of all direct marketing companies that we provide personally identifiable information to, please [contact us](https://web.archive.org/contact). We will respond to any request for information at such email address within thirty (30) days. 
+[_contact us_](https://web.archive.org/contact)
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have inadvertently gathered Personally Identifiable Information from children under 13, we shall erase such information from our records and terminate the applicable account(s) promptly. If you believe that a child under 13 may have provided us personal information, please [contact us](https://web.archive.org/contact). 
+. 
+
+In certain circumstances under California law, consumer customers of AHAlife who are California residents are entitled to certain information regarding any personally identifiable information (as defined by certain California laws) we may share with direct marketing companies. Personally identifiable information generally is defined under California law as information that identifies specifics about an individual and can be used to identify, contact, or locate an individual including that individual’s name, mailing address, telephone number, mobile phone number, email address and other identification and contact information. If you are an eligible customer of AHAlife and would like to receive a list detailing the types of personally identifiable information we share with direct marketing companies and the names and addresses of all direct marketing companies that we provide personally identifiable information to, please 
+
+[_contact us_](https://web.archive.org/contact)
+
+. We will respond to any request for information at such email address within thirty (30) days. 
+
+We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have inadvertently gathered Personally Identifiable Information from children under 13, we shall erase such information from our records and terminate the applicable account(s) promptly. If you believe that a child under 13 may have provided us personal information, please 
+
+[_contact us_](https://web.archive.org/contact)
+
+. 
 
 You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our special features. 
 
-You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by [contacting us](https://web.archive.org/contact). Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. 
+You may be able to add, update, or delete information as explained above. When you update information, however, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by 
 
-If you have any questions regarding our Policy or privacy practices, please [contact us](https://web.archive.org/contact). 
+[_contacting us_](https://web.archive.org/contact)
+
+. Some information may remain in our records after your deletion of such information from your account. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. 
+
+If you have any questions regarding our Policy or privacy practices, please 
+
+[_contact us_](https://web.archive.org/contact)
+
+. 
 
 AHAlife Holdings Inc.   
 45 Bond Street, 6th Floor   
