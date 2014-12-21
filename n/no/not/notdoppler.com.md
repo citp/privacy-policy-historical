@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notdoppler.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620213225id_/http%3A//notdoppler.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notdoppler.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221233412id_/http%3A//www.notdoppler.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,9 +22,9 @@ If you would like more information about advertising practices and to know your 
 **Opt Out of targeted advertising:**  
 Targeted advertising using browser behaviour is designed to ensure users see more relevant advertising based on their interests. If you prefer not to see targeted advertising from our advertising partners you can opt out of these services by following the below links:
 
-Exponential: Please [click here](https://web.archive.org/web/20140620213225id_/http%3A//notdoppler.com/%E2%80%9Dhttp://exponential.com/success/%E2%80%9D)  
-Google: Please [click here](https://web.archive.org/web/20140620213225id_/http%3A//notdoppler.com/%E2%80%9Dhttps://support.google.com/ads/answer/2662922%E2%80%9D) for Google’s opt out process  
-CPMStar: Please [ click here](https://web.archive.org/web/20140620213225id_/http%3A//notdoppler.com/%E2%80%9Dhttp://server.cpmstar.com/optout.aspx%E2%80%9D)
+Exponential: Please [click here](https://web.archive.org/web/20141221233412id_/http%3A//www.notdoppler.com/%E2%80%9Dhttp://exponential.com/success/%E2%80%9D)  
+Google: Please [click here](https://web.archive.org/web/20141221233412id_/http%3A//www.notdoppler.com/%E2%80%9Dhttps://support.google.com/ads/answer/2662922%E2%80%9D) for Google’s opt out process  
+CPMStar: Please [ click here](https://web.archive.org/web/20141221233412id_/http%3A//www.notdoppler.com/%E2%80%9Dhttp://server.cpmstar.com/optout.aspx%E2%80%9D)
 
 **Children under 13:**  
 We are committed to complying with the children's Online Privacy Protection Act (COPPA). Not Doppler has no user forums, registration systems, chat or instant message capabilities, and thus no private information pertaining to children can be shared on Not Doppler. However certain games hosted on Not Doppler may have such features as described in the External Links section, and are governed by their own individual privacy policy. If you have any concern that information related to the privacy of children has been submitted to Not Doppler, please contact us at [contact@notdoppler.com](mailto:contact@notdoppler.com) **Help and Support:**  
