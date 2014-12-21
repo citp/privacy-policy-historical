@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elasticsearch.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626121557id_/http%3A//www.elasticsearch.org/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticsearch.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221184620id_/http%3A//www.elasticsearch.org/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Elasticsearch.org Privacy and Cookie Policy | Elasticsearch
 
