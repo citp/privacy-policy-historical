@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sanluisobispo.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531044846id_/http%3A//www.sanluisobispo.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanluisobispo.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221023303id_/http%3A//www.sanluisobispo.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
-# SanLuisObispo.com San Luis Obispo, CA
+# SanLuisObispo San Luis Obispo, CA
 
 ##### Effective Date: March 2014
 
-SanLuisObispo.com ("SanLuisObispo.com", "we", "our") is firmly committed to respecting your privacy in the course of offering you a high quality, interactive, and personalized experience. We take your privacy concerns seriously. Our Privacy Policy is designed to inform you about how we may collect, use, share, and store information about you and the choices available to you.
+SanLuisObispo ("SanLuisObispo", "we", "our") is firmly committed to respecting your privacy in the course of offering you a high quality, interactive, and personalized experience. We take your privacy concerns seriously. Our Privacy Policy is designed to inform you about how we may collect, use, share, and store information about you and the choices available to you.
 
 ### PRIVACY POLICY HIGHLIGHTS
 
@@ -56,9 +56,9 @@ Our services are not intended for children under 13.
 
 We are not responsible for any third-party products or services you access via our services.
 
-We may notify you of material updates to our Privacy Policy via email and will post a notice at [SanLuisObispo.com](https://web.archive.org/). Your continued use of our services after notice constitutes your acceptance of the Privacy Policy.
+We may notify you of material updates to our Privacy Policy via email and will post a notice at [SanLuisObispo](https://web.archive.org/). Your continued use of our services after notice constitutes your acceptance of the Privacy Policy.
 
-### SanLuisObispo.com Privacy Policy
+### SanLuisObispo Privacy Policy
 
 Please read this Privacy Policy carefully. You understand and agree that, by visiting or using any website, mobile application, or online service governed by this Privacy Policy, you consent to the processing of information as set forth in this Privacy Policy. Please note that this Privacy Policy is subject to change. We recommend that you review the Privacy Policy from time to time. If we make changes to this Privacy Policy, we will update the Effective Date at the top of this page. If you disagree with any portion of this Privacy Policy, now or as amended by us, your only option is to not use the websites, mobile applications, or online services governed by it. This Privacy Policy includes references to The McClatchy Company, which directly or indirectly owns and operates the newspapers, websites and apps referenced in this Privacy Policy.
 
@@ -233,12 +233,12 @@ By using any of our services, you agree that we may collect, use and transfer yo
 
 ### Changes to This Privacy Policy
 
-We reserve the right to update this Privacy Policy from time to time by posting a new Privacy Policy on this page. You are advised to consult this Privacy Policy regularly for any changes, and your continued use of the Site after such changes have been made constitutes acceptance of those changes. If you are a registered user of our services and we make any revisions that materially change the ways in which we use or share the information previously collected from you through our services, we will notify you of those revisions by sending an email to the email address listed in your registration. We will also post a notice of any material change to this policy by posting a notice on [SanLuisObispo.com](https://web.archive.org/)
+We reserve the right to update this Privacy Policy from time to time by posting a new Privacy Policy on this page. You are advised to consult this Privacy Policy regularly for any changes, and your continued use of the Site after such changes have been made constitutes acceptance of those changes. If you are a registered user of our services and we make any revisions that materially change the ways in which we use or share the information previously collected from you through our services, we will notify you of those revisions by sending an email to the email address listed in your registration. We will also post a notice of any material change to this policy by posting a notice on [SanLuisObispo](https://web.archive.org/)
 
 ### Contact Information
 
 If you have any questions or comments about our privacy practices, we may be reached at   
-SanLuisObispo.com,   
+SanLuisObispo,   
 3825 S. Higuera St., San Luis Obispo, CA, 93406,   
 805-781-7800   
 or at [webmaster@thetribunenews.com](mailto:webmaster@thetribunenews.com).
