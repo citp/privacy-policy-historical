@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034722id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221035706id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Security Systems | Alarm Monitoring | Protect America
+# Privacy Policy | Protect America
 
 [](https://privacy.truste.com/privacy-seal/Protect-America,-Inc-/validation?rid=a32fda55-5b8a-4a07-b143-f23589641269 "TRUSTe online privacy certification")
 
@@ -44,7 +44,7 @@ If you have any questions about security on our Web site, you can send email us 
 
 If you call a telephone number listed on our Web site, we may collect Personal Information from you, including your name and telephone number through caller identification and reverse call technology. We also may record the telephone conversation. We record the telephone conversation to track the performance of our advertisements and for quality assurance purposes. We do not record the calls for the purpose of collecting your Personal Information. If we record the telephone conversation, we will notify you before the conversation begins. In addition to ProtectAmerica.com, the only parties that have access to the recording are the telephone service provider and ProtectAmerica.com contractors and affiliates who assist strictly in the efforts described in this paragraph, and who are bound by confidentiality.
 
-I am genuinely interested in a GE Security System to protect my home and family. By providing my contact information and telephone number, I expressly authorize ProtectAmerica.com or their affiliates to contact me at the telephone number that I have provided and/or the email address that I have provided in respect to this offer and any new offers made available in the future, even though I may have previously chosen to have the telephone number that I provided or the email address that I provided added to any Do-Not-Call List or anti-spam list including the lists maintained by ProtectAmerica.com or their affiliates or any local, state, or federal government agency. I further acknowledge that by submitting this request, ProtectAmerica.com or their affiliates have my permission to contact me via telephone and/or email.
+I am genuinely interested in a Security System to protect my home and family. By providing my contact information and telephone number, I expressly authorize ProtectAmerica.com or their affiliates to contact me at the telephone number that I have provided and/or the email address that I have provided in respect to this offer and any new offers made available in the future, even though I may have previously chosen to have the telephone number that I provided or the email address that I provided added to any Do-Not-Call List or anti-spam list including the lists maintained by ProtectAmerica.com or their affiliates or any local, state, or federal government agency. I further acknowledge that by submitting this request, ProtectAmerica.com or their affiliates have my permission to contact me via telephone and/or email.
 
 ## Use of Collected Information
 
