@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the creditscore.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508023451id_/http%3A//www.creditscore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditscore.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221100800id_/http%3A//www.creditscore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CreditScore
 
-[](https://web.archive.org/Default "freecreditreport.com\(TM\) from Experian\(R\)")  
+[](http://www.creditscore.com/ "Credit Score and Credit Report – 3 Bureau | CreditScore.com\(TM\)")  
   
 | 
 
