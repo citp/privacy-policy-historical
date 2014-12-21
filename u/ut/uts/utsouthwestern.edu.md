@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utsouthwestern.edu privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622111242id_/http%3A//www.utsouthwestern.edu/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsouthwestern.edu privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221051519id_/http%3A//www.utsouthwestern.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Legal: Privacy Policy - UT Southwestern Medical Center, Dallas, TX
+# Privacy Policy: Legal - UT Southwestern, Dallas, Texas
 
 The University of Texas Southwestern Medical Center (UT Southwestern) maintains this website as a public service. UT Southwestern is dedicated to protecting the privacy of visitors to this website and does not actively share visitors’ personal information.
 
@@ -60,7 +60,7 @@ Any request to receive and review information, or request corrections to it, sho
 
 ## Patient Confidentiality
 
-UT Southwestern is committed to protecting the confidentiality of medical and personal information of our patients in the manner required by state and federal privacy laws. To learn more about the ways UT Southwestern safeguards confidential patient information, please read UT Southwestern's [Notice of Privacy Practices](https://web.archive.org/edumedia/edufiles/about_us/admin_offices/hipaa_privacy/notice-privacy-practice.pdf).
+UT Southwestern is committed to protecting the confidentiality of medical and personal information of our patients in the manner required by state and federal privacy laws. To learn more about the ways UT Southwestern safeguards confidential patient information, please read UT Southwestern's Notice of Privacy Practices ([English](https://web.archive.org/edumedia/edufiles/about_us/admin_offices/hipaa_privacy/notice-privacy-practice.pdf "Notice of Privacy Practices - English") | [Spanish](https://web.archive.org/edumedia/edufiles/about_us/admin_offices/hipaa_privacy/notice-privacy-practice-spanish.pdf "Notice of Privacy Practices - Spanish")).
 
 ## Questions
 
