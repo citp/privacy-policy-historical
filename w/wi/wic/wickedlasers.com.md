@@ -1,111 +1,59 @@
-> *The following text is extracted and transformed from the wickedlasers.com privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201025747id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedlasers.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221094113id_/http%3A//www.wickedlasers.com/info/privacypolicy.html) for the most accurate reproduction.*
 
-# Welcome to wickedlasers.com
+# Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/Wicked-Lasers/validation?validationId=f570c22c-a684-43a0-9813-8fa6476466e1&referer=wickedlasers.com)**Effective October 28, 2011**
+Wicked Lasers is committed to respecting the privacy of its online visitors and to providing a secure environment for personal information that we collect. This Privacy Policy describes what information we collect and how that information is collected and used.
 
-This privacy statement describes how **wickedlasers.com** collects and uses your personal information. The privacy practices of this company have been certified by TRUSTe for compliance with our [Privacy Certification Requirements](http://www.truste.com/privacy-program-requirements/index.html). 
+###  PERSONAL INFORMATION PROVIDED BY YOU
 
-[
+We do not automatically collect any personally identifiable information. Nor does Wicked Lasers specifically ask or knowingly collect personally identifiable information for children under 13. We may obtain personally identifiable information about you ONLY if you elect to give us that information. We collect personally identifiable information in order for you to be able to upload and post content on our site, when you purchase merchandise, and/or when you communicate with us electronically. For example, we collect the following personally identifiable information from you only when you register to become a member of our site:   
+_During Registration:_
 
-## Expected Uses »
-
-](https://web.archive.org/web/20121201025747id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Collection)
-
-Your data is only used to fulfill your order or to provide services you requested including: providing personalized content, securing your data, and/or communicating to you about your requested products or services. **[learn more »](https://web.archive.org/web/20121201025747id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Collection)**
-
-[
-
-##  Tracking On This Site »
-
-](https://web.archive.org/web/20121201025747id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Tracking)
-
-This website uses other companies to collect data about how you use this site, such as: what pages you viewed, how long you were on a particular page, or whether you filled out a form to understand how people use the site. **[learn more »](https://web.archive.org/web/20121201025747id_/http%3A//privacy.truste.com/privacy-policy/Wicked-Lasers/certified/f29c4415-cd6e-4844-9a13-78e61d7b8afd#Tracking)**
-
-* * *
-
-Wicked Lasers
-
-2964 Columbia St. Suite #33853 
-
-Torrance, CA  90503
-
-United States
-
-Phone: 8779527377
-
- **TRUSTe Dispute Resolution**  
-If a TRUSTe client has violated its privacy agreement you can file a complaint with [TRUSTe Dispute Resolution »](http://www.truste.com/watchdog)
-
-  
-
-
-[](https://privacy.truste.com/privacy-seal/Wicked-Lasers/validation?validationId=f570c22c-a684-43a0-9813-8fa6476466e1&referer=wickedlasers.com)
-
- **Effective on October 28, 2011**
-
-This privacy statement describes how **Wicked Lasers** collects and uses the personal information you provide on our Web site: [ wickedlasers.com](http://wickedlasers.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
- **Wicked Lasers** has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@wickedlasers.com](mailto:support@wickedlasers.com). If you are not satisfied with our response you can contact [TRUSTe here](http://www.truste.com/about_TRUSTe/contact_us.html).
-
-We collect the following personal information from you:
-
-  * Contact Information such as name, email address, mailing address, phone number
+  * First name, last name and middle initial
+  * E-mail Address
+  * User ID Name
+  * Password
+  * Zip Code
 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+###  USE OF PERSONAL INFORMATION
 
- **We use this information to:**
+If you provide personally identifiable information to Wicked Lasers by filling out a registration form or by communicating with us through email, regular mail or telephone, we may use that information in the following limited ways:
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Respond to customer service requests
-  * Respond to your questions and concerns
-
-
-
-We will share your information with third parties only in the ways that are described in this privacy statement.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
-
-We may disclose your personal information
-
-  * as required by law, such as to comply with a subpoena, or similar legal process 
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if Wicked Lasers is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
-  * to any other third party with your prior consent to do so.
+  * Wicked Lasers may use your name and email and postal address to send you information advising you of our upcoming events, new products, features and Wicked Lasers sites and related information, but only if you give us your permission to do so.
+  * Wicked Lasers will use your name and email address to notify you of the status of your purchase.
+  * Wicked Lasers may use personally identifiable information for internal purposes, such as tracking demographic data to make our site more useful to our members.
+  * Wicked Lasers provides certain third parties that provide technical or other services (for example, credit card processing) with access to personally identifiable information. However, third parties retained by Wicked Lasers to provide such services are obligated to maintain the confidentiality of this information and are not authorized to use this information for any purpose other than providing those services.
 
 
 
-We or a third party contracted by us may use technologies such as cookies, Web beacons, or scripts to gather information about how you and others interact with our Web site. For example, we will know how many users access a specific areas or features within our site and which links or ads they clicked on. We use this aggregated information to understand and optimize how our site is used, improve our marketing efforts, and provide content and features that are of interest to you.
+Wicked Lasers will not share or sell your personally identifiable information to third parties who provide products, promotions and services.
 
-The security of your personal information is important to us. When you provide sensitive information (such as a credit card number) to us, we encrypt the transmission of that information using secure socket layer technology (SSL).
+###  WE AUTOMATICALLY COLLECT AND STORE NON-PERSONAL INFORMATION
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. 
+In order to make our site more interesting and useful to you, we use standard browser (HTML) technology and cookies to automatically collect information on our site. Cookies are pieces of information that our Web site sends to your computer while you are viewing our Web site and are only used for users who have registered with our site. You may choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies through your browser settings. If you turn off your ability to receive cookies from our site, you won't get the benefits of some of the features offered on the Wicked Lasers site. As with most Web sites that you visit, the Wicked Lasers web site automatically collects and stores the following information about your visit:
 
-If you have any questions about security on our Web site, you can contact us at [support@wickedlasers.com](mailto:support@wickedlasers.com)
+  * service provider from which you access the Internet
+  * domain name from which you access the Internet
+  * date and time you access our website
+  * which pages you visit
+  * internet address of the website from which you linked directly to our website
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@wickedlasers.com](mailto:support@wickedlasers.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-Our Web site includes third party hosted widgets, which are interactive mini-programs that run on our site to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget provider’s privacy policy 
 
-**Correcting and Updating Your Personal Information**
+We use this information for statistical purposes and to help us make our website more useful to registered users. We cannot identify you from this information. However, we will combine this information with personally identifiable information to identify a visitor in order to enforce compliance with our User Agreement or to protect our service, site, guests or others.
 
-To review and update your personal information to ensure it is accurate, contact us at [support@wickedlasers.com](mailto:support@wickedlasers.com).
+###  APPLICABILITY OF POLICY
 
- **Notification of Privacy Statement Changes**
+This Privacy Policy applies to the Wicked Lasers site. In order to provide a more comprehensive and useful Web site, our site contains links to other Web sites that are not under our control. Wicked Lasers is not responsible for the content of any linked Website, any changes or updates to such Web sites, or the privacy policies of such Web sites. Further, the inclusion of any link does not imply endorsement by Wicked Lasers of that Web site or its terms and policies.
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+###  SECURITY
 
-You can contact us about this privacy statement by writing or email us at the address below:
+Wicked Lasers goes to great lengths to protect the confidentiality and integrity of any personal information you share with us over the Internet.  
+Our Website has security measures in place to protect against the loss, misuse or alteration of the information under our control. Wicked Lasers treats personal data such as credit card information as critical assets that must be guarded at all times against loss and unauthorized access. Our server is encrypted to protect credit card and other information submitted via the forms on this Website. Our Web server is located in a locked, secure environment. All databases containing personal information are securely stored and protected behind a firewall.
 
-Wicked Lasers
+###  FOR MORE INFORMATION
 
-2964 Columbia St. Suite #33853 
-
-Torrance, CA  90503
-
-United States
-
-Phone: 8779527377
+Wicked Lasers will discontinue contact with any person upon oral or written request.   
+If you have any further questions about our Privacy Policy, the information that we have collected from you online, the practices of this site, your interaction with this Website or to correct and/or change contact information, please contact us at [support@wickedlasers.com](mailto:support@wickedlasers.com). 
