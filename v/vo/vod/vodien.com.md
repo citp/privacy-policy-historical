@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323065833id_/http%3A//www.vodien.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221231820id_/http%3A//www.vodien.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Hosting Web | Web Hosting Sites
 
@@ -89,4 +89,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 **Contact Information  
 **Questions regarding this privacy policy may be directed to [contact@vodien.com](mailto:contact@vodien.com).
 
-The above stated Privacy Policy is correct as of **8 Mar 2014**.
+The above stated Privacy Policy is correct as of **7 Dec 2014**.
