@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altaro.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209074021id_/http%3A//www.altaro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altaro.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221134219id_/http%3A//www.altaro.com/privacy.php) for the most accurate reproduction.*
 
 # Altaro Software Privacy Policy
 
@@ -38,7 +38,7 @@ The email address you provide for order processing, may be used to send you info
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
