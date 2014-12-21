@@ -1,160 +1,124 @@
-> *The following text is extracted and transformed from the parkcitymountain.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514000842id_/http%3A//www.parkcitymountain.com/%40%40tclickto/2145764770%3F_t%3Df) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkcitymountain.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221201342id_/http%3A//www.parkcitymountain.com/site/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Effective date: January 20, 2012
+**Vail Resorts Online Privacy Policy  
+**  
+Vail Resorts Management Company and other members of the Vail Resorts family of businesses (together, “Vail Resorts,”) know that you care how information about you is collected and used. We take great pride in the relationships we have developed with our guests and we are committed to treating personal information we obtain from you with care and respect. This Online Privacy Policy (the “Privacy Policy” or “Policy”) is designed to inform you about our privacy policies and practices. This Policy is part of the Terms of Use published on our Sites. Click here to review the [Terms of Use](http://www.snow.com/termsandconditions.aspx).
 
-## Our Commitment to Privacy
+**Scope of the Policy**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our electronic information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and we will update it immediately if our policies change.
+The Policy applies to the personal information we collect when you visit any Vail Resorts’ web site where the Policy is posted (our “Sites”). When we use the term “personal information,” we mean information that identifies a particular individual, such as the individual’s name, postal address, e-mail addresses, and telephone number. When other information (such as consumer preferences or demographic information) is directly associated with personal information, this other information is treated as personal information.
 
-## The Information We Collect:
+**Consent to the Policy**
 
-This notice applies to information you supply to Park City Mountain Resort. The information may be provided via the Resort's websites or at various other locations including points of sale at the Resort. The types of personal information collected may include:  
-Name  
-Address  
-Email address  
-Phone number  
-Credit/Debit Card Information  
-(etc.)  
-On some webpages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:  
-Name  
-Address  
-Phone Number  
-(etc.)
+By visiting any of our Sites, you agree to the collection, use and disclosure of your personal information as described in this Policy. If you do not consent to the collection, use and disclosure of your personal information as described in this Policy, you should not use our Sites.
 
-## The Way We Use Information
+**Personal Information We Collect and How We Use It**
 
-We use the information you provide about yourself when placing an order only to complete that order or in the course of business related to that transaction. We do not share this information with outside parties except to the extent necessary to complete that order.  
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.  
-We may offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.  
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.  
-You can sign up for our e-newsletter on our website if you would like to receive email updates from Park City Mountain Resort. Information you submit on other pages of our website will not be used for this purpose unless you agree to receive updates.  
-We use non-identifying and aggregate information to better design our website and to share with sponsors. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose personally identifiable information.  
-Park City Mountain Resort will never use, sell, rent or share the personally identifiable information provided to us to any third party for any reason, except for in certain special cases in which we may disclose your personally identifiable information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you, or otherwise injuring or interfering with Park City Mountain Resort's rights, property or operations, other Park City Mountain Resort's site users, or anyone else who could be harmed by such activities. We may also disclose your personally identifiable information when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case, administrative investigation or investigation conducted by Park City Mountain Resort. We shall have no obligation to inform you of our compliance with the law, including without limitation a response to a law enforcement request or a valid subpoena.
+We collect the following types of personal information through our Sites:
 
-## Our Commitment To Data Security
+**_Information You Actively Provide._**  
+We collect the personal information you actively provide when you use one of our Sites.We use the personal information you provide to deliver the programs, products and services that you request, or to process purchases or reservations you have made on our Sites. For example, we use the information you provide when you make a reservation to reserve the type of room you requested at the hotel or resort you selected. If you join the PEAKS loyalty program or one of our other loyalty programs, we use your personal information to administer the program. Information you provide to us on our Sites will be stored in an online profile we create for you, to enable us to better meet your needs and understand your preferences.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
-We encrypt the pipe through which personal information, such as credit card numbers, is sent, using the most up-to-date technology such as Secure Socket Layer (SSL) to ensure that your information is safe as it is sent over the Internet to our server. While we strive to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
+Depending on your privacy preferences, we may use your personal information to send you promotional messages and special offers. We also use your personal information for security and fraud prevention purposes; to better understand our guests; to improve our programs, services, and Sites; and to better market and advertise our programs and services.
 
-## Our Commitment To Children's Privacy
+At some of our Sites, you can submit information about other people. For example, if you order a gift, gift card, or gift certificate online and want to send it directly to the recipient, you must submit the recipient’s name and address.We use this information only to send your gift or provide the service requested. We will not add that person’s information to our mailing lists.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.  This Site is for a general audience.  We ask that parents supervise their children while online.
+We may combine information you have provided to us on our Sites with information you have provided to us offline, and we may store this information together in your online profile. For example, we may combine data automatically collected when you use your season ski pass at one of our resorts or data you provide to us when you stay at one of our hotels with your online profile. This enables us to better understand and meet your needs when you visit our resorts or other properties.
 
-## How You Can Access Or Correct Your Information
+**_Information Provided by Others._**  
+From time to time, we may supplement the information you give us with information from third parties. For example, we may supplement your profile with demographic and preference data or we may correct mailing addresses by using public sources. By supplementing your profile, we are better able to provide product recommendations and special offers that will be of genuine interest to you. We may also use this information to further personalize our Sites and improve your experience while you are on our Sites.
 
-You can request information about all your personally identifiable information that we maintain by contacting us at [privacy@pcski.com](mailto:privacy@pcski.com) or by sending postal mail to: Park City Mountain Resort Privacy Policy, PO Box 39, Park City, UT 84060. To protect your privacy and security we will also take reasonable steps to verify your identity before granting access or making corrections. We use this procedure to better safeguard your information.  
-You can correct factual errors in your personally identifiable information by sending us a written request that credibly shows error.
+**_Information Sent to Us by Your Web Browser.  
+_**We collect information that is automatically sent to us by your web browser. This information typically includes your IP address; the name and version of your operating system; the name and version of your browser; the page you were visiting before you accessed our Site; and the date and time of your visit. The information we receive depends on the settings of your browser. Please check your browser if you want to learn what information your browser sends or how to change your settings. Generally, we use this information to create statistics that help us improve our Sites and make them more compatible with the technology used by our visitors. This information is also used for marketing purposes and to improve your experience on the Sites.
 
-## How To Contact Us
+We may collect IP addresses for purposes of system administration, to report traffic data to our corporate partners, and to audit the use of our Sites. Although the information provided by your browser does not identify you personally, this data can be combined with other data to personally identify you. 
 
-Should you have other questions or concerns about these privacy policies, please call us at 435-649-8111, send us an email at [privacy@pcski.com](mailto:privacy@pcski.com) or you may contact us at: Park City Mountain Resort Privacy Policy, PO Box 39, Park City, UT 84060
+**_Cookies.  
+_**We also use "cookies" as a method to gain dependable and consistent traffic data. A "cookie" is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help us provide customizable services and to allow you to sign-in to our Sites. Cookies may also be used by Vail corporate partners on co-branded Web pages. You can choose whether to accept cookies by changing the settings of your browser. If you choose not to accept these cookies, your experience at our Sites and other Web sites may be diminished and some features will not work as intended. 
 
-## Privacy Policy Updates
+**_Advertising Servers._**  
+We may hire other companies to place our banner ads on other websites. Those companies may perform tracking and reporting activities on the ads they serve for us, as well as user reaction. They would not collect any information other than IP addresses and behaviors associated with those IP addresses on our behalf, and we will not give any personal information to them. Third-party advertising servers are subject to their own privacy policies. Our service providers are bound by contract to keep your personal information confidential and use it only to perform services on our behalf. 
 
-We may update this privacy policy from time to time. When we do so, we will post the new privacy policy on this page and change the date at the top of the policy. Therefore, we encourage you to check the date of our privacy policy whenever you visit this Site for any updates or changes. If you have any questions about this privacy policy or have concerns that are not addressed here, please contact Park City Mountain Resort (see "How To Contact" Us above).
+**Disclosure of Your Personal Information**
 
-## Links
+Vail Resorts does not sell your personal information to outside marketers or advertisers. Under limited circumstances we may disclose the personal information we collect with outside parties for specific purposes. Those circumstances are described below along with some of the steps we take to limit the manner in which your personal information is used. 
 
-This site includes links to other websites. We provide these links as a courtesy to you and we do not have control over the operation of the websites, even though they may use the Park City Mountain Resort name or logo. In addition, you may sign up for accounts on some of these websites. These websites have their own privacy and information security policy and terms and conditions and do not necessarily follow our privacy policy. Their policies will control their collection and use of your personal information. Visitors should consult the other websites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. In addition, when you browse, they may place their own cookies on your computer and we do not control cookies placed on your computer by third parties whose sponsor links appear on our Site.  
-The appearance of a link does not imply Park City Mountain Resort endorsement, nor is Park City Mountain Resort responsible for the contents of any linked site. You access them at your own risk.
+**_With Service Providers._**  
+We may share your information with companies that provide support services to us (such as credit card processors, mailing houses, web hosts, or providers of online reservation services) or that help us market our products and services (such as email vendors). These companies may need information about you in order to perform their functions. These companies are only authorized to use the personal information we share with them for the purpose of delivering the service we hire them to provide. In addition, we only disclose the information they need to provide the specific service or function. We will not sell your personal information to third party marketing or advertising firms.
 
-## International Users
+**_With Other Companies in the Vail Family of Businesses._**  
+Personal information collected on any of the Sites may be shared with other members of the Vail Resorts family of businesses, including current or future parents, affiliates, subsidiaries, and entities sharing common ownership with Vail Resorts. All of the Vail Resorts entities are bound to this Privacy Policy.
 
-If you are located outside of the United States, please note that this Site is hosted on computer servers in the United States. Any personal information collected through this Site may be transferred to the United States and other countries that might not provide an equivalent level of protection as the data protection laws in your home country. Your use of this Site or submission of any personal information will therefore constitute your consent to the transfer of your personal information outside of your home country.
+**_Partner Promotions_**  
+We may occasionally feature web pages on which you can register for special promotions or services provided in conjunction with our business partners. When we feature pages like these on our Sites, we will give you a clear notice that you are providing information to another party. We may also arrange to send you marketing and promotional information of other reputable companies that we think might be of interest to you, only if you tell us that you want to receive these sorts of materials. We do not share your personal information with these companies.
 
-## Collection of Information
+**_In Connection with Corporate Events._**  
+If some or all of the business assets of one of our companies or Sites are sold or transferred, we generally would transfer the corresponding information regarding our guests and customers to the acquiring business so that they can continue to operate the business, but your information would remain subject to this Policy.
 
-By providing personal information to Park City Mountain Resort you agree and consent that we may collect and use your personal information in accordance with this privacy policy.  
-In addition, where appropriate, we may obtain specific authorizations or consents from time to time. For example, we may seek consent to use and share personal information after it has been collected in those cases where Park City Mountain Resort wishes to use the information for a purpose not previously identified or for which the individual concerned has not previously provided consent.  
-In most cases, and subject to legal and contractual restrictions, an individual is free to refuse or withdraw his or her consent at any time upon reasonable, advance notice. It should be noted that in some circumstances, certain Park City Mountain Resort products and services can only be offered if a person provides personal information to Park City Mountain Resort. If you choose not provide us with any required personal information, we may not be able to offer the products or services requested. We will inform you of the consequences of the withdrawal of consent.  
-During your visit to [parkcitymountain.com](http://www.parkcitymountain.com/), we will collect certain website use information for a number of purposes, namely to:
+**_In Special Circumstances._**  
+In certain special cases, we may disclose your personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you, Vail Resorts or someone else. We may also disclose your personal information when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case, administrative investigation or investigation conducted by Vail Resorts.
 
-  * Make your access and shopping more convenient and efficient;
-  * Establish Site activity trends;
-  * Monitor Site performance; and
-  * Improve Site design and functionality.
+**Links to Third-Party Websites**
 
+Our Sites contain direct links to sites offered by third parties. Some of these sites are authorized to use the Vail Resorts’ brands or logos. Those third-party sites are not covered by this Privacy Policy.
 
+Some of the Sites may give you the option of sharing your thoughts, personal information, or skiing and snowboarding experiences automatically on their platforms. If you choose to share information with a third-party site such as Twitter or Facebook, the information you choose to share on those sites is not subject to this Privacy Policy. You should review the privacy policies of those websites to make an informed decision about whether to share your information on those sites. Further, you should review your account settings on those sites to ensure that you are comfortable sharing your information with the audience chosen in that account.
 
-Our collection of website use information may involve the use of cookies. A cookie is a small removable data file that is stored by your browser on your computer. Cookies allow you to place an order on our website and allow us to enhance and personalize your online surfing and shopping experience. We use cookies to remember the items in your cart, recognize you when you return to our website and analyze visitor behavior.  
-You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly.
+**Epic Mix™ and Location Information**
 
-## How to Remove or Modify Your Personal Information
+From time to time, we may use technology that provides us with information about your geographic location (“location information”). For example, when you ride a chairlift of one of our resorts, we scan or read your ski pass. We read passes through the use of handheld scanners or passive radio frequency readers mounted on or near our chairlifts. This information helps us monitor use of the lifts and tells us when you ride one of our chairlifts. When we collect location data about our guests offline, we may combine that information with personal information that we collect online and use the information to better understand our guests or to provide you with information or services. When you open an Epic Mix account, for example, we will combine your ski pass scan data with the information you provide to us through that account. Location Information collected and combined in that manner is subject to this Policy.
 
-Park City Mountain Resort strives to ensure that any personal information provided and in our possession is as accurate, current and complete as necessary for the purposes for which we use that information.  
-If you have signed up for an account either through joining a Park City Mountain Resort Card program or making a purchase, we have provided you with a means to log into your account and edit your personal information including name, postal address and phone number to ensure its accuracy at all times.  
-Park City Mountain Resort permits access to and review of Personal Information we hold about an individual by the individual concerned or the account holder. Park City Mountain Resort reserves the right to decline access to Personal Information where the information requested:
+For more information about Epic Mix and and customer privacy, visit [these FAQs](http://www.snow.com/epicmix/faq/home.aspx).
 
-  * Would disclose the Personal Information of another individual or of a deceased individual;
-  * Would disclose business confidential information that may harm Park City Mountain Resort or the competitive position of a third party;
-  * Is subject to attorney-client or litigation privilege;
-  * Could reasonably result in serious harm to the treatment or recovery of the individual concerned, serious emotional harm to the individual or another individual, or serious bodily harm to another individual;
-  * May harm or interfere with law enforcement activities and other investigative or regulatory functions of a body authorized by statute to perform such functions;
-  * Is not readily retrievable and the burden or cost of providing would be disproportionate to the nature or value of the information; or
-  * Does not exist, is not held, or cannot be found by Park City Mountain Resort.
+**Children’s Privacy**
 
+We will not knowingly collect personal information on our Sites from children under the age of 13 without the prior consent of the child’s parent or guardian. If you believe that a child under the age of 13 may have provided personal information to us without consent of the child’s parent or guardian, please contact us at [comments@vailresorts.com ](mailto:comments@vailresorts.com?cmpid=PARINT00001%23/Deals)
 
+**_Children and Epic Mix  
+_**
 
-Where information will not or cannot be disclosed, the individual making the request will be provided with the reasons for nondisclosure.  
-Where information will be disclosed, we will endeavor to provide the information in question within a reasonable time and no later than 30 days following the request.  
-We will not respond to repetitious or vexatious requests. In determining whether a request is repetitious or vexatious, we will consider such factors as the frequency with which information is updated, the purpose for which the information is used, and the nature of the information.  
-All non-transactional emails have an unsubscribe link that can be used to discontinue them.
+Children under age 13 may open an Epic Mix account only after we receive consent from the child's parent or legal guardian. Parents who allow their child to open an Epic Mix account understand that we will collect the following information from the child: an email account, name, date of birth, gender, state, zip code, country. We will maintain that information in the Epic Mix account and combine it with information collected off line, such as the child’s chair lift rides at our resorts, pictures taken by the Epic Mix photograpers, and race times from Epic Mix Racing. We will only collect information from your child online for the purpose of providing the Epic Mix services and acount features and notifying you and your child of information related to the Epic Mix account. We will not use the information to market other products or services to your child and will not sell or share the information with others for those purposes. Children’s Epic Mix accounts have restricted privacy features. Children under age 13 will not be able to link to third party sites, such as Facebook and Twitter, and Epic Mix information in that child’s account is only viewable by the child and his or her family members. If you wish to access your child's information, deactivate your child's Epic Mix account, or have questions or concerns, you may contact us at [epicmix@vailresorts.com](mailto:epicmix@vailresorts.com?cmpid=PARINT00001%23/Deals).
 
-## Transferability
+**Your Choices**
 
-All season pass and gift cards remain the property of Park City Mountain Resort.  Lift access products, including season passes, 5 pack, 10 pack, single and multi-day tickets are not transferrable and my not be loaned or given to another person.  Use of lift access by anyone other than the person to whom it was issued is considered theft of services and is punishable by law.  Gift cards are fully transferrable.  Treat all media like cash.  Park City Mountain Resort is not responsible for use if the card is lost or stolen.  Gift cards may only be used at Park City Mountain Resort owned and operated shops/restaurants and online at parkcitymountain.com and may not be exchanged for cash.  Gift cards and season passes may be reloaded.  Please report all lost or stolen cards immediately by calling (435) 649-8111 or you may contact us at: Park City Mountain Resort Services Office, Park City Mountain Resort. Park City, UT 84060.
+**_Opt-Out of Receiving Future Communications_  
+**Our Sites give you the option of not receiving future communications from us by sending an email to [comments@vailresorts.com](mailto:comments@vailresorts.com?cmpid=PARINT00001%23/Deals)
 
-## Questions and Feedback
+**_Review and Update Your Information_  
+**You may also review or update your personal information collected by this Site or correct factual inaccuracies by emailing [comments@vailresorts.com](mailto:comments@vailresorts.com/Deals)
 
-Park City Mountain Resort can be [contacted online](http://www.parkcitymountain.com/), at (435) 649-8111 or by writing to Park City Mountain, Park City Mountain Resort, PO Box 39, Park City, UT 84060  
-Park City Mountain Resort owns and operates the Internet sites located at [parkcitymountain.com](http://www.parkcitymountain.com/), [saveoursnow.net](http://www.saveoursnow.net/), [irideparkcity.tv](http://www.irideparkcity.tv/) (the "Site"), on servers in the United States. By accessing, browsing and/or using the pages in this Site, you agree to these terms and conditions ("Terms and Conditions") and you attest that you are at least 18 years of age. **This agreement contains disclaimers and other provisions that limit our liability to you.** If you do not agree to these Terms and Conditions, do not access, browse or use this Site.  
-Additional terms and conditions apply to functionality provided through the Site and are incorporated herein by reference.  
-These terms and conditions apply to [parkcitymountain.com](http://www.parkcitymountain.com/), [saveoursnow.net](http://www.saveoursnow.net/), [irideparkcity.tv](http://www.irideparkcity.tv/) and other domains owned and operated by Park City Mountain Resort including blogs and discussion sites.  
-**While we make reasonable efforts to provide accurate and timely information about Park City Mountain Resort on this Site, you should not assume that the information is always instantaneously accurate or that this Site contains all the relevant information available about Park City Mountain Resort.**
+If you have a PEAKS account, you can manage your information and preferences by logging into your account at [www.snow.com/myaccount](http://www.snow.com/myaccount)
 
-## Copyright and Trademark
+If you have an Epic Mix account, you can manage your information and preferences by logging into your account at [www.epicmix.com](http://www.epicmix.com/?cmpid=PARINT00001#/Deals)
 
-Unless otherwise noted, all materials on this Site are protected as the copyrights, trademarks and/or other intellectual properties owned by Park City Mountain Resort and/or its subsidiaries and affiliates or by other parties that have licensed their material to Park City Mountain Resort.  
-Park City Mountain Resort marks on this Site represent some of the marks currently owned or controlled in the United States by Park City Mountain Resort. The display of these marks and of notices associated with these marks is not intended to be a comprehensive compilation of all Park City Mountain Resort ownership rights, and Park City Mountain Resort may own or control other proprietary rights. You may not reproduce, redistribute or otherwise use any materials without the express written consent of Park City Mountain Resort. All rights not expressly granted are reserved.
+**How We Protect Your Information**
 
-## Personal Use
+Vail Resorts has appropriate physical, technological, and organizational safeguards and security measures in place to attempt to protect against the loss, misuse, unauthorized access or disclosure of your personal information under our control. However, it is important that you understand that no website or database is completely secure, or “hacker proof.” You can help us by protecting and keeping your passwords safe at all times. You can protect yourself and help us prevent computer crime by promptly notifying us if you suspect that your credit card, pass product with Resort Charge, user name or password is lost, stolen or used without permission. Also, you can reduce many risks by using up to date antivirus software.
 
-Your use of the materials included on this Site is for personal, informational and shopping purposes only. You agree you will not distribute, publish, transmit, modify, display or create derivative works from or exploit the contents of this Site in any way. You agree to indemnify, defend and hold harmless Park City Mountain Resort for any and all unauthorized uses you may make of any material on the Site. You acknowledge the unauthorized use of the contents could cause irreparable harm to Park City Mountain Resort and that in the event of an unauthorized use, Park City Mountain Resort shall be entitled to an injunction in addition to any other remedies available at law or in equity.
+**Changes to the Policy**
 
-## Feedback and Submissions
+We may change this Policy from time to time, by posting the revised Policy on our Sites. The changes will only apply to the personal information we collect after we have posted the revised Policy.
 
-You agree you are and shall remain solely responsible for the contents of any submissions you make, and you will not submit material that is unlawful, defamatory, abusive or obscene. You agree that you will not submit anything to the Site that will violate any right of any third party, including copyright, trademark, privacy or other personal or proprietary right(s).  
-We sincerely appreciate your interest in Park City Mountain Resort. Please note that any materials submitted through [the Site](http://www.parkcitymountain.com/) or through the submission process of this Site will be deemed submitted under their respective terms and conditions.
+We will attempt to notify you of any significant changes to this Policy by sending an email notice. However, it is your responsibility to check this Site for updates as you will be bound by them if you choose to visit our Sites. 
 
-## Product Sales and Availability
+**Visitors Who Access Our Sites From Outside the United States**
 
-All prices displayed on the Site are quoted in U.S. Dollars and are valid and effective only in the United States. Park City Mountain Resort reserves the right without prior notice to discontinue or change specifications on products and services offered on this Site without incurring any obligations.
+Our Sites and databases may be hosted on Web servers located in the United States or other countries. We share the personal information we collect with our third-party service providers, and others around the world as described in this Policy. When we transfer your personal information to another country, we will take appropriate measures to protect your privacy and personal information. By using one of our Sites, you are consenting to the transfer of your personal information to any country in the world in accordance with this Policy.
 
-## Links
+The Sites are U.S. Sites and are governed by U.S. law. If you do not wish to consent to U.S. law or this Policy, you should not share information with us or use our Sites. 
 
-Some links on the Site will allow you to connect with sites that are not under our control. Park City Mountain Resort is providing these links only as a convenience. The appearance of a link does not imply Park City Mountain Resort endorsement, nor is Park City Mountain Resort responsible for the contents of any linked site. You access them at your own risk.  
-**Warranty**  
-Except as otherwise expressly stated with respect to our products, all contents of the Site are offered on an "as is" basis without any warranty whatsoever either expressed or implied. Park City Mountain Resort makes no representations, express or implied, including without limitation implied warranties of merchantability and fitness for a particular purpose.  
-Park City Mountain Resort does not guarantee that the functions contained in the Site will be uninterrupted or error-free, that this Site or its server will be free of viruses or other harmful components, or that defects will be corrected _even if Park City Mountain Resort is aware of them_.
+**Contact Us**
 
-## Jurisdiction
+If you have questions about this Privacy Policy or the practices of our Sites, please contact:
 
-Any dispute arising from these terms shall be resolved exclusively in the state and federal courts of the State of Utah. Park City Mountain Resort makes no representation that materials in this Site are appropriate or available for use in other locations. If you access this Site from outside the United States, be advised this Site may contain references to products and services that are not available or are prohibited in your country.
+The Vail Corporation dba Vail Resorts Management Company  
+390 Interlocken Crescent, Suite 1000  
+Broomfield, CO 80026  
+1-800-842-8062  
+[comments@vailresorts.com](mailto:comments@vailresorts.com?subject=Contact%20Us%20via%20Privacy%20Policy&cmpid=PARINT00001%23/Deals)
 
-## GENERAL TERMS:
+**Effective Date of this Privacy Policy**
 
-Park City Mountain Resort, Park City Mountain Resort Central Reservations, and its affiliated companies make reasonable efforts to ensure that website data is correct; however, properties, products, services, and information published on this and other related websites may include inaccuracies or typographical errors. Park City Mountain Resort and its Affiliates do not guarantee the accuracy of, and disclaim liability for inaccuracies relating to the pricing and description of the vacation rental properties, car, and other travel products displayed on this website (including, without limitation, photographs, property descriptions, amenities, pricing, etc.). Changes and improvements to descriptions and pricing may be made at any time and without notice.
-
-The price for the hospitality package will be as quoted on the Website from time to time, except in cases of obvious error. Please note that Park City Mountain Resort Central Reservations is under no obligation to provide the hospitality package to the customer at an incorrect lower price, even after a booking confirmation has been received if the pricing error was obvious, unmistakable, and could reasonably have been recognized by the Customer as a mis-pricing error.
-
-A hotel room is defined as a single room with a bathroom. Hotel rooms may offer different forms of bedding that typically include one of the following: king, queen, full, twin, bunk, Murphy bed, trundle, or sofa-sleeper. Hotel rooms do not typically include a kitchen, or a separate bedroom.
-
-A studio is defined as room consisting of a main room, kitchenette, and bathroom. Studios may offer different forms of bedding that typically include one of the following: king, queen, full, twin, bunk, Murphy bed, trundle, or sofa-sleeper.
-
-Bedding options are only meant to provide a partial list, other options may apply. 
-
-## RENTAL TERMS:
-
-Pets are not allowed in any of our properties unless specified in writing. All properties are non-smoking unless otherwise noted. There are no refunds for late arrivals and/or early departures. A major credit card is typically required upon check-in to cover incidental charges. Park City Mountain Resort Central Reservations reserves the right to supply client’s credit card information to unit supplier if a credit card is not given upon check-in. Specific unit numbers and bed configurations are not guaranteed. We reserve the right to provide accommodations of equal or greater value, at no extra charge, if it becomes necessary to relocate a guest or group should a property become unavailable for any reason.
+This Privacy Policy was updated on October 4, 2010, and is effective as of that date.
