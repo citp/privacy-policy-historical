@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the restfile.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093129id_/http%3A//www.restfile.ca/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restfile.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221051426id_/http%3A//www.restfilee.com/privacy_policy.html) for the most accurate reproduction.*
 
-# RestFile.ca privacy_policy
+# RestFilee.com privacy_policy
 
-This RestFile.ca Privacy Policy, in conjunction with the [AUP](http://www.restfile.ca/use_policy.html), [Terms of Service](http://www.restfile.ca/tos.html) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Upload website and are collectively referred to as the "Agreement". 
+This RestFilee.comPrivacy Policy, in conjunction with the [AUP](http://www.restfilee.com/use_policy.html), [Terms of Service](http://www.restfilee.com/tos.html) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Upload website and are collectively referred to as the "Agreement". 
 
-RestFile.ca may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. 
+RestFilee.com may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. 
 
-Any Content RestFile.ca by you to RestFile.ca becomes published Content and is not considered personally identifiable information subject to this Privacy Policy. 
+Any Content RestFilee.com by you to RestFilee.com becomes published Content and is not considered personally identifiable information subject to this Privacy Policy. 
 
-RestFile.ca uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases. 
+RestFilee.com uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases. 
 
 A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided Uploadc. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created a free account. Cookies also can enable Uploadc to track and target your interests to enhance your experience on our website. 
 
