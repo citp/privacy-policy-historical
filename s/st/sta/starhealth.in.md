@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starhealth.in privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511040300id_/http%3A//starhealth.in/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starhealth.in privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221132234id_/http%3A//www.starhealth.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Star Health Insurance | Medical Health Insurance
 
