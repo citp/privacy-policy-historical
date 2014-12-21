@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mythings.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626221630id_/http%3A//www.mythings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mythings.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221223829id_/http%3A//www.mythings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « myThings
 
