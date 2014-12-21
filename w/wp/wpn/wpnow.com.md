@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wpnow.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630214927id_/http%3A//www.wpnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpnow.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221041037id_/http%3A//www.wpnow.com/privacy) for the most accurate reproduction.*
 
-# Privacy | WP NowWP Now
-
-## Privacy Policy
+# Privacy Policy - WP Now
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
