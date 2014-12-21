@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gardensalive.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607223901id_/http%3A//www.gardensalive.com/article.asp%3Fai%3D723) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardensalive.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221011654id_/http%3A//www.gardensalive.com/privacy_policy) for the most accurate reproduction.*
 
-# <font color=red size=3><b>Gardens Alive Privacy Policy!</b></font> - Gardens Alive!
-
-## Our Privacy Policy
+# Gardens Alive! - Environmentally Friendly Products that Work
 
 This is the Website of Gardens Alive! 
 
