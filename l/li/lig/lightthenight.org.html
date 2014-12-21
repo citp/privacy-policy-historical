@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lightthenight.org privacy policy that was archived on 2014-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140517170042id_/http%3A//www.lightthenight.org/footer/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lightthenight.org privacy policy that was archived on 2014-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221085746id_/http%3A//www.lightthenight.org/footer/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -66,6 +66,116 @@ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async
 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
+</script>
+<link rel="stylesheet" href="/static/lls_colorbox/colorbox.css">
+<script>
+var expiration = '30';
+var urlParams = document.URL.split('?')[1]; //window.parent.location.search.replace('?', '');
+var urlParams_cookie_name= "URL_Params";
+manageCookieForURLParams = function() {
+function getCookie(name) {
+var value = "; " + document.cookie;
+var parts = value.split("; " + name + "=");
+if (parts.length == 2)
+return parts.pop().split(";").shift();
+}
+function setCookieObj(name, value, days) {
+var cookie = decodeURIComponent(getCookie(urlParams_cookie_name));
+if((cookie == undefined) || (cookie == null) || (cookie == '') || (cookie == 'undefined')){
+cookie = setCookie(name, value, days);
+}else{
+var map = cookieDataMap(cookie);
+var newValue = populateNewCookieValue(value, map);
+cookie = setCookie(name,  newValue, days);
+}
+return cookie;
+}
+function setCookie(name, value, days) {
+var host = window.location.hostname.split('.');
+host.shift();
+var currentdomain = host.join('.');
+if ((days === undefined) || (days === null) || (days === '')) {
+//var cookieValue = name + '=' +  '{"data": "'+ doformat(value) +'"}; path=/';
+var cookieValue = name + '=' +  doformat(value) +'; domain='+currentdomain+'; path=/';
+document.cookie=cookieValue;
+}else{
+// day based expiration
+var now = (new Date()).getTime();
+var exp = new Date(now + parseInt(days) * (24 * 60 * 60 * 1000));
+exp = exp.toGMTString();
+//var cookieValue = name + '=' +  '{"data": "'+ doformat(value) +'","date":' + now + ',"days":' + days + '}; expires=' + exp + "; path=/";
+var cookieValue = name + '=' +  doformat(value) +'; expires=' + exp + '; domain='+currentdomain +'; path=/';
+//alert('setCookieObj:cookieValue:'+cookieValue);
+document.cookie=cookieValue;
+}
+return decodeURIComponent(getCookie(name));
+}
+function cookieDataMap(obj){
+var data = obj.split('&');
+var map = {};
+var hash = [];
+for(var i = 0; i < data.length; i++){
+hash = data[i].split('=');
+map[hash[0].toUpperCase()] = hash[1];
+}
+return map;
+}
+function populateNewCookieValue(value, map){
+var vals = value.split('&');
+var hash = [];
+var newMap = map;
+for(var i = 0; i < vals.length; i++){
+hash = vals[i].split('=');
+var key = hash[0].toUpperCase();
+var val = hash[1];
+if((map[key] === undefined) || (map[key] === null) || (map[key] === '')){
+//new param
+newMap[key] = hash[1];
+}else {
+//existing param with new value
+if(map[key] !== hash[1]){
+newMap[key] = hash[1];
+}else{
+newMap[key] = map[key];
+}
+}
+}
+var newValue;
+for (key in newMap) {
+if(newValue === undefined || newValue === null || newValue === ""){
+newValue = key + '=' + newMap[key];
+}else{
+newValue = newValue + '&' + key + '=' + newMap[key];
+}
+}
+return newValue;
+}
+function doformat(obj){
+var data = obj.split('&');
+var hash = [];
+var newValue;
+var first = true;
+for(var i = 0; i < data.length; i++){
+hash = data[i].split('=');
+if(first){
+newValue = hash[0].toUpperCase() + '=' + hash[1];
+first = false;
+}else{
+newValue = newValue + '&' + hash[0].toUpperCase() + '=' + hash[1];
+}
+}
+return escape(newValue);
+}
+if (urlParams !== undefined && urlParams !== '') {
+if (!(expiration != undefined && expiration != null && expiration != '')) {
+expiration = 30;
+}
+setCookieObj(urlParams_cookie_name, urlParams, expiration);
+}
+};
+</script>
+<script>
+window.onload =	manageCookieForURLParams();
 </script>
 <script>
 dataLayer = [];
@@ -202,6 +312,9 @@ Find your chapter
 </li>
 <li class="topNavDropdownMenuItem">
 <a href="/what/sponsors/" title="National Sponsors / Partners">National Sponsors / Partners</a>
+</li>
+<li class="topNavDropdownMenuItem">
+<a href="/what/celebrity/" title="Celebrity Supporters">Celebrity Supporters</a>
 </li>
 <li class="topNavDropdownMenuItem">
 <a href="/what/press/" title="Press Room">Press Room</a>
@@ -352,33 +465,33 @@ Original item key = 1562134
 <div id="sponsors">
 <div class="sponsors_footer_wrapper"><div class="sponsors_footer">
 <ul>
-<li><img title="LTN Sponsors" alt="Honored Friend" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsorTitle_honoredFriend.gif" width="60" height="53"></li>
+<li><img title="Honored Friend" alt="Honored Friend" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsorTitle_honoredFriend.gif" width="60" height="53"></li>
 <li><a title="Burlington" href="http://www.lightthenight.org/what/sponsors/bcf/" target="_self" alt="Burlington"><img title="Burlington" alt="Burlington" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_burlington.jpg" width="162" height="53"></a> </li></ul></div>
 <div class="sponsors_footer">
 <ul>
-<li><img title="LTN Sponsors" alt="National Sponsors" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsorTitle_nationalSponsors.gif" width="60" height="61"></li>
-<li><a href="http://www.lightthenight.org/what/sponsors/bdo/" target="_self"><img title="BDO " alt="BDO " src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_bdo.jpg" width="65" height="61"></a></li>
-<li><a title="Celgene " href="http://www.lightthenight.org/what/sponsors/celgene/" target="_self" alt="Celgene "><img title="Celgene " alt="Celgene " src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_celgene.jpg" width="85" height="61"></a></li>
-<li><a title="Genentech " href="http://www.lightthenight.org/what/sponsors/genbio/" target="_self" alt="Genentech "><img title="Genentech " alt="Genentech - Biogen idec" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_gene.jpg" width="175" height="61"></a></li>
-<li><a href="http://www.lightthenight.org/what/sponsors/gilead/" target="_self"><img title="Gilead " alt="Gilead " src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_gilead.jpg" width="115" height="61"></a></li>
-<li><a title="Millennium " href="http://www.lightthenight.org/what/sponsors/millennium/" target="_self" alt="Millennium "><img title="Millennium " alt="Millennium " src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_millennium.jpg" width="102" height="61"></a></li>
-<li><img title="Pharmacyclics " alt="Pharmacyclics " src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_pharma.jpg" width="143" height="61"></li>
-<li><img title="Janssen" alt="Janssen" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_janssen.jpg" width="76" height="61"></li>
-<li><a href="http://www.lightthenight.org/what/sponsors/tevaoncology/" target="_self"><img title="TEVA " alt="TEVA Oncology" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_teva.jpg" width="98" height="61"></a></li></ul></div>
+<li><img title="National Sponsors" alt="National Sponsors" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsorTitle_nationalSponsors.gif" width="60" height="61"></li>
+<li><a href="http://www.lightthenight.org/what/sponsors/bdo/" target="_self"><img title="BDO" alt="BDO" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_bdo.jpg" width="65" height="61"></a></li>
+<li><a title="Celgene " href="http://www.lightthenight.org/what/sponsors/celgene/" target="_self" alt="Celgene "><img title="Celgene" alt="Celgene" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_celgene.jpg" width="85" height="61"></a></li>
+<li><a title="Genentech " href="http://www.lightthenight.org/what/sponsors/genbio/" target="_self" alt="Genentech "><img title="Genentech - Biogen idec" alt="Genentech - Biogen idec" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_gene.jpg" width="175" height="61"></a></li>
+<li><a href="http://www.lightthenight.org/what/sponsors/gilead/" target="_self"><img title="Gilead" alt="Gilead" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_gilead.jpg" width="115" height="61"></a></li>
+<li><a title="Millennium " href="http://www.lightthenight.org/what/sponsors/millennium/" target="_self" alt="Millennium "><img title="Millennium" alt="Millennium" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_millennium.jpg" width="102" height="61"></a></li>
+<li><a title="Pharamacyclics - Janssen" href="http://www.lightthenight.org/what/sponsors/pharamacyclics_janssen/" target=""><img title="Pharmacyclics &amp; Janssen" alt="Pharmacyclics &amp; Janssen" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_pharma_janssen.jpg" width="219" height="61"></a></li>
+<li><a href="http://www.lightthenight.org/what/sponsors/tevaoncology/" target="_self"><img title="TEVA Oncology" alt="TEVA Oncology" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_teva.jpg" width="98" height="61"></a></li></ul></div>
 <div class="sponsors_footer">
 <ul>
-<li><img title="LTN Sponsors" alt="Special Friends" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsorTitle_specialFriends.gif" width="60" height="53"></li>
-<li><a title="Barclays " href="http://www.lightthenight.org/what/sponsors/barclays/" target="_self" alt="Barclays "><img title="Barclays " alt="Barclays " src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_barclays.jpg" width="91" height="53"></a></li>
-<li><a title="Carter's, Inc." href="http://www.lightthenight.org/what/sponsors/carters/"><img title="Carter " alt="Carter's - OshKosh Bgosh" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_carter.jpg" width="115" height="53"></a></li>
-<li><a title="Elbit " href="http://www.lightthenight.org/what/sponsors/elbit/" target="_self" alt="Elbit "><img title="Elbit " alt="Elbit Systems of America" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_elbit.jpg" width="83" height="53"></a></li>
-<li><a href="http://www.lightthenight.org/what/sponsors/gfg/" target="_self"><img title="Global " alt="Global Franchise Group" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_global.jpg" width="104" height="53"></a></li>
-<li><a href="http://www.lightthenight.org/what/sponsors/sylvan_learning/" target="_self"><img alt="Sylvan" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_sylvan.jpg" width="65" height="53"></a></li>
-<li><img title="Pharmacyclics " alt="Sarah Cannon" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_cannon.jpg" width="148" height="53"></li></ul></div></div>
+<li><img title="Special Friends" alt="Special Friends" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsorTitle_specialFriends.gif" width="60" height="53"></li>
+<li><a title="Barclays " href="http://www.lightthenight.org/what/sponsors/barclays/" target="_self" alt="Barclays "><img title="Barclays" alt="Barclays" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_barclays.jpg" width="91" height="53"></a></li>
+<li><a title="Carter's, Inc." href="http://www.lightthenight.org/what/sponsors/carters/"><img title="Carter's - OshKosh Bgosh" alt="Carter's - OshKosh Bgosh" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_carter.jpg" width="115" height="53"></a></li>
+<li><a title="Elbit " href="http://www.lightthenight.org/what/sponsors/elbit/" target="_self" alt="Elbit "><img title="Elbit Systems of America" alt="Elbit Systems of America" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_elbit.jpg" width="83" height="53"></a></li>
+<li><a href="http://www.lightthenight.org/what/sponsors/gfg/" target="_self"><img title="Global Franchise Group" alt="Global Franchise Group" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_global.jpg" width="104" height="53"></a></li>
+<li><a href="http://www.lightthenight.org/what/sponsors/sylvan_learning/" target="_self"><img title="Sylvan" alt="Sylvan" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_sylvan.jpg" width="65" height="53"></a></li>
+<li><a title="Sarah Cannon" href="http://www.lightthenight.org/what/sponsors/sarahcannon/" target=""><img title="Sarah Cannon" alt="Sarah Cannon" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_cannon.jpg" width="148" height="53"></a></li>
+<li><img title="Stater Bros Charities" alt="Stater Bros Charities" src="http://www.lightthenight.org/assets/images/sponsors/2014/sponsor14_staterbros.jpg" width="115" height="53"></li></ul></div></div>
 </div>
 <div id="footer">
 <img src="/assets/images/transp_fill.gif" width="0" height="0">
 <span id="footerleft">
-<span class="style18">Need Help?</span> Contact us by <a title="About Us" href="http://www.lightthenight.org/lls/about">mail</a>, <a href="mailto:lightthenight@lls.org">email</a>, or call 877.LTN.Walk
+<span class="style18">Need Help?</span> Contact us by <a title="About Us" href="http://www.lightthenight.org/lls/about">mail</a>, <a href="mailto:lightthenight@lls.org">email</a>, or call 877.LTN.Walk <span style="MARGIN: 0px 10px">|</span> <a title="Home Page" href="http://www.lls.org/" target="_blank">Learn more about LLS</a>
 </span>
 <span id="footerright">
 <a href="/footer/copyright">
