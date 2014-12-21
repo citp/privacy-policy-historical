@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622115154id_/http%3A//newspaperarchive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221202143id_/http%3A//newspaperarchive.com/privacypolicy) for the most accurate reproduction.*
 
 # NewspaperARCHIVE.com - Search Old Newspaper Articles Online - Privace Policy
 
-#### Holland Evening Sentinel November 22, 1963
+#### Winnipeg Free Press August 16, 2008
 
-[read](http://newspaperarchive.com/us/michigan/holland/holland-evening-sentinel/1963/11-22/)
+[read](http://newspaperarchive.com/ca/manitoba/winnipeg/winnipeg-free-press/2008/08-16/page-32)
 
 ### NewspaperArchive.com Statement of Privacy:
 
@@ -87,5 +87,10 @@ The information collected from Facebook is used solely to improve your experienc
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact: 
 
 ****NewspaperARCHIVE.com**  
-855 Wright Bros. Blvd. #2A  
-Cedar Rapids, IA 52404 **
+Heritage Archives [also World Archives]  
+P.O. Box 9348   
+Cedar Rapids, IA 52404-9348 **
+
+**Newspaper Archive  
+P.O. Box 9337   
+Cedar Rapids, IA 52404-9337 **
