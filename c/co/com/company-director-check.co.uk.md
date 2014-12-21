@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the company-director-check.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627221320id_/http%3A//companycheck.co.uk/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the company-director-check.co.uk privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221220717id_/http%3A//companycheck.co.uk/cookies) for the most accurate reproduction.*
 
 # Company Check - Cookie Compliance
 
@@ -83,3 +83,5 @@ Please be aware that disabling cookies completely means that certain personalise
 Some cookies are not set by companycheck.co.uk but by other sites which provide a service or functionality on companycheck.co.uk. These are known as third-party cookies. Managing, deleting or blocking these cookies requires you to visit the websites of these third parties. Details are provided in the Ad Serving table above.. 
 
 You can learn more about cookies and how to manage them at [AboutCookies.org](http://www.aboutcookies.org/)
+
+pro 
