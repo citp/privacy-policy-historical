@@ -1,29 +1,24 @@
-> *The following text is extracted and transformed from the 50shadesgray.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530151400id_/http%3A//50shadesgray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50shadesgray.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221164606id_/http%3A//storeerotic.com/privacy-policy) for the most accurate reproduction.*
 
-# 50 shades grey book reviewPrivacy Policy - 50 shades grey book review
+# store erotic com_Privacy Policy - store erotic com_
 
-**What information do we collect?**
+W **hat information do we collect?**
 
 We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+; To personalize your experience (your information helps us to better respond to your individual needs)
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+; To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+; To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
 
 ; To administer a contest, promotion, survey or other site feature
 
@@ -47,11 +42,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Childrens Online Privacy Protection Act Compliance**
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.
 
 **Online Privacy Policy Only**
 
@@ -69,8 +64,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://50shadesgray.com
+[http://storeerotic.com](http://storeerotic.com/)
 
-info@50shadesgray.com
+[info@storeerotic.com](mailto:info@storeerotic.com)
 
 This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save!
