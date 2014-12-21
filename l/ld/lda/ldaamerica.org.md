@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ldaamerica.org privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605064326id_/http%3A//ldaamerica.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldaamerica.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221170749id_/http%3A//ldaamerica.org/privacy) for the most accurate reproduction.*
 
-# Learning Disabilities Association of America — Privacy
+# Privacy
 
 The Learning Disabilities Association of America (LDA) maintains this website in order to provide information and resources to individuals with learning disabilities, their families and the professionals who work with them. The privacy of those who use this website and especially the members of LDA are of the utmost importance to us. The information we collect about you when you become a member, conference registrant, book buyer, donor or constituent, is used to process your membership, order, registration, donation or request for information, and to provide you with member benefits.
 
