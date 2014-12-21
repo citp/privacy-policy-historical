@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurexchange.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627190127id_/http%3A//www.eurexchange.com/exchange-en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurexchange.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221060202id_/http%3A//www.eurexchange.com/exchange-en/privacy-policy) for the most accurate reproduction.*
 
 # Eurex - Privacy policy
 
@@ -81,6 +81,8 @@ Eurex Frankfurt AG employs technical and organizational safety measures in order
   
 Upon request, we as Eurex Frankfurt AG, will provide you with written information according to applicable law on whether if any and if so which of your personal data and pseudonyms we have stored. Should incorrect information be stored despite our effort to ensure correctness and up-to-dateness of the data, we shall correct this data upon your request.  
 If you have any questions or comments concerning data protection at Eurex Frankfurt AG, please contact:
+
+If you have further questions regarding data protection of your personal data at Eurex Frankfurt AG Singapore Branch please contact
 
   
 3\. Right of objection and withdrawal of consent
