@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the express.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628085011id_/http%3A//www.express.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221215437id_/http%3A//www.express.com/customer-service/PrivacyPolicy) for the most accurate reproduction.*
 
-# Express | Shop Men's and Women's Clothing
+# 
 
 ### EXPRESS PRIVACY POLICY - YOUR PRIVACY RIGHTS
 
@@ -17,7 +17,7 @@ Effective Date September 2011. (Last Updated October 2013)
   * WE USE STANDARD SECURITY MEASURES.
   * WE STORE INFORMATION IN THE UNITED STATES OR OTHER JURISDICTIONS.
   * HOW YOU CAN ACCESS YOUR INFORMATION.
-  * WE MAY LINK TO OTHER SITES OR HAVE THIRD PARTY SERVICES ON OUR SITE WE DON’T CONTROL.
+  * WE MAY LINK TO OTHER SITES OR HAVE THIRD PARTY SERVICES ON OUR SITE WE DON'T CONTROL.
   * FEEL FREE TO CONTACT US IF YOU HAVE MORE QUESTIONS.
   * WE MAY UPDATE THIS POLICY.
 
@@ -51,7 +51,7 @@ We may collect information you have provided in a resume or similar employment-r
 
 #### We collect other information.
 
-If you use our website, we may collect your IP address and information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location. We might look at how often you use the app and where you downloaded it.
+If you use our website, we may collect your IP address and information about the browser youre using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location. We might look at how often you use the app and where you downloaded it.
 
 ### WE COLLECT INFORMATION IN DIFFERENT WAYS.
 
@@ -106,11 +106,11 @@ We may contact you about your account or feedback. We might also contact you abo
 
 #### We may share information with our related entities.
 
-For example, prior to 2010, this included The Limited, Victoria’s Secret, and Bath & Body Works.
+For example, prior to 2010, this included The Limited, Victoria's Secret, and Bath & Body Works.
 
 #### We will share information with third parties who perform services on our behalf.
 
-For example, we share information with vendors who send emails for us. We may also share information with companies that operate our website or run a promotion for us. 
+For example, we share information with vendors who send emails for us. We may also share information with companies that operate our website or run a promotion for us.
 
 #### We may share information with our business partners.
 
@@ -118,7 +118,7 @@ For example, we may share information with third parties who co-sponsor a contes
 
 #### We may share information if we think we have to in order to comply with the law or to protect ourselves.
 
-For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests, or as otherwise required or permitted by applicable US or other law. We might share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion. 
+For example, we will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests, or as otherwise required or permitted by applicable US or other law. We might share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
 
 #### We may share information with any successor to all or part of our business.
 
@@ -171,7 +171,7 @@ If you live outside of the United States, you understand and agree that we may t
 
 You may have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections by contacting us as set out below.
 
-### WE MAY LINK TO OTHER SITES OR HAVE THIRD PARTY SERVICES ON OUR SITE WE DON’T CONTROL.
+### WE MAY LINK TO OTHER SITES OR HAVE THIRD PARTY SERVICES ON OUR SITE WE DON'T CONTROL.
 
 If you click on a link to a third party site, you will be taken to websites we do not control. This policy does not apply to the privacy practices of such websites. Read the privacy policy of other websites carefully. We are not responsible for these third party personal information or other practices.
 
@@ -181,15 +181,15 @@ Our site may also serve third party content that contains its own cookies or tra
 
 If you have any questions about this Policy or the manner in which we or our service providers treat your personal information, please email us at [talk@express.com](mailto:talk@express.com).
 
-You can also write to us or call our **Privacy Officer** at: 
+You can also write to us or call our **Privacy Officer** at:
 
-Express, LLC  
-1 Express Drive  
-Columbus, OH 43230  
-Phone: 1-800-477-8844 
+Express, LLC   
+1 Express Drive   
+Columbus, OH 43230   
+Phone: 1-800-477-8844
 
 ### WE MAY UPDATE THIS POLICY.
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2013 Express, LLC. All rights reserved.
+© 2014 Express, LLC. All rights reserved.
