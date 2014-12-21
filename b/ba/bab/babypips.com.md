@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babypips.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628064005id_/http%3A//www.babypips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babypips.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221214608id_/http%3A//www.babypips.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy - BabyPips.com
 
 **BabyPips.com does not send SPAM or sell email addresses.**
 
