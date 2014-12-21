@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firehousesubs.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214164209id_/http%3A//www.firehousesubs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firehousesubs.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221205031id_/http%3A//www.firehousesubs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Firehouse Subs - Privacy Policy
 
