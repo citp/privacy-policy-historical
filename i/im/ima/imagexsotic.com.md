@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imagexsotic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626170602id_/http%3A//imagexsotic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagexsotic.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221130743id_/http%3A//imagexsotic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy at imagexsotic.com
+# imagexsotic.com HD Images In And Privacy Policy
 
 It is our intention at  **imagexsotic.com**  to manage your personal information in an open and transparent way.
 
