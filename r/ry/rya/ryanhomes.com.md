@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212161114id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221183950id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ryan Homes
+# Privacy Policy
 
 #### Ryan Homes Privacy Policy
 
@@ -39,4 +39,4 @@ We may share your personal information with our affiliated companies (NVR Mortga
 
 #####  Social Media Policies
 
-Big Game Sweepstakes II: [Click here to view official rules](https://web.archive.org/Content/pdf/Official%20Rules_Big%20Game%20Sweepstakes%20II_FINAL.pdf).
+Living Room Tailgate Sweepstakes: [Click here to view official rules](https://web.archive.org/content/pdf/Official%20Rules_Living%20Room%20Tailgate.pdf).
