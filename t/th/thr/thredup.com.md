@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622153647id_/http%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221122253id_/http%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
 
-# Shop for Practically New Clothing on thredUP - Privacy Policy
+# Shop for Practically New Clothing on thredUP- Privacy Policy
 
 This policy covers how thredUP, Inc. ("thredUP") treats personally identifying information that thredUP collects and receives, including information related to your past use of thredUP products and services. thredUP may be referred to in this Privacy Policy as "thredUP" or "we". Personally identifying information is information about you that allows someone to personally identify you, like your name, address, email address, phone number, and preferences that you identify and that are not otherwise publicly available (for example, your clothing size and brand preferences). This policy does not apply to the practices of companies or websites that thredUP does not own or control, or to people that thredUP does not employ or manage. This policy does not apply to information that does not allow someone to personally identify you. 
 
