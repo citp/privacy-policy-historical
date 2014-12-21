@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indexexchange.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070237id_/http%3A//indexexchange.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indexexchange.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221035105id_/http%3A//indexexchange.com/privacy) for the most accurate reproduction.*
 
 # Index Exchange
 
@@ -25,7 +25,7 @@ Casale Media may obtain data from third party companies for the purpose of infor
 
 **Opt-out**
 
-Casale Media is a member of the Network Advertising Initiative (NAI), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards and adheres to the NAI Code of Conduct. To learn more or to opt out of targeted advertising from Casale Media and other NAI member networks, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+Casale Media is a member of the Network Advertising Initiative (NAI), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards and adheres to the NAI Code of Conduct. To learn more or to opt out of targeted advertising from Casale Media and other NAI member networks, please [click here](http://www.networkadvertising.org/).
 
 **Collection and use of non-personally identifiable information**
 
