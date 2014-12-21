@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecontactform.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233049id_/http%3A//www.freecontactform.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecontactform.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221024623id_/http%3A//www.freecontactform.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Free Contact Form - Privacy Policy
 
@@ -26,7 +26,7 @@ The personal information which we hold will be held securely in accordance with 
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. 
 
-If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20140330233049id_/http%3A//www.freecontactform.com/contact.php). 
+If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20141221024623id_/http%3A//www.freecontactform.com/contact.php). 
 
   
 
