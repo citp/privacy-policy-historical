@@ -1,24 +1,27 @@
-> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030303id_/http%3A//www.submittable.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submittable.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221062524id_/http%3A//submittable.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Submission Manager powered by Submittable: accept and manage content, applications, contest entries and resumes
 
-**Your privacy is critically important to us. At Submittable we have a few fundamental principles:**
+  
+
+
+## Your privacy is critically important to us. At Submittable we have a few fundamental principles:
 
   * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for things like your gender or income level for no apparent reason.)
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
   * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
-  * In our all our products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
+  * In all our products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
 
 
 
-If you have questions about deleting or correcting your personal data please contact our [support team](http://help.support.com/).
+If you have questions about deleting or correcting your personal data please contact our [support team](http://help.submittable.com/).
 
-Submittable Inc. ("Submittable") operates several websites including [submittable.com](http://www.submittable.com/) and [Submittable.com](http://www.submittable.com/). It is Submittable’s policy to respect your privacy regarding any information we may collect while operating our websites or webservices.
+Submittable Inc. ("Submittable") operates several websites including [submittable.com](http://www.submittable.com/) and [manager.submittable.com](http://manager.submittable.com/). It is Submittable’s policy to respect your privacy regarding any information we may collect while operating our websites or web services.
 
 ### Website Visitors
 
 Like most website operators, Submittable collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Submittable’s purpose in collecting non-personally identifying information is to better understand how Submittable’s visitors use its website. From time to time, Submittable may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.  
-Submittable also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Submittable only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
+Submittable also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Submittable only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left. 
 
 ### Gathering of Personally-Identifying Information
 
@@ -34,7 +37,7 @@ Submittable discloses potentially personally-identifying and personally-identify
 
 ### Cookies
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Submittable uses cookies to help Submittable identify and track visitors, their usage of Submittable website, and their website access preferences. Submittable visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Submittable’s websites, with the drawback that certain features of Submittable’s websites may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Submittable uses cookies to help Submittable identify and track visitors, their usage of Submittable's website, and their website access preferences. Submittable visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Submittable’s websites, with the drawback that certain features of Submittable’s websites may not function properly without the aid of cookies.
 
 ### Business Transfers
 
@@ -48,6 +51,4 @@ Ads appearing on our Free version of the software may be delivered to users by a
 
 Although most changes are likely to be minor, Submittable may change its Privacy Policy from time to time, and in Submittable’s sole discretion. Submittable encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Submittable.com account, you should also check your account for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-**Finally**
-
-We are very grateful to the people at [Automattic](http://automattic.com/) for helping shape this Privacy Policy.
+**Finally** , we are very grateful to the people at [Automattic](http://automattic.com/) for helping shape this Privacy Policy.
