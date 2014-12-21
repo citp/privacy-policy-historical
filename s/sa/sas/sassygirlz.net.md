@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sassygirlz.net privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614135722id_/http%3A//www.sassygirlz.net/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sassygirlz.net privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221192950id_/http%3A//www.sassygirlz.net/disclosure) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy
 
@@ -20,15 +20,15 @@ This blog does not contain any content which might present a conflict of interes
 
 To get your own policy, go to http://www.disclosurepolicy.org
 
-### **Privacy Policy**
+###  **Privacy Policy**
 
-**What information do we collect?**
+ **What information do we collect?**
 
 We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or Enter a Giveaway.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-**What do we use your information for?**
+ **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
@@ -42,43 +42,43 @@ To send periodic emails
 
 > The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-**How do we protect your information?**
+ **How do we protect your information?**
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to?keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-**Do we use cookies?**
+ **Do we use cookies?**
 
 We do not use cookies.
 
-**Do we disclose any information to outside parties?**
+ **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party links**
+ **Third party links**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-**California Online Privacy Protection Act Compliance**
+ **California Online Privacy Protection Act Compliance**
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+ **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Your Consent**
+ **Your Consent**
 
 By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
 
-**Changes to our Privacy Policy**
+ **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-_  This policy was last modified on 5/08/2013_
+ _  This policy was last modified on 5/08/2013_
 
-**Contacting Us**
+ **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
