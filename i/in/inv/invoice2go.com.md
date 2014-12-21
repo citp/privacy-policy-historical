@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invoice2go.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120002id_/http%3A//www.invoice2go.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoice2go.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221104931id_/http%3A//www.invoice2go.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Invoice2go
 
@@ -53,5 +53,3 @@ If Invoice2go should ever sell its assets, merge with another entity or file for
 Invoice2go welcomes your feedback regarding this Privacy Policy. If you have questions, comments, or concerns about either one, please contact us by e-mail at info AT Invoice2go.com. 
 
 Copyright © 2010 Invoice2go Corporation. All rights reserved. 
-
-[](https://twitter.com/#!/Invoice2go) [](http://www.facebook.com/pages/Invoice2go/136569776389164) Follow us for the latest hot-off-the-press news on all things Invoice2go
