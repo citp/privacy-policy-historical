@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the educationnext.org privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116045504id_/http%3A//educationnext.org/sub/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationnext.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221234746id_/http%3A//educationnext.org/sub/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Education Next
+# Privacy Policy - Education Next : Education Next
 
 ### Privacy Policy
 
@@ -62,7 +62,8 @@ This Privacy Policy is in effect as of August 14, 2009.
 
 ##### Sponsored Results
 
-[](http://educationnext.org/sub/)
+  
+
 
 ##### Sign Up To Receive Notification
 
