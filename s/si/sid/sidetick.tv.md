@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidetick.tv privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508211016id_/http%3A//sidetick.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidetick.tv privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221041321id_/http%3A//sidetick.tv/privacy.html) for the most accurate reproduction.*
 
 # SideTick TV - Internet Television!
 
@@ -44,7 +44,7 @@ The information that you submit to us at this Website is safeguarded by us utili
 We protect the information that you submit to us online using SSL encryption software. Off-line your information is shared internally only with our employees who have a "need to know" in order to perform their assigned duties. Access to any of your information is prohibited to all others.   
 **10\. What choices are available to you regarding our use of your information?** ****  
 If you wish to no longer receive future email communications pertaining to this Website [Click Here](http://www.sidetick.tv/unsubscribe.php?p=1010) and we will promptly honor your opt-out request.   
-If you no longer wish to receive future email communications pertaining to this Website or any other website operated by us or any of our business divisions, you may globally opt-out by [Clicking Here](http://www.sidetick.tv/unsubscribe.php?p=-666).   
+If you no longer wish to receive future email communications pertaining to this Website or any other website operated by us or any of our business divisions, you may globally opt-out by [Clicking Here](http://www.sidetick.tvsidetick.tv/unsubscribe.php?p=-666).   
 If you are an existing member or become a member but wish to not receive SideTick TV system notifications, you will also need to indicate your opt-out preferences by unmarking the boxes on your [account preferences page](http://www.sidetick.tv/account_preferences.php).   
 Although SideTick TV strives to honor your opt-out request promptly, please allow ten (10) business days to process your request. During such processing time, it is possible that you may continue to receive communications from us.   
 A user can decide to quit SideTick TV by simply selecting the 'Profile' tab located on the Home Page and then selecting 'Account Settings' and then selecting 'Delete Account', the fourth tab on the following page. On the next page select 'Delete My Account'.   
