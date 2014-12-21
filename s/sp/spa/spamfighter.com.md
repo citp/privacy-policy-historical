@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spamfighter.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522141830id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spamfighter.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221071159id_/http%3A//www.spamfighter.com/Info_Privacy_Statement.asp) for the most accurate reproduction.*
 
 # SPAMfighter Privacy Statement - FIGHTERtools
 
@@ -10,7 +10,9 @@ We log your IP address to help diagnose problems with our server and to administ
 
  **Cookies**
 
-Our site uses cookies to track information about our visitors. That give us the possibility to learn from our users habit and patterns and again make our website and software even better.
+Our site uses cookies to track information about our visitors. That give us the possibility to learn from our users habit and patterns and again make our website and software even better. We also sometimes use cookies to serve ads to past visitors with the help from third party advertisers such as Google and AdRoll. You can opt-out of such cookies by visiting https://www.google.com/settings/ads/onweb#display_optout or by pressing X in the top right corner of the ad.
+
+As you browse SPAMfighter's website, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with SPAMfighter's website. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page (http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners' targeted advertising.
 
  **Security**
 
