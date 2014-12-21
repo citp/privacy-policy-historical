@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interesting-articles.com privacy policy that was archived on 2013-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130902114922id_/http%3A//www.interesting-articles.com/privacy-policy-and-terms-of-use.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interesting-articles.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221195719id_/http%3A//www.interesting-articles.com/privacypolicyandtermsofuse.php) for the most accurate reproduction.*
 
 # Privacy Policy And Terms Of Use
 
@@ -27,11 +27,3 @@ NOT entice by the prospect of a special game, prize or other activity, to divulg
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
 
 This site gives users options for removing their information from our database to not receive future communications or to no longer receive our service.
-
-**Google Ads**
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-
-
