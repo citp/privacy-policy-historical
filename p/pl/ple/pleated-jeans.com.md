@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleated-jeans.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221004504id_/http%3A//www.pleated-jeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleated-jeans.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221125657id_/http%3A//www.pleated-jeans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pleated-Jeans.com
 
