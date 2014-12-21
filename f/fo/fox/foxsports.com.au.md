@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313164010id_/http%3A//www.foxsports.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221172404id_/http%3A//www.foxsports.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | National & World Sports News & Video | Fox Sports
 
