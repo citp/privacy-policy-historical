@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsanto.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510050144id_/http%3A//www.monsanto.com/privacy-policy/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsanto.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221113937id_/http%3A//www.monsanto.com/privacy-policy/Pages/default.aspx) for the most accurate reproduction.*
 
 # Monsanto | Monsanto Privacy Policy
 
@@ -23,12 +23,16 @@ Monsanto web sites collect personally identifiable information only from individ
 
 
 
-In addition to the foregoing **Personal Information** , each site automatically logs information about a visitor from the browser used to access the site (e.g., Internet Explorer, Netscape, etc.). This includes information about the I.P. address of the visitor, the pages in the site which are visited from that address and the web site which the user visited just prior to the Monsanto site. (In this Policy, the foregoing information is referred to as " **Visit Information**.") None of this **Visit Information** permits personal identification of the individual user who is accessing the Monsanto site; thus **Visit Information** is not considered **Personal Information** in this Policy. **Visit Information** will be used by Monsanto to diagnose problems with its web servers, to administer, design and construct its web sites, to track visitor movements on the web sites and gather broad demographic information for aggregate use only. 
+In addition to the foregoing **Personal Information** , each site automatically logs information about a visitor from the browser used to access the site (e.g., Internet Explorer, Netscape, etc.). This includes information about the I.P. address of the visitor, the pages in the site which are visited from that address and the web site which the user visited just prior to the Monsanto site. (In this Policy, the foregoing information is referred to as " **Visit Information**.") While some jurisdictions consider IP addresses to be personal information, none of this **Visit Information** is used by Monsanto for direct or indirect identification of the individual user who is accessing the Monsanto site. **Visit Information** will be used by Monsanto to diagnose problems with its web servers, to administer, design and construct its web sites, to track visitor movements on the web sites and gather broad demographic information for aggregate use only. 
 
 ****Cookies****  
 A cookie is a small data file that web sites commonly write to the site visitor's hard drive when a site is visited. A cookie file contains information that can identify a return visitor each time he or she visits our site. The data is encrypted for added security. Monsanto's web sites may use cookies as a way to measure activity and traffic patterns on the site in order to continually improve the visitor's experience. Cookies also provide visitors the convenience of not having to log in a password more than once on a Monsanto site, thereby saving the visitor time while on our site.
 
 A browser can be set to warn the users before accepting cookies. Users can choose to refuse cookies by turning them off in the browser. Users do not need to have cookies turned on to visit our web site, but will need them to use certain customizable features of our web site such as automatically displaying local weather and crop forecasts, accessing certain areas of our web site, and transacting business on our web site.
+
+While we take all reasonable steps to protect the privacy of our website visitors, we cannot promise that the current limitations of our online applications programming will address every browser setting or honor every personal browser preference. In particular, we have not implemented the necessary program changes to honor “Do Not Track” or “DNT” browser signals. As our online applications programming is refined, we will take all reasonable steps to honor such requests in the future. Please return to this privacy policy for further updates on this topic. 
+
+Further, our online service providers or business partners may implement technologies that allow for the collection of personally identifiable information over time and across websites. We recommend that you review each privacy policy posted on the websites that you visit to better understand privacy practices on those websites.
 
 **Monsanto's Use of Your Personal Information**   
 Your **Personal Information** may be used to communicate with you about your use of our sites, to let you know about changes to our services or our site or to provide services to you or to improve our understanding of what visitors want and need to see on the sites. In particular: 
@@ -64,7 +68,7 @@ Because Monsanto operates from its headquarters in St. Louis, Missouri in the Un
 When you furnish **Personal Information** to Monsanto through a Monsanto web site, you are also giving your consent to a cross-border transfer of that information. 
 
 **Children and Privacy**   
-Monsanto does not knowingly collect information from or about children age 13 and under. 
+Monsanto does not knowingly collect information from or about children age 13 and under without the consent of a parent or legal guardian. 
 
 **Opting In / Opting Out**   
 Upon registering at any Monsanto web site which collects **Personal Information** , visitors will be given an opportunity to determine whether they wish to receive promotional materials from Monsanto or from Trade Partners. The manner and method in which a Monsanto site permits users to opt out of receiving such materials will be described on the individual site collecting that **Personal Information**. If the user would like to "opt out" at a later time, he may do so by following the instructions on the site where the original request was made or the instructions contained in the e-mail messages delivering such materials to him.
@@ -95,4 +99,4 @@ If Monsanto decides to change its privacy policies and practices, we will post t
 **Contacting Monsanto**   
 Each Monsanto web site provides a Contact Us section to facilitate feedback from site visitors. Please use this facility to notify us if you have any questions, concerns or complaints about the manner in which your personal information has been collected or handled by Monsanto, or contact Monsanto's offices in your country. 
 
-_Policy Last Updated October 2010_
+_Policy Last Updated May 2014_
