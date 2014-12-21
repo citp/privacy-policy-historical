@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626161452id_/http%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221180728id_/http%3A//www.scripps.org/privacy-policy) for the most accurate reproduction.*
 
 # Scripps Health - Privacy Policy
 
-  * [ Email ](mailto:?body=I%20thought%20you%20might%20be%20interested%20in%20this%20article%3A%20http%3A%2F%2Fwww.scripps.org%2Fprivacy-policy&subject=Scripps.org%3A%20Privacy%20Policy)
-  * [ Like ](http://www.facebook.com/sharer.php?u=http://www.scripps.org/privacy-policy&t=Privacy%20Policy "Like")
-  * [ Tweet ](http://twitter.com/intent/tweet?text=Privacy%20Policy:+http://www.scripps.org/privacy-policy+-+via%20@scrippshealth "Twitter")
-  * [ Plus 1 ](http://plus.google.com/share?url=http://www.scripps.org/privacy-policy "Plus 1")
-  * [ Pin It ](https://www.pinterest.com/pin/create/button/?url=http://www.scripps.org/privacy-policy&description=Last+Updated:+11/29/10%0ABy+using+this+website,+you+agree+to+the+following+Privacy+Policy.+If+you+do+not+agree+to+all+of+these+terms,+please+do+not+use+this+website.+Scripps+Health+reserves+the+right+to+change,+modify,+add,+or+delete+portions+of+this+Privacy+Policy+at+any+time.+Your+continued+use+of+... "Pinterest")
-
-
-
-Last Updated: 11/29/10
+Last Updated: 9/24/14
 
 **By using this website, you agree to the following Privacy Policy. If you do not agree to all of these terms, please do not use this website. Scripps Health reserves the right to change, modify, add, or delete portions of this Privacy Policy at any time. Your continued use of this website following any changes to the Privacy Policy will mean that you accept those changes. Please refer to the date listed above to determine when the last changes were made.**
 
@@ -20,7 +12,7 @@ This Privacy Policy does not apply to any information collected offline. This in
 
 This website is owned and operated by Scripps Health, a California nonprofit public benefit corporation. By using this site, you agree that Scripps Health may monitor your use of this website and may use the results of such monitoring without limitation.
 
-The information we gather generally can be categorized as either anonymous or personally identifiable. Scripps Health uses the ExactTarget e-mail marketing system and adheres to the [ExactTarget anti-spam policy](http://www.exacttarget.com/home/Anti-Spam-Policy.aspx).
+The information we gather generally can be categorized as either anonymous or personally identifiable.
 
 #### Tracking of anonymous information
 
@@ -42,17 +34,17 @@ When a form provides the ability to opt-in to receiving future e-mails from Scri
 
 You may review and change your information with us at any time by clicking on the “Manage Profile” link found at the bottom of e-mails sent by us. To opt-out from having any provided information used for e-mail communications from us, please click on the opt-out (unsubscribe) link in any message you receive from us. This will allow you to unsubscribe or update your message preferences.
 
-The information we gather from you is used either in connection with your interest in employment opportunities with Scripps Health, a class or event, or if you have questions or comments you would like to share with Scripps Health.
+The information we gather from you is used in connection with your interest in employment opportunities with Scripps Health, a class or event, educational needs, if you have questions or comments you would like to share with Scripps Health or related activities.
 
 Scripps Health does not disclose, give, sell, or transfer any personal information to third parties for non-Scripps’ use. Personally identifiable information may be collected from visitors to our site and provided in an aggregate form to other parties within the Scripps Health family for marketing, advertising or other similar uses.
 
 #### E-mail lists and newsletters
 
-You will be added to a Scripps Health e-mail list only if you register to receive e-mails via a form on the Scripps website, a printed form, or during a call to our Call Center at 1-800-SCRIPPS. You may opt-out of receiving our e-mails by clicking on the opt-out link included in every e-mail we send, or by visiting Scripps.org/unsubscribe.
+You will be added to a Scripps Health e-mail list only if you register to receive e-mails via a form on the Scripps website, a printed form, or during a call to our Call Center at 1-800-SCRIPPS. You may opt-out of receiving our e-mails by clicking on the opt-out link included in every e-mail we send. If you have any issues relating to unsubscribing to Scripps e-mails please contact [webteam@scrippshealth.org](mailto:%77%65%62%74%65%61%6d@%73%63%72%69%70%70%73%68%65%61%6c%74%68.%6f%72%67).
 
 #### Refer a friend/forward-to-a-friend functionality
 
-If you feel that information provided in a Scripps Health e-mail could be useful for a third party you know (e.g., your friends or family members), you may use our forward-to-a-friend functionality. If you choose to use our referral service to tell a friend about Scripps Health, we will ask you for your friend’s e-mail address. We will automatically send the person you designate a one-time e-mail inviting him or her to visit the site. Scripps Health stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program.
+If you feel that information provided in a Scripps Health e-mail could be useful for someone you know (e.g., your friends or family members), you may use our forward-to-a-friend functionality. If you choose to use our referral service to tell a friend about Scripps Health, we will ask you for your friend’s e-mail address. We will automatically send the person you designate a one-time e-mail inviting him or her to visit the site. Scripps Health stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program.
 
 #### Confidential information
 
@@ -88,7 +80,7 @@ In accordance with the Federal Children’s Online Privacy Protection Act of 199
 
 #### Disclosures required to investigate complaints to law enforcement officials
 
-Scripps Health may use personal information collected or in its possession to contact users in connection with their inappropriate use of our website, noncompliance with our Terms of Use, or in connection with a complaint filed about their use of our site by another user.
+Scripps Health may use personal information collected or in its possession to contact users in connection with their inappropriate use of our website, noncompliance with our [Terms of Use](https://web.archive.org/terms-of-use "Terms Of Use"), or in connection with a complaint filed about their use of our site by another user.
 
 Scripps Health also may disclose your personal information to another party, such as law enforcement officials, to comply with legal requirements, court orders, government or law enforcement agency requests, to protect or defend Scripps Health, or where we perceive an immediate danger of death or serious physical injury to someone as a result of activity on our site. Our disclosures may occur under circumstances where we may not be authorized to advise you of such action.
 
@@ -97,9 +89,9 @@ Scripps Health also may disclose your personal information to another party, suc
 If you wish to delete or correct your personally identifiable information obtained through this Web site, you may:
 
   * Send a written request to:  
-Marketing and Communications Web Team,  
+Web Team,  
 Scripps Health,  
-4275 Campus Point Court, CP10,  
+10100 Campus Point Drive, AN105,  
 San Diego, CA 92121
   * Send an electronic request to: [webteam@scrippshealth.org](mailto:%77%65%62%74%65%61%6d@%73%63%72%69%70%70%73%68%65%61%6c%74%68.%6f%72%67)
   * [Submit](https://web.archive.org/about-us__contact-us__contact-form "Submit") an electronic request.
