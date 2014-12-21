@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the multibankfx.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118042116id_/http%3A//www.fxmultibank.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multibankfx.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221102213id_/http%3A//www.ikonfx.com.au/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Multibank Group
+# Privacy Statement | IKON Group
 
-Multibank Group Affiliated Companies do not disclose any nonpublic information about our customers to anyone except as permitted by law. 
+IKON Group Affiliated Companies do not disclose any nonpublic information about our customers to anyone except as permitted by law. 
 
 Personal Information We Collect
 
-When you apply for or maintain an account with Multibank Group Affiliated Companies they collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you and providing customer service. The personal information we collect about you includes: 
+When you apply for or maintain an account with IKON Group Affiliated Companies they collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you and providing customer service. The personal information we collect about you includes: 
 
   * Information you provide to us on application and other forms, such as your name, address, and date of birth, social security number, occupation, assets and income.
   * Information about your transactions with us and with our affiliates.
@@ -21,6 +21,6 @@ We limit access to your personal information to those employees who need to know
 
 Disclosure to Non-Affiliated Third Parties
 
-In order to support the financial products and services we provide to you, Multibank Group Affiliated Companies may share the personal information described above with third-party service providers and joint marketers not affiliated with us, including: Companies under contract to perform services for us or on our behalf, such as vendors that prepare and mail statements and transactions confirmations or provide data processing, computer software maintenance and development, transaction processing and marketing services. These companies acting on our behalf are required to keep your personal information confidential.
+In order to support the financial products and services we provide to you, IKON Group Affiliated Companies may share the personal information described above with third-party service providers and joint marketers not affiliated with us, including: Companies under contract to perform services for us or on our behalf, such as vendors that prepare and mail statements and transactions confirmations or provide data processing, computer software maintenance and development, transaction processing and marketing services. These companies acting on our behalf are required to keep your personal information confidential.
 
 Also, we may disclose personal information to regulatory authorities as permitted or required by applicable law. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property.
