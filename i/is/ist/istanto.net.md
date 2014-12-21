@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328101159id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istanto.net privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221184706id_/http%3A//www.istanto.net/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY – Istanto Blog – Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online. - Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online.
-
-## PRIVACY POLICY 
+# PRIVACY POLICY - Istanto Blog – Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online. - Online Business, Short Reviews, Computers and Internet, Tips and Trick, Make Money Online.
 
 **Privacy Policy for www.istanto.net**
 
@@ -32,6 +30,8 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-alamat dan telepon mandiri surabaya
+#### Related Search Terms:
 
-### Leave a Reply
+  * [alamat dan telepon mandiri surabaya](http://www.istanto.net/privacy-policy "alamat dan telepon mandiri surabaya") (2)
+
+
