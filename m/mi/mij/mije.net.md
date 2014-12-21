@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mije.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626074741id_/http%3A//www.mije.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mije.net privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221134906id_/http%3A//www.mije.net/privacy.php) for the most accurate reproduction.*
 
 # MiJe.net - Hide browser referrer and Get your payment !
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20140626074741id_/http%3A//www.mije.net/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20141221134906id_/http%3A//www.mije.net/contact.php). 
