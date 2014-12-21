@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the accucarecanada.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516130818id_/http%3A//accucarecanada.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accucarecanada.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221124308id_/http%3A//www.accucarecanada.com/cms.php%3Fid%3D5) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our Commitment - Your Privacy6**
+**Our Commitment - Your Privacy**
 
 Your privacy is very important to us. To better protect your privacy the following explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
 
@@ -27,9 +27,15 @@ Email is used only to contact customers with regard to current or past orders, o
 **Our Commitment To Your Security of Your Data**  
 Your personal information is never shared with any outside party for any purpose.
 
-**To Contact Us**  
+  
+ 
+
+**To Contact Us**
+
 Should you have any questions or wish to contact our team for any reason, we can be reached at:
 
-[info@accuCarecanada.com](mailto:info@accuCarecanada.com)
+T: 1.866.600.2761 toll Free
 
-204.237.1621  24Hrs
+O: 204.237.1621
+
+E: info@accucarecanada.com
