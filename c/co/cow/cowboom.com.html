@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cowboom.com privacy policy that was archived on 2014-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330164419id_/http%3A//www.cowboom.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cowboom.com privacy policy that was archived on 2014-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221173245id_/http%3A//www.cowboom.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head><body onload="MM_preloadImages('http://www.cowboom.com/img/footer-icon-facebook-on.png','http://www.cowboom.com/img/footer-icon-twitter-on.png')"><div class="header_newsite">
         
@@ -26,6 +26,7 @@
 
 
 
+
 <!--[if lt IE 7]>
 <style type="text/css" media="screen">
 	body { behavior:url("/csshover.htc"); }
@@ -38,8 +39,10 @@
 <link rel="Shortcut Icon" href="https://www.cowboom.com/images/CowBoom/favicon.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="/styles/main-min.css">
 <link href="/styles/CowBoom/global.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="../css/smoothness/jquery-ui-1.10.2.custom.css">
-<link rel="stylesheet" type="text/css" href="../css/jquery-modal.css">
+<link rel="stylesheet" type="text/css" href="/css/smoothness/jquery-ui-1.10.2.custom.css">
+<link rel="stylesheet" type="text/css" href="/css/jquery-modal.css">
+<link rel="stylesheet" href="http://www.gstatic.com/commercesearch/sayt/commerce_sayt.css" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" href="/styles/GCS_commerce.css" media="screen">
 
 <link href="http://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script>
@@ -50,10 +53,29 @@
 <script type="text/javascript" src="/javascript/jquery-ui-1.10.2.custom.min.js"></script>
 <script type="text/javascript" src="/javascript/jquery-modal.js"></script>
 <script type="text/javascript" src="/javascript/global-min.js"></script>
+<script src="http://www.gstatic.com/commercesearch/sayt/sayt.js" type="text/javascript" charset="UTF-8"></script>
 
 
 <script type="text/javascript" src="/javascript/jquery.powertip.js"></script>
 <link href="/styles/jquery.powertip.css" type="text/css" rel="stylesheet">
+
+
+<!--[if lt IE 7]>
+<style id="antiClickjack" >body{display:none !important;}</style>
+<script type="text/javascript">
+	$(document).ready(function()
+	{
+		if(self === top)
+		{
+			var antiClickJack = document.getElementById('antiClickjack');
+			antiClickJack.parentNode.removeChild(antiClickJack);
+		}
+		else
+			top.location = self.location;
+	});
+</script>
+<![endif]-->
+
 <script>
 	$(document).ready(function(){
 		/* Tool Tips for Help Info */
@@ -96,13 +118,23 @@
 				return false;
 			}
 			else {
-			    var temp = keywords.value;
-				temp =  temp.replace(/[^a-zA-Z\s\- 0-9]+/g,'');
+			    var temp = trim(keywords.value);
+				temp =  temp.replace(/[^a-zA-Z\s\-\.\/\"\'\ 0-9]+/g,'');
+				for(var i=0;i<temp.length;i++){
+					// replace quotation mark with "in"
+					if(temp.charCodeAt(i) == 34){
+						temp = temp.replace(/\"/g,"in");
+					}
+					// replace apostrophe with "ft"
+					if(temp.charCodeAt(i) == 39){
+						temp = temp.replace(/\'/g,"ft");
+					}
+				}
 				keywords.value = temp;
 				document.location.href= 'http://www.cowboom.com/search/results.cfm?keywords=' + temp;
 			}
 		}		
-		return false;		
+		return false		
 	}
 </script>
  
@@ -141,13 +173,31 @@
 <style>
 	
 	
+	h1.logo a {
+		background-image: url('/ImgServer/CowBoom/Logos/Event64Logo.png');
+	}
 	
 	
+	#header .headerlinks {
+		color: white;
+	}
+	
+	
+	#header a.cart span.item,
+	#header a.cart span#cartBold,
+	#header a.cart span#cartItemCount {
+		color: light blue;
+	}
+	
+	
+	#header a.cart span#cartTotal {
+		color: red;
+	}
 		
 </style>
 
 
-	<div id="header">
+	<div id="header" class="eventHdr64">
 		<div class="holder">
 			<div class="area">
 				<ul class="social-networks">
@@ -160,7 +210,7 @@
 							document.write('<a href="javascript://chat" style="display: none;" onclick="_alc.startChat(16859); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'"><img id="__ALC_BADGE_ONLINE_IMAGE" src="'+unescape(document.location.protocol+'//content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-alpha.png')+'" style="border: 0px none" /></a><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="display: none;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="'+unescape(document.location.protocol+'//content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-off-alpha.png')+'" style="border: 0px none" /></span>');
 							if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();
 							var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '16859'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 0; __ALC_Badges.push(__ALC_BUTTON);
-						</script><a href="javascript://chat" style="display: none;" onclick="_alc.startChat(16859); return false;" id="__ALC_BADGE_ONLINE5242328006"><img id="__ALC_BADGE_ONLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-alpha.png" style="border: 0px none"></a><span id="__ALC_BADGE_OFFLINE5242328006" style="display: none;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-off-alpha.png" style="border: 0px none"></span>
+						</script><a href="javascript://chat" style="display: none;" onclick="_alc.startChat(16859); return false;" id="__ALC_BADGE_ONLINE8846983232"><img id="__ALC_BADGE_ONLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-alpha.png" style="border: 0px none"></a><span id="__ALC_BADGE_OFFLINE8846983232" style="display: none;"><img id="__ALC_BADGE_OFFLINE_IMAGE" src="https://content.liveagentforsalesforce.com/app/custom/buttons/16859/24x24-live-agent-off-alpha.png" style="border: 0px none"></span>
 
 						
 					</li>
@@ -176,12 +226,11 @@
 			</div>
 			<div class="area">
 				<h1 class="logo"><a href="http://www.cowboom.com/">CowBoom</a></h1>
-
 					<div id="autocomplete">
-					<form name="GCSSearch" class="search-and-cart-form" id="search-and-cart-form" action="http://www.cowboom.com/search/results.cfm" onsubmit="return GCSSubmit();">
-						<input name="keywords" id="searchBox_newsite" type="text" class="searchbox_newsite" value="" autocomplete="off" onkeypress="if (event.keyCode == 13) {GCSSubmit();}">
-						<input name="search" id="searchButton" type="button" value="Search" class="searchbox-button" onclick="GCSSubmit();">
-					</form>	
+					<form name="GCSSearch" id="searchForm" class="search-and-cart-form" method="GET" action="http://www.cowboom.com/search/results.cfm" onsubmit="return GCSSubmit();">
+						<input id="keywords" name="keywords" type="text" class="searchbox_newsite" size="75%" autocomplete="off" value="" onkeypress="if(event.keyCode == 13) {GCSSubmit();}">
+						<input id="searchButton" name="search" type="button" class="searchbox-button" value="Search" onclick="GCSSubmit();">
+					<input type="hidden" name="as_sfid" value="AAAAAAX3YfmwSxJlDOCDtwVfIVFJ1EPUdp07U2V+r+hGnJb03HhHA7E+mBPnBhj8nyfJMv63CCrbgJRrzjvVztWe5Ot3iG9f98va/NjblTxLCPkDRw=="><input type="hidden" name="as_fid" value="MTXK9OEYMuJcByd+WJtq"></form>
 					</div>
 					<style>
 						table.gsc-completion-container 
@@ -192,7 +241,7 @@
 							font-size:12pt;
 						}
 					</style>
-				
+					
 				<a href="https://www.cowboom.com/checkout/cart.cfm" class="cart cartlinkfix"><span class="item" style="vertical-align:none;">Cart <span id="cartBold">(<span id="cartItemCount">0</span>)</span> </span> <span id="cartTotal">$0.00</span></a>				
 							
 			</div>
@@ -202,6 +251,50 @@
 
 
 
+<script>
+	$(function() {			   
+		var MarqueeColor = $('#marquee span[style*=background-color]').css('background-color'); 
+		if(!MarqueeColor)
+			$('#marquee').find('span').each(function(i){
+				if($(this).css("background-color")!='transparent')
+				{
+					MarqueeColor = $(this).css("background-color");
+					return false;
+				}
+			});	
+		$('#header').css('background-color',MarqueeColor);
+		$('#marquee').show(10,alignHeader);
+	});
+	function alignHeader()
+	{
+		var cobrandOffset = 0;
+		if($('#brandContainer').length>0)
+			cobrandOffset = 80;
+		var altDim = $('#marquee').height() + 30;
+		var marginOffset = altDim + cobrandOffset;
+		$('.header_newsite').css('margin-bottom',marginOffset.toString()+'px');
+		if(altDim>50&&$('#marquee img').length>0)
+		{
+			if(altDim<70)
+			{
+				$('#marquee').css({top:5});
+				$('#marquee img').css({top:-5});
+			}
+			else
+			{
+				$('#marquee').css({top:10});
+				$('#marquee img').css({top:-10});
+			}
+		}
+	}
+</script>
+<style>
+	#marquee	{padding:.7em 0 .3em 0;display:none;position:relative;}
+	#marquee span	{vertical-align:baseline !important;height:20px;}
+	#marquee img	{vertical-align:middle;padding:4px 0;position:relative;}
+</style>
+<div id="marquee"><p style="text-align: center"><span style="background-color: #ffffff"><a target="_blank" href="http://www.cowboom.com/GiftsUnderFifty/?utm_campaign=cb-promo-band-nov-2014&amp;utm_medium=promo-band&amp;utm_source=gifts-under-50"><img border="0" alt="Holiday Gifts Under $50" width="250" height="80" src="http://images.dtdeals.com/emails/PROMO-U50.png"></a>&nbsp;&nbsp;<a target="_blank" href="http://www.cowboom.com/GiftsUnderOneHundred/?utm_campaign=cb-promo-band-nov-2014&amp;utm_medium=promo-band&amp;utm_source=gifts-under-100"><img alt="Holiday Gifts Under $100" width="250" height="80" src="http://images.dtdeals.com/emails/PROMO-U100.png"></a>&nbsp;&nbsp;<a href="http://www.cowboom.com/GiftsUnderTwoHundred/?utm_campaign=cb-promo-band-nov-2014&amp;utm_medium=promo-band&amp;utm_source=gifts-under-200" target="_blank"><img alt="Holiday Gifts Under $200" width="250" height="80" src="http://images.dtdeals.com/emails/PROMO-U200.png"></a></span></p></div>
+
 
 
 		</div>
@@ -210,9 +303,7 @@
 				<div class="popup-holder">
 					<div class="popup">
 						<div class="close-holder"><a class="close">Close Deals</a></div>
-						<div class="DealCowSays"><h1><span style="color: #2f88c1"><strong>A Deal of Beauty is a Joy for Heifer!</strong></span></h1>
-<p><br>
-&nbsp;</p></div>
+						<div class="DealCowSays"><h1><span style="color: #cc0000"><span style="font-size: medium"><big><span style="font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><font face="Arial">Jingle Deals All the Way. Save Moo-La on Holiday Tech Gifts!</font></span></big></span></span></h1></div>
 						<ul class="items">
 							
 								
@@ -233,7 +324,7 @@
 											
 										</div>
 										
-										<p class="product-block-price" style="text-align:left;">$339.99</p>
+										<p class="product-block-price" style="text-align:left;">$259.99</p>
 										
 										<p class="free-shipping">
 										
@@ -248,10 +339,10 @@
 									<div class="holder">
 										
 										<a href="http://www.cowboom.com/product/1425677" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_1425677_1.jpg" class="scaleImage" alt="Apple 9.7in iPad Air with Wi-Fi 16GB - Space Gray from CowBoom">											
+											<img src="http://images.cowboom.com/store/thumb/DT_1425677_1.jpg" class="scaleImage" alt="Apple MD785LL/A iPad Air w/Wi-Fi 16GB - Space Gray from CowBoom">											
 										</a>
 
-										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/1425677">Apple 9.7in iPad Air with Wi-Fi 16GB - Space Gray</a></div>
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/1425677">Apple MD785LL/A iPad Air w/Wi-Fi 16GB - Space Gray</a></div>
 										<div style="height:30px;text-align:left;">
 											
 												<p class="reviews">			
@@ -261,7 +352,7 @@
 											
 										</div>
 										
-										<p class="product-block-price" style="text-align:left;">$459.99</p>
+										<p class="product-block-price" style="text-align:left;">$250.99</p>
 										
 										<p class="free-shipping">
 										
@@ -276,7 +367,7 @@
 									<div class="holder">
 										
 										<a href="http://www.cowboom.com/product/1430543" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_1430543_1.jpg" class="scaleImage" alt="Sony Flip 14A 2-in-1 14in Touch-Screen Laptop i3 1.7GHz 4GB 500GB WiFi from CowBoom">											
+											<img src="http://images.cowboom.com/store/thumb/DT_1430543_1.jpg" class="scaleImage" alt="Sony Flip 14A 2-in-1 14in Touch-Screen Laptop i3 1.7GHz 4GB 500GB WiFi - Black from CowBoom">											
 										</a>
 
 										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/1430543">Sony Flip 14A 2-in-1 14in Touch-Screen Laptop i3 1.7GHz...</a></div>
@@ -284,12 +375,12 @@
 											
 												<p class="reviews">			
 												<a class="newsite" href="/product/1430543?ReviewTab=2#tabs-2">Rating:</a><a class="newsite" href="#">			
-													<img src="http://www.cowboom.com/images/ratings/3.75_clear.gif">			
+													<img src="http://www.cowboom.com/images/ratings/3.5_clear.gif">			
 												</a></p> 
 											
 										</div>
 										
-										<p class="product-block-price" style="text-align:left;">$605.48</p>
+										<p class="product-block-price" style="text-align:left;">$444.99</p>
 										
 										<p class="free-shipping">
 										
@@ -303,21 +394,16 @@
 								<li>
 									<div class="holder">
 										
-										<a href="http://www.cowboom.com/product/1343500" class="image">
-											<img src="http://images.cowboom.com/store/thumb/DT_1343500_1.jpg" class="scaleImage" alt="Apple MD723LL 32GB iPod touch 5th Gen Player - Black from CowBoom">											
+										<a href="http://www.cowboom.com/product/1099909" class="image">
+											<img src="http://images.cowboom.com/store/thumb/DT_1099909_1.jpg" class="scaleImage" alt="HTC Flyer PG41400 1.5GHz 1GB 16GB 7in Android Tablet from CowBoom">											
 										</a>
 
-										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/1343500">Apple MD723LL 32GB iPod touch 5th Gen Player - Black</a></div>
+										<div style="white-space:normal !important;height:35px;text-align:left;"><a class="newsite" href="http://www.cowboom.com/product/1099909">HTC Flyer PG41400 1.5GHz 1GB 16GB 7in Android Tablet</a></div>
 										<div style="height:30px;text-align:left;">
-											
-												<p class="reviews">			
-												<a class="newsite" href="/product/1343500?ReviewTab=2#tabs-2">Rating:</a><a class="newsite" href="#">			
-													<img src="http://www.cowboom.com/images/ratings/4.75_clear.gif">			
-												</a></p> 
 											
 										</div>
 										
-										<p class="product-block-price" style="text-align:left;">$191.99</p>
+										<p class="product-block-price" style="text-align:left;">$64.99</p>
 										
 										<p class="free-shipping">
 										
@@ -341,7 +427,7 @@
 					</div>
 					
 					
-						<span class="btn-say"><a class="open" href="#"><div class="btn_say_ribbon"></div><div class="btn_say_text">DealCow Says...</div></a></span>
+						<span class="btn-say"><a class="open" href="#"><div class="btn_say_ribbon"></div><div class="btn_say_text">DealCow<span style="font-size: 7px;">™</span> Says...</div></a></span>
 					
 			</div>
 				<ul id="nav">
@@ -522,6 +608,24 @@
 	</div>
 	
 	
+	<!-- Google Search As You Type script -->
+	<script type="text/javascript">
+		var cx = '013357202174079907832:bdkmz4ibcdjpnruzaunaevkteibgk3q';
+		var saytParams = {
+			use_universal_analytics: true // Set this to false if you are not using Google Analytics "Universal Analytics"
+		};
+		var setSaytCallback = function(sayt){
+			if (sayt != null){
+				window['__gcs_sayt'] = sayt;
+				completionObject = sayt['completionController'];
+			} 
+			else{
+			// SAYT is disabled, initialize your current autocompletions code.
+			}
+		
+		};
+		setupSayt(cx, null, 'keywords', 'searchForm', setSaytCallback, null, saytParams);
+	</script>
 	
 	
 
@@ -695,7 +799,7 @@
 					document.write('<a href="javascript://chat" onclick="_alc.startChat(16120); return false;" id="__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX+'" style="display: none">'+decodeURIComponent("Chat%20with%20Us%20Live%21")+'</a><span id="__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX+'" style="display: none;">'+decodeURIComponent("Live%20Chat%20is%20Offline")+'</span>');
 					if ( typeof(__ALC_Badges) == 'undefined' ) __ALC_Badges = new Array();
 					var __ALC_BUTTON = new Object(); __ALC_BUTTON.id = '16120'; __ALC_BUTTON.available = '__ALC_BADGE_ONLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.unavailable = '__ALC_BADGE_OFFLINE'+__ALC_BADGE_SUFFIX; __ALC_BUTTON.department = 0; __ALC_Badges.push(__ALC_BUTTON);
-					</script><a href="javascript://chat" onclick="_alc.startChat(16120); return false;" id="__ALC_BADGE_ONLINE2623066451" style="display: none">Chat with Us Live!</a><span id="__ALC_BADGE_OFFLINE2623066451" style="display: none;">Live Chat is Offline</span>
+					</script><a href="javascript://chat" onclick="_alc.startChat(16120); return false;" id="__ALC_BADGE_ONLINE2456302215" style="display: none">Chat with Us Live!</a><span id="__ALC_BADGE_OFFLINE2456302215" style="display: none;">Live Chat is Offline</span>
 					
 					</li>
 					</ul> 
@@ -755,12 +859,10 @@
         <a class="newsite" href="http://www.cowboom.com/Sitemap">Sitemap</a><br>&nbsp;</p>
 	</div>
 </div>	
-	<!--.11-->
+	<!--.12-->
 	
 	<script src="https://www.google.com/jsapi" type="text/javascript"></script>
 	<script src="/javascript/GCS_commerce_preview.js" type="text/javascript"></script>
-	
-	<script src="/javascript/GCS_search.js" type="text/javascript"></script>
 	
 	<script type="text/javascript">
 	var __ALC_Deployment = 10381;
