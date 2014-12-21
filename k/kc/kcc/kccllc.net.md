@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kccllc.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142009id_/http%3A//www.kccllc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kccllc.net privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221113951id_/http%3A//www.kccllc.com/privacy) for the most accurate reproduction.*
 
 # Kurtzman Carson Consultants › Privacy Statement
 
