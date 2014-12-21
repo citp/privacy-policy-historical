@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seocockpit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123100id_/http%3A//swissmademarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seocockpit.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221143639id_/http%3A//swissmademarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SwissMadeMarketing
 
@@ -27,6 +27,8 @@ Broadly speaking, we use personal information for purposes of administering our 
 SwissMadeMarketing will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
 We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. ****
+
+The customer data collected with our tools will not be used for statistical purposes.
 
 ### A Special Note About Children
 
