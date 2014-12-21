@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065613id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221180043id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
 
 # SPEC Privacy Policy
 
@@ -9,7 +9,7 @@
   * [ACCEL/MPI/OMP](https://web.archive.org/benchmarks.html#hpg)
   * [Java Client/Server](https://web.archive.org/benchmarks.html#java)
   * [Mail Servers](https://web.archive.org/benchmarks.html#mail)
-  * [Network File System](https://web.archive.org/benchmarks.html#nfs)
+  * [Solution File Server](https://web.archive.org/benchmarks.html#sfs)
   * [Power](https://web.archive.org/benchmarks.html#power)
   * [SIP](https://web.archive.org/benchmarks.html#sip)
   * [SOA](https://web.archive.org/benchmarks.html#soa)
