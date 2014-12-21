@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112733id_/http%3A//sovereignsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221050954id_/http%3A//sovereignsociety.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Sovereign Society | The Sovereign Society
+# Privacy Policy - The Sovereign Society
 
-**PRIVACY POLICY — IMPORTANT — PLEASE READ**  
-We at _The Sovereign Society_ take your privacy very seriously.
+**PRIVACY POLICY – IMPORTANT – PLEASE READ**  
+We at  _Dent Research_  take your privacy very seriously.
 
 **Email Address**
 
-When you subscribe to _The Sovereign Society_ via email, your email address is placed in a database and used to send your issues and occasional Alerts. We will not sell, rent, or otherwise share your email address with anyone.
+When you subscribe to our newsletters, your email address is placed in a database and used to send your issues and occasional Alerts. We will not sell, rent, or otherwise share your email address with anyone.
 
-You can remove your address from our emailing list by following the instructions at the end of every email we send. Any email you send to _The Sovereign Society_ is considered confidential unless you tell us otherwise. We will not add your name to our email list without your permission. If your inquiry is about an order or subscription, Agora’s customer service staff will ask you to verify your identity by confirming information already in your record.
+You can remove your address from our emailing list by following the instructions at the end of every email we send. Any email you send to  _Dent Research_ is considered confidential unless you tell us otherwise. We will not add your name to our email list without your permission. If your inquiry is about an order or subscription, Agora’s customer service staff will ask you to verify your identity by confirming information already in your record.
 
 **Personal Information**
 
@@ -28,10 +28,10 @@ Frederick, MD 21705
 
 Cookies are small files placed on your computer by a web page when you visit it. They can be used to store all sorts of useful information to make your next visit easier and more convenient, but some people are uncomfortable not knowing what information is in a cookie.
 
-em>The Sovereign Societyweb-site uses cookies only to compile statistics on the use of the various pages on our site (how many people visit each page and that sort of thing). We do not store or collect any personally identifiable information.
+The  _Dent Research_  web-site uses cookies only to compile statistics on the use of the various pages on our site (how many people visit each page and that sort of thing). We do not store or collect any personally identifiable information.
 
 **Policy against advertising our website using unsolicited email messages**
 
-We require that all e-mails promoting [sovereignsociety.com](http://sovereignsociety.com/) or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
+We require that all e-mails promoting [survive-prosper.com](http://survive-prosper.com/) or its products are sent only to clients who have agreed to receive such messages. We prohibit any advertising of our brand and Web site using unsolicited email messages. Not complying with this policy will cause partnership termination and/or affiliate account termination.
 
-If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department ([abuse@sovereignsociety.com](mailto:abuse@sovereignsociety.com)). We will immediately investigate all allegations made related to unsolicited messages.
+If you feel you’ve been sent unsolicited emails promoting our brand or website and would like to register a complaint, please email our abuse department ([abuse@survive-prosper.com](mailto:abuse@survive-prosper.com)). We will immediately investigate all allegations made related to unsolicited messages.
