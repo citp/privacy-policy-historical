@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the restfile.bz privacy policy that was archived on 2014-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140106104358id_/http%3A//www.wallpapersbaby.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restfile.bz privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221051426id_/http%3A//www.restfilee.com/privacy_policy.html) for the most accurate reproduction.*
 
-# 
+# RestFilee.com privacy_policy
 
-This wallpapersbaby.com Privacy Policy,Terms of Service and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Uploadc website and are collectively referred to as the "Agreement". 
+This RestFilee.comPrivacy Policy, in conjunction with the [AUP](http://www.restfilee.com/use_policy.html), [Terms of Service](http://www.restfilee.com/tos.html) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the Upload website and are collectively referred to as the "Agreement". 
 
-wallpapersbaby.com may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. 
+RestFilee.com may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement. 
 
-Any Content wallpapersbaby.com by you to wallpapersbaby.com becomes published Content and is not considered personally identifiable information subject to this Privacy Policy. 
+Any Content RestFilee.com by you to RestFilee.com becomes published Content and is not considered personally identifiable information subject to this Privacy Policy. 
 
-wallpapersbaby.com uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases. 
+RestFilee.com uses IP addresses to measure usage and analyze trends, administer the website and collect information for its databases. 
 
 A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided Uploadc. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created a free account. Cookies also can enable Uploadc to track and target your interests to enhance your experience on our website. 
 
@@ -19,18 +19,18 @@ The email address you provide for order processing will only be used to send you
 
 We shall have the right to reference and refer to usage of, and relationship with, the Customer or the Customer's company, which may be deteremined by the domain used in the registered email account. No press releases shall be made without the written consent of the Customer. 
 
-We will not rent, sell or share your information with third parties. However, we may disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to: conform to the edicts of the law or comply with a legal process served on us; protect and defend the rights or property of RestFile.com, or visitors of Uploadc; identify persons who may be violating the law, the legal notice, or the rights of third parties; co-operate with the investigations of purported unlawful activities. 
+We will not rent, sell or share your information with third parties. However, we may disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to: conform to the edicts of the law or comply with a legal process served on us; protect and defend the rights or property of RestFiles.com, or visitors of Uploadc; identify persons who may be violating the law, the legal notice, or the rights of third parties; co-operate with the investigations of purported unlawful activities. 
 
 For your safety and protection, your credit card information is not stored on our servers. Our payment gateway providers, Authorize.net and PayPal, keep this information encrypted and secure on your behalf. 
 
-Third-party websites or services linked to RestFile.com are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. Uploadc is not responsible for the privacy practices of the third-party websites and companies. 
+Third-party websites or services linked to RestFiles.net are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. Uploadc is not responsible for the privacy practices of the third-party websites and companies. 
 
 You are solely responsible for safeguarding the secrecy of your password. 
 
-wallpapersbaby.com is not responsible if you volunteer personal information online that is accessible to the public. You may receive unsolicited messages from other parties or it may be used in a manner that violates the law, your personal privacy or your safety. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed. 
+restfil is not responsible if you volunteer personal information online that is accessible to the public. You may receive unsolicited messages from other parties or it may be used in a manner that violates the law, your personal privacy or your safety. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed. 
 
 If you are not a resident of the United States, you understand and agree that Uploadc stores and processes your information on computers located in the United States, any by providing any data to Uploadc, you consent to the transfer of such information to the United States. 
 
-In the event that wallpapersbaby.com is acquired or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of any change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Uploadc may not be able to control how your personal information is treated, transferred or used. 
+In the event that RestFiles.net is acquired or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of any change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Uploadc may not be able to control how your personal information is treated, transferred or used. 
 
-Although we strive to protect your personal information, wallpapersbaby.com cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
+Although we strive to protect your personal information, RestFiles.net cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
