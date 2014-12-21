@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyomworld.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621041443id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyomworld.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221222923id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,6 +10,9 @@
 > * * *
 > 
 > * * *
+> 
+>   
+> 
 > 
 > ## VyomWorld.com Privacy Policy
 > 
@@ -38,13 +41,6 @@
 > By e-mail: info [ at ] vyom.co.in 
 > 
 > We reserve the right to make changes to this policy. Any changes to this policy will be posted.
-
-* * *
-
-* * *
-
-  
-
 
 **[**Looking for Job? Upload your resume here for MAXIMUM Exposure!**](http://www.vyoms.com/dgm.asp)**
 
