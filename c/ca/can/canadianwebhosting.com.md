@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianwebhosting.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628002350id_/http%3A//www.canadianwebhosting.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianwebhosting.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221203041id_/http%3A//www.canadianwebhosting.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Canadian Web Hosting
 
@@ -75,4 +75,4 @@ We may disclose any subscriber information to law enforcement agencies without f
 
 Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
 
-_If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-888-821-7888 or via email at [privacy@canadianwebhosting.com](https://web.archive.org/web/20140628002350id_/http%3A//www.canadianwebhosting.com/company/privacy@canadianwebhosting.com). _
+_If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1-888-821-7888 or via email at [privacy@canadianwebhosting.com](https://web.archive.org/web/20141221203041id_/http%3A//www.canadianwebhosting.com/company/privacy@canadianwebhosting.com). _
