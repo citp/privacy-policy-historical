@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplehelix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133434id_/http%3A//simplehelix.com/company/policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplehelix.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221025815id_/http%3A//www.simplehelix.com/company/policies%23privacy) for the most accurate reproduction.*
 
 # Policies | Company | Simple Helix
 
@@ -30,9 +30,21 @@ Affiliate Program members may choose to withdraw their affiliate earnings to be 
 
 ### Cancellations
 
-Shared Only - If you wish to cancel your services, you must file your request via our cancellation form no less than eight days prior to your renewal date. If you submit cancellation of your services between eight and one day prior to your service renewal, you will also need to submit a support ticket to ensure billing of these services does not continue. Services canceled after the renewal date are not eligible for a refund.
+We want to be sure we've done everything we can to make your experience is a great one, so if you do want to cancel your account with us, we ask you to call us to do so.  This way we can handle your request and, if applicable, take any input you'd like to give us to improve service for our customers.   To cancel a service, please follow the instructions below:
 
-If you cancel your account and your payments still continue for any reasons such as 1) by fault of our staff 2) by fault of the credit card processor 3) by fault of any other payment collection company we are not responsible for any overdraft fees that are issued by your financial institution.
+\- US Customers: Please call our Billing Department at 866-963-0424.    
+\- UK Customers: Please call our Billing Department at 0-808-189-3147.   
+\- International Customers: Please provide the information below via our cancellation form regarding your request for cancellation.  
+    \- Cancellation Type: Immediate or End of Billing Cycle.  
+    \- Reason for Cancellation.   
+
+
+Please note that our billing department is available Monday through Friday from 8:00 AM to 5:00 PM CST.
+
+**NOTE: IT MAY TAKE UP TO SEVENTY-TWO (72) HOURS FOR THE CANCELLATION REQUEST TO BE FULLY PROCESSED.**  
+Costs and fees do not continue to accumulate after we receive the cancellation notice, but there are no pro-rated credits or refunds if the cancellation notice is received after the renewal date of the services in question (see Refunds/Account Termination below).
+
+If you wish to cancel your services, you must call us (or, for international customers, file your request via our cancellation form) no less than eight days prior to your renewal date. If you give us notice of cancellation of your services between eight and one day prior to your service renewal, you will also need to submit a support ticket to ensure billing of these services does not continue. Services canceled after the renewal date are not eligible for a refund. If you cancel your account and your payments still continue for any reasons such as 1) by fault of our staff 2) by fault of the credit card processor 3) by fault of any other payment collection company we are not responsible for any overdraft fees that are issued by your financial institution.
 
 ### Overage Charges
 
