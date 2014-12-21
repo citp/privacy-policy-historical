@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410131924id_/http%3A//www.orkin.com/globals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221055306id_/http%3A//www.orkin.com/globals/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,10 @@ The information stored in a cookie cannot be used to identify you personally unl
 You can choose whether to accept cookies by changing the settings of your browser. Typically, by accessing the browser’s help feature you can obtain information on how to prevent your browser from accepting all cookies or to notify you when a cookie is being sent. If you choose not to accept these cookies, your experience at our website and other websites may be diminished, and some features may not work as intended.
 
 Orkin, Inc. carefully selects third-party vendors to further assist us in better understanding your use of our website. A selected vendor will place unique cookies on your computer to collect information such as IP address, site navigation information within our web properties and email address (if you have provided it). The vendor does not collect your name and address, username, password or credit card information. The vendor analyzes the information it collects and returns it to us so that we may determine whether site improvements are needed. Any selected vendor is required to keep all information that it collects confidential and is prohibited from using data collected from our site for any other purposes.
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the Orkin.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+
+You can set preferences for how Google advertises to you using the Google’s [Ads Settings](http://www.google.com/settings/ads), and if you want to you can opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
 
 ### How does Orkin.com protect my personal data?
 
