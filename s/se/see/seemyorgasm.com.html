@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the seemyorgasm.com privacy policy that was archived on 2014-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330215809id_/http%3A//www.seemyorgasm.com/static/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seemyorgasm.com privacy policy that was archived on 2014-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221064625id_/http%3A//www.seemyorgasm.com/static/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>Privacy Policy at SeeMyOrgasm</title>
 	<meta name="keywords" content="privacy">
@@ -14,8 +15,8 @@
 	<link type="text/css" href="http://www.seemyorgasm.com/templates/seemyorgasm/js/jui/jquery-ui-1.9.1.custom.min.css" rel="stylesheet">
 	<link type="text/css" href="http://www.seemyorgasm.com/templates/seemyorgasm/js/cbox/colorbox.css" rel="stylesheet">
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-	<script type="text/javascript" src="http://www.seemyorgasm.com/templates/seemyorgasm/js/jui/jquery-ui-1.9.1.custom.min.js"></script>
-	<script type="text/javascript" src="http://www.seemyorgasm.com/templates/seemyorgasm/js/uniform/jquery.uniform.min.js"></script>
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+		<script type="text/javascript" src="http://www.seemyorgasm.com/templates/seemyorgasm/js/uniform/jquery.uniform.min.js"></script>
     <script type="text/javascript" src="http://www.seemyorgasm.com/templates/seemyorgasm/js/jquery.lavalamp.min.js"></script>
     <script type="text/javascript" src="http://www.seemyorgasm.com/templates/seemyorgasm/js/jquery.cookie.js"></script>
 	<script type="text/javascript" src="http://www.seemyorgasm.com/templates/seemyorgasm/js/slidingPanel/js/slide.js"></script>
@@ -23,6 +24,7 @@
 	<script type="text/javascript" src="http://www.seemyorgasm.com/templates/seemyorgasm/js/cbox/jquery.colorbox-min.js"></script>  
     <!-- core -->
     <script type="text/javascript" src="http://www.seemyorgasm.com/core/js/thumbchange.js"></script>	
+    <script type="text/javascript" src="http://www.seemyorgasm.com/templates/seemyorgasm/js/jquery-ui-1.8.16.min.js"></script>
     <!-- /core -->
     
     <script type="text/javascript">
@@ -63,11 +65,39 @@
                 $("#MCookie").attr("class","");
                 window.location = window.location.href;
             });
-
+            $('#addAsFriends').bind('click',function(){
+                var link = $(this).attr('href');
+                $.colorbox({
+                    href: link,
+                    width: '300px',
+                                    iframe: true,	
+                    height: '300px'
+                });
+                return false;
+            });
         });
 
 
     </script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('select[name=state]').selectFieldDependiences({
+                parentSelectName: 'country',
+                generateOptionsUrl: 'http://www.seemyorgasm.com/core/ajax/generate_geo_select_options.php',
+                generateOptionsMode: 'state',
+                selectedValue: $('select[name=state]').attr('data-selected')
+            });
+            $('select[name=city]').selectFieldDependiences({
+                parentSelectName: 'state',
+                generateOptionsUrl: 'http://www.seemyorgasm.com/core/ajax/generate_geo_select_options.php',
+                generateOptionsMode: 'city',
+                optionalSelectName: 'country',
+                selectedValue: $('select[name=city]').attr('data-selected')
+            });
+            $('select[name=country]').trigger('change');
+        });
+    </script>    
+    
 
 </head>
 <body>
@@ -91,29 +121,94 @@
         	<div class="logo"><a href="http://www.seemyorgasm.com"><img src="http://www.seemyorgasm.com/templates/seemyorgasm/images/logo.png" alt=""></a></div>
             <div class="showing" style="margin-top:-20px;">
             	<p>Content showing:</p>
-                <div class="notsafe"><a href="" id="FCookie">Female Masturbation</a></div>
-                <div class="notsafe"><a href="" id="MCookie">Male Masturbation</a></div>
-                <div class="notsafe"><a href="" class="active" id="ACookie">All Masturbation</a></div>
+                <div class="notsafe"><a href="" id="FCookie">Girls' Orgasms</a></div>
+                <div class="notsafe"><a href="" id="MCookie">Guys' Orgasms</a></div>
+                <div class="notsafe"><a href="" class="active" id="ACookie">All Orgasms</a></div>
             </div>
+                
             <div class="memberhere">
+                <div id="liveCounter" style="color: #fff;">Next free premium viewing in: <span id="timer">Now!</span></div>
+                <script type="text/javascript">
+                    function GetCount(ddate,iid){
+                        dateNow = new Date();	//grab current date
+                        amount = ddate.getTime() - dateNow.getTime();	//calc milliseconds between dates
+                        delete dateNow;
+
+                        if(amount < 0){
+                            document.getElementById(iid).innerHTML="Now!";
+                        }else{
+                            days=0;hours=0;mins=0;secs=0;out="";
+                            
+                            amount = Math.floor(amount/1000);//kill the "milliseconds" so just secs
+                            
+                            days=Math.floor(amount/86400);//days
+                            amount=amount%86400;
+
+                            hours=Math.floor(amount/3600);//hours
+                            amount=amount%3600;
+
+                            mins=Math.floor(amount/60);//minutes
+                            amount=amount%60;
+
+                            secs=Math.floor(amount);//seconds
+
+                            if(days != 0){out += days +" "+((days==1)?"day":"days")+", ";}
+                            out += (hours<=9?'0':'')+hours +" "+((hours==1)?"hour":"hours")+", ";
+                            out += mins +" "+((mins==1)?"min":"mins")+", ";
+                            out += secs +" "+((secs==1)?"sec":"secs")+", ";
+                            out = out.substr(0,out.length-2);
+                            document.getElementById(iid).innerHTML=out;
+
+                            setTimeout(function(){GetCount(ddate,iid)}, 1000);
+                        }
+                    }
+                    
+                    // input date format: new Date(year,month-1,day,hour,min,sec)
+                    var year = 2014;
+                    var month = 12;
+                    var day = 22;
+                    var startDate = new Date(year,month - 1,day,00,00,00);
+                    window.onload=function(){ GetCount(startDate,'timer'); };
+                    </script>
+                  <br>
            	  <p>Welcome to SeeMyOrgasm.com. If you love amateur sex, amateur masturbation and people having orgasms, prepare to have a blast. SeeMyOrgasm is different. We are very selective about the videos we post, only real men and women, real sex and real orgasms make the cut. Enjoy!</p>
                 <div class="become_member"><a href="http://join.seemyorgasm.com/signup/signup.php?nats=MC4wLjcuNDAuMC4wLjAuMC4w&amp;step=2" target="_blank"><img src="http://www.seemyorgasm.com/templates/seemyorgasm/images/become_member.png" alt=""></a></div>
             </div>
-            <div class="clear"></div>
+                        <div class="clear"></div>
         </div>
         <div class="topnav">
         	<ul>
-            	<li><a href="http://www.seemyorgasm.com">HOME</a></li>
-                <li><a href="http://www.seemyorgasm.com/most-recent/">new VIDEOS</a></li>
-                <li><a href="http://www.seemyorgasm.com/most-viewed/">most viewed</a></li>
-                <li><a href="http://www.seemyorgasm.com/top-rated/">top rated</a></li>
-                <li><a href="http://www.seemyorgasm.com/channels/">channels</a></li>
-                <li><a href="http://www.seemyorgasm.com/photos/">photos</a></li>
-                <li><a href="http://seemyorgasmcam.com" target="_blank">live cams</a></li>
-                <li><a href="http://www.socialsex.com/dating/hookup/84839/yanksmatab" target="_blank">dating</a></li>
-                <li><a href="http://masturbation101.com" target="_blank">toys</a></li>
-                <li><a href="http://join.seemyorgasm.com/signup/signup.php?nats=MC4wLjcuNDAuMC4wLjAuMC4w&amp;step=2" target="_blank" class="gopremium">go premium!</a></li>
-            </ul>
+            	<li><a href="http://www.seemyorgasm.com">Home</a></li>
+                <li>
+                    <a href="http://www.seemyorgasm.com/most-recent/">Videos</a>
+                    <ul>
+                        <li><a href="http://www.seemyorgasm.com/most-recent/">Newest</a></li>
+                        <li><a href="http://www.seemyorgasm.com/most-viewed/">Most Viewed</a></li>
+                        <li><a href="http://www.seemyorgasm.com/top-rated/">Top Rated</a></li>
+                        <li><a href="http://www.seemyorgasm.com/favorites/">Favorites</a></li>
+                        <li><a href="http://www.seemyorgasm.com/upload" class="upload">Upload</a></li>
+                        <li><a href="#">Mobile</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="http://www.seemyorgasm.com/photos/">Photos</a>
+                    <ul>
+                        <li><a href="http://www.seemyorgasm.com/photos/?setFilter=newest">Newest</a></li>
+                        <li><a href="http://www.seemyorgasm.com/photos/?setFilter=most-viewed">Most Viewed</a></li>
+                        <li><a href="http://www.seemyorgasm.com/photos/?setFilter=top-rated">Top Rated</a></li>
+                        <li><a href="http://www.seemyorgasm.com/favorites/">Favorites</a></li>
+                        <li><a href="http://www.seemyorgasm.com/upload" class="upload">Upload</a></li>
+                        <li><a href="#">Mobile</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://www.seemyorgasm.com/channels/">Categories</a></li>
+                <li><a href="http://seemyorgasmcam.com" target="_blank">Live Cams</a></li>
+                <li><a href="http://www.yanksencounters.com" target="_blank">Dating</a></li>
+                <li><a href="http://www.solotouch.com" target="_blank">Stories</a></li>
+                <li><a href="http://masturbation101.com" target="_blank">Toys</a></li>
+                <li><a href="http://www.seemyorgasm.com/members/">Community</a></li>
+                                    <li><a href="http://join.seemyorgasm.com/signup/signup.php?nats=MC4wLjcuNDAuMC4wLjAuMC4w&amp;step=2" target="_blank" class="gopremium">go premium!</a></li>
+                            </ul>
         </div>
     </div>
 </div>
@@ -135,7 +230,8 @@
     </div>
     <div class="graybox">        
                 
-        <div class="videosblock">PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
+        <div class="videosblock">
+            PLEASE READ THIS PRIVACY POLICY STATEMENT CAREFULLY. BY YOUR SUBSCRIPTION TO AND USE OF THIS SITE YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE WITH THE POLICIES AND PRACTICES SET FORTH IN THE PRESENT PRIVACY POLICY STATEMENT AND THAT YOU ASSENT TO THE USE OF ANY PERSONAL INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU AS DETAILED IN THIS PRIVACY POLICY STATEMENT.
 <br><br>
 IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATEMENT YOU SHOULD NOT SUBSCRIBE TO OR USE THIS SITE.
 <br><br>
@@ -191,14 +287,14 @@ This privacy policy may be changed, modified or edited at any time. It is the su
 <br><br>
 TERMS AND CONDITIONS OF MEMBERSHIP
 <br>
-Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions.            <div class="clear"></div>
+Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions.                        <div class="clear"></div>
         </div>
                 
         <div class="clear"></div>
     </div>
-    <div class="graybox">
-    	<div class="footerbanner">
-         <!-- BEGIN Left Ad Tag -->
+    <div class="graybox footer-banners">
+            	<div class="footerbanner">
+            <!-- BEGIN Left Ad Tag -->
        <!-- BEGIN EroAdvertising ADSPACE CODE 
 <script type="text/javascript" language="javascript" charset="utf-8" src="http://adspaces.ero-advertising.com/adspace/267366.js"></script>
 END EroAdvertising ADSPACE CODE -->
@@ -219,14 +315,13 @@ END EroAdvertising ADSPACE CODE -->
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.yankscash.com/www/delivery/ajs.php?zoneid=374&amp;target=_blank&amp;cb=42044655195&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20140330215809id_/http%253A//www.seemyorgasm.com/static/privacy.html"></script><noscript><a href='http://ads.yankscash.com/www/delivery/ck.php?n=a41df014&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.yankscash.com/www/delivery/avw.php?zoneid=374&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a41df014' border='0' alt='' /></a></noscript>  
+//]]>--></script><script type="text/javascript" src="https://ads.yankscash.com/www/delivery/ajs.php?zoneid=374&amp;target=_blank&amp;cb=14467952139&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141221064625id_/http%253A//www.seemyorgasm.com/static/privacy.html"></script><noscript><a href='http://ads.yankscash.com/www/delivery/ck.php?n=a41df014&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.yankscash.com/www/delivery/avw.php?zoneid=374&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a41df014' border='0' alt='' /></a></noscript>  
 
 
-<!-- END Left Ad Tag -->
-</div>
+<!-- END Left Ad Tag -->        </div>
         <div class="divider"><img src="http://www.seemyorgasm.com/templates/seemyorgasm/images/bannerdivider.png" alt=""></div>
         <div class="footerbanner">
-        <!-- BEGIN Middle Ad Tag -->
+            <!-- BEGIN Middle Ad Tag -->
 <!-- BEGIN EroAdvertising ADSPACE CODE 
 <script type="text/javascript" language="javascript" charset="utf-8" src="http://adspaces.ero-advertising.com/adspace/267368.js"></script>
  END EroAdvertising ADSPACE CODE -->
@@ -247,13 +342,12 @@ END EroAdvertising ADSPACE CODE -->
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.yankscash.com/www/delivery/ajs.php?zoneid=375&amp;target=_blank&amp;cb=38261092512&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20140330215809id_/http%253A//www.seemyorgasm.com/static/privacy.html"></script><noscript><a href='http://ads.yankscash.com/www/delivery/ck.php?n=a5c51ca6&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.yankscash.com/www/delivery/avw.php?zoneid=375&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5c51ca6' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ads.yankscash.com/www/delivery/ajs.php?zoneid=375&amp;target=_blank&amp;cb=14072665379&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141221064625id_/http%253A//www.seemyorgasm.com/static/privacy.html"></script><noscript><a href='http://ads.yankscash.com/www/delivery/ck.php?n=a5c51ca6&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.yankscash.com/www/delivery/avw.php?zoneid=375&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5c51ca6' border='0' alt='' /></a></noscript>
 
-<!-- END Middle Ad Tag -->
-</div>
+<!-- END Middle Ad Tag -->        </div>
         <div class="divider"><img src="http://www.seemyorgasm.com/templates/seemyorgasm/images/bannerdivider.png" alt=""></div>
         <div class="footerbanner">
-        <!-- BEGIN Right Ad Tag -->
+            <!-- BEGIN Right Ad Tag -->
 <!-- BEGIN EroAdvertising ADSPACE CODE 
 <script type="text/javascript" language="javascript" charset="utf-8" src="http://adspaces.ero-advertising.com/adspace/267370.js"></script>
 END EroAdvertising ADSPACE CODE -->
@@ -274,12 +368,11 @@ END EroAdvertising ADSPACE CODE -->
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.yankscash.com/www/delivery/ajs.php?zoneid=376&amp;target=_blank&amp;cb=55991073205&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20140330215809id_/http%253A//www.seemyorgasm.com/static/privacy.html"></script><noscript><a href='http://ads.yankscash.com/www/delivery/ck.php?n=a7fa537e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.yankscash.com/www/delivery/avw.php?zoneid=376&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a7fa537e' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ads.yankscash.com/www/delivery/ajs.php?zoneid=376&amp;target=_blank&amp;cb=74816360865&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20141221064625id_/http%253A//www.seemyorgasm.com/static/privacy.html"></script><noscript><a href='http://ads.yankscash.com/www/delivery/ck.php?n=a7fa537e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.yankscash.com/www/delivery/avw.php?zoneid=376&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a7fa537e' border='0' alt='' /></a></noscript>
 
 
-<!-- END Right Ad Tag -->
-</div>
-</div>
+<!-- END Right Ad Tag -->        </div>
+    </div>
         <div class="clear"></div>
     </div>
 
