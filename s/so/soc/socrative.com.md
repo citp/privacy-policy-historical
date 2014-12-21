@@ -1,60 +1,70 @@
-> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055952id_/http%3A//www.socrative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socrative.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221024618id_/http%3A//www.socrative.com/privacy.php) for the most accurate reproduction.*
 
-# Socrative | Privacy Policy
+# Socrative
 
-PLEASE NOTE THAT THE SITE, APP AND SERVICES ARE IN BETA RELEASE AND, THUS, THEIR FEATURES ARE SUBJECT TO CHANGE. WE MAY REVISE AND CHANGE THIS POLICY AND THE WAYS IN WHICH WE COLLECT, USE AND DISCLOSE PERSONAL INFORMATION AS WE AMEND THE SITE, APP AND SERVICES. PLEASE CHECK BACK HERE FREQUENTLY TO REVIEW THE LATEST VERSION OF THIS POLICY.
+Please note that the site, app and services are in beta release and, thus, their features are subject to change. We may revise and change this policy and the ways in which we collect, use and disclose personal information as we amend the site, app and services. Please check back here frequently to review the latest version of this policy.
 
 Socrative ("Socrative") values your privacy. At Socrative we provide educational software that teachers can use for quick polling, pre-made quizzes, and open response activities. We offer real-time questioning in order to provide teachers with visualizations of student understanding. Questions are also auto-graded and teachers can use our services to track student progress and grades. In this Privacy Policy ("Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our website www.socrative.com (the "Site"), users of our mobile application (the "App"), and users of the services available through our Site and App (collectively, the "Services").
 
-By visiting the Site, using or downloading the App, or using any of our Services, you agree that your personal information will be handled as described in this Policy. Your use of our Site, App, or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service (<http://www.socrative.com/terms>), including its applicable limitations on damages and the resolution of disputes. The Terms of Service are incorporated by reference into this Policy.
+By visiting the Site, using or downloading the App, or using any of our Services, you agree that your personal information will be handled as described in this Policy. Your use of our Site, App, or Services, and any dispute over privacy, is subject to this Policy and our Terms of Service (http://www.socrative.com/terms), including its applicable limitations on damages and the resolution of disputes. The Terms of Service are incorporated by reference into this Policy.
 
-If you are a parent or teacher of a child under thirteen years old, please [click here](http://www.socrative.com/COPPA-policy) (<http://www.socrative.com/COPPA-policy>) to review our COPPA Privacy Policy, which contains important information for parents about how we collect, use, and disclose the personal information we collect from children under thirteen years old.
+If you are a parent or teacher of a child under thirteen years old, please click here (http://www.socrative.com/COPPA-policy) to review our COPPA Privacy Policy, which contains important information for parents about how we collect, use, and disclose the personal information we collect from children under thirteen years old.
 
 #### What Information Do We Collect About You and Why?
 
 We may collect information about you directly from you and from third parties, as well as automatically through your use of our Site or Services.
 
-Information We Collect Directly From You.
+##### Information We Collect Directly From You.
 
-  * _Teachers._ Certain areas and features of our Site, App, and Services may require registration. To register, teachers must provide an email and password. We also may collect additional optional information from you, including first name, last name, primary role, what you teach, and where do you teach, though you are not required to provide us with this information. If you make a purchase on our Site or App, you must provide your e-mail address and password, credit card information, and name on card.
-  * _Students._ We do not require students to submit registration information to use the Socrative Site, App or Service. To log on, students simply enter their unique classroom ID, provided by a teacher. However, we may collect a child's name and other information where directed by the child's teacher. In such cases, we do not use the child's personal information for our own commercial purposes.
+Teachers. Certain areas and features of our Site, App, and Services may require registration. To register, teachers must provide an email and password. We also may collect additional optional information from you, including first name, last name, primary role, what you teach, and where do you teach, though you are not required to provide us with this information. If you make a purchase on our Site or App, you must provide your e-mail address and password, credit card information, and name on card.
 
+Students. We do not require students to submit registration information to use the Socrative Site, App or Service. To log on, students simply enter their unique classroom ID, provided by a teacher. However, we may collect a child's name and other information where directed by the child's teacher. In such cases, we do not use the child's personal information for our own commercial purposes.
 
+##### Information We Collect Automatically.
 
-Information We Collect Automatically. We may automatically collect the following information about a child’s use of our Site, App, or Services through cookies and other technologies: domain name; browser type and operating system; web pages viewed; links clicked; the length of time spent on our Site or App; the length of time our Services are used; Google Analytics statistics; the referring URL, or the webpage that led a user to our Site; language information; device name and model; operating system type, name, and version; and activities within our Site and App. We may also collect IP address, device identifier or a similar unique identifier from users of our App and Site, including children; we only use such identifiers to support the internal operations of our Site and App and do not use such identifiers to collect information about users outside of our Site or App. We may also collect location information from teacher users of our app and may combine the information we automatically collect from teachers with the information we collect directly.
+We may automatically collect the following information about a child’s use of our Site, App, or Services through cookies and other technologies: domain name; browser type and operating system; web pages viewed; links clicked; the length of time spent on our Site or App; the length of time our Services are used; Google Analytics statistics; the referring URL, or the webpage that led a user to our Site; language information; device name and model; operating system type, name, and version; and activities within our Site and App. We may also collect IP address, device identifier or a similar unique identifier from users of our App and Site, including children; we only use such identifiers to support the internal operations of our Site and App and do not use such identifiers to collect information about users outside of our Site or App. We may also collect location information from teacher users of our app and may combine the information we automatically collect from teachers with the information we collect directly.
 
 #### How We Use Your Information
 
 We use the information that we gather about you for the purposes such as the following:
 
-  * To provide our Services, to communicate with teacher users about your use of our Services, to respond to inquiries, and for other customer service purposes.
-  * To provide students and teachers with information and reports about student performance and use of the Site, App, and Services.
-  * To tailor the content and information that we may send or display to users, to offer personalized help and instructions, and to otherwise personalize your experiences while using the Site, App, or Services.
-  * For marketing and promotional purposes. We may use information collected from teacher users, to send such users you news and newsletters, special offers, and promotions, or to otherwise contact such users about products or information we think may be of interest. We will not send marketing or promotional materials to student users.
-  * To better understand how users access and use our Site, App, and Services, on an aggregated or de-identified basis, in order to improve our Site, App, and Services and respond to user desires and preferences, and for other research and analytical purposes.
+To provide our Services, to communicate with teacher users about your use of our Services, to respond to inquiries, and for other customer service purposes.
 
+To provide students and teachers with information and reports about student performance and use of the Site, App, and Services.
 
+To tailor the content and information that we may send or display to users, to offer personalized help and instructions, and to otherwise personalize your experiences while using the Site, App, or Services.
+
+For marketing and promotional purposes. We may use information collected from teacher users, to send such users you news and newsletters, special offers, and promotions, or to otherwise contact such users about products or information we think may be of interest. We will not send marketing or promotional materials to student users.
+
+To better understand how users access and use our Site, App, and Services, on an aggregated or de-identified basis, in order to improve our Site, App, and Services and respond to user desires and preferences, and for other research and analytical purposes. 
 
 #### How We Share Your Information
 
 We do not sell your personal information. Generally, we may disclose the personal information that we collect to provide our Services, to comply with the law, and to protect Socrative and other users of our Services. For example, we may share the personal information we collect as follows:
 
-  * Service Providers. We may disclose the information we collect from you to third-party vendors, service providers, contractors or agents who perform functions on our behalf.
-  * Business Transfers. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company.
-  * In Response to Legal Process. We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process.
-  * To Protect Us and Others. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which Socrative is involved.
-  * Teachers and Other Users. Teachers are able to provide students with quizzes and other educational exercises, as well as receive grades for those assignments, through the Site, App, or Services. As part of this, teachers can see information about a student’s use of the Services, including their performance on certain tasks, assignments, and other activities.
-  * Aggregate and De-Identified Information. We may share aggregate or de-identified information about users with third parties for marketing, advertising, research, or similar purposes.
+Service Providers. We may disclose the information we collect from you to third-party vendors, service providers, contractors or agents who perform functions on our behalf.
 
+Business Transfers. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company.
 
+In Response to Legal Process. We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process.
+
+To Protect Us and Others. We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which Socrative is involved.
+
+Teachers and Other Users. Teachers are able to provide students with quizzes and other educational exercises, as well as receive grades for those assignments, through the Site, App, or Services. As part of this, teachers can see information about a student’s use of the Services, including their performance on certain tasks, assignments, and other activities.
+
+Aggregate and De-Identified Information. We may share aggregate or de-identified information about users with third parties for marketing, advertising, research, or similar purposes.
 
 #### Our Use of Cookies and Other Tracking Mechanisms
 
 We use cookies and other tracking mechanisms to track information about your use of our Site, App, or Services. We may combine this information with other personal information we collect from you. Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Some cookies allow us to make it easier for you to navigate our Site and Services, while others are used to enable a faster log-in process or to allow us to track your activities at our Site and Service.
 
-Third-Party Cookies. We may also engage third parties, such as Google Analytics, to track and analyze data from our Site, App, or Services. We use the data collected by such third parties to help us administer and improve the quality of our Site, App, and Services and to analyze Site and App usage. These third parties are not permitted to use the information collected on our behalf, except to help us conduct and improve our business.
+##### Third-Party Cookies. 
 
-Disabling Cookies. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function.
+We may also engage third parties, such as Google Analytics, to track and analyze data from our Site, App, or Services. We use the data collected by such third parties to help us administer and improve the quality of our Site, App, and Services and to analyze Site and App usage. These third parties are not permitted to use the information collected on our behalf, except to help us conduct and improve our business.
+
+##### Disabling Cookies. 
+
+Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Site who disable cookies will be able to browse certain areas of the Site, but some features may not function.
 
 #### Third-Party Analytics
 
@@ -82,6 +92,4 @@ If you have questions about the privacy aspects of our Services or would like to
 
 #### Changes to This Policy
 
-This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at (<http://www.socrative.com/privacy-policy>). If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
-
-**Effective Date:** March 21, 2014
+This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site, at [(http://www.socrative.com/privacy.php)](https://web.archive.org/privacy.php). If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
