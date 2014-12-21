@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407034420id_/http%3A//amenclinics.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221184637id_/http%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
 
-# Amen Clinics | Brain Imaging, Therapy, and Treatments
+# Amen Clinic's Privacy Policy - Amen Clinics
 
 Amen Clinics, Inc. values the privacy of all of our readers. We take very seriously the need to respect and protect your privacy and the security of any information you may share with us. We’ve built a site that allows you to control how much information you give us and how that information is used. This privacy policy (“Policy”) describes the data collection, use, and disclosure practices of Amen Clinics, Inc. in connection with the Web Site, www.AmenClinics.com (the “Web Site” or “Site”).
 
@@ -18,14 +18,14 @@ We collect two types of information on AmenClinics.com. The first, “Personal I
 
 AmenClinics.com will collect information from you when you interact with us in the following ways:
 
-**a) Cookies**  
-
+**a) Cookies**
 
 As with most sites on the Internet, when you visit our Site, AmenClinics.com may place a “cookie” on your computer that enables us to give you a better experience on the Site.
 
     * Internet cookies are small text files that save data about you as an individual visitor and help AmenClinics.com deliver personalized content and other services in a manner convenient to you. When you first register or sign in, AmenClinics.com places your member ID and e-mail address into a cookie file.
     * If you select “Remember Me” when signing up or signing in, AmenClinics.com also places your e-mail address and password into another, separate cookie file.
     * Many Web browsers are automatically set to accept cookies. You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer. Please note, however, that rejecting cookies while visiting AmenClinics.com may result in certain parts of the Site not operating correctly or as efficiently as they would with cookies. For example, if you are a AmenClinics.com Member without a cookie, you may need to enter your username and password each time you visit the Site in order to see your AmenClinics.com calculation. If you allow cookies, it streamlines your user experience on AmenClinics.com and keeps track of your preferences.
+
 **b) IP Address**
 
 An “IP Address” is actually a number that is automatically assigned to your computer when you use the Internet. In some cases, your IP address stays the same from session to session; but if you use a consumer Internet access provider (such as Earthlink or AT&T), your IP address probably varies from session to session. We track IP addresses solely in conjunction with session cookies to analyze our Web page flow.
@@ -110,7 +110,9 @@ AmenClinics.com is a wholly owned subsidiary of Amen Clinics. Inc. These are our
 
 AmenClinics.com services and Web Sites are not directed at children. They are designed for individuals who are 20 years of age or older. We will not request or knowingly collect information from an individual under age 20.
 
-If you are a parent and you’re worried about your children’s activities or their privacy on our Site, we encourage you to e-mail us at [privacy@amenclinic.com](mailto:privacy@amenclinic.com) [privacy@amenclinic.com](mailto:privacy@amenclinic.com).
+If you are a parent and you’re worried about your children’s activities or their privacy on our Site, we encourage you to e-mail us at 
+
+[privacy@amenclinic.com](mailto:privacy@amenclinic.com).
 
   10. ### A Note to Non-U.S. Users
 
@@ -133,3 +135,6 @@ Newport Beach, CA 92660 USA
 (888) 564-2700 
 
 
+
+
+## FREE BRAIN HEALTH TIPS AND TOOLS
