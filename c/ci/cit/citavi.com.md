@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citavi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625203352id_/http%3A//citavi.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citavi.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221074010id_/http%3A//www.citavi.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Citavi Swiss Academic Software
 
@@ -20,8 +20,38 @@ Addresses are sensitive personal information, and we treat them as such. All of 
 
 Erase All Traces.
 
-If you want us to delete the personal information we do have, just click [here](https://web.archive.org/remove).  
-  
+If you want us to delete the personal information we do have, just click [here](https://web.archive.org/remove).
+
+We analyze website visits statistically without collecting information that is personally identifiable.
+
+We use the open source program [Piwik](http://piwik.org/) to do this. The user information that Piwik collects makes it impossible to personally identify you, since the address of your computer or mobile device is saved anonymously. Our purpose in collecting this information is to improve our website. To this end, we also use cookies. Cookies are small text files that are stored on your computer or mobile device. We can use cookies to determine if your computer or mobile device has already communicated with our webpages. We delete the raw data collected by Piwik every three months.
+
+If you don't want us to collect information about your visits to our website, you can opt out. When you do so, a cookie that prevents Piwik from saving information will be saved in your browser. For technical reasons, this cookie will only work in the browser in which it was orginally saved. If you delete cookies in this browser or use another browser or device, you will need to opt out again. To opt out, clear the checkbox below.
+
+Details:
+
+All Piwik Cookies start with these characters: __pk_ref_ ,  __pk_cvar_ ,  __pk_id_  und  __pk_ses_. If you opt out, you will see the following cookie  _piwik_ignore_.
+
+Piwik saves the following information, which is deleted every three months at the latest:
+
+  * The date and time you visited the page
+  * The title of the page visited (Page Title)
+  * The URL of the page visited (Page URL)
+  * The URL of the page that was visited before visiting the current page (Referrer URL)
+  * Files you clicked or downloaded (Download)
+  * Clicked links that lead to another domain (Outlink)
+  * The time the server needed to load the page (Page speed)
+  * Your IP address saved in an anonymous format
+  * Your location: country, region, city (Geolocation)
+  * The time of the visit in your time zone
+  * The browser you use (User-Agent)
+  * The browser language (Accept-Language)
+  * Your screen resolution
+
+
+
+| 
+
 Excerpt from the [End User License Agreement](https://web.archive.org/eula)     
 
 | 
