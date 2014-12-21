@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardoll.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624234457id_/http%3A//www.stardoll.com/en/help/termsOfUse.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardoll.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221031507id_/http%3A//www.stardoll.com/en/help/termsOfUse.php%23privacy) for the most accurate reproduction.*
 
 # Membership Agreement - Stardoll | English
 
@@ -10,7 +10,7 @@
 
 ##### 1\. Read this first!
 
-These conditions represent an Agreement between you and Stardoll. Stardoll produces and operates www.stardoll.com as well as various mobile apps. The website is called the “Service” in this Agreement. The website is intended for the enjoyment of children aged 13-18. Many of the mobile applications are directed to teenagers, and some are directed to a general audience of all ages. Because younger children are attracted to the Service, Stardoll takes steps described below to secure the safety of and protect the privacy of potential younger members. 
+These conditions represent an Agreement between you and Stardoll. Stardoll produces and operates www.stardoll.com as well as various mobile apps. The website is called the “Service” in this Agreement. This agreement refers to the website. Please find our mobile application privacy policy [here](http://www.stardoll.com/en/help/termsOfUseMobile.php?). The website is intended for the enjoyment of children aged 13-18. Many of the mobile applications are directed to teenagers, and some are directed to a general audience of all ages. Because younger children are attracted to the Service, Stardoll takes steps described below to secure the safety of and protect the privacy of potential younger members. 
 
 Regardless of the user’s age, Stardoll requires that all users agree to these Membership Terms and, where a user cannot in its own right enter into this Agreement, that their parent also read and accept these conditions since they constitute a legally binding Agreement. For this reason, it is very important that you go through the conditions in this Agreement together with your parents so that you know what you can and cannot do on the Stardoll Service. Ask your parents to go through the conditions with you carefully and to help you register. When you register, activate your account and accept this Agreement, you become a member. This means that you accept the conditions below and that you confirm that your parents have also read and accepted the conditions, if you are under the age of being eligible to enter into this Agreement in your jurisdiction. By becoming a member you, or a parent or guardian on your behalf, are promising and agreeing also to follow and accept the other rules which Stardoll publishes on its Service. This Agreement also applies when you purchase products on Stardoll's Service; see below under “Terms of Sale.” If you don't accept this Agreement, you should not register as a member on Stardoll. 
 
@@ -43,7 +43,7 @@ For the security of our members Stardoll retains the right to require the identi
 
 ##### Privo's Privacy Assurance Program
 
-Stardoll AB (http://www.stardoll.com) is a participant in the PRIVO Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Stardoll adheres to strict information collection, use and disclosure requirements. PRIVO is an independent, third party organization committed to safeguarding children's personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. The seal displayed on this page indicates that Stardoll has established privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at privacy@stardoll.com. If you have further concerns after you have contacted Stardoll, you can contact PRIVO directly at privacy@privo.com.
+Stardoll AB (http://www.stardoll.com) is a Member of the PRIVO’s PRIVO-Cert™ Safe Harbor Certification Program (“the Program”). As a participating member in the Program, Stardoll AB adheres to the strict information collection, use and disclosure requirements set forth by the Program. PRIVO is an independent, third-party organization committed to safeguarding children's personal information collected online. PRIVO aims to help parents and their children exercise control over personal information while exploring the Internet. The PRIVO certification seal posted on this page indicates that Stardoll AB has established COPPA compliant privacy practices and has agreed to submit to PRIVO’s oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at privacy@stardoll.com. If you have further concerns after you have contacted Stardoll, you can contact PRIVO directly at privacy@privo.com.
 
 [](http://privo.com/privo-site-validation/?company=361)
 
@@ -185,7 +185,20 @@ We accept returns for products you have purchased that are not virtual products 
 
 ##### 18\. Cancellation of monthly payments
 
-To cancel a monthly payment please click [info@stardoll.com](http://ox.stardoll.com/www/delivery/ck.php?bannerid=39251%3Ehere%3C/a%3E%20and%20click%20the%20%E2%80%9CCancel%20monthly%20refill%E2%80%9D%20link%20in%20the%20%E2%80%9CYou%20are%20a%20Superstar%E2%80%9D%20box.%3C/p%3E%3Ch5%3E19.%20Delivery%20and%20errors%3C/h5%3E%3Cp%3EWhen%20Stardoll%20cannot%20deliver%20products%20that%20have%20been%20ordered%20in%20the%20desired%20amounts,%20we%20reserve%20the%20right%20to%20supply%20equivalent%20substitute%20products%20or%20to%20remove%20that%20portion%20of%20the%20order%20which%20cannot%20be%20delivered.%20We%20cannot%20be%20held%20accountable%20for%20orders%20which%20are%20delayed%20or%20which%20cannot%20be%20delivered%20because%20of%20circumstances%20beyond%20Stardoll%27s%20control%20\(for%20example%20but%20not%20limited,%20natural%20disasters,%20wars,%20civil%20disturbances,%20the%20exercise%20of%20public%20authority,%20terrorism,%20fires,%20storms,%20floods,%20explosions,%20strikes,%20work%20stoppages%20and%20other%20labor%20conflicts,%20breakdowns%20in%20equipment,%20services%20or%20transport%20or%20other%20such%20causes\).%3C/p%3E%3Ch5%3E20.%20General%3C/h5%3E%3Cp%3EThis%20Service%20is%20operated%20by%20Stardoll%20AB%20from%20its%20office%20in%20Stockholm,%20Sweden.%3Cbr%20/%3EStardoll%20AB%20%3Cbr%20/%3ELuntmakargatan%2026%20%3Cbr%20/%3ES%20111%2037%20Stockholm%20%3Cbr%20/%3ESweden%20%3Cbr%20/%3EE-mail:%20%3Ca%20href=)  
+To cancel a monthly payment please click [here](http://ox.stardoll.com/www/delivery/ck.php?bannerid=39251) and click the “Cancel monthly refill” link in the “You are a Superstar” box.
+
+##### 19\. Delivery and errors
+
+When Stardoll cannot deliver products that have been ordered in the desired amounts, we reserve the right to supply equivalent substitute products or to remove that portion of the order which cannot be delivered. We cannot be held accountable for orders which are delayed or which cannot be delivered because of circumstances beyond Stardoll's control (for example but not limited, natural disasters, wars, civil disturbances, the exercise of public authority, terrorism, fires, storms, floods, explosions, strikes, work stoppages and other labor conflicts, breakdowns in equipment, services or transport or other such causes).
+
+##### 20\. General
+
+This Service is operated by Stardoll AB from its office in Stockholm, Sweden.  
+Stardoll AB   
+Luntmakargatan 26   
+S 111 37 Stockholm   
+Sweden   
+E-mail: [info@stardoll.com](mailto:info@stardoll.com)  
 Fax number: USA (+1 - 212 - 208 4566)  
 Fax number: Great Britain (+44 - 20 - 7990 9907)  
 Fax number: Argentina (+54 - 11 - 40321600)  
