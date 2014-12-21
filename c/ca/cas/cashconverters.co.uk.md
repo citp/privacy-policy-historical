@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashconverters.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628231916id_/http%3A//www.cashconverters.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashconverters.co.uk privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221063158id_/http%3A//www.cashconverters.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cash Converters
 
