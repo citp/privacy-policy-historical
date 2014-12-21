@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingwithoutablog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083059id_/http%3A//www.bloggingwithoutablog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingwithoutablog.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221142844id_/http%3A//www.bloggingwithoutablog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogging Without A Blog
 
