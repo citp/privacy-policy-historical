@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsportsgo.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606080709id_/http%3A//ts.data.foxsports.com/fsdms-static/manual/fsdms_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsportsgo.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221041847id_/http%3A//ts.data.foxsports.com/fsdms-static/manual/fsdms_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
