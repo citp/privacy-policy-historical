@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outlook-apps.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622232805id_/http%3A//www.outlook-apps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outlook-apps.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221051450id_/http%3A//www.outlook-apps.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
 This document applies to all versions and instances of:  
-\- All DS Development SRL products, including but not limited to Easy Mail Merge, Email Address Collector, Bells & Whistles, Auto Reply Manager, QuickList, Weight Diet for Outlook;  
-\- the “Outlook-Apps.com” web site that you are currently visiting.
+– All DS Development SRL products, including but not limited to Easy Mail Merge, Email Address Collector, Bells & Whistles, Auto Reply Manager, QuickList, Weight Diet for Outlook;  
+– the “Outlook-Apps.com” web site that you are currently visiting.
 
 **OVERVIEW**
 
@@ -18,9 +18,9 @@ In order to protect your privacy and security, we ensure that we never store or 
 
 DS DEVELOPMENT (Outlook-Apps.com) is not in the business of selling your information. DS DEVELOPMENT uses the information collected about you for the following purposes:
 
-\- the information automatically logged (i.e. your IP address, your operating system and browser type, etc) each time you access this web site is not used by DS DEVELOPMENT for any particular purpose. DS DEVELOPMENT’s web server simply automatically logs that information each time you access this web site;  
-\- DS DEVELOPMENT uses the information submitted by you when requesting information or customer support to respond to your request for information or customer support or for the purposes specified at the time you submit the information. If you choose to join any of the mailing lists offered by DS DEVELOPMENT, DS DEVELOPMENT will use the information stored about you to send mailings to you;  
-\- DS DEVELOPMENT uses the information in any e-mail received from you to respond to your e-mail or to improve DS DEVELOPMENT’s service to you.
+– the information automatically logged (i.e. your IP address, your operating system and browser type, etc) each time you access this web site is not used by DS DEVELOPMENT for any particular purpose. DS DEVELOPMENT’s web server simply automatically logs that information each time you access this web site;  
+– DS DEVELOPMENT uses the information submitted by you when requesting information or customer support to respond to your request for information or customer support or for the purposes specified at the time you submit the information. If you choose to join any of the mailing lists offered by DS DEVELOPMENT, DS DEVELOPMENT will use the information stored about you to send mailings to you;  
+– DS DEVELOPMENT uses the information in any e-mail received from you to respond to your e-mail or to improve DS DEVELOPMENT’s service to you.
 
 **SHARED INFORMATION**
 
