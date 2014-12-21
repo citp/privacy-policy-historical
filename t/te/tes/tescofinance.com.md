@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescofinance.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531052901id_/http%3A//www.tescobank.com/security/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescofinance.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221221657id_/http%3A//www.tescobank.com/security/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Tesco Bank
 
