@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towleroad.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626062208id_/http%3A//www.towleroad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towleroad.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221175624id_/http%3A//www.towleroad.com/privacy.html) for the most accurate reproduction.*
 
 # Gay Blog | Towleroad: More than gay news for more gay men.
 
