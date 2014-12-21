@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelearnings.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522002611id_/http%3A//www.lovelearnings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelearnings.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221010638id_/http%3A//www.lovelearnings.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
