@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterprisecarsales.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231638id_/http%3A//www.enterprisecarsales.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisecarsales.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221040329id_/http%3A//www.enterprisecarsales.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -130,7 +130,7 @@ Enterprise Holdings complies with the U.S. – E.U. & Swiss Safe Harbor Framewor
 
 ## PRIVACY CONTACTS BY COUNTRY:
 
-North America: (877) 858-3884   
+North America: (877) 858-3884  
 Enterprise, Internet Privacy Questions, 600 Corporate Park Drive, St. Louis, MO 63105.
 
 Canada - Provincial Contacts:
