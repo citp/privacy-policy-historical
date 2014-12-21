@@ -1,43 +1,39 @@
-> *The following text is extracted and transformed from the nvish.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029010211id_/http%3A//www.nvish.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvish.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221164831id_/http%3A//www.atherio.com/privacy-security) for the most accurate reproduction.*
 
-# NVISH | IT Outsourcing Company and Software Development Solutions
+# Privacy and Security Policy - Atherio
 
-**Our privacy policy is straightforward:**  
-NVISH is committed to protecting and respecting your privacy. Our privacy policy is straightforward - We do not collect/store your personal information, when you visit our website(s), unless you volunteer to provide that information to us. 
+## Our Privacy Policy is Transparent
 
-The following provides an overview of how we protect your privacy during your visit, and handle the information we gather.
+Atherio is committed to protecting and respecting your privacy. Our privacy policy is transparent, we do not collect/store your personal information, when you visit our website(s), unless you volunteer to provide that information to us.
 
-Information on our website(s) is gathered in two ways: (1) Information stored automatically (for example, through our site's technology); and (2) Information collected with consent (for example, when you voluntarily provide information).
+The following provides an overview of how we protect your privacy during your visit and handle the information we gather.
 
-**Information Collected and Stored Automatically**
+Information on our website(s) is gathered in two ways:  
 
-We collect information from you, when you visit our website(s), to browse, read, or download information. Even if you do not register for any of our services, we gather and store certain information about your visit automatically. We use your IP address to help diagnose problems with our server, and/or to administer our Web site. This helps us identify the pages which our users are visiting. We do not link IP addresses to personally identifiable information. This implies we track users’ sessions but not the users. The users remain anonymous.
 
-The kind of information that we may gather automatically includes the type of browser you are using (e.g. Netscape, Internet Explorer), the type of Operating System you are using (e.g. Windows '98 or Mac OS) or the domain name of your Internet Service Provider (e.g. AOL, Satyam Online, Comcast, VSNL, etc.), the date and time of your visit, and the pages you visit. We utilize this non-personally identifiable information to primarily improve our website(s) design, content, and browsing experience.
+  * Information stored automatically (for example, through our site's technology); and
+  * Information collected with consent (for example, when you voluntarily provide information).
 
-This site may contain links to other sites. NIVSH Group is not responsible for the privacy practices or the content of such Web sites.
 
-**Personal Information Collected**
 
-We collect your personal information, only if you provide it voluntarily. The types of personally identifiable information that may be collected include name, address, E-mail address, and information about your interests in using various services. For example, you might submit your name and e-mail address to subscribe to any of our services, or to ask for any quote, or to send us your feedback. The information you provide is not given or sold to any private organizations or private persons.
+## Information Collected and Stored Automatically
 
-**Contacting us**
+We collect information from you, when you visit our website(s), to browse, read, or download information. Even if you do not register for any of our services, we gather and store certain information about your visit automatically. We use your IP address to help diagnose problems with our server and/or to administer our web site. This helps us identify the pages which our users are visiting. We do not link IP addresses to personally identifiable information. This implies we track users' sessions but not the users. The users remain anonymous.
 
-If you have any questions about this privacy statement, NVISH's information practices, or your dealings with NVISH, you can contact us using this form, or write to us at: this form, or write to us at:
+The kind of information that we may gather automatically includes the type of browser you are using (e.g. Netscape, Internet Explorer), the type of Operating System you are using (e.g. Windows 98, XP, Windows Vista, Windows 7 or Mac OS) or the domain name of your Internet Service Provider (e.g. AOL, Comcast, VSNL, etc.), the date and time of your visit and the pages you visit. We utilize this non-personally identifiable information to primarily improve our website(s) design, content and your browsing experience.
 
-NVISH Solutions INC  
-DLF Info City  
-First Floor, Tower E  
-Chandigarh Technology Park  
-Chandigarh 160101  
-Email: [info@nvish.com](mailto:info@nvish.com)
+This site may contain links to other sites. Atherio is not responsible for the privacy practices or the content of such web sites.
 
-With respect to our privacy practices as a financial institution and our compliance with this Privacy Policy, NVISH is regulated by the Panchkula Court. 
+## Personal Information Collected with Consent
 
-[Contact Us](https://web.archive.org/web/20101029010211id_/http%3A//www.nvish.com/company/contact_us.php), to know more about how we can meet your specific requirements.
+We collect your personal information, only if you provide it voluntarily. The types of personally identifiable information that may be collected include name, address, E-mail address and information about your interests in using various services. For example, you might submit your name and e-mail address to subscribe to any of our services, or to ask for a quote, or to send us your feedback. The information you provide is not given or sold to any private organizations or person.
 
-Back to top
+## Contact Us
 
-Get in Touch!
+If you have any questions about this privacy statement, Atherio's information practices, or your dealings with Atherio, you can Contact Us at:
 
-_All fields marked with * are mandatory._
+Atherio Inc.  
+6701 Democracy Blvd.  
+Suite 300  
+Bethesda, MD 20817  
+Email: [info@atherio.com](mailto:info@atherio.com)
