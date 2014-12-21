@@ -1,234 +1,333 @@
-<!--The following is the downloaded HTML source of the rotring.com privacy policy that was archived on 2014-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140401131457id_/http%3A//www.rotring.com/en/content/2-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rotring.com privacy policy that was archived on 2014-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221141730id_/http%3A//www.rotring.com/en/content/2-legal-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" class="no-js" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Privacy - Rotring</title>
+	<title>Privacy Policy - Rotring</title>
 		<meta name="generator" content="PrestaShop">
-	<meta name="author" content="Axome">
+	<meta name="author" content="Rotring">
 	<meta name="robots" content="index,follow">
-		<link rel="shortcut icon" type="image/x-icon" href="http://www.rotring.com/img/favicon.ico?1391683034">
-	<meta name="viewport" content="width=device-width">
-	<script type="text/javascript" async="" src="//mmtro.com/tro.js"></script><script>
+			<link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1401699531">
+		<meta name="viewport" content="width=1200" id="layout_viewport">
+	
+	<script type="text/javascript" async="" src="//mmtro.com/tro.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+		// No responsive viewport for devices larger than 768px
+		var mvp = document.getElementById('layout_viewport');
+		var mvp_initial = mvp.getAttribute('content');
+		var mvp_get_viewport = function(){ var e = window, a = 'inner'; if (!('innerWidth' in window )) { a = 'client'; e = document.documentElement || document.body; } return { width : e[ a+'Width' ] , height : e[ a+'Height' ] }; };
+		var mvp_update = function(){ mvp.setAttribute('content', mvp_get_viewport().width >= 768 ? 'width=1200' : mvp_initial); };
+		window.onresize = function(){ mvp_update(); };
+		mvp_update();
+	</script>
+	
+	<script>
 		var baseDir = 'http://www.rotring.com/';
+		var baseUri = 'http://www.rotring.com/';
 		var static_token = 'b78984768d8eeecc7db12e866147bec0';
 		var token = '30456456a7a494f70e4965d4a706b817';
 		var priceDisplayPrecision = 2;
 		var priceDisplayMethod = 0;
 		var roundMode = 2;
 	</script>
-	<link href="/themes/axome/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-					<link href="http://www.rotring.com/themes/axome/cache/85a10480d9b0a9dca10d212402fff80a_all_1388391159.css" rel="stylesheet" media="all">
-								<script src="http://www.rotring.com/themes/axome/cache/a86b159b84fb8a6aab692888a2466d36_1388391159.js"></script>
+					<link href="http://www.rotring.com/themes/axome/cache/0f148d3ff3e465e36bcb57ab0f65a385_all_1418832170.css" rel="stylesheet" media="all">
+				
+	
+	<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<script src="/themes/axome/js/lib/respond.min.js"></script>
+	<script src="/themes/axome/js/lib/rem.min.js"></script>
+	<![endif]-->
+					<script src="http://www.rotring.com/themes/axome/cache/51ff95397a9a14298883e2ae100f4bb6_1418832170.js"></script>
 				<script type="text/javascript">
 	//<![CDATA[
 	jQuery(document).ready(function () {
-		var display = true;
-		
-		/*
-		if (jQuery('#index').length)
-		{
-			if (jQuery('#moodular li a').length == 0 || jQuery('#moodular li a').length != jQuery('#moodular li').length)
-				display = false;
-		}
-		*/
-
 		if (jQuery('#moodular').length) {
-			if (display)
-			{
-				jQuery('#moodular').moodular({
-					dispTimeout: 5000,
+			jQuery('#moodular')
+				.moodular({
+					timer: 5000,
 					speed: 500,
-					effects: 'left',
-					controls: 'index buttons',
-					bt_prev : jQuery('#moodular-prev'),
-	       			bt_next : jQuery('#moodular-next'),
-	       			indexElement : jQuery('#moodular-index'),
-					percentSize: 1
+					effects: 'fade resize',
+					controls: 'pagination buttons stopOnMouseOver',
+					pagination : jQuery('#moodularIndex'),
+					buttonPrev: jQuery('#moodular_prev'),
+					buttonNext: jQuery('#moodular_next'),
+					ratio: 1920/730
+				})
+				.on('swipeleft', function(e){
+					jQuery(this).trigger('moodular.prev');
+				})
+				.on('swiperight', function(e){
+					jQuery(this).trigger('moodular.next');
 				});
-			}
-			else
-			{
-				jQuery('#moodular_wrapper').hide();
-			}
 		}
+		
+		jQuery('#moodular').trigger('resize');
 	});
 	//]]>
 </script>
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-17909761-1']);
-_gaq.push(['_trackPageview', 'cms']);
-setTimeout("_gaq.push(['_trackEvent', '30_seconds', 'read'])", 30000);
-_gaq.push(['_setDomainName', 'rotring.com']);
-_gaq.push(['_setAllowLinker', true]);
 
-(function(){
-	jQuery(document).ready(function(){
-		jQuery('.newsletter_block form').bind('submit', function() {
-			_gaq.push(['_trackEvent', 'Newsletter', 'Valider inscription']);
-		});
-		jQuery('#account-creation_form').bind('submit', function() {
-			_gaq.push(['_trackEvent', 'Compte', 'Valider inscription']);
-		});
-		jQuery('#select_villes select').bind('change', function() {
-			_gaq.push(['_trackEvent', 'Store locator', 'Recherche effectuée', this.options[this.selectedIndex].value]);
-		});
-	});
-})();
-function trackAddToCart(product_name) {
-	_gaq.push(['_trackEvent', 'Produit', 'Ajout au panier', product_name]);
-}
-function trackClickSlideshow(slide_name) {
-	_gaq.push(['_trackEvent', 'Slide homepage', 'Clic sur le slide', slide_name]);
-}
+			<script type="text/javascript">
+				var modal_cart_active = 1,
+					url_modal_cart = '/modules/axomeCusto/';
+			</script>
+		
+		<!-- MobileNav Module -->
+		<style>
+			#mobilenav_header,
+			#mobilenav_footer {
+				background-color: #000000;
+				background-image: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#000000));
+				background-image: -webkit-linear-gradient(top, #000000, #000000);
+				background-image:	-moz-linear-gradient(top, #000000, #000000);
+				background-image:	  -o-linear-gradient(top, #000000, #000000);
+				background-image:		 linear-gradient(to bottom, #000000, #000000);
+			}
+			#mobilenav_header,
+			#mobilenav_footer,
+			#mobilenav_cart_link,
+			#mobilenav_home_link,
+			#mobilenav_nav_toggler {
+				border-color: #333;
+			}
+			
+			#mobilenav_buttons a.mobilenav_button i,
+			#mobilenav_cart_link i,
+			#mobilenav_nav_toggler i
+			{
+				display: inline-block;
+				width: 24px;
+				height: 24px;
+				background-repeat: no-repeat;
+			}
+			
+			#mobilenav_buttons a.mobilenav_button i {
+				background-image: url("/modules/ax_mobilenav/assets/img/sprites/sprite-white.png");
+			}
+			
+			#mobilenav_cart_link i,
+			#mobilenav_nav_toggler i,
+			#mobilenav_home_link i 
+			{
+				background-image: url("/modules/ax_mobilenav/assets/img/sprites/sprite-white.png");
+			}
+		</style>
+		
+		<script>
+			var ax_mobilenav_logo_url = "";
+			var ax_mobilenav_home_url = "http://www.rotring.com/en/";
+			var ax_mobilenav_cart_url = "http://www.rotring.com/en/order";
+			var ax_mobilenav_account_url = "http://www.rotring.com/en/my-account";
+			var ax_mobilenav_cart_quantity = "0";
+			var ax_mobilenav_search_placeholder = "Recherchez";
+			var ax_mobilenav_logout_url = "";
+			var ax_mobilenav_cart_updated = "Produit ajouté au panier";
+			var ax_mobilenav_settings_title = "Paramètres";
+			var ax_mobilenav_logout_title = "Se déconnecter";
+			var ax_mobilenav_desktop_title = "Afficher la version ordinateur";
+			var ax_mobilenav_desktop_url = "http://www.rotring.com/en/?desktop_mode=1";
+			var ax_mobilenav_is_desktop = 0;
+			var ax_mobilenav_is_desktop_title = "Retour à l'affichage mobile";
+			var ax_mobilenav_footerhtml = "";
+		</script><script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-17909761-1']);
+		_gaq.push(['_setDomainName', 'rotring.com']);
+				_gaq.push(['_trackPageview']);
+			
+	
+	
+	
 
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})(); 
+	function trackAddToCart(product_name) {
+		_gaq.push(['_trackEvent', 'Product', 'Add to cart', product_name.replace('&quot;','"')]);
+	}
+	function trackClickSlideshow(slide_name) {
+		_gaq.push(['_trackEvent', 'Slider homepage', 'Click on a slide', slide_name.replace('&quot;','"')]);
+	}
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
 </script>
 
 </head>
-	<body itemscope="" itemtype="http://schema.org/WebPage" class="lang_en boutique_1 cms_2 bg_1" id="cms">
+
+<body itemscope="" itemtype="http://schema.org/WebPage" class="lang_en boutique_1 cms_2 " id="cms">
 	
-		<div id="playground" class="container">
-	
-				
+ 
+
+		<div id="playground">
+
+		
 		<!-- Header -->
-		<div id="branding">
-			<div class="container clearfix">
-				<div id="top" class="row-fluid hidden-phone">
-	<div class="span3 languages">
-		<!-- Block languages module -->
-<div id="languages_block_top">
-	<ul class="nav nav-pills">
-		<li class="dropdown" id="menu_language">
-			<a class="dropdown-toggle" data-toggle="dropdown" href="#menu_language">
-															English (English)
-																																																																												<span class="caret"></span>
-			</a>
-
-			<ul class="dropdown-menu pull-left">
-									<li class="lang_en">
-						<a href="http://www.rotring.com/en/content/2-legal-notice" title="English (English)">
-							<img src="http://www.rotring.com/img/l/1.jpg" alt="en" width="16" height="11"> English (English)
-						</a>
-					</li>
-									<li class="lang_de">
-						<a href="http://www.rotring.com/de/content/2-rechtliche-hinweise" title="Deutsch (German)">
-							<img src="http://www.rotring.com/img/l/2.jpg" alt="de" width="16" height="11"> Deutsch (German)
-						</a>
-					</li>
-									<li class="lang_es">
-						<a href="http://www.rotring.com/es/content/2-privacidad" title="Español (Spanish)">
-							<img src="http://www.rotring.com/img/l/3.jpg" alt="es" width="16" height="11"> Español (Spanish)
-						</a>
-					</li>
-									<li class="lang_fr">
-						<a href="http://www.rotring.com/fr/content/2-mentions-legales" title="Français (French)">
-							<img src="http://www.rotring.com/img/l/4.jpg" alt="fr" width="16" height="11"> Français (French)
-						</a>
-					</li>
-									<li class="lang_nl">
-						<a href="http://www.rotring.com/nl/content/2-legal-notice" title="Dutch">
-							<img src="http://www.rotring.com/img/l/6.jpg" alt="nl" width="16" height="11"> Dutch
-						</a>
-					</li>
-									<li class="lang_jp">
-						<a href="http://www.rotring.com/jp/content/2-legal-notice" title="Japanese">
-							<img src="http://www.rotring.com/img/l/7.jpg" alt="jp" width="16" height="11"> Japanese
-						</a>
-					</li>
-									<li class="lang_pl">
-						<a href="http://www.rotring.com/pl/content/2-legal-notice" title="Polish">
-							<img src="http://www.rotring.com/img/l/8.jpg" alt="pl" width="16" height="11"> Polish
-						</a>
-					</li>
-									<li class="lang_tr">
-						<a href="http://www.rotring.com/tr/content/2-gizlilik" title="Turkish">
-							<img src="http://www.rotring.com/img/l/10.jpg" alt="tr" width="16" height="11"> Turkish
-						</a>
-					</li>
-							</ul>
-		</li>
-	</ul>
-</div>
-<!-- /Block languages module -->
-
-	</div>
-
-	<div class="span3">
-		<div class="socials">
-			<ul class="clearfix">
-
-				<li>
-					<a href="https://www.facebook.com/rotring" target="_blank" class="facebook">
-						<span>Facebook</span>
+		<header id="branding">
+			<div id="header_center" class="clearfix">
+	
+	<div class="container">
+		
+		
+		<div class="clearfix">
+			<div class="pull-left">
+				<div class="header_logo" id="header_logo">
+					<a href="http://www.rotring.com/en/" title="Rotring">
+												<img class="logo" src="//www.rotring.com/img/logo.jpg?v2" alt="Rotring">
 					</a>
-				</li>
-
-				<li>
-					<a href="http://www.youtube.com/rotring" target="_blank" class="youtube">
-						<span>YouTube</span>
-					</a>
-				</li>
-				
-				<li>
-					<a href="http://pinterest.com/rotring/" target="_blank" class="pinterest">
-						<span>Pinterest</span>
-					</a>
-				</li>
-				
-				
-				
-			</ul>
-		</div>
-	</div>
-
-	<div class="span3">
-		<!-- Block Newsletter module-->
-<div class="newsletter_block ">
-	<a href="#newsletter" class="signup">Sign up for rOtring news</a>
-
-	<div class="block_content">
-		<div class="">
-					</div>
-
-		<form action="http://www.rotring.com/en/" method="post" class="form-inline">
-			
-			<div class="input-prepend input-append ">
-				
-				<span class="add-on"><i class="icon-envelope"></i></span>
-
-				<input type="text" name="email" value="" placeholder="your e-mail">
-				
-				<button type="submit" class="btn btn-small" name="submitNewsletter">OK</button>
+				</div>
 			</div>
 			
-			<input type="hidden" name="action" value="0">
-		</form>
+			<div class="pull-left hidden-tunnel">
+					<!-- Menu -->
+	<div id="menu">
+		<ul>
+			<li><a href="http://www.rotring.com/en/97-shop-tools">Shop tools</a><ul><li><a href="http://www.rotring.com/en/89-view-all">VIEW ALL</a></li><li><a href="http://www.rotring.com/en/90-best-sellers">BEST SELLERS</a></li><li><a href="http://www.rotring.com/en/91-mechanical-pencils-stylus">MECHANICAL PENCILS &amp; STYLUS</a></li><li><a href="http://www.rotring.com/en/92-pens">PENS</a></li><li><a href="http://www.rotring.com/en/93-technical-calligraphy-pens">TECHNICAL &amp; CALLIGRAPHY PENS</a></li><li><a href="http://www.rotring.com/en/94-all-others">ALL OTHERS</a></li></ul></li><li><a href="/en/challenges">Challenges</a></li>
+<li><a href="/en/content/category/2-journal">Journal</a></li>
+<li><a href="/en/heritage">Heritage</a></li>
+<li><a href="/en/institute">The Institute</a></li>
+
+			
+					</ul>
+	</div>
+	<!--/ Menu -->
+			</div>
+			
+			<div class="pull-right hidden-tunnel">
+				<ul class="header_right">
+					<li class="newsletter">
+						<a href="#"><i class="rotring-icon-envelope"></i></a>
+						
+													<div id="newsletter_block_left">
+	<form action="http://www.rotring.com/en/" method="post">
+		<p>
+			
+			<input type="text" name="email" size="18" value="Your email address" onfocus="javascript:if(this.value=='Your email address')this.value='';" onblur="javascript:if(this.value=='')this.value='Your email address';" class="inputNew form-control">
+				<button type="submit" class="button_mini btn btn-primary" name="submitNewsletter">OK</button>
+				<input type="hidden" name="action" value="0">
+		</p>
+	</form>
+	
+	<div id="ajax-wrapper">
+		<div id="ajax-response">
+					</div>
 	</div>
 </div>
-<!-- /Block Newsletter module-->
-	</div>
 
-	<div class="span3">
-		<!-- Block search module TOP -->
+											</li>
+					
+						                    <li class="dropdown">
+	                        	<a href="http://www.rotring.com/en/content/2-legal-notice" title="English" class="dropdown-toggle" data-toggle="dropdown">
+		English
+	</a>
+
+	<ul class="dropdown-menu">
+					<li class="item first_item">
+							</li>
+					<li class="item">
+									<a href="http://www.rotring.com/de/content/2-rechtliche-hinweise" title="Deutsch">
+						<strong>DE</strong> - Deutsch
+					</a>
+							</li>
+					<li class="item">
+									<a href="http://www.rotring.com/es/content/2-privacidad" title="Español">
+						<strong>ES</strong> - Español
+					</a>
+							</li>
+					<li class="item">
+									<a href="http://www.rotring.com/fr/content/2-mentions-legales" title="Français">
+						<strong>FR</strong> - Français
+					</a>
+							</li>
+					<li class="item">
+									<a href="http://www.rotring.com/jp/content/2-legal-notice" title="日本語">
+						<strong>JP</strong> - 日本語
+					</a>
+							</li>
+					<li class="item">
+									<a href="http://www.rotring.com/tr/content/2-gizlilik" title="Türkçe">
+						<strong>TR</strong> - Türkçe
+					</a>
+							</li>
+					<li class="item">
+							</li>
+					<li class="item last_item">
+							</li>
+			</ul>
+
+	                    </li>
+                                        
+                    	                    <li class="dropdown">
+	                    		<a rel="nofollow" href="http://www.rotring.com/en/my-account" class="login">Log in</a>
+
+	                    </li>
+                                        
+                    	                    <li class="dropdown">
+	                        <a rel="nofollow" href="http://www.rotring.com/en/order" class="dropdown-toggle" data-toggle="dropdown">
+	Cart: <strong><span class="ajax_cart_quantity">0</span></strong>
+</a>
+
+<div class="dropdown-menu dropdown-menu-right">
+	<div id="cart_block_wrapper">
+		<div id="cart_block">
+			
+			<script type="text/javascript">
+			var CUSTOMIZE_TEXTFIELD = 1;
+			var customizationIdMessage = 'Customization #';
+			var removingLinkText = 'Please remove this product from my cart.';
+			var freeShippingTranslation = 'Free shipping!';
+			var freeProductTranslation = 'Free!';
+			var delete_txt = 'Delete';
+			var img_dir = 'http://www.rotring.com/themes/axome/img/';
+			</script>
+		
+			<!-- block summary -->
+			<div id="cart_block_summary" class="collapsed">
+				<span class="ajax_cart_quantity" style="display:none;">0</span>
+				<span class="ajax_cart_product_txt_s" style="display:none">Products</span>
+				<span class="ajax_cart_product_txt">Product</span>
+				<span class="ajax_cart_total" style="display:none">0,00 €</span>
+				<span class="ajax_cart_no_product">(empty)</span>
+			</div>
+			
+			<!-- block list of products -->
+			<div id="cart_block_list">
+				<dl class="products">
+							</dl>
+			
+							
+				<p id="cart-prices">
+										<span id="cart_block_total" class="price ajax_block_cart_total">0,00 €</span>
+					<span>Total</span>
+				</p>
+								<p id="cart-buttons">
+					<a href="http://www.rotring.com/en/order" id="button_order_cart" class="exclusive btn" title="Checkout"><span></span>Checkout</a>
+				</p>
+			</div>
+			<span class="free_shipping" data-ship="0" data-freeship="0" data-wording="Livraison offerte dans " data-wordingfree="Livraison offerte" data-currencysign="€" data-currencyrate="1.000000" data-currencyformat="2" data-currencyblank="1">
+															Livraison offerte
+												</span>
+		</div> <!-- #cart_block -->
+	</div> <!-- #cart_block_wrapper -->
+</div> <!-- .dropdown-menu -->
+
+	                    </li>
+                                        
+                                        
+                    	                    <li>
+	                        <!-- Block search module TOP -->
 <div id="search_block_top">
 	<form method="get" action="http://www.rotring.com/en/search" id="searchbox" class="form-horizontal">
-		<div class="control-group">
-			<input type="hidden" name="controller" value="search">
-			<input type="hidden" name="orderby" value="position">
-			<input type="hidden" name="orderway" value="desc">
-			<div class="input-append">
-				<input id="search_query_top" type="text" class="span9" name="search_query" value="" placeholder="Search..."><button class="btn" name="submit_search" type="submit" title="Search">OK</button>
-			</div>
-		</div>
+		<input type="hidden" name="controller" value="search">
+		<input type="hidden" name="orderby" value="position">
+		<input type="hidden" name="orderway" value="desc">
+		<input class="form-control" id="search_query_top" type="text" placeholder="Search" name="search_query" value="">
+		<button class="btn btn-default" id="search_btn_top" name="submit_search" type="submit" title="Search" value="OK">OK</button>
 	</form>
+	
+	<a href="#" id="search_block_top_toggle"><i class="rotring-icon-search"></i></a>
 </div>
+
 
 	<script type="text/javascript">
 	// <![CDATA[
@@ -268,477 +367,318 @@ function trackClickSlideshow(slide_name) {
 	</script>
 <!-- /Block search module TOP -->
 
-	</div>
-</div> <!-- #top -->
-
-<div id="header_content" class="row-fluid">
-	<div class="span3">
-		<a id="logo" href="http://www.rotring.com/en/" title="Rotring">
-			<img class="logo" src="http://www.rotring.com/themes/axome/img/logo.png?1391683034" alt="Rotring">
-		</a>
-	</div>
-
-	<div class="span9 hidden-phone">
-		<ul id="menu" class="nav nav-pills">
-			<li><a href="http://www.rotring.com/en/" class="active">Eshop</a></li>
-			
-			<li><a href="http://www.rotring.com/en/content/7-rotring-history">Infos</a></li>
-			<li><a href="http://www.rotring.com/blog/">Wall</a></li>
-			<!--<li><a href="http://www.rotring.com/en/stores" >Retail</a></li>-->
-		</ul>
-	</div>
-	
-	<!-- MODULE Block cart -->
-<div id="cart_block" class="hidden-phone">
-	
-		<script type="text/javascript">
-	var CUSTOMIZE_TEXTFIELD = 1;
-	var customizationIdMessage = 'Customization #';
-	var removingLinkText = 'remove this product from my cart';
-	var freeShippingTranslation = 'Free shipping!';
-	var freeProductTranslation = 'Free!';
-	var delete_txt = 'Delete';
-	var img_dir = 'http://www.rotring.com/themes/axome/img/';
-	</script>
-	
-	<span class="block_title">
+	                    </li>
+                    				</ul>
+			</div> <!-- .header_block_right -->
+		</div> <!-- .clearfix -->
 		
-					<a href="https://www.rotring.com/en/order">My basket</a>
-				
-		<span class="login">
-												<a href="https://www.rotring.com/en/my-account">Log in</a>
-									</span>
 		
-				<span id="block_cart_expand" class="hidden">&nbsp;</span>
-		<span id="block_cart_collapse">&nbsp;</span>
-			</span>
-	
-	<div class="block_content">
-					<!-- block summary -->
-			<div id="cart_block_summary" class="collapsed">
-				<span class="ajax_cart_quantity" style="display:none;">0</span>
-				<span class="ajax_cart_product_txt_s" style="display:none">products</span>
-				<span class="ajax_cart_product_txt">product</span>
-				<span class="ajax_cart_total" style="display:none">0,00 €</span>
-				<span class="ajax_cart_no_product">(empty)</span>
-			</div>
-
-			<!-- block list of products -->
-			<div id="cart_block_list" class="expanded">
-				
-								
-				<p id="cart_block_no_products">No products</p>
-				
-				
-				
-				<p id="cart-prices">
-					
-										
-					
-
-										
-					
-					
-					<span id="cart_block_total" class="price ajax_block_cart_total">0,00 €</span>
-					<span>Total</span>
-				</p>
-
-				
-				
-				<p id="cart-buttons">
-					<a href="https://www.rotring.com/en/order" id="button_order_cart" class="exclusive btn right-arrow" title="Check out">Check out</a>
-				</p>
-			</div>
-			</div>
-</div>
-<!-- /MODULE Block cart -->
-
-
-</div> <!-- #header_content -->
-				<!-- Block categories module -->
-<div id="categories_block_left" class="navbar clearfix">
-	<div class="navbar-inner">
-		<div class="container">
-			
-			<button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</button>
-			
-			<a class="brand hidden-desktop hidden-tablet" href="http://www.rotring.com/">Rotring</a>
-			
-			
-			
-				<ul class="nav">
-					
-					<li class="home_item">
-						<a href="http://www.rotring.com/" title="Rotring">
-							<span>Rotring</span>
-						</a>
-					</li>
-				
-																		<li class="dropdown  ">
-	<a href="http://www.rotring.com/en/4-technical-pens">
-		Technical Pens
-		<b class="caret"></b>	</a>
-			<ul class="dropdown-menu">
-									<li class="  ">
-	<a href="http://www.rotring.com/en/5-rapidograph">
-		Rapidograph
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/7-rapidograph-set">
-		Rapidograph set
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/8-Isograph-Technical-Pens">
-		Isograph
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/9-isograph-set-technical-pens">
-		Isograph set
-			</a>
-	</li>
-												<li class=" last ">
-	<a href="http://www.rotring.com/en/10-inks-and-accessories-technical-pens">
-		Inks and accessories 
-			</a>
-	</li>
-							</ul>
-	</li>
-																								<li class="dropdown  ">
-	<a href="http://www.rotring.com/en/6-mechanical-pencils">
-		Mechanical Pencils
-		<b class="caret"></b>	</a>
-			<ul class="dropdown-menu">
-									<li class="  ">
-	<a href="http://www.rotring.com/en/74-rOtring-600-800-mechanical-pencils">
-		rOtring 600 / 800
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/16-rOtring-300-500-mechanical-pencils">
-		rOtring 300 / 500
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/17-tikky-mechanical-pencil">
-		Tikky Mechanical Pencil
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/15-rapid-Pro-Mechanical-Pencil">
-		rapid PRO
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/19-pencil-leads">
-		Pencil Leads
-			</a>
-	</li>
-												<li class=" last ">
-	<a href="http://www.rotring.com/en/20-erasers">
-		Erasers
-			</a>
-	</li>
-							</ul>
-	</li>
-																								<li class="dropdown  ">
-	<a href="http://www.rotring.com/en/11-artpens-calligraphy">
-		ArtPens / Calligraphy
-		<b class="caret"></b>	</a>
-			<ul class="dropdown-menu">
-									<li class="  ">
-	<a href="http://www.rotring.com/en/21-artpens">
-		ArtPens
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/22-artpen-nibs">
-		ArtPen nibs
-			</a>
-	</li>
-												<li class=" last ">
-	<a href="http://www.rotring.com/en/23-artpen-inks">
-		ArtPen Inks
-			</a>
-	</li>
-							</ul>
-	</li>
-																								<li class="dropdown  ">
-	<a href="http://www.rotring.com/en/12-pens">
-		Pens
-		<b class="caret"></b>	</a>
-			<ul class="dropdown-menu">
-									<li class="  ">
-	<a href="http://www.rotring.com/en/24-Tikky-Graphic-fineliner-pen">
-		Tikky Graphic
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/25-tikky-rollerpoint">
-		Tikky Rollerpoint
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/26-Tikky-3in1-Multipen-mechanical-pencil-and-ball-point-pens">
-		Tikky 3 in 1 Multipen
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/18-tikky-ballpoint">
-		Tikky Ballpoint
-			</a>
-	</li>
-												<li class=" last ">
-	<a href="http://www.rotring.com/en/73-rapid-pro-ballpoint">
-		rapid PRO Ballpoint
-			</a>
-	</li>
-							</ul>
-	</li>
-																								<li class="dropdown  ">
-	<a href="http://www.rotring.com/en/13-accessories">
-		Accessories
-		<b class="caret"></b>	</a>
-			<ul class="dropdown-menu">
-									<li class="  ">
-	<a href="http://www.rotring.com/en/27-inks-leads-refills">
-		Inks / leads / refills
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/28-erasers">
-		Erasers
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/29-art-pen-nibs">
-		Art Pen nibs
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/30-rapidograph-nibs">
-		rapidograph nibs
-			</a>
-	</li>
-												<li class=" last ">
-	<a href="http://www.rotring.com/en/31-isograph-nibs">
-		Isograph nibs
-			</a>
-	</li>
-							</ul>
-	</li>
-																								<li class="dropdown last ">
-	<a href="http://www.rotring.com/en/14-browse-by">
-		Browse by
-		<b class="caret"></b>	</a>
-			<ul class="dropdown-menu">
-									<li class="  ">
-	<a href="http://www.rotring.com/en/34-compasses">
-		Compasses
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/33-drawing-boards">
-		Drawing Boards
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/32-drawing-aids">
-		Drawing Aids
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/47-ballpoints">
-		Ballpoints
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/67-rollerpoints">
-		Rollerpoints
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/68-fineliners">
-		Fineliners
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/69-technical-pens">
-		Technical Pens
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/70-artpens-calligraphy">
-		ArtPens / Calligraphy
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/42-inks">
-		Inks 
-			</a>
-	</li>
-												<li class="  ">
-	<a href="http://www.rotring.com/en/71-refills">
-		Refills
-			</a>
-	</li>
-												<li class=" last ">
-	<a href="http://www.rotring.com/en/72-leads">
-		Leads
-			</a>
-	</li>
-							</ul>
-	</li>
-																
-				</ul>
-				
-			
-			
-		</div>
 	</div>
 </div>
-<!-- /Block categories module -->
 
 
+		</header>
+		
+		
+		<div id="main" class="clearfix container-fluid">
+			
+			
+							<!-- Breadcrumb -->
+<nav id="breadcrumb" itemprop="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#">
+	<ul class="breadcrumb">
+		<li typeof="v:Breadcrumb">
+			<a rel="v:url" property="v:title" href="http://www.rotring.com/" title="return to Home">Home</a>
+		</li>
+		Privacy Policy	</ul>
+</nav>
+<!-- /Breadcrumb -->
 
-			</div>
-		</div>
-
-				
-		<div id="main" class="container">
+			
 			<div class="row">
 
 				<!-- Center -->
-				<div id="center_column" class="span12">
+				<section id="center_column" class="col-sm-12">
+					
+											<div class="subcategories">
+							<div class="container">
+								<ul>
+																			<li>
+											<a href="http://www.rotring.com/en/89-view-all">VIEW ALL</a>
+										</li>
+																			<li>
+											<a href="http://www.rotring.com/en/90-best-sellers">BEST SELLERS</a>
+										</li>
+																			<li>
+											<a href="http://www.rotring.com/en/91-mechanical-pencils-stylus">MECHANICAL PENCILS &amp; STYLUS</a>
+										</li>
+																			<li>
+											<a href="http://www.rotring.com/en/92-pens">PENS</a>
+										</li>
+																			<li>
+											<a href="http://www.rotring.com/en/93-technical-calligraphy-pens">TECHNICAL &amp; CALLIGRAPHY PENS</a>
+										</li>
+																			<li>
+											<a href="http://www.rotring.com/en/94-all-others">ALL OTHERS</a>
+										</li>
+																	</ul>
+							</div>
+						</div>
+										
+					<a href="#" id="skip-link-content" name="skip-link-content"></a>
+
 	
-		<!-- Breadcrumb -->
-<nav id="breadcrumb" itemprop="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#" class="content_block">
-	<span class="breadcrumb clearfix">
-		<span typeof="v:Breadcrumb">
-			<a rel="v:url" property="v:title" href="http://www.rotring.com/" title="return to Home">Home</a>
-			<span class="divider"><i>&gt;</i></span>		</span>
-									<!-- span class="navigation_page">Privacy</span -->
-															<span typeof="v:Breadcrumb" class="active">
-						<h1 class="littleH1">Privacy</h1>
-					</span>
-										</span>
-</nav>
-<!-- /Breadcrumb -->
-		<div class="rte">
-		<div class="margins_container">
-			<div style="width: 900px; padding: 0 0 0 0; text-align: justify;">
-<h2>PRIVACY POLICY</h2>
-<br>
-<div style="margin-left: 20px; font-weight: normal; font-size: 12px;">This web site is published and operated by NWL Switzerland sàrl, a company of the Newell Rubbermaid Group, with its registered offices at 10 chemin de Blandonnet – 1214 VERNIER (Switzerland), company’s registration number CH-020.3.922.310-0., (“rOtring”), which is the only entity, with its affiliates, entitled to use the relating intellectual property rights and personal rights, in particular trademarks, design patents, copyrights and rights on image, originally or in accordance with express authorizations. Any item of this website, including but not limited to the logos, brands, design, illustrations, texts and section names featured on the rOtring website may not be used, reproduced, modified, distributed or borrowed for spin-offs without our authorization or the authorization of the appropriate parties.<br> <br> The brand names that are mentioned have been filed by their respective owners and are protected by trademark law. The content of sponsored advertising is also protected by intellectual property laws. As such, these items may not be used, reproduced, modified, distributed or borrowed for spin-offs without the authorization of their respective owners.<br> <br> Company requests that users of the rOtring website respect the intellectual property right of others. In future, should you believe your brand or work has been copied or is being used on the rOtring.com site in a way that might undermine your rights as recognized by applicable law, please notify our consultancy office through our <a style="color: #cd0109; font-size: 12px;" title="Contact us" href="https://www.rotring.com/en/contact-us">contact form</a>. By using or accessing this website you signify your acknowledgment and assent to the terms set forth below. If you do not agree to these terms, please do not use this website. Company can revise this policy at any time by updating this posting, and your use after such change signifies your acceptance of the changed terms. Please check these terms of use periodically for changes.<br> <br>
-<h3 style="font-size: 14px; font-weight: bold;">PERSONAL DATA</h3>
-This policy is intended to help you understand how rOtring, which is the data controller, its subsidiaries and affiliates ("Company" "we," or "us") collect, use and safeguard the information you provide on our website with the purpose of presenting the rOtring brand its product and services.<br> <br> If you browse rOtring website, you may generally do so anonymously without providing any personal information. However, there are cases in which we may ask you for personal data. For example, we will occasionally conduct on-line surveys to better understand the needs and profile of our visitors. In addition, we may request personal information when you register to receive additional information regarding our products and services, sign up for a newsletter, take part to a game or contest or send us a question. Even if you choose not to give information we request, you can still visit most of the rOtring website, but you may be unable to access certain options, offers, and services.<br> <br> In case you change your mind or wish to update or delete personal information (such as your zip code), we will correct, update or remove the personal data you give us. You can do this by contacting us at the contact points specified below.<br> <br>
-<h4 style="font-size: 12px; font-weight: bold;">Mailings</h4>
-<br> If you provide us with personal information, and choose to join Company's email list, you will receive e-mail regarding product updates, special offers, important issues and new products from Company as well as affiliated companies. If you do not wish to receive e-mail updates, please <a style="color: #cd0109; font-size: 12px;" title="Contact us" href="https://www.rotring.com/en/contact-us">contact us</a>. <br> <br>
-<h4 style="font-size: 12px; font-weight: bold;">Use of Personal Data</h4>
-<br> Personal information provided by users who are 18 or more years of age may be used for marketing and promotional purposes only by Company and its subsidiaries and affiliates. Company does not rent, sell or otherwise distribute to third parties, your personal information entered on this site without your consent, unless required by law. If you do provide us with consent to share your information with other companies, we may share your information with companies who offer products and services that may be of interest to you. These companies may then contact you directly with product or sample offers, personalized offers and information, or to ask for your feedback on products and programs that they think may be of interest to you. While we use all reasonable efforts to safeguard the confidentiality of your information, Company will have no liability for the unauthorized acts of third parties.<br> <br> You have a right to access, to modify or remove your personal data by writing to the contact point specified below.<br> <br> Company also reserves the right to change or update this policy, or any other policy or practice, at any time, with reasonable notice to users of its website. Any changes or updates will be effective immediately upon posting to the rOtring site.<br> <br> We may share statistical or aggregated non-personal information about our users with advertisers, business partners, sponsors and other third parties. This data is used to customize Company website content and advertising to deliver a better experience to our users.<br> <br>
-<h4 style="font-size: 12px; font-weight: bold;">Transfer of Personal Information</h4>
-<br> Depending on the country in which you are located, your personal information may be transferred to another country for data storage and processing. When we transfer personal information, we transfer the information in compliance with applicable data protection laws, such as the EU Data Privacy Directive and other country-specific data privacy laws.<br> <br>
-<h4 style="font-size: 12px; font-weight: bold;">Cookies and IP Tracking</h4>
-<br> <span style="text-decoration: underline;">What are cookies and how does rOtring use them?</span><br> Some of our sites use cookies to keep track of the fact that you have signed in so you don't have to continually enter your username and password on subsequent visits. Also, we use cookies to deliver content specific to your interests and for other purposes.<br> <br> <span style="text-decoration: underline;">What are cookies?</span><br> A "cookie" represents a text file containing small amounts of information which a server downloads to your personal computer (PC) or mobile when you visit a website to track movements within web sites. The server then sends a cookie back to the originating website each time you subsequently visit it, or if you visit another website which recognizes that cookie.<br> <br> There are different types of cookies which are used to do different things, such as letting you navigate between different pages on a website efficiently, remembering preferences you have given a website, your shopping cart and improving your overall experience. Others are used to provide you with advertising which is more tailored to your interests, or to measure the number of site visits and the most popular pages users visit.<br> <br> Some cookies are allocated to your computer only for the duration of your visit to a website and will automatically expire when you close down your browser.<br> <br> Another type of cookie known as "persistent" cookies would remain on your PC for a period of time.<br> <br> <span style="text-decoration: underline;">How do we use cookies?</span><br> In order to be able to service you we will place cookies on your computer.<br> <br> In some countries the applicable legislation requires that when you visit our website for the first time you will see a clear notice informing you that we use cookies on our website. In such countries the relevant notice will be displayed the first time you visit the website. In such case, if you continue navigation on our website after having seen this notice without making any changes to the existing cookie settings we have provided we will take this as your agreement to those settings as we have informed you about them and we assume that you accept to have them placed on your computer.<br> <br> You can make decisions about cookies. You can decide to change the settings of your computer and disable cookies. However, if you decide to reject all cookies you may not be able to participate in services that would require registration to participate.<br> <br> Please also note, that some types of cookies such as shopping cookies and language preference cookies which are considered as necessary for the performance of the service which we should deliver to you do not require your consent, as without being able to install these on your computer, we would not be able to provide the service you expect from us.<br> <br> This policy does not cover the use of cookies by any advertisers on our Web site.<br> <br>
-<h4 style="font-size: 12px; font-weight: bold;">Special Cases</h4>
-<br>Company reserves the right to disclose user information in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Company website users, or anyone else that could be harmed by such activities. We may disclose personal information without notice to you in response to a subpoena or when we believe in good faith that the law requires it or to respond to an emergency situation.
-<h3 style="font-size: 14px; font-weight: bold;">CHILDREN</h3>
-Company encourages parents and guardians to monitor and participate in their children’s online activities. Unless you are viewing a website directed specifically to children, no information should be submitted to this site by users under 18 years of age, and users under 18 years old are not allowed to register for newsletters, clubs or activities. In addition, users under 18 years of age are not allowed to make purchases or participate in contests, except for those specifically directed to children. Where appropriate, Company may ask you to indicate your age to verify compliance with these policies.<br> <br> Company does not knowingly collect information from our guests under 18 years of age or provide any personally identifying information from such guests to any third party for any reason whatsoever. We do not allow guests known to be under 18 years of age to receive direct marketing communications from Company or from third parties.<br> <br> Company commits itself to ensuring, to the best of its ability, that the information posted on the Web-Site is correct and up-to-date. However, Company cannot guarantee the correctness, precision, thoroughness or completeness of the information available on the Web-Site.<br> <br> As a result, Company cannot be held liable for :<br> <br>
-<ul>
-<li>any imprecision, inaccuracy or omission relative to the information provided on its Web-Site, - any damage resulting from an incursion by a third party leading to a modification of the information provided on this Web-Site;</li>
-<li>more generally, any damage, direct or indirect, regardless of its cause, origin, nature or consequences, resulting from access to the Web-Site, inability to access to the Web-Site, as well as use of the Web-Site and/or credit given to any information directly or indirectly provided through the Web-Site.</li>
-</ul>
-<br> Please be advised that our website may contain links to third party websites. The linked sites are not under the control of Company, and we are not responsible for the contents or privacy practices of any linked site or any link on a linked site. Hypertext links to the Web-Site may only be included with prior written consent from Company.<br> <br> All materials that may be downloaded is done so at the risks of the user. Such downloading is the responsibility of the user. As a result, Company shall not be held responsible for any damages caused to user computers or for any damage caused to user’s computer or for any loss of data resulting from downloads.<br> <br> Security measures have been employed to prevent unauthorized access to visitor data, however, we will not be responsible for any breach security or the unauthorized disclosure or use of any such data.<br> <br>Company shall not be held responsible in case of complete or temporary unavailability of this website.
-<h3 style="font-size: 14px; font-weight: bold;">LINKED SITES</h3>
-Please be advised that our website may contain links to third party websites. The linked sites are not under the control of Company and Company is not responsible for the contents or privacy practices of any linked site.
-<h3 style="font-size: 14px; font-weight: bold;">SEVERABILITY</h3>
-If any provision of these terms of use shall be deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from the remaining terms of use and shall not affect the validity and enforceability of remaining provisions.
-<h3 style="font-size: 14px; font-weight: bold;">APPLICABLE LAW</h3>
-The present policy is governed by, and construed in accordance with, the laws of Switzerland, without reference to the conflict of law rules. The courts of Switzerland shall have exclusive jurisdiction to settle any and all disputes which may arise out of or in connection with the Privacy Policy and its subject matter. All users of the rOtring website consent to the exclusive personal jurisdiction of such courts and waive any objection based on lack of personal jurisdiction, place of residence, improper venue or forum non convenient in any such action.
-<h3 style="font-size: 14px; font-weight: bold;">SAFE HARBOR CERTIFICATION</h3>
-We comply with the U.S.-EU Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <a style="color: #cd0109; font-size: 12px;" href="http://www.export.gov/safeharbor/" target="_blank">www.export.gov/safeharbor</a>.
-<h3 style="font-size: 14px; font-weight: bold;">CONTACT INFORMATION</h3>
-You have the right to access, modify or remove your personal data by submitting a request through our <a style="color: #cd0109; font-size: 12px;" title="Contact us" href="https://www.rotring.com/en/contact-us">contact form</a>.</div>
-</div>
+					<div id="cms_top">
+			<div class="container">
+				<div class="text-center">
+					<div class="title title2">We're here to help...</div>
+					
+					<div class="custom_dropdown">
+						<span class="custom_dropdown_title">
+							Select support page <i class="rotring-icon-arrow-down"></i>
+						</span>
+						
+						<ul id="cms_menu">
+							
+	<li class=" open">
+		
+		
+	
+					<ul>
+													
+
+										</ul>
+			
+					<ul class="pages">
+									<li>
+						<a href="http://www.rotring.com/en/content/6-helps-faq">
+							Help / FAQ <i class="rotring-icon-arrow-right"></i>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.rotring.com/en/content/2-legal-notice" class="active">
+							Privacy Policy <i class="rotring-icon-arrow-right"></i>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.rotring.com/en/content/3-terms-of-use">
+							Terms of Use <i class="rotring-icon-arrow-right"></i>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.rotring.com/en/content/12-terms-and-conditions">
+							Eshop terms and conditions <i class="rotring-icon-arrow-right"></i>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.rotring.com/en/content/13-shipping-cost">
+							Shipping cost <i class="rotring-icon-arrow-right"></i>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.rotring.com/en/content/14-product-warranty">
+							Product Warranty <i class="rotring-icon-arrow-right"></i>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.rotring.com/en/content/15-mechanical-pencil-comparison">
+							Mechanical Pencil Comparison <i class="rotring-icon-arrow-right"></i>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.rotring.com/en/content/56-product-care">
+							Product Care <i class="rotring-icon-arrow-right"></i>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.rotring.com/en/content/8-catalog-rotring-2014">
+							Catalog rOtring 2014 <i class="rotring-icon-arrow-right"></i>
+						</a>
+					</li>
+									<li>
+						<a href="http://www.rotring.com/en/content/67-exclusive-offers">
+							Exclusive offers <i class="rotring-icon-arrow-right"></i>
+						</a>
+					</li>
+							</ul>
+			</li>
+
+						</ul>
+					</div>
+				</div>
+			</div>
 		</div>
-	</div>
-<br>
+		
+	<div class="container">
+								<div class="block_content rte">
+				<h1>Privacy Policy</h1>
+				<p>This web site is published and operated by NWL Switzerland sàrl, a company of the Newell Rubbermaid Group, with its registered offices at 10 chemin de Blandonnet – 1214 VERNIER (Switzerland), company’s registration number CH-020.3.922.310-0., (“rOtring”), which is the only entity, with its affiliates, entitled to use the relating intellectual property rights and personal rights, in particular trademarks, design patents, copyrights and rights on image, originally or in accordance with express authorizations. Any item of this website, including but not limited to the logos, brands, design, illustrations, texts and section names featured on the rOtring website may not be used, reproduced, modified, distributed or borrowed for spin-offs without our authorization or the authorization of the appropriate parties.</p>
+<p>The brand names that are mentioned have been filed by their respective owners and are protected by trademark law. The content of sponsored advertising is also protected by intellectual property laws. As such, these items may not be used, reproduced, modified, distributed or borrowed for spin-offs without the authorization of their respective owners.</p>
+<p>Company requests that users of the rOtring website respect the intellectual property right of others. In future, should you believe your brand or work has been copied or is being used on the rOtring.com site in a way that might undermine your rights as recognized by applicable law, please notify our consultancy office by email to : <a style="color: #ff0000;" href="mailto:english.support@rotring.com">english.support@rotring.com</a>.</p>
+<p>By using or accessing this website you signify your acknowledgment and assent to the terms set forth below. If you do not agree to these terms, please do not use this website. Company can revise this policy at any time by updating this posting, and your use after such change signifies your acceptance of the changed terms. Please check these terms of use periodically for changes.</p>
+<h3>PERSONAL DATA</h3>
+<p>This policy is intended to help you understand how rOtring, which is the data controller, its subsidiaries and affiliates ("Company" "we," or "us") collect, use and safeguard the information you provide on our website with the purpose of presenting the rOtring brand its product and services.</p>
+<p>If you browse rOtring website, you may generally do so anonymously without providing any personal information. However, there are cases in which we may ask you for personal data. For example, we will occasionally conduct on-line surveys to better understand the needs and profile of our visitors. In addition, we may request personal information when you register to receive additional information regarding our products and services, sign up for a newsletter, take part to a game or contest or send us a question. Even if you choose not to give information we request, you can still visit most of the rOtring website, but you may be unable to access certain options, offers, and services.</p>
+<p>In case you change your mind or wish to update or delete personal information (such as your zip code), we will correct, update or remove the personal data you give us. You can do this by contacting us at the contact points specified below.</p>
+<h3>Mailings</h3>
+<p>If you provide us with personal information, and choose to join Company's email list, you will receive e-mail regarding product updates, special offers, important issues and new products from Company as well as affiliated companies. If you do not wish to receive e-mail updates, please contact us at: <a style="color: #ff0000;" href="mailto:english.support@rotring.com">english.support@rotring.com</a>.</p>
+<h3>Use of Personal Data</h3>
+<p>Personal information provided by users who are 18 or more years of age may be used for marketing and promotional purposes only by Company and its subsidiaries and affiliates. Company does not rent, sell or otherwise distribute to third parties, your personal information entered on this site without your consent, unless required by law. If you do provide us with consent to share your information with other companies, we may share your information with companies who offer products and services that may be of interest to you. These companies may then contact you directly with product or sample offers, personalized offers and information, or to ask for your feedback on products and programs that they think may be of interest to you. While we use all reasonable efforts to safeguard the confidentiality of your information, Company will have no liability for the unauthorized acts of third parties.</p>
+<p>You have a right to access, to modify or remove your personal data by writing to the contact point specified below.</p>
+<p>Company also reserves the right to change or update this policy, or any other policy or practice, at any time, with reasonable notice to users of its website. Any changes or updates will be effective immediately upon posting to the rOtring site.</p>
+<p>We may share statistical or aggregated non-personal information about our users with advertisers, business partners, sponsors and other third parties. This data is used to customize Company website content and advertising to deliver a better experience to our users.</p>
+<h3>Transfer of Personal Information</h3>
+<p>Depending on the country in which you are located, your personal information may be transferred to another country for data storage and processing. When we transfer personal information, we transfer the information in compliance with applicable data protection laws, such as the EU Data Privacy Directive and other country-specific data privacy laws.</p>
+<h3>Cookies and IP Tracking</h3>
+<p><span style="text-decoration: underline;">What are cookies and how does rOtring use them?</span><br><br> Some of our sites use cookies to keep track of the fact that you have signed in so you don't have to continually enter your username and password on subsequent visits. Also, we use cookies to deliver content specific to your interests and for other purposes.<br> <br> <span style="text-decoration: underline;">What are cookies?</span><br><br> A "cookie" represents a text file containing small amounts of information which a server downloads to your personal computer (PC) or mobile when you visit a website to track movements within web sites. The server then sends a cookie back to the originating website each time you subsequently visit it, or if you visit another website which recognizes that cookie.</p>
+<p>There are different types of cookies which are used to do different things, such as letting you navigate between different pages on a website efficiently, remembering preferences you have given a website, your shopping cart and improving your overall experience. Others are used to provide you with advertising which is more tailored to your interests, or to measure the number of site visits and the most popular pages users visit.</p>
+<p>Some cookies are allocated to your computer only for the duration of your visit to a website and will automatically expire when you close down your browser.</p>
+<p>Another type of cookie known as "persistent" cookies would remain on your PC for a period of time.</p>
+<p><span style="text-decoration: underline;">How do we use cookies?</span><br> <br> In order to be able to service you we will place cookies on your computer.</p>
+<p>In some countries the applicable legislation requires that when you visit our website for the first time you will see a clear notice informing you that we use cookies on our website. In such countries the relevant notice will be displayed the first time you visit the website. In such case, if you continue navigation on our website after having seen this notice without making any changes to the existing cookie settings we have provided we will take this as your agreement to those settings as we have informed you about them and we assume that you accept to have them placed on your computer.</p>
+<p>You can make decisions about cookies. You can decide to change the settings of your computer and disable cookies. However, if you decide to reject all cookies you may not be able to participate in services that would require registration to participate.</p>
+<p>Please also note, that some types of cookies such as shopping cookies and language preference cookies which are considered as necessary for the performance of the service which we should deliver to you do not require your consent, as without being able to install these on your computer, we would not be able to provide the service you expect from us.</p>
+<p>This policy does not cover the use of cookies by any advertisers on our Web site.</p>
+<h3>Google Analytics</h3>
+<p>This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymization, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. On behalf of the website provider Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider.  Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under <a style="color: #ff0000;" href="https://tools.google.com/dlpage/gaoptout?hl=en-GB" target="_blank">tools.google.com/dlpage/gaoptout?hl=en-GB</a>. Further information concerning the terms and conditions of use and data privacy can be found at http://www.google.com/analytics/terms/gb.html or at <a style="color: #ff0000;" href="http://www.google.com/intl/en_uk/analytics/privacyoverview.html" target="_blank">www.google.com/intl/en_uk/analytics/privacyoverview.html</a>. Please note that on this website, Google Analytics code is supplemented by “gat._anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking).</p>
+<h3>Special Cases</h3>
+<p>Company reserves the right to disclose user information in special cases, when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Company website users, or anyone else that could be harmed by such activities. We may disclose personal information without notice to you in response to a subpoena or when we believe in good faith that the law requires it or to respond to an emergency situation.</p>
+<h3>CHILDREN</h3>
+<p>Company encourages parents and guardians to monitor and participate in their children’s online activities. Unless you are viewing a website directed specifically to children, no information should be submitted to this site by users under 18 years of age, and users under 18 years old are not allowed to register for newsletters, clubs or activities. In addition, users under 18 years of age are not allowed to make purchases or participate in contests, except for those specifically directed to children. Where appropriate, Company may ask you to indicate your age to verify compliance with these policies.</p>
+<p>Company does not knowingly collect information from our guests under 18 years of age or provide any personally identifying information from such guests to any third party for any reason whatsoever. We do not allow guests known to be under 18 years of age to receive direct marketing communications from Company or from third parties.</p>
+<h3>LIABILITY</h3>
+<p>Company commits itself to ensuring, to the best of its ability, that the information posted on the Web-Site is correct and up-to-date. However, Company cannot guarantee the correctness, precision, thoroughness or completeness of the information available on the Web-Site.</p>
+<p>As a result, Company cannot be held liable for :<br> - any imprecision, inaccuracy or omission relative to the information provided on its Web-Site,<br> - any damage resulting from an incursion by a third party leading to a modification of the information provided on this Web-Site; <br> - more generally, any damage, direct or indirect, regardless of its cause, origin, nature or consequences, resulting from access to the Web-Site, inability to access to the Web-Site, as well as use of the Web-Site and/or credit given to any information directly or indirectly provided through the Web-Site.</p>
+<p>Please be advised that our website may contain links to third party websites. The linked sites are not under the control of Company, and we are not responsible for the contents or privacy practices of any linked site or any link on a linked site. Hypertext links to the Web-Site may only be included with prior written consent from Company.</p>
+<p>All materials that may be downloaded is done so at the risks of the user. Such downloading is the responsibility of the user. As a result, Company shall not be held responsible for any damages caused to user computers or for any damage caused to user’s computer or for any loss of data resulting from downloads.</p>
+<p>Security measures have been employed to prevent unauthorized access to visitor data, however, we will not be responsible for any breach security or the unauthorized disclosure or use of any such data.</p>
+<p>Company shall not be held responsible in case of complete or temporary unavailability of this website.</p>
+<h3>LINKED SITES</h3>
+<p>Please be advised that our website may contain links to third party websites. The linked sites are not under the control of Company and Company is not responsible for the contents or privacy practices of any linked site.</p>
+<h3>SEVERABILITY</h3>
+<p>If any provision of these terms of use shall be deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from the remaining terms of use and shall not affect the validity and enforceability of remaining provisions.</p>
+<h3>APPLICABLE LAW</h3>
+<p>The present policy is governed by, and construed in accordance with, the laws of Switzerland, without reference to the conflict of law rules.<br><br> The courts of Switzerland shall have exclusive jurisdiction to settle any and all disputes which may arise out of or in connection with the Privacy Policy and its subject matter. All users of the rOtring website consent to the exclusive personal jurisdiction of such courts and waive any objection based on lack of personal jurisdiction, place of residence, improper venue or forum non convenient in any such action.</p>
+<h3>SAFE HARBOR CERTIFICATION</h3>
+<p>We comply with the U.S.-EU Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from the European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor/.</p>
+<h3>CONTACT INFORMATION</h3>
+<p>You have the right to access, modify or remove your personal data by contacting: <a style="color: #ff0000;" href="mailto:SAS.Globalconsumerservice@newellco.com">SAS.Globalconsumerservice@newellco.com</a> Other questions should not be directed to this address and will not be replied to.</p>
+			</div>
+			</div>
 
-									</div>
 
+		
+						
+					</section>
+					
+										
+				</div>
 				
-				
-			</div>
-		</div> <!-- end #main -->
-
-		<div id="colophon">
-			<div class="container clearfix">
-					<div class="row-fluid footer_blocks">
-		<div class="supplementary_block_title">
-			Great reasons to shop on rOtring.com
-		</div>
-
-		<div class="content_block clearfix">
-			<div class="span3">
-				<div class="footer_block delivery" data-href="http://www.rotring.com/en/content/6-helps-faq#Shipping-and-delivery">
-					<strong><img src="http://www.rotring.com/themes/axome/img/picto-delivery.png" alt="Delivery">Delivery</strong>
-					<p>Fast and secure delivery. We ship worldwide.</p>
+								
+			</div> <!-- end #main  -->
+			
+						
+						
+			<!-- Modal produit "quick buy" -->
+			<div class="modal" id="product-quick-buy">
+				<div class="modal-dialog">
+					<div class="modal-content">
+						<button type="button" class="close" data-dismiss="modal">×</button>
+						
+						<div class="modal-body"></div>
+					</div>
 				</div>
 			</div>
-
-			<div class="span3">
-				<div class="footer_block secure_payment" data-href="http://www.rotring.com/en/content/6-helps-faq#secure-payment">
-					<strong><img src="http://www.rotring.com/themes/axome/img/picto-secure-payment.png" alt="Secure payment"> Secure payment</strong>
-					<p>All international credit cards welcome. Secure and encrypted payment<em>.</em></p>
-				</div>
-			</div>
-
-			<div class="span3">
-				<div class="footer_block quality" data-href="http://www.rotring.com/en/content/6-helps-faq">
-					<strong><img src="http://www.rotring.com/themes/axome/img/picto-quality.png" alt="Quality"> Quality</strong>
-					<p>The best possible products for your creative needs.</p>
-				</div>
-			</div>
-
-			<div class="span3">
-				<div class="footer_block customer_service" data-href="http://www.rotring.com/en/content/6-helps-faq">
-					<strong><img src="http://www.rotring.com/themes/axome/img/picto-customer-service.png" alt="Customer service"> Customer service</strong>
-					<p>Reach out to the rOtring team for any questions.</p>
-				</div>
-			</div>
-		</div>
+			
+			<footer id="colophon">
+				<div class="container clearfix">
+					<div class="clearfix">
+	<div class="footer_socials">
+		<ul class="socials">
+	<li class="facebook"><a href="https://www.facebook.com/rotring" target="_blank"><i></i></a></li>		<li class="youtube"><a href="http://www.youtube.com/rotring" target="_blank"><i></i></a></li>	<li class="pinterest"><a href="http://pinterest.com/rotring/" target="_blank"><i></i></a></li>	<li class="instagram"><a href="http://instagram.com/rotringofficial" target="_blank"><i></i></a></li></ul>
 	</div>
-
-<div id="footer_sitemap">
-	<div class="content_block">
-		<nav>
+	
+			<div id="footer_menu" class="hidden-xs">
 			<ul>
-<li><a href="http://www.rotring.com/en/content/2-privacy">Privacy</a></li>
-<li>|</li>
-<li><a href="http://www.rotring.com/en/sitemap">Site Map</a></li>
-<li>|</li>
-<li><a href="http://www.rotring.com/en/content/3-terms-of-use">Terms of use</a></li>
-<li>|</li>
-<li><a href="http://www.rotring.com/en/content/11-terms-and-conditions">Terms and Conditions</a></li>
-<li>|</li>
-<li><a title="Help" href="http://www.rotring.com/en/content/6-helps-faq">Help / FAQ</a></li>
-<li>|</li>
-<li><a href="http://www.rotring.com/en/stores">Dealers</a></li>
-<li>|</li>
-<li><a href="http://www.rotring.com/en/content/8-catalog-rotring-2013">Catalog</a></li>
+<li><a href="/en/content/2-legal-notice">Support</a></li>
+<li><a href="/en/stores-locator">Store Locator</a></li>
+<li><a href="/en/content/8-catalog-rotring-2014">Catalogue</a></li>
+<li><a href="/en/content/12-terms-and-conditions">Terms and Conditions of Sale</a></li>
+<li><a href="/en/sitemap">Site Map</a></li>
+<li><a href="/en/content/2-legal-notice">Privacy</a></li>
+<li><a href="/en/content/67-exclusive-offers">Exclusive offers</a></li>
 </ul>
-		</nav>
+		</div>
 	</div>
+
+					
+					<!-- Cookie Notify -->
+<style>
+    
+        #cookienotify-wrapper {
+            z-index:100;
+            display:none;
+            position:fixed;
+            left:0;
+            width:100%;
+        
+                    bottom:41px;
+                
+        }
+        #cn-left {float:left;width:65%;}
+        #cn-right {float:right;width:30%;}
+        #cn-slide {display:none;}
+        #cn-docs {list-style-position:inside;margin: 10px 0;}
+        #cookienotify li {padding:0;}
+        #cookienotify .cn-clear {clear: both;height: 0;margin: 0;padding: 0;}
+    
+</style>
+<div id="cookienotify-wrapper">
+    <div id="cookienotify">
+        <div class="title title3">Important: Cookie policy</div>
+        <div id="cn-left">
+            				<p>Cookies are small text files that help us make your experience on our website better. More information about how we use cookies can be found on our Privacy Policy and via this <a title="Waterman Privacy Policy" href="/en/content/2-legal-notice">link</a>. Although cookies are nothing new, we now need your consent to use cookies. If you don't want us to use cookies, some parts of the site will not work. By using any part of the site you consent to the use of cookies. More information about our cookies, <a id="cn-show-hide" href="#">please click here</a></p>
+<div id="cn-slide">
+<div>
+<h3 style="padding: 0; margin: 20px 0 0 0; line-height: 15px;">Notice Cookie</h3>
+<p style="padding: 0; margin: 0;">This cookie is placed if you click the Close button in this message. It tells us you have dismissed this message.<br> <span style="text-decoration: underline;">Cookies used:</span> 5a2c67b4928ffe5745bb882ad7942d17</p>
 </div>
-				
-				
-				<!-- 1000mercis -->
+<div>
+<h3 style="padding: 0; margin: 20px 0 0 0; line-height: 15px;">Analytics Cookies</h3>
+<p>These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics.<br> <span style="text-decoration: underline;">Cookies used:</span> _utma, _utmb, _utmc, _utmz</p>
+</div>
+<div>
+<h3 style="padding: 0; margin: 20px 0 0 0; line-height: 15px;">Functional/Language Cookies</h3>
+<p>These cookies are used when a user logs into the portal and selects its region/language. We will save this language to display the portal in a meaningful way for you as you navigate and it will be automatically selected the next time you log in.<br> <span style="text-decoration: underline;">Cookies used:</span> RUID, MRUID, FUID, __troMRUID, __RUID, anj, ck, uuid2, totsplashscreen_count_page, sess</p>
+</div>
+</div>
+			        </div>
+        <div id="cn-right"><p><a class="btn btn-primary" id="cn-accept-cookies" href="#">Yes, I accept the use of cookies</a></p></div>
+        <div class="cn-clear">&nbsp;</div>
+    </div>
+</div>
+<script>
+	
+	
+	$(function() {
+		$('#cookienotify-wrapper').show();
+		$('#cn-show-hide').on('click', function() {
+			$('#cn-slide').slideDown();
+		});
+		$('#cn-accept-cookies').off('click').on('click', function() {
+			$.ajax({
+				url : '/modules/cookienotify/ajax.php',
+				type : 'POST',
+				data : 'ack=1',
+				success : function(msg) {
+					$('#cookienotify-wrapper').fadeOut();
+				}
+			});
+		});
+	});
+	
+	
+</script>
+<!-- /Cookie Notify --><!-- 1000mercis -->
 <script>
 if (typeof cmd == 'undefined') var cmd = 0;
 var _troq = _troq || [];
@@ -754,15 +694,17 @@ _troq.push(['tagid', '6546631-c601e078efbedd88d37b9298c48baaa1']);
 })();
 </script>
 <!-- /1000mercis -->
-			</div>
+				</div>
+			</footer>
 			
-						
-					</div>
-	</div>
-		<script src="/themes/axome/bootstrap/js/bootstrap.min.js"></script>
+		</div>
+		
+		
+		
+		
+				
+		
 	
-	
-
 
 
 
