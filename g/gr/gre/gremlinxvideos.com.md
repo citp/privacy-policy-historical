@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gremlinxvideos.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408081257id_/http%3A//www.gremlinxvideos.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gremlinxvideos.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221232805id_/http%3A//www.gremlinxvideos.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.gremlinxvideos.com](http://www.gremlinxvideos.com/)  
-Effective Date: April 08, 2014  
+Effective Date: December 22, 2014  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.gremlinxvideos.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
