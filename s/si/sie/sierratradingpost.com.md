@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620200636id_/http%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sierratradingpost.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221221613id_/http%3A//www.sierratradingpost.com/lp2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Save up to 70% at Sierra Trading Post.
 
@@ -85,9 +85,15 @@ As described in the "Interest-Based Online Advertising" section, you may learn m
 
 Consistent with the choices available in the "Information We Share" section, you also may withdraw your consent or object to certain information sharing by contacting us as indicated below. 
 
+  * Sierra Trading Post reserves the right to refuse service, terminate accounts, remove or edit content, and/or cancel orders in its sole discretion.
+  * Sierra Trading Post reserves the right to address accounts with abnormally high return rates.
+  * Sierra Trading Post reserves the right to address accounts returning high amounts of used/worn merchandise.
+
+
+
 If you are a California resident, California law provides that you be given the opportunity to opt out of our sharing your personal information with third parties that would use such personal information for their own direct marketing. Absent such an opt-out, we may share your information with other TJX Businesses (which are affiliates owned by TJX, including Derailed, T.J. Maxx, Marshalls and HomeGoods), to provide you with information about their products, services or promotions that we think may be of interest to you. We also may share your information with other non-affiliates absent such an opt-out, as described in the "Information We Share" section above. Accordingly, per California law, we provide a way for you to opt out if you do not want us to share your information in this manner.
 
-If you are a California resident, you may ask us to refrain from sharing your personal information with certain of our affiliates and other third parties for their marketing purposes. Please tell us your preference by contacting Customer Service. [insert link] If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, e-mail and/or postal mail addresses under which you have been receiving communications from us. Please note that it may take us up to 30 days to fully process your opt-out request. 
+If you are a California resident, you may ask us to refrain from sharing your personal information with certain of our affiliates and other third parties for their marketing purposes. Please tell us your preference by contacting [Customer Service](https://web.archive.org/lp2/customer-service/). If you have already received communications from us, it will expedite the opt-out process if you are prepared to provide us with the exact name, e-mail and/or postal mail addresses under which you have been receiving communications from us. Please note that it may take us up to 30 days to fully process your opt-out request. 
 
 To review our complete Privacy Notice, please [click here](http://www.sierratradingpost.com/lp2/privacy-policy/).
 
