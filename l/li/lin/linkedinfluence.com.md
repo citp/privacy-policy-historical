@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkedinfluence.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530220555id_/http%3A//linkedinfluence.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkedinfluence.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221060719id_/http%3A//linkedinfluence.com/privacy.php) for the most accurate reproduction.*
 
 # Terms of Service | LinkedInfluence
 
