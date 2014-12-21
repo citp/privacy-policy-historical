@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airfarewatchdog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625223225id_/http%3A//www.airfarewatchdog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfarewatchdog.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221130608id_/http%3A//www.airfarewatchdog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Airfarewatchdog
 
@@ -179,7 +179,7 @@ Information Collected by Third Parties. Third parties, such as vendors, advertis
 
 **How we use your information**
 
-Airfarewatchdog.com uses your e-mail address to send you newsletters and promotional e-mails. We use other information about you for the following general purposes: to provide you with the products and services you request; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and Web site; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with Airfarewatchdog.com; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our [Terms of Use](https://web.archive.org/web/terms-of-use/); and as otherwise described to you at the point of collection.
+Airfarewatchdog.com uses your e-mail address to send you newsletters and promotional e-mails. We use other information about you for the following general purposes: to provide you with the products and services you request; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and Web site; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with Airfarewatchdog.com; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes, collect fees, or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our [Terms of Use](https://web.archive.org/terms-of-use/); and as otherwise described to you at the point of collection.
 
 Please review "Your choices with respect to the collection and use of your information" below.
 
