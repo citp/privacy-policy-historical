@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seo-scoop.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619024100id_/http%3A//www.searchenginepeople.com/about/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-scoop.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221164601id_/http%3A//www.searchenginepeople.com/about/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Search Engine People Blog
 
@@ -55,5 +55,3 @@ Pickering, Ontario
 L1V 3P2  
 contact@searchenginepeople.com  
 905-421-9340
-
-[](http://cta-redirect.hubspot.com/cta/redirect/214726/532d5361-805c-4865-a26a-a3c119db561f)
