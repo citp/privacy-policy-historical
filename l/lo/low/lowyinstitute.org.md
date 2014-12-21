@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622172023id_/http%3A//www.lowyinstitute.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowyinstitute.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221131309id_/http%3A//www.lowyinstitute.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lowy Institute for International Policy
-
-## **Privacy Policy – Lowy Institute for International Policy**
+# Privacy Policy- Lowy Institute for International Policy | Lowy Institute for International Policy
 
 The Lowy Institute for International Policy (“Lowy Institute”) is committed to protecting your privacy in accordance with its obligations under the Privacy Act 1988 (Cth) and the Australian Privacy Principles. This Privacy Policy explains our procedures relating to the collection, management and use of your personal information. Personal information means information or an opinion about an identified individual, or an individual who is reasonably identifiable (whether true or not or recorded in a material form or not). By using our products or services or providing personal information to us, you agree to the terms of this Privacy Policy.  
 
