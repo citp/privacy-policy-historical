@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628121001id_/http%3A//auspost.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221222700id_/http%3A//auspost.com.au/privacy.html%3Filink%3Dglobal-footer-privacy-link) for the most accurate reproduction.*
 
 # Privacy - Australia Post
 
