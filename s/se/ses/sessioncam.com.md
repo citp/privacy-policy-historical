@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423062557id_/https%3A//www.sessioncam.com/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221213320id_/http%3A//www.sessioncam.com/privacy-policy-cookies) for the most accurate reproduction.*
 
 # SessionCam l Session Replay l Web Analytics l PRIVACY POLICIES
 
