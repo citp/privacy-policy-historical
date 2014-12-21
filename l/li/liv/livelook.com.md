@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the livelook.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118040248id_/http%3A//www.livelook.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelook.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222005758id_/http%3A//www.livelook.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Industry Leader in Live Support Technology by LiveLOOK | Privacy Policy
 
 Privacy Policy
+
+LiveLOOK has been [acquired](http://www.oracle.com/us/corporate/acquisitions/livelook/index.html) by Oracle and will soon transition to the Oracle Privacy Policy. Click [here](http://www.oracle.com/us/legal/privacy/privacy-policy/index.html) to view the Oracle Privacy Policy and read your options for opt out and compliance issues under that policy. Please note that the provisions of LiveLOOK 's Privacy Policy below will remain active until the policy transition is complete.
 
 LiveLOOK is committed to protecting the privacy and security of any confidential information you share with us and will always use that information carefully and sensibly. We are providing this notice to explain our practices regarding the collection and use of personal information with regard to all the services and websites offered by LiveLOOK, Inc. In order to provide a full range of services, LiveLOOK may collect the following types of information:
 
