@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the livelook.com privacy policy that was archived on 2013-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131118040248id_/http%3A//www.livelook.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livelook.com privacy policy that was archived on 2014-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222005758id_/http%3A//www.livelook.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Industry Leader in Live Support Technology by LiveLOOK | Privacy Policy</title>
@@ -31,6 +31,123 @@
 <!-- Header -->
 
 
+<!-- Framekiller -->
+<script type="text/javascript">
+    var SmartFramekiller = {};
+
+    //list all the allowed domains here
+    SmartFramekiller.allowedDomains = ["www.easymeeting.com", "int.sharescreen.net", "www.sharescreen.net", "www.livelook.com"];
+
+    //how many milliseconds to wait for the frame in question to respond
+    SmartFramekiller.responseTimeout = 1500;
+
+    //change to 0 for production deployments
+    SmartFramekiller.killWaitTime = 0;
+
+    //change to 0 for production deployments
+    SmartFramekiller.isDebug = 0;
+
+    //NO CHANGE BELOW THIS LINE
+
+    SmartFramekiller.waitInterval = 0;
+    SmartFramekiller.isFramed = function () {
+        try {
+            if (window == top)
+                return false;
+        }
+        catch (e) { }
+        return true;
+    }
+    SmartFramekiller.isDomainAllowed = false;
+    SmartFramekiller.waitTimer = function () {
+        if (SmartFramekiller.waitInterval != 0) {
+            clearInterval(SmartFramekiller.waitInterval);
+            SmartFramekiller.waitInterval = 0;
+        }
+        if (SmartFramekiller.isDomainAllowed) {
+            SmartFramekiller.debugMessage("The page is embedded from an allowed domain.", "Green");
+        }
+        else {
+            SmartFramekiller.debugMessage("The top frame did not respond, or the domain is not in the exception list.");
+            SmartFramekiller.kill();
+        }
+    };
+    SmartFramekiller.messageListener = function (event) {
+        var eventSource = event.origin ? event.origin : event.domain;
+        if (eventSource && event.source == top && event.data == "FRAMECHECKRESPONSE") {
+            if (SmartFramekiller.waitInterval != 0) {
+                clearInterval(SmartFramekiller.waitInterval);
+                SmartFramekiller.waitInterval = 0;
+            }
+            eventSource = eventSource.replace("http://", "").replace("https://", "").toLowerCase();
+            for (var i = 0; i < SmartFramekiller.allowedDomains.length; i++) {
+                if (eventSource == SmartFramekiller.allowedDomains[i]) {
+                    SmartFramekiller.isDomainAllowed = true;
+                    break;
+                }
+            }
+        }
+    };
+    SmartFramekiller.inquire = function() {
+        setTimeout(function () {
+            //has to be ASYNC on old/compat IE
+            top.postMessage("FRAMECHECK", "*");
+        }, 0);
+    };
+    SmartFramekiller.debugMessage = function (msg, color) {
+        if (SmartFramekiller.isDebug && document.getElementById("dataLog")) {
+            var txt = msg;
+            if (color) {
+                txt = '<span style="color:' + color + ';">' + msg + '</span>';
+            }
+            document.getElementById("dataLog").innerHTML += txt + "<br />";
+        }
+    };
+    SmartFramekiller.kill = function () {
+        SmartFramekiller.debugMessage("The frame will be killed in " + (SmartFramekiller.killWaitTime/1000) + " second(s).", "Red");
+        setTimeout(function () {
+            top.location = self.location;
+        }, SmartFramekiller.killWaitTime);
+    };
+    SmartFramekiller.init = function () {
+        SmartFramekiller.debugMessage("Starting Framekiller debug log");
+        if (!SmartFramekiller.isFramed()) {
+            SmartFramekiller.debugMessage("Page is not framed - no action required.", "Green");
+            return;
+        }
+
+        if (!window.postMessage) {
+            //browser does not support postMessage - kill the frame right away
+            SmartFramekiller.debugMessage("Browser is too old - no way to reliably get the top frame address.");
+            SmartFramekiller.kill();
+            return;
+        }
+
+        SmartFramekiller.debugMessage("The page is framed: waiting for " + (SmartFramekiller.responseTimeout / 1000) + " second(s) for the top frame to introduce itself.");
+
+        try {
+            if (window.attachEvent) {
+                //IE8
+                window.attachEvent("onmessage", SmartFramekiller.messageListener);
+            }
+            else if (window.addEventListener) {
+                //Firefox, Safari, Opera, Chrome, IE9+
+                window.addEventListener("message", SmartFramekiller.messageListener, false);
+            }
+        }
+        catch (e) { }
+
+        SmartFramekiller.waitInterval = setInterval(function() {
+            SmartFramekiller.inquire();
+        }, 100);
+
+        SmartFramekiller.inquire();
+
+        setTimeout(SmartFramekiller.waitTimer, SmartFramekiller.responseTimeout);
+    };
+
+    //SmartFramekiller.init();
+</script>
 <!-- Login modal -->
 <div id="loginBlock" class="loginBlock popup">
     <div class="top">
@@ -95,12 +212,8 @@
 			<ul id="menu">
 				<li id="products_menu"><a href="javascript:void(0)" id="products_menu_a">Products</a>
 					<ul class="subMenu" id="products_menu_content" style="display: none;">
-						<li><a href="products.asp">All products</a><span class="menuRibbon"></span></li>
 						<li><a href="ll_co_browsing.asp">Co-Browse</a><span class="menuRibbon"></span></li>
-						<li><a href="ll_co_browse_premium.asp">Co-Browse PremiuM</a><span class="menuRibbon"></span></li>
-						<li><a href="livechat.asp">Live Chat</a><span class="menuRibbon"></span></li>
-						<li><a href="presenter.asp">Presenter</a><span class="menuRibbon"></span></li>
-						<li class="last"><a href="remotesupport.asp">Remote Support</a><span class="menuRibbon"></span></li>
+						<li class="last"><a href="presenter.asp">Presenter</a><span class="menuRibbon"></span></li>
 					</ul>
 				</li>
 				<li><a href="co_browsing_partners.asp">Partners</a></li>
@@ -114,20 +227,19 @@
 								<li class="last"><a href="financial_services.asp">Financial Services</a></li>
 							</ul>
 						</li>
-						<li><a href="javascript:void(0)">Use Cases</a><span class="menuRibbon"></span>
-							<ul class="subMenu" style="display: none;">
+						<li><a href="use_cases.asp">Use Cases</a><span class="menuRibbon"></span>
+							<!--<ul class="subMenu">
 								<li><a href="use_case_sales.asp">Sales</a></li>
-								<li class="last"><a href="use_customer_service.asp">Customer Service</a></li>
-							</ul>
+								<li class="last"><a href="use_cases.asp">Customer Service</a></li>
+							</ul>-->
 						</li>
 						<li><a href="testimonials.asp">From the Experts</a><span class="menuRibbon"></span></li>
-						<li><a href="faq.asp">FAQ</a><span class="menuRibbon"></span></li>
-						<li class="last"><a href="http://blog.livelook.com" target="_blank">Blog</a><span class="menuRibbon"></span></li>
+						<li class="last"><a href="faq.asp">FAQ</a><span class="menuRibbon"></span></li>
 					</ul>
 				</li>	
 				<li id="company_menu"><a href="javascript:void(0)" id="company_menu_a">Company</a><span class="menuRibbon"></span>
 					<ul class="subMenu" id="company_menu_content" style="display: none;">
-						<li><a href="about_us.asp">About us</a><span class="menuRibbon"></span></li>
+						<li><a href="about_us.asp">About Us</a><span class="menuRibbon"></span></li>
 						<li><a href="jobs.asp">Careers</a><span class="menuRibbon"></span></li>
 						<li class="last"><a href="press_releases.asp">Media Center</a><span class="menuRibbon"></span></li>
 					</ul>
@@ -135,9 +247,9 @@
 			</ul>
 
 			<ul id="socialIcons">
-				<li><a href="https://www.facebook.com/LiveLOOK" target="_blank" class="facebook"></a></li>
-				<li><a href="https://twitter.com/livelook" target="_blank" class="twitter"></a></li>
-				<li class="last"><a href="http://www.linkedin.com/company/272016?trk=tyah" target="_blank" class="linkedin"></a></li>
+				<li><a href="https://www.facebook.com/OracleServCloud?fref=nf" target="_blank" class="facebook"></a></li>
+				<li><a href="https://twitter.com/OracleServCloud" target="_blank" class="twitter"></a></li>
+				<li class="last"><a href="https://www.linkedin.com/groups?home=&amp;gid=764287&amp;trk=anet_ug_hm" target="_blank" class="linkedin"></a></li>
 			</ul>
 		</div>
 	</div>
@@ -148,7 +260,7 @@
 	<div class="topShadow">
 		<div class="center">
 			<!-- Phone number and Click to Chat block -->
-			<div id="callBlock">
+			<!--<div id="callBlock">
 	<div class="left"></div>
 	<div class="middle">
 		<a href="javascript:void(0)" onclick="startLLChat();">Click to Chat</a>
@@ -162,12 +274,12 @@
 		var siteID = "ICB:SC2002:WW";
 		var chatReferer = escape(document.location);
 		var documentTitle = escape(document.title);
-		var chatURL = "//" + "www.livelook.com" + "/chat/chatclient.aspx?SiteId="+siteID+"&referrer="+chatReferer+"&title="+documentTitle;
+		var chatURL = "//" + "www.livelook.com" + "/chat/chatclient.aspx?SiteId="+siteID+"&referrer="+chatReferer+"&title="+documentTitle+"&ui=v2";
 		try {
-			window.open(chatURL, 'LiveLOOK_Chat', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,titlebar=0,status=0,width=500,height=410, left='+Math.max(0,(screen.width-500)/2)+', top='+Math.max(0,(screen.height-410)/2));	
+			window.open(chatURL, 'LiveLOOK_Chat', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,titlebar=0,status=0,width=360,height=700, left='+Math.max(0,(screen.width-360)/2)+', top='+Math.max(0,(screen.height-700)/2));	
 		} catch(ex) {}	
 	}
-</script>
+</script>-->
 		</div>
 	</div>
 
@@ -180,6 +292,8 @@
 					
 					<p class="pageTitle"><span>Privacy Policy</span></p>
 					<div class="clear"></div>
+
+					<p>LiveLOOK has been <a href="http://www.oracle.com/us/corporate/acquisitions/livelook/index.html" target="_blank">acquired</a> by Oracle and will soon transition to the Oracle Privacy Policy. Click <a href="http://www.oracle.com/us/legal/privacy/privacy-policy/index.html" target="_blank">here</a> to view the Oracle Privacy Policy and read your options for opt out and compliance issues under that policy. Please note that the provisions of LiveLOOK 's Privacy Policy below will remain active until the policy transition is complete.</p>
 
 					<p>LiveLOOK is committed to protecting the privacy and security of any confidential information you share with us and will always use that information carefully and sensibly. We are providing this notice to explain our practices regarding the collection and use of personal information with regard to all the services and websites offered by LiveLOOK, Inc. In order to provide a full range of services, LiveLOOK may collect the following types of information:</p>
 					
@@ -247,20 +361,14 @@
 			<ul class="first">
 				<li>Products</li>
 				<li><a href="ll_co_browsing.asp">Co-Browse</a></li>
-				<li><a href="ll_co_browse_premium.asp">Co-Browse PremiuM</a></li>
-				<li><a href="livechat.asp">Live Chat</a></li>
-				<li><a href="presenter.asp">Screen Sharing</a></li>
-				<li><a href="remotesupport.asp">Remote Support</a></li>
+				<li><a href="presenter.asp">Presenter</a></li>
 			</ul>
 
 			<ul>
 				<li>Resources</li>
-				<li><a href="use_customer_service.asp">Use Cases</a></li>
-				<li><a href="http://insights.livelook.com/acton/fs/blocks/showLandingPage/a/1587/p/p-0014/t/page/fm/0" target="_blank">White Papers</a></li>
+				<li><a href="use_cases.asp">Use Cases</a></li>
 				<li><a href="competitive_assessment.asp">Competitive Assessment</a></li>
-				<li><a href="http://insights.livelook.com/acton/form/1587/0020:d-0001/0/index.htm" target="_blank">Evaluation Toolkit</a></li>
 				<li><a href="faq.asp">FAQ</a></li>
-				<li><a href="http://blog.livelook.com/" target="_blank">Blog</a></li>
 			</ul>
 
 			<ul class="last">
@@ -278,22 +386,41 @@
 		<div class="center">
 			<ul>
 				<li class="first">LiveLOOK, Inc.</li>
-				<li>100 Matawan Road, Suite 415, Matawan, NJ 07747, USA</li>
-				<li>1.888.856.6046</li>
-				<li class="last">1.732.520.2006</li>
+				<li class="last">100 Matawan Road, Suite 415, Matawan, NJ 07747, USA</li>
 			</ul>
 
 			<ul class="right">
-				<li><a href="contact_us.asp">Contact Us</a></li>
+				<li><a href="sitemap.asp">Sitemap</a></li>
 				<li><a href="privacy_policy.asp">Privacy Policy</a></li>
 				<li class="last"><a href="terms_of_use.asp">Terms of Use</a></li>
 			</ul>
 			<div class="clear"></div>
-			<p class="justify">LiveLOOK is a web-based, instant <a href="screen_sharing.asp">screen sharing</a> and <a href="live_help.asp">live help</a> <a href="co_browsing.asp">co-browsing</a> service designed to make online interactions easy. LiveLOOK is one of the few cross-platform <a href="screen_sharing.asp">screen sharing</a> and <a href="live_help.asp">live help</a> <a href="co_browsing.asp">co-browsing</a> tools on the market, allowing subscribers to host or join online meetings from PCs, Macs or Linux. Companies around the world use LiveLOOK for product demos, online conferences, webinars, creative presentations, online training, <a href="live_help.asp">live help</a> remote support and on-demand application and <a href="screen_sharing.asp">screen sharing</a>. Call us for a <a href="http://insights.livelook.com/acton/form/1587/000e:d-0001/0/index.htm" target="_blank">free online tour</a> and see why LiveLOOK is "the simplest, fastest way for people to view your screen".</p>
+			<p class="justify marginedParagraph">Copyright © 2014, Oracle and/or its affiliates. All rights reserved. Oracle and Java are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners.</p>
+			<p class="justify">LiveLOOK is the global leader in the development of instant, mobile-friendly visual collaboration technologies. LiveLOOK’s Co-Browse solution is used by over 20% of Fortune 100 companies to improve online customer service and sales. Find out more by <a href="http://insights.livelook.com/acton/form/1587/000e:d-0001/0/index.htm" target="_blank">scheduling a demo</a> today!</p>
 		</div>
 		<div class="clear"></div>
 	</div>
 </div>
+
+<!-- Google Code for Remarketing Tag -->
+<!--
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+-->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1035179976;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1035179976/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 <script type="text/javascript" src="/welcome/launcher.aspx?api_key=ICB:SC2002:WW"></script><iframe id="LL_DataServer" name="LL_DataServer" src="https://web.archive.org/web/20131112230200/https://www.livelook.com/webinterfaces/storage/ll_storage.html" width="1px" height="1px" frameborder="0" scrolling="no" style="display: block; border: 0 none; width: 1px; height: 1px;"></iframe>
 
 <!-- Analytics -->
@@ -312,7 +439,7 @@
 				var aoServerContext = 'https://insights.livelook.com/acton';
 			} catch(e) {}
 			/* ]]> */
-		</script><img src="https://insights.livelook.com/acton/bn/1587/visitor.gif?ts=1582139784516&amp;ref=">                      
+		</script><img src="https://insights.livelook.com/acton/bn/1587/visitor.gif?ts=1582139786127&amp;ref=">                      
 
 		<script type="text/javascript">
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
