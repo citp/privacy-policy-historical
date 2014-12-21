@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627125018id_/http%3A//www.smilecity.co.nz/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221172504id_/http%3A//smilecity.co.nz/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - SmileCity
 
@@ -51,10 +51,10 @@ We respect your time and attention. We will never send to you more than fourteen
 
 Each email we send to you contains a link at the very bottom allowing you to unsubscribe.
 
-To unsubscribe now, [click here](https://web.archive.org/web/20140627125018id_/http%3A//www.smilecity.co.nz/Account/Settings.aspx).
+To unsubscribe now, [click here](https://web.archive.org/web/20141221172504id_/http%3A//smilecity.co.nz/Account/Settings.aspx).
 
-**If you have received unwanted email sent from SmileCity,** or purporting to be sent from SmileCity, please [contact SmileCity](https://web.archive.org/web/20140627125018id_/http%3A//www.smilecity.co.nz/Help/Contact.aspx).
+**If you have received unwanted email sent from SmileCity,** or purporting to be sent from SmileCity, please [contact SmileCity](https://web.archive.org/web/20141221172504id_/http%3A//smilecity.co.nz/Help/Contact.aspx).
 
-**If you have any questions** about the privacy and permission practices of the SmileCity Web site or your dealings with SmileCity Ltd, please [contact SmileCity](https://web.archive.org/web/20140627125018id_/http%3A//www.smilecity.co.nz/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
+**If you have any questions** about the privacy and permission practices of the SmileCity Web site or your dealings with SmileCity Ltd, please [contact SmileCity](https://web.archive.org/web/20141221172504id_/http%3A//smilecity.co.nz/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
 
-This statement should be read in conjunction with the SmileCity [Terms of Service](https://web.archive.org/web/20140627125018id_/http%3A//www.smilecity.co.nz/Terms.aspx).
+This statement should be read in conjunction with the SmileCity [Terms of Service](https://web.archive.org/web/20141221172504id_/http%3A//smilecity.co.nz/Terms.aspx).
