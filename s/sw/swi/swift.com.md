@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014182443id_/http%3A//www.swift.com/about_swift/legal/privacy_statement_june_2012) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221214638id_/http%3A//www.swift.com/about_swift/legal/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,7 +17,7 @@ This Statement explains how we use personal data collected from you on our websi
 
 We invite you to carefully read this Statement to understand our data processing practices. 
 
-For the purpose of the Belgian Act on Privacy Protection in relation to the Processing of Personal Data of 9 December 1992 (the Belgian Act), the data controller for personal data collected on our websites is S.W.I.F.T SCRL, Avenue Adèle, 1, 1310 La Hulpe, Belgium (‘SWIFT’ or ‘We’ in this Statement). 
+For the purpose of the Belgian Act on Privacy Protection in relation to the Processing of Personal Data of 8 December 1992 (the Belgian Act), the data controller for personal data collected on our websites is S.W.I.F.T SCRL, Avenue Adèle, 1, 1310 La Hulpe, Belgium (‘SWIFT’ or ‘We’ in this Statement). 
 
 We may modify this Statement from time to time. Please check it periodically for changes, in particular when you submit personal data on our websites. 
 
