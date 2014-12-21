@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yudu.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627225944id_/http%3A//www.yudu.com/about-yudu/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yudu.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221215510id_/http%3A//yudu.com/about-yudu/faq/privacy-policy) for the most accurate reproduction.*
 
 # FAQ | YUDU
 
