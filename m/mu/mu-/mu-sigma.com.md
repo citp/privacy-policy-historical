@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mu-sigma.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619205311id_/http%3A//www.mu-sigma.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mu-sigma.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221141330id_/http%3A//www.mu-sigma.com/privacy.html) for the most accurate reproduction.*
 
 # Mu Sigma - Privacy Policy
 
