@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegetimes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065700id_/http%3A//collegetimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegetimes.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221054320id_/http%3A//collegetimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CollegeTimes.com - CollegeTimes.com
+# Privacy Policy - CollegeTimes.com - Join The Party!
 
 **What information do we collect?**
 
@@ -16,22 +16,22 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To personalize your experience  
+– To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-\- To improve our website  
+– To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-\- To improve customer service  
+– To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-\- To process transactions
+– To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-\- To administer a contest, promotion, survey or other site feature
+– To administer a contest, promotion, survey or other site feature
 
-\- To send periodic emails
+– To send periodic emails
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
@@ -79,7 +79,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://beta.collegetimes.com
+http://collegetimes.com
 
 83 Harcourt Street  
 Dublin Dublin 2  
