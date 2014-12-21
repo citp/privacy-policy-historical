@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activtrak.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093157id_/http%3A//activtrak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activtrak.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221221949id_/http%3A//activtrak.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Employee Monitoring Software | ActivTrak
+# Privacy Policy | Free Computer Monitoring Software | ActivTrak.com
 
 **This Privacy Policy was last updated on March 02, 2012.**
 
