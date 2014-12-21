@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the selfgrowth.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626205223id_/http%3A//selfgrowth.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfgrowth.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221221754id_/http%3A//www.selfgrowth.com/privacypolicy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
 This page contains the privacy policy for Self Improvement Online, Inc., SelfGrowth.com and all it's related websites. 
 
-**-What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name,email address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. Like most websites we use cookies and/or web beacons to enhance your experience, gather general visitor information,and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
+**-What information do we collect?**
+
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name,email address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. Like most websites we use cookies and/or web beacons to enhance your experience, gather general visitor information,and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
 **\- What do we use your information for?** Any of the information we collect about you may be used in one of the following ways:
 
