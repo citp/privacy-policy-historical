@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maketecheasier.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617093533id_/http%3A//www.maketecheasier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maketecheasier.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221064420id_/http%3A//www.maketecheasier.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For MakeTechEasier.com
 
@@ -8,14 +8,12 @@ Any personal information you provide to us including and similar to your name, a
 
 Other Internet sites or services that may be accessible through MakeTechEasier.com have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
 
-For newsletter management and distribution, MakeTechEasier uses services offered by Google’s Feedburner. While these are established companies that are known to be reliable when it comes to keeping their servers secure we can’t be held repsponsible/liable for any breaches or customer data loss that may occur at those companies.
-
-MakeTechEasier.com will never ask for credit card details and request that you do not enter them on any of the forms on MakeTechEasier.com.
-
 MakeTechEasier.com is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
-A “cookie” is a small data text file that is placed in your browser and allows MakeTechEasier.com to recognize you each time you visit this site (customisation etc). Cookies themselves do not contain any personal information, and MakeTechEasier.com does not use cookies to collect personal information.
+A “cookie” is a small data text file that is placed in your browser and allows MakeTechEasier.com to recognize you each time you visit or login to this site (customisation etc). Cookies themselves do not contain any personal information, and MakeTechEasier.com does not use cookies to collect personal information.
 
 Cookies may also be used by third party content providers such as newsfeeds and ad providers. Third party ad networks that are serving ads on MakeTechEasier.com may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Also keep in mind that third party ads served on MakeTechEasier.com (i.e. from Google Adsense) are likely to be customised to reflect user’s (in this case you) interests. Please contact those vendors and others directly if you have any questions about their privacy policies.
