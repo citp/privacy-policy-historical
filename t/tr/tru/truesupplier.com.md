@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619050627id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221063624id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help zone :: Truesupplier - Blackberry Accessories,iPhone Accessories,Galaxy Accessories & HTC Accessories wholesale Co.
 
@@ -6,45 +6,35 @@
 ---  
 CALL US: +86-755-8884-7001   International: +86-755-8884-6981   |   
   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=494&banner_redirect=http://www.truesupplier.com/apple-iphone-5-purple-middle-plate-housing-cover-2-design-pr-30736.html) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=476&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+4s+colorful+middle+plate) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=504&banner_redirect=http://www.truesupplier.com/oem-blackberry-p9981-qwerty-keyboard-keypad-pr-30827.html)   
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=501&banner_redirect=http://www.truesupplier.com/apple-iphone-5-pink-diamond-back-cover-housing-middle-plate-gold-pr-30803.html) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=495&banner_redirect=http://www.truesupplier.com/apple-iphone-5-fisheye-camera-lens-pr-30800.html) [](http://www.truesupplier.com/ad_banner_click.php?banner_id=504&banner_redirect=http://www.truesupplier.com/oem-blackberry-p9981-qwerty-keyboard-keypad-pr-30827.html)   
   
   
 
 
-| A very nice easy and fast trade with full support during sale process. Highly recommended...   
+| Very good seller and honest, obedient, and wise seller and very quick shipping  
 ---  
-Deepak   
+ramiwawaw   
   
 * * *  
   
-im a gadget freak lol i love spoiling my gadgets coz thats how i entertain my self to keep me happy rocking my gadgets lol so, truesupplier been helping me for almost 2 years now and their stuff are the coolest! :) 
-
-keep up the good work and level it up!! 
-
-THanks for being part of my gadget life! 
-
-lol 
-
-xox   
-Liana  
-  
-Liana   
+I have been dealing with TrueSupplier for over a year and I sould say that the Team has consistently maintained its quality, competitive pricing, fast shipping and promptness of feedback. TrueSupplier remains a trusted supplier. Thanks a lot Team! Cheers!  
+Randir   
   
 * * *  
   
-I received my cases today! I'm happy that it looks good than on the picture. They missed one item but they're very helpful on re-shipping it. The people are very understanding and just an email away. Great service! Thank you!  
-Caii   
+I would just like to take the time to leave this testimonial as my way of supporting their business. I have bought over $500 USD in products from True Supplier and i am very satisfied with what they have given me in return. So far i have received 1/3 orders i made. Their shipment process was very quickly and arrived within 5 days (aramex shipping)  
+Danish   
   
 * * *  
   
-[**Write Your Own Testimonial**](https://web.archive.org/web/20140619050627id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
+[**Write Your Own Testimonial**](https://web.archive.org/web/20141221063624id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
   
   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=154&banner_redirect=http://www.truesupplier.com/wholesale-sources-c-513.html)
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=484&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+5+crystal+case)
 
 [](http://www.truesupplier.com/ad_banner_click.php?banner_id=471&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=Apple+iPhone+4S+Battery+Cover+With+Protruding+Diamond+Logo)
 
-[Truesupplier - Blackberry Accessories,iPhone Accessories,Galaxy Accessories & HTC Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20140619050627id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
+[Truesupplier - Blackberry Accessories,iPhone Accessories,Galaxy Accessories & HTC Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20141221063624id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
 ---  
   
 Thank you for accessing the web site ("Site") of truesupplier.com, Inc. ("truesupplier.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
@@ -123,5 +113,5 @@ Truesupplier.com
 
 [](http://www.truesupplier.com/ad_banner_click.php?banner_id=508&banner_redirect=http://www.truesupplier.com/apple-iphone-5-360-rotating-leather-case-pouch-cover-7-colors-pr-30479.html)
 
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=472&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=iphone+4s+lcd+assembly)   
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=352&banner_redirect=http://www.truesupplier.com/_search.php?page=1&q=9800+keyboard)   
 
