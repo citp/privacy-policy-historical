@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629063941id_/http%3A//www.theweathernetwork.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweathernetwork.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221084930id_/http%3A//www.theweathernetwork.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Weather Network
 
@@ -165,7 +165,7 @@ The Website may contain links to other websites. As well, certain products and s
 
 ### Contact Us
 
-We hope you find this Privacy Policy informative and clear. Please use our [feedback form](https://web.archive.org/contactinfo/contactindex) to contact us regarding any questions or further information you may be interested in. You can also contact us by mail, at:
+We hope you find this Privacy Policy informative and clear. Please use our [feedback form](https://web.archive.org/about-us/contact-us) to contact us regarding any questions or further information you may be interested in. You can also contact us by mail, at:
 
  **Privacy Officer
 
