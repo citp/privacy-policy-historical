@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prizeo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628110430id_/http%3A//prizeo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizeo.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221141227id_/http%3A//www.prizeo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Prizeo
+# Privacy policy
 
 * * *
 
@@ -8,7 +8,7 @@
   2. To provide the Site and the Services, it is necessary for us to hold and process certain personal information. We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with data protection legislation applicable in the UK. 
   3. From time to time, we may collect or ask you to provide some or all of the following: name, address, date of birth, gender, email addresses and/or mobile phone numbers, financial information such as credit/debit card numbers, IP addresses, web-browser details, operating system details, and/or your activities on the Site. This information will be stored together with any additional information you may provide to us from time to time, and will be used to provide you with the Services and any other services associated with them. We may also use your personal information to analyse use of the Site and/or to keep you up-to-date with other products and services, which we think may be of interest to you. All Competition entrants are automatically entered onto our database for the purpose of conveying information as to status within or for Competitions, as well as for any future promotions or Competitions we offer. 
   4. We will only keep your personal information for as long as is necessary. We may, from time to time, expand or reduce our business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where relevant, be transferred and the new owner or new controlling party will, under the terms of this Privacy Policy, be permitted to use such data for the purposes for which it was supplied by you. 
-  5. We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’, you may change the settings on your computer or browser accordingly. 
+  5. We may use cookies while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’, you may change the settings on your computer or browser accordingly. 
   6. If you do not want us to retain or use your personal information in any way, please withdraw your consent (i.e. “opt out”), by contacting us at [info@prizeo.com](mailto:info@prizeo.com). 
   7. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at [info@prizeo.com](mailto:info@prizeo.com). 
 
