@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whatutalkingboutwillis.info privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616130647id_/http%3A//whatutalkingboutwillis.info/disclosure-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatutalkingboutwillis.info privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221025549id_/http%3A//www.whatutalkingboutwillis.info/disclosure-policy) for the most accurate reproduction.*
 
-# privacy policy -
+# privacy policy
 
 **What information do we collect?**
 
