@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the angara.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325091251id_/http%3A//www.angara.com/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angara.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221133626id_/http%3A//www.angara.com/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy and Security | Angara.com
+
+Privacy & Security Statement
 
 Angara values the trust you have placed in us. As part of our relationship, we recognize and respect your privacy. That is why Angara is committed to protecting your privacy and using the information you share with us responsibly.
 
@@ -26,12 +28,9 @@ If you are visiting Angara.com through a link from another website or search eng
 
 **How do I access or change my information?**
 
-If at any time you want to change or review the information you have provided, simply sign on to Angara.com and click on "Login/Register" on the navigation bar. You will then be able to change any information stored in your account. Be sure to click "Save" when you complete your changes. You can also change or access this information by calling 888 9 ANGARA, or by sending an email to [customerservice@angara.com](mailto:customerservice@angara.com). Please be sure to include or have ready your full name, address, phone number and email address.
+If at any time you want to change or review the information you have provided, simply sign on to Angara.com and click on "Login/Register" on the navigation bar. You will then be able to change any information stored in your account. Be sure to click "Save" when you complete your changes. You can also change or access this information by calling 888 9 ANGARA, or by sending an email to [customer.service@angara.com](mailto:customer.service@angara.com). Please be sure to include or have ready your full name, address, phone number and email address.
 
 **How do I access or change my information?**
-
- **By Email** : [customerservice@angara.com](mailto:customerservice@angara.com)  
-**By Phone** : 888 926 4272
 
 **What are cookies? Does Angara.com use cookies?**
 
@@ -54,9 +53,6 @@ The Angara.com website may include links to other websites that are not under ou
 Angara is concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13 years of age. Angara does not sell products for purchase by children.
 
 **What if there are changes to this Statement or if I have other questions?**
-
- **By Email** : [customerservice@angara.com](mailto:customerservice@angara.com)  
-**By Phone** : 888 926 4272
 
 **Headquarters**  
 Angara Inc.  
