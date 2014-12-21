@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the media.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627232342id_/http%3A//www.media.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media.net privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221133015id_/http%3A//www.media.net/privacy-policy) for the most accurate reproduction.*
 
-# Media.net
+# Privacy Policy
+
+### Privacy Policy
 
 Media.Net Advertising Ltd., including our affiliates and subsidiaries, (individually and/or collectively, "Media.Net," "we," "us" or "our") makes available the website located on the Internet at uniform resource locator (URL) [http://www.media.net/](http://media.net/) ("Website"). We utilize our ad serving technology (our "Technology") to generate and present targeted advertising on behalf of the advertisers and publishers participating in our advertising network (our "Partners"). This Privacy Policy describes the kinds of information we collect about consumers ("you" or "your") on sites operated by our Partners that use our Technology ("Partner Sites") and how we use and share that information.
 
