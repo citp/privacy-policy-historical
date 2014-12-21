@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starone.org privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619172957id_/https%3A//www.starone.org/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starone.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221132011id_/https%3A//www.starone.org/home/privacy) for the most accurate reproduction.*
 
 # Privacy - Star One Credit Union
 
@@ -6,8 +6,8 @@
 
 **FACTS** | 
 
-**WHAT DOES** **STAR ONE CREDIT UNION** **DO  
-WITH YOUR PERSONAL INFORMATION?** ****  
+**WHAT DOES STAR ONE CREDIT UNION DO  
+WITH YOUR PERSONAL INFORMATION?**  
   
 ---|---  
   
@@ -37,7 +37,7 @@ How?
 
 | 
 
-All financial companies need to share members’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members’ personal information; the reasons Star One Credit Union chooses to share; and whether you can limit this sharing.  
+All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members’ personal information; the reasons Star One Credit Union chooses to share; and whether you can limit this sharing.  
   
 **Reasons we can share your personal information**
 
@@ -121,13 +121,13 @@ We don't share
   
 ---  
   
-**How does** **Star One Credit Union** **protect my personal information?**
+**How does Star One Credit Union protect my personal information?**
 
 | 
 
 To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. We also restrict access to nonpublic personal information about you to those employees and volunteers who need to know the information to provide products or services to you.  
   
-**How does** **Star One Credit Union** **collect my personal information?**
+**How does Star One Credit Union** **collect my personal information?**
 
 | 
 
@@ -195,17 +195,10 @@ A formal agreement between _Star One Credit Union and a_ nonaffiliated financial
   
 ---  
   
-**Protecting Children’s Private Information.** Our online financial services are not designed for or directed toward children. We do not knowingly solicit or collect data from children and we do not knowingly market to children online. We recognize that protecting children’s identities and online privacy is important and that responsibility rests with us and with parents.  
- 
+**Protecting Children's Private Information.** Our online financial services are not designed for or directed toward children. We do not knowingly solicit or collect data from children and we do not knowingly market to children online. We recognize that protecting children's identities and online privacy is important and that responsibility rests with us and with parents.
 
-**For California Residents** **.** In accordance with California law, the following Online Privacy section supplements the Privacy Policy of Star One Credit Union.
+**For California Residents.** In accordance with California law, the following Online Privacy section supplements the Privacy Policy of Star One Credit Union.
 
-When you visit our website or submit an online application, conduct an online transaction, use the FinanceWorks program or send us an e-mail, we may collect personal information about you. Your personal identifiable information may include: name, email address, social security number, account number, account information, transaction information, and credit information.
-
-We may share your personal identifiable information with 1) our third-party service providers and payment processor to facilitate your services or transactions, or 2) other financial companies with whom we have a joint marketing agreement.
-
-We do not maintain a separate online process for online viewers or users to review and request changes to the personal identifiable information we have collected.
-
-Certain web browsers offer a ‘Do Not Track’ (DNT) option that permits users to select a preference not to have information about web browsing activities monitored and collected. Our website will not honor DNT signals from you and we will not monitor or collect information of your browsing activity.  
+When you visit our website or submit an online application, conduct an online transaction, use the FinanceWorks program or send us an e-mail, we may collect personal information about you. Your personal identifiable information may include: name, email address, social security number, account number, account information, transaction information, and credit information. We may share your personal identifiable information with 1) our third-party service providers and payment processor to facilitate your services or transactions, or 2) other financial companies with whom we have a joint marketing agreement. We do not maintain a separate online process for online viewers or users to review and request changes to the personal identifiable information we have collected. Certain web browsers offer a 'Do Not Track' (DNT) option that permits users to select a preference not to have information about web browsing activities monitored and collected. Our website will not honor DNT signals from you and we will not monitor or collect information of your browsing activity.  
   
 **Privacy Policy Changes.** We reserve the right to amend this Privacy Policy at any time.
