@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326075827id_/https%3A//www.ozbargain.com.au/wiki/help%3Aprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozbargain.com.au privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221222357id_/https%3A//www.ozbargain.com.au/wiki/help%3Aprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - OzBargain Wiki
 
@@ -19,7 +19,7 @@ Upon registration your
 
 are collected and are required to use OzBargain 
 
-Optionally, you may enter optional information into your profile which is located in My Account-Edit-Profile. 
+Optionally, you may enter information into your profile which is located in My Account-Edit-Profile. 
 
   * gender (e.g. male)
 
@@ -49,7 +49,7 @@ Viewable by the Public:
   * 
 
 
-Moderators & Admins : 
+[Moderators & Admins](https://www.ozbargain.com.au/wiki/help:moderators "https://www.ozbargain.com.au/wiki/help:moderators") : 
 
   * email address 
 
@@ -134,4 +134,4 @@ We will only use the information you have provided lawfully. Under no circumstan
 
 If you have any enquiry regarding your privacy on OzBargain, please use the [contact form](http://www.ozbargain.com.au/contact "http://www.ozbargain.com.au/contact") to contact us. 
 
-Last edited by **neil** on 2014/03/24 20:39
+Last edited by **neil** on 2014/07/09 01:36
