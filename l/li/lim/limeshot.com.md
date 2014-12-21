@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limeshot.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405001123id_/http%3A//limeshot.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limeshot.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221150213id_/http%3A//limeshot.com/contact-us/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Limeshot Logo Design & Branding Sydney
+# Privacy Policy
 
 Limeshot Design respects your privacy and is committed to protecting your personal information that you provide to us. This statement explains our policies and practices regarding the use and disclosure of your personal information by Limeshot Design. Please note that, Limeshot Design reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Limeshot Design collects and uses personal information. By using our web site, you consent to the collection and use of your personal information by Limeshot Design as explained below.
 
