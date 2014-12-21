@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srx.com.sg privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624044330id_/http%3A//www.srx.com.sg/srx/home/srxPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srx.com.sg privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221194004id_/http%3A//www.srx.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Singapore Real Estate Exchange (SRX)
 
@@ -19,6 +19,6 @@ SRX collects certain personally identifiable information in order to provide you
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary to: (a) to comply with the law or in response to a subpoena, court order, government request, or other legal process; (b) to protect the interests, rights, safety, or property of SRX or others; (c) to enforce any terms of use on SRX; (d) to provide you with the services or products requested by you and to perform other activities related to such services and products, including billing and collection; (e) in connection with a merger, acquisition, or liquidation of SRX, or (f) to operate SRX's systems properly. 
 
-We may also share your personal information with a sponsor or other third party who is interested in serving you ("Third-Party Providers"). You may inform us at any time not to share your personal information with such Third-Party Providers by clicking here: [info@srx.sg](mailto:info@srx.sg) or by contacting us at: 66383388 
+We may also share your personal information with a sponsor or other third party who is interested in serving you ("Third-Party Providers"). You may inform us at any time not to share your personal information with such Third-Party Providers by clicking here: [info@streetsine.com](mailto:info@streetsine.com) or by contacting us at: 66383388 
 
 SRX reserves the right to change this Privacy Policy at any time by posting revisions on the SRX website. This Privacy Policy is not intended to, and does not create any contractual or other legal rights in or on behalf of any party. This Privacy Policy applies only to the SRX website and does not apply to other products and services offered by Streetsine (Pte. Ltd.). 
