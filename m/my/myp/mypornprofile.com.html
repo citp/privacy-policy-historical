@@ -1,7 +1,13 @@
-<!--The following is the downloaded HTML source of the mypornprofile.com privacy policy that was archived on 2014-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140622174954id_/http%3A//mypornprofile.com/misc/page/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mypornprofile.com privacy policy that was archived on 2014-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221125215id_/http%3A//mypornprofile.com/misc/page/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<html lang="en"><head><style type="text/css"></style></head><body><br>
+<b>Notice</b>:  Undefined index:  mobile in <b>/home/httpd/html/mypornprofile.com/public_html/controllers/misc.php</b> on line <b>43</b><br>
+<br>
+<b>Warning</b>:  Cannot modify header information - headers already sent by (output started at /home/httpd/html/mypornprofile.com/public_html/controllers/misc.php:43) in <b>/home/httpd/html/mypornprofile.com/public_html/controllers/abstract.php</b> on line <b>173</b><br>
+
+
+	
 		<title>Privacy Policy | MyPornProfile</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="google-site-verification" content="FOMUiWlFThoMfWIekwYvRSXo4-LMu-4f337RaINozyw">
@@ -28,17 +34,19 @@
 
 		<link href="/blog/wp-content/themes/mypornprofile/style-11.css?4" rel="stylesheet" type="text/css">
 		<link href="//fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
 				<link rel="stylesheet" type="text/css" href="/css/fan-promo.css">
 				<link rel="stylesheet" type="text/css" href="/css/overrides.css">
 				
 		<script src="/js/jquery.tools.min.js"></script>
+		<script src="/js/jQuery.succinct.min.js"></script>
 		<script type="text/javascript" charset="utf-8" src="//bit.ly/javascript-api.js?version=latest&amp;login=tweettrackjs&amp;apiKey=R_7e9987b2fd13d7e4e881f9cbb168f523"></script>
 <!--		<script type="text/javascript" charset="utf-8" src="https://s.bit.ly/TweetAndTrack.js?v=1.01"></script>-->
 		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 		<script src="/js/global.js" type="text/javascript" charset="utf-8"></script>
 		<script src="/js/signup_overlay.js" type="text/javascript" charset="utf-8"></script>		
-		<script src="/js/spin.min.js" type="text/javascript" charset="utf-8"></script><style type="text/css"></style>
+		<script src="/js/spin.min.js" type="text/javascript" charset="utf-8"></script>
 		<script src="/js/fineuploader/jquery.fineuploader-3.4.1.min.js"></script>
 		<script src="/js/bootstrap.min.js"></script>
 		<script src="/js/jquery.actual.min.js"></script>
@@ -92,8 +100,8 @@
 		</script>
 		
 		
-	</head> 
-	<body>
+	 
+	
 		
 <script>
 	$(document).ready(function() {
@@ -384,10 +392,10 @@
 	
           <div class="clear"></div>
           <div class="wrapper-search">
-		<form method="get" action="/profile/search/" id="search-form">
+		<form method="get" action="/search/global_search/" id="search-form">
 		<table><tbody>
 			<tr>
-				<td><input name="q" type="text" class="input"></td>
+				<td><input type="hidden" id="unified_search" name="unified_search" value="yes"><input name="q" type="text" class="input"></td>
 				<td><span class="icons pic-search" onclick="$('#search-form').submit();"></span></td>
 			</tr>
 		</tbody></table>
