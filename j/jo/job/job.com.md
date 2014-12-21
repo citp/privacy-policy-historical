@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625215633id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221093722id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
 
 # Job.com Jobs - Start your job search and find employment today!
 
@@ -104,7 +104,7 @@ We offer you the ability to share job posts and articles with friends through on
 
 ### Privacy Commitment Changes
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If, at any time, you have questions or concerns about Job.com's privacy commitment, please feel free to email us at [Privacy@Job.com](https://web.archive.org/web/20140625215633id_/http%3A//www.job.com/my.job/privacy@job.com). 
+We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If, at any time, you have questions or concerns about Job.com's privacy commitment, please feel free to email us at [Privacy@Job.com](https://web.archive.org/web/20141221093722id_/http%3A//www.job.com/my.job/privacy@job.com). 
 
 Job.com, Inc.  
 100 Riverside Pkwy, Ste 201  
