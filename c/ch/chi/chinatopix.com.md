@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chinatopix.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616074000id_/http%3A//www.chinatopix.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatopix.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221212412id_/http%3A//www.chinatopix.com/privacypolicy) for the most accurate reproduction.*
 
-# ChinaTopix.com
+# Chinatopix
 
-## Privacy Policy
+PRIVACY POLICY
 
 1\. Purpose of this Privacy Policy
 
