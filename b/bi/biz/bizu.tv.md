@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bizu.tv privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326222633id_/http%3A//bizu.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizu.tv privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221211234id_/http%3A//www.bizu.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_This policy was last updated on March 3, 2014_
+_This policy was last updated on July 16, 2014_
 
 **INTRODUCTION:**   
 This Privacy Policy describes how IBT Media Inc. and its affiliated United States subsidiaries (collectively, "Company," "us" or "we") may collect and use your personally identifiable information ("PII") (e.g., your full name, email address, mailing address, telephone number, or credit card number), as well as data that can, under certain circumstances, indirectly lead to PII ("Related Data") on its Web sites and other applications.
@@ -45,14 +45,14 @@ Our web sites may also be linked to sites operated by companies affiliated with 
 
 **Generally:** We may use information in the following ways:
 
-• For the purposes for which you specifically provided it including, without limitation, to enable us to process and fulfill your subscription or other requests  
-• To send you information about your relationship or transactions with us  
-• To notify you about our products, services, and special offers  
-• To otherwise contact you with information that we believe will be of interest to you  
-• To enhance or develop features, products and services  
-• To provide advertisers and other third parties with aggregate information about our subscribers, web site user base and usage patterns  
-• To allow us to personalize the content and advertising that you and others see on our web sites  
-• To allow other select companies to send you promotional materials about their products and services (that is, unless you've told us not to do so (see Choice below)
+&bull; For the purposes for which you specifically provided it including, without limitation, to enable us to process and fulfill your subscription or other requests  
+&bull; To send you information about your relationship or transactions with us  
+&bull; To notify you about our products, services, and special offers  
+&bull; To otherwise contact you with information that we believe will be of interest to you  
+&bull; To enhance or develop features, products and services  
+&bull; To provide advertisers and other third parties with aggregate information about our subscribers, web site user base and usage patterns  
+&bull; To allow us to personalize the content and advertising that you and others see on our web sites  
+&bull; To allow other select companies to send you promotional materials about their products and services (that is, unless you've told us not to do so (see Choice below)
 
 Information about your activities on our sites and other non-personally identifiable information about you may be used to limit the online ads you encounter to those we believe are consistent with your interests. We may combine the information that we collect from you with information that you provide to us in connection with your use of other Company products, services and web sites, or information we collect from third parties.
 
@@ -105,7 +105,7 @@ If you have any questions, comments or concerns about our Privacy Policy or the 
 
 **Your California Privacy Rights**
 
-Under the California "Shine The Light" law, California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [info@ibtimes.com](mailto:info@ibtimes.com) for IBT Media properties or [newsweek@emailcustomerservice.com](mailto:newsweek@emailcustomerservice.com) for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
+Under the California "Shine The Light" law, California residents may opt-out of the Company's disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by e-mailing us at [info@ibtimes.com](mailto:info@ibtimes.com) for IBT Media properties or [support@newsweek.com](mailto:support@newsweek.com) for Newsweek. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes, including but not limited to subscription management.
 
 **SAFE HARBOR PRIVACY PRINCIPLES**
 
