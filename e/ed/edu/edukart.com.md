@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edukart.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610185936id_/http%3A//www.edukart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edukart.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221222139id_/http%3A//www.edukart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
