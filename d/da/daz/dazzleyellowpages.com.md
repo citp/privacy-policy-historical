@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dazzleyellowpages.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907053245id_/http%3A//www.dazzleyellowpages.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazzleyellowpages.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221093619id_/http%3A//www.dazzleyellowpages.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Dazzle Yellow Pages
 
