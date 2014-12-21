@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628153730id_/http%3A//www.drsfostersmith.com/general.cfm%3Fgid%3D320) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drsfostersmith.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221230758id_/http%3A//www.drsfostersmith.com/general.cfm%3Fgid%3D320) for the most accurate reproduction.*
 
 # Customer Service: Privacy & Security
 
@@ -24,6 +24,8 @@ We believe that your email address is private information and you have our assur
 _We will always try to contact you by phone if we have a question about an order you placed. If we are unable to reach you by phone, we may also try to contact you by email._
 
 You may opt out at any time from any or ALL newsletters in the series, either [online](https://web.archive.org/newsletters/index.cfm?login) or by using the links provided in every newsletter issue. 
+
+We use an email delivery and marketing company to send emails that you have agreed to receive. Pixel tags and cookies are used in those email messages and at our website to help us measure the effectiveness of our advertising, how our visitors use our site and to enable us to provide more focused and subsequent email marketing communications to you. 
 
 **Secure Shopping**  
 
