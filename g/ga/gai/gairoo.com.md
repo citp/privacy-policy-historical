@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gairoo.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621094318id_/http%3A//www.flavaworks.com/vod/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gairoo.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221143542id_/http%3A//www.flavaworks.com/vod/privacy) for the most accurate reproduction.*
 
 # Flava Works Video On Demand the Best Gay Porn Source
 
