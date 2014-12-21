@@ -1,88 +1,111 @@
-> *The following text is extracted and transformed from the dunhill.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616065034id_/http%3A//www.dunhill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhill.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221100856id_/http%3A//www.dunhill.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - dunhill
+# Privacy Policy | dunhill - Official Website
 
-Alfred Dunhill ("Alfred Dunhill") is committed to protecting Your privacy and is registered to hold personal data under the Data Protection Act 1998. Any reference to "You” or "Your”, means You as user of the web sites owned and operated by or on behalf of Alfred Dunhill (the "Web Sites"). 
+Alfred Dunhill has its registered offices at 15 Hill Street London W1J 5QT. In this Privacy Policy, we use the term Alfred Dunhill (and "we", "us" and "our") to refer to the head office of Alfred Dunhill at the registered address above and our boutiques.
 
-This page sets out Alfred Dunhill's privacy policy and explains how Your personal information (meaning any information about You which is personally identifiable like Your name, address, telephone number or e-mail address, generally referred to throughout this policy as "personal information") will be used. 
+Please take a moment to read the following policy which explains how we collect, use, disclose and transfer the personal information that you provide to us on our websites or mobile applications (together the “Platform”), or when you provide your details when you visit an Alfred Dunhill boutique. It also explains how we collect information through the use of cookies and related technologies when you use our Platforms.
 
-This privacy policy only applies to the collection of Your personal information by Alfred Dunhill and the use of that personal information by Alfred Dunhill and those whom Alfred Dunhill authorise. It does not cover third party web sites to which Alfred Dunhill provide links, nor does it cover advertisers. They may have their own privacy policies and/or terms and conditions of use. 
+You can find out more about Alfred Dunhill and the Terms for using our Platform [here](http://www.dunhill.com/terms-of-use/).
 
-By accessing and continuing to use the Web Sites, You accept the terms of this privacy policy. Please note that Alfred Dunhill may update and amend the privacy policy from time to time and any changes will be posted on the Web Sites. If You do not agree with any of the privacy policy then You should not use the Web Sites. 
+We may make changes from time to time to this Privacy Policy, so please check back regularly to keep informed of updates.
 
-What information do Alfred Dunhill hold about You and how is it collected? 
+Information you provide to us and how we use it 
+    
 
-When You register for various services on the Web Sites, purchase products via the Web Sites or when You otherwise update Your registration details, personal information is collected by or on behalf of Alfred Dunhill. 
+We may collect personal information from you when you correspond with us (for example, when you send us e-mail communications or send us letters) or when you provide your details when you visit an Alfred Dunhill boutique.
 
-When ordering products from the Alfred Dunhill, you will be asked to provide personal information including Your name, delivery address, telephone number, product selections as well as payment card details. In addition, in common with many other online services, Alfred Dunhill may use "cookies" or other devices to store and sometimes track information about You (see section entitled "Cookies" below). 
+We also collect certain information automatically about visitors to our Platform, described in the section headed "Cookies and other information that we automatically collect", below.
 
-Alfred Dunhill may also collect personal information: when You make a complaint or enquiry or provide other feedback to Alfred Dunhill; when You submit an entry to a competition or prize draw; when You request to be sent communications such as updates or newsletters; in monitoring Your use of the Web Sites or in monitoring communications sent via the Web Sites to ensure and check compliance with [Terms & Conditions](https://web.archive.org/terms-and-conditions/) and the [Terms of Purchase](https://web.archive.org/help/terms-of-purchase/) and/or otherwise as required by law; and when You disclose Your personal information to Alfred Dunhill or otherwise through the Web Sites at any other point. 
+We will use the information we collect from you to:   
+\- deal with your enquiries and requests;   
+\- announce new products and events relating to us in accordance with your communications preferences (please see the "Editing or deleting your personal information” section below for further information about how you can control these updates);   
+\- conduct market research so that we can continuously improve the services we provide to our customers;   
+\- provide you with tailored information and/or ads based on your preferences and/or your interactions with our Platform;   
+\- prevent fraud and other prohibited or illegal activities;   
+\- understand how our Platform is used so that we can continuously improve our Platform and offerings. 
 
-Under 18's 
+Cookies and other information that we automatically collect
+    
 
-Children under the age of 18 should not send any information about themselves and should not register with the dunhill On-Line Store, any other service or to receive further information from Alfred Dunhill. Should Alfred Dunhill discover or be informed that a child has registered his/her personal details, Alfred Dunhill will delete such information. 
+Like most platforms, Alfred Dunhill logs IP addresses and uses cookies and similar technologies that allow us to recognise you and to customise your experience, and provide us with information about the way our Platform visitors access our Platform. You can find out more about how we use cookies and related technologies below.
 
-Note to Parents: Alfred Dunhill will not intentionally collect personally identifiable information from children under the age of 18. If, as a parent, You wish to find out if Your child has registered for one of Alfred Dunhill's services, or wish to cancel Your child's registration, please contact Alfred Dunhill at customer.services@dunhill.com. 
+What is a cookie?
 
-How Alfred Dunhill use information about You: 
+Cookies are text files containing small amounts of information which are downloaded to your computer or mobile device when you visit a website or mobile application and are used to recognise your computer when it returns to a website or mobile application it has visited previously.   
+Cookies are widely used in order to make platforms work, or to work more efficiently, as well as to provide information to the owners of the platform.  
+We use cookies to enhance the online experience of our visitors (for example, by remembering your language preferences) and to better understand how our Platform is used. Cookies may tell us, for example, whether you have visited our Platform before or whether you are a new visitor. They can also help to ensure that adverts you see online are more relevant to you and your interests.   
+There are two broad categories of cookies:   
+\- First party cookies, served directly by Alfred Dunhill to your computer or mobile device. They are used only by Alfred Dunhill to recognise your computer or mobile device when it revisits our Platform.   
+\- Third party cookies, which are served by a service provider on our Platform, and can be used by the service provider to recognise your computer or mobile device when it visits other platforms. Third party cookies are most commonly used for platform analytics or advertising purposes.   
+Cookies can remain on your computer or mobile device for different periods of time. Some cookies are "session cookies", meaning that they exist only while your browser is open. These are deleted automatically once you close your browser. Other cookies are "permanent cookies", meaning that they survive after your browser is closed. They can be used by platform to recognise your computer or mobile device when you open your browser and browse the Internet again.
 
-Please note that Alfred Dunhill may pass Your personal information to Alfred Dunhill's employees, agents and those of its affiliated companies to administer the products and services provided to You. Personal Information provided by You will be used to process Your orders and will be made accessible to duly authorised Alfred Dunhill personnel and occasionally to persons or companies who carry out internal operations in relation to Alfred Dunhill's business. 
+What cookies does Alfred Dunhill use?
 
-Whilst Alfred Dunhill takes all reasonable precautions to ensure that its on-line business partners handle Your personal information on Alfred Dunhill's behalf in a secure and proper manner, Alfred Dunhill cannot be held responsible for the failure by any third parties (such Your bank or credit card company) to deal with Your personal information on Your behalf in accordance with its legal obligations. Consequently, You are advised to refer to these companies' policies in relation to the protection of Your personal information since they may use other members of their respective companies and/or third parties (in jurisdictions where there may be less stringent data protection laws) to process information on Your behalf in relation to Your transactions. 
+The Platform serves only the following types of cookies to your computer or mobile device:   
+Type of Cookie:   
+\- Purpose   
+Cookies necessary for essential purpose:   
+\- These cookies are essential to provide you with services available through this Platform and to use some of its features, such as access to secure areas. Without these cookies, services you have asked for, like transactional pages and secure login accounts, would not be possible.   
+Functionality Cookies:   
+\- These cookies serve a variety of purposes related to the presentation, performance and functionality of this Platform. Their overall purpose, however, is to enhance visitors’ experience and enjoyment of this Platform.   
+Analytics Cookies:   
+\- These cookies are used to collect information about how visitors use our Platform.   
+\- The information gathered does not identify any individual visitor and is aggregated. It includes the number of visitors to our Platform, the platforms that referred them to our Platform and the pages that they visited on our Platform.   
+\- We use this information to help run our Platform more efficiently, to gather broad demographic information and to monitor the level of activity on our Platform.   
+Advertising Cookies:   
+\- When you visit our Platform or click on advertisements or promotional areas on the Platform these cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help to evaluate the effectiveness of advertising and promotion.   
+\- They are usually placed by advertising networks with our permission. They remember that you have visited a platform and this information is shared with other organisations such as advertisers.   
+Social media cookies:   
+\- These cookies are used when you share information using a social media sharing button on the Platform. The social network will record that you have done this. This information may be linked to targeting/advertising activities.   
+Further detailed information about the specific cookies used on this Platform and the third parties who serve them can be found in our cookie consent tool [hyperlink to cookie consent tool] . You can use this cookie tool to control your cookie preferences.
 
-Personal information provided by You at the time of making an order may also be used by Alfred Dunhill and by the bank providing merchant services to Alfred Dunhill to check details with fraud protection agencies. Furthermore Your personal information will be used by Alfred Dunhill's bank to process payment of the order, handle credit checks and fraud prevention and by Alfred Dunhill's delivery services provider to ensure proper delivery. 
+How to control or delete 
 
-Your personal information may also be used by Alfred Dunhill to monitor, develop and improve the Web Sites, services and the Your experience; to assist in and administer the provision of products and services to You; to process and deal with any complaints or enquiries made by or about You; to investigate any suspected breach of the [Terms & Conditions](https://web.archive.org/terms-and-conditions/) and the [Terms of Purchase](https://web.archive.org/help/terms-of-purchase/%20) or the breach of other terms and conditions otherwise relating to You. 
+You have the right to choose whether or not to accept cookies and we have explained how you can exercise this right below. However, please note that if you choose to refuse cookies you may not be able to use the full functionality of our Platform.   
+You can set your cookie preferences by using our cookie consent tool [hyperlink to cookie consent tool] or by changing your browser settings so that cookies from this Platform cannot be placed on your computer or mobile device. In order to do this, follow the instructions provided by your browser (usually located within the “Help”, “Tools” or “Edit” facility).   
+Further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
-Some general statistical information about the Web Sites user base, sales patterns, traffic volumes and related matters may be passed on to reputable third parties but these details will not include information personally identifying You. Alfred Dunhill may disclose Your personal information to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the [Terms & Conditions](https://web.archive.org/terms-and-conditions/) and the [ Terms of Purchase](https://web.archive.org/help/terms-of-purchase/) and or the breach of other terms and conditions otherwise relating to You or otherwise where required by law and Alfred Dunhill will co-operate with any law enforcement authorities or court order requesting or directing Alfred Dunhill to disclose the identity of or locate anyone breaching the [Terms & Conditions](https://web.archive.org/terms-and-conditions/) and the [ Terms of Purchase ](https://web.archive.org/help/terms-of-purchase/%20) or otherwise for the prevention or detection of crime or the apprehension or prosecution of offenders. 
+IP addresses
 
-Where and only where requested by You, Alfred Dunhill will: send You and keep You updated with information by email telephone or mail about existing and new products and services, events, promotions and special offers from Alfred Dunhill or its affiliated companies; and/or send You information by email telephone or mail about related products or services of selected third parties that may be of interest to You. To opt-out of receiving any such communications, You can use the facility contained in any such communication or You can email or write to Alfred Dunhill by mail to the addresses below saying that You do not wish to receive further communications from Alfred Dunhill. Other than as stated above, Alfred Dunhill will not use Your personal information any unsolicited communications to You unless so authorised. Alfred Dunhill will use its best endeavours to ensure that such Your Personal Information is kept secure at all times. Other than to its business partners as set out above, Alfred Dunhill does not sell, rent or otherwise make available any personal information relating to You to other third parties unless to its legal advisors or if required to do so by law. 
+We may collect information about your computer or mobile device, including where available your IP address, operating system, log in times and browser type. We use this information to better understand how visitors use our Platform and for internal reporting purposes. We may anonymise and share this information with advertisers, sponsors or other businesses.
 
-Amending Your information 
+Sharing your information
+    
 
-Where You register Your details for certain services and open a user account that You can then use to access and log on to use those services. You may change or update Your user name and password or other details at any time via Your account. You must make sure that You update details as soon as possible with any and all relevant changes. 
+We do not rent, sell or share personal information about you with other people or non-affiliated companies outside the Richemont group except under the following circumstances:   
+\- we may disclose your personal information to any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party;   
+\- we may disclose your personal information to any law enforcement agency, court, regulator, government authority or other third party where we believe this is necessary to comply with a legal or regulatory obligation, or otherwise to protect our rights or the rights of any third party; and   
+\- we may disclose your personal information to any third party that purchases, or to which we transfer, all or substantially all of our assets and business. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this Privacy Policy.
 
-Cookies 
+International Transfers
 
-Alfred Dunhill may sometimes use cookies to or other devices to store and sometimes track information about You. A cookie is a small amount of data sent from Alfred Duhill's server and stored on Your computer's hard drive. Alfred Dunhill use cookies and other such devices to compile anonymous, aggregated statistics that allow Alfred Dunhill to understand how users use the Web Sites and to help Alfred Dunhill to improve the structure of the Web Sites and You cannot be identified personally in this way. Alfred Dunhill use cookies and other such devices to understand who has seen which pages and advertisements on the Web Site, to determine how frequently particular such pages and advertisements are visited, to determine the most popular areas of the Web Sites, and generally in order to monitor usage of the Web Sites. 
+Information we collect may be transferred to, stored and processed in any country or territory where one or more of our affiliated group companies or third party service providers are located or maintain facilities. While other territories may not have the same standards of data protection as those within your home country, we will continue to protect the personal information we transfer in accordance with this Privacy Policy.
 
-Alfred Dunhill may also use cookies and other such devices to: to allow You to carry information across pages of the relevant Web Site and avoid having to re-enter information (for instance to help keep track of Your current shopping session and shopping basket content); to help Alfred Dunhill recognise You as a unique visitor when You return to the Web Site and to tailor content or advertisements to match Your preferred interests or to avoid showing You the same adverts repeatedly; and/or within research surveys to ensure You are not invited to complete a questionnaire too often or after You have already done so. 
+Protecting your information
+    
 
-Most internet browsers are automatically set up to accept cookies, but You can set Your browser to refuse a cookie or ask their browser to show You where a cookie has been set up. Certain services are only activated by the presence of a cookie and, if You choose to refuse cookies, particular features of this Web Site may not be available to You. 
+We want you to feel confident about using our Platform, and we are committed to protecting the personal information we collect. We limit access to personal information about you to employees who reasonably need access to it, to provide products or services to you or in order to do their jobs. We have appropriate technical and organisational physical, electronic, and procedural safeguards to protect the personal information that you provide to us against unauthorised or unlawful processing and against accidental loss, damage or destruction.
 
-To find out how to disable/enable cookies You can go to the "Manage Cookies” section of the Interactive Advertising Bureau UK website on the following link: http://www.allaboutcookies.org.. 
+How to edit, delete or access your personal information
 
-How long does Alfred Dunhill keep Your personal information? 
+You have the right to ask for a copy of any personal information that we hold about you in our records, to correct any inaccuracies and to update any out-of-date information. You can also ask us not to send you direct marketing communications (however please note that we may continue to send you service related (i.e. non-marketing) communications, such as e-mail updates on your order status). If you wish to exercise any of these rights, or wish to object to our use of your personal information, please write to us at the address listed below. 
 
-How long Alfred Dunhill keeps Your personal information depends on the context in which You provided it and the marketing preferences You have expressed. In particular: Alfred Dunhill will keep any personal information Alfred Dunhill or its partner companies need to provide You with any product You buy or service You purchase to for the period during which Alfred Dunhill or its partner companies provide that product or service to You; Alfred Dunhill may keep Your contact details for as long as Alfred Dunhill have Your consent to send You marketing information; Alfred Dunhill may keep records of any transactions You enter with Alfred Dunhill or our partner companies for up to six years (this is so that Alfred Dunhill can respond to any complaints or disputes that arise in that period); and Alfred Dunhill will keep other personal information about You if it is necessary for Alfred Dunhill to do so to comply with the law. 
+Updates to this Privacy Policy
+    
 
-Keeping Your personal information secure: 
+From time to time we may update this Privacy Policy. When we do we will publish the changes on this Platform. If you do not agree to these changes, please do not continue to use the Platform. If material changes are made to this Privacy Policy, we will notify you by e-mail or by placing a prominent notice on the Platform. 
 
-Alfred Dunhill take the security of Your personal information seriously. 
+Contact Us
+    
 
-Alfred Dunhill have implemented technology and security policies, rules and measures to protect the personal information Alfred Dunhill have under its control, both on and off-line, from improper access, use, alteration, destruction and loss. Here are some of the ways Alfred Dunhill protect Your personal information: 
+If you have any questions or comments about this Privacy Policy, or privacy matters generally, please contact us using any of the contact details provided [here](http://www.dunhill.com/contact-us/) . You can also contact us if you wish to request a copy of the personal data we hold about you. 
 
-If You provide personal information to Alfred Dunhill online the transmission of that information to Alfred Dunhill is protected by SSL 128 bit session encryption . Encryption is the process through which sensitive information is scrambled before it is transmitted so that it remains private even if it is intercepted. However, unless Your Internet browser supports 128-bit encryption You will not be able to take advantage of this level of security. 
+To be linked to the Terms
+    
 
-Off-line, Your personal information is kept securely in Alfred Dunhill's databases and offices, or, where relevant, by Alfred Dunhill's partner companies. 
-
-Alfred Dunhill will take all reasonable steps to protect Your personal information, but data can never be guaranteed 100% secure. Please note that Alfred Dunhill will not be liable for any breach of security unless Alfred Dunhill have been negligent. 
-
-Contact Details:   
-ICO Registration No. Z6366766  
-Alfred Dunhill Limited is a company registered on the Register of Companies for England and Wales, Company No. 191031, VAT Registration 238 468 727.   
-and having its registered offices at:   
-15 Hill Street  
-London W1J 5QT  
-United Kingdom 
-
-Any request concerning Personal Information and/or cancellation of registration to any services provided through the Web Sites should be sent to Customer Services on: 
-
-E-mail:   
-customer.services@dunhill.com   
-Tel:   
-Europe: +44 (0) 207 198 0658, Monday to Friday, from 9a.m. to 5.30p.m. UK time.   
-USA: (212) 753-9292, Monday to Friday, from 10a.m. to 6:30p.m. Eastern daylight time (EDT). 
-
-Changes to the privacy policy  
-This privacy policy was last updated on October 2010 
+Please check the data described below for accuracy, and add/remove data types as necessary.   
+Alfred Dunhill to adjust depending on whether the Richemont group solution (i.e. fifty-five) or a cookie consent solution developed by Alfred Dunhill is preferred.   
+As above   
+Please review and add any other relevant parties receiving personal data from Alfred Dunhill.   
+To be linked with the contact page (if any). If no contact page exists, please provide contact details in the section. 
