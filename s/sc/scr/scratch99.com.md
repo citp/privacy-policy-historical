@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scratch99.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075620id_/http%3A//scratch99.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scratch99.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221135607id_/http%3A//scratch99.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Scratch99 Design
+# Privacy Policy - Scratch99 Design
 
 This policy discloses how personal information is gathered and used by the www.scratch99.com website (referred to as ‘the site’ or ‘this site’ from here on). 
 
