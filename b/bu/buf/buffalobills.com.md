@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalobills.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092440id_/http%3A//www.buffalobills.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalobills.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221011145id_/http%3A//www.buffalobills.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Buffalo Bills
 
@@ -130,8 +130,7 @@ We use mobile analytics software to allow us to better understand the functional
 
 We own the information collected on or through the Website. As applicable, the information you provide to us may be used to:
 
-contact you about the Website;
-
+  * contact you about the Website;
   * provide you with services or information you have requested or products or services you have ordered, such as subscription plans or other products and services 
   * contact you relating to your membership status;
   * confirm or fulfill an order you have made;
@@ -190,17 +189,17 @@ By using the Website, you signify your agreement to the terms of this Privacy Po
 
 **11\. CORRECTING/UPDATING PERSONAL INFORMATION**
 
-If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to have access to the Website, we will endeavor to provide a way to correct, update, delete or remove the personal data you have provided to us. You may request that we do so by emailing us at [BillsPrivacy@bills.nfl.net](mailto:BillsPrivacy@bills.nfl.net), signing into your online account and making the desired changes, or via mail at: Buffalo Bills, Inc., One Bills Drive, Orchard Park, NY 14127. We will respond to your request to access within thirty (30) days. .
+If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to have access to the Website, we will endeavor to provide a way to correct, update, delete or remove the personal data you have provided to us. You may request that we do so by emailing us at [BillsPrivacy@bills.nfl.net](mailto:BillsPrivacy@bills.nfl.net), signing into your online account and making the desired changes, or via mail at: Buffalo Bills, LLC., One Bills Drive, Orchard Park, NY 14127. We will respond to your request to access within thirty (30) days. .
 
 **12\. YOUR CALIFORNIA PRIVACY RIGHTS**
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If you are a California resident and have questions about our compliance with this law, please send an email to [BillsPrivacy@bills.nfl.net](mailto:BillsPrivacy@bills.nfl.net) or write us at CA Privacy Rights, Buffalo Bills, Inc., One Bills Drive, Orchard Park, NY 14127.
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If you are a California resident and have questions about our compliance with this law, please send an email to [BillsPrivacy@bills.nfl.net](mailto:BillsPrivacy@bills.nfl.net) or write us at CA Privacy Rights, Buffalo Bills, LLC., One Bills Drive, Orchard Park, NY 14127.
 
 **13\. QUESTIONS ABOUT THIS PRIVACY POLICY**
 
 If you have any questions about this Privacy Policy or the privacy practices of this Website, please contact us by email at [BillsPrivacy@bills.nfl.net](mailto:BillsPrivacy@bills.nfl.net) or:
 
-Buffalo Bills, Inc.  
+Buffalo Bills, LLC.  
 One Bills Drive  
 Orchard Park, NY 14127  
 Attn: Website Privacy Policy
