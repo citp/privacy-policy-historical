@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdoutdoors.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519234130id_/http%3A//www.bdoutdoors.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdoutdoors.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221140120id_/http%3A//www.bdoutdoors.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | BD Outdoors
 
@@ -65,6 +65,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us  
 **  
-If you have any questions regarding this privacy policy you may contact us at [adminsupport@bdoutdoors.com](mailto:adminsupport@bdoutdoors.com) or by visiting [www.BDoutdoors.com](https://web.archive.org/web/20140519234130id_/http://www.bdoutdoors.com/).
+If you have any questions regarding this privacy policy you may contact us at [adminsupport@bdoutdoors.com](mailto:adminsupport@bdoutdoors.com) or by visiting [www.BDoutdoors.com](https://web.archive.org/web/20141221140120id_/http%3A//).
 
 Edited 10/21/2011
