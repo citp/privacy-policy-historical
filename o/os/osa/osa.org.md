@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622005658id_/http%3A//www.osa.org/en-us/About_Osa/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osa.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221051707id_/http%3A//www.osa.org/en-us/About_Osa/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Optical Society
 
@@ -37,7 +37,7 @@ Though every effort is made to preserve user privacy, it may be necessary to dis
 **Notifications**  
 OSA may use a user's information to provide the user with information on new products, services, or upcoming events. More and more OSA information is provided by email, so users may not receive notices on these subjects if they opt-out. Users who wish not to receive email from OSA, may use the “unsubscribe” link provided at the bottom of every email.
 
-OSA may also use user's contact information to reach the user through phone, mail or fax. Users who wish to be removed from all contact by these methods may contact OSA’s Customer Service department by visiting [OSA’s Help Center](https://web.archive.org/help), [submitting a Help Ticket](https://account.osa.org/eweb/DynamicPage.aspx?WebCode=MyAcctRequestHelp&action=add), by calling us at +1 202.416.1907 (Worldwide) or +1 800.766.4672 (US/Canada only) or by e-mailing us at [custserv@osa.org](mailto:custserv@osa.org).
+OSA may also use user's contact information to reach the user through phone, mail or fax. Users who wish to be removed from all contact by these methods may contact OSA’s Customer Service department by visiting [OSA’s Help Center](https://web.archive.org/help), [submitting a Help Ticket](https://account.osa.org/eweb/DynamicPage.aspx?WebCode=MyAcctRequestHelp&action=add), by calling us at +1 202.416.1907 (Worldwide) or 1.800.766.4672 (US/Canada only) or by e-mailing us at [custserv@osa.org](mailto:custserv@osa.org).
 
 OSA members may not opt out of OSA business mailings such as the election mailing.
 
@@ -55,7 +55,7 @@ SSL encryption software is used on forms requesting financial information. Full 
 User information is restricted within the OSA offices. Employees who need the information to perform a specific job are granted access to personally identifiable information. Servers that store personally identifiable information are in a locked facility.
 
 **Correcting/Updating/Deleting/Deactivating Personal Information**  
-If a user's personally identifiable information changes, or if a user no longer desires the services provided, contact OSA’s Customer Service department by visiting [OSA’s Help Center](https://web.archive.org/help), [submitting a Help Ticket](https://account.osa.org/eweb/DynamicPage.aspx?WebCode=MyAcctRequestHelp&action=add), by calling us at +1 202.416.1907 (Worldwide) or +1 800.766.4672 (US/Canada only) or by e-mailing us at [custserv@osa.org](mailto:custserv@osa.org).
+If a user's personally identifiable information changes, or if a user no longer desires the services provided, contact OSA’s Customer Service department by visiting [OSA’s Help Center](https://web.archive.org/help), [submitting a Help Ticket](https://account.osa.org/eweb/DynamicPage.aspx?WebCode=MyAcctRequestHelp&action=add), by calling us at +1 202.416.1907 (Worldwide) or 1.800.766.4672 (US/Canada only) or by e-mailing us at [custserv@osa.org](mailto:custserv@osa.org).
 
 **Modifications to the Policy**  
 OSA may modify, add or remove portions of the Privacy Policy at any time. Customer information may be used for new, unanticipated uses not previously disclosed in the privacy notice. Information practice changes will be posted on this Web site.
