@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishlistr.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622173002id_/http%3A//www.wishlistr.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishlistr.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221130751id_/http%3A//www.wishlistr.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Wishlistr - Privacy Policy
 
