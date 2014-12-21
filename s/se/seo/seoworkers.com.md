@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327132319id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221175724id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Workers Web Site Privacy Policy & Important Notices
 
