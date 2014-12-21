@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thetiebar.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326133235id_/http%3A//www.thetiebar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetiebar.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221064745id_/http%3A//www.thetiebar.com/privacy) for the most accurate reproduction.*
 
 # The Tie Bar - Privacy Policy
 
 ### **The Tie Bar.com Privacy Policy:**
 
-The Tie Bar and its parent company, subsidiaries and affiliates (collectively, “TTB”), respect your concerns about privacy. This Privacy Notice describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.  
+**The types of personal information we may obtain include:**  
 
 
 The phrase “personal information” refers to information by which you or the device you are using to connect to the Internet can be identified.  
@@ -119,7 +119,7 @@ Here are the choices we offer:
 ### **Marketing Emails**
 
 You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in the marketing emails or by adjusting your email preferences using the online account you may establish on our sites.  
-Targeted Advertising
+Targeted Advertising 
 
 To opt out of receiving marketing communications through the advertising networks of our ad network vendors, please email us at [info@thetiebar.com](mailto:info@thetiebar.com).
 
@@ -131,11 +131,13 @@ When you use a TTB application on your mobile device, you may choose not to shar
 
 Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of our sites’ features. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics or targeted advertising opt-outs.
 
+We may also use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click here.
+
 ### **Do Not Track Policy**
 
 Our site does not interpret and recognize _Do Not Track_ code.
 
-As discussed elsewhere on this page, we do utilize third party advertising software and services. We cannot ensure that third party service providers comply with _Do Not Track_ code. To avoid tracking by these third party partners, you can change your browser settings to reject cookies or to notify you when cookies are set and you could select the _Do Not Track_ option on your browser, though we have no control over and cannot confirm whether third parties honor the _Do Not Track_ browser signal. Additionally, many advertising companies are members of the NAI or DAA and/or provide opt-outs on those industry pages at [networkadvertising.org/choices](http://networkadvertising.org/choices) or [aboutads.info/choices](http://aboutads.info/choices).
+As discussed elsewhere on this page, we do utilize third party advertising software and services. We cannot ensure that third party service providers comply with _Do Not Track_ code. To avoid tracking by these third party partners, you can change your browser settings to reject cookies or to notify you when cookies are set and you could select the _Do Not Track_ option on your browser, though we have no control over and cannot confirm whether third parties honor the _Do Not Track_ browser signal. Additionally, many advertising companies are members of the NAI or DAA and/or provide opt-outs on those industry pages at [networkadvertising.org/choices](http://networkadvertising.org/choices) or [aboutads.info/choices](http://aboutads.info/choices). 
 
 Our site contains links to other websites operated by third parties, including social media websites such as Facebook, Twitter and Pinterest. These third party sites may collect information about you if you click on the link and may automatically record information about your browsing behavior every time you visit a site that has a social media button or link. Your interactions with these features are governed by the privacy policy of the company providing the feature, not by our privacy policy. We do not control what information these third parties collect. 
 
@@ -182,4 +184,4 @@ Referred friend must make their first The Tie Bar purchase through the unique re
 **    ****    **Phone 877-888-TIES  
 [**    ****    **info@thetiebar.com](mailto:info@thetiebar.com)
 
-Privacy Policy last updated as of January 1, 2014.
+Privacy Policy last updated as of November 06, 2014.
