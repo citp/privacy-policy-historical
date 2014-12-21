@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511103445id_/http%3A//www.outsideonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221130805id_/http%3A//www.outsideonline.com/privacy-policy/Mariah-Media-Network-LLCs-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Mariah Media Network LLC’s Privacy Policy | Privacy Policy | OutsideOnline.com
 
   
-Thursday, June 02, 2011 
-
-###  Mariah Media Network LLC’s Privacy Policy 
+Thursday, June 2, 2011 
 
 **About This Policy**  
 This policy describes Mariah Media’s online privacy practices on the websites and platforms where this policy is located.  These may include websites designed for mobile devices.  The policy may also apply to the mobile and smart phone applications to which it might link. 
@@ -42,7 +40,7 @@ With third parties who perform services on our behalf. For example, we share inf
  **Can you limit sharing?**  
 No
 
- **We may share this information:**  
+**We may share this information:**  
 With any successor to all or part of our business.  For example, if part of our business was sold we may sell our customer list as part of that transaction.  
  **Can you limit sharing?**  
 No
@@ -92,3 +90,7 @@ From time to time we may change our privacy practices. The latest version of thi
 
  **How to Contact Us**  
 If users have any questions about our privacy practices, you can email us at **privacy [at] outsidemag.com**. You can call us at (505) 989-7100. If you would like to write to us, our address is 400 Market Street, Santa Fe, NM 87501.
+
+## Want to get Outside more?
+
+Sign up for our newsletter and get the latest fitness tips, expert gear reviews, the best travel advice, and more.
