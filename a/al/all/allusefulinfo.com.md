@@ -1,19 +1,57 @@
-> *The following text is extracted and transformed from the allusefulinfo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142639id_/http%3A//allusefulinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allusefulinfo.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221071442id_/http%3A//allusefulinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The privacy of our visitors to All Useful Info is important to us. At All Useful Info, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit [All Useful Info](http://allusefulinfo.com/ "All Useful Info - Technology Blog"), and how we safeguard your information. We never sell your personal information to third parties.
+This Privacy Policy governs the manner in which All Useful Info collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.allusefulinfo.com](http://www.allusefulinfo.com/ "All Useful Info") website (“Site”). This privacy policy applies to the Site and all products and services offered by All Useful Info.
 
-### Log Files
+### Personal identification information
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site(such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site.. Users may visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-### Cookies and Web Beacons
+### Non-personal identification information
 
-We use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-### Advertizing
+### Web browser cookies
 
-We also use third party advertisements on All Useful Info to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+### How we use collected information
+
+All Useful Info may collect and use Users personal information for the following purposes:
+
+– To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+
+– To Send the Newsletter
+
+### How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+### Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+
+### Google Adsense
+
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc.
+
+### Changes to this privacy policy
+
+All Useful Info has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy and [terms of service](http://allusefulinfo.com/privacy-policy/ "Privacy Policy"). If you do not agree to this policy, please do not use our Site.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+[**All Useful Info**](http://www.allusefulinfo.com/ "All Useful Info")  
+Gandhi Nagar, Gwalior  
+MP, India  
+ramansharma257@gmail.com
+
+This document was last updated on October 20, 2014
