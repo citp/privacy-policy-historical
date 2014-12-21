@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528175337id_/http%3A//www.manchesterairport.co.uk/manweb.nsf/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221214035id_/http%3A//www.manchesterairport.co.uk/manweb.nsf/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Manchester Airport : Privacy Policy
 
@@ -27,10 +27,7 @@ We may collect additional information in connection with your participation in a
 You will need to un tick the box if you do not wish to receive information from us. If you leave the box ticked  MAPLC may use the information to supply you with information about MAPLC, its related companies, and their goods and services, and for general statistical purposes. In addition, MAPLC may use the information you provide for both online and offline marketing and promotional purposes. This may be informing you of new routes or developments by e-mail, or by sending you direct mail through the normal post, which provides information, which may be of interest to you.
 
 **Removal of Data  
-**If you do not wish to receive further communication or you would like to change information previously provided you can do so by;
-
-Call us 0161 4893181  
-Email us katie.arnold@manairport.co.uk
+**If you do not wish to receive further communication or you would like to change information previously provided you can do so by [emailing us.](https://www.manchesterairport.co.uk/Shop/MAN/WebFeedback)
 
 **How we use Cookies  
 **Manchester Airport's website router will be stored as a cookie for one week on your computer to facilitate download speed. There are several other cookies on this website, which are all session based and will therefore become inactive when you leave Manchester Airport's web site. You have the option not to use the cookies by changing your browser settings, or by deleting them from your temporary Internet files.
@@ -41,9 +38,7 @@ NB: Please read our website disclaimer.
 
 If you have any questions about this privacy statement, the practices of this web site or your dealings with this web site, please use the following contact point.
 
-Marketing Department  
+Digital Marketing Department  
 Manchester Airport  
 Manchester  
 M90 1QX
-
-[Email us ](mailto:customer.relations@manaiport.co.uk)
