@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kpmgcareers.co.uk privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626144740id_/http%3A//www.kpmg.com/Global/en/Pages/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kpmgcareers.co.uk privacy policy that was archived on 2014-12-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141221080624id_/http%3A//www.kpmg.com/Global/en/Pages/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head id="ctl00_HEAD1"><title>
 	
@@ -22,7 +22,7 @@
         <meta name="DC.Date" content="9/13/2009">
         <meta name="DC.format" content="text/html">
         <meta name="DC.language" content="en-US">
-        <meta http-equiv="last-modified" content="2013-01-07T10:57Z">
+        <meta http-equiv="last-modified" content="2014-11-17T16:25Z">
         <link rel="canonical" href="http://www.kpmg.com/global/en/pages/privacy.aspx">
     <link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorCustomStyles.css?rev=8SKxtNx33FmoDhbbfB27UA%3D%3D">
 <link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/HtmlEditorTableFormats.css?rev=guYGdUBUxQit03E2jhSdvA%3D%3D">
@@ -84,10 +84,10 @@ if(navigator.platform.toLowerCase() == "ipad")
             document.write("top:-1px;");
       document.write("}");
  
-      document.write("#VideoVersion");
+      /*document.write("#VideoVersion");
       document.write("{");
             document.write("padding-left:65px;");
-      document.write("}");
+      document.write("}");*/
  
       document.write(".DisplayLinks");
       document.write("{");
@@ -118,93 +118,197 @@ function  track_AnalyticEvent(_formName, _step, _action, aid)
 { 
 } 
 </script>
+<style>
+#RotateImgNavigator
+{
+Position:relative;
+}
+</style>
 <script async="async" defer="defer" type="text/javascript" src="https://ips-invite.iperceptions.com/invitations/invitationsJS/106/s106479/gateway.js"></script></head><body onload="_spBodyOnLoadWrapper(); AdjustLeftNavHeight()" id="gl"><span id="ctl00_KPMGGoLiveSiteRedirector"></span><span></span>
 	<link rel="stylesheet" type="text/css" href="/Style%20Library/css/kpmg_custom_styles.css" media="screen">
-	<style type="text/css">
-    
-    .twoCellLeftGrid
-{
-	padding: 0 20px 10 0;
+	<script type="text/javascript">
+function trim(str) {
+    return str.replace(/^\s+/, '').replace(/\s+$/, '');
 }
 
-.twoCellRightGrid
+function IsInDesignMode()
 {
-	padding: 0 0 10 20px;
+   if(document.getElementById("MSOLayout_InDesignMode").value == '1') return true;
+   if(document.getElementById("MSOTlPn_SelectedWpId").value != "") return true;
+   return false;
 }
-    .valuemessagingdiv
-{
-	/*padding: 0 0px 0px 0px;*/
-}
+function Custom_MakeInvisibleIfBlankText(ControlId) {
+    var allElements = document.getElementById(ControlId);
+    var imparentdiv=document.getElementById("divOptionalTitle");
+    var parentdiv=document.getElementById("divoptionalTitleParent");
+    var agt = navigator.userAgent.toLowerCase();
+    var isNav = ((agt.indexOf('mozilla') != -1) && ((agt.indexOf('spoofer') == -1) && (agt.indexOf('compatible') == -1)));
+    var isIE = (agt.indexOf("msie") != -1);
+ if(!IsInDesignMode())
+   {
+        if ((isIE && allElements.childNodes.length > 0) || (isNav && allElements.childNodes.length > 0)) {
+            if (allElements.childNodes[0].nodeValue!=null && trim(allElements.childNodes[0].nodeValue).length <=1)
+            {           
+                allElements.style.display = "none";
+                imparentdiv.style.display = "none";
+                parentdiv.style.display = "none";
+            }
+        }
+        }
     
+}
+function Custom_MakeInvisibleIfBlankTextformainTitle(ControlId) {
+    var allElements = document.getElementById(ControlId);
+    var parentdiv=document.getElementById("divTitleParent");
+    var agt = navigator.userAgent.toLowerCase();
+    var isNav = ((agt.indexOf('mozilla') != -1) && ((agt.indexOf('spoofer') == -1) && (agt.indexOf('compatible') == -1)));
+    var isIE = (agt.indexOf("msie") != -1);
+ if(!IsInDesignMode())
+   {
+        if ((isIE && allElements.childNodes.length > 0) || (isNav && allElements.childNodes.length > 0)) {
+            if (allElements.childNodes[0].nodeValue!=null && trim(allElements.childNodes[0].nodeValue).length <=1)
+            {           
+                allElements.style.display = "none";
+                parentdiv.style.display = "none";
+            }
+        }
+        }
+    
+}
+
+function Custom_MakePageText1InvisibleIfBlank() {
+    var parentdiv=document.getElementById("pagetext1Parent");
+    var tds = document.getElementById("pagetext1Parent").getElementsByTagName("div");      
+    allElements=tds[0];
+    if(allElements.childNodes.length==0)
+    {
+        allElements.style.display = "none";
+        parentdiv.style.display = "none";
+    }   
+    var agt = navigator.userAgent.toLowerCase();
+    var isNav = ((agt.indexOf('mozilla') != -1) && ((agt.indexOf('spoofer') == -1) && (agt.indexOf('compatible') == -1)));
+    var isIE = (agt.indexOf("msie") != -1);
+ if(!IsInDesignMode())
+   {
+        if ((isIE && allElements.childNodes.length > 0) || (isNav && allElements.childNodes.length > 0)) {
+            if (allElements.childNodes[0].nodeValue!=null && trim(allElements.childNodes[0].nodeValue).length <=1)
+            {           
+                allElements.style.display = "none";
+                parentdiv.style.display = "none";
+            }
+        }
+        }
+}
+function HideKPMGPageText2ifempty()
+{
+    var objKPMGpagetext2=document.getElementById('ctl00_ThreeColumnPlaceHolder_RichHtmlField3__ControlWrapper_RichHtmlField');    
+    var objpagetext2=document.getElementById('idpagetext2');
+    var objpagetext2image=document.getElementById('idpagetext2image'); 
+    if(objKPMGpagetext2.innerHTML=="")
+    {          
+        objpagetext2.style.display="none";
+        objpagetext2image.style.display="none";
+    }
+}
+</script>
+
+
+<style type="text/css">
+#mainwrapper
+{
+	BACKGROUND: url(/Style%20Library/images/mainContentBG_withoutrightrail.jpg) repeat-y 2px 0px;
+}
 </style>
 
-<!--Bold and Italic issue fix for IE -->
-    <!--[if IE]>  
-        <style type="text/css">
-            #DefaultPodContentContainer
+<style type="text/css">
+   
+    #column3 
+    {
+	display: none;
+    }
+    #column2 
+    {
+	display: none;
+    }
+    .column2IE 
+    {
+	    display: none;
+    }
+    #column4 
+    {
+	display: inline;
+	background-color:#ffffff;
+	width:750px;	/* MC:Doc Type fix: QC#1330 on June 24, 2013 */
+    }
+    #column5 
+    {
+    	display:none;
+    }
+    .breadcrumbWrapper 
+    {
+	
+	font-size: 10px;
+	 line-height:14px;
+	 padding-bottom:10px;
+	 width:100%;
+	 
+    }
+    
+    .abstractAndImageWrapper {
+    padding-bottom:20px;
+    }    
+    .landing1CenterLeftCol .podImg img
+{
+	width: 100%;
+} 
+.landing1CenterRightCol .podImg img
+{
+	width: 100%;
+}
+/* MC:Doc Type fix: QC#1330 on June 21, 2013 */
+#PodTitleLink
+{
+	color:#fff;
+}
+
+    
+</style>
+<!--[if IE]>  
+<style type="text/css">
+#NoHeaderRichTextContainer
+	    {
+	    	width:97%;
+	    }
+	     #NoHeaderPaddedRichTextContainer
+	    {
+	    	width:98%;
+	    }
+	    #DefaultPodContentContainer
+	    {
+	    	Width:99%;
+	     }
+	     .valuemessagingdiv
             {
-	            Width:99%;
-             }
-             #NoHeaderRichTextContainer
-	         {
-	    	    width:98%;
-	         }
-	         #NoHeaderPaddedRichTextContainer
-	         {
-	            width:99%;
-	         }
-             #column2
-             {
-                width:519px;
-             }
-              .ValuemsghtmlEditor 
+	           
+            }
+            .ValuemsghtmlEditor 
             {
 	            Width:98%;
             }
-            .twoCellGridColumn
-            {
-	            overflow: hidden;
-            }
-        </style>
-    <![endif]--> 
-    
-    <!--[if !IE]-->
+</style>
+<![endif]--> 
+<!--[if !IE]-->
 <style type="text/css">                 
          #NoHeaderRichTextContainer
         {
 	        width:92%;
-        }         
+        }
 </style>
 <!--[endif]-->
-<style type="text/css">
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_1 { text-decoration:none; }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_2 {  }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_3 { width:229px; }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_4 { border-style:none; }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_5 {  }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_6 { border-style:none; }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_7 {  }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_8 { border-style:none; }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_9 {  }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_10 { border-style:none; }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_11 {  }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_12 { border-style:none; }
-	.ctl00_LeftRailPlaceholder_LeftNav_sideMenu_13 {  }
-	.ctl00_LeftRailPlaceholder_Zone1_0 { border-color:Black;border-width:1px;border-style:Solid; }
-	.ctl00_PlaceHolderMain_Zone2_0 { border-color:Black;border-width:1px;border-style:Solid; }
-	.ctl00_PlaceHolderMain_Zone5_0 { border-color:Black;border-width:1px;border-style:Solid; }
-	.ctl00_PlaceHolderMain_Zone6_0 { border-color:Black;border-width:1px;border-style:Solid; }
-	.ctl00_PlaceHolderMain_Zone8_0 { border-color:Black;border-width:1px;border-style:Solid; }
-	.ctl00_PlaceHolderMain_Zone7_0 { border-color:Black;border-width:1px;border-style:Solid; }
-	.ctl00_PlaceHolderMain_Zone9_0 { border-color:Black;border-width:1px;border-style:Solid; }
-	.ctl00_RightRailPlaceholder_Zone4_0 { border-color:Black;border-width:1px;border-style:Solid; }
-	.ctl00_RightRailPlaceholder_Zone3_0 { border-color:Black;border-width:1px;border-style:Solid; }
-	.ctl00_RightRailPlaceholder_Zone10_0 { border-color:Black;border-width:1px;border-style:Solid; }
 
-</style>
 
-    <form name="aspnetForm" method="post" action="/Global/en/Pages/privacy.aspx" id="aspnetForm">
+
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__SPSCEditMenu" id="__SPSCEditMenu" value="true">
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
 <input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
@@ -213,7 +317,7 @@ function  track_AnalyticEvent(_formName, _step, _action, aid)
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x75971DDFCCDAD9DC4719F34E1A99111C43D466B4AB4355407A5BE421D73D0F89FF0071514A1A70CF7C72E1092544F1ED7343F2AC1E7583BB35DA513629D9627E,26 Jun 2014 14:47:40 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0x4C67B7FBCD8D44D8E5B589DB326E12C75FA2A6CDC56C7BD2ED715214F9506AAA9D728D4DD816192CAF912D9F0DF452EE139DC715D3E19EAFE2F2205460FCCEF4,21 Dec 2014 08:06:23 -0000">
 <input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="">
 <input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
@@ -222,7 +326,7 @@ function  track_AnalyticEvent(_formName, _step, _action, aid)
 <input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
 <input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzODE2ODA3NjYPZBYCZg9kFggCAg8WAh4EVGV4dAUFZW4tVVNkAgQPZBYEZg9kFgJmD2QWAgIBDxYCHwAFF1ByaXZhY3kgfCBLUE1HIHwgR0xPQkFMZAIBD2QWEgIFDxYCHwAFBWVuLVVTZAIHDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTEyLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIJDxYCHwELKwQBZAILDxYCHwAFF1ByaXZhY3kgfCBLUE1HIHwgR0xPQkFMZAINDxYCHwELKwQBZAIPDxYCHwAFKTxtZXRhIG5hbWU9IkRDLkRhdGUiIGNvbnRlbnQ9IjkvMTMvMjAwOSI+ZAIRDxYCHwAFBWVuLVVTZAITDxYCHwAFETIwMTMtMDEtMDdUMTA6NTdaZAIVDxYCHwAFMGh0dHA6Ly93d3cua3BtZy5jb20vZ2xvYmFsL2VuL3BhZ2VzL3ByaXZhY3kuYXNweGQCBg9kFhACBA9kFgICAg8WAh4HVmlzaWJsZWgWAgIBDxAPFgIfAmhkZBYAZAIGD2QWBGYPFgIfAmgWBgIBDw8WAh8CaGRkAgMPDxYCHwJoZGQCBQ8WAh8CaGQCAg8QD2QWAh4Ib25jaGFuZ2UFN2xvY2F0aW9uLmhyZWYgPSB0aGlzLm9wdGlvbnNbdGhpcy5zZWxlY3RlZEluZGV4XS52YWx1ZTsQFZIBDy0gU2VsZWN0IFNpdGUgLQZHbG9iYWwGQWZyaWNhB0FsYmFuaWEHQWxnZXJpYQZBbmdvbGETQW50aWd1YSBhbmQgQmFyYnVkYQlBcmdlbnRpbmEHQXJtZW5pYQVBcnViYQlBdXN0cmFsaWEHQXVzdHJpYQpBemVyYmFpamFuB0JhaGFtYXMHQmFocmFpbgpCYW5nbGFkZXNoCEJhcmJhZG9zB0JlbGFydXMHQmVsZ2l1bQdCZXJtdWRhB0JvbmFpcmUWQm9zbmlhIGFuZCBIZXJ6ZWdvdmluYQhCb3Rzd2FuYQZCcmF6aWwWQnJpdGlzaCBWaXJnaW4gSXNsYW5kcwhCdWxnYXJpYQhDYW1ib2RpYQZDYW5hZGEOQ2F5bWFuIElzbGFuZHMPQ2VudHJhbCBBbWVyaWNhGkNlbnRyYWwgYW5kIEVhc3Rlcm4gRXVyb3BlD0NoYW5uZWwgSXNsYW5kcwVDaGlsZQVDaGluYQhDb2xvbWJpYQpDb3N0YSBSaWNhB0Nyb2F0aWEEQ3ViYQdDdXJhY2FvBkN5cHJ1cw5DemVjaCBSZXB1YmxpYwdEZW5tYXJrE0Rlbm1hcmsgKEtQTUcgMjAxNCkSRG9taW5pY2FuIFJlcHVibGljD0R1dGNoIENhcmliYmVhbgtFYXN0IEFmcmljYQVFZ3lwdAtFbCBTYWx2YWRvcgdFc3RvbmlhB0ZpbmxhbmQGRnJhbmNlB0dlb3JnaWEHR2VybWFueQVHaGFuYQlHaWJyYWx0YXIGR3JlZWNlCUd1YXRlbWFsYQhIb25kdXJhcw1Ib25nIEtvbmcgU0FSB0h1bmdhcnkHSWNlbGFuZAVJbmRpYQlJbmRvbmVzaWEHSXJlbGFuZAtJc2xlIG9mIE1hbgZJc3JhZWwFSXRhbHkHSmFtYWljYQVKYXBhbgZKb3JkYW4KS2F6YWtoc3RhbgVLZW55YQVLb3JlYRZLUE1HIEVhc3Rlcm4gQ2FyaWJiZWFuD0tQTUcgRXVyb3BlIExMUAZLdXdhaXQKS3lyZ3l6c3RhbgZMYXR2aWEHTGViYW5vbgVMaWJ5YQlMaXRodWFuaWEKTHV4ZW1ib3VyZwlNYWNlZG9uaWEGTWFsYXdpCE1hbGF5c2lhBU1hbHRhCU1hdXJpdGl1cwZNZXhpY28HTW9sZG92YQZNb25hY28ITW9uZ29saWEKTW9udGVuZWdybwdNb3JvY2NvCk1vemFtYmlxdWUHTXlhbm1hcgdOYW1pYmlhC05ldGhlcmxhbmRzC05ldyBaZWFsYW5kCU5pY2FyYWd1YQdOaWdlcmlhBk5vcndheQRPbWFuCFBha2lzdGFuBlBhbmFtYRBQYXB1YSBOZXcgR3VpbmVhBFBlcnULUGhpbGlwcGluZXMGUG9sYW5kCFBvcnR1Z2FsBVFhdGFyB1JvbWFuaWEGUnVzc2lhDFNhdWRpIEFyYWJpYQZTZXJiaWEMU2llcnJhIExlb25lCVNpbmdhcG9yZQhTbG92YWtpYQhTbG92ZW5pYQxTb3V0aCBBZnJpY2EFU3BhaW4JU3JpIExhbmthClN0IE1hYXJ0ZW4IU3QuTHVjaWEbU3QuVmluY2VudCAmIHRoZSBHcmVuYWRpbmVzCFN1cmluYW1lCVN3YXppbGFuZAZTd2VkZW4LU3dpdHplcmxhbmQGVGFpd2FuCFRhbnphbmlhCFRoYWlsYW5kE1RyaW5pZGFkIGFuZCBUb2JhZ28HVHVuaXNpYQZUdXJrZXkOVHVya3MgJiBDYWljb3MGVWdhbmRhB1VrcmFpbmUUVW5pdGVkIEFyYWIgRW1pcmF0ZXMOVW5pdGVkIEtpbmdkb20NVW5pdGVkIFN0YXRlcwdVcnVndWF5CVZlbmV6dWVsYQdWaWV0bmFtBVllbWVuBlphbWJpYQhaaW1iYWJ3ZRWSAQAwaHR0cDovL3d3dy5rcG1nLmNvbS9nbG9iYWwvZW4vcGFnZXMvZGVmYXVsdC5hc3B4HWh0dHA6Ly93d3cua3BtZy5jb20vYWZyaWNhL2VuLGh0dHA6Ly93d3cua3BtZy5jb20vYWwvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vZHovZnIvUGFnZXMvZGVmYXVsdC5hc3B4OWh0dHA6Ly93d3cua3BtZy5jb20vUFQvcHQva3BtZ2FuZ29sYS9QYWdpbmFzL2RlZmF1bHQuYXNweDpodHRwOi8vd3d3LmtwbWcuY29tL2Vhc3Rlcm5jYXJpYmJlYW4vZW4vcGFnZXMvZGVmYXVsdC5hc3B4Lmh0dHA6Ly93d3cua3BtZy5jb20vQVIvZXMvUGFnaW5hcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9hbS9lbi9wYWdlcy9kZWZhdWx0LmFzcHg4aHR0cDovL3d3dy5rcG1nLmNvbS9kdXRjaGNhcmliYmVhbi9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9hdS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgTaHR0cDovL3d3dy5rcG1nLmF0LxpodHRwOi8vd3d3LmtwbWcuY29tL2F6L2VuLyxodHRwOi8vd3d3LmtwbWcuY29tL2JzL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2JoL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL0JEL2VuL1BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2JiL2VuL3BhZ2VzL2RlZmF1bHQuYXNweBdodHRwOi8vd3d3LmtwbWcuY29tL2J5LyxodHRwOi8vd3d3LmtwbWcuY29tL2JlL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2JtL2VuL3BhZ2VzL2RlZmF1bHQuYXNweDhodHRwOi8vd3d3LmtwbWcuY29tL2R1dGNoY2FyaWJiZWFuL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL0JBL2VuL1BhZ2VzL0RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2J3L2VuL3BhZ2VzL2RlZmF1bHQuYXNweBdodHRwOi8vd3d3LmtwbWcuY29tL2JyLyxodHRwOi8vd3d3LmtwbWcuY29tL1ZHL2VuL1BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2JnL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2toL2VuL3BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL2NhLGh0dHA6Ly93d3cua3BtZy5jb20vS1kvZW4vUGFnZXMvZGVmYXVsdC5hc3B4L2h0dHA6Ly93d3cua3BtZy5jb20va2NhL2VzL3BhZ2luYXMvZGVmYXVsdC5hc3B4LWh0dHA6Ly93d3cua3BtZy5jb20vQ0VFL2VuL1BhZ2VzL2RlZmF1bHQuYXNweDhodHRwOi8vd3d3LmtwbWcuY29tL2NoYW5uZWxpc2xhbmRzL2VuL1BhZ2VzL2RlZmF1bHQuYXNweBdodHRwOi8vd3d3LmtwbWcuY29tL2NsLyxodHRwOi8vd3d3LmtwbWcuY29tL2NuL3poL1BhZ2VzL2RlZmF1bHQuYXNweBdodHRwOi8vd3d3LmtwbWcuY29tL2NvLzlodHRwOi8vd3d3LmtwbWcuY29tL2tjYS9lcy9jb3N0YXJpY2EvcGFnaW5hcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9oci9lbi9wYWdlcy9kZWZhdWx0LmFzcHg4aHR0cDovL3d3dy5rcG1nLmNvbS9kdXRjaGNhcmliYmVhbi9lbi9wYWdlcy9kZWZhdWx0LmFzcHg4aHR0cDovL3d3dy5rcG1nLmNvbS9kdXRjaGNhcmliYmVhbi9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9jeS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgXaHR0cDovL3d3dy5rcG1nLmNvbS9jei8saHR0cDovL3d3dy5rcG1nLmNvbS9kay9kYS9zaWRlci9mb3JzaWRlLmFzcHgJL2twbWcyMDE0RGh0dHA6Ly93d3cua3BtZy5jb20va2NhL2VzL3JlcHVibGljYS1kb21pbmljYW5hL3BhZ2luYXMvZGVmYXVsdC5hc3B4OGh0dHA6Ly93d3cua3BtZy5jb20vZHV0Y2hjYXJpYmJlYW4vZW4vcGFnZXMvZGVmYXVsdC5hc3B4NGh0dHA6Ly93d3cua3BtZy5jb20vZWFzdGFmcmljYS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9lZy9lbi9wYWdlcy9kZWZhdWx0LmFzcHg6aHR0cDovL3d3dy5rcG1nLmNvbS9LQ0EvZXMvRWxTYWx2YWRvci9QYWdpbmFzL2RlZmF1bHQuYXNweBdodHRwOi8vd3d3LmtwbWcuY29tL2VlLxZodHRwOi8vd3d3LmtwbWcuY29tL2ZpFmh0dHA6Ly93d3cua3BtZy5jb20vZnIsaHR0cDovL3d3dy5rcG1nLmNvbS9nZS9lbi9QYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS9kZSxodHRwOi8vd3d3LmtwbWcuY29tL2doL2VuL1BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2dpL2VuL3BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL2dyOWh0dHA6Ly93d3cua3BtZy5jb20va2NhL2VzL2d1YXRlbWFsYS9wYWdpbmFzL2RlZmF1bHQuYXNweDhodHRwOi8vd3d3LmtwbWcuY29tL2tjYS9lcy9ob25kdXJhcy9wYWdpbmFzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL2NuFmh0dHA6Ly93d3cua3BtZy5jb20vaHUWaHR0cDovL3d3dy5rcG1nLmNvbS9pcyxodHRwOi8vd3d3LmtwbWcuY29tL2luL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2lkL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2llL2VuL1BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2ltL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2lsL2VuL3BhZ2VzL2RlZmF1bHQuYXNweC1odHRwOi8vd3d3LmtwbWcuY29tL2l0L2l0L3BhZ2luZS9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9qbS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgVaHR0cDovL3d3dy5rcG1nLm9yLmpwLGh0dHA6Ly93d3cua3BtZy5jb20vSk8vZW4vUGFnZXMvZGVmYXVsdC5hc3B4F2h0dHA6Ly93d3cua3BtZy5jb20va3ovNGh0dHA6Ly93d3cua3BtZy5jb20vZWFzdGFmcmljYS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgXaHR0cDovL3d3dy5rcG1nLmNvbS9rci86aHR0cDovL3d3dy5rcG1nLmNvbS9lYXN0ZXJuY2FyaWJiZWFuL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2V1L2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2t3L2VuL3BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL0tHLGh0dHA6Ly93d3cua3BtZy5jb20vbHYvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vbGIvZW4vcGFnZXMvZGVmYXVsdC5hc3B4Fmh0dHA6Ly93d3cua3BtZy5jb20vbHkWaHR0cDovL3d3dy5rcG1nLmNvbS9sdCxodHRwOi8vd3d3LmtwbWcuY29tL2x1L2VuL3BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL21rLGh0dHA6Ly93d3cua3BtZy5jb20vbXcvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vbXkvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vbXQvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vbXUvZW4vUGFnZXMvZGVmYXVsdC5hc3B4GWh0dHA6Ly93d3cua3BtZy5jb20vbXgvZW4saHR0cDovL3d3dy5rcG1nLmNvbS9tZC9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9tYy9mci9QYWdlcy9kZWZhdWx0LmFzcHgZaHR0cDovL3d3dy5rcG1nLmNvbS9tbi9lbixodHRwOi8vd3d3LmtwbWcuY29tL21lL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL01BL2ZyL1BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL216L2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL21tL2VuL1BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL05BL2VuL1BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL25sLGh0dHA6Ly93d3cua3BtZy5jb20vbnovZW4vcGFnZXMvZGVmYXVsdC5hc3B4OWh0dHA6Ly93d3cua3BtZy5jb20va2NhL2VzL25pY2FyYWd1YS9wYWdpbmFzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL25nL2VuL3BhZ2VzL2RlZmF1bHQuYXNweBJodHRwOi8vd3d3LmtwbWcubm8saHR0cDovL3d3dy5rcG1nLmNvbS9vbS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9way9lbi9wYWdlcy9kZWZhdWx0LmFzcHg2aHR0cDovL3d3dy5rcG1nLmNvbS9rY2EvZXMvcGFuYW1hL1BhZ2luYXMvZGVmYXVsdC5hc3B4TWh0dHA6Ly93d3cua3BtZy5jb20vYXUvZW4vYWJvdXQvbG9jYXRpb25zL3BhcHVhLW5ldy1ndWluZWEvUGFnZXMvZGVmYXVsdC5hc3B4Fmh0dHA6Ly93d3cua3BtZy5jb20vcGUsaHR0cDovL3d3dy5rcG1nLmNvbS9waC9lbi9wYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS9wbCxodHRwOi8vd3d3LmtwbWcuY29tL3B0L2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL3FhL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL3JvL2VuL1BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL3J1LGh0dHA6Ly93d3cua3BtZy5jb20vc2EvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vcnMvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vU0wvZW4vUGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vc2cvZW4vcGFnZXMvZGVmYXVsdC5hc3B4Fmh0dHA6Ly93d3cua3BtZy5jb20vc2ssaHR0cDovL3d3dy5rcG1nLmNvbS9zaS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS96YS9lbi9wYWdlcy9kZWZhdWx0LmFzcHguaHR0cDovL3d3dy5rcG1nLmNvbS9lcy9lcy9wYWdpbmFzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2xrL2VuL3BhZ2VzL2RlZmF1bHQuYXNweDhodHRwOi8vd3d3LmtwbWcuY29tL2R1dGNoY2FyaWJiZWFuL2VuL3BhZ2VzL2RlZmF1bHQuYXNweDpodHRwOi8vd3d3LmtwbWcuY29tL2Vhc3Rlcm5jYXJpYmJlYW4vZW4vcGFnZXMvZGVmYXVsdC5hc3B4Omh0dHA6Ly93d3cua3BtZy5jb20vZWFzdGVybmNhcmliYmVhbi9lbi9wYWdlcy9kZWZhdWx0LmFzcHg4aHR0cDovL3d3dy5rcG1nLmNvbS9kdXRjaGNhcmliYmVhbi9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9zei9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9zZS9zdi9zaWRvci9kZWZhdWx0LmFzcHgtaHR0cDovL3d3dy5rcG1nLmNvbS9jaC9kZS9zZWl0ZW4vZGVmYXVsdC5hc3B4Fmh0dHA6Ly93d3cua3BtZy5jb20vdHc0aHR0cDovL3d3dy5rcG1nLmNvbS9lYXN0YWZyaWNhL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL3RoL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL3R0L2VuL3BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL3RuLGh0dHA6Ly93d3cua3BtZy5jb20vdHIvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vdGMvZW4vcGFnZXMvZGVmYXVsdC5hc3B4NGh0dHA6Ly93d3cua3BtZy5jb20vZWFzdGFmcmljYS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS91YSxodHRwOi8vd3d3LmtwbWcuY29tL2FlL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL3VrL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL3VzL2VuL3BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL3V5Fmh0dHA6Ly93d3cua3BtZy5jb20vdmUWaHR0cDovL3d3dy5rcG1nLmNvbS92bixodHRwOi8vd3d3LmtwbWcuY29tL3llL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL1pNL2VuL1BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcu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J2d0bS5qcyd9KTt2YXIgZj1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdLA0Kaj1kLmNyZWF0ZUVsZW1lbnQocyksZGw9bCE9J2RhdGFMYXllcic/JyZsPScrbDonJztqLmFzeW5jPXRydWU7ai5zcmM9DQonLy93d3cuZ29vZ2xldGFnbWFuYWdlci5jb20vZ3RtLmpzP2lkPScraStkbDtmLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGosZik7DQp9KSh3aW5kb3csZG9jdW1lbnQsJ3NjcmlwdCcsJ2RhdGFMYXllcicsJ0dUTS1NTDlLUDInKTsNCjwvc2NyaXB0Pg0KDQo8IS0tIEVuZCBHb29nbGUgVGFnIE1hbmFnZXIgLS0+DQoKPCEtLSBHb29nbGUgYW5hbHl0aWNzIC0tPiANCjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4gDQogIGlmIChrcG1nUHVibGljICYmIGtwbWdJbmNsdWRlKSANCiAgIHsgDQoNCg0KLy9Hb29nbGUgQW5hbHl0aWNzIGNvbXBvbmVudCANCnZhciBfZ2FxID0gX2dhcSB8fCBbXTsgDQpfZ2FxLnB1c2goWyJnbG9iYWwuX3NldEFjY291bnQiLCAiVUEtMTMyMzA0NTctNCJdKTsgDQpfZ2FxLnB1c2goWyJnbG9iYWwuX3NldERvbWFpbk5hbWUiLCAiLmtwbWcuY29tIl0pOyANCl9nYXEucHVzaChbImdsb2JhbC5fc2V0QWxsb3dIYXNoIiwgZmFsc2VdKTsgDQpfZ2FxLnB1c2goWyJnbG9iYWwuX3NldEFsbG93TGlua2VyIiwgdHJ1ZV0pOyANCl9nYXEucHVzaChbImdsb2JhbC5fdHJhY2tQYWdldmlldyJdKTsgDQooZnVuY3Rpb24oKSB7IA0KdmFyIGdhID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7IGdhLnR5cGUgPSAidGV4dC9qYXZhc2NyaXB0IjsgZ2EuYXN5bmMgPSB0cnVlOyANCmdhLnNyYyA9ICgnaHR0cHM6JyA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCA/ICdodHRwczovL3NzbC5nb29nbGUtYW5hbHl0aWNzLmNvbS9nYS5qcycgOiAnaHR0cDovL3d3dy5nb29nbGUtYW5hbHl0aWNzLmNvbS9nYS5qcycpOyANCnZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoInNjcmlwdCIpWzBdOyBzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGdhLCBzKTsgDQp9KSgpOyANCiQoZnVuY3Rpb24oKSB7IA0KJCgiYSIpLmNsaWNrKGZ1bmN0aW9uKCkgeyANCnZhciBocmVmID0gJCh0aGlzKS5hdHRyKCJocmVmIik7IA0KdmFyIHNpdGVwYXRoID0gJyc7IA0KLy8gUERGIGxpbmtzIA0KaWYgKGhyZWYubWF0Y2goL1wucGRmJC9pKSkgeyANCl9nYXEucHVzaChbImdsb2JhbC5fdHJhY2tQYWdldmlldyIsIGhyZWZdKTsgDQp9IA0KLy8gbWFpbHRvOiBsaW5rcyANCmVsc2UgaWYgKGhyZWYubWF0Y2goL21haWx0bzovaSkpeyANCnNpdGVwYXRoID0gbG9jYXRpb24ucGF0aG5hbWUubWF0Y2goL15cL1thLXpdK1wvW2Etel0rXC8vaSk7IA0KaWYgKHNpdGVwYXRoKSB7IF9nYXEucHVzaChbImdsb2JhbC5fdHJhY2tQYWdldmlldyIsIHNpdGVwYXRoICsgImUtbWFpbD8iICsgaHJlZl0pO30gDQplbHNlIHsgX2dhcS5wdXNoKFsiZ2xvYmFsLl90cmFja1BhZ2V2aWV3IiwgIi9lLW1haWw/IiArIGhyZWZdKTsgfSANCn0gDQovLyBFeHRlcm5hbCBsaW5rcyANCmVsc2UgaWYoICFocmVmLm1hdGNoKC9cL1wvKHd3d1wuKT9rcG1nXC5jb20vaSkgJiYgaHJlZi5tYXRjaCgvXmh0dHBzPzpcL1wvL2kpICl7IA0Kc2l0ZXBhdGggPSBsb2NhdGlvbi5wYXRobmFtZS5tYXRjaCgvXlwvW2Etel0rXC9bYS16XStcLy9pKTsgDQppZiAoc2l0ZXBhdGgpIHsgX2dhcS5wdXNoKFsiZ2xvYmFsLl90cmFja1BhZ2V2aWV3Iiwgc2l0ZXBhdGggKyAiZXh0ZXJuYWw/IiArIGhyZWZdKTsgfSANCmVsc2UgeyBfZ2FxLnB1c2goWyJnbG9iYWwuX3RyYWNrUGFnZXZpZXciLCAiL2V4dGVybmFsP3NpdGU9IiArIGhyZWZdKTsgfSANCn0gDQp9KTsgDQp9KTsgDQogICB9IA0KPC9zY3JpcHQ+IA0KPCEtLSBlbmQgZ29vZ2xlIGFuYWx5dGljcyAtLT4gDQoNCjwhLS1CZWdpbjogd3d3LmlwZXJjZXB0aW9ucy5jb20gLS0+IA0KPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPiANCihmdW5jdGlvbihkLCBmKSB7IA0KICAgIHZhciBjID0gZC5jb29raWU7IA0KICAgIGlmKCEoLyhefDspXHMqSVBFKF9TXyk/MTA2NDc5Ly50ZXN0KGMpIHx8IC8oXnw7KVxzKklQRV9SRUcvLnRlc3QoYykpKSB7IA0KICAgICAgICB2YXIgcyA9IGQuY3JlYXRlRWxlbWVudCgnc2NyaXB0JyksIGEgPSAiYXN5bmMiLCBiID0gImRlZmVyIjsgDQogICAgICAgIHMuc2V0QXR0cmlidXRlKGEsYSk7IA0KICAgICAgICBzLnNldEF0dHJpYnV0ZShiLGIpOyANCiAgICAgICAgcy50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7ICANCiAgICAgICAgcy5zcmMgPSBmOyAgDQogICAgICAgIGQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXS5hcHBlbmRDaGlsZChzKTsgDQogICAgfSANCiAgICBkLmNvb2tpZSA9ICJJUEVfUkVHPTA7UGF0aD0vOyI7IA0KfSkoZG9jdW1lbnQsIGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sICsgIi8vaXBzLWludml0ZS5pcGVyY2VwdGlvbnMuY29tL2ludml0YXRpb25zL2ludml0YXRpb25zSlMvMTA2L3MxMDY0NzkvZ2F0ZXdheS5qcyIpOyANCjwvc2NyaXB0PiANCjwhLS1FbmQ6IHd3dy5pcGVyY2VwdGlvbnMuY29tIC0tPiANCg0KPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0iL2dsb2JhbC9lbi9QdWJsaXNoaW5nSW1hZ2VzL21kZC5jc3MiIC8+IA0KPCEtLVtpZiBJRV0+IA0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4gDQoubWRkIHtiYWNrZ3JvdW5kOiB1cmwoIi9TdHlsZSUyMExpYnJhcnkvSW1hZ2VzL01ERC9tZWdhZHJvcGRvd25fYmcucG5nIikgcmVwZWF0IGxlZnQgdG9wO30gDQoubWRkIC5wYW5lbCB7IGJhY2tncm91bmQ6ICAjRjNGNEY4IHVybCgnL1N0eWxlJTIwTGlicmFyeS9JbWFnZXMvTUREL21lZ2Fkcm9wZG93bl9iZy5wbmcnKSB0b3AgbGVmdCByZXBlYXQteDsgfSANCjwvc3R5bGU+IA0KPCFbZW5kaWZdLS0+DQoNCjxzY3JpcHQgc3JjPSIvR2xvYmFsL2VuL0RvY3VtZW50cy9jb21tZW50X2JveC9pcGVjYy5qcyI+PC9zY3JpcHQ+ZGTPx+cZlPuN0szbTIPw+T2shRwhOw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMjY3ODM1NTgPZBYCZg9kFggCAg8WAh4EVGV4dAUFZW4tVVNkAgQPZBYEZg9kFgJmD2QWAgIBDxYCHwAFF1ByaXZhY3kgfCBLUE1HIHwgR0xPQkFMZAIBD2QWEgIFDxYCHwAFBWVuLVVTZAIHDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTEyLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIJDxYCHwELKwQBZAILDxYCHwAFF1ByaXZhY3kgfCBLUE1HIHwgR0xPQkFMZAINDxYCHwELKwQBZAIPDxYCHwAFKTxtZXRhIG5hbWU9IkRDLkRhdGUiIGNvbnRlbnQ9IjkvMTMvMjAwOSI+ZAIRDxYCHwAFBWVuLVVTZAITDxYCHwAFETIwMTQtMTEtMTdUMTY6MjVaZAIVDxYCHwAFMGh0dHA6Ly93d3cua3BtZy5jb20vZ2xvYmFsL2VuL3BhZ2VzL3ByaXZhY3kuYXNweGQCBg9kFg4CBA9kFgICAg8WAh4HVmlzaWJsZWgWAgIBDxAPFgIfAmhkZBYAZAIGD2QWBGYPFgIfAmgWBgIBDw8WAh8CaGRkAgMPDxYCHwJoZGQCBQ8WAh8CaGQCAg8QD2QWAh4Ib25jaGFuZ2UFN2xvY2F0aW9uLmhyZWYgPSB0aGlzLm9wdGlvbnNbdGhpcy5zZWxlY3RlZEluZGV4XS52YWx1ZTsQFZEBDy0gU2VsZWN0IFNpdGUgLQZHbG9iYWwGQWZyaWNhB0FsYmFuaWEHQWxnZXJpYQZBbmdvbGETQW50aWd1YSBhbmQgQmFyYnVkYQlBcmdlbnRpbmEHQXJtZW5pYQVBcnViYQlBdXN0cmFsaWEHQXVzdHJpYQpBemVyYmFpamFuB0JhaGFtYXMHQmFocmFpbgpCYW5nbGFkZXNoCEJhcmJhZG9zB0JlbGFydXMHQmVsZ2l1bQdCZXJtdWRhB0JvbmFpcmUWQm9zbmlhIGFuZCBIZXJ6ZWdvdmluYQhCb3Rzd2FuYQZCcmF6aWwWQnJpdGlzaCBWaXJnaW4gSXNsYW5kcwhCdWxnYXJpYQhDYW1ib2RpYQZDYW5hZGEOQ2F5bWFuIElzbGFuZHMPQ2VudHJhbCBBbWVyaWNhGkNlbnRyYWwgYW5kIEVhc3Rlcm4gRXVyb3BlD0NoYW5uZWwgSXNsYW5kcwVDaGlsZQVDaGluYQhDb2xvbWJpYQpDb3N0YSBSaWNhB0Nyb2F0aWEEQ3ViYQdDdXJhY2FvBkN5cHJ1cw5DemVjaCBSZXB1YmxpYwdEZW5tYXJrEkRvbWluaWNhbiBSZXB1YmxpYw9EdXRjaCBDYXJpYmJlYW4LRWFzdCBBZnJpY2EFRWd5cHQLRWwgU2FsdmFkb3IHRXN0b25pYQdGaW5sYW5kBkZyYW5jZQdHZW9yZ2lhB0dlcm1hbnkFR2hhbmEJR2licmFsdGFyBkdyZWVjZQlHdWF0ZW1hbGEISG9uZHVyYXMNSG9uZyBLb25nIFNBUgdIdW5nYXJ5B0ljZWxhbmQFSW5kaWEJSW5kb25lc2lhB0lyZWxhbmQLSXNsZSBvZiBNYW4GSXNyYWVsBUl0YWx5B0phbWFpY2EFSmFwYW4GSm9yZGFuCkthemFraHN0YW4FS2VueWEFS29yZWEWS1BNRyBFYXN0ZXJuIENhcmliYmVhbg9LUE1HIEV1cm9wZSBMTFAGS3V3YWl0Ckt5cmd5enN0YW4GTGF0dmlhB0xlYmFub24FTGlieWEJTGl0aHVhbmlhCkx1eGVtYm91cmcJTWFjZWRvbmlhBk1hbGF3aQhNYWxheXNpYQVNYWx0YQlNYXVyaXRpdXMGTWV4aWNvB01vbGRvdmEGTW9uYWNvCE1vbmdvbGlhCk1vbnRlbmVncm8HTW9yb2NjbwpNb3phbWJpcXVlB015YW5tYXIHTmFtaWJpYQtOZXRoZXJsYW5kcwtOZXcgWmVhbGFuZAlOaWNhcmFndWEHTmlnZXJpYQZOb3J3YXkET21hbghQYWtpc3RhbgZQYW5hbWEQUGFwdWEgTmV3IEd1aW5lYQRQZXJ1C1BoaWxpcHBpbmVzBlBvbGFuZAhQb3J0dWdhbAVRYXRhcgdSb21hbmlhBlJ1c3NpYQxTYXVkaSBBcmFiaWEGU2VyYmlhDFNpZXJyYSBMZW9uZQlTaW5nYXBvcmUIU2xvdmFraWEIU2xvdmVuaWEMU291dGggQWZyaWNhBVNwYWluCVNyaSBMYW5rYQpTdCBNYWFydGVuCFN0Lkx1Y2lhG1N0LlZpbmNlbnQgJiB0aGUgR3JlbmFkaW5lcwhTdXJpbmFtZQlTd2F6aWxhbmQGU3dlZGVuC1N3aXR6ZXJsYW5kBlRhaXdhbghUYW56YW5pYQhUaGFpbGFuZBNUcmluaWRhZCBhbmQgVG9iYWdvB1R1bmlzaWEGVHVya2V5DlR1cmtzICYgQ2FpY29zBlVnYW5kYQdVa3JhaW5lFFVuaXRlZCBBcmFiIEVtaXJhdGVzDlVuaXRlZCBLaW5nZG9tDVVuaXRlZCBTdGF0ZXMHVXJ1Z3VheQlWZW5lenVlbGEHVmlldG5hbQVZZW1lbgZaYW1iaWEIWmltYmFid2UVkQEAMGh0dHA6Ly93d3cua3BtZy5jb20vZ2xvYmFsL2VuL3BhZ2VzL2RlZmF1bHQuYXNweB1odHRwOi8vd3d3LmtwbWcuY29tL2FmcmljYS9lbixodHRwOi8vd3d3LmtwbWcuY29tL2FsL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2R6L2ZyL1BhZ2VzL2RlZmF1bHQuYXNweDlodHRwOi8vd3d3LmtwbWcuY29tL1BUL3B0L2twbWdhbmdvbGEvUGFnaW5hcy9kZWZhdWx0LmFzcHg6aHR0cDovL3d3dy5rcG1nLmNvbS9lYXN0ZXJuY2FyaWJiZWFuL2VuL3BhZ2VzL2RlZmF1bHQuYXNweC5odHRwOi8vd3d3LmtwbWcuY29tL0FSL2VzL1BhZ2luYXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vYW0vZW4vcGFnZXMvZGVmYXVsdC5hc3B4OGh0dHA6Ly93d3cua3BtZy5jb20vZHV0Y2hjYXJpYmJlYW4vZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vYXUvZW4vcGFnZXMvZGVmYXVsdC5hc3B4E2h0dHA6Ly93d3cua3BtZy5hdC8aaHR0cDovL3d3dy5rcG1nLmNvbS9hei9lbi8saHR0cDovL3d3dy5rcG1nLmNvbS9icy9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9iaC9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9CRC9lbi9QYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9iYi9lbi9wYWdlcy9kZWZhdWx0LmFzcHgXaHR0cDovL3d3dy5rcG1nLmNvbS9ieS8saHR0cDovL3d3dy5rcG1nLmNvbS9iZS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9ibS9lbi9wYWdlcy9kZWZhdWx0LmFzcHg4aHR0cDovL3d3dy5rcG1nLmNvbS9kdXRjaGNhcmliYmVhbi9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9CQS9lbi9QYWdlcy9EZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9idy9lbi9wYWdlcy9kZWZhdWx0LmFzcHgXaHR0cDovL3d3dy5rcG1nLmNvbS9ici8saHR0cDovL3d3dy5rcG1nLmNvbS9WRy9lbi9QYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9iZy9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9raC9lbi9wYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS9jYSxodHRwOi8vd3d3LmtwbWcuY29tL0tZL2VuL1BhZ2VzL2RlZmF1bHQuYXNweC9odHRwOi8vd3d3LmtwbWcuY29tL2tjYS9lcy9wYWdpbmFzL2RlZmF1bHQuYXNweC1odHRwOi8vd3d3LmtwbWcuY29tL0NFRS9lbi9QYWdlcy9kZWZhdWx0LmFzcHg4aHR0cDovL3d3dy5rcG1nLmNvbS9jaGFubmVsaXNsYW5kcy9lbi9QYWdlcy9kZWZhdWx0LmFzcHgXaHR0cDovL3d3dy5rcG1nLmNvbS9jbC8saHR0cDovL3d3dy5rcG1nLmNvbS9jbi96aC9QYWdlcy9kZWZhdWx0LmFzcHgXaHR0cDovL3d3dy5rcG1nLmNvbS9jby85aHR0cDovL3d3dy5rcG1nLmNvbS9rY2EvZXMvY29zdGFyaWNhL3BhZ2luYXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vaHIvZW4vcGFnZXMvZGVmYXVsdC5hc3B4OGh0dHA6Ly93d3cua3BtZy5jb20vZHV0Y2hjYXJpYmJlYW4vZW4vcGFnZXMvZGVmYXVsdC5hc3B4OGh0dHA6Ly93d3cua3BtZy5jb20vZHV0Y2hjYXJpYmJlYW4vZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vY3kvZW4vcGFnZXMvZGVmYXVsdC5hc3B4F2h0dHA6Ly93d3cua3BtZy5jb20vY3ovCS9rcG1nMjAxNERodHRwOi8vd3d3LmtwbWcuY29tL2tjYS9lcy9yZXB1YmxpY2EtZG9taW5pY2FuYS9wYWdpbmFzL2RlZmF1bHQuYXNweDhodHRwOi8vd3d3LmtwbWcuY29tL2R1dGNoY2FyaWJiZWFuL2VuL3BhZ2VzL2RlZmF1bHQuYXNweDRodHRwOi8vd3d3LmtwbWcuY29tL2Vhc3RhZnJpY2EvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vZWcvZW4vcGFnZXMvZGVmYXVsdC5hc3B4Omh0dHA6Ly93d3cua3BtZy5jb20vS0NBL2VzL0VsU2FsdmFkb3IvUGFnaW5hcy9kZWZhdWx0LmFzcHgXaHR0cDovL3d3dy5rcG1nLmNvbS9lZS8WaHR0cDovL3d3dy5rcG1nLmNvbS9maRZodHRwOi8vd3d3LmtwbWcuY29tL2ZyLGh0dHA6Ly93d3cua3BtZy5jb20vZ2UvZW4vUGFnZXMvZGVmYXVsdC5hc3B4Fmh0dHA6Ly93d3cua3BtZy5jb20vZGUsaHR0cDovL3d3dy5rcG1nLmNvbS9naC9lbi9QYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9naS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS9ncjlodHRwOi8vd3d3LmtwbWcuY29tL2tjYS9lcy9ndWF0ZW1hbGEvcGFnaW5hcy9kZWZhdWx0LmFzcHg4aHR0cDovL3d3dy5rcG1nLmNvbS9rY2EvZXMvaG9uZHVyYXMvcGFnaW5hcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS9jbhZodHRwOi8vd3d3LmtwbWcuY29tL2h1Fmh0dHA6Ly93d3cua3BtZy5jb20vaXMsaHR0cDovL3d3dy5rcG1nLmNvbS9pbi9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9pZC9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9pZS9lbi9QYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9pbS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9pbC9lbi9wYWdlcy9kZWZhdWx0LmFzcHgtaHR0cDovL3d3dy5rcG1nLmNvbS9pdC9pdC9wYWdpbmUvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vam0vZW4vcGFnZXMvZGVmYXVsdC5hc3B4FWh0dHA6Ly93d3cua3BtZy5vci5qcCxodHRwOi8vd3d3LmtwbWcuY29tL0pPL2VuL1BhZ2VzL2RlZmF1bHQuYXNweBdodHRwOi8vd3d3LmtwbWcuY29tL2t6LzRodHRwOi8vd3d3LmtwbWcuY29tL2Vhc3RhZnJpY2EvZW4vcGFnZXMvZGVmYXVsdC5hc3B4F2h0dHA6Ly93d3cua3BtZy5jb20va3IvOmh0dHA6Ly93d3cua3BtZy5jb20vZWFzdGVybmNhcmliYmVhbi9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9ldS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9rdy9lbi9wYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS9LRyxodHRwOi8vd3d3LmtwbWcuY29tL2x2L2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL2xiL2VuL3BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL2x5Fmh0dHA6Ly93d3cua3BtZy5jb20vbHQsaHR0cDovL3d3dy5rcG1nLmNvbS9sdS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS9tayxodHRwOi8vd3d3LmtwbWcuY29tL213L2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL215L2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL210L2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL211L2VuL1BhZ2VzL2RlZmF1bHQuYXNweBlodHRwOi8vd3d3LmtwbWcuY29tL214L2VuLGh0dHA6Ly93d3cua3BtZy5jb20vbWQvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vbWMvZnIvUGFnZXMvZGVmYXVsdC5hc3B4GWh0dHA6Ly93d3cua3BtZy5jb20vbW4vZW4saHR0cDovL3d3dy5rcG1nLmNvbS9tZS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9NQS9mci9QYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9tei9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9tbS9lbi9QYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9OQS9lbi9QYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS9ubCxodHRwOi8vd3d3LmtwbWcuY29tL256L2VuL3BhZ2VzL2RlZmF1bHQuYXNweDlodHRwOi8vd3d3LmtwbWcuY29tL2tjYS9lcy9uaWNhcmFndWEvcGFnaW5hcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9uZy9lbi9wYWdlcy9kZWZhdWx0LmFzcHgSaHR0cDovL3d3dy5rcG1nLm5vLGh0dHA6Ly93d3cua3BtZy5jb20vb20vZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vcGsvZW4vcGFnZXMvZGVmYXVsdC5hc3B4Nmh0dHA6Ly93d3cua3BtZy5jb20va2NhL2VzL3BhbmFtYS9QYWdpbmFzL2RlZmF1bHQuYXNweE1odHRwOi8vd3d3LmtwbWcuY29tL2F1L2VuL2Fib3V0L2xvY2F0aW9ucy9wYXB1YS1uZXctZ3VpbmVhL1BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL3BlLGh0dHA6Ly93d3cua3BtZy5jb20vcGgvZW4vcGFnZXMvZGVmYXVsdC5hc3B4Fmh0dHA6Ly93d3cua3BtZy5jb20vcGwsaHR0cDovL3d3dy5rcG1nLmNvbS9wdC9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9xYS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9yby9lbi9QYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS9ydSxodHRwOi8vd3d3LmtwbWcuY29tL3NhL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL3JzL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL1NML2VuL1BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL3NnL2VuL3BhZ2VzL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL3NrLGh0dHA6Ly93d3cua3BtZy5jb20vc2kvZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vemEvZW4vcGFnZXMvZGVmYXVsdC5hc3B4Lmh0dHA6Ly93d3cua3BtZy5jb20vZXMvZXMvcGFnaW5hcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9say9lbi9wYWdlcy9kZWZhdWx0LmFzcHg4aHR0cDovL3d3dy5rcG1nLmNvbS9kdXRjaGNhcmliYmVhbi9lbi9wYWdlcy9kZWZhdWx0LmFzcHg6aHR0cDovL3d3dy5rcG1nLmNvbS9lYXN0ZXJuY2FyaWJiZWFuL2VuL3BhZ2VzL2RlZmF1bHQuYXNweDpodHRwOi8vd3d3LmtwbWcuY29tL2Vhc3Rlcm5jYXJpYmJlYW4vZW4vcGFnZXMvZGVmYXVsdC5hc3B4OGh0dHA6Ly93d3cua3BtZy5jb20vZHV0Y2hjYXJpYmJlYW4vZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vc3ovZW4vcGFnZXMvZGVmYXVsdC5hc3B4LGh0dHA6Ly93d3cua3BtZy5jb20vc2Uvc3Yvc2lkb3IvZGVmYXVsdC5hc3B4LWh0dHA6Ly93d3cua3BtZy5jb20vY2gvZGUvc2VpdGVuL2RlZmF1bHQuYXNweBZodHRwOi8vd3d3LmtwbWcuY29tL3R3NGh0dHA6Ly93d3cua3BtZy5jb20vZWFzdGFmcmljYS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS90aC9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS90dC9lbi9wYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS90bixodHRwOi8vd3d3LmtwbWcuY29tL3RyL2VuL3BhZ2VzL2RlZmF1bHQuYXNweCxodHRwOi8vd3d3LmtwbWcuY29tL3RjL2VuL3BhZ2VzL2RlZmF1bHQuYXNweDRodHRwOi8vd3d3LmtwbWcuY29tL2Vhc3RhZnJpY2EvZW4vcGFnZXMvZGVmYXVsdC5hc3B4Fmh0dHA6Ly93d3cua3BtZy5jb20vdWEsaHR0cDovL3d3dy5rcG1nLmNvbS9hZS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS91ay9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS91cy9lbi9wYWdlcy9kZWZhdWx0LmFzcHgWaHR0cDovL3d3dy5rcG1nLmNvbS91eRZodHRwOi8vd3d3LmtwbWcuY29tL3ZlFmh0dHA6Ly93d3cua3BtZy5jb20vdm4saHR0cDovL3d3dy5rcG1nLmNvbS95ZS9lbi9wYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9aTS9lbi9QYWdlcy9kZWZhdWx0LmFzcHgsaHR0cDovL3d3dy5rcG1nLmNvbS9aVy9lbi9QYWdlcy9kZWZhdWx0LmFzcHgUKwORAWdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dn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IGQuY29va2llID0gIklQRV9SRUc9MDtQYXRoPS87IjsgDQp9KShkb2N1bWVudCwgZG9jdW1lbnQubG9jYXRpb24ucHJvdG9jb2wgKyAiLy9pcHMtaW52aXRlLmlwZXJjZXB0aW9ucy5jb20vaW52aXRhdGlvbnMvaW52aXRhdGlvbnNKUy8xMDYvczEwNjQ3OS9nYXRld2F5LmpzIik7IA0KPC9zY3JpcHQ+IA0KPCEtLUVuZDogd3d3LmlwZXJjZXB0aW9ucy5jb20gLS0+IA0KDQo8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIvZ2xvYmFsL2VuL1B1Ymxpc2hpbmdJbWFnZXMvbWRkLmNzcyIgLz4gDQo8IS0tW2lmIElFXT4gDQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiANCi5tZGQge2JhY2tncm91bmQ6IHVybCgiL1N0eWxlJTIwTGlicmFyeS9JbWFnZXMvTUREL21lZ2Fkcm9wZG93bl9iZy5wbmciKSByZXBlYXQgbGVmdCB0b3A7fSANCi5tZGQgLnBhbmVsIHsgYmFja2dyb3VuZDogICNGM0Y0RjggdXJsKCcvU3R5bGUlMjBMaWJyYXJ5L0ltYWdlcy9NREQvbWVnYWRyb3Bkb3duX2JnLnBuZycpIHRvcCBsZWZ0IHJlcGVhdC14OyB9IA0KPC9zdHlsZT4gDQo8IVtlbmRpZl0tLT4NCg0KPHNjcmlwdCBzcmM9Ii9HbG9iYWwvZW4vRG9jdW1lbnRzL2NvbW1lbnRfYm94L2lwZWNjLmpzIj48L3NjcmlwdD4NCg0KPCEtLUF1Z3VzdCAxIC0gIElFOCBGaXggR29vZ2xlIFRhZyBNYW5hZ2VyICYgQ291bnRyeSBFeGNsdWRlcy0tPg0KPHNjcmlwdD4NCmZ1bmN0aW9uIHJ1bkdvb2dsZVRhZ01hbmFnZXIoKSANCnsNCglpZiAoa3BtZ1B1YmxpYyAmJiBrcG1nSW5jbHVkZSkgDQoJeyANCgkJdmFyIG5vc2NyaXB0ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnbm9zY3JpcHQnKTsNCgkJdmFyIElFOG9yTGVzcyA9IGRvY3VtZW50LmFsbCAmJiAhZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcg0KDQoJCWlmKElFOG9yTGVzcykNCgkJbm9zY3JpcHQudGV4dD0gJzxpZnJhbWUgc3JjPSIvL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ucy5odG1sP2lkPUdUTS1NTDlLUDIiIGhlaWdodD0iMCIgd2lkdGg9IjAiIHN0eWxlPSJkaXNwbGF5Om5vbmU7dmlzaWJpbGl0eTpoaWRkZW4iPjwvaWZyYW1lPic7DQoJCWVsc2UNCgkJbm9zY3JpcHQuaW5uZXJIVE1MID0gJzxpZnJhbWUgc3JjPSIvL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ucy5odG1sP2lkPUdUTS1NTDlLUDIiIGhlaWdodD0iMCIgd2lkdGg9IjAiIHN0eWxlPSJkaXNwbGF5Om5vbmU7dmlzaWJpbGl0eTpoaWRkZW4iPjwvaWZyYW1lPic7DQoNCgkJJCgiYm9keSIpLnByZXBlbmQobm9zY3JpcHQpOw0KDQoJCShmdW5jdGlvbih3LGQscyxsLGkpe3dbbF09d1tsXXx8W107d1tsXS5wdXNoKHsnZ3RtLnN0YXJ0JzoNCgkJbmV3IERhdGUoKS5nZXRUaW1lKCksZXZlbnQ6J2d0bS5qcyd9KTt2YXIgZj1kLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdLA0KCQlqPWQuY3JlYXRlRWxlbWVudChzKSxkbD1sIT0nZGF0YUxheWVyJz8nJmw9JytsOicnO2ouYXN5bmM9dHJ1ZTtqLnNyYz0NCgkJJy8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0bS5qcz9pZD0nK2krZGw7Zi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShqLGYpOw0KCQl9KSh3aW5kb3csZG9jdW1lbnQsJ3NjcmlwdCcsJ2RhdGFMYXllcicsJ0dUTS1NTDlLUDInKTsNCgl9DQp9DQo8L3NjcmlwdD4NCjwhLS0gRW5kIEdvb2dsZSBUYWcgTWFuYWdlciAtLT4NCg0KPHNjcmlwdCBzcmM9Ii9HbG9iYWwvZW4vRG9jdW1lbnRzL3ByaXZhY3lfc29sdXRpb24vcHJpdmFjeS5qcyI+PC9zY3JpcHQ+ZGRhPo1GGDulce0M6eWX1tdxEj1pAw==">
 
 
 <script type="text/javascript">
@@ -232,16 +336,10 @@ if (TranscriptQuerystring() == true) ShowTranscript(true);
 } 
 //]]>
 </script>
-<script> var MSOWebPartPageFormName = 'aspnetForm';</script><script type="text/JavaScript" language="JavaScript">
-<!--
-var L_Menu_BaseUrl="/Global/en";
-var L_Menu_LCID="1033";
-var L_Menu_SiteTheme="";
-//-->
-</script>
-<script src="/WebResource.axd?d=8H1GxKoV-EdBMM0J_dnnKbxqreMIwpx5imbtlyWJT9-JrFv4qbktFEWLpS9z6KIWr2QJ7vt5TxlLHrBf7v7L5_ij8i01&amp;t=635371718333703162" type="text/javascript"></script>
-<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2C9A929A">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWlQECs5KJgQECydbzjgwCsoWfwQkCvO2LqAECuYnxwgYCrrjZ7gEC9+L15wsC9pzJlg8C2vDQogEC2reFGwL07NiBBAK/6M7xCQK3wKkSAtfFvYUPAqvgwYINAv7Z1coMAqX+g4IGAo6izfEBAqjmssQNAonq2bEGAteL+Q8C9OzYgQQC2t+IyAsCo5DahgMCqOamxA0ClqfjoAUCktaR0wkC0MLonAUCiZP4zwoCp9aZrwMCtO7z+AYCqNjH/AMCrOyA7gkCq+aexA0CkoeAvAcCq+aaxA0C2fWIgwoCrNWzZwL07NiBBAL07NiBBAK4ma7zAwKr5sbEDQL7zNyECAKq+qy2AQL+npeADAL07NiBBAKZn7mwAQK11NzsDgL34vXEBwKt5uLFDQKKk5jOCgKKk8zOCgKPy4WJBwKIk4jOCgK/uZKbDAKLh8TFDwKNk8zOCgKQ0faTDwKc8K6cDgKJk7zOCgL8k8jOCgL/k7DOCgLHvvGeBwLWk9g1AsCI7oIEAvWJ/FEC1rD4rAwC6rnv0wYCorTIBALP2o6ZAgKLnPKYBwKT5sbEDQKZn7mwAQKT5qbEDQL2nMmWDwKz1aTLCwKTm4XPDQKRk4CxCgLrg6MnAtipqugCAvCT2M4KAvCTxM4KAsaf7p4KAvOTkM4KAtqYnNADAvKO9OoOAqyckHoCyrf1iggC68S5gA8CidTWwAcCl+2zFgLrxIGWDwKBqqvpCAKvo5ynAgLV98mABALV69X9CwL2kKiPBALyk6TOCgLGiPX2CAKQ1rFLAp7pstkJAtjZ4+gIArDI27QGArnGoqkMAuby+6AEAuac0OUPAoSTiM4KAuTZht8OAoSTpM4KAvfQ91wC7r2PxA0Cg6qdhAYChpPIzgoC+LnTwwwC2+WD+g4Cxpr81gICguqgowkCmZOQzgoC6p2YvQoCv73Otg0ChZiD2gQC9c+W7wYC9OzYgQQC9pzJlg8C9pzJlg8C9OzYgQQC2s2t2AUCksGKlwkCovrmgwICmJPAzgoCmZ+5sAECqJyGoA4C+5H2ngICmJO8zgoC3Ou+twkCnKSG8gcCmZ+5sAECm5P4zwoCqO/l3QYCqsTG0QMC++Lm5gsCm5PYzgoCmpOIzgoCmpO8zgoCkO2C1gYCuuz9xwkC3qeWlQwCtpXg3wUCoKDt0Ali5hBa/0Xlm7EIKnLVBZopQ3RZhA==">
+<script> var MSOWebPartPageFormName = 'aspnetForm';</script>
+<script src="/WebResource.axd?d=8H1GxKoV-EdBMM0J_dnnKbxqreMIwpx5imbtlyWJT9-JrFv4qbktFEWLpS9z6KIWr2QJ7vt5TxlLHrBf7v7L5_ij8i01&amp;t=635528979292938674" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="27CBD92E">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWlAEC5sz5vg8CydbzjgwCsoWfwQkCvO2LqAECuYnxwgYCrrjZ7gEC9+L15wsC9pzJlg8C2vDQogEC2reFGwL07NiBBAK/6M7xCQK3wKkSAtfFvYUPAqvgwYINAv7Z1coMAqX+g4IGAo6izfEBAqjmssQNAonq2bEGAteL+Q8C9OzYgQQC2t+IyAsCo5DahgMCqOamxA0ClqfjoAUCktaR0wkC0MLonAUCiZP4zwoCp9aZrwMCtO7z+AYCqNjH/AMCrOyA7gkCq+aexA0CkoeAvAcCq+aaxA0C2fWIgwoCrNWzZwL07NiBBAL07NiBBAK4ma7zAwKr5sbEDQKq+qy2AQL+npeADAL07NiBBAKZn7mwAQK11NzsDgL34vXEBwKt5uLFDQKKk5jOCgKKk8zOCgKPy4WJBwKIk4jOCgK/uZKbDAKLh8TFDwKNk8zOCgKQ0faTDwKc8K6cDgKJk7zOCgL8k8jOCgL/k7DOCgLHvvGeBwLWk9g1AsCI7oIEAvWJ/FEC1rD4rAwC6rnv0wYCorTIBALP2o6ZAgKLnPKYBwKT5sbEDQKZn7mwAQKT5qbEDQL2nMmWDwKz1aTLCwKTm4XPDQKRk4CxCgLrg6MnAtipqugCAvCT2M4KAvCTxM4KAsaf7p4KAvOTkM4KAtqYnNADAvKO9OoOAqyckHoCyrf1iggC68S5gA8CidTWwAcCl+2zFgLrxIGWDwKBqqvpCAKvo5ynAgLV98mABALV69X9CwL2kKiPBALyk6TOCgLGiPX2CAKQ1rFLAp7pstkJAtjZ4+gIArDI27QGArnGoqkMAuby+6AEAuac0OUPAoSTiM4KAuTZht8OAoSTpM4KAvfQ91wC7r2PxA0Cg6qdhAYChpPIzgoC+LnTwwwC2+WD+g4Cxpr81gICguqgowkCmZOQzgoC6p2YvQoCv73Otg0ChZiD2gQC9c+W7wYC9OzYgQQC9pzJlg8C9pzJlg8C9OzYgQQC2s2t2AUCksGKlwkCovrmgwICmJPAzgoCmZ+5sAECqJyGoA4C+5H2ngICmJO8zgoC3Ou+twkCnKSG8gcCmZ+5sAECm5P4zwoCqO/l3QYCqsTG0QMC++Lm5gsCm5PYzgoCmpOIzgoCmpO8zgoCkO2C1gYCuuz9xwkC3qeWlQwCtpXg3wUCoKDt0AntO80CAKF2/3HKROGCeGN8D9UR+Q==">
     
 
     
@@ -300,8 +398,7 @@ Changed width from 173 to 169
 	<option value="http://www.kpmg.com/dutchcaribbean/en/pages/default.aspx">Curacao</option>
 	<option value="http://www.kpmg.com/cy/en/pages/default.aspx">Cyprus</option>
 	<option value="http://www.kpmg.com/cz/">Czech Republic</option>
-	<option value="http://www.kpmg.com/dk/da/sider/forside.aspx">Denmark</option>
-	<option value="/kpmg2014">Denmark (KPMG 2014)</option>
+	<option value="/kpmg2014">Denmark</option>
 	<option value="http://www.kpmg.com/kca/es/republica-dominicana/paginas/default.aspx">Dominican Republic</option>
 	<option value="http://www.kpmg.com/dutchcaribbean/en/pages/default.aspx">Dutch Caribbean</option>
 	<option value="http://www.kpmg.com/eastafrica/en/pages/default.aspx">East Africa</option>
@@ -459,9 +556,6 @@ Changed width from 173 to 169
 <a href="/global/en/about/governance/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link landing">Governance</a>
 </li>
 <li class="mdd-item">
-<a href="/global/en/about/governance/structure/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link">Structure</a>
-</li>
-<li class="mdd-item">
 <a href="/global/en/about/governance/values-culture/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link">Values &amp; culture</a>
 </li>
 <li class="mdd-item">
@@ -492,12 +586,12 @@ Changed width from 173 to 169
 <p class="podText">We have rich conversations with our clients every day, and increasingly these conversations are happening online. We encourage you to ask questions, share your views, and connect with like-minded professionals.</p></div>
 <div class="column">
 <h3 class="podHeader">
-<a href="/global/en/go-beyond/kpmg-capital/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=feature" class="podHeader-link">KPMG Capital</a>
+<a href="/global/en/about/international-annual-review/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=feature" class="podHeader-link">International Annual Review 2014</a>
 </h3>
 <div class="podImageContainer">
-<a href="/global/en/go-beyond/kpmg-capital/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=feature"><img class="podImage" src="/global/en/go-beyond/kpmg-capital/publishingimages/kpmg-capital-rollup190.jpg" alt="KPMG Capital" border="0"></a>
+<a href="/global/en/about/international-annual-review/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=feature"><img class="podImage" src="/Global/en/about/international-annual-review/PublishingImages/2014/iar-2014-cover-rollup190v2.jpg" alt="International Annual Review 2014" border="0"></a>
 </div>
-<p class="podText">KPMG Capital focuses on investments and opportunities in the Data &amp; Analytics space.</p></div><div class="clr"></div>
+<p class="podText">The KPMG International Annual Review demonstrates our achievements and reflects the insights and expertise KPMG professionals bring to client relationships and our broader communities.</p></div><div class="clr"></div>
 </div>
 </div>
 
@@ -616,16 +710,16 @@ Changed width from 173 to 169
 <div class="column">
 <ul class="group">
 <li class="mdd-item">
-<a href="/global/en/services/audit/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link landing">Audit</a>
-</li>
-<li class="mdd-item">
-<a href="/global/en/services/audit/attestation-services/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link">Attestation Services</a>
+<a href="/global/en/services/audit/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link landing">Audit and Assurance</a>
 </li>
 <li class="mdd-item">
 <a href="/global/en/services/audit/financial-statement-audit/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link">Financial Statement Audit</a>
 </li>
-<li class="mdd-item last">
+<li class="mdd-item">
 <a href="/global/en/services/audit/audit-committee-institute/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link">Audit Committee Institute</a>
+</li>
+<li class="mdd-item last">
+<a href="/global/en/services/audit/pages/audit-data-analytics.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link">Audit Data &amp; Analytics</a>
 </li></ul>
 <ul class="group second">
 <li class="mdd-item last">
@@ -643,7 +737,7 @@ Changed width from 173 to 169
 <a href="/global/en/services/tax/globalindirecttax/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link">Global Indirect Tax</a>
 </li>
 <li class="mdd-item">
-<a href="/global/en/services/tax/international-executive-services/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link">International Executive Services</a>
+<a href="/global/en/services/tax/global-mobility-services/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link">Global Mobility Services</a>
 </li>
 <li class="mdd-item">
 <a href="/global/en/services/tax/mergersacquisitions/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=link" class="item-link">Mergers &amp; Acquisitions Tax</a>
@@ -707,20 +801,20 @@ Changed width from 173 to 169
 </li></ul></div>
 <div class="column">
 <h3 class="podHeader">
+<a href="/Global/en/IssuesAndInsights/ArticlesPublications/what-works/creating-new-value-with-patients/Pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=feature" class="podHeader-link">Creating new value with patients, carers and communities</a>
+</h3>
+<div class="podImageContainer">
+<a href="/Global/en/IssuesAndInsights/ArticlesPublications/what-works/creating-new-value-with-patients/Pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=feature"><img class="podImage" src="/Global/en/IssuesAndInsights/ArticlesPublications/what-works/creating-new-value-with-patients/PublishingImages/creating-new-value-with-patients-rollup190.jpg" alt="Creating new value with patients, carers and communities" border="0"></a>
+</div>
+<p class="podText">Over the last two decades many industries have changed their value proposition by developing their customers’ capacity to create value.</p></div>
+<div class="column">
+<h3 class="podHeader">
 <a href="/Global/en/IssuesAndInsights/ArticlesPublications/global-manufacturing-outlook/Pages/Default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=feature" class="podHeader-link">Global Manufacturing Outlook 2014</a>
 </h3>
 <div class="podImageContainer">
 <a href="/Global/en/IssuesAndInsights/ArticlesPublications/global-manufacturing-outlook/Pages/Default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=feature"><img class="podImage" src="/Global/en/IssuesAndInsights/ArticlesPublications/global-manufacturing-outlook/PublishingImages/global-manufacturing-outlook-2014-rollup190.jpg" alt="Global Manufacturing Outlook 2014" border="0"></a>
 </div>
-<p class="podText">KPMG Global Manufacturing Outlook 2014 surveyed 460 executives worldwide, and offers practical and provocative insights to help organizations evaluate future strategies.</p></div>
-<div class="column">
-<h3 class="podHeader">
-<a href="/global/en/issuesandinsights/articlespublications/insight-magazine/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=feature" class="podHeader-link">INSIGHT: Population</a>
-</h3>
-<div class="podImageContainer">
-<a href="/global/en/issuesandinsights/articlespublications/insight-magazine/pages/default.aspx?utm_medium=mdd&amp;utm_campaign=mdd-global&amp;utm_source=feature"><img class="podImage" src="/Global/en/IssuesAndInsights/ArticlesPublications/insight-magazine/PublishingImages/insight-population/insight-population-rollup190.jpg" alt="INSIGHT: Population" border="0"></a>
-</div>
-<p class="podText">In this edition of INSIGHT, we look at the unprecedented population changes around the world and how infrastructure will cope with these challenges.</p></div><div class="clr"></div>
+<p class="podText">KPMG Global Manufacturing Outlook 2014 surveyed 460 executives worldwide, and offers practical and provocative insights to help organizations evaluate future strategies.</p></div><div class="clr"></div>
 </div>
 </div>
 
@@ -782,33 +876,33 @@ Changed width from 173 to 169
                             </div>
                             <div id="column1" name="_invisibleIfEmpty">
                                 
-	<div id="_invisibleIfEmpty" name="_invisibleIfEmpty">
-		
+        <div id="_invisibleIfEmpty" name="_invisibleIfEmpty">
+		    
 <div class="leftNavWbPt" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
   <div class="podWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
-      <table id="ctl00_LeftRailPlaceholder_LeftNav_sideMenu" class="ctl00_LeftRailPlaceholder_LeftNav_sideMenu_3 ctl00_LeftRailPlaceholder_LeftNav_sideMenu_2" cellpadding="0" cellspacing="0" border="0">
+      <table id="ctl00_LeftRailPlaceholder_LeftNav_sideMenu" cellpadding="0" cellspacing="0" border="0" width="229">
 	<tbody><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="We'd love to hear from you. Get in touch with one of our professionals, specialist groups or KPMG offices." id="ctl00_LeftRailPlaceholder_LeftNav_sideMenun0">
-		<td><table class="level1Nav ctl00_LeftRailPlaceholder_LeftNav_sideMenu_5" cellpadding="0" cellspacing="0" border="0" width="100%">
+		<td><table class="level1Nav" cellpadding="0" cellspacing="0" border="0" width="100%">
 			<tbody><tr>
-				<td width="100%"><a class="ctl00_LeftRailPlaceholder_LeftNav_sideMenu_1 level1Nav ctl00_LeftRailPlaceholder_LeftNav_sideMenu_4" href="/Global/en/Pages/contact-us.aspx"><span class="collapsed">Contact us</span></a></td>
+				<td width="100%"><a class="level1Nav" href="/Global/en/Pages/contact-us.aspx"><span class="collapsed">Contact us</span></a></td>
 			</tr>
 		</tbody></table></td>
 	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="KPMG uses social media to share the latest global industry trends &amp; encourage you to share your views &amp; connect with like-minded professionals." id="ctl00_LeftRailPlaceholder_LeftNav_sideMenun1">
-		<td><table class="level1Nav ctl00_LeftRailPlaceholder_LeftNav_sideMenu_5" cellpadding="0" cellspacing="0" border="0" width="100%">
+		<td><table class="level1Nav" cellpadding="0" cellspacing="0" border="0" width="100%">
 			<tbody><tr>
-				<td width="100%"><a class="ctl00_LeftRailPlaceholder_LeftNav_sideMenu_1 level1Nav ctl00_LeftRailPlaceholder_LeftNav_sideMenu_4" href="/Global/en/Pages/social-media.aspx"><span class="collapsed">Social media @ KPMG</span></a></td>
+				<td width="100%"><a class="level1Nav" href="/Global/en/Pages/social-media.aspx"><span class="collapsed">Social media @ KPMG</span></a></td>
 			</tr>
 		</tbody></table></td>
 	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="The KPMG International hotline is a vehicle for KPMG partners, employees, clients and other parties to confidentially report concerns." id="ctl00_LeftRailPlaceholder_LeftNav_sideMenun2">
-		<td><table class="level1Nav ctl00_LeftRailPlaceholder_LeftNav_sideMenu_5" cellpadding="0" cellspacing="0" border="0" width="100%">
+		<td><table class="level1Nav" cellpadding="0" cellspacing="0" border="0" width="100%">
 			<tbody><tr>
-				<td width="100%"><a class="ctl00_LeftRailPlaceholder_LeftNav_sideMenu_1 level1Nav ctl00_LeftRailPlaceholder_LeftNav_sideMenu_4" href="/Global/en/Pages/International-hotline.aspx"><span class="collapsed">International hotline</span></a></td>
+				<td width="100%"><a class="level1Nav" href="/Global/en/Pages/International-hotline.aspx"><span class="collapsed">International hotline</span></a></td>
 			</tr>
 		</tbody></table></td>
 	</tr><tr onmouseover="Menu_HoverRoot(this)" onmouseout="Menu_Unhover(this)" onkeyup="Menu_Key(event)" title="Do you need to speak to our Press Office? Here's how to get in touch." id="ctl00_LeftRailPlaceholder_LeftNav_sideMenun3">
-		<td><table class="level1Nav ctl00_LeftRailPlaceholder_LeftNav_sideMenu_5" cellpadding="0" cellspacing="0" border="0" width="100%">
+		<td><table class="level1Nav" cellpadding="0" cellspacing="0" border="0" width="100%">
 			<tbody><tr>
-				<td width="100%"><a class="ctl00_LeftRailPlaceholder_LeftNav_sideMenu_1 level1Nav ctl00_LeftRailPlaceholder_LeftNav_sideMenu_4" href="/Global/en/Pages/Press-contacts.aspx"><span class="collapsed">Press contacts</span></a></td>
+				<td width="100%"><a class="level1Nav" href="/Global/en/Pages/Press-contacts.aspx"><span class="collapsed">Press contacts</span></a></td>
 			</tr>
 		</tbody></table></td>
 	</tr>
@@ -819,13 +913,24 @@ Changed width from 173 to 169
   
 
 
-	</div>
-	<!-- Defect 1355 - Added css classes for nonIE and invisible if empty functionality -->
-	<div class="sideContentWrapper podAndZoneWrapperForNonIE">
+	    </div>	
+	<div style="padding: 10px 10px 10px 10px;">	    
 	    <div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-	                
+	                    
 	    </div>
-	    <div class="podAndZoneWrapper sideZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
+		<div class="sideZoneWrapper podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
+		     
+	    </div>
+		<div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+			
+		</div>
+		<div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+			
+		</div>
+		<div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+			
+		</div>		
+		<div class="sideZoneWrapper podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
 		     
 	    </div>
 	</div>
@@ -834,136 +939,279 @@ Changed width from 173 to 169
                             <div id="column2">
                                 
                                 
-	
-	<div class="mainContentWrapper" id="ThreeColumn1Zone">
-	    
-	    <div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
-            
-    <ul id="breadcrumb-list">
-        
-  <li class="last"><a id="ctl00_PlaceHolderMain_BreadCrumb1_breadCrumb_ctl00_crumbLink" href="/Global/en/Pages/default.aspx">Global</a><span class="breadCrumbseparator">-</span></li>
-             
-    </ul>
-
-        </div>
-		<div class="pageTitleWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
-			<div style="width:100%">
-			    <h1 class="contentPageTitleHeader">Privacy&nbsp;</h1>
-	        </div>			    
-		</div>		
-		<div class="abstractAndImageWrapper ms-rteCustom-IntroCopy" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
-			<div id="ctl00_PlaceHolderMain_RichHtmlField1__ControlWrapper_RichHtmlField" style="display:inline"><p>Last updated 19 May, 2008</p>
-<p>&nbsp;</p>
-<p>KPMG<sup>1</sup> is dedicated to protecting the confidentiality and privacy of information entrusted to it. As part of this fundamental obligation, KPMG is committed to the appropriate protection and use of personal information (sometimes referred to as "personally identifiable information" or "PII") that has been collected through its web sites. </p></div>
-		</div>
-		    <div class="abstractAndImageWrapper-imageonly" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			    
-		    </div>
-
-		<div class="podAndZoneWrapper ms-rteCustom-BodyCopy applicationContentScraping" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
-			<div id="ctl00_PlaceHolderMain_RichHtmlField2__ControlWrapper_RichHtmlField" style="display:inline">Generally, our intent is to collect only the personal information that is provided voluntarily by visitors to our web sites so that we can offer information and/or services to those individuals or offer information about employment opportunities. Please review this Online Privacy Statement ("Online Privacy Statement" or "Privacy Statement") to learn more about how we collect, use, share and protect the PII that we have obtained. <br><br><font class="rad-subHeader2">Collection and use of PII </font><br>We obtain personal information about you if you choose to provide it — for example, to contact mailboxes or to register for certain services. In some cases, you may have previously provided your PII to KPMG (if, for example, you are a former employee). By registering and/or submitting personal information on our web sites, you are also agreeing to the use of this information in accordance with this Privacy Statement. Your personal information is not used for other purposes, unless we obtain your permission, or unless otherwise required or permitted by law or professional standards. For example, if you send us an email message requesting information about KPMG, we will use your email address and other information you supply to respond to your request. If you send us a resume or curriculum vitae (CV) to apply online for a position with KPMG, we will use the information that you provide to match you with available KPMG job opportunities. <br><br>KPMG generally collects only the personal information necessary to fulfill the visitor’s request. Where additional, optional information is sought, you will be notified of this at the point of collection. <br><br><em>KPMG only collects "sensitive" personal information when the relevant individuals voluntarily provide us with this information or where such information is required or permitted to be collected by law or professional standards. Sensitive information includes personal information regarding a person’s race, ethnicity, political beliefs, trade union membership, religious or similar beliefs, physical or mental health, sexual life or criminal record. Please use your discretion when providing sensitive information to KPMG, and under any circumstances, <strong>do not provide sensitive information to KPMG, unless you thereby consent to KPMG's use of that information for its legitimate business purposes and consent to the transfer and storage of such information to and in KPMG databases.</strong> If you have any questions about whether the provision of sensitive information to KPMG is, or may be, necessary or appropriate for particular purposes, please contact KPMG at the address indicated below.</em> <br><br><font class="rad-subHeader2">Automatic collection of PII </font><br>In some instances, KPMG automatically collects certain types of information when you visit our web sites and through emails that we may exchange. Automated technologies may include the use of web server logs to collect IP addresses, "cookies", and web beacons. The collection of this information will allow us to better understand and improve the performance, usability and effectiveness of KPMG web sites and to measure effectiveness of our marketing activities. <br><br><font class="rad-subHeader2">IP addresses </font><br>An IP address is a number assigned to your computer whenever you access the internet. It allows computers and servers to recognise and communicate with one another. IP addresses from which visitors appear to originate may be recorded for IT security and system diagnostic purposes. This information may also be used in aggregate form to conduct web site trend and performance analysis. <br><br><font class="rad-subHeader2">Cookies </font><br>A "cookie” is a small piece of text that a Web site places in the cookie file of your browser and that allows the site to remember who you are. Cookies cannot be used to run programs or deliver viruses to your computer. KPMG only uses cookies in accordance with applicable laws. <br><br>Cookies by themselves do not tell us your email address or otherwise identify you personally. If you visit a KPMG web site, we use cookies to compile aggregate statistics to help us determine what areas of the site visitors prefer. <br><br>If you subsequently register with a KPMG web site, this information may be linked to a cookie in order to enhance and personalise your online experience (e.g., by welcoming you back when you return or providing you access to your registration information). <br><br>You have the choice of deciding whether to accept cookies or not. You can set your browser to notify you when you receive a cookie or to reject cookies. However, please be aware that if you do not accept cookies, you may not be able to fully experience some of our Web site features. <br><br><font class="rad-subHeader2">Web beacons </font><br>A web beacon is a small image file on a web page that can be used to collect certain information from your computer, such as an IP address, the time the content was viewed, a browser type, and the existence of cookies previously set by the same server. KPMG only uses web beacons in accordance with applicable laws. <br><br>KPMG or its service providers may use web beacons to track the effectiveness of third party web sites that provide us with recruiting or marketing services or to gather aggregate visitor statistics and manage cookies. <br><br>You have the option to render some web beacons unusable by rejecting their associated cookies. The web beacon may still record an anonymous visit from your IP address but cookie information will not be recorded. <br><br>In some of our newsletters and other communications, we may confirm a recipient’s email address through embedded links within the messages. We collect this information to gauge user interest and to enhance future user experiences. <br><br><font class="rad-subHeader2">Sharing and transfer of PII </font><br>We do not share personal information with unaffiliated third parties, except as necessary for our legitimate professional and business needs, to carry out your requests, and/or as required or permitted by law or professional standards. <br><br>In some instances, KPMG may also share PII about you with various outside companies or service providers or vendors working on our behalf to help fulfill your requests. <br><br>In addition, KPMG may transfer certain PII across geographical borders to other KPMG member firms or outside companies working with us or on our behalf. KPMG may also store PII in a jurisdiction other than where you are based. By providing PII on KPMG’s web sites, visitors are consenting to this transfer and/or storage of their data across borders. <br><br>KPMG may also disclose PII in connection with the sale, assignment, or other transfer of the business of the site to which the data relates, in order to respond to requests of government or law enforcement agencies or where this is required by applicable laws, court orders, or government regulations. These disclosures may also be needed for data privacy or security audits and/or to investigate or respond to a complaint or security threat. KPMG does not sell PII to any third parties. Also, KPMG will not transfer the PII you provide to any third parties for their own direct marketing use. <br><br><font class="rad-subHeader2">Children </font><br>KPMG understands the importance of protecting children's privacy, especially in an online environment. In particular, our sites are not intentionally designed for or directed at children under the age of 13. It is our policy never to knowingly collect or maintain information about anyone under the age of 13, except as part of an engagement to provide professional services. <br><br><font class="rad-subHeader2">Choices </font><br>You have several choices regarding your use of our sites. In general, you are not required to submit any PII when you visit our web sites, but KPMG may require you to provide certain PII in order for you to receive additional information about our services and events. Certain web sites may also ask for your permission for certain uses of your PII, and you can agree to or decline those uses. If you opt-in for particular services or communications, such as an e-newsletter, you will be able to unsubscribe at any time by following the instructions included in each communication. If you decide to unsubscribe from a service or communication, we will try to remove your information promptly, although we may require additional information before we can process your request. <br><br>As described above, if you wish to prevent cookies from tracking you as you navigate our sites, you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Note, however, that some portions of our sites may not work properly if you elect to refuse cookies. <br><br><font class="rad-subHeader2">Access </font><br>If you have submitted personal information to KPMG, under most circumstances you have the right to reasonable access to that data to correct any inaccuracies. You can also make a request to update or remove information about you by contacting <a href="mailto:privacy@kpmg.com">privacy@kpmg.com </a>, and we will make all reasonable and practical efforts to comply with your request, so long as it is consistent with applicable law and professional standards. <br><br><font class="rad-subHeader2">Data security and integrity </font><br>KPMG has reasonable security policies and procedures in place to protect personal information from unauthorised loss, misuse, alteration, or destruction. Despite KPMG’s best efforts, however, security cannot be absolutely guaranteed against all threats. To the best of our ability, access to your personal information is limited to those who have a need to know. Those individuals who have access to the data are required to maintain the confidentiality of such information. We also make reasonable efforts to retain personal information only for so long as the information is necessary to comply with an individual’s request or until that person asks that the information be deleted. <br><br><font class="rad-subHeader2">Links to other sites </font><br>Please be aware that KPMG web sites may contain links to other sites, including sites maintained by other KPMG member firms that are not governed by this Privacy Statement but by other privacy statements that may differ somewhat. We encourage users to review the privacy policy of each Web site visited before disclosing any personal information. <br><br><font class="rad-header">Changes to this policy </font><br>KPMG may modify this Privacy Statement from time to time to reflect our current privacy practices. When we make changes to this statement, we will revise the “updated” date at the top of this page. We encourage you to periodically review this Privacy Statement to be informed about how KPMG is protecting your information. <br><br><font class="rad-subHeader2">Policy questions and enforcement </font><br>KPMG is committed to protecting the online privacy of your personal information. If you have questions or comments about our administration of your personally identifiable information, please contact us at <a href="mailto:privacy@kpmg.com%26cc=contactus@kpmg.com">privacy@kpmg.com </a>. You may also use this address to communicate any concerns you may have regarding compliance with our Online Privacy Statement. <br><br><em><sup>1</sup>Throughout this web site, “KPMG,” “we,” “our,” and “us” refers to KPMG International Cooperative (“KPMG International”), a Swiss entity, and/or to any one or more of the member firms of the KPMG network of independent firms affiliated with KPMG International. KPMG International provides no client services. </em></div>
-		</div>	
-		<div class="podAndZoneWrapper centerZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			
-		</div>
-		
-		 <div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-		    
-	     </div>
-	     <div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-		    
-	     </div>
-	     <div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-		     
-	      </div>	                
-	     <div class="podAndZoneWrapper centerZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-           
-          </div>                    
-         
-		<table cellpadding="0" cellspacing="0" border="0" class="centretwocolumntable">
-	        <tbody><tr>
-		        <td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top" width="50%" class="3Column1ZoneCenterLeftCol">	
-		        
-		        	<div class="twoCellLeftGrid mainZoneLeftWrapper mainZoneLeftWrapper_nonIE" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-				    	
-				 </div>    					    
-			        <div class="twoCellLeftGrid twoCellGridColumn 2ColumnLeft 2ColumnLeft_nonIE" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			            
-			        </div>
-			         <div class="twoCellLeftGrid twoCellGridColumn 2ColumnLeft 2ColumnLeft_nonIE" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			            
-			        </div>
-			         <div class="twoCellLeftGrid twoCellGridColumn 2ColumnLeft 2ColumnLeft_nonIE" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			            
-			        </div>
-			        <div class="twoCellLeftGrid mainZoneLeftWrapper mainZoneLeftWrapper_nonIE" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-						    
-				    </div>
-		        </td>
-		        <td id="_invisibleIfEmpty" name="_invisibleIfEmpty" valign="top" width="50%" class="3Column1ZoneCenterRightCol"> 
-		        
-		            <div class="twoCellRightGrid mainZoneLeftWrapper mainZoneLeftWrapper_nonIE" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-						
-				    </div>
-		            <div class="twoCellRightGrid twoCellGridColumn 2ColumnRight 2ColumnRight_nonIE" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-		    	        
-		            </div>
-		            <div class="twoCellRightGrid twoCellGridColumn 2ColumnRight 2ColumnRight_nonIE" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-		    	        
-		            </div>
-		            <div class="twoCellRightGrid twoCellGridColumn 2ColumnRight 2ColumnRight_nonIE" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-		    	        
-		            </div>
-		            <div class="twoCellRightGrid mainZoneLeftWrapper mainZoneLeftWrapper_nonIE" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-						
-				    </div>
-		        </td>
-	        </tr>
-	    </tbody></table>
-	</div>
-	
-
                             </div>
-                            <div id="column3" name="_invisibleIfEmpty">
-                                	
-	<div class="sideContentWrapper podAndZoneWrapperForNonIE">
-	    <div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-	                
-	    </div>
-	    <div class="podAndZoneWrapper sideZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-		    
-	    </div>
-		<div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			
-		</div>
-		<div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			
-		</div>
-		<div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			
-		</div>
-		<div class="podAndZoneWrapper sideZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-		    
-	    </div>
-	    <div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			
-		</div>
-		<div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			
-		</div>
-		<div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-			
-		</div>
-		<div class="podAndZoneWrapper sideZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="display: none;">
-		    
-	    </div>
-	</div>
-	<script language="javascript">if (typeof (MSOLayout_MakeInvisibleIfEmpty) == "function") { MSOLayout_MakeInvisibleIfEmpty(); }</script>
-	<script language="javascript">	    if (typeof (SetTranscript) == "function") { SetTranscript(); }</script>
-
+                            <div id="column3" name="_invisibleIfEmpty" style="display: none;">
+                                
                             </div>
                              <div id="column4" name="_invisibleIfEmpty">
                                 
+<table cellpadding="0" cellspacing="0" border="0" class="twocolumnthreezonetable kpmgpaddingleft1">
+  <tbody><tr>
+	        <td colspan="3">
+	            <div class="podAndZoneWrapper" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
+                    
+    <ul id="breadcrumb-list">
+        
+  <li class="last"><a id="ctl00_ThreeColumnPlaceHolder_BreadCrumb1_breadCrumb_ctl00_crumbLink" href="/Global/en/Pages/default.aspx">Global</a><span class="breadCrumbseparator">-</span></li>
+             
+    </ul>
+
+                </div>
+                 <table cellpadding="0" cellspacing="0" border="0" style=" float:right;width:100%">
+	          <tbody><tr>
+	          <td>
+                <div class="podAndZoneWrapper CentreZoneFullwrapper" style="width: 730px; overflow: auto; display: none;" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
+			    
+	            </div>
+	            <table cellpadding="0" cellspacing="0" border="0">
+	            <tbody><tr>
+	            <td class="pagetext2position">
+                <div class="abstractAndImageWrapper-imageonlynew pagetext2position" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
+	            	        
+	             <img src="/Style%20Library/images/Page-Text-2-overlay.gif" id="idpagetext2image" class="twocolumnthreezone_Image_Overlay_page_Text2" style="display: none;">
+        	     <div class="bandWrapper3" id="idpagetext2" style="display: none;">	               
+        	        <div class="homePage_floatingImageTextWrapper1 podWrapper_HomaPage1" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
+  	                      <div id="ctl00_ThreeColumnPlaceHolder_RichHtmlField3__ControlWrapper_RichHtmlField" style="display:inline"></div>
+  	                </div>
+  	            </div>
+               </div>               
+               </td>
+               </tr>
+               </tbody></table>
+               <script language="javascript">{HideKPMGPageText2ifempty();}</script>                             
+              <div id="divoptionalTitleParent">
+		        <div class="OptionalPageTitleWrapper" style="padding-bottom:5px;" id="divOptionalTitle" name="divOptionalTitle">
+		            <h1 class="homePageTitleHeader" id="h1OptionalTitle">Privacy&nbsp;</h1>
+		        </div>
+	        </div>
+	<script language="javascript">{Custom_MakeInvisibleIfBlankText("h1OptionalTitle");}</script>			
+			   <div class="ms-rteCustom-IntroCopy abstractAndImageWrapper twocolumnlayoutwidth" style="padding-left:0px; padding-bottom:10px;padding-top:5px;width:730px;" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
+				        <div id="ctl00_ThreeColumnPlaceHolder_RichHtmlField2__ControlWrapper_RichHtmlField" style="display:inline"><p>Last updated 23 October, 2014</p>
+<p>&nbsp;</p>
+<p>KPMG<sup>1</sup>&nbsp;is dedicated to protecting the confidentiality and privacy of information entrusted to it. As part of this fundamental obligation, KPMG is committed to the appropriate protection and use of personal information (sometimes referred to as "personally identifiable information" or "PII") that has been collected online. </p></div>
+                    </div>
+                <div class="podAndZoneWrapper ms-rteCustom-BodyCopy twocolumnlayoutwidth applicationContentScraping" style="padding-bottom:10px;width:730px;" id="pagetext1Parent" name="_invisibleIfEmpty"> 
+                 <div id="ctl00_ThreeColumnPlaceHolder_pagetext1id__ControlWrapper_RichHtmlField" style="display:inline"><p>Generally, our intent is to collect only the personal information that is provided voluntarily by online visitors so that we can offer information and/or services to those individuals or offer information about employment opportunities. Please review this Privacy Statement ("Privacy Statement") to learn more about how we collect, use, share and protect the PII that we have obtained.</p>
+<p>&nbsp;</p>
+<ul>
+<li><a href="/Global/en/Pages/Privacy.aspx#1"><strong>1. Collection and use of personal information</strong></a> 
+<ul>
+<li><a href="/Global/en/Pages/Privacy.aspx#1.1">1.1 Automatic collection of personal information</a></li>
+<li><a href="/Global/en/Pages/Privacy.aspx#1.1.1">1.1.1 IP addresses</a></li>
+<li><a href="/Global/en/Pages/Privacy.aspx#1.1.2">1.1.2 Cookies</a></li>
+<li><a href="/Global/en/Pages/Privacy.aspx#1.1.3">1.1.3. Google Analytics</a></li>
+<li><a href="/Global/en/Pages/Privacy.aspx#1.1.4">1.1.4. Web beacons</a></li>
+<li><a href="/Global/en/Pages/Privacy.aspx#1.1.5">1.1.5. Location-based tools</a></li>
+<li><a href="/Global/en/Pages/Privacy.aspx#1.2">1.2. Social media widgets and applications</a></li>
+<li><a href="/Global/en/Pages/Privacy.aspx#1.3">1.3 Children</a></li></ul></li>
+<li><a href="/Global/en/Pages/Privacy.aspx#2"><strong>2. Sharing and transfer of PII</strong></a></li>
+<li><a title="" href="/Global/en/Pages/Privacy.aspx#3"><strong>3. Choices</strong></a></li>
+<li><a title="" href="/Global/en/Pages/Privacy.aspx#4"><strong>4. Access</strong></a></li>
+<li><a title="" href="/Global/en/Pages/Privacy.aspx#5"><strong>5. Data security and integrity</strong></a></li>
+<li><a title="" href="/Global/en/Pages/Privacy.aspx#6"><strong>6. Links to other sites</strong></a></li>
+<li><a title="" href="/Global/en/Pages/Privacy.aspx#7"><strong>7. Changes to this statement</strong></a></li>
+<li><a title="" href="/Global/en/Pages/Privacy.aspx#8"><strong>8. Policy questions and enforcement</strong></a></li></ul>
+<p>&nbsp;</p><a name="1"></a>
+<p><strong>1. Collection and use of personal information</strong><br>We obtain personal information about you if you choose to provide it — for example, to contact mailboxes or to register for certain services. In some cases, you may have previously provided your PII to KPMG (if, for example, you are a former employee). By registering and/or submitting personal information to KPMG, you are also agreeing to the use of this information in accordance with this Privacy Statement. Your personal information is not used for other purposes, unless we obtain your permission, or unless otherwise required or permitted by law or professional standards. For example, if you send us an email message requesting information about KPMG, we will use your email address and other information you supply to respond to your request. If you send us a resume or curriculum vitae (CV) to apply online for a position with KPMG, we will use the information that you provide to match you with available KPMG job opportunities. </p>
+<p>&nbsp;</p>
+<p>In some cases where you have registered for certain services we may store your email address temporarily until we receive confirmation of the information you provided via an email (i.e. where we send an email to the email address provided as part of your registration to confirm a subscription request). </p>
+<p>&nbsp;</p>
+<p>KPMG generally collects only the personal information necessary to fulfill your request. Where additional, optional information is sought, you will be notified of this at the point of collection. </p>
+<p>&nbsp;</p>
+<p><em>KPMG only collects "sensitive" personal information when the relevant individuals voluntarily provide us with this information or where such information is required or permitted to be collected by law or professional standards. Sensitive information includes personal information regarding a person's race, ethnicity, political beliefs, trade union membership, religious or similar beliefs, physical or mental health, sexual life or criminal record. Please use your discretion when providing sensitive information to KPMG, and under any circumstances, <strong>do not provide sensitive information to KPMG, unless you thereby consent to KPMG's use of that information for its legitimate business purposes and consent to the transfer and storage of such information to and in KPMG databases.</strong> If you have any questions about whether the provision of sensitive information to KPMG is, or may be, necessary or appropriate for particular purposes, please contact KPMG at </em><a title="" href="mailto:privacy@kpmg.com?subject=kpmg.com enquiry&amp;cc=contactus@kpmg.com"><em>privacy@kpmg.com</em></a><em>.</em> </p>
+<p>&nbsp;</p><a name="1.1"></a>
+<p><strong>1.1 Automatic collection of personal information</strong><br>In some instances, KPMG and its service providers uses cookies, web beacons and other technologies to automatically collect certain types of information when you visit us online, as well as through emails that we may exchange. The collection of this information allows us to customize your online experience, improve the performance, usability and effectiveness of KPMG's online presence, and to measure the effectiveness of our marketing activities. </p>
+<p>&nbsp;</p><a name="1.1.1"></a>
+<p><strong>1.1.1 IP addresses</strong><br>An IP address is a number assigned to your computer whenever you access the internet. It allows computers and servers to recognise and communicate with one another. IP addresses from which visitors appear to originate may be recorded for IT security and system diagnostic purposes. This information may also be used in aggregate form to conduct web site trend and performance analysis. </p>
+<p>&nbsp;</p><a name="1.1.2"></a>
+<p><strong>1.1.2 Cookies</strong><br>Cookies may be placed on your computer or internet-enabled device whenever you visit us online. This allows the site to remember your computer or device and serves a number of purposes.</p>
+<p>&nbsp;</p>
+<p>On some of our web sites, a notification banner will appear requiring your consent to collect cookies. If you do not provide consent, your computer or internet-enabled device will not be tracked for marketing-related activities.&nbsp; A secondary type of cookie referred to as "user-input" cookies may still be required for necessary functionality. Such cookies will not be blocked through the use of this notification banner. Your selection will be saved in a cookie and is valid for a period of 90 days. If you wish to revoke your selection, you may do so by clearing your browser's cookies. </p>
+<p>&nbsp;</p>
+<p>Although most browsers automatically accept cookies, you can choose whether or not to accept cookies via your browser's settings (often found in your browser's Tools or Preferences menu). You may also delete cookies from your device at any time. However, please be aware that if you do not accept cookies, you may not be able to fully experience some of our web sites' features. </p>
+<p>&nbsp;</p>
+<p>Further information about managing cookies can be found in your browser's help file or through sites such as <a title="" href="http://www.allaboutcookies.org/" target="_blank">www.allaboutcookies.org</a>. </p>
+<p>&nbsp;</p>
+<p>Below is a list of the types of cookies used on our web sites:</p>
+<p>&nbsp;</p>
+<p>&nbsp; 
+</p><table class="ms-rteTable-KPMG" style="width:100%" summary="">
+<tbody>
+<tr class="ms-rteTableHeaderRow-KPMG">
+<td class="ms-rteTableHeaderOddCol-KPMG"><strong>Purpose</strong></td>
+<td class="ms-rteTableHeaderEvenCol-KPMG"><strong>Description</strong></td>
+<td class="ms-rteTableHeaderOddCol-KPMG"><strong>Type &amp; Expiry</strong></td></tr>
+<tr class="ms-rteTableOddRow-KPMG">
+<td class="ms-rteTableOddCol-KPMG">Performance (i.e., User's Browser)</td>
+<td class="ms-rteTableEvenCol-KPMG">
+<p>Our web sites are built using common internet platforms. These have built-in cookies which help compatibility issues (e.g., to identify your browser type) and improve performance (e.g., quicker loading of content).</p></td>
+<td class="ms-rteTableOddCol-KPMG">
+<p>Session </p>
+<p>Deleted upon closing the browser</p>&nbsp;</td></tr>
+<tr class="ms-rteTableEvenRow-KPMG">
+<td class="ms-rteTableOddCol-KPMG">Security (e.g. Asp .NET) Cookies</td>
+<td class="ms-rteTableEvenCol-KPMG">
+<p>If you register for access to a restricted area, our cookies ensure that your device is logged for the duration of your visit. You will need your username and password to access the restricted areas.&nbsp;</p></td>
+<td class="ms-rteTableOddCol-KPMG">
+<p>Session</p>
+<p>Deleted upon closing the browser</p></td></tr>
+<tr class="ms-rteTableOddRow-KPMG">
+<td class="ms-rteTableOddCol-KPMG">Site Preferences</td>
+<td class="ms-rteTableEvenCol-KPMG">
+<p>Our cookies may also remember your site preferences (e.g., language) or seek to enhance your experience (e.g., by personalizing a greeting or content). This will apply to areas where you have registered specifically for access or create an account.&nbsp;</p></td>
+<td class="ms-rteTableOddCol-KPMG">
+<p>Session</p>
+<p>Deleted upon closing the browser</p>&nbsp;</td></tr>
+<tr class="ms-rteTableEvenRow-KPMG">
+<td class="ms-rteTableOddCol-KPMG">Analytical&nbsp;</td>
+<td class="ms-rteTableEvenCol-KPMG">
+<p>We use several third party analytics tools to help us understand how site visitors use our web site. This allows us to improve the quality and content on kpmg.com for our visitors. The aggregated statistical data cover items such as total visits or page views, and referrers to our web sites. For further details on our use of Google Analytics, <a title="" href="/global/en/Pages/privacy.aspx#1.1.3">see below</a>.</p></td>
+<td class="ms-rteTableOddCol-KPMG">
+<p>Persistent , but will delete automatically after two years if you no longer visit kpmg.com</p></td></tr>
+<tr class="ms-rteTableOddRow-KPMG">
+<td class="ms-rteTableOddCol-KPMG">Site visitor feedback</td>
+<td class="ms-rteTableEvenCol-KPMG">
+<p>We use a third party survey tool to invite a percentage of visitors to provide their feedback. Cookies are used to prevent visitors from being invited multiple times.</p>
+<p>&nbsp;</p>
+<p>The first cookie (1) is set if the visitor is not invited to participate in the survey, and is used to ensure visitors are not invited after their first page view.</p>
+<p>&nbsp;</p>
+<p>The second cookie (2) is set if the visitor is invited to participate in the survey, and is used to ensure the visitor is not invited again to participate for a period of 90 days.</p></td>
+<td class="ms-rteTableOddCol-KPMG">
+<p>1 Session<br>Deleted upon closing the browser</p>
+<p>&nbsp;</p>
+<p>2 Persistent<br>Deleted automatically after 90 days or presenting survey invite.</p></td></tr>
+<tr class="ms-rteTableEvenRow-KPMG">
+<td class="ms-rteTableOddCol-KPMG">Social sharing</td>
+<td class="ms-rteTableEvenCol-KPMG">
+<p>We use third party social media widgets or buttons to provide you with additional functionality to share content from our web pages to social media websites and email. Use of these widgets or buttons may place a cookie on your device to make their service easier to use, ensure your interaction is displayed webpages (e.g. the social share count cache is updated) and log information about your activities across the Internet and on our web sites. We encourage you to review each provider's privacy information before using any such service. For further details on our use of social media widgets and applications, <a title="" href="/global/en/Pages/privacy.aspx#1.2">see below</a>.</p></td>
+<td class="ms-rteTableOddCol-KPMG">
+<p>Persistent, but will be deleted automatically after two years if you no longer visit kpmg.com</p></td></tr></tbody></table><p></p>
+<p>&nbsp;</p>
+<p>Other third party tools and widgets may be used on our individual web pages to provide additional functionality. Use of these tools or widgets may place a cookie on your device to make their service easier to use, and ensure your interaction is displayed on our webpages properly.</p>
+<p>&nbsp;</p>
+<p>Cookies by themselves do not tell us your email address or otherwise identify you personally. In our analytical reports, we may obtain other identifiers including IP addresses, but this is for the purpose of identifying the number of unique visitors to our web sites and geographic origin of visitor trends, and not to identify individual visitors.</p>
+<p>&nbsp;</p>
+<p><strong>BY NAVIGATING ON OUR WEB SITES OR ENTERING YOUR LOGIN DETAILS TO ACCESS AREAS RESERVED FOR REGISTERED USERS, YOU AGREE THAT WE CAN PLACE THESE COOKIES ON YOUR COMPUTER OR INTERNET ENABLED DEVICE.</strong> </p>
+<p>&nbsp;</p>
+<p><a name="1.1.3"></a><strong>1.1.3. Google Analytics</strong></p>
+<p>KPMG uses Google Analytics. More information about how Google Analytics is used by KPMG can be found here: <a title="" href="http://www.google.com/analytics/learn/privacy.html" target="_blank">http://www.google.com/analytics/learn/privacy.html</a></p>
+<p>&nbsp;</p>
+<p>To provide website visitors with more choice on how their data is collected by Google Analytics, Google have developed the <a title="" href="https://tools.google.com/dlpage/gaoptout" target="_blank">Google Analytics Opt-out Browser Add-on</a>. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics. The Google Analytics Opt-out Browser Add-on does not prevent information from being sent to the website itself or to other web analytics services.</p>
+<p>&nbsp;</p><a name="1.1.4"></a>
+<p><strong>1.1.4. Web beacons <br></strong>A web beacon is a small image file on a web page that can be used to collect certain information from your computer, such as an IP address, the time the content was viewed, a browser type, and the existence of cookies previously set by the same server. KPMG only uses web beacons in accordance with applicable laws. </p>
+<p>&nbsp;</p>
+<p>KPMG or its service providers may use web beacons to track the effectiveness of third party web sites that provide us with recruiting or marketing services or to gather aggregate visitor statistics and manage cookies. </p>
+<p>&nbsp;</p>
+<p>You have the option to render some web beacons unusable by rejecting their associated cookies. The web beacon may still record an anonymous visit from your IP address but cookie information will not be recorded. </p>
+<p>&nbsp;</p>
+<p>In some of our newsletters and other communications, we may monitor recipient actions such as email open rates through embedded links within the messages. We collect this information to gauge user interest and to enhance future user experiences.</p>
+<p>&nbsp;</p><a name="1.1.5"></a>
+<p><strong>1.1.5. Location-based tools</strong><br>KPMG may collect and use the geographical location of your computer or mobile device. This location data is collected for the purpose of providing you with information regarding services which we believe may be of interest to you based on your geographic location, and to improve our location-based products and services.</p>
+<p>&nbsp;</p><a name="1.2"></a>
+<p><a name="social"></a><strong>1.2. Social media widgets and applications</strong><br>KPMG web sites may include functionality to enable sharing via third party social media applications, such as the Facebook Like button and Twitter widget. These social media applications may collect and use information regarding your use of KPMG web sites (see details on 'Social Sharing' cookies above). Any personal information that you provide via such social media applications may be collected and used by other members of that social media application and such interactions are governed by the privacy policies of the companies that provide the application. We do not have control over, or responsibility for, those companies or their use of your information.</p>
+<p>&nbsp;</p>
+<p>In addition, KPMG web sites may host blogs, forums, crowd-sourcing and other applications or services (collectively "social media features"). The purpose of social media features is to facilitate the sharing of knowledge and content. Any personal information that you provide on any KPMG social media feature may be shared with other users of that social media feature (unless otherwise stated at the point of collection), over whom we may have limited or no control.</p>
+<p>&nbsp;</p><a name="1.3"></a>
+<p><strong>1.3 Children</strong> <br>KPMG understands the importance of protecting children's privacy, especially in an online environment. In particular, our sites are not intentionally designed for or directed at children under the age of 13. It is our policy never to knowingly collect or maintain information about anyone under the age of 13, except as part of an engagement to provide professional services.</p>
+<p>&nbsp;</p><a name="2"></a>
+<p><strong>2. Sharing and transfer of PII</strong> <br>We do not share personal information with unaffiliated third parties, except as necessary for our legitimate professional and business needs, to carry out your requests, and/or as required or permitted by law or professional standards. </p>
+<p>&nbsp;</p>
+<p>In some instances, KPMG may share PII about you with various outside companies or service providers or vendors working on our behalf to help fulfill your requests. </p>
+<p>&nbsp;</p>
+<p>In addition, KPMG may transfer certain PII across geographical borders to other KPMG member firms or outside companies working with us or on our behalf. KPMG may also store PII in a jurisdiction other than where you are based. By providing PII on online, visitors are consenting to this transfer and/or storage of their PII across borders. </p>
+<p>&nbsp;</p>
+<p>KPMG may also disclose PII in connection with the sale, assignment, or other transfer of the business of the site to which the data relates, in order to respond to requests of government or law enforcement agencies or where this is required by applicable laws, court orders, or government regulations. These disclosures may also be needed for data privacy or security audits and/or to investigate or respond to a complaint or security threat. KPMG does not sell PII to any third parties. Also, KPMG will not transfer the PII you provide to any third parties for their own direct marketing use.</p>
+<p>&nbsp;</p><a name="3"></a>
+<p><strong>3. Choices</strong> <br>In general, you are not required to submit any PII to KPMG online, but we may require you to provide certain PII in order for you to receive additional information about our services and events. KPMG may also ask for your permission for certain uses of your PII, and you can agree to or decline those uses. If you opt-in for particular services or communications, such as an e-newsletter, you will be able to unsubscribe at any time by following the instructions included in each communication. If you decide to unsubscribe from a service or communication, we will try to remove your information promptly, although we may require additional information before we can process your request. </p>
+<p>&nbsp;</p>
+<p>As described in "Cookies" above, if you wish to prevent cookies from tracking you as you navigate our sites, you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Note, however, that some portions of our sites may not work properly if you elect to refuse cookies. </p>
+<p>&nbsp;</p><a name="4"></a>
+<p><strong>4. Access</strong> <br>If you have submitted personal information to KPMG, under most circumstances you have the right to reasonable access to that data to correct any inaccuracies. You can also make a request to update or remove information about you by contacting <a title="" href="mailto:privacy@kpmg.com?subject=kpmg.com enquiry&amp;cc=contactus@kpmg.com">privacy@kpmg.com</a>&nbsp;and we will make all reasonable and practical efforts to comply with your request, so long as it is consistent with applicable law and professional standards. </p>
+<p>&nbsp;</p><a name="5"></a>
+<p><strong>5. Data security and integrity</strong> <br>KPMG has reasonable security policies and procedures in place to protect personal information from unauthorized loss, misuse, alteration, or destruction. Despite KPMG's best efforts, however, security cannot be absolutely guaranteed against all threats. To the best of our ability, access to your personal information is limited to those who have a need to know. Those individuals who have access to the data are required to maintain the confidentiality of such information. We also make reasonable efforts to retain personal information only for so long as the information is necessary to comply with an individual's request or until that person asks that the information be deleted. </p>
+<p>&nbsp;</p><a name="6"></a>
+<p><strong>6. Links to other sites</strong><br>Please be aware that KPMG web sites may contain links to other sites, including sites maintained by other KPMG member firms that are not governed by this Privacy Statement but by other privacy statements that may differ somewhat. We encourage users to review the privacy policy of each Web site visited before disclosing any personal information. </p>
+<p>&nbsp;</p><a name="7"></a>
+<p><strong>7. Changes to this statement</strong><br>KPMG may modify this Privacy Statement from time to time to reflect our current privacy practices. When we make changes to this statement, we will revise the "updated" date at the top of this page. We encourage you to periodically review this Privacy Statement to be informed about how KPMG is protecting your information. </p>
+<p>&nbsp;</p><a name="8"></a>
+<p><strong>8. Policy questions and enforcement</strong><br>KPMG is committed to protecting the online privacy of your personal information. If you have questions or comments about our administration of your personally identifiable information, please contact us at <a title="" href="mailto:privacy@kpmg.com?subject=kpmg.com enquiry&amp;cc=contactus@kpmg.com">privacy@kpmg.com</a>&nbsp;. You may also use this address to communicate any concerns you may have regarding compliance with our Privacy Statement.</p>
+<p>&nbsp;</p>
+<p><em><span class="ms-rteCustom-Superscript">1</span> "KPMG," "we," "our," and "us" refers to KPMG International Cooperative ("KPMG International"), a Swiss entity, and/or to any one or more of the member firms of the KPMG network of independent firms affiliated with KPMG International. KPMG International provides no client services.</em></p></div>
+                   </div>                    
+                <script language="javascript">{Custom_MakePageText1InvisibleIfBlank();}</script>	
+	  <div class="podAndZoneWrapper CentreZoneFullwrapper" style="width: 730px; overflow: auto; display: none;" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
+			
+	  </div>
+	  </td></tr></tbody></table>
+	  </td>
+	  </tr> 
+</tbody></table>
+<div>
+		      <div class="twocolthreezoneCenterLeftCol">
+			            <div class="CentreLeftZonewebpart kpmgpaddingleft1 kpmgpaddingright1" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="width: 230px; display: none;">
+						    
+				        </div>
+				        <div class="threeCellLeftGrid kpmgpaddingleft1" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+					        
+				        </div>
+				        <div class="threeCellLeftGrid kpmgpaddingleft1" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+					        
+				        </div>
+				        <div class="threeCellLeftGrid kpmgpaddingleft1" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+					        
+				        </div>
+				        <div class="CentreLeftZonewebpart kpmgpaddingleft1 kpmgpaddingright1" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="width: 230px; display: none;">
+						    
+				        </div>
+				   </div>
+			       <div class="twocolthreezoneCenterMiddleCol">
+			            <div class="CentreMiddleZonewebpart" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="width: 230px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px; display: none;">
+						    
+				        </div>
+				        <div class="threeCellCentreGrid" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+					        
+				        </div>
+				         <div class="threeCellCentreGrid" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+					        
+				        </div>
+				        <div class="threeCellCentreGrid" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+					        
+				        </div>
+				        <div class="CentreMiddleZonewebpart" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="width: 230px; padding-left: 10px; padding-right: 10px; padding-bottom: 10px; display: none;">
+						    
+				        </div>
+				    </div>			      
+			         <div class="twocolthreezoneCenterRightCol">
+			            <div class="CentreRightZonewebpart kpmgpaddingleft1" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="width: 230px; padding-left: 10px; display: none;">
+						    
+				        </div>
+				        <div class="threeCellRightGrid kpmgpaddingleft1" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+					        
+				        </div>
+				         <div class="threeCellRightGrid kpmgpaddingleft1" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+					        
+				        </div>
+				         <div class="threeCellRightGrid kpmgpaddingleft1" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="overflow-wrap: break-word; display: none;">
+					        
+				        </div>
+				        <div class="CentreRightZonewebpart kpmgpaddingleft1" id="_invisibleIfEmpty" name="_invisibleIfEmpty" style="width: 230px; padding-left: 10px; display: none;">
+						    
+				        </div>
+				     </div>			      
+</div>
+<div class="twocolthreezonediv twocolthreezonedivZone11">
+    <div class="podAndZoneWrapper CentreZoneFullwrapper" style="width: 730px; overflow: auto; display: none;" id="_invisibleIfEmpty" name="_invisibleIfEmpty">
+        
+    </div>
+</div>
+	        
+
+	        
+        
+	       
+<script language="javascript">  if (typeof (MSOLayout_MakeInvisibleIfEmpty) == "function") { MSOLayout_MakeInvisibleIfEmpty(); }</script>
+<script language="javascript">  if (typeof (SetTranscript) == "function") { SetTranscript(); }</script>
+
                             </div>
                             <div id="column5" name="_invisibleIfEmpty">
                                 
@@ -1077,68 +1325,7 @@ ctl00_LeftRailPlaceholder_LeftNav_sideMenu_Data.verticalOffset = 0;
 
     <script language="javascript">        if (typeof (SetColumnHight) == "function") { SetColumnHight(); }</script>
 <!-- Analytics Script added -->
-    <!-- Google Tag Manager June 2 -->
-<script>
-var noscript = document.createElement('noscript');
-
-noscript.innerHTML = '<iframe src="//www.googletagmanager.com/ns.html?id=GTM-ML9KP2" height="0" width="0" style="display:none;visibility:hidden"></iframe>';
-
-
-$("body").prepend(noscript);
-
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-ML9KP2');
-</script>
-
-<!-- End Google Tag Manager -->
-
-<!-- Google analytics --> 
-<script type="text/javascript"> 
-  if (kpmgPublic && kpmgInclude) 
-   { 
-
-
-//Google Analytics component 
-var _gaq = _gaq || []; 
-_gaq.push(["global._setAccount", "UA-13230457-4"]); 
-_gaq.push(["global._setDomainName", ".kpmg.com"]); 
-_gaq.push(["global._setAllowHash", false]); 
-_gaq.push(["global._setAllowLinker", true]); 
-_gaq.push(["global._trackPageview"]); 
-(function() { 
-var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true; 
-ga.src = ('https:' == document.location.protocol ? 'https://ssl.google-analytics.com/ga.js' : 'http://www.google-analytics.com/ga.js'); 
-var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s); 
-})(); 
-$(function() { 
-$("a").click(function() { 
-var href = $(this).attr("href"); 
-var sitepath = ''; 
-// PDF links 
-if (href.match(/\.pdf$/i)) { 
-_gaq.push(["global._trackPageview", href]); 
-} 
-// mailto: links 
-else if (href.match(/mailto:/i)){ 
-sitepath = location.pathname.match(/^\/[a-z]+\/[a-z]+\//i); 
-if (sitepath) { _gaq.push(["global._trackPageview", sitepath + "e-mail?" + href]);} 
-else { _gaq.push(["global._trackPageview", "/e-mail?" + href]); } 
-} 
-// External links 
-else if( !href.match(/\/\/(www\.)?kpmg\.com/i) && href.match(/^https?:\/\//i) ){ 
-sitepath = location.pathname.match(/^\/[a-z]+\/[a-z]+\//i); 
-if (sitepath) { _gaq.push(["global._trackPageview", sitepath + "external?" + href]); } 
-else { _gaq.push(["global._trackPageview", "/external?site=" + href]); } 
-} 
-}); 
-}); 
-   } 
-</script> 
-<!-- end google analytics --> 
-
+    
 <!--Begin: www.iperceptions.com --> 
 <script type="text/javascript"> 
 (function(d, f) { 
@@ -1166,6 +1353,34 @@ else { _gaq.push(["global._trackPageview", "/external?site=" + href]); }
 
 <script src="/Global/en/Documents/comment_box/ipecc.js"></script>
 
+<!--August 1 -  IE8 Fix Google Tag Manager & Country Excludes-->
+<script>
+function runGoogleTagManager() 
+{
+	if (kpmgPublic && kpmgInclude) 
+	{ 
+		var noscript = document.createElement('noscript');
+		var IE8orLess = document.all && !document.addEventListener
+
+		if(IE8orLess)
+		noscript.text= '<iframe src="//www.googletagmanager.com/ns.html?id=GTM-ML9KP2" height="0" width="0" style="display:none;visibility:hidden"></iframe>';
+		else
+		noscript.innerHTML = '<iframe src="//www.googletagmanager.com/ns.html?id=GTM-ML9KP2" height="0" width="0" style="display:none;visibility:hidden"></iframe>';
+
+		$("body").prepend(noscript);
+
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-ML9KP2');
+	}
+}
+</script>
+<!-- End Google Tag Manager -->
+
+<script src="/Global/en/Documents/privacy_solution/privacy.js"></script>
+
     <script type="text/javascript" src="/Style%20Library/js/jquery.MDD.kpmg.js"></script>
 
   <script type="text/javascript">
@@ -1178,4 +1393,4 @@ else { _gaq.push(["global._trackPageview", "/external?site=" + href]); }
   </script>
 
 
-<!-- v1.14 --><!-- Rendered using cache profile:Public Internet (Purely Anonymous) at: 2014-06-26T16:47:41 --></div></form></body></html>
+<!-- v1.14 --><!-- Rendered using cache profile:Public Internet (Purely Anonymous) at: 2014-12-21T09:06:24 --></div></form></body></html>
