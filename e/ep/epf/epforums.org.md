@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epforums.org privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905043652id_/http%3A//www.emuparadise.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epforums.org privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221235300id_/http%3A//www.emuparadise.org/privacy.php) for the most accurate reproduction.*
 
-# Emuparadise - N64 Playstation Dreamcast SNES Genesis NES MAME ROMs ISOs
+# NDS ROMS PSP ROMS PSX ROMS NES ROMS SNES ROMS GBA ROMS | Emuparadise
 
 **Emuparadise Privacy Policy:**
 
