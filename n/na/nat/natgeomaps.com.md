@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natgeomaps.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515035208id_/http%3A//www.natgeomaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natgeomaps.com privacy policy that was archived on 2014-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141221174128id_/http%3A//www.natgeomaps.com/privacy) for the most accurate reproduction.*
 
 # Company - Privacy - National Geographic Maps
 
