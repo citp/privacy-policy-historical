@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viraltopia.net privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623014716id_/http%3A//viraltopia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraltopia.net privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222212545id_/http%3A//viraltopia.net/privacy-policy) for the most accurate reproduction.*
 
 # VIRALTOPIA
 
