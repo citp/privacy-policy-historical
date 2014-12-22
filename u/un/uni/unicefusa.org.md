@@ -1,80 +1,53 @@
-> *The following text is extracted and transformed from the unicefusa.org privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405150659id_/http%3A//unicefusa.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicefusa.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222033932id_/https%3A//mollom.com/web-service-privacy-policy) for the most accurate reproduction.*
 
-# U.S. Fund for UNICEF: About Us: Privacy Statement
+# Web service privacy policy | Mollom
 
-**Privacy Statement**
+_This privacy policy explains how Mollom BVBA ("we") processes your personal data. Please read it carefully, as it specifies which rights you have and how you can exercise your rights._
 
-The United States Fund for UNICEF is dedicated to honoring the privacy and wishes of our supporters at all times. Following are details about our online policies. These policies may be changed or updated from time to time. Please feel free to contact us if you have any questions or concerns (see #1 below) - we will be happy to address them promptly. 
+**Our web service** – We operate a web service that tries to determine the quality of messages posted to a website, and particularly tries to determine whether these messages are to be considered as unsolicited messages (also called "spam"). Nowadays, websites that allow visitors to contribute or post comments (such as blogs, discussion forums, wikis, etc.) are flooded with inappropriate commercial messages that are distracting for all visitors, and are sometimes even highly illegal. These commercial messages are often uploaded in an automatic way. Our service screens messages before they are posted to the website.
 
-****
-  1. **Contact Us**
+**How it works** – When you post a message on a website that uses our service (called "the website" in the remainder of this text), the website's server will first send your message – as well as some information about your identity (such as your IP address, name or nickname, e-mail address and OpenID) – to our server. Our server will then compare your message and your identity details with all elements in our database, and perform several complex statistical computations in order to assess the quality of your message (e.g., spam, abuse, etc.).
 
-This website is owned by the United States Fund for UNICEF. You can contact us in any of the below ways. 
+If our server then determines that the content of your message is of insufficient quality or constitutes spam or abuse, it will inform the website thereof. The website server may then decide to reject your message, or to provide you with an additional question to find out whether you are in fact a human being, and not a machine trying to send out as much commercial communications as possible. Also, in case the server is uncertain about the quality of the message, it may forward your message to a human moderator who will assess the quality of your message and act accordingly. Please note that it is sometimes possible that our server or moderators wrongfully determine the actual quality of the content of your message, or wrongfully consider your message as spam or abuse.
 
-|   | Mail: |   | [www.unicefusa.org](http://www.unicefusa.org/)   
-U.S. Fund for UNICEF   
-333 East 38th Street, 6th Floor   
-New York, NY 10016  
----|---|---|---  
-  | Telephone: |   | (212) 922-2651   
-  
-  | Fax: |   | (212) 779-1679   
-  
-  | E-mail: |   | [webmaster@unicefusa.org](mailto:webmaster@unicefusa.org)   
-  
-  
-  2. **Collection of Personal Data**
+**What we store about you** – We store all information provided to us by the website. This will include, in particular, the following personal data about you (to the extent effectively provided to us by the website): the content of your message, your name or nickname, IP address, user ID, OpenID, e-mail address, URL of your website, and the date and time you post a message.
 
-The United States Fund for UNICEF collects and maintains only personal information that is sent to us directly from an individual or company. This information is obtained from the following places on our website: 
+**How long we store this data** – Your data is stored in our databases for at most two months. After this period of two months, we can continue to store your data in anonymized way for a period of two years.
 
-    * E-mail alert sign up 
-    * Donation form 
-    * Comments Form 
-    * Guestbook 
-    * Online Surveys 
-    * E-mail messages sent directly to our attention
+**How we use your personal data** – We use your personal data to assess the quality of your message, and to find out whether your message constitutes spam, by comparing your data with all other data of all other users in our databases. Afterwards, we also use your personal data to make similar assessments for all other websites that use our service, as the more information we store in our database, the better we can assess whether a message is genuine.
 
-The United States Fund for UNICEF does collect aggregate non-personal data on the use of our website. Examples of this type of data include statistics on what pages users access or visit, and the referring page from which users find us. The information we collect is intended to help identify best practices for the design and strategy of our website. 
+While we sometimes provide statistical information (trends, numbers, etc.) generated from our databases to third parties, please rest assured that you cannot be identified on the basis of this statistical information.
 
-  3. **"Cookies"**
+Note that we hate spam as much as you do – in fact, our service is specifically targeted at removing spam. So, we will never provide your email address to third parties, and we will never send any spam ourselves to you. In most cases, we will not even be aware of your e-mail address.
 
-The United States Fund for UNICEF uses electronic marking devices ("cookies") only to track non-personal information while a user is visiting our site. For a typical user visiting our web site, a random unique number is assigned that has no meaning outside our site. This number is reset when the user leaves our site. No personal information or linkage between this number and a particular user is ever made or saved in any form. 
+Also note that we can provide access to your personal data in case of illegal or abusive use, or in case we receive orders from a competent legal authority.
 
-No information regarding a visitor's e-mail address is automatically recognized by our web server. 
+**How we protect you** – We are bound by the strict rules of Belgian and European data protection legislation, which prevents us from making unlawful use of your personal data. Please note that the website's operator may be bound by other rules, depending on his jurisdiction.
 
-  4. **Children**
+**Your rights** – You have the right to gain access to, correct and/or remove all personal data we store about you on our servers. All this is provided to you free of charge. In order to exercise your rights, please [contact us](https://web.archive.org/contact).
 
-We are especially concerned about ensuring the privacy of children online. Please note that we try to ensure that all our activities (particularly the "Trick or Treat for UNICEF" program) are coordinated by an adult and therefore make every effort to send information to adults only. If you are aware that a child has provided his or her name to us, please let us know by entering the child's name in the CHILD ALERT box and by providing us with a supervising adult's contact information using the change of address form located at [http://www.unicefusa.org/about/address_change.html](https://web.archive.org/web/20040405150659id_/http%3A//unicefusa.org/about/address_change.html)
+**Revision** – From time to time, we change our products and services which may require us to update our privacy policy accordingly. Your continued use of the website using our service following the posting of any changes to this privay policy means you accept such changes. This policy was last updated on June, 19th 2013.
 
-  5. **Dissemination of Personal Data**
+## Summary
 
-The United States Fund for UNICEF does not rent, exchange, or sell the electronic mail addresses or credit card information of our supporters. 
+  * We process your personal data on the request of, and for the purposes of, the website you try to contribute to.
 
-  6. **Donor Bill of Rights**
+| 
 
-The United States Fund for UNICEF believes in the rights of donors and subscribes to the _Donor Bill of Rights_. This statement of rights was developed by American Association of Fund Raising Counsel (AAFRC), Association for Healthcare Philanthropy (AHP), Council for Advancement and Support of Education (CASE), and the National Society of Fund Raising Executives (NSFRE). The full text of the _Donor Bill of Rights_ follows: 
-
-Philanthropy is based on voluntary action for the common good. It is a tradition of giving and sharing that is primary to the quality of life. To assure that philanthropy merits the respect and trust of the general public, and that donors and prospective donors can have full confidence in the not-for-profit organizations and causes they are asked to support, we declare that all donors have these rights: 
-
-_I. To be informed of the organization's mission, of the way the organization intends to use donated resources, and of its capacity to use donations effectively for their intended purposes.  
-II. To be informed of the identity of those serving on the organization's governing board, and to expect the board to exercise prudent judgement in its stewardship responsibilities.   
-III. To have access to the organization's most recent financial statements.   
-IV. To be assured their gifts will be used for the purposes for which they were given.   
-V. To receive appropriate acknowledgement and recognition.   
-VI. To be assured that information about their donations is handled with respect and with confidentiality to the extent provided by law.   
-VII. To expect that all relationships with individuals representing organizations of interest to the donor will be professional in nature.   
-VIII. To be informed whether those seeking donations are volunteers, employees of the organization or hired solicitors.   
-IX. To have the opportunity for their names to be deleted from mailing lists that an organization may intend to share.   
-X. To feel free to ask questions when making a donation and to receive prompt, truthful and forthright answers._
-
-  7. **Security of Data Transmittal**
-
-Donations made on the www.unicefusa.org website are secure to the fullest extent possible. We use strong 128 bit encryption through Secure Socket Layer (SSL) technology. SSL protects information as it is transferred through the Internet. 
-
-You can recognize secure Web site pages by checking for the secure symbol at the bottom of your browser screen. For most browsers, this symbol is either a lock or a key. When the lock symbol appears to be locked, the page is secure. When it appears to be unlocked, the page is insecure. 
+  * We are bound by the strict rules of Belgian and European data protection. We take all appropriate means to protect your data against unauthorised access and damaging.
 
   
-If you have any further questions regarding our online privacy policies, please contact us via e-mail at [privacy@unicefusa.org](mailto:privacy@unicefusa.org). 
+---|---  
+  
+  * We screen your message and identity (name, nickname, IP address, user ID, OpenID, email address and URL of your website) by making comparisons with other elements in our database, to determine the quality of the content of your message and to find out whether your message is spam.
+  * Your message may be rejected by our service, and may subsequently also be rejected by the website you want to contribute to.
+  * We store the content of your messages and other information about your identity during a period of two months. Afterwards, we store the same information in anonymized form for a period of two years, in order to provide our service to other websites.
 
+| 
+
+  * We hate spam as much as you do. We will never provide your email address to third parties, or send spam ourselves.
+  * We sometimes provide anonymous (statistical) information to third parties.
+  * We can provide access to your personal data in case of illegal use, or when we receive orders from legal authorities.
+  * You can gain access to, correct and/or remove all personal data we store about you – free of charge – by contacting us.
 
 
