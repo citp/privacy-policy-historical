@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the adstation.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615044715id_/http%3A//www.adstation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adstation.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222031135id_/http%3A//www.adstation.com/privacy-policy) for the most accurate reproduction.*
 
-# AdStation by Adknowledge Privacy - AdStation by Adknowledge
+# Privacy Policy - AdStation by Adknowledge
 
-ADKNOWLEDGE LIST MANAGEMENT PRIVACY POLICY
-
-Effective December 30, 2013
-
-This Policy may change from time to time. Please check back frequently for updates.
+Effective December 30, 2013.  
+This Policy may change from time to time. Please check back frequently for updates.  
+For additional information, please visit the [Adknowledge Privacy Center](http://www.adknowledge.com/privacy/ "Adknowledge Privacy Center").
 
 Adknowledge, Inc. and its list management line of business operations (“Adknowledge”, “we”, or “us”) respect and protect the privacy of consumers. This Privacy Policy (“Policy”) describes what information we collect, how we use that information, and some of your privacy rights regarding that information.
 
@@ -80,7 +78,7 @@ _Third Party privacy policies and use of cookies_.
 
 _Additional resources and contact information_.
 
-For more information about protecting your privacy, you may wish to visit [http://www.netcoalition.com](http://www.netcoalition.com/) and [http://www.privacyalliance.org](http://www.privacyalliance.org/). Adknowledge reserves the right to update this Policy at any time by republishing it to this Website with a new effective date. If you have questions about this Policy and your rights under this policy, or if you would like access to personal information we may have about you in our files, to correct, update, or to have us delete it, or would like to notify us of your choice to opt out of the sharing of any of your personal information, please contact us at [privacy at adknowledge.com](mailto:privacy@adknowledge.com?Subject=Questions%20about%20Adknowledge%20Privacy%20Policy) or write to us at:
+For more information about protecting your privacy, you may wish to visit [http://www.netcoalition.com](http://www.netcoalition.com/) and [http://www.privacyalliance.org](http://www.privacyalliance.org/). Adknowledge reserves the right to update this Policy at any time by republishing it to this Website with a new effective date. If you have questions about this Policy and your rights under this policy, or if you would like access to personal information we may have about you in our files, to correct, update, or to have us delete it, or would like to notify us of your choice to opt out of the sharing of any of your personal information, please contact us at privacy at adknowledge.com or write to us at:
 
 Adknowledge, Inc.  
 List Management Operations  
