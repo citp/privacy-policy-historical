@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209050533id_/http%3A//food52.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the food52.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222061926id_/http%3A//food52.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Food52
 
@@ -66,4 +66,4 @@ Any dispute, claim or controversy relating to this or any previous privacy polic
 
 Should you have any questions or suggestions regarding our privacy policy, please feel free to contact us at [admin@food52.com](mailto:admin@food52.com) or by mail: Food52 Inc., 116 Willow Street, Apt. 2, Brooklyn, NY 11201.
 
-This privacy policy is governed by the terms of the Food52 Terms of Service Agreement, available for review [here](https://web.archive.org/terms-of-service).
+This privacy policy is governed by the terms of the Food52 Terms of Service Agreement, available for review [here](https://web.archive.org/terms).
