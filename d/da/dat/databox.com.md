@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the databox.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101944id_/http%3A//databox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databox.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222210115id_/http%3A//databox.com/privacy-policy) for the most accurate reproduction.*
 
-# Mobile Dashboard for Executives • Databox
+# Databox
 
 We are committed to protecting our visitors' and members' privacy. This Privacy Policy explains what information of yours will be collected by Databox, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. 
 
@@ -13,7 +13,7 @@ Please review the following carefully so that you understand our privacy practic
 
 You provide us information about yourself, such as your name and e-mail address, when you register. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. 
 
-In addition, tracking information is collected as you navigate through our site. To help us serve your needs better, we use "cookies" to store and sometimes track user information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies can be disabled or controlled by setting a preference within your browser. We use Mixpanel, an independent measurement and research company, in our app, and KISSmetrics on our website, which use cookies and code to gather non-personal data regarding the number and frequency of visitors to our site. Further information regarding Mixpanel can be found at [www.mixpanel.com](http://www.mixpanel.com/) and regarding KISSmetrics at [www.kissmetrics.com](http://www.kissmetrics.com/). 
+In addition, tracking information is collected as you navigate through our site. To help us serve your needs better, we use "cookies" to store and sometimes track user information. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies can be disabled or controlled by setting a preference within your browser. We use Intercom and Google Analytics. For further information regarding Intercom can be found at [www.intercom.io](https://www.intercom.io/) and regarding Google Analytics at [www.google.com/analytics](http://www.google.com/analytics/). 
 
 Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. 
 
