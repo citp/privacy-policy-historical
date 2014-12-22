@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307132440id_/http%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telenor.com.pk privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222224856id_/http%3A//www.telenor.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Telenor Pakistan - Privacy Policy
 
@@ -102,19 +102,8 @@ Moaiz Center
 F-7 Markaz  
 Islamabad  
   
-**Terms & Conditions **
+  
 
-By accessing Telenor's World Wide Web ("the Webpages") pages you agree to the following terms. You must not access our pages if you do not agree to all the following terms.
-
-The information on this server is protected by copyright © Telenor 2005. All rights reserved. Reproduction, transfer, distribution or storage of part or all of the contents in any form without the prior written permission of Telenor is prohibited except in accordance with the following permission. Telenor consents to you storing on your computer or printing copies of extracts from these pages for your personal non - commercial use only. Individual documents in our World Wide Web pages may be subject to additional terms indicated in those documents.
-
-"Telenor" and the symbol are trademarks of Telenor Telecommunications. Third parties' product and service names profiled herein are trademarks and service marks of their respective companies. Nothing contained shall be construed as conferring a license of Telenor's intellectual property rights on you.
-
-The information on this Webpage server is provided "as is". Except as required by applicable law Except to the extent that this disclaimer (or part) is held to be invalid no warranty of any kind, either express or implied, including any implied warranty of merchantability or fitness for a purpose is made in relation to the accuracy, reliability , completeness or content of the pages. The information contained in the Web pages herein may include technical inaccuracies or typographical errors.
-
-Telenor reserves the right to revise the pages or withdraw access to them at any time. Telenor assumes no responsibility for material created or published by third parties that Telenor's World Wide Web pages have a link to as the material has not been verified or authenticated by Telenor.
-
-Telenor shall not be responsible for any damages suffered as a result of your use of the information in the Web pages and in no event shall Telenor be liable for any indirect punitive or consequential damage howsoever arising from your use of the Webpages or the information contained herein.
 
 **What is spamming via SMS/MMS?**
 
