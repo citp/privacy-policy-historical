@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop.ca privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307051552id_/http%3A//www.shop.ca/c/shop-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.ca privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222183335id_/http%3A//www.shop.ca/c/shop-privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 **CONSENT**
 
-BY USING OUR SITES, YOU AGREE WITH THE TERMS OF THIS PRIVACY POLICY. WHENEVER YOU SUBMIT INFORMATION VIA OUR SITES, YOU CONSENT TO THE COLLECTION, USE, AND DISCLOSURE OF THAT INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY. PLEASE BE SURE TO READ OUR ENTIRE PRIVACY POLICY BEFORE SUBMITTING INFORMATION TO OUR SITES. Subject to legal and contractual requirements, you may refuse or withdraw your consent to certain of the identified purposes at any time by contacting us. If you refuse or withdraw your consent, we may not be able to provide you, or continue to provide you, with certain services or information that may be of value to you.
+BY USING OUR SITES, YOU AGREE WITH THE TERMS OF THIS PRIVACY POLICY. WHENEVER YOU SUBMIT INFORMATION VIA OUR SITES, YOU CONSENT TO THE COLLECTION, USE, AND DISCLOSURE OF THAT INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY. PLEASE BE SURE TO READ OUR ENTIRE PRIVACY POLICY BEFORE SUBMITTING INFORMATION TO OUR SITES. Subject to legal and contractual requirements, you may refuse or withdraw your consent to certain parts of the identified purposes at any time by contacting us. If you refuse or withdraw your consent, we may not be able to provide you, or continue to provide you, with certain services or information that may be of value to you.
 
 **WHAT PERSONAL INFORMATION DO WE COLLECT?**
 
@@ -14,9 +14,10 @@ Canadian privacy legislation defines personal information broadly as information
 
 **WHY DO WE COLLECT YOUR PERSONAL INFORMATION?**
 
-We collect your personal information to provide you with helpful, relevant information and the best shopping experience on our sites and in our e-mails. In addition, from time to time, we may use your personal information for the following purposes:
+We collect your personal information to provide you with helpful, relevant information and the best shopping experience on our sites, mobile applications, third-party social media channels,and in our e-mails. In addition, from time to time, we may use your personal information for the following purposes:
 
   * to understand your needs and preferences, including to contact and communicate    with you and to conduct surveys, research and evaluations;
+  * to deposit loyalty earnings, ie Aeroplan Miles, SHOP.CA Credits
   * to administer contests run on our sites;
   * to manage and develop [SHOP.CA](about:blank)’s business and operations;
   * to meet legal and regulatory requirements;
@@ -24,6 +25,8 @@ We collect your personal information to provide you with helpful, relevant infor
   * any other purpose we may indicate to you from time to time.
 
 
+
+If you provide your email address and expressly consent to opt-in to receive promotional and informational emails or other commercial electronic messages, you are always given the opportunity to remove that consent via an unsubscribe request provided within email, as a change in preference in a mobile application, or by contacting our Customer Loyalty Team by telephone at 1.855.4.SHOP.CA or by postal mail at SHOP Network Inc. 70 Peter Street, Toronto, Ontario, M5V 2G5.
 
 **WHAT HAPPENS TO INFORMATION YOU PROVIDE ON A CONTEST ENTRY?**
 
@@ -33,7 +36,7 @@ We collect your personal information to provide you with helpful, relevant infor
 
 We may disclose your personal information to our affiliates and to the following third parties in the following circumstances:
 
-(a) Disclosure to Service Providers: We may disclose your personal information to companies or individuals that provide services on our behalf, including our software developers (including website developers and hosts), data processing providers, document management providers, and office services providers. We will only provide those third parties with the information they need to deliver the service(s) contracted for and we will ensure that they enter into agreements with us to protect the personal information that they receive.
+(a) Disclosure to Service Providers: We may disclose your personal information to companies or individuals that provide services on our behalf, including our loyalty partner, software developers (including website developers and hosts), data processing providers, document management providers, and office services providers. We will only provide those third parties with the information they need to deliver the service(s) contracted for and we will ensure that they enter into agreements with us to protect the personal information that they receive.
 
 (b) Law Enforcement and Legal Disclosure: [SHOP.CA](about:blank) may disclose your personal information to a government institution that has asserted its lawful authority to obtain the information or where [SHOP.CA](about:blank) has reasonable grounds to believe the information could be useful in the investigation of unlawful activity, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information, or to [SHOP.CA](about:blank)’s legal counsel. If you would prefer for us NOT to share your information as described above, simply inform us (see "Contact Us" below).
 
@@ -63,4 +66,4 @@ If you have any questions, concerns or requests relating to this Privacy Policy,
 
 **CHANGES TO THE PRIVACY POLICY**
 
-[SHOP.CA](about:blank) reserves the right to update, modify or supplement this Privacy Policy from time to time. This Privacy Policy is intended to comply with the provisions of the Personal Information Protection and Electronic Documents Act (Canada). 
+[SHOP.CA](about:blank) reserves the right to update, modify or supplement this Privacy Policy from time to time. This Privacy Policy is intended to comply with the provisions of the Personal Information Protection and Electronic Documents Act (Canada) and Canada’s Anti-Spam Law (CASL). 
