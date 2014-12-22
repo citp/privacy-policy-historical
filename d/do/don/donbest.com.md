@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donbest.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519232557id_/http%3A//www.donbest.com/Customers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donbest.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222174442id_/http%3A//www.donbest.com/Customers/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Customers - DonBest.com
 
