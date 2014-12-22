@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goodnightnaturals.com privacy policy that was archived on 2013-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130922121204id_/http%3A//www.goodnightnaturals.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodnightnaturals.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222170516id_/http%3A//www.goodnightnaturals.com/privacy.html) for the most accurate reproduction.*
 
-# Good Night Naturals is the source for eco and health conscious bed & bath products, natural & organic linens, towels and furniture
+# Privacy is a serious concern. Information is not shared and private.
 
 If you have questions or concerns regarding this statement, you should first contact Paul at [cust_serv@goodnightnaturals.com](mailto:cust_serv@goodnightnaturals.com)
 
@@ -54,11 +54,11 @@ CHOICE/OPT-OUT: Users who no longer wish to receive our promotional e-mails or n
 
 **How to Contact Us**  
 If there are any questions or concerns in regards to these privacy policies, we may be reached at:  
-Mailing Address  
-**Good Night Naturals  
-PO Box 208, Natick, MA 01760  
+**Mailing Address**  
+Good Night Naturals  
+1418 W Poinsettia Pl Ste. 8  
+West Hollywood, CA 90046  
 Phone: 415.738.8379  
-email: [cust_serv@goodnightnaturals.com](mailto:cust_serv@goodnightnaturals.com)  
-** An address change needs to be made for our Corporate Office: <http://www.goodnightnaturals.com/stores.html>
+email: [cust_serv@goodnightnaturals.com](mailto:cust_serv@goodnightnaturals.com)
 
 _Privacy policy effective 11/1/2006_
