@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trolino.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614122910id_/http%3A//www.trolino.com/contact.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trolino.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222223114id_/http%3A//www.trolino.com/contact.php%23Privacy) for the most accurate reproduction.*
 
 # Trolino | Contact us
 
@@ -10,21 +10,21 @@
 
 Members of the month
 
-1\. [tilkex](http://www.trolino.com/profile/tilkex) (4792)
+1\. [tilkex](http://www.trolino.com/profile/tilkex) (4603)
 
-2\. [santosnaytomsanii](http://www.trolino.com/profile/santosnaytomsanii) (4252)
+2\. [RubyRose](http://www.trolino.com/profile/RubyRose) (3711)
 
-3\. [bajrami2](http://www.trolino.com/profile/bajrami2) (2202)
+3\. [kingoftrolino](http://www.trolino.com/profile/kingoftrolino) (3066)
 
-4\. [x2pacx](http://www.trolino.com/profile/x2pacx) (2158)
+4\. [TheHopa1988](http://www.trolino.com/profile/TheHopa1988) (2915)
 
-5\. [cezarcrew](http://www.trolino.com/profile/cezarcrew) (1924)
+5\. [nestea](http://www.trolino.com/profile/nestea) (1988)
 
-6\. [gameon229](http://www.trolino.com/profile/gameon229) (1369)
+6\. [bajrami2](http://www.trolino.com/profile/bajrami2) (1894)
 
-7\. [tonystark](http://www.trolino.com/profile/tonystark) (1367)
+7\. [Herp](http://www.trolino.com/profile/Herp) (1717)
 
-8\. [fabrizio](http://www.trolino.com/profile/fabrizio) (1261)
+8\. [gameon229](http://www.trolino.com/profile/gameon229) (1698)
 
 **Contact**
 
