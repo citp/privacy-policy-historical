@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the duncanhines.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624055846id_/http%3A//pinnaclefoods.com/index.php/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duncanhines.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222202738id_/http%3A//pinnaclefoods.com/index.php/company/privacy) for the most accurate reproduction.*
 
 # Pinnacle Foods Inc.
 
-Pinnacle Foods Inc. is committed to protecting your privacy and providing a safe online experience. This Privacy Policy describes what information Pinnacle Foods Inc. collects through this website and how we collect, protect, use, and share that information. By using this website, you consent to the data practices described in this Privacy Policy. Please review this Privacy Policy carefully to familiarize yourself with Pinnacle Foods Inc.'s online privacy practices. Your use of this website is also subject to the Pinnacle Foods Inc. website [Terms of Use](https://web.archive.org/web/20140624055846id_/http%3A//pinnaclefoods.com/index.php/company/terms-of-use).
+Pinnacle Foods Inc. is committed to protecting your privacy and providing a safe online experience. This Privacy Policy describes what information Pinnacle Foods Inc. collects through this website and how we collect, protect, use, and share that information. By using this website, you consent to the data practices described in this Privacy Policy. Please review this Privacy Policy carefully to familiarize yourself with Pinnacle Foods Inc.'s online privacy practices. Your use of this website is also subject to the Pinnacle Foods Inc. website [Terms of Use](https://web.archive.org/web/20141222202738id_/http%3A//pinnaclefoods.com/index.php/company/terms-of-use).
 
 Please note that when you visit this website, any personal or non-personal data you provide will be transferred to the U.S. where the site is located. By using this website you consent to the collection, processing, transfer and storage of such data to the U.S.
 
@@ -63,9 +63,9 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 Section 17898.83 of the California Civil Code allows California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make such a request, contact us at [webmaster@pinnaclefoodscorp.com](mailto:webmaster@pinnaclefoodscorp.com) and include the words "CA Privacy Request" in the subject line, or, you may write to us at:
 
 Pinnacle Foods Consumer Relations  
-PO Box 3900  
-Peoria, IL 61612  
-[consumerinsights@pinnacle.speedymail.com](mailto:consumerinsights@pinnacle.speedymail.com)
+PO Box 971  
+Miami, FL 33152  
+[Pinnacle.cr@epowercenterdirect.com](mailto:Pinnacle.cr@epowercenterdirect.com)
 
 ## Security of Your Personal Information
 
