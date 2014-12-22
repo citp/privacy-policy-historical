@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasenza.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409170907id_/http%3A//www.lasenza.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasenza.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222222628id_/http%3A//www.lasenza.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | La Senza
 
@@ -27,18 +27,18 @@ We collect personal information directly from you to do all the things typically
 
 This information is collected at various places: for instance, when you check out with your online order; subscribe to catalogs, email offers, and mobile messaging offers; participate in surveys; join the Prestige VIP Club; enter contests or sweepstakes; or interact with special—event or program offers.
 
-We may also collect information that you provide about people you know. For example, we collect your gift recipient’s contact information to process your gift orders. We use personally identifying information to do things like:
+We may also collect information that you provide about people you know. For example, we collect your gift recipient’s contact information to process your gift orders. We may also collect contact information about your friends and family members when you participate in one of our refer-a-friend programs. In all of these instances, we may send a message to your friend or family member on your behalf.  Please ensure that you only submit email addresses of individuals with whom you have a personal or family relationship and who would want to receive the message from you. We use personally identifying information to do things like:
 
   * Process your online orders.
   * Open an online account at your request.
-  * Personalize your online experience with content and offers that are tailored to your interests and purchase history.
+  * Personalize your online experience with content, advertisements and offers that are tailored to your interests and purchase history.
   * Provide customer service, whether it’s responding to a request or following up on an order.
   * Include you in surveys and contests.
   * Enable you to post your content, such as comments or images.
   * Facilitate networks of online social activity centered around our products and services.
   * Improve our Website, improve the manner in which offers are made on our Website, improve purchase decisions of our visitors and the interactions that visitors have with our Website.
   * Enable you to interact with third—party content service providers, whether by linking to their sites, viewing their content within our Web environment, or by viewing our content within their Web environment.
-  * Market products and services for our brand—for instance, by adding you to the La Senza email list when you make an online purchase.
+  * Market products and services for our brand—for instance, we may add you to the La Senza email list when you make an online purchase or sign-up to receive emails. We may also use this information (such as your email address) to display tailored online advertisements (such as banner ads) on Websites you visit.
 
 
 
@@ -54,9 +54,11 @@ To better understand what you do while on our site, we use a browser feature kno
 
 We also use clear—gifs (also known as a Web beacon or Web bug) on our Website and in our emails. A clear gif is a nearly invisible pixel—sized graphic image on a Web page, Web—based document or e—mail message. It helps us do things like view the URL of the page on which the clear gif appears and the time our Website or email in question is viewed. Clear gifs in emails help us confirm the receipt of, and response to, our emails, including those that you forward to friends and family; and they help deliver a more personalized online experience. These technologies may be used to help us see which of our interactive experiences online users like most—for example, by keeping track of the number of times a video, widget or other media is accessed or embedded on social networking sites; and on which social networking sites it is embedded, based on inquiries that are sent to our Website. Cookies and clear gifs also allow us to associate your online navigational information, or purchases and interactions (both online and offline), with any personal information you provide (such as name, address, phone number, survey responses, and email address). We’ll associate this information to deliver products and services to you; to improve our business; to transact business; and to market our products and services on this and other Websites and through a variety of media like email, mobile advertising, and direct mail. As an example, we may use cookies to keep track of what you put into your shopping bag. That can help us contact you if your online session is disrupted in mid—purchase, resulting in an abandoned cart. We can also use this technology to determine whether you’d be interested in participating in special events, given your preferences. The end result is a more personalized experience that’s tailored to your needs and tastes.
 
+For information about your options with respect to cookies, see “What choices do you have over how your information is used?” below.
+
 3\. Information Others Observe or Collect through Technology
 
-Third—party service providers help us provide certain features on our site and analyze our visitor’s site and purchase preferences. They may also help us deliver ads to you about our products through banner ads when you visit other Websites (often referred to as "online network advertising"). The following provides more information about these service providers and the choices you have with respect to their services.
+Third—party service providers help us provide certain features on our site and analyze our visitor’s site and purchase preferences. They may also help us deliver ads to you about our products through banner ads when you visit other Websites (somtimes referred to as "online network advertising"). The following provides more information about these service providers and the choices you have with respect to their services.
 
 > a. Features
 > 
@@ -68,7 +70,7 @@ Third—party service providers help us provide certain features on our site and
 > 
 > c. Advertising
 > 
-> We contract with third—party advertising companies which may, in turn (1) place, use, and rely on, cookies and Web beacons when you interact with us through our Websites and our email; (2) help us determine which of our products you may like, based on both your online and offline (e.g., in—store) shopping histories with us; (3) use your basic personal information (such as name, address and email address) to help us associate your online and stores purchases and interactions through and with us; and (4) deliver personalized online display and banner advertising to you on other Websites, based on those purchases and interactions. If you’d like more information about how online network advertising works and what your choices are for the information that’s collected via these third—party cookies, please see What Choices do You have Over how Your Information is Used?
+> We contract with third—party advertising companies which may, in turn (1) place, use, and rely on, cookies and Web beacons when you interact with us through our Websites and our email to obtain information about customer interactions with us; (2) help us determine which of our products you may like, based on both your online and offline (e.g., in—store) shopping histories with us; (3) use your basic personal information (such as name, address and email address) to help us associate your online and stores purchases and interactions through and with us; and (4) deliver personalized online display and banner advertising to you on our Website and other Websites including social media Websites,, based on those purchases and interactions. If you’d like more information about how online network advertising works and what your choices are for the information that’s collected via these third—party cookies, please see What Choices do You have Over how Your Information is Used?
 
 ## How does this Website interact with third—party Websites and content?
 
@@ -110,7 +112,7 @@ In the event we sell or transfer all or a portion of our business assets, includ
 
 1\. Email
 
-If you’re receiving La Senza commercial email, you may stop future delivery by following the removal instructions located at the bottom of each email or by completing the removal from e—mail form. Opting out of any of these emails will not stop operational or transactional messages such as email confirmations of your online orders, or customer service communications from the brand or line of business in question. We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we’ll share your e—mail address with the specific third party in question. Please review their privacy policies to see how they treat your personal information.
+If you’re receiving La Senza commercial email, you may stop future delivery by following the removal instructions located at the bottom of each email or by completing the removal from e—mail form. Opting out of any of these emails will not stop operational or transactional messages such as password-reset or account related information from the brand or line of business in question. We may occasionally provide you with the opportunity to opt in to receive email messages from third parties. If you do opt in, we’ll share your e—mail address with the specific third party in question. Please review their privacy policies to see how they treat your personal information.
 
 2\. Mobile Messaging
 
@@ -118,11 +120,11 @@ If you’ve signed up for mobile text messaging offers but later decide you no l
 
 3\. Cookies, Clear Gifs, and Online Network Advertising
 
-You may always choose to block cookies or even clear cookies from your computer. Simply follow your browser’s instructions on how to block and clear cookies. Note that blocking cookies may not block the "first—party" cookies that are placed on your computer when you visit this site. By first—party cookies, we mean those cookies (whether placed by us or a contractor) that help us see how visitors use our site, and enable us to deliver our ads on our Websites and other Websites. Otherwise, clearing cookies after each visit here will prevent observations from multiple sessions being aggregated over time. Please consider the consequences of blocking or clearing cookies. Many Websites rely on their cookies to provide you with services or features that you have requested or expect. If you decide to block cookies, you may not be able to take advantage of all the features offered on our Website. With respect to cookies used as part of a survey, if you do not want the use of cookies to associate survey responses with your behavior on the site, you can elect to not take the survey. If you want to opt out of the display of our online advertising, which appears on other Websites, and which is based on the association of your online information with your offline information through interactions with us (purchase information, in particular), then please click the preference icon that may appear on such advertising. Additionally, if you want more information about online network advertising, in general, including access to some online network advertisers that allow you to designate your preferences, click here (you’ll then leave this site for a centrally managed online site where you may specify your preferences).
+You may always choose to block cookies or even clear cookies from your computer. Simply follow your browser’s instructions on how to block and clear cookies. Note that blocking cookies may not block the "first—party" cookies that are placed on your computer when you visit this site. By first—party cookies, we mean those cookies (whether placed by us or a contractor) that help us see how visitors use our site, and enable us to deliver our ads on our Websites and other Websites. Otherwise, clearing cookies after each visit here will prevent observations from multiple sessions being aggregated over time. Please consider the consequences of blocking or clearing cookies. Many Websites rely on their cookies to provide you with services or features that you have requested or expect. If you decide to block cookies, you may not be able to take advantage of all the features offered on our Website. With respect to cookies used as part of a survey, if you do not want the use of cookies to associate survey responses with your behavior on the site, you can elect to not take the survey. If you want to opt out of the display of our online advertising, which appears on other Websites, and which is based on the association of your online information with your offline information through interactions with us (purchase information, in particular), then please click the preference icon that may appear on such advertising. Additionally, if you want more information about online network advertising, in general, including access to some online network advertisers that allow you to designate your preferences, [click here](http://youradchoices.ca/choices%20) (you’ll then leave this site for a centrally managed online site where you may specify your preferences).
 
 ## How do you update your personal information?
 
-We prefer to keep your personal information accurate and up—to—date. You may update or modify your billing— and shipping—related information, and other account information, by logging onto our site (e.g., Your Account on La Senza).
+We prefer to keep your personal information accurate and up—to—date. You may update or modify your billing— and shipping—related information, and other account information, by logging onto our site (e.g., Your Account on the La Senza Website).
 
 ## How do you access your personal information?
 
@@ -151,9 +153,9 @@ If you have general questions about our Privacy Policy, or the manner in which w
 
 2\. Specific Questions about this Policy
 
-For specific questions, concerns, or complaints contact our Associate Vice President (AVP) of Legal and Compliance Services, who administers this policy. You may contact this person by letter or email at:
+For specific questions, concerns, or complaints contact our Vice President (VP) of Legal and Compliance Services, who administers this policy. You may contact this person by letter or email at:
 
-> AVP, Privacy Legal & Compliance Services L Brands, Inc.  
+> VP, Privacy Legal & Compliance Services L Brands, Inc.  
 >  3 Limited Parkway  
 >  Columbus, OH 43230  
 >  US  
@@ -163,7 +165,7 @@ For specific questions, concerns, or complaints contact our Associate Vice Presi
 
 If you’re concerned about how your personal information is used, please visit our site often for this and other important announcements about LaSenza.com.
 
-This Privacy Statement is effective April 15, 2013.
+This Privacy Statement is effective October 14, 2014.
 
 ## California Privacy Rights
 
