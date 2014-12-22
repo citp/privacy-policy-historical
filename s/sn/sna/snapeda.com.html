@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the snapeda.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625051858id_/http%3A//www.snapeda.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapeda.com privacy policy that was archived on 2014-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222154948id_/http%3A//www.snapeda.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="en-us" lang="en-us"><head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Welcome to SnapEDA, a global community for electronic design that helps engineers move from idea to prototype faster." <meta="" http-equiv="Content-Type">
+    <meta name="description" content="Welcome to SnapEDA, a collaborative CAD library and community for electronic design.">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 	<title>
         
@@ -22,7 +23,21 @@
             <link rel="stylesheet" href="http://snapeda.s3.amazonaws.com/pinax/css/reset.css">
             <link rel="stylesheet" href="http://snapeda.s3.amazonaws.com/pinax/css/bootstrap/less/bootstrap.css">
             <!--Scripts -->
-            <script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/HzxHZM4prTV9vHG3ddc7GQ.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+            <script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/HzxHZM4prTV9vHG3ddc7GQ.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">
+		  WebFontConfig = {
+		    google: { families: [ 'Roboto+Condensed:400,300,700:latin' ] }
+		  };
+		  (function() {
+		    var wf = document.createElement('script');
+		    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+		      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+		    wf.type = 'text/javascript';
+		    wf.async = 'true';
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(wf, s);
+		  })();
+	    </script>
+            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
             <script type="text/javascript">
             if (typeof jQuery == 'undefined') {
                 document.write(unescape("%3Cscript src='http://snapeda.s3.amazonaws.com/js/jquery-1.7.2.min.js' type='text/javascript'%3E%3C/script%3E"));
@@ -58,6 +73,8 @@ UserVoice.push(['showTab', 'classic_widget', {
 
 <link href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet" type="text/css">
 
+<link rel="stylesheet" href="http://snapeda.s3.amazonaws.com/pinax/fonts/font-awesome-4.1.0/css/font-awesome.min.css">
+
 <!-- Opera Speed Dial Favicon -->
   <link rel="icon" type="image/png" href="http://snapeda.s3.amazonaws.com/pinax/images/SnapEDAIcon.png">
 
@@ -72,6 +89,9 @@ UserVoice.push(['showTab', 'classic_widget', {
 
 <!-- For iPhone: -->
   <link rel="apple-touch-icon-precomposed" href="http://snapeda.s3.amazonaws.com/pinax/images/SnapEDAIcon.png">
+  
+
+    
 
 <!-- <link rel="stylesheet" href="http://snapeda.s3.amazonaws.com/css/reset_tabs.css"
 />
@@ -130,14 +150,49 @@ UserVoice.push(['showTab', 'classic_widget', {
 
 	}
 
+
+    /*function toggle_header_info(){
+       // alert( "Handler for .click() called." );
+       // $( "#collapse-menu" ).toggle( "slow", function() {
+            // Animation complete.
+        //  });
+        $('#header-info').css('height','auto');
+    }*/
+
 	</script>
+    
+
+    <style type="text/css">
+        .nav-collapse-item{
+            color: #5A5A5A;
+            text-decoration: none;
+        }
+
+        .nav-collapse-item:hover{
+            color: #FF9326;
+            text-decoration: none;
+        }
+
+        .nav-collapse .nav > li > a, .nav-collapse .dropdown-menu a{
+            /* background: yellow; */
+            /* text-align: center; */
+            color: #5A5A5A;
+            font-weight: 400;
+            /*float: left;*/
+        }
+
+        .nav-collapse .nav > li > a:hover, .nav-collapse .dropdown-menu a:hover{
+            color: #FF9326;
+            background: white;
+        }
+    </style>
     </head>
 
 <body class="">
         <div id="wrapper">
             <div class="navbar" style="margin-bottom:0px;">
 			
-<div class="navbar-innerhome">
+<div class="navbar-innerhome" style="background-color: white;border-radius: 0;box-shadow: none;border-bottom-style: solid;border-bottom-width: thin;border-bottom-color: lightgray;">
 
                     <div class="container" style="width: auto;">
                         <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -146,20 +201,26 @@ UserVoice.push(['showTab', 'classic_widget', {
                             <span class="icon-bar"></span>
                         </a>
 
-<a class="brand" href="/"><img src="http://snapeda.s3.amazonaws.com/pinax/images/logo_small_55.png " alt="Snapeda" width="204" height="55"></a>
 
+<a class="brand visible-desktop" href="/"><img src="http://snapeda.s3.amazonaws.com/pinax/images/logo_small_55.png " alt="Snapeda" width="204" height="55"></a>
+<a class="brand visible-tablet" href="/"><img src="http://snapeda.s3.amazonaws.com/pinax/images/logo_small_55.png " alt="Snapeda" width="204" height="55"></a>
+<a class="brand visible-phone" style="margin-top:6px;" href="/"><img src="http://snapeda.s3.amazonaws.com/pinax/images/logo_small_55.png " alt="Snapeda" width="160"></a>
 
-
+                    
+		<!-- <form class="navbar-search pull-right search-query" value = "" action="/search/?q=" style="line-height:25px;display: inline-flex;padding-left: 0;padding-right: 0;width: 140px;position: absolute;margin-right: 20%;right: 0px;" onsubmit="return validateEntry();">
+                                <input type="text" id="navbarsearch" class="search-query span2" style="border-radius:14px 14px 14px 14px;" name = "q" placeholder="Search for Parts">
+                                <i class="icon-search icon-white" onclick="document.forms.search.submit();" style="margin-top:8px;width:20px;"></i>
+                                &nbsp;&nbsp;&nbsp;
+                            </form> -->
 
                         
 
 
 
 
-                        <div class="nav-collapse">
+                        
+                        <div class="nav-collapse" style="z-index:10; margin-top:2px;">
                             
-<ul class="nav" style="color:white;padding-top:7px;"><li id="tab_product_library"><a style="font-size:14px;color:white;" href="/parts/">PARTS LIBRARY</a></li><li id="community"><a style="font-size:14px;color:white;" href="/profiles/">BROWSE COMMUNITY&nbsp;<span class="badge">573</span></a></li><li id="blog"><a style="font-size:14px;color:white;" href="http://blog.snapeda.com">BLOG</a></li></ul>
- 
  
  
  
@@ -168,24 +229,83 @@ UserVoice.push(['showTab', 'classic_widget', {
 
 
 <ul class="nav" style="float:right;">
-    <a href="/account/signup/" class="btn btn-warning">Sign Up Free</a>
+    <a href="/account/signup/" class="btn nav-item-link">Sign Up</a>
 </ul>
-<ul class="nav pull-right">
-    <a href="/account/login/" class="btn btn-info">Log In</a>
+<ul class="orange-button pull-right" style="margin-top:19px;width:70px;height:45px;padding:0px;height:29px;">
+    <a href="/account/login/" class="btn nav-item-link" style="margin-top:9px;line-height:0px;">Log In</a>
 </ul>
  
 
+<script type="text/javascript">
+    $('#notification').click(function() {
+      $( "#notification-menu" ).toggle( "slow", function() {
+        // Animation complete.
+      });
+    });
 
-							
-							
-                <form class="navbar-search pull-right search-query" value="" action="/search/?q=" style="line-height:50px;" onsubmit="return validateEntry();">
-                                <input type="text" id="navbarsearch" class="search-query span2" style="border-radius:14px 14px 14px 14px;" name="q" placeholder="Search for Parts">
-                                <i class="icon-search icon-white" onclick="document.forms.search.submit();"></i>
-                                &nbsp;&nbsp;&nbsp;
-                </form>
-            
+    $('#profile-section').click(function() {
+      $( "#profile-section-menu" ).toggle( "slow", function() {
+        // Animation complete.
+      });
+    });
 
+    $(".orange-button").hover(
+          function () {
+
+            $(this).css('color', 'white');
+
+            $(this).css('background', '#FFB566'); 
+
+            $(this).css('text-decoration','initial');
+
+          },
+          function () {
+
+            $(this).css('color', 'white'); 
+
+            $(this).css('background', '#FF9326'); 
+          }
+  );
+</script>
+
+<style type="text/css">
+    .nav-item-link{
+        font-size: 14px;
+        color: #5A5A5A;
+        text-decoration: none;
+        background: none;
+        border: none;
+        box-shadow: none;
+    }
+
+    .nav-item-link:hover{
+        color: #FF9326;
+        text-decoration: none;
+        background: none;
+    }
+
+    .orange-button{
+      color: white;
+      background: #FF9326;
+      border-radius: 10px;
+      font-size: 25px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-right: 20px;
+      padding-left: 20px;
+      cursor: pointer;
+      border: none;
+    }
+</style>
+
+                            
+<div class="visible-desktop"><ul class="nav" style="color:#5A5A5A;margin-top: 4px;float: right;"><li id="tab_blog"><a style="font-size:14px;margin-left: 29px;" class="nav-collapse-item" href="http://blog.snapeda.com">Blog</a></li><li id="tab_team"><a style="font-size:14px;margin-left: 29px;" class="nav-collapse-item" href="/about">About</a></li></ul><form class="navbar-search search-query" value="" action="/search/?q=" style="left:10%;margin: 20px 0px 0 0;box-shadow: none;border: none;padding:0;" onsubmit="return validateEntry();"><input type="text" id="navbarsearch" class="search-query" style="border-radius:14px 14px 14px 14px;box-shadow: none; width: 130px;color: #5A5A5A;" name="q" placeholder="Search for Parts"><button style="background: none;border: none;color: #5A5A5A;vertical-align: text-bottom;" tabindex="-1"><i class="fa fa-search"></i></button>
+                                            &nbsp;&nbsp;&nbsp;
+                                        </form></div><div class="visible-phone visible-tablet" style="margin-bottom:20px;"><ul class="nav" style="color:#5A5A5A;"><li id="tab_blog"><a style="font-size:14px;width: 30px;float: left;" class="nav-collapse-item" href="http://blog.snapeda.com">Blog</a></li><li id="tab_team"><a style="font-size:14px;width: 30px;float: left;" class="nav-collapse-item" href="/about">About</a></li></ul><br style="clear:right"></div>
+ 
+							
                         </div>
+                    
                         <!-- /.nav-collapse -->
                     </div>
                 </div>
@@ -299,69 +419,46 @@ UserVoice.push(['showTab', 'classic_widget', {
         <div id="footer">
           
 
-<div id="footer-inner" class="row-fluid align-center visible-desktop">
+<div id="footer-inner" class="row-fluid align-center visible-desktop" style="background: lightgray;
+box-shadow: none;padding: 21px 0;">
     <div class="row-fluid">
-        <div id="legal" class="span8" style="margin-left:14%;text-align:center;">
-            <span style="color:#ff761a">© 2013 SnapEDA</span> -
-            <a href="/about/">ABOUT</a>
-            -
-            <a href="/about/team/">TEAM</a>
-            -
-            <a href="/about/terms/">TERMS OF SERVICE</a>
-            -
-            <a href="/about/privacy/">PRIVACY POLICY</a>
-            -
-            <a href="http://blog.snapeda.com"> BLOG </a>
-            -
-            <a href="/about/FAQ">FAQ</a>
+        <div id="legal" class="span8" style="margin-left: 20px;text-align: left;width: initial;">
+            <span style="color:rgb(121, 121, 121);">© 2014 SnapEDA</span>
+            <a style="margin-left: 10px;" href="/about/#contact_us">Contact Us</a>
+            
+            <a style="margin-left: 20px;" href="/about/team/">About</a>
+            
+            <a style="margin-left: 20px;" href="/about/terms/">Terms of Service</a>
+            
+            <a style="margin-left: 20px;" href="/about/privacy/">Privacy Policy</a>
+            
+            <a style="margin-left: 20px;" href="/about/FAQ">FAQ</a>
         </div>
  <div width="18%" style="display:inline;float:right;">
-		
+		<span style="float:right;margin-right:20px;color:rgb(90, 90, 90);"> Follow Us <a href="https://www.linkedin.com/company/snapeda"><i style="margin-left:10px;font-size: 17px;" class="fa fa-linkedin-square"></i></a><a href="https://twitter.com/Snap_EDA"><i style="margin-left:10px;font-size: 17px;" class="fa fa-twitter"></i></a><a href="https://www.facebook.com/pages/SnapEDA/393047664096498"><i style="margin-left:10px; margin-right:10px;font-size: 17px;" class="fa fa-facebook"></i></a></span>
 		</div>
 		</div>
 
  </div>
-<div id="footer-inner" class="row-fluid align-center visible-phone">
+<div id="footer-inner" class="row-fluid align-center visible-tablet visible-phone" style="background: lightgray;
+box-shadow: none;padding-bottom: 30px;">
     <div class="row-fluid">
-        <div id="legal" class="span8" style="margin-left:0%;text-align:center;">
-            <span style="color:#ff761a">© 2013 SnapEDA</span> -
-            <a href="/about/">ABOUT</a>
-            -
-            <a href="/about/team/">TEAM</a>
-            -
-            <a href="/about/terms/">TERMS OF SERVICE</a>
-            -
-            <a href="/about/privacy/">PRIVACY POLICY</a>
-            -
-            <a href="http://blog.snapeda.com"> BLOG </a>
-            -
-            <a href="/about/FAQ">FAQ</a>
-        </div>
- <div width="18%" style="display:inline;float:center;">
-    <br>
-        <span style="float:center;margin-right:0px;"> Powered by <img src="http://snapeda.s3.amazonaws.com/pinax/images/company_logos/octopart.png"></span>
-        </div>
-        </div>
-
- </div>
-<div id="footer-inner" class="row-fluid align-center visible-tablet">
-    <div class="row-fluid">
-        <div id="legal" class="span8" style="margin-left:14%;text-align:center;">
-            <span style="color:#ff761a">© 2013 SnapEDA</span> -
-            <a href="/about/">ABOUT</a>
-            -
-            <a href="/about/team/">TEAM</a>
-            -
-            <a href="/about/terms/">TERMS OF SERVICE</a>
-            -
-            <a href="/about/privacy/">PRIVACY POLICY</a>
-            -
-            <a href="http://blog.snapeda.com"> BLOG </a>
-            -
-            <a href="/about/FAQ">FAQ</a>
+        <div id="legal" class="span8" style="margin-left: 20px;text-align: left;width: initial;margin-right: 20px;margin-bottom: 8px;">
+            <span style="color:rgb(121, 121, 121);">© 2014 SnapEDA</span>
+            <a style="margin-left: 10px;" href="/about/#contact_us">Contact Us</a>
+            
+            <a style="margin-left: 20px;" href="/about/team/">About</a>
+            
+            <a style="margin-left: 20px;" href="/about/terms/">Terms of Service</a>
+            
+            <a style="margin-left: 20px;" href="/about/privacy/">Privacy Policy</a>
+            
+            <a style="margin-left: 20px;" href="http://blog.snapeda.com"> Blog </a>
+            
+            <a style="margin-left: 20px;" href="/about/FAQ">FAQ</a>
         </div>
  <div width="18%" style="display:inline;float:right;">
-        <span style="float:right;margin-right:20px;"> Powered by <img src="http://snapeda.s3.amazonaws.com/pinax/images/company_logos/octopart.png"></span>
+        <span style="float:right;margin-right:20px;color:rgb(90, 90, 90);"> Follow Us <a href="https://www.linkedin.com/company/snapeda"><i style="margin-left:10px;font-size: 17px;" class="fa fa-linkedin-square"></i></a><a href="https://twitter.com/Snap_EDA"><i style="margin-left:10px;font-size: 17px;" class="fa fa-twitter"></i></a><a href="https://www.facebook.com/pages/SnapEDA/393047664096498"><i style="margin-left:10px; margin-right:10px;font-size: 17px;" class="fa fa-facebook"></i></a></span>
         </div>
         </div>
 
