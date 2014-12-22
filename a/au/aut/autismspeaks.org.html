@@ -1,10 +1,33 @@
-<!--The following is the downloaded HTML source of the autismspeaks.org privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626164034id_/http%3A//www.autismspeaks.org/about-us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the autismspeaks.org privacy policy that was archived on 2014-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222140204id_/http%3A//www.autismspeaks.org/about-us/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="/sites/default/files/googleanalytics/dc.js?m"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAQAVFBACQcIXVdW"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-	<title>Privacy |  | Autism Speaks</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+				<meta charset="utf-8">
+				<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="/sites/default/files/googleanalytics/dc.js?h"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAQAVFBACQcIXVdW"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+				<meta name="description" content="">
+				<meta name="viewport" content="width=device-width, initial-scale=1">
+
+				<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+				<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+				<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+				<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+				<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+				<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+				<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+				<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+				<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+				<link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+				<link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+				<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+				<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+				<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+				<meta name="msapplication-TileColor" content="#2d89ef">
+				<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+				<title>Privacy |  | Autism Speaks</title>
+
+				<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta property="og:title" content="Privacy">
 <meta property="og:description" content="1. INTRODUCTION
@@ -19,330 +42,723 @@ Autism Speaks,&amp;nbsp; a non-profit 501(c)3 entity, is the nation&amp;#39;s la
 <meta property="og:country-name" content="United States">
 <meta property="og:email" content="contactus@autismspeaks.org">
 <meta property="og:site_name" content="Autism Speaks">
-<link rel="shortcut icon" href="/sites/all/themes/autismspeaks/images/favicon.ico" type="image/x-icon">
 <meta name="description" content="Autism Speaks is dedicated to increasing awareness of autism spectrum disorders, to funding research into the causes, prevention and treatments for autism, and to advocating for the needs of individuals with autism and their families.">
 <meta name="dcterms.description" content="1.">
 <meta name="dcterms.date" content="2012-06-28T00:00:00Z">
 <link rel="canonical" href="http://www.autismspeaks.org/about-us/privacy">
 <meta name="revisit-after" content="1 day">
-	<link type="text/css" rel="stylesheet" media="all" href="http://www.autismspeaks.org/sites/default/files/css/css_2c4c91d2861be52952452a2bc87221d4.css">
-	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/grid16-960.css?m">
-	<!--[if IE 8]>
-	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie8-fixes.css?m" />
-	<![endif]-->
-	<!--[if IE 7]>
-	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie7-fixes.css?m" />
-	<![endif]-->
-	<!--[if lte IE 6]>
-	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/fusion/fusion_core/css/ie6-fixes.css?m"/>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/autismspeaks/css/ie6-fixes.css?m"/>
-	<![endif]-->
-	<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/autismspeaks/css/local.css?m">
-	<script type="text/javascript" src="http://www.autismspeaks.org/sites/default/files/js/js_59a312d01901503cc9017655ce30d4c1.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":false,"slideshowSpeed":2500,"slideshowStart":"","slideshowStop":"","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%"},"fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","google_webfont_loader_api_preloaded":0,"google_webfont_loader_api_setting":{"custom":{"families":["HelveticaNeueMedCond'","HelveticaNeueBold","HelveticaNeueBoldCond","HelveticaNeueBlkCond"],"urls":["http:\/\/www.autismspeaks.org\/sites\/all\/themes\/autismspeaks\/css\/font.css"]}},"extlink":{"extTarget":0,"extClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":0},"getQ":"node\/225","superfish":{"2":{"id":"2","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","autoArrows":false,"dropShadows":false}},"3":{"id":"1","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast","autoArrows":false,"dropShadows":false}}},"disqus":{"url":"http:\/\/www.autismspeaks.org\/about-us\/privacy","title":"Privacy","identifier":"node\/225","shortname":"autismspeaks"}});
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
 
-	var _vis_opt_account_id = 10180;
-	var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
-	document.write('<s' + 'cript src="' + _vis_opt_protocol + 'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='+encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
+				<link type="text/css" rel="stylesheet" media="all" href="http://www.autismspeaks.org/sites/default/files/css/css_d8cf0a9e04a30dc6e1c5f2a2c6586dae.css">
+
+
+				<!--
+				<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,700,400italic|Roboto+Condensed:700">
+				<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic|Oxygen:700">
+				<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,700|Open+Sans+Condensed:700">
+				-->
+
+				<script>
+					WebFontConfig = {
+						custom: { families: ['Roboto Italic', 'Roboto Bold Italic', 'Roboto Bold', 'Roboto Condensed Bold', 'Open Sans', 'Open Sans Italic', 'Open Sans Bold', 'AS Icon'],
+							urls: [ '/sites/all/themes/roots/sprout/css/font.css' ] }
+					};
+					(function() {
+						var wf = document.createElement('script');
+						wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+								'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+						wf.type = 'text/javascript';
+						wf.async = 'true';
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(wf, s);
+					})();
+				</script>
+
+				<!-- Support IE9 color gradients -->
+				<!--[if gte IE 9]>
+					<style type="text/css">
+						.gradient, .input-container, .select-container {
+							 filter: none;
+						}
+					</style>
+				<![endif]-->
+
+				<!-- Do not use flexbox in IE10  -->
+				<script>
+					if (Function('/*@cc_on return document.documentMode===10@*/')()){
+						document.documentElement.className+=' no-flexbox';
+					}
+				</script>
+
+				<script src="/sites/all/themes/roots/sprout/js/vendor/modernizr-2.8.0.min.js"></script>
+
+				<script>
+					Modernizr.load([
+						{
+							test: Modernizr.mq('only all'),
+							nope: '/sites/all/themes/roots/sprout/js/vendor/css3-mediaqueries.js'
+						}
+					]);
+				</script>
+
+<!--
+				<script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+
+				<script>
+					function initialize() {
+						var myLatlng = new google.maps.LatLng(40.747684, -73.984469);
+						var mapOptions = {
+							zoom: 13,
+							center: myLatlng,
+							scrollwheel: false,
+							mapTypeControl: true,
+							mapTypeControlOptions: {
+								style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
+							},
+							zoomControl: true,
+							zoomControlOptions: {
+								style: google.maps.ZoomControlStyle.SMALL
+							}
+						}
+
+						var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+						var contentString = '<div id="content">'+
+								'<div id="siteNotice">'+
+								'</div>'+
+								'<address>'+
+								'<b>Autism Speaks</b> <br>1 East 33rd Street <br>4th Floor <br>New York, NY 10016'+
+								'</address>'+
+								'<p><a target="_blank" href="https://www.google.com/maps/dir//Autism+Speaks,+1+E+33rd+St,+New+York,+NY+10016/@40.747685,-73.984469,17z/data=!4m12!1m3!3m2!1s0x89c259a834517ab7:0x8317176c040b7843!2sAutism+Speaks!4m7!1m0!1m5!1m1!1s0x89c259a834517ab7:0x8317176c040b7843!2m2!1d-73.984469!2d40.747685">Get directions <i class="fa fa-external-link"></i></a></p>'+
+								'</div>';
+
+						var infowindow = new google.maps.InfoWindow({
+							content: contentString
+						});
+
+						var image = '/sites/all/themes/roots/sprout/img/logo-marker.png';
+
+						var marker = new google.maps.Marker({
+								position: myLatlng,
+								map: map,
+								icon: image,
+								title: 'Autism Speaks'
+						});
+						google.maps.event.addListener(marker, 'click', function() {
+							infowindow.open(map,marker);
+						});
+
+						var transitLayer = new google.maps.TransitLayer();
+						transitLayer.setMap(map);
+
+						google.maps.event.addDomListener(window, 'resize', function() {
+							map.setCenter(myLatlng);
+						});
+
+						map.setOptions({
+							draggable: false
+						});
+
+						var dragFlag = false;
+						var start = 0, end = 0;
+
+						function thisTouchStart(e) {
+							dragFlag = true;
+							start = e.touches[0].pageY;
+						}
+
+						function thisTouchEnd() {
+							dragFlag = false;
+						}
+
+						function thisTouchMove(e) {
+							if (!dragFlag) {
+								return;
+							}
+							end = e.touches[0].pageY;
+							window.scrollBy(0,( start - end ));
+						}
+
+						document.getElementById("map-canvas").addEventListener("touchstart", thisTouchStart, true);
+						document.getElementById("map-canvas").addEventListener("touchend", thisTouchEnd, true);
+						document.getElementById("map-canvas").addEventListener("touchmove", thisTouchMove, true);
+					}
+
+					google.maps.event.addDomListener(window, 'load', initialize);
+				</script>
+				
+-->
+
+		</head>
+
+
+		<body class="not-front not-logged-in page-node node-type-page no-sidebars page-about-us-privacy content-type-page content-type-page-view section-about-us om-tools-active roots " data-menu="has-sidebar-menu">
+
+				<a href="/#content" id="skipnav">Skip navigation</a>
+
+				<!--[if lt IE 7]>
+					<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+				<![endif]-->
+
+				<div class="sidebar-menu-helpers">
+					<div class="sidebar-menu-handle">More</div>
+					<div class="sidebar-menu-rail"></div>
+					<div class="sidebar-page-screen"></div>
+				</div>
+
+				<header class="header">
+					<div class="clearfix inner">
+
+						<div class="branding">
+							<h1 class="visuallyhidden"><a href="/">Autism Speaks</a></h1>
+
+							  
+<div class="block-block block">
 	
-//--><!]]>
-</script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=10180&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140626164034id_%2Fhttp%253A%2F%2Fwww.autismspeaks.org%2Fabout-us%2Fprivacy&amp;random=0.828019080265924" type="text/javascript"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-
-	if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol + 'd5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>'); }
-	
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-
-	if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function"){ _vis_opt_top_initialize(); 
-vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); }); }
-	
-//--><!]]>
-</script>
+	<a href="/"><img alt="Autism Speaks logo" src="/sites/default/files/images/logos/logo-large.png"></a>
+</div>
 
 
-    <script type="text/javascript">
-    
+						</div>
 
-    
+						<div class="main-menu-control">
+							<h2 class="visuallyhidden">Touch Navigation</h2>
+							<button type="button" class="menu-button navicon"><i class="icon icon-menu"></i></button>
+							<button type="button" class="hidden menu-button cancel-button"><i class="icon icon-cancel"></i></button>
+						</div>
 
-    
-    </script>
-
-
-
-<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript">stLight.options({publisher: "70c369af-4ebf-4227-b4c3-2a15dbccb5b0", onhover: false}); </script>
-
-</head>
-
-<body id="pid-about-us-privacy" class="not-front not-logged-in page-node node-type-page no-sidebars full-node layout-first-main-last sidebars-split font-size-13 grid-type-960 grid-width-16">
-
-	<div id="page" class="page">
-		<div id="page-inner" class="page-inner">
-			<div id="skip">
-				<a href="#main-content-area">Skip to Main Content Area</a>
-			</div>
-
-			<!-- header-top row: width = grid_width -->
-			<div id="header-top-wrapper" class="header-top-wrapper full-width">
-<div id="header-top" class="header-top row grid16-16">
-<div id="header-top-inner" class="header-top-inner inner clearfix">
-  
-<div id="block-block-71" class="block block-block odd first  grid16-8">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-        <!-- Start Quantcast Marketing Tag -->
-<script type="text/javascript"> 
-_qoptions={qacct:"p-s3P3A861jkAF4",labels:"Privacy"};
-_qoptions.labels="_fp.event.Privacy.autismspeaks.org";
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-s3P3A861jkAF4.gif?labels=_fp.event.Privacy.autismspeaks.org" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast Marketing tag -->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><meta name="google-site-verification" content="qywU42pYLelf-E2OY9Go3lIiCXJmOH8aoVc0c_dfrHQ">    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-  
-<div id="block-ad-48231" class="block block-ad even  last grid16-16">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      
-<div class="advertisement group-tids-48231" id="group-id-tids-48231"><script type="text/javascript" src="http://www.autismspeaks.org/sites/all/modules/ad/serve.php?q=1&amp;t=48231&amp;u=node%2F225&amp;l=about-us%2Fprivacy"></script></div>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /header-top-inner -->
-</div><!-- /header-top -->
-</div><!-- /header-top-wrapper -->
-
-			<!-- header-group row: width = grid_width -->
-			<div id="header-group-wrapper" class="header-group-wrapper full-width">
-				<div id="header-group" class="header-group row grid16-16">
-					<div id="header-group-inner" class="header-group-inner inner clearfix">
-												
-						
 						  
-<div id="block-block-26" class="block block-block odd first grid16-5 logo-block">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <div id="header-site-info" class="header-site-info block">
-<a title="Home" href="/"><img alt="Home" src="/sites/default/files/images/as_blogo_horz_web1.jpg"></a>
-</div>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-  
-<div id="block-ad-22681" class="block block-ad even  top-banner grid16-5">
-  <div class="inner clearfix">
-            <div class="content clearfix">
+<nav class="block-om_maximenu main-menu">
+	
+	
+	<ul class="clearfix">
+		
+		  
+
+   
+  <li id="om-leaf-om-u16-539287385-6" class="om-leaf first leaf-home">   
+    <a class="om-link icon icon-home link-home" href="/"><span class="visuallyhidden">Home</span></a>     
+ 
+ 
+
       
-<div class="advertisement group-tids-22681" id="group-id-tids-22681"><script type="text/javascript" src="http://www.autismspeaks.org/sites/all/modules/ad/serve.php?q=1&amp;t=22681&amp;u=node%2F225&amp;l=about-us%2Fprivacy"></script></div>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
+  </li>
   
-<div id="block-block-6" class="block block-block odd  last signup grid16-6">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <form id="signup" class="header-form" target="_top" method="post" action="http://www.kintera.org/site/c.8hKPL7NMLpJ4G/b.6771099/k.7D7E/eSeaks_Signup_contact_form/apps/ka/ct/contactus.asp?c=8hKPL7NMLpJ4G&amp;b=6771099">
-	<div class="form-item" id="lightbox-item-wrapper">
-		<div id="lightbox-item">Sign-up for e-Speaks Updates</div>
-	</div>
-	<div class="form-item" id="lightbox-email-wrapper">
-		<span class="textfield-wrapper">
-			<span class="textfield-wrapper-inner">
-				<input type="text" name="email" id="email-espeaks" class="lightbox-email form-text" value="EMAIL ADDRESS" autocorrect="off" autocapitalize="off">
-			</span>
-		</span>
-	</div>
-	<div class="form-item" id="lightbox-zip-wrapper">
-		<span class="textfield-wrapper">
-			<span class="textfield-wrapper-inner">
-				<input type="text" name="zip" id="zip-espeaks" class="lightbox-zip form-text" value="ZIP" autocorrect="off" autocapitalize="off">
-			</span>
-		</span>
-</div>
-<input onclick="_gaq.push(['_trackEvent', 'eSpeaks', 'Submit', 'Signup']);" type="image" src="/sites/all/themes/autismspeaks/images/button-submit.gif" class="lightbox-button">
-</form>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
+    
+  
 
-					</div><!-- /header-group-inner -->
-				</div><!-- /header-group -->
-			</div><!-- /header-group-wrapper -->
+  
+		  
 
-			<!-- preface-top row: width = grid_width -->
-			<div id="preface-top-wrapper" class="preface-top-wrapper full-width">
-<div id="preface-top" class="preface-top row grid16-16">
-<div id="preface-top-inner" class="preface-top-inner inner clearfix">
-  
-<div id="block-superfish-2" class="block block-superfish odd first  grid16-8">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <ul id="superfish-2" class="sf-menu sf-menu-primary-menu sf-horizontal sf-style-none sf-total-items-9 sf-parent-items-0 sf-single-items-9"><li id="menu-21286-2" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="/?utm_source=autismspeaks.org&amp;utm_medium=web&amp;utm_campaign=primarymenu" title="" class="sf-depth-1">Home</a></li><li id="menu-21311-2" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="http://www.autismspeaks.org/ways-give?utm_source=autismspeaks.org&amp;utm_content=ways-to-give&amp;utm_medium=menu&amp;utm_campaign=waysgive" title="" class="sf-depth-1">Ways to Give</a></li><li id="menu-21291-2" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/science" title="" class="sf-depth-1">Research</a></li><li id="menu-21296-2" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/family-services" title="" class="sf-depth-1">Family Services</a></li><li id="menu-21301-2" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/what-autism" title="" class="sf-depth-1">What is Autism?</a></li><li id="menu-21306-2" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/advocacy" title="" class="sf-depth-1">Advocacy</a></li><li id="menu-21316-2" class="middle odd sf-item-7 sf-depth-1 sf-no-children"><a href="/events" title="" class="sf-depth-1">Events</a></li><li id="menu-21321-2" class="middle even sf-item-8 sf-depth-1 sf-no-children"><a href="http://www.walknowforautismspeaks.org" title="" class="sf-depth-1">Attend a Walk</a></li><li id="menu-21326-2" class="last odd sf-item-9 sf-depth-1 sf-no-children"><a href="/about-us" title="" class="sf-depth-1">About Us</a></li></ul>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-  
-<div id="block-superfish-1" class="block block-superfish even  last grid16-16">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <ul id="superfish-1" class="sf-menu sf-menu-submenu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-0 sf-single-items-7"><li id="menu-31771-1" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="http://shop.autismspeaks.org?utm_source=autismspeaks.org&amp;utm_content=store&amp;utm_medium=submenu&amp;utm_campaign=waysgive&amp;Click=975" title="" class="sf-depth-1">Merchandise</a></li><li id="menu-21026-1" class="middle even sf-item-2 sf-depth-1 sf-no-children"><a href="/blog" title="" class="sf-depth-1">Blog</a></li><li id="menu-36861-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/ways-give/corporate-sponsors/corporate-partners" title="" class="sf-depth-1">Partners</a></li><li id="menu-21041-1" class="middle even sf-item-4 sf-depth-1 sf-no-children"><a href="/family-services/resource-guide" title="" class="sf-depth-1">Resource Guide</a></li><li id="menu-21036-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="/family-services/tool-kits" title="" class="sf-depth-1">Tool Kits</a></li><li id="menu-27021-1" class="middle even sf-item-6 sf-depth-1 sf-no-children"><a href="/autism-apps" title="" class="sf-depth-1">Autism Apps</a></li><li id="menu-22071-1" class="last odd sf-item-7 sf-depth-1 sf-no-children"><a href="/what-autism/diagnosis/screen-your-child" title="" class="sf-depth-1">Screen Your Child</a></li></ul>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /preface-top-inner -->
-</div><!-- /preface-top -->
-</div><!-- /preface-top-wrapper -->
+   
+  <li id="om-leaf-om-u16-539287385-5" class="om-leaf leaf-families-adults">   
+    <a class="om-link  link-families-adults" href="/family-services">Families &amp; Adults <i class="icon icon-caret-down"></i></a>     
+ 
+	<ul class="submenu">
+		 
 
-			<!-- main row: width = grid_width -->
-			<div id="main-wrapper" class="main-wrapper full-width">
-				<div id="main" class="main row grid16-16">
-					<div id="main-inner" class="main-inner inner clearfix">
-						<div id="sidebar-first" class="sidebar-first row nested grid16-3">
-<div id="sidebar-first-inner" class="sidebar-first-inner inner clearfix">
-  
-<div id="block-menu_block-4" class="block block-menu_block odd first  grid16-3">
-  <div class="inner clearfix">
-            <h2 class="title block-title"><a href="/about-us" title="About Us">About Us</a></h2>
-        <div class="content clearfix">
-      <div class="menu-block-4 menu-name-primary-links parent-mlid-662 menu-level-1">
-  <ul class="menu"><li class="collapsed first menu-mlid-663"><a href="/about-us/mission" title="Mission">Mission</a></li>
-<li class="collapsed menu-mlid-665"><a href="/about-us/board-directors" title="Board Members">Board of Directors</a></li>
-<li class="leaf menu-mlid-664"><a href="/about-us/leadership" title="Leadership">Leadership</a></li>
-<li class="leaf menu-mlid-901"><a href="/news" title="News Link">News</a></li>
-<li class="collapsed menu-mlid-912"><a href="/about-us/press-releases" title="">Press Releases</a></li>
-<li class="leaf menu-mlid-669"><a href="/about-us/annual-reports" title="Annual Reports">Annual Reports</a></li>
-<li class="leaf menu-mlid-885"><a href="/about-us/social-networks" title="Social Networks">Social Networks</a></li>
-<li class="leaf menu-mlid-668"><a href="/about-us/founders-message" title="Founders' Message">Founders' Message</a></li>
-<li class="collapsed menu-mlid-19866"><a href="/about-us/contact-us" title="">Contact Us</a></li>
-<li class="collapsed menu-mlid-22181"><a href="/about-us/media-center" title="Media Center">Media Center</a></li>
-<li class="leaf menu-mlid-24436"><a href="/about-us/web-community-guidelines" title="Web Community Guidelines">Web Community Guidelines</a></li>
-<li class="leaf last menu-mlid-20941"><a href="/about-us/programs" title="Programs">Programs</a></li>
-</ul></div>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-  
-<div id="block-block-1" class="block block-block even  foo grid16-3">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <a class="donate-now one-line" id="donate-now" href="https://secure.autismspeaks.org/site/c.8hKPL7NMLpJ4G/b.8844069/k.C240/Donate.htm?utm_source=autismspeaks.org&amp;utm_medium=button&amp;utm_content=donate-now&amp;utm_campaign=sidebar&amp;msource=DNSB">Donate Now.</a>
-<script>
-/*$(document).ready(function() {
-	$('#donate-now').attr('href', function() {
-		return $(this).attr('href') + '&ref=' + encodeURIComponent($(location).attr('href'));
-	});
-}); */
-</script>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-  
-<div id="block-block-141" class="block block-block odd   grid16-3">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <p><a target="_blank" href="http://mlb.mlb.com/mlb/tickets/autism_awareness.jsp?partnerId=W13S6H411-156IE" onclick="_gaq.push(['_trackEvent', 'side-bar', 'Click', 'MLB-LIUB']);"><img src="http://www.autismspeaks.org/sites/default/files/docs/mlb-graphic_update.jpg"></a></p>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-  
-<div id="block-block-156" class="block block-block even   grid16-3">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <p><a href="http://www.autismspeaks.org/early-access-care" onclick="_gaq.push(['_trackEvent', 'side-bar', 'Click', 'EAC']);"><img src="http://www.autismspeaks.org/sites/default/files/images/eac-block.jpg"></a></p>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-  
-<div id="block-block-3" class="block block-block odd   grid16-3">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <p class="social-networks" style="text-align: center; white-space: nowrap;">
-	<a href="http://www.facebook.com/autismspeaks"><img width="40" height="40" src="/sites/all/themes/autismspeaks/images/icon-facebook-new.png" alt="Facebook"></a>
-	<a href="http://www.twitter.com/autismspeaks"><img alt="Twitter" src="/sites/all/themes/autismspeaks/images/icon-twitter-new.png" style="width: 40px;"></a>
-	<a href="http://www.youtube.com/user/AutismSpeaksVids/"><img width="40" height="40" src="/sites/all/themes/autismspeaks/images/icon-youtube-new.png" alt="YouTube"></a>
-	<a href="https://plus.google.com/+AutismSpeaks"><img width="40" height="40" src="/sites/all/themes/autismspeaks/images/icon-google-plus-new.png" alt="Flickr"></a>
-</p>
-<p style="text-align: center; "><a href="/about-us/social-networks"><img alt="View All Social Networks" src="/sites/all/themes/autismspeaks/images/social-networks-all.gif" style="width: 164px; height: 9px; "></a></p>
-<div style="padding-top: 5px;">
-<a href="http://itunes.apple.com/us/app/autism-speaks/id546330559?mt=8&amp;uo=4%22"><img alt="" border="0" src="http://www.autismspeaks.org/sites/default/files/images/news/app_store_med.png"></a></div>
-<div>
-<a href="https://play.google.com/store/apps/details?id=com.appmakr.app590586&amp;feature=search_result#?t=W251bGwsMSwxLDEsImNvbS5hcHBtYWtyLmFwcDU5MDU4NiJd"><img alt="" border="0" src="http://www.autismspeaks.org/sites/default/files/images/news/get_it_on_play_logo_large.png"></a></div>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-  
-<div id="block-ad-22581" class="block block-ad even  last  grid16-3">
-  <div class="inner clearfix">
-            <div class="content clearfix">
+<li class="block block-views megamenu_feature_large-block_2 first block-views-megamenu_feature_large-block_2">           
+<!--  <h3 class="title">megamenu_feature_large: Block - Families and Adults</h3>-->
       
-<div class="advertisement group-tids-22581" id="group-id-tids-22581"><script type="text/javascript" src="http://www.autismspeaks.org/sites/all/modules/ad/serve.php?q=1&amp;t=22581&amp;u=node%2F225&amp;l=about-us%2Fprivacy"></script></div>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /sidebar-first-inner -->
-</div><!-- /sidebar-first -->
-
-						<!-- main group: width = grid_width - sidebar_first_width -->
-						<div id="main-group" class="main-group row nested grid16-13">
-							<div id="main-group-inner" class="main-group-inner inner">
-								<div id="breadcrumbs" class="breadcrumbs block">
-<div id="breadcrumbs-inner" class="breadcrumbs-inner inner clearfix">
-<div class="breadcrumb"><a href="/section/about-us">About Us</a></div></div><!-- /breadcrumbs-inner -->
-</div><!-- /breadcrumbs -->
-								<div id="preface-bottom" class="preface-bottom row nested ">
-<div id="preface-bottom-inner" class="preface-bottom-inner inner clearfix">
   
-<div id="block-search-0" class="block block-search odd first last  grid16-13">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <form action="/about-us/privacy" accept-charset="UTF-8" method="post" id="search-block-form">
-<div><div class="container-inline">
-  <div class="form-item" id="edit-search-block-form-1-wrapper">
- <label for="edit-search-block-form-1">Search this site: </label>
- <span class="textfield-wrapper"><span class="textfield-wrapper-inner"><input type="text" maxlength="128" name="search_block_form" id="edit-search-block-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text"></span></span>
-</div>
-<input type="image" name="submit" value="Search" id="edit-submit" class="form-submit" src="/sites/all/themes/autismspeaks/images/button-search.gif">
-<input type="hidden" name="form_build_id" id="form-b07QIJ2lG0TieAu5xjTSVio17q1l7RwnIKyThJBT-Vw" value="form-b07QIJ2lG0TieAu5xjTSVio17q1l7RwnIKyThJBT-Vw">
-<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form">
+  
+      <div class="view-content view view-megamenu-feature-large view-id-megamenu_feature_large view-display-id-block_2 feature-large view-dom-id-1">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-feature-image-fid">
+                <span class="field-content"><a href="http://www.autismspeaks.org/news/news-item/your-dollars-work-almost-1200-ipads-awarded-people-autism"><img src="http://www.autismspeaks.org/sites/default/files/imagecache/feature_megamenu_large/images/features/ipad_feature_0.jpg" alt="" title="" width="325" height="183" class="imagecache imagecache-feature_megamenu_large imagecache-default imagecache-feature_megamenu_large_default"></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.autismspeaks.org/news/news-item/your-dollars-work-almost-1200-ipads-awarded-people-autism">Your Dollars @ Work: Almost 1200 iPads Awarded to People with Autism!</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+    </li><!-- /.block -->
+ 
+
+<li class="block block-views megamenu_feature_small-block_5 block-views-megamenu_feature_small-block_5">           
+<!--  <h3 class="title">megamenu_feature_small: Block - Families and Adults</h3>-->
+      
+  
+  
+      <div class="view-content view view-megamenu-feature-small view-id-megamenu_feature_small view-display-id-block_5 feature-small view-dom-id-2">
+      <ul class="clearfix">
+			<li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-field-feature-image-fid">
+                <span class="field-content"><a href="http://www.autismspeaks.org/node/281106"><img src="http://www.autismspeaks.org/sites/default/files/imagecache/feature_megamenu_small/images/features/businesses_feature_0.jpg" alt="" title="" width="164" height="92" class="imagecache imagecache-feature_megamenu_small imagecache-default imagecache-feature_megamenu_small_default"></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.autismspeaks.org/node/281106">Shop A Little, Help A Lot!</a></span>
+  </div>
+</li>
+			<li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field-field-feature-image-fid">
+                <span class="field-content"><a href="http://www.autismspeaks.org/blog/2014/12/19/holiday-road-trips-five-tips-reduce-stress"><img src="http://www.autismspeaks.org/sites/default/files/imagecache/feature_megamenu_small/images/features/road_trip_feature.jpg" alt="" title="" width="164" height="92" class="imagecache imagecache-feature_megamenu_small imagecache-default imagecache-feature_megamenu_small_default"></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.autismspeaks.org/blog/2014/12/19/holiday-road-trips-five-tips-reduce-stress">Holiday Road Trips: Five Tips to Reduce Stress</a></span>
+  </div>
+</li>
+	</ul>    </div>
+  
+  
+  
+  
+  
+    </li><!-- /.block -->
+ 
+
+<li class="block block-menu menu-families-and-adults-megamen block-menu-menu-families-and-adults-megamen">           
+<!--  <h3 class="title">Families &amp; Adults Megamenu</h3>-->
+  <ul class="menu clearfix"><li class="leaf first"><a href="/families-adults">See all Families &amp; Adults</a></li>
+<li class="leaf"><a href="/family-services/adults" title="">Adult Services</a></li>
+<li class="leaf"><a href="/autism-apps" title="">Autism Apps and Technology</a></li>
+<li class="leaf"><a href="/family-services/autism-response-team" title="">Autism Response Team</a></li>
+<li class="leaf"><a href="/family-services/grants" title="">Grants</a></li>
+<li class="leaf"><a href="/family-services/non-english-resources" title="">Non-English Resources</a></li>
+<li class="leaf"><a href="/family-services/resource-guide" title="">Resource Guide</a></li>
+<li class="leaf"><a href="/family-services/resource-library" title="">Resource Library</a></li>
+<li class="leaf"><a href="/wandering-resources" title="">Safety Resources</a></li>
+<li class="leaf last"><a href="/family-services/tool-kits" title="">Tool Kits</a></li>
+</ul>  </li><!-- /.block -->
+ 
+
+<li class="block block-block 316 last block-signup-community-connections">           
+<!--  <h3 class="title">Signup Community Connections</h3>-->
+  <form action="https://secure.autismspeaks.org/site/c.8hKPL7NMLpJ4G/b.7519563/k.3E28/Community_Connections_Sign_Up/apps/ka/ct/contactus.asp?c=8hKPL7NMLpJ4G&amp;b=7519563" method="post">
+	<fieldset>
+		<legend>Get Community Connections</legend>
+		<ol>
+			<li>
+				<label for="community-connections-signup-email" class="visuallyhidden">Email Address</label>
+				<input type="email" placeholder="Email Address" required="required" name="email" id="community-connections-signup-email">
+			</li>
+			<li>
+				<label for="community-connections-signup-zip" class="visuallyhidden">Zip</label>
+				<input type="text" pattern="^(\d{5}-\d{4}|\d{5}|\d{9})$|^([a-zA-Z]\d[a-zA-Z] \d[a-zA-Z]\d)$" placeholder="Zip" required="required" name="zip" id="community-connections-signup-zip">
+			</li>
+		</ol>
+		<button type="submit">Submit</button>
+	</fieldset>
+</form>  </li><!-- /.block -->
+	</ul>
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+		  
+
+   
+  <li id="om-leaf-om-u16-539287385-2" class="om-leaf leaf-research">   
+    <a class="om-link  link-research" href="/research">Research <i class="icon icon-caret-down"></i></a>     
+ 
+	<ul class="submenu">
+		 
+
+<li class="block block-views megamenu_feature_large-block_3 first block-views-megamenu_feature_large-block_3">           
+<!--  <h3 class="title">megamenu_feature_large: Block - Research</h3>-->
+      
+  
+  
+      <div class="view-content view view-megamenu-feature-large view-id-megamenu_feature_large view-display-id-block_3 feature-large view-dom-id-3">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-feature-image-fid">
+                <span class="field-content"><a href="http://www.autismspeaks.org/science/science-news/top-ten-autism-research-stories-2014"><img src="http://www.autismspeaks.org/sites/default/files/imagecache/feature_megamenu_large/images/features/top_ten_stories_in_autism_research_version_2.jpg" alt="" title="" width="325" height="183" class="imagecache imagecache-feature_megamenu_large imagecache-default imagecache-feature_megamenu_large_default"></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.autismspeaks.org/science/science-news/top-ten-autism-research-stories-2014">Top Ten Autism Research Stories of 2014</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+    </li><!-- /.block -->
+ 
+
+<li class="block block-views megamenu_feature_small-block_6 block-views-megamenu_feature_small-block_6">           
+<!--  <h3 class="title">megamenu_feature_small: Block - Research</h3>-->
+      
+  
+  
+      <div class="view-content view view-megamenu-feature-small view-id-megamenu_feature_small view-display-id-block_6 feature-small view-dom-id-4">
+      <ul class="clearfix">
+			<li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-field-feature-image-fid">
+                <span class="field-content"><a href="http://www.autismspeaks.org/blog/2014/12/19/autism-speaks-%E2%80%98got-questions%E2%80%99-advice-column-most-popular-posts-2014"><img src="http://www.autismspeaks.org/sites/default/files/imagecache/feature_megamenu_small/images/features/got-questions-most-popular.jpg" alt="" title="" width="164" height="92" class="imagecache imagecache-feature_megamenu_small imagecache-default imagecache-feature_megamenu_small_default"></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.autismspeaks.org/blog/2014/12/19/autism-speaks-%E2%80%98got-questions%E2%80%99-advice-column-most-popular-posts-2014">Autism Speaks ‘Got Questions?’ Advice Column: Most Popular Posts 2014</a></span>
+  </div>
+</li>
+			<li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field-field-feature-image-fid">
+                <span class="field-content"><a href="http://www.autismspeaks.org/blog/2014/12/22/twelve-year-old-autism-needs-help-slowing-pace-holiday-meals"><img src="http://www.autismspeaks.org/sites/default/files/imagecache/feature_megamenu_small/images/features/holiday_paced_eating_hero.jpg" alt="" title="" width="164" height="92" class="imagecache imagecache-feature_megamenu_small imagecache-default imagecache-feature_megamenu_small_default"></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.autismspeaks.org/blog/2014/12/22/twelve-year-old-autism-needs-help-slowing-pace-holiday-meals">Twelve-year-old with Autism Needs Help Slowing Pace at Holiday Meals</a></span>
+  </div>
+</li>
+	</ul>    </div>
+  
+  
+  
+  
+  
+    </li><!-- /.block -->
+ 
+
+<li class="block block-menu menu-research-megamen block-menu-menu-research-megamen">           
+<!--  <h3 class="title">Research Megamenu</h3>-->
+  <ul class="menu clearfix"><li class="leaf first"><a href="/research" title="">See all Research</a></li>
+<li class="leaf"><a href="/science/grants-program" title="">Apply for Grants &amp; Fellowships</a></li>
+<li class="leaf"><a href="/science/resources-programs/autism-treatment-network" title="">Autism Treatment Network</a></li>
+<li class="leaf"><a href="/science/delsia/home" title="">DELSIA</a></li>
+<li class="leaf"><a href="http://science.grants.autismspeaks.org/search/">Search Grants We've Funded</a></li>
+<li class="leaf"><a href="/science/resources-programs">Find Resources &amp; Programs</a></li>
+<li class="leaf"><a href="/science/participate-in-research">Participate in Research</a></li>
+<li class="leaf"><a href="/science/policy-statements">Policy Statements</a></li>
+<li class="leaf"><a href="/science/professional-development-resources">Professional Development Resources</a></li>
+<li class="leaf"><a href="/wordpress-categories/science">Science Blogs</a></li>
+<li class="leaf"><a href="/science/science-department-leadership">Science Department Leadership</a></li>
+<li class="leaf"><a href="/science/science-news">Science News</a></li>
+<li class="leaf last"><a href="/science/strategic-plan">Strategic Plan for Science</a></li>
+</ul>  </li><!-- /.block -->
+ 
+
+<li class="block block-block 306 last block-signup-science-digest">           
+<!--  <h3 class="title">Signup Science Digest</h3>-->
+  <form class="signup" action="https://secure.autismspeaks.org/site/c.8hKPL7NMLpJ4G/b.8238917/k.7EEC/Science_Digest_Signup_Form/apps/ka/ct/contactus.asp?c=8hKPL7NMLpJ4G&amp;b=8238917" method="post">
+	<fieldset>
+		<legend>Get Science Digest</legend>
+		<ol>
+			<li>
+				<label for="science-digest-signup-email" class="visuallyhidden">Email Address</label>
+				<input type="email" placeholder="Email Address" required="required" name="email" id="science-digest-signup-email">
+			</li>
+			<li>
+				<label for="science-digest-signup-zip" class="visuallyhidden">Zip</label>
+				<input type="text" pattern="^(\d{5}-\d{4}|\d{5}|\d{9})$|^([a-zA-Z]\d[a-zA-Z] \d[a-zA-Z]\d)$" placeholder="Zip" required="required" name="zip" id="science-digest-signup-zip">
+			</li>
+		</ol>
+		<button type="submit">Submit</button>
+	</fieldset>
+</form>  </li><!-- /.block -->
+	</ul>
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+		  
+
+   
+  <li id="om-leaf-om-u16-539287385-3" class="om-leaf leaf-advocate">   
+    <a class="om-link  link-advocate" href="/advocacy">Advocate <i class="icon icon-caret-down"></i></a>     
+ 
+	<ul class="submenu">
+		 
+
+<li class="block block-views megamenu_feature_large-block_4 first block-views-megamenu_feature_large-block_4">           
+<!--  <h3 class="title">megamenu_feature_large: Block - Advocacy</h3>-->
+      
+  
+  
+      <div class="view-content view view-megamenu-feature-large view-id-megamenu_feature_large view-display-id-block_4 feature-large view-dom-id-3">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field-field-feature-image-fid">
+                <span class="field-content"><a href="http://www.autismspeaks.org/advocacy/advocacy-news/obama-signs-able-act-law"><img src="http://www.autismspeaks.org/sites/default/files/imagecache/feature_megamenu_large/images/features/obamakong.jpg" alt="" title="" width="325" height="183" class="imagecache imagecache-feature_megamenu_large imagecache-default imagecache-feature_megamenu_large_default"></a></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.autismspeaks.org/advocacy/advocacy-news/obama-signs-able-act-law">Obama Signs ABLE Act Into Law</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+    </li><!-- /.block -->
+ 
+
+<li class="block block-views megamenu_feature_small-block_1 block-views-megamenu_feature_small-block_1">           
+<!--  <h3 class="title">megamenu_feature_small: Block - Advocacy</h3>-->
+      
+  
+  
+      <div class="view-content view view-megamenu-feature-small view-id-megamenu_feature_small view-display-id-block_1 feature-small view-dom-id-2">
+      <ul class="clearfix">
+			<li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field-field-feature-image-fid">
+                <span class="field-content"><img src="http://www.autismspeaks.org/sites/default/files/imagecache/feature_megamenu_small/images/features/podcast_60kong.jpg" alt="" title="" width="164" height="92" class="imagecache imagecache-feature_megamenu_small imagecache-default imagecache-feature_megamenu_small_default"></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.autismspeaks.org/advocacy/advocacy-news/60-minutes-spotlights-insurance-denials-mental-health">'60 Minutes' Spotlights Insurance Denials For Mental Health</a></span>
+  </div>
+</li>
+			<li class="views-row views-row-2 views-row-even views-row-last">  
+  <div class="views-field-field-feature-image-fid">
+                <span class="field-content"><img src="http://www.autismspeaks.org/sites/default/files/imagecache/feature_megamenu_small/images/features/medicaidkong_0.jpg" alt="" title="" width="164" height="92" class="imagecache imagecache-feature_megamenu_small imagecache-default imagecache-feature_megamenu_small_default"></span>
+  </div>
+  
+  <div class="views-field-title">
+                <span class="field-content"><a href="http://www.autismspeaks.org/advocacy/advocacy-news/dollars-and-doctors-medicaid-shrink-enrollment-grows">Dollars And Doctors For Medicaid Shrink As Enrollment Grows</a></span>
+  </div>
+</li>
+	</ul>    </div>
+  
+  
+  
+  
+  
+    </li><!-- /.block -->
+ 
+
+<li class="block block-menu menu-advocacy-megamenu block-menu-menu-advocacy-megamenu">           
+<!--  <h3 class="title">Advocacy Megamenu</h3>-->
+  <ul class="menu clearfix"><li class="leaf first"><a href="/advocacy" title="">See All Advocacy</a></li>
+<li class="leaf"><a href="/advocacy/about-us" title="">About Us</a></li>
+<li class="leaf"><a href="/advocacy/beyond-the-beltway" title="">Beyond the Beltway</a></li>
+<li class="leaf"><a href="/advocacy/federal" title="">Federal Initiatives</a></li>
+<li class="leaf"><a href="/state-initiatives" title="">State Initiatives</a></li>
+<li class="leaf"><a href="http://advocacy.autismspeaks.org/c.frKNI3PCImE/b.3932687/k.F652/Find_My_Legislators/siteapps/advocacy/search.aspx" title="">Find My Legislators</a></li>
+<li class="leaf"><a href="/advocacy/insurance" title="">Insurance</a></li>
+<li class="leaf last"><a href="/legal-resource-center" title="">Legal Resource Center</a></li>
+</ul>  </li><!-- /.block -->
+ 
+
+<li class="block block-block 311 last block-signup-advocacy">           
+<!--  <h3 class="title">Signup Advocacy</h3>-->
+  <form class="signup" action="http://www.kintera.org/site/c.frKNI3PCImE/b.3936561/k.A395/Stay_informed/apps/ka/ct/contactus.asp?c=frKNI3PCImE&amp;b=3936561" method="post">
+	<fieldset>
+		<legend>Register with Autism Votes</legend>
+		<ol>
+			<li>
+				<label for="advocacy-signup-email" class="visuallyhidden">Email Address</label>
+				<input type="email" placeholder="Email Address" required="required" name="email" id="advocacy-signup-email">
+			</li>
+			<li>
+				<label for="advocacy-signup-zip" class="visuallyhidden">Zip</label>
+				<input type="text" pattern="^(\d{5}-\d{4}|\d{5}|\d{9})$|^([a-zA-Z]\d[a-zA-Z] \d[a-zA-Z]\d)$" placeholder="Zip" required="required" name="zip" id="advocacy-signup-zip">
+			</li>
+		</ol>
+		<button type="submit">Submit</button>
+	</fieldset>
+</form>  </li><!-- /.block -->
+	</ul>
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+		  
+
+   
+  <li id="om-leaf-om-u16-539287385-4" class="om-leaf last leaf-get-involved">   
+    <a class="om-link  link-get-involved" href="/get-involved">Get Involved <i class="icon icon-caret-down"></i></a>     
+ 
+	<ul class="submenu">
+		 
+
+<li class="block block-menu menu-get-involved-featured first block-menu-menu-get-involved-featured">           
+<!--  <h3 class="title">Get Involved Featured</h3>-->
+  <ul class="menu clearfix"><li class="leaf first"><a href="http://goo.gl/Vz6Wz3" class="ir find-a-walk">Find A Walk Near You</a></li>
+<li class="leaf"><a href="http://goo.gl/1Ms2SQ" class="ir attend-an-event">Attend an Event</a></li>
+<li class="leaf"><a href="http://goo.gl/9GgMzM" class="ir corporate-partners">Support Our Corporate Partners</a></li>
+<li class="leaf last"><a href="http://goo.gl/K9RVoO" class="ir advocate">Advocate In Your State</a></li>
+</ul>  </li><!-- /.block -->
+ 
+
+<li class="block block-menu menu-get-involved-megamenu block-menu-menu-get-involved-megamenu">           
+<!--  <h3 class="title">Get Involved Megamenu</h3>-->
+  <ul class="menu clearfix"><li class="leaf first"><a href="/ways-give/corporate-sponsors-guidelines" title="">Become a Corporate Partner</a></li>
+<li class="leaf"><a href="http://bit.ly/1lfgTEP" title="">Donate in Someone’s Honor</a></li>
+<li class="leaf"><a href="http://events.autismspeaks.org/faf/search/searchTeam.asp?ievent=272001&amp;lis=1" title="">Find a Tribute Page</a></li>
+<li class="leaf"><a href="http://fundraise.autismspeaks.org/Markslist/home.do?utm_source=autismspeaks.org&amp;utm_medium=text-link&amp;utm_content=create-an-event" title="">Fundraise Your Way</a></li>
+<li class="leaf"><a href="http://events.autismspeaks.org/site/c.nuLTJ6MPKrH/b.8760443/k.BDB5/Home.htm">Join Autism Speaks U</a></li>
+<li class="leaf"><a href="http://www.autismspeaks.org/ways-give?utm_source=autismspeaks.org&amp;utm_content=ways-to-give&amp;utm_medium=menu&amp;utm_campaign=waysgive" title="">Other Ways to Give</a></li>
+<li class="leaf"><a href="http://events.autismspeaks.org/site/apps/kd/eventcentral.asp?c=rtK2KfMSKsG&amp;b=7800731" title="">Run, Ride, Tri With Us</a></li>
+<li class="leaf last"><a href="http://bit.ly/1lfgYIF" title="">Start a Tribute Page</a></li>
+</ul>  </li><!-- /.block -->
+ 
+
+<li class="block block-block 321 last block-signup-e-speaks">           
+<!--  <h3 class="title">Signup e-Speaks</h3>-->
+  <form class="signup" action="https://secure.autismspeaks.org/site/c.8hKPL7NMLpJ4G/b.6771099/k.9566/eSpeaks_Signup/apps/ka/ct/contactus.asp?c=8hKPL7NMLpJ4G&amp;b=6771099" method="post">
+	<fieldset>
+		<legend>Get e-Speaks</legend>
+		<ol>
+			<li>
+				<label for="espeaks-signup-email" class="visuallyhidden">Email Address</label>
+				<input type="email" placeholder="Email Address" required="required" name="email" id="espeaks-signup-email">
+			</li>
+			<li>
+				<label for="espeaks-signup-zip" class="visuallyhidden">Zip</label>
+				<input type="text" pattern="^(\d{5}-\d{4}|\d{5}|\d{9})$|^([a-zA-Z]\d[a-zA-Z] \d[a-zA-Z]\d)$" placeholder="Zip" required="required" name="zip" id="espeaks-signup-zip">
+			</li>
+		</ol>
+		<button type="submit">Submit</button>
+	</fieldset>
+</form>  </li><!-- /.block -->
+	</ul>
+ 
+
+      
+  </li>
+  
+    
+  
+
+  
+
+
+	</ul>
+
+</nav>
+
+
+						<div class="audience">
+							<span class="label">By age</span>
+							<div class="select-container">
+								<button type="button">select <i class="icon icon-user"></i><i class="icon icon-caret-down"></i></button>
+
+								  
+<nav class="block-menu menu-menu-audience menu">
+	
+	<ul class="menu clearfix"><li class="leaf first"><a href="/audience/adults" title="Adults
+">Adults</a></li>
+<li class="leaf"><a href="/audience/school-age-children" title="School Age Children
+">School Age Children</a></li>
+<li class="leaf"><a href="/audience/transition-age" title="Transition Age
+">Transition Age</a></li>
+<li class="leaf last"><a href="/audience/young-children" title="Young Children
+">Young Children</a></li>
+</ul>
+</nav>
+
+
+							</div>
+						</div>
+
+						<div class="search">
+							<h2 class="visuallyhidden">Search</h2>
+
+							<div class="search-control">
+								<h3 class="visuallyhidden">Mobile Search</h3>
+								<button type="button" class="search-button"><i class="icon icon-search"></i></button>
+								<button type="button" class="hidden cancel-button"><i class="icon icon-cancel"></i></button>
+							</div>
+
+							<form action="/about-us/privacy" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline">
+  <div class="input-container"><input type="search" placeholder="Search" name="search_theme_form" id="edit-search-theme-form-1" data-role="none"><button class="searchicon" type="submit" name="op" data-role="none"><i class="icon icon-search"></i></button></div><input type="submit" name="op" id="edit-submit" value="Search" class="form-submit hidden">
+<input type="hidden" name="form_build_id" id="form-F0Jhxr5VJk_ae4et324qrbBUahc1F_gcIn_dYW3dmys" value="form-F0Jhxr5VJk_ae4et324qrbBUahc1F_gcIn_dYW3dmys">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
 </div>
 
 </div></form>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /preface-bottom-inner -->
-</div><!-- /preface-bottom -->
 
-								<div id="main-content" class="main-content row nested">
-									<div id="main-content-inner" class="main-content-inner inner">
-										<!-- content group: width = grid_width - (sidebar_first_width + sidebar_last_width) -->
-										<div id="content-group" class="content-group row nested grid16-10">
-											<div id="content-group-inner" class="content-group-inner inner">
 
-												
-												<div id="content-region" class="content-region row nested">
-													<div id="content-region-inner" class="content-region-inner inner">
-														<a name="main-content-area" id="main-content-area"></a>
-																												<div id="content-inner" class="content-inner block">
-															<div id="content-inner-inner" class="content-inner-inner inner">
-																																<h1 class="title">Privacy</h1>
-																
-																
-																																<div id="content-content" class="content-content">
-																	
-<div class="buildmode-full">
-  <div class="node node-type-page odd full-node node-type-page clear-block">
-    <div class="nd-region-middle-wrapper   nd-no-sidebars"><div class="nd-region-middle"><div class="field field-body"><p><strong>1. INTRODUCTION</strong></p>
+						</div>
+
+						<div class="calls-to-action"><h2 class="visuallyhidden">Calls to Action</h2>  
+<div class="block-block block">
+	
+	<strong><a href="http://www.walknowforautismspeaks.org/">Walk with Us<i class="icon icon-walk"></i></a></strong>
+</div>
+  
+<div class="block-block block">
+	
+	
+<strong><a href="http://secure.autismspeaks.org/donate">Donate <i class="icon icon-gift"></i></a></strong>
+
+
+</div>
+</div>
+
+						  
+<nav class="block-menu menu-menu-vital-links menu utility">
+	<h2 class="block-title">Vitals</h2>
+	<ul class="menu clearfix"><li class="leaf first"><a href="http://shop.autismspeaks.org/?utm_source=autismspeaks.org&amp;utm_content=store&amp;utm_medium=vitals&amp;utm_campaign=waysgive&amp;Click=24875">Merchandise</a></li>
+<li class="leaf"><a href="/autism-apps">Autism Apps</a></li>
+<li class="leaf"><a href="/family-services/resource-guide">Resource Guide</a></li>
+<li class="leaf"><a href="/what-autism">What is Autism?</a></li>
+<li class="leaf"><a href="/what-autism/diagnosis/screen-your-child">Screen Your Child</a></li>
+<li class="leaf last"><a href="/family-services/tool-kits">Tool Kits</a></li>
+</ul>
+</nav>
+
+
+					</div>
+				</header>
+
+				<div id="console" class="inner">
+					
+					
+				</div>
+
+				<section class="content inner">
+
+					<div class="breadcrumb"><span class="breadcrumb-link"><a href="/">Autism Speaks</a></span><span class="breadcrumb-link"><a href="/section/about-us">About Us</a></span><span class="breadcrumb-link">Privacy</span></div>
+
+					
+
+					<div class="clearfix ">
+
+					
+
+						<div class="main">
+
+							<h1 class="page-title">Privacy</h1>
+
+							  
+<div class="block-block block sharethis">
+	
+	<ul>
+<li><span class="st_facebook_hcount" displaytext="Facebook"></span></li>
+<li><span class="st_twitter_hcount" displaytext="Tweet"></span></li>
+<li><span class="st_googleplus_hcount" displaytext="Google +"></span></li>
+<li><span class="st_email_hcount" displaytext="Email"></span></li>
+<li><span class="st_linkedin_hcount" displaytext="LinkedIn"></span></li>
+</ul>
+
+</div>
+
+		
+							<article id="node-225" class="node node-page">
+
+    <div class="body node-content prose">
+      <p><strong>1. INTRODUCTION</strong></p>
 <p>Autism Speaks,&nbsp; a non-profit 501(c)3 entity, is the nation's largest autism science and advocacy organization, dedicated to funding research into the causes, prevention, treatments and a cure for autism; increasing awareness of autism spectrum disorders; and advocating for the needs of individuals with autism and their families.</p>
 <p>The services offered by Autism Speaks ("Autism Speaks" "us" or "we") include all officially maintained and managed Autism Speaks websites ("the Site"), including&nbsp; a variety of sub-sites and micro-sites such as&nbsp; "Walk Now for Autism Speaks," "Light It Up Blue" and a variety of other websites and sub-websites.</p>
 <p>This Privacy Policy applies to: (a) information we collect from persons, either electronically, via postal mail, in-person or over the phone, in connection with their relationship with Autism Speaks whether it be for a donation or other means (b) all registrants or participants in "Walk Now for Autism Speaks," "Light It Up Blue" or any other Autism Speaks sponsored event and (c) users of any related services, applications or sites that link to this Privacy Policy (collectively (a), (b) and (c) referred to hereunder as the "Services").</p>
@@ -405,154 +821,567 @@ _qoptions.labels="_fp.event.Privacy.autismspeaks.org";
 <p>You may request to stop receiving electronic or postal notifications from Autism Speaks at any time by contacting us at <a href="mailto:unsubscribe@autismspeaks.org">unsubscribe@autismspeaks.org</a>. In the subject field, type "Opt Out" and provide us your name and the e-mail, phone or postal address you wish to be removed.</p>
 <p><strong>California Residents: </strong>If you would like to request that we withhold your information from any third-party, please e-mail us at <a href="mailto:info@autismspeaks.org">info@autismspeaks.org</a>. In the subject field, type "Third-Party Opt Out" and provide us your name and the e-mail, phone or postal address you wish you have removed.</p>
 <p><strong><em><u>This policy was updated: June 2012</u></em></strong></p>
-</div><div class="field field-terms"><div class="field-label-inline-first">Tags: </div><ul class="links inline"><li class="taxonomy_term_5 first about-us"><a href="/section/about-us" rel="tag" title="">About Us</a></li>
-<li class="taxonomy_term_556 personal-data"><a href="/site-wide/personal-data" rel="tag" title="">Personal Data</a></li>
-<li class="taxonomy_term_555 last privacy"><a href="/site-wide/privacy" rel="tag" title="">Privacy</a></li>
-</ul></div></div></div>  </div> <!-- /node -->
-</div> <!-- /buildmode -->
-																																	</div><!-- /content-content -->
-																															</div><!-- /content-inner-inner -->
-														</div><!-- /content-inner -->
-													</div><!-- /content-region-inner -->
-												</div><!-- /content-region -->
 
-												<div id="content-bottom" class="content-bottom row nested ">
-<div id="content-bottom-inner" class="content-bottom-inner inner clearfix">
-  
-<div id="block-block-61" class="block block-block odd first grid16-13">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <style>
-	ul.sharethis-widgets {
-		list-style-type: none;
-		margin: 0 0 1em 0;
-		padding: 0;
-	}
-	ul.sharethis-widgets li {
-		float: left;
-		margin: 0 10px 1em 0;
-	}
-</style>
-<ul class="sharethis-widgets clearfix">
-	<li><span class="st_facebook_hcount" displaytext="Facebook"></span></li>
-	<li><span class="st_twitter_hcount" displaytext="Tweet"></span></li>
-        <li><span class="st_googleplus_hcount" displaytext="Google +"></span></li>
-
-	<li><span class="st_email_hcount" displaytext="Email"></span></li>
-	<li><span class="st_linkedin_hcount" displaytext="LinkedIn"></span></li></ul>
     </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-  
-<div id="block-disqus-disqus_comments" class="block block-disqus even  last grid16-10">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <div id="disqus_thread"></div><noscript><div class="disqus-noscript"><a href="http://autismspeaks.disqus.com/?url=http%3A%2F%2Fwww.autismspeaks.org%2Fabout-us%2Fprivacy">View the discussion thread.</a></div></noscript>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /content-bottom-inner -->
-</div><!-- /content-bottom -->
-											</div><!-- /content-group-inner -->
-										</div><!-- /content-group -->
+    <footer class="node-links">
+			
+<div class="tags"><h4 class="tag-title">Explore more:</h4><ul class="links inline"><li class="taxonomy_term_5 first"><a href="/section/about-us" rel="tag" title="">About Us</a></li>
+<li class="taxonomy_term_556"><a href="/site-wide/personal-data" rel="tag" title="">Personal Data</a></li>
+<li class="taxonomy_term_555 last"><a href="/site-wide/privacy" rel="tag" title="">Privacy</a></li>
+</ul></div>
+</footer>
+</article>
 
-										<div id="sidebar-last" class="sidebar-last row nested grid16-3">
-<div id="sidebar-last-inner" class="sidebar-last-inner inner clearfix">
+
+							<div class="clearfix re-engagement">  
+<nav class="block-menu menu-menu-get-involved-featured menu get-involved">
+	<h2 class="block-title">Get Involved</h2>
+	<ul class="menu clearfix"><li class="leaf first"><a href="http://goo.gl/Vz6Wz3" class="ir find-a-walk">Find A Walk Near You</a></li>
+<li class="leaf"><a href="http://goo.gl/1Ms2SQ" class="ir attend-an-event">Attend an Event</a></li>
+<li class="leaf"><a href="http://goo.gl/9GgMzM" class="ir corporate-partners">Support Our Corporate Partners</a></li>
+<li class="leaf last"><a href="http://goo.gl/K9RVoO" class="ir advocate">Advocate In Your State</a></li>
+</ul>
+</nav>
   
-<div id="block-block-51" class="block block-block odd first last  grid16-3">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <div id="readspeaker_button1" class="rs_skip">
-<div id="rs_playerarea">
-<div id="xp1">
-<a id="rs_button" accesskey="L" href="http://app.na.readspeaker.com/cgi-bin/rsent?customerid=5876&amp;lang=en_us&amp;readid=content-inner-inner&amp;url=http://www.autismspeaks.org/about-us/privacy" onclick="readpage(this.href, 'xp1'); return false;">
-<img style="border-style: none" src="/sites/all/themes/autismspeaks/images/player.png" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker"></a>
+<div class="block-as_mostpopular most-popular">
+	
+	<h2>Most Popular</h2><ul><li><a href="http://www.autismspeaks.org/news/news-item/10-talented-individuals-autism-who-inspired-2014?utm_medium=text-link&amp;utm_content=10 Talented Individuals with Autism who Inspired in 2014 &amp;utm_campaign=mostpopular"><img src="http://www.autismspeaks.org/sites/default/files/images/news/top_10.jpg" alt="10 Talented Individuals with Autism who Inspired in 2014" title="10 Talented Individuals with Autism who Inspired in 2014"><h3 class="title">10 Talented Individuals with Autism who Inspired in 2014 </h3></a></li><li><a href="http://www.autismspeaks.org/news/news-item/10-things-know-about-able-act?utm_medium=text-link&amp;utm_content=10 Things to Know About the ABLE Act &amp;utm_campaign=mostpopular"><img src="http://www.autismspeaks.org/sites/default/files/images/news/400white-house-flag.jpg" alt="10 Things to Know About the ABLE Act" title="10 Things to Know About the ABLE Act"><h3 class="title">10 Things to Know About the ABLE Act </h3></a></li><li><a href="http://www.autismspeaks.org/news/news-item/indy-pro-wrestler-asks-fan-autism-her-prom?utm_medium=text-link&amp;utm_content=Indy Pro-Wrestler Asks Fan with Autism to Her Prom &amp;utm_campaign=mostpopular"><img src="http://www.autismspeaks.org/sites/default/files/images/news/wrestlerthumb.png" alt="Indy Pro-Wrestler Asks Fan with Autism to Her Prom" title="Indy Pro-Wrestler Asks Fan with Autism to Her Prom"><h3 class="title">Indy Pro-Wrestler Asks Fan with Autism to Her Prom </h3></a></li><li><a href="http://www.autismspeaks.org/advocacy/advocacy-news/obama-signs-able-act-law?utm_medium=text-link&amp;utm_content=Obama Signs ABLE Act Into Law &amp;utm_campaign=mostpopular"><img src="/" alt="Obama Signs ABLE Act Into Law" title="Obama Signs ABLE Act Into Law"><h3 class="title">Obama Signs ABLE Act Into Law </h3></a></li></ul>
 </div>
-<div id="rs_links">
-<a href="JavaScript:void(0);" id="rs_settings" onclick="rs.showcontrols(); return false">Settings</a> | <a id="rsSaveBtn" href="http://app.na.readspeaker.com/cgi-bin/rsent?customerid=5876&amp;lang=en_us&amp;readid=content-inner-inner&amp;save=1&amp;url=http://www.autismspeaks.org/about-us/privacy">No sound?</a></div>
-<div id="controls"></div>
 </div>
-<span id="rs_inner">
-Speech-enabled by <a href="http://www.readspeaker.com/" onclick="this.href+='?ref='+encodeURIComponent(document.location.href); return true;">ReadSpeaker</a>
-</span>
-</div>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /sidebar-last-inner -->
-</div><!-- /sidebar-last -->
-									</div><!-- /main-content-inner -->
-								</div><!-- /main-content -->
 
-															</div><!-- /main-group-inner -->
-						</div><!-- /main-group -->
-					</div><!-- /main-inner -->
-				</div><!-- /main -->
-			</div><!-- /main-wrapper -->
+							  
+<div class="block-block block sharethis">
+	
+	<ul>
+<li><span class="st_facebook_hcount" displaytext="Facebook"></span></li>
+<li><span class="st_twitter_hcount" displaytext="Tweet"></span></li>
+<li><span class="st_googleplus_hcount" displaytext="Google +"></span></li>
+<li><span class="st_email_hcount" displaytext="Email"></span></li>
+<li><span class="st_linkedin_hcount" displaytext="LinkedIn"></span></li>
+</ul>
 
-			<!-- postscript-bottom row: width = grid_width -->
-			<div id="postscript-bottom-wrapper" class="postscript-bottom-wrapper full-width">
-<div id="postscript-bottom" class="postscript-bottom row grid16-16">
-<div id="postscript-bottom-inner" class="postscript-bottom-inner inner clearfix">
+</div>
+
+
+						</div>
+
+						<div class="sidebar">  
+<nav class="block-menu_block menu_block-4 menu_block">
+	<h2 class="block-title"><a href="/about-us" title="About Us
+">About Us</a></h2>
+	<ul class="menu clearfix"><li class="collapsed first menu-mlid-663"><a href="/about-us/mission" title="Mission
+">Mission</a></li>
+<li class="collapsed menu-mlid-665"><a href="/about-us/board-directors" title="Board Members
+">Board of Directors</a></li>
+<li class="leaf menu-mlid-664"><a href="/about-us/leadership" title="Leadership
+">Leadership</a></li>
+<li class="leaf menu-mlid-901"><a href="/news" title="News Link">News</a></li>
+<li class="collapsed menu-mlid-912"><a href="/about-us/press-releases" title="">Press Releases</a></li>
+<li class="leaf menu-mlid-669"><a href="/about-us/annual-reports" title="Annual Reports
+">Annual Reports</a></li>
+<li class="leaf menu-mlid-885"><a href="/about-us/social-networks" title="Social Networks">Social Networks</a></li>
+<li class="leaf menu-mlid-668"><a href="/about-us/founders-message" title="Founders' Message">Founders' Message</a></li>
+<li class="collapsed menu-mlid-19866"><a href="/about-us/contact-us">Contact Us</a></li>
+<li class="collapsed menu-mlid-22181"><a href="/about-us/media-center" title="Media Center
+">Media Center</a></li>
+<li class="leaf menu-mlid-24436"><a href="/about-us/web-community-guidelines" title="Web Community Guidelines">Web Community Guidelines</a></li>
+<li class="leaf last menu-mlid-20941"><a href="/about-us/programs" title="Programs">Programs</a></li>
+</ul>
+</nav>
+</div>
+
+						<div class="sidebar">  
+	
+	
+<div class="advertisement group-tids-54131" id="group-id-tids-54131"><script type="text/javascript" src="http://www.autismspeaks.org/sites/all/modules/ad/serve.php?q=1&amp;t=54131&amp;u=node%2F225&amp;l=about-us%2Fprivacy"></script></div>
+
+
   
-<div id="block-ad-22686" class="block block-ad odd first last bottom-banner grid16-16">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      
+<div class="block-liub_login liub_login">
+	
+	<div style="float:right; position:absolute; right:25px; top:0px;"></div>
+</div>
+</div>
+
+					</div>
+
+					
+
+				</section>
+
+				<div class="bottom-banner banner inner">  
+	
+	
 <div class="advertisement group-tids-22686" id="group-id-tids-22686"><script type="text/javascript" src="http://www.autismspeaks.org/sites/all/modules/ad/serve.php?q=1&amp;t=22686&amp;u=node%2F225&amp;l=about-us%2Fprivacy"></script></div>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /postscript-bottom-inner -->
-</div><!-- /postscript-bottom -->
-</div><!-- /postscript-bottom-wrapper -->
 
-			<!-- footer row: width = grid_width -->
-			<div id="footer-wrapper" class="footer-wrapper full-width">
-<div id="footer" class="footer row grid16-16">
-<div id="footer-inner" class="footer-inner inner clearfix">
+
+</div>
+
+				<footer class="footer inner">
+
+					<div class="clearfix flex">
+
+						<div class="contact">  
+<div class="block-block block">
+	<h2 class="block-title">Autism Response Team</h2>
+	
+								<p>Autism Response Team (ART) members are specially trained to connect families with information, resources and opportunities. They are available to answer calls and emails from 9am to 1pm local time.</p>
+								<ul>
+									<li><span class="label">Call us!</span> (888) 288-4762</li>
+									<li><span class="label">En Español</span> (888) 772-9050</li>
+									<li><span class="label"><a href="mailto:familyservices@autismspeaks.org">Email us!</a></span></li>
+								</ul>
+</div>
+</div>
+
+						<div class="clearfix navs">  
+<nav class="block-menu menu-menu-more-about-us menu">
+	<h2 class="block-title">More About Us</h2>
+	<ul class="menu clearfix"><li class="leaf first"><a href="/about-us" title="">About Us</a></li>
+<li class="leaf"><a href="https://autismspeaks.affiliatetechnology.com/index.php" title="">Affiliate Programs</a></li>
+<li class="leaf"><a href="/about-us/web-community-guidelines" title="">Community Guidelines</a></li>
+<li class="leaf"><a href="/about-us/contact-us" title="">Contact Us</a></li>
+<li class="leaf"><a href="/employees" title="">Employees</a></li>
+<li class="leaf"><a href="/ways-give/corporate-sponsors/corporate-partners" title="">Our Corporate Sponsors</a></li>
+<li class="leaf active-trail"><a href="/about-us/privacy" title="" class="active">Privacy</a></li>
+<li class="leaf"><a href="/rss" title="">RSS Syndicate Content</a></li>
+<li class="leaf"><a href="/sitemap" title="">Site Map</a></li>
+<li class="leaf"><a href="/about-us/attorney-general-mandated-state-disclosure" title="">State Fundraising Notices</a></li>
+<li class="leaf"><a href="/about-us/terms-service" title="">Terms of Service</a></li>
+<li class="leaf last"><a href="/what-autism" title="">What is Autism?</a></li>
+</ul>
+</nav>
   
-<div id="block-block-111" class="block block-block odd first grid16-16 fusion-center-content">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <div id="google_translate_element"></div>
-<script>
-function googleTranslateElementInit() {
-new google.translate.TranslateElement({
-pageLanguage: 'en'
-}, 'google_translate_element');
-}
+<nav class="block-menu menu-menu-worldwide-links menu">
+	<h2 class="block-title">Around the World links</h2>
+	<ul class="menu clearfix"><li class="leaf first"><a href="http://www.autismspeaks.ca/" title="">Autism Speaks Canada</a></li>
+<li class="leaf"><a href="/science/research-initiatives/global-autism-public-health" title="">Global Autism Public Health Initiative</a></li>
+<li class="leaf"><a href="/family-services/non-english-resources" title="">Non-English Resources</a></li>
+<li class="leaf"><a href="http://www.shafallah.org.qa/cms/english/default.aspx" title="">Shafallah</a></li>
+<li class="leaf last"><a href="http://www.worldautismawarenessday.org" title="">World Autism Awareness Day</a></li>
+</ul>
+</nav>
+  
+<nav class="block-menu_block menu_block-26 menu_block social-media">
+	<h2 class="block-title">Connect with Us</h2>
+	<ul class="menu clearfix"><li class="leaf first menu-mlid-52966"><a href="http://www.facebook.com/autismspeaks"><i class="icon icon-facebook"></i><span class="visuallyhidden">Facebook</span></a></li>
+<li class="leaf menu-mlid-52971"><a href="https://plus.google.com/+AutismSpeaks"><i class="icon icon-google-plus"></i><span class="visuallyhidden">Google +</span></a></li>
+<li class="leaf menu-mlid-52976"><a href="http://instagram.com/autismspeaksofficial"><i class="icon icon-instagram"></i><span class="visuallyhidden">Instagram</span></a></li>
+<li class="leaf menu-mlid-52981"><a href="http://www.twitter.com/autismspeaks"><i class="icon icon-twitter"></i><span class="visuallyhidden">Twitter</span></a></li>
+<li class="leaf last menu-mlid-52986"><a href="http://www.youtube.com/user/AutismSpeaksVids/"><i class="icon icon-youtube"></i><span class="visuallyhidden">YouTube</span></a></li>
+</ul>
+</nav>
+</div>
+
+					</div>
+
+					  
+<div class="block-block block">
+	
+	<p><a href="/"><img class="branding" alt="Autism Speaks logo" src="/sites/default/files/images/logos/logo-footer.png"></a></p>
+
+</div>
+  
+<div class="block-block block">
+	
+	<p><small>© <script>document.write((new Date()).getFullYear());</script>2020 Autism Speaks Inc. Autism Speaks and Autism Speaks It's Time To Listen &amp; Design are registered trademarks owned by Autism Speaks Inc. All rights reserved.</small></p>
+</div>
+  
+<div class="block-block block">
+	
+	<div class="clearfix seals">
+<h2 class="visuallyhidden">Seals</h2>
+<div class="inner">
+							<a target="_blank" href="http://www.myphilanthropedia.org/top-nonprofits/national/people-with-disabilities/2013/autism-speaks"><img src="/sites/all/themes/roots/sprout/img/philanthropedia-logo.png"></a><br>
+							<a target="_blank" href="http://www.guidestar.org/organizations/20-2329938/autism-speaks.aspx"><img src="/sites/all/themes/roots/sprout/img/guidestar-logo.png"></a><br>
+							<a target="_blank" href="http://charityreports.bbb.org/public/seal.aspx?ID=14562952012"><img src="/sites/all/themes/roots/sprout/img/bbb-logo.png"></a>
+						</div>
+</div>
+
+</div>
+
+
+				</footer>
+
+				<script type="text/javascript" src="http://www.autismspeaks.org/sites/default/files/js/js_e0f6a08ed345c3955a8a69b4d5987c57.js"></script>
+<script type="text/javascript" src="/sites/all/themes/roots/sprout/js/plugins.js?1419256925"></script>
+<script type="text/javascript" src="/sites/all/themes/roots/sprout/js/main.js?1419256925"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax"});
+//--><!]]>
 </script>
-<script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+	var _vis_opt_account_id = 10180;
+	var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+	document.write('<s' + 'cript src="' + _vis_opt_protocol + 'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='+encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
+	
+//--><!]]>
+</script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=10180&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141222140204id_%2Fhttp%253A%2F%2Fwww.autismspeaks.org%2Fabout-us%2Fprivacy&amp;random=0.48948317240332995" type="text/javascript"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+	if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol + 'd5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>'); }
+	
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+	if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function"){ _vis_opt_top_initialize(); 
+vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); }); }
+	
+//--><!]]>
+</script>
+
+
+				<script>var switchTo5x=true;</script>
+				<script src="http://w.sharethis.com/button/buttons.js"></script>
+				<script>stLight.options({publisher: "7fc1d6a4-f3c0-41d2-acb4-4e3bbd88cb8e", doNotHash: false, doNotCopy: true, hashAddressBar: false});</script>
+
+				  
+<div class="block-block block">
+	
+	<style>
+figure a {
+  position: relative;
+}
+</style>
+</div>
   
-<div id="block-block-8" class="block block-block even  last grid16-16 fusion-center-content">
-  <div class="inner clearfix">
-            <div class="content clearfix">
-      <p style="text-align: center; width:100% "><strong>[ <a href="http://www.autismspeaks.ca/">Canada</a> | <a href="http://www.shafallah.org.qa/">Middle East</a> | <a href="/family-services/non-english-resources/korean">한국어</a> | <a href="/about-us/en-español">En Español</a> | <a href="/about-us/privacy">Privacy</a> | <a href="/about-us/terms-service">Terms of Service</a>&nbsp;|&nbsp;<a href="/about-us/attorney-general-mandated-state-disclosure">State Fundraising Notices&nbsp;</a>|<br>
-   <a href="http://www.autismspeaks.org/about-us/web-community-guidelines">Community Guidelines</a> | <a href="https://autismspeaks.affiliatetechnology.com/index.php">Affiliate Program</a> |  <a href="/about-us/contact-us">Contact Us</a> | <a href="/sitemap">Site Map</a> |  <a href="/employees">Employees</a>&nbsp;| <a href="/rss">RSS <img alt="Syndicate content" height="12" src="/profiles/substrate/modules/contrib/site_map/feed-small.png" title="Syndicate content" width="12"></a> ]</strong></p>
-<p style="margin: 3em 0px 1em;"><a href="http://www.myphilanthropedia.org/top-nonprofits/national/people-with-disabilities/2013/autism-speaks" target="_blank"><img width="" style="margin: 0px 1em;" src="http://www.autismspeaks.org/sites/default/files/images/logos/philanthropedia-2013.png"></a><img width="" style="margin: 0px 1em;" src="http://www.autismspeaks.org/sites/default/files/images/logos/guidestar-silver.png"><a href="http://charityreports.bbb.org/public/seal.aspx?ID=14562952012" target="_blank"><img width="145" style="margin: 0px 1em;" src="http://www.autismspeaks.org/sites/default/files/images/ac-seal-horizontal-w-url.png"></a></p>
-<p style="text-align: center; "><strong><strong>&nbsp;</strong></strong></p>
-<p style="text-align: center; "><strong><strong>© 2014 Autism Speaks Inc. Autism Speaks and Autism Speaks <br> It's Time To Listen &amp; Design are registered trademarks owned by Autism Speaks Inc. All rights reserved.</strong></strong></p>
-<p><img src="http://www.autismspeaks.org/sites/default/files/images/logos/as_blogo_footer.jpg"></p>
-    </div>
-  </div><!-- /block-inner -->
-</div><!-- /block -->
-</div><!-- /footer-inner -->
-</div><!-- /footer -->
-</div><!-- /footer-wrapper -->
+<div class="block-block block">
+	
+	<!-- CSS Start -->
+<style>
+	.overlay {
+		background-color: #000;
+		height: 100%;
+		left: 0;
+		opacity: 0.6;
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index: 89999990;
+		-ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=60)';
+	}
 
-			<!-- footer-message row: width = grid_width -->
-			<div id="footer-message-wrapper" class="footer-message-wrapper full-width">
-				<div id="footer-message" class="footer-message row grid16-16">
-					<div id="footer-message-inner" class="footer-message-inner inner clearfix">
-											</div><!-- /footer-message-inner -->
-				</div><!-- /footer-message -->
-			</div><!-- /footer-message-wrapper -->
+	#popup {
+		bottom: 0;
+		left: 0;
+		position: fixed;
+		right: 0;
+		top: 0;
+		z-index: 999999;
+	}
 
-		</div><!-- /page-inner -->
-	</div><!-- /page -->
+	#popup .lightbox {
+		bottom: 0;
+		height: 90%;
+		left: 0;
+		margin: auto;
 
-	<!-- Quantcast Tag -->
+		/* Native Size Start (Usually Image Size) */
+		max-height: 458px;
+		max-width: 600px;
+		/* Native Size End */
+
+		position: fixed;
+		right: 0;
+		top: 0;
+		width: 90%;
+		z-index: 99999999;
+	}
+
+	#popup .buttons {
+		margin: 1em;
+		text-align: right;
+	}
+
+	#popup .close {
+		background-color: transparent;
+		background-image: none;
+		border: 0 none;
+		box-shadow: none;
+		color: #fff;
+		cursor: pointer;
+		font-size: 20px;
+		line-height: 1;
+		margin: 0;
+		padding: 0;
+		text-shadow: none;
+		white-space: nowrap;
+	}
+
+	.donate-lightbox {
+		background: url("http://www.autismspeaks.org/sites/default/files/images/lightboxes/lightbox-year-end-2014.jpg") no-repeat scroll 50% 0 #0522c6;
+		padding: 1em 0.5em 0.5em;
+		text-align: center;
+	}
+
+	.donate-lightbox p {
+		color: #f7cc70;
+		font-weight: bold;
+		line-height: 1.3;
+	}
+
+	.donate-lightbox strong {
+		font-style: italic;
+	}
+
+	.donate-lightbox .intro {
+		font-size: 15px;
+		margin: 0 0 1.5em;
+	}
+
+	.donate-lightbox .countdown {
+		margin: 1em 0;
+	}
+
+	#timer {
+		background-color: rgba(0, 0, 0, 0.25);
+		color: #fff;
+		display: inline-block;
+		font-weight: bold;
+		line-height: 3;
+		margin: 0 0 1em;
+		padding: 5% 2.5%;
+		white-space: nowrap;
+	}
+
+	#timer span {
+		font-size: 18px;
+		line-height: 1;
+	}
+
+	#timer .countdown-section {
+		display: inline-block;
+		margin: 0 0.5em;
+	}
+
+	#timer .countdown-period {
+		display: block;
+		font-weight: normal;
+		margin: 0.125em 0;
+	}
+
+	#timer .countdown-descr {
+		color: #73aece;
+		display: block;
+		font-size: 15px;
+		font-style: italic;
+		font-weight: normal;
+		line-height: 1;
+	}
+
+	.donate-lightbox .double {
+		background-color: rgba(0, 0, 0, 0.25);
+		display: inline-block;
+		font-size: 15px;
+		margin: 0;
+		padding: 3.133% 2.5%;
+	}
+
+	.donate-lightbox > fieldset {
+		background-color: rgba(0, 0, 0, 0.25);
+		padding: 0.5em 0;
+	}
+
+	.donate-lightbox .amounts {
+		color: #fff;
+		font-size: 15px;
+		font-style: italic;
+		font-weight: bold;
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		text-align: center;
+	}
+
+	.donate-lightbox .amounts > li {
+		display: inline-block;
+		line-height: 1;
+		margin: 0.333em 1.2%;
+	}
+
+	.donate-lightbox .amounts label {
+		display: block;
+		margin-bottom: 0.25em;
+	}
+
+	.amounts input {
+	  background-image: none;
+	  border: 0 none;
+	  box-shadow: none;
+	}
+
+	.donate-lightbox button {
+		border-radius: 5px;
+		font-size: 16px;
+		font-style: italic;
+		font-weight: bold;
+		line-height: 1.875;
+		margin: 0.5em auto 0.125em;
+		padding: 0 1em;
+		text-transform: uppercase;
+	}
+
+	@media only screen and (min-width: 480px) {
+		.donate-lightbox .amounts {
+			font-size: 20px;
+		}
+	}
+
+	@media only screen and (min-width: 600px) {
+		.donate-lightbox {
+			background-size: 100% auto;
+		}
+
+		.donate-lightbox p {
+			text-align: left;
+		}
+
+		.donate-lightbox .intro {
+			font-size: 18px;
+			margin: 0 0 1.5em 28.667%;
+		}
+
+		.donate-lightbox .countdown {
+			margin: 1em 0 1em 28.667%;
+		}
+
+		#timer {
+			float: left;
+			width: 16.333em;
+		}
+
+		#timer .countdown-descr {
+			font-size: 14px;
+		}
+
+		.donate-lightbox .double {
+			width: 9.75em;
+		}
+
+		.donate-lightbox .amounts {
+			font-size: 22px;
+		}
+
+		.donate-lightbox .amounts > li {
+		  margin: 0.333em 2.5%;
+		}
+
+		.donate-lightbox .amounts label {
+			margin-bottom: 0;
+		}
+
+		.donate-lightbox button {
+			font-size: 18px;
+		}
+	}
+
+</style>
+<!-- CSS End -->
+
+<!-- Required External Scripts Start -->
+<script src="http://staging.autismspeaks.org/sites/all/themes/roots/sprout/js/vendor/jquery.cookie.js"></script>
+<script src="http://staging.autismspeaks.org/sites/all/themes/roots/sprout/js/vendor/countdown/jquery.plugin.min.js"></script>
+<script src="http://staging.autismspeaks.org/sites/all/themes/roots/sprout/js/vendor/countdown/jquery.countdown.min.js"></script>
+<!-- Required External Scripts End -->
+
+<script>
+	function lightBox() {
+		var	today = new Date(),
+				start_date = new Date('12/02/2014'),
+				end_date = new Date('01/01/2015'),
+				cookie_will_change = true,
+				change_cookie_date = new Date('12/26/2014'),
+				change_cookie = today.setHours(0,0,0,0) >= change_cookie_date.setHours(0,0,0,0),
+				lightbox_content = '';
+
+		if (today.setHours(0,0,0,0) >= start_date.setHours(0,0,0,0) && today.setHours(0,0,0,0) < end_date.setHours(0,0,0,0)) {
+			if ($.cookie('eoy_d') != '1' || (cookie_will_change && change_cookie && $.cookie('eoy_e') != '1')) {
+				$.cookie('eoy_d', '1', { expires: 3, path: '/' });
+				if (cookie_will_change && change_cookie) {
+					$.cookie('eoy_e', '1', { expires: 1, path: '/' })
+				};
+
+				/*** Linked Image or Other HTML Start ***/
+
+				// One Big Image Start
+				/*
+				lightbox_content += '<a href="https://secure.autismspeaks.org/site/c.8hKPL7NMLpJ4G/b.8861233/k.963A/Giving_Tuesday.htm?utm_source=autismspeaks.org&utm_medium=Lightbox&utm_campaign=14YEGivingTuesday&msource=14GivTueL" onclick="_gaq.push([\'_trackEvent\', \'GivingTuesday\', \'Click\', \'autismspeaks.org GivingTuesday 2014 Lightbox\']);">';
+				lightbox_content += '<img src="http://www.autismspeaks.org/sites/default/files/images/lightboxes/givingtuesday_feature_685x385-compressor.jpg" width="685" height="385" style="height: auto; max-width: 98%;">';
+				lightbox_content += '</a>';
+				*/
+				// One Big Image End
+
+				// More Complicated HTML Start
+				lightbox_content += '<form class="donate-lightbox" action="https://secure.autismspeaks.org/site/c.8hKPL7NMLpJ4G/b.8844069/k.C240/Donate.htm?utm_source=autismspeaks.org&utm_medium=lightbox&utm_content=14YEbox&utm_campaign=EOY2014&msource=14YEbox" method="post">';
+				lightbox_content += '<p class="intro">Your tax-deductible donation today will help change the future for ALL  who struggle with <strong>autism spectrum disorder</strong>.</p>';
+				lightbox_content += '<div class="clearfix countdown">';
+				lightbox_content += '<div id="timer"></div>';
+				lightbox_content += '<p class="double"><strong>Your donation will be DOUBLED until 11:59 PM on Dec. 31st!</strong></p>';
+				lightbox_content += '</div>';
+				lightbox_content += '<fieldset>';
+				lightbox_content += '<legend class="visuallyhidden">Select a donation amount</legend>';
+				lightbox_content += '<ol class="amounts">';
+				lightbox_content += '<li><label for="amount1">$25</label><input type="radio" name="amount" id="amount1" value="25"></li>';
+				lightbox_content += '<li><label for="amount2">$50</label><input type="radio" name="amount" id="amount2" value="50"></li>';
+				lightbox_content += '<li><label for="amount3">$100</label><input type="radio" name="amount" id="amount3" value="100"></li>';
+				lightbox_content += '<li><label for="amount4">$250</label><input type="radio" name="amount" id="amount4" value="250"></li>';
+				lightbox_content += '<li><label for="amount5">$1000</label><input type="radio" name="amount" id="amount5" value="1000"></li>';
+				lightbox_content += '<li><label for="amount6">Other</label><input type="radio" name="amount" id="amount6" value="other"></li>';
+				lightbox_content += '</ol>';
+				lightbox_content += '<button type="submit" onclick="_gaq.push([\'_trackEvent\', \'YEG\', \'Click\', \'autismspeaks.org Year End Giving 2014 Lightbox\']);">Donate Now!</button>';
+				lightbox_content += '</fieldset>';
+				lightbox_content += '</form>';
+				// More Complicated HTML End
+
+				/*** Linked Image or Other HTML End ***/
+
+				/*** Do Not Change Start ***/
+				$('body').append('<div id="popup"><div class="lightbox">' + lightbox_content + '<div class="buttons clearfix"><button type="button" class="close">skip this [ X ]</button></div></div><div class="overlay"></div></div>');
+
+				$('#popup').find('.close').click(function() {
+					$('#popup').fadeTo(200, 0, function(){
+						$('#popup').remove();
+					});
+					return false;
+				});
+				/*** Do Not Change End ***/
+
+				/*** Specific Scripts Start ***/
+
+				var newYear = new Date(); 
+				$('#timer').countdown({
+					/* Local time */
+//					until: end_date,
+					/* Pacific time */
+					until: $.countdown.UTCDate(-8, end_date),
+					format: 'dHM',
+					description: 'remaining to double your donation!'
+				}); 
+
+				$('.donate-lightbox').submit(function() {
+					$('.donate-lightbox').attr('action', function(i, currval) {
+						var amt = $('.donate-lightbox').find('input[name="amount"]:checked').val() || '';
+
+						return currval + '&amt=' + amt;
+					});
+				});
+				/*** Specific Scripts End ***/
+
+			}
+		}
+	}
+	lightBox();
+</script>
+</div>
+
+
+				<!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];
 
@@ -577,7 +1406,7 @@ labels:"Awareness.autismspeaks-org"
 </div>
 </noscript>
 <!-- End Quantcast tag -->
-<script type="text/javascript" src="http://www.autismspeaks.org/sites/default/files/js/js_48d6db9180b2b6bd98923e5be82017af.js"></script>
+<script type="text/javascript" src="http://www.autismspeaks.org/sites/default/files/js/js_cf506597d52f8be6c89625a0a22b629e.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"chartbeat":{"uid":45313,"domain":"autismspeaks.org","useCanonical":false,"noCookies":true}});
@@ -669,11 +1498,10 @@ function extractParamFromUri(uri, paramName) {
   }
 }
 trackFacebook();
-trackTwitter();_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "/sites/default/files/googleanalytics/dc.js?m";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+trackTwitter();_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "/sites/default/files/googleanalytics/dc.js?h";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
 //--><!]]>
 </script>
 
-	<img height="1" width="1" src="http://a.triggit.com/px?u=ec5553c8f7309f1a&amp;rtv=asvisit">
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"99d57f4fac","applicationID":"148964","transactionName":"M1JaZREFVxEEV0ZdWgoYeVIXDVYMSkRTU1A7WllfAgNcEDpaXVBQO0FRVBQ=","queueTime":0,"applicationTime":780,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"99d57f4fac","applicationID":"148964","transactionName":"M1JaZREFVxEEV0ZdWgoYeVIXDVYMSkRTU1A7WllfAgNcEDpaXVBQO0FRVBQ=","queueTime":0,"applicationTime":1160,"ttGuid":"","agentToken":"","atts":"HxVZE1kfRB8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
