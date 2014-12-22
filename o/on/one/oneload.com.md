@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneload.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084149id_/http%3A//www.oneload.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneload.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223000128id_/http%3A//www.oneload.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Video Distribution Simplified : OneLoad - OneLoad
 
