@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623134205id_/http%3A//nintendoenthusiast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendoenthusiast.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200708id_/http%3A//nintendoenthusiast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nintendo Enthusiast
 
-This privacy policy sets out how “[Nintendo](http://nintendoenthusiast.com/) Enthusiast” uses and protects any information that you give “Nintendo Enthusiast” when you use this website.
+This privacy policy sets out how “Nintendo Enthusiast” uses and protects any information that you give “Nintendo Enthusiast” when you use this website.
 
 “Nintendo Enthusiast” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.”Nintendo Enthusiast” may change this policy from time to time by updatng this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st July, 2012. 
 
