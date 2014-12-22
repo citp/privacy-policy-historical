@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621015734id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222172324id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy for Quackit.com
 
@@ -27,14 +27,3 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 ## Affiliated Websites
 
 Some of the products and services provided on Quackit.com are made in conjunction with third party websites. You may be required to provide personal information to these third party websites in order to use their service or purchase a product. In these cases, we encourage you to read the privacy policy of the third party website.
-
-## Enjoy this page?
-
-  1.   2. Link to this page (copy/paste into your own website or blog): 
-  3. Link to Quackit using one of these [banner ads](https://web.archive.org/link_to_quackit.cfm).
-
-
-
-Thanks for supporting Quackit!
-
-| 
