@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cogispan.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002023id_/http%3A//www.cogispan.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cogispan.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222211126id_/http%3A//www.cogispan.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Privacy & Terms of Use | Cogispan Car Reviews
 
