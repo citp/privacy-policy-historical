@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerstoolbox.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101117id_/http%3A//designerstoolbox.com/legalandprivacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerstoolbox.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222160051id_/http%3A//designerstoolbox.com/legalandprivacy/privacy.php) for the most accurate reproduction.*
 
 # Designers Toolbox Privacy Policy
 
@@ -84,6 +84,6 @@ This policy was last modified on June 10, 2011.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [http://designerstoolbox.com/contact](https://web.archive.org/contact "Contact Us")  
-551 Kelso Road  
+1610 Moynelle Drive  
 Pittsburgh PA 15243  
 hello [at] designerstoolbox.com
