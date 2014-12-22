@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the srcweb.net privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209071231id_/http%3A//srcweb.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srcweb.net privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222195542id_/http%3A//srcwb.net/privacy-policy) for the most accurate reproduction.*
 
-# Download Free Software | Privacy Policy
+# <? bloginfo('name'); ?> | Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -17,4 +17,4 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-**IMPORTANT:** Software logo and screenshot used throughout SrcWeb.net belong to the software developer are used for identification purposes only.
+**IMPORTANT:** Software logo and screenshot used throughout Srcwb.net belong to the software developer are used for identification purposes only.
