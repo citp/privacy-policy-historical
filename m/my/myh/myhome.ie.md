@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhome.ie privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627070227id_/http%3A//www.myhome.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhome.ie privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222202746id_/http%3A//www.myhome.ie/privacy) for the most accurate reproduction.*
 
 # MyHome.ie Help - Privacy Statement - MyHome.ie
 
@@ -52,6 +52,8 @@ We will not disclose your personal data to third parties unless you have consent
 We will disclose your Personal Data if we believe in good faith that we are required to disclose it in order to comply with any applicable law, a summons, a search warrant, a court or regulatory order, or other statutory requirement.
 
 If our business enters into liquidation, receivership, transfer, sale or merger of all or substantially all of the assets of our company with another business entity we reserve the right to transfer information (including your Personal Data) provided that the third party agrees to adhere to the terms of the Website Privacy Statement and provided that the third party only uses your Personal Data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
+
+We use third party analytics services to help understand your use of our services. Google Analytics combines information from Google's interest-based advertising or 3rd-party audience data to provide approximate demographic information.
 
 ## 5\. Cookies
 
