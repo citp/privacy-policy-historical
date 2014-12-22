@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reverb.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620232019id_/https%3A//reverb.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverb.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223002513id_/https%3A//reverb.com/page/privacy) for the most accurate reproduction.*
 
 # Reverb Privacy Policy | Reverb
 
@@ -18,7 +18,7 @@ Your username, Reverb ID or alias is publicly displayed and connected to your Re
 
 For quality control and resolution seeking purposes, Reverb maintains access to all communication between users through offers, orders, and private messaging. 
 
-Reverb automatically receives and records some information from your browser when you visit the site, such as your IP address, cookies and data about which pages you visit on the site through the use of log files provided by our third-party tracking-utility partners. This information helps us analyze and understand how the site works for members and visitors.
+Reverb automatically receives and records some information from your browser when you visit the site, such as your IP address, cookies and data about which pages you visit on the site through the use of log files provided by our third-party tracking-utility partners. This information helps us analyze and understand how the site works for members and visitors, as well as improve the site. To read more and opt-out, you can visit the [KissMetrics consumer privacy page](https://www.kissmetrics.com/user-privacy). 
 
 Some members or visitors may connect to or register an Reverb account using an external third-party application, such as Facebook. Reverb may receive some data from those connected third-party applications. Connecting your Reverb account to third-party applications or services is optional, and when you connect your account to an external app, you will be given the opportunity to grant permission. You can revoke your permission under your Reverb account settings.
 
@@ -56,7 +56,7 @@ As part of the buying and selling process, Reverb will share information between
 
 Reverb may release your personal information to a third-party in order comply with a subpoena or other similar legal procedure, or when we believe in good faith that such disclosure is necessary to comply with the law; prevent imminent physical harm or financial loss; or investigate or take action regarding illegal activities, suspected fraud, or violations of Reverb's Terms of Use. We may disclose personally identifiable information to parties in compliance with our Copyright and Intellectual Property Policy, as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, Reverb may disclose name, address, country, phone number, email address and company name.
 
-Reverb is or may be affiliated with a variety of businesses and works closely with them. These businesses may offer promotions or sell items or services to you through Reverbâ€™s services. Reverb may also provide services or sell products jointly with affiliated businesses. Due to the nature of our business model, when an affiliated business is associated with your transaction, we may share information that is related to such transaction with that affiliated business. Reverb may share aggregated demographic information with business partners.
+Reverb is or may be affiliated with a variety of businesses and works closely with them. These businesses may offer promotions or sell items or services to you through Reverb's services. Reverb may also provide services or sell products jointly with affiliated businesses. Due to the nature of our business model, when an affiliated business is associated with your transaction, we may share information that is related to such transaction with that affiliated business. Reverb may share aggregated demographic information with business partners.
 
 Reverb employs other companies and people to perform tasks on our behalf, and we need to share your information with them to provide products and services to you. Examples include but are not limited to fulfilling orders, processing payments, handling billing disputes and collections, analyzing data, providing marketing assistance and providing customer service. Reverb may partner with third-party services for fraud prevention and/or identity verification.
 
@@ -82,4 +82,4 @@ Privacy Policy Changes** Reverb reserves the right to modify this privacy statem
 
 If you have questions or suggestions you can contact us, by sending an email to admin@reverb.com, or writing to: Reverb Customer Service - Privacy Policy; 3323 ½ N Paulina St, Chicago, IL 60657 
 
-Current version published: November 1, 2012
+Current version published: November 24, 2014
