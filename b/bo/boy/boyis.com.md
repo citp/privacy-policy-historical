@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boyis.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209021027id_/http%3A//boyis.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boyis.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222182046id_/http%3A//www.boyis.com/privacy.html) for the most accurate reproduction.*
 
-# boyis.Com - Privacy Policy
+# boyis.com - Privacy Policy
 
 **Privacy Policy for www.boyis.com**
 
@@ -21,7 +21,7 @@ www.boyis.com does use cookies to store information about visitors preferences, 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:   
 BURST! Media  
-ValueClick Media  
+Adsense Media  
 CPMStar  
 
 
