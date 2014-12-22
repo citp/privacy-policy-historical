@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidlebovitz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625224159id_/http%3A//www.davidlebovitz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidlebovitz.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222234923id_/http%3A//www.davidlebovitz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | David Lebovitz
 
@@ -30,7 +30,7 @@ For users residing outside of the United States of America, your Personal Data m
 
 ## Cookies
 
-Most browsers contain “cookies”, which allows the Website to store certain data about your visit. When a reader leaves a comment, along with other identifying information, that information is stored so that on subsequent visits readers do not have to re-enter that information again. Sensitive information, like name, phone numbers, and addresses are not collected or stored unless users leave them on the Website itself. The owner of the Websitedoes not advise readers to post sensitive information where it can be read by others.
+Most browsers contain “cookies”, which allows the Website to store certain data about your visit. When a reader leaves a comment, along with other identifying information, that information is stored so that on subsequent visits readers do not have to re-enter that information again. Sensitive information, like name, phone numbers, and addresses are not collected or stored unless users leave them on the Website itself. The owner of the Website does not advise readers to post sensitive information where it can be read by others.
 
 Users of the Website have the ability to block or remove cookies by using the methods prescribed by their browsers (such as Firefox, Safari, Internet Explorer, and Chrome). Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using this Website, with the drawback that certain features of this Website may not function properly without the aid of cookies. You may also use a similar feature to delete any current cookies. Please refer to your browser’s Help area for assistance with enabling and disabling cookies.
 
@@ -42,7 +42,7 @@ Ads appearing on the Website may be delivered to users by advertising partners, 
 
 We do not have control over cookies placed by advertisers here or at their site(s). Please visit the privacy policies of those sites for further information.
 
-Google appears on this Website as a third party vendor, and uses cookies to serve ads on this Website. Google’s use of the DART cookie enables it to serve ads to users based on your visit to this Website. Users may opt out of the use of the DART cookie by visiting the [Google Privacy Center](http://www.google.com/privacy/ads/), which allows users to opt-out and manage ad preferences.
+Google appears on this Website as a third party vendor, and uses cookies to serve ads on this Website. Google’s use of the DART cookie enables it to serve ads to users based on your visit to this Website. Users may opt out of the use of the DART cookie by visiting the [Google Privacy Center](http://www.google.com/privacy/ads/), which allows users to opt-out and manage ad preferences. For information about opting out of Gourmet Ads and ad serving partners please visit http://www.gourmetads.com/about/privacy-policy
 
 ## Personal Information
 
