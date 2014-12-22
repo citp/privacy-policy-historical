@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motoroids.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623123725id_/http%3A//www.motoroids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoroids.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222201354id_/http%3A//www.motoroids.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Motoroids.com
+# Privacy Policy | Motoroids.com
 
 At Motoroids.com (“Website”), we strongly believe in protecting the privacy of the personal information of our readers, and in using it only in ways that have been notified to you. This Privacy Policy is a legal document which explains the extent of personal information we collect from you and where it would be used, the steps we take to ensure your security, who we may share it with and how can you correct or remove your information from our database.
 
