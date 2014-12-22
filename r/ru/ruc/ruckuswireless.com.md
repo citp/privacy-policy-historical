@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruckuswireless.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530193846id_/http%3A//www.ruckuswireless.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruckuswireless.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222102539id_/http%3A//www.ruckuswireless.com/privacy) for the most accurate reproduction.*
 
 # Ruckus Wireless Privacy Policy | Ruckus Wireless, Inc.
 
