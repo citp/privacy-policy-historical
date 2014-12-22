@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animalslook.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120737id_/http%3A//www.animalslook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalslook.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222235849id_/http%3A//www.animalslook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Animals Look
 
