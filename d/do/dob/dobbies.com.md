@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dobbies.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615161650id_/http%3A//www.dobbies.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobbies.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222224227id_/http%3A//www.dobbies.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Dobbies - Inspiring Gardeners since 1865
 
