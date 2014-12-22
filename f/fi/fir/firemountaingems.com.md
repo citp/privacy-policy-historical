@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firemountaingems.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622232042id_/http%3A//www.firemountaingems.com/customerservice/csdocs.asp%3Fdocid%3DCSTMRSRVCSFTYND%23safeshopping) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firemountaingems.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222212534id_/http%3A//www.firemountaingems.com/customerservice/csdocs.asp%3Fdocid%3Dcstmrsrvcsftynd%23safeshopping) for the most accurate reproduction.*
 
 # Customer Service - Safety and Security - Fire Mountain Gems and Beads
 
