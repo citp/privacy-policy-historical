@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peanutlabs.com privacy policy that was archived on 2014-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140424070402id_/http%3A//www1.peanutlabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peanutlabs.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222122811id_/http%3A//web.peanutlabs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Peanut Labs
+# Privacy Policy | Peanut Labs – DIY Sample and Surveys
 
 Peanut Labs Inc. (“Peanut Labs”) is committed to protecting the privacy and confidentiality of your information on our Website [www.peanutlabs.com](http://www.peanutlabs.com/) andonthe PeanutLabs platform. As a data collection company, we provide accurate and dependable data to the market research industry. Our services offer respondents the opportunity to take part in market research and express opinions and attitudes regarding a broad range of subjects. Our clients depend on this information to make many decisions that affect the products and services in the marketplace. Any data that we collect for a study is reported only in aggregate, and specific information regarding individuals is never viewed or published. All information gathered either during registration or in supplemental demographic surveys is provided the highest level of security.
 
@@ -111,5 +111,5 @@ For assistance or comments regarding the PeanutLabs.com website or our privacy s
 
 **Address**
 
-114 Sansome Street, Suite 950  
+180 Montgomery Street, Suite 1700  
 San Francisco, CA 94104
