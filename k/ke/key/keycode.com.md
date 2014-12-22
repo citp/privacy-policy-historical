@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keycode.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627035531id_/http%3A//www.keycode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycode.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222171313id_/http%3A//www.keycode.com/privacy) for the most accurate reproduction.*
 
-# Keycode.com's privacy policy
+# Keycode: Our Privacy Policy
 
 Keycode.com is strongly committed to protecting the privacy of our site's visitors. You can visit our website and browse the pages on our site without disclosing your name, e-mail address, log-in, password or any other type of personally identifiable information. 
 
@@ -14,4 +14,4 @@ Links on Keycode.com: Since the nature of Keycode.com is to provide discount inf
 
 Security: Keycode.com keeps technical, electronic, physical and other safeguards in place to protect both our system and any personal information we may hold. If you would like to contact our Privacy Officer, you can initiate contact [here](http://www.keycode.com/contactus.php). Please set forth the nature of your request or concern and provide the Privacy Officer with a way to contact you. 
 
-Updates to Privacy Policy: From time to time, Keycode.com reviews its privacy policies and procedures to ensure they remain current. 
+Updates to Privacy Policy: From time to time, Keycode.com reviews its privacy policies and procedures to ensure they remain current.
