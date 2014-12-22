@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprezzabox.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622025536id_/http%3A//www.sprezzabox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprezzabox.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222212846id_/http%3A//www.sprezzabox.com/privacy) for the most accurate reproduction.*
 
 # Privacy — SprezzaBox
 
@@ -39,9 +39,9 @@ In addition to the disclosures reasonably necessary for the purposes identified 
 
 SprezzaBox will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-SprezzaBox will store all the personal information you provide [on SquareSpace & MoonClerk secure servers].
+SprezzaBox will store all the personal information you provide (on SquareSpace & MoonClerk secure servers).
 
-[Information relating to electronic transactions entered into via this website will be  protected by encryption technology.]
+[Information relating to electronic transactions entered into via this website will be  protected by encryption technology.
 
  **Cross-border data transfers**
 
@@ -65,4 +65,4 @@ SprezzaBox is not responsible for the privacy policies or practices of any third
 
  **  Contact SprezzaBox**
 
-If you have any questions about this privacy policy or SprezzaBox's treatment of your personal information, please contact us via the tab above.
+If you have any questions about this privacy policy or SprezzaBox's treatment of your personal information, please contact us via the tab below.
