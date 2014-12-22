@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growing-minds.org privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601064530id_/http%3A//growing-minds.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growing-minds.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223004101id_/http%3A//growing-minds.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Growing Minds
 
