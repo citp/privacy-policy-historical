@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the willitblend.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629231744id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the willitblend.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222184447id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blendtec.com
 
@@ -21,8 +21,6 @@
     * Please note we generally keep a copy of the personally identifiable information for our records. If you would like to review or change your personally identifiable information, you may do so by calling 801-222-0888. 
     * You may also choose not to provide personally identifiable information at the point of collection; however, you will not be able to purchase products. 
     * In some areas of the Sites, you may have the ability to post or publish personally identifiable information. You should take care and avoid posting or publishing personally identifiable information that you do not wish to disclose. 
-
-
   * **Non-Personally Identifiable Information**
     * The term "nonpersonally identifiable information" means information that you voluntarily provide to us or that we collect electronically but does not personally identify you. 
     * To make a purchase, we require you to supply us with your email address. Your email address does not personally identify you but is a means for us to contact you. You may later update and modify any inaccuracies by calling (801) 222-0888. 
@@ -38,8 +36,6 @@
 
   * **Personally Identifiable Information**
     * We collect personally identifiable information in order to supply you with the products or services you request, process payment, communicate with you and comply with any applicable requirements of law. 
-
-
   * **Non-Personally Identifiable Information**
     * We collect nonpersonally identifiable information in order to operate, develop and improve the Sites, their functionality and our products and services. 
     * We collect nonpersonally identifiable information in order to provide you with personalized recommendations for products advertised on or sold through the Sites. 
@@ -135,6 +131,7 @@ Hours: Mon. – Fri. 8:00 am - 5:30 pm (MST)
 Orem, UT 84058  
 P: 1-800-BLENDTEC (1-800-253-6383)  
 F: (801) 802-8584  
+
 
   * We will investigate your question, respond to your inquiry and attempt to resolve any concern regarding your privacy. 
 
