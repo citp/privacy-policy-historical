@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mulefactory.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622175459id_/http%3A//www.mulefactory.com/privacy_notice_and_data_protection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mulefactory.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200749id_/http%3A//www.mulefactory.com/privacy_notice_and_data_protection) for the most accurate reproduction.*
 
-# The best item and gold shop for online games
+# Privacy and data protection | Mulefactory the item and currency shop
 
   * Mulefactory respects your privacy rights and protects all of your personal information provided by you. This document describes you how our company uses and stores your personal information. 
 
