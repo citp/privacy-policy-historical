@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lphant.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626022906id_/http%3A//www.lphant.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lphant.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222141541id_/http%3A//www.lphant.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Lphant
 
