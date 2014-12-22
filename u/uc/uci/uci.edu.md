@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uci.edu privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617235642id_/http%3A//uci.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uci.edu privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222220725id_/http%3A//uci.edu/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | UC Irvine
+# Privacy Policy | UCI
 
 University Communications, University of California, Irvine is committed to protecting the privacy and accuracy of your personally identifiable information to the extent possible, subject to provisions of state and federal law. Other than as required by laws that guarantee public access to certain types of information, or in response to subpoenas or other legal instruments that authorize disclosure, personally identifiable information is not disclosed without your consent.
 
