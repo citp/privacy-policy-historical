@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epixnow.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618205026id_/http%3A//corp.epixhd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epixnow.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222140905id_/http%3A//corp.epixhd.com/privacy-policy) for the most accurate reproduction.*
 
-# Studio 3 Partners - Epix HD Privacy Policy
+# Studio 3 Partners - EPIX Privacy Policy
 
 ## Privacy Policy and Your California Privacy Rights
 
