@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madefrompinterest.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628232210id_/http%3A//www.madefrompinterest.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madefrompinterest.net privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200842id_/http%3A//www.madefrompinterest.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Made From Pinterest
 
