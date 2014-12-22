@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.ph privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209230235id_/http%3A//www.cartoonnetworkasia.com/parents/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.ph privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222023554id_/http%3A//www.cartoonnetworkasia.com/parents/privacy.php) for the most accurate reproduction.*
 
 # Cartoon Network South East Asia | Free Games and Online Video from Ben 10, Gumball and Adventure Time!
 
