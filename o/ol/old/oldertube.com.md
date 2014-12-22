@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldertube.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522060910id_/http%3A//www.oldertube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldertube.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222125819id_/http%3A//www.oldertube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
