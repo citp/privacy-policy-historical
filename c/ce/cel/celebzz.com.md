@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the celebzz.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510080113id_/http%3A//www.celebzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebzz.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222172739id_/http%3A//www.celebzz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Celebzz
+# Privacy Policy - Celebzz
 
 ### Privacy Statement for celebzz.com
 
