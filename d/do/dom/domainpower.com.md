@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815025708id_/http%3A//www.domainpower.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainpower.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222213042id_/http%3A//www.domainpower.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | DomainPower
 
@@ -13,13 +13,13 @@ We collect information from you when you register on our site, place an order, s
 Any of the information we collect from you may be used in one of the following ways:
 
   * To personalize your experience
-   (your information helps us to better respond to your individual needs)
+   (your information helps us to better respond to your individual needs) 
   * To improve our website
-   (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+   (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
   * To improve customer service
-   (your information helps us to more effectively respond to your customer service requests and support needs)
+   (your information helps us to more effectively respond to your customer service requests and support needs) 
   * To process transactions
-   Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason    whatsoever,without your consent, other than for the express purpose of delivering the purchased product or service requested.
+   Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason    whatsoever,without your consent, other than for the express purpose of delivering the purchased product or service requested. 
   * To send periodic emails
    The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to    receiving occasional company news, updates, related product or service information, etc. 
 
@@ -60,7 +60,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.domainpower.com/Terms.aspx](https://web.archive.org/web/20130815025708id_/http%3A//www.domainpower.com/Terms.aspx)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.domainpower.com/home/Terms](https://web.archive.org/home/Terms)
 
 ### Your Consent
 
