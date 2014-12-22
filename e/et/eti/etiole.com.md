@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etiole.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430151923id_/http%3A//www.etiole.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etiole.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200428id_/http%3A//www.etiole.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Etiole
 
