@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621113448id_/https%3A//www.iceland.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iceland.co.uk privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222204856id_/https%3A//www.iceland.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to Iceland Foods
 
@@ -28,7 +28,14 @@ The information we collect from customers helps us to continually improve the se
   * Information we collect using cookies stored on your device. Please see the section on cookies for more information and how to manage them.
   * Your IP address
   * Details of your visits to the Website including, but not limited to, traffic data, location data and other communication data and the resources, advertisements and linked sites that you access.
-  * Information provided to us by other companies who have obtained your permission to share information about you We may also collect some or all of this personal information from third parties who have your consent to pass your details to us. How we use the information we collect All the information we collect from you is used by us (or a third party processor acting on our behalf), to operate and improve the service at Iceland.co.uk. We are committed to only use your personal information for:
+  * Information provided to us by other companies who have obtained your permission to share information about you
+  * We may also collect some or all of this personal information from third parties who have your consent to pass your details to us.
+
+
+
+**How we use the information we collect**
+
+  * All the information we collect from you is used by us (or a third party processor acting on our behalf), to operate and improve the service at Iceland.co.uk. We are committed to only use your personal information for:
   * Processing your orders;
   * Monitoring and improving the Website;
   * Planning and managing the activities of the Website, including analysing your shopping habits and preferences to develop and improve our products and services;
@@ -41,7 +48,8 @@ The information we collect from customers helps us to continually improve the se
   * In certain circumstances in order to process your order and to verify your identity, we may call your provided telephone number you have provided to perform security checks and to request that you verify certain information;
   * To administer any prize draws or competitions you may enter, including the monthly Bonus Card prize draw;
   * Preventing and detecting fraud or abuses of the Website; and
-  * Allowing us to comply with any requirements imposed by law or court order. In addition we may collect anonymised details about you for marketing or reporting purposes but no single individual will be identifiable form the anonymised details that we collect for these purposes. We may also carry out market research through our Ice Chat and other feedback forums.
+  * Allowing us to comply with any requirements imposed by law or court order.
+  * In addition we may collect anonymised details about you for marketing or reporting purposes but no single individual will be identifiable form the anonymised details that we collect for these purposes. We may also carry out market research through our Ice Chat and other feedback forums.
 
 
 
@@ -131,7 +139,7 @@ Collects information about how visitors use our website.  The information is co
 
 | 
 
-__utma, __utmb , __ytmc , __utmz, _ga  
+__utma, __utmb , __utmc , __utmz, _ga  
   
 **Functionality Cookies** ****  
   
