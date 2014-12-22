@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threethriftyguys.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525145308id_/http%3A//www.threethriftyguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threethriftyguys.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222215329id_/http%3A//www.threethriftyguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Three Thrifty Guys
 
