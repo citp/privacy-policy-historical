@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the 1and1.ca privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316174344id_/http%3A//www.1and1.ca/PrivacyPolicy%3F__lf%3DStatic%26linkId%3Dft.nav.privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1and1.ca privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222013953id_/http%3A//www.1and1.ca/PrivacyPolicy%3F__lf%3DStatic%26linkId%3Dft.nav.privacypolicy) for the most accurate reproduction.*
 
 # 1&1 Internet - Privacy Policy
 
-1&1 Internet Inc. has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which 1&1 Internet Inc. (1&1) uses, maintains and discloses information collected from its customers and users of its website. 
-
-## Privacy
-
-1&1 is committed to developing long-lasting relationships based on trust. In furtherance of this goal, 1&1 will do everything in its power to ensure that your right to privacy is maintained and protected. This website is not directed at children under 13 years of age.
+1&1 Internet Inc. has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which 1&1 Internet Inc. (1&1) uses, maintains and discloses information collected from its customers and users of its website. This website is not directed at children under 13 years of age.
 
 ## Information We Collect
 
-1&1 may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information.
+1&1 may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information. 
 
-The data we collect is information that identifies you personally, such as:
+The data we collect is information that identifies you personally, such as: 
 
   * Your name
   * E-mail address
@@ -28,21 +24,18 @@ The data we collect is information that identifies you personally, such as:
 
 ## What are Cookies?
 
-A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time. Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by 1&1 to track user preferences while the user is visiting the website. They also help to minimize load times and save on server processing. Persistent cookies may be used by 1&1 to store whether, for example, you want your password remembered or not, and other information. Cookies used on the 1&1 website do not contain personally identifiable information.
+A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer\x92s hard drive for an extended period of time. Your browser\x92s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by 1&1 to track user preferences while the user is visiting the website. They also help to minimize load times and save on server processing. Persistent cookies may be used by 1&1 to store whether, for example, you want your password remembered or not, and other information. Cookies used on the 1&1 website do not contain personally identifiable information.
 
 ## Log Files
 
 Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
 
-## How we use this information
+## How we Use and Share this information
 
-1&1 may use the personally identifiable information collected by 1&1 to contact customers regarding products and services offered by 1&1 and, to the extent the user has agreed to it, by its trusted affiliates, independent contractors and business partners. We may also use this information for research purposes regarding the effectiveness of our website services, marketing, advertising and sales efforts. 1&1 will not in any way share this information with a third party either for free or by selling it, unless you specifically authorize such disclosures.
-
-## Disclosure of Information
+1&1 may use the personally identifiable information collected by 1&1 to contact customers regarding products and services offered by 1&1 and, to the extent the user has agreed to it, by its trusted affiliates, independent contractors and business partners. We may also use this information and share it with trusted third parties for research purposes regarding the effectiveness of our website services, marketing, advertising and sales efforts, including, without limitation, for purposes of customer reviews (such as for the utilization of programs like Google Seller Ratings). 1&1 will not sell or otherwise share this information with a third party for a third party\x92s marketing purposes, unless you specifically authorize such information sharing.
 
 1&1 may also disclose aggregate, anonymous data based on information collected from users to investors and potential partners. In such cases, only statistical information will be disclosed and personally identifiable data will be kept strictly confidential. In case 1&1 is sold, the information collected from users may be transferred to the new owners.
 
-  
 1&1 may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or manipulate data received by 1&1 from its customers. In all such cases, third party service providers will be required to treat all such data with the same degree of care as 1&1 and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
 
 ## Special Offers and Updates
@@ -53,19 +46,30 @@ Our customers and users will occasionally receive newsletters or e-mails with in
 
 On rare occasions, it is necessary to send out a strictly service-related announcement, if, for instance, our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
 
-## Legal Disclaimer
+## Legally-Required Disclosures
 
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order, subpoena or other legal process served on 1&1.
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, or if 1&1 believes that disclosure is necessary to protect 1&1\x92s rights and/or to comply with a judicial proceeding, court order, subpoena or other legal process. 1&1 may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary. Please see our [Subpoena Policy](http://www.1and1.com/SubpoenaPolicy) for more information.
 
-  
-The 1&1 website contains links to other sites. Please be aware that 1&1 is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every website that collects personally identifiable information. The 1&1 Privacy Policy as described herein applies solely to information collected by 1&1\. 
+## Third Party Websites
+
+The 1&1 website contains links to other sites. Please be aware that 1&1 is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every website that collects personally identifiable information. The 1&1 Privacy Policy as described herein applies solely to information collected by 1&1.
 
 ## Maintenance of Information
 
-The information provided to 1&1 is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by 1&1\. 1&1 employs industry-standard security measures to protect the confidentiality of the information. While we cannot guarantee that loss, misuse or alteration of data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to 1&1.
+The information provided to 1&1 is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by 1&1\. 1&1 employs industry-standard security measures to protect the confidentiality of the information. While we cannot guarantee that loss, misuse or alteration of data will not occur, we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to 1&1.
 
 ## Your Responsibility
 
-You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home.
+You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet caf\xE9, but even when using your private computer in your home.
+
+## Your California Privacy Rights
+
+California Civil Code \xA71798.83 permits our visitors who are California residents to request certain information regarding the disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [PrivacyPolicy@1and1.com](mailto:PrivacyPolicy@1and1.com) or write to us:
+
+1&1 Internet Inc. Privacy Rights
+
+701 Lee Road
+
+Chesterbrook, PA 19087
 
 ## Questions
