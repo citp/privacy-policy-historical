@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the academictips.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209034914id_/http%3A//www.academictips.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academictips.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222163204id_/http%3A//www.academictips.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Policy | AcademicTips.org
 
-[Home](https://web.archive.org/web/20140209034914id_/http%3A//www.academictips.org/index.html) : Privacy Policy
+[Home](https://web.archive.org/web/20141222163204id_/http%3A//www.academictips.org/index.html) : Privacy Policy
 
 Dear Friends! Thank you for visiting AcademicTips.org. Your privacy is very important. Here is information on what types of personal information we receive and collect when you visit this website, and how we safeguard your information.
 
