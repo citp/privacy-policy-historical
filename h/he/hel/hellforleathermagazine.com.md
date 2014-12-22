@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellforleathermagazine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105510id_/http%3A//rideapart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellforleathermagazine.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222204047id_/http%3A//rideapart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RideApart
 
@@ -16,7 +16,7 @@ In this Privacy Policy, you will find answers to the following questions:
 · **How do I opt-out from receiving promotional offers?**  
 · **Is my information protected?**  
 · **Other information: Compliance with legal process**  
-· **Other information: Children’s Guidelines**  
+· **Other information: Children's Guidelines**  
 · **Other information: Changes to this Privacy Policy**
 
 **WHICH SITES ARE COVERED BY THIS POLICY?**  
@@ -32,7 +32,7 @@ The information we gather falls into two categories: 1) Personally identifiable 
 RideApart.com may require that you supply certain personally identifiable information, including a unique e-mail address and demographic information (zip code, age, sex, household income (optional), job industry and job title) in order to complete certain transactions like purchasing from our store or verifying user submitted content. By using RideApart.com, you are agreeing to our Terms of Service.
 
 **Subscription Registration for our Web sites via Third-Party Tools**  
-To help facilitate RideApart.com subscriptions, we have partnered with PayPal to gather subscription information and fees. Subscription and registration through PayPal is governed by their privacy policy and terms of use which can be viewed on [PayPal’s site](https://cms.paypal.com/us/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Legal_Hub_full&locale.x=en_US). _RideApart_ is not responsible for the privacy policy of PayPal and encourages you to read their privacy policy before supplying any personal information. RideApart is not responsible for any actions PayPal relating to personal information you have supplied to PayPal. PayPal will be providing us with any subscriber information you have provided in connection with your subscription purchase. Information supplied to us will be governed by this privacy policy.
+To help facilitate RideApart.com subscriptions, we have partnered with PayPal to gather subscription information and fees. Subscription and registration through PayPal is governed by their privacy policy and terms of use which can be viewed on [PayPal's site](https://cms.paypal.com/us/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Legal_Hub_full&locale.x=en_US). _RideApart_ is not responsible for the privacy policy of PayPal and encourages you to read their privacy policy before supplying any personal information. RideApart is not responsible for any actions PayPal relating to personal information you have supplied to PayPal. PayPal will be providing us with any subscriber information you have provided in connection with your subscription purchase. Information supplied to us will be governed by this privacy policy.
 
 **Paid Products and Services**  
 Some of our products are sold through third party vendors and are governed by their privacy policies. RideApart is not responsible for the privacy policies of third party vendors and encourages you to read their policies before signing up. Additionally, by making a purchase of RideApart products or services through a third party vendor, you expressly grant permission through your action for RideApart to share any personal information with that vendor. Some of our products are sold internally through parent company RideApart Inc., or wholly or partially owned subsidiaries and are thus governed by this privacy policy. By making a purchase from RideApart directly, RideApart still reserves the right to share your personal information with third parties for the strict purposes of processing payments, collections on delinquent payments, or disputes with credit card companies, banks, or third party payment transfer services with whom you have used to make a payment to RideApart.
@@ -93,9 +93,9 @@ RideApart complies fully with the federal CAN-SPAM Act of 2003. We will not shar
 RideApart reserves the right to send you e-mail relating to your account status. This includes order confirmations, renewal/expiration notices, notices of credit-card problems, other transactional e-mails and notifications about major changes to our Web sites and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive e-mail specific to your participation in those activities.
 
 **Promotional Email**  
-If you choose to receive them, RideApart may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by following the “unsubscribe” instructions located near the bottom of each e-mail.
+If you choose to receive them, RideApart may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of each e-mail.
 
-From time to time, RideApart may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by following the “unsubscribe” instructions located near the bottom of each e-mail.
+From time to time, RideApart may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by following the "unsubscribe" instructions located near the bottom of each e-mail.
 
 **Survey Email**  
 We may send you an e-mail inviting you to participate in user surveys, asking for feedback on RideApart.com and existing or prospective products and services, as well as information to better understand our users. User surveys greatly help us to improve our Web site, and any information we obtain in such surveys will not be shared with third parties, except in aggregate form.
@@ -107,14 +107,14 @@ If you send us e-mails, you should be aware that information disclosed in e-mail
 RideApart.com readers may use this feature to e-mail links to articles (or other content such as slideshows). The e-mail addresses that you supply to this service are saved for your convenience for future articles you may wish to e-mail; these addresses are not used for any other purpose, and will not be shared with any third parties.
 
 **WITH WHOM DO WE SHARE THE INFORMATION THAT WE GATHER?**  
-_RideApart_  
+ _RideApart_  
 RideApart will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form.  
-_Service Providers_  
+ _Service Providers_  
 We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for RideApart, and they may not share or resell this data.
 
 We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the “Compliance with legal process” section of this policy.)
 
-Business Transitions. In the event RideApart goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+Business Transitions. In the event RideApart goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
 
 **DISCLOSURE TO SUCCESSORS**  
 We may disclose your Personal Information to any successor-in-interest of ours, such as a company that acquires us. In the event RideApart goes through a business transition, such as a merger or acquisition by or with another company, or sale of all or a portion of our assets, your Personal Information will likely be among the assets transferred. You will be notified via email or by a notice on our Website of any such change in ownership or control of your Personal Information.
@@ -123,7 +123,7 @@ We may disclose your Personal Information to any successor-in-interest of ours, 
 Information collected in conjunction with purchasing a subscription package is collected via PayPal. Changes to information used to purchase subscriptions should be made through [PayPal’s website](https://www.paypal.com/). To update any other personal information, for example information used to generate user content, please contact us at info@RideApart.com
 
 **HOW DO I OPT-OUT FROM RECEIVING PROMOTIONAL OFFERS?**  
-_E-mail Promotions_  
+ _E-mail Promotions_  
 If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail.
 
 If you experience difficulty with the unsubscribe process, feel free to contact us at [info@rideapart.com](mailto:info@rideapart.com) and provide your e-mail address along with the name of the newsletter from which you would like to unsubscribe.
@@ -137,7 +137,7 @@ Data Security: To prevent unauthorized access, maintain data accuracy and ensure
 **OTHER INFORMATION: Compliance with Legal Process**  
 We may disclose personal information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Web sites; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
 
-**OTHER INFORMATION: Children’s Guidelines**  
+**OTHER INFORMATION: Children's Guidelines**  
 COPPA Compliance: RideApart does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13.
 
 **OTHER INFORMATION: Changes to This Policy**  
