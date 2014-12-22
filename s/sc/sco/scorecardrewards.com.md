@@ -1,0 +1,50 @@
+> *The following text is extracted and transformed from the scorecardrewards.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222190618id_/https%3A//www.scorecardrewards.com/general_privacyPolicy.asp) for the most accurate reproduction.*
+
+# Privacy Notice
+
+Maintaining the confidentiality, integrity and security of personal information entrusted to us by the credit and debit accountholders we serve is important to us. FIS believes that you should be aware of our policies to protect the confidentiality of this information and we want you to know how we intend to use the information we receive from accountholders.
+
+We may collect the following information from visitors to scorecardrewards.com:
+
+  
+
+
+  * the domain name of visitors to this site;
+  * aggregate information on which page(s) users access or visit (like many other commercial web sites, we may implement a standard technology called a "cookie" to collect information about how our web site is used); and
+  * information provided by visitors, such as their name, e-mail address, postal address, telephone numbers, account numbers, Award selections, survey responses and/or site registrations.
+
+
+
+We use the information we collect to:
+
+  
+
+
+  * improve the content of our web pages;
+  * customize the content and/or layout of our web pages for each individual user;
+  * contact users with information about the Program or special Awards offers; and
+  * contact accountholders regarding orders for an Award they have placed online.
+
+
+
+Your contact and delivery information may be made available to firms that assist us in servicing your account. No personal information will be sold, exchanged or released to any other third party.
+
+Information regarding your Award selections will be shared with the financial institution that issued your card. Consistent with the privacy policies of your financial institution and ScoreCard Bonus Points, your purchases that earn ScoreCard Bonus Points and your account information are kept strictly confidential by ScoreCard.
+
+Substantial precautions have been taken to ensure that our systems are secure and that they meet industry standards, including the application of firewalls and use of Secure Socket Layer ("SSL") technology for Internet based systems to encrypt your personal information. To be sure your connection is secure, look at the lower left corner of your browser window. If you see an unbroken key or closed lock (depending on your browser), the SSL is active and your information is secure.
+
+Legal Disclaimer for ScoreCardRewards.com
+
+The ScoreCard Bonus Points Program is offered by and is administered by Fidelity Information Service, LLC (“FIS”). FIS expressly disclaim any liability for the use or interpretation by others of information contained in www.scorecardrewards.com. A visitor who uses or makes decisions based on the information contained in these web sites does so at the visitor's own risk. In exchange for using these web site pages, the visitor agrees to hold FIS, their affiliates, and any suppliers associated with the ScoreCard Bonus Points Program, harmless against any claims for damages arising from any decisions that the visitor makes based on such information or any use that the visitor makes of such information. While FIS tries to provide accurate and timely information on www.scorecardrewards.com and third party sites, these sites may contain inadvertent technical or factual inaccuracies and typographical errors. FIS makes no representation or warranty that the information accessible via this site is accurate, complete or current. It reserves the right to make changes and corrections at any time, without prior notice. Price and availability information is also subject to change without notice.
+
+Merchandise and services offered via this website are manufactured and/or provided by independent suppliers. FIS, FIBA AND THEIR SUPPLIERS MAKE NO GUARANTEES OR WARRANTIES REGARDING AWARDS OFFERED THROUGH THIS SITE, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS OR SUITABILITY FOR A PARTICULAR PURPOSE, OR OTHERWISE CONCERNING THE AWARDS. NOR SHALL FIS, FIBA OR THEIR SUPPLIERS BE LIABLE FOR ANY INJURY, DAMAGE OR LOSS TO ANY PERSON OR PROPERTY, OR ANY EXPENSE, ACCIDENT OR INCONVENIENCE THAT MAY ARISE IN OR FROM THE AWARDS.
+
+Links to Third Party Sites
+
+There are links that will let you go directly from www.scorecardrewards.com to a linked third-party website. The linked websites may not be under the control of FIS, and FIS is not responsible for the contents of any linked third-party site, any link contained in a linked third-party site, or any changes or updates to such third-party site. The links to these third party sites are provided only as a convenience, and the inclusion of any link does not imply endorsement of the linked site by FIS. The use and/or privacy provided by the operator of a linked third-party site to any information you provide in accessing a linked site is in no way subject to the privacy policy of the www.scorecardrewards.com site. Each linked third-party site may have its own policy which may differ considerably from the www.scorecardrewards.com policy, or the linked site may not display any privacy policy at all. In any case, even though a linked third-party site is accessed through this site, FIS will not be responsible for any use that a linked third-party site may make of your information.
+
+Names and Logos
+
+All names, logos and marks appearing on this web site, including but not limited to ScoreCard®, except as otherwise noted, are trademarks or servicemarks owned by, or under license to, FIS or its affiliates. The use or misuse of these trademarks or servicemarks or any other content of this website, except as expressly permitted in writing by FIS, is strictly prohibited.
+
+The works of art reproduced on this web site may not be reproduced in any medium for any purpose whatsoever. The copyright in the material contained in this web site belongs to and remains with FIS. Your access to it does not imply a license to reproduce or distribute this information and you are not allowed to do so without FIS’ prior written consent.
