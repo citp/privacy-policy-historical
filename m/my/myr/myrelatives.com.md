@@ -1,171 +1,168 @@
-> *The following text is extracted and transformed from the myrelatives.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502183312id_/http%3A//www.peoplefinders.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrelatives.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222212958id_/http%3A//www.myrelatives.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy at PeopleFinders
+# Privacy
 
-[<< Return to Home Page](https://web.archive.org/default.aspx)
+**October 1, 2014**
 
-## PEOPLEFINDERS.COM
+This Privacy Policy is applicable to all site users, including new and returning visitors. By using this site, you agree to abide by our Terms of Use and the policies stated in this Privacy Policy. MyRelatives (“site”, “us”, “our” or “we”) owns this website and has developed this Privacy Policy to provide details about the collection, use and disclosure of information collected on the site or interactive properties owned by us, including but not limited to mobile applications and mobile websites. By using the site or registering an account, you agree to accept and abide by the terms of this Privacy Policy and our Terms of Use. 
 
-**Last Updated:** June 10, 2010 
+**_PERSONAL INFORMATION YOU SHARE WITH US:_**
 
-PeopleFinders.com respects the privacy of our users and we have developed this Privacy Policy to demonstrate our commitment to protecting your privacy. This Privacy Policy is intended to describe for you our treatment of personally identifiable information that you provide to us as a user of PeopleFinders.com or our services, or otherwise provide to us through other means such as e-mail marketing from us or our partner web sites, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
+MyRelatives may collect information about you to help us provide the most relevant search results possible. We also collect information that you provide to us during the Account Creation process. Please review the following sections to learn more about what type of information we may collect and how that information can be used. 
 
-We encourage you to read this Privacy Policy carefully when using our web site or services, or transacting business with us. By using our web site, including, without limitation, signing up for offers and/or continuing to receive information from PeopleFinders.com, you are accepting the practices described in this Privacy Policy, and you are acknowledging that we are not providing you with a consumer report, and are certifying that you will not use the information obtained from us for any purpose covered by the Fair Credit Reporting Act (15 U.S.C. §1681, et seq.). 
+**Registration and billing information**
 
-Confi-Chek, Inc. (the parent company of PeopleFinders.com) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site [www.peoplefinders.com](http://www.peoplefinders.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+When you register on this website, we may collect the following information:
 
-If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
+  * Name
+  * Email
+  * Account Password
+  * Debit/Credit Card Number and Security Code
+  * Billing Zip 
 
-**1\. Information we collect about you**
 
-In General. We may collect personal information that can identify you, such as your name and e-mail address, and other information that does not identify you. 
 
-  * **Information you provide**. We may collect, sell, or share any personal information you enter on our web site or provide to us in some other manner, including through e-mail marketing by us, and our partners and affiliates. We only share with our partners and affiliates when you affirmatively choose to participate in our special offers. Please see below under “How you can access your information” about how to opt-out of any sharing. This includes identifying information, such as your name, address, e-mail address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information) (Please see "How we protect your personal information", below). 
-  * **Searching for people** When you are searching for people, you may enter third party personal information such as their name, address, phone, email or social security number. We only use the data you input to provide you with a request and do not use it for any other purpose. 
-  * **Tell-A-Friend**. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We store this information for the sole purpose of sending this one-time email and for tracking the success of our referral program. Your friend may contact us at <http://www.peoplefinders.com/contact-us.aspx> to request that we remove this information from our database.
-  * **Widgets** Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it.
-  * **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from our partners and affiliates, and other third parties, and supplement it with our account information or other information we have collected.
+This information is necessary to create your account and process your membership subscription. It is also used to verify your identity and confirm current, future and ongoing transactions. If you do not create an account, this information is not retained. Billing information is stored securely and only shared with third parties who are involved in verifying and completing transactions. 
 
+**Genealogy searches**
 
+While running genealogy searches, you may enter information about a third party, such as a name, address and birth year. This information is used exclusively to provide you with search results. The length of time this information is retained is at our discretion. It may be stored to help you process future searches. 
 
-Use of cookies and other technologies to collect information. We use various technologies to collect information from your computer and about your activities on our web site.
+**Family trees**
 
-  * **Information collected automatically.** We automatically collect information from your browser when you visit our web site. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies", below), and the referring web site address. 
-  * **Cookies**. We employ "cookies" to help customize your access to our web site, and also for the delivery of targeted advertisements. A cookie is a piece of data stored on your hard drive containing information about you. Through the use of a cookie, we may collect personal information about your online activity on our web site, such as the web pages you visit, the links you click, and the searches you conduct on our web site. Cookies have many benefits to enhance your experience at our web site and to facilitate the receipt of targeted advertisements. For instance, by setting a cookie on our web site, you do not have to log in a password more than once, thereby saving time while on our web site. Even in the case where you reject a cookie, you may still use our web site. We use cookies to track, monitor and target the interests of our users to further enhance the experience on our web site, and for subsequent advertising and/or delivery purposes. To find out more about cookies, please visit <http://www.cookiecentral.com/>. 
-  * **Other Technologies.** For the purpose of formatting and delivering future marketing or sales campaigns (either electronic or direct), we may employ pixel tags (also known as clear gifs) to track: 1) the pages that our users visit on affiliate and/or partner web sites; and 2) user opens of, and clicks on, our targeted e-mail advertising. We reserve the right to employ user source information, including applicable category and interest(s), for the marketing of targeted e-mail messages on behalf of our clients. This source information may be shared with our third party marketing partners, and we reserve the right to retain cookie and pixel tag data indefinitely.
-  * **Information collected by third-parties.** We may also work with other businesses to bring select retail opportunities to our users from us, our partner web sites, or our marketing partners, including affiliated third party advertisers. These e-mail campaigns may use tracking technologies, such as cookies, to collect aggregate information about users who view or interact with the e-mail marketing material. Users may remove themselves from a specific mailing list by utilizing the unsubscribe options that are present at the end of each e-mail we send on behalf of the list owner. Unsubscribing from one list will not automatically unsubscribe a user from all lists. 
+When you register with MyRelatives, you may choose to build a family tree. Please note that the information you include or add to your family tree may either be kept private or shared publicly. If you choose to share your family tree publicly, then other MyRelatives members may access it and use the information therein to help build their own family tree. Please Note: we make no guarantee of the validity or accuracy of information that any user has voluntarily contributed to their family tree. Your family tree may be deleted at any time. We reserve the right to retain information that was included in public family trees, even after they have been deleted. 
 
+**Optional information**
 
+There may be times when you are asked to provide additional information about yourself, feedback to the company or other types of optional information. It is up to you to decide whether or not you choose to disclose this information or provide feedback. We encourage users to provide feedback and other such information, as this helps us to improve our services and offer a better experience for you. If you choose to provide this information, MyRelatives retains the right to use and/or disclose it at our sole discretion. Any such feedback, content or other information is irrevocably assigned to MyRelatives, and we do not have any obligation of confidentiality (express or implied) regarding the feedback you provide. You agree that you are not entitled to any type of reimbursement or compensation under any circumstances if you provide feedback or any other optional information. 
 
-**2\. How we use the information we collect**
+**_INFORMATION COLLECTED VIA TECHNOLOGY:_**
 
-In general. We may use information that we collect about you to:
+In addition to any information collected through the means described above, MyRelatives and our third party service providers may collect additional information during your visit to this site. This may include the IP address used to access this site and the type of device used to access this site. Such information may be collected to: 
 
-  * Deliver the products and services that you have requested; 
-  * Manage your account and provide you with customer support; 
-  * Perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; 
-  * Communicate with you by e-mail, postal mail, and/or telephone about products or services that you have indicated interest in or opted into from our partners and affiliates, or other third parties (Please see below under “How you can access your information” about how to opt-out of any sharing); 
-  * Develop and display content and advertising tailored to your interests on our web site and other sites; 
-  * Enforce our terms and conditions; 
-  * Manage our business; and 
-  * Perform functions as otherwise described to you at the time of collection. 
+  * Help us remember the searches you conducted so we may offer a better experience upon your return
+  * Provide information and suggestions based on your preferences and usage history 
+  * Analyze the traffic to this site 
+  * Determine which type of devices most commonly access this site 
+  * Determine your geographic location 
 
 
 
-Financial information. We may use financial information or payment method to process payment for any purchases made on our web site, to pre-qualify you for credit card and other offers that you might find of interest, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
+The information we collect that is not Personally Identifiable Information may be used for any purpose we deem appropriate. We reserve the right to share such non-personal information with third parties. At times, third party service providers may also collect information about you during your visit to MyRelatives.com. We do not have any access to or control over the tracking technologies owned and operated by these service providers. You may choose to disable cookies or take other steps so that these types of information may not be collected, but then certain features of this site may not function properly. 
 
-Job applicants. If your personal information is submitted through our web site when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information may be shared with our partners and affiliates for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.
+**_INFORMATION COLLECTED FROM THIRD PARTY SOURCES:_**
 
-Please review "Your choices about collection and use of your information," below.
+At times we may collect information from trusted third party service providers. This is done to supplement the information you provided. For example, it may be used to update your address or billing information or to obtain relevant demographic information. This information is used to help us maintain accurate information, to help us tailor any communications that we send to you, and for internal analysis or other business related purposes. 
 
-**3\. With whom we share your information**
+**Social Media**
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services.
+The MyRelatives site may provide links to various social media platforms. If you click these links, then they may collect information such as your IP address and set a cookie that allows them to function properly. Any interaction you have with these social media links/features is governed by the Privacy Policies of the appropriate third party service provider. 
 
-Personal information. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+**_HOW WE USE YOUR PERSONAL INFORMATION:_**
 
-  * **Authorized service providers** : We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include sending direct and electronic mail, removing duplicate information from user lists, analyzing data, providing marketing analysis, and supporting our web site functionality. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes. 
-  * **Business partners** : We may collect, sell, or share any personal information you enter on our web site or provide to us in some other manner with your consent, including via e-mail marketing. We may work with other businesses to bring select retail opportunities to our users via e-mail marketing campaigns by us, or our partner web sites/co-brands, or our marketing partners, including affiliated third party advertisers. We will not share your personal information for third party marketing purposes with these third parties without your consent. The other businesses we work with may include: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; and (c) telemarketers. When you open, preview or click on the advertising portion of our e-mails and/or those of our marketing partners and/or affiliates, you have agreed to the terms set forth in our Privacy Policy, and agree that as a function of opening, previewing or clicking on the advertising portion of our e-mails, you will receive new or additional marketing communications from us. These e-mail campaigns may use tracking technologies, such as cookies, to collect information about users who view or interact with the e-mail marketing material. There are a number of places on our web site and in e-mail campaigns where you may click on a link to access other web sites that do not operate under this Privacy Policy. These third-party web sites may independently solicit and collect information, including personal information from you, and, in some instances, provide us with information about your activities on those web sites. We recommend that you consult the privacy statements of all third-party web sites you visit by clicking on the "privacy" link typically located at the bottom of the web page you are visiting.
-  * **Direct mail partners**. With your consent, we will share our e-mail/postal mailing list with selected providers of goods and services that may be of interest to you.
-  * **E-mail lists.** Users may remove themselves from a specific mailing list by utilizing the unsubscribe options that are present at the end of each e-mail we send on behalf of the list owner. Unsubscribing from one list will not automatically unsubscribe a user from all lists.
-  * **Other Situations**. We also may disclose your information: 
-    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us. 
-    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our web site terms and conditions or other agreements or policies. 
-    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. The personal information which you provide to us is an asset of the company and may be included in the assets transferred in the event of a substantial corporate transaction. 
-    * When we deem it necessary or appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, the Federal Trade Commission’s enabling regulations, and the Fair Credit Reporting Act (15 U.S.C. §1681 _et seq_.).
+**Use by us**
 
+  * To provide you with information about new and upcoming features, services or products
+  * To provide you with information that you requested/agreed to receive 
+  * For internal business purposes (analyzing data, enhancing existing products, etc.) 
+  * To improve our services 
+  * To make suggestions that may enable you to expand your family tree 
+  * To customize your experience on this website 
+  * To customize your experience on this website 
+  * To verify your identity
+  * To improve our services 
+  * For purposes that are disclosed when you provide your personal information 
+  * For any other purpose that has been declared within this Privacy Policy 
 
 
-Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the web sites of those third parties. These entities or their servers may be located either inside or outside the United States.
 
-Aggregated and non-personal information. We reserve the right to provide aggregate or group data about PeopleFinders.com users for lawful purposes. Aggregate or group data is data that describes the demographics, usage, or characteristics of PeopleFinders.com participants as a group, without disclosing personally identifiable information. By opening a PeopleFinders.com account, you agree to allow PeopleFinders.com to provide such aggregate data to third parties. By agreeing to these terms, you hereby consent to the disclosure of any record or communication to any third party when PeopleFinders.com, in its sole discretion, determines the disclosure to be appropriate. 
+**Our contact with you**
 
-If you use a blog or post your story testimonial on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. All users who have posted testimonials on the site have given their permission to post their personal information on the site and are able to have their information removed by [contacting us via email](http://www.peoplefinders.com/contact-us.aspx). 
+When you sign up for our services or contact us for any purpose, you may provide contact information including a phone number, email and address. When you do so, you agree that it constitutes either a purchase or an initiation of a business relationship with MyRelatives. You agree that this signifies your consent for us to communicate with you using the contact information you provided. You may be contacted in one or more ways, including but not limited to a telephone call (in person or from a recorded message), email, text (SMS), or any other applicable method of communication. 
 
-**4\. Links to Other Sites**
+**Transactional communication**
 
-This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites.
+When you complete any type of transaction on MyRelatives.com, we may send you a notice or confirmation. Transactional communications may include order confirmations, customer service notifications, invoices or other relevant communications. If it becomes necessary, we may also send service-related communications. An example of a service-related communication would be a notification that an order is temporarily delayed, a service is temporarily unavailable or other relevant scenarios. These communications are not promotional, so you may not opt out of receiving them. 
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+**Promotional Communications**
 
-This privacy statement applies only to information collected by this Web site.
+From time to time you may receive emails about special offers, discounts, new services or other promotions. You may choose to opt out of receiving these promotional communications and then you will no longer receive them. You may opt out of receiving promotional communications in two ways: 
 
-**5\. Third-party reports**
+  1. Every promotional email we send will include an Unsubscribe link at the bottom. When you click this link, we will automatically unsubscribe you from our mailing list. 
+  2. When logged in to your account, click the “My Account” link and then update your settings under “Email Preferences.”
 
-The information contained in our reports comes from proprietary sources and third party suppliers, and is beyond our control to edit, modify, or change. You acknowledge and agree that we shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such information.
 
-**6\. How you can access your information**
 
-If you have an online account with us, you have the ability to review and update your personal information online by logging into your account <http://www.peoplefinders.com/reports/>. You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
+Once you have Unsubscribed, we cannot guarantee that you will never receive another promotional email from us. We may obtain your email address again in the future through another marketing program that you subscribe to. If this should happen, you may opt out again using the methods listed above. Please note that even if you opt out from promotional communications, you may still receive transactional communications from us related to your account, orders your place and other services. You may not opt out from these transactional communications. 
 
-You can opt-out of having your information shared with third parties when you first signup. You can also update your preferences accessing “My Account” and updating your settings, or by [contacting us via email](http://www.peoplefinders.com/contact-us.aspx).
+**Legal matters**
 
-**7\. Your choices about collection and use of your information**
+Under certain circumstances we may, without your permission or consent, disclose your personal information or any communications that we received from you (this includes, without limitation, the contents of any message, chat, email or other communication from you) along with any additional information we have about you or your account as is permitted or required by law (including, but not limited to court order or subpoena). These circumstances include, but are not limited to: 
 
-You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our web site because such information may be required in order for you to have personalized recommendations presented to you; register as a user; purchase products or services; ask a question; or initiate other transactions on our web site. 
+  * To investigate or prevent potential fraud, violations of our Terms of Use, anything that may expose us to legal liability, or any activity that appears to be illegal.
+  * If your conduct while using this site, communicating with, or otherwise engaging with this site is in any way deemed inappropriate and not consistent with generally accepted behavioral norms.
+  * In cases of emergencies that may involve potential threats to a person’s safety, the safety of any physical property, or if we believe that the information you provided may in any way relate to such a threat. 
 
-At any time you can choose to no longer receive commercial or promotional e-mails or newsletters from us by unsubscribing. In every marketing e-mail communication we send, there is an unsubscribe hyperlink that allows the recipient to unsubscribe from that specific marketing program by simply clicking the hyperlink provided and following the instructions provided. We attempt to process all such unsubscribe requests in a prompt fashion. You can also unsubscribe by logging into “My Account”, “Email Preferences” and Opting out of receiving promotional emails. However, after unsubscribing, we cannot guarantee that you will never receive another marketing mailing from us, because we may obtain your e-mail address in the future through a different e-mail marketing program that you have opted into. We can guarantee, however, that if you should ever receive another e-mail marketing communication from us, you will be able to remove your e-mail address via the unsubscribe hyperlink. Unsubscribing from one marketing list will not automatically unsubscribe a user from all marketing lists. We may send you other types of transactional and relationship e-mail communications, such as service announcements and administrative notices, without offering you the opportunity to opt out of receiving them.
 
-**8\. How we protect your personal information**
 
-We take industry appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. When users submit information at our web site, their information is protected both online and offline. The privacy of your personal information is very important to us and access to your information is strictly limited, and not accessible to the public. The servers in which we store personally identifiable information are kept in a secure physical environment. We have security measures in place to protect the loss, misuse, and alteration of personal information under our control. Currently, we use Secure Socket Layer Software ("SSL") to protect data and to secure any transactions. SSL encrypts information, including credit card numbers, names and addresses as they are transmitted over the Internet. Please be advised that, although we take every reasonable technological precaution available to protect your data, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, we cannot warrant that your information will be absolutely secure and any transmission of data at or through our web site is at your own risk. 
+**Sale/Transfer of business and/or assets**
 
-Please refer to the Federal Trade Commission's web site at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
+In the event that this site, or any businesses owned by this company, is sold or disposed of as a going concern (this could be by a sale of assets, merger, bankruptcy, insolvency or any other method), then any Personally Identifiable Information that we have obtained from our members and/or visitors to this site may be listed as an asset that will be sold or merged as part of that transaction. Information that we receive from customers and/or registered users may also be disclosed in the event of a commercial transaction in which we, or any other business under our control, are seeking funding, financing, support or investments. If such a transaction occurs, then the Personally Identifiable Information will be subject to the pre-existing Privacy Policy that was in effect when that information was initially acquired. 
 
-To the extent that user credit card-specific information (or alternate user payment method information, such as PayPay, Google Check-Out, etc.) is collected by us and/or any of our partners and affiliates, this information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without the user's prior informed consent. Notwithstanding the foregoing, PeopleFinders.com, our partners, affiliates and/or subsidiaries reserve the right to share with third parties the fact that we have credit card information on file for specific users but we will not share the specific credit card information with third parties without the user's prior informed consent.
+**_ACCESSING OR UPDATING YOUR INFORMATION_**
 
-We value your privacy and, upon request, can block your records from being shown on peoplefinders.com from databases we control. We are unable to remove you from databases operated by third parties. To do so, you should contact us by writing a letter, signed by you (we do not accept any unsigned requests or substitute service), giving us your:
+If you believe that the personal or billing information you provided to us is outdated or incorrect, then you may review and update that information after logging in to your account and accessing the “My Account” section. You may also contact our customer service team at http://myrelatives.com/contactus.aspx for assistance. In the event that you change/update your information, we may still retain the information you initially provided for various reasons, including but not limited to: 
 
-  * First name 
-  * Last name
-  * Middle initial 
-  * Aliases and A.K.A.'s 
-  * Complete current address 
-  * Date of Birth - including month, day, and year 
-  * Additionally, for best results, please include the records that you wish to have suppressed by providing former addresses going back 20 years 
+  * Recordkeeping integrity 
+  * Analytical purposes
+  * Enforcing our Terms of Use or other policies 
+  * Preventing fraud 
+  * Resolving disputes 
+  * Taking any and all necessary actions due to technical and legal requirements/constraints related to the security, operation and integrity of this site and all related sites and applications 
 
 
 
-Please send this letter to:
+Additionally, if third parties have already collected information about you in compliance with the policies described above, then the retention of that information is subject to their policies. 
 
-Opt-Out/PeopleFinders.com  
-1821 Q Street  
-Sacramento, CA 95811
+**_OPTING OUT RECORDS FROM THIS SITE_**
 
-After receiving your letter, we usually complete the opt-out request within 7 to 10 business days. If you include a self-addressed envelope, we will send back a letter confirming that the opt-out was completed.
+MyRelatives.com gives you the ability to block records from being shown on this site. We only have the ability to block records that are under our control. Opting records out on this site will not opt them out from any other site that is not under our control. We reserve the right to require verification of your validity to opt out certain records, and may reject opt out requests at our sole discretion. To opt records out of this site, please fill out the form here. The changes you request may not be effective immediately, but we will comply with your request as quickly as is reasonably possible. Despite any opt out request we receive and honor, we may need to retain the information for recordkeeping purposes. There may also be information that remains in our database and other records, and that information will not be changed or removed 
 
-This information will be kept confidential and is used to ensure complete suppression of your records. Or, if you would prefer, there is an online service that will remove you from certain public records databases, credit offers, and other lists. Please refer to **[OptOut.com](http://www.optout.com/)** ( **[www.optout.com](http://www.optout.com/)** ). Please note that this is not a free service.
+**_COMPANY PRACTICES AND DISCLOSURES_**
 
-**9\. No Rights of Third Parties**
+**Links to other sites**
 
-This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the web site.
+MyRelatives may contain links to third party sites and communities. Please note that these external, third party sites are not under our control, and are therefore not subject to any part of this Privacy Policy. If you visit these or any other sites, we recommend that you read their Privacy Policies thoroughly. 
 
-**10\. Changes to this Privacy Policy**
+**Security**
 
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. **We reserve the right, at our discretion, to change, modify, add, and/or remove portions of this Privacy Policy at any time so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. All Privacy Policy changes will take effect immediately upon their posting on the PeopleFinders.com web site.** If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+While we take great lengths to keep your information secure, please note that no data transmission that is conducted online, via wireless transmission or through electronic storage can be guaranteed as 100% secure. Additionally, we cannot ensure that the information you transmit to us will be 100% secure. Your use of this site indicates your understanding and acceptance of this. 
 
-We recommend that you check our web site from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies. Your continued use of the PeopleFinders.com web site or acceptance of our e-mails following the posting of changes to these terms will mean that you accept these changes and agree to continue receiving e-mails from us. 
+**International Users**
 
-**11\. How to contact us**
+MyRelatives is operated exclusively in the United States. Visitors from outside of the United States should be aware that any information we collect will be transferred to, processed and stored within the United States. The data protection laws we adhere to might be different than the laws in the country from which you access this site. Your Personal Information may be subject to access requests from governments, law enforcement, courts or other United States agencies in accordance with the laws of the United States. By using this site you consent to the application of United States federal and California state laws in all matters concerning MyRelatives.com and this Privacy Policy. 
 
-If you have any questions about this Privacy Policy, please [contact us via email](https://web.archive.org/contact-us.aspx) or in writing at:
+**Updates to this Privacy Policy**
 
-PeopleFinders.com  
-Customer Service  
-1821 Q Street  
-Sacramento, CA 95811
+We reserve the right to make changes to this Privacy Policy. When changes are made, we will post the most recent version here, and update the “Last Updated” date seen above. We may choose to revise this Privacy Policy to reflect a change in our practices, technology changes, when we add new or update existing services, or for any other reason we deem necessary at our sole discretion. In the event that we change the way we use or manage any Personal Information, we will give you a reasonable opportunity to consent to that change. Should you choose not to consent, then your Personal Information will be used/managed in accordance with the Privacy Policy that was in effect during the time when we obtained the information. 
 
-**12\. Your California Privacy Rights**
+**Disputes**
 
-If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and our partners and affiliates for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
+Any visit to this site, or other sites and applications under our control is done at your own discretion. Any dispute you may have is subject to this Privacy Policy and our Terms of Use, including resolution of disputes, limitations on damages and application of the laws of the United States and the State of California. 
 
-  * The categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;
-  * The names and addresses of the third parties that received that information; and 
-  * If the nature of the third party's business cannot be determined from their name, examples of the products or services marketed. 
+**No rights for third parties**
 
+The Privacy Policy creates no rights that are enforceable by third parties or that require disclosure of any Personal Information relating to users of this site. 
 
+**CONTACT US**
 
-We will try to respond to your queries in a timely fashion. 
+If you have questions about our site, services or membership levels, then please send us an email using the form found at http://myrelatives.com/contactus.aspx 
 
-  
+Our business hours are: 
 
+Monday - Friday: 7:00am - 6:00pm PST   
+Saturday - Sunday: 7:00am - 11:30am PST   
+and 12:30PM - 3:30PM, Closed 11:30AM - 12:30PM   
+Thank you for visiting the MyRelatives Privacy Policy. 
+
+Copyright ©2014 MyRelatives.com. All rights reserved.
