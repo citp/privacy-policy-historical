@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchdocumentary.tv privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607115639id_/http%3A//www.watchdocumentary.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchdocumentary.tv privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222163634id_/http%3A//www.watchdocumentary.tv/privacy-policy) for the most accurate reproduction.*
 
 # Watch: Privacy Policy (Documentary)
 
