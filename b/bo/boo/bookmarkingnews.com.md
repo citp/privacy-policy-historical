@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarkingnews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082724id_/http%3A//bookmarkingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarkingnews.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222170602id_/http%3A//bookmarkingnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BookmarkingNewsBookmarkingNews
 
