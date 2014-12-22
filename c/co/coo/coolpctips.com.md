@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolpctips.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610075646id_/http%3A//www.coolpctips.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolpctips.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222153452id_/http%3A//www.coolpctips.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Latest Tips and Tricks - Computers, Mobiles, Gaming, Internet and Windows
 
@@ -16,7 +16,7 @@ www.coolpctips.com uses cookies to store information about visitors’ preferenc
 
 → Google, as a third party vendor, uses cookies to serve ads on www.coolpctips.com.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.coolpctips.com and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 **Our Advertising Partners**
 
