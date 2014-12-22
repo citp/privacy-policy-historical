@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pardaphash.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133608id_/http%3A//www.pardaphash.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pardaphash.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223004400id_/http%3A//www.pardaphash.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 This privacy policy is intended to protect an individual's privacy and seeks to explain the type of information The Telegraph collects from visitors to its site, what pardaphash.com does with that information, and how users may find out more about this profile. This policy may change from time to time so please check it frequently. 
 
-We at **pardaphash.com** wants to make your user experience satisfying and safe. Our data collection policies allow individuals to choose what information they want to provide us and to control how that infromation will be used by ZillR. Our objective is to provide you with a good experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have. 
+We at **pardaphash.com** wants to make your user experience satisfying and safe. Our data collection policies allow individuals to choose what information they want to provide us and to control how that infromation will be used by PardaPhash. Our objective is to provide you with a good experience while allowing you to control your privacy and giving you a means to voice any questions or concerns you may have. 
 
 **Information Collected**
 
