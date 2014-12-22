@@ -1,117 +1,67 @@
-> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045206id_/http%3A//porch.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porch.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200654id_/http%3A//porch.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Porch
 
-### Effective Date May 30, 2014
+### Effective Date December 11, 2014
 
-Welcome to Porch! This Privacy Policy applies to the Website (see the Porch Terms of Use for definitions of the capitalized terms used in this Privacy Policy) hosted in the United States and describes the information that we collect on the Website, how we use it, how we protect it and the choices you can make about your information.
+## Privacy Policy Overview
 
-If you do not agree with the terms of this Privacy Policy or the Terms, you should immediately stop using or visiting the Website.
+**_Overview._** Porch.com, Inc., a Delaware corporation, and our affiliates (collectively, “Porch,” “we,” “us”), are providing this Privacy Policy (“Privacy Policy”) with respect to all of our Services, all of which are hosted in the United States. This Privacy Policy describes our collection, use and disclosure of information that we receive when you use our Services. All terms used in this Privacy Policy that are not defined herein have the meanings set forth in our Terms of Use.
 
-### What information do we collect?
+**_Privacy Policy Updates._** We may update this Privacy Policy from time to time to reflect changes to our information practices by updating this page and the Privacy Policy effective date above. Your continued use of the Services after the date the Privacy Policy is changed (or the posted effective date, if later) will constitute your acceptance and agreement to such changes.
 
-We collect information from you when you register on our Website, post a profile, pay for services, create a scrapbook, upload a home project, claim your home, request a Porch Home Report from a third-party partner, endorse a Pro, contact a Pro or other user, contact or interact with us, subscribe to our newsletter, respond to a survey, fill out a form, and voluntarily provide us with your comments and other content in connection with using the Website.
+**_Information You Provide._** When using the Services, you may provide information about yourself, including name, address, telephone number, email address, and payment details in connection with a potential transaction. You may provide this information, for example, when you create an account, post User Submissions, request products or services, communicate with a Pro, or complete other forms. In addition, if you are a Pro, you may provide information about yourself or company, including for example, details to complete your account, User Submissions, and reference information.
 
-When registering on our Website, as appropriate, you may be asked to enter your: name, email address, mailing address or phone number. In addition, Pros may be asked for their license information and other Pros with which they worked on a Project. When paying for services through a telephone call, you may be asked for your name, billing address, shipping address, billing zip code, unique Customer ID, card number, card expiration date, CVV, tracking ID, merchant identification, payment methods, stored value card number, PIN, email, ID, and other information sufficient for our payment processor to process the transaction and provide fraud screening, information security and compliance. When calling us or certain Pros listed on our Website, your phone number and name may be collected and the call itself may be recorded.
+_Cookie Data._ Cookies (small data files that can be transferred to your electronic device to uniquely identify your browser) are used by the Services to connect your activity on the Services with other information we store about you in your account profile or from prior usage of the Services. For example, the use of cookies allows us to improve our Services by tracking saved searches, understanding your use of various features and functionality, measuring the effectiveness of advertising and otherwise creating a consistent user experience for you. At any time, you may adjust your browser settings to delete existing cookies, or refuse new cookies, according to the method permitted by your browser. If you choose to disable cookies, some of the Services may not operate properly.
 
-You may visit our Website anonymously, though we automatically collect information regarding each visitor to our Website, including your Internet Protocol address, the domain name of your Internet service provider, the Website pages you visit and the time of your visits, and aggregated information that cannot be used to specifically identify you when you use or visit the Website.
+_Log Usage Data._ Our servers automatically record usage log data created when you use the Services. Usage log data may include information such as your IP address, browser type, operating system, referring web page, visited web pages, location, mobile carrier, computer or mobile device type, search terms and cookie information.
 
-We may collect information about you from third party sources. When you log in with your Facebook credentials, we receive your Facebook login credentials and access to your Facebook profile photo and your friend network.
+_Social Networks._ If you use the social networking connection functions offered through the Services, we may access any of your social profile information that you have made available to be shared and to use it in accordance with this Privacy Policy. Please refer to your social network policies to manage information that is shared through that account.
 
-We may combine all of the information we collect from or about you and use it in the manner described in this Privacy Policy.
+_Location Data._ If you provide location information during the registration process or at any other time via your account settings, we may store that information in connection with your account (including, for example, your IP address which may provide an approximate geo-location). If you are using mobile Services, we may collect location data directly from your mobile device if your device allows us to do so. Your mobile device manufacturer or mobile service provider may provide you with choices about how and whether location data is shared with us.
 
-### Do we use cookies?
+_Telephone Calls._ From time to time, when you call us, when we call you, or when we forward calls between users and Pros, we may record those calls for quality assurance and customer satisfaction purposes. In those jurisdictions where consent is required for a party to record a telephone call, you consent to us recording such calls.
 
-Yes (Cookies are small files that a website or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the website's or service provider's systems to recognize your browser and capture and remember certain information).
+**_Information Collected by Third Parties._** Our service providers and advertising networks use cookies, web beacons or similar technologies to collect information about your use of the Services (including mobile applications) and your online activities over time and across different web sites. Collected information may include the content you review, the date and time you view content, and the referring web site, which information may be associated with your unique browser, device identifier or IP address. Cookies may be used, for example, to deliver targeted ads or analyze visitor activity. The use of cookies or similar technologies by our service providers and advertising networks is not covered by our Privacy Policy. Your browser may offer you a "Do Not Track" option, which allows you to signal to operators of websites and other properties that you do not wish such operators to track certain of your online activities. Our Services do not support Do Not Track requests at this time.
 
-We use cookies to help us understand and save your preferences and interests so we can personalize your future visits and compile aggregate data about Website traffic and Website interaction so that we can offer better Website experiences and tools in the future.
+**_Information We Collect From Third Parties._** We may obtain information about you from third parties and use it to provide a customized experience, to suggest products or services that might be of interest to you, or to supplement or correct information that you have provided to us, and generally to improve our Services.
 
-Some of our business partners, such as our Web analytics providers and our remarketing providers, also use cookies on our site, some of which may track users across websites and over time. For instance, a cookie used by our display advertising partner, AdRoll, enables us to present users with retargeting advertising on other sites based on users' previous interaction with the Website. Users can visit this page to opt out of AdRoll and its partners' targeted advertising. To opt-out of collection by Perfect Audience, see <http://www.perfectaudience.com/privacy/>.
+Any information we collect from you may be used in the following ways:
 
-### How do we use your information?
-
-Any of the information we collect from you may be used in one of the following ways:
-
-  * To provide services to you (such as administering and providing you with information about your account or connecting you with Pros or partners based on actions you take on the Website or telephone calls you make to us or to Pros listed on the Website);
-  * To personalize your experience(your information helps us to better respond to your individual needs);
-  * To improve the Website (we continually strive to improve the Website offerings based on the information and feedback we receive from you);
-  * To improve customer service(your information helps us to more effectively respond to your customer service request and support needs);
-  * To process transactions(your information will be used to deliver the information or service requested or to submit your payment information to our payment processor);
-  * To help other users become better informed as they do research, get ideas, or find a Pro for their home;
+  * To provide and improve our Services to you;
+  * To personalize your experience so that you may find the most relevant information;
+  * To manage our customer relationship with you and to improve customer service;
+  * To process transactions;
+  * To connect you with the right Pros and other individuals and to optimize the information we share with these parties to initiate a productive and efficient relationship with you;
   * To help Pros select with whom they choose to work;
-  * To administer a contest, promotion, survey or other Website feature;
-  * To send periodic emails. The email address you provide, may be used to send you information and updates pertaining to your account, in addition to receiving occasional company news, updates, related product or service information, etc.Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email;
-  * To compile aggregate data about Website traffic and Website interaction that cannot be used to specifically identify you for internal and external business purposes; and
-  * To prevent fraud and abuse of the Website and to otherwise protect members and visitors and our business.
-  * If you sign-up through Porch through the Lowe's promoted enroll.porch.com website or within a Lowe's store directly, you give Porch approval to provide your basic contact information to Lowe's.
+  * To administer a contest, promotion, contest or sweepstakes;
+  * To communicate with you via email, telephone, mobile, text (SMS), postal services and the Internet to provide you with information about products and services that may be of interest to you;
+  * To prevent fraud and abuse and to otherwise protect members and visitors and our business;
+  * To perform functions described at the time of collection; and
+  * To develop, deliver and analyze the effectiveness of our advertising, products and services.
 
 
 
-### How do we protect your information?
+Your privacy is important to us and we are committed to protecting your information in accordance with the terms of this Privacy Policy. Information that you choose to provide in a public area of the Services (such as your profile page or via User Submissions) will not be protected by this Privacy Policy because you have chosen to make that information public. Otherwise, your information and aggregate information will be shared only in accordance with this Privacy Policy as follows:
 
-We implement a variety of security measures to protect the safety of your personal information when you enter, submit, or access your personal information. Please keep your account password secure to help ensure the safety of your personal information. Credit card information You provide over the telephone is transmitted to our credit card processor Braintree through SSL encryption.
+**_Consent._** When you consent or direct Porch to share your information. For example, if you choose to contact a Pro through the Services, we may provide information to that Pro.
 
-While we take reasonable measures to protect the information you submit via the Website against loss, theft and unauthorized use, disclosure, or modification, we cannot guarantee its absolute security. No Internet or email transmission is ever fully secure or error free. Email sent to or from the Website may not be secure. You should use caution whenever submitting information online and take special care in deciding what information you send to us via email.
+**_Porch Service Providers._** We may utilize third party service providers to help us administer, provide and improve the Services and these providers have access to your personally identifiable information only as necessary to perform services for us (e.g., we may share your credit/debit card information with our third party transaction processors only as necessary to complete your purchase, or we may utilize third party service providers to provide you with targeted messaging and advertising and these providers have access to your information only as necessary to provide these offers).
 
-### Do we disclose any information to outside parties?
+**_Co-Branded Partners._** Some of our Services may be co-branded and offered in conjunction with a third party. If you use such co-branded Services both Porch and the third party may receive information provided by you or collected in conjunction with the co-branded Services. For example, If you sign-up with Porch through a Lowe's promoted or co-branded website or within a Lowe's store directly, Porch may share your information with Lowe’s.
 
-Information may be disclosed to third parties in accordance with our Privacy Policy. Please note that a user may choose not to share certain information as described in Your Choices Regarding Your Information below.
+**_Investigations and Law._** We may release personally identifiable information when we believe that doing so is appropriate to comply with applicable laws, to avoid legal liability, to cooperate with government or law enforcement or private parties; to investigate or enforce a potential violation of our Terms, policies and guidelines; to bill and collect amounts owed to us; to protect our rights, reputation, safety or property or that of users or others; and to address fraud, security or technical issues.
 
-  * A. **Third Parties.** We may use third parties to perform functions in connection with the Website, such as credit card and other payment processing, site analytics, call analytics, and marketing. We may share information about you that these third parties need to perform their functions and in accordance with our agreements with them. Any credit card information you provide may be stored by our credit card processor, Braintree, and is subject to its privacy policy, including in the case of data breach (see [ https://www.braintreepayments.com/privacy for details](https://www.braintreepayments.com/privacy%20for%20details)). We may also provide relevant value added targeted offers and messaging from third parties. We may share limited information that's only necessary to provide these offers. If You register on our Website through the promoted website of one of our partners or in a partner's store, we may share your personal information with that partner.
-  * B. **Business Changes.** If we become involved in a merger, acquisition, sale of assets, joint venture, securities offering, bankruptcy, reorganization, liquidation, dissolution, or other transaction or if the ownership of all or substantially all of our business otherwise changes, we may share or transfer your information to a third party or parties in connection therewith.
-  * C. **Subsidiaries and Affiliates.** We may also share your information with our subsidiaries and affiliates for purposes consistent with this Privacy Policy. Our subsidiaries and affiliates will be required to maintain that information in accordance with this Privacy Policy.
-  * D. **Investigations and Law.** Regardless of the choices you make regarding your information (as described below), we may disclose information about you to third parties to: 
-    * Enforce or apply the Terms;
-    * Comply with law, in response to subpoenas, warrants, or court orders, or in connection with any legal process or cooperate with government or law enforcement officials or private parties;
-    * Protect our rights, reputation, safety and property, or that of our users or others;
-    * Protect against legal liability; or
-    * Investigate, prevent or take action regarding suspected illegal activities, suspected fraud, the rights, reputation, safety or property of us, users or others, violation of the Terms, our policies or agreements or as otherwise required by law.
-  * E. **Aggregated Information.** We may share aggregated information relating to visitors to and users of the Website with affiliated or unaffiliated third parties. This aggregated information does not contain personal information about any user.
-  * F. **Pros.** We may share your information with Pros listed on the Website.
+**_Sale/Merger:_** If we become party to a merger, acquisition, joint venture, sale or pledge of assets, securities offering, bankruptcy, reorganization, liquidation, dissolution or other transaction or if the ownership of all or substantially all of our business changes, we may share or transfer your information to a third party or parties in connection therewith.
 
+Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties' direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at support@porch.com or writing us at 1551 Eastlake Ave E, Suite 275, Seattle, WA 98102.
 
+**_Changing Information; Closing Account._** To change or delete your information, you may login to your account and modify or remove specified information that resides in your account. If you want to delete your account, please contact us at support@porch.com. Please note that although Porch will remove your account within a reasonable time after receiving your request, information that you chose to provide in a public area of the Services may remain in accounts of users with whom such information has been shared, and Porch may retain and use information in backup/archival copies for our records as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-### Third party links
+**_Children._** The Services are not directed to children under 13, and we do not knowingly collect or store any personally identifiable information about persons under the age of 13. If we learn that we have collected personally identifiable information of a child under 13, we will take steps to delete such information from our files as soon as practicable.
 
-We include third party products or services on our Website. The links from the Website do not imply that we endorse or have reviewed third party websites. These third party websites have separate and independent privacy policies. We have no responsibility or liability for the content and activities of these websites. Nonetheless, we seek to protect the integrity of our Website and welcome any feedback about these linked websites.
+**_Third-Party Websites._** Our Services may contain links to other websites and services. Any information that you provide to such a third-party is provided directly to the owner or operator of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services, and we're not responsible for their content, privacy or security practices and policies. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
 
-### Analytics
+**_Security._** We use commercially reasonable security measures to protect the loss, misuse, and alteration of the information under our control. For example, when you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer (SSL) technology. However, no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the protection of any information shared with us.
 
-We use Google Analytics and several other analytics providers to better understand who is using the Website and how people are using it. Google Analytics uses cookies to collect and store information such as Website pages visited, Website elements clicked on, signups and logins, time spent on each Website page, Internet Protocol address, type of operating system used, location-based data, device ID, search history, and phone number. We use this information to improve the Website and as otherwise described in this Privacy Policy. Please see <https://tools.google.com/dlpage/gaoptout> for information about Google Analytics Opt-out Browser Add-on.
-
-### User Content
-
-Your User Submissions may be visible to other users and may be publicly available. Before providing User Submissions, please read the Porch Terms of Use carefully. You should be comfortable with the information you choose to provide. We make no representations and undertake no obligations as to the information you voluntarily provide when providing User Submissions.
-
-### Your Choices Regarding Your Information
-
-You have choices regarding the use of information on our Website.
-
-  * **Changing Your Information.** To change your information, you may login to your account's control panel and go to the 'Edit Profile' page. If you are unable to log into your account, please contact us at [help@porch.com.](mailto:help@porch.com)
-  * **Closing Your Account.** You may close your account by contacting us at [help@porch.com](mailto:help@porch.com). If the email account associated with your email address is not active, we may close your account on the Website without notice.
-
-
-
-### Information Collected From Other Websites and Do Not Track Policy
-
-Through cookies we place on your browser or device, we and our marketing partners may collect information about your online activity after you leave our Website. Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this policy. Your browser may offer you a "Do Not Track" option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites. Our Website does not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Website and after you leave our Website.
-
-### Children's Privacy
-
-We do not knowingly collect personal information from children under age 13. If you are under the age of 13, please do not submit any personal information through the Website. If you have reason to believe that we may have accidentally received personal information from a child under age 13, please contact us immediately at [help@porch.com](mailto:help@porch.com).
-
-### Terms and Conditions
-
-Please also visit the Porch Terms of Use at <http://porch.com/about/terms/>, which state the terms, disclaimers, and limitations of liability governing your use of the Website.
-
-### Changes to our Privacy Policy
-
-If we change our Privacy Policy, we will post those changes on this page, and update the Privacy Policy effective date above. Any changes will become effective immediately upon being posted, unless stated otherwise. If we make material changes to the Privacy Policy, we will post a notice on our Website and notify you by email to the email address you have provided.
-
-### Contacting Us
-
-If you have questions regarding this privacy policy, you may contact us at [support@porch.com](https://web.archive.org/web/20140625045206id_/http://porch.com/about/privacy/support@porch.com) or 1551 Eastlake Ave., Suite 275 Seattle, WA 98102.
-
-### Your California Privacy Rights
-
-Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties' direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at help@porch.com or writing us at 1551 Eastlake Ave., Suite 275 Seattle, WA 98102.
+**_Contacting Us._** If you have any questions or suggestions regarding our Privacy Policy, please contact us by email at [support@porch.com](mailto:support@porch.com) or in writing at 1551 Eastlake Ave E, Suite 275, Seattle, WA 98102.
