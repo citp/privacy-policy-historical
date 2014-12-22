@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seniorhomes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626113748id_/http%3A//www.seniorhomes.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniorhomes.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222195953id_/http%3A//www.seniorhomes.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
