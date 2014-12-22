@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowhow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111129id_/http%3A//knowhow.com/article.dhtml%3FarticleReference%3D320%26country%3Duk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowhow.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222090845id_/http%3A//knowhow.com/article.dhtml%3FarticleReference%3D320%26country%3Duk) for the most accurate reproduction.*
 
 # KNOWHOW | Privacy & Cookies
 
@@ -136,9 +136,9 @@ Any personal information we collect from you will be used in accordance with the
 
 (3) to comply with legal requirements (e.g. if you buy a TV or similar, we are obliged to pass your details to the TV licensing authority).
 
-We are a subsidiary of Dixons Retail plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
+We are a subsidiary of Dixons Carphone plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
 
-We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including Currys, PC World and Partmaster Direct, from our affiliates, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the ‘Yes’ box when entering your personal details. You may unsubscribe at a later date, if you wish - ‘Your rights’ section below.
+We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains (or those of the Dixons Carphone plc Group), including Currys, PC World, Carphone Warehouse and Partmaster Direct, from our affiliates, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the ‘Yes’ box when entering your personal details. You may unsubscribe at a later date, if you wish - ‘Your rights’ section below.
 
 ####  YOUR RIGHTS
 
