@@ -1,64 +1,63 @@
-> *The following text is extracted and transformed from the wirecardbank.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209085159id_/http%3A//www.wirecardbank.com/footermenu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirecardbank.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222214155id_/http%3A//www.wirecardbank.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Wirecard Bank AG
+# WIRECARD BANK: Privacy Policy | wirecardbank.com
 
-**Data Privacy Policy – Wirecard Bank**
+Wirecard Bank AG offer products and services for electronic payments and risk management as well as individual financial solutions to its customers. Our aim is inter alia to enable companies and consumers to process electronic payments worldwide smoothly and easily. The security and protection of personal data is one of the most important aspects in processing payments. This is why Wirecard Bank AG ensures compliance with the legal provisions on privacy, in particular in accordance with the provisions of the German Data Protection Act (BDSG) and the German Teleservices Act (TMG). This statement covers all key aspects of data privacy. Please note the following information.
 
-Wirecard Bank attaches special importance to the personal data of its customers. For this reason, Wirecard Bank takes special care of the observance of statutory data privacy regulations, in particular the Federal Data Protection Act (Bundesdatenschutzgesetz - BDSG) and the Teleservices Data Protection Act (Teledienstedatenschutzgesetzes - TDDSG). The following declaration examines all important aspects of data protection. Please take note of the following information. 
+### **General information**
 
-**General provisions**
+This website provides information on the services offered by Wirecard Bank AG. Wirecard Bank AG also offers a personal area for banking operations (e-banking) with restricted access for the respective customers only. 
 
-The Internet presence of Wirecard provides information about Wirecard Bank and the services it offers. In addition, Wirecard Bank offers a personal area for banking operations (e-banking) with limited access. 
+### **Data Controller**
 
-**Responsible body  
-**
+Wirecard Bank AG with its business address at Einsteinring 35, 85609 Aschheim, Germany, is the Data Controller as defined by the BDSG. 
 
-As defined by German law, the responsible body is the Wirecard Bank AG, Einsteinring 35, 85609 Aschheim.  
- **  
-Anonymous page view  
-**
+Customers remain Data Controller for all data processed by Wirecard Bank AG or by other affiliates of the Wirecard Group as part of contracted data processing on behalf of such customers. Wirecard Bank AG as Data Processor will refer to the respective customer(s) in the event of any queries regarding this data.
 
-As a matter of principle, the pages of Wirecard Bank’s Internet presence can be called up without indicating personal data. Automatically collected data (see below) is made anonymous prior to its storage and use. 
+### **Anonymous page view**
 
-**Collection and use of personal data  
-**
+As a rule, pages of the Wirecard Bank AG website can be viewed anonymously. Data that is collected automatically (see below) is anonymized prior to being stored and processed. 
 
-Wirecard Bank collects personal data directly from the customer for the purpose of establishing, maintaining and handling business relations. In doing so, Wirecard Bank strictly adheres to the principle of data economy, as defined in the Federal Data Protection Act. Directly collected data is e.g. the customer’s name and address, telephone number, date of birth and e-mail address.   
-Wirecard Bank uses the data collected from the customer for processing customer orders as well as for order-related communication with the customer (e.g. in case of further inquiries), further services and marketing offers. The customer is entitled to object to the use of the data for advertising purposes at the above-mentioned responsible body at any time.   
-For the purpose of communicating with the customer, Wirecard Bank uses, in addition to the customer’s address, the e-mail address indicated by the customer.   
-Customer data is no longer used after termination of the business relationship with Wirecard Bank and deleted upon expiry of the statutory periods. In the event that the customer requests the deletion of his/her personal data prior to the expiry of this period, the data will be blocked instead of deleted. 
+### **Collection and process of personal data**
 
-**Disclosure of personal data**
+Wirecard Bank AG processes payment information on behalf of its customers (merchants) as part of payment processing and related services (e.g. risk management). Particularly in its role as a Data Processor, Wirecard Bank AG works through its affiliated customers towards compliance with the principle of data efficiency as defined under the BDSG. 
 
-Wirecard Bank uses the data collected from the customer exclusively for its own business purposes. The data will be disclosed exclusively to subcontractors of Wirecard Bank within the scope of business transactions, e.g. for sending credit and bank cards. The data may be disclosed to certain service providers, e.g. credit reference agencies, for the purpose of identity verification and fraud protection.   
-The data will not be disclosed to third parties - in particular for the purpose of address trading. 
+The affiliated customer (merchant) concerned is considered as the Data Controller for processed payment data. Sensitive data in particular, such as credit card numbers and account details, are processed as part of payment processing. This data is encrypted and stored in the Wirecard Bank AG databases in compliance with PCI DSS regulations. 
 
-**Automatically collected data**
+The data processed on behalf of an affiliated customer (merchant) is processed only for the purpose requested by this customer – e.g. payment processing and risk management. Depending on the contracted service, additional information, such as IP geolocation data and credit reports may also be consulted. 
 
-In order to constantly improve the configuration of Wirecard Bank’s Internet presence and its services, data for statistical purposes is collected on the website of Wirecard Bank. In doing so, all data automatically transferred by the customer upon visiting the website of Wirecard Bank is collected. This among other includes the IP address, visited pages of Wirecard Bank’s Internet presence, data and time of the visit, cookies as well as information on the used browser, operating system and language settings.   
-Wirecard Bank uses the tool of the company Wired Minds to evaluate the data collected this way. For this purpose, the data is processed in anonymised form. This particularly refers to the IP address, which is made anonymous prior to further processing. 
+Any and all data processed on behalf of a customer will be stored as specified by the customer and also deleted at the customer's request – at the latest, however, following expiry of the applicable statutory periods imposed by law. In the event that a customer requests removal of her data before expiry of the applicable statutory period, the data will usually be blocked instead of being deleted. 
 
-**Cookies**
+### **Disclosure of personal data**
 
-Cookies are text files sent to your computer in order to recognise it during the use of the website. In some areas of its Internet presence, Wirecard Bank uses cookies in order to facilitate the use of the pages for the customer make them more individual.   
-The customer can configure his/her web browser in such a way that he/she is informed about the application of a cookie or the application of cookies is inhibited.  More information on this can be obtained via the help function of the used web browser (e.g. Microsoft Internet Explorer or Firefox).
+Wirecard Bank AG will process personal data only as requested by its affiliated customers (merchants). This data is disclosed exclusively to subcontractors of Wirecard Bank AG for the purpose of completing the transaction. This data may be disclosed to relevant service providers, e.g. credit rating agencies, for the purpose of identity verification and fraud prevention. The data will not be disclosed to other third parties – e.g. for the purpose of selling addresses. 
 
-**External links  
-**
+### **Right of revocation concerning the collection, processing and use of personal data**
 
-Some parts of Wirecard Bank’s Internet presence contain links to websites of third parties in order to be able to provide the customer with extensive information. Wirecard Bank has no influence on the configuration of these websites and assumes no responsibility for the contents offered on them. The provisions of this declaration are not applicable to these external websites. 
+The customer may revoke her consent to the collection, processing and utilization of personal data at any time with effect for the future. The revocation shall be addressed to the aforementioned Data Controller. 
 
-  
-**Right of revocation  
-**
+Please note that Wirecard Bank AG may not be able to perform certain services in the event of such a revocation. 
 
-The customer may revoke his/her consent to the collection, processing and use of his/her personal data at any time with effect for the future. The revocation shall be addressed to the above-mentioned responsible body.   
-Please note that Wirecard Bank may no longer be able to render certain services in case of revocation. 
+### **Automatically collected non-personal data.**
 
-  
-**Right to demand information**
+When visiting the Website of Wirecard Bank AG, statistical data are automatically collected and recorded in order to constantly improve the design of the Wirecard group website. This includes the IP address, pages visited on the site, data and time of visit, cookies, and information regarding the visitor's browser, operating system and language settings. On the basis of this non-personal data user profiles are created using a pseudonym. Cookies may be used for this purpose (please refer to the definition of the term “Cookies” below under the respective headline). These data are processed only in pseudonymous form. This especially applies for the IP-address which is processed and stored only abbreviated i.e. without the last two number blocks. The data collected will not be used to personally identify the customer and will not be merged with personal data about the bearer of the pseudonym without the express permission of the respective individual. As soon as the storage of the data is no longer necessary for the creation of the user profile, they will be deleted. 
 
-Upon request, Wirecard Bank will provide information to the user about his/her personal data. Upon request of the customer, the information may also be provided in electronic form. 
+For the processing of the non-personal data, Wirecard Bank AG uses the technologies of the etracker GmbH ([www.etracker.com](http://www.etracker.com/)).
 
-  
+### **Right of revocation concerning the collection, processing and utilization of non-personal data**
 
+The customer may revoke her consent to the collection, processing and utilization of personal data at any time with effect for the future. The revocation shall be addressed to the aforementioned Data Controller. In this event the non-personal data of the respective customer will no longer be collected, processed or utilized. Please note that some parts of the Website of Wirecard Bank AG may - as consequence of the revocation - not work correctly. Furthermore, all non-personal data of the party requesting the revocation of her data which have already been stored will be deleted.
+
+### **Cookies**
+
+Cookies are text files that are locally stored on the temporary storage of your internet-browser to recognize it. Wirecard Bank AG utilizes cookies in some sections of its website to make it easier for customers to use the site and to customize its design. 
+
+Customers can configure their browsers to inform them when a cookie is being saved or to prevent cookies from being saved altogether. Information on how to do this is available from the help function of the browser in question. 
+
+### **External links**
+
+Some pages of third parties are linked on the website of Wirecard Bank AG in order to provide customers with comprehensive information. Wirecard Bank AG has no influence over the design of these websites and is not responsible for the content provided therein. The principles contained in this statement do not apply to the aforementioned external websites. 
+
+### **Right to information**
+
+At the request of a user, Wirecard Bank AG will provide the user with information regarding the personal data held on file. At the request of this user, this information may also be provided by electronic means.
