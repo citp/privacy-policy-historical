@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yapaa.com privacy policy that was archived on 2013-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130802050523id_/http%3A//www.yapaa.com/content/10-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yapaa.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222014004id_/http%3A//www.yapaa.com/en/content/10-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yapaa.com
 
@@ -94,9 +94,9 @@ H OAddress:Laxmi Road,Pune-30,
 
 Telephone No.:(020)24482323,
 
-Ghod  Dod Road,Surat-07
+Ghod  Dod Road,Surat-395001 
 
-(0261)2650010
+(0261) 4121000 
 
 **E-Mail ID** :   **info@yapaa.com**  
 
