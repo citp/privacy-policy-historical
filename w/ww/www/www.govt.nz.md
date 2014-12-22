@@ -1,92 +1,90 @@
-> *The following text is extracted and transformed from the www.govt.nz privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520222552id_/http%3A//newzealand.govt.nz/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.govt.nz privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222142420id_/https%3A//www.govt.nz/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy information — Search newzealand.govt.nz
+# Privacy statement | New Zealand Government
 
-  1. ### Purpose
+## Purpose
 
-The purpose of this privacy policy is to let users of newzealand.govt.nz (the “Site”) know when we collect personal and other information and what we do with it. We do not use, share or transfer personal information except as set out in this policy. The Site is operated by the Department of Internal Affairs (DIA).
+The purpose of this privacy policy is to let users of Govt.nz (the “Site”) know when we collect personal information and what we do with it. We don't use, share or transfer personal information in connection with the Site except as set out in this policy.
 
-## Collection, storage and use of personal information
+## Collection, storage and use
 
-  2. ### No need to disclose personal information
+### No need to disclose personal information 
 
-The Site can be viewed and its web feeds can be subscribed to without the need to disclose any personal information to us.
+You can use the Site — including completing user research tasks — without disclosing any personal information.
 
-  3. ### Your disclosure of personal information
+### Your disclosure of personal information 
 
-You may decide to disclose personal information by providing identifying information within the search terms you enter into the Site when carrying out searches (for example, you might conduct a search on your name and address).
+However, you may choose to disclose personal information to us when you give feedback or in submission forms. This information will be viewable by site administrators, certain Department of Internal Affairs (“DIA”) staff and sometimes third-party contractors who administer, or work on, the Site or who work on special projects with us. Please don't send us sensitive personal information or include any sensitive personal information in submission forms.
 
-  4. ### Holding of information
+### Holding of information
 
-Personal information that you provide within your search terms (if any) will be held by DIA. Such information may also be held by Google Inc because the Site uses a portion of the Google public index for its search functionality. Google’s use of such information is addressed in its [Privacy Policy](http://www.google.com/intl/en/privacypolicy.html).
+If you provide personal information, it will be held by DIA. It may be shared with third-party contractors to the extent necessary for them to administer or work on the Site or to work on special projects with us. Email addresses are not made available to the public. Unless required by law, we won't publicise the names or email addresses of individuals who provide feedback to us or who provide us with submission forms without their consent.
 
-  5. ### Use of personal information
+### Use of personal information 
 
-We will only use personal information provided to us, and usually only at an aggregated level, for the following purposes:
+We'll only use personal information provided to us for the purpose of administering, evaluating and improving the Site, improving our services and communicating with you (including responding to your feedback and information provided in submission forms).
 
-    1. to administer and evaluate this Site; and
-    2. to improve the organisation's services.
-  6. ### Sharing of personal information
+### Feedback
 
-We may share search terms entered into newzealand.govt.nz with other government agencies in connection with our administering the Site and improving its functionality.
+Feedback is important and is used to evaluate and improve the Site. If you provide feedback by email or by using the feedback form, that feedback will be sent to appropriate DIA staff. We may pass on relevant comments to other people within DIA who administer or contribute content to the Site. This could include your email address and other identifying information that you've provided.
+
+### Submission forms
+
+If you provide us with a submission form, that submission form will be sent to appropriate DIA staff. We may pass on relevant content from that submission form to other people within DIA, other government agencies or third parties who administer or are participating in the particular project that the submission form relates to. This could include your email address and other identifying information that you've provided.
 
 ## Statistical information and cookies
 
-  7. ### Statistical information
+### Statistical information collected 
 
-We may collect statistical information about your visit to help us analyse usage of, and improve, the Site. This information includes:
+We may collect statistical information about your visit to help us improve the Site. This information is aggregated and doesn't identify you personally. It includes:
 
-    1. users' IP addresses;
-    2. users' search terms;
-    3. pages accessed on the Site;
-    4. links that are clicked on;
-    5. date and time of Site visits;
-    6. previous visited site;
-    7. users' operating systems; and
-    8. browsers used when accessing the Site.
+  * your IP address
+  * the search terms you used
+  * the pages you accessed on our Site and the links you clicked on
+  * the date and time you visited the site
+  * the referring site (if any) through which you clicked through to this site
+  * your operating system (e.g., Windows XP, Mac OS X)
+  * the type of web browser you use (e.g. Internet Explorer, Mozilla Firefox) 
+  * other things like your screen resolution and the language setting of your browser.
 
-This information is viewable by Site administrators and certain other DIA staff. It may also be shared with other government agencies.
 
-Google may also collect some or all of this information when javascript is turned on in your Internet browser. This is due to the Site using a portion of the Google public index for its search functionality. Google’s use of such information is addressed in its [Privacy Policy.](http://www.google.com/intl/en/privacypolicy.html)
 
-  8. ### Cookies
+### Use of statistical information 
 
-This Site generates both persistent and temporary cookies (files that a website transfers to your computer).
+The statistical information referred to above will be viewable by Site administrators and certain other DIA staff. It may also be shared with other government agencies.
 
-It generates persistent session cookies for the purpose of monitoring Site usage. The cookies do not collect personal information. You can disable them or clear them out of the web browser you are using to view this Site without affecting your ability to use the Site. They are named “__utmz”, “__utma” and “__utmb”.
+### Cookies 
 
-The Site generates temporary cookies to monitor site usage and to maintain site presentation for those who wish to use the Site’s high contrast view. These particular cookies are named “__utmc” and “default_stylesheet”. They do not store any personal information and are deleted immediately when you close your browser.
-
-If you prefer not to use cookies, you can still use the Site. To find out how to disable cookies, check the Help instructions in your web browser.
+This site generates persistent session cookies for the purpose of monitoring site usage. The cookies don't collect personal information. You can disable them or clear them out of your web browser without affecting your ability to use the Site.
 
 ## Records and disclosure statement
 
-  9. ### Public Records, Official Information and Parliament
+### Public Records, Official Information and Parliament 
 
-Personal and other information disclosed to us on or via the Site may constitute public records and be retained to the extent required by the Public Records Act 2005. We may also be required to disclose such information under the Official Information Act 1982 or to a Parliamentary Select Committee or Parliament in response to a Parliamentary Question.
+Your emails and contributions to the site may constitute public records and be retained to the extent required by the Public Records Act 2005. DIA may also be required to disclose those materials under the Official Information Act 1982 or to a Parliamentary Select Committee or Parliament in response to a Parliamentary Question.
 
 ## Rights of access and correction
 
-  10. ### Your rights
+### Your rights
 
-You have the right to access and to request correction of any of your personal information provided to us in connection with your use of this Site. If you would like to see the personal information relating to you that we have stored, or to request correction of such personal information, or if you have any concerns regarding your privacy, please contact us at the address below. We may require proof of your identity before being able to provide you with any personal information.
+Under the Privacy Act 1993, you have the right to access and to request correction of any of your personal information provided to DIA in connection with your use of this site. If you would like to see or change your personal information DIA has stored, or if you have any concerns regarding your privacy, please contact us at the address below. DIA may require proof of your identity before being able to provide you with any personal information.
 
 The Privacy Officer  
 Department of Internal Affairs  
-PO Box 10-526  
-Wellington 6143  
-New Zealand 
-  11. ### Privacy Commissioner
+PO Box 805  
+Wellington 6140  
+Phone:[04 495 7200](tel:044957200)  
+Email: [privacy@dia.govt.nz](mailto:privacy@dia.govt.nz)
 
-If you are not satisfied with our response to any privacy-related concern you may have, you can contact the Privacy Commissioner:
+## Privacy Commissioner 
+
+If you're not satisfied with our response to any privacy-related concern you may have, you can contact the Privacy Commissioner:
 
 Office of the Privacy Commissioner  
 PO Box 10-094  
 Wellington, New Zealand  
-Phone: +64-4-474 7590  
-Enquiries Line (from Auckland): 302 8655  
-Enquiries Line (from outside Auckland): 0800 803 909  
-Fax: +64-4-474 7595  
-Email: [enquires@privacy.org.nz](mailto:enquires@privacy.org.nz)
-
-
+Phone: [04 474 7590](tel:044747590)  
+Enquiries Line (from Auckland):[302 8655](tel:093028655)  
+Enquiries Line (from outside Auckland): [0800 803 909](tel:0800803909)  
+Fax: 04 474 7595  
+Email: [enquiries@privacy.org.nz](mailto:enquiries@privacy.org.nz)
