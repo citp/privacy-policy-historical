@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the dewalt.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625075259id_/http%3A//dewalt.com/Privacy-Security.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dewalt.com privacy policy that was archived on 2014-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222144959id_/http%3A//www.dewalt.com/Privacy-Security.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="X-UA-Compatible" content="IE=10">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><!--[if lt IE 9 ]> <html class="ie8"> <![endif]--><head><meta http-equiv="X-UA-Compatible" content="IE=10">
 <meta name="description" content="DEWALT is the leader in contractor power tools including cordless drills, woodworking tools and professional power tools.">
 <meta name="keywords" content="Dewalt, tools, power tools, cordless, woodworking, miter saws">
 
@@ -12,20 +12,53 @@
 <meta property="fb:admins" content="40099666845">
 <meta property="og:description" content="">
 <meta http-equiv="content-type" content="text/html;charset=utf-8"><meta http-equiv="Content-Style-Type" content="text/css"><link type="image/x-icon" href="favicon.ico" rel="Shortcut Icon">
-    
-    <!--[DBG] JS: jQuery, jQuery-UI, jQuery-UI (i18n) -->
-    <!--<script type="text/javascript" src="assets/dbg/lib/jquery/jquery-1.3.2.js"></script>-->
-    <!--<script type="text/javascript" src="assets/js/jquery.tools.min.1.1.2.js"></script>-->
-    <!--<script type="text/javascript" src="assets/dbg/lib/jquery-ui/jquery-ui-1.7.2.js"></script>-->
-    <!--<script type="text/javascript" src="assets/dbg/lib/jquery-ui/i18n/jquery-ui-i18n-1.7.2.js"></script>-->
-    <!--  [MIN] JS: jQuery, jQuery-UI, jQuery-UI (i18n) -->
-    
+   
     <!-- consolidated root.Master js -->
-
-    <script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/5133.js?439485" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MBGT"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="assets/js/rootMaster.js"></script>
-
+    <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/5133.js?439485" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MBGT"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/smoothness/jquery-ui.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script> 
+    
+    
+    <script type="text/javascript" language="javascript">
+        (function($) {
+            $.extend({
+                metadata: {
+                    defaults: { type: 'class', name: 'metadata', cre: /({.*})/, single: 'metadata' },
+                    setType: function(type, name) {
+                        this.defaults.type = type;
+                        this.defaults.name = name;
+                    },
+                    get: function(elem, opts) {
+                        var settings = $.extend({}, this.defaults, opts);
+                        if (!settings.single.length) settings.single = 'metadata';
+                        var data = $.data(elem, settings.single);
+                        if (data) return data;
+                        data = "{}";
+                        if (settings.type == "class") {
+                            var m = settings.cre.exec(elem.className);
+                            if (m) data = m[1];
+                        } else if (settings.type == "elem") {
+                            if (!elem.getElementsByTagName) return;
+                            var e = elem.getElementsByTagName(settings.name);
+                            if (e.length) data = $.trim(e[0].innerHTML);
+                        } else if (elem.getAttribute != undefined) {
+                            var attr = elem.getAttribute(settings.name);
+                            if (attr) data = attr;
+                        }
+                        if (data.indexOf('{') < 0) data = "{" + data + "}";
+                        data = eval("(" + data + ")");
+                        $.data(elem, settings.single, data);
+                        return data;
+                    }
+                }
+            });
+            $.fn.metadata = function(opts) { return $.metadata.get(this[0], opts); };
+        })(jQuery);
+    </script>
+ 
     <!-- CSS: jQuery-UI: core + effects + theme -->
-    <link type="text/css" href="assets/lib/jquery-ui/jquery-ui-1.7.2.css" rel="stylesheet">
+    
+    
     <!-- star ratings -->
     
     <!-- the sprite-like button method 
@@ -42,6 +75,10 @@
     <!-- <script type="text/javascript" src="Assets/js/wtinit.js"></script> -->
 
     <!-- End WebTrends 1 of 3 needed tagging -->
+    <script type="text/javascript" language="javascript">
+        var _gaq = _gaq || []; (function (a) { a.fn.ytGaTrack = function () { var g = []; var c; var f; var i; var b = -1; if (typeof (YT) === "undefined") { a.getScript("http://www.youtube.com/player_api") } return this.each(function () { a(this).click(function () { var m = a(this).attr("href"); var n = h(m); d(m); window.setTimeout(function () { var o = k(n); if (o) { c = new YT.Player(o, { events: { onReady: e, onStateChange: l } }) } }, 1500) }) }); function e() { j(c.getPlayerState()) } function l(m) { j(m.data) } function j(n) { var m = g; switch (n) { case 0: if (!m[b][4]) { _gaq.push(["_trackEvent", "YouTube", "Reach 100%", m[b][0]]); m[b][4] = true } window.clearInterval(f); break; case 1: if (!m[b][5]) { _gaq.push(["_trackEvent", "YouTube", "Start", m[b][0]]); m[b][5] = true } window.clearInterval(f); f = window.setInterval(function () { if (!document.getElementById(i)) { j(2) } else { if (typeof (c.getCurrentTime) !== "undefined") { var o = (c.getCurrentTime() / c.getDuration()) * 100; if (!m[b][1] && o > 25) { _gaq.push(["_trackEvent", "YouTube", "Reach 25%", m[b][0]]); m[b][1] = true } else { if (!m[b][2] && o > 50) { _gaq.push(["_trackEvent", "YouTube", "Reach 50%", m[b][0]]); m[b][2] = true } else { if (!m[b][3] && o > 75) { _gaq.push(["_trackEvent", "YouTube", "Reach 75%", m[b][0]]); m[b][3] = true } } } } } }, 100); break; case 2: if (!m[b][6]) { _gaq.push(["_trackEvent", "YouTube", "Stop", m[b][0]]); m[b][6] = true } window.clearInterval(f); break; default: break } } function d(n) { var m = false; for (var o = 0; o < g.length; o++) { if (g[o][0] === n) { m = true; b = o; break } } if (!m) { g.push([n, false, false, false, false, false, false]); b = g.length - 1 } } function k(n) { var m = a("iframe[src*=" + n + "]"); var n; if (m.attr("id")) { n = m.attr("id") } else { n = "yt-ga-" + n; m.attr("id", n) } i = n; return n; return null } function h(o) { var n = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/; var m = o.match(n); if (m && m[2].length === 11) { return m[2] } else { } } } })(jQuery);
+    </script>
+
      <link rel="stylesheet" type="text/css" href="Assets/jscripts/prettyphoto/css/prettyPhoto.css">
      <script type="text/javascript" src="Assets/jscripts/prettyphoto/js/jquery.prettyPhoto.js"></script>
     
@@ -116,7 +153,7 @@
     </script>
 
     <!-- End SBD Global Google analytics tracking code -->
-<title>
+     <link id="ctl00_ctl00_canonical" rel="canonical" href="http://www.dewalt.com/Privacy-Security.aspx"><title>
 	DEWALT | Power Tools, Contractor Tools and Accessories
 </title></head>
 <body id="ctl00_ctl00_mybody">
@@ -130,8 +167,8 @@
         'gtm.start':
             new Date().getTime(), event: 'gtm.js'
     }); var f = d.getElementsByTagName(s)[0],
-    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
 })(window, document, 'script', 'dataLayer', 'GTM-MBGT');</script>
     <!-- End Google Tag Manager -->
 
@@ -145,29 +182,8 @@
     
     <form method="post" action="/Privacy-Security.aspx" id="aspnetForm">
 <div class="aspNetHidden">
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNTQ5ODczOTQPZBYCZg9kFgJmD2QWBAIBD2QWAmYPZBYEZg9kFghmDxYCHgRUZXh0BQw8bWV0YSBuYW1lPSJkAgIPFgIfAAULIiBjb250ZW50PSJkAgMPFgIfAAV5REVXQUxUIGlzIHRoZSBsZWFkZXIgaW4gY29udHJhY3RvciBwb3dlciB0b29scyBpbmNsdWRpbmcgY29yZGxlc3MgZHJpbGxzLCB3b29kd29ya2luZyB0b29scyBhbmQgcHJvZmVzc2lvbmFsIHBvd2VyIHRvb2xzLmQCBA8WAh8ABQQiIC8+ZAICD2QWCGYPFgIfAAUMPG1ldGEgbmFtZT0iZAICDxYCHwAFCyIgY29udGVudD0iZAIDDxYCHwAFPURld2FsdCwgdG9vbHMsIHBvd2VyIHRvb2xzLCBjb3JkbGVzcywgd29vZHdvcmtpbmcsIG1pdGVyIHNhd3NkAgQPFgIfAAUEIiAvPmQCAw9kFgJmD2QWAmYQZGQWBAIHD2QWDmYPDxYCHg1BbHRlcm5hdGVUZXh0BRBHdWFyYW50ZWVkIFRvdWdoZGQCAQ8PFgIfAAUQUHJpdmFjeS9TZWN1cml0eWRkAgIPDxYCHwAFDERFV0FMVCBMZWdhbGRkAgMPDxYCHwAFH1NhZmUgVHJhdmVsIHdpdGggQ29yZGxlc3MgVG9vbHNkZAIEDw8WAh8ABQZHbG9iYWxkZAIFDw8WAh8ABRNDb21wYW55IEluZm9ybWF0aW9uZGQCBg8PFgIfAAUYSU1QT1JUQU5UIFNBRkVUWSBSRUNBTExTZGQCCQ9kFhJmDxYCHwBlZAIBD2QWAmYPZBYCAgEPZBYCAgIPDxYCHwAFBlN1Ym1pdGRkAgQPFgIeB1Zpc2libGVoFgoCAQ8WAh8CaGQCAw8WAh8CZ2QCBQ8WAh8CaBYCAgEPDxYCHwAFB1Byb2ZpbGVkZAIHDw8WAh8ABQdBY2NvdW50ZGQCCw8PFgIfAAUHTG9nIE91dGRkAgUPZBYCAgMPDxYCHwAFBlN1Ym1pdGRkAggPDxYCHwAFD0JlY29tZSBhIE1lbWJlcmRkAgkPFgIfAmgWAgIBDw8WBB8ABQ1Pd25lcnMgQ2VudGVyHwJoZGQCCg8WAh8CZ2QCCw8PFgIfAAUVUmVnaXN0ZXIgeW91ciBQcm9kdWN0ZGQCDA8PFgIfAAUNV2lzaCBMaXN0ICgwKWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBUhjdGwwMCRjdGwwMCRCb2R5Q29udGVudFBsYWNlSG9sZGVyJGN0bEhlYWRlciRjdGxTZWFyY2hEcm9wRG93biRpbWdTZWFyY2g1wBsbywykVTLd3tzqLQYgOUZ1D7cuYxEjXsAlqe9cdQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNTQ5ODczOTQPZBYCZg9kFgJmD2QWBAIBD2QWBGYPZBYEZg9kFghmDxYCHgRUZXh0BQw8bWV0YSBuYW1lPSJkAgIPFgIfAAULIiBjb250ZW50PSJkAgMPFgIfAAV5REVXQUxUIGlzIHRoZSBsZWFkZXIgaW4gY29udHJhY3RvciBwb3dlciB0b29scyBpbmNsdWRpbmcgY29yZGxlc3MgZHJpbGxzLCB3b29kd29ya2luZyB0b29scyBhbmQgcHJvZmVzc2lvbmFsIHBvd2VyIHRvb2xzLmQCBA8WAh8ABQQiIC8+ZAICD2QWCGYPFgIfAAUMPG1ldGEgbmFtZT0iZAICDxYCHwAFCyIgY29udGVudD0iZAIDDxYCHwAFPURld2FsdCwgdG9vbHMsIHBvd2VyIHRvb2xzLCBjb3JkbGVzcywgd29vZHdvcmtpbmcsIG1pdGVyIHNhd3NkAgQPFgIfAAUEIiAvPmQCBg8WAh4EaHJlZgUraHR0cDovL3d3dy5kZXdhbHQuY29tL1ByaXZhY3ktU2VjdXJpdHkuYXNweGQCAw9kFgJmD2QWAmYQZGQWBAIHD2QWEGYPDxYCHg1BbHRlcm5hdGVUZXh0BRBHdWFyYW50ZWVkIFRvdWdoZGQCAQ8PFgIfAAUQUHJpdmFjeS9TZWN1cml0eWRkAgIPDxYCHwAFDERFV0FMVCBMZWdhbGRkAgMPDxYCHwAFH1NhZmUgVHJhdmVsIHdpdGggQ29yZGxlc3MgVG9vbHNkZAIEDw8WAh8ABQZHbG9iYWxkZAIFDw8WAh8ABRNDb21wYW55IEluZm9ybWF0aW9uZGQCBg8PFgIfAAUYSU1QT1JUQU5UIFNBRkVUWSBSRUNBTExTZGQCBw8PFgIfAAULREVXQUxUIEdlYXJkZAIJD2QWEmYPFgIfAGVkAgEPZBYCZg9kFgICAQ9kFgICAg8PFgIfAAUGU3VibWl0ZGQCBA8WAh4HVmlzaWJsZWgWCgIBDxYCHwNoZAIDDxYCHwNnZAIFDxYCHwNoFgICAQ8PFgIfAAUHUHJvZmlsZWRkAgcPDxYCHwAFB0FjY291bnRkZAILDw8WAh8ABQdMb2cgT3V0ZGQCBQ9kFgICAw8PFgIfAAUGU3VibWl0ZGQCCA8PFgIfAAUPQmVjb21lIGEgTWVtYmVyZGQCCQ8WAh8DaBYCAgEPDxYEHwAFDU93bmVycyBDZW50ZXIfA2hkZAIKDxYCHwNnZAILDw8WAh8ABRVSZWdpc3RlciB5b3VyIFByb2R1Y3RkZAIMDw8WAh8ABQ1XaXNoIExpc3QgKDApZGRkP9LnBmS+odTX9pY9EcMGHx35jZFuFRSW7r84M19GdaQ=">
 </div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
-
-<script src="/WebResource.axd?d=kMMuhh_tLb1TVVxljLJo48IxZAJnIJAc1JadX0pE2Yx45yZqNRn-uvozSF4ZctVofXPy0rRX2ofppNWTsHXeege_qhdsQwuzVkdh2Xu-EAg1&amp;t=635217132300000000" type="text/javascript"></script>
 
 
 <script src="/ScriptResource.axd?d=zg7JMZ9E6nbb7HhBceDeO71bAAj78DHSSCwnIQafI5Ep-2e3GMkVD99gyIhYus6WFbI3WZHI2MJ8sRHvSR7InDtMq_2qLPkKKs4gNSDO4rZOjnYmQmjWHYNskQavVsj1jO8YxAKivIm5gNge8fT9PhCMHOkzpNhccIcSCXMzVAIJWi8PaSpqviAKBTVsp9su0&amp;t=6119e399" type="text/javascript"></script>
@@ -177,18 +193,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=_ZPmv_GtDis3bvps3s0lyOGWSH4BXdZDHpKIl6VWQ32i2VYYgmC5ANghKfntzrx4Hq3xsHU15QkqFLzDWOUcpMI5RaEJxeX-VFYdlay44GSeLkyGQ1CImMWYyx5CiRaqOhp1P0Yvz4HkdIGqYrZbFr7-uZrgu7DPaqTa8eYvYWOE1PaJ6cGNIs5Rx2pmglt_0&amp;t=6119e399" type="text/javascript"></script>
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="phRHBk-eKjvyoNxl5dEr52iWKw-CVaRo8uyzAtcvWf9xaeu-SO_6Mwn5aWEqPXup_sihIub9hjY5y4m07xOXk3BaKwkh2ofLHMqtfurHuk-U-OX8iORcKteGIMxcvrDtWqOcJaNgbIb3MlKfwUEU0Q2">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA5rFA+eHTN3rvYqIH9lp2kkLpnulT6WHW/IHBQUl8nwPYpT4c78iPlyHq2h/488mrGv3omgJKDOCFaftB92Ulsdy9WWicKI+PN/EnjiA+3tcm+8jILvEzFyhYyw7gYzsFeLuiLET2TLvoPr7U5CNVfFFzb2EiLnwm/Ued4xMbmBUp5kfMuq3D1524OiEtTiWH0Qso8KqlmQ16XOgDQHU/sJDJsCGUvm/BmFfqYL1O9xOLhklbKbCtHOo5pPSDKY2IPt3sqKoM4oXvYZ9jgzSKBvzPSEDRRhxKYQmm3/P0hqDlywDGDiObh3FLHChz0qocLxRecXG9BV/RtGcDdkEVtg">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA6Rj6HZlF9ZUChsyBcPxiMELpnulT6WHW/IHBQUl8nwPYpT4c78iPlyHq2h/488mrGv3omgJKDOCFaftB92Ulsdy9WWicKI+PN/EnjiA+3tcm+8jILvEzFyhYyw7gYzsFeLuiLET2TLvoPr7U5CNVfFFzb2EiLnwm/Ued4xMbmBUp5kfMuq3D1524OiEtTiWH0Qso8KqlmQ16XOgDQHU/sJDJsCGUvm/BmFfqYL1O9xOLhklbKbCtHOo5pPSDKY2IPt3sqKoM4oXvYZ9jgzSKBvzPSEDRRhxKYQmm3/P0hqDiTZ6bNIphPRmKTVrbu6KHfaNcR0lCB0Rnfl7e3Mbz2X">
 </div>
-        <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$ScriptManager1', 'aspnetForm', ['tctl00$ctl00$BodyContentPlaceHolder$ctlHeader$ctlSearchDropDown$UpdatePanel1',''], [], [], 90, 'ctl00$ctl00');
-//]]>
-</script>
-
+        
         
     <!-- Doubleclick Tag -->
     
@@ -413,7 +423,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
 
 
     <div style="clear: both;"></div>
-        <p style="width: 800px;">
+        <p style="width: 900px;">
         Follow Us: <a href="http://www.facebook.com/pages/DEWALT/40099666845?ref=search&amp;sid=1612452245.1386789998..1" target="_blank" style="vertical-align:top;">
             <img border="0" src="assets/images/socialmedia/socialmedia_facebook_small.jpg" alt="Follow us on Facebook" align="absmiddle" class="socialmedia"></a>&nbsp;
                     <a href="http://www.youtube.com/user/dewalttv" target="_blank">
@@ -433,7 +443,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
         <a id="ctl00_ctl00_BodyContentPlaceHolder_ctlFooter_footerLinkCompany" href="Company-Information.aspx">Company Information</a>
         &nbsp;|&nbsp;
                 <strong>
-                    <a id="ctl00_ctl00_BodyContentPlaceHolder_ctlFooter_footerLinkRecall" href="Safety-Product-Recalls.aspx">IMPORTANT SAFETY RECALLS</a></strong>
+         <a id="ctl00_ctl00_BodyContentPlaceHolder_ctlFooter_footerLinkRecall" href="Safety-Product-Recalls.aspx">IMPORTANT SAFETY RECALLS</a></strong>
+                     &nbsp;|&nbsp;
+        <strong><a id="ctl00_ctl00_BodyContentPlaceHolder_ctlFooter_footerLinkGear" href="http://towweb.corpgear.com" target="_blank">DEWALT Gear</a></strong>
     </p>
     <!-- end footer section -->
 
@@ -460,9 +472,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
             autoOpen: false,
             close: function(event, ui) {
 
-            document.getElementById("PasswordRecoveryMessage").innerHTML = "";
-        }
-    });        
+                document.getElementById("PasswordRecoveryMessage").innerHTML = "";
+            }
+        });
 
         $("#divEmailingPassword").dialog({
             bgiframe: true,
@@ -473,27 +485,21 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
 
                 document.getElementById("PasswordRecoveryMessage").innerHTML = "";
             }
-        });        
-    
-        
+        });
+
+
         $('a.forgotPasswordOverLay').click(function(event) {
             $("#showhidePasswordRecovery").dialog('open');
             event.preventDefault();
         });
-        
 
         
         $('#loginlink').click(function(event) {
             $(".hidemsg > p").hide();
+            var obj = $("#modal_login100");
             $("#modal_login100").dialog('open');
             event.preventDefault();
         });
-        
-
-        $('a#findRetailerLink').click(function() {
-            location.href = "/Find-Retailer.aspx";
-         });
-
 
         function showLoginDropdown() {
             
@@ -546,6 +552,10 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
             }
         );
         
+
+      //$("a#findRetailerLink").click(function() {
+      //    location.href = "/Find-Retailer.aspx";
+      //});
 
  
         $("#findRetailer").hover(
@@ -820,7 +830,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
                     &nbsp;&nbsp; <a href="#" id="loginlink">
                         Login&nbsp;&nbsp;►</a>
                     <div id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_loginDropdown" class="dropdown">
-                        <div id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_aspLoginPanel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_btnLogin')">
+                        <div id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_aspLoginPanel">
 	
                             <div style="float: left; width: 150px;">
                                 Username / Email</div>
@@ -856,9 +866,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
             
             <!-- end viewProfilePanel area -->
             <div id="findRetailer">
-                &nbsp;&nbsp;<a id="findRetailerLink" href="#">Nearby Retailers&nbsp;&nbsp;►</a>
+                &nbsp;&nbsp;<a id="findRetailerLink" href="/Find-Retailer.aspx">Nearby Retailers&nbsp;&nbsp;►</a>
                 <div class="dropdown" style="width: 220px;">
-                    <div id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_aspRetailerPanel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_btnFindRetailer')">
+                    <div id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_aspRetailerPanel">
 	
                         <input name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$txtFindRetailer" type="text" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_txtFindRetailer" onfocus="this.value=''" class="text" autocomplete="off" size="30" value="Enter a ZipCode or City/State">
                         &nbsp;
@@ -872,7 +882,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
 <div id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_UpdatePanel1">
 	
         <div id="search">
-            <div id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_aspSearchPanel" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_imgSearch')">
+            <div id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_aspSearchPanel">
 		
                 <div class="searchTextBox">
                     
@@ -882,8 +892,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
                 <!-- <input name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$ctlSearchDropDown$searchTextBox" type="text" value="SEARCH HERE" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_searchTextBox" class="searchTextBox" style="background-color:#FFCC33;border-width:0px;border-style:None;font-weight:bold;" /> -->
                 <div class="searchIconX" id="searchpaneltrigger">
                     <!--<img src="../../Assets/images/iconHeaderSearch.gif" alt="Search icon" border="0" />-->
-                    <input type="image" name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$ctlSearchDropDown$imgSearch" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_imgSearch" class="imgSearchButton" src="Assets/images/iconHeaderSearch.gif" alt="Search icon" onclick="searchBox();" style="border-width:0px;">
-                    
+                    <a onclick="searchBox();" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_imgSearch" href="javascript:__doPostBack('ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$ctlSearchDropDown$imgSearch','')"><img id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_imgSearchImage" class="imgSearchButton" src="Assets/images/iconHeaderSearch.gif" alt="Search icon"></a>
                     <script type="text/javascript">
                         function searchBox() {
                             var terms = $("#ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_ctlSearchDropDown_searchinput").val();
@@ -893,7 +902,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
                     </script>
                     
                     <!-- Add functionality for  'prevent default [See code from product.aspx] -->
-                    <div class="dropdown" style="display: none;">
+                    <div class="dropdown">
                         
                     </div>
                     <!-- end dropdown -->
@@ -955,19 +964,19 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
                     
                 
                     <div class="catDiv">
-                        <a href="/tools/Air-Tools.aspx" target="" class="cat">
-                            Air Tools</a>
-                    </div>
-                    
-                
-                    <div class="catDiv">
                         <a href="/tool-categories/reference-guides.aspx" target="" class="cat">
                             Apps, Books and Courses</a>
                     </div>
                     
                 
                     <div class="catDiv">
-                        <a href="/tool-categories/compressors.aspx" target="" class="cat">
+                        <a href="/tool-categories/automotive.aspx" target="" class="cat">
+                            Automotive</a>
+                    </div>
+                    
+                
+                    <div class="catDiv">
+                        <a href="/tool-categories/compressors2.aspx" target="" class="cat">
                             Compressors</a>
                     </div>
                     
@@ -1063,6 +1072,12 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
                     
                 
                     <div class="catDiv">
+                        <a href="/tool-categories/outdoorpe.aspx" target="" class="cat">
+                            Outdoor Power Equipment</a>
+                    </div>
+                    
+                
+                    <div class="catDiv">
                         <a href="/tools/Power-Tools.aspx" target="" class="cat">
                             Power Tools</a>
                     </div>
@@ -1074,16 +1089,16 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
                     </div>
                     
                 
+
+                            </div>
+                            <div id="toolsCol_5">
+                            
                     <div class="catDiv">
                         <a href="/tool-categories/safetyproductsandworkgear.aspx" target="" class="cat">
                             Safety Products and Workgear</a>
                     </div>
                     
                 
-
-                            </div>
-                            <div id="toolsCol_5">
-                            
                     <div class="catDiv">
                         <a href="/tool-categories/Saws.aspx" target="" class="cat">
                             Saws</a>
@@ -1221,6 +1236,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
                             
                             
                             <ul style="position:relative; left:-10px; top:0px;">
+            <li class="">
+                <a href="/tool-part-categories/Nails.aspx" target="">Finish Nails</a>
+                                      
+            </li>
+        
             <li class="">
                 <a href="/tool-part-categories/biscuits.aspx" target="">Biscuits</a>
                                       
@@ -1362,9 +1382,61 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$BodyContentPlaceHolder$
 
 </div>
 <!-- end header section -->
+<div id="divEmailingPassword" class="hidden">
+    <span class="forgotPasswordLabel1">Your password will be emailed to...
+    </span>
+    <br>
+    <span id="spanYourEmail"></span>
+</div>
 
-
-
+<div id="showhidePasswordRecovery" class="hidden">
+    <div id="PasswordRecoveryQuestionAnswerPanel">
+        <div class="header" style="border-top: 1px solid #CCCCCC; width: 455px; height: 20px;">
+        </div>
+        <div class="passwordRecoveryOutput" style="visibility: hidden;">
+            &nbsp;</div>
+        <p>
+            <span id="PasswordRecoveryMessage" style="color: red; font-weight: bold; font-size: 12px;"></span>
+        </p>
+        <p>
+            Enter your email and answer the following question to be automatically logged in.</p>
+        <p>
+            Email address:&nbsp;&nbsp;
+            </p>
+        <input type="text" id="PasswordRecoveryEmail" value="" style="border: 1px #a5acb2 solid; width: 275px;">
+        <br>
+        <br>
+        <p>
+            
+        </p>
+        <p>
+            <a id="btnEmailPassword" href="#">Get Password by Email&nbsp;&nbsp;►</a>
+            <img id="recovery_email_working" class="hidden" src="/assets/images/ajax-loader.gif" alt="loading...">
+        </p>
+        <br>
+        <p>
+            <a id="btnGetPasswordRecoveryQuestion" href="#">
+                Get Password Recovery Question&nbsp;&nbsp;►</a>
+            <img id="recovery_question_working" class="hidden" src="/assets/images/ajax-loader.gif" alt="loading...">
+        </p>
+        <div id="divQuestionAnswer" class="hidden">
+            <p>
+                Question:</p>
+            &nbsp; <span id="PasswordRecoveryQuestion">&nbsp;</span>
+            <p>
+                Answer:&nbsp;&nbsp;<input type="text" id="PasswordRecoveryAnswer" style="border: 1px #a5acb2 solid; width: 275px;"><br>
+                <br>
+            </p>
+            <p>
+                <a href="#" id="btnVerifyAnswer">
+                    Submit&nbsp;&nbsp;►</a>
+                <img id="recovery_login_working" class="hidden" src="/assets/images/ajax-loader.gif" alt="loading...">
+            </p>
+        </div>
+        <!-- end divQuestionAnswer -->
+    </div>
+    <!-- end PasswordRecoveryQuestionAnswerPanel -->
+</div>
 <!-- end Password Recovery Panel area -->
 
 <script type="text/javascript">
@@ -1438,109 +1510,7 @@ width:175px;
 </style>
 <![endif]-->
 <!-- modal_login100 -->
-
-<!-- end modal_login -->
-<!-- Hidden command button that actually logs user in and creates AT cookie  -->
-<input type="submit" name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$login$ButtonHiddenLogin" value="" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_login_ButtonHiddenLogin" style="display: none">
-
-
-
-
-<!--[if IE 7]>
-<style media="screen" type="text/css">
-
-.login_confirmoverlay {
-background-color:#FFFFFF;
-font-family:Arial,Helvetica,sans-serif;
-padding:0 0 10px 9px;
-text-align:left;
-width:450px;
-}
-
-</style>
-<![endif]-->
-<!-- - - - - - LOGIN CONFIRM OVERLAY- - - - - -->
-<!-- - - - - - uses login_confirm.css for styling- - - - - -->
-
-<!-- end modal_login_confirm -->
-
-
-
-
-
-<!-- - - - - - modal_screenname- - - - - -->
-<!-- - - - - - uses Login_Screenname.css for styling- - - - - -->
-
-<!-- end modal_screenname -->
-
-
-
-
-
-<!-- - - - - -modal_screenset- - - - - -->
-<!-- - - - - - uses Login_Screenset.css for styling- - - - - -->
-
-<!-- end modal_screenset -->
-
-
-        </div>
-    </form>
-    <!-- MYLIHS01 -->
-
-    <iframe src="http://img-cdn.mediaplex.com/0/13952/universal.html?page_name=dewalt_home_page&amp;DWLT_RT_ALL=1&amp;mpuid=" height="1" width="1" frameborder="0"></iframe>
-    <!-- START OF SmartSource Data Collector TAG  *** part 2 of 3 *** -->
-    <!-- Copyright (c) 1996-2010 WebTrends Inc.  All rights reserved. -->
-    <!-- V8.0 -->
-    <!-- $DateTime: 2007/03/05 13:33:14 $ -->
-
-    
-
-    <!-- END OF SmartSource Data Collector TAG  *** part 2 of 3 *** -->
-    <!-- START OF WebTrends SmartSource Data Collector TAG for wtbase.js   *** part 3 of 3 ***
-    goes on all sites Be aware of the domain list hard-coded in wtbase.js...   var doms="blackanddecker,dewalt,deltaportercable,2helpu";     -->
-
-    <!-- <script type="text/javascript" src="Assets/js/wtbase.js"></script> -->
-
-    <!-- END OF WebTrends SmartSource Data Collector TAG for wtbase.js -->
-    
-    <!-- END OF WebTrends SmartSource Data Collector TAG for code section for tracking users who do not have JavaScript enabled  *** part 3 of 3 *** -->
-    <!-- ClickTale Bottom part -->
-    <div id="ClickTaleDiv" style="display: none;">
-    </div>
-
-    <script type="text/javascript">
-        document.write(unescape("%3Cscript%20src='" +
-     (document.location.protocol == 'https:' ?
-      'https://clicktale.pantherssl.com/' :
-      'http://s.clicktale.net/') +
-     "WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://clicktale.pantherssl.com/WRc5.js" type="text/javascript"></script>
-
-    <script type="text/javascript">
-        var ClickTaleSSL = 1;
-        if (typeof ClickTale == 'function') ClickTale(543, 0.0342, "www08");
-    </script>
-
-    <!-- ClickTale end of Bottom part -->
-
-    <!-- Listrak -->
-
-    <script type="text/javascript">
-        var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-        document.write(unescape("%3Cscript src='" + biJsHost + "cdn.listrakbi.com/scripts/script.js?m=e21lHDKic1MQ&v=1' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://cdn.listrakbi.com/scripts/script.js?m=e21lHDKic1MQ&amp;v=1" type="text/javascript"></script>
-    <script type="text/javascript">
-        setTimeout(function () {
-            var a = document.createElement("script");
-            var b = document.getElementsByTagName("script")[0];
-            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/5133.js?" + Math.floor(new Date().getTime() / 3600000);
-            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
-        }, 1);
-    </script>
-
-
-
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-modal_login100" style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-modal_login100" unselectable="on">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="modal_login100" class="hidden ui-dialog-content ui-widget-content" style="display: block;">
+<div id="modal_login100" class="hidden">
 	<div class="overlaylogin">
 		<div class="header">
 		</div>
@@ -1575,7 +1545,30 @@ width:450px;
 		<!-- end formenv -->
 	</div>
 	<!-- end overlaylogin -->
-</div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-modal_login_confirm" style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-modal_login_confirm" unselectable="on">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="modal_login_confirm" class="hidden ui-dialog-content ui-widget-content" style="display: block;">
+</div>
+<!-- end modal_login -->
+<!-- Hidden command button that actually logs user in and creates AT cookie  -->
+<input type="submit" name="ctl00$ctl00$BodyContentPlaceHolder$ctlHeader$login$ButtonHiddenLogin" value="" id="ctl00_ctl00_BodyContentPlaceHolder_ctlHeader_login_ButtonHiddenLogin" style="display: none">
+
+
+
+
+<!--[if IE 7]>
+<style media="screen" type="text/css">
+
+.login_confirmoverlay {
+background-color:#FFFFFF;
+font-family:Arial,Helvetica,sans-serif;
+padding:0 0 10px 9px;
+text-align:left;
+width:450px;
+}
+
+</style>
+<![endif]-->
+<!-- - - - - - LOGIN CONFIRM OVERLAY- - - - - -->
+<!-- - - - - - uses login_confirm.css for styling- - - - - -->
+<div id="modal_login_confirm" class="hidden">
     <div class="login_confirmoverlay">
         <div class="header">
         </div>
@@ -1588,7 +1581,16 @@ width:450px;
         <!-- end formenv -->
     </div>
     <!-- end login_confirmoverlay -->
-</div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-modal_screenname" style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-modal_screenname" unselectable="on">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="modal_screenname" class="hidden ui-dialog-content ui-widget-content" style="display: block;">
+</div>
+<!-- end modal_login_confirm -->
+
+
+
+
+
+<!-- - - - - - modal_screenname- - - - - -->
+<!-- - - - - - uses Login_Screenname.css for styling- - - - - -->
+<div id="modal_screenname" class="hidden">
     <div class="screenname">
         <div class="header">
         </div>
@@ -1612,7 +1614,16 @@ width:450px;
         <!-- end formenv -->
     </div>
     <!-- end screenname -->
-</div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-modal_screenset" style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-modal_screenset" unselectable="on">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="modal_screenset" class="hidden ui-dialog-content ui-widget-content" style="display: block;">
+</div>
+<!-- end modal_screenname -->
+
+
+
+
+
+<!-- - - - - -modal_screenset- - - - - -->
+<!-- - - - - - uses Login_Screenset.css for styling- - - - - -->
+<div id="modal_screenset" class="hidden">
     <div class="screenset">
         <div class="header">
         </div>
@@ -1625,56 +1636,80 @@ width:450px;
         <!-- end formenv -->
     </div>
     <!-- end screenset -->
-</div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-showhidePasswordRecovery" style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-showhidePasswordRecovery" unselectable="on">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="showhidePasswordRecovery" class="hidden ui-dialog-content ui-widget-content" style="display: block;">
-    <div id="PasswordRecoveryQuestionAnswerPanel">
-        <div class="header" style="border-top: 1px solid #CCCCCC; width: 455px; height: 20px;">
+</div>
+<!-- end modal_screenset -->
+
+
         </div>
-        <div class="passwordRecoveryOutput" style="visibility: hidden;">
-            &nbsp;</div>
-        <p>
-            <span id="PasswordRecoveryMessage" style="color: red; font-weight: bold; font-size: 12px;"></span>
-        </p>
-        <p>
-            Enter your email and answer the following question to be automatically logged in.</p>
-        <p>
-            Email address:&nbsp;&nbsp;
-            </p>
-        <input type="text" id="PasswordRecoveryEmail" value="" style="border: 1px #a5acb2 solid; width: 275px;">
-        <br>
-        <br>
-        <p>
-            
-        </p>
-        <p>
-            <a id="btnEmailPassword" href="#">Get Password by Email&nbsp;&nbsp;►</a>
-            <img id="recovery_email_working" class="hidden" src="/assets/images/ajax-loader.gif" alt="loading...">
-        </p>
-        <br>
-        <p>
-            <a id="btnGetPasswordRecoveryQuestion" href="#">
-                Get Password Recovery Question&nbsp;&nbsp;►</a>
-            <img id="recovery_question_working" class="hidden" src="/assets/images/ajax-loader.gif" alt="loading...">
-        </p>
-        <div id="divQuestionAnswer" class="hidden">
-            <p>
-                Question:</p>
-            &nbsp; <span id="PasswordRecoveryQuestion">&nbsp;</span>
-            <p>
-                Answer:&nbsp;&nbsp;<input type="text" id="PasswordRecoveryAnswer" style="border: 1px #a5acb2 solid; width: 275px;"><br>
-                <br>
-            </p>
-            <p>
-                <a href="#" id="btnVerifyAnswer">
-                    Submit&nbsp;&nbsp;►</a>
-                <img id="recovery_login_working" class="hidden" src="/assets/images/ajax-loader.gif" alt="loading...">
-            </p>
-        </div>
-        <!-- end divQuestionAnswer -->
+    </form>
+    <!-- TOWIHS02 -->
+
+    <iframe src="http://img-cdn.mediaplex.com/0/13952/universal.html?page_name=dewalt_home_page&amp;DWLT_RT_ALL=1&amp;mpuid=" height="1" width="1" frameborder="0"></iframe>
+    <!-- START OF SmartSource Data Collector TAG  *** part 2 of 3 *** -->
+    <!-- Copyright (c) 1996-2010 WebTrends Inc.  All rights reserved. -->
+    <!-- V8.0 -->
+    <!-- $DateTime: 2007/03/05 13:33:14 $ -->
+
+    
+
+    <!-- END OF SmartSource Data Collector TAG  *** part 2 of 3 *** -->
+    <!-- START OF WebTrends SmartSource Data Collector TAG for wtbase.js   *** part 3 of 3 ***
+    goes on all sites Be aware of the domain list hard-coded in wtbase.js...   var doms="blackanddecker,dewalt,deltaportercable,2helpu";     -->
+
+    <!-- <script type="text/javascript" src="Assets/js/wtbase.js"></script> -->
+
+    <!-- END OF WebTrends SmartSource Data Collector TAG for wtbase.js -->
+    
+    <!-- END OF WebTrends SmartSource Data Collector TAG for code section for tracking users who do not have JavaScript enabled  *** part 3 of 3 *** -->
+    <!-- ClickTale Bottom part -->
+    <div id="ClickTaleDiv" style="display: none;">
     </div>
-    <!-- end PasswordRecoveryQuestionAnswerPanel -->
-</div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-divEmailingPassword" style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-divEmailingPassword" unselectable="on">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="divEmailingPassword" class="hidden ui-dialog-content ui-widget-content" style="display: block;">
-    <span class="forgotPasswordLabel1">Your password will be emailed to...
-    </span>
-    <br>
-    <span id="spanYourEmail"></span>
-</div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div></div></body></html>
+
+    <script type="text/javascript">
+        document.write(unescape("%3Cscript%20src='" +
+            (document.location.protocol == 'https:' ?
+                'https://clicktale.pantherssl.com/' :
+                'http://s.clicktale.net/') +
+            "WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://clicktale.pantherssl.com/WRc5.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        var ClickTaleSSL = 1;
+        if (typeof ClickTale == 'function') ClickTale(543, 0.0342, "www08");
+    </script>
+
+    <!-- ClickTale end of Bottom part -->
+
+    <script type="text/javascript">
+        if ($('html').is('.ie8')) {
+            /* do nothing */
+        } else {
+            var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+            document.write(unescape("%3Cscript src='" + biJsHost + "cdn.listrakbi.com/scripts/script.js?m=e21lHDKic1MQ&v=1' type='text/javascript'%3E%3C/script%3E"));
+        }
+    </script>
+    <script type="text/javascript">
+        setTimeout(function () {
+            var a = document.createElement("script");
+            var b = document.getElementsByTagName("script")[0];
+            a.src = document.location.protocol + "//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/5133.js?" + Math.floor(new Date().getTime() / 3600000);
+            a.async = true; a.type = "text/javascript"; b.parentNode.insertBefore(a, b)
+        }, 1);
+    </script>
+    <script type="text/javascript">
+        piAId = '54932';
+        piCId = '2844';
+
+        (function () {
+            function async_load() {
+                var s = document.createElement('script'); s.type = 'text/javascript';
+                s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+                var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+            }
+            if (window.attachEvent) { window.attachEvent('onload', async_load); }
+            else { window.addEventListener('load', async_load, false); }
+        })();
+    </script>
+
+
+</body></html>
