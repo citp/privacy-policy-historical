@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622100159id_/http%3A//www.dana-farber.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dana-farber.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200851id_/http%3A//www.dana-farber.org/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dana-Farber Cancer Institute | Boston, MA
 
