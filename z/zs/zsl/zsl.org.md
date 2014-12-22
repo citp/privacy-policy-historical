@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626221150id_/http%3A//www.zsl.org/zsl-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zsl.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222212843id_/http%3A//www.zsl.org/zsl-privacy-policy) for the most accurate reproduction.*
 
 # ZSL Privacy Policy | Zoological Society of London (ZSL)
 
 This website is owned and run by the Zoological Society of London, registered charity number 208728, and its wholly owned trading company Zoo Enterprises Limited company number 01178687 (together being "ZSL"). ZSL are committed to protecting your privacy in accordance with their obligations under the Data Protection Act 1998. This privacy policy explains what information ZSL collects about you and how it will be used. When you access and use this website you agree to be legally bound by all our terms and conditions as well as our privacy policy outlined below.
-
-### How we collect data about your use of this website
-
-ZSL try to ensure that our website offers visitors an enjoyable experience. To help us achieve this goal ZSL and our appointed agency may collect anonymous information about your use of this website and your reading of the newsletter from cookies and or by the use of pixel tags.
-
-Cookies are small data files that are sent to your browser and pixel tags are used to read such cookies. Most internet browsers automatically accept cookies but you can delete existing cookies from your browser and, by editing your internet browser options, choose not to receive cookies in future. Please note that if you do opt to reject cookies any personalised functionality of this website, for example the shop, will not operate correctly.
-
-Find out more about the cookies set by the ZSL website and how to delete and control them here: [Cookie information](http://www.zsl.org/cookies-listing.html)
 
 ### Transactions
 
@@ -18,10 +10,9 @@ ZSL make every effort to maintain customer confidentiality when securing an onli
 
 ### What information do we collect?
 
-ZSL collect information from you to enable us to provide you with the goods and services you ask for. This may include your name, address, telephone, email address, credit or other payment card details. ZSL do not retain payment card details following completion of a transaction. If any of the information you have provided changes at any time or appears to be incorrect please let ZSL know by sending an email to [editor@zsl.org](mailto:editor@zsl.org)
+ZSL collect information from you to enable us to provide you with the goods and services you ask for. This may include your name, address, telephone, email address, credit or other payment card details. ZSL does not retain payment card details following completion of a transaction. If any of the information you have provided changes at any time or appears to be incorrect please let ZSL know by sending an email to [editor@zsl.org](mailto:editor@zsl.org)
 
-ZSL will use the information you enter into the website only for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails that link to such forms.  
-ZSL may also collect internet protocol addresses to diagnose problems with our servers and for system administration, but ZSL do not link these addresses to any person's name or identity.
+ZSL will use the information you enter into the website only for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails that link to such forms. ZSL may also collect internet protocol addresses to diagnose problems with our servers and for system administration, but ZSL do not link these addresses to any person's name or identity.
 
 Whenever ZSL ask you for information about yourself you may, by ticking the relevant box, opt out of receiving other communications. In addition, whenever you receive other communications by email you will be told how to opt out of being updated by email in the future. If you choose to opt out of being updated as described above ZSL will cease all such future disclosure of data.
 
@@ -43,30 +34,18 @@ ZSL will retain the personal information you provide within the United Kingdom, 
 
 ZSL is committed to the security of your personal information and we have security procedures in place to protect the loss, misuse or alteration of information under our control.
 
-### Privacy policy: Cat Map
+### How we collect data about your use of this website
 
-ZSL collect information from you to enable us to provide you with the goods and services you ask for. This may include your name, address and email address.
+ZSL try to ensure that our website offers visitors an enjoyable experience. To help us achieve this goal ZSL and our appointed agencies may collect anonymous information about your use of this website and other digital communications from cookies and or by the use of pixel tags.
 
-Addresses provided for use on Cat Map are randomly offset from the exact location and will not be displayed on the page or used for any other purpose.
+Cookies are small data files that are sent to your browser and pixel tags are used to read such cookies. Most internet browsers automatically accept cookies but you can delete existing cookies from your browser and, by editing your internet browser options, choose not to receive cookies in future. Please note that if you do opt to reject cookies any personalised functionality of this website, for example the shop, will not operate correctly.
 
-ZSL will use the information you enter into the website only for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails that link to such forms.
+Find out more about the cookies set by the ZSL website and how to delete and control them here: [Cookie information](http://www.zsl.org/cookies-listing.html)
 
-Whenever ZSL ask you for information about yourself you may, by ticking the relevant box, opt out of receiving other communications. In addition, whenever you receive other communications by email you will be told how to opt out of being updated by email in the future. If you choose to opt out of being updated as described above ZSL will cease all such future disclosure of data.
+### Analytics
 
-Please let ZSL know if you want details of the personal information we hold about you by emailing [editor@zsl.org](mailto:editor@zsl.org).
+ZSL uses Google Analytics to collect data about traffic through the ZSL website via Google advertising cookies and anonymous identifiers. In addition to data collected through a standard Google Analytics implementation,  ZSL uses the following advertising features: Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations & Google Analytics Demographics and Interest Reporting
 
-In no circumstances will ZSL collect any data that is not directly related to the use of this website so, for example, we will not record other sites that you have visited.
+ZSL will not facilitate the merging of personally-identifiable information with non-personally identifiable information collected through any Google advertising product or feature unless there is robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger.
 
-### Copyright and reproduction
-
-Each image submitted must be the sole owner of the copyright and must not infringe the rights of any other party.
-
-The copyright in all images submitted to Cat Map will remain with the copyright holder.
-
-By uploading an image to Cat Map each user grants to ZSL a non-exclusive irrevocable licence to reproduce, publish and communicate to the public by any means their image(s) and copies of their image(s) in all media throughout the world in relation to Cat Map including but not limited to all use in the context of:
-
-  * Inclusion in ZSL magazines and/or similar.
-  * Inclusion within ZSL’s websites, including within interactive elements associated with the competition and/or exhibition (now known or hereafter created) available for viewing or download from ZSL’s websites.
-  * Inclusion in promotional, press and marketing materials associated with Cat Map.
-
-
+If you wish to opt- out of Google Analytics tracking please visit and install the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/).
