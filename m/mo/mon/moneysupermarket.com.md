@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysupermarket.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626102432id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysupermarket.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222013454id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # moneysupermarket.com - Legal Services
 
@@ -20,18 +20,18 @@ We will periodically review your personal information to ensure that we do not k
 **  
 We and other members of the Moneysupermarket Group may use your personal information for the following purposes:
 
-  1. to enable you to access and use the Services; and/or
-  2. to personalise and improve aspects of our overall service to you and our other users, as well as carrying out research such as analysing market trends and customer demographics; and/or
-  3. to communicate with you, including sending you information about products and services which we think may be of interest to you, and sending you annual insurance renewal quotes based on information you previously provided to us if you have requested insurance quotes; and/or
+  1. to enable you to access and use the Services; and/or 
+  2. to personalise and improve aspects of our overall service to you and our other users, as well as carrying out research such as analysing market trends and customer demographics; and/or 
+  3. to communicate with you, including sending you information about products and services which we think may be of interest to you, and sending you annual insurance renewal quotes based on information you previously provided to us if you have requested insurance quotes; and/or 
   4. to process a transaction between you and a third party. 
 
 
 
 **Passing on information about you** As part of using our Services you consent to us disclosing your personal information to the following parties:
 
-  1. Third parties, including but not limited to companies whose products or services are included on our website with a view to providing you with an online quotation for the product and/or service requested by you.Â  When these companies use your data in this way, they will be acting as data controllers of your information and therefore you should view their privacy policies or contact them directly for further information. For further information about these third parties, please contact us at [DPO@moneysupermarket.com](mailto:DPO@moneysupermarket.com). Some third parties with which we share your information may use it to carry out research such as analysis of market trends and customer demographics and to customise and develop the product/service which they offer to you or other individuals in the future.
+  1. Third parties, including but not limited to companies whose products or services are included on our website with a view to providing you with an online quotation for the product and/or service requested by you. When these companies use your data in this way, they will be acting as data controllers of your information and therefore you should view their privacy policies or contact them directly for further information. For further information about these third parties, please contact us at [DPO@moneysupermarket.com](mailto:DPO@moneysupermarket.com). Some third parties with which we share your information may use it to carry out research such as analysis of market trends and customer demographics and to customise and develop the product/service which they offer to you or other individuals in the future. 
   2. Some product providers may carry out checks against data they already hold on you (or is held by the company whose brand they administer the product for, or members of their group of companies) such as data from existing products, account data or loyalty scheme data. They may use this data to help them assess and rate your application for a quote and determine your premiums. They may also pass this data to their insurance underwriters for these purposes where applicable. 
-  3. The Financial Services Authority and/or other regulatory/governing bodies for the purposes of compliance monitoring;
+  3. The Financial Conduct Authority and/or other regulatory/governing bodies for the purposes of compliance monitoring; 
   4. Selected other third parties whose products, services or other offers we believe may interest you (see our section on **Keeping you informed about offers and services** below); 
   5. If you use our Services to search for and compare insurance products, the information you provide may be used to carry out certain credit checks through licensed credit-referencing agencies. This is used as part of the underwriting process for some of the insurance providers and a record of this search will be made although this will not adversely affect your credit profile. 
 
@@ -39,9 +39,9 @@ We and other members of the Moneysupermarket Group may use your personal informa
 
 Where permitted by data protection and privacy law, we may also disclose information about you, or access your account:
 
-  1. if required or permitted to do so by law; and/or
-  2. if required to do so by any court, the Financial Services Authority, the Office of Fair Trading or any other applicable regulatory, compliance, Governmental or law enforcement agency; and/or
-  3. if necessary in connection with legal proceedings or potential legal proceedings; and/or
+  1. if required or permitted to do so by law; and/or 
+  2. if required to do so by any court, the Financial Conduct Authority, the Office of Fair Trading or any other applicable regulatory, compliance, Governmental or law enforcement agency; and/or 
+  3. if necessary in connection with legal proceedings or potential legal proceedings; and/or 
   4. in connection with the sale or potential sale of all or part of our business or the company. 
 
 
@@ -65,8 +65,8 @@ If you no longer wish to be contacted by third parties for marketing purposes, p
 
 **Cookies** A cookie is a very small text file placed on your computer. Cookies help us to:
 
-  1. understand browsing habits on this Website;
-  2. understand the number of visitors to this Website and the pages visited; and
+  1. understand browsing habits on this Website; 
+  2. understand the number of visitors to this Website and the pages visited; and 
   3. remember you when you return to this Website so we can provide you with access to previously saved quotes. 
 
 
@@ -97,4 +97,4 @@ You must check and ensure that all information, content, material or data you pr
 
 We may also need to collect information from you about other individuals, e.g. additional named drivers if you request a car insurance quotation. As explained in our Terms of Use, by submitting another person's details you are confirming to us that you have their permission to do so and that they understand how their details will be used.
 
-[](https://web.archive.org/web/20140626102432id_/http%3A//www.moneysupermarket.com/)
+[](https://web.archive.org/web/20141222013454id_/http%3A//www.moneysupermarket.com/)
