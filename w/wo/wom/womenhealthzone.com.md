@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenhealthzone.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623005155id_/http%3A//www.womenhealthzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenhealthzone.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222215905id_/http%3A//www.womenhealthzone.com/privacy-policy) for the most accurate reproduction.*
 
 # Womens Health Zone
 
