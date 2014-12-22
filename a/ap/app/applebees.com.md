@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the applebees.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622064743id_/http%3A//www.applebees.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applebees.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222180514id_/http%3A//www.applebees.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Applebee's - See You Tomorrow
+# Applebee's Privacy Policy
 
 ### DINEEQUITY PRIVACY POLICY
 
