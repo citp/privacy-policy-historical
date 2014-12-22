@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esuperfund.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071959id_/http%3A//esuperfund.com.au/disclosures/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esuperfund.com.au privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222213422id_/http%3A//esuperfund.com.au/disclosures/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Disclosure | ESUPERFUND
+# Privacy Statement | ESUPERFUND
 
 The purpose of the Privacy Policy is to explain how ESUPERFUND collects, maintains, uses and discloses your personal information. It also states how this information is used, updated and made available to those parties eligible to access it. It provides some detail about the rights that clients have in respect of their personal information. For the purpose of this Privacy Policy, any reference to "ESUPERFUND", "we", "us" or "our" refers to ESUPERFUND Pty Ltd (AFSL 340762) in its capacity as Trustee of the ESUPERFUND Trust (ABN 37 842 535 715) and other related companies. At ESUPERFUND, we are committed to ensuring the confidentiality and security of your personal information. We are bound by the Privacy Act 1988, including the Australian Privacy Principles (APPs) set out in the Act, to ensure we meet our requirements in our dealings with you.
 
