@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxtheatre.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092024id_/http%3A//foxtheatre.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxtheatre.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222171310id_/https%3A//foxtheatre.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Fox Theatre
 
