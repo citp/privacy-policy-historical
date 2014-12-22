@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestvpnservice.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627005821id_/http%3A//www.bestvpnservice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestvpnservice.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223005217id_/http%3A//www.bestvpnservice.com/privacy-policy) for the most accurate reproduction.*
 
 # Best VPN Service
 
