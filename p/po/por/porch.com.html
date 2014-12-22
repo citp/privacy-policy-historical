@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the porch.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625045206id_/http%3A//porch.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the porch.com privacy policy that was archived on 2014-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222200654id_/http%3A//porch.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><!-- START NewRelic Timing -->
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/3644.js?439021" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/52687ff2d00ee703ed00000a.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5T8TXL"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIAUV5WGwAHV1FQBQk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><!-- END NewRelic Timing -->
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5T8TXL"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgIAUV5WGwAHV1FQBQk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script><!-- END NewRelic Timing -->
     <meta charset="UTF-8">
 
     <title>Privacy Policy | Porch</title>
 
+
     <meta name="description" content="We use your information to personalize your experience and improve customer service. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.">
+
+
 
 
     <meta name="og:title" content="Privacy Policy | Porch">
@@ -17,33 +20,58 @@
 
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimal-ui">
 
-    <link rel="shortcut icon" href="http://cdn.porch.com/bootstrap/favicon.ico">
-    <link rel="apple-touch-icon" href="http://cdn.porch.com/bootstrap/mobile-icons/touch-icon-iphone.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="http://cdn.porch.com/bootstrap/mobile-icons/touch-icon-ipad.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="http://cdn.porch.com/bootstrap/mobile-icons/touch-icon-iphone-retina.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="http://cdn.porch.com/bootstrap/mobile-icons/touch-icon-ipad-retina.png">
+    <link rel="shortcut icon" href="//cdn.porch.com/bootstrap/favicon.ico">
+    <link rel="apple-touch-icon" href="//cdn.porch.com/bootstrap/mobile-icons/touch-icon-iphone.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//cdn.porch.com/bootstrap/mobile-icons/touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//cdn.porch.com/bootstrap/mobile-icons/touch-icon-iphone-retina.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//cdn.porch.com/bootstrap/mobile-icons/touch-icon-ipad-retina.png">
 
-    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/678768/731264/css/fonts.css">
-    <link href="http://porch.com/static/min/css/bootstrap3.css" rel="stylesheet" media="all">
-    <link href="http://porch.com/static/min/css/font-awesome.css" rel="stylesheet">
-    <!--[if IE 7]>
-    <link rel="stylesheet" href="http://porch.com/static/min/css/ie-fixes.css">
-    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/678768/695744/css/fonts.css">
 
-    <link rel="stylesheet" href="http://porch.com/static/min/css/main.css?v=3.3.82">
+        <link rel="stylesheet" href="//porch.com/assets/min/css/less/core.css?v=3.4.682">
+    <link href="//porch.com/assets/min/css/assets/com/porch/porchweb/views/about/terms-privay-page.css?v=3.4.682" rel="stylesheet">
 
     <!--[if lt IE 9]>
-    <script type="text/javascript" src="http://porch.com/static/min/libjs/respond.min.js"></script>
+    <script type="text/javascript" src="//porch.com/assets/min/libjs/respond.min.js?v=3.4.682"></script>
+    <script src="//porch.com/assets/min/libjs/html5shiv/dist/html5shiv.min.js"></script>
+    <script src="//porch.com/assets/min/libjs/REM-unit-polyfill/js/rem.min.js"></script>
     <![endif]-->
         <script src="//cdn.optimizely.com/js/558900711.js"></script>
+
+
+    <script type="text/javascript">
+        window._trackJs = {
+            userId : document.cookie.match(new RegExp('tid=([^;]+)'))[1],
+            version: "3.4.682",
+            application: "porchweb",
+            network: { error: false }
+        };
+    </script>
+    <script type="text/javascript" src="//d2zah9y47r7bi2.cloudfront.net/releases/current/tracker.js" data-token="a86a0f13961a47d9915a2fcb5401206c"></script>
 
 <script type="text/javascript">
     var bootstrapVars = {
         facebookAppId: "",
-        isMobile: false,
-        location: "San Francisco"
+    isMobile: false,
+    location: "Ashburn, VA",
+    locationLat: 39.0437,
+    locationLng: -77.4875
     };
+</script>
 
+<!--[if IE 8]>
+<script type="text/javascript">
+    bootstrapVars.isIE8 = true;
+</script>
+<![endif]-->
+
+<!--[if IE 9]>
+<script type="text/javascript">
+    bootstrapVars.isIE9 = true;
+</script>
+<![endif]-->
+
+<script type="text/javascript">
     function onSearchFormSubmit() {
         //don't submit search form -- wait for GoogleMaps.js to load instead
         if (!window.hasOwnProperty("google")) {
@@ -56,27 +84,196 @@
         }
         return false;
     }
-</script>
 
-<script type="text/javascript" src="http://porch.com/static/min/libjs/requirejs/require-jquery.js?v=3.3.82"></script>
-<script type="text/javascript" src="http://porch.com/static/min/com/porch/porchweb/config.js?v=3.3.82"></script>
-<script type="text/javascript" src="http://porch.com/static/min/com/porch/porchweb/mobile-disable.js?v=3.3.82"></script>
+(function() {
+    var layout = null,
+        SM_MIN = 768,
+        MD_MIN = 992,
+        LG_MIN = 1200,
+        layouts = [
+            { minWidth: LG_MIN, layout: 'lg' },
+            { minWidth: MD_MIN, layout: 'md' },
+            { minWidth: SM_MIN, layout: 'sm' },
+            { minWidth: 0,      layout: 'xs' }
+        ];
+
+    function bootstrapImages (rootEl) {
+        if (rootEl instanceof window.$) {
+            rootEl = rootEl[0];
+        }
+        if (rootEl) {
+            var images = rootEl.getElementsByTagName("IMG"),
+                image, i, L = images.length,
+                resultSrc, resultWidth, resultHeight;
+            for (i = 0; i < L; i++) {
+                image = images[i];
+                resultSrc = null;
+                resultWidth = null;
+                resultHeight = null;
+
+                if (image.hasAttribute("data-src")) {
+                    if (image.hasAttribute("data-xs") && (layout==null ? layout=getCurrentLayout() : layout) == 'xs') {
+                        resultSrc = image.getAttribute('data-xs');
+                        resultWidth = image.getAttribute('data-xs-w');
+                        resultHeight = image.getAttribute('data-xs-h');
+                    }
+                    if (image.hasAttribute("data-sm") && (layout==null ? layout=getCurrentLayout() : layout) == 'sm') {
+                        resultSrc = image.getAttribute('data-sm');
+                        resultWidth = image.getAttribute('data-sm-w');
+                        resultHeight = image.getAttribute('data-sm-h');
+                    }
+                    if (image.hasAttribute("data-md") && (layout==null ? layout=getCurrentLayout() : layout) == 'md') {
+                        resultSrc = image.getAttribute('data-md');
+                        resultWidth = image.getAttribute('data-md-w');
+                        resultHeight = image.getAttribute('data-md-h');
+                    }
+                    if (resultSrc == null) {
+                        resultSrc = image.getAttribute('data-src');
+                        resultWidth = image.getAttribute('data-w');
+                        resultHeight = image.getAttribute('data-h');
+                    }
+                    image.setAttribute("src", resultSrc);
+
+                    if (resultWidth) {
+                        image.setAttribute("width", resultWidth);
+                    } else {
+                        if (window.console && window.console.warn) {
+                            console.warn("No width found for image: "+resultSrc+" and layout '"+(layout || "default")+"'.");
+                        }
+                    }
+
+                    if (resultHeight) {
+                        image.setAttribute("height", resultHeight);
+                    } else {
+                        if (window.console && window.console.warn) {
+                            console.warn("No height found for image: "+resultSrc+" and layout '"+(layout || "default")+"'.");
+                        }
+                    }
+                }
+            }
+        }
+    }
+    function getCurrentLayout() {
+        var i, L = layouts.length;
+        if (bootstrapVars.isIE8 || bootstrapVars.isIE9) {
+
+            // Special treatment for IE 8 and 9 which do not natively support matchMedia.
+            // There is a polyfill for matchMedia for IE9, however, after reviewing performance metrics on jsperf,
+            // the fallback approach is being used there instead.
+
+            var windowWidth = document.body.clientWidth;
+            for (i = 0; i < L; i++) {
+                if (windowWidth >= layouts[i].minWidth) {
+                    return layouts[i].layout;
+                }
+            }
+        } else if (window.matchMedia) {
+            for (i = 0; i < L; i++) {
+                if (matchMedia('(min-width: '+layouts[i].minWidth+'px)').matches) {
+                    return layouts[i].layout;
+                }
+            }
+        } else {
+            if (window.console && window.console.warn) {
+                console.warn("Unsupported browser is being used. getCurrentLayout() will return undefined.");
+                return 'undefined';
+            }
+        }
+    }
+
+    // Throttle has been extracted and paired down slightly from underscore.js here in order
+    // to utilize it before any resources (including underscore) have been downloaded.
+    var nowFn = Date.now || function() { return new Date().getTime();},
+        throttle = function(func, wait) {
+            var context, args, result;
+            var timeout = null;
+            var previous = 0;
+            var later = function() {
+                previous = nowFn();
+                timeout = null;
+                result = func.apply(context, args);
+                context = args = null;
+            };
+            return function() {
+                var now = nowFn();
+                var remaining = wait - (now - previous);
+                context = this;
+                args = arguments;
+                if (remaining <= 0) {
+                    clearTimeout(timeout);
+                    timeout = null;
+                    previous = now;
+                    result = func.apply(context, args);
+                    context = args = null;
+                } else if (!timeout) {
+                    timeout = setTimeout(later, remaining);
+                }
+                return result;
+            };
+        };
+
+    function domReadyHandler () {
+        bootstrapImages(document.body);
+    }
+
+    var resizeHandler = throttle(function () {
+        var newLayout = getCurrentLayout();
+        if (newLayout != layout) {
+            layout = newLayout;
+            bootstrapImages(document.body);
+        }
+    }, 50);
+
+    if (bootstrapVars.isIE8) {
+        document.attachEvent("onreadystatechange", domReadyHandler);
+        window.attachEvent("onresize", resizeHandler);
+    } else if (window.addEventListener) {
+        window.addEventListener('DOMContentLoaded', domReadyHandler);
+        window.addEventListener("resize", resizeHandler);
+    }
+
+    window.bootstrapImages = bootstrapImages;
+})();</script>
+
+<script type="text/javascript" src="//porch.com/assets/min/libjs/requirejs/require-jquery.js?v=3.4.682"></script>
+<script type="text/javascript" src="//porch.com/assets/min/com/porch/porchweb/config.js?v=3.4.682"></script>
+<script type="text/javascript" src="//porch.com/assets/min/com/porch/porchweb/mobile-disable.js?v=3.4.682"></script>
 
 <script type="text/javascript">
     require.config({
-        baseUrl: 'http://porch.com/static/min',
-        urlArgs: 'v=3.3.82'
+        baseUrl: '//porch.com/assets/min',
+        urlArgs: 'v=3.4.682',
+        config: {
+            text: {
+                useXhr: function (url, protocol, hostname, port) {
+                    // allow cross-domain requests
+                    // remote server allows CORS
+                    return true;
+                }
+            }
+        }
     });
 </script>
-
+</head><body ontouchstart="" class="page-porch-web-page-view"><div class="register-form"></div>
+<script type="text/javascript">
+    require([
+        'jquery',
+        'com/porch/porchweb/views/registration/RegisterFormApp'],
+    function($, RegistrationFormApp){
+        new RegistrationFormApp({
+            userLoggedIn: $('.new-app-header').data('logged-in'),
+            liveAddressKey: $('.new-app-header').data('live-address-key')
+        });
+    });
+</script>
 
 
 <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-35445044-9']);
     _gaq.push(['_setDomainName', 'porch.com']);
-    _gaq.push(['_setCustomVar', 1, 'variant', 'TEST', 2]);
-    _gaq.push(['_setCustomVar', 2, 'variant2', 'CONTROL', 2]);
+    _gaq.push(['_setCustomVar', 1, 'variant', 'CONTROL', 2]);
+    _gaq.push(['_setCustomVar', 2, 'variant2', 'TEST', 2]);
 
     _gaq.push(['_trackPageview']);
 
@@ -110,68 +307,12 @@
     require(["fb"]);
 </script>
 
-<!-- start Mixpanel -->
-<script type="text/javascript">
-    define('mixpanel-bootstrap', [], function () {
-        var b = window.mixpanel || [];
-        if (!b.__SV) {
-            var i, g;
-            window.mixpanel = b;
-            b._i = [];
-            b.init = function (a, e, d) {
-                function f(b, h) {
-                    var a = h.split(".");
-                    2 == a.length && (b = b[a[0]], h = a[1]);
-                    b[h] = function () {
-                        b.push([h].concat(Array.prototype.slice.call(arguments, 0)))
-                    }
-                }
-
-                var c = b;
-                "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel";
-                c.people = c.people || [];
-                c.toString = function (b) {
-                    var a = "mixpanel";
-                    "mixpanel" !== d && (a += "." + d);
-                    b || (a += " (stub)");
-                    return a
-                };
-                c.people.toString = function () {
-                    return c.toString(1) + ".people (stub)"
-                };
-                i = "disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
-                for (g = 0; g < i.length; g++)f(c, i[g]);
-                b._i.push([a, e, d])
-            };
-            b.__SV = 1.2
-        }
-        b.init("1483b1fe7f78d029aae24fa4ac2f63f2", {
-            debug: false,
-            track_pageview: false
-        });
-
-        b.register_once({"First Visit Date": new Date()});
-        b.register_once({"Landed": window.location.href});
-        b.track_pageview();
-
-        return b;
-    });
-</script>
-<!-- end Mixpanel -->
 
 
-<script type="text/javascript" src="http://porch.com/static/min/com/porch/porchweb/Common.js?v=3.3.82"></script>
-    <!--Fonts-->
-    <script type="text/javascript" src="//use.typekit.net/gnr4lci.js"></script>
-    <script type="text/javascript">
-        try {
-            Typekit.load();
-        } catch (e) {
-        }
-    </script>
-    <!--END Fonts-->
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body ontouchstart="" class="page-porch-web-page-view">
+
+<script type="text/javascript" src="//porch.com/assets/min/com/porch/porchweb/Common.js?v=3.4.682"></script>
+
+
 
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5T8TXL"
@@ -208,337 +349,225 @@
 </script>
 
 <div class="porch-app
-           unsupported-browser
            hasClaimHomeNag
            ">
-<div class="porch-app-header" data-logged-in="false" data-log-out-redirect="http://porch.com" data-auth-template="true">
-        <div class="user-nav">
-            <div class="header-container container">
-                <ul class="user-links">
+<div class="new-app-header" data-logged-in="false" data-log-out-redirect="http://porch.com" data-auth-baseurl="https://porch.com" data-live-address-key="4843556167521851170">
+<div class="app-nav navbar" role="navigation">
+    <a class="header-logo" href="http://porch.com" data-interaction-id="app-header_logo-link">
+        <img src="//cdn.porch.com/bootstrap/porch-logo-2x.png" width="97" alt="Porch Logo">
+    </a>
 
-                            <li class="user-link become-a-pro">
-                                <a href="http://pro.porch.com" data-interaction-id="app-header_become-a-pro">
-                                    Become a Pro
-                                </a>
-                            </li>
-                            <li class="user-link">|</li>
-
-
-                            <li class="user-link login"><a data-interaction-id="app-header_login-link">
-                                Log in
-                            </a></li>
-                            <li class="user-link sign-up" data-interaction-id="app-header_signup-link"><a>
-                                SIGN UP
+        <ul class="navigation-tabs list-unstyled hidden-xs">
+                <li class="dropdown">
+                    <a href="http://porch.com/pros" class="tab-link" data-interaction-id="app-header_nav-Find professionals">
+                        Find professionals
+                    </a>
+                        <ul class="dropdown-menu" role="menu" data-interaction-id="app-header_nav-dropdown-Find professionals">
+                            <li><a href="http://porch.com/pros" data-interaction-id="app-header_dropdown-Find professionals-see-all">
+                                <strong>See all</strong>
                             </a></li>
 
-                            <li class="user-link">|</li>
-                            <li class="user-link help-link">
-                                <a href="http://porch.com/contact-us" data-interaction-id="app-header_help-link">
-                                    <i class="icon-question-sign"></i>
-                                </a>
-                            </li>
-
-                </ul>
-            </div>
-        </div>
-    <div class="collapse-nav-overlay"></div>
-    <div class="app-nav navbar" role="navigation">
-        <div class="header-container container">
-            <a class="header-logo" href="http://porch.com" data-interaction-id="app-header_logo-link">
-                <img src="http://cdn.porch.com/bootstrap/porch-logo-2x.png" width="97" alt="Porch Logo">
-            </a>
-
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#porch-collapsible-navbar" data-interaction-id="app-header_xs-toggle-navigation">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            <div class="collapse navbar-collapse" id="porch-collapsible-navbar" data-interaction-id="app-header_xs-navigation-menu">
-                <div class="nav navbar-nav navbar-right">
-                        <ul class="navigation-tabs">
-                                <li class="">
-                                    <a href="http://porch.com/projects" data-interaction-id="app-header_nav-Browse-Photos">
-                                        <span>Browse</span> <br>
-                                        Photos
-                                    </a>
-                                </li>
-                                <li class="">
-                                    <a href="http://advice.porch.com" data-interaction-id="app-header_nav-Get-Advice">
-                                        <span>Get</span> <br>
-                                        Advice
-                                    </a>
-                                </li>
-                                <li class="">
-                                    <a href="http://porch.com/profile/guest" data-interaction-id="app-header_nav-My-Home">
-                                        <span>My</span> <br>
-                                        Home
-                                    </a>
-                                </li>
+                                    <li><a href="http://porch.com/ashburn-va/painters/cp" data-interaction-id="app-header_dropdown-Find professionals-0">
+                                        Painters
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/handymen/cp" data-interaction-id="app-header_dropdown-Find professionals-1">
+                                        Handymen
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/plumbers/cp" data-interaction-id="app-header_dropdown-Find professionals-2">
+                                        Plumbers
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/electricians/cp" data-interaction-id="app-header_dropdown-Find professionals-3">
+                                        Electricians
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/hvac-contractors/cp" data-interaction-id="app-header_dropdown-Find professionals-4">
+                                        HVAC Contractors
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/remodeling-contractors/cp" data-interaction-id="app-header_dropdown-Find professionals-5">
+                                        Remodeling Contractors
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/general-contractors/cp" data-interaction-id="app-header_dropdown-Find professionals-6">
+                                        General Contractors
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/roofers/cp" data-interaction-id="app-header_dropdown-Find professionals-7">
+                                        Roofers
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/carpenters/cp" data-interaction-id="app-header_dropdown-Find professionals-8">
+                                        Carpenters
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/flooring-contractors/cp" data-interaction-id="app-header_dropdown-Find professionals-9">
+                                        Flooring Contractors
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/architects/cp" data-interaction-id="app-header_dropdown-Find professionals-10">
+                                        Architects
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/interior-designers/cp" data-interaction-id="app-header_dropdown-Find professionals-11">
+                                        Interior Designers
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/home-cleaners/cp" data-interaction-id="app-header_dropdown-Find professionals-12">
+                                        Home Cleaners
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/landscapers/cp" data-interaction-id="app-header_dropdown-Find professionals-13">
+                                        Landscapers
+                                    </a></li>
+                                    <li><a href="http://porch.com/ashburn-va/pest-control-contractors/cp" data-interaction-id="app-header_dropdown-Find professionals-14">
+                                        Pest Control Contractors
+                                    </a></li>
                         </ul>
-                        <ul class="collapsed-navigation-tabs visible-xs list-unstyled">
-                                <li class="nav-link">
-                                    <a href="http://porch.com/" data-interaction-id="app-header_xs-nav-Find-Professionals">
-                                        <span>Find Professionals</span>
-                                    </a>
-                                </li>
-                                <li class="nav-link">
-                                    <a href="http://porch.com/projects" data-interaction-id="app-header_xs-nav-Browse-Photos">
-                                        <span>Browse Photos</span>
-                                    </a>
-                                </li>
-                                <li class="nav-link">
-                                    <a href="http://advice.porch.com" data-interaction-id="app-header_xs-nav-Get-Advice">
-                                        <span>Get Advice</span>
-                                    </a>
-                                </li>
-                                <li class="nav-link">
-                                    <a href="http://porch.com/profile/guest" data-interaction-id="app-header_xs-nav-My-Home">
-                                        <span>My Home</span>
-                                    </a>
-                                </li>
+                </li>
+                <li class="dropdown">
+                    <a href="http://porch.com/photos/" class="tab-link" data-interaction-id="app-header_nav-Browse photos">
+                        Browse photos
+                    </a>
+                        <ul class="dropdown-menu" role="menu" data-interaction-id="app-header_nav-dropdown-Browse photos">
+                            <li><a href="http://porch.com/photos/" data-interaction-id="app-header_dropdown-Browse photos-see-all">
+                                <strong>See all</strong>
+                            </a></li>
 
-                                    <li class="collapsed-user-nav clearfix">
-                                        <a class="login pull-left" data-interaction-id="app-header_xs-login-link">Log In</a>
-                                    </li>
-                                    <li class="collapsed-user-nav clearfix">
-                                        <a class="sign-up pull-right" data-interaction-id="app-header_xs-signup-link">Sign Up</a>
-                                    </li>
+                                    <li><a href="http://porch.com/photos/kitchens/" data-interaction-id="app-header_dropdown-Browse photos-0">
+                                        Kitchens
+                                    </a></li>
+                                    <li><a href="http://porch.com/photos/living-rooms/" data-interaction-id="app-header_dropdown-Browse photos-1">
+                                        Living rooms
+                                    </a></li>
+                                    <li><a href="http://porch.com/photos/bathrooms/" data-interaction-id="app-header_dropdown-Browse photos-2">
+                                        Bathrooms
+                                    </a></li>
+                                    <li><a href="http://porch.com/photos/exteriors/" data-interaction-id="app-header_dropdown-Browse photos-3">
+                                        Exteriors
+                                    </a></li>
+                                    <li><a href="http://porch.com/photos/outdoors/" data-interaction-id="app-header_dropdown-Browse photos-4">
+                                        Outdoors
+                                    </a></li>
+                                    <li><a href="http://porch.com/photos/dining-rooms/" data-interaction-id="app-header_dropdown-Browse photos-5">
+                                        Dining Rooms
+                                    </a></li>
+                                    <li><a href="http://porch.com/photos/bedrooms/" data-interaction-id="app-header_dropdown-Browse photos-6">
+                                        Bedrooms
+                                    </a></li>
+                                    <li><a href="http://porch.com/photos/stairs/" data-interaction-id="app-header_dropdown-Browse photos-7">
+                                        Stairs
+                                    </a></li>
+                                    <li><a href="http://porch.com/photos/porches/" data-interaction-id="app-header_dropdown-Browse photos-8">
+                                        Porches
+                                    </a></li>
+                                    <li><a href="http://porch.com/photos/decks/" data-interaction-id="app-header_dropdown-Browse photos-9">
+                                        Decks
+                                    </a></li>
                         </ul>
+                </li>
+                <li>
+                    <a href="http://advice.porch.com/" class="tab-link" data-interaction-id="app-header_nav-Advice">
+                        Advice
+                    </a>
+                </li>
+        </ul>
 
-                </div>
-            </div>
-        </div>
-    </div>
-        <script>
-            require([
-                'jquery',
-                'com/porch/auth/appheader/AppHeaderView'
-            ], function ($, AppHeaderView) {
-                $(function () {
-                    var headerView = new AppHeaderView();
-                    headerView.render();
-                });
+        <ul class="user-links list-unstyled">
+
+
+                    <li class="my-home hidden-xs"><a href="http://porch.com/profile/guest" class="tab-link" data-interaction-id="app-header_my-home-link">
+                        My home
+                    </a></li>
+                    <li class="sign-up"><a href="javascript:;" class="btn btn-secondary" data-interaction-id="app-header_signup-link">
+                        Sign up
+                    </a></li>
+                    <li class="login"><a data-interaction-id="app-header_login-link">
+                        Log in
+                    </a></li>
+
+        </ul>
+</div>
+    <ul class="navigation-tabs mobile list-unstyled visible-xs">
+            <li>
+                <a href="http://porch.com/pros" class="tab-link" data-interaction-id="app-header_nav-Find professionals">
+                    Find professionals
+                </a>
+            </li>
+            <li>
+                <a href="http://porch.com/photos/" class="tab-link" data-interaction-id="app-header_nav-Browse photos">
+                    Browse photos
+                </a>
+            </li>
+            <li>
+                <a href="http://advice.porch.com/" class="tab-link" data-interaction-id="app-header_nav-Advice">
+                    Advice
+                </a>
+            </li>
+    </ul>
+    <script type="text/javascript">
+        require([
+            'jquery',
+            'com/porch/auth/appheader/AppHeaderView'
+        ], function ($, AppHeaderView) {
+            $(function () {
+                new AppHeaderView({
+                    el: $('.new-app-header'),
+                    useUnifiedRegisterFlow: true
+                }).render();
             });
-        </script>
+        });
+    </script>
 </div>
     <div class="porch-body">
         <div class="porch-content">
+
 <div class="container">
 <div class="row">
     <div class="col-lg-10 col-lg-offset-1">
     <div class="terms-privacy-content">
-    <h1 class="section-headline">Porch Privacy Policy</h1>
+        <h1 class="section-headline">Porch Privacy Policy</h1>
 
-    <h3 class="last-updated">Effective Date May 30, 2014</h3>
-    <p>Welcome to Porch! This Privacy Policy applies to the Website (see the Porch Terms of Use for definitions of the
-        capitalized terms used in this Privacy Policy) hosted in the United States and describes the information that we
-        collect on the Website, how we use it, how we protect it and the choices you can make about your information.</p>
+        <h3 class="last-updated">Effective Date December 11, 2014</h3>
 
-    <p>If you do not agree with the terms of this Privacy Policy or the Terms, you should immediately stop using or
-        visiting the Website.</p>
+        <h2>Privacy Policy Overview</h2>
+        <p><b><u><span class="paragraphTitle">Overview.</span></u></b>  Porch.com, Inc., a Delaware corporation, and our affiliates (collectively, “Porch,” “we,” “us”), are providing this Privacy Policy (“Privacy Policy”) with respect to all of our Services, all of which are hosted in the United States. This Privacy Policy describes our collection, use and disclosure of information that we receive when you use our Services. All terms used in this Privacy Policy that are not defined herein have the meanings set forth in our Terms of Use.</p>
+        <p><b><u><span class="paragraphTitle">Privacy Policy Updates.</span></u></b>  We may update this Privacy Policy from time to time to reflect changes to our information practices by updating this page and the Privacy Policy effective date above.  Your continued use of the Services after the date the Privacy Policy is changed (or the posted effective date, if later) will constitute your acceptance and agreement to such changes.</p>
 
-    <p></p><h3>What information do we collect?</h3><p></p>
+        <h2 class="sectionHeader">Collection of Information</h2>
+        <p><b><u><span class="paragraphTitle">Information You Provide.</span></u></b> When using the Services, you may provide information about yourself, including name, address, telephone number, email address, and payment details in connection with a potential transaction. You may provide this information, for example, when you create an account, post User Submissions, request products or services, communicate with a Pro, or complete other forms. In addition, if you are a Pro, you may provide information about yourself or company, including for example, details to complete your account, User Submissions, and reference information.</p>
 
-    <p>We collect information from you when you register on our Website, post a profile, pay for services, create a
-        scrapbook, upload a home project, claim your home, request a Porch Home Report from a third-party partner, endorse
-        a Pro, contact a Pro or other user, contact or interact with us, subscribe to our newsletter, respond to a survey,
-        fill out a form, and voluntarily provide us with your comments and other content in connection with using the
-        Website.</p>
+        <h2 class="sectionHeader">Information We Collect From All Users.</h2>
+        <p><u><span class="paragraphTitle">Cookie Data.</span></u> Cookies (small data files that can be transferred to your electronic device to uniquely identify your browser) are used by the Services to connect your activity on the Services with other information we store about you in your account profile or from prior usage of the Services.  For example, the use of cookies allows us to improve our Services by tracking saved searches, understanding your use of various features and functionality, measuring the effectiveness of advertising and otherwise creating a consistent user experience for you.  At any time, you may adjust your browser settings to delete existing cookies, or refuse new cookies, according to the method permitted by your browser.  If you choose to disable cookies, some of the Services may not operate properly.</p>
+        <p><u><span class="paragraphTitle">Log Usage Data.</span></u> Our servers automatically record usage log data created when you use the Services.  Usage log data may include information such as your IP address, browser type, operating system, referring web page, visited web pages, location, mobile carrier, computer or mobile device type, search terms and cookie information.</p>
+        <p><u><span class="paragraphTitle">Social Networks.</span></u> If you use the social networking connection functions offered through the Services, we may access any of your social profile information that you have made available to be shared and to use it in accordance with this Privacy Policy. Please refer to your social network policies to manage information that is shared through that account.</p>
+        <p><u><span class="paragraphTitle">Location Data.</span></u> If you provide location information during the registration process or at any other time via your account settings, we may store that information in connection with your account (including, for example, your IP address which may provide an approximate geo-location). If you are using mobile Services, we may collect location data directly from your mobile device if your device allows us to do so. Your mobile device manufacturer or mobile service provider may provide you with choices about how and whether location data is shared with us.</p>
+        <p><u><span class="paragraphTitle">Telephone Calls.</span></u>  From time to time, when you call us, when we call you, or when we forward calls between users and Pros, we may record those calls for quality assurance and customer satisfaction purposes.  In those jurisdictions where consent is required for a party to record a telephone call, you consent to us recording such calls.</p>
+        <p><b><u><span class="paragraphTitle">Information Collected by Third Parties.</span></u></b>  Our service providers and advertising networks use cookies, web beacons or similar technologies to collect information about your use of the Services (including mobile applications) and your online activities over time and across different web sites.  Collected information may include the content you review, the date and time you view content, and the referring web site, which information may be associated with your unique browser, device identifier or IP address. Cookies may be used, for example, to deliver targeted ads or analyze visitor activity.  The use of cookies or similar technologies by our service providers and advertising networks is not covered by our Privacy Policy.  Your browser may offer you a "Do Not Track" option, which allows you to signal to operators of websites and other  properties that you do not wish such operators to track certain of your online activities. Our Services do not support Do Not Track requests at this time.</p>
+        <p><b><u><span class="paragraphTitle">Information We Collect From Third Parties.</span></u></b> We may obtain information about you from third parties and use it to provide a customized experience, to suggest products or services that might be of interest to you, or to supplement or correct information that you have provided to us, and generally to improve our Services.</p>
 
+        <h2 class="sectionHeader">Use of Information</h2>
+        <p>Any information we collect from you may be used in the following ways:</p>
+        <ul class="bulleted">
+            <li>To provide and improve our Services to you;</li>
+            <li>To personalize your experience so that you may find the most relevant information;</li>
+            <li>To manage our customer relationship with you and to improve customer service;</li>
+            <li>To process transactions;</li>
+            <li>To connect you with the right Pros and other individuals and to optimize the information we share with these parties to initiate a productive and efficient relationship with you;</li>
+            <li>To help Pros select with whom they choose to work;</li>
+            <li>To administer a contest, promotion, contest or sweepstakes;</li>
+            <li>To communicate with you via email, telephone, mobile, text (SMS), postal services and the Internet to provide you with information about products and services that may be of interest to you;</li>
+            <li>To prevent fraud and abuse and to otherwise protect members and visitors and our business;</li>
+            <li>To perform functions described at the time of collection; and</li>
+            <li>To develop, deliver and analyze the effectiveness of our advertising, products and services.</li>
+        </ul>
 
-    <p>When registering on our Website, as appropriate, you may be asked to enter your: name, email address, mailing
-        address or phone number.  In addition, Pros may be asked for their license information and other Pros with which
-        they worked on a Project.  When paying for services through a telephone call, you may be asked for your name,
-        billing address, shipping address, billing zip code, unique Customer ID, card number, card expiration date, CVV,
-        tracking ID, merchant identification, payment methods, stored value card number, PIN, email, ID, and other
-        information sufficient for our payment processor to process the transaction and provide fraud screening,
-        information security and compliance.  When calling us or certain Pros listed on our Website, your phone number and
-        name may be collected and the call itself may be recorded.</p>
+        <h2 class="sectionHeader">Disclosure of Information</h2>
+        <p>Your privacy is important to us and we are committed to protecting your information in accordance with the terms of this Privacy Policy. Information that you choose to provide in a public area of the Services (such as your profile page or via User Submissions) will not be protected by this Privacy Policy because you have chosen to make that information public. Otherwise, your information and aggregate information will be shared only in accordance with this Privacy Policy as follows:</p>
+        <p><b><u><span class="paragraphTitle">Consent.</span></u></b> When you consent or direct Porch to share your information.  For example, if you choose to contact a Pro through the Services, we may provide information to that Pro.</p>
+        <p><b><u><span class="paragraphTitle">Porch Service Providers.</span></u></b>  We may utilize third party service providers to help us administer, provide and improve the Services and these providers have access to your personally identifiable information only as necessary to perform services for us (e.g., we may share your credit/debit card information with our third party transaction processors only as necessary to complete your purchase, or we may utilize third party service providers to provide you with targeted messaging and advertising and these providers have access to your information only as necessary to provide these offers).</p>
+        <p><b><u><span class="paragraphTitle">Co-Branded Partners.</span></u></b>  Some of our Services may be co-branded and offered in conjunction with a third party.  If you use such co-branded Services both Porch and the third party may receive information provided by you or collected in conjunction with the co-branded Services.  For example, If you sign-up with Porch through a Lowe's promoted or co-branded website or within a Lowe's store directly, Porch may share your information with Lowe’s.</p>
+        <p><b><u><span class="paragraphTitle">Investigations and Law.</span></u></b>  We may release personally identifiable information when we believe that doing so is appropriate to comply with applicable laws, to avoid legal liability, to cooperate with government or law enforcement or private parties; to investigate or enforce a potential violation of our Terms, policies and guidelines; to bill and collect amounts owed to us; to protect our rights, reputation, safety or property or that of users or others; and to address fraud, security or technical issues.</p>
+        <p><b><u><span class="paragraphTitle">Sale/Merger:</span></u></b> If we become party to a merger, acquisition, joint venture, sale or pledge of assets, securities offering, bankruptcy, reorganization, liquidation, dissolution or other transaction or if the ownership of all or substantially all of our business changes, we may share or transfer your information to a third party or parties in connection therewith.</p>
 
-    <p>You may visit our Website anonymously, though we automatically collect information regarding each visitor to our
-        Website, including your Internet Protocol address, the domain name of your Internet service provider, the Website
-        pages you visit and the time of your visits, and aggregated information that cannot be used to specifically
-        identify you when you use or visit the Website.</p>
+        <h2 class="sectionHeader">Your California Privacy Rights</h2>
+        <p>Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, certain information about the types of personal information the business has shared with third parties for those third parties' direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year. You may make one request each year by emailing us at support@porch.com or writing us at 1551 Eastlake Ave E, Suite 275, Seattle, WA 98102.</p>
 
-    <p>We may collect information about you from third party sources.  When you log in with your Facebook credentials,
-        we receive your Facebook login credentials and access to your Facebook profile photo and your friend network.</p>
-
-    <p>We may combine all of the information we collect from or about you and use it in the manner described in this
-        Privacy Policy.</p>
-
-    <p></p><h3>Do we use cookies?</h3><p></p>
-
-    <p>Yes (Cookies are small files that a website or its service provider transfers to your computer's hard drive
-        through your Web browser (if you allow) that enables the website's or service provider's systems to recognize your
-        browser and capture and remember certain information).</p>
-
-    <p>We use cookies to help us understand and save your preferences and interests so we can personalize your future
-        visits and compile aggregate data about Website traffic and Website interaction so that we can offer better Website
-        experiences and tools in the future.</p>
-
-    <p>Some of our business partners, such as our Web analytics providers and our remarketing providers, also use
-        cookies on our site, some of which may track users across websites and over time.  For instance, a cookie used by
-        our display advertising partner, AdRoll, enables us to present users with retargeting advertising on other sites
-        based on users' previous interaction with the Website. Users can visit this page to opt out of AdRoll and its
-        partners' targeted advertising.  To opt-out of collection by Perfect Audience,
-        see <a href="http://www.perfectaudience.com/privacy/" target="_blank">http://www.perfectaudience.com/privacy/</a>.</p>
-
-    <p></p><h3>How do we use your information?</h3><p></p>
-
-    <p>Any of the information we collect from you may be used in one of the following ways:</p>
-
-    <ul class="bulleted">
-        <li>To provide services to you (such as administering and providing you with information about your account or
-            connecting you with Pros or partners based on actions you take on the Website or telephone calls you make
-            to us or to Pros listed on the Website);</li>
-        <li>To personalize your experience(your information helps us to better respond to your individual needs);</li>
-        <li>To improve the Website (we continually strive to improve the Website offerings based on the information and
-            feedback we receive from you);</li>
-        <li>To improve customer service(your information helps us to more effectively respond to your customer service
-            request and support needs);</li>
-        <li>To process transactions(your information will be used to deliver the information or service requested or to
-            submit your payment information to our payment processor);</li>
-        <li>To help other users become better informed as they do research, get ideas, or find a Pro for their home;</li>
-        <li>To help Pros select with whom they choose to work;</li>
-        <li>To administer a contest, promotion, survey or other Website feature;</li>
-        <li>To send periodic emails. The email address you provide, may be used to send you information and updates
-            pertaining to your account, in addition to receiving occasional company news, updates, related product or
-            service information, etc.Note: If at any time you would like to unsubscribe from receiving future emails,
-            we include detailed unsubscribe instructions at the bottom of each email;</li>
-        <li>To compile aggregate data about Website traffic and Website interaction that cannot be used to specifically
-            identify you for internal and external business purposes; and</li>
-        <li>To prevent fraud and abuse of the Website and to otherwise protect members and visitors and our business.</li>
-        <li>If you sign-up through Porch through the Lowe's promoted enroll.porch.com website or within a Lowe's store
-            directly, you give Porch approval to provide your basic contact information to Lowe's.</li>
-    </ul>
-
-
-
-    <p></p><h3>How do we protect your information?</h3><p></p>
-
-    <p>We implement a variety of security measures to protect the safety of your personal information when you enter,
-        submit, or access your personal information. Please keep your account password secure to help ensure the safety of
-        your personal information.  Credit card information You provide over the telephone is transmitted to our credit
-        card processor Braintree through SSL encryption.</p>
-
-    <p>While we take reasonable measures to protect the information you submit via the Website against loss, theft and
-        unauthorized use, disclosure, or modification, we cannot guarantee its absolute security.  No Internet or email
-        transmission is ever fully secure or error free.  Email sent to or from the Website may not be secure.  You should
-        use caution whenever submitting information online and take special care in deciding what information you send to
-        us via email.</p>
-
-    <p></p><h3>Do we disclose any information to outside parties?</h3><p></p>
-
-    <p>Information may be disclosed to third parties in accordance with our Privacy Policy.  Please note that a user
-        may choose not to share certain information as described in Your Choices Regarding Your Information below.</p>
-    <ul class="no-bullets">
-        <li><span class="letter">A.</span><strong class="underline">Third Parties.</strong>  We may use third parties to perform functions in connection with the Website, such as
-            credit card and other payment processing, site analytics, call analytics, and marketing.  We may share
-            information about you that these third parties need to perform their functions and in accordance with our
-            agreements with them. Any credit card information you provide may be stored by our credit card processor,
-            Braintree, and is subject to its privacy policy, including in the case of data breach
-            (see <a href="https://www.braintreepayments.com/privacy for details" target="_blank">
-                https://www.braintreepayments.com/privacy for details</a>).  We may also provide relevant value added
-            targeted offers and messaging from third parties. We may share limited information that's only necessary to
-            provide these offers.  If You register on our Website through the promoted website of one of our partners
-            or in a partner's store, we may share your personal information with that partner.</li>
-        <li><span class="letter">B.</span><strong class="underline">Business Changes.</strong>  If we become involved in a merger, acquisition, sale of assets, joint venture,
-            securities offering, bankruptcy, reorganization, liquidation, dissolution, or other transaction or if the
-            ownership of all or substantially all of our business otherwise changes, we may share or transfer your
-            information to a third party or parties in connection therewith.</li>
-        <li><span class="letter">C.</span><strong class="underline">Subsidiaries and Affiliates.</strong>  We may also share your information with our subsidiaries and affiliates for
-            purposes consistent with this Privacy Policy.  Our subsidiaries and affiliates will be required to maintain
-            that information in accordance with this Privacy Policy.</li>
-        <li><span class="letter">D.</span><strong class="underline">Investigations and Law.</strong>  Regardless of the choices you make regarding your information
-            (as described below), we may disclose information about you to third parties to:
-            <ul class="bulleted">
-                <li>Enforce or apply the Terms;</li>
-                <li>Comply with law, in response to subpoenas, warrants, or court orders, or in connection with any
-                    legal process or cooperate with government or law enforcement officials or private parties;</li>
-                <li>Protect our rights, reputation, safety and property, or that of our users or others;</li>
-                <li>Protect against legal liability; or</li>
-                <li>Investigate, prevent or take action regarding suspected illegal activities, suspected fraud, the
-                    rights, reputation, safety or property of us, users or others, violation of the Terms, our policies
-                    or agreements or as otherwise required by law.</li>
-            </ul>
-        </li>
-        <li><span class="letter">E.</span><strong class="underline">Aggregated Information.</strong>  We may share aggregated information relating to visitors to and users of the
-            Website with affiliated or unaffiliated third parties.  This aggregated information does not contain
-            personal information about any user.</li>
-        <li><span class="letter">F.</span><strong class="underline">Pros.</strong>  We may share your information with Pros listed on the Website.</li>
-    </ul>
-
-    <p></p><h3>Third party links</h3><p></p>
-    <p>We include third party products or services on our Website. The links from the Website do not imply that we
-        endorse or have reviewed third party websites. These third party websites have separate and independent privacy
-        policies. We have no responsibility or liability for the content and activities of these websites. Nonetheless,
-        we seek to protect the integrity of our Website and welcome any feedback about these linked websites.</p>
-
-    <p></p><h3>Analytics</h3><p></p>
-    <p>We use Google Analytics and several other analytics providers to better understand who is using the Website and
-        how people are using it. Google Analytics uses cookies to collect and store information such as Website pages
-        visited, Website elements clicked on, signups and logins, time spent on each Website page, Internet Protocol
-        address, type of operating system used, location-based data, device ID, search history, and phone number. We use
-        this information to improve the Website and as otherwise described in this Privacy Policy.
-        Please see <a href="https://tools.google.com/dlpage/gaoptout">https://tools.google.com/dlpage/gaoptout</a> for information about Google Analytics Opt-out Browser Add-on.</p>
-
-    <p></p><h3>User Content</h3><p></p>
-    <p>Your User Submissions may be visible to other users and may be publicly available. Before providing User
-        Submissions, please read the Porch Terms of Use carefully. You should be comfortable with the information you
-        choose to provide. We make no representations and undertake no obligations as to the information you voluntarily
-        provide when providing User Submissions.</p>
-
-    <p></p><h3>Your Choices Regarding Your Information</h3><p></p>
-    <p>You have choices regarding the use of information on our Website.</p>
-    <ul class="bulleted">
-        <li><strong class="underline">Changing Your Information.</strong> To change your information, you may login to your
-            account's control panel and go to the 'Edit Profile' page. If you are unable to log into your account, please
-            contact us at <a href="mailto:help@porch.com">help@porch.com.</a></li>
-        <li><strong class="underline">Closing Your Account.</strong> You may close your account by contacting us at
-            <a href="mailto:help@porch.com">help@porch.com</a>.  If the email account associated with your email address is not
-            active, we may close your account on the Website without notice.</li>
-    </ul>
-
-    <p></p><h3>Information Collected From Other Websites and Do Not Track Policy</h3><p></p>
-    <p>Through cookies we place on your browser or device, we and our marketing partners may collect information about
-        your online activity after you leave our Website. Just like any other usage information we collect, this
-        information allows us to improve the Services and customize your online experience, and otherwise as described in
-        this policy. Your browser may offer you a "Do Not Track" option, which allows you to signal to operators of
-        websites and web applications and services (including behavioral advertising services) that you do not wish such
-        operators to track certain of your online activities over time and/or across different websites. Our Website does
-        not support Do Not Track requests at this time, which means that we collect information about your online activity
-        both while you are using the Website and after you leave our Website.</p>
-
-    <p></p><h3>Children's Privacy</h3><p></p>
-    <p>We do not knowingly collect personal information from children under age 13.  If you are under the age of 13,
-        please do not submit any personal information through the Website.  If you have reason to believe that we may have
-        accidentally received personal information from a child under age 13, please contact us immediately at
-        <a href="mailto:help@porch.com">help@porch.com</a>.</p>
-
-    <p></p><h3>Terms and Conditions</h3><p></p>
-    <p>Please also visit the Porch Terms of Use at <a href="http://porch.com/about/terms/">http://porch.com/about/terms/</a>,
-        which state the terms, disclaimers, and limitations of liability governing your use of the Website.</p>
-
-    <p></p><h3>Changes to our Privacy Policy</h3><p></p>
-    <p>If we change our Privacy Policy, we will post those changes on this page, and update the Privacy Policy
-        effective date above.  Any changes will become effective immediately upon being posted, unless stated otherwise.
-        If we make material changes to the Privacy Policy, we will post a notice on our Website and notify you by email to
-        the email address you have provided.</p>
-
-    <p></p><h3>Contacting Us</h3><p></p>
-
-    <p>If you have questions regarding this privacy policy, you may contact us at <a href="support@porch.com">support@porch.com</a>
-        or 1551 Eastlake Ave., Suite 275 Seattle, WA 98102.</p>
-
-    <p></p><h3>Your California Privacy Rights</h3><p></p>
-    <p>Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom
-        the California resident has an established business relationship, certain information about the types of personal
-        information the business has shared with third parties for those third parties' direct marketing purposes and the
-        names and addresses of the third parties with whom the business has shared such information during the immediately
-        preceding calendar year.  You may make one request each year by emailing us at help@porch.com  or writing us at
-        1551 Eastlake Ave., Suite 275 Seattle, WA 98102.</p>
-
+        <h2 class="sectionHeader">General Matters</h2>
+        <p><b><u><span class="paragraphTitle">Changing Information; Closing Account.</span></u></b> To change or delete your information, you may login to your account and modify or remove specified information that resides in your account. If you want to delete your account, please contact us at support@porch.com. Please note that although Porch will remove your account within a reasonable time after receiving your request, information that you chose to provide in a public area of the Services may remain in accounts of users with whom such information has been shared, and Porch may retain and use information in backup/archival copies for our records as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.</p>
+        <p><b><u><span class="paragraphTitle">Children.</span></u></b> The Services are not directed to children under 13, and we do not knowingly collect or store any personally identifiable information about persons under the age of 13. If we learn that we have collected personally identifiable information of a child under 13, we will take steps to delete such information from our files as soon as practicable.</p>
+        <p><b><u><span class="paragraphTitle">Third-Party Websites.</span></u></b> Our Services may contain links to other websites and services. Any information that you provide to such a third-party is provided directly to the owner or operator of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services, and we're not responsible for their content, privacy or security practices and policies. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.</p>
+        <p><b><u><span class="paragraphTitle">Security.</span></u></b> We use commercially reasonable security measures to protect the loss, misuse, and alteration of the information under our control. For example, when you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer (SSL) technology. However, no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the protection of any information shared with us.</p>
+        <p><b><u><span class="paragraphTitle">Contacting Us.</span></u></b> If you have any questions or suggestions regarding our Privacy Policy, please contact us by email at <a href="mailto:support@porch.com">support@porch.com</a> or in writing at 1551 Eastlake Ave E, Suite 275, Seattle, WA 98102.</p>
     </div>
     </div>
 </div>
@@ -546,99 +575,182 @@
         </div>
     </div>
     <div class="claim-my-home-footer-nag">
-        See your home’s project history, pros who have worked on your home, and neighborhood stats<a href="http://porch.com/profile/guest/myhome" class="btn btn-sm btn-claim-home" data-interaction-id="app-footer_claim-my-home">Claim My Home</a>
+        See your home’s project history, pros who have worked on your home, and neighborhood stats
+        <a href="http://porch.com/profile/guest/myhome" class="btn btn-sm btn-claim-home" data-interaction-id="app-footer_claim-my-home">Claim My Home</a>
     </div>
 <div id="appFooter">
+
+    <div class="ad-placement-wrapper">
+        <div class="ad-placement">
+            <div class="ad-img-wrapper">
+                <img src="/assets/img/ads/concierge-clipped.png" class="ad-img" alt="Get the Porch App">
+            </div>
+            <div class="ad-copy-wrapper">
+                <p class="ad-copy-text">Immediately connect with a home professional. Get the Porch App today!</p>
+                <a href="http://ad.apps.fm/Sv4m40Y9AkO8kDfhCXSFHPE7og6fuV2oOMeOQdRqrE2UHydj10UU2DIzNYjdFOBuezx9TuaB8jTYhzdZ0vK2ovCYagKnjd3JTKLywLOw94o" target="_blank" class="ad-btn">
+                    <img src="/assets/img/app/apple_button.png" alt="Download on the AppStore">
+                </a>
+            </div>
+        </div>
+    </div>
     <footer class="porch-footer container">
-        <div class="row footer-bottom">
-            <div class="col-sm-3">
-                <ul class="porch-social-footer list-unstyled">
-                    <li class="h6-like follow-us">Follow us on</li>
-                    <li><a href="https://www.facebook.com/porchdotcom" target="_blank" data-interaction-id="app-footer_follow-facebook">
-                        <i class="icon-facebook"></i></a>
-                    </li>
-                    <li><a href="https://twitter.com/PorchDotCom" target="_blank" data-interaction-id="app-footer_follow-twitter">
-                        <i class="icon-twitter"></i>
-                    </a></li>
-                    <li><a href="http://pinterest.com/porchdotcom/" target="_blank" data-interaction-id="app-footer_follow-pinterest">
-                        <i class="icon-pinterest"></i>
-                    </a></li>
-                    <li><a href="https://plus.google.com/+porchdotcom" target="_blank" data-interaction-id="app-footer_follow-google-plus"><i class="icon-google-plus-sign"></i></a></li>
-                </ul>
-            </div>
-            <div class="col-sm-7">
-                <ul class="footer-links list-unstyled">
-                    <li>© 2014 Porch</li>
-                    <a class="no-style" href="http://porch.com/about/" data-interaction-id="app-footer_about-link">
-                        <li>About</li>
-                    </a>
-                    <a class="no-style" href="/about/terms/" data-interaction-id="app-footer_terms-link">
-                        <li>Terms</li>
-                    </a>
-                    <a class="no-style" href="/about/privacy/" data-interaction-id="app-footer_privacy-link">
-                        <li>Privacy</li>
-                    </a>
-                    <a class="no-style" href="/contact-us/" data-interaction-id="app-footer_contact-us-link">
-                        <li>Help</li>
-                    </a>
-                    <a class="no-style" href="/feedback" data-interaction-id="app-footer_feedback-link">
-                        <li class="feedback-footer">Feedback</li>
-                    </a>
-                </ul>
-            </div>
-            <div class="col-sm-2">
-                <p class="get-listed"><a href="http://pro.porch.com" target="_blank" data-interaction-id="app-footer_pro-link">
-                    For Porch Professionals
-                </a></p>
-            </div>
+
+
+                <div class="row footer-search-container">
+                </div>
+                <div class="row footer-top">
+                    <div class="list-wrapper">
+
+                            <div class="link-column col-md-3 col-sm-4 col-xs-12">
+                                <ul class="list-unstyled">
+                                    <li>
+                                            Ashburn
+                                            home professionals
+                                                                            </li>
+                                                <li><a class="no-style" href="http://porch.com/ashburn-va/plumbers/cp">Plumbers</a></li>
+                                                                                            <li><a class="no-style" href="http://porch.com/ashburn-va/handymen/cp">Handymen</a></li>
+                                                                                            <li><a class="no-style" href="http://porch.com/ashburn-va/roofers/cp">Roofers</a></li>
+                                            
+                                                <li class="hidden-xs"><a class="no-style" href="http://porch.com/ashburn-va/electricians/cp">Electricians</a></li>
+
+                                                <li class="hidden-xs"><a class="no-style" href="http://porch.com/ashburn-va/hvac-contractors/cp">HVAC contractors</a></li>
+
+                                                <li class="hidden-xs"><a class="no-style" href="http://porch.com/ashburn-va/house-cleaners/cp">House cleaners</a></li>
+
+                                                <li class="hidden-xs"><a class="no-style" href="http://porch.com/ashburn-va/landscapers/cp">Landscapers</a></li>
+
+                                                <li class="hidden-xs"><a class="no-style" href="http://porch.com/ashburn-va/pest-control-contractors/cp">Pest control contractors</a></li>
+
+                                                <li class="hidden-xs"><a class="no-style" href="http://porch.com/ashburn-va/painters/cp">Painters</a></li>
+
+                                                <li class="hidden-xs"><a class="no-style" href="http://porch.com/ashburn-va/flooring-contractors/cp">Flooring contractors</a></li>
+                                                                        <li><a href="/pros">See more...</a></li>
+                                </ul>
+                            </div>
+                            <div class="link-column col-md-3 col-sm-4 col-xs-12">
+                                <ul class="list-unstyled">
+                                    <li>Home photos</li>
+                                    <li><a href="/photos/kitchens" class="no-style">Kitchens</a></li>
+                                    <li><a href="/photos/living-rooms" class="no-style">Living rooms</a></li>
+                                    <li><a href="/photos/bathrooms" class="no-style">Bathrooms</a></li>
+                                    <li class="hidden-xs"><a href="/photos/exteriors" class="no-style">Exteriors</a></li>
+                                    <li class="hidden-xs"><a href="/photos/outdoors" class="no-style">Outdoors</a></li>
+                                    <li class="hidden-xs"><a href="/photos/dining-rooms" class="no-style">Dining rooms</a></li>
+                                    <li class="hidden-xs"><a href="/photos/bedrooms" class="no-style">Bedrooms</a></li>
+                                    <li class="hidden-xs"><a href="/photos/stairs" class="no-style">Stairs</a></li>
+                                    <li class="hidden-xs"><a href="/photos/porches" class="no-style">Porches</a></li>
+                                    <li class="hidden-xs"><a href="/photos/decks" class="no-style">Decks</a></li>
+                                    <li><a href="/photos">See more...</a></li>
+                                </ul>
+                            </div>
+                            <div class="link-column col-md-3 col-sm-4 col-xs-12">
+                                <ul class="list-unstyled">
+                                    <li>Home projects</li>
+                                    <li><a href="/photos/type--remodeling" class="no-style">Remodeling</a></li>
+                                    <li><a href="/photos/type--new-home-construction" class="no-style">New home construction</a></li>
+                                    <li><a href="/photos/type--wood-floor-repair" class="no-style">Flooring</a></li>
+                                    <li class="hidden-xs"><a href="/photos/type--landscape-maintenance" class="no-style">Landscaping</a></li>
+                                    <li class="hidden-xs"><a href="/photos/type--renovation" class="no-style">Renovation</a></li>
+                                    <li class="hidden-xs"><a href="/photos/type--countertop-installation" class="no-style">Countertop installation</a></li>
+                                    <li class="hidden-xs"><a href="/photos/type--roofers" class="no-style">Roofing</a></li>
+                                    <li class="hidden-xs"><a href="/photos/type--painting" class="no-style">Painting</a></li>
+                                    <li class="hidden-xs"><a href="/photos/type--architecture" class="no-style">Architecture</a></li>
+                                    <li class="hidden-xs"><a href="/photos/type--carpentry" class="no-style">Carpentry</a></li>
+                                </ul>
+                            </div>
+                    </div>
+                    <div class="social-column col-md-3 col-sm-12 col-xs-12">
+                        <div class="row">
+
+                        <ul class="list-unstyled col-xs-12 col-sm-4 col-md-12">
+                            <li class="sub-header">Get help finding a professional:</li>
+                            <li class="large-text">
+                                <span class="hidden-xs">1 (855) 494-5972</span>
+                                <a href="tel:1-855-494-5972" class="visible-xs">1 (855) 494-5972</a>
+                            </li>
+                        </ul>
+
+                        <ul class="list-unstyled col-xs-12 col-sm-4 col-md-12">
+                            <li class="sub-header">Build your business on Porch:</li>
+                            <li class="large-text"><a href="http://pro.porch.com">Create your profile</a></li>
+                        </ul>
+
+                        <ul class="list-unstyled socialize col-xs-12 col-sm-4 col-md-12">
+                            <li class="sub-header">Socialize with us:</li>
+                            <li>
+                                <ul class="porch-social-footer list-unstyled">
+                                    <li><a href="https://www.facebook.com/porchdotcom" target="_blank" data-interaction-id="app-footer_follow-facebook">
+                                        <i class="fa fa-facebook"></i></a>
+                                    </li>
+
+                                    <li><a href="https://www.pinterest.com/porchdotcom" target="_blank" data-interaction-id="app-footer_follow-pinterest">
+                                        <i class="fa fa-pinterest"></i></a>
+                                    </li>
+
+                                    <li><a href="https://twitter.com/PorchDotCom" target="_blank" data-interaction-id="app-footer_follow-twitter">
+                                        <i class="fa fa-twitter"></i></a>
+                                    </li>
+
+
+
+                                    <li><a href="https://plus.google.com/+porchdotcom" target="_blank" data-interaction-id="app-footer_follow-google-plus"><i class="fa fa-google-plus"></i></a>
+                                    </li>
+
+
+                                    <li><a href="http://www.linkedin.com/company/porch" target="_blank" data-interaction-id="app-footer_follow-linkedin">
+                                        <i class="fa fa-linkedin"></i></a>
+                                    </li>
+
+                                    <li><a href="http://www.youtube.com/user/onporch" target="_blank" data-interaction-id="app-footer_follow-youtube">
+                                        <i class="fa fa-youtube-square"></i></a>
+                                    </li>
+                                </ul>
+                            </li>
+                            </ul>
+                            <!--ul class="list-unstyled hidden-xs hidden-sm hidden-md hidden-lg latest-news col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <li class="sub-header">
+                                    Latest Porch news:
+                                </li>
+                                <a href=""><li>Porch: One Year Later and 200 Employees Strong</li></a>
+                            </ul-->
+                        </div>
+                    </div>
+                </div>
+        <div class="footer-bottom">
+            <ul class="footer-links list-unstyled">
+                <li class="copyright">© 2014 Porch</li>
+                <li><a class="no-style" href="//porch.com/about/" data-interaction-id="app-footer_about-link">
+                    About us
+                </a></li>
+                <li><a class="no-style" href="//porch.com/about/careers/" data-interaction-id="app-footer_about-link">
+                    Careers
+                </a></li>
+                <li><a class="no-style" href="/about/terms/" data-interaction-id="app-footer_terms-link">
+                    Terms
+                </a></li>
+                <li><a class="no-style" href="/about/privacy/" data-interaction-id="app-footer_privacy-link">
+                    Privacy
+                </a></li>
+                <li><a class="no-style" href="/contact-us" data-interaction-id="app-footer_contact-us-link">
+                    Help
+                </a></li>
+                <li><a class="no-style" href="//porch.com/about/faq/" data-interaction-id="app-footer_contact-us-link">
+                    FAQs
+                </a></li>
+                <li><a class="no-style" href="/feedback" data-interaction-id="app-footer_feedback-link">
+                    Feedback
+                </a></li>
+                <li><a class="no-style" href="http://www.lowes.com/">Lowe's</a></li>
+            </ul>
         </div>
     </footer>
 </div>
+<!-- Porch Version: 3.4.682 -->
 </div>
 
 
 
 
-
-<!-- Start Adroll -->
-<script type="text/javascript">
-adroll_adv_id = "LAUEFXOGNJELXA444D57CQ";
-adroll_pix_id = "D2VMAYQ3ORHLLCL7SRDM3U";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-
-<script type="text/javascript">
-  (function() {
-    window._pa = window._pa || {};
-    // _pa.orderId = "myCustomer@email.com"; // OPTIONAL: attach user email or order ID to conversions
-    // _pa.revenue = "19.99"; // OPTIONAL: attach dynamic purchase values to conversions
-    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/52687ff2d00ee703ed00000a.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
-  })();
-</script>
-<!-- End Adroll -->
-
-<!-- Crazy Egg integration -->
-<script type="text/javascript">
-    setTimeout(function(){var a=document.createElement("script");
-        var b=document.getElementsByTagName("script")[0];
-        a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/3644.js?"+Math.floor(new Date().getTime()/3600000);
-        a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-<!-- End Crazy Egg integration -->
 <!-- Quantcast Tag -->
 <script type="text/javascript">
 var _qevents = _qevents || [];
@@ -663,8 +775,8 @@ qacct:"p-ZJgDkP08sc86U"
     </div>
 </noscript>
 <!-- End Quantcast tag --><!-- START NewRelic Timing -->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"3730228","applicationTime":8,"beacon":"beacon-6.newrelic.com","queueTime":0,"licenseKey":"da105cd77a","transactionName":"bgZWYxEHDxZYBRANDFdMd0IQEg4IFgcGCxZNTERFChAABkBGTCMmbUo=","agent":"js-agent.newrelic.com\/nr-411.min.js","errorBeacon":"bam.nr-data.net"}</script><!-- END NewRelic Timing -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"3730228","applicationTime":7,"beacon":"beacon-6.newrelic.com","queueTime":0,"licenseKey":"da105cd77a","transactionName":"bgZWYxEHDxZYBRANDFdMd0IQEg4IFgcGCxZNTERFChAABkBGTCMmbUo=","agent":"js-agent.newrelic.com\/nr-476.min.js","errorBeacon":"bam.nr-data.net"}</script><!-- END NewRelic Timing -->
 
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
