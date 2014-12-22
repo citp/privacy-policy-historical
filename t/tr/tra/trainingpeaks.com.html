@@ -1,32 +1,43 @@
-<!--The following is the downloaded HTML source of the trainingpeaks.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626055111id_/http%3A//home.trainingpeaks.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trainingpeaks.com privacy policy that was archived on 2014-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222083819id_/http%3A//home.trainingpeaks.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="head"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="linux chrome chrome6 webkit webkit5"><head id="head"><title>
 	Privacy Policy | TrainingPeaks
-</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MTNVWD"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"2bca9ac4e6","applicationID":"2702051","transactionName":"ZVAGbBBZDEUCAENYV1waJWsyFwFbEBNWVl1BGhRXEEwDWhcGWkFUU0EBFgNLEk4=","queueTime":0,"applicationTime":10,"ttGuid":"F8E1BD4C1C24C7BB","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAIDVldXGwEHVFNSAgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script> 
+</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MTNVWD"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"2bca9ac4e6","applicationID":"2702051","transactionName":"ZVAGbBBZDEUCAENYV1waJWsyFwFbEBNWVl1BGhRXEEwDWhcGWkFUU0EBFgNLEk4=","queueTime":0,"applicationTime":13,"ttGuid":"660947910AEBBE5C","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAIDVldXGwEHVFNSAgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script> 
 <meta http-equiv="pragma" content="no-cache"> 
 <meta http-equiv="content-style-type" content="text/css"> 
 <meta http-equiv="content-script-type" content="text/javascript"> 
-<link href="http://home.trainingpeaks.com/CMSPages/A.GetResource.ashx,qstylesheetname=styles.pagespeed.cf.1Men3hBIJz.css" type="text/css" rel="stylesheet"> 
+<link href="http://home.trainingpeaks.com/CMSPages/A.GetResource.ashx,qstylesheetname=styles.pagespeed.cf.H1xtG7plBD.css" type="text/css" rel="stylesheet"> 
 <link rel="icon" href="http://home.trainingpeaks.com/xfavicon.ico.pagespeed.ic.yMPXzqMsxl.png" type="image/x-icon">
 <meta property="fb:admins" content="1661585818">
 <meta property="fb:app_id" content="103295416394750">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="TrainingPeaks">
-<link href="http://home.trainingpeaks.com/CMSPages/A.GetResource.ashx,qstylesheetname=jquery-ui-1.10.3.custom.min.pagespeed.cf.tt7X8aUL4f.css" type="text/css" rel="stylesheet">
-<script src="http://home.trainingpeaks.com/CMSScripts/Custom/jquery.1.9.0.min.js.pagespeed.jm.a-tJGu7l62.js" type="text/javascript"></script>
-<script src="http://home.trainingpeaks.com/CMSScripts/Custom/jquery-ui-1.10.3.custom.min.js.pagespeed.jm.ojDMcF2Bwf.js" type="text/javascript"></script> 
+<link href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" type="text/css" rel="stylesheet">
+<script src="//code.jquery.com/jquery-1.9.0.min.js" type="text/javascript"></script>
+<script>window.jQuery||document.write('<script src="/CMSScripts/Custom/jquery.1.9.0.min.js"><\/script>');</script><script src="/CMSScripts/Custom/jquery.1.9.0.min.js"></script>
+
+<script src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js" type="text/javascript"></script>
+<script>(window.jQuery&&window.jQuery.ui&&window.jQuery.ui.version==='1.10.3')||document.write('<script src=""/CMSScripts/Custom/jquery-ui-1.10.3.custom.min.js"><\/script>');</script><script src="" cmsscripts="" custom="" jquery-ui-1.10.3.custom.min.js"=""></script>
+
+<script src="http://home.trainingpeaks.com/CMSScripts/Custom/modernizr.js.pagespeed.jm.8_AaZFzzfM.js"></script>
+</head><body class="LTR ENUS ContentBody" style="zoom: 1;"><asp:scriptmanager id="manScript" runat="server"> 
 <link href="http://home.trainingpeaks.com/xfavicon.ico.pagespeed.ic.yMPXzqMsxl.png" type="image/x-icon" rel="shortcut icon"> 
 <link href="http://home.trainingpeaks.com/xfavicon.ico.pagespeed.ic.yMPXzqMsxl.png" type="image/x-icon" rel="icon"> 
 
 <script type="text/javascript">jQuery(document).ready(function($){$('nav ul ul li a').on('click touchend',function(e){var el=$(this);var link=el.attr('href');window.location=link;});});</script>
-<script type="text/javascript">jQuery(document).ready(function($){$('#contentWrap').addClass('aboutUs');});</script></head>
-<body class="LTR ENUS ContentBody">
+<script type="text/javascript">jQuery(document).ready(function($){$('#contentWrap').addClass('aboutUs');});</script>
+
     <!-- Google Tag Manager -->
     <noscript>
         <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MTNVWD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-MTNVWD');</script>
+    
+    
+
+<script>var TpCmsApp=(function(){var _config={"environment":'Production',"googleTagManagerKey":'GTM-MTNVWD',"cloudfrontUrl":"//dva02xbqso9x0.cloudfront.net","affiliateCookiePrefix":"tpAC_","mixPanelToken":'38f6e07cc2b61df16fd89bdf7be288c2'}
+return{getEnvironment:function(){return _config.environment;},getCloudfrontUrl:function(){return _config.cloudfrontUrl;},getAffiliateCookieName:function(){return _config.affiliateCookiePrefix+_config.environment;},getMixPanelToken:function(){return _config.mixPanelToken;}};})();</script>
 
     <form method="post" action="/privacy-policy.aspx" id="form">
 <div class="aspNetHidden">
@@ -40,7 +51,7 @@
 function __doPostBack(eventTarget,eventArgument){if(!theForm.onsubmit||(theForm.onsubmit()!=false)){theForm.__EVENTTARGET.value=eventTarget;theForm.__EVENTARGUMENT.value=eventArgument;theForm.submit();}}</script>
 
 
-<script src="http://home.trainingpeaks.com/WebResource.axd,qd=X9VkILu-90YvtO46oaqOOPUtVBtqTPog1EizQs_rTLg2R3I22pgkYCpMdM3EiMsHUgiqYNnHDXGy4KewgwiF44OHz4k1,at=635195457660000000.pagespeed.jm.dtNqHmmQdC.js" type="text/javascript"></script>
+<script src="http://home.trainingpeaks.com/WebResource.axd,qd=X9VkILu-90YvtO46oaqOOPUtVBtqTPog1EizQs_rTLg2R3I22pgkYCpMdM3EiMsHUgiqYNnHDXGy4KewgwiF44OHz4k1,at=635418424260000000.pagespeed.jm.dtNqHmmQdC.js" type="text/javascript"></script>
 
 <input type="hidden" name="lng" id="lng" value="en-US">
 <script type="text/javascript">function PM_Postback(param){if(window.top.HideScreenLockWarningAndSync){window.top.HideScreenLockWarningAndSync(1080);}__doPostBack('m',param);}
@@ -49,6 +60,7 @@ function PM_Callback(param,callback,ctx){if(window.top.HideScreenLockWarningAndS
 <script src="http://home.trainingpeaks.com/ScriptResource.axd,qd=u2mVnOBNZVuIMtVTrHjnNPaFk4OCTGopwBWccIfEng9IcXlJ2ccCTU6INstUh427E4FvgqqJU9fsjygcekoMCi910yTrM34nUNGYlPU4916cOB-gMgb8MYBh9Us2Dg51CVMlrw2,at=3a1336b1.pagespeed.jm.tuQt1i1RMG.js" type="text/javascript"></script>
 <div class="aspNetHidden">
 
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185">
 	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
 	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
 </div>
@@ -122,138 +134,186 @@ function PM_Callback(param,callback,ctx){if(window.top.HideScreenLockWarningAndS
 </nav>
   
 
-<div id="contentWrap">
+<div id="contentWrap" class="aboutUs">
   <div id="mainContent">
     <h1 class="purple">Our Privacy Policy
-<span class="post"><p class="helvNeuReg lightGrey marginTopNone">Updated on December 17, 2013</p></span></h1><div class="post"><p>This Privacy Policy (the “<strong>Policy</strong>”) describes how Peaksware, LLC (“<strong>Peaksware</strong>,” "<strong>we</strong>," "<strong>us</strong>," and “<strong>our</strong>") is committed to protecting your privacy when you use our websites and mobile and other software applications that display or reference this Policy, including, without limitation, our website located at www.trainingpeaks.com (our web sites and mobile and other software applications displaying or referencing this Policy, collectively the "<strong>Site</strong>").</p>
-
-<p>This Policy is part of and incorporated into the Terms of Use for the Site. To review the full Terms of Use for the Site, please visit <a href="/terms-of-use">http://www.trainingpeaks.com/terms-of-use.aspx</a>. Capitalized terms used in this Policy will have the same meaning given to them in the Terms of Use for the Site.</p>  
-
-<h3>Summary</h3> 
-<p>This Policy applies to all information you upload, post or provide to the Site and all information we collect from you through your use of the Site (“Information”).  This Information includes both Information that may be reasonably associated with, linked to you, or used to identify you, allowing you to be personally identified or contacted (“Personal” Information) and Information that may not by itself be reasonably associated with, linked to, or used to you (“Non-Personal” Information).  This includes all exercise and fitness data, training plans, training logs, meal plans and any other information that you or a Coach uploads or enters into your Account on the Site.</p>
-  
-<p>Although we encourage you to read the entire Policy, the following provides a summary of some of the important aspects of our privacy practices:</p>
+<span class="post"><p class="helvNeuReg lightGrey marginTopNone">Updated on December 17, 2013</p></span></h1><div class="post"><p>
+	This Privacy Policy (the “<strong>Policy</strong>”) describes how Peaksware, LLC (“<strong>Peaksware</strong>,” "<strong>we</strong>," "<strong>us</strong>," and “<strong>our</strong>") is committed to protecting your privacy when you use our websites and mobile and other software applications that display or reference this Policy, including, without limitation, our website located at www.trainingpeaks.com (our web sites and mobile and other software applications displaying or referencing this Policy, collectively the "<strong>Site</strong>").</p>
+<p>
+	This Policy is part of and incorporated into the Terms of Use for the Site. To review the full Terms of Use for the Site, please visit <a href="/terms-of-use">http://www.trainingpeaks.com/terms-of-use.aspx</a>. Capitalized terms used in this Policy will have the same meaning given to them in the Terms of Use for the Site.</p>
+<h3>
+	Summary</h3>
+<p>
+	This Policy applies to all information you upload, post or provide to the Site and all information we collect from you through your use of the Site (“Information”). This Information includes both Information that may be reasonably associated with, linked to you, or used to identify you, allowing you to be personally identified or contacted (“Personal” Information) and Information that may not by itself be reasonably associated with, linked to, or used to you (“Non-Personal” Information). This includes all exercise and fitness data, training plans, training logs, meal plans and any other information that you or a Coach uploads or enters into your Account on the Site.</p>
+<p>
+	Although we encourage you to read the entire Policy, the following provides a summary of some of the important aspects of our privacy practices:</p>
 <ul>
-	<li>We allow you to “opt out” of certain uses of your information.</li>
-	<li>We use your information to provide you with products, services, and information.</li>
-	<li>We may combine the information we collect about you with information collected from other sources.</li>
-	<li>We may share your information with third parties in some situations, such as in processing registration and payment for our Site, administering our Site, and for advertising and direct marketing.</li>
-	<li>We may share your information with your coaches and sponsors.</li>
-	<li>We take reasonable and appropriate measures to secure your information, but we cannot promise that your information will remain secure in all circumstances.</li>
+	<li>
+		We allow you to “opt out” of certain uses of your information.</li>
+	<li>
+		We use your information to provide you with products, services, and information.</li>
+	<li>
+		We may combine the information we collect about you with information collected from other sources.</li>
+	<li>
+		We may share your information with third parties in some situations, such as in processing registration and payment for our Site, administering our Site, and for advertising and direct marketing.</li>
+	<li>
+		We may share your information with your coaches and sponsors.</li>
+	<li>
+		We take reasonable and appropriate measures to secure your information, but we cannot promise that your information will remain secure in all circumstances.</li>
 </ul>
-
-<h3>Your Consent to This Policy.</h3>  
-<p>By using a Site, you are agreeing to the collection, use, and sharing of your information as described in this Policy.  We will not use or share the information we receive, collect, or obtain regarding you other than as stated in this Policy.  If you do not consent to the receipt, collection, use, and disclosure of your information as described in this Policy, you are not permitted to use the Site.</p>
-
-<h3>Questions and Communications.</h3>
-<p>If you have any questions or concerns regarding this Policy or our Information practices, please send an email to <a href="mailto:support@peaksware.com">support@peaksware.com</a>, call us at (720) 406-1839, or send us a letter to “Privacy” at: Peaksware LLC, 7007 Winchester Circle, Suite 200, Boulder, CO 80301.</p>
-
-<p>If we need, or are required, to contact you concerning any event that involves any of your Information that we collect, use, or share, we may do so by email, telephone, or mail using the address or number we have on file for you.</p>
-
-<h3>This Policy May Change.</h3>
-<p>We reserve the right to update or modify this Policy, at any time and without prior notice, by posting the revised version of this Policy on the Site. Changes made to this Policy will be effective 30 days following posting for existing users, and immediately for new users.  Your use of the Site following the effective date of any change to this Policy constitutes your acceptance of that change.</p>
-
-<p>Unless we seek and receive consent from you, we will use your Information in accordance with the version of this Policy effective when the Information was last collected.  You may contact us as described above regarding any change to this Policy, including to prevent your Information from being used pursuant to any change to this Policy.</p><p>
-
-</p><h3>Additional Privacy Notices on the Site.</h3>
-<p>This Policy is supplemented by additional notices regarding privacy posted on the Site.  These notices provide details about the Information we collect, use and share through the Site, why we need that Information, and choices you may have about the ways we use that Information.</p><p>  
-
-</p><h3>Personal Information We Collect Through the Site.</h3>
-<p>We may receive, collect, and obtain Personal Information regarding you as described in this Policy.  In particular, we may collect Personal Information from you voluntarily through your use of the Site or your interactions with others through the Site.  We may also automatically collect Personal Information from you when you use the Site or interact with others through the Site.  For example:</p>
-
-<h3>Personal Information You Volunteer.</h3>
-<p>We collect Personal Information you voluntarily upload, provide, or post when you use the Site.  For example, the Personal Information you provide when you register on the Site (including, your age, gender, martial status, and contact information), when you use your Account on the Site (including, your fitness, training and nutrition data, as well as geo-location information regarding your training), or when you upload, provide, or post other content to the Site (including, text, photographs, images, illustrations, graphics, audio and video clips, and other content).</p>
-
-<h3>Information Obtained from Third Parties.</h3>
-<p>We may obtain Personal Information from other third parties regarding you.  For example, if you register with a third party provider to participate in one of the services offered through our Site, we may automatically import the Information you provide to that third party into your account for the Site.</p>
-
-<h3>Personal Information Sent to Us by Your Web Browser or Mobile Device.</h3>
-<p>We collect Personal Information that is sent to us automatically by your web browser or mobile device. This Information may include, for example, your IP address, the address of the web page you were visiting when you accessed the Site, the name of your operating system, the name and version of your browser, your mobile device identifier, your location, your wireless carrier and mobile phone number, and the date and time of your visit. The Personal Information we receive depends on the settings on your web browser and mobile device.  Please consult the documentation for your web browser or mobile device regarding how to adjust the Personal Information you share through your web browser or mobile.</p>
-  
-<h3>Personal Information Collected Using "Cookies" and Tracking Technologies.</h3>
-<p>We use "cookies," “flash cookies,” “Oauth tokens,” “web beacons” and similar technologies to collect Information and manage the Site. A cookie is a small text file that is placed on your hard disk or mobile device by a Web server. Each time you visit the Site, our server will recognize you by "searching" the Information contained in these cookies. This permits us to offer you a personalized experience when you use the Site.</p>
-
-<p>We may use cookies and other tracking technologies that expire once you close your web browser or that persist and stay on your computer or device until you delete them.  If you do not wish to allow cookies or other tracking technologies, please refer to your browser or device instructions or help screen to learn more about your ability to limit or delete cookies and other tracking technologies. Although you are not required to accept our cookies when you visit the Site, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of the Site.</p>
-
-<p>Please note that our advertisers and third party providers may also use cookies, web beacons, or these other tracking technologies in messages and advertisements displayed on the Site.  We do not have access to information that would confirm all uses of cookies, web beacons, or other tracking technology by our advertisers and other third party providers.</p>
-
-<h3>Use and Sharing of Your Personal Information.</h3>
-<p>We may use and share the Personal Information we receive, collect, and obtain regarding you as described in this Policy.  The Personal Information that we receive, collect, and obtain may be used for a variety of purposes, including by way of example:</p>
-
+<h3>
+	Your Consent to This Policy.</h3>
+<p>
+	By using a Site, you are agreeing to the collection, use, and sharing of your information as described in this Policy. We will not use or share the information we receive, collect, or obtain regarding you other than as stated in this Policy. If you do not consent to the receipt, collection, use, and disclosure of your information as described in this Policy, you are not permitted to use the Site.</p>
+<h3>
+	Questions and Communications.</h3>
+<p>
+	If you have any questions or concerns regarding this Policy or our Information practices, please send an email to <a href="mailto:support@peaksware.com">support@peaksware.com</a>, call us at (720) 406-1839, or send us a letter to “Privacy” at: Peaksware LLC, 7007 Winchester Circle, Suite 200, Boulder, CO 80301.</p>
+<p>
+	If we need, or are required, to contact you concerning any event that involves any of your Information that we collect, use, or share, we may do so by email, telephone, or mail using the address or number we have on file for you.</p>
+<h3>
+	This Policy May Change.</h3>
+<p>
+	We reserve the right to update or modify this Policy, at any time and without prior notice, by posting the revised version of this Policy on the Site. Changes made to this Policy will be effective 30 days following posting for existing users, and immediately for new users. Your use of the Site following the effective date of any change to this Policy constitutes your acceptance of that change.</p>
+<p>
+	Unless we seek and receive consent from you, we will use your Information in accordance with the version of this Policy effective when the Information was last collected. You may contact us as described above regarding any change to this Policy, including to prevent your Information from being used pursuant to any change to this Policy.</p>
+<p>
+	&nbsp;</p>
+<h3>
+	Additional Privacy Notices on the Site.</h3>
+<p>
+	This Policy is supplemented by additional notices regarding privacy posted on the Site. These notices provide details about the Information we collect, use and share through the Site, why we need that Information, and choices you may have about the ways we use that Information.</p>
+<p>
+	&nbsp;</p>
+<h3>
+	Personal Information We Collect Through the Site.</h3>
+<p>
+	We may receive, collect, and obtain Personal Information regarding you as described in this Policy. In particular, we may collect Personal Information from you voluntarily through your use of the Site or your interactions with others through the Site. We may also automatically collect Personal Information from you when you use the Site or interact with others through the Site. For example:</p>
+<h3>
+	Personal Information You Volunteer.</h3>
+<p>
+	We collect Personal Information you voluntarily upload, provide, or post when you use the Site. For example, the Personal Information you provide when you register on the Site (including, your age, gender, martial status, and contact information), when you use your Account on the Site (including, your fitness, training and nutrition data, as well as geo-location information regarding your training), or when you upload, provide, or post other content to the Site (including, text, photographs, images, illustrations, graphics, audio and video clips, and other content).</p>
+<h3>
+	Information Obtained from Third Parties.</h3>
+<p>
+	We may obtain Personal Information from other third parties regarding you. For example, if you register with a third party provider to participate in one of the services offered through our Site, we may automatically import the Information you provide to that third party into your account for the Site.</p>
+<h3>
+	Personal Information Sent to Us by Your Web Browser or Mobile Device.</h3>
+<p>
+	We collect Personal Information that is sent to us automatically by your web browser or mobile device. This Information may include, for example, your IP address, the address of the web page you were visiting when you accessed the Site, the name of your operating system, the name and version of your browser, your mobile device identifier, your location, your wireless carrier and mobile phone number, and the date and time of your visit. The Personal Information we receive depends on the settings on your web browser and mobile device. Please consult the documentation for your web browser or mobile device regarding how to adjust the Personal Information you share through your web browser or mobile.</p>
+<h3>
+	Personal Information Collected Using "Cookies" and Tracking Technologies.</h3>
+<p>
+	We use "cookies," “flash cookies,” “Oauth tokens,” “web beacons” and similar technologies to collect Information and manage the Site. A cookie is a small text file that is placed on your hard disk or mobile device by a Web server. Each time you visit the Site, our server will recognize you by "searching" the Information contained in these cookies. This permits us to offer you a personalized experience when you use the Site.</p>
+<p>
+	We may use cookies and other tracking technologies that expire once you close your web browser or that persist and stay on your computer or device until you delete them. If you do not wish to allow cookies or other tracking technologies, please refer to your browser or device instructions or help screen to learn more about your ability to limit or delete cookies and other tracking technologies. Although you are not required to accept our cookies when you visit the Site, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of the Site.</p>
+<p>
+	Please note that our advertisers and third party providers may also use cookies, web beacons, or these other tracking technologies in messages and advertisements displayed on the Site. We do not have access to information that would confirm all uses of cookies, web beacons, or other tracking technology by our advertisers and other third party providers.</p>
+<h3>
+	Use and Sharing of Your Personal Information.</h3>
+<p>
+	We may use and share the Personal Information we receive, collect, and obtain regarding you as described in this Policy. The Personal Information that we receive, collect, and obtain may be used for a variety of purposes, including by way of example:</p>
 <ul>
-	<li>To provide the products, information and services you request;</li>
-	<li>For security, credit or fraud prevention purposes;</li>
-	<li>To provide you with effective customer service;</li>
-	<li>To provide you with a personalized experience when you use the Site;</li>
-	<li>To create a profile from the dealings we have with you to help understand what information you might be interested in receiving from us;</li>
-	<li>To contact you with special offers and other information we believe will be of interest to you;</li>
-	<li>To contact you with information and notices related to your use of the Site;</li>
-	<li>To provide targeted advertising to you through the Site;</li>
-	<li>To invite you to participate in surveys and provide feedback to us;</li>
-	<li>To contact you to satisfy any legal or regulatory obligation;</li>
-	<li>To improve the content, functionality and usability of the Site;</li>
-	<li>To improve our products and services and develop new products and services;</li>
-	<li>To improve our marketing and promotional efforts;</li>
+	<li>
+		To provide the products, information and services you request;</li>
+	<li>
+		For security, credit or fraud prevention purposes;</li>
+	<li>
+		To provide you with effective customer service;</li>
+	<li>
+		To provide you with a personalized experience when you use the Site;</li>
+	<li>
+		To create a profile from the dealings we have with you to help understand what information you might be interested in receiving from us;</li>
+	<li>
+		To contact you with special offers and other information we believe will be of interest to you;</li>
+	<li>
+		To contact you with information and notices related to your use of the Site;</li>
+	<li>
+		To provide targeted advertising to you through the Site;</li>
+	<li>
+		To invite you to participate in surveys and provide feedback to us;</li>
+	<li>
+		To contact you to satisfy any legal or regulatory obligation;</li>
+	<li>
+		To improve the content, functionality and usability of the Site;</li>
+	<li>
+		To improve our products and services and develop new products and services;</li>
+	<li>
+		To improve our marketing and promotional efforts;</li>
 </ul>
+<p>
+	YOU SHOULD NOT PROVIDE ANY PERSONAL INFORMATION THROUGH THE SITE OR ANY COMMUNICATIONS WITH OTHERS THROUGH THE SITE UNLESS YOU WOULD LIKE THAT INFORMATION TO BE USED IN ACCORDANCE WITH THIS POLICY.</p>
+<p>
+	In addition to the other uses of Personal Information described above, we may share your Personal Information in the following ways:</p>
+<h3>
+	Public Postings on the Site.</h3>
+<p>
+	The Site permits you to post, upload, or otherwise make Personal Information publicly available on the Site or through third party web sites and services, including, for example, blogs, Facebook®, Twitter® or other social media applications. When you do this, the Personal Information will be made publicly available through the Site or through the other third party web site or service. You are responsible for determining when and where you would like to make your Personal Information publicly available and the Site will not alert you when you make your Personal Information publicly available.</p>
+<h3>
+	Sponsors and Coaches.</h3>
+<p>
+	If you have a Coach Client Account or a Sponsored Account (each as defined in the Terms of Use), we may provide your Content (as defined in the Terms of Use) and other Personal Information to the Coach or Sponsor (each as defined in the Terms of Use) with whom your Account is linked. This Information may be used by the Sponsor or Coach for any purpose you have agreed upon with your Sponsor or Coach, for example your Sponsor may use your Personal Information to advertise to you. It is your responsibility to have an agreement with your Sponsor or Coach regarding the Sponsor’s or Coach’s use of your Content and Information. Peaksware has no control over such uses and will not be liable to you for any disclosure of your Content or Information by a Coach or Sponsor. IF YOU DO NOT WANT YOUR INFORMATION TO BE MADE AVAILABLE TO A COACH OR SPONSOR, YOU SHOULD RE-DESIGNATE YOUR ACCOUNT AS AN ATHLETE ACCOUNT AS DESCRIBED IN THE TERMS OF USE.</p>
+<h3>
+	Advertisers.</h3>
+<p>
+	We may provide targeted advertising to you through the Site based on your Personal Information, we will not share your Personal Information with third party advertisers unless you click on an advertisement displayed on the Site. Clicking on any advertisement may result in sharing your Personal Information with the third party provider of that ad and will be considered your consent to “opt in” for this transfer.</p>
+<h3>
+	Service Providers.</h3>
+<p>
+	We may share your Personal Information with companies and organizations that perform services on our behalf; for example, companies that provide support services to us (such as data storage, web hosting, and data analytics services) or that help us process your payments (such as payment card processors). We require that these third parties agree to use the Information we share with them only to perform their obligations to us and to treat all Information they receive from us in compliance with this Policy.</p>
+<p>
+	For instructions on how to “opt-out” of disclosure of your Personal Information to these third parties, please see the “Your Choices / Opt-Out / Changing Your Information” section below.</p>
+<h3>
+	Collection, Use, and Sharing of Non-Personal Information.</h3>
+<p>
+	We may also collect certain Non-Personal Information when you use or interact with the Site. We also receive and obtain Non-Personal Information from third parties. This Non-Personal Information will include, by way of example, performance information and other metrics regarding the use of and access to the Site.</p>
+<p>
+	may also generate Non-Personal Information from the Personal Information we receive, collect, and obtain under this Policy. When we do so, we will take reasonable measures to ensure that the Non-Personal Information is no longer personally identifiable and may not later be reasonably associated with, linked to, or used to identify you. Once we generate any Non-Personal Information from any Personal Information, we will not later attempt to again make that information personally identifiable. However, we may combine and enhance that Non-Personal Information with other Non-Personal Information received or obtained from third parties.</p>
+<p>
+	Provided that any Non-Personal Information remains in non-personally identifiable form and may not be reasonably associated with, linked to, or used to identify any individual, we may use or share that Non-Personal Information for any lawful purpose without a further duty or obligation to you. This will include, by way of example, developing product and service offerings based on Non-Personal Information and providing those offerings to you or to other third parties.</p>
+<h3>
+	Sensitive Information.</h3>
+<p>
+	You are not required to provide us with any Information regarding your medical or health condition, race or ethnic origin, political opinions, religious or philosophical beliefs, or other sensitive Information in order to use our Site. You may, however, choose to provide these types of sensitive information to improve your use of the Services. PEAKSWARE IS NOT A HEALTHCARE PROVIDER OR A BUSINESS ASSOCIATE OF ANY HEALTHCARE PROVIDER AND IS NOT SUBJECT TO THE PRIVACY RULE OF THE HEALTH INFORMATION PORTABILITY AND ACCOUNTABILITY ACT OF 1996 (HIPAA).</p>
+<h3>
+	Protection of the Sites and Others.</h3>
+<p>
+	We may disclose the Information we collect through the Site when we, in good faith, believe disclosure is appropriate to comply with the law (or a court order or subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce the Terms of Use or other agreements that govern the use of the Site; to protect the rights (including our intellectual property rights), property or safety of Peaksware, our users or others; or to protect your vital interests.</p>
+<h3>
+	Business Transfers.</h3>
+<p>
+	If we elect, in our reasonable discretion, to transfer ownership or control of the Site to a third party, whether or not in the context of an acquisition, merger, or reorganization, your Information (both Personal and Non-Personal) may be transferred to that third party (either an affiliate or an unrelated third party). If such a transfer occurs, the acquiring company's use of your personal information will still be subject to this Policy and the privacy preferences you have expressed to us.</p>
+<h3>
+	Your California Privacy Rights.</h3>
+<p>
+	California law provides that California residents have a right to request that businesses tell them how their Personal Information has been shared with third parties for use in direct marketing purposes. However, there is an exception to this requirement for businesses that have adopted and disclosed, in their privacy policy, a policy of not disclosing a person’s Personal Information to third parties for use in direct marketing purposes if that person has exercised an option to opt-out of the disclosure of their Personal Information to third parties for such purposes.</p>
+<p>
+	We have adopted a policy of allowing you to opt-out of the disclosure of your Personal Information to third parties for their direct marketing purposes and thus falls within this exception. Instructions for opting out can be found in the section below entitled “Your Choices / Opt-Out / Changing Your Information.”</p>
+<h3>
+	Your Choices / Opt-Out /Changing / Deleting Your Personal Information.</h3>
+<p>
+	We respect your right to make choices about the ways we receive, collect, use and disclose your Personal Information. If you no longer wish to receive messages from us through the Site, or to have your Personal Information shared with third parties as permitted by this Policy, you may opt-out of receiving those messages from us or having your Personal Information shared with third parties.</p>
+<p>
+	In many cases, opting out of receiving messages or having your Personal Information shared with a third party will not affect your ability to use or access the Site. However, some messages (e.g. account notifications, service announcements, and billing information) are considered necessary to our operation of the Site. Likewise, some of the third parties with which we share your Personal Information are used by us to provide necessary functionality for the Site. If you wish to opt-out of receiving these messages or of sharing your Personal Information with those third parties, we may be required to limit or cancel your access to and use of some or all of our Site. Note also that while you may opt-out of receiving messages from us, you may be required to contact other third parties directly to also opt-out of receiving emails or other messages from those third parties. All opt-out requests can be made by contacting us at <a href="mailto:support@peaksware.com">support@peaksware.com</a> using the email address we have on file for your account on the Site.</p>
+<p>
+	While we take reasonable steps to ensure that the Personal Information we collect is reliable for its intended use, accurate, complete, and current, we rely on you to update and correct your Personal Information. You may update, correct or modify any of your Personal Information by emailing us at <a href="mailto:support@peaksware.com">support@peaksware.com</a> using the email address we have on file for your account on the Site.</p>
+<p>
+	You may also contact us at <a href="mailto:support@peaksware.com">support@peaksware.com</a> using the email address we have on file for your account on the Site to instruct us to delete your Personal Information. If you wish for us to delete your Personal Information, we will be required to limit or cancel your access to and use of some or all of our Site.</p>
+<p>
+	Note that it may take up to 10 business days for us to comply with any request you make to remove your contact information from our lists, to cease sharing your Personal Information, to update, correct or modify your Personal Information, or to delete your Personal Information.</p>
+<h3>
+	Children's Privacy.</h3>
+<p>
+	The Site is not directed at nor targeted to children under the age of 13. We do not use the Site to knowingly solicit Personal Information from or market to children under the age of 13. If you are under the age of 13, do not provide us with any Personal Information. If we learn that someone under 13 has provided Personal Information to one of the Site, we will use reasonable efforts to remove such Information from our databases.</p>
+<h3>
+	Do Not Track.</h3>
+<p>
+	Certain web browsers and other devices you may use to access the Site may permit you to indicate your preference that you do not wish to be “tracked” online. At this time we do not modify your experience on the Site or the Information we collect from you through the Site based on whether such a preference is indicated.</p>
+<h3>
+	Security.</h3>
+<p>
+	We are committed to protect and secure your Personal Information. We will take all reasonable and appropriate steps to insure the safety and security of your Personal Information. This includes using at least industry standard security measures to protect the loss, misuse, and unintended alteration of the Personal Information under our control. For example, our policy is that only those individuals who need your Personal Information to perform a specific job for us are granted access to that Personal Information. Likewise, all employees and contractors are kept up-to-date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure environment. Although we take these measures to protect your Personal Information, "perfect security" does not exist, and we can not guarantee that your Personal Information will be secure in all situations.</p>
 
-<p>YOU SHOULD NOT PROVIDE ANY PERSONAL INFORMATION THROUGH THE SITE OR ANY COMMUNICATIONS WITH OTHERS THROUGH THE SITE UNLESS YOU WOULD LIKE THAT INFORMATION TO BE USED IN ACCORDANCE WITH THIS POLICY.</p>
-
-<p>In addition to the other uses of Personal Information described above, we may share your Personal Information in the following ways:</p>
-
-<h3>Public Postings on the Site.</h3>
-<p>The Site permits you to post, upload, or otherwise make Personal Information publicly available on the Site or through third party web sites and services, including, for example, blogs, Facebook®, Twitter® or other social media applications. When you do this, the Personal Information will be made publicly available through the Site or through the other third party web site or service.  You are responsible for determining when and where you would like to make your Personal Information publicly available and the Site will not alert you when you make your Personal Information publicly available.</p>
-
-<h3>Sponsors and Coaches.</h3>
-<p>If you have a Coach Client Account or a Sponsored Account (each as defined in the Terms of Use), we may provide your Content (as defined in the Terms of Use) and other Personal Information to the Coach or Sponsor (each as defined in the Terms of Use) with whom your Account is linked.  This Information may be used by the Sponsor or Coach for any purpose you have agreed upon with your Sponsor or Coach, for example your Sponsor may use your Personal Information to advertise to you. It is your responsibility to have an agreement with your Sponsor or Coach regarding the Sponsor’s or Coach’s use of your Content and Information. Peaksware has no control over such uses and will not be liable to you for any disclosure of your Content or Information by a Coach or Sponsor.  IF YOU DO NOT WANT YOUR INFORMATION TO BE MADE AVAILABLE TO A COACH OR SPONSOR, YOU SHOULD RE-DESIGNATE YOUR ACCOUNT AS AN ATHLETE ACCOUNT AS DESCRIBED IN THE TERMS OF USE.</p>
-
-<h3>Advertisers.</h3>
-<p>We may provide targeted advertising to you through the Site based on your Personal Information, we will not share your Personal Information with third party advertisers unless you click on an advertisement displayed on the Site.  Clicking on any advertisement may result in sharing your Personal Information with the third party provider of that ad and will be considered your consent to “opt in” for this transfer.</p>
-
-<h3>Service Providers.</h3>
-<p>We may share your Personal Information with companies and organizations that perform services on our behalf; for example, companies that provide support services to us (such as data storage, web hosting, and data analytics services) or that help us process your payments (such as payment card processors).  We require that these third parties agree to use the Information we share with them only to perform their obligations to us and to treat all Information they receive from us in compliance with this Policy.</p>
-
-<p>For instructions on how to “opt-out” of disclosure of your Personal Information to these third parties, please see the “Your Choices / Opt-Out / Changing Your Information” section below.</p>
-
-<h3>Collection, Use, and Sharing of Non-Personal Information.</h3>
-<p>We may also collect certain Non-Personal Information when you use or interact with the Site.  We also receive and obtain Non-Personal Information from third parties.  This Non-Personal Information will include, by way of example, performance information and other metrics regarding the use of and access to the Site.</p>
-
-<p> may also generate Non-Personal Information from the Personal Information we receive, collect, and obtain under this Policy.  When we do so, we will take reasonable measures to ensure that the Non-Personal Information is no longer personally identifiable and may not later be reasonably associated with, linked to, or used to identify you.  Once we generate any Non-Personal Information from any Personal Information, we will not later attempt to again make that information personally identifiable.  However, we may combine and enhance that Non-Personal Information with other Non-Personal Information received or obtained from third parties.</p>
-
-<p>Provided that any Non-Personal Information remains in non-personally identifiable form and may not be reasonably associated with, linked to, or used to identify any individual, we may use or share that Non-Personal Information for any lawful purpose without a further duty or obligation to you.  This will include, by way of example, developing product and service offerings based on Non-Personal Information and providing those offerings to you or to other third parties.</p>
- 
-<h3>Sensitive Information.</h3>
-<p>You are not required to provide us with any Information regarding your medical or health condition, race or ethnic origin, political opinions, religious or philosophical beliefs, or other sensitive Information in order to use our Site.  You may, however, choose to provide these types of sensitive information to improve your use of the Services.  PEAKSWARE IS NOT A HEALTHCARE PROVIDER OR A BUSINESS ASSOCIATE OF ANY HEALTHCARE PROVIDER AND IS NOT SUBJECT TO THE PRIVACY RULE OF THE HEALTH INFORMATION PORTABILITY AND ACCOUNTABILITY ACT OF 1996 (HIPAA).</p>
-
-<h3>Protection of the Sites and Others.</h3>
-<p>We may disclose the Information we collect through the Site when we, in good faith, believe disclosure is appropriate to comply with the law (or a court order or subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce the Terms of Use or other agreements that govern the use of the Site; to protect the rights (including our intellectual property rights), property or safety of Peaksware, our users or others; or to protect your vital interests.</p>
-
-<h3>Business Transfers.</h3>
-<p>If we elect, in our reasonable discretion, to transfer ownership or control of the Site to a third party, whether or not in the context of an acquisition, merger, or reorganization, your Information (both Personal and Non-Personal) may be transferred to that third party (either an affiliate or an unrelated third party). If such a transfer occurs, the acquiring company's use of your personal information will still be subject to this Policy and the privacy preferences you have expressed to us.</p>
-
-<h3>Your California Privacy Rights.</h3>
-<p>California law provides that California residents have a right to request that businesses tell them how their Personal Information has been shared with third parties for use in direct marketing purposes.  However, there is an exception to this requirement for businesses that have adopted and disclosed, in their privacy policy, a policy of not disclosing a person’s Personal Information to third parties for use in direct marketing purposes if that person has exercised an option to opt-out of the disclosure of their Personal Information to third parties for such purposes.</p>
-
-<p>We have adopted a policy of allowing you to opt-out of the disclosure of your Personal Information to third parties for their direct marketing purposes and thus falls within this exception.  Instructions for opting out can be found in the section below entitled “Your Choices / Opt-Out / Changing Your Information.”</p>
-
-<h3>Your Choices / Opt-Out /Changing / Deleting Your Personal Information.</h3>
-<p>We respect your right to make choices about the ways we receive, collect, use and disclose your Personal Information. If you no longer wish to receive messages from us through the Site, or to have your Personal Information shared with third parties as permitted by this Policy, you may opt-out of receiving those messages from us or having your Personal Information shared with third parties.</p>
-
-<p>In many cases, opting out of receiving messages or having your Personal Information shared with a third party will not affect your ability to use or access the Site.  However, some messages (e.g. account notifications, service announcements, and billing information) are considered necessary to our operation of the Site.  Likewise, some of the third parties with which we share your Personal Information are used by us to provide necessary functionality for the Site.  If you wish to opt-out of receiving these messages or of sharing your Personal Information with those third parties, we may be required to limit or cancel your access to and use of some or all of our Site.  Note also that while you may opt-out of receiving messages from us, you may be required to contact other third parties directly to also opt-out of receiving emails or other messages from those third parties.  All opt-out requests can be made by contacting us at <a href="mailto:support@peaksware.com">support@peaksware.com</a> using the email address we have on file for your account on the Site.</p>
-
-<p>While we take reasonable steps to ensure that the Personal Information we collect is reliable for its intended use, accurate, complete, and current, we rely on you to update and correct your Personal Information.  You may update, correct or modify any of your Personal Information by emailing us at <a href="mailto:support@peaksware.com">support@peaksware.com</a> using the email address we have on file for your account on the Site.</p>
-
-<p>You may also contact us at <a href="mailto:support@peaksware.com">support@peaksware.com</a> using the email address we have on file for your account on the Site to instruct us to delete your Personal Information.  If you wish for us to delete your Personal Information, we will be required to limit or cancel your access to and use of some or all of our Site.</p>
-
-<p>Note that it may take up to 10 business days for us to comply with any request you make to remove your contact information from our lists, to cease sharing your Personal Information, to update, correct or modify your Personal Information, or to delete your Personal Information.</p>
-
-<h3>Children's Privacy.</h3>
-<p>The Site is not directed at nor targeted to children under the age of 13. We do not use the Site to knowingly solicit Personal Information from or market to children under the age of 13. If you are under the age of 13, do not provide us with any Personal Information. If we learn that someone under 13 has provided Personal Information to one of the Site, we will use reasonable efforts to remove such Information from our databases.</p>
-
-<h3>Do Not Track.</h3>
-<p>Certain web browsers and other devices you may use to access the Site may permit you to indicate your preference that you do not wish to be “tracked” online.  At this time we do not modify your experience on the Site or the Information we collect from you through the Site based on whether such a preference is indicated.</p>
-
-<h3>Security.</h3>
-<p>We are committed to protect and secure your Personal Information.  We will take all reasonable and appropriate steps to insure the safety and security of your Personal Information.  This includes using at least industry standard security measures to protect the loss, misuse, and unintended alteration of the Personal Information under our control.  For example, our policy is that only those individuals who need your Personal Information to perform a specific job for us are granted access to that Personal Information.  Likewise, all employees and contractors are kept up-to-date on our security and privacy practices.  Finally, the servers that we store personally identifiable information on are kept in a secure environment.  Although we take these measures to protect your Personal Information, "perfect security" does not exist, and we can not guarantee that your Personal Information will be secure in all situations.</p>
 
 
 
@@ -268,7 +328,7 @@ function PM_Callback(param,callback,ctx){if(window.top.HideScreenLockWarningAndS
 				<h3>Company</h3>
 				<ul>
 					<li><a href="/about-us">About</a></li>
-                    <li><a href="/about-us#careers">Careers</a></li>
+                    <li><a href="/careers">Careers</a></li>
                     <li><a href="/about-us#contact-us">Contact Us</a></li>
                     <li><a href="http://www.excelsports.com/trainingpeaks/?siteComingFrom=TP" target="_blank">Store</a></li>
 					<li><a href="/sitemap">Sitemap</a></li>
@@ -280,9 +340,8 @@ function PM_Callback(param,callback,ctx){if(window.top.HideScreenLockWarningAndS
 			<div class="floatLeft">					
 				<h3>Support</h3>
 				<ul>
-					<li><a href="http://help.trainingpeaks.com/forums" target="_blank">FAQ</a></li>
+					<li><a href="http://help.trainingpeaks.com" target="_blank">FAQ</a></li>
 					<li><a href="http://help.trainingpeaks.com/anonymous_requests/new" target="_blank">Submit a Ticket</a></li>
-                    <li><a href="http://www.trainingpeaks.com/yaf_gateway/forumhost.aspx?c=1" target="_blank">Forums</a></li>
 				</ul>
 			</div><!-- End .floatLeft -->
 		</div><!-- End .column -->
@@ -290,16 +349,15 @@ function PM_Callback(param,callback,ctx){if(window.top.HideScreenLockWarningAndS
 		<div class="column floatLeft">
 			<h3>Get the latest news</h3>
             <input id="txtEmail" name="emailAddress" type="text" size="20" maxlength="255" placeholder="Enter Email Address">
-            <input id="hdnResponsysKey" type="hidden" value="X0Gzc2X%3DWQpglLjHJlYQGzb4ONAfNXlUzbnkevzf2zer0zbzddHzeCzbVwjpnpgHlpgneHmgJoXX0Gzc2X%3DWQpglLjHJlYQGl01hX5ODDhPzfhzeskzdT3zdDOHM09k">  	        
+            <input id="hdnResponsysKey" type="hidden" value="X0Gzc2X=WQpglLjHJlYQGzb4ONAfNXlUzbnkevzf2zer0zbzddHzeCzbVwjpnpgHlpgneHmgJoXX0Gzc2X=WQpglLjHJlYQGl01hX5ODDhPzfhzeskzdT3zdDOHM09k">  	        
             <input id="hdnPermissionStatus" type="hidden" value="I">
 			<input id="hdnContentType" type="hidden" value="ATHLETE">
 			<input id="hdnContentValue" type="hidden" value="1">
             <input id="btnSubmit" type="button">
 		</div><!-- End .column -->
 		
-        <script type="text/javascript">$(document).ready(function(){$("#btnSubmit").click(function(){if(isValidEmail($('#txtEmail').val())){var subscription={EmailAddress:$('#txtEmail').val(),ResponsysKey:$('#hdnResponsysKey').val(),PermissionStatus:$('#hdnPermissionStatus').val(),ContentType:$('#hdnContentType').val(),ContentValue:$('#hdnContentValue').val()};$.ajax({type:"POST",url:"/tp/marketing/SubscribeToNewsletter",contentType:'application/json',dataType:'json',data:JSON.stringify(subscription),success:onSuccess});function onSuccess(isValid){if(isValid){$("#txtEmail").val('Thank you!');}}}});});function isValidEmail(emailAddress){if(emailAddress.length>5&&isEmail(emailAddress))
-return true;return false;}
-function isEmail(email){return/^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*$/.test(email);}</script>
+        <script type="text/javascript">$(document).ready(function(){$("#btnSubmit").click(function(){if(isValidEmail($('#txtEmail').val())){var subscription={EmailAddress:$('#txtEmail').val(),ResponsysKey:$('#hdnResponsysKey').val(),PermissionStatus:$('#hdnPermissionStatus').val(),ContentType:$('#hdnContentType').val(),ContentValue:$('#hdnContentValue').val()};function onSuccess(isValid){if(isValid){$("#txtEmail").val('Thank you!');}}
+$.ajax({type:"POST",url:"/tp/marketing/SubscribeToNewsletter",contentType:'application/json',dataType:'json',data:JSON.stringify(subscription),success:onSuccess});}});});</script>
 
 		<div class="column columnLast floatRight">
 			<h3>Join Us</h3>
@@ -316,33 +374,29 @@ function isEmail(email){return/^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x4
 		</div><!-- End .clear -->
 				
 		<div id="copyright">
-			<p>© <asp:label id="lblYear" runat="server"> Peaksware LLC <asp:literal runat="server" id="ltrlEnvironment"></asp:literal></asp:label></p>
+			<p>© <asp:label id="lblYear" runat="server"> <a href="http://www.peaksware.com" target="_blank">Peaksware Inc.</a> <asp:literal runat="server" id="ltrlEnvironment"></asp:literal></asp:label></p>
 		</div><!-- End #copyright -->
 			
 	</div><!-- End #footerContainer -->        
 </footer>
 </div><!-- End #pageWrap -->
 
-<script src="http://home.trainingpeaks.com/CMSScripts/Custom/fade.js.pagespeed.jm._kwaBztfHp.js" type="text/javascript"></script>
-<script src="http://home.trainingpeaks.com/CMSScripts/Custom/jquery.watermark.min.js.pagespeed.jm.ps560OUppg.js" type="text/javascript"></script>
+<script src="http://home.trainingpeaks.com/CMSScripts/Custom/fade.js.pagespeed.jm.VaSOn6ceZW.js" type="text/javascript"></script>
 <script type="text/javascript">(function($){$.browserTest=function(a,z){var u='unknown',x='X',m=function(r,h){for(var i=0;i<h.length;i=i+1){r=r.replace(h[i][0],h[i][1]);}return r;},c=function(i,a,b,c){var r={name:m((a.exec(i)||[u,u])[1],b)};r[r.name]=true;r.version=(c.exec(i)||[x,x,x,x])[3];if(r.name.match(/safari/)&&r.version>400){r.version='2.0';}if(r.name==='presto'){r.version=($.browser.version>9.27)?'futhark':'linear_b';}r.versionNumber=parseFloat(r.version,10)||0;r.versionX=(r.version!==x)?(r.version+'').substr(0,1):x;r.className=r.name+r.versionX;return r;};a=(a.match(/Opera|Navigator|Minefield|KHTML|Chrome/)?m(a,[[/(Firefox|MSIE|KHTML,\slike\sGecko|Konqueror)/,''],['Chrome Safari','Chrome'],['KHTML','Konqueror'],['Minefield','Firefox'],['Navigator','Netscape']]):a).toLowerCase();$.browser=$.extend((!z)?$.browser:{},c(a,/(camino|chrome|firefox|netscape|konqueror|lynx|msie|opera|safari)/,[],/(camino|chrome|firefox|netscape|netscape6|opera|version|konqueror|lynx|msie|safari)(\/|\s)([a-z0-9\.\+]*?)(\;|dev|rel|\s|$)/));$.layout=c(a,/(gecko|konqueror|msie|opera|webkit)/,[['konqueror','khtml'],['msie','trident'],['opera','presto']],/(applewebkit|rv|konqueror|msie)(\:|\/|\s)([a-z0-9\.]*?)(\;|\)|\s)/);$.os={name:(/(win|mac|linux|sunos|solaris|iphone)/.exec(navigator.platform.toLowerCase())||[u])[0].replace('sunos','solaris')};if(!z){$('html').addClass([$.os.name,$.browser.name,$.browser.className,$.layout.name,$.layout.className].join(' '));}};$.browserTest(navigator.userAgent);})(jQuery);</script>
-<script src="http://home.trainingpeaks.com/CMSScripts/Custom/jquery.selectBoxIt.js.pagespeed.jm.3xHv3jbWZ1.js" type="text/javascript"></script>
+<script src="http://home.trainingpeaks.com/CMSScripts/Custom/jquery.selectBoxIt.js.pagespeed.jm.MVeta-UVCw.js" type="text/javascript"></script>
 <script src="/CMSScripts/Custom/jquery.fitvids.js" type="text/javascript"></script>
-<script src="http://home.trainingpeaks.com/CMSScripts/Custom/jquery.purl.js.pagespeed.jm.AjfRt0Xhia.js" type="text/javascript"></script>
-<script type="text/javascript">jQuery(document).ready(function($){$("#logo").click(function(){if($(".fileViewer").exists())
-window.open("/");else
-location.href="/";});jQuery(".welcome, #welcome .subNav").mouseenter(function()
-{jQuery("#welcome .subNav").show();jQuery("nav ul li span.welcome").css("background-position","bottom center");var backgroundPos=jQuery("nav ul li span.welcome").css("backgroundPosition").split(" ");var xPos=parseInt(backgroundPos[0].replace("%",""),10)/100*jQuery("nav ul li span.welcome").width(),yPos=parseInt(backgroundPos[1].replace("%",""),10)/100*jQuery("nav ul li span.welcome").height();jQuery("nav ul.logIn ul.subNav").css("left",xPos-50);});jQuery(".welcome, #welcome .subNav").mouseleave(function()
-{jQuery("#welcome .subNav").hide();jQuery("nav ul li span.welcome").css("background-position","");});});jQuery.fn.exists=function(){return this.length>0;}</script>
-<script src="http://home.trainingpeaks.com/CMSScripts/Custom/functions.js,qv=7.pagespeed.jm.3lWsFw9qpe.js" type="text/javascript"></script>
-<script type="text/javascript">jQuery("select").selectBoxIt({aggressiveChange:true});</script>
-
+<script type="text/javascript">jQuery(document).ready(function($){initializeSelectBoxIt();$("#logo").click(function(){if($(".fileViewer").exists()){window.open("/");}else{location.href="/";}});$(".welcome, #welcome .subNav").mouseenter(function()
+{$("#welcome .subNav").show();$welcomeSpan=$("nav ul li span.welcome");$welcomeSpan.css("background-position","bottom center");var backgroundPos=$welcomeSpan.css("backgroundPosition").split(" ");var xPos=parseInt(backgroundPos[0].replace("%",""),10)/100*$welcomeSpan.width();$("nav ul.logIn ul.subNav").css("left",xPos-50);});$(".welcome, #welcome .subNav").mouseleave(function()
+{$("#welcome .subNav").hide();$("nav ul li span.welcome").css("background-position","");});if(!Modernizr.input.placeholder){$("input[placeholder]").each(function(){var placeholder=$(this).attr("placeholder");$(this).val(placeholder).focus(function(){if($(this).val()==placeholder){$(this).val("");}}).blur(function(){if($(this).val()==""){$(this).val(placeholder);}});});}});function initializeSelectBoxIt(){if(jQuery("select").length>0&&jQuery(".selectboxit").length==0){jQuery("select").selectBoxIt({aggressiveChange:true});}}
+jQuery.fn.exists=function(){return this.length>0;}</script>
+<script src="http://home.trainingpeaks.com/CMSScripts/Custom/functions.js.pagespeed.jm.XmaWUQyNbw.js" type="text/javascript"></script>
+<!--<script src="/CMSScripts/Custom/mixPanel.js"></script>-->
     
     
 
 <script type="text/javascript">(function(){var fn=function(){$get("manScript_HiddenField").value='';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();WebForm_InitCallback();theForm.oldSubmit=theForm.submit;theForm.submit=WebForm_SaveScrollPositionSubmit;theForm.oldOnSubmit=theForm.onsubmit;theForm.onsubmit=WebForm_SaveScrollPositionOnSubmit;</script>
-  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDIyNTYwODQyDxYCHhNWYWxpZGF0ZVJlcXVlc3RNb2RlAgFkZL7SJpRsfnO/NiHT7cADSvLq5g3f">
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI5ODYzMzkyMw8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBZGSAEaJumEo49ku+gF5nkc6O7P5ZDQ==">
     <script type="text/javascript">if(window.WebForm_InitCallback){__theFormPostData='';__theFormPostCollection=new Array();window.WebForm_InitCallback();}</script>
   </form>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+</asp:scriptmanager><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
