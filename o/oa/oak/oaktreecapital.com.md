@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oaktreecapital.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104024739id_/http%3A//www.oaktreecapital.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oaktreecapital.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222171408id_/http%3A//oaktreecapital.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Oaktree's Privacy Policy
 
@@ -14,7 +14,7 @@ During some Site visits, Oaktree may use software tools such as JavaScript to me
 
 Oaktree does not sell your personally identifiable information. However, the firm may share your personally identifiable information with the firm’s affiliated companies, service providers, vendors, contractors, and agents (“Service Providers”) that enable such entities to perform services for the firm as part of normal business operations. For example, processing your requests for forms or other literature or materials and performing research with respect to the usage of the Site. Personnel employed by Service Providers generally may have access to your personally identifiable information for the purpose of performing duties for the firm but are prohibited from using such information for other purposes. 
 
-To the extent permitted by law, Oaktree may also disclose personally identifiable information to protect the security of records, to protect against fraud, to comply with applicable law, or to respond to judicial process or regulatory authorities.
+Oaktree also may disclose personally identifiable information to the extent permitted by law. For example, to protect the security of records, to protect against fraud, to comply with applicable law, or to respond to judicial process or regulatory authorities.
 
 Oaktree maintains established internal policies and procedures with respect to safeguarding access to your personally identifiable information in the firm’s possession from unauthorized use or disclosure. Please note that such safeguards, however, do not guarantee that personally identifiable information transmitted via the internet or stored in the firm’s systems or is otherwise under Oaktree’s care will be absolutely safe from unauthorized use or intrusion from third parties due to the inherent nature of the Internet.
 
@@ -32,4 +32,4 @@ Los Angeles, CA 90071
 p +1 213 830-6300  
 f +1 213 830-6293
 
-This Privacy Policy is dated April 9, 2012
+This Privacy Policy is dated March 14, 2014
