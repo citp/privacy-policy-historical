@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seopressor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122308id_/http%3A//seopressor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seopressor.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222234907id_/http%3A//seopressor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « SEOPressor – Best SEO Wordpress Plugin
 
