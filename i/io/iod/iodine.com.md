@@ -1,35 +1,198 @@
-> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527005010id_/http%3A//iodine.com/label/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iodine.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222211707id_/http%3A//www.iodine.com/privacy) for the most accurate reproduction.*
 
-# Iodine • Privacy
+# Privacy Policy - Iodine
 
-### Last Updated 11/9/13
+### About this privacy policy
 
-Iodine, Inc. (“Iodine” or “we”) provides this Privacy Policy to inform you of our practices regarding the use of information from users of our site at http://iodine.com (“Site”). This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes.
+We know that when you use Iodine, you’re trusting us with your information. This Privacy Policy explains how we collect, use, and share your information. We want it to be easy for anyone (not just lawyers) to understand. Send feedback to [privacy@iodine.com](mailto:privacy@iodine.com).
 
-## Information Collection and Use
+Unless we define a term in this Privacy Policy, all capitalized words we use here have the same meanings as in our [Terms of Use](https://web.archive.org/terms).
 
-**Information You May Provide:** We will collect your email address and any other information that you decide to provide to us through the Site, including by providing answers to questions posted on the Site or feedback on the Site. This may include personal information (such as your name or email addresses) to the extent you decide to provide it to us.
+This Privacy Policy explains how we collect, use, and share your information. We’ve tried to make it easy to understand.
 
-**Cookies:** Like many websites, we may use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We may use cookies for various purposes, such as to save your login information for future logins to the Site, enable certain features of the Site, better understand how you interact with the Site, and monitor aggregate usage web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions or functionalities of the Site.
+### Changes
 
-**Log Data:** Information Related to Use of the Site. Our servers automatically record certain information about how a person uses our Site (we refer to this information as “Log Data”). Log Data may include information such as a user’s Internet Protocol (IP) address, browser type, operating system, the web page that a user was visiting before accessing our Site, the pages or features of our Site on which a user browsed and the time spent on those pages or features, search terms, the links on our Site that a user clicked on and other statistics. We use this information to administer the Site, and we analyze (and may engage third parties to analyze) this information to improve and enhance the Site by expanding their features and functionality and tailoring them to our users’ needs and preferences. We may use a person’s IP address to fight spam, malware, and identity theft. We also may use the IP Address to generate aggregate, non-identifying information about how our Site is used.
+This Privacy Policy may be updated from time to time. We may solicit user feedback about changes but are under no obligation to use it. We’ll notify you of any changes in one or more of the following ways at least 30 days before changes are implemented:
 
-## Information Sharing
+  * By email
+  * On the Iodine website
 
-**Aggregated Information:** We may share information collected under this Privacy Policy on an aggregated basis with third parties (including academic and commercial research organizations, collaborators, customers, advertisers) for industry analysis, demographic profiling, and other purposes.
 
-**Service Providers:** We may share any information that we collect through the Site with third party companies and individuals that we engage to perform Site-related services (e.g., maintenance services, database management, web analytics).
 
-**Compliance with Laws and Law Enforcement:** We may disclose your information to government, law enforcement officials, or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process, such as subpoenas, to protect the property and rights of Iodine or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical, or legally actionable activity.
+Our Privacy Policy might change. We’ll let you know at least 30 days before that happens.
 
-**Business Transfers:** Iodine may sell, transfer, or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization, or sale of assets or in the event of bankruptcy.
+### Information we collect
 
-## International Transfer
+#### Information you give us
 
-If you are located outside the United States and choose to provide information to us, we may transfer your Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Information you give us when you use Iodine might include:
 
-## Our Policy Toward Children
+  * Personally identifying information, such as your name or email address
+  * Demographic information, such as age and gender
+  * Health information, such as medications and conditions
+  * Other real-life experience information, such as comments about your health or medications or responses to our surveys
 
-We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy @ iodine](mailto:privacy@iodine.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
-If you have any questions about this Privacy Policy, please contact us at [privacy @ iodine](mailto:privacy@iodine.com).
+
+We collect and store the information you choose to submit on Iodine.
+
+#### Information we collect automatically
+
+Like most websites, we automatically collect certain information about how visitors use our services. We do this with automated data collection tools such as [server logs](http://en.wikipedia.org/wiki/Server_log), [analytics](http://en.wikipedia.org/wiki/Web_analytics), [cookies](http://en.wikipedia.org/wiki/HTTP_cookie), and [web beacons](http://en.wikipedia.org/wiki/Web_beacon).
+
+For example, our server logs store your [IP address](http://en.wikipedia.org/wiki/IP_address), browser type, operating system, and the pages you visited on Iodine. Here’s another example: we put a cookie (a marker) on your browser so our website knows that you already completed a survey about a drug and doesn’t ask you to do it again. Cookies are stored on your hard drive. On the other hand, web beacons are usually embedded on webpages or in e-mails. Like server logs, web beacons can also tell us what pages you visited on Iodine.
+
+Some third-party service providers that we engage (including third-party analytics service providers) may also use their own automated data collection tools, including placing their own cookies on your hard drive. Note that this Privacy Policy does not apply to these third parties.
+
+Also, we automatically collect standard information about how visitors use our services.
+
+### How we use information
+
+We use the information we collect in order to:
+
+  * Understand how people use our services
+  * Make our website more secure
+  * Provide you with our services
+  * Communicate with you
+  * Customize your experience
+  * Conduct research
+  * Improve and develop products and services
+
+
+
+We use this information to provide and improve our services.
+
+### How we share information
+
+#### Private Data
+
+“Private Data” is any personally identifying information we ask you for or automatically collect. This is information that’s so specific that one piece of information alone (such as your full name or email address, or the location of your computer) can be used to identify or contact you. If we ask you for personally identifying information, you’ll see the []. This lets you know that the information you are submitting is Private Data.
+
+  * Examples of Private Data we may ask you for: Your name or email address
+  * Example of Private Data we collect automatically: Your [IP address](http://en.wikipedia.org/wiki/IP_address) (which can identify your computer’s location)
+
+
+
+We won’t share Private Data with anyone unless it’s permitted in this Privacy Policy. If not, we’ll ask your permission first.
+
+If you see the [], the information you’re submitting is Private Data.
+
+We only share Private Data with your permission, or in some standard ways that we tell you about very clearly in this Privacy Policy
+
+#### Shared Data
+
+“Shared Data” is any information you provide that isn’t Private Data. If you don’t see the [], the information you’re submitting is Shared Data.
+
+Shared Data may include:
+
+  * Demographic information you give us, such as age and gender
+  * Health information you give us, such as medications and conditions
+  * Your User Submissions (as explained in our [Terms of Use](https://web.archive.org/terms). User Submissions are anything that you share publicly on Iodine, such as survey responses and reviews about health experiences, medications, or side effects)
+
+
+
+Your User Submissions are shared with everyone because you post them publicly on Iodine.
+
+We also share Shared Data with trusted third parties (including academic and commercial organizations, collaborators, and customers) for specific purposes, such as medical research. We refer to these trusted third parties as our “Partners.” You can opt out of sharing your Shared Data with our Partners.
+
+Because you don’t log in to Iodine, your opt-out is not associated with a particular login or user account. Therefore, if you opt out, we’ll track your opt-out choice by placing a cookie on your device that will tell us that you have opted out. If you delete the Iodine cookie from your device, please remember that you’ll have to opt out again on Iodine to opt out of sharing any new Shared Data that you submit after deleting the cookie. You can scroll over the [Iodine shared data icon] when you’re on Iodine to check your opt-out status.
+
+While using Iodine, you might share multiple pieces of real-life information that could identify you, if combined. It’s also possible to include personally identifying information in free-text fields; this information will still be treated as Shared Data, so be careful. It’s your choice whether to provide Shared Data and what to include when you post publicly.
+
+If you don’t see the [], the information you’re submitting is Shared Data.
+
+Shared Data includes anything you post publicly on Iodine.
+
+We share Shared Data with trusted Iodine partners unless you opt out.
+
+#### Statistical Data
+
+“Statistical Data” is information we combine and analyze on an aggregated basis. It doesn’t identify individuals.
+
+  * Example: “34% of patients ages 30-39 experienced nausea from this medication.”
+
+
+
+We may also share it publicly on Iodine and with our Partners for industry research and analysis, demographic profiling, and other similar purposes.
+
+We share general statistical information about users publicly on Iodine and with our Partners.
+
+#### Our service providers
+
+We may share information with third party companies and individuals that provide services to us, such as database management and web analytics.
+
+These third-party services providers may have access to your Private Data, but only for the purpose of performing services on our behalf, and they are expressly obligated not to disclose or use your Private Data for any other purpose.
+
+We might share information with people and companies that provide services to us—for example, companies that help us manage and analyze data.
+
+#### For our protection and the protection of others
+
+We may share information (including Private Data) with government, law enforcement, or private parties if we believe it’s necessary or appropriate:
+
+  * To enforce our [Terms of Use](https://web.archive.org/terms), including investigating potential violations
+  * To detect and prevent activity that we consider illegal, fraudulent or unethical
+  * To protect the property, rights and safety of us, our users, or the public in general
+  * To respond to claims, law enforcement requests and subpoenas (we’ll notify you about this if we’re allowed to)
+
+
+
+We might share information if we think it’s required by law or to protect Iodine and our users—for example, to investigate if someone tries to hack our site.
+
+#### In the event of a business transition
+
+If Iodine, Inc. has a business merger, acquisition, reorganization, sale of assets, or bankruptcy, all of our assets will be sold or transferred, including any information you’ve shared with us.
+
+Your information may be transferred if Iodine is transferred to a new owner.
+
+### Your privacy choices
+
+You can:
+
+  * Choose what information you give us.
+  * Choose what information you share publicly on Iodine.
+  * Choose whether to share your individual, real-life experiences (which may be shared publicly on Iodine or with trusted Partners).
+  * Opt out of sharing your Shared Data with our Partners.
+
+
+
+You choose what to submit and share on Iodine. You can opt out of sharing your Shared Data with our Partners.
+
+### The security of your information
+
+We take reasonable measures to protect the information that we collect from or about you (including your Private Data) from unauthorized access, use, or disclosure.
+
+For example, our employees may not access Private Data unless they need it to do a specific job, and they’re subject to strict confidentiality rules.
+
+We also use Secure Sockets Layer (SSL) encryption on Iodine. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure, so we can’t guarantee the absolute security of any information.
+
+Data security is a priority for us. We use SSL encryption.
+
+### Modifying your information
+
+Please note that in general, once submitted, your User Content can’t be deleted. In particular, your User Submissions can’t be deleted and will continue to appear on Iodine. This is because we can’t always verify the source of User Content because you don’t log in to submit it, so it’s not associated with a particular user account.
+
+If you want to remove some of your User Content from Iodine, please email us at [privacy@iodine.com](mailto:privacy@iodine.com). We may request further information from you to verify that you are the user who submitted the User Content in question. We’ll consider your request on an individual basis, and we may (but are not obligated to) take steps to delete your User Content. Even if we take steps to delete specific User Content at your request, some of your User Content may remain in archived/backup copies for our records or as otherwise required by law. We’re not responsible or liable for the removal or deletion of (or the failure to remove or delete) any of your User Content.
+
+In general, we can’t delete User Content because we don’t know who submitted it. We’ll consider removal requests, but we’re not obligated to remove User Content. Contact [privacy@iodine.com](mailto:privacy@iodine.com).
+
+### Links to other sites
+
+Our services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy, not ours. To protect your information, we recommend that you carefully review the privacy policies of other websites and services that you access.
+
+Be careful when visiting third-party websites, even if you access them through Iodine. Our Privacy Policy doesn’t apply to third-party websites.
+
+### International transfer
+
+Your information (including your Private Data) may be transferred to, and maintained on, computers located outside of your jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and use Iodine, we may transfer your information to the United States and process it there.
+
+If you use Iodine outside of the United States, any information you give us will be transferred to the United States.
+
+### Child privacy
+
+Our services are not intended or designed for children under 13, and we do not knowingly collect personally identifiable information from anyone under 13. If you find out that your child has provided us with personal information without your consent, contact us at [privacy@iodine.com](mailto:privacy@iodine.com). If we find out that a child under 13 has provided us with personal information, we’ll take steps to delete that information from our files as soon as possible.
+
+We’re committed to protecting the privacy of children and complying with privacy laws.
+
+### Questions?
+
+Contact us at [privacy@iodine.com](mailto:privacy@iodine.com) if you have any questions about our Privacy Policy.
