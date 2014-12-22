@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgreleases.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626230217id_/http%3A//vgreleases.com/Info/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgreleases.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222205429id_/http%3A//vgreleases.com/Info/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # VGReleases.com : Privacy Statement
 
