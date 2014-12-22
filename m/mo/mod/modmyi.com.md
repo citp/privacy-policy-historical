@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modmyi.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043935id_/http%3A//modmyi.com/forums/site-suggestions-feedback/823245-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modmyi.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222141417id_/http%3A//modmyi.com/forums/site-suggestions-feedback/823245-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,8 +36,9 @@
 >   * We use your personal information to protect, investigate, and deter against fraudulent, unauthorized, or illegal activity.
 >   * We use your personal information to provide and deliver products and services customers request.
 > 
-  
->  **SHARING OF PERSONAL INFORMATION**
+
+> 
+> **SHARING OF PERSONAL INFORMATION**
 > 
 > We may share personal information as follows:
 > 
@@ -51,8 +52,9 @@
 >   * We may share information with those who need it to do work for us.
 >   * We may also share aggregated and/or anonymized data with others for their own uses.
 > 
-  
->  **INFORMATION CHOICES AND CHANGES**
+
+> 
+> **INFORMATION CHOICES AND CHANGES**
 > 
 > We rarely send marketing emails. However, when we do, our marketing emails tell you how to “opt-out.” If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your accounts and direct communication with you.
 > 
@@ -72,4 +74,4 @@
 > 
 > We may change this Privacy Policy. If we make any changes, we will change the Last Updated date below. 
 > 
-> This Privacy Policy was last Updated on **5/8/2013**.
+> This Privacy Policy was last Updated on **5/8/2013**. 
