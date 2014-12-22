@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblineindia.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209071230id_/http%3A//www.weblineindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblineindia.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223000651id_/http%3A//www.weblineindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Weblineindia
 
@@ -16,7 +16,7 @@ Till you willingly offer us any personal information like name, email address, r
 
 ## Use & Notice
 
-Similar to other justified practices, Weblineindia’s website may use regular technologies like Cookies and several other systems which may help to acquire information of user or visitor’s usage of the site. At any given point if we collect your personal information, we will give the reason or intention for doing so. We will not move any information to any company or individual without your permission, excluding under the acceptable limited areas of terms disclose in below section of “Sharing & Distribution of Information”. An “opt in” and “opt out” choice will majorly give to you so that you can select either of one & agree or disagree for direct promotional or market related information/knowledge.
+A “cookie” is a piece of software that enables us to know utilization of Weblineindia’s websites and services and manage them. The purpose behind sending a cookie to your computer when you access our website or surf through our services and solutions pages is to receive information for above purposes with your consent to do so. It’s only to track general usage patterns and shall not be used without your permission, excluding under the acceptable limited areas of terms disclose in below section of “Sharing & Distribution of Information”.
 
 ## General purposes/intentions for using your information:
 
