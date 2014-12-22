@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the togethernetworks.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524184054id_/http%3A//www.togethernetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togethernetworks.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222182106id_/http%3A//www.togethernetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Together Networks - Build real success together with us!
 
-This Privacy Policy was last modified and is effective as of 25 November 2013.
+This Privacy Policy was last modified and is effective as of 3 September 2014.
 
 **TOGETHER NETWORKS LIMITED – PRIVACY POLICY**
 
@@ -176,7 +176,7 @@ We do not solicit or target persons younger than the legal age for collection of
 
 **DATA RETENTION**
 
-Because some users tend to use our service on and off over time, we retain your personal information for continued service and convenience purposes until you advise us not to do so. Notwithstanding the foregoing, we may retain personal information in order to comply with applicable laws, keep accurate records, resolve disputes, prevent fraud, enforce our terms and conditions of service or other agreements, or for any other legally permissible purpose.
+Because some users tend to use our service on and off over time, we retain your personal information for continued service and convenience purposes until you advise us not to do so. Notwithstanding the foregoing, we may retain personal information in order to comply with applicable laws, keep accurate records, resolve disputes, prevent fraud, enforce our terms of use or other agreements, or for any other legally permissible purpose.
 
 **QUESTIONS**
 
@@ -184,7 +184,7 @@ If you have any questions about this privacy policy, please contact us at: [info
 
 **ACCEPTANCE OF PRIVACY POLICY**
 
-Your use of our Site, including any dispute concerning privacy, is subject to this Privacy Policy and the applicable terms and conditions. **BY USING OUR SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND THE APPLICABLE TERMS AND CONDITIONS OF SERVICE.**
+Your use of our Site, including any dispute concerning privacy, is subject to this Privacy Policy and the applicable terms of use. **BY USING OUR SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND THE APPLICABLE TERMS OF USE.**
 
 Your continued use of any portion of our Site following posting of an updated Privacy Policy means you accept and agree to be bound by the Privacy Policy as modified.
 
