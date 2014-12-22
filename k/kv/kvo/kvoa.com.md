@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kvoa.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623123521id_/http%3A//www.kvoa.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvoa.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200846id_/http%3A//kvoa.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KVOA.com | Tucson, Arizona
 
