@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landofnod.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630151637id_/http%3A//www.landofnod.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landofnod.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222200123id_/http%3A//www.landofnod.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # The Land of Nod
 
@@ -30,11 +30,11 @@ When you shop at a the Land of Nod store, order from our catalogs or visit us on
 
 In order to serve you better, we may at times contract with other companies (“Service Providers”) to help us process information. For instance, their assistance can help us better fulfill customer orders, manage, store and enhance customer data, and comply with postal regulations. For your security, these companies are bound by our nondisclosure agreements or other contractual arrangements to provide privacy protection for your information.
 
-We use a Service Provider to send emails that you have agreed to receive. Web cookies are used in those email messages and at our Websites to help us measure the effectiveness of those emails and for other analytical purposes. You can "opt out" of this email cookie at any time by deleting your name from the Land of Nod email mailing list, as detailed below.
+We use a Service Provider to send emails that you have agreed to receive. Web cookies are used in those email messages and at our Websites to help us measure the effectiveness of those emails and for other analytical purposes. You can "opt out" of this email cookie at any time by deleting your name from the Crate and Barrel email mailing list, as detailed below.
 
 We also contract with a Service Provider to help us assess visitation to our Websites. To do this, we place small pixel tags and cookies on our Websites. While these do allow our Service Provider to track your visits, the data retrieved cannot be used for any reason without our authorization. Although our Service Provider logs the information about your visit, we control how that data may and may not be used. You can opt out of this Website analysis tool by clicking here. 
 
-We contract with Service Providers to place our banner advertising on other websites. These Service Providers may collect information from us about your visits to our Websites and stores, and your interaction with our products and services. They also may use this information to tailor banner advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. Notwithstanding anything to the contrary in this Privacy Policy, personally identifiable information may be shared with our Service Provider and its service providers, including, without limitation, your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline in order to deliver banner advertisements and other advertising tailored to your interests when you visit certain websites. Our trusted Service Provider will keep this data anonymous and will not share any personally identifiable information with any other third parties. Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
+Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) or the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
 
 ## Information Sharing
 
@@ -60,13 +60,13 @@ Updating your contact information is quick and easy. Just [contact us](https://w
 
 ## Remove Your Name From Our Lists at Any Time
 
-To delete your name from our email contact lists, please follow these simple [email opt-out instructions](https://web.archive.org/Customer-Service/Opt-Out.aspx). Please note that, to provide you with more control of your experience with us, opting out of one brand does not automatically opt you out of our other brands. For example, if you click through to opt out of emails from The Land of Nod, you will not be opted out of emails from Crate and Barrel or CB2; if you wish to opt out of either or both of those brands, you must visit each of their respective opt out pages and follow the opt out instructions.
+To delete your name from our email contact lists, please follow these simple [email opt-out instructions](https://web.archive.org/Customer-Service/Email-Preference.aspx). Please note that, to provide you with more control of your experience with us, opting out of one brand does not automatically opt you out of our other brands. For example, if you click through to opt out of emails from The Land of Nod, you will not be opted out of emails from Crate and Barrel or CB2; if you wish to opt out of either or both of those brands, you must visit each of their respective opt out pages and follow the opt out instructions.
 
 To request to have your name removed from the catalog mailing list, please complete this quick [catalog opt-out form](https://web.archive.org/Customer-Service/Catalog-Preference.aspx). We appreciate your patience while we process your request. When you make subsequent purchases at Crate and Barrel, CB2 or The Land of Nod, you may provide contact information for customer service only, and request that your name not be forwarded to either mailing list. If you have already opted out, you do not need to opt out again; your information will not be used for purposes other than the customer service you have requested, unless you affirmatively ask to opt in again, in which case you will be opted in and will receive emails from us until you again request to be opted out.
 
 ## Notice to California Residents/Your California Privacy Rights
 
-As set forth in this Privacy Policy, we offer our customers the ability to opt out of sharing your personally identifiable information with third parties for their direct marketing purposes. To make such a request, follow [email opt-out instructions](https://web.archive.org/Customer-Service/Opt-Out.aspx) AND / OR [catalog opt-out form](https://web.archive.org/Customer-Service/Catalog-Preference.aspx), and clearly state your request, including your name, mailing address, email address and phone number. Please see the Your Information Sharing Choices section of this Privacy Policy for additional information.
+As set forth in this Privacy Policy, we offer our customers the ability to opt out of sharing your personally identifiable information with third parties for their direct marketing purposes. To make such a request, follow [email opt-out instructions](https://web.archive.org/Customer-Service/Email-Preference.aspx) AND / OR [catalog opt-out form](https://web.archive.org/Customer-Service/Catalog-Preference.aspx), and clearly state your request, including your name, mailing address, email address and phone number. Please see the Your Information Sharing Choices section of this Privacy Policy for additional information.
 
 ## Protecting Children's Privacy
 
@@ -98,7 +98,7 @@ You are responsible for maintaining the confidentiality of your account and pass
 
 ## A Privacy Promise
 
-We support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s “Privacy Promise. ” In so doing, we agree to comply with a customer ’s requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone or email.
+We support and adhere to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise and the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising. In doing so, we agree to comply with a customer's requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone, email or through online behavioral advertising.
 
 If at any time, as a customer, you believe The Land of Nod is not committed to its Privacy Policy, please contact us. You also may contact the DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org.](mailto:mgoldberger@the-dma.org)
 
