@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050639id_/http%3A//www.construction.com/privacy-notice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the construction.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222192620id_/http%3A//construction.com/privacy-notice.asp) for the most accurate reproduction.*
 
 # Privacy & Cookie Notice | McGraw Hill Construction
 
