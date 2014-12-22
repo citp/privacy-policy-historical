@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the citizengo.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100636id_/http%3A//citizengo.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizengo.org privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222233037id_/http%3A//www.citizengo.org/en/privacy) for the most accurate reproduction.*
 
 # privacy | CitizenGO
 
 ## a) Introduction
 
-This Website, CitizenGO.org (including all translated versions and thereafter referred to as "the Site") is owned by CitizenGO (hereinafter "we", "us").
+This Website, CitizenGO (including all translated versions and thereafter referred to as "the Site") is owned by CitizenGO (hereinafter "we", "us").
 
 CitizenGO is committed to protecting your privacy online. We are also members and manage your privacy in the same way we handle ours. We share this Privacy Policy with you so that you are informed about how we handle your personal information and to tell you about our efforts to keep your information safe and confidential.
 
