@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630003634id_/http%3A//www.thetappingsolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222115857id_/http%3A//www.thetappingsolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Above all, it’s important that you know that we will always respect your privacy, your email address, and the information you give us. We’re not going to sell it, trade it, or abuse any information you submit to us.  And if you ever want to stop receiving emails from us, we make it as easy as possible to stop receiving our regular communications, no questions asked.
 
-Here are all the details on your privacy though, in case you want the nitty-gritty of it all…  :)
+Here are all the details on your privacy though, in case you want the nitty-gritty of it all…  
 
 This full Statement of Privacy applies to the TheTappingSolution.com Web site and governs data collection and usage. By using the TheTappingSolution.com website, you consent to the data practices described in this statement.
 
@@ -18,11 +18,11 @@ Visitors to TheTappingSolution.com may be asked to share personally identifiable
 
 If you wish to stop receiving emails from us, you may unsubscribe at any time using the link provided at the bottom of all our emails. But if you’re still receiving emails from us, don’t worry, our Customer Service Team will be there for you!  Just email support at [contact@thetappingsolution.com](mailto:contact@thetappingsolution.com).  The image below will show you where the unsubscribe button shows up on the bottom of your emails:
 
-[](http://d15cnj5qs3k593.cloudfront.net/wp-content/uploads/2013/10/One-Click-Unsubscribe.png)
+[](http://www.thetappingsolution.com/wp-content/uploads/2013/10/One-Click-Unsubscribe.png)
 
 ### Will My Information Ever Be Shared?
 
-The simple answer is…absolutely not.  We never rent, share or sell your information with anybody, ever, period!  We deeply value our relationship with you.  Your information is safe with us.  Our goal is to provide you valuable information to dramatically improve your life.  And we definitely don’t think that you getting junk email would help!  :)  That’s why we never share your information and make it easy to unsubscribe.
+The simple answer is…absolutely not.  We never rent, share or sell your information with anybody, ever, period!  We deeply value our relationship with you.  Your information is safe with us.  Our goal is to provide you valuable information to dramatically improve your life.  And we definitely don’t think that you getting junk email would help!    That’s why we never share your information and make it easy to unsubscribe.
 
 ### Computer Hardware and Software Information
 
