@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gomobi.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165257id_/http%3A//www.gomobi.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomobi.info privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222191140id_/http%3A//gomobi.info/privacy-policy) for the most accurate reproduction.*
 
-# goMobi
-
-We've done the work, you take the credit.
+# goMobi | Privacy Policy
 
 Last Modified: 17/05/13
 
@@ -38,7 +36,7 @@ Although we will do our best to protect your personal information, we cannot gua
 
 ## 5\. Collection and use of personal information by us
 
-In order to provide product information, trials and order fulfillment, we collect personal details from you. Such information is used by us for the purpose for which you provided it. We are not in a position to establish whether your personal information is accurate or up-to-date and cannot, therefore, be responsible for doing so. Any information which you provide in this way is not made available to any third parties, and is used by us for internal business purposes only. We do not store customer Credit Card information, this information will be stored by our payment gateway company who will store it on their secure payment gateway for as long as necessary to carry out the terms of your subscription. 
+In order to provide product information, trials and order fulfillment, we collect personal details from you. Such information is used by us for the purpose for which you provided it. We are not in a position to establish whether your personal information is accurate or up-to-date and cannot, therefore, be responsible for doing so. Any information which you provide in this way is not made available to any third parties, and is used by us for internal business purposes only. We do not store customer Credit Card information, this information will be stored by our payment gateway company who will store it on their secure payment gateway for as long as necessary to carry out the terms of your subscription.
 
 ## 6\. Direct Marketing Material
 
@@ -66,7 +64,7 @@ Please note that third party external websites to which we provide links (over w
 
 ## 9\. Internet Advertising
 
-Third party vendors, such as Google, may show our ads on sites on the Internet. Third party vendors, such as Google, use cookies to serve ads based on a user's prior visits to our website. Users can opt out of cookies used by Google for advertising. You can opt out by: 
+Third party vendors, such as Google, may show our ads on sites on the Internet. Third party vendors, such as Google, use cookies to serve ads based on a user's prior visits to our website. Users can opt out of cookies used by Google for advertising. You can opt out by:
 
   * **Opting out of DoubleClick cookies:** Users can opt out of DoubleClick cookies by visiting the [DART Ad-Serving and Search Cookie Opt-Out](http://www.doubleclick.com/privacy/dart_adserving.aspx) page.
   * **Opting out of Google advertising cookies:** Users can opt out of Google's use of cookies for advertising by visiting Google's [Advertising and Privacy](http://www.google.com/privacy_ads.html) page.
@@ -86,7 +84,7 @@ dotMobi,
 IFSC,  
 Dublin 1,  
 Ireland   
-E-mail: [legal@dotmobi.com](mailto:legal@dotmobi.com)
+E-mail: [legal@dotmobi.com](mailto:legal@dotmobi.com?Subject=Data%20Protection%20/%20Legal)
 
 You should include with any such request any personal identifiers which you supplied earlier via the website (e.g. name; address; phone number; e-mail address, password) or otherwise.
 
