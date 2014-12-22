@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguin.com.au privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626154444id_/https%3A//www.penguin.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.com.au privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222124151id_/http%3A//www.penguin.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Penguin Books Australia
 
@@ -101,7 +101,7 @@ At the point we collect information from you, you may be asked to "opt in" to co
 
 You will be given the opportunity to "opt out" from receiving communications from us or from third parties that send communications to you in accordance with the Privacy Act and other applicable privacy laws. For example, you will be given the option to unsubscribe to emails or newsletters sent by us.
 
-You may also opt-out of Google Analytics and customise your Google Display Network ads by using the Ads Settings.  You can also access Google Analytics' currently available opt-outs for the web.
+You may also opt-out of Google Analytics and customise your Google Display Network ads by using the [Ads Settings](https://www.google.com/settings/u/0/ads).  You can also access Google Analytics' currently available [opt-outs](https://tools.google.com/dlpage/gaoptout) for the web.
 
  **How we hold it - management and security**
 
