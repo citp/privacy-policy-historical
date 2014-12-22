@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sumdog.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626090109id_/http%3A//www.sumdog.com/en/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumdog.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222195541id_/http%3A//www.sumdog.com/en/Privacy_Policy) for the most accurate reproduction.*
 
 # Sumdog Teacher Portal - Privacy Policy and Cookies
 
-_Effective from April 30, 2014_
+_Effective from August 22, 2014_
 
 At Sumdog, we take your privacy and online safety very seriously. This Privacy Policy describes what personal information we collect from you when you use Sumdog, and what we do with that information. If you have any questions or concerns, please contact us at [privacy@sumdog.com](mailto:privacy@sumdog.com).
 
@@ -110,7 +110,7 @@ When you use Sumdog, we may collect the following information automatically:
 
 The data we collect automatically may be linked to your account and to the personal information that you have given us.
 
-Some of the information that we collect from Student Users may be accessed by the Parent Users in their Sumdog Family, or the Teacher Users in their Sumdog School.
+Some of the information that we collect from Student Users may be accessed by the Parent Users in their Sumdog Family, or the Teacher Users linked to their Sumdog School.
 
 We also use analytics software to help us understand how Sumdog is used. Information recorded by this software is anonymized, and cannot be related to individuals. To help us optimise our email communication, we may use customised links, or small images called web beacons. These allow us to understand how our messages are received by our users.
 
@@ -149,6 +149,8 @@ Your information is used during the normal functioning of the Sumdog service. Th
   * analyze usage patterns or request feedback from you about our services so that we may improve the service
 
 
+
+Your information is held by Sumdog Ltd. It may also be accessed by our wholly-owned US subsidiary, Sumdog Inc, in accordance with the terms of this Privacy Policy.
 
 If we need to use your personal information for any other purposes, other than the normal functioning of the Sumdog service we will seek your permission prior to doing so.
 
@@ -239,6 +241,6 @@ We may change this Privacy Policy from time to time. How we use the information 
 
 ### **How to contact us**
 
-If you have any query regarding this Privacy Policy or your Personal Information on Sumdog, please e-mail privacy@sumdog.com. Alternative, please write to Sumodg Inc, 902 Broadway, New York, NY NY 10010, or call 877-9786364. Outside of North America, please write to Sumdog Ltd, 43 Queensferry Street Lane, Edinburgh, EH2 4PF, UK or call +44 (0)1312261511.
+If you have any query regarding this Privacy Policy or your Personal Information on Sumdog, please e-mail privacy@sumdog.com. Alternatively, please write to Sumodg Inc, 902 Broadway, New York, NY NY 10010, or call 877-9786364. Outside of North America, please write to Sumdog Ltd, 43 Queensferry Street Lane, Edinburgh, EH2 4PF, UK or call +44 (0)1312261511.
 
 Under the Data Protection Act in the UK, Parent Users have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. (We may charge for information requests and will require you to prove your identity with 2 pieces of approved photographic identification). We will use reasonable efforts to supply, correct or delete personal information about you on our files. Please send requests by post to the Data Protection Manager at the address above.
