@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the franchisezing.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503201545id_/http%3A//www.franchisezing.com/franchise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisezing.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222183334id_/http%3A//www.franchisezing.com/franchise/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FranchiseZing
+# Top Franchise Business Opportunity & Investment Brands India|Advertising & Marketing Consultant | FranchiseZing
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
