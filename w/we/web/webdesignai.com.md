@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdesignai.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626062455id_/http%3A//www.webdesignai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdesignai.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222083511id_/http%3A//www.webdesignai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Web Design Ai
 
@@ -20,15 +20,15 @@ How we use collected information
 
 Web Design Ai may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
+– To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 How we protect your information
