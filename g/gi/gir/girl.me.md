@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girl.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044150id_/http%3A//girl.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girl.me privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222182946id_/http%3A//girl.me/privacy) for the most accurate reproduction.*
 
 # Girl.me Privacy Policy
 
