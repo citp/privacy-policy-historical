@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woobox.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607003429id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woobox.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222214925id_/http%3A//woobox.com/privacy) for the most accurate reproduction.*
 
 # Woobox Privacy Policy
 
@@ -24,7 +24,7 @@ You can choose to limit the storage of cookies on your computer when accessing t
 
 ### Information Sharing
 
-The information collected about you may be shared with third parties to facilitate the serving of advertising on the website. Some of these advertisers (such as Google through the Google AdSense program) may use technology such as cookies and web beacons and may collect additional information about you. Woobox provides applications that contain entry forms that collect information about you on behalf of other third-parties. Woobox makes this information available to the third-parties that have created the campaign running on Wooobox's servers. This information can include any information you provide along with other personal information that we collect and that is accesible through permissions you grant to our applications on the Facebook, Twitter, and other platforms. 
+The information collected about you may be shared with third parties to facilitate the serving of advertising on the website. Some of these advertisers (such as Google through the Google AdSense program) may use technology such as cookies and web beacons and may collect additional information about you. Woobox provides applications that contain entry forms that collect information about you on behalf of other third-parties. Woobox makes this information available to the third-parties that have created the campaign running on Woobox's servers. This information can include any information you provide along with other personal information that we collect and that is accesible through permissions you grant to our applications on the Facebook, Twitter, and other platforms. 
 
 ### Our Commitment To Data Security
 
