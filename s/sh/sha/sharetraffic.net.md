@@ -1,23 +1,35 @@
-> *The following text is extracted and transformed from the sharetraffic.net privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729193632id_/http%3A//www.sharetraffic.net/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharetraffic.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223004442id_/http%3A//www.4v4.com/privacy.php) for the most accurate reproduction.*
 
-# Share Traffic | Traffic Exchange Program
+# 
 
-**THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR Share Traffic**
+## Privacy Policy
 
-**Information Collection and Use of Information**  
-In order to use this website, a user must first complete the registration form. During registration a user is required to give his contact information (email address). This information is used to contact the user about the service and products we provide or wish to provide. We will not sell, share, or rent personal information to others.
+We are committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online. 
 
-**Security**  
-This website takes every precaution to protect our users personal information. When a user submits sensitive information via our site, the information is protected both online and off-line. Only the administrator of this site can access personal information of the users. 
+**What information do we collect?**  
+We may request and/or collect information from you on a voluntary basis when you: register with us, or when you send questions or comments via e-mail to our customer support. The requested information may include personal information such as your name and e-mail address.  
+If you are under the age of 13, you will need your parent or guardian's consent before you can provide any personal information to us for purposes of registration and other online activities. 
 
-**Correction/Updating Personal Information**  
-If a user's personally identifiable information changes, we provide a way to correct that user's personal data provided to us. This can be done within the member area.
+**Cookies**  
+We may use cookies to improve the use of our websites. A "cookie" is a small file that websites often store on a user's computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our websites. For example, cookies allow us to remember your screen name, tell us that you have visited our website before, and may contain information that will make your next visit to our website more enjoyable. However, we do not use cookies to store personal information such as your name. In addition, We do not use cookies to retrieve information from your computer that was not originally sent in a cookie. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer. 
 
-**Right to Cancel**  
-Our users can cancel membership and be removed from all newsletters and databases. To do this a link is provided at the end of system generated email messages from Share Traffic, click the link and you will be taken to a web page where you may choose to be removed from just newsletters or the entire database.
+**IP Addresses**  
+We may also collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet. 
 
-**Site and Service Updates**  
-We may send the user site and service announcement updates. We communicate with the users to provide requested services and in regards to issues relating to their accounts via email.
+**Linking to third party sites**  
+To provide relevant information not found on our Web site, we may provide links from our Web sites to third party Web sites and we encourage our users to read third party sites' privacy policies before submitting personal information. All the downloads and Exe files provided on this site are from a 3rd party and us is not responsible for any files or adware that gets installed by their games and screensavers. They contain several adware products so download and install @ your own risk. We resumes NO responsibility. We are not responsible for the privacy practices of the content of third party sites'. We hereby disclaims any representations or warranties expressed on any site other than its own site. 
 
-**Notification of Changes**  
-If we decide to change our Privacy Policy we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner
+**Who is collecting my personal information?**  
+Any personal information that you disclose while visiting any of our websites is collected by us, and is used in the manner specified above. 
+
+**Questions and Complaints**  
+If you have any questions, complaints or comments regarding our Privacy Policy Statement, please contact us @ info@4v4.com 
+
+By using this site, you signify your assent to the Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
+
+_Additional Information_  
+* Google, as a third party vendor, uses cookies to serve ads on your site.  
+* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies. 
