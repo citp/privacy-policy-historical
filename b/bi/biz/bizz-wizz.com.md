@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizz-wizz.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603071048id_/http%3A//www.bizz-wizz.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizz-wizz.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222231053id_/http%3A//www.bizz-wizz.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Bizz Wizz - Privacy Policy
 
