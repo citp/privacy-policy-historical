@@ -1,258 +1,318 @@
-<!--The following is the downloaded HTML source of the ou.org privacy policy that was archived on 2014-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140505081723id_/http%3A//www.ou.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ou.org privacy policy that was archived on 2014-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222040019id_/http%3A//www.ou.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js wf-loading" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="//use.resrc.it"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5V9F34"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="//use.typekit.net/cph3mul.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUOU1BXGwABVlhVAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,o,a,u){return s?s-=1:n("err",[u||new UncaughtException(t,e,o)]),"function"==typeof i?i.apply(this,r(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}var n=t("handle"),r=t(6),o=t(5),i=window.onerror,a=!1,s=0;t("loader").features.push("err"),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),a=!0)}o.on("fn-start",function(){a&&(s+=1)}),o.on("fn-err",function(t,e,r){a&&(this.thrown=!0,n("err",[r,(new Date).getTime()]))}),o.on("fn-end",function(){a&&!this.thrown&&s>0&&(s-=1)}),o.on("internal-error",function(t){n("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);return i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1),n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,p=e(d);if(p&&(r.rxSize=p),this.sameOrigin){var f=t.getResponseHeader("X-NewRelic-App-Data");f&&(n.cat=f.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){a.emit("internal-error",e)}};for(var p=0;u>p;p++)n.addEventListener(s[p],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=c.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID){c.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=c.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",p="attachEvent",f=(""+location).split("?")[0],c=e.exports={offset:i(),origin:f,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[p]("onreadystatechange",r),s[p]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,n,r){function nrWrapper(){try{var a,u=s(arguments),d=this,p=n&&n(u,d)||{}}catch(f){i([f,"",[u,d,r],p])}o(e+"start",[u,d,r],p);try{return a=t.apply(d,u)}catch(c){throw o(e+"err",[u,d,c],p),c}finally{o(e+"end",[u,d,a],p)}}return t&&"function"==typeof t&&t.apply&&!t._wrapped?(e||(e=""),nrWrapper._wrapped=!0,nrWrapper):t}function r(t,e,r,o){r||(r="");var i,a,s,u="-"===r.charAt(0);for(s=0;s<e.length;s++)a=e[s],i=t[a],i&&"function"==typeof i&&i.apply&&!i._wrapped&&(t[a]=n(i,u?a+r:r,o,a,t))}function o(t,e,n){try{a.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{a.emit("internal-error",t)}catch(e){}}var a=t(1),s=t(2);e.exports=n,n.inPlace=r},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Orthodox Union Web Site Privacy Policy | Everyday Jewish Living | Orthodox Union</title>
-<script type="text/javascript">(function(){var config={kitId:'cph3mul',scriptTimeout:3000};var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)})();</script>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="//use.resrc.it/0.9" type="text/javascript" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5V9F34"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5Z28TZ"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//use.typekit.net/cph3mul.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUOU1BXGwAJUlVXAwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="com.silverpop.brandeddomains" content="www.pages01.net,advocacy.ou.org,israelfreespirit.com,jliconline.org,ncsy.org,njcd.org,ou.org,ouisrael.org,tjj.ncsy.org,www.israelfreespirit.com,www.njcd.org,www.ou.org,www.ouisrael.org">
+	<meta name="sth-site-verification" content="eec8382a519214a257d2c34c93a10391">
+
+ <script src="https://www.sc.pages01.net/lp/static/js/iMAWebCookie.js?f8af068-1303250869e-a7548a3fbbe3d9f8bac3b3472c6792ee&amp;h=www.pages01.net" type="text/javascript"></script>
+
+	
+	<title>Orthodox Union Web Site Privacy Policy | Everyday Jewish Living | Orthodox Union</title>
+	<script type="text/javascript">
+ 	   (function() {
+ 	     var config = {
+ 	       kitId: 'cph3mul',
+ 	       scriptTimeout: 3000
+ 	     };
+ 	     var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+ 	   })();
+ 	</script> 
+
+ 	<!--[if lt IE 9]>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/json3/3.3.2/json3.min.js"></script>
+	<![endif]-->
+
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Orthodox Union (“OU,” or “we” or “us” or “our”) values the relationships we have with our supporters, and we understand that these relationships are key to">
-<link rel="canonical" href="http://www.ou.org/privacy-policy/">
+<link rel="canonical" href="https://www.ou.org/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Orthodox Union Web Site Privacy Policy | Everyday Jewish Living | Orthodox Union">
 <meta property="og:description" content="Orthodox Union (“OU,” or “we” or “us” or “our”) values the relationships we have with our supporters, and we understand that these relationships are key to">
-<meta property="og:url" content="http://www.ou.org/privacy-policy/">
+<meta property="og:url" content="https://www.ou.org/privacy-policy/">
 <meta property="og:site_name" content="Orthodox Union">
-<meta property="article:published_time" content="2014-01-19T09:19:52+00:00">
-<meta property="article:modified_time" content="2014-01-20T20:55:18+00:00">
-<meta property="og:updated_time" content="2014-01-20T20:55:18+00:00">
-<script pagespeed_no_defer="">//<![CDATA[
-(function(){var d=window,e=document,h="getItem",m="getData",p="localStorage",q="indexOf",t="length",u="prototype",v="substring",w="",x=" ",y=" pagespeed_lsc_hash:",z="!",A="; expires=",B="=",C="_GPSLSC=",D="img",E="link",F="load",G="on",H="pagespeed_lsc_expiry",I="pagespeed_lsc_hash",J="pagespeed_lsc_url",K="pagespeed_lsc_url:",L="script",M="style",N="stylesheet",O="text/css",P=function(a,c,b){if(a.addEventListener)a.addEventListener(c,b,!1);else if(a.attachEvent)a.attachEvent(G+c,b);else{var f=a[G+c];a[G+c]=
-function(){b.call(this);f&&f.call(this)}}};d.pagespeed=d.pagespeed||{};var Q=d.pagespeed,R=function(){this.a=!0};R[u].b=function(a){a=parseInt(a[v](0,a[q](x)),10);return!isNaN(a)&&a<=Date.now()};R[u].hasExpired=R[u].b;R[u].getData=function(a){return a[v](a[q](x,a[q](x)+1)+1)};R[u].getData=R[u][m];R[u].c=function(a){var c=e.getElementsByTagName(L),c=c[c[t]-1];c.parentNode.replaceChild(a,c)};R[u].replaceLastScript=R[u].c;
-R[u].g=function(a){var c=d[p][h](K+a),b=e.createElement(c?M:E);c&&!this.b(c)?(b.type=O,b.appendChild(e.createTextNode(this[m](c)))):(b.rel=N,b.href=a,this.a=!0);this.c(b)};R[u].inlineCss=R[u].g;R[u].h=function(a,c){var b=d[p][h](K+a+y+c),f=e.createElement(D);b&&!this.b(b)?f.src=this[m](b):(f.src=a,this.a=!0);for(var b=2,l=arguments[t];b<l;++b){var g=arguments[b][q](B);f.setAttribute(arguments[b][v](0,g),arguments[b][v](g+1))}this.c(f)};R[u].inlineImg=R[u].h;
-R[u].d=function(a,c,b){a=e.getElementsByTagName(a);for(var f=0,l=a[t];f<l;++f){var g=a[f],r=g.getAttribute(I),k=g.getAttribute(J);if(r&&k){k=K+k;c&&(k+=y+r);var n=g.getAttribute(H),n=n?(new Date(n)).getTime():w,g=b(g);if(!g){var s=d[p][h](k);s&&(g=this[m](s))}g&&(d[p].setItem(k,n+x+r+x+g),this.a=!0)}}};R[u].f=function(){this.d(D,!0,function(a){return a.src});this.d(M,!1,function(a){return a.firstChild?a.firstChild.nodeValue:null})};
-R[u].e=function(){if(this.a){for(var a=[],c=[],b=0,f=Date.now(),l=0,g=d[p][t];l<g;++l){var r=d[p].key(l);if(!r[q](K)){var k=d[p][h](r),n=k[q](x),s=parseInt(k[v](0,n),10);if(!isNaN(s))if(s<=f){a.push(r);continue}else if(s<b||0==b)b=s;c.push(k[v](n+1,k[q](x,n+1)))}}f=w;b&&(f=A+(new Date(b)).toUTCString());e.cookie=C+c.join(z)+f;l=0;for(g=a[t];l<g;++l)d[p].removeItem(a[l]);this.a=!1}};Q.i=function(){if(d[p]){var a=new R;Q.localStorageCache=a;P(d,F,function(){a.f()});P(d,F,function(){a.e()})}};
-Q.localStorageCacheInit=Q.i;})();
-pagespeed.localStorageCacheInit();
-//]]></script><link rel="stylesheet" forform="1" href="http://www.ou.org/content/themes/ou-theme/assets/css/style.css,qver=1399277724.pagespeed.ce.CqM6T61K00.css">
-<script type="text/javascript" src="http://www.ou.org/wp-includes/js/underscore.min.js,qver=1.4.4.pagespeed.jm.bcWdOnKtVH.js"></script>
-<script type="text/javascript" src="http://www.ou.org/wp-includes/js/jquery/jquery.js,qver=1.10.2.pagespeed.jm.iCH2ukpEYb.js"></script>
-<script src="http://www.ou.org/wp-includes,_js,_jquery,_jquery-migrate.min.js,,qver==1.2.1,Mjm.mhpNjdU8Wl.js+wp-includes,_js,_backbone.min.js,,qver==1.0.0,Mjm.ma_hBJNUSw.js+vendor,_collectionview,_CollectionView.js,,qver==3.8.1,Mjm.vthbRvPhhe.js+vendor,_oubaseview,_BaseView.js,,qver==3.8.1,Mjm.oJlouF7zFe.js+vendor,_jquery-outside-events,_jquery.ba-outside-events.js,,qver==3.8.1,Mjm.OkqHsssKwh.js.pagespeed.jc.onoghh1dqM.js"></script><script>eval(mod_pagespeed_bu58_vox6u);</script>
-<script>eval(mod_pagespeed_gUKFTL4Rr1);</script>
-<script>eval(mod_pagespeed_tlbBlbFZIS);</script>
-<script>eval(mod_pagespeed_nVgjfwpppd);</script>
-<script>eval(mod_pagespeed_8a4ZrGEAlx);</script>
-<script type="text/javascript">//<![CDATA[
-var ou_search_results_template="<div id=\"contextMenu\" class=\"dropdown clearfix\">\n    <ul class=\"dropdown-menu\" role=\"menu\" aria-labelledby=\"dropdownMenu\" style=\"display:block;position:static;margin-bottom:5px;\">\n\t<li data-view=\"noResults\" data-collection=\"results\">\n\t\t<a>No results found.<\/a>\n\t<\/li>\n      <li data-view=\"CollectionView\" data-collection=\"results\" data-options='{\"view\":\"BaseView\"}'>\n      \t<a data-bind=\"attr:href(post_url)\">\n      <span data-bind=\"post_title\"\/>\n  \t\t<\/a>\n      <\/li>\n    <\/ul>\n<\/div>";
-//]]></script>
-<script type="text/javascript">//<![CDATA[
-(function(Backbone,BaseView,CollectionView,$){$(function(){var Results=Backbone.Collection.extend({url:'http://162.242.173.7:9200/rsprod_www_ou_org/_search',fetch:function(options){options.reset=true;options.data={size:10};options.data.q=options.q;options.data.fields=['post_title','post_blog.name','post_blog.domain','post_blog.id','post_url','post_excerpt'].join(',');options.reload=true;return Backbone.Collection.prototype.fetch.call(this,options);},parse:function(raw){return _.pluck(raw.hits.hits,'fields');}});var ResultsView=BaseView.extend({noResults:Backbone.View.extend({initialize:function(){this.showOrHide();this.listenTo(this.collection,'reset',this.showOrHide);},showOrHide:function(){if(this.collection.length>0){this.$el.hide();}
-else{this.$el.show();}}}),el:function(){return $(ou_search_results_template);},events:{'clickoutside':function(e,target){if($(target).data("ou-search-searchbar"))return;this.$el.hide();}},initialize:function(){this.$el.hide();this.results=this.collection;this.results.on('reset',function(){if(this.results.length===0){this.$el.show();}
-else{this.$el.show();}},this);}});var SearchBar=Backbone.View.extend({el:$("[data-ou-search-searchbar]"),events:{keyup:function(e){if(e.which==13)location.href='/search/?q='+encodeURIComponent(e.currentTarget.value);if(this.fetching&&this.fetching.state()=='pending'){this.fetching.abort();}
-this.resultsView.$el.appendTo('body');this.resultsView.$el.css({position:'absolute',top:$(e.currentTarget).offset().top+$(e.currentTarget).outerHeight(),left:$(e.currentTarget).offset().left});this.fetching=this.results.fetch({q:e.currentTarget.value});}},initialize:function(){this.results=new Results();this.resultsView=new ResultsView({collection:this.results});}});searchBar=new SearchBar();});})(Backbone,BaseView,CollectionView,jQuery);
-//]]></script>
-<script type="text/javascript">//<![CDATA[
-var hitCounterParams={"post":{"hash":"0d0106e7e481b5094771a1d2cee739233d9bd926"}};
-//]]></script>
-<script type="text/javascript">//<![CDATA[
-(function($){$(function(){$.ajax({type:'get',url:wp.ajaxurl,data:{action:'hit_counter_increment',hash:hitCounterParams.post.hash}}).done(function(response){console.log(response);});});}(jQuery));
-//]]></script>
-<script type="text/javascript">//<![CDATA[
-var disqusParams={"post":{"hash":"0d0106e7e481b5094771a1d2cee739233d9bd926"}};
-//]]></script>
-<script type="text/javascript">//<![CDATA[
-function disqus_config(){this.callbacks.onNewComment=[function(comment){(function($){$.ajax({type:'get',url:wp.ajaxurl,data:{action:'disqus_counter_increment',hash:disqusParams.post.hash}}).done(function(response){console.log(response);});})(jQuery)}];}
-//]]></script>
-<script type="text/javascript">//<![CDATA[
-var addthisParams={"post":{"hash":"0d0106e7e481b5094771a1d2cee739233d9bd926"}};
-//]]></script>
-<script type="text/javascript">//<![CDATA[
-function shareEventHandler(evt){if(evt.type=='addthis.menu.share'){(function($){$.ajax({type:'get',url:wp.ajaxurl,data:{action:'addthis_counter_increment',hash:disqusParams.post.hash}}).done(function(response){console.log(response);});})(jQuery);}}
-(function($){$(function(){if(window.addthis){addthis.addEventListener('addthis.menu.share',shareEventHandler);}});}(jQuery));
-//]]></script>
-<script type="text/javascript">//<![CDATA[
-var wp={"ajaxurl":"http:\/\/www.ou.org\/wp-admin\/admin-ajax.php"};
-//]]></script>
-<script src="http://www.ou.org/content,_plugins,_ou-content-index,_public,_assets,_js,_public.js,qver==1.0.0+vendor,_backbone.safe,_backbone.safe.js,,qver==3.8.1,Mjm.ZkWJOh-ROI.js.pagespeed.jc.loIxhe4QWZ.js"></script><script>eval(mod_pagespeed_UyR5XY4jhx);</script>
-<script>eval(mod_pagespeed_qkHrU_9$Od);</script>
-<script type="text/javascript" src="http://www.ou.org/vendor/backbone-associations/backbone-associations.js,qver=3.8.1.pagespeed.jm.svqN-h0ivx.js"></script>
-<script type="text/javascript">//<![CDATA[
-(function(root,Backbone,_,$){var OULocation=Backbone.AssociatedModel.extend({url:'http://db.ou.org/location?callback=?',initialize:function(){var locParts=this.id.split(', ');this.set('city',locParts[0]);var countryRegion=locParts[1].split(' ');if(countryRegion[1]){if(_.include(['CA','US'],countryRegion[1])){this.set('region',countryRegion[0]);this.set('country',countryRegion[1]);}
-else{this.set('country',countryRegion[1]);this.set('region','');}}
-else{this.set('country',countryRegion[0]);this.set('region','');}},fetch:function(options){options=options||{};options.data={'city':this.get('city'),'region':this.get('region'),'country':this.get('country'),'legacy':1};return Backbone.Model.prototype.fetch.call(this,options);}});var OULocationCollection=Backbone.Collection.extend({model:OULocation,initialize:function(){Backbone.Safe.create('ou_location',this,{reload:true});this.ready=$.Deferred();if(this.getCurrentLocation()){this.ready.resolve();return;}
-if(this.fetching){return this.ready;}
-var location=new OULocation({id:' , '});location.fetch().done(_.bind(function(geo_location){location.set('id',geo_location.cn+', '+geo_location.rc+' '+geo_location.cc);this.setCurrent(location);this.add(location);this.ready.resolve();},this));this.fetching=true;return this.ready;},getLocation:function(locationID){if(this.get(locationID)){return this.get(locationID);}
-var loc=new OULocation({id:locationID});this.add(loc);return loc;},getCurrentLocation:function(){var loc;loc=this.findWhere({current:true});if(loc){return loc;}},setCurrent:function(location){if(location.get('current')){return;}
-this.each(function(loc){loc.set('current',false,{silent:true});});location.set('current',true);}});root.OULocations=new OULocationCollection();})(window,Backbone,_,jQuery);
-//]]></script>
-<script type="text/javascript" src="http://www.ou.org/vendor/jQuery-Autocomplete/src/jquery.autocomplete.js,qver=3.8.1.pagespeed.jm.HQrqKwGF7P.js"></script>
-<script type="text/javascript">//<![CDATA[
-var wp={"ajaxurl":"http:\/\/www.ou.org\/wp-admin\/admin-ajax.php"};
-//]]></script>
-<script src="http://www.ou.org/content,_plugins,_OU-Zmanim-Toolbar-Plugin,_js,_community-bar.js,,qver==3.8.1,Mjm.Bvc-M2ENFK.js+vendor,_jQuery.XDomainRequest,_jquery.xdomainrequest.min.js,,qver==3.8.1,Mjm.F43u9K7n97.js.pagespeed.jc.0a4kyu5HNZ.js"></script><script>eval(mod_pagespeed_n0Q$WRU3PA);</script>
-<script>eval(mod_pagespeed_87VIMCEWca);</script>
-<script type="text/javascript" src="http://jwpsrv.com/library/2bW_tD73EeK71CIACp8kUw.js?ver=1"></script>
-<script type="text/javascript">//<![CDATA[
-(function(w){"use strict";w.picturefill=function(){var ps=w.document.getElementsByTagName("span");for(var i=0,il=ps.length;i<il;i++){if(ps[i].getAttribute("data-picture")!==null){var sources=ps[i].getElementsByTagName("span"),matches=[];for(var j=0,jl=sources.length;j<jl;j++){var media=sources[j].getAttribute("data-media");if(!media||(w.matchMedia&&w.matchMedia(media).matches)){matches.push(sources[j]);}}
-var picImg=ps[i].getElementsByTagName("img")[0];if(matches.length){var matchedEl=matches.pop();if(!picImg||picImg.parentNode.nodeName==="NOSCRIPT"){picImg=w.document.createElement("img");picImg.alt=ps[i].getAttribute("data-alt");}
-else if(matchedEl===picImg.parentNode){continue;}
-picImg.src=matchedEl.getAttribute("data-src");matchedEl.appendChild(picImg);picImg.removeAttribute("width");picImg.removeAttribute("height");}
-else if(picImg){picImg.parentNode.removeChild(picImg);}}}};if(w.addEventListener){w.addEventListener("resize",w.picturefill,false);w.addEventListener("DOMContentLoaded",function(){w.picturefill();w.removeEventListener("load",w.picturefill,false);},false);w.addEventListener("load",w.picturefill,false);}
-else if(w.attachEvent){w.attachEvent("onload",w.picturefill);}}(this));
-//]]></script>
-<script src="http://www.ou.org/vendor/picturefill,_external,_matchmedia.js,,qver==3.8.1,Mjm.Tmqsoid-Vc.js+jquery-waypoints,_waypoints.js,,qver==3.8.1,Mjm.8ZBVqdjut7.js+jquery-waypoints,_shortcuts,_sticky-elements,_waypoints-sticky.js,,qver==3.8.1,Mjm.UiTjgSmpIz.js.pagespeed.jc.oFtZHk61I2.js"></script><script>eval(mod_pagespeed_AbF8ivlaeZ);</script>
-<script>eval(mod_pagespeed_7zdFS$J$Y_);</script>
-<script>eval(mod_pagespeed_8l2jNy4m04);</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js?ver=3.8.1#pubid=orthodox"></script>
-<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.ou.org/content/themes/ou-theme/assets/js/dfp.js?ver=3.8.1"></script>
-<script type="text/javascript">var googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var gads=document.createElement('script');gads.async=true;gads.type='text/javascript';var useSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node);})();</script>
-<script type="text/javascript">googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([320,700],[263,180]).addSize([750,200],[728,90]).addSize([1050,200],[728,90]).addSize([1200,200],[263,180]).addSize([0,0],[263,180]).build();googletag.defineSlot('/20935622/rt-news266x180',[263,180],'div-gpt-ad-1393877451376-0').defineSizeMapping(mapping).addService(googletag.pubads());googletag.pubads().enableSingleRequest();googletag.enableServices();});</script>
-<script type="text/javascript">googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([320,700],[263,180]).addSize([750,200],[728,90]).addSize([1050,200],[728,90]).addSize([1200,200],[263,180]).addSize([0,0],[263,180]).build();googletag.defineSlot('/20935622/rt-news-263x180',[263,180],'div-gpt-ad-1394063088987-0').defineSizeMapping(mapping).addService(googletag.pubads());googletag.pubads().enableSingleRequest();googletag.enableServices();});</script>
-<script type="text/javascript">googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([320,700],[263,180]).addSize([750,200],[728,90]).addSize([1050,200],[728,90]).addSize([1200,200],[263,180]).addSize([0,0],[263,180]).build();googletag.defineSlot('/20935622/rt-news263x180',[263,180],'div-gpt-ad-1394065429947-0').defineSizeMapping(mapping).addService(googletag.pubads());googletag.pubads().enableSingleRequest();googletag.enableServices();});</script>
-<link rel="alternate" type="application/rss+xml" title="Orthodox Union Feed" href="http://www.ou.org/feed/">
-<!--[if lt IE 9]>
-		<script src="http://www.ou.org/content/themes/ou-theme/assets/js/respond.min.js"></script>
-		<script src="http://www.ou.org/content/themes/ou-theme/assets/js/html5shiv.js"></script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="stylesheet" forform="1" href="https://www.ou.org/content/themes/ou-theme/assets/css/style.css?ver=1419214743">
+<script type="text/javascript" src="https://www.ou.org/wp-includes/js/underscore.min.js?ver=1.6.0"></script>
+<script type="text/javascript" src="https://www.ou.org/wp-includes/js/jquery/jquery.js?ver=1.11.1"></script>
+<script type="text/javascript" src="https://www.ou.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ES = {"host":"es1.content-index.oustatic.com","port":"8443","url":"https:\/\/es1.content-index.oustatic.com:8443","prefix":"rsprod_"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ou.org/wp-includes/js/backbone.min.js?ver=1.1.2"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/oubaseview/BaseView.js"></script>
+<script type="text/javascript" src="https://www.ou.org/content/plugins/ou-content-index/public/assets/js/console.js?ver=4.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var hitCounterParams = {"post":{"hash":"e1725daea0d419eb80e6025eb6afb0b507d11e7a"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ou.org/content/plugins/ou-content-index/public/assets/js/hit-counter.js?ver=4.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var disqusParams = {"post":{"hash":"e1725daea0d419eb80e6025eb6afb0b507d11e7a"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ou.org/content/plugins/ou-content-index/public/assets/js/disqus-config.js?ver=4.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var addthisParams = {"post":{"hash":"e1725daea0d419eb80e6025eb6afb0b507d11e7a"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ou.org/content/plugins/ou-content-index/public/assets/js/addthis-config.js?ver=4.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wp = {"ajaxurl":"https:\/\/www.ou.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ou.org/content/plugins/ou-content-index/public/assets/js/public.js?ver=1.2.6"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/backbone.safe/backbone.safe.js"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/backbone-associations/backbone-associations.js"></script>
+<script type="text/javascript" src="https://www.ou.org/content/themes/ou-theme/lib/ou_location/ou_location.js?ver=4.0.1"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/jQuery-Autocomplete/src/jquery.autocomplete.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wp = {"ajaxurl":"https:\/\/www.ou.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ou.org/content/plugins/OU-Zmanim-Toolbar-Plugin/js/community-bar.js?ver=4.0.1"></script>
+<script type="text/javascript" src="//jwpsrv.com/library/2bW_tD73EeK71CIACp8kUw.js?ver=1"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js?ver=4.0.1#pubid=orthodox"></script>
+<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js?ver=4.0.1"></script>
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script><style type="text/css">
+				#login {
+					width:350px !important;
+				}
+				</style>
+			<link rel="alternate" type="application/rss+xml" title="Orthodox Union Feed" href="https://www.ou.org/feed/">
+		
+	<!-- HTML5 Shiv and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+		<script src="https://www.ou.org/content/themes/ou-theme/assets/js/respond.min.js"></script>
+		<script src="https://www.ou.org/content/themes/ou-theme/assets/js/html5shiv.js"></script>
 	<![endif]-->
-<script type="text/javascript">var _gaq=_gaq||[];var pluginUrl='//www.google-analytics.com/plugins/ga/inpage_linkid.js';_gaq.push(['_require','inpage_linkid',pluginUrl]);_gaq.push(['_setAccount','UA-32047-1']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://':'http://')+'stats.g.doubleclick.net/dc.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+
 </head>
-<body class="page page-id-2668 privacy-policy privacy-policy" itemscope="" itemtype="http://schema.org/WebPage">
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5V9F34" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5V9F34');</script>
+
+
+<body class="page page-id-2668 privacy-policy" itemscope="" itemtype="http://schema.org/WebPage">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32047-1', 'ou.org');
+  ga('require', 'linkid', 'linkid.js');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+</script>
+
+<!-- Google JMG - OU Tag -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5Z28TZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5Z28TZ');</script>
+<!-- Google JMG - OU Tag -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5V9F34"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5V9F34');</script>
+<!-- End Google Tag Manager -->
+
+
+ <!--printable header -->
 <div class="print-header visible-print">
-<div class="container">
-<img src="http://www.ou.org/content/themes/ou-theme/assets/img/ou_flag_blue.png.pagespeed.ce.RguPZ2V6si.png" alt="OU Logo">
-<h1>Orthodox<br> union</h1>
+	<div class="container">
+				<h1>Orthodox union</h1>
+	</div>
 </div>
-</div>
-<header id="hd" class="sticky hidden-print">
-<div id="communityBar" class="community-bar" data-community-bar="">
-<div class="container">
-<div class="zmanim-container">
-<div class="zmanim-location" rel="v:location">
-<div id="myLocation" class="community-name" typeof="v:Address" data-communitybar="location">
-<i class="ss-location"></i>
-<span class="city" property="v:locality" data-bind="location.city"></span>
-<span class="region" property="v:region" data-bind="location.region"></span>
-<span class="country" property="v:country-name" data-bind="location.country"></span>
-<meta property="v:postal-code" content="" data-bind="city">
-</div>
-<div class="change-location-container">
-<a id="changeLocationBtn" data-on="click:change"><i class="fa fa-caret-down"></i></a>
-<div id="change-location-dialog" data-bind="show:showChangeLocation" style="display:none">
-<input data-view="cityLookup" class="form-control" placeholder="Enter your location e.g. Monticello, NY US" type="text" data-city="">
-<div class="ctrl">
-<a class="btn btn-save left" data-on="click:save">Save this Location</a><a data-on="click:close" class="btn btn-close right">Close</a>
-</div>
-</div>
-</div>
-</div>
-<div class="zmanim-details" xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:PrayerTimes">
-<div class="date-group">
-<span class="eng-date" data-bind="zmanim.engDateString"></span> /
-<span class="heb-date" data-bind="zmanim.hebDateString"></span> /
-<span class="paraha" data-bind="zmanim.parsha_shabbos"></span>
-</div>
-<div id="zmanim-group">
-<i class="ss-sunrise"></i> ~ <span class="sunrise" data-bind="zmanim.sunrise"></span>
-<i class="ss-sunset"></i> ~ <span class="sunset" data-bind="zmanim.sunset"></span>
-<img src="http://www.ou.org/content/themes/ou-theme/assets/img/xcandles.png.pagespeed.ic.UhAm9Drgzt.png" alt="Candles">
-~ <span class="candles" property="v:datetime" content="">Fri.<span class="time" data-bind="zmanim.candle_lighting_shabbos"></span></span>
-</div>
-</div>
-</div>
-<ul class="ou-apps-list list-inline pull-right">
-<li><a href="/calendar/">Jewish Calendar</a></li>
-<li><a href="/communities/">Community Finder</a></li>
-<li><a href="/synagogue-finder/">Synagogue Finder</a></li>
-<li><a href="/contact/">Contact</a></li>
-</ul>
-</div>
-</div>
-<div class="container">
-<nav class="navbar navbar-default" role="navigation">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse1">
-<span class="sr-only">Toggle navigation</span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-</button>
-<a class="navbar-brand" href="/">
-<img src="http://www.ou.org/content/themes/ou-theme/assets/img/ou_flag_blue.png.pagespeed.ce.RguPZ2V6si.png" class="ou-logo hidden-sm hidden-xs" alt="OU Logo">
-<img src="http://www.ou.org/content/themes/ou-theme/assets/img/ou_wordmark.png.pagespeed.ce.coD5HFdw0q.png" alt="OU wordmark" class="ou_logo_img hidden-sm hidden-xs">
-<img src="http://www.ou.org/content/themes/ou-theme/assets/img/ou_logo_simple_blue.png.pagespeed.ce.d0GFsJpuUa.png" alt="OU Logo" class="ou_logo_img visible-sm visible-xs">
-</a>
-</div>
-<div class="container search-wrapper">
-<form class="navbar-form navbar-ou-site-search" role="search">
-<div href="#" class="search-callout-btn hidden-lg hidden-md">
-<i class="ss-search"></i>
-<input type="text" class="" placeholder="Search" data-ou-search-searchbar="">
-</div>
-<div class="form-group visible-lg visible-md">
-<i class="ss-search"></i>
-<input type="text" class="" placeholder="Search" data-ou-search-searchbar="">
-</div>
-</form>
-</div>
-<div class="collapse navbar-collapse navbar-collapse1">
-<ul class="nav navbar-nav">
-<li>
-<a href="http://oukosher.org/">
-<img class="oukosher-logo" src="http://www.ou.org/content/themes/ou-theme/assets/img/xoukosher_logo.png.pagespeed.ic.TD2h3XDaky.png" alt="OU Kosher">
-<img class="oukosher-logo kosher-logo-mobile" src="http://www.ou.org/content/themes/ou-theme/assets/img/xoukosher_logo_w.png.pagespeed.ic.hX3NJTQ7wq.png" alt="OU Kosher">
-Kosher
-</a>
-</li>
-<li><a href="/about/">About</a></li>
-<li class="dropdown1 ">
-<a href="/torah/">Torah <b class="caret1"></b></a>
-</li>
-<li><a href="/holidays/">Holidays</a></li>
-<li><a href="/events/">Events</a></li>
-<li><a href="/life/">Life</a></li>
-<li class="visible-xs"><a href="/calendar/">Jewish Calendar</a></li>
-<li class="visible-xs"><a href="/communities/">Community Finder</a></li>
-<li class="visible-xs"><a href="/synagogue-finder/">Synagogue Finder</a></li>
-<li class="donate"><a href="/giving/">Donate</a></li>
-<li class="visible-xs"><a href="/contact/">Contact</a></li>
-</ul>
-</div>
-</nav>
-</div>
-</header>
+
+ <header id="hd" class="sticky hidden-print">
+ 	<div id="communityBar" class="community-bar" data-community-bar="">
+  <div class="container">
+  
+    <div class="zmanim-container">
+    	
+    	<div class="zmanim-location" rel="v:location"> 	
+		 	<div id="myLocation" class="community-name" typeof="v:Address" data-communitybar="location">
+		 		<i class="ss-location"></i>
+          		<span class="city" property="v:locality" data-bind="location.city"></span>
+          		<span class="region" property="v:region" data-bind="location.region"></span>
+          		<span class="country" property="v:country-name" data-bind="location.country"></span>
+          		<meta property="v:postal-code" content="" data-bind="city">
+          	</div>
+          	
+          	<div class="change-location-container">
+	          	<a id="changeLocationBtn" data-on="click:change"><i class="fa fa-caret-down"></i></a>
+				<div id="change-location-dialog" data-bind="show:showChangeLocation" style="display:none">
+					<input data-view="cityLookup" class="form-control" placeholder="Enter your location e.g. Monticello, NY US" type="text" data-city="">
+					<div class="ctrl">
+					 	<a class="btn btn-save left" data-on="click:save">Save this Location</a><a data-on="click:close" class="btn btn-close right">Close</a>
+					</div>
+				</div>
+          	</div>     	
+	   </div><!-- .zmanim-location -->
+	   
+    	<div class="zmanim-details" xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:PrayerTimes">
+			
+				<div class="date-group"> 
+				  <span class="eng-date" data-bind="zmanim.engDateString"></span> /
+				  <span class="heb-date" data-bind="zmanim.hebDateString"></span> /
+				  <span class="paraha" data-bind="zmanim.parsha_shabbos"></span>
+				</div><!-- .date-group -->
+
+				<div id="zmanim-group">
+					<i class="ss-sunrise"></i> ~ <span class="sunrise" data-bind="zmanim.sunrise"></span>
+					<i class="ss-sunset"></i> ~ <span class="sunset" data-bind="zmanim.sunset"></span>
+					
+					<img src="https://www.ou.org/content/themes/ou-theme/assets/img/candles.png" alt="Candles">
+					~ <span class="candles" property="v:datetime" content="">Fri.<span class="time" data-bind="zmanim.candle_lighting_shabbos"></span></span>
+				</div><!-- #zmanim-group -->
+          
+		</div><!-- .zmanim-details -->
+    </div><!-- .zmanim-container -->
+
+    <ul class="ou-apps-list list-inline pull-right">
+      <li><a href="/calendar/">Jewish Calendar</a></li>
+      <li><a href="/communities/">Community Finder</a></li>
+      <li><a href="/synagogue-finder/">Synagogue Finder</a></li>
+      <li><a href="/contact/">Contact</a></li>
+    </ul> 
+    
+  </div><!-- .container -->
+</div>	
+ 	<div class="container">
+ 		
+ 		
+ 		<nav class="navbar navbar-default" role="navigation">
+ 		  
+ 		  <div class="navbar-header">
+ 		    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse1">
+ 		      <span class="sr-only">Toggle navigation</span>
+ 		      <span class="icon-bar"></span>
+ 		      <span class="icon-bar"></span>
+ 		      <span class="icon-bar"></span>
+ 		    </button>
+ 		    <a class="navbar-brand" href="/">
+
+ 		    	<img src="https://www.ou.org/content/themes/ou-theme/assets/img/ou_flag_blue.png" class="ou-logo hidden-sm hidden-xs" alt="OU Logo"> 
+ 		    	 		    	<img src="https://www.ou.org/content/themes/ou-theme/assets/img/ou_wordmark.png" alt="OU wordmark" class="ou_logo_img hidden-sm hidden-xs">
+ 		    	<img src="https://www.ou.org/content/themes/ou-theme/assets/img/ou_logo_simple_blue.png" alt="OU Logo" class="ou_logo_img visible-sm visible-xs">
+ 		    </a>
+ 		  </div>
+ 		  
+ 		   		  	
+ 		  <div class="container search-wrapper">
+	 		  <form class="navbar-form navbar-ou-site-search" role="search">
+	 		  	  <div href="#" class="search-callout-btn hidden-lg hidden-md">
+	 		  	  	<i class="ss-search"></i>
+		 		  	  	<input type="text" class="" placeholder="Search" data-ou-search-searchbar="">
+	 		  	  </div>
+	 		      <div class="form-group visible-lg visible-md">
+	 		      	<i class="ss-search"></i>
+	 		        <input type="text" class="" placeholder="Search" data-ou-search-searchbar="">
+	 		      </div>
+	 		  </form>
+ 		  </div>
+ 		   		  <div class="collapse navbar-collapse navbar-collapse1">
+ 		    <ul class="nav navbar-nav">
+ 		      <li>
+ 		      	<a href="http://oukosher.org/">
+ 		      		<img class="oukosher-logo" src="https://www.ou.org/content/themes/ou-theme/assets/img/oukosher_logo.png" alt="OU Kosher"> 
+ 		      		<img class="oukosher-logo kosher-logo-mobile" src="https://www.ou.org/content/themes/ou-theme/assets/img/oukosher_logo_w.png" alt="OU Kosher"> 
+ 		      		Kosher
+ 		      	</a>	        
+ 		      </li>
+ 		      <li><a href="/about/">About</a></li>
+ 		      <li class="dropdown1 ">
+ 		      	<a href="/torah/">Torah <b class="caret1"></b></a>
+ 		      	 		      </li>
+ 		      <li><a href="/holidays/">Holidays</a></li>
+ 		      <li><a href="/events/">Events</a></li>
+ 		      <li><a href="/life/">Life</a></li>
+ 		      <li class="visible-xs"><a href="/calendar/">Jewish Calendar</a></li>
+		      <li class="visible-xs"><a href="/communities/">Community Finder</a></li>
+		      <li class="visible-xs"><a href="/synagogue-finder/">Synagogue Finder</a></li>
+ 		      <li class="donate"><a href="/giving/">Donate</a></li>
+ 		      <li class="visible-xs"><a href="/contact/">Contact</a></li>
+ 		    </ul>
+ 		  </div>
+ 		  
+ 		</nav>
+ 	</div>
+</header>		
 <div id="bd">
+
+	<div class="adunit topofallwebsitead" data-adunit="front-header" data-dimensions="1140x100" style="margin:0 auto; width:1140px;"></div>
+	<style type="text/css">
+		.topofallwebsitead iframe{
+			margin: 10px 0 1px;
+		}
+	</style>
+
+		
+
+       
+
+
 <div class="container">
-<nav class="ou-secondary-navbar inner-navbar navbar hidden-sm hidden-xs">
-<ul class="nav navbar-nav">
-<li id="menu-item-28401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28401"><a title="NCSY/Teens" href="http://NCSY.org">NCSY/Teens</a></li>
+	<nav class="ou-secondary-navbar inner-navbar navbar hidden-sm hidden-xs">
+	<ul class="nav navbar-nav">
+		<li id="menu-item-28401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28401"><a title="NCSY/Teens" href="http://ncsy.org/">NCSY/Teens</a></li>
 <li id="menu-item-28402" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28402"><a title="JLIC/College Campus" href="http://jliconline.org">JLIC/College Campus</a></li>
-<li id="menu-item-28403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28403"><a title="Advocacy" href="http://ouadvocacy.org">Advocacy</a></li>
+<li id="menu-item-28403" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28403"><a title="Advocacy" href="http://advocacy.ou.org/">Advocacy</a></li>
 <li id="menu-item-28407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28407"><a title="Community Engagement " href="http://www.ou.org/community">Community Engagement</a></li>
 <li id="menu-item-28404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28404"><a title="OU Israel" href="http://ouisrael.org">OU Israel</a></li>
-<li id="menu-item-28405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28405"><a title="Alumni" href="http://ncsyalumni.org">Alumni</a></li>
+<li id="menu-item-28405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28405"><a title="Alumni" href="http://alumni.ncsy.org/">Alumni</a></li>
 <li id="menu-item-28406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28406"><a title="OU Press" href="http://oupress.org">OU Press</a></li>
 <li id="menu-item-28409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28409"><a title="Job Board" href="http://oujobs.org">Job Board</a></li>
 <li id="menu-item-28410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28410"><a title="NJCD/Yachad" href="http://njcd.org">NJCD/Yachad</a></li>
-<li id="menu-item-28412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28412"><a title="Jewish Action" href="http://www.ou.org/jewish_action/">Jewish Action</a></li>
+<li id="menu-item-28412" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28412"><a title="Jewish Action Magazine" href="http://www.ou.org/jewish_action/">Jewish Action Magazine</a></li>
 <li id="menu-item-29975" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29975"><a title="Daf Yomi" href="http://www.ou.org/torah/dafyomi/">Daf Yomi</a></li>
-</ul>
+	</ul>
 </nav>
 <div class="dropdown-subnav-container visible-sm visible-xs">
-<div class="menu-department-sub-menu-home-direct-container"><select class="hidden-print dropdown-subnav"><option value="">Choose a department or program</option><option value="http://NCSY.org">NCSY/Teens</option>
+	<div class="menu-department-sub-menu-home-direct-container"><select class="hidden-print dropdown-subnav"><option value="">Choose a department or program</option><option value="http://ncsy.org/">NCSY/Teens</option>
 <option value="http://jliconline.org">JLIC/College Campus</option>
-<option value="http://ouadvocacy.org">Advocacy</option>
+<option value="http://advocacy.ou.org/">Advocacy</option>
 <option value="http://www.ou.org/community">Community Engagement </option>
 <option value="http://ouisrael.org">OU Israel</option>
-<option value="http://ncsyalumni.org">Alumni</option>
+<option value="http://alumni.ncsy.org/">Alumni</option>
 <option value="http://oupress.org">OU Press</option>
 <option value="http://oujobs.org">Job Board</option>
 <option value="http://njcd.org">NJCD/Yachad</option>
-<option value="http://www.ou.org/jewish_action/">Jewish Action</option>
+<option value="http://www.ou.org/jewish_action/">Jewish Action Magazine</option>
 <option value="http://www.ou.org/torah/dafyomi/">Daf Yomi</option>
 </select></div></div>
+	
 <div class="row">
-<div id="main" class="col-md-8" role="main">
-<article class="post-2668 page type-page status-publish format-standard hentry">
-<header>
-<h1 class="entry-title">Orthodox Union Web Site Privacy Policy</h1>
-</header>
-<div class="entry-content">
-<p>Orthodox Union (“OU,” or “we” or “us” or “our”) values the relationships we have with our supporters, and we understand that these relationships are key to our continued success. We created this Privacy Policy to explain the types of information we collect about our supporters and visitors at <a title="OU.ORG" href="http://www.ou.org">www.ou.org</a>, <a title="oukosher.org" href="http://www.oukosher.org">www.oukosher.org</a>, <a title="ouwestcoast.org" href="http://www.ouwestcoast.org">www.ouwestcoast.org</a>, <a title="oupress.org" href="http://www.oupress.org">www.oupress.org</a>, <a title="oujobs.org" href="http://www.oujobs.org">www.oujobs.org</a>, <a title="oucommunity.org" href="http://www.oucommunity.org">www.oucommunity.org</a>, <a title="ouisrael.org" href="http://www.ouisrael.org">www.ouisrael.org</a>, <a title="ncsy.org" href="http://www.ncsy.org">www.ncsy.org</a>, <a title="ncsysummer.com" href="http://www.ncsysummer.com">www.ncsysummer.com</a>, <a title="ncsyalumni.org" href="http://www.ncsyalumni.org">www.ncsyalumni.org</a>, <a title="njcd.org" href="http://www.njcd.org">www.njcd.org</a>, and <a title="jliconline.org" href="http://www.jliconline.org">www.jliconline.org</a> (collectively, the “Sites”); how we protect this information; and how we use this information in connection with the services we offer through our Sites (the “Services”). Please note that this Privacy Policy does not apply to information we obtain by any other means (including offline or on or through another Web site).</p>
+
+
+	<div id="main" class="col-md-8" role="main">
+		  <article class="post-2668 page type-page status-publish format-standard hentry">
+    <header>
+      <h1 class="entry-title">Orthodox Union Web Site Privacy Policy</h1>
+          </header>
+    <div class="entry-content">
+      <p>Orthodox Union (“OU,” or “we” or “us” or “our”) values the relationships we have with our supporters, and we understand that these relationships are key to our continued success. We created this Privacy Policy to explain the types of information we collect about our supporters and visitors at <a title="OU.ORG" href="http://www.ou.org">www.ou.org</a>, <a title="oukosher.org" href="http://www.oukosher.org">www.oukosher.org</a>, <a title="ouwestcoast.org" href="http://www.ouwestcoast.org">www.ouwestcoast.org</a>, <a title="oupress.org" href="http://www.oupress.org">www.oupress.org</a>, <a title="oujobs.org" href="http://www.oujobs.org">www.oujobs.org</a>, <a title="oucommunity.org" href="http://www.oucommunity.org">www.oucommunity.org</a>, <a title="ouisrael.org" href="http://www.ouisrael.org">www.ouisrael.org</a>, <a title="ncsy.org" href="http://www.ncsy.org">www.ncsy.org</a>, <a title="ncsysummer.com" href="http://www.ncsysummer.com">www.ncsysummer.com</a>, <a title="ncsyalumni.org" href="http://www.ncsyalumni.org">www.ncsyalumni.org</a>, <a title="njcd.org" href="http://www.njcd.org">www.njcd.org</a>, and <a title="jliconline.org" href="http://www.jliconline.org">www.jliconline.org</a> (collectively, the “Sites”); how we protect this information; and how we use this information in connection with the services we offer through our Sites (the “Services”). Please note that this Privacy Policy does not apply to information we obtain by any other means (including offline or on or through another Web site).</p>
 <p>By visiting our Sites or using our Services, you agree to the terms of this Privacy Policy as they may be amended from time to time. For this reason, we ask that you please take a moment to review the sections below. You may click on a section title below to skip to that section of this Privacy Policy.</p>
 <p><a href="#purpose">Purpose</a><br>
 <a href="#optout">Right to Opt In and Opt Out</a><br>
@@ -321,160 +381,362 @@ We reserve the right to change this Privacy Policy from time to time, and such c
 <p><a name="contact"></a><b>Contact Us</b></p>
 <p>If you have any questions or comments regarding our privacy practices, you may contact us at <a href="mailto:ouinternet@ou.org">ouinternet@ou.org</a>.<br>
 Last updated: November 2010</p>
+    </div>
+    <footer>
+    </footer>
+
+
+    
+   
+  </article>
+	</div>
+	
+	<aside class="sidebar col-md-3 col-md-offset-1" role="complementary">
+				<div class="adunit" data-adunit="blog-rt-263x180" data-dimensions="263x180"></div>
+				<div class="widget ou-widgets-newsletter-sign-up shabbot-shalom">
+				<header>
+					<h2>Shabbat Shalom</h2>
+				</header>
+				<p>
+					Weekly email newsletter filled with articles, Divrei Torah, upcoming events and more! <strong>Sign up today.</strong>
+				</p>
+				<form method="post" action="https://www.pages01.net/uojca/MainFormLists/shshNameState" pageid="2101806" siteid="68728" parentpageid="2101804">
+					<div id="container_COLUMN5">
+						<select class="s2" name="State" id="control_COLUMN5" label="State" data-placeholder="Select a State">
+              <option value="" selected="selected"></option>
+              <option value="AL">Alabama</option>
+              <option value="AK">Alaska</option>
+              <option value="AZ">Arizona</option>
+              <option value="AR">Arkansas</option>
+              <option value="CA">California</option>
+              <option value="CO">Colorado</option>
+              <option value="CT">Connecticut</option>
+              <option value="DE">Delaware</option>
+              <option value="FL">Florida</option>
+              <option value="GA">Georgia</option>
+              <option value="HI">Hawaii</option>
+              <option value="ID">Idaho</option>
+              <option value="IL">Illinois</option>
+              <option value="IN">Indiana</option>
+              <option value="IA">Iowa</option>
+              <option value="KS">Kansas</option>
+              <option value="KY">Kentucky</option>
+              <option value="LA">Louisiana</option>
+              <option value="ME">Maine</option>
+              <option value="MD">Maryland</option>
+              <option value="MA">Massachusetts</option>
+              <option value="MI">Michigan</option>
+              <option value="MN">Minnesota</option>
+              <option value="MS">Mississippi</option>
+              <option value="MO">Missouri</option>
+              <option value="MT">Montana</option>
+              <option value="NE">Nebraska</option>
+              <option value="NV">Nevada</option>
+              <option value="NH">New Hampshire</option>
+              <option value="NJ">New Jersey</option>
+              <option value="NM">New Mexico</option>
+              <option value="NY">New York</option>
+              <option value="NC">North Carolina</option>
+              <option value="ND">North Dakota</option>
+              <option value="OH">Ohio</option>
+              <option value="OK">Oklahoma</option>
+              <option value="OR">Oregon</option>
+              <option value="PA">Pennsylvania</option>
+              <option value="RI">Rhode Island</option>
+              <option value="SC">South Carolina</option>
+              <option value="SD">South Dakota</option>
+              <option value="TN">Tennessee</option>
+              <option value="TX">Texas</option>
+              <option value="UT">Utah</option>
+              <option value="VT">Vermont</option>
+              <option value="VA">Virginia</option>
+              <option value="WA">Washington</option>
+              <option value="WV">West Virginia</option>
+              <option value="WI">Wisconsin</option>
+              <option value="WY">Wyoming</option>
+              <option value="DC">District of Columbia</option>
+              <option value="AS">American Samoa</option>
+              <option value="GU">Guam</option>
+              <option value="MP">Northern Mariana Islands</option>
+              <option value="PR">Puerto Rico</option>
+              <option value="VI">Virgin Islands</option>
+              <option value="UM">United States Minor Outly</option>
+              <option value="AE">Armed Forces Europe</option>
+              <option value="AA">Armed Forces Americas</option>
+              <option value="AP">Armed Forces Pacific</option>
+						</select>
+					</div>
+					<div id="container_EMAIL"><input type="email" placeholder="Enter your email address" name="Email" id="control_EMAIL" label="Email" class="form-control" required="required"></div>
+					<input type="submit" value="Sign up" class="btn btn-secondary form-control" onclick="ga('send', 'event', { eventCategory: 'Newsletter', eventAction: 'Signup', eventLabel: 'Shabat Shalom', eventValue: 10});">
+					<input type="hidden" name="formSourceName" value="StandardForm">
+          <input type="hidden" value="Article Side" id="collectionName" name="Collection Name">
+					<input type="hidden" name="sp_exp" value="yes">
+				</form>
+			</div><!-- .shabat-shalom -->
+				<div class="adunit" data-adunit="second-263x180" data-dimensions="263x180"></div>
+	<div id="rss-3" class="panel panel-dark widget widget_rss"><div class="panel-heading"><h3 class="widget-title"><a class="rsswidget" href="http://www.ou.org/news/feed/"><img style="border:0" width="14" height="14" src="https://www.ou.org/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="https://www.ou.org/">Recent Articles</a></h3></div><div class="panel-body"><ul><li><a class="rsswidget" href="https://www.ou.org/news/ou-jlic-winter-beit-midrash/">Semester is Done But Learning Doesn’t Have to be: OU-JLIC Beit Midrash Opens for Winter Break, January 4-8, in New York</a> <span class="rss-date">December 18, 2014</span></li><li><a class="rsswidget" href="https://www.ou.org/news/women-to-women/">Women to Women: Uniting to Change the World</a> <span class="rss-date">December 18, 2014</span></li><li><a class="rsswidget" href="https://www.ou.org/news/ou-yachad-applaud-able-act-passage/">“ABLE Act” Approved by U.S. Senate by a Vote of 76-17; Orthodox Union, Yachad Applaud Passage</a> <span class="rss-date">December 17, 2014</span></li><li><a class="rsswidget" href="https://www.ou.org/news/alan-gross-release/">Orthodox Union Statement on Release of Alan Gross</a> <span class="rss-date">December 17, 2014</span></li><li><a class="rsswidget" href="https://www.ou.org/news/yachad-new-summer-programs-at-yavneh-and-moshava/">Yachad Announces New Summer Programs in New Hampshire &amp; Toronto Area for 2015</a> <span class="rss-date">December 16, 2014</span></li><li><a class="rsswidget" href="https://www.ou.org/news/us-supreme-court-decision-permitting-religious-discrimination-hiring-process/">OU Urges US Supreme Court to Overturn Decision Permitting Religious Discrimination in Hiring Process</a> <span class="rss-date">December 11, 2014</span></li><li><a class="rsswidget" href="https://www.ou.org/news/letters-from-mir/">“Letters from Mir: A Torah World in the Shadow of the Shoah” now available from OUPress</a> <span class="rss-date">December 10, 2014</span></li><li><a class="rsswidget" href="https://www.ou.org/news/media-advisory-ou-chief-fagin-available-to-comment-on-crown-heights-attack/">Media Advisory: OU Chief A. Fagin Available to Comment on Attack at Chabad-Lubavitch Synagogue this Morning</a> <span class="rss-date">December 9, 2014</span></li><li><a class="rsswidget" href="https://www.ou.org/news/chanukah-fire-safety-month/">Orthodox Union Names December “OU Fire Safety Month” in Time for Chanukah</a> <span class="rss-date">December 4, 2014</span></li><li><a class="rsswidget" href="https://www.ou.org/news/west-coast-torah-convention-2014/">OU West Coast Torah Convention: Bringing Light to a Darkened World, December 11-14 in Los Angeles</a> <span class="rss-date">December 3, 2014</span></li></ul></div></div>		<div class="adunit" data-adunit="third-263x180" data-dimensions="263x180"></div>
+		</aside>
+	<!-- /#sidebar -->
+
+	
+
+
 </div>
-<footer>
-</footer>
-</article>
 </div>
-<aside class="sidebar col-md-3 col-md-offset-1" role="complementary">
-</aside>
-</div>
-</div>
-</div>
-<div class="footer-social-wrapper hidden-print">
-<div class="container">
-<div class="row">
-<div class="col-md-8">
-<div class="row tweets-container">
-<div class="col-sm-6">
-<a href="https://twitter.com/NDiament" class="title" rel="nofollow">
-@NDiament	</a>
-<p class="content">
-RT @GilStudent: In the Morning in the East, In the Evening in the&nbsp;West http://t.co/tOgjjw9dNY
-</p>
-</div>
-<div class="col-sm-6">
-<a href="https://twitter.com/Spirovest" class="title" rel="nofollow">
-@Spirovest	</a>
-<p class="content">
-RT @OU_Torah: Tonight we count day 20 - that's two weeks and six days! (That means 29 to go, but don't count that!) #areyoustillinit?
-</p>
-</div>
-</div>
-<div class="row">
-<div class="col-md-12 social-medias  hidden-print">
-Join the OU conversation today!
-<a href="/social_media"><span><i class="fa fa-twitter"></i></span></a>
-<a href="/social_media"><span><i class="fa fa-facebook"></i></span></a>
-<a href="/social_media"><span><i class="fa fa-google-plus"></i></span></a>
-<a href="/social_media"><span><i class="fa fa-youtube"></i></span></a>
-<a href="/social_media"><span><i class="fa fa-instagram"></i></span></a>
-</div>
-</div>
-</div>
-<div class="col-md-4 newsletter">
-<span class="title">Meddling Mother-in-Law, Bias Against Black-Hats, Gluten-Free Passover - Shabbat Shalom from the OU</span>
-<p>Sign up for the Shabbat Shalom newsletter and more!</p>
-<a href="/newsletters/" class="btn btn-secondary">Learn More</a>
-</div>
-</div>
-</div>
+
+
+</div><!-- #bd -->
+<div class="footer-social-wrapper hidden-print hidden-xs">
+	<div class="container">
+	
+
+
+		<div class="row">
+		
+			<div class="col-md-8">
+				<div class="row tweets-container">
+				                        <div class="col-sm-6">
+                            <a href="https://twitter.com/NCSY" class="title" rel="nofollow">
+                                @NCSY                            </a>
+                            <p class="content">
+                                No plans for Thursday night? Now you do. Stamford Hilton, 7:30pm. RSVP to debbiestone@ncsy.org #siyum #finalcountdown http://t.co/5YO1PE0e7M 
+                            </p>
+                        </div>
+                                                <div class="col-sm-6">
+                            <a href="https://twitter.com/ViralChic" class="title" rel="nofollow">
+                                @ViralChic                            </a>
+                            <p class="content">
+                                @IFSTaglitBRI Young Cypher x MurdockHD x Torrion "Only Freestyle" #MusicMonday #HipHip - [Hot Record!] http://t.co/3Q2UUy6U6N 
+                            </p>
+                        </div>
+                        				</div>
+				
+				<div class="row">
+					<div class="col-md-12 social-medias  hidden-print">
+						Join the OU conversation today!
+						<a href="/social_media"><span><i class="fa fa-twitter"></i></span></a>
+						<a href="/social_media"><span><i class="fa fa-facebook"></i></span></a>
+						<a href="/social_media"><span><i class="fa fa-google-plus"></i></span></a>
+						<a href="/social_media"><span><i class="fa fa-youtube"></i></span></a>
+						<a href="/social_media"><span><i class="fa fa-instagram"></i></span></a>
+					</div>
+				</div>
+			</div>
+			
+			<div class="col-md-4 newsletter">
+				<span class="title">Ethics of Slavery, Ignoring Our Elders, Trip to Thailand - Shabbat Shalom from the OU</span>
+				<p>Sign up for the Shabbat Shalom newsletter and more!</p>
+				<a href="/newsletters/" class="btn btn-secondary">Learn More</a>
+			</div>
+			
+		</div>
+		
+		
+	</div>
 </div>
 <footer id="ft">
-<div class="container" itemscope="" itemtype="http://schema.org/Organization">
-<div class="row">
-<div class="col-md-2 col-sm-3 footer-logo-container">
-<a href="http://ou.org/"><img itemprop="logo" class="logo img-responsive" src="http://www.ou.org/content/themes/ou-theme/assets/img/ou.logo_white.png.pagespeed.ce.cnpvM4eOE_.png" alt="Orthodox Union"></a>
-<small>
-© 2014 <span itemprop="name">Orthodox Union</span> <br>
-<meta itemprop="description" content="The Orthodox Union is the world's largest Jewish resource, working to enhance, enrich and empower the Jewish experience.">
-All Rights Reserved. <br>
-<a href="/privacy-policy">Privacy Policy</a> <br>
-</small>
-</div>
-<div class="col-sm-9 col-md-offset-1 hidden-print">
-<div class="footer-links footer-site-links">
-<a href="http://www.ou.org">Home</a>
-<a href="http://www.oukosher.org" title="OU Kosher certifies over 500,000 products in 83 countries, making it the undisputed world leader in kosher certification.">Kosher</a>
-<a href="/holidays/">Holidays</a>
-<a href="/life/">Life</a>
-<a href="/about/">About</a>
-<a href="/synagogue-finder/" title="The OU Synagogue Services Department helps over 400 synagogues reach new levels of inspiration and achievement.">Synagogues</a>
-<a href="/ou-lay-leadership-national-officers/">OU Leadership</a>
-<a href="/contact/">Contact</a>
-<a href="/news/">Media</a>
-</div>
-<div class="footer-links footer-department-links">
-<strong>Our Programs:</strong>
-<a href="http://ncsy.org/" title="NCSY instills a passion for Judaism in 35,000 teens each year in 40 states and over 200 cities in the US, Israel, Canada, Chile, and Argentina.">NCSY/Teens</a>
-<a href="http://jliconline.org/" title="On 15 college campuses, the OU's Jewish Learning Initiative on Campus (JLIC) program involves thousands of Jewish students in Torah learning and Jewish life.">JLIC/College Campus</a>
-<a href="http://advocacy.ou.org/" title="OU Advocacy protects and promotes the values of the Orthodox Jewish community in the public square.">Advocacy</a>
-<a href="http://www.ouisrael.org/" title="OU Israel empowers 35,000 Israeli adolescents annually and provides shiurim, tiyulim, Torah Tidbits and a variety of events that attract 60,000 people yearly.">OU Israel</a>
-<a href="http://www.ou.org/oupress" title="OU Press publishes books of Jewish thought and prayer that educate, inspire, enrich and enlighten.">Books</a>
-<a href="http://www.oujobs.org/" title="The OU Job Board changes the lives of thousands with job placement and training.">Job Board</a>
-<a href="http://www.ncsyalumni.org/" title="Alumni Connections fosters a continuing relationship with thousands of NCSY graduates as they take their place in Jewish life.">Alumni</a>
-<a href="http://www.njcd.org/" title="Yachad champions the inclusion of over 5,000 individuals with disabilities in Jewish life.">Disabilities</a>
-<a href="/community/ou-west-coast/" title="West Coast">OU West Coast</a>
-</div>
-<address class="row contact-information">
-<div class="col-md-3" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-<div class="inner">
-<span itemprop="streetAddress">11 Broadway</span><br>
-<span itemprop="addressLocality">New York</span>,
-<span itemprop="addressRegion">NY</span>
-<span itemprop="postalCode">10004</span><br>
-<span itemprop="telephone">212.563.4000</span>
-</div>
-</div>
-<div class="col-md-3">
-<div class="inner">
-<span itemprop="streetAddress">800 Eighth Street N.W.</span><br>
-<span itemprop="addressLocality">Washington</span>,
-<span itemprop="addressRegion">D.C.</span>
-<span itemprop="postalCode">20002</span><br>
-<span itemprop="telephone">202.513.6484</span>
-</div>
-</div>
-<div class="col-md-3">
-<div class="inner">
-<span itemprop="streetAddress">22 Rechov Keren Hayesod</span><br>
-<span itemprop="addressLocality">Jerusalem</span>,
-<span itemprop="postalCode">91370</span><br>
-<span itemprop="telephone">02.560.9100</span>
-</div>
-</div>
-<div class="col-md-3">
-<div class="inner">
-<span itemprop="streetAddress">9831 W. Pico Boulevard</span><br>
-<span itemprop="addressLocality">Los Angeles, CA</span>,
-<span itemprop="postalCode">90035</span><br>
-<span itemprop="telephone">310.229.9000</span>
-</div>
-</div>
-</address>
-</div>
-</div>
-</div>
-</footer>
-<script>resrc={options:{resrcClass:"resrc"}};</script>
-<script>(function(d,t){var r=d.createElement(t),s=d.getElementsByTagName(t)[0];r.src='//use.resrc.it';s.parentNode.insertBefore(r,s)}(document,'script'));</script>
-<script type="text/javascript">//<![CDATA[
-var google_conversion_id=994187515;var google_conversion_label="rq9ACI3x5QcQ-7GI2gM";var google_custom_params=window.google_tag_params;var google_remarketing_only=true;
-//]]></script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994187515/?value=0&amp;label=rq9ACI3x5QcQ-7GI2gM&amp;guid=ON&amp;script=0<http://googleads.g.doubleclick.net/pagead/viewthroughconversion/994187515/?value=0&label=rq9ACI3x5QcQ-7GI2gM&guid=ON&script=0>"/>
-</div>
-</noscript>
-<script type="text/javascript">//<![CDATA[
-var google_conversion_id=1006472116;var google_conversion_label="3KyvCPz1tAgQtJf23wM";var google_custom_params=window.google_tag_params;var google_remarketing_only=true;
-//]]></script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006472116/?value=0&amp;label=3KyvCPz1tAgQtJf23wM&amp;guid=ON&amp;script=0<http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006472116/?value=0&label=3KyvCPz1tAgQtJf23wM&guid=ON&script=0>"/>
-</div>
-</noscript>
-<script type="text/javascript">var axel=Math.random()+"";var a=axel*10000000000000;document.write('<iframe src="http://4351288.fls.doubleclick.net/activityi;src=4351288;type=invmedia;cat=XX3DytVR;ord='+a+'?" width="1" height="1" frameborder="0" style="display:none"></iframe>');</script><iframe src="http://4351288.fls.doubleclick.net/activityi;src=4351288;type=invmedia;cat=XX3DytVR;ord=677280994096.2188?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-<noscript>
-<iframe src="http://4351288.fls.doubleclick.net/activityi;src=4351288;type=invmedia;cat=XX3DytVR;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-</noscript>
-<script type="text/javascript" src="http://www.ou.org/content/themes/ou-theme/assets/js/jquery.glide.min.js,qver=1.pagespeed.jm.rEP-CEjT0m.js"></script>
-<script type="text/javascript" src="http://www.ou.org/vendor/select2/select2.js,qver=3.8.1.pagespeed.jm.RCjNxbLOyj.js"></script>
-<script type="text/javascript">//<![CDATA[
-jQuery(document).ready(function($){$('select.s2').select2();$('.search-callout-btn').on('click','i',function(e){$(this).parent('.search-callout-btn').toggleClass('on');});$(".dropdown-subnav").change(function(){document.location.href=$(this).val();})
-$(".footer-social-wrapper .tweets-container p.content").each(function(index,element){$(element).html(twitterify($(element).text()));});$(".ou-secondary-navbar a").click(function(){var url=$(this).attr("href");_gaq.push(['_trackEvent','Submenu',url]);});});function twitterify(text){var t2=text.replace(/([A-Za-z]+)(:\/\/)([A-Za-z0-9-_]+\.[A-Za-z0-9-_:%&\?\/.=]+)/gi,'<a href="$1$2$3">$1$2$3</a>');t2=t2.replace(/(^|[^\w]+)\@([a-zA-Z0-9_]{1,15}(\/[a-zA-Z0-9-_]+)*)/g,'$1<a href="http://twitter.com/$2">@$2</a>');t2=t2.replace(/(^|[^&\w'"]+)\#([a-zA-Z0-9_]+)/g,'$1<a href="http://search.twitter.com/search?q=%23$2">#$2</a>');return t2;}
-//]]></script>
+  <div class="container" itemscope="" itemtype="http://schema.org/Organization">
 
-</body></html>
+    <div class="row">
+
+      <div class="col-md-2 col-sm-3 footer-logo-container">
+        <a href="http://ou.org/"><img itemprop="logo" class="logo img-responsive" src="https://www.ou.org/content/themes/ou-theme/assets/img/ou.logo_white.png" alt="Orthodox Union"></a>
+        <small>
+          © 2014 <span itemprop="name">Orthodox Union</span> <br>
+            <meta itemprop="description" content="The Orthodox Union is the world's largest Jewish resource, working to enhance, enrich and empower the Jewish experience.">
+
+          All Rights Reserved. <br>
+          <a href="/privacy-policy">Privacy Policy</a> <br>
+        </small>
+      </div>
+
+      <div class="col-sm-9 col-md-offset-1 hidden-print">
+
+      <div class="footer-links footer-site-links">
+        <a href="http://www.ou.org">Home</a>
+        <a href="http://www.oukosher.org" title="OU Kosher certifies over 500,000 products in 83 countries, making it the undisputed world leader in kosher certification.">Kosher</a>
+        <a href="/holidays/">Holidays</a>
+        <a href="/life/">Life</a>
+        <a href="/about/">About</a>
+        <a href="/synagogue-finder/" title="The OU Synagogue Services Department helps over 400 synagogues reach new levels of inspiration and achievement.">Synagogues</a>
+        <a href="/ou-lay-leadership-national-officers/">OU Leadership</a>
+        <a href="/contact/">Contact</a>
+        <a href="/news/">Media</a>
+      </div>
+
+      <div class="footer-links footer-department-links">
+        <strong>Our Programs:</strong>	
+        <a href="http://ncsy.org/" title="NCSY instills a passion for Judaism in 35,000 teens each year in 40 states and over 200 cities in the US, Israel, Canada, Chile, and Argentina.">Teens</a>
+        <a href="http://jliconline.org/" title="On 15 college campuses, the OU's Jewish Learning Initiative on Campus (JLIC) program involves thousands of Jewish students in Torah learning and Jewish life.">College Campus</a>
+        <a href="http://advocacy.ou.org/" title="OU Advocacy protects and promotes the values of the Orthodox Jewish community in the public square.">Advocacy</a>
+        <a href="http://www.ouisrael.org/" title="OU Israel empowers 35,000 Israeli adolescents annually and provides shiurim, tiyulim, Torah Tidbits and a variety of events that attract 60,000 people yearly.">OU Israel</a>
+        <a href="http://www.ou.org/oupress" title="OU Press publishes books of Jewish thought and prayer that educate, inspire, enrich and enlighten.">Books</a>
+        <a href="http://www.oujobs.org/" title="The OU Job Board changes the lives of thousands with job placement and training.">Jobs</a>
+        <a href="http://alumni.ncsy.org/" title="Alumni Connections fosters a continuing relationship with thousands of NCSY graduates as they take their place in Jewish life.">Alumni</a>
+        <a href="http://www.njcd.org/" title="Yachad champions the inclusion of over 5,000 individuals with disabilities in Jewish life.">Special Needs</a>
+        <a href="/community/ou-west-coast/" title="West Coast">OU West Coast</a>
+      </div>
+
+      <address class="row contact-information">
+        <div class="col-md-3" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+          <div class="inner">
+            <span itemprop="streetAddress">11 Broadway</span><br>
+            <span itemprop="addressLocality">New York</span>,
+            <span itemprop="addressRegion">NY</span>
+            <span itemprop="postalCode">10004</span><br>
+            <span itemprop="telephone">212.563.4000</span>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="inner">
+            <span itemprop="streetAddress">820 First Street, NE, Ste. 730</span><br>
+            <span itemprop="addressLocality">Washington</span>,
+            <span itemprop="addressRegion">D.C.</span>
+            <span itemprop="postalCode">20002</span><br>
+            <span itemprop="telephone">202.513.6484</span>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="inner">
+            <span itemprop="streetAddress">22 Rechov Keren Hayesod</span><br>
+            <span itemprop="addressLocality">Jerusalem</span>,
+            <span itemprop="postalCode">91370</span><br>
+            <span itemprop="telephone">02.560.9100</span>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="inner">
+            <span itemprop="streetAddress">9831 W. Pico Boulevard</span><br>
+            <span itemprop="addressLocality">Los Angeles, CA</span>,
+            <span itemprop="postalCode">90035</span><br>
+            <span itemprop="telephone">310.229.9000</span>
+          </div>
+        </div>
+      </address>
+
+      </div>
+
+    </div>
+  </div>
+</footer>
+
+<script>
+(function () {
+    var d = false;
+    var r = document.createElement("script");
+    r.src = "//use.resrc.it/0.9";
+    r.type = "text/javascript";
+    r.async = "true";
+    r.onload = r.onreadystatechange = function () {
+        var rs = this.readyState;
+        if (d || rs && rs != "complete" && rs != "loaded") return;
+        d = true;
+        try {
+            resrc.ready(function () {
+                resrc.configure({
+                    resrcClass: "resrc",
+                    ssl: ('https:' == document.location.protocol) ? true : false
+                }).run();
+            });
+        } catch (e) {}
+    };
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(r, s);
+})();
+</script>
+
+<!-- Google Code for Orthodox Union -->
+<!-- Remarketing tags may not be associated with personally identifiable
+information or placed on pages related to sensitive categories. For
+instructions on adding this tag and more information on the above
+requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 994187515;
+var google_conversion_label = "rq9ACI3x5QcQ-7GI2gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/994187515/?value=0&amp;label=rq9ACI3x5QcQ-7GI2gM&amp;guid=ON&amp;script=0<http://googleads.g.doubleclick.net/pagead/viewthroughconversion/994187515/?value=0&label=rq9ACI3x5QcQ-7GI2gM&guid=ON&script=0>"/>
+  </div>
+</noscript>
+
+<!-- Google Code for Orthodox Union (AW) -->
+<!-- Remarketing tags may not be associated with personally identifiable
+information or placed on pages related to sensitive categories. For
+instructions on adding this tag and more information on the above
+requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1006472116;
+var google_conversion_label = "3KyvCPz1tAgQtJf23wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1006472116/?value=0&amp;label=3KyvCPz1tAgQtJf23wM&amp;guid=ON&amp;script=0<http://googleads.g.doubleclick.net/pagead/viewthroughconversion/1006472116/?value=0&label=3KyvCPz1tAgQtJf23wM&guid=ON&script=0>"/>
+  </div>
+</noscript>
+
+
+<!-- 
+Start of DoubleClick Floodlight Tag: Please do not remove 
+Activity name of this tag: JMG Audience - OU 
+URL of the webpage where the tag is expected to be placed: 
+http://www.thejmg.com/ 
+This tag must be placed between the <body> and </body> tags, as close as 
+possible to the opening tag. 
+Creation Date: 04/08/2014 
+--> 
+<script type="text/javascript"> 
+var axel = Math.random() + ""; 
+var a = axel * 10000000000000; 
+document.write('<iframe src="https://4351288.fls.doubleclick.net/activityi;src=4351288;type=invmedia;cat=XX3DytVR;ord='+ a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>'); 
+</script><iframe src="https://4351288.fls.doubleclick.net/activityi;src=4351288;type=invmedia;cat=XX3DytVR;ord=9347817779279.71?" width="1" height="1" frameborder="0" style="display:none"></iframe> 
+<noscript> 
+<iframe src="https://4351288.fls.doubleclick.net/activityi;src=4351288;type=invmedia;cat=XX3DytVR;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe> 
+</noscript> 
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+
+
+
+<script type="text/javascript" src="https://www.ou.org/../vendor/collectionview/CollectionView.js"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/jquery-outside-events/jquery.ba-outside-events.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ou_search_results_template = "<div id=\"contextMenu\" class=\"dropdown clearfix\">\r\n    <ul class=\"dropdown-menu\" role=\"menu\" aria-labelledby=\"dropdownMenu\" style=\"display:block;position:static;margin-bottom:5px;\">\r\n\t<li data-view=\"noResults\" data-collection=\"results\">\r\n\t\t<a>No results found.<\/a>\r\n\t<\/li>\r\n      <li data-view=\"CollectionView\" data-collection=\"results\" data-options='{\"view\":\"BaseView\"}'>\r\n      \t<a data-bind=\"attr:href(post_url)\">\r\n      <span data-bind=\"post_title\"\/>\r\n  \t\t<\/a>\r\n      <\/li>\r\n    <\/ul>\r\n<\/div>";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.ou.org/content/themes/ou-theme/assets/js/es-searchbar.js"></script>
+<script type="text/javascript" src="https://www.ou.org/content/themes/ou-theme/assets/js/jquery.glide.min.js?ver=1"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/picturefill/picturefill.js"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/picturefill/external/matchmedia.js"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/jquery-waypoints/waypoints.js"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/jquery-waypoints/shortcuts/sticky-elements/waypoints-sticky.js"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/select2/select2.js"></script>
+<script type="text/javascript" src="https://www.ou.org/content/themes/ou-theme/assets/js/script.js?ver=1"></script>
+<script type="text/javascript" src="https://www.ou.org/content/themes/ou-theme/assets/js/imagesloaded.pkgd.min.js?ver=1"></script>
+<script type="text/javascript" src="https://www.ou.org/../vendor/jquery.dfp.js/jquery.dfp.js"></script>
+
+    <script>
+	    jQuery.dfp({
+	        dfpID: '20935622',
+	        enableSingleRequest: false,
+	        collapseEmptyDivs: true
+	    });
+	</script> 
+        
+	
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"39f5db5367","applicationID":"3964541","transactionName":"ZFxaYEBXDEVSWxJYW10WeVdGXw1YHEgHVlE=","queueTime":0,"applicationTime":362,"ttGuid":"","agentToken":"","atts":"SBtZFghNH0s=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
