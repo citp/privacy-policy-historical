@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compconsumer.com privacy policy that was archived on 2014-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140105131315id_/http%3A//www.lotnllc.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compconsumer.com privacy policy that was archived on 2014-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141222175933id_/http%3A//www.lotnllc.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
 # Privacy Policy
 
