@@ -1,50 +1,47 @@
-<!--The following is the downloaded HTML source of the zsl.org privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626221150id_/http%3A//www.zsl.org/zsl-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zsl.org privacy policy that was archived on 2014-12-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141222212843id_/http%3A//www.zsl.org/zsl-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=150865771754179"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-JPGR"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAADUldVGwAHXFlRDgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=150865771754179"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-JPGR"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAADUldVGwAHXFlRDgA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <title>ZSL Privacy Policy | Zoological Society of London (ZSL)</title>
 <meta charset="utf-8">
+<meta name="twitter:site" content="@officialzsl">
+<meta name="twitter:url" content="http://www.zsl.org/">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:url" content="http://www.zsl.org/zsl-privacy-policy">
+<meta property="og:type" content="article">
 <link rel="shortcut icon" href="http://www.zsl.org/sites/default/files/favicon_0.ico" type="image/vnd.microsoft.icon">
 <meta name="google-translate-customization" content="6c66c94167cb50ea-c7ef33fc550ca6ce-g10c4c55a15004982-1d">
-<meta name="twitter:url" content="http://www.zsl.org/">
-<meta name="twitter:site" content="@officialzsl">
-<meta property="og:url" content="http://www.zsl.org/zsl-privacy-policy">
-<meta name="twitter:card" content="summary_large_image">
-<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab">
-<meta name="HandheldFriendly" content="true">
-<link rel="apple-touch-icon-precomposed" href="http://www.zsl.org/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72">
-<link rel="apple-touch-icon-precomposed" href="http://www.zsl.org/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114">
-<link rel="apple-touch-icon-precomposed" href="http://www.zsl.org/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144">
-<link rel="apple-touch-icon-precomposed" href="http://www.zsl.org/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png">
 <meta http-equiv="cleartype" content="on">
+<link rel="apple-touch-icon-precomposed" href="http://www.zsl.org/sites/all/themes/zsl/apple-touch-icon-precomposed.png">
 <meta name="MobileOptimized" content="width">
-<meta property="og:type" content="article">
-<meta property="og:title" content="ZSL Privacy Policy">
-<meta property="og:description" content="This website is owned and run by the Zoological Society of London, registered">
-<meta name="description" content="This website is owned and run by the Zoological Society of London, registered">
- <script type="text/javascript">dataLayer = [{"pageTitle":"ZSL Privacy Policy","pageType":"page","pageValue":"12986","visitorType":"guest","visitorLoginState":"not logged-in"}];</script> <meta http-equiv="x-dns-prefetch-control" content="on">
-<link rel="dns-prefetch" href="//www.zsl.org">
+<meta name="HandheldFriendly" content="true">
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab">
 <meta property="og:site_name" content="Zoological Society of London (ZSL)">
-<meta property="og:image" content="http://www.zsl.org/sites/default/files/image/2014-02/zsl-default-1200x630.gif">
-<link rel="canonical" href="http://www.zsl.org/zsl-privacy-policy">
 <link rel="shortlink" href="http://www.zsl.org/node/12986">
+<meta name="description" content="This website is owned and run by the Zoological Society of London, registered">
+<meta property="og:title" content="ZSL Privacy Policy">
+ <script type="text/javascript">dataLayer = [{"pageTitle":"ZSL Privacy Policy","pageType":"page","pageValue":"12986","visitorType":"guest","visitorLoginState":"not logged-in"}];</script> <link rel="dns-prefetch" href="//www.zsl.org">
+<meta http-equiv="x-dns-prefetch-control" content="on">
+<link rel="canonical" href="http://www.zsl.org/zsl-privacy-policy">
+<meta property="og:description" content="This website is owned and run by the Zoological Society of London, registered">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
 <meta name="twitter:image" content="http://www.zsl.org/sites/default/files/image/2014-02/zsl-default-1200x630.gif">
-<meta name="twitter:title" content="ZSL Privacy Policy">
 <meta name="twitter:description" content="This website is owned and run by the Zoological Society of London, registered">
+<meta property="og:image" content="http://www.zsl.org/sites/default/files/image/2014-02/zsl-default-1200x630.gif">
+<meta name="twitter:title" content="ZSL Privacy Policy">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
 <link type="text/css" rel="stylesheet" href="http://www.zsl.org/sites/default/files/advagg_css/css__6WDTVQ9WT2FO0hvpmGJlk4mMztV0t7Ka29nmdjH2T6U__1uMV11B6EQuQxd-4-JMVf2_xBFZhFIMWX8NG_beZeoQ__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.css" media="all">
 <style>#sliding-popup.sliding-popup-bottom{background:#242424;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff!important;}</style>
 <link type="text/css" rel="stylesheet" href="http://www.zsl.org/sites/default/files/advagg_css/css__N0jDKLuBa1OMEW4_Ab5L5ySyAAmWlOWFx2YmXLEDxTA__XZp3WihpBKGai5kYa81hRzDAViimqF0xBVGsWYukXw8__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.css" media="all">
 <link type="text/css" rel="stylesheet" href="http://www.zsl.org/sites/default/files/advagg_css/css__hcuGxb1u7N7E26GuJ_bqMLYMlHMIiD-thOOuvhieess__ui8CV-Zn8cSq1yWHRDr3jOk4a2zI3VzhhPS4K2eAP6w__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.css" media="(min-width: 1260px)">
-<link type="text/css" rel="stylesheet" href="http://www.zsl.org/sites/default/files/advagg_css/css__7MNLNrKL0LKZN9-2fEn5-tfNdIto21CI3sjOq6ijF90__02LVQyGqZZDSBLYQz5OakORAoOfwyoYK0Og761yMB7M__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.zsl.org/sites/default/files/advagg_css/css__7MNLNrKL0LKZN9-2fEn5-tfNdIto21CI3sjOq6ijF90__yqagGcUfzToSos50izpx0DiL7_sb0JyfJd9swaytYO0__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.css" media="all">
 <style media="screen">#block-icon-tabs-icon-tabs ul.tabs a.menu-item-node--moderation:after{content:"\e6fe"}</style>
 <script src="http://www.zsl.org/sites/default/files/advagg_js/js__YLieI4pqippfQQ8GS66qct8p9emBkcIuHAFW0yOob1I__RngCKnNUyzmWTfP9mjqNXermGemzeeZkKuUw35o4M04__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.js"></script>
 <!--[if (gte IE 6)&(lte IE 8)]>
 <script src="http://www.zsl.org/sites/default/files/advagg_js/js__LKG_biP-4u08uDYxiwy9ADWxNndbId5xINeibbwYSPE__xC5CcJElPXjC_0xTh5ctvMMDuJc_0n_Z37FpZOHeJXI__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.js"></script>
 <![endif]-->
-<script src="http://www.zsl.org/sites/default/files/advagg_js/js__vt-LM5r9mZT6EciuAC66Wr_grI0KPSCxegPg1eBhmjw__nbRZBDFNyblKfu5JpdPtaplUim16i_NvXH5rzbhGezk__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.js"></script>
-<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":1,"popup_clicking_confirmation":1,"popup_html_info":"\n\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EYes, I agree\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, I want to find out more\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide this message\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore information on cookies\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/zsl-privacy-policy","popup_position":0,"popup_language":"en"},"states":{"#edit-query":{"visible":{":input[name=\u0022options[operator]\u0022],dummy-empty":{"!value":"empty"},":input[name=\u0022options[operator]\u0022],dummy-not-empty":{"!value":"not empty"}}},"#edit-site":{"visible":{":input[name=\u0022options[operator]\u0022],dummy-empty":{"!value":"empty"},":input[name=\u0022options[operator]\u0022],dummy-not-empty":{"!value":"not empty"}}}},"field_group":{"link":"explore_carosel","div":"explore_carosel"},"addthis":{"widget_url":"http:\/\/s7.addthis.com\/js\/250\/addthis_widget.js?async=1"},"ajaxPageState":{"js":{"sites\/all\/modules\/contrib\/eu-cookie-compliance\/js\/eu_cookie_compliance.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/chrome-frame\/1\/CFInstall.min.js":1,"sites\/all\/modules\/custom\/zsl_grids\/js\/zsl_grids.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/omega\/omega\/js\/no-js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/libraries\/jquery.bxslider\/jquery.bxslider.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/libraries\/jquery.ui.checkbox\/jquery.ui.checkbox.js":1,"sites\/all\/libraries\/custom-scrollbar-plugin\/js\/uncompressed\/jquery.mCustomScrollbar.js":1,"sites\/all\/libraries\/jquery.selectbox\/js\/jquery.selectbox-0.2.min.js":1,"sites\/all\/libraries\/waypoints\/waypoints.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/1.7\/states.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/color.js":1,"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"sites\/all\/themes\/zsl\/libraries\/html5shiv\/html5shiv.js":1,"sites\/all\/themes\/zsl\/libraries\/html5shiv\/html5shiv-printshiv.js":1,"sites\/all\/themes\/zsl\/libraries\/selectivizr\/selectivizr.min.js":1,"sites\/all\/themes\/zsl\/libraries\/respond\/respond.min.js":1,"sites\/all\/libraries\/fastclick\/fastclick.js":1,"sites\/all\/modules\/contrib\/fastclick_everywhere\/fastclick_everywhere.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/custom\/zsl_internal_links\/js\/zsl_internal_links.js":1,"sites\/all\/modules\/custom\/zsl_blocks\/js\/zsl_blocks.js":1,"sites\/all\/modules\/custom\/zsl_grids\/js\/grids.js":1,"sites\/all\/modules\/features\/zsl_news\/js\/zsl_news.js":1,"sites\/all\/modules\/features\/zsl_promotional_item\/js\/zsl_promotional_item.js":1,"sites\/all\/modules\/custom\/zsl_respond\/js\/smartresize.js":1,"sites\/all\/modules\/custom\/zsl_respond\/js\/zsl_respond.js":1,"sites\/all\/modules\/features\/zsl_search_settings\/js\/zsl_search_settings.js":1,"sites\/all\/modules\/features\/zsl_slideshows\/js\/zsl_slideshows.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/zsl\/js\/zsl.js":1,"sites\/all\/themes\/zsl\/js\/unslider.min.js":1}}});</script>
+<script src="http://www.zsl.org/sites/default/files/advagg_js/js__kpeCuMvMoSiY-p-EujYIvN0-rNyII5sAfMKRIDQxs-s__rwPgLJvA9IPAUl1KMB7tWQVoq_l3hFLBnw0E5_CwrcA__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":1,"popup_clicking_confirmation":1,"popup_html_info":"\n\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EYes, I agree\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENo, I want to find out more\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EHide this message\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EMore information on cookies\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/zsl-privacy-policy","popup_position":0,"popup_language":"en"},"states":{"#edit-query":{"visible":{":input[name=\u0022options[operator]\u0022],dummy-empty":{"!value":"empty"},":input[name=\u0022options[operator]\u0022],dummy-not-empty":{"!value":"not empty"}}},"#edit-site":{"visible":{":input[name=\u0022options[operator]\u0022],dummy-empty":{"!value":"empty"},":input[name=\u0022options[operator]\u0022],dummy-not-empty":{"!value":"not empty"}}}},"field_group":{"link":"explore_carosel","div":"explore_carosel"},"addthis":{"widget_url":"http:\/\/s7.addthis.com\/js\/250\/addthis_widget.js?async=1"},"ajaxPageState":{"js":{"sites\/all\/modules\/contrib\/eu-cookie-compliance\/js\/eu_cookie_compliance.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/chrome-frame\/1\/CFInstall.min.js":1,"sites\/all\/modules\/custom\/zsl_grids\/js\/zsl_grids.js":1,"sites\/all\/modules\/custom\/zsl_gtm\/js\/zsl_gtm.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/omega\/omega\/js\/no-js.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/libraries\/jquery.bxslider\/jquery.bxslider.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/libraries\/jquery.ui.checkbox\/jquery.ui.checkbox.js":1,"sites\/all\/libraries\/custom-scrollbar-plugin\/js\/uncompressed\/jquery.mCustomScrollbar.js":1,"sites\/all\/libraries\/jquery.selectbox\/js\/jquery.selectbox-0.2.min.js":1,"sites\/all\/libraries\/waypoints\/waypoints.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/misc\/1.7\/states.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/contrib\/environment_indicator\/color.js":1,"sites\/all\/modules\/contrib\/addthis\/addthis.js":1,"sites\/all\/themes\/zsl\/libraries\/html5shiv\/html5shiv.js":1,"sites\/all\/themes\/zsl\/libraries\/html5shiv\/html5shiv-printshiv.js":1,"sites\/all\/themes\/zsl\/libraries\/selectivizr\/selectivizr.min.js":1,"sites\/all\/themes\/zsl\/libraries\/respond\/respond.min.js":1,"sites\/all\/libraries\/fastclick\/fastclick.js":1,"sites\/all\/modules\/contrib\/fastclick_everywhere\/fastclick_everywhere.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/modules\/custom\/zsl_internal_links\/js\/zsl_internal_links.js":1,"sites\/all\/modules\/custom\/zsl_blocks\/js\/zsl_blocks.js":1,"sites\/all\/modules\/custom\/zsl_grids\/js\/grids.js":1,"sites\/all\/modules\/features\/zsl_news\/js\/zsl_news.js":1,"sites\/all\/modules\/features\/zsl_promotional_item\/js\/zsl_promotional_item.js":1,"sites\/all\/modules\/custom\/zsl_respond\/js\/smartresize.js":1,"sites\/all\/modules\/custom\/zsl_respond\/js\/zsl_respond.js":1,"sites\/all\/modules\/features\/zsl_search_settings\/js\/zsl_search_settings.js":1,"sites\/all\/modules\/features\/zsl_slideshows\/js\/zsl_slideshows.js":1,"sites\/all\/modules\/features\/zsl_social\/js\/zsl_social.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/zsl\/js\/zsl.js":1,"sites\/all\/themes\/zsl\/js\/unslider.min.js":1}}});</script>
 </head>
 <body class="html not-front not-logged-in page-node page-node- page-node-12986 node-type-page zsl not-superadmin section-zsl-privacy-policy">
  
@@ -56,7 +53,7 @@
       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-JPGR');
+  })(window,document,'script','dataLayer','GTM-JPGR'); //dev: GTM-5FQHPZ, prod GTM-JPGR
   </script>
  
  
@@ -94,7 +91,8 @@ Skip to main content </a>
 <li class="leaf has-children menu-mlid-796"><a href="/zsl-london-zoo" class="london-zoo">ZSL London Zoo</a></li>
 <li class="leaf has-children menu-mlid-797"><a href="/zsl-whipsnade-zoo" class="whipsnade-zoo">ZSL Whipsnade Zoo</a></li>
 <li class="leaf has-children menu-mlid-800"><a href="/science" class="science">Science</a></li>
-<li class="last leaf has-children menu-mlid-799"><a href="/conservation" class="conservation">Conservation</a></li>
+<li class="leaf has-children menu-mlid-799"><a href="/conservation" class="conservation">Conservation</a></li>
+<li class="last leaf menu-mlid-6918"><a href="http://www.zsl.org/shop" class="shop">Shop</a></li>
 </ul></div>
 </nav>
 <div id="block-zsl-social-links-social-links-block" class="block block--zsl-social-links block--zsl-social-links-social-links-block">
@@ -165,14 +163,29 @@ Skip to main content </a>
 <div class="l-region l-region--preface">
 <div id="block-zsl-blocks-promo-area" class="block block--zsl-blocks block--zsl-blocks-promo-area">
 <div class="block__content">
-<div class="view view-header-promotion view-id-header_promotion view-display-id-header_promo_zsl view-dom-id-068bf462a719fd0364bdabb836900bfb">
+<div class="view view-header-promotion view-id-header_promotion view-display-id-header_promo_zsl view-dom-id-7254ce3eb14d844f3df5da960067aee1">
 <div class="view-content">
 <div class="views-row views-row-1 views-row-odd views-row-first views-row-last row-one">
-<div class="ds-2col node node--promotional-item view-mode-header_promotion node--header-promotion node--promotional-item--header-promotion clearfix">
+<div class="ds-2col node node--promotional-item node--promoted view-mode-header_promotion node--header-promotion node--promotional-item--header-promotion clearfix">
 <div class="group-left">
-<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even">ZSL is a charity and needs your support</div></div></div><a href="http://www.zsl.org/support-us/make-a-donation" class="group-link field-group-link"><div class="field field--name-field-link-title field--type-text field--label-hidden"><div class="field__items"><div class="field__item even">donate now</div></div></div></a> </div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden">
+<div class="field__items">
+<div class="field__item even">Don't let the last 400 Asiatic lions disappear</div>
+</div>
+</div>
+<a href="http://www.zsl.org//support-us/lions400" class="group-link field-group-link"><div class="field field--name-field-link-title field--type-text field--label-hidden">
+<div class="field__items">
+<div class="field__item even">Donate today</div>
+</div>
+</div>
+</a> </div>
 <div class="group-right">
-<div class="field field--name-field-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><img src="http://www.zsl.org/sites/default/files/styles/promo_block/public/image/2014-02/Humboldt-Penguin-advert.jpg?itok=XX0juw8l" width="110" height="140" alt="Humboldt Penguin" title="Humboldt Penguin"></div></div></div> </div>
+<div class="field field--name-field-image field--type-image field--label-hidden">
+<div class="field__items">
+<div class="field__item even"><img src="http://www.zsl.org/sites/default/files/styles/promo_block/public/image/2014-10/lions400-logo-advert.jpg?itok=50-jBfcW" width="110" height="140" alt="Lions400 logo" title="Lions400 logo"></div>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -203,8 +216,10 @@ Skip to main content </a>
 <li class="leaf has-children menu-mlid-1817"><a href="/experiences">Experiences</a></li>
 <li class="leaf has-children menu-mlid-1885"><a href="/membership">Membership</a></li>
 <li class="leaf menu-mlid-4854"><a href="http://shop.zsl.org/" target="_blank">Gift shop</a></li>
+<li class="leaf menu-mlid-6240"><a href="/social/all">Social</a></li>
 <li class="leaf has-children menu-mlid-1895"><a href="/vets">Vets</a></li>
-<li class="last leaf menu-mlid-821"><a href="/blogs">Blogs</a></li>
+<li class="leaf menu-mlid-821"><a href="/blogs">Blogs</a></li>
+<li class="last leaf menu-mlid-6361"><a href="/kids">Kids</a></li>
 </ul></div>
 </nav>
 </div>
@@ -229,16 +244,14 @@ Skip to main content </a>
 </div>
 <div class="clear"></div>
 <div class="ds-1col node node--page view-mode-full node--full node--page--full clearfix">
-<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>This website is owned and run by the Zoological Society of London, registered charity number 208728, and its wholly owned trading company Zoo Enterprises Limited company number 01178687 (together being "ZSL"). ZSL are committed to protecting your privacy in accordance with their obligations under the Data Protection Act 1998. This privacy policy explains what information ZSL collects about you and how it will be used. When you access and use this website you agree to be legally bound by all our terms and conditions as well as our privacy policy outlined below.</p>
-<h3>How we collect data about your use of this website</h3>
-<p>ZSL try to ensure that our website offers visitors an enjoyable experience. To help us achieve this goal ZSL and our appointed agency may collect anonymous information about your use of this website and your reading of the newsletter from cookies and or by the use of pixel tags.</p>
-<p>Cookies are small data files that are sent to your browser and pixel tags are used to read such cookies. Most internet browsers automatically accept cookies but you can delete existing cookies from your browser and, by editing your internet browser options, choose not to receive cookies in future. Please note that if you do opt to reject cookies any personalised functionality of this website, for example the shop, will not operate correctly.</p>
-<p>Find out more about the cookies set by the ZSL website and how to delete and control them here:&nbsp;<a href="http://www.zsl.org/cookies-listing.html">Cookie information</a></p>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden">
+<div class="field__items">
+<div class="field__item even"><p>This website is owned and run by the Zoological Society of London, registered charity number 208728, and its wholly owned trading company Zoo Enterprises Limited company number 01178687 (together being "ZSL"). ZSL are committed to protecting your privacy in accordance with their obligations under the Data Protection Act 1998. This privacy policy explains what information ZSL collects about you and how it will be used. When you access and use this website you agree to be legally bound by all our terms and conditions as well as our privacy policy outlined below.</p>
 <h3>Transactions</h3>
 <p>ZSL make every effort to maintain customer confidentiality when securing an online payment. This includes ensuring the security of your credit card details and other personal information. All of your personal information is encrypted as it travels over the internet. When you make a booking, you enter a secure internet site (indicated by the letters https:// in the address bar and or a padlock displayed in your web browser). To protect you against credit card fraud (where someone has discovered your credit card details but do not have your card), you will be asked to enter the unique security code printed on the back of your payment card.</p>
 <h3>What information do we collect?</h3>
-<p>ZSL collect information from you to enable us to provide you with the goods and services you ask for. This may include your name, address, telephone, email address, credit or other payment card details. ZSL do not retain payment card details following completion of a transaction. If any of the information you have provided changes at any time or appears to be incorrect please let ZSL know by sending an email to&nbsp;<a href="mailto:editor@zsl.org">editor@zsl.org</a></p>
-<p>ZSL will use the information you enter into the website only for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails that link to such forms.<br>ZSL may also collect internet protocol addresses to diagnose problems with our servers and for system administration, but ZSL do not link these addresses to any person's name or identity.</p>
+<p>ZSL collect information from you to enable us to provide you with the goods and services you ask for. This may include your name, address, telephone, email address, credit or other payment card details. ZSL does not retain payment card details following completion of a transaction. If any of the information you have provided changes at any time or appears to be incorrect please let ZSL know by sending an email to&nbsp;<a href="mailto:editor@zsl.org">editor@zsl.org</a></p>
+<p>ZSL will use the information you enter into the website only for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails that link to such forms.&nbsp;ZSL may also collect internet protocol addresses to diagnose problems with our servers and for system administration, but ZSL do not link these addresses to any person's name or identity.</p>
 <p>Whenever ZSL ask you for information about yourself you may, by ticking the relevant box, opt out of receiving other communications. In addition, whenever you receive other communications by email you will be told how to opt out of being updated by email in the future. If you choose to opt out of being updated as described above ZSL will cease all such future disclosure of data.</p>
 <p>Please let ZSL know if you want details of the personal information we hold about you by emailing&nbsp;<a href="mailto:editor@zsl.org">editor@zsl.org</a> .</p>
 <p>In no circumstances will ZSL collect any data that is not directly related to the use of this website so, for example, we will not record other sites that you have visited.</p>
@@ -249,21 +262,18 @@ Skip to main content </a>
 <p>ZSL will retain the personal information you provide within the United Kingdom, and will not transfer it to any other country except with your prior and express consent; however the internet is global and it is possible that information you provide to ZSL will be temporarily transferred via a route outside the European Economic Area as it passes between you and this website or a third party provider.</p>
 <h3>Security</h3>
 <p>ZSL is committed to the security of your personal information and we have security procedures in place to protect the loss, misuse or alteration of information under our control.</p>
-<h3>Privacy policy: Cat Map</h3>
-<p>ZSL collect information from you to enable us to provide you with the goods and services you ask for. This may include your name, address and email address.</p>
-<p>Addresses provided for use on Cat Map are randomly offset from the exact location and will not be displayed on the page or used for any other purpose.</p>
-<p>ZSL will use the information you enter into the website only for administration purposes and any other purposes made clear in the data entry forms themselves, in any relevant terms or conditions and on any pages or emails that link to such forms.</p>
-<p>Whenever ZSL ask you for information about yourself you may, by ticking the relevant box, opt out of receiving other communications. In addition, whenever you receive other communications by email you will be told how to opt out of being updated by email in the future. If you choose to opt out of being updated as described above ZSL will cease all such future disclosure of data.</p>
-<p>Please let ZSL know if you want details of the personal information we hold about you by emailing <a href="mailto:editor@zsl.org">editor@zsl.org</a>.</p>
-<p>In no circumstances will ZSL collect any data that is not directly related to the use of this website so, for example, we will not record other sites that you have visited.</p>
-<h3>Copyright and reproduction</h3>
-<p>Each image submitted must be the sole owner of the copyright and must not infringe the rights of any other party.</p>
-<p>The copyright in all images submitted to Cat Map will remain with the copyright holder.</p>
-<p>By uploading an image to Cat Map each user grants to ZSL a non-exclusive irrevocable licence to reproduce, publish and communicate to the public by any means their image(s) and copies of their image(s) in all media throughout the world in relation to Cat Map including but not limited to all use in the context of:</p>
-<ul><li>Inclusion in ZSL magazines and/or similar.</li>
-<li>Inclusion within ZSL’s websites, including within interactive elements associated with the competition and/or exhibition (now known or hereafter created) available for viewing or download from ZSL’s websites.</li>
-<li>Inclusion in promotional, press and marketing materials associated with Cat Map.</li>
-</ul></div></div></div></div>
+<h3>How we collect data about your use of this website</h3>
+<p>ZSL try to ensure that our website offers visitors an enjoyable experience. To help us achieve this goal ZSL and our appointed agencies may collect anonymous information about your use of this website and other digital communications from cookies and or by the use of pixel tags.</p>
+<p>Cookies are small data files that are sent to your browser and pixel tags are used to read such cookies. Most internet browsers automatically accept cookies but you can delete existing cookies from your browser and, by editing your internet browser options, choose not to receive cookies in future. Please note that if you do opt to reject cookies any personalised functionality of this website, for example the shop, will not operate correctly.</p>
+<p>Find out more about the cookies set by the ZSL website and how to delete and control them here:&nbsp;<a href="http://www.zsl.org/cookies-listing.html">Cookie information</a></p>
+<h3>Analytics</h3>
+<p>ZSL uses Google Analytics to collect data about traffic through the ZSL website via&nbsp;Google advertising cookies&nbsp;and&nbsp;anonymous identifiers. In addition to data collected through a standard Google Analytics implementation, &nbsp;ZSL uses the following advertising features: Remarketing with Google Analytics, Google Display Network Impression Reporting, DoubleClick Platform integrations &amp; Google Analytics Demographics and Interest Reporting</p>
+<p>ZSL will not facilitate the merging of personally-identifiable information with non-personally identifiable information collected through any Google advertising product or feature unless there is robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that merger.</p>
+<p>If you wish to opt- out of Google Analytics tracking please visit and install the <a href="https://tools.google.com/dlpage/gaoptout/">Google Analytics Opt-out Browser Add-on</a>.</p>
+</div>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -274,40 +284,186 @@ Skip to main content </a>
 <div id="block-views-explore-carousel-explore-zsl" class="block block--views block--views-explore-carousel-explore-zsl">
 <h2 class="block__title">Explore ZSL</h2>
 <div class="block__content">
-<div class="view view-explore-carousel view-id-explore_carousel view-display-id-explore_zsl view-dom-id-3cd317813d6754e87070356c89791a51">
+<div class="view view-explore-carousel view-id-explore_carousel view-display-id-explore_zsl view-dom-id-02834bbb941ec2d395341172d3b8fb12">
 <div class="view-content">
-<div class="item-list"><ul class="carousel"> <li class="views-row views-row-1 views-row-odd views-row-first"><div class="ds-1col node node--event view-mode-explore_carosel node--explore-carosel node--event--explore-carosel clearfix">
-<div class="field field--name-field-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/whats-on/zsl-abseil"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/image/2014-04/0934_ZSL-Abseil-for-lions.jpg?itok=2Ky0Ngs-" width="620" height="347" alt="Abseil for Lions" title="Abseil for Lions"></a></div></div></div><div id="node_event_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><h3><a href="/whats-on/zsl-abseil">ZSL Abseil</a></h3></div></div></div><div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>Fancy taking the plunge for ZSL by taking part in our...</p></div></div></div></div><div class="field field--name-node-link field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/whats-on/zsl-abseil">Find out more</a></div></div></div></div>
+<div class="item-list"><ul class="carousel"> <li class="views-row views-row-1 views-row-odd views-row-first"><div class="ds-1col node node--conservation-project view-mode-explore_carosel node--explore-carosel node--conservation-project--explore-carosel clearfix">
+<div class="field field--name-field-image field--type-image field--label-hidden">
+<div class="field__items">
+<div class="field__item even"><a href="/support-us/lions400"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/Lions400-main-banner-website.jpg?itok=3CNDwLm5" width="620" height="347" alt="Lions400" title="Lions400"></a></div>
+</div>
+</div>
+<div id="node_conservation_project_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><h3><a href="/support-us/lions400">Lions400</a></h3></div>
+      </div>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><p>Lions400 is ZSL's campaign to secure the future of the...</p></div>
+      </div>
+</div>
+</div><div class="field field--name-node-link field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><a href="/support-us/lions400">Find out more</a></div>
+      </div>
+</div>
+</div>
 
 </li>
-  <li class="views-row views-row-2 views-row-even"><div class="ds-1col node node--conservation-project node--promoted view-mode-explore_carosel node--explore-carosel node--conservation-project--explore-carosel clearfix">
+  <li class="views-row views-row-2 views-row-even"><div class="ds-1col node node--promotional-item node--promoted view-mode-explore_carosel node--explore-carosel node--promotional-item--explore-carosel clearfix">
 
   
-  <div class="field field--name-field-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/zsl-london-zoo/whats-on/zoo-lates-0"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/image/2014-02/zoo-lates-5.jpg?itok=2ONhPS9i" width="620" height="347" alt="Zoo Lates party animals" title="Zoo Lates party animals"></a></div></div></div><div id="node_conservation_project_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><h3><a href="/zsl-london-zoo/whats-on/zoo-lates-0">Zoo Lates</a></h3></div></div></div><div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>Every Friday night in June and July, London Zoo is...</p></div></div></div></div><div class="field field--name-node-link field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/zsl-london-zoo/whats-on/zoo-lates-0">Find out more</a></div></div></div></div>
+  <a href="http://www.zsl.org/kids-zsl" class="group-img-link field-group-link"><div class="field field--name-field-image field--type-image field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/image/2014-08/kidsicon.jpg?itok=zqeJgFIb" width="620" height="347" alt="Kids - featuring baby animals from London and Whipsnade Zoo." title="ZSL Kids"></div>
+      </div>
+</div>
+</a><div id="node_promotional_item_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><h3><a href="http://www.zsl.org/kids-zsl">Kids</a></h3></div>
+      </div>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even">Kids can play and learn with our fun zoo games and...</div>
+      </div>
+</div>
+</div><div class="field field--name-node-link field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><a href="http://www.zsl.org/kids-zsl">Find out more</a></div>
+      </div>
+</div>
+</div>
 
 </li>
   <li class="views-row views-row-3 views-row-odd"><div class="ds-1col node node--promotional-item node--promoted view-mode-explore_carosel node--explore-carosel node--promotional-item--explore-carosel clearfix">
 
   
-  <a href="http://www.zsl.org//conservation/news/edge-birds-surviving-on-a-wing-and-a-prayer" class="group-img-link field-group-link"><div class="field field--name-field-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/image/2014-04/kakapo-edge-birds.jpg?itok=AUQBUVFz" width="620" height="347" alt="Kakapo" title="Kakapo"></div></div></div></a><div id="node_promotional_item_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><h3><a href="http://www.zsl.org//conservation/news/edge-birds-surviving-on-a-wing-and-a-prayer">EDGE Birds: world's most unique...</a></h3></div></div></div><div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even">New study reveals half of the 100 highest ranked EDGE bird...</div></div></div></div><div class="field field--name-node-link field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><a href="http://www.zsl.org//conservation/news/edge-birds-surviving-on-a-wing-and-a-prayer">Find out more</a></div></div></div></div>
+  <a href="http://www.zsl.org/social/all" class="group-img-link field-group-link"><div class="field field--name-field-image field--type-image field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/macaw.jpg?itok=ECrtwC_K" width="620" height="347" alt="Macaws" title="Macaws"></div>
+      </div>
+</div>
+</a><div id="node_promotional_item_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><h3><a href="http://www.zsl.org/social/all">Social news from ZSL</a></h3></div>
+      </div>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even">Catch up on all the news from across ZSL in our great new...</div>
+      </div>
+</div>
+</div><div class="field field--name-node-link field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><a href="http://www.zsl.org/social/all">Find out more</a></div>
+      </div>
+</div>
+</div>
 
 </li>
   <li class="views-row views-row-4 views-row-even"><div class="ds-1col node node--page-sidebar view-mode-explore_carosel node--explore-carosel node--page-sidebar--explore-carosel clearfix">
 
   
-  <div class="field field--name-field-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/corporate-partnership/corporate-partnerships/insure-your-pet-with-petplan-and-help-support-zsl"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/image/2014-03/kitten-petplan.jpg?itok=Q-Y-keRJ" width="620" height="347" alt="Petplan - Kitten" title="Petplan - Kitten"></a></div></div></div><div id="node_page_sidebar_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><h3><a href="/corporate-partnership/corporate-partnerships/insure-your-pet-with-petplan-and-help-support-zsl">Insure your pet with Petplan and...</a></h3></div></div></div><div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>Petplan is the UK’s No.1 pet insurer, providing...</p></div></div></div></div><div class="field field--name-node-link field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/corporate-partnership/corporate-partnerships/insure-your-pet-with-petplan-and-help-support-zsl">Find out more</a></div></div></div></div>
+  <div class="field field--name-field-image field--type-image field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><a href="/corporate-partnership/corporate-partnerships/insure-your-pet-with-petplan-and-help-support-zsl"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/image/2014-03/kitten-petplan.jpg?itok=Q-Y-keRJ" width="620" height="347" alt="Petplan - Kitten" title="Petplan - Kitten"></a></div>
+      </div>
+</div>
+<div id="node_page_sidebar_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><h3><a href="/corporate-partnership/corporate-partnerships/insure-your-pet-with-petplan-and-help-support-zsl">Insure your pet with Petplan and...</a></h3></div>
+      </div>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><p>Petplan is the UK’s No.1 pet insurer, providing...</p></div>
+      </div>
+</div>
+</div><div class="field field--name-node-link field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><a href="/corporate-partnership/corporate-partnerships/insure-your-pet-with-petplan-and-help-support-zsl">Find out more</a></div>
+      </div>
+</div>
+</div>
 
 </li>
   <li class="views-row views-row-5 views-row-odd"><div class="ds-1col node node--page-sidebar view-mode-explore_carosel node--explore-carosel node--page-sidebar--explore-carosel clearfix">
 
   
-  <div class="field field--name-field-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/adopt-an-animal"><img src="/sites/default/files/styles/leader/public/image/2014-01/Ricky%20the%20penguin%2001?itok=jTSREyam" width="620" height="347" alt="Ricky the penguin at ZSL London Zoo." title="Ricky the penguin at ZSL London Zoo."></a></div></div></div><div id="node_page_sidebar_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><h3><a href="/adopt-an-animal">Adopt an animal</a></h3></div></div></div><div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>An animal adoption makes a unique gift idea for yourself...</p></div></div></div></div><div class="field field--name-node-link field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/adopt-an-animal">Find out more</a></div></div></div></div>
+  <div class="field field--name-field-image field--type-image field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><a href="/events/venue-hire-at-zsl-london-zoo"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/image/2014-01/mappin-01.jpg?itok=xMgoHHMD" width="620" height="347" alt="A wedding/ party at Mappin Pavilion, demonstrating venue hire. " title="Mappin Pavilion"></a></div>
+      </div>
+</div>
+<div id="node_page_sidebar_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><h3><a href="/events/venue-hire-at-zsl-london-zoo">Venue Hire at ZSL London Zoo</a></h3></div>
+      </div>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><p>ZSL London Zoo provides a unique setting for any style...</p></div>
+      </div>
+</div>
+</div><div class="field field--name-node-link field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><a href="/events/venue-hire-at-zsl-london-zoo">Find out more</a></div>
+      </div>
+</div>
+</div>
 
 </li>
-  <li class="views-row views-row-6 views-row-even views-row-last"><div class="ds-1col node node--page-sidebar view-mode-explore_carosel node--explore-carosel node--page-sidebar--explore-carosel clearfix">
+  <li class="views-row views-row-6 views-row-even"><div class="ds-1col node node--page-sidebar view-mode-explore_carosel node--explore-carosel node--page-sidebar--explore-carosel clearfix">
 
   
-  <div class="field field--name-field-image field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/events/venue-hire-at-zsl-london-zoo"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/image/2014-01/mappin-01.jpg?itok=xMgoHHMD" width="620" height="347" alt="A wedding/ party at Mappin Pavilion, demonstrating venue hire. " title="Mappin Pavilion"></a></div></div></div><div id="node_page_sidebar_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><h3><a href="/events/venue-hire-at-zsl-london-zoo">Venue Hire at ZSL London Zoo</a></h3></div></div></div><div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>ZSL London Zoo provides a unique setting for any style...</p></div></div></div></div><div class="field field--name-node-link field--type-ds field--label-hidden"><div class="field__items"><div class="field__item even"><a href="/events/venue-hire-at-zsl-london-zoo">Find out more</a></div></div></div></div>
+  <div class="field field--name-field-image field--type-image field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><a href="/adopt-an-animal"><img src="/sites/default/files/styles/leader/public/image/2014-01/Ricky%20the%20penguin%2001?itok=jTSREyam" width="620" height="347" alt="Ricky the penguin at ZSL London Zoo." title="Ricky the penguin at ZSL London Zoo."></a></div>
+      </div>
+</div>
+<div id="node_page_sidebar_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><h3><a href="/adopt-an-animal">Adopt an animal</a></h3></div>
+      </div>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><p>An animal adoption makes a unique gift idea for yourself...</p></div>
+      </div>
+</div>
+</div><div class="field field--name-node-link field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><a href="/adopt-an-animal">Find out more</a></div>
+      </div>
+</div>
+</div>
+
+</li>
+  <li class="views-row views-row-7 views-row-odd views-row-last"><div class="ds-1col node node--promotional-item node--promoted view-mode-explore_carosel node--explore-carosel node--promotional-item--explore-carosel clearfix">
+
+  
+  <a href="http://www.zsl.org//conservation/news/edge-birds-surviving-on-a-wing-and-a-prayer" class="group-img-link field-group-link"><div class="field field--name-field-image field--type-image field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><img src="http://www.zsl.org/sites/default/files/styles/leader/public/image/2014-04/kakapo-edge-birds.jpg?itok=AUQBUVFz" width="620" height="347" alt="Kakapo" title="Kakapo"></div>
+      </div>
+</div>
+</a><div id="node_promotional_item_explore_carosel_group_text" class="group-text field-group-div"><div class="field field--name-title field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><h3><a href="http://www.zsl.org//conservation/news/edge-birds-surviving-on-a-wing-and-a-prayer">EDGE Birds: world's most unique...</a></h3></div>
+      </div>
+</div>
+<div class="field field--name-body field--type-text-with-summary field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even">New study reveals half of the 100 highest ranked EDGE bird...</div>
+      </div>
+</div>
+</div><div class="field field--name-node-link field--type-ds field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><a href="http://www.zsl.org//conservation/news/edge-birds-surviving-on-a-wing-and-a-prayer">Find out more</a></div>
+      </div>
+</div>
+</div>
 
 </li>
 </ul></div>    </div>
@@ -336,13 +492,18 @@ Skip to main content </a>
   <div class="panel-2col-right">
     <div class="panel-panel panel-col-first">
       <div class="inside">
-        <div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even"><p>Latest news and offers from ZSL direct to your inbox!</p>
+        <div class="field field--name-body field--type-text-with-summary field--label-hidden">
+    <div class="field__items">
+          <div class="field__item even"><p>Latest news and offers from ZSL direct to your inbox!</p>
 <ul><li>The latest news from our zoos</li>
 <li>Animal birth announcements</li>
 <li>Special offers</li>
 <li>Information on special events</li>
 </ul><p><a class="link-small" href="/get-the-zsl-email-newsletter">Get the Newsletter</a></p>
-</div></div></div>      </div>
+</div>
+      </div>
+</div>
+      </div>
     </div>
 
     <div class="panel-panel panel-col-last">
@@ -372,6 +533,7 @@ Skip to main content </a>
     
   <div class="menu-block-wrapper menu-block-3 menu-name-menu-site-information parent-mlid-0 menu-level-1">
   <ul class="menu"><li class="first leaf menu-mlid-1107"><div class="nolink">Site Information</div></li>
+<li class="leaf menu-mlid-6266"><a href="/zsl-complaint-policy">Complaint Policy</a></li>
 <li class="leaf menu-mlid-1108"><a href="/about-us/contact-us">Contact Us</a></li>
 <li class="leaf menu-mlid-5118"><a href="/zsl-cookie-information">Cookie Information</a></li>
 <li class="leaf active-trail active menu-mlid-1114"><a href="/zsl-privacy-policy" class="active-trail active">Privacy Policy</a></li>
@@ -426,8 +588,8 @@ var addthis_share = {"templates":{"twitter":"{{title}} {{url}} via @AddThis"}}</
 <!--[if lte IE 7]>
 <script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"});})</script>
 <![endif]-->
-<script src="http://www.zsl.org/sites/default/files/advagg_js/js__FZv70mgLsqhAZb-QK3fpS5Es9bybo0H5E_cOeaeGiE8__mZHmnwN-NdXkxy4BIfU64xdzD1g4DX_zsKKzzSsFW6w__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"25256503fc","applicationID":"3788391","transactionName":"M1FRMRZUChUCW0BZDAobcgYQXAsITEhVVwY7WVILBVIBFDxWW1QGO0JaABNqFAcEXQ==","queueTime":0,"applicationTime":699,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script src="http://www.zsl.org/sites/default/files/advagg_js/js__O03z69-hsgsIdvMP234zBx0CVj3K4m7aS9_vxjtrQos__zZkZplKVkJRRoEe7I8SI2qkVBLDy5mCPT30zY0N2O-Y__fuaSwME_XtwsiwlzRQ_u2UYxU1ng47lk67Yb5VQaHy4.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"25256503fc","applicationID":"3788391","transactionName":"M1FRMRZUChUCW0BZDAobcgYQXAsITEhVVwY7WVILBVIBFDxWW1QGO0JaABNqFAcEXQ==","queueTime":0,"applicationTime":790,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
