@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pangeamedia.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331004026id_/http%3A//www.snapapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pangeamedia.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy) for the most accurate reproduction.*
 
 # SnapApp Privacy Policy | SnapApp
 
-Last Updated June 5, 2013
+Last Updated June 1, 2014
 
-Your privacy is important to SnapApp LLC (SnapApp). This Privacy Policy applies to the SnapApp website and software platform. Information collection, use and protection of personally identifiable information, including but not limited to name, gender, postal address, email address, phone, and birthdate ("PII") and the choices you have concerning PII are described in this policy. By using the SnapApp website and software platform you consent to the practices described in this policy. SnapApp is located at 85 Main Street, Suite 200, Watertown, MA 02472. 
+Your privacy is important to SnapApp LLC (SnapApp). This Privacy Policy applies to the SnapApp website and software platform. Information collection, use and protection of personally identifiable information, including but not limited to name, gender, postal address, email address, phone, and birthdate ("PII") and the choices you have concerning PII are described in this policy. By using the SnapApp website and software platform you consent to the practices described in this policy. SnapApp is located at 55 Chapel Street, Suite 10, Newton, MA 02458. 
 
 Via our software platform, SnapApp provides technology and services to our customers that enable them to engage with end users through the creation and deployment of Applications. If we collect information (including PII) through our Applications on behalf of a customer, we may store and process that information for the customer. SnapApp has no direct relationship with the individuals whose data it processes in this way and this Privacy Policy does not apply to the collection of information through our Applications on behalf of customers. To learn how a SnapApp customer (the data controller) uses the information it collects in this way, please see its privacy policy. To access data controlled by our customers please contact them directly. 
 
@@ -13,12 +13,12 @@ We regularly review our compliance with this Policy. SnapApp may edit this Polic
   
 
 
-  * [I. Collected Information](https://web.archive.org/web/20140331004026id_/http%3A//www.snapapp.com/privacy#collected_information)
-  * [II. Use Of Collected Information](https://web.archive.org/web/20140331004026id_/http%3A//www.snapapp.com/privacy#use_of_collected_information)
-  * [III. Information Sharing and Disclosure](https://web.archive.org/web/20140331004026id_/http%3A//www.snapapp.com/privacy#information_sharing_and_disclosure)
-  * [IV. Access to Information and Preferences/Opt-Out](https://web.archive.org/web/20140331004026id_/http%3A//www.snapapp.com/privacy#access_to_information)
-  * [V. Security](https://web.archive.org/web/20140331004026id_/http%3A//www.snapapp.com/privacy#security)
-  * [VI. Children](https://web.archive.org/web/20140331004026id_/http%3A//www.snapapp.com/privacy#children)
+  * [I. Collected Information](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#collected_information)
+  * [II. Use Of Collected Information](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#use_of_collected_information)
+  * [III. Information Sharing and Disclosure](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#information_sharing_and_disclosure)
+  * [IV. Access to Information and Preferences/Opt-Out](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#access_to_information)
+  * [V. Security](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#security)
+  * [VI. Children](https://web.archive.org/web/20141223072451id_/http%3A//www.snapapp.com/privacy#children)
 
   
 
