@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the softmoc.com privacy policy that was archived on 2014-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326112944id_/http%3A//www.softmoc.com/us/privacystatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the softmoc.com privacy policy that was archived on 2014-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141223031153id_/http%3A//www.softmoc.com/us/privacystatement.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="description" content="SoftMoc respects your privacy, and we have formal &amp; strict policies in place on how we protect your information.">
+<meta name="description" content="SoftMoc respects your privacy, and we have formal &amp; strict policies in place on how we protect your information. Free Shipping, Free Exchanges &amp; Easy Returns. Over 100 stores across Canada.">
 <title>SoftMoc Privacy Statement | SoftMoc.com</title>
 
 
@@ -19,7 +19,9 @@
 <!--[if IE]>
 <link href="/_css/ie.css" rel="stylesheet" type="text/css">
 <![endif]-->
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/1512.js?439004" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/_js/new-text.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/1512.js?439004" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/_js/jquery-1.9.0.min.js"></script>
+<script type="text/javascript" src="/_mobile-menu/js/jquery.mmenu.min.all.js"></script>
+<script type="text/javascript" src="/_js/new-text.js"></script>
 <script src="/sys/Main.js" type="text/javascript"></script>
 </head>
 <body>
@@ -28,11 +30,14 @@
 
 	<!--Include_Header_1+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
+
+
 	<div id="sub-header">
 		<div id="sub-links">
 			<a href="/us">Home</a>
 		
 			<a href="/us/customerservice.asp">Customer Service</a>
+			<a href="/us/frequentbuyerrewards.asp">My Account Rewards</a>
 			<a id="_lpChatBtn" href="https://server.iad.liveperson.net/hc/65474986/?cmd=file&amp;file=visitorWantsToChat&amp;site=65474986&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Small/2c" target="chat65474986" onclick="lpButtonCTTUrl = 'https://server.iad.liveperson.net/hc/65474986/?cmd=file&amp;file=visitorWantsToChat&amp;site=65474986&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/Small/2c&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); lpButtonCTTUrl = ((typeof(lpMTag)!='undefined' &amp;&amp; typeof(lpMTag.addFirstPartyCookies)!='undefined')?lpMTag.addFirstPartyCookies(lpButtonCTTUrl):lpButtonCTTUrl);window.open(lpButtonCTTUrl,'chat65474986','width=475,height=400,resizable=yes');return false;">Live Help</a>
 
 			
@@ -40,11 +45,17 @@
 				<a href="/us/myfavorites.asp">My Favorites</a>
 			
 			
-			<a href="/us/ordertrackingreal.asp">Order Tracking</a>
+			<a href="/us/ordertrackingreal.asp">Order Tracking</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+			<div style="display:inline;position:absolute;top:4px;"><a href="frequentbuyerrewards.asp"><img style="width:70px;height:46px;vertical-align:middle" src="/img/my-account-reward-logo.png" border="0"></a></div>
+
+
 
 			
-		      <a href="/us/shoppingcart.asp" id="cart-status"><b><font color="#f36800" id="CartHeaderArea" onmouseover="PopMiniCart('','','','')">0 item(s) - View Cart</font></b></a>
+			  <a href="/us/shoppingcart.asp" id="cart-status"><b><font color="#f36800" id="CartHeaderArea" onmouseover="PopMiniCart('','','','')">View Cart</font></b></a>
 			
+
+
 
 		</div>
 	</div>
@@ -53,127 +64,204 @@
   
 	<div id="layout">
 	
-		<!--Include_Header_2+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
-		
-		<div id="header">
+	<!--Include_Header_2+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+	
+	<div id="header">
+		<script language="JavaScript">
+		function ShowHideQuickMyAccountArea()
+		{
+			var Obj=document.getElementById('QuickMyAccountArea');
+			if (Obj.style.display=='none')
+			{
+				document.getElementById('QuickMyAccountBackgroundArea').style.backgroundImage='url(/img/member_icon_NotLoginYet_up.gif)';
+				Obj.style.display='block';
+			}
+			else
+			{
+				document.getElementById('QuickMyAccountBackgroundArea').style.backgroundImage='url(/img/member_icon_NotLoginYet.gif)';
+				Obj.style.display='none';
+			}
+		}
+		function CheckEnterKey(Func,e)
+		{
+			 var key;      
+			 if(window.event)
+				  key = window.event.keyCode; //IE
+			 else
+				  key = e.which; //firefox      
+
+			if (key==13)//enter
+			{
+				if (Func!="")
+					setTimeout(Func,100);
+				return false;
+			}
+			return true;
+		}
+		function myacct_LoginNow()
+		{
+			this.document.myacct_signin_form.submit();
+		}
+		</script>
+	
+		<a href="/us/shipinfo.asp"><div style="background-image:url('/img/freeshipping_us.gif');height: 48px;width: 215px;float: right;text-align: right;padding-top: 10px;position:relative;right: 0px;background-repeat:no-repeat;background-position:center;border:0px solid rgb(0,0,0);position:relative;top:20px;"></div></a>
 			
-			<div id="signin-register">
-				<a href="/us/register"><img src="/img/my-account-title.png" border="0"></a><br>
+
+
+
+		<div id="search" style="width:445px;">
+			<form method="POST" action="SearchR.asp?P=7" name="SearchForm1"> 
+
+
+
+			<a href="/us/shipinfo.asp" style="text-decoration:none;"><span style="font-family:Arial;font-size:16px;font-weight:normal;position:relative;top:-40px;left:0px;z-index:99;text-decoration:none;color:#000000;"><font color="#31659b"><b>FREE</b></font> Shipping - <font color="#31659b"><b>FREE</b></font> Exchanges - <font color="#31659b"><b>EASY</b></font> Returns*</span>
+			</a><a href="/us/shipinfo.asp"><span style="position:relative;top:-29px;left:7px;z-index:99;"><img src="/img/resapp.gif" border="0"></span></a>
+			
+
+	        
+				<div style="position:relative;top:-25px;z-index:99;"><input name="textfield" type="text" id="textfield" onkeypress="return CheckEnterKey('GoQuickSearch()',event);" onfocus="if ((this.value=='SEARCH')||(this.value=='RECHERCHER')){this.value=''}" onblur="if (this.value==''){this.value='SEARCH'};" value="SEARCH" style="width:360px;">
+				<a href="javascript:GoQuickSearch('Y','us','www.softmoc.com',this.document.SearchForm1.textfield.value)"><img src="/img/search_btn.png" alt=" search " name="searchbtn" width="50" height="30" border="0" id="Img1" style="position:relative;z-index:100;"></a></div>
+
+
+
+
 				
-				
-				<a href="/us/memberlogin.asp" style="position:relative;left:-13px;"><img src="/img/signin-off_e.gif" onmouseup="this.src='/img/signin-on_e.gif'" onmousedown="this.src='/img/signin-on_e.gif'" onmouseover="this.src='/img/signin-on_e.gif'" onmouseout="this.src='/img/signin-off_e.gif'" border="0"></a>
-				
-				<a href="/us/register" id="register-link"><nobr>or Register Here</nobr></a>
-			</div>
-			
-			<div id="search">
-				<form method="POST" action="SearchR.asp?P=7" name="SearchForm1"> 
-					<input name="textfield" type="text" id="textfield" onkeypress="return CheckEnterKey('GoQuickSearch()',event);" onfocus="if ((this.value=='SEARCH')||(this.value=='RECHERCHER')){this.value=''}" onblur="if (this.value==''){this.value='SEARCH'}" value="SEARCH">
-					<a href="javascript:GoQuickSearch('Y','us','www.softmoc.com',this.document.SearchForm1.textfield.value)"><img src="/img/search_btn.png" alt=" search " name="searchbtn" width="50" height="30" border="0" id="search_btn" style="position:relative;z-index:100;"></a>
-				</form>
-			</div>
-			
-			<div id="logo-image"><a href="/us"><img src="/img/softmoc_ca_logo_blank.png" alt=" SoftMoc Logo - Home " width="205" height="68" border="0" class="logo" style="background-image: url(/img/softmoc_logo_new_us.png);"></a></div>
-			
-		</div>
-		
-		<div id="menu">
-			<ul id="nav">
-				<li style="position:relative;z-index:10;"><a href="#" style="cursor:default;">WOMENS</a>
-					<ul style="width:200px">
-						<li><a href="/us/womens-shoes">Women's Shoe Shop</a></li>
-						
-							<li><a href="/us/womens-shoes/new+arrivals%21">New Arrivals!</a></li>
-						
-							<li><a href="/us/womens-shoes/casual+boots">Casual Boots</a></li>
-						
-							<li><a href="/us/womens-shoes/winter+boots">Winter Boots</a></li>
-						
-							<li><a href="/us/womens-shoes/moccasins+%26+mukluks">Moccasins &amp; Mukluks</a></li>
-						
-							<li><a href="/us/womens-shoes/slippers">Slippers</a></li>
-						
-							<li><a href="/us/womens-shoes/athletic+shoes">Athletic Shoes</a></li>
-						
-							<li><a href="/us/womens-shoes/dress+boots">Dress Boots</a></li>
-						
-							<li><a href="/us/womens-shoes/sandals">Sandals</a></li>
-						
-							<li><a href="/us/womens-shoes/casual+shoes">Casual Shoes</a></li>
-						
-							<li><a href="/us/womens-shoes/rainwear">Rainwear</a></li>
-						
-							<li><a href="/us/womens-shoes/comfort+shoes">Comfort Shoes</a></li>
-						
-							<li><a href="/us/womens-shoes/dress+shoes">Dress Shoes</a></li>
-						
-							<li><a href="/us/womens-shoes/handbags">Handbags</a></li>
-						
-							<li><a href="/us/womens-shoes/accessories">Accessories</a></li>
-						
-							<li><a href="/us/womens-shoes/clogs">Clogs</a></li>
-						
-					</ul>
-				</li>
-				<li style="position:relative;z-index:10;"><a href="#" style="cursor:default;">MENS</a>
-					<ul style="width:200px">
-						<li><a href="/us/mens-shoes">Men's Shoe Shop</a></li>
-						
-							<li><a href="/us/mens-shoes/new+arrivals%21">New Arrivals!</a></li>
-						
-							<li><a href="/us/mens-shoes/casual+boots">Casual Boots</a></li>
-						
-							<li><a href="/us/mens-shoes/winter+boots">Winter Boots</a></li>
-						
-							<li><a href="/us/mens-shoes/moccasins+%26+mukluks">Moccasins &amp; Mukluks</a></li>
-						
-							<li><a href="/us/mens-shoes/slippers">Slippers</a></li>
-						
-							<li><a href="/us/mens-shoes/athletic+shoes">Athletic Shoes</a></li>
-						
-							<li><a href="/us/mens-shoes/sandals">Sandals</a></li>
-						
-							<li><a href="/us/mens-shoes/casual+shoes">Casual Shoes</a></li>
-						
-							<li><a href="/us/mens-shoes/rainwear">Rainwear</a></li>
-						
-							<li><a href="/us/mens-shoes/comfort+shoes">Comfort Shoes</a></li>
-						
-							<li><a href="/us/mens-shoes/dress+shoes">Dress Shoes</a></li>
-						
-							<li><a href="/us/mens-shoes/clogs">Clogs</a></li>
-						
-					</ul>
-				</li>
-				<li style="position:relative;z-index:10;"><a href="#" style="cursor:default;">KIDS</a>
-					<ul style="width:200px">
-						<li><a href="/us/girls-shoes">Girls Shoe Shop</a></li>
-						<li><a href="/us/boys-shoes">Boys Shoe Shop</a></li>
-						<li><a href="/us/baby-shoes">Baby Shoe Shop</a></li>
-					</ul>
-				</li>
-				<li style="position:relative;z-index:10;"><a href="/us/brands">BRANDS</a></li>
-				<li style="position:relative;z-index:10;"><a href="#" style="cursor:default;">CLEARANCE</a>
-					<ul style="width:200px">
-						<li><a href="/us/womens-shoes/clearance">Women's Clearance</a></li>
-						<li><a href="/us/mens-shoes/clearance">Men's Clearance</a></li>
-						<li><a href="/us/girls-shoes/clearance">Girls Clearance</a></li>
-						<li><a href="/us/boys-shoes/clearance">Boys Clearance</a></li>
-						<li><a href="/us/baby-shoes/clearance">Baby Clearance</a></li>
-					</ul>
-				</li>
-				<li style="position:relative;z-index:10;"><a href="/us/handbags">HANDBAGS</a></li>
-			</ul>
-		    <a href="/us/shipinfo.asp" id="free-ship"><img src="/img/free-shipping-en.jpg" border="0"></a>
+			<input type="hidden" name="__ncforminfo" value="hZwJVCsyom03Pp6FZs6jc5xNU-HCHAXChSAaYyvxQ1cBckKHForXOFRaaahz6ki4cGeIjeOAitA8zA35X1ZQ4oexe_S26fRn"></form>
 		</div>
 		
 		
+		<div style="position:relative;top:5px;">
+		<a href="/us"><img src="/img/sm_logo_us.png" border="0"></a><br>
+		<a href="/us"><img src="/img/shoes_for_life.png" border="0" onmouseover="this.src='/img/shoes_for_life-on.png'" onmouseout="this.src='/img/shoes_for_life.png'" onmousedown="this.src='/img/shoes_for_life-on.png'" onmouseup="this.src='/img/shoes_for_life-on.png'"></a><br>
+		</div>
+		
+	</div>
+	
+
+	
+
+
+	<div id="menu">
+		<ul id="nav">
+			<li style="position:relative;z-index:10;"><a href="#" style="cursor:default;">WOMENS</a>
+				<ul style="width:200px">
+					<li><a href="/us/womens-shoes">Women's Shoe Shop</a></li>
+					
+						<li><a href="/us/womens-shoes/new+arrivals%21">New Arrivals!</a></li>
+					
+						<li><a href="/us/womens-shoes/winter+boots">Winter Boots</a></li>
+					
+						<li><a href="/us/womens-shoes/casual+boots">Casual Boots</a></li>
+					
+						<li><a href="/us/womens-shoes/moccasins+%26+mukluks">Moccasins &amp; Mukluks</a></li>
+					
+						<li><a href="/us/womens-shoes/rainwear">Rainwear</a></li>
+					
+						<li><a href="/us/womens-shoes/slippers">Slippers</a></li>
+					
+						<li><a href="/us/womens-shoes/athletic+shoes">Athletic Shoes</a></li>
+					
+						<li><a href="/us/womens-shoes/casual+shoes">Casual Shoes</a></li>
+					
+						<li><a href="/us/womens-shoes/sandals">Sandals</a></li>
+					
+						<li><a href="/us/womens-shoes/dress+boots">Dress Boots</a></li>
+					
+						<li><a href="/us/womens-shoes/dress+shoes">Dress Shoes</a></li>
+					
+						<li><a href="/us/womens-shoes/clogs">Clogs</a></li>
+					
+						<li><a href="/us/womens-shoes/accessories">Accessories</a></li>
+					
+						<li><a href="/us/womens-shoes/shoe+care">Shoe Care</a></li>
+					
+						<li><a href="/us/womens-shoes/handbags">Handbags</a></li>
+					
+				</ul>
+			</li>
+			<li style="position:relative;z-index:10;"><a href="#" style="cursor:default;">MENS</a>
+				<ul style="width:200px">
+					<li><a href="/us/mens-shoes">Men's Shoe Shop</a></li>
+					
+						<li><a href="/us/mens-shoes/new+arrivals%21">New Arrivals!</a></li>
+					
+						<li><a href="/us/mens-shoes/winter+boots">Winter Boots</a></li>
+					
+						<li><a href="/us/mens-shoes/casual+boots">Casual Boots</a></li>
+					
+						<li><a href="/us/mens-shoes/moccasins+%26+mukluks">Moccasins &amp; Mukluks</a></li>
+					
+						<li><a href="/us/mens-shoes/rainwear">Rainwear</a></li>
+					
+						<li><a href="/us/mens-shoes/slippers">Slippers</a></li>
+					
+						<li><a href="/us/mens-shoes/athletic+shoes">Athletic Shoes</a></li>
+					
+						<li><a href="/us/mens-shoes/casual+shoes">Casual Shoes</a></li>
+					
+						<li><a href="/us/mens-shoes/sandals">Sandals</a></li>
+					
+						<li><a href="/us/mens-shoes/dress+shoes">Dress Shoes</a></li>
+					
+						<li><a href="/us/mens-shoes/clogs">Clogs</a></li>
+					
+						<li><a href="/us/mens-shoes/accessories">Accessories</a></li>
+					
+						<li><a href="/us/mens-shoes/shoe+care">Shoe Care</a></li>
+					
+						<li><a href="/us/mens-shoes/handbags">Handbags</a></li>
+					
+				</ul>
+			</li>
+			<li style="position:relative;z-index:10;"><a href="#" style="cursor:default;">KIDS</a>
+				<ul style="width:200px">
+					<li><a href="/us/girls-shoes">Girls Shoe Shop</a></li>
+					<li><a href="/us/boys-shoes">Boys Shoe Shop</a></li>
+					<li><a href="/us/baby-shoes">Baby Shoe Shop</a></li>
+				</ul>
+			</li>
+			<li style="position:relative;z-index:10;"><a href="/us/brands">BRANDS</a></li>
+			<li style="position:relative;z-index:10;"><a href="#" style="cursor:default;">CLEARANCE</a>
+				<ul style="width:200px">
+					<li><a href="/us/womens-shoes/clearance">Women's Clearance</a></li>
+					<li><a href="/us/mens-shoes/clearance">Men's Clearance</a></li>
+					<li><a href="/us/girls-shoes/clearance">Girls Clearance</a></li>
+					<li><a href="/us/boys-shoes/clearance">Boys Clearance</a></li>
+					<li><a href="/us/baby-shoes/clearance">Baby Clearance</a></li>
+				</ul>
+			</li>
+			<li style="position:relative;z-index:10;"><a href="/us/handbags">HANDBAGS</a></li>
+			
+		</ul>
+		    
 		
 			
-		
-		
-		
-		<!--Include_Header_2--------------------------------------------------------------------------------------------------------------------->
+			<div style="background:#336799;height:30px;width: 215px;float: right;border-left:10px solid rgb(255,255,255);position:relative;z-index:1100;">
+				<a href="javascript:ShowHideQuickMyAccountArea()" style="font-family:OpenSansRegular;color:#FFFFFF;font-weight:normal;font-size:11px;text-decoration:none;"><span id="QuickMyAccountBackgroundArea" style="display:block;width:215;height:30;padding-top:7px;padding-left:25px;background-image:url(/img/member_icon_NotLoginYet.gif);background-repeat:no-repeat;">My Account Rewards</span></a>
+				<div id="QuickMyAccountArea" style="display:none;background:#336799;position:relative;top:6px;border-top:1px solid #103c69;">
+			        <form name="myacct_signin_form" id="myacct_signin_form" action="MemberLogin.asp" method="POST" autocomplete="off" style="padding:10px;">
+						<input type="hidden" value="1" name="IsFirstTimeLogin">
+						<input type="hidden" value="" name="XType">
+						<input name="L_MemberLoginName" type="text" style="background-image:url(/img/EmailAddress_TXT.gif);width:187px;height:18px;border:0px;padding:3px;background-color:#FFFFFF;font-family:Arial;font-size:12px;color:#000000;" maxlength="80" value="" autocomplete="off" onkeypress="return CheckEnterKey('this.document.myacct_signin_form.L_MemberLoginPwd.focus()',event);" onfocus="this.style.backgroundImage='url(/img/none.gif)'" onblur="if (this.value==''){this.style.backgroundImage='url(/img/EmailAddress_TXT.gif)'}else{this.style.backgroundImage='url(/img/none.gif)'}"><br>
+						<input name="L_MemberLoginPwd" type="password" style="background-image:url(/img/Password_TXT.gif);margin-top:10px;width:187px;height:18px;border:0px;padding:3px;background-color:#FFFFFF;font-family:Arial;font-size:12px;color:#000000;" value="" autocomplete="off" onkeypress="return CheckEnterKey('myacct_LoginNow()',event);" onfocus="this.style.backgroundImage='url(/img/none.gif)'" onblur="if (this.value==''){this.style.backgroundImage='url(/img/Password_TXT.gif)'}else{this.style.backgroundImage='url(/img/none.gif)'}"><br>
+			            <input type="button" value="LOGIN" onclick="myacct_LoginNow()" name="myacct_signin-button" id="myacct_signin-button" style="width:50px;height:20px;border:0px;padding:0px;background-color:#221f1f;font-family:OpenSansRegular;color:#FFFFFF;font-weight:normal;font-size:11px;text-decoration:none;margin-top:10px;"><br>
+					<input type="hidden" name="__ncforminfo" value="hZwJVCsyom03Pp6FZs6jc5xNU-HCHAXChSAaYyvxQ1da6MHncwksTTbvGsazR2pg2qKzQSI-qinjTA_B2U7eYbk0GOZbgobmlu2y3fLJYMpbOzLFAoBS-w=="></form>
+					
+					<span style="display:block;width:215;height:30;padding-top:5px;padding-bottom:5px;padding-left:0px;border-top:1px solid rgb(16,60,105);padding-left:12px;"><a href="/us/memberforgetpwd.asp" style="font-family:OpenSansRegular;color:#FFFFFF;font-weight:normal;font-size:12px;text-decoration:none;">Forgot Password</a></span>
+					
+					<span style="display:block;width:215;height:30;padding-top:5px;padding-bottom:5px;padding-left:0px;border-top:1px solid rgb(16,60,105);border-bottom:1px solid rgb(16,60,105);padding-left:12px;"><a href="/us/register" style="font-family:OpenSansRegular;color:#FFFFFF;font-weight:normal;font-size:12px;text-decoration:none;">Register. It's Free!</a></span>
+				</div>
+			</div>
+			
+	</div>
+	
+	
+	
+	
+	
+	
+	
+	<!--Include_Header_2--------------------------------------------------------------------------------------------------------------------->
   
 		<div id="title-area">
 			<div id="page-title">
@@ -220,106 +308,105 @@
 		</div>
 				<!--Include_Footer_1+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
-	
-						
 
-
-	 <div class="clear"></div> 
-
-
-		<div id="footer2" style="height:120px;">
-
-
-
-  <a href="/us/shipinfo.asp" id="usafreeshiping">
-
-    <h2>FREE SHIPPING</h2>
-
-    <h3>To Most Destinations</h3>
-
-  </a>
-
-  <div id="joinsoftmoc">
-
-    <h3>Join Club SoftMoc</h3>
-
-Sign up to save 10% off your first purchase today!
-
-    <form action="/us/webcustomerjoin.asp" method="POST" name="XJCSForm" target="_top" id="joinclubform">
-	<script language="JavaScript">
-	function XJCSForm_Submit(Obj)
+<script language="JavaScript">
+function XJCSForm_Submit(Obj)
+{
+	if ((this.document.XJCSForm.Email.value=="")||(this.document.XJCSForm.Email.value=="Enter Your Email Address"))
 	{
-		if ((this.document.XJCSForm.Email.value=="")||(this.document.XJCSForm.Email.value=="Enter Your Email Address"))
-		{
-			alert("Please enter an email address.");
-			return;
-		}
-		this.document.XJCSForm.submit();
+		JoinText.innerHTML="<span class='signuptext-fr'>We are unable to verify this email. Please check the spelling and try again.</span>";
+		return;
 	}
-	</script>
+//		this.document.XJCSForm.submit();
+	JoinText.innerHTML="Please wait.....";
+	CheckEmailBeforeSubmit();
+}
+var JoinClubSoftmoc_EmailTryBefore="";
+function CheckEmailBeforeSubmit()
+{
+	var Country=GetCountryFromURL();
+	var FormInputArray=new Array();
+	var ASPName="/"+Country+"/Server_JoinClubSoftmoc.asp";
+	var CallBackFunctionName="GoSumbitCallBack";
+	var WantGrayOut=false;
+	var WantPleaseWaitPopUp=false;
+	var PleaseWaitPopUp_Width=0;
+	var PleaseWaitPopUp_Height=0;
+	var PleaseWaitPopUp_HTML="";	
+	FormInputArray["Email"]=this.document.XJCSForm.Email.value;
+	if ((JoinClubSoftmoc_EmailTryBefore!="")&&(JoinClubSoftmoc_EmailTryBefore==this.document.XJCSForm.Email.value))
+		FormInputArray["SkipEmailVerify"]="1";
+	JoinClubSoftmoc_EmailTryBefore=this.document.XJCSForm.Email.value;
+
+	ServerCheckingFrame_Exec(ASPName,CallBackFunctionName,FormInputArray,WantGrayOut,WantPleaseWaitPopUp,
+				PleaseWaitPopUp_Width,PleaseWaitPopUp_Height,PleaseWaitPopUp_HTML);	
+}
+function GoSumbitCallBack(IFrameObj)
+{
+	if(IFrameObj.Msg !="")
+		JoinText.innerHTML="<span class='signuptext-fr'>" + IFrameObj.Msg+"</span>";
+	else
+		JoinText.innerHTML="<font color='#00AA00#'>Success! We have added your email to Club SoftMoc!</font>";
+//			this.document.XJCSForm.submit();
+}
+</script>
+
+<script language="javascript" type="text/javascript">
+<!--
+var win=null;
+function NewWindow(mypage,myname,w,h,scroll,pos){
+if(pos=="random"){LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
+if(pos=="center"){LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:100;}
+else if((pos!="center" && pos!="random") || pos==null){LeftPosition=0;TopPosition=20}
+settings='width='+w+',height='+h+',top='+TopPosition+',left='+LeftPosition+',scrollbars='+scroll+',location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no';
+win=window.open(mypage,myname,settings);}
+// -->
+</script>
 
 
-      <table width="200" border="0" cellspacing="0" cellpadding="0">
-
-        <tbody><tr>
-
-          <td>
-			
-						<input type="hidden" name="XCountry" value="USA">
-				
-
-          <input type="hidden" name="GoDo" value="0">
-			<input name="Email" type="text" id="email" onclick="return false;" onkeypress="return CheckEnterKey('EmailJoin()',event);" onfocus="if ((this.value=='Enter Your Email Address')||(this.value=='Entrez votre adresse courriel')){this.value=''}" onblur="if (this.value==''){this.value='Enter Your Email Address'}" value="Enter Your Email Address">
-          </td>
-
-          <td>
-		  <input name="SubmitButton" type="button" value="SUBMIT" id="SubmitButton" onclick="XJCSForm_Submit(this)">
-		  </td>
-
-        </tr>
-
-      </tbody></table>
-
-    </form>
-
-    <p>&nbsp;</p>
-
-  </div>
+<span class="signuptext-fr">
 	
-  <div id="usaorderbyphone">
-
-
-	<img src="/img/phone.gif" height="20"><br>
-    <h2>ORDER BY PHONE</h2>
-    <h3>1-877-763-8662</h3>
-
-
-  </div>
-
-
+		<div class="clear"></div> 
+		<div id="footer2" style="height:120px;">
+			<a href="/us/shipinfo.asp" id="usafreeshiping">
+				<h2>FREE SHIPPING</h2>
+				<h3>To Most Destinations</h3>
+			</a>
+			<div id="joinsoftmoc">
+				<h3>Join Club SoftMoc</h3>
+				<div id="JoinText">Sign up to save 10% off your first purchase today!&nbsp;<a href="/us/joinclubsm.asp" onclick="NewWindow(this.href,'mywin','600','676','no','center');return false" onfocus="this.blur()" style="font-family:Arial;font-size:12px;color:#4c4c4c;">Learn More</a></div>
+				<form action="/us/webcustomerjoin.asp" method="POST" name="XJCSForm" target="_top" id="joinclubform">
+					<table width="200" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td>
+								<input type="hidden" name="XCountry" value="USA">
+								<input type="hidden" name="GoDo" value="0">
+								<input name="Email" type="text" id="email" onclick="return false;" onkeypress="return CheckEnterKey('XJCSForm_Submit()',event);" onfocus="if ((this.value=='Enter Your Email Address')||(this.value=='Entrez votre adresse courriel')){this.value=''}" onblur="if (this.value==''){this.value='Enter Your Email Address'}" value="Enter Your Email Address">
+							</td>
+							<td>
+								<input name="SubmitButton" type="button" value="SUBMIT" id="SubmitButton" onclick="XJCSForm_Submit(this)">
+							</td>
+						</tr>
+					</tbody></table>
+				<input type="hidden" name="__ncforminfo" value="hZwJVCsyom03Pp6FZs6jc5xNU-HCHAXCaYyRjKyG7Mr7s3bZ3golQpoDxP0rijdxjtQSpPqO_pO5RDx6COf4KRo9c-hPAazOQ1TU4VWBHbCjk0haMA7bXLF5NE_Mv7D4"></form>
+				<p>&nbsp;</p>
+			</div>
+			<div id="usaorderbyphone">
+				<img src="/img/phone.gif" height="20"><br>
+				<h2>ORDER BY PHONE</h2>
+				<h3>1-877-763-8662</h3>
+			</div>
+		</div>
+	
+	<!--Include_Footer_1--------------------------------------------------------------------------------------------------------------------->
   
-
-</div>
-
-
-					
-
-
-
-
-
-
-
-
-		<!--Include_Footer_1--------------------------------------------------------------------------------------------------------------------->
-  
-	</div>
+	</span></div>
 		<!--Include_Footer_2+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
 
 
 	
 		<div id="sub-footer">
-		<div class="footerlinks">
+		<div class="footerlinks" style="width:140px;">
 		<ul>
 		<li><a href="/us/locations.asp">Locations</a></li>
 		<li><a href="/us/customerservice.asp">Customer Service</a> </li>
@@ -327,15 +414,15 @@ Sign up to save 10% off your first purchase today!
 		<li><a href="/us/faqs.asp">FAQs</a></li>
 		</ul>
 		</div>
-		<div class="footerlinks">
+		<div class="footerlinks" style="width:200px;">
 		<ul>
-		<li><a href="/us/register">My Account</a></li>
-		<li><a href="/us/myfavorites.asp">My Favorites</a></li>
+		<li><a href="/us/frequentbuyerrewards.asp"><nobr>About My Account Rewards</nobr></a></li>
+		<li><a href="/us/register.asp"><nobr>Register My Account Rewards</nobr></a></li>
 		<li><a href="/us/ordertrackingreal.asp">Order Tracking</a></li>
 		<li><a href="/us/giftcards">Gift Cards</a></li>
 		</ul>
 		</div>
-		<div class="footerlinks">
+		<div class="footerlinks" style="width:150px;">
 		<ul>
 		<li><a href="/us/shoesize.asp">Shoe Size Guide</a></li>
 		<li><a href="/us/shipinfo.asp">Shipping Info</a></li>
@@ -343,33 +430,41 @@ Sign up to save 10% off your first purchase today!
 		<li><a href="/us/securitystatement.asp">Security Statement</a></li>
 		</ul>
 		</div>
-		<div class="footerlinks" style="width:150px;">
+		<div class="footerlinks" style="width:160px;">
 		<ul>
-		<li><a href="/us/securityguarantee.asp">Security Guarantee</a></li>
+	
 		<li><a href="/us/sitemap.asp">Site Map</a></li>
 		<li><a href="/us/gomobilesite.asp">Mobile Site</a></li>
 		<li><a href="/us/giftcardchecking.asp"><nobr>Check Gift Card Balance</nobr></a></li>
-		
+		<li><a href="/us/rate"><nobr>Rate Your Experience</nobr></a></li>
 		</ul>
 		</div>
-		<div class="footerlinks">
+		<div class="footerlinks" style="width:140px;">
 		<ul>
-		<li><a href="/us/rate"><nobr>Rate Your Experience</nobr></a></li>
+		
 		    
+		<li><a href="/us/corporatesales">Corporate Sales</a></li>
+		<li><a href="http://www.ShoesForLife.com" target="_blank">Visit ShoesForLife.com</a></li>
 		    
 			
 			
 		</ul>
 		</div>
 	
+		<div style="height:105px;">
+       </div>
+
+	
 
 
 
 
-		<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.softmoc.COM&amp;lang=en" onclick="NewWindow(this.href,'name','550','450','yes');return false"><img src="/img/verisign.png" alt=" Verisign" name="verisign" width="112" height="65" border="0" id="verisign"></a></div>
-		<div id="copyright">Copyright © 1996 - 2014 SoftMoc™ Inc.  E-Commerce by <a href="http://www.mwfgroupbahamas.com" target="_blank">MWF Group.</a> All rights reserved.</div>
+		<!--<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.softmoc.COM&lang=en"  onclick="NewWindow(this.href,'name','550','450','yes');return false"><img src="/img/verisign.png" alt=" Verisign" name="verisign" width="112" height="65" border="0" id="verisign"></a></div>-->
+		<div id="copyright" style="padding-top:20px;padding-bottom:20px;">Copyright © 1996 - 2014 SoftMoc™ Inc.  E-Commerce by <a href="http://www.mwfgroupbahamas.com" target="_blank">MWF Group.</a> All rights reserved.</div>
 		</div>
+		
 	<!--Include_Footer_2--------------------------------------------------------------------------------------------------------------------->
+
 
 <!-- START OF SmartSource Data Collector TAG -->
 <!-- Copyright (c) 1996-2013 Webtrends Inc.  All rights reserved. -->
@@ -439,7 +534,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
  
   
-
+</div>
 
 
 </body></html>
