@@ -1,101 +1,79 @@
-> *The following text is extracted and transformed from the easiestsystemever.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208063217id_/http%3A//www.easiestsystemever.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easiestsystemever.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223065840id_/http%3A//easiestsystemever.com/privacypolicy) for the most accurate reproduction.*
 
 # Welcome!
 
-**Easiest System Ever** **Privacy Policy**
+**_Updated 7_/2014_**
 
-**Our Commitment to Privacy**
+**PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY BEFORE USING OR ACCESSING ANY PART OF THE** **EASIEST SYSTEM EVER** **WEBSITE OR ITS SERVICES.**
 
-Our Privacy Policy has been developed as an extension of our commitment to combine quality products and services with integrity in dealing with users. The Policy is designed to assist you in the understanding of how we collect, use and protect the personal information provided to us. 
+**I. OVERVIEW**
 
-**What Information Do We Collect?**
+Easiest System Ever, L.L.C. ("ESE," "we," or "us") respects the privacy of users of ESE's websites, including www.easiestsalessystem.com and http://newwebcopycat.com (the "Websites") and other related ESE services (collectively, the "Services"). The following privacy policy (the "Policy") tells you about the information that ESE collects through the Services and how ESE may use or disclose such collected information. 
 
-When you visit our site, we collect two types of information: personal information you actively choose to disclose (“Active Information”) and Use information collected, in a way not visible to you, on an aggregate anonymous basis as you and other users browse our site (“Passive Information”).
+By accessing the Services, continuing to access the Services, or submitting any information through the Services, you are consenting to the information collection and use practices described in this Policy, as modified from time to time by us, as described below. Your use of the Services is also governed by the Terms of Service, which are expressly incorporated into this Policy. 
 
-**1\. Personally Identifiable Information**
+**II. UPDATES**
 
-This refers to information that lets us know specifically about you i.e. profile information.
+ESE reserves the right to make changes to this Policy at any time, and will post any revised Policy on this page. You will know we have changed the Policy when you see a new updated date at the top of this Policy. ESE will not notify the Services' users of any such changes by e-mail or other personal contact. We encourage you to check the date of this Policy whenever you visit the Services so that you will know when you need to review the Policy for modifications. 
 
-**A. Registration**
+**III. INFORMATION COLLECTION**
 
-When you register to become an authorized reseller ofour products or services, we will collect Personally Identifiable Information (such as name, address, email address, and telephone number). This Personally Identifiable Information is securely stored and may be accessed on our website. You are assigned an identification number and select your own password – both are needed to enter the Site and to access your Contact Information.  Please safeguard your password in a secure location as we are not responsible for breaches into the system when access is willingly provided. 
+ESE may collect and store any information you voluntarily submit or upload through the Website or Services, whether through your request for more information, registration, purchase, or otherwise. Such information may include name, email address, billing and payment information, contact information, personal preferences, or any other information submitted by any user through the Services. 
 
-**B. Ordering**
+ESE collects information about how you found ESE, including determining the identity of an individual that referred you to ESE through a hyperlink associated with that individual. 
 
-When you place an order for products or services, we collect Personally Identifiable Information (such as name, contact and billing information, credit card, and other transactional information). We use this information to deliver your order, process payment, and to communicate the status of your order.
+ESE may collect passive information about your visit or use of the Services, including the date and time of your visit, the length of your visit, the specific Website pages, profiles, or feeds you visited, your IP address, the type of web browser and operating system used, and the address of any website that directed you to the Services. ESE may also collect and aggregate usage information related to your use of the Services. 
 
-**C. Credit Card Storage**
+In addition, we may use cookies, web beacons, local shared objects (sometimes called "flash cookies"), or other similar technology in connection with your use of the Services (collectively, "Cookies"). Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Cookies may transmit information about you and your use of the Services, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. You can disable some (but not all) Cookies in your device or browser settings, but doing so may affect your ability to use the services provided through the Services. 
 
-Credit card information collected at registration or for product orders is used only to process payment for the transaction and, generally, is not retained on our Site. However, you may voluntarily elect to securely store multiple credit cards to be used for product orders. 
+ESE does not necessarily take action in response to do-not-track signals or similar mechanisms. Additionally, third-party service providers may collect tracking information even if you have enabled your browser’s do-not-track functionality or utilized a similar do-not-track mechanism. 
 
-**D. Surveys and Promotions**
+**IV. INFORMATION USE PRACTICES**
 
-Occasionally, you may voluntarily provide Personally Identifiable Information to complete surveys and questionnaires or to participate in user polls. We use this information to improve our products and services and to ensure that we’re providing accurate disclosures. We may also use your Personally Identifiable Information to provide you newsletters and other marketing information that coincide with your preferences. You may customize your marketing preferences, or let us know if you do not wish to receive any promotional materials, by adjusting your Subscriptions & Email options on the Site.
+ESE may use the personal information or other information or data collected, individually or in the aggregate, as described above, for any lawful purpose, including such purposes as determining the affiliate or other individual that referred you to ESE, determining your membership in certain MLM companies; determining your eligibility for participation in ESE programs, analyzing and tracking the level or type of user activity on the Website and Services, tracking and analyzing usage trends, personalizing the Services to better reflect your preferences, or enhancing your and other users' use of the Services. ESE may also use your submitted information to contact you, via e-mail, telephone, or otherwise, regarding your request for more information, enrollment with third-party companies, enrollment with ESE, the sale of products offered by ESE or its partners, or regarding your use of the Services or your account. 
 
-**2\. Aggregate Information**
+**V. DISCLOSURE OF INFORMATION**
 
-This refers to information that does not, by itself, identify you as a specific individual. Such information would include the Uniform Resource Locator (“URL”) of the website that referred you to our Site, your Internet Protocol (“IP”) address (a number automatically assigned to your computer whenever you surf the web), your operating system and browser type, and any search terms that you enter on our Site. Our web server aggregates this information in order to monitor the level of activity on our Site, evaluate its effectiveness, and improve the content or our Site in order to make your visit an easy and enjoyable experience.
+In the event you were referred to ESE, directly or indirectly, by an individual or affiliate, ESE will disclose your information to that individual or affiliate. Specifically, ESE will disclose your submitted information, including name, email address, telephone number, and any other information you voluntarily submit through the Service, to the individual associated with the hyperlink that you clicked to access the ESE registration process. ESE is not responsible for the affiliate's use or disclosure of your personal information. ****
 
-We may collect, compile, store, publish, promote, report, or otherwise disclose or use any Aggregate Information, provided that such information does not personally identify you. We do not correlate any Personally Identifiable Information with the Aggregate Information that we collect on our Site. If we do correlate any Aggregate Information to you, it will be protected like any other Personally Identifiable Information under this Privacy Statement.
+ESE may use third-party companies, agents, or contractors to perform services on our behalf. For example, ESE may partner with other companies to personalize our web pages, process credit card transactions, collect debts, analyze or enhance the data collected by the Services (including user's interaction with the Services), or otherwise assist ESE in better serving the Services' users. During the course of providing ESE with these services, these third-parties may have access to your personal and non-personal information. These companies are not permitted to use your personal information except for the purpose of providing the services we request of them. 
 
-**Active Information You Choose to Provide**
+ESE may partner with third-party companies, agents, or contractors in order to offer users joint promotions, advertisements, programs and marketing campaigns in which we believe our users may be interested. These companies are not permitted to use your personal information except for the purpose of participating in the promotional arrangement for which ESE engages them. 
 
-In order to gain use of the site (become a “user”), we require you to disclose the following information: Name, Address and Phone Number ****
+ESE may disclose your personal and non-personal information or other collected data, individually or in the aggregate, as described above, to third-party companies in order to allow such third-parties to better serve their existing customers and to solicit prospective customers. Such third-parties may use the disclosed personal information to make promotional or other offers directly to you, to better understand the company's potential customers and their preferences, or to otherwise personalize or enhance their marketing campaigns. Such third-parties may use the disclosed personal information to contact you by means of email advertising, text/short message services, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, or other means of advertising. By voluntarily using the Services you consent to the disclosure of your collected information for these purposes. 
 
-We use secure socket layer (SSL) encryption to protect the transmission of the information you submit to us when you use our secure online forms. The information you provide to us is stored securely.
+ESE also reserves the right to disclose personal information when we reasonably believe disclosure is required by law, if we reasonably believe disclosure is necessary to establish or exercise legal rights, or in situations involving potential threats to physical safety. 
 
-**Passive Information Collected**
+In the event that ESE is acquired by or merged with a third party, we reserve the right, to sell or otherwise transfer any and all information we have collected from you as part of that transaction and such third party will assume the rights and obligations with respect to that information as described in this Policy. 
 
-**What is a Cookie?**
+**VI. THIRD-PARTY LINKS**
 
-Cookies are a feature of web browser software that allows web servers to recognize the computer used to access a site. They are small pieces of data stored by a user’s browser to simplify subsequent interactions with the site. This makes it easier for a user to move from site to site and to complete transactions over the Internet. Cookies should make your online experience easier and more personalized.
+The Services may contain links to websites not owned or controlled by ESE. ESE does not necessarily review or endorse the content of these linked websites. You should review the terms of service and privacy policies of all websites you visit. 
 
-Our site utilizes cookies to collect information about how our site is used. Passive Information gathered may include the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after visiting our site. If you do not wish to transmit “cookie” information about yourself, you may turn off the cookie function in your web browser. 
+**VII. SECURITY**
 
-Our site’s servers also automatically identify you computer by its Internet Protocol address, which is a unique string of numbers that are assigned to your computer by your Internet Service Provider. The IP address may be used to address problems with our server or to gather broad demographic information about our users. We passively collect your IP Address.
+We use commercially reasonable efforts to protect the information we collect on the Services. Unfortunately, no security system can be guaranteed to be 100% effective. Accordingly, we cannot absolutely guarantee the security of your personal information and cannot assume liability for improper access to it. You are responsible for restricting access to your computer or mobile device through which you access the Services. Users of public or shared computers or unprotected mobile devices should log out at the completion of each visit to our Services. By using the Services, or providing personal information to us through any means, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of these Services. 
 
-**How Do We Use the Information Collected?**
+**VIII. DATA RETENTION**
 
-Broadly speaking, persons we employ directly, or as contractors or agents at our direction use Active Information for purposes of administering our business activities, providing customer support and making available other products or services we think might be of interest to our users. We may use the Active Information or Passive Information you provide to contact you about various changes to our site, new services, features or products we offer. If at any time you do not wish to receive such information, you may “opt-out” of doing so by adjusting your email settings in the back office of the website. 
+ESE may retain the personal and non-personal information or other collected data, individually or in the aggregate, as described above, after you delete your account. However, ESE does not guarantee that any information will continue to be available after such deletion. 
 
-We use Passive Information to gather information about our users and to enhance our site to make it easier, faster and friendlier for users. Additionally, cookies help us better understand the usage pattern of the people that visit our site, which helps us improve our services. Passive Information may result in your viewing of particular advertising based on your user habits.
+**IX. VIEWING AND UPDATING INFORMATION**
 
-**Your Information In Relation to Others We Link To**
+You are responsible for updating and maintaining the accuracy of your personal information that you provide to or through the Services. If you would like to update your contact information, you may do so by visiting your account page on the Website or contacting ESE at the address below. If you believe you have submitted inaccurate information through the Services, and would like ESE to change such information, please contact ESE customer support at _easiestsystemever@gmail.com_
 
-You might be able to access other websites through our site via hyperlinks. When you do so, you are subjecting yourself to their privacy policies and data collection. Please read the privacy policies of those sites to ensure you agree with the terms before using such sites. 
+**X. CONTACT**
 
-**Sharing Information with Advertisers or Other Third Parties**
+If you have questions concerning this privacy policy, please email _easiestsystemever@gmail.com_
 
-We may disclose anonymous information about user habits to advertisers on our site. The parties who perform services for us (credit card processors, merchant bank, Internet Service Provider) may also have access to your information in performing such services. Should we buy or sell assets of our company, another company may need to review our company’s assets, which might include your information, to make business decisions as to whether to acquire such assets.
+Our address is: 
 
-**Sharing Information with the Government or As Otherwise Required by Law**
+Easiest System Ever LLC 
 
-We may be required by subpoena, law or government agency to disclose both Active and Passive Information you have provided to us.
+10945 State Bridge Rd Suite 401-274 
 
-**How Do We Secure Active Information and Passive Information?**
+Alpharetta, GA 30022 
 
-We secure your personal information submitted by you by using reasonable efforts to prevent unauthorized access or disclosure, or accidental loss of Active and Passive Information. Individual postings on this site and other communications to our office via email or standard mail may not be secure unless we advise you that security measures are in place prior to your submission of information. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we respectfully request that you do not send or post sensitive information through these means.
+Telephone: 770-573-4694 
 
-**Accessing and Correcting Your Information**
-
-We take reasonable measures to ensure that any Personally Identifiable Information we collect on our Site is accurate, current, complete, and reliable for its intended use. If you wish to update or otherwise correct Personally Identifiable Information provided to us, you may edit your information online.
-
-**Protecting Your Information**
-
-We acknowledge your trust and are committed to take reasonable steps to protect Personally Identifiable Information provided from loss, misuse, and unauthorized access. We employ physical, electronic, and managerial processes to safeguard and secure your information.
-
-It is your responsibility to safeguard the password you use to access our Site and to promptly advise us if you ever suspect that your password has been compromised. We strongly encourage you to change your password regularly to prevent unauthorized access. Because your identification number and password are specific to you, you acknowledge sole responsibility for any and all use of our Site conducted with your identification number and password.
-
-**Links to Other Websites**
-
-Links to third-party websites may be provided solely for your information and convenience or to provide additional shopping for various other goods and services through our Merchant and Services Partners. If you use these links, you will leave our Site. This Privacy Statement does not cover the information practices of those websites nor do we control their content or privacy policies. We suggest that you carefully review the privacy policies of each site you visit.
-
-**Children’s Privacy Protection**
-
-We take special care to protect the privacy needs of children and encourage parents to be an active participant in their child’s online activities. Our Site does not target and is not intended for children under the age of 18, and we will not knowingly collect Personally Identifiable Information from them. If we discover personal data from a child through our site, we will eliminate that data. You may learn more about protecting children’s privacy online by visiting: http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm.
-
-**Changes to This Statement**
-
-Any updates or changes to the terms of this Privacy Statement will be posted on our Site and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
-
-YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.
+1181389.02 
