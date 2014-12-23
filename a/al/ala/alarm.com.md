@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213093254id_/http%3A//www.alarm.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223230554id_/http%3A//www.alarm.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ If you are visiting our Website from outside the United States, please be aware 
 
 We may change this Policy at any time and from time to time. Any changes to this Policy will be either posted on our Website and/or made available on request. The most recent version of the Policy is reflected by the version date located below. This Policy is not intended to and does not create any contractual or other legal right in or on behalf of any party.
 
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes and (b) the names and addresses of all such third parties. To request the above information, please e-mail us at: [info@alarm.com](mailto:info@alarm.com) or write to us at: Alarm.com Incorporated – Privacy, 8150 Leesburg Pike, Suite #1400, Vienna, VA 22182, USA with a reference to California Disclosure Information.
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, e-mail and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes and (b) the names and addresses of all such third parties. To request the above information, please e-mail us at: [info@alarm.com](mailto:info@alarm.com)  or write to us at: Alarm.com Incorporated – Privacy, 8150 Leesburg Pike, Suite #1400, Vienna, VA 22182, USA with a reference to California Disclosure Information.
 
 If you have any questions, concerns, or suggestions regarding this Privacy Policy contact us at: 
 
