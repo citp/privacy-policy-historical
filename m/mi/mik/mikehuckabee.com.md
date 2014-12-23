@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mikehuckabee.com privacy policy that was archived on 2012-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120510040134id_/http%3A//www.mikehuckabee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikehuckabee.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223051020id_/http%3A//www.mikehuckabee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Home - Mike Huckabee
+# Privacy Policy - Mike Huckabee
 
 Mike Huckabee has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL http://www.mikehuckabee.com.
 
