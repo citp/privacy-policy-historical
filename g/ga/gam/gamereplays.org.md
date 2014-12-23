@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamereplays.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626052601id_/http%3A//www.gamereplays.org/portals.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamereplays.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223195226id_/http%3A//www.gamereplays.org/portals.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # GameReplays.org Privacy Policy - GameReplays.org
 
