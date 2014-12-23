@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernsurvivalblog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625135639id_/http%3A//modernsurvivalblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernsurvivalblog.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194209id_/http%3A//modernsurvivalblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ At ModernSurvivalBlog.com, the privacy of our visitors is of utmost importance. 
 **Log Files**  
 Like many other Web sites, ModernSurvivalBlog.com makes use of log files in an effort to improve the user experience. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. 
 
-**IP addresses, and other such information are not linked to any information that is personally identifiable.**
+**IP addresses, and other such information are NOT linked to any information that is personally identifiable.**
 
    
 **DoubleClick DART Cookie**  
@@ -18,7 +18,7 @@ Google, as a third party vendor, uses cookies to serve ads on ModernSurvivalBlog
 **Cookies**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners may include, but are not limited to, Google and Amazon.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on ModernSurvivalBlog.com sent directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks may use technology to the advertisements and links that appear on ModernSurvivalBlog.com sent directly to your browsers. They may automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 ModernSurvivalBlog.com has no access to, or control over, these cookies that are used by third-party advertisers.
 
