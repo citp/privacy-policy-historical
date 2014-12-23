@@ -1,18 +1,29 @@
-> *The following text is extracted and transformed from the jobcredits.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614162243id_/http%3A//www.fadv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcredits.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223011926id_/http%3A//www.fadv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Online Privacy Policy  **  
 First Advantage has a separate privacy statement that applies to personal information pertaining to an identified or identifiable individual that is received by First Advantage from: (i) the European Union, called the European Union Safe Harbor Privacy Policy, (ii) from Switzerland, called the Switzerland Safe Harbor Privacy Policy, (iii) from Australia and New Zealand, called the Australian and New Zealand Privacy Policy, and (iv) from Japan, called the Japanese Privacy Policy. 
 
-**Canada & Singapore Data Protection Officer**  
-Our Data Protection Officer for Canada and Singapore is **Kerstin Bagus**.
+* * *
 
-To request information or receive help with data protection issues, contact our Data Protection Officer at: 
+**Canada & Singapore Data Protection Officer**  
+Our **Data Protection Officer** for Canada and Singapore is **Kerstin Bagus**.
+
+To request information or receive **help with data protection issues** , contact our Data Protection Officer at: 
 
 Kerstin.Bagus@fadv.com  
 Singapore: +1.678.710.7138 direct: +65 6534 3262  
 Canada: 800.833.7511
+
+**All other requests, including customer and job applicant, help, support or additional information please [visit our contact page](https://web.archive.org/our-company/contact-support.aspx) or call:**
+
+U.S. client support: 800.888.5773  
+APAC client support: +65 6534 3262  
+Canadian client support: 1.800.833.7511  
+EMEA client support: +44 (0) 8448 243 401
+
+* * *
 
 Welcome to First Advantage's Web site. Please carefully read our privacy policy to understand how we will treat the information you provide while visiting this Web site ("Web site"). This policy may change from time to time. Please check the policy each time you use our Web site for the most current information. This policy only applies to this First Advantage Web site; some of First Advantage's subsidiaries and affiliates may maintain their own privacy policies. Please refer to those Web sites for further information. This Web site is not intended for children and we do not knowingly collect any information about children.  
 
@@ -106,16 +117,17 @@ Personal Information Disclosure: United States or Overseas – In connection wit
 
 To obtain additional information about the privacy practices and policies of First Advantage in connection with its preparation and processing of investigative consumer reports, please contact: 
 
-First Advantage Corporation   
-Nicolas Dufour, Chief Regulatory Counsel   
-United States   
-(202) 321-3585  
+First Advantage Corporation  
+Kerstin Bagus  
+Director, Global Regulatory Compliance  
+United States  
++1-678-710-7138  
 privacy@fadv.com
 
 For additional information about privacy or consumer reporting, visit the following Web sites: 
 
 Federal Trade Commission: [www.ftc.gov](http://www.ftc.gov/)   
-Consumer Financial Protection Bureau: http://www.consumerfinance.gov/  
+Consumer Financial Protection Bureau: <http://www.consumerfinance.gov/>  
 Consumer Data Industry Association: [www.cdiaonline.org](http://www.cdiaonline.org/ "www.cdiaonline.org")   
 Experian: [www.experian.com/consumer/credit_education.html](http://www.experian.com/consumer/credit_education.html "www.experian.com/consumer/credit_education.html")  
 Equifax: [https://www.econsumer.equifax.com/consumer/landing.ehtml?^start=&companyName=PSHP1_hpg](https://www.econsumer.equifax.com/consumer/landing.ehtml?%5estart=&companyName=PSHP1_hpg "https://www.econsumer.equifax.com/consumer/landing.ehtml?^start=&companyName=PSHP1_hpg")  
@@ -265,7 +277,7 @@ Location of absconded borrowers 
 
 The scope of this notice covers consumer report data that FADV has obtained on behalf of employers and other businesses by manually or electronically contacting the appropriate sources of the data (court records, references, licensing bureaus, etc.). FADV also performs services related to corporate litigation and investigative services as requested by our clients.  
 
-More information regarding the nature and scope of consumer data inquiries is available by contacting FADV in writing or by e-mail at the addresses listed on the [Contact Us page](https://web.archive.org/contact-us/) or by writing to the contacts listed below.  
+More information regarding the nature and scope of consumer data inquiries is available by contacting FADV in writing or by e-mail at the addresses listed on the [Contact Us page](https://web.archive.org/our-company/contact-support.aspx) or by writing to the contacts listed below.  
 
 2\. Choice 
 
@@ -304,12 +316,13 @@ From time to time, this Privacy Policy may be amended to reflect new products an
 **CONTACT INFORMATION  **
 
 To request information relating to your EU Personal Data, please contact:   
-privacy@fadv.comIf you have questions regarding our Safe Harbor Privacy Policy contact:  
+privacy@fadv.com. If you have questions regarding our Safe Harbor Privacy Policy contact:  
 
-First Advantage Corporation   
-Nicolas Dufour, Chief Regulatory Counsel   
-United States   
-(202) 321-3585  
+First Advantage Corporation  
+Kerstin Bagus  
+Director, Global Regulatory Compliance  
+United States  
++1-678-710-7138  
 privacy@fadv.com
 
 **Switzerland Safe Harbor Privacy Policy**
@@ -357,7 +370,7 @@ Location of absconded borrowers 
 
 The scope of this notice covers consumer report data that FADV has obtained on behalf of employers and other businesses by manually or electronically contacting the appropriate sources of the data (court records, references, licensing bureaus, etc.). FADV also performs services related to corporate litigation and investigative services as requested by our clients.  
 
-More information regarding the nature and scope of consumer data inquiries is available by contacting FADV in writing or by e-mail at the addresses listed on the [Contact Us page](https://web.archive.org/contact-us/) or by writing to the contacts listed below.  
+More information regarding the nature and scope of consumer data inquiries is available by contacting FADV in writing or by e-mail at the addresses listed on the [Contact Us page](https://web.archive.org/our-company/contact-support.aspx) or by writing to the contacts listed below.  
 
 2\. Choice 
 
@@ -405,11 +418,12 @@ To request information relating to your Switzerland Personal Data, please contac
 
 If you have questions regarding our Safe Harbor Privacy Policy contact:  
 
-First Advantage Corporation   
-Nicolas Dufour, Chief Regulatory Counsel   
-United States   
-(202) 321-3585  
-[privacy@fadv.com](mailto:privacy@fadv.com)
+First Advantage Corporation  
+Kerstin Bagus  
+Director, Global Regulatory Compliance  
+United States  
++1-678-710-7138  
+privacy@fadv.com[](mailto:privacy@fadv.com)
 
 **Australian and New Zealand Privacy Policy**
 
