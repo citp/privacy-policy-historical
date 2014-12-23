@@ -1,51 +1,92 @@
-> *The following text is extracted and transformed from the dailyvanity.sg privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233148id_/http%3A//dailyvanity.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyvanity.sg privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223072350id_/http%3A//dailyvanity.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Vanity
 
-Daily Vanity is committed to protecting the privacy of visitors to this site (the “Site”). This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
+## POLICY APPLICATION
 
-## DATA COLLECTED
+DAILY VANITY (DAILY VANITY Pte Ltd) respects the privacy rights of our customers and we will only track statistics for business purposes. No private information will be disclosed to unrelated entities or any third party merchants unless required by law. All email addresses in our mailing list are strictly kept confidential.
 
-In order to access this Site, you must first complete the registration process. During the registration process, we collect personal information such as your name and email address. Once you complete and submit your registration, you have opted in to receive email communication from us.  
-We also collect personal information when you choose to use certain other features of the Site, such as making purchases or electing to receive text messages about upcoming events or promotions. When you choose to use these additional features, we require you to provide additional personal information such as your phone number, billing and shipping addresses and credit card information, and we may request additional personal information such as your shopping preferences and demographics.  
-In addition, through the Site, we automatically gather certain information about the use of the Site, such as how frequently certain areas of the Site are visited, including through the use of cookies, web beacons and other technologies. Most browsers can be set to prevent cookies or to notify you when one is being placed. However, cookies are necessary to access the Site.
+This Privacy Policy applies to personal data collected, stored, disclosed and/or processed by Daily Vanity.
 
-## HOW WE USE YOUR DATA
+This Policy is based on the Singapore Personal Data Protection Act 2012 ("PDPA") and all the associated regulations and guidelines as may from time to time be issued by the Personal Data Protection Commission ("PDPC") of Singapore. Daily Vanity’s practices may be subjected to different or more restrictive local laws in jurisdictions outside of Singapore.
 
-We will not share or disclose your information to anyone except as described in this Privacy Policy.  
-We use personally identifiable information in order to give you a more enjoyable, convenient online experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site. We may also track your past purchases to provide you with a personalized profile of your shopping history. In addition, we may notify you about new services or special promotional programs, or send you offers or information.  
-We may permit certain trusted third parties to access your information in connection with their performance of services to maintain and operate the Site and certain features on the Site. For example, we may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders.  
-Occasionally, we may provide our postal mailing list (consisting of customer names and postal mailing addresses, but not email addresses or credit card details) to other companies whose products we believe may be of interest to you. In order to determine those products that we believe may be of interest to you, the information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources.  
-We may also send you emails to notify you of promotions, launches and any other information from Daily Vanity, its clients or partners. To stop receiving such emails, you may opt-out from our mailing list.  
-We may transfer personally identifiable information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.  
-We reserve the right to disclose information in order to comply with a subpoena, court order, administrative or governmental order, or any other requirement of law, or when we, in our sole discretion, believe it is necessary in order to protect our rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk reduction.  
-If you use a bulletin board, chat room or any other publicly accessible area of the Site, you should be aware that any personally identifiable information you submit there can be read, collected or used by any other person for any purpose. We are not responsible for the personally identifiable or other information you choose to submit in these forums.  
-You will receive notice when your personally identifiable information might be provided to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information.
+By visiting or using the Daily Vanity website, you agree to the terms of this Privacy Policy. Please review this Privacy Policy carefully before visiting, using our website, or providing us with any of your personal data.
 
-_We use non-personally identifiable information in the aggregate, so that we can improve the Site and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information. However, we may share personally identifiable or other information with our parent, subsidiaries, divisions, and affiliates.  
-_
+Information is collected from you when you subscribe to our newsletter; fill out any forms and via cookies. Data that Daily Vanity collects or stores may, subject to applicable law and the PDPA, be transferred to and used by us outside of Singapore. It will be treated according to the privacy practices set forth in this Privacy Policy. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings.
 
-## HOW WE PROTECT YOUR DATA
+We do not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie.
 
-We are committed to protecting the information we receive from you. We follow reasonable technical and management practices to help protect the confidentiality, security and integrity of data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.  
-The Site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees and third parties who need access to your information in order to perform their duties are allowed such access.
+Please visit Google Analytics opt-out browser add-on to opt-out of this data collection process.
 
-## ACCESSING & UPDATING YOUR PERSONAL DATA
+## PERSONAL DATA
 
-If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to only@DailyVanity.com.  
-If you submit your email address to be added to a mailing list, we will use the email address for the sole purpose of sending you announcements, special offers from Daily Vanity and other partners along with site updates. Each email we send will contain information on how to unsubscribe from our mailing list. You can also unsubscribe by sending an email to only@DailyVanity.com.  
-We use your feedback to improve our site and our organization. If you choose to provide information about yourself using a feedback or email form on our Web site, we will not use the information for any purpose other than to respond to your inquiry or to act on your suggestion or comment. We will not share your information with others except with your permission or upon your request.  
-Comments you voluntarily post on public forums such as our blog will, of course, be displayed publicly along with the name you submit and the time at which you submitted the comment.  
-If you elect to use our referral services for informing a friend about our site, you will need to provide his/her name and email address. Daily Vanity stores this information to confirm qualifying orders attributable to your account and to track the results of the invitation referrals. Daily Vanity will automatically send the friend a one-time email inviting them to visit the site. Daily Vanity stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Daily Vanity at to request the removal of this information from our database.  
-Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. In addition, you may update or change your personal information or preferences by sending email to only@DailyVanity.com. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to fourteen business days as we process your request.  
-While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction.
+It is possible that this website:
 
-## PARENTAL CONTROLS
+  * Will use your email to answer queries, process orders, allow access to specific information, receive newsletters, or promotions from us and our partners.
+  * Uses Remarketing with Google Analytics to advertise online.
+  * Third-party vendors, including Google, show ads on sites across the Internet.
+  * We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to this website.
+  * Data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics may be used to: 
+    * To personalize your experience (your information helps us to better respond to your individual needs)
+    * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+    * To send periodic emails (The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.)
 
-Parents should be aware that there are parental control tools available online that you can use to prevent your children from submitting information online without parental permission or from accessing material that is harmful to minors.
 
-## PRIVACY POLICY CHANGES
 
-If we decide to change our Privacy Policy for the Site, we will post the revised Privacy Policy here so that you will always know what information we gather, how we might use that information and whether we may disclose it to anyone. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
+When ordering or registering on our site, personal data includes, among other things, your: name; street or mailing address; telephone number(s); email addresses; date of birth; gender; nationality; purchases of products; payment information; credit card numbers; marketing preferences; answers you provide to security questions (such as your mother's maiden name, the name of your pet, etc.); information used to provide products or services; information needed to administer rewards or loyalty programs, including transaction and correspondence details; and any other types of information that you choose to provide to us or that we may collect about you through your transactions with Daily Vanity.
 
-This Privacy Policy does not apply to other websites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, you are not authorized to use this Site.
+Information collected under Daily Vanity will be retained under the authority of DAILY VANITY Pte Ltd. In the event of a sale of any DAILY VANITY Pte Ltd’s asset including customer information, buyers will be required to honour our Privacy Policy or provide you a notice and option to limit the sharing of your information.
+
+You may, however, visit our site anonymously.
+
+Note: If at any time you would like to unsubscribe from receiving future email notifications, we have included an unsubscribe link at the bottom of each email.
+
+## PROTECTION OF INFORMATION
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+
+## USAGE OF COOKIES
+
+When you visit our website, we may assign your computer one or more "cookies." By accessing our website, you agree that we can place cookies on your device.
+
+This website and third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to this website. Also, this information will be used to enhance your shopping experience.
+
+A cookie is a small text file that contains information that can later be read by us to facilitate your access to our website, gather statistical data, and personalize your online experience. We currently use cookies on our website for purposes including, but not limited to, detecting your web browser's multimedia capabilities, tracking promotional advertisements that we have displayed to you, maintaining current login and providing a unique identifier to your computer so that we can generate statistics regarding website usage.
+
+Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies.  Generally, you can remove these cookies by following directions provided in your Internet browser's "help" file.  If you choose not to allow us to place a cookie on your computer, you may be restricted from some services and some of the interactive features offered on our websites may be similarly restricted or rendered inoperable.
+
+In addition to cookies, we may also use other Internet technologies, such as web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of our website. The information we obtain in this manner enables us measure the overall effectiveness of our online content, advertising campaigns, and the products we offer through our website. By accessing our website and agreeing to receive our e-mail messages or newsletters, you agree to that we can use other Internet technologies such as those mentioned above on your device(s).
+
+Our website may allow third parties to download cookies to your device(s). Third parties, such as Google Analytics, may use cookies and other technologies to collect non-personal data about your online activities while you are on our website. This information may be used to measure usage of our website and personalize advertising content on our website. We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are not covered by this Privacy Policy.  Please refer to the privacy policies of those third parties to better understand their activities and practices.
+
+## THIRD PARTY LINKS
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## NON-DISCLOSURE AGREEMENT
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, as long as these parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours and others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## OPT-OUT
+
+If you do not want your personal data to be shared among affiliates, you may opt-out of such information sharing by sending us an email at only@dailyvanity.sg  Please note that if you withdraw your consent for a limited purpose, such as for marketing, we may still contact you or use your information for other purposes for which you have not withdrawn your consent and such personal data may still be shared, as permitted under the PDPA and other applicable law. If you do not wish to receive any further information from Daily Vanity regarding newsletters, launches, offers, promotions from partners or special events via email, you may unsubscribe by clicking the unsubscribe link in our mailers.
+
+## USAGE OF SITE
+
+DAILY VANITY may feature pictures, articles, information, digital images, text, data, games, surveys, contests, promotions, advertising, logos, trademarks and other forms of content*** we deem will be of interest to our customers or visitors. This Content can be viewed, transferred, shared and stored by our customers and guest. However, the ownership of this Content belongs to DailyVanity.com & DailyVanity.sg and by downloading or storing of this Content does not render the customer or visitor the rights nor ownership to it.
+
+***Collectively, content composite one or more of the following - text, data, music, sound, graphics, images, pictures, photographs, videos, software or other forms later created or not known at this time.
+
+Content extracted from DailyVanity.com & DailyVanity.sg and published or shared on any platforms must be credited and linked back to the respective web pages. DAILY VANITY Pte. Ltd. reserves the rights to pursue legal actions against unauthorized usage of this Content.
+
+## SECURITY
+
+Daily Vanity practises reasonable precautions to protect your personal data and store it securely.  However, you should be aware that no method of transmission over the Internet or method of electronic storage has 100% security. While security cannot be guaranteed, we strive to protect the security of your information and are constantly reviewing and enhancing our information security measures.  Daily Vanity’s website has security measures in place that strive to protect against the accidental loss, misuse, and unauthorized access to your personally identifiable information while under our control.  Such security measures include, but are not limited to, password controls, firewalls, and other industry standard security measures.
+
+## PRIVACY POLICY AMENDMENTS
+
+Daily Vanity (DAILY VANITY PTE. LTD) reserves the rights to amend any of the policies above at any time.  The Effective Date, as stated below, indicates the last time this policy was materially revised.  We encourage you to review this page periodically as changes may be made to our policy from time to time regarding the collection and use of your personal data.
+
+Your continued use of our website and acceptance of our services after any changes to this Privacy Policy constitutes your consent to any such changes; to the extent such consent is not otherwise provided.
+
+[Last updated 1 July 2014] 
