@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njconsumeraffairs.gov privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630021122id_/http%3A//www.nj.gov/nj/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njconsumeraffairs.gov privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223020252id_/http%3A//www.nj.gov/nj/privacy.html) for the most accurate reproduction.*
 
 # The Official Web Site for The State of New Jersey
 
