@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the texassports.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622123133id_/http%3A//www.utexas.edu/cio/policies/web-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texassports.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223010236id_/http%3A//www.utexas.edu/cio/policies/web-privacy) for the most accurate reproduction.*
 
 # Web Privacy Policy | The University of Texas at Austin
 
-[Required Link](https://www.utexas.edu/cio/policies/web-privacy/#link)  
-[Purpose](https://web.archive.org/cio/policies/web-privacy#purpose)  
-[Scope](https://web.archive.org/cio/policies/web-privacy#scope)  
-[Exceptions](https://web.archive.org/cio/policies/web-privacy#Exceptions)  
-[Information Gathered by UT Austin](https://web.archive.org/cio/policies/web-privacy#Gathered)  
-[Sharing of Information](https://web.archive.org/cio/policies/web-privacy#Sharing)  
-[Questions](https://web.archive.org/cio/policies/web-privacy#Questions)  
-[Authoritative Source](https://web.archive.org/cio/policies/web-privacy#Authoritative)  
-[Change Log](https://web.archive.org/cio/policies/web-privacy#Changes)
+Required Link  
+Purpose  
+Scope  
+Exceptions  
+Information Gathered by UT Austin  
+Sharing of Information  
+Questions  
+Authoritative Source  
+Change Log
 
-Last Reviewed: September 14, 2012
+Last Reviewed: November 10, 2014
 
-Last Edited: September 14, 2012
+Last Edited: November 10, 2014
 
-###  Required Link
+##  Required Link
 
 Each Web application or site must contain a link for "Web Privacy" that links to this policy.
 
-###  Purpose
+##  Purpose
 
 The University of Texas at Austin (UT Austin) is committed to ensuring the privacy and accuracy of your confidential information. UT Austin does not actively share personal information gathered from its Web servers. However, because UT Austin is a public institution, some information collected from UT Austin websites, including the summary server log information, emails sent to websites, and information collected from Web-based forms, may be subject to the [Texas Public Information Act](http://www.utexas.edu/business/vp/open_records.html). This means that while UT Austin does not actively share information, in some cases may be compelled by law to release information gathered from its Web servers.
 
@@ -35,11 +35,11 @@ UT Austin also complies with the [Family Educational Rights and Privacy Act](ht
 
 Technical terms referred to in this document are defined in the [ISO Technical and Security Glossary](http://www.utexas.edu/its/glossary/iso).
 
-###  Scope
+##  Scope
 
 UT Austin by and through its academic, research and administrative units and programs, owns, controls, operates and/or maintains websites under a number of domains (collectively, “UT Austin Web”). This Web Privacy Policy applies to all domains within the UT Austin Web.
 
-###  Exceptions
+##  Exceptions
 
 The UT Austin Web consists of hundreds of Web servers. Some servers hosted by UT Austin may adopt different privacy statements as their specific needs require. If a UT Austin department has a privacy statement that is different from this statement, that policy must be approved by the [Information Security Office](http://security.utexas.edu/), and it must be posted on this site. However, those sites cannot adopt a privacy statement that in any way supersedes federal or state regulations.
 
@@ -52,7 +52,7 @@ Approved Departmental Privacy Policies at UT Austin:
 
 The UT Austin Web site contains links to hundreds of external websites. The university is not responsible for the privacy practices or the content of the external websites we link to.
 
-###  Information Gathered by UT Austin
+##  Information Gathered by UT Austin
 
 UT Austin Web servers generate temporary logs that may contain the following information:
 
@@ -84,6 +84,12 @@ Cookies are small pieces of data stored by the Web browser. Cookies are often us
 UT Austin Web servers use cookies in the centralized authentication system called UT EID. These cookies are used so you will not have to repeatedly enter user names and passwords when you go to different parts of the Web site. You are normally required to enter a UT EID when you request data about yourself or to ensure that you are a member of the University community. For example, students who want to check their admission status or staff members who complete time sheets, must enter their UT EID so the system knows who is requesting the data. This login process uses Secure Sockets Layer (SSL) so the user name and password are encrypted between the Web browser and our Web server.
 
 Some Web servers within UT Austin may also use cookies to retain user preference information. It is against university policy to share this information with external third parties.
+
+###  Google Analytics
+
+Some UT Austin websites use Google Analytics; a Web analytics service provided by Google, Inc. Google Analytics uses cookies to collect information such as URLs, Internet domain and host names, browser software, and the date and time that the site is visited. This information is used to monitor the effectiveness of the website and to consider potential improvements to the website. The information is non-personal and is transmitted to and stored by Google on its servers. UT Austin does not share any specific information about a particular user.
+
+Please visit the following pages for more information on Google Analytics [terms of use](http://www.google.com/intl/en/policies/terms/) and Google's [privacy practices](http://www.google.com/policies/privacy/). To opt out of Google’s data collection, read more about the [Google Analytics opt-out browser add-on](https://support.google.com/analytics/answer/181881?hl=en).
 
 ###  Security and Accuracy of Confidential Information
 
@@ -119,7 +125,7 @@ Except for educational records governed by FERPA, all information collected from
 
 The [Texas Public Information Act](http://www.utexas.edu/business/vp/open_records.html), with a few exceptions, gives you the right to be informed about the information that UT Austin collects about you. It also gives you the right to request a copy of that information, and to have the university correct any of that information that is wrong. You may request to receive and review any of that information, or request corrections to it, by contacting the university's Public Information Officer, Office of Financial Affairs, PO Box 8179, Austin, Texas, 78713 (email: [cfo@www.utexas.edu](mailto:cfo@www.utexas.edu)).
 
-###  Questions
+##  Questions
 
 If you have questions about this privacy statement or you believe that your personal information has been released without your consent send email to [security@utexas.edu](mailto:security@utexas.edu).
 
@@ -174,4 +180,14 @@ Updated required link section, updated style to match the writer's guide.
 
 | 
 
-Each university Web site that contains official university information must contain a link for "Web Privacy" that links to this page.
+Each university Web site that contains official university information must contain a link for "Web Privacy" that links to this page.  
+  
+**11/10/2014**
+
+| 
+
+Added section about use of Google Analytics.
+
+| 
+
+New
