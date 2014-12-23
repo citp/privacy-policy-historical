@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepointsguy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052713id_/http%3A//thepointsguy.com/credit-cards/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepointsguy.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223133228id_/http%3A//thepointsguy.com/credit-cards/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Your California Privacy Rights | The Points Guy
 
@@ -413,4 +413,4 @@ address, as applicable, for us to send our response. This request may be made no
 per calendar year. We reserve the right not to respond to requests submitted other than to the address  
 specified above.
 
-[](https://app.thepointsguy.com/maximizer?utm_source=tpg&utm_medium=referral&utm_content=blog_banner&utm_campaign=maximizer)
+Disclaimer: The responses below are not provided or commissioned by the bank advertiser. Responses have not been reviewed, approved or otherwise endorsed by the bank advertiser. It is not the bank advertiser's responsibility to ensure all posts and/or questions are answered.
