@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624041757id_/http%3A//www.unsw.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unsw.edu.au privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223172442id_/http%3A//www.unsw.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UNSW Australia
 
@@ -47,5 +47,5 @@ Access and amendment requests, complaints and other privacy enquiries should be 
 
 UNSW Privacy Officer  
 Email: [privacy@unsw.edu.au](mailto:privacy@unsw.edu.au)  
-Web: [www.privacy.unsw.edu.au](http://www.privacy.unsw.edu.au/)  
-Telephone: (02) 9385 2860
+Web: <https://www.legal.unsw.edu.au/compliance/privacyhome.html>  
+Telephone: (02) 9385 8369
