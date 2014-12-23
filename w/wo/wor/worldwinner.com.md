@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531021601id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwinner.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223033313id_/http%3A//www.gsn.com/cgi/corporate/privacy.html) for the most accurate reproduction.*
 
 # GSN Privacy Policy - GSN Games
 
 #### GSN GAMES PRIVACY POLICY
 
-Last revised May 8, 2014
+Last revised Aug 8, 2014
 
 **PLEASE READ THIS PRIVACY POLICY AND THE RELATED GSN TERMS OF SERVICE LOCATED AT<http://www.gsn.com/corporate/terms.html> BEFORE USING THIS WEBSITE OR ANY GSN FORUM. **
 
@@ -65,6 +65,11 @@ You recognize and agree that the Third Party Ad Servers who deliver ads for GSN 
 In addition, GSN uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners (each, a “Management Partner”). These files enable our Management Partners to recognize a unique cookie on your Web browser. The cookie was placed by us, or by another advertiser who works with the applicable Management Partner. The Management Partner may set and access its own cookies on your Web browser in order to serve ads it believes may be of interest to you based on the profile information you provided to us at registration (e.g., demographic information) as well as information collected about you by the applicable Management Partner elsewhere on the Web. Management Partners may use information about you gathered from the Services (including your demographic information provided to us upon registration as well as your browsing behavior on the Website) to serve third party ads to you elsewhere on the Internet. For more information about how cookies work, please visit the Network Advertising Initiative's homepage. 
 
 Advertising GSN Products & Services: After you visit or use the Services, our advertising partners may deliver GSN ads to your Web browser when you are visiting other sites on the Internet. These ads are delivered based on cookies that are set by us or by our third party advertising network partners when you visit or use the Services, and that are recognized by these companies when you visit other sites. Please see the section above on cookies to learn more about setting your Web browser to block cookies. 
+
+You have choices about the collection of information by third parties on our Web Sites:   
+1\. If you would like more information about advertisers' use of cookies, and about your option not to accept these cookies, please [click here](http://www.aboutads.info/consumers/) and [click here](http://www.networkadvertising.org/consumer/opt_out.asp).   
+2\. If you would like to opt-out of having interest-based information collected during your visits to this or other sites, [click here](http://info.evidon.com/pub_info/2602?v=1&nt=0&nw=false) or [click here](http://www.ghosteryenterprise.com/global-opt-out/).   
+3\. To opt-out of GSN Games Audience Extension targeting you need to specifically opt-out of DataPoint Media by [clicking here](http://info.evidon.com/companies/datapoint-media) or [here](http://info.evidon.com/pub_info/2602?v=1&nt=0&nw=false). 
 
 #### 4\. Special Notice Regarding Children Under 13 Years of Age
 
