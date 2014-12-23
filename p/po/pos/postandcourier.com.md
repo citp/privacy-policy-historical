@@ -1,18 +1,28 @@
-> *The following text is extracted and transformed from the postandcourier.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626145342id_/http%3A//www.postandcourier.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postandcourier.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223070810id_/http%3A//www.postandcourier.com/section/privacy) for the most accurate reproduction.*
 
 # The Post and Courier | Charleston SC, News, Sports, Entertainment
 
+#### Latest News
+
+[](http://www.postandcourier.com/article/20141222/PC1603/141229814/1031/alleged-bribery-being-investigated-at-joint-base-charleston "Alleged bribery being investigated at Joint Base Charleston")
+
+* * *
+
+* * *
+
+[](http://www.postandcourier.com/article/20141222/PC1603/141229861/1031/palmetto-sunrise-harrell-contemplates-life-after-politics "Palmetto Sunrise: Harrell contemplates life after politics")
+
 #### Latest From Charleston Scene
 
-[](http://www.postandcourier.com/article/20140625/CS/140629595/1007/vintage-cars-take-over-patriots-point-as-great-race-rolls-into-mount-pleasant "Vintage cars take over Patriots Point as Great Race rolls into Mount Pleasant")
+[](http://www.postandcourier.com/article/20141222/PC11/141229836/1007/joe-cocker-dies-at-70 "Joe Cocker dies at 70")
 
 * * *
 
-[](http://www.postandcourier.com/article/20140625/CS/140629602/1007/music-scene-phantogram-fastball-keller-williams "Music Scene: Phantogram, Fastball, Keller Williams")
+[](http://www.postandcourier.com/article/20141220/CS/141229996/1007/raskin-around-lidi-chef-leaves-virgil-kaine-releases-unflavored-spirits "Raskin Around: LIDI chef leaves, Virgil Kaine releases unflavored spirits")
 
 * * *
 
-[](http://www.postandcourier.com/article/20140625/CS/140629604/1007/dinner-bikes-to-focus-on-bike-transportation "Dinner & Bikes to focus on bike transportation")
+[](http://www.postandcourier.com/article/20141220/CS/141229995/1007/get-out-what-weve-gained-and-lost-in-2014 "Get Out: What we've gained and lost in 2014")
 
 ## PRIVACY STATEMENT
 
