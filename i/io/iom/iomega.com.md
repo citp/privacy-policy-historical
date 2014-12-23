@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iomega.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225043143id_/https%3A//www.lenovo.com/privacy/us/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iomega.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223063244id_/https%3A//www.lenovo.com/privacy/us/en) for the most accurate reproduction.*
 
-# Lenovo Privacy
+# Privacy
 
   | 
 
@@ -39,7 +39,7 @@ Important Information
 How to Contact Us  
 ---  
   
-Questions about this statement or about Lenovo's handling of your information may be sent using our short [Privacy Submission Form](https://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_US/webforms.workflow:StartWebForms?WebFormId=privacy) or
+Questions about this statement or about Lenovo's handling of your information may be sent using our short [Privacy Submission Form](https://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_CA/webforms.workflow:StartWebForms?WebFormId=privacy) or
 
 Lenovo Privacy  
 1009 Think Place  
