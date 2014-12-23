@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517144103id_/http%3A//www.travelex.com/US/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelex.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223220141id_/http%3A//www.travelex.com/US/Terms-of-Use/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelex Foreign Exchange
 
