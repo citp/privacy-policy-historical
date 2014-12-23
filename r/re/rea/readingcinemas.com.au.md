@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readingcinemas.com.au privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624104738id_/http%3A//readingcinemas.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingcinemas.com.au privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223223129id_/http%3A//readingcinemas.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reading Cinemas AU
 
