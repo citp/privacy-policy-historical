@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favicon.cc privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321185734id_/http%3A//www.favicon.cc%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favicon.cc privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223044219id_/http%3A//www.favicon.cc%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # favicon.ico Generator
 
