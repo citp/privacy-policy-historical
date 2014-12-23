@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082419id_/http%3A//www.trade.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade.gov privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223111522id_/http%3A//www.trade.gov/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
