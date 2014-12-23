@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scania.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065906id_/http%3A//scania.com/legal/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scania.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223081450id_/http%3A//www.scania.com/legal/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - scania.com
 
