@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the smspunch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093208id_/http%3A//smspunch.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smspunch.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223160005id_/http%3A//smspunch.com/policy.aspx) for the most accurate reproduction.*
 
 # |FREE SMS To Pakistan | Ufone | Warid | Moblilnk | Zong | Telenor | Send Free SMS | SMS PUNCH : Policy
+
+## Privacy Policy
 
 SMS Punch understands the importance of your privacy. At SMS Punch we are committed to protecting the privacy of our users. If and when SMS Punch collects personal identifying information, we maintain the confidentiality, security and integrity of that personal information obtained from our users. We do not share nor disclose personal information to any party beyond the SMS Punch network. For your own protection, please review the following terms and conditions before joining SMS Punch. We want you to enjoy SMS Punch to the fullest, but we also want you to stay informed. Through subscribing to SMS Punch, you are agreeing to our terms and conditions.
 
