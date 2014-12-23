@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327214644id_/http%3A//www.emblibrary.com/EL/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223225844id_/http%3A//www.emblibrary.com/el/Privacy.aspx) for the most accurate reproduction.*
 
 # Machine Embroidery Designs at Embroidery Library! - Privacy Policy
 
