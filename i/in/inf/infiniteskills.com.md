@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327181510id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223085647id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Infinite Skills Privacy and Security Policy
 
@@ -23,8 +23,7 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 
 Upon request we provide site visitors with access to a description of information that we maintain about them. Consumers can access this information by calling us at the number provided above, e-mailing us at the above address. Upon request we offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by calling us at the number provided above, or e-mailing us at the above address.
 
-Ad Servers  
-We do not partner with or have special relationships with any ad server companies.
+We may collect, or our third party ad server and/or content server may collect, certain Non-Personally Identifiable Information, that does not by itself identify a specific individual. Such information tells us about your equipment, browsing actions, the resources that you access and use through the Services, your operating system and browser type. Our third party ad servers will provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at our Websites. The information that we collect automatically is 'statistical' in nature. It helps us to deliver a better and more personalized service to users, by enabling us to estimate usage patterns, customize our Services according to your individual preferences, and speed up your searches.
 
 Security  
 When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
@@ -35,7 +34,7 @@ If you feel that this site is not following its stated information policy, you m
 
 #### Praise for Infinite Skills
 
-I have read 6 textbooks, 2 "dummies" books, and almost 30 e-books all on [Learning PHP and MySQL] trying to get it to stick in my brain. Finally! This is what I needed! SHOW and DO! I need to follow along, and reading only makes me familiar with the knowledge, but actually being taught how to DO what the books talk about makes me able to USE the knowledge that's floating around in my head! GREAT! Jeffrey H.
+[Apple OS X Lion Server] I had to learn OS X Lion Server over a weekend before I went on a deployment course for work, as knowledge of this was a pre-requisite. Having previous experience with Snow Leopard and Leopard server, I didn't have time to read the book, so watched the videos from this course. Everything was clear and concise and gave me all the knowledge I needed, not only for the deployment course, but to use this at work right away. Ian B.
 
 [
 
