@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smobserved.com privacy policy that was archived on 2014-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140411184709id_/http%3A//www.smobserved.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smobserved.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223184750id_/http%3A//www.smobserved.com/privacy) for the most accurate reproduction.*
 
 # Santa Monica Observer Privacy Policy
 
