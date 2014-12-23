@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021146id_/http%3A//www.peninsula.com/en/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223050151id_/http%3A//www.peninsula.com/en/privacy-security) for the most accurate reproduction.*
 
 # Data Privacy and Security Policy | The Peninsula Hotels
 
@@ -122,11 +122,13 @@ We treat all Data that you provide to us as confidential information. To prevent
 
 ##### Data transmission across international borders 
 
-As a global company, we endeavor to provide you with the same outstanding service in Hong Kong, as you would find in New York or Tokyo. To achieve this goal, we have established a global network comprised of properties, offices, global customer service centers, data centers, trusted service providers, and trained associates around the globe. The nature of our business and our operations require us to transfer your Data to other group companies, properties, centers of operations, data centers, or service providers that may be located in countries outside of your own for the purposes mentioned in this Policy. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, the HSH Group will take appropriate steps to ensure that your Data is protected and handled as described in this privacy statement. Therefore, in addition to the implementation of the present Policy, HSH will implement, where necessary appropriate measures, including contractual clauses, to secure the transfer of your Data to recipients (which may be internal or external to the HSH group) located in a country with a level of protection different from the one existing in the country in which your Data is collected.
+As a global company, we endeavor to provide you with the same outstanding service in Hong Kong, as you would find in New York or Tokyo. To achieve this goal, we have established a global network comprised of properties, offices, global customer service centers, data centers, trusted service providers, and trained associates around the globe. The nature of our business and our operations require us to transfer your Data to other group companies, properties, centers of operations, data centers, or service providers that may be located in c _ountries outside of your own*_ for the purposes mentioned in this Policy. Although the data protection and other laws of these various countries may not be as comprehensive as those in your own country, the HSH Group will take appropriate steps to ensure that your Data is protected and handled as described in this privacy statement. Therefore, in addition to the implementation of the present Policy, HSH will implement, where necessary appropriate measures, including contractual clauses, to secure the transfer of your Data to recipients (which may be internal or external to the HSH group) located in a country with a level of protection different from the one existing in the country in which your Data is collected.
 
 ##### Disclosure of information to third parties 
 
-In addition to the required information sharing described above, we use the services of third party agents, such as e-mail service providers and mail houses for the purpose of mailing materials to our patrons. These parties are contractually prohibited from using Data for any purpose other than for the purpose specified in their respective contracts. We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us. We do not permit the sale of Data to entities outside of the HSH Group for any use unrelated to our group operations or use of Data by third party for their own purposes. HSH will implement, where necessary appropriate measures, including contractual clauses, to secure the transfer of your Data to the third party service providers located in a country with a level of protection different from the one existing in the country in which your Data is collected.
+In addition to the required information sharing described above, we use the services of third party agents, such as e-mail service providers and mail houses for the purpose of mailing materials to our patrons. These parties are contractually prohibited from using Data for any purpose other than for the purpose specified in their respective contracts. We do provide non-personally identifiable information to certain service providers for their use on an aggregated basis for the purpose of performing their contractual obligations to us. We do not permit the sale of Data to entities outside of the HSH Group for any use unrelated to our group operations or use of Data by third party for their own purposes. HSH will implement, where necessary appropriate measures, including contractual clauses, to secure the transfer of your Data to the third party service providers located in a _country*_ with a level of protection different from the one existing in the country in which your Data is collected.
+
+_*Guest data may be transferred to our headquarters in Hong Kong as well as other countries where we are present, including China, Japan, United States of America, Thailand, the Philippines and France. We also use third party service providers located in United States of America and Australia to process mailing, certain online bookings and purchases of gift cards._
 
 ## How we track customer usage on our website
 
@@ -134,9 +136,18 @@ In addition to the required information sharing described above, we use the serv
 
 Our website only uses “cookie” technology as a tracking tool. Cookies do not retain registered guests’ information provided during the online reservations or My Peninsula registration. Cookies identify your browser, rather than you and cannot be used by themselves to disclose your individual identity. Cookies enable us to track the number of page visits from the same computer or browser to be aggregated for statistical purposes.
 
-We do not use Cookies to ascertain any Data about you apart from what you voluntarily provide us in your dealings with our group operations. Cookies do not corrupt or damage your computer, programs, or computer files.
+Cookies do not corrupt or damage your computer, programs, or computer files.
 
-You may set your browser to block Cookies (consult the instructions for your particular browser on how to do this), although doing so will affect your ability to perform certain transactions, use certain functionality, and access certain content on our website.
+The purpose for which cookies -- other than those which are either exclusively intended to enable or facilitate communication by electronic means or strictly necessary for the provision of an online communication service at your express request -- are used on our website is set forth in a banner appearing the first time you land on such website. By continuing to browse on the website, you consent to their use.
+
+You may set your browser to block Cookies, although doing so will affect your ability to perform certain transactions, use certain functionality, and access certain content on our website. Procedures for managing your settings may differ depending on your browser. Please consult the instructions for your particular browser on how to do this. From commonly used browsers, please click the links below:
+
+  [Microsoft Windows Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies)   
+[Google Chrome](https://support.google.com/chrome/answer/95647?hl=en&p=cpn_cookies)  
+[Mozilla Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)  
+[Apple Safari](http://support.apple.com/kb/PH5042)
+
+If you do not use any of the browsers listed above, choose the "Help" function, followed by "Cookies" to find out where your cookie folder is stored.
 
 ##### Pixel Tags
 
