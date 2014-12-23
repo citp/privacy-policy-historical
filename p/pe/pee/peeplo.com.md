@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peeplo.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607035044id_/http%3A//www.peeplo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peeplo.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223060226id_/http%3A//www.peeplo.com/privacy.html) for the most accurate reproduction.*
 
 # privacy - Articles and posts about privacy from the best blogs
 
@@ -13,7 +13,7 @@ The information and data provided by the User or otherwise acquired during regis
 We inform you that the personal data subject to processing may include - depending also on how you decide to use the Services – textual information, photographs or videos, audio tracks, telephone numbers and any other information that could allow to identify the person concerned, depending on the type of services required.According to the rules set out by the Data Protection Code, data processing carried out by MOQU ADV will be based on principles of correctness, lawfulness and transparency and the protection of the User’s privacy and rights.  
 **  
 Owner and Responsible for processing  
-** The identification of the owner for processing is : MOQU ADV Srl, registered office in Piazza Pietro Annigoni 9 / b, Florence, Zip code 50122. The responsible for processing is:  Register.it SpA, with registered office in Piazza Pietro Annigoni 9 / b, Florence, Zip Code 50122, duly appointed Responsible for processing pursuant to art. 29 of the Privacy Code, as the systems management service provider of the Site. The updated list of data processors (if any), is available at the headquarters of the processing owner. You can contact the data processors at any time - through the owner offices MOQU - to exercise your rights under Article 7 of the Privacy Code.  
+** The identification of the owner for processing is : MOQU ADV Srl, registered office in Viale Giovine Italia 17, Florence, Zip code 50122. The responsible for processing is:  Register.it SpA, with registered office in Viale Giovine Italia 17, Florence, Zip Code 50122, duly appointed Responsible for processing pursuant to art. 29 of the Privacy Code, as the systems management service provider of the Site. The updated list of data processors (if any), is available at the headquarters of the processing owner. You can contact the data processors at any time - through the owner offices MOQU - to exercise your rights under Article 7 of the Privacy Code.  
 **  
 Purpose of Data Processing** **   
 ** The intended data processing aims to enable the delivery of Services requested by the User. The data will be processed in order to fulfill any legal, accounting and tax obligations. Personal data may be processed for the purpose of permitting navigation and consultation of the Site. In addition, the purpose of the data processing regards the collection, storage and processing of the User’s personal data to perform statistical analysis in an anonymous and/or aggregate form, without the ability of identifying the User and only to verify the quality of the Services offered. Finally, the optional, explicit and voluntary sending of electronic mail to the addresses indicated on this Site, entails the subsequent acquisition of the sender’s email address, which is required in order to respond to requests, as well as any other personal data included in the email. Any specific information will be progressively reported or displayed in the web pages designated for special services, on request.  
@@ -86,7 +86,7 @@ b) to the processing of personal data concerning him/her for the purpose of send
 Contact Information**   
 For further information and to exercise the rights stated under Article 7 of Legislative Decree 196/2003 mentioned above, please write to:  
 _MOQU ADV Srl  
-Piazza Pietro Annigoni 9/b  
+Viale Giovine Italia 17  
 Firenze - CAP 50122_
 
 The party concerned may also send their request using the [contact form](http://www.peeplo.it/contact.html?req=generic). 
