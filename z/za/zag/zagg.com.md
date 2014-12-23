@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zagg.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629231535id_/http%3A//www.zagg.com/company/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zagg.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223190804id_/http%3A//www.zagg.com/company/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ZAGG
 
@@ -8,7 +8,7 @@ If you have any questions or concerns regarding ZAGG's Privacy Policy or ZAGG's 
 
 ### Personal Information We Collect & How We Collect Your Information
 
-We may collect personally identifiable information whenever you interact or communicate with us. This information may include, among other things, your name, mailing address, phone number(s), e-mail address and credit card information. We may also offer mobile applications that automatically collect information about your location from your mobile device. We may use this information in accordance with this policy, and we may also use this information to improve our products, services and advertising. 
+We may collect personally identifiable information from you whenever you visit, interact or communicate with our website. This information may include, among other things, your name, mailing address, phone number(s), e-mail address and credit card information. We may also offer mobile applications that automatically collect information about your location from your mobile device. We may use this information in accordance with this policy, and we may also use this information to improve our products, services and advertising. 
 
 We may also collect certain additional information and store it in our log files. This information includes Internet Protocol addresses, browser type and language, Internet service providers (ISP), clickstream data, referring and exit pages, operating system and date/time stamp. 
 
@@ -18,7 +18,7 @@ We use your personal information to conduct our business and to provide you with
 
   * We may use your personal information to help us develop and deliver quality products and services.
   * We may use your personal information to contact you regarding upcoming events, promotions, new products and the like.
-  * We may share your information with third-party service providers, who work with us to provide products and services, or who help ZAGG market to customers. We require that our third-party service providers use your personal information only to perform their obligations to ZAGG in accordance with providing you with quality products and services. We will not share your personal information with any third parties for any third parties' marketing purposes. 
+  * We may share your information with third-party service providers, who work with us to provide products and services, or who help ZAGG market to customers. We require that our third-party service providers use your personal information only to perform their obligations to ZAGG in accordance with providing you with quality products and services. We will not share your personally identifiable information with any third parties for any third parties' marketing purposes. 
   * We may disclose your personal information when we have reason to believe that it is necessary to identify you, contact you, or bring legal action to protect our rights or the rights of our customers. 
   * We may disclose your personal information when you ask us to do so or when we believe it is required by law, litigation and/or requests from public and governmental authorities. 
   * We may use your personal information for internal purposes, such as auditing.
@@ -30,6 +30,10 @@ We use your personal information to conduct our business and to provide you with
 ### Children
 
 We will not knowingly collect information from children under 13 years of age. If we discover that any personal information is collected from a person under 13 years of age, we will promptly delete such information from our database.
+
+### Cookies
+
+“Cookies” are files that are stored on your device’s hard drive by your web browser and are used to improve your online experience. Cookies help us identify account holders and optimize their shopping experience by allowing functions such as online shopping carts. Accepting cookies through your web browser is your personal choice. You can set your browser to disable cookies. However, if you choose not to accept cookies, we may not be able to provide you with as good of an experience as one that is specifically tailored to your needs by utilizing the cookie.
 
 ### Security
 
@@ -45,4 +49,9 @@ If you prefer to submit your order by telephone, please call us at 800-700-ZAGG 
 
 From time to time, you may receive our promotional e-mails based on information that we collect from you. If you would like to "opt out" of receiving promotional e-mails from ZAGG, please log in to your account and follow the instructions therein to be removed from our e-mailing list.
 
-If you are receiving promotional texts from ZAGG and would like to "opt out" of receiving promotional texts, please text "opt out" to 53535. Be sure to send the text from the phone number that is listed in your account and on which you are receiving the promotional texts.
+If you are receiving promotional texts from ZAGG and would like to “opt out” of receiving promotional texts, please text "opt out" to 53535. Be sure to send the text from the phone number that is listed in your account and on which you are receiving the promotional texts.
+
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. If you would like to "opt out" of receiving online advertisements tailored to your interests by our third party partners, please follow the instructions on the links below:
+
+<https://support.google.com/ads/answer/2662922?hl=en>  
+<http://www.aboutads.info/choices/>
