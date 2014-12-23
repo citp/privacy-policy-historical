@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roseindia.net privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140534id_/http%3A//www.roseindia.net/sitemap/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roseindia.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223025142id_/http%3A//roseindia.net/sitemap/privacypolicy.shtml) for the most accurate reproduction.*
 
 # RoseIndia.net Privacy Policy
 
@@ -19,13 +19,16 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
   
   
+  
 
 
 Follow us on [Twitter](https://twitter.com/RoseIndiaNet), or add us on [Facebook](https://www.facebook.com/roseindiaofficial) or [Google Plus](https://plus.google.com/+roseindia/posts) to keep you updated with the recent trends of Java and other open source platforms. 
 
 Posted on: May 3, 2011 
 
-Comments 
+Related Tutorials
+
+Comments:7
 
 **m.senthil kumar**  
 January 10, 2013  
