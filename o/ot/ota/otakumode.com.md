@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064340id_/http%3A//otakumode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otakumode.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223130622id_/http%3A//otakumode.com/privacy) for the most accurate reproduction.*
 
 # Tokyo Otaku Mode | Privacy Policy
 
@@ -114,7 +114,7 @@ We do not knowingly collect, maintain, or use Personal Information from children
 
 By using the Service, you will transfer data to the United States.
 
-By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the state of California and the adjudication of any disputes arising in connection with Company or the Service will be in accordance with the[ Terms of Use](https://web.archive.org/tos).
+By choosing to visit the Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of the state of California and the adjudication of any disputes arising in connection with Company or the Service will be in accordance with the[Terms of Use](https://web.archive.org/tos).
 
 If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.
 
@@ -133,9 +133,8 @@ We may revise this Privacy Policy, so review it periodically.
 ## Contact Information
 
 Tokyo Otaku Mode Inc.  
-C/O Don Pinnell Jones 2100 Artesia Blvd.,  
-Apt 15 Torrance,  
-CA 90504  
+2730 Monterey Street. Suite #103  
+Torrance, CA 90503  
 USA
 
 [Contact form](https://otakumode.com/inquire).
