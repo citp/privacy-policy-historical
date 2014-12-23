@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327054215id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfood.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223213236id_/http%3A//www.mrfood.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | mrfood.com
 
 | 
 
 Privacy Policy / Your California Privacy Rights  
-Revised and posted as of March 4, 2013
+Revised and posted as of July 28, 2014
 
 Prime Publishing, LLC and Ginsburg Enterprises Incorporated ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document.
 
@@ -65,7 +65,7 @@ We may use the collected PII and Non-PII for any legally permissible purpose in 
 Ad Serving  
 We may serve advertisements to you based, in part, on your IP address, the demographic and geographic information you submitted to the Company during the website registration process, and other socio-economic information, psychographic information, Internet behavior (i.e., browsing, search, shopping, purchase, and ad response behavior), and lifestyle information about you that we obtain from affiliated entities and from third parties.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/ "NetworkAdvertising.org").
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/ "Network Advertising").
 
 Pre-select/Pre-fill Offers  
 Our website technology may pre-select certain offers for you to view based on the demographic and geographic information you submitted to the Company during the website registration process. Additionally, this technology may pre-fill some or all of the offers' data fields with the information you submitted during the website registration process in order to prevent you from having to re-enter this information. We may not show all of the pre-filled data fields to you.
@@ -155,12 +155,18 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 
 | 
 
+### Mr. Food E-Newsletter
+
+Please Wait 
+
+#### Thanks for signing up
+
+#### Sorry, we could not sign you up.
+
 ### LATEST TV RECIPE & VIDEO
 
-##### [Spinach and Cheese Stromboli](https://web.archive.org/Sandwiches/Spinach-and-Cheese-Stromboli)
+##### [No-Fuss Breakfast Bake](https://web.archive.org/Eggs/No-Fuss-Breakfast-Bake)[ ](https://web.archive.org/Eggs/No-Fuss-Breakfast-Bake/apv/1)
 
-Refrigerated pizza dough is our shortcut to making this tasty Spinach and Cheese Stromboli in less than 15 minutes. The best part is, you can pick up everything you need for this easy dinner recipe right in your market's dairy aisle!
+Whether it's Christmas morning, or any morning, you don't need to spend a lot of time in the kitchen making breakfast. This hearty no-fuss breakfast bake is a cinch, and you'll have plenty of time to spend with your gang!
 
-[](http://www.mrfood.com/slideshow/National-Frozen-Food-Month)  
-  
----|---|---
+[](http://www.mrfood.com/sweeps/Swiss-Diamond-8-Piece-Set-Giveaway)
