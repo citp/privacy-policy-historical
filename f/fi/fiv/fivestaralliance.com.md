@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228083159id_/http%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivestaralliance.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223150428id_/http%3A//www.fivestaralliance.com/luxury-hotel-experts/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Five Star Alliance
 
-Last Updated 2/1/2013
+Last Updated 5/23/2014
 
 [](https://privacy.truste.com/privacy-seal/Five-Star-Alliance/validation?rid=dcabe2fe-feb7-4664-9fea-3ed77ccbf71b "TRUSTe online privacy certification")
 
-Five Star Alliance has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This program covers only the information that is collected through this website [www.FiveStarAlliance.com](http://www.fivestaralliance.com/ "www.FiveStarAlliance.com").
+Five Star Alliance has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This program covers only the information that is collected through this website [www.FiveStarAlliance.com](http://www.fivestaralliance.com/ "www.FiveStarAlliance.com").
 
-If you have questions or complaints regarding our privacy policy or practices, you you should first contact Five Star Alliance's privacy policy administrator, by phone at (703) 836-0692. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you have questions or complaints regarding our privacy policy or practices, you you should first contact Five Star Alliance's privacy policy administrator, by phone at (703) 836-0692. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 ### Overview
 
 Five Star Alliance takes your privacy very seriously, and we appreciate the fact that by using our service you are placing a great deal of trust in us. Our service has been built from the ground up with your privacy foremost in mind. We know that privacy is an important issue for our clients, and it is thus an important issue for us. We make it our highest priority to secure and protect the confidentiality of the personally identifiable information that you provide to us.
 
-This policy clearly explains the type of personally identifiable information we gather when you use the Five Star Alliance service. This policy also outlines the steps we have taken to safeguard the data we collect, and it explains the control we provide to you over the data we collect.
+This policy clearly explains the type of personally identifiable information we gather when you use the Five Star Alliance service found on our web site: [www.fivestaralliance.com](http://www.fivestaralliance.com/ "www.fivestaralliance.com"). This policy also outlines the steps we have taken to safeguard the data we collect, and it explains the control we provide to you over the data we collect.
 
 ### Information we collect
 
@@ -50,7 +50,7 @@ A cookie is a small tag this is sent to your computer by your web browser when y
 
 The cookie on your computer is not connected to any personally identifiable information. No other web sites can access the information stored in this cookie. If you would like to refuse cookies, you can do so by changing your browsers settings. However some of our site features may not function properly.
 
-We also use a third-party tracking service called SearchIgnite that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate. The information collected by this cookie includes pages visited and IP addresses. It is not possible to connect this tracking information with any personally identifiable information, and no one other than Five Star Alliance has access to this data, which is used to understand how visitors interact with our site, and to improve the quality of our service.
+We also use a third-party tracking services that use cookies to track non-personally identifiable information about visitors to our site in the aggregate. The information collected by this cookie includes pages visited and IP addresses. It is not possible to connect this tracking information with any personally identifiable information, and no one other than Five Star Alliance has access to this data, which is used to understand how visitors interact with our site, and to improve the quality of our service.
 
 Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. Wedo not tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
@@ -58,7 +58,7 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 
 ### Behavioral Targeting / Re-Targeting
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [Clicking Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 ### How we share information
 
