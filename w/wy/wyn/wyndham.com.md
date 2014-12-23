@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndham.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615175553id_/http%3A//www.wyndham.com/terms-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndham.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223232151id_/http%3A//www.wyndham.com/terms-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice at Wyndham Hotels and Resorts
 
@@ -22,13 +22,13 @@ This Privacy Notice does not apply to hotels operated by franchisees (independen
 
 **Your Acceptance of Our Privacy Notice:** By using the Services, you accept the terms of this Privacy Notice and the ways we may use your information. If you do not accept the terms of this Notice, please do not continue to use the Services.
 
-[What Information Is Collected and How Is It Collected?](https://web.archive.org/web/20140615175553id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Collected)  
-[How Do We Use Your Information?](https://web.archive.org/web/20140615175553id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#UseInfo)  
-[How Do We Disclose Your Information?](https://web.archive.org/web/20140615175553id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Disclose)  
-[How Do We Safeguard Your Information?](https://web.archive.org/web/20140615175553id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Safeguard)  
-[Other Important Information](https://web.archive.org/web/20140615175553id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Important)  
-[Choices and Contact Us with Your Questions](https://web.archive.org/web/20140615175553id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Choices)  
-[Contact Information](https://web.archive.org/web/20140615175553id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Contact)  
+[What Information Is Collected and How Is It Collected?](https://web.archive.org/web/20141223232151id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Collected)  
+[How Do We Use Your Information?](https://web.archive.org/web/20141223232151id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#UseInfo)  
+[How Do We Disclose Your Information?](https://web.archive.org/web/20141223232151id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Disclose)  
+[How Do We Safeguard Your Information?](https://web.archive.org/web/20141223232151id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Safeguard)  
+[Other Important Information](https://web.archive.org/web/20141223232151id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Important)  
+[Choices and Contact Us with Your Questions](https://web.archive.org/web/20141223232151id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Choices)  
+[Contact Information](https://web.archive.org/web/20141223232151id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Contact)  
 
 
 #### What Information Is Collected and How Is It Collected?
@@ -66,8 +66,8 @@ This Privacy Notice does not apply to hotels operated by franchisees (independen
   * **Cookies:** This Website uses "cookies". By using this Website and agreeing to this Notice, you consent to our use of cookies in accordance with the terms of this Notice. Cookies are small text files that this Website sends to your computer for record-keeping purposes and this information is stored in a file on your computer's hard drive. Cookies make web surfing and browsing easier for you by saving your preferences so that we can use these to improve your next visit to this Website. 
     * One of the purposes of cookies is to simplify the use of the Website. A cookie may save a user's login details for example, so that the user does not need to login every time. Cookies, by themselves, do not provide us with your personal information.
     * Cookies may be either "persistent" or "temporary" (or "session") cookies. A persistent cookie retains user preferences for a particular Website allowing those preferences to be used in future browsing sessions and remains valid until its set expiry date (unless deleted by the user before the expiry date). A temporary cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
-    * Cookies are also used for statistical or marketing purposes, to determine how the Website is used. These cookies are provided by us as well as by third parties (e.g., advertising partners). While we do not control or have access to the advertiser cookies we do permit those cookies to be used on this Website to facilitate tailored advertising and to monitor patterns of buying specific goods or interest in - for example, holidays or hobbies. These cookies run advertisements tailored to the user based on his online buying habits. For a current list of the advertising partners using cookies on this Website, please email [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com).
-    * Your browser may be set to allow you to be notified when a cookie is to be placed on your browser, decline the cookie, or delete cookies that have been placed on your browser. Some functions of our Web sites may not work or may work slowly if a cookie is refused.
+    * Cookies are also used for statistical or marketing purposes, to determine how the Website is used. These cookies are provided by us as well as by third parties (e.g., advertising partners). While we do not control or have access to the advertiser cookies we do permit those cookies to be used on this Website to facilitate tailored advertising and to monitor patterns of buying specific goods or interest in - for example, holidays or hobbies. These cookies run advertisements tailored to the user based on his online buying habits.
+    * For a current list of the advertising partners who use cookies on this Website, and to modify your cookies settings, please access our [Cookie Consent](http://info.evidon.com/pub_info/3430?v=1) tool. Additionally, your browser may be set to allow you to be notified when a cookie is to be placed on your browser, decline the cookie, or delete cookies that have been placed on your browser. Some functions of our Web sites may not work or may work slowly if a cookie is refused.
   * For clients booking at a property located in Germany: We may use cookies to create usage profiles under pseudonyms for marketing and market research purposes and to tailor this Website to your needs. The usage profiles will not be merged with personal information about the holder of the pseudonym and the information will not be used to identify you. If you object to the creation of usage profiles at any time, contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com) to opt out. The opt-out information will be stored in your browser for use during future visits to this Website. In addition, see above for how to delete or block cookies at any time. 
     * **Google Analytics:** We use Google Analytics to help us get a better understanding of how visitors use this Website. The information generated by the Google Analytics cookie about your use of this Website is transmitted to and stored by Google. If you do not want your activity on this Website to be tracked by Google Analytics, you may opt out by using this link: <http://tools.google.com/dlpage/gaoptout?hl=en>
   * **From Other Sources:** We may receive your personal information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties. For example, if you elect to connect your social media account to your Website account, certain personal information from your social media account will be shared with us, which may include personal information that is part of your profile or your friends' profiles. 
@@ -98,7 +98,7 @@ We may also aggregate and/or anonymize personal information for research, to imp
 
 **Your information may be disclosed as follows:**
 
-  * **Affiliates:** To other Wyndham businesses (our "Affiliates") which may jointly use the personal information for the purposes described in this Privacy Notice. Wyndham Worldwide Corporation is the party responsible for the management of jointly used personal information. More information on our Affiliates can be found within Wyndham Worldwide's [10-K Annual Report](http://www.wyndhamworldwide.com/investors/annual-report).
+  * **Affiliates:** To other Wyndham businesses (our "Affiliates") which may jointly use the personal information for the purposes described in this Privacy Notice. More information on our Affiliates can be found within Wyndham Worldwide's [10-K Annual Report](http://www.wyndhamworldwide.com/investors/annual-report).
   * **Franchised Hotels, Managed Hotels, Vacation Rentals:** We may share personal information with the owners and operators of our franchised hotels or owners of hotels that we manage but do not own and timeshare resorts in order to provide you with services.
   * **Vendors and Service Providers:** We may disclose your information to vendors and service providers retained by us in connection with our business such as: travel services companies, financial services companies, property owners' associations, vacation insurance companies, website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, tax and financial advisers, legal advisers, accountants or auditing services. 
   * **Message Boards:** We may make message boards, blogs, and other such user-generated content facilities available to users. Any information that is disclosed in these areas becomes public information and you should always be careful when deciding to disclose your personal information. We are not responsible for privacy practices of other users including website operators to whom you provide information.
@@ -133,11 +133,14 @@ We may also aggregate and/or anonymize personal information for research, to imp
     * If you do not wish to receive further direct marketing from us about Wyndham products or services, send an email to [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com). 
   * **Notice to California Residents:** If you are a resident of California, California Civil Code Section 1798.83 allows you to request information regarding the disclosure of your personal information by us to third parties for the third parties' direct marketing purposes. With respect to these entities, this Notice applies only to their activities within the State of California. To make such a request, please contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com). 
   * **Access to Information We Hold about You:** If you would like to access, obtain copies, update, correct or request that we suppress or delete any of the information we hold about you or if you require further information from us about how we use your information please contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com). In some jurisdictions, you may be charged a reasonable fee for access to your information.
-  * For clients booking a property located in Italy: Please click here.
 
 
 
-Responsible Persons and Representatives: Contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com) to obtain free of charge a complete and up to date list of "Responsible Persons" i.e., any person who we voluntarily appoint as such and who processes your personal information for and on our behalf, including vendors, service providers and/or our Affiliates (as applicable). You may contact our "Responsible Persons" to obtain copies of or access to your personal information. Currently, Wyndham Hotels and Resorts's Privacy Lead is appointed as a "Responsible Person" to process your personal information for Hospitality Services. Separately, we may appoint a representative in your country for data privacy purposes. Contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com) for details.
+For clients booking a property located in Italy:
+
+  * Responsible Persons and Representatives: Contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com) to obtain free of charge a complete and up to date list of "Responsible Persons" i.e., any person who we voluntarily appoint as such and who processes your personal information for and on our behalf, including vendors, service providers and/or our Affiliates (as applicable). You may contact our "Responsible Persons" to obtain copies of or access to your personal information. Currently, Wyndham Hotels and Resorts's Privacy Lead is appointed as a "Responsible Person" to process your personal information for Hospitality Services. Separately, we may appoint a representative in your country for data privacy purposes. Contact us at [privacy.policy@wyn.com](mailto:privacy.policy@wyn.com) for details.
+
+
 
 Additional information about your data privacy rights: You have a right to:
 
@@ -167,7 +170,7 @@ Parsippany, New Jersey 07054
 Attn: Legal Privacy  
 
 
-  * Effective Date: December 31, 2013
-  * Last Updated Date: December 31, 2013
+  * Effective Date: July 18, 2014
+  * Last Updated Date: July 18, 2014
 
 
