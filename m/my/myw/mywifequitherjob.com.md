@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywifequitherjob.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626173649id_/http%3A//mywifequitherjob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywifequitherjob.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223120454id_/http%3A//mywifequitherjob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyWifeQuitHerJob.com
 
@@ -20,3 +20,6 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.  
 ``  
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+**Affiliate Links**  
+Please note that some of the links on the blog are affiliate links, and at no additional cost to you, I will earn a commission if you decide to make a purchase. Please understand that I have experience with all of the companies that I mention, and I recommend them because they are helpful and useful, not because of the small commissions I make if you decide to buy something. Please do not spend any money on these products unless you feel you need them or that they will help you achieve your goals.
