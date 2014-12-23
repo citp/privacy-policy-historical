@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523232809id_/http%3A//www.theladders.com/theladders-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223201604id_/http%3A//www.theladders.com/theladders-privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-**Updated May 21, 2014**
+**Updated December 2, 2014**
 
-This Privacy Policy describes the how TheLadders.com, Inc. (" **TheLadders** ") collects, uses and discloses the Personal Information we collect about our users, including jobseekers, recruiters, employers and guests ("you"), when you use TheLadders website, including [www.theladders.com](http://www.theladders.com/), recruit.theladders.com and related pages (the " **Site** "), or mobile application (the " **App** ") and the services available through each (the " **Services** "). 
+This Privacy Policy describes the how TheLadders.com, Inc. (" **TheLadders** ") collects, uses and discloses the Personal Information we collect about our users, including jobseekers, recruiters, employers and guests ("you"), when you use TheLadders website, including [www.theladders.com](http://www.theladders.com/), recruit.theladders.com and related pages (the " **Site** ") and the services available through each (the " **Services** "). 
 
-By using the Site, the App or the Services, you consent to the information collection and use practices described in this Privacy Policy. Your use of our Site, App or Services, and any dispute over privacy, is subject to this Privacy Policy and our Terms of Use, including its applicable limitations on damages and the resolution of disputes. Please read this Privacy Policy to learn more about the ways in which we collect, use and protect your Personal Information. 
+By using the Site or the Services, you consent to the information collection and use practices described in this Privacy Policy. Your use of our Site or Services, and any dispute over privacy, is subject to this Privacy Policy and our Terms of Use, including its applicable limitations on damages and the resolution of disputes. Please read this Privacy Policy to learn more about the ways in which we collect, use and protect your Personal Information. 
 
 For the purposes of this Privacy Policy, **"Personal Information"** means information that would allow a third party to learn your identity or contact you, including, for example, your full name, address, telephone number, email address, or credit card number. 
 
@@ -40,9 +40,9 @@ For the purposes of this Privacy Policy, **"Personal Information"** means inform
 
 **Information We Collect**
 
-We may collect information about you directly from you and from third party sources, as well as automatically through your use of our Site, App and Services. 
+We may collect information about you directly from you and from third party sources, as well as automatically through your use of our Site and Services. 
 
-Information We Collect Directly From Jobseekers. We collect information from you when you register for or use our Services including: name, email address, photograph, zip code, current or past employers, dates of employment and income information as well as other information that you submit as part of your profile or that may be useful in helping us to match you with job opportunities. We also collect and store information about your use of the Site, App and Services, such as jobs you've applied to, jobs you've viewed, the resumes you've posted, and similar information. 
+Information We Collect Directly From Jobseekers. We collect information from you when you register for or use our Services including: name, email address, photograph, zip code, current or past employers, dates of employment and income information as well as other information that you submit as part of your profile or that may be useful in helping us to match you with job opportunities. We also collect and store information about your use of the Site and Services, such as jobs you've applied to, jobs you've viewed, the resumes you've posted, and similar information. 
 
 Information We Collect Directly From Recruiters or Employers. We collect information from you when you register for or use our Services, including name, email address, photograph, zip code, company name, as well as other information that you submit as part of your profile or job posting that may be useful in helping us to match you with candidates for your available jobs. We may also collect information such as your searches, clicks, views, and other actions taken on the Site. 
 
@@ -50,10 +50,9 @@ Payment Information. If you make a purchase on our Site, we will collect and sto
 
 Information We Collect From Other Sources. We may also collect information about you from other publicly available sources, which we may combine with the other Personal Information we have collected about you. 
 
-Information We Collect Automatically. We track clickstream data and other data to monitor utilization and to improve customer experience. We use this information to help diagnose problems with our server, administer our Site and App, analyze trends, track users' movement on our Site and App, gather broad demographic information for aggregate use in order for us to improve the Site, App, and our Services, and to deliver customized, personalized content. We also may track and use your location information to customize information that we provide to you. We may use this information in the aggregate. We also may combine this information with Personal Information that we have collected about you. 
+Information We Collect Automatically. We track clickstream data and other data to monitor utilization and to improve customer experience. We use this information to help diagnose problems with our server, administer our Site, analyze trends, track users' movement on our Site, gather broad demographic information for aggregate use in order for us to improve the Site and our Services, and to deliver customized, personalized content. We also may track and use your location information to customize information that we provide to you. We may use this information in the aggregate. We also may combine this information with Personal Information that we have collected about you. 
 
   * Site Data. We automatically collect the following information about your use of our Site through cookies, web beacons, and other technologies: your domain name; browser type and operating system; web pages you view; links you click; searches, including search terms, your IP address; the length of time you visit our Site and use our Services; the referring URL, or the website that led you to our Site and other actions that you may take on our Site. 
-  * App Data. If you download our App, we will collect your location information (if you grant us permission); your time and all actions in our App; including without limitation, searches, search terms, clicks), and from where you downloaded our App. 
 
 
 
@@ -64,8 +63,8 @@ We retain and use the information we collect about you for the following reasons
   * To provide our Services to you, to communicate with you about your use of our Services, to respond to your inquiries, to fulfill your orders, process your payments and for other customer service purposes. 
   * If you are a jobseeker, to share with recruiters and employers. If you are a recruiter, to share with jobseekers. 
   * If you are a recruiter, to index and display your profile information through third party search engines. 
-  * To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site, App or Services. 
-  * To understand how users access and use our Site, App and Services, both on an aggregated and individualized basis, in order to improve our Site, App and Services and respond to user desires and preferences. 
+  * To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site or Services. 
+  * To understand how users access and use our Site and Services, both on an aggregated and individualized basis, in order to improve our Site and Services and respond to user desires and preferences. 
   * To personalize content and recommendations, and to send marketing and other promotional information, including information about jobs and other products and services in which we think you may be interested. 
   * As necessary to comply with our legal obligations, resolve disputes, enforce our agreements (including this Privacy Policy and the Terms of Use), to protect or defend our rights, to investigate, prevent, or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the safety of any person. 
   * We may also use aggregate or de-identified information about users for other marketing, research and other purposes. 
@@ -76,7 +75,7 @@ We retain and use the information we collect about you for the following reasons
 
 We do not sell or rent your Personal Information to third parties so that those third parties can market their own products or services to you. We may, however, disclose the information we collect about you, including your Personal Information, as follows: 
 
-  * Jobseeker Information Disclosed. If you post a resume or create a profile, all information posted will be visible and available for download to recruiters, hiring managers and companies seeking employees. If you "like" a job on our Site or App we will share your name, contact information and other relevant information with the recruiter or hiring manager for the job you have applied to or chosen to "like." All recruiters and hiring managers are believed by us to be legitimately seeking applicants for available positions; however, we are not liable for the actions of these recruiters or hiring managers and their use of your information is not subject to this Privacy Policy. Recruiters and hiring managers may share your profile information and/or resume with others in connection with their search for candidates for available positions. 
+  * Jobseeker Information Disclosed. If you post a resume or create a profile, all information posted will be visible and available for download to recruiters, hiring managers and companies seeking employees. If you "like" a job on our Site we will share your name, contact information and other relevant information with the recruiter or hiring manager for the job you have applied to or chosen to "like." All recruiters and hiring managers are believed by us to be legitimately seeking applicants for available positions; however, we are not liable for the actions of these recruiters or hiring managers and their use of your information is not subject to this Privacy Policy. Recruiters and hiring managers may share your profile information and/or resume with others in connection with their search for candidates for available positions. 
   * Recruiter Information Disclosed. If you are a recruiter or employer and you have created a profile or job opportunity, all information that you post will public and visible to jobseekers seeking job opportunities and other users of the Site. In addition, your profile will be indexed and displayed through third party public search engines when someone searches for your name. Note that, although you may update your profile these third-party search engines may not automatically update their caches, which may contain old profile information. Unless you delete it, your profile is always viewable. In addition, your activity on the site (e.g., searches, clicks, profile views, etc.) may be disclosed to jobseekers. All jobseekers are believed by us to be legitimately seeking job opportunities, however, we are not liable for the actions of these jobseekers and their use of your information is not subject to this Privacy Policy. 
   * Third Party Search Engines. Recruiter profile information is indexed and displayed through third party search engines. Use by third parties of profile information disclosed on third party search engines is not subject to this Privacy Policy. 
   * Affiliates. We may share the information we collect about you with our subsidiaries or affiliated companies, and their use of your Personal Information will be subject to this Privacy Policy. 
@@ -91,7 +90,7 @@ We do not sell or rent your Personal Information to third parties so that those 
 
 **Use of "Cookies" and Other Tracking Technologies.**
 
-We use cookies and other tracking technologies (including technologies designed specifically for mobile applications) to collect information about you and about your use of our Site, App and Services. We may combine this information with other personal information we collect from you. We use this information to enhance and personalize your experience while using of Site, App and Services, to track user activities in order to understand how users use our Services, and to improve our Site, App and Services. 
+We use cookies and other tracking technologies to collect information about you and about your use of our Site and Services. We may combine this information with other personal information we collect from you. We use this information to enhance and personalize your experience while using of Site and Services, to track user activities in order to understand how users use our Services, and to improve our Site and Services. 
 
 Cookies. Cookies are pieces of information that some websites transfer to your computer, through your web browser, for record-keeping purposes. Use of cookies makes web-surfing easier by performing certain functions such as saving your passwords and your preferences regarding use of the particular website. Cookies also allow us to track your activities at our Site and provide you with personalized display advertising. To opt out of this advertising, [click here](http://dtmc.theladders.com/adinfo/adchoices_fpc_gen.html?cid=2675&cname=Ladders&cmagic=a8aa68&clogo=the_ladders.png). 
 
@@ -115,13 +114,13 @@ Opting out of one or more NAI member or DAA member networks (many of which will 
 
 **Customer Reviews and User Generated Content**
 
-In some instances we may select and post customer reviews on our Site and App, which may contain Personal Information such as the customer's name. We will obtain your consent to use your name, prior to posting the review. Also, in certain parts of the Site, we may invite you to post content on our Site, including your comments, pictures, and any other information that you would like to be available to other users or recruiters on our Site. If you post such content, it will be available to recruiters and other users of the Site. Your posting may also become public and TheLadders cannot prevent such information from being used in a manner that may violate this Policy, the law, or your personal privacy. 
+In some instances we may select and post customer reviews on our Site which may contain Personal Information such as the customer's name. We will obtain your consent to use your name, prior to posting the review. Also, in certain parts of the Site, we may invite you to post content on our Site, including your comments, pictures, and any other information that you would like to be available to other users or recruiters on our Site. If you post such content, it will be available to recruiters and other users of the Site. Your posting may also become public and TheLadders cannot prevent such information from being used in a manner that may violate this Policy, the law, or your personal privacy. 
 
-If you would like us to remove your name, review or other content from our Site, you may contact us at [unsubscribe@theladders.com](mailto:unsubscribe@theladders.com). Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or App for a period of time. 
+If you would like us to remove your name, review or other content from our Site, you may contact us at [unsubscribe@theladders.com](mailto:unsubscribe@theladders.com). Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site for a period of time. 
 
 **How To Access and Update Your Personal Information**
 
-If your Personal Information changes, or if you wish to cancel your account, you may do so by making the change on our member information page or by emailing our Customer Support team at [help@theladders.com](mailto:help@theladders.com) (to make a change) or [unsubscribe@theladders.com](mailto:unsubscribe@theladders.com) (to cancel). Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site or App for a period of time. 
+If your Personal Information changes, or if you wish to cancel your account, you may do so by making the change on our member information page or by emailing our Customer Support team at [help@theladders.com](mailto:help@theladders.com) (to make a change) or [unsubscribe@theladders.com](mailto:unsubscribe@theladders.com) (to cancel). Please note that copies of information that you have updated, modified or deleted may remain viewable in cached and archived pages of the Site for a period of time. 
 
 **Newsletters and Communications from Us**
 
@@ -137,7 +136,7 @@ TheLadders.com has implemented and follows reasonable security measures to prote
 
 **Third Party Websites**
 
-Our Site and App may contain links to other websites or mobile applications. Please note that when you click on one of these links, you are entering another website over which TheLadders.com has no control and will bear no responsibility. Often these websites require you to enter your Personal Information as you apply for a job directly with the hiring company. We encourage you to read the privacy statements on all such websites as their policies may differ from ours. 
+Our Site may contain links to other websites. Please note that when you click on one of these links, you are entering another website over which TheLadders.com has no control and will bear no responsibility. Often these websites require you to enter your Personal Information as you apply for a job directly with the hiring company. We encourage you to read the privacy statements on all such websites as their policies may differ from ours. 
 
 **Changes to this Privacy Policy**
 
@@ -152,6 +151,8 @@ If you have questions or concerns regarding this Privacy Policy, you should cont
 RECENT HISTORICAL MODIFICATIONS: 
 
 Date Description of Material Modification 
+
+12/02/14 Clarified that the Privacy Policy does not apply to the Ladders Mobile Application 
 
 05/21/14 Update for personalized display advertising with opt out link 
 
