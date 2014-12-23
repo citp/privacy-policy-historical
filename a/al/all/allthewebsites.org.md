@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthewebsites.org privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326223515id_/http%3A//www.allthewebsites.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthewebsites.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223031636id_/http%3A//www.allthewebsites.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy : AllTheWebSites - Allthewebsites.org
 
