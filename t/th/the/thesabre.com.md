@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesabre.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614022432id_/http%3A//virginia.sportswar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesabre.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223052903id_/http%3A//virginia.sportswar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheSabre.com
 
@@ -20,7 +20,9 @@ Many companies offer programs that help you to visit websites anonymously. While
 
 ### E-mail Communications
 
-TheSabre.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. TheSabre.com may send out e-mails with TheSabre.com-related news, products, offers, surveys or promotions.
+TheSabre.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below.
+
+TheSabre.com may send out e-mails with TheSabre.com-related news, products, offers, surveys or promotions. To opt out of these emails, make sure you’re logged into the site, click the “Account” link in the header, and uncheck the appropriate box in the “Newsletter Subscriptions” area.
 
 ### Cookies
 
