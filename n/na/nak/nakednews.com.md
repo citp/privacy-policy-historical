@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nakednews.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610170704id_/http%3A//www.nakednews.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakednews.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223185556id_/http%3A//www.nakednews.com/privacy_policy) for the most accurate reproduction.*
 
-# Naked News - NakedNews.com Breaking News, Latest Video News "NAKED"
+# Privacy Policy | Naked News
 
 Our Commitment
 
@@ -106,4 +106,4 @@ You can correct factual errors in your personally identifiable information by se
 
 How To Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please send us an email at [Membership@NakedNews.com.](https://web.archive.org/contact_us)
+Should you have other questions or concerns about this Privacy Policy, please send us an email at [Membership@NakedNews.com.](https://web.archive.org/contact)
