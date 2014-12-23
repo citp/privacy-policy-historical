@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the daptiv.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213033249id_/http%3A//www.daptiv.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daptiv.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223132713id_/http%3A//www.daptiv.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **DAPTIV SOLUTIONS, LLC POLICY**
 
-Privacy Statement Effective as of March 01, 2012
+Privacy Statement Effective as of April 01, 2014
 
 Daptiv Solutions, LLC (" **Daptiv** ")is committed to protecting the privacy of your personal information. This privacy policy (" **Policy** ")explains how Daptiv collects and utilizes personal information provided in connection with the use Daptiv’s products and services such as the Daptiv website (the " **Site** "), the online project management application or other Daptiv products and services (the  " **Daptiv Offerings** "). Because data is collected from our visitors to the Site and end users of the Daptiv Offerings (the  " **Subscribers** "), Daptiv has established this Policy to communicate Daptiv’s information gathering policies and dissemination practices. For a printable pdf file version of this Policy, [click here](http://www.daptiv.com/document_library/company/daptiv_privacy_policy.pdf).
 
@@ -83,8 +83,8 @@ Daptiv may release alpha and beta versions of the Daptiv Offerings, which are fu
 If you have questions about the privacy aspects of Daptiv’s products or services or would like to make a complaint, please contact:
 
 Daptiv Solutions, LLC  
-1008 Western Avenue, Suite 500  
-Seattle, WA 98104  
+1111 Thrid Avenue, Suite 700  
+Seattle, WA 98101  
 (206) 341-9117  
 (206) 341-9123 fax  
 [support@daptiv.com](mailto:support@daptiv.com)
