@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605154532id_/https%3A//uk.parship.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223011112id_/http%3A//uk.parship.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy policy | PARSHIP.ie
 
   
 
 
-## General Privacy Policy for the use of PARSHIP.co.uk - Version 20.09.2012
+## General Privacy Policy for the use of PARSHIP.co.uk - Version 30.09.2014
 
   
 
@@ -338,7 +338,7 @@ Where the PARSHIP service is integrated with a website of a commercial partner, 
   
 
 
-The customer may at any time disable cookies. This is usually done by selecting the appropriate option in the browser settings or through other programs. For more information see the browser’s help faction. If the customer decides to disable the cookies, this can reduce the scope of services available and have a negative impact on the use of the PARSHIP service.
+The customer may at any time disable cookies. This is usually done by selecting the appropriate option in the browser settings or through other programs. For more information see the browser’s help faction. If the customer decides to disable the cookies, this can reduce the scope of services available and have a negative impact on the use of the PARSHIP service. To the [opt-out](http://www.greatviews.de/general_privacy_statement.html) procedure.
 
   
 
