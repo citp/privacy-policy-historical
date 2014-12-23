@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virginactive.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625144849id_/http%3A//www.virginactive.co.uk/legals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginactive.co.uk privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223041234id_/http%3A//www.virginactive.co.uk/legals/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Virgin Active
+# Privacy Policy
 
 ## Privacy Policy
 
@@ -10,7 +10,7 @@ Virgin Active knows that you care how information about you is used and shared a
 
 **1) Controllers of Personal Information**
 
-Any personal information provided to or gathered by Virgin Active Limited is controlled by Virgin Active Limited, Holmes Place Health Clubs Limited and Holmes Place Management Limited (the data controllers), whose registered office is at Active House, 21 North Fourth Street, Central Milton Keynes, Buckinghamshire MK9 1HL. A number of suppliers act as data processors on behalf of the data controllers from time to time which can be provided to you on request.
+Any personal information provided to or gathered by Virgin Active Limited is controlled by Virgin Active Limited, Holmes Place Health Clubs Limited and Holmes Place Management Limited (the data controllers), whose registered office is at: Virgin Active Limited, 100 Aldersgate Street, London, EC1A 4LX. A number of suppliers act as data processors on behalf of the data controllers from time to time which can be provided to you on request.
 
 **2) What Personal Information about club users does Virgin Active Limited Gather?**
 
@@ -106,4 +106,4 @@ Our business changes constantly and our Privacy Policy and the [website terms an
 
 **12) Contact**
 
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to the Legal Department, Virgin Active Limited, Active House, 21 North Fourth Street, Central Milton Keynes, Buckinghamshire, MK9 1HL.
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to the Legal Department, Virgin Active Limited, 100 Aldersgate Street, London, EC1A 4LX.
