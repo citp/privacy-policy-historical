@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hangerproject.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325194348id_/http%3A//www.hangerproject.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hangerproject.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223055936id_/http%3A//www.hangerproject.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,4 +35,4 @@ Do We Share Your Information?
 In short, no, we do not share your information with any third parties. We use the information you provide about yourself when inquiring for services to fulfill your request. We do not share this information with outside parties except to the extent necessary to complete that inquiry (i.e., U.S. Postal Service to deliver your package). We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can register with our web site if you would like to receive updates on our new products and services. Information you submit on our web site will not be used for this purpose unless you fill out a subscription form. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
 How to Contact Us  
-Should you have other questions or concerns about these privacy policies, [contact us](http://www.hangerproject.com/contacts). 
+Should you have other questions or concerns about these privacy policies, [contact us](http://www.hangerproject.com/contacts/). 
