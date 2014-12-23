@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchout2go.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319235607id_/http%3A//www.punchout2go.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchout2go.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223210043id_/http%3A//www.punchout2go.com/about/privacy-policy) for the most accurate reproduction.*
 
 # PunchOut2Go :: Privacy Policy
 
