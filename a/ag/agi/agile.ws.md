@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agile.ws privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630203520id_/https%3A//agilebits.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agile.ws privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223040408id_/https%3A//agilebits.com/store/privacy) for the most accurate reproduction.*
 
 # AgileBits Privacy Policy
 
