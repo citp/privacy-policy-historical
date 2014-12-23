@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmstrader.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626030027id_/http%3A//www.cmstrader.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmstrader.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223034608id_/http%3A//www.cmstrader.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement|privacy|protect Client’s Privacy Statement
 
 **CMSTrader is fully committed to the protection of privacy of the personal and financial information of its clients.  We carefully explain how we handle the data of our Clients and ensure its protection. By opening an account, the Client hereby gives CMS Ventures LTD its consent to such collection, processing, storage and use of personal information by CMS Ventures LTD as explained below.** ****
 
