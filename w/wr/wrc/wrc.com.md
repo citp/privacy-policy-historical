@@ -1,85 +1,121 @@
-> *The following text is extracted and transformed from the wrc.com privacy policy that was archived on 2014-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140224032723id_/http%3A//www.wrc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrc.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223203509id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/page/688----.html) for the most accurate reproduction.*
 
 # WRC - wrc.com
 
-## Data Protection & Privacy Policy
+## Privacy Policy & Data Protection
 
-(last updated on 20. July 2013)
+(Last update: July 2014)
 
-### **1\. Privacy Statement**
+###  1. General
 
-WRC Promoter GmbH, Liebherrstrasse 22, 80538 Munich in Germany ("WRC Promoter") respects your right to privacy and personal data. This Data Protection and Privacy Policy ("Privacy Policy"), together with our Terms and Conditions, explains how we use your personal information and data collected from the website and your rights in respect of such information and data. Personal information provided by you or gathered by us is controlled by us in accordance with the applicable data protection regulations and laws, in particular with the German Datenschutzgesetz. The WRC Promoter has taken appropriate measures to keep secure any personal information given by users of this website. Under no circumstances will we sell or distribute your personal data for money to any third party.
+Like every digital service provider, we (WRC Promoter GmbH, Liebherrstraße 22 in 80538 Munich, Germany, hereinafter also referred to as ”WRC” or “We”) also manage personal data in connection with the use of our services, offers and websites with the URL [www.wrc.com](http://www.wrc.com/ "www.wrc.com"), [www.wrcplus.com](http://www.wrcplus.com/ "www.wrcplus.com") and our WRC application (together hereinafter referred to as “Services”). 
 
-### **2\. What Information do we collect?**
+The following policy provides an overview of the personal data we manage, collect, process and use, the security measures we take therefore, and how you can exercise your rights regarding your personal data. Our Services may contain links to other providers’ websites that are not covered by this privacy statement.
 
-We collect and process the following information about you:  
-• the information provided by you on registration, such as your name, phone number, email, address;  
-• information about your website preferences and log-in status even if you leave the site and return;  
-• information we learn about you from your use of the website and content offered by us;  
-• details of transactions you carry out through the website; and  
-• information you provide when giving us feedback and content.
+### 2. Security 
 
-### **3\. For what Purposes do we use the Information we collect?**
+Protecting your personal data is very important to us. We therefore handle it in compliance with applicable legal regulations in accordance with the provisions of German law. In no case will WRC forward your personal data to third parties through sale, lease, or exchange. If government agencies or authorities ask us to collect or share personal data, we will do so only within the appropriate legal frameworks.
 
-We use personal information collected from you for the following purposes:  
-• to deliver and provide you with our content and services;  
-• to improve and personalise the website, content and services;  
-• to research our website, content and services;  
-• to ensure that the website, services and content are relevant to you;  
-• to carry out auditing, research and analysis in order to maintain, protect and enhance the website, its content or the services we provide; and  
-• to transfer your details to relevant third parties, public bodies, competent authorities, industry organizations, collection agencies, regulators, assignees as reasonably required for the operation of our business and in the event of a merger or acquisition.
+WRC uses technical and organizational security measures to protect the data we hold about you against accidental or deliberate manipulation, loss, deletion or unauthorized access. Our security measures are being improved continuously as new technology develops. The processing and transmission of data is encrypted by the SSL (Secure Sockets Layer) protocol.
 
-We may also monitor your usage of the website, and content or services you receive, request or provide when using the website for the purposes of quality control.
+### 3. Collection and processing of personal data
 
-### **4\. How do we store and when do we transfer your personal Information?**
+WRC stores and processes your personal information if you provide it to us yourself, for example, during registration, as part of a survey or competition, registration for newsletters, subscriptions or queries from users and customers, feedback or during contractual transactions (e.g. order or subscriptions). Information qualifying as personal data would for instance be your actual name, your title, mailing address, telephone number, e-mail address, age, country, your complete IP address and content or Service preferences.
 
-All personal information that you submit via the website is sent to and stored on secure servers located in the European Union. Information submitted by you may be disclosed by us to other companies organizing or participating at the FIA World Rally Championship, such as the Fédération Internationale de l'Automobile ("FIA"), our affiliates and to the third parties mentioned in the circumstances described below, which may be situated outside the European Union and may be processed by staff operating outside the European Union. By submitting information via the website, you agree to this storing, processing and transfer.
+We collect and process data in order to provide to you our Services and content therein. To transfer data to you, the web server collects information on the device used to access the Service, the operating system, the web browser used, the volume of data transferred, the time of access, the referrer, and the IP address stored in the server’s log file. The log files are deleted at the end of the session on the Service.
 
-### **5\. Disclosure of your Information**
+Furthermore WRC analyses traffic on the Services in order to understand our customers' requirements and, based on these, to continually improve our websites and applications. For this reason we store the IP address of a visitor’s Internet Service Provider as standard. The IP address is not linked to a specific person. Only anonymous, aggregate data is evaluated for statistical purposes during web analysis. Data from individual uses of our Services is stored for error analysis. This information is used solely for correcting errors and is deleted after a two week storage deadline. WRC uses cookies to track visitor preferences and to improve the design of its websites and applications accordingly. If ratings are submitted for a website or application, anonymized and non-personal data will be forwarded to a third party supplier. 
 
-We may share the information we collect among our affiliated companies at home and abroad (also outside of the European Union) including our partners, joint ventures and with any future owners of the website, but subject always to applicable law.  
-We may from time to time employ other companies and individuals to carry out functions on our behalf including delivering services, sending mails, providing marketing assistance, analysing data, providing customer services and for accounting and invoicing purposes. In order to carry out their functions these companies and individuals may require access to your personal information but we shall only disclose such relevant personal information as is needed by them to perform their functions.  
-Where requested to do so, we may co-operate with any court, tribunal, regulatory body, police authority or other similar authority in any investigations or proceedings concerning you or your use of the website. This may include disclosing information about communications transmitted via the website to the authorities where required.  
-Whilst we take measures to safeguard the personal information that you provide to us, no transmission over the internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal information that you transfer to us over the internet.
+### 4. Cookies
 
-### **6\. Social Plugins**
+Cookies are used on the Services. They are text files with information on the use of the Services (visited web pages, number of visits, time of visits, duration on individual pages, the browser used, the operating system used, etc.). Cookies can be of a lasting nature – meaning they remain until they are deleted – or temporary, in which case they are deleted, for example when a session ends. As purely text files, cookies do not intervene in your computer’s system, but only influence the presentation of content of the Services you use or visit. Usage patterns contained in cookies are evaluated anonymously to allow advertising companies to subsequently display advertising (e.g. banners) on other websites or applications targeted to the respective user’s interests. Our Services use pseudonymous cookies, each of which is assigned a random string of numbers or numbers and letters; based on this string, we can determine that the visit is from the same user. The identity of this user cannot be determined based on this string of numbers. Our service providers also use such cookies. 
 
-Our website uses social plugins ("Plugins") currently from the following social networks: facebook.com ("Facebook") and micro-blogging service twitter.com ("Twitter").  
-Facebook is a social network, operated by Facebook Inc. (1601 S. California Avenue, Palo Alto, CA 94304, USA). When you visit a page of our website that contains a Facebook Plugin, your browser establishes a direct connection to Facebook servers. Facebook directly transfers the Plugin content to your browser, which embeds the latter into the website, enabling Facebook to receive information about you having accessed the respective page of our website. We have no influence on the data gathered by the Plugin and inform you according to our state of knowledge. If you are logged into Facebook, your visit can be assigned to your Facebook account. If you interact with the Plugins, for example by clicking “Like”, or by entering a comment, the corresponding information is transmitted from your browser directly to Facebook and stored by it. If you are a Facebook member and do not want Facebook to connect the data concerning your visit to our website with your member data already stored by Facebook, please log off Facebook before entering our website. Even if you are not logged into Facebook, there is a possibility that the Plugins transmit your IP-address to Facebook. For the information on the purpose and scope of data collection and procession by Facebook, as well as your rights in this respect and settings options for protecting your privacy please visit Facebook's privacy policy: www.facebook.com/policy.php. Further you can block Facebook Plugins by using add-ons for your browser, like the “Facebook Blocker“.
+In addition, the Services set a cookie with your current IP address with the last eight digits cut off. These cookies are primarily used to record the distribution of banners, pop-ups, the page view count, and the multimedia content and thus to make the use of Services easier and more effective. In no case are your personally identifiable data – name, address, and e-mail address – stored in the cookies.  
 
-Twitter is a micro-blogging service, provided by Twitter Inc. (795 Folsom St., Suite 600, San Francisco, CA 94107, USA). When you visit a page on our website that includes such a Plugin, your browser connects directly with the servers at Twitter. The content of the Plugin is transferred from Twitter directly to your browser, which incorporates it into the website. For this reason, we have no influence on the amount of data gathered by Twitter with the aid of this Plugin. We provide this information to the best of our knowledge, which is that only the IP address of your connection and the URL of our website are transmitted when the Plugin is acquired, but are not used for purposes other than display of the content in the Plugin.
+You can either set your browser to receive our cookies or use our Services without the cookie function. In this case all text entries in forms will not be saved for further enquiries. You will have to re-enter this information every time you visit our site. Your browser might show a warning message if it receives a cookie. With every query of a new WRC+ page the identification cookie needs to be sent, so the warning message can be disturbing. We recommend setting your browser to accept cookies from WRC.com and WRCplus.com. These settings can be individualized for every website.
 
-### **7\. Tracking Software and Cookies - what are they and how do we use them?**
+### 5. Web/App Analysis Tools
 
-Like most websites, WRC.com uses our own and third party tracking software to help us analyse and understand your use of the website and its content. Such analytical tools use cookies which are text files placed on your computer’s hard drive by the website that collect certain information and data about you and your visits to the website, such as your IP address, browser type, the time and length of your visit, the pages of the website you visit and other clickstream data. Please note, a cookie only tracks a device’s access and use the website, it has no knowledge of, or interest in, who is using that device. Using the information from cookies enables us to tailor our services to you and make your use of the website and services more user friendly and efficient. Most internet browsers allow you to erase cookies and tracking software from your computer’s hard drive, receive a warning before they are stored, or to turn off the cookie or tracking software altogether. If you want to know how to do this please refer to your browser instructions or help screen, but please be aware that if you refuse cookies or tracking software it may lead to a decreased level of functionality of the website.
+The Services use analysis services, in particular Webtrekk and ComScore, as well as Google Analytics, which in turn use cookies. 
 
-Google Analytics is one of the tracking software we use, a web analytics service provided by Google, Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA). Google Analytics also uses “Cookies”. The information generated by the Cookie about your use of our website (including your IP- address) will usually be transmitted to and stored by Google on servers in the USA. If you activate the IP-anonymisation on our website though, your IP-address will be shortened by Google within a member states of the European Union or within other states that are parties to the European Economic Area Agreement. Only in exceptional cases will your IP-address be fully transferred to a server of Google in the United States and be shortened there. Google will use this information on our behalf for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google will not associate your IP-address with any other data held by Google. You may refuse the use of Cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of our website. You can also prevent the acquisition of the data generated by the Cookie (including your IP-address) by downloading and installing the browser-plugin available by the following link: tools.google.com/dlpage/gaoptout. You can find further information here:  
-www.google.com/intl/en_uk/analytics/privacyoverview.html.
+### 5.1 Google Analytics and Adwords
 
-Webtrends Analytics is another tracking software we use, also a web analytics service provided by Webtrends Inc. (851 SW 6th Ave. Suite 1600, Portland, OR 97204, USA). Webtrends tracks and analyzes non-personally identifiable usage and volume statistical information from our users. All data collected by Webtrends on our behalf is owned and used by us. For more information about how Webtrends collects data, please read their privacy policy at ondemand.webtrends.com/privacypolicy.asp#PSFV.
+In the event that Google Analytics, a service of Google Inc. (“Google”), is used, the information on your use of our Services generated by the cookie is always transmitted to a Google server in the United States and stored there. However, within the Member States of the European Union or in other contractual states of the Agreement on the European Economic Area, Google first truncates your IP address by means of IP anonymization on this Services; we use the “–anonymize()” extension. The full IP address is transmitted to a Google server in the United States and truncated there only in exceptional cases. Google uses the generated information on our behalf to evaluate your use of our Services in order to compile reports on Services activities and to perform other services for us associated with Services use and Internet use. In no case will Google combine the IP address collected using Google Analytics with other Google data. Google will transmit the information collected using Google Analytics to third parties as required if Google is legally bound to do so or if third parties process this information on behalf of Google. You can also prevent these cookies from being stored using the aforementioned settings in your browser. 
 
-Webtrekk Analytics is another tracking software we use, a Web analysis service from Webtrekk GmbH (Boxhagener Strasse 76-78, 10245 Berlin, Germany), to collect statistical data on the use of our website and optimise our services accordingly. Collected data is sent only to our statistics provider, Webtrekk GmbH. Webtrekk GmbH is data-privacy certified for Web analytics. Collection occurs via a cookie. Your IP address is anonymised, saved and sent, making it impossible to identify you via your IP address. Webtrekk uses session cookies, which are deleted when the browser session ends. The same is true for last-click cookies. The collected data is deleted once there is no longer a need to save it for analytical purposes, or upon user request. Users can opt out of the anonymised tracking of their visit data at any time, so that they are no longer tracked in the future. 
+In addition, you can object to the collection of the data generated by Google’s cookie and related to your use of the Services (incl. your IP address) and prevent processing of these data by Google by downloading and installing the browser plug-in available at the following link: https://tools.google.com/dlpage/gaoptout?hl=de.
 
-For more information about how Webtrekk collects data, please read their privacy policy at http://www.webtrekk.com/en/products/data-protection.html
+Google AdWords Remarketing is a remarketing and behavioral targeting service from Google. It links the activity on the Services with the Adwords advertising network and DoubleClick cookies. You can opt out of cookie tracking here:  
+http://google.com/settings/ads/onweb/optout?hl=en
 
-For exclusion from Webtrekk tracking, a cookie named “webTrekkOptOut” from the domain webtrekk.net is used. This tracking opt-out is active as long as this cookie is not deleted. To activate this opt-out, please click here http://www.webtrekk.com/en/index/dataprivacy/cookieoptout.html
+### 5.2 Webtrekk Analytics
 
-### **8\. Your Rights**
+Our Services uses the web analysis services from Webtrekk GmbH, Boxhagener Strasse 76-78, 10245 Berlin, to collect statistical data about the use of our Services and to optimize our offering accordingly. The collected data are forwarded only to our statistics service provider, Webtrekk GmbH. Webtrekk GmbH is certified for data privacy in the area of web analysis. The data are collected via cookies. Your IP address is anonymized, stored, and forwarded so that you cannot be identified by means of your IP address. Webtrekk uses temporary session cookies that are deleted when you end your browser session. This also applies to last-click cookies. The collected data are deleted if they are no longer needed for evaluation or if the visitor requests their deletion. Services visitors can object to anonymized tracking of their visitor data at any time so that they are no longer collected in the future.
 
-You may at any time without giving reason object our use of your data for informing you about WRC news, for contacting you regarding market and other researches and may also withdraw your consent you have given before in relation to newsletters, data use and advertisement at any time for the time coming.  
-You have further the right to obtain a copy of processed personal information and data held by us about you. You also have the right to ask us to update and correct any out-of-date or incorrect personal information that we hold about you.  
-If you would like to obtain a copy of your personal information, notify us of any inaccuracies in the information we hold about you, or if you have any queries concerning our Privacy Policy, please write to us at:  
-WRC Promoter GmbH , Data Protection Management , Liebherrstrasse 22, 80538  Munich , Germany
+For more information on the type of data collection with Webtrekk, refer to Webtrekk’s data protection policy at http://www.Webtrekk.com/de/products/data-protection.html.
 
-For your own data safety you will need to verify your identity and specify what information you require. In order to cover our costs incurred in providing you with a copy of your information we may charge you an adequate fee.
+If you block Webtrekk tracking, a cookie with the name WebTrekkOptOut from the domain Webtrekk.net will be set on your computer. This block will be valid as long as you do not delete the cookie. To complete the opt-out process, click the following link: http://www.Webtrekk.com/de/index/dataprivacy/cookieoptout.html information such as your actual name, your mailing address, telephone number, e-mail address, and complete IP address.
 
-### **9\. Third Party Offerings, Sites and Hyperlinks**
+### 5.3 ComScore/ScorecardResearch
 
-This website may from time-to-time contain links to other unrelated sites. This privacy statement does not apply to these sites nor are we responsible for the content and practices of these websites.  
-We sometimes provide offerings, e.g. gaming opportunities, but also social media feeds, hyperlinks and/or advertisements to other websites that are not owned or controlled by us. Please note that this Privacy Policy only applies to the personal information that we collect through the website and we cannot be responsible for personal information that any third parties collect, store and use through their offerings on our website or their website. More specifically, we are not responsible for any personal information you provide to the respective third party in conjunction with your use of a third party provided game, purchase option or other feature. You should always read the privacy policy of each website you visit and service you use.
+ComScore/ScorecardResearch is another tracking program that we use. It is a web analysis service from Full Circle Studies, Inc. (11950 Democracy Drive, Suite 600, Reston, Virginia 20190, USA). ComScore/ScorecardResearch logs and analyses non-personally identifiable, statistical use and volume data of our users to determine their behavior at the browser level. For more information on how ComScore/ScorecardResearch collects data and how you can opt out of this service, refer to the company’s data privacy policy at http://www.scorecardresearch.com/privacy.aspx.
 
-### **10\. Changes to our Privacy Policy**
+### 6. Social Plug-ins
 
-We reserve the right to make changes to this Privacy Policy by posting these on the website. You should continue to check this Privacy Policy for updates and amendments.
+### 6.1 Facebook
 
-© 2014 [WRC Promoter GmbH](https://web.archive.org/web/20140224032723id_/http://www.wrc.com/en/footer/information/privacy-policy/en/footer/information/imprint/page/30----.html "WRC Promoter GmbH")
+We use social plug-ins of the facebook.com network, specifically the “Like” and “Share” buttons. These plug-ins are offered by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA, and transmit data to Facebook. They are identified with the Facebook “f”. When this plug-in is activated, your browser establishes a connection to the Facebook servers. The content of the plug-in is transmitted directly to your browser. The plug-in is part of Facebook and merely displayed on our Services. Any interaction via the plug-in is an interaction on facebook.com and not on our Services. We do not have any influence over the content of the plug-in. Facebook also sets one or more cookies in your browser. 
+
+Facebook receives data through the active plug-in and the cookie(s), even if you have not yet clicked the plug-in yourself and even if you do not have a Facebook account. According to Facebook’s statements, these data include the visited Services, date, time, browser type and version, operating system and version, and to our knowledge the IP address and Facebook cookies already stored in your browser. Facebook can thus track what other Services with Facebook content (including this plug-in) you visited. Facebook uses these data to detect errors in its own system; to improve its own products and adapt its own products to user behavior; to monitor, place, and individualize advertisements; for localization; for recording the way in which Services with Facebook content are used; and for market research purposes.
+
+If you are logged into Facebook when the plug-in is activated, your Facebook login ID will also be transmitted to Facebook. In this way, your visit to our Services will be associated directly with your Facebook account. Facebook then identifies you with your Facebook name and your private data from your Facebook account. In the event of interaction with the Facebook plug-in, meaning if you click it, this information will be transmitted not only to the Facebook server, but also published on Facebook and displayed to your friends, depending on the settings of your Facebook account. If you want to prevent this, you must first log out of your Facebook account before activating the Facebook plug-in and then delete all Facebook cookies after visiting Services with Facebook plug-ins. According to Facebook’s own statements, it stores all these data for up to 90 days. After that, Facebook anonymizes these data and uses them only in anonymized and condensed form, such as to improve advertisements.
+
+The Facebook plug-ins are set so that we do not receive any of the information that is transmitted with the plug-in or the Facebook cookies. We can determine only whether you have clicked the plug-in and shared our content with others.
+
+For more details on how Facebook handles your data, refer to Facebook’s data privacy policy at http://www.facebook.com/about/privacy/.
+
+### 6.2 Twitter
+
+We use social plug-ins of the Twitter short message service, specifically the “Share” button. This plug-in is offered by Twitter, Inc., 1355 Market St., Suite 900, San Francisco, CA 94103, USA, and transmits data to Twitter. The plug-in is identified with the Twitter logo.
+
+When this plug-in is activated, your browser establishes a connection to the Twitter servers. The content of the plug-in is transmitted directly to your browser. We do not have any influence over the content of the plug-in. Twitter also sets one or more cookies in your browser. Twitter receives data through the active plug-in and the cookie(s), even if you have not yet clicked the plug-in yourself and even if you do not have a Twitter account. According to Twitter’s statements, these data include the visited Services, the previously visited site, date, time, browser type, operating system, your IP address, search terms used, your location, your mobile service provider, your mobile device, your application ID, and Twitter cookies already stored in your browser (known as Twitter widgets). Twitter can thus track what other Services with Twitter content (including this plug-in) you visited. Twitter uses these data in particular for its tailored suggestions to recommend specific tweets to you; to improve the system and products; to adapt to user behavior; for localization; for recording the way in which Services with Twitter content are used; and for market research purposes. 
+
+If you are logged into Twitter when the plug-in is activated, Twitter can establish a connection to your Twitter account. If you want to prevent this, you must first log out of your Twitter account before activating the Twitter plug-ins and then delete all Twitter cookies after visiting Services with Twitter plug-ins. 
+
+According to Twitter’s own statements, it starts deleting widget data after ten days and the process can last up to seven days. After that, Twitter uses only condensed, anonymized data, such as how frequently a site with Twitter content was visited.
+
+The Twitter plug-ins are set so that we do not receive any of the information that is transmitted with the plug-in or the Twitter cookies. We can determine only whether you have clicked the plug-in and shared our content with others.
+
+For more details on how Twitter handles your data, refer to Twitter’s data privacy policy at https://twitter.com/privacy.
+
+### 7. Limitations on use and disclosure of personal data
+
+WRC will process and use your personal data only in connection with the Services and your subscriptions, orders, requests and the WRC newsletter. This enables us to offer you a customized service and/or can also save you from having to enter the same information twice. 
+
+WRC occasionally works with service providers, e.g. in connection with the provision of our Services to you or other services like processing payment or dispatching mail. To the extent these service providers are provided access to your personal data, WRC complies with applicable data protection regulations, especially through corresponding commissioned data processing agreements.
+
+Any partner services offered on the Services to you will be ordered and contracted directly with these partners. You will be advised of this accordingly. 
+
+### 8. Accessing personal data
+
+You may at any time request information about personal data WRC has collected about you. Where necessary, we will have to verify your identity to do so. Despite our best efforts to ensure that this stored data is accurate and up-to-date, it may be incorrect. If it is, we will correct it on written request. You can update most of your personal details yourself at any time under 'My Profile'. If changes occur to your personal details, please update your profile as soon as possible. If deletion conflicts with legal retention obligations, the data will be blocked accordingly.
+
+### 9. Revocation of Consent
+
+We would like to use your data to tell you about the news of the WRC as well as our offers, promotions, competitions  products and services and those of our partners, and also to conduct occasional surveys. You decide whether or not you would like to be contacted by us. If you change your mind, you can alter your preferences at any time in the 'WRC Newsletter' section under 'My Profile'.
+
+You may – at any time – and without naming any reason, revoke a declared consent regarding a processing of your personal data by WRC with future effect. This includes our use of your personal data for sending you newsletters, answering queries, and making contact with us, and also restrict the use of your personal data for pseudonymous use profiles for purposes of improving and tailoring the design of Our services as well as advertising and market research.
+
+To unsubscribe from the newsletter, click the unsubscribe link in the newsletter e-mail. 
+
+### 10. Enforcement of and compliance with this privacy statement
+
+WRC Promoter GmbH is committed to complying with the articles of its data protection policy as described above.
+
+Please contact us, if you have any questions regarding the handling of your personal information, or if you have requests for information, suggestions, an objection, revocation or complaints at [CONTACT](http://www.wrc.com/en/footer/information/contact-/page/689--689--.html "CONTACT") or [info@wrc.com](mailto:info@wrc.com "info@wrc.com") or  
+
+WRC Promoter GmbH  
+Liebherrstrasse 22  
+80538 Munich  
+Germany. 
+
+© 2014 [WRC Promoter GmbH](https://web.archive.org/web/20141223203509id_/http%3A//www.wrc.com/en/footer/information/privacy-policy/en/footer/information/imprint/page/30----.html "WRC Promoter GmbH")
