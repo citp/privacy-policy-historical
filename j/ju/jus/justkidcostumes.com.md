@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justkidcostumes.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602120132id_/http%3A//www.justkidcostumes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justkidcostumes.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223200247id_/http%3A//www.justkidcostumes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
