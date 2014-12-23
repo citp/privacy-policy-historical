@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frameweb.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054838id_/http%3A//www.frameweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frameweb.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223022622id_/http%3A//www.frameweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Frameweb
 
@@ -37,7 +37,7 @@ Google Analytics: We use Google Analytics to monitor traffic levels, search quer
 Google Analytics stores IP address anonymously on its servers, and neither Frameweb or Google associates your IP address with any personally identifiable information.
 
 These cookies enable Google to determine whether you are a return visitor to the site, and to track the pages that you visit during your session.  
-**These cookies are set only after you have given consent to us to use cookies.**  
+ **These cookies are set only after you have given consent to us to use cookies.**  
   
 __utmb  
   
@@ -98,5 +98,5 @@ In the event that Frame Publishers or substantially all of its assets are acquir
 
 This privacy policy may be changed by Frame Publishers at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. Frame Publishers will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data.
 
-© Frame Publishers 2006-2012  
+© Frame Publishers 2006-2014  
 All rights reserved
