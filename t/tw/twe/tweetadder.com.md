@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetadder.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112320id_/https%3A//www.tweetadder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetadder.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223031021id_/http%3A//tweetadder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TweetAdder Software- Social Promotion, Twitter Management, Marketing, Build Twitter Followers,
 
