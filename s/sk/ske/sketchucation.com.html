@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sketchucation.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625084728id_/http%3A//sketchucation.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sketchucation.com privacy policy that was archived on 2014-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141223195425id_/http%3A//sketchucation.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 <link rel="stylesheet" href="/plugins/system/rokbox/themes/light/css-b518d664167dd795248190ff44b8159f.php" type="text/css">
@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="/templates/rt_halcyon/css/css-485376120c3f81bfe06906b838119b18.php" type="text/css">
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/cache/js-f395b93b5501e8b986b1c0ada2227875.php"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/cache/js-f395b93b5501e8b986b1c0ada2227875.php"></script>
 
 
   <link rel="canonical" href="http://sketchucation.com/privacy-policy">
@@ -80,17 +80,18 @@ window.addEvent('load', function() {
 <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" type="text/css">
 
 
-<script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-10182674-1']);
-    _gaq.push(['_trackPageview']);
-     (function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-10182674-1', 'auto');  // Replace with your property ID.
+ga('send', 'pageview');
+
 </script>
-<script type="text/javascript">
+<!-- End Google Analytics --><script type="text/javascript">
 function setGCookie() {var currenttime= new Date();var expires=new Date(currenttime.getTime() + 604800000);var cook_value = 'SketchUcationPopup; expires=' + expires.toUTCString();document.cookie = 'SketchUcationPopup=' + cook_value;}function getGCookie() {
 var c_name= "SketchUcationPopup";
 var c_value = document.cookie;
@@ -115,10 +116,7 @@ c_end = c_value.length;
 c_value = unescape(c_value.substring(c_start,c_end));
 }
 return c_value;
-}window.addEvent("domready",function() {
-if(getGCookie()) {
-} else {
-setGCookie();
+}function popUpLogin() {
 var el=document.getElementById('loginbox-modal-link');
 if(document.createEvent) {
 var event=document.createEvent("MouseEvents");
@@ -129,6 +127,12 @@ else if(el.click) {
 el.click();
 }
 }
+window.addEvent("domready",function() {
+if(getGCookie()) {
+} else {
+setGCookie();
+popUpLogin();
+}
 });
 </script>
 <style type="text/css">#nagger{display:none;width:100%;text-align:center;color:white;padding:1px 0px;border-bottom:1px solid #999;background-color:#e74c3c;z-index:999;font-size:16px;}.nagclose {cursor:pointer;padding-left:25px;margin-right:10px;cursor:pointer;display:inline-block;float:right;}.nagtext {display:inline-block;margin-left:auto;margin-right:auto;font-size:.7em;}.nagtext a {color:#f1c40f;}.nagtext a:hover {color:#fff !important;}</style>
@@ -137,7 +141,7 @@ el.click();
 <!-- nu=0 -->
 
 <script type="text/javascript">
-var nagCookieName = 'SUCNagnag-34=';
+var nagCookieName = 'SUCNagnag-54=';
 window.addEvent('domready',function() {
 	var allCookies = document.cookie.split(';');
 	var cookieValue = '';	for(var i=0;i<allCookies.length;i++) {
@@ -148,8 +152,8 @@ window.addEvent('domready',function() {
 			break;
 		}
 	}
-	if((cookieValue != 'nag-34')) {
-		document.getElementById('nagger').innerHTML='<div class="nagtext">3D Connexion Raffle opens....<a href="http://sketchucation.com/raffle">Get your code here!</a></div><div class="nagclose" onclick="switchOffNag();">X</div>';
+	if((cookieValue != 'nag-54')) {
+		document.getElementById('nagger').innerHTML='<div class="nagtext">Thea Render SketchUp Bundle - Save over $125 <a href="http://url.sketchucation.com/theashop">Find out more....</a></div><div class="nagclose" onclick="switchOffNag();">X</div>';
 		document.getElementById('nagger').style.display='inline-block';
 }});
 function switchOffNag() {
@@ -157,7 +161,7 @@ function switchOffNag() {
 	var date = new Date();
 	date.setTime(date.getTime() + 1209600000);
 	var expires = 'expires=' + date.toGMTString();
-	var cookiestr = nagCookieName + 'nag-34' + '; ' + expires + ' path=/';
+	var cookiestr = nagCookieName + 'nag-54' + '; ' + expires + ' path=/';
 	document.cookie = cookiestr;
 	var xmlhttp = new XMLHttpRequest();
 console.log( xmlhttp );
@@ -249,10 +253,38 @@ Plugin Store Download</span>
 Premium Downloads</span>
 </a>
 </li>
-<li class="item178">
-                        	<a class="orphan item bullet" href="/resources/tutorials">
+<li class="item178 parent">
+                        	<a class="daddy item bullet" href="/resources/tutorials">
 <span>
 Tutorials</span>
+</a>
+<div class="fusion-submenu-wrapper level3 " style="width:180px;">
+<ul class="level3" style="width:180px;">
+<li class="item362">
+                        	<a class="orphan item bullet" href="/resources/tutorials/beginner">
+<span>
+Beginner</span>
+</a>
+</li>
+<li class="item361">
+                        	<a class="orphan item bullet" href="/resources/tutorials/intermediate">
+<span>
+Intermediate</span>
+</a>
+</li>
+<li class="item363">
+                        	<a class="orphan item bullet" href="/resources/tutorials/advanced">
+<span>
+Advanced</span>
+</a>
+</li>
+</ul>
+<div class="drop-bot"></div></div>
+</li>
+<li class="item337">
+                        	<a class="orphan item bullet" href="/resources/3dconnexion-resources">
+<span>
+3Dconnexion</span>
 </a>
 </li>
 </ul>
@@ -266,45 +298,11 @@ Shop<span class="daddyicon"></span>
 </a>
 <div class="fusion-submenu-wrapper level2 " style="width:180px;">
 <ul class="level2" style="width:180px;">
-<li class="item300 parent">
-                        	<a class="daddy item bullet" href="/shop/videos">
+<li class="item354">
+                        	<a class="orphan item bullet" href="/shop/thea">
 <span>
-Videos</span>
+Thea</span>
 </a>
-<div class="fusion-submenu-wrapper level3 " style="width:180px;">
-<ul class="level3" style="width:180px;">
-<li class="item342">
-                        	<a class="orphan item bullet" href="/shop/videos/sketchup">
-<span>
-SketchUp</span>
-</a>
-</li>
-<li class="item343">
-                        	<a class="orphan item bullet" href="/shop/videos/autocad">
-<span>
-AutoCAD</span>
-</a>
-</li>
-<li class="item344">
-                        	<a class="orphan item bullet" href="/shop/videos/solidworks">
-<span>
-SolidWorks</span>
-</a>
-</li>
-<li class="item345">
-                        	<a class="orphan item bullet" href="/shop/videos/revit">
-<span>
-Revit</span>
-</a>
-</li>
-<li class="item346">
-                        	<a class="orphan item bullet" href="/shop/videos/bentley">
-<span>
-Bentley</span>
-</a>
-</li>
-</ul>
-<div class="drop-bot"></div></div>
 </li>
 <li class="item316 parent">
                         	<a class="daddy item bullet" href="/shop/textures">
@@ -384,6 +382,46 @@ Beginner</span>
 </ul>
 <div class="drop-bot"></div></div>
 </li>
+<li class="item300 parent">
+                        	<a class="daddy item bullet" href="/shop/videos">
+<span>
+Videos</span>
+</a>
+<div class="fusion-submenu-wrapper level3 " style="width:180px;">
+<ul class="level3" style="width:180px;">
+<li class="item342">
+                        	<a class="orphan item bullet" href="/shop/videos/sketchup">
+<span>
+SketchUp</span>
+</a>
+</li>
+<li class="item343">
+                        	<a class="orphan item bullet" href="/shop/videos/autocad">
+<span>
+AutoCAD</span>
+</a>
+</li>
+<li class="item344">
+                        	<a class="orphan item bullet" href="/shop/videos/solidworks">
+<span>
+SolidWorks</span>
+</a>
+</li>
+<li class="item345">
+                        	<a class="orphan item bullet" href="/shop/videos/revit">
+<span>
+Revit</span>
+</a>
+</li>
+<li class="item346">
+                        	<a class="orphan item bullet" href="/shop/videos/bentley">
+<span>
+Bentley</span>
+</a>
+</li>
+</ul>
+<div class="drop-bot"></div></div>
+</li>
 </ul>
 <div class="drop-bot"></div></div>
 </li>
@@ -422,6 +460,12 @@ News<span class="daddyicon"></span>
                         	<a class="orphan item bullet" href="/all-news/catch-up">
 <span>
 CatchUp</span>
+</a>
+</li>
+<li class="item358">
+                        	<a class="orphan item bullet" href="/all-news/reviews">
+<span>
+Reviews</span>
 </a>
 </li>
 </ul>
@@ -541,28 +585,28 @@ PluginStore</span>
 	                					<div class="module-content">
 	                	<ul class="latestnews">
 	<li class="latestnews">
-		<a href="/all-news/1037-preview-of-overlay-mode-for-thea-for-sketchup" class="latestnews">Thea Render Interactive Render Overlay</a>
+		<a href="/all-news/1313-thea-render-discount-exclusive" class="latestnews">Save $125 on Thea Render 1.4</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/1032-spacemouse-pro-wireless-released" class="latestnews">SpaceMouse Pro Wireless Released</a>
+		<a href="/all-news/1312-indigo-3-8-renderer-released" class="latestnews">Indigo 3.8 released</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/1022-sketchucation-3d-conexion-raffle-june" class="latestnews">3D Connexion June Raffle goes live!</a>
+		<a href="/all-news/1297-polantis-news-announcement" class="latestnews">Polantis Announcement</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/1007-discount-for-3d-printing-sketchup" class="latestnews">3D Printing for SketchUp - Exclusive Discount</a>
+		<a href="/all-news/1296-edddison-for-sketchup" class="latestnews">Edddison brings 3D models to life</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/998-lightup-3-3" class="latestnews">LightUp 3.3</a>
+		<a href="/all-news/1279-october-spacmouse-raffle-winners" class="latestnews">October SpaceMouse Winners</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/982-3d-browser-12-5-released" class="latestnews">3D Browser 12.5 released with SketchUp 2014 support</a>
+		<a href="/all-news/1197-how-to-use-the-3d-connexion-devices" class="latestnews">Getting started with 3D Connexion</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/981-may-spacemouse-winners-announced" class="latestnews">May SpaceMouse Winners</a>
+		<a href="/all-news/1196-lumenrt-2015-released" class="latestnews">LumenRT 2015 Released</a>
 	</li>
 	<li class="latestnews">
-		<a href="/all-news/935-arckit-free-form-building-released" class="latestnews">ArcKit Freeform Model Building released</a>
+		<a href="/all-news/1145-sketchucation-reaches-300000-members" class="latestnews">300,000 Members! Let's Party</a>
 	</li>
 </ul>						<div class="clear"></div>
 					</div>
