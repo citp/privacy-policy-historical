@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209165726id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223060646id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Save the Student
 
@@ -6,7 +6,7 @@ This privacy policy sets out how this website (www.savethestudent.org) uses and 
 
 We (Grip Media Ltd) are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**We only ever use your personal information (eg. email address) with your consent (opt-in) and do not share any such details with third parties without your prior permission. Your privacy is of upmost importance to us.**
+**We only ever use your personal information (eg. email address) with your consent (opt-in) and do not share any such details with third parties without your prior permission. Your privacy is of upmost importance to us.  We are a registered data controller under the United Kingdom’s Data Protection Act 1998 in respect of your personal information to which our privacy policy applies.**
 
 We may change this policy from time to time by updating this page. You should check this page periodically to ensure that you are happy with any changes
 
@@ -65,4 +65,4 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 **How to contact us**
 
-Please use the [Contact form](http://www.savethestudent.org/contact-us) found within the website to email us. Or you can write to our office at: Save The Student, Minshull House, Chorlton Street, Manchester, M1 3FY.
+Please use the [Contact form](http://www.savethestudent.org/contact-us) found within the website to email us. Or you can write to our office at: Grip Media Ltd, 83 Ducie St, Manchester, M1 2JQ.
