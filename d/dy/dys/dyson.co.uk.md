@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624055349id_/http%3A//www.dyson.co.uk/Support/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.co.uk privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223043406id_/http%3A//www.dyson.co.uk/support/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
@@ -58,7 +58,7 @@ If you would like to learn more about these services, please contact your card i
 
 ##  Dyson Balloon Game 
 
-Please [click here](https://web.archive.org/web/20140624055349id_/http%3A//www.dyson.co.uk/Support/medialibrary/EULA%20Dyson%20Balloon%20Game.pdf) to download the end user license agreement for the Dyson balloon game.
+Please [click here](https://web.archive.org/web/20141223043406id_/http%3A//www.dyson.co.uk/support/medialibrary/EULA%20Dyson%20Balloon%20Game.pdf) to download the end user license agreement for the Dyson balloon game.
 
 ##  Award-winning customer service 
 
