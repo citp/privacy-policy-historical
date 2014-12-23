@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zennioptical.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605212325id_/http%3A//www.zennioptical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zennioptical.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223063613id_/http%3A//www.zennioptical.com/privacy-policy) for the most accurate reproduction.*
 
 # Zenni Optical
 
-Date: April 3, 2013
+Date: July 1, 2014
 
 To place an order from this Web site, you must first complete your Login or Register using the registration form and create a user name and password. During registration, and if you want to place an order, you are required to give contact information (such as name and email address), credit information for charges and related data. Your Personally Identifying information differs from your ‘Traffic Data’, in that there is no personal information contained in Traffic Data. We use this information to contact you about the services on our site in which you have expressed interest.
 
@@ -50,4 +50,19 @@ Content provided by our customers include, but are not limited to, customer info
 
 5\. DISPUTE RESOLUTION MECHANISM. If you have a dispute with this Policy or want to make a claim, first please email us at privacy@zennioptical.com or call us at 800-211-2105 and we agree to handle our dispute in arbitration at San Francisco, California. By using this web site you agree to use this mechanism. (See our Terms of Use).
 
-© 2013 Zenni Optical, Inc. 
+6\. SOCIAL MEDIA GUIDELINES . We're excited that you've joined us on Social Media, and we know you've got plenty to say. While you're with us, we hope you'll take a moment to read the following guidelines we ask you to follow when contributing to our Social Media pages: 
+
+  * Don't do anything that breaks the law.
+  * Be polite and courteous, even if you disagree. Excessive name calling, profanity, fighting words, discriminatory epithets, sexual harassment, bullying, gruesome language or the like, will not be tolerated.
+  * Stay on topic. Keep the conversation relevant to the community and contribute to the dialogue. We reserve the right to remove content that is off-topic, out of context, spam, promotional or links to third party sites.
+  * Keep it real. All wall postings should come from a real person and Facebook profile. Postings from fake or anonymous profiles will be deleted when discovered.
+  * There is a place for customer service-related questions, complaints, concerns or ideas from customers. If you are a customer and have a customer service comment, complaint, concern or idea, we encourage you to give us a call at toll-free number (800) 211-2105, or email or customer service team directly over service@zennioptical.com to ensure that we can respond in a timely manner.
+  * We reserve the right to remove content posted to Zenni Optical social media pages that violates these guidelines.
+
+
+
+7\. DISCLOSURE REGARDING GOOGLE DISPLAY ADVERTISING. Zenni Optical implemented Google Analytics that uses certain tracking features for Google Display Network.  
+You can opt-out of Google Analytics for Display Advertising to prevent your data from being used by Google Analytics by going to the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout/).   
+We, along with third-party vendors (including Google), use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookies) to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our website. You can read more about the cookies used by Google Analytics advertising features, by going to the [Google Analytics Privacy Policy page](http://www.google.com/policies/technologies/ads/). 
+
+© 2014 Zenni Optical, Inc. 
