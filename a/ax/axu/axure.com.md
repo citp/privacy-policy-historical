@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the axure.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axure.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223040532id_/http%3A//www.axure.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Axure
-
-[ ](https://www.axure.com/portal) [ ](http://www.axure.com/forum) [ ](http://share.axure.com/)
-
-[ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/products)
-
-[ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/features) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/axshare)
-
-[
-
-](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/products) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/why-axure) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/learn) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/support) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/company) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/download) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/buy)
 
 To maximize the value of our services, we may request information from you when you visit our Web site.
 
@@ -18,18 +8,6 @@ We reserve the right to use your information to inform you of Axure products and
 
 Axure does not share your personally identifiable information with outside companies for their promotional use. 
 
+As you browse Axure.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners, AdRoll and Google Adwords, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Axure.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number.  You can visit [this page](http://www.networkadvertising.org/choices/) to opt out of AdRoll’s and their partners’ targeted advertising.
+
 If we change any of our privacy policies or practices, we will post those changes to this policy. 
-
-[ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/products) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/why-axure) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/learn) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/support) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/company) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/download) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/buy) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/company) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/privacy) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/legal) [ ](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/sitemap)
-
-© 2002-2013 Axure Software Solutions, Inc. All rights reserved.
-
-[
-
-](http://www.twitter.com/axurerp) [
-
-](http://www.facebook.com/axurerp) [
-
-](https://web.archive.org/web/20131026062443id_/http%3A//www.axure.com/forum) [
-
-](https://plus.google.com/107983175038964150929)
