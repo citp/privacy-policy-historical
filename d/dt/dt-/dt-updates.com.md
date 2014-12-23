@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dt-updates.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531003557id_/http%3A//www.daemon-search.com/eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dt-updates.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223023115id_/http%3A//www.daemon-search.com/eng/privacy) for the most accurate reproduction.*
 
 # DAEMON-Search.com :: PRIVACY
 
@@ -38,4 +38,4 @@ We have security measures in place that are designed to safeguard and help pre
 
 
 
-Effective date: May 31, 2014
+Effective date: December 23, 2014
