@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratemyarea.com privacy policy that was archived on 2014-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140204000610id_/http%3A//www.ratemyarea.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyarea.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223022633id_/http%3A//dublin.ratemyarea.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Rate My Area
+# Privacy Policy | Dublin | Rate My Area
 
 We at RateMyArea.com care about your privacy and we respect your privacy rights. 
 
