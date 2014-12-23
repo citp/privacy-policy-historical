@@ -1,65 +1,28 @@
-> *The following text is extracted and transformed from the secondspin.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214030645id_/http%3A//www.secondspin.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondspin.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223212548id_/http%3A//www.secondspin.com/stores/ss/privacy-policy.jsp) for the most accurate reproduction.*
 
-# SecondSpin.com
+# SecondSpin - Privacy Policy
 
-  
-At SecondSpin.com, we are committed to protecting your privacy. We firmly believe that electronic security and privacy are necessary for the continued success of the Internet as an entertainment medium. In support of this, we will only use the personal information that you provide us in accordance with the terms outlined below. BY VISITING SECONDSPIN.COM, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY NOTICE. 
+We at SecondSpin have created this privacy statement in order to demonstrate its firm commitment to individual privacy. The following discloses our information - gathering and dissemination practices for this site.
 
-**Scope** **  
-** Although selling, and exchanging on SecondSpin.com is currently limited to residents of the United States, Canada and the United Kingdom this privacy policy applies to all site visitors, regardless of their nation of residence.
+**Personal Info & Its Use**  
+SecondSpin uses your IP address to help diagnose problems with our server and to administer our web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests. Our site's registration form requires users to give us contact information (like their e-mail address), unique identifiers (like a password), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). We do not market this information to any outside companies. In some instances, we may share some of this information with certain Marketing Partners. The customer's contact information is also used to contact the visitor, when necessary.
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Passwords and orders are collected through and stored on secure servers. Paper records of financial transactions are stored in a locked facility. Our members' personal information will not be sold or given out, except as specifically authorized or when required by law.
+Users may opt out of receiving future mailings; see the Opt Out section below.
 
-**General Policy**  
-We reserve the right to refuse service, terminate accounts or cancel orders at our discretion.
+Financial information that is collected is used to check the SecondSpin Partners' qualifications for registration and to bill customers for products and services. Unique identifiers (such as Social Security numbers or tax ID numbers) are collected to be used only in the reporting of income tax when the SecondSpin Partner may have received in excess of $600.00 during a fiscal year. (This amount is subject to change by the Federal Government of the United States.) This information may differ for residents of other nations. Demographic and profile data may also be collected at our site. We use this data to tailor the visitors' experience at our site, showing them content that we think they might be interested in and displaying the content according to their preferences. This is designed to enhance the shopping experience.
 
-**SecondSpin.com's Personal Information Gathering Practices**
+Our site uses an order form for customers to request information, products, and services. We collect visitors' contact information (like their e-mail address), financial information (like their account or credit card numbers). We may also collect demographic information (like their zip code, age, or income level).
 
-SecondSpin.com actively collects information from its members to allow us to operate our site. Such information includes member first and last names, billing and shipping addresses, day and evening phone numbers, date of birth, credit card numbers and e-mail addresses. We collect this information when members complete registration.
+At times, SecondSpin may conduct user surveys. When we do, we gather that information in order to help evolve our business model. At no time do we sell any personal information, but we may share that information with Business Partners.
 
-Additionally, SecondSpin.com utilizes "cookies" to track our members through their user sessions, collecting information on user tastes and preferences. This information is not sold or shared with others, and is solely used to provide SecondSpin.com users with a better online experience. SecondSpin.com does not use cookies to track user activities beyond their use of SecondSpin.com's service.
+We may, at times, use the demographic information we gathered as a marketing or promotional tool. When we do that, we will make sure it remains entirely anonymous.
 
-SecondSpin.com does not and will not sell customer information to any third party. In the event that SecondSpin.com should merge with, acquire, or be acquired by another business entity, SecondSpin.com would share some or all of your information in order to continue to provide you with full and complete service.
+From time-to-time, SecondSpin may run contests on our site in which we ask visitors for contact information (like their e-mail address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our SecondSpin and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings. See the Opt Out section below.
 
-**Registration**  
-Our site registration form requires that users provide us with contact information, including their name, home address, and email address; billing information, including a credit card number; and demographic information including zip codes and birth dates. We use this information for contact and billing purposes and to administer accounts when a user requests assistance.
+SecondSpin also allows any customer to create an account with SecondSpin. This allows the user to simplify his or her purchase process at any SecondSpin site. All the information that a customer may supply when creating an account will be held in the strictest confidence. It will be used simply to manage the payment of orders and the shipping of same by us or by third party marketing partners with whom you have elected to do business. SecondSpin does not share any private financial information about its customers with any outside company or agency unless required by law. We may share other information with marketing partners.
 
-**Contest Participation**  
-SecondSpin.com sponsors contests in which visitors may be asked to supply us with contact information. This information is required for contest notifications. Users may opt-out of receiving further information regarding contests at any time. Please see Choice/Opt-out Section below.
+**Opt Out** Our site provides users the opportunity to opt out of receiving communications from us and our partners at the point where we request information about the visitor. However, please understand that even if you have previously opted out, but later consent to sharing your information by accepting a third party's marketing offer, we will share your contact and billing information with that specific third party.
 
-**Third Party Content** **  
-** SecondSpin.com contains content from and links to other web sites. We provide outlets to other sites in order to deliver a more complete entertainment experience. While we support the protection of privacy on the Internet, SecondSpin.com is not responsible for the privacy practices or the content of such web sites. We encourage you to read the posted privacy statement whenever interacting with any web site. If you have comments or concerns regarding the content of a third party site, please contact the web administrator of that site.
+**Links** Pages at SecondSpin contain links to other sites. SecondSpin is not responsible for the privacy practices or the content of such web sites.
 
-**Cookies**  
-At SecondSpin.com, we must use Internet Protocol (IP) addresses to administer our web site and identify users. We use cookies as a means to track and store information gathered from IP addresses. Additionally, cookies allow us to track user behavior and preferences. SecondSpin.com only tracks user activity on SecondSpin.com's website through cookies.
-
-**Consent**  
-By using our web site, you consent to the collection and use of this information by SecondSpin.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-**A Special Note About Children Under 13** **  
-** SecondSpin.com recognizes the importance of keeping children safe in cyberspace. We encourage parents and guardians to be aware of the nature of the sites their children visit, and to participate in their children's online experiences.
-
-In accordance with the provisions of the Children's Online Privacy Protection Act (COPPA), children under the age of 13 are not allowed to register as members of SecondSpin.com.
-
-_As a Parent, What Does this Mean to You?_  
-As a practical matter, you do not need to be a member of SecondSpin.com to enjoy our great content. Under the Children's Online Privacy Protection Act, no web site operator can require, as a condition of participation in an activity, that a child under the age of 13 disclose more information than is reasonably necessary. SecondSpin.com abides by this requirement. We do not request, nor do we collect, any personally identifying information from non-members in order to use these features of our site. While children of all ages are welcome to visit our site to enjoy these features, parents and guardians should note that while SecondSpin.com is primarily a general interest web site with content suitable for everyone, some material on our site (features dealing with "R" rated movies and explicit lyrics in music, for example) may be inappropriate for children.
-
-However, we do use personal member information for site personalization features and for the administration of our sweepstakes, games and contests. Accordingly, we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting verifiable parental consent. Since we require users to provide some personal information to register for SecondSpin.com membership before they may use these site personalization features and services, children under 13 will not be able to use these features of our site WE ARE NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OF, AND USE OF CHILDREN'S PERSONAL INFORMATION BY, WEBSITES THAT WE DON'T OPERATE, and this policy does not apply to linked sites
-
-**SecondSpin.com's Personal Information Usage Practices**  
-SecondSpin.com intends to use members' personal information for site related activities, to notify contest winners, and for delivering internal newsletters.
-
-The following describes the means by which SecondSpin.com uses personal information gathered on our site:
-
-**Electronic Newsletter Mailings**  
-SecondSpin.com uses a member's e-mail address for electronic newsletter mailings to those who've asked to receive these mailings. SecondSpin.com maintains a member mailing list with opt-in information and from time to time sends a site newsletter via e-mail. During the registration process, members are informed about these mailings and can give permission to receive them. See the Choice/Opt-Out section below to change your permissions.
-
-**Sharing information with others**  
-We may share information with our promotional partners and sponsors, if you've agreed, in order to bring you special offers and information. In addition, we sometimes employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, consolidating customer information, and analyzing data. They may have access to personal information needed to perform their functions, but they may not use this information for any other purposes.
-
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications at any time. Requests for opting-out of mailings should be sent to [customerservice@secondspin.com](mailto:customerservice@secondspin.com). 
-
-**Correct/Update**  
-This site gives registered users the ability to easily change or modify personally identifiable information previously provided. To do so, Log In and visit the My Account page.
+**Security** The security of your data is of utmost importance to SecondSpin. [Click here](https://web.archive.org/stores/ss/security-policy.jsp) to learn about our security guarantee. 
