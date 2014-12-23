@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531020119id_/http%3A//www.dropshots.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223053304id_/http%3A//dropshots.com/privacy.php) for the most accurate reproduction.*
 
-# DropShots Privacy Policy
+# DropShots™ - Free Video Hosting & Photo Sharing; No Advertising. Upload Now!
+
+## Privacy Policy
 
 ### Your Privacy is Our Priority!
-
-  
-
 
 #### DropShots Honors and Values Your Trust.
 
