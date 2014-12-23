@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsapk.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626083903id_/http%3A//www.appsapk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsapk.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223091744id_/http%3A//www.appsapk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
