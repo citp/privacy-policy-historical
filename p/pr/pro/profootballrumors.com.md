@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the profootballrumors.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216061520id_/http%3A//profootballrumors.com/profootballrumors-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballrumors.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223022041id_/http%3A//profootballrumors.com/profootballrumors-com-privacy-policy) for the most accurate reproduction.*
 
-# ProFootballRumors.com Privacy Policy - Pro Football Rumors
+# ProFootballRumors.com Privacy Policy Rumors - Pro Football Rumors
 
 This is a Dierkes Information Services, Inc. website.
 
@@ -18,7 +18,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 The information we collect is used to improve the content of our Web page only.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
 
