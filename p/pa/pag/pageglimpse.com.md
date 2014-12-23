@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageglimpse.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625000324id_/http%3A//www.pageglimpse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageglimpse.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223042152id_/http%3A//www.pageglimpse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
