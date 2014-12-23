@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graphene-theme.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025601id_/http%3A//www.graphene-theme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphene-theme.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223193116id_/http%3A//www.graphene-theme.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Graphene Themes Solutions
+# Privacy Policy - Graphene Themes Solutions
 
 This Privacy Policy is issued to all our valued customers/prospective customers, pursuant to the requirements of the Personal Data Protection Act 2010.
 
