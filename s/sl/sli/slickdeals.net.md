@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518194353id_/http%3A//slickdeals.net/blog/index.php/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223155017id_/http%3A//slickdeals.net/corp/privacy-policy.html) for the most accurate reproduction.*
 
-# Slickdeals.net Blog » Legal: Privacy Policy
-
-**Privacy Policy**
+# Slickdeals Privacy Policy
 
 Slickdeals, LLC (herein after “Slickdeals”) values its users on the Slickdeals.net web site, mobile site and apps (“Properties”) and the services offered on our Properties (we will refer to the Properties and all other services collectively as the “Services”). Slickdeals has implemented this Privacy Policy to inform users of the information that Slickdeals collects from you and what Slickdeals does with it after it is collected. By using the Services, you are agreeing to the practices described in this policy.
 
@@ -42,7 +40,7 @@ d)    We, along with third-party vendors, use first-party cookies (such as th
 
 e)    We may use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics to improve the ads you see online, and to give you meaningful choices over how that information is used. Google offers you several ways to control the information that’s gathered through interest-based advertising.
 
-You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads at [www.google.com/ads/preferences](http://www.google.com/ads/preferences%E2%80%8E).
+You may opt-out of Google Analytics for Display Advertising and customize Google Display Network ads at [www.google.com/ads/preferences](http://www.google.com/ads/preferences).
 
 You may refuse the use of cookies by selecting the appropriate settings on your browser and opt out of certain other forms of tracking.   If you do this you may not be able to use the full functionality of our Properties.
 
