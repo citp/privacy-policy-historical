@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virool.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518224220id_/http%3A//www.virool.com/blog/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virool.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223125422id_/http%3A//www.virool.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Virool Blog
+# Privacy Policy | Virool
 
 **Privacy Policy**
 
@@ -70,3 +70,9 @@ Virool, Inc.
 Attention: Privacy Inquiries  
 767 Bryant St, Unit 210  
 San Francisco, CA 94107
+
+OPT OUT
+
+**You can opt out of interest-based advertising.**  
+AppNexus Platform Opt Out: You can click below to opt out of having the Platform used to select ads for you based on your online behavior. When you opt out, an opt out cookie (from adnxs.com) will be stored in your web browser. The Platform will know the choice you have made when it sees your opt out cookie, and will apply your choice to all companies’ use of the Platform. If you block or delete the opt out cookie, the Platform will not see your choice.  
+
