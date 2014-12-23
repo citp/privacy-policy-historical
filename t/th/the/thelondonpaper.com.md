@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelondonpaper.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608115031id_/http%3A//www.nidp.com/single) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelondonpaper.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223135123id_/http%3A//www.newsprivacy.co.uk/single) for the most accurate reproduction.*
 
 # News - Privacy Policy
 
@@ -33,7 +33,7 @@ When you provide personal information to The Sunday Times Driving.co.uk the data
 
 When you provide personal information to mynipp.co.uk the data controller is News International Pension Trustees Limited.
 
-News Group Newspapers Limited, Times Newspapers Limited, The Times Literary Supplement Limited, Milkround Online Limited, Sunday Times Driving Limited and News International Pension Trustees Limited are part of the News Corp UK & Ireland Limited group of companies whose registered address is 3 Thomas More Square, London, E98 1XY.
+News Group Newspapers Limited, Times Newspapers Limited, The Times Literary Supplement Limited, Milkround Online Limited, Sunday Times Driving Limited and News International Pension Trustees Limited are part of the News Corp UK & Ireland Limited group of companies whose registered address is 1 London Bridge Street, London, SE1 9GF.
 
 If in the event that we sell our business, customer information may be one of the transferred business assets. If this happens, your information will still be subject to this policy.
 
@@ -175,5 +175,5 @@ From time to time, we may make changes to the Privacy Policy. This may be in rel
 **By mail:**|  Data Protection Enquiries,  
 The Customer Liaison Department,   
 News UK,   
-3 Thomas More Square, London, E98 1XY  
+1 London Bridge Street, London, SE1 9GF  
 
