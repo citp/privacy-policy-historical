@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the popwrapped.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074750id_/http%3A//popwrapped.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popwrapped.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223014337id_/http%3A//popwrapped.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | PopWrapped
+# Privacy Policy - PopWrapped.com
 
 **What information do we collect?**  
 
