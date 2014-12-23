@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dunhilltraveldeals.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034708id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhilltraveldeals.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223235800id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Dunhill Travel Deals - Privacy Policy for Travel Deals Website
 
 **Effective 5/20/2011**
 
@@ -24,7 +24,7 @@ Dunhill Travel Deals also works with third parties with whom we have a service a
 
 **Related Mailings:**
 
-Dunhill Travel Deals reserves the right to send you certain communications relating to service or products, including administrative messages, and periodic product announcements associated with your newsletter or e-mail product subscription(s), as long as you remain a subscriber to one of our newsletters or e-mail products. You may opt-out from receiving these communications at any time by emailing us as [techsupport@dunhilltraveldeals.com](mailto:techsupport@dunhilltraveldeals.com).  There is also an option to unsubscribe or modify your information within every newsletter. You may also unsubscribe or change your e-mail address by selecting “update profile” located in the footer throughout the site.
+Dunhill Travel Deals reserves the right to send you certain communications relating to service or products, including administrative messages, and periodic product announcements associated with your newsletter or e-mail product subscription(s), as long as you remain a subscriber to one of our newsletters or e-mail products. You may opt-out from receiving these communications at any time by emailing us at [techsupport@dunhilltraveldeals.com](mailto:techsupport@dunhilltraveldeals.com).  There is also an option to unsubscribe or modify your information within every newsletter. You may also unsubscribe or change your e-mail address by selecting “update profile” located in the footer throughout the site.
 
 **Sharing with Third Parties:**
 
@@ -63,6 +63,6 @@ The security of your personal information is important to us. We follow generall
 Questions? E-mail us at [editor@dunhilltraveldeals.com](mailto:editor@dunhilltraveldeals.com)
 
 Dunhill Travel Deals  
-1801 NW 66th Ave  
-Suite 102  
-Plantation, FL 33313
+2307 West Broward Blvd.  
+Suite 402  
+Fort Lauderdale, FL 33312
