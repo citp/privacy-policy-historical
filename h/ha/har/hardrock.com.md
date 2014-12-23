@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629064049id_/http%3A//www.hardrock.com/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223014114id_/http%3A//www.hardrock.com/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Hard Rock Corporate | Privacy Policy
 
