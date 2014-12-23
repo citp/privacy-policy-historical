@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flowplayer.org privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616192958id_/http%3A//flowplayer.org/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowplayer.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223040529id_/http%3A//flowplayer.org/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Flowplayer Data Security and Privacy Policy v. 1.01 / March 4th, 2014
+# Flowplayer Data Security and Privacy Policy v. 1.0.3 / October 9th, 2014
 
-Version 1.0 / March 23, 2014
+Version 1.0.3 / October 9th, 2014
 
 ## Preamble
 
@@ -16,12 +16,12 @@ Definiton: **“Personal information”** means any information which can be use
   2. Such personal information might be obtained from you by data entered when creating an account on flowplayer.org, entering billing information upon purchase, posting in the forums or Email / support channel communication.
   3. Creation of an account on flowplayer.org and purchase of our products and services is not possible without providing personal information, including but not limited to name, email address and billing / payment information.
   4. Additional personal data might be collected and stored by our partners mentioned in section 7. Data protection and privacy rules of those companies may apply.
-  5. If you use our Flowplayer Drive service, we’ll record detailed information about uploaded files, time and length of encoded and streamed video material and link it to your flowplayer.org account. Statistical data will be stored on our servers, located I the Amazon Web Services cloud and other (backup) locations.
+  5. If you use our Flowplayer Drive service, we’ll record detailed information about uploaded files, time and length of encoded and streamed video material and link it to your flowplayer.org account. Statistical data will be stored on our servers, located in the Amazon Web Services cloud and other (backup) locations.
   6. Credit Card data
 
 
 
-We do not store your credit card data, but transmit them securely over an encrypted connection to our payment partners. Flowplayer and our payment partners are [PCI DSS compliant](https://www.pcisecuritystandards.org/).
+We do not store your credit card data, but transmit them securely over an encrypted connection to our payment partners. Flowplayer and our payment partners are [PCI DSS compliant](https://www.pcisecuritystandards.org/). External partners may store your credit card data at their discretion.
 
 ## 2\. Other information
 
@@ -37,6 +37,8 @@ Google may use the data collected to contextualize and personalize the ads of it
 ## 3\. Use of information
 
   1. We may use your personal information for billing, delivery of licenses and services, tax reporting and to answer your support questions. We may also use it to investigate claims of copyright infringement or similar cases.
+    1. If you use our Flowplayer Drive service, we will use your email address to deliver status updates, encoding information and quota information. You may disable selected reports in your account page.
+    2. We will use your email address for delivery of our newsletter, if you signed up to this service. You can unsubscribe from the newsletter at any time from your account page.
   2. We may use your personal information for internal analytics or statistics within our corporation, so we can adapt our services and develop new services to better suit your needs.
   3. We will not disclose your personal information to any person without your consent, except as outlined in this clause.
 
@@ -90,6 +92,7 @@ For information about our partners, please refer to following.
 
 ### 7.1 Payment
 
+  * Braintree Payments, a division of PayPal, Inc, [braintreepayments.com](https://www.braintreepayments.com/)
   * Chargify LLC, [chargify.com](https://chargify.com/)
   * Quickpay ApS, [quickpay.net](http://quickpay.net/)
   * Euroline, [euroline.se](http://www.euroline.se/)
@@ -104,7 +107,7 @@ Amazon Web Services, [aws.amazon.com](http://aws.amazon.com/)
 
 ### 7.3. Forums
 
-Moot Inc., [moot.it](https://moot.it/)
+Moot Inc., [muut.com](https://muut.com/)
 
 ### 7.3 Statistics
 
