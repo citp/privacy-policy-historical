@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leedsfestival.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626100742id_/http%3A//www.leedsfestival.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsfestival.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223020323id_/http%3A//www.leedsfestival.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Leeds Festival 2014
+# Privacy Policy | Leeds Festival 2015
 
 This Policy explains what _personal information_ _Festival Republic and its group_ (known in this Policy as “ **we** ” or “ **Festival Republic** ”) _collect_ both online (including through apps) and offline and _how we use it_. Please read it carefully. ** __**
 
