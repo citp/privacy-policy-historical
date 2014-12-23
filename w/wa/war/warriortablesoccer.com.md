@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warriortablesoccer.com privacy policy that was archived on 2014-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140307053507id_/http%3A//www.warriortablesoccer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriortablesoccer.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223234646id_/http%3A//www.warriortablesoccer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy »
+# Privacy Policy - Warrior Custom Golf
 
 We at Warrior Table Soccer have created this privacy statement in order to demonstrate our firm commitment to your privacy. Our information gathering and dissemination practices for this site are as follows:
 
@@ -34,6 +34,6 @@ Links
 
 Pages at Warrior Table Soccer may contain links to other sites. Warrior Custom Golf is not responsible for the privacy practices or the content of such web sites.
 
-Securtiy
+Security
 
 The security of your data is of the utmost importance to Warrior Custom Golf. Your information will be kept with the highest security standard.
