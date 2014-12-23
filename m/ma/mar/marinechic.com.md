@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinechic.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204120121id_/http%3A//marinechic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinechic.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223173014id_/http%3A//marinechic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marine Chic
 
