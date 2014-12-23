@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innov8tiv.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624145633id_/http%3A//www.innov8tiv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innov8tiv.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223191940id_/http%3A//innov8tiv.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy- innov8tiv.com
 
