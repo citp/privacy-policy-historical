@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the incomesensor.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623123838id_/http%3A//www.incomesensor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomesensor.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194535id_/http%3A//www.incomesensor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-IncomeSensor
-
-[](http://www.incomesensor.com/aweber-T)
 
 This Privacy Policy governs the manner in which IncomeSensor.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.incomesensor.com/ website (“Site”,”Blog”). This privacy policy applies to the Site and all products and services offered by IncomeSensor.com.
 
@@ -22,9 +20,9 @@ How we use collected information
 
 IncomeSensor.com may collect and use Users personal information for the following purposes:
 
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
 To send Users information they agreed to receive about topics I think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 I may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to my mailing list, they will receive emails that may include Blog news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, I include detailed unsubscribe instructions at the bottom of each email or User may contact me via my Site.
 
 How we protect your information
