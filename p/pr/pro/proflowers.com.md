@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proflowers.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209035631id_/http%3A//www.providecommerce.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proflowers.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223032031id_/http%3A//www.providecommerce.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Provide Commerce
 
