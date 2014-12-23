@@ -1,16 +1,35 @@
-> *The following text is extracted and transformed from the scorespro.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234543id_/http%3A//www.scorespro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorespro.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223045949id_/http%3A//www.scorespro.com/privacy) for the most accurate reproduction.*
 
 # Live Score service (powered by ScoresPro.com) - Privacy Policy
+
+### International Soccer 
+
+
+
+
+#### Major Soccer Leagues 
+
+
+
+
+#####  Soccer Leagues 
+
+
+
+  * 
+
+
+advertisement
 
 ## Privacy Policy
 
   
 
 
-ScoresPro.com are committed to your privacy.  
+  * ScoresPro.com are committed to your privacy.  
 The terms detailed below are the basis on which we hold personal information about you. 
   * **Personal Information - Collection**
-We do not collect your personal information when you simply browse our website. During the process of delivering an information to you via our website, ScoresPro.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address etc...
+  * We do not collect your personal information when you simply browse our website. During the process of delivering an information to you via our website, ScoresPro.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address etc...
 
 For the time beeing we do not require personal information at all.
 
@@ -21,18 +40,18 @@ The information collected by ScoresPro.com via [Google Analytics](http://www.goo
 If this does occur, ScoresPro.com will never, under no circumstances, use such personal information for any purposes other than the ones you have provided them for. 
 
   * **Personal Information - Contact Forms**
-Our Web site's contact form requires visitors to give us contact information (like their name, email, etc). Contact information from the registration forms is used only to get in touch with the visitor when necessary and only upon his/her request. It is in the visitors’ best interest to submit truthful information, as this is used to contact him/her. 
+  * Our Web site's contact form requires visitors to give us contact information (like their name, email, etc). Contact information from the registration forms is used only to get in touch with the visitor when necessary and only upon his/her request. It is in the visitors’ best interest to submit truthful information, as this is used to contact him/her. 
   * **Personal Information - Storage**
-The personal data may be collected by us is only the one provided through contact forms and will be evaluated periodically to determine whether we should continue to hold it. 
+  * The personal data may be collected by us is only the one provided through contact forms and will be evaluated periodically to determine whether we should continue to hold it. 
   * **Personal Information - Use of**
-We will only use the personal information you may provide to us in the future only for communicating with you or notifying you of information relating to our and services. 
+  * We will only use the personal information you may provide to us in the future only for communicating with you or notifying you of information relating to our and services. 
   * **Personal Information - Disclosure**
-We do not disclose your personal information to third parties unless this is required by law. Further we do not sell, trade or rent your personal information to others as we'll never do in the future.
+  * We do not disclose your personal information to third parties unless this is required by law. Further we do not sell, trade or rent your personal information to others as we'll never do in the future.
 
 We may only provide aggregate statistics about visitors, browsing statistics, traffic patterns and related site information to reputable third party vendors but these will not include any personal identifying information. 
 
   * **Cookies - What are they?**
-ScoresPro.com, as well as most sites on the Internet, uses "cookies" to enhance your experience on the web.  
+  * ScoresPro.com, as well as most sites on the Internet, uses "cookies" to enhance your experience on the web.  
 ScoresPro.com cannot use these cookies to personally identify you in any way.
 
 A cookie is a small piece of information that is sent to your browser from a World Wide Web Server.   
@@ -48,12 +67,10 @@ We may or may not also use cookies to enhance your experience on our website (pe
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
 
-Read more about our [**Cookies Policy**](https://web.archive.org/web/20140625234543id_/http://www.scorespro.com/privacy/cookies/)
+Read more about our [**Cookies Policy**](https://web.archive.org/web/20141223045949id_/http://www.scorespro.com/privacy/cookies/)
 
   * **Your Consent**
-By using ScoresPro.com (website), you consent to our collection and use of your non personal data for the purposes set out above. In the event that we decide to change our privacy policy we will post such changes on this page in order that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. 
-
-* [Google Analytics TOS](http://www.google.com/intl/en/analytics/tos.html)
-
+  * By using ScoresPro.com (website), you consent to our collection and use of your non personal data for the purposes set out above. In the event that we decide to change our privacy policy we will post such changes on this page in order that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. 
+  * * [Google Analytics TOS](http://www.google.com/intl/en/analytics/tos.html)
 
 
