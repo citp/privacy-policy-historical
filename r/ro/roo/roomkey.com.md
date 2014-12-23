@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomkey.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630220119id_/http%3A//www.roomkey.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomkey.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223040400id_/http%3A//www.roomkey.com/privacystatement.html) for the most accurate reproduction.*
 
 # Room Key - Privacy Statement
 
@@ -62,4 +62,4 @@ If you are a resident of the State of California, you have the right to, on an a
 
 This Privacy Policy is incorporated by reference in and is a part of our Terms of Use Agreement. If you have questions about our privacy practices, please contact us at 214-219-3200 or [feedback@roomkey.com](mailto:feedback@roomkey.com).
 
- _Effective as of July 5, 2013._
+_Effective as of July 5, 2013._
