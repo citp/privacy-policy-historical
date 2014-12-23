@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastykhana.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625105511id_/http%3A//tastykhana.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastykhana.in privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223065927id_/http%3A//tastykhana.in/privacy) for the most accurate reproduction.*
 
 # Privacy policy | TastyKhana.in
 
