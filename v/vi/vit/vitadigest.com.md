@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620064206id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223093325id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Wrinkle Reducers, Personal Care
 
