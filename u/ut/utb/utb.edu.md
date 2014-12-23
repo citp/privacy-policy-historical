@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the utb.edu privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403015916id_/http%3A//www.utb.edu/ba/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utb.edu privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194211id_/http%3A//www.utb.edu/ba/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-The University of Texas at Brownsville is committed to ensuring the privacy and accuracy of your confidential information. We do not actively share personal information gathered from our Web servers. However, because The University of Texas at Brownsville is a public institution, some information collected from the UT Brownsville Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act. This means that while we do not actively share information, in some cases we may be compelled by law to release information gathered from our Web servers.
+The University of Texas at Brownsville is committed to ensuring the privacy and accuracy of your confidential information. We do not actively share personal information gathered from our Web servers. However, because The University of Texas at Brownsville is a public institution, some information collected from the UT Brownsville Web site, including the summary server log information, emails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act. This means that while we do not actively share information, in some cases we may be compelled by law to release information gathered from our Web servers.
 
 As part of our commitment to maintain the privacy of our Web users, The University of Texas of Brownsville has developed this privacy statement. The statement has two purposes:
 
@@ -41,7 +41,7 @@ Some Web servers within The University of Texas at Brownsville may use cookies t
 
 **Security and Accuracy of Confidential Information**
 
-Although no computer system is 100% secure, the University of Texas at Brownsville has deployed extensive security measures to protect against the loss, misuse, or alteration of the information under our control. These security measures and our systems are audited by certified independent security specialists.
+Although no computer system is 100% secure, The University of Texas at Brownsville has deployed extensive security measures to protect against the loss, misuse, or alteration of the information under our control. These security measures and our systems are audited by certified independent security specialists.
 
 **E-commerce**
 
@@ -59,7 +59,7 @@ The University of Texas at Brownsville conducts surveys for research purposes. A
 
 **Open Records Requests**
 
-Except for educational records governed by FERPA, all information collected from the UT Brownsville Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act.
+Except for educational records governed by FERPA, all information collected from the UT Brownsville Web site, including the summary server log information, emails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act.
 
 **Texas Public Information Act**
 
@@ -67,5 +67,5 @@ The Texas Public Information Act, with a few exceptions, gives you the right to 
 
 **Questions**
 
-If you have questions about this privacy statement or you believe that your personal information has been released without your consent call the Compliance Office, Rosemary Martinez, at (956) 882-8240 or via e-mail at [Rosemary.Martinez@utb.edu](mailto:Rosemary.Martinez@utb.edu).  
+If you have questions about this privacy statement or you believe that your personal information has been released without your consent call the Compliance Officer, Rene Zayas, at (956) 882-7800 or via email at [Rene.Zayas@utb.edu](mailto:Rene.Zayas@utb.edu).  
  
