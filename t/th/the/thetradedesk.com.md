@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thetradedesk.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234736id_/http%3A//www.thetradedesk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetradedesk.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223174603id_/http%3A//www.thetradedesk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « The Trade Desk
 
 [](https://privacy.truste.com/privacy-seal/The-Trade-Desk/validation?rid=037934ab-408e-4efd-bf40-46383f4daab7 "TRUSTe European Safe Harbor certification")
+
+[](https://privacy.truste.com/privacy-seal/The-Trade-Desk/validation?rid=b52be287-70a1-4e14-bade-07cc627ececd "Validate TRUSTe privacy certification")
 
 The Trade Desk is committed to protecting consumer privacy and respecting your right to choice as it relates to advertising and the data used to help serve ads relevant to those consumers. The Trade Desk is a technology company which helps advertisers connect with consumers who are interested or could benefit from the advertisers’ products. Protecting consumer privacy is of the utmost priority to The Trade Desk.  See below for our complete Privacy Policy or to opt out of receiving relevant ads served by us.
 
@@ -13,14 +15,14 @@ The following are  **The Trade Desk’s promises to consumers** :
   * We collect anonymous data about users (which may include information like: sites visited, ads seen, search keywords, ads clicked, shopping information).
   * We do NOT use Personally Identifiable Information to choose what ads to serve to users
   * We do NOT target users who we know are under the age of 13 unless there is explicit parental consent and opt-in
-  * We do NOT use any individual level data about health conditions, or specific financial account information to serve behaviorally targeted ads unless a user has explicitly opted in to such ads
+  * We do NOT use specific financial account information to serve behaviorally targeted ads unless a user has explicitly opted in to such ads
   * We do NOT serve ads based on an individual’s sexual orientation or any individual’s visits to sexually explicit websites
 
 
 
 If you would prefer not to have The Trade Desk serve you relevant ads, you may opt-out here: [ **Opt Out of Relevant Advertising**](http://www.adsrvr.org/)
 
-The Trade Desk is highly committed to following the OBA Principles and as a member of the [Digital Advertising Alliance](http://www.aboutads.info/) as well as the [Network Advertising Initiative: NAI](https://www.networkadvertising.org/choices/) is in compliance with the industry’s Self-Regulatory Code. Click [here](http://www.aboutads.info/principles/) if you would like further information regarding these principles.
+The Trade Desk is highly committed to following the OBA Principles, and as a member of the [Digital Advertising Alliance](http://www.aboutads.info/) as well as the [Network Advertising Initiative: NAI](https://www.networkadvertising.org/choices/), is in compliance with the industry’s Self-Regulatory Code. Click [here if you would like further information regarding the DAA principles](http://www.aboutads.info/principles/) and [here if you would like information about the NAI principles](http://www.networkadvertising.org/2013_Principles.pdf). Consistent with these principles, the [health/fitness related segments available in The Trade Desk for OBA can be viewed here](https://web.archive.org/wp-content/uploads/2014/07/HealthSegments.pdf). The Trade Desk also adheres to the European Interactive Digital Advertising Alliance’s (“EDAA”) principles. [You can learn more and opt out of behavioral advertising here.](http://www.youronlinechoices.eu/)
 
 Please contact [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com) for any questions about The Trade Desk privacy, security, and data practices. Please see below for our complete Privacy Policy.
 
@@ -38,12 +40,13 @@ The Trade Desk runs a buying platform for media and data. The Trade Desk Technol
 
 **Information Our Technology Does and Does Not Collect**
 
-Our Technology collects Non-Personally Identifiable Information (“Non-PII”), including, but not limited to, your IP host address, the date and time of the ad request, pages viewed, browser type, the referring URL, Internet Service Provider, and your computer’s operating system. We may also collect Non-PII from Clients or other third parties.
+Our Technology collects Non-Personally Identifiable Information (“Non-PII”), including, but not limited to, your IP host address, the date and time of the ad request, pages viewed, browser type, the referring URL, Internet Service Provider, and your computer’s operating system. We may also collect Non-PII such as age, gender, income, education, interests, and usage activity from Clients or other third parties.
 
 The following is PII that we do NOT collect:
 
   * We do not collect “personal information”, as defined in the Children’s Online Privacy Protection Act (“[COPPA](http://www.coppa.org/comply.htm)”), from users we have actual knowledge are under the age of 13 or from sites directed to children under the age of 13 for OBA, nor do we engage in OBA directed to children we have actual knowledge are under the age of 13 except as compliant with the COPPA.
   * The Trade Desk also does not collect or use financial account numbers, Social Security numbers, pharmaceutical prescriptions, or medical records about a specific individual for Online Behavioral Advertising.
+  * The Trade Desk does not collect traditional PII such as name, e-mail address, phone number, or precise location data.
 
 
 
@@ -65,7 +68,7 @@ The Trade Desk also uses web beacons (also known as 1×1 gifs), along with cooki
 
 If you’d like to opt-out from having The Trade Desk collect your Non-PII in connection with our Technology, please click [here](http://www.adsrvr.org/). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertising campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. Please also note that if you choose to disable this function, your online experience may be diminished and some features may not work as they were intended.
 
-The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data and advertising partners.  You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [http://www.aboutads.info](http://www.aboutads.info/) and at <http://www.networkadvertising.org/choices/>
+The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data and advertising partners.  You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [http://www.aboutads.info](http://www.aboutads.info/) and at <http://www.networkadvertising.org/choices/>. If you are located in the EU you can access this information at [http://www.youronlinechoices.eu.](http://www.youronlinechoices.eu/)
 
 **Information Sharing**
 
@@ -120,11 +123,11 @@ On this Website, PII is only collected on the Contact Us, Request a Demo, Get M
 
 **Communications From The Site**
 
-## Newsletters
+### Newsletters
 
 If you wish to subscribe to our newsletter, we will use your email address to send the newsletter to you. If you no longer wish to receive these email communications you can follow the unsubscribe instructions contained in the emails you receive or by contacting us at  privacy@thetradedesk.com.
 
-## Service-related Announcements
+### Service-related Announcements
 
 We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
 
@@ -147,7 +150,7 @@ The Trade Desk Website may contain links to and advertisements for websites oper
 
 **Updating / Deleting your PII**
 
-If you’d like us to update, correct, delete, or deactivate any PII that you have provided to us on this Website, please resubmit your contact information on the Contact Us page or send your request to us at [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com) and we will process your request within  30 days of receiving it..
+If you’d like us to update, correct, delete, or deactivate any PII that you have provided to us on this Website, please resubmit your contact information on the Contact Us page or send your request to us at [privacy@thetradedesk.com](mailto:privacy@thetradedesk.com) and we will process your request within  30 days of receiving it.
 
 **Data Retention**
 
@@ -191,7 +194,7 @@ We post customer testimonials on our web site which may contain personally ident
 
 **Changes To This Privacy Policy**
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+We may update this privacy policy to reflect changes to our information practices. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 **Contact Us**
 
