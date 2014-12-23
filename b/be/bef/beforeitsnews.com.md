@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beforeitsnews.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151449id_/http%3A//beforeitsnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beforeitsnews.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223201922id_/http%3A//beforeitsnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
