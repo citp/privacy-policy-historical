@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407070245id_/http%3A//www.netcraft.com/about-netcraft/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223194700id_/http%3A//www.netcraft.com/about-netcraft/privacy-statement) for the most accurate reproduction.*
 
 # Netcraft | Privacy Statement
+
+**Fair Use:** Please note that use of the Netcraft site is subject to our Fair Use and Copyright policies. For more information, please visit _http://www.netcraft.com/about-netcraft/fair-use-copyright/_ , or email _info@netcraft.com_. 
 
 Netcraft has created this privacy statement covering its web sites in order to demonstrate our commitment to privacy. This Privacy Policy explains the information gathering and dissemination practices for our Web sites in the netcraft.com, netcraft.co.uk, and netcraft.net domains, and for people using the Netcraft Anti-Phishing Extension and how this information is used. If you have any queries or requests concerning your personal information, please contact us at [webmaster@netcraft.com](mailto:webmaster@netcraft.com).
 
