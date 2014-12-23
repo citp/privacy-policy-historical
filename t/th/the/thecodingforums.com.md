@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecodingforums.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624022223id_/http%3A//www.thecodingforums.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecodingforums.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223133122id_/http%3A//www.thecodingforums.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Coding Forums
 
