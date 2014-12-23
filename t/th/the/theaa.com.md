@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151512id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223053416id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy | AA
 
@@ -25,29 +25,27 @@
 
 ###  Introduction
 
-'Acromas' means Acromas Holdings Limited together with its subsidiaries, being the various groups of companies that Acromas Holdings Limited ultimately owns including the Saga Leisure ('Saga') group, the Allied Healthcare ('Allied') group, the Nestor Healthcare ('Nestor') group and the AA group
+The AA Group ('we' 'us') means AA plc, together with any entity in which AA plc directly or indirectly has at least a 50% shareholding. The AA Group use a variety of well known brand and trading names including, but not limited to, AA, BSM, Go Travel Insurance, 1Stop Travel Insurance and Peak Performance. Details of the relevant companies can be obtained from the AA Data Protection Officer at The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
 
-Companies within the Acromas group use a variety of well known brand and trading names including, but not limited to, Saga, Titan Travel, Allied Healthcare, AA, Nestor, BSM, Direct Choice, Claimfast, Metromail, Go Travel Insurance, 1Stop Travel Insurance, Peak Performance. Details of the relevant companies can be obtained from the Group Data Protection Officer at Enbrook Park, Sandgate, Kent CT20 3SE.
-
-Acromas ('we' 'us') are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data.
+The AA Group are committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998 and aim to maintain best-practice standards in our processing of personal and/or sensitive personal data.
 
 Back to top
 
 ###  How we use your information
 
-We use the information we receive from you, together with information we have obtained from our dealings with you (including in relation to goods and/or services we provide to you and/or your use of those goods and/or services), to provide goods and/or services that you request, to communicate with you, and to personalise information sent to you. Examples of how we may personalise information include using your information in generating an insurance quote for you, working out which departure airports are near to you, or when we will be delivering certain products in your area.
+We use the information we receive from you, together with information we have obtained from our dealings with you (including in relation to goods and/or services we provide to you and/or your use of those goods and/or services), to provide goods and/or services that you request, to communicate with you, and to personalise information sent to you. Examples of how we may personalise information include using your information in generating an insurance quote for you or when we will be delivering certain products in your area.
 
 We do not sell, trade, or rent your personal information to others.
 
-We store all the information you provide us, including information provided via forms you complete on our website, and information which we may collect from your browsing. Our server, in common with nearly all web servers, logs each page that is downloaded from the site.
+We store all the information you provide to us, including information provided via forms you complete on our website, and information which we may collect from your browsing. Our server, in common with nearly all web servers, logs each page that is downloaded from the site.
 
-Any new information you provide us may be used to update an existing record we hold for you. If you provide a work email address we will not be responsible for third parties having access to any communications we send.
+Any new information you provide to us may be used to update an existing record we hold for you. If you provide a work email address we will not be responsible for third parties having access to any communications we send.
 
 To help us prevent fraud and money laundering, your details may be submitted to fraud prevention agencies and other organisations where your records may be searched. We will also conduct a search with a credit reference bureau to assist us in providing a quote, and to check which payment options we can make available to you. A copy of this search will be left on your credit file but will not affect your credit score. Where we are providing a motor insurance quotation this search will be noted on your credit file and may be reflected in your credit score.
 
 Third parties may deliver some of our products to you, or provide all or part of the service requested by you. In these instances, while the information you provide will be disclosed to them, it will only be used for the administration of the service provided (including for example verification of any quote given to you and claims processing), underwriting and pricing purposes as appropriate, testing, and to maintain management information for business analysis.
 
-If you apply for the Saga Credit Card or the AA Credit Card, we, or the supplier of the card, will search your record at a credit reference agency. If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
+If you apply for the AA Credit Card, we, or the supplier of the card, will search your record at a credit reference agency. If you apply for other financial services and/or products, a check of your details with fraud prevention agencies may be necessary. The precise nature of these processes is explained fully when you apply.
 
 We ask for your home, mobile phone number, and email address to enable us to contact you in relation to an enquiry you have made, to contact you about relevant products or services, to contact you if there is a problem with your order, or there is another genuine reason for doing so.
 
@@ -63,11 +61,11 @@ We may use sensitive personal data collected in respect of one product to market
 
 Generally by providing the requested data you consent to us using that data for administrative purposes and for informing you of other products and services by letter, SMS, phone and/or email. We may also use the information we collect to occasionally notify you about important functionality changes to the website.
 
-If you make a donation to either of the Saga or AA Charitable Trusts, your data will not be used for marketing purposes.
+If you make a donation to the AA Charitable Trust, your data will not be used for marketing purposes.
 
 Each time you receive electronic marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'.
 
-If you wish to exercise the opt-out: for Saga products and services please write to the Saga Group Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE; for AA products and services please write to AA Group Data Protection Officer, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA; or for Allied Healthcare (Allied and Nestor Group) products or services write to the Data Protection Officer, Allied Healthcare Group, Enbrook Park, Sandgate, Kent CT20 3SE.
+If you wish to exercise the opt-out for AA products and services please write to AA Data Protection Officer, The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
 
 If you have more than one address or email address please make sure to notify any changes to your preferences for each address or email address you have registered with us.
 
@@ -94,23 +92,23 @@ Back to top
 
 ###  Your consent
 
-Before you provide any data to us we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or in writing, or by using our website, you consent to the collection, use and processing of the information we obtain from or about you as a result of our dealings with you (including any data we obtain from third parties) by Acromas to provide and send you information about goods and/or services we believe may be of interest to you.
+Before you provide any data to us we will endeavour to make it clear why we need it. Sometimes we may need sensitive personal data (examples may be past medical history or motoring convictions). When this is required we will obtain your consent first. Otherwise, by providing us with information, either orally or in writing, or by using our website, you consent to the collection, use and processing of the information we obtain from or about you as a result of our dealings with you (including any data we obtain from third parties) by the AA Group to provide and send you information about goods and/or services we believe may be of interest to you.
 
 A customer may properly give their spouse's or partner's consent over the phone or via the website providing the customer confirms they have permission to do so. If the consent is written, the spouse must independently endorse such consent.
 
-Please note that we provide products and services including holidays outside the European Economic Area (EEA). Therefore if you travel on such holidays the information you provide may occasionally be transferred outside the EEA. From time to time Saga and AA may use service providers and organisations outside the EEA for the purpose of processing services, system testing and maintenance.
+From time to time the AA Group may use service providers and organisations outside the EEA for the purpose of processing services, system testing and maintenance.
 
 It is worth noting, however, that some non-EEA countries do not afford the same level of data security as the UK. By submitting your details you consent to this transfer. We will always use every reasonable effort to ensure sufficient protections are in place to safeguard your personal information.
 
 Subsequent to your purchase of a product or service, we may enter into an arrangement for that service to be provided by a new third party. If this happens, the terms and conditions of your contract with us will provide that you consent to the transfer and processing of personal and/or sensitive personal data to the new provider, subject to the requirement of the Data Protection Act 1998 and associated regulations.
 
-If you are entitled to breakdown service under AA membership you consent to the AA keeping you up to date with the AA Rewards discount scheme or similar available from time to time. Under this, as part of the benefit of being a member, the AA will, through the AA members' magazine, email or otherwise, give you membership information and details of any discounts or offers it may negotiate from time to time on behalf of its members.
+If you are entitled to breakdown service under AA membership you consent to the AA Group keeping you up to date with the AA Rewards discount scheme or similar available from time to time. Under this, as part of the benefit of being a member, the AA Group will, through the AA members' magazine, email or otherwise, give you membership information and details of any discounts or offers it may negotiate from time to time on behalf of its members.
 
 Back to top
 
 ###  Cookies
 
-From offers and promotions to sound and video, the aim of this site is to be interesting, helpful and informative. We're keen to find out what you like and dislike – your feedback plays a key role in helping us improve this site. We use many techniques to follow your use of the site and provide you with a customised experience. The main and best known technique is by using what are known as 'cookies'.
+From offers and promotions to sound and video, the aim of this website is to be interesting, helpful and informative. We're keen to find out what you like and dislike – your feedback plays a key role in helping us improve this site. We use many techniques to follow your use of the site and provide you with a customised experience. The main and best known technique is by using what are known as 'cookies'.
 
 **What are cookies?** Cookies are small data files that a website will put on your device, which in turn sends information back to the website. They cannot affect your device, but they do collect information that can be used to enhance the site. For example, a cookie can remember the items that you have placed into your shopping basket, or it can ensure you get the offer you requested. These are known as 'session' cookies, which expire as soon as you leave the site.
 
@@ -330,7 +328,7 @@ Back to top
 
 As previously mentioned, we do not sell, trade or rent your information, and will never disclose information about you (including information obtained from our dealings with you) to third parties, except:
 
-a) to fulfil your specific orders for a product or service or information in the event that third parties deliver the relevant product or service or information. For example, if you go on a holiday with us, the hotel needs to know who you are. If you take out an insurance policy provided by a third party, they will need your details in order to administer the policy, verify the quote given to you and process any claims;
+a) to fulfil your specific orders for a product or service or information in the event that third parties deliver the relevant product or service or information. For example, if you take out an insurance policy provided by a third party, they will need your details in order to administer the policy, verify the quote given to you and process any claims;
 
 b) where third parties administer part or all of the product or service;
 
@@ -350,9 +348,9 @@ Back to top
 
 ###  Data Protection Act marketing consent
 
-Saga and AA groups of companies have adopted the following procedure in gaining your consent to be placed on their marketing lists.
+The AA Group have adopted the following procedure in gaining your consent to be placed on their marketing lists.
 
-When you first make an enquiry of or buy a product from Saga Group or AA Group you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the group and a 'questionnaire' will be sent to you; it may be sent electronically. This questionnaire gives a list of all the products of the group, and the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any marketing from us. Once you have chosen what you would like to receive we ask you to return the completed form back to us. The marketing selections will be administered where applicable.
+When you first make an enquiry of or buy a product from the AA Group you consent to receiving marketing about other products and services from us. Your details are placed on our marketing list for the AA Group and a 'questionnaire' will be sent to you; it may be sent electronically. This questionnaire gives a list of all the products of the group, and the option of choosing which products you would or would not like to receive information about. You can also choose not to receive any marketing from us. Once you have chosen what you would like to receive we ask you to return the completed form back to us. The marketing selections will be administered where applicable.
 
 Back to top
 
@@ -364,11 +362,9 @@ Back to top
 
 ###  Subject access requests
 
-You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the Data Protection Officer at The Saga Building, Enbrook Park, Sandgate, Kent CT20 3SE for requests relating to information held by Saga Group companies; or to the AA Group Data Protection Officer, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA for requests relating to information held by AA Group companies.
+You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the AA Data Protection Officer at The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
 
-Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Saga Group Limited or Automobile Association Developments Limited.
-
-Requests relating to Allied Healthcare should be made to the branch manager of your local branch, details of which can be found at [www.alliedhealthcare.com](http://www.alliedhealthcare.com/). The £10 cheque should be made payable to 'Nestor Primecare Services Ltd t/a Allied Healthcare'.
+Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Automobile Association Developments Limited.
 
 We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
 
@@ -376,7 +372,7 @@ Back to top
 
 ###  Your choice of information
 
-You may change the type of material sent to you at any time. Saga and AA allow you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this, for Saga products please write to Information Processing at The Saga Building, Enbrook Park, Sandgate, Kent CT20 8SE; for AA products please write to the AA Group Data Protection Officer at Automobile Association Developments Limited, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
+You may change the type of material sent to you at any time. The AA Group allows you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this please write to the AA Data Protection Officer at The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
 
 Back to top
 
@@ -390,6 +386,6 @@ Back to top
 
 We welcome your questions and comments about privacy.
 
-Please write to The Group Data Protection Officer, Acromas Group, Enbrook Park, Sandgate, Kent CT20 3SE.
+Please write to The AA Data Protection Officer, The AA, Fanum House, Basing View, Basingstoke, Hampshire RG21 4EA.
 
 Back to top
