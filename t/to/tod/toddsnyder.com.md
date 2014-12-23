@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toddsnyder.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085122id_/http%3A//www.toddsnyder.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toddsnyder.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223014417id_/http%3A//www.toddsnyder.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Todd Snyder
 
@@ -10,6 +10,7 @@
   2. If you enter any type of sweepstakes, promotion or contests we may use the information you provide us for administering and marketing purposes according to the terms and conditions of the specific promotion.
   3. We may use personal information towards research to improve Todd Snyder and our customer support.
   4. We may collect information regarding activities on our website, location and time zone. We use this information as a tool to improve Todd Snyder, our services and products and most importantly, your experience.
+  5. As you browse toddsnyder.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with toddsnyder.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page (http://www.networkadvertising.org/choices/) to opt out of targeted advertising.
 
 
 
