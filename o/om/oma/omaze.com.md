@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omaze.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327225449id_/http%3A//www.omaze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omaze.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223083103id_/http%3A//www.omaze.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Omaze
 
@@ -64,7 +64,7 @@ Your Comments. If you post a Comment to our Website, the information that you ch
 
 Marketing Companies. We may provide general location data (e.g., the city, or the state, in which a device is located) and information about your search or posting history to third parties that want to provide you with information, products, or services. Unless we have your permission, we will only provide such companies with non-personally identifiable information. In other words, while this information may be provided in conjunction with a randomly assigned number, or a number assigned to your Omaze account, it will not be provided in conjunction with your name.
 
-Sharing Your Information with Charities. If you make a donation in connection with entering into a sweepstakes, you agree that we may share your name and contact information with the charity we designate as the benefiting charity for such sweepstakes.
+Sharing Your Information with Charities and Prize Providers. If you enter a sweepstakes, whether by making a donation or using an alternate method of entry,  make a donation in connection with entering into a sweepstakes, you agree that we may share your name and contact information with the charity we designate as the benefiting charity for such sweepstakes and with any entity providing prizes for that sweepstakes, who may use your information for marketing purposes.
 
 Sweepstakes Winners. As further explained in our Rules, by entering into a sweepstakes, you grant us the right to disclose name, biographical information, pictures/portraits, video images, likenesses and/or voice to the general public if you are a sweepstakes winner.
 
