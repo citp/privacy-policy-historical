@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020445id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiends.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223030341id_/http%3A//twiends.com/privacy) for the most accurate reproduction.*
 
 # Twiends Privacy Policy
+
+Well this is emabarrasing, this page failed to load correctly. Please reload it...
 
 Privacy Policy
 
@@ -20,7 +22,7 @@ The following terms shall have the following meanings:
 
 “ **Data** ” means collectively all information that you submit to the Website. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems
 
-“ **Twiends** ”/“ **twiends** ” (‘We’/‘Us’/‘Webcandy’) means the Website and Webcandy Limited, Registered Office: Parfitts Farm, Chequers Lane, Eversley, Hampshire, RG27 0NR United Kingdom; Company Number 07024033
+“ **Twiends** ”/“ **twiends** ” (‘We’/‘Us’/‘Webcandy’) means the Website and Webcandy Limited, Registered Office: Plover Lane, Eversley, Hampshire, RG27 0NR United Kingdom; Company Number 07024033
 
 “ **Service** ”/“ **Services** ” means collectively any online facilities, tools, services or information that Webcandy makes available through twiends either now or in the future
 
@@ -44,7 +46,7 @@ Our nominated representative for the purpose of the Act is Michael Coyle a Solic
 
 3\. Information collected from you
 
-This is the information you provide by filling in forms on http//www.twiends.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. This may include; your name; date of birth; gender; business industry; contact information such as email addresses and telephone numbers; demographic information such as post code, preferences and interests; website profile information.
+This is the information you provide by filling in forms on twiends.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. This may include; your name; date of birth; gender; business industry; contact information such as email addresses and telephone numbers; demographic information such as post code, preferences and interests; website profile information.
 
 3.1 We may also ask you for information when you enter a competition or promotion sponsored by Webcandy, and when you report a problem with our site.
 
@@ -60,7 +62,9 @@ This is the information you provide by filling in forms on http//www.twiends.com
 
 3.7 Twitter profile information provided to us through the Twitter API with your express permission.
 
-3.8 Other automatically collected information will include; web browser type and version; operating system; a list of URLS starting with a referring site, your activity on twiends, and the site you exit to.
+3.8 Instagram profile information provided to us through the Instagram API with your express permission.
+
+3.9 Other automatically collected information will include; web browser type and version; operating system; a list of URLS starting with a referring site, your activity on twiends, and the site you exit to.
 
 4\. Your IP address
 
@@ -74,7 +78,7 @@ We may obtain information about your general internet usage by using a cookie fi
 
 The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be handled by PayPal and encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+All information you provide to us is stored on our secure servers. Any payment transactions will be handled by PayPal or WorldPay and encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
