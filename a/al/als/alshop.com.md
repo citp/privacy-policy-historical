@@ -1,77 +1,115 @@
-> *The following text is extracted and transformed from the alshop.com privacy policy that was archived on 2012-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120920151053id_/http%3A//www.alshop.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alshop.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223225457id_/http%3A//www.alshop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is important to us. This privacy statement describes the online information practices which we, ALshop.com employ in relating to the information which you, our customers, provide when using the www.alshop.com website. By accessing and using the Website you are accepting and agreeing to the practices described in this Privacy Statement.
+This privacy policy sets out how ALSHOP.com uses and protects any information that you give ALSHOP.com when you use this website. ALSHOP.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. ALSHOP.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-#### Information we collect
+## What we collect
 
-**We collect personally identifiable information relating to you including your full name, address, phone number, mobile phone numbers, email addresses, and information in the following situations:**
+We may collect the following information:
 
-Information you provide: when you register on the Website for an online account or otherwise contact us to obtain information relating to us or our services (including when you update the "My Account", "Billing Address & Delivery Address " or "My Orders " section of the Website, communicate with us by phone, e-mail or otherwise, complete a questionnaire or competition entry form. Information collected automatically using "cookies": whenever you interact with the Website, we receive and store certain types of information using "cookies". We describe how we use "cookies" below. Information from other sources: we receive information from third parties we use in providing services to you from time to time (including delivery and address information from our carriers and account and credit history information from credit bureaux and sources we use to process payments.)
-
-#### How we normally use information about you
-
-**We will only use your Personal Information for the purpose(s) for which you provide it to us - including, for example, to:**
-
-  * respond to your enquiries;
-  * handle orders, deliver items and process payments;
-  * communicate with you about orders, products, services and promotional offers,
-  * update our records and maintain any online account you may have with us;
-  * prevent or detect fraud or abuses of our Website; and
-  * enable third parties to carry out technical, logistical or other functions on our behalf.
+  * Name
+  * Contact information including email address
+  * Demographic information such as postcode, preferences and interests
+  * Other information relevant to customer surveys and/or offers
 
 
 
-Information from other sources: we receive information from third parties we use in providing services to you from time to time (including delivery and address information from our carriers and account and credit history information from credit bureaux and sources we use to process payments.)
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-#### Agents
+## What we do with the information we gather
 
-From time to time we employ other companies to perform functions on our behalf including fulfilling orders, delivering packages, sending customer communications, analysing data, processing credit card payments and providing customer service. They have access to personal information needed only to perform their functions.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-  * Promotional offers: if you have consented in advance we send you information on our promotional offers and those offered by other businesses. If you no longer want to receive such offers, please notify us by email unsubscribe@alshop.com
-  * Business transfers: in any transactions (e.g. buying or selling of stores or business units) Personal Information is generally one of the transferred assets
-  * Fraud / Credit Risk: Where necessary to prevent fraud or reduce credit risk we may exchange your Personal Information with other companies and organisations
-  * With your consent: other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share your information.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
 
 
-#### Collection of information by third-party sites
+## Information after Registration
 
-Our Website may contain links to other websites whose information practices may be different to ours. You should consult the privacy notices of those third party sites as we have no control over information that is submitted to, or collected by them..
+Once you have subscribed to our newsletter, you will be receiving a daily update of all the latest offerings on our website. We usually restrict the number of newsletter(s) sent to anyone to just one. 
 
-#### Your ability to edit and delete your account information and preferences
+## Frequency of communication
 
-ALshop.com gives you the ability to edit your Account Information and preferences at any time, including whether you want ALshop.com to contact you about specials and new products. You may request deletion of your ALshop.com account by emailing us at [unsubscribe@alshop.com](mailto:unsubscribe@alshop.com)
+To give you the complete shopping experience as well as keep you updated on our products, promotions and other offerings, we give you accurate information on a daily basis. This ensures a very comfortable shopping experience as you can buy, pre-order or otherwise notify yourself of the products and offerings from us. We play particular adherence to bringing you constant updates without spam. If you do receive spam or spoof emails, please forward the same to info(at)alshop(dot)com.
 
-#### How is my information protected?
+## Security
 
-Your information is password-protected. In order to maintain this protection, we caution you not to provide your password to anyone. We do not give your password to anyone. We recommend that, if you share your computer with other people, you close your browser window when your session is completed. Signing off will protect your information if you share a computer with someone else or are using a computer in a public place.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-#### "Cookies"
+## How we use cookies
 
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-**When you visit our Website we send you a cookie. Cookies may be used in the following ways:** To enable the personalisation features on our Website (which give you the ability to recall recently viewed pages and see information which you have input on line).
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-To compile anonymous, aggregated statistics that allow us to understand how users use our Website and to help us improve the structure of our Website. We cannot identify you personally in this way.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-#### Disabling / Enabling Cookies
+## Links to other websites
 
-You can accept or decline "cookies" by modifying the setting in your browser. Please note that if you disable "cookies" you may not be able to use all the features of our Website.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-#### Revisions to this Privacy Statement
+## Controlling your personal information
 
-We reserve the right to revise this Privacy Statement or any part of it from time to time. Please review the Privacy Statement periodically for changes. Unless stated otherwise, our current Privacy Statement applies from time to time to all information that we have about you. This privacy policy was last updated on March 30, 2009
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-#### How to Contact us
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at admin@alshop.com 
 
-If you have any questions or concerns about this Privacy Statement or how we use your Personal Information you may contact us by E-mail at info@alshop.com If at any time you decide that you no longer wish us to hold or use any of your Personal Information or wish to change the use to which your Personal Information can be put, please let us know by Emailing us at [info@alshop.com ](mailto:info@alshop.com)
 
-#### Controller of Your Information
 
-**Information which you provide to us or we gather from the website about you is controlled primarily by:**
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
 
-Meast E-Commerce Trading LLC  
-102, Al Owais Building, Above Axis Bank Karama Branch, Near GPO, Karama, Dubai - UAE.  
-PO Box 283641, Dubai, UAE.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to ALSHOP.COM Part of Meast E-Commerce Trading LLC Business Bay, Lake Central Tower Near Spinney's, Dubai, United Arab Emirates. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+## Unsubscribing
+
+We believe in bringing convenience to your shopping experience and we apologize if we have been bothering you.
+
+You can "unsubscribe" from our e-mails by clicking the "click here" link at the bottom of the e-mail you have received from us. Do let us know the reason(s) why you have chosen to Unsubscribe so we can understand how to serve you better in the future. Your input is very valuable to us.
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.  
+  
+## Contact Information
+
+Should you have any queries, contact us at our toll-free number at **800-ALSHOP(257467)**. We are open Saturdays - Thursday from 9am - 6pm (Gulf Standard time). Alternatively, you can visit our offices at  
+ **ALSHOP (dot) com, Part of Meast E-Commerce Trading LLC, 1104, Lake Central Tower, Business Bay Area, Dubai, United Arab Emirates** or Email To Us On following email id's   
+Sales and Orders: **customer(at)alshop(dot)com**  
+Service related: **service(at)alshop(dot)com**  
+Business inquiries: **business(at)alshop(dot)com**  
+Join the team: **jobs(at)alshop(dot)com**
