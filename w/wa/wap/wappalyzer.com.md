@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wappalyzer.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310075747id_/https%3A//wappalyzer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wappalyzer.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223191058id_/https%3A//wappalyzer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
