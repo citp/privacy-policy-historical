@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technikant.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331025933id_/http%3A//www.technikant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technikant.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223054136id_/http%3A//technikant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technikant
 
@@ -59,4 +59,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may [contact us](http://www.technikant.com/contact "Contact Us") by sending your questions,suggestions,query’s to our mail address at [admin@topin10.com](mailto:admin@topin10.com) or by using the contact form below.
+If there are any questions regarding this privacy policy you may [contact us](http://technikant.com/contact "Contact Us") by sending your questions,suggestions,query’s to our mail address at [admin@topin10.com](mailto:admin@topin10.com) or by using the contact form below.
