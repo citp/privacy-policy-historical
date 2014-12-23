@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysongspk.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623172533id_/http%3A//www.mysongspk.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysongspk.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223024743id_/http%3A//www.mysongspk.com/privacypolicy.html) for the most accurate reproduction.*
 
 # MySongsPk.Com - Our Privacy Policy
 
