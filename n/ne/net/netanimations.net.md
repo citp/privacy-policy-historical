@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netanimations.net privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619090026id_/http%3A//netanimations.net/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netanimations.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223071638id_/http%3A//www.netanimations.net/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
