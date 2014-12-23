@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the herinterest.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409232154id_/http%3A//www.herinterest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herinterest.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223222602id_/http%3A//www.herinterest.com/privacy-policy) for the most accurate reproduction.*
 
-# herinterest.com Privacy Policy | herinterest.com
+# Privacy Policy | herinterest.com
 
 **herinterest.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
