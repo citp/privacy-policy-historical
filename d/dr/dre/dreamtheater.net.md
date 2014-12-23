@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the dreamtheater.net privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210071359id_/http%3A//www.roadrunnerrecords.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamtheater.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223040637id_/http%3A//www.roadrunnerrecords.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Roadrunner Records
+
+  * [Watch The Devil Wears Prada's new video!](http://youtu.be/HfiaUIYF4ds)
+  * [Download Slipknot's .5: The Gray Chapter Now](http://smarturl.it/thegraychapter)
+  * [Watch The Amity Affliction's video for 'Death's Hand'](http://www.youtube.com/watch?v=t5MhwqwYpVA)
+  * [Check out KING 810's video for 'desperate lovers'](http://www.youtube.com/watch?v=TinKeWkXuW8)
+  * [Watch Theory of a Deadman's new 'Angel' music video](http://www.youtube.com/watch?v=thfpVOAC-y0)
+
+
 
 **LAST UPDATED: June 1, 2013**
 
@@ -183,3 +191,7 @@ New York, NY 10019
 Attn: Privacy Coordinator
 
 Please note that email communications are not always secure, so please do not include credit card information or other sensitive information in your email messages to us.
+
+### Subscribe to Roadrunner Mailing List
+
+By submitting my information above, I acknowledge that I have reviewed and agreed to the [Privacy Policy](http://www.roadrunnerrecords.com/privacy_policy) and [Terms of Service](http://www.roadrunnerrecords.com/terms_of_service).
