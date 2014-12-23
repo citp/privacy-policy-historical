@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the alifeinbalance.net privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618203240id_/http%3A//www.alifeinbalance.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alifeinbalance.net privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223164508id_/http%3A//www.alifeinbalance.net/about/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | A Life in Balance
-
-_Disclosure: If you make a purchase using a link on this page, I may earn a commission and I am very grateful for your support of this site. Thank you. ([Read all the fine print here](http://alifeinbalance.net/about/disclosure/).)_  
-[ ](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
 
 _Effective Date: April 13, 2013_
 
@@ -75,8 +72,10 @@ By using ALB/FLK, you hereby agree to this Privacy Policy in its entirety. ALB/F
 
 All Privacy Policy changes will take effect immediately upon their posting on the Site. Please check this page periodically for any changes. Your continued use of the Site and/or failure to opt-out of emails sent to you following the posting of changes to this Privacy Policy constitutes your acceptance of any and all changes.
 
-_A Life in Balance is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. See more at:<http://marketingwithsara.com/amazon/warning-to-all-affiliate-marketers#sthash.7pLtrFUN.dpuf>_
+[](http://track.mysavingsmedia.net/click.track?CID=271736&AFID=317142&ADID=1185233&SID=)
+
+### (Oh! And if you found this helpful, would you do us a favor and pin it or share it on Facebook so that other moms and dads can see it, too? THANK YOU! :) 
+
+[ ](http://www.viglink.com/legal/disclosures/users?vgtag=badge)
 
 [](http://feeds.feedblitz.com/feedburner/alifeinbalance "Subscribe to my feed") [](http://www.twitter.com/BarbHoyer) [](http://facebook.com/A.Life.in.Balance.net) [](mailto:barb@alifeinbalance.net) [](http://pinterest.com/alifeinbalance_/) [](http://instagram.com/babhoyer?ref=badge)
-
-_I share because I care, so feel free to use any of my images as long as they are credited and accompanied by a link back to[A Life in Balance](http://www.alifeinbalance.net/). Failure to link back and credit my site as a source constitutes a copyright violation. Thanks!_
