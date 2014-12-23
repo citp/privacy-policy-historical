@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the streamads.com privacy policy that was archived on 2014-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140315105843id_/http%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamads.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224002521id_/http%3A//www.tritondigital.com/privacy-policy) for the most accurate reproduction.*
 
 # Triton Digital - Privacy Policy
 
-This Privacy Policy sets out the manner in which Triton Media Group, LLC (“ **Triton Digital** ”, “ **we** ”, “ **us** ”, “ **our** ”) collect, use, disclose and otherwise manage personal information of visitors of tritondigital.com (the " **Site** "). This policy does not apply to the use of our streaming and digital advertising software and services.
+This Privacy Policy sets out the manner in which Triton Digital Inc.( **“Triton Digital”** , **“we”** , **“us”** , **“our”** ) collects, uses, discloses and otherwise manages personal information of visitors of tritondigital.com (the "Site"). This policy does not apply to the use of products and services provided by us on behalf of our clients. To read the privacy policy that applies to our streaming, advertising, engagement, contests and/or sweepstakes (collectively the “ **Services** ”), [click here](http://tritondigital.com/privacy-policy-services).
 
-Please note that our privacy policy has changed. To access the most current version of our privacy policy, [click here](https://web.archive.org/privacy-policy-advertising-platform). This policy also does not apply to the audience management services. Please read it carefully. We also invite you to review our Terms of Use.
-
+Please note that our privacy policy has changed. To access the most current version of our [privacy policy](http://tritondigital.com/privacy-policy-services), click here. This policy also does not apply to the audience management services. Please read it carefully. We also invite you to review our Terms of Use.  
 Because we are committed to respect the privacy of our users and because the success of the Site is dependent on building and maintaining goodwill with our users, we are committed to implementing measures designed to respect and protect your privacy. Moreover, we see it as our responsibility to set an example, and to help establish standards for privacy on the Internet.
 
-Triton reviews its privacy practices from time to time. If we decide to change our Privacy Policy, we will post those changes on our Site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. To contact us about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please e-mail us at: [privacy@tritondigital.com](mailto:privacy@tritondigital.com).
+Triton reviews its privacy practices from time to time. If we decide to change our Privacy Policy, we will post those changes on our Site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. To contact us about privacy issues, to report a violation of our Privacy Policy, or to raise any other issue, please e-mail us at: [privacy@tritondigital.com](mailto:privacy@tritondigital.com.).
 
 ## The Personal Information We Collect
 
@@ -24,7 +23,7 @@ Any personal information you provide to us when you send us an email is used sol
 
 The Site contains links to other Internet web sites, which may include co-branded or other affiliated sites. These linked sites have separate and independent privacy policies which we recommend you read carefully. We have no control over such sites and therefore have no responsibility or liability for the manner in which the organizations who operate such linked sites may collect, use, disclose or otherwise treat your personal information.
 
-Nevertheless, in the event you encounter any third party associated with the Site (or who claims association with the Site) who you feel is improperly collecting or using information about you, please contact [privacy@tritondigital.com](mailto:privacy@tritondigital.com) and we will be happy to forward your message to the third party.
+Nevertheless, in the event you encounter any third party associated with the Site (or who claims association with the Site) who you feel is improperly collecting or using information about you, please contact [privacy@tritondigital.com](mailto:privacy@tritondigital.com.) and we will be happy to forward your message to the third party.
 
 ## Security of Personal Information
 
@@ -34,10 +33,10 @@ Notwithstanding the foregoing, you should be aware that, unfortunately, no data 
 
 ## Changing or deleting personal information
 
-If you would like to have your personally identifiable information removed from the Site's database, please contact us at [privacy@tritondigital.com](mailto:privacy@tritondigital.com) and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within the Site's databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, we reserve the right, from time to time, to re-contact former TritonDigital.com users.
+If you would like to have your personally identifiable information removed from the Site's database, please contact us at [privacy@tritondigital.com ](mailto:privacy@tritondigital.com.)and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within the Site's databases, access logs, and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, we reserve the right, from time to time, to re-contact former TritonDigital.com users.
 
 ## Questions?
 
 Questions regarding our Privacy Policy should be directed to [legal@tritondigital.com](mailto:legal@tritondigital.com).
 
-Updated July 22, 2011
+Updated April 24, 2014
