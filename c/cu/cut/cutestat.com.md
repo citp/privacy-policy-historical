@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutestat.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092119id_/http%3A//www.cutestat.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutestat.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223053557id_/http%3A//www.cutestat.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CuteStat.com
 
