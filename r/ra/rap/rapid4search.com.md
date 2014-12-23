@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapid4search.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095511id_/http%3A//www.leatherbound.me/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid4search.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223092235id_/http%3A//www.leatherbound.me/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eBook Search Engine and Price Comparison | Leatherbound
 
