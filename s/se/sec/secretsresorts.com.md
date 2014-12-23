@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the secretsresorts.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209224559id_/http%3A//www.secretsresorts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretsresorts.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223065934id_/http%3A//www.secretsresorts.com/privacy) for the most accurate reproduction.*
 
-# Secrets Resorts & Spas - Privacy
+# Privacy
 
 SECRETS RESORTS & SPAS – PRIVACY POLICY
 
