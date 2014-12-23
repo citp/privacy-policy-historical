@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snp.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209110819id_/http%3A//www.snp.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snp.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223083754id_/http%3A//www.snp.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Scottish National Party
 
