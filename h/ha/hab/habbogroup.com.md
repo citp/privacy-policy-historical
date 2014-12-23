@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habbogroup.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325145102id_/https%3A//help.habbo.com/entries/23029106-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbogroup.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223150246id_/https%3A//help.habbo.com/entries/23029106-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy : Habbo.com Customer Support
 
@@ -156,6 +156,6 @@ To the extent any provision of this Privacy Policy is found by a competent tribu
 
 **16\. How To Contact Us**
 
-Questions and comments about our Privacy Policy should be mailed to: Sulake Corporation Oy, Porkkalankatu 1, 00180 Helsinki, Finland.
+Questions and comments about our Privacy Policy should be mailed to: Sulake Corporation Oy, Legal, Kaarlenkatu 11, 00530 Helsinki, Finland.
 
 //End Privacy Policy//
