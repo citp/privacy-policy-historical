@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the angelawhite.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322025909id_/http%3A//angelawhite.com/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angelawhite.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223193852id_/http%3A//angelawhite.com/public/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Website of Busty Australian Porn Star Angela White
 
-### EFFECTIVE AS OF 1 JANUARY 2013
+### EFFECTIVE AS OF 1 DECEMBER 2014
 
 This Privacy Policy (the “Policy”) applies to the AGW Entertainment B.V. and angelawhite.com (collectively, referred to herein as “AGW Entertainment”, “we” or “us”) family of websites (the “Sites”). These include angelawhite.com and any other websites on which this Policy appears. It does NOT apply to other online or offline websites, products or services of AGW Entertainment or AGW Entertainment’s affiliates. This Policy explains what information we collect about you and what we do with it. We reserve the right to modify this Policy at any time, and we will notify you of any material changes to the Policy by posting the new Policy here and changing the “Effective Date”. We may also use alternative methods to alert you to changes to the Policy. We encourage you to check this page periodically for any changes. By using or navigating any of the Sites or any portion of the Sites, you acknowledge that you have read, understand and agree to be bound by this Policy or any modified Policy as posted. If you do not agree to these terms, please do not use or visit any of the Sites or any portion of the Sites.
 
