@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceodelhi.nic.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060709id_/http%3A//ceodelhi.gov.in/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceodelhi.nic.in privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223081454id_/http%3A//ceodelhi.nic.in/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Chief Electoral Officer , Delhi
 
