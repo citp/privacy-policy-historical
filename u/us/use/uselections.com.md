@@ -1,40 +1,60 @@
-> *The following text is extracted and transformed from the uselections.com privacy policy that was archived on 2011-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110327081025id_/http%3A//www.uselections.com/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uselections.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223053516id_/http%3A//uselections.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy : USElections.com
+# Privacy Policy
 
-**Privacy Policy**
+This Privacy Policy governs the manner in which USelections.com collects, uses, maintains and discloses information collected from users (each, a "User") of the USelections.com website ("Site"). This privacy policy applies to the Site and all products and services offered by USelections.com.
 
-Thank you for visiting USElections.com and for reviewing my Privacy Policy. This policy is on the collection of personal information:
+**Personal identification information**
 
-Unless you provide additional information, I collect only the following information as you browse through my web site:
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-  * the browser you use to access the Internet;
-  * the operating system on your computing device;
-  * the date and time of your visit;
-  * the pages you visited; and
-  * the address of the Web site you visited immediately prior to visiting our site.
+**Non-personal identification information**
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+**Web browser cookies**
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+**How we use collected information**
+
+USelections.com may collect and use Users personal information for the following purposes:
+
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To send periodic emails_  
+We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
-I collect this information for statistical purposes and for evaluating my web site to make it more useful to you.
+**How we protect your information**
 
-If you send an e-mail message to me or complete a questionnaire, form, or other online survey found on my web site, I will maintain the information in accordance with applicable federal law.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-I do not disclose, give, sell, or transfer any personal information about you unless required for law enforcement or otherwise required by law.
+**Sharing your personal information**
 
-**3rd Party Advertising:**
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-I use third-party advertising companies (ie: Google) to serve ads when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+**3rd Party Advertising**
 
-**Google / DoubleClick DART cookie:**
+We use third-party advertising companies (ie: Google) to serve ads when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
+**Google / DoubleClick DART cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on this site.
   * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to you based on your visit to my site and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
-  
-This site is owned by Launch 3, LLC and is copyrighted and protected by various U.S. Laws. Violations are subject to criminal prosecution in federal court.
+**Changes to this privacy policy**
 
-For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+USelections.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy and [terms of service](http://uselections.com/terms_of_use.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting us**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact me](http://uselections.com/contact.php). 
