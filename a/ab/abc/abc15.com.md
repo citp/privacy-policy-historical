@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc15.com privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504134405id_/http%3A//www.abc15.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc15.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223073553id_/http%3A//www.abc15.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ABC15 Arizona
 
