@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the livecareer.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228071830id_/http%3A//www.livecareer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecareer.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223041511id_/http%3A//www.livecareer.com/privacy-policy) for the most accurate reproduction.*
 
 # Policy | Privacy Policy | LiveCareer
 
-Effective Date: December 15, 2013
+Effective Date: May 08, 2014
 
 Thank you for visiting a LiveCareer Limited ("LiveCareer," "we" or "us") offering. To help inform you, we provide this notice ("Privacy Policy") explaining our online information practices and the choices you can make about the collection and use of personal information you submit or we collect through our family of websites that link to this Privacy Policy as well as our other related mobile websites, mobile LiveCareer applications ("mobile apps"), services, tools, and other applications that link to this Privacy Policy (collectively, the "Site"). The Site is owned and operated by LiveCareer.
 
@@ -34,7 +34,14 @@ Uses and Retention
 Disclosure of Information
 
   * By using this Site you agree that we may share your personal information and other information we collect with the following entities:   
-(1) LiveCareer and the rest of our [Corporate Family](https://web.archive.org/about);
+(1) LiveCareer and the rest of our Corporate Family;
+
+
+
+  
+
+
+  * (2) our service providers; (3) other entities, such as potential employers or job posting third party websites, with your consent; (4) legal and law enforcement; (5) others if there is a change of control; (6) ad networks; (7) companies in the mobile app industry; and (8) social networks.
 
 
 
@@ -45,7 +52,7 @@ Access and Review Options
 
 
 
-Effective Date: December 15, 2013
+Effective Date: May 08, 2014
 
 1\. Scope and Consent
 
@@ -57,7 +64,7 @@ a)Registration, Product and Account Information: You can browse the Site without
 
 b)Information to respond to your requests: You may give us your personal information so we can send you newsletters and other communications you request. Details of how you can opt-out of receiving any communications from us are detailed in the section headed Accessing, Reviewing, and Changing Your Personal Information
 
-c)Social Media Information: We may offer sign-on services that allow you to use third-party login credentials to access the Site. We also may offer services that allow you to share information with third-party social media websites such as Facebook, Google Plus, Twitter, and others.   
+c)Social Media Information: We may offer sign-on services that allow you to use third-party login credentials to access the Site. We also may offer services that allow you to share information with third-party social media websites such as Facebook, Google Plus, Twitter, and others.  
 When you link your account or engage with our Site through third-party social media sites, you understand that you may be allowing us to have ongoing access to certain information stored on those social media sites (e.g., your public profile, friend list, people you follow or who follow you, pictures, your e-mail address, birthday, work history, education history, interests, current city, religious and political views, website, personal description, and likes, and your friends’ birthdays, education histories, personal descriptions and likes). We may also receive other information (e.g., content viewed and information about the advertisements within the content you have been shown or may have clicked on, etc.) from your interaction with our Site. You agree that we may share your video viewing with or obtain information about your video viewing from third-party social media sites for two years or until you withdraw consent. The information we have access to from the third-party social media websites varies by website and is controlled by your privacy settings on that website and by your consent. By associating an account managed by a third party with your LiveCareer account and authorizing us to have access to this information, you agree that we may collect, use, and store information from these websites in accordance with this Privacy Policy.
 
 d)Information About Others/Inviting Friends: From time to time you may choose to submit personal information about other people to invite them to join LiveCareer. Inviting friends is always optional.
@@ -68,15 +75,15 @@ f)Information You Post On or Through the Site: The posting sections of the Site 
 
 g)Mobile Information: We may collect additional information from you if you access our Site through a mobile device (e.g. your unique device identifier, device’s operating system, mobile carrier, location or GPS/geo-location, mobile number, your text messages, e-mails or e-mail address, user name, call logs, contacts/address book, financial or payment information, web browsing history, apps downloaded or used, and stored information on your device such as video, audio, photos, calendar, dialer, microphone, your phone’s name, biometric data, passwords, children’s information political interests, sexual orientation, racial or ethnic origin, religious and philosophical beliefs, trade union membership).
 
-h)Technical Usage Information: When you visit our Site, we collect usage information sent to us by your computer, mobile, or other access device that tells us how you are using the Site including video-viewing ("usage information"). We use tracking technologies (including cookies, flash cookies, web beacons/GIFs, embedded scripts, e-tags/cache browsers) to collect usage information. We may use tracking technologies for a variety of purposes, including:
+h)Technical Usage Information: When you visit our Site, we collect usage information sent to us by your computer, mobile, or other access device that tells us how you are using the Site including video-viewing, site views, key stroke data, mouse movement, scrolling, clicks, and typing ("usage information"). We use tracking technologies (including [cookies, flash cookies, web beacons/GIFs, embedded scripts, e-tags/cache browsers](https://web.archive.org/cookie-tracking-policy#CTCookiesSection4)) to collect usage information. We may use tracking technologies for a variety of purposes, including:
 
 Operationally-Necessary.We may use tracking technologies required for system administration, to prevent fraudulent activity, improve security or allow you to make use of shopping cart functionality. We are not required to obtain your consent to tracking technologies that are operationally necessary.
 
-Performance-Related.We may use cookies or other tracking technologies to assess the performance of the online services, including as part of our analytic practices to improve the content offered through the online services.
+Performance-Related.We may use cookies or other tracking technologies to assess the performance of the online services, including as part of our analytic practices to improve the content offered through the online services. For example, as set forth in our [Cookies and Trackings Technology Policy](https://web.archive.org/cookie-tracking-policy), we use [Google Analytics](https://web.archive.org/cookie-tracking-policy#CTPolicySection3) and [Inspectlet ](http://www.inspectlet.com/)to perform site analytics.
 
 Functionality-Related.We may use tracking technologies to tell us, for example, whether you have visited the website before or if you are a new visitor and to help us identify the features in which you may have the greatest interest.
 
-Targeting-Related.We may use tracking technologies to deliver content, including ads, relevant to your interests on our online service and third-party sites based on how you interact with our advertisements or content as well as track the content you access (including video viewing). Further information on this, and your opt-out choices, is below.
+Targeting-Related.We may use tracking technologies to deliver content, including ads, relevant to your interests on our online service and third-party sites based on how you interact with our advertisements or content as well as track the content you access (including video viewing). Further information on this, and your [opt-out choices](https://web.archive.org/cookie-tracking-policy#CTCookiesSection4), is below.
 
 We may also collect password information from you when you log in, as well as computer and/or connection information. During some visits we may use software tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information.
 
@@ -143,13 +150,13 @@ A few additional important things you should know about our use of tracking tech
   * We offer certain features that are available only through the use of tracking technologies.
   * We use both session and persistent tracking technologies. Tracking technologies (e.g., cookies) can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). You are always free to decline tracking technologies if your browser permits, although doing so may interfere with your use of the Site. Refer to the help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling tracking technologies such as cookies.
   * We encode and protect the tracking technologies that LiveCareer sets, so that only we can interpret the information stored in them
-  * You may encounter tracking technologies/cookies from our third party service providers, that we have allowed on our site that assist us with various aspects of our web site operations and services, such as [Google Analytics](https://web.archive.org/cookie-tracking-policy#CTPolicySection3).
+  * You may encounter tracking technologies/cookies from our third party service providers, that we have allowed on our site that assist us with various aspects of our web site operations and services, such as Google Analytics.
   * You also may encounter tracking technologies from third parties on certain pages of the websites that we do not control and have not authorized. (For example, if you view a web page created by another user, there may be a cookie placed by that web page).
   * We may target and track the videos you view on the Site. You consent to our tracking of your video viewing through the Site or third party social media for up to two years or as permitted by applicable law.
 
 
 
-For more information about the use of cookies and similar technology on our online services please review this Privacy Policy and our Tracking Technologies Policy.
+For more information about the use of cookies and similar technology on our online services please review this Privacy Policy and our [Tracking Technologies Policy](https://web.archive.org/cookie-tracking-policy#CTCookiesSection4).
 
 8\. Accessing, Reviewing, and Changing Your Personal Information
 
