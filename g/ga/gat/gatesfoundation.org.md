@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620122009id_/http%3A//www.gatesfoundation.org/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223160148id_/http%3A//www.gatesfoundation.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bill & Melinda Gates Foundation
 
@@ -95,7 +95,7 @@ P.O. Box 23350
 Seattle, WA 98102  
 Attn: Legal
 
-**Supplemental Privacy Policy—Jobs**
+**13\. Supplemental Privacy Policy—Jobs**
 
 Welcome. This Supplemental Privacy Policy—Jobs ("Jobs Policy") supplements the Privacy Policy for Gatesfoundation.org ("Site"). It applies if you use the “Jobs” section of the Site or if you allow or cause someone else to use it for you. If an applicant has a disability and needs assistance using our online systems, completing a profile, an application for employment, or any other aspect of the application process, please notify our Disability Coordinator (at [disability.accomodations@gatesfoundation.org](mailto:disability.accomodations@gatesfoundation.org)) and we will make appropriate arrangements. We are an equal opportunity employer.
 
