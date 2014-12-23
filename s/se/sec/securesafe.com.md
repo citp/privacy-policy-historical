@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securesafe.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328200754id_/http%3A//www.securesafe.com/en/security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securesafe.com privacy policy that was archived on 2014-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141223172201id_/http%3A//www.securesafe.com/en/security/privacy-policy) for the most accurate reproduction.*
 
 # SecureSafe - online secure storage for passwords & files / Privacy Policy | SecureSafe
 
