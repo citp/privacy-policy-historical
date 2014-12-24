@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uspatriottactical.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104345id_/http%3A//uspatriottactical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspatriottactical.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224150823id_/http%3A//uspatriottactical.com/privacy-policy) for the most accurate reproduction.*
 
 # US Patriot Privacy Policy
 
-This Privacy Policy governs the manner in which USPatriottactical.com and NextDayUniforms.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.USPatriottactical.com](http://www.uspatriottactical.com/) and [http://www.NextDayUniforms.com](http://www.nextdayuniforms.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Patriot Jack's Outfitters.
+This Privacy Policy governs the manner in which USPatriottactical.com, USMilitaryBoots.com, PatriotSurplus.com and NextDayUniforms.com collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.USPatriottactical.com, USMilitaryboots.com, PatriotSurplus.com and http://www.NextDayUniforms.com website ("Site").
 
- **Personal identification information**
+**Personal identification information**
 
 We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
  **How we use collected information**
 
-US Patriot (USPatriottactical.com & NextDayUniforms.com) collects and uses Users personal information for the following purposes:
+US Patriot (USPatriottactical.com, USMilitaryboots.com, PatriotSurplus.com & NextDayUniforms.com) collects and uses Users personal information for the following purposes:
 
   * _\- To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -59,7 +59,7 @@ Some of the ads may be served by Google. Google's use of the DART cookie enables
 
 **Changes to this privacy policy**
 
-US Patriot (USPatriottactical.com & NextDayUniforms.com) has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+US Patriot (USPatriottactical.com, USMilitaryBoots.com, PatriotSurplus.com & NextDayUniforms.com) has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
  **Your acceptance of these terms**
 
@@ -68,8 +68,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-US Patriot LLC  
-[http://www.USPatriottactical.com](http://www.patriotjacks.com/) & [http://www.NextDayUniforms.com](http://www.nextdayuniforms.com/)
+US Patriot LLC
+
+[USPatriottactical.com](http://www.patriotjacks.com/), Patriotsurplus.com, USMilitaryboots.com, [NextDayUniforms.com](http://www.nextdayuniforms.com/)
 
 212 Candi Lane
 
@@ -79,4 +80,4 @@ Columbia, SC 29210
 
 [admin@uspatriottactical.com](mailto:admin@uspatriottactical.com)
 
-This document was last updated on October, 31, 2013
+This document was last updated on July 10th, 2014
