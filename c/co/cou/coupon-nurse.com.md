@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coupon-nurse.com privacy policy that was archived on 2014-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140116170912id_/http%3A//coupon-nurse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupon-nurse.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224083251id_/http%3A//www.adventuresofanurse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Coupon Nurse
+# Privacy Policy - Adventures of a Nurse
 
 Privacy Policy  
 This Privacy Policy governs the manner in which Coupon Nurse collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.coupon-nurse.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Coupon Nurse.
@@ -21,9 +21,9 @@ How we use collected information
 
 Debbie Does Coupons may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To send periodic emails  
+– To send periodic emails  
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.  
 How we protect your information
 
@@ -67,3 +67,5 @@ http://www.coupon-nurse.com/
 carla@coupon-nurse.com
 
 This document was last updated on January 10, 2013
+
+**Leave Your Comment Here**
