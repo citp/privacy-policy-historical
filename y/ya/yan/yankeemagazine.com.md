@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312023817id_/http%3A//www.yankeemagazine.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeemagazine.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224112759id_/http%3A//www.yankeemagazine.com/contact/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Yankee Magazine
+# Privacy Policy - Yankee Magazine
 
 **For Web Visitors**
 
@@ -21,6 +21,14 @@ Yankee Publishing Inc. is composed of different operating groups. Any informatio
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+**Google Advertising**
+
+We serve Google advertising on our sites. Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+
+Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). You can also opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
 
 **Print Subscribers Privacy Policy**
 
