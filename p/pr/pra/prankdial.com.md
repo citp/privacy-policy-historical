@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the prankdial.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042225id_/http%3A//www.prankdial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prankdial.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224013345id_/http%3A//www.prankdial.com/privacy) for the most accurate reproduction.*
 
 # PrankDial - Privacy Policy
 
 PrankDial believes that privacy is important to the success and use of the Internet. This statement sets forth PrankDial's Privacy Statement and describes the practices that PrankDial will follow with respect to the privacy of users of this Site. 
 
-### What is personally identifiable information?
+## What is personally identifiable information?
 
 "Customer identifiable information" is information which can be associated with a specific individual or entity, such as name, address, e-mail address, user ID, credit card number, social security number, and so on. 
 
-### How is this information collected, used, and disclosed?
+## How is this information collected, used, and disclosed?
 
 Recognition of a Customer's Expectation of Privacy: At PrankDial, we believe the confidentiality and protection of customer information is one of our fundamental responsibilities. And while information is critical to providing quality service, we recognize one of our most important assets is our customers' trust. Thus, the safekeeping of customer information is a priority for PrankDial. 
 
@@ -24,19 +24,19 @@ Maintenance of Accurate Information: PrankDial recognizes that it must maintain 
 
 Protection of Information via Established Security Procedures: PrankDial recognizes that a fundamental element of maintaining effective customer privacy procedures is to provide reasonable protection against the unauthorized access to customer information. Therefore, PrankDial has established appropriate security standards and procedures to guard access to customer information. Disclosure of Privacy Principles to Customers: PrankDial recognizes and respects the privacy expectations of our customers. We want our customers to understand our commitment to privacy in our use of customer information. As a result of our commitment, we have developed these Privacy Principles which are made readily available to our customers. Customers who have questions about these Privacy Principles or have a question about the privacy of their customer information should call PrankDial. 
 
-### What are cookies and how are they used?
+## What are cookies and how are they used?
 
 Some PrankDial Sites, like many other commercial web sites, may utilize a standard technology called "cookies" to collect information about how our site is used. Cookies were designed to help a web site operator determine that a particular user had visited the site previously and thus save and remember any preferences that may have been set while the user was browsing the site. Cookies are small strings of text that web sites can send to your browser. Cookies cannot retrieve any other data from your hard drive or obtain your e-mail address. If you are simply browsing a PrankDial informational site, a cookie may be used to identify your browser as one that has visited the site before. 
 
 We may also make use of memory-based cookies in support of authenticating the user of certain PrankDial web applications. Similarly, if you are a registered user of a site providing service to PrankDial clients (and have a user ID and password), we may use cookies so that we can provide personalized information based on preferences you have indicated while using the site. Although you have the ability to modify your browser to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize PrankDial services which require registration if you reject cookies. 
 
-### What are your choices regarding collection, use, and distribution of your information?
+## What are your choices regarding collection, use, and distribution of your information?
 
 If you have voluntarily provided information, you consented to the collection and use of your personally identifiable information as described in this Privacy Statement. If, in connection with your use of a particular service, we ask to use your data in a way not described in this Privacy Statement and you do not wish to permit that use, you can choose not to use the particular service. 
 
 If you have voluntarily provided personally identifiable information, we may, from time to time, send you mail or e-mail regarding products and services. If you do not want to receive such offers and mailings, you can easily indicate that by checking the appropriate box on the submission form. 
 
-### How do we protect your information?
+## How do we protect your information?
 
 We exercise great care to protect your personally identifiable information. This includes, among other things, using industry standard techniques such as firewalls, encryption, intrusion detection and site monitoring. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, we cannot ensure or warrant the security of any information you transmit to us or receive from us. This is especially true for information you transmit to us via e-mail. We have no way of protecting that information until it reaches us. Once we receive your transmission, we make our best effort to ensure its security on our servers. 
 
@@ -44,7 +44,7 @@ Internally, we will restrict access to your personally identifiable information 
 
 We will review our security arrangements from time to time as we deem appropriate. 
 
-### How can you help protect your information?
+## How can you help protect your information?
 
 If you are using a PrankDial web site for which you registered and chose a password, which may be utilized, we recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of the registered site and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if others have access to your computer. 
 
