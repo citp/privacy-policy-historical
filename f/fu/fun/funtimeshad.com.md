@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funtimeshad.com privacy policy that was archived on 2012-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121004105359id_/http%3A//funtimeshad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funtimeshad.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224165312id_/http%3A//funtimeshad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fun Times Had
 
@@ -11,7 +11,7 @@ FunTimesHad.com has adopted this Privacy Statement in order to inform you of its
 
 2\. Automatic Collection of Anonymous Information
 
-When you visit FunTimesHad.com website, like when you visit most other websites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as “aol.com” or “earthlink.net”), the date and time you access the site, the pages you access while at FunTimesHad.com’s website, and the internet address of the website, if any, from which you linked directly to FunTimesHad.com’s site. This information is not personally identifiable.
+When you visit FunTimesHad.com website, like when you visit most other websites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the internet (such as â€œaol.comâ€ or â€œearthlink.netâ€), the date and time you access the site, the pages you access while at FunTimesHad.comâ€™s website, and the internet address of the website, if any, from which you linked directly to FunTimesHad.comâ€™s site. This information is not personally identifiable.
 
 3\. Personally Identifiable Information
 
@@ -19,14 +19,14 @@ Personally Identifiable Information is any information that concerns you individ
 
 FunTimesHad.com will not collect any personally identifiable information about you unless you provide it. Therefore, if you do not want FunTimesHad.com to obtain any personally identifiable information about you, do not submit it.
 
-You can visit and browse FunTimesHad.com’s website without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. FunTimesHad.com may collect personally identifiable information about you from its website by methods such as the following:
+You can visit and browse FunTimesHad.comâ€™s website without revealing personally identifiable information about yourself. You may also choose to disclose personally identifiable information about yourself, which may be maintained as described below. FunTimesHad.com may collect personally identifiable information about you from its website by methods such as the following:
 
 4\. Registration Forms
 
-If you are offered the opportunity to enter a promotion or to become a registered user of FunTimesHad.com‘s website, you must apply by filling out the registration form on the site. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number and/or a unique individual password.
+If you are offered the opportunity to enter a promotion or to become a registered user of FunTimesHad.comâ€˜s website, you must apply by filling out the registration form on the site. This form requires certain personally identifiable information that may include, without limitation, your name, email address, postal address, telephone number and/or a unique individual password.
 
 5\. Transactions and Activity  
-If you become a registered user or if you conduct transactions through FunTimesHad.com’s website, it collects information about the transactions you engage in while on the website and your other activity on the site. This information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount and payment information.
+If you become a registered user or if you conduct transactions through FunTimesHad.comâ€™s website, it collects information about the transactions you engage in while on the website and your other activity on the site. This information may include, without limitation, areas of the website that you visit, transaction type, content that you view, download or submit, transaction amount and payment information.
 
 6\. Email and other voluntary communications
 
@@ -36,10 +36,10 @@ You may also choose to communicate with FunTimesHad.com through email, via our w
 
 FunTimesHad.com may use the personally identifiable information collected through its website primarily for such purposes as:  
 a) helping to establish and verify the identity of users;  
-b) opening, maintaining, administering and servicing users’ accounts or memberships;  
+b) opening, maintaining, administering and servicing usersâ€™ accounts or memberships;  
 c) processing, servicing or enforcing transactions and sending related communications;  
 d) providing services and support to users;  
-e) improving the website, including tailoring it to users’ preferences;  
+e) improving the website, including tailoring it to usersâ€™ preferences;  
 f) providing users with service updates, promotional notices and offers, and other information about FunTimesHad.com;  
 g) responding to your questions inquiries, comments and instructions;  
 h) maintaining the security and integrity of its systems.
@@ -47,15 +47,15 @@ h) maintaining the security and integrity of its systems.
 FunTimesHad.com uses the anonymous browsing information collected automatically by its servers primarily to help it administer and improve its website. FunTimesHad.com may also use aggregated anonymous information to provide information about its website to potential business partners and other unaffiliated entities. Again, this information is not personally identifiable.
 
 8\. Disclosure of Information  
-FunTimesHad.com does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. FunTimesHad.com may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. FunTimesHad.com may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, as FunTimesHad.com’s business develops, it may sell or buy corporate assets, and in such transactions customer information may be one of the transferred business assets. If FunTimesHad.com, its internet businesses, or substantially all of its assets, is acquired, customer information may be one of the assets transferred.
+FunTimesHad.com does not provide personally identifiable information to unaffiliated third parties for their use in marketing directly to you. FunTimesHad.com may use unaffiliated companies to help it maintain and operate its website or for other reasons related to the operation of its business, and those companies may receive your personally identifiable information for that purpose. FunTimesHad.com may also disclose personally identifiable information about you in connection with legal requirements, such as in response to an authorized subpoena, governmental request or investigation, or as otherwise permitted by law. Finally, as FunTimesHad.comâ€™s business develops, it may sell or buy corporate assets, and in such transactions customer information may be one of the transferred business assets. If FunTimesHad.com, its internet businesses, or substantially all of its assets, is acquired, customer information may be one of the assets transferred.
 
-9\. “Cookies” and Advertisers
+9\. â€œCookiesâ€ and Advertisers
 
-FunTimesHad.com website’s server, or the servers of companies that are used to operate this site, may place a “cookie” on your computer in order to allow you to use the website and to personalize your experience.
+FunTimesHad.com websiteâ€™s server, or the servers of companies that are used to operate this site, may place a â€œcookieâ€ on your computer in order to allow you to use the website and to personalize your experience.
 
-A “cookie” is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computer’s hard drive. Cookies allow FunTimesHad.com to recognize your computer while you are on its website and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the website.
+A â€œcookieâ€ is a small piece of data that can be sent by a web server to your computer, which then may be stored by your browser on your computerâ€™s hard drive. Cookies allow FunTimesHad.com to recognize your computer while you are on its website and help customize your online experience and make it more convenient for you. Cookies are also useful in allowing more efficient log-in for users, tracking transaction histories and preserving information between sessions. The information collected from cookies may also be used to improve the functionality of the website.
 
-The advertisers and/or other content providers that may appear on this website may also use cookies that are not sent by FunTimesHad.com’s website. Such ads or content may contain cookies that help track and target the interests of users of this website in order to present “personalized” advertisements or other messages that the user might find interesting. FunTimesHad.com is not responsible for any such cookies.
+The advertisers and/or other content providers that may appear on this website may also use cookies that are not sent by FunTimesHad.comâ€™s website. Such ads or content may contain cookies that help track and target the interests of users of this website in order to present â€œpersonalizedâ€ advertisements or other messages that the user might find interesting. FunTimesHad.com is not responsible for any such cookies.
 
 Most web browser applications (such as Microsoft Internet Explorer) have features that can notify you when you receive a cookie or prevent cookies from being sent. If you disable cookies, however, you may not be able to use certain personalized functions of this website.
 
