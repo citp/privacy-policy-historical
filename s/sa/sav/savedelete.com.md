@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savedelete.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128113751id_/http%3A//savedelete.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savedelete.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224175333id_/http%3A//savedelete.com/privacy) for the most accurate reproduction.*
 
-# Privacy | SaveDelete
+# Privacy - SaveDelete
 
 SaveDelete respects your privacy. Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of SaveDelete.
 
