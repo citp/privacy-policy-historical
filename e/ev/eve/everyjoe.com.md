@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everyjoe.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627001039id_/http%3A//www.everyjoe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyjoe.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224183906id_/http%3A//www.everyjoe.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy EveryJoe
+# Privacy Policy | EveryJoe
 
 Thank you for visiting a Defy Media, LLC website (the “Site”)! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. 
 
