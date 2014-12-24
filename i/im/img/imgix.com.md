@@ -1,55 +1,94 @@
-> *The following text is extracted and transformed from the imgix.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428174627id_/http%3A//www.imgix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgix.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224061153id_/http%3A//www.imgix.com/privacy) for the most accurate reproduction.*
 
-# imgix - Privacy Policy
+# imgix • Privacy Policy
 
-Please read this document carefully: if you use Imgix's Services, you consent to the terms of our Privacy Policy.
+Last Revised:  
+May 20, 2014
 
-* * *
+Thank you for using Imgix! Imgix processes images at scale in real time, caches them, and delivers them to your users.
 
-### Information We Collect from You
+Imgix is committed to your privacy. This document, our Privacy Policy ("Policy"), governs our collection, storage, sharing, and use of your data. This Policy also incorporates and is incorporated into our [Terms of Service](https://web.archive.org/terms).
 
-**Information We Need from You During Registration:** When you register to use our Services, you must create an account. To create an account, you must provide us with your name, email address, password, company information (if applicable), and what plan you will use (collectively, "Account Information.") We need all of this information so that we can provide our Services, contact you when necessary, and handle your billing.
-
-**Financial Information:** When you register with us, we also ask for your financial information, which is handled by our third-party payment processing service, Stripe, and is never stored on our servers. Whenever your financial information is processed by Stripe, it is subject to Stripe's [Terms of Service](https://stripe.com/us/terms/) and [Privacy Policy](https://stripe.com/privacy). Please read these documents closely, because by using our paid Services, you agree to Stripe's user agreements as well.
-
-**Log Data:** During your use of our Services, we use our own technology and some third-party services to collect basic technical and diagnostic information about how you use our Services. We need this information for debugging and diagnostic purposes, and generally to improve our Services. We do not share this information.
-
-**Image Metadata:** When we Process images for you, we may collect some metadata about the image, like EXIF data and other data about an image (like whether it contains a horizon line, whether there are people in it, and so on). We use this metadata only for our own internal purposes, like making our image-processing software smarter. We will never identify people in images, and we do not ask for personally identifiable information or knowingly associate it with any images.
+This Privacy Policy explains how information about you is collected, used and disclosed by Zebrafish Labs Inc. and its subsidiaries and affiliated companies ("Imgix"). This Privacy Policy applies to information we collect when you use our website and on-demand image processing services (collectively, the "Services") or when you otherwise interact with us.
 
 * * *
 
-### You Control Your Images
+### Modifications
 
-**Caching:** Any image we Process is Processed only at your direction. You control whether any image from your storage or hosting location appears to the public or is Processed by Imgix.
-
-* * *
-
-### When We Share Your Information
-
-**Your Images Are Private:** We do not sell, share, or disclose images we Process to third parties, with the exception of third-party service providers we engage to perform some specialized functions and services, like CDNs. These third parties are subject to terms we make with them, and our relationships with them are strictly for the purposes of providing our Services to you. We only disclose or share your images to the public at your direction (e.g., when we cache and serve an image for you).
-
-**Law Enforcement:** We may preserve or disclose your information if we believe—after due consideration—that it is reasonably necessary to comply with a law, regulation, or legal request; to protect the safety of any person; to address fraud, security, or technical issues; or to protect our rights or property. If it is legal and reasonably possible for us to do so, we will notify you of any request for your information before preserving or disclosing it, so that you have an opportunity to obtain counsel.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
 
 * * *
 
-### Cookies
+### Collection of Information
 
-We use a few different types of cookies to help us provide our Services to you. Cookies are small data files (not programs) that we place on your machine to help us provide our Services to you. (You can always block or delete cookies through your browser if you so choose, but some of our Services will not work unless you allow us to place cookies on your machine, so we highly recommend that you allow cookies from our domain.)
+**Information You Provide Us** We collect information you provide directly to us. For example, we collect information when you create an account, use the Services, access images or otherwise communicate with us. The types of information we may collect include your name, email address, company name, credit card number (and/or other payment information), S3 credentials, company URLs and any other information you choose to provide.
 
-We use only the following cookies:
+**Information We Collect Automatically** When You Use the Services. When you access or use the Services, we automatically collect information about you, including:
 
-> **Login Cookies:** We use a session cookie to keep track of when you are logged-in, so that you only need to log in once per session. Session cookies like our login cookie disappear when you log out and close your browser.
-> 
-> **Admin Assistance Cookies:** We use a special type of session cookie we call an "Admin Assistance Cookie" if you ask us to help you solve a problem that we can only solve from your perspective. When we use the Admin Assistance Cookie, we can log into our systems as a customer (without needing to obtain someone's username or password) for the limited purpose of troubleshooting and problem-solving from our customers' points of view, so that we can see problems that can only be replicated by seeing what our customers see.
-> 
-> **Analytics Cookies:** We use Google Analytics cookies to store information about how you use our site, but we engineered our site so that Google Analytics can't track you from page to page.
+  * **Log Information:** We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to the Services.
+  * **Device Information:** We collect information about the computer or mobile device you use to access the Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve the Services and your experience, see which areas and features of the Services are popular and count visits. We may also collect information using web beacons (also known as "tracking pixels"). Web beacons are electronic images that may be used in the Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see "Your Choices" below.
+
+
 
 * * *
 
-### General Information
+### Use of Information
 
-**Sale or Merger:** If Imgix is involved in a bankruptcy, merger, acquisition, reorganization, or sale, your information may be sold or transferred as part of that transaction. This Privacy Policy will apply to your information as transferred to the new entity.
+We may use information about you for various purposes, including to:
 
-**Policy Changes:** Changes in laws, regulations, policies, or business practices may occasionally require us to revise this Privacy Policy. If we do so in a materially significant way, we will notify you via the email provided in your Account Information. The most current version of our Privacy Policy is always located at <http://www.imgix.com/privacy>. If you continue to use Imgix's Services after these changes become effective, you have agreed to be bound by the revised Privacy Policy.
+  * Provide, maintain and improve the Services;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests;
+  * Communicate with you about services, offers, promotions, rewards, and events offered by Imgix and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with the Services;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose for which the information was collected.
 
-**Contact Us:** If you have any questions or comments about this Privacy Policy, please contact us at legal@imgix.com.
+
+
+Imgix is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
+
+* * *
+
+### Sharing of Information
+
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Imgix or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
+  * With your consent or at your direction, including if we notify you through the Services that the information you provide will be shared in a particular manner and you provide such information.
+
+
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+* * *
+
+### Analytics Services Provided By Others
+
+We may allow others to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages and links clicked. This information may be used by Imgix and others to, among other things, analyze and track data and deliver content targeted to your interests on the Services and other websites and better understand your online activity.
+
+* * *
+
+### Security
+
+Imgix takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+
+* * *
+
+### Your Choices
+
+**Account Information** You may update, correct or delete information about you at any time by logging into your member account or emailing us with your request at support@imgix.com. If you wish to deactivate your account, you may do so at any time by using the tools in your member account or by contacting us at support@imgix.com, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+
+**Cookies** Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the Services.
+
+**Promotional Communications** You may opt out of receiving promotional emails or messages from Imgix by following the instructions in those emails or messages or by using the tools in your member account. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing service relationship.
+
+* * *
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at privacy@imgix.com.
