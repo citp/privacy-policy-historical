@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jakubmarian.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043903id_/http%3A//jakubmarian.com/privacy-policy-and-information-about-amazon-affiliate-marketing-links) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakubmarian.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224053625id_/http%3A//jakubmarian.com/privacy-policy-and-information-about-amazon-affiliate-marketing-links) for the most accurate reproduction.*
 
 # Privacy policy and information about Amazon affiliate marketing links
 
@@ -16,6 +16,6 @@ I can collect personally identifiable information, like names, postal addresses,
 
 ### Cookies
 
-To support your privacy, this website doesn’t use any cookies at all.
+To support your privacy, this website **doesn’t use any cookies**. Third party services used by the website, such as Disqus for comments and the Google+ button, may use their own cookies, however, to fulfill your specific requests.
 
 _I reserve the right to make changes to this policy._
