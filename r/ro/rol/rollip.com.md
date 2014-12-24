@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollip.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174431id_/http%3A//www.rollip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollip.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224033911id_/http%3A//www.rollip.com/privacy) for the most accurate reproduction.*
 
 # Rollip - Online Photo Effects
 
