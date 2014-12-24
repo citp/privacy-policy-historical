@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074254id_/http%3A//www.dealsdirect.com.au/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224155745id_/http%3A//www.dealsdirect.com.au/s/privacy) for the most accurate reproduction.*
 
 # Deals Direct Privacy Policy
-
-[](https://web.archive.org/web/20140625074254id_/http%3A//www.dealsdirect.com.au/s/catalogue.dealsdirect.com.au/catalogue/mid-year-furniture-stocktake-sale/4yse4e1g5.html)
-
-**Privacy Policy - DealsDirect.com.au**
 
   * Introduction
   * Security of your Personal Information
@@ -134,7 +130,7 @@ The following third party recipients may have access to your personal informatio
 
 **Overseas disclosures**
 
-We may need (or be required) to disclose your personal information to an overseas entity only to the extent to which such disclosure is required to enable us to carry out the primary purpose of processing, fulfilling or the post purchase support of your order. We do not record and therefore will never disclose any financial information such as credit card or bank account details to any overseas entity. 
+We may need (or be required) to disclose your personal information to an overseas entity only to the extent to which such disclosure is required to enable us to carry out the primary purpose of processing, fulfilling or the post purchase support of your order. We do not record and therefore will never disclose any financial information such as credit card or bank account details to any overseas entity.
 
 Dealsdirect may transfer your personal information to an overseas recipient in circumstances where:
 
@@ -175,7 +171,7 @@ DD updates its Privacy Policy from time to time, as and when the Act is amended.
 
 If some or all of the personal information that we request is not provided to us, the main consequence is that we may not be able to fulfil your order or to deliver your products to you. Other consequences may include that we might not be able to resolve any complaint you have against DD.
 
-Using and disclosing personal information for direct marketing
+<strongUsing and disclosing personal information for direct marketing
 
 DD may use or disclose personal information about you for the purpose of direct marketing if:
 
@@ -234,7 +230,18 @@ Ingleburn NSW 2170
 
 All complaints are required by the Act to be made in writing to DD and DD is then allowed a reasonable time (usually 30 days) to respond to complaints. We may ask you to participate in a dispute resolution scheme (such as mediation) in order to resolve your complaint. If you refuse to participate in any form of dispute resolution, you can take your complaint to the Office of the Australian Information Commissioner (OAIC) by calling 1300 363 992 or logging on to the OAIC website at: http://www.oaic.gov.au/
 
+×
+
+* New subscribers only. $50 minumum spend. See Welcome email for details.
+
 No thanks, I'm already a member
+
+To redeem your offer, simply enter the coupon code **LOVEDEALS** when you are ready to checkout to have the discount applied.
+
+The offer is only valid for the email address 
+
+  
+
 
 A Direct Import Product is offered directly from an overseas Supplier. Goods or multiples of goods with a total cost under $1000 are generally exempt from GST. It is recommended that you read the information on the “Direct Import” tab so you are aware of your Direct Importer obligations prior to purchase.
 
