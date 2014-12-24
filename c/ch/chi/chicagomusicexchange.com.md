@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagomusicexchange.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071523id_/http%3A//www.chicagomusicexchange.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagomusicexchange.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224230546id_/http%3A//www.chicagomusicexchange.com/pages/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights | Chicago Music Exchange
 
