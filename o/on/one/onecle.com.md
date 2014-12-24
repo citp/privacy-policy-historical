@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625221713id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224152144id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Loading
 
 [Home](https://web.archive.org/): Privacy Policy
 
@@ -53,5 +51,3 @@ While OneCLE is committed to protecting your personal information, no data trans
 When you sign up for OneCLE's products and service, we may send you an e-mail confirming your new account. The message will be sent to the address that you supplied to us at the time of sign-up and will describe ways for you to change or delete the account information provided. Remember to keep the confirmation e-mail as it will also contain information that will help you in case you run into problems accessing our services.
 
 We welcome your comments or questions.
-
-#### Sponsored Links
