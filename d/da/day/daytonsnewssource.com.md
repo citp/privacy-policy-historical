@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytonsnewssource.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104102id_/http%3A//fox45now.com/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytonsnewssource.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224123608id_/http%3A//fox45now.com/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # WRGT-TV FOX 45 News :: Station Info - Privacy Policy
 
