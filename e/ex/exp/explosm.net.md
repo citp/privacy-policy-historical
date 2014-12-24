@@ -1,103 +1,70 @@
-> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053716id_/https%3A//www.explosm.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explosm.net privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163251id_/https%3A//www.explosm.net/privacy) for the most accurate reproduction.*
 
-# Explosm.net - Home of Cyanide & Happiness
+# Explosm.net - Home of Cyanide and Happiness
 
-##  Privacy Statement for Explosm 
+Explosm has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Explosm
 
-**Explosm** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Explosm ](http://www.explosm.net/)
+## Information Automatically Logged
 
-####  Information Automatically Logged 
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for on-line voting.
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for on-line voting. 
+## Cookies
 
-####  Cookies 
+Our Site uses cookies for the purpose of retaining user information on our forums. This information is not used for marketing purposes.
 
-Our Site uses cookies for the purpose of retaining user information on our forums. This information is not used for marketing purposes. 
+## Advertisers
 
-####  Advertisers 
+We use several outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information.
 
-We use several outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information. 
+## Third Party Cookies
 
-###  Third Party Advertising
+In the course of serving advertisements to this site, our third-party ad server or individual advertisers may place or recognize a unique “cookie” on your browser.
 
-We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+## Registration Forms
 
-###  Third Party Cookies
+Our site's registration form requires users to give us contact information (like their name, email address), unique identifiers (like their email address), and demographic information (like their age).
 
-In the course of serving advertisements to this site, our third-party ad server or individual advertisers may place or recognize a unique “cookie” on your browser. 
+Contact information from the registration forms is used to get in touch with the customer when necessary.
 
-####  Registration Forms 
+Unique identifiers (such as email address) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system.
 
-Our site's registration form requires users to give us contact information (like their name, email address), unique identifiers (like their email address), and demographic information (like their age). 
+Demographic and profile data is also collected at our site.  
+This information is shared with advertisers on an aggregate basis.
 
-Contact information from the registration forms is used to get in touch with the customer when necessary. 
+## Order Forms
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address).
 
-Unique identifiers (such as email address) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. 
+Contact information from the order forms is used to get in touch with the visitor when necessary.
 
-Demographic and profile data is also collected at our site.   
-This information is shared with advertisers on an aggregate basis. 
+## Surveys
 
-####  Order Forms 
+Our online surveys ask visitors for contact information (like email address).
 
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address). 
+Contact information from the surveys is used to identify users. The customer's contact information is also used to get in touch with the visitor when necessary.
 
-Contact information from the order forms is used to get in touch with the visitor when necessary. 
+## Contests
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+We run contests on our site in which we ask visitors for contact information (like email address).
 
-####  Surveys 
+Contact information from the contests is used to get in touch with the visitor when necessary.
 
-Our online surveys ask visitors for contact information (like email address). 
+## External Links
 
-Contact information from the surveys is used to identify users. The customer's contact information is also used to get in touch with the visitor when necessary. 
+This site contains links to other sites. Explosm is not responsible for the privacy practices or the content of such Web sites.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+## Public Forums
 
-####  Contests 
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-We run contests on our site in which we ask visitors for contact information (like email address). 
+## Children's Guidelines
 
-Contact information from the contests is used to get in touch with the visitor when necessary. 
+This site DOES NOT MEET the Online Privacy Protection Act guidelines The following criteria are violated: This site has links that are unsuitable for children.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+## Data Quality/Access
 
-####  External Links 
+This site gives users the following options for changing and modifying information previously provided: You can visit the following URL: http://forum.explosm.net/
 
-This site contains links to other sites. **Explosm** is not responsible for the privacy practices or the content of such Web sites. 
+## Contacting the Web Site
 
-####  Public Forums 
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-####  Children's Guidelines 
-
-This site **DOES NOT MEET** the Online Privacy Protection Act guidelines The following criteria are violated: 
-
-  1. This site has links that are unsuitable for children. 
-
-
-
-####  Choice/Opt-Out 
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. 
-
-  1. You can visit the following URL: [ http://forum.explosm.net/ ](http://forum.explosm.net/) and enter the UserCP to toggle mail settings. 
-
-
-
-####  Data Quality/Access 
-
-This site gives users the following options for changing and modifying information previously provided: 
-
-  1. You can visit the following URL: [ http://forum.explosm.net/ ](http://forum.explosm.net/)
-
-
-
-##  Contacting the Web Site 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-
-
-matt (at) explosm.net 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: matt (at) explosm.net
