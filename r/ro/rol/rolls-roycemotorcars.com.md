@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rolls-roycemotorcars.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614163826id_/http%3A//www.rolls-roycemotorcars.com/legal/%23privacy-intro) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolls-roycemotorcars.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224190200id_/http%3A//www.rolls-roycemotorcars.com/legal/%23privacy-intro) for the most accurate reproduction.*
 
 # Rolls-Royce Motor Cars Legal
 
 This is the only official Rolls-Royce Motor Cars Limited website.
 
-Rolls-Royce Motor Cars Limited is responsible for the content of this website. Rolls-Royce Motor Cars Limited is a company registered in England and Wales under company number 03522604 and has its registered office at Ellesfield Avenue, Bracknell RG12 8TA.   
+Rolls-Royce Motor Cars Limited is responsible for the content of this website. Rolls-Royce Motor Cars Limited is a company registered in England and Wales under company number 03522604 and has its registered office at Summit ONE, Summit Avenue Farnborough, Hampshire GU14 0FB.  
 E-mail address : [enquiries@rolls-roycemotorcars.com](mailto:enquiries@rolls-roycemotorcars.com)
 
 The terms below govern your use of this website and by accessing this website you agree to be bound by them. If you do not accept these terms, please do not use the website. We may change these terms at any time without notice by updating the terms shown on this website. It is your responsibility to review the website terms each time you enter the website to ensure you are aware of our latest terms and conditions. Your use of this website after a change has been made signifies your acceptance of the revised terms.
@@ -154,7 +154,15 @@ Most recent web browsers allow control over the cookies saved through the browse
 
 Rolls-Royce Motor Cars are working to provide the ability for you to manage your cookie preferences within our website but this is currently under development. As an interim step below we have detailed all the cookies set by our websites, their purpose and details of how to opt out where available.
 
-The cookies detailed on this website are based on the International Chamber of Commerce guide for cookie categories; [Strictly necessary](https://www.bt.com/static/includes/globalheader/cookies/more-about-cookies.html#strict "External link opens in new window"), [Performance](https://www.bt.com/static/includes/globalheader/cookies/more-about-cookies.html#perform "External link opens in new window"), [Functionality](https://www.bt.com/static/includes/globalheader/cookies/more-about-cookies.html#function "External link opens in new window") or [Targeting](https://www.bt.com/static/includes/globalheader/cookies/more-about-cookies.html#target "External link opens in new window")
+The cookies detailed on this website are based on the International Chamber of Commerce guide for cookie categories; Strictly necessary, Performance or Targeting.
+
+Strictly necessary cookies let you move around the website and use essential features like secure areas, contact forms and so on. These cookies don't gather any information about you that could be used for marketing or remembering where you've been on the internet.
+
+Performance cookies collect information about how you use our website e.g. which pages you visit, and if you experience any errors. These cookies don't collect any information that could identify you - all the information collected is anonymous and is only used to help us improve how our website works, understand what interests our users and measure how effective our advertising is.
+
+Targeting cookies are linked to services provided by third parties, such as 'Like' buttons and 'Share' buttons. The third party provides these services in return for recognising that you have visited our website.
+
+In addition, we also use 1st party, 3rd party and Persistance cookies, for more information on these please click here [www.allaboutcookies.org](http://www.allaboutcookies.org/ "External link opens in new window").
 
 The tables below explain the cookies we use and why. The information is updated regularly but if a discrepancy is found then please contact us.
 
