@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backstreetboys.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627193352id_/http%3A//backstreetboys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstreetboys.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224152957id_/http%3A//www.backstreetboys.com/privacy) for the most accurate reproduction.*
 
 # Home : Backstreet Boys
 
