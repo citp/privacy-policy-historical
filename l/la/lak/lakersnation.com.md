@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakersnation.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607201152id_/http%3A//www.lakersnation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakersnation.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224031343id_/http%3A//www.lakersnation.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lakers Nation
 
