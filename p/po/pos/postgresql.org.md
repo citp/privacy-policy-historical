@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postgresql.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628051507id_/http%3A//www.postgresql.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postgresql.org privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224184524id_/http%3A//www.postgresql.org/about/privacypolicy) for the most accurate reproduction.*
 
 # PostgreSQL: Privacy Policy
 
