@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052406id_/https%3A//bristol.gov.uk/page/council-and-democracy/privacy-statement-what-we-do-your-personal-data) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224204914id_/http%3A//www.bristol.gov.uk/page/council-and-democracy/privacy-statement-what-we-do-your-personal-data) for the most accurate reproduction.*
 
 # Privacy statement: what we do with your personal data | Bristol City Council
 
@@ -17,7 +17,8 @@ Your service from the council will not be affected if you decide not to allow yo
 We collect your personal details when you fill in a form on our websites or send us an email. When you give us your information, you also agree to:
 
 1\. Allow your details to be used for other council services and combined into one single record containing your basic details and information about your transactions.  
-This will help you because you won’t have to repeat the same basic information all the time. It also helps us to deal with your requests more quickly and tailor our services to meet your needs.
+This will help you because you won’t have to repeat the same basic information all the time. It also helps us to deal with your requests more quickly and tailor our services to meet your needs.  
+Only basic customer data will be shared across the council. This will be your title, name, address, gender, date of birth and preferred contact details; email, home or mobile phone.
 
 2\. Allow us to give your details to contractors who work for us to deal with your request for the council.  
 These contractors use the same security standards as the council.
@@ -27,7 +28,7 @@ You will be told about this or asked to agree to this first, if we decide to sha
 
 4\. We may also give your data to the Audit Commission and other bodies so they can use it to match against computer records held by other public bodies.  
 This data is usually your personal information. Data matching allows them to spot potentially fraudulent claims and payments.  
-[Find out about the Audit Commission, National Fraud Initiative and other data matching initiatives](https://web.archive.org/page/council-and-democracy/audit-commission-national-fraud-initiative-nfi-and-other-data-matching).
+[Find out about the Audit Commission, National Fraud Initiative and other data matching initiatives](https://web.archive.org/page/council-and-democracy/data-matching).
 
 5\. We may also share your information without asking you if:
 
