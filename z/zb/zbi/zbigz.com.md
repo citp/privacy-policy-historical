@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zbigz.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130959id_/http%3A//zbigz.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zbigz.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163834id_/http%3A//zbigz.com/page-privacy) for the most accurate reproduction.*
 
 # ZbigZ – personal cloud storage. Sweet home for your private files.
 
