@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ukecigstore.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613003629id_/http%3A//www.ukecigstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukecigstore.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224051127id_/http%3A//www.ukecigstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Policy Summary
+### Privacy Policy
 
 UK Electronic Cigarette Limited/UK ECIG STORE ("we", ''us'', ''our'') are committed to protecting and respecting your privacy.
 
