@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatgoesaroundnyc.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514221401id_/http%3A//www.whatgoesaroundnyc.com/help/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatgoesaroundnyc.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224223018id_/http%3A//www.whatgoesaroundnyc.com/help/privacy-security) for the most accurate reproduction.*
 
 # What Goes Around Comes Around - Privacy & Security
 
