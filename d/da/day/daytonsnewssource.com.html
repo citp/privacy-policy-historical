@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the daytonsnewssource.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625104102id_/http%3A//fox45now.com/station/legal/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the daytonsnewssource.com privacy policy that was archived on 2014-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141224123608id_/http%3A//fox45now.com/station/legal/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>WRGT-TV FOX 45 News :: Station Info - Privacy Policy</title>
@@ -16,9 +16,9 @@
 
 <link href="/css/style.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="https://web.archive.org/web/20141213211607/https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://tcache.sbgnet.com/template/js/reflection.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.js" type="text/javascript"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.2.0/prototype.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js" type="text/javascript"></script>
 <script src="http://tcache.sbgnet.com/template/js/carousel.js" type="text/javascript"></script>
 <script src="http://tcache.sbgnet.com/template/js/spry/domutils.js" type="text/javascript"></script>
@@ -34,11 +34,11 @@
 	vidObj={
 		fkey                : ['#$f5ad00ce4ba7c3b8b7f','#$4a81341900edbb09bae'],
 		stationID           : "wkef",//station call letters
-		xms                 : "ms-8.sbgnet.com",//load balancer
+		xms                 : "ms-5.sbgnet.com",//load balancer
 		vid                 : false,//default set to false so that Flowplayer doesn't hijack the container
 		googleID            : 'UA-3818718-26',//replace google id
 		eventCat            : 'Not Assigned',//default if event cat not specified
-		autoP               : true,//keep set to false per station request TICKET 19485
+		autoP               : false,//keep set to false per station request TICKET 19485
 		playButton          : "<img src='/template/shared_content/images/vidFlow/play.png' style='position:relative; top:-280px; z-index:9999'/>",//default playbutton
 		stopimg             : " ",//default stop image
 		googlePartnerID     : "partner-pub-9716322014241609:3116270177"
@@ -76,24 +76,21 @@
 		var _ww = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
 		googletag.cmd.push(function() {
 			if(_ww < 500){
-				googletag.defineSlot(mobilezone, [320, 50], 'div-gpt-ad-mobile-320x50').addService(googletag.pubads());
-				googletag.defineSlot(mobilezone, [300, 250], 'div-gpt-ad-mobile-300x250').addService(googletag.pubads());
+				
+				
 			}else{
 				googletag.defineSlot(zone, [728, 90], 'div-gpt-ad-728x90-top').setTargeting('pos','top').addService(googletag.pubads());
 				googletag.defineSlot(zone, [728, 90], 'div-gpt-ad-728x90-bottom').setTargeting('pos','bottom').addService(googletag.pubads());
 				googletag.defineSlot(zone, [160, 600], 'div-gpt-ad-160x600').addService(googletag.pubads());
-				googletag.defineSlot(zone, [300, 50], 'div-gpt-ad-300x50').addService(googletag.pubads());
+				
 				googletag.defineSlot('/4756/WRGT/Web/Promo', [300, 250], 'div-gpt-ad-300x250-promo').addService(googletag.pubads());
-				googletag.defineSlot(zone, [[1024, 30], [1024, 300]], 'div-gpt-ad-1024x30').addService(googletag.pubads());
-				googletag.defineSlot(zone, [650, 650], 'div-gpt-ad-650x650').addService(googletag.pubads());
-				googletag.defineOutOfPageSlot(zone,'div-gpt-ad-1x1-interstitial-oop').setTargeting('pos','interstitial').addService(googletag.pubads());
+				
+				
+				
 				googletag.defineOutOfPageSlot(zone,'div-gpt-ad-1x1-wallpaper-oop').setTargeting('pos','wallpaper').addService(googletag.pubads());
-				googletag.defineOutOfPageSlot(zone,'div-gpt-ad-1x1-popup-oop').setTargeting('pos','popup').addService(googletag.pubads());
-				googletag.defineOutOfPageSlot(zone,'div-gpt-ad-1x1-popunder-oop').setTargeting('pos','popunder').addService(googletag.pubads());
-				googletag.defineSlot(zone, [300, 250], 'div-gpt-ad-300x250-1').setTargeting("pos","1").addService(googletag.pubads());
-					googletag.defineSlot(zone, [300, 250], 'div-gpt-ad-300x250-2').setTargeting("pos","2").addService(googletag.pubads());
-					googletag.defineSlot(zone, [300, 250], 'div-gpt-ad-300x250-3').setTargeting("pos","3").addService(googletag.pubads());
-					
+				
+				
+				
 			}
 			googletag.pubads().enableSingleRequest();
 			googletag.companionAds().setRefreshUnfilledSlots(true);
@@ -169,7 +166,7 @@
 	<div class="main_nav">
 		    <div id="TabbedPanels1" class="TabbedPanels">
       <ul id="TabbedPanelsTabGroup1" class="TabbedPanelsTabGroup">
-        <li class="TabbedPanelsTab" tabindex="0" id="homeTab"><!-- HOME TAB --><a href="/">Home</a></li>
+        <li class="TabbedPanelsTab" tabindex="0" id="homeTab"><!-- HOME TAB --><a href="/"><div style="background: url(/template/shared_content/images/icons/alert-alt.png) center no-repeat; position:relative; margin-top:0px; margin-left:0px; margin-right:0px" class="menuIcon"></div>Home</a></li>
         <li class="TabbedPanelsTab" tabindex="0"><!-- NEWS TAB --><a href="/shared/news/top-stories/index_wrgt.shtml">News</a></li>
         <li class="TabbedPanelsTab" tabindex="0"><!-- WEATHER TAB --><a href="/weather/features/daily-forecast/"><!--include virtual="/weather/inc/alerts/weather-alert.shtml" -->Weather</a></li>
         <li class="TabbedPanelsTab" tabindex="0" style="min-width:50px"><!-- SPORTS TAB --><a href="/shared/sports/features/local/index_wrgt.shtml">Sports</a></li>
@@ -179,9 +176,9 @@
         <li class="TabbedPanelsTab" tabindex="0"><!-- CONTESTS TAB --><a href="/contests/">Contests</a></li>
 		 <li class="TabbedPanelsTab" tabindex="0"><!-- STATION TAB --><a href="/station/">Station Info</a></li>
          <li class="TabbedPanelsTab" tabindex="0"> <!--	HEALTH MATTERS -->  <a href="http://www.abc22now.com/shared/news/features/health-matters/">Health Matters</a></li> 
-       <!--<li class="TabbedPanelsTab" tabindex="0"> <!--	REAL ESTATE - ->  <a href="http://fox45now.homes.com">Real Estate</a></li> -->
-        <li class="TabbedPanelsTab" tabindex="0"><!-- OHIO LOTTERY TAB --><a href="/shared/community/features/lottery/index_wrgt.shtml">Ohio Lottery</a></li>
-        <li class="TabbedPanelsTab" tabindex="0"><!-- IN THE LOOP TAB --><a href="http://www.looplane.com/" target="_blank">In the Loop</a></li>
+       <!--<li class="TabbedPanelsTab" tabindex="0"> <!--	REAL ESTATE - ->  <!--<a href="http://fox45now.homes.com">Real Estate</a></li> -->
+        <!--<li class="TabbedPanelsTab" tabindex="0">--><!-- OHIO LOTTERY TAB --><!--<a href="/shared/community/features/lottery/index_wrgt.shtml">Ohio Lottery</a></li>-->
+        <!--<li class="TabbedPanelsTab" tabindex="0"><!-- IN THE LOOP TAB --><!--<a href="http://www.looplane.com/" target="_blank">In the Loop</a></li>-->
       </ul>
       
       <div class="TabbedPanelsContentGroup">
@@ -234,6 +231,7 @@
        <li><a href="/shared/weather/features/skycam/index_wrgt.shtml"><div style="background: url(/template/shared_content/images/icons/video-camera.png) center;" class="menuIcon"></div>KHN SkyCams</a></li>
        <li><a href="/weather/features/interactive-radar/"><div style="background: url(/template/shared_content/images/icons/radar.png) center;" class="menuIcon"></div>First Warning Radar</a></li> 
        <li><a href="/shared/news/features/see-it/"><div style="background: url(/template/shared_content/images/icons/camera-photo.png) center;" class="menuIcon"></div>See It, Shoot It, Send It</a></li>
+        <li><a href="/community/features/dog/"><div style="background: url(/template/shared_content/images/icons/camera-photo.png) center;" class="menuIcon"></div>Dog of the Day</a></li>
     </ul>
   </div>
 </div>
@@ -269,7 +267,7 @@
     <ul>
       <li><a href="/entertainment/"><div style="background: url(/template/shared_content/images/icons/tv.png) center;" class="menuIcon"></div>Programming</a></li>
       <li><a href="/entertainment/features/office/"><div style="background: url(/template/shared_content/images/icons/star.png) center;" class="menuIcon"></div>The Office</a></li>
-      <li><a href="/entertainment/features/family-feud/"><div style="background: url(/template/shared_content/images/icons/star.png) center;" class="menuIcon"></div>Family Feud</a></li>
+      <!--<li><a href="/entertainment/features/family-feud/"><div style="background: url(/template/shared_content/images/icons/star.png) center;" class="menuIcon"></div>Family Feud</a></li>-->
       <li><a href="http://looplane.com/" target="_blank"><div style="background: url(/template/shared_content/images/icons/star.png) center;" class="menuIcon"></div>Get In the Loop</a></li>
   <!--<li><a href="/shared/entertainment/video-arcade" target="_blank"><div style="background: url(/template/shared_content/images/icons/joystick.png) center;" class="menuIcon"></div>Video Arcade</a></li>--> 
       <li><a href="/shared/news/features/see-it/"><div style="background: url(/template/shared_content/images/icons/camera-photo.png) center;" class="menuIcon"></div>See It, Shoot It, Send It</a></li>
@@ -292,11 +290,12 @@
     	<li><a href="http://www.fox45now.com/community/features/morning-pledge/"><div style="background: url(/template/shared_content/images/icons/default.png) center;" class="menuIcon"></div>Morning Pledge</a></li>
       <li><a href="http://events.fox45now.com/"><div style="background: url(/template/shared_content/images/icons/calendar.png) center;" class="menuIcon"></div>Community Calendar</a></li> 
       <li><a href="/shared/community/features/survey/index_wrgt.shtml"><div style="background: url(/template/shared_content/images/icons/default.png) center;" class="menuIcon"></div>Community Survey</a></li> 
-      <li><a href="/shared/community/features/bankruptcy/index_wrgt.shtml"><div style="background: url(/template/shared_content/images/icons/default.png) center;" class="menuIcon"></div>Free Bankruptcy Evaluation</a></li> 
+      <!--<li><a href="/shared/community/features/bankruptcy/index_wrgt.shtml"><div style="background: url(/template/shared_content/images/icons/default.png) center;" class="menuIcon"></div>Free Bankruptcy Evaluation</a></li> -->
       <!--<li><a href="http://www.looplane.com/" target="_blank"><div style="background: url(/template/shared_content/images/icons/default.png) center;" class="menuIcon"></div>Get in the Loop</a></li>--> 
       <!--<li><a href="/shared/community/features/lottery/index_wrgt.shtml"><div style="background: url(/template/shared_content/images/icons/default.png) center;" class="menuIcon"></div>Ohio Lottery</a></li>--> 
       <li><a href="/shared/news/features/see-it/"><div style="background: url(/template/shared_content/images/icons/camera-photo.png) center;" class="menuIcon"></div>See It, Shoot It, Send It</a></li>
-      <li><a href="/community/features/soma/"><div style="background: url(/template/shared_content/images/icons/star.png) center;" class="menuIcon"></div>Soma 365</a></li>
+      <!--<li><a href="/community/features/soma/"><div style="background: url(/template/shared_content/images/icons/star.png) center;" class="menuIcon"></div>Soma 365</a></li>-->
+       <li><a href="/shared/community/features/thanksgiving/index_wrgt.shtml"><div style="background: url(/template/shared_content/images/icons/star.png) center;" class="menuIcon"></div>Feast of Giving</a></li>
       <!--include virtual="/inc/header/nav/features/community/nav.shtml" -->
     </ul>
   </div>
@@ -309,7 +308,7 @@
     <ul>
       <li><a href="/shared/blogs/jeff-booth/index_wrgt.shtml"><div style="background: url(/template/shared_content/images/icons/blog.png) center;" class="menuIcon"></div>Inside the Booth</a></li>
       <!--<li><a href="/blogs/court-corner/"><div style="background: url(/template/shared_content/images/icons/blog.png) center;" class="menuIcon"></div>Court Corner Blog</a></li>-->
-      <li><a href="/shared/blogs/roh/index_wrgt.shtml"><div style="background: url(/template/shared_content/images/icons/blog.png) center;" class="menuIcon"></div>Ring of Honor</a></li>
+      <!--<li><a href="/shared/blogs/roh/index_wrgt.shtml"><div style="background: url(/template/shared_content/images/icons/blog.png) center;" class="menuIcon"></div>Ring of Honor</a></li>-->
       <li><a href="/blogs/political_pulse/"><div style="background: url(/template/shared_content/images/icons/blog.png) center;" class="menuIcon"></div>Political Pulse</a></li>
       <!--<li><a href="/shared/blogs/deborah-linz/index_wrgt.shtml"><div style="background: url(/template/shared_content/images/icons/blog.png) center;" class="menuIcon"></div>This Side of the Lens</a></li>-->
        <!-- REMOVED TICKET #13410
@@ -327,15 +326,7 @@
      
 		
 		
-		<li><a href="http://facebook.upickem.net/r/5qB3CWb5Rma" target="_blank"><div style="background: url(/template/shared_content/images/icons/prize-winner.png) center;" class="menuIcon"></div>Party on the Patio Grill Giveaway</a></li>
-	
-		
-		
 		<li><a href="http://www.fox45now.com/shared/sports/features/checkered-flag/"><div style="background: url(/template/shared_content/images/icons/prize-winner.png) center;" class="menuIcon"></div>Checkered Flag</a></li>
-	
-		
-		
-		<li><a href="http://facebook.upickem.net/r/3Ss3gRYua6s" target="_blank"><div style="background: url(/template/shared_content/images/icons/prize-winner.png) center;" class="menuIcon"></div>Memphis Lives in Me</a></li>
 	
 		
 		
@@ -370,7 +361,7 @@
   <div class="nav">
     <ul>
       <li><a href="/shared/station/news-team/"><div style="background: url(/template/shared_content/images/icons/user.png) center;" class="menuIcon"></div>Talent Bios</a></li>
-      <li><a href="https://sbgtvcareers.silkroad.com/" target="_blank"><div style="background: url(/template/shared_content/images/icons/employ.png) center;" class="menuIcon"></div>Employment</a></li>
+      <li><a href="https://sbgtv-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.welcome#jobsearch" target="_blank"><div style="background: url(/template/shared_content/images/icons/employ.png) center;" class="menuIcon"></div>Employment</a></li>
       <li><a href="/station/"><div style="background: url(/template/shared_content/images/icons/user-chat.png) center;" class="menuIcon"></div>Feedback</a></li>
       <li><a href="/news/features/news-tips/"><div style="background: url(/template/shared_content/images/icons/blog.png) center;" class="menuIcon"></div>News Tips</a></li>
       <li><a href="/station/advertise/"><div style="background: url(/template/shared_content/images/icons/advert.png) center;" class="menuIcon"></div>Advertise With Us!</a></li>
@@ -474,19 +465,21 @@
      
 				<div style="margin-left:170px; margin-top:17px; font-size:12px; font-weight:700; color:#FFBF00; overflow:hidden; white-space:nowrap;"> 
 			 
-					<a href="http://fox45now.com/shared/news/poll/wrgt_poll_form.shtml" id="hotTopicsText">Question of the Day</a> • 
+					<a href="http://www.fox45now.com/shared/news/features/closings/index_wrgt.shtml?wap=0&amp;" id="hotTopicsText">School Closings</a> • 
+				 
+					<a href="http://fox45now.com/shared/news/features/links/" id="hotTopicsText">News Links</a> • 
+				 
+					<a href="http://www.fox45now.com/shared/news/features/miami-crime/index_wrgt.shtml?wap=0&amp;" id="hotTopicsText">Crime Stoppers</a> • 
+				 
+					<a href="http://www.fox45now.com/shared/news/features/pump-patrol/index_wrgt.shtml?wap=0&amp;" id="hotTopicsText">Pump Patrol</a> • 
 				 
 					<a href="http://events.fox45now.com/" id="hotTopicsText">Community Calendar</a> • 
 				 
-					<a href="http://www.fox45now.com/shared/community/features/lost-pets/wrgt_index.shtml" id="hotTopicsText">Lost &amp; Found Pets</a> • 
+					<a href="http://www.fox45now.com/shared/news/features/raw-news/index_wrgt.shtml?wap=0&amp;" id="hotTopicsText">Raw Video</a> • 
 				 
-					<a href="http://fox45now.homes.com/" id="hotTopicsText">Real Estate</a> • 
+					<a href="http://www.fox45now.com/shared/news/poll/wrgt_poll_form.shtml" id="hotTopicsText">Question of the Day</a> • 
 				 
-					<a href="http://fox45now.com/shared/news/features/traffic/index_wrgt.shtml" id="hotTopicsText">On-Time Traffic</a> • 
-				 
-					<a href="http://fox45now.com/shared/news/features/see-it/" id="hotTopicsText">Photo Galleries</a> • 
-				 
-					<a href="http://www.fox45now.com/shared/news/features/pump-patrol/index_wrgt.shtml" id="hotTopicsText">Pump Patrol </a>  
+					<a href="http://www.fox45now.com/community/features/dog/?wap=0&amp;/" id="hotTopicsText">Dog of the Day</a>  
 				 
 			</div>
 			<div style="float:right; margin-right:5px" id="hotClose"></div>
@@ -583,7 +576,7 @@ We use cookies to help us tailor our site to your needs and to deliver a better,
     <h2 style="font-size:12px">FOX 45 News Team</h2>
     
           <ul style="font-size:11px; margin-left:8px;"><li><h3 style="font-size:12px">Anchors</h3></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#deborah_linz">Deborah Linz</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#jack_atherton">Jack Atherton</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#jackie_couture">Jackie Couture</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#meghan_mongillo">Meghan Mongillo</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#mike_kallmeyer">Mike Kallmeyer</a></li> </ul><br> 
-          <ul style="font-size:11px; margin-left:8px;"><li><h3 style="font-size:12px">Reporters</h3></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#alexandra_lewis">Alexandra Lewis</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#amber_watson">Amber Watson</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#elyse_coulter">Elyse Coulter</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#hilary_zalla">Hilary Zalla</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#kelly_may">Kelly May</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#kristine_frazao">Kristine Frazao</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#nicole_grigg">Nicole Grigg</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#rhonda_moore">Rhonda Moore</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#wale_aliyu">Wale Aliyu</a></li> </ul><br> 
+          <ul style="font-size:11px; margin-left:8px;"><li><h3 style="font-size:12px">Reporters</h3></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#alexandra_lewis">Alexandra Lewis</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#amber_watson">Amber Watson</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#christian_hauser">Christian Hauser</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#elyse_coulter">Elyse Coulter</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#hilary_zalla">Hilary Zalla</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#kelly_may">Kelly May</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#kristine_frazao">Kristine Frazao</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#natasha_williams">Natasha Williams</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#nicole_grigg">Nicole Grigg</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#rhonda_moore">Rhonda Moore</a></li> </ul><br> 
           <ul style="font-size:11px; margin-left:8px;"><li><h3 style="font-size:12px">Weather</h3></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#chris_mulcahy">Chris Mulcahy</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#jeff_booth">Jeff Booth</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#lee_ann_okuly">Lee Ann Okuly</a></li> </ul><br> 
           <ul style="font-size:11px; margin-left:8px;"><li><h3 style="font-size:12px">Sports</h3></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#erik_elken">Erik Elken</a></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#james_rider">James Rider</a></li> </ul><br> 
 	  <ul style="font-size:11px; margin-left:8px;"><li><h3 style="font-size:12px">Hosts</h3></li><li style="margin-left:20px"><a href="/shared/station/news-team/index.shtml#ann_reynolds">Ann Reynolds</a></li> </ul><br> 
@@ -614,7 +607,7 @@ We use cookies to help us tailor our site to your needs and to deliver a better,
   <h2 style="margin-bottom:0">Tonight on FOX 45</h2>
   <div class="pad scroll" style="height:200px;">
     
-			<div class="pad">6:30 pm ..... FOX 45 News at 6:30<br>7:00 pm ..... The Big Bang Theory<br>7:30 pm ..... Modern Family<br>8:00 pm ..... So You Think You Can Dance<br>10:00 pm ... FOX 45 News at Ten<br>11:00 pm ... Modern Family<br>11:30 pm ... The Simpsons<br>12:00 am ... The Steve Wilkos Show</div>
+			<div class="pad">6:30 pm ..... FOX 45 News at 6:30<br>7:00 pm ..... The Big Bang Theory<br>7:30 pm ..... Modern Family<br>8:00 pm ..... Bob's Burgers<br>8:30 pm ..... Bob's Burgers<br>9:00 pm ..... Brooklyn Nine-Nine<br>9:30 pm ..... Brooklyn Nine-Nine<br>10:00 pm ... FOX 45 News at Ten<br>11:00 pm ... Modern Family<br>11:30 pm ... Mike &amp; Molly<br>12:00 am ... Mike &amp; Molly<br>12:30 am ... The Simpsons<br>1:00 am ..... Two and a Half Men<br>1:30 am ..... Two and a Half Men<br>2:00 am ..... The Office</div>
 		
     <a href="/entertainment/"><i>Complete Schedule</i>»</a>
   </div>
@@ -664,6 +657,7 @@ We use cookies to help us tailor our site to your needs and to deliver a better,
     <p><a href="/station/legal/copyright.shtml">Copyright Notices</a></p>
     <p><a href="/station/legal/privacy.shtml">Privacy Policy</a></p>
     <p><a href="/station/">Contact FOX 45</a></p>
+    <p><a href="http://sinclairdigital.com/" target="_blank">Sinclair Digital Solutions</a></p>
     <p><a href="/shared/news/features/files/eeo.pdf " target="_blank">EEO Public File Report</a></p>
     <p><a href="https://stations.fcc.gov/station-profile/wrgt-tv" target="_blank">FCC Public File</a></p>
     <p><a href="/map/">Site Map</a></p>
@@ -681,10 +675,11 @@ We use cookies to help us tailor our site to your needs and to deliver a better,
      <a href="http://www.pinterest.com/wrgt/"><img src="/inc/header/images/pinterest-24x24.png" alt="Pinterest" width="24" height="24"></a></p>
     <p>©2014, Sinclair Broadcast Group, Inc.</p>
     <p>WRGT Fox 45 provides local news, weather, sports, traffic and entertainment for <a href="/">Dayton</a> and nearby towns and communities in the Miami Valley, including Dayton, Vandalia, Xenia, Centerville, New Lebanon, Miamisburg, Kettering, Trotwood, Englewood, Union, Fairborn, Brookville, Lewisburg, New Carlisle, Tipp City, West Milton, Greenville, Eaton, Oxford, Hamilton, Middletown, Springboro, Franklin, Germantown, Carlisle, Lebanon, Waynesville, Bellbrook, Beavercreek, Cedarville, Yellow Springs, Enon, Springfield, Northridge, Urbana, Covington, Troy, Piqua, Oakwood, Riverside, Huber Heights, Shiloh, Wapakoneta, Celina, Sidney, Saint Marys, Greenville, West Carrollton.</p>
+     <p><strong>WRGT LLC</strong> is licensed and owned by Cunningham Broadcasting Corporation </p>
     
       <script type="text/javascript">
      document.write('<script type="text/javascript" src=\"http://adserver.admaxim.com/adserver/adapi?numads=1&aType=6&siteId=wrgt-web&channelId=1928&zoneId=24319&size=1x1&fmt=js&r=' + Math.random() + '\"><\/script>');
-</script><script type="text/javascript" src="http://adserver.admaxim.com/adserver/adapi?numads=1&amp;aType=6&amp;siteId=wrgt-web&amp;channelId=1928&amp;zoneId=24319&amp;size=1x1&amp;fmt=js&amp;r=0.8839848779317578"></script>
+</script><script type="text/javascript" src="http://adserver.admaxim.com/adserver/adapi?numads=1&amp;aType=6&amp;siteId=wrgt-web&amp;channelId=1928&amp;zoneId=24319&amp;size=1x1&amp;fmt=js&amp;r=0.23848125766797734"></script>
   </div>
 
   <div class="clearfloat"></div>
