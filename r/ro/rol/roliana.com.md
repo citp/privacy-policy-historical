@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409160018id_/http%3A//www.roliana.com/phpBB3/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224045309id_/http%3A//www.roliana.com/phpBB3/privacy.php) for the most accurate reproduction.*
 
 # Roliana • Privacy Policy
 
-This Privacy Policy governs the manner in which Truelight Media LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://roliana.com](http://truelightmediallc.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Truelight Media LLC.
+This Privacy Policy governs the manner in which Roliana.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://roliana.com](http://www.roliana.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Roliana.com.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 **How we use collected information**
 
-Truelight Media LLC may collect and use Users personal information for the following purposes:
+Roliana.com may collect and use Users personal information for the following purposes:
 
   * _\- To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -53,7 +53,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Changes to this privacy policy**
 
-Truelight Media LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Roliana.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -62,9 +62,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Truelight Media LLC](http://truelightmediallc.com/)  
-[http://truelightmediallc.com](http://truelightmediallc.com/)  
-56 Sheridan Avenue Albany, NY 12210  
+[Roliana.com](http://www.roliana.com/)  
+[http://www.roliana.com](http://www.roliana.com/)  
 support@roliana.com
 
-This document was last updated on January 02, 2013
+This document was last updated on September 8th, 2014
