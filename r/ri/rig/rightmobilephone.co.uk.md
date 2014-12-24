@@ -1,189 +1,148 @@
-> *The following text is extracted and transformed from the rightmobilephone.co.uk privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009215930id_/http%3A//www.rightmobilephone.co.uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmobilephone.co.uk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225003545id_/http%3A//www.broadbandchoices.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - rightmobilephone.co.uk
+# Privacy Policy - BroadbandChoices.co.uk
 
-## Our commitment to your privacy
+For more information on what personal data we collect, why and how we use it, and the steps we take to protect your privacy and the security of your personal information, please read our Privacy Policy below.
 
-**right** **mobilephone.co.uk** (the "Website") is owned and operated by TRG Online Ltd ("We") a registered company in England & Wales No. 6353916 with registered address: Communications House, 26 York Street, London, W1U 6PZ. Data Protection Act 1998 - TRG Online Ltd (Rightmobilephone.co.uk) Registration number Z1404291.
+broadbandchoices.co.uk (the " **Website** ") is a trading name of Decision Technologies Limited (Company Number 05341159) whose registered address is First Floor, High Holborn House, 52-54 High Holborn, London WC1V 6RL (" **we** ", " **us** ", " **our** ", or " **DTL** ").
 
-We respect your privacy and is of the utmost importance to us. We want to make your online visit a satisfying and safe experience.
+This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how we treat it. Once you use our Website you will be regarded as having read and accepted its terms and this Privacy Policy. Any changes we may make to this Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email.
 
-Because we gather certain types of information about our users, we feel you should fully understand our policy together with the terms and conditions surrounding the capture and use of that information.
+We take your privacy and the security of your personal information very seriously. We comply with the Data Protection Act 1998 and we are registered with the Information Commissioner's Office (ICO Registration No. Z932912X). If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact our Data Protection Officer at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email address for Data Protection Officer") or by writing to the Data Protection Officer at the registered address.
 
-This privacy statement discloses what information we gather and how we use it. Please take a moment to read our Privacy Policy in full so you know what choices you have about the information we may ask you for. This policy may change from time to time so it is a good idea to come back and read through it again, from time to time.
+## The information we collect
 
-## Your information we collect and track
+We may collect and process personal information about you, which you give to us when you use our Website. The type of personal information we collect will vary depending on the services you are using on our Website:
 
-We gather two types of information about you and our other users:
+  * details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access ([please see our Cookie policy for more information](https://web.archive.org/cookie-policy "Cookie Policy"));
+  * your name, email address, current broadband supplier and other personal information if you register with us to access one of our tools (for example our Speedtester) or to receive our email newsletters;
+  * your postcode if you perform an availability check for broadband suppliers available in your area;
+  * your email address if you enter a prize draw or competition;
+  * more detailed personal information if you place an order for home phone services through our sister website homephonechoices.co.uk; and
+  * if you contact us (for example our Online Help Desk), we may keep a record of your email address and that correspondence and any information that you provide by filling in forms on our Website.
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys.
-  * Information gathered through aggregated tracking information derived mainly by tallying page views and cookies used throughout our sites. This information allows us to better tailor our content to you, our readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because we derive our revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping this site and services free to all users. Under no circumstances do we divulge any information about an individual user to a third party. We will always protect your privacy.
+
+
+The provision of some of our services may also require us to store some personal information. We will periodically review your personal information to ensure that we do not keep it for longer than is necessary.
+
+## Purposes for which we use your personal information
+
+We may use your personal information:
+
+  * to monitor and improve the performance of our Website and services;
+  * to carry out research and analysis of the broadband, phone or digital TV marketplace;
+  * to provide you with emails and newsletters and special offers if you register with us;
+  * to provide an availability check of specific broadband, home phone or TV services in your area;
+  * to fulfil our obligations if you enter a prize draw or competition;
+  * to process a transaction between you and a third party which you have requested;
+  * to respond to an enquiry you have made;
+  * to prevent fraud and defend our legal rights; and
+  * as more fully detailed, below.
 
 
 
-## How we collect our data
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
-**Optional voluntary information**
+## Improving our services
 
-We offer the following free services, which require some type of voluntary submission of personal information by users.
+So that we can continually improve our Website and services, we may use your data to perform statistical analysis to help understand how people are using our services. On occasions we may ask you for feedback on your experience of using the Website. Unless otherwise stated, this information is only used internally and will not be published on the Website.
 
-**1\. Electronic newsletters policy (Dispatches)**
+## Research and analysis
 
-We will offer a free electronic newsletter to users. We gather the email addresses of users who voluntarily subscribe from various pages on the website. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page.
+We may use your data to perform research and analysis to better understand the geographic coverage and use of broadband, phone or digital TV services in the UK.  Some of the results of this research may appear in articles and features on our Website and other media but it will not include your personal information in any such results and we will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name and full area of residency).
 
-**2\. Message boards/forums policy**
+## Informing you of special offers and services which may be of interest when you register with us
 
-Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they need not register to visit the site. During registration the user is required to supply a username, password, and email address. Please be aware that information posted on the website is the views of individual members and not necessarily that of **right** **mobilephone.co.uk**.
+We would like to keep you updated, by email or text, of other products and services which we feel you may benefit from or which you have specifically indicated that you have an interest in through our registration process.
 
-**3\. "E-mail this to a friend" policy**
+We engage a third party email technology partner to help us coordinate and manage our email newsletters. They may process and store your personal information on our behalf in their systems subject to strict compliance with the Data Protection Act 1998. They will not contact you directly or share your personal information with any third parties.
 
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. We may offer you the option to subscribe to our free electronic newsletter.
+We may obtain additional personal information from third parties to enable us to improve the relevance of our communications to you.
 
-**4\. Polling**
+You can easily unsubscribe from our emails at any time, either by clicking the "unsubscribe" link at the bottom of any electronic correspondence (may take up to 7 days to take effect); or by emailing us at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email link for Data Protection Officer").
 
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. We may use a system to "tag" users after they have voted, so they can vote only once on a particular question. We may use this information to improve your own particular website experience.
+## Advertising
 
-**5\. Surveys**
+We may use your email address to identify if you are a registered Facebook user and then show you interesting, relevant ads through Facebook.
 
-We may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys, selectively, with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. We may release public articles and press releases referring to aggregated information we have gathered with a survey.
+You can stop receiving these ads at any time by emailing us at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email link for Data Protection Officer").
 
-## Children
+## Broadband and home phone availability check
 
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
+If you carry out an availability check on our Website, we use your postcode for the purpose of carrying out that check.
 
-## Usage tracking
+Different providers supply services to different parts of the country and this is determined by postcode. The postcode check is essential to find out which providers and home phone and broadband services are available in your postcode area.
 
-We track user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. We do break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). The information collected is common with regular websites.
+## Testimonials, case studies, prize draws and surveys
 
-We sometimes tracks and files the search terms that users enter in our Search function. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. As the Internet evolves websites are becoming tailored increasingly to individuals _(please see below: USE OF INFORMATION)_.
+We may republish comments and testimonials sent to us by our users when they provide information by way of Case Study application forms and survey responses  We may republish the name and town of residence of a prize draw winner. These comments and testimonials may appear in articles and features on our Website and other media. The details of prize draw winners may appear on our Website and other media.  We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name and full area of residence). If you do not want us to republish any comments or testimonials or details then this should be clearly indicated and we will comply with your request.
+
+## Fulfilling an order you have placed
+
+If you place an order for a service with a third party on our Website (for example a broadband order) then we will collect your personal information and provide this only to that third party to facilitate the transaction you have requested.
+
+## Online Help Desk and Ask our Expert enquiries
+
+We may republish extracts of emails sent to our Online Help Desk or Ask our Expert service in articles and features on our Website and in other media. We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name and full area of residency). If you do not want us to republish any extracts from correspondence then this should be indicated in the body text of the email and we will comply with your request.
+
+## Disclosure of your Information
+
+We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
+
+We may disclose your personal information to third parties:
+
+  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
+  * if DTL or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets;
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of DTL, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+## Security
+
+Any financial transactions are secured by SSL encryption to offer secure communications of sensitive data to and from the Website.
+
+However, no data transmission over the Internet can be guaranteed to be totally secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
+
+## Third-party providers' and third-party websites' personal information policies
+
+We will not share your personal data with any third parties so that they might try to communicate with you except for the express purpose of fulfilling our obligations as detailed above.
+
+If you decide to enter into a contract with a third party provider via our Website then you are strongly advised to read that chosen provider's privacy policy. We cannot be held responsible for the uses to which a third party puts your personal information once you have contracted with that party.
+
+We link to third party websites from our Website. We cannot be held responsible for the uses to which any third party puts your personal information once you have left our Website. 
 
 ## Cookies
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. We uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
+A cookie is a small text file that is sent by the web server of the website you visit to your web browser and is stored on your computer. Cookies provide a number of functions in order to make websites work, or work more efficiently, as well as to provide information to the owners of websites (e.g. cookies can identify if you have previously visited or registered with a website).
 
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate fully and actively on our comparison search, message boards, forums, polling and surveys.
+We collect information about users visiting our Websites by analysing site traffic which includes the use of cookies.
 
-## Use of information
+The Privacy and Electronic Communications (EC Directive) Regulations 2003 has introduced requirements to provide website users with access to information relating to the use of cookies.
 
-We use any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalised elements on the sites or to better prepare future content based on the interests of our users.
+You can find out more about the cookies we use on our Website, as well as information on how to turn off cookies, or change the cookie settings on your browser by reading our [full Cookie policy](https://web.archive.org/cookie-policy "Cookie Policy").
 
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. We never share newsletter mailing lists (email addresses) with any third parties, including advertisers, sponsors or partners.
+## Data processing and data control
 
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. These searches may be ‘tagged’ in order to improve your website experience on the resultant website pages.
+DTL acts as both a data processor and a data controller within the meaning of the Data Protection Act 1998 with respect to handling your personal information.
 
-We create aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+DTL acts solely as a data processor where it facilitates orders for products and services placed through our Website.
 
-## Sharing of your information
+In the following instances, DTL acts as a data controller:
 
-We use the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We WILL NOT share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
+  * monitoring and improving the performance of our Website and services;
+  * carrying out research and analysis of the broadband, phone or digital TV marketplace;
+  * providing you with emails and newsletters and special offers if you register with us;
+  * providing an availability check of specific services in your area;
+  * fulfilling our obligations if you enter a prize draw or competition;
+  * responding to an enquiry you have made; and
+  * preventing fraud and defending our legal rights.
 
-## Security
 
-We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised individuals have access to the information provided by our customers. Access to information databases is secure and in a supervised environment.
 
-## Opt-out policy
+## Your rights
 
-We give users options wherever necessary and practical. Such choices include:
+You have certain rights under the Data Protection Act 1998 and you can contact us to ask whether we are keeping, processing or storing personal data about you, by sending an email to [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email address for Data Protection Officer") or by writing to the Data Protection Officer at Decision Technologies Limited, First Floor, High Holborn House, 52-54 High Holborn, London, WC1V 6RL.
 
-  * Opting not to register to receive our electronic newsletters.
-  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
-
-
-
-## Your consent
-
-By using this site, you consent to the collection and use of this information by **right** **mobilephone.co.uk**. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-If you have any further queries or concerns regarding our privacy policy please contact us and we will take relevant action.
-
-## Privacy policy - Commitment to your privacy
-
-This site is owned and operated by Right Mobile Phone. Your privacy on the Internet is of the utmost importance to us. At Right Mobile Phone, we want to make your online visit a satisfying and safe experience.
-
-Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.Please take a moment to read our Privacy Policy so you know what choices you have about the information we may ask you for. This policy may change from time to time so it's a good idea to come back and read through it again, from time to time.
-
-## Information Right Mobile Phone gathers and tracks
-
-Right Mobile Phone gathers two types of information about users:
-
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys:
-  * Information Right Mobile Phone gathers through aggregated tracking information derived mainly by tallying page views and cookies used throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Right Mobile Phone derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Right Mobile Phone divulge any information about an individual user to a third party in order to protect your privacy.
-
-
-
-Right Mobile Phone Gathers User Information In The Following Processes:
-
-  * Optional Voluntary Information
-
-
-
-We offer the following free services, which require some type of voluntary submission of personal information by users:
-
-### 1\. Electronic newsletters policy (Dispatches)
-
-We will offer a free electronic newsletter to users. Right Mobile Phone gathers the email addresses of users who voluntarily subscribe from various pages on the website. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page.
-
-### 2\. Message boards/forums policy
-
-Users of the site's Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address. Please be aware that information posted on the website is the views of individual members and not necessarily that of Right Mobile Phone.
-
-### 3\. "E-mail this to a friend" policy
-
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. We may offer you the option to subscribe to our free electronic newsletter.
-
-### 4\. Polling
-
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Right Mobile Phone may use a system to "tag" users after they have voted, so they can vote only once on a particular question. We may use this information to improve your own particular website experience.
-
-### 5\. Surveys
-
-Right Mobile Phone may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. We may release public articles and press releases referring to aggregated information we have gathered with a survey.
-
-### Children
-
-Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
-
-### Usage tracking
-
-Right Mobile Phone tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Right Mobile Phone does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). The information collected is common with regular websites.
-
-Right Mobile Phone sometimes tracks and files the search terms that users enter in our Search function. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. As the internet evolves websites are becoming tailored increasingly to individuals (please see below: USE OF INFORMATION).
-
-### Cookies
-
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Right Mobile Phone uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates.
-
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys.
-
-## Use of information
-
-Right Mobile Phone uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or person ali zed elements on the sites or to better prepare future content based on the interests of our users.
-
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Right Mobile Phone never shares newsletter mailing lists with any third parties, including advertisers, sponsors or partners.
-
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. These searches may be ‘tagged’ in order to improve your website experience on the resultant website pages.
-
-Right Mobile Phone creates aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or v ali d legal process or to protect the personal safety of our users or the public.
-
-## Sharing of the information
-
-Right Mobile Phone uses the above-described information to tailor our content to suit your needs and help our advertisers better understand our audience's demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or v ali d legal process or to protect the personal safety of our users or the public.
-
-## Security
-
-Right Mobile Phone operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our cus tom ers. Access to information databases is secure and in a supervised environment.
-
-## Opt-out policy
-
-We give users options wherever necessary and practical. Such choices include:
-
-  * **Opting not to register to receive our electronic newsletters.**
-  * **Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users**
-
-
-
-## Your consent
-
-By using this site, you consent to the collection and use of this information by Right Mobile Phone. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-If you have any further queries regarding our privacy policy please [contact us](http://www.rightmobilephone.co.uk/Contact-Right-Mobile-Phone.html) and we will be in touch shortly.
+If you ask us to delete, correct or amend your personal data we will do so.
