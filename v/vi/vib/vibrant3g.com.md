@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vibrant3g.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326072830id_/http%3A//games.vibrant3g.com/info/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibrant3g.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224075012id_/http%3A//games.vibrant3g.com/info/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Massively Multiplayer Online Games | Best Mobile Multiplayer Games
 
