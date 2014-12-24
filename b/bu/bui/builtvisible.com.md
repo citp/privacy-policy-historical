@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtvisible.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050931id_/http%3A//builtvisible.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtvisible.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224122247id_/http%3A//builtvisible.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies - Builtvisible
 
@@ -8,7 +8,7 @@ We may amend this policy from time to time by updating this page. Therefore, we 
 
 **What information do we collect?**
 
-Personal information may be collected from you in various ways, for example: -
+Personal information may be collected from you in various ways, for example: –
 
 1\. Information about your computer and about your visits to and use of this website (these are information about your browser, your IP address, your general location as determined from your IP address and provided by your browser, the site from which you come, and the links followed when leaving our site. This information is also collected through cookies
 
@@ -20,7 +20,11 @@ Personal information may be collected from you in various ways, for example: -
 
 We use this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-To send to you goods purchased via the website, and supply to you services purchased via the website For statistical purposes and analysis for management purposes in order to administer the website or improve our products and services; Internal record keeping, and administrative purposes, and to inform you about our events, services or products, or other related information that we think would be of interest to you, as explained above.; To communicate marketing messages, newsletter and details of our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or email or similar technology (you can inform us at any time if you no longer require marketing communications). From time to time, we may also use your information to contact you for market research purposes or to customise the website according to your interests.
+To send to you goods purchased via the website, and supply to you services purchased via the website  
+For statistical purposes and analysis for management purposes in order to administer the website or improve our products and services;  
+Internal record keeping, and administrative purposes, and to inform you about our events, services or products, or other related information that we think would be of interest to you, as explained above.;  
+To communicate marketing messages, newsletter and details of our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or email or similar technology (you can inform us at any time if you no longer require marketing communications).  
+From time to time, we may also use your information to contact you for market research purposes or to customise the website according to your interests.
 
 Your information will not be disclosed to any third party unless you have given your consent to such disclosure. You may at any time ask us to remove your personal details from our records by sending us an email with the words UNSUBSCRIBE in the subject box. If we contact you by email each time you receive a message you will also have the option to decline to receive further information of that type from us.
 
