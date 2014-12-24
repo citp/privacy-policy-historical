@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lenskart.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622213512id_/http%3A//www.lenskart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lenskart.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224182752id_/http%3A//www.lenskart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jewelskart
+# Privacy Policy | Lenskart
 
   1. _**SECURITY AND PRIVACY**_
 
