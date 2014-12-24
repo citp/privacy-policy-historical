@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172306id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experienceproject.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224160702id_/http%3A//www.experienceproject.com/privacy.php) for the most accurate reproduction.*
 
 # Experience Project : Privacy Policy
 
-Last updated March 7th, 2013
+Date of Last Revision: October 27, 2014.
 
-At Experience Project, we have put together this policy to explain how we collect and share information. This Policy applies to all of the services offered by Experience Project. 
+At Experience Project, we have put together this policy to explain how we collect and share information. This Policy applies to all of the services offered by Experience Project.
 
 If you have any questions about this Policy, please feel free to [contact us](http://www.experienceproject.com/contact-support.php) through our website.
 
 **Information we collect and how we use it:**
 
-We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Experience Project Search. In order to provide our full range of services, we may collect the following types of information:
+We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Experience Project Search. In order to provide our full range of services, we may collect the following types of information: 
 
   * **Information you provide** \- When you sign up for a Experience Project Account or other Experience Project service or promotion that requires registration, we ask you for some personal information (such as your email address and an account password). When registering directly with the Experience Project, you will be asked to set up a username that we recommend does not contain any personally identifiable information. Please be aware that if you sign in the Experience Project using a third party website, e.g. Facebook, the Experience Project will collect your username and general location information available via that website as part of the process. This information may be published with your public posting, and may be posted on other sites. 
-  * **Experience Project cookies** \- When you visit Experience Project, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people utilize the website. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Experience Project features and services may not function properly if your cookies are disabled. 
-  * **Log information** \- When you use Experience Project's services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
-  * **User communications** \- When you send email or other communication to Experience Project, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
-  * **Links** \- Experience Project may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. 
+  * **Experience Project cookies** \- When you visit Experience Project, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people utilize the website. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Experience Project features and services may not function properly if your cookies are disabled. 
+  * **Log information** \- When you use Experience Project's services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+  * **User communications** \- When you send email or other communication to Experience Project, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+  * **Links** \- Experience Project may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. 
   * **Other sites** \- This Privacy Policy applies to web sites and services that are owned and operated by Experience Project. We do not exercise control over external sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
 
@@ -44,7 +44,7 @@ Experience Project only shares personal information with other companies or indi
 
   * We have your consent. We require opt-in consent for the sharing of any personally identifying information.
   * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf, such as delivering newsletters. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](http://www.experienceproject.com/terms.php), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Experience Project, its users or the public as required or permitted by law.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Statement of Rights and Responsibilities, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Experience Project, its users or the public as required or permitted by law. 
 
 
 
@@ -86,7 +86,7 @@ When you use Experience Project services, we make good faith efforts to provide 
 
 **Enforcement**
 
-Experience Project regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Experience Project's treatment of personal information by [contacting us](mailto:privacy@experienceproject.com) through this web site. 
+Experience Project regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Experience Project's treatment of personal information by [contacting us](mailto:privacy@experienceproject.com) through this web site. 
 
 **Civil Subpoenas**
 
