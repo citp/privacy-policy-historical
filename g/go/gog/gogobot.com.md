@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogobot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080151id_/http%3A//www.gogobot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogobot.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224064651id_/http%3A//www.gogobot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gogobot
 
