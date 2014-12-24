@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keep2share.cc privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921123731id_/http%3A//keep2share.cc/page/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keep2share.cc privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224144625id_/http%3A//keep2share.cc/page/policy.html) for the most accurate reproduction.*
 
 # Keep2Share Privacy Policy
 
@@ -14,7 +14,7 @@ You can review, correct, update, or change your Personal Information, or opt out
 
 **Information We Collect and How We Collect It**
 
-**Personal Information.** You can use certain features of the Service without providing us with any information that identifies or may be used to directly identify you (“Personal Information”). We collect certain Personal Information when you register with Keep2Share, including your username, e-mail address, and payment information (i.e., a third party payment processor identifier). We may collect other Personal Information if you become an Reseller or use certain features of the Service. We collect Personal Information only if you choose to share it with us. The decision to provide this information is optional. However, if you choose not provide the requested information, you may not be able to use certain features of the Service. 
+ **Personal Information.** You can use certain features of the Service without providing us with any information that identifies or may be used to directly identify you (“Personal Information”). We collect certain Personal Information when you register with Keep2Share, including your username, e-mail address, and payment information (i.e., a third party payment processor identifier). We may collect other Personal Information if you become an Reseller or use certain features of the Service. We collect Personal Information only if you choose to share it with us. The decision to provide this information is optional. However, if you choose not provide the requested information, you may not be able to use certain features of the Service. 
 
 **Usage Data.** We automatically collect usage information that does not directly identify an individual user ("Usage Data"). For example, each time you use the Service we may automatically collect the type of Web browser you use, your operating system, your Internet Service Provider, your IP address, the links you use, and the time and duration of your use of the Service. We use this Usage Data to help us understand how people use the Service, and to enhance the services we offer. None of this information can be used to directly identify you, and we will not use it for the purpose of attempting to identify you. Please be aware, however, that we may be required to disclose information such as your IP address (a unique numerical identifier for your computer that may or may not change over time) which could be used by others to attempt to identify you. 
 
@@ -22,9 +22,9 @@ You can review, correct, update, or change your Personal Information, or opt out
 
 **Storage of Information.** The information Keep2Share collects about you and your usage of the Service will be transmitted to and stored by Keep2Share on servers.
 
-**How We Use Information and When We May Share Information**
+ **How We Use Information and When We May Share Information**
 
-**Generally.** We generally use Personal Information only for purposes of providing and communicating with you about the Service, including responding to your requests, making payments, notifying you of new products or services, and otherwise communicating with you about the Service. We will not disclose Personal Information to third parties without your consent, except as explained in this Privacy Policy. 
+ **Generally.** We generally use Personal Information only for purposes of providing and communicating with you about the Service, including responding to your requests, making payments, notifying you of new products or services, and otherwise communicating with you about the Service. We will not disclose Personal Information to third parties without your consent, except as explained in this Privacy Policy. 
 
 **Service Providers.** From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers to provide services such as payment processing, maintenance and support, data storage and management, advertising, and marketing. We provide our Service Providers with only the information necessary for them to perform these services on our behalf. Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use, or disclosure. Service Providers are prohibited from using Personal Information other than as specified by Keep2Share. 
 
