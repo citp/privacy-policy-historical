@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the lolking.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628042650id_/http%3A//www.lolking.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolking.net privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224092832id_/http%3A//www.lolking.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LolKing
-
-Server Status: 8 Online 1 Offline
-
-[](https://web.archive.org/)
 
 The LoLKing Website ([www.LoLKing.net](http://www.lolking.net/)) is maintained by [ZAM Network, LLC](http://www.zam.com/). Protecting your privacy is important to ZAM Network, LLC, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
 
