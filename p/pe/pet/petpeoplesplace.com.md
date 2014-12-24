@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petpeoplesplace.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326080623id_/http%3A//www.petpeoplesplace.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petpeoplesplace.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224112521id_/http%3A//www.petpeoplesplace.com/help/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Help & Information | PetPeoplesPlace.com
 
@@ -54,6 +54,8 @@ We incorporate standard industry practices internally and with our service provi
 
 **Security of Your Personal Information**  
 We use Secure Sockets Layer (SSL) technology to encrypt important information, such as your credit card data, in an effort to prevent unauthorized access during transmission of your orders over the Internet. Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions cannot be assured. We store data on multiple service systems, in controlled, secure environments.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Following External Links**  
 PetPeoplesPlace may offer links to or from Web sites it controls to other sites operated by third parties so that you can conveniently visit our vendors and advertisers or locate other content likely to be of interest. We are not responsible for the content, practices or policies of sites operated by third parties and urge you to inquire about them before providing any personally-identifiable information.
