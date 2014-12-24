@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poolplayers.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510223939id_/http%3A//www.poolplayers.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolplayers.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224064756id_/http%3A//www.poolplayers.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - American Poolplayers Association
+# Privacy Policy - American Poolplayers AssociationAmerican Poolplayers Association
 
 **Effective January 8, 2008:**
 
