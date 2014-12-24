@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bangkokair.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024647id_/http%3A//www.bangkokair.com/eng/pages/view/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangkokair.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224072719id_/http%3A//www.bangkokair.com/eng/pages/view/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security - Bangkok Airways
 
 ### Introduction
 
-Bangkok Airways Co., Ltd. is committed to protecting your privacy.  
-You are encouraged to know all your rights about using the services of this web-site, provided by Bangkok Airways Co., Ltd. (hereinafter 'We' or 'PG'). Following are the guidelines we use for protecting the information you provide us during a visit to our website.  
+Bangkok Airways Public Co., Ltd. is committed to protecting your privacy.  
+You are encouraged to know all your rights about using the services of this web-site, provided by Bangkok Airways Public Co., Ltd. (hereinafter 'We' or 'PG'). Following are the guidelines we use for protecting the information you provide us during a visit to our website.  
 This Privacy Statement will also apply to any information about you that is provided to us by someone else such as a travel agent.
 
 ### Collection of personal information
