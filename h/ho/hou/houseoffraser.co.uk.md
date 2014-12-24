@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseoffraser.co.uk privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623064124id_/http%3A//www.houseoffraser.co.uk/Privacy%2BPolicy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseoffraser.co.uk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225002805id_/http%3A//www.houseoffraser.co.uk/Privacy%2BPolicy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy policy - House of Fraser
 
@@ -52,7 +52,7 @@ You may also see House of Fraser adverts and content on other websites. For thes
 
 ## Keeping in touch with you
 
-We want to keep you up to date with key information about new ranges, promotional offers and what's coming soon to House of Fraser stores via email, mobile phone or post.  We may also use your details to send you information, via email about other goods and services we sell or for research purposes. If you have registered to receive information from us, you can remove your contact details from our list by using the 'unsubscribe' links at the bottom of the promotional emails we send you or by responding to the text messages as indicated.
+We want to keep you up to date with key information about new ranges, promotional offers and what's coming soon to House of Fraser stores via email, post, mobile phone or otherwise, e.g. social media. We may also use your details to send you information via email about other goods and services we sell or for research purposes. If you have registered to receive information from us, you can remove your contact details from our list by updating your account, using the 'unsubscribe' links at the bottom of the promotional emails we send you or by responding to the text messages as indicated.
 
 ## Third parties
 
