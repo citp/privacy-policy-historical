@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fujifilmusa.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328152150id_/http%3A//www.fujifilmusa.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilmusa.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224144538id_/http%3A//www.fujifilmusa.com/privacy/index.html) for the most accurate reproduction.*
 
-# Fujifilm USA | Privacy Policy
+# Privacy Statement | Fujifilm Canada
 
 ## Privacy Policy
 
