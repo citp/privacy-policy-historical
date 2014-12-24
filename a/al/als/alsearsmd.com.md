@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062444id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224050846id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Health Newsletter
+# Privacy Policy | Dr. Al Sears
 
-  * Dr. Sears recognizes the importance of protecting your personal information and your trust in us. Therefore, we take the responsibility of handling your personal information extremely seriously.
+Dr. Sears recognizes the importance of protecting your personal information and your trust in us. Therefore, we take the responsibility of handling your personal information extremely seriously.
 
 ## Your E-mail Address
 
@@ -45,6 +45,3 @@ Or you can email us using our [online contact form](http://www.alsearsmd.com/con
 Cookies are tiny files placed on your computer by web sites you visit. They can be used to make your next visit to that site more convenient (by remembering settings, for example).
 
 Our web sites use cookies only to track how many people visit each page, how long they stay, and that sort of statistical data. We don’t store or collect any personal information with cookies.
-
-
-
