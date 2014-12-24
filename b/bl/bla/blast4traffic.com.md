@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blast4traffic.com privacy policy that was archived on 2014-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140117190252id_/http%3A//blast4traffic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blast4traffic.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224131541id_/http%3A//www.blast4traffic.com/privacy.html) for the most accurate reproduction.*
 
 # Blast4Traffic™ Privacy Policy
 
