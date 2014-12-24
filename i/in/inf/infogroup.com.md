@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infogroup.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429122648id_/http%3A//www.infogroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infogroup.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224101207id_/http%3A//www.infogroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Infogroup
 
