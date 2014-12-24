@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060816id_/http%3A//www.xtend-life.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224033922id_/http%3A//www.xtend-life.com/our-approach/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for Xtend-Life Natural Products website
+# Privacy Policy | Xtend-Life Natural Certified Privacy
 
 ## Xtend-Life has created this privacy statement in order to demonstrate our firm commitment to privacy. 
 
@@ -22,13 +22,13 @@ When subscribing to one of our mailing lists we will collect your email address.
 
 We will only use your personal information to process and ship your order, or alternately to send you newsletter(s) to which you subscribe. We do not disclose personal information to any third party apart from those directly involved in the shipping of your order.
 
-We use a third party to send our email newsletters. We only provide with your email address. No other personal details are shared with this party.
+We use a third party to send our email newsletters and only provide them with your email address. No other personal details are shared with this party.
 
 We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not share, sell or rent your personal information to third parties.
 
 ### Access To Personal Information
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on your 'My Account' page or by emailing our Customer Support at [customer.service@xtend-life.com](mailto:customer.service@xtend-life.com) or using our [contact form](http://www.xtend-life.com/Contact.aspx). We will respond to your request to access to your personal information within 30 days. 
+If your personal information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on your 'My Account' page or by emailing our Customer Support at [customer.service@xtend-life.com](mailto:customer.service@xtend-life.com) or using our [contact form](http://www.xtend-life.com/Contact.aspx). We will respond to your request to update to your personal information within 3 business days. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, and resolve any disputes that may arise.
 
