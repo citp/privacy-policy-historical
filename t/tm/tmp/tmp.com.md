@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044334id_/http%3A//www.tmp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmp.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224123804id_/http%3A//tmp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - TMP Worldwide Advertising & Communications, LLC
 
@@ -6,7 +6,7 @@ Effective Date: April 15, 2014
 
 TMP Worldwide Advertising & Communications, LLC (“ **TMP Worldwide** ”) is committed to respecting the privacy of those who visit this site. Any online data collection from emails and forms submitted by you will only be used in the normal course of business to help us contact you and provide solutions to your challenges. This privacy policy describes how TMP Worldwide collects and uses any personal information you may provide on our web site, www.tmp.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged TMP Worldwide.
 
-TMP Worldwide has been awarded TRUSTe's Privacy Seal, which signifies that this privacy policy and TMP Worldwide’s practices have been reviewed by TRUSTe for compliance with e for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html), including transparency, accountability and choice regarding the collection and use of personal information. The TRUSTe program covers only information that is collected through this web site www.tmp.com and TMP Worldwide’s TalentBrew Platform.
+TMP Worldwide has been awarded TRUSTe's Privacy Seal, which signifies that this privacy policy and TMP Worldwide’s practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html), including transparency, accountability and choice regarding the collection and use of personal information. The TRUSTe program covers only information that is collected through this web site www.tmp.com and TMP Worldwide’s TalentBrew Platform.
 
 ### TRUSTe
 
@@ -19,7 +19,7 @@ TRUSTe's mission, as an independent third party, is to accelerate online trust a
 
 ### Safe Harbor Certification
 
-TMP Worldwide Advertising & Communications, LLC and its affiliates, including AiA, comply with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. TMP Worldwide Advertising & Communications LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TMP Worldwide Advertising & Communications, LLC’s certification, please visit <http://www.export.gov/safeharbor/>.
+TMP Worldwide Advertising & Communications, LLC and its affiliates, including AiA, comply with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. TMP Worldwide Advertising & Communications, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TMP Worldwide Advertising & Communications, LLC’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ### Information Collection and Use
 
@@ -69,7 +69,7 @@ TMP Worldwide collects information under the direction of its clients, and has n
 
 ### User Access and Choice
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/, or deactivate it by making the change on our member information page or by emailing our Customer Support at [tbsupport@tmp.com](mailto:tbsupport@tmp.com). We will respond to your request to access personal information within thirty (30) days.
+If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete, or deactivate it by making the change on our member information page or by emailing our Customer Support at [tbsupport@tmp.com](mailto:tbsupport@tmp.com). We will respond to your request to access personal information within thirty (30) days.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements or as otherwise provided in the privacy policy of our client on whose behalf your information was provided.
 
@@ -81,7 +81,7 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. Session cookies can be used for site usage tracking, enabling features, or other site functionality. A persistent cookie remains on your hard drive for an extended period of time. Persistent cookies can be used for site usage tracking, remembering feature preferences, or other site functionality. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our sitemay be limited. 
+If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited. 
 
 As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
