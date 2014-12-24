@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kneedraggers.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521180750id_/http%3A//www.motosport.com/motorcycle/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kneedraggers.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224201534id_/http%3A//www.motosport.com/dirtbike/about/privacypolicy) for the most accurate reproduction.*
 
-# The #1 Online Motorcycle & Sportbike Store - Shop With The Guys That Ride | MotoSport
+# Dirt Bike & Motocross Online Store | MotoSport Oman
 
 Effective May 19th, 2014.
 
@@ -45,7 +45,7 @@ MotoSport shares Personal Information with third parties in certain limited circ
   * We may provide Personal Information to third parties or marketers for their marketing purposes. We do not provide your entire credit card or debit card numbers to any of these third parties or marketers, but may provide the last four digits of those numbers to a third party or marketer to aid those third parties or marketers in differentiating individuals from one another.
   * We may buy or sell subsidiaries or business units. Generally, in these transactions, customer information (including Personal Information) is a transferred asset. That information will remain subject to the then-existing Privacy Policy until or unless you provide consent for any updated use of your Personal Information.
   * We may share Personal Information to the extent required by legal process or enforceable governmental request.
-  * We may share Personal Information with third parties to detect, prevent, or otherwise address fraud, security, or technical issues. These third partiesmay place and read cookies on your browsers, or may use web beacons or similar technologies to collect information in connection with the Google Trusted Merchant Program.
+  * We may share Personal Information with third parties to detect, prevent, or otherwise address fraud, security, or technical issues. These third parties may place and read cookies on your browsers, or may use web beacons or similar technologies to collect information in connection with the Google Trusted Merchant Program.
 
 
 
@@ -73,7 +73,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.You also have the option to access MotoSport.com and affiliates websites from your mobile or wireless device. When using your mobile device or a wireless network, the carrier or network administrator may have access to your Personal Information. For information regarding your carrier or network administrator's treatment of your information, please consult their respective privacy policies.
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. You also have the option to access MotoSport.com and affiliates websites from your mobile or wireless device. When using your mobile device or a wireless network, the carrier or network administrator may have access to your Personal Information. For information regarding your carrier or network administrator's treatment of your information, please consult their respective privacy policies.
 
 ## Our Commitment To Children's Privacy
 
@@ -85,11 +85,11 @@ There is an unsubscribe link in every email that we send. You can be removed ins
 
 ## Opting Out Of Having Our Marketing Partner Deliver Ads Tailored To Your Web Preferences And Usage Patterns
 
-If you choose NOT to have our marketing partners deliver ads tailored to your Web preferences and usage patterns, you can opt out of this usage of your Personal Information by visiting the Network Advertising Initiative Opt-out Tool located at: <http://www.networkadvertising.org/choices/>and opting out from targeted ads delivered by various marketers.
+If you choose NOT to have our marketing partners deliver ads tailored to your Web preferences and usage patterns, you can opt out of this usage of your Personal Information by visiting the Network Advertising Initiative Opt-out Tool located at: <http://www.networkadvertising.org/choices/> and opting out from targeted ads delivered by various marketers.
 
 ## Opting Out Of Sharing Information With Third Party Partners For Marketing Purposes
 
-If you prefer that we do not share your Personal Information with other marketers, please send us an email containing the subject line “opt out" to optout@motosport.com.
+If you prefer that we do not share your Personal Information with other marketers, please send us an email containing the subject line ?opt out" to [info@backcountry.com](mailto:info@backcountry.com).
 
 ## Changes To This Privacy Policy
 
