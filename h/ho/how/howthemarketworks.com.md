@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327024041id_/http%3A//www.howthemarketworks.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howthemarketworks.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224052749id_/http%3A//www.howthemarketworks.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # HowTheMarketWorks.com - Privacy Policy
 
@@ -6,11 +6,9 @@ _Last revised March 11, 2010_
 
 This How The Market Works site is owned and operated by Stock-Trak. Stock-Trak recognizes and respects the privacy expectations of participants in its contests. This Privacy Statement explains how we collect, use and protect your personally identifying information ("Personal Information") and under what circumstances it may be disclosed. This Privacy Statement is incorporated into our [Agreement](http://www.howthemarketworks.com/company/terms.php) . All capitalized terms not defined herein are defined in that Agreement. We reserve the right to change this Privacy Statement from time to time, consistent with applicable privacy and other laws. Unless prohibited by applicable law, any such change will apply thirty (30) days from date of posting on our site, unless you object ("opt-out") as provided below before that date. Your continued use of this site following such changes signifies your acceptance of those changes. 
 
-This Privacy Statement is incorporated into our Agreement. All capitalized terms not defined herein are defined in that Agreement. We reserve the right to change this Privacy Statement from time to time consistent with applicable privacy and other laws. Unless prohibited by applicable law, any such change will apply thirty (30) days from date of posting on our Site, unless you object ("opt-out") as provided below before that date. Your continued use of this site following such changes signifies your acceptance of those changes. 
-
 #### The Information We Collect and How We Collect It
 
-Stock-Trak collects Personal Information from registered participants. As a condition of registration, participants provide their name, address, email address and date of birth. Stock-Trak may also collect additional information from participants and other visitors to the site through cookies or web beacons as detailed below. 
+Stock-Trak collects Personal Information from registered participants. As a condition of registration, participants provide their name, email address, and date of birth. Stock-Trak may also collect additional information from participants and other visitors to the site through cookies or web beacons as detailed below. 
 
 Stock-Trak is the sole owner of the information collected through our site. We sell, share or rent this information to others only in ways that are disclosed in this privacy statement or with your express consent. 
 
