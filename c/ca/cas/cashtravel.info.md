@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cashtravel.info privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625112928id_/http%3A//cashtravel.info/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashtravel.info privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224082001id_/http%3A//www.cashtravel.info/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # Cashtravel - Trustable Earning & Advertising
 
 Online Since Apr, 2012
 
-16,466,357 Ads View Served             25,523 Members     $5,579 Total Paid
+20,819,519 Ads View Served             31,011 Members     $7,590 Total Paid
 
 * **_Privacy Statement_**
 * We value your privacy. We will not share personal information on clients or visitors to our website. 
