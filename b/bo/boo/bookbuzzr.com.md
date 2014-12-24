@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the bookbuzzr.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209045433id_/http%3A//www.bookbuzzr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbuzzr.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224054834id_/http%3A//www.bookbuzzr.com/privacy.php) for the most accurate reproduction.*
 
-# BookBuzzr-Free Online Book Marketing Technology for Authors - Privacy Policy
+# BookBuzzr - Online Book Marketing Technology for Authors - Privacy Policy
 
-Effective November 6, 2008
+Effective November 6, 2008 
+
+  
+
 
 ## Our Commitment To Privacy
 
@@ -10,7 +13,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect:
 
-This notice applies to all information collected or submitted on the Freado website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the BookBuzzr website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
   * Name
   * Address
@@ -62,4 +65,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 ## How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 412-567-2089 or send us an email at [ info@bookbuzzr.com](mailto:info@freado.com)
+Should you have other questions or concerns about these privacy policies, please call us at 412-567-2089 or send us an email at [ info@bookbuzzr.com](mailto:info@bookbuzzr.com)
