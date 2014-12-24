@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northeme.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050437id_/http%3A//northeme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northeme.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224122925id_/http%3A//northeme.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Northeme
 
@@ -97,14 +97,14 @@ Facebook Authentication and Twitter Oauth
 
 ###### Data owner
 
-Northeme Design – Ferah Mah. Alemdag Yanyolu Cad. No:24 Kasran Plaza K:1 Camlica Uskudar-İstanbul, TURKEY hi@northeme.com 
+Northeme Design   
+Email : hi[at]northeme.com 
 
 ## Full policy
 
 ### Data Controller and Owner
 
-Northeme – 346 St Clarens Ave, Toronto, ON Canada,  
-hi@northeme.com 
+Email : hi[at]northeme.com 
 
 ### Types of Data collected
 
