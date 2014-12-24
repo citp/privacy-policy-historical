@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factsnfakes.in privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627153006id_/http%3A//www.factsnfakes.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factsnfakes.in privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224052749id_/http%3A//www.factsnfakes.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,3 +42,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 This document was last updated on March 11, 2014
+
+### Comments
+
+comments
