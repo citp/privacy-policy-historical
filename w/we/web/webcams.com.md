@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606041123id_/http%3A//www.webcams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcams.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224022611id_/http%3A//www.webcams.com/privacy) for the most accurate reproduction.*
 
 # Private Policy :: Webcams.com
 
