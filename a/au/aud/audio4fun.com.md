@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618114939id_/http%3A//www.audio4fun.com/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224150306id_/http%3A//www.audio4fun.com/policy/privacy.htm) for the most accurate reproduction.*
 
 # Audio4fun.com privacy policy
 
@@ -16,7 +16,7 @@ When you contact us, we need only an email address which we use to send the info
 
 We may also use the information we collect to occasionally notify you about new Audio4fun.com's products and special offers we think you'll find valuable. Should you do not want to receive this information, confirm it through an email to us.
 
-When you place an order, you will be transferred to our online retailer - **RegNow/MyCommerce** \- to process your order. At this page, you will have to provide your name, email address, mailing address, and credit informatioon - however, rest assure that these information are stored and processed at highest secure level.
+When you place an order, you will be transferred to our online retailer - **Avangate** \- to process your order. At this page, you will have to provide your name, email address, mailing address, and credit informatioon - however, rest assure that these information are stored and processed at highest secure level.
 
 As a software product vendor, we will collect your name, email address, mailing address, and the serial number (the license). We use these information for further support your product accordingly.
 
