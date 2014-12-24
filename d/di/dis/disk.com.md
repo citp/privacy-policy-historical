@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the disk.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626144811id_/http%3A//infoproducts.disk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disk.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224170839id_/http%3A//www.disk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Disk.com
+# Privacy Policy
 
 Corporate Disk Company strongly believes in protecting your privacy while providing you with exceptional service. Here is an explanation of Corporate Disk Company privacy policy and how we safeguard the personal information provided to us on our Web site.
 
