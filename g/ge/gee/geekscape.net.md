@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekscape.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330190433id_/http%3A//www.geekscape.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekscape.net privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224101814id_/http%3A//www.geekscape.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geekscape
 
@@ -86,35 +86,12 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 [See all Features ->](https://web.archive.org/features "See all features")
 
-### **PODCASTS**
-
-  * The 2nd of 3 Live Podcast Episodes from TanoshiiCon
-
-[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-75-starting-a-writers-group-live-panel-from-tanoshiicon "The Saint Mort Show Episode 75: Starting a Writer’s Group \(Live Panel from TanoshiiCon\)")
-
-Published on March 25, 2014
-
-  * Also, what are the differences in all the cons going into Con Season?
-
-[ Read More](http://www.geekscape.net/geekscape-324-maxxin-out-with-tom-pinchuk "Geekscape 324: Maxxin’ Out With Tom Pinchuk!")
-
-  * Ardmore Junction is the compelling story of a homeless man who affected 6 people. Writer/Director Brian Gallagher came on the Saint Mort Show podcast to promote the film and it’s kickstarter.
-
-[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-074-brian-gallagher-writerdirector-of-ardmore-junction "The Saint Mort Show Episode 074: Brian Gallagher \(writer/director of Ardmore Junction\)")
-
-  * In the first of three panels from TanoshiiCon Mort sat down with Steph and Tim from Episode 59 to talk about making a movie on a budget.
-
-[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-073-making-a-movie-on-a-low-budget-panel "The Saint Mort Show Episode 073: “Making a Movie on a Low Budget” Panel")
-
-
-
-
 ### **Community Discussion**
 
   * [Random thoughts thread](http://www.geekscape.net/community/t/random-thoughts-thread)
-  * [.GIF BANK OF OMAHA](http://www.geekscape.net/community/t/gif-bank-of-omaha)
-  * [Facebook’s Acquistion of Oculus VR: What We Think](http://www.geekscape.net/community/t/facebooks-acquistion-of-oculus-vr-what-we-think)
-  * [video of the day](http://www.geekscape.net/community/t/video-of-the-day)
-  * [Guardians of The Galaxy: Where do I start?](http://www.geekscape.net/community/t/guardians-of-the-galaxy-where-do-i-start)
+  * [Black Mirror Season 3](http://www.geekscape.net/community/t/black-mirror-season-3)
+  * [Agents of SHIELD](http://www.geekscape.net/community/t/agents-of-shield)
+  * [This one's for Dave. Me and Rob Liefeld…](http://www.geekscape.net/community/t/this-ones-for-dave)
+  * [The Dead Lands](http://www.geekscape.net/community/t/the-dead-lands)
 
 
