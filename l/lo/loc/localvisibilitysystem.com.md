@@ -1,26 +1,38 @@
-> *The following text is extracted and transformed from the localvisibilitysystem.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217044714id_/http%3A//localvisibilitysystem.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localvisibilitysystem.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224120041id_/http%3A//www.localvisibilitysystem.com/privacy) for the most accurate reproduction.*
 
-# LocalVisibilitySystem.com--Privacy Policy
+# Privacy Policy | LocalVisibilitySystem.com
 
-  
+I hope you feel that LocalVisibilitySystem.com is a place where your information is safe and your privacy is respected—because it is.  In case you’d like to know more about my specific practices regarding your privacy, below are some common questions worth addressing.  Please take a moment to read them, and please [contact me](http://www.localvisibilitysystem.com/contact/ "Contact Phil") with any privacy-related questions that you may still have.
 
+Thanks!
 
-## "Will You Spam Me?"
+-Phil Rozek
 
-No. We do not tolerate spam and will never sell, rent, lease or give away your information (name, address, email, etc.) to any third party. Nor will we send you unsolicited email. We want to keep you as a customer or visitor; it is in our interest to make sure you do not get spammed. 
+————————————–
 
-## "Is My Information Safe?"
+**“Will You Spam Me?”**
 
-Yes. We are the only ones who will ever see it. In addition, we only ask for the information necessary to deliver you either any free information you requested or products you wish to buy from us. We will not disclose your personally identifiable information to any person or company except where you have given us permission to do so or if the law requires it.
+No. I do not tolerate spam and will never sell, rent, lease or give away your information (name, address, email, etc.) to any third party. Nor will I send you unsolicited email. I want to keep you as a customer or visitor; it is in my interest to make sure you do not get spammed.
 
-Financial information (such as credit card number and expiration date) is used only to charge the customer for the service he/she is purchasing. This will never be given to any third party (other than the credit card authorization processor).
+**“Is My Information Safe?”**
 
-Please note that we use conversion and signup tracking. It does not give us any additional information about you, but simply gives us a better sense of how business owners like you find us.
+Yes. I am the only one who will ever see it. In addition, I only ask for the information necessary to deliver you either any free information you requested or service you wish to purchase from me. I will not disclose your personally identifiable information to any person or company except where you have given me permission to do so or if the law requires it.
 
-## "How Do I Opt Out?"
+Currently, I never see or directly handle your credit card number or any other personal financial information of yours because all purchases are handled by PayPal.  In the event that I do need customers’ financial information (such as credit card number and expiration date), I will only use it to charge the customer for the service he/she is purchasing. This will never be given to any third party (other than the credit card authorization processor).
 
-If you would no longer like to receive information from us and would like to leave our mailing list, just let us know, or click the "Unsubscribe" link at the bottom of an email you have received from us in the past.
+Please note that I use third-party website-analytics services. It does not give me any additional personal information about you, but simply gives me a better sense of how business owners like you find and use my site and how I can improve it.
 
-## "How Can I Contact You?"
+**“How Do I Opt Out?”**
 
-If you have any questions about this privacy statement or this website in general, please send an email to Phil@LocalVisibilitySystem.com
+If you would no longer like to receive information from me and would like to leave my mailing list, let me know by email or click the “Unsubscribe” link at the bottom of an email you have received from me in the past.  I will not contact you with any more emails unless you re-opt in.  Even if you choose to unsubscribe, you may continue to use any materials you have received from me.
+
+**“How Can I Contact You?”**
+
+If you have any questions about this privacy statement or this website in general, please [contact me](http://www.localvisibilitysystem.com/contact/ "Contact Phil").
+
+_Local Visibility System, LLC | 86 Richards Ave |  N. Attleboro MA 02760  
+508-308-4040 | phil ( at ) localvisibilitysystem.com_
+
+[Contact Me](http://www.localvisibilitysystem.com/contact/) | [Terms & Conditions](http://www.localvisibilitysystem.com/terms-of-use/)
+
+[](http://www.printfriendly.com/print?url=http://www.localvisibilitysystem.com/privacy/)
