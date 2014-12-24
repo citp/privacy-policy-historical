@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the avaxhome.ws privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103023948id_/http%3A//avaxhome.ws/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avaxhome.ws privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163736id_/http%3A//avaxhm.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **
 
-AvaxHome.ws – Privacy Policy
+AvaxHome.cc – Privacy Policy
 
 **  
-By using our Web site, you consent to the collection and use of this information by AvaxHome.ws. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, AvaxHome.ws may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
+By using our Web site, you consent to the collection and use of this information by AvaxHome.cc. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. By creating an account you give us permission to send you special promotional emails. Your email address will never be shared with any 3rd parties and you will receive only the type of content that concerned AvaxHome and affiliated projects. Currently, AvaxHome.cc may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
 
  **Third Party Advertising**  
 
@@ -22,4 +22,4 @@ In the course of serving advertisements to this site, our third-party advertiser
  **Modification of Privacy Policy**  
 
 
-AvaxHome.ws reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates. 
+AvaxHome.cc reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates. 
