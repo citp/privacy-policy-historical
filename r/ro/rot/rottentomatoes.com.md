@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rottentomatoes.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622203031id_/http%3A//www.rottentomatoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rottentomatoes.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224073115id_/http%3A//www.rottentomatoes.com/privacy) for the most accurate reproduction.*
 
 # Rotten Tomatoes: Legal Documents
 
