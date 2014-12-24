@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel-online.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625014715id_/http%3A//hotel-online.com/legal/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel-online.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224052813id_/http%3A//www.hotel-online.com/legal/site/privacy) for the most accurate reproduction.*
 
 # Hotel Online
 
