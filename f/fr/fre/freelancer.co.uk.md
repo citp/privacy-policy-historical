@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freelancer.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630030745id_/http%3A//www.freelancer.co.uk/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.co.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224112957id_/https%3A//www.freelancer.co.uk/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.*
 
-# Freelancer.co.uk | Online Jobs | Freelance Employment | Outsourcing Services | Programmers | Web Design | Freelancers
+# Freelancer United Kingdom | Online Jobs | Freelance Employment | Outsourcing Services | Programmers | Web Design | Freelancers
 
 Freelancer has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for the Freelancer site. 
 
