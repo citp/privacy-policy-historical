@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622022847id_/http%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualtrics.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224165641id_/http%3A//www.qualtrics.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Qualtrics
 
