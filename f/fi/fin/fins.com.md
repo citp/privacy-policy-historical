@@ -1,132 +1,167 @@
-> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415043858id_/http%3A//www.fins.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224111500id_/http%3A//news.efinancialcareers.com/us-en/page/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - FINS.com
+# Privacy policy - eFinancialCareers
 
-#### Effective July 31, 2012
+**Last Updated: December 03, 2013**
 
-### 1\. INTRODUCTION
+## PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS
 
-eFinancialCareers, a subsidiary of Dice Holdings, Inc., ("eFinancialCareers," "us," or "we") operates FINS (home page at fins.com), including when FINS is accessed via the Internet, mobile or other device, and applications and sites affiliated with FINS (collectively, the "Online Services").
+eFinancialCareers is committed to safeguarding the privacy of our users while providing personalized career management services.
 
-Our Online Services are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.
+Note: Any reference to ‘we’ or ‘us’, ‘our’ or website are references to the website www.efinancialcareers.com (the “Website”), (the eFinancialCareers network of career sites), and all of our partner career centers. eFinancialCareers provides links to the websites of many other companies to which this policy does not apply. We cannot, and do not, assume responsibility for the privacy or information policies, practices or actions of any third parties.
 
-This Privacy Policy applies to all "users" of FINS. The Policy describes eFinancialCareers’ collection and use of users' Personal Information (e.g., information that identifies a specific person, such as full name, postal address, telephone number, email address, or credit or debit card number). It also describes generally eFinancialCareers’ practices for handling Other Information (e.g., interests, demographics and site usage) collected from you, through our Online Services, or from a third party to the extent such information is associated with a particular device, user or user account. By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
+This privacy policy (“Privacy Policy”) describes how we treat personal information we collect from visitors to the Website, how we use the personal information that we have collected, and the ways you can access and correct your personal information.
 
-### 2\. INFORMATION WE COLLECT
+Dice Holdings, Inc. (the parent company eFinancialCareers) has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@efinancialcareers.com](mailto:privacy@efinancialcareers.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program certification is limited to only that information collected through efinancalcareers.com websites. 
 
-#### **Personal Information**
+Dice Holdings, Inc. complies with the U.S. -– E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Dice Holdings, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Dice Holdings, Inc.’s certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
 
-"Personal Information" is the information that identifies you as an individual, such as name, postal address, telephone number, email address and credit or debit card number.
+### Summary
 
-#### **Personal Information You Submit**
+In general, we gather information about all of our users in relation to general site usage and use that data in aggregate form only. We may share that aggregate information with partners and clients in order to demonstrate eFinancialCareers and enable them to improve their use of the service.  
+We use the personal information that we collect from you to process your registration, provide personal career management tools (such as job search agents, résumé databases), identify personal preferences and match your needs with relevant products and services.
 
-We collect Personal Information when you submit it to us, including but not limited to when you register for or subscribe to certain products or services, create a profile, participate in a sweepstakes or contest, take a survey, use an interactive feature (such as Email this job), or participate in a forum.
+### Personal Information Collected 
 
-#### **Personal Information We Receive from Third Parties**
+We respect your personal information and undertake to comply with applicable federal, state and local legislation from time to time in place.  
+When you register with the Website, you will be asked to provide us with certain personal information. We collect personal information such as name and email during registration. Additionally, we collect demographic information that you supply when you upload your resume and insert details, such as your address, work experience, location, and education background. We do not disclose information about your individual visits to the Website or personal information that you provide without your permission except when we believe the law requires it or as expressly provided below. However we may disclose to our partners and third parties, on an anonymous basis, certain aggregate information contained in your personal information.
 
-We may receive Personal Information about you from third parties, including, for example, information about your transactions, purchase history, or relationships with various product and service providers, and your use of certain applications. For example, if you access an Online Service through a third party connection or log-in, such as Facebook Connect, that third party may pass certain information about your use of its service to us. This information could include, but is not limited to, the user ID associated with your account, any information you have permitted the third party to share with us, and any information you have made public in connection with that service.
+### Communications from the Website 
 
-#### **Other Information**
+We reserve the right to send you email communications offering third party services and products to you based on the preferences that you identify in your registration and at any time thereafter; such offers may be made by us or by our partners via us. You may change your preferences from receiving promotional communications from us and other companies at any time by logging into “My eFC” portal and changing your preferences under “My Newsletter” , or by emailing [privacy@efinancialcareers.com](https://web.archive.org/web/20141224111500id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com).
 
-"Other Information" is any information that does not reveal your specific identity, such as browser information, information collected through cookies and other technologies, demographic information, and aggregated information. We may combine Other Information with your Personal Information, and when we do, we treat the combined information as Personal Information.
+### Consent 
 
-#### **Other Information You Submit**
+You signify your consent to us collecting and using this information by your registration on this Website. Should for any reason we elect to make a material change to our Policy, we will notify you of those changes here in our Privacy Policy prior to the change becoming effective, by email or by notice on our Website if identifiable personal data is involved so that you may make an informed decision and keep your preferences up to date. In addition, your data may sometimes also be used by us to inform you about new services on or functionality changes to our Website. If you do not wish to receive this information, please send an e-mail to privacy@efinancialcareers.com.
 
-We collect Other Information when you submit it to us. It may include your gender, education, occupation, financial information (such as your income range), interests, photos, connections, and comments.
-
-#### **Other Information We Receive from Third Parties**
-
-We may receive Other Information about you from third parties, including, for example, demographic data, information about your interests, and information about your activities on other websites.
-
-#### **Other Information We Collect Automatically When You are Online**
-
-When you access our Online Services, we automatically collect certain information about those visits. For example, in order to permit your connection to our Online Services, our servers receive and record information about your computer and browser, potentially including your IP address, browser type, and other software or hardware information. If you access our Online Services from a mobile or other device, we may collect a unique device identifier assigned to that device ("UDID") or other transactional information for that device in order to serve content to it. We also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, and Adobe Flash technology including cookies), which are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that site. We may use these technologies to facilitate our login processes; personalize your experience on FINS; display relevant content, products, services and advertising, as described further below; and collect and store information about your usage of our Online Services, such as pages you have visited, search queries you have run, and advertisements you have seen. We may also use cookies and similar tools to relate your use of our Online Services to Personal Information obtained from you or a reputable third party. For example, if you have asked us to provide you information about our upcoming products or promotions, cookie and/or clickstream data about your activities on our Online Services may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences.
-
-Third parties that support our Online Services by serving advertisements or providing services, such as providing users with the ability to comment on content, allowing users to share content, or tracking aggregate site usage statistics, may also use these technologies to collect Other Information. We may not control these third-party technologies and their use may be governed by the privacy policies of third parties using such technologies. For more information about third-party advertising on our Online Services, see the section on delivering advertising below.
-
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., <http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies>).
-
-Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website, see <http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html>. Please note that by blocking any or all cookies you may not have access to certain features or personalization available through our Online Services.
-
-### 3\. HOW WE USE YOUR INFORMATION 
-
-We use the Personal Information we collect from and about you for the purposes set forth below. Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for all the purposes for which we use and disclose Personal Information.
-
-To improve the quality of our products and services, we may combine the Personal and Other Information we collect with information that you provide to us in connection with your use of other products, services and websites, or information from third parties.
-
-**To provide and manage our services**. We use the information we collect from and about you to provide our products and services and features to you, including: to send you information about your relationship or transactions with us, to measure and improve services and features, to personalize your experience to allow you to comment on content, participate in online games, contests, promotions or rewards programs, to provide you with customer support, and to respond to inquiries. Our Online Services use the information we collect in site-specific ways.
-
-  * _FINS Resume Database_. FINS (fins.com) offers you the opportunity to create an online profile and store it in our database. When you create a profile on our system, you can choose one of the following options: (a) you can designate your profile as "Private" which means that your profile will not be shared with employers or recruiters unless you apply directly for a job, or (b) you can designate your profile as "Searchable" which means you allow your profile, including your name and contact information, to be searchable and viewable by employers or recruiters or (c) you can designate your profile as “Confidential” which means your profile is searchable, but your contact information will not be viewable by employers or recruiters. IF YOU ELECT TO MAKE YOUR PROFILE SEARCHABLE, ALL INFORMATION (INCLUDING PERSONAL INFORMATION) THAT YOU INCLUDE IN YOUR PROFILE MAY BE VIEWED BY RECRUITERS AND EMPLOYERS. YOU SHOULD NOT ENTER ANY INFORMATION IN THE BODY OF YOUR PROFILE THAT YOU WISH TO REMAIN CONFIDENTIAL. We do not screen the credentials of employers or recruiters before allowing them to conduct searches in our database. eFinancialCareers is not responsible for the retention, use or privacy practices of that employer or recruiter after it has received your information. You may remove your resume from our searchable database at any time. However, third parties who accessed the database or obtained a copy of your resume may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use or privacy of resumes in these instances.
-  * _FINS Job Alerts_. FINS offers you the opportunity to sign up for job match alerts. These matches are generated by comparing a user's profile to our job database using our matching software. If you would like to review, change or delete your resume or job match alert, you can do so by signing in [here](http://www.fins.com/Finance/Candidate/CandidateDashboard.aspx) and following directions to edit.  
+  1. Certain eFinancialCareers services require registration or login prior to access, this is to help maintain the confidentiality of your personal information.
+  2. We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic, including by using cookies and other technologies (see below).
+  3. If you enter a contest or promotion we will ask for your name, address and e-mail address. This is so we can administer the contest and inform the winners. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.
+  4. We use information collected about you to personalize your visits to our Website and recommend goods or services to you. We also use the information to help us develop the design and layout of our Website to improve our sites to that they are as useful and enjoyable as possible.
+  5. Sometimes we might use the information to let you know about new services on or functionality changes to our Website. If you do not wish to receive this information, please send an e-mail to [privacy@efinancialcareers.com](https://web.archive.org/web/20141224111500id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com).
+  6. Résumés. The eFinancialCareers confidential résumé database enables you to anonymously and confidentially profile your skills and experience to recruiters.
 
 
 
+When activated your résumé is viewable by recruiters but, if you so designate, remains anonymous; if you so designate, your name and contact information remain confidential and their release remains in your control at all times. If a recruiter wishes to contact you they do so by sending an email to eFinancialCareers quoting the number of your résumé and details of their opportunity, this email is subsequently forwarded to you.
 
-**To deliver relevant content and recommendations**. To make your experience more interesting and personalized, we may use any of the Personal and Other Information we collect to assist us in delivering content on our Online Services.
+It is your decision as to whether you respond to the opportunity or not. If you choose to do so you will contact the recruiter directly, eFinancialCareers does not contact recruiters on your behalf (unless, on each occasion, you expressly authorize us to do so) nor do we recommend or give an opinion to any party as to the suitability of the job opportunity, you, the recruiter or employer.
 
-**To deliver relevant online advertising.** We may use any of the information we collect to assist us in delivering relevant ads to you when you visit our Online Services. (See Information We Collect, above, for details on the types of information we may use. We may work with third party online advertising companies and advertisers who help deliver ads to you. We will not sell, rent, or share your Personal Information with these third parties for such parties' own marketing purposes, unless you choose in advance to have your Personal Information shared for this purpose. Information about your activities on our Online Services and other non-personally identifiable information about you may be used to limit the online ads you encounter to those we believe are consistent with your interests. Third-party advertising networks and advertisers may also use cookies and similar technologies to collect and track non-personally identifiable information such as demographic information, aggregated information, and Internet activity to assist them in delivering advertising on our Online Services that is more relevant to your interests. Here are links to pages where you can manage the cookies set by some of the third parties that help us deliver online advertising:
+We try to restrict the ability of persons other than bona-fide clients, such as recruiters, hiring managers, consultants and HR professionals, to contact individuals in the résumé database. However, we are not responsible if some other third party posing as a bona-fide recruiter becomes a client, gains access to the résumé database and subsequently contacts you. You may remove your résumé(s) from our database at any time. However you should note that current or former clients of eFinancialCareers may have retained a copy of your anonymous résumé in their own files or databases. We are not responsible for the retention, use or privacy of this résumé in these circumstances. PII may also be used by:
 
-  * <http://www.google.com/privacy/ads/>
-  * <http://www.omniture.com/privacy/2o7>
+  1. Our customer support team to help users with any problems that they are having using their account. It is possible for our staff to pull up PII data to assist them in carrying out CRM duties.
+  2. By our marketing team for the segmentation of our userbase and targeting of promotion emails or any other emails which they opt in to receive.
+  3. By our product team to keep them informed of any significant changes to the site.
 
 
 
-To find out more about third-party online advertising and to opt out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/managing/opt_out.asp) or [www.aboutads.info](http://www.aboutads.info/).
+### Will we disclose the information we collect to third parties?
 
-**To contact you**. eFinancialCareers may periodically send promotional materials or notifications related to our products and services to the email address you provided to us at registration or to your account. To help make these promotional materials more relevant to you, we may use and combine any of the Personal and Other Information we collect to assist us in sending you promotional materials. If you want to stop receiving promotional materials from us, you can change your setting through the appropriate link on the FINS page or follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of as long as you are registered with or subscribed to our products and services. We may also use your email address to respond to inquiries or requests you make to us.
+We do not disclose information about your individual visits to the Website or personal information that you provide, such as your name, address, email address, telephone number etc. except when we believe the law requires it. 
 
-### 4\. HOW WE SHARE YOUR INFORMATION
+However, in the event eFinancialCareers goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via Website email of any such change in ownership or control of your personal information.
 
-#### **Information Made Public Through Use of Our Services and User Privacy Settings**
+We also may disclose to our partners and third parties, on an anonymous basis, certain aggregate information contained in your personal information.
 
-Certain features on our Online Services give you an opportunity to interact with us and others. These may include forums, message boards, chats, email the editor, creating community profiles, and rating, tagging and commenting on articles. When you use these features, you should be aware that any information you submit, including your name, location and email address, may be publicly available to anyone, including other users, search engines, advertisers, third party application developers, and anyone else with access to our Online Services. We are not responsible for any information you choose to submit and make public through these interactive features.
+eFinancialCareers reserves the right to access and disclose individually identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website, to operate its systems properly or to protect itself or its users.
 
-#### **Our Disclosure of Information**
+### For young visitors and their parents 
 
-We only share your Personal Information with non-affiliated third parties when we believe sharing is permitted by you or authorized by this Privacy Policy. In addition, we may share your Personal Information with affiliated companies.
+The Website is not directed toward children (individuals under thirteen years of age). We do not permit registration or use of the Website by anyone under the age of 13, and we do not knowingly collect personally identifiable information from children. In particular, if you are under 13 years of age, you should exit this Website and you should not provide any personally identifiable information to any site on the Internet without the knowledge and permission of your parent or guardian.
 
-We also share your Personal Information:
+### Reviewing and correcting your personal information 
 
-**To allow third-party service providers to assist us in providing and managing Our Services**. We may make your Personal Information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide our products and services by, for example: developing or supporting products and features; sending email messages on our behalf; processing payments; fulfilling orders; delivering subscriptions; auditing; processing data or statistics; and serving, customizing or delivering marketing or ads. These outside service providers are required to protect Personal Information entrusted to them and not use it for any other purpose than the specific service they are providing to us.
+You may review, correct, and delete any personal information we collect from you by logging into My eFC. Additionally, you can email us at privacy@efinancialcareers.com,and request that we delete your data. We will respond to you within 30 days. 
 
-**To permit third parties to send you promotional materials**. If you subscribe solely to FINS, we will not sell, rent, or share your Personal Information with third parties for such parties' own marketing purposes, unless you choose in advance to have your Personal Information shared for this purpose. **To protect the rights of eFinancialCareers and our users**. There may be instances when we may disclose your Personal Information, including situations where we have a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of eFinancialCareers, our affiliates or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of users of the our products and services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process, including laws outside your country of residence; or (v) to respond to requests from public and government authorities including public and government authorities outside your country of residence.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@efinancialcareers.com](https://web.archive.org/web/20141224111500id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**To complete a merger or sale of assets**. If eFinancialCareers sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, we may transfer your information to the party or parties involved in the transaction as part of that transaction.
+### Opting-out of the transfer of personal information 
 
-### 5\. NOTICE
+You may choose to “opt-out” of any transfer of personally identifiable information to a third party as described in this Privacy Policy. You may “opt-out” by contacting us at [privacy@efinancialcareers.com](https://web.archive.org/web/20141224111500id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com), or by checking any “opt-out” boxes that may be provided during the registration process regarding sharing with other companies. Note that, because we will occasionally need to send you certain email messages that are important to your use of the Website, such as system status updates or order confirmations, you will not be able to “opt out” of receiving such messages.
 
-**Means of Notice and Choice**. This Privacy Policy is the primary means by which we provide you with notice and choice about our collection and use of your Personal Information. If we ask for specific Personal Information that will be used in a manner different from what is described in this Privacy Policy, we will inform you at the time of collection.
+### How do we protect your information? 
 
-**Privacy Policy Changes**. We may modify this Privacy Policy as necessary. If we make material changes to this Privacy Policy that materially expand our rights to use your Personal Information, we will provide you with notice and choice consistent with applicable law.
+We take reasonable precautions and follow generally accepted industry standards to keep the information we collect secure, including organizational, physical and electronic precautions. Our data networks are protected by advanced firewall and password protection systems. Our security practices and policies are periodically reviewed and enhanced as necessary. Our systems are designed so that only authorized individuals are permitted access to the information provided by our visitors. The security of your personal information is important to us. When you enter sensitive information, we encrypt that information using secure socket layer technology (SSL). 
 
-**Cross-Border Transfer**. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using our products and services, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than in your country.
+There is no complete guarantee of security on the Internet, however. In addition, e-mail that you send us is not necessarily secure against interception. As such, we cannot and do not assume any liability for the theft, loss, misuse or alteration of any information transmitted over the internet. You are ultimately responsible for the security of your user name and password. If you have to write it down, please keep your user name separate from your password.
 
-**Data Retention**. We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website.
 
-**Linked Websites**. Our Online Services may also be linked to third parties, and may carry advertisements or offer content, functionality, games or applications developed and maintained by third parties. Some of these third party sites may be co-branded with an eFinancialCareers logo, even though they are not operated or maintained by us. For example:
+However, in the event that we sell our business, we reserve the right to transfer personal information collected in connection with the business, together with other assets of the business. We will take reasonable steps to ensure that the buyer will continue to treat personal information in a manner consistent with applicable privacy laws. You will be notified via email and/or a prominent notice on our Website of any such change in ownership or control of your personal information.
 
-The commenting tool for fins.com is provided by a third party online comment system called Disqus. Disqus is a third party application that allows visitors to post comments on fins.com and connect those and other comments across multiple websites. You may use your Disqus or certain select social media accounts to log-in and post comments on fins.com. When you log in and post a comment on these websites, Disqus may collect information about your visit to this and other Disqus partner sites, including information that you post and your IP address. If you register with and use Disqus, Disqus may collect and use additional information from and about you.
+### Agents/Service Providers 
 
-eFinancialCareers is not responsible for the privacy practices of any such third parties, and once you leave our Online Services via a link, enable a third-party service, or click an advertisement, you should check the applicable privacy policy of the third-party site.
+We use a third party such as a credit card processing company to bill you for goods and services. When you sign up for these services, we will share your personally identifiable information as necessary for the third party to provide that service. 
 
-### 6\. SECURITY
+### Log Files 
 
-We use commercially reasonable administrative, technical, personnel and physical measures to safeguard Personal Information in its possession against loss, theft and unauthorized use, disclosure or modification.
+As is true of most Websites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
-### 7\. HOW TO ACCESS, CORRECT OR UPDATE YOUR INFORMATION
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
-You can access or modify your registration or subscription information and modify your preferences by contacting Most registered members of FINS may update their account information and marketing preferences by visiting [My Account](http://www.fins.com/Finance/Candidate/CandidateDashboard.aspx). You may also contact FINS Customer Service at [support@fins.com](mailto:support@fins.com) or 1-877-FINS-450.
+We do link this automatically-collected data to personally identifiable information. 
 
-Your California Privacy Rights
+### Cookies 
 
-Pursuant to California Civil Code Section 1798.83, customers of the Website who are residents of California are permitted to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@efinancialcareers.com](mailto:privacy@efinancialcareers.com) or write us at:
+A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. On revisiting [www.efinancialcareers.com](https://web.archive.org/web/20141224111500id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/www.efinancialcareers.com) our computer server will recognize the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our Website, including purchasing items. Cookies are linked to personally identifiable information. 
 
-eFinancialCareers.com  
+For information on how to control your cookies go to [www.allaboutcookies.org](https://web.archive.org/web/20141224111500id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/www.allaboutcookies.org).  
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers.”
+
+This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers.
+
+### Clear Gifs (Web Beacons/Web Bugs) 
+
+We employ (or our third party advertising partner employs) a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
+
+### Third Party Advertisers 
+
+The ads appearing on this Website are delivered to users by DoubleClick, our advertising partner. We share Website usage information about users with a reputable third party DoubleClick for the purpose of targeting our Internet banner advertisements on this site. 
+
+DoubleClick uses cookies and clear gifs on this site, which allow it to recognize a user’s cookie when a user visits this site. The information that DoubleClick collects and shares through this technology is not personally identifiable. 
+
+If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here (link to TRUSTe opt-out: <http://preferences.truste.com/>). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+
+### Links to Other Sites 
+
+This Website contains links to other sites that are not owned or controlled by this Website. Please be aware that we are not responsible for the privacy practices of such other sites. 
+
+This Website utilizes framing and masking techniques to make it appear that the user is still on the site when the user is actually on a third party Website.
+
+We also have co-branding relationships with certain partners. In these relationships, you will notice the eFinancialCareers platform on our partners page. In this situation, both parties are collecting your data and both privacy policies govern the data collected. We will not share your data with third parties without your consent in these and other relationships. 
+
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Website that collects personally identifiable information. 
+
+This privacy statement applies only to information collected by this Website. 
+
+### Single Sign-On
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+
+### Social Media (Features) and Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+### Forums/Bulletin Boards/Comments 
+
+If you contribute to any user generated forum on this Website (for example: answers, debate, comments), you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+
+### Send-to-Friend 
+
+If you choose to use our referral service to tell a friend about a job, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We use this information for the sole purpose of sending this one-time email, and do not store these email addresses. 
+
+### Customer feedback and complaints 
+
+We welcome your questions and comments about privacy issues and the design of our Website. Should you have any comments please send an e-mail to: [privacy@efinancialcareers.com](https://web.archive.org/web/20141224111500id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com). 
+
+### Your California Privacy Rights 
+
+Pursuant to California Civil Code Section 1798.83, customers of the Website who are residents of California are permitted to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@efinancialcareers.com](https://web.archive.org/web/20141224111500id_/http://news.efinancialcareers.com/us-en/page/privacy-policy-2/privacy@efinancialcareers.com) or write us at:
+
+**eFinancialCareers.com**  
 c/o Dice Holdings, Inc.  
-1040 Avenue of the Americas, Floor 16  
+1040 Avenue of the Americas  
 New York, New York 10018  
 Attention: General Counsel
 
-### 8\. CONTACT US
-
-If you have questions about this Privacy Policy, please contact us at [privacy@efinancialcareers.com](mailto:privacy@efinancialcareers.com).
+Please note you can also contact us at the above address for all privacy related issues. 
