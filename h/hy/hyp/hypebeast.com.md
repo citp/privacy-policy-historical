@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625040124id_/http%3A//hypebeast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163113id_/http%3A//hypebeast.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Hypebeast
+# Privacy Policy | HYPEBEAST
 
 The following Privacy Policy covers all the websites (“websites”) owned, affiliated or operated by 101 Media Lab Ltd. (“101 Media Lab”, “we”, “us”, “our”). It is our goal to bring you information tailored to your personal interests but, at the same time, protect your privacy. Please read the following to learn more about our privacy policy.
 
