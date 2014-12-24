@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325104408id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224215356id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
 
 # Toyota Privacy Policy
 
@@ -12,7 +12,7 @@ This statement sets out our policy for dealing with your personal information. T
 
 ### What kinds of Personal Information does Toyota collect?
 
-Personal Information is any information or an opinion, in any form and whether true or not, about an identified individual or an individual who is reasonably identifiable. 
+Personal Information is any information or an opinion, in any form and whether true or not, about an identified individual or an individual who is reasonably identifiable.
 
 The kinds of personal information that we collect and hold about you will depend on the circumstances of collection, including whether we collect the information from you as a customer, dealer, supplier, contractor, stakeholder, job applicant, community grant applicant or in some other capacity.
 
@@ -20,15 +20,15 @@ For example, if you are a customer or a potential customer, we may collect your 
 
 We will only collect sensitive information about you with your consent (unless we are otherwise allowed or required by law to collect that information). Sensitive information includes information about your health, race, ethnic origin and religious beliefs.
 
-If we are not able to collect your personal information, we may not be able to provide you with our products or services or do business with you or the organisation with which you are connected. 
+If we are not able to collect your personal information, we may not be able to provide you with our products or services or do business with you or the organisation with which you are connected.
 
 If you provide us with personal information about another person (such as a joint vehicle owner), please make sure that you tell them about this privacy policy.
 
-### How does Toyota collect personal information? 
+### How does Toyota collect personal information?
 
 Where possible, Toyota will collect your personal information directly from you. This may take place in a number of ways, such as when you interact with us in writing (including if you give us a written order), or ask us to provide a product or service or otherwise deal with us over the telephone or internet.
 
-Our website may also offer interactive facilities, such as customer enquiry or comment forms and competition entry forms, where personal information may be collected. If you enter our competitions using your social media account (where available), we may collect information about you from your social media profile. 
+Our website may also offer interactive facilities, such as customer enquiry or comment forms and competition entry forms, where personal information may be collected. If you enter our competitions using your social media account (where available), we may collect information about you from your social media profile.
 
 In addition, we may obtain personal information of customers and prospective customers from third parties such as our dealers and distributors, contractors and regulatory authorities, and from marketing and similar lists which are legally acquired by us.
 
@@ -40,39 +40,43 @@ Back to the top
 
 Toyota (including its related bodies corporate) collects personal information for a range of purposes relating to the products and services it offers. Those purposes include:
 
-  * responding to enquiries regarding vehicles and vehicle sales, products and accessories and services we offer
-  * receiving feedback and dealing with complaints
-  * processing orders and administering accounts
-  * providing customer and dealer support
-  * considering job applicants for current and future employment
-  * vehicle warranties and product recalls
-  * marketing and promotional activities
-  * product development and market research
-  * managing our relationships with our dealers, suppliers and stakeholders
-  * meeting our regulatory and legal obligations.
+    * responding to enquiries regarding vehicles and vehicle sales, products and accessories and services we offer
+    * receiving feedback and dealing with complaints
+    * processing orders and administering accounts
+    * providing customer and dealer support
+    * considering job applicants for current and future employment
+    * vehicle warranties and product recalls
+    * marketing and promotional activities
+    * product development and market research
+    * managing our relationships with our dealers, suppliers and stakeholders
+    * meeting our regulatory and legal obligations.
+
+
 
 We may also use your information for other purposes required or authorised by or under law (including purposes for which you have provided your consent).
 
 In conducting our activities, we may sometimes need to disclose your personal information to others. Examples of the types of organisations we may need to disclose information to are:
 
-  * Toyota's related bodies corporate (including our parent company Toyota Motor Corporation in Japan) 
-  * Toyota dealers
-  * parts suppliers
-  * insurers and financiers
-  * a person outside Toyota who is contracted to us to provide a particular service on our behalf.
+    * Toyota's related bodies corporate (including our parent company Toyota Motor Corporation in Japan)
+    * Toyota dealers
+    * parts suppliers
+    * insurers and financiers
+    * a person outside Toyota who is contracted to us to provide a particular service on our behalf.
+
+
 
 Some examples of the kinds of organisations with which we contract are:
 
   * mailing houses for bulk mailing of letters and notices;
   * printers for marketing material;
   * organisations that assist us to conduct promotions or market research;
-  * information technology service providers; 
+  * information technology service providers;
   * customer service centre providers; and
   * accountants, lawyers and other service providers.
 
 
 
-Some of our service providers and companies in the Toyota group are located overseas, including our parent company Toyota Motor Corporation in Japan. As a result, personal information collected and held by Toyota may be transferred overseas. In particular, we use service providers located overseas to store customer data, including in the US, the UK and Sweden. 
+Some of our service providers and companies in the Toyota group are located overseas, including our parent company Toyota Motor Corporation in Japan. As a result, personal information collected and held by Toyota may be transferred overseas. In particular, we use service providers located overseas to store customer data, including in the US, the UK and Sweden.
 
 Sometimes, the law requires us to disclose personal information. For example, information may be disclosed to a court in response to a subpoena or to a Government agency such as a vehicle licensing authority or the Australian Taxation Office. We also disclose driver and vehicle information to the National Exchange of Vehicle and Driver Information System (NEVDIS)
 
@@ -131,7 +135,7 @@ The type of personal information we collect on our website depends on how you ma
 
 When you visit the site, our host records your server address, domain name, the date and time of the visit and the pages viewed. This information may be collected by using cookies (data sent to your web browser, which generally allows our site to interact more efficiently with your computer). If you disable the use of cookies, your use of our site may be affected. We may also add cookies to emails that we send you.
 
-When visiting our site, you will not be required to provide us with any personal information unless you request information about a Toyota product or service or respond to a Toyota competition or promotion. In that case, we will ask you to provide your contact details along with other information required to respond to your request or allow you to enter the competition or promotion. If you provide your personal information, cookies may collect and store that information and unless you tell us that you don't want to be contacted for direct marketing purposes, we may use your information for that purpose. Toyota will use and disclose personal information collected by cookies in accordance with the Australian Privacy Principles. 
+When visiting our site, you will not be required to provide us with any personal information unless you request information about a Toyota product or service or respond to a Toyota competition or promotion. In that case, we will ask you to provide your contact details along with other information required to respond to your request or allow you to enter the competition or promotion. If you provide your personal information, cookies may collect and store that information and unless you tell us that you don't want to be contacted for direct marketing purposes, we may use your information for that purpose. Toyota will use and disclose personal information collected by cookies in accordance with the Australian Privacy Principles.
 
 Back to the top
 
@@ -179,6 +183,8 @@ Toyota Finance aims to provide our customers with the best possible products and
 
 We also want our customers to have confidence that in handling personal information and credit information, we afford the information an appropriate level of privacy, consistent with the Australian privacy laws.
 
+[TOYOTA FINANCE PRIVACY POLICY](https://web.archive.org/web/20141224215356id_/http%3A//www.toyota.com.au/static/pdfs/toyota-finance-privacy-policy.pdf)
+
 Back to the top
 
 ### Who are we?
@@ -191,7 +197,7 @@ Back to the top
 
 This Privacy Policy sets out how we comply with the Privacy Act 1988 (the **Act** ), Australian Privacy Principles (the **APPs** ) and the Credit Reporting Privacy Code **(CR Code)**.
 
-You may contact us about this policy or about our products and services by calling the Toyota Finance National Customer Solutions Centre on 137 200. If you prefer, you can contact us without identifying yourself or by using a pseudonym. However, if you do not identify yourself, we may not be able to provide you with the products and services you would otherwise receive. 
+You may contact us about this policy or about our products and services by calling the Toyota Finance National Customer Solutions Centre on 137 200. If you prefer, you can contact us without identifying yourself or by using a pseudonym. However, if you do not identify yourself, we may not be able to provide you with the products and services you would otherwise receive.
 
 Back to the top
 
@@ -276,7 +282,7 @@ Those contracted third party organisations are not authorised by us to use perso
 
 According to the Act, credit information about you is personal information that is:
 
-  * identification information; 
+  * identification information;
   * consumer credit liability information;
   * repayment history information;
   * a statement that an information request has been made about you by a credit provider, mortgage insurer or trade insurer;
@@ -287,7 +293,7 @@ According to the Act, credit information about you is personal information that 
   * payment information;
   * new arrangement information;
   * court proceedings information;
-  * personal insolvency information; 
+  * personal insolvency information;
   * publicly available information: 
     * that relates to your activities in Australia or the external Territories and the individual's credit worthiness; and
     * that is not court proceedings information about you or information about the individual that is entered or recorded on the National Personal Insolvency Index; or
@@ -299,7 +305,7 @@ Back to the top
 
 #### What is credit eligibility information?
 
-Credit eligibility information includes credit information or personal information about you derived by a credit reporting body from credit information that that body holds about you or personal information we derive from information disclosed to us by the credit reporting body, which has a bearing on your credit eligibility. 
+Credit eligibility information includes credit information or personal information about you derived by a credit reporting body from credit information that that body holds about you or personal information we derive from information disclosed to us by the credit reporting body, which has a bearing on your credit eligibility.
 
 Back to the top
 
@@ -313,9 +319,9 @@ Back to the top
 
 CP derived information means any personal information about you:
 
-  * that is derived from credit information or CRB derived information about you that was disclosed to a credit provider by a credit reporting body; 
+  * that is derived from credit information or CRB derived information about you that was disclosed to a credit provider by a credit reporting body;
   * that has any bearing on your credit worthiness; and
-  * that is used, has been used or could be used in establishing your eligibility for consumer credit. 
+  * that is used, has been used or could be used in establishing your eligibility for consumer credit.
 
 
 
@@ -323,11 +329,11 @@ Back to the top
 
 #### What is CRB derived information?
 
-CRB derived information about you means any personal information about you: 
+CRB derived information about you means any personal information about you:
 
-  * that is derived by a credit reporting body from credit information about you that is held by the credit reporting body; 
+  * that is derived by a credit reporting body from credit information about you that is held by the credit reporting body;
   * that has any bearing on your credit worthiness; and
-  * that is used, has been used or could be used in establishing your eligibility for consumer credit. 
+  * that is used, has been used or could be used in establishing your eligibility for consumer credit.
 
 
 
@@ -353,7 +359,7 @@ Back to the top
 
 The kinds of credit eligibility information that we hold about you include:
 
-  * credit reports obtained from a credit reporting body in the course of assessing a credit application; 
+  * credit reports obtained from a credit reporting body in the course of assessing a credit application;
   * your credit card balances and limits; and
   * your mortgage balance and limits.
 
@@ -372,9 +378,9 @@ Back to the top
 We will collect your credit information through a number of methods including:
 
   * directly from you;
-  * from credit reports obtained from credit reporting bodies; 
-  * internally through our own records; 
-  * credit references from another credit provider with which you have or had a credit account; and 
+  * from credit reports obtained from credit reporting bodies;
+  * internally through our own records;
+  * credit references from another credit provider with which you have or had a credit account; and
   * from publicly available information including personal insolvency information about you entered or recorded in the National Personal Insolvency Index.
 
 
@@ -387,7 +393,7 @@ We collect, hold, use and disclose only the credit information and credit eligib
 
   * assess your eligibility for credit including deriving a credit score from the information contained in a credit report;
   * administer your account;
-  * disclose to a credit reporting body for the purpose of maintaining an accurate record of your credit information held by that credit reporting body; 
+  * disclose to a credit reporting body for the purpose of maintaining an accurate record of your credit information held by that credit reporting body;
   * comply with our privacy obligations; and
   * comply with our other regulatory obligations, for example, the National Consumer Credit Protection Act 2009.
 
@@ -419,9 +425,9 @@ Back to the top
 
 We hold personal information, credit information and credit eligibility information in both physical and electronic forms. The security of such information is very important to us and we take all reasonable precautions to protect it from misuse, loss, unauthorised access, modification or disclosure. For example, we ensure that:
 
-  * each of our offices has security protocols in place to prevent unauthorised entry into the premises; 
+  * each of our offices has security protocols in place to prevent unauthorised entry into the premises;
   * access to personal information is restricted to only the personnel who need it to perform their duties;
-  * any internally and externally hosted secure servers which store personal information in electronic form have the necessary encryption protocols; and 
+  * any internally and externally hosted secure servers which store personal information in electronic form have the necessary encryption protocols; and
   * all of our personnel are appropriately trained in the security of personal information including maintaining physical security over paper records and destroying or de-identifying personal information once it is no longer needed.
 
 
@@ -432,7 +438,7 @@ We do not disclose any personal information or credit-related personal informati
 
 ### Direct marketing
 
-From time to time, we, our related companies or organisations with whom we have contracted to facilitate direct marketing on our behalf, may use personal information to inform you about our products and services including special offers. We may also send you material relating to joint promotions with motor vehicle dealers and our business associates of our respective products and services. We will not, however, use your credit information or credit eligibility information for direct marketing except where that credit information is identification information about you is used to correctly identify you and to ensure you receive our direct marketing communications. 
+From time to time, we, our related companies or organisations with whom we have contracted to facilitate direct marketing on our behalf, may use personal information to inform you about our products and services including special offers. We may also send you material relating to joint promotions with motor vehicle dealers and our business associates of our respective products and services. We will not, however, use your credit information or credit eligibility information for direct marketing except where that credit information is identification information about you is used to correctly identify you and to ensure you receive our direct marketing communications.
 
 If you do not wish to receive this information, you may let us know by contacting the Toyota Finance National Customer Solutions Centre on 137 200.
 
@@ -464,7 +470,7 @@ If your complaint is not satisfactorily resolved, you may access the Financial O
 
 Back to the top
 
-### Privacy and our website 
+### Privacy and our website
 
 The type of personal information we collect on our website depends on how you make use of the site.
 
@@ -478,126 +484,154 @@ Back to the top
 
 ## Toyota Insurance - Privacy Policy
 
-### About Toyota Insurance
+### About Us
 
-Toyota Insurance is a division of Andia and the brand behind a suite of insurance products and services. Toyota is a leading motor vehicle company in Australia. Toyota Insurance complements the renowned quality, reliability and durability of Toyota vehicles and the lifestyle needs of Toyota customers, providing them with a range of insurance products and services to help reduce the financial risk of owning and operating a vehicle. 
-
-[Toyota Insurance Privacy Policy - (PDF: 0.5MB - opens in new window)](https://web.archive.org/static/pdfs/toyota-insurance-privacy-policy.pdf)
-
-Back to the top
-
-### About Andia
-
-Andia is a member of MS&AD Insurance Group Holdings Inc., which also includes Mitsui Sumitomo Insurance Co., Ltd. MS&AD Insurance Group Holding Inc. is one of Japan's largest non-life insurance companies, with a worldwide network providing diversified insurance services through subsidiaries and branches in key cities in Asia, Australia, North America and Europe. 
-
-By combining our core expertise with the strength and resonance of the Toyota Group of Companies, we are uniquely placed to provide a niche suite of financial products and services. Andia is an APRA regulated general insurer and an Australian Financial Services Licence (AFSL) holder. 
-
-**Please note**
-
-In this Privacy Policy 'we', 'us', 'our' or 'Toyota Insurance' refers to: 
-
-  * Aioi Nissay Dowa Insurance Co., Ltd. 
-
-ABN 39 096 302 466 
-
-AFSL Number 254489; and 
+Please note that in this privacy policy 'we', 'us', 'our' or 'Toyota Insurance' refers to:
 
   * Aioi Nissay Dowa Insurance Company Australia Pty Ltd
 
-ABN 11 132 524 282.
+ABN 11 132 524 282 (Adica); and
+
+  * Aioi Nissay Dowa Insurance Co., Ltd.
+
+ABN 39 096 302 466 (Andia).
 
 
 
+
+Back to the top
+
+### About Toyota Insurance
+
+Toyota Insurance was underwritten by Andia up until 31 December 2013. However, due to an internal re-organisation, Adica will be the new Australian operated and regulated insurer of all Toyota Insurance products from 1 January 2014. As both Andia and Adica collect, hold, use and disclose your personal information, this privacy policy relates to both of them.
+
+[Toyota Insurance Privacy Policy](https://web.archive.org/web/20141224215356id_/http%3A//www.toyota.com.au/static/pdfs/toyota-insurance-privacy-policy.pdf)
+
+Back to the top
+
+### About Adica and Andia
+
+Adica and Andia are members of MS&AD Insurance Group Holdings Inc., which also includes Mitsui Sumitomo Insurance Co., Ltd. MS&AD Insurance Group Holdings Inc. is one of Japan's largest non-life insurance companies, with a worldwide network providing diversified insurance services through subsidiaries and branches in key cities in Asia, Australia, North America and Europe.
+
+By combining our core expertise with the strength and resonance of the Toyota Group of Companies, we are uniquely placed to provide a niche suite of financial products and services. Adica and Andia are APRA regulated general insurers and Australian Financial Services Licence (AFSL) holders.
 
 Back to the top
 
 ### Our commitment to the protection of your personal information
 
-We're committed to protecting the privacy of your personal information. That commitment is reflected in our compliance with the National Privacy Principles, which set standards for the collection, use and disclosure of personal information by private organisations. We will collect, use and disclose your personal information in accordance with the National Privacy Principles.
+This privacy policy sets out the way we collect, hold, use and disclose your personal information including, where relevant, your sensitive information such as your health information or criminal record.
 
-We will, with your help, keep your personal information accurate, complete and up-to-date. You have the right to access the personal information we hold about you, and to request amendments. If we're unable to meet your request for access, we will explain our reasons to you.
+By visiting any of our websites, applying for, renewing or using any of our products or services or providing us with your personal information, you consent to your personal information being collected, held, used for the purposes and disclosed as set out in this privacy policy.
 
-Back to the top
-
-### What is personal information?
-
-Personal information includes your name, address and other contact details, age, gender, occupation, insurance profile or driving record. It also includes details of insurance policies you hold and any changes that you make.
+You do not have to provide us with your personal information. However, if you do not provide us with the information we request, we may not be able to assist you or provide you with our products or services.
 
 Back to the top
 
-### How do we collect your personal information?
+### What personal information do we collect?
 
-We collect your personal information in various ways, for example, over the phone, in one of our distributor's premises, in one of our offices or over the internet if you transact with us online.
+We collect personal information necessary for us to provide you with the assistance, products and/or services you have requested or to manage the claims made by you or against you. Such personal information includes your name, address and other contact details, age, gender, occupation, insurance profile, driving record and details of insurance policies you hold.
 
-Whenever possible, we collect your personal information from you. However, we may collect personal information about you from someone else. For example, if you apply for, receive or acquire a Toyota Insurance product or service via our intermediaries, (our distributors or other appointed representatives), our intermediaries may, (but only with your consent) obtain a credit report about you from a credit agency for the purposes of loan application assessment, or obtain financial details from your accountant.
-
-Irrespective of the source, we'll respect, value and protect the privacy of your personal information.
+We will only collect, hold, use or disclose sensitive information (including health information or past criminal convictions) about you for the purposes noted in this privacy policy, with your consent or if required by law and if the information is necessary to provide you with cover or process a claim under any of our products.
 
 Back to the top
 
-### Why do we collect your personal information and how is it used?
+### How do we collect personal information?
 
-We collect this information for purposes which include communicating with customers, setting premiums appropriately, assessing and paying claims, compiling statistics, providing products and services and, subject to your consent, for marketing purposes.
+We collect your personal information in various ways, for example over the phone, in one of the Toyota Dealer's premises, in one of our offices or over the internet if you transact with us online.
 
-We will only provide your personal information to government authorities if required by law.
+Whenever possible, we collect your personal information directly from you. However, we may collect personal information about you from someone else. For example from our Intermediaries, including Intermediaries in the Toyota network (if you apply for, receive or acquire a Toyota Insurance product or service via them), other insurers, medical practitioners, assessors, repairers, your employer, another party involved in a claim or your family members.
 
-If necessary, we may also disclose your personal information to a third party (for example, Toyota Finance) when processing a claim, validating and confirming information, administering policies and where customer research is conducted by us or on our behalf.
+Please note that our Intermediaries may (but only with your consent) obtain a credit report about you from a credit agency for the purpose of a loan application assessment or to obtain financial details from your accountant and may provide a copy of this report to us.
 
-Examples of third parties include other insurance companies, (to confirm your insurance profile), claims assessors, (when a claim requires assessment or investigation), the insurance reference bureau, consumer research organisations, a guarantor noted on a finance contract and finance companies (only if noted on your policy documents).
+Irrespective of the source, we respect and value your personal information and will deal with it in the manner set out in this privacy policy.
 
-In order to keep you informed of special offers, including new products and services, we may share your personal information on a confidential basis with the Toyota Group of companies. If you do not wish to receive such information, you may contact us by calling   
-**137 200**. You can elect to receive or cease receiving information at any time by simply calling that number.
+We may also request you to provide us with personal information about someone else, such as a co-insured or a witness to an accident that is the subject of a claim. Before providing us with such information you must tell the person that you will be providing personal information about them to us and that their information will be handled in accordance with this privacy policy. You must also provide them with a copy of (or refer them to where they can obtain a copy of) this privacy policy. If you provide us with personal information of another person, you warrant that you have that person's consent to do so.
+
+Back to the top
+
+### How do we use your personal information?
+
+We collect your personal information for the purposes for which it was provided to us, other related purposes or as authorised or required by law. Such purposes include:
+
+  * communicating with you, providing you with the assistance, products and/or services you have requested and processing any payments;
+  * setting premiums appropriately and compiling statistics;
+  * managing, assessing and paying claims;
+  * conducting market research to better understand the needs of our customers;
+  * providing you with marketing material and keeping you informed of special offers, new products or services (if you have consented to receiving such); and
+  * any other purposes specified at the time of collecting your personal information.
+
+
+
+However, we will only use your sensitive information (such as health information or criminal record) for the purposes for which it was initially collected, other directly related purposes or purposes to which you otherwise consent.
+
+If at any time you do not wish to receive marketing material from us, you may contact us by calling 137 200. You can elect to receive or cease receiving information at any time by simply calling that number.
+
+Back to the top
+
+### How do we disclose your personal information?
+
+Where appropriate we will disclose your personal information to our related entities or other third parties (for example Toyota Finance) who provide services to us or on our behalf for purposes such as processing a claim, validating and confirming information, administering policies and where customer research is conducted on our behalf. The types of entities to which we may disclose your personal information include:
+
+  * related entities (for management of your policy or if they take over any of our functions or activities as a result of a restructure or otherwise);
+  * other insurance companies (for example the life insurers of our finance protection insurance policies) and re-insurers (for example to confirm your insurance profile);
+  * our Intermediaries (for example our Intermediaries throughout the Toyota network and/or an appointed representative);
+  * our third party Information Technology (IT) and other service providers (for example our mailing house or our lawyers);
+  * your employer;
+  * claims/loss assessors, loss adjustors, investigators and recovery agents (for example when a claim requires assessment or investigation);
+  * repairers, suppliers, medical practitioners, rehabilitation providers and case managers;
+  * insurance reference bureaus, data collection and verification agencies and consumer research organisations;
+  * the Financial Ombudsman Service (FOS) (which is an external dispute resolution scheme);
+  * a guarantor noted on a finance contract and finance companies (for example Toyota Finance); and
+  * government authorities, law enforcement agencies and credit enforcement bodies and agencies (if permitted or required by law).
+
+
+
+Some of the entities listed above are located in countries outside of Australia (such as Japan). However, we will only disclose your sensitive information (such as health information or criminal record) for the purposes for which it was initially collected, other directly related purposes or purposes to which you otherwise consent.
 
 Back to the top
 
 ### Security of your personal information
 
-Personal information that we store on our systems is protected by the use of secure passwords and identifiers. We maintain up to date technology to prevent unauthorised computer access.
+We take reasonable steps to protect your personal information against loss, misuse, interference and unauthorised access, alteration or disclosure. For example access to the personal information that we store on our systems is subject to the use of secure passwords and identifiers and we also implement reasonable physical security measures.
 
-Access to personal information is limited to those who specifically require it in order to discharge their business or professional responsibilities.
-
-We also maintain physical security procedures to manage and protect the use and storage of personal information contained on paper.
+However, no security measure is completely secure and, despite the procedures we have put in place, we cannot guarantee the security of your personal information (particularly in relation to transmissions over the internet). Any information which you transmit to us is transmitted at your own risk. You must also make sure you protect your personal information, for example by protecting your usernames, passwords and policy details. You should notify us as soon as you become aware of any such security breaches.
 
 Back to the top
 
-### How to access your personal information
+### How to access and correct your personal information
 
-In most cases, a summary of basic policy information such as your name, address, contact details and policy details can be requested by phone and will be sent to you. Likewise, copies of documents such as repair quotations can usually be sent to you following a telephone request.
+We take reasonable steps to ensure the personal information we collect and hold is accurate, complete and up to date. However, we rely on you to advise us about any changes to your personal information to help us maintain accurate, complete and up-to-date information. Please let us know if you think any information we hold about you is not accurate, complete or up to date.
 
-To obtain other documents such as a relevant assessor's or investigator's report, you may need to complete a written application.
+On request, we will provide you with access to your personal information that we hold (unless otherwise required or permitted by applicable law). We will notify you of the basis for any denial to access your information
 
-Please contact us on **137 200** if you would like information on how to request access to such information.
+In most cases, a summary of basic policy information such as your name, address, contact details, policy details or copies of documents such as repair quotations can be requested by phone and will be sent to you.
+
+Although some requests can be made by telephone, for others (such as a relevant assessor's or investigator's report) we may need you to complete a written application.
+
+Please contact us on 137 200 if you would like information on how to request access to such information.
 
 There is no charge for making a request.
 
 Back to the top
 
-### When may a request for access to documents be denied?
+### If you have a complaint relating to privacy
 
-We may deny access to some or all of the documents requested by you, but will not do so unreasonably. A request will be denied, for example, if a document contains:
+If you believe we may have compromised your privacy or breached the Privacy Act 1988 (Cth) or its privacy principles, you can call Toyota Insurance on 137 200, or email or write to us. Our contact details are provided on the next page.
 
-  1. Confidential information provided by people or organisations other than you;
-  2. Information that may lead to the identification of the person/s or organisation/s who provided the confidential information; or
-  3. Commercially-sensitive information, which discloses our claims investigation procedures.
+You will need to provide us with details of your complaint and any supporting evidence and/or information. You will receive an acknowledgement from us no later than five business days after receipt of your written complaint.
 
+We will refer your complaint to our Internal Dispute Resolution Department (IDR) and will appoint an IDR specialist to investigate your complaint and determine the steps (if any) that we will undertake to resolve your complaint. We will contact you if we require any additional information from you. You will be sent the final decision of our IDR specialist in writing no later than 15 business days after you contact us, if we have all the necessary information to make that decision.
 
-
-Where we deny access to some or all of the documents requested, we will provide reasons and you will have the right to request a review of our decision through our complaints handling procedures. We will provide our reasons in writing upon request. 
+If you disagree with our decision, you may refer your complaint to the Office of the Australian Information Commissioner by visiting [oaic.gov.au](http://www.oaic.gov.au/), calling 1300 363 992 or emailing [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au).
 
 Back to the top
 
-### Sensitive information
+### Revision of this privacy policy
 
-We will only collect, use or disclose sensitive information (including health information or past criminal convictions) about you with your consent or if required by law, or if the information is necessary to provide you with cover under any of our products.
+This privacy policy is also available on our website at [toyotainsurance.com.au](https://web.archive.org/web/20141224215356id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
 
-Back to the top
+We reserve the right to revise our privacy policy or any part of it from time to time. Please review this privacy policy periodically for changes. If we make material changes to our privacy policy, we will notify you in writing or by putting a notice on our website homepage [toyotainsurance.com.au](https://web.archive.org/web/20141224215356id_/http%3A//www.toyota.com.au/toyotainsurance.com.au).
 
-### If you have a complaint relating to Privacy
-
-If you believe we may have compromised your Privacy or breached the National Privacy Principles, for example, by refusing access to a document you have requested or we have refused to amend your personal records, you can ring, write to or email us. 
-
-You will receive a response no later than 5 business days after receipt of your contact. You will be sent a final decision in writing no later than 15 business days after you contact us, if we have all the necessary information to make that decision.
-
-If you disagree with our decision, you may refer your complaint to the Office of the Australian Information Commissioner by visiting [oaic.gov.au](http://www.oaic.gov.au/), calling **1300 363 992** or by emailing [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au).
+Your continued use of our websites, products or services, requesting our assistance, applying for or renewal of any of our products and/or services or the providing of further personal or sensitive information to us after our privacy policy has been revised constitutes your acceptance of the revised privacy policy.
 
 Back to the top
