@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414221246id_/http%3A//www.jobscore.com/site/about_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscore.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224022813id_/https%3A//www.jobscore.com/site/about_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobScore
 
@@ -6,7 +6,7 @@
 
 [ ](https://privacy.truste.com/privacy-seal/JobScore/validation?rid=e0dddde5-5f58-4b8b-9446-619dbb0874b8 "TRUSTe online privacy certification")
 
-JobScore has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, http://www.jobscore.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the site www.jobscore.com. By displaying the TRUSTe trustmark, JobScore has agreed to notify users of: 
+JobScore has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, https://www.jobscore.com/. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the site www.jobscore.com. By displaying the TRUSTe trustmark, JobScore has agreed to notify users of: 
 
   1. What personally identifiable information of yours is collected by JobScore. 
   2. How the information is used. 
@@ -21,13 +21,15 @@ If you have questions or concerns regarding this statement, you should first con
 
 Any future changes to JobScore’s Privacy Policy will be posted on the JobScore website prior to the changes taking effect. If you have questions or concerns regarding this policy, you should contact JobScore by sending an email to [privacy@jobscore.com](mailto:privacy@jobscore.com).
 
+JobScore complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. JobScore has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To view JobScore’s certification, please visit <http://www.export.gov/safeharbor/>.
+
 **Information JobScore Collects**
 
 JobScore collects a wide variety of Information as described in this Section that it uses to provide its membership services and general information services on its website ("Services"). JobScore generally provides Services to two "groups," Employers and Jobseekers. Each is required to go through an enrollment process in order to use the Services. In doing so, JobScore requires certain information such as your name, address, phone number, email address, job description, resume information, role(s), employment preferences, time zone, and/or credit card information (if you are using a paid-for service). JobScore also collects information related to your overall use of the Services. JobScore also collects information related to discussions, chats, and other correspondence through the JobScore website. 
 
 **Information Use**
 
-JobScore provides job matching services for Employers and Jobseekers. Employers may use the Services as a way to manage the process of soliciting Jobseekers and managing the hiring process. Jobseekers may use the Services to apply for specific jobs and also to be matched to other potential jobs. For a complete description of the Services, please visit [www.jobscore.com](http://www.jobscore.com/).
+JobScore provides job matching services for Employers and Jobseekers. Employers may use the Services as a way to manage the process of soliciting Jobseekers and managing the hiring process. Jobseekers may use the Services to apply for specific jobs and also to be matched to other potential jobs. For a complete description of the Services, please visit [www.jobscore.com](https://www.jobscore.com/).
 
 **Sharing of Information**
 
