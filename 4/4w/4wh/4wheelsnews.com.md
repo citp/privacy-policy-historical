@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 4wheelsnews.com privacy policy that was archived on 2014-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140318011036id_/http%3A//www.4wheelsnews.com/privacy-policy-4wheelsnews) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wheelsnews.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224052745id_/http%3A//www.4wheelsnews.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy 4WheelsNews
+# Privacy Policy - 4Wheelsnews.com
 
-This Privacy Policy governs the manner in which 4WheelsNews collects, uses, maintains and discloses information collected from users of [www.4wheelsnews.com](http://www.4wheelsnews.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by 4WheelsNews.
+This Privacy Policy governs the manner in which 4WheelsNews collects, uses, maintains and discloses information collected from users of [www.4wheelsnews.com](http://www.4wheelsnews.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by 4WheelsNews.
 
 **Personal identification information**
 
@@ -48,11 +48,11 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads that appear on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit this website: <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can visit this website: http://www.networkadvertising.org/managing/opt_out.asp
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy here: <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy here: http://www.google.com/privacy_ads.html
 
 **Your acceptance of these terms**
 
