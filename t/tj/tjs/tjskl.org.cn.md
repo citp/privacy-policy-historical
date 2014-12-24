@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tjskl.org.cn privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331113758id_/http%3A//www.tjskl.org.cn/static/privacy_policy-80.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjskl.org.cn privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224062228id_/http%3A//www.tjskl.org.cn/static/privacy_policy-80.html) for the most accurate reproduction.*
 
 # Privacy Policy - tjskl.org.cn
 
