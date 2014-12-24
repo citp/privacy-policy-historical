@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the 101domain.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626130437id_/http%3A//www.101domain.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101domain.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224021352id_/https%3A//www.101domain.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - TRUSTe compliance for information collection, sharing, tracking, cookies, and security
 
 [ ](https://privacy.truste.com/privacy-seal/101domain,-Inc-/validation?rid=05ca5a19-7ebf-4014-96f9-ebc7936f3edd "TRUSTe European Safe Harbor certification")
-
-## Privacy Policy
 
 Effective Date: 06/18/2014
 
