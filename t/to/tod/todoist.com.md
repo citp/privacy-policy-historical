@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207090513id_/https%3A//todoist.com/Help/viewPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todoist.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224022449id_/http%3A//todoist.com/Help/viewPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Todoist Privacy Policy
 
-Todoist collects the e-mail addresses of those who communicate with us via e-mail, aggregates information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve Todoist and the quality of our service, and is not shared with or sold to others. 
+Todoist collects the e-mail addresses of those who communicate with us via e-mail, and information submitted through voluntary activities such as site registrations or participation in surveys. We also collect aggregate data regarding the web pages that visitors access on the Todoist.com website. The information we collect is used to improve Todoist and the quality of our service, and is not shared with or sold to others. 
 
 #### Information gathering and usage
 
