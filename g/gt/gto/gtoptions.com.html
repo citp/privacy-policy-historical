@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gtoptions.com privacy policy that was archived on 2014-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140614133101id_/http%3A//www.gtoptions.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gtoptions.com privacy policy that was archived on 2014-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141224073002id_/https%3A//www.gtoptions.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -9,32 +9,21 @@
 <meta name="keywords" content="GTOptions, secure trading, binary option, binary options, binary options trading, trading platform,secure trading, privacy policy, financial security, account privacy, expiry">
 		
 		<base href="http://www.gtoptions.com/">
-		<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0018/2254.js?439593" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="js/global.js"></script>
+		<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" type="text/javascript" src="js/global.js"></script>
 		<script type="text/javascript" src="js/jquery.min.js"></script>
-		<link href="css/style.css" rel="stylesheet" type="text/css">
+		<link href="css/style.css?hp=0&amp;r=21590" rel="stylesheet" type="text/css">
+		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
 <meta name="google-site-verification" content="pM3FqputkSB0Z058eBkVwyspNLGRLijS2nnhnESMYA0">
-<script type="text/javascript">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-17473094-27']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-54243200-1', 'auto');
+  ga('send', 'pageview');
 
 </script>
-
-<!-- CEgg Script -->
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0018/2254.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script>
-
 		<script type="text/javascript" src="js/scripts.js"></script>
 		<script type="text/javascript" src="js/marquee.js"></script>
 		<link href="fancybox/fancybox.css" rel="stylesheet" type="text/css">
@@ -42,97 +31,33 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		
-		<script type="text/javascript" src="http://www.spotplatform.gtoptions.com/SpotOptionPlugin.js"></script>
-		<script type="text/javascript">
-			var startTime = (new Date()).valueOf();
-			SO.load({
-				lang : 'en',
-				cookieOptions : {
-					domain : '.gtoptions.com'
-					},
-				packages : {
-					
-					Clock : {},
-					Balance : {}
-					},
-					googleFonts: {
-						families: ['Roboto+Condensed:400,300,700:latin,latin-ext,cyrillic']
-					}
-				});
-		var endTime = '';
-		var uid = '0';
-		$(document).bind('spotoptionPlugin.ready', function() {
 		
-			
-			
-				if (SO.model.Customer.getCustomerId() != uid) {
-					if (SO.model.Customer.getCustomerId() > 0) SO.model.Customer.logout();
-					if (uid > 0) location.href = "users.php?act=logout&force=1";
-					}
-			
-			
-			endTime = (new Date()).valueOf(); 
-			console.log("Start: " + startTime + " End: " + endTime );
-			var mytime = endTime - startTime;
-			console.log("Loading time: " + mytime);
-			
-			
-				$(".directionControl").live('click',function() {
-					if ($(".login_box").css('display') != "block") $("#top_login").trigger('click');
-					$("#email_top").focus();
-					$("#email_top").css('border','1px red solid');
-					$(".applyCancel").trigger('click');
-					});
-			
-			
-			if ($("#binary_noTradingMessage").is(':visible')) {
-				/*$("#zoneTab_longTerm").delay(2000).trigger("click");*/
-				$("#zoneTab_oneTouch").delay(2000).trigger("click");
-				console.log("OT: ");
-				}
-			
-			});
-		/*
-		
-		var eventsList = SO.getSettings().events;
-		var myLogOut= function (){ alert("User Was logged out"); };
-		$(document).bind(eventsList.sessionExpired, myLogOut);
-		
-		$(document).bind(SO.getSettings('events').internalLoginByAuth, function(jq, options) {
-			parseMyAuth(options);
-			});
-			
-		$(document).bind('spotoptionSession.expired', function() {
-			console.log("Logged Out!");
-			});
-		*/
-        </script>
 	</head>
 	<body dir="ltr">
 <div align="center">
 
 <div class="header">
 	<div class="floats_div" style="position: relative;">
-		<div class="logo"><a href="http://www.gtoptions.com/" rel="noFollow"><img border="0" src="images/header/logo.png" alt="GToptions Binary Broker"></a></div>
+		<div class="logo"><a href=""><img border="0" src="images/header/logo.png?=2" alt="GToptions Binary Broker"></a></div>
 		<div class="tiny_menu">
 			<div class="tiny_right">&nbsp;</div>
 			<div class="tiny_center">
 				<ul>
-					<li style="border: none;"><a href="http://www.gtoptions.com/users.php">My Account</a></li>
+					<li style="border: none;"><a href="users.php">My Account</a></li>
 				<li><a href="javascript:openChat();" rel="noFollow">Live Chat</a></li>
-				<li><a href="http://www.gtoptions.com/ContactUs">Contact Us</a></li>
+				<li><a href="ContactUs">Contact Us</a></li>
 				</ul>
 				<div class="bar" id="top_lang">
 					<img border="0" src="images/header/lang/uk.jpg" alt=""> English <img border="0" src="images/header/down.png" id="lang_pin_down" alt="">
 				<div class="lang_box">
 					<ul>
-						<li><img border="0" src="images/header/lang/uk.jpg" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=ENG">English</a></li>
-						<li><img border="0" src="images/header/lang/ru.jpg" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=RUS">Pусский</a></li>
-						<li><img border="0" src="images/header/lang/fr.jpg" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=FRE">Français</a></li>
-						<li><img border="0" src="images/header/lang/it.jpg" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=ITA"> Italiano</a></li>
-						<li><img border="0" src="images/header/lang/gr.jpg" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=GER">Deutsch</a></li>
-						<li><img border="0" src="images/header/lang/es.jpg" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=SPA">Español</a></li>
-						<li><img border="0" src="images/header/lang/pt.png" alt=""> <a href="http://www.gtoptions.com/lang.php?lng=POR">Português</a></li>
+						<li><img border="0" src="images/header/lang/uk.jpg" alt=""> <a href="lang.php?lng=ENG">English</a></li>
+						<li><img border="0" src="images/header/lang/ru.jpg" alt=""> <a href="lang.php?lng=RUS">Pусский</a></li>
+						<li><img border="0" src="images/header/lang/fr.jpg" alt=""> <a href="lang.php?lng=FRE">Français</a></li>
+						<li><img border="0" src="images/header/lang/it.jpg" alt=""> <a href="lang.php?lng=ITA"> Italiano</a></li>
+						<li><img border="0" src="images/header/lang/gr.jpg" alt=""> <a href="lang.php?lng=GER">Deutsch</a></li>
+						<li><img border="0" src="images/header/lang/es.jpg" alt=""> <a href="lang.php?lng=SPA">Español</a></li>
+						<li><img border="0" src="images/header/lang/pt.png" alt=""> <a href="lang.php?lng=POR">Português</a></li>
 					</ul>
 				</div>
 				</div>
@@ -143,16 +68,15 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 					<form action="users.php" method="post">
 					<input type="hidden" name="act" value="check">
 					<div class="field">E-Mail:</div>
-					<div class="field"><input type="text" name="email" id="email_top" value="" autocomplete="off"></div>
+					<div class="field input"><input type="text" name="email" id="email_top" value="" autocomplete="off"></div>
 					<div class="clear" style="height: 10px;">&nbsp;</div>
 					<div class="field">Password:</div>
-					<div class="field"><input type="password" name="password" value="" autocomplete="off"></div>
+					<div class="field input"><input type="password" name="password" value="" autocomplete="off"></div>
 					<div class="clear" style="height: 10px;">&nbsp;</div>
 					<div class="field" style="float: left;">
-						<a href="http://www.gtoptions.com/ForgotPassword">Forgot Password?</a><br>
-						<a href="http://www.gtoptions.com/users.php?act=form">Sign up for an Account</a>
+						<a href="ForgotPassword">Forgot Password?</a><br>
 					</div>
-					<div class="field" style="float:right;"><input type="image" src="images/header/login_btnENG.jpg" onmouseover="this.src='images/header/login_btnENG_over.jpg';" onmouseout="this.src='images/header/login_btnENG.jpg';"></div>
+					<div class="field" style="float:right;"><input type="submit" value="Login" class="yellowLogin sans"></div>
 					</form>
 				</div>
 			</div>
@@ -167,72 +91,70 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 	<div class="floats_div">
 		<ul>
 			<li>
-					<a href="http://www.gtoptions.com/" rel="noFollow">Trading Platform</a>
+					<a href="trade.php">Trading Area</a>
 					<ul></ul>
 				</li>
 <li><img border="0" src="images/header/menu/pin.png" alt=""></li><li>
-					<a href="http://www.gtoptions.com/users.php?act=form">Account</a>
-					<ul><li><a href="http://www.gtoptions.com/users.php?act=form">Open Account</a>
-			</li><li><a href="http://www.gtoptions.com/gto-classic-account">GTO Classic Account</a>
-			</li><li><a href="http://www.gtoptions.com/gto-mini-account">GTO Mini Account</a>
-			</li><li><a href="http://www.gtoptions.com/gto-gold-account">GTO Gold Account</a>
-			</li><li><a href="http://www.gtoptions.com/faq.php">FAQ</a>
+					<a href="users.php?act=form">Account</a>
+					<ul><li><a href="users.php?act=form">Open Account</a>
+			</li><li><a href="gto-classic-account">GTO Classic Account</a>
+			</li><li><a href="gto-mini-account">GTO Mini Account</a>
+			</li><li><a href="gto-gold-account">GTO Gold Account</a>
+			</li><li><a href="faq.php">FAQ</a>
 			</li></ul>
 				</li>
 <li><img border="0" src="images/header/menu/pin.png" alt=""></li><li>
-					<a href="http://www.gtoptions.com/users.php?act=form">Trading</a>
-					<ul><li><a href="http://www.gtoptions.com/why-gtoptions">Why GTOptions?</a>
-			</li><li><a href="http://www.gtoptions.com/safety-of-funds">Safety Of Funds</a>
-			</li><li><a href="http://www.gtoptions.com/privacy">Privacy Policy</a>
-			</li><li><a href="http://www.gtoptions.com/disclaimer">Risk Disclaimer</a>
+					<a href="users.php?act=form">Trading</a>
+					<ul><li><a href="why-gtoptions">Why GTOptions?</a>
+			</li><li><a href="safety-of-funds">Safety Of Funds</a>
+			</li><li><a href="privacy">Privacy Policy</a>
+			</li><li><a href="disclaimer">Risk Disclaimer</a>
 			</li></ul>
 				</li>
 <li><img border="0" src="images/header/menu/pin.png" alt=""></li><li>
-					<a href="http://www.gtoptions.com/introducing-brokers">Partners</a>
-					<ul><li><a href="http://www.gtoptions.com/affiliate-program">Partners</a>
-			</li><li><a href="http://www.gtoptions.com/affiliate-program">Affiliate Program</a>
-			</li><li><a href="http://www.gtoptions.com/introducing-brokers">Introducing brokers</a>
-			</li><li><a href="http://www.gtoptions.com/white-labels">White Labels</a>
-			</li><li><a href="http://www.gtoptions.com/refer-friend">Refer A friend</a>
+					<a href="introducing-brokers">Partners</a>
+					<ul><li><a href="affiliate-program">Partners</a>
+			</li><li><a href="affiliate-program">Affiliate Program</a>
+			</li><li><a href="introducing-brokers">Introducing brokers</a>
+			</li><li><a href="white-labels">White Labels</a>
+			</li><li><a href="refer-friend">Refer A friend</a>
 			</li></ul>
 				</li>
 <li><img border="0" src="images/header/menu/pin.png" alt=""></li><li>
-					<a href="http://www.gtoptions.com/payment-methods">Banking</a>
-					<ul><li><a href="http://www.gtoptions.com/payment-methods">Payment Methods</a>
-			</li><li><a href="http://www.gtoptions.com/withdrawal-methods">Withdrawal Methods</a>
-			</li><li><a href="http://www.gtoptions.com/trading-bonus">Trading Bonus</a>
-			</li><li><a href="http://www.gtoptions.com/faq.php">FAQ</a>
-			</li><li><a href="http://www.gtoptions.com/assetindex.php">Asset Index</a>
+					<a href="trading">Banking</a>
+					<ul><li><a href="withdrawal-methods">Withdrawal Methods</a>
+			</li><li><a href="trading-bonus">Trading Bonus</a>
+			</li><li><a href="faq.php">FAQ</a>
+			</li><li><a href="assetindex.php">Asset Index</a>
 			</li></ul>
 				</li>
 <li><img border="0" src="images/header/menu/pin.png" alt=""></li><li>
-					<a href="http://www.gtoptions.com/education.php">Education</a>
-					<ul><li><a href="http://www.gtoptions.com/education.php">Video Tutorials</a>
-			</li><li><a href="http://www.gtoptions.com/ebook.php">E-Book</a>
-			</li><li><a href="http://www.gtoptions.com/getting-started">Getting Started</a>
-			</li><li><a href="http://www.gtoptions.com/personal-broker">Personal Broker</a>
-			</li><li><a href="http://www.gtoptions.com/software-walk-through">Software Walk Through</a>
-			</li><li><a href="http://www.gtoptions.com/chat-with-a-broker">Chat With A broker</a>
-			</li><li><a href="http://www.blog.gtoptions.com/" rel="noFollow">Markets Review</a>
-			<ul><li><a href="http://www.blog.gtoptions.com/" rel="noFollow">GTOptions blog</a></li><li><a href="http://www.gtoptions.com/currencies">Currencies</a></li><li><a href="http://www.gtoptions.com/stocks">Stocks</a></li><li><a href="http://www.gtoptions.com/commodities">Commodities</a></li><li><a href="http://www.gtoptions.com/indices">Indices</a></li><li><a href="http://www.blog.gtoptions.com/article.php?act=cat&amp;id=1001&amp;first=1" rel="noFollow">Daily Market Review</a></li><li><a href="http://www.blog.gtoptions.com/article.php?act=cat&amp;id=1000&amp;first=1" rel="noFollow">Weekly Market Review</a></li><li><a href="http://www.gtoptions.com/economic-calendar">Economic calendar</a></li></ul></li></ul>
+					<a href="education.php">Education</a>
+					<ul><li><a href="education.php">Video Tutorials</a>
+			</li><li><a href="ebook.php">E-Book</a>
+			</li><li><a href="getting-started">Getting Started</a>
+			</li><li><a href="personal-broker">Personal Broker</a>
+			</li><li><a href="software-walk-through">Software Walk Through</a>
+			</li><li><a href="chat-with-a-broker">Chat With A broker</a>
+			</li></ul>
 				</li>
 <li><img border="0" src="images/header/menu/pin.png" alt=""></li><li>
-					<a href="http://www.gtoptions.com/about-us">About Us</a>
-					<ul><li><a href="http://www.gtoptions.com/about-us">About Us</a>
+					<a href="about-us">About Us</a>
+					<ul><li><a href="about-us">About Us</a>
 			</li><li><a href="javascript:openChat();" rel="noFollow">Live Chat</a>
-			</li><li><a href="http://www.gtoptions.com/terms-of-use">Terms And Conditions </a>
-			</li><li><a href="http://www.gtoptions.com/content.php?id=1046">KYC Policy</a>
-			</li><li><a href="http://www.gtoptions.com/ContactUs">Contact Us</a>
+			</li><li><a href="terms-of-use">Terms And Conditions </a>
+			</li><li><a href="content.php?id=1046">KYC Policy</a>
+			</li><li><a href="privacy">Privacy Policy</a>
+			</li><li><a href="ContactUs">Contact Us</a>
 			</li></ul>
 				</li>
 
 		</ul>
-		<div class="trade_now"><a href="http://www.gtoptions.com/index.php?act=full"><img src="files/btns/1367844462d62EK.jpg" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367844462f62Gm.jpg';" onmouseout="this.src='files/btns/1367844462d62EK.jpg';"></a></div>
 	</div>
 </div>
 <div class="clear">&nbsp;</div>
-<div class="currency">
-	<div class="currencies-holder" style="position: relative;"><div class="call">SAUDI BASIC INDS <span>116.0833</span> (12:20 14.06)</div><div class="sep">&nbsp;</div><div class="call">SAUDI REFINERIES <span>75.4167</span> (12:20 14.06)</div><div class="sep">&nbsp;</div><div class="call">SAUDI BASIC INDS <span>116.0833</span> (10:00 14.06)</div><div class="sep">&nbsp;</div><div class="call">SAUDI REFINERIES <span>75.4167</span> (10:00 14.06)</div><div class="sep">&nbsp;</div><div class="put">TSX 60 <span>856.600</span> (20:30 13.06)</div><div class="sep">&nbsp;</div><div class="put">GOLD VS OIL <span>11.9578</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">AMAZON VS NETFLIX <span>0.76265</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">LINKEDIN VS TWITTER <span>4.5955</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">FACEBOOK VS TWITTER <span>1.74766</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">GOOGLE VS BAIDU <span>3.09770</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">AMAZON VS EBAY <span>6.6516</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">TWITTER <span>36.8750</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">LINKEDIN VS FACEBOOK <span>2.6295</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">S&amp;P 500 F VS NASDAQ F <span>0.5125</span> (20:00 13.06)</div><div class="sep">&nbsp;</div><div class="put">VIX  <span>12.0900</span> (20:00 13.06)</div></div>
+
+	<div class="currency"><div class="currencies-holder" style="position: relative;"><div class="call">AUD/JPY <span>97.639</span> (07:15 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="put">USD/CHF <span>0.98731</span> (07:15 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">GBP/USD <span>1.55226</span> (07:15 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">AUD/USD <span>0.81106</span> (07:15 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">USD/JPY <span>120.384</span> (07:15 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="put">GOLD VS OIL <span>20.7732</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="put">SHANGHAI COMPOSITE <span>2974.547</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">AUD/CAD <span>0.94240</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="put">GOLD VS SILVER <span>74.6421</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="put">TEL AVIV VS FTSE <span>0.222449</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">TATA STEEL <span>394.700</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">AXIS BANK <span>492.175</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">NZD/JPY <span>92.973</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="put">GBP/CAD <span>1.80387</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="put">EUR/AUD <span>1.50164</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="put">NIFTY FUTURE <span>8305.750</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">GOLD/EUR <span>968.630</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">AUD/NZD <span>1.05001</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">CAD/JPY <span>103.598</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">AUD/JPY <span>97.622</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">AUD/CHF <span>0.80077</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">GBP/JPY <span>186.878</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="put">USD/SGD <span>1.32393</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">S.BANK INDIA <span>306.6750</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">NZD/USD <span>0.77220</span> (07:00 24.12)</div><div class="sep">&nbsp;|&nbsp;</div><div class="call">TATA MOTORS <span>487.9250</span> (07:00 24.12)</div></div>
 	<script type="text/javascript">
 		$(document).ready(function(){
 			$('.currencies-holder').marquee({
@@ -244,19 +166,20 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 				pauseOnHover: true
 				});
 			})
-	</script>
-</div>
+	</script></div>
+
 <div class="clear">&nbsp;</div>
+
 
 
 <div align="center" class="content_bg">
 	<div class="site_content">
 		<div class="nav">
-					<span class="item"><a href="http://www.gtoptions.com/" rel="noFollow">Home Page</a></span><span class="item">&nbsp;</span><span class="current">Binary Options | Your Privacy is Secure with GTOptions</span>
+					<span class="item"><a href="">Home Page</a></span><span class="item">&nbsp;</span><span class="current">Binary Options | Your Privacy is Secure with GTOptions</span>
 				</div>
 		<div class="left_inner_s">
 							<ul>
-								<li><a href="http://www.gtoptions.com/why-gtoptions">Why GTOptions?</a></li><li><a href="http://www.gtoptions.com/safety-of-funds">Safety Of Funds</a></li><li class="selected"><a href="http://www.gtoptions.com/privacy">Privacy Policy</a></li><li><a href="http://www.gtoptions.com/disclaimer">Risk Disclaimer</a></li>
+								<li><a href="why-gtoptions">Why GTOptions?</a></li><li><a href="safety-of-funds">Safety Of Funds</a></li><li class="selected"><a href="privacy">Privacy Policy</a></li><li><a href="disclaimer">Risk Disclaimer</a></li>
 							</ul>
 						</div>
 			<div class="left_s" style="float:left;">
@@ -301,7 +224,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <p>
 	<br>
 	<strong>If you have any questions please contact us at </strong><a href="mailto:support@GTOptions.com" rel="noFollow">support@GTOptions.com</a></p>
-<div align="right" style="margin-top: 20px;"><a href="http://www.gtoptions.com/users.php?act=form"><img src="files/btns/1367142935j35WD.jpg" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367142935C35Pt.jpg';" onmouseout="this.src='files/btns/1367142935j35WD.jpg';"></a></div>
+<div align="right" style="margin-top: 20px;"><a href="users.php?act=form"><img src="files/btns/1367142935j35WD.jpg" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367142935C35Pt.jpg';" onmouseout="this.src='files/btns/1367142935j35WD.jpg';"></a></div>
 									</div>
 								</div>
 							</div>
@@ -310,12 +233,12 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 						</div>
 						<div class="rightBar">
 							<div class="icons_bar">
-								<a href="http://www.gtoptions.com/ContactUs" class="icons e_mail"></a>
+								<a href="ContactUs" class="icons e_mail"></a>
 								<a href="javascript:void(0);" rel="noFollow" onclick="openChat();" class="icons chat"></a>
-								<a href="http://www.gtoptions.com/ContactUs" class="icons freecall"></a>
+								<a href="ContactUs" class="icons freecall"></a>
 							</div>
 							<div class="banners">
-								<div class="r_banners"><a href="http://www.gtoptions.com/users.php?act=form"><img src="files/btns/1367845499b99FK.jpg" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367845499w99Vw.jpg';" onmouseout="this.src='files/btns/1367845499b99FK.jpg';"></a></div><div class="r_banners"><a href="http://www.gtoptions.com/refer-friend"><img src="files/btns/1367842864n64Wl.png" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367846343C43NJ.png';" onmouseout="this.src='files/btns/1367842864n64Wl.png';"></a></div>
+								<div class="r_banners"><a href="users.php?act=form"><img src="files/btns/1367845499b99FK.jpg" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367845499w99Vw.jpg';" onmouseout="this.src='files/btns/1367845499b99FK.jpg';"></a></div><div class="r_banners"><a href="refer-friend"><img src="files/btns/1367842864n64Wl.png" style="border: 0;" alt="" onmouseover="this.src='files/btns/1367846343C43NJ.png';" onmouseout="this.src='files/btns/1367842864n64Wl.png';"></a></div>
 							</div>
 						</div></div>
 	</div>
@@ -326,40 +249,46 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <div class="clear">&nbsp;</div>
 <div align="center" class="footer">
 	<div class="strip_bg">
-		<div align="left" class="floats_div" style="padding-top: 4px;">
+		<div align="left" class="floats_div" style="padding-top: 17px;">
 			<img border="0" src="images/footer/logo.png" alt="">
-			<div align="right" style="float: right; margin-top: 5px;">
-				<div style="background: url(images/social.png) no-repeat -162px 0; width: 27px; height: 26px; font-size: 0; float: right; cursor: pointer;"><a href="http://www.blog.gtoptions.com/" rel="noFollow" target="_blank"><img border="0" src="img/blank.gif" width="26" height="26" alt=""></a></div>
-				<div style="background: url(images/social.png) no-repeat -97px 0; width: 26px; height: 26px; font-size: 0; float: right; margin-right: 10px; cursor: pointer;"><a href="http://www.youtube.com/channel/UCnTsYRw9IpAtPcUEUPbLsow/videos" rel="noFollow" target="_blank"><img border="0" src="img/blank.gif" width="26" height="26" alt=""></a></div>
-				<div style="background: url(images/social.png) no-repeat -65px 0; width: 26px; height: 26px; font-size: 0; float: right; margin-right: 10px; cursor: pointer;"><a href="https://twitter.com/gtoptions/" rel="noFollow" target="_blank"><img border="0" src="img/blank.gif" width="26" height="26" alt=""></a></div>
-				<div style="background: url(images/social.png) no-repeat 0 0; width: 26px; height: 26px; float: right; font-size: 0; float: right; margin-right: 10px; cursor: pointer;"><a href="https://www.facebook.com/pages/GTOptions/186333321470153" rel="noFollow" target="_blank"><img border="0" src="img/blank.gif" width="26" height="26" alt=""></a></div>
+			<!-- div align="right" style="float: right; margin-top: 5px;">
+				<div style="background: url(images/social.png) no-repeat -162px 0; width: 27px; height: 26px; font-size: 0; float: right; cursor: pointer;"><a href="http://www.blog.gtoptions.com/" rel="noFollow" target="_blank"><img border="0" src="img/blank.gif" width="26" height="26" alt="" /></a></div>
+				<div style="background: url(images/social.png) no-repeat -97px 0; width: 26px; height: 26px; font-size: 0; float: right; margin-right: 10px; cursor: pointer;"><a href="https://www.youtube.com/channel/UCnTsYRw9IpAtPcUEUPbLsow/videos" rel="noFollow" target="_blank"><img border="0" src="img/blank.gif" width="26" height="26" alt="" /></a></div>
+				<div style="background: url(images/social.png) no-repeat -65px 0; width: 26px; height: 26px; font-size: 0; float: right; margin-right: 10px; cursor: pointer;"><a href="https://twitter.com/gtoptions/" rel="noFollow" target="_blank"><img border="0" src="img/blank.gif" width="26" height="26" alt="" /></a></div>
+				<div style="background: url(images/social.png) no-repeat 0 0; width: 26px; height: 26px; float: right; font-size: 0; float: right; margin-right: 10px; cursor: pointer;"><a href="https://www.facebook.com/pages/GTOptions/186333321470153" rel="noFollow" target="_blank"><img border="0" src="img/blank.gif" width="26" height="26" alt="" /></a></div>
 				<div style="float: right; color: #FFFFFF; font-size: 14px; font-family: Calibri; margin: 5px 10px 0 0;">Find us on:</div>
-			</div>
+			</div  -->
 		</div>
 	</div>
 	<div class="body_bg">
 		<div align="left" class="floats_div">
 			<div class="column">
 				<div class="title">Trading</div>
-				<a href="http://www.gtoptions.com/trading">Trading</a><a href="http://www.gtoptions.com/users.php?act=form">Open Live Account</a><a href="http://www.gtoptions.com/payment-methods">Payment Methods</a><a href="http://www.gtoptions.com/withdrawal-methods">Withdrawal Methods</a><a href="http://www.gtoptions.com/getting-started">Getting Started</a>
+				<a href="trading">Trading</a><a href="users.php?act=form">Open Live Account</a><a href="withdrawal-methods">Withdrawal Methods</a><a href="getting-started">Getting Started</a>
 			</div><div class="column">
 				<div class="title">Trading Products</div>
-				<a href="http://www.gtoptions.com/currencies">Currencies</a><a href="http://www.gtoptions.com/stocks">Stocks</a><a href="http://www.gtoptions.com/commodities">Commodities</a><a href="http://www.gtoptions.com/indices">Indices</a><a href="http://www.gtoptions.com/how-trade">How to start trading?</a>
+				<a href="currencies">Currencies</a><a href="stocks">Stocks</a><a href="commodities">Commodities</a><a href="indices">Indices</a><a href="how-trade">How to start trading?</a>
 			</div><div class="column">
 				<div class="title">GTO Banking</div>
-				<a href="http://www.gtoptions.com/gto-mini-account">GTO Mini Account</a><a href="http://www.gtoptions.com/gto-classic-account">GTO Classic Account</a><a href="http://www.gtoptions.com/gto-gold-account">GTO Gold Account</a><a href="http://www.gtoptions.com/safety-of-funds">Safety Of Funds</a><a href="http://www.gtoptions.com/trading-bonus">Trading Bonus</a>
+				<a href="gto-mini-account">GTO Mini Account</a><a href="gto-classic-account">GTO Classic Account</a><a href="gto-gold-account">GTO Gold Account</a><a href="safety-of-funds">Safety Of Funds</a><a href="trading-bonus">Trading Bonus</a>
 			</div><div class="column">
 				<div class="title">Trader Tools</div>
-				<a href="http://www.gtoptions.com/economic-calendar">Economic calendar </a><a href="http://www.gtoptions.com/Fibonacci-calculator">Fibonacci calculator</a><a href="http://www.gtoptions.com/assetindex.php?id=2" rel="noFollow">Asset Index</a>
+				<a href="economic-calendar">Economic calendar </a><a href="Fibonacci-calculator">Fibonacci calculator</a><a href="assetindex.php?id=2">Asset Index</a>
 			</div><div class="column">
 				<div class="title">Partners</div>
-				<a href="http://aff.binaryaffiliatesgroup.com/" rel="noFollow" target="_blank">Affiliate Program</a><a href="http://www.gtoptions.com/introducing-brokers">Introducing brokers</a><a href="http://www.gtoptions.com/white-labels">White Labels</a><a href="http://www.gtoptions.com/refer-friend">Refer A friend</a>
+				<a href="introducing-brokers">Introducing brokers</a><a href="white-labels">White Labels</a><a href="refer-friend">Refer A friend</a>
 			</div><div class="column">
 				<div class="title">Broker Support</div>
-				<a href="http://www.gtoptions.com/chat-with-a-broker">Chat With A broker</a><a href="http://www.gtoptions.com/software-walk-through">Software Walk Through</a><a href="http://www.gtoptions.com/live-chat">Live Chat</a><a href="http://www.gtoptions.com/personal-broker">Personal Broker</a><a href="http://www.gtoptions.com/terms-of-use">Terms And Conditions </a><a href="http://www.gtoptions.com/content.php?id=1046">KYC Policy</a>
+				<a href="chat-with-a-broker">Chat With A broker</a><a href="software-walk-through">Software Walk Through</a><a href="live-chat">Live Chat</a><a href="personal-broker">Personal Broker</a><a href="terms-of-use">Terms And Conditions </a><a href="privacy">Privacy Policy</a><a href="content.php?id=1046">KYC Policy</a><a href="content.php?id=1047">AML PROCEDURES</a>
 			</div>
 		</div>
 		<div class="clear">&nbsp;</div>
+		
+<div class="clear"></div>
+<div class="footer_banners">
+	<div style="width: 1000px;"><div class="footer_banner" style="margin-right:60px; float:left;"><a href="http://www.dailyforex.com/GTOptions/GTOptions-review/2159" rel="noFollow" traget="_blank"><img width="125" src="http://www.gtoptions.com/files/banners/1404887082A82EJ.png" alt="GTOptions Reviewed by Dailyforex.com" border="0"></a></div>
+		<div class="footer_banner" style="margin-right: 60px; float:left;"><a href="banners.php?id=1018" rel="noFollow" target="_blank"><img border="0" src="files/banners/1404887128h28Dx.png" width="58" height="125" alt=""></a></div><div class="footer_banner" style="margin-right: 60px; float:left;"><a href="banners.php?id=1019" rel="noFollow" target="_blank"><img border="0" src="files/banners/1409050421f21JB.png" width="111" height="122" alt=""></a></div><div class="footer_banner" style="margin-right: 60px; float:left;"><a href="banners.php?id=1020" rel="noFollow" target="_blank"><img border="0" src="files/banners/1413815330b30WB.png" width="120" height="134" alt=""></a></div><div class="footer_banner" style="margin-right: 60px; float:left;"><a href="banners.php?id=1021" rel="noFollow"><img border="0" src="files/banners/1410161990i90Qw.png" width="100" height="126" alt=""></a></div><div class="footer_banner" style="margin-right: 60px; float:left;"><img border="0" src="files/banners/1410175244t44UC.png" width="125" height="127" alt=""></div></div>
+		<div class="clear"></div>
 		<div class="disk_des">
 			<p>
 	<u>Important Risk Note:</u> Trading binary options can generate significant benefits but also involves a risk of partial or full funds loss and should be considered by initial investors. we strongly advise that you read our terms &amp; conditions and disclaimer page before making any investment. customers must be aware of their individual capital gain tax liability in their country of residence.</p>
@@ -368,9 +297,11 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 			
 		</div>
-		<div style="padding-top: 10px;"><img border="0" src="images/cc.png" alt=""><a href="javascript:openSSL();" rel="noFollow"><img border="0" src="images/footer_ssl_02.png" alt="GTOptions Secured By GeoTrust"></a></div><a href="javascript:openSSL();" rel="noFollow">
-	</a></div><a href="javascript:openSSL();" rel="noFollow">
-</a></div><a href="javascript:openSSL();" rel="noFollow">
+		<div style="padding-top: 10px;"><img border="0" src="images/cc.png" alt=""><a href="javascript:openSSL();" rel="noFollow"><img border="0" src="images/footer_ssl_02.png" alt="GTOptions Secured By GeoTrust"></a></div>
+		<div style="font-size: 11px; color: #A1A1A1; padding-top: 20px;">The World Global Marketing LTD with Registered offices in 1A, Arcade House, Temple Fortune London, NW11 7TL,UK</div>
+	</div>
+	</div>
+</div>
 
 
 
@@ -414,7 +345,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <div style="position: absolute; right: 0; top: 186px;">
 	<div id="cieWZ2" style="z-index:100;position:absolute"></div>
 	<div id="sceWZ2" style="display:inline"></div>
-	<div id="sdeWZ2" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/0y66yvaw7hcxe1gkr5c9v8iccl/safe-standard.js?ps_h=eWZ2&amp;ps_t=1582537777257"></script></div>
+	<div id="sdeWZ2" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/0y66yvaw7hcxe1gkr5c9v8iccl/safe-standard.js?ps_h=eWZ2&amp;ps_t=1582537758324"></script></div>
 	<script type="text/javascript">var seeWZ2=document.createElement("script");seeWZ2.type="text/javascript";var seeWZ2s=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/0y66yvaw7hcxe1gkr5c9v8iccl/safe-standard.js?ps_h=eWZ2&ps_t="+new Date().getTime();setTimeout("seeWZ2.src=seeWZ2s;document.getElementById('sdeWZ2').appendChild(seeWZ2)",1)</script><noscript></noscript>
 </div>
 	<script type="text/javascript">
@@ -426,4 +357,4 @@ var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_ele
 })();
 // ]]>
 </script>
-</a></body></html>
+</body></html>
