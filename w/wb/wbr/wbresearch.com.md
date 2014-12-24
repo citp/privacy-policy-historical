@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wbresearch.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052339id_/http%3A//www.wbresearch.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbresearch.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224051923id_/http%3A//www.wbresearch.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Worldwide Business Research - Privacy Policy
+# Worldwide Business Research | Turning Leading Edge Research into Business Critical Events
 
 ## WBR is committed to protecting your privacy.
 
