@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531063152id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224125431id_/http%3A//www.veda.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Australia) | Veda
 
@@ -14,9 +14,9 @@ In addition Veda Advantage Information Services & Solutions Ltd (VISS) operates 
 
 ## 2\. Who is Veda
 
-**Consumer Risk and Identity**
+ **Consumer Risk and Identity**
 
-| Commercial Risk & Information Services | B2C and Marketing Services | International  
+|  Commercial Risk & Information Services| B2C and Marketing Services| International  
 ---|---|---|---  
   
 • Consumer Credit Risk (B2B) For further information refer to our [Credit Policy](http://www.veda.com.au/credit-reporting-policy).
@@ -128,19 +128,19 @@ Where other personal information is used for a secondary purpose there is, gener
 
 Generally, before any Veda entity discloses your personal information to any third party outside Veda, the third party to whom the information is disclosed must be a customer of one of our businesses.  However, there may be circumstances where we are required or authorised by law to disclose your personal information to someone who is not a subscriber e.g. to an Ombudsman, tribunal, court, law enforcement agency or government department.
 
-**Service**
+ **Service**
 
 | 
 
-**Type of Personal Information we Collect**
+ **Type of Personal Information we Collect**
 
 | 
 
-**Purpose we collect, use and disclose**  
+ **Purpose we collect, use and disclose**  
   
 ---|---|---  
   
-**Consumer Risk & Identity**
+ **Consumer Risk & Identity**
 
 | 
 
@@ -216,7 +216,7 @@ As such organisations we may disclose your personal information to include:
 
   
   
-**Commercial Risk & Information Services**
+ **Commercial Risk & Information Services**
 
 | 
 
@@ -246,7 +246,7 @@ We collect this information in order to provide Commercial Risk and Information 
 
   
   
-**B2C Marketing Services**
+ **B2C Marketing Services**
 
 | 
 
@@ -256,6 +256,9 @@ Veda provides a number of services to consumers, most notably:
   * Secure Sentinel
   * Carhistory.com.au
   * NTD
+  * Know Your Tradie
+  * ReduceMyBills.com.au
+  * Tenancycheck.com.au
 
 
 
@@ -279,7 +282,15 @@ In order to provide these services to you we need to collect personal informatio
 
 In the case of Inivio we collect publicly available information as well as other personal information such as email address and mobile phone number.
 
-Information that is not publicly available is collected by Inivio from third parties who have your consent to use and disclose your personal information or from you directly with your consent to the subsequent use and disclosure of that information.
+Information that is not publicly available is collected by Inivio from you or from third parties who have your consent to use and disclose your personal information or from you directly with your consent to the subsequent use and disclosure of that information.
+
+We primarily collect information directly from you when you register to receive offers from us when you answer our questionnaires, and when you enter our competitions.
+
+When you use our **Know Your Tradie** website and order a report we collect your first name, surname, email address and card details.
+
+ **ReduceMyBills.com.au** collects your personal information when you contact us or request that we contact you in connection with electricity & gas, phone, internet and pay TV connections.
+
+TenancyCheck.com.au is a service that allows landlord to carry out checks as part of assessing a tenancy application.   We obtain your personal information when a landlord uses our website to undertake a check.
 
 | 
 
@@ -311,7 +322,21 @@ For the purposes of NTD we collect information in accordance with the APPs for t
 
 If as part of signing up VedaScore, Secure Sentinel, carhistory.com.au or NTD and you provide consent to receive marketing offers from the Veda group of companies or from customers your identity information may be used for marketing purposes.
 
-For information about the purposes for which Inivio uses and discloses personal information refer to the [Inivio Privacy Policy](http://www.inivio.com.au/doc/Privacy%20policy%20for%20publication%2010122013.pdf)  
+ **Inivio** collects your personal information for a variety of reasons including:
+
+  * To evaluate and improve our service, and provide you with a more personalised service;
+  * To provide you with information about the products and services we offer, including letting you know about competitions and promotions; 
+  * To conduct market research;
+  * To pass on to selected third parties so they can contact you by mail, telephone, sms, email or otherwise with offers, promotions, marketing or information which may be of interest to you;
+  * As part of working with other organisation to offer co-branded promotion.  We will share your responses with the Sponsors to assist them in providing you with more targeted communications. 
+
+
+
+For further information about the other purposes for which Inivio uses and discloses personal information refer to the [Inivio Privacy Policy](http://www.inivio.com.au/doc/Privacy%20policy%20for%20publication%2010122013.pdf)
+
+ **Know Your Tradie** collects your personal information in order to provide you with the report you ordered and so that the report can be charged to your nominated card.
+
+ **TenancyCheck.com.au** collects, uses and discloses your personal information including past tenant history, publicly available information, tenant evictions and terminations, irregular rent payment history to provider its tenancy services to landlords.  
   
 Veda also manage an insurance database on behalf of Insurance Reference Services, for that purpose we collect: 
 
@@ -330,11 +355,11 @@ This information is used to provide insurance services to general insurers, loss
 
 In addition, **as a public company** listed on the Australian Stock Exchange, we collect, use and disclose your personal information as follows:
 
-**Type of personal information we collect**
+ **Type of personal information we collect**
 
 | 
 
-**Purpose we collect, use and disclose**  
+ **Purpose we collect, use and disclose**  
   
 ---|---  
   
@@ -354,9 +379,9 @@ Your personal information may also be used to inform you about other products an
 
 Please note that information in Veda’s register is retained in accordance with the Corporation Act 2001.  The information will remain there for 7 years after you cease to be a shareholder.  
   
-**Disclosures Overseas**
+ **Disclosures Overseas**
 
-In limited circumstances Veda may disclose your personal information to an entity overseas.  Generally speaking this is in circumstances where we have engaged a third party to carry out certain call centre operations on behalf of one of the Veda entities.  In such cases, personal information including name, address and telephone numbers is disclosed to organisations in South Africa and the Philippines.  In addition, as part of Inivio’s marketing services personal information may be disclosed to Singapore and the United States of America.  Where Verify is conducting verification in Australia and you have lived overseas, personal information about you may be disclosed to the country(ies) in which you have resided as part of the verification process.  This can include verification of your employment history; educational qualifications obtained overseas as well a criminal history check.
+In limited circumstances Veda may disclose your personal information to an entity overseas.  Generally speaking this is in circumstances where we have engaged a third party to carry out certain call centre operations on behalf of one of the Veda entities.  In such cases, personal information including name, address and telephone numbers is disclosed to organisations in South Africa and the Philippines.  In addition, as part of Inivio’s marketing services personal information may be disclosed to Singapore and the United States of America and to service providers in the United Kingdom, Poland and Germany.  Where Verify is conducting verification in Australia and you have lived overseas, personal information about you may be disclosed to the country(ies) in which you have resided as part of the verification process.  This can include verification of your employment history; educational qualifications obtained overseas as well a criminal history check.
 
 ## 5\. Your Right of Access
 
@@ -364,55 +389,55 @@ You have the right to access personal information Veda holds on you and to have 
 
 If you would like to obtain a copy of your files including the personal information Veda holds on you or to request a correction to personal information held by Veda, please contact us in writing:
 
-**How to obtain copy of**
+ **How to obtain copy of**
 
 | 
 
-**Contact Details**  
+ **Contact Details**  
   
 ---|---  
   
-**Your Commercial Risk and /or insurance information  **
+ **Your Commercial Risk and /or insurance information  **
 
 | 
 
-**Veda – Public Access**  
+ **Veda – Public Access**  
 Veda Advantage Information Services & Solutions  
 PO Box 964  
 NORTH SYDNEY  NSW  2059  
 <http://www.veda.com.au/understanding-your-credit-file>  
   
-**Your tenancy information held by NTD**
+ **Your tenancy information held by NTD**
 
 | 
 
 [info@ntd.net.au](mailto:info@ntd.net.au)  
   
-**Your personal Information held by Secure Sentinel**
+ **Your personal Information held by Secure Sentinel**
 
 | 
 
 On 1800 022 043  
 Email: [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)  
   
-**Your personal information held by Verify**
+ **Your personal information held by Verify**
 
 | 
 
-**Verify Holdings Australia Ltd**
+ **Verify Holdings Australia Ltd**
 
 Locked Bag 965  
 NORTH SYDNEY  NSW  2059
 
 Email:  [info@verifycv.com.au](mailto:info@verifycv.com.au).  
   
-**Your personal information held by Corporate Scorecard** | [admin@corporatescorecard.com.au](mailto:admin@corporatescorecard.com.au)  
+ **Your personal information held by Corporate Scorecard**| [admin@corporatescorecard.com.au](mailto:admin@corporatescorecard.com.au)  
   
-**Share related personal information**
+ **Share related personal information**
 
 | 
 
-**Link Marketing Services**
+ **Link Marketing Services**
 
 Level 12, 680 George Street  
 SYDNEY  NSW  2000
@@ -435,43 +460,43 @@ You can contact us at:
   
 
 
-**Type of information**
+ **Type of information**
 
 | 
 
-**Contact Details**  
+ **Contact Details**  
   
 ---|---  
   
-**Your Commercial Risk and /or insurance information  **
+ **Your Commercial Risk and /or insurance information  **
 
 | 
 
-**Veda – Public Access**  
+ **Veda – Public Access**  
 Veda Advantage Information Services & Solutions  
 PO Box 964  
 NORTH SYDNEY  NSW  2059
 
 Email: [corrections@veda.com.au](mailto:corrections@veda.com.au)  
   
-**Your tenancy information held by NTD**
+ **Your tenancy information held by NTD**
 
 | 
 
 [info@ntd.net.au](mailto:info@ntd.net.au)  
   
-**Your personal Information held by Secure Sentinel**
+ **Your personal Information held by Secure Sentinel**
 
 | 
 
 On 1800 022 043  
 Email: [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)  
   
-**Your personal information held by Verify**
+ **Your personal information held by Verify**
 
 | 
 
-**Verify Holdings Australia Ltd**
+ **Verify Holdings Australia Ltd**
 
 Locked Bag 965  
 NORTH SYDNEY  NSW  2059
@@ -480,13 +505,13 @@ Email:  [info@verifycv.com.au](mailto:info@verifycv.com.au).
   
 If you are unhappy with the outcome of our investigation you have a right to complain to Financial Ombudsman Service or the Office of the Australian Information Commissioner. The contact details of each are set out below:
 
-**Financial Ombudsman Service**
+ **Financial Ombudsman Service**
 
 GPO Box 3
 
 MELBOURNE  VIC  3001
 
-**Office of the Australian Information Commissioner**
+ **Office of the Australian Information Commissioner**
 
 GPO Box 5218
 
@@ -520,17 +545,17 @@ Veda may, at any time, disclose your information to its clients, where you have 
 
 At all times you are free to choose not to receive some or all of the marketing communications sent by Veda or on Veda's behalf.  In order to exercise that choice you need to communicate to:
 
-**Veda Entity**
+ **Veda Entity**
 
-| Source of Consent | 
+|  Source of Consent| 
 
-**Contact Details**  
+ **Contact Details**  
   
 ---|---|---  
   
-**VedaScore**
+ **VedaScore**
 
-| If you provided consent via the Your Credit & Identity or MyCreditFile services | 
+|  If you provided consent via the Your Credit & Identity or MyCreditFile services | 
 
 Veda 
 
@@ -538,9 +563,9 @@ PO Box 964
 
 NORTH SYDNEY  NSW  2059  
   
-**Inivio**
+ **Inivio**
 
-| If you received marketing material from a customer of Inivio or via VedaConnect Inivio | 
+|  If you received marketing material from a customer of Inivio or via VedaConnect Inivio| 
 
 PO Box 964
 
@@ -548,9 +573,9 @@ NORTH SYDNEY  NSW  2059
 
 Email:  [info@inivio.com.au](mailto:info@inivio.com.au)  
   
-**Secure Sentinel**
+ **Secure Sentinel**
 
-| If you were or are a customer of Secure Sentinel. | 
+|  If you were or are a customer of Secure Sentinel.| 
 
 Attention:  National Manager
 
@@ -562,9 +587,9 @@ CHATSWOOD  NSW  2057
 
 Email:  [customerservice@securesentinel.com.au](mailto:customerservice@securesentinel.com.au)  
   
-**CarHistory**
+ **CarHistory**
 
-| If you were or are a customer of Car History and provided your consent. | 
+|  If you were or are a customer of Car History and provided your consent. | 
 
 Car History
 
@@ -574,7 +599,7 @@ NORTH SYDNEY  NSW  2059
 
 [support@carhistory.com.au](mailto:support@carhistory.com.au)  
   
-Corporate Scorecard | If you have consented to receiving emails from Corporate Scorecard about its products and services. | [admin@corporatescorecard.com.au](mailto:admin@corporatescorecard.com.au)  
+Corporate Scorecard| If you have consented to receiving emails from Corporate Scorecard about its products and services.| [admin@corporatescorecard.com.au](mailto:admin@corporatescorecard.com.au)  
   
 ## 8\. Government Identifiers and Sensitive Information
 
