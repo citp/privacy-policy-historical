@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fiftyone.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626045412id_/http%3A//www.borderfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiftyone.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224162301id_/http%3A//www.borderfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Borderfree
 
-**Last Updated:** June 20, 2014
+**Last Updated:** October 01, 2014
 
 This Privacy Policy is for Borderfree, Inc. (f/k/a FiftyOne, Inc. dba FiftyOne Global Ecommerce) and its subsidiaries, including BoxHop LLC (for the purposes of this Policy, collectively "Borderfree"). Borderfree understands how important your privacy is to you. Rest assured that your privacy and trust are also very important to us.
 
-This privacy policy details the personal information we collect about you, the means through which we collect that information, with whom we share it and how you can change your preferences regarding how we collect and use your information when you provide it to us at sites within the following domains (“Borderfree Websites”): [borderfree.com](http://www.borderfree.com/), [boxhop.com](http://www.boxhop.com/), [port51.com](http://www.port51.com/), [shopperswithoutborders.com](http://www.shopperswithoutborders.com/), and [fiftyone.com](http://www.fiftyone.com/) and BY VISITING BORDERFREE, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY.
+This privacy policy details the personal information we collect about you, the means through which we collect that information, with whom we share it and how you can change your preferences regarding how we collect and use your information when you provide it to us at sites within the following domains (“Borderfree Websites”): [borderfree.com](http://www.borderfree.com/), [boxhop.com](http://www.boxhop.com/), [port51.com](http://www.port51.com/), and [fiftyone.com](http://www.fiftyone.com/) and BY VISITING BORDERFREE, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY.
 
   * What Types of Personal Information Does Borderfree Collect?
   * What Cookies and Other Technologies Does Borderfree Use?
@@ -84,7 +84,7 @@ The Borderfree Websites may include third-party advertising and links to partner
 
 #### Are Children Allowed to Use Borderfree?
 
-Borderfree does not allow anyone under the age of 18 to take part in any of its services. If you are under the age of 18, you must stop using the Borderfree Websites and taking part in its services now. To be clear, but not to limit what you are not allowed to do, if you are under 18, you may not make purchases from Borderfree or any of its partners, you may not click through to any of our partners’ websites, and you many not take part in any surveys, panels or the like.
+Borderfree does not allow anyone under the age of 18 to take part in any of its services. If you are under the age of 18, you must stop using the Borderfree Websites and taking part in its services now. To be clear, but not to limit what you are not allowed to do, if you are under 18, you may not make purchases from Borderfree or any of its partners, you may not click through to any of our partners’ websites, and you may not take part in any surveys, panels or the like.
 
 #### Do We Conduct Questionnaires, Panels, Contests, or Sweepstakes?
 
@@ -104,7 +104,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 #### What Should I Know About Changes to This Privacy Policy?
 
-If we decide to change this privacy policy, we will post the updated privacy policy at <http://www.borderfree.com/privacy>, <http://www.fiftyone.com/privacy>, <http://www.port51.com/privacypolicy>, [http://www.shopperswithoutborders.com](http://www.shopperswithoutborders.com/) and <http://www.boxhop.com/privacy>. We reserve the right to modify this privacy policy at any time, so please come to this link to review it frequently. If we make significantly material changes to this privacy policy, we will notify you by means of a notice on the Borderfree Websites prior to the change becoming effective.
+If we decide to change this privacy policy, we will post the updated privacy policy at <http://www.borderfree.com/privacy>, <http://www.fiftyone.com/privacy>, <http://www.port51.com/privacypolicy> and <http://www.boxhop.com/privacy>. We reserve the right to modify this privacy policy at any time, so please come to this link to review it frequently. If we make significantly material changes to this privacy policy, we will notify you by means of a notice on the Borderfree Websites prior to the change becoming effective.
 
 #### What are the Terms & Conditions and Dispute Resolution?
 
