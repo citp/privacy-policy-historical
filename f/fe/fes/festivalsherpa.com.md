@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the festivalsherpa.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601032927id_/http%3A//www.festivalsherpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the festivalsherpa.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224105613id_/http%3A//www.festivalsherpa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Festival Sherpa
+# Privacy Policy - Festival Sherpa I Online Guide to Music Festivals
 
 **What information do we collect?**
 
