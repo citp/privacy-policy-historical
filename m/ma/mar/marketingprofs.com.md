@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629154745id_/http%3A//www.marketingprofs.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224062658id_/http%3A//www.marketingprofs.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : MarketingProfs
+
+Last updated July 1, 2014
 
 MarketingProfs, LLC is deeply committed to respecting and protecting your right to privacy and takes your privacy seriously. We strive to keep your personal and financial information secure. We have prepared this privacy policy to disclose and describe our information gathering and dissemination practices for this website. 
 
@@ -22,7 +24,7 @@ All employees are required to adhere to our strict privacy policies and any empl
 
 **Use of Your Personal Information**
 
-If you decide to become a member, you will receive a short series of orientation emails from MarketingProfs. From time to time, members may receive notifications about changes to policies. We will not send you any other unsolicited email at the address you provide, except for infrequent communications to resolve issues that may arise with your own MarketingProfs.com account. We also offer a variety of optional newsletter and promotional subscriptions. We send these emails only to members who have elected to see them. Members can manage their opt-in and opt-out status at any time from [this page in My Account](https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp).
+If you decide to become a member, you will receive a short series of orientation emails from MarketingProfs. You will also be added to our mailing list, which you may opt out of at any time by updating your [email preferences](https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp) in the My Account section. MarketingProfs is compliant with the Canada Anti-Spam Law (CASL), and consent is required for delivery of any digital communication. Expressed consent is clearly communicated and requested on all registration forms. Members may receive notification of new products and services from MarketingProfs and third parties, changes to policies or price adjustments. We will not send you any other unsolicited email at the address you provide, except for infrequent communications to resolve issues that may arise with your own MarketingProfs.com account. We also offer a variety of optional newsletter and promotional subscriptions. We send these emails only to members who have elected to see them. Members can manage their opt-in and opt-out status at any time from [this page in My Account](https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp).
 
 Special offers are sometimes sent to Basic members on behalf of third parties. But these third parties do not have access to personal information since we alone send out the emails. All recipients of third-party emails are given the opportunity to opt-out of future third-party mailings at any time by clicking the link at the bottom of any email or by changing email preference settings on [this page in My Account](https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp).
 
