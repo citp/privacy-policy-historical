@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihouseu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125959id_/http%3A//www.ihouseu.com/privacy-statements.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihouseu.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224031111id_/http%3A//www.ihouseu.com/privacy-statements.html) for the most accurate reproduction.*
 
 # Privacy Statements | IHOUSEU
 
@@ -16,15 +16,15 @@ Correspondence from our partners is subject to their relevant Privacy Policy.
 
 We do not sell, rent or exchange mailing lists.
 
-#### TV: Deepgroove \- Deepgroove - CCTV Brighton 
+#### TV: Juicy Beach \- Juicy Beach - Miami 2013 (Official Recap Video) 
 
-  * [](https://web.archive.org/tv/hed-kandi-opening-party-es-paradis.html)
+  * [](https://web.archive.org/tv/new-state-music-pure-deep-house-3.html)
 
-## Hed Kandi...
+## New State...
 
-#### Hed Kandi
+#### New State...
 
-  * [](https://web.archive.org/tv/defected-defected-house-we-are-fstvl.html)
+  * [](https://web.archive.org/tv/defected-15-years-house-defected.html)
 
 ## Defected -...
 
