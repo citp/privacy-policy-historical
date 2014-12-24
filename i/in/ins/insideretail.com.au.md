@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083546id_/http%3A//www.insideretail.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224155831id_/http%3A//www.insideretail.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Inside RetailInside Retail
+# Privacy Policy - Inside Retail
 
 The following document sets forth the Privacy Policy for the Octomedia website, www.insideretail.com.
 
