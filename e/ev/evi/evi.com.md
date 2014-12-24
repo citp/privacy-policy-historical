@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the evi.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630113440id_/http%3A//www.evi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evi.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224081343id_/http%3A//www.evi.com/privacy) for the most accurate reproduction.*
 
 # Evi - Privacy Policy
 
-Evi Technologies Limited is committed to protecting the privacy and confidentiality of information provided by all users of Evi,  evi.com and its other products.
+Evi Technologies Limited is committed to protecting the privacy and confidentiality of information provided by all users of Evi, evi.com and its other products.
 
-Please read the following privacy policy to understand how we use and protect the information that is provided to us by users of our products.
+Please read the following privacy policy to understand how we use and protect the information that is provided to us by users of our products.
 
-By using our products, visiting and/or registering on this site, you consent to the collection, use and transfer of your information under the terms of this policy.
+By using our products, visiting and/or registering on this site, you consent to the collection, use and transfer of your information under the terms of this policy.
 
 ### Information that we collect from you via the Evi software and service
 
@@ -66,7 +66,7 @@ When you download and use Evi you may be asked to provide certain information ab
 
 Evi will optionally ask for your name. This will be stored securely on our servers and is used to provide a more personalised experience with Evi.
 
-Evi will optionally request permission to connect to partner services of which you may have an account with. This is to allow Evi to learn more about you to provide you with a better, more personalised experience. Any data stored is subject to the partner’s terms of service and is solely for the use of Evi – it will not be shared with any other third party.
+Evi will optionally request permission to connect to partner services of which you may have an account with. This is to allow Evi to learn more about you to provide you with a better, more personalised experience. Any data stored is subject to the partner's terms of service and is solely for the use of Evi - it will not be shared with any other third party.
 
 When you use the Evi Software and Service, location data from your mobile device may be transmitted to and stored on our servers to provide relevant local information. Text input and speech data, including transcripts of speech utterances via the Evi Software are also stored to enable the Service to provide the relevant information for your needs and to improve future responses. Certain device information may also be transmitted to and stored on our servers that may uniquely identify your device.
 
@@ -96,7 +96,7 @@ Evi Technologies is not responsible for the privacy and data protection practice
 
 ### Accessing and updating
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of Â£10 to meet our costs in providing you with details of the information we hold about you.
 
 ### Changes to our privacy policy
 
@@ -104,4 +104,4 @@ Any changes to our privacy policy in the future will be posted to the site and, 
 
 ### Contact
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to William Tunstall-Pedoe at Evi Technologies Limited, Poseidon House, Castle Park, Cambridge, United Kingdom, CB3 0RD or at [privacy@evi.com](mailto:privacy@evi.com) .
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to William Tunstall-Pedoe at Evi Technologies Limited, Poseidon House, Castle Park, Cambridge, United Kingdom, CB3 0RD, United Kingdom or at [privacy@evi.com](mailto:privacy@evi.com) .
