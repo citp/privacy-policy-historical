@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618014449id_/http%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoundry.co.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224205606id_/https%3A//www.thefoundry.co.uk/privacy) for the most accurate reproduction.*
 
 # The Foundry :: Cookie & Privacy Policy
 
@@ -20,11 +20,11 @@ Cookies are very small text files that are stored on your computer when you visi
 
 ## Types of cookie used on our website
 
-Session Cookies - We use a session cookie to remember your login for you and what you've put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionalities on the site will be broken. 
+Session Cookies - We use a session cookie to remember your login for you and what you've put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionalities on the site will be broken.
 
-Google Analytics & KISSmetrics – We use this to understand how the website is being used in order to improve the user experience. User data is anonymous. 
+Google Analytics – We use this to understand how the website is being used in order to improve the user experience. User data is anonymous.
 
-Eloqua – We use this tool to understand more about the areas of our website you're most interested in. We then use this information to tailor marketing messages to you. 
+Eloqua & KISSMetrics – We use these tools and the data you have provided such as email address to understand more about the areas of our website you're most interested in. We then use this information to tailor marketing messages to you.
 
 Google Remarketing — Google uses these cookies to show relevant adverts to users who have previously visited our website, as they browse other websites. To opt-out from Google's remarketing program, please [edit your Google Ad Settings](https://www.google.com/settings/ads).
 
@@ -32,7 +32,7 @@ Facebook - Cookies and pixels are used to understand and deliver ads and make th
 
 ## Data collection and use
 
-We collect personal data that you volunteer while using our website or conducting a commercial relationship with us. 
+We collect personal data that you volunteer while using our website or conducting a commercial relationship with us. Some of this data may be used with 3rd party analytics software we use to monitor the website.
 
 To keep our databases accurate, we may also collect information about you from other sources, such as public records or bodies, or private organizations.
 
@@ -55,7 +55,7 @@ We have implemented security policies, rules and technical measures to protect t
 
 
 
-All our employees and data processors that have access to, and are associated with, the processing of personal data are obliged to respect the confidentiality of your personal data. 
+All our employees and data processors that have access to, and are associated with, the processing of personal data are obliged to respect the confidentiality of your personal data.
 
 We ensure that your personal data will not be disclosed to state institutions and authorities except if required by law or other regulation.
 
@@ -91,12 +91,12 @@ We reserve the right to make amendments to our privacy policy in the future so t
 
 If you have any other queries relating to your privacy and the use of your personal data, please contact:
 
-Data and Privacy Policy Enquiries 
+Data and Privacy Policy Enquiries
 
-The Foundry Visionmongers Ltd 
+The Foundry Visionmongers Ltd
 
-5 Golden Square 
+5 Golden Square
 
-London W1F 9HT 
+London W1F 9HT
 
 United Kingdom [info@thefoundry.co.uk](mailto:info@thefoundry.co.uk)
