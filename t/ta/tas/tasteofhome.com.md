@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624032922id_/http%3A//www.tasteofhome.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224164118id_/http%3A//www.tasteofhome.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taste of Home
 
@@ -12,7 +12,7 @@ We may revise or update this Policy at any time. If we make material changes, we
 
 This Policy distinguishes between personally identifiable information, which we refer to as "personal information," and "aggregate information" and other forms of non-personally identifiable information.
 
-  * Personal information as used herein means information that personally identifies you, such as your name, address, telephone number, e-mail address, credit card or other account number, and other information that is linked to personal information about you.
+  * Personal information as used herein means information that personally identifies you, such as your name, address, telephone number, email address, credit card or other account number, and other information that is linked to personal information about you.
   * Aggregate information is aggregated information from which we have removed individual identities or other personal information, or information that we collect about the Web Site or about a group or category of products, services or customers that does not identify you personally. Aggregate data helps us understand trends and our users' needs so that we can better consider new features or otherwise tailor our Web Site.
 
 
@@ -122,8 +122,8 @@ Please note that no data transmission over the Internet is 100% secure. As a res
 If you have any questions or comments about this Privacy Policy, the privacy practices of this Web Site, or your dealings with TasteofHome.com, please contact us at [Privacy@TasteofHome.com](mailto:Privacy@TasteofHome.com) or use the following address or phone number:
 
 Taste of Home  
-5400 South 60th Street  
-Greendale, WI 53129  
+1610 North 2nd Street, Suite 102  
+Milwaukee, WI 53212   
 USA
 
 Phone: (414) 423-0100
