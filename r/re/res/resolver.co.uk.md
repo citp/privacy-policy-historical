@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529102259id_/https%3A//complaints.resolver.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resolver.co.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224050528id_/http%3A//www.resolver.co.uk/privacy) for the most accurate reproduction.*
 
-# resolver
-
-close
+# Privacy Policy | resolver
 
 This is a notice to tell you our policy about all information that we record about you. It covers both information that could identify you and information that could not.
 
@@ -47,5 +45,3 @@ We may be required to give information to legal authorities if they so request o
 ### Questions
 
 If you have any question regarding the privacy policy, please contact us through the contact page or email [support@resolver.co.uk](mailto:support@resolver.co.uk).
-
-close
