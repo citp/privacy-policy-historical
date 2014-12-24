@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102321id_/http%3A//hypem.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypem.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224163924id_/http%3A//hypem.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Hype Machine
 
@@ -114,4 +114,4 @@ Hype Machine may amend this Privacy Policy. Use of information we collect now is
 
 ### Questions or Concerns
 
-If you have any questions or concerns regarding privacy at Hype Machine, please send us a detailed message to privacy@hypem.com or to The Hype Machine Inc., 2165 Brigham Street, # 3F, Brooklyn, NY 11229. Your privacy is important to us and we will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy at Hype Machine, please send us a detailed message to privacy@hypem.com or to The Hype Machine Inc., 30 Monroe Pl #2A Brooklyn, NY 11201. Your privacy is important to us and we will make every effort to resolve your concerns.
