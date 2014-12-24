@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330232102id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.org.uk privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224231857id_/http%3A//www.redcross.org.uk/Header-Footer-Links/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy and cookies document | British Red Cross
 
-At the British Red Cross we are committed to protecting your privacy. When you interact with us by phone, mail, in person or online, we sometimes receive personal information about you. This page, together with [our website terms and conditions](https://web.archive.org/Header-Footer-Links/Terms-and-conditions), tells you about how we collect, use and store your personal information.
+At the British Red Cross we are committed to protecting your privacy. When you interact with us by phone, mail, in person or online, we sometimes receive personal information about you. This page, together with [our website terms and conditions](https://web.archive.org/en/Header-Footer-Links/Terms-and-conditions), tells you about how we collect, use and store your personal information.
 
 Please read this policy carefully to understand how we collect, use and store your personal data.
 
-If you have any queries about our privacy policy, please email Catherine Spalding, Legal Team Secretary, at [cspalding@redcross.org.uk](mailto:cspalding@redcross.org.uk), or write to her here:
+If you have any queries about our privacy policy, please email Andrew Napier, head of legal department, at [ANapier@redcross.org.uk](mailto:ANapier@redcross.org.uk), or write to him here:
 
 British Red Cross  
 Legal department   
@@ -27,8 +27,7 @@ London EC2Y 9AL
 
 
 
-##  What this policy takes into account  
-
+##  What this policy takes into account
 
 Our privacy policy takes into account several legal instruments, including: 
 
@@ -38,15 +37,13 @@ Our privacy policy takes into account several legal instruments, including:
 
 
 
-##  How we collect information about you  
-
+##  How we collect information about you
 
 We may collect information about you whenever you interact with us. For example, when you register for our services, donate to us, ask about our activities, apply for a job or volunteering opportunity, or otherwise give us any other personal information. 
 
 We may also receive information about you from third parties – but only if you’ve given them permission to share your information.
 
-##  What information we collect   
-
+##  What information we collect 
 
 When you interact with us, we may collect names, addresses, email addresses, telephone numbers, bank account details for setting up a regular direct debit and, where appropriate, dates of birth and relevant medical information. We do not use cookies to collect this type of information.
 
@@ -64,8 +61,7 @@ If you visit our site anonymously, we may still record information about
 
 We do this by using cookies, which you can learn more about in this document.
 
-##  How we use your information  
-
+##  How we use your information
 
 We will use your information to: 
 
@@ -82,22 +78,19 @@ You can opt out of receiving donation appeal letters, emails or telephone calls 
 
 Please note that if you opt out of receiving specific communications then opt in again in the future, the newest request replaces any previous requests you made to opt out. 
 
-##  Your consent  
-
+##  Your consent
 
 By giving us your personal information, including sensitive personal data like information about your health, you consent to us collecting and using that information in the ways that we describe in this privacy policy.
 
 You also consent to us transferring your information to countries or jurisdictions which may not provide the same level of data protection as the UK, if necessary for any of the above purposes. If we do transfer your information in this way, we will comply with our legal obligations as a data controller under the Data Protection Act 1998 and, if we need to, put in place a contract with the companies we use to process information to ensure your details are properly protected.
 
-##  How we protect your personal information  
-
+##  How we protect your personal information
 
 We take appropriate physical, electronic and managerial measures to ensure that we keep your information secure, accurate and up to date, and that we only keep it as long as is reasonable and necessary.
 
 Although we use appropriate security measures once we have received your personal information, the transmission of information over the internet is never completely secure. We do our best to protect personal information, but we cannot guarantee the security of information transmitted to our website, so any transmission is at the user’s own risk. However, any credit card details we receive on our website are passed securely to WorldPay, our payment processing partner provider, according to the Payment Card Industry Security Standards.
 
-##  Website cookies and how we use them  
-
+##  Website cookies and how we use them
 
 Cookies are small pieces of information that websites send to your computer and store on your hard drive. They are not software – they can’t be programmed or carry computer viruses. Cookies allow us to recognise your computer when you next visit our website, but they don’t tell us who you are. 
 
@@ -114,8 +107,7 @@ We use cookies to
 
 
 
-### Disabling cookies  
-
+### Disabling cookies
 
 You can manually delete old cookies, and stop cookies from being saved on your hard drive in future – find out more on the [All About Cookies website](http://www.allaboutcookies.org/manage-cookies/). However, disabling cookies may stop you from fully using all our website services.
 
@@ -133,8 +125,7 @@ We use cookies on these areas of our website:
 
 
 
-###  On the website generally   
-
+###  On the website generally 
 
 We use Google Analytics to understand how people use our website so we can make it more effective. Google Analytics collects anonymous information about what people do on our website, where they’ve come from, and whether they’ve completed any tasks on the site, for example, signing up to volunteer or donating. Google Analytics tracks this information using cookies and JavaScript code.
 
@@ -142,8 +133,7 @@ We use Google Analytics to understand how people use our website so we can make 
 
 We also use other analytics software to help us make improvements to our website. This sometimes enables us to identify the name of the organisation a visitor has come from, including the pages viewed. This does not use cookies, nor identify individuals within the organisation.
 
-###  When you make a donation  
-
+###  When you make a donation
 
 We use cookies to track how donors come to our site. For example, we use approach codes in our internet addresses (URLs) to show us whether a donation came from
 
@@ -155,40 +145,33 @@ We use cookies to track how donors come to our site. For example, we use approac
 
 If you click a link we’re tracking, a session cookie will be dropped on your machine. This lets us know whether you make a donation within 24 hours.
 
-###  In our ‘in your area’ search box  
-
+###  In our ‘in your area’ search box
 
 Cookies store your postcode after you've entered it in our search box.
 
-###  In email  
-
+###  In email
 
 We use cookies to measure the success of the emails we send – so we know what subject lines and stories people liked the most. Although we receive this information with a person's individual email address, we don’t share this information.
 
-###  In online quizzes  
-
+###  In online quizzes
 
 For example, our primary school first aid resource. We use cookies to store anonymous information about people’s quiz scores.
 
-###  For text size and web page formatting  
-
+###  For text size and web page formatting
 
 If you use stylesheets on our website to specify a particular text size, or high-visibility or low-contrast display, we use cookies to remember these settings for your next visit.
 
-###  In our online shop and online forms  
-
+###  In our online shop and online forms
 
 If you shop with us, we’ll use cookies to remember the items you’ve selected until you check out and buy them. We also use cookies to remember the information you type into our forms, until you finish and submit the form.
 
-###  Your credit card information  
-
+###  Your credit card information
 
 If you use your credit card to donate to us, buy something or make a booking online, we pass your credit card details securely to our payment processing partner, WorldPay, as part of the payment process. We do this in accordance with the [Payment Card Industry Security Standard (PDF download)](https://www.pcisecuritystandards.org/pdfs/pcissc_overview.pdf), and don’t store the details on our website. 
 
 If you apply for a job or volunteering opportunity we will also collect information so we can assess your suitability for the role.
 
-###  Job applicants, and current and former British Red Cross employees  
-
+###  Job applicants, and current and former British Red Cross employees
 
 If you apply to work at the British Red Cross, we will only use the information you give us to process your application and to monitor recruitment statistics. If we want to disclose information to someone outside the British Red Cross - for example, if we need a reference, or need to get a ‘disclosure’ from the Criminal Records Bureau - we will make sure we tell you beforehand, unless we are required to disclose this information by law. 
 
