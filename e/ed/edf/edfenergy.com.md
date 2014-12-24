@@ -1,64 +1,83 @@
-> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608150749id_/http%3A//www.edfenergy.com/products-services/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224031117id_/http%3A//www.edfenergy.com/terms-conditions/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy Policy for www.edfenergy.com (the “Website”)
+# Privacy and Cookie Policy | EDF Energy
 
-The privacy of your personal data is important to EDF Energy.
+## Privacy and Cookie Policy for www.edfenergy.com (the Website)
 
-We are dedicated to safeguarding and preserving your privacy when you are visiting our site or communicating electronically with us.
+ **Last updated: 8 August 2014**
 
-This Privacy Policy (in conjunction with our general [Website Terms and Conditions](https://web.archive.org/products-services/terms-conditions.shtml) and any supplementary terms and conditions that can be found on, and may apply to, specific parts of the Website) explains what happens to any personal data that you provide to us, or that we collect from you.
+This Privacy and Cookie Policy tells you how we will use information provided by you or collected about you when you use the Website (which includes, but is not limited to, MyAccount and MyCampus). It also explains what cookies we use on this Website.
 
-We do update this Privacy Policy from time to time so please review it regularly.
+ **Please read this Privacy and Cookie Policy carefully before you use the Website. It is a legally binding agreement and contains important information on your legal rights and obligations.**
 
-**Information We Collect  
-**In operating the Website we may collect and process the following data about you:  
-i. details of your visits to the Website and the resources that you access;  
-ii. information that you provide by filling in forms on the Website, such as when you register for information or make a purchase; or  
-iii. information provided to us when you communicate with us for any reason.  
+ **By using this Website you accept this Privacy and Cookie Policy and agree to abide by it.**
 
+Expressions used but not defined in this Privacy and Cookie Policy will have the meanings set out in the [Website Terms](https://web.archive.org/terms-conditions) of which this Privacy and Cookie Policy forms a part.
 
-**Financial Information We Store  
-**Where provided by you, we store the last 4 digits of your debit/credit cards for identification purposes only.  Where you have elected to pay by Direct Debit, your bank name, sort code and your bank account number are also held.  
+### Changes to this Privacy and Cookie Policy
 
+We may revise and update this Privacy and Cookie Policy at any time and will indicate at the top of this page when this Privacy and Cookie Policy was last revised. Please periodically review the Privacy and Cookie Policy, as your continued use of the Website indicates your agreement with any changes that we make.
 
-**Use of Cookies  
-**On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our Website to our advertisers. This statistical data does not identify any personal details whatsoever.
+### Information We Collect
 
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve the Website and the service that we provide to you.
+We collect certain personal information about you when you visit and/or register on the Website. For example:
 
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of the Website.
-
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on the Website.
-
-**Use of Your Information  
-**The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:  
-i. to provide you with information requested from us, relating to our products or services;  
-ii. to provide information on other products which we feel may be of interest to you, where you have consented to receive such information;  
-iii. to meet our contractual commitments to you;  
-iv. to notify you about any changes to our Website, such as improvements or service/product changes, that may affect our service.
-
-If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
-
-**Storing Your Personal Data  
-**Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure their safety.
-
-The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically. Transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
-
-**Disclosing Your Information  
-**Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).
-
-We may also disclose your personal information to third parties if:  
-i. we sell any or all of our business and/or our assets to a third party;  
-ii. we are legally required to disclose your information; and/or  
-iii. to assist fraud protection and minimise credit risk.
-
-**Third Party Links  
-**You may find links to third party websites on our Website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.  
+  * when you insert information into the Website when you register on the Website or otherwise; and
+  * when you visit the Website we will track your use of the Website by using cookies. Please see the section entitled "edfenergy.com Cookies" below.  
+ 
 
 
-**Access To Information  
-**The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 at our discretion which covers the cost to us of providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.  
+
+We may collect and process information provided by you (whether manually, using cookies or otherwise).
+
+### Use and Storage of Your Information
+
+This section explains how we will use your personal information. We may use the personal information you provide to us via the Website for the purposes of:
+
+  * hosting, administering, improving the Website or the services we offer via the Website;
+  * providing you with the information your request from us and keeping a record of the information with which you have been provided;
+  * to notify you about any changes to our Website, such as improvements or service/product changes, that may affect the Website service;
+  * asking you to participate in surveys and feedback relating to the Website and for processing and analysing the results of that survey or feedback internally;
+  * exercising our rights and performing our obligations under the Website Terms [Link] or under your energy supply contract with us;
+  * providing you with information about any services we or third parties provide that we believe may be of interest to you;
+  * for other purposes clearly stated on the page or other method in which you provide your information to us; and
+  * as necessary for you to enjoy the benefits associated with use of the Website
 
 
-**Contacting Us  
-**We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us using the [Contact Us](https://web.archive.org/contact-us/index.shtml) facility on this Website or by logging into MyAccount, your personal energy account service.
+
+### Transmission of Personal Data
+
+We cannot guarantee the security of data sent to us electronically and you agree that the transmission of such data is at your risk.
+
+### Sharing of Your Information
+
+We may share your personal information with third parties in the following ways:
+
+  * we may use third parties to process personal information on our behalf. (For example, we may use a third party to provide website or mobile application hosting services or to facilitate the provision of information to you or to provide services on our behalf);
+  * we may share your personal information with third parties who may contact you directly in relation to goods or services which may be of interest to you;
+  * we will release your personal information when we are required to do so for legal or regulatory purposes or as part of legal proceedings or to assist fraud protection and minimise credit risk;
+  * we may disclose your identity and contact details to a third party who is claiming that any Content posted/uploaded by you is a violation of their rights or who has otherwise been harmed by you in relation to your use of the Website. You will provide us with all relevant information relating to that claim without delay;
+  * we will release your personal information to others when you have given your consent to that release; and/or
+  * we may give personal information we hold about you to third parties as part of the process of selling our business; and/or
+  * in some circumstances, we may transfer your personal information to countries outside of the European Economic Area. If this occurs we will take steps to ensure that adequate measures are taken to protect your personal information.
+
+
+
+### edfenergy.com Cookies
+
+This section tells you how we use cookies and how you can manage them
+
+ **What are cookies?**  
+Cookies are small text files that are stored on your computer by your web browser. We use them to identify how visitors arrive at our site and the subsequent path they take through it. This helps us to improve our service to you.
+
+EDF Energy does not use cookies to collect or store Personally Identifiable Information (PII).
+
+ **How to control the use of cookies**  
+If you wish to restrict or block cookies set by this Website, or any other website, you can do this through your browser settings. The "Help" function within your browser should give details of how to do this. Alternatively, you can find more details on how to control or delete cookies at www.allaboutcookies.org/
+
+Please note that you may not be able to use many of the services on our Website or other websites without cookies.
+
+ **How edfenergy.com uses cookies**  
+Our website currently uses cookies and some of our third party suppliers use our Website to set cookies on our behalf for internet marketing and performance optimisation.
+
+While on this Website your web browser may interact with content from different servers and therefore cookies from other sources may be set on your computer during a visit to this site.
