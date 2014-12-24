@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azalead.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625140423id_/http%3A//azalead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azalead.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224072513id_/http%3A//azalead.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Azalead - Sales Acceleration Software
+# Privacy - Azalead - Sales Acceleration Software
 
 ## **Privacy Statement**
 
@@ -152,7 +152,7 @@ Azalead offers Visitors and Customers who provide contact information a means to
 
 ### **8\. Correcting and updating your information**
 
-Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to http://www.azalead.com with your Azalead username and password and click “Setup.”. To update Billing Information or have your registration information deleted, please email support@azalead.com. To discontinue your account and to have information you maintained in the Services returned to you, please email support@azalead.com.  Requests to access, change, or delete your information will be handled within 30 days.
+Customers may update or change their registration information by editing their user or organization record. To update a user profile, please login to http://azalead.com with your Azalead username and password and click “Setup.”. To update Billing Information or have your registration information deleted, please email support@azalead.com. To discontinue your account and to have information you maintained in the Services returned to you, please email support@azalead.com.  Requests to access, change, or delete your information will be handled within 30 days.
 
 ### **9\. Customer Data**
 
