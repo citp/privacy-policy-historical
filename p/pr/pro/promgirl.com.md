@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330181831id_/http%3A//www.promgirl.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224225408id_/http%3A//www.promgirl.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# PromGirl Privacy Policy
 
 Due to the nature of our website and in an effort to improve your shopping experience, PromGirl does collect personally identifiable information as well as log aggregate shopping information.We recognize we must maintain and use customer information responsibly. **We respect your privacy and will never sell your information to third parties.**
 
@@ -29,3 +29,9 @@ A web tracking cookie is a bit of electronic information that a website or web b
 PromGirl.com uses cookies to help keep track of the products you add to your wishlist and your cart so that we can provide a more convenient shopping experience. Please be assured that we do not use cookies to track any information about other sites you may visit or to collect any additional personal information.
 
 Although most browsers automatically accept cookies, you can usually change your web browser’s preferences to block cookies or notify you whenever you are sent a cookie.
+
+\- PromGirl.com uses Remarketing with Google Analytics to advertise online.
+
+\- Third-party vendors, including Google, may show PromGirl.com ads on sites across the Internet.
+
+\- PromGirl.com and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.
