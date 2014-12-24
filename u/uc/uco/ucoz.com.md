@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucoz.com privacy policy that was archived on 2012-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120403174129id_/http%3A//www.ucoz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucoz.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224232916id_/http%3A//www.ucoz.com/privacy) for the most accurate reproduction.*
 
-# uCoz - Privacy Policy
+# uCoz - Login to the System
 
   
 This site is owned and operated by uCoz Company. Your privacy on the Internet is of the utmost importance to us, because we want to make your experience online satisfying and safe. 
@@ -65,6 +65,10 @@ All payment procedures of uCoz operate on secure data networks protected by indu
 **No Spyware / Adware**
 
 We have a strict policy against spyware and adware and apply this to all uCoz users as well. Any activity of such a kind leads to immediate termination of the account without any notice.
+
+**Refund Policy**
+
+uCoz has a 30-day refund period. Refund can be requested at any time during subscription period, except for the first month from it's activation date (the moment of first payment). Refund can be done only for period that was not used by user, starting from 1st day of the next month following after refund request (e.g. if refund was requested on May 12th, in that case the period starting from June 1st will be refunded). The request shall include a significant reason for the refund. All requests would be processed and solved individually depending on the arguments provided. If you think that you shall be refunded, please contact us
 
 **Your Consent**
 
