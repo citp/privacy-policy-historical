@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beauty-tips.net privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613030843id_/http%3A//www.beauty-tips.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beauty-tips.net privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225130513id_/http%3A//www.beauty-tips.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Beauty-Tips.net
+# Privacy Policy - Beauty-Tips.net
 
 ## Privacy Policy for Beauty-Tips.net
 
