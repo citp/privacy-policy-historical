@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the definebabe.com privacy policy that was archived on 2013-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130731213844id_/http%3A//www.definebabe.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definebabe.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225143225id_/http%3A//www.definebabe.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the web site of Rich Media SoIutions Inc.
+This is the web site of Tokyo Group Inc.
 
 We can be reached via e-mail at .
 
