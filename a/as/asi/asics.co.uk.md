@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623185747id_/http%3A//www.asics.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asics.co.uk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225101926id_/http%3A//www.asics.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | asics.co.uk
 
@@ -91,7 +91,7 @@ ASICS will ensure that your personal data are properly secured, so that they are
 
 ### Access and correction rights
 
-You can request access to, and have the opportunity to update and amend your personal data, and you can exercise any other rights you enjoy under applicable data protection laws, including, for example, objection to the processing of your personal data, by contacting the Digital Communications team at [digitalcomms@eu.asics.com](mailto:digitalcomms@eu.asics.com). For security reasons, we reserve the right to take steps to authenticate your identity before providing access to your personal data. Subject to applicable law, we may charge you a small fee to access your personal data.
+You can request access to, and have the opportunity to update and amend your personal data, and you can exercise any other rights you enjoy under applicable data protection laws, including, for example, objection to the processing of your personal data, by contacting the Digital Communications team at [digitalcomms@asics.com](mailto:digitalcomms@asics.com). For security reasons, we reserve the right to take steps to authenticate your identity before providing access to your personal data. Subject to applicable law, we may charge you a small fee to access your personal data.
 
 ### If You Are Under 16 Years of Age
 
@@ -105,4 +105,4 @@ We may change this privacy policy from time to time by posting the updated versi
 
 ### Privacy query
 
-If you have any questions regarding this policy, or you wish to update your details or remove your personal data from our records, please inform us [digitalcomms@eu.asics.com](mailto:digitalcomms@eu.asics.com)
+If you have any questions regarding this policy, or you wish to update your details or remove your personal data from our records, please inform us [digitalcomms@asics.com](mailto:digitalcomms@asics.com)
