@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveu.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073030id_/http%3A//www.liveu.tv/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveu.tv privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225073051id_/http%3A//www.liveu.tv/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LiveU
 
@@ -19,7 +19,7 @@ If you submit Personal Information to us through the Site, then we will use your
 
 We may transfer your Personal Information within LiveU or to LiveU's third-party service providers, but only to provide services on the Site or to you. This information may be transferred to other countries.
 
-We may also use your email address to send updates, news, or other information regarding our services. You may choose not to receive email of this type by sending a single email from the same account with the subject "BLOCK" to [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy57480%20=%20'privacy'%20+%20'@';%20addy57480%20=%20addy57480%20+%20'LiveU'%20+%20'.'%20+%20'tv';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy57480%20+%20'\\'%3E'\);%20document.write\(addy57480\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[privacy@LiveU.tv](mailto:privacy@LiveU.tv).
+We may also use your email address to send updates, news, or other information regarding our services. You may choose not to receive email of this type by sending a single email from the same account with the subject "BLOCK" to [privacy@LiveU.tv.](mailto:privacy@LiveU.tv.)
 
 We may disclose your Personal Information or any information you submitted via the Site and its services if we have a good faith belief that disclosure of such information is helpful or reasonably necessary to (i) comply with any applicable law, regulation, legal process or governmental request, (ii) enforce our Terms of Use including investigations of potential violations thereof, (iii) detect, prevent, or otherwise address fraud or security issues, or (iv) protect against harm to the rights, property or safety of LiveU, its users, yourself or the public.
 
@@ -54,7 +54,7 @@ In the event that LiveU is acquired by or merged with a third party entity, we r
 
 Commitment
 
-Protecting your privacy online is an evolving area, and LiveU's Sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at [](mailto:%3Cscript%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'ma'%20+%20'il'%20+%20'to';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy36310%20=%20'privacy'%20+%20'@';%20addy36310%20=%20addy36310%20+%20'LiveU'%20+%20'.'%20+%20'tv';%20document.write\('%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20':'%20+%20addy36310%20+%20'\\'%3E'\);%20document.write\(addy36310\);%20document.write\('%3C\\/a%3E'\);%20//--%3E\\n%20%3C/script%3E%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3Cspan%20style=\\'display:%20none;\\'%3E'\);%20//--%3E%20%3C/script%3EThis%20email%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it.%20%3Cscript%20type='text/javascript'%3E%20%3C!--%20document.write\('%3C/'\);%20document.write\('span%3E'\);%20//--%3E%20%3C/script%3E.)[privacy@LiveU.tv](mailto:privacy@LiveU.tv). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
+Protecting your privacy online is an evolving area, and LiveU's Sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at [privacy@LiveU.tv.](mailto:privacy@LiveU.tv.) While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
 Your Consent
 
