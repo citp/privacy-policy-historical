@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the television-world.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213064135id_/http%3A//television-world.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the television-world.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225092430id_/http%3A//www.television-world.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Television World
 
