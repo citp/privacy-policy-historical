@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaust.edu.sa privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622173236id_/http%3A//www.kaust.edu.sa/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaust.edu.sa privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225101353id_/http%3A//kaust.edu.sa/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | King Abdullah University of Science and Technology (KAUST)
 
