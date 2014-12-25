@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the universityrooms.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329020134id_/http%3A//www.travelbookingnetwork.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universityrooms.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225030145id_/http%3A//www.speedybooker.com/privacy.aspx) for the most accurate reproduction.*
 
-# Travel Booking Network: bookings for everyone
+# SpeedyBooker.com: bookings for everyone
 
 **Privacy Policy**
 
-This site is powered by TravelBookingNetwork, part of SpeedyBooker.com Ltd ( **We, Us, Our** ), which is committed to preserving the privacy of all visitors to Our websites and partner websites. By making a booking through this website, You consent to the collection, use and transfer of Your information under the terms of this policy.
+This site is powered by SpeedyBooker, part of SpeedyBooker.com Ltd ( **We, Us, Our** ), which is committed to preserving the privacy of all visitors to Our websites and partner websites. By making a booking through this website, You consent to the collection, use and transfer of Your information under the terms of this policy.
 
 **Information that we collect from you:**
 
@@ -14,11 +14,11 @@ This site is powered by TravelBookingNetwork, part of SpeedyBooker.com Ltd ( **W
 **Use of your Information:**
 
 \- Your information will enable Us, Our partner websites and Our properties to supply the goods or services You have requested. It will also enable Us to bill You and Our properties to contact You where necessary concerning Your orders. We will also use and analyse the information We collect so that We can administer, support, improve and develop Our business.   
-\- We may use Your information to contact You for Your views on Our services and to notify You occasionally about important changes or developments to the website or Our services. Further, where You have consented, and in the case of a TravelBookingNetwork partner website, the owner of the website You book through, might also use your information to let You know by email about products and services which We offer which may be of interest to you. If You change Your mind about being contacted in the future, You will be able to Unsubscribe.
+\- We may use Your information to contact You for Your views on Our services and to notify You occasionally about important changes or developments to the website or Our services. Further, where You have consented, and in the case of a SpeedyBooker partner website, the owner of the website You book through, might also use your information to let You know by email about products and services which We offer which may be of interest to you. If You change Your mind about being contacted in the future, You will be able to Unsubscribe.
 
 **Disclosure of your Information:**
 
-\- The information you provide to Us may be accessed by Us, the property or tour which You book with, parties who process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf and, in the case of a TravelBookingNetwork partnership, the owner of the website You book through.  
+\- The information you provide to Us may be accessed by Us, the property or tour which You book with, parties who process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf and, in the case of a SpeedyBooker partnership, the owner of the website You book through.  
 \- Some of these parties may be located outside the European Economic Area who act for Us for the purposes set out in this policy or for other purposes approved by You.  
 \- We will not pass Your information to any other third parties.  
 \- We will not retain nor have access to any of Your credit or debit card information.  
