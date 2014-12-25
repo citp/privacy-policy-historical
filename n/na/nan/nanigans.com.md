@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234736id_/http%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanigans.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225194045id_/http%3A//www.nanigans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nanigans – Advertising Automation Software
 
