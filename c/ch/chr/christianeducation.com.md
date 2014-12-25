@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianeducation.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512051225id_/http%3A//www.christianeducation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianeducation.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226002427id_/http%3A//www.christianeducation.com/privacy) for the most accurate reproduction.*
 
 # Frequently Asked Questions About ChristianEducation.com | ChristianEducation.com
 
