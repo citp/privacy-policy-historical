@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sparklette.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625151105id_/http%3A//sparklette.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklette.net privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225071913id_/http%3A//sparklette.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Sparklette MagazineSparklette Magazine
+# Privacy Policy - Sparklette MagazineSparklette Magazine
 
 Effective Date: October 31, 2009
 
@@ -44,9 +44,9 @@ Google, as a third party vendor, uses cookies to serve ads on Sparklette. Google
 
 **Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our website. Our advertising partners include:  
-\- Google AdSense  
-\- Blogads  
-\- ContextWeb
+– Google AdSense  
+– Blogads  
+– ContextWeb
 
 These third-party ad servers or ad networks send the advertisements and links that appear on Sparklette directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or web beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalise the advertising content that you see.
 
