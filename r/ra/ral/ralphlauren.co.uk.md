@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ralphlauren.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628223931id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphlauren.co.uk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225191513id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dfooter_privacypolicy%23policies) for the most accurate reproduction.*
 
 # Help Desk
 
@@ -98,15 +98,15 @@ We offer visitors to this website various features for their information and enj
 
 We obtain certain information by automated means when you visit our website, such as the IP address of the device you use to connect to the Internet and the pages accessed. By collecting this information, we learn how to best tailor our website to our visitors and understand what products and services you might prefer. We collect this information through various means, such as “cookies” and “web beacons.”
 
-##### Cookies
+##### Cookies & Web Beacons 
 
 Like many companies, we use “cookies” on this website. Cookies are bits of text that are placed on your computer’s hard drive when you visit certain websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies, for example, to preserve the contents of your virtual shopping bag between visits. We also use cookies to measure activity on the site and determine which areas and features of the site are the most popular.
 
-Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Without cookies, however, you may not be able to take full advantage of all our site features. For example, if you turn off cookies or refuse them, you will not be able to make purchases on the site.
+Certain pages on this website contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). Web beacons are used for internal purposes, such as to obtain the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page. We also retain service providers who use web beacons to assess the effectiveness of our email communications and learn what pages our visitors viewed.
 
-##### Web Beacons
+We may use Omniture (www.omniture.com) to measure the effectiveness of our advertising and determine how visitors use this website. Omniture tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors' computers. To opt out of aggregation and analysis of data collected by Omniture, please click here.
 
-Certain pages on this website contain “web beacons” (also known as Internet tags, pixel tags and clear GIFs). Web beacons are used for internal purposes, such as to obtain the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page. We also retain service providers who use web beacons to assess the effectiveness of our email communications and learn what pages our visitors viewed.
+To find out more about the way we use cookies, web beacons and similar technologies how to manage your settings and preferences, please visit our [Cookie Policy](http://www.ralphlauren.co.uk/helpdesk/index.jsp?display=secure&subdisplay=cookies).
 
 We may use Omniture (www.omniture.com) to measure the effectiveness of our advertising and determine how visitors use this website. Omniture tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors’ computers. To opt out of aggregation and analysis of data collected by Omniture, please click [here](http://www.omniture.com/en/privacy/product).
 
@@ -192,7 +192,7 @@ For purposes of this Policy:
 
 “Sensitive Information” means Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, sex life, the commission or alleged commission of any offense, any proceedings for any offence committed or alleged to have been committed by the individual or the disposal of such proceedings, or the sentence of any court in such proceedings.
 
-“Sites” means RalphLauren.com and the websites and mobile applications listed [here](https://web.archive.org/web/20140628223931id_/http%3A//www.ralphlauren.co.uk/helpdesk/popup.jsp?display=payment&subdisplay=site).
+“Sites” means RalphLauren.com and the websites and mobile applications listed [here](https://web.archive.org/web/20141225191513id_/http%3A//www.ralphlauren.co.uk/helpdesk/popup.jsp?display=payment&subdisplay=site).
 
 “Stores” means the stores operated by Ralph Lauren or any of its affiliates, which stores are located in the EEA or Switzerland.
 
@@ -206,7 +206,7 @@ Ralph Lauren's practices regarding the collection, storage, transfer, use and ot
 
 We notify our Customers and Workers located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Workers (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information.
 
-Job applicants who submit Personal Information through our careers site may view our [Careers Privacy Policy ](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers) for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by [clicking here](https://web.archive.org/web/20140628223931id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies).
+Job applicants who submit Personal Information through our careers site may view our [Careers Privacy Policy ](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers) for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by [clicking here](https://web.archive.org/web/20141225191513id_/http%3A//www.ralphlauren.co.uk/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies).
 
 ### Purpose of Collection and Use of Personal Information
 
