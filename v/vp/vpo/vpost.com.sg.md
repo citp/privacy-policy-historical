@@ -1,148 +1,236 @@
-> *The following text is extracted and transformed from the vpost.com.sg privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506122824id_/https%3A//www.vpost.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpost.com.sg privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225230412id_/http%3A//www.vpost.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | vPost
 
-Welcome to vPost privacy policy. Your privacy is very important to us. Please read the terms of this privacy policy before becoming a vPost member. As part of the normal operation of our services we collect, use and, in some cases, disclose information about you to third parties.
+**SINGPOST GROUP PRIVACY POLICY**
 
-This privacy policy governs the information we collect about you. By accepting this privacy policy and the user agreement, you expressly consent to our use and disclosure of your personal information in the manner prescribed in this privacy policy. This privacy policy is incorporated into and subject to the terms of the vPost user agreement.
+This is the Privacy Policy (“ **Policy** ”) of Singapore Post Limited (“SingPost”) and its subsidiaries (collectively the “ **SingPost Group** ”).
 
-Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make an informed decision. The privacy practices of this notice apply to the website located at [http://www.vpost.com](http://vpost.com/) (the "Site") and apply to the following Services:
+You have been directed to this Policy because a company within the SingPost Group is collecting, using or disclosing your personal data.
 
-  * vPostUSA
-  * vPostJAPAN
-  * vPostEUROPE
-  * vPostCHINA
-  * vShop4U
+In this Policy, when we use “we”, “us” or “our”, we refer to the company (within the SingPost Group) which is collecting your personal data, or which is operating the website which you are accessing or using.
 
-
-
-We strive to provide a consistent set of privacy practices throughout our global vPost trading community.
+This Policy applies to all personal data that you may provide to us and the personal data we hold about you. By providing us with your personal data or by accessing, using or viewing the applicable website or any of its services, functions or contents (including transmitting, caching or storing of any such personal data), you shall be deemed to have agreed to each and all the terms, conditions, and notices in this Policy. If you do not agree, please cease use of the relevant website(s) and/or service(s) and DO NOT provide any personal data to us.
 
 Questions regarding this statement should be directed to vPost by sending email to vPost at the email account as supported by the various services.
 
 This privacy policy contains a number of references to other information pages on our site and other websites. vPost strongly recommends that as you read this privacy policy, you click on such links to obtain further important details about the privacy policy, as they may contain further terms and conditions which apply to you as an vPost member.
 
-Table of Contents
+**1\. What personal data is collected**
 
-  1. An important note about children
+1.1 When you use our website, any service we provide or in your interaction with us, the personal data we may collect includes:
 
-  2. Information we collect 
+(a) **Data collected directly from you.** This may be done through this website, over the phone, by email, or in person when you meet our staff or representatives. The data collected may include, but is not limited to:
 
-  3. Our use of your information
+  * your contact information, including your (first and last) name, (billing and/or delivery) address, birthdate and email address and, optionally, your telephone number. We need your e-mail address and (optionally) telephone number so that we may contact you if we have questions or information for you regarding your order or the service that we are providing or will provide to you;
+  
 
-  4. Our disclosure of your information
+  * other information required to be able to process your order or to provide you with the service, such as information concerning the products you have ordered or the service we are providing to you, the billing and/or delivery address, banking and/or credit card details;
+  
 
-    * Advertisers
+  * if you have created an online profile or account, the preferences and interests stored in such profile or account (please see below for further information concerning the profiles); and
+  
 
-    * vPost community
-
-    * [External service providers](http://www.vpost.com.sg/vPost/welcome?page=inc_privacy.html&option=3#external_sps)
-
-    * Other corporate entities
-
-    * Legal requests
-
-  5. Your use of other users' information
-
-  6. Control of  your password
-
-  7. Accessing, reviewing and changing your personal information
-
-  8. Other information collectors
-
-  9. Security - secure socket layer (SSL) encryption
-
-  10. Notice
+  * if you have contacted customer service, the details of this contact and the contact history.
 
 
 
+(b) **Data collected by automated means.** Various technologies may be used on our website and our mobile and web-based applications in order to make them more user-friendly, effective and secure. Such technologies may lead to data being collected automatically by us or by third parties on behalf of us. This data does not generally, but may, contain a user’s personal data. Examples of such technologies include:   
 
-​
 
-1\. An important note about children
+  * **Click-stream data.** A visit to one of our websites results in data that is transmitted from your browser to our server being automatically collected and stored by us or by third parties on behalf of us. This data can include, in particular, the following:
 
-Children (persons under the age of 15 years) are not eligible to become a vPost member and use our services. We ask that children do not submit any personal information to us.
+\- the visitor’s IP address  
+\- the date and time of the visit  
+\- the referral URL (the site from which the visitor has come)  
+\- the pages visited on our website  
+\- information about the browser used (browser type and version, operating system, etc).
 
-2\. Information we collect
 
-Our primary purpose in collecting personal information is to provide you with a smooth, efficient, safer and customised trading experience. This allows us to provide services and features that most likely meet your needs, and to customise our services to make your experience safer and easier. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal.
+  
 
-To fully use our services, you will need to register using our online registration form, where you will be required to provide us with your contact information and other personal information. You are also required to provide us with a User ID and Password. We use your financial information, including credit card information to verify your name, address, and other contact information, as well as to bill you for your use of our services.
 
-We automatically track certain information about you based upon your usage of our Site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand and serve you and our community. This information is compiled and analysed on an aggregated basis. The information shall not contain anything that is personably identifiable about you. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), what browser you are using, and your IP address.
+  * **Cookies.** A number of places on our website and our mobile and web-based applications make use of cookies. These are essentially small text files that are stored on your computer’s hard drive or your user device by your web browser. We can use cookies to identify the owner of a user account and to store articles in a shopping basket during the purchasing process. In other words, cookies help to make our website or our (mobile and web-based) applications more user-friendly, more effective and more secure. The cookies usually used by us are so-called “session cookies”, which are automatically deleted at the end of the visit to the relevant website. By default, web browsers enable the use of cookies but this function can also be disabled. However, this will result in some services not being available. It is also possible to manually delete cookies after their use via the web browser. More information may be available from your web browser provider.
+  
 
-You may encounter "cookies" or other similar devices on certain pages of our Site that are placed by third parties. We do not control the use of cookies by third parties.
+  * **Flash cookies.** A particular form of cookie is the flash cookie. In contrast to normal cookies, these cookies are not created and saved by the web browser but are governed by the Adobe Flash plug-in. These can contain more information than normal cookies and cannot be deleted or disabled via the browser; this is only possible if you follow instructions available from the Adobe Flash Player website. You can also obtain more information about these cookies on that website.
+  
+**Web beacons and tracking links.** Web beacons (also known as pixel tags and clear GIFs) involve graphics that are not apparent to the user. Tracking links and/or similar technologies consist of a few lines of programming code and can be embedded in our website or our (mobile) applications. In conjunction with cookies, these are primarily used for statistical analysis purposes. This technology can also be used for tracking traffic patterns on websites, as well as finding out if an e-mail has been received and opened and to see if there has been any response. 
+  * **Web analytics.** Web analytics is the term given to a method for collecting and assessing the behaviour of visitors to websites and (mobile) applications. This includes the analysis of traffic patterns in order, for example, to determine the frequency of visits to certain parts of a website or (mobile) application, or to find out what information and services our visitors are most interested in. For these purposes, we primarily make use of click-stream data and the other techniques listed above. Web analytics are carried out by Google Analytics and/or other selected parties. You can find out more information about the processing of web analytics data by Google Analytics in paragraph 7 below.
 
-If you send us correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
 
-If you register for vPost on another web site or use a web site providing a service for vPost or a web site that helps facilitate your activity on vPost, that web site may provide personal information about you and your transactions back to vPost.
 
-3\. Our use of your information
+**2\. How is the collected personal data used**
 
-We use personal information about you (including but not limited to the information in the file we maintain about you, and other information we obtain from your current and past activities on the Site) to resolve disputes, troubleshoot problems, help ensure safe trading on our Site, and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your information to identify users using multiple User IDs or aliases.
+2.1. We use your personal data for the purposes of serving you. This includes, where applicable:
 
-You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyse Site usage, to improve our content and product offerings and customise our Site's content, layout, and services. These uses improve our Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safer and customised experience while using our services.
+  * providing you with the products and services that you have requested e.g. notifying you regarding the status of your order or delivery, assessment of your creditworthiness (for which we may use third parties);
+  
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and privacy policy you expressly agree to receive this information.
+  * contacting you for feedback after a sale of a product or service; and
+  
 
-4\. Our disclosure of your information
+  * resolving any problems or disputes you may encounter in relation to our products and services.
 
-Although vPost uses industry standard practices to protect your personal information, due to technical limitations, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this privacy policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances (further details of which are set out below in the "legal requests" section), or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we cannot and do not guarantee, and you should not expect, that your personal information or private communications will always remain private.
 
-As a matter of policy, we do not sell or rent any personal information about you to any third party. However, the following describes some of the ways that your personal information may be disclosed, and by agreeing to the user agreement and privacy policy you expressly agree that your personal information may be disclosed by vPost in the following ways:
 
-Advertisers. We aggregate (gather up data across all user accounts) personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address and password are never disclosed to advertisers.
+2.2. We may also use your personal data for purposes connected or relevant to the business of the SingPost Group, such as: 
 
-vPost community. Throughout the Site, you are identified by your User ID. If you select your email address as your User ID you will disclose your email address to other users and third parties. As a result, other users and third parties might send you unsolicited email and be able to personally identify all of your activities on the Site. We describe how to change your User ID. Even if your User ID is not your email address, your User ID can be used to identify you and your activities throughout the Site. 
+  * complying with legal and regulatory obligations and requirements;
+  
 
-Other corporate entities. We share much of our data, including personal information about you, with our subsidiaries and joint ventures that are committed to serving your online trading needs and related services, throughout the world, as allowed by applicable law. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their members and users. Our subsidiaries and joint ventures follow privacy practices no less protective of all users than our practices described in this privacy policy, to the extent allowed by applicable law. It is possible that vPost, its subsidiaries, its joint ventures, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that vPost would share some or all of your information in order to continue to provide the service. You will receive notice of such event (to the extent it occurs) and we will require that the new combined entity follow the practices disclosed in this privacy policy. 
+  * enforcing obligations owed to the SingPost Group;
+  
 
-Legal requests. vPost may lawfully disclose your personal information for law enforcement or regulatory purposes. vPost cooperates with law enforcement inquires and other third parties to enforce laws, intellectual property and other rights. We can (and you authorise us to) disclose any information about you to law enforcement or other governmental officials as we, in our sole discretion, believe necessary, appropriate or as otherwise permitted under applicable laws, in connection with an investigation of fraud, intellectual property infringements, piracy or other activity that is illegal or may expose us to legal liability. Further, we can (and by becoming an vPost member you authorise us to) disclose your UserID, name, street address, city, state, post code, country, phone number, email and company as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringement, piracy or other activity that may expose us to legal liability or as otherwise permitted under applicable laws.
+  * researching and developing new products and services or improving existing products and services of the SingPost Group;
+  
 
- 5\. Your use of other users' information
+  * accounting, risk management, compliance and record keeping purposes;
+  
 
-By entering into our user agreement, you agree to respect to other users' personal information that you obtain through the Site or through a vPost-related communication or vPost-facilitated transaction.
+  * carrying out research, planning and statistical analysis; and
+  
 
-In addition, under no circumstances will you disclose personal information about another user to any third party without our consent and the consent of such other user after adequate disclosure. Note that law enforcement personnel and other rights holders are given different rights with respect to information they access.
+  * staff training.
 
-We and our users do not tolerate spam.
+  
+2.3. Your personal data may also be anonymised for use by the SingPost Group for other purposes. 
 
-6\. Control of your password
+2.4. If you have consented, your personal data may be used by the SingPost Group for the purposes of marketing products and services offered on the website or other products or services offered by the SingPost Group or those of its strategic partners or business affiliates e.g. informing you of latest activities, special offers, promotions or sending you newsletters. 
 
-You are responsible for all actions taken with your User ID and password, including fees. Therefore we do not recommend that you disclose your vPost password to any third parties. If you choose to share your User ID and password or your information with third parties to provide you additional services, you agree that you are responsible for all actions taken with your User ID and password and therefore you should review that third party's privacy policy. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password and notify vPost .
+2.5. If you have contacted us with any complaints, feedback, comments, suggestions, we will use and disclose your personal data (including your contact history) to respond to you and provide you with the best service possible. If you are the complainant and you do not want us to disclose your identity to the party you are complaining about, you must let us know immediately. However, it may not always be possible to handle your complaint on the basis of anonymity.
 
-7\. Accessing, reviewing and changing your personal information
+2.6. When using your personal data to contact you for the above purposes, we may contact you via regular mail, fax, e-mail, SMS, telephone or any other electronic means.
 
-Following registration, you can review and change the information you submitted during registration including:
+2.7. If we need to use your personal data for any other purposes, we will notify you and obtain your consent beforehand. You will be given the opportunity to withhold or withdraw your consent for the use of your personal data for these other purposes.
 
-Your User ID and email address if you change your User ID we may keep track of your old User ID(s) and your new User ID.
+**3\. Disclosure of information**
 
-Your registration information such as: name, company, address, city, state, post code, country, primary phone number, secondary phone number, fax number and gender.
+3.1. We will not sell your personal data to third parties.
 
-Your password (if you have supplied such information).
+3.2. We will only disclose your personal data to third parties where you have provided us consent, and in the situations expressly set out in in this Policy. If you have consented to receiving marketing information from us, our strategic partners and business associates, we will be disclosing your personal data to them. 
 
-Your credit card number and expiration date, and other financial information.
+3.3. Your personal data may be disclosed and shared within the SingPost Group to allow us to provide the products and services which you have requested. 
 
-Upon your request, we will deactivate your account, contact information, and financial information from our active databases. To make this request, please email to vPost. Such information will be deactivated as soon as reasonably possible in accordance with our deactivation policy and applicable law.
+3.4. We may disclose or share your personal data with third parties (including other companies within the SingPost Group) who provide necessary services to us, such as: 
 
-We will retain in our files information you have requested to remove in some circumstances, such as to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, and enforce our user agreement, and to comply with legal requirements. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such information will be deactivated from public viewing and usage by other members of vPost and will only be available to select vPost personnel.
+  * service providers and data processors working on our behalf and providing services such as hosting and maintenance services, analysis services, e-mail messaging services, delivery services, handling of payment transactions, solvency check and address check, etc; and
+  
 
-8\. Other information collectors
+  * our consultants and professional advisers (such as accountants, lawyers, auditors).
 
-Except as otherwise expressly discussed in this privacy policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are buyers on our site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since vPost does not control the privacy policies of third parties, you are subject to the privacy policies of that third party. We encourage you to ask questions before you disclose your personal information to others.
 
-9\. Security - Secure Socket Layer (SSL) Encryption
 
-We use industry standard efforts to safeguard the confidentiality of your personal information, such as firewalls and Secure Socket Layers (SSL).
+3.5. We will also disclose your personal data to third parties in order to comply with legal obligations or industry requirements. This includes disclosures to legal, regulatory, governmental, tax and law enforcement authorities. 
 
-vPost is committed to protecting the confidentiality and integrity of personal information you submit. Our secure server encrypts all personal information (including name, address and contact details) so that it cannot be read as the information travels over the Internet.
+3.6. Our website may have the functionalities to allow you to share your personal data with other third parties such as other users of our website. You are responsible for your choice(s) and are deemed to have provided consent for any sharing of your personal data in the manner provided by the website. 
 
-SSL protocol is used to safeguard your sensitive personal information during online transactions. Using this widely accepted form of encryption, your transaction is secured from your personal computer to the computer processing your request.
+3.7. You fully understand and consent that we may transfer your personal data to any location outside of Singapore for the purposes set out in this paragraph 3. When transferring your personal data outside of Singapore we will protect your personal data to a standard comparable to the protection accorded to your personal data under the Singapore Personal Data Protection Act 2012 by ensuring that the recipient is either in a jurisdiction which has comparable data protection laws, or is contractually bound to protect your personal data.
 
-As users enter the payment information, it is captured on a page that uses the SSL protocol by default. All personal and financial information is encrypted as it travels over the Internet. All financial information is stored in encrypted form on our servers. The server is also not accessible through the Internet. Security of your financial details will continue to be an issue of top priority for our company.
+**4\. Third Parties**
 
-10\. Notice
+4.1. This Policy only applies to our website and information that we collect from you. Our websites may contain links to other websites which are not owned or maintained by us. When visiting these third party websites or disclosing your personal data to third parties (including buyers or sellers on our website), you should read their privacy policies, or ask relevant questions before you disclose your personal data, We are not responsible for the collection, use or disclosure of your personal data by such third parties.
 
-We may change this privacy policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. The revised policy will be posted on this Site and shall take effect from the date of such posting.
+**5\. Social Networks**
+
+5.1. Our website and mobile or web-based applications may provide you with social plug-ins from various social networks (such as Facebook and Twitter). If you choose to interact with a social network, your activity on our website or via our mobile or web-based applications will also be made available to social networks such as Facebook and Twitter.
+
+5.2. If you are logged in on one of the social networks during the visit of one of our websites or mobile or web-based applications, the social network might add this information to your profile. If you are interacting with one of the social plug-ins, this information will be transferred to the social network. In case you do not wish such a data transfer, please log off on your social network before you enter one of our websites or mobile or web-based applications.
+
+5.3. We cannot influence this data collection and data transfer via the social plug-ins. Please read the privacy policies of those social networks for detailed information about the collection and transfer of personal data, what rights you have and how you can achieve satisfactory privacy settings.
+
+**6\. Geo-location Services**
+
+6.1. Our website and mobile or web-based applications may offer location-enabled services, such as Google Maps and Bing Maps. If you use those mobile or web-based applications, they may receive information about your actual location (such as GPS signals sent by a mobile device) or information that can be used to approximate a location. You are always asked if the geo-location service can be activated and you can also object to this geo-location service within the respective mobile or web-based application.
+
+**7\. Web analytics by Google Analytics**
+
+7.1. Our website and mobile or web-based applications may contain web analytic services provided by Google Analytics. This means that when you visit our website or use any mobile or web-based applications, a cookie will be stored on your computer or mobile device, except when your browser settings do not allow for such cookies.
+
+7.2. This further means that when you visit our website or use any mobile or web-based applications, the personal data described above in paragraph 1.1 – including the “click-stream data”, the data from “web beacons and tracking links” and information stored in Google Analytics’ cookies – will be sent to Google Analytics for analysis for and on behalf of us. Please note that if you have created an online profile at our website or mobile or web-based application and if you are logged on in this profile, a unique number identifying this profile will also be sent to Google Analytics in order to be able to match the web analytics data to this profile.
+
+7.3. Google Analytics acts as our agent, which means that we solely determine the purposes for which the data is being used. You can find out more about the relationships between Google Analytics and us in the Google Analytics’ privacy policy.
+
+7.4. If you do not wish information about your behaviour at our website or any mobile or web-based applications being collected and assessed by Google Analytics, you can install the Google Analytics opt-out browser add-on. This add-on instructs the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) to not send your site visit information to Google Analytics. The browser add-on is available for most modern browsers. The Google Analytics opt-out browser add-on does not prevent information from being sent to the website itself or in other ways to web analytics services.
+
+**8\. Retargeting Technologies**
+
+8.1. Our website and mobile or web-based applications may use retargeting technologies within the internet. This enables us to show our visitors, who were already interested in our shop and our products, advertisement from us on partner websites.
+
+8.2. We also work with other companies who use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect non-personally identifiable information about your visits to our websites or mobile or web-based applications and your interaction with our communications, including advertising.
+
+8.3. Retargeting technologies analyse your cookies and display advertisement based on your past surfing behaviour. For further information on cookies, please refer to paragraph 1 of this Policy.
+
+8.4. We do not store any personal data about you with this technology.
+
+**9\. Security**
+
+9.1. We endeavor to take precautions to ensure that the information you have provided is protected against unauthorised or unintended use, access or disclosure. However, we cannot be held responsible for unauthorised or unintended use, access or disclosure that is beyond our control.
+
+**10\. Disclaimer**
+
+10.1. TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE IN ANY EVENT FOR ANY SPECIAL, EXEMPLARY, PUNITIVE, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND OR FOR ANY LOSS OF REPUTATION OR GOODWILL, WHETHER BASED IN CONTRACT, TORT (INCLUDING NEGLIGENCE), EQUITY, STRICT LIABILITY, STATUTE OR OTHERWISE, SUFFERED AS A RESULT OF UNAUTHORISED OR UNINTENDED USE, ACCESS OR DISCLOSURE OF YOUR PERSONAL DATA.
+
+**11\. Changes to this Policy**
+
+11.1 We may amend this Policy from time to time. The amended Policy will be publicised on our website.
+
+**12\. Your Rights**
+
+12.1 If you have any questions about the processing of your personal data or about our Policy, if you do not accept the amended Policy, if you wish to withdraw any consent you have given us at any time, or if you wish to update or have access to your personal data, you are welcome to contact us. The contact details are:
+
+Attention to | : The SingPost Group Data Protection Officer  
+---|---  
+Email | : GCDPO@singpost.com  
+Telephone number | : 62295995  
+Mail | : 10 Eunos Road 8, Singapore Post Centre, Singapore 408600   
+  
+12.2. All requests for correction or for access to your personal data must be in writing. We will endeavor to respond to your request within 30 days, and if that is not possible, we will inform you of the time by which we will respond to you.
+
+12.3. We may be prevented by law from complying with any request that you may make. We may also decline any request that you may make if the law permits us to do so. 
+
+12.4. In many circumstances, we need to use your personal data in order for us to provide you with products or services which you require or have requested. If you do not provide us with the required personal data, or if you do not accept the amended Policy or withdraw your consent to our use and/or disclosure of your personal data for these purposes, it may not be possible for us to continue to serve you or provide you with the products and services that you require or have requested.
+
+12.5. We may charge you a fee for responding to your request for access to the personal data which we hold about you, or for information about the ways in which we have (or may have) used your personal data. If a fee is to be charged, we will inform you of the amount beforehand and respond to your request after payment is received.
+
+**13\. Complaints**
+
+13.1. You may send complaints regarding our handling of personal data in the following ways:
+
+  * **in writing or by email.** Such complaints must:
+  
+\- be addressed to the SingPost Group Data Protection Officer at:
+  
+
+
+Email        : GCDPO@singpost.com  
+Address  : 10 Eunos Road 8, Singapore Post Centre, Singapore 408600
+
+
+
+
+  
+
+
+\- provide the name, contact number and address of the person submitting the feedback  
+\- provide the relevant details required such as the relevant time period, our employees or who involved, or copies of relevant documents.
+  
+
+
+  * **by telephone.** Such complaints must:
+
+\- be made to the SingPost Group Data Protection Officer at: 
+
+
+Telephone   : 62295995 (This is a recorded line. The caller is advised that their call is being recorded.)
+
+
+
+
+13.2. All complaints will be evaluated by SingPost in a timely manner. After SingPost has completed its evaluation, the SingPost Group Data Protection Officer (or a duly appointed representative) will respond to the person who submitted the complaint or feedback, with the results of the evaluation.
+
+**14\. Governing Law**
+
+14.1. This Policy is governed by the laws of Singapore. You agree to submit to the exclusive jurisdiction of the Courts of Singapore in any dispute relating to this Policy.
 
 __Loading...
