@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aquent.us privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104650id_/http%3A//aquent.com/resources/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquent.us privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225155644id_/http%3A//aquent.com/resources/privacy.htm) for the most accurate reproduction.*
 
-# Privacy
+# Creative Staffing Agency | Privacy
 
 **Please read this Privacy Policy carefully. When you submit your Personal Data to Aquent via and by using the Websites and Aquent services, you are giving your consent to the use of your Personal Data in the manner described in this Privacy Policy and to the transfer of Personal Data outside the European Economic Area (“EEA”) to a country or territory whose laws may not provide adequate levels of protection to Personal Data.**
 
@@ -34,7 +34,7 @@ Aquent uses this information for the purpose of identifying individuals personal
 
 Certain additional information also is collected from users of this website in an aggregate form and used solely in connection with improving the performance and responsiveness of our services and website. This information includes a user's originating domain, time of visit, connection speed, domain names, and Internet service provider. This information is not personally identifiable information and Aquent makes no attempt to correlate such information to an individual user.
 
-Cookies are used to collect these data. Cookies are small sets of bytes that we place on the device you use to access our websites and services. These cookies collect data to help us personalize, secure, and improve the performance of our websites and services. The cookies described as “strictly necessary” are essential in order to enable you to move around the website and use its features, such as accessing secure data. Without these cookies, services you have requested, such as language and filtering preferences, cannot be provided. Click [here](https://web.archive.org/common/images/extra/cookieList.pdf "Aquent Cookie List") for more detail on the cookies that we use.
+Cookies are used to collect these data. Cookies are small sets of bytes that we place on the device you use to access our websites and services. These cookies collect data to help us personalize, secure, and improve the performance of our websites and services. The cookies described as “strictly necessary” are essential in order to enable you to move around the website and use its features, such as accessing secure data. Without these cookies, services you have requested, such as language and filtering preferences, cannot be provided. Click [here](https://web.archive.org/resources/cookies.htm "Aquent Cookie List") for more detail on the cookies that we use.
 
 ### Onward Transfer
 
