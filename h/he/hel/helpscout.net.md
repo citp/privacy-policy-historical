@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627200538id_/https%3A//www.helpscout.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpscout.net privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225085140id_/http%3A//www.helpscout.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Help Scout
-
-We are committed to protecting your personal information.
 
 Your privacy is extremely important to us. To better protect you, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of this website.
 
