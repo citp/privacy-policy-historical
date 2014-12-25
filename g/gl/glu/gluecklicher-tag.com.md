@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gluecklicher-tag.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209014034id_/http%3A//www.lucky-day-uk.com/pages/UK/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gluecklicher-tag.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225161356id_/http%3A//www.lucky-day-uk.com/pages/UK/privacy.html) for the most accurate reproduction.*
 
 # DVX Interactive: Privacy Policy
 
 **PRIVACY POLICY**
 
-**Updated: October 22, 2012**
+**Updated: November 10, 2014**
 
 DVX LLC ("we" or "us") are committed to protecting and respecting your privacy.
 
@@ -36,6 +36,29 @@ We use information held about you in the following ways:
 
   * To ensure that content from our site is presented in the most effective manner for you and for your computer;
   * To provide you with information, products, services or offers via e-mail, SMS, phone or post, that you request from us or which we feel may interest you;
+  * Depending on what Personal Information we hold about you, DVX or a Third Party may contact you by post email, telephone, mobile, SMS and MMS text message for direct marketing, debt collection and tracing; or with marketing messages within these and other verticals:  
+
+    * Astrology
+    * Gambling
+    * Subscription Services
+    * Charitable Organisations
+    * General Retailers
+    * Mobile Telecommunication
+    * Comparison Websites
+    * Household Goods and Services
+    * Travel and Leisure Pursuits
+    * Competition Sites
+    * Insurance Providers
+    * Electric, Gas, Water and Multi-Utilities
+    * Debt Collection
+    * Personal Injury
+    * General Marketing
+    * Financial Providers
+    * Shares
+    * Tracing Activities
+    * Fashion and Leisure Goods
+    * Health and Welfare
+    * Food and Drink Producers and Retailers
   * To confirm the accuracy of the information that we hold about you via third party providers of such services, to include phone, e-mail and postal verification methods;
   * To notify you about changes to our service.
 
