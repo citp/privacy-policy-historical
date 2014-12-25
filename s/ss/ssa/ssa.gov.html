@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ssa.gov privacy policy that was archived on 2013-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131208121617id_/http%3A//www.ssa.gov/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ssa.gov privacy policy that was archived on 2014-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225095754id_/http%3A//www.ssa.gov/agency/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="is-responsive js opacity csstransitions svg" lang="en"><head>
+<!DOCTYPE html><html class="js opacity csstransitions svg" lang="en"><head>
 <!-- REQUIRED META INFORMATION -->
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -17,7 +17,7 @@
 <meta name="dc.title" content="Our Internet Privacy Policy">
 <meta name="dc.language" scheme="ISO639-2" content="eng">
 <meta name="dc.creator" content="DComm.OOG, OGC.OPD">
-<meta name="lead_content_manager" content="lmolse, jkauf">
+<meta name="lead_content_manager" content="pcarci, jkauf">
 <meta name="coder" content="lmont">
 <!-- OCOMM STYLES & SCRIPTS -->
 <link href="/framework/css/phoenix.css" rel="stylesheet" media="all">
@@ -28,26 +28,52 @@
 <noscript><link href="/framework/css/noscript.css" rel="stylesheet" media="all" /></noscript>
 
 <!-- PLUGINS -->
-<script type="text/javascript" async="" src="https://web.archive.org/web/20130401124801/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20130401124801/https://ssl.google-analytics.com/ga.js"></script><script src="/framework/js/plugins/modernizr.min.js"></script>
+
+<!-- MODERNIZR -->
+<script type="text/javascript" async="" src="https://web.archive.org/web/20140401164953/https://ssl.google-analytics.com/ga.js"></script><script src="/framework/js/plugins/modernizr.min.js"></script>
 
 <!-- JQUERY -->
 <script src="/framework/js/plugins/jquery.min.js"></script>
+
+<!-- SVG PATCH FOR IE -->
+<script src="/framework/js/plugins/svg4everybody.min.js"></script>
 
 <!-- FORESEE SURVEY -->
 <script src="/scripts/foresee/foresee-trigger.js"></script>
 
 <!-- GOOGLE ANALYTICS -->
-<script src="/framework/js/plugins/ssa.ga.js"></script>
+<script src="/framework/js/plugins/ssa.internet.ga.js"></script>
+
+<!-- FACEBOOK OPEN GRAPH META TAGS -->
+<meta property="og:image" content="/framework/images/icons/png/logo-fb-share.png">
+<meta property="og:description" content="Social Security delivers a broad range of services online at socialsecurity.gov.  We have a proud history of protecting the integrity of our programs and service to the public.">
 
 <script type="text/javascript" src="https://search.usa.gov/javascripts/remote.loader.js"></script><script src="/scripts/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
-<body data-spanish-file="/espanol/sp_privacy.htm">
+<body data-spanish-file="/espanol/agencia/confidencialidad.html">
 <!-- PAGE CONTAINER -->
 <div id="page">
 
 <!-- PAGE HEADER -->
-<div class="accessibility grid">
+<!-- ACCESSIBILITY OPTIONS -->
+<div class="bg-dark-gray accessibility">
+<div class="content-wrapper no-padding">
 <a class="accessibility-mode" id="accessibility-mode" href="#">Accessibility Mode <span>On</span></a>
 <a class="skip-navigation" id="skip-navigation" href="#title-bar">Skip to content</a>
+</div>
+</div>
+
+<!-- RESOURCES BLOCK -->
+<div class="block-resources hide-phone">
+<div class="content-wrapper no-padding">
+<div class="bg-dark-gray">
+<a class="icon icon-wheelchair" href="/accessibility/"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-wheelchair"></use></svg> Accessibility</a> · 
+<a href="/agency/contact/">Contact Us</a> · 
+<a href="/ask/" title="Frequently Asked Questions">FAQs</a> · 
+<a class="language" href="/espanol/agencia/confidencialidad.html">Español</a> · 
+<a class="icon icon-globe" href="/multilanguage/"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-globe"></use></svg> Other Languages</a> · 
+<a href="/signin/" onclick="_gaq.push(['_trackPageview',  '/vp/signin/']);">Sign In</a>
+</div>
+</div>
 </div>
 
 <header class="banner" id="banner" role="banner">
@@ -58,7 +84,7 @@
 
 <div class="column-6 logo" id="logo">
 
-<a href="/">
+<a href="/" onclick="_gaq.push(['_trackPageview',  '/vp/']);">
 <h1>Social Security</h1>
 <span>Official Social Security Website</span>
 </a>
@@ -66,12 +92,14 @@
 </div>
 <!-- END COLUMN -->
 
-<div class="column-6 align-right hide-phone hide-print">
-<a class="icon wheelchair" href="/accessibility/">Accessibility</a> · <a class="language" href="/espanol/sp_privacy.htm">Español</a> · <a href="/pgm/reach.htm">Contact Us</a> · <a href="/ask/" title="Frequently Asked Questions">FAQs</a> · <a href="https://secure.ssa.gov/RIL/" onclick="_gaq.push(['_link', 'https://secure.ssa.gov/RIL/']); return false;">Sign In</a>&nbsp;&nbsp;
+<div class="column-6 align-right hide-phone">
+
 <form method="get" action="http://search.socialsecurity.gov/search" class="search-box" id="search-box" role="search">  
 <input type="hidden" name="affiliate" value="ssa"> 
-<input type="search" name="query" id="q" autocomplete="off" title="Search" placeholder="Search...">
+<input class="usagov-search-autocomplete" type="search" name="query" id="q" autocomplete="off" title="Search" placeholder="Search...">
 </form>
+
+
 </div>
 <!-- END COLUMN -->
 
@@ -90,20 +118,19 @@
 
 <ul>
 
-<li><a href="/">Home</a></li>
+<li><a href="/" onclick="_gaq.push(['_trackPageview',  '/vp/']);">Home</a></li>
 
-<li class="show-phone"><a class="language" href="/espanol/sp_privacy.htm">Español</a></li>
+<li class="show-phone"><a href="http://search.socialsecurity.gov/search?affiliate=ssa" onclick="_gaq.push(['_link', 'http://search.socialsecurity.gov/search?affiliate=ssa']); return false;">Search</a></li>
 
 <li class="show-phone has-submenu"><a href="#">Resources</a>
 <div>
 <div class="row-12">
 <ul class="column-12">
-<li><a href="/pgm/reach.htm">Contact Us</a></li>
+<li><a href="/agency/contact/">Contact Us</a></li>
 <li><a href="/ask/" title="Frequently Asked Questions">FAQs</a></li>
-<li><a href="/online/">Forms</a></li>
-<li><a href="/pubs/phone.html">Publications</a></li>
-<li><a href="http://search.socialsecurity.gov/search?affiliate=ssa" onclick="_gaq.push(['_link', 'http://search.socialsecurity.gov/search?affiliate=ssa']); return false;">Search</a></li>
-<li><a href="https://secure.ssa.gov/RIL/" onclick="_gaq.push(['_link', 'https://secure.ssa.gov/RIL/']); return false;">Sign In</a></li>
+<li><a href="/forms/">Forms</a></li>
+<li><a href="/pubs/">Publications</a></li>
+<li><a href="/signin/" onclick="_gaq.push(['_trackPageview',  '/vp/signin/']);">Sign In</a></li>
 </ul>
 </div>
 </div>
@@ -114,9 +141,9 @@
 <div class="row-12">
 <ul class="column-4">
 <li><a href="/ssnumber/">Social Security Number &amp; Card</a></li>
-<li><a href="//ssa-custhelp.ssa.gov/app/answers/detail/a_id/315/" onclick="_gaq.push(['_link', 'https://ssa-custhelp.ssa.gov/app/answers/detail/a_id/315/']); return false;">Change my name</a></li>
+<li><a href="//faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3749" onclick="_gaq.push(['_link', 'https://faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3749']); return false;">Change Your Name</a></li>
 <li><a href="/pubs/EN-05-10023.pdf" target="pdf" onclick="_gaq.push(['_trackEvent', 'Assets', 'Download', '/pubs/EN-05-10023.pdf']);">Social Security Numbers for Children</a></li>
-<li><a href="/medicarecard/">Replacement Medicare Card</a></li>
+<li><a href="/medicarecard/" onclick="_gaq.push(['_trackPageview',  '/vp/medicarecard/']);">Replacement Medicare Card</a></li>
 </ul>
 </div>
 </div>
@@ -129,43 +156,46 @@
 <a class="nav-header" href="#" tabindex="-1">Learn</a>
 <div class="row-12">
 <ul class="column-7">
-<li><a href="/pgm/retirement.htm">Retirement</a></li>
-<li><a href="/pgm/disability.htm">Disability</a></li>
-<li><a href="/pgm/medicare.htm">Medicare</a></li>
-<li><a href="/pgm/survivors.htm">Survivors</a></li>
-<li><a href="/pgm/ssi.htm">Supplemental Security Income</a></li>
-<li><a href="http://www.socialsecurity.gov/estimator/" onclick="_gaq.push(['_link', 'http://www.socialsecurity.gov/estimator/']); return false;">Retirement Estimator</a></li>
+<li><a href="/retirement/retirement.htm">Retirement</a></li>
+<li><a href="/disabilityssi/">Disability</a></li>
+<li><a href="/medicare/" onclick="_gaq.push(['_trackPageview',  '/vp/medicare/']);">Medicare</a></li>
+<li><a href="/survivorplan/survivors.htm">Survivors</a></li>
+<li><a href="/disabilityssi/ssi.html">Supplemental Security Income</a></li>
+<li><a href="http://www.socialsecurity.gov/retire2/estimator.htm" onclick="_gaq.push(['_link', 'http://www.socialsecurity.gov/retire2/estimator.htm']); return false;">Retirement Estimator</a></li>
+<li><a href="/planners/benefitcalculators.htm">Calculators</a></li>             
 </ul>
 <ul class="column-5">
-<li><a href="/planners/benefitcalculators.htm">Calculators</a></li>             
+<li><a href="/reentry/">After Incarceration</a></li>             
 <li><a href="/international/">Benefits outside the U.S.</a></li> 
 <li><a href="/retire2/applying6.htm">Spouses</a></li>
 <li><a href="/pubs/EN-05-10085.pdf" target="pdf" onclick="_gaq.push(['_trackEvent', 'Assets', 'Download', '/pubs/EN-05-10085.pdf']);">Children</a></li>
 <li><a href="/pubs/EN-05-10026.pdf" target="pdf" onclick="_gaq.push(['_trackEvent', 'Assets', 'Download', '/pubs/EN-05-10026.pdf']);">Children with Disabilities</a></li>
-<li><a href="/gpo-wep/">Government Employees</a></li> 
+<li><a href="/retire2/gpo-wep.htm">Government Employees</a></li> 
 </ul>
 </div>
 </div>
 <div class="column-4">
 <a class="nav-header" href="#" tabindex="-1">Apply</a>
 <ul>
-<li><a href="/planners/about.htm">Apply Online for Retirement</a></li>
-<li><a href="http://www.socialsecurity.gov/applyfordisability/" onclick="_gaq.push(['_link', 'http://www.socialsecurity.gov/applyfordisability/']); return false;">Apply Online for Disability</a></li>
-<li><a href="/medicareonly/">Apply Online for Medicare Only</a></li>
-<li><a href="/prescriptionhelp/">Extra Help with Medicare prescription drug costs</a></li>
-<li><a href="/claimstatus/">Check Application Status</a></li>
-<li><a href="/pgm/appeal.html">Appeal a Decision</a></li>
+<li><a href="/retirement/about.htm">Apply Online for Retirement</a></li>
+<li><a href="http://www.socialsecurity.gov/disabilityssi/apply.html" onclick="_gaq.push(['_link', 'http://www.socialsecurity.gov/disabilityssi/apply.html']); return false;">Apply Online for Disability</a></li>
+<li><a href="/medicare/apply.html">Apply Online for Medicare Only</a></li>
+<li><a href="/medicare/prescriptionhelp/">Extra Help with Medicare Prescription Costs</a></li>
+<li><a href="/online/ssa-2.html">Apply for Spouse's Benefits</a></li>
+<li><a href="/online/ssa-4.html">Apply for Child's Benefits</a></li>
+<li><a href="/claimstatus/" onclick="_gaq.push(['_trackPageview',  '/vp/claimstatus/']);">Check Application Status</a></li>
+<li><a href="/disabilityssi/appeal.html">Appeal a Decision</a></li>
 </ul>
 </div>
 <div class="column-3">
 <a class="nav-header" href="#" tabindex="-1">Manage</a>
 <ul>
-<li><a href="/myaccount/">Benefit Verification Letter</a></li>
-<li><a href="/myaccount/">Change your Address</a></li>
-<li><a href="/myaccount/">Check your Information or Benefits</a></li>
-<li><a href="/myaccount/">Direct Deposit</a></li> 
-<li><a href="/1099/">Form 1099/1042</a></li>
-<li><a href="/medicarecard/">Replacement Medicare Card</a></li> 
+<li><a href="//faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3705" onclick="_gaq.push(['_link', 'https://faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3705']); return false;">Benefit Verification/<br>Proof of Benefits Letter</a></li>
+<li><a href="//faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3704" onclick="_gaq.push(['_link', 'https://faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3704']); return false;">Change Your Address</a></li>
+<li><a href="/myaccount/">Check Your Information or Benefits</a></li>
+<li><a href="/deposit/howtosign.htm">Direct Deposit</a></li> 
+<li><a href="/1099/" onclick="_gaq.push(['_trackPageview',  '/vp/1099/']);">Form 1099/1042</a></li>
+<li><a href="/medicarecard/" onclick="_gaq.push(['_trackPageview',  '/vp/medicarecard/']);">Replacement Medicare Card</a></li> 
 <li><a href="/work/">Ticket to Work</a></li> 
 </ul>
 </div>
@@ -180,19 +210,21 @@
 <a class="nav-header" href="#" tabindex="-1">People Like Me</a>
 <div class="row-12">
 <ul class="column-7">
-<li><a href="/aian/">American Indians/Alaska Natives</a></li>
-<li><a href="/africanamericans/">African Americans</a></li>
-<li><a href="/aapi/">Asian Americans/Pacific Islanders</a></li>
-<li><a href="/notices/">Blind or Visually Impaired</a></li>
-<li><a href="/pgm/accommodations.html">Deaf or Hard of Hearing</a></li>
-<li><a href="/hispanics/">Hispanics</a></li>
+<li><a href="/people/aian/">American Indians/Alaska Natives</a></li>
+<li><a href="/people/africanamericans/">African Americans</a></li>
+<li><a href="/people/aapi/">Asian Americans/Pacific Islanders</a></li>
+<li><a href="/people/blind/">Blind or Visually Impaired</a></li>
+<li><a href="/people/deaf/">Deaf or Hard of Hearing</a></li>
+<li><a href="/people/hispanics/">Hispanics</a></li>
+<li><a href="/people/immigrants/">Immigrants</a></li>
 </ul>
-<ul class="column-5">
-<li><a href="/immigration/">Immigrants</a></li>
-<li><a href="/kids/">Kids &amp; Families</a></li>
-<li><a href="/same-sexcouples/">Same-Sex Couples</a></li>
-<li><a href="/women/">Women</a></li>
-<li><a href="/woundedwarriors/">Wounded Warriors</a></li>
+<ul class="column-5 pad-left">
+<li><a href="/people/kids/">Kids &amp; Families</a></li>
+<li><a href="/people/same-sexcouples/">Same-Sex Couples</a></li>
+<li><a href="/people/veterans/#ht=1">Veterans</a></li>
+<li><a href="/people/women/">Women</a></li>
+<li><a href="/people/veterans/">Wounded Warriors</a></li>
+<li><a href="/people/youngpeople/">Young People</a></li>
 </ul>
 </div>
 </div>
@@ -200,15 +232,16 @@
 <a class="nav-header" href="#" tabindex="-1">Third Parties</a>
 <div class="row-12">
 <ul class="column-6">
-<li><a href="/representation/">Attorneys &amp; Appointed Representatives</a></li>
-<li><a href="/financialplanners/">Financial Planners</a></li>
+<li><a href="/representation/">Appointed Representatives</a></li>
+<li><a href="/thirdparty/financial-planners.html">Financial Planners</a></li>
+<li><a href="/thirdparty/">Groups &amp; Organizations</a></li>
 <li><a href="/disability/professionals/">Health &amp; School Professionals</a></li>
-<li><a href="/hrm/">Human Resource Professionals</a></li>
-<li><a href="/medicareoutreach2/">Medicare Outreach Organizations</a></li>
+<li><a href="/thirdparty/hrm.html">Human Resource Professionals</a></li>
+<li><a href="/medicare/prescriptionhelp/materials.html">Medicare Outreach Organizations</a></li>
 </ul>
-<ul class="column-6">
-<li><a href="/pgm/thirdparty.html">my Social Security Information</a></li>
-<li><a href="/pressoffice/">Press</a></li>
+<ul class="column-6 pad-left">
+<li><a href="/myaccount/materials.html">my Social Security Information</a></li>
+<li><a href="/news/press/">Press</a></li>
 <li><a href="/payee/">Representative Payees</a></li>
 <li><a href="/schools/">School Officials</a></li>
 <li><a href="/homelessness/">Service Providers for the Homeless</a></li>
@@ -223,9 +256,9 @@
 <div>
 <div class="row-12">
 <ul class="column-3">
-<li><a href="/pgm/business.htm">Business Services</a></li>
+<li><a href="/thirdparty/business.html">Business Services</a></li>
 <li><a href="/legislation/">Congress</a></li> 
-<li><a href="/gix/">Data Exchanges</a></li> 
+<li><a href="/dataexchange/">Data Exchange</a></li> 
 <li><a href="/ere/">Electronic Records Express</a></li>
 <li><a href="/employer/">Employers</a></li> 
 </ul>
@@ -234,7 +267,7 @@
 <li><a href="/gso/">Government Services Online</a></li>
 <li><a href="/pubs/EN-05-10022.pdf" target="pdf" onclick="_gaq.push(['_trackEvent', 'Assets', 'Download', '/pubs/EN-05-10022.pdf']);">Self-Employed</a></li>
 <li><a href="/oag/osdbu/osdbu.htm">Small Business</a></li>
-<li><a href="/edds/">Software Developers</a></li>
+<li><a href="/developer/">Software Developers</a></li>
 </ul>
 </div>
 </div>
@@ -247,19 +280,21 @@
 <a class="nav-header" href="#" tabindex="-1">General Information</a>
 <div class="row-12">
 <ul class="column-6">
-<li><a href="/aboutus/">About Us</a></li> 
-<li><a href="/organizations/">Ask for a Speaker</a></li>
+<li><a href="/agency/">About Us</a></li> 
+<li><a href="/agency/ask-for-a-speaker.html">Ask for a Speaker</a></li>
 <li><a href="/careers/">Careers with Social Security</a></li>
 <li><a href="/compassionateallowances/">Compassionate Allowances</a></li>
 <li><a href="/digitalstrategy/">Digital Government Strategy</a></li>
-<li><a href="http://ssa-custhelp.ssa.gov/app/answers/detail/a_id/149/kw/death master file" onclick="_gaq.push(['_link', 'http://ssa-custhelp.ssa.gov/app/answers/detail/a_id/149/kw/death%20master%20file']); return false;">Death Master File (Death Index)</a></li> 
+<li><a href="//faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3849" onclick="_gaq.push(['_link', 'https://faq.ssa.gov/ics/support/kbanswer.asp?QuestionID=3849']); return false;">Death Master File (Death Index)</a></li> 
+<li><a href="/agency/donations.html">Donations to the Trust Funds</a></li> 
 </ul>
 <ul class="column-6">
-<li><a href="/pgm/donations.html">Donations to the Trust Funds</a></li> 
 <li><a href="/eeo/">Equal Employment Information</a></li> 
-<li><a href="/glossary.htm">Glossary of Social Security Terms</a></li> 
+<li><a href="/agency/glossary/">Glossary of Social Security Terms</a></li> 
 <li><a href="/history/">History of Social Security</a></li> 
-<li><a href="/plain-language/">Plain Writing</a></li>
+<li><a href="/eeo/nofear/">No FEAR</a></li>            
+<li><a href="/open/">Open Government</a></li>
+<li><a href="/agency/plain-language/">Plain Writing</a></li>
 </ul>
 </div>
 </div>
@@ -269,18 +304,19 @@
 <ul class="column-6">
 <li><a href="/oact/">Actuarial Resources</a></li>
 <li><a href="/conference/">Agency Conference Reporting</a></li>
-<li><a href="/performance/">Annual Performance Plan</a></li>
+<li><a href="/finance/">Agency Financial Report</a></li>
+<li><a href="/agency/performance/">Annual Performance Plan &amp; Performance Report</a></li>
 <li><a href="/budget/">Budget Estimates &amp; Related Info</a></li>
-<li><a href="/pgm/links_governance.htm">Budget &amp; Performance</a></li>
-<li><a href="/disabilityresearch/">Disability Research</a></li>
+<li><a href="/agency/budget-and-performance.html">Budget &amp; Performance</a></li>
 </ul>
 <ul class="column-6">
+<li><a href="/disabilityresearch/">Disability Research</a></li>
 <li><a href="/multilanguage/LEPPlan2.htm">Limited English Proficiency Plan</a></li>
 <li><a href="/regulations/">Program Rules</a></li>
 <li><a href="/improperpayments/">Reducing Improper Payments</a></li>
-<li><a class="no-wrap" href="/finance/">Performance &amp; Accountability Report</a></li>
 <li><a href="/policy/">Research, Statistics &amp; Policy Analysis</a></li>
 <li><a href="/oact/">Solvency of Social Security</a></li>
+<li><a href="/agency/asp/Vision2025.html">Vision 2025</a></li>
 </ul>
 </div>
 </div>
@@ -288,23 +324,30 @@
 </div>
 </li>
  
-<li class="show-phone has-submenu"><a href="#">Site Information</a>
+<li class="show-phone has-submenu"><a href="#">Important Information</a>
 <div>
 <div class="row-12">
 <ul class="column-12">
 <li><a href="/accessibility/">Accessibility</a></li> 
-<li><a href="/foia/">FOIA</a></li> 
-<li><a href="/eeo/nofear/">No FEAR</a></li>            
-<li><a href="/privacy.html">Privacy</a></li> 
+<li><a href="/foia/">FOIA</a></li>
+<li><a href="/agency/glossary/">Glossary</a></li> 
+<li><a href="/agency/privacy.html">Privacy</a></li> 
 <li><a href="http://oig.ssa.gov/report-fraud-waste-or-abuse" onclick="_gaq.push(['_link', 'http://oig.ssa.gov/report-fraud-waste-or-abuse']); return false;">Report Fraud, Waste or Abuse</a></li>
 <li><a href="/sitemap.htm">Site Map</a></li>  
-<li><a href="/websitepolicies.htm">Site Policies</a></li> </ul>
+<li><a href="/agency/websitepolicies.html">Site Policies</a></li> </ul>
 </div>
 </div>
 </li>
 
+<li class="show-phone"><a class="language" href="/espanol/agencia/confidencialidad.html">Español</a></li>
+
+<li class="show-phone"><a class="icon icon-globe" href="/multilanguage/"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-globe"></use></svg> Other Languages</a></li>
+
 </ul>
 </nav>
+
+<!-- START GOV DELIVERY CONTENT WATCH -->
+<!--PAGEWATCH CODE=""-->
 
 <!-- PAGE TITLE -->
 <div id="title-bar">
@@ -341,6 +384,9 @@
 <p>We use Tier 2 technology to help us analyze site use by  identifying you as a new or returning visitor; this does nothing other than  distinguish whether you have been to our site before.&nbsp; Our web measurement applications compare the  behavior of new and returning visitors in the aggregate to help us identify work  flows and trends and also resolve common problems on our site. We do not use  this technology to identify you or any other person.</p>
 <p>We use Tier 2 web measurement technology to improve our  website and provide a better user experience for our customers. This technology  anonymously tracks how visitors interact with socialsecurity.gov, including  where they came from, what they did on the site, and whether they completed any  pre-determined tasks while on the site.</p>
 <p>This technology is provided by Google Analytics and the  information collected is used to optimize our website; helping us determine top  tasks, improve our user interface and diversify our content offerings to meet  the needs of our customers. No personally identifiable information is  collected, so the anonymity of the end user is protected.&nbsp; The measurement  data that is collected is only retained for as long as is needed for proper  analysis and optimization of the website and is accessible only to employees  whose position necessitates it.</p>
+<!-- next two paragraphs added 04/10/14 -->
+<p>The Social Security Administration also uses Tier 2 technology to obtain feedback and data on visitors’ satisfaction with the SSA website.  To accomplish this, SSA participates in a government-wide relationship with ForeSee Results, which provides an array of survey tools as part of its American Customer Satisfaction Index (ACSI).  The ACSI survey is a mix of unique features and tools, including cxReplay (formerly Session Replay), which provides federal agencies with an assessment of the experiences of their web visitors.  The ACSI survey does not collect PII.  Participation in the AC SI survey is entirely voluntary.  Visitors who decline the survey invitation enjoy full access to the identical information and resources on the SSA website as those who take the survey.  Answers to the ACSI help SSA improve and evolve its website to make it easier to use and more responsive to the needs of SSA visitors.</p>  
+<p>The ACSI staff conducts analyses and reports on the aggregated data from the ACSI survey.  The reports are only available to SSA website managers, members of the SSA communications and web teams, and others who require user feedback to perform their duties. The SSA retains the data only as long as required by law or needed to support the mission of the SSA website.  SSA’s survey policies and practices conform to the Office of Management and Budget Memo-10-22, Guidance for Online Use of Web Measurement and Customization Technologies.</p>
 <p>Since disabling this web measurement technology requires  modifying individual browser settings it is enabled by default. If you wish to  opt-out, you can find step-by-step instructions for changing your settings at <a class="break-line" href="http://www.usa.gov/optout_instructions.shtml" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'www.usa.gov/optout_instructions.shtml']);">http://www.usa.gov/optout_instructions.shtml</a>.  Google also provides a browser plug-in that will allow you to opt-out of all  Google Analytics measurements, which you can find at <a class="break-line" href="http://tools.google.com/dlpage/gaoptout" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'tools.google.com/dlpage/gaoptout']);">http://tools.google.com/dlpage/gaoptout</a>.  Please note that opting-out in no way effects your access to content within socialsecurity.gov  or how you see the site. </p>
 <p>We also use Tier 2 technology on our Open Government page hosted by  IdeaScale to make your login easier, prevent anonymous abuse of the service,  and ensure fair voting. We also maintain pages on Facebook and YouTube, both of  which use Tier 2 technology. We will update our policy as necessary should we  extend our use of these technologies in other similar services.</p>
 <p>In the future, we plan to make  it possible for you to customize your online experience with us by saving your  website preferences. &nbsp;While we are not  presently offering such an option, Tier 2 technology is the usual way of providing  for such a service.</p>
@@ -404,7 +450,7 @@ Electronic mail messages  that meet the definition of records in the Federal Rec
 <div>Our website contains links to international  agencies, private organizations, and some commercial entities.&nbsp; These websites are not within our control and  may not follow the same privacy, security, or accessibility polices.&nbsp; Once you link to another site, you are  subject to the policies of that site.&nbsp;  All Federal websites, however, are subject to the same Federal policy,  security, or accessibility mandates. 
 </div>
 <p><a href="#" class="icon">Social Media Sites</a></p>
-<div>The Social Security Administration (SSA) uses third party social media  sites to increase transparency, encourage public collaboration with SSA, and in  general make our content available in other formats or forums. Please be aware  that the privacy protection provided on third party social media sites may not  be the same as the privacy protections described for SSA’s website at <a href="/">www.socialsecurity.gov</a>. While we do moderate comments or opinions made on third  party social media sites, we do not collect, maintain, or disseminate any personally  identifiable information made available to SSA by those sites or users of those  sites.</div>
+<div>The Social Security Administration (SSA) uses third party social media  sites to increase transparency, encourage public collaboration with SSA, and in  general make our content available in other formats or forums. Please be aware  that the privacy protection provided on third party social media sites may not  be the same as the privacy protections described for SSA’s website at <a href="/" onclick="_gaq.push(['_trackPageview',  '/vp/']);">www.socialsecurity.gov</a>. While we do moderate comments or opinions made on third  party social media sites, we do not collect, maintain, or disseminate any personally  identifiable information made available to SSA by those sites or users of those  sites.</div>
 </div><!-- end .accordion --></div> 
 
 </div>
@@ -414,24 +460,16 @@ Electronic mail messages  that meet the definition of records in the Federal Rec
 </div><!-- end #content -->
 
 <!-- PAGE FOOTER -->
-<!-- NOTIFICATIONS -->
-<div class="notifications" id="notifications">
-
-<!-- GOV DELIVERY -->
-<div class="gov-delivery hide" id="gov-delivery">
-<div class="content-wrapper no-padding">
-<a class="align-center" href="#">Notify me about page updates...</a>
-</div>
-</div>
-
-</div>
+<!--/PAGEWATCH-->
+<!-- END GOV DELIVERY CONTENT WATCH -->
 <footer class="footer" id="footer" role="contentinfo">
 
 <div class="grid">
 
 <div class="show-phone align-center">
-<p><a href="#banner" class="btn-top icon arrow-up">Back to Top</a></p>
-<p><a href="/privacy.html">Privacy</a> · <a href="/websitepolicies.htm">Website Policies</a> · <a class="language" href="/espanol/sp_privacy.htm">Español</a></p>
+<p><a href="#banner" class="btn-top">Back to Top</a></p>
+<p><a href="/agency/privacy.html">Privacy</a> · <a href="/agency/websitepolicies.html">Website Policies</a></p>
+<p><a class="language" href="/espanol/agencia/confidencialidad.html">Español</a> · <a class="icon icon-globe" href="/multilanguage/"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-globe"></use></svg> Other Languages</a></p>
 </div>
 
 <div class="row-12 hide-phone">
@@ -440,16 +478,16 @@ Electronic mail messages  that meet the definition of records in the Federal Rec
 
 <div class="column-3">
 
-<h4>Site Information</h4>
+<h4>Important Information</h4>
 
 <ul>
 <li><a href="/accessibility/">Accessibility</a></li> 
 <li><a href="/foia/">FOIA</a></li> 
-<li><a href="/eeo/nofear/">No FEAR</a></li>            
-<li><a href="/privacy.html">Privacy</a></li> 
+<li><a href="/agency/glossary/">Glossary</a></li> 
+<li><a href="/agency/privacy.html">Privacy</a></li> 
 <li><a href="http://oig.ssa.gov/report-fraud-waste-or-abuse" onclick="_gaq.push(['_link', 'http://oig.ssa.gov/report-fraud-waste-or-abuse']); return false;">Report Fraud, Waste or Abuse</a></li>
 <li><a href="/sitemap.htm">Site Map</a></li>  
-<li><a href="/websitepolicies.htm">Website Policies</a></li> 
+<li><a href="/agency/websitepolicies.html">Website Policies</a></li> 
 </ul>
  
 </div>
@@ -465,35 +503,26 @@ Electronic mail messages  that meet the definition of records in the Federal Rec
 <li><a href="http://mymoney.gov" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'mymoney.gov/']);">MyMoney.gov</a></li>
 <li><a href="http://regulations.gov" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'regulations.gov/']);">Regulations.gov</a></li>
 <li><a href="http://www.usa.gov" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'www.usa.gov/']);">USA.gov</a></li>
-<li><a href="/pgm/other.html">Other Government Sites</a></li>
+<li><a href="/agency/other-gov-websites.html">Other Government Sites</a></li>
 </ul>
 
 </div>
 
 <div class="column-4">
 
-<h4>Social Media</h4>
+<h4><a href="/socialmedia/">Social Media Hub</a></h4>
 
-<div class="row-12">
-
-<div class="column-6">
 <ul class="nav-tiles-list">
-<li class="bg-dark-blue"><a class="disclaimer icon icon-small facebook" href="//facebook.com/socialsecurity/" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'facebook.com/socialsecurity/']);">Facebook</a></li>
-<li class="bg-blue"><a class="disclaimer icon icon-small twitter" href="//twitter.com/socialsecurity/" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'twitter.com/socialsecurity/']);">Twitter</a></li>
-<li class="bg-dark-red"><a class="disclaimer icon icon-small youtube" href="//youtube.com/socialsecurityonline" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'youtube.com/socialsecurityonline']);">YouTube</a></li>
-<li class="bg-red"><a class="disclaimer icon icon-small pinterest" href="//pinterest.com/socialsecurity" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'pinterest.com/socialsecurity']);">Pinterest</a></li>
+<li class="bg-dark-blue"><a class="disclaimer icon icon-facebook" href="//facebook.com/socialsecurity/" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'facebook.com/socialsecurity/']);"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-facebook"></use></svg> Facebook</a></li>
+<li class="bg-brown"><a class="icon icon-email" href="/socialmedia/updates/"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-email"></use></svg> Get Updates</a></li>
+<li class="bg-blue"><a class="disclaimer icon icon-twitter" href="//twitter.com/socialsecurity/" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'twitter.com/socialsecurity/']);"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-twitter"></use></svg> Twitter</a></li>
+<li class="bg-dark-purple"><a class="icon icon-microphone" href="/socialmedia/podcasts/"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-microphone"></use></svg> Podcasts</a></li>
+<li class="bg-red"><a class="disclaimer icon icon-google-plus" href="//plus.google.com/+SocialSecurity/posts" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'plus.google.com/+SocialSecurity/posts']);"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-google-plus"></use></svg> Google+</a></li>
+<li class="bg-dark-pink"><a class="icon icon-pictures" href="/socialmedia/photoblog/"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-pictures"></use></svg> Photoblog</a></li>
+<li class="bg-dark-red"><a class="disclaimer icon icon-youtube" href="//youtube.com/socialsecurityonline" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'youtube.com/socialsecurityonline']);"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-youtube"></use></svg> YouTube</a></li>
+<li class="bg-dark-green"><a class="icon icon-tv" href="/socialmedia/webinars/"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-tv"></use></svg> Webinars</a></li>
+<li class="bg-red"><a class="disclaimer icon icon-pinterest" href="//pinterest.com/socialsecurity" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'pinterest.com/socialsecurity']);"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-pinterest"></use></svg> Pinterest</a></li>
 </ul>
-</div>
-<div class="column-6">
-<ul class="nav-tiles-list">
-<li class="bg-brown"><a class="icon icon-small email" href="/updates/">Get Updates</a></li>
-<li class="bg-dark-purple"><a class="icon icon-small microphone" href="/podcasts/">Podcasts</a></li>
-<li class="bg-dark-pink"><a class="icon icon-small pictures" href="/photoblog/">Photoblog</a></li>
-<li class="bg-dark-green"><a class="icon icon-small tv" href="/webinars/">Webinars</a></li>
-</ul>
-</div>
-
-</div>
 
 </div>
 
@@ -511,8 +540,68 @@ Electronic mail messages  that meet the definition of records in the Federal Rec
 <!-- DEFINITION PANEL -->
 <aside class="definition-panel" id="definition-panel" role="dialog"></aside>
 
-<!-- DIALOG -->
-<aside class="dialog" id="dialog" role="dialog"><div></div></aside>
+<!-- DISCLAIMER DIALOG -->
+<aside class="dialog" id="disclaimer-dialog" role="dialog">
+<div>
+<header><h4 tabindex="-1">External Link Disclaimer</h4></header>
+<section>
+<div class="bold">
+<p>You are exiting the Social Security Administration's website.</p>
+<p>Select OK to proceed.</p>
+<p class="underline">Disclaimer</p>
+</div>
+<p>The Social Security Administration (SSA) website contains links to websites not affiliated with the United States government. These may include State and Local governmental agencies, international agencies, and private entities.</p>
+<p>SSA cannot attest to the accuracy of information provided by such websites. If we provide a link to such a website, this does not constitute an endorsement by SSA or any of its employees of the information or products presented on the non-SSA website.</p>
+<p>Also, such websites are not within our control and may not follow the same privacy, security or accessibility policies. Once you visit such a website, you are subject to the policies of that site.</p>
+<hr>
+<div class="align-right">
+<a class="btn" href="#" id="btn-cancel">Cancel</a>
+<a class="btn" href="#" id="btn-ok">OK</a> 
+</div>
+</section>
+</div>
+</aside>
+
+<!-- UTILITY BAR -->
+<div class="utility-bar" id="utility-bar">
+
+<!-- UTILITY BAR MENU -->
+<ul class="utility-bar-menu">
+<li><a class="icon icon-connect" data-menu="connect" href="#menu-connect"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-connect"></use></svg> Connect</a>
+<div class="menu menu-connect" id="menu-connect">
+<div class="inner-wrap">
+<ul>
+<li><a class="disclaimer" href="//facebook.com/socialsecurity/" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'facebook.com/socialsecurity/']);">Facebook</a></li>
+<li><a class="disclaimer" href="//twitter.com/socialsecurity/" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'twitter.com/socialsecurity/']);">Twitter</a></li>
+<li><a class="disclaimer" href="//plus.google.com/+SocialSecurity/posts" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'plus.google.com/+SocialSecurity/posts']);">Google+</a></li>
+<li><a class="disclaimer" href="//youtube.com/socialsecurityonline/" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'youtube.com/socialsecurityonline/']);">YouTube</a></li>
+<li class="hide-phone"><a class="disclaimer" href="//pinterest.com/socialsecurity" aria-haspopup="true" onclick="_gaq.push(['_trackEvent', 'Outbound Links', 'Click', 'pinterest.com/socialsecurity']);">Pinterest</a></li>
+</ul>
+</div>
+</div>
+</li><li><a class="icon icon-share" data-menu="share" href="#menu-share"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-share"></use></svg> Share</a>
+<div class="menu menu-share" id="menu-share">
+<div class="inner-wrap">
+<ul>
+<li><a class="addthis_button_facebook" href="#" title="Share on Facebook"><span>Facebook</span></a></li>
+<li><a class="addthis_button_twitter" href="#" title="Tweet on Twitter"><span>Twitter</span></a></li>
+</ul>
+</div>
+</div>
+</li><li><a class="icon icon-gov-delivery" data-menu="gov-delivery" href="#menu-gov-delivery"><svg><use xlink:href="/framework/images/icons/svg/sprite.svg#icon-gov-delivery"></use></svg> Get Updates</a>
+<div class="menu menu-gov-delivery" id="menu-gov-delivery">
+<div class="inner-wrap">
+<ul>
+<li><a href="#">Sign up for page updates</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+<!-- END UTILITY BAR MENU -->
+
+</div>
+<!-- END UTILITY BAR -->
 
 <!-- OVERLAY -->
 <div class="overlay"></div>
@@ -520,8 +609,22 @@ Electronic mail messages  that meet the definition of records in the Federal Rec
 <!-- INTERNET FRAMEWORK -->
 <script src="/framework/js/ssa.internet.js"></script>
 
-<!-- LEGACY -->
-<script src="/framework/js/legacy/ssa.legacy.js"></script>
+<!-- ADD THIS SHARE BUTTONS -->
+<script>
+var 
+addthis_config = {
+
+data_ga_property: 'UA-25977386-2',
+data_ga_social: true,
+data_track_clickback: true,
+data_use_cookies: false,
+ui_click: true,
+ui_use_css: false,
+ui_language: document.documentElement.lang
+
+};
+</script>
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-517fd7440642721a#async=1"></script>
 
 <!-- SEARCH.USA.GOV SCRIPT -->
 <script>
@@ -536,7 +639,7 @@ document.getElementsByTagName("head")[0].appendChild(script);
 </script>
 
 <!-- Start GA AutoTracker Code -->
-<script src="/framework/js/plugins/AutoTracker.js"></script>
+<script src="/framework/js/plugins/ssa.internet.autotracker.js"></script>
 <script>
 addLinkerEvents();
 </script>
