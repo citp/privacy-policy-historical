@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecloud.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125201id_/http%3A//www.thecloud.net/wifi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecloud.net privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225192408id_/http%3A//www.thecloud.net/wifi/privacy) for the most accurate reproduction.*
 
-# Privacy Policy, The Cloud
+# Privacy | The Cloud
 
 **Privacy Notice**
 
@@ -10,7 +10,7 @@ Any member of the British Sky Broadcasting group may use and share, within that 
 
 **Cookies Notice**
 
-When you create or log in to an account you agree to our privacy and cookies notice. Otherwise, by continuing to use our Services you agree to the use of cookies as described in this notice.  For more information, see the [section on cookies](https://web.archive.org/free-wifi/cookies-notice/ "Revised Cookies Notice").
+When you create or log in to an account you agree to our privacy and cookies notice. Otherwise, by continuing to use our Services you agree to the use of cookies as described in this notice.  For more information, see the [section on cookies.](https://web.archive.org/wifi/cookies-notice/ "Cookies 2")
 
 **Privacy Notice**
 
@@ -19,7 +19,7 @@ The following is information we may hold about you.
   * Information you have given us, including on our web pages.
   * Information about our Services you've accessed or used.
   * Information provided by other organisations who have your permission to share information about you.
-  * Information we collect using cookies stored on and collected from your devices.  For more information on cookies and how to manage them, please see our [section on cookies](https://web.archive.org/free-wifi/cookies-notice/ "Revised Cookies Notice").
+  * Information we collect using cookies stored on and collected from your devices.  For more information on cookies and how to manage them, please see our [section on cookies.](https://web.archive.org/wifi/cookies-notice/ "Cookies 2")
   * Your IP address (this is a number that identifies a specific network device on the internet and is needed for your devices to communicate with web pages).
   * Technical details about your computer or access devices.
   * The times and dates of your access to and use of our Services.
@@ -78,8 +78,8 @@ EH54 7DD
 
 or [dp@bskyb.com](mailto:dp@bskyb.com)
 
-Please make sure you tell us about any updates, amendments and corrections to your information by contacting us at [wifisupport@bskyb.com](mailto:wifisupport@bskyb.com "wifisupport@bskyb.com"). Please note that "re-registering" your account in "offline mode" will not update the records The Cloud already holds about you. Please also be aware that if you do not screen, clean or otherwise de-activate devices from your The Cloud account before you sell them or allow others to use them, another person's use of The Cloud Services via those devices may be associated with your The Cloud account. More advice on keeping your data and devices secure can be found on Sky's help pages at <http://help.sky.com/>
+Please make sure you tell us about any updates, amendments and corrections to your information by contacting us at [wifisupport@bskyb.com](mailto:wifisupport@bskyb.com "wifisupport@bskyb.com"). Please note that "re-registering" your account in "offline mode" will not update the records The Cloud already holds about you. Please also be aware that if you do not screen, clean or otherwise de-activate devices from your The Cloud account before you sell them or allow others to use them, another person's use of The Cloud Services via those devices may be associated with your The Cloud account. More advice on keeping your data and devices secure can be found on Sky's help pages at [ http://help.sky.com/](https://web.archive.org/web/20140625125201/http://help.sky.com/)
 
-[Privacy and Cookies notice pre 09 June 2014.](https://web.archive.org/free-wifi/privacy-pre-09062014/ "Privacy pre 09.06.2014")
+[Privacy and Cookies notice pre 09 June 2014.](https://web.archive.org/wifi/privacy-and-cookies-notice-pre-09062014/ "Privacy and Cookies Notice - pre 09.06.2014")
 
-[Privacy and Cookies notice pre 20 January 2014](https://web.archive.org/free-wifi/privacy_pre_200114/ "Privacy_Pre_20.01.14").
+[Privacy and Cookies notice pre 20 January 2014.](https://web.archive.org/wifi/privacy_pre_20014/ "privacy_pre_20014")
