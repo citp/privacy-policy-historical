@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the attwooddigital.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133037id_/http%3A//attwooddigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attwooddigital.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225203940id_/http%3A//attwooddigital.com/privacy-policy) for the most accurate reproduction.*
 
-# Attwood Digital
+# Privacy Policy
 
 You are here: [Home](http://attwooddigital.com/) » **Privacy Policy**
 
