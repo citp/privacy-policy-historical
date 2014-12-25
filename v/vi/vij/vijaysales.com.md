@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vijaysales.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071923id_/http%3A//www.vijaysales.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vijaysales.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225134644id_/http%3A//www.vijaysales.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Vijay Sales | Privacy Policy
 
@@ -30,7 +30,7 @@ Our site has stringent security measures in place to protect the loss, misuse, a
 
 Products & Accessories Confirmation 
 
-As a policy on receipt of product, we request you to check and confirm the contents while accepting the delivery.Discrepancies, if any, must be brought to our notice, after which no further queries would be entertained. Kindly email us on [ecustomercare@vijaysales.com](mailto:ecustomercare@vijaysales.com) or alternatively call on 022 61711071. 
+As a policy on receipt of product, we request you to check and confirm the contents while accepting the delivery.Discrepancies, if any, must be brought to our notice, after which no further queries would be entertained. Kindly email us on [ecustomercare@vijaysales.com](mailto:ecustomercare@vijaysales.com) or alternatively call on 022-61711122 
 
 Warranty 
 
