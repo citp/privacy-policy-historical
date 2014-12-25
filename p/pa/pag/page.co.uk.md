@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the page.co.uk privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617080211id_/http%3A//startpage.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page.co.uk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225035645id_/http%3A//startpage.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Startpage UK
 
