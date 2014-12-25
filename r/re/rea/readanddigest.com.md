@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readanddigest.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625182117id_/http%3A//readanddigest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readanddigest.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225031947id_/http%3A//readanddigest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Read and Digest
+# Privacy Policy
 
 Privacy Policy
 
@@ -67,7 +67,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 **Disclaimer**
 
-All the content published is sole copyright of ReadandDigest.com, excluding materials such as images and videos which have written information about their original owner/source that permitted to use the same under the appropriate licensing terms. If anyone is referencing the content published, reference should be sited. The content cannot be used for any commercial purposes without any prior permission from ReadandDigest.com team.
+All the content published is sole copyright of ReadandDigest.com, excluding materials such as images and videos which have written information about their original owner/source that permitted to use the same under the appropriate licensing terms. If anyone is referencing the content published, reference should be cited. The content cannot be used for any commercial purposes without any prior permission from ReadandDigest.com team.
 
 By entering this site, you declare and affirm under the penalties of perjury that you are not a minor nor in the company of a minor and that accessing this site is not unlawful in your local area. You are entering this site of your own free volition and the owner of it accepts no responsibility for any individual’s experience within.
 
