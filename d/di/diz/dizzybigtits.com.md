@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dizzybigtits.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606184802id_/http%3A//www.dizzybigtits.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dizzybigtits.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225042247id_/http%3A//www.dizzybigtits.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.dizzybigtits.com](http://www.dizzybigtits.com/)  
-Effective Date: June 06, 2014  
+Effective Date: December 25, 2014  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.dizzybigtits.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
