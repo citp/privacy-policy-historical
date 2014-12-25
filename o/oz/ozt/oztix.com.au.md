@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110636id_/http%3A//www.oztix.com.au/OzTix/PrivacyStatement/tabid/746/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225104524id_/http%3A//www.oztix.com.au/OzTix/PrivacyStatement/tabid/746/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -78,7 +78,7 @@ You understand that:
 
 **(a)** we will be unable to process your payment for the ticket purchase; and 
 
-**(b)** we will be unable to send you direct marketing communications (unless you have consented to such communications through other your other dealings with The Merchant). 
+**(b)** we will be unable to send you direct marketing communications (unless you have consented to such communications through your other dealings with The Merchant). 
 
 **5.** Your personal information being disclosed to the following classes of people and organisations in connection with the purposes in paragraph 3: 
 
