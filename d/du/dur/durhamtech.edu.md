@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626180119id_/http%3A//www.durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the durhamtech.edu privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225192042id_/http%3A//www.durhamtech.edu/html/privacy.htm) for the most accurate reproduction.*
 
 # Durham Technical Community College Web Site Privacy Policy
 
@@ -10,7 +10,7 @@ The Durham Tech web server automatically records general information on all user
 
   * Your IP address. This information does not result in the identification of your personal email address or other personal information. 
   * The Internet domain for your Internet Service Provider. 
-  * The type and version of the browser you are using to access our site (such as Internet Explorer 8 or Firefox 7). 
+  * The type and version of the browser you are using to access our site (such as Firefox, Chrome, or Internet Explorer). 
   * The type and version of the operating system you use (such as Macintosh or Windows). 
   * The address of the previous site you were visiting. 
   * The pages you visit on the Durham Tech website. 
@@ -18,4 +18,4 @@ The Durham Tech web server automatically records general information on all user
 
 
 
-This information is analyzed to help us improve the site's organization, performance, and usefulness. This information is only examined in the aggregate, not at the individual level. We never sell or rent information to any third parties under any circumstances. 
+This information is analyzed to help us improve the site's organization, performance, and usefulness and to target Durham Tech advertising. This information is only examined in the aggregate, not at the individual level. We never sell or rent information to any third parties under any circumstances. 
