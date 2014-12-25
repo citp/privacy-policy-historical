@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydayfamily.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615225513id_/http%3A//everydayfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydayfamily.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225010931id_/http%3A//www.everydayfamily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -122,9 +122,19 @@ If you have any questions, comments or concerns regarding this Privacy Policy, p
 
 Or call : 1-888-660-6631
 
+**_Your California Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83)_**
+
+California’s “Shine the Light” law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties’ direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. We have such a policy in place.
+
+Opting out of Direct Mail Marketing: If you do not want us to send you any offers from third parties through direct mail or share your Personal Information with other companies so that they can send you direct mail offers about their products and services, please write to us at the street address set forth in this document or [click here](http://www.everydayfamily.com/contact/). If you write to us, please include your email address, name and mailing address in the body of your letter, and please include “Direct Mail Opt-Out” in the subject line.
+
+Opting out of Email Marketing: If you do not want us to send you emails regarding special promotions or offers or share your Personal Information with other companies so that they can send you emails about their products and services, simply follow the unsubscribe instructions that are located at the bottom of those emails or you can [click here](http://www.everydayfamily.com/unsubscribe/) to manage your newsletter and email marketing preferences.
+
+California customers may request further information about our approach to this law by writing to us at the address provided in the “Comments and Questions” section located in this document.
+
 Opt-Out, Communication Preferences
 
-You may modify your communication preferences and/or opt-out from specific communications at any time. Please specify and adjust your preferences [here](http://www.everydayfamily.com/unsubscribe.aspx?email=). _  
+You may modify your communication preferences and/or opt-out from specific communications at any time. Please specify and adjust your preferences [here](http://www.everydayfamily.com/unsubscribe/). _  
 **  
 Terms of Use**_
 
