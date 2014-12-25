@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wapbaze.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065505id_/http%3A//wapbaze.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapbaze.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225081648id_/http%3A//wapbaze.com/content/privacy.php) for the most accurate reproduction.*
 
-# Our Google Adsense Privacy Policy - wapbaze.com
+# Our Google Adsense Privacy Policy -
 
-**Our Google Policy For wapbaze.com**
+**Our Google Policy For Vevobase.com**
 
- **wapbaze.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
+ **Vevobase.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
 ## Routine Information Collection
 
@@ -12,7 +12,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, wapbaze.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Vevobase.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
@@ -26,8 +26,8 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to info@wapbaze.com for further clarification.
+Concerns or questions about this privacy policy can be directed to contact@vevobase.com for further clarification.
 
 **OUR DISCLAIMER**
 
-This our policy may be changed at any time in life at the discretion of wapbaze.com. If we should update this policy, we will post the updates to this page on our Website only. This policy last updated on October 12th, 2013.
+This our policy may be changed at any time in life at the discretion of vevobase.com. If we should update this policy, we will post the updates to this page on our Website only. This policy last updated on November 25th, 2014.
