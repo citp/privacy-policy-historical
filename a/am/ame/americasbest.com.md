@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623132635id_/http%3A//www.americasbest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225080152id_/http%3A//www.americasbest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: America’s Best Contacts & Eyeglasses
 
@@ -121,5 +121,17 @@ America's Best Contacts & EyeglassesCorporate Headquarters296 Grayson HighwayLaw
   
 America's Best Contacts & EyeglassesOnline Contact Lens Orders  
 4265 Diplomacy Dr Columbus, OH  43228 USA
+
+Top
+
+## California Transparency in Supply Chains Act
+
+The California Transparency in Supply Chains Act of 2010 requires that applicable manufacturers and retailers such as National Vision, Inc. (“NVI”) disclose their efforts to eradicate slavery and human trafficking from the supply chain.
+
+NVI is committed to conducting business in accordance with ethical, legal and socially responsible rules and principles. These standards and commitments are outlined in the Company’s Code of Conduct (the “Code”) which is provided to every NVI Associate upon hire and annually during the course of their employment. Consistent with the Code, we respect the personal dignity of every individual and comply with all applicable human rights laws. Failure to comply with the standards of the Code subjects violators, regardless of position, to disciplinary action up to and including termination of employment.
+
+With respect to our supply chain partners, we expect the same commitment to high ethical standards and compliance with applicable laws, as detailed in the Code. NVI monitors the standards of our supply chain partners for quality, safety and employment standards by conducting annual scheduled on-site audits of our major vendors and laboratory manufacturers. When entering into written contracts with suppliers, NVI requires suppliers to comply with all applicable laws which include those that prohibit slavery and human trafficking. Failure to comply with all applicable laws subjects supplier to breach and possible termination of contract.
+
+At this time NVI does not engage independent auditors or require separate verifications/certifications from its suppliers relating to human trafficking and slavery. While NVI believes it conducts its business with suppliers that maintain high ethical standards, we are continuously evaluating additional programs as it relates to combating the tragedy of human trafficking and slavery.
 
 Top
