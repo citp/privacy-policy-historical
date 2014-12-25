@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tickettailor.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516060617id_/http%3A//www.tickettailor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickettailor.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225190728id_/http%3A//www.tickettailor.com/privacy-policy) for the most accurate reproduction.*
 
-# Ticket Tailor / Sell tickets online YOUR way!
+# Ticket Tailor - Sell tickets online - No booking fees
 
 Ticket Tailor ("We") are committed to protecting and respecting your privacy.
 
 This policy (together with our terms of use <http://www.tickettailor.com/terms-of-use> and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Zimma Ltd of The Bakery, 25 City Road, London, EC1Y 1AA (registered at Companies house with company number 7583551).
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Zimma Ltd of 50A Lamb Lane, Hackney, London, E8 3PJ (registered at Companies house with company number 7583551).
 
 ### INFORMATION WE MAY COLLECT FROM YOU
 
@@ -75,7 +75,7 @@ We may disclose your personal information to third parties:
 
 ### YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at info@tickettailor.com.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at hi@tickettailor.com.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -89,7 +89,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@tickettailor.com.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to hi@tickettailor.com.
 
 * * *
 
@@ -99,7 +99,7 @@ Ticket Tailor is an online service. On sign up you will have immediate access on
 
 You can may upgrade, downgrade and cancel your subscription at any time. 72 hours notice is required to disable your account.
 
-In order to cancel your account please contact us at info@tickettailor.com with details of your account.
+In order to cancel your account please contact us at hi@tickettailor.com with details of your account.
 
 ### REFUND POLICY
 
