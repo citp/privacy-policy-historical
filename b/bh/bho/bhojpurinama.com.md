@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhojpurinama.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923085110id_/http%3A//www.bhojpurinama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhojpurinama.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225154211id_/http%3A//www.bhojpurinama.com/privacy-policy) for the most accurate reproduction.*
 
 # Bhojpurinama - Privacy-Policy
 
