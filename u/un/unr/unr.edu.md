@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2014-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140102121029id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225152953id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
 
-# Privacy: General Information: University of Nevada, Reno
-
-### Contact Information
-
-**University of Nevada, Reno**
-
-Contact Information for University of Nevada, Reno  
----  
-Website| [University of Nevada, Reno]( "University of Nevada, Reno")  
-Phone| (775) 784-1110  
-Address | 1664 N. Virginia Street  
-Reno,  NV  89557  
-Contact |  [Contact Us](http://www.unr.edu/general-information/contact-us "Contact University of Nevada, Reno")  
-  
-## Privacy
+# Privacy
 
 The following policy describes the information gathering and dissemination practices for the [University of Nevada, Reno's main website](http://www.unr.edu/), all sites in the unr.edu domain, and other affiliated University websites/domains:
 
@@ -54,7 +40,7 @@ University of Nevada, Reno Web site gateway contains links to sites outside the 
 
 ### Student Privacy Policy
 
-  * [Directory Information and the Family Educational Rights and Privacy Act](http://www.unr.edu/general-information/privacy/protecting-data)
-  * [Protecting Your Data](http://www.unr.edu/general-information/privacy/protecting-data)
+  * [Directory Information and the Family Educational Rights and Privacy Act](https://web.archive.org/privacy/protecting-data)
+  * [Protecting Your Data](https://web.archive.org/privacy/protecting-data)
 
 
