@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214060416id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycottages.co.uk privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225151653id_/http%3A//www.holidaycottages.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - holidaycottages.co.uk
 
 Commitment to your privacy
 
-This site is owned and operated by Simply Cottages Ltd trading as "Holiday Cottages". Your privacy on the Internet is of the utmost importance to us. At Holiday Cottages, we want to make your experience online satisfying and safe.
+This site is owned and operated by Simply Cottages Ltd trading as “holidaycottages.co.uk". Your privacy on the Internet is of the utmost importance to us. At holidaycottages.co.uk, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-Information Holiday Cottages gathers and tracks
+Information holidaycottages.co.uk gathers and tracks
 
-Holiday Cottages gathers two types of information about users:
+Holidaycottages.co.uk gathers two types of information about users:
 
 Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters and to email a friend.
 
-Information Holiday Cottages gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs. Under no circumstances does Holiday Cottages divulge any information about an individual user to a third party. 
+Information holidaycottages.co.uk gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs. Under no circumstances does holidaycottages.co.uk divulge any information about an individual user to a third party.
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
   1. Electronic newsletters policy (Dispatches)
 
-We will offer a free electronic newsletter to users. Holiday Cottages gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter.
+We will offer a free electronic newsletter to users. Holidaycottages.co.uk gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter.
 
   2. "E-mail a friend" policy
 
@@ -28,60 +28,56 @@ Our site users can choose to electronically forward a link to a property page to
 
   3. "Live Chat" policy
 
-When the online customer service chat first begins, users are asked to enter their names in whatever format or detail they prefer. During the chat, users enter into a live question and answer session with an operator from Holiday Cottages. We maintain dialogue transcripts of these chats. After the chat, we ask users to fill out an exit survey in order to obtain valuable feedback about our service. Filling out the exit survey is completely voluntary.
+When the online customer service chat first begins, users are asked to enter their names in whatever format or detail they prefer. During the chat, users enter into a live question and answer session with an operator from holidaycottages.co.uk. We maintain dialogue transcripts of these chats. After the chat, we ask users to fill out an exit survey in order to obtain valuable feedback about our service. Filling out the exit survey is completely voluntary.
 
 
 
 
 Usage tracking
 
-Holiday Cottages tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Holiday Cottages does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
+Holidaycottages.co.uk tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Holidaycottages.co.uk does break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser).
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address)will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
 Cookies
 
-To comply with EU legislation that was introduced in May 2012, this section documents how this website might collect information as you browse and use it to provide a tailored service to improve your online experience. 
+To comply with EU legislation that was introduced in May 2012, this section documents how this website might collect information as you browse and use it to provide a tailored service to improve your online experience.
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Holiday Cottages uses cookies to track user traffic patterns (as described above).
+We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Holidaycottages.co.uk uses cookies to track user traffic patterns (as described above).
 
 You do not need to have cookies turned on to use this site. You can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalised features enjoyed by other visitors to our site such as adding properties to your favourite list and LiveChat.
 
-**Cookies for sharing our pages**
+ **Cookies for sharing our pages**
 
-We use AddThis on many of our pages to enable you to socially bookmark content from the site. The selection of buttons displayed is tailored to each visitor's past use of social media sites to enable you to quickly post a link to a page on our site from the services you use most frequently.
+We use “AddThis" on many of our pages to enable you to socially bookmark content from the site. The selection of buttons displayed is tailored to each visitor's past use of social media sites to enable you to quickly post a link to a page on our site from the services you use most frequently.
 
-**Cookies for site functionality**
+ **Cookies for site functionality**
 
 We use a facility called LiveChat in order to provide site users with a means of contacting a member of staff for help using the site. LiveChat sets cookies to allow us to improve the behaviour of features such as chat invitations.
 
-**Cookies for relevant advertising**
+ **Cookies for relevant advertising**
 
 We use cookies from DoubleClick and Right Media, to present you with adverts that may be based on the content you visit the most on our websites. The cookies show us where you saw the advert; help us measure the effectiveness of our advertising campaigns; and limit the number of times you see an advert.
 
-**Cookies for improving service**
-
-Google Analytics and DC Storm set cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This is to ensure that we provide a fast service that is available when you want it.
-
-Children
+ **Children**
 
 Consistent with the Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 without requesting parental consent.
 
 Use of information
 
-Holiday Cottages uses any information voluntarily given by our users to enhance their experience in our sites, whether to provide interactive or personalised elements on the sites or to better prepare future content based on the interests of our users.
+Holidaycottages.co.uk uses any information voluntarily given by our users to enhance their experience in our sites, whether to provide interactive or personalised elements on the sites or to better prepare future content based on the interests of our users.
 
-As stated above, we use information that users voluntarily provide in order to send out electronic newsletters. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Holiday Cottages never shares newsletter mailing lists with any third parties.
+As stated above, we use information that users voluntarily provide in order to send out electronic newsletters. We send out newsletters to subscribers on a regular schedule (depending on the newsletter), and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing. Holidaycottages.co.uk never shares newsletter mailing lists with any third parties.
 
 We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered into search engines as one of many measures of what interests our users. But we don't track which terms a particular user enters.
 
 Sharing of the information
 
-Holiday Cottages uses the above-described information to tailor our content to suit your needs. We will not share information about individual users with any third party, except to comply with applicable law or valid legal processor to protect the personal safety of our users or the public.
+Holidaycottages.co.uk uses the above-described information to tailor our content to suit your needs. We will not share information about individual users with any third party, except to comply with applicable law or valid legal processor to protect the personal safety of our users or the public.
 
 Security
 
-Holiday Cottages operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised individuals have access to the information provided by our customers.
+Holidaycottages.co.uk operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorised individuals have access to the information provided by our customers.
 
 Opt-out policy
 
@@ -89,4 +85,4 @@ We give users options wherever necessary and practical. Such choices include opt
 
 Your consent
 
-By using this site, you consent to the collection and use of this information by Holiday Cottages. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+By using this site, you consent to the collection and use of this information by holidaycottages.co.uk. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
