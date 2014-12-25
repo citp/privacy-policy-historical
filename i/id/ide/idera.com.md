@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528043706id_/http%3A//www.idera.com/legal/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225114023id_/https%3A//www.idera.com/legal/privacystatement) for the most accurate reproduction.*
 
 # Idera Privacy Statement
 
@@ -75,4 +75,18 @@ If you have any questions or concerns about our collection, use or disclosure of
 
 **Notification and Compliance Issues**
 
-If you believe your personal information has been used in a way that is not consistent with this policy or your specified preferences, or if you have further questions related to this policy, please contact privacy@idera.com. Written inquiries may be addressed to Attn: Idera Legal Department, 2929 Allen Parkway, Suite 3200, Houston, Texas 77019.
+If you believe your personal information has been used in a way that is not consistent with this policy or your specified preferences, or if you have further questions related to this policy, please contact privacy@idera.com. Written inquiries may be addressed to Attn: Idera Legal Department, 2950 North Loop Freeway West, Suite 700, Houston, TX 77092
+
+**Google Site Stats**  
+You may have clicked on an ad for this website that was delivered by Google.
+
+**Relevant Ads, Quality Advertisers**
+
+Google measures the performance of the advertising it delivers. By providing a tool to more accurately measure the performance of the ads we deliver, Google (and advertisers) will be able to improve the quality and relevance of the ads that you see. 
+
+**Your Privacy**  
+To measure performance, Google uses small strings of text (known as cookies) that are placed on your computer when you click on ads. Cookies typically remain active on your computer for about 30 days. If you visit certain pages of the advertiser's website during that period, Google and the advertiser will be able to tell that you saw the ad delivered by Google.  
+If you'd like to know more about how Google handles information gathered from the use of cookies, please read our [privacy policy](https://web.archive.org/legal/privacystatement). If you want to disable the use of cookies, you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some websites may not function properly if you refuse to accept cookies.
+
+  
+
