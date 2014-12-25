@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newbloggerthemes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625213832id_/http%3A//newbloggerthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbloggerthemes.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225215248id_/http%3A//newbloggerthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New Blogger Themes | Professional Blogspot Templates
+# Privacy Policy | NewBloggerThemes.com
 
 **Privacy Policy for newbloggerthemes.com**
 
