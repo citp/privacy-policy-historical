@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the sotc.in privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609235125id_/http%3A//www.sotc.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sotc.in privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225091741id_/http%3A//www.sotc.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | KUONI together with SOTCKUONI together with SOTC
+# Privacy Policy - Kuoni – SOTC
 
 **Kuoni Travel (India) Private Limited (KUONI)** believes that customer who books or looks for any services at www.sotc.in (Site) has the right to know about the privacy policy that is followed by us. For the trust the client has on KUONI, we value the right to your privacy.
 
 The idea of this policy is to educate the user as to what personal information is being captured by us and where the same is being used. It describes the principles and practices that apply to Personal Information (defined below) collected from users of our services (“you”) on our Site, in telephone or e-mail communications, or in interviews, surveys, sweepstakes, contests, or raffles.
 
-**In short**
+## In short
 
-  * We will not collect Personal Information without your knowledge and permission;
-  * We will not knowingly disclose your Personal Information to third parties, except as provided in this Privacy Policy; 
+  * We will not collect Personal Information without your knowledge and permission
+  * We will not knowingly disclose your Personal Information to third parties, except as provided in this Privacy Policy
   * We will take reasonable steps to protect the security of the Personal Information we collect from you. 
 
 
 
-**For unregistered users**
+## For unregistered users
 
 We encourage you to register with us in order to book services on our website and to take advantage of our customization features. However, you may choose not to register and take advantage of any feature of our site where registration is not required.
 
@@ -30,7 +30,7 @@ We also place a small file known as a “cookie” on your computer’s hard dri
 
 If you visit our site by “clicking-through” from a site operated by one of our partners, and you have registered with that partner, then certain information about you that you have provided to that partner may be transmitted to us. You should review the privacy policy of the Web site from which you reached our site in order to determine what information was collected and how you agreed that our partner could use that information. Regardless of what information was transmitted to us, however, we don’t keep it unless you register with us.
 
-**Registered Users**
+## Registered Users
 
 All users who choose to register themselves on our site www.sotc.in will be able to do online transactions with us. You will be able to purchase / book our services offered herein.
 
@@ -40,17 +40,17 @@ If you visit our site by “clicking-through” from a site operated by one of o
 
 If you reach our site through one of our partners (whether or not you have registered with our partner), and you choose to register with us, we may be required to give our partner some or all of your registration information. We will only do so in accordance with this policy, but we cannot control how our partner uses the information. If you have questions about our partner’s privacy policy, you should review their policy before providing information to us. Of course, you can ensure that the personal information you provide to us is not shared with our partners (except in accordance with this policy), by visiting us directly instead of clicking-through from one of our partners.
 
-**When you Purchase Products or Services for a third party**
+## When you Purchase Products or Services for a third party
 
 When you Purchase Products or Services for a third party using your Member ID and password, we will collect that third party’s name and contact information, and other information as required by the travel service provider(s), so that we can complete the booking.
 
-**How we use the personal information we collect**
+## How we use the personal information we collect
 
 We use the personal information we collect to help both of us! As we mentioned above, registering with us allows you to personalize our Web site so that it is most useful to you. It also allows you to log into our site automatically each time you visit, rather than manually typing your user name and password every time. By registering you can also track your history of transactions that you have done on our site which is available in the form of a Dossier. We may also use this information to periodically contact you with news or important information or to request your feedback on our site. In addition to these periodic updates, we may email you additional materials, but only if you specifically request them. These might include opt-in newsletters and other materials that you proactively request.
 
-In addition to these communications, if you have provided an email address, we may use your personal information to send you notifications about special offers or to tell you about opportunities available from our partners. You may opt-out of any or all marketing communications in any commercial e-mail we send or at any time, as well as access and update your personal information, by visiting http://www.sotc.in 
+In addition to these communications, if you have provided an email address, we may use your personal information to send you notifications about special offers or to tell you about opportunities available from our partners. You may opt-out of any or all marketing communications in any commercial e-mail we send or at any time, as well as access and update your personal information, by visiting [www.sotc.in](http://www.sotc.in/)
 
-**Disclosure of your personal information**
+## Disclosure of your personal information
 
 KUONI does not sell or rent any personal information to any third party, other than our partners, as discussed in this policy. We may aggregate personal information from all of our users and provide that information in the aggregate to other parties, including advertisers, for marketing and promotional purposes. However, if we do so, that information will not be in a form that will allow any third party to identify you personally.
 
@@ -58,40 +58,42 @@ We may share some of your personally identifiable information with our subsidiar
 
 We also may share your personal information with third-parties specifically engaged by KUONI to provide services such as Airlines, Hotels, Ground Handlers, Insurance Companies, Product Companies and advertising agencies, in which case we will require those parties to agree to use any such personally-identifiable data solely for the purpose of providing the specified services to you. We may also use the information to provide to government agencies like RBI, Banks etc as per the laws of the country. As you might expect, KUONI must cooperate with legal authorities, and may in some circumstances be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. We don’t expect this to happen, but if it does, we will provide only the information required. In other words, we will not simply turn over our database in response to a specific legal requirement. We also may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, and in the unlikely event of bankruptcy.
 
-**How you can review and update your personal information**
+## How you can review and update your personal information
 
-You can review and update the personal information you have provided through the registration process by visiting http://www.sotc.in
+You can review and update the personal information you have provided through the registration process by visiting [www.sotc.in](http://www.sotc.in/)
 
-**Steps we take to protect your personal information**
+## Steps we take to protect your personal information
 
 KUONI has implemented security procedures to help protect the personal information stored in our systems. For example, we limit access to personal information about you to employees who we believe reasonably need to come into contact with that information. We also employ processes (such as password hashing, login auditing, and idle session termination) to protect against unauthorized access to your personal information.
 
-**Minors**
+## Minors
 
 Minors (as defined under the laws of their jurisdiction or residence) are not eligible to register for, use, or Purchase the Products or Services available on our Site. We do not knowingly collect Personal Information from any Minor, and will not use this information if we discover that it has been provided by a Minor.
 
-**Retention and storage**
+## Retention and storage
 
 We will retain your Personal Information in our databases in accordance with our document management, retention and destruction policy and applicable laws. This period may extend beyond the end of your relationship with us, but it will be only as long as it is necessary for us to have sufficient information to respond to any issues that may arise later. For example, we may need or be required to retain information to allow you to obtain credit for trip your Purchased but had to cancel. We may also need the retain certain information to prevent fraudulent activity; to protect ourselves against liability, permit us to pursue available remedies or limit any damages that we may sustain; or if we believe in good faith that a law, regulation, rule or guideline requires it.
 
 Your Personal Information will be stored in secured locations, and on servers controlled by KUONI, located either at our offices, or at the offices of our service providers
 
-**Third Party Advertisers**
+## Third Party Advertisers
 
 Third parties advertise on our Site. We do not share any Personal Information about you with these advertisers unless you give us permission to do so, separate from any permission you provide during the Member registration process. These advertisers may seek to use cookies and pixel tags to track Session Data about the ads you have seen and types of things in which you appear interested. These advertisers may also use combined information about your visits to our Site and other sites in order to provide advertisements about related goods and services that may be of interest to you.
 
 When you click on one of these advertisers’ links, you are leaving our Site and entering another site. We are not responsible for such third party’s sites. You should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
 
-**Opting-Out**
+## Opting-Out
 
 As part of the registration process, we give you the ability to receive via e-mail or direct messaging information about our Products and Services, updates to our Site, customized advertisements and promotions that are targeted to your specific interest, such as flight specials, promotions, contests, sweepstakes and other travel opportunities available on our Site and/or sponsored by our travel service providers and advertisers. We send this information directly ourselves, or via third party service providers.
 
 If you do not opt-out from receiving these communications about our Site, we will send them to you.
 
-**Links**
+## Links
 
 For your convenience, our Site provides links to other sites. When you click on one of these links, you are leaving our Site and entering another site. We are not responsible for such third party sites. You should carefully review the privacy statements of any other sites you visit, because those privacy statements will apply to your visit to such other sites.
 
-**Changes to this Privacy Policy**
+## Changes to this Privacy Policy
 
 We reserve the right to change this policy should we deem it advisable to do so. If we make material changes that will affect personal information we have already collected from you, we will make reasonable efforts to notify you of the changes and to give you the opportunity to amend or cancel your registration.
+
+Copyright © SOTC 2014. All rights reserved Kuoni Travel (India) Pvt. Ltd.
