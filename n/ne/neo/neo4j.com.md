@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neo4j.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625175643id_/http%3A//neo4j.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neo4j.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225013021id_/http%3A//neo4j.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Neo4j Graph Database
+# Privacy Policy - Neo4j Graph Database
 
 Thank you for visiting this Internet web site (“Site”) offered by Neo Technology, Inc. (“Neo Technology”).  This Privacy Policy describes our policies for Neo Technology’s collection, use and disclosure of personally identifiable information about users of our Site and users of the services on this Site.
 
@@ -18,7 +18,7 @@ If you elect to post a comment otherwise make personally identifiable informatio
 
 ##### Choice
 
-You have the ability to “opt-out” or unsubscribe from continuing to receive any Neo Technology marketing communications via email at [webinfo@neotechnology.com ](mailto:webinfo@neotechnology.com)at any time. Neo Technology also provides opt-out information in all marketing communications via an “unsubscribe” link in communication emails, which directly unsubscribes you from any further communication from Neo Technology.
+You have the ability to “opt-out” or unsubscribe from continuing to receive any Neo Technology marketing communications via email at [webinfo@neotechnology.com ](mailto:webinfo@neotechnology.com%20)at any time. Neo Technology also provides opt-out information in all marketing communications via an “unsubscribe” link in communication emails, which directly unsubscribes you from any further communication from Neo Technology.
 
 ##### Children’s Privacy
 
@@ -52,11 +52,11 @@ We may employ procedural and technological measures, consistent with industry pr
 
 ##### Updating Personally Identifiable Information
 
-Neo Technology provides you with the ability to review and update the registration information that you provide to us by contacting us at [webinfo@neotechnology.com ](mailto:webinfo@neotechnology.com).
+Neo Technology provides you with the ability to review and update the registration information that you provide to us by contacting us at [webinfo@neotechnology.com ](mailto:webinfo@neotechnology.com%20).
 
 ##### Questions
 
-If you have any questions regarding this Privacy Policy please contact us via email at [webinfo@neotechnology.com ](mailto:webinfo@neotechnology.com).
+If you have any questions regarding this Privacy Policy please contact us via email at [webinfo@neotechnology.com ](mailto:webinfo@neotechnology.com%20).
 
 ##### Notice to Users Outside of the United States of America
 
