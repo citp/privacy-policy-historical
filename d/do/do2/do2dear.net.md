@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the do2dear.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625034002id_/http%3A//do2dear.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the do2dear.net privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225093837id_/http%3A//do2dear.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Do2Dear.Net
+# Privacy Policy - Do2Dear.Net
 
-[  
-**Privacy Policy**](http://www.downloadthesefiles.com/Download/?ci=5915&q=Privacy%20Policy)
+[   
+**Privacy Policy**](http://databass.info/Ari2000/?q=Privacy%20Policy&affiliate_id=c-do2dear)
 
 **Privacy Policy for do2dear.net**
 
@@ -33,5 +33,5 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-[  
-**Privacy Policy**](http://www.downloadthesefiles.com/Download/?ci=5915&q=Privacy%20Policy)
+[   
+**Privacy Policy**](http://databass.info/Ari2000/?q=Privacy%20Policy&affiliate_id=c-do2dear)
