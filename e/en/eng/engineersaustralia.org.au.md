@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the engineersaustralia.org.au privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529070608id_/http%3A//www.engineersaustralia.org.au/system-pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersaustralia.org.au privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225225816id_/http%3A//www.engineersaustralia.org.au/system-pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Engineers Australia
 
 ###  Privacy Policy
 
-This document sets out the privacy policy of The Institute of Engineers, Australia, trading as Engineers AustraliaABN 63 020 415 510 (“Engineers Australia”) relating to the protection of the privacy of ‘personal information’ as defined by the Privacy Act 1988 (Cth) (“Privacy Act”).
+This document sets out the privacy policy of The Institution of Engineers, Australia, trading as Engineers Australia ABN 63 020 415 510 (“Engineers Australia”) relating to the protection of the privacy of ‘personal information’ as defined by the Privacy Act 1988 (Cth) (“Privacy Act”).
 
 Engineers Australia is an organisation that relies on the use of personal information to add value its services to members. We rely on comprehensive and accurate personal information about our members and other people with whom we deal. We collect information from members and non-members so that we can provide services, manage our professional relationships, manage our business, comply with our legal obligations, communicate effectively and enhance the level of service being offered.  We have robust systems and procedures in place to protect your privacy whenever we collect, store, use or disclose your personal information and we are committed to abide by the Privacy Act in the conduct of our business.
 
@@ -14,6 +14,7 @@ The main purposes for which we collect, hold, use and disclose personal informat
 
 In accordance with the Privacy Act, ‘personal information’ means any information by which an individual could be identified.  The personal information collected and stored by Engineers Australia includes, but is not limited to:
 
+  * Photographic identification, including driver's licence or passport;
   * Members' official and preferred names, titles, post-nominals, personal awards, address, telephone, e-mail and facsimile contact details (private and business), date of birth and gender;
   * Members' qualifications, education and academic history, work experience and skills, occupation, employer information, insurance details, areas of practice, areas of interest, details of complaints and disciplinary action;
   * Membership information relating to groups within Engineers Australia including Divisions, Colleges, Technical Societies, Centres, National Committees and panels, Overseas Chapters , Registers and Special Interest Groups;
