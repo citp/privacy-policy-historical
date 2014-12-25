@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the exoshare.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082728id_/http%3A//exoshare.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoshare.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225153331id_/http%3A//exoshare.com/privacy.php) for the most accurate reproduction.*
 
 # ExoShare - Multipload - upload files to multiple filehosts,file mirror upload - Exoshare Privacy Policy
+
+  
+
+
+## Privacy Policy
 
 **Logging IP Addresses**  
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by Exoshare for measuring usage. 
@@ -19,4 +24,7 @@ We ask individual users to identify themselves and the information requested to 
 
 **Changes to this Privacy Policy** Please note that this Privacy Policy may change from time to time. Exoshare may update this Privacy Policy in the future. We expect most such changes will be minor. Regardless, we will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on our website. 
 
-**How you can contact us** If you have questions about this Privacy Policy, please e-mail us at [contact page](https://web.archive.org/web/20140625082728id_/http%3A//exoshare.com/contact.php). When we receive formal written complaints at this address, we will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints. 
+**How you can contact us** If you have questions about this Privacy Policy, please e-mail us at [contact page](https://web.archive.org/web/20141225153331id_/http%3A//exoshare.com/contact.php). When we receive formal written complaints at this address, we will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints. 
+
+  
+
