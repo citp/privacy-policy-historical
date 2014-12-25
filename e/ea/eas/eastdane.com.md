@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastdane.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626173707id_/https%3A//www.eastdane.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D3008754669%2Cos%3D7%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastdane.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225173723id_/http%3A//www.eastdane.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D3532524282%2Cos%3D1%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.*
 
 # Shopbop privacy policy
 
@@ -6,7 +6,8 @@
 Last updated: September 3, 2013.  
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting the Websites, you are accepting the practices described in this Privacy Notice.**
 
-**What Personal Information About Customers Do the Websites Gather?**  
+**What Personal Information About Customers Do the Websites Gather?**
+
 The information we learn from customers helps us personalize and continually improve your shopping experience. Here are the types of information we gather.
 
   * **Information You Give Us:** We receive and store any information you enter on our Websites or give us in any other way. Click here to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
@@ -25,7 +26,8 @@ The information we learn from customers helps us personalize and continually imp
 
 
 
-**Do the Websites Share the Information They Receive?**  
+**Do the Websites Share the Information They Receive?**
+
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with our parent corporation, Amazon.com, Inc., and the subsidiaries it controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
 
   
@@ -36,7 +38,7 @@ Information about our customers is an important part of our business, and we are
 
 
   * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that BOP LLC, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-  * **Protection of Shopbop and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html) aand other agreements; or protect the rights, property, or safety of the Websites, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
+  * **Protection of Shopbop and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html) and other agreements; or protect the rights, property, or safety of the Websites, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
 
 
   * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
@@ -51,7 +53,8 @@ Information about our customers is an important part of our business, and we are
 
 
 
-**Which Information Can I Access?**  
+**Which Information Can I Access?**
+
 The Websites give you access to a broad range of information about your account and your interactions with the Websites for the limited purpose of viewing and, in certain cases, updating that information. 
 
 **What Choices Do I Have?**
@@ -63,10 +66,12 @@ The Websites give you access to a broad range of information about your account 
 
 
 
-**Are Children Allowed to Use the Websites?**  
+**Are Children Allowed to Use the Websites?**
+
 The Websites do not sell products for purchase by children. If you are under 18, you may use the Websites only with the involvement of a parent or guardian. 
 
-**Conditions of Use, Notices, and Revisions**  
+**Conditions of Use, Notices, and Revisions**
+
 If you choose to visit the Websites, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html), including limitations on damages, resolution of disputes, and application of the law of the state of Washington. If you have any concern about privacy relating to the Websites, please email [ service@Shopbop.com](https://web.archive.org/customerservice/contact_customerservice.jsp) or [service@eastdane.com](https://web.archive.org/customerservice/contact_customerservice.jsp) with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html) will change also. We may e-mail periodic reminders of our notices and conditions, but you should check our Websites frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
 
 Our business changes constantly, and our Privacy Notice and the [Conditions of Use](https://web.archive.org/ci/aboutShopBop/conditions.html) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
@@ -79,15 +84,20 @@ Our business changes constantly, and our Privacy Notice and the [Conditions of U
 
 
 
-**Examples of Information Collected**  
-**Information You Give Us**  
+**Examples of Information Collected**
+
+**Information You Give Us**
+
 You provide most such information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; place an order through the Websites; provide information in [My Account](https://web.archive.org/myaccount/my_account_home.jsp) (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; compile Wish Lists, My Hearts, My Designers or other shopping lists; or provide and rate Reviews. As a result of those actions, you might supply us with such information as your name, address, and phone numbers; credit card information; people to whom purchases have been shipped, including addresses and phone number; e-mail addresses of your friends and other people; and content of reviews and e-mails to us. 
 
-**Automatic Information**  
+**Automatic Information**
+
 Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features like Top Sellers; the full Uniform Resource Locator (URL) clickstream to, through, and from our Websites, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our phone number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Websites for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes.
 
-**Information from Other Sources**  
+**Information from Other Sources**
+
 Examples of information we receive from other sources include updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; search results and links, including paid listings; and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
 
-**Information You Can Access**  
+**Information You Can Access**
+
 Examples of information you can access easily at the Websites include up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, and address book); payment settings (including credit card information and gift certificate balances); e-mail notification settings (including Product Availability Alerts and newsletters); shopping lists (including Wish List, My Hearts and My Designers); and My Account (including your product Reviews, personal profile, and Wish List). 
