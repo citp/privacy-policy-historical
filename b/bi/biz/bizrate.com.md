@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165720id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225043617id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Bizrate
 
 ### Shopzilla, Inc. Privacy Policy
 
-Effective Date & Last Modified October 25, 2012.
+Effective Date & Last Modified November 11, 2014.
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY. 
 
@@ -73,7 +73,9 @@ You may be able to direct your internet browser not to allow cookies and you can
 
    If you do not wish to participate in this activity, please [click here](http://www.aboutads.info/choices/) to opt-out .
 
-Some important notes: (1) the opt-out tools for Third-Party Ads include all the advertising networks that Shopzilla works with, but also many that Shopzilla does not work with; (2) opting out of Our Ads does not automatically serve as an opt-out from Third-Party Ads – the same is true the other way around.  To opt-out of Our Ads and Third-Party Ads, you must use each respective opt-out tool above; (3) the opt-out tools for both Our Ads and Third-Party Ads rely on cookies to ensure that your non-PII is not used for online advertising purposes (“Opt-out Cookies”).  Therefore, i f you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the relevant opt-out tasks again; and (4) the features of your internet browser and/or certain add-on software may allow you to block or limit the use of cookies for preference based advertising and other purposes.  We cannot, however, promise that our Sites will work well or be compatible with these alternative methods of blocking or limiting the use of cookies.
+Some important notes: (1) the opt-out tools for Third-Party Ads include all the advertising networks that Shopzilla works with, but also many that Shopzilla does not work with; (2) opting out of Our Ads does not automatically serve as an opt-out from Third-Party Ads – the same is true the other way around.  To opt-out of Our Ads and Third-Party Ads, you must use each respective opt-out tool above; (3) the opt-out tools for both Our Ads and Third-Party Ads rely on cookies to ensure that your non-PII is not used for online advertising purposes (“Opt-out Cookies”).  Therefore, if you buy a new computer, change web browsers or delete these Opt-out Cookies from your computer, you will need to perform the relevant opt-out tasks again; and (4) the features of your internet browser and/or certain add-on software may allow you to block or limit the use of cookies for preference based advertising and other purposes.  We cannot, however, promise that our Sites will work well or be compatible with these alternative methods of blocking or limiting the use of cookies. 
+
+**(c) Do Not Track Features:** Certain browsers may offer you the option of providing notice to websites that you do not wish for your online activities to be tracked for preference based advertising purposes ("DNT Notice"). Some browsers are, by default, set to provide a DNT Notice, whether or not that reflects your preference. Providing DNT Notice is often touted as a means to ensure that cookies, Web beacons and similar technology are not used for preference based advertising purposes - that is, to restrict the collection of non-personally identifiable information about your online activities for advertising works, DNT Notices may not effectively accomplish this goal. For this and a variety of other reasons, with respect to our Website, we do not take any action based on browser based DNT Notices. Instead, if you do not wish to participate in preference based advertising activities, you should follow the simple opt-out process identified above. 
 
 **IV.        SALE OF BUSINESS AND DISCLOSURE BY LAW **
 
