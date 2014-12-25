@@ -1,10 +1,202 @@
-> *The following text is extracted and transformed from the phonicarecords.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605225849id_/http%3A//www.phonicarecords.com/page/privacy-policy-50) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonicarecords.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226005945id_/http%3A//www.phonicarecords.com/page/privacy-policy-50) for the most accurate reproduction.*
 
 # Vinyl Records Specialists, London Soho Vinyl Music Records - Phonica Records - Latest Releases, Pre-Orders and Merchandise
 
 ## 
 
 latest release
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
+
+sale
+
+coming  
+soon
+
+pre  
+order
 
 ## 
 
@@ -141,6 +333,8 @@ If you are able to add a record to your basket on the website then it is almost 
 
 
 
+Dear customer, due to a recent security upgrade imposed by our online payment providers our checkout page will only work with the latest versions of all main browsers. This has been done to ensure your details remain secure while shopping on our site. If you have trouble connecting please upgrade to the latest version of your favourite browser and that should resolve the issue. If the problem persists please get in touch with our customer service team - customerservice@phonicarecords.com - thanks. 
+
 ## Your Basket
 
 Product | Type | Qty | Unit Price | Total  
@@ -158,6 +352,10 @@ if you spend another £50 (including VAT!) - UK customers only. You are entitled
 You might also be interested in ...   
 ---  
   
+buy
+
+buy
+
 buy
 
 buy
