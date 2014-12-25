@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151050id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225195009id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
 
 # Security and Privacy Guarantee | TaxAudit.com
 
@@ -221,6 +221,12 @@ If you reject cookies, you may still use our site, but your ability to purchase 
 
  **5.10**  Our Web site includes Social Media Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
+**5.11**  Our site has implemented Google Analytics features in order for us to facilitate our online advertising and remarketing efforts. The Google Analytics features we have implemented are Google Analytics Demographics and Interest Reporting; Google Display Network Impression Reporting; Remarketing with Google Analytics; and Google AdWords Advertising. Visitors to our site can opt-out of the Google Analytics features we use through by visiting Google’s Advertising and Privacy page: [http://www.google.com/privacy_ads.html](http://www.google.com/policies/technologies/ads/)
+
+Our site uses Google AdWords for remarketing, demographic and location targeting, interest category advertising, similar audience advertising, and other types of interest-based advertising. Visitors to our site can opt-out of Google’s use of cookies related to Google AdWords by visiting Google’s Advertising and Privacy page: [http://www.google.com/privacy_ads.html ](http://www.google.com/policies/technologies/ads/)
+
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
 ## 6 — ACCURACY
 
 _Personal information shall be as accurate, complete and up–to–date as is necessary for the purposes for which it is to be used_.
@@ -308,6 +314,6 @@ _An individual customer shall be able to address a challenge concerning complian
 
 ### CHANGES TO THE PRIVACY POLICY
 
-This policy is effective as of September 20th, 2013. TaxResources, Inc. reserves the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy we will notify you on our homepage and other places we deem appropriate prior to the change becoming effective so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+This policy is effective as of September 30th, 2014. TaxResources, Inc. reserves the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy we will notify you on our homepage and other places we deem appropriate prior to the change becoming effective so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 Back to the TOP
