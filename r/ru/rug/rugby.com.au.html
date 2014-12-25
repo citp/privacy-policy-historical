@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rugby.com.au privacy policy that was archived on 2014-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140528044112id_/http%3A//www.rugby.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rugby.com.au privacy policy that was archived on 2014-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225065613id_/http%3A//www.rugby.com.au/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head id="Head">
 <!--************************************************************************************-->
@@ -8,15 +8,15 @@
 <!-- by DNN Corporation                                                               -->
 <!--**********************************************************************************-->
 <meta http-equiv="X-UA-Compatible" content="IE=edge"><title>
-	Privacy Policy
-</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NWXFDR"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"526342e240","applicationID":"3426402","transactionName":"NFFbMENSW0VZAEYPWw0bbBZYHGVEURVTBU0zW1UNUkobV0sTSg==","queueTime":0,"applicationTime":226,"ttGuid":"F0C111CF14F223CF","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAEEV1FACwcCUlVSBQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><meta content="text/javascript" http-equiv="Content-Script-Type"><meta content="text/css" http-equiv="Content-Style-Type"><meta id="MetaDescription" name="DESCRIPTION" content="Privacy Policy"><meta id="MetaKeywords" name="KEYWORDS" content="Rugby, Union, try, Wallabies, Super, players, profiles, fixtures, ladder, scores,DotNetNuke,DNN"><meta id="MetaCopyright" name="COPYRIGHT" content="Australian Rugby Union"><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke "><meta id="MetaAuthor" name="AUTHOR" content="Australian Rugby Union"><meta name="RESOURCE-TYPE" content="DOCUMENT"><meta name="DISTRIBUTION" content="GLOBAL"><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW"><meta name="REVISIT-AFTER" content="1 DAYS"><meta name="RATING" content="GENERAL"><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)"><style id="StylePlaceholder" type="text/css"></style><link href="/portals/_default/default.css?cdv=140" type="text/css" rel="stylesheet"><link href="/desktopmodules/packflashpublish/articlelist/module.css?cdv=140" type="text/css" rel="stylesheet"><link href="/desktopmodules/html/module.css?cdv=140" type="text/css" rel="stylesheet"><link href="/desktopmodules/packflashpublish/module.css?cdv=140" type="text/css" rel="stylesheet"><link href="/portals/_default/skins/dixit/skin.css?cdv=140" type="text/css" rel="stylesheet"><link href="/portals/_default/skins/dixit/innerhtml_rugby.css?cdv=140" type="text/css" rel="stylesheet"><link href="/portals/1/portal.css?cdv=140" type="text/css" rel="stylesheet"><link href="/resources/search/searchskinobjectpreview.css?cdv=140" type="text/css" rel="stylesheet"><script src="/resources/libraries/jquery/1.9.1/jquery.js?cdv=140" type="text/javascript"></script><script src="/resources/libraries/jquery-migrate/1.2.1/jquery-migrate.js?cdv=140" type="text/javascript"></script><script src="/resources/libraries/jquery-ui/1.10.3/jquery-ui.js?cdv=140" type="text/javascript"></script><meta id="Dixit_Viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="SHORTCUT ICON" href="/Portals/1/favicon.ico" type="image/x-icon"></head>
+	Official Website of the Australian Rugby Union - rugby.com.au
+</title><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"526342e240","applicationID":"3426402","transactionName":"NFFbMENSW0VZAEYPWw0bbBZYHEVEURVTBU1NVUoUSQ==","queueTime":0,"applicationTime":21,"ttGuid":"74F424007B087650","agent":"js-agent.newrelic.com/nr-476.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAEEV1FACwcCUlVSBQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script><meta content="text/javascript" http-equiv="Content-Script-Type"><meta content="text/css" http-equiv="Content-Style-Type"><meta id="MetaDescription" name="DESCRIPTION" content="Latest rugby 2014 fixtures, results, live scores, results and stats as well current rugby teams news, videos, player profiles - Wallabies, Super Rugby and Australian National rugby teams. The game they play in heaven. "><meta id="MetaKeywords" name="KEYWORDS" content="Rugby heaven, Union, try, Wallabies, Super, players, profiles, fixtures, ladder, scores,DotNetNuke,DNN"><meta id="MetaCopyright" name="COPYRIGHT" content="Australian Rugby Union"><meta id="MetaGenerator" name="GENERATOR" content="DotNetNuke "><meta id="MetaAuthor" name="AUTHOR" content="Australian Rugby Union"><meta name="RESOURCE-TYPE" content="DOCUMENT"><meta name="DISTRIBUTION" content="GLOBAL"><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW"><meta name="REVISIT-AFTER" content="1 DAYS"><meta name="RATING" content="GENERAL"><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)"><style id="StylePlaceholder" type="text/css"></style><link href="/portals/_default/default.css?cdv=150" type="text/css" rel="stylesheet"><link href="/portals/_default/skins/dixit/skin.css?cdv=150" type="text/css" rel="stylesheet"><link href="/portals/_default/skins/dixit/home_rugby.css?cdv=150" type="text/css" rel="stylesheet"><link href="/portals/1/portal.css?cdv=150" type="text/css" rel="stylesheet"><link href="/resources/search/searchskinobjectpreview.css?cdv=150" type="text/css" rel="stylesheet"><script src="/resources/libraries/jquery/1.9.1/jquery.js?cdv=150" type="text/javascript"></script><script src="/resources/libraries/jquery-migrate/1.2.1/jquery-migrate.js?cdv=150" type="text/javascript"></script><script src="/resources/libraries/jquery-ui/1.10.3/jquery-ui.js?cdv=150" type="text/javascript"></script><meta id="Dixit_Viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="SHORTCUT ICON" href="/Portals/1/favicon.ico" type="image/x-icon"></head>
 <body id="Body">
     
-    <form method="post" action="/PrivacyPolicy.aspx" id="Form" enctype="multipart/form-data">
+    <form method="post" action="/privacy.aspx" id="Form" enctype="multipart/form-data">
 <div class="aspNetHidden">
 <input type="hidden" name="StylesheetManager_TSSM" id="StylesheetManager_TSSM" value="">
 <input type="hidden" name="ScriptManager_TSM" id="ScriptManager_TSM" value="">
-<input type="hidden" name="__VIEWSTATE_CACHEKEY" id="__VIEWSTATE_CACHEKEY" value="VS_vwnkjxfpgjchlqbyb5otcb3f_635368848798933329">
+<input type="hidden" name="__VIEWSTATE_CACHEKEY" id="__VIEWSTATE_CACHEKEY" value="VS_f1gnvpfn3cu2oq4v4hvq0das_635551270357408753">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="">
 </div>
 
@@ -35,9 +35,11 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
 //]]>
 </script>
 
-        <script src="/js/debug/dnn.modalpopup.js?cdv=140" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery.hoverintent.min.js?cdv=140" type="text/javascript"></script><script src="/js/debug/dnn.servicesframework.js?cdv=140" type="text/javascript"></script><script src="/resources/shared/scripts/dnn.jquery.js?cdv=140" type="text/javascript"></script><script src="/js/debug/dnncore.js?cdv=140" type="text/javascript"></script><script src="/resources/search/searchskinobjectpreview.js?cdv=140" type="text/javascript"></script>
+        <script src="/js/debug/dnn.modalpopup.js?cdv=150" type="text/javascript"></script><script src="/resources/shared/scripts/jquery/jquery.hoverintent.min.js?cdv=150" type="text/javascript"></script><script src="/js/debug/dnn.servicesframework.js?cdv=150" type="text/javascript"></script><script src="/resources/shared/scripts/dnn.jquery.js?cdv=150" type="text/javascript"></script><script src="/js/debug/dnncore.js?cdv=150" type="text/javascript"></script><script src="/resources/search/searchskinobjectpreview.js?cdv=150" type="text/javascript"></script>
         
         
+
+<script>var FSCSW_CLIENT = '9E431C0033';</script>
 <link rel="stylesheet" type="text/css" href="/portals/_default/skins/common/css/top_navigation.css">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800,400italic,600italic,700italic" rel="stylesheet" type="text/css">
 <!--[if IE 7 ]><script type="text/javascript">jQuery("html").addClass("ie ie7");</script><![endif]-->
@@ -57,7 +59,7 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
     <div class="top_line">
         <div class="container">
             <div id="socialicons">
-               <ul class="socials_list">
+                <ul class="socials_list">
                     <li><a class="ico_social-facebook" href="https://www.facebook.com/Wallabies"></a></li>
                     <li><a class="ico_social-twitter" href="https://twitter.com/ARU_Community"></a></li>
                     <li><a class="ico_social-youtube" href="https://www.youtube.com/user/MyRugbyTV"></a></li>
@@ -65,11 +67,11 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
                 </ul>
             </div>
             <div class="language">
-               
+                
             </div>
             <div class="socials">
                 <div id="dnn_TopSocialPane">
-				    <div id="globalNavigation">
+				 <div id="globalNavigation">
         <div id="globalNav">
             <ul>
                 <li><a href="http://www.rugby.com.au">Rugby Home</a> </li>
@@ -90,29 +92,17 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
                         </div>
                     </div>
                 </li>
-                <li><a href="http://www.rugby.com.au/superrugby" class="dropdown">Super Rugby</a>
-                    <div class="globalSubNav superRugby cf">
-                        <div class="col">
-                            <ul>
-                                <li class="topRow"><a href="http://www.rugby.com.au/superrugby">Super Rugby Australia</a> <span class="subtext">rugby.com.au/superrugby</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/super_rugby_menu_logo.png"> </li>
-                                <li><a href="http://www.rugby.com.au/superrugby/News.aspx">News</a> </li>
-                                <li><a href="http://www.rugby.com.au/superrugby/Video.aspx">Videos</a> </li>
-                                <li><a href="http://www.rugby.com.au/superrugby/GameDay/FixturesResults.aspx">Fixtures &amp; Results</a> </li>
-                                <li><a href="http://www.rugby.com.au/superrugby/Team/superrugbyProfiles.aspx">Player Profiles</a> </li>
-                                <li><a href="http://www.rugby.com.au/superrugby/Tickets.aspx">Tickets</a> </li>
-                                <li><a href="http://www.rugby.com.au/superrugby/RugbyShop.aspx">Merchandise</a> </li>
-                            </ul>
-                        </div>
-                        <div class="col">
-                            <ul>
-                                <li class="topRow"><a href="http://www.brumbies.com.au">Brumbies Rugby</a> <span class="subtext">www.brumbies.com.au</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/brumbies_menu_logo.png"> </li>
-                                <li class="topRow"><a href="http://www.melbournerebels.com.au">Melbourne Rebels</a> <span class="subtext">www.melbournerebels.com.au</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/rebels_menu_logo.png"> </li>
-                                <li class="topRow"><a href="http://www.redsrugby.com.au">Queensland Reds</a> <span class="subtext">www.redsrugby.com.au</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/reds_menu_logo.png"> </li>
-                                <li class="topRow"><a href="http://www.westernforce.com.au">Western Force</a> <span class="subtext">www.westernforce.com.au</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/force_menu_logo.png"> </li>
-                                <li class="topRow"><a href="http://www.waratahs.com.au">Waratahs</a> <span class="subtext">www.waratahs.com.au</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/waratahs_menu_logo.png"> </li>
-                            </ul>
-                        </div>
+                <li><a href="http://www.rugby.com.au/wallaroos" class="dropdown">Wallaroos</a>
+                  <div class="globalSubNav cf">
+                    <div class="col">
+                      <ul>
+                        <li><a href="http://www.rugby.com.au/wallaroos/About/Wallaroos.aspx">About the Wallaroos</a></li>
+                        <li><a href="http://www.rugby.com.au/wallaroos/News/LatestNews.aspx">News</a></li>
+                        <li><a href="http://www.rugby.com.au/wallaroos/Team.aspx">Player Profiles</a></li>
+                        <li><a href="http://www.rugby.com.au/wallaroos/WomensRugbyWorldCup/HistoricalResults.aspx">Historical Results</a></li>
+                      </ul>
                     </div>
+                  </div>
                 </li>
                 <li><a href="http://www.rugby.com.au/sevens" class="dropdown">Sevens Rugby</a>
                     <div class="globalSubNav cf">
@@ -129,6 +119,42 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
                         </div>
                     </div>
                 </li>
+                <li><a href="http://www.rugby.com.au/superrugby" class="dropdown">Super Rugby</a>
+                  <div class="globalSubNav superRugby cf">
+                    <div class="col">
+                      <ul>
+                        <li class="topRow"><a href="http://www.rugby.com.au/superrugby">Super Rugby Australia</a> <span class="subtext">rugby.com.au/superrugby</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/super_rugby_menu_logo.png"></li>
+                        <li><a href="http://www.rugby.com.au/superrugby/News.aspx">News</a></li>
+                        <li><a href="http://www.rugby.com.au/superrugby/Video.aspx">Videos</a></li>
+                        <li><a href="http://www.rugby.com.au/superrugby/GameDay/FixturesResults.aspx">Fixtures &amp; Results</a></li>
+                        <li><a href="http://www.rugby.com.au/superrugby/Team/superrugbyProfiles.aspx">Player Profiles</a></li>
+                        <li><a href="http://www.rugby.com.au/superrugby/Tickets.aspx">Tickets</a></li>
+                        <li><a href="http://www.rugby.com.au/superrugby/RugbyShop.aspx">Merchandise</a></li>
+                      </ul>
+                    </div>
+                    <div class="col">
+                      <ul>
+                        <li class="topRow"><a href="http://www.brumbies.com.au">Brumbies Rugby</a> <span class="subtext">www.brumbies.com.au</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/brumbies_menu_logo.png"></li>
+                        <li class="topRow"><a href="http://www.melbournerebels.com.au">Melbourne Rebels</a> <span class="subtext">www.melbournerebels.com.au</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/rebels_menu_logo.png"></li>
+                        <li class="topRow"><a href="http://www.redsrugby.com.au">Queensland Reds</a> <span class="subtext">www.redsrugby.com.au</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/reds_menu_logo.png"></li>
+                        <li class="topRow"><a href="http://www.westernforce.com.au">Western Force</a> <span class="subtext">www.westernforce.com.au</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/force_menu_logo.png"></li>
+                        <li class="topRow"><a href="http://www.waratahs.com.au">Waratahs</a> <span class="subtext">www.waratahs.com.au</span> <img alt="" class="icon" src="http://images.rugby.com.au/DNN/ARU/images/waratahs_menu_logo.png"></li>
+                      </ul>
+                    </div>
+                  </div>
+                </li>
+                <li><a href="http://www.rugby.com.au/nrc/" class="dropdown">NRC</a>
+                  <div class="globalSubNav cf">
+                    <div class="col">
+                      <ul>
+                        <li class="topRow"><a href="http://www.rugby.com.au/nrc/About.aspx">About the NRC</a> <span class="subtext">rugby.com.au/nrc</span> <img alt="" class="icon" src="http://www.rugby.com.au/Portals/31/NRC_small.png"></li>
+                        <li><a href="http://www.rugby.com.au/nrc/News.aspx">News</a></li>
+                        <li><a href="http://www.rugby.com.au/nrc/FixturesDraw.aspx">Fixtures &amp; Results</a></li>
+                        <li><a href="http://www.rugby.com.au/nrc/LawVariation.aspx">Law Variations</a><a href="http://www.rugby.com.au/superrugby/RugbyShop.aspx"></a></li>
+                      </ul>
+                    </div>
+                  </div>
+              </li>
                 <li><a href="http://www.rugby.com.au/tryrugby" class="dropdown">Try Rugby</a> 
                     <div class="globalSubNav cf">
                         <div class="col">
@@ -146,7 +172,7 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
                     </div>
                 </li>
             </ul>
-        </div>
+</div>
         <div id="login">
             <ul>
                 <li> <a href="http://myrugby.rugby.com.au/myrugby/admin/content.asp?asset=MRA_Home&amp;n1=1&amp;n2=1&amp;n3=1" class="dropdown">MyRugbyAdmin</a> </li>
@@ -165,7 +191,7 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
         </div>
     </div>
     <div class="header_wrapper container">
-       <div class="row-fluid">
+        <div class="row-fluid">
 			<div class="span3">
 			<div class="logo">
                     <a href="/" title="Australian Rugby Union"><img alt="Australian Rugby" src="/Portals/1/australianrugbyunion.png" id="logo"></a>
@@ -173,10 +199,11 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
 			</div>
             <div class="span6">
                 <ul class="top-header">
-					<li><a href="http://myrugby.rugby.com.au/myrugby/admin/content.asp?asset=MRA_Home&amp;n1=1&amp;n2=1&amp;n3=1">MyRugby Admin</a></li> 				
-                    <li><a href="/ARUHQ.aspx">About</a></li>                    
+					<li><a href="http://admin-rugbylink.resultsvault.com">Rugby Link</a></li>	
+                    <li><a href="/Emailsubscriptions.aspx">Email Subscriptions</a></li>  
+                    <li><a href="/Media.aspx">Media</a></li>                  
                     <li><a href="/ARUHQ/JobsatARU.aspx">Jobs</a></li>
-                    <li><a href="/tryrugby/Playing.aspx">Play Rugby</a></li>                    
+                    <li><a href="/tryrugby/Playing.aspx">Play Rugby</a></li>
                 </ul>
                 <div style="clear: right;">
                 </div>
@@ -228,11 +255,14 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
             </div>
         </div>
         <div class="row-fluid">
+            
             <div class="span12">
-                <!-- DDRmenu v02.00.01 - Resources/Menu template --><nav class="mega-menu"><ul class="menu" id="dnn_pnav">
-    <li><a href="http://www.rugby.com.au/Home.aspx">Home</a></li>
+                 <!-- DDRmenu v02.00.01 - Resources/Menu template --><nav class="mega-menu"><ul class="menu" id="dnn_pnav">
+    <li class="current-menu-item"><a href="http://www.rugby.com.au/Home.aspx">Home</a></li>
     <li data-col="4" class="mega-menu-item mega-menu-fullwidth"><a href="http://www.rugby.com.au/News/LatestNews.aspx" class="dropdown-toggle">News</a><ul class="sub-menu mega-ul">
         <li><a href="http://www.rugby.com.au/News/LatestNews.aspx">Latest News</a></li>
+        <li><a href="http://www.rugby.com.au/Media.aspx">Media Distribution Sign Up</a></li>
+        <li><a href="http://www.rugby.com.au/Media.aspx">ARU Media Contacts</a></li>
         <li><a href="http://www.rugby.com.au/wallabies/News/LatestNews.aspx">Wallabies</a></li>
         <li><a href="http://www.rugby.com.au/superrugby/News.aspx">Super Rugby</a></li>
         <li><a href="http://www.rugby.com.au/sevens/News/LatestNews.aspx">Sevens</a></li>
@@ -250,7 +280,7 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
     <li><a href="http://www.rugby.com.au/hospitality/">Hospitality</a></li>
     <li data-col="3" class="mega-menu-item mega-menu-fullwidth"><a href="http://www.rugby.com.au/Teams.aspx" class="dropdown-toggle">Teams</a><ul class="sub-menu mega-ul">
         <li><a href="http://www.rugby.com.au/wallabies/TheTeam/WallabiesProfiles.aspx">Qantas Wallabies</a></li>
-        <li><a href="http://www.rugby.com.au/Teams/Wallaroos.aspx">Wallaroos</a></li>
+        <li><a href="http://www.rugby.com.au/wallaroos">Wallaroos</a></li>
         <li><a href="http://www.rugby.com.au/sevens/Teams/QantasMensSevensSquad.aspx">Mens Sevens</a></li>
         <li><a href="http://www.rugby.com.au/sevens/Teams/QantasWomensSevensSquad.aspx">Womens Sevens</a></li>
         <li><a href="http://www.rugby.com.au/Teams/AustralianU20s.aspx">Australian U20s</a></li>
@@ -259,21 +289,22 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
     <li data-col="3" class="mega-menu-item mega-menu-fullwidth"><a href="http://www.rugby.com.au/FixturesResults.aspx" class="dropdown-toggle">Fixtures &amp; Results</a><ul class="sub-menu mega-ul">
         <li><a href="http://www.rugby.com.au/wallabies/GameDay/2014Fixtures.aspx">Qantas Wallabies</a></li>
         <li><a href="http://www.rugby.com.au/superrugby/GameDay/FixturesResults.aspx">Super Rugby</a></li>
-        <li><a href="http://www.rugby.com.au/FixturesResults/NationalRugbyChampionship.aspx">National Rugby Championship</a></li>
+        <li><a href="http://www.rugby.com.au/nrc">National Rugby Championship</a></li>
         <li><a href="http://www.rugby.com.au/sevens/Tournaments/HSBCSevensWorldSeries.aspx">Sevens</a></li>
         <li><a href="http://www.irb.com/jwc/fixturesresults/index.html">Australian U20s</a></li>
-        <li><a href="http://austschools.rugbynet.com.au/default.asp?type=calendarlist">Australian Schoolboys</a></li>
+        <li><a href="http://www.rugby.com.au/FixturesResults/AustralianSchoolboys.aspx">Australian Schoolboys</a></li>
         <li><a href="http://www.rugby.com.au/FixturesResults/PremierGrade.aspx">Premier Grade</a></li>
         <li><a href="http://www.rugby.com.au/FixturesResults/ClubRugby.aspx">Club Rugby</a></li>
         <li><a href="http://www.rugby.com.au/FixturesResults/AddFixturestoCalendar.aspx">Add Fixtures to Calendar</a></li>
-        <li><a href="http://myrugby.rugby.com.au/myrugby/competitions/external/competitions.asp?orgid=000001">Junior Gold Cup</a></li>
+        <li><a href="http://www.rugby.com.au/FixturesResults/SuperRugbyDraw.aspx">Super Rugby Draw</a></li>
+        <li><a href="http://www.rugby.com.au/FixturesResults/JuniorGoldCup2015.aspx">Junior Gold Cup 2015</a></li>
       </ul>
     </li>
     <li data-col="3" class="mega-menu-item mega-menu-fullwidth"><a href="http://www.rugby.com.au/Video.aspx" class="dropdown-toggle">Video</a><ul class="sub-menu mega-ul">
         <li><a href="http://www.rugby.com.au/Video/Wallabies.aspx">Wallabies</a></li>
         <li><a href="http://www.rugby.com.au/Video/Sevens.aspx">Sevens</a></li>
         <li><a href="http://www.rugby.com.au/Video/SuperRugby.aspx">Super Rugby</a></li>
-        <li><a href="http://tv.rugby.com.au/">Coaching Skills &amp; Drills</a></li>
+        <li><a href="http://www.rugby.com.au/coaching/SmartRugby/ProgramFeatures.aspx">Coaching Skills &amp; Drills</a></li>
         <li><a href="http://www.rugby.com.au/Video/IRB.aspx">IRB</a></li>
         <li><a href="http://www.rugby.com.au/Video/FOXSPORTS.aspx">FOX SPORTS</a></li>
       </ul>
@@ -292,25 +323,30 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
         <li><a href="http://www.rugby.com.au/ARUHQ/MemberUnions.aspx">Member Unions</a></li>
         <li><a href="http://www.rugby.com.au/ARUHQ/AnnualReports.aspx">Annual Reports</a></li>
         <li><a href="http://www.rugby.com.au/ARUHQ/OfficialLicensees.aspx">Official Licensees</a></li>
-        <li><a href="http://www.rugby.com.au/ARUHQ/OfficialCharity.aspx">Official Charity</a></li>
+        <li><a href="http://www.rugby.com.au/ARUHQ/CharityPartners.aspx">Charity Partners</a></li>
         <li><a href="http://www.rugby.com.au/ARUHQ/AntiDoping.aspx">Anti Doping</a></li>
         <li><a href="http://www.rugby.com.au/ARUHQ/IllicitDrugsPolicy.aspx">Illicit Drugs Policy</a></li>
         <li><a href="http://www.rugby.com.au/ARUHQ/Betting.aspx">Betting</a></li>
         <li><a href="http://www.rugby.com.au/ARUHQ/JobsatARU.aspx">Jobs at ARU</a></li>
         <li><a href="http://www.rugby.com.au/ARUHQ/ARUSportsSupplementsPolicy.aspx">ARU Sports Supplements Policy</a></li>
+        <li><a href="http://www.rugby.com.au/ARUHQ/InclusionPolicy.aspx">Inclusion Policy</a></li>
+        <li><a href="http://www.rugby.com.au/concussion/">ARU Concussion Guidance</a></li>
+        <li><a href="http://www.rugby.com.au/ARUHQ/ARUMedicalPolicy.aspx">ARU Medical Policy</a></li>
       </ul>
     </li>
     <li data-col="3" class="mega-menu-item mega-menu-fullwidth"><a href="http://shop.rugby.com.au/" class="dropdown-toggle">Shop</a><ul class="sub-menu mega-ul">
         <li><a href="http://shop.rugby.com.au/">Wallabies</a></li>
         <li><a href="http://shop.rugby.com.au/super-rugby/">Super Rugby</a></li>
         <li><a href="http://shop.rugby.com.au/international/">International</a></li>
-        <li><a href="http://shop.rugby.com.au/equipment/11_shorts__socks.html">Equipment</a></li>
+        <li><a href="http://shop.rugby.com.au/rugby-balls/">Rugby balls</a></li>
         <li><a href="http://www.customwallabies.com.au/">Customised Wallaby Gear</a></li>
       </ul>
     </li>
   </ul></nav>
             </div>
         </div>
+    </div>
+    <div style="clear: both;">
     </div>
     </header>
     <div class="main_wrapper">
@@ -326,29 +362,7 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
                                             <div id="dnn_TopPane" class="DNNEmptyPane">
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="row-fluid">
-                                        <div class="span6">
-                                            <div id="dnn_LeftPane" class="DNNEmptyPane">
-                                            </div>
-                                        </div>
-                                        <div class="span6">
-                                            <div id="dnn_RightPane" class="DNNEmptyPane">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row-fluid">
-                                        <div class="span4">
-                                            <div id="dnn_TopLeftPane" class="DNNEmptyPane">
-                                            </div>
-                                        </div>
-                                        <div class="span4">
-                                            <div id="dnn_TopMiddlePane" class="DNNEmptyPane">
-                                            </div>
-                                        </div>
-                                        <div class="span4">
-                                            <div id="dnn_TopRightPane" class="DNNEmptyPane">
-                                            </div>
+                                        <div class="clear">
                                         </div>
                                     </div>
                                     <div class="row-fluid">
@@ -371,233 +385,37 @@ Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [],
                                     </div>
                                     <div class="row-fluid">
                                         <div class="span12">
-                                            <div id="dnn_contentPane" class="DNNEmptyPane">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row-fluid">
-                                        <div class="span4">
-                                            <div id="dnn_LeftSidebar" class="DNNEmptyPane">
-                                            </div>
-                                        </div>
-                                        <div class="span8">
-                                            <div id="dnn_LeftSidebarOuter" class="DNNEmptyPane">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row-fluid">
-                                        <div class="span8">
-                                            <div id="dnn_RightSidebarOuter">
-                                            <div class="DnnModule DnnModule-DNN_HTML DnnModule-3321"><a name="3321"></a>
+                                            <div id="dnn_contentPane">
+                                            <div class="DnnModule DnnModule- DnnModule--1">
 <div class="module_cont">
     <div class="bg_title">
         <h4>
-            <span id="dnn_ctr3321_dnnTITLE_titleLabel" class="title_h4">Privacy Policy</span>
+            <span id="dnn_ctr_dnnTITLE_titleLabel" class="title_h4">Privacy Statement</span>
 
 
 </h4>
     </div>
-    <div id="dnn_ctr3321_ContentPane">
-    <!-- Start_Module_3321 --><div id="dnn_ctr3321_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+    <div id="dnn_ctr_ContentPane">
+    <div id="dnn_ctr_ModuleContent" class="DNNModuleContent ModC">
 	
-<div id="dnn_ctr3321_HtmlModule_lblContent" class="Normal">
-		<p>&nbsp;</p>
-The Australian Rugby Union Limited (ARU) respects the privacy of the individuals on whom the ARU collects, uses, discloses and holds personal information. The ARU has a Privacy Policy that is based on the Australian Privacy Policy Principles contained in the Privacy Act 1988 (Cth).<br>
+<div class="dnnPrivacy dnnClear"><span id="dnn_ctr_Privacy_lblPrivacy">The Australian Rugby Union Limited (ARU) respects the privacy of the   individuals on whom the ARU collects, uses, discloses and holds personal   information. The ARU has a Privacy Policy that is based on the   Australian Privacy Policy Principles contained in the Privacy Act 1988   (Cth).<br>
 <br>
-The ARU uses the information it collects to administer the game of Rugby Union in Australia, to provide Rugby activities and Rugby-related services, to register, select and insure participants, and to assess the level of interest in the sport. We may also disclose your information to our Members (including without limitation the Super Rugby Licensees and the State and Territory Unions) to enable them to promote and administer the game of Rugby Union in their area and provide rugby activities and rugby-related services.<br>
+The ARU uses the information it collects to administer the game of Rugby   Union in Australia, to provide Rugby activities and Rugby-related   services, to register, select and insure participants, and to assess the   level of interest in the sport. We may also disclose your information   to our Members (including without limitation the Super Rugby Licensees   and the State and Territory Unions) to enable them to promote and   administer the game of Rugby Union in their area and provide rugby   activities and rugby-related services.<br>
 <br>
-The ARU also uses your information to provide information, materials and promotions relating to the ARU and to Rugby Union which the ARU considers may interest you. Where you consent, we may also disclose that information to our sponsors (to enable them to provide information, materials and promotional opportunities) and to certain other third parties.<br>
+The ARU also uses your information to provide information, materials and   promotions relating to the ARU and to Rugby Union which the ARU   considers may interest you. Where you consent, we may also disclose that   information to our sponsors (to enable them to provide information,   materials and promotional opportunities) and to certain other third   parties.<br>
 <br>
-Full copy of the Privacy Policy is available for <a href="/Portals/1/PDFs/Administration/2014PrivacyPolicy.pdf" target="_blank">download</a>.<br>
+Full copy of the Privacy Policy is available for <a href="http://www.rugby.com.au/Portals/16/PDFs/2014/2014PrivacyPolicy.pdf" target="_blank">download</a>.<br>
 <br>
-In some circumstances, you may be entitled to gain access to the information the ARU holds about you. If you wish to do so, please contact the ARU in writing at the address below:
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+In some circumstances, you may be entitled to gain access to the   information the ARU holds about you. If you wish to do so, please   contact the ARU in writing at the address below:&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>&nbsp;</p>
 <p>The Privacy Officer<br>
-Australian Rugby Union<br>
-PO Box 115<br>
-St Leonards NSW 1590</p>
+  Australian Rugby Union<br>
+  PO Box 115<br>
+  St Leonards NSW 1590</p>
 <p>Phone: (02) 8005 5555<br>
-Fax: (02) 8005 5699<br>
-Email: <a href="mailto:privacy@rugby.com.au">privacy@rugby.com.au</a></p>
-	</div>
-
-</div><!-- End_Module_3321 --></div>
-    <div class="clear">
-    </div>
-</div>
+  Fax: (02) 8005 5699<br>
+  Email: <a href="mailto:privacy@rugby.com.au">privacy@rugby.com.au</a></p></span></div>
 </div></div>
-                                        </div>
-                                        <div class="span4">
-                                            <div id="dnn_RightSidebar">
-                                            <div class="DnnModule DnnModule-PackFlash_PublishList DnnModule-3313"><a name="3313"></a>
-<div class="module_cont">
-    <div class="bg_title">
-        <h4>
-            <span id="dnn_ctr3313_dnnTITLE_titleLabel" class="title_h4">News Feature</span>
-
-
-</h4>
-    </div>
-    <div id="dnn_ctr3313_ContentPane">
-    <!-- Start_Module_3313 --><div id="dnn_ctr3313_ModuleContent" class="DNNModuleContent ModPackFlashPublishListC">
-	
-<script type="text/javascript">
-function SetADTCookie(TemplateName)
-{
-   //alert(TemplateName);
-   setCookie("ArticleDetailTemplate",TemplateName,1);
-  //alert(getCookie("ArticleDetailTemplate"));
-}
-
-function setCookie(c_name,value,expiredays)
-{
-    var exdate=new Date();
-    exdate.setDate(exdate.getDate()+expiredays); //alert(exdate.toGMTString());alert(expiredays);
-    document.cookie=c_name+ "=" +value+
-    ((expiredays==null) ? "" : ";expires="+exdate.toGMTString()+";path=/");
-}
-
-function getCookie(c_name)
-{
-if (document.cookie.length>0)
-  {
-  c_start=document.cookie.indexOf(c_name + "=");
-  if (c_start!=-1)
-    {
-    c_start=c_start + c_name.length+1;
-    c_end=document.cookie.indexOf(";",c_start);
-    if (c_end==-1) c_end=document.cookie.length;
-    return unescape(document.cookie.substring(c_start,c_end));
-    }
-  }
-return "";
-}
-
-</script>
-
-<style type="text/css">
-    .image_container a
-    {
-        display: block;
-    }    
-    #PackFlash_ArticleList li .image_container
-    {
-        display: none;
-        height: 0px;
-        width: 0px;
-    }    
-    #PackFlash_ArticleList li:first-child .image_container
-    {
-        display: block;
-        float: left;
-        height: inherit;
-        width: inherit;
-    }
-    #PackFlash_ArticleList li:first-child
-    {
-        background: none;        
-    }
-    #PackFlash_ArticleList li:first-child .headline a
-    {
-        display: block;
-    }
-    #PackFlash_ArticleList li .pf_articleListDate
-    {
-        display: none;
-    }
-    #PackFlash_ArticleList li:first-child .pf_articleListDate
-    {
-        display: block;
-    }
-    #PackFlash_ArticleList li:first-child .article-details
-    {
-        float: left;
-        
-    }
-    #PackFlash_ArticleList .headline a
-    {
-        display: inline;
-    }    
-</style>
-<span id="dnn_ctr3313_ArticleList_ArticleList3313_lblMessage"></span>
-
-        <div id="news" class="content-container">
-            <div class="content-header">
-                <h3>
-                    <span>
-                        </span>Latest News</h3>
-            </div>
-            <div class="content-body">
-                <ul id="PackFlash_ArticleList">
-    
-        <li>
-            <div class="image_container">
-                <a id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_hyplnk_ArticleList_Image_0" href="http://www.rugby.com.au/News/NewsArticle/tabid/1699/ArticleID/11619/RUGBY-LAUNCHES-PARLIAMENTARY-FRIENDS-OF-RUGBY-UNION.aspx" target="_self"></a>
-            </div>
-            <div class="article-details">
-                <div id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_pnl_CoverStory_Title_0" class="headline">
-		
-                <a href="http://www.rugby.com.au/News/NewsArticle/tabid/1699/ArticleID/11619/RUGBY-LAUNCHES-PARLIAMENTARY-FRIENDS-OF-RUGBY-UNION.aspx" target="_self">RUGBY LAUNCHES PARLIAMENTARY FRIENDS OF RUGBY UNION</a>
-	</div>
-                <p class="date pf_articleListDate">
-                    28 MAY 2014</p>
-                <a id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_hyplnk_ReadFullArticle_0"></a>
-                <div id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_pnl_CoverStory_Edit_0">
-		
-                
-	</div>
-            </div>
-            <div class="clear">
-            </div>
-        </li>
-    
-        <li>
-            <div class="image_container">
-                <a id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_hyplnk_ArticleList_Image_1" href="http://www.rugby.com.au/News/NewsArticle/tabid/1699/ArticleID/11615/AUSTRALIAN-UNDER-20s-WIN-FOUR-FROM-FOUR-IN-2014.aspx" target="_self"><img src="/DesktopModules/PackFlashPublish/Resources/handlers/imageresize.ashx?image=~/Portals/1/U20s/babas v under 20s edit.jpg&amp;height=100&amp;width=100&amp;portalID=1" id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_imgTopImage_1" alt="AUSTRALIAN UNDER 20s WIN FOUR FROM FOUR IN 2014 "></a>
-            </div>
-            <div class="article-details">
-                <div id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_pnl_CoverStory_Title_1" class="headline">
-		
-                <a href="http://www.rugby.com.au/News/NewsArticle/tabid/1699/ArticleID/11615/AUSTRALIAN-UNDER-20s-WIN-FOUR-FROM-FOUR-IN-2014.aspx" target="_self">AUSTRALIAN UNDER 20s WIN FOUR FROM FOUR IN 2014 </a>
-	</div>
-                <p class="date pf_articleListDate">
-                    27 MAY 2014</p>
-                <a id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_hyplnk_ReadFullArticle_1"></a>
-                <div id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_pnl_CoverStory_Edit_1">
-		
-                
-	</div>
-            </div>
-            <div class="clear">
-            </div>
-        </li>
-    
-        <li>
-            <div class="image_container">
-                <a id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_hyplnk_ArticleList_Image_2" href="http://www.rugby.com.au/News/NewsArticle/tabid/1699/ArticleID/11611/ARU-appoints-Geraint-John-as-new-Qantas-Mens-Sevens-Head-Coach.aspx" target="_self"><img src="/DesktopModules/PackFlashPublish/Resources/handlers/imageresize.ashx?image=~/Portals/1/Images/2014_Sevens_Geraint_John_newsimage.jpg&amp;height=100&amp;width=100&amp;portalID=1" id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_imgTopImage_2" alt="ARU appoints Geraint John as new Qantas Men's Sevens Head Coach"></a>
-            </div>
-            <div class="article-details">
-                <div id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_pnl_CoverStory_Title_2" class="headline">
-		
-                <a href="http://www.rugby.com.au/News/NewsArticle/tabid/1699/ArticleID/11611/ARU-appoints-Geraint-John-as-new-Qantas-Mens-Sevens-Head-Coach.aspx" target="_self">ARU appoints Geraint John as new Qantas Men's Sevens Head Coach</a>
-	</div>
-                <p class="date pf_articleListDate">
-                    27 MAY 2014</p>
-                <a id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_hyplnk_ReadFullArticle_2"></a>
-                <div id="dnn_ctr3313_ArticleList_ArticleList3313_rptrArticles_pnl_CoverStory_Edit_2">
-		
-                
-	</div>
-            </div>
-            <div class="clear">
-            </div>
-        </li>
-    
-        </ul></div></div>
-    
-
-
-</div><!-- End_Module_3313 --></div>
     <div class="clear">
     </div>
 </div>
@@ -605,22 +423,12 @@ return "";
                                         </div>
                                     </div>
                                     <div class="row-fluid">
-                                        <div class="span3">
-                                            <div id="dnn_LeftSidebarLower" class="DNNEmptyPane">
+                                        <div class="span6">
+                                            <div id="dnn_LeftPane" class="DNNEmptyPane">
                                             </div>
                                         </div>
-                                        <div class="span9">
-                                            <div id="dnn_LeftSidebarLowerOuter" class="DNNEmptyPane">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="row-fluid">
-                                        <div class="span9">
-                                            <div id="dnn_RightSidebarLowerOuter" class="DNNEmptyPane">
-                                            </div>
-                                        </div>
-                                        <div class="span3">
-                                            <div id="dnn_RightSidebarLower" class="DNNEmptyPane">
+                                        <div class="span6">
+                                            <div id="dnn_RightPane" class="DNNEmptyPane">
                                             </div>
                                         </div>
                                     </div>
@@ -667,60 +475,90 @@ return "";
         </div>
     </div>
     <footer>
-        <div class="footer_line container">
-        	<div class="copyright">© <span id="dnn_dnnCopyright_lblCopyright" class="SkinObject">Australian Rugby Union</span>
- | <a id="dnn_dnnTerms_hypTerms" class="SkinObject" rel="nofollow" href="http://www.rugby.com.au/terms.aspx">Terms Of Use</a> | <a id="dnn_dnnPrivacy_hypPrivacy" class="SkinObject" rel="nofollow" href="http://www.rugby.com.au/privacy.aspx">Privacy Statement</a> | <a href="http://sso.rugby.com.au/Common/ContactUs">Contact Us</a></div>
-            <div class="socials">
-            	<div id="dnn_BottomSocialPane" class="DNNEmptyPane">             
-                    </div>         
-            </div>
-            <div id="login">
-               
-<!--close registerGroup-->
+    <div class="footer_line container">
+        <div class="copyright">
+            ©
+            <span id="dnn_dnnCopyright_lblCopyright" class="SkinObject">Australian Rugby Union</span>
 
-<div id="dnn_dnnLogin_loginGroup" class="loginGroup">
-    <a id="dnn_dnnLogin_enhancedLoginLink" title="Login" class="LoginLink" href="http://www.rugby.com.au/loginv3/tabid/3408/Default.aspx?returnurl=%2fPrivacyPolicy.aspx">Login</a>
-</div><!--close loginGroup-->
-</div>
-            <div class="clear"></div>
-            <a href="javascript:void(0)" class="btn2top"></a>            
+            |
+            <a id="dnn_dnnTerms_hypTerms" class="SkinObject" rel="nofollow" href="http://www.rugby.com.au/terms.aspx">Terms Of Use</a>
+            |
+            <a id="dnn_dnnPrivacy_hypPrivacy" class="SkinObject" rel="nofollow" href="http://www.rugby.com.au/privacy.aspx">Privacy Statement</a> | <a href="http://sso.rugby.com.au/Common/ContactUs">Contact Us</a>
         </div>
-        <div class="footer_border"></div>
-    </footer>    
+        <div id="login">
+            
+<!--close registerGroup-->
+            
+<div id="dnn_dnnLogin_loginGroup" class="loginGroup">
+    <a id="dnn_dnnLogin_enhancedLoginLink" title="Login" class="LoginLink" href="http://www.rugby.com.au/loginv3/tabid/3408/Default.aspx?returnurl=%2fprivacy.aspx">Login</a>
+</div><!--close loginGroup-->
+        </div>
+        <div class="clear">
+        </div>
+        <a href="javascript:void(0)" class="btn2top"></a>
+    </div>
+    <div class="footer_border">
+    </div>
+    </footer>
     <div class="layout_trigger boxed_bg_cont" style="background-image: url(/Portals/_default/Skins/Dixit/img/bg_rugby.jpg);">
     </div>
 </div>
 
-
-<script type="text/javascript">
-
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-24287172-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
- 
+<script type="text/javascript"> 
+$(document).ready(function() { 
+	if ($.fn.cssOriginal!=undefined) 
+	$.fn.css = $.fn.cssOriginal; 
+	var api = $('.banner').revolution({ 
+		delay:7000, 
+		startheight:428, 
+		startwidth:1170, 
+		hideThumbs:200, 
+		thumbWidth:100, // Thumb With and Height and Amount (only if navigation Tyope set to thumb !) 
+		thumbHeight:50, 
+		thumbAmount:5, 
+		navigationType:"none", //bullet, thumb, none, both (No Thumbs In FullWidth Version !) 
+		navigationArrows:"verticalcentered", //nexttobullets, verticalcentered, none 
+		navigationStyle:"round", //round,square,navbar 
+		touchenabled:"on", // Enable Swipe Function : on/off 
+		onHoverStop:"off", // Stop Banner Timet at Hover on Slide on/off 
+		navOffsetHorizontal:0, 
+		navOffsetVertical:20, 
+		stopAtSlide:-1, // Stop Timer if Slide "x" has been Reached. If stopAfterLoops set to 0, then it stops already in the first Loop at slide X which defined. -1 means do not stop at any slide. stopAfterLoops has no sinn in this case. 
+		stopAfterLoops:-1, // Stop Timer if All slides has been played "x" times. IT will stop at THe slide which is defined via stopAtSlide:x, if set to -1 slide never stop automatic 
+		hideCaptionAtLimit:0, // It Defines if a caption should be shown under a Screen Resolution ( Basod on The Width of Browser) 
+		hideAllCaptionAtLilmit:0, // Hide all The Captions if Width of Browser is less then this value 
+		hideSliderAtLimit:0, // Hide the whole slider, and stop also functions if Width of Browser is less than this value 
+		shadow:0, //0 = no Shadow, 1,2,3 = 3 Different Art of Shadows (No Shadow in Fullwidth Version !) 
+		fullWidth:"off" // Turns On or Off the Fullwidth Image Centering in FullWidth Modus 
+	}); 
+}); 
 </script>
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NWXFDR"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NWXFDR');</script>
-<!-- End Google Tag Manager -->
+		
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24287172-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+
+</script>
+
+<script type="text/javascript" src="http://6239544.collect.igodigital.com/collect.js"></script>
+    <script type="text/javascript">
+      _etmc.push(["setOrgId", "6239544"]);
+      _etmc.push(["trackPageView"]);
+    </script>
 
         <input name="ScrollTop" type="hidden" id="ScrollTop">
-        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`1734`}">
-        <input name="__RequestVerificationToken" type="hidden" value="G78WX_PwbA-4eGOPJWeXVWFNJKgrNg9FgZZOtK3JOFFgLPTcX9gp9FHadxmUstvl3nTXbomFxIXFwz73ZC6XXGr--V-MtYufwQTHtL8eCz2QQeVeiFJkU0iBaqk1">
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`4382`}">
+        <input name="__RequestVerificationToken" type="hidden" value="YvluF5pwLWjkcSYYuT-BmNScN_kHTqTRAs8fDKxQgnr044el5_q8gBzuNP0gN5oTjaV2M8t5VhHNiyFfsv7xyE-sojm6gUt71DGXIFu88gc45nxzsG6nKQ9DXfQ1">
     
 <script type="text/javascript" src="/Resources/Shared/scripts/initWidgets.js"></script></form>
     
     
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
