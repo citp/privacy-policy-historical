@@ -1,69 +1,134 @@
-> *The following text is extracted and transformed from the fen.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221192119id_/http%3A//www.pearsonschool.com/index.cfm%3Flocator%3DPSZ19q) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fen.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225025025id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
 
-# pearsonschool.com: Privacy Statement
+# Fen.com - Privacy Statement
 
-**PLEASE READ THE FOLLOWING CAREFULLY**
+  
+|  | [Parents](http://familyeducation.com/)  
+|   
+---|---|---  
+| [Teachers](http://teachervision.com/)  
+|   
+| [Kids](http://www.funbrain.com/)  
+|   
+| [Teens](http://www.factmonster.com/)  
+|   
+| [Reference](http://www.infoplease.com/)  
+|   
+| |   
+  
 
-THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE. IF YOU ARE UNDER 18 YEARS OF AGE, PLEASE BE SURE TO READ THIS PRIVACY STATEMENT WITH YOUR PARENTS OR GUARDIAN AND ASK QUESTIONS ABOUT THINGS YOU DO NOT UNDERSTAND.
 
-This website (the "Site") is brought to you by the School Division of Pearson Education, Inc. and its subsidiaries and affiliates ("Pearson"). The School Division of Pearson encompasses the Curriculum, Assessment, Student Information, Family Learning and Teacher Development business lines of Pearson. At Pearson we are serious about protecting your privacy, and this Privacy Statement discloses how we collect, protect, use, and share the personal information gathered on this Site.
+[](http://www.infoplease.com/)
 
-Your use of this Site is subject to the Terms of Use posted on this website (which includes this Privacy Statement). The Terms of Use (including this Privacy Statement) or any part thereof may be revised from time to time through an updated posting, and therefore you should check the Terms of Use (including this Privacy Statement) periodically. Revisions are effective upon posting and your continued use of this website following the posting of revisions to the Terms of Use (including this Privacy Statement) will indicate your acceptance of such revisions. If you have any questions concerning the Terms of Use (including this Privacy Statement), please [contact us](https://web.archive.org/web/20121221192119id_/http%3A//www.pearsonschool.com/index.cfm?locator=PSZ51p).
+| [Atlas](http://www.infoplease.com/atlas/)  
+|   
+---|---|---  
+| [Encyclopedia](http://www.infoplease.com/encyclopedia.html)  
+|   
+| [Almanacs](http://www.infoplease.com/almanacs.html)  
+|   
+| [Dictionary](http://www.infoplease.com/dictionary.html)  
+|   
+| |   
+  
+  
 
-PLEASE ALSO NOTE THAT THE PRIVACY POLICES OF VARIOUS PEARSON PRODUCTS AND SERVICES WITHIN THIS SITE OR LINKED TO THIS SITE MAY BE SUBJECT TO DIFFERENT TERMS AND POLICIES. PLEASE CHECK ON THE APPROPRIATE PRIVACY POLICY LINK FREQUENTLY TO DETERMINE THE PRIVACY TERMS APPLICABLE TO SUCH PEARSON PRODUCTS AND SERVICES.
 
-## WHAT INFORMATION IS COLLECTED
+| [About Family Education Network](https://web.archive.org/resources/aboutFEN.html)  
+|   
+---|---|---  
+| [About Our Partners](https://web.archive.org/resources/partners.html)   
+|   
+| [Help](http://fen.custhelp.com/cgi-bin/learningnetwork.cfg/php/enduser/std_alp.php?p_pv=1.1&p_prods=1&prod_lvl1=1&prod_lvl2=0)|   
+| |   
+  
+| 
 
-We consider the following to be examples of personally-identifying information: they include but are not limited to your first and last name, email address, home address, phone number, social security number and certain other information to the extent they are linked with your personally-identifying information.
+FEN, a division of Pearson Education, Inc., ("FEN") operates this website ("Website") and is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to family and educator concerns about children's safety and information related to them. We want you to know about and understand the measures we have taken to keep the websites and online services provided by FEN a safe and secure environment for everyone. This privacy statement tells you about the types of information that we collect from you, how we collect that information from you and how we use that information. 
 
-The information we learn from users helps us personalize and continually improve your experience at [www.PearsonSchool.com](http://www.pearsonschool.com/) in furtherance of serving the user's needs and our legitimate business purposes. (For example, when the user makes an online purchase or enrolls in a marketing promotion, we need to retain certain personally-identifying information on the Site in order to respond to their request). A user's personally-identifying information may be used by our company to help us improve the website, and also for our company's marketing and promotional purposes. We receive and store any information you enter on this Site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing features for you, and communicating with you. Except as specifically stated herein, our policy is not to share this information with third parties, but we may share this information with other companies within Pearson. We will never sell this information to third-party marketing companies.
+We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our Website. Please refer to this privacy statement regularly. FEN reserves the right to revise this privacy statement at any time and such revisions shall be effective immediately upon notice thereof. Notice may be given by any means including, but not limited to, posting the revised privacy statement on this Website. Any use of our site by you subsequent to such notice shall be deemed to constitute acceptance by you of such revision. 
 
-## INFORMATION SHARING AND DISCLOSURE.
+If you have any questions or concerns about this privacy statement, or your dealings with FEN, please: 
 
-Information collected through this Site may be supplied to affiliates of Pearson, and other companies and organizations who perform work for us under contract or sell products or services that complement our products and services. We also may disclose personally identifiable information in the following situations: (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect user security or the security of other persons, consistent with applicable laws; (c) in connection with a sale, joint venture or other transfer to some or all of the assets of Pearson; or (d) in order to enforce the Site's Terms of Use. We otherwise exercise commercially reasonable care to not otherwise share or disclose the names of users or any personally identifiable information with third parties, except with the prior approval of the user.
+a) E-mail us at [Customer Support](http://fen.custhelp.com/app/ask/p/1/search/1); 
 
-## SPECIAL NOTICE TO PARENTS AND CHILDREN
+b) Write to us at: FEN, 501 Boylston St, Suite 900, Boston, MA 02116; or
 
-PARENTS: We encourage parents and guardians to spend time online with their Children (Children 12 and under) and to participate in the activities that may be offered on this Site. No personally-identifying information should be submitted to or posted on this Site by Children without the consent of their parent or guardian. We encourage parents to monitor their Children's online use, and to help us protect their privacy by instructing them never to provide personally-identifying information on this Site or any other website without permission. We are also prohibited by law from conditioning a Child's participation in any activity on this website on the Child disclosing more personally-identifying information than is reasonably necessary to participate in such activity.
+c) Call us at: 1-800-498-3264. 
 
-CHILDREN: Please do not give your full name, email address, home address, telephone number or any other personally-identifying information that would enable someone to contact you either online or offline, without first asking your parent or guardian and teacher for permission.
+## Information We Collect From You
 
-We do not knowingly collect personally-identifying information from Children on this Site either directly or passively except when a Child may voluntarily submit such information through (i) a "[Contact Us](https://web.archive.org/web/20121221192119id_/http%3A//www.pearsonschool.com/index.cfm?locator=PSZ51p)" link on a Child's area of this website or (ii) a public posting area, if such feature is available. If a Child e-mails us via a "[Contact Us](https://web.archive.org/web/20121221192119id_/http%3A//www.pearsonschool.com/index.cfm?locator=PSZ51p)" link on any child directed area of this Site and we can identify the sender as a Child, any personally-identifying information submitted will only be used to respond on a one-time basis to such Child and will thereafter be deleted from our records. In addition, if we have actual knowledge that a Child is sending or posting personally-identifying information on any area of this Site, we will use commercially reasonable efforts to delete such personally-identifying information before it is made public. We will never request personally-identifying information from a Child in any of our public postings areas. Please note that any online store that may be accessed from the Site is intended for parents, teachers and other adult purchasers over the age of 18 and requires the submission of personally-identifiable information to fulfill and service any transactions.
+When you use this Website, we may collect personal information and anonymized information from you. Personal information means information that would identify you, directly or indirectly, such as your name, mailing address, email address or telephone number. Anonymized information means information that does not or could not reasonably be used to identify a specific individual. 
 
-We may disclose a Child's personally-identifying information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users, or anyone else that could be harmed by such activities. We may also disclose a Child's personally-identifying information when we believe in good faith that the law requires it.
+When you create a user account we may request that you create a unique username and password and provide us with certain personal information, such as, first name, last name, email address, gender, date of birth, and ZIP code. 
 
-## PUBLIC POSTINGS
+In connection with a purchase transaction, we will ask you for the following information: first name, last name, billing zip code or postal code, phone number, credit card number, security code, and card expiration date. 
 
-Users and especially Children should note that any personally-identifying information that is voluntarily posted to any public area of this website (such as posting boards, chatrooms, wish lists, etc...) may always be collected and used by others. While we monitor such posting areas from time to time and will use commercially reasonable efforts to delete a Child's personally-identifying information prior to posting, we strongly encourage Children not to post such information.
+This Website may contain blogs, bulletin boards or other public forums where free form entry is permitted. We highly recommend that you do not post your personal information when using these features. If you provide your personal information through any of these features, then such personal information will be posted publicly. 
 
-## COOKIES AND COLLECTION AND USE OF INFORMATION
+We also collect anonymized information from your computer or device such as browser type, operating system, referring pages, pages visited, time spent on a particular page and IP address. 
 
-We receive and store certain types of information whenever you interact with this Site. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses this Site. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide customized features to you. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Website of its manufacturer. However, cookies allow you to take full advantage of this Site's best features, and we recommend that you leave them turned on. Prior to user registration, Pearson may employ cookie technology on this Site to (i) track non-personal information such as type of browser, operating system, domain names and IP addresses, and (ii) improve our visitors' experience online. Prior to user registration, we do not link IP addresses to any personally-identifiable information. However, once you register and affirmatively opt-in and provide personal information about yourself for purposes of receiving more information about our products and services or ordering products, such personal information provided by you or collected through the cookie technology may be used for marketing purposes back to you as specified on a registration page. If you do not want to receive e-mail or other marketing communications from us, please adjust your registration page to opt-out of further marketing back to you.
+## How We Collect Your Information 
 
-In connection with cookies we may use web beacons to track response rates to certain email communications that a user has opted to receive from us. If a user has registered with our Site, we may collect certain personal information in connection with the web beacon including the referring email address. This information is not shared with third parties.
+When you use this website, we collect personal information and anonymized information through a variety of methods. 
 
-Please also note that Pearson reserves the right to monitor your compliance with the Terms of Use of this Site and may track your usage of the Site in order to confirm compliance with these Terms of Use. Pearson also reserves the right, in its sole discretion, to terminate your access to the Site for any reason, including non-compliance with these Terms of Use.
+We collect personal information from you when you interact with this Website by filling out a form such as registering for a user account, submitting a customer service request, conducting a purchase transaction, or participating in a public discussion forum. 
 
-Pearson uses WebTrends On Demand, a third party service, to collect anonymous visitor data on our network of sites. The WebTrends On Demand service does not collect any personal information such as names, ages, phone numbers, addresses or e-mail addresses from visitors to the Site. Pearson uses the WebTrends On Demand service to collect visitor information like IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on a particular site. Pearson uses the WebTrends On Demand service to collect this information for the following purposes: (1) to provide statistical analysis of web page traffic patterns; (2) to administer our Site and servers; (3) to allow for auditing of our services by third parties; and (4) for internal marketing purposes. If you would like to learn more about the WebTrends On Demand service and to view the complete WebTrends On Demand privacy statement, please [click here](https://ondemand.webtrends.com/privacypolicy.asp#PSFV).
+We collect anonymized information from you by using technologies like cookies, web beacons and server logs. 
 
-## LINKS TO OTHER SITES
+This Website contains cookies from FEN and third parties. While browsing through this Website, you may get cookies from our advertisers or sponsors. FEN does not control these cookies. 
 
-This Site may provide links to third party websites or resources. The information practices of those websites are not covered by this Privacy Statement or any other policies or terms applicable to this Site. We recommend that you review any terms of use and privacy policy of any linked third party website before providing any information to that website or using its products and services.
+## How We Use Your Information
 
-Please note that this Site may also provide links to other sites brought to you by Pearson. The Privacy Statement and Terms of Use of other Pearson sites may vary from this Site. We recommend that you review the privacy statements, terms of use and other policies or terms that may apply to other Pearson sites if you should choose to use such sites.
+FEN and its affiliates may use your personal information to tailor the content programming, services, and applications that we provide to meet your needs and interests. When you conduct a purchase transaction through this Website, you are providing purchase transaction information to FEN's third party service providers (such as transaction processors and financial institutions) who will use the information solely for the purpose of the purchase transaction. 
 
-## COLLECTION AND USE OF INFORMATION FROM CAREER INQUIRIES.
+When visitors request pages from FEN sites, our servers log users' IP addresses. We typically do not link IP addresses to any personal information. This means that a visitor's session will be logged, but the visitor remains anonymous to us. 
 
-Through the Careers page, a user may submit a resume or curriculum vitae (CV) and apply for a job or career at Pearson. If you submit an application or a resume or CV, we may collect and keep a record of the submission, including the email address, the resume or CV and all information supplied with such submission, and use this information to evaluate you for an employment position at Pearson. We also may, but are not obligated to, retain this information for the purpose of evaluating you for other employment opportunities in the future.
+FEN collects IP addresses for system administration, to report aggregate information to our advertisers, sponsors, and partners, and to audit the use of our site. We will use IP addresses to identify a user in the following situations: (a) in response to subpoenas, court orders or legal process, to the extent permitted and as restricted by law; (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws. 
 
-## OWNERSHIP
+The anonymized information we track with cookies is not used to identify, or lead us back to, any particular visitor. Visitors to this Website may have the option of disabling cookies via their browser preferences (most browsers are initially set up to accept cookies). Cookies make our Website easier for you to use because they save your preferences while you are visiting our sites (although we do not save passwords in cookies). Cookies also help us know which areas are your favorites, which areas need improvement, and what technologies and Internet services our visitors are using. Knowing this information helps us continually improve the online experience for our visitors and members. 
 
-This Site is owned and operated by Pearson and the contents of this Site are protected by copyright of Pearson and/or its licensors.
+FEN may also use third party vendors who supply applications, web hosting and other technologies for this Website that may have access to your personal information and anonymized information but they will never use such information for any other purpose except to provide services in connection with this site. 
 
-## ADDITIONAL INFORMATION ABOUT PRIVACY
+FEN will not share any personal information about you with any third party (a party not affiliated with Pearson Education, Inc.), except as otherwise stated in this Privacy Statement and in the following circumstances: (a) in response to subpoenas, court orders or legal process, to the extent permitted and as restricted by law; (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws; (c) when disclosure is directed or consented to by the registered member who has inputted the personal information; (d) in the event that Pearson Education, Inc. (the owner of FEN) or any of its subdivisions or units goes through a business transition, such as a merger, divestiture, acquisition, liquidation or sale of all or a portion of its assets, your personal information will, in most instances, be part of the assets transferred; or (e) in limited circumstances, FEN may disclose your email address in order to comply with laws and regulations, including the Controlling the Assault of Non-Solicited Pornography and Marketing Act (CAN-SPAM of 2003). 
 
-If you have any concerns or questions about privacy on this Site, please [Contact Us](https://web.archive.org/web/20121221192119id_/http%3A//www.pearsonschool.com/index.cfm?locator=PSZ51p).
+## Helpful Explanations
 
-Pearson Education, Inc. (Revised -June, 2007)
+An IP address is a number that is assigned automatically to your computer whenever you use the World Wide Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address. 
 
-Go to [Terms of Use](https://web.archive.org/web/20121221192119id_/http%3A//www.pearsonschool.com/index.cfm?locator=PSZ19r).
+The use of "cookies" is common in the Internet industry; you will find them used on this Website, as you will at other major websites. "Cookies" are small text files written to your computer. For more information about cookies please go to: <http://www.allaboutcookies.org/>.
+
+## Children's Privacy
+
+We do not knowingly contact or collect personal information from children under 13 through this Website. If you believe we have inadvertently collected such information, please contact us so we can promptly remove the information. 
+
+## About Our Advertisers:
+
+This Website allows advertising by third parties. FEN does not control the linking practices of advertisers or sponsors and does not monitor or claim responsibility for any content or privacy practices of such websites. Once you have clicked on an advertisement and have left this Website, you must read the privacy policy of the advertiser or sponsor to see how your personal information will be handled. 
+
+FEN may offer contests, sweepstakes, and promotions that are sponsored by third-party advertisers or sponsors. These third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the activity. FEN does not control the third parties' use of information. 
+
+FEN may use advertising servers developed by third parties to display ads on this Website. Some of these ads may contain cookies that are set by third parties (advertisers, sponsors) and may use anonymized information (not including your name, address, email address, telephone number) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not have access to these cookies or any information that they transmit. The FEN privacy statement does not cover any use of information that a third-party ad server may have collected from you. For more information on ad serving, please go to: <http://www.allaboutcookies.org/ad-serving/>. If you would like to know your choices about not having information used by these third parties, please go to: [http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options.). 
+
+## A Notice About External Links
+
+Occasionally, you will find links from FEN to independently owned, controlled, and/or managed Websites whose content we believe will be of possible interest and value to our visitors. Additionally, you'll see links from advertisers, sponsors, and other partners who may use a FEN owned logo as part of a co-branding agreement. 
+
+In many cases, these links represent cooperative projects or mutual links established with the organizations connected with these sites. We do not control the content of these links. These other sites may send you their own cookies, collect data, or solicit personal information. While we identify sponsor and advertiser areas of our Websites, we do not control these cookies or the content of these third parties. 
+
+FEN has partnered with other companies to provide certain services. In some cases, you may see a FEN owned logo on another company's site. FEN does not share any of your personally identifiable information with these partners and they do not share any information with us. 
+
+Once you leave our servers (you can generally tell where you are by checking the URL in the location bar on your browser), the use of any information collected from you is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you cannot find the privacy policy of any of these sites via a link from that site's Home page, you should contact the site directly for more information. 
+
+We specifically recommend that children check with their parents, guardians, or teachers before connecting to any new sites. 
+
+## Security, Purchases and Credit Card Use: 
+
+FEN has security measures in place to protect the loss, misuse, and alteration of the information under our control. Essentially, we encrypt all transmission of sensitive data and secure all of our repositories of data. When you use your credit card to make a purchase transaction with FEN, your transaction is secure. Our servers use encryption technology to safeguard your personal information and privacy. However, you should understand that "perfect security" cannot be guaranteed.
+
+* * *
+
+© 2000-2014 Pearson Education, Inc. All rights reserved 
+
+  
+  | 
