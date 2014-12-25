@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtlinks.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510082851id_/http%3A//www.xtlinks.com/p/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtlinks.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225164942id_/http%3A//www.xtlinks.com/p/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | XtLinks.com
 
