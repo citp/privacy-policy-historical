@@ -1,25 +1,23 @@
-<!--The following is the downloaded HTML source of the edge.ca privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626012144id_/http%3A//www.edge.ca/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edge.ca privacy policy that was archived on 2014-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225094649id_/http%3A//www.edge.ca/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<title>Privacy Policy | 102.1 the Edge</title>
-  	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0"><!-- Remove if you're not building a responsive site. (But then why would you do such a thing?) -->
 	<meta name="keywords" content="">
 	<meta property="fb:app_id" content="491707044245199"> 
 	
 	 
-	<meta name="description" content="PRIVACY POLICY – Updated as of August 2013
-CFNY-FM r ...">
+	<meta name="description" content="PRIVACY POLICY – Updated as of August 2013 CFNY-FM r ...">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="Privacy Policy | 102.1 the Edge"> 
-  	<meta property="og:image" content="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/34/logo.png?r=4119"> 
-  	<meta property="og:description" content="PRIVACY POLICY – Updated as of August 2013
-CFNY-FM r ...">
-  	<meta property="og:url" content="http://www.edge.ca/privacy-policy/">
-	  	
-  	<link rel="pingback" href="http://www.edge.ca/xmlrpc.php">
+	<meta property="og:image" content="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/34/logo.png?r=4119"> 
+	<meta property="og:description" content="PRIVACY POLICY – Updated as of August 2013 CFNY-FM r ...">
+	<meta property="og:url" content="http://www.edge.ca/privacy-policy/">
+		
+	<link rel="pingback" href="http://www.edge.ca/xmlrpc.php">
 	<link rel="icon" type="image/png" href="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/34/playerLogo.png?r=4120">
 		
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://d2x3wmakafwqf5.cloudfront.net/uploads/station/34/playerLogo.png?r=4120">
@@ -35,7 +33,7 @@ CFNY-FM r ...">
 <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
 <script> 
 	isIE8 = true; 
-	try {Date.now = Date.now || function() { return +new Date; }; } catch (e) {}
+	Date.now = Date.now || function() { return +new Date; }; 
 </script>
 <style>
 .commentlist img.avatar { margin-top:20px;}
@@ -58,14 +56,10 @@ CFNY-FM r ...">
 		adMacros.categories = null;
 		adMacros.eventCalendars = null;
 		adMacros.eventID = null;
-		adMacros.url = encodeURIComponent(window.location);
+		adMacros.url = null;
 		adMacros.referrer = null;
 		adMacros.userAgent = "ia_archiver+%28%2Bhttp%3A%2F%2Fwww.alexa.com%2Fsite%2Fhelp%2Fwebmasters%3B+crawler%40alexa.com%29";
 		adMacros.callLetters = "CFNYFM";
-		adMacros.member = {};
-		adMacros.member.age = null;
-		adMacros.member.location = null;
-		adMacros.member.gender = null;
 adMacros.type = 'page';
 
 		adMacros.url = window.location;
@@ -74,31 +68,36 @@ adMacros.type = 'page';
 		} catch (e) {
 			adMacros.url = window.location;
 		}
-
+		
 		var CDN_URL_CUSTOM_WORDPRESS = "http://d2x3wmakafwqf5.cloudfront.net/wordpress"; //needed in scripts
 		var CDN_URL_CUSTOM_IMAGES = "http://d2x3wmakafwqf5.cloudfront.net/application/images";
-		var CDN_URL_CUSTOM_JS = "http://d3of83nms6dskl.cloudfront.net/application/js";
+		var CDN_URL_CUSTOM_JS = "http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js";
 		var URL_PROTOTYPE = "http://d2x3wmakafwqf5.cloudfront.net/application/prototype";
+		var CDN_HOST_MEDIA = "http://d2x3wmakafwqf5.cloudfront.net";
 		var call_letters = "CFNYFM";
 		var user_agent = "ia_archiver+%28%2Bhttp%3A%2F%2Fwww.alexa.com%2Fsite%2Fhelp%2Fwebmasters%3B+crawler%40alexa.com%29";
 		var referrer = "";
 		var isMobileUserAgent = false;
 		
-		var isInsideSocastIframe;
+		var isInsideSocastIframe = false;
 		try {
 			isInsideSocastIframe = (window.parent.document.getElementById("socast") != null);
-		}
-		catch (ex) {
+		} catch (ex) {
 			isInsideSocastIframe = false;
 		}
 		
 		var isTablet = false;
 				var volume = 30;
-	    		var supplied = "mp3,m4a";
+				var supplied = "mp3,m4a";
 		
 		//mobile sidebar settings
-		var isMobilePreview = false, hasPlayer = true, showSidebar = true;
-		</script>
+		var isMobilePreview = false;
+		var hasPlayer = true;
+		var showSidebar = true;
+			var communityUserName = null;
+		var communityUserIcon = null;
+		
+	</script>
 
 		
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.24 - http://yoast.com/wordpress/seo/ -->
@@ -108,36 +107,44 @@ adMacros.type = 'page';
 
 <link rel="stylesheet" id="bootstrap-css" href="http://www.edge.ca/wp-content/plugins/js_composer/assets/bootstrap/css/bootstrap.css?ver=3.4.6" type="text/css" media="screen">
 <link rel="stylesheet" id="js_composer_front-css" href="http://www.edge.ca/wp-content/plugins/js_composer/assets/css/js_composer_front.css?ver=3.4.6" type="text/css" media="screen">
-<link rel="stylesheet" id="canvas-css" href="http://d148cttzaowzx5.cloudfront.net/application/theme/stylesheets/all.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="canvas-css" href="http://d148cttzaowzx5.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/stylesheets/all.css?ver=3.4.2" type="text/css" media="all">
 <link rel="stylesheet" id="google-font-css" href="https://fonts.googleapis.com/css?family=Open+Sans&amp;ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="custom-css" href="http://d148cttzaowzx5.cloudfront.net/application/css/custom.css?v=2013-10-02&amp;ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="theme-main-css" href="http://d148cttzaowzx5.cloudfront.net/wordpress/wp-content/themes/corusmusic/style.css?v=2014-04-16&amp;ver=3.4.2" type="text/css" media="all">
-<link rel="stylesheet" id="related-css" href="http://d148cttzaowzx5.cloudfront.net/wordpress/wp-content/themes/corusmusic/css/relatedPosts.css?v=2014-02-06&amp;ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="custom-css" href="http://d148cttzaowzx5.cloudfront.net/cdn_2014-12-17-PROD-1/application/css/custom.css?v=2013-10-02&amp;ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="social_buttons-css" href="http://d148cttzaowzx5.cloudfront.net/cdn_2014-12-17-PROD-1/wordpress/wp-content/plugins/socast/css/social.css?v=2014-06-17&amp;ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="lightbox-css" href="http://d148cttzaowzx5.cloudfront.net/cdn_2014-12-17-PROD-1/wordpress/wp-content/plugins/socast/css/lightbox.css?v=2014-08-21&amp;ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="mCustomScrollBar-css" href="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js/jquery/mCustomScrollbar/jquery.mCustomScrollbar.css?ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="theme-main-css" href="http://d148cttzaowzx5.cloudfront.net/cdn_2014-12-17-PROD-1/wordpress/wp-content/themes/corusmusic/style.css?v=2014-06-13&amp;ver=3.4.2" type="text/css" media="all">
+<link rel="stylesheet" id="related-css" href="http://d148cttzaowzx5.cloudfront.net/cdn_2014-12-17-PROD-1/wordpress/wp-content/themes/corusmusic/css/relatedPosts.css?v=2014-12-15&amp;ver=3.4.2" type="text/css" media="all">
 <!--[if lt IE 9]>
-<link rel='stylesheet' id='ie8-css'  href='http://d148cttzaowzx5.cloudfront.net/wordpress/wp-content/themes/corusmusic/css/ie8.css?v=2013-10-02&#038;ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ie8-css'  href='http://d148cttzaowzx5.cloudfront.net/cdn_2014-12-17-PROD-1/wordpress/wp-content/themes/corusmusic/css/ie8.css?v=2013-10-02&#038;ver=3.4.2' type='text/css' media='all' />
 <![endif]-->
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/js/jquery/js/jquery-1.7.2.min.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/jqueryui-1.8.16.min.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/plugins/jquery.modal.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/Layout.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/Menu.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/Nav.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/ChartHelper.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/plugins/jquery.uniform.min.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/plugins/jquery.validationEngine.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/plugins/jquery.validationEngine-en.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/plugins/jquery.tipsy.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/plugins/jquery.lightbox-0.5.min.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/theme/javascripts/app.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/js/json/json2.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/js/custom.js?v=13-10-02&amp;ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/js/browserstate-history/scripts/bundled/html4+html5/jquery.history.js?ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/js/jwplayer/jwplayer.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js/jquery/js/jquery-1.7.2.min.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/jqueryui-1.8.16.min.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/plugins/jquery.modal.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/Layout.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/Menu.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/Nav.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/ChartHelper.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/plugins/jquery.uniform.min.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/plugins/jquery.validationEngine.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/plugins/jquery.validationEngine-en.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/plugins/jquery.tipsy.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/plugins/jquery.lightbox-0.5.min.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/theme/javascripts/app.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js/json/json2.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js/custom.js?v=2014-07-03&amp;ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/wordpress/wp-content/plugins/socast/js/social.js?v=2014-07-10&amp;ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/wordpress/wp-content/plugins/socast/js/lightBox.js?v=2014-08-21&amp;ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js/jquery/mCustomScrollbar/jquery.mCustomScrollbar.concat.min.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js/jquery/js/jquery.touchSwipe.min.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js/fullScreenAPI.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js/browserstate-history/scripts/bundled/html4+html5/jquery.history.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js/jwplayer/jwplayer.js?ver=3.4.2"></script>
 <script type="text/javascript" src="http://www.edge.ca/wp-includes/js/swfobject.js?ver=2.2-20120417"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/wordpress/wp-content/themes/corusmusic/scripts.js?v=2014-05-07&amp;ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/wordpress/wp-content/themes/modules/player/socastPlayer.js?v=2014-03-20&amp;ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/wordpress/wp-content/themes/modules/player/socastJWPlayer.js?v=2014-04-17&amp;ver=3.4.2"></script>
-<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/application/js/jwplayer/jwplayer.socast.js?ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/wordpress/wp-content/themes/corusmusic/scripts.js?v=2014-05-27&amp;ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/wordpress/wp-content/themes/modules/player/socastPlayer.js?v=2014-08-27&amp;ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/wordpress/wp-content/themes/modules/player/socastJWPlayer.js?v=2014-04-17&amp;ver=3.4.2"></script>
+<script type="text/javascript" src="http://d3of83nms6dskl.cloudfront.net/cdn_2014-12-17-PROD-1/application/js/jwplayer/jwplayer.socast.js?v=2014-06-11&amp;ver=3.4.2"></script>
 <script type="text/javascript" src="http://www.edge.ca/wp-includes/js/comment-reply.js?ver=3.4.2"></script>
 <meta name="generator" content="WordPress 3.4.2">
 <script type="text/javascript">
@@ -157,8 +164,6 @@ adMacros.type = 'page';
 				background-position:left top;
 					}
 		
-		/* leaderboard area*/
-				
 		#leaderboard-area{height:auto;}
 		#leaderboard-image{margin:0px;padding-top:10px;padding-bottom:10px;height:90px;}
 		#leaderboard-image>div {margin-left:auto; margin-right:auto; width:768px; height:90px;}
@@ -166,7 +171,7 @@ adMacros.type = 'page';
 		/* header area */ 
 		#header-area{ 
 							background-color:#000000;
-										background-image:url(http://d2x3wmakafwqf5.cloudfront.net/uploads/station/34/site_header_background_image-53a975410a523.png);
+										background-image:url(http://d2x3wmakafwqf5.cloudfront.net/uploads/station/34/site_header_background_image-53b17cf9a77f7.jpg);
 				background-repeat:no-repeat;
 				background-position:center;
 					}
@@ -202,11 +207,11 @@ adMacros.type = 'page';
 	
 	
 	<!--[if gte IE 9]>
-	  <style type="text/css">
-	    .gradient {
-	       filter: none;
-	    }
-	  </style>
+	<style type="text/css">
+		.gradient {
+		filter: none;
+		}
+	</style>
 	<![endif]-->
 	</head>
 <body class="page page-id-5305 page-template-default wpb-js-composer js-comp-ver-3.4.6" id="corusmusic-body">
@@ -296,7 +301,7 @@ function adRender(a, c, s, postfix) {
         } else if (postfix == "_002"){
             document.write("<a href='http://pubads.g.doubleclick.net/gampad/jump?iu=/23171097/RADIO_"+call_letters+"_"+type+"/"+alias+"&sz=300x50&t=POS%3D2%26url%3D"+adMacros.url.pathname+"&c="+Math.round(new Date().getTime() / 1000)+"' target='_blank'><img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/23171097/RADIO_"+call_letters+"_"+type+"/"+alias+"&sz=300x50&t=POS%3D2%26url%3D"+adMacros.url.pathname+"&c="+Math.round(new Date().getTime() / 1000)+"'/></a>");
         } else{
-            document.write("<div id='ad-300x50' style='display:inline-block;'><scr"+"ipt type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad-300x50'); });</scr"+"ipt></div>");
+            document.write("<div id='ad-300x50;'><scr"+"ipt type='text/javascript'>googletag.cmd.push(function() { googletag.display('ad-300x50'); });</scr"+"ipt></div>");
         }
             
     }
@@ -349,11 +354,11 @@ width: 100%;
 <div id="iframe-replaceholder">
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=491707044245199";
-		  fjs.parentNode.insertBefore(js, fjs);
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=491707044245199";
+		fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));
 	</script>
 	
@@ -372,12 +377,12 @@ width: 100%;
 				<div id="program-info">	
 					<div id="program-info-content">
 								<div id="info-on-air-now-and-time">
-								<div class="on-air-now" id="info-on-air-now"><ul><li style="width: 90px;">ON&nbsp;AIR&nbsp;NOW</li></ul></div><div id="info-programe-time">7:00 PM - 12:00 AM</div>
+								<div class="on-air-now" id="info-on-air-now"><ul><li style="width: 90px;">ON&nbsp;AIR&nbsp;NOW</li></ul></div><div id="info-programe-time">12:00 AM - 6:00 AM</div>
 								</div>
-								<div id="info-programe-name">Liz</div>
+								<div id="info-programe-name">Fred &amp; Mel’s Ugly Christmas Sweater</div>
 							</div>				</div>			
 				<div id="program-image">
-					<a href="/liz"><img src="http://d2x3wmakafwqf5.cloudfront.net/wordpress/wp-content/blogs.dir/62/files/2014/04/OnAirNowLiz.png" alt=""></a>				</div>
+					<a href="http://www.edge.ca/2014/12/19/fearless-freds-ugly-christmas-sweater/"><img src="http://d2x3wmakafwqf5.cloudfront.net/wordpress/wp-content/blogs.dir/62/files/2014/12/OnAirNow_FredAndMel_Christmas.png" alt=""></a>				</div>
 			</div>			
 		</div>
 	</div>
@@ -388,32 +393,42 @@ width: 100%;
 		<div class="site-wrapper-margined-again" id="navigation-body">
 		<div id="navigation-area-menu" class="menu-socast-nav-container"><ul id="menu-socast-nav" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://www.edge.ca/shows/">DJs &amp; Shows</a>
 <ul class="sub-menu">
-	<li id="menu-item-13466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13466"><a href="http://www.edge.ca/diamondanddye/">Diamond &amp; Dye</a></li>
-	<li id="menu-item-13467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13467"><a href="http://www.edge.ca/carlos/">Carlos Benevides</a></li>
-	<li id="menu-item-13468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13468"><a href="http://www.edge.ca/fredandmel/">Fred &amp; Mel</a></li>
+	<li id="menu-item-13468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13468"><a href="http://www.edge.ca/fredandmel/">The Fearless Fred Show</a></li>
 	<li id="menu-item-13469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13469"><a href="http://www.edge.ca/adam/">Adam</a></li>
-	<li id="menu-item-13470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13470"><a target="_blank" href="http://www.edge.ca/josiestop20/">Josie’s Top 20</a></li>
+	<li id="menu-item-25708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25708"><a href="http://www.edge.ca/josiedye/">Josie Dye</a></li>
+	<li id="menu-item-30959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30959"><a href="http://www.edge.ca/wade/">Wade</a></li>
+	<li id="menu-item-25687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25687"><a href="http://www.edge.ca/ongoinghistory/">Ongoing History of New Music</a></li>
 	<li id="menu-item-12098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12098"><a href="http://www.edge.ca/spiritofradio/">Spirit of Radio Sunday</a></li>
+	<li id="menu-item-13470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13470"><a target="_blank" href="http://www.edge.ca/josiestop20/">Josie’s Top 20</a></li>
 	<li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519"><a href="http://www.edge.ca/schedule/">Full Program Schedule</a></li>
 </ul>
 </li>
 <li id="menu-item-380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380"><a href="http://www.edge.ca/music/">Music</a>
 <ul class="sub-menu">
 	<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="http://www.edge.ca/playlist/">Recently Played Songs</a></li>
+	<li id="menu-item-29757" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29757 hide"><a href="/syn/123/2686/foo-fighters-sonic-highway">Foo Fighters – Sonic Highway</a></li>
+	<li id="menu-item-21992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21992"><a href="http://www.edge.ca/josies-top-20-edge/">Josie’s Top 20</a></li>
+	<li id="menu-item-28114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28114"><a href="http://www.edge.ca/adventuresinvinyl/">Adventures in Vinyl</a></li>
 	<li id="menu-item-1779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1779"><a href="http://www.edge.ca/edgetop30/">Edge Top 30</a></li>
-	<li id="menu-item-4948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4948"><a target="_blank" href="http://www.edge.ca/josiestop20/">Josie’s Top 20</a></li>
 	<li id="menu-item-1780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1780"><a href="http://www.edge.ca/newrocknews/">New Rock News</a></li>
 </ul>
 </li>
+<li id="menu-item-27874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27874"><a href="http://www.edge.ca/ongoinghistory/">Ongoing History</a></li>
 <li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://www.edge.ca/concerts-events/">Concerts &amp; Events</a>
 <ul class="sub-menu">
-	<li id="menu-item-15381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15381"><a href="http://www.edge.ca/edgefest/">Edgefest Summer Concert Series</a></li>
+	<li id="menu-item-29152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29152"><a href="http://www.edge.ca/jinglebell/">Jingle Bell Concert Series</a></li>
 	<li id="menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983"><a href="http://www.edge.ca/concerts/">Concerts</a></li>
+	<li id="menu-item-31706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31706"><a href="http://www.edge.ca/events/">Edge Events</a></li>
 	<li id="menu-item-5049" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5049"><a href="http://www.edge.ca/sugarbeachsessions/">Sugar Beach Sessions</a></li>
+	<li id="menu-item-31707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31707"><a href="http://www.edge.ca/spiritofradio-events/">Spirit of Radio Sunday Presents</a></li>
 </ul>
 </li>
 <li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://www.edge.ca/photos/">Photos</a></li>
-<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://www.edge.ca/videos/">Videos</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="http://www.edge.ca/videos/">Videos</a>
+<ul class="sub-menu">
+	<li id="menu-item-30736" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30736 hide"><a href="/syn/123/2355/tornado-hunters">Tornado Hunters</a></li>
+</ul>
+</li>
 <li id="menu-item-4541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4541"><a href="http://www.edge.ca/contests/">Contests</a></li>
 <li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://www.edge.ca/insideedge/">The Inside Edge</a></li>
 </ul></div>		</div>
@@ -536,15 +551,15 @@ width: 100%;
 	</script>			</div>
 			<div id="loginout">
 		<div id="login">
-		<div class="loginout" id="link-facebook">
+				<div class="loginout" id="link-facebook">
 			<a target="_blank" href="/community/connectFacebook?init=1"><img alt="facebook" src="http://d2x3wmakafwqf5.cloudfront.net/wordpress/wp-content/themes/modules/communityLogin/images/SoCast_CMS-Nav_FBConnectBtn_112x20.png"></a>
 		</div>
-		<div class="loginout" id="sign-up">
+				<div class="loginout" id="sign-up">
 			<a href="/signup">Sign up</a>
 		</div>
 		<div class="loginout" id="log-in">
-			<a href="javascript:;">Log in</a>
-		</div>
+					<a href="javascript:;">Log in</a>
+				</div>
 	</div>
 	</div>
 		</div>
@@ -667,7 +682,7 @@ width: 100%;
 	</script>
 			<div id="sidebar-player">
 			<div id="player-wrapper">
-						</div>
+			<script>adRender(alias,"CFNYFM2","315x500")</script>			</div>
 			<div class="player-wrapper-top">
 			</div>
 			<div class="player-wrapper-bottom">
@@ -686,10 +701,10 @@ width: 100%;
 <div class="container module player">
 	<div class="grid-24 in-module now-playing">
 		<div id="now-playing">
-			<h2 class="">
+			<h2 style="width:50%;">
 				Now Playing			</h2>
 						<a id="listen-live" href="#" target="_blank" style="display:none;">
-				<img id="listen-live-image" src="http://d2x3wmakafwqf5.cloudfront.net/wordpress/wp-content/themes/modules/player/images/SoCast_CMS-Player_ListenLiveBtn-Inactive_134x35.png" alt="play">
+				<img id="listen-live-image" src="http://d2x3wmakafwqf5.cloudfront.net/wordpress/wp-content/themes/modules/player/images/SoCast_CMS-Player_ListenLiveBtn-Inactive_134x35.png" alt="listen live" data-state="play">
 			</a>
 					</div>
 	</div>
@@ -702,19 +717,19 @@ width: 100%;
 			if (window.top !== window.self && !hasSeenPreroll) {
 				document.write(adRenderFrame(alias,"CFNYFM2","300x50","PLAY"));
 			}*/
-		</script>
+			adRender(alias,"CFNYFM2","300x50","PLAY")		</script><div id="ad-300x50;"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('ad-300x50'); });</script></div>
 	</div>
 		<div class="grid-24 inmodule" id="now-playing-current">
 		<div class="container">
 			<div class="grid-6 song-avatar" style="height:54px;">
 				<a href="#" target="_blank" class="live-now">
-					<img src="http://userserve-ak.last.fm/serve/126s/37647529.png" alt="" class="avator-img">
+					<img src="http://userserve-ak.last.fm/serve/126s/131510.jpg" alt="" class="avator-img">
 					<img src="http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png" alt="" onmouseover="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtnOver_50x50.png'" onmouseout="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png'">
 				</a>
 			</div>
 			<div class="grid-18 song-info now">
-							<a href="#" target="_blank" class="live-now artist-name " id="live-now-artist-name">METRIC</a>
-				<a href="#" target="_blank" class="live-now song-name " id="live-now-song-name">STADIUM LOVE</a>
+							<a href="#" target="_blank" class="live-now artist-name " id="live-now-artist-name">WEEZER</a>
+				<a href="#" target="_blank" class="live-now song-name " id="live-now-song-name">HASHPIPE</a>
 				<ul class="on-air-now"><li>ON AIR NOW</li></ul>
 						</div>
 		</div>
@@ -1048,8 +1063,8 @@ function initPrerollPlayer(alreadyLoaded) {
 			},
 			onReady: function(e) {
 				$("#listen-live img").attr('src',PLAYER_ASSETS+"SoCast_CMS-Player_ListenLiveBtn-Active_134x35.png");
-				$("#listen-live img").attr('alt','pause');
-				$('#now-playing-over-wrapper div.in-module.now-playing').append("<div id='listenLiveBtnBlocker' style='width:145px;height:40px;position:absolute;right:9px;top:0px;text-align:right;'><img id='listen-live-image' alt='pause' src='"+PLAYER_ASSETS+"SoCast_CMS-Player_ListenLiveBtn-Active_134x35.png' style='margin-top:1px;'></div>");
+				$("#listen-live img").attr('data-state','pause');
+				$('#now-playing-over-wrapper div.in-module.now-playing').append("<div id='listenLiveBtnBlocker' style='width:145px;height:40px;position:absolute;right:9px;top:0px;text-align:right;'><img id='listen-live-image' alt='listen live' data-state='pause' src='"+PLAYER_ASSETS+"SoCast_CMS-Player_ListenLiveBtn-Active_134x35.png' style='margin-top:1px;'></div>");
 								setPrerollPlayerVolume(100);
 				if (hasFlash && adPreRoll && adPreRoll.type == "audio") {
 					$("#jquery_jplayer_preroll_image").html('<a id="preroll-audio-link" href="'+adPreRoll.clickThrough+'" target="_blank"><img id="preroll-audio-image" src="'+adPreRoll.audioAdImage+'" alt="'+adPreRoll.audioAdImage+'" /></a>');
@@ -1109,13 +1124,14 @@ function initPreroll(alreadyLoaded) {
 	var artistImg_cookie = getCookie('socast_player_artist_image');
 	if (artistImg_cookie) $("#artist-gallery").append(artistImg_cookie);
 	$("#listen-live img").attr('src',PLAYER_ASSETS+"SoCast_CMS-Player_ListenLiveBtn-Active_134x35.png");
-	$("#listen-live img").attr('alt','pause');
+	$("#listen-live img").attr('data-state','pause');
 	// load video a d
-	var adurl = "http://adserver.adtechus.com/?adrawdata|3.0|5233.1|1203131|0|-1|ADTECH;alias=cfnyfm2_REPLACEWITHPAGEALIAS_1x1;size=1x1;key=socastjson;loc=100;noperf=1;target=_blank;grp=13333;misc=684176206";
+	var adurl = "http://adserver.adtechus.com/?adrawdata|3.0|5233.1|1203131|0|-1|ADTECH;alias=cfnyfm2_REPLACEWITHPAGEALIAS_1x1;size=1x1;key=socastjson;loc=100;noperf=1;target=_blank;grp=13333;misc=2033726225";
 	//adurl = "http://pubads.g.doubleclick.net/gampad/adx?iu=/23171097/Radio_test/TEST_RM_TEMPLATES&sz=640x480&m=application/x-javascript&t=url%3D/index-preroll-test.php&c="+Date.now();
 	//google DFP
 	adurl = "http://pubads.g.doubleclick.net/gampad/adx?iu=/23171097/Radio_"+call_letters+"_Web&sz=640x480&m=application/x-javascript&c="+Date.now();
 	adurl = adurl.replace("REPLACEWITHPAGEALIAS",alias);
+	//console.log(adurl);
 	//adurl = 'http://adserver.adtechus.com/?adrawdata|3.0|5233.1|1203131|0|-1|ADTECH;alias=cfnyfm2_HOME_1x1;size=1x1;key=socastjson;loc=100;noperf=1;target=_blank;grp=13333;misc=2025176369&callback=jsonCallback&_=1373999198131';
 	//adurl = 'http://adserver.adtechus.com/?adrawdata|3.0|5233.1|1203131|0|-1|ADTECH;alias=cfnyfm2_HOME_1x1;size=1x1;key=testplayer;loc=100;noperf=1;target=_blank;grp=13333;misc=1815646458&callback=jsonCallback&_=1379434631824'; //ad wrapper example
 	$.ajax({
@@ -1253,7 +1269,7 @@ $(document).ready(function(){
 #socast-player,#animation-images,#animation-images img{position:relative;width:100%;}
 #play,#pause,#volume{float:left;width:40px;}
 #zoom,#zoom-help{float:right;}
-#volume-panel{left:42px;bottom:-1px;}
+#volume-panel{left:42px;bottom:-1px;width:40px;}
 #vol-green{bottom:-5px;}
 #vol-blank{left:11px;bottom:-2px;z-index:5;}
 /*#vol-blank{left:0;top:0;}*/
@@ -1485,6 +1501,10 @@ $(document).ready(function(){
 
 <style>
 
+#canvas-image-old{display:none;}
+#canvas-image{width:300px;height:100%;max-height:190px;background-color:#000000;}
+#station-image{width:170px !important;height:170px !important;top:10px !important; left:65px !important;}
+
 #radio-buffering-inside{
 	position:absolute;top:60px;left:126px;opacity:0.5;background:#ffffff;
 	-moz-border-radius: 5px;
@@ -1505,7 +1525,7 @@ $(document).ready(function(){
 	background-color:#444444;
 }
 #canvas-image {
-	position: relative;			
+	position: relative;	
 }
 #canvas-image img {
 	position: relative;
@@ -1687,7 +1707,7 @@ function redrawPicture(){
 						'min-width':canvas["imageWidth"]+'px',
 						'min-height':canvas["imageHeight"]+'px'
 					});
-				$("img#station-image").css({
+				$("img#station-image").css({ // this top will be overwritten by line#46
 						'min-width':'0px',
 						'min-height':'0px',
 						'max-width':'300px',
@@ -2087,7 +2107,7 @@ function parseMeta(event) {
 
 function showProgramInfo() {
 	var programHeaderImg = 'http://d2x3wmakafwqf5.cloudfront.net/uploads/station/34/cmsSiteLogo.png?r=4125';
-programHeaderImg = "http://d2x3wmakafwqf5.cloudfront.net/wordpress/wp-content/blogs.dir/62/files/2014/04/OnAirNowLiz.png";	$('#canvas-picture').empty();
+programHeaderImg = "http://d2x3wmakafwqf5.cloudfront.net/wordpress/wp-content/blogs.dir/62/files/2014/12/OnAirNow_FredAndMel_Christmas.png";	$('#canvas-picture').empty();
 	$("#canvas-picture").append('<div id="canvas-image"></div>');
 	$('#canvas-image').append('<img class="program-image" src="' + programHeaderImg + '" />');
 	$('#canvas-picture').append('<div class="program-schedule">102.1 the Edge</div>');
@@ -2097,7 +2117,7 @@ programHeaderImg = "http://d2x3wmakafwqf5.cloudfront.net/wordpress/wp-content/bl
 	$('#canvas-picture').append('<div class="clear"></div>');
 	
 	var programLink = '';
-	programLink = "http://www.edge.ca/liz";
+	programLink = "http://www.edge.ca/2014/12/19/fearless-freds-ugly-christmas-sweater/";
 	$('#radio-player-social').show();
 	$('.fb-like').attr('data-href',programLink);
 	$('.fb-like').html('<fb:like href="'+programLink+'" send="false" width="100" show_faces="true" layout="button_count"></fb:like>');
@@ -2144,8 +2164,8 @@ if (artistImg_cookie) $("#artist-gallery").append(artistImg_cookie);
 		</div>
 					<div class="clear"></div>
 				<div id="radio-player-info">
-			<div id="radio-player-artist-name">METRIC</div>
-			<div id="radio-player-song-name">STADIUM LOVE</div>
+			<div id="radio-player-artist-name">WEEZER</div>
+			<div id="radio-player-song-name">HASHPIPE</div>
 			<div id="radio-player-on-air-now">
 				<li>On Air Now</li>
 			</div>
@@ -2154,7 +2174,7 @@ if (artistImg_cookie) $("#artist-gallery").append(artistImg_cookie);
 			</div>
 		</div>
 		<div id="radio-player-social">
-						<div class="fb-like" data-href="http://www.edge.ca/player/player/?stationID=34&amp;artistName=METRIC&amp;songName=STADIUM LOVE" data-send="false" data-width="280" data-colorscheme="dark" data-show-faces="true" display="popup"></div>
+						<div class="fb-like" data-href="http://www.edge.ca/player/player/?stationID=34&amp;artistName=WEEZER&amp;songName=HASHPIPE" data-send="false" data-width="280" data-colorscheme="dark" data-show-faces="true" display="popup"></div>
 		</div>
 			</div>
 </div>
@@ -2230,62 +2250,62 @@ $(document).ready(function(){
 </div>
 		<div class="last-played-item">
 			<div class="song-avatar">
-				<a href="/?songName=GIANTS&amp;artistName=BEAR+HANDS&amp;stationID=34">
+				<a href="/?songName=TAKE+ME+TO+CHURCH&amp;artistName=HOZIER&amp;stationID=34">
 					<img src="" alt="" class="avator-img">
 					<img src="http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png" alt="" onmouseover="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtnOver_50x50.png'" onmouseout="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png'">
 				</a>
 			</div>
 			<div class="song-info">
-				<a class="artist-name " title="BEAR HANDS" href="/?songName=GIANTS&amp;artistName=BEAR+HANDS&amp;stationID=34">BEAR HANDS</a><a class="song-name " title="GIANTS" href="/?songName=GIANTS&amp;artistName=BEAR+HANDS&amp;stationID=34">GIANTS</a>				<div class="time-tracker">
-				13 Minutes Ago				</div>
-			</div>
-		</div>
-		<div class="last-played-item">
-			<div class="song-avatar">
-				<a href="/?songName=BRIDGE+TO+NOWHERE&amp;artistName=SAM+ROBERTS&amp;stationID=34">
-					<img src="http://userserve-ak.last.fm/serve/126s/18086633.jpg" alt="" class="avator-img">
-					<img src="http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png" alt="" onmouseover="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtnOver_50x50.png'" onmouseout="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png'">
-				</a>
-			</div>
-			<div class="song-info">
-				<a class="artist-name " title="SAM ROBERTS" href="/?songName=BRIDGE+TO+NOWHERE&amp;artistName=SAM+ROBERTS&amp;stationID=34">SAM ROBERTS</a><a class="song-name " title="BRIDGE TO NOWHERE" href="/?songName=BRIDGE+TO+NOWHERE&amp;artistName=SAM+ROBERTS&amp;stationID=34">BRIDGE TO NOWHERE</a>				<div class="time-tracker">
+				<a class="artist-name " title="HOZIER" href="/?songName=TAKE+ME+TO+CHURCH&amp;artistName=HOZIER&amp;stationID=34">HOZIER</a><a class="song-name " title="TAKE ME TO CHURCH" href="/?songName=TAKE+ME+TO+CHURCH&amp;artistName=HOZIER&amp;stationID=34">TAKE ME TO CHURCH</a>				<div class="time-tracker">
 				16 Minutes Ago				</div>
 			</div>
 		</div>
 		<div class="last-played-item">
 			<div class="song-avatar">
-				<a href="/?songName=MY+BODY&amp;artistName=YOUNG+THE+GIANT&amp;stationID=34">
-					<img src="http://userserve-ak.last.fm/serve/126s/55449297.jpg" alt="" class="avator-img">
+				<a href="/?songName=I%27M+ONLY+JOKING&amp;artistName=KONGOS&amp;stationID=34">
+					<img src="" alt="" class="avator-img">
 					<img src="http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png" alt="" onmouseover="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtnOver_50x50.png'" onmouseout="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png'">
 				</a>
 			</div>
 			<div class="song-info">
-				<a class="artist-name " title="YOUNG THE GIANT" href="/?songName=MY+BODY&amp;artistName=YOUNG+THE+GIANT&amp;stationID=34">YOUNG THE GIANT</a><a class="song-name " title="MY BODY" href="/?songName=MY+BODY&amp;artistName=YOUNG+THE+GIANT&amp;stationID=34">MY BODY</a>				<div class="time-tracker">
+				<a class="artist-name " title="KONGOS" href="/?songName=I%27M+ONLY+JOKING&amp;artistName=KONGOS&amp;stationID=34">KONGOS</a><a class="song-name " title="I\'M ONLY JOKING" href="/?songName=I%27M+ONLY+JOKING&amp;artistName=KONGOS&amp;stationID=34">I'M ONLY JOKING</a>				<div class="time-tracker">
 				20 Minutes Ago				</div>
 			</div>
 		</div>
 		<div class="last-played-item">
 			<div class="song-avatar">
-				<a href="/?songName=WHY%27D+YOU+ONLY+CALLME+....&amp;artistName=ARCTIC+MONKEYS&amp;stationID=34">
-					<img src="http://userserve-ak.last.fm/serve/126s/357311.jpg" alt="" class="avator-img">
+				<a href="/?songName=HEADSICK&amp;artistName=JULY+TALK&amp;stationID=34">
+					<img src="http://userserve-ak.last.fm/serve/126s/83193409.jpg" alt="" class="avator-img">
 					<img src="http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png" alt="" onmouseover="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtnOver_50x50.png'" onmouseout="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png'">
 				</a>
 			</div>
 			<div class="song-info">
-				<a class="artist-name " title="ARCTIC MONKEYS" href="/?songName=WHY%27D+YOU+ONLY+CALLME+....&amp;artistName=ARCTIC+MONKEYS&amp;stationID=34">ARCTIC MONKEYS</a><a class="song-name " title="WHY\'D YOU ONLY CALLME ...." href="/?songName=WHY%27D+YOU+ONLY+CALLME+....&amp;artistName=ARCTIC+MONKEYS&amp;stationID=34">WHY'D YOU ONLY CALLME ....</a>				<div class="time-tracker">
-				23 Minutes Ago				</div>
+				<a class="artist-name " title="JULY TALK" href="/?songName=HEADSICK&amp;artistName=JULY+TALK&amp;stationID=34">JULY TALK</a><a class="song-name " title="HEADSICK" href="/?songName=HEADSICK&amp;artistName=JULY+TALK&amp;stationID=34">HEADSICK</a>				<div class="time-tracker">
+				31 Minutes Ago				</div>
+			</div>
+		</div>
+		<div class="last-played-item">
+			<div class="song-avatar">
+				<a href="/?songName=LITTLE+SISTER&amp;artistName=QUEENS+OF+THE+STONE+AGE&amp;stationID=34">
+					<img src="http://userserve-ak.last.fm/serve/126s/267928.jpg" alt="" class="avator-img">
+					<img src="http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png" alt="" onmouseover="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtnOver_50x50.png'" onmouseout="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png'">
+				</a>
+			</div>
+			<div class="song-info">
+				<a class="artist-name " title="QUEENS OF THE STONE AGE" href="/?songName=LITTLE+SISTER&amp;artistName=QUEENS+OF+THE+STONE+AGE&amp;stationID=34">QUEENS OF THE STONE AGE</a><a class="song-name " title="LITTLE SISTER" href="/?songName=LITTLE+SISTER&amp;artistName=QUEENS+OF+THE+STONE+AGE&amp;stationID=34">LITTLE SISTER</a>				<div class="time-tracker">
+				34 Minutes Ago				</div>
 			</div>
 		</div>
 		<div class="last-played-item last">
 			<div class="song-avatar">
-				<a href="/?songName=TOKYO+SUMMER&amp;artistName=MOUNTIES&amp;stationID=34">
-					<img src="http://userserve-ak.last.fm/serve/126s/86325609.jpg" alt="" class="avator-img">
+				<a href="/?songName=BULLS+ON+PARADE&amp;artistName=RAGE+AGAINST+THE+MACHINE&amp;stationID=34">
+					<img src="http://userserve-ak.last.fm/serve/126s/380903.jpg" alt="" class="avator-img">
 					<img src="http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png" alt="" onmouseover="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtnOver_50x50.png'" onmouseout="javascript:this.src='http://d2x3wmakafwqf5.cloudfront.net/application/images/common_theme/SoCast_CMS-Player_ThumbnailPlayBtn_50x50.png'">
 				</a>
 			</div>
 			<div class="song-info">
-				<a class="artist-name " title="MOUNTIES" href="/?songName=TOKYO+SUMMER&amp;artistName=MOUNTIES&amp;stationID=34">MOUNTIES</a><a class="song-name " title="TOKYO SUMMER" href="/?songName=TOKYO+SUMMER&amp;artistName=MOUNTIES&amp;stationID=34">TOKYO SUMMER</a>				<div class="time-tracker">
-				27 Minutes Ago				</div>
+				<a class="artist-name " title="RAGE AGAINST THE MACHINE" href="/?songName=BULLS+ON+PARADE&amp;artistName=RAGE+AGAINST+THE+MACHINE&amp;stationID=34">RAGE AGAINST THE MACHINE</a><a class="song-name " title="BULLS ON PARADE" href="/?songName=BULLS+ON+PARADE&amp;artistName=RAGE+AGAINST+THE+MACHINE&amp;stationID=34">BULLS ON PARADE</a>				<div class="time-tracker">
+				38 Minutes Ago				</div>
 			</div>
 		</div>
 <script type="text/javascript">
@@ -2351,10 +2371,11 @@ $(document).ready(function(){
 	
 	<div class="grid-24 in-module footer-page-links">
 	<div id="footer-area-menu" class="menu-socast-nav-footer-2-container"><ul id="menu-socast-nav-footer-2" class="menu"><li id="menu-item-8611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8611"><a target="_self" href="http://www.edge.ca/contactus/">Contact Us</a></li>
+<li id="menu-item-8614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8614"><a target="_self" href="http://www.edge.ca/help/">Help</a></li>
 <li id="menu-item-8612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8612"><a target="_self" href="http://www.edge.ca/prizepickup/">Prize Pickup</a></li>
 <li id="menu-item-8613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8613"><a target="_self" href="http://www.edge.ca/generalsales/">Advertise With Us</a></li>
-<li id="menu-item-8614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8614"><a target="_self" href="http://www.edge.ca/help/">Help</a></li>
-<li id="menu-item-19226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19226"><a href="http://www.edge.ca/rules-and-regs/">Rules and Regs</a></li>
+<li id="menu-item-19226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19226"><a target="_self" href="http://www.edge.ca/rules-and-regs/">Rules and Regs</a></li>
+<li id="menu-item-32641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32641"><a href="/text">Text Messaging</a></li>
 <li id="menu-item-8615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8615"><a target="_self" href="http://www.edge.ca/terms-of-service/">Terms of Service</a></li>
 <li id="menu-item-8616" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5305 current_page_item menu-item-8616"><a target="_self" href="http://www.edge.ca/privacy-policy/">Privacy Policy</a></li>
 </ul></div>	
@@ -2431,7 +2452,7 @@ $(document).ready(function() {
 
 
 	<div id="primary">
-		<div id="wp-content" role="main">
+				<div id="wp-content" role="main">
 
 	<article id="post-5305" class="post-5305 page type-page status-publish hentry">
 		<header class="entry-header">
@@ -2535,10 +2556,10 @@ Questions/Concerns?<strong></strong></p><strong>
 					</footer><!-- #entry-meta -->
 	</article><!-- #post-5305 -->
 		</div><!-- #content -->
-	</div><!-- #primary -->
+			</div><!-- #primary -->
 		<div style="cleat:both;">&nbsp;</div>
 						</div><!-- id=content-wrapper-inside -->
-					</div><!-- id="content-wrapper" -->
+										</div><!-- id="content-wrapper" -->
 				</div><!-- id="wrapper" -->
 			</div><!-- id=content-area -->
 			<div class="clear"></div>
@@ -2576,7 +2597,8 @@ Questions/Concerns?<strong></strong></p><strong>
 		<div class="">
 		<form class="form uniformForm" id="desktop_login_form" action="/login" method="post">		
 				
-		<div class="errorMessage-desktop_login_modal"></div>
+		<div class="errorMessage-desktop_login_modal">
+				</div>
 		
 		<div class="login-container">
 			<div class="login-email">
@@ -2608,14 +2630,14 @@ Questions/Concerns?<strong></strong></p><strong>
 					<div class="input-remember-me-forgot">
 						<div class="input-remember">
 							<div class="field">
-								<table><tbody><tr><td>
-								<input id="ytLoginForm_rememberMe" type="hidden" value="0" name="LoginForm[rememberMe]"><input name="LoginForm[rememberMe]" id="LoginForm_rememberMe" value="1" type="checkbox">								</td><td style="vertical-align:middle;">
-								<label for="LoginForm_rememberMe">Remember Me</label>								</td></tr></tbody></table>
+								<span style="float:left;">
+								<input id="ytLoginForm_rememberMe" type="hidden" value="0" name="LoginForm[rememberMe]"><input name="LoginForm[rememberMe]" id="LoginForm_rememberMe" value="1" type="checkbox">								</span><span style="float:left;vertical-align:middle;">
+								<label for="LoginForm_rememberMe">Remember Me</label>								</span>
 							</div>
 						</div>
 						<div class="input-forgot">
 							<div class="field">
-							<a class="primary_color forgot-password" style="text-decoration:underline;float:right;line-height:23px;" href="#">Forgot Password?</a>							</div>
+							<a class="primary_color forgot-password" style="text-decoration:underline;float:right;line-height:23px;font-size:12px;" href="#">Forgot Password?</a>							</div>
 						</div>
 					</div>
 				</div>
@@ -2693,13 +2715,14 @@ $(document).ready(function(){
 					"LoginForm[rememberMe]" : encodeURIComponent(rememberMe)
 					 },
 			success: function(data){
+				/** bug#2612  Remove Emmis integration
 				if (data == "ThirdPartyLoggedIn"){
 					try{
 						$('#desktop_login_modal').dialog('close');
 					}catch(e){}
 					$('#agree-modal').data('user',{'username': username, 'password': password }).dialog('open');
 				}
-				else if (data == 'activate'){
+				else */if (data == 'activate'){
 					try{
 						$('#desktop_login_modal').dialog('close');
 					}catch(e){}
@@ -2811,7 +2834,7 @@ $(document).ready(function(){
 $(document).ready(function(){
 
 	// setup login modal
-	$("#log-in, #respond .must-log-in a,#comments .commentlist .comment .reply a").live('click',function(){
+	$("#log-in, #respond .must-log-in a,#comments .commentlist .comment .reply a, .openLogin").live('click',function(){
 		//window.parent.openLogin();
 		openLogin();
 	});
@@ -2907,71 +2930,7 @@ $(document).ready(function(){
 	});
 });	
 </script>		
-		<div style="display:none;">
-	<div id="agree-modal" class="modal" style="padding:0px;padding-left:10px;padding-bottom:10px;">
-		<iframe src="about:blank" width="100%" height="100%"></iframe>
-	</div>
-</div>
-<script type="text/javascript">
-$(document).ready(function(){
-	
-	var widthOfAgreeWindow = $(window).width();
-	var widthOfAgreeModal = widthOfAgreeWindow - 40;
-	var heightOfAgreeModal = $(window).height() - 40;
-	if (widthOfAgreeModal > 450) widthOfAgreeModal = 450;
-	$('#agree-modal').dialog({
-		title: 'Agreement',
-		autoOpen: false,
-		modal: true,
-		resizable:false,
-		position:{my:"center",at:"center center",of:window},
-		width:widthOfAgreeModal,
-		height:heightOfAgreeModal,
-		open: function(){
-			if ($.browser.msie) $("#flash").css('visibility','hidden');
-			//$(".ui-dialog-content").dialog('close');
-			if ($('#agree-modal iframe').attr('src') == 'about:blank') {
-				$('#agree-modal iframe').attr('src','/site/showTerms?html=1');
-			}
-		},
-		close: function(){
-			$("#flash").css('visibility','visible');
-		},
-		buttons: {
-			'Accept': function() {
-				//console.log($(this).data('user').username);
-				var username = $(this).data('user').username;
-				var password = $(this).data('user').password;
-				$.ajax({
-					type: "GET",
-					datatype: "html",
-					url: "/login/savePassword",
-					data: { "username" : encodeURIComponent(username),
-							"password" : encodeURIComponent(password)
-							 },
-					success: function(data){
-						//authenticate user already, redirect to some where
-						$('#agree-modal').dialog('close');
-						if (checkAndGoReturnUrlInCookie()) return;
-						window.location = document.referrer;
-					},
-					error: function(){
-						//console.log("Oops");
-					},
-					complete: function(){
-						$('#agree-modal').dialog('close');
-					}
-				});
 				
-			},
-			'Deny': function() {
-				window.location = "/signup";
-			}
-		}
-	});
-});
-</script>
-		
 		</div><!-- iframe-replaceholder -->
 		
 					<!-- DO NOT EDIT OR OVERWRITE BELOW THIS POINT -->
