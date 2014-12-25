@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104411id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismamag.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225184451id_/http%3A//www.charismamag.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,3 +68,161 @@ Lake Mary, FL 32746
 ### Your consent
 
 By using our website, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You will not receive these updates by snail mail or email.
+
+  * [
+
+#### Terror Alert: Holy War in America’s Bible Belt
+
+](http://www.charismamag.com/blogs/prophetic-insight/22109-terror-alert-holy-war-in-america-s-bible-belt "city disaster")
+
+"I saw an American city destroyed by terrorist bombing. There was carnage in the streets, smoke ...
+
+  * [
+
+#### Get R.T. Kendall's New Book & Devotional
+
+](https://secure.strangmagazines.com/~strangma/charisma/2014/two_books/?utm_source=charismamag.com&utm_medium=most%20popular%20banner "Get R.T. Kendall's New Book &amp; Devotional")
+
+Experience the Holy Spirit in a way that will change your life!
+
+  * [
+
+#### 5 Signs There's Idolatry in Your Church
+
+](http://www.charismamag.com/spirit/spiritual-growth/22082-5-signs-there-s-idolatry-in-your-church "Worship concert")
+
+The idol of celebrity preachers is just one of the five. Do you see the other four operating in ...
+
+  * [
+
+#### WATCH: What's the Meaning of Creflo Dollar's Prophetic Dream About Myles Munroe?
+
+](http://www.charismamag.com/spirit/prophecy/22099-watch-creflo-dollar-reveals-prophetic-myles-munroe-dream "Creflo Dollar had a prophetic dream about Myles Munroe three days after his death.")
+
+In the dream, Dollar says, they were in the Bahamas with other ministers for the leadership ...
+
+  * [
+
+#### Bill Johnson: The Secret to Walking in Extraordinary Miracles
+
+](http://www.charismamag.com/spirit/supernatural/22075-bill-johnson-the-secret-to-walking-in-extraordinary-miracles "supernatural clouds")
+
+Here's what happens when you're saturated in God's presence.
+
+  * [
+
+#### Bible Scholar: The NEW Date for Christ's Return
+
+](http://www.charismamag.com/spirit/spiritual-growth/15875-bible-scholar-the-new-date-for-christ-s-return "F.-Kenton-"Doc"-Beshore")
+
+Why one Bible scholar is arguing that Hal Lindsey's famous 1988 prediction for Christ's ...
+
+  * [
+
+#### Intercessors, Will You Respond to This Call From God?
+
+](http://www.charismamag.com/blogs/the-plumb-line/22078-intercessors-will-you-respond-to-this-call-from-god "praying teenager")
+
+In this critical hour, you can make a difference—your prayers can help tip the bowls that ...
+
+  * [
+
+#### 5 Ways to Position Yourself to Fulfill God's Call
+
+](http://www.charismamag.com/life/women/22060-5-ways-to-position-yourself-to-fulfill-god-s-call "Mary Seidler becoming ordained")
+
+I watched a single woman become ordained to go to the nations last Sunday. Here are 5 things she ...
+
+
+
+
+  * [
+
+#### Stop Whining About the ‘War’ on Christmas
+
+](http://www.charismamag.com/blogs/fire-in-my-bones/22114-stop-whining-about-the-war-on-christmas "Christmas war")
+
+What we call "persecution" in the United States is nothing compared to what Christians ...
+
+  * [
+
+#### Get R.T. Kendall's New Book & Devotional
+
+](https://secure.strangmagazines.com/~strangma/charisma/2014/two_books/?utm_source=charismamag.com&utm_medium=most%20popular%20banner "Get R.T. Kendall's New Book &amp; Devotional")
+
+Experience the Holy Spirit in a way that will change your life!
+
+  * [
+
+#### WATCH: This Pastor May Have Confessed Cancer Away
+
+](http://www.charismamag.com/spirit/spiritual-growth/22106-watch-pastor-preaches-peace-without-ceasing-before-cancer-surgery "Pastor Julian Malone counted his cancer battle as joy and got a miracle.")
+
+He was diagnosed with an aggressive, inoperable form of cancer but he refused to confess the ...
+
+  * [
+
+#### WATCH: Is This 10-Year-Old the Next Kari Jobe?
+
+](http://www.charismamag.com/life/culture/22115-is-this-10-year-old-the-next-kari-jobe "Kaitlin Maher, 10, sings Kari Jobe's "Find You On My Knees."")
+
+Kaitlin Maher is becoming an Internet sensation. See what all the hype is about.
+
+  * [
+
+#### James Goll: Heeding the Call the Prophetic Ministry
+
+](http://www.charismamag.com/blogs/a-voice-calling-out/22101-james-goll-heeding-the-call-the-prophetic-ministry "man praying")
+
+"I spent much time in prayer, worship, community and sitting under anointed teaching. But I ...
+
+  * [
+
+#### Why We Don't Exchange Christmas Gifts
+
+](http://www.charismamag.com/life/women/22095-why-we-don-t-exchange-christmas-gifts "holiday dinner")
+
+Here's why one family has never exchanged Christmas presents.
+
+  * [
+
+#### How Christian Marriages Don't Enjoy One of God's Greatest Gifts
+
+](http://www.charismamag.com/life/women/22073-how-christian-marriages-don-t-enjoy-one-of-god-s-greatest-gifts "couple")
+
+Sex and romance got the lowest scores in a recent survey conducted by a marriage and family ...
+
+  * [
+
+#### Franklin Graham: The Storm Is Coming
+
+](http://www.charismamag.com/spirit/spiritual-growth/22084-franklin-graham-the-storm-is-coming "Megyn Kelly and Franklin Graham")
+
+With Christmas approaching, Billy Graham's son expects hostility against Christians to rise.
+
+  * [
+
+#### 9 Ways to Understand What Your Wife Is Really Saying
+
+](http://www.charismamag.com/life/men/22034-9-ways-to-understand-what-your-wife-is-really-saying "Communication")
+
+For men who thought it was impossible to understand women, here is a key for decoding some of your ...
+
+  * [
+
+#### Why I Don't Tell My Children About Santa
+
+](http://www.charismamag.com/life/women/22056-why-i-don-t-tell-my-children-about-santa "Santa's")
+
+This mom shares why she doesn't include Santa in her Christmas celebration.
+
+  * [
+
+#### How to Pray With Life-Changing Boldness
+
+](http://www.charismamag.com/spirit/prayer/21819-how-to-pray-with-life-changing-boldness)
+
+What Jesus says about pushing the boundaries in prayer isn't just startling, it's ...
+
+
+
