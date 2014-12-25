@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purehockey.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626082600id_/http%3A//www.purehockey.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purehockey.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225025448id_/http%3A//www.purehockey.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
