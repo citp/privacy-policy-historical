@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supremetube.com privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619060204id_/http%3A//www.supremetube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supremetube.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225193222id_/http%3A//www.supremetube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
