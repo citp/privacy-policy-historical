@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaudix.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209112105id_/http%3A//vaudix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaudix.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225205052id_/http%3A//www.vaudix.com/privacy.html) for the most accurate reproduction.*
 
 # Vaudix | PRIVACY POLICY
 
