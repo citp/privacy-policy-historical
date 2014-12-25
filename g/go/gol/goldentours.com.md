@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507223115id_/http%3A//www.goldentours.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldentours.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225015424id_/http%3A//www.goldentours.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Golden Tours
 
@@ -22,7 +22,7 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 Details of your visits to our site including, but not limited to, traffic data, location data, weblogs, operating system, browser usage and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-Please also refer to our cookie policy <http://www.goldentours.com/cookiepolicy.aspx>
+Please also refer to our cookie policy <http://www.goldentours.com/cookie-policy>
 
 ### Use of Customer Information
 
