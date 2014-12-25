@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holiwallpaper2014.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628064328id_/http%3A//www.holiwallpaper2014.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holiwallpaper2014.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225064607id_/http%3A//www.holiwallpaper2014.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Holi Wallpaper 2014 : privacy policy
+# Holi Wallpaper 2015 | Happy Holi sms, images 2015: privacy policy
 
 **Privacy Policy for www.holiwallpaper2014.com**  
 
