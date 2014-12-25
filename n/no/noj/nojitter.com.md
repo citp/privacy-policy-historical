@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nojitter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050217id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nojitter.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225163418id_/http%3A//legal.us.ubm.com/privacy-policy) for the most accurate reproduction.*
 
 # UBM - UBM LLC Privacy Policy
 
-Effective: November 1, 2013
+Effective: August 27, 2014 
 
 **UPDATE**
 
@@ -32,9 +32,10 @@ Please see [More Information About Cookies](https://web.archive.org/privacy-poli
 
 We use information about you: 
 
-  * to provide the services, publications, and information you request and to manage your account with us. 
+  * to provide the services, publications, and information you request and to manage your account with us.
   * to deliver or display content that matches your professional interests and responsibilities. 
   * to contact you with information about and invitations for products and services - ours and other companies - directed to your professional interests and responsibilities. 
+  * to contact you, advertise to you or invite you to join us on social media platforms on which you participate.
   * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you. 
   * for any other purpose that we tell you about when you give us the information. 
 
@@ -44,19 +45,19 @@ We use information about you:
 
 You have a choice about and control over:
 
-**Connecting directly with other companies for marketing purposes**. In addition to providing you with our own editorial content, we offer you the opportunity to access others' branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company or companies. We will put you in direct contact when you choose to:
+**Connecting directly with other companies for marketing purposes.** In addition to providing you with our own editorial content, we offer you the opportunity to access others' branded content and expertise. When you choose to take advantage of that content or expertise, you choose to have your name and contact details transferred directly to that other company or companies. We will put you in direct contact when you choose to: 
 
   * Access a specific webcast, online event, web site, newsletter, or other offering which is sponsored or co-sponsored by another company. If you have enabled our automatic recognition cookie, as described below, you need only click to download or register for the asset or opportunity. 
   * Register for one of our virtual events with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitor whose booths and resources you access a record of your visits and interaction with content from that exhibitor. 
-  * Attend one of our face-to-face events. Exhibitors may be given an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your badge to be read by a particular exhibitor . Badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company's session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data to may also be tracked and disclosed to that exhibitor or sponsor. 
+  * Attend one of our face-to-face events. Exhibitors may be given an attendance list for the event. It is up to you, however, to decide whether to leave your business card or allow your badge to be read by a particular exhibitor. Badges cannot be read remotely. A sponsor of a special, sponsored conference session will also be given information about you if you choose to attend that company's session. Your future interaction with online content from an exhibitor or sponsor to whom you provided your contact data to may also be tracked and disclosed to that exhibitor or sponsor. 
 
 
 
 ## Making information you provide public.
 
-  * We offer web sites that allow you to publish content. Many of these blog sites require that you have registered if you wish to comment. We will publish the user name you provide at registration when you comment. Some sites allow you to create a public profile as well.
-  * Our online event venues also require that you be registered with UBM Tech and allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices.
-  * Increasingly, we offer apps at our face to face events, allowing you to communicate and publish to others who have also downloaded the app.
+  * We offer web sites that allow you to publish content. Many of these blog sites require that you have registered if you wish to comment. We will publish the user name you provide at registration when you comment. Some sites allow you to create a public profile as well. 
+  * Our online event venues also require that you be registered with UBM Tech and allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices. 
+  * Increasingly, we offer apps at our face to face events, allowing you to communicate and publish to others who have also downloaded the app. 
   * These apps and online communities may provide privacy controls which allow you to choose how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide.
 
 
@@ -68,23 +69,22 @@ You have a choice about and control over:
 
 
 
-**Whether your account information is up to date**. Please help us keep your account information up to date. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.
+**Whether your account information is up to date.** Please help us keep your account information up to date. You may update most online registrations by consulting the particular web site itself or visiting a preference page after you have logged on to the site.
 
 ## More Information About Cookies
 
 **You also have choices about cookies:**
 
-**Our cookies.** We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
+Our cookies. We place cookies that identify you, or allow third parties to do so on our behalf, for the following purposes:
 
-  * to recognize you automatically when you return to any of our web sites or online offerings or registration pages.
-  * to understand your interests in content, both our own content and that of other companies, on or across our web sites.
+  * to recognize you automatically when you return to any of our web sites or online offerings or registration pages. 
+  * to understand your interests in content, both our own content and that of other companies, on or across our web sites. 
   * to control access to gated online events including webinars and virtual events. 
   * to make an automated record of your interests within a virtual event. 
   * to manage and follow up on email campaigns. 
+  * You may use the tools in your browser to decline, disable, or delete any cookies. 
 
 
-
-You may use the tools in your browser to decline, disable, or delete any cookies.
 
 You may choose to be recognized automatically when you visit any UBM Tech online property or access any co-branded or sponsored content or opportunity, for example, a webinar. We hope this capability makes your experience with us easier. If you do not enable the automatic recognition cookie, or block it after you have allowed it, you will simply be asked to log in or register on every site and as you access or register to attend any co-branded or sponsored offering.
 
@@ -94,11 +94,13 @@ You must accept the session cookie used to manage access to registration-only on
 
 **Third party advertising cookies**. We allow other companies to serve ads on our web pages. We do not control their use of cookies or other data collection technologies or practices.
 
-  * UBM LLC currently allows the following third party ad servers to serve ads on our web pages: AdRoll, ; [Bizo, Inc.](http://www.bizo.com/businessProfessionals/privacy_policy) and [Google AdSense](http://www.google.com/intl/en/privacy/ads/). Some companies, such as Bizo, Inc. and Google AdSense, may offer additional choices about your preferences. Please visit each of their web sites for more information about the technologies they use and their privacy practices. 
-  * We also use data supplied by a third party server, Madison Logic, to send marketing emails tailored to the interests of our registered users in content on websites other than our own. You may opt out of the Madison Logic cookie by using the [mechanism](http://www.madisonlogic.com/privacy/#tab-1380136766-2-91) it provides. Your continued use of our web sites will indicate your consent for our use of data collected by Madison Logic for email marketing purposes.
-  * Each of the third parties that serve ads to or advertising cookies on our web sites are members of the [Network Advertising Initiative](http://www.networkadvertising.org/). The NAI offers useful information about ad networks and [a single place to turn off targeted ad serving](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [members](http://www.networkadvertising.org/participating/). 
+## Third party advertising cookies.
 
+UBM LLC currently allows the following third party ad servers to serve ads on our web pages: AdRoll, ; [Bizo, Inc.](http://www.bizo.com/businessProfessionals/privacy_policy), and [Google AdSense](http://www.google.com/intl/en/privacy/ads/). Some companies, such as Bizo, Inc. and Google AdSense, may offer additional choices about your preferences. Please visit each of their web sites for more information about the technologies they use and their privacy practices. 
 
+We also use data supplied by a third party server, Madison Logic, to send marketing emails tailored to the interests of our registered users in content on websites other than our own. You may opt out of the Madison Logic cookie by using the [mechanism](http://www.madisonlogic.com/privacy/#tab-1380136766-2-91) it provides. Your continued use of our web sites will indicate your consent for our use of data collected by Madison Logic for email marketing purposes. 
+
+Each of the third parties that serve ads to or advertising cookies on our web sites are members of the [Network Advertising Initiative](http://www.networkadvertising.org/). The NAI offers useful information about ad networks and [a single place to turn off targeted ad serving](http://www.networkadvertising.org/managing/opt_out.asp) from any of its [members](http://www.networkadvertising.org/participating/).
 
 We may add or change the list of Third Party Advertisers from time to time without changing the effective date of the Statement itself. We urge you to check this section for changes regularly.
 
