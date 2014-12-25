@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omanair.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502043816id_/http%3A//www.omanair.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omanair.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225074109id_/http%3A//www.omanair.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oman Air
 
@@ -14,12 +14,12 @@
 
 You will be asked to provide certain information such as your name, contact details, and/or debit/credit card details when you use services provided on this Web Site. We will store this information and hold it on computers or otherwise. We will use this information in the following ways:
 
-  * To register you with our Web Site and administer our Web Site services where you have registered. You can unsubscribe from these services at any time. 
-  * To fulfil our agreement with you, including processing your flight, sending you your itinerary, or contacting you if there is a problem with your reservation; 
-  * To administer any contest or other promotional offer you may enter and notify winners; 
-  * To answer any queries which you may send to us by e-mail; 
-  * For direct marketing purposes, as set out in detail below. 
-  * We need to know the details of all passengers travelling. If you are booking a flight on behalf of someone else, you must obtain their consent to use their personal information. We proceed on the basis that you have obtained this consent. 
+  * To register you with our Web Site and administer our Web Site services where you have registered. You can unsubscribe from these services at any time.
+  * To fulfil our agreement with you, including processing your flight, sending you your itinerary, or contacting you if there is a problem with your reservation;
+  * To administer any contest or other promotional offer you may enter and notify winners;
+  * To answer any queries which you may send to us by e-mail;
+  * For direct marketing purposes, as set out in detail below.
+  * We need to know the details of all passengers travelling. If you are booking a flight on behalf of someone else, you must obtain their consent to use their personal information. We proceed on the basis that you have obtained this consent.
 
 
 
@@ -31,14 +31,14 @@ Information you provide will be used by us to enable us to review, develop and i
 
 ### We may give information about you to:
 
-  * To other companies and/or brands in Oman Air Group. 
-  * To trustworthy third parties that we use for the provision of certain services, such as enabling our customers to book hotels, chauffeurs, hire cars, onward flights or other services quickly and easily. 
-  * To any third parties we transfer or may transfer our rights and duties under our agreement with you. 
-  * To customs and/or immigration departments or other regulatory authorities in your country of departure and/or destination in order to comply with the existing laws. 
-  * To our employees and agents to do any of the above on our behalf, now or in the future 
-  * To third party organizations involved in credit card authorization. 
-  * If we have a duty to do so or if the law allows us to do so. 
-  * If you choose not to provide certain personal information we request, you will still be able to visit our Web Site but you may be unable to access certain options or services. 
+  * To other companies and/or brands in Oman Air Group.
+  * To trustworthy third parties that we use for the provision of certain services, such as enabling our customers to book hotels, chauffeurs, hire cars, onward flights or other services quickly and easily.
+  * To any third parties we transfer or may transfer our rights and duties under our agreement with you.
+  * To customs and/or immigration departments or other regulatory authorities in your country of departure and/or destination in order to comply with the existing laws.
+  * To our employees and agents to do any of the above on our behalf, now or in the future
+  * To third party organizations involved in credit card authorization.
+  * If we have a duty to do so or if the law allows us to do so.
+  * If you choose not to provide certain personal information we request, you will still be able to visit our Web Site but you may be unable to access certain options or services.
 
 
 
