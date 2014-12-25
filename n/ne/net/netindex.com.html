@@ -1,0 +1,386 @@
+<!--The following is the downloaded HTML source of the netindex.com privacy policy that was archived on 2014-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225031803id_/http%3A//www.netindex.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js"><head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="Explore broadband and mobile performance statistics from around the world. Compiled from billions of tests run on Ookla’s websites and apps like Ookla Speedtest">
+	<meta name="keywords" lang="en" content="download speed, upload speed, r-factor, mos, voip, quality, internet, connection, broadband, dsl, cable, residential, household, statistics">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Privacy Policy | Net Index from Ookla</title>
+	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7800252/634742/css/fonts.css">
+	<link rel="stylesheet" type="text/css" href="http://cdn.netindex.com/global/dist/styles/main.css?v=1.8" media="screen">
+	<link rel="stylesheet" href="//api.tiles.mapbox.com/mapbox.js/v1.6.0/mapbox.css">
+	<link rel="shortcut icon" href="http://cdn.netindex.com/images/favicon.ico?v=1.2" type="image/x-icon">
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5PLCZL"></script><script src="//api.tiles.mapbox.com/mapbox.js/v1.6.0/mapbox.js"></script>
+	<script src="http://cdn.netindex.com/global/lib/modernizr-2.7.1.min.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/lib/grunticon-loader.min.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/lib/jquery-1.9.1.min.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/lib/underscore-1.4.4.min.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/lib/d3.v3.min.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/lib/topojson.v1.min.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/js/main.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/js/map.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/js/map-controller.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/js/graph.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/js/graph-controller.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/js/bar-chart-controller.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/js/fixie.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/js/dropdown.js?v=1.0"></script>
+	<script src="http://cdn.netindex.com/global/js/modal.js?v=1.0"></script>
+	
+</head>
+<body id="top" class="">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5PLCZL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5PLCZL');</script>
+<!-- End Google Tag Manager -->
+
+<div class="ookla-properties-nav container clearfix">
+  <ul class="ookla-properties">
+    <li><a href="https://www.ookla.com/">Ookla</a></li>
+    <li><a href="http://www.speedtest.net/">Speedtest</a></li>
+    <li><a href="http://www.pingtest.net/">Pingtest</a></li>
+    <li class="active">NetIndex</li>
+  </ul>
+  <p class="ookla-properties-tagline">The Global Standard in Internet Metrics</p>
+</div>
+
+    <header class="header clearfix" role="banner">
+      <div class="container">
+        <a href="/" class="logo"><b class="text-hide icon-logo">Ookla</b> Net Index</a>
+
+        <ul class="user-menu">
+
+          <li class="user-menu-centered">
+            <a id="my_loc_href" href="#" onclick="getMyLocation()"><i class="icon-location"></i> Go to my Location</a>
+            <script type="text/javascript">  
+	
+	  function goMyLocation(loc) {
+		if (loc.address) {
+			var zip = loc.address.postalCode;
+		} else {
+			var zip = '';
+		}
+		
+	    window.location = "/my_location.php?index=download&lat=" + loc.coords.latitude + "&lon=" + loc.coords.longitude + "&accuracy=" + loc.coords.accuracy +
+	        "&zip=" + zip;
+	  }
+
+      function errorHandler(err) {
+		if (err.code == 1) {
+			// user said no!
+		} else if (err.code == 2) {
+			// position unavailable
+		} else if (err.code == 3) {
+			// timeout
+		} else {
+			// unknown
+		}
+		
+		window.location = "/my_location.php?index=download";
+      }
+
+	  function getMyLocation() {
+		if (navigator.geolocation) {
+	      navigator.geolocation.getCurrentPosition(goMyLocation, errorHandler, {enableHighAccuracy: false, timeout: 5000, maximumAge: 24*60*60*1000});  // cache for 24 hours
+	      var href = document.getElementById("my_loc_href"); 
+	    } else {
+			window.location = "/my_location.php?index=download";
+	    }
+	  }
+</script>
+          </li>
+
+          <li>
+            <a class="icon-uservoice" id="feedback" href="#">Feedback</a>
+          </li>
+
+          <li>
+            <a class="user-menu-faq" href="/faq.php">FAQ</a>
+          </li>
+
+          <li>
+            <ul class="list-horizontal">
+              <li>
+                <a class="text-hide icon-facebook" href="http://go.ookla.com/facebook">Facebook</a>
+              </li>
+              <li>
+                <a class="text-hide icon-twitter" href="http://go.ookla.com/twitter">Twitter</a>
+              </li>
+              <li>
+                <a class="text-hide icon-google-plus" href="http://go.ookla.com/google+">Google +</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+
+        <nav class="nav clearfix" role="navigation">
+          <section class="nav-section">
+            <h2 class="nav-heading">Global Broadband</h2>
+
+            <ul>
+              <li>
+                <a class="nav-item highlight " href="/download/">
+                  Download
+                  <div class="tooltip-container nav-item-tooltip">
+                    <button class="icon-info-mini text-hide tooltip-toggle"></button>
+                    <div class="tooltip tooltip-mini-masthead">
+                      <p>Rolling average consumer download speed, extrapolated by IP and averaged over the last 30 days.</p>
+                    </div>
+                  </div>
+                  <div class="figure">
+                    <b class="figure-content">21.8</b>
+                    <span class="figure-unit">Mbps</span>
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a class="nav-item highlight " href="/upload/">
+                  Upload
+                  <div class="tooltip-container nav-item-tooltip">
+                    <button class="icon-info-mini text-hide tooltip-toggle"></button>
+                    <div class="tooltip tooltip-mini">
+                      <p>Rolling average consumer upload speed, extrapolated by IP and averaged over the last 30 days.</p>
+                    </div>
+                  </div>
+                  <div class="figure">
+                    <b class="figure-content">10.0</b>
+                    <span class="figure-unit">Mbps</span>
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a class="nav-item " href="/quality/">
+                  Quality
+                  <div class="tooltip-container nav-item-tooltip">
+                    <button class="icon-info-mini text-hide tooltip-toggle"></button>
+                    <div class="tooltip tooltip-mini">
+                      <p>The average R-Factor, which is an industry standard method for measuring connection stability by monitoring packet loss and delay. We average tests collected via Pingtest.net over the past 30 days.</p>
+                    </div>
+                  </div>
+                  <div class="figure">
+                    <b class="figure-content">84.5</b>
+                    <span class="figure-unit">R-Factor</span>
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a class="nav-item " href="/value/">
+                  Value
+                  <div class="tooltip-container nav-item-tooltip">
+                    <button class="icon-info-mini text-hide tooltip-toggle"></button>
+                    <div class="tooltip tooltip-mini">
+                      <p>The global median broadband cost in US dollars per Megabit per second, averaged based on customer surveys.</p>
+                    </div>
+                  </div>
+                  <div class="figure">
+                    <b class="figure-content">$5.45</b>
+                    <span class="figure-unit">USD</span>
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a class="nav-item " href="/promise/">
+                  Promise
+                  <div class="tooltip-container nav-item-tooltip">
+                    <button class="icon-info-mini text-hide tooltip-toggle"></button>
+                    <div class="tooltip tooltip-mini">
+                      <p>The global median download speed as a percentage of service providers’ advertised speed, averaged based on customer surveys.</p>
+                    </div>
+                  </div>
+                  <div class="figure">
+                    <b class="figure-content">87.1 %</b>
+                  </div>
+                </a>
+              </li>
+            </ul>
+          </section>
+
+          <section class="nav-section">
+            <h2 class="nav-heading">Global Mobile</h2>
+
+            <ul>
+              <li>
+                <a class="nav-item highlight-alt " href="/mdownload/">
+                  Download
+                  <div class="tooltip-container nav-item-tooltip">
+                    <button class="icon-info-mini text-hide tooltip-toggle"></button>
+                    <div class="tooltip tooltip-mini-masthead">
+                      <p>Rolling average consumer download speed on mobile devices, extrapolated by device and averaged over the last 30 days.</p>
+                    </div>
+                  </div>
+                  <div class="figure">
+                    <b class="figure-content">11.2</b>
+                    <span class="figure-unit">Mbps</span>
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a class="nav-item highlight-alt " href="/mupload/">
+                  Upload
+                  <div class="tooltip-container nav-item-tooltip">
+                    <button class="icon-info-mini text-hide tooltip-toggle"></button>
+                    <div class="tooltip tooltip--bottomleft tooltip-mini-masthead">
+                      <p>Rolling average consumer upload speed on mobile devices, extrapolated by device and averaged over the last 30 days.</p>
+                    </div>
+                  </div>
+                  <div class="figure">
+                    <b class="figure-content">4.6</b>
+                    <span class="figure-unit">Mbps</span>
+                  </div>
+                </a>
+              </li>
+            </ul>
+          </section>
+        </nav>
+      </div>
+    </header>
+    <main class="">
+<main>
+
+  <section class="overview-wrapper">
+	<div class="overview container container-constrained">
+		<h2>OOKLA WEB PROPERTIES PRIVACY POLICY</h2>
+
+<i>Last Updated: August 15, 2014</i>
+
+<p>Your privacy is important to us. When you visit or use any of Ookla’s web properties, services and software (including by not limited to those hosted and provided by ookla.com, netindex.com, speedtest.net and pingtest.net) we remain committed to protecting your personally identifiable information as outlined in this policy.</p>
+
+<h3>What Information Do We Collect?</h3>
+<p>We may collect, store and use the following kinds of personal data:</p>
+
+<ul>
+  <li>Information about your visits to and use of our websites or services</li>
+  <li>Information about any transactions carried out between you and us on or in relation to our websites, including information relating to any purchases you make of our goods or services</li>
+  <li>Information that you provide to us for the purpose of registering with us and/or subscribing to our website services and/or email notifications</li>
+</ul>
+
+<p>We may collect, store and use non-personal data about your visits to and use of our websites. Additionally, when you use the services on speedtest.net or pingtest.net, we will collect the following anonymous data:</p>
+
+<ul>
+  <li>Actual test results (Mbps)</li>
+  <li>The IPv4 or IPv6 network address</li>
+  <li>Make and version of your web browser, or type of mobile device, including its current hardware and software versions</li>
+  <li>Date and time of the test</li>
+  <li>The ISP, college or organization that operates the network on which you’re testing</li>
+  <li>Approximate location of the server and the client machine, using only publicly available information and if made available by your mobile device</li>
+</ul>
+
+<h3>Information About Visiting Our Websites</h3>
+<p>We may collect information about your computer and your visits to our websites such as your IP address, geographical location, browser type, referral source, length of visit and number of pageviews. We may use this information in the administration of our websites, to improve their usability, and for marketing purposes.</p>
+
+<p>We use cookies on our websites. A cookie is a text file sent by a web server to a web browser, and stored by the browser. The text file is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.</p>
+
+<p>We may send a cookie which may be stored by your browser on your computer’s hard drive. We may use the information we obtain from the cookie in the administration of our websites, to improve their usability and for marketing purposes. We may also use that information to recognize your computer when you visit our websites, and to personalize our websites for you.</p>
+
+<p>We may use anonymous cookies to record non-personal information such as website activity, date and time of visit, and domain type. We may use this information for retargeting purposes. </p>
+
+<p>For some of the ads served on our websites, Google uses a DoubleClick DART cookie to identify your past browsing history and then serve you relevant ads on any of their advertising partner websites. You can opt out of this kind of cookie tracking by using the Network Advertising Initiative Opt Out Tool.</p>
+
+<p>Most browsers allow you to refuse to accept cookies overall and for specific websites. This can, however, impact the usability of many websites, including any of ours.</p>
+
+<h3>Using Your Personal Data</h3>
+<p>Personal data submitted on our websites will be used for the purposes specified in this privacy policy or in relevant parts of the website in question. In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to:</p>
+
+<li>Improve your browsing experience by personalizing our websites</li>
+<li>Send information (other than marketing communications) to you which we think may be of interest to you by post, email or similar technology</li>
+
+<h3>Using Your Non-Personal Data</h3>
+<p>We use your non-personal and anonymous data in a variety of ways, including but not limited to:</p>
+
+<h4>Advertising Services</h4>
+<p>Non-personal data is collected and shared with the service AdRoll to provide relevant and targeted advertisements through retargeting. All data is anonymous and cannot be used to identify the visitor. Retargeting recognizes that the internet browser has visited any of our websites in the last 90 days. If you don’t want to participate in retargeting, you may opt-out of AdRoll’s services.</p>
+
+<h4>Broadband Performance Data Services</h4>
+<p>The information we collect via the broadband and mobile performance tests run on either speedtest.net or pingtest.net is done so anonymously and is then aggregated for a few different broadband performance data services. We do so with the express intent of providing a neutral and unbiased monitoring and reporting resource for organizations around the world. This anonymous, aggregated data can be accessed via subscription services or via our publicly-available data repository, NetIndex.</p>
+
+<h3>Other Disclosures</h3>
+<p>In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:</p>
+
+<ul>
+  <li>To the extent that we are required to do so by law</li>
+  <li>In connection with any legal proceedings or prospective legal proceedings</li>
+  <li>In order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk)</li>
+  <li>To enforce our agreements, protect our application integrity and require or enforce our terms of use</li>
+  <li>To protect the rights, property or safety of Ookla, our employees, agents, customers and others</li>
+</ul>
+
+<p>In connection with a merger, acquisition or other sale of significant assets of our company, we may transfer all of our data regarding broadband performance, including individual broadband test results, to the acquiring company. We commit to first get their binding assurance that they also abide by all privacy laws and generally accepted privacy policies.</p>
+
+<h3>Security of Your Personal Data</h3>
+<p>We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet.</p>
+
+<p>We will store all the personal information you provide on our secure servers.</p>
+
+<h3>Third Party Websites</h3>
+<p>Our websites contain links to other websites and some of our services are accessed through third party sites. They may send us information, including personal information to us as part of our arrangement with them to provide you with a better experience. We process that information under this Privacy Policy and do not store it unless you ask us to during Registration. In general, the information you provide to such sites will be governed by their privacy policies.</p>
+
+<h3>Policy Amendments</h3>
+<p>We may update this privacy policy from time-to-time by posting a new version on our websites. We’ll change the Last Updated date at the top of the page each time we change this policy, so please check back occasionally to review any updates.</p>
+
+<h3>Contact</h3>
+<p>If you have any questions about this privacy policy or our treatment of your personal data, please write to us using our Contact Us page.</p>
+
+	</div>
+  </section>
+
+</main>
+</main>
+  <footer class="footer">
+    <div class="container pure-g">
+      <section class="pure-u footer-column">
+        <h6 class="footer-heading">Net Index</h6>
+        <ul class="footer-menu">
+          <li><a href="http://explorer.netindex.com">Net Index Explorer</a></li>
+          <li><a href="/#source">Source Data</a></li>
+        </ul>
+      </section>
+
+      <section class="pure-u footer-column">
+        <h6 class="footer-heading">Apps</h6>
+        <ul class="footer-menu">
+          <li><a href="http://www.speedtest.net">Ookla Speedtest</a></li>
+          <li><a href="http://www.speedtest.net/mini.php">Speedtest Mini</a></li>
+          <li><a href="http://www.pingtest.net">Pingtest.net</a></li>
+        </ul>
+      </section>
+
+      <section class="pure-u footer-column">
+        <h6 class="footer-heading">Company</h6>
+        <ul class="footer-menu">
+          <li><a href="http://www.ookla.com/about">About Ookla</a></li>
+          <li><a href="http://www.ookla.com/netgauge">NetGauge</a></li>
+          <li><a href="http://www.ookla.com/netmetrics">NetMetrics</a></li>
+        </ul>
+      </section>
+
+      <section class="pure-u footer-column footer-column-offset">
+        <a class="text-hide footer-logo icon-logo-footer" href="http://www.ookla.com">Ookla</a>
+        <ul class="footer-menu">
+          <li>Copyright 2014 Ookla</li>
+		  <li><a href="/terms.php">Terms &amp; Conditions</a></li>
+		  <li><a href="/privacy.php">Privacy Policy</a></li>
+		  <li><a href="http://status.ookla.com">Network Status</a></li>
+          <li class="footer-item-horizontal">
+            <a class="text-hide icon-facebook" href="http://go.ookla.com/facebook">Facebook</a>
+          </li>
+          <li class="footer-item-horizontal">
+            <a class="text-hide icon-twitter" href="http://go.ookla.com/twitter">Twitter</a>
+          </li>
+          <li class="footer-item-horizontal">
+            <a class="text-hide icon-google-plus" href="http://go.ookla.com/google+">Google +</a>
+          </li>
+        </ul>
+      </section>
+    </div>
+  </footer>
+
+
+
+</body></html>
