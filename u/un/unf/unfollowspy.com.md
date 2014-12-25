@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unfollowspy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063523id_/http%3A//www.unfollowspy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfollowspy.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225142735id_/http%3A//www.unfollowspy.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Page
+# Privacy Policy
 
-This website and it's owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website comply's to all UK national laws and requirements for user privacy.
+This website and it's owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website comply's to all UK national laws and requirements for user privacy. 
 
 **Contact & Communication**
 
@@ -17,8 +17,10 @@ This website operates an email newsletter program, used to inform subscribers ab
 
 Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website's email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please email us.
 
+  
 Email marketing campaigns published by this website or it's owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].  
-This information is used to refine future email campaigns and supply the user with more relevant content based around their activity. In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign.
+This information is used to refine future email campaigns and supply the user with more relevant content based around their activity. In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign.  
+
 
 **External Links**
 
@@ -44,7 +46,8 @@ This website may use social sharing buttons which help share web content directl
 
 **Shortened Links in Social Media**
 
-This website and it's owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url's [web addresses] (this is an example: http://bit.ly/zyVUBo). 
+This website and it's owners through their social media platform accounts may share web links to relevant web pages. By default some social media platforms shorten lengthy url's [web addresses] (this is an example: http://bit.ly/zyVUBo).   
+
 
 Users are advised to take caution and good judgment before clicking any shortened url's published on social media platforms by this website and it's owners. Despite the best efforts to ensure only genuine url's are published many social media platforms are prone to spam and hacking and therefore this website and it's owners cannot be held liable for any damages or implications caused by visiting any shortened links.
 
