@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the xaxis.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520215013id_/http%3A//www.xaxis.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaxis.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225140643id_/http%3A//www.xaxis.com/static/view/privacy-policy) for the most accurate reproduction.*
 
-# Xaxis
+# Xaxis Privacy Policy
 
-Effective Date: 3/13/2014
+### Xaxis Privacy Policy
+
+**Effective Date: December 2, 2014**
 
 Xaxis, Inc. (“Xaxis”) is firmly committed to protecting the privacy of Internet users and fostering user confidence in the Internet and Internet advertising.  Accordingly, we are committed to observing applicable industry guidelines, including those established by the Digital Advertising Alliance, the Network Advertising Initiative and the Interactive Advertising Bureau.  We continually evaluate innovative ways to protect online user privacy while also seeking to deliver relevant advertising and custom online experiences on behalf of our clients.
 
@@ -14,17 +16,17 @@ The next few sections below describe how we collect and use user information in 
 
 For information on how we collect and use information that is collected directly on this website (as opposed to through the Services), please see the section entitled “Your Use of and Correspondence on this Website” below.
 
-**Xaxis’s Services**
+**Xaxis’ Services**
 
-Xaxis provides a range of services to its clients, including advertisers and publishers.  Xaxis’s services (“Services”) include: media planning, buying and selling; marketing communications planning; campaign analytics and research; paid search placement; search engine optimization; ad serving; and data management.  Our clients use our Services in order to show online users the most useful and relevant ads.
+Xaxis provides a range of services to its clients, including advertisers and publishers.  Xaxis’s services (“Services”) include: media planning, buying and selling; marketing communications planning; campaign analytics and research; paid search placement; search engine optimization; and audience segmentation and data management.  Our clients use our Services in order to show online users the most useful and relevant ads.
 
 **Types of Information We Collect through Our Services**
 
-When you view and interact with websites and advertisements operated by our clients, we may collect through our Services information regarding your browsing, usage and interactions.  We may also collect information that allows us to identify browsers we have interacted with previously.  Such information collected by our Services may include the type of Internet browser and computer operating system you use, your computer’s Internet protocol (“IP” address), the URLs of the websites you visited before and after viewing an advertisement, and information related to websites and web pages you are viewing when an advertisement is shown. 
+When you view and interact with websites and advertisements operated by our clients (and, in some cases, by our clients' clients), we may collect through our Services information regarding your browsing, usage and interactions.  We may also collect information that allows us to identify browsers we have interacted with previously.  Such information collected by our Services may include the type of Internet browser and computer operating system you use, your computer’s Internet protocol (“IP” address), the URLs of the websites you visited before and after viewing an advertisement, and information related to websites and web pages you are viewing.
 
 We do not collect users’ names, mailing addresses, phone numbers, email addresses or similar personally identifiable information.  Whenever we refer to “you” or “your”, we are referring to a browser or device and not an identifiable person.
 
-We collect information through the use of cookies, pixels and similar technologies.  A cookie is a file on your browser that uniquely identifies your browser and computer.  A pixel is a line of code that is used by a website or third party to assign online activities to a computer or browser.  The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page.  Additional information from an earlier period or interaction may be included in the pixel. 
+We collect information through the use of cookies, pixels and similar technologies.  A cookie is a file on your browser that uniquely identifies your browser and computer.  A pixel is a line of code that is used by a website or third party to assign online activities to a computer or browser.  The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page.  Additional information from an earlier period or interaction may be included in the pixel.
 
 **How We Use Information Collected through Our Services**
 
@@ -32,32 +34,33 @@ We use the information collected through our Services to provide you with the mo
 
 We may also receive from other companies information collected outside the Services for use in connection with the Services on behalf of our clients.  We also do this in order to get a clearer picture of the types of advertisements that might be most relevant and useful to you.  We do not associate such information with your name, mailing address, email address or similar personally identifiable information. 
 
-We require our clients to comply with applicable laws governing online privacy.  We encourage you to read the privacy policies of the websites you visit to better understand issues relating to your online privacy.
+We require our clients to comply with applicable laws governing online privacy.  We encourage you to read the privacy policies of the websites you visit to better understand issues relating to your online privacy.
 
-The use of information by our affiliates, clients and service providers is not covered by this Privacy Policy.
+The use of information by our affiliates, clients and service providers is not covered by this Privacy Policy. 
 
 **Disclosure of Information to Third Parties**
 
-We may disclose the information we collect about you (see “Types of Information We Collect through Our Services” above), and information derived from it, to our clients and service providers.  As we do not collect users’ names, mailing addresses, phone numbers, email addresses or similar personally identifiable information through our Services, we do not disclose any such information to third parties.  However, if you affirmatively provide personally identifiable information via one of our clients’ advertisements or websites, then that information will be received by such client and will be subject to that client’s privacy policy.
+We may disclose the information we collect about you (see “Types of Information We Collect through Our Services” above), and information derived from it, to our clients and service providers.  As we do not collect users’ names, mailing addresses, phone numbers, email addresses or similar personally identifiable information through our Services, we do not disclose any such information to third parties.  However, if you affirmatively provide personally identifiable information via one of our clients’ advertisements or websites, then that information will be received by such client and will be subject to that client’s privacy policy.  Our service providers are not permitted to use non-aggregated information we disclose to them for any purpose other than providing services to us or our clients.
 
 We also may disclose the information we collect to third parties, including law enforcement, when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.
 
 **User Choice**
 
-We collect information through our Services through the use of cookies, pixels and similar technologies.  We believe that the use of such technology enables us and our clients to provide users with a more meaningful web experience.  
-You may adjust your browser settings to refuse or remove cookies.  However, by doing so, you may not be able to use certain features on the websites you visit or take full advantage of all website offerings and interest-based advertising.  You may refuse or remove cookies by following the directions provided in your browser settings.
+We collect information through our Services through the use of cookies, pixels and similar technologies.  We believe that the use of such technology enables us and our clients to provide users with a more meaningful web experience.
 
-You also may simply opt out of receiving our customized third-party advertisements through the Services by clicking here, in which case your unique third-party Xaxis cookie will be replaced with a non-unique opt-out cookie:
+You may simply opt out of receiving customized third-party advertisements via Xaxis technologies by clicking here:
 
 [](http://optout.mookie1.com/optout/tfsm/tfsm-optout-generic.html?success=http://www.xaxis.com/optout/success&?fail=http://www.xaxis.com/optout/error)
 
 Our opt-out cookies are programmed to expire ten years after they are initially issued.  If you buy a new computer, upgrade or change Web browsers or delete this “opt-out” cookie, you will need to perform this opt-out process again.  In order for the opt-out to work, your browser must be set to accept third-party cookies.
 
+Alternatively, you may adjust your browser settings to refuse or remove cookies, which would result in the elimination of interest-based advertising via cookies from other providers in addition to Xaxis.  However, by doing so, you may not be able to use certain features on the websites you visit or take full advantage of all website offerings and interest-based advertising.  You may refuse or remove cookies by following the directions provided in your browser settings.
+
 **Network Advertising Initiative**
 
-We are a member of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/) and adhere to the NAI’s [Code of Conduct](http://www.networkadvertising.org/code-enforcement/code). In accordance with the Code of Conduct, we require our Xaxis Publisher Network (formerly 24/7 Access) clients to inform users about their privacy and information collection practices via their privacy policies and to include in their privacy policies information regarding the use of third-party advertising technology and services on their sites, the types of data collected through such services, the use and distribution of such data, and a link to an industry opt-out from interest-based advertising. We periodically monitor the Web sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
+We are a member of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/) and adhere to the NAI’s [Code of Conduct](http://www.networkadvertising.org/code-enforcement/code). In accordance with the Code of Conduct, we require our Xaxis Publisher Network (formerly 24/7 Access) clients to inform users about their privacy and information collection practices via their privacy policies and to include in their privacy policies information regarding the use of third-party advertising technology and services on their sites, the types of data collected through such services, the use and distribution of such data, and a link to an industry opt-out from interest-based advertising. We periodically monitor the Web sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
 
-We fully support the digital advertising industry’s efforts to increase transparency in the area of interest-based advertising and health segments.  For more information on consumer interest segments that we may use for general health-targeted advertising, please [click here](http://www.xaxis.com/page/general-health-interests).
+We fully support the digital advertising industry’s efforts to increase transparency in the area of interest-based advertising and health segments.  For more information on consumer interest segments that we may use for general health-targeted advertising, please [click here](http://www.xaxis.com/static/view/consumer-interest-segments).
 
 You can also click the link above to reach the Network Advertising Initiative site, a central location for information about interest-based advertising and the choices available to you, and to opt out of receiving third-party interest-based advertising from us and other NAI member companies.
 
@@ -65,7 +68,7 @@ You can also click the link above to reach the Network Advertising Initiative si
 
 **Digital Advertising Alliance and Ad Choices**
 
-Xaxis supports deployment of the Advertising Option icon (Ad Choices), in partnership with Ghostery, Inc, as part of its compliance with Digital Advertising Alliance self-regulation program.
+Xaxis supports deployment of the Advertising Option icon (Ad Choices), in partnership with Ghostery, Inc., as part of its compliance with the Digital Advertising Alliance’s self-regulation program.
 
 **Children’s Privacy**
 
@@ -81,19 +84,19 @@ In the event that another company acquires all or substantially all of the asset
 
 **Information Security**
 
-We follow generally accepted industry standards to protect against the unauthorized access to, retention of, and disclosure of data.  This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use. Any data that is stored on our servers is treated as confidential information.  Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
+We follow generally accepted industry standards to protect against the unauthorized access to, retention of, and disclosure of data.  This includes undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use. Any data that is stored on our servers is treated as confidential information.  Please keep in mind, however, that despite these reasonable efforts to protect data on our servers, no method of transmission over the Internet is guaranteed to be secure. Therefore, while we strive to protect your data at all times, we cannot guarantee its absolute security and shall not be liable for any breach of security by an outside party.
 
 **Data Retention**
 
-We generally maintain the information we collect through our Services in non-aggregated form for a period of not more than thirteen months.  This data includes web sites visited, content viewed, ad interactions, IP addresses, browser type and language settings.
+We generally maintain the information we collect through our Services in non-aggregated form for a period of not more than thirteen months.  This data includes web sites visited, content viewed, ad interactions, IP addresses, browser type and language settings.
 
 We may maintain information we collect through our Services in an aggregated form for a period longer than thirteen months.
 
 **Your Use of and Correspondence on this Website**
 
-We use cookies to understand and analyze the usage trends of our users on our corporate website.  If you provide us information through our "contact us" link on our corporate website, we will keep a record of the information you provide, including your email address and any other personally identifiable information you provide, solely for the purpose of responding to your inquiry or to provide you with relevant material.
+We use cookies to understand and analyze the usage trends of our users on our corporate website.  If you provide us information through our "contact us" link on our corporate website, we will keep a record of the information you provide, including your email address and any other personally identifiable information you provide, solely for the purpose of responding to your inquiry or to provide you with relevant material.
 
-Information collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside.  Providing such information will constitute your consent to any such transfer.
+Information collected on our website may be stored and processed in the United States or any other country in which we or our affiliates, subsidiaries, agents or customers maintain facilities. You acknowledge and agree that personally identifiable information you provide to us may be transferred outside of the country in which you reside. Providing such information will constitute your consent to any such transfer.
 
 **Europe and Safe Harbor Principles**
 
@@ -101,13 +104,13 @@ Please note that in some countries an IP address is considered personal data by 
 
 In such countries we interpose a “black box” that is operated by an independent third party and that separates the user’s IP address from other data we collect.
 
-Xaxis for Publishers LT (formerly known as 24/7 Open AdStream LT), a service we primarily provide in Europe, places a cookie on your computer for the purpose of interest-based advertising as described above.  This service was certified with the TÜV Trusted IT Data Privacy Certification Seal on January 24, 2013.  You may opt out of interest-based advertising through the Xaxis for Publishers LT service by following the instructions in the section titled “User Choice”.
+Xaxis Stream (formerly known as Xaxis for Publishers LT), a service we primarily provide in Europe, places a cookie on your computer for the purpose of interest-based advertising as described above.  This service was certified with the TÜV Trusted IT Data Privacy Certification Seal on January 24, 2013.  You may opt out of interest-based advertising via Xaxis Stream technology by following the instructions in the section titled “User Choice”.
 
 We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce, regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement.  To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>.
 
-In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information on our website.  Citizens of the European Union or Switzerland with inquiries or complaints regarding this Privacy Policy should first contact [privacy@xaxis.com.](mailto:privacy@xaxis.com.)
+In compliance with the Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information on our website.  Citizens of the European Union or Switzerland with inquiries or complaints regarding this Privacy Policy should first contact [privacy@xaxis.com.](mailto:privacy@xaxis.com)
 
-Xaxis has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Xaxis, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information or to file a complaint.
+Xaxis has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Xaxis, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information or to file a complaint.
 
 **California**
 
@@ -115,8 +118,8 @@ Pursuant to Section 1798.83 of the California Civil Code, residents of Californi
 
 California law requires us to disclose how we respond to Web browser “Do Not Track” signals or other choice mechanisms relating to interest-based advertising.  Currently, there is no industry consensus with respect to the meaning of a “Do Not Track” signal and how operators of online services should respond to them.  As a result, we have not yet developed a response to browser “Do Not Track” signals, and do not change any of our data collection practices when we receive such signals.  We will continue to evaluate potential responses to “Do Not Track” signals in light of industry developments or legal changes. 
 
-We are committed to honoring your privacy choices, and, as noted in the “User Choice” section above, we provide a mechanism that allows you to opt out of interest-based advertising.
+We are committed to honoring your privacy choices, and, as noted in the “User Choice” section above, we provide a mechanism that allows you to opt out of interest-based advertising via Xaxis technologies.
 
 **Questions or Comments about this Privacy Policy**
 
-If you have questions or concerns regarding this statement, you should contact us through email or by mail.  You can address your general questions and comments by e-mail to [privacy@xaxis.com](mailto:privacy@xaxis.com) or by mail to Xaxis, Inc., 132 West 31 Street, 11th Floor, New York, NY 10001, Attn: Legal Department.
+If you have questions or concerns regarding this statement, you should contact us through email or by mail. You can address your general questions and comments by e-mail to [privacy@xaxis.com](mailto:privacy@xaxis.com) or by mail to Xaxis, Inc., 132 West 31 Street, 11th Floor, New York, NY 10001, Attn: Legal Department.
