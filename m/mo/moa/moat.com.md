@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moat.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209194124id_/http%3A//www.moat.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moat.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225010659id_/http%3A//www.moat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Moat
 
@@ -23,6 +23,8 @@ The short answer is that we generally use this information to help Moat provide 
   * provide you with additional information we think is of interest to you
 
 
+
+In addition, as you browse Moat.com and other Moat URLs, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners then enable us to present you with retargeting advertising on other sites based on your previous interaction with Moat.com and other Moat URLs. If you don’t want to have your information used for the purpose of serving you ads targeted in this way, you can opt out by visiting [this opt out page](http://www.aboutads.info/choices/) and following the instructions. Please note this does not opt you out of being served advertising. You will continue to receive generic ads, not tailored to you.
 
   * **Automated Information.** We may freely share information we collect by automated means with third parties, such as clients, advertisers, sponsors and business partners.
   * **Personally Identifiable Information.** In more limited circumstances, we may share personally identifiable information we have collected. For example: 
@@ -56,4 +58,4 @@ You can also contact us by mail at Moat Inc., 228 Park Ave South #17953, New Yor
 
 In addition, if you wish to exclude your personal information from our direct marketing, or if you would like to update or delete your email address, mailing address or other personal information, or otherwise manage communications your receive from Moat, please contact us at the above.
 
-Effective: August 15, 2011.
+Last update: October 6, 2014.
