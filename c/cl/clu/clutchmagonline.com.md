@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clutchmagonline.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608074836id_/http%3A//www.clutchmagonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clutchmagonline.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225062753id_/http%3A//www.clutchmagonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Clutch Magazine
+# Privacy Policy - Clutch Magazine
 
 This privacy statement covers the Sutton New Media LLC sites (Clutch Magazine Online and Coco & Crème). Please read this statement carefully before using proceeding to access Sutton New Media LLC sites. Your use of Sutton New Media LLC sites indicates your agreement to abide by the terms in effect.
 
@@ -22,8 +22,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 **Log Files**  
 Like most standard Web site servers we use log files. This includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
 
-**Legal Disclaimer**
-
+**Legal Disclaimer**  
 Though we make every effort to preserve user privacy, Sutton New Media LLC may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the Sutton New Media LLC site.
 
 **Business Transitions**  
@@ -43,3 +42,7 @@ Whenever Sutton New Media LLC changes its privacy policy, we will post those cha
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at **privacy@clutchmagonline.com**
+
+style="display:inline-block;width:300px;height:250px"  
+data-ad-client="ca-pub-4490002161143424"  
+data-ad-slot="9293572801">
