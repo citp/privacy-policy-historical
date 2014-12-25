@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629163752id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeromotorcycles.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225154115id_/http%3A//www.zeromotorcycles.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy || ZERO MOTORCYCLES
 
@@ -73,7 +73,7 @@ Back to top
 
 The Zero Motorcycles website uses cookies and other technologies such as pixel tags or web beacons. Cookies are bits of non-personal data – information about your use of our website, preferences, shopping cart items – that are stored on your browser. This allows for a more convenient, efficient and personalized user experience and is standard practice on the Internet. 
 
-Cookies are used in our online behavioral advertising campaigns with Google AdWords which help determine which ads are displayed to you when you visit other websites that belong to our advertising partners’ display networks. (See the Does Zero share my information? section.) For email and ad campaigns, we may also set a cookie to record that you have arrived at our site via that campaign. 
+Cookies are used in our online behavioral advertising campaigns with Google AdWords and Facebook which help determine which ads are displayed to you when you visit other websites that belong to our advertising partners or their display networks. (See the Does Zero share my information? section.) For email and ad campaigns, we may also set a cookie to record that you have arrived at our site via that campaign. 
 
 Most browsers allow you to disable cookies in the “Preferences” section. Your browser may also have options to block new cookies or notify you when you receive a request for a new cookie. If you disable cookies some sections of our website may not function fully. 
 
@@ -95,5 +95,5 @@ Back to top
 
 ## Changes to Zero Motorcycle’s Privacy Policy
 
-Last revised: August, 2013   
+Last revised: November, 2014   
 This page describes the most recent updates to our Privacy Policy. We will update our privacy policy from time to time and encourage you to review it periodically. 
