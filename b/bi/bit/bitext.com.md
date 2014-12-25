@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitext.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502083423id_/http%3A//www.bitext.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitext.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225110917id_/http%3A//www.bitext.com/privacy-policy.html) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy - Bitext - Text Analytics Solutions for Big Data
 
 We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our Site or via any other media at [http://www.bitext.com](http://www.bitext.com/) (the “Site”) or the rest of our online services and demos (the “Service”). 
 
