@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diskeeper.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618021803id_/http%3A//www.condusiv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diskeeper.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225020045id_/http%3A//www.condusiv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Condusiv Technologies
 
@@ -40,7 +40,7 @@ Our site uses both session cookies and persistent cookies to better understand h
 
 ### Consent
 
-If you decide to register or provide personal information, you will be able to select the types of information you want to receive from Condusiv Technologies. If you do not want Condusiv Technologies to communicate with you about other offers regarding Condusiv products, new software, events, or services by Email, postal mail or telephone, you may deselect the appropriate option.
+If you decide to register or provide personal information, you will be able to select the types of information you want to receive from Condusiv Technologies. 
 
 ### System Monitoring
 
