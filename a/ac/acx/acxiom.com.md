@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acxiom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101824id_/http%3A//acxiom.com/about-acxiom/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acxiom.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225070407id_/http%3A//www.acxiom.com/about-acxiom/privacy) for the most accurate reproduction.*
 
 # Privacy
 
