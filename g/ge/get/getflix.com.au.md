@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getflix.com.au privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609201034id_/http%3A//www.getflix.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getflix.com.au privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225205705id_/http%3A//www.getflix.com.au/privacy) for the most accurate reproduction.*
 
 # Getflix: Unblock Netflix, Hulu Plus, Amazon, Vudu, BBC iPlayer (and much more)
 
-This Privacy Policy governs the manner in which Getflix collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.cloud-screens.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Getflix.
+This Privacy Policy governs the manner in which Global Stealth, Inc collects, uses, maintains and discloses information collected from users (each, a "User") of the Getflix website ("Site"). This privacy policy applies to the Site and all associated products and services.
 
 #### 1  Personal Identification Information
 
@@ -20,7 +20,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 #### 4  How we use Collected Information
 
-Getflix may collect and use Users personal information for the following purposes:
+Global Stealth, Inc may collect and use Users personal information for the following purposes:
 
   * To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * To personalize user experience. We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -49,7 +49,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 #### 8  Changes to this Privacy Policy
 
-Getflix has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+Global Stealth, Inc has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 #### 9  Your Acceptance of These Terms
 
