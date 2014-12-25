@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webgains.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617151047id_/http%3A//us.webgains.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgains.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225130525id_/http%3A//us.webgains.com/public/privacy) for the most accurate reproduction.*
 
 # Webgains – Affiliate Network » Privacy
 
