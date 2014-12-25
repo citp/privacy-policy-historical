@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arab-eye.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211125016id_/http%3A//info.yahoo.com/privacy/xe/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arab-eye.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225123053id_/http%3A//info.yahoo.com/privacy/xe/yahoo) for the most accurate reproduction.*
 
-# Yahoo! Privacy Center
+# Yahoo Privacy Center
 
 ## WHAT THIS PRIVACY AND COOKIE POLICY COVERS
 
@@ -18,13 +18,13 @@ Return to top
 
 ##  INFORMATION COLLECTION AND USE
 
-Yahoo! collects personal information when you register for a Yahoo! account, when you use certain Yahoo! [products or services](https://info.yahoo.com/privacy/us/yahoo/products.html), when you enter [promotions or sweepstakes](https://info.yahoo.com/privacy/us/yahoo/promotions/) and when you visit Yahoo! pages or the pages of certain Yahoo! partners outside the branded Yahoo! network of websites. Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
+Yahoo! collects personal information when you register for a Yahoo! account, when you use certain Yahoo! [products or services](http://info.yahoo.com/privacy/us/yahoo/products.html), when you enter [promotions or sweepstakes](http://info.yahoo.com/privacy/us/yahoo/promotions/) and when you visit Yahoo! pages or the pages of certain Yahoo! partners outside the branded Yahoo! network of websites. Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
 
 When you register with Yahoo!, we ask for your name, email address, birth date, gender, post code, occupation, industry, and personal interests. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
 
 Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
-Yahoo! also automatically receives and records information on our server logs from your browser including your [IP address](https://info.yahoo.com/privacy/xe/yahoo/ip), Yahoo! [cookie](https://info.yahoo.com/privacy/xe/yahoo/cookies) information, software and hardware attributes, and the page you requested. 
+Yahoo! also automatically receives and records information on our server logs from your browser including your [IP address](http://info.yahoo.com/privacy/xe/yahoo/ip), Yahoo! [cookie](http://info.yahoo.com/privacy/xe/yahoo/cookies) information, software and hardware attributes, and the page you requested. 
 
 Yahoo! uses information for the following general purposes: to personalize the advertising and content you see, based on the details given by you at registration and your activity at Yahoo!, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. You agree that Yahoo! may transfer your personal information for the general purposes set out above to any Yahoo! group company worldwide.
 
@@ -49,7 +49,7 @@ Yahoo! displays targeted advertisements based on personal information. Advertise
 
 
 
-Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [ reference links](https://info.yahoo.com/privacy/us/all). 
+Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [ reference links](http://info.yahoo.com/privacy/us/all). 
 
 Return to top
 
@@ -67,7 +67,7 @@ Return to top
 
 ## YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES
 
-You can edit your [ Yahoo Account Information](http://edit.yahoo.com/config/eval_profile), including your [ marketing preferences ](http://subscribe.yahoo.com/showaccount) at any time. 
+You can edit your [ Yahoo Account Information](http://edit.yahoo.com/config/eval_profile), including your [ marketing preferences ](http://subscribe.yahoo.com/showaccount) at any time. You can also modify information you have provided to Yahoo through the Yahoo [products or services](https://io.help.yahoo.com/contact/index?page=contact&locale=en_JO&y=PROD_ACCT&token=w5FCchB1dWH7qK38juuR7x2It3svV1dhjhGb4jqs3W6AHCiLjm7SCFJmJZKi97QrPrNGzREPjHNmBuz5p9SSIQNFAUOpNhARa3CWEh6LH89Kao3hHdSG7SMXh16qBd2FQX1RyiGqOTk%3D#) you may use.
 
 New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
 
@@ -109,8 +109,14 @@ Return to top
 
 ## QUESTIONS OR SUGGESTIONS
 
-If you have questions or suggestions complete a [feedback form](http://io.help.yahoo.com/contact/index?locale=en_JO&y=PROD_ACCT&page=contact). 
+If you have questions or suggestions complete a [feedback form](https://io.help.yahoo.com/contact/index?y=PROD_ACCT&token=w5FCchB1dWFBK0e02%252BwEylJn1ziDqePb2Dq22Z0PBKmuG9cZpE4MM9vS6l0r8gi9F6k%252FK8nik5MH8JQjZy5NlWIyygEGVpVVsSm9NHim7CEyQill6QA5So4LitBJKzIR70TrNbvHb%252Bs%253D&locale=en_JO&page=contactform&selectedChannel=email-icon). 
 
 Last updated: August 14, 2010
+
+Return to top
+
+## CHILDREN
+
+With parental permission, a child under age 13 might have a Yahoo Family Account. Visit [Children's Privacy & Family Accounts](https://info.yahoo.com/privacy/xe/yahoo/family/details.html) to learn more about children’s privacy on Yahoo.
 
 Return to top
