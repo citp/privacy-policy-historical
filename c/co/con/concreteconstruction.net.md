@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concreteconstruction.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628040223id_/http%3A//hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concreteconstruction.net privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225092835id_/http%3A//hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hanley Wood
 
@@ -57,3 +57,5 @@ A Site may contain links to third party social media sites, such as Ning, Facebo
 ##### International Users
 
 The Sites are hosted in the United States. If you use the Sites from any region with laws governing data collection and use that may differ from U.S. law, such as the European Union, please note that you are transferring your personal information to the United States. The United States does not have the same data protection laws as the European Union and other regions. By providing personal Information under this Privacy Policy, you consent to the use of personal Information in accordance with this Privacy Policy and the transfer of your personal Information to the United States.
+
+Comments are closed.
