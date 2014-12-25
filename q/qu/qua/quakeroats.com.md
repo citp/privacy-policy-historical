@@ -1,43 +1,79 @@
-> *The following text is extracted and transformed from the quakeroats.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618223951id_/http%3A//www.quakeroats.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quakeroats.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225171307id_/http%3A//www.quakeroats.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | QuakerOats.com
 
-Effective Date: January 5, 2009
+  
 
-The web site you have entered is operated by or on behalf of The Quaker Oats Company ("Quaker"). This Privacy Policy outlines Quaker's information practices with respect to the web sites on which this Privacy Policy is posted (the "Site"). This Policy applies only to this Site, it does not apply to information we may collect in other forums, including offline, on other web sites we may host, from email messages, or through banners, sweepstakes, or other advertisements or promotions that we may sponsor or participate in, including those offered on web sites owned by third parties. 
 
-By using this Site, you signify that you agree with the terms of this Privacy Policy If you do not agree with any term in this Policy, please do not use this Site or provide any personal information to us. The effective date of this Privacy Policy is January 5, 2009. From time to time, this Site may change, and/or our practices with respect to how we collect, use or otherwise treat personally identifiable information may change. We reserve the right to update or change this Privacy Policy at our discretion. We will post any changes to this Policy or any new policy here and we encourage you to visit this area frequently to stay informed. If there is any material change in the type of information we collect or way in which we use such information, we will comply with any applicable laws with respect to notifying you of those changes, or where legally necessary, obtaining your consent to those changes. 
+THE QUAKER OATS COMPANY
 
-**The Information We Collect and How We Use It**  
-At this Site we collect some personally identifying information, including for example, name, address, and email address for website registration, email address for newsletter sign ups, and name, email address, and friend's email address for our send-a-friend feature. We may collect additional information, for example your date of birth or your product preferences, whether during website registration or if you elect to participate in a sweepstakes, contest, game, survey, questionnaire or other promotion we may offer. 
+PRIVACY POLICY
 
-**Purposes of Use**  
-We use information collected on this Site for the reasons disclosed at the time of collection, to respond to your request, and for our other legitimate business purposes. From time to time we may combine the information you have provided with other information we have received about you, and use this information to better understand our customers, and the products and services in which they are interested. To the extent that you have provided us with contact information on this Site, we will use that information to send you materials you might have requested, as well as other information about us, our products and services, or other products and services in which we believe you may be interested. By providing us with information on this Site, you are authorizing us to use that information in accordance with the terms of this Privacy Policy. 
+Effective Date: May 29, 2014
 
-**Sharing Information**  
-This Site contains many interactive features that allows you to submit content and comments that will be publicly posted on the Site. You should use these features with caution, and keep in mind that information you submit through those features may be posted publicly for anyone to see. For more information about using the features (and the terms that apply to your use of the features), please read our [Terms of Use](https://web.archive.org/terms-of-use.aspx). 
+**This Privacy Policy applies to the sites and apps where it appears.**  
+This Policy describes how we treat personal information on the websites where it is located. It also applies to our mobile sites, applications, social media pages, emails, banner ads, and promotions. We may change this policy from time to time. We will notify you of any material changes to our Policy as required by law. The most recent version of the policy will be posted here. Please check here often for updates. 
 
-In the course of doing business, we employ other companies to perform a variety of functions on our behalf and will share with them personally identifiable information about Site visitors so that they can fulfill their obligations to us. These companies perform various functions for us, such as hosting our databases or websites, sending email blasts, delivering products or services, or helping us analyze our customers' preferences and improve our products. We may also disclose your personal information (a) if we believe we are required to do so by law (for example if we are served with a search warrant, subpoena or court order); (b) to a third party to which ownership of Quaker is transferred via an acquisition, merger, sale of assets or otherwise; (c) if we believe it is necessary to protect our company, or parent or affiliated companies, or a Site user; (d) to our affiliated or related companies; and (e) to our trusted business partners in whose products or services we believe you may be interested or with whom we may be offering a joint promotion or have some other co-branded relationship. 
+**What information we collect.**
 
-We also may share aggregate, non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. For example, we may tell a business partner the number of men and the number of women that entered a contest.. 
+**Contact information.** We might collect your name and email address if you register on our site. We might also collect your phone number or mailing address. We might collect your friend’s email address for our send-a-friend feature.  
+**Information you submit or post.** We collect the information you post in a public space on our site. We also collect information when you contact us.  
+**Demographic information.** We may collect information like your gender and birthdate. We may collect information about your product preferences. We might collect this when you contact us or enter a promotion. We may collect your zip code(for example, to help you find a store that sells our products.)  
+**Other information.** If you use our website, we may collect information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile app, we may collect your GPS location. We might look at how often you use the app and where you downloaded it.
 
-**Send A Friend Features**  
-Information about third parties that you might submit, for example in our send-a-friend feature, which allows you to send an email or message to a friend through our web servers, will be used to only for the purpose specified at the time of collection (for example, to deliver the email message). We will only re-contact that person if you request, if they have an existing business relationship with us, or if they otherwise contact us. 
+**How we collect information.**
 
-**Cookies and Other Passive Tracking Mechanisms**  
-You may have heard of "cookies," which are small files or pieces of information that are stored by your browser on your computer's hard drive when you visit a web site. The use of cookies is an industry standard and you will find them at most web sites. Quaker may use cookies or other passive tracking mechanisms like web beacons to collect information during your visit to our web sites, such as the particular site areas you visit, the activities in which you participate at our web sites, your IP address (a number assigned to your computer whenever you surf the Internet), the type of Internet browser you are using, and the type of computer operating system you are using. We may combine non-personal information collected automatically (through cookies) with voluntarily-submitted, personally identifiable information. This practice allows Quaker to keep track of items such as sweepstakes participation, email and advertising interaction levels, survey responses, online coupon redemption and other web activity in order to better tailor our web sites and our products to your interests and needs. Passive tracking technologies may also be used to help speed up your future activities at our web sites. Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. Refusal of cookies at the site you entered may result in an inability to visit certain areas of the web sites or to receive personalized information when you visit the web sites. 
+**We collect information directly from you.** We collect information if you sign up for emails, eNewsletter, enter our recipe box, enter a promotion or fill out an online survey. We also collect information if you contact us.  
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. We also collect information from our mobile apps.  
+**We may get information about you from third parties.** For example,our business partners or social media platforms may give us information about you.
 
-**Information Preferences and Contacting Quaker**  
-To opt out of receiving marketing email messages from us, you can follow the opt out instructions to any marketing email you receive from us, or you can send an opt out request to [elena.parlatore@pepsico.com](mailto:elena.parlatore@pepsico.com). To manage your preferences about what types of information you receive, log into your account and go to the "My Profile" page. For other questions, please contact us at: Quaker Oats Company, Attn. Privacy Inquiries, P.O. Box 049003, Chicago, IL 60604-9003; (312) 821-1000; or [elena.parlatore@pepsico.com](mailto:elena.parlatore@pepsico.com). 
+**How we use information.**
 
-**Security**  
-We take commercially reasonable precautions to keep your personally identifying information secure. Notwithstanding the foregoing, we cannot guarantee the security of any information you disclose online, and you do so at your own risk. 
+**We use information to respond to your requests or questions.** We may use your information to respond to your comments and questions, or to notify you if you win a contest or sweepstakes.  
+**We use information to improve our products and services.** We may use your information to make our website and products better. We might use your information to customize your experience with us. We may combine information we get from you with information about you we get from third parties.  
+**We use information for security purposes.** We may use information to protect our company, our customers, and our websites.  
+**We use information for marketing purposes.** For example, we mights end you information about new products and special offers. We might tell you about new promotions, features or updates. These might be third party offers or products we think you might find interesting. We may also use push notifications on our mobile apps. To manage this, read the “[Your Choices](https://web.archive.org/web/20141225171307id_/http%3A//www.quakeroats.com/Files/Quaker_Tracking_Disclosure_Document_2014.doc)”section below.  
+**We use information to communicate with you about your account or our relationship.** We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms.  
+**We use information as otherwise disclosed to you at the time we collect it.**  
+**We use information as otherwise permitted by law.**
 
-**Children on Our Site**  
-We do not knowingly collect information from children under 13 on this Site, do not direct this site to children under 13, and do not believe that our Site is appealing to children in that age group. If you are a parent and believe your child has provided us with information, please contact us at [gina.judge1@pepsico.com](mailto:gina.judge1@pepsico.com). Parents, we encourage you to supervise your children's use of the Internet, and suggest that you read <http://www.ftc.gov/kidzprivacy/> to learn more about how to protect your children online. 
+**Sharing Information**
 
-**Links to Third Party Web Sites**  
-Users should be aware that when you are on this web site you could be directed to other sites that are beyond our control. There may be links to other web sites that include links from advertisers, sponsors, and partners that may use the Quaker family of brand or logos. These other web sites may send their own cookies to users, or otherwise collect data or solicit personally identifiable information. Always be aware of where you are surfing on the Web. Check the linked site to locate and review its privacy policy, which may be different from this Privacy Policy. Quaker does not endorse and makes no guarantee or representation as to the sufficiency, accuracy or completeness of the content or privacy policy of any third-party web site to which you may be linked from this site. 
+**We may share information within the PepsiCo family of companies.** This includes Pepsi-Cola, Frito-Lay, Gatorade, and Tropicana. This also includes future subsidiaries or affiliates. For a full list of PepsiCo brands and companies,visit <http://www.pepsico.com/Brands.html>.  
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who perform services for us. We may also share information with companies that operate our websites or run a promotion for us.  
+**We may share information with joint promotion partners.** Sometimes we conduct joint promotions with third parties. If your register for one of those joint promotions your information may be collected by both Quaker and the third party. Or, we may give you the option to have us share your information with the promotion partner. Your information will be used by us and/or by them as described in our posted privacy policies.  
+**We will share information if we think we have to in order to comply with the law or to protect ourselves.** We will share information to respond to a court order or subpoena. We may share it if a government agency or investigatory body requests. We might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.  
+**We may share information with any successor to all or part of our business.** For example, if part of our business was sold we may give our customer list as part of that transaction.  
+**We may share information for other reasons we may describe to you.**  
+**We may share anonymous information.** We may share information that does not identify a particular individual. We may share this information with advertisers,business partners or other third parties. For example, we may share how many men and women entered a contest.
 
-**Important Note Regarding U.S. Law**  
-The laws and regulations in different countries impose different (and even conflicting) requirements on the Internet and data protection. We are located in the USA, as are this Site's servers. All matters relating to this Site are governed by the laws of the State of New York in the USA. If you are located outside of the United States, including in a member state of the European Union, and you use this Site and submit information on this Site, any information you provide will be transferred to the USA and by submitting the information you authorize this transfer and understand that the information you provide will be protected as provided for under U.S. law, not the law of your home country. 
+**Your choices about sharing and marketing practices.**
+
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails from us, follow the instructions in any promotional message you get from us. You can also log into your account and go to the "My Profile" page to change your preferences. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions.  
+**You can control cookies and tracking tools.** Your browser may give you the ability to control cookies. How you do so depends on the type of cookie.Certain browsers can be set to reject browser cookies. If you block or delete cookies on your browser, certain features on our sites may not work, and not all of the tracking described in this policy will stop. Some browsers have a “DO NOT TRACK”feature that lets you tell websites that you do not want your online activities to be tracked. These features are not yet uniform, so we are currently not set up to respond to those signals.  
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an “unsubscribe” link.
+
+**Your California privacy rights.**  
+If you reside in California, you have the right to ask us one time each year ifwe have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email, or write to us at the address listed below. Indicate in your letter that you are a California resident making a “Shine the Light” inquiry.
+
+**Our sites are not for kids.**  
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can [contact us](https://mcu.pepsico.com/m/?brand=Quaker) to remove the information.Our contact information is listed below. Parents, you can learn more about how to protect children's privacy on-line here: [http://www.business.ftc.gov/privacy-and-security/childrens-privacy ](http://www.business.ftc.gov/privacy-and-security/childrens-privacy).
+
+**We use standard security measures.**  
+The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
+
+**We store information in the United States.**  
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.
+
+**We may link to third party sites or services we don’t control.**  
+If you click on a link to a third party site, you will be taken to websites we do not control. This includes social media sites. This policy does not apply to the privacy practices of third party websites. Read the privacy policy of other websites carefully. We are not responsible for these third party policies or practices.
+
+**Feel free to contact us if you have more questions.**  
+If you have questions about this Policy, please [contact us](https://mcu.pepsico.com/m/?brand=Quaker). You can also write to us or call at:
+
+The Quaker Oats Company  
+P.O. Box 049003  
+Chicago, IL 60604-9003  
+(312) 821-1000
+
+©2014 The Quaker Oats Company. All rights reserved.
