@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kenshoo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234739id_/http%3A//www.kenshoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenshoo.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225012756id_/http%3A//www.kenshoo.com/privacy-policy) for the most accurate reproduction.*
 
-# Digital Marketing Technology from Kenshoo
+# Kenshoo Web Privacy Policy
 
 Updated: May. 22, 2014
 
