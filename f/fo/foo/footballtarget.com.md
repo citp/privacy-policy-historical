@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballtarget.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614204143id_/http%3A//www.footballtarget.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballtarget.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225070202id_/http%3A//www.footballtarget.com/privacy) for the most accurate reproduction.*
 
 # Privacy Football Target - Football Target
 
