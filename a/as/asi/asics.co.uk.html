@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the asics.co.uk privacy policy that was archived on 2014-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623185747id_/http%3A//www.asics.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the asics.co.uk privacy policy that was archived on 2014-12-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141225101926id_/http%3A//www.asics.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js touch  csstransforms csstransforms3d csstransitions" lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}</style>
 
@@ -19,20 +19,16 @@
 	<meta property="og:url" content="">
     <meta property="og:description" content="">
 
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-59ML4R"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" src="/dtagent55_n3_5203.js" data-dtconfig="rid=RID_-798179461|rpid=1111266108|domain=asics.co.uk|tp=500,50,0"></script><link rel="shortcut icon" type="image/x-icon" href="/_ui/desktop/common/images/favicon.ico">
+	<link rel="shortcut icon" type="image/x-icon" href="/_ui/desktop/common/images/favicon.ico">
 	
-	<meta property="og:image" content="http://www.asics.co.uk/medias/sys_master/images/8852241940510/logo-hybris.png">
+	<meta property="og:image" content="http://www.asics.co.uk/medias/sys_master/images/9592560549918/logo-hybris.png">
 		<meta property="og:site_name" content="">
 	
-	<link rel="stylesheet" href="/_ui/desktop/theme-asics-aeb/css/asics.less?v=ce5d1704578f8a883650f097152b42ee">
-
-<link rel="stylesheet" media="print" href="/_ui/desktop/theme-asics-aeb/css/asics-print.less?v=ce5d1704578f8a883650f097152b42ee"><!--[if lt IE 9]>
-<link rel="stylesheet" href="/_ui/desktop/theme-asics-aeb/css/asics-ie8.css?v=ce5d1704578f8a883650f097152b42ee" />
+	<link rel="stylesheet" href="/_ui/desktop/theme-asics-aeb/css/asics.less?v=d2270b90b63a1c19119ec375c054295d"><link rel="stylesheet" media="print" href="/_ui/desktop/theme-asics-aeb/css/asics-print.less?v=d2270b90b63a1c19119ec375c054295d"><!--[if lt IE 9]>
+<link rel="stylesheet" href="/_ui/desktop/theme-asics-aeb/css/asics-ie8.css?v=d2270b90b63a1c19119ec375c054295d" />
 <![endif]-->
 
-<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/01319438-0abb-4491-8d1f-585c6909419c.css">
-
-	<script src="//cdn.optimizely.com/js/316587788.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-59ML4R"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//cdn.optimizely.com/js/316587788.js"></script>
 	<script>
 		var htmlClass = 'js';
 		if (window.Touch !== undefined) htmlClass += ' touch';
@@ -56,13 +52,35 @@
 			contextPath: '',
 			languageISO: 'en',
 
+
+			readCookie : function(cookiename) {
+				// Get name followed by anything except a semicolon
+				var cookiestring=RegExp(""+cookiename+"[^;]+").exec(document.cookie);
+				// Return everything after the equal sign
+				return unescape(!!cookiestring ? cookiestring.toString().replace(/^[^=]+./,"") : "");
+			  },
+
+			cookiesAllowed: function() {
+				var policy = this.readCookie('policy'),
+					explicitBanner = "", //need to check for Java variable as the cookie bar is not loaded in DOM before GA & MP
+					cookiesAllowed;
+
+					if (explicitBanner == 'true' && policy == 'false' || explicitBanner == 'true' && policy == undefined || explicitBanner == 'true' && policy == "") {
+						cookiesAllowed = false;
+					} 
+					else {
+						cookiesAllowed = true;
+					}	
+				return cookiesAllowed;
+			},
+			
 			// Proxy for calls to Google Analytics
 			googleAnalytics: (function() {
 
 				// All calls are routed through queue
 				var queue = function(arr) {
-		        	// Only push if _gaq is defined
-		        	if (window._gaq) {
+		        	// Only push if _gaq is defined and cookies are allowed
+		        	if (window._gaq && globals.cookiesAllowed()) {
 		        		window._gaq.push(arr);
 		        	}
 				};
@@ -85,119 +103,13 @@
 			        }			
 				};
 
-			})(),
+			})()
 
-			// Proxy for calls to mixpanel
-			mixpanel: (function() {
-
-			    // All calls are routed through invoke
-			    var invoke = function(method, args, people) {
-			        // Only invoke if mixpanel is defined
-			        if (window.mixpanel) {
-			            // Mixpanel, strangely, has a separate API for people.
-			            // Need to target mixpanel.people if people specified in params.
-			            var target = people ? window.mixpanel.people : window.mixpanel;
-			            // console.log('%cmixpanel: ', 'background: red; color: #fff;', target, args);
-			            return target[method].apply(target, args);
-			        }
-			    };
-
-			    return {
-
-			    	init: function(token, config, name) {
-			    		return invoke('init', [token, config, name]);
-			    	},
-
-			        identify: function(unique_id) {
-			            return invoke('identify', [unique_id]);
-			        },
-
-			        alias: function(alias) {
-			            return invoke('alias', [alias]);
-			        },
-
-			        register: function(properties) {
-			            return invoke('register', [properties]);
-			        },
-
-			        unregister: function(property_name) {
-			        	return invoke('unregister', [property_name])
-			        },
-
-			        track: function(event_name, properties, callback) {
-			            return invoke('track', [event_name, properties, callback]);
-			        },
-
-			        track_links: function(css_selector, event_name, properties) {
-			            return invoke('track_links', [css_selector, event_name, properties]);
-			        },
-
-			        track_forms: function(css_selector, event_name, properties) {
-			            return invoke('track_forms', [css_selector, event_name, properties]);
-			        },
-
-			        getCartData: function() {
-			            return { promoCode: _promoCode };
-			        },
-
-			        people: {
-			            set: function(prop, to, callback) {
-			                return invoke('set', [prop, to, callback], true);
-			            },
-
-			            track_charge: function(amount) {
-			                return invoke('track_charge', [amount], true);
-			            }
-			        }
-			    };
-
-			})() 
 		};
 
 	</script>
 
-	<!-- start Mixpanel -->
-<script type="text/javascript">
-(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
-typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
-b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-
-(function() {
-
-    // Initialise mixpanel with the appropriate id for this instance
-    // We send all the calls through a proxy object to make debugging easier
-    globals.mixpanel.init('047678cda9e238bf2a4d9466f9a06086');
-    globals.mixpanel.register({ 'hostname': window.location.hostname });
-
-    // Report current user type, Returning (logged in) or Visitor (not logged in)
-    
-        var captureGuestUserDetails = '', // true if guest user has entered email
-            email = '',
-            firstName = '',
-            lastName = '';
-        //console.log("captureGuestUserDetails = " + captureGuestUserDetails + ", email=" + email + ", firstName = " + firstName, ",lastName = " + lastName);
-
-        if(null != email && '' != email ){
-            globals.mixpanel.register({ '$email': email });
-            globals.mixpanel.people.set({
-                '$email': email,
-                'First Name': firstName,
-                'Last Name': lastName
-            });
-            if(captureGuestUserDetails){ // user given email first time, create alias
-                globals.mixpanel.alias(email);
-            }else{ // user details available via session, find the user
-                globals.mixpanel.identify(email);
-            }
-        }
-        globals.mixpanel.register({ 'User Type': 'Guest' });
-
-    
-
-})();
-</script>
-<!-- end Mixpanel -->
-<!-- ga is conditionally written to page if tracking id is found. All tracking handled directly in page
+	<!-- ga is conditionally written to page if tracking id is found. All tracking handled directly in page
     is also included within the conditional. Analytics not fired directly from this block should be routed through Asics.GoogleAnalytics object to facilitate debugging and error handling --> 
 <script type="text/javascript">
     /* Google Analytics */
@@ -230,14 +142,25 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
     _gaq.push(['_trackPageview']);
 	
-    (function () {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
+
+	(function() {
+	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	 })();
+
+	 window.onload = function() {
+	  if(_gaq.I==undefined){
+	   _gaq.push(['_trackEvent', 'tracking_script', 'loaded', 'ga.js', ,true]);
+	   ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	   s = document.getElementsByTagName('script')[0];
+	   gaScript = s.parentNode.insertBefore(ga, s);
+	  } else {
+	   _gaq.push(['_trackEvent', 'tracking_script', 'loaded', 'dc.js', ,true]);
+	  }
+	 };
+
 </script>
 </head>
 
@@ -271,6 +194,8 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 <script src="/_ui/desktop/common/js/plugins/jquery.isotope.min.js"></script>
 <script src="/_ui/desktop/common/js/plugins/jquery.cookie.js"></script>
 <script src="/_ui/desktop/common/js/plugins/jquery.colorbox-1.3.16.js"></script>
+<script src="/_ui/desktop/common/js/plugins/jquery.easing.1.3.js"></script>
+<script src="/_ui/desktop/common/js/local-cache.js"></script>
 
 <script src="/_ui/desktop/common/js/asics.js"></script>
 
@@ -289,12 +214,11 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
 <script src="/_ui/desktop/common/js/app/returns/controllers.js"></script>
 
-<div id="cookie-bar">
-					<p class="policy">We use cookies to help us make this website better. To accept cookies please click here<a href="" class="cb-enable">ACCEPT COOKIES</a>To find out more, see our<a href="/privacy-policy" target="_blank">Privacy Policy</a>and<a href="/cookie-policy" target="_blank">Cookie Policy.</a>
-					</p>
-					<p class="warning" style="display: none;">Your browser is blocking cookies, so some features may not work correctly. In order to use this site as intended, please enable cookies from your browser's settings page.</p>
-				</div>
-        	<div id="page" ng-app="AsicsStore" ng-controller="App" ng-init="sites({isAac: '', isAeb: '', isAebGb: 'true', isAop: '', isAjp: ''});" class="ng-scope">
+<div id="cookie-bar" class="implicit_cookie_banner">
+					<p class="policy">We use cookies to help us make this website better. To accept cookies please click here<a href="" class="cb-enable">ACCEPT COOKIES</a>To find out more, see our<a href="/privacy-policy" target="_blank">Privacy Policy</a>and<a href="/cookie-policy" target="_blank">Cookie Policy.</a></p>
+						<p class="warning" style="display: none;">Your browser is blocking cookies, so some features may not work correctly. In order to use this site as intended, please enable cookies from your browser's settings page.</p>
+					</div>
+				<div id="page" ng-app="AsicsStore" ng-controller="App" ng-init="sites({isAac: '', isAeb: '', isAebGb: 'true', isAop: '', isAjp: '', isEur: 'true'});" class="ng-scope">
 
 			<header role="banner">
 
@@ -307,13 +231,14 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
 					<form name="search_form" method="get" action="/search" role="search" class="ng-pristine ng-valid">
 						<label class="skip" for="search">Search</label>
-						<input id="search_query" class="text" type="text" name="text" value="" maxlength="100" placeholder="Search...">
+						<input id="search_query" class="text ui-autocomplete-input" type="text" name="text" value="" maxlength="100" placeholder="Search..." autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
 						<input class="button" type="submit" value="Search" src="/" alt="Search">
 						</form>
 					<li id="autocomplete_more_button" class="close" style="display: none;"><a id="more_button" class="button alternate" href="#">More</a></li>
 				</div>
 
-				<ul id="account_store" data-gtm="[{'event': 'loginFinished', 'existingCustomer': false}, {'event': 'notifyCriteo', 'customerid':'' }]">
+                <ul id="account_store" data-gtm="[{'event': 'loginFinished', 'existingCustomer': false}, 
+							   {'event': 'notifyCriteo','customerid': ''}]">
 					<li>
 						<a href="/store-finder">Store Locator</a>
 					</li>
@@ -349,13 +274,23 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
 				<div id="site_logo">
 					<div class="simple_banner">
-	<a href="/"><img title="Asics UK" alt="Asics UK" src="/medias/sys_master/images/8852241940510/logo-hybris.png"></a>
+	<a href="/"><img title="Asics IE" alt="Asics IE" src="/medias/sys_master/images/9592560549918/logo-hybris.png"></a>
 		</div></div>
 
 				<ul id="areas" class="level_1">
-	<li class="active" id="ShopBarComponent">
+	<li class="active" id="comp_000034PL">
 					<a href="javascript:void(0);" class="panel_link">
-						<span>Shop</span>
+						<span>Women</span>
+			</a>
+				</li>
+			<li class="active" id="comp_000034Q5">
+					<a href="javascript:void(0);" class="panel_link">
+						<span>Men</span>
+			</a>
+				</li>
+			<li class="active" id="comp_000034Q4">
+					<a href="javascript:void(0);" class="panel_link">
+						<span>Kids</span>
 			</a>
 				</li>
 			<li class="active" id="SportsBarComponent">
@@ -363,33 +298,35 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 						<span>All Sports</span>
 			</a>
 				</li>
-			<li class="active" id="AthletesRacesEventsBarComponent">
-					<a href="javascript:void(0);" class="panel_link">
-						<span>Athletes &amp; Events</span>
-			</a>
-				</li>
-			<li class="active" id="MyAsicsBarComponent">
-					<a href="javascript:void(0);" class="panel_link">
-						<span>MY ASICS</span>
-			</a>
-				</li>
 			</ul>
-<div id="minicart" ng-controller="MiniCart" class="ng-scope">
-	<dl id="minicart_data">
-		<dt>Basket items</dt>
-		<dd><span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span></dd>
-	</dl>
-	<div id="minicart_actions">
-		<a class="button button_toggle highlight_off panel_link">
-			<span class="off">View Basket</span>
-			<span class="on">Hide Basket</span>
-		</a>
-	</div>
-</div></div>
+<div id="minicart_popup_version" ng-controller="MiniCart" class="ng-scope">
+				<dl id="minicart_data">
+					<a href="/cart/">
+						<dt>Basket items</dt>
+						<dd><span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span></dd>
+					</a>
+				</dl>
+				<a class="description optimizely_cart_variation_1" href="/cart/">
+					Shopping Basket<div class="total_items ng-binding">
+						 
+						<ng-pluralize count="cart.contents.data.totalUnitCount" when="{'0': 'Items',
+					                       'one': 'Item',
+					                       'other': 'Items'}"></ng-pluralize> 
+						
+					</div>
+				</a>
+				<div id="minicart_actions" class="optimizely_cart_original">
+					<a href="/cart/" class="button button_toggle highlight_off" id="minicart_popup_button">
+						<span class="off">View Basket</span>
+						<span class="on">Hide Basket</span>
+					</a>
+				</div>
+			</div>
+		</div>
 		</div>
 
-		<div id="panels">
-			
+    <div id="panels">
+      
 
 
 
@@ -399,143 +336,473 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
     
     
     
-        <div id="ShopBarComponent" class="panel secondary wrap">
+        <div id="comp_000034PL" class="panel secondary wrap">
 			<div class="navigation_group">
 				<div class="featured">
 								<ul class="level_3">
-									<li class="level_3" id="ShoesImageLink">
-												<a href="/Shoes/cat/Shoes">
-	<img src="/medias/sys_master/h90/h42/8987777433630/2Limg140x90-shop-footwear.jpg" alt="Shoes">
+									<li class="level_3" id="url-img-UK-womens-shoes">
+												<a href="/cat/Shoes/-/gender/Women/0-45-featured">
+	<img src="/medias/sys_master/h0e/he0/9480872329246/2Limg140x90-IMG-06.jpg" alt="Shoes">
 </a>
-<a href="/Shoes/cat/Shoes" class="" title="Shoes">
+<a href="/cat/Shoes/-/gender/Women/0-45-featured" class="" title="Shoes">
 			Shoes</a>
 	</li>
-										<li class="level_3" id="ClothingImageLink">
-												<a href="/Clothing/cat/Clothing">
-	<img src="/medias/sys_master/h8e/h42/8987777368094/2Limg140x90-shop-clothing1.jpg" alt="Clothing">
+										<li class="level_3" id="url-img-UK-womens-clothing">
+												<a href="/cat/Clothing/-/gender/Women/0-45-featured">
+	<img src="/medias/sys_master/h11/he0/9480872427550/2Limg140x90-IMG-07.jpg" alt="Clothing">
 </a>
-<a href="/Clothing/cat/Clothing" class="" title="Clothing">
+<a href="/cat/Clothing/-/gender/Women/0-45-featured" class="" title="Clothing">
 			Clothing</a>
 	</li>
-										<li class="level_3" id="AccessoriesImageLink">
-												<a href="/Accessories/cat/Accessories">
-	<img src="/medias/sys_master/h84/h42/8987777040414/2Limg140x90-shop-accessories.jpg" alt="ACCESSORIES">
+										<li class="level_3" id="url-img-UK-womens-accessories">
+												<a href="/cat/Accessories/-/gender/Women/0-45-featured">
+	<img src="/medias/sys_master/h14/he0/9480872525854/2Limg140x90-IMG-08.jpg" alt="Accessories">
 </a>
-<a href="/Accessories/cat/Accessories" class="" title="ACCESSORIES">
-			ACCESSORIES</a>
+<a href="/cat/Accessories/-/gender/Women/0-45-featured" class="" title="Accessories">
+			Accessories</a>
 	</li>
-										<li class="level_3" id="Featured-gel-nimbus15">
-												<a href="/compression-clothing/cat/compression-clothing">
-	<img src="/medias/sys_master/h68/h42/8987776122910/2Limg140x90-muscle-support.jpg" alt="COMPRESSION CLOTHING">
+										<li class="level_3" id="url-img-UK-womens-sports">
+												<a href="/cat/sport/-/gender/Women/0-45-featured">
+	<img src="/medias/sys_master/h17/he0/9480872624158/2Limg140x90-IMG-09.jpg" alt="Sports">
 </a>
-<a href="/compression-clothing/cat/compression-clothing" class="" title="COMPRESSION CLOTHING">
-			COMPRESSION CLOTHING</a>
+<a href="/cat/sport/-/gender/Women/0-45-featured" class="" title="Sports">
+			Sports</a>
 	</li>
-										<li class="level_3" id="con-cat-springboks-featured">
-												<a href="/Rugby-Springboks-collection/cat/Rugby-Springboks-collection">
-	<img src="/medias/sys_master/h04/h50/9112444338206/2Limg140x90-SARU.jpg" alt="SPRINGBOKS COLLECTION">
+										<li class="level_3" id="url-img-UK-womens-winterrunning">
+												<a href="/cat/winter-running/-/gender/Women">
+	<img src="/medias/sys_master/h56/h89/9628321251358/2Limg140x90-shop-winter-running-women.jpg" alt="Winter Running">
 </a>
-<a href="/Rugby-Springboks-collection/cat/Rugby-Springboks-collection" class="" title="SPRINGBOKS COLLECTION">
-			SPRINGBOKS COLLECTION</a>
+<a href="/cat/winter-running/-/gender/Women" class="" title="Winter Running">
+			Winter Running</a>
 	</li>
 										</ul>
 							</div>
 						<div class="listing">
-								<h3>Browse by gender</h3>
-								<ul class="level_3" data-js-split="0,6,10">
-									<li class="level_3" id="cat-shop-mens-MENS">
-												<a href="/Men/cat/GenderMen" class="" title="Men's">
-			Men's</a>
-	</li>
-										<li class="level_3" id="cat-shop-womens-WOMENS">
-												<a href="/Women/cat/GenderWomen" class="" title="Women's">
-			Women's</a>
-	</li>
-										<li class="level_3" id="cat-shop-kids-KIDS">
-												<a href="/Kids/cat/GenderKids" class="" title="Kids">
-			Kids</a>
-	</li>
-										</ul>
-							</div>
-						<div class="listing">
-								<h3>Browse by sport</h3>
-								<ul class="level_3" data-js-split="0,6,10">
-									<li class="level_3" id="RunningLink">
-												<a href="/Running/cat/SportRunning" class="" title="Running">
+								<h3>Shoes</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-womens-running-shoes">
+												<a href="/Running/cat/SportRunning/-/producttypefacet/Shoes/gender/Women" class="" title="Running">
 			Running</a>
 	</li>
-										<li class="level_3" id="TrailLink">
-												<a href="/Trail-Running/cat/SportTrailRunning" class="" title="Trail">
-			Trail</a>
-	</li>
-										<li class="level_3" id="TennisLink">
-												<a href="/Tennis/cat/SportTennis" class="" title="Tennis">
+										<li class="level_3" id="url-UK-womens-tennis-shoes">
+												<a href="/Tenis/cat/SportTennis/-/producttypefacet/Shoes/gender/Women" class="" title="Tennis">
 			Tennis</a>
 	</li>
-										<li class="level_3" id="RugbyLink">
-												<a href="/Rugby/cat/SportRugby" class="" title="Rugby">
-			Rugby</a>
+										<li class="level_3" id="url-UK-womens-training-shoes">
+												<a href="/cat/SportFitnessTraining/-/producttypefacet/Shoes/gender/Women" class="" title="Training">
+			Training</a>
 	</li>
-										<li class="level_3" id="CricketLink">
-												<a href="/Cricket/cat/SportCricket" class="" title="Cricket">
-			Cricket</a>
-	</li>
-										<li class="level_3" id="FitnessAndTrainingLink">
-												<a href="/Fitness-and-Training/cat/SportFitnessTraining" class="" title="Fitness &amp; Training">
-			Fitness &amp; Training</a>
-	</li>
-										<li class="level_3" id="IndoorCourtLink">
-												<a href="/Indoor-Court/cat/SportIndoorCourt" class="" title="Indoor Court">
+										<li class="level_3" id="url-UK-womens-indoor-court-shoes">
+												<a href="/cat/SportIndoorCourt/-/producttypefacet/Shoes/gender/Women" class="" title="Indoor Court">
 			Indoor Court</a>
 	</li>
-										<li class="level_3" id="FootballLink">
-												<a href="/Football/cat/SportFootball" class="" title="Football">
-			Football</a>
-	</li>
-										<li class="level_3" id="HockeyLink">
-												<a href="/Hockey/cat/SportHockey" class="" title="Hockey">
+										<li class="level_3" id="url-UK-womens-hockey-shoes">
+												<a href="/cat/SportHockey/-/producttypefacet/Shoes/gender/Women" class="" title="Hockey">
 			Hockey</a>
 	</li>
-										<li class="level_3" id="NetballLink">
-												<a href="/Netball/cat/SportNetball" class="" title="Netball">
+										<li class="level_3" id="url-UK-womens-walking-shoes">
+												<a href="/cat/SportWalking/-/producttypefacet/Shoes/gender/Women" class="" title="Walking">
+			Walking</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-netball-shoes">
+												<a href="/cat/SportNetball/-/producttypefacet/Shoes/gender/Women" class="" title="Netball">
 			Netball</a>
 	</li>
-										<li class="level_3" id="con-cat-shop-track-and-field">
-												<a href="/Track-and-Field/cat/SportTrackField" class="" title="Track and Field">
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Clothing</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-womens-tops">
+												<a href="/cat/tops-clothing/-/gender/Women" class="" title="Tops">
+			Tops</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-jackets">
+												<a href="/cat/clothing-top-layer-collection/-/gender/Women" class="" title="jackets">
+			jackets</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-hoodies-and-sweatshirts">
+												<a href="/search/hoodie/gender/Women/0-45-featured" class="" title="HOODIES &amp; SWEATSHIRTS">
+			HOODIES &amp; SWEATSHIRTS</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-shorts-and-skirts">
+												<a href="/cat/shorts/-/gender/Women" class="" title="Shorts &amp; Skirts">
+			Shorts &amp; Skirts</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-tights">
+												<a href="/cat/legwear-clothing/-/gender/Women" class="" title="Tights">
+			Tights</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-compression">
+												<a href="/cat/compression-clothing/-/gender/Women" class="" title="Compression">
+			Compression</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Accessories</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-womens-socks">
+												<a href="/search/socks/gender/Women" class="" title="Socks">
+			Socks</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-hats-and-gloves">
+												<a href="/hats-and-gloves/cat/hats-and-gloves/-/gender/Women" class="" title="Hats and Gloves">
+			Hats and Gloves</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-bags">
+												<a href="/search/bag" class="" title="Bags">
+			Bags</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-other-accessories">
+												<a href="/Accessories/cat/Accessories/-/gender/Women" class="" title="Other">
+			Other</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Sports</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-womens-running-products">
+												<a href="/cat/SportRunning/-/gender/Women" class="" title="Running">
+			Running</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-training-products">
+												<a href="/cat/SportFitnessTraining/-/gender/Women" class="" title="Training">
+			Training</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-rugby-products">
+												<a href="/cat/SportRugby/-/gender/Women" class="" title="Rugby">
+			Rugby</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-indoor-court-products">
+												<a href="/cat/SportIndoorCourt/-/gender/Women" class="" title="Indoor Court">
+			Indoor Court</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-track-and-field-products">
+												<a href="/cat/SportTrackField/-/gender/Women" class="" title="Track and Field">
 			Track and Field</a>
 	</li>
-										<li class="level_3" id="WalkingLink">
-												<a href="/Walking/cat/SportWalking" class="" title="Walking">
+										<li class="level_3" id="url-UK-womens-netball-products">
+												<a href="/cat/SportNetball/-/gender/Women" class="" title="Netball">
+			Netball</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-hockey-products">
+												<a href="/cat/SportHockey/-/gender/Women" class="" title="Hockey">
+			Hockey</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Collections</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-womens-christmas">
+												<a href="/cat/asics-christmas-gifts/-/gender/Women" class="" title="Christmas Guide">
+			Christmas Guide</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-gel-kayano">
+												<a href="/cat/gel-kayano-running-shoes/-/gender/Women" class="" title="GEL-KAYANO">
+			GEL-KAYANO</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-gel-nimbus">
+												<a href="/cat/gel-nimbus-running-shoes/-/gender/Women" class="" title="GEL-NIMBUS">
+			GEL-NIMBUS</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-gel-cumulus">
+												<a href="/cat/gel-cumulus-running-shoes/-/gender/Women" class="" title="GEL-CUMULUS">
+			GEL-CUMULUS</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-gt-2000">
+												<a href="/search/GT-2000/gender/Women" class="" title="GT-2000">
+			GT-2000</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-gel-noosa">
+												<a href="/cat/gel-noosa-running-shoes/-/gender/Women" class="" title="GEL-NOOSA">
+			GEL-NOOSA</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-gel-33">
+												<a href="/cat/gel-33-running-shoes/-/gender/Women" class="" title="GEL-33">
+			GEL-33</a>
+	</li>
+										<li class="level_3" id="url-UK-womens-ayami-zone">
+												<a href="/search/AYAMI-ZONE" class="" title="AYAMI-ZONE">
+			AYAMI-ZONE</a>
+	</li>
+										</ul>
+							</div>
+						</div>
+		</div>
+	<div id="comp_000034Q5" class="panel secondary wrap">
+			<div class="navigation_group">
+				<div class="featured">
+								<ul class="level_3">
+									<li class="level_3" id="url-img-UK-mens-shoes">
+												<a href="/cat/Shoes/-/gender/Men">
+	<img src="/medias/sys_master/hff/hdf/9480871837726/2Limg140x90-IMG-01.jpg" alt="Shoes">
+</a>
+<a href="/cat/Shoes/-/gender/Men" class="" title="Shoes">
+			Shoes</a>
+	</li>
+										<li class="level_3" id="url-img-UK-mens-clothing">
+												<a href="/cat/Clothing/-/gender/Men">
+	<img src="/medias/sys_master/h02/he0/9480871936030/2Limg140x90-IMG-02.jpg" alt="Clothing">
+</a>
+<a href="/cat/Clothing/-/gender/Men" class="" title="Clothing">
+			Clothing</a>
+	</li>
+										<li class="level_3" id="url-img-Uk-mens-accessories">
+												<a href="/cat/Accessories/-/gender/Men">
+	<img src="/medias/sys_master/h05/he0/9480872034334/2Limg140x90-IMG-03.jpg" alt="Accessories">
+</a>
+<a href="/cat/Accessories/-/gender/Men" class="" title="Accessories">
+			Accessories</a>
+	</li>
+										<li class="level_3" id="url-img-UK-mens-sports">
+												<a href="/cat/sport/-/gender/Men">
+	<img src="/medias/sys_master/h0b/he0/9480872230942/2Limg140x90-IMG-04.jpg" alt="Sports">
+</a>
+<a href="/cat/sport/-/gender/Men" class="" title="Sports">
+			Sports</a>
+	</li>
+										<li class="level_3" id="url-img-UK-mens-winterrunning">
+												<a href="/cat/winter-running/-/gender/Men">
+	<img src="/medias/sys_master/h5a/h89/9628321382430/2Limg140x90-shop-winter-running-men.jpg" alt="Winter Running">
+</a>
+<a href="/cat/winter-running/-/gender/Men" class="" title="Winter Running">
+			Winter Running</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Shoes</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-mens-running-shoes">
+												<a href="/cat/SportRunning/-/producttypefacet/Shoes/gender/Men" class="" title="Running">
+			Running</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-tennis-shoes">
+												<a href="/cat/SportTennis/-/producttypefacet/Shoes/gender/Men" class="" title="Tennis">
+			Tennis</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-training-shoes">
+												<a href="/cat/SportFitnessTraining/-/producttypefacet/Shoes/gender/Men" class="" title="Training">
+			Training</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-rugby-shoes">
+												<a href="y/cat/SportRugby/-/producttypefacet/Shoes/gender/Men" class="" title="Rugby">
+			Rugby</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-indoor-court-shoes">
+												<a href="/cat/SportIndoorCourt/-/producttypefacet/Shoes/gender/Men" class="" title="Indoor Court">
+			Indoor Court</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-football-shoes">
+												<a href="/cat/SportFootball/-/producttypefacet/Shoes/gender/Men" class="" title="Football">
+			Football</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-track-and-field-shoes">
+												<a href="/cat/SportTrackField/-/producttypefacet/Shoes/gender/Men" class="" title="Track and Field">
+			Track and Field</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-cricket-shoes">
+												<a href="/cat/SportCricket/-/producttypefacet/Shoes/gender/Men" class="" title="Cricket">
+			Cricket</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-walking-shoes">
+												<a href="/cat/SportWalking/-/producttypefacet/Shoes/gender/Men" class="" title="Walking">
+			Walking</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-hockey-shoes">
+												<a href="/cat/SportHockey/-/producttypefacet/Shoes/gender/Men" class="" title="Hockey">
+			Hockey</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Clothing</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-mens-tops">
+												<a href="/cat/tops-clothing/-/gender/Men" class="" title="Tops">
+			Tops</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-jackets">
+												<a href="/cat/clothing-top-layer-collection/-/gender/Men" class="" title="Jackets">
+			Jackets</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-hoodies-and-sweatshirts">
+												<a href="/search/hoodie/gender/Men" class="" title="Hoodies &amp; Sweatshirts">
+			Hoodies &amp; Sweatshirts</a>
+	</li>
+										<li class="level_3" id="url-Uk-mens-shorts">
+												<a href="/cat/shorts/-/gender/Men" class="" title="Shorts">
+			Shorts</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-tights">
+												<a href="/cat/legwear-clothing/-/gender/Men" class="" title="Tights">
+			Tights</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-compression">
+												<a href="/cat/compression-clothing/-/gender/Men" class="" title="Compression">
+			Compression</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Accessories</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-Uk-mens-socks">
+												<a href="/search/socks/gender/Men" class="" title="Socks">
+			Socks</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-hat-and-gloves">
+												<a href="/cat/hats-and-gloves/-/gender/Men" class="" title="Hats &amp; Gloves">
+			Hats &amp; Gloves</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-bags">
+												<a href="/search/bag" class="" title="Bags">
+			Bags</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-other-accessories">
+												<a href="/cat/Accessories/-/gender/Men" class="" title="Other">
+			Other</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Sports</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-mens-running-products">
+												<a href="/cat/SportRunning/-/gender/Men" class="" title="Running">
+			Running</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-tennis-products">
+												<a href="/cat/SportTennis/-/gender/Men" class="" title="Tennis">
+			Tennis</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-training-products">
+												<a href="/cat/SportFitnessTraining/-/gender/Men" class="" title="Training">
+			Training</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-rugby-products">
+												<a href="/cat/SportRugby/-/gender/Men" class="" title="Rugby">
+			Rugby</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-indoor-court-products">
+												<a href="/cat/SportIndoorCourt/-/gender/Men" class="" title="Indoor Court">
+			Indoor Court</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-football-products">
+												<a href="/cat/SportFootball/-/gender/Men" class="" title="Football">
+			Football</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-track-and-field-products">
+												<a href="/cat/SportTrackField/-/gender/Men" class="" title="Track and Field">
+			Track and Field</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-hockey-products">
+												<a href="/cat/SportHockey/-/gender/Men" class="" title="Hockey">
+			Hockey</a>
+	</li>
+										<li class="level_3" id="url-UK-mens-walking-products">
+												<a href="/cat/SportWalking/-/gender/Men" class="" title="Walking">
 			Walking</a>
 	</li>
 										</ul>
 							</div>
 						<div class="listing">
-								<h3>Choose A Collection</h3>
-								<ul class="level_3" data-js-split="0,6,10">
-									<li class="level_3" id="cat-mid-season-sale">
-												<a href="/Sale-Products/cat/saleproducts" class="" title="SALE">
-			SALE</a>
+								<h3>Collection</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-mens-christmas">
+												<a href="/cat/asics-christmas-gifts/-/gender/Men" class="" title="Christmas Guide">
+			Christmas Guide</a>
 	</li>
-										<li class="level_3" id="con-cat-springboks-pushdown">
-												<a href="/Rugby-Springboks-collection/cat/Rugby-Springboks-collection" class="" title="SPRINGBOKS COLLECTION">
-			SPRINGBOKS COLLECTION</a>
+										<li class="level_3" id="url-UK-mens-gel-nimbus">
+												<a href="/cat/gel-nimbus-running-shoes/-/gender/Men" class="" title="GEL-NIMBUS">
+			GEL-NIMBUS</a>
 	</li>
-										<li class="level_3" id="con-shop-gel-kayano-gel-kayano-20">
-												<a href="/gel-kayano-running-shoes/cat/gel-kayano-running-shoes" class="" title="GEL-KAYANO 20">
-			GEL-KAYANO 20</a>
+										<li class="level_3" id="url-UK-mens-gel-cumulus">
+												<a href="/cat/gel-cumulus-running-shoes/-/gender/Men" class="" title="GEL-CUMULUS">
+			GEL-CUMULUS</a>
 	</li>
-										<li class="level_3" id="con-shop-gel-nimbus">
-												<a href="/gel-nimbus-running-shoes/cat/gel-nimbus-running-shoes" class="" title="GEL-NIMBUS 15">
-			GEL-NIMBUS 15</a>
+										<li class="level_3" id="url-UK-mens-gt-2000">
+												<a href="/search/GT-2000/gender/Men" class="" title="GT-2000">
+			GT-2000</a>
 	</li>
-										<li class="level_3" id="con-shop-gel-noosa">
-												<a href="/gel-noosa-running-shoes/cat/gel-noosa-running-shoes" class="" title="GEL-NOOSA">
+										<li class="level_3" id="url-Uk-mens-gel-noosa">
+												<a href="/cat/gel-noosa-running-shoes/-/gender/Men" class="" title="GEL-NOOSA">
 			GEL-NOOSA</a>
 	</li>
-										<li class="level_3" id="con-shop-gel-cumulus">
-												<a href="/gel-cumulus-running-shoes/cat/gel-cumulus-running-shoes" class="" title="GEL-CUMULUS 15">
-			GEL-CUMULUS 15</a>
+										<li class="level_3" id="url-UK-mens-gel-33">
+												<a href="/cat/gel-33-running-shoes/-/gender/Men" class="" title="GEL-33">
+			GEL-33</a>
+	</li>
+										</ul>
+							</div>
+						</div>
+		</div>
+	<div id="comp_000034Q4" class="panel secondary wrap">
+			<div class="navigation_group">
+				<div class="featured">
+								<ul class="level_3">
+									<li class="level_3" id="url-img-UK-kids-sports">
+												<a href="/cat/sport/-/gender/Kids">
+	<img src="/medias/sys_master/h21/he0/9480872951838/2Limg140x90-IMG-11.jpg" alt="Sports">
+</a>
+<a href="/cat/sport/-/gender/Kids" class="" title="Sports">
+			Sports</a>
+	</li>
+										<li class="level_3" id="url-img-UK-kids-GEL-NOOSA">
+												<a href="/search/gel-noosa/gender/Kids">
+	<img src="/medias/sys_master/h24/he0/9480873050142/2Limg140x90-IMG-12.jpg" alt="GEL-NOOSA">
+</a>
+<a href="/search/gel-noosa/gender/Kids" class="" title="GEL-NOOSA">
+			GEL-NOOSA</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Shoes</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-kids-gel-nimbus">
+												<a href="/cat/gel-nimbus-running-shoes/-/gender/Kids" class="" title="GEL-NIMBUS">
+			GEL-NIMBUS</a>
+	</li>
+										<li class="level_3" id="url-Uk-kids-gel-galaxy">
+												<a href="/search/GEL-GALAXY" class="" title="GEL-GALAXY">
+			GEL-GALAXY</a>
+	</li>
+										<li class="level_3" id="url-Uk-kids-gel-kayano">
+												<a href="/cat/gel-kayano-running-shoes/-/gender/Kids" class="" title="GEL-KAYANO">
+			GEL-KAYANO</a>
+	</li>
+										<li class="level_3" id="url-UK-kids-gel-cumulus">
+												<a href="/search/GEL-CUMULUS/gender/Kids" class="" title="GEL-CUMULUS">
+			GEL-CUMULUS</a>
+	</li>
+										<li class="level_3" id="url-Uk-kids-gel-xalion">
+												<a href="/search/GEL-XALION" class="" title="GEL-XALION">
+			GEL-XALION</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Sports</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-kids-running-products">
+												<a href="/cat/SportRunning/-/gender/Kids" class="" title="Running">
+			Running</a>
+	</li>
+										<li class="level_3" id="url-UK-kids-indoor-court-products">
+												<a href="/cat/SportIndoorCourt/-/gender/Kids" class="" title="Indoor Court">
+			Indoor Court</a>
+	</li>
+										<li class="level_3" id="url-Uk-kids-tennis-products">
+												<a href="/cat/SportTennis/-/gender/Kids" class="" title="Tennis">
+			Tennis</a>
+	</li>
+										<li class="level_3" id="url-UK-kids-hockey-products">
+												<a href="/cat/SportHockey/-/gender/Kids" class="" title="Hockey">
+			Hockey</a>
 	</li>
 										</ul>
 							</div>
@@ -547,49 +814,133 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 								<ul class="level_3">
 									<li class="level_3" id="con-sport-running-RUNNING">
 												<a href="/sports/running">
-	<img src="/medias/sys_master/h9c/h42/8987777826846/2Limg140x90-sport-running1.jpg" alt="Running">
+	<img src="/medias/sys_master/h27/he0/9480873148446/2Limg140x90-IMG-13.jpg" alt="Running">
 </a>
 <a href="/sports/running" class="" title="Running">
 			Running</a>
 	</li>
-										<li class="level_3" id="con-sport-trail-TRAIL RUNNING">
-												<a href="/sports/trail-running">
-	<img src="/medias/sys_master/h2a/h8d/9029205426206/2Limg140x90-sport-trail-running1.jpg" alt="Trail running">
-</a>
-<a href="/sports/trail-running" class="" title="Trail running">
-			Trail running</a>
-	</li>
 										<li class="level_3" id="con-sport-running-TENNIS">
 												<a href="/sports/tennis">
-	<img src="/medias/sys_master/h30/h8d/9029205622814/2Limg140x90-sport-tennis1.jpg" alt="Tennis">
+	<img src="/medias/sys_master/h2a/he0/9480873246750/2Limg140x90-IMG-14.jpg" alt="Tennis">
 </a>
 <a href="/sports/tennis" class="" title="Tennis">
 			Tennis</a>
 	</li>
+										<li class="level_3" id="con-sport-training-Training-featured">
+												<a href="/sports/fitness-and-training">
+	<img src="/medias/sys_master/h2d/he0/9480873345054/2Limg140x90-IMG-15.jpg" alt="TRAINING">
+</a>
+<a href="/sports/fitness-and-training" class="" title="TRAINING">
+			TRAINING</a>
+	</li>
 										<li class="level_3" id="con-sport-rugby-RUGBY">
 												<a href="/sports/rugby">
-	<img src="/medias/sys_master/h94/h42/8987777564702/2Limg140x90-sport-rugby.jpg" alt="Rugby">
+	<img src="/medias/sys_master/h30/he0/9480873443358/2Limg140x90-IMG-16.jpg" alt="Rugby">
 </a>
 <a href="/sports/rugby" class="" title="Rugby">
 			Rugby</a>
 	</li>
-										<li class="level_3" id="con-sport-cricket-CRICKET">
-												<a href="/sports/cricket">
-	<img src="/medias/sys_master/h92/h42/8987777499166/2Limg140x90-sport-cricket.jpg" alt="Cricket">
+										<li class="level_3" id="cat-shop-img-link-trail-TRAIL RUNNING">
+												<a href="/Trail-Running/cat/SportTrailRunning">
+	<img src="/medias/sys_master/h1a/h0e/9363146997790/2Limg140x90-sport-trail-running2.jpg" alt="Trail running">
 </a>
-<a href="/sports/cricket" class="" title="Cricket">
-			Cricket</a>
+<a href="/Trail-Running/cat/SportTrailRunning" class="" title="Trail running">
+			Trail running</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Running</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-running-shoes">
+												<a href="/cat/SportRunning/-/producttypefacet/Shoes" class="" title="Shoes">
+			Shoes</a>
+	</li>
+										<li class="level_3" id="url-UK-running-clothing">
+												<a href="/cat/SportRunning/-/producttypefacet/Clothing" class="" title="Clothing">
+			Clothing</a>
+	</li>
+										<li class="level_3" id="url-UK-running-accessories">
+												<a href="/cat/SportRunning/-/producttypefacet/Accessories" class="" title="Accessories">
+			Accessories</a>
+	</li>
+										<li class="level_3" id="con-con-running-advice-prep-nav">
+												<a href="/sports/running/preparation" class="" title="RUNNING PREPARATION">
+			RUNNING PREPARATION</a>
+	</li>
+										<li class="level_3" id="con-con-running-advice-perf-nav">
+												<a href="/sports/running/performance" class="" title="RUNNING PERFORMANCE">
+			RUNNING PERFORMANCE</a>
+	</li>
+										<li class="level_3" id="con-con-running-advice-recov-nav">
+												<a href="/sports/running/recovery" class="" title="RUNNING RECOVERY">
+			RUNNING RECOVERY</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Tennis</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-tennis-shoes">
+												<a href="/cat/SportTennis/-/producttypefacet/Shoes/0-45-featured" class="" title="Shoes">
+			Shoes</a>
+	</li>
+										<li class="level_3" id="url-UK-tennis-clothing">
+												<a href="/cat/SportTennis/-/producttypefacet/Clothing/0-45-featured" class="" title="Clothing">
+			Clothing</a>
+	</li>
+										<li class="level_3" id="url-UK-tennis-accessories">
+												<a href="/cat/SportTennis/-/producttypefacet/Accessories/0-45-featured" class="" title="Accessories">
+			Accessories</a>
+	</li>
+										<li class="level_3" id="con-tennis-advice-TENNIS ADVICE">
+												<a href="/tennis-advice" class="" title="TENNIS ADVICE">
+			TENNIS ADVICE</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Training</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-training-shoes">
+												<a href="/cat/SportFitnessTraining/-/producttypefacet/Shoes/0-45-featured" class="" title="Shoes">
+			Shoes</a>
+	</li>
+										<li class="level_3" id="url-UK-training-clothing">
+												<a href="/cat/SportFitnessTraining/-/producttypefacet/Clothing/0-45-featured" class="" title="Clothing">
+			Clothing</a>
+	</li>
+										<li class="level_3" id="url-UK-training-accessories">
+												<a href="/cat/SportFitnessTraining/-/producttypefacet/Accessories/0-45-featured" class="" title="Accessories">
+			Accessories</a>
+	</li>
+										</ul>
+							</div>
+						<div class="listing">
+								<h3>Rugby</h3>
+								<ul class="level_3" data-js-split="0">
+									<li class="level_3" id="url-UK-rugby-shoes">
+												<a href="/cat/SportRugby/-/producttypefacet/Shoes/0-45-featured" class="" title="Shoes">
+			Shoes</a>
+	</li>
+										<li class="level_3" id="url-UK-rugby-clothing">
+												<a href="/cat/SportRugby/-/producttypefacet/Clothing/0-45-featured" class="" title="Clothing">
+			Clothing</a>
+	</li>
+										<li class="level_3" id="url-UK-rugby-accessories">
+												<a href="/cat/SportRugby/-/producttypefacet/Accessories/0-45-featured" class="" title="Accessories">
+			Accessories</a>
+	</li>
+										<li class="level_3" id="con-rugby-advice">
+												<a href="/rugby-advice" class="" title="RUGBY ADVICE">
+			RUGBY ADVICE</a>
 	</li>
 										</ul>
 							</div>
 						<div class="listing">
 								<h3>Browse by sport</h3>
 								<ul class="level_3" data-js-split="0">
-									<li class="level_3" id="con-shop-collection-fitness-and training-FITNESS AND TRAINING">
-												<a href="/sports/fitness-and-training" class="" title="FITNESS &amp; TRAINING">
-			FITNESS &amp; TRAINING</a>
-	</li>
-										<li class="level_3" id="con-shop-sport-indoor-court-INDOOR COURT">
+									<li class="level_3" id="con-shop-sport-indoor-court-INDOOR COURT">
 												<a href="/sports/indoor-court" class="" title="INDOOR COURT">
 			INDOOR COURT</a>
 	</li>
@@ -601,6 +952,10 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 												<a href="/sports/hockey" class="" title="HOCKEY">
 			HOCKEY</a>
 	</li>
+										<li class="level_3" id="con-sport-cricket">
+												<a href="/sports/cricket" class="" title="Cricket">
+			Cricket</a>
+	</li>
 										<li class="level_3" id="con-shop-collection-netball-NETBALL">
 												<a href="/sports/netball" class="" title="NETBALL">
 			NETBALL</a>
@@ -611,206 +966,29 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 	</li>
 										</ul>
 							</div>
-						<div class="listing">
-								<h3>Sports Inspiration</h3>
-								<ul class="level_3" data-js-split="0">
-									<li class="level_3" id="con-running-advice-RUNNING ADVICE">
-												<a href="/running-advice" class="" title="RUNNING ADVICE">
-			RUNNING ADVICE</a>
-	</li>
-										<li class="level_3" id="con-tennis-advice-TENNIS ADVICE">
-												<a href="/tennis-advice" class="" title="TENNIS ADVICE">
-			TENNIS ADVICE</a>
-	</li>
-										<li class="level_3" id="con-rugby-advice">
-												<a href="/rugby-advice" class="" title="RUGBY ADVICE">
-			RUGBY ADVICE</a>
-	</li>
-										<li class="level_3" id="con-cricket-advice">
-												<a href="/cricket-advice" class="" title="CRICKET ADVICE">
-			CRICKET ADVICE</a>
-	</li>
-										<li class="level_3" id="con-store-STORES">
-												<a href="/flagship-stores" class="" title="STORES">
-			STORES</a>
-	</li>
-										<li class="level_3" id="con-running-services-PERSONALISED RUNNING SERVICES">
-												<a href="/running-services" class="" title="PERSONALISED RUNNING SERVICES">
-			PERSONALISED RUNNING SERVICES</a>
-	</li>
-										<li class="level_3" id="con-latest-news-LATEST NEWS">
-												<a href="/latest-news" class="" title="LATEST NEWS">
-			LATEST NEWS</a>
-	</li>
-										</ul>
-							</div>
-						</div>
-		</div>
-	<div id="AthletesRacesEventsBarComponent" class="panel secondary wrap">
-			<div class="navigation_group">
-				<div class="featured">
-								<ul class="level_3">
-									<li class="level_3" id="2Limg140x90-athl-christophe-lemaitre">
-												<a href="/athletes/christophe-lemaitre">
-	<img src="/medias/sys_master/h50/h42/8987775336478/2Limg140x90-athl-christophe-lemaitre.jpg" alt="Christophe Lemaitre">
-</a>
-<a href="/athletes/christophe-lemaitre" class="" title="Christophe Lemaitre">
-			Christophe Lemaitre</a>
-	</li>
-										<li class="level_3" id="con-athl-thri-helen-jenkins-HELEN JENKINS">
-												<a href="/athletes/helen-jenkins">
-	<img src="/medias/sys_master/h62/h42/8987775926302/2Limg140x90-athl-helen-jenkins.jpg" alt="Helen Jenkins">
-</a>
-<a href="/athletes/helen-jenkins" class="" title="Helen Jenkins">
-			Helen Jenkins</a>
-	</li>
-										<li class="level_3" id="con-athl-trail-christian-schiester-CHRISTIAN SCHIESTER">
-												<a href="/athletes/christian-schiester">
-	<img src="/medias/sys_master/h4a/h42/8987775139870/2Limg140x90-athl-christian-schiester.jpg" alt="CHRISTIAN SCHIESTER">
-</a>
-<a href="/athletes/christian-schiester" class="" title="CHRISTIAN SCHIESTER">
-			CHRISTIAN SCHIESTER</a>
-	</li>
-										<li class="level_3" id="con-athl-ten-samantha-stosur-SAMANTHA STOSUR">
-												<a href="/athletes/samantha-stosur">
-	<img src="/medias/sys_master/h64/h42/8987775991838/2Limg140x90-athl-samantha-Stosur.jpg" alt="SAMANTHA STOSUR">
-</a>
-<a href="/athletes/samantha-stosur" class="" title="SAMANTHA STOSUR">
-			SAMANTHA STOSUR</a>
-	</li>
-										<li class="level_3" id="con-athl-ten-gael-monfils-GAEL MONFILS">
-												<a href="/athletes/gael-monfils">
-	<img src="/medias/sys_master/h58/h42/8987775598622/2Limg140x90-athl-gael-monfils.jpg" alt="GAEL MONFILS">
-</a>
-<a href="/athletes/gael-monfils" class="" title="GAEL MONFILS">
-			GAEL MONFILS</a>
-	</li>
-										</ul>
-							</div>
-						<div class="listing">
-								<h3>Browse by athletes</h3>
-								<ul class="level_3" data-js-split="5,3">
-									<li class="level_3" id="con-athlete-aileen-reid-AILEEN REID">
-												<a href="/athletes/aileen-reid" class="" title="AILEEN REID">
-			AILEEN REID</a>
-	</li>
-										<li class="level_3" id="con-athlete-ben-flower-BEN FLOWER">
-												<a href="/athletes/ben-flower" class="" title="BEN FLOWER">
-			BEN FLOWER</a>
-	</li>
-										<li class="level_3" id="con-athlete-eoin-morgan-EOIN MORGAN">
-												<a href="/athletes/eoin-morgan" class="" title="EOIN MORGAN">
-			EOIN MORGAN</a>
-	</li>
-										<li class="level_3" id="con-athlete-jade-dernbach-JADE DERNBACH">
-												<a href="/athletes/jade-dernbach" class="" title="JADE DERNBACH">
-			JADE DERNBACH</a>
-	</li>
-										<li class="level_3" id="con-athlete-jonathan-davies-JONATHAN DAVIES">
-												<a href="/athletes/jonathan-davies" class="" title="JONATHAN DAVIES">
-			JONATHAN DAVIES</a>
-	</li>
-										<li class="level_3" id="con-athlete-jonny-marray-JONNY MARRAY">
-												<a href="/athletes/jonny-marray" class="" title="JONNY MARRAY">
-			JONNY MARRAY</a>
-	</li>
-										<li class="level_3" id="con-athlete-kate-walsh-KATE WALSH">
-												<a href="/athletes/kate-walsh" class="" title="KATE WALSH">
-			KATE WALSH</a>
-	</li>
-										<li class="level_3" id="con-athlete-luke-gunn-LUKE GUNN">
-												<a href="/athletes/luke-gunn" class="" title="LUKE GUNN">
-			LUKE GUNN</a>
-	</li>
-										<li class="level_3" id="con-athlete-stephen-ferris-STEPHEN FERRIS">
-												<a href="/athletes/stephen-ferris" class="" title="STEPHEN FERRIS">
-			STEPHEN FERRIS</a>
-	</li>
-										<li class="level_3" id="con-athlete-tim-don-TIM DON">
-												<a href="/athletes/tim-don" class="" title="TIM DON">
-			TIM DON</a>
-	</li>
-										<li class="level_3" id="con-team-netball-UK-ENGLAND NETBALL TEAM">
-												<a href="/teams/england-netball-team" class="" title="ENGLAND NETBALL TEAM">
-			ENGLAND NETBALL TEAM</a>
-	</li>
-										<li class="level_3" id="con-team-volleyball-IT-ITALIAN VOLLEYBALL TEAM">
-												<a href="/teams/italian-volleyball-team" class="" title="ITALIAN VOLLEYBALL TEAM">
-			ITALIAN VOLLEYBALL TEAM</a>
-	</li>
-										</ul>
-							</div>
-						<div class="listing">
-								<h3>Browse by events</h3>
-								<ul class="level_3" data-js-split="5,3">
-									<li class="level_3" id="con-event-all-events">
-												<a href="/events" class="" title="ALL EVENTS">
-			ALL EVENTS</a>
-	</li>
-										<li class="level_3" id="con-event-OTRSE-2014">
-												<a href="http://www.asics.co.uk/outrunthesun" class="" title="OUTRUN THE SUN">
-			OUTRUN THE SUN</a>
-	</li>
-										<li class="level_3" id="con-event-great-mancester-marathon-2014">
-												<a href="/events/great-manchester-marathon-2014" class="" title="GREATER MANCHESTER MARATHON">
-			GREATER MANCHESTER MARATHON</a>
-	</li>
-										<li class="level_3" id="con-event-NYC Marathon 2013-NYC MARATHON">
-												<a href="/events/nyc-marathon-2013" class="" title="NEW YORK CITY MARATHON">
-			NEW YORK CITY MARATHON</a>
-	</li>
-										</ul>
-							</div>
-						</div>
-		</div>
-	<div id="MyAsicsBarComponent" class="panel secondary wrap">
-			<div class="navigation_group">
-				<div class="featured">
-								<ul class="level_3">
-									<li class="level_3" id="2Limg140x90-my-asics-about">
-												<a href="/running-services/about-my-asics">
-	<img src="/medias/sys_master/h6a/h63/8988053012510/2Limg140x90-my-asics-about.jpg" alt="ABOUT MY ASICS">
-</a>
-<a href="/running-services/about-my-asics" class="" title="ABOUT MY ASICS">
-			ABOUT MY ASICS</a>
-	</li>
-										<li class="level_3" id="2Limg140x90-my-asics-download-mobile-app">
-												<a href="/running-services/my-asics-mobile-apllication">
-	<img src="/medias/sys_master/h7a/h42/8987776712734/2Limg140x90-my-asics-download-mobile-app.jpg" alt="DOWNLOAD THE APP">
-</a>
-<a href="/running-services/my-asics-mobile-apllication" class="" title="DOWNLOAD THE APP">
-			DOWNLOAD THE APP</a>
-	</li>
-										<li class="level_3" id="2Limg140x90-my-asics-start-plan">
-												<a href="http://my.asics.co.uk/?utm_source=asics.co.uk&amp;utm_medium=website&amp;utm_content=myasics_mainmenu&amp;utm_campaign=myasics" target="_blank">
-	<img src="/medias/sys_master/h5f/h27/9131430739998/2Limg140x90-my-asics-start-plan.jpg" alt="CREATE A TRAINING PLAN">
-</a>
-<a href="http://my.asics.co.uk/?utm_source=asics.co.uk&amp;utm_medium=website&amp;utm_content=myasics_mainmenu&amp;utm_campaign=myasics" class="" title="CREATE A TRAINING PLAN" target="_blank">
-			CREATE A TRAINING PLAN</a>
-	</li>
-										</ul>
-							</div>
 						</div>
 		</div>
 	
        
-          
+            
 <div id="cart_panel" class="panel wrap" style="display:none;">
-					<article id="cart" class="updatable item ng-scope empty" ng-controller="MainCart" ng-class="{empty: !cart.data.totalItems}">
+            <div ng-show="cart.contents.data.totalItems" class="ng-hide"></div>
 
-	<div ng-show="cart.contents.data.totalItems" class="ng-hide">
+<article id="cart" class="updatable item ng-scope empty" ng-controller="MainCart" ng-class="{empty: !cart.data.totalItems}">
 
-		<header id="cart_header">
-			<h2>Your Shopping Basket</h2>
-			<h3 id="cart_id" class="ng-binding">Basket ID:</h3>
-		</header>
+    <div ng-show="cart.contents.data.totalItems" class="ng-hide">
 
-		<p class="message  ng-hide" ng-show="cart.contents.messages.cart &amp;&amp; cart.contents.messages.cart.type != 'success'">
-			<span class="icon ng-binding">:</span>
-			<span class="ng-binding"></span>
-		</p>
+        <header id="cart_header">
+            <h2>Your Shopping Basket</h2>
+            <h3 id="cart_id" class="ng-binding">Basket ID:</h3>
+        </header>
 
-		<table id="cart_table">
+        <p class="message  ng-hide" ng-show="cart.contents.messages.cart &amp;&amp; cart.contents.messages.cart.type != 'success'">
+            <span class="icon ng-binding">:</span>
+            <span class="ng-binding"></span>
+        </p>
+
+        <table id="cart_table">
 	<thead>
 		<tr>
 			<th id="head_details" colspan="2" class="details">Items</th>
@@ -822,8 +1000,32 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 	</thead>
 	<tbody>
 		<!-- ngRepeat: entry in cart.contents.data.entries -->
-	</tbody>
+		
+		
+
+
+
+	
+	
+	
+	
+	
+
+
+</tbody>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
 <div id="cart_totals_holder" class="cart">
 
 	<dl class="cart_totals">
@@ -863,13 +1065,11 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
                     <span ng-hide="cart.contents.data.deliveryCost.value" class="">Free</span>
                 </dd>
 				<dt class="shipping" ng-hide="cart.contents.data.deliveryCost">
-					* Estimated shipping<span class="note">* Based on flat standard delivery rate. Express shipping available during checkout</span>
+					* Estimated delivery cost<span class="note">* 
+						Based on flat standard delivery rate. Express delivery available during checkout</span>
 				</dt>
 				<dd class="shipping ng-binding" ng-hide="cart.contents.data.deliveryCost"></dd>
-        	<dt class="tax" ng-hide="cart.contents.data.net">Tax</dt>
-		<dd class="tax ng-binding" ng-hide="cart.contents.data.net"></dd>
-
-	</dl>
+        	</dl>
 
 	<div class="cart_promotions_total">
 		<!-- ngIf: cart.contents.data.appliedOrderPromotions.length || cart.contents.data.potentialOrderPromotions.length -->
@@ -883,28 +1083,31 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 
 </div>
 <div class="actions">
-			<a id="checkout_button" class="button highlight" href="/cart/checkout">Proceed to Checkout</a>
-			<a class="button" href="/returns">Returns information</a>
-		</div>
+            <a id="checkout_button" class="button highlight" href="/cart/checkout">Proceed to Checkout</a>
+            <a class="button" href="/returns">Returns information</a>
+        </div>
 
-	</div>
+    </div>
 
-	<div ng-show="cart.contents.data.totalItems == 0" class="ng-hide">
+    <div ng-show="cart.contents.data.totalItems == 0" class="ng-hide">
 
-		<header id="cart_header">
-			<h2>Your Shopping Basket Is Empty</h2>
-		</header>
-		<a id="continue_shopping" class="button panel_link" href="#cart_panel">Continue Shopping</a>
-
-	</div>
+        <header id="cart_header">
+            <h2>Your Shopping Basket Is Empty</h2>
+        </header>
+        <a class="button panel_link" href="#cart_panel">Continue Shopping</a>
+        </div>
 
 </article>
+
+
 </div>
-			</div>
+        </div>
 
 	</nav>
 
 </header>
+
+
 <div id="content" class="main" role="main">
 				<div class="wrap">
 					<nav id="breadcrumb" role="navigation" class="extended">
@@ -930,7 +1133,20 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 				<a class="addthis_counter addthis_bubble_style"></a>
 			</div>
 			<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-512e28bc58dbe854"></script>
-			<script type="text/javascript">var addthis_config = {data_track_addressbar: false, data_track_clickback: false, ui_language: "en"};</script>
+			<script type="text/javascript">
+
+				var addthis_config = {data_track_addressbar: false, 
+									  data_track_clickback: false, 
+									  ui_language: "en",
+									  data_use_cookies:false,
+									  data_use_flash:false
+									};
+
+
+				var addthis_share = {
+									   title: ''
+									};					  
+			</script>
 			<!-- AddThis Button END -->
 
 			<a class="back_link" href="javascript:history.go(-1)">Back</a>
@@ -960,14 +1176,14 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 					<li class="">
 							<a href="/terms-conditions" title="Terms and Conditions">Terms and Conditions</a></li>
 					<li class="">
-							<a href="http://www.asics.com/en/csr" title="Corporate Responsibility" target="_new">Corporate Responsibility</a></li>
+							<a href="http://corp.asics.com/en/csr" title="Corporate Responsibility" target="_new">Corporate Responsibility</a></li>
 					<li class="">
-							<a href="/careers" title="Careers">Careers</a></li>
+							<a href="http://jobs.asics.eu" title="Careers">Careers</a></li>
 					</ul>
 			</nav>
 			<div class="item main_column">
 				<div class="item editorial column_8">
-	<p>We value the trust that you place in us by sharing your personal data with us. ASICS takes your privacy seriously and is committed to handling your personal data in a way that is fair and worthy of that trust. ASICS will comply with applicable data protection laws and take all reasonable steps to protect your information from misuse and keep it secure.</p> <p>We believe it is important to inform you about how we will use your personal data. Therefore, we encourage you to read this privacy policy carefully.</p> <h3>Scope</h3> <p>This privacy policy applies to all personal data of individuals collected or used by ASICS Europe B.V. or its subsidiaries (“ASICS” or “we”) in relation to our services. This includes information received via our websites or mobile applications, information processed as part of our services to you and information collected offline at events. ASICS Europe B.V., Taurusavenue 125, 2132 LS Hoofddorp, the Netherlands and your local ASICS company are the controllers with respect to your personal data.</p> <h3>What personal data do we collect?</h3> <p>The types of personal data we collect may include:<br> - your name, address and contact details, such as your telephone number and e-mail address <br>- your age and date of birth<br> -&nbsp;your gender<br> -&nbsp;your purchase details, such as the amount and date of your purchase<br> -&nbsp;your bank account number <br>-&nbsp;information in relation to your membership of one of our customer programs, such as the start date of your membership, duration of your membership, membership number and your contribution <br>-&nbsp;any other relevant personal data which you have shared with us, such as your preferences and interests</p> <p>If you are under 16 years of age, we also collect the contact details of your parents or legal guardians.</p> <p>We may also collect personal data in relation to your physique, condition, training schedule or sports performance. This personal data may reveal information about your health. The type of personal data we collect may include:<br> - your foot and clothes size and other personal measurement information, such as weight, height, heart rate, blood pressure, fat percentage, BMI, strength and endurance<br> - the running events that you partake and your track results <br>- your current running shoe and which running type you are (underpronating, overpronating or neutral)<br> - your training data, such as running surface, distance, frequency, race time, running route, type of training, training schedule, training history, running experience and diet<br> - location data that shows your geographical position <br>- any other relevant personal data which you have shared with us, such as reason for running, your photo and injuries suffered</p> <p>To the extent the processing of this type of information is reasonably necessary to address your request (e.g. you subscribe to a service or enter your personal data to receive the service) your consent to such processing is implied.</p> <p>When you visit one of our websites, we automatically collect certain technical data such as the type of computer operating system (e.g., Windows or Mac OS) and browser (e.g., Firefox, Internet Explorer) being used, your internet service provider, your IP address or, when appropriate, the address of the page that led you to visiting our website.</p> <h3>How we collect personal data</h3> <p>ASICS may obtain your personal data in a number of ways, for example when you create a MY ASICS account, when you subscribe to a newsletter, when you complete an event registration form or if you participate in one of our physical tests or measurements.</p> <p>We also may obtain your personal data from one of our partners. For example when you register for the service of such partner and you agree that they may share your personal data with ASICS. If you do not want us to use personal data obtained from our partners, you can let us know by contacting us at the address listed below.</p> <h3>What we do with your personal data</h3> <p>ASICS obtains and uses your personal data for the following purposes:</p> <p>- to provide our services to you and to communicate with you in connection with these services <br>-&nbsp;to register you for and in connection with our events and membership programs, such as clubs and clinics <br>-&nbsp;to activate and maintain your my ASICS account <br>-&nbsp;to register you for and send you newsletters <br>-&nbsp;to – based on your preferences and interests <br> – suggest and provide you information about products or services (including those of relevant third parties)<br> -&nbsp;to conduct research and help us develop better products, services and offerings, to provide more responsive customer service and to improve the design and content our websites<br> -&nbsp;to process your enquiries received via our websites<br> -&nbsp;to improve the design and content of the websites<br> -&nbsp;to comply with applicable laws and regulations<br> -&nbsp;any other purpose indicated at the time you voluntarily provide your personal data</p> <h3>Marketing</h3> <p>ASICS may from time to time use your personal data to send you automated email messages or marketing materials regarding our products and services and the products or services of third party suppliers, in each case only with your prior consent or when you are an existing customer and the email message concerns similar products or services. These email messages may contain features that help us ensure that you received the message and were able to open the message.</p> <p>You may opt out of receiving such marketing email messages at any time, free of charge by following the instructions in any marketing communication. You can also control these preferences in your profile settings.</p> <h3>Tests and measurements</h3> <p>At your request ASICS may measure or test your physique, strength, motion and endurance (e.g. through our 3D foot shape measurement, leg alignment measurement, body composition measurement, leg strength test, running form test and aerobic test). Together with other information you have provided to us, we analyse the results of these tests and measurements to advise you, for example on how to improve your running ability, boost your performance or what shoes or clothing are most suitable for you.</p> <h3>Disclosing your personal data</h3> <p>As a general rule, we do not share your personal data with anyone outside ASICS. However, we may share your personal data with trusted third parties that perform business functions (e.g. hosting of our websites, analyzing data or performing audits) or provide services on our behalf (e.g. support services). All such third parties will be required to adequately safeguard your personal data and only process it in accordance with our instructions.</p> <p>Sometimes ASICS offers you a service or organizes an event in a joint marketing effort with other companies. In such cases, your personal data will be shared with these companies. We will always let you know that such relationship exists and who these companies are prior to your registration. Note that these companies often have their own privacy policies that apply to the way they use your personal data. These privacy policies sometimes differ from the ASICS privacy policy. We may also disclose your personal data if disclosure is required by law.</p> <h3>(International) transfers of your personal data</h3> <p>ASICS may transfer and process any personal data you provide to us to countries outside the European Economic Area whose laws may not afford the same level of protection to your personal data. ASICS will therefore ensure that all adequate safeguards are in place and that all applicable laws and regulations are complied with in connection with such transfer.</p> <h3>Cookies and tracking software</h3> <p>ASICS may use “cookies” and other types of tracking software on our websites and apps. For more information, please see our <a href="http://www.asics.co.uk/cookie-policy">cookie policy</a>.</p> <h3>Other websites</h3> <p>Our websites contain links to third-party websites; if you follow these links, you will exit our websites. While these third-party websites are selected with care, ASICS cannot accept liability for the use of your personal data by these organizations. For more information, please consult the privacy statement of the website you are visiting (if such a statement is provided).</p> <h3>Security and retention period</h3> <p>ASICS will ensure that your personal data are properly secured, so that they are protected against unauthorised use, unauthorised access and wrongful destruction. Your personal data will be retained for as long as required for the above purposes or in so far as such is necessary for compliance with statutory obligations and for solving any disputes.</p> <h3>Access and correction rights</h3> <p>You can request access to, and have the opportunity to update and amend your personal data, and you can exercise any other rights you enjoy under applicable data protection laws, including, for example, objection to the processing of your personal data, by contacting the Digital Communications team at <a href="mailto:digitalcomms@eu.asics.com">digitalcomms@eu.asics.com</a>. For security reasons, we reserve the right to take steps to authenticate your identity before providing access to your personal data. Subject to applicable law, we may charge you a small fee to access your personal data.</p> <h3>If You Are Under 16 Years of Age</h3> <p>If you are under 16 years of age, please get the consent of your parent or legal guardian before you give us any personal data about yourself. Your parent or guardian should contact us at the email address below and provide us with their name, e-mail address, street address, telephone number, and any other identifying information that we may request. ASICS needs this information in order to verify that they have provided the necessary consent. We may follow up by phone or other means in some circumstances.</p> <p>IF YOU ARE UNDER 16 YEARS OF AGE, DO NOT CONTACT US OR PROVIDE US WITH ANY PERSONAL DATA UNTIL AFTER YOUR PARENT OR GUARDIAN HAS SENT US AN E-MAIL CONSENTING TO YOUR CONTACT AND PROVISION OF SUCH INFORMATION</p> <h3>Changes to the Policy</h3> <p>We may change this privacy policy from time to time by posting the updated version of the privacy policy on our websites and apps. We will give you reasonable notice of any material change. We encourage you to visit frequently to stay informed about how we use your personal data.</p> <h3>Privacy query</h3> <p>If you have any questions regarding this policy, or you wish to update your details or remove your personal data from our records, please inform us <a href="mailto:digitalcomms@eu.asics.com">digitalcomms@eu.asics.com</a></p></div>
+	<p>We value the trust that you place in us by sharing your personal data with us. ASICS takes your privacy seriously and is committed to handling your personal data in a way that is fair and worthy of that trust. ASICS will comply with applicable data protection laws and take all reasonable steps to protect your information from misuse and keep it secure.</p> <p>We believe it is important to inform you about how we will use your personal data. Therefore, we encourage you to read this privacy policy carefully.</p> <h3>Scope</h3> <p>This privacy policy applies to all personal data of individuals collected or used by ASICS Europe B.V. or its subsidiaries (“ASICS” or “we”) in relation to our services. This includes information received via our websites or mobile applications, information processed as part of our services to you and information collected offline at events. ASICS Europe B.V., Taurusavenue 125, 2132 LS Hoofddorp, the Netherlands and your local ASICS company are the controllers with respect to your personal data.</p> <h3>What personal data do we collect?</h3> <p>The types of personal data we collect may include:<br> - your name, address and contact details, such as your telephone number and e-mail address <br> - your age and date of birth<br> -&nbsp;your gender<br> -&nbsp;your purchase details, such as the amount and date of your purchase<br> -&nbsp;your bank account number <br> -&nbsp;information in relation to your membership of one of our customer programs, such as the start date of your membership, duration of your membership, membership number and your contribution <br> -&nbsp;any other relevant personal data which you have shared with us, such as your preferences and interests</p> <p>If you are under 16 years of age, we also collect the contact details of your parents or legal guardians.</p> <p>We may also collect personal data in relation to your physique, condition, training schedule or sports performance. This personal data may reveal information about your health. The type of personal data we collect may include:<br> - your foot and clothes size and other personal measurement information, such as weight, height, heart rate, blood pressure, fat percentage, BMI, strength and endurance<br> - the running events that you partake and your track results <br> - your current running shoe and which running type you are (underpronating, overpronating or neutral)<br> - your training data, such as running surface, distance, frequency, race time, running route, type of training, training schedule, training history, running experience and diet<br> - location data that shows your geographical position <br> - any other relevant personal data which you have shared with us, such as reason for running, your photo and injuries suffered</p> <p>To the extent the processing of this type of information is reasonably necessary to address your request (e.g. you subscribe to a service or enter your personal data to receive the service) your consent to such processing is implied.</p> <p>When you visit one of our websites, we automatically collect certain technical data such as the type of computer operating system (e.g., Windows or Mac OS) and browser (e.g., Firefox, Internet Explorer) being used, your internet service provider, your IP address or, when appropriate, the address of the page that led you to visiting our website.</p> <h3>How we collect personal data</h3> <p>ASICS may obtain your personal data in a number of ways, for example when you create a MY ASICS account, when you subscribe to a newsletter, when you complete an event registration form or if you participate in one of our physical tests or measurements.</p> <p>We also may obtain your personal data from one of our partners. For example when you register for the service of such partner and you agree that they may share your personal data with ASICS. If you do not want us to use personal data obtained from our partners, you can let us know by contacting us at the address listed below.</p> <h3>What we do with your personal data</h3> <p>ASICS obtains and uses your personal data for the following purposes:</p> <p>- to provide our services to you and to communicate with you in connection with these services <br> -&nbsp;to register you for and in connection with our events and membership programs, such as clubs and clinics <br> -&nbsp;to activate and maintain your my ASICS account <br> -&nbsp;to register you for and send you newsletters <br> -&nbsp;to – based on your preferences and interests <br> – suggest and provide you information about products or services (including those of relevant third parties)<br> -&nbsp;to conduct research and help us develop better products, services and offerings, to provide more responsive customer service and to improve the design and content our websites<br> -&nbsp;to process your enquiries received via our websites<br> -&nbsp;to improve the design and content of the websites<br> -&nbsp;to comply with applicable laws and regulations<br> -&nbsp;any other purpose indicated at the time you voluntarily provide your personal data</p> <h3>Marketing</h3> <p>ASICS may from time to time use your personal data to send you automated email messages or marketing materials regarding our products and services and the products or services of third party suppliers, in each case only with your prior consent or when you are an existing customer and the email message concerns similar products or services. These email messages may contain features that help us ensure that you received the message and were able to open the message.</p> <p>You may opt out of receiving such marketing email messages at any time, free of charge by following the instructions in any marketing communication. You can also control these preferences in your profile settings.</p> <h3>Tests and measurements</h3> <p>At your request ASICS may measure or test your physique, strength, motion and endurance (e.g. through our 3D foot shape measurement, leg alignment measurement, body composition measurement, leg strength test, running form test and aerobic test). Together with other information you have provided to us, we analyse the results of these tests and measurements to advise you, for example on how to improve your running ability, boost your performance or what shoes or clothing are most suitable for you.</p> <h3>Disclosing your personal data</h3> <p>As a general rule, we do not share your personal data with anyone outside ASICS. However, we may share your personal data with trusted third parties that perform business functions (e.g. hosting of our websites, analyzing data or performing audits) or provide services on our behalf (e.g. support services). All such third parties will be required to adequately safeguard your personal data and only process it in accordance with our instructions.</p> <p>Sometimes ASICS offers you a service or organizes an event in a joint marketing effort with other companies. In such cases, your personal data will be shared with these companies. We will always let you know that such relationship exists and who these companies are prior to your registration. Note that these companies often have their own privacy policies that apply to the way they use your personal data. These privacy policies sometimes differ from the ASICS privacy policy. We may also disclose your personal data if disclosure is required by law.</p> <h3>(International) transfers of your personal data</h3> <p>ASICS may transfer and process any personal data you provide to us to countries outside the European Economic Area whose laws may not afford the same level of protection to your personal data. ASICS will therefore ensure that all adequate safeguards are in place and that all applicable laws and regulations are complied with in connection with such transfer.</p> <h3>Cookies and tracking software</h3> <p>ASICS may use “cookies” and other types of tracking software on our websites and apps. For more information, please see our <a href="http://www.asics.co.uk/cookie-policy">cookie policy</a>.</p> <h3>Other websites</h3> <p>Our websites contain links to third-party websites; if you follow these links, you will exit our websites. While these third-party websites are selected with care, ASICS cannot accept liability for the use of your personal data by these organizations. For more information, please consult the privacy statement of the website you are visiting (if such a statement is provided).</p> <h3>Security and retention period</h3> <p>ASICS will ensure that your personal data are properly secured, so that they are protected against unauthorised use, unauthorised access and wrongful destruction. Your personal data will be retained for as long as required for the above purposes or in so far as such is necessary for compliance with statutory obligations and for solving any disputes.</p> <h3>Access and correction rights</h3> <p>You can request access to, and have the opportunity to update and amend your personal data, and you can exercise any other rights you enjoy under applicable data protection laws, including, for example, objection to the processing of your personal data, by contacting the Digital Communications team at <a href="mailto:digitalcomms@asics.com">digitalcomms@asics.com</a>. For security reasons, we reserve the right to take steps to authenticate your identity before providing access to your personal data. Subject to applicable law, we may charge you a small fee to access your personal data.</p> <h3>If You Are Under 16 Years of Age</h3> <p>If you are under 16 years of age, please get the consent of your parent or legal guardian before you give us any personal data about yourself. Your parent or guardian should contact us at the email address below and provide us with their name, e-mail address, street address, telephone number, and any other identifying information that we may request. ASICS needs this information in order to verify that they have provided the necessary consent. We may follow up by phone or other means in some circumstances.</p> <p>IF YOU ARE UNDER 16 YEARS OF AGE, DO NOT CONTACT US OR PROVIDE US WITH ANY PERSONAL DATA UNTIL AFTER YOUR PARENT OR GUARDIAN HAS SENT US AN E-MAIL CONSENTING TO YOUR CONTACT AND PROVISION OF SUCH INFORMATION</p> <h3>Changes to the Policy</h3> <p>We may change this privacy policy from time to time by posting the updated version of the privacy policy on our websites and apps. We will give you reasonable notice of any material change. We encourage you to visit frequently to stay informed about how we use your personal data.</p> <h3>Privacy query</h3> <p>If you have any questions regarding this policy, or you wish to update your details or remove your personal data from our records, please inform us <a href="mailto:digitalcomms@asics.com">digitalcomms@asics.com</a></p></div>
 </div>
 		</div>
 	</section>
@@ -983,8 +1199,8 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
                     	<a href="#"><span class="icon"></span>Back to top</a>
                 	</div>               	
             	<ul class="level_1">
-					<li class="level_1">
-                            <ul class="level_2 first_of_row">
+					<li class="level_1" style="min-height: 198px;">
+              <ul class="level_2 first_of_row">
 								<li class="level_2">
 										<span>SHOP:</span>
 			</li>
@@ -1014,8 +1230,8 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 	</li>
 								</ul>
 						</li>
-					<li class="level_1">
-                            <ul class="level_2 first_of_row">
+					<li class="level_1" style="min-height: 198px;">
+              <ul class="level_2 first_of_row">
 								<li class="level_2">
 										<span>CUSTOMER SERVICE:</span>
 			</li>
@@ -1030,6 +1246,10 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 								<li class="level_2">
 										<a href="/delivery-info" class="" title="Delivery information">
 			Delivery information</a>
+	</li>
+								<li class="level_2">
+										<a href="/faq" class="" title="FAQ">
+			FAQ</a>
 	</li>
 								<li class="level_2">
 										<a href="/shoe-size-guide" class="" title="Shoe size guide">
@@ -1049,8 +1269,8 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 	</li>
 								</ul>
 						</li>
-					<li class="level_1">
-                            <ul class="level_2 first_of_row">
+					<li class="level_1" style="min-height: 198px;">
+              <ul class="level_2 first_of_row">
 								<li class="level_2">
 										<span>CORPORATE:</span>
 			</li>
@@ -1061,6 +1281,10 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 								<li class="level_2">
 										<a href="/history" class="" title="History">
 			History</a>
+	</li>
+								<li class="level_2">
+										<a href="/back-catalogue" class="" title="Back Catalogue">
+			Back Catalogue</a>
 	</li>
 								<li class="level_2">
 										<a href="/disclaimer" class="" title="Disclaimer">
@@ -1079,38 +1303,42 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			Terms and Conditions</a>
 	</li>
 								<li class="level_2">
-										<a href="http://www.asics.com/en/csr" class="" title="Corporate Responsibility" target="_blank">
+										<a href="http://corp.asics.com/en/csr" class="" title="Corporate Responsibility" target="_blank">
 			Corporate Responsibility</a>
 	</li>
 								<li class="level_2">
-										<a href="/careers" class="" title="Careers">
+										<a href="http://jobs.asics.eu" class="" title="Careers">
 			Careers</a>
+	</li>
+								<li class="level_2">
+										<a href="/retailers-terms-and-conditions" class="" title="     ">
+			     </a>
 	</li>
 								</ul>
 						</li>
 					</ul>
 			</nav>
 
-			<div id="newsletter_signup">
-					<h3>Email newsletter</h3>
-					<form class="newsletter_signup_form ng-pristine ng-valid" action="/json/newsletter/signup.json" novalidate="">
-						<ol>
-							<li>
-								<label>Email address</label>
-								<input name="email" class="text" type="email" placeholder="Email address">
-							</li>
-						</ol>
-						<div class="buttons">
-							<input class="button  auto" type="submit" value="Sign Up">
-						</div>
-					</form>
-					<p>Signup to our newsletter and receive special offers and exclusive news about our products</p>
-				</div>
-			<div id="payment_wrap">
+				<div id="newsletter_signup">
+						<h3>Email newsletter</h3>
+						<form class="newsletter_signup_form ng-pristine ng-valid" action="/json/newsletter/signup.json" novalidate="">
+							<ol>
+								<li>
+									<label>Email address</label>
+									<input name="email" class="text" type="email" placeholder="Email address">
+								</li>
+							</ol>
+							<div class="buttons">
+								<input class="button  auto" type="submit" value="Sign Up">
+							</div>
+						</form>
+						<p>Signup to our newsletter and receive special offers and exclusive news about our products</p>
+					</div>
+				<div id="payment_wrap">
 	                  	<div id="verisign_info">
 	                  		<dl>
-								<dt class="logo_verisign"></dt>
-								<dd>ASICS.co.uk is secure.</dd>
+													<dt class="logo_verisign"></dt>
+													<dd>ASICS.co.uk is secure.</dd>
 	                  			<dd>We protect your personal details at all times.</dd>
 	                    	</dl>   
 	                    </div>
@@ -1119,12 +1347,14 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 	                            <dt>We accept</dt>
 	                            <dd class="payment_icons payment_logo_visa"></dd>
 	                            <dd class="payment_icons payment_logo_mastercard"></dd>
-	                            <dd class="payment_icons payment_logo_maestro"></dd>
-	                            <dd class="payment_icons payment_logo_paypal"></dd>
-	                        </dl>
+
+														<dd class="payment_icons payment_logo_maestro"></dd>
+														<dd class="payment_icons payment_logo_paypal"></dd>
+
+														</dl>
 	                    </div>
 	                </div>
-                <div class="site_payments">
+		        <div class="site_payments">
 				</div>
 
 		</div>
@@ -1138,171 +1368,211 @@ if (document.referrer.match(/google\./gi) && document.referrer.match(/cd/gi)) {
 			</div>
 
 			<div id="copyright">
-				<p><span class="icon icon_shoe"></span>© 2013 ASICS Europe</p>
+				<p><span class="icon icon_shoe"></span>© 2014 ASICS Europe</p>
 			</div>
 
-            <div id="country_select">
-					<div id="website_country">
-						<span class="flag" style="background: url('/medias/sys_master/images/8852241514526/web-site-flags.png') -720px 0;"></span>
-						<span>United Kingdom</span>
-						<div id="changeLanguageButton" class="changeLanguage">
-							<a href="">&nbsp;Change</a>
+            <div id="website_country">
+				<span class="flag" style="background: url('/medias/sys_master/images/8852241514526/web-site-flags.png') -720px 0;"></span>
+				<span id="country-name">United Kingdom<span id="country-arrow" class="country-arrow-down"></span></span>
+			</div>
+			</div>
+	</div>
+	
+
+
+	<!-- This is a way of hiding footer markup in new checkouts for all countries using the simplified header -->
+		<div id="country_select">
+			<div id="countrySelector" class="wrap">
+
+				<div class="backToTop">
+	        <a href="#"><span class="icon"></span>Back to top</a>
+	      </div>  
+				
+				<div id="lightBox">
+					<!-- <div class="logoAsics"></div>	 -->	
+					<h2>Please choose your country and language</h2>
+					<!-- <div id="closeCountryPanel" class="changeLanguage">
+						<a href="">Close</a>
+					</div> -->
+					<div class="country_listings">
+						<div>
+							<h3>Europe</h3>
+							<ul>
+								<li>
+										
+											<a href="http://www.asics.at/">Austria</a>
+										</li>
+									<li>
+										
+											<a href="http://nl.asics.be/">Belgium</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asicsbg.com/">Bulgaria</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.cz/">Czech Republic</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.dk/">Denmark</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.ee/">Estonia</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.fi/">Finland</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.fr/">France</a>
+										</li>
+									</ul>
+											<ul>
+										<li>
+										
+											<a href="http://www.asics.com/de/de-de/">Germany</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.gr/">Greece</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.hu/">Hungary</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.ie/">Ireland</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.it/">Italy</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.lv/">Latvia</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.lt/">Lithuania</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.nl/">Netherlands</a>
+										</li>
+									</ul>
+											<ul>
+										<li>
+										
+											<a href="http://www.asics.no/">Norway</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.pl/">Poland</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.pt/">Portugal</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.ro/">Romania</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.ru/">Russian Federation</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.rs/">Serbia</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.sk/">Slovakia</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.es/">Spain</a>
+										</li>
+									</ul>
+											<ul>
+										<li>
+										
+											<a href="http://www.asics.se/">Sweden</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.ch/">Switzerland</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.com.tr/">Turkey</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.co.uk/">United Kingdom</a>
+										</li>
+									<li>
+										
+											<a href="http://www.asics.co.za">South Africa</a>
+										</li>
+									</ul>
 						</div>
-					</div>
-					<div id="languageSelector" class="languageSelector">
-						<div id="lightBox">
-							<div class="logoAsics"></div>		
-							<h2>Please choose your country and language</h2>
-							<div id="closeChangeLanguage" class="changeLanguage">
-								<a href="">Close</a>
-							</div>
-							<div class="language_listings">
-								<div>
-									<h3>Americas</h3>
-									<ul>
-										<li>
-													<a href="http://www.asicsamerica.com/">United States</a>
-												</li>
-											<li>
-													<a href="http://www.asics.com.br/">Brazil</a>
-												</li>
-											<li>
-													<a href="http://asicscanada.com/">Canada</a>
-												</li>
-											</ul>
-								</div>
-								<div>
-									<h3>Asia &amp; Oceania</h3>
-									<ul>
-										<li>
-													<a href="http://www.asics.com.au/">Australia</a>
-												</li>
-											<li>
-													<a href="http://www.asics.com.cn/">China</a>
-												</li>
-											<li>
-													<a href="http://www.asicsindia.in/">India</a>
-												</li>
-											<li>
-													<a href="http://www.asics.co.jp/">Japan</a>
-												</li>
-											<li>
-													<a href="http://www.asics.co.kr/">Korea, Republic of</a>
-												</li>
-											<li>
-													<a href="http://www.asics.co.nz/">New Zealand</a>
-												</li>
-											<li>
-													<a href="http://www.runnersworld.com.sg/">Singapore</a>
-												</li>
-											<li>
-													<a href="http://www.asics.com.tw/">Taiwan</a>
-												</li>
-											</ul>
-								</div>
-								<div>
-									<h3>Europe</h3>
-									<ul>
-										<li>
-													<a href="http://www.asics.at/">Austria</a>
-												</li>
-											<li>
-													<a href="http://nl.asics.be/">Belgium</a>
-												</li>
-											<li>
-													<a href="http://www.asicsbg.com/">Bulgaria</a>
-												</li>
-											<li>
-													<a href="http://www.asics.cz/">Czech Republic</a>
-												</li>
-											<li>
-													<a href="http://www.asics.dk/">Denmark</a>
-												</li>
-											<li>
-													<a href="http://www.asics.ee/">Estonia</a>
-												</li>
-											<li>
-													<a href="http://www.asics.fi/">Finland</a>
-												</li>
-											<li>
-													<a href="http://www.asics.fr/">France</a>
-												</li>
-											<li>
-													<a href="http://www.asics.de/">Germany</a>
-												</li>
-											<li>
-													<a href="http://www.asics.gr/">Greece</a>
-												</li>
-											<li>
-													<a href="http://www.asics.hu/">Hungary</a>
-												</li>
-											<li>
-													<a href="http://www.asics.ie/">Ireland</a>
-												</li>
-											<li>
-													<a href="http://www.asics.it/">Italy</a>
-												</li>
-											<li>
-													<a href="http://www.asics.lv/">Latvia</a>
-												</li>
-											</ul>
-													<ul>
-												<li>
-													<a href="http://www.asics.lt/">Lithuania</a>
-												</li>
-											<li>
-													<a href="http://www.asics.nl/">Netherlands</a>
-												</li>
-											<li>
-													<a href="http://www.asics.no/">Norway</a>
-												</li>
-											<li>
-													<a href="http://www.asics.pl/">Poland</a>
-												</li>
-											<li>
-													<a href="http://www.asics.pt/">Portugal</a>
-												</li>
-											<li>
-													<a href="http://www.asics.ro/">Romania</a>
-												</li>
-											<li>
-													<a href="http://www.asics.ru/">Russian Federation</a>
-												</li>
-											<li>
-													<a href="http://www.asics.rs/">Serbia</a>
-												</li>
-											<li>
-													<a href="http://www.asics.sk/">Slovakia</a>
-												</li>
-											<li>
-													<a href="http://www.asics.es/">Spain</a>
-												</li>
-											<li>
-													<a href="http://www.asics.se/">Sweden</a>
-												</li>
-											<li>
-													<a href="http://www.asics.ch/">Switzerland</a>
-												</li>
-											<li>
-													<a href="http://www.asics.com.tr/">Turkey</a>
-												</li>
-											<li>
-													<a href="http://www.asics.co.uk/">United Kingdom</a>
-												</li>
-											</ul>
-								</div>
-							</div>
+						<div>
+							<h3>Americas</h3>
+							<ul>
+								<li>
+											<a href="http://www.asicsamerica.com/">United States</a>
+										</li>
+									<li>
+											<a href="http://www.asics.com.br/">Brazil</a>
+										</li>
+									<li>
+											<a href="http://asicscanada.com/">Canada</a>
+										</li>
+									</ul>
+						</div>
+						<div>
+							<h3>Asia &amp; Oceania</h3>
+							<ul>
+								<li>
+											<a href="http://www.asics.com.au/">Australia</a>
+										</li>
+									<li>
+											<a href="http://www.asics.com.cn/">China</a>
+										</li>
+									<li>
+											<a href="http://www.asicsindia.in/">India</a>
+										</li>
+									<li>
+											<a href="http://www.asics.co.jp/">Japan</a>
+										</li>
+									<li>
+											<a href="http://www.asics.co.kr/">Korea, Republic of</a>
+										</li>
+									<li>
+											<a href="http://www.asics.co.nz/">New Zealand</a>
+										</li>
+									<li>
+											<a href="http://www.asics.com.sg/">Singapore</a>
+										</li>
+									<li>
+											<a href="http://www.asics.com.tw/">Taiwan</a>
+										</li>
+									</ul>
 						</div>
 					</div>
 				</div>
 			</div>
-	</div>
-
-</footer>
-<div class="content"><p style="margin:0"><style type="text/css">
+		</div>
+	</footer><div class="content"><p style="margin:0"><style type="text/css">
 hr
 {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 </style></p></div><div class="content"><p style="margin:0"><style type="text/css">
 header#page_header h1 {
@@ -1320,7 +1590,46 @@ form.search ol.facet_listing li {
 
 
 
-</style></p></div>
+</style></p></div><div class="minicart_popup ng-scope" ng-controller="MainCart">
+		<a href="/cart/" class="counter ng-hide" ng-show="cart.contents.data.totalItems >= 3">
+			<span ng-bind="cart.contents.data.totalUnitCount" class="ng-binding"></span>
+			<ng-pluralize count="cart.contents.data.totalUnitCount" when="{'0': 'Items',
+		                       'one': 'Item',
+		                       'other': 'Items'}"></ng-pluralize>
+		</a>
+
+		<div class="empty-message ng-hide" ng-show="cart.contents.data.totalItems == 0">
+				<p>Your Shopping Basket Is Empty</p>
+		</div>
+
+		<ol class="products">
+			<!-- ngRepeat: entry in cart.contents.data.entries | limitTo:-2 -->
+		</ol>
+		<div class="actions" ng-show="cart.contents.data.totalItems != 0">
+			<div class="buy">
+				<div class="total">
+					<span class="label">Subtotal</span>
+					<span class="value ng-binding"></span>
+
+				</div>
+				<div class="shipping">
+					<dl>
+								<dt class="shipping ng-hide" ng-show="cart.contents.data.deliveryCost">Delivery cost</dt>
+								<dd class="shipping ng-hide" ng-show="cart.contents.data.deliveryCost">
+				                    <span ng-show="cart.contents.data.deliveryCost.value" class="ng-binding ng-hide"></span>
+				                    <span ng-hide="cart.contents.data.deliveryCost.value" class="">Free</span>
+				                </dd>
+			           		</dl>
+			           		<dl>
+								<dt class="shipping" ng-hide="cart.contents.data.deliveryCost">
+									* Estimated delivery cost</dt>
+								<dd class="shipping ng-binding" ng-hide="cart.contents.data.deliveryCost"></dd>
+							</dl>
+			        	</div>
+				<a class="button highlight" href="/cart/">View Basket</a>
+			</div>
+		</div>
+</div> 
 
 
 
@@ -1391,13 +1700,6 @@ form.search ol.facet_listing li {
 			</h2>
 			<h5 class="product_type ng-binding" ng-bind-html="quickShop.contents.productTypeName"></h5>
 			
-				<dl class="rating">
-					<dt>Rating</dt>
-					<dd>
-						<em ng-style="{'width': (quickShop.contents.averageRating * starWidth) + ((quickShop.contents.averageRating - ( quickShop.contents.averageRating % 1 )) * starGap) + 'px'}" class="ng-binding"></em>out of {0} stars
-					</dd>
-				</dl>
-			
 		</header>
 		<div class="content">
 			<a ng-href="">
@@ -1426,12 +1728,17 @@ form.search ol.facet_listing li {
 			<div class="size ng-hide" ng-show="quickShop.contents.sizeWrapper">
 				<div class="guide">
 					<a ng-href="" target="_blank" class="ng-binding">
-						 guide
-					</a>
+                        
+                            
+                            
+                                 guide
+                            
+                        
+                    </a>
 					
 						
 						
-							<h3 class="ng-binding">Select </h3>
+							<h3 class="ng-binding">Select  </h3>
 						
 					
 				</div>
@@ -1442,24 +1749,36 @@ form.search ol.facet_listing li {
 			<div class="width ng-hide" ng-show="quickShop.contents.widthWrapper">
 				<div class="guide">
 					<a ng-href="" target="_blank" class="ng-binding">
-						 guide
+                        
+                            
+                            
+                            
+                                 guide
+                            
+                        
 					</a>
 					
 						
 						
-							<h3 class="ng-binding">Select </h3>
+							<h3 class="ng-binding">Select  </h3>
 						
 					
 				</div>
 				<!-- ngRepeat: width in quickShop.contents.widthWrapper.widths -->
 				<div class="guide">
 					<a ng-href="" target="_blank" class="ng-binding">
-						 guide
+                        
+                            
+                            
+                            
+                                 guide
+                            
+                        
 					</a>
 					
 						
 						
-							<h3 class="ng-binding">Select </h3>
+							<h3 class="ng-binding">Select  </h3>
 						
 					
 				</div>
@@ -1476,9 +1795,14 @@ form.search ol.facet_listing li {
 				<p class="message  ng-hide" ng-show="cart.contents.messages.itemAdd">
 					<span class="icon ng-binding">:</span>
 					<span>Added</span>
-					<a href="javascript:void(0);" class="panel_link panel_link_open ng-hide" ng-show="cart.contents.success" id="cart_panel_id">
-						View Basket
-					</a>
+
+					
+
+					
+						<a href="/cart/" class="panel_link_open ng-hide" ng-show="cart.contents.success">
+							View Basket
+						</a>
+						
 				</p>
 				<p class="message error ng-hide" ng-show="quickShop.contents.unselectedMsg">
 					<span class="icon">Error:</span>
@@ -1495,4 +1819,5 @@ form.search ol.facet_listing li {
 		<input type="hidden" id="screen_reader_refresh" name="screenReaderRefreshBuffer" value="">
 	</form>
 
-</body></html>
+
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1; display: none;"></ul></body></html>
