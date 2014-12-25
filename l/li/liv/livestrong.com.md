@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the livestrong.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627140052id_/http%3A//www.livestrong.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestrong.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225025946id_/http%3A//www.livestrong.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LIVESTRONG.COM
 
 Effective Date: May 10, 2010
-
-LIVESTRONG.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.livestrong.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact support@livestrong.com.If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url)
-
-TRUSTe will then serve as a liaison with us to resolve your concerns
 
 Your privacy is important to LIVESTRONG.COM ("LIVESTRONG.COM", "we" or "us"). This Privacy and Information Security Policy ("the Policy") discusses the personally identifiable information that we collect about you when you use our website [http://www.LIVESTRONG.COM](http://www.livestrong.com/) (the "Site") and the other services we provide on or through the Site (together with the Site, the "Service"). This Policy is part of and incorporated into the LIVESTRONG.COM Terms of Use (collectively, the "Terms").
 
