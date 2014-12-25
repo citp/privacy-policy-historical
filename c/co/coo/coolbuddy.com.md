@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbuddy.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209071830id_/http%3A//www.coolbuddy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbuddy.com privacy policy that was archived on 2014-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141225171531id_/http%3A//www.coolbuddy.com/privacy.htm) for the most accurate reproduction.*
 
 # CoolBuddy's Website Privacy Policy
 
@@ -32,6 +32,6 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 **Changes To This Policy**
 
-coolbuddy.com reserves the right to change, amend, or update this Privacy & Security Policy upon prior notice posted on this Site - http://www.coolbuddy.com. Continued use of this Site after such notification indicates your consent to use of your information in accordance with the changed, amended, or updated Privacy & Security Policy. If you do not agree with such changes, amendments or updates, you may remove your contact information from our database as by e-mailing feedback@coolbuddy.com 
+coolbuddy.com reserves the right to change, amend, or update this Privacy & Security Policy upon prior notice posted on this Site - http://coolbuddy.com. Continued use of this Site after such notification indicates your consent to use of your information in accordance with the changed, amended, or updated Privacy & Security Policy. If you do not agree with such changes, amendments or updates, you may remove your contact information from our database as by e-mailing feedback@coolbuddy.com 
 
 | 
