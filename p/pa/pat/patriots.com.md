@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630031846id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226062604id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Official Website of the New England Patriots | Privacy Policy
 
@@ -16,20 +16,20 @@ When this privacy policy uses the term "personally identifiable information" or 
 
 Please read the information below to learn more about our data collection policies and practices.
 
-  1. Types Of Information That May Be Collected 
-  2. How Information May Be Collected 
-  3. How We Use The Information Collected
-  4. With Whom The Information May Be Shared
-  5. Chat Rooms, Forums, And Message Boards
-  6. Links To Other Websites 
-  7. Security 
-  8. A Special Note For Parents Concerning Privacy 
-  9. Your Acceptance Of The Privacy Policy and Notification Of Changes 
-  10. Correcting/Updating Personal Information 
-  11. Data Retention 
-  12. TRUSTe Privacy Program 
-  13. Your California Privacy Rights
-  14. Questions about This Privacy Policy
+  1. [Types Of Information That May Be Collected ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#types)
+  2. [How Information May Be Collected ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#howcollected)
+  3. [How We Use The Information Collected](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#howused)
+  4. [With Whom The Information May Be Shared](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#sharedinfo)
+  5. [Chat Rooms, Forums, And Message Boards](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#chat)
+  6. [Links To Other Websites ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#links)
+  7. [Security ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#security)
+  8. [A Special Note For Parents Concerning Privacy ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#parents)
+  9. [Your Acceptance Of The Privacy Policy and Notification Of Changes ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#acceptance)
+  10. [Correcting/Updating Personal Information ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#updating)
+  11. [Data Retention ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#DR)
+  12. [TRUSTe Privacy Program ](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#TRUSTe)
+  13. [Your California Privacy Rights](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#california)
+  14. [Questions about This Privacy Policy](https://web.archive.org/iw-cc/command/iw.livesite.edit_dcr#questions)
 
 
 
@@ -84,7 +84,8 @@ As with many Websites, our Website uses a technology called "cookies." A cookie 
 If you would like to manage the cookies set or accessed on your computer by third parties, including our business partners (e.g., advertisers) you must visit their respective website(s).  In addition to those business partners whose cookies we cannot access or control, the Site permits the following entity to place cookies on the Site:     
 Reach Local [www.reachlocal.com](http://www.reachlocal.com/)  
 ShopSocially [www.shopsocially.com](http://www.shopsocially.com/)  
-DataPoint Media <http://dpmsrv.com/opt-out>
+DataPoint Media <http://dpmsrv.com/opt-out>  
+Ticketmaster [www.ticketmaster.com/h/ad-choices.html?tm_link=tm_homeA_i_adchoices](http://www.ticketmaster.com/h/ad-choices.html?tm_link=tm_homeA_i_adchoices)
 
 ###### _Clear Gifs (Web Beacons/Web Bugs)_
 
@@ -210,4 +211,4 @@ If you have any questions about this privacy policy or the privacy practices of 
 
 [](http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.patriots.com/seal_m "TRUSTe European Safe Harbor certification")
 
-_Last Updated on March 14, 2014_
+_Last Updated on August 20, 2014_
