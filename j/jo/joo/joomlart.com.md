@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlart.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621041310id_/http%3A//www.joomlart.com/joomlart/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlart.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226103232id_/http%3A//www.joomlart.com/joomlart/privacy) for the most accurate reproduction.*
 
 # Privacy | JoomlArt
 
@@ -53,7 +53,7 @@ Except as described below, JoomlArt will only disclose your personally identifia
 
 All information gathered on the Site is stored and maintained in secure facilities. In addition, internal security provides that this information is coded with restricted access, and our servers are kept in a secure, locked environment that limits access to authorized personnel only. All JoomlArt employees, and all external service providers who may process and/or store customer data, are briefed about the company's privacy and security policies on a regular basis. The Site is regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. Any service providers with whom JoomlArt contracts, and who receive, store, or process personally identifiable customer data, have committed to abide by the provisions of this privacy policy. All transmissions of personally identifiable customer data are encrypted and secure.
 
-If you have any questions about the security at our Site, you can send an email toThis email address is being protected from spambots. You need JavaScript enabled to view it..
+If you have any questions about the security at our Site, you can send an email to privacy@joomlart.com.
 
 Please note that this email address will reject messages with attachments of any kind.
 
@@ -64,6 +64,6 @@ You are free to update your information at any time directly through our Site. A
 To change your information, or request that your information be changed, please use one of the following options:
 
   * Log in at [http://www.joomlart.com](http://www.joomlart.com/ "JoomlArt") and click on "Your Details" link
-  * Send email to us atThis email address is being protected from spambots. You need JavaScript enabled to view it.. Please note that this email address will reject messages with attachments of any kind.
+  * Send email to us at privacy@joomlart.com. Please note that this email address will reject messages with attachments of any kind.
 
 
