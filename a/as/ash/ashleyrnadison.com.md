@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194127id_/http%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyrnadison.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226055618id_/http%3A//www.ashleyrnadison.com/app/public/privacy.p%3Fc%3D1) for the most accurate reproduction.*
 
 # Ashley Madison® | Privacy Policy | Life is Short. Have an Affair.®
 
