@@ -1,557 +1,212 @@
-<!--The following is the downloaded HTML source of the fooddemocracynow.org privacy policy that was archived on 2014-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140519010133id_/http%3A//www.fooddemocracynow.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fooddemocracynow.org privacy policy that was archived on 2014-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226190210id_/http%3A//www.fooddemocracynow.org/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta name="viewport" content="width=device-width">
-    <link rel="icon" href="http://fooddemocracynow.org/static/images/favicon.ico">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Food Democracy Now</title>
-    <link href="/static/css/fdn.css" rel="stylesheet" type="text/css">
-    <link rel="alternate" type="application/rss+xml" title="Food Democracy Now! RSS Feed" href="http://fooddemocracynow.org/feeds/blog/">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.7/jquery.validate.min.js"></script>
-    <script type="text/javascript" src="/static/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="/static/js/fdn.js"></script>
-
-    <meta property="og:image" content="https://s3.amazonaws.com/media.fooddemocracynow.org/images/FB_Food_Democracy_Now_NEW.png">
-
-   <!-- <link rel="stylesheet" href="/static/css/jquery.tweet.css" type="text/css" media="screen"> -->
-    <script language="javascript" src="/static/js/jquery.tweet.js" type="text/javascript"></script>
-    <!-- <script language="javascript" src="http://fightbigfood.org/static/js/jquery.tweet.js" type="text/javascript"></script> -->
-
-    <script>
-      $(document).ready(function(){
-								
-        $("#signInFormID input[type=text]").click(function() { 
-                    $("#zip_signin_new").css("border","0px solid #cc0000");
-                    $("#name_signin_new").css("border","0px solid #cc0000");
-                    $("#email_signin_new").css("border","0px solid #cc0000");
-                    
-                    // clear the error values
-					
-                    if ( $("#zip_signin_new").val() == "Invalid Zip" ) {
-                        $("#zip_signin_new").val( $("#zip_signin_new").is(":focus")?"": "Zip");
-                    }
-                    // clear the error values
-                    if ( $("#name_signin_new").val() == "Enter Name" ) {
-                        $("#name_signin_new").val( $("#name_signin_new").is(":focus")?"": "Name");
-                    }
-                    // clear the error values
-                    if ( $("#email_signin_new").val() == "Invalid Email" ) {
-                        $("#email_signin_new").val( $("#email_signin_new").is(":focus")?"":"Email");
-                    }                  
-                                    
-        });
-
-$("img.rollover").each(function(i,e) {
-  $(this).hover( function() { this.src = this.src.replace(".gif","o.gif"); }, function() { this.src = this.src.replace("o.gif",".gif"); } );
-});
-
-
-jQuery.validator.addMethod("defaultInvalid", function(value, element) 
-    {
-     switch (element.value) 
-     {
-        case "Zip":
-         if (element.name == "zip") return false;
-       break;
-       case "Name":
-         if (element.name == "name") return false;
-       break;
-	   
-
-
-       default: 
-	   return true; 
-       break;
-
-     }
-    });
-								
-        $("#signInFormID").validate({ 
-            rules: 	{
-			 name: "required defaultInvalid",
-			 zip: "required defaultInvalid"
-			 
-			},
-			messages: { 
-    	        email: "Invalid Email",
-                name: "Enter Name",
-                zip: "Invalid Zip" 
-    	    } 
-            , onkeyup: false
-            , onfocusout: false
-            
-            // the errorPlacement has to take the table layout into account 
-            , errorPlacement: function(error, element) { 
-                if ( element.attr("name") == 'zip' ) {
-                    $("#zip_signin_new").val( 'Invalid Zip' );
-                    $("#zip_signin_new").css("border","1px solid #cc0000");
-                } 
-    
-                if ( element.attr("name") == 'name' ) {
-                    $("#name_signin_new").val( 'Enter Name' );
-                    $("#name_signin_new").css("border","1px solid #cc0000");
-                } 
-    
-                if ( element.attr("name") == 'email' ) {
-                    $("#email_signin_new").val( 'Invalid Email' );
-                    $("#email_signin_new").css("border","1px solid #cc0000");
-                }             
-            }      
-        });      
-      });
-    </script>
-
-<script language="javascript" src="/static/js/matching_columns.js"></script>
-
-
+<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+  <meta charset="utf-8">
+<meta content="ie=edge, chrome=1" http-equiv="x-ua-compatible"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
+<meta http-equiv="ImageToolbar" content="false">
+<meta name="viewport" content="width=device-width">
+<link rel="shortlink" href="/node/489">
+<meta name="Generator" content="Drupal 7 (http://drupal.org)">
+<link rel="canonical" href="/privacy">
+<link rel="shortcut icon" href="http://www.fooddemocracynow.org/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon">
+  <title>Privacy | Food Democracy Now</title>
+  <link type="text/css" rel="stylesheet" href="http://www.fooddemocracynow.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.fooddemocracynow.org/sites/default/files/css/css_NfewgAUOxLF1LalcB_JBtAi2sGWJsHefRgGuassQbqQ.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.fooddemocracynow.org/sites/default/files/css/css_g_UneL04I_By-JV5ryZJJWsDW1p5XeBj7jW6RhipZ48.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.fooddemocracynow.org/sites/default/files/css/css_BK7_x4ZsebcahucSv9u-lG5mel8IncjDUT8LqzCujEU.css" media="all">
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-18353732-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script><script src="/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.fooddemocracynow.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://www.fooddemocracynow.org/misc/drupal.js?ngqrpc"></script>
+<script type="text/javascript" src="http://www.fooddemocracynow.org/sites/all/modules/google_analytics/googleanalytics.js?ngqrpc"></script>
 <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-24668318-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-39702191-1", "auto");ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
 </script>
-
+<script type="text/javascript" src="http://www.fooddemocracynow.org/sites/all/themes/zurb-foundation/js/modernizr.foundation.js?ngqrpc"></script>
+<script type="text/javascript" src="http://www.fooddemocracynow.org/sites/all/themes/food_democracy_now/js/foundation.min.js?ngqrpc"></script>
+<script type="text/javascript" src="http://www.fooddemocracynow.org/sites/all/themes/zurb-foundation/js/app.js?ngqrpc"></script>
+<script type="text/javascript" src="http://www.fooddemocracynow.org/sites/all/themes/food_democracy_now/js/scripts.js?ngqrpc"></script>
+<script type="text/javascript" src="http://www.fooddemocracynow.org/sites/all/themes/food_democracy_now/js/jtweetsanywhere.min.js?ngqrpc"></script>
+<script type="text/javascript" src="http://www.fooddemocracynow.org/sites/all/themes/food_democracy_now/js/validate.min.js?ngqrpc"></script>
 <script type="text/javascript">
-  // Richir Outreach Tracking Code 5/14/2013 muriel@richiroutreach.com
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-39702191-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"food_democracy_now","theme_token":"-goFzN2J_-NCwm9QzigeHqgcQXh6DDpRTi66Sgn3rig","js":{"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/zurb-foundation\/js\/modernizr.foundation.js":1,"sites\/all\/themes\/food_democracy_now\/js\/foundation.min.js":1,"sites\/all\/themes\/zurb-foundation\/js\/app.js":1,"sites\/all\/themes\/food_democracy_now\/js\/scripts.js":1,"sites\/all\/themes\/food_democracy_now\/js\/jtweetsanywhere.min.js":1,"sites\/all\/themes\/food_democracy_now\/js\/validate.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/themes\/zurb-foundation\/css\/foundation.min.css":1,"sites\/all\/themes\/zurb-foundation\/css\/drupal.css":1,"sites\/all\/themes\/zurb-foundation\/css\/app.css":1,"sites\/all\/themes\/food_democracy_now\/css\/fdn-foundation.min.css":1,"sites\/all\/themes\/food_democracy_now\/css\/custom.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
 </script>
-
-<style>
-.new_form { width:450px; height:123px; float:right; background-image:url(/static/images/form-bkgd.png); background-repeat:no-repeat; padding:0; }
-
-
-.new_form .fields {
-	 width:200px;   margin-top:45px; margin-left:115px;
-}
-#signInFormID input {
- margin-bottom:5px; width:200px;
-}
-#signInFormID input#zip_signin_new {
-	width:70px; margin-top:2px;
-}
-#state {float:right;width:125px;}
-.sb{ position:relative; top:-65px; left:320px; width:98px; height:55px; }
-</style>
-<link rel="stylesheet" href="/static/css/rostyles.css" type="text/css" media="screen">
-<script>
-$(function() {
-    $("#signup_submit")
-        .mouseover(function() { 
-            var src = $(this).attr("src").match(/[^\.]+/) + "over.png";
-            $(this).attr("src", src);
-        })
-        .mouseout(function() {
-            var src = $(this).attr("src").replace("over", "");
-            $(this).attr("src", src);
-        });
-		
-		$('.focusable').focus(function() {
-                if (this.value == this.defaultValue ){
-                    this.value = '';
-                }
-                if(this.value != this.defaultValue) {
-                    this.select();
-                }
-            });
-
-        $('.focusable').blur(function() {
-                if (this.value == '') {
-                    this.value = (this.defaultValue ? this.defaultValue : '');
-                }
-            });
-
-});
-
-</script>
-<script language="javascript" src="/static/js/jquery.fancybox.js"></script>
-
-<link rel="stylesheet" type="text/css" href="/static/css/jquery.fancybox.css?v=2.1.4" media="screen">
-
-<script type="text/javascript">
-    $(document).ready(function() {
-      /*
-       *  Simple image gallery. Uses default settings
-       */
-
-      $('.fancybox').fancybox();
-
-      /*
-       *  Different effects
-       */
-
-      // Change title type, overlay closing speed
-      $(".fancybox-effects-a").fancybox({
-        helpers: {
-          title : {
-            type : 'outside'
-          },
-          overlay : {
-            speedOut : 0
-          }
-        }
-      });
-
-      // Disable opening and closing animations, change title type
-      $(".fancybox-effects-b").fancybox({
-        openEffect  : 'none',
-        closeEffect : 'none',
-
-        helpers : {
-          title : {
-            type : 'over'
-          }
-        }
-      });
-
-      // Set custom style, close if clicked, change title type and overlay color
-      $(".fancybox-effects-c").fancybox({
-        wrapCSS    : 'fancybox-custom',
-        closeClick : true,
-
-        openEffect : 'none',
-
-        helpers : {
-          title : {
-            type : 'inside'
-          },
-          overlay : {
-            css : {
-              'background' : 'rgba(238,238,238,0.85)'
-            }
-          }
-        }
-      });
-
-      // Remove padding, set opening and closing animations, close if clicked and disable overlay
-      $(".fancybox-effects-d").fancybox({
-        padding: 0,
-
-        openEffect : 'elastic',
-        openSpeed  : 150,
-
-        closeEffect : 'elastic',
-        closeSpeed  : 150,
-
-        closeClick : true,
-
-        helpers : {
-          overlay : null
-        }
-      });
-
-      /*
-       *  Button helper. Disable animations, hide close button, change title type and content
-       */
-
-      $('.fancybox-buttons').fancybox({
-        openEffect  : 'none',
-        closeEffect : 'none',
-
-        prevEffect : 'none',
-        nextEffect : 'none',
-
-        closeBtn  : false,
-
-        helpers : {
-          title : {
-            type : 'inside'
-          },
-          buttons : {}
-        },
-
-        afterLoad : function() {
-          this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
-        }
-      });
-
-
-      /*
-       *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
-       */
-
-      $('.fancybox-thumbs').fancybox({
-        prevEffect : 'none',
-        nextEffect : 'none',
-
-        closeBtn  : false,
-        arrows    : false,
-        nextClick : true,
-
-        helpers : {
-          thumbs : {
-            width  : 50,
-            height : 50
-          }
-        }
-      });
-
-      /*
-       *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
-      */
-      $('.fancybox-media')
-        .attr('rel', 'media-gallery')
-        .fancybox({
-          openEffect : 'none',
-          closeEffect : 'none',
-          prevEffect : 'none',
-          nextEffect : 'none',
-
-          arrows : false,
-          helpers : {
-            media : {},
-            buttons : {}
-          }
-        });
-
-      /*
-       *  Open manually
-       */
-
-      $("#fancybox-manual-a").click(function() {
-        $.fancybox.open('1_b.jpg');
-      });
-
-      $("#fancybox-manual-b").click(function() {
-        $.fancybox.open({
-          href : 'iframe.html',
-          type : 'iframe',
-          padding : 5
-        });
-      });
-
-      $("#fancybox-manual-c").click(function() {
-        $.fancybox.open([
-          {
-            href : '1_b.jpg',
-            title : 'My title'
-          }, {
-            href : '2_b.jpg',
-            title : '2nd title'
-          }, {
-            href : '3_b.jpg'
-          }
-        ], {
-          helpers : {
-            thumbs : {
-              width: 75,
-              height: 50
-            }
-          }
-        });
-      });
-
-
-    });
-  </script>
-  <style type="text/css">
-    .fancybox-custom .fancybox-skin {
-      box-shadow: 0 0 50px #222;
-    }
-  </style>
-  
-  
-  <script type="text/javascript">
-  $(document).ready(function() {
-    $(".fancybox").fancybox();
-      });
-      
-
-function fancyBoxCookie() {
-  var checkCookie = $.cookie('fdn_splash_04_2013');
-  if(checkCookie == null) {
-    $.cookie('fdn_splash_04_2013', 'Food Democracy Now', { path: '/' });
-    openFancybox();  
-  }
-}
-    
-      
-function openFancybox() {
-
-  $.fancybox({
-     'autoScale': true,
-     'transitionIn': 'elastic',
-     'transitionOut': 'elastic',
-     'speedIn': 100,
-     'speedOut': 200,
-     'autoDimensions': true,
-     'centerOnScroll': true,
-     'href' : '#inline1',
-        helpers:
-          {
-            overlay:
-              {
-                css: { 'background': 'rgba(0, 0, 0, 0.8)' }
-              }
-          }
-
-  });
-}
-</script>
-
-<style type="text/css">
-div#fancy_outer {
-    position: absolute;
-    top: 0;
-    left: 0;
-    padding: 20px 20px 40px 20px;
-    margin: 0;
-    padding:0;
-    background: transparent;
-    display: none;
-}
-
-.fancybox-skin {
- background-color: #fff; /* or whatever */
-}
-
-</style>
+  <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
 </head>
-<!--
-<body onload="fancyBoxCookie();">
--->
-<body>
-<div id="inline1" style="width:950px;display: none;"><a href="https://fdn.actionkit.com/cms/donate/donate/"><img src="/static/images/splash.png" width="950" height="632"></a></div>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-489 node-type-page section-privacy" style="">
+  <div class="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="row">
+  <div class="twelve columns site-header">
+          <div class="right">
+            
+  <div class="block block-block block-block-10">
+    
+    
+        
+      <div class="join-us-form" id="signup-form">
+  <form action="http://action.fooddemocracynow.org/act/" name="act" method="POST" class="action_form" accept-charset="utf-8" id="signup-form-form">
+    <div class="fields">
+      <div class="field">
+        <label for="id_name">Name</label>
+        <input type="text" name="name" id="id_name" placeholder="John Doe" data-label="Name" class="required name">
+      </div> <!-- .field -->
+      <div class="field">
+        <label for="id_email">Email address</label>
+        <input type="email" name="email" id="id_email" placeholder="john@example.com" data-label="Email address" class="required email">
+      </div> <!-- .field -->
+      <div class="field">
+        <label for="id_zip">ZIP Code</label>
+        <input type="text" name="zip" id="id_zip" placeholder="55555" data-label="ZIP Code" class="required zip">
+      </div> <!-- .field -->
+     </div> <!-- .fields -->
+    <input type="hidden" name="country" value="United States">
+    <input type="hidden" name="page" value="pan_drup_header">
+    <div class="submit-field">
+      <input type="image" id="signup_submit" src="/sites/all/themes/food_democracy_now/images/submit-btn.png" alt="Submit" width="98" height="54">
+    </div> <!-- .submit-field -->
+  </form> <!-- .action_form -->
+</div> <!-- #signup-form -->
 
-<div id="container">
-    <div id="content">
-      <div id="content_inner">
-<div id="header" style="position:relative;">
-<a href="/" style="background-color:transparent; text-indent:-999em; position:absolute; width:310px; height:122px; display:block; left:0; top:0;">Food Democracy Now!</a>
-<div class="new_form">
-<form action="/sign_up/" id="signInFormID" name="signinform" method="POST">
-<div style="width:100%; float:left">
-<div class="fields">
-<input type="text" name="name" value="Name" id="name_signin_new" class="required focusable"><br>
-<input type="text" name="email" value="Email" id="email_signin_new" class="required email focusable"><br>
-<input type="text" name="zip" value="Zip" id="zip_signin_new" class="required focusable">
+<script type="text/javascript">
+  // add some extra classes to validate some stuff
+  jQuery.validator.addClassRules({
+    name: {
+      required: true,
+      minlength: 2
+    },
+    zip: {
+      required: true,
+      digits: true,
+      minlength: 5,
+      maxlength: 5
+    }
+  });
 
-</div>
-<div class="sb">
-<input type="image" id="signup_submit" style="width:98px; height:54px" src="/static/images/submit-btn.png" class="" width="98" height="54">
-</div>
-</div>
-</form>
-</div>
-</div>  <!-- /header -->
+  // do some stuff on load
+  (function ($, Drupal, window, document, undefined) {
+    // validate the crap out of our form
+    $('#signup-form-form').validate();
 
-<div id="menu" style="z-index:1; position:relative;">
-<ul>
- <li><a href="/campaigns">CAMPAIGNS</a></li> 
- <li><a href="/blog">BLOG</a></li>
- <li><a href="/press">PRESS</a></li>
- <li><a href="/about">ABOUT</a></li>
- <li><a href="https://fdn.actionkit.com/donate/tshirtdonate/">SHIRTS</a></li>
- <li style="display:none;"><a href="/gmo-labeling"><img class="rollover" src="/static/uploads/but_7.gif"></a></li>
- <li><a href="/farmers-vs-monsanto">FARMERS VS MONSANTO</a></li>
- <li><a class="donate" href="https://fdn.actionkit.com/cms/donate/donate/">DONATE</a></li>
-</ul>
-<a class="feed" href="/feeds/blog/"><img alt="rss feed" src="/static/images/rssicon.png" style="margin-top:10px; margin-left: 45px;"></a>
-        </div>  <!-- /menu -->
+    // input "labels"
+    $('.fields .field input').each(function() {
+      var originalValue = $(this).val(); // store the original value
+      $(this).val($(this).attr('data-label')); // set the value to the data-label attribute
 
-        <!-- splash slidedown (2012-12-28) -->
-        <!-- <div class="splash" style="display:none;" id="splash-slide">
-          <a class="dismiss" style="display:none;" href="#">&#10006;</a>
-          <div class="photo"><img src="/static/images/happy-holidays.jpg"></div>
-          <div class="message">
-            <h2 class="headline">Happy Holidays!</h2>
-            <p class="tagline">Join us today, because together we're making change happen!</p>
-            <p>In the past 4 years, with your help, Food Democracy Now! members have:</p>
-            <ul>
-              <li>Taken more than 2.5 million actions to help reform our broken food system!</li>
-              <li>Made more than 200,000 phone calls to Congress, the White House, and concerned citizens to stand up for family farmers and the environment.</li>
-              <li>Marched with farmers in New York City, San Francisco, and in front of the White House to support labeling of GMOs!</li>
-            </ul>
-            <p><a href="https://fdn.actionkit.com/donate/with_your_help/" class="call-to-action">Join Us!</a></p>
-          </div>
-          <div style="clear:both;"></div>
-        </div> -->
+      $(this).focus(function() { // when we focus...
+        var value = $(this).val();
+        if (value === $(this).attr('data-label')) { // if the value is the same as the data-label attribute...
+          $(this).val(''); // remove the value
+        }
+      });
 
-        <div id="article">
-          
-	<!-- main left content area -->
-	<div id="float_left">
-	         <img src="/static/images/FDN_FINAL_privacy_010810_05.png" alt="" style="margin-left:25px;">
+      $(this).focusout(function() { // when we lose focus...
+        var value = $(this).val(); // store the current value
+        if (value === '') { // if the value is empty...
+          $(this).val($(this).attr('data-label')); // set the value to the data-label attribute
+        }
+      });
+    });
+    // submit hover
+    $('#signup_submit').hover(function() { // when we hover...
+      var hoverImage = '/sites/all/themes/food_democracy_now/images/submit-btn-hover.png';
+      $(this).attr('src', hoverImage); // update the image src
+    }, function() { // when we move away...
+      var regularImage = '/sites/all/themes/food_democracy_now/images/submit-btn.png';
+      $(this).attr('src', regularImage); // update the image src
+    });
+  })(jQuery, Drupal, this, this.document);
+</script>  
+</div>      </div> <!-- .right -->
+        <h1 id="site-name"><a href="/" rel="home" title="Food Democracy Now Home">Food Democracy Now</a></h1>
+  </div> <!-- .site-header -->
+  </div> <!-- .row -->
 
-                 
-                 <div id="about_a">
-                        <span class="campaign_text"> 
-                            <!--
-<p>We do not share the information you've  given us with unaffiliated groups without your explicit permission. For  petitions, letters to the editor, and surveys you've signed or  completed, we treat your name, city, state, and comments as public  information.</p>
-<p>&nbsp;</p>
-<p>We will not make your street address publicly available,  but we may transmit it to members of Congress, the President, or other  targets specifically noted on the signup page. We will also use your first name to indicate the latest actions taken on our site, which you can view <a href="../../../../campaigns/" _mce_href="../../../../campaigns/" target="_self">here</a>.</p>
-<p>&nbsp;</p>
-<p>We will send you updates  on this and other important campaigns by email. If at any time you  would like to unsubscribe from our email list, you may do so.&nbsp;</p>
--->
-<p><strong>How personal information is collected, used, and shared</strong><br><br>We  do not share the information you've given us with unaffiliated groups  without your explicit permission. For petitions, letters to the editor,  and surveys you've signed or completed, we treat your name, city, state,  and comments as public information. We will collect personal  identification information from you only if you voluntarily submit such  information to us. Users can always refuse to supply personally  identification information, except that it may prevent you from engaging  in certain Site related activities.<br><br>We will not make your street  address publicly available, but we may transmit it to members of  Congress, the President, or other targets specifically noted on the  signup page. We will also use your first name to indicate the latest  actions taken on our site, which you can <a href="http://www.fooddemocracynow.org/campaigns/" target="_blank">view here</a>.<br><br><strong>How we protect your information</strong><br><br>We  adopt appropriate data collection, storage and processing practices and  security measures to protect against unauthorized access, alteration,  disclosure or destruction of your personal information, username,  password, transaction information and data stored on our Site.<br><br><strong>Changes to this privacy policy</strong><br><br>Food  Democracy Now has the discretion to update this privacy policy at any  time. When we do, we will revise the updated date at the bottom of this  page.You acknowledge and agree that it is your responsibility to review  this privacy policy periodically and become aware of modifications.<br><br>We  will send you updates on this and other important campaigns by email.  If at any time you would like to unsubscribe from our email list, you  may do so. <br><br>If you would like to unsubscribe from receiving messages, please <a href="http://action.fooddemocracynow.org/cms/unsubscribe/unsubscribe/" target="_blank">click here</a>.<br><br><strong>Contact Us</strong><br><br>If  you have any questions about this Privacy Policy, the practices of this  site, or your dealings with this site, please contact us at:<br>Food Democracy Now<br><a href="http://www.fooddemocracynow.org" target="_blank">http://www.fooddemocracynow.org</a><br><a href="mailto:info@fooddemocracynow.org" target="_blank" title="Contact Us">info@fooddemocracynow.org</a><br><br><em><span style="font-size: xx-small;">This document was last updated on March 7, 2013 </span></em></p>
-    </span>
+
+  <div class="row">
+    <nav id="menu-top" class="twelve columns">
+              <ul class="nav-bar"><li class="first leaf"><a href="/campaigns">Campaigns</a></li><li class="leaf"><a href="/blog">Blog</a></li><li class="leaf"><a href="/press">Press</a></li><li class="leaf"><a href="/about">About</a></li><li class="leaf"><a href="https://fdn.actionkit.com/donate/tshirtdonate/">Shirts</a></li><li class="leaf"><a href="/farmers-vs-monsanto">Farmers VS Monsanto</a></li><li class="leaf"><a href="https://fdn.actionkit.com/cms/donate/donate/">Donate</a></li><li class="leaf"><a href="https://www.facebook.com/FoodDemocracyNow">Facebook</a></li><li class="leaf"><a href="https://twitter.com/food_democracy">Twitter</a></li><li class="last leaf"><a href="/feeds/blog">RSS</a></li></ul>          </nav>
+  </div>
+
+<div class="row">
+  <div class="twelve columns">
+    <h2 class="element-invisible">You are here</h2><ul class="breadcrumbs"><li><a href="/">Home</a></li><li class="current"><a href="#">Privacy</a></li></ul>        <a id="main-content"></a>
+                <h1 id="page-title" class="title">Privacy</h1>
+                </div>
+</div> <!-- .row -->
+<div class="row">
+  <div id="main" class="twelve columns">
+        
                         
-                 </div>
-	        
-	</div>	
-	<!-- end left main content area -->
-		    
-        </div>  <!-- /article -->
+    
+          
+    
+        
+      <article id="node-489" class="node node-page node-promoted view-mode-full" about="/privacy" typeof="sioc:Item foaf:Document">
+      <span property="dc:title" content="Privacy" class="rdf-meta element-hidden"></span>
+      <div class="body field"><img src="/sites/all/themes/food_democracy_now/images/privacy-title.png" alt="Privacy Policy">
 
-        <div style="clear:both"></div>
+<h3>How personal information is collected, used, and shared</h3>
 
-        <div id="footer">
-        <div id="footer_text">
+<p>We do not share the information you've given us with unaffiliated groups without your explicit permission. For petitions, letters to the editor, and surveys you've signed or completed, we treat your name, city, state, and comments as public information. We will collect personal identification information from you only if you voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent you from engaging in certain Site related activities.</p>
 
-            <div id="privacy">
-            <a href="/privacy/">Privacy Policy</a> | <a href="/contact/">Contact</a>
-                </div>  <!-- /privacy -->
+<p>We will not make your street address publicly available, but we may transmit it to members of Congress, the President, or other targets specifically noted on the signup page. We will also use your first name to indicate the latest actions taken on our site, which you can <a href="/campaigns">view here</a>.</p>
 
-            <div id="copyright">
-            <a href="#">(c) 2012 Food Democracy Now! All rights reserved</a>
-                        </div>  <!-- /copyright -->
+<h3>How we protect your information</h3>
 
-        </div>  <!-- /footer_text -->
-        </div>  <!-- /footer -->
-        </div> <!-- /content_inner -->
-    </div>  <!-- /content -->
+<p>We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.</p>
 
-    <div style="clear:both"></div>
+<h3>Changes to this privacy policy</h3>
 
-    <div id="bottom_round_corners">
-    </div>  <!-- end of bottom_round_corners -->
- 
-</div>  <!-- /container -->
+<p>Food Democracy Now has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page.You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
 
-<!--[if lt IE 7]>
-<script type="text/javascript" src="/static/js/ie6/ie6notice.js"></script>
-<![endif]-->
+<p>We will send you updates on this and other important campaigns by email. If at any time you would like to unsubscribe from our email list, you may do so. </p>
 
+<p>If you would like to unsubscribe from receiving messages, please <a href="http://action.fooddemocracynow.org/cms/unsubscribe/unsubscribe/">click here</a>.</p>
 
+<h3>Contact Us</h3>
 
+<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:<br>
+Food Democracy Now<br>
+<a href="http://www.fooddemocracynow.org/">http://www.fooddemocracynow.org/</a><br>
+<a href="mailto:info@fooddemocracynow.org">info@fooddemocracynow.org</a></p>
 
-</body></html>
+<p><small>This document was last updated on March 7, 2013.</small></p></div>                      
+</article>
+  
+  </div>
+    </div>
+
+  <div class="row bottom-bar">
+    <div class="twelve columns">
+      <div class="left text-left">
+        © 2014 Food Democracy Now |
+        <a href="/privacy" title="Privacy Policy">Privacy Policy</a> |
+        <a href="/contact-us" title="Contact Us">Contact Us</a>
+      </div> <!-- .left -->
+      <div class="right text-right">
+                  <a href="/user" title="Log In">Log In</a> | 
+                <p>Created by <a target="_blank" href="http://www.richiroutreach.com/" title="Development for people-powered movements" rel="nofollow">Richir Outreach</a></p>
+      </div> <!-- .right -->
+    </div> <!-- .twelve.columns -->
+  </div> <!-- .row -->  
+    <script>
+    (function ($, Drupal, window, document, undefined) {
+      $(document).foundation();
+    })(jQuery, Drupal, this, this.document);
+  </script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"ab1dca7600","applicationID":"9754273","transactionName":"Y1ZQMkoCXxBYBRANWVoccwVMCl4NFggLAFNrQ1MBXTxHClwR","queueTime":0,"applicationTime":65,"ttGuid":"","agentToken":"","atts":"TxFTRAIYTB4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
