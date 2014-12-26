@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightlocal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626174506id_/http%3A//www.brightlocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightlocal.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226070200id_/http%3A//www.brightlocal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BrightLocal Respect Your Privacy | BrightLocal
 
@@ -6,7 +6,7 @@
 
 BrightLocal (“Company”, “BrightLocal” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
 
-The BrightLocal service (“Service”) is organized primarily to provide businesses and individuals access to a rich collection of resources related to search engine optimization and inbound marketing, including without limitation search engine optimization tools, link analysis tools, downloadable toolbars, application program interfaces (“APIs”), site profile services, search analytics, blogs, user-generated-content, personalized content and industry surveys and opinion polls. The Service includes the website at www.brightlocal.com (“Site”). 
+The BrightLocal service (“Service”) is organized primarily to provide businesses and individuals access to a rich collection of resources related to search engine optimization and inbound marketing, including without limitation search engine optimization tools, link analysis tools, downloadable toolbars, application program interfaces (“APIs”), site profile services, search analytics, blogs, user-generated-content, personalized content and industry surveys and opinion polls. The Service includes the website at www.brightlocal.com (“Site”).
 
 This policy describes the types of information we may collect from you or that you may provide when you visit our Site or use our Service, and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
@@ -52,7 +52,9 @@ Our Site is not intended for people under 18 years of age. No one under age 18 m
   * Information that you provide by filling in forms on our Site. This includes without limitation information provided at the time of subscribing to the Service, and when you report a problem with our Site.
   * Records and copies of your correspondence (including e-mail addresses), if you contact us by email, customer support ticket, customer support chat service, customer support online forum)
   * Your responses to surveys that we might ask you to complete for research purposes.
-  * Details of transactions you carry out through our Site and of the fulfillment of your orders. We do not store any financial data on our servers and all transactions are conducted via PayPal over secure https connection. PayPal handles all payment details and takes 100% of responsibility for handling your transaction data.
+  * Details of transactions you carry out through our Site and of the fulfilment of your orders. We do not store any financial data on our servers. 
+    * Credit Card Transactions – these are handled exclusively via our Payment Gateway partner ‘Braintree Payments’. All payment related data is transferred in secure, encrypted fashion and is stored with 256-bit encryption by Braintree. . Braintree Payments takes 100% of responsibility for handling your all Credit Card Transaction data
+    * PayPal Transactions – these are conducted via PayPal over secure https connection. PayPal takes 100% of responsibility for handling your PayPal payment data.
   * Your search queries on the Site.
   * Information you enter into our Site about your marketing activities so that we can provide Service to you.
 
@@ -68,13 +70,13 @@ To learn more about cookies and how to manage them, visit [AboutCookies.org](ht
 
 #### How we use cookies
 
- **a) Google Analytics**
+**a) Google Analytics**
 
 We use Google Analytics to collect information about how people use this site. We do this to help us to better understand what site visitors are interested in. This enables us to continually improve the service we provide.
 
 Google Analytics stores information about what pages you visit, how long you spend looking at the site, how you got here and what you click on. We do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are. You can opt out of Google Analytics cookies by [visiting this page](https://tools.google.com/dlpage/gaoptout) on Google.
 
- **b) Login**   **to BrightLocal**
+**b) Login**   **to BrightLocal**
 
 We also use cookies to keep track of your login status when using our SEO Tools service. Without these you wouldn’t be able to login to our site (which wouldn’t make our service much use to you).
 
@@ -121,10 +123,10 @@ We may collect and disclose anonymous and aggregated information about our users
 
 #### We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-  *  **Tracking Technologies and Advertising.**  You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Tracking Technologies and Advertising.**  You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
 
 
-  *  **Promotional Offers from the Company.**  If you do not wish to have your contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by emailing us at [contact@brightlocal.com](mailto:contact@brightlocal.com) or contacting us through any of our publicly available customer service contact routes (ticketing system, chat, forum). If we have sent you a promotional e-mail, you may opt-out by clicking on the unsubscribe link and completing the subsequent steps. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
+  * **Promotional Offers from the Company.**  If you do not wish to have your contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by emailing us at [contact@brightlocal.com](mailto:contact@brightlocal.com) or contacting us through any of our publicly available customer service contact routes (ticketing system, chat, forum). If we have sent you a promotional e-mail, you may opt-out by clicking on the unsubscribe link and completing the subsequent steps. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
 
 
 
