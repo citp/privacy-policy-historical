@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the sbe.com privacy policy that was archived on 2014-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140623192909id_/http%3A//sbe.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sbe.com privacy policy that was archived on 2014-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226091839id_/http%3A//sbe.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="no-js" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/WebPage"><!--<![endif]--><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcDWFVaGwACUlRWAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html lang="en-US" class="no-js" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/WebPage"><!--<![endif]--><head><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NVWND3"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcDWFVaGwACUlRWAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
 <meta charset="utf-8">
 <link rel="dns-prefetch" href="//ajax.googleapis.com">
 <link rel="dns-prefetch" href="//www.google-analytics.com">
@@ -40,6 +40,8 @@
 
 <link rel="pingback" href="http://sbe.com/xmlrpc.php">
 <link rel="canonical" href="http://sbe.com/privacy-policy/">
+<meta name="robots" content="noodp">
+<meta name="robots" content="noydir">
 <meta property="og:title" content="Privacy Policy |  sbe.com">
 <meta property="og:type" content="blog">
 <meta property="og:site_name" content="sbe.com">
@@ -65,7 +67,7 @@
 <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/a6074a18-1b14-4cd9-bb14-b10f3d60a588.css">
 <!-- Grunt Build -->
 <!-- // GRUNT BUILD -->
-<link rel="stylesheet" type="text/css" href="http://sbe.com/content/themes/sbe/assets/css/main.min.05d39ac9.css">
+<link rel="stylesheet" type="text/css" href="http://sbe.com/content/themes/sbe/assets/css/main.min.2e55c7cc.css">
 <script>
 // Adding ie10 class since conditionals don't work
 if (Function('/*@cc_on return document.documentMode===10@*/')()){
@@ -96,6 +98,7 @@ nightlifeURL = "http://play.sbe.com/";
 </head>
 
 <body class="page page-id-5078 page-template-default hnews clearfix sbe.com site-id-1">
+
 <!-- borders and logo / header !-->
 
 <div id="brand" class="brand " data-logo="http://sbe.com/content/themes/sbe/img/brand.png">
@@ -160,13 +163,13 @@ to Search">
 	<li class="tab l-2  menu-sls-beverly-hills"><a class="item-click track-event" href="/hotels/slsbeverlyhills">SLS Beverly Hills</a></li>
 	<li class="tab l-2  menu-sls-las-vegas-hotel-casino"><a class="item-click track-event" href="/hotels/slslasvegas">SLS Las Vegas Hotel &amp; Casino</a></li>
 	<li class="tab l-2  menu-sls-south-beach"><a class="item-click track-event" href="/hotels/slssouthbeach">SLS South Beach</a></li>
-	<li class="tab pending l-2  menu-sls-at-baha-mar-2014"><a class="item-click track-event" href="http://www.sbe.com/hotels/locations/sls-baha-mar-hotel-residences/">SLS at Baha Mar 2014</a></li>
+	<li class="tab pending l-2  menu-sls-lux-at-baha-mar-2015"><a class="item-click track-event" href="http://www.sbe.com/hotels/locations/sls-baha-mar-hotel-residences/">SLS LUX at Baha Mar 2015</a></li>
 	<li class="tab pending l-2  menu-sls-park-avenue-new-york-2015"><a class="item-click track-event" href="/hotels/locations/sls-park-avenue/">SLS Park Avenue New York 2015</a></li>
-	<li class="tab pending l-2  menu-sls-china-2015"><a class="item-click track-event" href="/hotels/locations/sls-china/">SLS China 2015</a></li>
-	<li class="tab pending l-2  menu-sls-brickell-miami-2015"><a class="item-click track-event" href="/hotels/locations/sls-brickell-hotel-residences/">SLS Brickell Miami 2015</a></li>
+	<li class="tab pending l-2  menu-sls-brickell-hotel-residences-miami-2016"><a class="item-click track-event" href="/hotels/locations/sls-brickell-hotel-residences/">SLS Brickell Hotel &amp; Residences Miami 2016</a></li>
 	<li class="tab pending l-2  menu-sls-lux-brickell-2016"><a class="item-click track-event" href="/hotels/locations/sls-lux-brickell/">SLS LUX Brickell 2016</a></li>
 	<li class="tab pending l-2  menu-sls-philadelphia-2016"><a class="item-click track-event" href="/hotels/locations/sls-hotel-and-residences-philadelphia/">SLS Philadelphia 2016</a></li>
 	<li class="tab pending l-2  menu-sls-seattle-2016"><a class="item-click track-event" href="/hotels/locations/sls-seattle/">SLS Seattle 2016</a></li>
+	<li class="tab pending l-2  menu-sls-beijing-2017"><a class="item-click track-event" href="/hotels/locations/sls-beijing/">SLS Beijing 2017</a></li>
 	<li class="l-2  menu-the-redbury-hotels"><a class="item-click track-event" href="/hotels/theredbury">The Redbury Hotels</a></li>
 	<li class="tab l-2  menu-the-redbury-hollywood"><a class="item-click track-event" href="/hotels/theredbury-hollywood">The Redbury Hollywood</a></li>
 	<li class="tab l-2  menu-the-redbury-south-beach"><a class="item-click track-event" href="/hotels/theredbury-southbeach">The Redbury South Beach</a></li>
@@ -177,6 +180,7 @@ to Search">
 <li class="l-1 opens menu-restaurants"><a class="icon-angle-left" data-target="#" href="#">Restaurants</a><!--start lvl 0!--><div class="mp-level" data-level="2">
 <a class="mp-back icon-caret-left" href="#">back</a>
 <ul>
+	<li class="l-2  menu-new-years-eve"><a class="item-click track-event" href="http://sbe.com/restaurants/brands/new-years-eve-2014/">New Year’s Eve</a></li>
 	<li class="l-2  menu-restaurants-overview"><a class="item-click track-event" href="/restaurants">Restaurants Overview</a></li>
 	<li class="l-2  menu-katsuya-by-starck"><a class="item-click track-event" href="/restaurants/katsuya">Katsuya by Starck</a></li>
 	<li class="tab l-2  menu-katsuya-brentwood"><a class="item-click track-event" href="/restaurants/locations/katsuya-brentwood/">Katsuya Brentwood</a></li>
@@ -193,8 +197,10 @@ to Search">
 	<li class="l-2  menu-cleo"><a class="item-click track-event" href="/restaurants/cleo">Cleo</a></li>
 	<li class="tab l-2  menu-cleo-hollywood"><a class="item-click track-event" href="/restaurants/locations/cleo-hollywood/">Cleo Hollywood</a></li>
 	<li class="tab l-2  menu-cleo-las-vegas"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/cleo-las-vegas/">Cleo Las Vegas</a></li>
+	<li class="tab l-2  menu-cleo-south-beach"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/cleo-south-beach/">Cleo South Beach</a></li>
 	<li class="l-2  menu-double-barrel-roadhouse"><a class="item-click track-event" href="/nightlife/doublebarrel/">Double Barrel Roadhouse</a></li>
 	<li class="l-2  menu-the-griddle-cafe"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/the-griddle-cafe/">The Griddle Cafe</a></li>
+	<li class="l-2  menu-hyde-sunset-kitchen-cocktails"><a class="item-click track-event" href="http://sbe.com/restaurants/brands/hyde-sunset-kitchen-cocktails">Hyde Sunset Kitchen + Cocktails</a></li>
 	<li class="l-2  menu-ku-noodle"><a class="item-click track-event" href="http://sbe.com/restaurants/locations/ku-noodle">Ku Noodle</a></li>
 	<li class="l-2  menu-tres-by-jose-andres"><a class="item-click track-event" href="/restaurants/tres">Tres by José Andrés</a></li>
 	<li class="l-2  menu-restaurant-michael-schwartz"><a class="item-click track-event" href="/restaurants/restaurantmichaelschwartz">Restaurant Michael Schwartz</a></li>
@@ -211,17 +217,22 @@ to Search">
 	<li class="l-2  menu-double-barrel-roadhouse"><a class="item-click track-event" href="/nightlife/doublebarrel/">Double Barrel Roadhouse</a></li>
 	<li class="l-2  menu-the-emerson-theatre"><a class="item-click track-event" href="/nightlife/emersontheatre">The Emerson Theatre</a></li>
 	<li class="l-2  menu-foxtail"><a class="item-click track-event" href="http://www.sbe.com/nightlife/brands/foxtail/">Foxtail</a></li>
+	<li class="tab l-2  menu-foxtail-nightclub"><a class="item-click track-event" href="http://sbe.com/nightlife/locations/foxtail-nightclub/">Foxtail Nightclub</a></li>
+	<li class="tab l-2  menu-foxtail-pool-club"><a class="item-click track-event" href="http://sbe.com/nightlife/locations/foxtail-pool-dayclub/">Foxtail Pool Club</a></li>
 	<li class="l-2  menu-greystone-manor"><a class="item-click track-event" href="/nightlife/greystonemanor">Greystone Manor</a></li>
 	<li class="l-2  menu-hyde"><a class="item-click track-event" href="/nightlife/hyde">Hyde</a></li>
 	<li class="tab l-2  menu-hyde-at-americanairlines-arena"><a class="item-click track-event" href="/nightlife/locations/hyde-aareana/">Hyde at AmericanAirlines Arena</a></li>
 	<li class="tab l-2  menu-hyde-beach"><a class="item-click track-event" href="/nightlife/locations/hyde-beach/">Hyde Beach</a></li>
 	<li class="tab l-2  menu-hyde-bellagio"><a class="item-click track-event" href="/nightlife/locations/hyde-bellagio/">Hyde Bellagio</a></li>
-	<li class="tab l-2  menu-hyde-sunset-kitchen-cocktails"><a class="item-click track-event" href="/nightlife/locations/hyde-sunset/">Hyde Sunset Kitchen + Cocktails</a></li>
+	<li class="tab l-2  menu-hyde-sunset-kitchen-cocktails"><a class="item-click track-event" href="http://sbe.com/restaurants/brands/hyde-sunset-kitchen-cocktails">Hyde Sunset Kitchen + Cocktails</a></li>
 	<li class="tab l-2  menu-hyde-lounge-at-staples-center"><a class="item-click track-event" href="/nightlife/locations/hyde-staplescenter/">Hyde Lounge at Staples Center</a></li>
 	<li class="l-2  menu-the-library"><a class="item-click track-event" href="/nightlife/thelibrary">The Library</a></li>
 	<li class="l-2  menu-life"><a class="item-click track-event" href="/nightlife/brands/life">LiFE</a></li>
+	<li class="tab l-2  menu-life-nightclub"><a class="item-click track-event" href="http://sbe.com/nightlife/locations/life-nightclub/">LiFE Nightclub</a></li>
+	<li class="tab l-2  menu-beach-life"><a class="item-click track-event" href="http://sbe.com/nightlife/locations/beach-life/">Beach LiFE</a></li>
 	<li class="l-2  menu-the-sayers-club"><a class="item-click track-event" href="/nightlife/thesayersclub">The Sayers Club</a></li>
 	<li class="tab l-2  menu-the-sayers-club-hollywood"><a class="item-click track-event" href="/nightlife/locations/thesayersclub-hollywood/">The Sayers Club Hollywood</a></li>
+	<li class="tab l-2  menu-the-sayers-club-las-vegas"><a class="item-click track-event" href="http://sbe.com/nightlife/locations/the-sayers-club-las-vegas/">The Sayers Club Las Vegas</a></li>
 	<li class="l-2  menu-xiv-sessions"><a class="item-click track-event" href="/nightlife/xivsessions">XIV Sessions</a></li>
 </ul>
 </div><!--end lvl 0!--></li>
@@ -229,13 +240,17 @@ to Search">
 <a class="mp-back icon-caret-left" href="#">back</a>
 <ul>
 	<li class="l-2  menu-events-catering-overview"><a class="item-click track-event" href="/events">Events &amp; Catering Overview</a></li>
-	<li class="tab l-2  menu-collins-cocktail-catering"><a class="item-click track-event" href="/events/collins-cocktail-catering/">Collins Cocktail Catering</a></li>
+	<li class="tab l-2  menu-weddings"><a class="item-click track-event" href="/events/weddings/">Weddings</a></li>
 	<li class="tab l-2  menu-culinary-off-site-catering"><a class="item-click track-event" href="/events/culinary-catering/">Culinary Off-Site Catering</a></li>
+	<li class="tab l-2  menu-collins-cocktail-catering"><a class="item-click track-event" href="/events/collins-cocktail-catering/">Collins Cocktail Catering</a></li>
+	<li class="tab l-2  menu-sbe-holiday"><a class="item-click track-event" href="http://sbe.com/events/holiday">sbe Holiday</a></li>
 </ul>
 </div><!--end lvl 0!--></li>
 <li class="l-1  menu-exclusives"><a class="item-click track-event" href="/exclusives">Exclusives</a></li>
 <li class="l-1  menu-event-calendar"><a class="item-click track-event" href="/eventcalendar">Event Calendar</a></li>
-<li class="add-menu-pad-top mobilehide l-1  menu-about-sbe"><a class="item-click track-event" href="/about">About sbe</a></li>
+<li class="l-1  menu-the-code-by-sbe"><a class="item-click track-event" href="http://thecode.sbe.com">THE CODE by sbe</a></li>
+<li class="add-menu-pad-top-desktop l-1  menu-about-sbe"><a class="item-click track-event" href="/about">About sbe</a></li>
+<li class="l-1  menu-gift-cards"><a class="item-click track-event" href="/exclusives/hotel-restaurant-nightlife-gift-card/">Gift Cards</a></li>
 <li class="l-1  menu-the-blog"><a class="item-click track-event" href="/blog">The Blog</a></li>
 <li class="mobilehide l-1  menu-news-press"><a class="item-click track-event" href="/news-accolades">News &amp; Press</a></li>
 <li class="l-1  menu-sbe-foundation"><a class="item-click track-event" href="/sbe-foundation/">sbe Foundation</a></li>
@@ -271,6 +286,8 @@ to Search">
     window.wp_post_id = '5078';
 
     window.wp_blog_id = '1';
+
+    window.copyright_override = false;
 
     
   </script>
@@ -384,72 +401,166 @@ to Search">
   <div style="position: relative">
     
     <!-- IF bg img is present add abs pos & vert-center -->
-    <div class=""> 
+    <div class="">
       <div class="serif-face col8 maxwidth1000 center row padtop padbottom addtop addbottom ">
         <div class="">
                       <h6 class="sans-face text-caps text-spaced-extra">
                           </h6>
                     <div class="wysiwyg">
-            <p style="text-align: left;">PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective April 19, 2012.</p>
-<p>If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under this new policy, please contact us at <a href="mailto:privacy@sbe.com">privacy@sbe.com</a>.</p>
-<h2 style="text-align: left;">PRIVACY POLICY</h2>
-<p style="text-align: left;"><em>(Effective April 19, 2012)</em></p>
-<p>Welcome to this Internet website offered by or in connection with SBEEG Holdings, LLC (collectively, “we”, “us” or “our”). As used in this privacy policy (the “Privacy Policy”), the singular term “Website” includes all websites and all devices or applications that collect personal information from you that we or our successors, parents, subsidiaries, affiliates and related companies or other companies under a common control that we may have now or in the future (“Affiliated Companies”) operate that link to this Privacy Policy, web pages within each such website, device or application, any equivalent, mirror, replacement, substitute or backup website, device or application, and web pages that are associated with each such website, device or application.</p>
-<p>Please read the following to learn more about our Privacy Policy, which includes terms required for compliance with California Civil Code Section 1798.83.</p>
-<p>We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy to explain what information may be collected in connection with our Website, how we use this information (including use by our Affiliated Companies) and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website or through other means and devices described below and does not apply to our collection of information from other sources.</p>
-<p>This Privacy Policy, together with the <a href="http://www.sbe.com/terms-of-use/">Terms of Use</a> posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.</p>
-<p>We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy.&nbsp; It is your responsibility to monitor and review any updates to this Privacy Policy.&nbsp; Your continued use of this Website, or online services provided by us, after such posting, will be deemed your acceptance of these changes to our Privacy Policy. &nbsp;WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.</p>
-<p><strong>A. INFORMATION WE COLLECT </strong></p>
-<p>Our Website typically collects two kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you that we automatically collect when you visit our Website or that you provide us.</p>
-<p><strong>(1) Personally Identifiable Information: </strong>Our definition of “personally identifiable information” includes any information that may be used to specifically identify or contact you, such as your name, mail address, phone number, etc. As a general policy, we do not automatically collect your personally identifiable information when you visit our Website. In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program promotion or some other aspect of our Website. For instance, you may: (a) provide your name, address, email address, and phone number when registering with our Website, or in connection with a contest entry; (b) provide certain demographic information about yourself (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a general comment and/or recommendation on our Website. Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name). Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.</p>
-<p><strong>(2) Non-Personal Information:</strong> Our definition of “non-personal information” is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Website. This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.</p>
-<p><strong>B. HOW WE USE &amp; SHARE THE INFORMATION COLLECTED </strong></p>
-<p><strong>(1) Personally Identifiable Information:</strong> The personally identifiable information you submit to us is generally used to carry out your requests, to respond to your inquiries, to better serve you, or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our Affiliated Companies, to communicate with you about content or other information you have posted or shared with us via our Website, to manage transactions such as credit card payments for any goods that you order from us or any of our agents or for the fulfillment of such transactions (e.g., delivery).&nbsp; The personal information you provide in connection with placing an order may be used by an authorized vendor to fulfill that order. &nbsp;We may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. We may also share your information with our business partners who assist us by performing core services (such as hosting, billing, fulfillment, data storage, security, processing credit card payments, and delivering packages) related to our operation of this Website, processing and fulfillment of product orders, and/or by making certain Website functionality available to our users.&nbsp; Those business partners will only use your information to carry out their specific business obligations to us. Except as provided in this Privacy Policy, our <a href="/terms-of-use/">Terms of Use</a>, or as set forth when you submit the information, your personally identifiable information will not be shared or sold to any third parties without your prior approval.&nbsp; You may opt-out from receiving future promotional information from us or our Affiliated Companies, or direct that we not share your information with any Affiliated Companies, as set forth below. Whether or not you opt-out is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Website.</p>
-<p><strong>(2) Non-Personal Information:</strong> We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities, and improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our Affiliated Companies and third parties to achieve these objectives and others, but remember that such information is anonymous information that does not personally identify you.</p>
-<p><strong>C. OTHER USES &amp; INFORMATION </strong></p>
-<p>(<strong>1) IP Addresses:</strong> An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that “serve up” web pages) automatically identify your computer by its IP address. When visitors request pages from our Website, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Website. IP addresses are considered non-personal information and may also be shared as provided in this Privacy Policy. It is not our practice to link IP addresses to anything personally identifiable; that is, the visitor’s session will be logged, but the visitor remains anonymous to us.</p>
-<p><strong>(2) Cookies, etc.: </strong>“Cookies” are small text files from a website that are stored on your hard drive. These text files make using our Website more convenient by, among other things, saving your passwords and preferences for you. Cookies themselves do not typically contain any personally identifiable information. We may analyze the information derived from these cookies and other technological tools we employ (such as clear gifs/web beacons) and match this information with data provided by you or another party. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information. Please note that advertisers that serve advertisements on our Website and third-party content providers that serve content on our Website may also use their own cookies and other technological tools which are subject to the advertisers’ or third-party content providers’ privacy policies, not this Privacy Policy.</p>
-<p>If you are concerned about the storage and use of cookies, you may be able to direct your internet browser to notify you and seek approval whenever a cookie is being sent to your hard drive. You may also delete a cookie manually from your hard drive through your internet browser or other programs. Please note, however, that some parts of our Website will not function properly or be available to you if you refuse to accept a cookie or choose to disable the acceptance of cookies.</p>
-<p><strong>(3) Email Communications: </strong>If you send us an email with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send non-public personal information, such as passwords, social security numbers, or bank account information, to us by email. However, aside from our reply to such an email, it is not our standard practice to send you email unless you request a particular service or sign up for a feature that involves email communications, it relates to purchases you have made with us (e.g., product updates, customer support, etc.), we are sending you information about our other products and services, or you consented to being contacted by email for a particular purpose. In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, you can agree to receive some communications but not others. You may “opt out” of receiving future commercial email communications from us by following the instructions at the bottom of most emails we send, or as provided below; provided, however, we reserve the right to send you transactional emails such as customer service communications.</p>
-<p><strong>(4) Transfer of Assets:</strong> We may share your information with our Affiliated Companies, in which case we will require them to honor this policy.&nbsp; As we continue to develop our business, we may sell or purchase assets.&nbsp; In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including, without limitation, personally identifiable information that you provide and other information concerning your relationship with us.</p>
-<p><strong>(5) Other:</strong> Notwithstanding anything herein to the contrary, we reserve the right to use IP addresses to identify a visitor or disclose any personally identifiable or non-personal information about you if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Website, or other users; (d) respond to claims that any posting or other content violates the rights of third parties; (e) in an emergency, protect the health and safety of our Website’s users or the general public; or (f) enforce compliance with our Website rules.</p>
-<p><strong>(6) Your California Privacy Rights: </strong>Residents of the State of California have the right to request from certain business with whom the California resident has an established business relationship a list of all third parties to which the business, during the immediately preceding calendar year, has disclosed certain personally identifiable information for direct marketing purposes. &nbsp;We are only required to respond to a customer request once during any calendar year.&nbsp; To obtain this information you should send a request to <a href="mailto:privacy@sbe.com">privacy@sbe.com</a> with the subject heading “California Privacy Rights.”&nbsp; In your request, please attest to the fact that you are a California resident and provide a current California address for our response. Please be aware that not all information sharing is covered by the California Privacy Rights Requirements and only information on covered sharing will be included in our response.</p>
-<p><strong>D. PUBLIC FORUMS </strong></p>
-<p>We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.</p>
-<p><strong>E.&nbsp; WIRELESS MARKETING SERVICES </strong></p>
-<p>We may provide you with the opportunity to register for special promotions, services, news, programming, and information delivered via text messaging and other wireless devices such as mobile phones and, in the event we do so, users are required to provide their express consent to receive such information, either by registering on the Website or via their wireless device (or both).&nbsp; We may require you to consent again in a subsequent confirmation message.&nbsp; Such services and promotional opportunities are provided by our third party affiliates.&nbsp; The information requested as part of the online registration process may include your wireless telephone number or email address, but only if specifically requested, and your carrier’s name.&nbsp; Additional information may be requested for specific promotions, such as a user’s preferences regarding goods or services, choices of music or artists, or other similar survey information.&nbsp; Depending on the promotion, we may also collect an email address or other contact information, and depending on the information collected, you may also be required to confirm your agreement to this Privacy Policy and the <a href="http://www.sbe.com/sbetermsofuse.html">Term of Use</a>.</p>
-<p>If you register for wireless marketing services, you understand and agree that you will be charged by your wireless carrier for all messages sent to you.&nbsp; Standard messaging rates will apply, unless noted otherwise.&nbsp; Under no circumstances will we be responsible for any wireless email or text messaging charges incurred by you or by a person that has access to a your wireless device, telephone number, or email address.</p>
-<p>You may cancel one or more services via your wireless device at any time by using the unsubscribe mechanism provided by at the time the message is sent, or by sending a text message that says “UNSUBSCRIBE.”&nbsp; We will then terminate your registration for the most recent wireless service sent to you.&nbsp; If you unsubscribe, the service(s) will be terminated immediately and will cancel your previous opt-in.</p>
-<p>You understand, acknowledge and agree that we may, in our sole discretion and without liability to any user, terminate any offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice.&nbsp; We may provide notice of terminations or changes in services on this Website.</p>
-<p><strong>F. CHILDREN </strong></p>
-<p>The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for anyone under 21 years of age. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at <a href="mailto:privacy@sbe.com">privacy@sbe.com</a>. &nbsp;A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.</p>
-<p><strong>G. KEEPING YOUR INFORMATION SECURE </strong></p>
-<p>We have implemented security measures to protect against the loss, misuse and alteration of the information under our control, including Secure Sockets Layer (SSL) technology to encrypt the transmission of nonpublic personally identifiable financial and transaction information over the Internet.&nbsp; We also utilize additional security devices such as firewalls, security patches, and anti-virus programs, to protect nonpublic personally identifiable information. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.</p>
-<p><strong>H. sbePREFERRED PARTNERS PROGRAM </strong></p>
-<p style="text-align: left;">Your membership in the Program allows us to provide you with special offers/ information that may be relevant to your purchase preferences. We are able to provide these customized [offers] by using the information you provided on your application and by tracking uses of your Membership Card. The data that we track include dates and duration of hotel stays, food and beverage purchases etc. We use this information to provide special offers/information such as promotions from other Program Venues. These offers may be mailed to you at home, sent to you electronically, or given to you in a Program Venue. Often, our third-party providers such as event providers or other service providers will pay for and be featured on these offers; however, we do not share personally identifiable information with them. We may share aggregate data about our customers’ overall purchasing patterns. We often use third party vendors to assist with these programs or for data analysis and communications; these vendors are required to maintain the same strict privacy policies as we do. Your purchase data are used only to determine your preferences and are never disclosed to any outside parties without your consent unless required by court order. In that event, we will notify you unless prohibited by law.</p>
-<p style="text-align: left;"><strong>I. OTHER SITES/LINKS</strong></p>
-<p style="text-align: left;">Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.</p>
-<p style="text-align: left;"><strong>J. CONTACT &amp; OPT-OUT INFORMATION</strong></p>
-<p style="text-align: left;">You may contact us as at <a href="mailto:privacy@sbe.com">privacy@sbe.com</a> if you: (a) have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our Affiliated Companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.</p>
-<p style="text-align: left;">We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.</p>
-<p style="text-align: left;"><strong>K. SOLE STATEMENT</strong></p>
-<p style="text-align: left;">This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website</p>
-            
+            <p style="text-align: center;"><b>PRIVACY POLICY</b><b>&nbsp;</b></p>
+<p style="font-weight: bold; text-align: left;">Last Updated: August 20, 2014</p>
+<p style="text-align: left;">SBEEG Holdings, LLC (“sbe”), together with controlled affiliates (collectively, “we”, “us” or “our”), is a global hospitality and entertainment company comprised of a thriving collection of award-winning hotels, casinos, residences, restaurants and nightlife destinations (the “Venues”).&nbsp; As a part of our operations, we gather certain types of information from and about online visitors and users through various websites.&nbsp; This Privacy Policy applies to information collected from and about visitors and users (“you”) through various websites operated by us (either directly or through our service providers) their respective web pages, sub-domains, and any other websites (and subdomains thereof) that we operate and that link to this Privacy Policy (collectively, the “Website”).&nbsp; This Privacy Policy also applies to information collected from or about you through email and other electronic submissions and communications between you and the Website.&nbsp;&nbsp; We have adopted this Privacy Policy to describe the types of information that we collect from or about you, how and for what purposes that information may be used or disclosed, how you can make certain choices about what kinds of information is collected and how it is used, and the steps we take to protect that information.</p>
+<p style="text-align: left;">This Privacy Policy does not apply to information collected offline or through any means other than through the Website, or to information collected by any other company or third-party site, application or content (including advertising) that may link to or be accessible from the Website.&nbsp; Certain transactions and services offered while visiting the Website may be processed or provided by service providers and other strategic partners, even though it appears that you may not have left the Website (e.g., reservations, know-your-customer, payment processing, hosting).&nbsp; In such cases, these third parties receive information solely for the purpose of your transaction with us, and not for their own independent use.</p>
+<p style="text-align: left;">The Website is operated from the United States in accordance with laws of the United States and visitors to the Website should be aware that the laws of the United States may differ from those of your country of residence.&nbsp; If you are located in the European Union or elsewhere outside of the United States, your use of this Website is at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. By using this Website, participating in any Website activities, and/or providing us with your personal information, you: (i) consent to the transfers and processing of any information you provide to the Website; (ii) acknowledge that U.S. law provides a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union; and (iii) understand that this Website will deal with your information in accordance with our Privacy Policy and U.S. law. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in any other country or jurisdiction.</p>
+<p style="text-align: left;">Please read this Privacy Policy carefully, which includes terms required for compliance with California Civil Code Section 1798.83 (click <a style="font-weight: bold;" href="#California">here</a> to go directly to the “Your California Privacy Rights” section below).&nbsp; WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS OF THIS PRIVACY POLICY, DO NOT CONTINUE TO ACCESS OR USE OUR WEBSITE.&nbsp; This Privacy Policy, together with the <a href="http://sbe.com/terms-of-use/" target="_blank">Terms of Use</a> posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions. We encourage you to review this Privacy Policy frequently, as it may change from time to time. Click <a style="font-weight: bold;" href="#ChangestoThis">here</a> to go directly to the “Changes to This Privacy Policy” section below which describes how changes to this Privacy Policy will be communicated to you and made effective.</p>
+<p style="font-weight: bold; text-align: left;">A.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#InformationTypes">TYPES OF INFORMATION COLLECTED ABOUT YOU AND HOW IT IS COLLECTED</a></p>
+<p id="InformationYouProvide" style="font-weight: bold; text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp; <a href="#InformationYouProvide">Information You Provide</a></p>
+<p style="font-weight: bold; text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; <a href="#AutomaticallyCollectedInformation">Automatically-Collected Information</a></p>
+<p style="font-weight: bold; text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.&nbsp; <a href="#CookiesandOtherTrackingTechnology">Cookies and Other Tracking Technologies</a></p>
+<p style="font-weight: bold; text-align: left;">B.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#UseInformation">HOW WE USE YOUR INFORMATION</a></p>
+<p style="font-weight: bold; text-align: left;">C.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#ShareInformation">HOW WE SHARE YOUR INFORMATION</a></p>
+<p style="font-weight: bold; text-align: left;">D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Respond">HOW WE RESPOND TO DO NOT TRACK SIGNALS</a></p>
+<p style="font-weight: bold; text-align: left;">E.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#InterestBased">INTEREST-BASED ADVERTISING</a></p>
+<p style="font-weight: bold; text-align: left;">F.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Analytics">ANALYTICS</a></p>
+<p style="font-weight: bold; text-align: left;">G.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#PublicForums">PUBLIC FORUMS</a></p>
+<p style="font-weight: bold; text-align: left;">H.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Wireless">WIRELESS MARKETING SERVICES</a></p>
+<p style="font-weight: bold; text-align: left;">I.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Children">CHILDREN</a></p>
+<p style="font-weight: bold; text-align: left;">J.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Security">SECURITY</a></p>
+<p style="font-weight: bold; text-align: left;">K.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#OtherWebsites">OTHER WEBSITES/LINKS</a></p>
+<p style="font-weight: bold; text-align: left;">L.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#YourChoices">YOUR CHOICES AND ACCESS</a></p>
+<p style="font-weight: bold; text-align: left;">M.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#California">YOUR CALIFORNIA PRIVACY RIGHTS</a></p>
+<p style="font-weight: bold; text-align: left;">N.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Contact">CONTACT US</a></p>
+<p style="font-weight: bold; text-align: left;">O.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#ChangestoThis">CHANGES TO THIS PRIVACY POLICY</a></p>
+<p id="InformationTypes" style="text-align: left;"><a id="InformationTypes" name="InformationTypes"></a>A. TYPES OF INFORMATION COLLECTED ABOUT YOU AND HOW IT IS COLLECTED</p>
+<p style="text-align: left;">We and our service providers collect various types of information from and about you, including:<b></b></p>
+<ul style="text-align: left;">
+<li>“Personal information” or “personally identifiable information,” which is information by which you may be personally identified or contacted, including, for example, your name, email address, telephone numbers, company affiliation, title, physical address, screen names, credit card details (including the three or four digit security code on the back of your credit card), bank account or other payment information, credit information, birth date, driver’s license number, social security number, passport number, frequent flyer or other affinity program numbers, employment information, and any other information by which you may be personally identified. Personal information also may include information that may not be personally identifiable standing alone (for example, your age), but which may become personally identifiable when combined with personal information (for example, your age combined with your name).</li>
+</ul>
+<ul style="text-align: left;">
+<li>“Non-personal information,” which is information that is about you but which does not identify you individually and is not linked to any personal information, including: information regarding your computer, devices and Internet connection (such as your IP address, your computer or device type and its capabilities and features, your browser type, the operating system or platform you are using, your general geographic location, and the name and location of your Internet Service Provider), information regarding your use of our Website (including the referring page and the exiting website, clickstream data, the search terms you enter on the Website, your movement within and interaction with the Website, including what pages you look at, and the time, date, and duration of your visit to the Website) and traffic patterns relating to the Website.&nbsp; Non-personal information may include personally identifiable information that has been de-identified, or in other words, rendered anonymous.&nbsp; Non-personal information also may be aggregated with non-personal information about others.</li>
+</ul>
+<p style="text-align: left;">We and our service providers may collect this information through various means, including: (a) directly from you when you provide it to us, for example, via forms that you fill out on the Website, through emails and other communications and information that you submit via the Website, and through your other activities on the Website; (b) automatically as you navigate through and interact with the Website, including via cookies, pixels, beacons, and other tracking technologies; and (c) from third parties, including without limitation our service providers.</p>
+<ol style="text-align: left;">
+<li><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b id="InformationYouProvide">Information You Provide</b></li>
+</ol>
+<p style="text-align: left;">The information we and our service providers collect may include the following types of information that you provide:</p>
+<ul style="text-align: left;">
+<li>Information you provide when you register for the Website, make a purchase, participate in a service or offering made available on the Website, or make a reservation, including without limitation your contact information (such as your name, address, email address, phone numbers), your company name, and title and address, your screen name or username, and your payment information (such as your credit card details, bank and bank account routing information, or other information);</li>
+<li>Your demographic information, such as your age, gender, marital status, number of children, and nationality;</li>
+<li>Your travel-related information, such as your frequent flyer number, airlines, rental car providers, passport information, and travel history;</li>
+<li>Information relating to your reservations, visit or stay at our Venues, including the Venues you have visited, your arrival and departure dates, special requests made, spa and dining reservations, your guest preferences, vehicles you may bring to the Venues, and your transactions and purchases;</li>
+<li>Certain sensitive health information that you choose to share with us (such as allergy information or other health conditions that impact your guest preferences or special requests when visiting one of our Venues);</li>
+<li>Details about events or meetings that you plan with us, such as the date of the event, the guest list, and information about the guests at your event;</li>
+<li>Information you provide to sign up for the CODE Program (such as your name, email address, physical address, mobile phone number, gender, zip code, birth date, social media handles, and social blogs) and information needed to administer the CODE Program;</li>
+<li>Certain personal and sensitive information that you may provide online in connection with casino credit applications and gaming-related aspects and benefits of the CODE Program, including without limitation your social security number, certain financial information (including your bank and bank account information, your annual income, and other personal financial information), employment information and history, other credit information, and a copy of or the information from official government identification documents, including without limitation, a driver’s license, passport or non-resident alien identification card for identity verification purposes;</li>
+<li>Information that you <b></b>share in response to surveys and other market research;</li>
+<li>Information that you post to public areas on our Website, that you include in an email, general comment, or recommendation posted on or sent through on our Website, as well as records and copies of that correspondence (including email addresses);</li>
+<li>If you choose to log into the Website through social sign ins (such as Facebook Connect), information collected from your social media account consistent with your settings <b></b>within the applicable <b></b>social media service, such as photos, name, gender, contact information, and other information;</li>
+<li>Resumes and applications for employment at the Venues, including any personal and sensitive information that you provide therein;</li>
+<li>Your communications preferences; and</li>
+<li>Other personal information that you choose to provide to us.</li>
+</ul>
+<p style="text-align: left;">Whether you provide this information is your choice; however, please bear in mind that in many instances personal information is required for you to participate in a particular activity, for us to provide a certain service or benefit to you, or for you to gain access to certain features, services or content on our Website.&nbsp; If you elect not to provide us with certain personal information, you may not be able to participate in a particular activity, realize a benefit we may offer, or gain access to certain content, functionalities or services.</p>
+<p style="text-align: left;">&nbsp;2.&nbsp;<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b id="AutomaticallyCollectedInformation">Automatically-Collected Information</b></p>
+<p style="text-align: left;">When you visit and as you navigate through and interact with the Website, we, our service providers and third parties may automatically collect information about your visits to our Website, your equipment, and your browsing action and patterns and your activities on the Website. This information may include, but is not limited to:</p>
+<ul style="text-align: left;">
+<li>Details of your visits to our Website and the resources that you access, such as traffic data, location data, logs and other communication data, the third-party website from which your visit originated, clickstream data, the search terms you use on our Website, your movement within and interaction with the Website, including what pages you look at, and the time, date, and duration of your visit to the Website.</li>
+<li>Information about your computer or devices and Internet connection, such as your IP address, your general geographic location, your computer or device type and its capabilities and features, the operating system or platform you are using, your browser type, and your Internet Service Provider.</li>
+<li>Information about traffic patterns, number of visits to certain pages, visits from other websites or to third-party websites linked to the Website, and visitors’ use of particular services and interest in services, information or features of the Website.</li>
+</ul>
+<p style="text-align: left;">Automatically-collected information often is statistical data that does not contain personal information.&nbsp; We may share such aggregated data with third parties collectively and in an anonymous way. Automatically-collected information may contain personal information, however, or we or our service providers may maintain it or associate it with personal information collected in other ways or received from third parties.&nbsp; Such information will be treated as personal information and used and shared as disclosed in this Privacy Policy.</p>
+<p style="text-align: left;">&nbsp;3.<b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b id="CookiesandOtherTrackingTechnology">Cookies and Other Tracking Technologies</b></p>
+<p style="text-align: left;">We, our service providers and other third parties may place “cookies” on our Website to collect certain information.&nbsp; A “cookie” or “browser cookie” is a small data text file that can be stored on your computer’s hard drive or other device, if your web browser or device settings permit.&nbsp; Certain features of the Website also may use local stored objects (or Flash Cookies) to collect and store information, including information about your preferences and navigation to, from, and on our Website.&nbsp; Flash cookies are not managed by the same browser settings as are used for browser cookies.&nbsp; Cookies may allow us and our service providers, for example,&nbsp; to customize your experience and make your visit to the Website easier (for example, recognizing when you return, remembering your viewing preferences, enabling social sign ins, facilitating social sharing, and, if you are a registered user, remembering your password), measure activity on the Website, track conversions, target ads, and provide analytics. While some cookies are deleted when you close your browser, others remain even after you close your browsing session. <b></b></p>
+<p style="text-align: left;">We, our service providers and other third parties also may use pixel tags, web beacons or clear gifs, which are tiny files with a unique identifier, similar in function to cookies, that are placed in the code of a web page or an email.&nbsp; These technologies might be used, for example, to allow us and our service providers to track conversions, to send emails to you in a format you can read, to count users who have visited our Website, seen our ads, opened our emails or clicked on any links in our emails, to inform us what content and advertising is effective, to optimize the Website and its content, to reduce or eliminate messages sent to customers, to enhance Website usability, to provide you ads and other promotions and content that may be of interest to you, and to collect other information about you and your visit when you use the Website.&nbsp; In addition, when you click on a link in an email, we or our service providers may record the individual response to allow us to customize our offerings to you.</p>
+<p style="text-align: left;">We and our service providers may analyze the information derived from cookies, pixels and other technologies and match or combine that information with data provided by you or another party. We engage various service providers who may use unique identifiers, cookies, pixels, beacons, and other technologies to provide analytics and to deliver you advertisements and content that may be of interest to you.&nbsp; For more information about interest-based advertising, click <a style="font-weight: bold;" href="#InterestBased">here</a> to go to the “Interest-Based Advertising” section below, and for more information about analytics and our vendors, click <a style="font-weight: bold;" href="#Analytics">here</a> to go to the “Analytics” section below.&nbsp; To the extent that our service providers are using pixels, cookies, beacons, or other tracking technologies, we do not control the use of those technologies or the resulting information, and we are not responsible for the policies of those companies.</p>
+<p style="text-align: left;">Most web browsers are initially set to accept cookies.&nbsp; If you prefer, you can set your web browser to refuse cookies (except Flash cookies). You may also delete a cookie manually from your hard drive through your internet browser or other programs.&nbsp; For more information on how to manage cookies, see <b><a href="http://www.allaboutcookies.org/" target="_blank">http://www.allaboutcookies.org</a></b>.&nbsp; For information about how to manage Flash cookies, see <b><a href="http://macromedia.com/support/documentation/en/flashplayer/help/setting_manager07html" target="_blank">http://macromedia.com/support/documentation/en/flashplayer/help/setting_manager07html</a></b>.&nbsp; You also can learn more about opting out of our vendors’ and other advertisers’ use of cookies used to tailor ads and other content to you by visiting <b><a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a></b> and <b><a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a></b>.&nbsp; Please keep in mind, however, that you may not be able to access the full functionality of our Website if cookies are disabled.</p>
+<p id="UseInformation" style="text-align: left;"><a id="UseInformation" name="UseInformation"></a>B. HOW WE USE YOUR INFORMATION</p>
+<p style="text-align: left;">We may use and combine non-personal information (including aggregated information) for any lawful purpose.&nbsp; In addition, we and our service providers may use personal information collected from or about you as described in this Privacy Policy for the purposes disclosed to you or as otherwise permitted or required by law, including:</p>
+<ul style="text-align: left;">
+<li>To provide, track, and process the services, purchases and transactions that you request, including facilitating hotel accommodation, spa, dining, and entertainment reservations;</li>
+<li>To process enrollments and applications, including casino credit applications as well as registration in, the administration of, and the award and redemption of benefits under the CODE Program;</li>
+<li>To accommodate your preferences, to personalize and enhance your experience and the services provided to you at the Venues, and to improve the Venues and our services;</li>
+<li>To validate your identity, to verify communications from you, and to respond to your emails, submissions, questions, comments, requests for information, and complaints and to provide customer service;</li>
+<li>To manage, store and enhance guest data and preferences;</li>
+<li>To send you important notices, such as communications about purchases, programs you have joined, and changes to our terms, conditions and policies;</li>
+<li>To conduct customer satisfaction, market research or quality assurance surveys ;</li>
+<li>To conduct market research and to develop new Venues and services;</li>
+<li>To conduct and administer sweepstakes, prize draws and other contests;</li>
+<li>To record gaming-related activity;</li>
+<li>For marketing purposes, including without limitation interest-based advertising, other targeted promotions, sending you other promotional materials, and notifying you about special promotions, offers, events or opportunities;</li>
+<li>To send you marketing communications about the products and services offered by our property owners, marketing partners and other third parties, including without limitation offers regarding residential sales opportunities;
+<ul>
+<li>To cross-reference, supplement and combine with other information that we or our service providers have acquired about you or may acquire about you through other sources, except where prohibited by applicable law or regulation (if any non-personal information is combined with personal information, the combined information will be treated as personal information pursuant to this Privacy Policy for as long as it remains combined);</li>
+<li>To monitor, track, and analyze Website usage and trends, to personalize and improve the Website, and to increase the Website’s functionality;</li>
+<li>To send you confirmations, updates, security alerts, and support and administrative messages and otherwise facilitate your use of, and our administration and operation of, the Website;</li>
+<li>To protect the security or integrity of our Website, the Venues and business;</li>
+<li>To prevent fraud and other prohibited or illegal activities, to investigate and resolve disputes and problems, and to otherwise comply with applicable laws and regulations;</li>
+<li>To enforce our Terms of Use and other contractual obligations; and</li>
+<li>For any other purpose that is disclosed to you at the point of collection of the personal information, for any purpose for which you provide your prior consent, in other ways naturally associated with the circumstances in which you provided the personal information, and for any other lawful purpose.</li>
+</ul>
+</li>
+</ul>
+<p style="text-align: left;">Every computer and device that is connected to the Internet is assigned an Internet Protocol (IP) address.&nbsp; When visitors request pages from our Website, our servers typically log their IP addresses. While we generally collect IP addresses for purposes of system administration, for Website optimization, Website security assessments, to report non-personal aggregate information to others, to track the use of our Website, and to get a sense of where our Website visitors are located, we reserve the right to use your IP address to personalize content on the Website and to identify you and to share that information as described in the “How We Share Your Information” section below.</p>
+<p id="ShareInformation" style="text-align: left;"><a id="ShareInformation" name="ShareInformation"></a>C. HOW WE SHARE YOUR INFORMATION</p>
+<p style="text-align: left;">We may share non-personal information with any third parties for any lawful purpose.&nbsp; Unless otherwise prohibited by law, we may disclose personal information collected from or about you as described in this Privacy Policy to the following types of third parties and for the following purposes:</p>
+<ul style="text-align: left;">
+<li><b>Affiliated Companies:</b>&nbsp; We may share your information with our parents, subsidiaries, affiliated companies, and other controlled affiliates (including casinos, hotels, restaurants and other business ventures that are licensed, owned, operated, and/or managed by us or our parents, subsidiaries, affiliated companies and other companies under common control), who may use personal information for any of the purposes disclosed in or consistent with the terms of this Privacy Policy (including without limitation those identified in the “How We Use Your Information” section above);</li>
+<li><b>Property Partners:&nbsp;</b> We may share your information with owners of Venues that we manage but do not own, owners and operators of licensed Venues, and owners and operators of certain residential properties associated with or located in proximity to various Venues (as well as the respective designees of any of the foregoing), who may use personal information to provide you with services at or relating to the Venues, to provide you marketing information relating to real estate and other opportunities, and for any of the other purposes disclosed in or consistent with the terms of this Privacy Policy (including without limitation those identified in the “How We Use Your Information” section above).</li>
+<li><b>Marketing Partners:</b> We may share your personally identifiable information with our co-promotional partners and other business partners with whom we have marketing or other relationships for joint marketing purposes or such partners’ own marketing purposes.</li>
+<li><b>Service Providers:</b> We may share your information with our service providers who assist us by performing core services (such as reservations, hosting, billing, fulfillment, data storage, security, processing credit card payments, customer service, credit reporting, property management, customer relationship management, “know-your-customer,” accounting, auditing, processing insurance claims, investigating accident reports, administering sweepstakes, surveys, email&nbsp; and mailing services, and delivering packages) related to the operation of the Venues, the provision of services at the Venues, the operation of the Website, the processing and fulfillment of reservations or product orders, and/or by making certain Website functionality available to our users.</li>
+<li><b>Transactions:</b> In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, bankruptcy, reorganization, or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including, without limitation, personally identifiable information collected from or about you provide, and other information concerning your relationship with us.&nbsp; Any successor may use your information for the same purposes set forth in this Privacy Policy.
+<ul>
+<li><b>Legal:</b> We reserve the right to use IP addresses to identify you and, where permitted or required by law or applicable regulation, we will provide any information about or relating to you, including any personally identifiable information about you, to third parties without your consent if we reasonably believe that such action is necessary to: (a) comply with a court order, subpoena or other legal or regulatory requirements; (b) otherwise fulfill a government request for information; (c) protect or defend our legal rights or property, our Venues, our Website, or other guests and online users; (d) respond to claims that any posting or other content of our Website violates the rights of third parties, including without limitation providing information necessary to satisfy the notice and counter-notice procedures pursuant to the Digital Millennium Copyright Act; (e) in an emergency, to protect the health and safety of our Website’s users or the general public; or (f) enforce compliance with our Terms of Use or other contracts.</li>
+<li>To fulfill the purpose for which you provide it.</li>
+<li>With your consent.</li>
+</ul>
+</li>
+</ul>
+<p style="text-align: left;">We will not disclose the amount of your specific gaming winnings or gaming losses to any third party unless required by applicable law or regulation.&nbsp; For more information about how to opt out of receiving future promotional information from us or our affiliated companies, click <a style="font-weight: bold;" href="#YourChoices">here</a> to go to the “Your Choices and Access” section below.</p>
+<p id="Respond" style="text-align: left;">&nbsp;D.&nbsp;HOW WE RESPOND TO DO NOT TRACK SIGNALS</p>
+<p style="text-align: left;">Some web browsers may give you the ability to enable a “do not track” setting that is an HTTP header field indicating your preferences regarding tracking or cross-site user tracking.&nbsp; This is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. The Website does not recognize <b></b>web browser “do not track” signals at this time. We may work with third parties that use tracking technologies on the Website, including in order to serve tailored advertisements on our behalf and on behalf of other advertisers across the Internet. These companies may collect information about your activity on the Website and other websites over time, as well as your interaction with our advertising and other communications, and use this information to determine which ads you see on third-party websites and applications. For more information about this practice and to understand your options, please visit <b><span style="text-decoration: underline;"><a href="http://www.networkadvertising.org/" target="_blank">http://www.networkadvertising.org/</a></span>&nbsp;</b> or <b><a href="http://www.aboutads.info/" target="_blank">http://www.aboutads.info</a></b>.</p>
+<p id="InterestBased" style="text-align: left;"><a id="InterestBased" name="InterestBased"></a>&nbsp;E.&nbsp;INTEREST-BASED ADVERTISING</p>
+<p style="text-align: left;">We may allow third parties to collect information about your online activities on our Website through unique identifiers, cookies, pixels, beacons and other technologies (as described above).&nbsp; These third parties include advertising networks that may use unique identifiers, cookies, pixels, beacons, and other technologies to track and collect information about your interests when you visit our Website and other websites or view or interact with one of the advertisements they place on various websites or mobile platforms.&nbsp; The information gathered by these third parties is used to make predictions about your characteristics, interests or preferences and to display advertisements on our Website and across the Internet tailored to your apparent interests. <b></b>We use Google’s Remarketing service with Google AdWords to show you our ads as you browse other websites around the Internet. The Remarketing service delivers our ads through the Google AdWords display network, which includes both Google.com pages and the sites of trusted publishers. Third-party vendors, including Google, use cookies (such as the DoubleClick cookie) to serve ads based on your past visits to the Website. Click <b><a href="https://www.google.com/policies/privacy/" target="_blank">here</a></b> to read the Google privacy policy. You can opt out of Google’s use of cookies and/or customize Google display network ads by visiting the Ads Preferences Manager at <b><a href="https://www.google.com/ads/preferences/" target="_blank">https://www.google.com/ads/preferences/</a>.</b>&nbsp; Alternatively, you can opt-out of Remarketing by visiting <b><a href="http://www.networkadvertising.org/" target="_blank">http://www.networkadvertising.org/</a></b>.&nbsp; If you want to permanently opt out of the DoubleClick cookie, you can install the DoubleClick opt out extension by clicking <b><a href="https://www.google.com/settings/ads/plugin?hl=en&amp;sig=ACi0TCjj6y8lzk-Kvx-t2tPWloCukcymal01nyHd4cBmyWciWf2CBiODknfNsIP_jEew-oaJ6HzQiUFwlWcUMiHlErh1VfK60fpLGtQs72fjhGVdye5XdcM4lJe7d_YGyXnQbXUxk2EQoVt2djdNdzKGiCATQqAtNp0e4jIMJ4s1uTrrLOEuozB4K6Db0m3B3zk37svYTQZ">here</a></b>.&nbsp; Rocketfuel is another advertising network that we work with to show you our ads on other websites.&nbsp; Click <b><a href="http://rocketfuel.com/privacy-policy">here</a></b> to read Rocketfuel’s privacy policy and for more information about how to opt-out of the Rocketfuel cookie.<b>&nbsp;</b> You also can learn more about how Rocketfuel uses cookies and your choices for opting out by clicking <b><a href="http://emea.rocketfuel.com/cookie-policy">here</a></b> or <b></b>by visiting <b><a href="http://www.networkadvertising.org/" target="_blank">http://www.networkadvertising.org/</a>.&nbsp;</b> Other advertising networks also are members of the Network Advertising Initiative, which offers a single location to opt-out of ad targeting from member companies.&nbsp; To learn more about interest-based advertising generally as well as your options for opting out, please visit <b><span style="text-decoration: underline;"><a href="http://www.networkadvertising.org/" target="_blank">http://www.networkadvertising.org/</a></span></b> or <b><a href="http://www.aboutads.info/" target="_blank">http://www.aboutads.info</a></b>. Please keep in mind that even if you opt out of receiving ads tailored to your apparent interests, you will continue to see ads from online advertising networks.&nbsp; However, those networks will not be able to apply any of your apparent ad preferences and the ads that you see therefore may be less relevant to your interests.</p>
+<p id="Analytics" style="text-align: left;"><a id="Analytics" name="Analytics"></a>F. ANALYTICS</p>
+<p style="text-align: left;">We engage service providers to provide analytics data for the purposes of understanding and optimizing web usage, for business and market research purposes, measuring conversion tracking, and measuring the effectiveness of our content and online advertising campaigns. <b></b>These service providers may use cookies alone or in conjunction with unique identifiers, pixels, beacons and other tracking technologies to collect information about you when you use the Website.<b></b></p>
+<p style="text-align: left;">For example, we use a tool offered by Google Inc. called Google Analytics to collect information about visitors’ use of our Website. For more information about Google Analytics and how it collects and processes data, please see “<b><a href="http://www.google.com/policies/privacy/partners" target="_blank">How Google Uses Data When You Use Our Partners’ Sites or Apps</a></b>.” We use the information we receive from Google Analytics for a variety of purposes, including to collect information about visitors’ use of our Website and to track Website performance, including without limitation clickstream data, Website traffic data, basic Website impression and user demographics information.&nbsp; We do not combine the information collected through the use of Google Analytics with your personal information. Google’s ability to use and share information collected by Google Analytics about your visits to this Website is restricted by the Google Analytics <b><a href="http://www.google.com/policies/terms/" target="_blank">Terms of Service</a></b> and the <b><a href="http://www.google.com/policies/privacy" target="_blank">Google Privacy Policy</a></b>. You can learn more about how Google Analytics uses cookies by clicking <b><a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">here</a></b>.&nbsp; You can prevent Google Analytics from recognizing you on return visits to this Website by disabling cookies on your browser, as described <a style="font-weight: bold;" href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage" target="_blank">here</a>. If you do not want your Website visit data reported by the Google Analytics JavaScript, you also can install the Google Analytics opt-out browser add-on.&nbsp; This add-on instructs the Google Analytics JavaScript to prohibit sending visit information to Google Analytics, but does not prevent information from being sent to the Website itself or in other ways to other website analytics services.&nbsp; Click <b><span style="text-decoration: underline;"><a href="https://support.google.com/analytics/answer/181881?hl=en">here</a></span></b> if you would like to learn more about the Google Analytics opt-out browser add-on, and click <b><a href="https://tools.google.com/dlpage/gaoptout" target="_blank">here</a></b> to install the opt-out browser add-on.&nbsp; We also may receive reports and analytics from the advertising network Rocketfuel, including without limitation regarding Website optimization, traffic data, and the effectiveness of our online advertising.&nbsp; Click <a style="font-weight: bold;" href="#InterestBased">here</a> to go to the “Interest-Based Advertising” section and to learn more about Rocketfuel.&nbsp; We also may use pixels such as the Floodlight pixel, which interacts with the DoubleClick cookie, to measure the effectiveness of our online campaigns and for conversion tracking.&nbsp; Click <b><a href="https://support.google.com/dfa/partner/answer/186745?hl=en&amp;ref_topic=28820" target="_blank">here</a></b> to learn more about the Floodlight pixel, and click <a style="font-weight: bold;" href="#InterestBased">here</a> to go to the “Interest-Based Advertising” section to learn more about the DoubleClick cookie. &nbsp;If you want to permanently opt out of the DoubleClick cookie, you can install the DoubleClick opt out extension <b><a href="https://www.google.com/settings/ads/plugin?hl=en&amp;sig=ACi0TCjj6y8lzk-Kvx-t2tPWloCukcymal01nyHd4cBmyWciWf2CBiODknfNsIP_jEew-oaJ6HzQiUFwlWcUMiHlErh1VfK60fpLGtQs72fjhGVdye5XdcM4lJe7d_YGyXnQbXUxk2EQoVt2djdNdzKGiCATQqAtNp0e4jIMJ4s1uTrrLOEuozB4K6Db0m3B3zk37svYTQZ" target="_blank">here</a></b>.&nbsp; <b>&nbsp;</b></p>
+<p id="PublicForums" style="text-align: left;"><b></b><a id="PublicForums" name="PublicForums"></a>G. PUBLIC FORUMS</p>
+<p style="text-align: left;">We may offer chat rooms, blogs, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate.&nbsp; Unless otherwise required by applicable law or regulation, the protections described in this Privacy Policy do not apply to information (including personal information) that you post to these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.</p>
+<p id="Wireless" style="text-align: left;"><a id="Wireless" name="Wireless"></a>&nbsp;H.&nbsp;WIRELESS MARKETING SERVICES</p>
+<p style="text-align: left;">We may provide you with the opportunity on the Website to register for special promotions, services, news, programming, and information delivered via text messaging and other wireless devices such as mobile phones and, in the event we do so, you may be required to provide your express consent to receive such information as required by applicable law, either by registering on a Website or via your wireless device (or both).&nbsp; To receive these communications, we may require you to consent again in a subsequent confirmation message.&nbsp; Such services and promotional opportunities may be provided by us or by our service providers or strategic partners.&nbsp; The information requested as part of the online registration process may include your wireless telephone number or email address, but only if specifically requested, and your carrier’s name.&nbsp; Additional information may be requested for specific services, programs, promotions, offers, and information, such as your preferences regarding goods or services, choices of music or artists, or other similar survey information.&nbsp; Depending on the promotion, we may also collect an email address or other contact information, and depending on the information collected, you may also be required to confirm your agreement to this Privacy Policy and the <b><a href="http://sbe.com/terms-of-use/" target="_blank">Terms of Use</a></b>.</p>
+<p style="text-align: left;">If you register for wireless marketing services, you understand and agree that you will be charged by your wireless carrier for all messages sent to you.&nbsp; Standard messaging rates will apply, unless noted otherwise.&nbsp; Under no circumstances will we be responsible for any wireless email or text messaging charges incurred by you or by a person that has access to a your wireless device, telephone number, or email address.</p>
+<p style="text-align: left;">You may cancel one or more services via your wireless device at any time by using the unsubscribe mechanism provided by at the time the message is sent, or by sending a text message that says “UNSUBSCRIBE,” “STOP” or such other code referenced in the message.&nbsp; If you unsubscribe, the applicable service(s) will be terminated and will cancel your previous opt-in.</p>
+<p style="text-align: left;">You understand, acknowledge and agree that we may, in our sole discretion and without liability to any user, terminate any offer of any specific wireless marketing service or all wireless marketing services at any time without advance notice.&nbsp; We may provide notice of terminations or changes in services on this Website.</p>
+<p id="Children" style="text-align: left;"><a id="Children" name="Children"></a>&nbsp;I.&nbsp;CHILDREN</p>
+<p style="text-align: left;">The Website is a general audience site, and the features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for anyone under 21 years of age.&nbsp;&nbsp; If you are under 21, you may not access, use or register on the Website.&nbsp; We do not knowingly collect personally identifiable information from individuals under the age of 18. If you are a parent or guardian of an individual under the age of 18 and believe he or she has disclosed personally identifiable information to us without your permission, please contact us at <b><a href="mailto:privacy@sbe.com">privacy@sbe.com</a></b> or otherwise as provided in the “Contact Us” section below.&nbsp; A parent or guardian of a child under the age of 18 may request deletion of such child’s personally identifiable information as well as prohibit the use thereof.</p>
+<p id="Security" style="text-align: left;"><a id="Security" name="Security"></a>J. SECURITY</p>
+<p style="text-align: left;">We take reasonable steps to protect against the loss, misuse and alteration of the information under our control, including Secure Sockets Layer (SSL) technology to encrypt the transmission of non-public personally identifiable financial and transaction information over the Internet, provided you are using an SSL-enabled device.&nbsp; We also utilize other reasonable security measures such as firewalls, security patches, and anti-virus programs, <b></b>to protect non-public personally identifiable information. Despite these efforts, please be advised that no security system or means of transmitting data over the Internet can be guaranteed to be entirely secure (including without limitation with respect to computer viruses, malicious software and hacker attacks), and we cannot and do not guarantee or warrant the security of any information you disclose or transmit to us via the Internet, and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. For your own privacy protection, we recommend that you do not include any non-public personal or sensitive personal information such as passwords, social security numbers, credit card details, or bank account information, in any emails that you send to us. We will not contact you by email or text message to ask for such information.</p>
+<p id="OtherWebsites" style="text-align: left;"><a id="OtherWebsites" name="OtherWebsites"></a>K. OTHER WEBSITES/LINKS</p>
+<p style="text-align: left;">Our Website may link to third-party websites that we do not control or maintain.&nbsp; Be aware that those third-party websites collect information and operate according to their own privacy practices. We are not responsible for the privacy practices employed by any third-party website. We encourage you to note when you leave the Website and to read the privacy statements of all third-party websites to understand how they collect, use and disclose personal information before submitting any personally identifiable information to those websites.</p>
+<p id="YourChoices" style="text-align: left;"><a id="YourChoices" name="YourChoices"></a>L. YOUR CHOICES AND ACCESS</p>
+<p style="text-align: left;">If you have registered on the Website, or are a member of the CODE Program, you can login to your account to change or update certain information and preferences to keep such data accurate, complete and up-to-date. You also can contact us as described in the “Contact Us” section <a href="#Contact">below</a> to update or correct certain personal information.</p>
+<p style="text-align: left;">In addition, as described above, you can set your web browser to refuse browser cookies (but not Flash cookies). For more information on how to manage browser cookies, click <b><a href="http://www.allaboutcookies.org/" target="_blank">here</a></b>. For information about how to manage Flash cookies, click <b><a href="http://macromedia.com/support/documentation/en/flashplayer/help/setting_manager07html" target="_blank">here</a></b>. Please keep in mind, however, that you may not be able to access the full functionality of our Website if cookies are disabled.</p>
+<p style="text-align: left;">In certain instances, we may provide you with the option to set your preferences for receiving email communications from us; that is, you can agree to receive some communications but not others.&nbsp; At any time, you also may opt-out of receiving future commercial emails from us by following the “Unsubscribe” instructions contained in any commercial emails that you receive from us.&nbsp;&nbsp; You also may contact us as described in the <a href="#Contact">“Contact Us” section</a> &nbsp;if you want to opt-out from receiving future commercial correspondence, including marketing emails, from us.&nbsp; We will respond to your request and, if applicable and appropriate, make the requested change in our active databases within a reasonable timeframe. Please remember that we may not be able to fulfill certain requests while allowing you access to certain benefits and features.&nbsp; Even if you unsubscribe from our marketing communications, you may continue to receive certain communications from us, such as transactional, customer service or other relationship messages, messages about your account and profile, and emails in response to communications or requests for information that we receive from you.&nbsp; Please also note that we may not be able to remove your personal information from the databases of third parties to whom we already provided your personal information as of the date of your opt-out request.</p>
+<p id="California" style="text-align: left;">M. YOUR CALIFORNIA PRIVACY RIGHTS</p>
+<p style="text-align: left;">California Civil Code Section 1798.83 permits residents of the State of California to request from certain businesses with whom the California resident has an established business relationship a list of all third parties to which the business, during the immediately preceding calendar year, has disclosed certain personally identifiable information for direct marketing purposes.&nbsp; We are only required to respond to a customer request once during any calendar year.&nbsp; To make such a request you should send an email to <a style="font-weight: bold;" href="mailto:privacy@sbe.com?subject=California%20Privacy%20Rights" target="_blank">privacy@sbe.com</a> with the subject heading “California Privacy Rights.”&nbsp; In your request, please attest to the fact that you are a California resident and provide a current California address for our response. Please be aware that not all information sharing is covered by the California privacy rights requirements and only information on covered sharing will be included in our response.<b>&nbsp;</b> We reserve our right not to respond to requests submitted to addresses other than the addresses specified in this paragraph.</p>
+<p id="Contact" style="text-align: left;"><a id="#Contact" name="#Contact"></a>N. CONTACT US</p>
+<p style="text-align: left;">If you have any questions, comments or concerns about this Privacy Policy, or if you would like to exercise the choices discussed above, please contact us (a) by email at <b><a href="mailto:privacy@sbe.com" target="_blank">privacy@sbe.com</a></b>, or (b) by postal mail at SBEEG Holdings, LLC, 5900 Wilshire Blvd. #3100, Los Angeles, CA 90036, Attn: General Counsel.&nbsp; <b></b></p>
+<p id="ChangestoThis" style="text-align: left;"><a id="#ChangestoThis" name="#ChangestoThis"></a>&nbsp;O.&nbsp;CHANGES TO THIS PRIVACY POLICY</p>
+<p style="text-align: left;">We may change or update this Privacy Policy in the future.&nbsp; You can identify the date that this Privacy Policy was last updated by looking at the date at the top of this Privacy Policy. Any revisions to this Privacy Policy will take effect upon posting to the Website.&nbsp; We will notify you of any material changes to this Privacy Policy either by sending an email to the email address that you provided to us and/or by placing a notice on the homepage of the Website.&nbsp; We encourage you to regularly review the current version of this Privacy Policy on the Website. Use of the Website following posted changes constitutes your acceptance of the revised Privacy Policy then in effect.</p>
           </div>
 
           <!-- // Display normal cta button -->
           
           <!-- // Display see highlights dropdown list -->
-                               
-           
+                                        
 
-
-        </div> 
+        </div>
       </div>
     </div>
   </div>
 </section>
-<!-- End Parallax -->			
+<!-- End Parallax -->
+			
 <!--Begin Company footer !-->
 <div class="clearfix"></div>
 <footer id="footer" class="row" role="contentinfo">
@@ -463,7 +574,7 @@ to Search">
         <div class="col6 info serif-face-thin large">
           <h6 class="sans-face text-spaced text-caps small-extra"><strong>Contact sbe</strong></h6>
           <address>
-          <div class="address_row"><span class="address1">8000 Beverly Blvd. </span></div><div class="address_row"><span class="address2"> </span></div><div class="address_row"><span class="city">Los Angeles, </span><span class="state">CA </span><span class="postal_code">90048 </span></div>          </address>
+          <div class="address_row"><span class="address1">5900 Wilshire Blvd.  </span></div><div class="address_row"><span class="address2">31st Floor </span></div><div class="address_row"><span class="city">Los Angeles, </span><span class="state">CA </span><span class="postal_code">90036 </span></div>          </address>
           <span><a href="tel:3236558000">323.655.8000</a></span>  
           <a href="mailto:info@sbe.com" title="Email info@sbe.com" class="show">info@sbe.com</a>
         </div>
@@ -484,7 +595,7 @@ to Search">
 <li class="l-1  menu-contact-us"><a class="item-click track-event" href="/contact">Contact Us</a></li>
 <li class="l-1  menu-careers"><a class="item-click track-event" href="http://sbe.com/careers/">Careers</a></li>
 <li class="l-1  menu-nightlife"><a class="item-click track-event" href="/nightlife">Nightlife</a></li>
-<li class="l-1  menu-sbe-gift-card"><a class="item-click track-event" href="http://sbe.com/gift-card/">sbe Gift Card</a></li>
+<li class="l-1  menu-sbe-gift-card"><a class="item-click track-event" href="/gift-card">sbe Gift Card</a></li>
 </ul>          </nav>
         </div>
       </div>
@@ -492,7 +603,8 @@ to Search">
     <p class="col12 text-center text-caps sans-face text-spaced-extra text-bold source-org copyright" style="font-size:10px;">
       <a href="http://sbe.com/terms-of-use">Terms of Use</a> |
       <a href="http://sbe.com/privacy-policy">Privacy Policy</a> <span class="lastbar">|</span>
-      <span class="lastline">© 2014 SBEEG Holdings, LLC</span>
+      <span class="lastline">© 2014        <span id="copyright-text" data-original-copyright="SBEEG Holdings Licensing, LLC"></span>
+      </span>
     </p>
     
     </div>
@@ -532,6 +644,7 @@ to Search">
 
 <a href="#" id="scroll-up-btn" style="display: none;"><i class="ico-triangle-up"></i></a>
 
+
 <div id="reservation_form" class="hide">
 
   <label for="_venue" class="hide">Venue</label>
@@ -539,34 +652,6 @@ to Search">
     <input class="dl-trigger tip-plus" type="text" name="_venue" id="_venue" placeholder="Select a Venue" readonly="" autocomplete="off" data-value="" data-validate-value-presence="Please select a venue">
     <ul class="dl-menu">
 <li><a href="#">Los Angeles</a>
-<ul class="dl-submenu">
-<li><a href="#">Hotels</a>
-<ul class="dl-submenu">
-<li data-switch-screen="#reservations_hotels" data-value="starwood,3171" data-city="los-angeles" data-direct-id="2~291" data-tkt-mob="false"><a href="#">SLS Beverly Hills</a>
-</li>
-<li data-switch-screen="#reservations_hotels" data-value="synxis,29039,10166" data-city="los-angeles" data-direct-id="2~367" data-tkt-mob="false"><a href="#">The Redbury Hollywood</a>
-</li>
-</ul>
-</li>
-<li><a href="#">Restaurants</a>
-<ul class="dl-submenu">
-<li data-switch-screen="#reservations_restaurants" data-value="48526" data-city="los-angeles" data-direct-id="3~1042" data-tkt-mob="false"><a href="#">Cleo Hollywood</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="17581" data-city="los-angeles" data-direct-id="3~737" data-tkt-mob="false"><a href="#">Katsuya Brentwood</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="18376" data-city="los-angeles" data-direct-id="3~733" data-tkt-mob="false"><a href="#">Katsuya Glendale</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="16369" data-city="los-angeles" data-direct-id="3~729" data-tkt-mob="false"><a href="#">Katsuya Hollywood</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="31348" data-city="los-angeles" data-direct-id="3~725" data-tkt-mob="false"><a href="#">Katsuya L.A. Live</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="24940" data-city="los-angeles" data-direct-id="3~271" data-tkt-mob="false"><a href="#">The Bazaar by José Andrés Beverly Hills</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="27535" data-city="los-angeles" data-direct-id="3~184" data-tkt-mob="false"><a href="#">Tres</a>
-</li>
-</ul>
-</li>
-<li><a href="#">Nightlife</a>
 <ul class="dl-submenu">
 <li data-switch-screen="#reservations_nightlife" data-value="create,es_neYLZ0LWBUeb3ZB,los-angeles" data-city="los-angeles" data-direct-id="5~69" data-tkt-mob="true"><a href="#">Create Nightclub</a>
 </li>
@@ -578,7 +663,7 @@ to Search">
 </li>
 <li data-switch-screen="#reservations_nightlife" data-value="Emerson-Theatre,es_EX4CViO773,los-angeles" data-city="los-angeles" data-direct-id="5~238" data-tkt-mob="true"><a href="#">The Emerson Theatre</a>
 </li>
-<li data-switch-screen="#reservations_nightlife" data-value="Library-at-the-Redbury, es_Ceb3TH8jE0nQLun​,los-angeles" data-city="los-angeles" data-direct-id="5~242" data-tkt-mob="true"><a href="#">The Library</a>
+<li data-switch-screen="#reservations_nightlife" data-value="Library-at-the-Redbury,es_Ceb3TH8jE0nQLun​,los-angeles" data-city="los-angeles" data-direct-id="5~242" data-tkt-mob="true"><a href="#">The Library</a>
 </li>
 <li data-switch-screen="#reservations_nightlife" data-value="The-Sayers-Club,es_P2T2Q7TsUB,los-angeles" data-city="los-angeles" data-direct-id="5~580" data-tkt-mob="true"><a href="#">The Sayers Club Hollywood</a>
 </li>
@@ -586,71 +671,27 @@ to Search">
 </li>
 </ul>
 </li>
-</ul>
-</li>
 <li><a href="#">Miami</a>
 <ul class="dl-submenu">
-<li><a href="#">Hotels</a>
-<ul class="dl-submenu">
-<li data-switch-screen="#reservations_hotels" data-value="phg,MIASB" data-city="miami" data-direct-id="2~354" data-tkt-mob="false"><a href="#">SLS South Beach</a>
-</li>
 <li data-switch-screen="#reservations_hotels" data-value="synxis,26021,10166" data-city="miami" data-direct-id="2~152" data-tkt-mob="true"><a href="#">The Raleigh South Beach</a>
 </li>
-<li data-switch-screen="#reservations_hotels" data-value="synxis,60179,10166" data-city="miami" data-direct-id="2~377" data-tkt-mob="false"><a href="#">The Redbury South Beach</a>
-</li>
-</ul>
-</li>
-<li><a href="#">Restaurants</a>
-<ul class="dl-submenu">
-<li data-switch-screen="#reservations_restaurants" data-value="79189" data-city="miami" data-direct-id="3~385" data-tkt-mob="false"><a href="#">Katsuya South Beach</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="6243" data-city="miami" data-direct-id="3~182" data-tkt-mob="false"><a href="#">Restaurant Michael Schwartz</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="79177" data-city="miami" data-direct-id="3~700" data-tkt-mob="false"><a href="#">The Bazaar by José Andrés South Beach</a>
-</li>
-</ul>
-</li>
-<li><a href="#">Nightlife</a>
-<ul class="dl-submenu">
 <li data-switch-screen="#reservations_nightlife" data-value="hydeaaa,es_mBQFzqt3BS5gt9h,miami" data-city="miami" data-direct-id="5~134" data-tkt-mob="true"><a href="#">Hyde at AmericanAirlines Arena</a>
 </li>
 <li data-switch-screen="#reservations_nightlife" data-value="hydesouthbeach,es_tdVG6L9zsDB5HNw,miami" data-city="miami" data-direct-id="5~142" data-tkt-mob="true"><a href="#">Hyde Beach</a>
 </li>
 </ul>
 </li>
-</ul>
-</li>
 <li><a href="#">Las Vegas</a>
-<ul class="dl-submenu">
-<li><a href="#">Hotels</a>
-<ul class="dl-submenu">
-<li data-switch-screen="#reservations_hotels" data-value="micros,sls-lasvegas,mobile-sls-lasvegas" data-city="las-vegas" data-direct-id="2~362" data-tkt-mob="false"><a href="#">SLS Las Vegas Hotel &amp; Casino</a>
-</li>
-</ul>
-</li>
-<li><a href="#">Restaurants</a>
-<ul class="dl-submenu">
-<li data-switch-screen="#reservations_restaurants" data-value="146122,2014/08/23" data-city="las-vegas" data-direct-id="3~6207" data-tkt-mob="false"><a href="#">Bazaar Meat by José Andrés Las Vegas</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="146125,2014/08/23" data-city="las-vegas" data-direct-id="3~6199" data-tkt-mob="false"><a href="#">Cleo Las Vegas</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="118309 " data-city="las-vegas" data-direct-id="3~6939" data-tkt-mob="false"><a href="#">Double Barrel Roadhouse</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="146128,2014/08/23" data-city="las-vegas" data-direct-id="3~6191" data-tkt-mob="false"><a href="#">Katsuya Las Vegas</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="146134,2014/08/23" data-city="las-vegas" data-direct-id="3~7238" data-tkt-mob="false"><a href="#">Ku Noodle</a>
-</li>
-<li data-switch-screen="#reservations_restaurants" data-value="146140,2014/08/23" data-city="las-vegas" data-direct-id="3~7243" data-tkt-mob="false"><a href="#">The Griddle Café Las Vegas</a>
-</li>
-</ul>
-</li>
-<li><a href="#">Nightlife</a>
 <ul class="dl-submenu">
 <li data-switch-screen="#reservations_nightlife" data-value="doublebarrel,es_5nGI3AHKMT,las-vegas" data-city="las-vegas" data-direct-id="5~234" data-tkt-mob="true"><a href="#">Double Barrel Roadhouse</a>
 </li>
 <li data-switch-screen="#reservations_nightlife" data-value="hydebellagio,es_C7LI3uC941,las-vegas" data-city="las-vegas" data-direct-id="5~136" data-tkt-mob="true"><a href="#">Hyde Bellagio</a>
 </li>
-</ul>
+<li data-switch-screen="#reservations_nightlife" data-value="lifenightclub,es_CEDRW091yZ,las-vegas" data-city="las-vegas" data-direct-id="5~6583" data-tkt-mob="true"><a href="#">LiFE</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="lifenightclub,es_CEDRW091yZ,las-vegas" data-city="las-vegas" data-direct-id="5~7738" data-tkt-mob="true"><a href="#">LiFE Nightclub</a>
+</li>
+<li data-switch-screen="#reservations_nightlife" data-value="sayersclub,es_TsD0CJ36EG,las-vegas" data-city="las-vegas" data-direct-id="5~6170" data-tkt-mob="true"><a href="#">The Sayers Club Las Vegas</a>
 </li>
 </ul>
 </li>
@@ -949,29 +990,46 @@ to Search">
 
   <form method="POST" data-subscribe-default-copy="Sign up for exclusives, news, &amp; highlights from the world of&nbsp;sbe." data-subscribe-copy="Get exclusive offers &amp; invites from %.
 <br>Plus, get a monthly dose of exclusives, news, &amp; highlights from the world of&nbsp;sbe.">
- 
+
     <div class="addtop addbottom text-center" id="sf_copy">Sign up for exclusives, news, &amp; highlights from the world of&nbsp;sbe.</div>
 
-    <script type="text/html" id="sf_interrupt_copy"><img src="http://files.sbe.com/content/uploads/2014/03/interrupter.png">
-<h3 style="font-size: 1.7em; margin-top: 1em; line-height: 1.1;">Sign up for sbe exclusives AND be the first to hear about THE CODE</h3>
-Your key to unlocking personalized experiences at sbe's hotel, casino, restaurant and nightlife venues.
-<input type="hidden" name="sf_thecode" value="1"></script>
+    <script type="text/html" id="sf_interrupt_copy"><div class="container" style="background: url(http://files.sbe.com/content/uploads/2014/12/gift-card-interrupter-bg4.jpg); background-size: cover;">
+  <div class="row" style="background: #fff; margin: 25px 0; padding: 25px 0;">
+    <div class="col6 add">
+      <img src="http://files.sbe.com/content/uploads/2014/12/gift-card-interrupter-image.png" alt="Naughty or nice?">
+    </div>
+    <div class="col5">
+      <h4 style="margin-bottom: 0;">EITHER WAY, WE HAVE A</h4>
+
+      <h4 style="color: #BD33AA; margin: 0 0; font-size: 28px;">$25 GIFT FOR YOU</h4>
+
+      <p style="font-size: 0.9em;">WHEN YOU PURCHASE $100 OR MORE<br>
+      IN <b>SBE GIFT CARDS</b> THIS HOLIDAY SEASON</p>
+
+      <a href="http://sbe.com/exclusives/hotel-restaurant-nightlife-gift-card/" style="display: block; padding: 8px; background: #BD33AA; color: #fff; font-size: 24px; letter-spacing: 1px; margin-top: .8em;" class="gift-card-promo-cta">BUY NOW</a>
+    </div>
+  </div>
+</div>
+<style>
+  #subscribe_form { padding: 0; }
+  #subscribe_form .subscribe_form_fields { display: none; }
+</style></script>
 
     <input type="hidden" name="sf_venue" id="sf_venue" value="">
     <input type="hidden" name="sf_lead" id="sf_lead" value="Opt-In - Website">
     <input type="hidden" name="sf_sbe_newsletter" id="sf_sbe_newsletter" value="1">
-  
-    <div class="col12 row">
+
+    <div class="col12 row subscribe_form_fields">
       <div class="col6 add" style="margin-bottom: 10px;">
         <label class="hide" for="sf_first_name">First Name</label>
         <input class="input_gray" type="text" autocomplete="off" id="sf_first_name" name="sf_first_name" placeholder="First Name" data-validate-presence="Please enter your first name">
       </div>
 
-      <div class="col6 add" style="margin-bottom: 10px;">  
+      <div class="col6 add" style="margin-bottom: 10px;">
         <label class="hide" for="sf_last_name">Last Name</label>
-        <input class="input_gray" type="text" autocomplete="off" id="sf_last_name" name="sf_last_name" placeholder="Last Name" data-validate-presence="Please enter your last name">    
+        <input class="input_gray" type="text" autocomplete="off" id="sf_last_name" name="sf_last_name" placeholder="Last Name" data-validate-presence="Please enter your last name">
       </div>
-      
+
       <div class="col6 add" style="margin-bottom: 10px;">
         <label class="hide" for="sf_email">Email</label>
         <input class="input_gray" type="text" autocomplete="off" id="sf_email" name="sf_email" placeholder="Email" data-validate-email="Valid Email required">
@@ -983,17 +1041,17 @@ Your key to unlocking personalized experiences at sbe's hotel, casino, restauran
       </div>
 
     </div>
-    
-    <div class="row count2" style="margin-bottom: 8px;">
+
+    <div class="row count2 subscribe_form_fields" style="margin-bottom: 8px;">
       <div class="cols add">&nbsp;</div>
       <div class="cols add" style="min-height: 30px;">
-        <input type="checkbox" autocomplete="off" id="sf_age_verify" name="sf_age_verify" class="hide" value="1"> 
+        <input type="checkbox" autocomplete="off" id="sf_age_verify" name="sf_age_verify" class="hide" value="1">
         <div class="input_gray_faux" data-faux-checkbox="#sf_age_verify" data-validate-checked="You must be 21 or older to subscribe" data-age-copy-default="I am 21 years old or older.">
           I am 21 years old or older.        </div>
       </div>
     </div>
-    
-    <div class="text-center addtop">
+
+    <div class="text-center addtop subscribe_form_fields">
       <input type="submit" autocomplete="off" class="btn short grayDark submit" value="Subscribe">
     </div>
 
@@ -1014,7 +1072,7 @@ Your key to unlocking personalized experiences at sbe's hotel, casino, restauran
   <script type="text/javascript"> var sharrreURL = 'http://sbe.com/content/themes/sbe/lib/sharrre.php'; </script>
 
   <!-- // GRUNT BUILD -->
-    <script src="http://sbe.com/content/themes/sbe/assets/js/scripts.min.986c68ea.js"></script>
+    <script src="http://sbe.com/content/themes/sbe/assets/js/scripts.min.1fac3ca1.js"></script>
     
   
 	<div id="fb-root"></div>
@@ -1036,19 +1094,18 @@ Your key to unlocking personalized experiences at sbe's hotel, casino, restauran
 	 </script>
 	
     <script>
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2167091-1']);
-  // _gaq.push(['_trackPageview']);
+  // var _gaq = _gaq || [];
+  // _gaq.push(['_setAccount', '']);
+  // // _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  // (function() {
+  //   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  //   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  //   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  // })();
   </script>
 
-  <!-- Google Code for Remarketing Tag -->
-  <script type="text/javascript">
+    <script type="text/javascript">
     /* <![CDATA[ */
     var google_conversion_id = 1067346927;
     var google_custom_params = window.google_tag_params;
@@ -1062,27 +1119,38 @@ Your key to unlocking personalized experiences at sbe's hotel, casino, restauran
     </div>
   </noscript>
 
+  
     <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  // (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  // (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  // m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  // })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-49364725-1', 'sbe.com');
-  ga('require', 'linker'); /*sbe nightflife domains */
-  ga('linker:autoLink',['electrostub.com', 'createnightclub.com','abbeyfoodandbar.com', 'greystonemanorla.com', 'mystudiohollywood.com', 'xivsessions.com','colonybysbe.com','xivsummersessions.com','sayersclub.com', 'emersontheatre.com', 'hydeaaarena.com','hydebellagio.com','hydesunset.com','hydestaples.com','abbeyfoodandbar.com']);
+  // ga('create', '', 'sbe.com');
+  // ga('require', 'linker'); /*sbe nightflife domains */
+  // ga('linker:autoLink',['electrostub.com', 'createnightclub.com','abbeyfoodandbar.com', 'greystonemanorla.com', 'mystudiohollywood.com', 'xivsessions.com','colonybysbe.com','xivsummersessions.com','sayersclub.com', 'emersontheatre.com', 'hydeaaarena.com','hydebellagio.com','hydesunset.com','hydestaples.com','abbeyfoodandbar.com']);
 
   var analytics_arr = [{"name":"none","code":"empty"},{"name":"blog","code":"UA-49560855-1"},{"name":"hotels","code":"UA-49557965-1"},{"name":"restaurants","code":"UA-49566727-1"},{"name":"events","code":"UA-49571010-1"},{"name":"nightlife","code":"UA-49557191-1"}];
-  ga('create', 'UA-49560855-1', 'auto', {'name': 'blog'});
-  ga('create', 'UA-49557965-1', 'auto', {'name': 'hotels'});
-  ga('create', 'UA-49566727-1', 'auto', {'name': 'restaurants'});
-  ga('create', 'UA-49571010-1', 'auto', {'name': 'events'});
-  ga('create', 'UA-49557191-1', 'auto', {'name': 'nightlife'});
+  //ga('create', '', 'auto', {'name': ''});
     </script>
 
 <script type="text/javascript" src="//cdn.callrail.com/companies/346507468/0508e81d70556105b81a/12/swap.js"></script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"17d6851115","applicationID":"3265470","transactionName":"NFRbZBcFWhVZVkFbCw0eeFMRDVsIF1xbVgEb","queueTime":0,"applicationTime":190,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<!-- Google Tag Manager -->
+<script>
+  dataLayer = [];
+</script>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NVWND3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NVWND3');</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"17d6851115","applicationID":"3265470","transactionName":"NFRbZBcFWhVZVkFbCw0eeFMRDVsIF1xbVgEb","queueTime":0,"applicationTime":332,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
@@ -1091,4 +1159,4 @@ Page Caching using disk: enhanced
 Content Delivery Network via Rackspace Cloud Files: files.sbe.com
 Application Monitoring using New Relic
 
- Served from: sbe.com @ 2014-06-23 16:32:31 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+ Served from: sbe.com @ 2014-12-26 09:18:40 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
