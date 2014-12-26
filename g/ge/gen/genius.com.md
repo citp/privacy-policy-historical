@@ -1,92 +1,110 @@
-> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213040055id_/http%3A//www.genius.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226030657id_/http%3A//genius.com/static/privacy_policy) for the most accurate reproduction.*
 
-# PrivacyPolicy : About Genius.com
+# Genius | Annotate the World
 
-## Privacy Policy
+Genius ("Genius," "we" or "us") is committed to protecting your privacy. This Privacy Policy explains how information about you or associated with you ("personal information") is collected, used and disclosed by Genius Media Group, Inc. and its affiliates, which own and operate Genius services ("Genius," "we" or "us"). This Policy applies to the online services offered by Genius at [genius.com](https://web.archive.org/) (the "Website" or "Our Service"). For more information about our service, please visit our [About Genius](https://web.archive.org/static/about) page.
 
-Genius.com® Incorporated ("Genius") respects your privacy and has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. This policy governs web sites owned and operated by Genius, including [www.genius.com](http://www.genius.com/), www.salesgenius.com, www.myleadrocket.com, and app.myleadrocket.com (collectively, the "Sites"). We have established this Statement as a means to communicate our information gathering and dissemination practices to our customers and visitors. This online privacy policy describes how we use, disclose and protect personal information that you share with us. "Personal information" is information that enables us to identify you, such as your name and e-mail address. By using this Site, you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site. 
-
-Genius has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through the Web sites, http://www.salesgenius.com and http://www.genius.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/>. watchdog/request.
-
-### Information Collection and Use
-
-We require customers who register to use the services offered on our Sites (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, and credit card number. When you register for the Service, or when you ask for additional information from Genius about the Service, we may also ask you for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not providing it when asked to do so. 
-
-Genius uses the information that we collect to set up the Service for customers and their organizations. We may also use the information to contact customers to discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, at any time by [clicking here](https://web.archive.org/web/20140213040055id_/http%3A//www.genius.com/forms/email-opt-out.php) and submitting their email. 
-
-All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Genius for marketing or promotional purposes. Genius uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. 
-
-Customers of the Service will be using the Site to host data and information ("Data"). Genius will not review, share, distribute, print, or reference any such Data except as provided in the Genius Terms of Service (including the Acceptable Use Policy or "AUP"), or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Terms of Service, AUP, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password. 
-
-Genius may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This Web Site Navigational Information is logged to help diagnose technical problems, to analyze trends, to track users' movements around the site, and to administer our Site in order to constantly improve the quality of the Site and our Service. We may also track and analyze individual usage and volume statistical information ("Aggregated Information") from our visitors and customers." The Company may also use Web Site Navigational Information in combination with personally-identifiable information to provide customized information about the Company. 
-
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site and register for a trial account. Genius stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
-
-Your friend may contact us at to request that we remove this information from our database. 
-
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. If a customer chooses to post personally-identifiable information to our website, it may be used by other users of the website to contact you. We are not responsible for the personally-identifiable information a user chooses to post to our website with their testimonial. 
-
-### Information Sharing and Disclosure
-
-Genius will not sell or rent your personal information, including customer e-mail addresses, to anyone. We may disclose your personal information to our third party contractors who perform services for Genius Incorporated in order to complete or confirm your transaction. These contractors are permitted to use the personal information only for the purposes of such services, unless we have your permission for any other use. 
-
-Genius Incorporated may disclose and transfer the information obtained from you through this Site or the Service as part of a merger, acquisition or other sale of its assets or business. 
-
-Moreover, we may be legally obligated to disclose information to the government or to third parties under certain circumstances, such as illegal activity on our Site. Genius reserves the right to release personal information to its service providers, law enforcement or other government officials or in response to a formal request in a civil action, Court order or judicial proceeding as Genius Incorporated, in our sole and absolute discretion, deems necessary or appropriate. 
-
-We may also provide Aggregated Information to third parties. Such information will not include personal information of any customer or visitor.   
+  1. INFORMATION WE COLLECT
+  2. SHARING PERSONAL INFORMATION WITH THIRD PARTIES
+  3. YOUR CHOICES REGARDING YOUR INFORMATION
+  4. SECURITY AND STORAGE OF INFORMATION
+  5. CHILDREN'S PRIVACY
+  6. LINKS TO THIRD PARTY WEBSITES
+  7. UPDATES TO THIS POLICY
+  8. YOUR CALIFORNIA PRIVACY RIGHTS
+  9. CONTACTING US
+  10. LAST REVISION DATE
 
 
-### Opt-Out Policy
 
-If, at any time after registering for information or ordering the Service, you change your mind about receiving promotional information from us or about our sharing information with third parties for promotional purposes, send us a request specifying your new choice. Send us an email at . 
+### 1\. INFORMATION WE COLLECT
 
-Genius reserves the right to send customers certain communications from relating to the Service, such as service announcements and administrative messages, that are considered part of your account, without offering you the opportunity to opt-out of receiving them. 
+The categories of information we collect can include:
 
-### Correcting & Updating Your Information
+**_Information We Collect From You Directly._**
 
-If customers need to update or change registration information they may do so by editing the user record. To update User Preferences, log on to salesgenius.com and select Preferences to add or update information. To update billing information please e-mail or call 650-212-2050, x116. To discontinue the Service, please call 650-212-2050, x116. Genius will respond to your correction or update request within at most 30 days from the date of your request. 
+  * **Registration.** You can browse our site without providing personal information, but you must create an account in order to access some of the features of our site. When you create an account, we may collect personal information, such as your email address, user name and password and date of birth. If you take part in any interactive features of the Services (such as any contests, games, promotions, quizzes, surveys, research or other services or features), we may collect additional types of personal information. We may also collect information from you if you correspond with us directly.
+  * **Profile Information and User Content.** After you set up your account, Genius members may also chose to provide additional information which may be shared through public profiles, such as your user name, a picture to represent yourself (which may or may not be a photo of you), and a personal narrative. You control how much personally identifying information you wish to provide in your public profile. We may collect User Content you provide on the Website and we may display it publicly on your user Profile. For example, your profile page may display information about the pages, artists, or works upon which you have commented. Such information may include "favorites" such as artists, songs and lines. Other users can post to a wall in this profile, where the public can view references to your comments you have made on the Website. If you chose to connect your social media account to your profile, we may also display information from your social media sites such as Facebook and Twitter.
+  * **Information we may receive from social network sites:** When you interact with our site through various social media, such as when you login with or link to your social media account, "Like" us on Facebook or share through another social media site, we may receive information from the social network such as your profile information, profile picture, gender, user name, user ID associated with your social media account, age range, language, country, friends list, and any other information you permit the social network to share with third parties. The data we receive is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to our website or Service. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at . We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-### Cookies
 
-When you interact with the Site, we try to make that experience simple and meaningful. When you visit our Site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer's hard drive and are used to indicate whether you have visited the Site previously. 
+We use this information to operate, maintain, and provide our features and services on the website, populate your profile, and communicate with you directly, such as by responding to a request or by providing updates on your IQ or lyrics you have previously commented upon. . You can control your receipt of email messages by clicking the "unsubscribe" button at the bottom of email communications you receive from us. We may also send you Service-related emails (e.g., account verification, change or updates to features of the Service, or technical and security notices). You may not opt-out of Service-related e-mails. For more information about your communication preferences, see "Your Choices Regarding Your Information" below.
 
-Choices about Cookies: You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) 
+**_Information Automatically Collected._**
 
-If you reject all cookies, you will not be able to use Genius Incorporated products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. 
+We automatically collect certain types of usage information when you visit our website or use our Service. When you visit the Service, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets us help you log in faster and enhance your navigation through the site. A cookie may also convey information to us about how you use the Service (e.g., the pages you view, the links you click and other actions you take on the Service), and allow us to track your usage of the Service over time. We may collect log file information from your browser or mobile device each time you access the Service. Log file information may include anonymous information such as your web request, Internet Protocol ("IP") address, browser type, identity of your internet service provider, information about your mobile device, referring / exit pages and URLs, the number and duration of page views, number of clicks and how you interact with links on the Service, domain names, landing pages, and other such information. When you access our site through a mobile device, we may receive or collect and store a unique identification number associated with your device and other device information. We may also employ clear gifs (also known as web beacons) which are used to anonymously track the online usage patterns of our Users. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service. We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit, your use of third party applications, and other information that assists us in analyzing and improving the Service.
 
-Our Practices Regarding Cookies: Genius uses cookies for a number of purposes, including to: access your account information when you "sign in," so that we can provide you with customized content; keep track of preferences you specify while you are using Genius Incorporated services; estimate and report our total audience size and traffic; and conduct research to improve Genius Incorporated content and services. 
+We use or may use the data collected through cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) customize your user experience; (c) provide and monitor the effectiveness of our Service; (d) monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service; (e) diagnose or fix technology problems; and (f) otherwise to plan for, improve and enhance our service. We may associate information we automatically collect with your other information. 
 
-We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user�s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers� personally identifiable information. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, please see �Choice and Opt-out.� 
+### 2\. SHARING PERSONAL INFORMATION WITH THIRD PARTIES
 
-Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of Genius is used only to provide us with information on Site usage and is not shared with any other third parties. Our third party partners may employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers� or Users� personally identifiable information. 
+We may share your personal information in the instances described below. For further information on your choices regarding your information, see the "Your Choices Regarding Your Information" section below.
 
-### Third-Party Sites
+Remember, our Services allow you to connect with others and share information about yourself with other individuals. Your profile information, including your user name, photo, and personal narrative, and comments you make on the Website, will be available publicly to other members of the Service by default and may be searchable by search engines which may display your information publicly. Similarly, your name and photo will be displayed alongside any comments you make on the Website and may be displayed on our homepage alongside your IQ if you make The Weekly IQ Leaderboard, on our Contributors list, or in connection with your comments and reactions to our blog and to other contributors. By using the Service, you consent to have your profile information displayed publicly. 
 
-The Site contains links to other web sites. Genius Incorporated is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential. 
+We may also share your personal information with:
 
-### Security and Data Storage
+  * Other companies owned by or under common ownership as Genius Media Group., Inc., which also includes our subsidiaries (i.e., any organization we own or control) or our ultimate holding company (i.e., any organization that owns or controls us) and any subsidiaries it owns. These companies will use your personal information in the same way as we can under this Policy;
+  * Third party vendors, consultants and other service providers that perform services on our behalf, in order to carry out their work for us, which may include providing cloud storage or hosting services, marketing assistance, email delivery, content or service fulfillment, or providing analytics services. We share personal information with these third parties as needed to perform services for us and under reasonable confidentiality terms;
+  * Our business partners who offer a service to you jointly with us, for example, when running a co-sponsored contest or promotion;
+  * Third parties who we think may offer you products or services you may enjoy. As of November 2013, Genius does not share your personal information with third parties for advertising purposes, however we reserve the right to share your personal information, such as email address and user name, with third parties for their marketing purposes in the future if we determine that there may be additional products or services which may be of interest to you. See "Your Choices" below for details on how to opt-out of this sharing; 
+  * Third parties at your request. For example, you may have the option to share your activities on our Services with your friends through social media; 
+  * Other parties in connection with any company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings; and
+  * Third parties as required to (i) satisfy any applicable law, regulation, subpoena/court order, legal process or other government request, (ii) enforce our Terms of Use Agreement, including the investigation of potential violations thereof, (iii) investigate and defend ourselves against any third party claims or allegations, (iv) protect against harm to the rights, property or safety of Genius, its users or the public as required or permitted by law and (v) detect, prevent or otherwise address criminal (including fraud or stalking), security or technical issues. We may also share information with others in an aggregated and anonymous form that does not reasonably identify you directly as an individual.
 
-Our Site has security measures in place to help protect against the loss, misuse, and alteration of the personal information and Data under our control. Genius hosts the Site in a secure server environment that uses a firewall and other industry-standard technology to help prevent interference or access from outside intruders. Genius also requires that unique user names and passwords must be entered each time a customer logs on to the Site. Genius.com uses SSL encryption to ensure that users' sensative information is protected and encrypted when processing credit card transactions. 
 
-Genius keeps your account information active in our user registration databases in order to provide immediate access to your personalization preferences and data each time you visit the Site. If you ask Genius to delete your Genius account, in most cases your account will be deactivated and then deleted from our user registration database in approximately 90 days. This delay is necessary to discourage users from engaging in fraudulent activity. Please note that any information that we have copied may remain in back-up storage for some period of time after your deletion request. This may be the case even though no information about your account remains in our active user databases. 
 
-### Blog Disclosure
+### 3\. YOUR CHOICES REGARDING YOUR INFORMATION
 
-If you use a bulletin board, blog, or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you choose to submit in these forums. 
+**Marketing Communications.** If you do not want to receive promotional emails from us, you can click the "unsubscribe" button on promotional email communications. Note that you will not be able to unsubscribe or opt-out of non-promotional messages regarding your account, such as account verification, password reminders, changes or updates to features of the Service, or technical and security notices. 
 
-### Social Media Widgets
+As of November 2013, Genius does not share your personal information with third parties for advertising purposes, however we reserve the right to share your personal information, such as email address and user name, with third parties for their marketing purposes in the future if we determine that there may be additional products or services which may be of interest to you. If you wish to have your user name and email address excluded from any such future sharing with partners, please email [privacy@genius.com](mailto:privacy@genius.com) with the subject "Direct Marketing Opt-Out." We will not send you an individualized notification that this policy is being updated if we elect to share information with a partner in this manner, so you must opt-out now. If you have any questions about this opt-out or our marketing practices, please email us at [privacy@genius.com](mailto:privacy@genius.com). 
 
-Our Web site includes Social Media Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+**Online Advertising.** As of November, 2013, Genius does not engage in online behavioral advertising and does not allow third parties to track your activities on our website over time and across other websites. In the future, we may share certain tracking information with online advertising networks so that they may display ads that may be relevant to your interests on our Service as well as on other websites or apps. Typically, the information we would share in this regard is provided through cookies or similar tracking technologies. The only way to completely "opt out" of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser's or mobile device's technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about behavioral advertising and to learn how to opt-out, you may wish to visit [http://aboutads.info](http://aboutads.info/)). Depending on your mobile device, you may not be able to control tracking technologies through settings. 
 
-### Changes to this Statement
+**Do Not Track.** At this time, we do not collect information from you for behavioral advertising purposes, though we may collect persistent identifiers from your browser or mobile device to assist us with providing and improving the Service. Because we collect browsing and persistent identifier data only for analytic and internal purposes, your selection of the "Do Not Track" option provided by your mobile browser will not have any effect on our collection of analytics information or the collection of a persistent identifier. 
 
-Genius may update this Statement at any time, so please review it frequently. If we make material changes to this Statement, we will notify you in this Statement, by email or by a notice posted on the home page of the Site. 
+**Data Access and Retention:** If you wish to change or delete your profile and personal information, you may contact us at privacy@genius.com and we will amend or delete your personal information within a reasonable time after your request. Because of the crowd-sourced and collaborative nature of our service, however, we will not be able to delete content you post to public areas of our site. We may be able to anonymize your information such that you will no longer be reasonably identifiable. 
 
-### Questions?
+### 4\. SECURITY AND STORAGE OF INFORMATION
 
-If you have any questions about this Statement or the practices of this Site, please contact us at . You may also write to us at Genius.com Incorporated, 2400 Broadway St #130, Redwood City, CA 94063. 
+Genius cares about the security of your information and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information we collect and that we share with our service providers. Because of the nature of our website, WE DO NOT CURRENTLY ENCRYPT ANY TRANSMISSIONS TO OR FROM THE WEBSITE IN ANY MANNER. IF YOU ARE UNCOMFORTABLE WITH THE UNENCRYPTED TRANSMISSION OF THE PERSONAL INFORMATION DESCRIBED HEREIN, PLEASE DO NOT SUBMIT INFORMATION TO US THROUGH THE WEBSITE. While we take reasonable precautions against possible security breaches, no website or internet transmission is completely secure and we cannot guarantee that unauthorized access, hacking, data loss or other breach will never occur. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations. 
 
-Privacy Policy effective Feb 1st 2014 
+### 5\. CHILDREN'S PRIVACY
+
+This Website is not intended for children under the age of 13 and we do not knowingly collect any personal information from children under 13. In the event that we learn that we have inadvertently collected personal information from children under 13, we will delete or anonymize such information. Please contact us at [privacy@genius.com](mailto:privacy@genius.com) if you have any questions about children's privacy.
+
+### 6\. LINKS TO THIRD PARTY WEBSITES
+
+The Services may, from time to time, contain links to and from third party websites of our partner networks, advertisers, partner merchants, retailers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check the individual policies before you submit any information to those websites. 
+
+### 7\. UPDATES TO THIS POLICY
+
+We reserve the right to modify this Policy from time to time. If we make any changes to this Policy, we will change the "Last Revision" date below and will post the updated Policy on this page. 
+
+### 8\. YOUR CALIFORNIA PRIVACY RIGHTS
+
+As of November 2013, Genius does not share your personal data with third parties for marketing purposes, but reserve the right to do so in the future. Under California law, Genius users who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: 
+
+In the United States:
+
+Genius  
+Genius Media Group, Inc.  
+184 Kent Ave., #C702  
+Brooklyn, NY 11249
+
+Alternatively, you may send us an email at [privacy@genius.com](mailto:privacy@genius.com) with the words "California Privacy Rights" in the subject line. 
+
+### 9\. CONTACTING US
+
+If you have questions about this Policy, please contact us at [privacy@genius.com](mailto:privacy@genius.com) or by writing to us at:
+
+Genius  
+Genius Media Group, Inc.  
+184 Kent Ave., #C702  
+Brooklyn, NY 11249
+
+### 10\. LAST REVISION DATE
+
+This Policy was last revised on, and effective as of, November 26, 2013
