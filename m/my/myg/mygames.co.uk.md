@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygames.co.uk privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518072449id_/http%3A//www.agame.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygames.co.uk privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226103531id_/http%3A//www.agame.com/privacy-policy) for the most accurate reproduction.*
 
 # Free online games at Agame.com
 
@@ -36,7 +36,7 @@ The information that our Websites collect includes (among others) the following:
 
 2.5    SPIL may share demographic information (certain anonymous information about you as a user, such as age and country) with certain ad network providers to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by such third parties as ad network providers is subject to their own privacy policies, not this Privacy Policy. 
 
-2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookie opt-out page, which can be found [here](http://www.networkadvertising.org/managing/opt_out.asp). However, some features and services may not function properly if cookies are disabled. 
+2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies, or to indicate when a cookie is sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser. You may also use the following link to the Network Advertising Initiatives cookie [opt-out page](http://www.networkadvertising.org/choices) or the link to the [European Interactive Digital Advertising Alliance (EDAA) opt-out page](http://www.youronlinechoices.com/). However, keep in mind that some features and services may not function properly if cookies are disabled. 
 
 **b)    ** **Personal Data, Including Your E-mail Address**
 
