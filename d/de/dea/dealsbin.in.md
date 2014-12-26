@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsbin.in privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529034733id_/http%3A//dealsgaram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsbin.in privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226235712id_/http%3A//dealsgaram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dealsgaram
 
