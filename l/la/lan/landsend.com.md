@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205092847id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226192005id_/http%3A//www.landsend.com/customerservice/legal_policies/privacy) for the most accurate reproduction.*
 
 # Lands' End | Customer Service | Legal Policies | Privacy
 
-### To cancel a catalog subscription
+### Contact Information
 
-To cancel your subscription to any of our catalogs, please call **1-800-963-4816** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.). Please allow 2-4 weeks to process your request.
+For questions about this policy, please use our [Contact Us Form](https://www.landsend.com/customerservice/contact_us/), call 1-800-963-4816 or send an email to [landsend@landsend.com](mailto:landsend@landsend.com).
+
+### To manage your catalog or email subscriptions
+
+To cancel your subscription to any of our catalogs, please call 1-800-963-4816 or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.). Please allow 2-4 weeks to process your request. You can manage you email subscription [here](http://www.landsend.com/customerservice/services/signup_email/).
 
 ### Your privacy at Lands' End
 
@@ -18,7 +22,7 @@ Lands' End gathers personal information from you in order to provide superior se
   * **Non-Purchases** \- There may be instances when you are not making a purchase at Lands' End and you give us your name, address, phone number and/or email address, and where applicable, payment information, or when somebody else gives us your name, address, phone number and/or email address, and where applicable, payment information. Some situations when this may occur are when you return or exchange merchandise, receive a gift from Lands' End or enter a contest or participate in a promotion or survey sponsored by Lands' End.
   * **Personal Shopping Account** \- If you create a Personal Shopping Account with us so that you may place orders more conveniently, you authorize us to store your name and shipping address(es), and payment information.
   * **Catalog requests** \- We need your name and address in order to mail you a catalog. We also require a phone number or email address so that we can contact you in the unlikely event there is an error in your address or other delivery problem. To stop receiving catalogs, simply call **1-800-800-5800** or email [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com).
-  * **email updates** \- When you subscribe to receive Lands' End email updates featuring exclusive offers (like free shipping), product news, special discounts, contest announcements and more, we require your email address. You can [unsubscribe anytime](https://web.archive.org/cgi-bin/newsletter.cgi).
+  * **email updates** -When you subscribe to receive Lands' End e-mail updates featuring exclusive offers (like free shipping), product news, special discounts, contest announcements and more, we require your e-mail address. You can [unsubscribe anytime](http://www.landsend.com/customerservice/services/signup_email/).
 
 
 
@@ -28,7 +32,7 @@ We ask you for certain kinds of personal information in order to provide you wit
 
 In addition, our site utilizes 'cookies.' Cookies do not gather any of your personally identifiable information. They do allow us to provide you with a more personalized shopping experience and enable you to fully interact with and complete your transaction on our site.
 
-Lands' End shares its customer information with its affiliated companies, including SearsÂ® and KmartÂ®. We also may share your information with our business partners (below) in order to provide you with certain services. Finally, we do make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.)
+Lands' End shares its customer information with its affiliated companies, including Sears® and Kmart®. We also may share your information with our business partners (below) in order to provide you with certain services. Finally, we do make our mailing list available to carefully screened companies whose products or services might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.)
 
 In addition, Lands' End cooperates in advertising member networks with other consumer entities where we may communicate your personal information so that select members may inform you about products or services that might interest you. If you prefer to have your name withheld, please call us toll-free at **1-800-800-5800** or send an email to [websiteinquiry@landsend.com](mailto:websiteinquiry@landsend.com?subject=Cancel%20my%20catalog%20subscription&body=Please%20include%20your%20full%20name%20and%20address,%20or%20the%20C%23%20found%20on%20the%20mailing%20label%20of%20one%20of%20your%20Lands%27%20End%20catalogs.).
 
@@ -36,7 +40,7 @@ If you first became a Lands' End customer through a transaction with our parent 
 
 For more about your privacy at Lands' End, please call us toll-free at 1-800-800-5800 or email us, including your name and mailing address, at [myprivacy@landsend.com](mailto:myprivacy@landsend.com).
 
-Along with respecting your privacy, Lands' End diligently strives to keep your personal information safe and secure. (Please see our [Security Policy.)](https://web.archive.org/web/20131205092847id_/http%3A//www.landsend.com/customerservice/security/)
+Along with respecting your privacy, Lands' End diligently strives to keep your personal information safe and secure. (Please see our [Security Policy.)](https://web.archive.org/web/20141226192005id_/http%3A//www.landsend.com/customerservice/security/)
 
 #### What are cookies?
 
