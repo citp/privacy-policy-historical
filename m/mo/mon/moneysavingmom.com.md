@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysavingmom.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060108id_/http%3A//moneysavingmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingmom.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226031251id_/http%3A//moneysavingmom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Money Saving Mom®
 
@@ -6,13 +6,11 @@
 
 **Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.**
 
-**Google Adsense and the DoubleClick DART Cookie**
+**Cookies and Web Beacons**
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
+We use third party advertisements on MoneySavingMom.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-To opt out of the DART cookies you may visit [the Google ad and content network privacy policy here](http://www.google.com/privacy_ads.html). Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
-
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Money Saving Mom® has no access or control over these cookies that may be used by third party advertisers.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 **Collection of Personal Information**
 
@@ -32,4 +30,5 @@ The contents of this statement may be altered at any time, at our discretion.
 
 [Contact us](http://moneysavingmom.com/contact) if you have any questions regarding this privacy policy.
 
-_This policy last updated March 18, 2010_
+_This policy last updated September, 2014.  
+_
