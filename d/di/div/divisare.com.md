@@ -1,45 +1,44 @@
-> *The following text is extracted and transformed from the divisare.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127130010id_/http%3A//divisare.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divisare.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227003334id_/http%3A//divisare.com/privacy) for the most accurate reproduction.*
 
-# Divisare: Privacy policy
+# Privacy - Divisare by Europaconcorsi
 
-## Divisare protects your Privacy
+## Europaconcorsi protects your Privacy
 
-Your privacy is a priority for Divisare, and we do all we must to protect it. Divisare.com respects the online privacy of its users, according to Italian law 196/2003 (read the informative section). Your data will never be given or leased to any third party, and will not be used for any scope other than for communication purposes on Divisare. Absolutely no Spam. That's a promise.
+Your privacy is a top priority for Europaconcorsi, and we make every effort to protect it. Europaconcorsi respects the online privacy of its users, in accordance with Italian law 196/2003.We will never sell or rent out your personal information to anyone, and it will never be used for any purpose other than to communicate with you and send you information about Europaconcorsi. Absolutely no Spam. That’s a promise.
 
-## What kinds of information we gather
+## The information we collect 
 
-There are three fundamental pieces of information necessary for using Divisare:
+There are basically two pieces of personal information that need to be provided in order to use Europaconcorsi:
 
-  1. First and last name
-  2. E-mail address
-  3. Scholastic institute where didactic activities are being pursued.
-
+  1. Your name and surname
+  2. Your e-mail address
 
 
-Your e-mail address will never be transmitted or made visible to third parties.
 
-## Why do we collect your personal information?
+Your e-mail address will never be disclosed or made visible to others
 
-One of Divisare's main objectives is to facilitate the circulation of ideas and communication among the architects of tomorrow. For this reason we have created a place where those who want to can tell more about themselves, and can supply information regarding their personal architectural tastes in addition to the abovementioned three pieces of information (for example, their favorite architects or architecture)..
+## Why we collect your personal information
 
-## How long do we keep your data?
+One of the main goals of Europaconcorsi is to encourage the spreading of ideas and communication among design engineers. In order to facilitate these exchanges, we have created a place where people – those who wish to do so – can talk about themselves and provide, on top of the personal data referred to above, additional information about who they are and their architectural tastes (for example, favourite architects or works of architecture).
 
-For as long as you wish. Remember that you can cancel or modify your data at any time and without going through any intermediary. Once you have cancelled your data, this information is destroyed for always. Divisare does not keep offline databases
+## How long we retain your data for
 
-## Questions about privacy.
+For as long as you want to. Remember that you can delete or edit your data at any time and with no need for intermediaries. Once you delete your data, it is destroyed forever. Europaconcorsi retains no data in off-line archives.
 
-If you have questions or worries about privacy protection policies on Divisare or about data processing, please contact us at the following e-mail address: [support@divisare.com](mailto:support@divisare.com). We will get back to you within 7 days.
+## Questions about privacy
 
-## Privacy Informative Section
+Should you have any questions or concerns about the privacy protection policy of Europaconcorsi or about its data processing methods, please contact us at the following e-mail address: [support@europaconcorsi.com](mailto:support@europaconcorsi.com). We will get back to you within 7 days.
 
-In accordance with Article 13 of the Law 196/2003, of the personal data protection Code, we inform you that following the consultation of this site, data related to identified or identifiable persons may be treated. 
+## Information Note on the Privacy
 
-The treatment of your personal data will take place at our company's headquarters via automated tools for the time strictly necessary to fulfill the scope for which it was gathered.
+Pursuant to art. 13 of Italian Legislative Decree 196/2003, Code on the protection of personal data, we would like to inform you that following the consultation of this website, data pertaining to identified or identifiable people may be processed.
 
-Specific security measures have been adopted to prevent the loss, illicit use, inappropriate use or unauthorized access of this data. The sending of e-mail to the addresses indicated on this site will comport the subsequent acquisition of the sender's address necessary for responding to the requests, as well as eventual additional personal data that has been inserted into the message. Treatment in connection with services provided by this site is managed by personnel assigned to this task.
+Your personal data will be processed at our company’s facilities by means of automated tools, for the time that is strictly necessary to achieve the purposes for which it was collected.
 
-The user is free to provide personal information requested in the registration form to receive the services provided by Divisare. Providing incomplete or incorrect data may result in the impossibility to provide these services.
+Specific security measures have been adopted to prevent the loss of data, unlawful or improper uses and unauthorized access. The sending of electronic mail to the addresses provided on this website entails the subsequent acquisition of the sender’s address, needed to reply to the requests, as well as any other personal data included in the message. Processing activities associated with the services rendered by this website are carried out only by personnel assigned to the processing.
 
-On the contrary, if the required fields are not filled in, there will be no result on the fulfillment of requested services. You are acknowledged the rights outlined in Article 7 of the Law no. 196/2003 and, in particular, the right to have access to your personal data, to request its rectification, updating or cancellation, if incomplete, erroneous or gathered in violation of the Law, as well as opposition to treatment for legitimate reasons..
+The user is free to provide the personal data requested in the registration form in order to receive the services offered by Europaconcorsi. Providing incomplete or incorrect data may make it impossible for your requests to be met.
 
-The Holding Company of personal data is Europaconcorsi srl, with headquarters in Rome, via dei Chiavari 10, by legal representation, to which you can communicate via Fax number 0668600737, or at the following e-mail address: [support@divisare.com](mailto:support@divisare.com) or by telephone number 06681923355.
+On the contrary, failure to fill in fields requiring optional data shall have no consequence on the provision of the requested service. The user is entitled to exercise the rights referred to in art. 7 of Italian Legislative Decree no. 196/2003 and, in particular, the right to access their personal data, to ask that they be rectified, updated and deleted, if incomplete, incorrect or collected in violation of the provisions of the law, as well as the right to object to the processing for legitimate reasons.
+
+The Owner of the processing is Europaconcorsi S.r.l., with head office in Rome, at the address of Piazza Gentile da Fabriano 3, in the person of its legal representative pro-tempore, who users can contact by sending an e-mail to the following address: [support@europaconcorsi.com](mailto:support@europaconcorsi.com).
