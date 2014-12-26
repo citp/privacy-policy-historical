@@ -1,25 +1,59 @@
-> *The following text is extracted and transformed from the jammulinksnews.com privacy policy that was archived on 2011-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110918103139id_/http%3A//www.jammulinksnews.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jammulinksnews.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227001928id_/http%3A//jammulinksnews.com/privacy.aspx) for the most accurate reproduction.*
 
-# Terms Of Use
+# Jammu Links
 
-**Privacy Policy**
+|  |  Privacy   
+---  
+|   
+---  
+Privacy Policy  
+This Privacy Policy sets out our practices with respect to the collection, use and disclosure of personal information in connection with www.jammulinksnews.in (the Site). This Privacy Policy may be updated by us at any time by posting on the site without any prior notice. Also, this Privacy Statement may be supplemented or modified by agreements entered into between us and an individual from time to time. In this Privacy Statement, personal information means any information about an identifiable individual, including contact and demographic details, not including collective information or information regarding a group in summarized form.  
+Collection of Personal Information  
+The Site's registration form requires users to give us contact information (such as name and email address) and demographic information (such as postal code, age, or income level) and other information that is used by us to provide services. We use the customer contact information from the registration form to send the user information that he or she has requested regarding the Site or regarding services offered by us. This Site uses an ad form for customers to place online and/or print ads. One of the express purposes of the Site is to gather contact information provided voluntarily by customers to be published either online or in print, as the case may be, and in connection with items that are for sale by customers. We have no control over who views online or print ads. Contact information provided may be used to contact customers when necessary. We collect customers financial information (such as account or credit card numbers) to bill the user for products and services, but retain this information only as required to process the transaction and for as long as may be required by law.
 
-JL Group Internet Ltd, (JL Group) a wholly owned subsidiary of Bennett Coleman & Co. Limited. JL Group's Sites located at JL Group's Sites is the mother brand of JL Group and powers / manages the Online Properties (Brand Names) of the 'JL Group Group' interalia www.jammulinks.com, www.jammulinksnews.com including various internet sites and community boards and services, to name a few, (JL Group's Sites Channels) hereinafter collectively referred to as JL Group. 
+Demographic and profile data is also collected at the Site. We use this data to tailor each visitor's experience at the Site, showing the user content that we think he or she might be interested in, and displaying the content according to the users preferences.
 
-JL Group respects the privacy of it's users and is committed to protect it in all respects.With a view to offer most enriching and holistic internet experience to it's users JL Group offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about JL Group . Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'JL Group's Sites Channels' in detail. The information about the user as collected by JL Group is: (a) information supplied by users and (b) information automatically tracked while navigation (Information). 
+Our online surveys ask visitors for contact information (such as email addresses) and demographic information (such as postal code, age, or income level). We use contact data from our surveys to send users information about our products and services. Users may opt-out of receiving future mailings (see the Opt-Out section below).
 
-To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code etc., and / or your occupation, interests, and the like. (All required information is Service Dependent). The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites as in JL Group's Sites Contests, dating etc. we require your contact addresses. 
+We may use customer information for additional purposes that may be identified at or before the time that the information is collected. We also use information from customers for accounting and transaction completion purposes.
 
-To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. 
+We use third-party advertising companies like google to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information, specifically for google, [click here.](http://google.com/privacy_ads.html)  
+  
+Disclosure of Personal Information  
+We may disclose certain personal information as follows: 
 
-Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. 
+  * by publishing ads either online and/or in print, as the case may be, in connection with items that are for sale by customers
+  * to third party service providers and to affiliated entities in order to carry out work on our behalf
+  * to law enforcement agencies for the purposes of investigating fraud or other offences, or
+  * to legal, financial, and other professional advisors or in connection with the sale or reorganization of all or part of its business or operations.
+  * By having your mobile number listed on jammulinksnews.in, you agree to receive 
 
-JL Group includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
+SMS from users who may wish to contact you through the site. Except as provided above, we will not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required or permitted by law.   
+Cookies and IP Addresses  
+We may use your IP address to identify you and your membership, gather broad demographic information about our users, diagnose problems with our server, and administer the Site. The Site uses cookies to keep track of your membership tools and to make sure you do not see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you do not have to re-enter it each time you visit the Site. We also provide an option to log out should you be using an insecure or publicly shared computer.
 
-When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with JL Group, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you. 
+We use outside ad companies to display ads on the Site. These ads may contain cookies. While we use cookies in other parts of the Site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information.  
+  
+Links  
+This Site contains links to other websites, such as websites providing national search capabilities and information resources designed to inform buyers and sellers about general aspects of property that is being sold. We are not responsible for the privacy practices or the content of such websites. Please ensure you review the privacy policies of the websites that you visit.  
+Security  
+We protect against the loss, misuse and alteration of personal information with security measures appropriate to the sensitivity of the information. However, it is possible that any information transmitted via the Internet may be intercepted by unknown third parties.  
+Opt-Out  
+   
+When appropriate, users of the Site are given the opportunity to 
 
-All information gathered on JL Group is securely stored within the JL Group controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access. 
+  * opt-out of receiving communications from us,
+  * remove their information from our database, or
+  * elect to no longer receive services from us. If you wish to opt-out of receiving further communications, please contact us.
 
-However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://www.advertising.com/Privacy.html) 
+  
+Corrections/Contact  
+Users of this Site may contact Jammu Links to modify or correct any of their personal information that is under our control. An individual may also direct a written complaint regarding compliance with this Privacy Statement to us and, within a reasonable time upon receiving the written complaint, we will conduct an investigation into the matter, and we will take necessary measure/s to rectify the source of the complaint, as appropriate.  
+   
+   
+|  |   
+---  
+NEWS VIDEO  
+  
+[ ](https://web.archive.org/web/20141227001928id_/http%3A//jammulinksnews.com/videos.aspx)  
+ 
