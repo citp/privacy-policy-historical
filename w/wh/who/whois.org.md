@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whois.org privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624143938id_/http%3A//www.verio.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whois.org privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226170206id_/http%3A//www.verio.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Verio Privacy Policy
 
