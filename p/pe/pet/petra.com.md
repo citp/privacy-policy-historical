@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petra.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605184918id_/http%3A//www.petra.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petra.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226174334id_/http%3A//www.petra.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 Petra Industries values your business and your confidence in our ability to service your needs. It is based on this trust that you should feel secure in your review of our website and of any data you may choose to share electronically.
 
-This privacy statement is applicable to www.petra.com, a website owned by Petra Industries, Inc.
+This privacy statement is applicable to www.petra.com, a website owned by Petra Industries, LLC
 
 We have developed our website with security measures to protect the integrity and security of your personal and professional information. Petra believes in protecting your private information. Petra may use your information for improving your buying experience for future purchases, improving our website, improving customer service, processing your transactions, sending periodic emails or to administer a contest, promotion, survey or other website feature. However, your information will be held in strictest confidence and stored for Petra’s use only. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions in each email. We will not give away, sell, transfer, rent or lease your personal information to any third party without your consent. We may release your information when we believe release is appropriate to comply with the law or legal action when necessary, enforce our website policies, or protect our’s or others’ rights, property or safety.
 
