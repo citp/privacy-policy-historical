@@ -1,25 +1,99 @@
-<!--The following is the downloaded HTML source of the landrysselect.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630213848id_/http%3A//www.landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the landrysselect.com privacy policy that was archived on 2014-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226131751id_/http%3A//www.landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
-
+	Privacy Policy | Landry's Select Club
 </title>
    	    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Script/jquery/js/jquery-1.7.1.min.js"></script>
    	
-
-
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css">
+    <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
     <script type="text/javascript">
 
         var _gaq = _gaq || [];
+        var errArray = [];
+        var accesstoken;
+        var gnplayer;
+        var tmx;
         _gaq.push(['_setAccount', 'UA-9259970-1']);
         _gaq.push(['_trackPageview']);
 
+        var passedValidation = true;
+        
         (function() {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
         })();
 
+        function validateFormBeforeSubmit() {
+            var username = $('#ctl00_txtUserName').val();
+            var password = $('#ctl00_txtPassWord').val();
+            
+            if (username == '' || password == '') {
+                passedValidation = false;
+                errArray.push('Please make sure that UserName and Password are filled in.');
+            }
+            else {
+                passedValidation = true;
+            }
+
+            if (errArray.length > 0) {
+                displayErrorMsg();
+            }
+
+            if (errArray.length > 0)
+                return passedValidation;
+            else {
+                CheckAccount(username, password);
+                if (gnplayer.toUpperCase() == "GNSELECT") {
+                    
+                    setTimeout(function() {
+                        window.location.href = "http://www.gnselect.com";
+                    }, 5000);
+                    $('#redirectdialog').dialog();                    
+                    return false;
+                }
+                else
+                    return passedValidation;
+            }
+        }
+
+        function CheckAccount(username, password) {
+            var parameters = "{ Email: '" + username + "', Password: '" + password + "' }";
+            var webMethod = "LSCServices.asmx/GetUser";
+            $.ajax({
+                type: "POST",
+                url: webMethod,
+                data: parameters,
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                async:   false,
+                success: function(data) {
+                    //alert(data.d.FaultCode);
+                    gnplayer = data.d.FaultCode;
+                },
+                failure: function(msg) {
+                    alert(msg);
+                }
+            });
+        }  
+
+        function displayErrorMsg() {
+
+            var i = 0;
+            var displayMsg = "";
+            for (i = 0; i < errArray.length; i++) {
+                displayMsg += "<img src='/images/exclamation.gif' alt='Error!' image style='border: none;' />&nbsp;" + errArray[i] + "<br />";
+            }
+
+            //update the error message within the div from the errArray
+            var errorMsg = document.getElementById('ctl00_lblLoginError');
+            errorMsg.innerHTML = displayMsg;
+            errArray.length = 0;
+        }
+        
+        
     </script>
         
     <link href="styles/style.css" rel="stylesheet" type="text/css">
@@ -78,7 +152,7 @@
    </script> 
 </head>
 <body>
-<form name="aspnetForm" method="post" action="/PrivacyPolicy.aspx" id="aspnetForm">
+<form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMPZBYMAgIPFgQeCkNvbnRleHRLZXkFBG5vbmUeDVVzZUNvbnRleHRLZXlnZAIID2QWAgIBDw9kFgIeB29uY2xpY2sFHXRoaXMub25jbGljayA9ICdyZXR1cm4gZmFsc2UnZAIUDw8WAh4EVGV4dAUPUHJvZ3JhbSBVcGRhdGVzZGQCFg8WAh4JaW5uZXJodG1sBSBMYW5kcnkncyBTZWxlY3QgQ2x1YiBhdCBNYXN0cm8nc2QCFw8PFgIfAwW+Ag0KICAgICAgICBBdCB0aGUgcHJlc2VudCB0aW1lLCBMYW5kcnkncyBTZWxlY3QgQ2x1YiBiZW5lZml0cyBhcmUgbm90IGFjY2VwdGVkIGF0IE1hc3RybydzIFJlc3RhdXJhbnRzLiBUaGlzIGluY2x1ZGVzIHByaW9yaXR5IHNlYXRpbmcgYW5kIGVhcm5pbmcgcG9pbnRzIGFuZCByZWRlZW1pbmcgcmV3YXJkcyBhdCBNYXN0cm8ncyBsb2NhdGlvbnMuPGJyIC8+PGJyIC8+PGEgc3R5bGU9J2NvbG9yOiNmZmY7JyBocmVmPSJodHRwOi8vd3d3LmxhbmRyeXNzZWxlY3QuY29tL0xvY2F0aW9uTWFwLmFzcHgiPlBBUlRJQ0lQQVRJTkcgTE9DQVRJT05TPC9hPg0KICAgIGRkAhgPDxYEHwNlHgtOYXZpZ2F0ZVVybGRkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgURY3RsMDAkY2hrUmVtZW1iZXIFDmN0bDAwJGJ0bkxvZ2lurbn7w0O4gSF3whc9HMpG8pDm0kY=">
 
 
@@ -88,6 +162,7 @@
 <script src="/ScriptResource.axd?d=BpsFebBnZ-09bmj7i-H5GWYX96MWvKH_eRZJtRwfp3lMJq1ECryuqqpITWhNoRCvDQTaflkq1TcOnfZBNVh3cmaPj_kwgDAqqLDPgFT1SXP6SMNbRWF1wwOiZvupkTX0W_aiz0PeEezBKkEwQFPGGN7cqGw1&amp;t=58e39af5" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=gpIQ-fmeF31t5KpFUBsiwFgBmvCjdbniLT00vpSE5oyDtFB0s9HrNU9DMfOtJW7_ZVpXXt2Cu80QqQG65rWEsklKILzx4ew-sEwEWHssGCBZxh9La9W6fhd-kaEq18O349xtPkitZqBf7UohZGcUTZ7BLhM1&amp;t=58e39af5" type="text/javascript"></script>
 <input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQK3//vNDAL32/PyCwKB7cvWBQKa3qqsBwLnrI+ZDz3KRREbFraFq63JwaUvZw2hB3n5">
+<div style="display:none;" id="redirectdialog"><h1><b>Welcome to the GN Select Program!</b></h1><p><b>You will be redirected to the GN Select program website in 5 seconds. If you are not redirected please click on the link below.</b></p></div>
 
 <div id="outer">
 	<!-- BEGIN TOP LOGO AND PROMO AREA -->
@@ -346,7 +421,7 @@
 				<div class="modulepad">
 					<div class="clear">
 					    <div class="alert" style="text-align:center;">
-					        <div id="ctl00_loginHeader">Log in to access your account.</div><br>
+					        <div id="ctl00_loginHeader">Access Your Account</div><br>
 					        <span id="ctl00_lblLoginError"><br></span>
 					     </div>
                     </div>
@@ -372,7 +447,7 @@
                     
 </div>
 					<div class="textcenter">
-                   <input type="image" name="ctl00$btnLogin" id="ctl00_btnLogin" src="images/buttons/login.gif" onclick="this.onclick = 'return false';" border="0">
+                   <input type="image" name="ctl00$btnLogin" id="ctl00_btnLogin" src="images/buttons/login.gif" onclick="return validateFormBeforeSubmit();this.onclick = 'return false';" border="0">
 
                    
                     </div>
@@ -391,9 +466,7 @@
 			    <div class="darkbuttonOrange"><div class="darkbuttonpadOrange"><a href="/ExistingAccount/Default.aspx">
                     Purchased a Membership at a Store?<br><strong>Click Here to Register Your Card!</strong></a></div>
                 </div>
-                <div class="darkbuttonBlue"><div class="darkbuttonpadBlue"><a href="/mortonsvip/Default.aspx">
-                    Are you a Morton's VIP?<br><strong>Click Here to Migrate Your Account!</strong></a></div>
-                </div>
+                
 
                 
 
@@ -459,10 +532,18 @@
 	<!-- END FOOTER -->
 </div>
 <div id="app-dialog" class="app-dialog" title="">
-    <img src="images/AppPopup.jpg" alt="LSC App" style="visibility:hidden; width:600px; height: 368px;">
-<div class="ios"><a href="https://itunes.apple.com/us/app/lsc/id776185510?mt=8" target="_blank"><img src="images/available_app_store_S.png" alt="iOS App" style="padding-right:2px;"></a>
-<a href="https://play.google.com/store/apps/details?id=net.landrysinc.lac" target="_blank"><img src="images/android-app-on-google-play_S.png" alt="Google App" style="padding-right:2px;"></a>
-<a href="http://appworld.blackberry.com/webstore/content/43195888/?lang=en&amp;countrycode=US" target="_blank"><img src="images/BlackBerry_Logo_Preferred_White_S.png" alt="Blackberry App"></a></div>
+    <!--<div style="background-color: #ce4425;">-->
+    <div>
+    <div style="text-align: center; margin-left: auto; margin-right: auto;">
+        <!--<a href="SummerSweeps.html"  target="_blank" style="outline: 0;">-->
+            <img src="images/SummerSweeps.png" style="border: none;" alt="Summer Splash Sweeps" usemap="#planetmap">
+            <map name="planetmap">
+	      <area shape="rect" coords="34,475,241,512" href="SummerSweeps.html" target="_blank" style="outline: 0;" alt="Get Details">
+	    </map>
+        <!--</a>-->
+    </div>
+    </div>
+    
 </div>
 <div id="overlay"></div>
 
