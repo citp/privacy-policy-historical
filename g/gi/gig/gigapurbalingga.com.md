@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gigapurbalingga.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064942id_/http%3A//gigapurbalingga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapurbalingga.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227000334id_/http%3A//gigapurbalingga.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GigaPurbalingga
+# Privacy Policy
 
 [  
-**Secure Download ( 100% Working )**](http://applicationgrabb.net/aq_b?q=Privacy%20Policyoffer_id=2&aff_id=2027)
+**(Download Here 100% working)**](http://boostads.net/download/giga/Privacy%20Policy)
 
 This Privacy Policy governs the manner in which GigaPurbalingga collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://gigapurbalingga.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by GigaPurbalingga.
 
@@ -23,11 +23,11 @@ How we use collected information
 
 GigaPurbalingga may collect and use Users personal information for the following purposes:
 
-\- To improve customer service  
+– To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To improve our Site  
+– To improve our Site  
 We may use feedback you provide to improve our products and services.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to send them information and updates pertaining to their order.
 
 How we protect your information
@@ -69,5 +69,4 @@ gilang@gigapurbalingga.com
 This document was last updated on February 21, 2014
 
 [  
-**Privacy Policy**](http://applicationgrabb.net/aq_b?q=Privacy%20Policyoffer_id=2&aff_id=2027)  
-
+**Privacy Policy**](http://boostads.net/download/giga/Privacy%20Policy)
