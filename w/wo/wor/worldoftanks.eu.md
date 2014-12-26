@@ -1,103 +1,161 @@
-> *The following text is extracted and transformed from the worldoftanks.eu privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211013444id_/http%3A//worldoftanks.eu/en/content/docs/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoftanks.eu privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226111032id_/http%3A//worldoftanks.eu/en/content/docs/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | World of Tanks
+# PRIVACY AND COOKIE POLICY | World of Tanks
 
-15 June 2010, 17:01
+Last updated: 18.08.2014
 
-Version updated February 19, 2013
+## **1\. Introduction**
 
-Wargaming PCL, a public company limited with a principal place of business at 105, Agion Omologiton Avenue 1080 Nicosia CYPRUS ("WN"/we/us/our) maintains this Privacy Policy ("Policy") that summarizes our policies and processes for protecting the privacy of all personal information gathered from customers, prospective customers, and visitors to our website(s) or who download WN's products and services, and when and how such information is collected, used, transferred, disclosed and safeguarded. This Policy also explains how anyone can review, update, correct, or delete their personal information and specify what information, if any, they would like to receive from WN on an on-going basis.
+  1. We are committed to protecting and respecting your privacy. This Privacy and Cookie Policy (" **Policy** ") describes how we treat information that you provide to us or that we collect about you.
+  2. By personal data, we refer to data that relates to you as an identified or identifiable person. Personal data include your name, your address, your telephone number, your e-mail address, your age, your gender and your game preferences, a part of your credit card number. Anonymous information, which we are not in a position to relate to you, does not qualify as personal data.
+  3. We may collect personal data as well as other information when you use the following services: 
+    * Our websites, including [http://worldoftanks.eu](http://worldoftanks.eu/), [http://worldofwarplanes.eu](http://worldofwarplanes.eu/), [http://www.worldofwarships.eu,](http://www.worldofwarships.eu/) [http://wargaming.net](http://wargaming.net/) and any other Wargaming sites on which this Policy is posted (the " **Sites** ").
+    * Your creation and use of a Wargaming account on any of the Sites (an " **Account** "). For more information on Accounts and how to create an Account please see our [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/).
+    * Your use of any of our online and mobile games including, but not limited to, _"World of Tanks"_ , _"World of Warplanes"_ and _"World of Warships"_ (once available) (the " **Games** " or individually a " **Game** "). Your use of each Game will be subject to the End User Licence Agreement (the " **EULA** ") and the game rules (the " **Game Rules** ") in respect of that Game. You can find links to the EULA and the Game Rules for our Games in our [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/). Your use of any of the forums that we operate for the Games (the " **Games Forums** "). Your use of any of the Games Forums will be subject to the rules and guidelines applicable to the Games Forums (the " **Forum Rules** "). The Forum Rules are set out at:  
+ **\- for World of Tanks** :  
+<http://forum.worldoftanks.eu/index.php?/forum-40/announcement-124-forum-rules/>   
+ **\- for World of Warplanes** :  
+<http://forum.worldofwarplanes.eu/index.php?/forum-21/announcement-17-forum-rules/>  
+ **\- for World of Warships** :  
+[http://forum.worldofwarships.eu/](http://forum.worldofwarships.eu/)  
+and constitute a part of [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/).  
 
- THE USE OF OUR SERVICES, GAMES, AND WEB SITES ARE SUBJECT TO AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY. THIS PRIVACY POLICY ONLY ADDRESSES ACTIVITIES FROM OUR SERVERS. OTHER SITES (INCLUDING THOSE TO WHICH WE MAY LINK) AND OTHER SERVICE PROVIDERS MAY HAVE THEIR OWN POLICIES, WHICH WE DO NOT CONTROL, AND THUS ARE NOT ADDRESSED OR CONTROLLED BY THIS POLICY. IF YOU DO NOT AGREE WITH THE TERMS OF OUR PRIVACY POLICY, PLEASE DO NOT USE OUR SERVICES OR ACCESS OUR SITES.
+    * Your use of any of our other products and services (including support services) which may be accessible via a third party platform, web application or social networking service (together the " **Ancillary Services** ").  
+In this Policy we refer to the Sites, the Account, the Games and the Ancillary Services together as the " **Services** ".  
 
-## **1\. Commitment**
-
-WN is committed to ensuring your privacy and protecting the security of your personal information. This Policy covers the public WN websites – including, but not limited to [http://www.wargaming.net](http://www.wargaming.net/), [http://www.worldoftanks.com](http://www.worldoftanks.com/), [http://www.worldoftanks.eu](https://web.archive.org/), [http://www.worldoftanks.de](http://www.worldoftanks.de/), [http://www.worldoftanks.fr](http://www.worldoftanks.fr/), [http://www.worldoftanks.co.uk](http://www.worldoftanks.co.uk/), [http://www.worldoftanks.it](http://www.worldoftanks.it/) and [http://www.worldoftanks.ru](http://www.worldoftanks.ru/) sites (collectively, the "Website") — and all online forms, internal forms and means of communication on the Website and  computer game client World of Tanks (hereinafter – “Game”) used to collect personal information.
-
-If you have any comments, concerns or questions regarding our Policy, please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. ** **
-
-**If you do not agree with any terms or conditions described in this Policy or the Terms of Service, please exit from the Website.**
-
-## **2\. Collecting Personal Information**
-
-### **2.1 Collecting Information**
-
-We or our business partners may collect and process the following information and/or data about you:
-
-  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website and Game services, subscribing to our service, posting material or requesting further services, including your first name and last name, your gender, date of birth, email address, telephone number, social network ID, user name and password. We may also ask you for any information (required for organization of activities) when you enter a competition or promotion sponsored by our business partners and when you report a problem with our Website or Game.
-  * If you contact us, we may keep a record of that correspondence.
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
-  * Details of transactions you carry out through our Website and of the fulfillment of your orders. 
-  * Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs, and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
-  * For some activities, we may ask you to create a username and password and/or to provide other, non-personal information such as your age, date of birth, gender, and/or game and platform preferences; and, combine such information with your personal information. In addition, your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to WN. We may use this information to generate aggregate statistics about our user community and may provide such non-personal information to advertisers and/or our partners. In addition, WN may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or enforcement purposes.
+  4. **Please read this Policy carefully. By starting using any of the Services, you accept the Privacy Policy.   If you do not agree to this Privacy Policy, please do not attempt to use the Services. By accepting this Policy, you signify your consent to the collection and other processing of your personal data in accordance with and for the purposes set out in this Policy.**
 
 
 
-### **2.2 IP Address and Cookies**
+## **2\. Who we are**
 
-We or our business partners may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our partners. This is statistical data about our users' browsing actions and patterns, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us:
+We are
 
-  * To estimate our audience size and usage pattern.
-  * To store information about your preferences, and so allow us to customize our Website according to your individual interests, as well as make your experience with WN more personal and pleasant.
-  * To speed up your searches.
-  * To recognize you when you return to our Website.
+**Wargaming Public Company Limited,**  
+ **105, Agion Omologiton Avenue,**  
+ **Nicosia 1080,**  
+ **Cyprus**
+
+( **"Wargaming** ", " **we** ", " **our** " and " **us** ").
+
+We respect your right to privacy and will only process personal data and other information you provide to us or we collect about you in accordance with applicable privacy and personal data protection laws.
+
+## **3\. Information we may collect from you**
+
+When you use the Services we may collect the following categories of data:
+
+When you create an Account, we collect and process the following “ **Account Data** ”:
+
+  * Your first name and last name, your gender, date of birth, e-mail address, telephone number, social network ID, address, user name, password. You may also choose to provide some other optional information about you.
 
 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website.
+When you purchase virtual items, virtual currency (so-called “ **gold** ”) or time-limited premium memberships with the credit card, we collect and process the following “ **Payment Information** ”:
 
-### **2.3 Log Files**
+  *  Your credit card number (or a part of it), and information about your credit card issuer.
 
-Like most Internet services, we may also use log files on the server side. The data held in log files includes your IP (Internet Protocol) address, browser type, e-mail application, Internet service provider, referring/exit Web pages, computer platform type, date/time stamp, and user activity (e.g., feature usage, user rankings, game statistics). WN uses server log data to analyze trends, administer the services offered through the Website and in the Game. IP addresses are not tied to any personally identifiable information.
 
- The software enabling the Website and the Game has associated log and temporary files that are stored on WN's servers. These files store your account information, preference settings, system notifications as well as other data necessary to enable you to participate on the Website and in the Game. Your information may also exist within regularly performed server backups. The foregoing information is collected on an aggregated and anonymous basis for providing Website and Game functioning.
 
-## **3\. Consent to Monitor**
+When you use the Services, we may collect and process the following “ **Tracking Data** ”:
 
-When you play any of the games offered and/or served by WN, or use any of the communication features on the Websites and in the Game, your IP address (the Internet protocol address from which you access any of the above) may be stored in our records. When any Game is updated or "patched," our patch routine may check your computer to see that you have the most recent version of game-specific files; when you communicate on the Website, within the Game or any other communication feature on the Website or within the Game (e.g. live chat, instant message services and the like), even "privately" to another person, you do so with the understanding that those communications go through our servers, can be monitored by us, you have no expectation of privacy in any of those communications and, accordingly, you expressly consent to monitoring of communications that you send and receive.
+  * Location information associated with your IP address when you visit our Sites or use a Game.
+  * Information relating to your use of our Services including, but not limited to, information about when and how you use the Services and data traffic and recordings of the parts of the screen you click on while using our Services (so called “clickstreams”).
+  * Log files and statistics in relation to actions taken on our Sites and in the Games.
+  * Technical information about any device that you use when you visit the Sites or use a Game, including your Media Access Control (MAC), Unique Device Identifier (UDID) or equivalent device identifier, your IP address and the browser you are using.
 
-## **4\. Storage of Your Personal Information**
 
-We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Policy. All information you provide to us is stored on our secure servers. WN uses industry-standard technology, such as firewalls, in an effort to protect the confidentiality of your personal information. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website or the Game, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+For the collection and processing of Tracking Data on the Sites we use cookies. Their functionality and your options regarding their use are explained in section 4 below.
 
-## **5\. Use of Your Personal Information**
+When you use the Services, we may collect and process the following “ **Content Data** ”:
 
-Generally, the information that you disclose on our website is collected by WN or by third parties such as co-sponsors or vendors for the promotion. WN’s use of any such information will be governed by this Policy. The names of third parties such as co-sponsors (other than vendors hired by WN to conduct, administer, and execute a promotion on behalf of WN) will be disclosed to you when you are asked to sign up for the promotion.
+  * Information that you post in any of the Games Forums.
+  * Information sent through the "game-chat" functionality in the Games,
+  * Information you provide when you request information or support from us or purchase a product or service from us, including information necessary to process your orders with the relevant payment merchant which may include the amount of any transaction, but will not include your financial information which will only be submitted directly to the payment merchant under secure protocols.
+  * Information other than the Account Data you provide to us when participating in competitions, contests and tournaments and responding to surveys.
+  * Information relating to your profiles on social networking sites in order to allow integration with such social networking sites.
 
-We generally do not sell or trade any personal information about our customers, prospects, or visitors to any third parties. We may share, however, aggregated demographic information with our business partners and advertisers. This is not linked to any personal information that can identify any individual person.
 
-Without your consent we are entitled to share the information stipulated in clause 2 “Collecting Personal Information” with third companies that perform services, such as email delivery, hosting and payment processing, for the purpose of duly providing you with products and services of the Website and the Game that you request from us. However, these companies will only be entitled to use received information in order to provide the services of the Website and the Game that you request from us.
 
-Finally, in the event WN combines with another company in the future through a corporate merger, sale, acquisition, liquidation or other similar process, your personal information may be transferred with the business or a part of it, or may be sold as an asset of the business.
+## **4\. Cookies**
 
-## **6\. Compliance**
+  1. The Sites use cookies and similar technologies that collect Tracking Data to distinguish you from other users. This helps us to provide you with a good experience when you access the Sites and use the Services.
+  2. A cookie is a small file of letters and numbers that a website places on your computer or device when you visit a website. You are given the opportunity to consent to using of cookies or refuse from them as you enter our Sites. If you have opted out, we only use the strictly necessary cookies (as described below) and store one permanent ‘compliance’ cookie which tells us that you want to opt out of use of any other cookies. For more information about cookies, we recommend that you visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  3. The cookies that are used on the Sites fall into the categories described below. These descriptions can help you determine if and how you would like to interact with our Sites and other online services:  
 
-WN strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, WN intends to adhere to the principles set forth in this Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can, and you authorize us to, disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Furthermore, WN may also disclose information about you in case WN determines that such disclosure is necessary for national security reasons, law enforcement and/or other public importance issues.
+    * **Strictly necessary cookies  
+** These cookies are essential in order to enable you to navigate the Sites and use certain features. Without these strictly necessary cookies, the online services provided by the Sites cannot be provided. It is therefore not possible for you to opt out of use of these cookies.  
+In addition, the coding language the Sites are written in uses session cookies and their use cannot be avoided. These are deleted each time you close your browser. These cookies do not store any information about the visitor once the browser is closed.
+    * **Performance cookies  
+** Our performance cookies collect anonymous information about how you use the Sites and their features. For instance, our performance cookies collect information about which pages on the Sites are visited most often, which advertisements you view or interact with on the Sites or other websites on which our advertisements appear and if you receive any error messages.
+    * **Analytics cookies  
+** The Sites use Google Analytics, a web analytics service provided by Google, Inc. (“ **Google** ”). Google Analytics uses “cookies”, which are text files placed on your computer, to help us analyse how users use the Sites. The information generated by the cookie about your use of the Sites (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymisation, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. Only in exceptional cases, the full IP address is sent by us to and shortened by Google servers in the USA. On behalf of us, Google will use this information for the purpose of evaluating your use of the Sites, compiling reports on website activity for us and providing other services relating to website activity and internet usage to us. Google will not associate your IP address with any other data held by Google.  
+The Sites may use other similar analytics cookies. These cookies are used to collect information about how visitors use the Sites. The information is collected anonymously, and used to report on the number of visitors to the Sites, where the visitors have come from, and the pages they have visited.  
+Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout?hl=en-GB). Further information can be found under <http://www.google.com/analytics/terms/gb.html> (Google Analytics Terms of Service & Privacy). Please note that on the Sites, Google Analytics code is supplemented by “gat._anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking). Also, you can prevent Google Analytics to collect such data on behalf of Wargaming by clicking on the following link:  
+<https://tools.google.com/dlpage/gaoptout>.
+    * **Functionality cookies  
+** Functionality cookies are used to remember choices you make (such as language preference, country location, or other online settings) and collect anonymous information.
+    * **Targeting or advertising cookies  
+** Third-party targeted advertising cookies may be placed on your device by third-party advertisers, ad networks, data exchanges, marketing analytics and other service providers. **  
+**Third-party targeted advertising cookies collect information about your browsing activity across multiple websites and online services (e.g., about the sections of the websites you visit, the products you are interested in) in order to provide you with relevant advertisements on the websites and online services of third parties. Ad networks may share this information with the advertisers using their network. The information collected using these third-party advertising cookies does not disclose your identity, but will be used to identify you across multiple websites. We can use third party advertising services the list of which you can find at[ http://worldoftanks.eu/en/content/docs/disclosure](http://worldoftanks.eu/en/content/docs/disclosure/ "http://worldoftanks.eu/en/content/docs/disclosure/"). You can opt out from their services via the instructions and/or links available at their websites or by contacting them directly.
+  4. If you wish to refuse the use of cookies by us or by third parties, you can change your browser settings to reject cookies. As the means by which you can do this varies from browser to browser, please visit your web browser's "Help" menu for further details. Please note that, should you choose to refuse the use of cookies by us, this might impair some of the functionality of the Sites and the Services.
 
-## **7\. Opt-Out Provision**
 
-You also have the opportunity to subscribe to services for receiving e-mails (newsletters, Game - and Website - updates) that will be forwarded to your e-mail address stipulated by you while registration not more than once a week.
 
-If you do not want WN to send you e-mail about our products and services, you can opt-out at any time by clicking the unsubscribe link at the bottom of each e-mail.
+## **5.  How we use your information**
 
-In case question arise, please, contact our Customer support team through https://support.worldoftanks.eu
+We may use the information that you provide to us or that we collect about you for the following purposes:
 
-## **8\. Children’s Privacy**
+  1. Provision of services. Account Data, Tracking Data and Content Data may be collected and processed by us to provide you with the Services that you request from us and to perform the respective EULA and [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/) accepted by you. Data collected for that purpose will only be kept as long as necessary to provide the requested Services, and to comply with applicable laws.
+  2. Any data collected may be processed by us to detect, investigate and prevent activities that may be illegal, or that may violate the [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/) or Forum Rules, or that may violate the respective EULA or Game Rules in respect of any of the Games. Such data will be kept for a maximum duration of six months after the Account closure.
+  3. Creation of additional promotion and advertising and creation of user profiles:  
 
-The accounts on WN Website are available only to individuals who are not under the age of thirteen (13). If you are under the age thirteen (13), you may not create an account on the Website, you may not sign up for any subscription service or buy anything through the Website, and you are not eligible to enter any of our sweepstakes or promotions.
+    * **We may use the e-mail address registered to your Account to provide you with information about products and services related to our Services that you request from us, unless you choose to opt out from this service at the time your Account is created.   You may also opt-out from use of your e-mail address for this purpose at any time, by sending an e-mail from the e-mail address registered to your Account to **[ **privacy@wargaming.net**](mailto:privacy@wargaming.net) **  stating that you do not wish to receive such information. Alternatively, you may opt out by following the unsubscribe instructions at the bottom of each e-mail you receive from us.**
+    * **We may use Tracking Data to monitor, improve, or modify the Services and our operations.**
+    * **We may create a “personal user profile” by connecting your Account Data with your Tracking Data for purposes of improving, or modifying the Services and our operations and, for our own promotions, advertising and market research.**
 
-Except as may be required by law, WN will not knowingly collect, maintain, or disclose any personal information from children under the age of 13. We take kids privacy seriously, and encourage parents to play an active role in their children's online experience at all times.
 
-WN recommends that parents and guardians spend time online with their children to become more familiar with the types of content available on the Internet, including our online games.
 
-Parents and guardians should regularly oversee their children's use of email and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for kids.
+## **  6** **. Sharing your information**
 
-## **9\. Changes to our Policy**
+  1. We will not share your personal data with anyone else unless in the following limited circumstances: 
+    * To the extent that we are required to do so by applicable law, by a governmental body or by a law enforcement agency, or for crime prevention purposes.
+    * Where necessary to enforce the [Terms of Service](http://worldoftanks.eu/en/content/docs/terms_of_service/) or [Forum Rules](http://forum.worldoftanks.eu/index.php?/forum-40/announcement-124-forum-rules/), or the ** ** EULA ** ** or Game Rules in respect of any of the Games, to provide you with Services you request from us, to protect the safety of our users and third parties, to protect our rights and property and the rights and property of other users and third parties, or in other cases if we believe in good faith that disclosure is required by law.
+    * Where necessary to provide you with Services you request from us, we may share your personal data with third parties who provide services to us, including to countries outside the European Economic Area. You can find the list of such third parties at [http://worldoftanks.eu/en/content/docs/disclosure](http://worldoftanks.eu/en/content/docs/disclosure/ "http://worldoftanks.eu/en/content/docs/disclosure/").
+  2. We may share anonymous information, i.e. information which does not directly or indirectly disclose your identity, and aggregated information (meaning information about groups and categories of users, including game statistics and behaviour, but which does not identify and that cannot reasonably be used to identify any individual user) with our advertising partners, the list of which you can also find at [http://worldoftanks.eu/en/content/docs/disclosure](http://worldoftanks.eu/en/content/docs/disclosure/ "http://worldoftanks.eu/en/content/docs/disclosure/"). We may also allow our advertisers to collect anonymous information and aggregated information within the Services and they may then share that information with us. Our advertisers may collect this information through the use of tracking technologies like cookies and web beacons. This enables our advertisers to develop and deliver targeted advertising in the Services and on the websites of third parties, so that they can try to serve you with advertisements for products and services that are most likely to be of interest to you. Advertisers will also use this information to monitor, improve, or modify their operations.
 
-This Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to the Policy, we will notify you by posting the change on the Policy and, if necessary, give you additional choices regarding such change. Your continued use of our Website will signify your acceptance of these changes.
 
-## **10\. Contact Us**
 
-If you have any questions, complaints, or comments regarding this Policy, or have other questions or suggestions about our Website, please email us to [privacy@wargaming.net](mailto:privacy@wargaming.net).
+## **7\. Children**
+
+We recognise that we have a special obligation to protect personal information obtained from children. We will not knowingly collect personal information from any child, or process such information, without parental consent. For the purpose of this Policy, a child means any individual who is under the age of 18 (or the minimum legal age to consent to the collection and processing of personal information where this is different under applicable law).
+
+## **8.  Security**
+
+  1. We take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Our employees, contractors and agents may be given access to your personal information which we collect, but their use shall be limited to the performance of their duties in relation to facilitating your use of the Services. Our employees, contractors and agents who have access to your personal information are required to keep that information confidential and are not permitted to use it for any purposes other than those listed above or to deal with requests which you submit to us. 
+  2. We have implemented all reasonable technical, administrative and physical security measures to protect the security of your information.
+
+
+
+## **9.  Third party sites**
+
+The Services may contain links to other websites operated and services provided by third parties, including those retailers you enter into a transaction with. Please note that this Policy applies only to the personal information that we collect through the Services and we cannot be responsible for personal information that third parties may collect, store and use through their websites or their services. You should always read the privacy policy of each website you visit carefully.
+
+## **10.   **Your rights****
+
+In addition to your opt-out right under section 4.2, you may exercise the following rights at any time:
+
+  * You may ask us to provide you with copies of the personal information that we hold about you, or with information about the processing of such information.
+  * You may ask us to update and correct any out-of-date or incorrect personal information that we hold about you.
+
+
+
+If you wish to exercise any of these rights, then please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net). If you ask us to delete personal information about you then we may retain an archived copy of this information if required to do so by law.
+
+## **11\. Changes to this Policy**
+
+We may change this Policy from time to time for various reasons such as changes to reflect in law and regulation, changes in industry practices and technological developments. In case you have a registered Account, you will be notified of any changes of this Policy via e-mail to the e-mail address related to your Account. The latest version of this Policy will always be available on the Sites. Any new version of this Policy shall take effect (i) immediately upon the date of your receipt of the notification e-mail where the changes to this Policy relate to non-material changes which do not reduce your rights; or (ii) no less than thirty (30) days after your receipt of the notification e-mail where the changes to this Policy potentially reduce your rights; or (iii) in case you do not have a registered Account, the moment they are uploaded to our Services.
+
+## **12.  Questions and comments**
+
+If you have any questions or comments about this Policy, please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net).
