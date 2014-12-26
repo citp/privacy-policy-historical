@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the goibibo.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628232740id_/http%3A//www.goibibo.com/common/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goibibo.com privacy policy that was archived on 2014-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226101549id_/http%3A//www.goibibo.com/common/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMAWVVADQcIVlha"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy - Goibibo</title>
 
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KT7GT2"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMAWVVADQcIVlha"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","queueTime":1,"licenseKey":"ae504947bb","agent":"js-agent.newrelic.com/nr-476.min.js","transactionName":"bgYDMkUFV0QHVhJZVldMJxNZB01eCVtJU1ZUDg4IGRJQUhFGXEBLUBUABU40VlsPVh8a","applicationID":"548298,2052386","errorBeacon":"bam.nr-data.net","applicationTime":33}</script>
 <meta name="description" content="Goibibo protects the privacy of its customers by keeping all the personal information confidential. To learn more about privacy policy of the company visit our privacy policy page.">
 <meta name="keywords" content="privacy policy, Goibibo, Goibibo travel policy">
+
+
+	
 
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
 <meta http-equiv="content-language" content="en">
@@ -16,10 +19,13 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
 <link rel="publisher" href="https://plus.google.com/+goibibo">
+
 <link rel="canonical" href="http://www.goibibo.com/common/privacy/">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.goibibo.com/common/privacy/">
+<link href="/styleguide/css/combinedStyles.css" rel="stylesheet" type="text/css" media="all">
 
 
-    <link href="//goibibo.ibcdn.com/css/v2/lib-combined-min-v2.1403920840.css" rel="stylesheet" type="text/css" media="all">
+    <link href="//goibibo.ibcdn.com/css/v2/lib-combined-min-v2.1419483306.css" rel="stylesheet" type="text/css" media="all">
 
 
 
@@ -34,7 +40,7 @@
                 use_existing_jquery=false,
             // DO NOT EDIT BELOW THIS LINE
                 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=57486&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140628232740id_%2Fhttp%3A%2F%2Fwww.goibibo.com%2Fcommon%2Fprivacy%2F&amp;r=0.29754026063589967" type="text/javascript"></script>
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=57486&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141226101549id_%2Fhttp%3A%2F%2Fwww.goibibo.com%2Fcommon%2Fprivacy%2F&amp;r=0.6896829313065986" type="text/javascript"></script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
 <noscript>
 <div style="display:inline;">
@@ -46,262 +52,147 @@
 
 </head>
 <body class="">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KT7GT2"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KT7GT2');</script>
+<!-- End Google Tag Manager -->
+
 <input type="hidden" id="smimid" value="">
 
 
 
-<div id="gi_header">
-    
-	<noscript><div class="browseMsg"><strong>Please change the Browser settings to support Javascript</strong></div></noscript>
-	<div id="hd_main">
-
-
-<!-- adding new html -->
-
-<!-- old html -->
-
-
-		<div class="logo fl">
-					<a title="Goibibo Travel" class="brand fLeft" href="/">Goibibo</a>
-			</div>
-
-
-		
-
-
-
-
-
-		<div class="primaryNav fl">
-			<ul class="productNav" id="hd_vertical">
-				<li id="hd_flight" class="flight "><span class="navIcon flightIcon hd_flight"></span>
-<a href="/flights/" title="Flight Tickets" class="hd_flight">Flights</a></li>
-
-				<li id="hd_hotels" class="hd_htlz hotel "><span class="navIcon hotelIcon hd_hotels"></span><a href="/hotels/" title="Book Hotels" class="hd_hotels">Hotels</a></li>
-
-
-				
-                		<li id="hd_bus" class="bus "><span class="navIcon busIcon hd_bus"></span><a href="/bus/" title="Online Bus Booking" class="hd_bus">Buses</a></li>
-
-
-				<li id="hd_go" class="go "><span class="navIcon packIcon hd_go"></span><a href="/go/" title="Best travel packages to explore your favorite places" class="hd_go">Go</a><span class="betaIcon"></span></li>
-
-
-				<li id="hd_holiday" class=""><span class="navIcon holidayIcon hd_holiday"></span><a href="/holidays/holiday-packages-india/" title="Holiday Packages" class="hd_holiday">Holidays</a></li>
-  
-          
-  				<li class="more dropdown">
-						<a class="hd_more" href="javascript:void(0)">
-							<span class="navIcon moreIcon"></span>
-						</a>
-					
-							<ul id="hd_dropdown" class="dropdown-menu dn">
-							<li class="moreSubMenu">
-
-
-
-								<div class="moreSubMenuLeft">
-
-									<!-- div class="subMenuItem">
-										<a href="/car-rental/">
-										
-												
-													<span class="submenuImg"><span class="navIcon cabIcon"></span></span>
-																										
-												<span class="navDetails">
-													<big class="navDetailsHead">Cabs</big>
-													<small class="navDetailsTxt">Need a Airport pick up or a whole day travelling or a tour?</small>
-												</span>
-											
-										</a>
-									</div -->
-
-
-
-									<div class="subMenuItem">
-										<a href="/international-flights/">
-											
-												<span class="submenuImg"><span class="navIcon intlFlightIcon"></span></span>
-											
-								    		<span class="navDetails">
-												<big class="marZero">International Flights</big>
-												<small>Book International flights with lowest rates available across.</small>
-											</span>
-								    	</a>
-									</div>
-
-									<div class="subMenuItem">
-										<a href="/air-fare-calendar/">
-											
-												<span class="submenuImg"><span class="navIcon fareCalIcon"></span></span>
-											
-								    		<span class="navDetails">
-												<big class="marZero">Air Fare Calendar</big>
-												<small>Shows you the best airfares for a month in one shot.</small>
-											</span>
-								    	</a>
-									</div>
-
-
-									<div class="subMenuItem">
-										<a href="/holidays/weekend-getaways/">
-								    		
-								    			<span class="submenuImg"><span class="navIcon gateWayIcon"></span></span>
-								    		
-								    		<span class="navDetails">
-												<big class="marZero">Weekend Gateways</big>
-												<small>Go on for a quick break in the upcoming weekends.</small>
-											</span>
-								    	</a>
-									</div>	
-								</div>
-								<div class="moreSubMenuRight">
-									<div class="subMenuItem">
-										<a href="/mobile/">
-								    		
-								    			<span class="submenuImg"><span class="navIcon mobileIcon"></span></span>
-								    		
-								    		<span class="navDetails">
-												<big class="marZero">Mobile Apps</big>
-												<small>Download goibibo mobile apps for Android, iOS and Windows Phone.</small>
-											</span>
-								    	</a>
-									</div>
-									<div class="subMenuItem">
-										<a href="/travel-guide/">
-								    		
-								    			<span class="submenuImg"><span class="navIcon cityTravelIcon"></span></span>
-								    		
-								    		<span class="navDetails">
-												<big class="marZero">City Travel Guides</big>
-												<small>New to the city? Explore the best travel guides here.</small>
-											</span>
-								    	</a>
-									</div>
-									<div class="subMenuItem">
-										<a href="/offers/">
-								    		
-								    			<span class="submenuImg"><span class="navIcon offerIcon"></span></span>
-								    		
-								    		<span class="navDetails">
-												<big class="marZero">Offers &amp; Promotions</big>
-												<small>Check out the BEST offers and promotions while you book your trips.</small>
-											</span>
-								    	</a>
-									</div>
-
-
-								</div>
-							</li>
-						</ul>
-						
-					
-						</li>
-			</ul>			
-		</div>
-
-
-
-<div class="secondaryNav fr Ipod dn">
-<ul>
-<li class="more dropdown moreVert">
-						<a class="hd_more" href="#">
-							<span class="verticalIcon hd_verticals"></span>
-							
-						</a>
-			<ul class="productNav ipadDropdown dn">
-			
 	
 
-					<li>
-						<ul id="responsiveUS">
-							<li>
-								<a href="javascript:void(0);" rel="nofollow" class="last" onclick="try{gi.utils.openAuthOverlay('/accounts/login/?next=/common/privacy/');} catch(e){window.location.href='/accounts/login/?next=/common/privacy/';}">
-								<span class="navIcon signUp"></span>
-								Sign In
-								
-								</a>
-							</li>
 
 
-						<li>
-							<a href="javascript:void(0);" rel="nofollow" onclick="try{gi.utils.openAuthOverlay('/accounts/register/?next=/common/privacy/');} catch(e){window.location.href='/accounts/register/?next=/common/privacy/';}">
-							<span class="navIcon signUp"></span>
-							Sign Up
-							
-							</a>
-						</li>
+<!-- mobile more links -->
+<ul class="mobMoreMenu dn">
+	<li><a href="/#search">Flight Booking</a></li>
+	<li><a href="/hotels/">Hotels Booking</a></li>
+	<li><a href="/bus/#search">Bus Booking</a></li>
+	<li><a href="/mobile-offers/">Offers &amp; Promotions</a></li>
+	<li><a href="/flight/customersupport/">Customer Support</a></li>
+</ul>
 
 
-
-				</ul>
-				</li>
-			
-					
-			
-  		</ul>	
-        </li>  
-
-		</ul>	
-			
-		</div>
-
-
-		
-<!-- login section-->
-		<div class="hd_login">		
-            <div id="authOverlay"></div>
-            <ul id="hd_user">
-                
-                <li><a href="javascript:void(0);" rel="nofollow" class="last" onclick="if(gi.flights){gi.utils.openAuthOverlay('/accounts/login/?next='+'/'+window.location.hash.replace(/#([^#]*).*/,'$1'))}else{try{gi.utils.openAuthOverlay('/accounts/login/?next=/common/privacy/');} catch(e){window.location.href='/accounts/login/?next=/common/privacy/';}}">Sign In</a></li>
-                <li><a href="javascript:void(0);" rel="nofollow" onclick="if(gi.flights){gi.utils.openAuthOverlay('/accounts/login/?next='+'/'+window.location.hash.replace(/#([^#]*).*/,'$1'))}else{try{gi.utils.openAuthOverlay('/accounts/register/?next=/common/privacy/');} catch(e){window.location.href='/accounts/register/?next=/common/privacy/';}}">Sign Up</a></li>
-				<li class="hdspacialofr">
-                    
-                        <a style="border-right:none;" href="/offers/" class="fl" title="Special Offers">
-                            <span class="specialOffer" title="Special Offers"> Special Offers</span>
-                        </a>
-                    
-                </li>
-									
-			</ul>
-					
-		</div>
-
-<!-- login section-->
-
-
-<div class="secondaryNav fr">
-				<ul class="">
-
+<!-- header -->
+<div class="headerBox col-md-12 col-sm-12 col-xs-12">
+	<div class="col-md-8 col-sm-7 col-xs-6">
+		<a href="/" class="hdrLogo"><img src="/styleguide/images/goLogo.png"></a>
+		<ul class="mainLinks">
+			<li class="">
+				<a href="/flights/"> <i class="icon-flights db blue ico28 lh1-2 marginT2"></i>
+					<span class="iconText">Flights</span>
+				</a>
+			</li>
+			<li class="">
+				<a href="/hotels/"> <i class="icon-hotels db blue ico36"></i> <span class="iconText">Hotels</span> </a>
+			</li>
+			<li class="hdrHolidayLink ">
+				<a href="/holidays/holiday-packages-india/"> <i class="icon-hoildays db blue ico30 lh1-2"></i>
+					<span class="iconText">Holidays</span>
+				</a>
+			</li>
+			<li class="">
+				<a href="/bus/"> <i class="icon-bus db blue ico30 lh1-2"></i>
+					<span class="iconText">Bus</span>
+				</a>
+			</li>
+			<li class="posRel ">
+				<a href="/go/f/" class=""> <i class="icon-flight-hotel db blue ico24 lh1-5"></i> <span class="hdrOfferTag">
+					<span class="hdrOfferTxt">Save UPTO 40%</span></span> <span class="iconText">Flight + Hotels</span>
+				</a>
+			</li>
+			<li class="hdrMoreLink">
+				<div class="padB10 iconText fmtTooltip">more +
+					<div class="tip tip_top white moreSubLinks">
+						<a href="/international-flights/">
+							<i class="icon-flights padR10 blue ico20 fl"></i>
+							<span class="fl padT3">International Flights</span>
+						</a>
+						<a href="/go/">
+							<i class="icon-setu-go padR10 blue ico20 fl"></i>
+							<span class="fl padT3">Go Packages</span>
+						</a>
+						<a href="/holidays/weekend-getaways/">
+							<i class="icon-getaways padR10 blue ico20 fl"></i>
+							<span class="fl padT3">Weekend Gateways</span>
+						</a>
+						<a href="/mobile/">
+							<i class="icon-mobile padR10 blue ico20 fl"></i>
+							<span class="fl padT3">Mobile Apps</span>
+						</a>
+						<a href="/travel-guide/">
+							<i class="icon-travel-guide padR10 blue ico14 fl"></i>
+							<span class="fl padT3">City Travel Guides</span>
+						</a>
+						<a href="/offers/">
+							<i class="icon-offers-badge padR10 blue ico20 fl"></i>
+							<span class="fl padT3">Offers &amp; Promotions</span>
+						</a>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<div class="fr">
+		<a href="/flight/customersupport/" class="hdrCusSupport">
+			<span class="ico20 fb blue fl padR5 padT5">24x7</span>
+			<small class="fl ico13 lh1-2">Customer <br>Support</small>
+		</a>
+		<a href="/flight/searchticket/?action=print" class="hdrPrint"> <i class="icon-print ico25 blue fl"></i> </a>
+		<!-- logedout user -->
+		<span class="fl txtRight hdrUserName padT20" id="hdr_user_signin">
+			<span class="ico13 blue db padT5">
+				<a href="javascript:void(0)" onclick="try { gi.utils.login(); } catch (e) { window.location.href = '/accounts/login/?next=/'; } ">Sign In</a> /
+				<a href="javascript:void(0)" onclick="try{ gi.utils.register(); } catch (e) { window.location.href = '/accounts/register/?next=/'; } ">Sign up</a>
+			</span>
+		</span>
+		<div class="fmtTooltip hdrUser" id="hd_user_widdget">
+			<div class="userPhoto"><i class="fl icon-user-profile blue ico33 padT5 padL5"></i></div>
+			<div class="tip tip_top tip_topRight white moreSubLinks">
 				
-					<li class="customerSupport print">
-						<a href="/flight/searchticket/?action=print" title="Print Ticket" alt="Print Ticket">
-							<span class="navIcon printIcon"></span>
-						</a>
+				<ul>
+					<li>
+						<div class="dn ipaddb mobdb">
+							<a class="fl" href="javascript:void(0)" onclick="try { gi.utils.login(); } catch (e) { window.location.href = '/accounts/login/?next=/'; } ">Sign In</a> <span class="fl padT10 ico14">/</span>
+							<a class="fl" href="javascript:void(0)" onclick="try{ gi.utils.register(); } catch (e) { window.location.href = '/accounts/register/?next=/'; } ">Sign up</a>
+						</div>
 					</li>
-					    
-					<li class="customerSupport twentyFourSeven">
-						<a href="/flight/customersupport/" alt="24X7 Customer Support" title="24X7 Customer Support">
-							<span class="navIcon supportIcon"></span> 24X7 customer support
-						</a>
-					</li>
-					
-					
+					<li><a href="/flight/customersupport/">My Trips</a></li>
+					<li><a href="/flight/customersupport/">View Ticket</a></li>
+					<li><a href="/flight/customersupport/">Cancel Ticket</a></li>
+					<li><a href="/flight/customersupport/">Make Payment</a></li>
+					<li><a href="/flight/customersupport/">Check Refund Status</a></li>
+					<li><a href="/contactus/">Write to us</a></li>
 				</ul>
+				
 			</div>
-
-
-
-
-
-
-
-	</div>	
+		</div>
+		<div class="hdrMobMoreLinks">
+			<a href="javascript:void(0);" class="fl ico24 blue"><i class="mobMenu fl icon-menu1 blue ico20"></i></a>
+			<!-- mobile more links -->
+			<ul class="mobMoreMenu">
+				<li><a href="/#search">Flight Booking</a></li>
+				<li><a href="/hotels/">Hotels Booking</a></li>
+				<li><a href="/bus/#search">Bus Booking</a></li>
+				<li><a href="/mobile-offers/">Offers &amp; Promotions</a></li>
+				<li><a href="/flight/customersupport/">Customer Support</a></li>
+			</ul>
+		</div>
+	</div>
 </div>
 
 
-    <div id="gi_midcontent">
-        
+
+
+
+<div id="gi_midcontent" class="col-md-12 col-sm-12 col-xs-12 pad0">
         <div id="gi_mid_in">
             
             
@@ -410,127 +301,121 @@ Profiling Information: Information which you provide when you Subscribe or regis
         </div>
     </div>
 
+<div id="authOverlay"></div>
 
-<div id="gi_footer">
-	<div id="gi_footer_in">
-		<ul class="fr_prod">
-			<li><b>Company</b></li>
-			<li><a href="/aboutus/">About Us</a></li>
-			<li><a href="/faqs/">FAQs</a></li>
-			<li><a href="/terms-and-conditions/">Terms &amp; Conditions</a></li>
-			<li><a href="/common/privacy/">Privacy </a></li>
-			<li><a href="/contactus/">Contact Us</a></li>
-			<li><a href="http://www.ibibo.com/">MIH India</a></li>
-			<li><a href="http://www.ibibo.com/careers/search/" target="_blank">Careers</a></li>
-			<li><a href="http://blog.goibibo.com">Blog</a></li>
-			<li><a href="/mobile/">Goibibo on Mobile</a></li>
-		</ul>
-		<ul class="fr_trguid">
-			<li><b>Our Products</b></li>
-			<li><a href="/flight-schedule/">Flight Schedule</a></li>
-			<li><a href="/flights/city-to-city-airlines/">City Airline Routes</a></li>
-			<li><a href="/international-flights/">International Flights</a></li>
-			<li><a href="/bus/">Bus Booking</a></li>
-			<li><a href="/airlines/">Domestic Airlines</a></li>
-			<li><a href="/hotels/hotels-in-india/">Hotels in India</a></li>
-			<li><a href="/hotels/">Hotel Booking</a></li>
-			<!-- li><a href="/car-rental/">Car Rental</a></li -->
-                        <li><a href="/group-booking/">Group Booking</a></li>
-		</ul>
-		<ul class="fr_comp">
-			<li><b>Travel Resource</b></li>
-			<li><a href="/holidays/holiday-packages-india/">Holidays Packages</a></li>
-			<li><a href="/holidays/weekend-getaways/">Weekend Getaways</a></li>
-			<li><a href="/travel-guide/">Travel Guide</a></li>
-			<li><a href="/airports/india/">Airports in India</a></li>
-            <li><a href="/airports/">International Airports</a></li>
-            <li><a href="/flights/city-flights/">City Flights</a></li>
-            
-			<li><a href="/travelFacts/">Goibibo Travel Facts</a></li>
-			<li><a href="/international-flights/airlines/">International Airlines</a></li>
-            <li><a href="/domestic-flights/">Domestic Flights Booking</a></li>
-            <li><a href="/flights/">Online Flight Booking</a></li>
-		</ul>
-		<ul class="fr_cnt">
-            <li><b>More Links</b></li>
-            
-			<li><a href="/sitemap-goibibo/">Sitemap</a></li>
-            <li><a href="/offers/">Goibibo Offers</a> </li>
-            <li><a href="/airline/indigo/">IndiGo</a></li>
-			<li><a href="/airline/jetairways/">Jet Airways</a></li>
-			<li><a href="/airline/airindia/">Air India</a></li>
-			<li><a href="/airline/goair/">GoAir</a></li>
-			<li><a href="/airline/indianairlines/">Indian Airlines</a></li>
-            <li><a href="/airline/jetlite/">Jetlite</a></li>
-            
-		</ul>
-
-		<ul class="fr_folus">
-			<li><b>Follow us</b></li>
-			<li class="hd_fllus"><a target="_blank" href="http://www.facebook.com/goibibo"><span class="hd_vs fr_fcbk">&nbsp;</span>Facebook</a></li>
-			<li class="hd_fllus"><a target="_blank" href="http://twitter.com/goibibodotcom"><span class="hd_vs fr_twtr">&nbsp;</span>Twitter</a></li>
-			<li class="hd_fllus"><a target="_blank" href="http://www.youtube.com/user/goibibo"><span class="hd_vs fr_yutb">&nbsp;</span>Youtube</a></li>
-			<li class="hd_fllus"><a target="_blank" href="https://www.goibibo.com/wechat/"><span class="hd_vs fr_wechat">&nbsp;</span>Wechat</a></li>
-			<li class="hd_crds">
-				<span class="hd_vs fr_verify">&nbsp;</span>	
-				<span class="hd_vs fr_amex">&nbsp;</span>
-				<span class="hd_vs fr_master">&nbsp;</span>
-				<span class="hd_vs fr_visa">&nbsp;</span>
+<div class="footerBox mobdn">
+	<div class="maxWidth960 marginAuto">
+		<div class="col-md-12 col-sm-12 padB20">
+			<ul class="col-md-3 col-sm-3 footerLinks">
+				<li class="txtTransUpper font12 greyDr fb padB10">our products</li>
+				<li><a href="/flight-schedule/">Flight Schedule</a></li>
+				<li><a href="/flights/city-to-city-airlines/">City Airline Routes</a></li>
+				<li><a href="/international-flights/">International Flights</a></li>
+				<li><a href="/hotels-international/">International Hotels</a></li>
+				<li><a href="/bus/">Bus Booking</a></li>
+				<li><a href="/airlines/">Domestic Airlines</a></li>
+				<li><a href="/hotels/hotels-in-india/">Hotels in India</a></li>
+				<li><a href="/hotels/">Hotel Booking</a></li>
+				<!-- li><a href="/car-rental/">Car Rental</a></li -->
+				<li><a href="/group-booking/">Group Booking</a></li>					
+			</ul>
+			<ul class="col-md-3 col-sm-3 footerLinks">
+				<li class="txtTransUpper font12 greyDr fb padB10">Company</li>
+				<li><a href="/aboutus/">About Us</a></li>
+				<li><a href="/faqs/">FAQs</a></li>
+				<li><a href="/terms-and-conditions/">Terms &amp; Conditions</a></li>
+				<li><a href="/common/privacy/">Privacy </a></li>
+				<li><a href="/contactus/">Contact Us</a></li>
+				<li><a href="http://www.ibibo.com/">MIH India</a></li>
+				<li><a target="_blank" href="http://www.ibibo.com/careers/search/">Careers</a></li>
+				<li><a href="http://blog.goibibo.com">Blog</a></li>
+				<li><a href="/mobile/">Goibibo on Mobile</a></li>
+				<li><a href="http://youtu.be/mHq4sMwrYQg">Goibibo TV Advertisement</a></li>
+				<li><a href="http://tech.goibibo.com" target="_blank">Technology@Goibibo</a></li>
+			</ul>
+			<ul class="col-md-3 col-sm-3 footerLinks">
+				<li class="txtTransUpper font12 greyDr fb padB10">travel resources</li>
+				<li><a href="/holidays/holiday-packages-india/">Holidays Packages</a></li>
+				<li><a href="/holidays/weekend-getaways/">Weekend Getaways</a></li>
+				<li><a href="/travel-guide/">Travel Guide</a></li>
+				<li><a href="/airports/india/">Airports in India</a></li>
+				<li><a href="/airports/">International Airports</a></li>
+				<li><a href="/flights/city-flights/">City Flights</a></li>
+				<li><a href="/travelFacts/">Goibibo Travel Facts</a></li>
+				<li><a href="/international-flights/airlines/">International Airlines</a></li>
+				<li><a href="/domestic-flights/">Domestic Flights Booking</a></li>
+				<li><a href="/flights/">Online Flight Booking</a></li>
+			</ul>
+			<ul class="col-md-3 col-sm-3 footerLinks">
+				<li class="txtTransUpper font12 greyDr fb padB10">more links</li>
 				
-				<span class="hd_vs fr_payu">&nbsp;</span>
-				<span class="hd_vs fr_iata">&nbsp;</span>
-				<div>
+				<li><a href="/sitemap-goibibo/">Sitemap</a></li>
+				<li><a href="/offers/">Goibibo Offers</a> </li>
+				<li><a href="/airline/indigo/">IndiGo</a></li>
+				<li><a href="/airline/jetairways/">Jet Airways</a></li>
+				<li><a href="/airline/airindia/">Air India</a></li>
+				<li><a href="/airline/goair/">GoAir</a></li>
+				<li><a href="/airline/indianairlines/">Indian Airlines</a></li>
+				<li><a href="/airline/jetlite/">Jetlite</a></li>
 				
-				<!-- McAfee Secure Trustmark forwww.goibibo.com -->
-<a target="_blank" href="https://www.mcafeesecure.com/verify?host=www.goibibo.com"><img class="mfes-trustmark" border="0" src="//cdn.ywxi.net/meter/www.goibibo.com/101.gif" width="125" height="55" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-<!-- End McAfee Secure Trustmark -->
-</div>
-			</li>
-		</ul>
-		
-	
+				<!-- <li><a href="">Hotels in Goa</a></li>
+				<li><a href="">Hotels in Shimla</a> </li>
+				<li><a href="">Hotels in Delhi</a></li>
+				<li><a href="">Hotels in Mumbai</a></li>
+				<li><a href="">Hotels in Chennai</a></li>
+				<li><a href="">Hotels in Bangalore</a></li>
+				<li><a href="">Hotels in Hydrabad</a></li>
+				<li><a href="">Hotels in Jaipur</a></li>
+				<li><a href="">Hotels in Shirdi</a></li>	 -->					
+			</ul>
+		</div>
 
-		
-
-		<style type="text/css">
-	.groupSprite{background:url(/images/v2/group_sprite.gif) top left no-repeat;height:29px;margin:0 10px 0 0;opacity:0.6;
-filter:alpha(opacity=60);}
-	.ibGrp{width:78px;float:left;background-position:0 0;}
-	.goib{width:55px;float:left;background-position:-111px 0;}
-	.redBus{width:46px;float:left;background-position:-172px 0;}
-	.tradus{width:66px;float:left;background-position:-226px 0;}
-	.gaadi{width:51px;float:left;background-position:-302px 0;}
-	.ads{width:54px;float:left;background-position:-367px 0;}
-	.backslash{width:15px;float:left;background-position:-90px 0;opacity:1.0;
-filter:alpha(opacity=100);}
-	a.groupSprite:hover{opacity:1.0;
-filter:alpha(opacity=100);}
-</style>
-
-
-
-<div style="overflow:hidden;padding:0px 0;width:100%;margin:0 auto;border-top:1px solid #efefef;padding-top:10px;margin-top:10px;display:inline-block;">
-<div style="float:left;">
-
-<a href="http://www.ibibo.com/" target="_blank" class="groupSprite ibGrp"></a>
-<span href="#" class="groupSprite backslash"></span>
-<a href="http://www.goibibo.com/" target="_blank" class="groupSprite goib"></a>
-<a href="http://www.redbus.in/" target="_blank" class="groupSprite redBus" rel="nofollow"></a>
-<a href="http://www.tradus.com/" target="_blank" class="groupSprite tradus" rel="nofollow"></a>
-<a href="http://www.gaadi.com/" target="_blank" class="groupSprite gaadi" rel="nofollow"></a>
-<a href="http://www.ibiboads.com/" target="_blank" class="groupSprite ads" rel="nofollow"></a>
-
-
-
-</div>
-
-
-<div style="float:right;color:#d2d2d2;font-size:12px;font-family:arial;padding-top:10px;">
-© 2014 ibibogroup All rights reserved 
-<!-- a href="" style="color:#d2d2d2;font-size:12px;font-family:arial;padding-top:5px;text-decoration:none;">Privacy policy</a -->
-</div>
-</div>
-
+		<div class="col-md-12 col-sm-12 col-xs-12 footerAppLinks">
+			<div class="col-md-3 col-sm-3">
+				<p class="ico14 fb">Follow Us</p>
+				<div class="padT10">
+					<a target="_blank" href="http://www.facebook.com/goibibo" class="fl padR10" title="facebook"><i class="ico24 greyLt icon-facebook"></i></a>
+					<a target="_blank" href="http://twitter.com/goibibodotcom" class="fl padR10" title="Twitter"><i class="ico26 greyLt icon-twitter3"></i></a>
+					<a target="_blank" href="http://www.youtube.com/user/goibibo" class="fl padR10" title="youtube"><i class="ico26 greyLt icon-youtube"></i></a>
+					<a target="_blank" href="https://plus.google.com/+goibibo/" class="fl" title="Google Plus"><span class="hd_vs fr_gplus margin0">&nbsp;</span></a>				
+				</div>
+			</div>
+			<div class="col-md-5 col-sm-6">
+				<p class="ico14 fb">Book Tickets faster. Download our mobile Apps</p>
+				<div class="padT10">
+					<a target="_blank" class="fthm-mobApp fthm-goog fl marginR5" href="http://app.appsflyer.com/com.goibibo?pid=mobile_site&amp;c=m_header"></a>
+					<a target="_blank" class="fthm-mobApp fthm-app fl marginR5" href="https://itunes.apple.com/in/app/goibibo-flight-bus-hotel-booking/id631927169?mt=8"></a>
+					<a target="_blank" class="fthm-mobApp fthm-windows fl" href="http://www.windowsphone.com/en-in/store/app/goibibo/6f16a6ec-3b7e-4782-9f74-57f75a4cc1a3"></a>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-4 marginT5 pad0">
+				<span class="commonSprite fl verifySign marginR10">&nbsp;</span>	
+				<span class="commonSprite fl americanExp marginT5 marginR10 ipaddn">&nbsp;</span>
+				<span class="commonSprite fl masterCard marginT5 marginR10 ipaddn">&nbsp;</span>
+				<span class="commonSprite fl visaCard marginT5 marginR10 ipaddn">&nbsp;</span>
+				<span class="commonSprite payu marginT5 marginR10">&nbsp;</span>
+				<div class="fl clr padT5">				
+					<span class="hd_vs fr_iata"> </span>
+					
+				</div>
+			</div>
+			
+		</div>
+		<div class="col-md-12 col-sm-12 col-xs-12 footerCopyrights">
+			<div style="col-md-8">
+				<a class="commonSprite ibGrp" target="_blank" href="http://www.ibibo.com/"></a>
+				<span class="commonSprite backslash" href="#"></span>
+				<a class="commonSprite goib" target="_blank" href="http://www.goibibo.com/"></a>
+				<a rel="nofollow" class="commonSprite redBus" target="_blank" href="http://www.redbus.in/"></a>
+				<!-- <a rel="nofollow" class="commonSprite tradus" target="_blank" href="http://www.tradus.com/"></a>
+				<a rel="nofollow" class="commonSprite gaadi" target="_blank" href="http://www.gaadi.com/"></a> -->
+				<a rel="nofollow" class="commonSprite ads" target="_blank" href="http://www.ibiboads.com/"></a>
+			</div>
+			<div class="fr padT10">
+			© 2014 ibibogroup All rights reserved 
+			<!-- a href="" style="color:#d2d2d2;font-size:12px;font-family:arial;padding-top:5px;text-decoration:none;">Privacy policy</a -->
+			</div>
+		</div>
 	</div>
 </div>
 
@@ -539,8 +424,21 @@ filter:alpha(opacity=100);}
 
 
     
-        <script type="text/javascript" src="//goibibo.ibcdn.com/js/v2/lib-combined-min-v2.1403920824.js"></script>
+        <script type="text/javascript" src="//goibibo.ibcdn.com/js/v2/lib-combined-min-v2.1419483300.js"></script>
     
+	
+
+
+	<script src="//goibibo.ibcdn.com/styleguide/js/respond.min.1403702967.js" type="text/javascript"></script>
+
+
+
+    
+        <script type="text/javascript" src="//goibibo.ibcdn.com/js/v2/goibibo_trackingFramework-min.1419483321.js"></script>
+    
+
+
+
 
 
 
@@ -555,6 +453,7 @@ filter:alpha(opacity=100);}
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 	</script>
+
 
 
 
@@ -597,8 +496,17 @@ filter:alpha(opacity=100);}
         sa.src = ('https:' == document.location.protocol ? 'https://cdn' : 'http://cdn') + '.ywxi.net/js/1.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sa, s);
     }
+
+    function GoogleTagManager(){
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KT7GT2');
+    }
 </script>
 <noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1419704358291203&ev=NoScript" /></noscript>
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KT7GT2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <script type="text/javascript">
@@ -620,7 +528,8 @@ filter:alpha(opacity=100);}
         xtpage = gpage;        //page name (with the use of :: to create chapters)
         xtdi = "";        //implication degree
         xt_multc = custom;             //all the xi indicators (like "&x1=...&x2=....&x3=...")
-        xt_an = "";        //user ID
+        //xt_an = "";        //user ID
+        xt_an = gi.utils.getCookie('go_ct');        //user ID
         xt_ac = "";        //category ID
         xt_xtcpath = ghost+"/js/v2/xtcore.js";      //xtcore.js path location (without http://)
     }
@@ -700,14 +609,16 @@ filter:alpha(opacity=100);}
     setTimeout(function(){
         xtcPath();
         setXTParam();
-        webEngage();
-        ssTracking();
+        //webEngage();
+        //ssTracking();
         customAudienceFacebook();
         //McafeeSecureTrustmark();
+        //GoogleTagManager();
     },2000);
 </script>
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","queueTime":1,"licenseKey":"ae504947bb","agent":"js-agent.newrelic.com/nr-411.min.js","transactionName":"bgYDMkUFV0QHVhJZVldMJxNZB01eCVtJU1ZUDg4IGRJQUhFGXEBLUBUABU40VlsPVh8=","applicationID":"548298,2052386","errorBeacon":"bam.nr-data.net","applicationTime":41}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
