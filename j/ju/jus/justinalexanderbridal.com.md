@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justinalexanderbridal.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625134701id_/http%3A//www.justinalexanderbridal.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justinalexanderbridal.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226123436id_/http%3A//www.justinalexanderbridal.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Wedding Dresses | Couture Bridal Gown Designer - Justin Alexander | Privacy Policy
+# Privacy Policy | Justin Alexander
 
 ### 
 
