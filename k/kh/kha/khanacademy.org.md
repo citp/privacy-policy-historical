@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the khanacademy.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629013219id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khanacademy.org privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226133531id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | Khan Academy
+
+If you're seeing this message, it means we're having trouble loading external resources for Khan Academy.
+
+If you're behind a web filter, please make sure that the domains ***.kastatic.org** and ***.kasandbox.org** are unblocked. 
 
 #### Last Updated: May 8, 2014
 
