@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the tricare.mil privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625093313id_/http%3A//www.tricare.mil/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tricare.mil privacy policy that was archived on 2014-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226221121id_/http%3A//www.tricare.mil/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head id="Head1"><title>
 	
         Privacy
     
-</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="CODE_LANGUAGE" content="C#"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><meta property="og:image" content="http://tricare.mil/_inc/img/TRICARE_fb_logo.jpg"><meta name="viewport" content="width=device-width, initial-scale=1; maximum-scale:1.0; user-scalable=0"><link rel="stylesheet" href="_inc/css/style.css" type="text/css"><link rel="stylesheet" href="_inc/css/tablet.css" media="screen and (min-width:600px) and (max-width: 940px)"><link rel="stylesheet" href="_inc/css/sml_devices.css" media="screen and (max-width: 600px)"><link rel="Shortcut Icon" href="_inc/img/favicon.ico?" type="image/x-icon">
+</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="CODE_LANGUAGE" content="C#"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><meta property="og:image" content="http://tricare.mil/_inc/img/TRICARE_fb_logo.jpg"><meta name="viewport" content="width=device-width, initial-scale=1; maximum-scale:1.0; user-scalable=0"><link rel="stylesheet" href="_inc/css/style.css" type="text/css"><link rel="stylesheet" href="_inc/css/responsive.css" type="text/css"><link rel="Shortcut Icon" href="_inc/img/favicon.ico?" type="image/x-icon">
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/_inc/js/1.7.1/jquery.min.js"></script>
-    <!--<script type="text/javascript" src="../../_inc/js/jquery.nicescroll.min.js"></script>-->
-    <script type="text/javascript" src="/_inc/js/mobile-nav.js"></script>
+    <!--<script type="text/javascript" src="../../_inc/js/jquery.nicescroll.min.js"></script>
+    <script type="text/javascript" src="/_inc/js/mobile-nav.js"></script>-->
     <script type="text/javascript" src="/_inc/js/respond.src.js"></script>
     <script type="text/javascript" src="/_inc/js/respond.min.js"></script>
     <!--[if IE]> 
@@ -37,22 +37,6 @@
 
 
         $(document).ready(function () {
-            $('ul.submenu').parent().not('.active').prepend('<span onclick=\'toggleMenuDrop(this);\'><a class="menudrop"></a></span>'); //Adds empty span tag after ul
-            //$('ul.submenu').parent().not('.active').prepend('<span><a class="menudrop"></a></span>'); //Adds empty span tag after ul
-            $('#nav > ul > li.active').prepend('<span class="active"></span>');
-            var isProfileEmpty = true;
-            if(isProfileEmpty == false)
-                $(".profile_btn").html("My Profile");   
-            $(".profile_btn").toggle(function () {
-                $("#header").slideDown();
-                $(this).html("Close Profile");
-            }, function () {
-                $("#header").slideUp();
-                if (isProfileEmpty == false)
-                    $(this).html("My Profile");
-                else
-                    $(this).html("Enter Profile");
-            });
             $(".side_btn").toggle(function() {
                 $(".side").slideDown();
                 $(this).addClass("down");
@@ -66,7 +50,7 @@
             // adds fancybox popup warning if leaving site when clicking on a link with specified class
             $(".popupwarning").click(function(e) { return ExternalLinkClickHandler(e); });
 
-            attachDownloadEvent();
+            attachDownloadEvent('/handlers/analytics.ashx');
 
             $('[tricare-search-autocomplete]').autocomplete({
                 source: '/handlers/AutoCompleteHandler.ashx',
@@ -146,6 +130,11 @@
         function Close() {
             $.fancybox.close();
         }
+
+        function OpenPopup(url,name,variables) {
+            window.open(url, name, variables);
+            return false;
+        }
     </script>
     <script type="text/javascript">
         (function () {
@@ -161,40 +150,134 @@
             }
         })();
     </script>
-    <link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css"></head>
-<body>
-    <form name="mainform" method="post" action="/Privacy.aspx" id="mainform">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzNjc0MTA0MTgPZBYCAgMQZGQWCgIBD2QWAmYPDxYCHg9IZWFkZXJMaW5rQ291bnRmZBYCAgEPFgIeC18hSXRlbUNvdW50ZhYEZg8WAh4HVmlzaWJsZWhkAgEPFgIfAmhkAgMPZBYCZg8PFgIeB1Byb2ZpbGUywQIAAQAAAP////8BAAAAAAAAAAwCAAAAQ1RyaWNhcmUuQ29yZSwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAB9UcmljYXJlLkNvcmUudXRpbC5Qcm9maWxlT2JqZWN0BgAAABU8UGxhbj5rX19CYWNraW5nRmllbGQXPFJlZ2lvbj5rX19CYWNraW5nRmllbGQYPFNlcnZpY2U+a19fQmFja2luZ0ZpZWxkGzxSZWdpb25JbmZvPmtfX0JhY2tpbmdGaWVsZBQ8WmlwPmtfX0JhY2tpbmdGaWVsZBg8Q291bnRyeT5rX19CYWNraW5nRmllbGQBAQEBAQECAAAABgMAAAAKTm8gUHJvZmlsZQkDAAAACQMAAAAGBAAAAAAKCgtkFgJmDw8WAh8CZ2QWBAIDDxYCHgRocmVmBRYvUGxhbnMvUGxhbkZpbmRlci5hc3B4ZAILDxBkZBYAZAIFD2QWAmYPZBYEAgEPFgIfAQIIFhBmD2QWAmYPFQE0PGxpIGNsYXNzPSJuYXYtbGluay1ob21lIj48YSBocmVmPSIvIiA+SG9tZTwvYT48L2xpPmQCAQ9kFgJmDxUBLTxsaT48YSBocmVmPSIvV2VsY29tZS5hc3B4IiA+V2VsY29tZTwvYT48L2xpPmQCAg9kFgJmDxUBhQU8bGk+PGEgaHJlZj0iL1BsYW5zLmFzcHgiID5QbGFuczwvYT48dWwgY2xhc3M9InN1Ym1lbnUiPg0KPGxpPjxhIGhyZWY9Ii9QbGFucy9FbGlnaWJpbGl0eS5hc3B4IiA+RWxpZ2liaWxpdHk8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvUGxhbnMvTmV3LmFzcHgiID5OZXcgdG8gVFJJQ0FSRTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9QbGFucy9IZWFsdGhQbGFucy5hc3B4IiA+SGVhbHRoIFBsYW5zPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL1BsYW5zL1BsYW5GaW5kZXIuYXNweCIgPlBsYW4gRmluZGVyPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL1BsYW5zL0NvbXBhcmVQbGFucy5hc3B4IiA+Q29tcGFyZSBQbGFuczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9QbGFucy9FbnJvbGwuYXNweCIgPkVucm9sbCBvciBQdXJjaGFzZSBhIFBsYW48L2E+PC9saT4NCjxsaT48YSBocmVmPSIvUGxhbnMvT0hJLmFzcHgiID5Vc2luZyBPdGhlciBIZWFsdGggSW5zdXJhbmNlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL1BsYW5zL0RlbnRhbFBsYW5zLmFzcHgiID5EZW50YWwgUGxhbnM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvUGxhbnMvU3BlY2lhbFByb2dyYW1zLmFzcHgiID5TcGVjaWFsIFByb2dyYW1zPC9hPjwvbGk+DQo8L3VsPg0KPC9saT5kAgMPZBYCZg8VAdEEPGxpPjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMuYXNweCIgPlNlZSBXaGF0J3MgQ292ZXJlZDwvYT48dWwgY2xhc3M9InN1Ym1lbnUiPg0KPGxpPjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvU2VlV2hhdHNDb3ZlcmVkLmFzcHgiID5JcyBJdCBDb3ZlcmVkPzwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvRGVudGFsLmFzcHgiID5EZW50YWwgQ2FyZTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvTWVudGFsLmFzcHgiID5NZW50YWwgSGVhbHRoIENhcmU8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzL1BoYXJtYWN5LmFzcHgiID5QaGFybWFjeTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvU3BlY2lhbE5lZWRzLmFzcHgiID5TcGVjaWFsIE5lZWRzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0NvdmVyZWRTZXJ2aWNlcy9WaXNpb24uYXNweCIgPlZpc2lvbiBDYXJlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0NvdmVyZWRTZXJ2aWNlcy9CZW5lZml0VXBkYXRlcy5hc3B4IiA+QmVuZWZpdCBVcGRhdGVzPC9hPjwvbGk+DQo8L3VsPg0KPC9saT5kAgQPZBYCZg8VAcAGPGxpPjxhIGhyZWY9Ii9GaW5kRG9jdG9yLmFzcHgiID5GaW5kIGEgRG9jdG9yPC9hPjx1bCBjbGFzcz0ic3VibWVudSI+DQo8bGk+PGEgaHJlZj0iL0ZpbmREb2N0b3IvQXBwb2ludG1lbnRzLmFzcHgiID5Cb29rIEFwcG9pbnRtZW50czwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9GaW5kRG9jdG9yL1RyYXZlbGluZy5hc3B4IiA+R2V0dGluZyBDYXJlIFdoZW4gVHJhdmVsaW5nPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0ZpbmREb2N0b3IvTWlsaXRhcnkuYXNweCIgPk1pbGl0YXJ5IEhvc3BpdGFscyBhbmQgQ2xpbmljczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9GaW5kRG9jdG9yL01TTS5hc3B4IiA+TXVsdGktU2VydmljZSBNYXJrZXRzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0ZpbmREb2N0b3IvTmV0d29yay5hc3B4IiA+TmV0d29yayBQcm92aWRlcnM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvRmluZERvY3Rvci9Ob25OZXR3b3JrLmFzcHgiID5Ob24tTmV0d29yayBQcm92aWRlcnM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvRmluZERvY3Rvci9PdmVyc2Vhcy5hc3B4IiA+T3ZlcnNlYXMgUHJvdmlkZXJzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0ZpbmREb2N0b3IvTWVkaWNhcmUuYXNweCIgPk1lZGljYXJlIFByb3ZpZGVyczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9GaW5kRG9jdG9yL1VTRkhQLmFzcHgiID5VUyBGYW1pbHkgSGVhbHRoIFBsYW4gUHJvdmlkZXJzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0ZpbmREb2N0b3IvVkFGYWNpbGl0aWVzLmFzcHgiID5WZXRlcmFucyBBZmZhaXJzIEZhY2lsaXRpZXM8L2E+PC9saT4NCjwvdWw+DQo8L2xpPmQCBQ9kFgJmDxUBiwM8bGk+PGEgaHJlZj0iL0Nvc3RzLmFzcHgiID5Db3N0czwvYT48dWwgY2xhc3M9InN1Ym1lbnUiPg0KPGxpPjxhIGhyZWY9Ii9Db3N0cy9IZWFsdGhQbGFuQ29zdHMuYXNweCIgPkhlYWx0aCBQbGFuIENvc3RzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0Nvc3RzL1ByZXNjcmlwdGlvbkNvc3RzLmFzcHgiID5QcmVzY3JpcHRpb24gQ29zdHM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvQ29zdHMvRGVudGFsQ29zdHMuYXNweCIgPkRlbnRhbCBDb3N0czwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9Db3N0cy9QYXlGZWVzLmFzcHgiID5QYXkgTXkgQmlsbDwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9Db3N0cy9DYXRDYXAuYXNweCIgPkNhdGFzdHJvcGhpYyBDYXA8L2E+PC9saT4NCjwvdWw+DQo8L2xpPmQCBg9kFgJmDxUB3Qg8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMuYXNweCIgPkxpZmUgRXZlbnRzPC9hPjx1bCBjbGFzcz0ic3VibWVudSI+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvQmFieS5hc3B4IiA+SGF2aW5nIGEgQmFieSBvciBBZG9wdGluZzwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9MaWZlRXZlbnRzL01vdmluZy5hc3B4IiA+TW92aW5nPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvTWVkaWNhcmUuYXNweCIgPkJlY29taW5nIE1lZGljYXJlLUVsaWdpYmxlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvRGl2b3JjZS5hc3B4IiA+R2V0dGluZyBEaXZvcmNlZDwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9MaWZlRXZlbnRzL01hcnJpYWdlLmFzcHgiID5HZXR0aW5nIE1hcnJpZWQ8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvTGlmZUV2ZW50cy9SZXRpcmluZy5hc3B4IiA+UmV0aXJpbmc8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvTGlmZUV2ZW50cy9BY3RpdmF0aW5nLmFzcHgiID5BY3RpdmF0aW5nPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvU2VwYXJhdGluZy5hc3B4IiA+U2VwYXJhdGluZyBmcm9tIEFjdGl2ZSBEdXR5PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvU3BvbnNvckRlYXRoLmFzcHgiID5TcG9uc29yIERpZXM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvTGlmZUV2ZW50cy9Db2xsZWdlLmFzcHgiID5Hb2luZyB0byBDb2xsZWdlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvRGVhY3RpdmF0aW5nLmFzcHgiID5EZWFjdGl2YXRpbmc8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvTGlmZUV2ZW50cy9EZXBsb3lpbmcuYXNweCIgPkRlcGxveWluZzwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9MaWZlRXZlbnRzL0luanVyZWRvbkFELmFzcHgiID5Jbmp1cmVkIG9uIEFjdGl2ZSBEdXR5PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvQ2hpbGRBZHVsdC5hc3B4IiA+Q2hpbGRyZW4gQmVjb21pbmcgQWR1bHRzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvQmFja3RvU2Nob29sLmFzcHgiID5CYWNrIHRvIFNjaG9vbDwvYT48L2xpPg0KPC91bD4NCjwvbGk+ZAIHD2QWAmYPFQGkBDxsaT48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MuYXNweCIgPkhlYWx0aCBhbmQgV2VsbG5lc3M8L2E+PHVsIGNsYXNzPSJzdWJtZW51Ij4NCjxsaT48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MvQWxjb2hvbC5hc3B4IiA+QWxjb2hvbCBBd2FyZW5lc3M8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MvR2V0Rml0LmFzcHgiID5HZXQgRml0PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0hlYWx0aFdlbGxuZXNzL1ByZXZlbnRpdmUuYXNweCIgPlByZXZlbnRpdmUgU2VydmljZXM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MvVG9iYWNjby5hc3B4IiA+VG9iYWNjbyBDZXNzYXRpb248L2E+PC9saT4NCjxsaT48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MvSGVhbHRoeUxpdmluZ1BhcnRuZXJzLmFzcHgiID5IZWFsdGh5IExpdmluZyBQYXJ0bmVyczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9IZWFsdGhXZWxsbmVzcy9ITEFydGljbGVzLmFzcHgiID5IZWFsdGh5IExpdmluZyBBcnRpY2xlczwvYT48L2xpPg0KPC91bD4NCjwvbGk+ZAIDDw8WAh8CaGRkAgcPZBYCZg9kFgJmD2QWCAIBD2QWAmYPZBYCZg9kFgRmDxYCHgRUZXh0BTs8aDEgY2xhc3M9ImFjdGl2ZSI+PGEgaHJlZj0iL1ByaXZhY3kuYXNweCI+UHJpdmFjeTwvYT48L2gxPmQCAg8WAh8FBZkCPGgyIHN0eWxlPSJkaXNwbGF5OiBub25lOyI+U2Vjb25kYXJ5IE5hdmlnYXRpb248L2gyPjx1bD48bGk+PGEgaHJlZj0iL1ByaXZhY3kvSElQQUEuYXNweCI+SElQQUEgYW5kIFByaXZhY3k8L2E+PC9saT48bGk+PGEgaHJlZj0iL1ByaXZhY3kvUFBJLmFzcHgiPlByb3RlY3RpbmcgUGVyc29uYWwgSW5mb3JtYXRpb248L2E+PC9saT48bGk+PGEgaHJlZj0iL1ByaXZhY3kvT3B0T3V0Q29va2llcy5hc3B4Ij5EaXNhYmxpbmcgQ29va2llcyBvbiBZb3VyIFdlYiBCcm93c2VyPC9hPjwvbGk+PC91bD5kAgMPZBYCZg9kFgJmD2QWAgIBDxYCHwUFOzxsaT48YSBocmVmPSIvIiA+SG9tZTwvYT48L2xpPjxsaSBjbGFzcz0ibGFzdCI+UHJpdmFjeTwvbGk+ZAIFD2QWBGYPZBYCZg9kFgJmD2QWBAICDxYCHwJoZAIDDw8WAh8CaGRkAgIPZBYCZg9kFgICAQ8PFgIfBQUIOS8zLzIwMTNkZAIHD2QWBAIBD2QWAmYPZBYCZg8PFgIfAmhkZAICD2QWAmYPZBYCAgEPFgIfAQIBFgICAQ9kFgICAQ9kFgICAQ8PFggeC05hdmlnYXRlVXJsBaoBaHR0cDovL3d3dy50cmljYXJlLm1pbC90bWEvcHJpdmFjeS9kb3dubG9hZHMvTWlsaXRhcnklMjBIZWFsdGglMjBTeXN0ZW1fV29yZCUyME5vUFBfMjAxMzA5MjQlMjAtJTIwUHJpbnQlMjBSZWFkeSUyMFZlcnNpb24lMjAtJTIwd2l0aCUyMExvZ29fU2VjdGlvbiUyMDUwOCUyMENvbXBsaWFudC5wZGYfBQUbTm90aWNlIG9mIFByaXZhY3kgUHJhY3RpY2VzHgdUb29sVGlwBRtOb3RpY2Ugb2YgUHJpdmFjeSBQcmFjdGljZXMeBlRhcmdldAUGX2JsYW5rZGQCCQ9kFgJmD2QWBGYPFgIfAQIJZAIEDxYCHwUFzCA8ZGl2IGNsYXNzPSJsZWZ0IGNvbCI+DQo8cCBjbGFzcz0ibWFwdGl0bGUiPjxhIGhyZWY9Ii9XZWxjb21lLmFzcHgiPldlbGNvbWU8L2E+PC9wPg0KPHA+DQo8L3A+DQoNCjxiciAvPg0KPHAgY2xhc3M9Im1hcHRpdGxlIj48YSBocmVmPSIvUGxhbnMuYXNweCI+UGxhbnM8L2E+PC9wPg0KPHA+DQo8YSBocmVmPSIvUGxhbnMvRWxpZ2liaWxpdHkuYXNweCI+RWxpZ2liaWxpdHk8L2E+PGJyIC8+DQo8YSBocmVmPSIvUGxhbnMvTmV3LmFzcHgiPk5ldyB0byBUUklDQVJFPC9hPjxiciAvPg0KPGEgaHJlZj0iL1BsYW5zL0hlYWx0aFBsYW5zLmFzcHgiPkhlYWx0aCBQbGFuczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9QbGFucy9QbGFuRmluZGVyLmFzcHgiPlBsYW4gRmluZGVyPC9hPjxiciAvPg0KPGEgaHJlZj0iL1BsYW5zL0NvbXBhcmVQbGFucy5hc3B4Ij5Db21wYXJlIFBsYW5zPC9hPjxiciAvPg0KPGEgaHJlZj0iL1BsYW5zL0Vucm9sbC5hc3B4Ij5FbnJvbGwgb3IgUHVyY2hhc2UgYSBQbGFuPC9hPjxiciAvPg0KPGEgaHJlZj0iL1BsYW5zL09ISS5hc3B4Ij5Vc2luZyBPdGhlciBIZWFsdGggSW5zdXJhbmNlPC9hPjxiciAvPg0KPGEgaHJlZj0iL1BsYW5zL0RlbnRhbFBsYW5zLmFzcHgiPkRlbnRhbCBQbGFuczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9QbGFucy9TcGVjaWFsUHJvZ3JhbXMuYXNweCI+U3BlY2lhbCBQcm9ncmFtczwvYT48YnIgLz4NCjwvcD4NCg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSJsZWZ0IGNvbCI+DQo8cCBjbGFzcz0ibWFwdGl0bGUiPjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMuYXNweCI+U2VlIFdoYXQncyBDb3ZlcmVkPC9hPjwvcD4NCjxwPg0KPGEgaHJlZj0iL0NvdmVyZWRTZXJ2aWNlcy9TZWVXaGF0c0NvdmVyZWQuYXNweCI+SXMgSXQgQ292ZXJlZD88L2E+PGJyIC8+DQo8YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzL0RlbnRhbC5hc3B4Ij5EZW50YWwgQ2FyZTwvYT48YnIgLz4NCjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvTWVudGFsLmFzcHgiPk1lbnRhbCBIZWFsdGggQ2FyZTwvYT48YnIgLz4NCjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvUGhhcm1hY3kuYXNweCI+UGhhcm1hY3k8L2E+PGJyIC8+DQo8YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzL1NwZWNpYWxOZWVkcy5hc3B4Ij5TcGVjaWFsIE5lZWRzPC9hPjxiciAvPg0KPGEgaHJlZj0iL0NvdmVyZWRTZXJ2aWNlcy9WaXNpb24uYXNweCI+VmlzaW9uIENhcmU8L2E+PGJyIC8+DQo8YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzL0JlbmVmaXRVcGRhdGVzLmFzcHgiPkJlbmVmaXQgVXBkYXRlczwvYT48YnIgLz4NCjwvcD4NCg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSJsZWZ0IGNvbCI+DQo8cCBjbGFzcz0ibWFwdGl0bGUiPjxhIGhyZWY9Ii9GaW5kRG9jdG9yLmFzcHgiPkZpbmQgYSBEb2N0b3I8L2E+PC9wPg0KPHA+DQo8YSBocmVmPSIvRmluZERvY3Rvci9BcHBvaW50bWVudHMuYXNweCI+Qm9vayBBcHBvaW50bWVudHM8L2E+PGJyIC8+DQo8YSBocmVmPSIvRmluZERvY3Rvci9UcmF2ZWxpbmcuYXNweCI+R2V0dGluZyBDYXJlIFdoZW4gVHJhdmVsaW5nPC9hPjxiciAvPg0KPGEgaHJlZj0iL0ZpbmREb2N0b3IvTWlsaXRhcnkuYXNweCI+TWlsaXRhcnkgSG9zcGl0YWxzIGFuZCBDbGluaWNzPC9hPjxiciAvPg0KPGEgaHJlZj0iL0ZpbmREb2N0b3IvTVNNLmFzcHgiPk11bHRpLVNlcnZpY2UgTWFya2V0czwvYT48YnIgLz4NCjxhIGhyZWY9Ii9GaW5kRG9jdG9yL05ldHdvcmsuYXNweCI+TmV0d29yayBQcm92aWRlcnM8L2E+PGJyIC8+DQo8YSBocmVmPSIvRmluZERvY3Rvci9Ob25OZXR3b3JrLmFzcHgiPk5vbi1OZXR3b3JrIFByb3ZpZGVyczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9GaW5kRG9jdG9yL092ZXJzZWFzLmFzcHgiPk92ZXJzZWFzIFByb3ZpZGVyczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9GaW5kRG9jdG9yL01lZGljYXJlLmFzcHgiPk1lZGljYXJlIFByb3ZpZGVyczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9GaW5kRG9jdG9yL1VTRkhQLmFzcHgiPlVTIEZhbWlseSBIZWFsdGggUGxhbiBQcm92aWRlcnM8L2E+PGJyIC8+DQo8YSBocmVmPSIvRmluZERvY3Rvci9WQUZhY2lsaXRpZXMuYXNweCI+VmV0ZXJhbnMgQWZmYWlycyBGYWNpbGl0aWVzPC9hPjxiciAvPg0KPC9wPg0KDQo8YnIgLz4NCjxwIGNsYXNzPSJtYXB0aXRsZSI+PGEgaHJlZj0iL0Nvc3RzLmFzcHgiPkNvc3RzPC9hPjwvcD4NCjxwPg0KPGEgaHJlZj0iL0Nvc3RzL0hlYWx0aFBsYW5Db3N0cy5hc3B4Ij5IZWFsdGggUGxhbiBDb3N0czwvYT48YnIgLz4NCjxhIGhyZWY9Ii9Db3N0cy9QcmVzY3JpcHRpb25Db3N0cy5hc3B4Ij5QcmVzY3JpcHRpb24gQ29zdHM8L2E+PGJyIC8+DQo8YSBocmVmPSIvQ29zdHMvRGVudGFsQ29zdHMuYXNweCI+RGVudGFsIENvc3RzPC9hPjxiciAvPg0KPGEgaHJlZj0iL0Nvc3RzL1BheUZlZXMuYXNweCI+UGF5IE15IEJpbGw8L2E+PGJyIC8+DQo8YSBocmVmPSIvQ29zdHMvQ2F0Q2FwLmFzcHgiPkNhdGFzdHJvcGhpYyBDYXA8L2E+PGJyIC8+DQo8L3A+DQoNCjwvZGl2Pg0KPGRpdiBjbGFzcz0ibGVmdCBjb2wiPg0KPHAgY2xhc3M9Im1hcHRpdGxlIj48YSBocmVmPSIvTGlmZUV2ZW50cy5hc3B4Ij5MaWZlIEV2ZW50czwvYT48L3A+DQo8cD4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL0JhYnkuYXNweCI+SGF2aW5nIGEgQmFieSBvciBBZG9wdGluZzwvYT48YnIgLz4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL01vdmluZy5hc3B4Ij5Nb3Zpbmc8L2E+PGJyIC8+DQo8YSBocmVmPSIvTGlmZUV2ZW50cy9NZWRpY2FyZS5hc3B4Ij5CZWNvbWluZyBNZWRpY2FyZS1FbGlnaWJsZTwvYT48YnIgLz4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL0Rpdm9yY2UuYXNweCI+R2V0dGluZyBEaXZvcmNlZDwvYT48YnIgLz4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL01hcnJpYWdlLmFzcHgiPkdldHRpbmcgTWFycmllZDwvYT48YnIgLz4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL1JldGlyaW5nLmFzcHgiPlJldGlyaW5nPC9hPjxiciAvPg0KPGEgaHJlZj0iL0xpZmVFdmVudHMvQWN0aXZhdGluZy5hc3B4Ij5BY3RpdmF0aW5nPC9hPjxiciAvPg0KPGEgaHJlZj0iL0xpZmVFdmVudHMvU2VwYXJhdGluZy5hc3B4Ij5TZXBhcmF0aW5nIGZyb20gQWN0aXZlIER1dHk8L2E+PGJyIC8+DQo8YSBocmVmPSIvTGlmZUV2ZW50cy9TcG9uc29yRGVhdGguYXNweCI+U3BvbnNvciBEaWVzPC9hPjxiciAvPg0KPGEgaHJlZj0iL0xpZmVFdmVudHMvQ29sbGVnZS5hc3B4Ij5Hb2luZyB0byBDb2xsZWdlPC9hPjxiciAvPg0KPGEgaHJlZj0iL0xpZmVFdmVudHMvRGVhY3RpdmF0aW5nLmFzcHgiPkRlYWN0aXZhdGluZzwvYT48YnIgLz4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL0RlcGxveWluZy5hc3B4Ij5EZXBsb3lpbmc8L2E+PGJyIC8+DQo8YSBocmVmPSIvTGlmZUV2ZW50cy9Jbmp1cmVkb25BRC5hc3B4Ij5Jbmp1cmVkIG9uIEFjdGl2ZSBEdXR5PC9hPjxiciAvPg0KPGEgaHJlZj0iL0xpZmVFdmVudHMvQ2hpbGRBZHVsdC5hc3B4Ij5DaGlsZHJlbiBCZWNvbWluZyBBZHVsdHM8L2E+PGJyIC8+DQo8YSBocmVmPSIvTGlmZUV2ZW50cy9CYWNrdG9TY2hvb2wuYXNweCI+QmFjayB0byBTY2hvb2w8L2E+PGJyIC8+DQo8L3A+DQoNCjwvZGl2Pg0KPGRpdiBjbGFzcz0ibGVmdCBjb2wiPg0KPHAgY2xhc3M9Im1hcHRpdGxlIj48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MuYXNweCI+SGVhbHRoIGFuZCBXZWxsbmVzczwvYT48L3A+DQo8cD4NCjxhIGhyZWY9Ii9IZWFsdGhXZWxsbmVzcy9BbGNvaG9sLmFzcHgiPkFsY29ob2wgQXdhcmVuZXNzPC9hPjxiciAvPg0KPGEgaHJlZj0iL0hlYWx0aFdlbGxuZXNzL0dldEZpdC5hc3B4Ij5HZXQgRml0PC9hPjxiciAvPg0KPGEgaHJlZj0iL0hlYWx0aFdlbGxuZXNzL1ByZXZlbnRpdmUuYXNweCI+UHJldmVudGl2ZSBTZXJ2aWNlczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9IZWFsdGhXZWxsbmVzcy9Ub2JhY2NvLmFzcHgiPlRvYmFjY28gQ2Vzc2F0aW9uPC9hPjxiciAvPg0KPGEgaHJlZj0iL0hlYWx0aFdlbGxuZXNzL0hlYWx0aHlMaXZpbmdQYXJ0bmVycy5hc3B4Ij5IZWFsdGh5IExpdmluZyBQYXJ0bmVyczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9IZWFsdGhXZWxsbmVzcy9ITEFydGljbGVzLmFzcHgiPkhlYWx0aHkgTGl2aW5nIEFydGljbGVzPC9hPjxiciAvPg0KPC9wPg0KDQo8L2Rpdj4NCmRk2KNihV2qyFkbireulk+JBYT75hc=">
-</div>
 
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['mainform'];
-if (!theForm) {
-    theForm = document.mainform;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
+        <script type="text/javascript">
+
+            // MOBILE - Collapsible Navigation
+            $(document).ready(function () {
+                var themenu = $("#mainnav");
+                var topbar = $("#mobile");
+                var header = $("#header");
+                var pagebody = $("#content");
+                var footer = $("#footer");
+                var viewport = {
+                    width: $(window).width(),
+                    height: $(window).height()
+                };
+                // retrieve variables as
+                // viewport.width / viewport.height
+                function openme() {
+                    $(function () {
+                        topbar.animate({
+                            left: "250px"
+                        }, { duration: 300, queue: false });
+                        header.animate({
+                            left: "250px"
+                        }, { duration: 300, queue: false });
+                        pagebody.animate({
+                            left: "250px"
+                        }, { duration: 300, queue: false });
+                        footer.animate({
+                            left: "250px"
+                        }, { duration: 300, queue: false });
+                    });
+                }
+                function closeme() {
+                    var closeme = $(function () {
+                        topbar.animate({
+                            left: "0px"
+                        }, { duration: 180, queue: false });
+                        header.animate({
+                            left: "0px"
+                        }, { duration: 180, queue: false });
+                        pagebody.animate({
+                            left: "0px"
+                        }, { duration: 180, queue: false });
+                        footer.animate({
+                            left: "0px"
+                        }, { duration: 180, queue: false });
+                    });
+                }
+                // checking whether to open or close nav menu
+                $("a.toggle").live("click", function (e) {
+                    e.preventDefault();
+                    var leftval = pagebody.css('left');
+                    if (leftval == "0px") {
+                        openme();
+                    }
+                    else {
+                        closeme();
+                    }
+                });
+            });
+    </script>
+
+    <script type="text/javascript">
+        function toggleMenuDrop(control) {
+
+            $(control).parent().children('ul.submenu').slideToggle(400, function () {
+                $(control).children('a').toggleClass('menuup menudrop');
+            });
+
+        };
+        // MOBILE - Collapsible Navigation's SubMenu
+        $(document).ready(function () {
+            $('ul.submenu').parent().not('.active').prepend('<span onclick=\'toggleMenuDrop(this);\'><a class="menudrop">Toggle SubMenu</a></span>');
+            //Adds empty span tag after ul
+            //$('ul.submenu').parent().not('.active').prepend('<span><a class="menudrop"></a></span>'); 
+            //Adds empty span tag after ul
+            $('.nav > ul > li.active').prepend('<span class="active"></span>');
+
+            // MOBILE - Collapsible Enter Profile
+            var isProfileEmpty = true;
+            if (isProfileEmpty == false)
+                $(".profile_btn").html("My Plan Info");
+            $(".profile_btn").toggle(function () {
+                $("#header").slideDown();
+                $(this).html("Close My Plan Info");
+            }, function () {
+                $("#header").slideUp();
+                if (isProfileEmpty == false)
+                    $(this).html("My Plan Info");
+                else
+                    $(this).html("Enter My Plan Info");
+            });
+            var isProfileEmpty = true;
+            if (isProfileEmpty == false)
+                $(".btn-collapse").html("Less");
+            $(".profile_btn").toggle(function () {
+                $(".form-profile").slideDown();
+                $(this).html("Close My Plan Info");
+            }, function () {
+                $(".form-profile").slideUp();
+                if (isProfileEmpty == false)
+                    $(this).html("My Plan Info");
+                else
+                    $(this).html("Enter My Plan Info");
+            });
+            $(".side_btn").toggle(function () {
+                $(".side").slideDown();
+                $(this).addClass("down");
+            }, function () {
+                $(".side").slideUp();
+                $(this).removeClass("down");
+            });
+        });
 </script>
 
-
-<script src="/WebResource.axd?d=jplkhKwfHD8cXJSQr67QRAhvGGkLfRQUfhCMq3iPMffhDa-601mAYqfZ1aoBskjocOKyz8b66EVJN1j80&amp;t=635195661120000000" type="text/javascript"></script>
+    <link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css"></head>
+<body>
+<form name="mainform" method="post" action="/Privacy.aspx" id="mainform">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjc1MDU5NTA0D2QWAgIDEGRkFgoCAQ9kFgJmDw8WAh4PSGVhZGVyTGlua0NvdW50ZmQWBAIBDxYCHgtfIUl0ZW1Db3VudGYWBGYPFgIeB1Zpc2libGVoZAIBDxYCHwJoZAIGDxYCHgRocmVmBRUvQ29udGFjdFVzL0xvZ2luLmFzcHhkAgMPZBYCZg9kFgICAQ8WAh8BAggWEGYPZBYCZg8VATQ8bGkgY2xhc3M9Im5hdi1saW5rLWhvbWUiPjxhIGhyZWY9Ii8iID5Ib21lPC9hPjwvbGk+ZAIBD2QWAmYPFQEtPGxpPjxhIGhyZWY9Ii9XZWxjb21lLmFzcHgiID5XZWxjb21lPC9hPjwvbGk+ZAICD2QWAmYPFQGFBTxsaT48YSBocmVmPSIvUGxhbnMuYXNweCIgPlBsYW5zPC9hPjx1bCBjbGFzcz0ic3VibWVudSI+DQo8bGk+PGEgaHJlZj0iL1BsYW5zL0VsaWdpYmlsaXR5LmFzcHgiID5FbGlnaWJpbGl0eTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9QbGFucy9OZXcuYXNweCIgPk5ldyB0byBUUklDQVJFPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL1BsYW5zL0hlYWx0aFBsYW5zLmFzcHgiID5IZWFsdGggUGxhbnM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvUGxhbnMvUGxhbkZpbmRlci5hc3B4IiA+UGxhbiBGaW5kZXI8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvUGxhbnMvQ29tcGFyZVBsYW5zLmFzcHgiID5Db21wYXJlIFBsYW5zPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL1BsYW5zL0Vucm9sbC5hc3B4IiA+RW5yb2xsIG9yIFB1cmNoYXNlIGEgUGxhbjwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9QbGFucy9PSEkuYXNweCIgPlVzaW5nIE90aGVyIEhlYWx0aCBJbnN1cmFuY2U8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvUGxhbnMvRGVudGFsUGxhbnMuYXNweCIgPkRlbnRhbCBQbGFuczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9QbGFucy9TcGVjaWFsUHJvZ3JhbXMuYXNweCIgPlNwZWNpYWwgUHJvZ3JhbXM8L2E+PC9saT4NCjwvdWw+DQo8L2xpPmQCAw9kFgJmDxUBzQQ8bGk+PGEgaHJlZj0iL0NvdmVyZWRTZXJ2aWNlcy5hc3B4IiA+U2VlIFdoYXQncyBDb3ZlcmVkPC9hPjx1bCBjbGFzcz0ic3VibWVudSI+DQo8bGk+PGEgaHJlZj0iL0NvdmVyZWRTZXJ2aWNlcy9Jc0l0Q292ZXJlZC5hc3B4IiA+SXMgSXQgQ292ZXJlZD88L2E+PC9saT4NCjxsaT48YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzL0RlbnRhbC5hc3B4IiA+RGVudGFsIENhcmU8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzL01lbnRhbC5hc3B4IiA+TWVudGFsIEhlYWx0aCBDYXJlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0NvdmVyZWRTZXJ2aWNlcy9QaGFybWFjeS5hc3B4IiA+UGhhcm1hY3k8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzL1NwZWNpYWxOZWVkcy5hc3B4IiA+U3BlY2lhbCBOZWVkczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvVmlzaW9uLmFzcHgiID5WaXNpb24gQ2FyZTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvQmVuZWZpdFVwZGF0ZXMuYXNweCIgPkJlbmVmaXQgVXBkYXRlczwvYT48L2xpPg0KPC91bD4NCjwvbGk+ZAIED2QWAmYPFQHABjxsaT48YSBocmVmPSIvRmluZERvY3Rvci5hc3B4IiA+RmluZCBhIERvY3RvcjwvYT48dWwgY2xhc3M9InN1Ym1lbnUiPg0KPGxpPjxhIGhyZWY9Ii9GaW5kRG9jdG9yL0FwcG9pbnRtZW50cy5hc3B4IiA+Qm9vayBBcHBvaW50bWVudHM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvRmluZERvY3Rvci9UcmF2ZWxpbmcuYXNweCIgPkdldHRpbmcgQ2FyZSBXaGVuIFRyYXZlbGluZzwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9GaW5kRG9jdG9yL01pbGl0YXJ5LmFzcHgiID5NaWxpdGFyeSBIb3NwaXRhbHMgYW5kIENsaW5pY3M8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvRmluZERvY3Rvci9NU00uYXNweCIgPk11bHRpLVNlcnZpY2UgTWFya2V0czwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9GaW5kRG9jdG9yL05ldHdvcmsuYXNweCIgPk5ldHdvcmsgUHJvdmlkZXJzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0ZpbmREb2N0b3IvTm9uTmV0d29yay5hc3B4IiA+Tm9uLU5ldHdvcmsgUHJvdmlkZXJzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0ZpbmREb2N0b3IvT3ZlcnNlYXMuYXNweCIgPk92ZXJzZWFzIFByb3ZpZGVyczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9GaW5kRG9jdG9yL01lZGljYXJlLmFzcHgiID5NZWRpY2FyZSBQcm92aWRlcnM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvRmluZERvY3Rvci9VU0ZIUC5hc3B4IiA+VVMgRmFtaWx5IEhlYWx0aCBQbGFuIFByb3ZpZGVyczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9GaW5kRG9jdG9yL1ZBRmFjaWxpdGllcy5hc3B4IiA+VmV0ZXJhbnMgQWZmYWlycyBGYWNpbGl0aWVzPC9hPjwvbGk+DQo8L3VsPg0KPC9saT5kAgUPZBYCZg8VAYsDPGxpPjxhIGhyZWY9Ii9Db3N0cy5hc3B4IiA+Q29zdHM8L2E+PHVsIGNsYXNzPSJzdWJtZW51Ij4NCjxsaT48YSBocmVmPSIvQ29zdHMvSGVhbHRoUGxhbkNvc3RzLmFzcHgiID5IZWFsdGggUGxhbiBDb3N0czwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9Db3N0cy9QcmVzY3JpcHRpb25Db3N0cy5hc3B4IiA+UHJlc2NyaXB0aW9uIENvc3RzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0Nvc3RzL0RlbnRhbENvc3RzLmFzcHgiID5EZW50YWwgQ29zdHM8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvQ29zdHMvUGF5RmVlcy5hc3B4IiA+UGF5IE15IEJpbGw8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvQ29zdHMvQ2F0Q2FwLmFzcHgiID5DYXRhc3Ryb3BoaWMgQ2FwPC9hPjwvbGk+DQo8L3VsPg0KPC9saT5kAgYPZBYCZg8VAZcIPGxpPjxhIGhyZWY9Ii9MaWZlRXZlbnRzLmFzcHgiID5MaWZlIEV2ZW50czwvYT48dWwgY2xhc3M9InN1Ym1lbnUiPg0KPGxpPjxhIGhyZWY9Ii9MaWZlRXZlbnRzL0JhYnkuYXNweCIgPkhhdmluZyBhIEJhYnkgb3IgQWRvcHRpbmc8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvTGlmZUV2ZW50cy9Nb3ZpbmcuYXNweCIgPk1vdmluZzwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9MaWZlRXZlbnRzL01hcnJpYWdlLmFzcHgiID5HZXR0aW5nIE1hcnJpZWQ8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvTGlmZUV2ZW50cy9EaXZvcmNlLmFzcHgiID5HZXR0aW5nIERpdm9yY2VkPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvUmV0aXJpbmcuYXNweCIgPlJldGlyaW5nPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvTWVkaWNhcmUuYXNweCIgPkJlY29taW5nIE1lZGljYXJlLUVsaWdpYmxlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvU2VwYXJhdGluZy5hc3B4IiA+U2VwYXJhdGluZyBmcm9tIEFjdGl2ZSBEdXR5PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvQ29sbGVnZS5hc3B4IiA+R29pbmcgdG8gQ29sbGVnZTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9MaWZlRXZlbnRzL0NoaWxkQWR1bHQuYXNweCIgPkNoaWxkcmVuIEJlY29taW5nIEFkdWx0czwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9MaWZlRXZlbnRzL1Nwb25zb3JEZWF0aC5hc3B4IiA+U3BvbnNvciBEaWVzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvRGVhY3RpdmF0aW5nLmFzcHgiID5EZWFjdGl2YXRpbmc8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvTGlmZUV2ZW50cy9BY3RpdmF0aW5nLmFzcHgiID5BY3RpdmF0aW5nPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj0iL0xpZmVFdmVudHMvSW5qdXJlZG9uQUQuYXNweCIgPkluanVyZWQgb24gQWN0aXZlIER1dHk8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvTGlmZUV2ZW50cy9EZXBsb3lpbmcuYXNweCIgPkRlcGxveWluZzwvYT48L2xpPg0KPC91bD4NCjwvbGk+ZAIHD2QWAmYPFQGkBDxsaT48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MuYXNweCIgPkhlYWx0aCBhbmQgV2VsbG5lc3M8L2E+PHVsIGNsYXNzPSJzdWJtZW51Ij4NCjxsaT48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MvQWxjb2hvbC5hc3B4IiA+QWxjb2hvbCBBd2FyZW5lc3M8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MvVG9iYWNjby5hc3B4IiA+VG9iYWNjbyBDZXNzYXRpb248L2E+PC9saT4NCjxsaT48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MvUHJldmVudGl2ZS5hc3B4IiA+UHJldmVudGl2ZSBTZXJ2aWNlczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9IZWFsdGhXZWxsbmVzcy9HZXRGaXQuYXNweCIgPkdldCBGaXQ8L2E+PC9saT4NCjxsaT48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MvSGVhbHRoeUxpdmluZ1BhcnRuZXJzLmFzcHgiID5IZWFsdGh5IExpdmluZyBQYXJ0bmVyczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Ii9IZWFsdGhXZWxsbmVzcy9ITEFydGljbGVzLmFzcHgiID5IZWFsdGh5IExpdmluZyBBcnRpY2xlczwvYT48L2xpPg0KPC91bD4NCjwvbGk+ZAIFD2QWAmYPDxYCHgdQcm9maWxlMsECAAEAAAD/////AQAAAAAAAAAMAgAAAENUcmljYXJlLkNvcmUsIFZlcnNpb249MS4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAAfVHJpY2FyZS5Db3JlLnV0aWwuUHJvZmlsZU9iamVjdAYAAAAVPFBsYW4+a19fQmFja2luZ0ZpZWxkFzxSZWdpb24+a19fQmFja2luZ0ZpZWxkGDxTZXJ2aWNlPmtfX0JhY2tpbmdGaWVsZBs8UmVnaW9uSW5mbz5rX19CYWNraW5nRmllbGQUPFppcD5rX19CYWNraW5nRmllbGQYPENvdW50cnk+a19fQmFja2luZ0ZpZWxkAQEBAQEBAgAAAAYDAAAACk5vIFByb2ZpbGUJAwAAAAkDAAAABgQAAAAACgoLZBYKAgQPFgIfAwUWL1BsYW5zL1BsYW5GaW5kZXIuYXNweGQCBQ8PFgIeBFRleHQFGTxoMj5HZXQgTXkgUGxhbiBJbmZvPC9oMj5kZAIGDw8WAh8FZWRkAgwPDxYCHwUFCFpJUCBDb2RlZGQCDw8QZGQWAGQCBw9kFgJmD2QWAmYPZBYIAgEPZBYCZg9kFgJmD2QWBGYPFgIfBQU7PGgxIGNsYXNzPSJhY3RpdmUiPjxhIGhyZWY9Ii9Qcml2YWN5LmFzcHgiPlByaXZhY3k8L2E+PC9oMT5kAgIPFgIfBQWZAjxoMiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPlNlY29uZGFyeSBOYXZpZ2F0aW9uPC9oMj48dWw+PGxpPjxhIGhyZWY9Ii9Qcml2YWN5L0hJUEFBLmFzcHgiPkhJUEFBIGFuZCBQcml2YWN5PC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9Qcml2YWN5L09wdE91dENvb2tpZXMuYXNweCI+RGlzYWJsaW5nIENvb2tpZXMgb24gWW91ciBXZWIgQnJvd3NlcjwvYT48L2xpPjxsaT48YSBocmVmPSIvUHJpdmFjeS9QUEkuYXNweCI+UHJvdGVjdGluZyBQZXJzb25hbCBJbmZvcm1hdGlvbjwvYT48L2xpPjwvdWw+ZAIDD2QWAmYPZBYCZg9kFgICAQ8WAh8FBTs8bGk+PGEgaHJlZj0iLyIgPkhvbWU8L2E+PC9saT48bGkgY2xhc3M9Imxhc3QiPlByaXZhY3k8L2xpPmQCBQ9kFgRmD2QWAmYPZBYCZg9kFgQCBQ8WAh8CaGQCBg8PFgIfAmhkZAICD2QWAmYPZBYCAgEPDxYCHwUFCDkvMy8yMDEzZGQCBw9kFgQCAQ9kFgJmD2QWAmYPDxYCHwJoZGQCAg9kFgJmD2QWAgIBDxYCHwECARYCAgEPZBYCAgEPZBYCAgEPDxYIHgtOYXZpZ2F0ZVVybAWqAWh0dHA6Ly93d3cudHJpY2FyZS5taWwvdG1hL3ByaXZhY3kvZG93bmxvYWRzL01pbGl0YXJ5JTIwSGVhbHRoJTIwU3lzdGVtX1dvcmQlMjBOb1BQXzIwMTMwOTI0JTIwLSUyMFByaW50JTIwUmVhZHklMjBWZXJzaW9uJTIwLSUyMHdpdGglMjBMb2dvX1NlY3Rpb24lMjA1MDglMjBDb21wbGlhbnQucGRmHwUFG05vdGljZSBvZiBQcml2YWN5IFByYWN0aWNlcx4HVG9vbFRpcAUbTm90aWNlIG9mIFByaXZhY3kgUHJhY3RpY2VzHgZUYXJnZXQFBl9ibGFua2RkAgkPZBYCZg9kFgRmDxYCHwECCWQCBA8WAh8FBYYgPGRpdiBjbGFzcz0ibGVmdCBjb2wiPg0KPHAgY2xhc3M9Im1hcHRpdGxlIj48YSBocmVmPSIvV2VsY29tZS5hc3B4Ij5XZWxjb21lPC9hPjwvcD4NCjxwPg0KPC9wPg0KDQo8YnIgLz4NCjxwIGNsYXNzPSJtYXB0aXRsZSI+PGEgaHJlZj0iL1BsYW5zLmFzcHgiPlBsYW5zPC9hPjwvcD4NCjxwPg0KPGEgaHJlZj0iL1BsYW5zL0VsaWdpYmlsaXR5LmFzcHgiPkVsaWdpYmlsaXR5PC9hPjxiciAvPg0KPGEgaHJlZj0iL1BsYW5zL05ldy5hc3B4Ij5OZXcgdG8gVFJJQ0FSRTwvYT48YnIgLz4NCjxhIGhyZWY9Ii9QbGFucy9IZWFsdGhQbGFucy5hc3B4Ij5IZWFsdGggUGxhbnM8L2E+PGJyIC8+DQo8YSBocmVmPSIvUGxhbnMvUGxhbkZpbmRlci5hc3B4Ij5QbGFuIEZpbmRlcjwvYT48YnIgLz4NCjxhIGhyZWY9Ii9QbGFucy9Db21wYXJlUGxhbnMuYXNweCI+Q29tcGFyZSBQbGFuczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9QbGFucy9FbnJvbGwuYXNweCI+RW5yb2xsIG9yIFB1cmNoYXNlIGEgUGxhbjwvYT48YnIgLz4NCjxhIGhyZWY9Ii9QbGFucy9PSEkuYXNweCI+VXNpbmcgT3RoZXIgSGVhbHRoIEluc3VyYW5jZTwvYT48YnIgLz4NCjxhIGhyZWY9Ii9QbGFucy9EZW50YWxQbGFucy5hc3B4Ij5EZW50YWwgUGxhbnM8L2E+PGJyIC8+DQo8YSBocmVmPSIvUGxhbnMvU3BlY2lhbFByb2dyYW1zLmFzcHgiPlNwZWNpYWwgUHJvZ3JhbXM8L2E+PGJyIC8+DQo8L3A+DQoNCjwvZGl2Pg0KPGRpdiBjbGFzcz0ibGVmdCBjb2wiPg0KPHAgY2xhc3M9Im1hcHRpdGxlIj48YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzLmFzcHgiPlNlZSBXaGF0J3MgQ292ZXJlZDwvYT48L3A+DQo8cD4NCjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvSXNJdENvdmVyZWQuYXNweCI+SXMgSXQgQ292ZXJlZD88L2E+PGJyIC8+DQo8YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzL0RlbnRhbC5hc3B4Ij5EZW50YWwgQ2FyZTwvYT48YnIgLz4NCjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvTWVudGFsLmFzcHgiPk1lbnRhbCBIZWFsdGggQ2FyZTwvYT48YnIgLz4NCjxhIGhyZWY9Ii9Db3ZlcmVkU2VydmljZXMvUGhhcm1hY3kuYXNweCI+UGhhcm1hY3k8L2E+PGJyIC8+DQo8YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzL1NwZWNpYWxOZWVkcy5hc3B4Ij5TcGVjaWFsIE5lZWRzPC9hPjxiciAvPg0KPGEgaHJlZj0iL0NvdmVyZWRTZXJ2aWNlcy9WaXNpb24uYXNweCI+VmlzaW9uIENhcmU8L2E+PGJyIC8+DQo8YSBocmVmPSIvQ292ZXJlZFNlcnZpY2VzL0JlbmVmaXRVcGRhdGVzLmFzcHgiPkJlbmVmaXQgVXBkYXRlczwvYT48YnIgLz4NCjwvcD4NCg0KPC9kaXY+DQo8ZGl2IGNsYXNzPSJsZWZ0IGNvbCI+DQo8cCBjbGFzcz0ibWFwdGl0bGUiPjxhIGhyZWY9Ii9GaW5kRG9jdG9yLmFzcHgiPkZpbmQgYSBEb2N0b3I8L2E+PC9wPg0KPHA+DQo8YSBocmVmPSIvRmluZERvY3Rvci9BcHBvaW50bWVudHMuYXNweCI+Qm9vayBBcHBvaW50bWVudHM8L2E+PGJyIC8+DQo8YSBocmVmPSIvRmluZERvY3Rvci9UcmF2ZWxpbmcuYXNweCI+R2V0dGluZyBDYXJlIFdoZW4gVHJhdmVsaW5nPC9hPjxiciAvPg0KPGEgaHJlZj0iL0ZpbmREb2N0b3IvTWlsaXRhcnkuYXNweCI+TWlsaXRhcnkgSG9zcGl0YWxzIGFuZCBDbGluaWNzPC9hPjxiciAvPg0KPGEgaHJlZj0iL0ZpbmREb2N0b3IvTVNNLmFzcHgiPk11bHRpLVNlcnZpY2UgTWFya2V0czwvYT48YnIgLz4NCjxhIGhyZWY9Ii9GaW5kRG9jdG9yL05ldHdvcmsuYXNweCI+TmV0d29yayBQcm92aWRlcnM8L2E+PGJyIC8+DQo8YSBocmVmPSIvRmluZERvY3Rvci9Ob25OZXR3b3JrLmFzcHgiPk5vbi1OZXR3b3JrIFByb3ZpZGVyczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9GaW5kRG9jdG9yL092ZXJzZWFzLmFzcHgiPk92ZXJzZWFzIFByb3ZpZGVyczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9GaW5kRG9jdG9yL01lZGljYXJlLmFzcHgiPk1lZGljYXJlIFByb3ZpZGVyczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9GaW5kRG9jdG9yL1VTRkhQLmFzcHgiPlVTIEZhbWlseSBIZWFsdGggUGxhbiBQcm92aWRlcnM8L2E+PGJyIC8+DQo8YSBocmVmPSIvRmluZERvY3Rvci9WQUZhY2lsaXRpZXMuYXNweCI+VmV0ZXJhbnMgQWZmYWlycyBGYWNpbGl0aWVzPC9hPjxiciAvPg0KPC9wPg0KDQo8YnIgLz4NCjxwIGNsYXNzPSJtYXB0aXRsZSI+PGEgaHJlZj0iL0Nvc3RzLmFzcHgiPkNvc3RzPC9hPjwvcD4NCjxwPg0KPGEgaHJlZj0iL0Nvc3RzL0hlYWx0aFBsYW5Db3N0cy5hc3B4Ij5IZWFsdGggUGxhbiBDb3N0czwvYT48YnIgLz4NCjxhIGhyZWY9Ii9Db3N0cy9QcmVzY3JpcHRpb25Db3N0cy5hc3B4Ij5QcmVzY3JpcHRpb24gQ29zdHM8L2E+PGJyIC8+DQo8YSBocmVmPSIvQ29zdHMvRGVudGFsQ29zdHMuYXNweCI+RGVudGFsIENvc3RzPC9hPjxiciAvPg0KPGEgaHJlZj0iL0Nvc3RzL1BheUZlZXMuYXNweCI+UGF5IE15IEJpbGw8L2E+PGJyIC8+DQo8YSBocmVmPSIvQ29zdHMvQ2F0Q2FwLmFzcHgiPkNhdGFzdHJvcGhpYyBDYXA8L2E+PGJyIC8+DQo8L3A+DQoNCjwvZGl2Pg0KPGRpdiBjbGFzcz0ibGVmdCBjb2wiPg0KPHAgY2xhc3M9Im1hcHRpdGxlIj48YSBocmVmPSIvTGlmZUV2ZW50cy5hc3B4Ij5MaWZlIEV2ZW50czwvYT48L3A+DQo8cD4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL0JhYnkuYXNweCI+SGF2aW5nIGEgQmFieSBvciBBZG9wdGluZzwvYT48YnIgLz4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL01vdmluZy5hc3B4Ij5Nb3Zpbmc8L2E+PGJyIC8+DQo8YSBocmVmPSIvTGlmZUV2ZW50cy9NYXJyaWFnZS5hc3B4Ij5HZXR0aW5nIE1hcnJpZWQ8L2E+PGJyIC8+DQo8YSBocmVmPSIvTGlmZUV2ZW50cy9EaXZvcmNlLmFzcHgiPkdldHRpbmcgRGl2b3JjZWQ8L2E+PGJyIC8+DQo8YSBocmVmPSIvTGlmZUV2ZW50cy9SZXRpcmluZy5hc3B4Ij5SZXRpcmluZzwvYT48YnIgLz4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL01lZGljYXJlLmFzcHgiPkJlY29taW5nIE1lZGljYXJlLUVsaWdpYmxlPC9hPjxiciAvPg0KPGEgaHJlZj0iL0xpZmVFdmVudHMvU2VwYXJhdGluZy5hc3B4Ij5TZXBhcmF0aW5nIGZyb20gQWN0aXZlIER1dHk8L2E+PGJyIC8+DQo8YSBocmVmPSIvTGlmZUV2ZW50cy9Db2xsZWdlLmFzcHgiPkdvaW5nIHRvIENvbGxlZ2U8L2E+PGJyIC8+DQo8YSBocmVmPSIvTGlmZUV2ZW50cy9DaGlsZEFkdWx0LmFzcHgiPkNoaWxkcmVuIEJlY29taW5nIEFkdWx0czwvYT48YnIgLz4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL1Nwb25zb3JEZWF0aC5hc3B4Ij5TcG9uc29yIERpZXM8L2E+PGJyIC8+DQo8YSBocmVmPSIvTGlmZUV2ZW50cy9EZWFjdGl2YXRpbmcuYXNweCI+RGVhY3RpdmF0aW5nPC9hPjxiciAvPg0KPGEgaHJlZj0iL0xpZmVFdmVudHMvQWN0aXZhdGluZy5hc3B4Ij5BY3RpdmF0aW5nPC9hPjxiciAvPg0KPGEgaHJlZj0iL0xpZmVFdmVudHMvSW5qdXJlZG9uQUQuYXNweCI+SW5qdXJlZCBvbiBBY3RpdmUgRHV0eTwvYT48YnIgLz4NCjxhIGhyZWY9Ii9MaWZlRXZlbnRzL0RlcGxveWluZy5hc3B4Ij5EZXBsb3lpbmc8L2E+PGJyIC8+DQo8L3A+DQoNCjwvZGl2Pg0KPGRpdiBjbGFzcz0ibGVmdCBjb2wiPg0KPHAgY2xhc3M9Im1hcHRpdGxlIj48YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MuYXNweCI+SGVhbHRoIGFuZCBXZWxsbmVzczwvYT48L3A+DQo8cD4NCjxhIGhyZWY9Ii9IZWFsdGhXZWxsbmVzcy9BbGNvaG9sLmFzcHgiPkFsY29ob2wgQXdhcmVuZXNzPC9hPjxiciAvPg0KPGEgaHJlZj0iL0hlYWx0aFdlbGxuZXNzL1RvYmFjY28uYXNweCI+VG9iYWNjbyBDZXNzYXRpb248L2E+PGJyIC8+DQo8YSBocmVmPSIvSGVhbHRoV2VsbG5lc3MvUHJldmVudGl2ZS5hc3B4Ij5QcmV2ZW50aXZlIFNlcnZpY2VzPC9hPjxiciAvPg0KPGEgaHJlZj0iL0hlYWx0aFdlbGxuZXNzL0dldEZpdC5hc3B4Ij5HZXQgRml0PC9hPjxiciAvPg0KPGEgaHJlZj0iL0hlYWx0aFdlbGxuZXNzL0hlYWx0aHlMaXZpbmdQYXJ0bmVycy5hc3B4Ij5IZWFsdGh5IExpdmluZyBQYXJ0bmVyczwvYT48YnIgLz4NCjxhIGhyZWY9Ii9IZWFsdGhXZWxsbmVzcy9ITEFydGljbGVzLmFzcHgiPkhlYWx0aHkgTGl2aW5nIEFydGljbGVzPC9hPjxiciAvPg0KPC9wPg0KDQo8L2Rpdj4NCmRk1mKeSQ5dVn6ZA4qHmFTYB/VzdVw=">
+</div>
 
 <div>
 
-	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
-	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="FFD7F9A2">
 </div>
-    
+    <div id="top">
+        
 <script type="text/javascript">
 
         function HandleSearchBoxTopPress(e, control) {
@@ -202,7 +285,7 @@ function __doPostBack(eventTarget, eventArgument) {
             keynum = e.keyCode;
 
             if (keynum == 13) {
-                var btnSearch = document.getElementById("ctl16_buttonSearch");
+                var btnSearch = document.getElementById("ctl15_buttonSearch");
                 btnSearch.click();
                 return false;
             }
@@ -211,14 +294,16 @@ function __doPostBack(eventTarget, eventArgument) {
         }
 
 </script>
-<div id="utilnav">
-<a id="ctl16_lnkLogo" class="logo" href="javascript:__doPostBack('ctl16$lnkLogo','')">
-                TRICARE
-        </a>
+<div class="container">
+    <div class="logo left">
+        <a id="ctl15_lnkLogo" class="logo" href="javascript:__doPostBack('ctl15$lnkLogo','')">TRICARE</a>
+    </div>
+    
+    <div id="utilnav" class="right">
 <!--
         <li>Other TMA Sites:</li>-->
         
-    <div class="right">
+    <div id="SocialMedia">
         <!-- SOCIAL MEDIA -->
         <ul class="icn_social_media">
             <li class="icn_fb"><a target="_blank" href="https://www.facebook.com/TRICARE" alt="Facebook" title="Facebook">Facebook</a></li>
@@ -231,27 +316,146 @@ function __doPostBack(eventTarget, eventArgument) {
             <li class="icn_govdel"><a target="_blank" href="https://public.govdelivery.com/accounts/USMHSTMA/subscriber/new" alt="Email Updates" title="Email Updates">Email Updates</a></li>
             <li class="icn_rss"><a href="/rss" alt="RSS Feed" title="RSS Feed">RSS Feed</a></li>
             <li class="icn_podcast"><a href="/About/MediaCenter/Podcasts.aspx" alt="Podcast" title="Podcast">Podcast</a></li>
+            <li class="icn_webinars"><a target="_blank" href="http://www.militaryonesource.mil/social/webinar-archives" alt="Webinars" title="Webinars">Webinars</a></li> 
         </ul>
+    </div>
+    <div>
         <!-- SEARCH -->
-        <div id="search">
-            <div id="ctl16_searchPhrase">
+        <div id="search" class="right">
+            <div id="ctl15_searchPhrase">
             </div>
             <div nowrap="yes">
-                <label for="ctl16_textBoxSearchValue" id="ctl16_lblSearch">Search</label>
-                <input name="ctl16$textBoxSearchValue" type="text" id="ctl16_textBoxSearchValue" class="searchtext" search-id="header-search" tricare-search-autocomplete="true" onkeydown="javascript:return HandleSearchBoxTopPress(event,this);">
-                <input type="submit" name="ctl16$buttonSearch" value="Search" id="ctl16_buttonSearch" class="searchbttn" search-for="header-search"><br>
+                <label for="ctl15_textBoxSearchValue" id="ctl15_lblSearch" class="hidden">Search</label>
+                <input name="ctl15$textBoxSearchValue" type="text" id="ctl15_textBoxSearchValue" class="search-input" search-id="header-search" tricare-search-autocomplete="true" onkeydown="javascript:return HandleSearchBoxTopPress(event,this);">
+                <input type="submit" name="ctl15$buttonSearch" value="Search" id="ctl15_buttonSearch" class="btn btn-red search-btn" search-for="header-search"><br>
             </div>
         </div>
+        <div class="btn btn-secure right btn-gray">
+            <a href="/ContactUs/Login.aspx" id="ctl15_SecureLogin" class="icn-secure">Secure Login</a>
+        </div>
     </div>
-        <div class="clear" id="ctl3"></div>
 </div>
 
+</div>
+<div class="clear" id="ctl3"></div>
+        <a href="#content" class="skip">Skip to Content</a>
+    </div>
     <!-- / TOP OTHER SITES NAV -->
     <div id="wrap">
-        <div class="container">
-            <!-- LARGE HEADER -->
-            <div id="header">
+        <div id="mainnav">
+            <div class="container">
+                <!-- PRIMARY NAV: copy this to wherever you want it on the homepage (HomePageLayout.aspx) -->
                 
+    
+<!-- MAIN NAV -->
+<!--<div id="mainnav">-->
+<div class="nav">
+    <h2 class="hidden">Main Nav First Bar</h2>
+    <ul>
+        <!--<li class="active"><a href="#">TRICARE Home</a></li>
+                <li><a href="#">TRICARE Overview</a></li>
+                <li><a href="#">Medical</a></li>
+                <li><a href="#">Dental</a></li>
+                <li><a href="#">Vision</a></li>
+                <li><a href="#">Prescriptions</a></li>
+                <li><a href="#">Mental Health and Behavior</a></li>
+                <li><a href="#">Life Events</a></li>-->
+        
+                <li class="nav-link-home"><a href="/">Home</a></li>
+            
+                <li><a href="/Welcome.aspx">Welcome</a></li>
+            
+                <li><a href="/Plans.aspx">Plans</a><ul class="submenu">
+<li><a href="/Plans/Eligibility.aspx">Eligibility</a></li>
+<li><a href="/Plans/New.aspx">New to TRICARE</a></li>
+<li><a href="/Plans/HealthPlans.aspx">Health Plans</a></li>
+<li><a href="/Plans/PlanFinder.aspx">Plan Finder</a></li>
+<li><a href="/Plans/ComparePlans.aspx">Compare Plans</a></li>
+<li><a href="/Plans/Enroll.aspx">Enroll or Purchase a Plan</a></li>
+<li><a href="/Plans/OHI.aspx">Using Other Health Insurance</a></li>
+<li><a href="/Plans/DentalPlans.aspx">Dental Plans</a></li>
+<li><a href="/Plans/SpecialPrograms.aspx">Special Programs</a></li>
+</ul>
+</li>
+            
+                <li><a href="/CoveredServices.aspx">See What's Covered</a><ul class="submenu">
+<li><a href="/CoveredServices/IsItCovered.aspx">Is It Covered?</a></li>
+<li><a href="/CoveredServices/Dental.aspx">Dental Care</a></li>
+<li><a href="/CoveredServices/Mental.aspx">Mental Health Care</a></li>
+<li><a href="/CoveredServices/Pharmacy.aspx">Pharmacy</a></li>
+<li><a href="/CoveredServices/SpecialNeeds.aspx">Special Needs</a></li>
+<li><a href="/CoveredServices/Vision.aspx">Vision Care</a></li>
+<li><a href="/CoveredServices/BenefitUpdates.aspx">Benefit Updates</a></li>
+</ul>
+</li>
+            
+                <li><a href="/FindDoctor.aspx">Find a Doctor</a><ul class="submenu">
+<li><a href="/FindDoctor/Appointments.aspx">Book Appointments</a></li>
+<li><a href="/FindDoctor/Traveling.aspx">Getting Care When Traveling</a></li>
+<li><a href="/FindDoctor/Military.aspx">Military Hospitals and Clinics</a></li>
+<li><a href="/FindDoctor/MSM.aspx">Multi-Service Markets</a></li>
+<li><a href="/FindDoctor/Network.aspx">Network Providers</a></li>
+<li><a href="/FindDoctor/NonNetwork.aspx">Non-Network Providers</a></li>
+<li><a href="/FindDoctor/Overseas.aspx">Overseas Providers</a></li>
+<li><a href="/FindDoctor/Medicare.aspx">Medicare Providers</a></li>
+<li><a href="/FindDoctor/USFHP.aspx">US Family Health Plan Providers</a></li>
+<li><a href="/FindDoctor/VAFacilities.aspx">Veterans Affairs Facilities</a></li>
+</ul>
+</li>
+            
+                <li><a href="/Costs.aspx">Costs</a><ul class="submenu">
+<li><a href="/Costs/HealthPlanCosts.aspx">Health Plan Costs</a></li>
+<li><a href="/Costs/PrescriptionCosts.aspx">Prescription Costs</a></li>
+<li><a href="/Costs/DentalCosts.aspx">Dental Costs</a></li>
+<li><a href="/Costs/PayFees.aspx">Pay My Bill</a></li>
+<li><a href="/Costs/CatCap.aspx">Catastrophic Cap</a></li>
+</ul>
+</li>
+            
+                <li><a href="/LifeEvents.aspx">Life Events</a><ul class="submenu">
+<li><a href="/LifeEvents/Baby.aspx">Having a Baby or Adopting</a></li>
+<li><a href="/LifeEvents/Moving.aspx">Moving</a></li>
+<li><a href="/LifeEvents/Marriage.aspx">Getting Married</a></li>
+<li><a href="/LifeEvents/Divorce.aspx">Getting Divorced</a></li>
+<li><a href="/LifeEvents/Retiring.aspx">Retiring</a></li>
+<li><a href="/LifeEvents/Medicare.aspx">Becoming Medicare-Eligible</a></li>
+<li><a href="/LifeEvents/Separating.aspx">Separating from Active Duty</a></li>
+<li><a href="/LifeEvents/College.aspx">Going to College</a></li>
+<li><a href="/LifeEvents/ChildAdult.aspx">Children Becoming Adults</a></li>
+<li><a href="/LifeEvents/SponsorDeath.aspx">Sponsor Dies</a></li>
+<li><a href="/LifeEvents/Deactivating.aspx">Deactivating</a></li>
+<li><a href="/LifeEvents/Activating.aspx">Activating</a></li>
+<li><a href="/LifeEvents/InjuredonAD.aspx">Injured on Active Duty</a></li>
+<li><a href="/LifeEvents/Deploying.aspx">Deploying</a></li>
+</ul>
+</li>
+            
+                <li><a href="/HealthWellness.aspx">Health and Wellness</a><ul class="submenu">
+<li><a href="/HealthWellness/Alcohol.aspx">Alcohol Awareness</a></li>
+<li><a href="/HealthWellness/Tobacco.aspx">Tobacco Cessation</a></li>
+<li><a href="/HealthWellness/Preventive.aspx">Preventive Services</a></li>
+<li><a href="/HealthWellness/GetFit.aspx">Get Fit</a></li>
+<li><a href="/HealthWellness/HealthyLivingPartners.aspx">Healthy Living Partners</a></li>
+<li><a href="/HealthWellness/HLArticles.aspx">Healthy Living Articles</a></li>
+</ul>
+</li>
+            
+    </ul>
+    
+</div>
+<div class="clear">
+</div>
+<!-- / MAIN NAV -->
+
+                <div id="mobile">
+                    <a class="toggle" href="#nav"><span class="icn-bar"></span><span class="icn-bar"></span>
+                        <span class="icn-bar"></span></a><a href="#" class="profile_btn">My Plan Info</a>
+                </div>
+            </div>
+        </div>
+
+        <div id="header">
+            
 <link rel="Stylesheet" href="/_inc/css/lytebox5.css">
 
 
@@ -302,6 +506,26 @@ function __doPostBack(eventTarget, eventArgument) {
             makingAjaxCall = false;
             jQuery('.box.loading').hide();
         });
+    }
+
+    //Lock form is used to lock the profile form and puts it in an initial state where service must be selected.
+    function LockForm()
+    {
+        var selService = $('[ID*=ddlServices] option:selected').val();
+
+        if (selService == "0") {
+            $('[ID*=ddlCountries]').attr('disabled', true);
+            $('[ID*=txtZip]').attr('disabled', true);
+            LoadBlankPlans();
+        }
+        else
+        {
+            //open up the forms.
+            $('[ID*=ddlCountries]').attr('disable', false);
+            $('[ID*=txtZip]').attr('disabled', false);
+        }
+
+
     }
 
     function showProfile() {
@@ -360,7 +584,7 @@ function __doPostBack(eventTarget, eventArgument) {
                     else if (jQuery('[ID*=ddlCountries]').val() == '999') {
                         jQuery('[ID*=txtZip]').attr('disabled', false);
                     }
-
+                    LockForm();
                 }
             },
             error: function(xhr, error) {
@@ -464,20 +688,28 @@ function __doPostBack(eventTarget, eventArgument) {
     function HandleLookupIndexChanged(e, control) {
         // if user selected "not sure" from the services drop down - redirect to planfinder
         var selService = jQuery('[ID*=ddlServices] option:selected').text().toLowerCase();
+        var selServiceVal = jQuery('[ID*=ddlServices] option:selected').val();
         if (selService.indexOf('not sure') != -1) {
 
             jQuery.ajax({
                 type: "Post",
                 url: '/Handlers/Profile.ashx',
-                data: { command: 'RecordServiceSetNotSure' },
+                data: { command: 'RecordServiceSetNotSure', service: jQuery('[ID*=ddlServices] option:selected').text(), plan: jQuery('[ID*=ddlPlans] option:selected').text(), fromUrl: "/Privacy.aspx", type: "internal" },
                 dataType: "text",
                 async: false
             });
 
-            document.location.href = '/Plans/PlanFinder.aspx?m=1';
+            document.location.href = '/Plans/PlanFinder.aspx';
+        }
+        else if (selServiceVal == "0")
+        {
+            LockForm();
+            LoadBlankPlans();
         }
         else {
             LoadBlankPlans();
+            //Unlock countries.
+            $('[ID*=ddlCountries]').attr('disabled', false);
             if (jQuery('[ID*=ddlCountries]').val() != "0" && jQuery('[ID*=ddlServices]').val() != "0") {
 
                 if (jQuery('[ID*=ddlCountries]').val() == "999") {
@@ -612,7 +844,6 @@ function __doPostBack(eventTarget, eventArgument) {
     }
 
     function RefreshProfile() {
-        __doPostBack("ctl17_hdnRefresh", "");
     }
 
     function RefreshProfilePostBack() {
@@ -640,10 +871,16 @@ function __doPostBack(eventTarget, eventArgument) {
     
 </script>
 
+<input type="hidden" name="ctl17$hdnProfileSelected" id="ctl17_hdnProfileSelected" value="false">
 
-<div id="ctl17_pnlHome">
-	
-<!--
+<div class="banner">
+    <div class="container top-container shdw_brdr">
+        <!-- PROFILE PICKER -->
+        <div class="box loading" style="display: none">
+            <img src="/_inc/img/tricare_preloader.gif" alt="Loading">
+        </div>
+        <div class="profileq">
+                <!--
     <div class="col1">
         <a id="ctl17_lnkLogo" class="logo" href="javascript:__doPostBack(&#39;ctl17$lnkLogo&#39;,&#39;&#39;)">
                 TRICARE
@@ -657,205 +894,140 @@ function __doPostBack(eventTarget, eventArgument) {
         </p>
     </div>
 -->
-    <!-- / LOGO and TAGLINE -->
-    <!-- PROFILE PICKER -->
-    <div class="box loading" style="display: none">
-        <img src="/_inc/img/tricare_preloader.gif" alt="Loading">
-    </div>
-    <div class="banner">
-    <div class="planq">
-    <!--
+                <!-- / LOGO and TAGLINE -->
+                <!--
         <div id="vidplayer">
             <a href="/Plans/PlanFinder.aspx" id="ctl17_lnkPlanFinder">
                 <img border="0" src="/_inc/img/SUPERribbon.png" alt="Find a Plan" /></a>
         </div>
-        --> 
-        <!--[if lt IE 7]><img style="float: none; padding-bottom: 5px; display: inline;" src="images/trans_hack.JPG"/><![endif]-->
-        <div class="h2">
-            Answer Three Questions <span class="h3">for your plan info</span></div>
+        -->
+                <!--[if lt IE 7]><img style="float: none; padding-bottom: 5px; display: inline;" src="images/trans_hack.JPG"/><![endif]-->
+                <a id="aLessMore" class="btn-expand" href="#" onclick="hideShowFullInfo(); return false;" title="Show Less/Show More">Less/More</a>
+                <!--a class="btn-expand" href="#" onclick="showFullInfo(); return false;" title="Show More">More</!--a-->
+                <span id="ctl17_lblProfileHeader" class="lblProfileHeader" onclick="hideShowFullInfo(); return false;"><h2>Get My Plan Info</h2></span>
+                
+                <div class="profile-box-small">
+                    <span id="ctl17_lblProfile"></span>
+                </div>
 
-                <table cellspacing="0" cellpadding="0" class="profileTable">
-                    <tbody><tr>
-                        <td colspan="2" class="services">
-                            <label for="ctl17_ddlServices" id="ctl17_lblServices">					 
-                                        <img class="step" src="/_inc/img/Button1_30x28.png" alt="step 1"><span style="display: none;">Service Status</span>
-                            </label>
-                            <select name="ctl17$ddlServices" id="ctl17_ddlServices" onchange="javascript:return HandleLookupIndexChanged(event,this);">
-		<option selected="selected" value="0">Who are you?</option>
+                <div class="profile-box-full">
+                <div class="form form-profile">
+                    <div class="form-control">
+                        <label for="ctl17_ddlServices" id="ctl17_lblServices" class="hidden">
+                            Service Status
+                        </label>
+                        <select name="ctl17$ddlServices" id="ctl17_ddlServices" class="form-input" onchange="javascript:return HandleLookupIndexChanged(event,this);">
+	<option selected="selected" value="0">Who are you?</option>
 
-	</select>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td class="location">
-                            <label for="ctl17_ddlCountries" id="ctl17_lblCountries">
-                                        <img class="step" src="/_inc/img/Button2_30x28.png" alt="step 2"><span style="display: none;">Countries</span>
-                            </label>
-                            <select name="ctl17$ddlCountries" id="ctl17_ddlCountries" onchange="javascript:return HandleLookupIndexChanged(event,this);">
-		<option selected="selected" value="0">Where do you live?</option>
+</select>
+                    </div>
+                    <div class="form-control">
+                        <label for="ctl17_ddlCountries" id="ctl17_lblCountries" class="hidden">
+                            Countries
+                        </label>
+                        <select name="ctl17$ddlCountries" id="ctl17_ddlCountries" class="form-input medium" onchange="javascript:return HandleLookupIndexChanged(event,this);">
+	<option selected="selected" value="0">Where do you live?</option>
 
-	</select>
-                        </td>
-                        <td class="zip">
-                            <label for="ctl17_txtZip" id="ctl17_lblZip" style="display: none">Zip Code</label>
-                            <input name="ctl17$txtZip" type="text" id="ctl17_txtZip" disabled="disabled" autocomplete="off" onkeydown="javascript:return HandleZipKeyPress(event,this);" onkeyup="javascript:return HandleZipKeyUp(event,this);" onfocus="javascript:HandleZipFocus(event,this);" onblur="javascript:HandleZipBlur(event,this);">
-                        </td>
-                    </tr>
-                </tbody></table>
-                <input type="hidden" id="submitMe" name="submitMe" value="hidden">
-                <table cellspacing="0" cellpadding="0" class="profileTable">
-                    <tbody><tr>
-                        <td class="plan">
-                            <label for="ctl17_ddlPlans" id="ctl17_lblPlans">
-                                        <img class="step" src="/_inc/img/Button3_30x28.png" alt="step 3"><span style="display: none;">Plans</span>
-                            </label>
-                            <select name="ctl17$ddlPlans" id="ctl17_ddlPlans" disabled="disabled" onchange="javascript:return HandlePlansIndexChanged(event,this);">
+</select>
+                        <label for="ctl17_txtZip" id="ctl17_lblZip" class="hidden">Zip Code</label>
+                        <input name="ctl17$txtZip" type="text" value="ZIP Code" id="ctl17_txtZip" disabled="disabled" class="form-input small" autocomplete="off" onkeydown="javascript:return HandleZipKeyPress(event,this);" onkeyup="javascript:return HandleZipKeyUp(event,this);" onfocus="javascript:HandleZipFocus(event,this);" onblur="javascript:HandleZipBlur(event,this);">
+                        <span id="ctl17_lblZipError" class="ziperror" style="display: none">Enter Valid ZIP Code</span>
+                    </div>
+                    <div class="form-control">
+                        <label for="ctl17_ddlPlans" id="ctl17_lblPlans" class="hidden">
+                            Plans
+                        </label>
+                        <select name="ctl17$ddlPlans" id="ctl17_ddlPlans" disabled="disabled" class="form-input" onchange="javascript:return HandlePlansIndexChanged(event,this);">
 
-	</select>
-                        </td>
-                        <td>
-                            <span id="ctl17_lblZipError" class="ziperror" style="display: none">Enter Valid ZIP Code</span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td colspan="2">
-                            <input type="submit" id="btnSubmit" title="Submit" class="profileBtn" value="Submit">
-                            <input type="hidden" id="postBackUpdatePanel" name="postBackMe" value="hidden">
-                        </td>
-                    </tr>
-                </tbody></table>
-
+</select>
+                    </div>
+                    <div class="form-control">
+                        <input type="submit" id="btnSubmit" title="Submit" class="btn btn-red" value="Submit">
+                        <a id="ctl17_btnClearProfile" class="btn btn-gray" href="javascript:__doPostBack('ctl17$btnClearProfile','')">Clear Profile</a>
+                        <input type="hidden" id="postBackUpdatePanel" name="postBackMe" value="hidden">
+                        <input type="hidden" id="submitMe" name="submitMe" value="hidden">
+                    </div>
+                </div>
+                </div>
+        </div>
     </div>
-    </div>
-
 </div>
+    
 
-<a href="ChangeProfile.aspx" id="ctl17_changeProfile" class="lyteframe" data-title="Change Profile" data-lyte-options="width:500px height:210px scrolling:no frameborder:0 overflow:hidden horizontalscrolling:no" style="display: none;"></a><a href="ChangeProfile.aspx?aspopup=1" id="ctl17_popupProfile" class="lyteframe" data-title="Enter A Profile" data-lyte-options="width:500px height:240px scrolling:no frameborder:0" style="display: none;"></a>
+<a href="ChangeProfile.aspx" id="ctl17_changeProfile" class="lyteframe" data-title="Change Profile" data-lyte-options="width:500px height:210px scrolling:no frameborder:0 overflow:hidden horizontalscrolling:no" style="display: none;"></a><a href="ChangeProfile.aspx?aspopup=1" id="ctl17_popupProfile" class="lyteframe" data-title="" data-lyte-options="width:500px height:240px scrolling:no frameborder:0" style="display: none;"></a>
 
 <input type="hidden" id="postBackMe" name="postBackMe" value="hidden">
 
-                <div class="clear" id="ctl27">
-                </div>
-                <a href="#content" class="skip">Skip to Content</a>
-            </div>
-            
-    
-<!-- MAIN NAV -->
-<div id="mainnav">
-<div id="nav">
-    <h2 style="display: none;">Main Nav First Bar</h2>
-    <ul>
-        <!--<li class="active"><a href="#">TRICARE Home</a></li>
-                <li><a href="#">TRICARE Overview</a></li>
-                <li><a href="#">Medical</a></li>
-                <li><a href="#">Dental</a></li>
-                <li><a href="#">Vision</a></li>
-                <li><a href="#">Prescriptions</a></li>
-                <li><a href="#">Mental Health and Behavior</a></li>
-                <li><a href="#">Life Events</a></li>-->
-        
-                <li class="nav-link-home"><a href="/">Home</a></li>
-            
-                <li><a href="/Welcome.aspx">Welcome</a></li>
-            
-                <li><a href="/Plans.aspx">Plans</a><ul class="submenu">
-<li><a href="/Plans/Eligibility.aspx">Eligibility</a></li>
-<li><a href="/Plans/New.aspx">New to TRICARE</a></li>
-<li><a href="/Plans/HealthPlans.aspx">Health Plans</a></li>
-<li><a href="/Plans/PlanFinder.aspx">Plan Finder</a></li>
-<li><a href="/Plans/ComparePlans.aspx">Compare Plans</a></li>
-<li><a href="/Plans/Enroll.aspx">Enroll or Purchase a Plan</a></li>
-<li><a href="/Plans/OHI.aspx">Using Other Health Insurance</a></li>
-<li><a href="/Plans/DentalPlans.aspx">Dental Plans</a></li>
-<li><a href="/Plans/SpecialPrograms.aspx">Special Programs</a></li>
-</ul>
-</li>
-            
-                <li><a href="/CoveredServices.aspx">See What's Covered</a><ul class="submenu">
-<li><a href="/CoveredServices/SeeWhatsCovered.aspx">Is It Covered?</a></li>
-<li><a href="/CoveredServices/Dental.aspx">Dental Care</a></li>
-<li><a href="/CoveredServices/Mental.aspx">Mental Health Care</a></li>
-<li><a href="/CoveredServices/Pharmacy.aspx">Pharmacy</a></li>
-<li><a href="/CoveredServices/SpecialNeeds.aspx">Special Needs</a></li>
-<li><a href="/CoveredServices/Vision.aspx">Vision Care</a></li>
-<li><a href="/CoveredServices/BenefitUpdates.aspx">Benefit Updates</a></li>
-</ul>
-</li>
-            
-                <li><a href="/FindDoctor.aspx">Find a Doctor</a><ul class="submenu">
-<li><a href="/FindDoctor/Appointments.aspx">Book Appointments</a></li>
-<li><a href="/FindDoctor/Traveling.aspx">Getting Care When Traveling</a></li>
-<li><a href="/FindDoctor/Military.aspx">Military Hospitals and Clinics</a></li>
-<li><a href="/FindDoctor/MSM.aspx">Multi-Service Markets</a></li>
-<li><a href="/FindDoctor/Network.aspx">Network Providers</a></li>
-<li><a href="/FindDoctor/NonNetwork.aspx">Non-Network Providers</a></li>
-<li><a href="/FindDoctor/Overseas.aspx">Overseas Providers</a></li>
-<li><a href="/FindDoctor/Medicare.aspx">Medicare Providers</a></li>
-<li><a href="/FindDoctor/USFHP.aspx">US Family Health Plan Providers</a></li>
-<li><a href="/FindDoctor/VAFacilities.aspx">Veterans Affairs Facilities</a></li>
-</ul>
-</li>
-            
-                <li><a href="/Costs.aspx">Costs</a><ul class="submenu">
-<li><a href="/Costs/HealthPlanCosts.aspx">Health Plan Costs</a></li>
-<li><a href="/Costs/PrescriptionCosts.aspx">Prescription Costs</a></li>
-<li><a href="/Costs/DentalCosts.aspx">Dental Costs</a></li>
-<li><a href="/Costs/PayFees.aspx">Pay My Bill</a></li>
-<li><a href="/Costs/CatCap.aspx">Catastrophic Cap</a></li>
-</ul>
-</li>
-            
-                <li><a href="/LifeEvents.aspx">Life Events</a><ul class="submenu">
-<li><a href="/LifeEvents/Baby.aspx">Having a Baby or Adopting</a></li>
-<li><a href="/LifeEvents/Moving.aspx">Moving</a></li>
-<li><a href="/LifeEvents/Medicare.aspx">Becoming Medicare-Eligible</a></li>
-<li><a href="/LifeEvents/Divorce.aspx">Getting Divorced</a></li>
-<li><a href="/LifeEvents/Marriage.aspx">Getting Married</a></li>
-<li><a href="/LifeEvents/Retiring.aspx">Retiring</a></li>
-<li><a href="/LifeEvents/Activating.aspx">Activating</a></li>
-<li><a href="/LifeEvents/Separating.aspx">Separating from Active Duty</a></li>
-<li><a href="/LifeEvents/SponsorDeath.aspx">Sponsor Dies</a></li>
-<li><a href="/LifeEvents/College.aspx">Going to College</a></li>
-<li><a href="/LifeEvents/Deactivating.aspx">Deactivating</a></li>
-<li><a href="/LifeEvents/Deploying.aspx">Deploying</a></li>
-<li><a href="/LifeEvents/InjuredonAD.aspx">Injured on Active Duty</a></li>
-<li><a href="/LifeEvents/ChildAdult.aspx">Children Becoming Adults</a></li>
-<li><a href="/LifeEvents/BacktoSchool.aspx">Back to School</a></li>
-</ul>
-</li>
-            
-                <li><a href="/HealthWellness.aspx">Health and Wellness</a><ul class="submenu">
-<li><a href="/HealthWellness/Alcohol.aspx">Alcohol Awareness</a></li>
-<li><a href="/HealthWellness/GetFit.aspx">Get Fit</a></li>
-<li><a href="/HealthWellness/Preventive.aspx">Preventive Services</a></li>
-<li><a href="/HealthWellness/Tobacco.aspx">Tobacco Cessation</a></li>
-<li><a href="/HealthWellness/HealthyLivingPartners.aspx">Healthy Living Partners</a></li>
-<li><a href="/HealthWellness/HLArticles.aspx">Healthy Living Articles</a></li>
-</ul>
-</li>
-            
-    </ul>
-    <span class="lshdw"></span>
-    <span class="rshdw"></span>
-    
-</div>
-<div class="clear">
-</div>
-<!-- / MAIN NAV -->
-<!-- START secondary nav -->
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.profile-box-small').show();
+        $('.btn-collapse').hide();
+        $('.btn-expand').show();
+        $('.profile-box-full').hide();
+        var hidden = $('[id*=hdnProfileSelected]');
+        if (hidden.val() == "true") {
+            $('.lblProfileHeader').hide();
+        }
+    });
 
-</div>
-            <div id="mobile">
-                <a class="toggle" href="#nav"><span class="icn-bar"></span><span class="icn-bar"></span>
-                    <span class="icn-bar"></span></a><a href="#" class="profile_btn">Enter Profile</a>
-            </div>
-            <!-- START page content -->
-            <div id="content">
+    //bjv - combined into hideShowFullInfo() via ticket #TRI-2302
+    //function showFullInfo() {
+    //    $('.profile-box-small').slideUp('10');
+    //    $('.profile-box-full').slideDown('10');
+    //    $('.btn-collapse').show();
+    //    $('.btn-expand').hide();
+
+    //    $('.lblProfileHeader').show();
+    //}
+
+    //bjv - combined into hideShowFullInfo() via ticket #TRI-2302
+    //function hideFullInfo() {
+    //    $('.profile-box-small').slideDown('10');
+    //    $('.profile-box-full').slideUp('10');
+    //    $('.btn-collapse').hide();
+    //    $('.btn-expand').show();
+
+    //    var hidden = $('[id*=hdnProfileSelected]');
+    //    if (hidden.val() == "true") {
+    //        $('.lblProfileHeader').hide();
+    //    }
+    //}
+
+    function hideShowFullInfo() {
+        if( $('#aLessMore').hasClass('btn-expand') ) {
+            $('.profile-box-small').slideUp('10');
+            $('.profile-box-full').slideDown('10');
+
+            $('#aLessMore').addClass('btn-collapse');
+            $('#aLessMore').removeClass('btn-expand');
+                
+            $('.btn-collapse').show();
+            $('.btn-expand').hide();
+        }
+        else{
+            $('.profile-box-small').slideDown('10');
+            $('.profile-box-full').slideUp('10');
+
+            $('#aLessMore').removeClass('btn-collapse');
+            $('#aLessMore').addClass('btn-expand');
+
+            $('.btn-collapse').hide();
+            $('.btn-expand').show();
+            
+        }
+    }
+</script>
+            <div class="clear" id="ctl27"></div>
+        </div>
+
+
+        <div id="content">
+            <div class="container shdw_brdr">
                 
 
 <div class="side">
     <h1 class="active"><a href="/Privacy.aspx">Privacy</a></h1>
-<h2 style="display: none;">Secondary Navigation</h2><ul><li><a href="/Privacy/HIPAA.aspx">HIPAA and Privacy</a></li><li><a href="/Privacy/PPI.aspx">Protecting Personal Information</a></li><li><a href="/Privacy/OptOutCookies.aspx">Disabling Cookies on Your Web Browser</a></li></ul>
+<h2 style="display: none;">Secondary Navigation</h2><ul><li><a href="/Privacy/HIPAA.aspx">HIPAA and Privacy</a></li><li><a href="/Privacy/OptOutCookies.aspx">Disabling Cookies on Your Web Browser</a></li><li><a href="/Privacy/PPI.aspx">Protecting Personal Information</a></li></ul>
 <!--
         <ul>
             <li><a href="#">DEERS</a></li>
@@ -1000,7 +1172,10 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 <h1>Privacy
-</h1><div>
+</h1>
+
+
+<div>
 <p>TRICARE.mil is provided as a public service by the The Military Health System. Information presented on this site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested. </p>
 <p>For site management, information is collected for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.</p>
 <p>Below is an example of the information collected based on a standard request for a World Wide Web document: </p>
@@ -1099,7 +1274,7 @@ function __doPostBack(eventTarget, eventArgument) {
                         <div class="rside_content">
                 
                     
-                        <a id="content_0_side2_2_rptRelatedSites_ctl01_anchorLink" title="Notice of Privacy Practices" href="http://www.tricare.mil/tma/privacy/downloads/Military%20Health%20System_Word%20NoPP_20130924%20-%20Print%20Ready%20Version%20-%20with%20Logo_Section%20508%20Compliant.pdf" target="_blank">Notice of Privacy Practices</a>
+                        <p><a id="content_0_side2_2_rptRelatedSites_ctl01_anchorLink" title="Notice of Privacy Practices" href="http://www.tricare.mil/tma/privacy/downloads/Military%20Health%20System_Word%20NoPP_20130924%20-%20Print%20Ready%20Version%20-%20with%20Logo_Section%20508%20Compliant.pdf" target="_blank">Notice of Privacy Practices</a></p>
                     
                 
                     </div>
@@ -1116,27 +1291,18 @@ function __doPostBack(eventTarget, eventArgument) {
             
         
 </div>
-                <div class="clear" id="ctl22">
-                </div>
+                <div class="clear" id="ctl22"></div>
             </div>
         </div>
-        <!--
-        <div class="soc-fixed">
 
-            <a class="soc-facebook" href="https://www.facebook.com/tricare" target="_blank" title="Facebook" ><span>facebook page</span></a>
-            <a class="soc-twitter" href="http://twitter.com/#!/tricare" target="_blank" title="Twitter" ><span>visit twitter</span></a>
-            <a class="soc-rss" href="http://blogs.msdn.com/b/tricare/rss.aspx?Tags=windows+azure/" title="RSS Feed" target="_blank" ><span>rss feed</span></a>
-            <a class="soc-mail" href="https://profile.microsoft.com/RegSysProfileCenter/subscriptionwizard.aspx?wizid=e275a4b3-9c49-4b2e-87f5-7c182f2bfd5e&amp;amp;lcid=1033" title="Email" target="_blank" ><span>newsletter</span></a>                                  
 
-        </div>-->
-        <!-- START bottom nav -->
-        <div class="clear" id="ctl13">
-        </div>
+        <div class="clear" id="ctl13"></div>
         <!-- START footer -->
+        <div id="footer">
         
 <!-- START bottom nav -->
-<div id="footer">
-    <div id="bottomnav">
+
+    <div id="footernav" class="nav">
         <h2 class="hidden">Footer Navigation</h2>
         <ul>
             
@@ -1149,15 +1315,15 @@ function __doPostBack(eventTarget, eventArgument) {
                     </li>
                 
                     <li>
-                        <a target="_blank" href="http://www.tricare.mil/TMA/" title="For Staff">For Staff</a>
+                        <a target="_blank" href="https://mhs.health.mil">For Staff</a>
                     </li>
                 
                     <li>
-                        <a target="_blank" href="http://health.mil/About-MHS/Media-Center">For Media</a>
+                        <a target="_blank" href="http://health.mil/media">For Media</a>
                     </li>
                 
                     <li>
-                        <a target="_blank" href="http://www.tricare.mil/tma/ams">Vendors</a>
+                        <a target="_blank" href="http://www.health.mil/Military-Health-Topics/Acquisition-Procurement-and-Small-Business">Vendors</a>
                     </li>
                 
                     <li>
@@ -1177,12 +1343,13 @@ function __doPostBack(eventTarget, eventArgument) {
                     </li>
                 
         </ul>
+    <div class="clear"></div>
     </div>
     <div id="footer_content">
         <img src="/~/media/Images/logo_dod_seal.png" alt="DoD Logo" width="63" height="63">
         <p><a href="/Privacy.aspx">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://dodcio.defense.gov/TodayinCIO/DoDSection508/Std_Stmt.aspx" target="_blank">Accessibility/Section 508</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.tricare.mil/fraud/" target="_blank">Fraud &amp; Abuse</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.tricare.mil/tma/privacy/foia.aspx" target="_blank">FOIA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.usa.gov/" target="_blank">USA.gov</a></p>
 <p>&nbsp;</p>
-<p><a href="http://www.tricare.mil">www.tricare.mil</a> is the official website of the&nbsp;<a href="http://tricare.mil/tma/" title="Defense Health Agency Website" target="_blank">Defense Health Agency</a> (DHA) a component of the&nbsp;<a href="http://health.mil" title="Health.mil" target="_blank">Military Health System</a><br>
+<p><a href="http://www.tricare.mil">www.tricare.mil</a> is the official website of the&nbsp;Defense Health Agency (DHA) a component of the&nbsp;<a href="http://health.mil" title="Health.mil" target="_blank">Military Health System</a><br>
 DHA&nbsp;Address: 7700 Arlington Boulevard, Suite 5101, Falls Church, VA 22042-5101</p>
 <p>&nbsp;</p>
 <p><strong>Need to submit a claim? Send it to the correct <a href="/Resources/Forms/ClaimForms/Medical/Addresses.aspx">claims address</a>.</strong></p>
@@ -1190,9 +1357,9 @@ DHA&nbsp;Address: 7700 Arlington Boulevard, Suite 5101, Falls Church, VA 22042-5
 <p>TRICARE is a registered trademark of the Department of Defense (DoD), DHA. All rights reserved. </p>
 <p>&nbsp;</p>
 <p>The appearance of hyperlinks to external websites does not constitute endorsement by the&nbsp;DHA of these websites or the information, products or services contained therein. For other than authorized government activities,&nbsp;the DHA&nbsp;does not exercise any editorial control over the information you may find at other locations. Such links are provided consistent with the stated purpose of this DoD website.</p>
-      <!--  <div id="ctl19_pnlViewMobile">
+      <!--  <div id="ctl18_pnlViewMobile">
 	
-        <br /><br /><a id="ctl19_btnSwitchToMobile" href="javascript:__doPostBack(&#39;ctl19$btnSwitchToMobile&#39;,&#39;&#39;)">View Mobile Site</a>
+        <br /><br /><a id="ctl18_btnSwitchToMobile" href="javascript:__doPostBack(&#39;ctl18$btnSwitchToMobile&#39;,&#39;&#39;)">View Mobile Site</a>
         
 </div> -->
     </div>
@@ -1225,7 +1392,7 @@ DHA&nbsp;Address: 7700 Arlington Boulevard, Suite 5101, Falls Church, VA 22042-5
 <div class="left col">
 <p class="maptitle"><a href="/CoveredServices.aspx">See What's Covered</a></p>
 <p>
-<a href="/CoveredServices/SeeWhatsCovered.aspx">Is It Covered?</a><br>
+<a href="/CoveredServices/IsItCovered.aspx">Is It Covered?</a><br>
 <a href="/CoveredServices/Dental.aspx">Dental Care</a><br>
 <a href="/CoveredServices/Mental.aspx">Mental Health Care</a><br>
 <a href="/CoveredServices/Pharmacy.aspx">Pharmacy</a><br>
@@ -1266,19 +1433,18 @@ DHA&nbsp;Address: 7700 Arlington Boulevard, Suite 5101, Falls Church, VA 22042-5
 <p>
 <a href="/LifeEvents/Baby.aspx">Having a Baby or Adopting</a><br>
 <a href="/LifeEvents/Moving.aspx">Moving</a><br>
-<a href="/LifeEvents/Medicare.aspx">Becoming Medicare-Eligible</a><br>
-<a href="/LifeEvents/Divorce.aspx">Getting Divorced</a><br>
 <a href="/LifeEvents/Marriage.aspx">Getting Married</a><br>
+<a href="/LifeEvents/Divorce.aspx">Getting Divorced</a><br>
 <a href="/LifeEvents/Retiring.aspx">Retiring</a><br>
-<a href="/LifeEvents/Activating.aspx">Activating</a><br>
+<a href="/LifeEvents/Medicare.aspx">Becoming Medicare-Eligible</a><br>
 <a href="/LifeEvents/Separating.aspx">Separating from Active Duty</a><br>
-<a href="/LifeEvents/SponsorDeath.aspx">Sponsor Dies</a><br>
 <a href="/LifeEvents/College.aspx">Going to College</a><br>
-<a href="/LifeEvents/Deactivating.aspx">Deactivating</a><br>
-<a href="/LifeEvents/Deploying.aspx">Deploying</a><br>
-<a href="/LifeEvents/InjuredonAD.aspx">Injured on Active Duty</a><br>
 <a href="/LifeEvents/ChildAdult.aspx">Children Becoming Adults</a><br>
-<a href="/LifeEvents/BacktoSchool.aspx">Back to School</a><br>
+<a href="/LifeEvents/SponsorDeath.aspx">Sponsor Dies</a><br>
+<a href="/LifeEvents/Deactivating.aspx">Deactivating</a><br>
+<a href="/LifeEvents/Activating.aspx">Activating</a><br>
+<a href="/LifeEvents/InjuredonAD.aspx">Injured on Active Duty</a><br>
+<a href="/LifeEvents/Deploying.aspx">Deploying</a><br>
 </p>
 
 </div>
@@ -1286,9 +1452,9 @@ DHA&nbsp;Address: 7700 Arlington Boulevard, Suite 5101, Falls Church, VA 22042-5
 <p class="maptitle"><a href="/HealthWellness.aspx">Health and Wellness</a></p>
 <p>
 <a href="/HealthWellness/Alcohol.aspx">Alcohol Awareness</a><br>
-<a href="/HealthWellness/GetFit.aspx">Get Fit</a><br>
-<a href="/HealthWellness/Preventive.aspx">Preventive Services</a><br>
 <a href="/HealthWellness/Tobacco.aspx">Tobacco Cessation</a><br>
+<a href="/HealthWellness/Preventive.aspx">Preventive Services</a><br>
+<a href="/HealthWellness/GetFit.aspx">Get Fit</a><br>
 <a href="/HealthWellness/HealthyLivingPartners.aspx">Healthy Living Partners</a><br>
 <a href="/HealthWellness/HLArticles.aspx">Healthy Living Articles</a><br>
 </p>
@@ -1309,27 +1475,15 @@ DHA&nbsp;Address: 7700 Arlington Boulevard, Suite 5101, Falls Church, VA 22042-5
                 <li class="icn_govdel"><a target="_blank" href="https://public.govdelivery.com/accounts/USMHSTMA/subscriber/new" alt="Email Updates" title="Email Updates">Email Updates</a></li>
                 <li class="icn_rss"><a href="/rss" alt="RSS Feed" title="RSS Feed">RSS Feed</a></li>
                 <li class="icn_podcast"><a href="/About/MediaCenter/Podcasts.aspx" alt="Podcast" title="Podcast">Podcast</a></li>
+                <li class="icn_webinars"><a target="_blank" href="http://www.militaryonesource.mil/social/webinar-archives" alt="Webinars" title="Webinars">Webinars</a></li> 
             </ul>
         </div>
         <div class="clear"></div>
     </div>
-</div>
-
+        </div>
     </div>
     <script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
-    
-
-<script type="text/javascript">
-//<![CDATA[
-
-theForm.oldSubmit = theForm.submit;
-theForm.submit = WebForm_SaveScrollPositionSubmit;
-
-theForm.oldOnSubmit = theForm.onsubmit;
-theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
-//]]>
-</script>
-</form>
+ </form>
 
 
 </body></html>
