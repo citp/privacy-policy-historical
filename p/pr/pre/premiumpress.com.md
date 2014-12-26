@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624113818id_/http%3A//www.premiumpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumpress.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226031422id_/http%3A//www.premiumpress.com/privacy) for the most accurate reproduction.*
 
-# PremiumPress Privacy Policy | Keeping you safe
+# PremiumPress Privacy Statement -
 
 * * *
-
-### Your privacy is important to us.
 
 We want you to feel comfortable using PremiumPress services. Because we gather certain types of information about the users of PremiumPress services, we feel you should fully understand what information we gather and how we use that information.
 
@@ -36,3 +34,7 @@ PremiumPress reserves the right to make changes to this policy. Those changes wi
 
 
 
+
+##### Join our Newsletter
+
+Don't miss out on **new theme releases** and framework updates! _Join today._
