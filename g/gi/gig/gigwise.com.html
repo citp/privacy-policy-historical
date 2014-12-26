@@ -1,287 +1,327 @@
-<!--The following is the downloaded HTML source of the gigwise.com privacy policy that was archived on 2014-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140615112040id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gigwise.com privacy policy that was archived on 2014-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227001810id_/http%3A//www.gigwise.com/info/69/PrivacyStatement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><head>
-<meta charset="utf-8"><script id="roost-js" src="//get.roost.me/js/roost.js"></script><script async="" src="http://cdn.taboola.com/libtrc/giantdigital-gigwise/loader.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8BWVdQGwAHUlRXAQg="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<meta name="viewport" content="width=device-width, initial-scale=1.0 /">
-<meta name="description" content="Music News, Photos, Gig Tickets, Videos, Forum, Reviews, Features, Festivals,">
-<meta name="keywords" content="Music News, Photos, Gig Tickets, Videos, Forum, Reviews, Features, Festivals">
-<meta name="robots" content="index, follow">
-<meta name="revisit-after" content="1 days">
-<meta name="bitly-verification" content="4b2c6ffaca7a">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 /">
+    
+    <title>Privacy Policy | Gigwise</title>
+    
+    <meta name="description" content=" | Gigwise">
+    <meta name="keywords" content="Gigwise">
+    <meta name="news_keywords" content="Gigwise">
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 days">
+    
+    <meta name="bitly-verification" content="4b2c6ffaca7a">
+    
+    <meta name="twitter:card" value="summary">
+    <meta name="twitter:site" value="@gigwise">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:domain" content="Gigwise.com">
+    <meta name="twitter:title" content="Privacy Policy | Gigwise">
+    <meta name="twitter:description" content=" | Gigwise">
+        <meta name="twitter:image" content="http://static.gigwise.com/artists/gigwise_article_logo.jpg">
+    <meta name="twitter:url" content="http://www.gigwise.com/info/69/PrivacyStatement">
 	
-<meta property="og:title" content="Privacy Policy">
-<meta property="og:type" content="">
-<meta property="og:url" content="http://www.gigwise.com/info/69/PrivacyStatement">
-<meta property="og:image" content="http://static.gigwise.com">
-<meta property="og:site_name" content="GIGWISE.com">
-<meta property="fb:admins" content="527660267">
+    <meta property="og:title" content="Privacy Policy | Gigwise">
+    <meta property="og:site_name" content="gigwise.com"> 
+    <meta property="og:url" content="http://www.gigwise.com/info/69/PrivacyStatement">
+    <meta property="og:description" content=" | Gigwise">
+        <meta property="og:image" content="http://static.gigwise.com/artists/gigwise_article_logo.jpg">
+    <meta property="og:language" content="en">
+    <meta property="og:tags" content="Gigwise">
+    <meta property="fb:page_id" content="15320404294">	
+    <meta property="fb:admins" content="527660267">
+    
+    <meta property="article:author" content="">
+    <meta name="author" content="">
+    
+    <link rel="publisher" href="https://plus.google.com/+GigwiseUK">
+    <link rel="canonical" href="http://www.gigwise.com/info/69/PrivacyStatement">
 
-<title>
-Privacy Policy | Gigwise</title>
+    <!-- Facebook Conversion Code for Gigwise Facebook Advert -->
+    <script id="roost-js" src="//get.roost.me/js/roost.js"></script><script type="text/javascript" async="" src="http://cdn.kixer.com/ad/load.js"></script><script async="" src="http://cdn.taboola.com/libtrc/giantdigital-gigwise/loader.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>
+		(function() 
+		{
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded)
+			{
+				var fbds = document.createElement('script');
+				fbds.async = true;
+				fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(fbds, s);
+				_fbq.loaded = true;
+			}
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', '6020276763706', {'value':'0.01','currency':'GBP'}]);
+	</script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6020276763706&amp;cd[value]=0.01&amp;cd[currency]=GBP&amp;noscript=1" /></noscript>
 
-<link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700,300" rel="stylesheet" type="text/css" media="all">
-<link href="/css/main.min.css" rel="stylesheet">
-<link href="/css/style.css" rel="stylesheet">
-<link type="text/css" href="/css/fblikeoverlay.css" rel="stylesheet" media="screen">
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.0.min.js"><\/script>')</script><script src="/js/vendor/jquery-1.11.0.min.js"></script>
-<script src="/js/modernizr-2.7.0.min.js"></script>
-<script src="/js/jquery.matchHeight.js"></script>
-<script src="/js/init.js"></script>
-<!--<script src="http://jwpsrv.com/library/gntMKo3XEeOtXCIACrqE1A.js"></script>-->
-
+	<link href="http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700,300" rel="stylesheet" type="text/css" media="all">
+	<link href="/css/main.min.css" rel="stylesheet">
+	<link href="/css/style.css" rel="stylesheet">
+	<link type="text/css" href="/css/fblikeoverlay.css" rel="stylesheet" media="screen">
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.11.0.min.js"><\/script>')</script><script src="/js/vendor/jquery-1.11.0.min.js"></script>
+	<script src="/js/modernizr-2.7.0.min.js"></script>
+	<script src="/js/jquery.matchHeight.js"></script>
+	<script src="/js/init.js"></script>
+	<!--<script src="http://jwpsrv.com/library/gntMKo3XEeOtXCIACrqE1A.js"></script>-->
 	<script src="/js/jquery.cycleLite.js"></script>
 	<script src="/js/jquery.qtip.min.js"></script>
 	<script src="/js/jquery.config.js"></script>
 	<script src="/js/searches.js"></script>
 	<script type="text/javascript" src="/js/carousel/jquery.jcarousel.pack.js"></script>
-    <script type="text/javascript" src="/js/jquery.simplemodal.js"></script>
-    <script type="text/javascript" src="/js/fblikeoverlay.js"></script>    
-     
-	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+	<script type="text/javascript" src="/js/jquery.simplemodal.js"></script>
+	<script type="text/javascript" src="/js/fblikeoverlay.js"></script>    
+
 	<script type="text/javascript">
-		GS_googleAddAdSenseService("ca-pub-0226347304662429");
-		GS_googleEnableAllServices();
-	</script>
-	<script language="JavaScript">
-
-
-GA_googleAddAttr("content", "info");
-GA_googleAddAttr("channel", "privacy");
-
-	GA_googleAddAttr("video", "false"); 
-
-	GA_googleAddAttr("adult", "false"); 
-
+		(function()
+		{
+			var useSSL = 'https:' == document.location.protocol;
+			var src = (useSSL ? 'https:' : 'http:') +
+			'//www.googletagservices.com/tag/js/gpt.js';
+			document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+		})();
+	</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 	
-				
-	</script>
+	<script type="text/javascript">
+		googletag.defineSlot('/34722903/Partner/GiantDigital/GigWise', [[728, 90], [970, 250]], 'div-gpt-ad-1405614641610-0').setTargeting("pos", "top").addService(googletag.pubads());
+		googletag.defineSlot('/34722903/Partner/GiantDigital/GigWise', [[300, 250], [300, 600]], 'div-gpt-ad-1405614641610-1').setTargeting("pos", "right").addService(googletag.pubads());
+		googletag.defineSlot('/34722903/Partner/GiantDigital/GigWise', [[300, 250], [300, 600]], 'div-gpt-ad-1405614641610-2').setTargeting("pos", "right1").addService(googletag.pubads());
+		googletag.defineSlot('/34722903/Partner/GiantDigital/GigWise', [728, 90], 'div-gpt-ad-1405614641610-3').setTargeting("pos", "bottom").addService(googletag.pubads());
+		googletag.defineSlot('/34722903/Partner/GiantDigital/GigWise', [1, 1], 'div-gpt-ad-1405614641610-4').setTargeting("pos", "1x1").addService(googletag.pubads());
+		googletag.defineOutOfPageSlot('/34722903/Partner/GiantDigital/GigWise', 'div-gpt-ad-1405614641610-0-oop').setTargeting("pos", "oop").addService(googletag.pubads());
 
+		if ( screen.width >= 1280 )
+		{
+			googletag.pubads().setTargeting("inskin_yes", "true");
+		} else
+		{
+			googletag.pubads().setTargeting("inskin_yes", "false");
+		} 
+
+		googletag.pubads().setTargeting("content", "info").setTargeting("channel", "").setTargeting("video", "false").setTargeting("adult", "false");
+		googletag.pubads().enableSyncRendering();
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+	</script>
 
 	<script type="text/javascript">
-		GA_googleAddSlot("ca-pub-0226347304662429", "GigwiseLeaderboard");
-		GA_googleAddSlot("ca-pub-0226347304662429", "GigwiseMPU");
-		GA_googleAddSlot("ca-pub-0226347304662429", "GW_leaderboard_footer");
-		GA_googleAddSlot("ca-pub-0226347304662429", "GW_MPU_footer");
-		GA_googleAddSlot("ca-pub-0226347304662429", "PageSkinGW");
-        GA_googleAddSlot("ca-pub-0226347304662429", "GW_in_article");
-		if ( screen.width >= 1280 ){
-			GA_googleAddAttr("inskin_yes", "true");
-		}else{
-			GA_googleAddAttr("inskin_yes", "false");
-		}
-		GA_googleAddSlot("ca-pub-0226347304662429", "GW_Overlayz");
-		GA_googleAddSlot("ca-pub-0226347304662429", "GW_Festival_Banner");
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-222038-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function()
+		{
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
 	</script>
-	<script type="text/javascript">
-		GA_googleFetchAds();
-	</script>
-
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-222038-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- AddThis Pro BEGIN -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-536ebcb810b70e48"></script>
-<!-- AddThis Pro END -->
-    
-<script type="text/javascript">
- window._taboola = window._taboola || [];
-_taboola.push({article:'auto'}); 
-!function (e, f, u) {
-    e.async = 1;
-    e.src = u;
-    f.parentNode.insertBefore(e, f);
-}(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/giantdigital-gigwise/loader.js');
-</script>
-<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="//gigwise.disqus.com/embed.js"></script><script src="https://web.archive.org/web/20141004155459/http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js" type="text/javascript"></script></head>
 	
-	<body class="jsEnabled">
-		<div style="height:0px;background:none"><script type="text/javascript">
-			GA_googleFillSlot("PageSkinGW");
-		</script></div>
-		<script>document.body.className = 'jsEnabled';</script>
-		
-		<div id="fb-root"></div>
-		<script src="http://connect.facebook.net/en_US/all.js"></script>
-		
-		<script type="text/javascript">
- 	
- 	if (document.cookie.indexOf('visited=true') == -1) {                // Checking the cookie set or not
-	window.fbAsyncInit = function() {
-    	FB.init({
-    	    appId: '82489327140',   //app id
-    	    status: true,
-    	    cookie: true,
-    	    xfbml: true
-    	    
-    	});
+	<!-- AddThis Pro BEGIN -->
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-536ebcb810b70e48"></script>
+	<!-- AddThis Pro END -->
+			<script type="text/javascript">
+			window._taboola = window._taboola || [];
+			_taboola.push({photo:'auto'});
+			!function (e, f, u) {
+				e.async = 1;
+				e.src = u;
+				f.parentNode.insertBefore(e, f);
+			}(document.createElement('script'),
+			document.getElementsByTagName('script')[0],
+			'http://cdn.taboola.com/libtrc/giantdigital-gigwise/loader.js');
+		</script>
+	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="//gigwise.disqus.com/embed.js"></script><script src="https://web.archive.org/web/20141004155459/http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js" type="text/javascript"></script><script async="" defer="" src="//sdata.captifymedia.com/438415.js?r=2172596855284787.5&amp;m=1112&amp;a=438415"></script></head>
+<body class="jsEnabled">
+	<div style="height:0px;background:none">
+		<!-- Partner/GiantDigital/GigWise 1x1 -->
+		<div id="div-gpt-ad-1405614641610-4">
+			<script type="text/javascript">
+				googletag.display('div-gpt-ad-1405614641610-4');
+			</script>
+		</div>
+	</div>
+	<script>document.body.className = 'jsEnabled';</script>
 
-
-    	FB.Event.subscribe('edge.create', function(response) {			// On page like
-		console.log('like');
-        	var CookieDate = new Date;
-		CookieDate.setFullYear(CookieDate.getFullYear( ) +10);      // setting cookie for 10 years
-		console.log(CookieDate.toGMTString( ));
-		document.cookie = 'visited=true; expires=' + CookieDate.toGMTString( ) + ';';
-
-		//Close modal box aftre like
-		$('#simplemodal-container').css('display','none');
-              $('#simplemodal-overlay').css('display','none');	
-    	});
-    
-    	FB.Event.subscribe('edge.remove', function(response) {			// On page unlike
-				console.log('unlike');
-       	 document.cookie = "visited=true; max-age=" + 60 * 60 * 24 * 1;   //set cookie for 1 day(s) unlike the page
-		//Close modal box aftre unlike
-		$('#simplemodal-container').css('display','none');
-       	$('#simplemodal-overlay').css('display','none');
-    	});	
-    
-    
-      
-//  	FB.login(function(response) {
-// 	console.log(response);
-//   		if (response.authResponse) {
-	FB.getLoginStatus(function(response) { 
- 	console.log(response);
-  	if (response.status === 'connected') {
-			var like = false;
-		       FB.api('me/likes/15320404294', function(response) {
-			     console.log(response);
-			     window.test = response;
-			     if(response.data.length != 0) 
-			     {
-				like = true;
-				console.log(like);
-			     }
-			     else
-		     	     {
-				like = false;
-				console.log(like);
-				if(is_mobile)					//  Show model box if not the mobile device. 
-				{
-					setTimeout(function() {
-		        		$('#basic-modal-content').modal();
-	 				$('.modalCloseImg').click(function(){ document.cookie = "visited=true; max-age=" + 60 * 60 * 24 * 2; });
-        				}, 15000);
-				} 
-			    }
-		      	    if(like == true)
-			    {
-				var CookieDate = new Date;
-				CookieDate.setFullYear(CookieDate.getFullYear( ) +10);      // setting cookie for 10 years
-				console.log(CookieDate.toGMTString( ));
-				document.cookie = 'visited=true; expires=' + CookieDate.toGMTString( ) + ';';
-        		    }
-     		      });
-   		} 
-   		else                       // User not logged in facebook
-   		{
-			//document.cookie = "visited=true; max-age=" + 60 * 60 * 24 * 2;
-			console.log('not logged in fb-->' + response.status); 
-			
-			if(is_mobile)					//  Show model box if not the mobile device.
+	<div id="fb-root"></div>
+	<script src="http://connect.facebook.net/en_US/all.js"></script>
+	<script type="text/javascript">
+		if (document.cookie.indexOf('visited=true') == -1)                  // Checking the cookie set or not
+		{                
+			window.fbAsyncInit = function()
 			{
-				setTimeout(function() {
-		       	$('#basic-modal-content').modal();
-				$('.modalCloseImg').click(function(){ document.cookie = "visited=true; max-age=" + 60 * 60 * 24 * 2;  }); 
-        			}, 15000);
-			} 	
-		}
- 	});
-    };
+				FB.init(
+				{
+					appId: '82489327140',   //app id
+					status: true,
+					cookie: true,
+					xfbml: true
+				});
 
-    (function(d) {
-    	var js, id = 'facebook-jssdk';
-    	if (d.getElementById(id)) {
-        	return;
-    	}
-    	js = d.createElement('script');
-    	js.id = id;
-	js.async = true;
-    	js.src = "//connect.facebook.net/en_US/all.js";
-    	d.getElementsByTagName('head')[0].appendChild(js);
-	}(document));
-   }
-   else			// cookie existed app initialization for rightside facebook like box.
-   {
-	console.log('else');
-	window.fbAsyncInit = function() {
-    	FB.init({
-	 appId: '82489327140',
-        status: true,
-        cookie: true,
-        xfbml: true,
-        oauth: true
-    	});
+				FB.Event.subscribe('edge.create', function(response)        
+				{
+					// On page like
+					console.log('like');
+					var CookieDate = new Date;
+					CookieDate.setFullYear(CookieDate.getFullYear( ) +10);  // setting cookie for 10 years
+					console.log(CookieDate.toGMTString( ));
+					document.cookie = 'visited=true; expires=' + CookieDate.toGMTString( ) + ';';
 
-	FB.Event.subscribe('edge.create', function(response) {
-		console.log('like');
-       	 var CookieDate = new Date;
-		CookieDate.setFullYear(CookieDate.getFullYear( ) +10);      // setting cookie for 10 years
-		console.log(CookieDate.toGMTString( ));
-		document.cookie = 'visited=true; expires=' + CookieDate.toGMTString( ) + ';';	
-        });
-    
-        FB.Event.subscribe('edge.remove', function(response) {
-		console.log('unlike');
-	        document.cookie = "visited=true; max-age=" + 60 * 60 * 24 * 1;   //set cookie for 1 day(s) unlike the page
-    	  });
-      };
-}	 
+					//Close modal box aftre like
+					$('#simplemodal-container').css('display','none');
+					$('#simplemodal-overlay').css('display','none');	
+				});
 
-function is_mobile() 
-{
-    var agents = ['android', 'webos', 'iphone', 'ipad', 'blackberry'];
-    for(i in agents) {
-        if(navigator.userAgent.match('/'+agents[i]+'/i')) {
-            return true;
-        }
-    }
-    return false;       
-} 
-        
-</script>
+				FB.Event.subscribe('edge.remove', function(response)
+				{
+					// On page unlike
+					console.log('unlike');
+					document.cookie = "visited=true; max-age=" + 60 * 60 * 24 * 1;  //set cookie for 1 day(s) unlike the page
+				 
+					//Close modal box aftre unlike
+					$('#simplemodal-container').css('display','none');
+					$('#simplemodal-overlay').css('display','none');
+				});	
 
-		<!--<script>
-		(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) return;
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
-		fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));
-		</script>-->
- 		
-<div id="content">
-	<!-- modal content -->
-  <div id="basic-modal-content">
-  	<img style="float:right;" src="http://www.gigwise.com/graphics/logo.png">
-		<h3 style="color:#FFFFFF;">LIKE GIGWISE ON FACEBOOK TO GET THE HOTTEST NEWS FIRST!</h3> 
-  	<br>
-  	<div class="fb-like-box" data-href="https://www.facebook.com/Gigwise" data-colorscheme="light" data-show-faces="false" data-header="true" data-stream="false" data-show-border="false"></div>
-    <p style="font-size:12px;color:#FFFFFF;margin-top:10px;">Enjoy bonus videos, photos and posts and have your say on the the latest music!</p>
-    <p style="font-size:12px;color:#FFFFFF;">Not convinced? <a style="color:orange;text-decoration:underline;" href="https://www.facebook.com/Gigwise" target="blank">Check it out.</a></p>
-  </div>
-  <!-- preload the images -->
-  <div style="display:none">
-    <img src="/images/fblikeoverlay/x.png" alt="">
-  </div>
-</div>
+				//  FB.login(function(response) {
+				//  console.log(response);
+				//  if (response.authResponse) {
+				FB.getLoginStatus(function(response)
+				{ 
+					console.log(response);
+					if (response.status === 'connected')
+					{
+						var like = false;
+						FB.api('me/likes/15320404294', function(response)
+						{
+							console.log(response);
+							window.test = response;
+							if(response.data.length != 0) 
+							{
+								like = true;
+								console.log(like);
+							} else
+							{
+								like = false;
+								console.log(like);
+								if(is_mobile())				//  Show model box if not the mobile device. 
+								{
+									setTimeout(function()
+									{
+										$('#basic-modal-content').show();
+										$('#img_close_div').show();
+										$('#modalCloseImg').click(function(){ document.cookie = "visited=true; max-age=" + 60 * 60 * 24 * 2;  $('#basic-modal-content').hide(); $('#img_close_div').hide(); }); 
+									}, 15000);
+								} 
+							}
+							if(like == true)
+							{
+								var CookieDate = new Date;
+								CookieDate.setFullYear(CookieDate.getFullYear( ) +10);      // setting cookie for 10 years
+								console.log(CookieDate.toGMTString( ));
+								document.cookie = 'visited=true; expires=' + CookieDate.toGMTString( ) + ';';
+							}
+						});
+					} else                       // User not logged in facebook
+					{
+						//document.cookie = "visited=true; max-age=" + 60 * 60 * 24 * 2;
+						console.log('not logged in fb-->' + response.status); 
 
-<nav id="header" class="navbar navbar-default navbar-static-top" role="navigation">
+						if(is_mobile())					//  Show model box if not the mobile device.
+						{
+							setTimeout(function()
+							{
+								$('#basic-modal-content').show();
+								$('#img_close_div').show();
+								$('#modalCloseImg').click(function(){ document.cookie = "visited=true; max-age=" + 60 * 60 * 24 * 2;  $('#basic-modal-content').hide(); $('#img_close_div').hide(); }); 
+							}, 15000); 
+						} 	
+					}
+				});
+			};
+
+			(function(d)
+			{
+				var js, id = 'facebook-jssdk';
+				if (d.getElementById(id))
+				{
+					return;
+				}
+				js = d.createElement('script');
+				js.id = id;
+				js.async = true;
+				js.src = "//connect.facebook.net/en_US/all.js";
+				d.getElementsByTagName('head')[0].appendChild(js);
+			}(document));
+		} else			// cookie existed app initialization for rightside facebook like box.
+		{
+			console.log('else');
+			window.fbAsyncInit = function()
+			{
+				FB.init
+				({
+					appId: '82489327140',
+					status: true,
+					cookie: true,
+					xfbml: true,
+					oauth: true
+				});
+
+				FB.Event.subscribe('edge.create', function(response)
+				{
+					console.log('like');
+					var CookieDate = new Date;
+					CookieDate.setFullYear(CookieDate.getFullYear( ) +10);      // setting cookie for 10 years
+					console.log(CookieDate.toGMTString( ));
+					document.cookie = 'visited=true; expires=' + CookieDate.toGMTString( ) + ';';	
+				});
+
+				FB.Event.subscribe('edge.remove', function(response)
+				{
+					console.log('unlike');
+					document.cookie = "visited=true; max-age=" + 60 * 60 * 24 * 1;   //set cookie for 1 day(s) unlike the page
+				});
+			};
+		}	 
+
+		function is_mobile() 
+		{
+			var agents = ['android', 'webos', 'iphone', 'ipad', 'blackberry'];
+			for(i in agents)
+			{
+				if(navigator.userAgent.match('/'+agents[i]+'/i'))
+				{
+					return true;
+				}
+			}
+			return false;       
+		} 
+	</script>
+
+	<div id="content">
+		<!-- modal content -->
+		<div id="basic-modal-content">
+			<img style="float:right;" src="http://www.gigwise.com/graphics/logo.png">
+			<h3 style="color:#FFFFFF;">LIKE GIGWISE ON FACEBOOK TO GET THE HOTTEST NEWS FIRST!</h3> 
+			<br>
+			<div class="fb-like-box" data-href="https://www.facebook.com/Gigwise" data-colorscheme="light" data-show-faces="false" data-header="true" data-stream="false" data-show-border="false"></div>
+			<p style="font-size:12px;color:#FFFFFF;margin-top:10px;">Enjoy bonus videos, photos and posts and have your say on the the latest music!</p>
+			<p style="font-size:12px;color:#FFFFFF;">Not convinced? <a style="color:orange;text-decoration:underline;" href="https://www.facebook.com/Gigwise" target="blank">Check it out.</a></p>
+		</div>
+		<!-- preload the images -->
+		<div style="display:none" id="img_close_div">
+			<img src="/images/fblikeoverlay/x.png" alt="" id="modalCloseImg">
+		</div>
+	</div>
+
+	<nav id="header" class="navbar navbar-default navbar-static-top" role="navigation">
   <div class="navbar-inner">
     <div class="container">
       <div class="navbar-header">
@@ -325,31 +365,20 @@ function is_mobile()
     </div>
   </div> 
 </nav>
-<main id="main">
-
+	<main id="main">
 		<!-- Begin: Ad -->
-		<div class="adFullWidth">
+			
 
-	<div class="central">
-		<script type="text/javascript">
-		  GA_googleFillSlot("GigwiseLeaderboard");
-		</script>
-		<script type="text/javascript">
-		  GA_googleFillSlot("GW_Super_Leaderboard");
-		</script>
-	</div>
-	
-</div>		<!-- End: Ad -->
+<div class="adFullWidth">
+    </div>		<!-- End: Ad -->
 
 							
 							
-    
-    
-        <div class="container">  
-      <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
-                                                             <span id="intelliTXT"><!-- Vibrant intelliTXT -->
-			<script type="text/javascript" src="/js/jquery.raty.min.js"></script>
+		
+						<div class="container">  
+			<div class="row">
+								<div class="col-xs-12 col-sm-12 col-md-8 col-lg-8 pop">
+																									 			<script type="text/javascript" src="/js/jquery.raty.min.js"></script>
 
 <div id="article">
 	<div id="article-meta">
@@ -359,56 +388,25 @@ function is_mobile()
 	<div id="article-header">
 		<header>
 			<h1>Privacy Policy</h1>
+			<!--h1>Privacy Policy</h1-->
 			<p></p>
 			<p>&nbsp;</p>
-							<div id="star"></div>
-				<p>&nbsp;</p>
-						<p></p><div class="addthis_responsive_sharing"></div><p></p>
+						<p></p><div class="addthis_jumbo_share"></div><p></p>
 
 		</header>
 	</div>
 
-<!-- cat_id is privacy -->
+<!-- cat_id is  -->
 
 	
 	<div id="article-content">
 		<article>
 			<div class="alignLeft clearfix">
-									<img src="http://static.gigwise.com" alt="Privacy Policy">
-					<p>Photo: </p>
-				
-				
-
-				<style>
-.go_button_sliding_buy {
-background: url(/graphics/button_green_left.png) no-repeat 0% 0%;
-float: left;
-height: 23px;
-margin: 5px 4px 15px 0px;
-position: relative;
-border: white 1px solid;
-border-radius: 3px;
-height:26px;
-}
-.go_button_sliding_buy a {
-background: url(/graphics/button_green_right.png) no-repeat 100% 0%;
-color: white;
-float: left;
-font-family: 'Trebuchet MS', Georgia, Arial, Verdana;
-font-size: 16px;
-font-weight: bold;
-height: 23px;
-letter-spacing: -1px;
-line-height: 23px;
-margin: 0px;
-padding: 0px 6px;
-position: relative;
-text-decoration: none;
-white-space: nowrap;
-}
-</style>
+                                                            <img src="http://static.gigwise.com/artists/gigwise_article_logo.jpg" alt="Privacy Policy">
+                                <p>Photo: </p>
+                                                        
 			</div>
-
+                        <div id="intelliTXT"><!-- Start Vibrant intelliTXT -->
 			<p><strong>This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.gigwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.<br>
 <br>
 </strong>"You" shall mean you, the user of the Site. "We/Us" means Gigwise. The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.<br>
@@ -447,7 +445,7 @@ You may opt out of some tracking cookies that will be able to identify you on ot
 Security is very important to Us. Security procedures are in place to protect the confidentiality, integrity and availability of Your User information. Your User information will not be kept longer than is necessary for the purposes stated at the collection point or in this Privacy Policy.<br>
 <br>
 <strong>Updates</strong><br>
-You may notify Us of any updates, amendments and corrections to previously collected User Information by using the E-mail address below or the Contact section on the site.</p>
+You may notify Us of any updates, amendments and corrections to previously collected User Information by using the E-mail address below or the Contact section on the site.</p>                        </div><!-- End Vibrant intelliTXT -->
 		</article>
 	</div>
 
@@ -456,39 +454,48 @@ You may notify Us of any updates, amendments and corrections to previously colle
 	
 </div> <!-- #article -->
 
-	<script>
-	$('#star').raty({ 
-		scoreName: 'rate',
-		number: 10,
-		half: true,
-		halfShow      : true,
-		path: '/graphics/voting/',
-		readOnly      : true,
-		size : 32,
-		starOff : 'star-off-big.png',
-		starOn : 'star-on-big.png',
-		starHalf: 'star-half-big.png',
-		score: 1.0 
-		});
-	</script>
-	    
-    
-<div id="contentclick2721"><script type="text/javascript" src="https://api.contentclick.co.uk/pub_serve.php?pub_id=1043&amp;w_id=2721&amp;pw=6d77b73b8987ea&amp;cbust=1580507696483" async=""></script></div>
+	
+<!-- Start Gigwise - Post -->
+<div id="__kx_ad_497"></div>
+<script type="text/javascript" language="javascript">
+var __kx_ad_slots = __kx_ad_slots || [];
+
+(function () {
+	var slot = 497;
+	var h = false;
+	__kx_ad_slots.push(slot);
+	if (typeof __kx_ad_start == 'function') {
+		__kx_ad_start();
+	} else {
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.async = true;
+		s.src = 'http://cdn.kixer.com/ad/load.js';
+		s.onload = s.onreadystatechange = function(){
+			if (!h && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+				h = true;
+				s.onload = s.onreadystatechange = null;
+				__kx_ad_start();
+			}
+		};
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+	}
+})();
+</script>
+<!-- End Gigwise - Post -->
+
+
+
+<div id="taboola-below-article-thumbnails"></div>
 <script type="text/javascript">
-   (function() {
-       var data =
-       {
-           pub_id: "1043",w_id: "2721",pw: "6d77b73b8987ea", cbust: (new Date()).getTime()
-       };
-       var u="";
-       for(var key in data){u+=key+"="+data[key]+"&"}
-       u=u.substring(0,u.length-1);	
-       var a = document.createElement("script");
-       a.type= 'text/javascript';
-       a.src = "https://api.contentclick.co.uk/pub_serve.php?" + u;
-       a.async = true;	
-       document.getElementById("contentclick2721").appendChild(a);
-   })();	
+	window._taboola = window._taboola || [];
+	_taboola.push({
+		mode: 'thumbnails-a',
+		container: 'taboola-below-article-thumbnails',
+		placement: 'Below Article Thumbnails',
+		target_type: 'mix'
+	});
 </script>
 
 
@@ -512,8 +519,348 @@ You may notify Us of any updates, amendments and corrections to previously colle
 	</div>     
 </div>
 <img src="/counter/update.php?id=69" class="hide">
+ 				</div> <!-- .col -->
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 main-col">
+					<div class="adMPU">
+<!-- Partner/GiantDigital/GigWise 300x250 pos=right -->
+<div id="div-gpt-ad-1405614641610-1">
+<script type="text/javascript">
+googletag.display('div-gpt-ad-1405614641610-1');
+</script>
+</div>
+</div>										<h6 class="sectionHeader">Most Popular on Gigwise</h6>
+        <ul id="myTab" class="nav nav-tabs nav-justified">
+          <li class="active"><a href="#news-tab" data-toggle="tab">News</a></li>
+          <li class=""><a href="#photos-tab" data-toggle="tab">Photos</a></li>
+          <li class=""><a href="#music-tab" data-toggle="tab">Music</a></li>
+        </ul>
+        <div id="myTabContent" class="tab-content">
+          <div class="tab-pane fade active in" id="news-tab">
+                        <div class="featureTab">          
+							<a href="/news/97010/thom-yorke-named-most-legally-downloaded-artist-on-bittorrent-in-2014">
+                <div class="overflow">
+                  <img src="http://static.gigwise.com/artists/yorkeyboy288(1).jpg" alt="Thom Yorke named most legally downloaded artist on BitTorrent in 2014" style="width: 100%; overflow: hidden">
+                </div>
+                <p class="featureHeader">News</p>
+                <h3>Thom Yorke was the most legally downloaded artist on BitTorrent in 2014</h3>
+                <p></p>
+              </a>
+            </div>
+						<ul class="media">
+                          <li class="reg">
+                <a class="media-img" href="/news/97012/gerard-way-admits-he-misses-the-theatricality-of-my-chemical-romance">
+                  <img src="http://static.gigwise.com/artists/wayyy3264.jpg" alt="Gerard Way admits he misses the theatricality of My Chemical Romance">
+                </a>
+                <div class="media-body">
+                  <h4><a href="/news/97012/gerard-way-admits-he-misses-the-theatricality-of-my-chemical-romance">Gerard Way admits he misses 'the theatricality of My Chemical Romance'</a></h4>
+                  <p></p>
+                </div>
+              </li>
+                          <li class="reg">
+                <a class="media-img" href="/news/97011/arcade-fires-will-butler-releases-festive-track-christmas-2014">
+                  <img src="http://static.gigwise.com/artists/butler96511146280_o.jpg" alt="Arcade Fire's Will Butler releases festive track Christmas 2014">
+                </a>
+                <div class="media-body">
+                  <h4><a href="/news/97011/arcade-fires-will-butler-releases-festive-track-christmas-2014">Listen: Arcade Fire's Will Butler releases festive track 'Christmas 2014'</a></h4>
+                  <p></p>
+                </div>
+              </li>
+                        </ul>
+          </div>
+          <div class="tab-pane fade" id="photos-tab">
+            						<div class="featureTab">
+              <a href="/photos/97013/14-things-to-expect-in-pop-in-2015">
+                <div class="overflow">
+                  <img src="http://static.gigwise.com/artists/pop2015.jpg" alt="14 things to expect in pop in 2015" style="width: 100%; overflow: hidden">
+                </div>
+                <p class="featureHeader">Photos</p>
+                <h3>14 things to expect in pop in 2015</h3>
+                <p></p>
+              </a>
+						</div>
+						<ul class="media">
+                        </ul> 
+					</div>
+					<div class="tab-pane fade" id="music-tab">
+            						<div class="featureTab">
+              <a href="/newmusic/97011/arcade-fires-will-butler-releases-festive-track-christmas-2014">
+                <div class="overflow">
+                  <img src="http://static.gigwise.com/artists/butler96511146280_o.jpg" alt="Arcade Fire's Will Butler releases festive track Christmas 2014" style="width: 100%; overflow: hidden">
+                </div>
+                <p class="featureHeader">New music</p>
+                <h3>Listen: Arcade Fire's Will Butler releases festive track 'Christmas 2014'</h3>
+                <p></p>
+              </a>
+						</div>
+						<ul class="media">
+                          </ul> 
+					</div>
+				</div>					<h6 class="sectionHeader">Latest news on Gigwise</h6>
+  <ul class="media">
+          <li class="lar">
+        <a class="media-img" href="/news/97012/gerard-way-admits-he-misses-the-theatricality-of-my-chemical-romance">
+          <img src="http://static.gigwise.com/artists/wayyy3264.jpg" alt="Gerard Way admits he misses the theatricality of My Chemical Romance">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/97012/gerard-way-admits-he-misses-the-theatricality-of-my-chemical-romance">Gerard Way admits he misses 'the theatricality of My Chemical Romance'</a></h4>
+          <p>Former frontman speaks out about old project</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/97011/arcade-fires-will-butler-releases-festive-track-christmas-2014">
+          <img src="http://static.gigwise.com/artists/butler96511146280_o.jpg" alt="Arcade Fire's Will Butler releases festive track Christmas 2014">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/97011/arcade-fires-will-butler-releases-festive-track-christmas-2014">Listen: Arcade Fire's Will Butler releases festive track 'Christmas 2014'</a></h4>
+          <p>Piano ballad released ahead of debut solo record</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/97010/thom-yorke-named-most-legally-downloaded-artist-on-bittorrent-in-2014">
+          <img src="http://static.gigwise.com/artists/yorkeyboy288(1).jpg" alt="Thom Yorke named most legally downloaded artist on BitTorrent in 2014">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/97010/thom-yorke-named-most-legally-downloaded-artist-on-bittorrent-in-2014">Thom Yorke was the most legally downloaded artist on BitTorrent in 2014</a></h4>
+          <p>Radiohead frontman released album through the service</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/97007/the-national-bobs-burgers-christmas-cameo-appears-online---watch">
+          <img src="http://static.gigwise.com/artists/NATIONAL_XMAS_BURGERS_750.jpg" alt="The National Bobs Burgers Christmas cameo appears online - watch">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/97007/the-national-bobs-burgers-christmas-cameo-appears-online---watch">The National make awesome Christmas cameo in Bob's Burgers</a></h4>
+          <p>Watch the band perform 'Christmas Magic' as ornaments</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/97005/roger-waters-slams-guantanamo-bay-brutality-in-daily-mail-editorial">
+          <img src="http://static.gigwise.com/artists/wenn20670115_750.jpg" alt="Roger Waters slams Guantanamo Bay brutality in Daily Mail editorial">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/97005/roger-waters-slams-guantanamo-bay-brutality-in-daily-mail-editorial">Roger Waters slams 'institutionalised brutality' at Guantanamo Bay</a></h4>
+          <p>Pink Floyd man pens open-ed  for Daily Mail</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/97004/bryan-ferry-son-merlin-in-car-crash">
+          <img src="http://static.gigwise.com/artists/wenn21939814_750.jpg" alt="Bryan Ferry son Merlin in car crash">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/97004/bryan-ferry-son-merlin-in-car-crash">Bryan Ferry's family 'praying' after son Merlin injured in car crash</a></h4>
+          <p>Family thanked fire service after 'difficult' rescue</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/97003/matthew-knowles-sold-old-destinys-child-memorabilia-at-garage-sale">
+          <img src="http://static.gigwise.com/artists/yonce17143.jpg" alt="Matthew Knowles sold old Destiny's Child memorabilia at garage sale">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/97003/matthew-knowles-sold-old-destinys-child-memorabilia-at-garage-sale">Matthew Knowles sells Destiny's Child memorabilia at garage sale</a></h4>
+          <p>Beyonce + Solange's father now in hot water</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/97002/song-lyrics-to-soon-by-displayed-on-google">
+          <img src="http://static.gigwise.com/artists/LYRICS_GOOGLE_750.jpg" alt="Song lyrics to soon by displayed on Google">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/97002/song-lyrics-to-soon-by-displayed-on-google">Google soon to show song lyrics with search results</a></h4>
+          <p>Is this the end of lyric websites forever?</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/97001/joey-bada-releases-curry-chicken">
+          <img src="http://static.gigwise.com/artists/Badaas3325_o.jpg" alt="Joey Bada$$ releases Curry Chicken">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/97001/joey-bada-releases-curry-chicken">Listen: Joey Bada$$ reveals new track 'Curry Chicken'</a></h4>
+          <p>Latest cut to surface from forthcoming debut album</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/97000/mark-ronson-reveals-new-track-daffodils">
+          <img src="http://static.gigwise.com/artists/ronson-mid-size.jpg" alt="Mark Ronson reveals new track 'Daffodils'">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/97000/mark-ronson-reveals-new-track-daffodils">Listen: Mark Ronson reveals new track 'Daffodils'</a></h4>
+          <p>Producer unveils collaboration with Tame Impala</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96999/kanye-wests-yeezus-turned-into-kreezus-christmas-album">
+          <img src="http://static.gigwise.com/artists/yeezchristmas10.jpg" alt="Kanye West's Yeezus turned into Kreezus Christmas album">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96999/kanye-wests-yeezus-turned-into-kreezus-christmas-album">Kanye's Yeezus has been turned into a Christmas album</a></h4>
+          <p>Hear 'New Sleighs', 'Wrapped 2' and other festive hits</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96998/erol-alkan-uploads-dj-set-from-recent-manic-street-preachers-support">
+          <img src="http://static.gigwise.com/artists/alkan77525_o.jpg" alt="Erol Alkan uploads DJ set from recent Manic Street Preachers support">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96998/erol-alkan-uploads-dj-set-from-recent-manic-street-preachers-support">Listen: Erol Alkan uploads DJ set from Manic Street Preachers support slot</a></h4>
+          <p>Hear his amazing, genre-defying mix now</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96996/youtube-facing-1-billion-lawsuit-from-pharrell-and-others">
+          <img src="http://static.gigwise.com/artists/pharrell37.jpg" alt="Youtube facing $1 Billion lawsuit from Pharrell and others">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96996/youtube-facing-1-billion-lawsuit-from-pharrell-and-others">Pharrell, The Eagles and others are suing Youtube for $1 Billion</a></h4>
+          <p>Lawyers demanding the removal of 20,000 videos</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96992/the-weeknd-unveils-video-from-fifty-shades-of-grey-soundtrack">
+          <img src="http://static.gigwise.com/artists/weeknd1965.jpg" alt="The Weeknd unveils video from Fifty Shades of Grey soundtrack">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96992/the-weeknd-unveils-video-from-fifty-shades-of-grey-soundtrack">The Weeknd unveils 'Earn It' from Fifty Shades of Grey</a></h4>
+          <p>Sultry track appears in raunchy new film</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96991/sleater-kinney-no-cities-to-love-streams-online-early">
+          <img src="http://static.gigwise.com/artists/Sleater Kinney album arrives early mega 750.jpg" alt="Sleater Kinney No Cities To Love streams online early">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96991/sleater-kinney-no-cities-to-love-streams-online-early">Sleater-Kinney's new album streamed online 28 days early</a></h4>
+          <p>No 'elite squad of foreign hackers' responsible this time</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96988/bjork-reads-the-christmas-nativity-story---watch">
+          <img src="http://static.gigwise.com/artists/bjork_11_nativity_750.jpg" alt="Bjork reads the Christmas nativity story - watch">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96988/bjork-reads-the-christmas-nativity-story---watch">Here's an 11-year-old Bjork reading the Nativity story to music</a></h4>
+          <p>See the adorable, slightly creepy video here</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96987/calvin-harris-reveals-cameo-in-entourage-movie">
+          <img src="http://static.gigwise.com/artists/VincentchaseHyde750750.jpg" alt="Calvin Harris reveals cameo in Entourage movie">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96987/calvin-harris-reveals-cameo-in-entourage-movie">Calvin Harris set to cameo in the new Entourage movie</a></h4>
+          <p>The Scottish EDM stars gets to appear alongside Vincent Chase</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96986/hayley-williams-says-there-arent-enough-heavy-christmas-songs">
+          <img src="http://static.gigwise.com/artists/paramoedssdds5470.jpg" alt="Hayley Williams says there aren't enough heavy christmas songs">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96986/hayley-williams-says-there-arent-enough-heavy-christmas-songs">Hayley Williams argues 'There aren't enough heavy Christmas songs'</a></h4>
+          <p>Paramore frontwoman wants a festive change up </p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96985/yeah-yeah-yeahs-hiatus---karen-o-confirms-no-new-album-soon">
+          <img src="http://static.gigwise.com/artists/wenn20324115_750.jpg" alt="Yeah Yeah Yeahs hiatus - Karen O confirms no new album soon">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96985/yeah-yeah-yeahs-hiatus---karen-o-confirms-no-new-album-soon">Karen O: 'Yeah Yeah Yeahs are on a bit of a hiatus'</a></h4>
+          <p>Band are currently 'waiting for the itch'</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96984/william-commends-iggy-azalea-for-spreading-our-culture-positively">
+          <img src="http://static.gigwise.com/artists/william6290.jpg" alt="Will.i.am commends Iggy Azalea for 'spreading our culture positively'">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96984/william-commends-iggy-azalea-for-spreading-our-culture-positively">Will.i.am praises Iggy Azalea for 'spreading our culture positively'</a></h4>
+          <p>Black Eyed Peas man weighs in on race row</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96983/madonna-rebel-heart-leaks-described-as-artistic-rape">
+          <img src="http://static.gigwise.com/artists/141220-madonna-cover___750.jpg" alt="Madonna Rebel Heart leaks described as artistic rape">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96983/madonna-rebel-heart-leaks-described-as-artistic-rape">Madonna on rape comparison: 'I'm sorry if words alarm people'</a></h4>
+          <p>Rebel Heart was due for release in March</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96982/people-confuse-jarvis-cocker-and-joe-cocker-dying">
+          <img src="http://static.gigwise.com/artists/jarvisjoe.jpg" alt="People confuse Jarvis Cocker and Joe Cocker dying">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96982/people-confuse-jarvis-cocker-and-joe-cocker-dying">Some people thought Jarvis Cocker died yesterday, not Joe</a></h4>
+          <p>No, the Pulp frontman hasn't passed away</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96981/john-lennon-vs-paul-mccartney---alex-turner-and-500-stars-answer">
+          <img src="http://static.gigwise.com/artists/wenn21640382_750.jpg" alt="John Lennon vs Paul McCartney - Alex Turner and 500 stars answer">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96981/john-lennon-vs-paul-mccartney---alex-turner-and-500-stars-answer">Alex Turner, Adam Lambert + 550 others answer 'Lennon or McCartney?'</a></h4>
+          <p>Stars of the music world face the age-old question</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96980/joe-cocker-dead-at-70-tributes-led-by-paul-mccartney">
+          <img src="http://static.gigwise.com/artists/joecockerdiesaged70750.jpg" alt="Joe Cocker Dead at 70, Tributes led by Paul McCartney">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96980/joe-cocker-dead-at-70-tributes-led-by-paul-mccartney">Slash, Paul McCartney and many more pay tribute to Joe Cocker</a></h4>
+          <p>The bluesman died yesterday aged 70</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96979/kasabians-serge-pizzorno-criticises-queens-christmas-speech">
+          <img src="http://static.gigwise.com/artists/wenn21883355_750.jpg" alt="Kasabian's Serge Pizzorno criticises Queen's Christmas speech">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96979/kasabians-serge-pizzorno-criticises-queens-christmas-speech">Kasabian on the Queen's Christmas speech: 'It's pointless'</a></h4>
+          <p>'Is it necessary that she even does one?'</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96976/teenage-time-killer-supergroup-sign-to-rise-will-release-album">
+          <img src="http://static.gigwise.com/artists/wenn2044143_600.jpg" alt="Teenage Time Killer supergroup sign to Rise, will release album">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96976/teenage-time-killer-supergroup-sign-to-rise-will-release-album">Rock supergroup Teenage Time Killer sign to Rise Records</a></h4>
+          <p>The group will release their debut album in 2015</p>
+        </div>
+      </li>
+          <li class="lar">
+        <a class="media-img" href="/news/96975/brandon-flowers-says-the-killers-are-lacking-a-drive-in-new-interview">
+          <img src="http://static.gigwise.com/artists/wenn41385243yjk3.jpg" alt="Brandon Flowers says The Killers are lacking a drive in new interview">
+        </a>
+        <div class="media-body">
+          <h4><a href="/news/96975/brandon-flowers-says-the-killers-are-lacking-a-drive-in-new-interview">Brandon Flowers on The Killers: 'There's a drive we're lacking. It's frustrating'</a></h4>
+          <p>The singer discussed his frustration that his band aren't as big as U2</p>
+        </div>
+      </li>
+        </ul>					
+<h6 class="sectionHeaderSub"><a href="/win">Latest Competition</a></h6>
+<div id="competition">
+	<a href="/win/96863/win-jagermeister-goodies-including-a-guitar-exclusively-on-gigwise">
+		<div id="competition-badge">Wow!</div>
+		<img src="http://static.gigwise.com/artists/jagerguitarcomp.jpg" alt="Win Jagermeister goodies, including a guitar, exclusively on Gigwise ">
+		<h5>Win Jagermeister goodies, including a guitar, exclusively on Gigwise </h5>
+	</a>
+</div> 
+										<!-- Partner/GiantDigital/GigWise 300x250 pos=right1 -->
+<div id="div-gpt-ad-1405614641610-2">
+<script type="text/javascript">
+googletag.display('div-gpt-ad-1405614641610-2');
+</script>
+</div>				</div> <!-- .col -->
+							</div> <!-- .row -->
+		</div> <!-- .container -->
+				
+	</main>
 
-<div id="listing-header" style="text-align:center">
+    <div style="text-align:center">
   <h2>Artist A-Z <a href="/artist">#</a>&nbsp;
       <a href="/artist/A">A</a>&nbsp;
       <a href="/artist/B">B</a>&nbsp;
@@ -542,384 +889,7 @@ You may notify Us of any updates, amendments and corrections to previously colle
       <a href="/artist/Y">Y</a>&nbsp;
       <a href="/artist/Z">Z</a>&nbsp;
     </h2>
-</div>
-</span><!-- End Vibrant intelliTXT -->          </div>
-        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 main-col">
-                      <div class="adMPU">
-  <script type="text/javascript">
-    GA_googleFillSlot("GigwiseMPU");
-  </script>
-</div>                        <h6 class="sectionHeader">Most Popular on Gigwise</h6>
-        <ul id="myTab" class="nav nav-tabs nav-justified">
-          <li class="active"><a href="#news-tab" data-toggle="tab">News</a></li>
-          <li class=""><a href="#photos-tab" data-toggle="tab">Photos</a></li>
-          <li class=""><a href="#music-tab" data-toggle="tab">Music</a></li>
-        </ul>
-        <div id="myTabContent" class="tab-content">
-          <div class="tab-pane fade active in" id="news-tab">
-                        <div class="featureTab">          
-							<a href="/news/91802/foo-fighters-agree-to-play-show-planned-without-their-knowledge">
-                <div class="overflow">
-                  <img src="http://static.gigwise.com/artists/wenn1525865_600.jpg" alt="Foo Fighters agree to play show planned without their knowledge" style="width: 100%; overflow: hidden">
-                </div>
-                <p class="featureHeader">News</p>
-                <h3>Foo Fighters agree to play show planned without their knowledge</h3>
-                <p></p>
-              </a>
-            </div>
-						<ul class="media">
-                          <li class="reg">
-                <a class="media-img" href="/news/91799/celine-dion-posts-video-response-to-all-by-myself-airport-parody">
-                  <img src="http://static.gigwise.com/artists/celine dion response.png" alt="Celine Dion posts video response to 'All By Myself' airport parody">
-                </a>
-                <div class="media-body">
-                  <h4><a href="/news/91799/celine-dion-posts-video-response-to-all-by-myself-airport-parody">Celine Dion posts video response to 'All By Myself' airport parody</a></h4>
-                  <p></p>
-                </div>
-              </li>
-                          <li class="reg">
-                <a class="media-img" href="/news/91801/noel-gallagher-says-he-had-to-throw-paul-weller-out-of-his-house">
-                  <img src="http://static.gigwise.com/artists/wenn20476437Weller600.jpg" alt="Noel Gallagher says he had to throw Paul Weller out of his house">
-                </a>
-                <div class="media-body">
-                  <h4><a href="/news/91801/noel-gallagher-says-he-had-to-throw-paul-weller-out-of-his-house">Noel Gallagher says he had to throw Paul Weller out of his house</a></h4>
-                  <p></p>
-                </div>
-              </li>
-                          <li class="reg">
-                <a class="media-img" href="/news/91800/family-of-man-killed-in-assault-at-parklife-festival-pay-tribute">
-                  <img src="http://static.gigwise.com/artists/Robert-Hart_600.jpg" alt="Family of man killed in assault at Parklife festival pay tribute ">
-                </a>
-                <div class="media-body">
-                  <h4><a href="/news/91800/family-of-man-killed-in-assault-at-parklife-festival-pay-tribute">Family of man killed in assault at Parklife festival pay tribute </a></h4>
-                  <p></p>
-                </div>
-              </li>
-                          <li class="reg">
-                <a class="media-img" href="/news/91803/nbc-planning-us-tv-series-based-on-the-lives-of-the-beatles">
-                  <img src="http://static.gigwise.com/artists/THE%20BEATLES%20PIRACY.jpg" alt="NBC planning US TV series based on the lives of The Beatles">
-                </a>
-                <div class="media-body">
-                  <h4><a href="/news/91803/nbc-planning-us-tv-series-based-on-the-lives-of-the-beatles">NBC planning US TV series based on the lives of The Beatles</a></h4>
-                  <p></p>
-                </div>
-              </li>
-                          <li class="reg">
-                <a class="media-img" href="/news/91805/sia-reveals-hopes-to-do-the-next-james-bond-theme-song">
-                  <img src="http://static.gigwise.com/artists/Sia%20Bright%20Face%20600.jpg" alt="Sia reveals hopes to do the next James Bond theme song">
-                </a>
-                <div class="media-body">
-                  <h4><a href="/news/91805/sia-reveals-hopes-to-do-the-next-james-bond-theme-song">Sia reveals hopes to do the next James Bond theme song</a></h4>
-                  <p></p>
-                </div>
-              </li>
-                        </ul>
-          </div>
-          <div class="tab-pane fade" id="photos-tab">
-            						<div class="featureTab">
-              <a href="/photos//">
-                <div class="overflow">
-                  <img src="http://static.gigwise.com" alt="" style="width: 100%; overflow: hidden">
-                </div>
-                <p class="featureHeader">Photos</p>
-                <h3></h3>
-                <p></p>
-              </a>
-						</div>
-						<ul class="media">
-                        </ul> 
-					</div>
-					<div class="tab-pane fade" id="music-tab">
-            						<div class="featureTab">
-              <a href="/newmusic//">
-                <div class="overflow">
-                  <img src="http://static.gigwise.com" alt="" style="width: 100%; overflow: hidden">
-                </div>
-                <p class="featureHeader">New music</p>
-                <h3></h3>
-                <p></p>
-              </a>
-						</div>
-						<ul class="media">
-                          </ul> 
-					</div>
-				</div>            <h6 class="sectionHeaderSub"><a href="http://www.gigwise.com/tickets">Hot Tickets</a></h6>
-            <div class="flex-video">
-              <iframe width="300" height="351" style="border:0;" src="http://edge.viagogo.co.uk/feeds/widget.ashx?category=Concert-Tickets&amp;formatID=3&amp;count=6"></iframe>
-            </div>
-            <h6 class="sectionHeader">Latest news on Gigwise</h6>
-  <ul class="media">
-          <li class="lar">
-        <a class="media-img" href="/news/91806/smashing-pumpkins-on-drummer-mike-has-left-the-building">
-          <img src="http://static.gigwise.com/artists/wenn20495180.jpg" alt="Smashing Pumpkins on drummer: 'Mike has left the building'">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91806/smashing-pumpkins-on-drummer-mike-has-left-the-building">Smashing Pumpkins on drummer: 'Mike has left the building'</a></h4>
-          <p>Band have parted way with drummer of four years</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91805/sia-reveals-hopes-to-do-the-next-james-bond-theme-song">
-          <img src="http://static.gigwise.com/artists/Sia%20Bright%20Face%20600.jpg" alt="Sia reveals hopes to do the next James Bond theme song">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91805/sia-reveals-hopes-to-do-the-next-james-bond-theme-song">Sia reveals hopes to do the next James Bond theme song</a></h4>
-          <p>Singer took to Twitter to beg for the job</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91803/nbc-planning-us-tv-series-based-on-the-lives-of-the-beatles">
-          <img src="http://static.gigwise.com/artists/THE%20BEATLES%20PIRACY.jpg" alt="NBC planning US TV series based on the lives of The Beatles">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91803/nbc-planning-us-tv-series-based-on-the-lives-of-the-beatles">NBC planning US TV series based on the lives of The Beatles</a></h4>
-          <p>Show developed by creators of The Tudors</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91802/foo-fighters-agree-to-play-show-planned-without-their-knowledge">
-          <img src="http://static.gigwise.com/artists/wenn1525865_600.jpg" alt="Foo Fighters agree to play show planned without their knowledge">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91802/foo-fighters-agree-to-play-show-planned-without-their-knowledge">Foo Fighters agree to play show planned without their knowledge</a></h4>
-          <p>1,400 people bought tickets to non-existent show</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91801/noel-gallagher-says-he-had-to-throw-paul-weller-out-of-his-house">
-          <img src="http://static.gigwise.com/artists/wenn20476437Weller600.jpg" alt="Noel Gallagher says he had to throw Paul Weller out of his house">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91801/noel-gallagher-says-he-had-to-throw-paul-weller-out-of-his-house">Noel Gallagher says he had to throw Paul Weller out of his house</a></h4>
-          <p>Singer also praised Weller's kindness towards fans</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91800/family-of-man-killed-in-assault-at-parklife-festival-pay-tribute">
-          <img src="http://static.gigwise.com/artists/Robert-Hart_600.jpg" alt="Family of man killed in assault at Parklife festival pay tribute ">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91800/family-of-man-killed-in-assault-at-parklife-festival-pay-tribute">Family of man killed in assault at Parklife festival pay tribute </a></h4>
-          <p>'Robert had a love of music and a love of life.'</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91799/celine-dion-posts-video-response-to-all-by-myself-airport-parody">
-          <img src="http://static.gigwise.com/artists/celine dion response.png" alt="Celine Dion posts video response to 'All By Myself' airport parody">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91799/celine-dion-posts-video-response-to-all-by-myself-airport-parody">Celine Dion posts video response to 'All By Myself' airport parody</a></h4>
-          <p>Singer invites Richard Dunn to her Vegas show</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91797/avenged-sevenfold-let-live-royal-blood-kick-off-download-2014">
-          <img src="http://static.gigwise.com/artists/DL2014_DN-1571_600.jpg" alt="Avenged Sevenfold, Let Live, Royal Blood kick off Download 2014">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91797/avenged-sevenfold-let-live-royal-blood-kick-off-download-2014">Avenged Sevenfold, Let Live, Royal Blood kick off Download 2014</a></h4>
-          <p>Donington Park gets noisy - and hot</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91796/someones-made-a-lana-del-rey-song-name-generator">
-          <img src="http://static.gigwise.com/artists/lana del rey song name cover.png" alt="Someone's made a Lana Del Rey song name generator">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91796/someones-made-a-lana-del-rey-song-name-generator">Someone's made a Lana Del Rey song name generator</a></h4>
-          <p>'Yacht Club Widow', 'Tattered Pansexual'</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91795/new-study-names-madonna-as-most-influential-woman-in-history">
-          <img src="http://static.gigwise.com/artists/wenn21028895.jpg" alt="New study names Madonna as most influential woman in history">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91795/new-study-names-madonna-as-most-influential-woman-in-history">New study names Madonna as most influential woman in history</a></h4>
-          <p>Study used Wikipedia to analyse influence of global figures</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91793/morrisseys-guitarist-also-blames-support-act-for-tour-cancellation">
-          <img src="http://static.gigwise.com/artists/wenn4011620_600.jpg" alt="Morrissey's guitarist also blames support act for tour cancellation">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91793/morrisseys-guitarist-also-blames-support-act-for-tour-cancellation">Morrissey's guitarist also blames support act for tour cancellation</a></h4>
-          <p>Jesse Tobias accused Kristeen Young of being 'disingenuous'</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91792/frank-turner-met-josh-homme-and-bonded-over-politics">
-          <img src="http://static.gigwise.com/artists/frankturner-justinetrickett%20O2%20AR%20REV%20600.jpg" alt="Frank Turner met Josh Homme and bonded over politics">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91792/frank-turner-met-josh-homme-and-bonded-over-politics">Frank Turner met Josh Homme and bonded over politics</a></h4>
-          <p>QOTSA man and Turner agree on Libertarianism </p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91791/ryan-adams-to-release-new-single-in-july-album-later-in-2014">
-          <img src="http://static.gigwise.com/artists/wenn952996_600.jpg" alt="Ryan Adams to release new single in July, album later in 2014">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91791/ryan-adams-to-release-new-single-in-july-album-later-in-2014">Ryan Adams to release new single in July, album later in 2014</a></h4>
-          <p>'Gimme Something Good' is coming soon</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91789/jay-z-and-beyonce-announce-paris-gigs-surely-the-uk-will-be-next">
-          <img src="http://static.gigwise.com/artists/ontherun600.jpg" alt="Jay Z and Beyonce announce Paris gigs. Surely the UK will be next?">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91789/jay-z-and-beyonce-announce-paris-gigs-surely-the-uk-will-be-next">Jay Z and Beyonce announce Paris gigs. Surely the UK will be next?</a></h4>
-          <p>On The Run tour gets first European date</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91786/new-alt-j-single-hunger-of-the-pine-to-premiere-on-wednesday">
-          <img src="http://static.gigwise.com/artists/altjGabrielGreen600.jpg" alt="New Alt J single, 'Hunger Of The Pine', to premiere on Wednesday">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91786/new-alt-j-single-hunger-of-the-pine-to-premiere-on-wednesday">New Alt J single, 'Hunger Of The Pine', to premiere on Wednesday</a></h4>
-          <p>First single from the band's new album</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91784/second-support-act-for-eminems-wembley-shows-revealed-its-not-50-cent">
-          <img src="http://static.gigwise.com/artists/eminem600.jpg" alt="Second support act for Eminem's Wembley shows revealed (it's not 50 Cent)">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91784/second-support-act-for-eminems-wembley-shows-revealed-its-not-50-cent">Second support act for Eminem's Wembley shows revealed (it's not 50 Cent)</a></h4>
-          <p>Danny Brown joins Odd Future as support</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91782/the-amazing-secrets-of-britney-spears-troubled-gimme-more-video-revealed">
-          <img src="http://static.gigwise.com/artists/britneyspearsgimmemore600.jpg" alt="The amazing secrets of Britney Spears' troubled 'Gimme More' video revealed">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91782/the-amazing-secrets-of-britney-spears-troubled-gimme-more-video-revealed">The amazing secrets of Britney Spears' troubled 'Gimme More' video revealed</a></h4>
-          <p>Singer 'sabotaged' her own video shoot</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91778/the-shamens-mr-c-auctioning-iconic-codpiece-worn-on-top-of-the-pops">
-          <img src="http://static.gigwise.com/artists/shaman.jpg" alt="The Shamen's Mr. C auctioning iconic codpiece worn on Top Of The Pops">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91778/the-shamens-mr-c-auctioning-iconic-codpiece-worn-on-top-of-the-pops">The Shamen's Mr. C auctioning iconic codpiece worn on Top Of The Pops</a></h4>
-          <p>Hopefully, this will have been wiped clean</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91776/kings-of-leon-claim-they-take-the-tube-in-london-and-never-get-recognised">
-          <img src="http://static.gigwise.com/artists/wenn20583661%20KOL%20600.jpg" alt="Kings of Leon claim they take the tube in London and never get recognised">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91776/kings-of-leon-claim-they-take-the-tube-in-london-and-never-get-recognised">Kings of Leon claim they take the tube in London and never get recognised</a></h4>
-          <p>'We're not a very recognisable band'</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91774/sky-ferreira-asked-very-awkward-interview-question-on-brazilian-tv">
-          <img src="http://static.gigwise.com/artists/skyfalbum600.jpg" alt="Sky Ferreira asked very awkward interview question on Brazilian TV">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91774/sky-ferreira-asked-very-awkward-interview-question-on-brazilian-tv">Sky Ferreira asked very awkward interview question on Brazilian TV</a></h4>
-          <p>Translator takes matters into his own hands</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91772/steel-panther-announce-uk-tour-+-wembley-arena-gig---tickets">
-          <img src="http://static.gigwise.com/artists/wenn21187628_600.jpg" alt="Steel Panther announce UK tour + Wembley Arena gig - tickets">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91772/steel-panther-announce-uk-tour-+-wembley-arena-gig---tickets">Steel Panther announce UK tour + Wembley Arena gig - tickets</a></h4>
-          <p>Cock-rock metal goofs to hit UK in March 2015</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91771/fan-sues-michael-jacksons-estate-because-they-cant-hear-him-on-album">
-          <img src="http://static.gigwise.com/artists/mjhologram600.jpg" alt="Fan sues Michael Jackson's estate, because they can't hear him on album">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91771/fan-sues-michael-jacksons-estate-because-they-cant-hear-him-on-album">Fan sues Michael Jackson's estate, because they can't hear him on album</a></h4>
-          <p>Woman claims he wasn't the lead vocalist</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91770/weezer-announce-new-album-everything-will-be-alright-in-the-end">
-          <img src="http://static.gigwise.com/artists/spl772047_009_600.jpg" alt="Weezer announce new album, Everything Will Be Alright In The End">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91770/weezer-announce-new-album-everything-will-be-alright-in-the-end">Weezer announce new album, Everything Will Be Alright In The End</a></h4>
-          <p>Pop-punk heroes to return later this year</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91769/10-june-is-now-officially-drake-day-in-houston-texas">
-          <img src="http://static.gigwise.com/artists/wenn21205174drake38484945.jpg" alt="10 June is now officially 'Drake Day' in Houston, Texas">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91769/10-june-is-now-officially-drake-day-in-houston-texas">10 June is now officially 'Drake Day' in Houston, Texas</a></h4>
-          <p>How will you celebrate Drake Day?</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91767/listen-eminem-shares-new-collaboration-track-with-sia">
-          <img src="http://static.gigwise.com/artists/spl591701_009_600.jpg" alt="Listen: Eminem shares new collaboration track with Sia">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91767/listen-eminem-shares-new-collaboration-track-with-sia">Listen: Eminem shares new collaboration track with Sia</a></h4>
-          <p>Untitled track features in trailer for 'The Equalizer'</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91765/kasabian-talk-glastonbury-wait-until-you-see-whats-about-to-happen-to-you">
-          <img src="http://static.gigwise.com/artists/spl767647_014_600.jpg" alt="Kasabian talk Glastonbury: 'Wait until you see what's about to happen to you'">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91765/kasabian-talk-glastonbury-wait-until-you-see-whats-about-to-happen-to-you">Kasabian talk Glastonbury: 'Wait until you see what's about to happen to you'</a></h4>
-          <p>Serge Pizzorno talks up band's headline slot</p>
-        </div>
-      </li>
-          <li class="lar">
-        <a class="media-img" href="/news/91763/how-much-to-book-your-favourite-band-new-list-published">
-          <img src="http://static.gigwise.com/artists/cover prices.jpg" alt="How much to book your favourite band? New list published">
-        </a>
-        <div class="media-body">
-          <h4><a href="/news/91763/how-much-to-book-your-favourite-band-new-list-published">How much to book your favourite band? New list published</a></h4>
-          <p>Prince will cost in the region of $1.5 - 2 million </p>
-        </div>
-      </li>
-        </ul>            
-<h6 class="sectionHeaderSub"><a href="/win">Latest Competition</a></h6>
-<div id="competition">
-	<a href="/win/91109/win-an-electric-guitar-signed-by-noel-gallagher">
-		<div id="competition-badge">Wow!</div>
-		<img src="http://static.gigwise.com/artists/Noel_G_Sign_Guit_Comp_600.jpg" alt="Win an electric guitar signed by Noel Gallagher">
-		<h5>Win an electric guitar signed by Noel Gallagher</h5>
-	</a>
-</div> 
-                        
-	<script type="text/javascript">
-	GA_googleFillSlot("GW_MPU_footer");
-	</script>                  </div> <!-- .col -->
-      </div> <!-- .row -->
-    </div> <!-- .container -->
-
-  
-		<div class="adFullWidthBottom">
-
-	<div class="central">
-		<script type="text/javascript">
-			GA_googleFillSlot("GW_leaderboard_footer");
-		</script>
-	</div>
-	
-</div></main>
-
-		<footer id="footer" class="content-info" role="contentinfo">
+</div>	<footer id="footer" class="content-info" role="contentinfo">
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
@@ -974,19 +944,6 @@ You may notify Us of any updates, amendments and corrections to previously colle
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
-qacct:"p-94wNw88f65Rhk",
-labels:"MTVN Digital Tribes"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-94wNw88f65Rhk.gif?labels=MTVN%20Digital%20Tribes" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
 qacct:"p-fd0C77pEFOdN6"
 };
 </script>
@@ -996,13 +953,7 @@ qacct:"p-fd0C77pEFOdN6"
 </noscript>
 <!-- End Quantcast tag -->
 
-<script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
-<script type="text/javascript">
-try {
-var re_name_tag = "";
-reinvigorate.track("b5311-810k8u5754");
-} catch(err) {}
-</script>
+
 
 <!-- start Vibrant Media IntelliTXT script section -->
 <script type="text/javascript" src="http://gigwise.us.intellitxt.com/intellitxt/front.asp?ipid=8567"></script>
@@ -1034,18 +985,14 @@ _sf_async_config.authors = "";
 })();
 </script>
 
+	<!-- Partner/GiantDigital/GigWise out-of-page -->
+	<div id="div-gpt-ad-1405614641610-0-oop">
 		<script type="text/javascript">
-			GA_googleFillSlot("GW_Overlayz");
+			googletag.display('div-gpt-ad-1405614641610-0-oop');
 		</script>
-        <script type="text/javascript">
-            GA_googleFillSlot("GW_in_article");
-        </script>
-		<script type="text/javascript">
-			function cookiesDirectiveScriptWrapper(){
-			}
-		</script>
-		<script type="text/javascript" src="/js/cookie_permission.js">
-		</script>
+	</div>
+					<script type="text/javascript">function cookiesDirectiveScriptWrapper(){}</script>
+		<script type="text/javascript" src="/js/cookie_permission.js"></script>
 		<script type="text/javascript">
 			// The position of the disclosure ('top' or 'bottom')
 			// Number of times to display disclosure. Enter 0 to show constantly
@@ -1053,25 +1000,30 @@ _sf_async_config.authors = "";
 			// A comma separated list of scripts which will create cookies
 			cookiesDirective('bottom',0,'privacy.html','Google Analytics,eXelate');
 		</script>
-		<script type="text/javascript" src="http://loadeu.exelator.com/load/?p=423&amp;c=285367&amp;g=001&amp;ctg=Entertainment%20-%20Music&amp;subctg=&amp;count=&amp;city=&amp;ag=&amp;gd=&amp;lang=&amp;kw="></script>
+		
 
-		<script>
-			getDataForSearches();
-		</script>
-<script>
-    var _roost = _roost || [];
-    _roost.push(['appkey','0d993e7d57e244f0a1db95a1c7f08cd2']);
+	<script>getDataForSearches();</script>
+	<script>
+		var _roost = _roost || [];
+		_roost.push(['appkey','0d993e7d57e244f0a1db95a1c7f08cd2']);
 
-    !function(d,s,id){
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if(!d.getElementById(id)){
-            js=d.createElement(s); js.id=id;
-            js.src='//get.roost.me/js/roost.js';
-            fjs.parentNode.insertBefore(js,fjs);
-        }
-    }(document, 'script', 'roost-js');
+		!function(d,s,id)
+		{
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if(!d.getElementById(id))
+			{
+				js=d.createElement(s); js.id=id;
+				js.src='//get.roost.me/js/roost.js';
+				fjs.parentNode.insertBefore(js,fjs);
+			}
+		}(document, 'script', 'roost-js');
+	</script>
+	<script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"":"s")+"data.captifymedia.com/438415.js?r="+Math.random()*1e16+"&m=1112&a=438415"+(iatDev?"&d=1":"")))</script>
+	<script src="/js/bootstrap.min.js"></script>
+
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({flush: true});
 </script>
-        
-<script src="/js/bootstrap.min.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"fe3ff6b766","applicationID":"3765569","transactionName":"ZlJaMhNXC0JVBkxbWl8YbRQIGQxfUABAHEVZRw==","queueTime":0,"applicationTime":781,"ttGuid":"","agentToken":"","atts":"ShVZRFtNGEw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
-<div id="epd"><div id="cookiesdirective" style="position: fixed; bottom: -64.522px; left: 0px; width: 100%; height: auto; background: rgb(0, 0, 0); opacity: 0.8; color: rgb(255, 255, 255); font-family: arial; font-size: 14px; text-align: center; z-index: 1000;"><div style="position:relative;height:auto;width:90%;padding:15px;margin-left:auto;margin-right:auto;">On 26 May 2011, the rules about cookies changed. This site uses cookies,  and are essential for parts of the site to operate.<br><br> <div id="epdnotick" style="color:#ca0000;display:none;margin:2px;"><span style="background:#cecece;padding:2px;">You must tick the "I accept cookies from this site" box to accept</span></div>Please tick here to accept cookies from this site, and stop this message from appearing <input type="checkbox" name="epdagree" id="epdagree">&nbsp;<input type="submit" name="epdsubmit" id="epdsubmit" value="Continue"><br><br></div></div></div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+
+<div id="epd"><div id="cookiesdirective" style="position: fixed; bottom: -53.6621px; left: 0px; width: 100%; height: auto; background: rgb(0, 0, 0); opacity: 0.8; color: rgb(255, 255, 255); font-family: arial; font-size: 14px; text-align: center; z-index: 1000;"><div style="position:relative;height:auto;width:90%;padding:15px;margin-left:auto;margin-right:auto;">On 26 May 2011, the rules about cookies changed. This site uses cookies,  and are essential for parts of the site to operate.<br><br> <div id="epdnotick" style="color:#ca0000;display:none;margin:2px;"><span style="background:#cecece;padding:2px;">You must tick the "I accept cookies from this site" box to accept</span></div>Please tick here to accept cookies from this site, and stop this message from appearing <input type="checkbox" name="epdagree" id="epdagree">&nbsp;<input type="submit" name="epdsubmit" id="epdsubmit" value="Continue"><br><br></div></div></div><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
