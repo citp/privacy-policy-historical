@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identogo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626140234id_/http%3A//identogo.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identogo.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226015603id_/http%3A//www.identogo.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Identogo > Privacy
 
@@ -35,6 +35,8 @@ _MorphoTrust USA reserves the right to change, modify, or update this statement 
   
 [
 
-](http://www.identogo.com/ProductsServices/TSAPreCheck.aspx)  
+](https://identity.utexas.edu/)
+
+[](http://www.identogo.com/ProductsServices/TSAPreCheck.aspx)  
   
 ---
