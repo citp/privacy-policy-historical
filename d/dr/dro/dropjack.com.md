@@ -1,49 +1,40 @@
-> *The following text is extracted and transformed from the dropjack.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619195529id_/http%3A//www.dropjack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropjack.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226032118id_/http%3A//www.sitepronews.com/sitepronews-privacy-statement) for the most accurate reproduction.*
 
-# Dropjack |
+# SiteProNews Privacy Statement - SiteProNews
 
-## **DropJack Privacy Policy Overview**
+#### Privacy Policy Overview
 
-This Privacy Policy covers DropJack's treatment of personal information that is recorded when you register for membership and submit comments and/or news content for inclusion in our database.
+This Privacy Policy covers the SiteProNews treatment of personal information that is recorded when you register for one of our newsletters. No other information is collected from visitors to our web site.
 
-Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the DropJack web site, nor does it extend to people that DropJack does not employ or manage.
+Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the SiteProNews web site, nor does it extend to people that SiteProNews does not employ or manage.
 
-## **Information Collection and Use**
+#### Information Collection and Use
 
-Anyone can visit DropJack and browse the news content and comments without having to provide personal information. We do, however, gather information from individuals who wish to submit news, ratings and comments. This information is collected both directly and through the use of "cookies".
+SiteProNews collects minimal personal information when you subscribe to one of our newsletters. The only information collected upon registration is your email address, IP address and the date of your subscription.
 
-Direct collection of information is limited to the details requested of you at the time of registration such as your email address, gender, date of birth, location and a password.
+SiteProNews uses email address information to deliver newsletters to your Inbox and to send you announcements and carefully screened offers and information from our partners and certain vendors.
 
-We ask for your email address so that we can inform you of updates or changes to DropJack or of additions to, or announcements regarding, the Jayde Online Network of web sites. You may remove yourself from any or all of our notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes a valid email address and unsubscribe link which you can use to remove yourself from future mailings. Should you encounter problems in this regard, contact [support@dropjack.com](mailto:support@dropjack.com). Our turnaround time for responding to unsubscribe requests is generally 24 hours.
+Subscriber information is received through the Jayde Online Network of web sites which include ExactSeek.com, SitesOnDisplay.com, Blog-Search.com, FreeWebSubmission.com and, of course, SiteProNews.com, as well as through various partner sites carrying our subscriber form.
 
-The other way we collect information is through the use of cookies. When you register with DropJack, a "cookie" may be placed on your computer. Cookies are bits of information that a web site places on your computer's hard drive for record-keeping and activity-tracking purposes. Cookies cannot be used to learn your identity unless you have previously provided that information to that web site or your web browser automatically provides that information. 
+Webmasters who submit web sites to ExactSeek.com should familiarize themselves with ExactSeek.com privacy policy which specifically outlines that contact information collected during the site submission process may be used to provide them with free newsletters such as SiteProNews and SEO-News as well as for announcements, carefully screened offers etc. Details regarding ExactSeek’s privacy policy can be found by clicking the link below:  
+[http://www.exactseek.com/privacy.html](http://exactseek.com/privacy.html)
 
-In conjunction with the registration information you provide, cookies help us recognize you when you return to the site, and they let you avoid having to log-in each time you visit. Moreover, cookies may be helpful in helping us determine the direction of future upgrades and enable us to better personalize our service to match your interests. 
+#### Information Sharing and Disclosure
 
-The only other information collected is the data recorded on our server log files. Typically this information includes IP address, browser type, domain name, referral URL, country of origin, pages visited, entry points, and exit points, but this data is NOT correlated in any fashion to personally identifying information.
+SiteProNews maintains your email address and other pertinent information regarding your subscription on the premises. SiteProNews does allow selected vendors the opportunity to send offers and information that we deem may be of value to you through our service, but your contact information is never released or sold to any vendor, partner or outside agency. Unsubscribe information is provided in all of our mailings, giving you the option to remove yourself from SiteProNews at any time.
 
-## **Protecting Your Privacy on DropJack**
+#### Cookies
 
-As a registered user you are able to not just submit and rate news, you are also able to post comments. Please be aware that your posted comments are publicly accessible. Caution should be exercised in disclosing any personal details. Although it is not uncommon for email addresses to be included in comment posts, it is not required. The same is true of any personal information.
+Ad networks and third party vendors, including Google, may place cookies on your browser while visiting SiteProNews. Google’s DART cookie enables it and its partners to serve ads based on your visit to SiteProNews and/or other websites. Users may opt out of the use of the DART cookie [here](http://www.google.com/privacy_ads.html) and cookies from many other ad networks [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-## **Security**
+#### Security
 
-Any information you provide, other than information you chose to provide and make publicly available in your posts, is maintained and accessible only by DropJack staff, and only by those of our staff with a need to have access to such information in the performance of their duties. DropJack has implemented commercially reasonable security measures to protect the loss, misuse and alteration of the information under our control or in our possession.
+Your email address information is stored in a protected directory. Access is restricted to SiteProNews staff.
 
-Notwithstanding the above, we do not and cannot warrant the security of the information that you provide. Accordingly, you agree that you are providing such information at your own risk.
+#### Changes to this Privacy Policy
 
-## **Special Cases**
+SiteProNews may amend this policy from time to time. If significant changes are made in the way your personal information is used, we will post a prominent announcement on our site notifying you of the change.
 
-DropJack's policy is not to use or share personal information about visitors or members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses. Notwithstanding anything in this policy to the contrary, DropJack may, however, disclose personal information about visitors or members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Terms and Conditions or other user policies; to operate the Services properly; or to protect DropJack.com and our Members.
+#### Questions or Suggestions
 
-## **Changes to this Privacy Policy**
-
-DropJack may amend this policy from time to time. If significant changes are made in the way your personal information is used, you will be notified by email or a prominent announcement will be posted on our site notifying you of the change.
-
-## **Questions or Comments**
-
-Questions or comments may be sent to: [webmaster@dropjack.com](mailto:webmaster@dropjack.com)
-
-## **Acceptance of Terms**
-
-By using this site you acknowledge and agree to the terms of this Privacy Policy as outlined above. If you disagree with any term or condition in this Privacy Policy, you must not use our site.
+Questions or suggestions may be sent to: [Feedback](mailto:inquiry\[at\]sitepronews.com?subject=RE:Feedback)
