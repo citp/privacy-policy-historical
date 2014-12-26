@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621022825id_/http%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foobies.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226103644id_/http%3A//www.fark.com/farq/legal) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
@@ -22,12 +22,12 @@
 > 
 > Copyrights and Copyright Agents. We respect the intellectual property of others, and we ask you to do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide our Copyright Agent with the following information (see 17 U.S.C. 512 (c)(3) for further detail): 
 > 
->   * An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; 
->   * Description of the copyrighted work that you claim has been infringed; 
->   * A description of where the material that you claim is infringing is located on Fark.com; 
->   * Your address, telephone number, and email address; 
->   * A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and 
->   * A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. 
+>   * An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+>   * Description of the copyrighted work that you claim has been infringed;
+>   * A description of where the material that you claim is infringing is located on Fark.com;
+>   * Your address, telephone number, and email address;
+>   * A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
+>   * A statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 > 
 
 > 
@@ -70,8 +70,7 @@
 > 
 > Large dark: 
 > 
->   
->  Fark consents to the above logos being slightly cropped or adjusted to fit a differently-sized standard on other sites, as long as the name "Fark" is still clearly legible. For legibility, the logo should be no less than 25 pixels in height. 
+> Fark consents to the above logos being slightly cropped or adjusted to fit a differently-sized standard on other sites, as long as the name "Fark" is still clearly legible. For legibility, the logo should be no less than 25 pixels in height. 
 > 
 > #### Fark's Privacy Policy
 > 
@@ -89,11 +88,11 @@
 > 
 > Your personal information is used in the following ways: 
 > 
->   * User IDs and Passwords. Provides you with access to your profile areas and to protected content. 
->   * Account Information. These tell us more about who you are, how to contact you, and your shipping and billing information. 
->   * Customer Feedback and Support. Provides a mechanism for requesting information from Fark. Also used to tell us how we can improve our products, services and site designs. 
->   * Email Correspondence. Used to raise and respond to issues and inquiries of all types. Also used to distribute information about Fark, our products, and services. 
->   * Transactions. Shows which products and services you have requested. 
+>   * User IDs and Passwords. Provides you with access to your profile areas and to protected content.
+>   * Account Information. These tell us more about who you are, how to contact you, and your shipping and billing information.
+>   * Customer Feedback and Support. Provides a mechanism for requesting information from Fark. Also used to tell us how we can improve our products, services and site designs.
+>   * Email Correspondence. Used to raise and respond to issues and inquiries of all types. Also used to distribute information about Fark, our products, and services.
+>   * Transactions. Shows which products and services you have requested.
 > 
 
 > 
@@ -119,9 +118,9 @@
 > 
 > Fark encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer: 
 > 
->   * Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc 
->   * Know the sites your kids are visiting and which sites are appropriate. 
->   * Look for Web site privacy policies. Know how your child's information is treated. 
+>   * Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc
+>   * Know the sites your kids are visiting and which sites are appropriate.
+>   * Look for Web site privacy policies. Know how your child's information is treated.
 > 
 
 > 
