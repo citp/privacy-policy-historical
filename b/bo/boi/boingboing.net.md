@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628085811id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingboing.net privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226102806id_/http%3A//boingboing.net/privacy) for the most accurate reproduction.*
 
 # Boing Boing Privacy Policy - Boing Boing
 
@@ -106,9 +106,9 @@ It also includes the Facebook recommend button and other interactive mini-progra
 
 Our content is syndicated and distributed through Feedburner, owned by Google. When you subscribe to the RSS feed, your account is controlled by Google Accounts, and we have no access to the personal information you share with them.  Read the [Google Privacy Policy](http://www.google.com/policies/privacy/). 
 
-5\. Amazon Associates Program
+5\. Affiliate Programs
 
-Not technically an analytics cookie, but you should know that we present links in a format that enables us to track when links are followed. Specifically, when you make a purchase on Amazon.com after clicking an Amazon link on our site, we collect a small portion of the sale from Amazon as part of the Amazon Affiliate Program. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased.
+Not technically an analytics cookie, but you should know that we present links in a format that enables us to track when links are followed. Specifically, when you make a purchase on Amazon.com, Etsy.com or Thinkgeek.com after clicking one of their links on our site, we collect a small portion of the sale from them as part of their affiliate programs. You are not identifiable to us personally and we only see aggregated, anonymized statistics on what was purchased.
 
 **Advertising**
 
