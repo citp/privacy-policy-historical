@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the ticketmy.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034030id_/http%3A//www.ticketmy.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmy.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226205142id_/http%3A//www.ticketmy.com/policies.php) for the most accurate reproduction.*
 
-# Policies: TicketMY
+# TicketMy!
+
+## Policies ****
+
+ **
 
   
 **INFORMATION THIS SITE GATHERS/TRACKS**   
@@ -62,5 +66,7 @@ Customer Care at [sara@ticketmy.com](mailto:sara@TicketMy.com), or by contacting
 For Less Corp.  
 4010 Crescent Point,  
 Carlsbad, CA 92008   
-**_Legal Disclaimer_** ****  
+**Legal Disclaimer** ****  
 _We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site             _
+
+******
