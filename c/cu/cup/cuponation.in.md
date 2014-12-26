@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cuponation.in privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626075133id_/http%3A//www.cuponation.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuponation.in privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226112517id_/http%3A//www.cuponation.in/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Coupons and Deals for best online shopping sites in India | CupoNation
-
-### Privacy Policy
+# Coupons and Deals for best online shopping sites in India | CupoNation
 
 PRIVACY POLICY
 
@@ -66,7 +64,13 @@ Links to other Websites
 
 We may provide links to other websites that we do not control, these include those of our affiliate partners’ online stores. We do not assume responsibility for the privacy practices, products, services or any other content of any websites or pages that is not under our control. Honeycomb eServices Pvt Ltd does not bear any responsibility for any actions or policies of third-party websites. Moreover, Honeycomb eServices Pvt Ltd disclaims all responsibility for the subsequent use of an email address or any other personally identifiable information you have provided to an affiliate store or any other website we might link to that is not under our control.
 
-CupoNation/CupoNotifier users should be aware, that content presented to them through their use of CupoNation/CupoNotifier may include but is not limited to targeted advertisements and other sponsored content. This content displayed as a result of CupoNation/CupoNotifier, may be protected by intellectual property rights which are owned by the sponsors or advertisers who provide that content to or for the use of CupoNation/CupoNotifier (or by other persons or companies on their behalf). You may not modify, rent, lease, loan, sell, distribute or create derivative works based on this content (either in whole or in part) unless you have been specifically told that you may do so by the licensor or the owners of that content, in a separate agreement.
+CupoNation/CupoNotifier users should be aware, that content presented to them through their use of CupoNation/CupoNotifier may include but is not limited to targeted advertisements and other sponsored content. This content displayed as a result of CupoNation/CupoNotifier, may be protected by intellectual property rights which are owned by the sponsors or advertisers who provide that content to or for the use of CupoNation/CupoNotifier (or by other persons or companies on their behalf). You may not modify, rent, lease, loan, sell, distribute or create derivative works based on this content (either in whole or in part) unless you have been specifically told that you may do so by the licensor or the owners of that content, in a separate agreement.  
+  
+Facebook Sign up:
+
+Your user data may be transmitted to a 3rd party service for the purposes of collection only. Your email will not be used for marketing purposes for any third party not directly related to Cuponation Gmbh.
+
+Facebook login:  We allow users to connect to our platform via Facebook Connect, and store data related to their Facebook account in Cuponation Gmbh systems.  This data can only be used by Cuponation to deliver a more customised offering to users. Any information collected in this manner will not be transmitted to any third parties. Cuponation Gmbh is not responsible for any user information stored by Facebook. Users may disconnect from Cuponation in the Facebook user settings.
 
 Changes to our Privacy Policy:
 
