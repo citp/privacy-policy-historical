@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royaldeveloper.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082949id_/http%3A//www.royaldeveloper.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royaldeveloper.in privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226060633id_/http%3A//www.royaldeveloper.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
