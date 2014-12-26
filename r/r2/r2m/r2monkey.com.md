@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the r2monkey.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013415id_/http%3A//www.r2games.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r2monkey.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226160417id_/http%3A//www.r2games.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Play Free Online Games, MMORPG, Browser Games - R2games
+# Play Free Online Games, MMORPG, Browser Games - R2Games
 
 We take the privacy of our customers very seriously and as you will read, you are protected by our commitment to the following: 
 
