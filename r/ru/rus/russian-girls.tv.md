@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russian-girls.tv privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806233758id_/http%3A//www.russian-girls.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russian-girls.tv privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226140129id_/http%3A//www.russian-girls.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # AnastasiaDate: Protecting your Privacy
 
