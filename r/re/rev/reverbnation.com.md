@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630015008id_/http%3A//www.reverbnation.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverbnation.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226060447id_/https%3A//www.reverbnation.com/privacy) for the most accurate reproduction.*
 
 # ReverbNation Privacy Policy
+
+You are using an **outdated** browser. Please [upgrade your browser](http://browsehappy.com/) to improve your ReverbNation experience. 
 
 Welcome to ReverbNation.com ("RN"), owned, produced and operated by eMinor Inc. Unless explicitly stated otherwise, any current, updated and new products and services ("Products and Services"), including the addition of new properties shall be subject to this Privacy Policy, as well as the General Terms and Conditions of Use ("Terms and Conditions"). By using RN you agree to be bound by this Privacy Policy and the Terms and Conditions, whether or not you register as a listener ("Listener" or "Fan"). Please read this Privacy Policy carefully. 
 
