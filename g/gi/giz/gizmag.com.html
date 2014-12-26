@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the gizmag.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625230826id_/http%3A//www.gizmag.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gizmag.com privacy policy that was archived on 2014-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226105705id_/http%3A//www.gizmag.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" webkit chrome linux js"><head>
 
     <title>Gizmag: Gizmag Privacy Policy</title>
 
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMGUFVbGwIAXVVaAQcO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
     <meta name="robots" content="index, follow">
     <meta name="description" content="Gizmag covers the full spectrum of new and emerging technologies, invention, innovation, and science news.">
-    <meta name="keywords" content="gizmag,Gizmo,Gizmos,Gadgets,Technology,Trends,Gizmag,Automotive, Baby Gizmo, Aircraft, Around The Home, Digital Cameras, Childsplay, Environment, Electronics, Games, Good Thinking, Health and Wellbeing, Holiday Destinations, Home Entertainment, Inventors and Remarkable People, Mobile Technology, Motorcycles, Marine, Outdoors, Computers, Pets, Research Watch, Science, Spy Gear, Telecommunications, Urban Transport, Robotics, Military, Wearable Electronics, Music, Sports, Laptops, Podcasts, Architecture, Space, Medical, Features, Reviews, Bicycles, Children, ">
-        
+    <meta name="keywords" content="gizmag,Gizmo,Gizmos,Gadgets,Technology,Trends,Gizmag,Automotive, Baby Gizmo, Aircraft, Around The Home, Digital Cameras, Childsplay, Environment, Electronics, Games, Good Thinking, Health and Wellbeing, Holiday Destinations, Home Entertainment, Inventors and Remarkable People, Mobile Technology, Motorcycles, Marine, Outdoors, Computers, Pets, Research Watch, Science, Spy Gear, Telecommunications, Urban Transport, Robotics, Military, Wearable Electronics, Music, Sports, Laptops, Podcasts, Architecture, Space, Medical, Features, Reviews, Bicycles, Children, Gizmag Store, ">
+        	
     <link rel="canonical" href="http://www.gizmag.com/privacy/">
 
     
@@ -19,11 +19,11 @@
         <link rel="alternate" media="handheld" href="http://m.gizmag.com/">
     
 
-        <link rel="stylesheet" type="text/css" href="http://files.gizmag.com/static_styles.min.css?x=1403737241">
+    	    		<link rel="stylesheet" type="text/css" href="http://files.gizmag.com/static_styles.min.css?x=1419580830">
+	        
+        <link rel="stylesheet" type="text/css" href="/css/dynamic_styles.php?x=1419580830">
+    <script src="/inc/css_browser_selector.js" type="text/javascript"></script>
     
-    <link rel="stylesheet" type="text/css" href="/css/dynamic_styles.php?x=1403737241">
-
-    <script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JG_lk_oI"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/inc/css_browser_selector.js" type="text/javascript"></script>
 
     <link rel="alternate" type="application/rss+xml" href="http://www.gizmag.com/xml/" title="Gizmag Emerging Technology Magazine">
     <link rel="shortcut icon" href="/images/favicon.ico">
@@ -47,55 +47,57 @@
       })();
     </script>
 
-    <!-- google ad slots -->
-    <script type="text/javascript">
-    	googletag.cmd.push(function() {
-    		gpt_leaderboard = googletag.defineSlot('/1007667/ca-pub-1607124478120364/SitePage_Leaderboard_Top_728x90', [728,90], 'leaderboard')
-    		.addService(googletag.pubads());
-    					gpt_hmpg_970 = googletag.defineSlot('/1007667/ca-pub-1607124478120364/pushdown', [[970,90], [970,250]], 'pushdown')
-			.addService(googletag.pubads());    		      		
-    		gpt_islandtr = googletag.defineSlot('/1007667/ca-pub-1607124478120364/SitePage_IslandTop_Right_300x250', [[300,250], [336,280], [300,600], [300,1050]], 'island_top_right')
-    		.addService(googletag.pubads());
-    		gpt_islandbr = googletag.defineSlot('/1007667/ca-pub-1607124478120364/SitePage_IslandBottom_Right_300x250', [[300,250], [336,280], [300,600]], 'island_bottom_right')
-    		.addService(googletag.pubads());
-    		    		gpt_skyscraper = googletag.defineSlot('/1007667/ca-pub-1607124478120364/SitePage_Skyscraper_Right_160x600', [160,600], 'skyscraper_right')
-    		.addService(googletag.pubads());
-    		            		gpt_bottom_inc = googletag.defineSlot('/1007667/ca-pub-1607124478120364/bottom_include', [1,1], 'bottom_include')
-    		.addService(googletag.pubads());
-    		    		    		    		googletag.pubads().enableSingleRequest();
-    		    		    		    		    		    		googletag.pubads().collapseEmptyDivs();
-        googletag.pubads().set('page_url','http://www.gizmag.com/privacy/');
-    		googletag.enableServices();
-    	});
-    </script>
     
-    <!-- Krux Controltag -->
-    <script class="kxct" data-id="JG_lk_oI" data-timing="async" data-version="1.9" type="text/javascript">
-      window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
-      (function(){
-        var k=document.createElement('script');k.type='text/javascript';k.async=true;
-        var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
-        k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
-          (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JG_lk_oI"
-      ;
-        var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
-      }());
+          <!-- google ad slots -->
+      <script type="text/javascript">
+        googletag.cmd.push(function() {
 
-    </script>
-    <!-- END Krux Controltag -->
+          gpt_pushdown = googletag.defineSlot('/1007667/ca-pub-1607124478120364/pushdown', [[728,90], [970,90], [970,250]], 'pushdown')
+          .addService(googletag.pubads());
 
+          gpt_skyscraper = googletag.defineSlot('/1007667/ca-pub-1607124478120364/SitePage_Skyscraper_Right_160x600', [160,600], 'skyscraper_right')
+          .addService(googletag.pubads());
+
+          gpt_bottom_inc = googletag.defineSlot('/1007667/ca-pub-1607124478120364/bottom_include', [1,1], 'bottom_include')
+          .addService(googletag.pubads());
+
+                    gpt_islandtr = googletag.defineSlot('/1007667/ca-pub-1607124478120364/SitePage_IslandTop_Right_300x250', [[300,250], [336,280], [300,600], [300,1050]], 'island_top_right')
+          .addService(googletag.pubads());
+
+          gpt_islandbr = googletag.defineSlot('/1007667/ca-pub-1607124478120364/SitePage_IslandBottom_Right_300x250', [[300,250], [336,280], [300,600]], 'island_bottom_right')
+          .addService(googletag.pubads());
+          
+          
+          
+                                        googletag.pubads().enableSingleRequest();
+                                                            googletag.pubads().collapseEmptyDivs();
+          googletag.pubads().set('page_url','http://www.gizmag.com/privacy/');
+          googletag.enableServices();
+        });
+      </script>
+    
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 
-    <script type="text/javascript" src="/inc/global_public.js?1395967820"></script>
-
-
+        <script type="text/javascript" src="/inc/global_public.js?1417144046"></script>
+	
+    <script type="text/javascript">
+		$jqr(function () {
+		    $jqr('#mobile-link').click(function(){
+		        document.cookie="view=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+			    location.reload();
+		    });
+		    $jqr('#desktop-link').click(function(){
+		        document.cookie="view=desktop; path=/";
+			    location.reload();
+		    });
+		});
+	</script>
 
     
 
 
     
-
-
+    
 
     
         	<script type="text/javascript" src="/inc/jquery.sticky.js"></script>
@@ -109,27 +111,7 @@
 
 	<body>
 
-        
-    <!-- Krux Interchange Tag -->
-    <script>
-      window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
-      (function(){
-        function retrieve(n){
-          var m, k='kx'+n;
-          if (window.localStorage) {
-            return window.localStorage[k] || "";
-          } else if (navigator.cookieEnabled) {
-            m = document.cookie.match(k+'=([^;]*)');
-            return (m && unescape(m[1])) || "";
-          } else {
-            return '';
-          }
-        }
-        Krux.user = retrieve('user');
-        Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];  
-      })();
-    </script>
-
+    
     
     <!-- Google analytics tracking script -->
     <script type="text/javascript">
@@ -149,17 +131,19 @@
 
     
     
-	<!-- Top Index -->
+    	<!-- Top Index -->
 	<div class="index" id="top_index">
 		<div class="index_center">
 
 			<ul class="header_links float_left">
-				<li><a href="http://www.youtube.com/user/gizmag" title="Gizmag's YouTube Channel"><img src="http://images.gizmag.com/layout/icons/iconmonstr-youtube-icon-24.png"></a></li>
-    			<li><a href="http://twitter.com/gizmag/" title="Follow Gizmag on Twitter"><img src="http://images.gizmag.com/layout/icons/iconmonstr-twitter-icon-24.png"></a></li>
-				<li><a href="http://www.stumbleupon.com/to/stumble/stumblethru:gizmag.com?utm_source=GizMag&amp;utm_medium=StumbleThru&amp;utm_campaign=StumbleThruButton" title="Explore Gizmag" rel="nofollow"><img src="http://images.gizmag.com/layout/icons/iconmonstr-stumbleupon-icon-24.png"></a></li>
-                <li><a href="http://www.gizmag.com/xml/" title="Subscribe to Gizmag's RSS feed"><img src="http://images.gizmag.com/layout/icons/iconmonstr-rss-icon-24.png"></a></li>
-                <li><a href="http://store.gizmag.com/" title="Shop at the Gizmag store"><img src="http://images.gizmag.com/layout/icons/iconmonstr-shopping-cart-3-icon-24.png"></a></li>
+				<li><a href="http://www.youtube.com/user/gizmag" title="Gizmag's YouTube Channel"><img src="http://images.gizmag.com/layout/icons/iconmonstr-youtube-icon-48.png"></a></li>
+    			<li><a href="http://twitter.com/gizmag/" title="Follow Gizmag on Twitter"><img src="http://images.gizmag.com/layout/icons/iconmonstr-twitter-icon-48.png"></a></li>
+				<li><a href="http://www.stumbleupon.com/to/stumble/stumblethru:gizmag.com?utm_source=GizMag&amp;utm_medium=StumbleThru&amp;utm_campaign=StumbleThruButton" title="Explore Gizmag" rel="nofollow"><img src="http://images.gizmag.com/layout/icons/iconmonstr-stumbleupon-icon-48.png"></a></li>
+                <li><a href="http://www.gizmag.com/xml/" title="Subscribe to Gizmag's RSS feed"><img src="http://images.gizmag.com/layout/icons/iconmonstr-rss-icon-48.png"></a></li>
+                <li><a href="http://store.gizmag.com/" title="Shop at the Gizmag store"><img src="http://images.gizmag.com/layout/icons/iconmonstr-shopping-cart-3-icon-48.png"></a></li>
 			</ul>
+
+			<!-- link_to_mobile -->
 
 			<!-- Google Search -->
 			<div id="search_form_top">
@@ -179,27 +163,19 @@
 	</div>
 
 	<!-- Top Strip:  cached  -->
-	<div id="top_strip"><a href="http://www.gizmag.com/gizmag-store/31275/">Introducing the Gizmag Store</a></div>
+	<div id="top_strip"><a href="http://www.gizmag.com/tag/best-of-2014/" target="_blank">The best of 2014</a></div>
 
 
 
-	<div class="center">
+    
+
+	<div class="center" id="main-content">
 
 		<div id="header">
 			<a href="/" id="logo"></a>
-            			<div id="leaderboard" data-cb-ad-id="Leaderboard">
-			    
-    <script type="text/javascript">
-    googletag.cmd.push(function() {
-      googletag.display("leaderboard"); 
-    });
-    </script>
-    
-    
-			</div>
-            		</div>
+		</div>
 
-          		    <div id="pushdown" data-cb-ad-id="Pushdown">    
+    		    <div id="pushdown" data-cb-ad-id="Pushdown">    
     <script type="text/javascript">
     googletag.cmd.push(function() {
       googletag.display("pushdown"); 
@@ -207,43 +183,43 @@
     </script>
     
     </div>
-                
-		<!-- Top Stories:  cached  -->
+    
+        <!-- Top Stories:  cached  -->
 	<div id="top_stories">
 
 		<ul>
 				<li id="top_story0">
-			<a class="ts_img" href="/review-martian-notifier-smartwatch-wearables/32667/" title="Martian Notifier may be a better introduction to wearables than Android Wear"></a>
+			<a class="ts_img" href="/nasa-gecko-grippers-space-trash/35346/" title="NASA tests gecko tech to pick up and recycle space trash"></a>
 			<div class="ts_title">
-				<a href="/review-martian-notifier-smartwatch-wearables/32667/">Martian Notifier may be a better introduction to wearables than Android Wear</a>				
+				<a href="/nasa-gecko-grippers-space-trash/35346/">NASA tests gecko tech to pick up and recycle space trash</a>
 			</div>
 		</li>
 				<li id="top_story1">
-			<a class="ts_img" href="/ford-fiesta-st-video-review/32686/" title="Video Road Test: Ford Fiesta ST"></a>
+			<a class="ts_img" href="/vo-trong-nghias-s-house-prototype-assembled-3-hours/35343/" title="Latest S House prototype can be assembled in just 3 hours"></a>
 			<div class="ts_title">
-				<a href="/ford-fiesta-st-video-review/32686/">Video Road Test: Ford Fiesta ST</a>				
+				<a href="/vo-trong-nghias-s-house-prototype-assembled-3-hours/35343/">Latest S House prototype can be assembled in just 3 hours</a>
 			</div>
 		</li>
 				<li id="top_story2">
-			<a class="ts_img" href="/sailpaddle-paddleboarding-sail/32663/" title="Sailpaddle blends paddleboarding and windsurfing"></a>
+			<a class="ts_img" href="/top-10-weird-christmas-gifts-2014/35315/" title="The top 10 things you DON'T NEED for Christmas 2014"></a>
 			<div class="ts_title">
-				<a href="/sailpaddle-paddleboarding-sail/32663/">Sailpaddle blends paddleboarding and windsurfing</a>				
+				<a href="/top-10-weird-christmas-gifts-2014/35315/">The top 10 things you DON'T NEED for Christmas 2014</a>
 			</div>
 		</li>
 				<li id="top_story3">
-			<a class="ts_img" href="/bmw-gesture-bumper-test/32646/" title="BMW checks bumpers with the wave of a hand"></a>
+			<a class="ts_img" href="/peri-duo-charger-and-speaker/35322/" title="Peri Duo: iPhone battery and speaker case rolled into one"></a>
 			<div class="ts_title">
-				<a href="/bmw-gesture-bumper-test/32646/">BMW checks bumpers with the wave of a hand</a>				
+				<a href="/peri-duo-charger-and-speaker/35322/">Peri Duo: iPhone battery and speaker case rolled into one</a>
 			</div>
 		</li>
 				<li id="top_story4">
-			<a class="ts_img" href="/electromagnetic-aircraft-launch-system-emals-us-navy/32645/" title="Electromagnetic system to replace steam launches on US Navy carriers"></a>
+			<a class="ts_img" href="/mechanic-advisor-connection-key-auto-repairs/35344/" title="Mechanic Advisor's Connection Key tells you what’s wrong with your car, and who can fix it"></a>
 			<div class="ts_title">
-				<a href="/electromagnetic-aircraft-launch-system-emals-us-navy/32645/">Electromagnetic system to replace steam launches on US Navy carriers</a>				
+				<a href="/mechanic-advisor-connection-key-auto-repairs/35344/">Mechanic Advisor's Connection Key tells you what’s wrong with your car, and who can fix it</a>
 			</div>
 		</li>
 				</ul>
-		
+
 		<div id="more_top_stories">
 			<a id="mts_img" href="/top_stories/"></a>
 			<a id="mts_txt" href="/top_stories/">more top stories</a>
@@ -253,9 +229,15 @@
 	</div>
 
 	
+    
+
+
+
+
+
 
 		<div id="content" class="narrow_content" data-fp-page="1">
-            <h1>Gizmag Privacy Policy</h1>
+      <h1>Gizmag Privacy Policy</h1>
 
 <div class="dotsontop">
 <div class="article_body">
@@ -326,9 +308,9 @@ If you have any questions or comments about our privacy practices, you can conta
 </div>
 
 </div>
-        </div>
+    </div>
 
-    
+	    
 		<div id="right_cols">
 
                             <div class="island" id="island_top_right" data-cb-ad-id="Top Island">
@@ -397,72 +379,72 @@ If you have any questions or comments about our privacy practices, you can conta
 
 					<!-- Editors Choice:  cached  -->
 	<span class="title">Editor's Choice</span>
-		
+
 	<ul id="editors_choice" class="vertical_sprite">
 	        <li id="story0">
-            <a class="vs_img" href="/review-martian-notifier-smartwatch-wearables/32667/" title="Martian Notifier may be a better introduction to wearables than Android Wear"></a>
+            <a class="vs_img" href="/best-smartphones-2014/35231/" title="Editors' choice: Top five smartphones of 2014"></a>
             <div class="vs_title">
-            	<a href="/review-martian-notifier-smartwatch-wearables/32667/">Martian Notifier may be a better introduction to wearables than Android Wear</a>
+            	<a href="/best-smartphones-2014/35231/">Editors' choice: Top five smartphones of 2014</a>
             </div>
         </li>
 	        <li id="story1">
-            <a class="vs_img" href="/time-traveling-photons/32673/" title="Australian researchers simulate a time-traveling photon"></a>
+            <a class="vs_img" href="/worlds-most-valuable-barnfind/35178/" title="The world's most valuable barn find: 60 rare cars untouched for 50 years"></a>
             <div class="vs_title">
-            	<a href="/time-traveling-photons/32673/">Australian researchers simulate a time-traveling photon</a>
+            	<a href="/worlds-most-valuable-barnfind/35178/">The world's most valuable barn find: 60 rare cars untouched for 50 years</a>
             </div>
         </li>
 	        <li id="story2">
-            <a class="vs_img" href="/edmonton-waste-to-biofuels-facility-video-tour/32630/" title="Video: World's first industrial-scale waste-to-biofuels facility"></a>
+            <a class="vs_img" href="/breathable-air-on-mars/35265/" title="New space race aims at creating breathable air on Mars"></a>
             <div class="vs_title">
-            	<a href="/edmonton-waste-to-biofuels-facility-video-tour/32630/">Video: World's first industrial-scale waste-to-biofuels facility</a>
+            	<a href="/breathable-air-on-mars/35265/">New space race aims at creating breathable air on Mars</a>
             </div>
         </li>
 	        <li id="story3">
-            <a class="vs_img" href="/ford-fiesta-st-review/32624/" title="Two weeks with the 2014 Ford Fiesta ST"></a>
+            <a class="vs_img" href="/peleboard-leg-powered-paddleboard/35291/" title="PeleBoard takes a stride toward leg-powered paddleboarding"></a>
             <div class="vs_title">
-            	<a href="/ford-fiesta-st-review/32624/">Two weeks with the 2014 Ford Fiesta ST</a>
+            	<a href="/peleboard-leg-powered-paddleboard/35291/">PeleBoard takes a stride toward leg-powered paddleboarding</a>
             </div>
         </li>
 	        <li id="story4">
-            <a class="vs_img" href="/charging-battery-in-minutes/32579/" title="New li-ion battery anode could charge electronics in minutes"></a>
+            <a class="vs_img" href="/top-10-christmas-wishlist-2014/35185/" title="The top 10 things you CAN'T have for Christmas 2014"></a>
             <div class="vs_title">
-            	<a href="/charging-battery-in-minutes/32579/">New li-ion battery anode could charge electronics in minutes</a>
+            	<a href="/top-10-christmas-wishlist-2014/35185/">The top 10 things you CAN'T have for Christmas 2014</a>
             </div>
         </li>
 	        <li id="story5">
-            <a class="vs_img" href="/supersonic-passenger-aircraft-revival/32600/" title="Is supersonic passenger travel set to make a comeback?"></a>
+            <a class="vs_img" href="/volvo-car-to-cyclist-anticollision/35307/" title="Volvo system connects cyclists with cars, via their helmets"></a>
             <div class="vs_title">
-            	<a href="/supersonic-passenger-aircraft-revival/32600/">Is supersonic passenger travel set to make a comeback?</a>
+            	<a href="/volvo-car-to-cyclist-anticollision/35307/">Volvo system connects cyclists with cars, via their helmets</a>
             </div>
         </li>
 	        <li id="story6">
-            <a class="vs_img" href="/minibuilder-robots-3d-print-large-scale-structures/32573/" title="Team of 3D-printing &quot;Minibuilder&quot; robots print large-scale structures on site"></a>
+            <a class="vs_img" href="/odysse-desalinator-power-ocean-clean/35276/" title="The Odyssée desalinator: Using the power of the ocean to cleanse its own salty waters"></a>
             <div class="vs_title">
-            	<a href="/minibuilder-robots-3d-print-large-scale-structures/32573/">Team of 3D-printing "Minibuilder" robots print large-scale structures on site</a>
+            	<a href="/odysse-desalinator-power-ocean-clean/35276/">The Odyssée desalinator: Using the power of the ocean to cleanse its own salty waters</a>
             </div>
         </li>
 	        <li id="story7">
-            <a class="vs_img" href="/hitchbot-hitch-hike-across-canada/32568/" title="hitchBOT aims to be first robot to hitchhike across Canada"></a>
+            <a class="vs_img" href="/deep-neural-networks-primates-visual-object-recognition-rival/35301/" title="Computer-based &quot;deep neural network&quot; as good as primates at visual object recognition"></a>
             <div class="vs_title">
-            	<a href="/hitchbot-hitch-hike-across-canada/32568/">hitchBOT aims to be first robot to hitchhike across Canada</a>
+            	<a href="/deep-neural-networks-primates-visual-object-recognition-rival/35301/">Computer-based "deep neural network" as good as primates at visual object recognition</a>
             </div>
         </li>
 	        <li id="story8">
-            <a class="vs_img" href="/faa-bp-uav-flights-alaska/32483/" title="FAA approves first commercial overland UAV flights"></a>
+            <a class="vs_img" href="/samsung-gear-vr-oculus-review/35266/" title="Samsung Gear VR review: Oculus goes mobile"></a>
             <div class="vs_title">
-            	<a href="/faa-bp-uav-flights-alaska/32483/">FAA approves first commercial overland UAV flights</a>
+            	<a href="/samsung-gear-vr-oculus-review/35266/">Samsung Gear VR review: Oculus goes mobile</a>
             </div>
         </li>
 	        <li id="story9">
-            <a class="vs_img" href="/eye-pressure-sensor-glaucoma/32570/" title="In-eye sensor to keep a watch on changes in intraocular pressure"></a>
+            <a class="vs_img" href="/mercedes-amg-c300-hybrid-s500-plug-in-hybrid-s63-coupe/35256/" title="Seat time: Mercedes' top-line AMGs impress"></a>
             <div class="vs_title">
-            	<a href="/eye-pressure-sensor-glaucoma/32570/">In-eye sensor to keep a watch on changes in intraocular pressure</a>
+            	<a href="/mercedes-amg-c300-hybrid-s500-plug-in-hybrid-s63-coupe/35256/">Seat time: Mercedes' top-line AMGs impress</a>
             </div>
         </li>
 		</ul>
-	
+
 	<div class="clear_both"></div>
-	
+
 
 	
 								<div class="island" id="island_bottom_right" data-cb-ad-id="Bottom Island">    
@@ -479,9 +461,9 @@ If you have any questions or comments about our privacy practices, you can conta
 	<div id="featured_video" class="gapbelow">
 		<span class="title">Featured Video</span>
 		<div class="dotsontop">
-            <iframe class="youtube-player" width="358" height="212" src="http://www.youtube.com/embed/6YIEVdFt0OE?autoplay=0&amp;origin=http://www.gizmag.com">
+            <iframe class="youtube-player" width="358" height="212" src="http://www.youtube.com/embed/cN3lMPMgLoM?autoplay=0&amp;origin=http://www.gizmag.com">
             </iframe>
-            <a href="http://www.gizmag.com/zero-sr-video-review-rod-test/32114/">Video: 2014 Zero SR makes us question everything</a>
+            <a href="http://www.gizmag.com/ebr-1190sx-video/35273/">Video Review: EBR 1190SX, the world's most powerful production streetfighter</a>
 			<div class="clear_both"></div>
 		</div>
 		<div class="clear_both"></div>
@@ -489,10 +471,65 @@ If you have any questions or comments about our privacy practices, you can conta
 
 
 				
-				          
+          <span class="title">Product Comparisons</span>
+    <ul id="comparisons">
+                      <li>
+          <a href="/compare-best-action-cameras-2014/34974/">
+            <img src="http://images.gizmag.com/hero/action-camera-comparison-2014.jpg">
+            2014 Action Camera Comparison Guide          </a>
+        </li>
+                      <li>
+          <a href="/compare-best-smartwatches-2014/34880/">
+            <img src="http://images.gizmag.com/hero/smartwatch-comparison-2014.jpg">
+            2014 Smartwatch Comparison Guide          </a>
+        </li>
+                      <li>
+          <a href="/late-2014-windows-2-in-1-comparison-guide/34873/">
+            <img src="http://images.gizmag.com/hero/windows-2-in-1-guide-late-2014.jpg">
+            2014 Windows 2-in-1 Comparison Guide          </a>
+        </li>
+                      <li>
+          <a href="/smartphone-comparison-2014/34847/">
+            <img src="http://images.gizmag.com/hero/2014-smartphone-comparison.jpg">
+            2014 Smartphone Comparison Guide          </a>
+        </li>
+                      <li>
+          <a href="/full-frame-comparison-dslr-buyers-guide-2014/34773/">
+            <img src="http://images.gizmag.com/hero/full-frame-dslr-comparison-2014.jpg">
+            2014 Full Frame DSLR Comparison Guide          </a>
+        </li>
+                      <li>
+          <a href="/tablet-comparison-2014/34629/">
+            <img src="http://images.gizmag.com/hero/tablet-comparison-2014.jpg">
+            2014 Tablet Comparison Guide          </a>
+        </li>
+                      <li>
+          <a href="/zoom-camera-comparison-buyers-guide-2014/34618/">
+            <img src="http://images.gizmag.com/hero/zoom-camera-comparison-2014.jpg">
+            2014 Superzoom Camera Comparison Guide          </a>
+        </li>
+                      <li>
+          <a href="/ipad-comparison-2014-2015/34443/">
+            <img src="http://images.gizmag.com/hero/ipad-air-2-vs-ipad-air-vs-ipad-mini-3-vs-ipad-mini-2-vs-ipad-mini.jpg">
+            2014 iPad Comparison Guide          </a>
+        </li>
+                      <li>
+          <a href="/dslr-camera-entry-level-enthusiast-comparison-buyers-guide-2014/34406/">
+            <img src="http://images.gizmag.com/hero/dslr-comparison-entry-level-enthusiast-2014.jpg">
+            2014 Entry-Level to Enthusiast DSLR Comparison Guide          </a>
+        </li>
+                      <li>
+          <a href="/small-compact-camera-compare-guide-2014/34217/">
+            <img src="http://images.gizmag.com/hero/small-compact-camera-2014.jpg">
+            2014 Small Compact Camera Comparison Guide          </a>
+        </li>
+          </ul>
+  
+        
         
                 
-				<!-- tailsweep_analytics -->
+        <!-- tailsweep_analytics -->
+
 
 			<!-- close right col a -->
 			</div>
@@ -507,7 +544,7 @@ If you have any questions or comments about our privacy practices, you can conta
 	</div>
 
 	<!-- footer -->
-    <script type="text/javascript" src="/inc/footer_tabs.js?1395967820"></script>
+        <script type="text/javascript" src="/inc/footer_tabs.js?1417144046"></script>
 	<div id="footer_outer">
 	<div id="footer">
 
@@ -516,7 +553,7 @@ If you have any questions or comments about our privacy practices, you can conta
             <span class="footer_title">Most Popular Articles</span>
                 <!-- Popular articles (footer):  cached  -->
 
-    <div class="tabbable"> 
+    <div class="tabbable">
       <ul class="nav nav-tabs" id="most_popular_tabs">
         <li class="active"><a data-target="#popular_today" data-toggle="tab" data-period="day">Today</a></li>
         <li><a data-target="#popular_week" data-toggle="tab" data-period="week">Last week</a></li>
@@ -525,24 +562,24 @@ If you have any questions or comments about our privacy practices, you can conta
       <div class="tab-content">
         <div class="tab-pane active" id="popular_today">
             <ul class="popular_articles">
-                                <li><a href="http://www.gizmag.com/time-traveling-photons/32673/">Australian researchers simulate a time-traveling photon</a></li>
-                                <li><a href="http://www.gizmag.com/electromagnetic-aircraft-launch-system-emals-us-navy/32645/">Electromagnetic system to replace steam launches on US Navy carriers</a></li>
-                                <li><a href="http://www.gizmag.com/review-martian-notifier-smartwatch-wearables/32667/">Martian Notifier may be a better introduction to wearables than Android Wear</a></li>
-                                <li><a href="http://www.gizmag.com/nexus-5-vs-amazon-fire-phone/32662/">Amazon Fire Phone vs. Nexus 5</a></li>
-                                <li><a href="http://www.gizmag.com/36-core-chip-mit/32659/">New 36-core chip takes design clues from internet routers</a></li>
-                                <li><a href="http://www.gizmag.com/concentrating-solar-power/32678/">CSP plants could run at 80 percent capacity (or better) throughout the year</a></li>
-                                <li><a href="http://www.gizmag.com/ford-fiesta-st-video-review/32686/">Video Road Test: Ford Fiesta ST</a></li>
-                                <li><a href="http://www.gizmag.com/microsoft-nokia-x2-android-smartphone/32690/">Nokia X2: Microsoft's first Android-based smartphone</a></li>
-                                <li><a href="http://www.gizmag.com/solar-wind-energy-downdraft-tower/32607/">Solar Wind Energy's Downdraft Tower generates its own wind all year round</a></li>
-                                <li><a href="http://www.gizmag.com/sailpaddle-paddleboarding-sail/32663/">Sailpaddle blends paddleboarding and windsurfing</a></li>
+                                <li><a href="http://www.gizmag.com/spacex-milestone-dragon/35337/">NASA approves first SpaceX milestone for Crew Dragon spacecraft</a></li>
+                                <li><a href="http://www.gizmag.com/how-to-install-google-apps-kindle-fire-hd-hdx/30736/">How to install Google apps on Kindle Fire HD or HDX</a></li>
+                                <li><a href="http://www.gizmag.com/gopro-hero4-vs-gopro-hero3plus/34090/">GoPro Hero4 vs. GoPro Hero3+</a></li>
+                                <li><a href="http://www.gizmag.com/nomad-micro-home/29689/pictures">Flat-pack NOMAD Micro Home promises inexpensive off-grid living - Images</a></li>
+                                <li><a href="http://www.gizmag.com/galaxy-tab-s-vs-ipad-air-2/34519/">iPad Air 2 vs. Samsung Galaxy Tab S 10.5</a></li>
+                                <li><a href="http://www.gizmag.com/google-search-functions/34382/">10 useful Google Search functions you may not know about</a></li>
+                                <li><a href="http://www.gizmag.com/galaxy-s5-vs-iphone-6-in-depth-comparison/34338/">iPhone 6 vs. Galaxy S5: A closer look</a></li>
+                                <li><a href="http://www.gizmag.com/muve-three-wheel-electric-scooter/35354/">MUV-e folding scooter inches closer to release</a></li>
+                                <li><a href="http://www.gizmag.com/compare-best-smartwatches-2014/34880/">2014 Smartwatch Comparison Guide</a></li>
+                                <li><a href="http://www.gizmag.com/samsung-gear-s-vs-gear-live-gear-2-neo-gear-fit-galaxy-gear/33602/">Comparing the six Samsung Gear smartwatches</a></li>
                             </ul>
         </div>
         <div class="tab-pane" id="popular_week">
-          <ul class="popular_articles">                
+          <ul class="popular_articles">
           </ul>
         </div>
         <div class="tab-pane" id="popular_all">
-        <ul class="popular_articles">            
+        <ul class="popular_articles">
         </ul>
         </div>
       </div>
@@ -556,7 +593,7 @@ If you have any questions or comments about our privacy practices, you can conta
             <span class="footer_title">Most Commented Articles</span>
                 <!-- Commented articles (footer):  cached  -->
 
-    <div class="tabbable"> 
+    <div class="tabbable">
       <ul class="nav nav-tabs" id="most_commented_tabs">
         <li class="active"><a data-target="#commented_today" data-toggle="tab" id="commented_today_tab" data-period="day">Today</a></li>
         <li><a data-target="#commented_week" data-toggle="tab" id="commented_week_tab" data-period="week">Last week</a></li>
@@ -564,25 +601,25 @@ If you have any questions or comments about our privacy practices, you can conta
       </ul>
       <div class="tab-content">
         <div class="tab-pane active" id="commented_today">
-            <ul class="commented_articles">                
+            <ul class="commented_articles">
             </ul>
         </div>
         <div class="tab-pane" id="commented_week">
           <ul class="commented_articles">
-                                <li><a href="/solar-wind-energy-downdraft-tower/32607/">Solar Wind Energy's Downdraft Tower generates its own wind all year round</a> (58)</li>
-                                <li><a href="/harley-davidson-project-livewire-electric-motorbike/32613/">Meet Project LiveWire: Harley Davidson's first-ever electric motorbike</a> (29)</li>
-                                <li><a href="/supersonic-passenger-aircraft-revival/32600/">Is supersonic passenger travel set to make a comeback?</a> (17)</li>
-                                <li><a href="/llnl-ultralight-metamaterial/32589/">New materials developed that are as light as aerogel, yet 10,000 times stronger</a> (12)</li>
-                                <li><a href="/audi-electric-turbocharging-rs-5-tdi/32619/">Audi brings its electric turbocharger closer to production with RS 5 TDI concept</a> (11)</li>
-                                <li><a href="/cozy-room-alone-time/32621/">Cozy Room offers alone time to die for</a> (10)</li>
-                                <li><a href="/antibiotic-resistant-bacteria-achilles-heel/32626/">Achilles' heel to lower defenses of antibiotic-resistant bacteria found</a> (9)</li>
-                                <li><a href="/duke-airborne-robotic-weapon-system-helicopter/32590/">Robotic Weapon System gives helicopters hidden firepower</a> (9)</li>
-                                <li><a href="/ford-fiesta-st-review/32624/">Two weeks with the 2014 Ford Fiesta ST</a> (8)</li>
-                                <li><a href="/orions-spacecraft-nasa-eft1/32632/">NASA scientists look ahead to Orion's maiden flight</a> (8)</li>
+                                <li><a href="/google-self-driving-car-prototype/35339/">Google unveils first complete self-driving car prototype</a> (18)</li>
+                                <li><a href="/christmas-tree-prolong-life/35316/">Schoolgirls find secret to prolonging the life of a Christmas tree</a> (18)</li>
+                                <li><a href="/cadillac-video-rear-view-mirror/35302/">Cadillac replaces rear-view mirror with HD video feed</a> (11)</li>
+                                <li><a href="/nasa-havoc-concept-manned-mission-to-venus/35311/">NASA concept would send astronauts to Venus</a> (11)</li>
+                                <li><a href="/harvard-metal-film-color/35350/">Harvard coloring tech could be an attractive alternative to paint</a> (9)</li>
+                                <li><a href="/petm-global-warming-similarities/35168/">New study finds parallels between past and present climate change</a> (7)</li>
+                                <li><a href="/desolenator-clean-drinking-water-power-sun/35299/">Desolenator churns out clean drinking water using solar power</a> (7)</li>
+                                <li><a href="/breathable-air-on-mars/35265/">New space race aims at creating breathable air on Mars</a> (6)</li>
+                                <li><a href="/samsung-curved-se790c/35327/">Samsung reveals 34-inch curved ultra-wide monitor</a> (6)</li>
+                                <li><a href="/antoine-bureau-a-rock-cabin/35268/">Like a rolling stone: Tiny Alpine cabin resembles an oversized rock</a> (5)</li>
                           </ul>
         </div>
         <div class="tab-pane" id="commented_all">
-        <ul class="commented_articles">            
+        <ul class="commented_articles">
         </ul>
         </div>
       </div>
@@ -600,7 +637,7 @@ If you have any questions or comments about our privacy practices, you can conta
                   <input type="text" name="email" class="email" value="Enter Your Email Address ..." onclick="this.value=''; this.style.color='#999'" id="footer_email">
                   <button type="submit" class="bootbtn" id="footer_subscribe_button">Subscribe</button>
               </form>
-              <script type="text/javascript" src="/inc/subscribe_footer.js?1395967820"></script>
+              <script type="text/javascript" src="/inc/subscribe_footer.js?1417144046"></script>
 
               <div class="subscribe_options">
                   <a target="_blank" href="http://twitter.com/gizmag/" class="twitter_footer greytitle">
@@ -662,7 +699,8 @@ If you have any questions or comments about our privacy practices, you can conta
 			</ul>
 		</div>
 	</div> 
-    	
+    
+    
 	
 	<!-- Clicky Tracing Code -->
 	<script src="http://static.getclicky.com/js" type="text/javascript"></script>
@@ -714,10 +752,10 @@ If you have any questions or comments about our privacy practices, you can conta
 
 
 	<!-- Page Loaded in: page_load_time sec -->
-	<!-- Displayed on: gizweb2 -->
+	<!-- Displayed on: gizweb1 -->
 	<!--  Cached -->
 
-	
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"2798a8ea7c","applicationID":"10948669","transactionName":"Y1BUNxcHV0IEUENYXVoaYxEMSVBfAVZPH0JcRQ==","queueTime":0,"applicationTime":10,"ttGuid":"","agentToken":"","atts":"TxdXQV8dREw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 	
 
-	<script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat_pub.js"></script></body></html>
+	<script src="https://js-agent.newrelic.com/nr-476.min.js"></script><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat_pub.js"></script></body></html>
