@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606210343id_/http%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226113121id_/http%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
 
-# Privacy policy Buy Dresses, Tops, Pants, Denim, Handbags, Shoes and Accessories Online
+# Privacy Policy | Forever New
+
+Forever New is committed to protecting the privacy of our valued customers just as we're committed to creating stylish on-trend looks for you to enjoy across all seasons. 
 
 ## FOREVER NEW PRIVACY POLICY  
 
