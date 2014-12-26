@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogspot.in privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911055229id_/http%3A//www.dogspot.in/shop-policy.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogspot.in privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226112526id_/http%3A//www.dogspot.in/shop-policy.php%23privacy) for the most accurate reproduction.*
 
 # DogSpot Shop Policy | DogSpot
 
@@ -53,7 +53,7 @@ Plot no - 545, S.Lal Tower
 Sector - 20, Dundahera  
 Gurgaon 122016  
 Haryana, India   
-Telephone No.: +91-9818809553  
+Telephone No.: +91-9212196633  
 E-Mail ID: contact@dogspot.in
 
   
@@ -71,10 +71,10 @@ While **Dogspot.in** strives to provide accurate product and pricing information
 
 We ship only in India and for domestic (India) buyers, orders are shipped through registered domestic courier companies and /or speed post only. Orders are shipped within 10 working days or as per the delivery date agreed at the time of order confirmation and delivering of the shipment subject to Courier Company / post office norms. PetsGlam Services Pvt Ltd (DogSpot.in) is not liable for any delay in delivery by the courier company / postal authorities and only guarantees to hand over the consignment to the courier company or postal authorities within 10 working days from the date of the order and payment or as per the delivery date agreed at the time of order confirmation. Delivery of all orders will be to registered address of the buyer as per the credit/debit card only at all times (Unless specified at the time of Order). PetsGlam Services Pvt Ltd (DogSpot.in) is in no way responsible for any damage to the order while in transit to the buyer. 
 
-**Shipping is Free across India for all products.**  
+Shipping Charge of Rs.49 is applicable on every order.  
 Rs. 50  applicable  for Cash On Delivery (COD) payment method.  
-In India, some state governments levies the Octroi charges when the product enters the state. 
-
+In India, some state governments levies the Octroi charges when the product enters the state.   
+Dear Customer: COD facility is available for Order Value under INR 8000/-   
 **The Octroi charge is payable by the recipient at the time of delivery**. The courier will collect the Octroi amount from the recipient at the time of delivery.
 
 * * *
@@ -99,19 +99,33 @@ If the cancellation is after your product has shipped, you can do one of the fol
 
 ### Replacement 
 
-In order to get a defective item replaced, contact Care via [Contact Us](https://web.archive.org/contactus.php) Page or call on 0124 4059145, within 30 days from the date of delivery. The defective product or part of the product will be recalled and a replacement will be shipped immediately.
+In order to get a defective item replaced, contact Care via [Contact Us](https://web.archive.org/contactus.php) Page or call on +91-9212196633, within 30 days from the date of delivery. The defective product or part of the product will be recalled and a replacement will be shipped immediately.
 
 * * *
 
 ### Refund and Return 
 
-In case you are not happy with the quality of the product or the product doesn't fit properly, you can return the product to us. We will replace the product or refund entire amount.
+Definition: 'Return' is defined as the action of giving back the item purchased by the customer to the Seller/DogSpot on the DogSpot website. Following situations may arise:  
+1\. Item was defective  
+2\. Item was damaged in transit  
+3\. Products was / were missing  
+4\. Wrong item was received 
+
+Return could also result in refund of money in some of the cases.
+
+We encourage the customer to review the listing before making the purchase decision. In case the customer orders a wrong item, DogSpot/seller shall not be entitled to anyreturn/refund.  
+The following RULES apply to this Policy:  
+1\. Certain consumableitemswill not be returned or refunded, the list of such items include in case the seal is found to be broken. The list of such items includes food, grooming products, supplements, dog apparel, beds, car seat covers etc   
+2\. In case of damaged or any missing product the customer needs to raise the request within 24hours from the time of delivery. Once the customer has raised the request, he/she needs to provide a visual proof (an image) of the damaged product to DogSpot within 3 days from the time of delivery.  
+3\. All items to be returned must be unused and in their original condition with all original tags and packaging intact and should not be broken or tampered with.  
+4\. In the event the Seller accepts the return request raised by the customer, customer will have to return the product and then the refund shall be credited to the customer’s account.  
+5\. Refund will only be processed after a quality check of the product by experts of DogSpot 
 
 Please note that the product should be unused and should be sent back along with original box and invoice to:  
 **Customer care**  
-**DogSpot.in, U-1/9,G.F.**  
-**DLF Phase- III**  
-**Gurgaon 122002**  
+**DogSpot.in, Plot no - 545, S.Lal Tower.**  
+**Sector - 20, Dundahera**  
+**Gurgaon 122016**  
 **Haryana, India**
 
 The refund process will be initiated once we have received the product(s). Typically refunds are processed in less than 10 working days but in case of payments by Cheque or DD, it may take a few extra days for the cheque to be delivered to your billing address, and for the funds to be credited to your account, once you deposit the cheque.
