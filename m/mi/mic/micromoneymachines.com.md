@@ -1,73 +1,98 @@
-> *The following text is extracted and transformed from the micromoneymachines.com privacy policy that was archived on 2014-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140117020840id_/http%3A//7opp.com/55-websites/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromoneymachines.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226153902id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# 55 Instant Websites
+# Privacy Policy | Lunarpages Web Hosting
 
-## 7opp.com - Privacy Policy 
+Lunarpages takes your privacy very seriously. This document sets forth a list of promises that we make to you regarding your privacy and security on the Lunarpages web site. This document will let you know what information we collect from Lunarpages users and how we use that information. This document will let you know what choices you have concerning your personal information and gives you information about how to make them.
 
-1\. Our Commitment to Privacy. This Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy. 
+#### Collection and Use of Information
 
-2\. What Information is Collected. 
+Lunarpages collects information from customers when they sign up for Web Hosting Services, Domain Name Registration, Affiliate Accounts, Web Hosting Resale Accounts and other such services. This information includes name, address, telephone number, email address, billing information, URL information, IP Address and other data relating to the sale, use and billing of such services. This information is used for the registration and management of your account. It may also be used to contact you for purposes of collecting any outstanding balance on your account.
 
-  1. Information You Provide to Us:  We collect the Personally Identifiable Information you choose to enter on various pages of our site, or that you may choose to give us in some other way (such as by email, physical mail, or by telephone). For example, you will be asked to provide Personally Identifiable Information when you register for access to certain portions of our site, sign up for newsletters or mailings, or make a purchase. The categories of Personally Identifiable Information we collect are your first and last name, e-mail address, physical address, and telephone number. You can choose not to provide certain information, but you may not be able to take advantage of our services and features. 
-  2. Automatic Information:  When you visit a website, you disclose certain information, such as your Internet Protocol (IP) address and the time of your visit. This site, like many other sites, records this basic information about visits to our site. 
-  3. “Cookies”:  Cookies are pieces of information that are transferred to your computer from a web server. We use cookies to store visitor preferences, record session information (such as items that you add to your shopping cart) record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors' browser type or other information that the visitor sends. Most browsers are set up to accept cookies, but you can change your settings to have your browser notify you when you receive a new cookie or you can change your settings to refuse to accept cookies. 
+Lunarpages may use this information internally to provide the services that you have requested and facilitate customer communications, domain registration services, web hosting services and billing and/or collection activities associated therewith. Lunarpages may from time to time also communicate with you on behalf of our marketing partners. Lunarpages will also in some instances share your personally identifiable information with our approved marketing partners for marketing purposes related to specific special offers that we believe you would like to receive based upon the services that you express an interest in from us. We require all marketing partners to comply with the Federal CAN-SPAM Act and all other applicable laws. We require that each such marketing partner provide a conspicuous opt-out link for your use to remove your information from their email list. Furthermore, if you wish us not to share your email address or other personally identifiable information you may contact us by email at [support@lunarpages.com](mailto:support@lunarpages.com).
 
+#### Surveys or Contests
 
+On occasion we provide hosting customers with the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
-3\. How and When the Information is Used. The information we collect is used for administering our business activities as follows: 
+If the contest or survey requires, permits or is otherwise related to the submission by you to us of any story, artwork, photograph or other such material this information and material may be used to select a winner and tabulate survey results. In addition, we may use any such submission pursuant to the relevant portion of our Terms of Service to display to other hosting customers or non-hosting customers whether or not in conjunction with information from our advertisers or partners.
 
-  1. to improve the content of our site; 
-  2. to customize the content and/or layout of site pages for each individual visitor; 
-  3. used to notify consumers about updates to our Web site; 
-  4. shared with other reputable organizations to help them contact consumers for marketing purposes; 
-  5. used by us to contact consumers for marketing purposes. 
+#### Additional Information
 
+In addition to the registration information set forth above, Lunarpages also records and tracks your IP address, and browser type for purposes of security, maintaining the web site and ensuring the best possible user experience. This non-personally identifiable information is also tabulated in the aggregate for purposes of determining broad demographic usage information and is, on occasion, shared with third-parties to provide more relevant services and advertisements to our hosting customers. We do not link aggregate user data with personally identifiable information.
 
+Information that you may choose to post on the Service including any text entries, photos, videos or other content are displayed to other hosting customers and, at times, are available to unregistered web site visitors. Your full name, address, telephone number, or email address are never provided to other hosting customers or web site visitors by Lunarpages.
 
-4\. How We Protect Your Information. The privacy and protection of your information is important to us. We offer some of our services in connection with other web sites. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies. Your access to some services and content is password protected. We advise that you do not disclose your password to anyone. In addition, we recommend you sign out of password-protected services at the end of your session. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and this policy. 
+#### As Required by Law
 
-5\. Who Has Access to the Information. Information about our users is important to us. Access to your information may be provided to third parties who provide technical support for the operation of our site. In addition, we may sell our business or buy, merge or partner with other companies or businesses. In such transactions, user information may be transferred along with other assets. We may also disclose your information in response to a court order and we may disclose your information when we believe we are required to do so by law. We may disclose your information in connection with the collection of amounts you may owe to us and to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-6\. Methods We Use to Protect Your Information. We use security software to protect the confidentiality of your personal information. In addition, our business practices are reviewed periodically for compliance with policies and procedures governing the security and confidentiality of our information. Our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons. 
+#### Cookies
 
-7\. **Children's Privacy**. As administrators of this website, we are gravely serious about this issue. 
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on the Lunarpages website. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. By your use of the Lunarpages website you consent to allow us to place cookies on your computer and to access them as you navigate our website.
 
-While we allow no "adult" content on any of our websites, there also are no elements or attractions on our websites that are intended to be of interest to minor children. 
+We use session ID cookies which expire when you close your browser. These cookies make it easier for you to navigate our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
-We do not knowingly solicit, collect, nor database any type of information about minor children under the age of 18 years. If we find that we have information about any minor child or children in our database or elsewhere in our systems, that information will be deleted immediately and permanently.
+#### Links to Other Sites
 
-Here are some tips to  enhance your child's privacy and safety on the Internet: 
+This website contains links to other sites that are not owned or controlled by Lunarpages. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware of when you leave our site and to read the privacy statements of each and every website that you visit and how it collects and uses your personally identifiable information.
 
-> * Teach children to **never give personal information about themselves or their friends** over the Internet, unless supervised by a parent or responsible adult.
-> 
-> A child's personal information includes but is not limited to:
-> 
->   1. name  
-> 
->   2. address  
-> 
->   3. telephone numbers  
-> 
->   4. email addresses  
-> 
->   5. school  
-> 
->   6. church  
-> 
->   7. age   
-> 
->   8. or any similar information about friends. 
-> 
+#### Your Websites
 
-> * Know the sites your children are visiting and which sites are appropriate. 
-> * Look for website privacy policies. Know how your child's information is handled by those websites. 
+Information that you post on the Internet or in public forums can be read, collected, or used by other users of the Internet, and could be used to identify you, contact you, send you unsolicited messages or for any other possible purpose. We have no control over the use of such information. We are not responsible for any personally identifiable information you post and we caution you to consider all such information to be publicly available. If you believe that you have been contacted in a manner that is in violation of our Terms of Service please notify us and include all information you may have as to the nature of any communication that you received and the identity of the person initiating such communication. Please send all notices under this paragraph to [abuse@lunarpages.com](mailto:abuse@lunarpages.com).
 
-Please visit the [U.S. Federal Trade Commission](http://ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) site for more tips on protecting children's privacy online.
+According to our Terms of Service misuse of such information can result in the termination of a user account.
 
-8\. How You Can Access Your Information. You can request access to all your personally identifiable information maintained by us by sending an e-mail to us at the address listed below. Upon request we offer you the ability to have inaccuracies corrected in your personally identifiable information. You can have this information corrected by sending us an e-mail at the address listed below. 
+#### Security
 
-9\. Consent. By using our website, you consent to the collection and use of your personal information as described in this Privacy Policy. 
+The security of your personal information is important to us. Information that you submit in relation to a financial transaction is encrypted using secure socket layer technology (SSL). Information in our possession is maintained according to generally accepted industry standards. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-10\. Changes to Privacy Policy. If our Privacy Policy or procedures change, we will immediately post those changes to our website. Any such changes will be effective immediately upon being posted, unless otherwise stated in the change. 
+If you have any questions about security on our Web site, you may contact us at [support@lunarpages.com](mailto:support@lunarpages.com).
 
-11\. Revision. This Privacy Policy was revised on 1 January 2010 
+#### Business Transitions
+
+In the event Lunarpages goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information via email at the address you have provided during registration.
+
+#### Changes in this Privacy Statement
+
+If we decide to change our Privacy Policy, we will post those changes here, place a notice on our homepage, and place a notice in other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+#### Contact Us
+
+If you have any questions or suggestions regarding our privacy policy, please contact us at:
+
+Add2Net, Inc.   
+Lunarpages Division   
+1360 N Hancock St.   
+Anaheim, CA 92807  
+Or via email at [support@lunarpages.com](mailto:support@lunarpages.com)
+
+#### Lunarpages - Under 13 Privacy Statement
+
+##### Information Collection & Use
+
+Lunarpages does not specifically target this web site to children under 13 years of age. Nonetheless, all Lunarpages web site content is intended to be generally appropriate for children with the proper parental guidance and as such we encourage parents to explore this web site together with their children and to discuss the information obtained.
+
+#### How to Access or Modify Your Information
+
+Lunarpages offers hosting customers the opportunity to access or modify information provided during registration. To access or modify such information, visit your customer control panel and click [here](http://account.lunarpages.com/login.php).
+
+#### Questions About Lunarpages Privacy Policy
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact:
+
+Customer Service  
+Add2Net, Inc.   
+Lunarpages Division   
+1360 N Hancock St.   
+Anaheim, CA 92807  
+Or email: [support@lunarpages.com](mailto:support@lunarpages.com)
+
+#### Revisions to This Policy
+
+Lunarpages reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our web site: [www.lunarpages.com.](http://www.lunarpages.com/)
+
+Version 4.0 - 111413
+
+© Copyright 2000–2013 – Add2Net, Inc. All Rights Reserved.
