@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpdealerservices.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626200410id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpdealerservices.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226131112id_/http%3A//www.adp.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -20,18 +20,6 @@ ADP has a Global Privacy Program that applies to all affiliates and associates w
 > 
 > If you have questions about your privacy rights, please contact your employer’s human resources department. If you believe that ADP has not handled your personal information properly, you may also contact ADP’s Privacy Office at [Privacy@ADP.com](mailto:Privacy@ADP.com). 
 > 
-> **Privacy Statement for Auto Dealership Clients**
-> 
-> ADP Dealer Services is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients in the automotive industry. This notice explains our practices with regard to the personal information we receive from our Dealer Services clients as a data processor. 
-> 
-> ADP Dealer Services receives consumer information from automobile dealerships and processes that information in compliance with its client contracts We will not use or disclose your personal information for our own purposes other than as expressly permitted by a dealership client or as required by law. ADP Dealer Services will at all times maintain reasonable and appropriate security controls to protect your information. 
-> 
-> ADP Dealer Services may disclose all of your personal information to other entities as authorized by our client, the dealership. We may also disclose your personal information to our affiliates and data processors as needed to provide the services that the dealership has requested. These entities are all contractually bound to limit use of your personal information as needed to perform the services. We will also always disclose Personal Information when required to do so by law, such as in response to a subpoena, including to law enforcement agencies and courts in the United States and other countries where we operate.
-> 
-> If you are based outside of the United States, your personal information may be transferred to ADP affiliates and data processers in the United States and elsewhere in the world. ADP will always protect the privacy and security of your personal information, regardless of where it is processed. Personal information transfers from the European Economic Area and other countries with data transfer restrictions will be authorized by approved model contracts, an EU-US Safe Harbor certification, or other appropriate means. 
-> 
-> If you have questions about your privacy rights, please contact your auto dealership directly. If you believe that ADP has not handled your personal information properly, you may also contact ADP’s Privacy Office at [Privacy@ADP.com](mailto:Privacy@ADP.com). 
-> 
 > **Privacy Statement for Medical Records Processing Clients**
 > 
 > ADP is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients in the healthcare industry. This notice explains our practices with regard to the protected health information we receive from our clients for medical records processing as a business associate under the US health privacy law known as HIPAA.
@@ -40,13 +28,9 @@ ADP has a Global Privacy Program that applies to all affiliates and associates w
 > 
 > If you have questions about privacy or security, please contact the HIPAA Privacy Official named in the Privacy Notice published by your healthcare provider or health insurance plan. If you believe that ADP has not handled your personal information properly, you may also contact ADP’s Privacy Office at [Privacy@ADP.com](mailto:Privacy@ADP.com). 
 > 
-> **Privacy Statement for ADP Dealer Services Digital Marketing Websites**
-> 
-> ADP Dealer Services Digital Marketing business runs websites such as [Cobalt.com](http://www.cobalt.com/privacy/), [Dealix.com](http://www.dealix.com/aboutus/privacy.aspx) and [Usedcars.com](http://www.usedcars.com/privacypolicy.aspx). These websites collect personal information from consumers and use it to facilitate the consumers’ car shopping experiences. Please see the detailed privacy statements on the applicable website.
-> 
 > **Safe Harbor Privacy Statement**
 > 
-> Some ADP companies participate in the U.S. – EU and U.S. – Swiss Safe Harbor Privacy Framework as set forth by the United States Department of Commerce, including Virtual Edge Corporation and RightThing LLC (formerly AIRS/The Right Thing). This means that, for personal information that individuals in the European Economic Area and Switzerland provide to these affiliates for processing on behalf of our clients, we have committed to handling such personal information in accordance with the Safe Harbor Principles. Additionally, ADP protects all ADP associate information in accordance with the Safe Harbor Principles, and ADP, Inc. has certified to the U.S. - EU and U.S. - Swiss Safe Harbor Frameworks for human resources data. 
+> ADP, LLC and its US subsidiaries participate in the U.S.-E.U. and U.S.-Swiss Safe Harbor Privacy Programs. We protect client human resources information received for processing from clients in the European Economic Area and Switzerland in accordance with the Safe Harbor Principles. We also protect all data processed by our Trusted Platform Security Infrastructure and related technologies in accordance with the Principles. Additionally, ADP, LLC protects all ADP associate information in accordance with the Safe Harbor Principles, and it has certified to the U.S.- E.U. and U.S.-Swiss Safe Harbor Frameworks for its own human resources data. To learn more about Safe Harbor and to view ADP's certification, please visit [ http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
 > 
 > For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce's Website <http://www.export.gov/safeharbor/>.
 > 
@@ -61,11 +45,11 @@ ADP has a Global Privacy Program that applies to all affiliates and associates w
 > 
 > **California Privacy Rights**
 > 
-> California Civil Code Section 1798 allows California residents to ask companies with whom they have an established business relationship to provide certain information about the companies’ sharing of personal information with third parties for direct marketing purposes. **ADP, Inc. does not share any California consumer personal information with third parties for marketing purposes without consent.**
+> California Civil Code Section 1798 allows California residents to ask companies with whom they have an established business relationship to provide certain information about the companies’ sharing of personal information with third parties for direct marketing purposes. **ADP, LLC does not share any California consumer personal information with third parties for marketing purposes without consent.**
 > 
 > California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices may contact us at Privacy@ADP.com or by writing to: 
 > 
-> ADP, Inc.   
+> ADP, LLC  
 >  Global Privacy Office  
 >  MS 325   
 >  One ADP Boulevard   
