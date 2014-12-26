@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeinvader.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194541id_/http%3A//www.rockstargames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinvader.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226060326id_/http%3A//www.rockstargames.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Rockstar Games
 
@@ -138,17 +138,21 @@ The Company uses cookies, web beacons, and similar tracking devices for certain 
 
 [AD-X](https://ad-x.co.uk/dont_track.php)
 
-[ATLAS ](http://www.mediaplex.com/AdVault_Privacy_Statement.shtml\]DoubleClick%20\[http://www.doubleclick.com/us/about_doubleclick/privacy/)
+[ATLAS ](http://www.conversantmedia.com/mediaplex/)
+
+[Doubleclick](http://www.google.com/doubleclick/)
 
 [Facebook ](https://www.facebook.com/help/499864970040521)
 
 [Google](http://www.google.com/policies/technologies/ads/)
 
-[Mediaplex](http://www.mediaplex.com/AdVault_Privacy_Statement.shtml)
+[Mediaplex](http://www.conversantmedia.com/mediaplex/)
 
 [Nielsen/Netratings](http://www.netratings.com/privacy.jsp?section=leg_scs)
 
-[Omniture](http://www.omniture.com/privacy/product\]%20Playhaven%20\[http://www.playhaven.com/privacy)
+[Omniture](http://www.adobe.com/privacy/analytics.html)
+
+[Playhaven](http://www.playhaven.com/privacy)
 
 [Yahoo](http://info.yahoo.com/privacy/us/yahoo/details.html)
 
