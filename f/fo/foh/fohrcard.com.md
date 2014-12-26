@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fohrcard.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325071509id_/http%3A//www.fohrcard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fohrcard.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226110620id_/http%3A//www.fohrcard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Fohr Card
 
