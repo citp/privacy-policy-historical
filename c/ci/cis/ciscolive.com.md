@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ciscolive.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628171209id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciscolive.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226061122id_/http%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement Highlights - Cisco Systems
 
-## CISCO PRIVACY PORTAL
+## Cisco Privacy Portal
 
-Cisco’s privacy portal is dedicated to sharing our privacy and compliance journey with customers, partners and colleagues. We recognize that a key to our business is building and maintaining trust, reducing risk and simply doing what is right. Fundamental to that concept is our philosophy that “Protecting information is everyone’s responsibility.”
+Cisco's privacy portal is dedicated to sharing our privacy and compliance journey with customers, partners and colleagues. We recognize that a key to our business is building and maintaining trust, reducing risk and simply doing what is right. Fundamental to that concept is our philosophy that "Protecting information is everyone's responsibility." 
 
-[****Learn More****](https://web.archive.org/web/about/doing_business/legal/privacy_compliance/index.html#~1)
+[**Learn More**](https://web.archive.org/web/about/doing_business/legal/privacy_compliance/index.html)
 
-_The Cisco[Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html) and this summary apply to Cisco’s websites and our affiliates’ websites that link to the Statement._
+_The Cisco[Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html) and this summary apply to Cisco's websites and our affiliates' websites that link to the Statement._
 
 Cisco respects and is committed to protecting your personal information. Our privacy policies reflect current global principles and standards on handling personal information – notice and choice of data use, data access and integrity, security, onward transfer and enforcement/oversight. Below are some of the highlights of our [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html).
 
@@ -58,6 +58,22 @@ Cisco respects and is committed to protecting your personal information. Our pri
 
 ### References
 
-To find out more about our privacy practices, see the Cisco [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html). Also, for additional information about our privacy and security compliance program, we encourage you to visit our [Privacy Portal](http://www.cisco.com/web/about/doing_business/legal/privacy_compliance/index.html#~1,).
+To find out more about our privacy practices, see the Cisco [Online Privacy Statement](https://web.archive.org/web/siteassets/legal/privacy_full.html). Also, for additional information about our privacy and security compliance program, we encourage you to visit our [Privacy Portal](https://web.archive.org/web/about/doing_business/legal/privacy_compliance/index.html#~1,).
 
 _Last updated: January 2012_
+
+## How to Contact Us
+
+Email: [privacy@cisco.com](mailto:privacy@cisco.com)
+
+Mail: Cisco Systems, Inc.   
+Legal Department   
+170 West Tasman Dr.   
+San Jose, CA 95134 USA
+
+## Learn more about Data Privacy
+
+Powering the Human Network means protecting it as well. Protecting the privacy of you and your family is important to Cisco. To help you understand how to protect your privacy, Cisco has published some helpful guidelines, both in commemoration of Data Privacy Day and on-going at [Online Privacy Portal](https://web.archive.org/web/about/facts_info/privacy/index.html).
+
+|   
+---|---
