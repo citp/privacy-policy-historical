@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoclerk.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614015601id_/https%3A//www.seoclerk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoclerk.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226112738id_/https%3A//www.seoclerk.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - SEOClerks
 
