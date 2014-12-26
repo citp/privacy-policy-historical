@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutdrinks.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602041833id_/http%3A//www.absolut.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutdrinks.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226093446id_/http%3A//www.absolut.com/en/privacy-policy) for the most accurate reproduction.*
 
 # ABSOLUT.COM PRIVACY POLICY
 
@@ -16,9 +16,21 @@ absolut.com does use "cookies". Cookies are pieces of Information passed by the 
 
 TAC will not know personally identifiable Information about you unless you voluntarily submit or e-mail such information to TAC. We also capture any other information volunteered by the user - such as the e-mail address, survey information, and/or site registration.
 
+First party cookies are used for site functionality and web analytics tools, such as Google Analytics 
+
+Third party cookies are used for Google Analytics Advertising Features
+
+The functionality used can include any of the following.
+
+Segmenting and reporting based on demographic and interest data
+
+Google AdWords Remarketing audiences based on specific behavior, demographic, and interest data
+
+Information regards Opting out from Google Analytics Advertising Features can be found at [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/)
+
 OUR USE OF YOUR INFORMATION
 
-The information we collect is stored in our databases and is used for statistical purposes and to improve the content of our Site, and to contact users for our research, for marketing purposes and for updating of our databases. TAC does not obtain personal Information about you other than that which you choose to provide, and except as noted below, we will not sell, rent, trade or otherwise disclose the personal information you provide to anyone outside of TAC. TAC also may share your Information with the following entities:
+The information we collect is stored in our databases and is used for statistical purposes and to improve the content of our Site, and to contact users for our research, for marketing purposes (newsletter, promotional emails, sign-ups, downloads etc) and for updating of our databases. TAC does not obtain personal Information about you other than that which you choose to provide, and except as noted below, we will not sell, rent, trade or otherwise disclose the personal information you provide to anyone outside of TAC. TAC also may share your Information with the following entities whom also align with this privacy policy:
 
   * TAC's affiliated companies;
   * TAC's and affiliated companies' advertising and promotional agencies and consultants;
@@ -37,7 +49,7 @@ TAC also reserves the right to share Information with other organizations in the
 
 OPT OUT POLICY AND REVIEW OF INFORMATION
 
-If you do not want to be contacted for these purposes or if you would like to obtain a copy of the personal information gathered by this site, or correct or delete such information from our site's database, you can always send us an e-mail to the following address:
+If you do not want to be contacted for these purposes or if you would like to obtain a copy of the personal information gathered by this site, or correct or delete such information from our site's database, you can always send us an e-mail to the following address:[siteinfo@absolut.se](mailto:siteinfo@absolut.se "siteinfo@absolut.se")
 
 BUSINESS TRANSFER
 
@@ -57,6 +69,6 @@ The Site may provide hypertext links to other web sites that may contain privacy
 
 HOW TO CONTACT US
 
-If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact us at [siteinfo@absolut.se](mailto:siteinfo@absolut.se)
+If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact us at siteinfo@absolut.se
 
 _Updated: 06/12/2011_
