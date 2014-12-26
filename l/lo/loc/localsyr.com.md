@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localsyr.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616043411id_/http%3A//www.localsyr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localsyr.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226205947id_/http%3A//www.localsyr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LocalSYR.com powered by NewsChannel 9 WSYR Syracuse
 
