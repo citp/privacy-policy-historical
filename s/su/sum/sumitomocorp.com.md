@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sumitomocorp.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614070257id_/http%3A//www.sumitomocorp.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumitomocorp.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226070549id_/http%3A//www.sumitomocorp.com/Privacy) for the most accurate reproduction.*
 
-# Sumitomo Corporation of America - Privacy Policy
+# Sumitomo Corporation of Americas - Privacy Policy
 
 ###  SCOA Web Site Privacy Practices TEST
 
