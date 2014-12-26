@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the mydeal.com.my privacy policy that was archived on 2014-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140619095456id_/http%3A//www.mydeal.com.my/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydeal.com.my privacy policy that was archived on 2014-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226164529id_/http%3A//www.mydeal.com.my/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="https://cdn6.vizury.com/analyze/pixel.php?account_id=VIZVRM1604"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script id="scarab-js-api" src="https://recommender.scarabresearch.com/js/18E6CD0F155D93C6/scarab-v2.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMEUlNbGwIIUFdQAwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>Privacy Policy | MyDEAL.com.my - Best Deals in Malaysia</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="x-dns-prefetch-control" content="on">
@@ -13,13 +13,13 @@
 <link rel="dns-prefetch" href="//static.mydeal.com.my">
 <link rel="shortcut icon" href="http://static.mydeal.com.my/sites/all/themes/deal_theme_v4/favicon.ico" type="image/x-icon">
 <!-- CSS aggregated by CDN module. -->
-<link type="text/css" rel="stylesheet" media="all" href="http://static.mydeal.com.my/sites/default/files/css/cdn_css_http_cf1b5f5621fd67851d2989904fbb0951.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://static.mydeal.com.my/sites/default/files/css/cdn_css_http_df4856836d62b9f295f66ac0820e51eb.css">
+<link type="text/css" rel="stylesheet" media="all" href="http://static.mydeal.com.my/sites/default/files/css/cdn_css_http_07b8e30fece5648c38c44108482f1f03.css">
+<link type="text/css" rel="stylesheet" media="print" href="http://static.mydeal.com.my/sites/default/files/css/cdn_css_http_c3dd4d8838a8af2a7ca35cdc845ba6ab.css">
 <!-- CSS aggregated by CDN module. -->
-<script type="text/javascript" src="http://static.mydeal.com.my/sites/default/files/js/js_aced7a84194a8d45d4a76b2743f3cdf4.js"></script>
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="scarab-js-api" src="https://recommender.scarabresearch.com/js/18E6CD0F155D93C6/scarab-v2.js"></script><script type="text/javascript" src="http://static.mydeal.com.my/sites/default/files/js/js_fdd10a9fa2c13ac0682507bae7195dad.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.9","overlay_color":"000","disable_close_click":0,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":true,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"zeroClipboard":{"moviePath":"sites\/all\/libraries\/zeroclipboard\/ZeroClipboard.swf","selectorsToProcess":[]},"googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackOutboundAsPageview":1},"deal_theme":{"link_to_join_block":"\u003ca href=\"\/deal_join_popup?a=node%2F391\u0026amp;setcookie=1\" id=\"deal_join_popup\" rel=\"lightmodal[|width:790px; height:800px;]\" style=\"display: none;\"\u003eJoin\u003c\/a\u003e"}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)sites\/default\/files","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.9","overlay_color":"000","disable_close_click":0,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":true,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\u003e\u003ckbd\u003ex\u003c\/kbd\u003e\u003c\/a\u003e to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0},"zeroClipboard":{"moviePath":"sites\/all\/libraries\/zeroclipboard\/ZeroClipboard.swf","selectorsToProcess":[]},"deal_theme":{"link_to_join_block":"\u003ca href=\"\/deal_join_popup?a=node%2F391\u0026amp;setcookie=1\" id=\"deal_join_popup\" rel=\"lightmodal[|width:790px; height:800px;]\" style=\"display: none;\"\u003eJoin\u003c\/a\u003e"},"googleanalytics":{"trackOutgoing":[1,1],"trackMailto":[1,1],"trackDownload":[1,1],"trackDownloadExtensions":["7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"],"trackOutboundAsPageview":[1,1]}});
 //--><!]]>
 </script>
 <script type="text/javascript">
@@ -36,10 +36,15 @@ var ScarabQueue = ScarabQueue || [];
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-$.cookie('current_city', 'kl', { path: '/' });
+ $(document).ready(function() { $.cookie('current_city', 'kl', { path: '/' }); });
 //--><!]]>
 </script>
 <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_setDomainName", ".mydeal.com.my"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+        <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
@@ -52,110 +57,40 @@ googletag.cmd = googletag.cmd || [];
   var node =document.getElementsByTagName('script')[0];
   node.parentNode.insertBefore(gads, node);
 })();
-
 //--><!]]>
 </script>
+
+
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 googletag.cmd.push(function() {
+googletag.defineSlot('/75792839/Home_Page_Middle_Leader_Board_728x90_1', [728, 90], 'gam-holder-Home_Page_Middle_Leader_Board_728x90_1').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+googletag.defineSlot('/75792839/Home_Page_Middle_Leader_Board_728x90_2', [728, 90], 'gam-holder-Home_Page_Middle_Leader_Board_728x90_2').addService(googletag.pubads()).setCollapseEmptyDiv(true);
   googletag.pubads().enableSingleRequest();
   googletag.enableServices();
 });
-
 //--><!]]>
 </script>
+ <!-- Requires for the Google Admanager -->
     </head>
     <body class="page not-front not-logged-in node-type-page no-sidebars page-privacy-policy section-privacy-policy category-all subcat-all category-all">
-                <div style="display:none;"><!--deal_tracker-->
-<!--all_visitors--><img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/984758826/?value=0&amp;label=c4SUCL6p4QMQqvTI1QM&amp;guid=ON&amp;script=0"></div>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-$(document).ready(function() {
-      var toggleAds = function(id) {
-        if ($(id +" .gam-holder").is(":visible") === false) {
-          $(id).hide();
-        }
-      }
-      setTimeout(function() {
-        toggleAds(".leader-board-wrapper");
-      }, 3000);
-      setTimeout(function() {
-        toggleAds("#deal-page-ad-block");
-      }, 3000);
-      setTimeout(function() {
-        toggleAds(".block-google_admanager");
-      }, 3000);
-    });
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-ScarabQueue.push(["view",391]);
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-ScarabQueue.push(["go"]);
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-
-        /* Start Google Website Optimizer Conversion Script code */
-        
-//--><!]]>
-</script><!-- Google Website Optimizer Tracking Script -->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['gwo._setAccount', 'UA-21141293-2']);
-  _gaq.push(['gwo._trackPageview', '/0469533343/goal']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<!-- End of Google Website Optimizer Tracking Script --><script type="text/javascript">
-<!--//--><![CDATA[//><!--
-
-        /* End Google Website Optimizer Conversion Script code */
-        
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-$(document).ready(function() {
-                       $(".sidebar_subscribe_cart").hover(
-                         function() { $(this).animate({opacity:1},200); }, 
-                         function() { $(this).animate({opacity:0.8},200); }
-                       ); 
-                     });
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function() {var _fbq = window._fbq || (window._fbq = []);if (!_fbq.loaded) {var fbds = document.createElement('script');fbds.async = true;fbds.src = '//connect.facebook.net/en_US/fbds.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(fbds, s);_fbq.loaded = true;}_fbq.push(['addPixelId', '300803783417988']);})();window._fbq = window._fbq || [];window._fbq.push(['track', 'PixelInitialized', {}]);
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var vizury_product_id=391;
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_setDomainName", ".mydeal.com.my"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
-        <div id="page-wrapper">
-            <div id="page">            
+        <div id="new_banner">
+                    <a id="imagebanner_here" href="/we-will-be-ensogo"></a>
+                  </div>        <div id="page-wrapper">
+            <div id="page">
                 <div id="blue_bg">
                     <div id="info_holder">
-                                                    <div id="logo"><a href="/" title="MyDEAL.com.my" rel="home"><img src="http://static.mydeal.com.my/sites/default/files/deal_theme_v4_logo.png" alt="MyDEAL.com.my"></a></div>
-                                                                            <div id="tabs_menu">
-                                <a href="/" id="deal_tab_active">MyDEAL.com.my</a>
-                                                            </div>
-                        
+                                                    <div id="logo"><a href="/" title="MyDEAL.com.my" rel="home"><img src="http://static.mydeal.com.my/sites/default/files/header-with-ensogo-md.png" alt="MyDEAL.com.my"></a></div>
+                                                
+                       												  <!--<div id="tabs_menu">
+							<a href="" id="deal_tab">MYDEAL.com.my</a>
+							<a href="/duriana/" id="deal_tab_duriana_select">duriana</a>
+						  </div>-->
+												  <!--<div id="tabs_menu">
+							<a href="" id="deal_tab_active">MYDEAL.com.my</a>
+							<a href="/duriana/" id="deal_tab_duriana_select">duriana</a>
+						  </div>-->
+						
                                                                             <div id="header-block"> <div class="region region-header">
   
 <div id="block-menu-menu-myaccv2-login" class="clear-block block block-menu block block-menu first region-odd odd region-count-1 count-3 ">
@@ -180,7 +115,7 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <a href="#">Contact</a>
     <span class="contact_infor" style="width:143px">
       <div class="contact_icon">&nbsp;</div>
-      <div class="phone">(+603) 2721 4925</div>
+      <div class="phone">+603 - 2604 5000</div>
       <div class="email_icon"></div><div class="email">crm@mydeal.com.my</div>
     </span>
   </li>
@@ -194,37 +129,175 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
  </div>
                                                                             <div id="fixed-area"><div class="region region-fixed-floating">
   
-<div id="block-block-34" class="clear-block block block-block block block-block first last region-odd odd region-count-1 count-11 ">
+<div id="block-block-34" class="clear-block block block-block block block-block first region-odd odd region-count-1 count-11 ">
   
   <div class="content">
     <style>
 .sidebar_subscribe_cart { position: fixed; top: 170px; right: -4px; opacity: 0.8; z-index: 100; }
 </style>
-<!--<div class="sidebar_subscribe_cart" style="top:165px"><a href="/deals/kuala-lumpur?category=604"><img src="http://static.mydeal.com.my/sites/default/files/expressdelivery_side-5-new.gif" alt="Express Delivery" title="Express Delivery"  /></a></div>-->
-
-<!--<div class="sidebar_subscribe_cart" style="top:206px"><a href="/deals/kuala-lumpur?category=healthcare"><img src="http://static.mydeal.com.my/sites/default/files/healthcare.png" alt="Health care" title="Health care"  /></a></div>-->
-<!--
-<div class="sidebar_subscribe_cart" style="top:288px"><a href="/duriana_sms_popup" rel="lightmodal[|width:790px; height:800px;]"><img src="http://static.mydeal.com.my/sites/default/files/duriana_red.png" alt="Duriana" title="Duriana"  /></a></div>
--->
 
 
+<!--<div class="sidebar_subscribe_cart" style="top:140px">
+</div>-->
 
-<!--for courts (comment out html below and comment duriana above)-->
-<!--<div class="sidebar_subscribe_cart" style="top:327px"><a href="/deals/kuala-lumpur?category=courts"><img src="http://static.mydeal.com.my/sites/default/files/courts_side-1.png" alt="Courts" title="Courts"  /></a></div>-->
+<!--<div class="sidebar_subscribe_cart" style="top:140px"></div>-->
 
-<!--<div class="sidebar_subscribe_cart" style="top:200px"><a href="/dining/kuala-lumpur?category=Top 25 Buffets"><img src="http://static.mydeal.com.my/sites/default/files/ExpressDelivery_side-1.png" alt="Top 25 Buffets" title="Top 25 Buffets"  /></a></div>-->
-
-<!--<div class="sidebar_subscribe_cart" style="top:308px"><a href="/deals/kuala-lumpur?category=JAK food sensation"><img src="http://static.mydeal.com.my/sites/default/files/jak_side-4.png" alt="JAK food sensation" title=" JAK food sensation"  /></a></div>-->
-
-<div class="sidebar_subscribe_cart" style="top:140px"><a href="/deals/kuala-lumpur?category=ending soon"><img src="http://static.mydeal.com.my/sites/default/files/ending-soon-no-blink.png" alt="Ending Soon" title="Ending Soon"></a></div>
-
-<div class="sidebar_subscribe_cart" style="top:265px"><a href="/deals/kuala-lumpur?category=beecrazy cosmetics"><img src="http://static.mydeal.com.my/sites/default/files/topbuffet_side-1_1.png" alt="beecrazy cosmetics" title="beecrazy cosmetics"></a></div>
-
-<div class="sidebar_subscribe_cart" style="top:388px"><a href="/travel/kuala-lumpur?category=Discover Malaysia"><img src="http://static.mydeal.com.my/sites/default/files/discoverm_side-1.png" alt="Discover Malaysia" title="Discover Malaysia"></a></div>
+<!--<div class="sidebar_subscribe_cart" style="top:265px"><a href="/cosmetics/kuala-lumpur"><img src="http://static.mydeal.com.my/sites/default/files/bc_beauty_care_side.png" width="43" height="131" alt="Beauty Care"></a></div>-->
 
 
 
 
+
+
+  </div>
+
+  </div> <!-- /.block -->
+
+<div id="block-block-62" class="clear-block block block-block block block-block last region-even even region-count-2 count-12 ">
+  
+  <div class="content">
+    <div class="countries">
+<div class="dropdown">
+<a href="javascript:void(0);" data-toggle="dropdown" class="dropdown-toggle">
+<img src="http://static.beecrazy.hk/sites/beecrazy_newdesign/assets/images/flag-my.png">
+<div class="cs">
+<span>Malaysia</span>
+<i class="icon-sort-down"></i>
+</div>
+</a>
+<ul class="dropdown-menu country-choices">
+<li>
+<a href="http://www.deal.com.sg" target="_blank">
+<img src="http://static.beecrazy.hk/sites/beecrazy_newdesign/assets/images/flag-sg.png">
+ <span class="cname">Singapore</span>
+</a>
+</li>
+<li>
+<a href="http://id.ensogo.com" target="_blank">
+<img src="http://static.beecrazy.hk/sites/beecrazy_newdesign/assets/images/flag-id.png">
+ <span class="cname">Indonesia</span>
+</a>
+</li>
+<li>
+<a href="http://www.ensogo.com.ph" target="_blank">
+<img src="http://static.beecrazy.hk/sites/beecrazy_newdesign/assets/images/flag-ph.png">
+ <span class="cname">Philippines</span>
+</a>
+</li>
+<li>
+<a href="http://www.beecrazy.hk" target="_blank">
+<img src="http://static.beecrazy.hk/sites/beecrazy_newdesign/assets/images/flag-hk.png">
+<span class="cname">Hong Kong</span>
+</a>
+</li>
+<li>
+<a href="http://www.ensogo.com/thailand/" target="_blank">
+<img src="http://static.beecrazy.hk/sites/beecrazy_newdesign/assets/images/flag-th.png">
+ <span class="cname">Thailand</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<style>
+.countries  .country-choices {
+    background-color: #efefef;
+    border: 0 none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    min-width: 144px;
+padding:0 0 0 12px !important;
+}
+.countries ul {
+    margin-top: 0;
+}
+.open > .dropdown-menu {
+    display: block;
+}
+.dropdown-menu {
+    background-clip: padding-box;
+    background-color: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    display: none;
+    float: left;
+    left: 0;
+    list-style: outside none none;
+    margin: 2px 0 0;
+    min-width: 160px;
+    padding: 5px 0;
+    position: absolute;
+    top: 100%;
+    z-index: 1000;
+}
+.countries .cs {
+    padding-top:15px;
+   width:155px;
+   text-align:center;
+}
+.countries .cs span{
+  float:left;
+  margin-top:-12px;
+font-size:14px;
+color:#333333;
+}
+
+.countries .highlight{
+display:block !important;
+}
+
+.dropdown-toggle img{
+float:left;
+margin:-3px 5px 0 12px;
+}
+.countries .dropdown.open .dropdown-toggle {
+    border-radius: 0;
+}
+.icon-sort-down {
+    width: 0; 
+	height: 0; 
+	border-left: 7px solid transparent;
+	border-right: 7px solid transparent;
+	border-top: 7px solid #000;
+margin-top:4px;
+}
+.countries .dropdown-toggle {
+   background: none repeat scroll 0 0 #efefef;
+    float: left;
+    height: 27px;
+    margin-right: 7px;
+    text-align: center;
+}
+.dropdown-toggle:active, .open .dropdown-toggle {
+    outline: 0 none;
+}
+#block-block-62{
+  position: absolute;
+    right: 0;
+    top: -28px;
+    z-index: 100;
+padding-bottom:0px;
+}
+.country-choices li a {
+    font-size: 14px;
+}
+.country-choices li a img{
+float:left;
+}
+.country-choices li a span{
+float:left;
+margin:6px 0 0 6px;
+}
+.dropdown-menu > li > a {
+    clear: both;
+    color: #333333;
+    display: block;
+    font-weight: normal;
+    line-height: 20px;
+    white-space: nowrap;
+}
+</style>
   </div>
 
   </div> <!-- /.block -->
@@ -247,19 +320,36 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
 <div id="block-deal_global_menu-0" class="clear-block block block-deal_global_menu block block-deal_global_menu first last region-odd even region-count-1 count-2 ">
   
   <div class="content">
-    <ul class="deal-categories-menu"><li class="deals first"><a href="/deals/kuala-lumpur"><div class="category-icon"></div>Deals&nbsp;<span class="parent-category-item-count">483</span></a></li>
-<li class="travel"><a href="/travel/kuala-lumpur"><div class="category-icon"></div>Travel&nbsp;<span class="parent-category-item-count">46</span></a></li>
-<li class="products"><a href="/products/kuala-lumpur"><div class="category-icon"></div>Products&nbsp;<span class="parent-category-item-count">255</span></a></li>
-<li class="dining"><a href="/dining/kuala-lumpur"><div class="category-icon"></div>Dining&nbsp;<span class="parent-category-item-count">69</span></a></li>
-<li class="beecrazy-luxury last"><a href="/luxury/kuala-lumpur"><div class="category-icon"></div>D' Luxe&nbsp;<span class="parent-category-item-count">893</span></a></li>
-</ul><ul class="deal-sub-categories-menu deal-sub-categories-menu-deals"><li class="bestsellers first"><a href="/deals/kuala-lumpur?category=bestsellers" class=""><div class="category-icon"></div>Bestsellers <span class="category-item-count">(71)</span></a></li>
-<li class="newdeals"><a href="/deals/kuala-lumpur?category=new%20deals" class=""><div class="category-icon"></div>New Deals <span class="category-item-count">(71)</span></a></li>
-<li class="fillerproducts"><a href="/deals/kuala-lumpur?category=products" class="">Products <span class="category-item-count">(255)</span></a></li>
-<li class="wellness"><a href="/deals/kuala-lumpur?category=wellness" class=""><div class="category-icon"></div>Wellness <span class="category-item-count">(65)</span></a></li>
-<li class="activities"><a href="/deals/kuala-lumpur?category=activities" class=""><div class="category-icon"></div>Activities <span class="category-item-count">(48)</span></a></li>
-<li class="top25buffets"><a href="/deals/kuala-lumpur?category=top%2025%20buffets" class=""><div class="category-icon"></div>Top 25 Buffets <span class="category-item-count">(27)</span></a></li>
-<li class="expressdelivery"><a href="/deals/kuala-lumpur?category=604" class=""><div class="category-icon"></div>Express Delivery</a></li>
-<li class="vanityfair last"><a href="/vanity-fair/kuala-lumpur" class=""><div class="category-icon"></div>Vanity Fair <span class="category-item-count">(54)</span></a></li>
+    <ul class="deal-categories-menu"><li class="deals first"><a href="/deals/kuala-lumpur"><div class="category-icon"></div>Deals&nbsp;<span class="parent-category-item-count">326</span></a></li>
+<li class="travel"><a href="/travel/kuala-lumpur"><div class="category-icon"></div>Travel&nbsp;<span class="parent-category-item-count">5</span></a></li>
+<li class="products"><a href="/products/kuala-lumpur"><div class="category-icon"></div>Products&nbsp;<span class="parent-category-item-count">634</span></a></li>
+<li class="dining"><a href="/dining/kuala-lumpur"><div class="category-icon"></div>Dining&nbsp;<span class="parent-category-item-count">21</span></a></li>
+<li class="brands"><a href="/brands/kuala-lumpur"><div class="category-icon"></div>Clearance&nbsp;<span class="parent-category-item-count">0</span></a></li>
+<li class="beecrazy-luxury last"><a href="/luxury/kuala-lumpur"><div class="category-icon"></div>D' Luxe&nbsp;<span class="parent-category-item-count">4876</span></a></li>
+</ul><ul class="deal-sub-categories-menu deal-sub-categories-menu-deals"><li class="bestsellers first"><a href="/deals/kuala-lumpur?category=bestsellers" class="term-bestsellers"><div class="category-icon"></div>Bestsellers <span class="category-item-count">(11)</span></a></li>
+<li class="newdeals"><a href="/deals/kuala-lumpur?category=new%20deals" class="term-newdeals"><div class="category-icon"></div>New Deals <span class="category-item-count">(37)</span></a></li>
+<li class="products"><a href="/products/kuala-lumpur?category=products" class="term-products"><div class="category-icon"></div>Products <span class="category-item-count">(237)</span></a><ul class="deal-sub-sub-categories-dropdown-menu deal-sub-sub-categories-dropdown-menu-products"><li class="watchgallery first"><a href="/deals/kuala-lumpur?category=699" class="term-watchgallery"><div class="sub-category-icon"></div>Watch Gallery</a></li>
+<li class="homeliving"><a href="/deals/kuala-lumpur?category=82" class="term-homeliving"><div class="sub-category-icon"></div>HomeLiving</a></li>
+<li class="fashion"><a href="/deals/kuala-lumpur?category=85" class="term-fashion"><div class="sub-category-icon"></div>Fashion</a></li>
+<li class="healthbeauty"><a href="/deals/kuala-lumpur?category=84" class="term-healthbeauty"><div class="sub-category-icon"></div>HealthBeauty</a></li>
+<li class="toysbabycare"><a href="/deals/kuala-lumpur?category=273" class="term-toysbabycare"><div class="sub-category-icon"></div>ToysBabycare</a></li>
+<li class="electronics"><a href="/deals/kuala-lumpur?category=83" class="term-electronics"><div class="sub-category-icon"></div>Electronics</a></li>
+<li class="beecrazycosmetics last"><a href="/deals/kuala-lumpur?category=607" class="term-beecrazycosmetics">Cosmetics</a></li>
+</ul></li>
+<li class="wellness"><a href="/deals/kuala-lumpur?category=wellness" class="term-wellness"><div class="category-icon"></div>Wellness <span class="category-item-count">(33)</span></a><ul class="deal-sub-sub-categories-dropdown-menu deal-sub-sub-categories-dropdown-menu-wellness"><li class="make-uphairdressing first"><a href="/deals/kuala-lumpur?category=707" class="term-make-uphairdressing"><div class="sub-category-icon"></div>Make-Up &amp; Hair Dressing</a></li>
+<li class="manicureandpedicure"><a href="/deals/kuala-lumpur?category=708" class="term-manicureandpedicure"><div class="sub-category-icon"></div>Manicure and Pedicure</a></li>
+<li class="skinandfacialcare"><a href="/deals/kuala-lumpur?category=709" class="term-skinandfacialcare"><div class="sub-category-icon"></div>Skin and Facial Care</a></li>
+<li class="spaandmassage"><a href="/deals/kuala-lumpur?category=706" class="term-spaandmassage"><div class="sub-category-icon"></div>Spa and Massage</a></li>
+<li class="weightlossandslimming last"><a href="/deals/kuala-lumpur?category=710" class="term-weightlossandslimming"><div class="sub-category-icon"></div>Weight Loss and Slimming</a></li>
+</ul></li>
+<li class="activities"><a href="/deals/kuala-lumpur?category=activities" class="term-activities"><div class="category-icon"></div>Activities <span class="category-item-count">(20)</span></a><ul class="deal-sub-sub-categories-dropdown-menu deal-sub-sub-categories-dropdown-menu-activities"><li class="entertainment first"><a href="/deals/kuala-lumpur?category=711" class="term-entertainment"><div class="sub-category-icon"></div>Entertainment</a></li>
+<li class="learnings"><a href="/deals/kuala-lumpur?category=712" class="term-learnings"><div class="sub-category-icon"></div>Learnings</a></li>
+<li class="services"><a href="/deals/kuala-lumpur?category=713" class="term-services"><div class="sub-category-icon"></div>Services</a></li>
+<li class="fitness last"><a href="/deals/kuala-lumpur?category=66" class="term-fitness"><div class="sub-category-icon"></div>Fitness</a></li>
+</ul></li>
+<li class="smartphones"><a href="/deals/kuala-lumpur?category=smartphones" class="term-smartphones"><div class="category-icon"></div>Smartphones <span class="category-item-count">(14)</span></a></li>
+<li class="bestof2014"><a href="/deals/kuala-lumpur?category=best%20of%202014" class="term-bestof2014"><div class="category-icon"></div>Best of 2014 <span class="category-item-count">(0)</span></a></li>
+<li class="mrloo last"><a href="/deals/kuala-lumpur?category=mr%20loo" class="term-mrloo"><div class="category-icon"></div>Penang/Johor</a></li>
 </ul>  </div>
 
   </div> <!-- /.block -->
@@ -387,7 +477,7 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
   <div class="c">
     
     <div class="content">
-      <div class="views_view view view-side-deal-v2 view-id-side_deal_v2 view-display-id-block_1 view-dom-id-2">
+      <div class="views_view view view-side-deal-v2 view-id-side_deal_v2 view-display-id-block_1 view-dom-id-1">
   
   
   
@@ -397,19 +487,19 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-1 views-row-odd views-row-first">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/photobook-vouchers-photobookmartcommy-delivery-self-collection-available-0"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/deal_main_images/phbkmrt-0_0.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm12-rm20-cash-voucher-enjoy-famous-american-burger-franchise-signature-whop"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/BK-00 copy.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/photobook-vouchers-photobookmartcommy-delivery-self-collection-available-0">Photobook Vouchers from Photobookmart.com.my - Delivery &amp; Self-collection Available</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm12-rm20-cash-voucher-enjoy-famous-american-burger-franchise-signature-whop">Only RM12 for RM20 Cash Voucher - Enjoy the Famous American burger franchise with signature WHOPPER® burgers, delicious chicken/beef burgers, hearty sandwiches &amp; sweet desserts (Valid for Food &amp; Drinks; Valid Daily) by Burger King® [48 outlets nationwide]</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
-                <span class="field-content">Save 100%</span>
+                <span class="field-content">Save 40%</span>
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/photobook-vouchers-photobookmartcommy-delivery-self-collection-available-0">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm12-rm20-cash-voucher-enjoy-famous-american-burger-franchise-signature-whop">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -418,19 +508,19 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-2 views-row-even">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm6-worth-rm10-cash-voucher-san-francisco-coffee-31-outlets-available"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/SFC.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm5-rm10-rm9-rm20-cash-voucher-food-daiki-kaf-valid-daily-pork-free-kajang"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/deal_main_images/daikimydeal.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm6-worth-rm10-cash-voucher-san-francisco-coffee-31-outlets-available">Only RM6 (worth RM10) of Cash Voucher at San Francisco Coffee (31 outlets available)</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm5-rm10-rm9-rm20-cash-voucher-food-daiki-kaf-valid-daily-pork-free-kajang">RM5 for RM10 / RM9 for RM20 Cash Voucher for Food by Daiki Kafé  (Valid Daily, Pork-free) (Kajang)</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
-                <span class="field-content">Save 40%</span>
+                <span class="field-content">Save 50%</span>
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm6-worth-rm10-cash-voucher-san-francisco-coffee-31-outlets-available">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm5-rm10-rm9-rm20-cash-voucher-food-daiki-kaf-valid-daily-pork-free-kajang">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -439,19 +529,19 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-3 views-row-odd">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm37-instead-rm6040-kfc-mydeal-sogood-meal-vouchers-delivery-self-collection"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/deal_main_images/KFGooda_0.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm12-rm20-rm22-rm40-cash-voucher-food-aroy-nae-non-scott-garden"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/mdAroy-Nae-Non1.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm37-instead-rm6040-kfc-mydeal-sogood-meal-vouchers-delivery-self-collection">Only RM37 instead of RM60.40 for KFC &amp; MyDEAL sogood® Meal Vouchers - Delivery &amp; Self-collection of Vouchers Available</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm12-rm20-rm22-rm40-cash-voucher-food-aroy-nae-non-scott-garden">RM12 for RM20 / RM22 for RM40 Cash Voucher for Food by Aroy Nae Non, Scott Garden</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
-                <span class="field-content">Save 39%</span>
+                <span class="field-content">Save 40%</span>
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm37-instead-rm6040-kfc-mydeal-sogood-meal-vouchers-delivery-self-collection">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm12-rm20-rm22-rm40-cash-voucher-food-aroy-nae-non-scott-garden">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -460,19 +550,19 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-4 views-row-even">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/rm0-10-mydeal-credits-download-duriana-app-stand-chance-win-10-mydeal-credits-50-"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/Daily-Deals-MY.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-rm20-cash-voucher-food-drinks-serves-homemade-noodles-dumplings-steamboat-pl"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/InnerMongolia-00.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/rm0-10-mydeal-credits-download-duriana-app-stand-chance-win-10-mydeal-credits-50-">RM0 for 10 MyDEAL credits! Download the Duriana app &amp; Stand a Chance to Win 10 MyDEAL credits – 50 packages to be won</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-rm20-cash-voucher-food-drinks-serves-homemade-noodles-dumplings-steamboat-pl">RM10 for RM20 Cash Voucher for Food &amp; Drinks - Serves Homemade Noodles, Dumplings, Steamboat Platter, Pork Bellies, Beef Tendens &amp; more (Non-Halal, No Reservations Required) by Inner Mongolia Restaurant (Kuchai Lama)</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
-                <span class="field-content">Save 100%</span>
+                <span class="field-content">Save 50%</span>
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/rm0-10-mydeal-credits-download-duriana-app-stand-chance-win-10-mydeal-credits-50-">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-rm20-cash-voucher-food-drinks-serves-homemade-noodles-dumplings-steamboat-pl">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -481,19 +571,19 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-5 views-row-odd">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/we-are-hiring-join-mydeal-family-0"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/MAIN BANNER EDIT.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-hokkaido-cake-kings-confectionary-available-20-outlets"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/deal_main_images/kings.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/we-are-hiring-join-mydeal-family-0">We Are Hiring! Join the MyDEAL Family!</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-hokkaido-cake-kings-confectionary-available-20-outlets">RM10 for 1 box (6pcs) OR RM19 for 2 boxes (12pcs) for Hokkaido Cake at King's Confectionary (available at 20 outlets)</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
-                <span class="field-content">Save 0%</span>
+                <span class="field-content">Save 33%</span>
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/we-are-hiring-join-mydeal-family-0">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-hokkaido-cake-kings-confectionary-available-20-outlets">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -502,19 +592,19 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-6 views-row-even">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/2-mbo-cinemas-movie-tickets-2-large-drinks-1-large-popcorn-2"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/deal_main_images/mbocinemas-mainbanner-1.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm18-rm30-cash-voucher-food-drinks-serves-heritage-nasi-lemak-king-combo-char-koa"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/heritage_0.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/2-mbo-cinemas-movie-tickets-2-large-drinks-1-large-popcorn-2">2 MBO Cinemas Movie Tickets with 2 Large Drinks &amp; 1 Large Popcorn</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm18-rm30-cash-voucher-food-drinks-serves-heritage-nasi-lemak-king-combo-char-koa">RM18 for RM30 Cash Voucher for Food &amp; Drinks (Serves Heritage Nasi Lemak King Combo, Char Koay Teow, Heritage Assam Laksa &amp; More) (Valid Daily; Unlimited vouchers can combined; Halal; No Reservations) by Heritage Village Nyonya Food (Jaya Shopping Centre)</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
-                <span class="field-content">Save 35%</span>
+                <span class="field-content">Save 40%</span>
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/2-mbo-cinemas-movie-tickets-2-large-drinks-1-large-popcorn-2">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm18-rm30-cash-voucher-food-drinks-serves-heritage-nasi-lemak-king-combo-char-koa">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -523,19 +613,19 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-7 views-row-odd">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm45-international-buffet-dinner-4-star-hotel-armada-petaling-jaya"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/hotelarmadaLS.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-rm20-cash-voucher-drinks-iced-coffee-teh-tarik-fruit-punch-more-valid-daily-"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/mdThat-Foodie-Placenu.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm45-international-buffet-dinner-4-star-hotel-armada-petaling-jaya">Only RM45 for International Buffet Dinner at 4-Star Hotel Armada, Petaling Jaya</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-rm20-cash-voucher-drinks-iced-coffee-teh-tarik-fruit-punch-more-valid-daily-">RM10 for RM20 Cash Voucher for Drinks (That Iced Coffee, That Teh Tarik, Fruit Punch &amp; More) (Valid Daily) by That Foodie Place at Midvalley Megamall</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
-                <span class="field-content">Save 35%</span>
+                <span class="field-content">Save 50%</span>
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/only-rm45-international-buffet-dinner-4-star-hotel-armada-petaling-jaya">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-rm20-cash-voucher-drinks-iced-coffee-teh-tarik-fruit-punch-more-valid-daily-">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -544,11 +634,11 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-8 views-row-even">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/50-rm20-cash-voucher-rm10-pak-hailam-kopitiam-available-3-locations-1"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/hailamkopitiam.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/lunch-dinner-japanese-buffet-1pax-shogun-saisaki-healthy-japanese-buffet-3-outlet"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/GrandSaisaki-0EE-000eoo.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/50-rm20-cash-voucher-rm10-pak-hailam-kopitiam-available-3-locations-1">RM20 Cash Voucher for RM10 at Hailam Kopitiam, Sri Petaling</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/lunch-dinner-japanese-buffet-1pax-shogun-saisaki-healthy-japanese-buffet-3-outlet">Lunch / Dinner Japanese Buffet: 1Pax by SHOGUN™ &amp; SAISAKI™ Healthy Japanese Buffet (3 Outlets)</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
@@ -556,7 +646,7 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/50-rm20-cash-voucher-rm10-pak-hailam-kopitiam-available-3-locations-1">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/lunch-dinner-japanese-buffet-1pax-shogun-saisaki-healthy-japanese-buffet-3-outlet">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -565,11 +655,11 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-9 views-row-odd">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/rm6-steamboat-grill-buffet-available-adults-children-senior-citizens-mak-engku-st"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/makengku.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-rm20-rm20-rm40-cash-voucher-liquid-nitrogen-ice-cream-ooh-my-gas-gardens-mal"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/Magnifique-00.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/rm6-steamboat-grill-buffet-available-adults-children-senior-citizens-mak-engku-st">From RM6 for Steamboat &amp; Grill Buffet - Available for Adults, Children &amp; Senior Citizens at Mak Engku Steamboat &amp; Grill, Kuala Selangor</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-rm20-rm20-rm40-cash-voucher-liquid-nitrogen-ice-cream-ooh-my-gas-gardens-mal">RM10 for RM20 / RM20 for RM40 Cash Voucher for Liquid Nitrogen Ice Cream by Ooh My Gas (The Gardens Mall &amp; Pavilion)</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
@@ -577,7 +667,7 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/rm6-steamboat-grill-buffet-available-adults-children-senior-citizens-mak-engku-st">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/rm10-rm20-rm20-rm40-cash-voucher-liquid-nitrogen-ice-cream-ooh-my-gas-gardens-mal">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -586,19 +676,19 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-10 views-row-even">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/Only-RM75-Seafood-Buffet-Dinner-at-Chatz-Brasserie-Parkroyal"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/ChatzBrasserie-PARKROYAL-MAIN.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/3-day-delivery-magnetic-slimming-earrings"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/Magnetic-Earring-mainbanner.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/Only-RM75-Seafood-Buffet-Dinner-at-Chatz-Brasserie-Parkroyal">Only RM75 for Seafood Buffet Dinner (over 100 choices) at Chatz Brasserie @ PARKROYAL Kuala Lumpur</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/3-day-delivery-magnetic-slimming-earrings">7-Day Delivery: Magnetic Slimming Earrings</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
-                <span class="field-content">Save 35%</span>
+                <span class="field-content">Save 76%</span>
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/Only-RM75-Seafood-Buffet-Dinner-at-Chatz-Brasserie-Parkroyal">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/3-day-delivery-magnetic-slimming-earrings">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -607,19 +697,19 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-11 views-row-odd">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/express-delivery-mng-bags-frenzy-available-3-designs"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/mngfrenzy.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/3-day-delivery-toshiba-primo-business-carrying-case-0"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/Toshiba Primo Business Carrying Case.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/express-delivery-mng-bags-frenzy-available-3-designs">Express Delivery! MNG Bags Frenzy (available in 3 designs)</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/3-day-delivery-toshiba-primo-business-carrying-case-0">7-Day Delivery: Toshiba Primo Business Carrying Case</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
-                <span class="field-content">Save 69%</span>
+                <span class="field-content">Save 75%</span>
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/express-delivery-mng-bags-frenzy-available-3-designs">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/3-day-delivery-toshiba-primo-business-carrying-case-0">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -628,19 +718,19 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
     <div class="views-row views-row-12 views-row-even views-row-last">
         
   <div class="views-field-field-image-fid">
-                <span class="field-content"><a href="/deals/kuala-lumpur/rm8-entrance-ticket-child-or-adult-zoo-negara-ampang"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/zoonegara.jpg" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/super-soft-fluffy-rug-includes-delivery"><img src="http://static.mydeal.com.my/sites/default/files/imagecache/product_sidedeal_v2/Best-of-MD24.png" alt="" title="" width="204" height="108" class="imagecache imagecache-product_sidedeal_v2 imagecache-default imagecache-product_sidedeal_v2_default"></a></span>
   </div>
   
   <div class="views-field-title">
-                <span class="field-content"><a href="/deals/kuala-lumpur/rm8-entrance-ticket-child-or-adult-zoo-negara-ampang">1 Child (RM8) / 1 Adult (RM25) Entrance Ticket To Zoo Negara, Ampang</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/super-soft-fluffy-rug-includes-delivery">7-Day Delivery: Super Soft Fluffy Rug</a></span>
   </div>
   
   <div class="views-field-field-discount-value">
-                <span class="field-content">Save 20%</span>
+                <span class="field-content">Save 44%</span>
   </div>
   
   <div class="views-field-view-node">
-                <span class="field-content"><a href="/deals/kuala-lumpur/rm8-entrance-ticket-child-or-adult-zoo-negara-ampang">VIEW</a></span>
+                <span class="field-content"><a href="/deals/kuala-lumpur/super-soft-fluffy-rug-includes-delivery">VIEW</a></span>
   </div>
     </div>
     <div id="small_shadow_v"></div>
@@ -673,14 +763,25 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
                         <div id="footer-wrapper">
                             <div id="footer-wrapper-2"> <div class="region region-footer">
   
-<div id="block-block-14" class="clear-block block block-block block block-block first region-odd odd region-count-1 count-5 ">
+<div id="block-block-40" class="clear-block block block-block block block-block first region-odd odd region-count-1 count-5 ">
+  
+  <div class="content">
+    <!-- crazyegg -->
+
+
+
+  </div>
+
+  </div> <!-- /.block -->
+
+<div id="block-block-14" class="clear-block block block-block block block-block region-even even region-count-2 count-6 ">
   
   <div class="content">
     <table align="left" border="0" cellpadding="30" cellspacing="0" style="margin: 0 40px;">
     <tbody>
         <tr>
             <td style="width: 320px;">
-                  <div><img src="http://static.mydeal.com.my/sites/default/files/footer-logo-01.png" alt="MyDEAL.com.my" title="MyDEAL.com.my"></div>
+                  <div><img src="http://static.mydeal.com.my/sites/default/files/footer-logo-01.png" width="211" height="57" alt="MyDEAL.com.my"></div>
                   <div style="font: normal 10px 'Trebuchet MS'; padding: 5px 0 0 5px;margin-top:-15px;"> MYDEAL.com.my. All Rights Reserved.</div>
             <br>
                  <div class="followus">
@@ -702,7 +803,8 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
 <li class="leaf"><a href="/jobs" title="">Jobs</a></li>
 <li class="leaf"><a href="/corporate-identity-logos" title="">Corporate Identity</a></li>
 <li class="leaf last"><a href="/refunds-policy" title="">Refunds Policy</a></li>
-</ul>            </td>
+</ul>                 <a href="http://www.ensogo.com/?r=0" target="_blank" style="float:left;margin-top:4px">Change country</a>
+            </td>
             <td>
                  <div style="font-size: 15px; text-transform: uppercase; padding-bottom: 20px;">More</div>
                  <ul class="menu"><li class="leaf first"><a href="/how_it_works" title="">How it works</a></li>
@@ -712,7 +814,8 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
 <li class="leaf"><a href="/affiliate/affiliates" title="">Affiliates</a></li>
 <li class="leaf"><a href="/suggest_deal" title="">Suggest a business</a></li>
 <li class="leaf last"><a href="/mydeal_rewards_programme" title="Earning Points and Using Rewards">MyDEAL Rewards</a></li>
-</ul>            </td>
+</ul>                
+             </td>
             <td>&nbsp;</td>
         </tr>
         <tr>
@@ -723,17 +826,6 @@ var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-21141293-1"]);_gaq.push(["_s
         </tr>
     </tbody>
 </table>  </div>
-
-  </div> <!-- /.block -->
-
-<div id="block-block-40" class="clear-block block block-block block block-block region-even even region-count-2 count-6 ">
-  
-  <div class="content">
-    <!-- crazyegg -->
-
-
-
-  </div>
 
   </div> <!-- /.block -->
 
@@ -761,50 +853,10 @@ var google_remarketing_only = true;
 
   </div> <!-- /.block -->
 
-<div id="block-block-50" class="clear-block block block-block block block-block region-even even region-count-4 count-8 ">
-  
-  <div class="content">
-    <script type="text/javascript">
-(function() {
-    try {
-        var viz = document.createElement("script");
-        viz.type = "text/javascript";
-        viz.async = true;
-        viz.src = ("https:" == document.location.protocol ?"https://cdn6.vizury.com" : "http://cdn6.vizury.com")+ "/analyze/pixel.php?account_id=VIZVRM1604";
-
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(viz, s);
-        viz.onload = function() {
-            try {
-                pixel.parse();
-            } catch (i) {
-            }
-        };
-        viz.onreadystatechange = function() {
-            if (viz.readyState == "complete" || viz.readyState == "loaded") {
-                try {
-                    pixel.parse();
-                } catch (i) {
-                }
-            }
-        };
-    } catch (i) {
-    }
-})();
-</script>
-  </div>
-
-  </div> <!-- /.block -->
-
-<div id="block-block-54" class="clear-block block block-block block block-block last region-odd odd region-count-5 count-9 ">
+<div id="block-block-54" class="clear-block block block-block block block-block region-even even region-count-4 count-8 ">
   
   <div class="content">
     <style type="text/css">
-
-.category-vanity_fair #main-wrapper-2, .page-vanity-fair-kuala-lumpur #main-wrapper-2{
-background: url("http://static.mydeal.com.my/sites/all/themes/deal_theme_v4/images/layout/backdrop/md-vf-uiwrap.jpg") no-repeat fixed center top rgba(0, 0, 0, 0) !important;
-}
-
 #content-top-area .block .deal-sub-categories-menu li.fashion a, #content-top-area .block .deal-sub-categories-menu li.fashion a:hover{
 width:117px !important;
 }
@@ -816,7 +868,58 @@ right:33px;
 .webkit #block-deal-deal-criteria-filters{
 right:35px;
 }
+
+.page-deals-kuala-lumpur-rm38-2hr-full-body-aromatherapy-massage-foot-spa-full-body-sea-salt-scrub-herbal- #main-wrapper-2{
+background:none !important;
+}
+
+.category-ramadhan_buffet .deal-content,
+.category-rayaholiday .deal-content{
+width:1020px;
+}
+
+.page-cosmetics-kuala-lumpur  .content-text,
+.page-cosmetics-kuala-lumpur #content-left-area{
+background:none !important;
+}
+
+.deal-sub-categories-menu-products li.all{
+display:none;
+}
+
+.category-vanity_fair #main-wrapper-2, .page-vanity-fair-kuala-lumpur #main-wrapper-2{
+background:none !important;
+}
+
 </style>  </div>
+
+  </div> <!-- /.block -->
+
+<div id="block-block-63" class="clear-block block block-block block block-block last region-odd odd region-count-5 count-9 ">
+  
+  <div class="content">
+    <script>
+jQuery(document).ready(function(){
+  jQuery( ".icon-sort-down" ).click(function() {
+    jQuery(this).parents(".dropdown").find(".dropdown-menu").toggleClass("highlight");
+  });
+
+jQuery("#main, #new_banner").click(function(){
+  if(jQuery(".dropdown-menu").hasClass("highlight")){
+    jQuery(".dropdown-menu").removeClass("highlight");
+  }
+})
+
+jQuery("#block-block-62").click(function(){
+  if(jQuery(".dropdown-menu").hasClass("highlight")){
+      jQuery(".dropdown-menu").removeClass("highlight");
+  }else{
+    jQuery(".dropdown-menu").addClass("highlight");
+  }
+})
+
+});
+</script>  </div>
 
   </div> <!-- /.block -->
   <div style="clear: both; font-size: 0;"></div>
@@ -837,8 +940,8 @@ right:35px;
   <div class="content">
     <script type="text/javascript"><!--
 document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + 
-"www.mydeal.com.my/affiliate/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
-</script><script id="pap_x2s6df8d" src="https://www.mydeal.com.my/affiliate/scripts/trackjs.js" type="text/javascript"></script>
+"affiliate.mydeal.com.my/affiliate/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));//-->
+</script><script id="pap_x2s6df8d" src="https://affiliate.mydeal.com.my/affiliate/scripts/trackjs.js" type="text/javascript"></script>
 <script type="text/javascript"><!--
 try {
 PostAffTracker.track();
@@ -849,6 +952,81 @@ PostAffTracker.track();
   </div> <!-- /.block -->
   <div style="clear: both; font-size: 0;"></div>
 </div><!-- /.region -->
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"08365fa403","applicationID":"1846247","transactionName":"NV0GMhBYVkAAAhddCQwXJQUWUFddTgUGVQo9VgsCBw==","queueTime":0,"applicationTime":414,"ttGuid":"","agentToken":"","atts":"GRoFRFhCRU4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+  <div style="display:none;"><!--deal_tracker-->
+<!--alexa_certify_code--><script type="text/javascript">_atrk_opts = { atrk_acct:"72+/j1acFH00iR", domain:"mydeal.com.my",dynamic: true};(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=72+/j1acFH00iR" style="display:none" height="1" width="1" alt="" /></noscript>
+<!--all_visitors--><img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/984758826/?value=0&amp;label=c4SUCL6p4QMQqvTI1QM&amp;guid=ON&amp;script=0"></div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function() {
+      var toggleAds = function(id) {
+        if ($(id +" .gam-holder").is(":visible") === false) {
+          $(id).hide();
+        }
+      }
+      setTimeout(function() {
+        toggleAds(".leader-board-wrapper-1");
+      }, 3000);
+      setTimeout(function() {
+        toggleAds(".leader-board-wrapper-2");
+      }, 3000);
+      setTimeout(function() {
+        toggleAds("#deal-page-ad-block");
+      }, 3000);
+      setTimeout(function() {
+        toggleAds(".block-google_admanager");
+      }, 3000);
+    });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ScarabQueue.push(["view",391]);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ScarabQueue.push(["go"]);
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+        /* Start Google Website Optimizer Conversion Script code */
+        
+//--><!]]>
+</script><!-- Google Website Optimizer Tracking Script -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['gwo._setAccount', 'UA-21141293-2']);
+  _gaq.push(['gwo._trackPageview', '/0469533343/goal']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End of Google Website Optimizer Tracking Script --><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+        /* End Google Website Optimizer Conversion Script code */
+        
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function() {
+                       $(".sidebar_subscribe_cart").hover(
+                         function() { $(this).animate({opacity:1},200); }, 
+                         function() { $(this).animate({opacity:0.8},200); }
+                       ); 
+                     });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function() {var _fbq = window._fbq || (window._fbq = []);if (!_fbq.loaded) {var fbds = document.createElement('script');fbds.async = true;fbds.src = '//connect.facebook.net/en_US/fbds.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(fbds, s);_fbq.loaded = true;}_fbq.push(['addPixelId', '300803783417988']);})();window._fbq = window._fbq || [];window._fbq.push(['track', 'PixelInitialized', {}]);
+//--><!]]>
+</script>
+    
+
+</body></html>
