@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buycostumes.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034735id_/http%3A//www.buycostumes.com/info/21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycostumes.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226032119id_/http%3A//www.buycostumes.com/info/21) for the most accurate reproduction.*
 
 # Halloween Costumes, Kids & Adult Halloween Costume Ideas | BuyCostumes.com
 
@@ -12,7 +12,7 @@ Follow the instructions below to remove yourself from any of our mailing lists:
 
   * ##### Our Email lists
 
-On our [email subscription page](https://web.archive.org/profile/emailsubscription), enter in your email and select the "I do not wish to receive any e-mails from BuyCostumes.com" option.
+On our [email subscription page](https://web.archive.org/profile/footeroremailsub), enter in your email and select the "Unsubscribe" option.
 
   * ##### Our Catalog mailing lists
 
@@ -68,7 +68,7 @@ If you are a resident of California, in addition to the rights set forth above, 
 
 
 
-We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [service@buycostumes.com](mailto:service@buycostumes.com). 
+We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [service@buycostumes.com](mailto:service@buycostumes.com).
 
 This Policy was last changed on February 21, 2012 with an effective date of February 26, 2012. If we make changes to any terms or conditions of the Policy, the changes will be posted on this portion of the Site so that you will always know what information we gather, how we might use that information, to whom we will disclose it and what choices you have. Any change, modification, addition or removal of portions of this Policy will be announced on our Site and/or via email at least five (5) business days before it is implemented. Please be sure to check this page before proceeding to use any of our Sites. 
 
