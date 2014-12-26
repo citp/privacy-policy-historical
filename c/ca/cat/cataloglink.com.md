@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cataloglink.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626194249id_/http%3A//www.shop.com/AboutPrivacyPolicy-t.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloglink.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226073426id_/http%3A//www.shop.com/AboutPrivacyPolicy-t.xhtml) for the most accurate reproduction.*
 
 # Privacy Policy | SHOP.COM
 
@@ -7,6 +7,8 @@
 SHOP MA, Inc. and its family of sites, www.shop.com, uk.shop.com, ca.shop.com, au.shop.com, mx.shop.com, es.shop.com and www.shopcompanion.com (individually and collectively the "Site") is dedicated to protecting the privacy of our valued online customers (and has been since 1997). We created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information.
 
 Our mission is to provide the most compelling shopping experience for our customers. We want you to feel safe while visiting the Site.
+
+Third party Information. We may permit web analytics and other providers to collect and process information on our websites using the technologies described above. Some of these providers have information about you, including personal information, demographic information and interest reports. They may share this information with us and we may share your personal information with them. Third Party Information helps us to enhance and personalize our interactions with you so that the information you receive is more relevant to you. We use third party information for behavioral advertising, which allows us to predict your preferences and to show you ads and send you e-mails that are more likely to interest you.
 
 This Privacy Policy outlines some of the types of personal information we receive and collect, and how we use that information. We hope this Privacy Policy will help you make an informed decision about sharing your personal information with us.
 
