@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jimbakkershow.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090351id_/https%3A//jimbakkershow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimbakkershow.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226061449id_/http%3A//jimbakkershow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jim Bakker Show
+# Privacy Policy on Jim Bakker Show
 
 * * *
 
