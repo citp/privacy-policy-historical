@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vonagebusiness.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625011909id_/http%3A//www.vonagebusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonagebusiness.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226202815id_/http%3A//www.vonagebusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vonage Business Solutions (Vocalocity)
 
 ## Scope of This Notice
 
-This Privacy Policy is to inform you of Vonage Business Solutions’ (formerly Vocalocity) privacy practices and provide information about the ways in which information collected by Vonage is used and disclosed.
+This Privacy Policy is to inform you of Vonage Business Solutions’ privacy practices and provide information about the ways in which information collected by Vonage is used and disclosed.
 
 ## Our Commitment to Privacy
 
