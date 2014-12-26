@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axeapollo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626183022id_/http%3A//www.unileverprivacypolicy.com/en_gb/policy.aspx%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axeapollo.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227003312id_/http%3A//www.unileverprivacypolicy.com/en_gb/policy.aspx%3F) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,44 +79,23 @@ We (and third party service providers acting on our behalf) use cookies and othe
     * your user name, profile picture, gender, networks and any other information you choose to share when using Third Party Sites (such as when you use the “Like” functionality on Facebook or the +1 functionality on Google+)
     * the websites you visited before arriving at a Unilever Site
 
-(collectively "Site Information")
-
-Most internet browsers are initially set up to accept cookies. You can change the settings to block cookies or to alert you when cookies are being sent to your device.  If you use different browsers, or use multiple devices, you may need to change the settings for each browser on each device.  However, please note that if you disable the cookies, this may impact your experience on Unilever Sites.
-
-[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)[ ](http://www.unilevercookiepolicy.com/)
-
-[ ](http://www.unilevercookiepolicy.com/)
-    * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-    * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-    * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-    * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-    * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-    * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-    * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)
-[ ](http://www.unilevercookiepolicy.com/)
-    * [](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)[](http://www.unilevercookiepolicy.com/)Information we collect from other sources
+  * Information we collect from other sources
 
 We may receive personal information about you from other legitimate sources, including information from commercially available sources, such as public databases and data aggregators, and information from third parties. The types of personal information that we may collect from such sources include your:
 
-      * name
-      * street address
-      * age
-      * your shopping habits
-      * preferences and information about your lifestyle such as your hobbies and interests
-      * publicly available information such as user-generated content, blogs and postings, as permitted by law
-      * Online advertising
+    * name
+    * street address
+    * age
+    * your shopping habits
+    * preferences and information about your lifestyle such as your hobbies and interests
+    * publicly available information such as user-generated content, blogs and postings, as permitted by law
+    * Online advertising
 
 We may share Site Usage Information with trusted third parties (e.g. advertisers, advertising agencies, advertising networks, data exchanges, etc.) in order to offer you tailored content, including more relevant advertising for products and services which may be of interest to you.  These third parties may set and access their own cookies, web beacons and similar tracking technologies on your device in order to help us deliver customized content and advertising to you when you visit Unilever Sites or Third Party Sites. 
 
 In some countries, we have adopted the use of industry-recognised icons (e.g. the AdChoices icon) which may appear alongside targeted advertisements that we (or a service provider acting on our behalf) send to you based on your Site Usage Information.  You may click on these icons to receive more information about the collection and use of your information or to opt-out of such collection in future.  Please note that even if you opt out, you may still receive advertisements from Unilever that are not customized based on your Site Usage Information. 
 
-Depending on your location, there may be other solutions to help you control your online behavioural advertising preferences (such as whether certain third parties may collect and use your Site Usage Information for targeted advertising purposes).  For example, in Europe the website [www.youronlinechoices.com](https://web.archive.org/web/20140626183022id_/http%3A//www.unileverprivacypolicy.com/en_gb/www.youronlinechoices.com) allows you to choose which companies can deliver customized ads while in the US you may use the [Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance’s Opt-Out Tool](http://www.aboutads.info/choices/).  
+Depending on your location, there may be other solutions to help you control your online behavioural advertising preferences (such as whether certain third parties may collect and use your Site Usage Information for targeted advertising purposes).  For example, in Europe the website [www.youronlinechoices.com](http://www.youronlinechoices.com/) allows you to choose which companies can deliver customized ads while in the US you may use the [Network Advertising Initiative’s Opt-Out Tool](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance’s Opt-Out Tool](http://www.aboutads.info/choices/).  
 
 
 
