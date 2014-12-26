@@ -1,64 +1,85 @@
-> *The following text is extracted and transformed from the fanbase.com privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022064143id_/http%3A//www.fanbase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbase.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226070502id_/http%3A//www.fanbase.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Fanbase
+# Fanbase Privacy Policy
 
-This statement only addresses our practices associated with the Fanbase website. Other websites we operate may be subject to other practices. You have rights under California Civil Code §1798.83 to learn more about our disclosure of your personal data; to exercise those rights, contact [privacy@fanbase.com](mailto:privacy@fanbase.com). The effective date of this statement is September 25, 2008\. 
+## Fanbase Media, Inc. Privacy Policy
 
-**Data You Provide Us.** You can provide us with data in a variety of ways. You can submit content such as articles or photos, comment on other people’s contributions, create your own personal profile with information about yourself and subscribe to pages you find interesting. In some cases, you can make some of your activities “private,” in which case they are not displayed to other members.   
+ **Last Revised: April 30, 2014**
 
+This Privacy Policy explains how information about you is collected, used and disclosed by Fanbase Media, Inc. and its subsidiaries and affiliated companies (“ **Fanbase** “). This Privacy Policy applies to information we collect when you use our website and other online products and services that link to this Privacy Policy (collectively, the “ **Services** “) or when you otherwise interact with us.
 
-**Registration Data.** When you register, you provide us with some personal data (including your email address). Third parties may also provide us with your registration data. After you register, you can tell us more about yourself through your member pages or elsewhere, and we may give you choices about who you would like to see this data. We use registration data for many purposes, including to improve the site, generate reports of aggregated activity that we may share with others, target ads to you and send emails to you. Typically, you can turn our emails on and off, but some administrative emails (such as emails about member agreement changes) are mandatory while you are a member.   
+**Modifications**
 
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the ways you can help protect your privacy.
 
-**Content and Ratings.** Our site allows you to publish content. The member agreement describes our ability to republish or stop publishing your content. We may publish some or all of your public member information with your content. We may publish your ratings, license the ratings to others, and use the ratings to develop aggregate ratings, personalize site views, merchandise products and identify/highlight popular members or submissions.   
+**Collection of Information**
 
+**Information You Provide Us.** We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, submit content, create your member profile, participate in surveys, or otherwise communicate with us. The types of information we may collect include your name, email address and any other information you choose to provide.  If you are also a subject of a Sports Profile (as defined in the Terms of Service), we may include publicly available information about you on the Sports Profile.
 
-**Interest in Third Party Offerings.** You may have opportunities to express interest in, or register for, third parties’ offerings. If you do, we will follow your instructions about providing your data to the third party (and we might retain the data as well).   
+**Information We Collect Automatically When You Use the Services.** When you access or use our Services, we automatically collect information about you, including:
 
-
-**Surveys.** We treat your survey responses like we treat our other business records.   
-
-
-**Accessing Your Records.** The information described in California Business & Professions Code Sec. 1798.83 is available by submitting the required information to [privacy@fanbase.com](mailto:privacy@fanbase.com).   
-
-
-**Data We Collect Automatically.** As part of our servers’ normal operations, we log your IP address and referring/destination URLs. We use this data, as well as other server usage data, to analyze site and user behavior, improve the site, troubleshoot technical problems, resolve disputes, address complaints and generate reports of aggregated activity that we may share with others. If you contribute content to the site, we may republish your IP address and location.   
+  * **Log Information:**   We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Services.
+  * **Device Information:   **We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * **Information Collected by Cookies and Other Tracking Technologies:**   We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to improve our Services and your experience, see which areas and features of our Services are popular and count visits. We may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. For more information about cookies, and how to disable them, please see “Your Choices” below.
 
 
-We use cookies. To become a member or contributor, you need to accept our cookies. We and our third party vendors (such as our web analytics service provider) may use cookies and web beacons to analyze site usage, improve the site, target ads, store your preferences/passwords (if you’ve registered), personalize your experience (including tracking your site usage to do so) and generate reports of aggregated activity that we may share with others.   
+
+**Information We Collect From Other Sources**
+
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+
+**Use of Information**
+
+We may use information about you for various purposes, including to:
+
+  * Provide, maintain and improve our Services;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests;
+  * Communicate with you about services, offers, promotions, rewards, and events offered by Fanbase and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
+  * Process and deliver contest entries and rewards;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose for which the information was collected.
 
 
-**Other Data Collection.** We may get data from or about you in other ways not specifically described in this statement. For example, you might contact Customer Service, or we may get a third party complaint about you. We handle this data like our other business records.   
+
+Fanbase is based in the United States and the information we collect is governed by U.S. law. By accessing or using the Services or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
+
+**Sharing of Information**
+
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Fanbase or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
+  * With your consent or at your direction, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information.
 
 
-**Data Changes.** To the extent you or third parties modify or delete your data or content, we usually update our live databases immediately, but some data may update more slowly, and some old data and content may remain indefinitely in our archives and records. In particular, any published content may remain in the publicly accessible history of the page, even if it is removed or changed elsewhere. Also, we may be unable to propagate changes to partners who receive your data or content.   
 
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-**Contractors/Service Providers.** Third party contractors may have access to our databases. Usually these contractors sign a standard confidentiality agreement.   
+**Social Sharing Features**
 
+The Services may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
 
-Some of our site’s functionality may be operated by third party service providers, and in the course of providing this functionality, these service providers may obtain some of your personal data from you directly or transferred from us to facilitate your usage of this service. Usually we require these providers to use and disclose your personal data only as necessary to perform their services.   
+**Advertising and Analytics Services Provided by Others**
 
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Fanbase and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-Third party ad servers may place or recognize a cookie and, using the cookie or otherwise, collect and use data from your visits to this and other websites to serve ads to you.   
+**Security**
 
+Fanbase takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
-**Our “Corporate Family.”** We may share your data with any parent company, subsidiaries, joint ventures, other entities under a common control or third party acquirers. We expect these other entities will honor this statement. Also, we may allow a potential acquirer or merger partner to review our databases, although we would restrict their use and disclosure of this data during the diligence phase.   
+**Your Choices**
 
+**Account Information.** You may update, correct or delete information connected with your member account at any time by logging into your member account or emailing us with your request at [privacy@fanbase.com](mailto:privacy@fanbase.com "mailto:privacy@fanbase.com"). If you wish to deactivate your account, you may do so at any time by using the tools in your member account or by contacting us at [help@fanbase.com](mailto:help@fanbase.com "mailto:help@fanbase.com"), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
 
-**Government Relations and Lawsuits.** You consent to us disclosing your data or data about you to the government if we are required to do so or if we think the disclosure is appropriate. We may also disclose data about you in connection with actual or potential legal proceedings (a) if we are required to do so, (b) if such disclosures might mitigate our liability, or (c) to enforce our rights.   
+**Cookies.** Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
 
+**Promotional Communications.** You may opt out of receiving promotional emails or messages from Fanbase by following the instructions in those emails or messages or by using the tools in your member account. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing service relationship.
 
-**Communicating with Other Users.** Except as authorized by our robots.txt page or with our permission (email [data@fanbase.com](mailto:data@fanbase.com)), you may not use any automated means (such as a robot, spider, scraper or script) to access Fanbase or collect information from it. Without limiting the foregoing, you may not collect (manually or in an automated manner) other users’ personal data (including email addresses) from the site.   
+**Contact Us**
 
-
-**Children.** Unfortunately, our site is not designed for children 12 and under. Do not submit any information about children 12 and under, and if you are 12 and under, do not use the site or provide any data to us.   
-
-
-**Limits on Our Abilities.** Our site is very complicated, so we might inadvertently use or disclose your data in ways inconsistent with this statement. For example, a temporary software glitch could lead to public display of your personal data despite your contrary preferences. We might also make ad hoc uses of your data in ways not mentioned here. In these anomalous situations, your sole remedy is that we will try to rectify the anomaly as soon as we can.   
-
-
-**Security.** We use industry-standard security protocols, such as (if and where we think appropriate) firewalls and restrictions on which employees can access user data. However, perfect security does not exist on the Internet.   
-
-
-**Amendment.** This privacy statement is part of the Fanbase contributor and member agreement and, for members, can be modified in accordance with the amendment procedures described in the member agreement.
+If you have any questions about this Privacy Policy, please contact us at [privacy@fanbase.com](mailto:privacy@fanbase.com "mailto:privacy@fanbase.com").
