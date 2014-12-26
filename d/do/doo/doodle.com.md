@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228094909id_/http%3A//www.doodle.com/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226061301id_/http%3A//doodle.com/privacy-policy) for the most accurate reproduction.*
 
-# Doodle: Политика
+# Privacy Policy | Doodle
 
-## Политика
+## Privacy Policy
 
 Doodle takes great care to protect your privacy and to secure the data that is stored on the Doodle servers. Doodle employs several security professionals who implement the technical and organizational security during development and operations. Doodle takes measures to protect personal information against loss, misuse, unauthorized access, unauthorized disclosure, manipulation, or destruction.
 
@@ -18,7 +18,7 @@ Doodle records certain requests and transactions in log files. This log data is 
 
 Doodle also uses KISSmetrics and Google Analytics to compile usage statistics. These services are provided by Space Pencil, Inc. and by Google, Inc., respectively. Their privacy policies can be found at <http://www.kissmetrics.com/privacy> and <http://www.google.com/privacy>. Doodle [anonymizes IP addresses](http://code.google.com/apis/analytics/docs/gaJS/gaJSApi_gat.html#_gat._anonymizeIp) before they are sent to Google Analytics. 
 
-Doodle also employs NET-Metrix, AGOF, and ÖWA to certify its traffic statistics in Switzerland, Germany, and Austria. Detailed information (in German) on how this certification works and what information is collected can be found here: [NET-Metrix](http://www.net-metrix.ch/index.php?nodeId=157), [AGOF](http://www.agof.de/methode.585.html), [ÖWA](http://www.oewa.at/index.php?id=8300). An appendix at the end of the [German version of this policy](http://doodle.com/about/policy.html?locale=DE) also provides further information on how information is collected for web traffic that originates from Germany. 
+Doodle also employs NET-Metrix, AGOF, and ÖWA to certify its traffic statistics in Switzerland, Germany, and Austria. Detailed information (in German) on how this certification works and what information is collected can be found here: [NET-Metrix](http://www.net-metrix.ch/index.php?nodeId=157), [AGOF](http://www.agof.de/methode.585.html), [ÖWA](http://www.oewa.at/index.php?id=8300). An appendix at the end of the [German version of this policy](https://web.archive.org/privacy-policy?locale=de) also provides further information on how information is collected for web traffic that originates from Germany. 
 
 ### Cookies
 
@@ -28,7 +28,7 @@ When you use Doodle, the service can store cookies on your computer. Cookies are
 
 Advertising is one of Doodle’s revenue streams. Therefore, Doodle displays advertisements on some of the services, e.g. on certain web pages or in e-mails. These advertisements can be targeted based on the information that is available to Doodle, e.g. language, IP address, poll content, etc. This targeting is always an automated process; none of the information used for targeting is analyzed manually or made available to advertising customers. In some cases, Doodle displays advertisements from Google’s AdSense or AdExchange network. These advertisements can be targeted based on the poll content. Google does not disclose that information and only uses it for the intended purpose. You can review Google’s Ads Privacy Policy here: <http://www.google.com/policies/privacy/ads/>. Furthermore, you can use [Google's Ads Preferences Manager](http://www.google.ch/ads/preferences) to configure the right ads settings for you. 
 
-Doodle's paid services ([Premium Doodle](http://doodle.com/premium) and [BookMe](http://doodle.com/bookme)) are ad-free.
+Doodle's paid services ([Premium Doodle](http://doodle.com/premium)) are ad-free.
 
 ### Outdated and completed polls
 
@@ -72,14 +72,6 @@ Doodle provides optional plugins which extend the service by integrating it into
 
 Doodle will use the via plugins accessible information only for the intended purpose. Doodle will only access the information that is necessary to provide the intended service. 
 
-### BookMe
-
-Payments for the BookMe service are handled by Cleverbridge: [Cleverbridge's Privacy Policy](https://www.cleverbridge.com/corporate/support/privacy-policy).
-
-Doodle will not share the information that you provide in order to use the BookMe service. Naturally however, Doodle will share the information with the corresponding service provider in order to fulfill the service.
-
-BookMe is a paid service and does not display advertising. Accordingly, those parts in this policy that cover advertising do not apply to BookMe.
-
 ### Communication between you and Doodle
 
 If you send Doodle a message, this message can be stored to process it, to compile statistical information, to improve our services and support, or to get in touch with you.
@@ -90,7 +82,7 @@ Doodle supports the leading payment processing provider, PayPal. You can find th
 
 ### Location of data
 
-The Doodle databases are located in Switzerland.
+The Doodle databases are mainly located in Switzerland. For failover purposes the data is also kept on cloud servers in Ireland.
 
 ### Sharing personal information
 
@@ -100,6 +92,6 @@ Doodle may share personal information with other companies or individuals only i
 
 ### Changes
 
-Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at [http://doodle.com/about/policy.html](https://web.archive.org/about/policy.html).
+Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at [doodle.com/privacy-policy](https://web.archive.org/privacy-policy).
 
-January 31 2013
+September 24 2014
