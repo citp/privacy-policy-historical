@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedcompany.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628095644id_/http%3A//trustedcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedcompany.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226221147id_/http%3A//trustedcompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrustedCompany.com
 
@@ -10,15 +10,14 @@ When you create a profile on the Website, we collect the following master data: 
     2. Reviews  
 When you make a review of a company, we collect the information you state in the review, including which company you review, which purchase(s) the review concerns, and how you evaluate the company.
     3. Cookies  
-The Website uses cookies. Cookies are digital information which is stored on your computer. The cookie does not identify the individual user but the user's computer, and it is used for measuring Website traffic i.e. number of visits on the Website, which domains the visitors comes from, which pages the visitors visit on the Website and in which overall geographical area the visitors are located. The purpose of using cookies is thus to produce anonymous statistics in order to improve the functionality of the Website. You can read more about what cookies the Website uses and for what purposes below.
+The Website uses cookies. Cookies are digital information which is stored on your computer. The cookie does not identify the individual user but the user's computer, and it is used for measuring Website traffic i.e. number of visits on the Website, which domains the visitors comes from, which pages the visitors visit on the Website and in which overall geographical area the visitors are located. The purpose of using cookies is thus to produce anonymous statistics in order to improve the functionality of the Website. You can read more about what cookies the Website uses and for what purposes below.'
     4. IP adresses  
 When visiting the Website, the IP address of the user's computer is registered. The IP address is the numerical address of the computer used when visiting the Website. The IP address is registered to enable TrustedCompany.com to trace the used computer in case of misuse or unlawful actions in connection with the visit on or use of the Website. Further, the IP address is used to derive your approximate location (city level).
     5. Newsletter  
 If you sign up for TrustedCompany.com's newsletters, TrustedCompany.com register the information supplied by you (e.g. your name, email address etc.). If you no longer wish to receive newsletters from TrustedCompany.com, you can unsubscribe by logging on to your profile and edit your information.
     6. Information from other services, including Social Network(s)  
-As part of our services, we provide you with the possibility of connecting your profile on the Website with your profile on social networks such as Facebook, Google+, LinkedIn and Twitter ("Social Network(s)"). Some information about you will automatically be collected from Social Networks when connecting your TrustedCompany.com profile with your profile on Social Networks.  
-The information collected from Social Networks depends on what information you have made available on the network and your privacy settings for sharing such information on the network. Depending on the settings, we may e.g. collect the following information about you:
-      * Name and/or username
+As part of our services, we provide you with the possibility of connecting your profile on the Website with your profile on social networks such as Facebook, Google+, LinkedIn and Twitter ("Social Network(s)"). Some information about you will automatically be collected from Social Networks when connecting your TrustedCompany.com profile with your profile on Social Networks. The information collected from Social Networks depends on what information you have made available on the network and your privacy settings for sharing such information on the network. Depending on the settings, we may e.g. collect the following information about you:
+      * Name and / or username
       * E-mail address
       * Gender
       * Date of birth
@@ -26,8 +25,7 @@ The information collected from Social Networks depends on what information you h
       * Location
       * When you request to have your TrustedCompany.com profile connected to a profile on a Social Network, you will be informed on which information we will collect from the network in question before your request is executed.
 
-The purpose of collecting information from Social Networks is to connect members of your network, which are both users of TrustedCompany.com and of one or more of the Social Networks, and thereby both increase the confidence in the reviews made by the members of the network as well as create a better user experience on the Website.   
-TrustedCompany.com does not collect other personal identifiable information from visitors of the Website, unless the visitor provides the information to us.
+The purpose of collecting information from Social Networks is to connect members of your network, which are both users of TrustedCompany.com and of one or more of the Social Networks, and thereby both increase the confidence in the reviews made by the members of the network as well as create a better user experience on the Website. TrustedCompany.com does not collect other personal identifiable information from visitors of the Website, unless the visitor provides the information to us.
 
   2. Disclosure of personal data 
     1. Disclosure of data on the Website  
@@ -39,14 +37,11 @@ Other information provided by you on the Website, including photos and reviews, 
  **Geo-location**  
 When you make a contribution to the Website your approximate city location (based on your computer's IP address, see section 1.4, or based on location data provided by your mobile phone or other device) is made available to other users of the Website.  
  **Social Networks**  
-If you connect to a Social Network, information such as your profile photo, your name, year of birth and approximate location will be collected from your profile on the Social Network and used to identify you on the Website. Consequently, all users of the Website will, subject to information available from the Social Network, be able to identify the reviews created by you.   
-If your contacts or your contact's contacts (jointly referred to as "Connections") on the Social Network also have connected with TrustedCompany.com, we may display on the Website how you are connected to these Connections through the Social Network.
+If you connect to a Social Network, information such as your profile photo, your name, year of birth and approximate location will be collected from your profile on the Social Network and used to identify you on the Website. Consequently, all users of the Website will, subject to information available from the Social Network, be able to identify the reviews created by you. If your contacts or your contact's contacts (jointly referred to as "Connections") on the Social Network also have connected with TrustedCompany.com, we may display on the Website how you are connected to these Connections through the Social Network.
     2. Disclosure on services to which you connect your profile  
 If you choose to connect your TrustedCompany.com profile with profiles on a Social Network information and reviews, cf. 1.2 provided by you on the Website or data compiled by us about your use of the services on the Website (e.g. number of reviews) will be shared with and displayed in connection with your profile on the Social Network.
     3. Disclosure to other services  
-A main purpose of TrustedCompany.com is to increase the exposure and the availability of the reviews made on the Website. Hence, we permit other services to show the reviews created on the Website thus increasing other consumers' knowledge of your reviews.   
-The categories of third parties to which the information is disclosed are:   
-Search engines, including e.g. Google and Bing, Operators of consumer portals and business portals, including price comparison websites, shopping guides etc. Companies or services that have been reviewed on the Website or which have a relationship with TrustedCompany.com Operators of other similar websites or services where, in TrustedCompany.com's assessment, it will be relevant for the consumer to search for reviews. Your review is disclosed as you make it available on the Website, which entails a disclosure of the following information:
+A main purpose of TrustedCompany.com is to increase the exposure and the availability of the reviews made on the Website. Hence, we permit other services to show the reviews created on the Website thus increasing other consumers' knowledge of your reviews. The categories of third parties to which the information is disclosed are: Search engines, including e.g. Google and Bing, Operators of consumer portals and business portals, including price comparison websites, shopping guides etc. Companies or services that have been reviewed on the Website or which have a relationship with TrustedCompany.com Operators of other similar websites or services where, in TrustedCompany.com's assessment, it will be relevant for the consumer to search for reviews. Your review is disclosed as you make it available on the Website, which entails a disclosure of the following information:
       * Your reviews, cf. section 1.2.
       * Your username and, if available, profile photo as well as user demographics such as age and gender.
       * Your approximate city location.
@@ -54,8 +49,7 @@ Search engines, including e.g. Google and Bing, Operators of consumer portals an
 TrustedCompany.com may be required to disclose information by a court order from a competent court of law or public authority in accordance with the existing legislation.
   3. Data controller 
     1. The information for which TrustedCompany.com is the data controller  
-TrustedCompany.com shall be data controller of the master data you enter in connection with your creation of a profile or registration for newsletters, i.e. your name, your password and your email address, as well as registration of your IP address.   
-Furthermore, TrustedCompany.com shall be the data controller of the information which is disclosed to other services, cf. section 2.3. Danish data protection laws govern collection of data by TrustedCompany.com in the EU.
+TrustedCompany.com shall be data controller of the master data you enter in connection with your creation of a profile or registration for newsletters, i.e. your name, your password and your email address, as well as registration of your IP address. Furthermore, TrustedCompany.com shall be the data controller of the information which is disclosed to other services, cf. section 2.3. Danish data protection laws govern collection of data by TrustedCompany.com in the EU.
     2. The information for which you are the data controller  
 You shall be data controller of the content you choose to disclose on the Website and for the data disclosed on your profile on Social Networks, which is the consequence of the connection of your profile on the Website with your profile on the Social Network.
     3. Links to websites  
@@ -65,11 +59,10 @@ TrustedCompany.com uses an external company for maintaining the technical operat
 By accepting this personal data policy, you accept that TrustedCompany.com also allows the data for which you are the data controller be processed by the same data processor.  
 The data processor shall solely act according to instructions from TrustedCompany.com. By accepting these terms and conditions, you authorize TrustedCompany.com to give such instructions to the data processor which are necessary for the processing of data in accordance with this personal data policy and for the purpose of use of the Website.  
 The data processor has made necessary technical and organizational safety measures against the information being accidentally or illegally destroyed, lost or deteriorated, and against the information coming to the knowledge of unauthorized persons, is misused or in other ways is processed in violation with the act on processing of personal data. On your request - and against remuneration of the data processor's current hourly rates at any time for such work - the data processor shall supply you with sufficient information to demonstrate that the above-mentioned technical and organizational safety measures have been made.  
-TrustedCompany.com may now or in the future process and/or store personal data in the U.S. If you access or use the Website from a location outside of the U.S., you consent to the transfer, storage and processing of your personal data in the U.S.
+TrustedCompany.com may now or in the future process and / or store personal data in the U.S. If you access or use the Website from a location outside of the U.S., you consent to the transfer, storage and processing of your personal data in the U.S.'
   5. **Security measures**  
 TrustedCompany.com will use commercially reasonable efforts to see that the recorded data, including the personal information, under its control is handled using appropriate security measures. TrustedCompany.com regularly audits its system for possible vulnerabilities and attacks. However, since the internet is not a 100% secure environment, TrustedCompany.com cannot ensure or warrant the security of information you transmit to TrustedCompany.com. Emails sent via the Website are not encrypted, and TrustedCompany.com therefore advises you not to communicate any confidential information through these means.
-  6. This website uses cookies and in the following we describe what cookies we use and for what purposes.  
-By using our website you accept that we use cookies as described in the following.
+  6. This website uses cookies and in the following we describe what cookies we use and for what purposes. By using our website you accept that we use cookies as described in the following.
     1. What is a cookie?  
 Cookies are small information units which the Website places on your computer's hard disk, on your tablet or on your smartphone. Cookies contain information that the Website uses to make the communication between you and your web browser more efficient. The cookie does not identify you as an individual user but identifies your computer.  
 There are two types of cookies - session cookies and persistent cookies. Session cookies are temporary bits of information which are deleted when you exit your web browser. Persistent cookies are more permanent bits of information that are stored and remain on your computer until they are deleted. Persistent cookies delete themselves after a certain period of time but are renewed each time you visit the website.  
@@ -79,7 +72,7 @@ We use cookies for
       * Statistics:  
 Measuring Website traffic i.e. number of visits on the Website, which domains the visitors come from, which pages the visitors visit on the Website and in which overall geographical area the visitors are located.
       * Improvement of the functionalities of the Website:  
-Optimizing your experience with the Website, which includes remembering your user ID and password when you return to the Website so you do not have to log in again.
+Optimising your experience with the Website, which includes remembering your user ID and password when you return to the Website so you do not have to log in again.
       * Connect with Social Media:  
 We give you the possibility of connecting with Social Media, such as Facebook.
       * Targeted advertisement:  
@@ -106,6 +99,6 @@ TrustedCompany.com reserves the right to block the access to your profile and/or
   8. Changes in the privacy policy  
 TrustedCompany.com may at any time and without notice make changes to its privacy policy with future effect. We will make an effort to provide reasonable advance notice of any such changes. TrustedCompany.com shall inform the users of the Website of such changes when the users log on to the Website. You agree that the continued use of the Website after any posted modified version of the Privacy Policy is your acceptance of the modified Privacy Policy.
   9. Inquiries regarding the Website or the privacy policy  
-In case of inquiries regarding TrustedCompany.com's privacy policy, our processing of personal data, correction of data or your relations to us in general, you are welcome to contact TrustedCompany.com by email at support [at] TrustedCompany [dot] com
+In case of inquiries regarding TrustedCompany.com's privacy policy, our processing of personal data, correction of data or your relations to us in general, you are welcome to contact TrustedCompany.com by email at support [at] TrustedCompany.com
 
 
