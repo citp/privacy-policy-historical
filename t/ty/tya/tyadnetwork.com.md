@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyadnetwork.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628170132id_/http%3A//tyadnetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyadnetwork.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226232721id_/http%3A//tyadnetwork.com/privacy.php) for the most accurate reproduction.*
 
 # The Thank You Ad Network! Free Integration Marketing Traffic Exchange | Free Advertising Free Web Traffic
 
