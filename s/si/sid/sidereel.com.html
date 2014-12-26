@@ -1,26 +1,24 @@
-<!--The following is the downloaded HTML source of the sidereel.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625225034id_/http%3A//www.sidereel.com/topic/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sidereel.com privacy policy that was archived on 2014-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226101412id_/http%3A//www.sidereel.com/topic/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# video: http://ogp.me/ns/video#">
 <meta content="text/html;charset=UTF-8" http-equiv="content-type">
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="http://cdn.taboola.com/libtrc/allmedia-sidereel/loader.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"37e6a77380","applicationID":"2641027","transactionName":"IlkIQhZZWVUASx8HVBIZFUIFQlxaOklRA1wSGRVeC0E=","queueTime":0,"applicationTime":56,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAMOU1ZWGwEGUFBSBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" type="text/javascript" src="//lib.spinmedia.com/clarity.min.js"></script><script async="" src="http://cdn.taboola.com/libtrc/allmedia-sidereel/loader.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"37e6a77380","applicationID":"2641027","transactionName":"IlkIQhZZWVUASx8HVBIZFUIFQlxaOklRA1wSGRVeC0E=","queueTime":0,"applicationTime":77,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-476.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
 <meta content="app-id=417270961" name="apple-itunes-app">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="P2seB7Xooe4oZEnf1aZ8Og6gQ5FVmLBtWF8Fd3l2xwY=" name="csrf-token">
-<link href="http://a3.sidereel.com/assets/favicon-e9edd42ce4a1719bedd39aa3fda16c2a.ico" rel="shortcut icon">
-<link href="http://a3.sidereel.com/assets/apple-touch-icon-547e749b357f762253c98067992ff368.png" rel="apple-touch-icon">
+<meta content="5qlVktjNrh6+v6tzCDbLojToBzvg3Xvf/9r4vMimFKY=" name="csrf-token">
+<link href="http://a.sidereel.com/assets/favicon-db8a8823205085d755c1dfebea309071.ico" rel="shortcut icon">
+<link href="http://a.sidereel.com/assets/apple-touch-icon-03bd4f36149e69f6f8ec2e97c6f114bb.png" rel="apple-touch-icon">
 <title>Privacy Policy | SideReel</title>
-<link href="http://a3.sidereel.com/assets/all_styles-e535bf90ce66d6c02f45088b5440b3fb.css" media="screen" rel="stylesheet">
+<link href="http://a.sidereel.com/assets/sidereel_font-dd9cea5e9529355d94da9f1b3e4c6678.css" media="screen" rel="stylesheet">
+<link href="http://a.sidereel.com/assets/all_styles-fe1e9340d218803f2920420e83d0955c.css" media="screen" rel="stylesheet">
 <!--[if IE]>
-<link href="http://a3.sidereel.com/assets/ie/ie.css" media="screen" rel="stylesheet" />
+<link href="http://a.sidereel.com/assets/ie/ie-2d84272c5bb348f15c1fe1cbe51c63de.css" media="screen" rel="stylesheet" />
 <![endif]-->
-<!--[if IE 7]>
-<link href="http://a3.sidereel.com/assets/ie/ie7.css" media="screen" rel="stylesheet" />
-<![endif]-->
-<script src="http://a3.sidereel.com/assets/jquery-tools-7de7d349e4093eecd87eaa0057dfec49.js"></script>
+<script src="http://a.sidereel.com/assets/jquery-tools-25ee2b1a0d9cbba1160e11db7729c55a.js"></script>
 
-<script src="http://a3.sidereel.com/assets/header-f30981c0bfe4f91c4b6771f2aa8b57b5.js"></script>
+<script src="http://a.sidereel.com/assets/header-f1385ee548a680cdd013befc4ee27229.js"></script>
 <script>
   SideReel.Env.initialize('production');
   SideReel.User.initialize(false);
@@ -28,35 +26,24 @@
 </script>
 
 <meta content="" name="description">
+<meta content="" name="keywords">
 
 <script src="https://platform.twitter.com/widgets.js"></script>
 <script src="https://apis.google.com/js/platform.js"></script>
 
 
-<!--
-<div class="global-message" style="background-color:#f1d3b9 !important;"><div class="gw-container" style="padding: 5px 35px 5px 10px!important;">
- Check out the 
- <a style="font-weight:bold;color:#333333; text-decoration:underline;" href="/_television/premieres_finales_calendar?source=global_msg">Premieres &amp; Finales Calendar</a> to see when your favorite summer shows are starting!
-</div></div>
--->
-<link href="http://editorial.sidereel.com/srv2/css/static.css" media="all" rel="stylesheet" type="text/css">
-<!--[if IE 7]><link href="http://editorial.sidereel.com/srv2/css/static_ie7.css" media="all" rel="stylesheet" type="text/css"><![endif]-->
-<script>
-  var _gaq = _gaq || [];
-</script>
-<!-- dont track events in selenium tests, slows them down and makes testing _gaq calls difficult -->
-<script>
-  _gaq.push(['_setAccount', 'UA-1471388-3']);
-  _gaq.push(['_setSessionCookieTimeout', 5400000]);
-</script>
-<script>
-  (function() {
-    _gaq.push(['_setCustomVar', 2, 'siteVersion', 'LegacyDesktop', 3]);
-  
-  }).call(this);
-</script>
 
+<link href="http://e.sidereel.com/srv2/css/static.css" media="all" rel="stylesheet" type="text/css">
+<!--[if IE 7]><link href="http://e.sidereel.com/srv2/css/static_ie7.css" media="all" rel="stylesheet" type="text/css"><![endif]-->
 <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-1471388-3', 'auto');
+  ga('require', 'displayfeatures');
+  
   var loginMethod = function() {
     var cookie = readCookie("SrLoginMethod");
     if (cookie === "" || cookie === "Anonymous") {
@@ -65,22 +52,10 @@
       return cookie;
     }
   }
-  _gaq.push(['_setCustomVar', 1, 'userType', loginMethod(), 2]);
+  ga('set', 'dimension1', "LegacyDesktop")
+  ga('set', 'dimension2', loginMethod());
+  ga('send', 'pageview');
 </script>
-<script>
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
-  (function() {
-    var ga = document.createElement('script');
-    ga.type = 'text/javascript';
-    ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-
-<script src="//cdn.optimizely.com/js/981041695.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 window._taboola = window._taboola || [];
@@ -90,36 +65,57 @@ e.async = 1; e.src = u; f.parentNode.insertBefore(e, f);
 }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/allmedia-sidereel/loader.js');
 </script>
 
+<script src="http://cdn.extensions.buzznet.com/topscript.js.php?siteToken=SR" type="text/javascript"></script>
+<script>
+  (function(){
+    window['CLARITY'] = [];
+    var ns = document.createElement('script'),
+    s = document.getElementsByTagName('script')[0];
+    ns.async = true;
+    ns.type = 'text/javascript';
+    ns.src = '//lib.spinmedia.com/clarity.min.js';
+    s.parentNode.insertBefore(ns, s);
+  })();
+</script>
+
 </head>
 <body class="static_pages show privacy">
 <div class="navigation-header groundwork">
 <div class="gw-container">
 <div class="row">
 <div class="two thirds left-nav">
-<div class="header-main ">
-<h1 class="logo-wrap"><a class="logo" href="/" title="Watch TV &amp; Movies Online | Episodes, Seasons, Series"></a></h1>
+<div class="global-message-container">
+
+</div>
+<div class="header-main tv">
+<h1 class="logo-wrap"><a class="logo" href="/" title="Watch, Track, Rate &amp; Review Your Favorite Television Shows Online"></a></h1>
 <ul class="main-links">
 <li class="main-link"><a class="tv-show" href="/_television" title="TV Shows | Watch Television Episodes Online">TV Shows</a></li>
-<li class="main-link main-link-menu-trigger">
-<a href="#" title="TV Genres">Genres</a>
+<li class="main-link main-link-menu-trigger calendars">
+<a class="calendar" href="/calendar" title="Find out when shows are airing tonight and this week on our 3-Day Show Calendar">Calendar</a>
 <ul class="main-link-menu">
-<li class="main-link"><a href="/_television/genres/comedy" title="Watch Comedy TV Shows Online">Comedy</a></li>
-<li class="main-link"><a href="/_television/genres/drama" title="Watch Drama TV Online">Drama</a></li>
-<li class="main-link"><a href="/_television/genres/reality" title="Watch Reality TV Online">Reality</a></li>
-<li class="main-link"><a href="/_television/genres/crime" title="Watch Crime TV Online">Crime</a></li>
-<li class="main-link"><a href="/_television/genres/action" title="Watch Action TV Shows Online">Action</a></li>
-<li class="main-link"><a href="/_television/genres/cartoons" title="Watch Cartoons TV Shows Online">Cartoons</a></li>
-<li class="main-link"><a href="/_television/genres/science-fiction" title="Watch Science Fiction TV Shows Online">SciFi</a></li>
-<li class="main-link"><a href="/_television/genres/fantasy" title="Watch Fantasy TV Shows Online">Fantasy</a></li>
-<li class="main-link"><a href="/_television/genres/teen" title="Watch Teen TV Shows Online">Teen</a></li>
-<li class="main-link"><a href="/_television/genres/british" title="Watch British TV Shows Online">British</a></li>
-<li class="main-link"><a href="/_television/genres/canadian" title="Watch Canadian TV Shows Online">Canadian</a></li>
-<li class="main-link"><a href="/_webtv" title="Watch Web TV Shows Online">Web TV</a></li>
-</ul>
-
+<li class="main-link">
+<a href="/_television/new_tonight" title="What's New Tonight on TV">New Tonight</a>
+<a href="/_television/tvlistings" title="TV Listings Guide">TV Listings</a>
+<a href="/_television/premieres_finales_calendar" title="Premieres &amp; Finales Calendar">Premieres &amp; Finales</a>
 </li>
-<li class="main-link"><a class="new-tonight" href="/_television/new_tonight" title="Find out what new episodes are on TV tonight">New Tonight</a></li>
-<li class="main-link"><a class="tv-listings" href="/_television/tvlistings" title="TV Listings Guide | Find TV Shows and Movies with our TV Schedule">TV Listings</a></li>
+</ul>
+</li>
+<li class="main-link"><a class="news" data-default-url="/_television/news" data-personalized-url="/_television/news-for-you" href="/_television/news" title="See news, gossip, showtimes and networks for your favorite TV shows">News</a></li>
+<li class="main-link main-link-menu-trigger genres">
+<a href="/_television/genres" title="TV Genres">Genres</a>
+<ul class="main-link-menu">
+<li class="main-link"><a href="/_television/genres/action" title="Watch Action Shows Online">Action</a></li><li class="main-link"><a href="/_television/genres/british" title="Watch British Shows Online">British</a></li><li class="main-link"><a href="/_television/genres/canadian" title="Watch Canadian Shows Online">Canadian</a></li><li class="main-link"><a href="/_television/genres/cartoons" title="Watch Cartoons Shows Online">Cartoons</a></li><li class="main-link"><a href="/_television/genres/comedy" title="Watch Comedy Shows Online">Comedy</a></li><li class="main-link"><a href="/_television/genres/crime" title="Watch Crime Shows Online">Crime</a></li><li class="main-link"><a href="/_television/genres/drama" title="Watch Drama Shows Online">Drama</a></li><li class="main-link"><a href="/_television/genres/fantasy" title="Watch Fantasy Shows Online">Fantasy</a></li><li class="main-link"><a href="/_television/genres/reality" title="Watch Reality Shows Online">Reality</a></li><li class="main-link"><a href="/_television/genres/science-fiction" title="Watch Science Fiction Shows Online">Science Fiction</a></li><li class="main-link"><a href="/_television/genres/teen" title="Watch Teen Shows Online">Teen</a></li><li class="main-link">
+<a href="/_webtv" title="Watch Web TV Shows Online">Web TV</a>
+</li>
+</ul>
+</li>
+<li class="main-link main-link-menu-trigger networks">
+<a href="/_television/networks" title="TV Network">Networks</a>
+<ul class="main-link-menu">
+<li class="main-link"><a href="/_television/genres/abc" title="Watch ABC Shows Online">ABC</a></li><li class="main-link"><a href="/_television/genres/abc-family" title="Watch ABC Family Shows Online">ABC Family</a></li><li class="main-link"><a href="/_television/genres/amc" title="Watch AMC Shows Online">AMC</a></li><li class="main-link"><a href="/_television/genres/bbc-america" title="Watch BBC America Shows Online">BBC America</a></li><li class="main-link"><a href="/_television/genres/cbs" title="Watch CBS Shows Online">CBS</a></li><li class="main-link"><a href="/_television/genres/fox" title="Watch FOX Shows Online">FOX</a></li><li class="main-link"><a href="/_television/genres/fx" title="Watch FX Shows Online">FX</a></li><li class="main-link"><a href="/_television/genres/hbo" title="Watch HBO Shows Online">HBO</a></li><li class="main-link"><a href="/_television/genres/mtv" title="Watch MTV Shows Online">MTV</a></li><li class="main-link"><a href="/_television/genres/nbc" title="Watch NBC Shows Online">NBC</a></li><li class="main-link"><a href="/_television/genres/showtime" title="Watch Showtime Shows Online">Showtime</a></li><li class="main-link"><a href="/_television/genres/syfy" title="Watch Syfy Shows Online">Syfy</a></li><li class="main-link"><a href="/_television/genres/the-cw" title="Watch The CW Shows Online">The CW</a></li><li class="main-link"><a href="/_television/genres/tlc" title="Watch TLC Shows Online">TLC</a></li><li class="main-link"><a href="/_television/genres/usa-network" title="Watch USA Network Shows Online">USA Network</a></li></ul>
+</li>
+
 </ul>
 </div>
 </div>
@@ -138,7 +134,7 @@ Tracker
 </span>
 <span class="sign-in anonymous">
 <span class="form-container">
-<a class="signUpEvent sr-light-blue signup" href="/users/sign_up" rel="nofollow">Sign Up</a>
+<a class="signUpEvent signup" href="/users/sign_up" rel="nofollow">Sign Up</a>
 </span>
 <span class="form-container">
 <a class="login-trigger" href="/users/sign_in" rel="nofollow">Login</a>
@@ -146,9 +142,9 @@ Tracker
 <div class="close-button float-right">
 <a class="login-trigger" href="/users/sign_in"></a>
 </div>
-<h3 class="sr-header sr-blue font-16">Login to your account</h3>
+<h3 class="sr-header font-16 gap-bottom">Login to your account</h3>
 <div class="form-container">
-<form accept-charset="UTF-8" action="https://www.sidereel.com/users/sign_in" id="login-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="P2seB7Xooe4oZEnf1aZ8Og6gQ5FVmLBtWF8Fd3l2xwY="></div><p>
+<form accept-charset="UTF-8" action="https://www.sidereel.com/users/sign_in" id="login-form" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="5qlVktjNrh6+v6tzCDbLojToBzvg3Xvf/9r4vMimFKY="></div><p>
 <label for="session_email_or_username">Email or username</label>
 <input id="ajax-user-email" name="user[email]" type="text">
 </p>
@@ -157,7 +153,7 @@ Tracker
 <input id="ajax-user-password" name="user[password]" type="password">
 </p>
 <div class="form-bottom">
-<button alt="login button" class="raised large loginSubmitEvent" id="header-log-in" name="button" role="button" type="submit">Login</button>
+<button alt="login button" class="raised large loginSubmitEvent button" id="header-log-in" name="button" type="submit">Login</button>
 <span class="forgot-password"><a href="/users/password/new">Forgot Password?</a></span>
 </div>
 </form>
@@ -168,7 +164,7 @@ Tracker
 </span>
 </span>
 </div>
-<form accept-charset="UTF-8" action="/users/sign_out" class="hidden logoutForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="_method" type="hidden" value="delete"><input name="authenticity_token" type="hidden" value="P2seB7Xooe4oZEnf1aZ8Og6gQ5FVmLBtWF8Fd3l2xwY="></div>
+<form accept-charset="UTF-8" action="/users/sign_out" class="hidden logoutForm" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"><input name="_method" type="hidden" value="delete"><input name="authenticity_token" type="hidden" value="5qlVktjNrh6+v6tzCDbLojToBzvg3Xvf/9r4vMimFKY="></div>
 </form>
 
 <div class="login social">
@@ -193,28 +189,19 @@ Tracker
 <div class="gw-container">
 <div class="row">
 <div class="five sevenths">
-<div class="secondary-nav-label">
-</div>
 <ul class="secondary-links">
-<li class="main-link"><a href="/topic/this-week-in-tv" title="Find out what SideReel’s editors are watching this week">This Week in TV</a></li>
-<li class="main-link"><a href="/topic/Premieres-Finales-Calendar" title="Keep up with our Premieres &amp; Finales Calendar">Premieres &amp; Finales</a></li>
-<li class="main-link"><a href="/_television/genres/new-and-upcoming" title="New &amp; upcoming TV shows">New &amp; Upcoming</a></li>
-<li class="main-link"><a href="/topic/cancellation-buzz" title="Find out the latest scoop on shows in the cancellation danger zone">Cancellation Buzz</a></li>
-<li class="main-link"><a href="/topic/cord-cutting-world-cup" title="Find out the best ways to watch all 64 matches of the 2014 World Cup!">World Cup Viewing</a></li>
-<li class="main-link"><a href="/topic/trending-shows" title="Which new summer shows are SideReelers tracking most? Find a hot new show to add to your tracker!">Trending</a></li>
-</ul>
-
+<li class="main-link"><a href="/topic/this-week-in-tv" title="Find out what SideReel’s editors are watching this week">This Week in TV</a></li><li class="main-link"><a href="/topic/Premieres-Finales-Calendar" title="Keep up with our Premieres &amp; Finales Calendar">Premieres &amp; Finales</a></li><li class="main-link"><a href="/_television/genres/new-and-upcoming" title="New &amp; upcoming TV shows">New &amp; Upcoming</a></li><li class="main-link"><a href="/topic/cancellation-buzz" title="Find out the latest scoop on shows in the cancellation danger zone">Cancellation Buzz</a></li><li class="main-link"><a href="/topic/trending-shows" title="Which new fall shows are SideReelers tracking most? Find a hot new show to add to your tracker!">Trending</a></li><li class="main-link"><a href="/topic/best-worst-tv" title="Check out our TV highlights and lowlights of 2014">Best/Worst '14</a></li><li class="main-link"><a href="/users/leaderboards" title="Check out the most active users of SideReel from the last week">Reel Leaders</a></li></ul>
 
 </div>
 <div class="two sevenths search-block">
 <div class="search-box">
-<form accept-charset="UTF-8" action="http://www.sidereel.com/_television/search" class="search" id="site-search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+<form accept-charset="UTF-8" action="http://www.sidereel.com/_television/search" class="search" id="site-search" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
 <div class="input-div">
-<input autofocus="autofocus" class="search-autocomplete" data-autocomplete-appendto="#autocomplete-search-results" data-autocomplete-source="/tv_search" id="q" name="q" placeholder="Find, track, and watch TV shows" type="text">
+<input class="search-autocomplete" data-autocomplete-appendto="#autocomplete-search-results" data-autocomplete-source="/tv_search" id="q" name="q" placeholder="Find, track, and watch TV shows" type="text">
 <div class="autocomplete-search" id="autocomplete-search-results"></div>
 </div>
 <div class="button-div">
-<button class="submit-button" id="site-search-submit" type="submit"><i class="icon-search"></i>
+<button class="submit-button" id="site-search-submit" name="button" type="submit"><i class="icon-search"></i>
 </button></div>
 </form>
 
@@ -239,30 +226,18 @@ Tracker
 </div>
 </div>
 </div>
-
 </div>
 
 
-<div class="site-body pbm blueprint-container">
-<p style="color: green">
-
-
-</p>
-<p style="color: red">
-
-</p>
-<p class="alert">
-
-</p>
+<div class="site-body pbm">
 <div class="site-body-top-ad">
 
 </div>
-<div class="main blueprint-span-5">
-<script src="http://a3.sidereel.com/assets/jquery/jquery.xml2json-43b51749042e1141972baa50576c8fdc.js"></script>
-<script src="http://a3.sidereel.com/assets/flowplayer.commercial-5.4.6/flowplayer.min-2adc4e1da19fb26007537ba42b24af9e.js"></script>
-<script src="http://a3.sidereel.com/assets/flowplayer.commercial-5.4.6/plugins/LiveRail.AdManager.Flowplayer-5.4.6.plugin-485a261304b2f4ff93b4ff3f813a97c2.js"></script>
-<link href="http://a3.sidereel.com/assets/flowplayer.commercial-5.4.6/skin/minimalist.css" media="screen" rel="stylesheet">
-
+<div class="main">
+<script src="http://a.sidereel.com/assets/jquery/jquery.xml2json-70288494d8fafd605190f01890b63056.js"></script>
+<script src="http://a.sidereel.com/assets/flowplayer.commercial-5.4.6/flowplayer.min-161affcf16400ee9d20aeae9412a1090.js"></script>
+<script src="http://a.sidereel.com/assets/flowplayer.commercial-5.4.6/plugins/LiveRail.AdManager.Flowplayer-5.4.6.plugin-6debc01c87232973f91887112b19bf6e.js"></script>
+<link href="http://a.sidereel.com/assets/flowplayer.commercial-5.4.6/skin/minimalist.css" media="screen" rel="stylesheet">
 
 
 <link href="http://editorial.sidereel.com/srv2/css/generalabout.css" media="all" rel="stylesheet" type="text/css">
@@ -307,7 +282,7 @@ var z=document.getElementById("arrow-rt");
 </div>
 <div class="aboutcontent">
 
-<div class="module"><h2><a name="top">Privacy Policy</a></h2><div class="moduleContent">
+<div class="module"><h2 id="top">Privacy Policy</h2><div class="moduleContent">
 <p>Review All Media Network, LLC's ("AMN") legal and privacy notices for details on how we collect, use and protect your personal information on the website.</p>
 <p>Your use of and access to any website or software application owned by AMN ('AMN Property(ies)') either (i) made available to you directly or indirectly from this website; or (ii) with a direct link to this privacy policy is subject to this privacy policy.   This privacy policy explains the data that we collect and how we use it. </p> 
 <p>We respect your privacy. If you have any privacy concerns or questions about this privacy policy, you can contact us by email at: <a title="Email Privacy" href="mailto:privacy@sidereel.com" target="_blank">privacy@sidereel.com</a>.</p>
@@ -380,9 +355,10 @@ San Francisco, CA 94104, Attn:Your California Privacy Rights, c/o Privacy Admini
 </div>
 </div>
 </div>
+<div class="ad_desktop ad_mobile" data-out-of-page="true" style="display: none;"></div>
 
 </div>
-<div class="sidebar blueprint-span-2 blueprint-last">
+<div class="sidebar">
 <div class="registration-ad">
 <div id="sign-up-promotion">
 <div class="left">
@@ -402,7 +378,7 @@ San Francisco, CA 94104, Attn:Your California Privacy Rights, c/o Privacy Admini
 <div class="item left">
 <div class="content choose">
 <span class="verb">Choose</span>
-<span class="text">from 24,000 shows</span>
+<span class="text">from 21,000 shows</span>
 <span class="icon icon-laptop"></span>
 </div>
 </div>
@@ -410,15 +386,13 @@ San Francisco, CA 94104, Attn:Your California Privacy Rights, c/o Privacy Admini
 <div class="content">
 <span class="verb">Earn</span>
 <span class="text">badges for watching</span>
-<span class="icon cat-icon"><img alt="Badge icon sidebar" src="http://a3.sidereel.com/assets/registration/badge_icon_sidebar-e70d998a96c303cef649bc3b36823053.png"></span>
+<span class="icon cat-icon"><img alt="Badge icon sidebar" src="http://a.sidereel.com/assets/registration/badge_icon_sidebar-6ed1b99ab15e836a9a6df81e04bf2aa5.png"></span>
 </div>
 </div>
 <div class="item left">
 <div class="content">
-<span class="button">
-<a data-track-action="SignUpAd" data-track-category="SignupPrompting" href="/users/sign_up" role="button"><span class="button-text">Get a free account</span>
-</a></span>
-</div>
+<a class="button" data-track-action="SignUpAd" data-track-category="SignupPrompting" href="/users/sign_up"><span class="button-text">Get a free account</span>
+</a></div>
 </div>
 </div>
 </div>
@@ -430,13 +404,22 @@ San Francisco, CA 94104, Attn:Your California Privacy Rights, c/o Privacy Admini
 </div>
 <div id="ssb"></div>
 <div id="sidereel-scripts">
-<div class="socialIcons">
-<a class="connectRSSLink" href="http://feeds.feedburner.com/sidereel/getreel" rel="nofollow" target="_blank" title="Get the Latest SideReel updates via RSS in your favorite Reader"></a>
-<a class="connectYouTubeLink" href="http://www.youtube.com/sidereel" rel="nofollow" target="_blank" title="Watch SideReel on YouTube"></a>
-<a class="connectGooglePlusLink" href="https://plus.google.com/118138003283886271838/posts" rel="nofollow" target="_blank" title="Add SideReel to your Google Plus circles"></a>
-<a class="connectPinterestLink" href="http://pinterest.com/sidereel" rel="nofollow" target="_blank" title="Follow SideReel on Pinterest"></a>
-<a class="connectTwitterLink" href="http://www.twitter.com/SideReel" target="_blank" title="Follow SideReel's Twitter Feed"></a>
-<a class="connectFacebookLink" href="http://www.facebook.com/sidereel" target="_blank" title="Become a fan of SideReel on our Facebook Fan Page"></a>
+<div class="social-icons">
+<a class="connect-youtube" href="http://www.youtube.com/celebified" rel="nofollow" target="_blank" title="Watch Celebified on YouTube">
+<span class="icon-youtube"></span>
+</a>
+<a class="connect-google" href="https://plus.google.com/118138003283886271838/posts" rel="nofollow" target="_blank" title="Add SideReel to your Google Plus circles">
+<span class="icon-google-plus"></span>
+</a>
+<a class="connect-pinterest" href="http://pinterest.com/sidereel" rel="nofollow" target="_blank" title="Follow SideReel on Pinterest">
+<span class="icon-pinterest"></span>
+</a>
+<a class="connect-twitter" href="http://www.twitter.com/SideReel" target="_blank" title="Follow SideReel's Twitter Feed">
+<span class="icon-twitter"></span>
+</a>
+<a class="connect-facebook" href="http://www.facebook.com/sidereel" target="_blank" title="Become a fan of SideReel on our Facebook Fan Page">
+<span class="icon-facebook"></span>
+</a>
 </div>
 
 <div class="footer">
@@ -444,25 +427,25 @@ San Francisco, CA 94104, Attn:Your California Privacy Rights, c/o Privacy Admini
 <div class="footerSection" id="populartv">
 <h3 class="sr-header"><a href="/_television" rel="nofollow" title="Watch Popular TV Online">Popular TV</a></h3>
 <ul>
-<li><a href="/The_Big_Bang_Theory" title="The Big Bang Theory - Watch The Big Bang Theory Online">The Big Bang Theory</a></li>
-<li><a href="/new_girl" title="New Girl - Watch New Girl Online">New Girl</a></li>
-<li><a href="/Pretty_Little_Liars" title="Pretty Little Liars - Watch Pretty Little Liars Online">Pretty Little Liars</a></li>
 <li><a href="/the_vampire_diaries" title="The Vampire Diaries - Watch The Vampire Diaries Online">The Vampire Diaries</a></li>
-<li><a href="/Castle" title="Castle - Watch Castle Online">Castle</a></li>
-<li><a href="/Modern_Family" title="Modern Family - Watch Modern Family Online">Modern Family</a></li>
 <li><a href="/Greys_Anatomy" title="Grey's Anatomy - Watch Grey's Anatomy Online">Grey's Anatomy</a></li>
+<li><a href="/american_horror_story" title="American Horror Story - Watch American Horror Story Online">American Horror Story</a></li>
+<li><a href="/The_Walking_Dead" title="The Walking Dead - Watch The Walking Dead Online">The Walking Dead</a></li>
+<li><a href="/once_upon_a_time" title="Once Upon a Time - Watch Once Upon a Time Online">Once Upon a Time</a></li>
+<li><a href="/gotham" title="Gotham - Watch Gotham Online">Gotham</a></li>
+<li><a href="/arrow" title="Arrow - Watch Arrow Online">Arrow</a></li>
 </ul>
 </div>
 <div class="footerSection" id="newtv">
 <h3 class="sr-header"><a href="/_television/genres/new-and-upcoming" title="Watch New TV Shows Online">New TV Shows</a></h3>
 <ul>
-<li><a href="/penny_dreadful" title="Penny Dreadful - Watch Penny Dreadful Online">Penny Dreadful</a></li>
-<li><a href="/the_leftovers" title="The Leftovers - Watch The Leftovers Online">The Leftovers</a></li>
-<li><a href="/reckless" title="Reckless - Watch Reckless Online">Reckless</a></li>
-<li><a href="/murder_in_the_first" title="Murder in the First - Watch Murder in the First Online">Murder in the First</a></li>
-<li><a href="/chasing_life" title="Chasing Life - Watch Chasing Life Online">Chasing Life</a></li>
-<li><a href="/young_and_hungry" title="Young &amp; Hungry - Watch Young &amp; Hungry Online">Young &amp; Hungry</a></li>
-<li><a href="/the_last_ship" title="The Last Ship - Watch The Last Ship Online">The Last Ship</a></li>
+<li><a href="/the_flash" title="The Flash - Watch The Flash Online">The Flash</a></li>
+<li><a href="/gotham" title="Gotham - Watch Gotham Online">Gotham</a></li>
+<li><a href="/constantine" title="Constantine - Watch Constantine Online">Constantine</a></li>
+<li><a href="/how_to_get_away_with_murder" title="How To Get Away With Murder - Watch How To Get Away With Murder Online">How To Get Away With Murder</a></li>
+<li><a href="/madam_secretary" title="Madam Secretary - Watch Madam Secretary Online">Madam Secretary</a></li>
+<li><a href="/marry_me" title="Marry Me - Watch Marry Me Online">Marry Me</a></li>
+<li><a href="/state_of_affairs" title="State of Affairs - Watch State of Affairs Online">State of Affairs</a></li>
 </ul>
 </div>
 <div class="footerSection" id="webtv">
@@ -487,7 +470,7 @@ San Francisco, CA 94104, Attn:Your California Privacy Rights, c/o Privacy Admini
 <li><a href="/topic/jobs" title="Jobs">Jobs</a></li>
 <li><a href="/topic/advertise" title="Advertise">Advertise</a></li>
 <li><a href="/topic/content-owner" title="Content Owners">Content Owners</a></li>
-<li><a href="/topic/mobile" title="Mobile Apps">Mobile Apps</a></li>
+<li><a href="/topic/mobile" title="Mobile">Mobile</a></li>
 <li><a href="/topic/contact" title="Contact Us">Contact</a></li>
 </ul>
 </div>
@@ -498,12 +481,11 @@ San Francisco, CA 94104, Attn:Your California Privacy Rights, c/o Privacy Admini
 <li><a href="http://www.celebified.com/" target="_blank" title="Celebified - Celebrity news, watch videos, get tv info">Celebified</a></li>
 <li><a href="http://www.allmusic.com/" target="_blank" title="AllMusic : Music Search, Recommendations, Videos and Reviews">AllMusic</a></li>
 <li><a href="http://www.allmovie.com/" target="_blank" title="AllMovie - Movies and Films Database - Movie Search, Guide, Recommendations, and Reviews">AllMovie</a></li>
-<li><a href="http://www.allgame.com/" target="_blank" title="allgame">AllGame</a></li>
 </ul>
 </div>
 <!-- Welcome to SideReel from: [US] -->
 <div id="copyright">
-<a class="sr-blue" href="/topic/copyright" title="Copyright">Copyright</a>
+<a href="/topic/copyright" title="Copyright">Copyright</a>
 ©
 2014
 SideReel, a division of All Media Network, LLC. All Rights Reserved.
@@ -515,11 +497,21 @@ and
 </div>
 </div>
 </div>
+<script>
+  CLARITY.push({
+    use: ['ads'],
+    run: function(Ads){
+      Ads.site_code = 'SideReel';
+      Ads.zone = 'ros';
+      Ads.keywords = window.extensionsKeywords || [];
+      Ads.autoPopulate();
+    }
+  });
+</script>
 
-<script src="/old_assets/templates.js" type="text/javascript"></script>
-<script src="http://a3.sidereel.com/assets/all-b15a822418208a3fe3ba8032f2521252.js"></script>
-<script src="http://a3.sidereel.com/assets/users/all-a858644cea3f6ea36a3c05e69fb60312.js"></script>
-
+<script src="http://a.sidereel.com/assets/templates-74559a2c599377eb9eba8a218f769aca.js"></script>
+<script src="http://a.sidereel.com/assets/all-8f2207569a2d5c1aa399fe12f889c5f4.js"></script>
+<script src="http://a.sidereel.com/assets/users/all-8e1160ba879e39d875c1bb13a00d8229.js"></script>
 
 
 <script>
@@ -547,6 +539,7 @@ if(!SideReel.User.isLoggedIn) {$('a.autoplay-link').css('display', 'block')};
 SideReel.StaticPage.initialize();
 //]]>
 </script>
+
 <script>
 //<![CDATA[
 SideReel.SearchAutocomplete.initialize('#site-search');
@@ -594,7 +587,7 @@ var OX_ads = OX_ads || [];
 //]]>
 </script>
 <script type="text/javascript">
-OX_ads.push({"slot_id":"popunder","auid":"332112"});
+SideReel.Ads.push(OX_ads, {"slot_id":"popunder","auid":"332112"});
 
 </script>
 <script src="//ox-d.sidereel.com/w/1.0/jstag" type="text/javascript"></script>
@@ -633,6 +626,9 @@ OX_ads.push({"slot_id":"popunder","auid":"332112"});
 <script>
   LOTCC.bcp();
 </script>
+<script>
+  SideReel.TrackingPixel.render()
+</script>
 <!-- Begin comScore Tag -->
 <script>
   var _comscore = _comscore || [];
@@ -655,4 +651,4 @@ SideReel.FacebookLike.initialize("http%3A%2F%2Fwww.facebook.com%2Fsidereel",".fa
 
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
