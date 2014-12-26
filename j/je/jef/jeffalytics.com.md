@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeffalytics.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107064730id_/http%3A//www.jeffalytics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffalytics.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226083041id_/http%3A//www.jeffalytics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Depth of Knowledge by Jeff Sauer
 
@@ -50,7 +50,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.jeffalytics.com/privacy-policy/).
+By using our site, you consent to our [privacy policy](http://jeffalytics.com/privacy-policy/).
 
 **Changes to our Privacy Policy**
 
