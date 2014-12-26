@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xenforo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053706id_/http%3A//xenforo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xenforo.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226030410id_/https%3A//xenforo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | XenForo
 
