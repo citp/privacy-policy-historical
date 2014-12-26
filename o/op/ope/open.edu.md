@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open.edu privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621155827id_/http%3A//www.open.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open.edu privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226042235id_/http%3A//www.open.ac.uk/about/main/admin-and-governance/policies-and-statements/website-privacy-the-ou) for the most accurate reproduction.*
 
 # Website privacy at the OU - About the OU - Open University
 
