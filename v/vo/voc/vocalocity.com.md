@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vocalocity.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310021431id_/http%3A//www.vocalocity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocalocity.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226202815id_/http%3A//www.vonagebusiness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Business VoIP Guidelines | Vocalocity
+# Privacy Policy | Vonage Business Solutions (Vocalocity)
 
 ## Scope of This Notice
 
-This Privacy Policy is to inform you of Vonage Business Solutions’ (formerly Vocalocity) privacy practices and provide information about the ways in which information collected by Vonage is used and disclosed.
+This Privacy Policy is to inform you of Vonage Business Solutions’ privacy practices and provide information about the ways in which information collected by Vonage is used and disclosed.
 
 ## Our Commitment to Privacy
 
@@ -77,7 +77,7 @@ Vonage may send you e-mail about your account, about the services you have purch
 
 Vonage gives you the ability to opt-out of receiving promotional emails from us at any time, by following the opt-out or unsubscribe instructions contained in each promotional e-mail sent by Vonage or by contacting Vonage as provided below and requesting that you be unsubscribed:
 
-**• Email:** billing@vocalocity.com  
+**• Email:** [billing@vonagebusiness.com](mailto:billing@vonagebusiness.com)  
 **• Telephone:** 1-866-901-0242
 
 If you opt-out of receiving promotional emails from us, we may still send you e-mails about your account or any products or services you have requested or received from us. In addition, you must opt out separately from receiving promotional emails from our partners by following the opt-out instructions contained in such emails from those business partners; your unsubscribe request to Vonage does not opt you out of future emails from business partners with whom we have already shared your email address. Please note that it may take up to 10 business days for us and our business partners to process your opt-out requests.
@@ -100,7 +100,7 @@ Our websites may contain links to other sites operated by third parties. Vonage 
 
 ## How to Contact Us
 
-Vonage gives you the ability to access, modify or update your information at any time. Also, if you have any questions about any of these practices or Vonage’s use of your personal information, please feel free to contact us via email at billing@vocalocity.com or calling Vonage at 1-866-901-0242. Vonage will work with you to resolve any concerns you may have about this Policy.
+Vonage gives you the ability to access, modify or update your information at any time. Also, if you have any questions about any of these practices or Vonage’s use of your personal information, please feel free to contact us via email at [billing@vonagebusiness.com](mailto:billing@vonagebusiness.com) or calling Vonage at 1-866-901-0242. Vonage will work with you to resolve any concerns you may have about this Policy.
 
 ## Changes to this Privacy Statement
 
