@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the themail.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050134id_/http%3A//www.themail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themail.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226201459id_/http%3A//www.themail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Mail Online- Daily News, Affiliate Marketing News, Advice and Tutorials
 
-  * Jun 24, 2013
-  * Murray Newlands
-  * [No comments yet](http://www.themail.com/privacy-policy/#respond "Comment on Privacy Policy")
-
-
-
- Loading ...
-
- **Privacy Policy for TheMail.com**
+**Privacy Policy for TheMail.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.themail.com/contact/).
 
