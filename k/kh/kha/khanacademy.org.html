@@ -1,124 +1,95 @@
-<!--The following is the downloaded HTML source of the khanacademy.org privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629013219id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the khanacademy.org privacy policy that was archived on 2014-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226133531id_/http%3A//www.khanacademy.org/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/Organization" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# khanacademy:
                         http://ogp.me/ns/apps/khanacademy#">
         
+        <!--[if lte IE 8]><script src="/javascript/ie-warning.js"></script><script>window.onload=function(){e("/images/ie-warning/")}</script><![endif]-->
         
-        <!--[if lte IE 7]><script src="/javascript/ie-warning.js"></script><script>window.onload=function(){e("/images/ie-warning/")}</script><![endif]-->
-        
-<script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
-    // TODO: Sweep below into KA
-    // TODO: Change USERNAME var since it is actually the user's nickname
-    
-    window.FB_APP_ID = '160249463991765';
-    window.USERNAME = '';
 
-    window.KA = {
-        version: "0627-1900-8e156253e22d.376862450448683729",
+<script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+(function() {
+    window.KA = {                   
+        version: "1223-2333-de0af40e3b2f.381019682217630377",
         isMobileCapable: false,
         isIPad: false,
         useKatex: true,
         vipIssueReporter: null,
         // TODO(eater): Remove after clues are fully launched
         allowEditingClues: false,
+        staticHost: "cdn.kastatic.org",
+        bingoId: "_gae_bingo_random:XscpYWCrGeEYFZ9DnnHzUpixFVrdR_sGyiMJbHrJ",
 
         "FB_APP_NAMESPACE": "khanacademy",
         
-        userProfileModel_: null,
-        getUserProfile: function() {
-            
-            return KA.userProfileModel_;
-        },
-
-        setUserProfile: function(attrs) {
-            if (!KA.userProfileModel_) {
-                var ProfileModel = KAdefine.require(
-                    "./javascript/shared-package/profile-model.js");
-                KA.userProfileModel_ = new ProfileModel(attrs);
-            }
-            KA.userProfileModel_.set(attrs);
-            return KA.userProfileModel_;
-        },
-        getGlobalPermissions: function() {
-            var profile = KA.getUserProfile();
-            return (profile && profile.get("globalPermissions")) || [];
-        },
         getUserID: function() {
             
             return null;
             
         },
-        isPhantom: function() {
-            var profile = KA.getUserProfile();
-            // The user is pre-phantom if there is no profile, so we
-            // include it in this check.
-            return !profile || profile.get("isPhantom");
-        },
-        isDeveloper: function() {
-            var profile = KA.getUserProfile();
-            return profile && profile.get("isDeveloper");
-        },
         currentServerTime: function() {
-            return 1404005539.6680901;
+            return 1419600932.12168;
         },
 
-        // return a path to this static content given a relative url - example:
+        // return a path to this static content given a path url - example:
         // staticUrl('/mathjax.js') -> 'https://www.kastatic.org/mathjax.js'
         staticUrl: function(relative) {
-            return "https://www.kastatic.org" + relative;
+            return "https://cdn.kastatic.org" + relative;
         },
 
-        mathjaxUrl: "https://www.kastatic.org/khan-exercises/third_party/MathJax/2.1/MathJax.js?config=KAthJax-8f02f65cba7722b3e529bd9dfa6ac25d",
-        commitSHA: "2c644df1902332519f9200b38f83763bea30cf71",
+        mathjaxUrl: "https://cdn.kastatic.org/khan-exercises/third_party/MathJax/2.1/MathJax.js?config=KAthJax-8f02f65cba7722b3e529bd9dfa6ac25d",
+        commitSHA: "8634521b2fad3ea40e3eebfd43b7a8eb87e5209a",
         loginUrl: "/login?continue=%2Fabout%2Fprivacy-policy",
         
         language: "en",
+        languageLocale: "en",
         languageForYoutube: "en",
         languageLocalName: "English",
         languageIsRtl: false,
         currentPageName: "Privacy Notice | Khan Academy",
         MAX_BIO_LENGTH: 160,
 
-        // Whether we should show prerequisites for missions
-        SHOW_PREREQS_CONDITION: true,
-
-        SHOW_PREREQS_FOR_ADVANCED_MISSIONS: false,
-
-        // <GANDALF_COMMUNITY_SUPPORT>
-        GANDALF_COMMUNITY_SUPPORT: false,
-        // </GANDALF_COMMUNITY_SUPPORT>
-
-        GOLDILOCKS_CONDITION: false,
-
         GANDALF_VIDEOTASK_PROGRESS: false,
+        GANDALF_YCLA_CHALLENGE: false,
 
-        // Whether the user gets the consolidated learn menu (where links point
-        // to missions when available)
-        ATHENA_VNEXT_LEARN_MENU: false,
+        ATHENA_STREAK_COUNTER: "control",
 
-        // Whether the user gets the new-new meta dash homepage
-        ATHENA_METADASH: "metadash",
+        // Experiment to show a modal instead of sending the user to /signup
+        GROWTH_MODAL_SIGNUP: true,
 
-        SEARCH_NEW_TYPEAHEAD_UI: false,
+        SEARCH_NEW_TYPEAHEAD_UI: true,
 
-        ATHENA_HIDE_PROGRESS_TILES: false
+        // Whether the user is allowed to view the parent homepage
+        PARENT_HOMEPAGE_ENABLED: true,
+        // Whether the user is allowed to view the coach homepage
+        COACH_HOMEPAGE_ENABLED: true,
+
+        ATHENA_CLICKABLE_BOUNCING_AVATARS: false,
+
+        FB_APP_ID: '160249463991765',
+        IS_DEV_SERVER: false,
+
+        // Used to indicate that the KA variable has data from the server.
+        // See also javascript/shared-package/ka.js
+        INITIALIZED: true,
+
+        stripePublicKey: "pk_live_bOMeT1j35MoCY5NMcddnG0ke"
     };
+})();
 </script>
 
 
-        
 <script type="text/javascript">
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
     ga('create', 'UA-6742635-1', {
         'cookieDomain': '.khanacademy.org'
     });
     ga('set', 'dimension8', "main:/about/privacy-policy");
-    ga('set', 'dimension7', ":");
+    ga('set', 'dimension7', "a0:");
     ga('set', 'sessionControl', 'end');
 
     ga('send', 'pageview');
@@ -126,7 +97,7 @@
 <script type="text/javascript">
         
         window._qf = [];
-        var $ = function(f) { _qf.push(f); };
+        window.$ = function(f) { _qf.push(f); };   
           window._initialPageTime = (new Date()).getTime();</script>
 
         
@@ -160,44 +131,41 @@
         <meta property="og:type" content="non_profit">
         <meta property="og:title" content="Khan Academy">
         <meta property="og:description" content="Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.">
-        <meta property="og:image" content="https://www.kastatic.org/images/khan-logo-vertical-transparent.png">
+        <meta property="og:image" content="https://cdn.kastatic.org/images/khan-logo-vertical-transparent.png">
         <meta property="fb:page_id" content="159403248441">
         
 
         <meta name="twitter:site" content="@khanacademy">
         <meta name="twitter:title" content="Khan Academy">
         <meta name="twitter:description" content="Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere.">
-        <meta name="twitter:image" content="https://www.kastatic.org/images/khan-logo-vertical-transparent.png">
+        <meta name="twitter:image" content="https://cdn.kastatic.org/images/khan-logo-vertical-transparent.png">
         
 
         <meta itemprop="name" content="Khan Academy">
         <meta itemprop="description" content="Watch. Practice. Learn almost anything for free.">
-        <meta itemprop="image" content="https://www.kastatic.org/images/khan-logo-vertical-transparent.png">
+        <meta itemprop="image" content="https://cdn.kastatic.org/images/khan-logo-vertical-transparent.png">
         
 
         
-        <link rel="shortcut icon" href="https://www.kastatic.org/favicon.ico?leaf">
+        <link rel="shortcut icon" href="https://cdn.kastatic.org/favicon.ico?leaf">
         
-        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://www.kastatic.org/images/apple-touch-icon-57x57-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.kastatic.org/images/apple-touch-icon-72x72-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.kastatic.org/images/apple-touch-icon-114x114-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.kastatic.org/images/apple-touch-icon-144x144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdn.kastatic.org/images/apple-touch-icon-57x57-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn.kastatic.org/images/apple-touch-icon-72x72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.kastatic.org/images/apple-touch-icon-114x114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://cdn.kastatic.org/images/apple-touch-icon-144x144-precomposed.png">
 
         
-            
-            
-            
-<link rel="stylesheet" type="text/css" href="https://www.kastatic.org/genfiles/stylesheets/en/shared-package-00b676de445894157ae26432c9157f1c.css">
-<link rel="stylesheet" type="text/css" href="https://www.kastatic.org/genfiles/stylesheets/en/tos-privacy-package-02760bea2642de221635b3986278df23.css">
-
         
+<link rel="stylesheet" type="text/css" href="https://cdn.kastatic.org/genfiles/stylesheets/en/shared-package-5ef5e9.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.kastatic.org/genfiles/stylesheets/en/tos-privacy-package-df3b22.css">
+
     </head>
-    <!--[if lt IE 7]>  <body class="ie ie6 lte9 lte8 lte7 lang-en  vnext-content" > <![endif]-->
-<!--[if IE 7]>     <body class="ie ie7 lte9 lte8 lte7 lang-en  vnext-content" > <![endif]-->
-<!--[if IE 8]>     <body class="ie ie8 lte9 lte8 lang-en  vnext-content" > <![endif]-->
-<!--[if IE 9]>     <body class="ie ie9 lte9 lang-en  vnext-content" > <![endif]-->
-<!--[if gt IE 9]>  <body class="lang-en  vnext-content" > <![endif]-->
-<!--[if !IE]><!--> <body class="lang-en  vnext-content"> <!--<![endif]-->
+<!--[if lt IE 7]>  <body class="ie ie6 lte9 lte8 lte7 lang-en  is-united-states-request" > <![endif]-->
+<!--[if IE 7]>     <body class="ie ie7 lte9 lte8 lte7 lang-en  is-united-states-request" > <![endif]-->
+<!--[if IE 8]>     <body class="ie ie8 lte9 lte8 lang-en  is-united-states-request" > <![endif]-->
+<!--[if IE 9]>     <body class="ie ie9 lte9 lang-en  is-united-states-request" > <![endif]-->
+<!--[if gt IE 9]>  <body class="lang-en  is-united-states-request" > <![endif]-->
+<!--[if !IE]><!--> <body class="lang-en  is-united-states-request"> <!--<![endif]-->
     
 
     <div class="external-styles-missing" style="
@@ -210,7 +178,7 @@
         <p>
             
             If you're behind a web filter, please make sure that the domains <strong>*.kastatic.org</strong> and <strong>*.kasandbox.org</strong> are unblocked.
-            <span id="inaccurate-clock-warning">If you're still having trouble, please check your computer's clock and make sure that today's date is properly set.</span>
+            <span id="inaccurate-clock-warning"></span>
             
         </p>
     </div>
@@ -218,427 +186,807 @@
     <div id="outer-wrapper" class="clearfix
         ">
 
-    <div id="top-header-container">
+    
+    <div id="top-header-container" class="clearfix athena-big-menu profile-header-scroll">
         <div id="top-header" class="new">
 <nav class="sitewide-navigation">
     <span class="links nav-subheader">
         
-        <a id="header-logo" href="/" class="nav-link no-menu show-demo-dialog" data-tag="Header" aria-label="Khan Academy"><span class="logotype"><span class="logotype-khan">Khan</span><span class="logotype-academy">Academy</span></span></a>
+        <a id="header-logo" href="/" class="nav-link no-menu show-demo-dialog" data-tag="Header" aria-label="Khan Academy"><span class="logotype" aria-hidden="true"><span class="logotype-khan">Khan</span><span class="logotype-academy">Academy</span></span></a>
 
         
         <div class="watch-link dropdown">
-        <a class="nav-link dropdown-toggle show-demo-dialog" href="#"><span>Learn <i class="icon-chevron-down"></i></span></a>
-        
-
-
-<ul class="topic-browser-menu dropdown-menu new none-active" data-role="listview" data-inset="true">
-
-  
-  <li>
-    <a href="/" class="menulink">
-      Home
+                
+                    
+    <a class="learn-menu-dropdown nav-link dropdown-toggle show-demo-dialog" href="#" role="button" aria-haspopup="true">
+        <div class="learn-menu-title">Subjects</div>
+        <div class="icon-caret-container" aria-hidden="true"><i class="icon-caret-down"></i></div>
+        <span class="hacky-border-cover"> </span>
     </a>
-  </li>
 
-  <li>
-    <a href="/exercisedashboard" class="menulink">Knowledge Map</a>
-  </li>
 
-  <li class="has-divider"></li>
+                
+
+            
+            
+            <ul class="topic-browser-menu dropdown-menu new none-active" data-role="listview" data-inset="true">
+                
+                <li class="level0 learning-home">
+                    
+                        <a href="/" class="level0--menulink menulink">
+                            Home
+                        </a>
+                    
+                </li>
+                
+
+<li class="has-divider"></li>
+
+
 
   
   
-    
-      <li class="level0 has-submenu">
-        <a data-tag="TopicBrowserPulldown" class="menulink" href="#">Math
-        <i class="icon-chevron-right"></i>
-        <i class="icon-chevron-left"></i>
-        </a>
-        <div class="dropdown-menu no-submenus sub-menu-custom math domain-color">
-          <div class="submenu-title"><a href="/math" class="topic-link">Math</a><a href="/exercisedashboard" class="km-link">Knowledge Map</a></div>
-          <div class="subjects-header"><strong>Subjects</strong></div>
-          <ul class="clearfix">
+    <li class="level0 has-submenu math" data-domain-slug="math">
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Math
+      <i class="icon-chevron-right"></i>
+      <i class="icon-chevron-left"></i>
+      </a>
+      <div class="dropdown-menu no-submenus sub-menu-custom math domain-color">
+        <div class="submenu-title"><a href="/math" class="topic-link">Math</a><a href="/exercisedashboard" class="km-link">Knowledge Map</a></div>
+
           
-            <li class="level1 math ">
-              <a href="/math/early-math" data-tag="TopicBrowserPulldown" class="menulink">Early math</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/differential-calculus" data-tag="TopicBrowserPulldown" class="menulink">Differential calculus</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/arithmetic" data-tag="TopicBrowserPulldown" class="menulink">Arithmetic</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/integral-calculus" data-tag="TopicBrowserPulldown" class="menulink">Integral calculus</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/pre-algebra" data-tag="TopicBrowserPulldown" class="menulink">Pre-algebra</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/multivariable-calculus" data-tag="TopicBrowserPulldown" class="menulink">Multivariable calculus</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/algebra" data-tag="TopicBrowserPulldown" class="menulink">Algebra I</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/differential-equations" data-tag="TopicBrowserPulldown" class="menulink">Differential equations</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/geometry" data-tag="TopicBrowserPulldown" class="menulink">Geometry</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/linear-algebra" data-tag="TopicBrowserPulldown" class="menulink">Linear algebra</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/algebra2" data-tag="TopicBrowserPulldown" class="menulink">Algebra II</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/applied-math" data-tag="TopicBrowserPulldown" class="menulink">Applied math</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/trigonometry" data-tag="TopicBrowserPulldown" class="menulink">Trigonometry</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/recreational-math" data-tag="TopicBrowserPulldown" class="menulink">Recreational math</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/probability" data-tag="TopicBrowserPulldown" class="menulink">Probability and statistics</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/competition-math" data-tag="TopicBrowserPulldown" class="menulink">Math contests</a>
-            </li>
-          
-            <li class="level1 math ">
-              <a href="/math/precalculus" data-tag="TopicBrowserPulldown" class="menulink">Precalculus</a>
-            </li>
-          
-          </ul>
-          
-            <div class="grade-levels">
-              <strong>Grade level (U.S.):</strong>
+            
+            <div class="grade-group" style="width: 30%; float: left;">
               
-                <a href="/math/early-math" data-tag="TopicBrowserPulldown" class="menulink">K–2</a>
+                <div class="k-8th-grade-group">
+                  <div class="grade-group-header"><strong>K–8th grade</strong></div>
+                  <ul class="clearfix">
+                  
+                    <li>
+                    <a href="/math/early-math" data-tag="TopicBrowserPulldown" class="menulink">
+                      K–2nd
+                    </a>
+                    </li>
+                  
+                    <li>
+                    <a href="/math/cc-third-grade-math" data-tag="TopicBrowserPulldown" class="menulink">
+                      3rd
+                    </a>
+                    </li>
+                  
+                    <li>
+                    <a href="/math/cc-fourth-grade-math" data-tag="TopicBrowserPulldown" class="menulink">
+                      4th
+                    </a>
+                    </li>
+                  
+                    <li>
+                    <a href="/math/cc-fifth-grade-math" data-tag="TopicBrowserPulldown" class="menulink">
+                      5th
+                    </a>
+                    </li>
+                  
+                    <li>
+                    <a href="/math/cc-sixth-grade-math" data-tag="TopicBrowserPulldown" class="menulink">
+                      6th
+                    </a>
+                    </li>
+                  
+                    <li>
+                    <a href="/math/cc-seventh-grade-math" data-tag="TopicBrowserPulldown" class="menulink">
+                      7th
+                    </a>
+                    </li>
+                  
+                    <li>
+                    <a href="/math/cc-eighth-grade-math" data-tag="TopicBrowserPulldown" class="menulink">
+                      8th
+                    </a>
+                    </li>
+                  
+                  </ul>
+                </div>
               
-                <a href="/math/cc-third-grade-math" data-tag="TopicBrowserPulldown" class="menulink">3</a>
               
-                <a href="/math/cc-fourth-grade-math" data-tag="TopicBrowserPulldown" class="menulink">4</a>
-              
-                <a href="/math/cc-fifth-grade-math" data-tag="TopicBrowserPulldown" class="menulink">5</a>
-              
-                <a href="/math/cc-sixth-grade-math" data-tag="TopicBrowserPulldown" class="menulink">6</a>
-              
-                <a href="/math/cc-seventh-grade-math" data-tag="TopicBrowserPulldown" class="menulink">7</a>
-              
-                <a href="/math/cc-eighth-grade-math" data-tag="TopicBrowserPulldown" class="menulink">8</a>
+                <div class="foundations">
+                  <div class="grade-group-header"><strong>Foundations</strong></div>
+                  <ul class="clearfix">
+                    
+                    <li>
+                    <a href="/math/early-math" data-tag="TopicBrowserPulldown" class="menulink">
+                      Early math
+                    </a>
+                    </li>
+                    
+                    <li>
+                    <a href="/math/arithmetic" data-tag="TopicBrowserPulldown" class="menulink">
+                      Arithmetic
+                    </a>
+                    </li>
+                    
+                    <li>
+                    <a href="/math/pre-algebra" data-tag="TopicBrowserPulldown" class="menulink">
+                      Pre-algebra
+                    </a>
+                    </li>
+                    
+                    <li>
+                    <a href="/math/basic-geo" data-tag="TopicBrowserPulldown" class="menulink">
+                      Basic geometry
+                    </a>
+                    </li>
+                    
+                  </ul>
+                </div>
               
             </div>
+            
+              <div class="grade-group" style="width: 65%; float: left;">
+                <div class="grade-group-header"><strong>High school and beyond</strong></div>
+                <ul class="clearfix">
+                
+                <li class="secondary-children">
+                <a href="/math/algebra-basics" data-tag="TopicBrowserPulldown" class="menulink">
+                  Algebra basics
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/differential-calculus" data-tag="TopicBrowserPulldown" class="menulink">
+                  Differential calculus
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/algebra" data-tag="TopicBrowserPulldown" class="menulink">
+                  Algebra I
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/integral-calculus" data-tag="TopicBrowserPulldown" class="menulink">
+                  Integral calculus
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/geometry" data-tag="TopicBrowserPulldown" class="menulink">
+                  Geometry
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/multivariable-calculus" data-tag="TopicBrowserPulldown" class="menulink">
+                  Multivariable calculus
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/algebra2" data-tag="TopicBrowserPulldown" class="menulink">
+                  Algebra II
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/differential-equations" data-tag="TopicBrowserPulldown" class="menulink">
+                  Differential equations
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/trigonometry" data-tag="TopicBrowserPulldown" class="menulink">
+                  Trigonometry
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/linear-algebra" data-tag="TopicBrowserPulldown" class="menulink">
+                  Linear algebra
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/probability" data-tag="TopicBrowserPulldown" class="menulink">
+                  Probability and statistics
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/recreational-math" data-tag="TopicBrowserPulldown" class="menulink">
+                  Recreational math
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/precalculus" data-tag="TopicBrowserPulldown" class="menulink">
+                  Precalculus
+                </a>
+                </li>
+                
+                <li class="secondary-children">
+                <a href="/math/competition-math" data-tag="TopicBrowserPulldown" class="menulink">
+                  Math contests
+                </a>
+                </li>
+                
+
+                
+                
+                </ul>
+              </div>
+            
           
-        </div>
-      </li>
-    
-  
-    
-      <li class="level0 has-submenu">
-        <a data-tag="TopicBrowserPulldown" class="menulink" href="#">Science 
-        <i class="icon-chevron-right"></i>
-        <i class="icon-chevron-left"></i>
-        </a>
-        <div class="dropdown-menu no-submenus sub-menu-custom science domain-color">
-          <div class="submenu-title">Science </div>
-          <div class="subjects-header"><strong>Subjects</strong></div>
-          <ul class="clearfix">
           
-            <li class="level1 science ">
-              <a href="/science/biology" data-tag="TopicBrowserPulldown" class="menulink">Biology</a>
-            </li>
-          
-            <li class="level1 science ">
-              <a href="/science/cosmology-and-astronomy" data-tag="TopicBrowserPulldown" class="menulink">Cosmology and astronomy</a>
-            </li>
-          
-            <li class="level1 science ">
-              <a href="/science/physics" data-tag="TopicBrowserPulldown" class="menulink">Physics</a>
-            </li>
-          
-            <li class="level1 science ">
-              <a href="/science/health-and-medicine" data-tag="TopicBrowserPulldown" class="menulink">Health and medicine</a>
-            </li>
-          
-            <li class="level1 science ">
-              <a href="/science/chemistry" data-tag="TopicBrowserPulldown" class="menulink">Chemistry</a>
-            </li>
-          
-            <li class="level1 science ">
-              <a href="/science/discoveries-projects" data-tag="TopicBrowserPulldown" class="menulink">Discoveries and projects</a>
-            </li>
-          
-            <li class="level1 science ">
-              <a href="/science/organic-chemistry" data-tag="TopicBrowserPulldown" class="menulink">Organic chemistry</a>
-            </li>
-          
-          </ul>
-          
-        </div>
-      </li>
-    
-  
-    
-      <li class="level0 has-submenu">
-        <a data-tag="TopicBrowserPulldown" class="menulink" href="#">Economics and finance
-        <i class="icon-chevron-right"></i>
-        <i class="icon-chevron-left"></i>
-        </a>
-        <div class="dropdown-menu no-submenus sub-menu-custom economics-finance-domain domain-color">
-          <div class="submenu-title">Economics and finance</div>
-          <div class="subjects-header"><strong>Subjects</strong></div>
-          <ul class="clearfix">
-          
-            <li class="level1 economics-finance-domain ">
-              <a href="/economics-finance-domain/microeconomics" data-tag="TopicBrowserPulldown" class="menulink">Microeconomics</a>
-            </li>
-          
-            <li class="level1 economics-finance-domain ">
-              <a href="/economics-finance-domain/core-finance" data-tag="TopicBrowserPulldown" class="menulink">Finance and capital markets</a>
-            </li>
-          
-            <li class="level1 economics-finance-domain ">
-              <a href="/economics-finance-domain/macroeconomics" data-tag="TopicBrowserPulldown" class="menulink">Macroeconomics</a>
-            </li>
-          
-            <li class="level1 economics-finance-domain ">
-              <a href="/economics-finance-domain/entrepreneurship2" data-tag="TopicBrowserPulldown" class="menulink">Entrepreneurship</a>
-            </li>
-          
-          </ul>
-          
-        </div>
-      </li>
-    
-  
-    
-      <li class="level0 has-submenu">
-        <a data-tag="TopicBrowserPulldown" class="menulink" href="#">Arts and humanities
-        <i class="icon-chevron-right"></i>
-        <i class="icon-chevron-left"></i>
-        </a>
-        <div class="dropdown-menu no-submenus sub-menu-custom humanities domain-color">
-          <div class="submenu-title">Arts and humanities</div>
-          <div class="subjects-header"><strong>Subjects</strong></div>
-          <ul class="clearfix">
-          
-            <li class="level1 humanities ">
-              <a href="/humanities/history" data-tag="TopicBrowserPulldown" class="menulink">History</a>
-            </li>
-          
-            <li class="level1 humanities ">
-              <a href="/humanities/music" data-tag="TopicBrowserPulldown" class="menulink">Music</a>
-            </li>
-          
-            <li class="level1 humanities ">
-              <a href="/humanities/art-history" data-tag="TopicBrowserPulldown" class="menulink">Art history</a>
-            </li>
-          
-            <li class="level1 humanities ">
-              <a href="/humanities/philosophy" data-tag="TopicBrowserPulldown" class="menulink">Philosophy</a>
-            </li>
-          
-            <li class="level1 humanities ">
-              <a href="/humanities/american-civics-subject" data-tag="TopicBrowserPulldown" class="menulink">American civics</a>
-            </li>
-          
-          </ul>
-          
-        </div>
-      </li>
-    
-  
-    
-      <li class="level0 has-submenu">
-        <a data-tag="TopicBrowserPulldown" class="menulink" href="#">Computing
-        <i class="icon-chevron-right"></i>
-        <i class="icon-chevron-left"></i>
-        </a>
-        <div class="dropdown-menu no-submenus sub-menu-custom computing domain-color">
-          <div class="submenu-title">Computing</div>
-          <div class="subjects-header"><strong>Subjects</strong></div>
-          <ul class="clearfix">
-          
-            <li class="level1 computing ">
-              <a href="/computing/cs" data-tag="TopicBrowserPulldown" class="menulink">Computer programming</a>
-            </li>
-          
-            <li class="level1 computing ">
-              <a href="/computing/computer-science" data-tag="TopicBrowserPulldown" class="menulink">Computer science</a>
-            </li>
-          
-          </ul>
-          
-        </div>
-      </li>
-    
-  
-    
-      <li class="level0 has-submenu">
-        <a data-tag="TopicBrowserPulldown" class="menulink" href="#">Test prep
-        <i class="icon-chevron-right"></i>
-        <i class="icon-chevron-left"></i>
-        </a>
-        <div class="dropdown-menu no-submenus sub-menu-custom test-prep domain-color">
-          <div class="submenu-title">Test prep</div>
-          <div class="subjects-header"><strong>Subjects</strong></div>
-          <ul class="clearfix">
-          
-            <li class="level1 test-prep ">
-              <a href="/test-prep/sat" data-tag="TopicBrowserPulldown" class="menulink">SAT </a>
-            </li>
-          
-            <li class="level1 test-prep ">
-              <a href="/test-prep/cahsee-subject" data-tag="TopicBrowserPulldown" class="menulink">CAHSEE</a>
-            </li>
-          
-            <li class="level1 test-prep ">
-              <a href="/test-prep/mcat" data-tag="TopicBrowserPulldown" class="menulink">MCAT</a>
-            </li>
-          
-            <li class="level1 test-prep ">
-              <a href="/test-prep/iit-jee-subject" data-tag="TopicBrowserPulldown" class="menulink">IIT JEE</a>
-            </li>
-          
-            <li class="level1 test-prep ">
-              <a href="/test-prep/NCLEX-RN" data-tag="TopicBrowserPulldown" class="menulink">NCLEX-RN</a>
-            </li>
-          
-            <li class="level1 test-prep ">
-              <a href="/test-prep/ap-art-history" data-tag="TopicBrowserPulldown" class="menulink">AP Art History</a>
-            </li>
-          
-            <li class="level1 test-prep ">
-              <a href="/test-prep/gmat" data-tag="TopicBrowserPulldown" class="menulink">GMAT</a>
-            </li>
-          
-          </ul>
-          
-        </div>
-      </li>
-    
-  
-    
-      <li class="level0 has-submenu">
-        <a data-tag="TopicBrowserPulldown" class="menulink" href="#">Partner content
-        <i class="icon-chevron-right"></i>
-        <i class="icon-chevron-left"></i>
-        </a>
-        <div class="dropdown-menu no-submenus sub-menu-custom partner-content domain-color">
-          <div class="submenu-title">Partner content</div>
-          <div class="subjects-header"><strong>Subjects</strong></div>
-          <ul class="clearfix">
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/MoMA" data-tag="TopicBrowserPulldown" class="menulink">The Museum of Modern Art</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/crash-course1" data-tag="TopicBrowserPulldown" class="menulink">Crash Course</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/getty-museum" data-tag="TopicBrowserPulldown" class="menulink">The J. Paul Getty Museum</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/stanford-medicine" data-tag="TopicBrowserPulldown" class="menulink">Stanford School of Medicine</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/CAS-biodiversity" data-tag="TopicBrowserPulldown" class="menulink">California Academy of Sciences</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/mit-k12" data-tag="TopicBrowserPulldown" class="menulink">MIT+K12</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/Exploratorium" data-tag="TopicBrowserPulldown" class="menulink">Exploratorium</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/lebron-asks-subject" data-tag="TopicBrowserPulldown" class="menulink">LeBron asks</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/asian-art-museum" data-tag="TopicBrowserPulldown" class="menulink">Asian Art Museum</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/brookings-institution" data-tag="TopicBrowserPulldown" class="menulink">The Brookings Institution</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/all-star-orchestra" data-tag="TopicBrowserPulldown" class="menulink">All-Star Orchestra</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/aspeninstitute" data-tag="TopicBrowserPulldown" class="menulink">The Aspen Institute</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/ssf-cci" data-tag="TopicBrowserPulldown" class="menulink">Silicon Schools Fund and Clayton Christensen Institute</a>
-            </li>
-          
-            <li class="level1 partner-content ">
-              <a href="/partner-content/nasa" data-tag="TopicBrowserPulldown" class="menulink">NASA</a>
-            </li>
-          
-          </ul>
-          
-        </div>
-      </li>
-    
-  
-    
-      <li class="level0">
-        <a href="/talks-and-interviews" data-tag="TopicBrowserPulldown" class="menulink">Talks and interviews</a>
-      </li>
-    
-  
-    
-      <li class="level0">
-        <a href="/coach-res" data-tag="TopicBrowserPulldown" class="menulink">Coach and classroom resources</a>
-      </li>
-    
+      </div>
+    </li>
   
 
   
-  <li class="has-divider"></li>
-  <li>
-    <a href="/library" data-tag="TopicBrowserPulldownBrowse" class="menulink">Browse all</a>
-  </li>
-</ul>
+  
+    <li class="level0 has-submenu science" data-domain-slug="science">
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Science
+      <i class="icon-chevron-right"></i>
+      <i class="icon-chevron-left"></i>
+      </a>
+      <div class="dropdown-menu no-submenus sub-menu-custom science domain-color">
+        <div class="submenu-title">Science</div>
+
+          
+            
+                
+                  
+                  <div class="subjects-header"><strong>Subjects</strong></div>
+                  <ul class="clearfix">
+                  
+                    <li class="level1 science ">
+                      <a href="/science/biology" data-tag="TopicBrowserPulldown" class="menulink">
+                        Biology
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 science ">
+                      <a href="/science/organic-chemistry" data-tag="TopicBrowserPulldown" class="menulink">
+                        Organic chemistry
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 science ">
+                      <a href="/science/health-and-medicine" data-tag="TopicBrowserPulldown" class="menulink">
+                        Health and medicine
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 science ">
+                      <a href="/science/physics" data-tag="TopicBrowserPulldown" class="menulink">
+                        Physics
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 science ">
+                      <a href="/science/cosmology-and-astronomy" data-tag="TopicBrowserPulldown" class="menulink">
+                        Cosmology and astronomy
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 science ">
+                      <a href="/science/discoveries-projects" data-tag="TopicBrowserPulldown" class="menulink">
+                        Discoveries and projects
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 science ">
+                      <a href="/science/chemistry" data-tag="TopicBrowserPulldown" class="menulink">
+                        Chemistry
+                        
+                      </a>
+                    </li>
+                  
+                  </ul>
+              
+            
+          
+          
+      </div>
+    </li>
+  
+
+  
+  
+    <li class="level0 has-submenu economics-finance-domain" data-domain-slug="economics-finance-domain">
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Economics and finance
+      <i class="icon-chevron-right"></i>
+      <i class="icon-chevron-left"></i>
+      </a>
+      <div class="dropdown-menu no-submenus sub-menu-custom economics-finance-domain domain-color">
+        <div class="submenu-title">Economics and finance</div>
+
+          
+            
+                
+                  
+                  <div class="subjects-header"><strong>Subjects</strong></div>
+                  <ul class="clearfix">
+                  
+                    <li class="level1 economics-finance-domain ">
+                      <a href="/economics-finance-domain/microeconomics" data-tag="TopicBrowserPulldown" class="menulink">
+                        Microeconomics
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 economics-finance-domain ">
+                      <a href="/economics-finance-domain/core-finance" data-tag="TopicBrowserPulldown" class="menulink">
+                        Finance and capital markets
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 economics-finance-domain ">
+                      <a href="/economics-finance-domain/entrepreneurship2" data-tag="TopicBrowserPulldown" class="menulink">
+                        Entrepreneurship
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 economics-finance-domain ">
+                      <a href="/economics-finance-domain/macroeconomics" data-tag="TopicBrowserPulldown" class="menulink">
+                        Macroeconomics
+                        
+                      </a>
+                    </li>
+                  
+                  </ul>
+              
+            
+          
+          
+      </div>
+    </li>
+  
+
+  
+  
+    <li class="level0 has-submenu humanities" data-domain-slug="humanities">
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Arts and humanities
+      <i class="icon-chevron-right"></i>
+      <i class="icon-chevron-left"></i>
+      </a>
+      <div class="dropdown-menu no-submenus sub-menu-custom humanities domain-color">
+        <div class="submenu-title">Arts and humanities</div>
+
+          
+            
+              
+              <div class="subjects-header"><strong>Humanities</strong></div>
+              <ul class="clearfix other-humanities-subjects">
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/history" data-tag="TopicBrowserPulldown" class="menulink">
+                    History
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/american-civics-subject" data-tag="TopicBrowserPulldown" class="menulink">
+                    American civics
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/music" data-tag="TopicBrowserPulldown" class="menulink">
+                    Music
+                  </a>
+                </li>
+              
+              </ul>
+
+              
+              <div class="subjects-header art-history-header"><strong>Art history</strong></div>
+              <ul class="clearfix">
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/art-history-basics" data-tag="TopicBrowserPulldown" class="menulink">
+                    Art history basics
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/renaissance-reformation" data-tag="TopicBrowserPulldown" class="menulink">
+                    Renaissance and Reformation 
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/global-culture" data-tag="TopicBrowserPulldown" class="menulink">
+                    Toward a global culture
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/prehistoric-art" data-tag="TopicBrowserPulldown" class="menulink">
+                    Prehistoric art
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/monarchy-enlightenment" data-tag="TopicBrowserPulldown" class="menulink">
+                    Monarchy and enlightenment
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/art-islam" data-tag="TopicBrowserPulldown" class="menulink">
+                    Arts of the Islamic world
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/ancient-art-civilizations" data-tag="TopicBrowserPulldown" class="menulink">
+                    Ancient art and civilizations
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/becoming-modern" data-tag="TopicBrowserPulldown" class="menulink">
+                    Becoming modern
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/art-asia" data-tag="TopicBrowserPulldown" class="menulink">
+                    South and East Asia
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/medieval-world" data-tag="TopicBrowserPulldown" class="menulink">
+                    Medieval Europe
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/art-1010" data-tag="TopicBrowserPulldown" class="menulink">
+                    Age of global conflict
+                  </a>
+                </li>
+              
+                <li class="level1 humanities ">
+                  <a href="/humanities/art-africa-oceania-americas" data-tag="TopicBrowserPulldown" class="menulink">
+                    Africa, Oceania, and the indigenous Americas
+                  </a>
+                </li>
+              
+              </ul>
+            
+          
+          
+      </div>
+    </li>
+  
+
+  
+  
+    <li class="level0 has-submenu computing" data-domain-slug="computing">
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Computing
+      <i class="icon-chevron-right"></i>
+      <i class="icon-chevron-left"></i>
+      </a>
+      <div class="dropdown-menu no-submenus sub-menu-custom computing domain-color">
+        <div class="submenu-title"><a href="/computing" class="topic-link">Computing</a></div>
+
+          
+            
+                
+                  
+                  <div class="subjects-header"><strong>Subjects</strong></div>
+                  <ul class="clearfix">
+                  
+                    <li class="level1 computing ">
+                      <a href="/computing/computer-programming" data-tag="TopicBrowserPulldown" class="menulink">
+                        Computer programming
+                        <p>Learn how to program drawings, animations, and games using JavaScript &amp; ProcessingJS, or learn how to create webpages with HTML &amp; CSS. You can share whatever you create, explore what others have created and learn from each other!</p>
+                      </a>
+                    </li>
+                  
+                    <li class="level1 computing ">
+                      <a href="/computing/computer-science" data-tag="TopicBrowserPulldown" class="menulink">
+                        Computer science
+                        <p>Learn select topics from computer science - algorithms (how we solve common problems in computer science and measure the efficiency of our solutions), cryptography (how we protect secret information), and information theory (how we encode and compress information).</p>
+                      </a>
+                    </li>
+                  
+                    <li class="level1 computing ">
+                      <a href="/computing/hour-of-code" data-tag="TopicBrowserPulldown" class="menulink">
+                        Hour of Code
+                        <p>Only have an hour? Learn the basics of programming, making webpages, or creating databases.</p>
+                      </a>
+                    </li>
+                  
+                  </ul>
+              
+            
+          
+          
+      </div>
+    </li>
+  
+
+  
+  
+    <li class="level0 has-submenu test-prep" data-domain-slug="test-prep">
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Test prep
+      <i class="icon-chevron-right"></i>
+      <i class="icon-chevron-left"></i>
+      </a>
+      <div class="dropdown-menu no-submenus sub-menu-custom test-prep domain-color">
+        <div class="submenu-title">Test prep</div>
+
+          
+            
+                
+                  
+                  <div class="subjects-header"><strong>Subjects</strong></div>
+                  <ul class="clearfix">
+                  
+                    <li class="level1 test-prep ">
+                      <a href="/test-prep/sat" data-tag="TopicBrowserPulldown" class="menulink">
+                        SAT 
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 test-prep ">
+                      <a href="/test-prep/gmat" data-tag="TopicBrowserPulldown" class="menulink">
+                        GMAT
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 test-prep ">
+                      <a href="/test-prep/iit-jee-subject" data-tag="TopicBrowserPulldown" class="menulink">
+                        IIT JEE
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 test-prep ">
+                      <a href="/test-prep/mcat" data-tag="TopicBrowserPulldown" class="menulink">
+                        MCAT
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 test-prep ">
+                      <a href="/test-prep/cahsee-subject" data-tag="TopicBrowserPulldown" class="menulink">
+                        CAHSEE
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 test-prep ">
+                      <a href="/test-prep/ap-art-history" data-tag="TopicBrowserPulldown" class="menulink">
+                        AP* Art History
+                        
+                      </a>
+                    </li>
+                  
+                    <li class="level1 test-prep ">
+                      <a href="/test-prep/NCLEX-RN" data-tag="TopicBrowserPulldown" class="menulink">
+                        NCLEX-RN
+                        
+                      </a>
+                    </li>
+                  
+                  </ul>
+              
+            
+          
+          
+      </div>
+    </li>
+  
+
+  
+  
+    <li class="level0 has-submenu partner-content" data-domain-slug="partner-content">
+      <a data-tag="TopicBrowserPulldown" class="level0--menulink menulink" href="#">Partner content
+      <i class="icon-chevron-right"></i>
+      <i class="icon-chevron-left"></i>
+      </a>
+      <div class="dropdown-menu no-submenus sub-menu-custom partner-content domain-color">
+        <div class="submenu-title">Partner content</div>
+
+          
+            
+                
+                  
+                  <div class="subjects-header"><strong><a href="/museums">Museums</a></strong></div>
+                  <ul class="clearfix">
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/metropolitan-museum" data-tag="TopicBrowserPulldown" class="menulink">
+                        The Metropolitan Museum of Art
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/MoMA" data-tag="TopicBrowserPulldown" class="menulink">
+                        The Museum of Modern Art
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/Exploratorium" data-tag="TopicBrowserPulldown" class="menulink">
+                        Exploratorium
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/tate" data-tag="TopicBrowserPulldown" class="menulink">
+                        Tate
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/getty-museum" data-tag="TopicBrowserPulldown" class="menulink">
+                        The J. Paul Getty Museum
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/amnh" data-tag="TopicBrowserPulldown" class="menulink">
+                        American Museum of Natural History
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/british-museum" data-tag="TopicBrowserPulldown" class="menulink">
+                        The British Museum
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/CAS-biodiversity" data-tag="TopicBrowserPulldown" class="menulink">
+                        California Academy of Sciences
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/asian-art-museum" data-tag="TopicBrowserPulldown" class="menulink">
+                        Asian Art Museum
+                      </a>
+                    </li>
+                  
+                  </ul>
+
+                  
+                  <div class="subjects-header partner-content-header"><strong>Partners</strong></div>
+                  <ul class="clearfix">
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/all-star-orchestra" data-tag="TopicBrowserPulldown" class="menulink">
+                        All-Star Orchestra
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/lebron-asks-subject" data-tag="TopicBrowserPulldown" class="menulink">
+                        LeBron asks
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/big-history-project" data-tag="TopicBrowserPulldown" class="menulink">
+                        Big History Project
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/crash-course1" data-tag="TopicBrowserPulldown" class="menulink">
+                        Crash Course
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/brookings-institution" data-tag="TopicBrowserPulldown" class="menulink">
+                        The Brookings Institution
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/wi-phi" data-tag="TopicBrowserPulldown" class="menulink">
+                        Wi-Phi (Wireless Philosophy)
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/stanford-medicine" data-tag="TopicBrowserPulldown" class="menulink">
+                        Stanford School of Medicine
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/aspeninstitute" data-tag="TopicBrowserPulldown" class="menulink">
+                        The Aspen Institute
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/dartmouth-college" data-tag="TopicBrowserPulldown" class="menulink">
+                        Dartmouth College
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/mit-k12" data-tag="TopicBrowserPulldown" class="menulink">
+                        MIT+K12
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/nasa" data-tag="TopicBrowserPulldown" class="menulink">
+                        NASA
+                      </a>
+                    </li>
+                  
+                    <li class="level1 partner-content ">
+                      <a href="/partner-content/ssf-cci" data-tag="TopicBrowserPulldown" class="menulink">
+                        Silicon Schools Fund and Clayton Christensen Institute
+                      </a>
+                    </li>
+                  
+                  </ul>
+                
+            
+          
+          
+      </div>
+    </li>
+  
+
+  
+  
+    
+    <li class="level0">
+      <a href="/college-admissions" data-tag="TopicBrowserPulldown" class="level0--menulink menulink">College admissions</a>
+    </li>
+  
+
+  
+  
+    
+    <li class="level0">
+      <a href="/talks-and-interviews" data-tag="TopicBrowserPulldown" class="level0--menulink menulink">Talks and interviews</a>
+    </li>
+  
+
+  
+  
+    
+    <li class="level0">
+      <a href="/coach-res" data-tag="TopicBrowserPulldown" class="level0--menulink menulink">Coach and classroom resources</a>
+    </li>
+  
 
 
+
+<li class="has-divider"></li>
+<li class="level0">
+  
+      <a href="/library" data-tag="TopicBrowserPulldownBrowse" class="level0--menulink menulink">Browse all</a>
+  
+</li>
+
+            </ul>
         </div>
 
         
-        
-            
-            
-                <a href="/coach/reports" class="nav-link  no-menu coach-link"><span>Coach</span></a>
-            
         
 
         
@@ -658,6 +1006,7 @@
     
         <a href="/login?continue=%2Fabout%2Fprivacy-policy" class="log-in-link ellipsis ">Log in</a>
         
+            
             <a href="/signup?continue=%2Fabout%2Fprivacy-policy" class="sign-up-link ellipsis highlight">Sign up</a>
         
     
@@ -666,16 +1015,24 @@
 </span>
 
 <div id="search-box">
-    <form class="page-search " action="/search" autocomplete="off">
+    <form class="page-search" action="/search" autocomplete="off">
         <div class="typeahead-search">
-            <input id="search-input" type="text" placeholder="Search for subjects, skills, and videos" name="page_search_query" value="" class="ui-corner-all placeholder show-demo-dialog simple-input search-input blur-on-esc"><input type="submit" value=" " class="search-submit">
+            <input id="search-input" type="text" placeholder="Search for subjects, skills, and videos" aria-label="Search for subjects, skills, and videos" name="page_search_query" value="" class="ui-corner-all placeholder show-demo-dialog simple-input search-input blur-on-esc"><input type="submit" value=" " class="search-submit">
             <i class="icon-search"></i>
         </div>
     </form>
 </div>
 </div>
+
+<div class="wide-learn-menu-background-container" style="display: none;">
+    <div class="contained-and-centered">
+        <div class="wide-learn-menu-background"></div>
     </div>
-    <nav id="page_sub_nav" class="clearfix">
+</div>
+    </div>
+    
+
+    <nav id="page_sub_nav" class="clearfix athena-big-menu">
         
 
         <b>Privacy Notice</b>
@@ -687,11 +1044,6 @@
     <div id="page-container-inner">
         
         <div id="fb-root"></div>
-            <header>
-                
-                
-                
-            </header>
             <noscript>
             <div class="noscript-warning">
             <p><i class="icon-warning-sign"></i> To log in and use all the features of Khan Academy, please enable JavaScript in your browser.</p>
@@ -1013,10 +1365,11 @@ Please contact Khan Academy with any questions or comments about this Privacy No
                 <ul>
                     <li class="heading">About</li>
                     <li><a href="/about">Our Mission</a></li>
+                    <li><a href="/youcanlearnanything">You Can Learn Anything</a></li>
                     <li><a href="/about/the-team">Our Team</a></li>
                     <li><a href="/about/our-interns">Our Interns</a></li>
                     <li><a href="/about/our-content-specialists">Our Content Specialists</a></li>
-                    <li><a href="/about/health-competition">Health Content Competition Winners</a></li>
+                    <li><a href="/about/our-board">Our Board</a></li>
                 </ul>
             </div>
             <div class="span2">
@@ -1115,6 +1468,11 @@ Please contact Khan Academy with any questions or comments about this Privacy No
         
         
         
+        <option value="zu">isiZulu</option>
+    
+        
+        
+        
         <option value="it">italiano</option>
     
         
@@ -1130,7 +1488,7 @@ Please contact Khan Academy with any questions or comments about this Privacy No
         
         
         
-        <option value="no">norsk bokmål</option>
+        <option value="nb">norsk bokmål</option>
     
         
         
@@ -1146,6 +1504,11 @@ Please contact Khan Academy with any questions or comments about this Privacy No
         
         
         <option value="ptpt">português (Portugal)</option>
+    
+        
+        
+        
+        <option value="tr">Türkçe</option>
     
         
         
@@ -1241,7 +1604,7 @@ Please contact Khan Academy with any questions or comments about this Privacy No
             </div>
 
             <div class="span1">
-                <img class="handtree" data-delayed-src="https://www.kastatic.org/images/khan-logo-vertical-transparent.png" alt="Khan Academy logo">
+                <img class="handtree" data-delayed-src="https://cdn.kastatic.org/images/khan-logo-vertical-transparent.png" alt="Khan Academy logo">
             </div>
         </div>
 
@@ -1254,7 +1617,7 @@ Please contact Khan Academy with any questions or comments about this Privacy No
                     <span><a href="/about/privacy-policy">Privacy Notice (updated May 8, 2014)</a></span>
             </div>
             
-            <div class="copyright" title="Version: 0627-1900-8e156253e22d.376862450448683729">
+            <div class="copyright" title="Version: 1223-2333-de0af40e3b2f.381019682217630377">
                 © 2014
                 
                 
@@ -1268,8 +1631,7 @@ Please contact Khan Academy with any questions or comments about this Privacy No
 </footer>
     
 
-    
-        <script>
+    <script>
 window.PackageManager = window.PackageManager || {
     _q: [],
     setLoaded: function() {
@@ -1277,43 +1639,74 @@ window.PackageManager = window.PackageManager || {
     }
 };
 PackageManager.setLoaded("shared.css","tos-privacy.css")</script>
-<script crossorigin="anonymous" src="https://www.kastatic.org/genfiles/javascript/en/shared-package-3a7ec1d7ffd7a13bc0ee0e0f7f3dda8c.js"></script>
+<script crossorigin="anonymous" src="https://cdn.kastatic.org/genfiles/javascript/en/corelibs-package-4d451a.js"></script>
+<script>PackageManager.setLoaded("corelibs.js")</script>
+<script crossorigin="anonymous" src="https://cdn.kastatic.org/genfiles/javascript/en/shared-package-41dad0.js"></script>
 <script>PackageManager.setLoaded("shared.js")</script>
-        
+
+    <script>KAdefine.require("./javascript/shared-package/site-infra.js").init();</script>
+    
+    
+    
+
     <script type="text/javascript">
+    (function() {
+        var UserProgressCache = KAdefine.require("./javascript/shared-package/user-progress-cache.jsx");
         UserProgressCache.init({"started": [], "complete": []});
+    })();
     </script>
     
     
 
     
-    <script type="text/javascript">
-      PackageManager.registerManifests({"stylesheets": [{"files": ["/genfiles/stylesheets/en/recommendations-package-b3e740de1213351080c006c835de9f40.css"], "name": "recommendations.css"}, {"files": ["/genfiles/stylesheets/en/library-package-bde3b851fd169e18856870fb0e935e4f.css"], "name": "library.css"}, {"files": ["/genfiles/stylesheets/en/contentanalytics-package-1920dcd35540508e1036930e2d6477e8.css"], "name": "contentanalytics.css"}, {"files": ["/genfiles/stylesheets/en/homepage-lite-package-0919b6db43e76f1face8d1c5cffbab17.css"], "name": "homepage-lite.css"}, {"files": ["/genfiles/stylesheets/en/discussion-package-9ff7aee05f26080ce0d31dd32e114a51.css"], "name": "discussion.css"}, {"files": ["/genfiles/stylesheets/en/profile-package-3425ce0dd2514b6cea3982d457eaa34c.css"], "dependencies": ["follow.css", "teams.css"], "name": "profile.css"}, {"files": ["/genfiles/stylesheets/en/react-sandbox-package-4fbee344d5b204ea4019cc148483c51f.css"], "name": "react-sandbox.css"}, {"files": ["/genfiles/stylesheets/en/tutorial-editor-package-81003fb2d8346315900b8d8126916842.css"], "name": "tutorial-editor.css"}, {"files": ["/genfiles/stylesheets/en/reports-package-182bc3673a9d4a9b67f2f3f6d173a1e7.css"], "name": "reports.css"}, {"files": ["/genfiles/stylesheets/en/search-package-fff85efbd5cede8b3c80afc291cc9dbe.css"], "name": "search.css"}, {"files": ["/genfiles/stylesheets/en/exercises-package-4093d9b9c614415b1bb66f6f5634da68.css"], "name": "exercises.css"}, {"files": ["/genfiles/stylesheets/en/coach-report-topic-package-347bf91cdf6bc89b2b6ef88517a929da.css"], "name": "coach-report-topic.css"}, {"files": ["/genfiles/stylesheets/en/video-lite-package-edf7eb6026c2cde51a35bd031e9e9163.css"], "name": "video-lite.css"}, {"files": ["/genfiles/stylesheets/en/about-package-33e84268eee049633cec70f1cf141ff2.css"], "name": "about.css"}, {"files": ["/genfiles/stylesheets/en/katex-package-37adb06b9d99bffb746102e8435e214b.css"], "name": "katex.css"}, {"files": ["/genfiles/stylesheets/en/donate-package-9aa25239e0f9f59097a95a350bb5bfd6.css"], "name": "donate.css"}, {"files": ["/genfiles/stylesheets/en/tos-privacy-package-02760bea2642de221635b3986278df23.css"], "name": "tos-privacy.css"}, {"files": ["/genfiles/stylesheets/en/stories-package-a5c992e383ad5180dcafdb2ace38e7ad.css"], "name": "stories.css"}, {"files": ["/genfiles/stylesheets/en/editor-package-b129dcad888543310ecbea33d13c385c.css"], "name": "editor.css"}, {"files": ["/genfiles/stylesheets/en/notifications-package-ab52c8169725f8baa596b5478f70d613.css"], "name": "notifications.css"}, {"files": ["/genfiles/stylesheets/en/interns-package-6e14d5511cc0d0f5d1de1f221191fba6.css"], "name": "interns.css"}, {"files": ["/genfiles/stylesheets/en/contribute-package-25b7e27f351f965b6ad70a00e120cb29.css"], "name": "contribute.css"}, {"files": ["/genfiles/stylesheets/en/parent-package-77bd0a73ef659490046efedee50bbf5c.css"], "name": "parent.css"}, {"files": ["/genfiles/stylesheets/en/dashboard-package-88c27484a86bfa48009597f9b9860af9.css"], "name": "dashboard.css"}, {"files": ["/genfiles/stylesheets/en/exercise-search-package-ab35cc34545809226da4eff84348be25.css"], "name": "exercise-search.css"}, {"files": ["/genfiles/stylesheets/en/teams-package-b2cc465786d53b12fe61cf0ca249e5ec.css"], "name": "teams.css"}, {"files": ["/genfiles/stylesheets/en/shared-mobile-package-3f41ccfdf5682b0161d3af2f10a9ae13.css"], "name": "shared-mobile.css"}, {"files": ["/genfiles/stylesheets/en/perseus-admin-package-8b825fce3024fa1b11199c9c80ff9126.css"], "name": "perseus-admin.css"}, {"files": ["/genfiles/stylesheets/en/nav-package-a6b1ed319fa3c57e4e1e34703f803a5f.css"], "name": "nav.css"}, {"files": ["/genfiles/stylesheets/en/scratchpads-package-9a55ab4465bd4521005b603b84b4af03.css"], "dependencies": ["scratchpad-challenge.css"], "name": "scratchpads.css"}, {"files": ["/genfiles/stylesheets/en/tutorial-package-cb776a53a46458aa21cb630fad3bfaad.css"], "name": "tutorial.css"}, {"files": ["/genfiles/stylesheets/en/follow-package-552b63ccd9f944b2191149b7581ff59b.css"], "name": "follow.css"}, {"files": ["/genfiles/stylesheets/en/topic-package-08e9335436cf9ca37ca36e30e6744289.css"], "name": "topic.css"}, {"files": ["/genfiles/stylesheets/en/scratchpads-exec-package-2049367d09aa9c6261ec3c0bfd8deeae.css"], "name": "scratchpads-exec.css"}, {"files": ["/genfiles/stylesheets/en/scratchpad-challenge-package-839e8aa5876de7b7fe6d601d3376eba2.css"], "name": "scratchpad-challenge.css"}, {"files": ["/genfiles/stylesheets/en/exerciseissues-package-b32782e29348d08fcf4a1fefb06689ce.css"], "name": "exerciseissues.css"}, {"files": ["/genfiles/stylesheets/en/settings-package-4ba21c67fd2de01b12fbc3b0bc8e009c.css"], "dependencies": ["profile-settings.css"], "name": "settings.css"}, {"files": ["/genfiles/stylesheets/en/issues-package-5671c5d6faadfab14c13d3aee75bbfae.css"], "name": "issues.css"}, {"files": ["/genfiles/stylesheets/en/parent-splash-package-f53cdda21499418b590f59b893844917.css"], "name": "parent-splash.css"}, {"files": ["/genfiles/stylesheets/en/homepage-package-8b86c5a019e3b4edb998f53b3ab3befe.css"], "name": "homepage.css"}, {"files": ["/genfiles/stylesheets/en/translation-editor-package-234610064d40dafa57d508567d7277d0.css"], "name": "translation-editor.css"}, {"files": ["/genfiles/stylesheets/en/cs-programs-package-d400f220ba24ace916daf57a942eba03.css"], "name": "cs-programs.css"}, {"files": ["/genfiles/stylesheets/en/topic-editor-package-5c02a4ab0b9df3e7ab8976dea4170663.css"], "name": "topic-editor.css"}, {"files": ["/genfiles/stylesheets/en/profile-nav-package-f76440cff0265a78f7cac78c945881de.css"], "name": "profile-nav.css"}, {"files": ["/genfiles/stylesheets/en/publish-package-dbfef292acacc9b94a1c4fff105ce407.css"], "name": "publish.css"}, {"files": ["/genfiles/stylesheets/en/timepicker-package-6445b808106ec4ed6b535929e1fd7c17.css"], "name": "timepicker.css"}, {"files": ["/genfiles/stylesheets/en/topicsadmin-package-cbaf388c65285bd72f6fac40cb4c7e51.css"], "name": "topicsadmin.css"}, {"files": ["/genfiles/stylesheets/en/donorschoose-package-18420b27a6bd117aa3496093e8ea9ee6.css"], "name": "donorschoose.css"}, {"files": ["/genfiles/stylesheets/en/location-picker-package-25589d86fc161bb48474a8207b2bbdda.css"], "name": "location-picker.css"}, {"files": ["/genfiles/stylesheets/en/exercise-content-package-9fb841bd5c5adc749de55b4523ace3e1.css"], "name": "exercise-content.css"}, {"files": ["/genfiles/stylesheets/en/shared-package-00b676de445894157ae26432c9157f1c.css"], "name": "shared.css"}, {"files": ["/genfiles/stylesheets/en/commoncore-package-c8e3dea1098750ed0f6e7376c6364ca3.css"], "name": "commoncore.css"}, {"files": ["/genfiles/stylesheets/en/bootstrap-package-31d5a45083ecbc7847798844c4945e98.css"], "name": "bootstrap.css"}, {"files": ["/genfiles/stylesheets/en/maps-package-a5a544e2dc7b20a36b73121e67cc8dc9.css"], "name": "maps.css"}, {"files": ["/genfiles/stylesheets/en/studentlists-package-04629d4dad850ac1b03bfcbcee3f1bfc.css"], "name": "studentlists.css"}, {"files": ["/genfiles/stylesheets/en/login-package-4fdd24edf086cdf12dc24112727422e7.css"], "name": "login.css"}, {"files": ["/genfiles/stylesheets/en/bigbingo-dashboard-package-f033f3a1956f22785ffeb117620012ea.css"], "name": "bigbingo-dashboard.css"}, {"files": ["/genfiles/stylesheets/en/style-old-package-52894d19c64101148456019fff71d27a.css"], "name": "style-old.css"}, {"files": ["/genfiles/stylesheets/en/tasks-package-25f115d975cdc328a14ebfa74b39f15a.css"], "name": "tasks.css"}, {"files": ["/genfiles/stylesheets/en/coach-report-exercises-package-49415b04c5181f62f7da319d5f789d6d.css"], "name": "coach-report-exercises.css"}, {"files": ["/genfiles/stylesheets/en/coach-report-realtime-package-76176ed1400de8e76d626283b399edf1.css"], "name": "coach-report-realtime.css"}, {"files": ["/genfiles/stylesheets/en/labs-package-72e0193c8be6d27849c8bc54090487fc.css"], "name": "labs.css"}, {"files": ["/genfiles/stylesheets/en/homeschool-package-bd8733e051897f4b5014439857290a12.css"], "name": "homeschool.css"}, {"files": ["/genfiles/stylesheets/en/coach-report-progress-by-student-package-2bb9ecc475c67bf599a7ec51096e31d9.css"], "name": "coach-report-progress-by-student.css"}, {"files": ["/genfiles/stylesheets/en/mobile-package-6bfd99a4d0b8e9f5104695c356f1eac2.css"], "name": "mobile.css"}, {"files": ["/genfiles/stylesheets/en/badge-package-bffb356d2bdb7856f4798c8266ffb69b.css"], "name": "badge.css"}, {"files": ["/genfiles/stylesheets/en/profile-settings-package-08c771e33b245de210dac84b31f4bb51.css"], "dependencies": ["location-picker.css", "eduorg-picker.css"], "name": "profile-settings.css"}, {"files": ["/genfiles/stylesheets/en/knowledgemap-package-eb22b55377f8c1bcd9abc1cc8e1216ad.css"], "name": "knowledgemap.css"}, {"files": ["/genfiles/stylesheets/en/clarifications-package-1e730a82e2760bf21725a3d6ddf4a22b.css"], "name": "clarifications.css"}, {"files": ["/genfiles/stylesheets/en/profile-reports-package-5568e509c302a19f54ed38752516703e.css"], "name": "profile-reports.css"}, {"files": ["/genfiles/stylesheets/en/socrates-package-01c39a6666af19005901adfe44e3b0ed.css"], "name": "socrates.css"}, {"files": ["/genfiles/stylesheets/en/typeahead-vanilla-package-ee98819c984d89dd28d51f93cfab0991.css"], "name": "typeahead-vanilla.css"}, {"files": ["/genfiles/stylesheets/en/eduorg-picker-package-e7a639401c631679329916d7e98c7fe4.css"], "name": "eduorg-picker.css"}, {"files": ["/genfiles/stylesheets/en/coach-report-grid-package-73d131fa12ddea46f7f51c01a80df6e8.css"], "name": "coach-report-grid.css"}, {"files": ["/genfiles/stylesheets/en/video-package-c775cbd9112dbbd7c9227bf11a63ea58.css"], "name": "video.css"}, {"files": ["/genfiles/stylesheets/en/intro-package-41b31518e3332ce6d228e8512e5d578d.css"], "name": "intro.css"}, {"files": ["/genfiles/stylesheets/en/coach-report-activity-package-a6c369b9b1a78c38d0c37d9fa01d050b.css"], "name": "coach-report-activity.css"}, {"files": ["/genfiles/stylesheets/en/moderation-package-72bae2a25b51974f7489ea4f9cf71822.css"], "name": "moderation.css"}, {"files": ["/genfiles/stylesheets/en/react-package-477bd49961ad1212206b4a5cf042e400.css"], "name": "react.css"}, {"files": ["/genfiles/stylesheets/en/style-package-5f4c12840e3e30d4f12c8363551772bb.css"], "name": "style.css"}], "javascript": [{"files": ["/genfiles/javascript/en/socrates-package-b6eeee46019c10d610853a722bb9c3db.js"], "name": "socrates.js"}, {"files": ["/genfiles/javascript/en/react-art-package-bb3a6d2f0fb0c6630be8a89daf444a5f.js"], "dependencies": ["react.js"], "name": "react-art.js"}, {"files": ["/genfiles/javascript/en/tasks-secondary-package-a5a70a8f06ab88c97a38dfdbfea3c74e.js"], "dependencies": ["react.js", "tasks.js", "odometer.js"], "name": "tasks-secondary.js"}, {"files": ["/genfiles/javascript/en/coach-report-exercises-package-d99a3abf6c7041dea3fb0a9d65cec371.js"], "dependencies": ["reports.js"], "name": "coach-report-exercises.js"}, {"files": ["/genfiles/javascript/en/notifications-package-5ac98d1e0ede1b6bcaa0972afa38588e.js"], "dependencies": ["react.js"], "name": "notifications.js"}, {"files": ["/genfiles/javascript/en/follow-package-3cdbb46ad9d3de1814a8339c20e640b5.js"], "dependencies": ["react.js"], "name": "follow.js"}, {"files": ["/genfiles/javascript/en/publish-package-fee365330021bca14898d7408676e183.js"], "dependencies": ["react.js", "editor.js"], "name": "publish.js"}, {"files": ["/genfiles/javascript/en/articles-latex-package-cd9edc2de5a139d986160412b4f45f78.js"], "dependencies": ["katex.js"], "name": "articles-latex.js"}, {"files": ["/genfiles/javascript/en/coach-reports-downloads-package-ba90404cd27d0c7f022ef47c4920bae1.js"], "name": "coach-reports-downloads.js"}, {"files": ["/genfiles/javascript/en/bloodhound-package-99d4b2fb96f19b7b4ce539634fc78720.js"], "name": "bloodhound.js"}, {"files": ["/genfiles/javascript/en/d3-package-45844cba87bec149407d7b534170b65a.js"], "name": "d3.js"}, {"files": ["/genfiles/javascript/en/studentlists-package-a93978ee7f038ea80e77a262ca5ccfea.js"], "dependencies": ["mission-picker.js"], "name": "studentlists.js"}, {"files": ["/genfiles/javascript/en/odometer-package-4ab47b34c0e51c59d95c27cccc981640.js"], "name": "odometer.js"}, {"files": ["/genfiles/javascript/en/mobile-oauth-package-2aae58b1a11b88138e66d9f882536648.js"], "name": "mobile-oauth.js"}, {"files": ["/genfiles/javascript/en/translate-package-1e5bfcceac2720984320401272554873.js"], "dependencies": ["shared.js"], "name": "translate.js"}, {"files": ["/genfiles/javascript/en/location-picker-package-185366d5955fe8a63bdb1157549ef1a6.js"], "dependencies": ["react.js", "select2.js"], "name": "location-picker.js"}, {"files": ["/genfiles/javascript/en/maps-package-61c158e7d133992cf79487bc775b0017.js"], "name": "maps.js"}, {"files": ["/genfiles/javascript/en/exercise-search-package-2be82e8daf852e41d8ab32012751237f.js"], "name": "exercise-search.js"}, {"files": ["/genfiles/javascript/en/scratchpads-exec-package-61c800ed83ebbffdaa3298c97762e1d4.js"], "name": "scratchpads-exec.js"}, {"files": ["/genfiles/javascript/en/intro-package-f85d703dfec3f5aa0cc2d5b77aceeb8b.js"], "dependencies": ["react.js"], "name": "intro.js"}, {"files": ["/genfiles/javascript/en/coach-report-activity-package-4034bde910cc394c36abb95aba98294a.js"], "dependencies": ["reports.js"], "name": "coach-report-activity.js"}, {"files": ["/genfiles/javascript/en/commoncore-package-69077c6c56dd40a571e67c13f5df4a32.js"], "dependencies": ["react.js"], "name": "commoncore.js"}, {"files": ["/genfiles/javascript/en/login-package-903288f811baf0776fecec43834084f9.js"], "dependencies": ["react.js"], "name": "login.js"}, {"files": ["/genfiles/javascript/en/react-sandbox-package-58521d840aed75265cc2295e70354f71.js"], "dependencies": ["react.js"], "name": "react-sandbox.js"}, {"files": ["/genfiles/javascript/en/select2-package-3fb29fb162276d385fcda0efb4a8cab8.js"], "dependencies": ["react.js"], "name": "select2.js"}, {"files": ["/genfiles/javascript/en/donorschoose-package-14f0df49ce794e506f3580577be7764b.js"], "name": "donorschoose.js"}, {"files": ["/genfiles/javascript/en/mission-picker-package-17b024ef3dd5a853b7ef8aaaf8b031af.js"], "dependencies": ["react.js"], "name": "mission-picker.js"}, {"files": ["/genfiles/javascript/en/devadmin-package-49ed97ec2b7d6eb20d3c76ae8375987e.js"], "dependencies": ["react.js"], "name": "devadmin.js"}, {"files": ["/genfiles/javascript/en/stories-package-cc0e726107a30d33c41139d2db0ee6d3.js"], "name": "stories.js"}, {"files": ["/genfiles/javascript/en/rcss-package-14c69e717f6031a0c6acf04076c45783.js"], "name": "rcss.js"}, {"files": ["/genfiles/javascript/en/highcharts-package-8b15ed8ae5b02a46c2fbe036bd2136a0.js"], "name": "highcharts.js"}, {"files": ["/genfiles/javascript/en/scratchpads-package-da58cc68a47fa4a81772ba5b2bda64c2.js"], "dependencies": ["scratchpad-challenge.js", "scratchpad-base.js"], "name": "scratchpads.js"}, {"files": ["/genfiles/javascript/en/profile-settings-package-8d627ca44851a236b1e304e7cb5b70c7.js"], "dependencies": ["react.js", "location-picker.js", "eduorg-picker.js", "select2.js"], "name": "profile-settings.js"}, {"files": ["/genfiles/javascript/en/coach-report-grid-package-b86567bbc8abaf851c7be8548b1553bb.js"], "dependencies": ["reports.js"], "name": "coach-report-grid.js"}, {"files": ["/genfiles/javascript/en/typeahead-legacy-package-99b120e87368cec96fdba98b1b90e06b.js"], "name": "typeahead-legacy.js"}, {"files": ["/genfiles/javascript/en/phantom-package-b146aa1b3d5f3f57aac9533d55973b6c.js"], "name": "phantom.js"}, {"files": ["/genfiles/javascript/en/profile-nav-package-39b0c68b078e3c4c9611b13a6308b986.js"], "dependencies": ["react.js"], "name": "profile-nav.js"}, {"files": ["/genfiles/javascript/en/perseus-mobile-0-package-734288f8809c30067089b97b0be0f1e9.js"], "name": "perseus-mobile-0.js"}, {"files": ["/genfiles/javascript/en/moderation-package-42cf9990d36dd58c26e3b87465edd68b.js"], "dependencies": ["react.js", "discussion.js"], "name": "moderation.js"}, {"files": ["/genfiles/javascript/en/ckeditor-package-a58b4b339151f3dd7e0a8f176817ba9b.js"], "dependencies": ["react-components.js"], "name": "ckeditor.js"}, {"files": ["/genfiles/javascript/en/reports-package-7099fd35074bab236365f69f6a86b306.js"], "dependencies": ["react.js", "select2.js"], "name": "reports.js"}, {"files": ["/genfiles/javascript/en/exercises-package-d93ff9e802cf8813f5ec5900bdd5eb5b.js"], "dependencies": ["react.js"], "name": "exercises.js"}, {"files": ["/genfiles/javascript/en/treecopy-package-42c4dcde79c4a6cf2856b25fc890b6a4.js"], "name": "treecopy.js"}, {"files": ["/genfiles/javascript/en/missions-package-0381bd4e5ff9022702a43bf94a7ca119.js"], "dependencies": ["react.js"], "name": "missions.js"}, {"files": ["/genfiles/javascript/en/interns-package-82351842820917681c40d553da582263.js"], "name": "interns.js"}, {"files": ["/genfiles/javascript/en/cs-programs-package-532f42edf3ca5d4b0e5af943a13f25a9.js"], "dependencies": ["react.js"], "name": "cs-programs.js"}, {"files": ["/genfiles/javascript/en/search-package-2384c1d49cfafc661325b94409bf4f3d.js"], "name": "search.js"}, {"files": ["/genfiles/javascript/en/nav-package-1aa261bfe2d684b267e3a07eb2b3aac2.js"], "name": "nav.js"}, {"files": ["/genfiles/javascript/en/donate-package-8ae54eb1b89b9e6d975f6c92ff0f2ac4.js"], "name": "donate.js"}, {"files": ["/genfiles/javascript/en/scratchpad-challenge-package-f075495ef5b374ee1b764a060d26eb56.js"], "name": "scratchpad-challenge.js"}, {"files": ["/genfiles/javascript/en/video-testimonials-package-b79132dd079199432aa8047eabe4f007.js"], "dependencies": ["react.js"], "name": "video-testimonials.js"}, {"files": ["/genfiles/javascript/en/perseus-admin-package-bb3900f657a9f1f911b43394e35221b7.js"], "dependencies": ["react.js", "perseus.js", "select2.js", "d3.js", "bloodhound.js", "typeahead-vanilla.js"], "name": "perseus-admin.js"}, {"files": ["/genfiles/javascript/en/issues-package-b571eef5002edd47de87e61861797b51.js"], "dependencies": ["react.js"], "name": "issues.js"}, {"files": ["/genfiles/javascript/en/clarifications-package-340b5db706abd1c0778f9298c714aa83.js"], "dependencies": ["react.js", "react-components.js"], "name": "clarifications.js"}, {"files": ["/genfiles/javascript/en/discussion-package-b2db9b2c861448afcbfe8de8f8a2942d.js"], "name": "discussion.js"}, {"files": ["/genfiles/javascript/en/react-components-package-a52ed45afffb6e259e24590d7aefd4c2.js"], "dependencies": ["rcss.js"], "name": "react-components.js"}, {"files": ["/genfiles/javascript/en/video-package-f9ad5eba31c412322a3579fbc329f161.js"], "dependencies": ["react.js"], "name": "video.js"}, {"files": ["/genfiles/javascript/en/orphan-package-c9dd9fc5a4beac834ea2d9c068519fd9.js"], "dependencies": ["react.js"], "name": "orphan.js"}, {"files": ["/genfiles/javascript/en/katex-package-79c8053e42533228d5c67b0dfee3e065.js"], "name": "katex.js"}, {"files": ["/genfiles/javascript/en/coach-report-topic-package-8968ed124cd0f73017221b662e4589ed.js"], "dependencies": ["reports.js"], "name": "coach-report-topic.js"}, {"files": ["/genfiles/javascript/en/mobile-package-d13e25f95ad0e9d46ce44885acfc49ce.js"], "name": "mobile.js"}, {"files": ["/genfiles/javascript/en/coaches-package-0919f6aefa00a7694969afc04fc6cc77.js"], "name": "coaches.js"}, {"files": ["/genfiles/javascript/en/homeschool-package-f5770b9b64dcbad0c7b54a09d636a59d.js"], "dependencies": ["react.js"], "name": "homeschool.js"}, {"files": ["/genfiles/javascript/en/exercise-content-package-ba4bba486f5c49f65e3d5dd1e45d1c38.js"], "dependencies": ["exercises.js"], "name": "exercise-content.js"}, {"files": ["/genfiles/javascript/en/coach-report-realtime-package-812af4f982187332d85db214f5bc6495.js"], "dependencies": ["reports.js"], "name": "coach-report-realtime.js"}, {"files": ["/genfiles/javascript/en/homepage-package-afc5df37404c9bbf57cb42106131a0e9.js"], "name": "homepage.js"}, {"files": ["/genfiles/javascript/en/scratchpad-base-package-8cab4b42b0a4c5e417ce9f11e90eaeb8.js"], "name": "scratchpad-base.js"}, {"files": ["/genfiles/javascript/en/eduorg-picker-package-0258d0f6cc167f246f90c5f7ddcb3d12.js"], "dependencies": ["react.js", "select2.js"], "name": "eduorg-picker.js"}, {"files": ["/genfiles/javascript/en/timepicker-package-f1bd25b1c3e4c298b644e234cc81cc7a.js"], "name": "timepicker.js"}, {"files": ["/genfiles/javascript/en/contentanalytics-package-e55806b3ae3dba5d300bf561daf2f26c.js"], "dependencies": ["react.js", "select2.js"], "name": "contentanalytics.js"}, {"files": ["/genfiles/javascript/en/bigbingo-dashboard-package-2dac4015144108a46c8e476ec2fd6df3.js"], "name": "bigbingo-dashboard.js"}, {"files": ["/genfiles/javascript/en/profile-package-73b285370fa59e514d59eb6740a45cd7.js"], "dependencies": ["discussion.js", "profile-nav.js", "missions.js", "react.js", "cs-programs.js", "profile-settings.js", "follow.js", "teams.js"], "name": "profile.js"}, {"files": ["/genfiles/javascript/en/react-package-7eee20e8994581188bbdad691ee899e2.js"], "name": "react.js"}, {"files": ["/genfiles/javascript/en/tutorial-package-1a844955f058102e8aeb3a153e920d1b.js"], "dependencies": ["react.js"], "name": "tutorial.js"}, {"files": ["/genfiles/javascript/en/teams-package-392d0d4822c7a26c0c9a3c933a0bfae6.js"], "dependencies": ["react.js", "d3.js"], "name": "teams.js"}, {"files": ["/genfiles/javascript/en/sat-package-1630215b847b00394815575c4ec83c9c.js"], "dependencies": ["react.js"], "name": "sat.js"}, {"files": ["/genfiles/javascript/en/tutorial-editor-package-be3cf82b604334c5027c8d9dadabfd12.js"], "dependencies": ["react.js", "editor.js", "perseus-admin.js", "ckeditor.js", "react-components.js"], "name": "tutorial-editor.js"}, {"files": ["/genfiles/javascript/en/topicsadmin-package-535ccd79c3a12cb5e9bca42f7e9eac86.js"], "dependencies": ["react.js"], "name": "topicsadmin.js"}, {"files": ["/genfiles/javascript/en/parent-splash-package-a2fcc9ff52a6925db61842f073fffbe2.js"], "dependencies": ["react.js"], "name": "parent-splash.js"}, {"files": ["/genfiles/javascript/en/raphael-package-d40b7c0f3c5b7da560799d079e47113f.js"], "name": "raphael.js"}, {"files": ["/genfiles/javascript/en/exerciseissues-package-0c5d28491477bd270663ebeb5fbf0eba.js"], "dependencies": ["react.js"], "name": "exerciseissues.js"}, {"files": ["/genfiles/javascript/en/parent-package-1246d2a478b8dbf1dc07dd364125919e.js"], "dependencies": ["react.js"], "name": "parent.js"}, {"files": ["/genfiles/javascript/en/profile-reports-package-d64a2c82055cb98883c0670424023ed5.js"], "dependencies": ["profile.js", "react.js"], "name": "profile-reports.js"}, {"files": ["/genfiles/javascript/en/dashboard-secondary-package-66912d06ebc80b1fc624aac2d14dc9c9.js"], "dependencies": ["dashboard.js", "select2.js"], "name": "dashboard-secondary.js"}, {"files": ["/genfiles/javascript/en/coach-report-progress-by-student-package-89e2e48469358f5d7276e519031d0c4b.js"], "dependencies": ["reports.js"], "name": "coach-report-progress-by-student.js"}, {"files": ["/genfiles/javascript/en/topic-package-130429ec6c714920cb9f808bb592edbb.js"], "name": "topic.js"}, {"files": ["/genfiles/javascript/en/translation-editor-package-3e3b728b4d80878301bcc02464964435.js"], "dependencies": ["react.js"], "name": "translation-editor.js"}, {"files": ["/genfiles/javascript/en/topic-editor-package-3308e1e83e806134ad06cff561299586.js"], "dependencies": ["editor.js"], "name": "topic-editor.js"}, {"files": ["/genfiles/javascript/en/style-package-9b5f24762f7bad54f04c4c4be3b97b9c.js"], "dependencies": ["react.js"], "name": "style.js"}, {"files": ["/genfiles/javascript/en/shared-package-3a7ec1d7ffd7a13bc0ee0e0f7f3dda8c.js"], "name": "shared.js"}, {"files": ["/genfiles/javascript/en/perseus-package-d0df71492b9141cafb29bb28d403f893.js"], "dependencies": ["react.js", "katex.js", "exercise-content.js", "react-components.js"], "name": "perseus.js"}, {"files": ["/genfiles/javascript/en/recommendations-package-319eb8578f3d41e2dd78391ea64ba051.js"], "dependencies": ["react.js", "tasks.js", "timepicker.js"], "name": "recommendations.js"}, {"files": ["/genfiles/javascript/en/autocomplete-package-3ffa77cdce6d7c13bb83c1fe3ccf5ab6.js"], "name": "autocomplete.js"}, {"files": ["/genfiles/javascript/en/dashboard-package-6e04d16e5495df3f608f928bed2911cb.js"], "dependencies": ["missions.js", "profile-nav.js", "react.js", "react-art.js", "tasks.js", "mission-picker.js"], "name": "dashboard.js"}, {"files": ["/genfiles/javascript/en/editor-package-00176994ff668e5f76285f1983b2caab.js"], "dependencies": ["autocomplete.js", "react.js", "select2.js", "tutorial.js", "react-components.js"], "name": "editor.js"}, {"files": ["/genfiles/javascript/en/typeahead-package-6bd43f7c965b7eebda744dc6f1ca94ee.js"], "name": "typeahead.js"}, {"files": ["/genfiles/javascript/en/typeahead-vanilla-package-8fc467a987989281177b924c875716e9.js"], "name": "typeahead-vanilla.js"}, {"files": ["/genfiles/javascript/en/tasks-package-4af4f4cebf946cc3c646394f339383e6.js"], "dependencies": ["react.js"], "name": "tasks.js"}, {"files": ["/genfiles/javascript/en/library-package-051e62d09ffe6ed8ec10eaf932d73ad0.js"], "name": "library.js"}, {"files": ["/genfiles/javascript/en/settings-package-e682ead8358df087abfddbc715a32756.js"], "dependencies": ["profile-settings.js"], "name": "settings.js"}, {"files": ["/genfiles/javascript/en/knowledgemap-package-c6379c8192bce253c02123a94a037b29.js"], "name": "knowledgemap.js"}]});
-    </script>
+    <script crossorigin="anonymous" src="/package-manifest.f3c03a0702050b8607b0b408a3ab11d9.js?lang=en"></script>
+
+    
 
     <script type="text/javascript">
+    (function() {
+        var KA = KAdefine.require("./javascript/shared-package/ka.js");
         // If their computer clock is off by more than a day, complain
         // about that too (causes SSL problems)
-        if (Math.abs(KA.currentServerTime() - new Date() / 1000) >= 60 * 60 * 24
-                && document.getElementById("inaccurate-clock-warning")) {
+        if (Math.abs(KA.currentServerTime() - new Date() / 1000) >= 60 * 60 * 24 &&
+                document.getElementById("inaccurate-clock-warning")) {
             document.getElementById("inaccurate-clock-warning").innerHTML = "If you're still having trouble, please check your computer's clock and make sure that today's date is properly set.";
         }
-    </script><script type="text/javascript">
-        window.mixpanel = [];
+    })();
     </script>
+    
+
+
+    <script type="text/javascript">
+    (function() {
+        var $ = KAdefine.require("jquery");
+        window.mixpanel = [];
+        $(function() {
+            var Analytics = KAdefine.require("./javascript/shared-package/analytics.js");
+            Analytics.init();
+        });
+    })();
+    </script>
+    
 
         
 
     
     
     
+
+
 <script type="text/javascript">
+(function() {
+    var $ = KAdefine.require("jquery");
     $('#language_picker').change(function () {
         var new_tag = $('#language_picker option:selected').attr('value');
         // TODO(csilvers): I18N: redirect to <new_tag>.khanacademy.org?
         window.location.href = '/intl/' + new_tag;
     });
+})();
 </script>
+
 
     <script type="text/javascript">
         (function() {
@@ -1339,7 +1732,14 @@ PackageManager.setLoaded("shared.css","tos-privacy.css")</script>
     </script>
     
 
-    <script type="text/javascript">$(function() {
+    
+
+
+
+
+    <script type="text/javascript">
+    (function() {
+        var $ = KAdefine.require("jquery");$(function() {
             
 
             var NavHeader = KAdefine.require(
@@ -1357,6 +1757,8 @@ PackageManager.setLoaded("shared.css","tos-privacy.css")</script>
             
 
             
+            var HeaderTopicBrowser = KAdefine.require(
+                    "./javascript/shared-package/header-topic-browser.js");
             HeaderTopicBrowser.init();
         });
 
@@ -1367,10 +1769,13 @@ PackageManager.setLoaded("shared.css","tos-privacy.css")</script>
                 console.log(document.childNodes[1].nodeValue);
             }
         
+    })();
     </script>
+    
 
     
     
     
+
     
 </body></html>
