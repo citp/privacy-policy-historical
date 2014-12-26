@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbonline.co.uk privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624185832id_/http%3A//www.cbonline.co.uk/legal-privacy/use-of-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbonline.co.uk privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226155536id_/http%3A//www.cbonline.co.uk/legal-privacy/use-of-cookies) for the most accurate reproduction.*
 
 # Use of Cookies | Clydesdale Bank
 
