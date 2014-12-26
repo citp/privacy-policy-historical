@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade65.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525052853id_/http%3A//trading.trade65.com//privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade65.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226201115id_/http%3A//trading.trade65.com/en/privacy) for the most accurate reproduction.*
 
 # Binary Options Trading And Strategy on Trade65
 
@@ -6,7 +6,7 @@
 
 ### 1\. Introduction
 
-trade65.com (the "Company" or "we") offers binary options and financial market trading services via the Internet. When you use the Company's services via its online trading platform, you shall be asked to provide personal identifiable information ("Personal Information") to the Company. We are committed to respecting your privacy and to complying with applicable data protection and privacy laws. We have therefore provided this Privacy Policy to help you understand how we collect, use, store and protect your Personal Information for the purpose of offering you trading services. If you do not understand this Privacy Policy or how we handle or use the Personal Information which you provide to us then you are invited to send in your questions to [support@trade65.com](mailto:support@trade65.com) and we will do our best to answer your questions in full as quickly as possible. You should read this Privacy Policy in conjunction with our End User License Agreement [**"Terms"**](https://web.archive.org/web/20140525052853id_/http%3A//trading.trade65.com//terms). 
+trade65.com (the "Company" or "we") offers binary options and financial market trading services via the Internet. When you use the Company's services via its online trading platform, you shall be asked to provide personal identifiable information ("Personal Information") to the Company. We are committed to respecting your privacy and to complying with applicable data protection and privacy laws. We have therefore provided this Privacy Policy to help you understand how we collect, use, store and protect your Personal Information for the purpose of offering you trading services. If you do not understand this Privacy Policy or how we handle or use the Personal Information which you provide to us then you are invited to send in your questions to [support@trade65.com](mailto:support@trade65.com) and we will do our best to answer your questions in full as quickly as possible. You should read this Privacy Policy in conjunction with our End User License Agreement [**"Terms"**](https://web.archive.org/web/20141226201115id_/http://trading.trade65.com/terms). 
 
 ### 2\. Modifications to the Privacy Policy
 
