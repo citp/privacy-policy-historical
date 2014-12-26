@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2014-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140123060820id_/http%3A//www.wimp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226060053id_/http%3A//www.wimp.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Wimp.com Privacy
+
+### Privacy Policy
 
 No information is sold or released to anyone about visitors to Wimp.com without prior consent or a court order. In other words, no information is released to anyone unless you give permission first.
 
@@ -10,7 +12,7 @@ When visiting any Internet site, your unique address called an "IP address" is r
 
 IP reports for advertisement clicks are shared with the advertiser. However, they usually have this information already since it is captured by their server when you view or click an ad. This is done to verify billing for the ads. No additional information associated with any specific user is provided to the advertisers.
 
-Overview
+### Overview
 
 Your privacy is important to us. Wimp.com's service is free for all to use, and prior registration is not needed.
 
@@ -24,6 +26,6 @@ Wimp.com uses cookies as part of tracking process for advertisement banners so y
 
 Some links on Wimp.com will take visitors outside its web server. Although these links were established to provide access to useful information, Wimp.com is not responsible for any of these sites or their content.
 
-Contact
+### Contact
 
 If you have any questions about this privacy statement, you may contact Wimp.com [here](https://web.archive.org/contact/).
