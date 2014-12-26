@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023709id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viator.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226030859id_/http%3A//www.viator.com/privacy-policy) for the most accurate reproduction.*
 
 # Viator Customer Care - 24/7 Assistance | Viator.com
 
@@ -47,7 +47,7 @@ Most web browsers allow you to turn off cookies; however, turning off cookies wi
 
 
 
-Third-Party Cookies: We also use third-party advertising companies to serve ads while you are visiting our websites and we permit these companies to place and access their own cookies on your computer in the course of serving advertisements. Such advertisers do not have access to the information we collect through Viator cookies. Other companies' use of their cookies is subject to their own privacy policies and not ours.
+Third-Party Cookies: We also use third-party advertising companies to serve ads while you are visiting our websites and we permit these companies to place and access their own cookies on your computer in the course of serving advertisements. Such advertisers do not have access to the information we collect through Viator cookies. To opt out of this targeted online advertising, please click [here](http://www.networkadvertising.org/choices). Other companies' use of their cookies is subject to their own privacy policies and not ours.
 
 ### How We Use And Disclose Your Personal Information
 
@@ -122,4 +122,4 @@ For some Viator services you can access and update your registration and Persona
 
 To correct or update any other Personal Information, or if you have questions about Viator's Privacy Policy, please email our Privacy Officer at [privacy@viator.com](mailto:privacy@viator.com).
 
-Last updated: October 10, 2012
+Last updated: July 9, 2014
