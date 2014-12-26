@@ -1,27 +1,61 @@
-> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626010352id_/http%3A//www.momswhothink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhothink.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226211010id_/http%3A//www.momswhothink.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**MomsWhoThink.com Privacy Policy**
+This privacy policy sets out how MomsWhoThink.com LLC uses and protects any information that you give while using www.momswhothink.com
 
-MomsWhoThink.com respects your right to the privacy of the personal information you provide us on our web sites. To that end, unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide to MomsWhoThink.com will be known only to two parties: you and MomsWhoThink.com. The following policy is intended to explain how your personal information will be treated as you make use of our site. Personal information includes your name, e-mail addresses, click-through activity and any other personal information you may provide here.
+Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**Use of MomsWhoThink.com cookies**
+MomsWhoThink.com LLC may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from today's date.
 
-A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. We use cookies in a limited way to identify unique browsers that visit us and to track usage throughout our site. The information about readership and site usage that Moms Who Think collects through cookies is aggregated into general reports about readership and not tied to individual identities ever. Your e-mail address will not be shared with anyone and no one except Moms Who Think will be able to contact you. If you choose to allow other members to email you, they will not be able to view your email address. You will be sent an email through our email forwarding system.
+ **What we collect**
 
-**"E-mail to a friend" feature**
+We may collect the following information:
 
-MomsWhoThink.com offers an "e-mail a friend about this story" feature, allowing site visitors to send e-mail to friends to inform them about an article they might be interested in reading. In order for this feature to function, we ask for e-mail addresses for the recipient (so we know who to mail the message to) and from the sender (so we can tell the recipient who sent the e-mail). We do not store or save these addresses and you will not receive e-mail or other communications from Moms Who Think as a result of having used this feature. "E-mail a friend about this story" is a mail service that individual visitors to MomsWhoThink.com can make use of to send individual e-mails. While this tool cannot be used to send mass "spam" mailings, MomsWhoThink.com has no control over how our visitors use it, and any e-mail sent through it originates with, and is the responsibility of the sender, not MomsWhoThink.com
+• contact information including email address  
+• demographic information such as postcode, preferences and interests  
+• other information relevant to customer surveys and/or offers
 
-**Other disclosure of personal information**
+ **What we do with the information we gather**
 
-MomsWhoThink.com will not otherwise use or disclose your personal information without your consent except (i) as described in this privacy policy, or (ii) as required by law, court order or as requested by other government or law enforcement authority. This policy does not protect information you post to any public forum within our Web site.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Other sites**
+• We may use the information to improve our products and services.
 
-MomsWhoThink.com contains many links to other sites on the Web. We cannot control and are not responsible for the privacy practices or content of such other Web sites.
+• We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided, only if you have provided us with your email. 
 
-Third Party Advertising... We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [Click Here](http://www.networkadvertising.org/optout_nonppii.asp)
+**Security**
 
-Third Party Cookies... In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+
+**How we use cookies**
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+ **Advertising**
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is http://www.gourmetads.com. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+
+ **Links to other websites**
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+ **Controlling your personal information**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+• whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+
+• if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us. 
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+ **Opt Out**
+
+For information about opting out of Gourmet Ads and ad serving partners please visit http://www.gourmetads.com/about/privacy-policy
