@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaltrade.net privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401040131id_/http%3A//www.globaltrade.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltrade.net privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226031830id_/http%3A//www.globaltrade.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalTrade.net
 
