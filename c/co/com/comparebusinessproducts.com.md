@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparebusinessproducts.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614070502id_/http%3A//www.comparebusinessproducts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparebusinessproducts.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226214916id_/http%3A//www.comparebusinessproducts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reviews, Comparisons and Buyer’s Guides
 
@@ -46,6 +46,6 @@ The Company welcomes your comments regarding this Statement of Privacy. If you b
 
 ###  Wheelhouse Enterprises, Inc
 
-2181 Park Blvd  
-Palo Alto, CA 94028  
+1730 S. Amphlett Blvd., Ste. 101  
+San Mateo, CA 94402  
 650-681-9888
