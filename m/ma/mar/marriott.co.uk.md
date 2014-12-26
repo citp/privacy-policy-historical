@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriott.co.uk privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627152252id_/http%3A//www.marriott.co.uk/marriott/privacy-uk.mi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriott.co.uk privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226092512id_/http%3A//www.marriott.co.uk/marriott/privacy-uk.mi) for the most accurate reproduction.*
 
 # Marriott® Hotels UK & Ireland: Marriott Privacy Statement
 
@@ -16,21 +16,23 @@ Our Websites are available to visitors located throughout the world, and operate
 
 ## LATIN AMERICA
 
+## INTERNATIONAL
+
 This Statement was last updated on **13th February, 2014** , to describe how the privacy statement applies to all of the information we obtain from you and to update the privacy statement with respect to Marriott’s Authorized Licensees, franchisees and certain other commercial partners set out below.
 
 Types of Personal Information We Collect
 
 The types of personal information that we collect include:
 
-  * your name, gender, home and work contact details, business title, date and place of birth, nationality, passport and visa information;
-  * guest stay information, including the hotels where you have stayed, date of arrival and departure, goods and services purchased, special requests made, observations about your service preferences (including room, holiday preferences, amenities requested, facilities or any other services used);
-  * telephone numbers dialed, faxes sent/received or receipt of telephone messages when connected to the telephone services we may provide guests during their stay;
-  * your credit card details, Marriott International or Ritz-Carlton Rewards information, online user accounts details, profile or password details and any frequent flyer or travel partner program affiliation;
-  * any information necessary to fulfill special requests (e.g. preferences that require specific accommodations, purchase of goods and services);
-  * information you provide regarding your marketing preferences or in the course of participating in surveys, contests or promotional offers;
-  * information collected through the use of closed circuit television systems, card key and other security systems;
-  * contact and other relevant details concerning the employees of corporate accounts and vendors and other individuals with whom we do business (e.g., travel agents or meeting and event planners).
-  * additional contact information about you that we may obtain through third parties with whom we do business (e.g. travel agents or similar providers). For example, if we know your name and postal address, we may request your email address from your travel agent.
+  * Your name, gender, home and work contact details, business title, date and place of birth, nationality, passport and visa information;
+  * Guest stay information, including the hotels where you have stayed, date of arrival and departure, goods and services purchased, special requests made, observations about your service preferences (including room, holiday preferences, amenities requested, facilities or any other services used);
+  * Telephone numbers dialed, faxes sent/received or receipt of telephone messages when connected to the telephone services we may provide guests during their stay;
+  * Your credit card details, Marriott International or Ritz-Carlton Rewards information, online user accounts details, profile or password details and any frequent flyer or travel partner program affiliation;
+  * Any information necessary to fulfill special requests (e.g. preferences that require specific accommodations, purchase of goods and services);
+  * Information you provide regarding your marketing preferences or in the course of participating in surveys, contests or promotional offers;
+  * Information collected through the use of closed circuit television systems, card key and other security systems;
+  * Contact and other relevant details concerning the employees of corporate accounts and vendors and other individuals with whom we do business (e.g., travel agents or meeting and event planners).
+  * Additional contact information about you that we may obtain through third parties with whom we do business (e.g. travel agents or similar providers). For example, if we know your name and postal address, we may request your email address from your travel agent.
 
 
 
@@ -44,32 +46,32 @@ How We Use Personal Information
 
 We may use personal information in a variety of ways, including through personal contact, via our Websites, through emails and correspondence, and through third parties, such as travel agents and other business partners. We use personal information for the purposes we have disclosed to you, or as permitted by law. In general we use personal information in order to:
 
-  * provide the services your request, such as to facilitate reservations, send a confirmation, send you a pre-arrival message and provide other information about the area and the hotel;
-  * provide you with information about meeting, event or celebration planning and access to specific account information for administrative purposes;
-  * send you periodic customer satisfaction, market research or quality assurance surveys;
-  * service your account and services preferences;
-  * send you offers and promotions from Marriott and its Affiliates and Authorized Licensees concerning any Marriott and Ritz-Carlton branded offers and promotions which we believe will be of interest to you including; 
-    * those related to the Marriott Vacation Club, Marriott and Ritz-Carlton Real Estate;
-    * the Marriott Rewards Credit Card;
-    * promotions and news such as your account information, exclusive offers, hotel openings;
+  * Provide the services your request, such as to facilitate reservations, send a confirmation, send you a pre-arrival message and provide other information about the area and the hotel;
+  * Provide you with information about meeting, event or celebration planning and access to specific account information for administrative purposes;
+  * Send you periodic customer satisfaction, market research or quality assurance surveys;
+  * Service your account and services preferences;
+  * Send you offers and promotions from Marriott and its Affiliates and Authorized Licensees concerning any Marriott and Ritz-Carlton branded offers and promotions which we believe will be of interest to you including; 
+    * Those related to the Marriott Vacation Club, Marriott and Ritz-Carlton Real Estate;
+    * The Marriott Rewards Credit Card;
+    * Promotions and news such as your account information, exclusive offers, hotel openings;
     * Marriott loyalty programs and worldwide promotions;
-    * hotel specials such as personalized destinations deals and packages, last minute rates;
-    * partner offers such as financial products, car hire, club memberships, among others.;
-  * ship products, information or provide services to our customers, including sending you goods or products ordered from any of the ShopMarriott Websites;
-  * manage your shopping, Marriott/Ritz-Carlton Rewards or other account, including when you redeem points;
-  * understand your and other customers’ needs;
-  * learn about our markets and improve our products and services;
-  * comply with regulatory and legal obligations;
-  * assist with the planning of meetings and events;
-  * protect our rights and property
+    * Hotel specials such as personalized destinations deals and packages, last minute rates;
+    * Partner offers such as financial products, car hire, club memberships, among others.;
+  * Ship products, information or provide services to our customers, including sending you goods or products ordered from any of the ShopMarriott Websites;
+  * Manage your shopping, Marriott/Ritz-Carlton Rewards or other account, including when you redeem points;
+  * Understand your and other customers’ needs;
+  * Learn about our markets and improve our products and services;
+  * Comply with regulatory and legal obligations;
+  * Assist with the planning of meetings and events;
+  * Protect our rights and property
 
 
   * **Marriott or Ritz-Carlton Rewards  
 **In addition to the above purposes, we also use personal information to: 
-    * better service your account and preferences by keeping you informed of your account status and activities through printed or electronic statements;
-    * assess your entitlement to benefits;
-    * administer points earned through the Marriott Rewards Credit Card;
-    * manage your choices regarding how you wish to earn points (e.g., participating airlines and other company loyalty programs). Where you elect to earn points via participating partners, certain transaction information will be transmitted to these companies to accurately record your point and transaction activity
+    * Better service your account and preferences by keeping you informed of your account status and activities through printed or electronic statements;
+    * Assess your entitlement to benefits;
+    * Administer points earned through the Marriott Rewards Credit Card;
+    * Manage your choices regarding how you wish to earn points (e.g., participating airlines and other company loyalty programs). Where you elect to earn points via participating partners, certain transaction information will be transmitted to these companies to accurately record your point and transaction activity
 
 
 
@@ -96,7 +98,7 @@ We may disclose personal information in the following ways:
     * The personal information you provide to us for making a reservation is made available to the applicable hotel for the purpose of meeting your reservation request.
     * After your stay we retain your personal information including details of your stay, room/accommodation type and amenities used.
     * Reservations booked at properties that are operated by a franchisee or Authorized Licensee will have the details of the booking disclosed to the third party franchisee or Authorized Licensee for the sole purpose of providing the requested goods and services. In some countries we may also disclose details of your booking to the Authorized Licensee which owns the property managed by us for the sole purpose of meeting your reservation request.
-  * **Travel Related Service** s 
+  * **Travel Related Services**
     * To provide you with a single source for purchasing packages that include other travel-related services such as airline tickets or rental cars, including those offered by Authorized Licensees, we have entered into agreements with select reputable third-party companies that sell Marriott- or Ritz-Carlton-branded products which require them to secure your personal information and , to use it only to execute the transactions you request or to market Marriott- or Ritz-Carlton-branded vacation products. Any personal information you provide to these third parties will be controlled by each of them and is subject to their respective privacy statements and practices.
   * **eFolio**
     * If you are an employee or contractor of a company that participates in Marriott's eFolio Program and you use the corporate credit card that is provided to you by your employer to pay for your hotel expenses (hotel folio) at a Marriott participating property, an extract of your hotel folio detailing the goods and services provided to you during your hotel stay (as an individual traveler, or as part of a group, meeting or event) will be transferred electronically to the credit card company or its agents, who will in turn, forward that extract to your employer to facilitate the processing and tracking of the travel related expenses of their employees. Once Marriott transfers this information, our Privacy Statement will no longer apply and the handling of your personal information will be subject to the privacy policies of your employer, the relevant credit card network operator, the relevant card issuer and/or their respective subcontractors.
@@ -140,9 +142,9 @@ We use the following types of cookies on our Websites and apps:
 
 The Marriott Group and its third-party service providers use web beacons and pixel tags to:
 
-  * track customer response to the Marriott Group advertisements and Website content;
-  * determine users ability to receive HTML-based email messages and know how many users open an email and allow our service provider to compile aggregated statistics about an email campaign for us; and
-  * allow us to better target interactive advertising, enhance customer support and site usability, and provide offers and promotions that we believe would be of interest to you.
+  * Track customer response to the Marriott Group advertisements and Website content;
+  * Determine users ability to receive HTML-based email messages and know how many users open an email and allow our service provider to compile aggregated statistics about an email campaign for us; and
+  * Allow us to better target interactive advertising, enhance customer support and site usability, and provide offers and promotions that we believe would be of interest to you.
 
 
 
@@ -161,7 +163,7 @@ Children’s Privacy
 
 Our Websites are not intended for children and we do not knowingly solicit or collect personal information from children. If we are notified or discover that a child under the age of 13 has submitted personal information to any of our Websites, we will take reasonable steps to delete the information. We do present information regarding The Marriott Kids program on our Websites for the reference of adults that are interested in activities at our locations for children.
 
-If you nevertheless believe that your child has provided us with their personal information and you need to let us know to delete it and/or request that no further personal information about your child is collected or you have any questions or privacy concerns please email the Marriott Information Protection & Privacy department at privacy@marriott.com or send a letter to:
+If you nevertheless believe that your child has provided us with their personal information and you need to let us know to delete it and/or request that no further personal information about your child is collected or you have any questions or privacy concerns please email the Marriott Information Protection & Privacy department at [privacy@marriott.com](mailto:privacy@marriott.com) or send a letter to:
 
 Marriott International, Inc.  
 Attn: Information Protection and Privacy Dept. 52/995.63  
