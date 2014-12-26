@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the acog.org privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513124529id_/http%3A//www.acog.org/About_ACOG/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acog.org privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226104034id_/http%3A//www.acog.org/About-ACOG/Privacy-Statement) for the most accurate reproduction.*
 
-# ACOG - Privacy Statement
+# Privacy Statement - ACOG
 
 By accessing or using any of the American Congress of Obstetricians and Gynecologists (“ACOG”) Internet properties including, without limitation, [www.acog.org](http://www.acog.org/), and any others released by the ACOG from time to time (collectively referred to as the "ACOG Web sites") you agree to comply with and be bound by the ACOG Terms and Conditions of Use ("Terms of Use"). **If you do not agree to this Privacy Policy and the Terms of Use, you must immediately terminate use of the ACOG Web sites.**
 
