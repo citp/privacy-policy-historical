@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovetheatre.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328144913id_/http%3A//www.lovetheatre.com/information/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovetheatre.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226170942id_/http%3A//www.lovetheatre.com/information/security) for the most accurate reproduction.*
 
 # Security | Information | LOVE Theatre
 
