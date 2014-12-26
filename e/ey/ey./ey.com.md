@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626015051id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226052819id_/http%3A//www.ey.com/US/en/home/privacy) for the most accurate reproduction.*
 
 # Privacy - EY - United States
 
@@ -8,12 +8,15 @@ At Ernst & Young, we have focused on implementing fair information practices tha
 
 If you have questions or you do not feel that your concerns have been addressed in our privacy statement, feel free to [contact us](https://web.archive.org/US/en/Home/Home-ContactUs).
 
+**How We Respond to Do Not Track Signals**  
+EY does not respond to Do Not Track (DNT) signals. Details on your ability to restrict or change the personal information that we may collect about you are listed below under the Collection, Use, Disclosure, Choice section of this statement. For more information as to how we use cookies, please see the applicable section here.
+
 **Collection, Use, Disclosure, Choice**  
 If you are merely a visitor to ey.com, Ernst & Young does not collect any personal information about you, except to the limited extent through the use of cookies, which are described below. There are a number of circumstances, however, in which we may collect information:
 
   * [**Email Alerts**](https://webforms.ey.com/US/en/Email_Alerts). Ernst & Young in the US offers an email alert service to site visitors, in which we send subscribers free email updates when new information is added to ey.com/us. If you decide to subscribe, we will collect basic contact information about you, such as your name and email address. Please note registration is not required for you to use our site.
 
-_**Your Choice**_. Ernst & Young gives you choices regarding the collection and usage of your personally identifiable information. If you do not wish to provide your name and email address, simply do not register for email updates. If you have registered with ey.com but do not wish to receive future e-mails, please use our easy [unsubscribe page](https://web.archive.org/US/en/Home/Email_Alerts_Unsubscribe). Learn how to [correct and update](https://web.archive.org/US/en/Home/Email_Alerts_Unsubscribe) your email address. If you wish to view any personal information you may have provided to us, please send a request to our site manager.
+_**Your Choice**_ Ernst & Young gives you choices regarding the collection and usage of your personally identifiable information. If you do not wish to provide your name and email address, simply do not register for email updates. If you have registered with ey.com but do not wish to receive future e-mails, please go to the “Quick links” section to unsubscribe. You may also update your email address or other personal information at that same site. If you wish to view any personal information you may have provided to us, please send a request to our site manager.
 
 Unsubscribing to or modifying your information for the distribution of our careers newsletter, _Inside Ernst & Young_, can be done via the links at the bottom of any _Inside Ernst & Young_ issue.
 
