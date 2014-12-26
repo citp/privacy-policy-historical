@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashbackresearch.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530065023id_/http%3A//www.cashbackresearch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashbackresearch.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226152939id_/http%3A//www.cashbackresearch.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,10 +8,9 @@ This is the web site of CashbackResearch.
 
 Our postal address is:  
 **Cashback Research**  
-P.O. Box 7003  
+820 67th Avenue North, Suite 7344  
 Myrtle Beach, SC 29572  
 Tel: 888-408-0470  
-Fax: 843-497-6065  
 We can be reached via our contact form at: [ http://www.cashbackresearch.com/contact.htm](http://www.cashbackresearch.com/contact.htm)
 
  **HOW WE USE INFORMATION  **  
