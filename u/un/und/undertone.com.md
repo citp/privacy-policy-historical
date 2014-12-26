@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625172106id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226231505id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Undertone
+# Privacy - Undertone
 
 [Privacy](https://web.archive.org/privacy) | [Health and Data Segments](https://web.archive.org/undertone-and-health-data-segments)
 
@@ -20,9 +20,9 @@ As part of our ad delivery and reporting, we log page views and collect informat
 
 We want to deliver more relevant advertising to you. Delivering more relevant advertising to you and other website visitors allows website owners to generate more advertising revenue. This revenue pays for the free content that they may publish for you, or free services that they may deliver to you. It also means that you are more likely to see online advertising that meets your interests.
 
-In an effort to deliver relevant advertising to you, we collect data across multiple web domains owned or operated by different entities to categorize likely consumer interest segments for use in advertising online (“Online Behavioral Advertising” or “OBA”). For example, we can analyze aggregate, anonymous data to determine that a visitor of a particular site at 6:30PM is more likely to be interested in pizza, or antique cars, or a classic movie. We can then serve an ad to the web page the visitor is viewing that offers a discounted pizza, car show tickets, or classic movie DVD—importantly—without ever knowing the identity or personal information of the visitor.
+In an effort to deliver relevant advertising to you, we collect data across multiple web domains owned or operated by different entities to categorize likely consumer interest segments for use in advertising online (“Interest-Based Advertising” or “IBA”). For example, we can analyze data to determine that a visitor of a particular site at 6:30PM is more likely to be interested in pizza, or antique cars, or a classic movie. We can then serve an ad to the web page the visitor is viewing that offers a discounted pizza, car show tickets, or classic movie DVD—importantly—without ever knowing the identity or personal information of the visitor.
 
-If you do not wish to benefit from relevant advertising, please feel free opt out OBA as described in the paragraph titled “OBA Opt-Out”, below.
+If you do not wish to benefit from relevant advertising, please feel free opt out IBA as described in the paragraph titled “IBA _Opt-Out”, below.
 
 ### Internet Technology
 
@@ -38,7 +38,7 @@ We use the information we collect for marketing and advertising purposes, to det
 
 ### Personally Identifiable Information
 
-Personally Identifiable Information or PII is any information that identifies you or can be used to identify you. This includes, but is not limited to, your name, telephone number, address, email address, and date of birth. Undertone does not collect PII unless you choose to provide it to us. You may choose to do so as part of your interaction with Customer Forms on the Undertone corporate site.
+Undertone does not collect or use Personally Identifiable Information (PII) for IBA. PII is any information that identifies you or can be used to identify you. This includes, but is not limited to, your name, telephone number, address, email address, and date of birth. Undertone does not collect PII unless you choose to provide it to us. You may choose to do so as part of your interaction with Customer Forms on the Undertone corporate site.
 
 Examples of such Customer Forms include, but are not limited to: registration forms to access Undertone published white papers or Undertone produced webinars, and forms providing customer contact information when requesting information from Undertone.
 
@@ -46,7 +46,7 @@ Customer Forms are not intended for use by individuals under the age of 18 or th
 
 ### Non-Personally Identifiable Information
 
-Non-Personally Identifiable Information or Non-PII is anonymous data including, but not limited to: your IP address, web pages which you have viewed, and your responses to internet advertisements. This information may be collected using different types of internet technologies, such as cookies (see, “Internet Technology” above for more details).
+Non-Personally Identifiable Information or Non-PII is data that is linked or reasonably linkable to a particular computer or device, but is not PII, including, but not limited to: your IP address, web pages which you have viewed, and your responses to internet advertisements. This information may be collected using different types of internet technologies, such as cookies (see, “Internet Technology” above for more details).
 
 Undertone may collect this information when you are visiting the Undertone corporate site or any website within the Undertone Site Network. However, this information is not combined with PII.
 
@@ -68,29 +68,35 @@ Please be aware that the Sites of our advertiser clients as well as the Sites on
 
 ### Data Retention
 
-Your Internet browser stores OBA-related data as cookies. If you have cookies disabled, if you delete your cookies, or if other software deletes the cookies used for that data storage, such data is lost because it is not retained separately by Undertone. The cookies that store data related to Undertone’s OBA will in any case expire one year after the last time such information is stored, barring any technical malfunction.
+Your Internet browser stores IBA-related data as cookies. If you have cookies disabled, if you delete your cookies, or if other software deletes the cookies used for that data storage, such data is lost because it is not retained separately by Undertone. The cookies that store data related to Undertone’s IBA will in any case expire, at latest, one year after the last time such information is stored, barring any technical malfunction.
 
 Undertone retains information regarding ad delivery (see, “Ad Delivery & Reporting” above) for up to six (6) months. However, Undertone may retain aggregate statistics, reports and summaries regarding ad delivery for a longer period.
 
-Undertone may delete any or all of OBA or information regarding ad delivery that relates to you at any time and in Undertone’s sole discretion, notwithstanding its normal data retention policies. Further, Undertone reserves the right to retain and use any information described in this Privacy Policy as reasonably necessary to comply with laws or regulations, notwithstanding any limitations described in this Privacy Policy to the contrary. If Undertone changes its retention data policies by updating this Privacy Policy, its new policies will apply to all data then retained by Undertone.
+Undertone may delete any or all of IBA or information regarding ad delivery that relates to you at any time and in Undertone’s sole discretion, notwithstanding its normal data retention policies. Further, Undertone reserves the right to retain and use any information described in this Privacy Policy as reasonably necessary to comply with laws or regulations, notwithstanding any limitations described in this Privacy Policy to the contrary. If Undertone changes its retention data policies by updating this Privacy Policy, its new policies will apply to all data collected after the effective date of those changes.
 
 ## Your Choices
 
-### OBA Opt-Out
+### IBA Opt-Out
 
-If you would like to opt out of OBA, then we offer “opt-out cookies” to block the tracking and placement of future Undertone cookies for OBA purposes on your system for five (5) years. We may increase this period, which means your opt-out choice will continue for a longer period. If you have multiple Internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your anti-virus or other software deletes the opt-out cookies from your computer, if you re-install your browser, or if you delete your cookies (which can happen if you clear or delete your browser history), then you will need to repeat the process. The opt-out cookies will not work while you have set your browser to ignore cookies. Click [Here](http://www.undertone.com/opt-out-tool) to Install the Undertone Opt-Out Cookie. To opt out of OBA by other NAI member companies, please visit the Network Advertising Initiative website [here](http://www.networkadvertising.org/choices/) or the Digital Advertising Alliance (DAA) website [here](http://www.aboutads.info/choices/).
+Undertone is committed to providing consumers notice and choice regarding IBA. Undertone offers an “opt-out cookie” for those that wish to opt-out of Undertone IBA activities. This cookie will honor your IBA preferences for a period of five (5) years. We may increase this period, which means your opt-out choice will continue for a longer period. If you have multiple Internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your anti-virus or other software deletes the opt-out cookies from your computer, if you re-install your browser, or if you delete your cookies (which can happen if you clear or delete your browser history), then you will need to repeat the process. Undertone may be unable to provide you with an opt-out cookie if your browser is set to block third-party cookies.
 
-Please note that the above link for opt-out cookies is applicable to Undertone and Intercept Interactive, but not any other Undertone Entity website. Also, please note that use of the opt-out cookies will affect our ability to provide you content and advertisements that will more effectively match your interests. Please report any problems related to the opt-out process to privacy@undertone.com.
+To opt-out of IBA, please use our [opt-out tool](http://undertone.com/opt-out-tool).
+
+Please note that the above opt-out link is applicable to Undertone IBA activities only. To opt-out of IBA by Upfront Media/Legolas Media, please use the following [opt-out](http://www.thinkupfront.com/opt-out-tool/). You may also opt-out of IBA by Undertone/Legolas Media and other member companies of the Network Advertising Initiative (NAI), by visiting the NAI website [here.](http://www.networkadvertising.org/managing/opt_out.asp) Or you may opt-out of IBA by Undertone/Legolas Media and other member companies of the Digital Advertising Alliance (DAA), by visiting the DAA website [here](http://www.aboutads.info/choices/).
+
+Please report any problems related to the opt-out process to [privacy@undertone.com](mailto:privacy@undertone.com).
 
 ### Children’s Privacy
 
-Undertone is very sensitive to the issue of children’s privacy. Undertone’s products and services are neither developed for, nor directed at, children. Undertone does not employ or offer targeting towards children under the age of 13. If you believe your child has provided us with personally identifiable data, and you would like to have the data removed, please contact us.
+Undertone is very sensitive to the issue of children’s privacy. Undertone’s products and services are neither developed for, nor directed at, children. Undertone does not employ or offer advertising targeting towards children under the age of 13.
+
+If you believe your child has provided us with PII through the Undertone corporate site or through our corporate marketing materials, please contact us and we will delete any such data.
 
 ### User Choice and Privacy Generally
 
-NAI: Undertone is a member of the Network Advertising Initiative (“NAI”). The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit www.networkadvertising.org.
+Undertone is a member of the Network Advertising Initiative (“NAI”) and adheres to the NAI’s 2013 Code of Conduct. The NAI is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. For more information, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
-Ad Choices: Undertone supports deployment of Advertising Option icon (Ad Choices), in partnership with Ghostery Enterprise, as part of its compliance with Digital Advertising Alliance self-regulation program. As part of this service, online advertisements served by Undertone are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
+AdChoices: Undertone supports deployment of AdChoices icon, in partnership with Ghostery Enterprise, as part of its compliance with Digital Advertising Alliance self-regulation program. As part of this service, online advertisements served by Undertone are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
 
 ### Security
 
@@ -112,4 +118,4 @@ Attn: Chief Compliance Officer
 8th Floor  
 New York, NY 10173
 
-Privacy Policy – May 13, 2013
+Privacy Policy – August 27, 2014
