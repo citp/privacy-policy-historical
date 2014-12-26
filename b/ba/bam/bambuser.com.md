@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bambuser.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629161147id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bambuser.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226044747id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bambuser
 
@@ -44,7 +44,6 @@ While Bambuser AB can’t guarantee that unauthorised access will never occur, r
 
 Should you have eventual any inquiries concerning Personal Data held by us or our policy, please send an email to [support@bambuser.com](mailto:support@bambuser.com). Alternatively, we can be reached at our postal mail address:  
 Bambuser Ab  
-C/O Wrapp Ab  
-Döbelnsgatan 24  
-11352 Stockholm  
+Västmannagatan 41  
+11325 Stockholm  
 Sweden
