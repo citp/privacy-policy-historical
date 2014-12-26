@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074257id_/http%3A//acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226033630id_/http%3A//www.acma.gov.au/theACMA/About/Corporate/Accountability/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ACMA
 
