@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techehow.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327062648id_/http%3A//www.techehow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techehow.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227004317id_/http%3A//www.techehow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TecheHow
+# Privacy Policy • TecheHow
 
 TecheHow.com is committed to protecting your privacy. We respect your privacy.
 
