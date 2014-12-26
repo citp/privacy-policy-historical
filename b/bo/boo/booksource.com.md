@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the booksource.com privacy policy that was archived on 2012-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120511054843id_/http%3A//www.booksource.com/files/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksource.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226015900id_/http%3A//www.booksource.com/files/privacypolicy.pdf) for the most accurate reproduction.*
 
 # BOOKSOURCE.COM. PRIVACY POLICY
 
