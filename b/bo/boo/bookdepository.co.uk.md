@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookdepository.co.uk privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407225757id_/http%3A//www.bookdepository.co.uk/help/topic/HelpId/20/Our-privacy-policy%23helpContent) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdepository.co.uk privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226032114id_/http%3A//www.bookdepository.com/help/topic/HelpId/20/Our-privacy-policy%23helpContent) for the most accurate reproduction.*
 
-# Help at The Book Depository
+# Help at Book Depository
 
 ### Our privacy policy
 
@@ -18,7 +18,7 @@ This privacy policy sets out how The Book Depository uses and protects any infor
 
 The Book Depository is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us via the [Contact us](http://www.bookdepository.co.uk/contactus) page.
+This Privacy Policy explains our data processing practices and your options regarding the ways in which your personal data is used. If you have any requests concerning your personal information or any queries with regard to our processing please contact us via the [Contact us](https://web.archive.org/contactus) page.
 
 The Book Depository may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
@@ -65,7 +65,7 @@ If you decide to delete your account/leave The Book Depository your personal acc
 **Security**  
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-**[How we use cookies](http://www.bookdepository.co.uk/help/topic/HelpId/53/How-we-use-cookies#helpContent)**  
+**[How we use cookies](https://web.archive.org/help/topic/HelpId/53/How-we-use-cookies#helpContent)**  
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 The Book Depository uses cookies for a number of purposes, for instance to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring.
@@ -96,7 +96,7 @@ Our website may contain links to enable you to visit other websites of interest 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at via our [Contact us](http://www.bookdepository.co.uk/contactus) page.
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at via our [Contact us](https://web.archive.org/contactus) page.
 
 
 
@@ -110,6 +110,6 @@ Goodridge Business Park,
 Gloucester,  
 GL2 5EB
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us via the [Contact us](http://www.bookdepository.co.uk/contactus) page as soon as possible, or at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us via the [Contact us](https://web.archive.org/contactus) page as soon as possible, or at the above address. We will promptly correct any information found to be incorrect.
 
  _Back to top_
