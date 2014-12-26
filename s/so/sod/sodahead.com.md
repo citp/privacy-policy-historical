@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sodahead.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627023342id_/http%3A//www.sodahead.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodahead.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226041201id_/http%3A//www.sodahead.com/about-us/privacy) for the most accurate reproduction.*
 
 # SodaHead.com - Privacy
 
@@ -60,7 +60,7 @@ SodaHead does not provide any personally identifiable information to these third
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. SodaHead's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites. 
 
-(1) State that the site’s advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags;     (2) Enable end users to opt out of behavioral targeting through the opt-out link located at http://www.networkadvertising.org/managing/opt_out.asp; and     (3) Note that you are participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising, with the provision an "Ad Choices" link on your site or within advertising units that links to http://www.aboutads.info/choices/. 
+(1) State that the site’s advertisers may engage in the collection of non-personally identifiable information about end users by third parties through the use of cookies and pixel tags;     (2) Enable end users to opt out of behavioral targeting through the opt-out link located at <http://www.networkadvertising.org/managing/opt_out.asp>; and     (3) Note that you are participating in the Digital Advertising Alliance's (DAA) Self-Regulatory Program for Online Behavioral Advertising, with the provision an "Ad Choices" link on your site or within advertising units that links to <http://www.aboutads.info/choices/>. 
 
 Data Security
 
