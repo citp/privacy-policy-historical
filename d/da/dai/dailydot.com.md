@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002132id_/http%3A//www.dailydot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailydot.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226030008id_/http%3A//dailydot.com/privacy-policy) for the most accurate reproduction.*
 
 # The Daily Dot Privacy Policy | The Daily Dot | Your Internet. Your Internet news.
 
