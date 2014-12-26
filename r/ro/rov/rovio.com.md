@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the rovio.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629115124id_/http%3A//www.rovio.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rovio.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226132859id_/http%3A//www.rovio.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rovio Entertainment Ltd
 
 [en français](http://www.rovio.com/Privacy-french)  
 [suomeksi](http://www.rovio.com/Privacy-finnish)  
 [på svenska](http://www.rovio.com/Privacy-swedish)  
-[USA](http://www.rovio.com/Privacy-usa)
+[USA](http://www.rovio.com/Privacy-usa)  
+[한국어](http://www.rovio.com/en/Privacy-Policy/privacy-policy-korean)
 
 Last updated: October 2013
 
