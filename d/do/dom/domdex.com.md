@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domdex.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626021510id_/http%3A//www.magnetic.com/privacy/corporate-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domdex.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226210957id_/http%3A//www.magnetic.com/privacy/corporate-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Magnetic Search Retargeting
 
@@ -99,8 +99,8 @@ For P3P (Compact Privacy Policy) details, visit the [P3P policy](http://privacy
 **QUESTIONS ABOUT OUR PRIVACY POLICY**
 
 Magnetic Media Online is responsible for the processing of information we collect about you in relation to our services.  If you are located in the European Economic Area and would like to exercise your rights of access, rectification, blocking, or deletion or to object to the processing of information, please contact as described below. In addition, if you have any questions, or concerns related to our privacy policy, please contact us at:  
-311 West 43rd Street, Suite 1406  
-New York, NY 10036  
+122 West 27th Street, 7th Floor  
+New York, NY 10001  
 USA
 
 Telephone: +1 646-430-9823  
