@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhaul.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627204604id_/http%3A//www.uhaul.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhaul.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226032832id_/http%3A//www.uhaul.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # U-Haul: Privacy policy
 
@@ -111,7 +111,7 @@ In order to further provide Our Services to you, we may use your Personal Inform
 
 
 
-**U-Haul does not sell, trade in, barter or exchange for payment or any consideration, any of your Personal Information that it has obtained.**
+** U-Haul does not sell, trade in, barter or exchange for payment or any consideration, any of your Personal Information that it has obtained. **
 
 ### Your interaction with your Personal Information; How to contact us
 
