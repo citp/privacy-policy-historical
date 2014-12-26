@@ -1,83 +1,52 @@
-> *The following text is extracted and transformed from the crazygood.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518001205id_/http%3A//www.crazygood.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazygood.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226171951id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
 
-# Crazygood - Privacy
+# Privacy Policy - Media Temple
 
-## PRIVACY POLICY
+For the purposes of this Agreement, the following definitions apply and any undefined terms have the meaning ascribed to them in the context in which they are used in this Agreement:
 
-Crazygood is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this notice have the same meanings as in Crazygood' [[Website Terms of Use]](http://www.crazygood.com/pages/tos), which is incorporated herein by reference). Crazygood created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
+### **A. Personally-Identifiable Information:**
 
-This Privacy Policy is only applicable to the Website and not to any Third-Party Websites, which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites, below.
+Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want Media Temple to use this information for additional purposes.
 
-BY USING THE WEBSITE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE WEBSITE.
+Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. On those Media Temple sites where you may provide Media Temple with credit card or other ordering information via the web, Media Temple protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). 
 
-Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. For additional information, see the section concerning Updates and Changes to Privacy Policy, below.
+#### **Targeted Advertisements**
 
-  **1\. CHILDREN'S PRIVACY**
+Absent any instructions from you, Media Temple may use information you provide to inform you about additional services and products offered by the Media Temple family of companies, Media Temple venture companies, Media Temple authorized agents, and other goods and services providers with whom Media Temple has relationships and whose offerings might be of interest to you.
 
-Crazygood does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Crazygood obtains actual knowledge that it has collected personally identifiable information from a child under the age of 13, Crazygood will immediately delete such information from its database. Because Crazygood does not collect personally identifiable information from children under the age of 13, Crazygood has no such information to use or disclose to third parties. Crazygood has designed this Privacy Policy in order to comply with the Children's Online Privacy Act (COPPA). 
+#### **Supplementation of Information**
 
-  **2\. INFORMATION COLLECTION PRACTICES**
+In order to provide certain services to you, we may on occasion supplement the personally identifiable information you submit to us with information from third party sources (e.g., information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-  **(a) Traffic Data.** Like most website operators, Crazygood automatically gathers information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of devices accessing the Website; and (iv) types of Web browsers accessing the Website (collectively "Traffic Data"). Traffic Data is anonymous information that does not personally identify You. 
+#### **Opt-out**
 
-  **(b) Cookies.** A " **Cookie** " is a string of information that a website stores on a user's computer, and that the user's browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. Crazygood uses Cookies to customize Your experience on the Website to Your interests, to ensure that You do not see the same informational messages repeatedly, and to store Your username so You do not have to re-enter it each time You visit the Website. For additional information on Crazygood' uses of Cookies, see the section concerning Information Use and Disclosure Practices/Traffic Data and Information Gathered Using Cookies, below.
+Media Temple customers control how and when we contact you by logging into the [AccountCenter](https://ac.mediatemple.net/) and changing your preferences. Media Temple reserves the right, in its discretion, to send you bulletins and other important information about your Media Temple services. If you are not a Media Temple customer and wish not to be emailed about our services, please click the unsubscribe link in the email you have received.
 
-IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
+### **B. Non Personally-Identifiable (Generic) Information:**
 
-  **(c) Personal Information.** In order for You to use certain of the Services, You are asked to provide Crazygood certain information that personally identifies You ("Personal Information"). Personal Information includes, without limitation: (1) "Contact Data" (such as Your name, mailing address and e-mail address); (2) "Demographic Data" (such as Your age, gender, profession, education level, relationship status, religious affiliation, country, state, city and likes and dislikes,); and (3) "Financial Data" (such as Your credit/debit card number and expiration date). In each case, You will be asked to provide Personal Information; the Website will not gather it surreptitiously. You are under no obligation to provide Personal Information, with the caveat that Your refusal to do so may prevent You from using certain of the Services. 
+In general, Media Temple gathers some generic information automatically. Generic information does not reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the Media Temple sites visited. Media Temple gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including "cookies" (a technology that can be used to provide the visitor with tailored information about Media Temple services). Media Temple does not combine information collected in this way with any personally-identifiable information.
 
-CRAZYGOOD DOES NOT CLAIM OWNERSHIP OF ANY PERSONAL INFORMATION. UPON YOUR CANCELLATION OF THE SERVICES, CRAZYGOOD SHALL DELETE FROM CRAZYGOOD'S SYSTEMS ALL OF YOUR PERSONAL INFORMATION AND ANY OTHER FILES OR INFORMATION THAT YOU MADE AVAILABLE TO CRAZYGOOD OR THAT OTHERWISE RELATE TO YOUR USE OF THE WEBSITE OR SERVICES. 
+You can set your browser to notify you when you receive a cookie and you can refuse it; this may however reduce functionality of certain website features such as the order system and the [AccountCenter](https://ac.mediatemple.net/).
 
-  **(d) Information You Make Public.** The Website contains features (e.g. public profiles, forums, and message boards) that permit You to upload, post, transmit, display, perform or distribute content, information or other, including Your Personal Information. Any information that You choose to disclose by means of such features becomes public information over which Crazygood is unable to exercise control. You should exercise caution when deciding to disclose Your Personal Information by means of such features, and You agree to assume all responsibility for doing so. 
+### **C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
 
-  **3\. INFORMATION USE AND DISCLOSURE PRACTICES**
+Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website Media Temple may host for you as part of your Media Temple services, is available to anyone else who visits that space. Media Temple cannot safeguard any information you disclose in these locations. Additionally, Media Temple websites contain links to sites that belong to third parties unrelated to Media Temple. Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit.
 
-  **(a) Traffic Data and Information Gathered Using Cookies**
+On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this privacy statement, Media Temple assumes no obligation to protect such information from disclosure.
 
-Crazygood analyzes Traffic Data and information gathered using Cookies to help Crazygood better understand who is using the Website and how they are using it. By identifying patterns and trends in usage, Crazygood is able to better design the Website to improve Your experience, and to serve You more relevant and interesting content. From time to time, Crazygood may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Website. Crazygood does not attempt to link information gathered using Cookies to Personal Information.
+#### **Lucky Orange Web Analytics Service**
 
-  **(b) Personal Information**
+This site uses the Lucky Orange analytics system to help improve usability and the customer experience. Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on this website. Lucky Orange does not track this activity on any site that does not use the Lucky Orange system. You can choose to disable the Lucky Orange Service at <http://www.luckyorange.com/disable.php>. Note, that doing so will disable other features of the Lucky Orange system that this site employs such as 1-to-1 support chat.
 
-  **(i) Generally.** Crazygood uses Your Contact Data to send You information about Crazygood and Crazygood's products and services, and to contact You when necessary in connection with the Services. Crazygood uses Your Financial Data to bill You. Crazygood uses Your Demographic Data to customize and tailor Your experience on the Website. As with Traffic Data and information gathered using Cookies, from time to time Crazygood may release Demographic Data in the aggregate, such as by publishing a report on trends in the usage of the Website. 
+### **D. Exceptions and Limitations:**
 
-  **(ii) Disclosure Practices**
+Notwithstanding the foregoing and in compliance with applicable laws, Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, Media Temple may be required to disclose personally identifiable information. In addition, Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate Media Temple; or (iii) to protect the rights or property of Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, Media Temple reserves the right to sell or transfer your information (including, but not limited to name, address information, and other information you provided to Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by Media Temple; and (iii) agrees to the obligations of this policy statement.
 
-Except under the following circumstances and otherwise as set forth in this Privacy Policy, Crazygood will keep Your Personal Information private and will not sell it to or share it with third parties.
+#### **Contacting Us**
 
-  * Disclosure in Connection with Services. Crazygood discloses Personal Information to those who help it provide Services, including those who perform technical, administrative and data processing tasks such as hosting, billing, fulfillment, and data storage and security. 
-  * By Law or to Protect Rights. Crazygood discloses Personal Information when required to do so by law, or in response to a subpoena or court order, or when Crazygood believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of Crazygood, third parties or the public at large. 
-  * Business Transfers; Bankruptcy. Crazygood reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of Crazygood' assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it. Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by Crazygood' successor organization. 
-  * Unpaid Accounts. If You fail to pay any balance owed in consideration of Services, Crazygood may, as permitted by law, report Your Personal Information, including without limitation Your unpaid balance, to consumer credit reporting services, collection agencies and others. 
-  * Invite a Friend. When You invite family or friends to join the Crazygood network, Crazygood shall send an email on Your behalf to the indicated recipient. Your name and email address will appear in the "From" line of such email. 
-
-
-
-  **4\. CONSENT TO RECEIVE EMAIL FROM CRAZYGOOD**
-
-As stated in the [[Website Terms of Use]](http://www.crazygood.com/pages/tos), by registering with the Website and becoming a Member, you thereby consent to receive periodic email communications regarding the Services, new product offers, promotions and other matters.
-
-  **5\. SECURITY OF PERSONAL INFORMATION**
-
-Crazygood has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of Your Personal Information. 
-
-  **6\. LOST OR STOLEN INFORMATION**
-
-You must promptly notify us if Your credit, bank, other financial institution information, user name or password is lost, stolen or used without permission. In such and event, we will remove that credit card number, bank account information, other financial institution information, user name or password from Your account and updated our records accordingly. 
-
-  **7\. USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION**
-
-Crazygood wants Your Personal Information to be complete and accurate. As stated in the [[Website Terms of Use]](http://www.crazygood.com/pages/tos), by using the Website, You represent and warrant that all information You provide on any registration form or otherwise in connection with Your use of the Website and Services will be complete and accurate, and that You will update that information as necessary to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to, Your Personal Information, visit Your personal profile. Through Your personal profile You may review and update You Personal Information that we have already collected. 
-
-  **8\. THIRD-PARTY WEBSITES**
-
-Crazygood neither owns nor controls Third-Party Websites. Accordingly, Third-Party Websites are under no obligation to comply with this Privacy Policy except with respect to Personal Information provided directly to them by Crazygood. Before visiting or providing Personal Information to a Third-Party Website, You should inform Yourself of the privacy policies and practices (if any) of that Third-Party Website, and should take those steps necessary to, in Your discretion, protect Your privacy. 
-
-  **9\. PROMOTIONAL ACTIVITIES**
-
-From time to time, Crazygood may conduct contests, giveaways and other promotions (collectively, "Promotional Activities"). Any information submitted in connection with Promotional Activities will be treated in accordance with this Privacy Policy. From time to time, Crazygood may also ask You to participate in surveys designed to help Crazygood improve the Websites or Services. Any Personal Information provided to Crazygood in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
-
-  **10\. UPDATES AND CHANGES TO PRIVACY POLICY**
-
-Although most changes are likely to be minor, Crazygood reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website. Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. Unless Crazygood obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
-
-Effective Date: June 1, 2010 
+**Media Temple**  
+8520 National Blvd.  
+Culver City, CA, USA  
+P: 877.578.4000   
+[legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net)
+  *[P:]: Phone
