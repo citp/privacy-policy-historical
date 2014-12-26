@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the rotochamp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625054525id_/http%3A//rotochamp.com/pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotochamp.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226231528id_/http%3A//rotochamp.com/pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 2014 Fantasy Baseball Rankings
-
-[The RotoChamp 2014 Full Version with Rest-Of-Season Projections is now FREE! Click Here to Download!](http://www.rotochamp.com/Software/Download/RotoChamp2014/RotoChampSetup.exe)
-
-  
-
+# RotoChamp Privacy Policy
 
 ## Pivacy Policy
 
@@ -52,3 +47,5 @@ We limit access to personal information about you to employees who we believe re
 ###### Changes to this Privacy Policy
 
 RotoChamp may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your RotoChamp account or by placing a prominent notice on our site. 
+
+* * *
