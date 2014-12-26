@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034238id_/http%3A//www.midwayusa.com/general.mvc/index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226031301id_/http%3A//www.midwayusa.com/general.mvc/index/privacy_policy) for the most accurate reproduction.*
 
 # MidwayUSA's Privacy Policy
 
@@ -69,7 +69,7 @@ Personal information provided on our Site may be linked together or merged with 
 
 ### DISCLOSURE OF INFORMATION
 
-We occasionally exchange our customer postal address list with other reputable companies. You may opt-out or otherwise prohibit such uses by checking the "Do not share my information" box on the [Your Account](https://www.midwayusa.com/Account.mvc/YourAccount?function=ShowAccount) page and saving the change, or by calling Customer Service at 1-800-243-3220. You may also send a note, requesting that your postal address not be shared, along with your name and address. For contact information, please view the [Contact Us](http://www.midwayusa.com/Features/ContactUs) page.
+We occasionally exchange our customer postal address list with other reputable companies. You may opt-out or otherwise prohibit such uses by checking the "Do not share my information" box on the [Your Account](https://www.midwayusa.com/account/) page and saving the change, or by calling Customer Service at 1-800-243-3220. You may also send a note, requesting that your postal address not be shared, along with your name and address. For contact information, please view the [Contact Us](http://www.midwayusa.com/Features/ContactUs) page.
 
 Public Posts: Posts made through the Site are intended to be public. Therefore, any information, including personal information, you post in reviews, comments, questions, answers, groups, forums and other public areas will be publicly available as part of the Site.
 
