@@ -1,95 +1,33 @@
-<!--The following is the downloaded HTML source of the rockstargames.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626194541id_/http%3A//www.rockstargames.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rockstargames.com privacy policy that was archived on 2014-12-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141226060326id_/http%3A//www.rockstargames.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en_us"><!--<![endif]--><head><title>Privacy | Rockstar Games</title><link href="//www.rockstargames.com/favicon.ico" type="image/x-icon" rel="icon"><link href="//www.rockstargames.com/favicon.ico" type="image/x-icon" rel="shortcut icon"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="description" content="The official home of Rockstar Games"><meta name="keywords" content="Rockstar Games, Rockstar, Video Games, Games, Gaming, Xbox, Play station, Xbox 360, Play station 3, PC Games, Computer Games, Home Entertainment, Home Gaming, PSP, New Video Games, Play station Portable, Videogames, Grand Theft Auto, GTA, Red Dead Redemption, RDR, LA Noire, L.A. Noire, LAN, Max Payne 3, Max Payne"><meta name="viewport" content=""><meta name="title" content="Privacy | Rockstar Games"><meta property="og:site_name" content="Rockstar Games"><meta property="og:type" content="article"><meta property="og:locale" content="en_us"><meta property="og:description" content="The official home of Rockstar Games"><meta property="og:url" content="http://www.rockstargames.com/privacy"><meta property="og:title" content="Privacy | Rockstar Games"><meta property="fb:admins" content="53100024"><link rel="image_src" href="http://media.rockstargames.com/rockstargames/img/global/rockstar/67.png"><!-- /c/ --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@rockstargames"><meta name="twitter:title" content="Privacy | Rockstar Games"><link href="//www.rockstargames.com/newswire.rss" type="application/rss+xml" rel="alternate" title="Rockstar Games RSS Feed"><link rel="stylesheet" type="text/css" href="//media.rockstargames.com/css/reset.css"><link rel="stylesheet" type="text/css" href="//media.rockstargames.com/css/common.css"><link rel="stylesheet" type="text/css" href="/css/styles.css"><link rel="stylesheet" type="text/css" href="/css/controller/privacy.css"><link rel="stylesheet" type="text/css" href="http://www.rockstargames.com/downloads/randomBackground/privacy.css"><link rel="stylesheet" type="text/css" href="/comments_dal/css/globallogin.css"><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery-1.8.2.min.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery.flash.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery.address-1.5.min.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery.imgshell.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery.form.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery.pagination-2.0.js"></script><script type="text/javascript" src="/comments_dal/js/globallogin.js"></script><script type="text/javascript" src="/videos_dal/js/jquery.videoplayer.js"></script><script type="text/javascript" src="/js/site.js"></script><script type="text/javascript" src="/js/controller/privacy.js"></script><!-- Header Analytics (UA-15984839-3) -->
-		<script type="text/javascript">
-			var _gaq = _gaq || [];
-			_gaq.push(["_setAccount", "UA-15984839-3"]);
-			_gaq.push(["_trackPageview"]);
-			(function() {
-				var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
-				ga.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js";
-				var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
-			})();
-			
-			(function(window) {
-				var domReady = function($) {
-					var filetypes = /\.(zip|exe|dmg|pdf|doc*|xls*|ppt*|mp3|jpg|themepack|wmv|mp4|mov|flv)$/i;
-					$("a").filter(function() { return !$(this).data("notrack"); }).each(function() {
-						var href = $(this).attr("href");
-						if(!href)
-							return;
-						if(href.substr(0, 4) == "aim:") {
-							$(this).click(function() {
-								var url = href.replace("aim:", "");
-								_gaq.push(["_trackEvent", "Download", "Click-aim", url]);
-							});
-							return;		
-						}
-
-						if(href.substr(0, 7) == "mailto:") {
-							$(this).click(function() {
-								var emailAddr = href.replace("mailto:", "");
-								_gaq.push(["_trackEvent", "Email", "Click", emailAddr]);
-							});
-							return;
-						}
-
-						if(!href.match(/^https?\:/))
-							return;
-
-						if(href.match(filetypes)) {
-							$(this).click(function() {
-								var extParts = href.split(".");
-								var ext = extParts[extParts.length - 1];
-								_gaq.push(["_trackEvent", "Download", "Click-" + ext, href]);
-
-								if($(this).attr("target") == "_blank")
-									return;
-								setTimeout(function() { location.href = href }, 250);
-								return false;
-							});
-							return;
-						}
-						
-						if(href.indexOf(document.domain) >= 0)
-							return;
-
-						$(this).click(function() {
-							var link = href.replace(/^https?\:\/\//, "");
-							_gaq.push(["_trackEvent", "External", "Click", link]);
-							if($(this).attr("target") == "_blank")
-								return;
-							setTimeout(function() { location.href = href }, 250);
-							return false;
-						});
-					});
-				};
-				return;
-				if(!window.jQuery || typeof(window.jQuery) != "function") {
-					(function() {
-						var jq = document.createElement("script"); jq.type = "text/javascript";
-						jq.src = "http://media.rockstargames.com/js/jquery/jquery-1.4.4.min.js";
-						var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(jq, s);
-					})();
-					
-					var ljq;
-					var _ljqi = 0;
-					(ljq = function() {
-						if(_ljqi > 20)
-							return;
-						if(window.jQuery && typeof(window.jQuery) == "function")
-							return window.jQuery(document).ready(domReady);
-						_ljqi++;
-						setTimeout(ljq, 250);
-					})();
-				} else {
-					window.jQuery(document).ready(domReady);
-				}
-			})(window);
-		</script>
-<!-- End Header Analytics (UA-15984839-3) -->
-</head><body class="en_us i18n browser controller_privacy action_index"><div id="fb-root"><!-- /c/ --></div><script type="text/javascript">
+<!DOCTYPE html><html lang="en_us" data-customscope=""><!--<![endif]--><head><title>Privacy | Rockstar Games</title><link href="//www.rockstargames.com/favicon.ico" type="image/x-icon" rel="icon"><link href="//www.rockstargames.com/favicon.ico" type="image/x-icon" rel="shortcut icon"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="description" content="The official home of Rockstar Games"><meta name="keywords" content="Rockstar Games, Rockstar, Video Games, Games, Gaming, Xbox, Play station, Xbox 360, Play station 3, PC Games, Computer Games, Home Entertainment, Home Gaming, PSP, New Video Games, Play station Portable, Videogames, Grand Theft Auto, GTA, Red Dead Redemption, RDR, LA Noire, L.A. Noire, LAN, Max Payne 3, Max Payne"><meta name="viewport" content=""><meta name="title" content="Privacy | Rockstar Games"><meta property="og:site_name" content="Rockstar Games"><meta property="og:type" content="article"><meta property="og:image" content="http://www.rockstargames.com/img/global/rockstar/rockstar-1024x1024.png"><meta property="og:locale" content="en_us"><meta property="og:description" content="The official home of Rockstar Games"><meta property="og:url" content="http://www.rockstargames.com/privacy"><meta property="og:title" content="Privacy | Rockstar Games"><meta property="fb:admins" content="53100024"><link rel="image_src" href="http://www.rockstargames.com/img/global/rockstar/rockstar-1024x1024.png"><!-- /c/ --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@rockstargames"><meta name="twitter:title" content="Privacy | Rockstar Games"><link href="//www.rockstargames.com/newswire.rss" type="application/rss+xml" rel="alternate" title="Rockstar Games RSS Feed"><link rel="stylesheet" type="text/css" href="//media.rockstargames.com/css/reset.css"><link rel="stylesheet" type="text/css" href="//media.rockstargames.com/css/common.css"><link rel="stylesheet" type="text/css" href="/css/styles.css"><link rel="stylesheet" type="text/css" href="/css/controller/privacy.css"><link rel="stylesheet" type="text/css" href="http://www.rockstargames.com/downloads/randomBackground/privacy.css"><link rel="stylesheet" type="text/css" href="/comments_dal/css/globallogin.css"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NSXXFR"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery-1.8.2.min.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery.flash.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery.address-1.5.min.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery.imgshell.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery.form.js"></script><script type="text/javascript" src="//media.rockstargames.com/js/jquery/jquery.pagination-2.0.js"></script><script type="text/javascript" src="/comments_dal/js/globallogin.js"></script><script type="text/javascript" src="/videos_dal/js/jquery.videoplayer.js"></script><script type="text/javascript" src="/js/site.js"></script><script type="text/javascript" src="/js/controller/privacy.js"></script></head><body class="en_us i18n browser controller_privacy action_index"><!-- Start BodyStart Analytics (UA-15984839-3) -->
+		<!-- Google Tag Manager -->
+		<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NSXXFR"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+		new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+		"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,"script","dataLayer","GTM-NSXXFR");</script>
+		<!-- End Google Tag Manager -->
+<!-- End BodyStart Analytics (UA-15984839-3) -->
+<div id="fb-root"><!-- /c/ --></div><!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Homepage
+URL of the webpage where the tag is expected to be placed: http://www.rockstargames.com/
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 07/09/2014
+-->
+<script type="text/javascript">
+var axel = Math.random() + "";
+var a = axel * 10000000000000;
+document.write('<iframe src="http://4375171.fls.doubleclick.net/activityi;src=4375171;type=Homep0;cat=Homep0;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script><iframe src="http://4375171.fls.doubleclick.net/activityi;src=4375171;type=Homep0;cat=Homep0;ord=2081185004239.8738?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+<noscript>
+<iframe src="http://4375171.fls.doubleclick.net/activityi;src=4375171;type=Homep0;cat=Homep0;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove --><script type="text/javascript">
 //<![CDATA[
 
 (function($, window, document){
@@ -104,12 +42,12 @@
 	});
 })(jQuery, window, document);
 //]]>
-</script><div id="lightbox"><div class="content"><!-- /c/ --></div><div class="bg"><!-- /c/ --></div></div><div class="bgimg"><!-- /c/ --></div><div id="page" class="div"><header class="innershadow opacity"><div class="logo inline_block va_top"><a href="/"><span class="hiddentext">Rockstar Games</span><img src="/img/global/rockstar/67.png" alt=""></a></div><div class="middle inline_block va_top"><div class="top"><div class="rockstar float_left"><img src="/img/en_us/elements/header/rockstargames.png" data-localized="true" alt=""></div><div class="studios float_right"><img src="/img/en_us/elements/header/locales.png" data-localized="true" alt=""></div><div class="clear_both"><!-- /c/ --></div></div><nav class="float_left menu clean"><a href="/games" class="games inline_block" data-tag-y="264"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Games</span></a><a href="/videos" class="videos inline_block" data-tag-y="308"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Videos</span></a><a href="/newswire" class="newswire inline_block" data-tag-y="275"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Newswire</span></a><a href="http://socialclub.rockstargames.com/" target="_blank" class="socialclub inline_block" data-tag-y="286"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Social Club</span></a><a href="http://socialclub.rockstargames.com/crews/info" target="_blank" class="crews inline_block" data-tag-y="242"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Crews</span></a><a href="/downloads" class="downloads inline_block" data-tag-y="253"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Downloads</span></a><a href="https://www.rockstarwarehouse.com/" target="_blank" class="warehouse inline_block" data-tag-y="319"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Warehouse</span></a><a href="http://support.rockstargames.com" class="support inline_block" data-tag-y="297"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Support</span></a><div class="search inline_block va_top"><span class="hiddentext">Search</span><div class="handle"><!-- /c/ --></div><div class="faux"><!-- /c/ --></div><div class="search_box"><form action="/search/searchBoxProcess" id="searchIndexForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><div class="input text"><label for="search_label"> </label><input name="data[search][query]" placeholder="Search Rockstar Games" id="search_label" type="text"></div></form></div><div class="bg outershadow"><!-- /c/ --></div></div><div class="clear_both"><!-- /c/ --></div></nav><div style="background-position:0 -154px;" class="tagline float_right"><!-- /c/ --></div></div><div id="userPanel" class="inline_block va_top float_right"></div><div class="clear_both"><!-- /c/ --></div></header><div class="content"><div class="innershadow">
+</script><div id="lightbox"><div class="content"><!-- /c/ --></div><div class="bg"><!-- /c/ --></div></div><div class="bgimg"><!-- /c/ --></div><div id="page" class="div"><header class="innershadow opacity"><div class="logo inline_block va_top"><a href="/"><span class="hiddentext">Rockstar Games</span><img src="/img/global/rockstar/67.png" alt=""></a></div><div class="middle inline_block va_top"><div class="top"><div class="rockstar float_left"><img src="/img/en_us/elements/header/rockstargames.png" data-localized="true" alt=""></div><div class="studios float_right"><img src="/img/en_us/elements/header/locales.png" data-localized="true" alt=""></div><div class="clear_both"><!-- /c/ --></div></div><nav class="float_left menu clean"><a href="/games" class="games inline_block" data-tag-y="264"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Games</span></a><a href="/videos" class="videos inline_block" data-tag-y="308"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Videos</span></a><a href="/newswire" class="newswire inline_block" data-tag-y="275"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Newswire</span></a><a href="http://socialclub.rockstargames.com/" target="_blank" class="socialclub inline_block" data-tag-y="286"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Social Club</span></a><a href="http://socialclub.rockstargames.com/crews/info" target="_blank" class="crews inline_block" data-tag-y="242"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Crews</span></a><a href="/downloads" class="downloads inline_block" data-tag-y="253"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Downloads</span></a><a href="https://www.rockstarwarehouse.com/" target="_blank" class="warehouse inline_block" data-tag-y="319"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Warehouse</span></a><a href="http://support.rockstargames.com" class="support inline_block" data-tag-y="297"><div class="sprite"><!-- /c/ --></div><span class="hiddentext">Support</span></a><div class="search inline_block va_top"><span class="hiddentext">Search</span><div class="handle"><!-- /c/ --></div><div class="faux"><!-- /c/ --></div><div class="search_box"><form action="/search/searchBoxProcess" id="searchIndexForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"></div><div class="input text"><label for="search_label"> </label><input name="data[search][query]" placeholder="Search Rockstar Games" id="search_label" type="text"></div></form></div><div class="bg outershadow"><!-- /c/ --></div></div><div class="clear_both"><!-- /c/ --></div></nav><div style="background-position:0 -77px;" class="tagline float_right"><!-- /c/ --></div></div><div id="userPanel" class="inline_block va_top float_right"></div><div class="clear_both"><!-- /c/ --></div></header><div class="content"><div class="innershadow">
     <div id="wrapper">
         <div id="content" style="padding-top: 0px; padding-bottom: 0px;"><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-bottom: -5px;"><b class="t1" style="background-color: transparent; border-color: rgb(51, 51, 118);"></b><b class="t2" style="background-color: transparent; border-color: rgb(51, 51, 118);"></b><b class="t3" style="background-color: transparent; border-color: rgb(51, 51, 118);"></b><b class="t4" style="background-color: transparent; border-color: rgb(51, 51, 118);"></b></b>
         	<div id="top">
             <div id="title">
-                <a name="top"><img src="/img/en_us/official/esrb/title.png" data-localized="true" alt=""></a>
+                <a name="top"><img src="//www.rockstargames.com/img/en_us/official/esrb/title.png" alt=""></a>
             </div>     
 			<ul class="nav clean">
 	<li><a href="/privacy?locale=en" class="selected">EN</a></li>
@@ -319,17 +257,21 @@
 					<br><br>
 					<a href="https://ad-x.co.uk/dont_track.php">AD-X</a>					
 					<br><br>
-					<a href="http://www.mediaplex.com/AdVault_Privacy_Statement.shtml]DoubleClick [http://www.doubleclick.com/us/about_doubleclick/privacy/">ATLAS </a>	
+					<a href="http://www.conversantmedia.com/mediaplex/">ATLAS </a>
+					<br><br>
+					<a href="http://www.google.com/doubleclick/">Doubleclick</a>	
 					<br><br>
 					<a href="https://www.facebook.com/help/499864970040521">Facebook </a>					
 					<br><br>
 					<a href="http://www.google.com/policies/technologies/ads/">Google</a>					
 					<br><br>
-					<a href="http://www.mediaplex.com/AdVault_Privacy_Statement.shtml">Mediaplex</a>					
+					<a href="http://www.conversantmedia.com/mediaplex/">Mediaplex</a>					
 					<br><br>
 					<a href="http://www.netratings.com/privacy.jsp?section=leg_scs">Nielsen/Netratings</a>
 					<br><br>
-					<a href="http://www.omniture.com/privacy/product] Playhaven [http://www.playhaven.com/privacy">Omniture</a>
+					<a href="http://www.adobe.com/privacy/analytics.html">Omniture</a>
+					<br><br>
+					<a href="http://www.playhaven.com/privacy">Playhaven</a>
 					<br><br>
 					<a href="http://info.yahoo.com/privacy/us/yahoo/details.html">Yahoo</a>
 				</li>
@@ -492,4 +434,26 @@
         </div>
     <b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-top: -5px;"><b class="t4" style="background-color: transparent; border-color: rgb(51, 51, 118);"></b><b class="t3" style="background-color: transparent; border-color: rgb(51, 51, 118);"></b><b class="t2" style="background-color: transparent; border-color: rgb(51, 51, 118);"></b><b class="t1" style="background-color: transparent; border-color: rgb(51, 51, 118);"></b></b></div>
 </div>
-</div></div><div id="footer" class="innershadow opacity" style="padding-bottom: 0px;"><div class="float_left"><span class="hiddentext">Rockstar Games</span><img src="/img/en_us/elements/footer/MCMXCVIII.png" data-localized="true" alt=""></div><div class="navigation float_right"><div class="segment inline_block va_top"><div class="group_img"><span class="hiddentext">Games</span><img src="/img/en_us/elements/footer/games.png" data-localized="true" alt=""></div><ul class="clean"><li><a href="http://www.rockstargames.com/V" href_link="" class="" target="_blank">Grand Theft Auto V</a></li><li><a href="http://www.rockstargames.com/maxpayne3" href_link="" class="" target="_blank">Max Payne 3</a></li><li><a href="http://www.rockstargames.com/lanoire" href_link="" class="" target="_blank">L.A. Noire</a></li><li><a href="http://www.rockstargames.com/reddeadredemption" href_link="" class="" target="_blank">Red Dead Redemption</a></li><li><a href="http://www.rockstargames.com/IV" href_link="" class="" target="_blank">Grand Theft Auto IV</a></li><li><a href="http://www.rockstargames.com/midnightclubLA" href_link="" class="" target="_blank">Midnight Club: Los Angeles</a></li><li><a href="http://www.rockstargames.com/games" href_link="" class="" target="">More</a></li></ul></div><div class="segment inline_block va_top"><div class="group_img"><span class="hiddentext">Site</span><img src="/img/en_us/elements/footer/site.png" data-localized="true" alt=""></div><ul class="clean"><li><a href="http://www.rockstargames.com/index" href_link="" class="" target="">Home</a></li><li><a href="http://www.rockstargames.com/games" href_link="" class="" target="">Games</a></li><li><a href="http://www.rockstargames.com/videos" href_link="" class="" target="">Videos</a></li><li><a href="http://www.rockstargames.com/newswire" href_link="" class="" target="">News</a></li><li><a href="http://www.rockstargames.com/socialclub" href_link="" class="" target="_blank">Social Club</a></li><li><a href="http://www.rockstargames.com/downloads" href_link="" class="" target="">Downloads</a></li><li><a href="https://www.rockstarwarehouse.com" href_link="" class="" target="_blank">Warehouse</a></li></ul></div><div class="segment inline_block va_top"><div class="group_img"><span class="hiddentext">More</span><img src="/img/en_us/elements/footer/more.png" data-localized="true" alt=""></div><ul class="clean"><li><a href="http://support.rockstargames.com" href_link="" class="" target="_blank">Support</a></li><li><a href="http://www.rockstargames.com/jobs" href_link="" class="" target="">Careers</a></li><li><a href="http://www.rockstargames.com/mouthoff" href_link="mouthoff" class="lightbox" target="">Mouthoff</a></li><li><a href="mailto:PR@rockstargames.com" href_link="" class="" target="_blank">Press Contact</a></li><li><a href="http://www.rockstargames.com/corpinfo" href_link="corpinfo" class="lightbox" target="">Corporate Info</a></li><li><a href="http://www.rockstargames.com/privacy" href_link="" class="" target="">Privacy Policy</a></li><li><a href="http://www.rockstargames.com/legal" href_link="" class="" target="">Legal</a></li></ul></div><div class="segment inline_block va_top"><div class="group_img"><span class="hiddentext">Feeds</span><img src="/img/en_us/elements/footer/feeds.png" data-localized="true" alt=""></div><ul class="clean"><li><a href="http://www.facebook.com/rockstargames" href_link="" class="" target="_blank">Rockstar on Facebook</a></li><li><a href="http://youtube.com/rockstargames" href_link="" class="" target="_blank">Rockstar on YouTube</a></li><li><a href="http://twitter.com/RockstarGames" href_link="" class="" target="_blank">Rockstar on Twitter</a></li><li><a href="https://plus.google.com/+RockstarGames/posts" href_link="" class="" target="_blank">Rockstar on Google+</a></li><li><a href="http://instagram.com/rockstargames" href_link="" class="" target="_blank">Rockstar on Instagram</a></li><li><a href="http://www.rockstargames.com/newswire.rss" href_link="" class="" target="_blank">Rockstar RSS</a></li><li><a href="http://www.rockstargames.com/newswire/tag/grand-theft-auto.rss" href_link="" class="" target="_blank">GTA RSS</a></li></ul></div><div class="segment inline_block va_top"><div class="group_img"><span class="hiddentext">Subscribe</span><img src="/img/en_us/elements/footer/subscribe.png" data-localized="true" alt=""></div><ul class="clean"><li><a href="http://www.rockstargames.com/subscribe" href_link="" class="" target="">Rockstar Mailing List</a></li><li><a href="http://www.rockstargames.com/subscribe" href_link="" class="" target="">GTA Mailing List</a></li></ul></div></div><div class="clear_both"><!-- /c/ --></div><div id="languageSelector"><div class="current"><span class="text"><!-- /c/ --></span><span class="caret"><!-- /c/ --></span></div><ul><li data-locale="en_us"><a href="http://www.rockstargames.com/">English</a></li><li data-locale="es_es"><a href="http://www.rockstargames.com/es">Español</a></li><li data-locale="de_de"><a href="http://www.rockstargames.com/de">Deutsch</a></li><li data-locale="fr_fr"><a href="http://www.rockstargames.com/fr">Français</a></li><li data-locale="it_it"><a href="http://www.rockstargames.com/it">Italiano</a></li></ul></div><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: rgb(51, 51, 118); margin-top: 15px;"><b class="r4" style="background-color: rgb(51, 51, 118); border-color: rgb(51, 51, 118); border-left-width: 0px; margin-left: 0px;"></b><b class="r3" style="background-color: rgb(51, 51, 118); border-color: rgb(51, 51, 118); border-left-width: 0px; margin-left: 0px;"></b><b class="r2" style="background-color: rgb(51, 51, 118); border-color: rgb(51, 51, 118); border-left-width: 0px; margin-left: 0px;"></b><b class="r1" style="background-color: rgb(51, 51, 118); border-color: rgb(51, 51, 118); border-left-width: 0px; margin-left: 0px;"></b></b></div></div><script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js?pubid=rockstargames2009&amp;async=1"></script><script type="text/javascript" src="//connect.facebook.net/en_US/all.js"></script><div class="tooltip" style="position: absolute; top: 0px; left: 0px; visibility: hidden; z-index: 5;"></div></body></html>
+</div></div><div id="footer" class="innershadow opacity" style="padding-bottom: 0px;"><div class="float_left"><span class="hiddentext">Rockstar Games</span><img src="/img/en_us/elements/footer/MCMXCVIII.png" data-localized="true" alt=""></div><div class="navigation float_right"><div class="segment inline_block va_top"><div class="group_img"><span class="hiddentext">Games</span><img src="/img/en_us/elements/footer/games.png" data-localized="true" alt=""></div><ul class="clean"><li><a href="http://www.rockstargames.com/V" href_link="" class="" target="_blank">Grand Theft Auto V</a></li><li><a href="http://www.rockstargames.com/maxpayne3" href_link="" class="" target="_blank">Max Payne 3</a></li><li><a href="http://www.rockstargames.com/lanoire" href_link="" class="" target="_blank">L.A. Noire</a></li><li><a href="http://www.rockstargames.com/reddeadredemption" href_link="" class="" target="_blank">Red Dead Redemption</a></li><li><a href="http://www.rockstargames.com/IV" href_link="" class="" target="_blank">Grand Theft Auto IV</a></li><li><a href="http://www.rockstargames.com/midnightclubLA" href_link="" class="" target="_blank">Midnight Club: Los Angeles</a></li><li><a href="http://www.rockstargames.com/games" href_link="" class="" target="">More</a></li></ul></div><div class="segment inline_block va_top"><div class="group_img"><span class="hiddentext">Site</span><img src="/img/en_us/elements/footer/site.png" data-localized="true" alt=""></div><ul class="clean"><li><a href="http://www.rockstargames.com/index" href_link="" class="" target="">Home</a></li><li><a href="http://www.rockstargames.com/games" href_link="" class="" target="">Games</a></li><li><a href="http://www.rockstargames.com/videos" href_link="" class="" target="">Videos</a></li><li><a href="http://www.rockstargames.com/newswire" href_link="" class="" target="">News</a></li><li><a href="http://www.rockstargames.com/socialclub" href_link="" class="" target="_blank">Social Club</a></li><li><a href="http://www.rockstargames.com/downloads" href_link="" class="" target="">Downloads</a></li><li><a href="https://www.rockstarwarehouse.com" href_link="" class="" target="_blank">Warehouse</a></li></ul></div><div class="segment inline_block va_top"><div class="group_img"><span class="hiddentext">More</span><img src="/img/en_us/elements/footer/more.png" data-localized="true" alt=""></div><ul class="clean"><li><a href="http://support.rockstargames.com" href_link="" class="" target="_blank">Support</a></li><li><a href="http://www.rockstargames.com/jobs" href_link="" class="" target="">Careers</a></li><li><a href="http://www.rockstargames.com/mouthoff" href_link="mouthoff" class="lightbox" target="">Mouthoff</a></li><li><a href="http://www.rockstargames.com/corpinfo" href_link="corpinfo" class="lightbox" target="">Corporate Info</a></li><li><a href="mailto:PR@rockstargames.com" href_link="" class="" target="_blank">Press Contact</a></li><li><a href="http://www.rockstargames.com/privacy" href_link="" class="" target="">Privacy Policy</a></li><li><a href="http://www.rockstargames.com/legal" href_link="" class="" target="">Legal</a></li></ul></div><div class="segment inline_block va_top"><div class="group_img"><span class="hiddentext">Feeds</span><img src="/img/en_us/elements/footer/feeds.png" data-localized="true" alt=""></div><ul class="clean"><li><a href="http://www.facebook.com/rockstargames" href_link="" class="" target="_blank">Rockstar on Facebook</a></li><li><a href="http://youtube.com/rockstargames" href_link="" class="" target="_blank">Rockstar on YouTube</a></li><li><a href="http://twitter.com/RockstarGames" href_link="" class="" target="_blank">Rockstar on Twitter</a></li><li><a href="https://plus.google.com/+RockstarGames/posts" href_link="" class="" target="_blank">Rockstar on Google+</a></li><li><a href="http://instagram.com/rockstargames" href_link="" class="" target="_blank">Rockstar on Instagram</a></li><li><a href="http://www.rockstargames.com/newswire.rss" href_link="" class="" target="_blank">Rockstar RSS</a></li><li><a href="http://www.rockstargames.com/newswire/tag/grand-theft-auto.rss" href_link="" class="" target="_blank">GTA RSS</a></li></ul></div><div class="segment inline_block va_top"><div class="group_img"><span class="hiddentext">Subscribe</span><img src="/img/en_us/elements/footer/subscribe.png" data-localized="true" alt=""></div><ul class="clean"><li><a href="http://www.rockstargames.com/subscribe" href_link="" class="" target="">Rockstar Mailing List</a></li><li><a href="http://www.rockstargames.com/subscribe" href_link="" class="" target="">GTA Mailing List</a></li></ul></div></div><div class="clear_both"><!-- /c/ --></div><div id="languageSelector"><div class="current"><span class="text"><!-- /c/ --></span><span class="caret"><!-- /c/ --></span></div><ul><li data-locale="en_us"><a href="http://www.rockstargames.com/">English</a></li><li data-locale="es_es"><a href="http://www.rockstargames.com/es">Español</a></li><li data-locale="de_de"><a href="http://www.rockstargames.com/de">Deutsch</a></li><li data-locale="fr_fr"><a href="http://www.rockstargames.com/fr">Français</a></li><li data-locale="it_it"><a href="http://www.rockstargames.com/it">Italiano</a></li></ul></div><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: rgb(51, 51, 118); margin-top: 15px;"><b class="r4" style="background-color: rgb(51, 51, 118); border-color: rgb(51, 51, 118); border-left-width: 0px; margin-left: 0px;"></b><b class="r3" style="background-color: rgb(51, 51, 118); border-color: rgb(51, 51, 118); border-left-width: 0px; margin-left: 0px;"></b><b class="r2" style="background-color: rgb(51, 51, 118); border-color: rgb(51, 51, 118); border-left-width: 0px; margin-left: 0px;"></b><b class="r1" style="background-color: rgb(51, 51, 118); border-color: rgb(51, 51, 118); border-left-width: 0px; margin-left: 0px;"></b></b></div></div>
+<!-- Start BodyEnd Analytics (UA-15984839-3) -->
+
+		<!-- Google Code for Remarketing Tag -->
+		<!--------------------------------------------------
+		Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+		--------------------------------------------------->
+		<script type="text/javascript">
+			/* <![CDATA[ */
+				var google_conversion_id = [967731812, 967477461, 966467547];
+				var google_custom_params = window.google_tag_params;
+				var google_remarketing_only = true;
+			/* ]]> */
+		</script>
+		<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+		<noscript>
+			<div style="display:inline;">
+				<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/967731812,967477461,966467547/?value=0&amp;guid=ON&amp;script=0"/>
+			</div>
+		</noscript>
+		<style>iframe[name=google_conversion_frame]{ position:absolute; left:-10000px; top:-10000px; z-index:-10000; }</style><script src="//d21j20wsoewvjq.cloudfront.net/tt-26c151f9669f97e9117673c9283843f75cab75cf338c189234dd048f08343e69.js" async=""></script>
+<!-- End BodyEnd Analytics (UA-15984839-3) -->
+<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js?pubid=rockstargames2009&amp;async=1"></script><script type="text/javascript" src="//connect.facebook.net/en_US/all.js"></script><div class="tooltip" style="position: absolute; top: 0px; left: 0px; visibility: hidden; z-index: 5;"></div></body></html>
