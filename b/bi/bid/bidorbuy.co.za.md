@@ -1,36 +1,44 @@
-> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627230000id_/http%3A//www.bidorbuy.co.za/help/446/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidorbuy.co.za privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226035720id_/http%3A//www.bidorbuy.co.za/help/446/Privacy_Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
 [Terms & Conditions](https://web.archive.org/help/441/Terms_Conditions_of_This_Site) | [bobPay User Agreement](https://web.archive.org/help/1021/bobPay_User_Agreement) | [Billing Statement](https://web.archive.org/help/442/Billing_Statement) | [Rating Rules](https://web.archive.org/help/443/Rating_Rules) | [Listing Policy](https://web.archive.org/help/444/Listing_Policy) | [Verified User Agreement](https://web.archive.org/help/445/Verified_User_Agreement) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/help/447/bidorbuy_Affiliate_Terms_and_Conditions) | [SMS Terms & Conditions](https://web.archive.org/help/4643/SMS_Terms_&_Conditions) | [Mobile Device Terms & Conditions](http://www.bidorbuy.co.za/help/6181/Mobile_Device_Terms_Conditions) | [Stores Terms & Conditions](http://www.bidorbuy.co.za/help/6273/bidorbuy_Stores_Terms_and_Conditions) | [bobBucks Terms & Conditions](http://www.bidorbuy.co.za/help/6331/bobBucks_Terms_Conditions)
 
-This Privacy Statement was last revised on 07 May 2010. 
+This Privacy Statement was last revised on 22 August 2014. 
 
 This privacy statement discloses the privacy practices for the **bidorbuy.co.za site**.
 
-We have agreed to notify you of:
+We have agreed to notify you of the following when collecting your personal information:
 
-1\. What personally identifiable information of yours or third party personal identification is collected from you  
-via this site; 
+1.    The information being collected and the source from which it is collected when collected from another person;
 
-2\. The organization collecting the information;
+2.    Our name and address;
 
-3\. How the information is used;
+3.    The purpose for which the information is being collected;
 
-4\. With whom the information may be shared;
+4.    Whether or not the supply of information by yourself is mandatory or voluntary;
 
-5\. What choices are available to you regarding collection, use and distribution of the information;
+5.    The consequences of a failure to provide the requisite information; 
 
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of Information under  
-our control;
+6.    Any particular law authorising or requiring the collection of the information;
 
-7\. How you can correct any inaccuracies in the information.
+7.   Whether we intend to transfer the information to a third country or international organisation and the level of protection afforded to the information by the said third country or international organisation;
 
- **If you have questions or concerns regarding this statement, you should please contact Customer Support by email on[hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). **
+8.    Any further information such as:
+
+  * the recipient of the information or with whom the information may be shared;
+  * the nature and category of the information;
+  * your right of access to and the right to rectify that information;
+  * your right to object to the processing of your personal information; and
+  * the right to lodge a complaint with the Information Regulator and the contact details of the [Information Regulator](http://support.bidorbuy.co.za/index.php?/Knowledgebase/Article/View/161/6/paia---the-promotion-of-access-to-information-act).
+
+
+
+**If you have questions or concerns regarding this statement, you should please contact Customer Support by email on[hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). **
 
 **Information Collection And Use**
 
-When we collect personal information about you we will collect this information from you lawfully and fairly and not in any unreasonably intrusive way. You acknowledge and agree that we may collect this information from you in connection with or as a consequence of your use of our site, including, without limitation, the supply of the online trading services to you. 
+The information we collect from you is collected for a specific, explicitly defined and lawful purpose related to the function and activity of bidorbuy as established in Clause 16.1.2 of our Terms and Conditions for Use of this Site. You acknowledge and agree that we may collect this information from you in connection with or as a consequence of your use of our site, including, without limitation, the supply of the online trading services to you. 
 
 We are the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in any way other than as disclosed in this privacy statement. 
 
@@ -40,17 +48,25 @@ We will also collect financial information about you if you choose to bid for ce
 
  **Registration**
 
+The Protection of Your Information
+
+We hereby agree and/or undertake to process any and all personal information provided to us by yourself upon or during your use of this Site, such as that stipulated above, in accordance with the provisions of the Protection of Personal Information Act.
+
 In order to use our site, you must first complete the registration form. When you register we collect personal information such as your name, address, email address, telephone and fax numbers. This information is used to contact you about the services on our site for which you have expressed interest. We also collect additional information (such as “How did you hear about us?”, your interests), and unique identifiers (such as your company name and VAT number, if applicable). All information that is mandatory is made known on the registration form and is necessary to complete the registration process. You are encouraged to provide the additional, optional information specified on the registration form so we can provide you with a more personalized experience on our site. 
 
 We may, at our sole discretion, request additional personal information from you. You may be required to confirm and certify such details as your identity, address and contact information for security and verification reasons. This information may include copies of ID documents, passports, utility bills, licenses, rights to sell or distribute a particular item or product, legal or financial documentation, or any other documentation related to your use of this website (but not limited to this). 
 
-**Cookies**
+**Cookies and other tracking technologies**
 
-A Cookie is a small data file that your browser writes to your own computer’s hard drive in order to remember certain information and is linked to some personally identifiable information while on our site. Cookies are used to store your Handle and Password so that you don’t need to type these in each time you log in or make a bid, thereby saving time whilst on our site. If you reject cookies, you may still browse our site. However, in order to log in and bid or sell, cookies are required to be turned on. 
+A cookie is a small data file that writes to your device in order to collect and remember certain information including personally identifiable information about the user. Cookies are used, but without limitation, to store your Alias/Username and Password so that you do not need to type these in each time you log in or make a bid, thereby saving time whilst on our site. If you reject cookies, you may still browse our site. However, in order to log in and bid or sell, cookies are required to be turned on. 
 
 There are two sorts of cookies used on our site: session cookies and persistent cookies. Once you close your browser, the session cookie simply terminates, whereas the persistent cookie remains to enable us to track and target your interests to enhance your experience on our site. 
 
-**Log Files**
+Bidorbuy may make use of other tracking technologies including, but not limited to, web beacons which are small graphic images or other web-programming code included in webpages and email messages and/or embedded scripts placed on the website designed to collect information about your interactions with any given website. These technologies are used in order to collect certain information which may also include personally identifiable information for purposes such as fraud detection and improvement of our website amongst others. 
+
+Bidorbuy employs the services of a third party in its use of the above technologies and whilst Bidorbuy takes every precaution to ensure the loss, misuse, alteration and confidentiality of all information in our possession we have little control over information not in our possession.
+
+ **Log Files**
 
 We collect statistical information about you from page hits. Every page, image or cgi program requested by your browser from our servers is logged in a log file, which also collects the following information: your remote IP address, the referring HTML page and the type of browser and computer that you are using. We use IP addresses to analyze trends, administer our site, track your movements, and gather broad demographic information for aggregate use. The statistical information we gather is used internally for marketing analysis. This information and IP addresses are not linked to personally identifiable information. 
 
@@ -59,13 +75,32 @@ We collect statistical information about you from page hits. Every page, image o
 If you successfully sell a product or successfully win an Auction, or are the runner up in an Auction where the winning bidder defaults, then your name, email address, phone number and fax number, payment details including credit card information and mailing address may be passed onto the other party involved in that Auction in accordance with the _[Terms and Conditions of Use of this Site](https://web.archive.org/help/441/Terms_Conditions_of_This_Site)_. For example, if you bid on an Auction and win the Auction, your details will be passed onto the Seller of that item for auction. Similarly, if you are selling an item on Auction, your details will be passed onto the winning bidder of your Auction.  
 
 
+In the event of your personal information being transferred to the other party involved in the auction as above, bidorbuy is no longer responsible for and accepts no liability in respect of any of the circumstances listed in clause 1.4 of the Terms and Conditions for Use of This Site.
+
 We will share aggregated demographic information with our business partners and advertisers. When we do, you will not be personally identifiable, and your personal information will only be used as part of an aggregated compilation of information. Insofar as you are making an application for a loan or any other application for services that requires a valuation of your credit profile, your purchase history on bidorbuy will be disclosed to our business partners in order  for our business partners to evaluate the risk in providing any such services, including but not  limited to, the PayLater Service.
 
-We will release information about you when required by law to do so. Otherwise, we may release information about you, at our sole discretion, when we believe, that such release of information is reasonably necessary or appropriate to:
+We will release information about you (as either the buyer or the seller) to the respective buyer or seller, as the case may be, in the following circumstances:
 
-(a) enforce or apply the _[Terms and Conditions of Use of this Site](https://web.archive.org/help/441/Terms_Conditions_of_This_Site)_ ; or
+(a) Where you, as the buyer or seller, are no longer contactable pursuant to a sale or purchase;
 
-(b) to protect the rights, property or safety of bidorbuy, our users or others.
+(b) Where you are not fulfilling your obligations in terms of any sale between yourself and the buyer or seller as the case may be;
+
+(c) Where you, as the buyer or seller, are acting illegally or fraudulently.
+
+This information will also, in addition to the above, only be released to the other party by ourselves:
+
+-       upon a formal request by the buyer or seller, as the case may be, in terms of The _Promotion of Access to Information Act_ ;
+
+-       the release of such information is reasonably necessary and appropriate to enforce or apply the Terms and Conditions of Use of This Site;
+
+-       the release of such information is reasonably necessary and appropriate to protect the rights, property or safety of bidorbuy, our users and others; and
+
+-       access to such information is not refused on any of the grounds for refusal set out in Chapter 4 of Part 3 of the Promotion of Access to Information Act.  
+
+
+Upon a formal request by the buyer or seller, as the case may be, for access to your information for any of the reasons listed in clause 16.5.3 of our Terms of Use, we undertake to notify you of such request (via email) and should you fail to respond to such communication within 7 days of the delivery thereof, your information will be released to the said party.
+
+In accepting these terms and conditions, you hereby consent to the release of your information at the occurrence of any of those circumstances listed in clause 16.5.3 of our Terms of Use and upon any failure by yourself to respond to any notification of a request to your information by the buyer or seller as the case may be.
 
 You also agree that we will not be liable to you or any other person for any loss, damage, expense, or other amounts incurred, savings foregone, or hardship suffered, by any person however arising (including where the cause cannot be determined), through the release of your personal details, in the event of (a) and (b) above.
 
@@ -119,7 +154,9 @@ We send all new members a welcoming email to verify password and username. Estab
 
 If your personally identifiable information changes (such as your email address), or if you no longer desire to use our services, you may correct, update or remove your personal data provided to us. This can be done at the member information page or by emailing our Customer Support at [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
 
-**Choice/Opt-out**
+Should you wish us to remove your personal data provided to us, we will delete your account. However, records of your personal information will be retained for a period of 5 years as required for lawful purposes related to our functions and activities and for statistical purposes in accordance with the Protection of Personal Information Act. This information will merely be retained and not used, shared or sold.
+
+ **Choice/Opt-out**
 
 If you no longer wish to receive our newsletter, information about products and services and special deals, surveys, or promotional materials from us or our partners you may opt-out of receiving these communications by following the unsubscribe instructions in the relevant email or by emailing us at [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za). 
 
@@ -145,6 +182,6 @@ If we change the way we use your Personally Identifiable Information we will not
 
 **Contacting us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with us, you can contact us on [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za).
+If you have any questions about this privacy statement,  any questions regarding access to and the protection of your personal information, the practices of this site, or your dealings with us, you can contact us on [hello@bidorbuy.co.za](mailto:hello@bidorbuy.co.za),  alternatively, click [_here_](http://support.bidorbuy.co.za/index.php?/Knowledgebase/Article/View/161/6/paia---the-promotion-of-access-to-information-act) to view our PAIA/POPI page which contains information regarding access to and the protection of your personal information.
 
 [Terms & Conditions](https://web.archive.org/help/441/Terms_Conditions_of_This_Site) | [bobPay User Agreement](https://web.archive.org/help/1021/bobPay_User_Agreement) | [Billing Statement](https://web.archive.org/help/442/Billing_Statement) | [Rating Rules](https://web.archive.org/help/443/Rating_Rules) | [Listing Policy](https://web.archive.org/help/444/Listing_Policy) | [Verified User Agreement](https://web.archive.org/help/445/Verified_User_Agreement) | **Privacy Statement** | [Affiliate Terms](https://web.archive.org/help/447/bidorbuy_Affiliate_Terms_and_Conditions) | [SMS Terms & Conditions](https://web.archive.org/help/4643/SMS_Terms_&_Conditions) | [Mobile Device Terms & Conditions](http://www.bidorbuy.co.za/help/6181/Mobile_Device_Terms_Conditions) | [Stores Terms & Conditions](http://www.bidorbuy.co.za/help/6273/bidorbuy_Stores_Terms_and_Conditions) | [bobBucks Terms & Conditions](http://www.bidorbuy.co.za/help/6331/bobBucks_Terms_Conditions)
