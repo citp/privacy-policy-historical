@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rttv.ru privacy policy that was archived on 2013-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130226142615id_/http%3A//www.rttv.ru/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rttv.ru privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226222638id_/http%3A//rt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — RT
 
