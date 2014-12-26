@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welovefine.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611235945id_/http%3A//www.welovefine.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welovefine.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227002018id_/http%3A//www.welovefine.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
 
 # Privacy Statement - WeLoveFine -T-shirts designed for fans by fans
 
