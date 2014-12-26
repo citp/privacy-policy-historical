@@ -1,100 +1,52 @@
-> *The following text is extracted and transformed from the christiebrinkleyskincare.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110033603id_/https%3A//www.christiebrinkleyskincare.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiebrinkleyskincare.com privacy policy that was archived on 2014-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141226171951id_/https%3A//mediatemple.net/legal/privacy-policy) for the most accurate reproduction.*
 
-# Website Privacy Policy | Christie Brinkley Skincare
+# Privacy Policy - Media Temple
 
-Christie Brinkley Beauty Privacy Policy/ Your California Privacy Rights  
-EFFECTIVE DATE: March 24th, 2011
+For the purposes of this Agreement, the following definitions apply and any undefined terms have the meaning ascribed to them in the context in which they are used in this Agreement:
 
-This Website is published and maintained by Christie Brinkley Beauty, LLC ("Christie Brinkley Beauty"), and distributor of Christie Brinkley brand skin care products. At Christie Brinkley Beauty, we take your privacy very seriously. We have prepared this Privacy Policy to describe the types of personal and non-personal information we collect, how we use such information, and to whom and under what circumstances we disclose such information. (By personal information or personally identifiable information, we mean information by which you can be identified, such as your name, address, telephone number, etc.). By using our Website and/or ordering any of our products or services (collectively "Services"), you signify your assent to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must discontinue using the Website and/or our Services.
+### **A. Personally-Identifiable Information:**
 
-### Collection of Information
+Media Temple typically receives specific data about its website visitors only when such information is provided voluntarily, such as when our visitors request information, purchase or enroll for services, open a customer support inquiry ticket, provide resume information for employment opportunities, or send us e-mail. Of course, some of these activities require that you give us information, such as when you make a purchase, use a credit card to pay for services, submit your resume, or request certain types of information. When you provide personally-identifiable information to Media Temple through one of our websites, it will be used to fulfill your specific request. In most cases, you will be given the opportunity to select whether you do, or do not, want Media Temple to use this information for additional purposes.
 
-### Information We Collect From You
+Media Temple will not, however, sell or trade your personally-identifiable information unless we are authorized or legally required to do so, or in the case of imminent physical harm to the visitor or others. On those Media Temple sites where you may provide Media Temple with credit card or other ordering information via the web, Media Temple protects and secures this information by employing commercially customary web-based security and encryption protocols, examples of which include Secure Socket Layer (SSL) and Secure Electronic Transaction (SET). 
 
-As a general policy, Christie Brinkley Beauty only collects personal information from you when you voluntarily provide it to us, such as by: (1) placing an order; (2) registering on the Website; (3) contacting us (including when you speak with our product specialists and other employees) by email, telephone or through any of the contact forms found on our website; and (4) completing any surveys. In connection with these activities, we may collect personal information, including, but not limited to, your name, shipping and billing addresses, e-mail address, telephone number, credit card number, credit card expiration date, other unique identifiers, and other demographic information. By making a purchase on our Website, you consent to our providing your financial information to our services providers and other third parties we determine are necessary to process your transaction, such as a credit card company or banking institution. When you provide us with information in connection with an order or otherwise sign up for our Services or provide your contact information, including an email address or telephone number in connection with such activity, you agree that this action constitutes a purchase or inquiry establishing a business relationship with us. You expressly consent to our communicating with you future information about our products and services using the information you provided to us. You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you. This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving. We may supplement information you give us with information from other sources, such as information to validate or update your address, payment card or other demographic and lifestyle information.
+#### **Targeted Advertisements**
 
-### Web Logs
+Absent any instructions from you, Media Temple may use information you provide to inform you about additional services and products offered by the Media Temple family of companies, Media Temple venture companies, Media Temple authorized agents, and other goods and services providers with whom Media Temple has relationships and whose offerings might be of interest to you.
 
-As part of the standard operation of our Website and Internet servers, we may collect certain non-personal information from you including, but not limited to, your IP address and the domain name from which you accessed the Website. We may also use individual information we collect through web logs to send you targeted offers and other communications. In addition, we may collect information about your browsing behavior, such as the date and time you visit our Website, the areas or pages of our Website that you visit, the amount of time you spend viewing our Website, the number of times you return to our Website, and other click-stream data. 
+#### **Supplementation of Information**
 
-### Cookies
+In order to provide certain services to you, we may on occasion supplement the personally identifiable information you submit to us with information from third party sources (e.g., information from our strategic partners, service providers, or the United States Postal Service). We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-We use cookies to collect information. A cookie is a small text file that may be stored on the hard drive of your computer when you access our Website. We use session cookies to make it easier for you to navigate our Website. A session ID cookie expires when you close your browser. We use persistent cookies to differentiate visitors to our Websites from customers, to customize the content of certain sections of the Websites and to enable us to track and cater to the interests of users, in order to enhance their experience on the Websites. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Cookies help us learn which areas of our Websites are useful and which areas need improvement.
+#### **Opt-out**
 
-We may also use cookies to: (1) track and report your order to an affiliate Company so that affiliate may receive credit for your order, when applicable (the affiliate company may have also placed a cookie on your computer for this purpose); (2) conduct research to improve our content and services; (3) access your account when you login to the Website and provide you with customized content, when applicable; and (4) require you to re-enter your password periodically to help prevent others from accidentally accessing your account information, when applicable.
+Media Temple customers control how and when we contact you by logging into the [AccountCenter](https://ac.mediatemple.net/) and changing your preferences. Media Temple reserves the right, in its discretion, to send you bulletins and other important information about your Media Temple services. If you are not a Media Temple customer and wish not to be emailed about our services, please click the unsubscribe link in the email you have received.
 
-You are always free to decline cookies, but by doing so, you may not be able to use certain features on the Website or take full advantage of all of our offerings. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help " menu of your browser to learn how to change your cookie preferences.)
+### **B. Non Personally-Identifiable (Generic) Information:**
 
-### Other Information
+In general, Media Temple gathers some generic information automatically. Generic information does not reveal the identity of the visitor. It usually includes information about the Internet address assigned to your computer, the number and frequency of visitors, and the Media Temple sites visited. Media Temple gathers this information for the limited purpose of determining customer service and website needs. We accomplish this by using certain technologies, including "cookies" (a technology that can be used to provide the visitor with tailored information about Media Temple services). Media Temple does not combine information collected in this way with any personally-identifiable information.
 
-We may also collect information about you through other methods, including research surveys or information we obtain from third parties, including verification services, data services, as well as public sources. We use this information to continually offer you the most value as a user of our Website and Services.
+You can set your browser to notify you when you receive a cookie and you can refuse it; this may however reduce functionality of certain website features such as the order system and the [AccountCenter](https://ac.mediatemple.net/).
 
-### Access to Information You Provide to Us
+### **C. Your (mt) Media Temple hosted website, server, bulletin boards, forum, Third-Party Sites:**
 
-You may access any personal information you provide to us, correct or modify any such personal information, or direct us to make no further use of your personal information. To do so, please send an email with your request by clicking here.
+Information that you disclose in a public space, including on any blog, bulletin board, chat room, or website Media Temple may host for you as part of your Media Temple services, is available to anyone else who visits that space. Media Temple cannot safeguard any information you disclose in these locations. Additionally, Media Temple websites contain links to sites that belong to third parties unrelated to Media Temple. Media Temple cannot protect any information you may disclose in these sites and recommends that you review the privacy policy statements of those sites you visit.
 
-**Your California Privacy Rights**
+On those sites where you voluntarily offer any feedback, data, answers, questions, comments, suggestions, ideas or the like, Media Temple will treat that portion of the information as non-confidential and nonproprietary and, except as otherwise expressed in this privacy statement, Media Temple assumes no obligation to protect such information from disclosure.
 
-Christie Brinkley Beauty complies with Section 1798.83 of the California Civil Code – the 'Shine the Light Law'.
+#### **Lucky Orange Web Analytics Service**
 
-Under Section 1798.83 of the California Civil Code, residents of California that have an established business relationship with Christie Brinkley Beauty and that have provided certain personal information to Christie Brinkley Beauty (“California Consumer”) have the right to request certain information from Christie Brinkley Beauty. California Consumers may request that Christie Brinkley Beauty disclose (i) the types of personal information shared with third parties for those third parties' direct marketing purposes, if any and (ii) the identity of any such third party with whom Christie Brinkley Beauty has shared personal information, if any, during the previous calendar year.
+This site uses the Lucky Orange analytics system to help improve usability and the customer experience. Lucky Orange may record mouse clicks, mouse movements and scrolling activity. Lucky Orange may record keystroke information that you voluntarily enter on this website. Lucky Orange does not track this activity on any site that does not use the Lucky Orange system. You can choose to disable the Lucky Orange Service at <http://www.luckyorange.com/disable.php>. Note, that doing so will disable other features of the Lucky Orange system that this site employs such as 1-to-1 support chat.
 
-California Consumers may make one such request each year. 
+### **D. Exceptions and Limitations:**
 
-To submit a request for information please email Christie Brinkley Beauty at [CAprivacy@christiebrinkleyskincare.com](mailto:CAprivacy@christiebrinkleyskincare.com). Please include "Request for California Privacy Information" in the subject line and in the body of your e-mail. Christie Brinkley Beauty will respond with the requested information, if any, to the email. 
+Notwithstanding the foregoing and in compliance with applicable laws, Media Temple (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to Media Temple) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, Media Temple may be required to disclose personally identifiable information. In addition, Media Temple may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate Media Temple; or (iii) to protect the rights or property of Media Temple or others. In connection with the potential sale or transfer of any of its interest in mediatemple.net, and ac.mediatemple.net and other sites owned by the company, Media Temple reserves the right to sell or transfer your information (including, but not limited to name, address information, and other information you provided to Media Temple) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be Media Temple's successor in interest with regard to the maintenance and protection of information collected and maintained by Media Temple; and (iii) agrees to the obligations of this policy statement.
 
-### Use of Information
+#### **Contacting Us**
 
-We may use the information we collect from you for any of the following purposes: (1) to fulfill your requests for certain products and services; (2) to provide you with targeted offers based on your specific requests or your stated preference to receive certain categories of offers; (3) to send you information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers, and other third parties; (4) to deliver targeted display advertisements and offers (by matching criteria provided by our advertisers with information collected from our visitors); (5) to enable our marketing partners, advertisers, and other third parties to communicate with individuals; (6) to contact visitors of our Website when necessary; (7) to help address problems with our Website or Services; (8) to administer our Website; (9) to conduct internal reviews of our Website (for example, to determine the number of visitors to specific pages within the Website); (10) to help us better understand visitors’ use of our Website; (11) to protect the security or integrity of our Website; and (12) for customer service. Non-personal information may be used for these purposes as well to monitor our Website, provide a greater online experience for our visitors, identify the source of orders and obtain accurate aggregate demographic usage patterns.
-
-If you provide credit card or other authorized payment method information to Christie Brinkley Beauty, you authorize Christie Brinkley Beauty, or a credit card processor of its choosing to receive appropriate billing information, bill such credit card or to make such charges as applicable
-
-### Disclosure of Information
-
-Christie Brinkley Beauty may transfer or otherwise disclose information collected from you, including your financial account information, to the following entities for the following purposes: (1) to our employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, and suppliers to perform a business, professional, or technical support function for us; (2) to our employees, independent contractors, service providers and suppliers, subsidiaries and affiliates to fulfill a product or service request; (3) to our marketing and business partners and advertisers and our subsidiaries and affiliates, who may use the information in connection with their business operations, such as to send marketing and other communications to visitors of the Website; (4) as necessary if Christie Brinkley Beauty determines that there has been a violation of the Terms of Use; (5) as necessary if we have reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with our rights or property, our Website, other users of our Website, or anyone else that could be harmed by such activities; (6) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (7) as provided for under the "Unforeseen Circumstances " section below. Christie Brinkley Beauty may also sell, rent, or lease any personal information collected from you to any of its marketing partners, advertisers, or other third parties. We may also send you service-related announcements and emails from time to time relating to your orders or account such as order confirmations and payment-card charge notifications. We may also send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if the delivery of a product is delayed we might send you a notice, or if there is some service issue with something you might have ordered. You may not opt-out of these communications, which are not promotional in nature.
-
-### Choice/Opt-Out
-
-If you prefer not to receive electronic promotional communications, you can opt-out by following the unsubscribe instructions included in each communication You may remove your information from our database so as not to receive future promotional communications from us or to close your account or opt out of our sharing information with third parties for marketing purposes by emailing us at [support@ChristieBrinkleyskincare.com](mailto:support@ChristieBrinkleyskincare.com) or sending mail to the following address:
-
-Christie Brinkley Beauty  
-22631 Pacific Coast Highway  
-PMB 383  
-Malibu, CA 90265  
-
-
-Please note, changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. Finally, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
-
-### Security
-
-Christie Brinkley Beauty features security measures designed to protect against the loss, misuse or alteration of information placed under our control. We maintain physical, electronic, contractual, and managerial steps designed to safeguard and secure the information we collect from visitors to our Website. Our servers have been enabled with Secure Socket Layer (SSL) technology to help prevent unauthorized parties from viewing your non-public personal information that you give or access during a secure session. However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your information, we cannot warrant or ensure the security of any information you provides to us.
-
-### Children
-
-We do not direct our Website to, nor do we knowingly collect any personal information from, children under eighteen.
-
-### Third Party Websites
-
-Our Website may contain links to other third party Websites (such as those of our marketing partners or advertisers), which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these Websites. Accordingly, we recommend that you review the privacy policy posted on any web site that you may access through our Website.
-
-### Unforeseen Circumstances
-
-In the event that we, or any of our businesses, are sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, personally identifiable information of visitors to our Site and customers may be one of the assets sold or merged in connection with that transaction. Personal information may also need to be disclosed in connection with a commercial transaction where we or any one of our businesses are seeking financing, investment, support or funding. In such transactions, personal information may be one of the transferred assets.
-
-A Note To International Users. The Website is hosted in the United States. If you are using the Website from outside the United States, by providing your information to the Websites, you are consenting to the transfer of your information to the United States for processing and maintenance in accordance with this Privacy Policy and our Terms of Use. You are also consenting to the application of United States law in all matters concerning the Websites.
-
-### Changes
-
-If we change this Privacy Policy, we will post those changes here and revise the Effective Date accordingly. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, you will know because the Effective Date of the Privacy Policy will change. By using our Sites or Services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the privacy policy in effect when the information was obtained from you.
-
-This Policy is part of the Terms of the Site and any use of the Site is governed by those Terms.
-
-### Contact Us
-
-Please relay any questions you may have pertaining our above stated policies to our Customer Service Department via email by clicking here or by calling 1-888-204-0338 or sending a letter to:
-
-Christie Brinkley Beauty  
-22631 Pacific Coast Highway  
-PMB 383  
-Malibu, CA 90265  
-
+**Media Temple**  
+8520 National Blvd.  
+Culver City, CA, USA  
+P: 877.578.4000   
+[legal.notices@mediatemple.net](mailto:legal.notices@mediatemple.net)
+  *[P:]: Phone
