@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dosgamesarchive.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613142143id_/http%3A//www.dosgamesarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosgamesarchive.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227164354id_/http%3A//www.dosgamesarchive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | DOS Games Archive
 
