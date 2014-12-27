@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the singpromos.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042006id_/http%3A//singpromos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singpromos.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227065009id_/http%3A//singpromos.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Singapore Promotions
+# Privacy Policy | SINGPromos.com
 
 This is the web site of Singapore-Promotions.Com.
 
@@ -22,9 +22,13 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 
 
+Singapore Promotions is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to www.amazon.com.
+
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+ ** _Get FREE Delsey luggages worth $978 when you sign up for a HSBC Revolution Visa credit card with a supplementary card (2-year annual fees waiver) at[www.hsbc.com.sg](http://singpromos.com/redirect/link?url=http%3A%2F%2Fwww.hsbc.com.sg%2F1%2F2%2Fpersonal%2Fcards%2Fhsbc-revolution-credit-card)._**
 
   
 
