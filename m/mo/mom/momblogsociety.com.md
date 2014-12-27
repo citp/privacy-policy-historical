@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momblogsociety.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080637id_/http%3A//officialblog.momblogsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momblogsociety.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227095241id_/http%3A//momblogsociety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mom Blog Society
 
@@ -77,3 +77,21 @@ It is our policy to provide notifications, whether such notifications are requir
 Changes to Our Privacy Policy
 
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it, and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+
+Services and Responsibilities. 
+
+ 1\. Service Policies and Privacy
+
+The Service shall be subject to the privacy policy for the Service available at http://www.scalr.com/policies#privacy-policy . You agree to the use of your data in accordance with “Mom Blog Society” privacy policies.
+
+2\. Payment and Cancellation of service
+
+2.1. The Service is billed in advance. In some cases on a monthly basis and is **non-refundable**. There will be no refunds or credits for non deadline  service.  In order to treat everyone equally, no exceptions will be made.
+
+2.2. We do not accept deadline post. All post are published according to our timeline. We will however do our best to meet a timeline you are seeking for your publication. Again, we can not guarantee a deadline for publication.  
+
+2.3. You are solely responsible for sending your publication information in a detailed explanation. Miss-communication on either parties part is not an exception for a refund. 
+
+2.5 Review products are NOT guaranteed publication on Mom Blog Society. Sending a product to Mom Blog Society for publication dose not guarantee you will be published. However, we always try our best to publish an article on all products sent to Mom Blog Society. 
+
+2.6 Mom Blog Society dose not guarantee publication of your product in a certain time-frame, deadline or publication fashion. However, we will do our best to publish your product according to our latest communication with you on your product needs. Again, we do not guarantee publication or deadlines. 
