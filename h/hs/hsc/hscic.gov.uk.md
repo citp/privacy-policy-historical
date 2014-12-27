@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hscic.gov.uk privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608145632id_/http%3A//www.hscic.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hscic.gov.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227044847id_/http%3A//www.hscic.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies - Health & Social Care Information Centre
 
@@ -116,7 +116,7 @@ There are robust security measures in place for all personal information held by
 
 ## Privacy Impact Assessment
 
-We have completed a  ['Privacy Impact Assessment' [527kb]](http://www.hscic.gov.uk/media/12931/Privacy-Impact-Assessment/pdf/privacy_impact_assessment_2013.pdf "Privacy Impact Assessment") which tells you what the HSCIC does with personal information and what effect that might have on privacy. It also explains what steps the HSCIC takes to protect privacy. The Privacy Impact Assessment will be looked at every year to see if it needs to be updated.
+We have completed a  [Privacy Impact Assessment [527kb]](http://www.hscic.gov.uk/media/12931/Privacy-Impact-Assessment/pdf/privacy_impact_assessment_2013.pdf "Privacy Impact Assessment") which tells you what the HSCIC does with personal information and what effect that might have on privacy. It also explains what steps the HSCIC takes to protect privacy. The Privacy Impact Assessment will be looked at every year to see if it needs to be updated.
 
 ## Other websites
 
