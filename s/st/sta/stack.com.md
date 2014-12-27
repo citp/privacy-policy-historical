@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stack.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625235234id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stack.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227063758id_/http%3A//www.stack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | STACK
 
-STACK Media, Inc. ("STACK") recognizes that its customers, visitors, Members, and others who use [http://www.stack.com](http://www.stack.com/) or other web sites owned or operated by STACK (the "STACK Websites") (collectively or individually "Members") value their privacy. This Privacy Policy details important information regarding the use and disclosure of Member information collected on the STACK Websites. STACK provides this Privacy Policy to help you make an informed decision about whether to use or continue using the STACK Websites. 
+STACK, Inc. ("STACK") recognizes that its customers, visitors, Members, and others who use [http://www.stack.com](http://www.stack.com/) or other web sites owned or operated by STACK (the "STACK Websites") (collectively or individually "Members") value their privacy. This Privacy Policy details important information regarding the use and disclosure of Member information collected on the STACK Websites. STACK provides this Privacy Policy to help you make an informed decision about whether to use or continue using the STACK Websites. 
 
 This Privacy Policy is incorporated into and is subject to the STACK Terms of Use found at [http://www.stack.com/terms-of-use/](http://www.stack.com/terms-of-use). Your use of the STACK Websites and any personal information you provide on the STACK Websites remains subject to the terms of this Privacy Policy and our Terms of Use. 
 
@@ -90,7 +90,7 @@ STACK reserves the right to revise, amend, or modify this policy and our other p
 
 ## Contacting STACK
 
-Members with questions about this Privacy Policy and any of the aforementioned statements may contact STACK at privacy@stackmag.com or STACK Media, 1228 Euclid Avenue, Suite 1000, Cleveland, OH 44115. 
+Members with questions about this Privacy Policy and any of the aforementioned statements may contact STACK at privacy@stackmag.com or STACK, 1228 Euclid Avenue, Suite 1000, Cleveland, OH 44115. 
 
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY. 
 
