@@ -1,179 +1,98 @@
-> *The following text is extracted and transformed from the gmacmortgage.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506050951id_/http%3A//www.gmacmortgage.com/About_Us/Legal_Information/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmacmortgage.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227072822id_/http%3A//www.ally.com/privacy) for the most accurate reproduction.*
 
-# 
+# Online Privacy | Ally Financial
 
-**Overview  
-** You take your privacy seriously and so does GMAC Mortgage. We are a company committed to protecting the personal information and privacy of our customers. This statement is one way of sustaining your trust in our company, our products and our services.
+## Online Privacy Policy
 
-**Privacy (Website Visitors)**  
-Our Online Privacy Statement describes how we collect, protect and use information about you either during your visit to our web site or when you are a GMAC Mortgage customer.
+### Overview of Online Privacy Policy for Ally
 
-**Information We Collect About You during Your Online Visit**
+You take online privacy seriously, and so does the Ally group of companies (“Ally”), which includes Ally Financial and Ally Bank. At Ally, we’re committed to protecting the personal information of visitors to our websites.
 
-**_Website Visitors / Registered Users_**  
-When you browse our site as a visitor or are a registered user of this website, we may collect and store information about your online visit (see cookies). This information may include the time and length of your visit, the pages you view on our site, the last site you visited before coming to ours, and the name of your internet service provider.
+Our online privacy policy describes the information we collect from and about you during your visit to our websites. It also describes how we use information about you, with whom we share it and how we protect it. This policy applies only to those Ally websites that link directly to this policy.
 
-We use this data on an aggregate basis to measure site activity, and on an individual basis to make the site more useful and provide information that may be of interest to you.
+It’s important to know that our websites may contain links to third party sites not controlled by Ally or covered by this online privacy policy. We recommend that you check the privacy statements of other sites you visit before providing any personal information.
 
-**_Registered Users Only_**  
-Information collected about registered users is used and shared in accordance with our customer privacy notice and practices. If you are an existing customer, please see the Information Collection and Sharing Practices for Existing Customer section for more information.
+Once you become a customer of Ally, and once a year while you remain a customer of Ally, we will provide you with a Privacy Notice describing our privacy practices. It will describe and provide any updates to the collection and sharing of personal information about our customers, as required by law.
 
-As a registered user, you may use the website to:
+### What personal information does Ally collect online?
 
-  * Provide information to us about you when you complete an online application or other form; 
-  * Provide information to us about you during web page registration; and 
-  * Provide information to us about you during personal profile updates.
+We collect personally identifiable information (“PII”) about you from the information you provide to us when you visit our websites. The information we collect will depend on the Ally website you visit. This information may include, but is not limited to:
 
+  * Name
+  * Address
+  * Social Security number in whole or in part
+  * Phone numbers (including mobile)
+  * Account number
+  * Account number at a bank or other financial institution, type of bank account and the name of bank or other financial institution
+  * Demand Note number
+  * Email address
+  * Email referral information
+  * Date of birth
+  * Current residential information including mortgage or rent payments
+  * Employment information
+  * Income information
 
 
-**Security Statement**  
- **About our Website(s)**
 
-**Cookies**  
-We may use Web cookies for security purposes to recognize your computer when you log into your account. We may also make use of Web cookies or similar data on certain parts of our Web site for fraud prevention and other purposes. If you disable your Web browser's ability to accept our Web cookies, it may not be possible for you to access your online account.
+### How does Ally use the personal information it collects online?
 
-**Passwords**  
-Your access to certain portions of our Web site may be protected with an individualized username and password. Your username and password are confidential and personal to you, and should never be disclosed or shared with anyone else.
+We use personal information collected online for various functions, which may include:
 
-**Timed logout**  
-Certain portions of our Web site may be protected with a timed-logout feature. This can help protect your account from being viewed or used by others if your computer becomes unattended.
+  * processing your request for services, products or information
+  * improving our customer service and products
+  * servicing your account
+  * facilitating your participation in online activities.
 
-**Encryption**  
-We may use encryption to protect your information as it travels across the Internet. This can help prevent others from eavesdropping on your browser sessions with our Web servers.
 
-**Firewalls**  
-Our Web site may be protected with firewall technology, which can help prevent your account information and our Web site from being improperly accessed.
 
-**Surveillance**  
-Certain portions of our Web site are monitored by advanced surveillance and logging technologies. These technologies can help to ensure that both your information and our Web servers are protected from compromise.
+For example, we may use the information you provide when you complete an online application for a product or service in order to process and evaluate your application. If you request product information, we may use the information you provide to mail you information you request.
 
-**Information Collection and Sharing Practices for Existing Customers**  
- **Existing Customer/Registered Users**
+We may also use the information you provide to contact you regarding your account and to process or collect payments. In addition, we may collect and use information for analytic purposes, market research or for marketing purposes, as allowed by law.
 
-If you are a GMAC Mortgage customer details about the information we collect and how it may be disclosed is contained in our Privacy Notice, which includes additional information regarding your privacy choices. Briefly, we collect information about you for example, when you:
+### Does Ally share the personal information it collects online?
 
-  * Apply for a loan; 
-  * Make your monthly payment.
+We may share the personal information we collect about you with third parties, such as companies performing services on our behalf to provide the products or services you have requested.
 
+As permitted by law, we may also share information collected about you with companies with whom we have formal agreements to offer you financial products and services.
 
+We may share information about you with our affiliates (other companies in the Ally family) and with nonaffiliates for analysis, market research and marketing purposes as allowed by law.
 
-We also collect personal information from you or others, such as credit bureaus, affiliates, employers, or others.
+Finally, we may disclose your personal information as otherwise permitted or required by law.
 
-**Information We Share About Our Existing Customers**  
-The information contained in this section applies to GMAC Mortgage customers.
+### Does Ally use cookies or other online technologies to collect information?
 
-We may collect and subsequently share personal information about you to:
+When you browse or visit one of our websites, we may store certain information on your computer. This information may be in the form of a small text file called a "cookie" and can help us to tailor our sites to your individual preferences and save you time if you visit the site again. For example, cookies may be used to remember your bank or auto login preference. Where our websites support it, to save you time we may offer you the option to save your username and/or remember your computer by putting a cookie on your machine. Other online technologies we use may include Flash® objects (sometimes called "Local Shared Objects") as part of our online authentication measures if you ask us to remember your computer. Flash objects help us recognize your computer when you come back to our site. We do not use Flash objects for any online behavioral advertising purpose.
 
-  * run our everyday business; 
-  * respond quickly to customer needs;
-  * help us communicate with you
-  * evaluate eligibility for additional products and services that may be of interest to you.
+_Can I disable or delete cookies?_   
+You can disable cookies by making the appropriate selection from your browser options to inform you when cookies are set or to prevent cookies from being set. However, if you choose to disable or delete cookies, you may limit the functionality we can provide when you visit our site. Deleting cookies does not delete Flash objects.
 
+_Does Ally track your online activity on our websites?_   
+We may use online tracking technologies, such as cookies, to gather anonymous, aggregate information about your visit to our websites. This information allows us to measure site activity and to create ideas for improving our sites and may include the time and length of your visit, the pages you look at on our sites, the website you visited just before coming to ours and your internet service provider. If we provide you with a link from an Ally site to another site, we may track the fact that you clicked the link. This will help us understand which links are helpful to you when you visit our site, and will help us provide you with links that may be of interest to you, when you visit our site again.
 
+_Does Ally use online behavioral advertising (OBA) on third party sites?_   
+Yes, we utilize OBA on third party websites and mobile apps that are not affiliated with Ally. The third parties with which Ally contracts may use cookies or other technologies for OBA. Neither the third parties nor Ally collects any personally identifiable information (PII) through these cookies. We may also use aggregate data to display ads or content that may be relevant or of interest to you. Examples of aggregate data include, but are not limited to, pages visited or keyword searches. Anyone receiving an online behavioral ad may opt-out by clicking the third party site’s Advertising Option icon (Ad Choices) associated with the ad or visiting the third party website's privacy policy for an opt-out mechanism, if any.
 
-**_What We Share_**  
-We may share personal information that includes, but is not limited to your:
+_How do our websites respond to web browser “Do Not Track” signals?_   
+We do not respond to Web browser “Do Not Track” signals at this time. To prevent Ally or third parties from tracking, you can access your browser settings and disable or delete your cookies.
 
-  * name, address, and other account application information;
-  * account balances, transactions, and payment history
-  * creditworthiness including credit history and credit score.
+### How can I change or update my personal information with Ally?
 
+If you have questions about personal information you provided on an Ally website, select the "Contact Us" link – usually found in the navigation menu – or log into your Ally Auto account and select Account Information to edit your personal information or your Ally Bank account and select My Profile to edit your personal information.
 
+### What steps does Ally take to protect personal information it collects online?
 
-**_With Whom We Share_**  
-We disclose some of the information we collect about you to third parties such as credit reporting agencies, regulators and loan investors. These types of third parties are called **non-affiliated third parties**.
+We restrict access to the personal information obtained from our website to only those employees, agents and contractors who need it to do their jobs. We maintain administrative, technical, and physical safeguards designed to protect your personal information.
 
-We may also share some of this information with companies performing services on our behalf such as the vendor who prepares and mails our monthly statements. These types of vendors are called **service providers**.
+Additionally, companies that provide online services on our behalf are required by contract to protect customer information. They are only allowed to use the information they collect for the purpose of providing the services that we have contracted to them.
 
-We may share information we collect about you with companies with whom we have formal agreements to offer you financial products and services. These types of relationships are called **joint marketing** partnerships.
+### Does Ally collect personal information online about children?
 
-Finally, we may share information we collect about you with companies related by common control (i.e. GMAC Financial Services, GMAC Insurance, Ditech, etc.) to offer you products and services that may be of interest to you. These types of companies are called affiliates.
+We don’t intentionally collect or maintain data about children under 13 unless the personal information is provided by a parent, legal guardian or authorized adult. Our websites are not intended for children under 13.
 
-**_Benefits of sharing_**  
-We need to collect and share information about our customers to help us communicate with you.
+### Does Ally make public forums available on its websites?
 
-We also may share customer and former customer information within our GMAC family and with **valued partners** (our employees) to evaluate eligibility, offer and recommend valuable products and services that may be right for you.
+Public forums are available on our websites, and they may include text, photographs and videos that are accessible to the general public. Unless we tell you otherwise, any information you disclose in these areas may become public information. You should use caution when deciding to disclose personal information in these areas.
 
-**Customer Information Sharing Choices/Opt Out**
+### Will Ally make changes to this online privacy policy?
 
-**_Federal Law_**  
-Federal law requires us to tell you how we collect, share, and protect personal information about our customers. While Federal law allows us to share information about you to run our business, to perform services and offer our products, Federal law also gives you the right to limit some, but not all, sharing of your personal information.
-
-Specifically, Federal law allows you to opt out/restrict us from sharing information as follows:
-
-  * About your credit worthiness with our affiliates; and
-  * To non-affiliates to offer you their products and services
-  * creditworthiness including credit history and credit score.
-
-
-
-**_State Laws_**  
-State laws may give you additional rights regarding our information sharing limitations.
-
-We share personal information about you as permitted by the law of the state in which you reside and in accordance with federal law. As a customer of GMAC Mortgage you received our Privacy Notice when you became our customer and you will receive our updated annual Privacy Notice each year you continue to be our customer.
-
-You can limit us from sharing your information as permitted by law and as described in our Privacy Policy at any time by advising us of your Opt Out choices and how you do not want your information shared by calling **1-877-450-4622**. You may notify us of your choices at any time
-
-If your past choices have not changed, you only need to tell us one time, as long as you have your account with us.
-
-**_Customer Data Protection_**  
-We are a company committed to securing personal information and protecting the privacy of our customers. We use security measures that comply with federal law including assessing risk and using reasonable controls to protect customer information.
-
-Our company culture is to treat customer information the way we would want our own information treated. We train employees on handling and securing customer data to maintain a culture of protection and security. It is the responsibility of every associate, affiliate, and nonaffiliate to care for personal information about our customers.
-
-**_Correcting Information_**  
-We are committed to maintaining accurate and up-to-date information on all of our customers. We may provide customers with access to account information in different ways, for example, over the telephone, online or on paper.
-
-If you are a registered user of this website, you may be able to update some information online. You will need to log-into your account in order to utilize this feature.
-
-How to contact us regarding your account:
-
-U.S. Mail:  
-GMAC Mortgage  
-Attn: Customer Service  
-P.O. Box 4622  
-Waterloo, IA 50704-4622  
-
-
-Phone: 1-800-766-4622  
-[Customer Service Email](http://www.gmacmortgage.com/Utilities/Contact_Us/Email/Email.html)  
-
-
-Questions about this Online Privacy Statement may be sent via email to: [PrivacyOffice@gmacm.com](mailto:PrivacyOffice@gmacm.com)
-
-**_Policy Effective Date_**  
-This Online Privacy Statement is effective February 25th, 2008 and remains in effect until amended. GMAC Mortgage reserves the right to amend this Privacy Statement or alter its privacy principles at its sole discretion without notice to you. We will post any alterations to this Privacy Statement on our web site in a timely manner so please check periodically.
-
-**Identity Theft / Fraudulent Activities**  
- **Identity Theft/Fraud**
-
-Identity Theft occurs when someone uses sensitive information, called Personally Identifiable Information (or PII) of another person without their permission to commit fraud or other crimes, such as Account Takeover or Application Fraud. [ _Account Takeover has occurred when an individual acquires another person's existing credit account information and purchases products and services at the victim's expense. Application Fraud has occurred when an individual uses another's Social Security Number or other Personally Identifiable Information to open new credit accounts in the victim's name._ ]
-
-If you believe you are a victim of Identity Theft, contact the three major credit bureaus to place a fraud alert message on your credit file. When you place a fraud alert on your file, the credit reporting agencies will send you a copy of your credit report at no charge.
-
-  * Experian (1-888-397-3742)
-  * Equifax (1-800-525-6285)
-  * TransUnion (1-800-680-7289)
-
-
-
-Carefully review your credit reports for: accounts you did not open, inquiries from creditors you did not initiate, and for personal information (such as home address and social security number) that is not accurate. If you see anything you do not understand or any accounts you did not open, call the credit reporting agency at the telephone number on the report.
-
-If you decide not to place a fraud alert on your credit file, you can still obtain free copies of your credit report by going to the following Annual Credit Report website ([www.annualcreditreport.com](http://www.annualcreditreport.com/)) or by calling them toll-free at 1-877-322-8228. (Hearing impaired consumers can access their TDD service at 1-877-730-4204.
-
-To learn more about identity theft, visit the Federal Trade Commission's web site to receive further information and insights about how to protect your identity from identity thieves.
-
-Identity Theft Hotline: 877-438-4338  
-Web: www.consumer.gov/idtheft  
-Mail: Identity Theft Clearinghouse,  
-Federal Trade Commission  
-600 Pennsylvania Ave., N.W., Washington, DC 20580
-
-There are services that assist in protecting consumers against identity theft. GMAC Mortgage offers its customers Identity Guard® from Intersections, Inc. If you are interested in enrolling in Identity Guard®, please call 866-893-3785 and a representative will assist you. Identity Guard® will be billed to your GMAC Mortgage monthly account statement, so have your mortgage account number available when you call.
-
-**Social Security Number**   
-**Privacy Protection Policy**
-
-GMAC Financial Services* collects social security numbers as necessary to support state and federal legal requirements, to provide products or services to you, and to meet our human resources needs. We restrict access to social security numbers to employees, agents, and subcontractors who need social security numbers to support these purposes. We provide social security numbers to government agencies, as required by law. We strive to protect social security numbers from unlawful disclosure and keep them confidential by maintaining physical, electronic, and procedural safeguards that comply with applicable state and federal regulations.
-
-***This policy applies to the following GMAC Financial Services companies:** Alexium Leasing Company, American Suzuki Financial Services Company LLC (ASFS), Central Originating Lease Trust (C.O.L. Trust), CIM Insurance Corporation, Ditech, LLC, GHS Mortgage, LLC, GMAC, GMAC Bank, GMAC CF LLC, GMAC Demand Notes, GMAC Direct Insurance Company, GMAC Home Services, LLC, GMAC Insurance Company Online, Inc., GMAC Insurance Management Corporation, GMAC Insurance Marketing, Inc., GMAC Mortgage, LLC, GMAC Mortgage, LLC of TN, GMAC Mortgage USA Corporation, GM Motor Club, Inc., Homecomings Financial, LLC, Homestate County Mutual Insurance Company - Administered by Integon National Insurance Company, Integon Casualty Insurance Company, Integon General Insurance Corporation, Integon Indemnity Corporation, Integon National Insurance Company, Integon Preferred Insurance Company, Integon Specialty Insurance Company, MEEMIC Insurance Company, MEEMIC Insurance Services Corporation, MIC General Insurance Corporation, National Auto Finance Company, National General Assurance Company, National General Insurance Company, New South Insurance Company, Nuvell Credit Company LLC, Nuvell Financial Services LLC, Residential Funding Company, LLC Saab Financial Services LLC, Saab Leasing Company, Semperian, and Union Trust Mortgage Services, Inc.
+This policy is effective January 1, 2014. We reserve the right to alter this policy at our discretion. Any change to this policy will be posted on our websites in a timely manner.
