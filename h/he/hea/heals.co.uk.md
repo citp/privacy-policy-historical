@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heals.co.uk privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216170759id_/http%3A//www.heals.co.uk/ordering-online-at-heals/privacy-policy/pcat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heals.co.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227175445id_/http%3A//www.heals.co.uk/customer-services/privacy-policy/pcat/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Heal's
 
@@ -74,7 +74,9 @@ _pinterest_sess, csrftoken, 229774877, __utmv  | Pinterest | Enable Pinterest Pi
 
 Targeting or Advertising Cookies
 
-Heal's does not currently use targeting or advertising cookies.
+These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
+
+These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. Quite often targeting or advertising cookies will be linked to site functionality.
 
 Further info about cookies
 
