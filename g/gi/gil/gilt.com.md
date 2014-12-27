@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilt.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624032714id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilt.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227020505id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gilt Groupe | About
 
@@ -117,11 +117,11 @@ You may choose not to receive marketing email communications from us by clicking
 
 ### Web Analytics
 
-You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by [clicking here](http://www.omniture.com/en/privacy/product#optout) and [here](http://tools.google.com/dlpage/gaoptout) and selecting the opt-out link at the bottom of the linked site.  For opting out of the aggregation and analysis of data collected about you on our mobile sites, click [here](http://www.flurry.com/resources/privacy.html "here") and [here](https://mixpanel.com/optout/ "here").
+You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by [clicking here](http://www.omniture.com/en/privacy/product#optout) and [here](http://tools.google.com/dlpage/gaoptout) and selecting the opt-out link at the bottom of the linked site.  For opting out of the aggregation and analysis of data collected about you on our mobile sites, click [here](https://dev.flurry.com/secure/optOut.do "here") and [here](https://mixpanel.com/optout/ "here").
 
 ### Targeted Advertising
 
-We may engage with advertising networks that are members of organizations or programs that manage the privacy choices these ad networks offer consumers. For example, you may opt out of receiving certain marketing communications through the Network Advertising Initiative member ad networks by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp), and learn about additional online advertising opt-out options by [clicking here](http://www.evidon.com/consumers-privacy/opt-out). Please note that we also may work with ad networks that offer their own opt-out mechanisms and may not honor the opt-outs we linked above.  You can opt-out of targeted ads on Facebook by [clicking here](https://www.facebook.com/ads/website_custom_audiences/).  
+We may engage with advertising networks that are members of organizations or programs that manage the privacy choices these ad networks offer consumers. For example, you may opt out of receiving certain marketing communications through the Network Advertising Initiative member ad networks by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp), and learn about additional online advertising opt-out options by [clicking here](http://info.evidon.com/pub_info/3863). Please note that we also may work with ad networks that offer their own opt-out mechanisms and may not honor the opt-outs we linked above.  You can opt-out of targeted ads on Facebook by [clicking here](https://www.facebook.com/ads/website_custom_audiences/).  
 
 ### Geo-Location Information
 
