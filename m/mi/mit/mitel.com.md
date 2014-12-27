@@ -1,94 +1,137 @@
-> *The following text is extracted and transformed from the mitel.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062839id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitel.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227225042id_/http%3A//www.mitel.com/privacy) for the most accurate reproduction.*
 
-# Mitel - Public Privacy Policy
+# Mitel Policies | Mitel - United States (EN)
 
-**Mitel Networks Corporation**
+Mitel demonstrates a strong sense of responsibility and commitment to our customers, employees, shareholders, and the global community at large. This includes working in an atmosphere that promotes honesty, integrity, transparency and trust. Our Board of Directors has adopted a Code of Business Conduct as a clear statement of the Mitel way of conducting business.
 
-For the purposes of this Policy, “Personal Information” means any information, recorded in any form, about an identified individual, or an individual whose identity may be inferred or determined from the information. Information, recorded in any form, about more than one individual where the identity of the individuals is not known and cannot be inferred from the information (“Aggregated Information”) is not subject to this policy. Mitel Networks Corporation (“Mitel Networks”) retains the right to use Aggregated Information in any way that it determines appropriate. Personal Information of employees is addressed in Mitel Networks’ Employee Privacy Policy. 
+[View Code of Conduct Details](http://investor.mitel.com/common/download/download.cfm?companyid=MITL&fileid=365442&filekey=819d2aad-0b36-46d2-a929-0a77cd7e3698&filename=Mitel_Code_of_Business_Conduct_March_2010__2_.pdf)
 
-In the event you have questions about (a) access to Personal Information; (b) the collection, use, management or disclosure of Personal Information by Mitel Networks; or (c) this Privacy Policy, you may contact our Privacy Officer by sending an e-mail to [privacy@mitel.com](mailto:privacy@mitel.com); telephoning Mitel Networks by calling (613) 592-2122 or writing to Mitel Networks at 350 Legget Drive, Ottawa, Ontario, K2K 2W7, Canada.
+* * *
 
-**MITEL NETWORKS’ COLLECTION, USE & DISCLOSURE OF PERSONAL INFORMATION**
+Mitel is committed to protecting the security and privacy of your personal data and ensuring that we conduct our business in compliance with laws on privacy, data protection and data security. We hope that the information in this policy will help you to understand what information Mitel may collect and how we may use, protect and share it.
 
-Mitel Networks uses the Personal Information provided verbally or in writing (including via electronic media) by its affiliates, and also by, among others, its customers, consultants, users, channel partners, strategic partners, resellers, suppliers, contractors, and distributors (including their employees) in order to:
+This policy only applies to mitel.com, mitel.com.au, mitel.be, mitel.ca, mitel.fr, mitel.de, mitel.co.za, mitel.nl, mitel.co.uk, mitel.jp. and does not extend to the practices of other websites that we may link to, companies that we do not own or control, and to people that we do not employ or manage.
 
-  * Manage our relationship, including the provision of information about products and services, with, among others, Mitel Networks’ affiliates, customers, consultants, users, channel partners, strategic partners, resellers, suppliers, contractors and distributors
-  * Manage Mitel Networks’ relationship with channel partners, including sales incentive programs for partner employees;
-  * Meet any legal or regulatory requirement; and
-  * Such other purposes consistent with these purposes.
+### What information does Mitel collect?
 
+**Personally identifiable information**  
+Mitel only collects the personally identifiable information that you provide to us. We do not collect any personally identifiable information about you, such as your name, address, telephone number or email address (“Personal Information”) unless you provided it. In some cases, you provide this information to us directly. In other cases, you provide this information to us through our partners. Mitel will not knowingly collect or use any Personal Information collected from children for any purpose whatsoever. The Personal Information we collect includes:
 
-
-Mitel Networks collects only such information from individuals or organizations as is required for the purposes of providing products, services or information to them.  Because Mitel Networks is a global organization, Personal Information may be shared among Mitel Networks’, and/or its affiliates’, offices or channel partners in other countries, including Canada, the United States and the European Economic Area.  While Mitel Networks will take all reasonable measures to ensure the standards of protection found in Canada are applied, this cannot always be guaranteed.  Your information may be stored and processed in Canada or any other country where Mitel Networks, and/or its affiliates, or channel partners are located. 
-
-**Your provision of Personal Information to Mitel Networks means that you agree and consent that we may collect, use and disclose your Personal Information in accordance with this Privacy Policy.   If you do not agree, you are requested not to provide any Personal Information to Mitel Networks.  You may wish to note that, in some instances, products, information or services can only be offered if you provide Personal Information to Mitel Networks. If you choose not to provide us with any required Personal Information, Mitel Networks may not be able to offer you those products, services or information.**
-
-Personal Information will be collected, to the extent possible, directly from the individual concerned. Unless permitted by law, no Personal Information is collected about an individual without first obtaining the consent of the individual to the collection, use and disclosure of that information. Mitel Networks does not sell, trade, barter or exchange for consideration any Personal Information it has obtained. 
-
-Except in connection with personnel and benefit administration, Mitel Networks does not knowingly collect Personal Information from anyone under the age of 18, especially children under 13, and does not use such information if it discovers that it has been provided by a minor. 
-
-Mitel Networks may disclose Personal Information to, among others, its affiliates, agents, contractors or third party service providers, which perform services on behalf of the company or assist Mitel as part of our delivery of products, services or information. Using contractual or other arrangements, Mitel Networks shall ensure that such Personal Information is used solely as directed by Mitel Networks and that such affiliates, agents, contractors or third party service providers, with respect to that information, act in a manner consistent with the relevant principles articulated in this Policy. 
-
-Personal Information may also be subject to transfer to another organization in the event of a merger, sale of assets or business units or change of ownership of all or part of Mitel Networks. This will occur only if the parties have entered into an agreement under which the collection, use and disclosure of the information is restricted to those purposes that relate to the business transaction, including a determination whether or not to proceed with the business transaction, and is to be used by the parties to carry out and complete the business transaction. 
-
-Please note that there are circumstances where the use and/or disclosure of Personal Information, without consent, may, subject to the laws of the applicable jurisdiction, be justified or permitted.  There are also circumstances where Mitel Networks is obliged to disclose information without consent.  Such circumstances include:
-
-  * Where required by the laws of the applicable jurisdiction or by order or requirement of a court, administrative agency or other governmental tribunal;
-  * Where Mitel Networks believes, upon reasonable grounds, that it is necessary to protect the rights, privacy, safety or property of an identifiable person or group;
-  * Where it is necessary to establish or collect monies owing to Mitel Networks; 
-  * Where it is necessary to permit Mitel Networks to pursue available remedies or limit any damages that the company may sustain; or
-  * Where the information is public.
+  * user.name (optional)
+  * user.home-info.online.email (optional)
+  * user.home-info.postal (optional)
+  * user.home-info.telecom.telephone (optional)
+  * user.bdate (optional)
+  * user.gender (optional)
+  * user.employer (optional)
+  * user.department (optional)
+  * user.jobtitle (optional)
+  * user.business-info.postal (optional)
+  * user.business-info.telecom.telephone (optional)
+  * user.business-info.online.email (optional)
 
 
 
-Where obliged or permitted to disclose information without consent, Mitel Networks will not disclose more information than is required.
+**Non-personally identifiable information**  
+In addition to Personal Information, Mitel may also collect information that is not personally identifying (e.g., type of Internet browser and computer operating system used; domain name of the website from which you came; number of visits, average time spent, pages viewed). This information is used by us to improve our website content, customer experience and business practices. We collect the following non-personally identifiable information:
 
-**ACCURACY & RETENTION**
+  * dynamic.clickstream
+  * dynamic.http
+  * dynamic.clientevents
+  * dynamic.searchtext
+  * dynamic.interactionrecord
+  * dynamic.cookies
+  * dynamic.miscdata
 
-Mitel Networks endeavours to ensure that any Personal Information provided and in its possession is as accurate, current and complete as necessary for the purposes for which Mitel Networks uses that information.
 
-Mitel Networks retains Personal Information as long as the company believes it is necessary to fulfil the purpose for which it was collected.  Mitel Networks has in place a Records Retention Policy which outlines the procedures for the retention and subsequent disposition of Mitel Networks’ records including those that contain Personal Information. Currently, Mitel Networks holds Personal Information in Canada as well as in other countries where Mitel Networks does business.
 
-**SECURITY**
+**Cookies**  
+Cookies are a technology that can be used to provide you with tailored information on a website. When you visit our website, we may store some information on your computer that ensures we recognize you the next time you return to our site. You can set your browser to off or to notify you when you receive a cookie, giving you the chance to decide whether to accept it. Our Web site uses the following cookies: name="*" value="*" domain="*" path="*"
 
-Mitel Networks endeavours to maintain appropriate physical, procedural and technical security with respect to its offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure, or modification of Personal Information.
+### How do we protect the information we collect?
 
-Mitel Networks further protects Personal Information by restricting access to it to those employees that need to know the information in order that Mitel Networks may provide its products, services or information. 
+Mitel takes precautions that are consistent with industry practices to ensure the security of your Personal information. We strive to protect your Personal Information from loss, destruction, falsification, manipulation and unauthorized access or disclosure.
 
-If any Mitel Networks manager or employee misuses Personal Information, this will be considered as a serious offence for which disciplinary action may be taken, up to and including termination of employment. If any individual or organization misuses Personal Information – provided for the purpose of providing services to Mitel Networks - this will be considered a serious issue for which action may be taken, up to and including termination of the agreement between Mitel Networks and that individual or organization.
+### How do we use the information we collect?
 
-**MITEL NETWORKS’ WEB SITES AND NETWORKS**
+When you provide us with Personal Information, we use it to respond to your inquiries, process your transactions, provide you with access to certain information or to generally support our business relationship. This information may also be used to improve our website content, customer experiences and business practices. In some cases, Mitel’s website contains links to other websites. Mitel is not responsible for the privacy practices or the content of any websites other than its own.
 
-Mitel Networks provides clients and others with general access to public web sites and restricted access to extranets. Our web servers track general information about visitors such as their domain name and time of visit. Mitel Networks’ web servers also collect and aggregate information regarding which pages are being accessed. This information is used internally, only in aggregate form, to better serve visitors by helping us to manage our sites; diagnose any technical problems; and improve the content of our Web sites
+We collect information for the following reasons:
 
-During the course of using the Internet, an individual may encounter “cookies”, which are files or pieces of information that may be stored on a computer’s hard drive when an individual visits a web site. Mitel Networks uses cookies to deliver personalized content, to save registered users from having to re-enter their password repeatedly, and to occasionally tailor our information offerings to how users use the site. For the most part, Mitel Networks uses session-based cookies but may use persistent cookies in some instances (e.g. to maintain preferences like "Country" selection). 
+  * Completion and support of current activity
+  * Website and system administration
+  * Research and development
+  * One-time tailoring
+  * Pseudonymous analysis
+  * Pseudonymous decision
+  * Individual analysis
+  * Individual decision
+  * Contacting visitors for marketing of services or products
+  * Historical preservation
+  * Contacting visitors for marketing of services or products via telephone
 
-Please note that for security purposes and to ensure that our Website and networks remain available for use, Mitel Networks employs software programs to monitor network traffic, to identify unauthorized attempts to upload or change information, and to prevent denial of service or other attacks intended to cause damage. Evidence of such acts may also be disclosed to law enforcement authorities and result in criminal prosecution under the laws of the applicable jurisdiction.
 
-**ACCESSING AND UPDATING PERSONAL INFORMATION**
 
-Mitel Networks permits the reasonable right of access and review of Personal Information held by the company about an individual and will endeavour to provide the information in question within a reasonable time and no later than 30 days following the request.  Mitel Networks reserves the right not to change any Personal Information but will append any alternative text the individual concerned believes to be appropriate. 
+### How do we share the information we collect?
 
-To guard against fraudulent requests for access, Mitel Networks will require sufficient information to allow it to confirm that the person making the request is authorized to do so before granting access or making corrections. 
+We may share your Personal Information with our affiliates and with our partners, including our subcontractors and other third-party providers, in order to support the uses mentioned above, and such third-party providers may follow different Personal Information practices.
 
-Mitel Networks reserves the right, subject to the laws of the applicable jurisdiction, to decline to provide access to Personal Information where the information requested:
+### Are there any exceptions?
 
-a) Would disclose (i) Personal Information, including opinions, about another individual or about a deceased individual; or (ii) trade secrets or other business confidential information that may harm Mitel Networks or the competitive position of a third party or interfere with contractual or other negotiations of Mitel Networks or a third party;
+Mitel will only disclose your Personal Information, without your consent, if we are:
 
-b) Is subject to solicitor-client or litigation privilege; 
+  * Required to by law; or
+  * Must do so in support or protecting our own rights, such as to collect monies owed or to seek legal remedies.
 
-c) Is not readily retrievable and the burden or cost of providing it would be disproportionate to the nature or value of the information;
 
-d) Does not exist, is not held, or cannot be found by Mitel Networks; 
 
-e) Could reasonably result in (i) serious harm to the treatment or recovery of the individual concerned, (ii) serious emotional harm to the individual or another individual, or (iii) serious bodily harm to another individual; or 
+In either case, Mitel will only disclose the Personal Information to the extent required. We are not required to protect Personal Information that is publicly available.
 
-f) May harm or interfere with law enforcement activities and other investigative or regulatory functions of a body authorized by statute to perform such functions. 
+### **How can I update my information?**
 
-Where information will not or cannot be disclosed, the individual making the request will be provided with the reasons for non-disclosure.
+It is important to Mitel that the information we have is accurate and complete. To update your Personal Information, please contact the [Mitel Legal Department](mailto:mitel_legal@mitel.com?subject=Mitel%20Privacy%20Policy). All information we receive will be retained in accordance with Mitel’s Record Retention Policy.
 
-Mitel Networks will not respond to repetitious or vexatious requests for access.  In determining whether a request is repetitious or vexatious, Mitel Networks will consider such factors as the frequency with which information is updated, the purpose for which the information is used, and the nature of the information.
+### Contact us
 
-**AMENDMENT OF MITEL NETWORKS’ PRACTICES AND THIS POLICY**
+By using our site, you are agreeing to the practices we have described. If you have any questions, comments or disputes, please contact the [Mitel Legal Department](mailto:mitel_legal@mitel.com?subject=Mitel%20Privacy%20Policy). Mitel Networks Corporation is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently.  
+Any changes to this policy will be posted in a timely fashion. Check back often for any updates or changes.  
+ **Mitel Networks Corporation**  
+350 Legget Drive  
+Kanata, ON  
+CA  K2K 2W7  
+[www.mitel.com](http://www.mitel.com/)  
+[mitel_legal@mitel.com](mailto:mitel_legal@mitel.com)  
+1-800-267-6244
 
-This statement is in effect as of January 1, 2004.  Mitel Networks will from time to time review and revise its privacy practices and this Privacy Policy.  In the event of any amendment, an appropriate notice will be posted on Mitel Networks’ web site. Other means may also be used to provide notice of any change in policy and practices.  Policy changes will apply to the information collected from the date of posting of the revised Policy Statement to Mitel Networks’ web site as well as to existing information held by Mitel Networks. 
+Last updated: February 2014
+
+* * *
+
+We will provide communications and collaboration products and services that meet the needs of our customers and exceed their expectations.
+
+This is achieved through global customer focus, communication, measurement, legal requirements and continuous improvement as expressed in our organization, business environment, needs, objectives, processes, plans and product roadmaps.
+
+Rich McBee  
+Chief Executive Officer
+
+  * [Mitel ISO 9001 Quality Certificate](https://web.archive.org/sites/default/files/FS-508326.pdf) (PDF)
+  * [Mitel UK ISO 20000-1 Service Management](https://web.archive.org/sites/default/files/ITMS_96809_ISO20000-1_Certificate_Valid_2017.pdf) (PDF)
+  * [Mitel UK ISO 9001 Certificate](https://web.archive.org/sites/default/files/UK-ISO9001-2012.pdf) (PDF)
+  * [Mitel UK ISO 27001 Certificate](https://web.archive.org/sites/default/files/ISMS_27001.pdf) (PDF)
+
+
+
+* * *
+
+"Mitel, senior management, the board of directors and employees are committed to protect the environment and reduce pollution"
+
+This is achieved through continuous improvement, compliance with legal (statutory and regulatory) requirements, monitoring and measurement, acting openly with government, customers and partners, encouraging reduction, reuse, recycling, conservation and energy efficiency in all our operations including development and marketing of our products and by promoting awareness of environmental consideration.
+
+**Rich McBee**  
+Chief Executive Officer
+
+### More Information  
+[UK WEEE Directive Recycling Process](https://web.archive.org/sites/default/files/WEEE-Directive-Disposal.pdf) (PDF)  
+[Mitel ISO 14001 Environmental Management System Certificate](https://web.archive.org/sites/default/files/EMS-87422.pdf) (PDF)  
+[Mitel’s Policy Statement on Conflict Minerals](https://web.archive.org/content/mitel%E2%80%99s-policy-statement-conflict-minerals) (Link)  
+ 
