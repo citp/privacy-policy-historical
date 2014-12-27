@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitmus.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326073816id_/https%3A//www.elitmus.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitmus.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227153459id_/https%3A//www.elitmus.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy / Disclaimer | eLitmus.com
 
