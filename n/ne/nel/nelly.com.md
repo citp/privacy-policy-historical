@@ -1,63 +1,71 @@
-> *The following text is extracted and transformed from the nelly.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606044400id_/http%3A//nelly.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelly.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228005335id_/http%3A//nelly.com/ww/cookies) for the most accurate reproduction.*
 
-# Fo Sheedo.com
+# Women’S Fashion & Designer Clothes Online - Nelly.com
 
-#### FOSHEEDO, LLC PRIVACY STATEMENT
+### PRIVACY POLICY 
 
-This privacy statement is applicable to Fosheedo.com and any other site that Fosheedo owns and operates. 
+#### Personal data
 
-Children Under 13
+NLY cares about your privacy and strives to at all times protect your personal data in the best possible way. NLY’s aim is to comply with all applicable laws and regulations for the protection of personal data. This policy will, among other things, help you understand what kind of personal data that NLY collects and how it is used. By approving this privacy policy on the Website in connection with a purchase or the provision of personal data, you agree to the processing of your personal data as described below. 
 
-Fosheedo does not intend to collect any personal information from anyone under 13 years of age. If you are under 13, you should not enter any personally identifiable information about yourself on any Fosheedo web site or in any Fosheedo product, and should ask a parent to do so for you. If you are under 13, Fosheedo must have express written permission from a parent before you may provide us with any information about yourself. The authorizing parent must email us at customerservice@fosheedo.com certifying the parent's age and authority, and giving us express permission to acquire and retain any such personal information from you as we may normally obtain from users of any of our sites. 
+NLY Scandinavia AB, (”NLY”/”we”), SE556653882201, Box 690, SE-501 13 Borås is responsible as data controller for the processing of your personal data. 
 
-Information Collection 
+#### Which personal data will we process? 
 
-Fosheedo does not collect personally identifiable information about you except when you specifically provide this information on a voluntary basis. For example, we might ask for such information when we run a contest, when you register for subscription services, during product registration, in our online stores, and in connection with content submissions, community postings (e.g., chat and bulletin boards), surveys, and voting and polling activities. Fosheedo will make every effort to ensure that whatever information you provide will be maintained in a secure environment. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Fosheedo cannot guarantee the security of any information you transmit to us or from our online products or services, and you provide such information at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption. 
+We will process the personal data that you provide or have provided us with or that we have collected at our Website by way of cookies for the purposes of administering your purchases and fulfilling our obligations to you as our customer. The personal data that NLY processes include your personal identity number, name, gender, e-mail address, purchase-, payment- and order history, credit card number, delivery address, IP-address and phone number.
 
-Information Sharing 
+#### How will we use your personal data? 
 
-Fosheedo may from time to time share or provide your personally identifiable contact information to unaffiliated third parties, including successors in interest, who may offer you related goods and services. 
+The data may be used for identification, direct marketing, customer surveys, newsletters and statistics. The data may also be used for sending post, SMS and e-mail to you and for marketing and information via the telephone, unless you have opted out from such communication. You may at any time contact us to opt out against any marketing towards you as customer.
 
-Fosheedo may also retain an outside company to manage a database containing certain customer information to create and distribute mailings or e-mail offerings by Fosheedo or third parties. In those situations, the outside party is performing work for Fosheedo. 
+The data may also be used to analyse purchase habits with the purpose of supplying you with relevant information and marketing and to improve the Website, payment methods and payment processes. Processing for the purpose of improving payment methods and payment processes may include processing where your personal data, inter alia your personal identity number, is transferred to other companies within NLY’s group and to third party providers to be included in the basis for the analysis. The personal data may therefore be processed together with data in other registers, e.g. registers for credit reports. 
 
-We reserve the right to contact you regarding your account status, technical support, product information, changes to the subscriber agreement, and any other matter that might affect our service to you and/or our records on you and/or any products you purchased from us. 
+Your personal identity number will also be processed in connection with a purchase on behalf of (or due to requirements from) third party providers of payment and credit card services that need it for the purpose of obtaining third party credit reports. 
 
-Fosheedo may also disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Fosheedo’s rights or property, other Fosheedo users, or anyone else that could be harmed by such activities. Fosheedo may also disclose user information when we believe in good faith that the law requires it. 
+The use of your personal data may result in data being processed together with data in other registers, both within and outside of the EU, and that your personal data is transferred to, and processed by, other companies within NLY’s group for the purposes described above in accordance with applicable laws and regulations. The data may also be processed with data from, or shared with, authorities or our partners e.g. for printing and distribution and third party providers of payment or credit card services. NLY always observes the utmost care for such use.
 
-Information Use 
+By approving the policy on the Website in connection with purchases or the provision of personal data, you agree to the transfer of your personal data to countries outside of the EEA. 
 
-Fosheedo may use your identifiable contact information to send you promotional and/or marketing information about products, services and offerings from Fosheedo. Fosheedo reserves the right to perform statistical analyses of user behavior and characteristics, either internally or by sending this data to a third party for further analysis. We do this in order to measure interest in and use of the various areas of our Web sites and to create tailored marketing offerings. We may share this information with advertisers. We may also use this information to let advertisers know how many visitors have seen their banners and how many have clicked on them. Fosheedo will generally provide only aggregated data from these analyses to advertisers; advertisers will not normally be able to identify any individual from these analyses. 
+If the whole or part of the NLY’s business is sold or integrated with another business, your personal data may be provided to our advisors, any potential buyer or the buyer’s advisor and furthermore be provided to the new owner of the business.
 
-Also, you should be aware that Fosheedo may sometimes permit third parties to offer subscription and/or registration-based services through a Fosheedo site. Fosheedo is not responsible for any actions or policies of such third parties, and you should check the applicable privacy policy of any third party when providing personally identifiable information. 
+#### How will we protect your personal data? 
 
-Fosheedo collects IP addresses for system administration, record keeping, and advertising reporting. Your IP address is automatically assigned to your computer when you use the World Wide Web. Fosheedo's servers record incoming IP addresses. The IP addresses are analyzed only in aggregate; no connection is made between you and your computer's IP address. By tracking IP addresses, we can determine which sites refer the most people to Fosheedo. (Think of an IP address like your zip code; it tells us in general terms where you're from.) 
+In order to protect the personal data that we process, we have implemented several security measures. We have implemented security procedures and technical and organisational measures to protect your personal data e.g. certification procedures for web browsers. We furthermore have sufficient firewalls and anti-virus programs in order to protect and prevent unauthorized access to the network. Physical access to the premises where the data is stored is limited and employees are required to be identified in order to gain access. 
 
-You should be very cautious when you voluntarily disclose personal information (for example, name or e-mail address) on bulletin boards, in chat areas, or the upload areas of any Fosheedo site. That information, along with any other information you may disclose in your posting, can be collected, correlated, and used by third parties, and may result in unsolicited messages from other posters or third parties. Such activities are beyond the control of Fosheedo. 
+NLY furthermore uses e.g. SLL (Secure Socket Layer) which is a protocol for the safe transfer of data over the Internet (or other networks). As a customer, you need to check that SLL is not turned off in the settings of the web browser. With the purpose of preventing any unauthorized access upon processing you credit card number, one-way codes will be used. 
 
-Cookies 
+#### How long will my personal data be kept by NLY?
 
-You should be aware that information and data may be automatically collected through the standard operation of Fosheedo's Internet servers or through the use of "cookies." "Cookies" are small text files a Web site can use to recognize repeat users. Fosheedo uses cookies to recognize visitors and more quickly provide personalized content or grant you unimpeded access to registered areas of our Web sites. With cookies enabled, you will not need to fill in password or contact information, should areas of our sites ask for this information. Information gathered through cookies also helps us measure use of our sites. Cookie data allow us to track usage behavior and compile data that we can use to improve the site and target advertising. 
+If you provide your consent to being a registered customer/member with NLY, your data will be kept until you deregister. You may at any time deregister from being a customer. If you do not register as a customer/member, your personal data will be kept only for as long as it is necessary to comply with law or in order for NLY to fulfil its obligations towards you, e.g. to complete delivery or warranty obligations.
 
-Generally, cookies work by assigning a unique number to the user that has no meaning outside of the Web site that he or she is visiting. Sometimes, advertisers or third parties hosting data for Fosheedo will issue cookies. Fosheedo cannot control the use of these cookies or the information that they gather. 
+No matter what, your personal data will never be kept for a period longer than what is permitted in compliance with applicable personal data legislation. 
 
-You can easily turn off cookies. Most browsers have a feature that allows the user to refuse cookies or issues a warning when cookies are being sent. Remember, though, cookies may be necessary to provide you with certain features available on Fosheedo's sites. Some areas of our site may not function properly without cookies. Enabling cookies ensures a smooth, efficient visit to our site. 
+#### Access to, updating and correction of your personal data 
 
-Opting Out 
+In accordance with the applicable personal data legislation, you are entitled, once every calendar year, free of charge, to receive information on which of your personal data is processed by us, regardless of how it has been collected. If you wish to receive such information, you can arrange to do so by making a written request to us. According to the applicable personal data legislation, your request shall be duly signed by you and sent by regular mail, see address given on the Website. Thus, it cannot be sent by e-mail. 
 
-Upon request, Fosheedo will allow any user to opt out of further promotional contacts at any time. Additionally upon request, Fosheedo will use reasonable efforts to allow you to update or correct personal information to the extent that changing the data will not compromise privacy or security interests. Also, upon your request, Fosheedo will use commercially reasonable efforts to functionally delete you and your personal information from our database; however, it may be impossible to delete all of your information without some residual data because of backups and records of deletions. Furthermore, your e-mail address will be added to a suppression list that stops any message directed to you before it leaves Fosheedo. It is your responsibility, however, to make certain that we have your most current e-mail address. 
+NLY wants to ensure that your personal data is correct and updated. If any of the data you provide to NLY is changed, e.g. if you change your e-mail address, name or payment information or if you want to change your user account, please provide NLY with correct details by by sending an e-mail to NLY. You are, at all times, entitled to request that your personal data is corrected, blocked or erased.
 
-Should you wish to opt out of any mailing from Fosheedo or a mailing you received through information provided to a third party affiliate, please contact Fosheedo list maintenance. 
+Your personal data will not be processed for purposes related to direct marketing if you op-pose such processing. You are, at any time, entitled to withdraw any given consent for the processing of personal data. Such withdrawal may be limited to include only part of the processing, for example that which is connected to direct marketing.
 
-Links to Other Sites 
+#### Links
 
-Fosheedo may from time to time offer links to other sites from sites within the Fosheedo domain. Fosheedo has no control over these external sites or their content, and cannot be held responsible for any actions they may take or any information they might collect. You may arrive at one of these sites through clicking on a banner advertisement, as part of a co-branding arrangement, or simply by selecting a link on a Fosheedo web page. These sites might issue their own cookies or collect data or personal information. Use caution when visiting an external site. 
+The Website may contain links to other websites. This Privacy Policy applies only to the Website. When you are being linked to another website, you should read the privacy policy which applies to that website. Please note that NLY is not responsible for the processing of your personal data by or on other websites.
 
-Fosheedo Security Policy 
+#### Amendments to the Privacy Policy
 
-Fosheedo is aware of your privacy concerns and strives to collect only as much data as is required to make your Internet and/or product use experience as efficient and satisfying as possible, in the most unobtrusive manner as possible. 
+NLY reserves the right, at any time, to make amendments to this Privacy Policy to the extent necessary to remedy disturbances or to comply with new legislative or technical requirements. Any amendments to this Privacy Policy will be posted on the Website. 
 
-Consent to Processing in the United States 
+#### Cookies
 
-By providing any personal information to Fosheedo pursuant to this Privacy Policy, all users, including, without limitation, users in the member states of the European Union, fully understand and unambiguously consent to this Privacy Policy and to the collection and processing of such information in the United States of America. 
+We use so called cookies on the NLY’s Website. Cookies are small text files that are saved on your computer and that our web server uses to provide you with access to some of the functions available on the Website. 
 
-The foregoing policies are effective as of July 11, 2003. Fosheedo reserves the right to change this policy at any time. By using our site, you signify your assent to the Fosheedo Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Fosheedo sites and products following the posting of changes to these terms will mean you accept those changes. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+There are two main types of cookies: 1) a saved cookie (permanent cookie) which remains on your computer for a determined period of time, 2) a temporary cookie (session cookie) which is stored temporarily in the computer’s memory during the time that you are visiting a website. Session cookies disappear when you close your web browser.
+
+NLY uses cookies to improve the Website for customers e.g. by adapting the Website with regards to the customers’ wishes, choices and interests, help you keep track of which products have been put into your shopping cart and to handle you purchase, make sure that the visitor has logged into the Website so that the customer does not have to log in every time he/she browses a different page, to adjust our services to make sure that you receive advertising which is relevant for you and in order for us to fulfill our obligations in relation to a purchase. 
+
+Permanent cookies are being used, among other things, to store any personal settings at NLY e.g. to make sure that you do not need to redo certain choices made every time you visit the Website and to adapt and make information and marketing as relevant for you as possible. Temporary cookies are being used, among other things, for the purpose of registering statistics for the use of the Website.
+
+By accepting NLY’s general conditions and/or this privacy policy and by using NLY’s Web-site, you agree to the processing of cookies as described above. If you do not accept cookies being used, you can turn off cookies in the security settings of your web browser. You can also set your web browser to ask you each time NLY’s Website tries to place a cookie on your computer. You can also use your web browser to delete previously stored cookies. See your web browser’s help pages for more information. Furthermore, you can at any time delete cookies manually from your hard drive.
+
+Please note that if you choose not to accept cookies, functionality may be limited for some parts of the website and the website may not work as intended, e.g. you will not be able to make a purchase online. 
