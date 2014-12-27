@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damnpicz.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331074036id_/http%3A//damnpicz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnpicz.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227033718id_/http%3A//damnpicz.com/privacy) for the most accurate reproduction.*
 
 # DamnPicz » privacy
 
