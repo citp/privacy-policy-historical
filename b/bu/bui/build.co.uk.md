@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build.co.uk privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622100301id_/http%3A//www.build.com/index.cfm%3Fpage%3Dsupport%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build.co.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227063734id_/http%3A//www.build.com/index.cfm%3Fpage%3Dsupport%3Asecurity) for the most accurate reproduction.*
 
 # What Makes Build.com So Secure?
 
@@ -60,6 +60,8 @@ Information about our customers is an important part of our business, and we are
 ## What About Third-Party Advertisers and Links to Other Websites?
 
 Our site includes third-party advertising and links to other Web sites. Infomation about your browsing behaviour may be collected and used to provide more relevant ads to you. Like other online ad networks, we use cookies, web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, “cookies”). Cookies enable us to learn about what ads you see, what ads you click, and other actions you take on our sites and other sites. This allows us to provide you with more useful and relevant ads. For example, if we know what ads you are shown we can be careful not to show you the same ones repeatedly. We do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads. 
+
+If you wish to opt out from receiving interest-based advertising, [click here](http://www.aboutads.info/choices) and follow the instructions. Please note, because our opt-out is cookie-based, your browser must be set to accept third party cookies. 
 
 ## Conditions of use, notices, and revisions
 
