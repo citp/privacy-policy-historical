@@ -1,0 +1,74 @@
+> *The following text is extracted and transformed from the puregrowndiamonds.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227112947id_/http%3A//www.puregrowndiamonds.com/privacy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+
+
+
+_Last Update: October 6, 2014_
+
+  1. **Introduction.**  
+Welcome to Pure Grown Diamonds. We appreciate your business and are pleased that you have chosen to visit our website. We are committed to respecting and safeguarding the information you provide to us in the course of your interactions with our site. Because the privacy of our customers’ information is important to us, we have created the following Privacy Policy. The information provided below is designed to explain 1) what kinds of information we collect; 2) why we collect it; and 3) what we do with it. Please also review our [Terms of Use](https://web.archive.org/terms), into which this Policy is incorporated.
+
+By submitting personal information, you give us your consent to collect, use, and disclose your information in accordance with the terms set forth in this Policy. If you have questions about, or would like to discuss, this policy or concerns you might have about it, please contact our Legal Compliance Officer, via telephone at (646) 652-8927, or via email at complianceofficer@puregrowndiamonds.com.
+
+    1. Updates.   
+Pure Grown Diamonds may, from time to time, update this Privacy Policy. We encourage visitors to check the word “Updated” above, which will always reflect the date of the most recent revisions to this Policy. Use of this site constitutes consent to this Policy, including any updates or changes. Such updates or changes may include additional features, functionality, offers, activities, or events. Such additions may subject visitors and users to new or altered privacy policies in connection with those updates.
+
+You will be deemed to have agreed to the revisions to this policy if you continue to access this site after the passage of thirty (30) days from the time the revised Privacy Policy is first posted. It will be your responsibility to review this page for possible modifications.
+
+    2. International Data Transfers.  
+Information collected on this site may be stored and processed in the United States or any other country in which Pure Grown Diamonds or its affiliates, subsidiaries or agents maintain facilities. By using this site, you consent to any such transfer of information outside of your country. Pure Grown Diamonds will abide by the safe-harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data. By using the site and providing personal information to us, you consent to any such transfer of information outside of your country. Be advised that personal information may be made available, without your knowledge, to the United States government or its agencies, or those of governments in any other country in which we or our service providers store or process personal information, under a lawful order made in that country.
+  2. **Collection and Use of Information.**  
+
+    1. In General.  
+You may browse our website without revealing your identity or disclosing any information about yourself. On occasion, you may elect to provide us with personal information. We receive and may elect, at our sole discretion, to store all information, written or oral, provided by you to us, through any means by which you provide it to us (e.g., through this website, via email, over the telephone). For purposes of this Policy “personal information” is defined as any information used to identify an individual. Such information may include, but is not limited to, a first and last name; home, billing, or other physical address, or email address; and information associated with the foregoing. In addition to your contact information, we may collect information about your purchases, billing address, shipping address, gender, occupation, birthday, marital status, anniversary, interests, phone number or other contact information, and credit-card information. We may, in our sole discretion, combine the information you provide to us over time and we may combine such information with information that is publicly available, collected through data collection devices, and information that we receive from partners, affiliates, and other third parties. 
+    2. Use Of Your Personal Information.  
+Uses of information we collect from and/or about you may include, but are not necessarily limited to:
+      1. Facilitating purchases and providing requested services;
+      2. Order confirmation and tracking;
+      3. Responding to requests and inquiries;
+      4. Comparing and reviewing your data for accuracy, errors, or omissions;
+      5. Detecting and preventing fraud or abuse;
+      6. Understanding customer demographics, preferences, interests, and behavior;
+      7. Identifying and addressing your product and service preferences;
+      8. Making improvements to our site, services, product offerings, marketing and promotional efforts, and customer experiences in general;
+      9. Providing you with information, via e-mail, telephone, or conventional mail, regarding products or services of Pure Grown Diamonds, which we believe to be of interest to you. (If you do not wish to be contacted by us, please see our Opt-out information below, in Section 8 of this Policy.)
+    3. Personal Information That May Be Shared With Others.  
+Under certain circumstances, we may elect to share personal information you have provided to us with trusted partners, including:
+      1. **Service Providers** – We may, from time to time, use trusted, third-party service providers to perform certain tasks on our behalf, which may include but are not limited to: payment processing, shipping, data storage and/or management, web hosting, web analytics, fulfillment, assembly, marketing, mailing, emailing, etc. Such providers receive personal information only in instances where such information is needed to perform their function(s); they are not authorized to use any personal information for any purpose(s) other than those set forth by Pure Grown Diamonds.
+      2. **Special Events** – If we offer, and you elect to participate, in a special event (e.g., a promotion, contest, or sweepstakes), Pure Grown Diamonds may share your personal information with those organizations participating in such an event. Unless we tell you otherwise in connection with a special event, these third parties do not use your information for any other purpose other than to manage the event.
+      3. **Partners; Products & Services** – Pure Grown Diamonds may provide information to carefully selected partners. We may authorize these partners to send you information about products and services that we believe may be of interest to you. In such cases, we might share and/or cross-reference information, including personal information about you that will enable such persons or entities to contact you regarding products and services, like financing or insuring Pure Grown Diamonds purchases, that may be of interest to you.
+      4. **Business Transfer** – Your personal information may be disclosed as part of any merger, acquisition, or sale of company assets, as well as in the event of an insolvency, bankruptcy, or receivership, in which personal information would be transferred as one of the business assets of the company.
+      5. **Compliance With Law; Fraud Protection** – We may, and you authorize us to, use and disclose any information, including personal information: (1) we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process, or governmental request; (2) in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law; (3) to other companies and organizations for credit fraud protection and risk reduction; and (4) to enforce any agreement we have with you.
+    4. Anonymous Information  
+We may use personal information to create anonymous records by excluding information (e.g., your name) that makes the information personally identifiable. We may use these records for internal purposes (e.g., analyzing usage patterns to help us enhance our services); we also reserve the right to use and disclose any information in such records at our discretion. 
+    5. Comments  
+We value your feedback, including comments and testimonials, and any information that helps us improve our website, products, and services. Any comments, feedback or testimonials you supply will be used on our website, social media networks, and in print advertising.
+  3. **Other Uses of Your Information.**
+    1. IP Address.  
+When you visit our site, we collect your IP address for reasons that include: helping to diagnose problems with our server, administering and fine-tuning our site’s operation, analyzing trends, tracking traffic patterns, gathering and aggregating demographic information, and tracking the time and duration of each session within our site. Your IP address may also be used in combination with your personal information to prevent fraud or abuse, understand your preferences, patterns and interests, customize your shopping experience, and make improvements to our site, customer service, products, and promotional efforts.
+    2. Data Collection Devices, Including Cookies.   
+In some instances, we may collect data through cookies, web logs, web beacons (also known as pixel gifs or action tags), and other monitoring technologies to enhance your browsing and shopping experience on our site. Web beacons are small strings of code placed on a web page or within an email for the purpose of transferring information. “Cookies” are small pieces of information that are stored by your browser on your computer's hard drive to collect information about your activities on our site.
+
+We use such devices to deliver advertisements, improve and measure usability, track visits from affiliates and partners, evaluate the performance and effectiveness of our site, improve and measure the effectiveness of our marketing programs, learn how customers use our site, estimate audience size, deliver co-branded services, and to customize your shopping experience. We may also use cookies as a means of notifying returning users of changes to the Terms of Use and/or Privacy Policy since their last visit.
+
+Examples of the type of information that we collect through these collection devices, include: total visitors to the site, pages viewed, unique visitors, time spent on our site and on certain pages.  We may authorize third parties to use cookies, web beacons, and other monitoring technologies to compile information about the use of the site or interaction with advertisements that appear on the site.  You may, if your browser permits, always decline cookies; however, by declining the use of cookies, you may be unable to use certain features on the site. 
+
+  4. **Security.**  
+Pure Grown Diamonds takes seriously the protection of any personally identifiable information that you share with us. We employ a combination of physical and electronic security technologies, procedures, and organizational measures to help protect your personally identifiable information from unauthorized access, use, or disclosure. When we transfer sensitive personal information (e.g., credit card information) over the Internet, we protect it using Secure Sockets Layer (SSL) encryption technology. While we strive to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure and, accordingly, we cannot guarantee or warrant the security of any information you disclose or transmit to us. 
+  5. **Children Under 13.**   
+Pure Grown Diamonds does not knowingly collect personal information from children under the age of 13. If we learn that we have collected personally identifiable information from a child under the age of 13, we will delete that data from our systems. Please visit the Federal Trade Commission’s (FTC’s) website at [www.ftc.gov](http://www.ftc.gov/) for tips on protecting children's privacy online. 
+  6. **Links.**  
+Our site may provide links to other third-party sites which are outside our control and not covered by this Policy. We encourage you to review the privacy policies posted on these (and all) websites. 
+  7. **Accessing and Updating Your Information.**  
+If the personally identifiable information we have gathered from you changes or you would like to access, correct, or delete such information, we will gladly provide you access to, correct, or delete (to the extent allowed by law) any personal information we have collected about you. To request access to, a correction to, or the deletion of your personal information, please send an e-mail to [customerservice[at]puregrowndiamonds.com](mailto:customerservice@puregrowndiamonds.com) or contact one of our customer-service representatives at (866) 799-8885.
+  8. **Opting Out.**  
+It is our policy to communicate with you only if you want and choose to hear from us. There are two methods by which you may opt out of receiving email promotions that we send you: (1) by sending an email to [customerservice[at]puregrowndiamonds.com](mailto:customerservice@puregrowndiamonds.com) with the word "Unsubscribe" in the subject line, or by following the unsubscribe instructions in any of our promotional emails; or (2) via a “postal request,” by writing to Customer Service at 28 W. 44th St., Suite 1204, New York City, NY 10036. To opt out of telephone promotions, you can tell us when we call you or you can send us a postal request. To opt out of postal mail promotions, please send us a postal request.
+
+Please note: Opting out of receiving promotional communications from us does not affect our communications with you via telephone or email related to your orders with us. It also does not affect our use of your non-personally identifiable information. 
+
+  9. **California Resident Information Sharing.**   
+Any California resident who wishes to receive a copy of our notice describing the categories of personal information we share with third parties or corporate affiliates for direct-marketing purposes, as well as the names and addresses of the third parties and affiliates that received our California customers’ information in the past year, may submit a written request to: 28 W 44th St # 1204, New York, NY 10036, USA, ATTN: California Privacy. You may submit one (1) such a request per year. Please allow up to thirty (30) days for us to process your request.
+
+
