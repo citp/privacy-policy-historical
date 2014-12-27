@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nookpress.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610000405id_/http%3A//www.barnesandnoble.com/help/cds2.asp%3FPID%3D25560) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nookpress.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227205705id_/http%3A//www.barnesandnoble.com/help/cds2.asp%3FPID%3D25560) for the most accurate reproduction.*
 
 # Privacy Policy - Barnes & Noble
 
