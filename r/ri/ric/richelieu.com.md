@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the richelieu.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506133448id_/http%3A//www.richelieu.com/filiales/RC/html/SecuriteAn.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richelieu.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227124226id_/http%3A//www.richelieu.com/filiales/RC/html/SecuriteAn.html) for the most accurate reproduction.*
 
-# Richelieu.com Web Site Security and Privacy Policy
+# Web Site Security and Privacy Policy
 
 **Richelieu.com Web Site**  
- **Security and Privacy Policy**
+**Security and Privacy Policy**
 
 This Security and Privacy Policy demonstrates our commitment to protect your personal information while you are using the Richelieu Hardware Ltd web site ("Richelieu Hardware") and to ensure that the order confirmation process is secure.
 
