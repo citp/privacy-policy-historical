@@ -1,56 +1,175 @@
-> *The following text is extracted and transformed from the theurbanlist.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025104732id_/http%3A//theurbanlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theurbanlist.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227050213id_/http%3A//www.theurbanlist.com/melbourne/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Urban List
+# Privacy | The Urban List
 
-[www.theurbanlist.com](http://www.theurbanlist.com/ "www.theurbanlist.com") (the website) is owned and operated by Urban List Pty Ltd (ABN 98 430 960 808). This Privacy Policy details the care with which we handle any personal information you supply to us. It should be read in conjunction with the website’s Terms and Conditions which are available [**here**](http://www.theurbanlist.com/terms). By visiting TheUrbanList.com, you are deemed to have accepted the policies outlined below.
+**1) PURPOSE OF OUR POLICY**
 
-The Urban List is entitled, at our sole discretion, to amend, add or remove any part of this Privacy Policy at any time without notice. To ensure that you’re aware of any amendments, additions or deletions, please review this policy periodically.
+1.1 The Urban List ABN 56 349 266 482 (we, us or our) provides the services offered through theurbanlist.com and other sites (The Urban List).
 
-## Collection of Personal Information
+1.2 We have adopted this Privacy Policy to ensure that we have standards in place to protect the Personal Information that we collect about individuals that is necessary and incidental to:
 
-The Urban List only collects information about you that you elect to provide to us (e.g. during the registration process, or when you add businesses to your list of favourites).
+(a) Providing the system and services that The Urban List offers; and
 
-We may automatically record other information provided by your web browser as well, in order to provide you with a better Urban List experience. Information that is automatically collected may include your domain name (the web address after the @ symbol in your email); the IP address used to connect to the Internet; the average time spent on our website; the number of pages you view and the time you view them for; search terms you use to find us; and the websites you visit before landing on our site. The amount of information collected depends on the settings of your web browser. We use Google Analytics to supply this information.
+(b) The normal day-to-day operations of our business.
 
-## Cookies
+1.3 This Privacy Policy follows the standards of the Australian Privacy Principles set by the Australian Government for the handling of Personal Information under the Privacy Act 1988 (Cth) (Privacy Act).
 
-We also track patterns of website usage through “cookies”, which identify and recognise individual computers (as opposed to the person using the computer) that visit TheUrbanList.com. Cookies are pieces of information that a website transfers to the hard drive of a visitor's computer for record-keeping purposes. These cookies will enhance your Urban List experience by storing information about your preferences. Most major websites use cookies and the majority of internet browsers are pre-set to accept them. However, if you prefer not to receive cookies you can disable them within your computer’s browser preferences.
+1.4 By publishing this Privacy Policy we aim to make it easy for our customers and the public to understand what Personal Information we collect and store, why we do so, how we receive and/or obtain that information, and the rights an individual has with respect to their Personal Information in our possession.
 
-## Use and disclosure of personal information
+**2) WHO AND WHAT THIS POLICY APPLIES TO**
 
-Personal information that we collect may be used to provide you with relevant content, products and services; to collect payments; to administer your account; to supply updated or new information about our website or the products and services contained within; or to promote our business and other local businesses to you.
+2.1 Our Privacy Policy deals with how we handle “personal information” as it is defined in the Privacy Act (Personal Information).
 
-On occasion, we will be required to disclose some of your personal information to third party organisations, including outsourced service providers; legal, accounting, financial or other professional advisors; regulatory, government and other authorities as required by law; and our related organisations.
+2.2 We handle Personal Information in our own right and also for and on behalf of our customers and users.
 
-Information that we collect from your web browser will be used to enhance your Urban List experience, enabling us to provide personalised content that is tailored to your needs. By analysing visitor patterns, we are able to identify the areas of our website that are popular and working well, versus those that need improvement. All data gathered about website usage is aggregated, with personally identifiable characteristics removed so that users remains anonymous.
+2.3 Our Privacy Policy does not apply to information we collect about businesses or companies, however it does apply to information about the people in those businesses or companies which we store. 
 
-We will not use your personally identifiable information or data for a purpose other than the purposes for which you supplied it, unless:
+2.4 The Privacy Policy applies to all forms of information, physical and digital, whether collected or stored electronically or in hardcopy.
 
-  * The information is necessary to conduct a transaction between you and that person or organisation and that transaction has been requested by you; or
-  * We are required by law to do so; or
-  * There are reasonable grounds to believe that disclosure is necessary to prevent a threat to life or health; or
-  * That person or organisation is providing a service to TheUrbanList.com, in which case they will be required to maintain the same or similar privacy principles as specified in privacy legislation; or
-  * We find that your actions on the website breach the Terms and Conditions; or
-  * You have given us consent to do so.
+2.5 If, at any time, an individual provides Personal Information or other information about someone other than himself or herself, the individual warrants that they have that person's consent to provide such information for the purpose specified.
 
+2.6 Our website and services are unavailable to children (persons under the age of 18 years).  If an individual is under 18 years of age, they can only use our website and services under the supervision of a parent or guardian.
 
+**3) THE INFORMATION WE COLLECT**
 
-You have the right to access personal information we have collected about you, subject to restrictions provided by law. We do our best to keep this information as accurate as possible, but you may notify us at any time that you want to change the information held. Please email us at [**i** **nfo@theurbanlist.com**](mailto:info@theurbanlist.com?subject=Privacy%20Policy) with “Privacy Policy” in the subject line if you wish to access or update personal information held about you. We reserve the right to charge a reasonable fee for access to this information. If we do not allow you to access the personal information we hold about you, we will provide you with a reason for our denial and the opportunity to respond.
+3.1 In the course of business it is necessary for us to collect Personal Information. This information allows us to identify who an individual is for the purposes of our business, share Personal Information when asked of us, contact the individual in the ordinary course of business and transact with the individual.  Without limitation, the type of information we may collect is:
 
-## Security
+(a) Personal Information.  We may collect personal details such as an individual’s name, location, date of birth, nationality, family details and other information defined as “Personal Information” in the Privacy Act that allows us to identify who the individual is;
 
-The Urban List will take reasonable steps to ensure the security of any information you provide to us. We will also take reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose for which the information may be used or disclosed.
+(b) Contact Information.  We may collect information such as an individual’s email address, telephone & fax number, third-party usernames, residential, business and postal address and other information that allows us to contact the individual;
 
-## Links to other sites
+(c) Financial Information.  We may collect financial information related to an individual such as any bank or credit card details used to transact with us and other information that allows us to transact with the individual and/or provide them with our services;
 
-The Urban List will provide access to other sites beyond our website, accessible by clicking on links throughout the site. The Urban List is not responsible for the privacy policies and practices of other websites. We recommend that you seek out the privacy policies of these sites to establish the way in which they collect and use your personal information.
+(d) Statistical Information.  We may collect information about an individual’s online and offline preferences, habits, movements, trends, decisions, associations, memberships, finances, purchases and other information for statistical purposes; and
 
-## Children's privacy
+(e) Information an individual sends us.  We may collect any personal correspondence that an individual sends us, or that is sent to us by others about the individual’s activities.
 
-TheUrbanList.com is not designed for, or directed at children and all people under the age of 18 must obtain the consent of their parents or legal guardians before using or submitting any information to our website. We understand the importance of protecting children’s privacy, particularly in online environments, and will adhere to this Privacy Policy in respect of any information submitted by minors. However, the primary responsibility rests on parents and guardians to properly supervise their children’s use of this website.
+3.2 We may collect other Personal Information about an individual, which we will maintain in accordance with this Privacy Policy.
 
-## More information about privacy
+3.3 We may also collect non-Personal Information about an individual such as information regarding their computer, network and browser.  This may include their IP address. Where non-Personal Information is collected the Australian Privacy Principles do not apply.
 
-TheUrbanList.com is a highly interactive website, and we suggest that you use your discretion when providing personally identifiable information in business reviews, A List comments, Urban Forum questions and answers, photo and video uploads etc. Please keep in mind that whenever you post personally identifiable information in a public forum, you may receive unsolicited messages from other parties. Ultimately, you are solely responsible for the amount of personal information you reveal in a public forum, and you are also responsible for maintaining the secrecy of your username, password and any account information. Please be careful, courteous and responsible.
+**4) HOW INFORMATION IS COLLECTED**
 
-More information about privacy issues in Australia is available at [www.privacy.gov.au](http://www.privacy.gov.au/ "www.privacy.gov.au").
+4.1 Most information will be collected in association with an individual’s use of The Urban List, an enquiry about The Urban List or generally dealing with us.  However we may also receive Personal Information from sources such as advertising, an individual’s own promotions, public records, mailing lists, contractors, staff, recruitment agencies and our business partners.  In particular, information is likely to be collected as follows:
+
+(a) Registrations/Subscriptions.  When an individual registers or subscribes for a service, list, account, connection or other process whereby they enter Personal Information details in order to receive or access something, including a transaction;
+
+(b) Accounts/Memberships.  When an individual submits their details to open an account and/or become a member with us;
+
+(c) Supply.  When an individual supplies us with goods or services;
+
+(d) Contact.  When an individual contacts us in any way;
+
+(e) Access.  When an individual accesses us physically we may require them to provide us with details for us to permit them such access.  When an individual accesses us through the internet we may collect information using cookies (if relevant – an individual can adjust their browser’s setting to accept or reject cookies) or analytical services; and/or
+
+(f) Pixel Tags. Pixel tags enable us to send email messages in a format customers can read and they tell us whether mail has been opened.
+
+4.2 As there are many circumstances in which we may collect information both electronically and physically, we will endeavour to ensure that an individual is always aware of when their Personal Information is being collected.
+
+4.3 Where we obtain Personal Information without an individual’s knowledge (such as by accidental acquisition from a client) we will either delete/destroy the information, or inform the individual that we hold such information, in accordance with the Australian Privacy Principles. 
+
+**5) WHEN PERSONAL INFORMATION IS USED & DISCLOSED**
+
+5.1 In general, the primary principle is that we will not use any Personal Information other than for the purpose for which it was collected other than with the individual’s permission.  The purpose of collection is determined by the circumstances in which the information was collected and/or submitted.
+
+5.2 We will retain Personal Information for the period necessary to fulfil the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+5.3 It may be necessary for us to disclose an individual’s Personal Information to third parties in a manner compliant with the Australian Privacy Principles in the course of our business.
+
+5.4 We will not disclose or sell an individual’s Personal Information to unrelated third parties under any circumstances.
+
+5.5 Information is used to enable us to operate our business, especially as it relates to an individual.  This may include:
+
+(a) The provision of goods and services between an individual and us;
+
+(b) Verifying an individual’s identity;
+
+(c) Communicating with an individual about:
+
+i Their relationship with us;
+
+ii Our goods and services;
+
+iii Our own marketing and promotions to customers and prospects;
+
+iv Competitions, surveys and questionnaires;
+
+(d) Investigating any complaints about or made by an individual, or if we have reason to suspect that an individual is in breach of any of our terms and conditions or that an individual is or has been otherwise engaged in any unlawful activity; and/or 
+
+(e) As required or permitted by any law (including the Privacy Act). 
+
+5.6 There are some circumstances in which we must disclose an individual’s information:
+
+(a) Where we reasonably believe that an individual may be engaged in fraudulent, deceptive or unlawful activity that a governmental authority should be made aware of;
+
+(b) As required by any law (including the Privacy Act); and/or
+
+(c) In order to sell our business (in that we may need to transfer Personal Information to a new owner).
+
+5.7 We will not disclose an individual’s Personal Information to any entity outside of Australia that is in a jurisdiction that does not have a similar regime to the Australian Privacy Principles or an implemented and enforceable privacy policy similar to this Privacy Policy. We will take reasonable steps to ensure that any disclosure to an entity outside of Australia will not be made until that entity has agreed in writing with us to safeguard Personal Information as we do.
+
+5.8 We may utilise third-pay service providers (such as Gmail from Google, Inc., and MailChimp from The Rocket Science Group LLC) to communicate with an individual and to store contact details about an individual. These service providers are located in the United States of America.
+
+**6) OPTING “IN” OR “OUT”**
+
+6.1 An individual may opt to not have us collect their Personal Information.  This may prevent us from offering them some or all of our services and may terminate their access to some or all of the services they access with or through us.  They will be aware of this when:
+
+(a) Opt In.  Where relevant, the individual will have the right to choose to have information collected and/or receive information from us; or
+
+(b) Opt Out.  Where relevant, the individual will have the right to choose to exclude himself or herself from some or all collection of information and/or receiving information from us.
+
+6.2 If an individual believes that they have received information from us that they did not opt in or out to receive, they should contact us on the details below. 
+
+**7) THE SAFETY & SECURITY OF PERSONAL INFORMATION**
+
+7.1 We may appoint a Privacy Officer to oversee the management of this Privacy Policy and compliance with the Australian Privacy Principles and the Privacy Act.  This officer may have other duties within our business and also be assisted by internal and external professionals and advisors.
+
+7.2 We will take all reasonable precautions to protect an individual’s Personal Information from unauthorised access.  This includes appropriately securing our physical facilities and electronic networks.
+
+7.3 The security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed.  Each individual that provides information to us via the internet or by post does so at their own risk.  We cannot accept responsibility for misuse or loss of, or unauthorised access to, Personal Information where the security of information is not within our control.
+
+7.4 We are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose an individual’s Personal Information to in accordance with this policy or any applicable laws).  The collection and use of an individual’s information by such third parties may be subject to separate privacy and security policies.
+
+7.5 If an individual suspects any misuse or loss of, or unauthorised access to, their Personal Information, they should let us know immediately. 
+
+7.6 We are not liable for any loss, damage or claim arising out of another person’s use of the Personal Information where we were authorised to provide that person with the Personal Information.
+
+**8) HOW TO ACCESS AND/OR UPDATE INFORMATION**
+
+8.1 Subject to the Australian Privacy Principles, an individual has the right to request from us the Personal Information that we have about them, and we have an obligation to provide them with such information within 28 days of receiving their written request.
+
+8.2 If an individual cannot update his or her own information, we will correct any errors in the Personal Information we hold about an individual within 7 days of receiving written notice from them about those errors.
+
+8.3 It is an individual’s responsibility to provide us with accurate and truthful Personal Information. We cannot be liable for any information that is provided to us that is incorrect.
+
+8.4 We may charge an individual a reasonable fee for our costs incurred in meeting any of their requests to disclose the Personal Information we hold about them.
+
+**9) COMPLAINTS AND DISPUTES**
+
+9.1 If an individual has a complaint about our handling of their Personal Information, they should address their complaint in writing to the details below.
+
+9.2 If we have a dispute regarding an individual’s Personal Information, we both must first attempt to resolve the issue directly between us.
+
+9.3 If we become aware of any unauthorised access to an individual’s Personal Information we will inform them at the earliest practical opportunity once we have established what was accessed and how it was accessed.
+
+**10) CONTACTING INDIVIDUALS**
+
+10.1 From time to time, we may send an individual important notices, such as changes to our terms, conditions and policies. Because this information is important to the individual’s interaction with us, they may not opt out of receiving these communications.
+
+**11) CONTACTING US**
+
+11.1 All correspondence with regards to privacy should be addressed to:
+
+The Privacy Officer
+
+The Urban List
+
+privacy@theurbanlist.com
+
+You may contact the Privacy Officer by email in the first instance.
+
+**12) ADDITIONS TO THIS POLICY**
+
+12.1 If we decide to change this Privacy Policy, we will post the changes on our webpage at www.theurbanlist.com. Please refer back to this Privacy Policy to review any amendments.
+
+12.2 We may do things in addition to what is stated in this Privacy Policy to comply with the Australian Privacy Principles, and nothing in this Privacy Policy shall deem us to have not complied with the Australian Privacy Principles.
