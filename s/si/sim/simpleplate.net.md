@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleplate.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627113409id_/http%3A//simpleplate.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleplate.net privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227072750id_/http%3A//simpleplate.net/privacy) for the most accurate reproduction.*
 
 # Privacy - Simple Plate ®
 
@@ -23,12 +23,20 @@ When visiting Simple Plate, the IP address used to access the site will be logge
 
 **When we use third-party advertising companies to serve ads when you visit our Web site, these companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)**
 
+We may use advertising service vendors to help present advertisements on the website, one of which is [http://www.gourmetads.com](http://www.gourmetads.com/).
+
+**Opt Out**
+
+For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+
+If you believe that any information we are holding on you is incorrect or incomplete, please [contact us](http://simpleplate.net/contact-us/ "contact us").
+
 **Links to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of Simple Plate then you may [contact us](http://simpleplate.net/contact-us/ "contact us") at privacy@simpleplate.net
+If you have any questions regarding the privacy policy of Simple Plate then you may contact us at privacy@simpleplate.net
 
-Last updated Mon, 04 Oct 2010 15:40
+Last updated Mon, 04 Oct 2014 15:40
