@@ -1,2875 +1,653 @@
-<!--The following is the downloaded HTML source of the infineon.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630013450id_/http%3A//www.infineon.com/cms/en/corporate/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infineon.com privacy policy that was archived on 2014-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227202958id_/http%3A//www.infineon.com/cms/en/about-infineon/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
+				<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+	var functionToInit = [];
 	
-    <meta name="area" content="">
-	<title>Privacy Policy - Infineon Technologies</title>
-
-
-
-
-
-
-
-
-
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<meta http-equiv="content-language" content="en">
-	<meta http-equiv="content-style-type" content="text/css">
-	<meta http-equiv="imagetoolbar" content="no">
-	<meta name="copyright" content="Copyright Infineon Technologies AG - all rights reserved">
-	<meta name="publisher" content="Infineon Technologies AG">
-	<meta name="author" content="Infineon Technologies AG">
-	<meta name="producer" content="virtual identity AG | http://www.virtual-identity.com">
-	<meta name="robots" content="index,follow">
+	var initialDeviceWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
 	
-	
-	<meta http-equiv="expires" content="-1">
-	<meta http-equiv="pragma" content="no-cache">
-	<meta http-equiv="Cache-Control" content="no-store">
-	<meta http-equiv="Cache-Control" content="no-cache">
-
-
-
-
-
-
-	
-	
-		<link rel="stylesheet" type="text/css" media="screen,projection" href="/export/system/modules/com.virtualidentity.infineon.frontend/resources/css/import/combined.min.css?cv=2014-06">
-	
-	<!--[if lte IE 7]>
-	<link rel="stylesheet" type="text/css" media="screen,projection" href="/export/system/modules/com.virtualidentity.infineon.frontend/resources/css/styles_ie.css" />
-	<![endif]-->
-	<link rel="stylesheet" type="text/css" media="print" href="/export/system/modules/com.virtualidentity.infineon.frontend/resources/css/print.css">
-	<link rel="shortcut icon" type="image/ico" href="/export/system/modules/com.virtualidentity.infineon.frontend/resources/img/favicon.ico">
-	<script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" src="/export/system/modules/com.virtualidentity.infineon.frontend/resources/js/combined.min.js?cv=2014-06"></script>
-	
-	<script type="text/javascript"><!--
-	var _elqQ = _elqQ || [];
-	_elqQ.push(['elqSetSiteId', '1968580696']);
-	_elqQ.push(['elqTrackPageView']);
-	(function () {
-	function async_load()
-	{ var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//img.en25.com/i/elqCfg.min.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore (s, x); }
-	if (window.addEventListener) window.addEventListener('DOMContentLoaded',
-	async_load, false);
-	else if (window.attachEvent) window.attachEvent('onload', async_load);
-	})();
-	
-	/*
-	 * eloqua tracking methods to track PDF downloads and Buy Button usage
-	 */
-	var elqSiteId = '1968580696';
-	var elqEmailAddress = null;
-	
-	function elqTrackClick(type, obj, title) {
-		// generate virtual page view url - e.g. /download/Automotive_Mosfet-2010-BR.pdf
-		var vpv = '/' + type + '/' + title;
-		vpv = vpv.replace(/[: ]/g, '-');
-		vpv = 'http://www.infineon.com' + vpv + '.html'; // append .html to enable Page Tagging this URL within Eloqua;
-		
-		_elqQ.push(['elqTrackPageView', vpv]);
-		
-		if (type == 'download') {
-			elqFormSubmit('dl=' + title, 'dl-url=' + (obj.href == null ? '' : obj.href));
-		}
+	if(sessionStorage['switchViewportWidth'] >= 1024 && initialDeviceWidth < 1024) {
+		var switchViewport = 1024;
+	} else if(sessionStorage['switchViewportWidth'] < 1024 && initialDeviceWidth >= 1024) {
+		var switchViewport = 1023;
+	} else if(sessionStorage['switchViewportWidth'] != null) {
+		sessionStorage.removeItem('switchViewportWidth');
 	}
 	
-	function elqTrackBuyOrRequest(obj, propVals) {
-	// generate virtual page view url - e.g. /buy-button/automotive-ics/automotive-mosfets/single_n-channel-30v-mosfets/IPD70N03S4L-04
-	// automotive ics___automotive mosfets___single: n-channel 30v mosfets|IPD70N03S4L-04|ff80808112ab681d0112ab6e94791c00	Tracked PageView:	
-	
-		var vals = propVals.split('|');
-		var vpv = vals[0];
-		vpv = vpv.replace(/[: ]/g, '-');
-		vpv = vpv.replace(/___/g, '/');
-		vpv += '/' + vals[1];
-		vpv = 'http://www.infineon.com/buy-button/' + vpv + '.html'; // append .html to enable Page Tagging this URL within Eloqua;
-	
-		_elqQ.push(['elqTrackPageView', vpv]);
-		
-		elqFormSubmit('pr=' + vals[0] + '|' + vals[1], 'pr-url=' + window.location.href);
-	}
-	
-	function elqFormSubmit(p1, p2)
-	{
-		// console.log('elqFormSubmit: ' + p1 + ' - ' + p2);
-	
-		if (elqEmailAddress) {
-				// generate form submit url
-			var url = 'http://app.infineon-community.com/e/f2?elqFormName=1385466763381&elqSiteID=' + elqSiteId + '&e=' + elqEmailAddress;
-			url += '&' + p1;
-				url += '&' + p2;
-	
-			url += '&ts=' + ((new Date).getTime());
-	
-			//console.log('elqFormSubmit: url = ' + url);
-	
-			var i = document.createElement("img");
-			i.src = url;
-		}
-		
-	}
-	
-	/*
-	 * eloqua tracking, retrieve the visitors Email Address if available through the Eloqua VisitorWebDataLookup
-	 * and lookup some detail fields for this contact.
-	 */
-	try {
-		var LookupVisitorId = '5dab0bea89264b76bb1923c5e964e2e4';
-		_elqQ.push(['elqDataLookup', escape(LookupVisitorId), '']);
-		var FirstLookup = true;
-		function SetElqContent() {
-			try {
-				var nc = false;
-				if (FirstLookup) {
-					elqEmailAddress = GetElqContentPersonalizationValue('V_ElqEmailAddress');
-
-		document.getElementById('EmailAddressFromCookie').innerHTML = elqEmailAddress;
-
-					if(elqEmailAddress) {
-						// A subsequent elqDataLookup could be initiated here
-						// var LookupVisitorId2 = '@@WEB_DATA_LOOKUP_ID@@';
-						//	_elqQ.push(['elqDataLookup', escape(LookupVisitorId2), '<C_EmailAddress>' + elqEmailAddress + '</C_EmailAddress>']);
-					 } else {
-						// Email Address not retrieved - handle here, if required
-					 }
-					FirstLookup = false;
-				} else {
-					// using GetElqContentPersonalizationValue('@@WEB_DATA_LOOKUP_VALUE@@') do something with the response
-				}
-	}
-			catch (elq_content_err) {
-			// ERROR HANDLING - IF REQUIRED AT ALL
+	if(switchViewport) {
+		if ( sessionStorage['switchViewportDevice'] == 'ie' ) {
+			var element;
+			if (navigator.userAgent.match(/Windows NT 6.3; ARM(.+)Touch/)) {
+				element = document.createElement("style");
+			    element.appendChild(document.createTextNode("@-ms-viewport{width:"+switchViewport+"px;}"));
+			} else {
+				element = document.createElement("link");
+				element.href = switchViewport >= 1024 ? '/export/system/modules/com.infineon.corporatewebsite.frontend/resources/css/switchToDesktop.css?v=1.1.0' : '/export/system/modules/com.infineon.corporatewebsite.frontend/resources/css/switchToMobile.css?v=1.1.0';
+				element.rel = "stylesheet";
 			}
+		    document.getElementsByTagName("head")[0].appendChild(element);
+		} else {
+	  		document.querySelector("meta[name=viewport]").setAttribute('content','width='+switchViewport);
 		}
 	}
-	catch (elq_error) {
-	// ERROR HANDLING - IF REQUIRED AT ALL
-	}
+</script>
+<title>Privacy Policy - Infineon Technologies</title>
+<meta property="og:title" content="Privacy Policy - Infineon Technologies">
+<meta name="description" content="">
+<meta property="og:description" content="">
+<meta name="keywords" content="">
 
-// --> </script>
-</head> 
+<meta name="area" content="">
 
+<meta name="copyright" content="Copyright Infineon Technologies AG - all rights reserved">
+<meta name="publisher" content="Infineon Technologies AG">
+<meta name="author" content="Infineon Technologies AG">
+<meta name="producer" content="virtual identity AG | http://www.virtual-identity.com">
 
+<link rel="shortcut icon" type="image/ico" href="/export/system/modules/com.infineon.corporatewebsite.frontend/resources/images/favicon.ico?v=1.1.0">
+ 
+<!--[if lte IE 8]>
+	<link rel="stylesheet" href="/export/system/modules/com.infineon.corporatewebsite.frontend/resources/css/ifx.ie8.css?v=2014-12" />
+	<link rel="stylesheet" href="/cms/system/modules/com.infineon.corporatewebsite.frontend/resources/css/print.ie8.css?v=2014-12" media="print" />
+<![endif]-->
+<!--[if gt IE 8]><!-->
 
+<link rel="stylesheet" href="/export/system/modules/com.infineon.corporatewebsite.frontend/resources/css/ifx.min.css?v=2014-12">
+	<!--<![endif]-->
 
-<body id="corporate" class="en   ">
-<noscript>
-	<p class="noscript">Please activate JavaScript in your browser to use the Infineon website.</p>
-</noscript>
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="footer-position-wrapper">
-	<!-- Start: header-zone refresh 2011 -->
-
-
-
-
-<div id="header-zone" class="clearfix">
+<script src="/export/system/modules/com.infineon.corporatewebsite.frontend/resources/js/vendor/modernizr-2.7.1.custom.min.js?v=2014-12"></script></head>
+			<body class="en">
+				<div id="overall-wrapper">
+					<div id="offcanvas-wrapper">
+						<div class="fluid-wrap article">
+							<nav id="navigation" class="main clearfix visible-xxs visible-xs visible-sm" role="navigation">
+	<ul role="menubar" class="main nav-list">
+	</ul>
+</nav><header class="navbar" role="navigation">
 	
-
-
-
-
-
-
-<div id="logo-zone">
-	<div itemscope="" itemtype="http://schema.org/Organization"> 
-		<a itemprop="url" href="/cms/en/product/">
-			<img itemprop="logo" src="/export/system/modules/com.virtualidentity.infineon.frontend/resources/img/logo-en.gif" width="124" height="62" border="0" alt="Infineon Technologies - Semiconductor and System Solutions" title=" Infineon Technologies ">
+	<div itemscope="" itemtype="http://schema.org/Organization">
+		<a itemprop="url" class="logo" href="/cms/en/">
+			<span class="picture" data-class="img-responsive" data-alt="Infineon Technologies - Semiconductor and System Solutions" data-title="Infineon Technologies" data-itemprop="logo">
+				<img itemprop="logo" src="/export/system/modules/com.infineon.corporatewebsite.frontend/resources/images/logo-desktop-en.png" class="img-responsive" alt="Infineon Technologies - Semiconductor and System Solutions">
+			    <span data-src="/export/system/modules/com.infineon.corporatewebsite.frontend/resources/images/logo-mobile-en.png"></span>
+			    <span data-src="/export/system/modules/com.infineon.corporatewebsite.frontend/resources/images/logo-mobile-en-2x.png" data-min-dpr="2"></span>
+			    <span data-src="/export/system/modules/com.infineon.corporatewebsite.frontend/resources/images/logo-desktop-en.png" data-min-width="1024"></span>
+			    <span data-src="/export/system/modules/com.infineon.corporatewebsite.frontend/resources/images/logo-desktop-en-2x.png" data-min-width="1024" data-min-dpr="2"></span>
+			</span>
 		</a>
 	</div>
-</div>
 
+	<button id="offcanvas-nav-trigger" class="btn btn-link navbar-toggle">
+		<span class="sr-only">Toggle Navigation</span>
+		<span class="glyphicon glyphicon-menu"></span>
+	</button>
 
-	<div id="generic-nav-zone">
+	<form action="/cms/en/search.html" method="get" class="navbar-search" role="search">
+		<input type="hidden" name="view" value="all">
+		<fieldset>
+			<input class="search-input typeahead" placeholder="Search" name="term" type="text" data-provide="typeahead" autocomplete="off" data-suggestionsurl="/search/suggestions" data-lang="en">
+			<button type="submit" id="offcanvas-search-trigger" class="btn btn-link">
+				<span class="glyphicon glyphicon-search"></span>
+			</button>
+		</fieldset>
+	</form>
 	
-		<ul id="generic-nav" class="clearfix">
-			<li><a href="/cms/en/product/">Home</a><span class="pipe"> | </span></li>
-			<li><a href="/cms/en/product/where-to-buy.html">Where to Buy</a><span class="pipe"> | </span></li>
-			<li><a href="/cms/en/product/sitemap.html">Sitemap</a><span class="pipe"> | </span>
+	<nav class="nav" role="navigation">
+		<ul class="first" role="menubar">
+			<li role="menuitem" class="">
+				<a href="/cms/en/product/products.html">Products</a>
 			</li>
-			
-				
-				
-				
-					<li>
-						<p><a id="select-language-link" href="javascript:void(0);" class="toggle-link">Select Language</a><span class="pipe"> | </span></p>
-						<div id="select-language">
-							<div class="select-language-wrapper">
+			<li role="menuitem" class="">
+					<a href="/cms/en/applications/">Applications</a>
+					
+					</li>
+			<li role="menuitem" class="active blur has-flyout" aria-haspopup="true">
+					<a href="/cms/en/about-infineon/">About Infineon</a>
+					
+					<div class="flyout" role="menu">
+							<div class="flyout-wrap">
+								<div class="col col-left">
+									
+									<ul>
+												<li class=""><strong><a href="/cms/en/about-infineon/company/">Company</a></strong></li>
+												<li class=""><a href="/cms/en/about-infineon/company/management-board/">Management Board</a></li>
+													<li class=""><a href="/cms/en/about-infineon/company/supervisory-board/">Supervisory Board</a></li>
+													<li class=""><a href="/cms/en/about-infineon/company/focusareas/">Focus Areas</a></li>
+													<li class=""><a href="/cms/en/about-infineon/company/purchasing/">Purchasing</a></li>
+													<li class=""><a href="/cms/en/about-infineon/company/find-a-location/">Our Locations</a></li>
+													<li class=""><a href="/cms/en/about-infineon/company/our-values/">Our Values</a></li>
+													</ul>
+										<ul>
+												<li class=""><strong><a href="/cms/en/about-infineon/tradeshows-conferences/">Tradeshows &amp; Conferences</a></strong></li>
+												</ul>
+										<ul>
+												<li class=""><strong><a href="/cms/en/about-infineon/investor/">Investor</a></strong></li>
+												<li class=""><a href="/cms/en/about-infineon/investor/reporting/">Reporting</a></li>
+													<li class=""><a href="/cms/en/about-infineon/investor/news/">News</a></li>
+													<li class=""><a href="/cms/en/about-infineon/investor/events/">Events</a></li>
+													<li class=""><a href="/cms/en/about-infineon/investor/corporate-governance/">Corporate Governance</a></li>
+													<li class=""><a href="/cms/en/about-infineon/investor/capital-returns/">Capital Returns</a></li>
+													<li class=""><a href="/cms/en/about-infineon/investor/infineon-share/">Infineon Share</a></li>
+													<li class=""><a href="/cms/en/about-infineon/investor/bonds-financing/">Bonds and Financing</a></li>
+													</ul>
+										</div>
+								<div class="col">
 								<ul>
-									
-										<li><a href="/cms/cn/corporate/privacy-policy.html">简体中文</a></li>
-									
-										<li><a href="/cms/de/corporate/privacy-policy.html">Deutsch</a></li>
-									
-										<li><a href="/cms/jp/corporate/privacy-policy.html">日本語</a></li>
-									
-								</ul>
+												<li class=""><strong><a href="/cms/en/about-infineon/press/">Press</a></strong></li>
+												<li class=""><a href="/cms/en/about-infineon/press/general-information/">General Information</a></li>
+													<li class=""><a href="/cms/en/about-infineon/press/press-releases/">Press Releases</a></li>
+													<li class=""><a href="/cms/en/about-infineon/press/press-kit/">Press Kits</a></li>
+													<li class=""><a href="/cms/en/about-infineon/press/media-pool/">Media Pool</a></li>
+													<li class=""><a href="/cms/en/about-infineon/press/events/">Events</a></li>
+													<li class=""><a href="/cms/en/about-infineon/press/contacts/">Contacts</a></li>
+													</ul>
+										<ul>
+												<li class=""><strong><a href="/cms/en/about-infineon/sustainability/">Sustainability</a></strong></li>
+												<li class=""><a href="/cms/en/about-infineon/sustainability/environment/">Environment</a></li>
+													<li class=""><a href="/cms/en/about-infineon/sustainability/health-and-safety/">Health &amp; Safety</a></li>
+													<li class=""><a href="/cms/en/about-infineon/sustainability/business-ethics/">Business Ethics</a></li>
+													<li class=""><a href="/cms/en/about-infineon/sustainability/corporate-citizenship/">Corporate Citizenship</a></li>
+													<li class=""><a href="/cms/en/about-infineon/sustainability/csr-supply-chain/">CSR Supply Chain</a></li>
+													<li class=""><a href="/cms/en/about-infineon/sustainability/human-rights/">Human Rights</a></li>
+													<li class=""><a href="/cms/en/about-infineon/sustainability/csr-reporting/">CSR Reporting</a></li>
+													</ul>
+										</div>
+								<div class="col media loader">
+									<h5>
+											<a href="/cms/en/about-infineon/media-center/">Media Center</a></h5>
+									<div class="media-wrap"></div>
+								</div>
+								<div class="col news loader">
+									<div class="news-wrap"></div>
+									<div class="events-wrap"></div>
+								</div>
 							</div>
 						</div>
 					</li>
-				
-			
-			<script type="text/javascript">
-				if (document.cookie.indexOf("USER_LOGIN_STATUS=loggedIn")>-1)				
-				{
+			<li role="menuitem" class="">
+					<a href="/cms/en/careers/">Careers</a>
 					
-					var sessionId;
-					var jSessionStr = "JSESSIONID=";
-					var ca = document.cookie.split(';');
-					for(var i=0;i < ca.length;i++) {
-						var c = ca[i];
-						while (c.charAt(0)==' ') c = c.substring(1,c.length);
-						if (c.indexOf(jSessionStr) == 0) sessionId = c.substring(jSessionStr.length,c.length);
-					}
-					if (document.cookie.indexOf("myInfineon=true")>-1)				
-					{
-						document.write("<li id='my-infineon'><a href='/cms/en/product/myInfineon.html'>MyInfineon</a><span class='pipe'> | </span></li>");
-					}
-					document.write(
-"					<li id='my-profile'><a href='/cms/en/product/my-profile.html?t=" + (new Date()).getTime() + "'>My Profile</a><span class='pipe'> | </span></li>"
-+"					<li id='logout-link'>"
-+"						<a href='/auth/logout'>Logout</a>"
-+"					</li>"
-+"					<div style='display: none;'><img src='https://workspace.infineon.com/slc;jsessionid="+sessionId+"?JSESSIONID=" + sessionId + "' width='0' height='0' /></div>");
-				}
-				else
-				{
-					
-					document.write(
-"					<li class='login'>"
-+"						<a id='login-link' href='https://workspace.infineon.com/cms/en/product/login.html?backuri='>Login</a>"
-+"					</li>");
-				}
-			</script>					<li class="login">						<a id="login-link" href="https://workspace.infineon.com/cms/en/product/login.html?backuri=">Login</a>					</li>
-			<li>
-				<div class="cart-button">
-					<span class="cart-label">Cart</span> (<span class="cart-count">0</span>)
-				</div>
-			</li>
-		</ul>
-		
-		<p class="stock-info">
-			<script type="text/javascript">
-				var prot = document.location.protocol ;
-				if(prot == 'https:')
-				{
-					var irUrl = 'https://secure.flife.de/ir/data/infineon/ticker_e.php';
-				}
-				else
-				{
-					var irUrl = 'http://ir2.flife.de/data/infineon/ticker_e.php';
-				}
-				document.write("<iframe height='35' frameborder='0' width='245' scrolling='no' marginwidth='0' marginheight='0' src='" + irUrl + "'></iframe>");
-			</script><iframe height="35" frameborder="0" width="245" scrolling="no" marginwidth="0" marginheight="0" src="https://secure.flife.de/ir/data/infineon/ticker_e.php"></iframe>
-		</p>
-	</div>
-	
-	
-	
-	<div id="navigation-search-wrapper" class="clearfix">
-			<div id="search-zone">
-				<div id="cross-reference-search">
-					<p>
-						<a class="link" href="/cms/en/product/crossReferenceSearch.html">Cross reference search</a>
-					</p>
-				</div>
-				<div id="search-box">
-					<div class="bg-search">
-						<form action="/cms/en/search.html" method="get">
-							<fieldset>
-								<input class="search-input typeahead" name="term" type="text" data-provide="typeahead" autocomplete="off" data-suggestionsurl="/search/suggestions" data-lang="en">
-								<button type="submit" class="search-button">Search</button>
-							</fieldset>
-						</form>
-					</div>
-				</div>
-			</div>
-			
-			<!-- START: primary navigation -->
-			<ul id="navigation" class="clearfix">
-				
-					<li class="menu-products clearfix">
-						<a>Products</a>
-						<div>
-							<ul class="clearfix">
-								
-									<li><a href="/cms/en/product/power/channel.html?channel=db3a304319c6f18c011a154646852706">Power</a></li>
-								
-									<li><a href="/cms/en/product/asic/channel.html?channel=ff80808112ab681d0112ab69b2bc02c7">ASIC</a></li>
-								
-									<li><a href="/cms/en/product/automotive-system-ic/channel.html?channel=db3a304319c6f18c011a1524811d26bf">Automotive System IC</a></li>
-								
-									<li><a href="/cms/en/product/esd-and-emi/channel.html?channel=ff80808112ab681d0112ab6b18820716">ESD &amp; EMI</a></li>
-								
-									<li><a href="/cms/en/product/microcontroller/channel.html?channel=ff80808112ab681d0112ab6b2dfc0756">Microcontroller</a></li>
-								
-									<li><a href="/cms/en/product/rf-and-wireless-control/channel.html?channel=db3a304319c6f18c011a14e8eb3225fe">RF &amp; Wireless Control</a></li>
-								
-									<li><a href="/cms/en/product/security-ic/channel.html?channel=db3a30433fa9412f013fc3547ddf1e8e">Security IC</a></li>
-								
-									<li><a href="/cms/en/product/smart-card-ic/channel.html?channel=ff80808112ab681d0112ab6923e10125">Smart Card IC</a></li>
-								
-									<li><a href="/cms/en/product/sensor-ics/channel.html?channel=ff80808112ab681d0112ab68eaf1008b">Sensor ICs</a></li>
-								
-									<li><a href="/cms/en/product/transceiver/channel.html?channel=db3a3043442f82090144305a607e024f">Transceiver</a></li>
-								
-									<li><a href="/cms/en/product/transistor-and-diode/channel.html?channel=db3a304319c6f18c011a14e6b8e025f7">Transistor &amp; Diode</a></li>
-								
-							</ul>
-						</div>
 					</li>
-				
-					<li class="menu-applications clearfix">
-						<a>Applications</a>
-						<div>
-							<ul class="clearfix">
-								
-									<li><a href="/cms/en/product/applications/automation/">Automation</a></li>
-								
-									<li><a href="/cms/en/product/applications/automotive/">Automotive</a></li>
-								
-									<li><a href="/cms/en/product/applications/chip-card-and-security/">Chip Card and Security</a></li>
-								
-									<li><a href="/cms/en/product/applications/consumer/">Consumer</a></li>
-								
-									<li><a href="/cms/en/product/applications/data-processing/">Data Processing</a></li>
-								
-									<li><a href="/cms/en/product/applications/emobility/">Electromobility</a></li>
-								
-									<li><a href="/cms/en/product/applications/industrial/">Industrial</a></li>
-								
-									<li><a href="/cms/en/product/applications/lighting/">Lighting</a></li>
-								
-									<li><a href="/cms/en/product/applications/Medical/">Medical</a></li>
-								
-									<li><a href="/cms/en/product/applications/Mobile_Devices/">Mobile Devices</a></li>
-								
-									<li><a href="/cms/en/product/applications/Motor_Control_Drives/">Motor Control &amp; Drives</a></li>
-								
-									<li><a href="/cms/en/product/applications/sev/">Motorcycles, E-Bikes and Small E-Vehicles</a></li>
-								
-									<li><a href="/cms/en/product/applications/Power_Supplies/">Power Supplies</a></li>
-								
-									<li><a href="/cms/en/product/applications/Smart_Grid/">Smart Grid</a></li>
-								
-									<li><a href="/cms/en/product/applications/solar/">Solar Energy Systems</a></li>
-								
-									<li><a href="/cms/en/product/applications/wind/">Wind Energy Systems</a></li>
-								
-							</ul>
-						</div>
-					</li>
-				
-					<li class="menu-technology clearfix">
-						<a>Technology</a>
-						<div>
-							<ul class="clearfix">
-								
-									<li><a href="/cms/en/product/technology/green-products/">Green Products</a></li>
-								
-									<li><a href="/cms/en/product/technology/halogen-free/">Halogen-free Products</a></li>
-								
-									<li><a href="/cms/en/product/technology/products-material-declaration/">Products Material Declaration</a></li>
-								
-									<li><a href="/cms/en/product/technology/quality/">Quality</a></li>
-								
-									<li><a href="/cms/en/product/technology/packages/">Packages</a></li>
-								
-									<li><a href="/cms/en/product/technology/design_link">Design:)Link</a></li>
-								
-									<li><a href="/cms/en/product/technology/opn/">Orderable Part Number</a></li>
-								
-									<li><a href="/cms/en/product/technology/Semiconductors/">Semiconductors: Products &amp; System Solutions</a></li>
-								
-							</ul>
-						</div>
-					</li>
-				
-					<li class="menu-aboutinfineon active clearfix">
-						<a>About Infineon</a>
-						<div>
-							<ul class="clearfix">
-								
-									<li><a href="/cms/en/corporate/company/">Company</a></li>
-								
-									<li><a href="/cms/en/corporate/investor/">Investor</a></li>
-								
-									<li><a href="/cms/en/corporate/press/">Press</a></li>
-								
-									<li><a href="/cms/en/corporate/career/">Career</a></li>
-								
-									<li><a href="/cms/en/corporate/csr/">Corporate Social Responsibility</a></li>
-								
-									<li><a href="/cms/en/corporate/tradeshow/">Tradeshows &amp; Conferences</a></li>
-								
-									<li><a href="/cms/en/corporate/mediacenter/">Media Center</a></li>
-								
-							</ul>
-						</div>
-					</li>
-				
 			</ul>
-			<!-- END: primary navigation -->
-		</div>
-		<div id="secondary-navigation-zone">
-			
-				<div class="secondary-name products">
-					<span>About Infineon</span>
-					<div class="secondary-flyout">
-						
-						
-							
-							
-								<div class="nav-tab-content-wrapper clearfix">
-									<div class="nav-tab-2-cols clearfix">
-										<div class="column">
-											<ul>
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/company/">Company</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	
-																	<li class="next"><strong><a href="/cms/en/corporate/company/managementboard.html">Management Board</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/company/supervisory-board.html">Supervisory Board</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/company/focus-areas/">Focus Areas</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/company/focus-areas/energy-efficiency.html">Energy Efficiency</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/company/focus-areas/communications.html">Mobility</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/company/focus-areas/security.html">Security</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/company/procurement-logistics/">Purchasing</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/company/procurement-logistics/Important_Supplier_News/">Important Supplier News</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/company/procurement-logistics/doing-business-with-infineon-technologies/">Doing business with Infineon</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/company/procurement-logistics/online-supplier-registration.html">Online supplier registration</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/company/procurement-logistics/equipment-trade.html">Equipment Trade</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/company/procurement-logistics/purchasing-departments/">Purchasing departments</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/company/location/">Find a Location</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/company/contact/">Contacts</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/company/regional-subsidiaries/">Regional Subsidiaries</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/company/tradeshow/">Tradeshows &amp; Conferences</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/company/people-at-infineon">People at Infineon</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/company/mission.html">Our Values</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/company/compliance/">Compliance</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/">Investor</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/investor/reporting/">Reporting</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/reporting/annual-report.html">Annual Report 2013</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/reporting/financial-statements.html">Financial Statements 2013 (HGB)</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/reporting/">Quarterly Financial Results</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/reporting/reporting.html">Download Center (Archive)</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/reporting/financial-tablesQ214.html">Financial Tables</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/reporting/secfilings.html">U.S. SEC Filings</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/investor/news/">News</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/investor/events/">Events</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/events/">Financial Calendar</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/events/agm">General Meeting</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/investor/corporate-governance/">Corporate Governance</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/investor/capital-returns/">Capital Returns</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/capital-returns/program-2011.html">Program 2011</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/capital-returns/program-2013.html">Program 2013</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/investor/infineon-share/">Infineon Share</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/infineon-share/">Stock Charts</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/infineon-share/index-membership.html">Index Membership</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/infineon-share/shareholder-structure.html">Shareholder Structure</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/infineon-share/analyst-coverage.html">Analyst Coverage</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/infineon-share/share-facts/">Share Facts</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/investor/bonds-and-debt/">Bonds and Financing</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/bonds-and-debt/rights-offering-2009.html">Rights Offering 2009</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/bonds-and-debt/convertible-bonds.html">Convertible Bonds 2010</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/bonds-and-debt/exchangeable-bonds.html">Exchangeable Bonds 2010</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/bonds-and-debt/bond-tender-offer.html">Results of Bond Tender Offer 2009</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/bonds-and-debt/convertible-bond-2014.html">Convertible Bond 2014</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/investor/ir-team.html">IR Team</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/investor/additional-information/">Additional Information</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/additional-information/">Interesting Links and Topics</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/investor/additional-information/glossary.html">Financial and Technology Glossary</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/">Press</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/press/">Newsroom</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/press/general-info/">General Information</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/general-info/">Facts &amp; Figures</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/general-info/managementboard/">Management Board</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/general-info/managementboard/arunjai_mittal.html">Arunjai Mittal</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/general-info/managementboard/dominik_asam.html">Dominik Asam</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/general-info/managementboard/reinhard_ploss.html">Reinhard Ploss</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/general-info/supervisory-board.html">Supervisory Board</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/general-info/focus_areas.html">Focus Areas</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/general-info/glossary.html">Glossary</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/press/press_releases.html">Press Releases</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/press/press-kits/">Press Kits</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													</ul>
-												</li>
-											
-										</div>
-										<div class="column next-float">
-											<ul>
-												
-													
-														
-															
-																
-																	<li><strong><a href="/cms/en/corporate/press/picture-gate.html">Media Pool</a></strong>
-																		<ul>
-																
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/press/events.html">Events</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/press/contacts/">Contacts</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/contacts/">Headquarters</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/contacts/europe.html">Europe</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/contacts/na.html">North America</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/contacts/asia.html">APAC</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/press/contacts/japan.html">Japan</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/">Career</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/world-of-infineon/">World of Infineon</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/our-offer/">Our Offer</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/our-offer/career-development/">Career Development</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/our-offer/health-management/">Health Management</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/our-offer/work-life-balance/">Work-Life-Balance</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/our-business/">Our Business</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/our-culture/">Our Culture</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/our-culture/corporate-social-responsibility/">Corporate Social Responsibility</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/our-culture/diversity/">Diversity</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/our-culture/high-performance/">High Performance</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/our-culture/innovation/">Innovation</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/our-awards/">Our Awards</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/our-sites/">Our Sites</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/school-pupils/">School Pupils</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/school-pupils/apprenticeships/">Apprenticeships</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/school-pupils/dual-study-programs/">Dual Study Programs</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/school-pupils/job-orientation/">Job Orientation</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/school-pupils/contact-us/">Contact us</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/school-pupils/meet-our-apprentices/">Meet our apprentices</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/students-graduates/">Students &amp; Graduates</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/students-graduates/internships/">Internships / Student employment</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/students-graduates/trainees/">Entry Programs</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/students-graduates/phd-program/">PhD</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/students-graduates/direct-entry/">Direct Entry</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/professionals/">Experienced Professionals</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/infineon-jobsearch/">Infineon Job Search</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/career/infineon-jobsearch/faq/">FAQs</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/meet-infineon.html">Meet Infineon</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/hr-contacts/">HR contacts worldwide</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/career/insights/">Insights Infineon</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/csr/">Corporate Social Responsibility</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/csr/environmental-sustainability/">Environmental Sustainability</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/csr/environmental-sustainability/sustainable-resource-use/">Sustainable Resource Use</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/csr/environmental-sustainability/sustainable-resource-use/energy.html">Energy</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/csr/environmental-sustainability/sustainable-resource-use/water.html">Water</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/csr/environmental-sustainability/sustainable-resource-use/gases.html">Gases, Chemicals and Materials</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/csr/environmental-sustainability/sustainable-resource-use/waste.html">Waste</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/csr/environmental-sustainability/product-related-environmental-sustainability/">Product-related Environmental Sustainability</a></li>
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/csr/occupational-safety-and-health/">Occupational Health and Safety</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/csr/ethics/">Business Ethics</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/csr/corporate-citizenship-activities/">Corporate Citizenship Activities</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/csr/csr-supply-chain-management/">CSR Supply Chain Management</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/csr/employee-accountability-and-human-commitment/">Human Resources Management, Human Rights</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/csr/csr-reporting/">CSR Reporting</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/csr/recognition/">Awards</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-															
-																
-																
-																		</ul>
-																	</li>
-																	<li class="next"><strong><a href="/cms/en/corporate/csr/performance-summary/">CSR Performance Summary</a></strong>
-																	<ul>
-																
-															
-														
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/tradeshow/">Tradeshows &amp; Conferences</a></li>
-														
-													
-													
-												
-													
-														
-														
-															<li><a href="/cms/en/corporate/mediacenter/">Media Center</a></li>
-														
-													
-													
-												
-													</ul>
-												</li>
-											</ul>
-										</div>
-									</div>
-								</div>
-							
-						
-					</div>
-				</div>
-			
-		</div>
-        
-        
-        
+	</nav>
 
-</div>
-
-<div id="main-content-zone" class="clearfix">
-	
-	
-	<div id="content-zone-wrapper">
-		
-		
-
-
-
-<div id="breadcrumb-zone" class="clearfix">
-	<ul class="breadcrumb">
-		<li><a href="/cms/en/product/">Home</a></li>
-		
-	</ul>
-</div>
-
-		
-	
-		<div id="content-zone">
-			
-<div class="title-section">
-	<h1>Disclaimer and Privacy Policy</h1>
-	
-</div>
-
-			
-			
-
-
-
-	
-	
-	
-		
-			<div class="section">
-			
-		
-		
-			<h3>Disclaimer</h3>
-		
-
-		
-
-
-
-
-
-		<div class="content"><p>All content and materials on this site are provided “as is“. Infineon makes no warranties or
-representations with regard to this content and these materials of any kind, whether express or
-implied, including without limitation, warranties or representations of merchantability, fitness
-for a particular purpose, title and non-infringement of any third party intellectual property
-right. No license, whether express or implied, is granted by Infineon. Use of the information on
-this site may require a license from a third party, or a license from Infineon.
-<br>
-<br>Infineon accepts no liability for the content and materials on this site being accurate,
-complete or up-to-date or for the contents of external links. Infineon distances itself expressly
-from the contents of the linked pages, over the structure of which Infineon has no control.
-<br>
-<br>Content on this site may contain or be subject to specific guidelines or limitations on use.
-Infineon reserves the right to make corrections, deletions, modifications, enhancements,
-improvements and other changes to the content and materials, its products, programs and services at
-any time or to move or discontinue any content, products, programs, or services without notice.
-<br>
-<br></p></div>
-		</div>
-		
-	
-
-	
-	
-	
-		
-			
-			<div class="section next">
-		
-		
-			<h3>Privacy Policy</h3>
-		
-
-		
-
-
-
-
-
-		<div class="content"><p>Infineon strongly believes in protecting the privacy of the personal information you share with
-us by using our websites. Therefore, we also believe it is important to outline our understanding
-of privacy and to explain to you our Privacy Policy.&nbsp;
-<br>
-<br> 
-<strong>1.)</strong> 
-<strong>Scope of this Privacy Policy</strong>
-<br>The Privacy Policy applies to all personal information collected or used by the Infineon
-Group (hereinafter “Infineon”) from Infineon websites.&nbsp;
-<br>
-<br> 
-<strong>2.)</strong> 
-<strong>Registration</strong>
-<br>Some pages of Infineon under the URL 
-<a href="/cms/" target="_blank" title="Infineon Product Startpage">www.infineon.com</a> are
-password protected and require a registration by you if you want to access them. Upon registration
-within these pages, you voluntarily provide us with some personal information of you. Once you are
-registered you are no longer anonymous to Infineon - you are given a user name and are able to take
-advantage of Infineon's offers. In addition to the registration, we may ask you for specific areas
-of interest if you choose to subscribe to the Infineon Design:)Link.
-<br>
-<br>You can review, change, or delete the personal information that you have inserted on our
-websites. The information on your login and personal information is accessible to you only after
-you have logged in with your user name and password. You can change your password on your Login
-Data page and your address on your Personal Data page.
-<br>
-<br> 
-<strong>3.)</strong> 
-<strong>Purpose of Use</strong>
-<br>Infineon's goal in collecting personal information is to customize our network of sites for
-our users. We offer personalized, interactive communication. By providing personal information to
-us, you will help us to offer more responsive customer service and to improve our websites.
-<br>
-<br> 
-<strong>4.)</strong> 
-<strong>Safety of personal information</strong>
-<br>Whenever Infineon handles personal information, your information will be treated securely and
-in accordance with our Privacy Policy. Infineon protects your personal information by applying high
-security standards.
-<br>
-<br>Infineon's technological safeguards and company policies ensure that your personal
-information will be treated with the utmost care and respect. Infineon does not distribute your
-personal information to third parties&nbsp;
-<br>
-<br> 
-<strong>5.)</strong> 
-<strong>Links to other websites</strong>
-<br>The Infineon websites may contain links to websites of third parties. Infineon is not
-responsible for the content of those sites.
-<br>
-<br> 
-<strong>6.) Cookies</strong>
-<br>A cookie is a small piece of information sent by Infineon's web server to help your browser
-identify who you are, and to allow Infineon to offer customizable and personalized services.
-Infineon websites use cookies. Please ensure that your browser's preferences have been set to
-accept cookies. If you reject all cookies, you will be unable to use some of our services. We use
-cookies to deliver better and personalized service. Infineon collects anonymized usage information
-on this website by using the tool Adobe SiteCatalyst. Therefore we use third party cookies. These
-are used for website optimization and are not linked with any personal information without the
-explicit approval by the website user. However, if you do not want to send this information you can
-opt out 
-<a title="Opt Out" target="_blank" href="http://infineon.d3.sc.omtrdc.net/optout.html?locale=en_US">here</a>.
-<br>
-<br> 
-<strong>7.)</strong> 
-<strong>Contact</strong>
-<br>In case of any queries, you may contact Infineon as described in “Ask Infineon!” at the top
-of this Website.
-<br></p>
-<p>This Privacy Policy became effective on 2008-12-08.</p></div>
-		</div>
-		
-	
-
-			
-			
-			
-
-
-
-			
-			
-			
-			
-		</div>
-	</div>
-	
-
-	
-	<div id="context-zone-wrapper" class="clearfix">
-	
-		
-
-
-
-
-
-<div id="page-tools-zone" class="clearfix">
-	<ul class="page-tools clearfix">
-		<li><a href="javascript:void(0);" onclick="trackClickEvent(this,'event4'); window.print();" class="print">Print</a></li>
-		<li><a href="javascript:void(0);" onclick="trackClickEvent(this,'event5');" class="share">Share</a></li>
-	</ul>
-	<div class="social-media-links clearfix">
-		<h3>Follow us:</h3>
+	<nav class="metanav">
 		<ul>
-			<li><a class="twitter-link" href="https://twitter.com/infineon" title="Twitter" onclick="window.open(this.href); return false;">twitter</a></li>
-			<li><a class="facebook-link" href="https://facebook.com/infineon" title="Facebook" onclick="window.open(this.href); return false;">facebook</a></li>
-			<li><a class="youtube-link" href="https://youtube.com/infineon" title="YouTube" onclick="window.open(this.href); return false;">youtube</a></li>
-			
-			
-		</ul>
+			<li class="hidden-xxs hidden-xs hidden-sm"><a href="/cms/en/about-infineon/company/contacts/">Contact</a></li>
+			<li class="hidden-xxs hidden-xs hidden-sm"><a href="/cms/en/product/where-to-buy.html">Where to Buy</a></li>
+			<li class="flyout flyout-right hover hidden-xxs hidden-xs hidden-sm">
+					<span>English<b class="caret"></b></span>
+					<ul>
+						<li class="line"></li>
+						<li><a href="/cms/cn/about-infineon/privacy-policy/" class="languagelink">简体中文</a></li>
+						<li><a href="/cms/de/about-infineon/privacy-policy/" class="languagelink">Deutsch</a></li>
+						<li><a href="/cms/jp/about-infineon/privacy-policy/" class="languagelink">日本語</a></li>
+						</ul>
+				</li>
+			<li class="flyout hover hidden-xxs hidden-xs hidden-sm">
+					<span>Login<b class="caret"></b></span>
+					<ul>
+						<li class="line"></li>
+						<li><a href="https://recruitingapp-2721.de.umantis.com/SelfService" class="link" target="_blank">Applicant</a></li>
+						<li><a href="https://infineon.transim.com/iposim/HighPower/All/TopologySelection.aspx" class="link" target="_blank">IPOSIM</a></li>
+						<li><a href="https://infineon.transim.com/lightdesk/pages/appfinder.aspx" class="link" target="_blank">Light Desk</a></li>
+						<script type="text/javascript">
+							if (document.cookie.indexOf("USER_LOGIN_STATUS=loggedIn")>-1)
+							{
+								var sessionId;
+								var jSessionStr = "JSESSIONID=";
+								var ca = document.cookie.split(';');
+								for(var i=0;i < ca.length;i++) {
+									var c = ca[i];
+									while (c.charAt(0)==' ') c = c.substring(1,c.length);
+									if (c.indexOf(jSessionStr) == 0) sessionId = c.substring(jSessionStr.length,c.length);
+								}
+								if (document.cookie.indexOf("myInfineon=true")>-1)
+								{
+									document.write("<li id='my-infineon'><a class='link' href='/cms/en/product/myInfineon.html'>MyInfineon</a></li>");
+								}
+								document.write(
+"									<li id='my-profile'><a class='link' href='/cms/en/product/my-profile.html?t=" + (new Date()).getTime() + "'>MyInfineon Profile</a></li>"
++"									<li id='logout-link'><a class='link' href='/auth/logout'>MyInfineon Logout</a></li>"
++"									<li style='display: none;'><img src='https://workspace.infineon.com/slc;jsessionid="+sessionId+"?JSESSIONID=" + sessionId + "' width='0' height='0' /></li>");
+							}
+							else
+							{
+								
+								document.write("<li class='login'><a class='link' id='login-link' href='https://workspace.infineon.com/cms/en/product/login.html?backuri='>MyInfineon Login</a></li>");
+							}
+						</script><li class="login"><a class="link" id="login-link" href="https://workspace.infineon.com/cms/en/product/login.html?backuri=">MyInfineon Login</a></li>
+						<li class="overview">
+							<a href="/cms/en/login-overview/"><span class="glyphicon glyphicon-overview"></span>Login overview</a></li>
+						</ul>
+				</li>
+			<li>
+				<a href="javascript:void(0);" class="navbar-cart-button cart-button">
+					<span class="glyphicon glyphicon-cart"></span><span class="cart-label hidden-xxs hidden-xs hidden-sm">Cart</span> (<span class="cart-count">0</span>)
+				</a>
+			</li>
+			</ul>
+	</nav>
+</header>
+
+<main class="container-fluid" role="main">
+								<div class="row">
+									<article class="col-md-9">
+												<div id="centercontainer"><section class="header domReload">
+		<h1>Privacy Statement, as of: October 2014</h1>
+		</section>
+<section>
+				<div class="content">
+					<div class="copy"><p>Protecting the privacy of Internet users is very important to Infineon.&nbsp;We always comply with the applicable laws on privacy and data security.&nbsp;The following sections explain what type of information we may collect and how we handle it.</p>
+<ol>
+<li><strong>Scope of this Privacy Policy</strong><br>This privacy policy applies to all data on the website of the Infineon group of companies (hereinafter "Infineon") that is collected and used.&nbsp;By using our website you consent to our collection and use of your data and information in accordance with this privacy policy and the Terms of Use of our website.</li>
+<li><strong>General</strong><br>We collect no personal data (e.g. names, addresses, phone numbers, or email addresses) on our website, unless you have provided us with such data voluntarily (e.g. through registration or survey), or the relevant legal requirements pertaining to the protection of your data permit this.</li>
+<li><strong>Collection of Site Usage Data</strong><br>By visiting our website, our web servers automatically store the IP address and the domain from which access to the website is made, the date and time of your visit, the website of ours that you visit, as well as technical information about the visit (http method, http version, http status code, and browser used).&nbsp;If you login as a user on our website, the user ID required for the login is also stored.</li>
+<li><strong>Collection and Processing of Personal Data</strong><br>Personal data is only collected if you provide it voluntarily, e.g., as part of a registration, a survey, a contest, or in the execution of a contract.</li>
+<li><strong>Disclosure</strong><br>It is possible that your data may be passed on within the Infineon network to our marketing department, or third parties if this serves your business interests. For example, if we send products to you, we transmit personal data to suppliers, distributors, or third parties that work with us.&nbsp;Data shall only be sent to government bodies and authorities in accordance with mandatory national legal provisions.<br>Our employees are sworn to secrecy and to protect all personal data.</li>
+<li><strong>Purpose</strong><br>Infineon collects user data in order to make communication with you more personal and interactive.&nbsp;With your data, you are helping Infineon to make our customer service more efficient and continuously improve our website.&nbsp;When you provide us with personal data, we use it primarily to respond to your inquiries, to process your orders, to provide specially-tailored information or services, and to strengthen our customer relationships.&nbsp;Occasionally we use and share your information within Infineon in order to get a better understanding of your and your business needs, as well as to improve our products and services.&nbsp;Also, we (or a third party on our behalf) may use personal data to get in contact with you regarding an offer or survey, or we may pass on personal information to our network of certified distribution partners, if this facilitates a completion of a transaction with you (e.g. if we need to send you products).&nbsp;Finally, Infineon is obliged to disclose personal data if required by local laws.&nbsp;In all other cases, we will not pass your data on to third parties without your express consent.</li>
+<li><strong>MyInfineon</strong><br>You may check, change, or delete the personal data you have entered at our website.&nbsp;Your login data and your personal data are accessible to you only if you have logged in with your username and password.&nbsp;You can change your password at the Login Data page and your address at the Personal Data page.<br><br><ol>
+<li>Some personal data is collected during registration for “MyInfineon”.&nbsp;Infineon will ask you for your name, e-mail address, gender, zip code, your industry, your profession, your company’s name, your mailing address, your nationality, and your telephone and fax numbers.<br>Once you have registered, you are no longer anonymous to Infineon — you will get a user name and can use the services of Infineon.<br>In addition to your registration, we may ask you about your specific areas of interest if you choose to subscribe to the Infineon Design:-) Link.</li>
+<li>If you wish to change your e-mail address, or other personal data, you can do so here</li>
+<li>You’ll find the Personal Data hyperlink in the "Preferences" section on the left-hand navigation bar within “MyInfineon”.<br>The information you provided Infineon, and your profile, are both protected by your password, which means only you can access this personal information.&nbsp;We recommend that you do not share your password with anyone.&nbsp;Whenever Infineon works with your personal data, it will be treated confidentially and in accordance with our Privacy Policy.&nbsp;We strive to protect your personal data through the application of high security standards.<br><br></li>
+</ol></li>
+<li><strong>Profile Center</strong><br>Access to some Infineon websites and web pages requires prior registration.&nbsp;By registering, you are voluntarily providing us with personal data.&nbsp;After registration, you can use all Infineon online services.&nbsp;In addition to registering, we may ask you about special interests or preferences in order to provide you with tailored information and improve your use of our website.&nbsp;You can object the collection and use of this data for the future and unsubscribe from any Infineon communication to which you have subscribed.&nbsp;Every e-mail from Infineon contains a link to your "Profile Center,” where you can view, change, or delete the data you’ve shared with us, and also subscribe or unsubscribe to/from information services.</li>
+<li><strong>Right of Objection</strong><br>If you have given your consent for us to use your data for the reception of company and product information through one of our applications (e.g. e-mail), you may withdraw your consent at any time with effect for the future.</li>
+<li><strong>Security</strong><br>We have taken extensive technical and operational safeguards to protect your data against accidental or intentional manipulation, loss, destruction, or unauthorized access.&nbsp;Our security procedures are regularly reviewed and adapted in line with technological advancements.</li>
+<li><strong>Retrieval of Privacy Policy</strong><br>You can retrieve information about the Infineon Privacy Policy at any page on the Infineon website via a hyperlink in the footer.<br>At the end of this page you will find the date of the most recent changes to the Privacy Policy.</li>
+<li><strong>Chat</strong><br>The data collected during the use of the chat system, as well as the content of chats, will be used for the proper processing of your requests.<br>You also have the option to use the chat function anonymously without giving your name.<br>After we respond to your request, the content of the chat will be processed for the purposes of quality assurance, and to improve our services. It will then be immediately deleted.</li>
+<li><strong>Twitter, Facebook, YouTube &amp; Co.</strong><br>The social media links embedded on our website (Twitter, Facebook, YouTube, Twitter, etc.) are integrated through AddThis and not through a "Social Plugin".&nbsp;The embedded links only contain an HTTP link to AddThis.&nbsp;Thus, when you visit our website, no direct connection to social media servers is created.&nbsp;Clicking on the respective social media button creates a connection to AddThis.&nbsp;AddThis then sends the data to the respective social media service.</li>
+<li><strong>Personalization</strong><br>Infineon uses cookies, web beacons, and the personal data that you provide us to personalize the online presentation for you and to improve our services.&nbsp;We use cookies, for example, to recall the country and language preferences you have selected on our website.<br>A cookie is a text file that is stored on your computer which makes it possible to analyze your use of the website.<br>Cookies are sent from the Infineon web server to help your browser to identify you and to enable Infineon to provide you with customized and personalized services.&nbsp;All web pages by Infineon which ask you to log in, or which are customized, require cookies.<br><br><ol>
+<li><strong>Adobe Analytics</strong><br>Infineon stores anonymized user information on this website using the Adobe Analytics tool.&nbsp;This involves using cookies from a third party.&nbsp;These are used for the purpose of optimizing the website and are not connected with personal data without the explicit consent of the user.&nbsp;You can, however, object to this data collection and opt out <strong>here</strong> with effect for the future.&nbsp;The web analytics services also use cookies that are stored on your computer and make it possible to analyze your use of the website.&nbsp;The information generated by a cookie of your use of this website is transmitted exclusively in an anonymous form to a server operated by the web analysis service, and is then stored there.<br><br>Opt out<br>You can block the collection or processing of data generated by the cookie related to your visit to our website by Adobe, by stating your intention to opt-out via the following link:<br><a href="http://www.adobe.com/privacy/opt-out.html">http://www.adobe.com/privacy/opt-out.html</a></li>
+<li><strong>Eloqua</strong><br>We use Eloqua for the login to our email service.&nbsp;The Eloqua server is located in Canada.&nbsp;Eloqua places a permanent cookie on the respective login page, unless an Eloqua cookie is already present on your device.&nbsp;If you have used a website that uses Eloqua, your browser may already have stored an Eloqua cookie.&nbsp;We may use the Eloqua cookie to analyze your use of our websites so that we can continuously improve it.&nbsp;E-mails sent using Eloqua use tracking technologies.&nbsp;We use this information primarily to find out what topics you’re interested in by monitoring whether our e-mails are opened and which links are clicked on.&nbsp;This information will help us to improve the e-mails we send to you and the services we provide.&nbsp;If you wish to block the use of Eloqua cookies on your device for the future, you can do so via this link: <a href="http://www.oracle.com/us/legal/privacy/privacy-policy/index.html#opt-out">http://www.oracle.com/us/legal/privacy/privacy-policy/index.html#opt-out</a>&nbsp;If you do not want us to recognize your computer (hard disk cookies), you can also delete cookies from your computer hard drive, block all cookies, or warn you before a cookie is stored by adjusting your browser settings.&nbsp;If you do not accept cookies, the use of some of our services will not be available to you.&nbsp;Generally, cookies allow us to determine who you are and thus provide you with better and more personalized services.</li>
+<li><strong>Google Analytics</strong><br>Our website uses Google Analytics, a web analytics service provided by Google Inc. ("Google").&nbsp;Google Analytics uses cookies.&nbsp;Information gained by cookies about your use of this website (including your IP address) will be transmitted to a Google server in the U.S. and stored there.&nbsp;Google will use this information to evaluate your use of the website, compile reports on website activity for website operators, and provide other website-use and Internet-related services.&nbsp;Google may also transmit this information to third parties where required by law, or in cases where third parties process the information on Google's behalf.&nbsp;Google will not associate your IP address with any other data held by Google.&nbsp;You may block the installation of cookies by selecting the appropriate settings on your browser; however we point out that if you do, you may not be able to use all the features of this website.&nbsp;By using this site, you agree to the processing of data collected about you by Google in the manner described above and for the aforementioned purpose.<br><br><strong>You have the option to object this data collection by Google Analytics via the following link:<br></strong><br><strong><a href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a>&nbsp;</strong><br><br><strong>For more information on Terms of Use and the Privacy Policy, please visit <a href="http://www.google.com/analytics/terms/de.html">http://www.google.com/analytics/terms/de.html</a> &nbsp;or <a href="https://www.google.de/intl/de/policies/">https://www.google.de/intl/de/policies/</a><br><br></strong></li>
+</ol></li>
+<li><strong>Links to Other Websites</strong><br>Our website may contain links to websites of other providers to which this Privacy Policy does not extend.&nbsp;If the usage of web pages of other providers is connected with the collection, processing, or use of personal data, please see the respective privacy policies of those providers.<br>Infineon assumes no responsibility for the content of these websites.</li>
+<li><strong>Note</strong><br>In order to keep up with the continuous development of the Internet, Infineon may amend this Privacy Policy at any time in compliance with data protection regulations.</li>
+<li><strong><span lang="EN-US">Contact to Data Protection Officer</span>&nbsp;<br></strong>You can contact us at any time regarding privacy rights concerns at the following e-mail address: <a href="mailto:dataprotection@infineon.com">dataprotection@infineon.com</a>, or send a letter to the mailing address given below.
+<p>Please provide us with your contact details, the name of the Infineon website or service in question, and a detailed description of your request or your privacy/data protection issue.<br><br>To the Data Protection Officer<br>Infineon Technologies AG<br>81726 München<br>Deutschland</p>
+</li>
+</ol></div>
+					</div>
+			</section>
+		</div><div class="socialbar-content addthis_toolbox">
+	<div class="custom_images">
+		<span class="share-text">Share this</span>
+		<a class="addthis_button_facebook"><span class="glyphicon glyphicon-facebook1"></span></a>
+		<a class="addthis_button_twitter"><span class="glyphicon glyphicon-twitter1"></span></a>
+		<a class="addthis_button_google_plusone_share"><span class="glyphicon glyphicon-gplus"></span></a>
+		<a class="addthis_button_linkedin"><span class="glyphicon glyphicon-linkedin1"></span></a>
+		<a class="addthis_button_compact"><span class="glyphicon glyphicon-addthis"></span></a>
 	</div>
-</div>
-		
-		
-		
-		
-		<div id="support-buttons" class="teaser">
-			<ul>
-				<li><a class="tech-support" href="/cms/en/corporate/company/contact/support.html"><span class="access">Support</span></a></li>
+</div></article>
+											<aside class="col-md-3">
+												<div id="rightcontainer" class="teaser"><section>
+		<div class="content teaser-sidebar">
+					<h3>Where to buy</h3>
+						<div class="copy">
+								<p>Please use our location finder to get in contact with your nearest Infineon distributor or sales office</p>
+<p><a href="/cms/en/about-infineon/company/find-a-location/">Find a location</a></p></div>
+						</div>
+			</section>
+<section>
+		<h3>Related Links</h3>
+		<ul class="linklist">
+		<li><a href="/cms/de/about-infineon/privacy-policy/">Privacy Policy Germany</a></li>
+	</ul>
+</section>
+	</div></aside>
+										</div>
+							</main>
+
+							<footer role="footer" class="footer">
+	<div class="container-fluid">
+		<div class="row breadcrumb">
+				<div class="col-xs-12 hidden-sm hidden-xs hidden-xxs">
+					<ul class="vertical-list">
+						<li><a href="/cms/en/">Home</a></li>
+						<li><a href="/cms/en/about-infineon/">About Infineon</a></li>
+								<li><span class="folder">Privacy Policy</span></li>
+								</ul>
+				</div>
+			</div>
+			<div id="breadcrumb" style="display:none">
+				Home
+				
+							&gt; About Infineon
+							&gt; Privacy Policy</div>
+			<div class="row socialbar-footer">
+					<span class="followus">Follow us</span>
+					<div class="popup-wrapper">
+			<span class="glyphicon glyphicon-facebook2"></span>
+			<div class="hover-wrapper">
+				<div class="social-popup">
+					<ul class="channel-list facebook">
+						<li><a href="https://www.facebook.com/Infineon" target="_blank">Infineon</a></li>
+						<li><a href="https://www.facebook.com/infineon4engineers" target="_blank">Infineon 4 Engineers</a></li>
+						<li><a href="https://www.facebook.com/infineoncareer" target="_blank">Infineon Career</a></li>
+						</ul>
+				</div>
+			</div>
+		</div>
+	<div class="popup-wrapper">
+			<span class="glyphicon glyphicon-twitter2"></span>
+			<div class="hover-wrapper">
+				<div class="social-popup">
+					<ul class="channel-list twitter">
+						<li><a href="https://twitter.com/Infineon" target="_blank">Infineon</a></li>
+						<li><a href="https://twitter.com/Infineon4Engi" target="_blank">Infineon 4 Engineers</a></li>
+						<li><a href="https://twitter.com/InfineonCareer" target="_blank">Infineon Career</a></li>
+						</ul>
+				</div>
+			</div>
+		</div>
+	<div class="popup-wrapper">
+			<span class="glyphicon glyphicon-gplus2"></span>
+			<div class="hover-wrapper">
+				<div class="social-popup">
+					<ul class="channel-list gplus">
+						<li><a href="https://plus.google.com/+infineon/" target="_blank">Infineon</a></li>
+						<li><a href="https://plus.google.com/101438823788097791940/posts" target="_blank">Infineon 4 Engineers</a></li>
+						</ul>
+				</div>
+			</div>
+		</div>
+	<a href="https://www.youtube.com/user/InfineonTechnologies" target="_blank" title="Infineon"><span class="glyphicon glyphicon-youtube1"></span></a></div>
+			<div class="collapse-f-wrapper">
+				<div class="row collapse-button-row hidden-sm hidden-xs hidden-xxs">
+					<a class="collapse-button-wrapper" href="javascript:void(0)"><span class="glyphicon collapse-button"></span></a>
+				</div>
+				
+				<div class="accordion-f">
+					<div class="row dynamic-teaser">
+						<div class="col-sm-12 col-md-4 collapse-f">
+								<div class="heading-f">
+												<h2>Hot Jobs</h2>
+											</div>
+											<div class="content-f clearfix">
+												<ul class="linklist">
+													<li><a href="https://recruitingapp-2721.de.umantis.com/Vacancies/4031/Description/2" target="_blank">Functional safety engineer for automotive development (f/m)</a></li>
+	<li><a href="https://recruitingapp-2721.de.umantis.com/Vacancies/4046/Description/1" target="_blank">Quality Manager für Power ICs (m/w)</a></li>
+	<li><a href="https://recruitingapp-2721.de.umantis.com/Vacancies/2747/Description/2" target="_blank">Senior Product Engineer Power Semiconductor (f/m)</a></li>
+	<li><a href="https://recruitingapp-2721.de.umantis.com/Vacancies/3608/Description/1" target="_blank">Instandhalter/-in</a></li>
+	<li><a href="https://recruitingapp-2721.de.umantis.com/Vacancies/4158/Description/2" target="_blank">RF Power Application Engineer (f/m)</a></li>
+	</ul>
+												
+												</div>
+									</div>
+						<div class="col-sm-12 col-md-4 collapse-f">
+								<div class="heading-f">
+												<h2 class="teaser-headline-underlined">Latest Events</h2>
+											</div>
+											<div class="content-f event clearfix">
+												<section>
+				<a class="block-link" href="/cms/en/about-infineon/tradeshows-conferences/#!id=e_2286573c-40c2-11e4-a536-40f2e90e8d04">
+				<div class="date-icon small">
+	<time datetime="2015-01-01/2015-01-28">
+	<span class="date">
+				01&nbsp;
+				Jan</span>
+			<span class="sep">–</span>
+			<span class="date">
+				28&nbsp;
+				Jan</span>
+		</time>
+	</div>
+
+<p class="meta">Worldwide</p>
+				<p>Quiet Period; Date preliminary</p>
+				</a>
+				</section>
+		<section>
+				<a class="block-link" href="/cms/en/about-infineon/tradeshows-conferences/#!id=e_2230e436-40c2-11e4-a536-40f2e90e8d04">
+				<div class="date-icon small">
+	<time datetime="2015-01-29">
+	<span class="day">29</span>
+			<span class="month">Jan</span>
+		</time>
+	</div>
+
+<p class="meta">Neubiberg, Germany</p>
+				<p>Interim report (FY 2015, FQ1 results); Date preliminary</p>
+				</a>
+				</section>
+		<section>
+				<a class="block-link" href="/cms/en/about-infineon/tradeshows-conferences/#!id=e_21df41c0-40c2-11e4-a536-40f2e90e8d04">
+				<div class="date-icon small">
+	<time datetime="2015-02-12">
+	<span class="day">12</span>
+			<span class="month">Feb</span>
+		</time>
+	</div>
+
+<p class="meta">ICM - Internationales Congress Center München, Germany</p>
+				<p>Annual General Meeting 2015 (Start: 10.00 a.m. CET); Date preliminary</p>
+				</a>
+				</section>
+		<a href="/cms/en/about-infineon/tradeshows-conferences/" class="link more">Tradeshows &amp; Conferences</a></div>
+									</div>
+						<div class="col-sm-12 col-md-4 collapse-f">
+								<div class="heading-f">
+												<h2 class="teaser-headline-underlined">Latest News</h2>
+											</div>
+											<div class="content-f news clearfix">
+												<section>
+					<a class="block-link clearfix" href="/cms/en/about-infineon/press/press-releases/2014/INFXX201412-019.html">
+						<p class="meta">
+							Dec 19, 2014 | <span class="category">Business &amp; Financial Press</span></p>
+						<p>Infineon Supervisory Board to stand for re-election at the Annual General Meeting 2015</p>
+					</a>
+				</section>
+			<section>
+					<a class="block-link clearfix" href="/cms/en/about-infineon/press/press-releases/2014/INFATV201412-018.html">
+						<figure>
+							<span class="picture" data-class="img-responsive" data-alt="">
+	 							<span data-src="/export/sites/default/media/press/Image/press_photo/Po-Wen-Yen.jpg_1731455885.jpg" data-min-width="1024"></span>
+	 						</span>
+						</figure>
+						<p class="meta">
+							Dec 15, 2014 | <span class="category">Technology Media</span></p>
+						<p>Infineon and UMC Announce Manufacturing Agreement for Automotive  Applications</p>
+					</a>
+				</section>
+			<section>
+					<a class="block-link clearfix" href="/cms/en/about-infineon/press/press-releases/2014/INFXX201412-018.html">
+						<figure>
+							<span class="picture" data-class="img-responsive" data-alt="">
+	 							<span data-src="/export/sites/default/media/press/Image/press_photo/GSA2014_Winner.jpg_1675084209.jpg" data-min-width="1024"></span>
+	 						</span>
+						</figure>
+						<p class="meta">
+							Dec 12, 2014 | <span class="category">Business &amp; Financial Press</span></p>
+						<p>Infineon Named Outstanding EMEA Semiconductor Company by Global Semiconductor Alliance</p>
+					</a>
+				</section>
+			<a href="/cms/en/about-infineon/press/press-releases/" class="link more">Press Releases</a></div>
+									</div>
+						</div> <!-- end dynamic-teaser -->
+					
+					<div class="row global-teaser">
+						<div class="col-md-3 col-sm-12 collapse-f">
+								<div class="heading-f">
+									<h4>Focus Areas</h4>
+								</div>
+								
+								<div class="content-f clearfix">
+								<ul class="linklist blue-button-link">
+										<li><a href="/cms/en/about-infineon/company/focusareas/energy-efficiency/">Energy Efficiency</a></li>
+	<li><a href="/cms/en/about-infineon/company/focusareas/mobility/">Mobility</a></li>
+	<li><a href="/cms/en/about-infineon/company/focusareas/security/">Security</a></li>
+	<li><a href="/cms/en/applications/automotive/car-security/">Car Security</a></li>
+	<li><a href="/cms/en/product/technology/Semiconductors/">Semiconductors</a></li>
+	</ul>
+									</div> <!--end content  -->
+							</div> <!-- end col-md-3 col-sm-6 -->
+							<div class="col-md-3 col-sm-12 collapse-f">
+								<div class="heading-f">
+									<h4>Top-Products</h4>
+								</div>
+								
+								<div class="content-f clearfix">
+								<ul class="linklist">
+										<li><a href="/cms/en/product/microcontroller/channel.html?channel=ff80808112ab681d0112ab6b2dfc0756">Microcontroller</a></li>
+	<li><a href="/cms/en/product/transceiver/channel.html?channel=db3a3043442f82090144305a607e024f">Transceiver</a></li>
+	<li><a href="/cms/en/product/power/mosfet/channel.html?channel=db3a304319c6f18c011a14e5341b25f1">MOSFET</a></li>
+	<li><a href="/cms/en/product/transceiver/channel.html?channel=db3a3043442f82090144305a607e024f">Sensor Ics</a></li>
+	<li><a href="/cms/en/product/transistor-and-diode/channel.html?channel=db3a304319c6f18c011a14e6b8e025f7">Transistor &amp; Diodes</a></li>
+	</ul>
+									<div class="show-border">
+											<a href="/cms/en/product/" class="link more">All Products</a></div>
+									</div> <!--end content  -->
+							</div> <!-- end col-md-3 col-sm-6 -->
+							<div class="col-md-3 col-sm-12 collapse-f">
+								<div class="heading-f">
+									<h4>Top-Applications</h4>
+								</div>
+								
+								<div class="content-f clearfix">
+								<ul class="linklist">
+										<li><a href="/cms/en/applications/automotive/">Automotive</a></li>
+	<li><a href="/cms/en/applications/motor-control-drives/">Motor Control and Drives</a></li>
+	<li><a href="/cms/en/applications/lighting/">Lighting</a></li>
+	<li><a href="/cms/en/applications/chip-card-security/">Chip Card and Security</a></li>
+	<li><a href="/cms/en/applications/industrial/automation/">Automation</a></li>
+	</ul>
+									<div class="show-border">
+											<a href="/cms/en/applications/" class="link more">All Applications</a></div>
+									</div> <!--end content  -->
+							</div> <!-- end col-md-3 col-sm-6 -->
+							<div class="col-md-3 col-sm-12 collapse-f">
+							<div class="heading-f">
+									<h4>About Infineon</h4>
+								</div>
+								<div class="content-f clearfix">
+									<ul class="linklist">
+										<li><a href="/cms/en/about-infineon/company/">Company</a></li>
+										<li><a href="/cms/en/about-infineon/tradeshows-conferences/">Tradeshows &amp; Conferences</a></li>
+										<li><a href="/cms/en/about-infineon/investor/">Investor</a></li>
+										<li><a href="/cms/en/about-infineon/press/">Press</a></li>
+										<li><a href="/cms/en/about-infineon/sustainability/">Sustainability</a></li>
+										</ul>
+								</div>
+							</div>
+					</div> <!-- end global-teaser -->
+				</div> <!-- end accordion-f -->
+			</div> <!-- end collapse-f-wrapper -->
+			
+			<div class="row">
+				<div class="copyright">
+					<p>© 1999 - 2014&nbsp;Infineon Technologies AG, 苏ICP备10208074号</p>
+					<ul class="vertical-list hidden-print">
+						<li><a href="/cms/en/about-infineon/usage-terms/">Usage of this website is subject to our Usage Terms</a></li>
+						<li><a href="/cms/en/about-infineon/imprint/">Imprint</a></li>
+						<li><a href="/cms/en/about-infineon/company/contacts/">Contact</a></li>
+						<li><a href="/cms/en/about-infineon/privacy-policy/">Privacy Policy</a></li>
+						<li><a href="/cms/en/about-infineon/press/general-information/glossary/">Glossary</a></li>
+						</ul>
+				</div>
+			</div>
+		<div class="row hidden-print">
+		<div class="switch">
+			<ul class="vertical-list">
+				<li><a href="#" class="hidden-xxs hidden-xs hidden-sm" id="switch-to-mobile">Switch to Mobile Version</a></li>
+				<li><a href="#" class="hidden-lg hidden-md" id="switch-to-desktop">Switch to Desktop Version</a></li>
 			</ul>
 		</div>
+	</div>
+</div></footer>
+
+</div>
+						<script>
+	var navigationPageId = '3925422b-10b7-11e4-b3df-556353e4878f';
+</script>
+
+<script src="/cms/en/services/js/configuration.js"></script>
+	<script src="/export/system/modules/com.infineon.corporatewebsite.frontend/resources/js/combined.min.js?v=2014-12"></script>
+	<script>
+
+	configuration.data.page.languageShort = 'en';
+	configuration.data.page.language = 'English';
+	
+	configuration.data.page.languages = [
 		
+		'简体中文',
+		'Deutsch',
+		'日本語'
+	];
+	configuration.data.page.languagesHrefs = [
 		
-		
-
-
-
-
-
-
-		
-		<div id="context-zone">
-
+		'/cms/cn/about-infineon/privacy-policy/',
+		'/cms/de/about-infineon/privacy-policy/',
+		'/cms/jp/about-infineon/privacy-policy/'
+	];
+</script>
+<script>
+$(document).ready(function(){for(f in functionToInit)'function'==typeof functionToInit[f]&&functionToInit[f]()});
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#async=1"></script>
+<script src="//static.transim.com/file/102014/ifxcart-1bp7b.js" type="text/javascript"></script><script type="text/javascript">
+			/* You may give each page an identifying name, server, and channel on the next lines. */
+			s.pageName="\/en\/about-infineon\/privacy-policy\/index.html";
+			s.server=window.location.hostname;
 			
-
+			s.channel="aboutinfineon [en]";
+			s.pageType=""; // only set for error page
+			s.events="event20,event21";
+			s.hier1="home|en|about infineon|privacy policy";
+			s.hier2="home|about infineon|privacy policy";
 			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-function ServicesAndToolsSubmit(sFormId) 
-{
-	if(validateOnSubmit(sFormId)) {
-		// fix for IE instead of $(sFormId).serialize(true)
-		var serializedFormParameters = "?";
-		for(var i = 0; i < $(sFormId).length; i++) {
-			if($(sFormId).elements[i].type != "checkbox" || ($(sFormId).elements[i].type == "checkbox" && $(sFormId).elements[i].checked)) {
-				if(i>0) serializedFormParameters += "&";
-				serializedFormParameters += $(sFormId).elements[i].name + "=" + $(sFormId).elements[i].value;
+			/* Custom Conversion Variables, max 255 chars */
+			s.eVar1=s.prop1="D=pageName";
+			s.eVar2="\/en\/about-infineon\/privacy-policy\/index.html";
+			s.eVar3=s.prop3="D=g";
+			s.eVar4="privacy policy [en]";
+			s.eVar7="";
+			s.eVar8=s.prop8="D=r";
+			s.eVar9=""; // not used
+			s.eVar10="about infineon"; // ok
+			s.eVar11="";
+			s.eVar13=""; // not used for facelift
+			s.eVar21="bc6a9ca4-13d6-11e4-b3df-556353e4878f";
+			
+			/* Custom Traffic Variables, max 100 chars  */
+			s.prop2="D=v2";
+			s.prop4= s.eVar4 != "" ? "D=v4" : "";
+			s.prop5="en";
+			s.prop6= "";
+			s.prop7= "";
+			s.prop9= s.eVar9 != "" ? "D=v9" : "";
+			s.prop10= s.eVar10 != "" ? "D=v10" : "";
+			s.prop11= s.eVar11 != "" ? "D=v11" : "";
+			s.prop12="";
+			s.prop16="Flash Player " + getFlashPlayerVersion();
+			s.prop18="";
+			s.prop21=s.eVar21 != "" ? "D=v21" : "";
+		
+			/* extend properties for new sitesearch*/
+			if (s.prop12 === "sitesearch") {
+				s.hier1="home|en|searchresults";
+				s.hier2="home|searchresults";
+				s.eVar4="search [en]";
+				s.eVar10="searchresults";
+				s.eVar11= vi.helpers.getHashParameter("term") || "";
+				
+				s.prop4= s.eVar4 != "" ? "D=v4" : "";
+				s.prop10= s.eVar10 != "" ? "D=v10" : "";
+				s.prop11= s.eVar11 != "" ? "D=v11" : "";
 			}
-		}
-		serializedFormParameters = encodeURI(serializedFormParameters);
-
-		var url = "/cms/en/services/servicesandtools.html";
-		new Ajax.Updater(sFormId+"-response", url, { method: "post", parameters: serializedFormParameters });
-		return true;
-	} else {
-		setFocus(sFormId);
-		return false;
-	}
-}
-</script>
-
-
-	<div id="where-to-buy" class="teaser">
-	<h4>Where to buy</h4>
-	<p>Please use our location finder to get in contact with your nearest Infineon distributor or sales office </p>
-	<ul class="links">
-		<li><a class="link" href="/cms/en/product/where-to-buy.html">Find a location</a></li>
-	</ul>
-</div> 
-
-
-
-	
-			
-			
-			
-	
-			
-			
-				<div class="teaser additional-info">
-					<h4>Related Links</h4>
-					<ul class="related-links">
-						
-						<li>
-
-
-
-
-	
-	
 		
-		
-			<a class="link" href="/cms/cn/corporate/privacy-policy.html">
-		
-	
-	
-		
-			Privacy Policy China
-		
-		
-		
-	
-			</a>
-
-
-</li>
-						
-						<li>
-
-
-
-
-	
-	
-		
-		
-			<a class="link" href="/cms/en/corporate/privacy-policy/privacy-policy_fr.html">
-		
-	
-	
-		
-			Privacy Policy France
-		
-		
-		
-	
-			</a>
-
-
-</li>
-						
-						<li>
-
-
-
-
-	
-	
-		
-		
-			<a class="link" href="/cms/de/corporate/privacy-policy.html">
-		
-	
-	
-		
-			Privacy Policy Germany
-		
-		
-		
-	
-			</a>
-
-
-</li>
-						
-						<li>
-
-
-
-
-	
-	
-		
-		
-			<a class="link" href="/cms/en/corporate/privacy-policy/privacy-policy_it.html">
-		
-	
-	
-		
-			Privacy Policy Italia
-		
-		
-		
-	
-			</a>
-
-
-</li>
-						
-						<li>
-
-
-
-
-	
-	
-		
-		
-			<a class="link" href="/cms/en/corporate/privacy-policy/privacy-policy_ru.html">
-		
-	
-	
-		
-			Privacy Policy Russia
-		
-		
-		
-	
-			</a>
-
-
-</li>
-						
-					</ul>
-				</div>
-			 
-			
-	
-			
-			
-				
-				
-			
-			
-	
-			
-				
-				
-				
-			
-		</div>
+			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+			var s_code=s.t();if(s_code)document.write(s_code);
+		</script>
+		<noscript>
+			<img src="http://infineon.d3.sc.omtrdc.net/b/ss/ifninfineon/1/H.24.1--NS/0" height="1" width="1" border="0" alt="" />
+		</noscript>
 	</div>
-	
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="footer-position-placeholder">&nbsp;</div>
-
-<!--  Close footer-position-wrapper -->
-</div>
-<div id="footer-zone-wrapper" class="clearfix">
-
-
-<!-- START: footer-zone refresh 2011 -->
-<div id="footer-zone" class="clearfix">
-            <!-- region site specific -->
-    
-    
-
-    <div class="sub-footer clearfix">
-		<span class="text first">Explore our Focus Areas</span>
-        <a href="/cms/en/focus-areas/energy-efficiency/">
-            <span class="image green-big"></span>
-            <span class="text second">Energy Efficiency</span>
-        </a>
-        <a href="/cms/en/focus-areas/mobility/">
-            <span class="image blue-big"></span>
-            <span class="text third">Mobility</span>
-        </a>
-        <a href="/cms/en/focus-areas/security/">
-            <span class="image yellow-big"></span>
-		    <span class="text fourth">Security</span>
-        </a>
-	</div>
-	
-		<div id="footer-navigation" class="clearfix">
-			
-				<div class="footer-column">
-					<h3>Products</h3>
-					<ul>
-						
-							
-							<li><a href="/cms/en/product/power/channel.html?channel=db3a304319c6f18c011a154646852706">Power</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/asic/channel.html?channel=ff80808112ab681d0112ab69b2bc02c7">ASIC</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/automotive-system-ic/channel.html?channel=db3a304319c6f18c011a1524811d26bf">Automotive System IC</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/esd-and-emi/channel.html?channel=ff80808112ab681d0112ab6b18820716">ESD &amp; EMI</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/microcontroller/channel.html?channel=ff80808112ab681d0112ab6b2dfc0756">Microcontroller</a></li>
-						
-						
-							
-								</ul>
-								<ul class="more">
-							
-							<li><a href="/cms/en/product/rf-and-wireless-control/channel.html?channel=db3a304319c6f18c011a14e8eb3225fe">RF &amp; Wireless Control</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/security-ic/channel.html?channel=db3a30433fa9412f013fc3547ddf1e8e">Security IC</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/smart-card-ic/channel.html?channel=ff80808112ab681d0112ab6923e10125">Smart Card IC</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/sensor-ics/channel.html?channel=ff80808112ab681d0112ab68eaf1008b">Sensor ICs</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/transceiver/channel.html?channel=db3a3043442f82090144305a607e024f">Transceiver</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/transistor-and-diode/channel.html?channel=db3a304319c6f18c011a14e6b8e025f7">Transistor &amp; Diode</a></li>
-						
-						
-					</ul>
-					
-						<ul class="toggle">
-							<li class="all"><a href="javascript:void(0);" class="link">see all</a></li>
-							<li class="less"><a href="javascript:void(0);" class="link">see less</a></li>
-						</ul>
-					
 				</div>
 			
-				<div class="footer-column">
-					<h3>Applications</h3>
-					<ul>
-						
-							
-							<li><a href="/cms/en/product/applications/automation/">Automation</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/automotive/">Automotive</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/chip-card-and-security/">Chip Card and Security</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/consumer/">Consumer</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/data-processing/">Data Processing</a></li>
-						
-						
-							
-								</ul>
-								<ul class="more">
-							
-							<li><a href="/cms/en/product/applications/emobility/">Electromobility</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/industrial/">Industrial</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/lighting/">Lighting</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/Medical/">Medical</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/Mobile_Devices/">Mobile Devices</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/Motor_Control_Drives/">Motor Control &amp; Drives</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/sev/">Motorcycles, E-Bikes and Small E-Vehicles</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/Power_Supplies/">Power Supplies</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/Smart_Grid/">Smart Grid</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/solar/">Solar Energy Systems</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/applications/wind/">Wind Energy Systems</a></li>
-						
-						
-					</ul>
-					
-						<ul class="toggle">
-							<li class="all"><a href="javascript:void(0);" class="link">see all</a></li>
-							<li class="less"><a href="javascript:void(0);" class="link">see less</a></li>
-						</ul>
-					
-				</div>
-			
-				<div class="footer-column">
-					<h3>Technology</h3>
-					<ul>
-						
-							
-							<li><a href="/cms/en/product/technology/green-products/">Green Products</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/technology/halogen-free/">Halogen-free Products</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/technology/products-material-declaration/">Products Material Declaration</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/technology/quality/">Quality</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/technology/packages/">Packages</a></li>
-						
-						
-							
-								</ul>
-								<ul class="more">
-							
-							<li><a href="/cms/en/product/technology/design_link">Design:)Link</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/technology/opn/">Orderable Part Number</a></li>
-						
-						
-							
-							<li><a href="/cms/en/product/technology/Semiconductors/">Semiconductors: Products &amp; System Solutions</a></li>
-						
-						
-					</ul>
-					
-						<ul class="toggle">
-							<li class="all"><a href="javascript:void(0);" class="link">see all</a></li>
-							<li class="less"><a href="javascript:void(0);" class="link">see less</a></li>
-						</ul>
-					
-				</div>
-			
-				<div class="footer-column">
-					<h3>About Infineon</h3>
-					<ul>
-						
-							
-							<li><a href="/cms/en/corporate/company/">Company</a></li>
-						
-						
-							
-							<li><a href="/cms/en/corporate/investor/">Investor</a></li>
-						
-						
-							
-							<li><a href="/cms/en/corporate/press/">Press</a></li>
-						
-						
-							
-							<li><a href="/cms/en/corporate/career/">Career</a></li>
-						
-						
-							
-							<li><a href="/cms/en/corporate/csr/">Corporate Social Responsibility</a></li>
-						
-						
-							
-								</ul>
-								<ul class="more">
-							
-							<li><a href="/cms/en/corporate/tradeshow/">Tradeshows &amp; Conferences</a></li>
-						
-						
-							
-							<li><a href="/cms/en/corporate/mediacenter/">Media Center</a></li>
-						
-						
-					</ul>
-					
-						<ul class="toggle">
-							<li class="all"><a href="javascript:void(0);" class="link">see all</a></li>
-							<li class="less"><a href="javascript:void(0);" class="link">see less</a></li>
-						</ul>
-					
-				</div>
-			
-		</div>
-		<div class="footer-spacer"></div>
-	
-	<dl id="footer">
 		
-			
-				
-			
-			
-		
-		
-			
-				
-			
-			
-			
-		
-		<dt>© 1999 - 2014 <a href="/cms/en/corporate/company/">Infineon Technologies AG</a>, 苏ICP备10208074号 - Usage of this website is subject to our</dt>
-		<dd><a href="/cms/en/corporate/usage-terms.html">Usage Terms</a> - <a href="/cms/en/corporate/imprint.html">Imprint</a> - <a href="/cms/en/corporate/company/contact/">Contact</a> - <a href="/cms/en/corporate/privacy-policy.html">Privacy Policy</a> - <a href="/cms/en/topics/glossar_en.html">Glossary</a></dd>
-	</dl>
-</div>
-</div>
-<!-- END: footer-zone refresh 2011 -->
-<div id="footer-print" class="print-only">© 1999 - 2014 Infineon Technologies AG, 苏ICP备10208074号</div>
-
-
-<script src="//infineon.transim.com/cart/pub/js/ifxcart.js" type="text/javascript"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- SiteCatalyst code version: H.24.1.
-Copyright 1997-2009 Adobe, Inc. More info available at
-http://www.Adobe.com -->
-<script type="text/javascript">
-	<!--
-	var s_account="ifninfineon";
-	//-->
-</script>
-<script type="text/javascript" src="/export/system/modules/com.virtualidentity.infineon.frontend/resources/js/src/vendor/omniture.code.js?cv=2014-06"></script>
-
-<script type="text/javascript"><!--
-function trackDownloadClick(obj, downloadTitle, pageName)
-{
-	var event='event9';
-	var s=s_gi(s_account);
-    s.linkTrackVars='prop1,prop2,prop3,prop4,prop9,prop10,prop16,prop17,prop18,eVar1,eVar2,eVar3,eVar4,eVar9,eVar10,eVar17,events';
-    s.linkTrackEvents=event;
-	s.eVar17=pageName;
-	s.prop17='D=v17';
-   
-	s.prop18=downloadTitle;
-	s.events=event;
-	
-    var lt = obj.href != null ? s.lt(obj.href) : "";
-    if (lt=="") { s.tl(obj,'d', downloadTitle); s.events=""; }
-    
-	// delegate download event to eloqua tracker
-    elqTrackClick('download', obj, downloadTitle);
-}
-
-function trackBannerClick(obj, bannerTitle)
-{
-	var event='event14';
-	var s=s_gi(s_account);
-	s.linkTrackVars='prop1,prop2,prop3,prop4,prop9,prop10,prop16,prop20,eVar1,eVar2,eVar3,eVar4,eVar9,eVar10,events';
-	s.linkTrackEvents=event;
-	s.eVar9='entry|banner|' + bannerTitle;
-	s.prop9='D=v9';
-	s.prop20='D=v9';
-	s.events=event;
-	s.tl(obj,'o',bannerTitle);
-    s.events="";
-}
-
-function trackVideoClick(obj, bannerTitle)
-{
-	var s=s_gi(s_account);	
-	s.linkTrackEvents=false;
-	s.linkTrackVars='prop1,prop2,prop3,prop4,prop10,prop16,prop20,eVar1,eVar2,eVar3,eVar4,eVar10';
-	s.prop20='entry|banner|' + bannerTitle;
-	s.tl(obj,'o',bannerTitle);
-}
-
-
-function trackClickEvent(obj, event, propVal)
-{
-	var s=s_gi(s_account);	
-	s.linkTrackVars='prop1,prop2,prop3,prop4,prop9,prop10,prop16,prop20,eVar1,eVar2,eVar3,eVar4,eVar9,eVar10,events';
-	s.linkTrackEvents=event;
-	s.prop20=propVal;
-	s.events=event;
-	s.tl(obj,'o',propVal);
-    s.events="";
-}
-
-function trackBuyOrRequestClick(obj, event, propVals)
-{
-	// do not track if product is already in cart
-	if (jq(obj).text() == "In Cart" || jq(obj).text() == "View Cart") return;
-    var s=s_gi(s_account);
-    s.linkTrackVars='prop1,prop2,prop3,prop4,prop9,prop10,prop16,prop20,eVar1,eVar2,eVar3,eVar4,eVar9,eVar10,eVar13,eVar14,events';
-    s.linkTrackEvents=event;
-    var vals = propVals.split('|');
-    if (vals.length > 2) {
-        s.eVar13=vals[0].split('___').join('|');
-        s.eVar14=vals[1];
-        s.prop20=vals[2];
-    }
-    else if (vals.length > 1) {
-        s.eVar13=vals[0].split('___').join('|');
-        s.eVar14=vals[1];
-        s.prop20='D=v14';
-    }
-    else if (vals.length == 1) {
-        s.eVar13='unknown';
-        s.eVar14=vals[0];
-        s.prop20='D=v14';
-    }
-    s.events=event;
-    s.tl(obj,'o',s.eVar14);
-    s.events="";
-    
-    // delegate buy event to eloqua tracker
-    elqTrackBuyOrRequest(obj, propVals);
-}
-
-function trackFreeSampleClick(obj, event, propVals)
-{
-    var s=s_gi(s_account);
-    s.linkTrackVars='prop1,prop2,prop3,prop4,prop9,prop10,prop16,prop20,eVar1,eVar2,eVar3,eVar4,eVar9,eVar10,eVar13,eVar14,eVar16,events';
-    s.linkTrackEvents=event;
-    var vals = propVals.split('|');
-    if (vals.length > 2) {
-        s.eVar13=vals[0].split('___').join('|');
-        s.eVar14=vals[1];
-        s.prop20=vals[2];
-        s.eVar16=vals[1]+'|'+s.pageName;
-    }
-    else if (vals.length > 1) {
-        s.eVar13=vals[0].split('___').join('|');
-        s.eVar14=vals[1];
-        s.prop20='D=v14';
-        s.eVar16=vals[1]+'|'+s.pageName;
-    }
-    else if (vals.length == 1) {
-        s.eVar13='unknown';
-        s.eVar14=vals[0];
-        s.prop20='D=v14';
-        s.eVar16=vals[0]+'|'+s.pageName;
-    }
-    s.events=event;
-    s.tl(obj,'o',s.eVar14);
-    s.events="";
-}
-
-function trackSearch(obj, term, source)
-{
-    var s=s_gi(s_account);
-    s.linkTrackVars='prop1,prop2,prop3,prop4,prop9,prop10,prop16,prop11,prop12,eVar1,eVar2,eVar3,eVar4,eVar9,eVar10,eVar11';
-    s.eVar11=term;
-    s.prop11='D=v11';
-    s.prop12=source;
-    var lt=obj.href!=null?s.lt(obj.href):"";
-    if (lt=="") {
-    	var href = obj.getAttribute('href') || "";
-    	var objHref = obj.getAttribute('action') || href.substring(0, href.indexOf('?'))
-    	if (objHref.indexOf("infineon.product-discontinuation.com") > -1) {
-    		s.tl(true,'e', objHref);
-    	} else {
-    		s.tl(true,'o', (objHref != "javascript:;" && objHref != "#" ? objHref : "D=pageName") );	
-    	}
-    };
-}
-
-// -->
-</script>
-
-	
-
-
-<script type="text/javascript"><!--
-	/* get Flash Player version */
-	function getFlashPlayerVersion() {
-		var flashVersion = "version not recognized, swfobject not available";
-		if (typeof deconcept !== "undefined") {
-			var flashVersionObject = deconcept.SWFObjectUtil.getPlayerVersion();
-			var flashVersion = flashVersionObject.major + '.' + flashVersionObject.minor + '.' + flashVersionObject.rev;	
-		}
-		if (typeof swfobject !== "undefined") {
-			var flashVersionObject = swfobject.getFlashPlayerVersion();
-			var flashVersion = flashVersionObject.major + '.' + flashVersionObject.minor + '.' + flashVersionObject.rev;	
-		}
-		if (flashVersion == "0.0.0") flashVersion = "not available";
-		return flashVersion;
-	}
-	
-	/* You may give each page an identifying name, server, and channel on the next lines. */
-	s.pageName="\/en\/corporate\/privacy-policy.html";
-	s.server=window.location.hostname;
-	s.channel="aboutinfineon [en]";
-	s.pageType=""; // only set for error page
-	s.events="event20";
-	s.hier1="home|en|about infineon";
-	
-	/* Custom Conversion Variables, max 255 chars */
-	s.eVar1=s.prop1="D=pageName";
-	s.eVar2="\/en\/corporate\/privacy-policy.html";
-	s.eVar3=s.prop3="D=g";
-	s.eVar4="privacy policy [en]";
-	s.eVar7="";
-	s.eVar8=s.prop8="D=r";
-	s.eVar9="";
-	s.eVar10="about infineon";
-	s.eVar11="";
-	s.eVar13="";
-	
-	/* Custom Traffic Variables, max 100 chars  */
-	s.prop2="D=v2";
-	s.prop4= s.eVar4 != "" ? "D=v4" : "";
-	s.prop5="en";
-	s.prop6= "";
-	s.prop7= "";
-	s.prop9= s.eVar9 != "" ? "D=v9" : "";
-	s.prop10= s.eVar10 != "" ? "D=v10" : "";
-	s.prop11= s.eVar11 != "" ? "D=v11" : "";
-	s.prop12="";
-	s.prop16="Flash Player " + getFlashPlayerVersion();
-	s.prop18="";
-
-	/* extend properties for new sitesearch*/
-	if (s.prop12 === "sitesearch") {
-		s.hier1="home|en|searchresults";
-		s.eVar4="search [en]";
-		s.eVar10="searchresults";
-		s.eVar11= ifx.helpers.getURLParameter("term") || "";
-		
-		s.prop4= s.eVar4 != "" ? "D=v4" : "";
-		s.prop10= s.eVar10 != "" ? "D=v10" : "";
-		s.prop11= s.eVar11 != "" ? "D=v11" : "";
-	}
-
-	/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	var s_code=s.t();if(s_code)document.write(s_code);//-->
-</script>
-<script type="text/javascript"><!--
-	if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
-	//-->
-</script>
-<noscript>
-	<img src="http://infineon.d3.sc.omtrdc.net/b/ss/ifninfineon/1/H.24.1--NS/0" height="1" width="1" border="0" alt="" />
-</noscript><!--/DO NOT REMOVE/-->
-	<!-- End SiteCatalyst code version: H.24.1. -->
-
-	
-
-
-
-
-
-
-<!-- START: layer-zone refresh 2011 -->
-<div id="layer-zone">
-	<div id="share-layer" class="layer clearfix">
-		<a href="javascript:void(0);" class="close"></a>
-		<h2>Share this page</h2>
-		<div class="columns clearfix">
-			<div class="column communities left">
-				<h3>Communities</h3>
-				<ul>
-					<li>&nbsp;</li>
-				</ul>
-			</div>
-			<div class="column bookmarking">
-				<h3>Bookmarking Sites</h3>
-				<ul>
-					<li>&nbsp;</li>
-				</ul>
-			</div>
-			<div class="column news">
-				<h3>News</h3>
-				<ul>
-					<li>&nbsp;</li>
-				</ul>
-			</div>
-			<div class="column blogs right">
-				<h3>Blogs &amp; Microblogs</h3>
-				<ul>
-					<li>&nbsp;</li>
-				</ul>
-			</div>
-		</div>
-		<a href="mailto:?subject=Someone%20recommended%20a%20page%20of%20the%20Infineon%20website&amp;body=The%20link%20" class="recommend">E-Mail this page</a>
-	</div>
-	<div id="curtain"></div>
-</div>
-<!-- END: layer-zone refresh 2011 -->
-
-
-
-
-
-</body></html>
+	</body></html>
