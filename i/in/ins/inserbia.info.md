@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inserbia.info privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630154449id_/http%3A//inserbia.info/today/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inserbia.info privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227042250id_/http%3A//inserbia.info/today/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | InSerbia News
 
