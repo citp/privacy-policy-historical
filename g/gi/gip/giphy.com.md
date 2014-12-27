@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giphy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053635id_/http%3A//giphy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giphy.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227131030id_/http%3A//giphy.com/privacy) for the most accurate reproduction.*
 
 # Search Animated GIFs on the Web - Giphy
 
@@ -98,7 +98,7 @@ What Information of Mine Can I Access?
 
 Users can access and delete cookies through their web browser settings. 
 
-California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 416 West 13th Street, Suite 203, New York, NY 10014. 
+California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 29 Little West 12th Street, New York, NY 10014. 
 
 What Choices Do I Have Regarding My Information?
 
