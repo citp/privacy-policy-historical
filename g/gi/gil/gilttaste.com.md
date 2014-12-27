@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilttaste.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621055324id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilttaste.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227020505id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gilt Groupe | About
 
@@ -91,7 +91,7 @@ We also may use the information we obtain about you in other ways for which we p
 
 ## Online Advertising
 
-On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on this and other sites because we participate in advertising networks. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods. The networks use this information to show you advertisements for GILT and our business partners that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors‘ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
+On our websites, we may collect information about your online activities to provide advertising about products and services tailored to your individual interests. You may see certain ads on this and other sites because we participate in advertising networks. Ad networks may include third-party ad servers, ad agencies, ad technology vendors and research firms. We are not responsible for the privacy practices of these third parties, and we encourage you to read their privacy policies, which may apply to these third-party programs. Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means. These networks track your online activities over time across third-party websites or online services by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods. The networks use this information to show you advertisements for GILT and our business partners that are tailored to your individual interests. The information our ad network vendors collect includes information about your visits to websites that participate in the vendors‘ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites. This data collection and ad targeting take place both on our websites and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts.
 
 We do not sell or otherwise disclose personal information about you, except as described in this Privacy Notice.
 
@@ -109,7 +109,7 @@ Here are the choices we offer:
 
 ### Sharing Information with Business Partners
 
-You may direct GILT not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us at privacy@gilt.com. If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
+You may direct GILT not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us at [privacy@gilt.com](mailto:privacy@gilt.com). If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Notice, including with our service providers, to fulfill your requests and to comply with legal requirements.
 
 ### Marketing Emails
 
@@ -117,11 +117,11 @@ You may choose not to receive marketing email communications from us by clicking
 
 ### Web Analytics
 
-You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by [clicking here](http://www.omniture.com/en/privacy/product#optout) and [here](http://tools.google.com/dlpage/gaoptout) and selecting the opt-out link at the bottom of the linked site.  For opting out of the aggregation and analysis of data collected about you on our mobile sites, click [here](http://www.flurry.com/resources/privacy.html "here") and [here](https://mixpanel.com/optout/ "here").
+You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by [clicking here](http://www.omniture.com/en/privacy/product#optout) and [here](http://tools.google.com/dlpage/gaoptout) and selecting the opt-out link at the bottom of the linked site.  For opting out of the aggregation and analysis of data collected about you on our mobile sites, click [here](https://dev.flurry.com/secure/optOut.do "here") and [here](https://mixpanel.com/optout/ "here").
 
 ### Targeted Advertising
 
-To opt out of receiving marketing communications through the advertising networks of our ad network vendors, please [click here](http://www.networkadvertising.org/managing/opt_out.asp), then click “Select all” on the linked site and push the “Submit” button.
+We may engage with advertising networks that are members of organizations or programs that manage the privacy choices these ad networks offer consumers. For example, you may opt out of receiving certain marketing communications through the Network Advertising Initiative member ad networks by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp), and learn about additional online advertising opt-out options by [clicking here](http://info.evidon.com/pub_info/3863). Please note that we also may work with ad networks that offer their own opt-out mechanisms and may not honor the opt-outs we linked above.  You can opt-out of targeted ads on Facebook by [clicking here](https://www.facebook.com/ads/website_custom_audiences/).  
 
 ### Geo-Location Information
 
@@ -133,7 +133,7 @@ Most browsers will tell you how to stop accepting new cookies, how to be notifie
 
 ### Your California Privacy Rights
 
-If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that GILT has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to GILT, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email privacy@gilt.com, with the subject line "California Privacy" and your request in the body of your email.
+If you are a California resident, you may request that we provide to you (i) a list of the categories of personal information about you that GILT has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed, if known to GILT, sufficient to give you a reasonable indication of the nature of the third parties’ business. To submit your request, please email [privacy@gilt.com](mailto:privacy@gilt.com), with the subject line "California Privacy" and your request in the body of your email.
 
 ## Access and Correction
 
@@ -145,7 +145,7 @@ Our websites may contain links to other sites for your convenience and informati
 
 ## Data Transfers
 
-When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. We will protect your information as described in this Privacy Notice.
+This is a U.S. website subject to U.S. laws, including those governing the privacy and security of your information. When we obtain personal information about you, we may process the information outside of the country in which you are located, including in the United States. The countries in which we process the information may not have the same data protection laws as the country in which you are located. We will protect your information as described in this Privacy Notice.
 
 GILT has certified compliance with the Safe Harbor privacy framework for the handling of personal information transferred from the European Union, Iceland, Liechtenstein, Norway or Switzerland to the U.S. [Click here](https://web.archive.org/company/safeharbor) to view our Safe Harbor Privacy Policy.
 
@@ -167,7 +167,7 @@ GILT does not direct its websites to children under the age of thirteen. We requ
 
 This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our websites to notify you of any significant changes to our Privacy Notice and indicate at the bottom of the notice when it was most recently updated.
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at privacy@gilt.com. You also may write to us at:
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by email at [privacy@gilt.com](mailto:privacy@gilt.com). You also may write to us at:
 
 GILT Groupe Holdings, Inc.  
 Attn: Legal Department  
