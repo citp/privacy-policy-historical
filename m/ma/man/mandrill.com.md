@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandrill.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627125821id_/http%3A//www.mandrill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandrill.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227072819id_/http%3A//mandrill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mandrill
 
@@ -10,7 +10,9 @@ We’ll start by getting a few definitions out of the way that should help you u
 
 We provide online platforms that you may use to create, send, and manage emails (the “Services”). We offer the Services on our websites http://www.mailchimp.com, http://www.tinyletter.com, and http://www.mandrill.com (each a “Website” and together the “Websites”). In the course of providing the Services, we may collect Personal Information, which means information about a Member. A "Distribution List" is a list of email addresses that one of our Members has sent, or intends to send, emails to, and all information relating to those email addresses.
 
-MailChimp has TRUSTe's Privacy Seal, which means this privacy policy has been reviewed by TRUSTe for compliance with their [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability, and choice related to the collection and use of your Personal Information. The TRUSTe program covers our Websites, http://www.mailchimp.com, http://www.tinyletter.com, http://www.mandrill.com, as well as the Golden Monkeys mobile app. TRUSTe is an independent third party that operates a globally recognized privacy trustmark.
+[](https://privacy.truste.com/privacy-seal/The-Rocket-Science-Group,-LLC/validation?rid=b609456a-45f1-4160-ab77-e65a7a1a6ed3 "TRUSTe European Safe Harbor certification")
+
+MailChimp has TRUSTe's Privacy Seal, which means this privacy policy has been reviewed by TRUSTe for compliance with their [program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability, and choice related to the collection and use of your Personal Information. The TRUSTe program covers our Websites, http://www.mailchimp.com, http://www.tinyletter.com, http://www.mandrill.com, as well as the Golden Monkeys mobile app. TRUSTe is an independent third party that operates a globally recognized privacy trustmark.
 
 ## 2\. Changes
 
@@ -29,7 +31,7 @@ Privacy Department
 512 Means St. Suite 404  
 Atlanta, GA 30318 
 
-If you’re not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
+If you’re not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request).
 
 ## 5\. Information We Collect
 
@@ -74,7 +76,7 @@ We may use and disclose your Personal Information only as follows:
 
   11. **To communicate with you about your account** for informational, not promotional, reasons.
 
-  12. **To transfer your information** in the case of a sale, merger, consolidation or acquisition. In that event, any acquirer will be subject to our obligations under this Privacy Policy.
+  12. **To transfer your information** in the case of a sale, merger, consolidation, or acquisition. In that event, any acquirer will be subject to our obligations under this Privacy Policy, including your rights to access and choice. We will notify you of the change either by sending you an email or posting a notice on our Web site.
 
   13. **To send you informational and promotional content that you may choose (or "opt in") to receive.** You can stop receiving our promotional emails by following the unsubscribe instructions included in every email.
 
@@ -88,6 +90,8 @@ We may use and disclose your Personal Information only as follows:
   2. **Social Media Widgets.** Our Websites include social media features, like the Facebook Like button. These features may collect information about your IP address and which page you’re visiting on our site, and they may set a cookie to make sure the feature functions properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with those features are governed by the privacy policies of the companies that provide them.
 
   3. **Links to Third-Party Sites.** Our Websites include links to other websites, whose privacy practices may be different from MailChimp’s. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Website you visit.
+
+  4. **Service Providers.** If it is necessary to provide you a service you've requested, like send you a T-shirt or enable a feature like Social Pro, then we may provide your personal information to a service provider. We will restrict any service provider's use of your personal information. We will tell you whenever reasonably possible and you may request at any time the name of our service providers.
 
 
 
@@ -139,4 +143,4 @@ We and TRUSTe regularly review our compliance with this Privacy Policy. If we re
 
 Thanks for taking the time to learn about The Rocket Science Group’s privacy policy, and thanks for trusting us to handle your email.
 
- _Updated March 15, 2013_
+ _Updated December 18, 2014_
