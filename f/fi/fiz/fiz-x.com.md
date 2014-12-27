@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fiz-x.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626155302id_/http%3A//www.fiz-x.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiz-x.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227083704id_/http%3A//www.fiz-x.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FizX | FizX
-
-##  
+# Privacy Policy | FizX
 
 We gather a small Privacy Policy so you can actually read it . There is nothing to complicated about it FizX is sworn for entertainment purposes only so you wont be finding any hard words or over the head terms its simple and its all this .
 
@@ -18,6 +16,6 @@ We never use or share the personally identifiable information provided to us onl
 
 While serving advertisements on our website, our advertiser may place or recognize unique cookies on your browser.
 
-In an effort to provide our visitors with offers that are interesting and pertinent to them, we hand over the advertisement reigns to other companies which we allow to place ads on our web pages. These ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: [http://www.indieclick.com](http://www.indieclick.com/)
+In an effort to provide our visitors with offers that are interesting and pertinent to them, we hand over the advertisement reigns to other companies which we allow to place ads on our web pages. These ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: http://www.indieclick.com
 
 If you have any questions concerning our privacy policy, or feel that we are not acting within its bounds please email us using [Contact form](http://fiz-x.com/contact-us/).
