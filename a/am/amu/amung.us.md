@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amung.us privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626165928id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amung.us privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227183906id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.*
 
 # whos.amung.us - legal - privacy policy
 
@@ -42,7 +42,7 @@ You should consult the respective privacy policies of these third-party partners
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-whos.amung.us may engage in business relationships with partners that would grant these parties access to non-personally identifiable information (NPII) data collected by whos.amung.us and/or provide these parties with product integration with whos.amung.us products. While the data whos.amung.us collects is non-personally identifiable (NPII), third party partners may use this data to behaviourally target ads or improve ad relevence. whos.amung.us ensures all partners engaged respect opt out wishes for ad targeting, you can learn more about what ad networks have set cookies on your system and opt out of them using the NAI's opt out mechanism at <http://www.networkadvertising.org/optout_nonppii.asp>. 
+Our technology aims to improve relevance of online advertising and offer a more personalized experience to users. Certain non-personal user information may used for the matter in order to improve advertisement relevance and revenue on your website. whos.amung.us may engage in business relationships with partners that would grant these parties access to non-personally identifiable information (NPII) data collected by whos.amung.us and/or provide these parties with product integration with whos.amung.us products. While the data whos.amung.us collects is non-personally identifiable (NPII), third party partners may use this data to behaviourally target ads or improve ad relevence. whos.amung.us ensures all partners engaged respect opt out wishes for ad targeting, you can learn more about what ad networks have set cookies on your system and opt out of them using the NAI's opt out mechanism at <http://www.networkadvertising.org/optout_nonppii.asp> or <http://www.aboutads.info/choices/>. 
 
 **Disclosure:**   
 We may share some or all of your information (personally identifiable (PII), which is not available unless you explicitly make it available to us, and non personally identifiable (NPII)) with our subsidiaries, joint ventures or other companies under a common control that we have or may have in the future, or such third parties that acquire us or substantially all of our assets, providing such party undertakes to protect your privacy in accordance with these terms. Otherwise, we will not disclose your personal information to any third party, unless: 
@@ -61,7 +61,7 @@ By using this website and/or our services you agree to this privacy policy and a
 
 whos.amung.us Inc. may update this privacy policy at any time. The date of last change will be posted on this page alongside the modified privacy policy. 
 
-This above privacy policy was last updated: December 12, 2013. 
+This above privacy policy was last updated: October 6, 2014. 
 
 You may wish to opt out of our services by clicking the link below. Opt out preferences are stored in a cookie so if you clear your cookies you will need to opt out at this page again. Since the cookie is specific to this browser you may wish to opt out on all browsers you use. When you opt out information about your visit will not be recorded in the stats of any site you visit that utilizes our services (this covers both Free and PRO services). 
 
