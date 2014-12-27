@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittercounter.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510042458id_/http%3A//twittercounter.com/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittercounter.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227032736id_/http%3A//twittercounter.com/privacy-policy.pdf) for the most accurate reproduction.*
 
 # !
 
