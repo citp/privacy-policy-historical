@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomos.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601032628id_/http%3A//www.atomos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomos.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227190830id_/http%3A//www.atomos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atomos
 
@@ -37,3 +37,31 @@ You are entitled to see the information held about you and you may ask us to mak
 ## CHANGES TO OUR PRIVACY POLICY
 
 Any changes to our privacy policy in the future will be posted to the site and, where appropriate, through e-mail notification. 
+
+## What are cookies?
+
+Cookies are small text files which are stored on your computer by your web browser and used by a website to read and write data which is used to improve your browsing experience. 
+
+## How does this website use cookies?
+
+Our website uses X cookies which fall into 3 basic categories, these are 'essential cookies', 'analytics cookies' and 'functional cookies'. 
+
+  * _Essential Cookies_ — Some cookies are essential for the operation of our website. For example, some cookies allow the Content Management System we use to track your browsing session and identify you if you are logged in. This ensures that you can access the information you should be able to.
+  * _Analytics Cookies_ — We utilise other cookies to analyse how our visitors use our websites and to monitor website performance. This allows us to improve the website and more quickly identify and fix any issues that arise. For example, we might use analytics cookies to keep track of which pages are most popular and to determine why others are not.
+  * _Functionality Cookies_ — We use functionality cookies to allow us to remember your preferences. For example we may give you the option to have your username remembered if you access a password protected area or recall a preference for information of a particular type on the home page. Third party services such as Twitter, Facebook, Google Plus and AddThis may also write cookies to your computer which may be used 'on' our website to determine if you are logged in to those services should you choose to 'share' content socially.
+
+
+
+## Can I disable cookies for this website?
+
+Yes, you can disable cookies for this and any website you visit using controls built into your web browser. You can use your web browser (eg Internet Explorer) to: 
+
+  * Delete all cookies
+  * Block all cookies
+  * Allow all cookies
+  * block third-party cookies
+  * clear all cookies when you close the browser
+  * open a 'private browsing' session
+  * install add-ons and plug-ins to extend broswer functionality
+
+
