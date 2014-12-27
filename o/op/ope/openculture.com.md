@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the openculture.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628022553id_/http%3A//www.openculture.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openculture.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227023604id_/http%3A//www.openculture.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - | Open Culture
+# Privacy Policy | Open Culture
 
 Last modified: January 13, 2012
 
@@ -37,12 +37,12 @@ When you visit the Open Culture Services, Open Culture or third parties such as 
 
 If an advertiser asks Open Culture to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach.  In addition, third-party advertisers may use non-personally identifiable information about your visits to the Open Culture Services in order to provide advertisements about goods and services that they believe may be of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please see the list provided immediately below.  This Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers.  Please consult the respective privacy policies of such advertisers for more information.
 
-  * Google Analytics: [Privacy Policy](http://www.google.com/privacy.html "Google Privacy Policy Highlights")
-  * Google Adsense: [Privacy Policy](http://www.google.com/privacy.html "Google Privacy Policy Highlights")
+  * Google Analytics: [Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy Highlights")
+  * Google Adsense: [Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy Highlights")
   * Amazon Affiliate Program: [Privacy Policy](http://www.amazon.com/gp/help/customer/display.html/102-0218475-5592963?ie=UTF8&nodeId=468496 "Privacy Policy")
-  * Feedburner: [Privacy Policy](http://www.google.com/privacy.html "Google Privacy Policy Highlights")
-  * LinkShare Affiliate Program: [Privacy Policy](http://www.linkshare.com/company/privacy.shtml "Privacy Policy")
-  * Commission Junction Affiliate Program: [Privacy Policy](http://www.cj.com/privacy.html "Privacy Policy")
+  * Feedburner: [Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy Highlights")
+  * LinkShare Affiliate Program: [Privacy Policy](http://marketing.rakuten.com/affiliate-privacy-policy "Privacy Policy")
+  * Commission Junction Affiliate Program: [Privacy Policy](http://www.conversantmedia.com/legal/privacy "Privacy Policy")
 
 
 
@@ -102,7 +102,7 @@ In the event that personal information is compromised as a result of a breach of
 
 You may, of course, decline to submit personally identifiable information through the Service, in which case Open Culture may not be able to provide certain services to you.
 
-You can limit targeted advertising by configuring your browser’s settings or changing the management panel of the Adobe Flash Player to limit your acceptance of or delete cookies.  Because the management of cookies in various browsers differs, you should consult the documentation for your browser in order to manage your cookies.  In order to limit the acceptance of or disable “flash” cookies, you must access the management panel of the Adobe Flash Player installed on your computer.  To learn more about the management panel of the Adobe Flash Player and the management of “flash” cookies, please access the following link: <http://www.macromedia.com/support/documentation/en/flashplayer/help/index.html>.  You can also opt-out of receiving cookies from third-party data providers by following the instructions at:  <http://www.networkadvertising.org/managing/opt_out.asp>.  You can opt-out of receiving cookies from Targusinfo, a specific third-party data provider, by following the instructions at:  <http://www.adadvisor.net/optout.html>.  Also, because your choices are not associated with you as a particular individual, if you change computers, web browsers or cookie settings, you will need to re-implement your preferences as described above.  Note that if you limit or disable cookies, this does not mean that you will not see ads on the Open Culture Services. Instead, ads will be displayed that are based on passive browser information or other information that that may be provided by the Open Culture Services at the time of your visit.
+You can limit targeted advertising by configuring your browser’s settings or changing the management panel of the Adobe Flash Player to limit your acceptance of or delete cookies.  Because the management of cookies in various browsers differs, you should consult the documentation for your browser in order to manage your cookies.  In order to limit the acceptance of or disable “flash” cookies, you must access the management panel of the Adobe Flash Player installed on your computer.  To learn more about the management panel of the Adobe Flash Player and the management of “flash” cookies, please access the following link: <http://www.macromedia.com/support/documentation/en/flashplayer/help/index.html>.  You can also opt-out of receiving cookies from third-party data providers by following the instructions at:  [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/).  You can opt-out of receiving cookies from Targusinfo, a specific third-party data provider, by following the instructions at:  <http://www.adadvisor.net/optout.html>.  Also, because your choices are not associated with you as a particular individual, if you change computers, web browsers or cookie settings, you will need to re-implement your preferences as described above.  Note that if you limit or disable cookies, this does not mean that you will not see ads on the Open Culture Services. Instead, ads will be displayed that are based on passive browser information or other information that that may be provided by the Open Culture Services at the time of your visit.
 
 **9\. Children’s Privacy**
 
@@ -125,5 +125,3 @@ This Privacy Policy is governed by the laws of the State of California and the U
 Open Culture may modify or update this Privacy Policy at its sole discretion from time to time, and so you should review this Privacy Policy periodically.  When we change the policy in a material way, we will notify you by means of a notice on our website prior to the change becoming effective.  Changes to this Privacy Policy are effective when they are posted on this page.  Your continued access to the Open Culture Services after the Privacy Policy has been modified and posted will signify your acceptance of such modifications.
 
 If you have any questions about this Privacy Policy, the practices of the Open Culture Services, or your dealings with Open Culture, please contact us at mail@openculture.com.
-
-**Make knowledge free & open.** Share our posts with friends on Facebook, Twitter and other social media platforms: 
