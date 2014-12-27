@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthfusion.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627171927id_/http%3A//www.healthfusion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfusion.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227072226id_/http%3A//www.healthfusion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,11 +47,22 @@ Any links clicked or information provided to third party websites or web servers
 
 ### How can you request to have your contact information deleted from this website’s database(s) and records?
 
-You may opt-out of receiving any future email, phone, fax or mail communications from HealthFusion, Inc. using any of the following methods:
+If you are a patient of one of our providers and you receive emails related to the YourHealthFile patient portal:
 
-  *  **By calling (858) 523-2120 and leaving a voicemail indicating that you would like to be removed from our contact list.** Please indicate your name or the name of your company as well as your relevant email, phone number, fax number and/or mailing address in the voicemail.
-  *  **By sending an email to[optout@HealthFusion.com](mailto:optout@HealthFusion.com?subject=UNSUBSCRIBE) with the subject UNSUBSCRIBE.** Please include your name or the name of your company as well as your relevant email, phone number, fax number and/or mailing address in the email.
-  *  **By sending an opt-out request via normal mail to HealthFusion, Inc, ATTN: Privacy Matters, 100 N. Rios Avenue, Solana Beach, CA 92075.** Please include your name or the name of your company as well as your relevant email, phone number, fax number and/or mailing address in the letter.
+  * Please contact your provider’s office. You **may not** opt out by contacting a HealthFusion representative.
+
+
+
+If you are a subscriber or licensed user of any of HealthFusion’s products or services:
+
+  * The ability to receive emails from HealthFusion is integral to our ability to communicate with your practice and a requirement for all subscribers and users. If you feel that you are receiving inappropriate emails please contact HealthFusion customer care by phone or email.
+
+
+
+If you are not either a patient of one of the practices that subscribes to the HealthFusion system, or a subscriber to the HealthFusion system you may opt-out of receiving any future email, phone, fax or mail communications from HealthFusion, Inc. using any of the following methods:
+
+  * By sending an email to [optout@HealthFusion.com](mailto:optout@HealthFusion.com?subject=UNSUBSCRIBE "optout@HealthFusion.com") with the subject UNSUBSCRIBE. Please include your name or the name of your company as well as your relevant email, phone number, fax number and/or mailing address in the email.
+  * By sending an opt-out request via US mail to HealthFusion, Inc, ATTN: Privacy Matters, 100 N. Rios Avenue, Solana Beach, CA 92075. Please include your name or the name of your company as well as your relevant email, phone number, fax number and/or mailing address in the letter.
 
 
 
