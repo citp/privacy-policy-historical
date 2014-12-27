@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516162005id_/http%3A//www.traveltex.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltex.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227151425id_/http%3A//www.traveltex.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
-# Privacy Policy & Terms of Use | TravelTex - It's like a WHOLE OTHER COUNTRY
+# Privacy Policy & Terms of Use | TravelTex
 
 **January 2013 State of Texas TravelTex Desktop and Mobile Web Sites**
 
