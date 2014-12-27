@@ -1,100 +1,76 @@
-> *The following text is extracted and transformed from the gamezasia.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezasia.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227112955id_/http%3A//www.gamezasia.com/privacy/index.htm) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | gamezasia.com
 
-**Go Daddy Respects Your Privacy**
+This privacy policy describes how we collect and use personal data provided by our users. If you have any questions or comments regarding our privacy policy, please contact us at 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+_privacy@gamezasia.com_
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+: 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**_User Account Data_**  
+A user account is not required to comment, vote or submit wiki information on the site but it is required to Rate Games, Videos and Updates. When you sign up for a user account, you are required to provide:
 
-**Information Collection and Use**
++  **_user name and password_**  \- we use this information to create and manage your user account;
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
++ **_email address_**  \- we will use this address to communicate service announcements and important updates about the site, which you consent to receive, and to match you with potential "friends" on the site;
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+If you are logged in when you post content on the site, the content will be identified under your user name. If you are not logged in, it will be identified as anonymous.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**_User Profiles_**  
+Once you have a user account, you may voluntarily provide other information to enhance your profile, including a photo or image, your name, city, date of birth, gender and political views. This information will be disclosed publicly on the site under your profile. You are not required to provide this information. We offer users the opportunity to provide this profile information in order to enhance the richness of our online community. We may use the information you provide us in your profile to customize your experience by showing you content relevant to your areas of interest.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**_Your Posts_**  
+It goes without saying that any personally identifiable information that you submit on any blog, discussion thread or elsewhere on the site can be read, collected, or used by other user of the site and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit to the website.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**_Cookies and Web Logs_**  
+We set a temporary session cookie whenever you visit the site. It will be deleted when you close your browser. If you merely read the site without logging in, you may instruct your browser to deny this cookie.  
+When you log into the site, we may set a persistent cookie, which will allow us to recognize you as an existing registered user and avoid the need to log into the site again. These cookies may last for up to 30 days. You may clear these cookies in your browser after a session in which you have logged in.  
+Our web pages may also contain an electronic file called a web beacon that allows us to count users who have visited that page or to access certain cookies.  
+Our servers automatically record information that your browser sends whenever you visit a website. We store this data in files called web logs. These web logs may include information such as your Internet Protocol address, browser type, browser language, the site you came from, the next site you visit and cookies that may uniquely identify your browser.  
+None of the data collected through web beacons, cookies or web log data provides us with any personal information about you. We use this data on an aggregated basis to analyze how our users are interacting with the site and to customize your experience, such as by remembering your preferences and showing you content that you have tagged. If you are logged in to the site, we could associate information about your site usage that is collected by cookies, web beacons and web logs with your user account. However, we don't do this on an individual basis other than in cases of suspected abuse or illegal behavior. See our policy below about Investigating Abuse.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**_Advertisers' Cookies_**  
+We use third-party advertising companies to serve ads when you visit our site. When you view ads on our site, a unique third-party cookie or cookies may be placed on your browser by the ad-serving company. In addition, the ad-serving companies may use web beacons to help manage and optimize our online advertising. The information collected by the ad-serving companies may be used to target ads to you on this site and on other sites that you visit.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**_Information for Contests_**  
+If we offer a contest, we may ask for additional information such as name, address, and phone number in order to provide the winner with their prize. We would not use that information for any other purpose unless we receive consent at the time you provide the information.
 
-**Security**
+**_Our Newsletters_**  
+If you sign up to receive our newsletter, we will use your email address to send you newsletters.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**_Special Rules for Children_**  
+Children under the age of  **13**  are not eligible to become registered users. 
 
-**Updating Your Information**
+**_Information Sharing_**    Third Parties  
+We will never provide your personally identifiable information to any third parties without your consent, except as described under "Our Service Provider" and "Investigating Abuse". We may provide third parties with aggregated or anonymous data about our users and their usage of our services that do not contain any individual's personally identifiable information.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**_Our Service Providers_**  
+We may hire third-parties to help us provide our services to you. These services may include technical services, customer support, email message deployment, data processing and other services. It may be necessary for us to provide these third parties with some of you personal information in order for them to fulfill their services. For example, we use a third party to send our e-mail newsletters, so if you sign up for a newsletter, we will provide them your email address and your first and last name as necessary to provide you with the newsletter. These third parties do no retain, share or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information to providing services to us.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**_Links to Other Sites_**  
+This web site contains links to other sites that are not owned or controlled by us, including links in advertisements. Please be aware that we are not responsible for the privacy practices of these sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site to which you provide information.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**_Investigating Potential Abuse_**  
+We may use any information provided to us by a user, including personally identifiable information, along with any data gathered from our web logs and from third parties to conduct investigations, and we may disclose this information to third parties, including law enforcement officials, investigators, or private parties seeking to protect and enforce their rights; if  
+we have a good faith belief that it is necessary to comply with a court order, judicial proceeding, legal process, subpoena or warrant;  
+we have a good faith belief that it is necessary to exercise our legal rights or defend against legal claims; or  
+we believe that your actions violate the law or our Terms of Use or threaten the rights, property, or safety of our company, our users, or others.
 
-      iii.      You may call us at: (480) 505-8800
+**_Business Transfer_**  
+If we sell all or a portion of our business, we may transfer some or all of your information as a part of the sale. Accessing and Changing Your Account Information.  
+You can review your personal information and make any desired changes at any time by logging in to your account and editing the information on your profile page. If you want to close your Gamezasia account, send an email to 
 
-       iv.      You may fax us at: (480) 505-8844
+_account@gamezasia.com_
 
-**Sending Emails**
+ using the email account that you used to create your account. Within ten business days we will remove your profile and other personally identifiable information from our publicly viewable data, but your posts (with user name) will remain. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of our Privacy Policy.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**_Security_**  
+In order to secure your personal information, access to your user account from the website is password-protected. While we take security very seriously, no data transmission over the Internet or information storage technology is 100% secure. If you suspect that your Gamezasia account has been compromised, please email us at 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+_security@gamezasia.com_
 
-**Compliance with Laws and Law Enforcement**
+.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**_Changes to this Privacy Policy_**  
+If we make a material change in the way we use the personal data of our users, we will modify our privacy policy and will describe the changes under "Changes to the Privacy Policy". Your use of the website after any published change signifies your consent to the application of the revised policy to all information contributed before or after the date of those changes.
