@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enjoydressup.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523233252id_/http%3A//www.enjoydressup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoydressup.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227190202id_/http%3A//www.enjoydressup.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | EnjoyDressUp.com
+# Privacy Policy on Enjoydressup.com
 
 **www.EnjoyDressup.com** is committed to providing a safe and fun website for children of all ages. The privacy policy is intended to let you know how **www.EnjoyDressup.com** protects your personal information. By accessing **www.EnjoyDressup.com** , you acknowledge and fully understand **www.EnjoyDressup.com** Privacy Policy and freely consent to the information collection and use practices described in this Privacy Policy.
 
@@ -12,9 +12,9 @@ Websites visited through links from this website may or may not have their own p
 
 **www.EnjoyDresup.com** implemented the following Google Analytics features based on Display Advertising: Google Analytics Demographics and Interest Reporting.
 
-You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads "Ads Settings").
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](http://www.networkadvertising.org/choices/ "Ads Settings").
 
-We only collect personal information from registered members. Visitors are required to be 13 years or older to register. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use and help you register. During the registration we collect a full name, valid e-mail address, birth date, gender and country. Additionally, when visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :
+We do not collect any personal information from our visitors . Visitors are required to be 13 years or older to play the games on enjoydressup.com. If not they must be accompanied by a parent or guardian who is directly supervising them. If you are not 13 years of age, have your parents review these Terms of Use. When visitors come to our site, we automatically collect some non-personally identifiable "computer" information, such :
 
   * Your Internet protocol address.
   * The kind of browser or computer you use.
@@ -26,6 +26,18 @@ We only collect personal information from registered members. Visitors are requi
   * Pages you viewed on the site.
 
 
+
+**Copyright**
+
+All the games published on this portal together with the Intellectual Property belong to their respective owners. If any games published break any ownership rights, please contact us right away and we'll make sure to remove the games in the shortest time possible. All the published content is free to use and falls under the **fan art** category. 
+
+**Notification of Claimed Copyright Infringement**
+
+Pursuant to Section 512(c) of the Copyright Revision Act, as enacted through the Digital Millennium Copyright Act, www.enjoydressup.com designates the following individual as its agent for receipt of notifications of claimed copyright infringement. By Email: contact [@] ideastudios.ro 
+
+**The Comment System**
+
+Enjoydressup.com uses the Disqus.com comment system. Disqus.com asks for one's email address ( depending on the login method: Facebook, Google, email ) in order to post comments. This data is automatically collected by Disqus.com (email, IP, username on Disqus.com) and is viewable by our moderators. All comments including weblinks are subject to human moderation and the system has bad words filtering enabled. 
 
 **How We Use the Information**
 
