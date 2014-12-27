@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ball2win.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053216id_/http%3A//www.ball2win.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ball2win.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227050403id_/http%3A//www.ball2win.com/Home/Privacy) for the most accurate reproduction.*
 
 # Ball2Win
 
@@ -65,3 +65,6 @@ You are entitled to access the information held about you. Your right of access 
 Any changes we may make to our Privacy Policy in the future will be posted on this page and any such changes will become effective upon posting of the revised Privacy Policy. If we make any material or substantial changes to this Privacy Policy we will use reasonable endeavours to inform you by email, notice on the Website or other agreed communications channels. 
 
 15 Agustin 2013
+
+Ball2Win is owned and operated by SOMMERVILLE MANAGEMENT CO. LTD. Licensed in Curacao with License No. 1668/JAZ issued to Curaçao eGaming, Authorized and Regulated by the Government of Curaçao.   
+Payments are done through KIYU PTE LTD 2, Ayios Pavlos & Kadmos Street • Wisdom Tower • 3rd Floor • Nicosia 1105 • Cyprus 
