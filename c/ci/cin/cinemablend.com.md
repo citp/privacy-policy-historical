@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the cinemablend.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614015555id_/http%3A//www.cinemablend.com/features/Privacy-Policy-334.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemablend.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227041358id_/http%3A//www.cinemablend.com/features/Privacy-Policy-334.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Statement for Cinema Blend.com. 
+| 
 
-We can be reached via e-mail at news at cinemablend.com. 
+Privacy Statement for Cinema Blend LLC 
+
+We can be reached via e-mail using our [contact form](http://www.cinemablend.com/features/Contact-Us-367.html). 
 
 This website is not meant to be used by unattended minors. Cinema Blend encourages parents to use this website with their children before determining whether our content is suitable for them. 
 
@@ -12,10 +14,7 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 With respect to cookies: We use cookies to record the number of unique visits our website receives, to measure general traffic patterns, and to personalize this site to your tastes. Cookies are small text files that contain a string of alphanumeric characters. Most Internet browsers are initially set up to accept cookies. You can remove cookies by following directions provided in your Internet browser’s help file. Please note that removing or otherwise disabling cookies may reduce your ability to enjoy the full functionality of this Website. For more information about cookies please visit http://www.allaboutcookies.org/cookies/. 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies (Third-Party Advertisers) that we allow to place ads on our Web pages. For further information on how they do this, consult the privacy policies of:  
-http://www.gorillanation.com/privacy/  
-http://www.google.com/privacypolicy.html  
-http://www.casalemedia.com/privacy.html http://www.exponential.com/who-we-are/privacy-policy.jsp http://www.valueclickmedia.com/privacy.shtml
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies (Third-Party Advertisers) that we allow to place ads on our Web pages. For further information on how they do this, consult the privacy policies of [Intergi](http://www.intergi.com/privacy/), our exclusive ad sales representative. 
 
 These Third-Party Advertisers may use information (not including your name, address, email address or telephone number) about your visits to our Web pages, other websites, and other forms of media in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://networkadvertising.org/consumer/opt_out.asp). 
 
@@ -29,3 +28,9 @@ If you feel that this site is not following its stated information policy, you m
 
   
 
+
+Back to top
+
+| 
+
+Advertisement
