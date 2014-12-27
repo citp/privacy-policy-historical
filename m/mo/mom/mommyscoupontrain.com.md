@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mommyscoupontrain.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065039id_/http%3A//mommyscoupontrain.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyscoupontrain.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227194931id_/http%3A//mommyscoupontrain.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure / Privacy Policy -
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fmommyscoupontrain.com%2Fdisclosure-privacy-policy%2F&media=&description=Disclosure%20/%20Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fmommyscoupontrain.com%2Fdisclosure-privacy-policy%2F&media=&description=Disclosure%20%2F%20Privacy%20Policy)
 
 Disclosure:
 
@@ -51,4 +51,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.  for www.mommyscoupontrain.comIf you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mommyscoupontrain@gmail.com.
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fmommyscoupontrain.com%2Fdisclosure-privacy-policy%2F&media=&description=Disclosure%20/%20Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fmommyscoupontrain.com%2Fdisclosure-privacy-policy%2F&media=&description=Disclosure%20%2F%20Privacy%20Policy)
