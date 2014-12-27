@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theforce.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064741id_/http%3A//www.theforce.net/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforce.net privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227220401id_/http%3A//theforce.net/privacypolicy.asp) for the most accurate reproduction.*
 
 # TheForce.net: Privacy Policy
 
