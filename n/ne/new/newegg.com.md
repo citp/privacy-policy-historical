@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233105id_/http%3A//www.newegg.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227222313id_/http%3A//www.newegg.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
 
-# Newegg.com - Computer Parts, PC Components, Laptop Computers, LED LCD TV, Digital Cameras and more!
+# Computer Parts, PC Components, Laptop Computers, LED LCD TV, Digital Cameras and more - Newegg.com
 
 ##  Information Collection and Use
 
