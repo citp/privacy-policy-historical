@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xnmax.com privacy policy that was archived on 2013-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130824020748id_/http%3A//www.xnmax.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xnmax.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228000700id_/http%3A//www.playxn.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Action MAX
+# Privacy Policy - :: Play Action Games ::
 
 We respect the privacy of of all internet users.
 
