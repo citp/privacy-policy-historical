@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the cio.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020350id_/http%3A//www.cio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cio.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227021614id_/http%3A//www.cio.com/about/privacy.html) for the most accurate reproduction.*
 
-# CIO.com - Privacy Policy
+# Privacy
 
-## ONLINE PRIVACY POLICY
+online | print subscribers  | online registration | linking policy
+
+### Online Privacy Policy
 
 This website ("Website") and associated websites are maintained by:
 
@@ -47,7 +49,7 @@ E-mail addresses may be collected from our online users (and as applicable, our 
 
 (*If, however, you are a registered user and have indicated, either in response to a question asked during the registration process in place prior to the date this policy was last updated (see the date posted at the end of the policy), or otherwise, that you do not wish to allow your email address to be rented and/or licensed for use by outside firms, your email address will not be rented and/or licensed for use.)
 
-Users who later decide they want to change any of their preferences may do so at [ www.cio.com/newsletters/login](http://www.cio.com/newsletters/login) and <http://optouts.cio.com/index.html?dept_id=61>
+Users who later decide they want to change any of their preferences may do so at [ www.cio.com/newsletters/signup.html](https://web.archive.org/newsletters/signup.html) and <http://optouts.cio.com/index.html?dept_id=61>
 
 (Online users who are also print subscribers should refer to the print subscriber section of this policy which contains information on how to remove your name from our promotion list).
 
@@ -59,9 +61,7 @@ In the event that the ownership of this Website and/or any of the Publisher's ot
 
 We may use or disclose personally identifying information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the Publisher, or our employees or customers.
 
-back to top
-
-## PRINT SUBSCRIBER AND "AUTO REGISTER" PRIVACY POLICY
+### Print Subscriber and "Auto Register" Privacy Policy
 
 The Publisher collects personally identifying information and data about individuals their company and the company's demographics (personally identifying information and data) (i) when you provide information to us, such as when you register or sign up for any of our products such as publications, subscriptions, RSS Feeds, web casts, White Papers, online seminars, conferences emails, contests, newsletters, memberships and other communications with the Publisher (ii) when you register or sign up on one or our websites or when you register for any other IDG Publishing Network products individually or through auto register, your information will be known to the Publisher and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to the Publisher.
 
@@ -104,9 +104,7 @@ Framingham, MA 01701
 
 (Print subscribers who are also online users should refer to the online section of this policy which contains information on changing your online preferences).
 
-back to top
-
-## IDG PUBLISHING NETWORK ONLINE REGISTRATION PRIVACY POLICY
+### IDG Publishing Network Online Registration Privacy Policy
 
 Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website.
 
@@ -128,4 +126,24 @@ Customer Service, TSG Department
 
 **Last updated:** January 11, 2011
 
-back to top
+### Linking Policy
+
+External Web sites may include links to CIO.com content, as long as that content is available free of charge to the general public on our site, under the following conditions:
+
+  1. The content continues to reside on CIO's site, and is not copied to appear on your site;
+  2. The link opens to a full, non-framed browser window that sends traffic to CIO's site;
+  3. When linking to a specific CIO article, you use our headline for the article and a summary of no more than two sentences;
+  4. You credit CIO along with the link on your site.
+
+
+
+CIO reserves the right to request that links be removed from a site if we deem they are not in our corporate interests.
+
+If you wish to post CIO content on your own server, you need to obtain specific permission for an electronic reprint of each article.
+
+For information about reprints and copyright permissions, please contact:  
+The YGS Group  
+800-290-5460 ext.150  
+[cio@theygsgroup.com](mailto:cio@theygsgroup.com)
+
+For more details on use of CIO.com and our content, please refer to [our complete Terms of Service agreement](https://web.archive.org/about/tos.html).
