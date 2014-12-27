@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grid.org privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626180657id_/http%3A//www.univa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grid.org privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227113548id_/http%3A//www.univa.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Univa: Computing Optimization for Data Center, High-Performance Computing, and Cloud Environments
+# Univa Corporation - Privacy Policy
 
 Univa is committed to respecting and protecting your right to privacy and we take your privacy seriously. We have a strictly enforced privacy policy and will keep your personal information secure. To communicate this, we have created this privacy policy to disclose and describe our information gathering and dissemination practices for our online communications.
 
