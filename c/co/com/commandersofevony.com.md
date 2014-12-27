@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commandersofevony.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031118id_/http%3A//www.ucool.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commandersofevony.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227215524id_/http%3A//www.ucool.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Ucool
 
@@ -6,7 +6,7 @@ uCool Privacy Policy
 
 YOUR USE OF THE UCOOL SITES AND SERVICES IS SUBJECT TO YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY.
 
-uCool, Inc. and its related licensees and licensors (collectively "uCool") respect the privacy of its on-line visitors and recognize the importance of providing a secure and safe environment for them. In meeting this goal, we instituted an On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how uCool safeguards the privacy of its on-line visitors and applies to all services which are offered on uCool internet sites, in particular the Commander of Evony portal at [www.commandersofevony.com](https://www.commandersofevony.com/) and the individual online game sites.
+uCool, Inc. and its related licensees and licensors (collectively "uCool") respect the privacy of its on-line visitors and recognize the importance of providing a secure and safe environment for them. In meeting this goal, we instituted an On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how uCool safeguards the privacy of its on-line visitors and applies to all services which are offered on uCool internet sites.
 
 If you have any questions, complaints, or comments regarding our privacy policy statement or policies, please contact our Privacy Policy Administrator at [legal@ucool.com](mailto:legal@ucool.com).
 
@@ -16,7 +16,7 @@ uCool only collects information that personally identifies you ("Personal Inform
 
 What other types of information may we collect?
 
-Your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to Commanders of Evony. uCool may use this information to generate aggregate statistics about our user community. In addition, uCool may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or IP protection or enforcement purposes.
+Your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to uCool and/or the Games being played. uCool may use this information to generate aggregate statistics about our user community. In addition, uCool may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or IP protection or enforcement purposes.
 
 How do we use the information you provide?
 
@@ -60,7 +60,7 @@ An Internet protocol ("IP") address is the unique number assigned to your server
 
 What do I do if I want to close my account?
 
-Should you wish to stop playing a uCool game at any time and have connected the same to your Facebook account, you can remove yourself from the application by “unliking” it in your Facebook Privacy settings. Should you “unlike” your account, the account will be permantently deleted along with any activity on the same. Should you be concerned regarding any personal information you have provided to payment portals for purchases, you should contact said payment portal provider directly.
+Should you wish to stop playing a uCool game at any time and have connected the same to your Facebook account, you can remove yourself from the application by “unliking” it in your Facebook Privacy settings. Should you “unlike” your account, the account will be permanently deleted along with any activity on the same. Should you be concerned regarding any personal information you have provided to payment portals for purchases, you should contact said payment portal provider directly.
 
 How secure is my account information?
 
@@ -80,4 +80,4 @@ By using this Website, you signify your assent to this Privacy Policy. If you do
 
 This Privacy Policy was last updated on **November 2, 2013**.
 
-Copyright ©2012 uCool, Inc. All rights reserved.
+Copyright ©2011-2014 uCool, Inc. All rights reserved.
