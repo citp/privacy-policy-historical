@@ -1,70 +1,61 @@
-> *The following text is extracted and transformed from the a4d.com privacy policy that was archived on 2012-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120621102340id_/http%3A//www.ads4dough.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4d.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227120225id_/https%3A//www.a4d.com/pp) for the most accurate reproduction.*
 
-# Affiliate Network Private Policy -
+# A4D - Privacy Policy
 
-## Privacy Practices for Our Website
+### 1\. Introduction
 
-A4D.com (the "Website") is an Internet property of A4D.("us" or "we"). We provide this privacy policy ("Privacy Policy) so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. This Privacy Policy also outlines our privacy practices on our corporate website ("Website") located at www.A4D.com. If you have any questions about this Privacy Policy, please feel free to contact us at pp_email@A4D.com. You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher ("Publisher") and/or advertiser ("Advertiser" and together with the Publishers, "Clients") services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
+This Privacy Policy (“Privacy Policy”) describes how Coleadium, Inc. (“Coleadium” or “We”) collects and uses the information you provide through the A4D.com website at A4D.com (along with all subdomains, collectively, the “Site”) or the Services provided by Coleadium (“Services”). This Privacy Policy is only applicable to the Site and Services, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
 
-**Personally Identifiable Information:**  
-We collect Personally Identifiable Information ("PII") from this Website when you attempt to become a Client or otherwise choose to provide PII to us. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to: name, address, telephone number, mobile number and/or email address. For example, you may choose to send us PII about yourself in an email or by completing an online form on our Website. Once collected, we will store your PII for a reasonable period of time for record keeping purposes. The information that we store is sometimes deleted as space requires or in the normal course of business.
+We never knowingly collect or maintain information from those we know are under 18 years old, and no part of our Site or Services is directed at or structured to attract anyone under 18 years old. Visitors younger than 18 years of age may not use the Site or the Services and must leave immediately. 
 
-**Information Sharing:**  
-A4D will not sell, share or rent your PII to or with others. Your PII is not shared with any third parties, except: (a) where necessary to conduct business, such as invoicing Clients in connection with the Services or making payments to, or collecting money from, a Client; (b) in the case of a breach of any agreement between Client and A4D; (c) where required by law, or requested by a court of competent jurisdiction; (d) (c) in the event of A4D bankruptcy, or if A4D is sold or acquired; or (e) where A4D determines, in its sole discretion, that such disclosure is necessary to protect the rights of A4D and/or a third party, or necessary to protect A4D from liability of any kind.
+### 2\. Information Collection Practices
 
-**Non-Personally Identifiable Information:**  
-We collect Non-Personally Identifiable Information ("Non-PII") from Website visitors. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to our Website, the referring URL and/or your computer's operating system.
+We automatically track and collect the following categories of information when you visit our Site: (1) IP addresses; (2) domain servers; (3) types of computers accessing the Site; and (4) types of web browsers used to access the Site (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for improving your experience on the Site. 
 
-**Cookies and Web Beacons:**  
-We use "cookies" and web beacons to help us manage our Website. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as "1X1 pixels" or "clear GIFs") are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. Web users have the option of blocking the use of cookies by changing a setting in their browser. Web users can check their browser supplier's website for details on how to do this. For more information about cookies and web beacons please visit http://www.allaboutcookies.org/cookies/.
+Cookies and web beacons are very small text files that are stored on your computer when you visit certain web pages. Coleadium collects information through cookies and web beacons about your web browsing activities such as the address of the page you are visiting, the address of the referrer page you previously visited, the time you are viewing the page, your browsing environment, and your display settings. We use cookies and web beacons on our Site to: 
 
-**Third Party Websites:**  
-This Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from those of A4D. While we endeavor to associate only with reputable entities, A4D cannot be responsible for the privacy practices of third party websites. We encourage you to check the privacy policies of all websites that you visit.
+  * Understand traffic patterns and the number of visitors to the Site and other non-Coleadium websites that we partner with;
+  * Understand how you use and interact with the Site;
+  * Improve our services;
+  * Optimize your experience on our Site;
+  * Provide anonymous individual or aggregate auditing, research, modeling, and reporting for our advertisers and other partners (no personally identifiable information about you is shared with our advertisers and other partners as part of these activities);
+  * Store your password so you do not have to re-enter it each time you visit the Site; and
+  * Properly manage our Site.
 
-**Minors:**  
-This Website is not intended for visitors that are under eighteen (18) years of age. A4D does not knowingly solicit or collect information from individuals under the age of eighteen (18). If we determine that we have inadvertently collected PII from someone under eighteen (18) years of age, we will take reasonable steps to purge this information from our database. We encourage parents and guardians to spend time online with their children and to participate and monitor the Internet activities of their children.
 
-**Security:**  
-All collected information is stored in a technically and physically secure environment. While we use SSL encryption to protect Sensitive Information online, we also do everything in our power to protect PII (including Sensitive Information) off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect our end-users' PII, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk.
 
-Once we receive the transmission of your PII, we make reasonable efforts to ensure its security on our systems. Access to this information is strictly limited, and not accessible to the public. All our end-users' PII is restricted in our offices. Only employees who need the information to perform a specific job (for example a customer service representative) are granted access to PII. Employees not adhering to our policies are subject to disciplinary action. In compliance with applicable federal and state law, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your PII. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.
+Please note that some cookies may be placed by a third party service provider who performs some of these functions for us. Other companies’ use of their cookies is subject to their own privacy policies, not this one. 
 
-**Changes to this Privacy Policy & Notification of Changes:**  
-A4D reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Website explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Website. Please check the Website periodically for any changes. Your continued use of the Website and/or acceptance of our e-mail communications following the posting of changes to this Privacy Policy will constitute your acceptance of any and all changes.
+If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our Site. 
 
-**Deleting your PII:**  
-If you'd like us to delete any PII that you have provided to us on our Website, please send your request to us at info@A4D.com and we will process your request, where possible and subject to the terms and conditions contained herein, within a reasonable period of time after receipt.
+To access the Services offered via the Site, we require you to provide us with certain information that personally identifies you (“Personal Information”). Personal Information includes Contact Data (such as your name, mailing address, e-mail address, telephone number, and social security or taxpayer ID number). If you communicate with us by e-mail, post messages to any of our blogs or other online forums, or otherwise complete online forms, any information provided in such communication may be collected as Personal Information. 
 
-**Contacting the Website:**  
-If you have any questions about this Privacy Policy or the practices of A4D, please feel free to contact us at info@A4D.com, or via postal mail at:
+We use your Personal Information to assess whether to permit you to join our affiliate network, and also to manage your relationship with us and your participation in marketing campaigns. 
 
-A4D  
-6965 El Camino Real #105-441  
-Carlsbad, CA 92009
+We do not share any of your personal information with third parties for marketing purposes. However, we can (and you authorize us to) disclose any information about you to third parties (including without limitation law enforcement or other government officials) as we in our sole discretion believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. 
 
-## Privacy Practices Applicable to Our Technology:
+We do not respond to your browser’s “do not track” signals or other mechanisms for indicating your preference regarding the collection personally identifiable information because we do not track you over time or across third-party Web sites or online services. Similarly, we do not permit third parties to collection personally identifiable information about your online activities when you use our Site. 
 
-A4D's clients are primarily businesses. Our Clients use our Technology to help deliver online advertisements to consumers while they are online.
+If you do not want to share your Personal Information for us to use as described in this Privacy Policy, then you will not be able to use our Site or Services. 
 
-## Types of Information that We Collect Via Our Technology:
+If you are residing outside the United States, by registering and using this Site, you acknowledge that the processing of your Personal Information may involve the transfer of such Personal Information from within or outside the European Economic Area (“EEA”) to countries within or outside the EEA whose data protection regulation may not be as stringent as that within the European Union. 
 
-**Personally Identifiable Information**  
-We don't collect PII via our Technology.
+If the e-mail address you provide to Coleadium is a wireless e-mail address, you agree to receive messages at such address from Coleadium. You understand that your wireless carrier’s standard rates apply to these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. 
 
-**Non-Personally Identifiable Information**  
-As with all web content delivery systems, our Technology records information about the interaction between a web user's browser and our servers. Those interactions include advertisement content (banner) delivery, counting click-throughs on an advertisement, and tracking web page views after a click-through. Browsers typically provide the browser version, the operating system, and the IP address of the computer in use. This Non-PII is collected from web users to assist in the proper function of our Services, as well as the targeting of advertisements sent by our customers and the reporting of aggregate data to both Advertisers and Publishers. A4D does not collect, use, sell or purchase PII.
+By agreeing to this Privacy Policy, you are providing express, written consent to receive SMS messages from Coleadium about your use of the Site, Services, and your relationship with Coleadium. You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. 
 
-**Cookies:**  
-Remote "cookies" on web user computers and server databases at A4D facilities are used by A4D in connection with the Technology to store information. When used in connection with the Technology, a cookie is a piece of data placed on the web user's hard drive by our servers. Cookies are used to improve the experience web users have when they see web advertisements. Cookies are not viruses and cannot erase web users' hard drives or otherwise damage web users' computers. Usage of a cookie is in no way linked to any PII.
+We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. 
 
-We use cookies to ensure that when a web user clicks on an advertisement, he/she is sent to the correct click-through destination. They are also used by our reporting system to estimate the total reach of an ad campaign, as well as frequency of display. This allows Advertisers to determine with greater accuracy the composition of the audience that they reach. Cookies are also used to sequence the delivery of a series of advertisements to a web browser, and to limit the number of times a web browser receives any one advertisement. In the course of serving advertisements to target websites, our Advertisers may place or recognize a cookie on visiting web users' browsers.
+### 3\. Confidential and Security of Personal Information
 
-Web users have the option of blocking the use of cookies by changing a setting in their browser. Web users can check their browser supplier's website for details on how to do this.
+We maintain a procedure in order to help you confirm that your Personal Information remains correct and up-to-date. At any time, you may contact Coleadium via email: Privacy@A4D.com to update your Personal Information or request that your Personal Information no longer be shared by Coleadium. 
 
-**Information Sharing:**  
-Web user information obtained by and through the Technology (all of which is Non-PII) is shared with our Advertisers and Publishers on an aggregate basis. This means, for example, that of the millions of web users that we deliver banners to each month, an Advertiser will know what percentage of those users viewed their advertisement with a certain browser. The sharing of this information is essential to providing the Services that we offer. A4D may augment web user information with additional Non-PII, such as adding an IP address to a 5-digit postal code in order to cross-reference in an effort to improve local targeting of advertising. IP addresses are not linked to PII by A4D.
+The information stored on Coleadium’s computer use industry standard security measures (such as a firewall and password protections) in place to protect against the loss, misuse, and alteration of the information under Coleadium’s control. Notwithstanding such measures, Coleadium cannot guarantee that its security measures will prevent its computers from being illegally accessed, and the Personal Information on them stolen or altered. 
 
-**Third Party Advertising**  
-In connection with the Technology we use third-party advertising companies to serve advertisements when web users visit the websites on which we serve advertisements. These companies may use information (not including web users' names, addresses, email addresses and telephone numbers) about such web users' visits to those websites in order to provide future advertisements on those websites that may be of interest to such web users. If web users would like more information about this practice or would like to prevent this information from being used by these companies, they may click here.
+### 4\. Updates and Changes to Privacy Policy
 
-A4D is a self-certified member of the U.S. Department of Commerce's EU Safe Harbor privacy program jointly established to comply with the European Commission's 1998 Directive on Data Protection. For more information about this privacy initiative, visit the Department of Commerce's website at http://www.export.gov/safeHarbor/index.html.
+We reserve the right to add to, change, update, or modify this Privacy Policy. Any such change, update, or modification will be effective immediately upon posting on the Site. In the event of a substantive change to this Privacy Policy, you will be required to assent to the new terms, and you may also be notified by email. If any modification is unacceptable, your only recourse is not to use our Services and the Site. 
+
+If you have questions about this Privacy Policy or want to contact us, please send an email to info@A4D.com or write to us at: Coleadium, Inc., 6965 El Camino Real No. 105-439, Carlsbad, CA 92009. 
+
+### Effective Date: _May 6, 2014_
