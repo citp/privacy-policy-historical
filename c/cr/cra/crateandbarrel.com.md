@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628112821id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227041037id_/http%3A//www.crateandbarrel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Crate and Barrel
 
@@ -66,7 +66,7 @@ We use a Service Provider to send emails that you have agreed to receive. Web co
 
 We also contract with a Service Provider to help us assess visitation to our Websites. To do this, we place small pixel tags and cookies on our Websites. While these do allow our Service Provider to track your visits, the data retrieved cannot be used for any reason without our authorization. Although our Service Provider logs the information about your visit, we control how that data may and may not be used. You can opt out of this Website analysis tool by clicking here. 
 
-We contract with Service Providers to place our banner advertising on other websites. These Service Providers may collect information from us about your visits to our Websites and stores, and your interaction with our products and services. They also may use this information to tailor banner advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. Notwithstanding anything to the contrary in this Privacy Policy, personally identifiable information may be shared with our Service Provider and its service providers, including, without limitation, your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline in order to deliver banner advertisements and other advertising tailored to your interests when you visit certain websites. Our trusted Service Provider will keep this data anonymous and will not share any personally identifiable information with any other third parties. Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
+Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) or the Digital Advertising Alliance (<http://www.aboutads.info/choices/>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
 
 Back to Top
 
@@ -154,7 +154,7 @@ Back to Top
 
 ## A Privacy Promise
 
-We support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s “Privacy Promise. ” In so doing, we agree to comply with a customer ’s requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone or email.
+We support and adhere to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise and the Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising. In doing so, we agree to comply with a customer's requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone, email or through online behavioral advertising.
 
 If at any time, as a customer, you believe Crate and Barrel is not committed to its Privacy Policy, please contact us. You also may contact the DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org.](mailto:mgoldberger@the-dma.org)
 
