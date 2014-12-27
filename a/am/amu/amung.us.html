@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the amung.us privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626165928id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amung.us privacy policy that was archived on 2014-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227183906id_/http%3A//whos.amung.us/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <script type="text/javascript">
 	if(window.location != window.parent.location) window.location.href = "http://assets.amung.us/oldpro/images/icons/warning.png";
 </script>
+<link href="http://assets.amung.us/styles/3rdparty/featherlight.min.css" type="text/css" rel="stylesheet" title="Featherlight Styles">
 <link href="http://assets.amung.us/styles/global.css" rel="stylesheet" type="text/css">
 <!--
 <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAPXgAKW6DmooahkxPmKGWLhTcAWu5A4Db0_f4DEEtXyFOIQeKbhTwYcNS9G8T3HI92P7tX1ne3ZyIow"></script>
@@ -23,6 +24,48 @@
 <script type="text/javascript">
 	var tx_al = "";
 </script>
+
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="http://assets.amung.us/scripts/3rdparty/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<script>
+ 
+var $j = jQuery.noConflict();
+// $j is now an alias to the jQuery function; creating the new alias is optional.
+ 
+window.addEvent('domready', function() {
+    //$j.featherlight('#mylightbox');
+});
+
+var activecodebox;
+
+window.addEvent('domready', function() {
+
+var codeboxes = $$('.codebox');
+	codeboxes.each(function(codebox) {
+		codebox.addEvent('mouseover', function() {
+			$j.featherlight('#mylightbox', {variant: 'lboxdark'});
+			codeboxes.each(function(codebox) {
+				codebox.removeEvents('mouseover');
+			});
+		});
+	});
+});
+
+function selectText(containerid) {
+        if (document.selection) {
+            var range = document.body.createTextRange();
+            range.moveToElementText(document.getElementById(containerid));
+            range.select();
+        } else if (window.getSelection) {
+            var range = document.createRange();
+            range.selectNode(document.getElementById(containerid));
+            window.getSelection().addRange(range);
+        }
+    }
+
+
+</script>
+
 <title>whos.amung.us - legal - privacy policy</title>
 <script type="text/javascript">
 window.addEvent('domready', function() {
@@ -252,13 +295,16 @@ function get_oo_status() {
     about cookie management with specific web browsers can be found at the browsers' respective websites.
 </p>
 <p>
-	whos.amung.us may engage in business relationships with partners that would grant these parties access to
+	Our technology aims to improve relevance of online advertising and offer a more personalized experience to users. Certain non-personal
+	user information may used for the matter in order to improve advertisement relevance and revenue on your website. whos.amung.us may engage in business
+    relationships with partners that would grant these parties access to 
 	non-personally identifiable information (NPII) data collected by whos.amung.us and/or provide these parties with
 	product integration with whos.amung.us products. While the data whos.amung.us collects is
 	non-personally identifiable (NPII), third party partners may use this data to behaviourally target ads or improve ad relevence. whos.amung.us
 	ensures all partners engaged respect opt out wishes for ad targeting, you can learn more about what ad networks have set cookies on your system
 	and opt out of them using the NAI's opt out mechanism at 
-	<a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>.
+	<a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a> or 
+    <a name="adchoices" href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices/</a>.
 </p>
 <p>
 	<strong>Disclosure:</strong>
@@ -297,7 +343,7 @@ function get_oo_status() {
     will be posted on this page alongside the modified privacy policy.
 </p>
 <p>
-    This above privacy policy was last updated: December 12, 2013.
+    This above privacy policy was last updated: October 6, 2014.
 </p>
 <p>
 	You may wish to opt out of our services by clicking the link below. Opt out preferences are stored in a cookie so if you clear your cookies
