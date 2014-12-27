@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allhiphop.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063646id_/http%3A//allhiphop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhiphop.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165720id_/http%3A//allhiphop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AllHipHop.com
+# AllHipHop » Privacy Policy
 
 Welcome to our website, [http://www.AllHipHop.com](http://www.allhiphop.com/) (the “Website”). We are committed to protecting your privacy. This policy provides you with details on the information we collect from you and the uses we make of your personal information. If you do not want us accessing and/or using your personal information as described herein, please do not provide us with any! This policy may be updated from time to time without prior notice, so please check back periodically. If you continue to visit our Website and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.
 
