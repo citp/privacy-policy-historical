@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the comcast.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630231347id_/http%3A//xfinity.comcast.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcast.net privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227180552id_/http%3A//xfinity.comcast.net/privacy) for the most accurate reproduction.*
 
 # XFINITY Privacy Policy
 
-**Effective May 15, 2014[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
+### An update to this privacy policy will take effect on January 17, 2015. To learn more, click [here](https://web.archive.org/privacy/2015-01/landing/).
+
+ **Effective May 15, 2014[Learn More](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)**
 
 If you are accessing this Web Services Privacy Policy from a mobile device, and would like to read a mobile-optimized and TRUSTe-approved summary privacy notice for [http://m.comcast.net](http://m.comcast.net/) and the XfinityTV Player mobile application, please click here. <http://privacy-policy.truste.com/certified-policy/mobile/app/en/comcast.com/index.html>
 
