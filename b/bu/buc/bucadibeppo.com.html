@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bucadibeppo.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626094107id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bucadibeppo.com privacy policy that was archived on 2014-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227083600id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="html" lang="en-US" dir="ltr" xmlns:addthis="http://www.addthis.com/help/api-spec" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><title>
 	Buca di Beppo's Privacy Policy
@@ -29,9 +29,9 @@
         <meta property="og:image" content="http://www.bucadibeppo.com/_assets/images/support/logo.png">
         <!-- Favicon -->
         <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
-            <link rel="stylesheet" type="text/css" href="/_assets/fancybox/aaa_fancybox_min.css" media="screen">
+            <link rel="stylesheet" type="text/css" href="/_assets/js/fancybox/jquery.fancybox.css" media="screen">
         
-              <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5MZPMS"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+              <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5MZPMS"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
               //<![CDATA[
               window.cms = {
                   homeId:'1065',
@@ -40,7 +40,7 @@
                   pageName:'Privacy Policy',
                   locationSiteListId:'47173',
                   locationSiteDefaultId:'47385',
-                  locationSiteId:'47373'
+                  locationSiteId:'55213'
               };
               //]]>
               </script>
@@ -53,8 +53,8 @@
         <link rel="Stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"><link href="/_assets/css/bdb-gold/jquery-ui-1.9.2.custom.css" rel="stylesheet">
 
         <script type="text/javascript" src="/_assets/js/jquery.simplemodal-1.4.4.js"></script>
-        <script src="/_assets/js/bdb_init.20140116.1.js" type="text/javascript"></script>
-
+        <script src="/_assets/js/bdb_init.20140116.1.js?v=2" type="text/javascript"></script>
+        <script src="/_assets/js/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
         
 
 
@@ -68,7 +68,18 @@
               
         
     
-    
+    <style>
+        #content, .content-holder, .content-frame {
+            background: none !important;
+            float: none !important;
+            line-height: 1.5em;
+            margin: 0 !important;
+            width: auto !important;
+        }
+        #content, .content-holder {
+            padding: 0  !important;
+        }
+</style>
 
         <!-- END: Page Specific -->
 
@@ -79,10 +90,10 @@
 
             var bamGAID = 'UA-19715450-1';
 
-            var bamGALocation = 'San Francisco';
-            var CMSLocationSiteID = '47373';
+            var bamGALocation = 'Atlantic City';
+            var CMSLocationSiteID = '55213';
 
-            var CMSLocationZipCode = '94103';
+            var CMSLocationZipCode = '08401';
 
             
         </script>
@@ -111,6 +122,64 @@
         </script>
         <!-- End Google Tag Manager -->
 
+
+
+
+        <script>
+            $(document).ready(function () {
+                $('.showLoc').click(function () {
+                    $('.Location').toggle();
+                });
+
+
+                $(".fancybox").fancybox({
+                    type: 'inline',
+                    scrolling: 'no',
+                    fitToView: 'false',
+                    autoSize: 'false',
+                    height: 180,
+                    width: 530,
+                    parent: "form:first",
+                });
+                if ($("#geoSet").attr("value") == "0") {
+                    navigator.geolocation.getCurrentPosition(setposition);
+
+                }
+                function setposition(p) {
+                    var latitude = p.coords.latitude;
+                    var longitude = p.coords.longitude;
+                    var id = $("#hidID").attr("value");
+                    console.log(latitude + "  :  " + longitude);
+
+                    if (latitude != null && longitude != null) {
+                        $.ajax({
+                            url: '/webservices/GeoLocation.asmx/SetLocationLatLong',
+                            type: 'POST',
+                            data: "{'latitude':'" + latitude + "', 'longitude':'" + longitude + "', 'id':'" + id + "'}",
+                            contentType: "application/json; charset=utf-8",
+                            dataType: "json",
+                            success: function (resp) {
+                                var d = JSON.parse(resp.d);
+                                console.log("reloading");
+                                location.reload();
+
+                                return true;
+                            },
+                            error: function () {
+                                return false;
+                            }
+                        });
+                    }
+
+                }
+            });
+        </script>
+        <style>
+            .NoShow {
+                display: none;
+            }
+        </style>
+
         <!-- BrandNet Tracking -->
         <div style="display: none;">
             
@@ -131,73 +200,167 @@
 
 <input type="hidden" value="/privacy-policy/">
 
+<script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function () {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+    _qevents.push(
+    { qacct: "p-FzzFEsGQnqEJx", labels: "_fp.event.Restaurants" }
+    );
+</script>
+<noscript>
+    <img src="//pixel.quantserve.com/pixel/p-FzzFEsGQnqEJx.gif?labels=_fp.event.Restaurants"
+        style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
+</noscript>
+
 <!-- End Quantcast tag -->
+
+<!-- Start DStillery tag -->
+
+<!-- End DStillery tag -->
 
         
 
+        <!-- Twitter -->
+        <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            twttr.conversion.trackPid('l4vnc');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display: none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4vnc&p_id=Twitter" />
+            <img height="1" width="1" style="display: none;" alt="" src="//t.co/i/adsct?txn_id=l4vnc&p_id=Twitter" />
+        </noscript>
+        <!-- End Twitter -->
 
         <noscript>
             <p>Javascript must be enabled for the correct page display</p>
         </noscript>
+        <link rel="up">
         <form method="post" action="/privacy-policy/" id="form1" data-ajax="false">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAmYPZBYCZg9kFgJmD2QWAgIBD2QWAgIDDxYCHgVjbGFzcwULZGV0YWlsLXBhZ2UWAgIBEGRkFgICBg9kFgJmD2QWAgIBDw8WAh4HVmlzaWJsZWdkFgICBQ8QZBAVYw5BWiAtIEFycm93aGVhZA1BWiAtIENoYW5kbGVyCUFaIC0gTWVzYQ9BWiAtIFNjb3R0c2RhbGUMQ0EgLSBBbmFoZWltCUNBIC0gQnJlYQ1DQSAtIENhbXBiZWxsDUNBIC0gQ2FybHNiYWQOQ0EgLSBDbGFyZW1vbnQLQ0EgLSBFbmNpbm8VQ0EgLSBIdW50aW5ndG9uIEJlYWNoC0NBIC0gSXJ2aW5lDkNBIC0gTWlyYSBNZXNhDkNBIC0gUGFsbyBBbHRvDUNBIC0gUGFzYWRlbmESQ0EgLSBSZWRvbmRvIEJlYWNoDkNBIC0gUm9zZXZpbGxlD0NBIC0gU2FjcmFtZW50bw5DQSAtIFNhbiBEaWVnbxJDQSAtIFNhbiBGcmFuY2lzY28NQ0EgLSBTYW4gSm9zZRFDQSAtIFNhbnRhIE1vbmljYRJDQSAtIFRob3VzYW5kIE9ha3MXQ0EgLSBVbml2ZXJzYWwgQ2l0eVdhbGsNQ0EgLSBWYWxlbmNpYQ9DTyAtIEJyb29tZmllbGQVREMgLSBXYXNoaW5ndG9uLCBELkMuEkZMIC0gQm95bnRvbiBCZWFjaAxGTCAtIEJyYW5kb24SRkwgLSBDb3JhbCBTcHJpbmdzCkZMIC0gRGF2aWUORkwgLSBGdC4gTXllcnMRRkwgLSBKYWNrc29udmlsbGUNRkwgLSBNYWl0bGFuZAtGTCAtIE5hcGxlcwxGTCAtIE9ybGFuZG8QRkwgLSBUYWxsYWhhc3NlZQ9GTCAtIFdlbGxpbmd0b24PR0EgLSBBbHBoYXJldHRhDEdBIC0gQXVndXN0YQpHQSAtIE1hY29uDUhJIC0gSG9ub2x1bHUMSUwgLSBMb21iYXJkEElMIC0gT3JsYW5kIFBhcmsNSUwgLSBXaGVlbGluZw5JTCAtIENoYW1wYWlnbhVJTiAtIENhc3RsZXRvbiBTcXVhcmUaSU4gLSBEb3dudG93biBJbmRpYW5hcG9saXMOSU4gLSBHcmVlbndvb2QNS1kgLSBGbG9yZW5jZQ9LWSAtIExvdWlzdmlsbGULTEEgLSBHcmV0bmEPTUEgLSBTaHJld3NidXJ5EU1EIC0gR2FpdGhlcnNidXJnDE1EIC0gV2FsZG9yZhBNRCAtIFdoaXRlIE1hcnNoDE1JIC0gTGl2b25pYQpNSSAtIFV0aWNhD01OIC0gQnVybnN2aWxsZRFNTiAtIEVkZW4gUHJhaXJpZRBNTiAtIE1hcGxlIEdyb3ZlEE1OIC0gTWlubmVhcG9saXMNTU4gLSBTdC4gUGF1bBhNTyAtIEthbnNhcyBDaXR5IC0gUGxhemEOTkMgLSBQaW5ldmlsbGUQTk0gLSBBbGJ1cXVlcnF1ZQtOWSAtIEFsYmFueRFOWSAtIFRpbWVzIFNxdWFyZQ5OViAtIFN1bW1lcmxpbhlOViAtIExhcyBWZWdhcyAtIFBhcmFkaXNlGk5WIC0gTGFzIFZlZ2FzIC0gRXhjYWxpYnVyIk9IIC0gQ2luY2lubmF0aSAtIFJvb2t3b29kIENvbW1vbnMeT0ggLSBDb2x1bWJ1cyAtIEFyZW5hIERpc3RyaWN0EU9IIC0gU3Ryb25nc3ZpbGxlDU9IIC0gV2VzdGxha2UQT0ggLSBXb3J0aGluZ3Rvbg5QQSAtIEFsbGVudG93bgpQQSAtIEV4dG9uJlBBIC0gUGl0dHNidXJnaCAtIFJvYmluc29uIFRvd24gQ2VudHJlIFBBIC0gUGl0dHNidXJnaCAtIFN0YXRpb24gU3F1YXJlDFBBIC0gUmVhZGluZxFUTiAtIENvb2wgU3ByaW5ncwtUWCAtIEF1c3Rpbg9UWCAtIENlZGFyIFBhcmsUVFggLSBEYWxsYXMgLSBGcmlzY28XVFggLSBEYWxsYXMgLSBQYXJrIExhbmUXVFggLSBEYWxsYXMgLSBTb3V0aGxha2UfVFggLSBIb3VzdG9uIC0gQnVmZmFsbyBTcGVlZHdheQ1UWCAtIE1lc3F1aXRlElRYIC0gVGhlIFdvb2RsYW5kcw9VVCAtIEZvcnQgVW5pb24TVVQgLSBTYWx0IExha2UgQ2l0eQ9VVCAtIFN0LiBHZW9yZ2UPVkEgLSBXaW5jaGVzdGVyDVdBIC0gTHlubndvb2QMV0EgLSBTZWF0dGxlDVdJIC0gQXBwbGV0b24OV0kgLSBHcmVlbmRhbGUOV0kgLSBNaWx3YXVrZWUVYwQwMzA0BDAzMDIEMDMwMwQwMzAxBDA1MTgEMDUwOQQwNTk5BDA1MjAEMDUwNgQwNTA0BDA1MTYEMDUxMgQwNTIxBDA1MDEEMDUwMwQwNTA1BDA1MTUEMDUxMAQwNTA4BDA1MDIEMDUyOAQwNTA3BDA1MjcEMDUxMQQwNTIzBDA2MDMENTEwMQQwODE3BDA4MTAEMDgxOQQwODA0BDA4MTgEMDgwOQQwODA2BDA4MDgEMDgxMwQwODE2BDA4MTQEMDkwMQQwOTAyBDA5MDMEMTAwMQQxMzAzBDEzMDQEMTMwMgQxMzA2BDE0MDIEMTQwMQQxNDAzBDE3MDIEMTcwMQQxODAxBDIxMTIEMjAwMgQyMDA0BDIwMDMEMjIwMQQyMjAzBDIzMDQEMjMwMwQyMzA1BDIzMDEEMjMwMgQyNTAxBDMxMDEEMzMwMQQzNDAzBDM0MDQEMjgwMgQyODAxBDI4MDMEMzUwMwQzNTAxBDM1MDYEMzUwMgQzNTA1BDM4MDUEMzgxMQQzODA4BDM4MDIEMzgxMAQ0MzAyBDQ0MDUENDQxMAQ0NDA4BDQ0MDEENDQwNwQ0NDAyBDQ0MDkENDQwMwQ0NTAxBDQ1MDIENDUwMwQ0NjAxBDQ3MDIENDcwMQQ0OTAyBDQ5MDMENDkwMRQrA2NnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQVFY3RsMDAkY3RsMDAkY3RsMDAkQ29udGVudFBsYWNlSG9sZGVyRGVmYXVsdCRFQ2x1YkRyb3Bkb3duJENsb3NlQnV0dG9ulBmxCIANO7GePGa5cit1DF9PzYctd1OQ/fbNIyV2mdA=">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 </div>
 
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
-<script src="/ScriptResource.axd?d=6b93u0_X456b-fv2p4PDdJQabrT_Fo20wiIN7RO-Qyn8CLML1rmWgVk5mt9tJ6rlKWu9cVQocLl6I6z6G4KYMJ7cDf3DffLPKtrYc3kCCN7JslhFQiuER4_QcUzA0FR0HKckEva6s56CYDN5-QyuGIRqidtUl3T6qBraNk9VrTk1&amp;t=ffffffff94f72c4c" type="text/javascript"></script>
-            
-            
+
+<script src="/WebResource.axd?d=mfWTNE-wZF_YA6qw2seWLs5wrP-vpYN_PoGtaeLT06RTQCRg_me4V6ksgpHqO-6-pib1COy-dQc7RgolYMpIdiv5zGe1NIWM9id-yyAZGsk1&amp;t=635328527960000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=9t-yRd8Hwdg1ytoF4EUa677DaM0fXVbn7zHhMXO0pZ-9AK0sv0oc4qLdVlBIIGN7SMo7nLVqLHKtY1JeeVVBUMemPHmOe_A4st7k2xaFYC74D16pqRVQufmvp9o4hDn1lZnbaE3btzEgbfKWETnbE0g9cNBQe6ah0AVtqhyRgAs1&amp;t=42a7acab" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=evcgVoaWLWGGdbsSY9xYX7ue7UWCtVCdBfLc_Wa9ABRqRlwngJ8pM9F_rj3oIlkujvgCOmcn-CbUX_E9S74ZVtFtzB8DTWPeF-WbXdWjc6dW4QaaKiLvG7NR4znVRanhocY-uSM1SlmtTyhxMyP0S-XErJNsttX1Quwnjw5pJ6SRjCBGQii_iyXuzsotjheJ0&amp;t=42a7acab" type="text/javascript"></script>
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ctl00$ContentPlaceHolderDefault$ScriptManager', 'form1', [], [], [], 90, 'ctl00$ctl00$ctl00');
+//]]>
+</script>
+
+            <input type="hidden" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$PopupOffer$OfferLandingPage" id="ContentPlaceHolderDefault_PopupOffer_OfferLandingPage">
+<input type="hidden" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$PopupOffer$OfferExcludeURLs" id="ContentPlaceHolderDefault_PopupOffer_OfferExcludeURLs" value="easter-reservations">
+<input type="hidden" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$PopupOffer$OfferStartDateTime" id="ContentPlaceHolderDefault_PopupOffer_OfferStartDateTime" value="12/10/2014 9:00AM">
+<input type="hidden" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$PopupOffer$OfferEndDateTime" id="ContentPlaceHolderDefault_PopupOffer_OfferEndDateTime" value="12/14/2014 9:00PM">
+
+
+
             
             <!-- header -->
+            
+
+            <div style="color: white;">
+                <span id="ContentPlaceHolderDefault_tester"></span>
+            </div>
             <header id="header">
+
                 <!-- user-panel -->
                 <div class="user-panel">
+
                     <!-- logo -->
                     <h1 class="logo"><a href="/">
                         Buca di Beppo Italian Restaurant and Banquet Facility
                     </a></h1>
                     <img src="/_assets/images/support/logo.png" alt="Buca Di Beppo Italian Restaurant" width="275" height="140" class="logotype">
                     
+                    <div id="zipInfoBar" class="Location NoShow" style="float: left; list-style: none; margin: 0 0 0 260px; padding: 10px 0 0 0;">
+	
+                        <ul style="float: left; list-style: none; margin: 0 0 0 0px; padding: 0;">
+                            <li style="background-image: url(/_assets/images/bg/bdb-user-location-icons.png); background-position: 0 -35px; background-repeat: no-repeat; color: #fff; float: left; font-size: .8em; height: 30px; line-height: 16px; padding-left: 30px; padding-top: 4px; margin: 2px 20px 0 0;">Find a Location
+                            </li>
+                        </ul>
+                        <div style="display: inline;">
+                            <input name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$tbLocation" type="text" id="ContentPlaceHolderDefault_tbLocation" class="GeoTextBox" placeholder="Search by Zip Code or City, State" style="width: 320px; border: none; margin: 0; padding: 0px 0 0 3px; height: 24px; outline: none;">
+                            <input type="submit" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$btnSubmit" value="" id="ContentPlaceHolderDefault_btnSubmit" style="border-style:None;height: 24px; width: 21px; background-color: white; background-image: url(/_assets/images/bg/search-header-btn.png); background-repeat: no-repeat; background-position: center; border: none; margin-left: -5px; outline: none; cursor: pointer;">
 
-                        <div style="position: relative;">
-        <ul id="UserLocationInfobar" data-url="/restaurants/ca/san-francisco/">
-            <li class="location-address">
-                <a href="/restaurants/ca/san-francisco/" class="phone-number">San Francisco
-                    <br>
-                    855 Howard Street</a>
-            </li>
-            <li class="location-phone">
-                <a href="/restaurants/ca/san-francisco/">415.543.7673</a>
-            </li>
-            <li class="location-name"><a href="/restaurants/ca/san-francisco/">View Location</a><br>
-                [<a href="/locations/" style="color: #fff !important;">Change Location</a>]
-            </li>
-        </ul>
-    </div>
-    <script>
-        $(function () {
-            if ($('html').hasClass('mobile')) {
-                var phone_number = $('phone-number').attr('href');
-                if (phone_number.indexOf('tel:') < 0) {
-                    $('phone-number').attr('href', 'tel:' + phone_number);
+
+                        </div>
+                        <div class="clear"></div>
+                    
+</div>
+                    <input type="hidden" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$hidID" id="hidID" value="2826">
+                    <input type="hidden" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$geoSet" id="geoSet" value="1">
+                    
+        <div style="position: relative;" class="Location">
+                <ul id="UserLocationInfobar" data-url="/restaurants/nj/atlantic-city/">
+                    <li class="location-address">
+                        <a href="/restaurants/nj/atlantic-city/" class="phone-number">
+                            Bally's Atlantic City
+                            <br>
+                            1900 Boardwalk
+                        </a>
+                    </li>
+                    <li class="location-phone">
+                        <a href="/restaurants/nj/atlantic-city/">(609) 340-1555 </a>
+                    </li>
+                    <li class="location-name">
+                        <a href="/restaurants/nj/atlantic-city/">View Location</a><br>
+                        [<a href="javascript:void(0);" class="showLoc" style="color: #fff !important;">Change Location</a>]
+                    </li>
+                </ul>
+        </div>
+        <script>
+            $(function () {
+                if ($('html').hasClass('mobile')) {
+                    var phone_number = $('phone-number').attr('href');
+                    if (phone_number.indexOf('tel:') < 0) {
+                        $('phone-number').attr('href', 'tel:' + phone_number);
+                    }
                 }
-            }
-        });
-    </script>
+            });
+        </script>
 
 
 <style>
-    ul#UserLocationInfobar
-    {
+    ul#UserLocationInfobar {
         float: left;
         list-style: none;
         margin: 0 0 0 260px;
         padding: 0;
     }
 
-        ul#UserLocationInfobar li
-        {
+        ul#UserLocationInfobar li {
             background-image: url(/_assets/images/bg/bdb-user-location-icons.png);
             background-repeat: no-repeat;
             color: #fff;
@@ -209,27 +372,23 @@
             margin: 6px 20px 0 0;
         }
 
-            ul#UserLocationInfobar li a
-            {
+            ul#UserLocationInfobar li a {
                 color: #ffffff !important;
             }
 
-            ul#UserLocationInfobar li.location-name
-            {
+            ul#UserLocationInfobar li.location-name {
                 background-position: 0 0;
                 /*max-width: 130px;*/
             }
 
-            ul#UserLocationInfobar li.location-address
-            {
+            ul#UserLocationInfobar li.location-address {
                 background-position: 0 -35px;
                 /*max-width: 190px;*/
             }
 
             ul#UserLocationInfobar li.location-phone,
             ul#UserLocationInfobar li.location-phone a,
-            ul#UserLocationInfobar li.location-phone a:visited
-            {
+            ul#UserLocationInfobar li.location-phone a:visited {
                 background-position: 0 -70px;
             }
 </style>
@@ -240,7 +399,6 @@
                             <img src="/_assets/images/btn/bdb-header-reservations.png">
                         </a>
                     </div>
-
                 </div>
                 <!-- nav -->
                 <nav id="nav">
@@ -251,56 +409,50 @@
 
 
 
-    <ul>
-            <li class="lv1">
+        <ul>
+                <li class="lv1">
 
-                    <a href="/menu/">Menu</a>
+                            <a href="/restaurants/nj/ballys-atlantic-city/menu/">Menu</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
-                    <a href="/banquets/">Banquets / Groups</a>
+                            <a href="/restaurants/">Locations</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
-                    <a href="/online-ordering/">Online Ordering</a>
+                            <a href="/online-ordering/">Online Ordering</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
-                    <a href="/catering/">Catering</a>
+                            <a href="/catering/">Catering</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
-                    <a href="/delivery/">Delivery</a>
+                            <a href="/banquets/">Banquets / Groups</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
-                    <a href="/locations/">Locations</a>
+                            <a href="/gift-cards/">Gift Cards</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
-                    <a href="/gift-cards/">Gift Cards</a>
+                            <a href="/eclub/">eClub</a>
 
-                
-            </li>
-            <li class="lv1">
-
-                    <a href="/eclub/">eClub</a>
-
-                
-            </li>
-    </ul>
+                    
+                </li>
+        </ul>
 
                         
                     </div>
@@ -317,23 +469,19 @@
 		
 
         <input type="image" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$EClubDropdown$CloseButton" id="ContentPlaceHolderDefault_EClubDropdown_CloseButton" class="thecloser" src="/_assets/images/bg/bg-eclub-close.png" style="height:27px;width:26px;">
+
         <div style="clear: both;"></div>
-        <p style="width: 195px;">
-            Sign up for eClub and receive<br>
-            <span class="bigga">FREE PASTA</span> on your next visit:
+        <p style="width: 210px; text-align: center;">
+            <img src="/_assets/images/eclub/get-your-free-pasta.png">
+            
         </p>
         <div class="row">
-            <span class="text">
-                <span class="text-holder">
-                    <input name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$EClubDropdown$EMailAddressTB" type="text" value="Enter your email address" id="ContentPlaceHolderDefault_EClubDropdown_EMailAddressTB" class="text-input" style="width:190px;">
-                </span>
-            </span>
+            <input name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$EClubDropdown$EMailAddressTB" type="text" id="EMailAddressTB" class="text-input" placeholder="Enter your email address" style="height:24px;width:208px;">
         </div>
+
         <div class="row">
-            <div class="row-title">
-                Select a Location:
-            </div>
-            <select name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$EClubDropdown$BucaSelectorDD" id="ContentPlaceHolderDefault_EClubDropdown_BucaSelectorDD" class="select">
+            <select name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$EClubDropdown$BucaSelectorDD" id="BucaSelectorDD" class="select">
+			<option value="">Select Your Buca</option>
 			<option value="0304">AZ - Arrowhead</option>
 			<option value="0302">AZ - Chandler</option>
 			<option value="0303">AZ - Mesa</option>
@@ -345,7 +493,6 @@
 			<option value="0506">CA - Claremont</option>
 			<option value="0504">CA - Encino</option>
 			<option value="0516">CA - Huntington Beach</option>
-			<option value="0512">CA - Irvine</option>
 			<option value="0521">CA - Mira Mesa</option>
 			<option value="0501">CA - Palo Alto</option>
 			<option value="0503">CA - Pasadena</option>
@@ -353,7 +500,7 @@
 			<option value="0515">CA - Roseville</option>
 			<option value="0510">CA - Sacramento</option>
 			<option value="0508">CA - San Diego</option>
-			<option selected="selected" value="0502">CA - San Francisco</option>
+			<option value="0502">CA - San Francisco</option>
 			<option value="0528">CA - San Jose</option>
 			<option value="0507">CA - Santa Monica</option>
 			<option value="0527">CA - Thousand Oaks</option>
@@ -362,7 +509,6 @@
 			<option value="0603">CO - Broomfield</option>
 			<option value="5101">DC - Washington, D.C.</option>
 			<option value="0817">FL - Boynton Beach</option>
-			<option value="0810">FL - Brandon</option>
 			<option value="0819">FL - Coral Springs</option>
 			<option value="0804">FL - Davie</option>
 			<option value="0818">FL - Ft. Myers</option>
@@ -399,12 +545,13 @@
 			<option value="2302">MN - St. Paul</option>
 			<option value="2501">MO - Kansas City - Plaza</option>
 			<option value="3101">NC - Pineville</option>
+			<option value="9000">NJ - Atlantic City</option>
 			<option value="3301">NM - Albuquerque</option>
-			<option value="3403">NY - Albany</option>
-			<option value="3404">NY - Times Square</option>
 			<option value="2802">NV - Summerlin</option>
 			<option value="2801">NV - Las Vegas - Paradise</option>
 			<option value="2803">NV - Las Vegas - Excalibur</option>
+			<option value="3403">NY - Albany</option>
+			<option value="3404">NY - Times Square</option>
 			<option value="3503">OH - Cincinnati - Rookwood Commons</option>
 			<option value="3501">OH - Columbus - Arena District</option>
 			<option value="3506">OH - Strongsville</option>
@@ -436,42 +583,191 @@
 
 		</select>
         </div>
-        <div class="button-row">
-            <input type="submit" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$EClubDropdown$SubmitEClubBtn" value="Submit" id="ContentPlaceHolderDefault_EClubDropdown_SubmitEClubBtn" class="eclub-dropdown-button ui-corner-all">
+
+        <div class="row">
+
+            <!-- select -->
+            <select name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$EClubDropdown$ddlBirthMonth" id="ddlBirthMonth">
+			<option selected="selected" value="" data-days="0">Birth Month</option>
+			<option value="1" data-days="31">January</option>
+			<option value="2" data-days="28">February</option>
+			<option value="3" data-days="31">March</option>
+			<option value="4" data-days="30">April</option>
+			<option value="5" data-days="31">May</option>
+			<option value="6" data-days="30">June</option>
+			<option value="7" data-days="031">July</option>
+			<option value="8" data-days="31">August</option>
+			<option value="9" data-days="30">September</option>
+			<option value="10" data-days="31">October</option>
+			<option value="11" data-days="30">November</option>
+			<option value="12" data-days="31">December</option>
+
+		</select>
+
+            <!-- select -->
+            <select name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$EClubDropdown$ddlBirthDay" id="ddlBirthDay">
+			<option selected="selected" value="">Birth Day</option>
+			<option value="1">01</option>
+			<option value="2">02</option>
+			<option value="3">03</option>
+			<option value="4">04</option>
+			<option value="5">05</option>
+			<option value="6">06</option>
+			<option value="7">07</option>
+			<option value="8">08</option>
+			<option value="9">09</option>
+			<option value="10">10</option>
+			<option value="11">11</option>
+			<option value="12">12</option>
+			<option value="13">13</option>
+			<option value="14">14</option>
+			<option value="15">15</option>
+			<option value="16">16</option>
+			<option value="17">17</option>
+			<option value="18">18</option>
+			<option value="19">19</option>
+			<option value="20">20</option>
+			<option value="21">21</option>
+			<option value="22">22</option>
+			<option value="23">23</option>
+			<option value="24">24</option>
+			<option value="25">25</option>
+			<option value="26">26</option>
+			<option value="27">27</option>
+			<option value="28">28</option>
+			<option value="29">29</option>
+			<option value="30">30</option>
+			<option value="31">31</option>
+
+		</select>
+
         </div>
+
+        <div class="button-row">
+            <input type="submit" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$EClubDropdown$SubmitEClubBtn" value="Sign Up" onclick="return checkForm();" id="ContentPlaceHolderDefault_EClubDropdown_SubmitEClubBtn" class="eclub-dropdown-button ui-corner-all">
+        </div>
+
     
 	</div>
 
     
 
     <style>
-        .eclub-popup p
-        {
+        .eclub-popup p {
             width: 100%;
             text-align: center;
             margin-left: 0;
         }
 
-        .eclub-dropdown-button
-        {
-            margin: 0 auto;
-            width: 75px;
-            font-weight: bold;
+        .eclub-popup .row {
+            margin-top: 0 !important;
+            margin-bottom: 6px;
+        }
+
+        .eclub-dropdown-button {
             background-color: #c1b084;
             border: solid 1px #957b47;
+            color: #121212;
+            cursor: pointer;
+            margin: 0 auto;
+            font-weight: bold;
             padding: 5px 10px;
+            width: 208px;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        .eclub-popup .button-row {
+            margin-left: 0;
+            margin-top: 0;
+        }
+
+        .eclub-popup .row select, .eclub-popup .row input {
+            border: none;
+            border-radius: 3px;
+            height: 20px;
+            text-indent: 5px;
+            padding: 0;
+            width: 208px;
+        }
+
+        #ddlBirthMonth {
+            width: 110px;
+        }
+
+        #ddlBirthDay {
+            width: 90px;
+            margin-left: 5px;
+        }
+
+        .error_field {
+            background-color: lightpink;
         }
     </style>
     <input type="hidden" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$EClubDropdown$hidEclubFade" id="ContentPlaceHolderDefault_EClubDropdown_hidEclubFade" value="0">
     <script type="text/javascript">
+
+
+        $('#ddlBirthMonth').bind('change', function () {
+            // get month days
+            var days = parseInt($('#ddlBirthMonth option:selected').attr('data-days'));
+            // re-add options to max days
+            for (m = 28; m <= 31; m++) {
+                if (m <= days) {
+                    if ($('#ddlBirthDay option[value="' + m + '"]').length == 0) {
+                        $('#ddlBirthDay').append('<option value="' + m + '">' + m + '</option>');
+                    }
+                } else {
+                    $('#ddlBirthDay option[value="' + m + '"]').remove();
+                }
+            }
+        });
+
         function closeEClubPopup(timer) {
             $('.eclub-popup').delay(4000).animate({ 'top': '-200' }, 'swing');
         }
+
         function closeEClubPopupNow() {
             $('.eclub-popup').animate({ 'top': '-200' }, 'swing');
         }
-    </script>
 
+        function checkForm() {
+
+            var isValid = true;
+
+            if ($('#EMailAddressTB').val().length == 0 || $('#EMailAddressTB').val().length == null) {
+                isValid = false;
+                $('#EMailAddressTB').addClass('error_field');
+            } else {
+                $('#EMailAddressTB').removeClass('error_field');
+            }
+
+            if ($('#BucaSelectorDD').val().length == 0 || $('#BucaSelectorDD').val().length == null) {
+                isValid = false;
+                $('#BucaSelectorDD').addClass('error_field');
+            } else {
+                $('#BucaSelectorDD').removeClass('error_field');
+            }
+
+            if ($('#ddlBirthMonth').val().length == 0 || $('#ddlBirthMonth').val().length == null) {
+                isValid = false;
+                $('#ddlBirthMonth').addClass('error_field');
+            } else {
+                $('#ddlBirthMonth').removeClass('error_field');
+            }
+
+            if ($('#ddlBirthDay').val().length == 0 || $('#ddlBirthDay').val().length == null) {
+                isValid = false;
+                $('#ddlBirthDay').addClass('error_field');
+            } else {
+                $('#ddlBirthDay').removeClass('error_field');
+            }
+
+            return isValid;
+        }
+
+    </script>
+    <style></style>
 
 </div>
 
@@ -815,6 +1111,33 @@ mail at:</p>
 
                             <!-- END: Template Region Middle -->
                             
+                            
+
+
+                            <div id="menupop" style="display: none;">
+
+                                <div id="ContentPlaceHolderDefault_Panel1" class="Location" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ContentPlaceHolderDefault_popSubmit')" style="height:150px;width:500px;float: left; list-style: none; margin: 0 0 0 0px; padding: 15px; background-color: #E8E1D1; text-align: center;">
+	
+                                    <p style="font-family: Georgia; font-size: 16px; color: #7e2d22; line-height: 22px">
+                                        We want to provide you with an accurate menu.
+                                            <br>
+                                        Please enter your Zip Code so we can locate a
+                                            <br>
+                                        Buca di Beppo in your area.
+                                    </p>
+                                    <div style="margin-top: 20px;">
+                                        <input name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$tbLocationpop" type="text" id="ContentPlaceHolderDefault_tbLocationpop" class="GeoTextBox" placeholder="Search by Zipcode or City, State" style="width: 250px; border: none; padding: 0px 0 0 3px; height: 24px; outline: none;">
+                                        <input type="submit" name="ctl00$ctl00$ctl00$ContentPlaceHolderDefault$popSubmit" value=" " id="ContentPlaceHolderDefault_popSubmit" style="border-style:None;height: 28px; width: 40px; background-color: #990100; background-image: url(/_assets/images/bg/go-arrow.png); background-repeat: no-repeat; background-position: center; border: none; border-radius: 3px; outline: none; cursor: pointer;">
+                                        <div class="clear"></div>
+
+                                    </div>
+
+
+                                
+</div>
+
+                            </div>
+                            
                         </div>
                     </div>
                 </div>
@@ -836,32 +1159,32 @@ mail at:</p>
 
 
 
-    <ul>
-            <li class="lv1">
+        <ul>
+                <li class="lv1">
 
-                    <a href="/menu/lunch/">Lunch</a>
+                            <a href="/restaurants/nj/ballys-atlantic-city/menu/">Lunch</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
-                    <a href="/menu/dinner/">Dinner</a>
+                            <a href="/restaurants/nj/ballys-atlantic-city/menu/">Dinner</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
-                    <a href="/menu/beverages/">Beverages</a>
+                            <a href="/restaurants/nj/ballys-atlantic-city/menu/">Beverages</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
-                    <a href="/menu/party-pans-to-go/">Party Pans To Go</a>
+                            <a href="/restaurants/nj/ballys-atlantic-city/menu/">Party Pans To Go</a>
 
-                
-            </li>
-    </ul>
+                    
+                </li>
+        </ul>
 
                         </nav>
                     </div>
@@ -874,41 +1197,32 @@ mail at:</p>
 
 
 
-    <ul>
-            <li class="lv1">
+        <ul>
+                <li class="lv1">
 
-                    <a href="/restaurants/ca/san-francisco/">Neighborhood Buca</a>
+                            <a href="/restaurants/nj/atlantic-city/">Neighborhood Buca</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
-                    <a href="/gallery/all-buca-photos/">Buca Gallery</a>
+                            <a href="/gallery/all-buca-photos/">Buca Gallery</a>
 
-                
-            </li>
-            <li class="lv1">
+                    
+                </li>
+                <li class="lv1">
 
+                            <a href="/business-card-drop/">Business Card Drop</a>
 
+                    
+                </li>
+                <li class="lv1">
 
+                            <a href="/locations/">Locations</a>
 
-			<a href="http://maps.google.com/maps?daddr=855+Howard+Street+San+Francisco+CA+94103+(San+Francisco)&amp;t=m" target="_blank">Get Directions</a>
-
-                
-            </li>
-            <li class="lv1">
-
-                    <a href="/business-card-drop/">Business Card Drop</a>
-
-                
-            </li>
-            <li class="lv1">
-
-                    <a href="/locations/">Locations</a>
-
-                
-            </li>
-    </ul>
+                    
+                </li>
+        </ul>
 
                             <ul>
                                 <li class="lv1">
@@ -967,8 +1281,7 @@ mail at:</p>
                         </ul>
 
                         <style>
-                            .footer-block li.lv1 {
-                                white-space: nowrap;
+                            .foote ce: nowrap;
                             }
                         </style>
 
@@ -977,7 +1290,7 @@ mail at:</p>
                     <div class="footer-copyright">
                         <p>
                             2014 © BUCA, Inc. All Rights Reserved. - 
-                            <a href="/privacy-policy/">Privacy Policy</a> | <a href="/terms-conditions/">Terms And Conditions</a> | <a href="/sitemap/">Site Map</a>
+                            <a href="/privacy-policy/">Privacy Policy</a> | <a href="/terms-conditions/">Terms And Conditions</a> | <a href="/coupon-redemption-policy/">Coupon Redemption Policy</a> | <a href="/sitemap/">Site Map</a>
                         </p>
                     </div>
                 </div>
@@ -1005,7 +1318,11 @@ mail at:</p>
             </script>
             <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js"></script>
 
-        </form>
+        
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+</div></form>
 
 
         <!-- ClickTale Bottom part -->
@@ -1025,6 +1342,32 @@ mail at:</p>
 
         <!-- ClickTale end of Bottom part -->
 
-    <script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","72fbbfe65b","2447565","MVNbZBMFWhVVVENfWwgZbEIIS3MDWlJFX1ciU01RCAgbFkZeQVdXHxtJXw0NVx8b",0,530,new Date().getTime(),"88AFB3A3DE50A386","","","",""]);</script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1002238489;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1002238489/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+<!-- Audiencentral 12/11/2014 -->
+<script type="text/javascript"> if (!window.mstag) mstag = {loadTag : function(){},time : (new Date()).getTime()};</script> <script id="mstag_tops" type="text/javascript" src="//flex.msn.com/mstag/site/bb93574b-0044-4a96-a66f-5c95e046b313/mstag.js"></script> <script type="text/javascript"> mstag.loadTag("analytics", {dedup:"1",domainId:"1842746",type:"1",actionid:"76224"})</script> <noscript> <iframe src="//flex.msn.com/mstag/tag/bb93574b-0044-4a96-a66f-5c95e046b313/analytics.html?dedup=1&domainId=1842746&type=1&actionid=76224" frameborder="0" scrolling="no" width="1" height="1" style="visibility:hidden;display:none"> </iframe> </noscript>
+
+
+    <script type="text/javascript"> if (!NREUMQ.f) {NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script"); e.type="text/javascript"; e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js"; document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","72fbbfe65b","2447565","MVNbZBMFWhVVVENfWwgZbEIIS3MDWlJFX1ciU01RCAgbFkZeQVdXHxtJXw0NVx8b",0,327,new Date().getTime(),"F5FDD5049FCACF14","","","",""]);</script>
     
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
