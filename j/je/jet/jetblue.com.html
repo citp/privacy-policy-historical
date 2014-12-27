@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jetblue.com privacy policy that was archived on 2014-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140621020906id_/https%3A//www.jetblue.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jetblue.com privacy policy that was archived on 2014-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227073348id_/http%3A//www.jetblue.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent" lang="en"><!--<![endif]--><head>
     
@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width">
     <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="stylesheet" href="/css/global.css?v=1.4.11">
+    <link rel="stylesheet" href="/css/global.css?v=1.5">
     <link rel="stylesheet" href="/css/Background.css">
     <link rel="stylesheet" href="/css/resolve.css">
         
@@ -22,11 +22,12 @@
             "day": 1
         };
     </script>
-    <script type="text/javascript" src="/js/util/jbconsoleprotect.js"></script>
+    <script type="text/javascript" src="/js/util/jbConsoleProtect.js"></script>
     <script src="/js/vendor/modernizr-2.0.6.min.js"></script>
     <script type="text/javascript" src="//fonts.jetblue.com/sfh4pzq.js"></script>
     <script type="text/javascript">        try { Typekit.load(); } catch (e) { }</script>
-    <script src="/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+    
+
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 
     <script>        window.jQuery || document.write('<script src="/js/vendor/jquery-1.6.2.min.js"><\/script>')</script><script src="/js/vendor/jquery-1.6.2.min.js"></script>
@@ -42,7 +43,7 @@
     <script type="text/javascript">
         try {
             var jbAnalyticsController = new AnalyticsController();
-            $(jbAnalyticsController).trigger(jbAnalyticsController.EVENTS.SET_SERVER_DATA_IN_PAGEMETRICS, [{TB: false}]);
+            $(jbAnalyticsController).trigger(jbAnalyticsController.EVENTS.SET_SERVER_DATA_IN_PAGEMETRICS, [{server: "JetBlue",channel: "LEGAL",pageName: "PRIVACY",TB: false}]);
         }
         catch (err) {
             console.log(err);
@@ -66,8 +67,14 @@ padding-left: 20px;
 	</style>
 
 </head>
-<body>
+<body class="">
     <script type="text/javascript">
+        // longitude and latitude from akamai header:
+        
+        var akamaiLat = 39.0438;
+        var akamaiLong = -77.4879;
+        
+
         // this script logs out a logged in user on the event of a login timeout
         var isLoggedIn = "False";
         if(isLoggedIn.toLowerCase() == "true")
@@ -115,7 +122,8 @@ padding-left: 20px;
         if (baseAirportCookie == "") travelModeValue = "";
     </script>
     <div id="bgHolder">
-        <div class="background"></div>
+        <div class="background">
+        </div>
     </div>
     
 <div class="jetblue-help page reset-offset st130">
@@ -124,89 +132,291 @@ padding-left: 20px;
     </div>
     <div id="jb-header" style="display: block;">
         <div class="wrapper">
-            <h1>
-                <a href="/?intcmp=hd_home">JetBlue</a></h1>
+              <div id="skipToMainContentLink">
+                 <a href="#container">Skip to main content</a>
+              </div>
+                                  
+              
+              
+                    <a href="/?intcmp=hd_home" class="jbLogo logo"><img src="/img/jetblue-white-reg.png" alt="JetBlue"></a>
+              
+                        
+            
             <div class="global-nav">
                 <div align="right">
-                    <iframe src="/JetblueAlerts/MainTitle.aspx" width="500" height="38" marginwidth="0" marginheight="0" align="top" scrolling="no" frameborder="0" id="hdalert" name="hdalert">
+                    <iframe role="presentation" src="/JetblueAlerts/MainTitle.aspx" width="500" height="38" marginwidth="0" marginheight="0" align="top" scrolling="no" frameborder="0" id="hdalert" name="hdalert" title="Flight Alerts">
                     </iframe>
                 </div>                
                 <ul class="login-utility">
-                
-                            <li class="true-blue-join"><a class="join" href="https://trueblue.jetblue.com/web/trueblue/register/?intcmp=hd_join">
-                                <span>Join</span></a></li>
-                            <li class="true-blue-sign-in"><a class="sign-in" href="https://book.jetblue.com/B6.auth/login?intcmp=hd_signin&amp;service=https://www.jetblue.com/legal/privacy/default.aspx">
-                                <span>Sign In</span></a></li>
-                                            
-                    <li class="soflyHeaderMaster"><a href="/SoFly/">SoFly<!--<span class="jbSocialBlueTMMasterHeader">™</span>--></a><!--<div class="soflyHeaderNew">NEW</div>--></li>
-                    
-                    <li><a class="contact-us" href="/contact-us/">Contact us</a></li>
-                    <li><a class="help" href="/help/">Help</a></li>
-                    <li><a lang="es" class="espanol" mporgnav="" href="http://hola.jetblue.com/" onclick="return switchLanguage('es');
+                    <li><a lang="es" class="espanol jb-primary-link" mporgnav="" href="http://hola.jetblue.com/" onclick="return switchLanguage('es');
                         function switchLanguage(lang) {
                             MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
 	                        MP.switchLanguage(MP.UrlLang==lang?'en':lang);
 	                        return false;}">Español</a>
                     </li>
+                    <li>
+                        <a class="help jb-primary-link" href="/help/">
+                        Help
+                        </a>
+                    </li>
+                    <li>
+                        <a class="contact-us jb-primary-link" href="/contact-us/">
+                        Contact us
+                        </a>
+                    </li>
+                    <li class="soflyHeaderMaster">
+                        <a class="jb-primary-link" href="/SoFly/">
+                        SoFly<!--<span class="jbSocialBlueTMMasterHeader">™</span>-->
+                        </a><!--<div class="soflyHeaderNew">NEW</div>-->
+                    </li>
+                    
+                            <li class="true-blue-sign-in">
+                            <span class="trueblue-sprite">
+                                <img src="/img/bg-true-blue-label.jpg" alt="TrueBlue Login" class="trueblue-sprite-login">
+                            </span>
+                            <a class="sign-in jb-primary-link" href="https://book.jetblue.com/B6.auth/login?intcmp=hd_signin&amp;service=https://www.jetblue.com/legal/privacy/default.aspx">
+                                <span>Sign In</span>
+                            </a>
+                            </li>
+                            <li class="true-blue-join"><a class="join jb-primary-link" href="https://trueblue.jetblue.com/web/trueblue/register/?intcmp=hd_join">
+                                <span>Join</span></a></li>
+                        
                 </ul>
               
             </div>
             <!-- END: .global-nav -->
             <div class="main-nav">
                 <ul id="jb-primary-links">
-                    <li class="first submenu"><a class="plan-a-trip" href="/plan-a-trip/">
-                        <span class="name">Plan a trip</span></a>
-                        <div class="jb-secondary-links">
-                            <div class="plan-a-trip-submenu">
-                                <ul>
-                                    <li class="flights"><a href="/flights/">Flights</a></li>
-                                    <li class="vacations"><a href="/vacations/">Getaways</a></li>
-                                    <li class="hotels"><a href="/hotels/">Hotels</a></li>
-                                    <li class="cars"><a href="/cars/">Cars</a></li>
-                                    <li class="cruises"><a href="/cruises/" target="_blank">Cruises</a></li>
-                                    <li class="additional-plan-a-trip-links"><a href="/timetable/">Timetables</a><a href="/email/">Fare alerts</a><a id="FClink" href="/bestfarefinder/">Best Fare Finder</a></li>                                    
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
-                    <li><a class="manage-flight" href="https://book.jetblue.com/B6.myb/landing.html">
-                        <span class="name">Manage flight</span></a></li>
-                    <li><a class="where-we-jet" href="/wherewejet/"><span class="name">Where we jet</span></a></li>
-                    <li class="submenu"><a class="flying-on-jetblue" href="/flying-on-jetblue/">
-                        <span class="name">Flying on JetBlue</span></a>
-                        <div class="jb-secondary-links">
-                            <div class="flying-on-jetblue-submenu">
-                                <ul>
-                                    <li class="directv"><a href="/flying-on-jetblue/directv/">36 channels of<br>live TV at every seat</a></li>
-									<li class="first-bag"><a href="/flying-on-jetblue/first-bag-free/">First bag free</a></li>
-                                    <li class="even-more"><a href="/flying-on-jetblue/even-more/">Even More®</a></li>
-                                    <li class="mint"><a href="/flying-on-jetblue/mint/">Mint</a></li>									
-                                    <li class="additional-flying-on-jetblue-links-1"><a href="/flying-on-jetblue/mint/">Mint</a> <a href="/flying-on-jetblue/directv/">DIRECTV®</a> <a href="/flying-on-jetblue/snacks-and-drinks/">Snacks &amp; drinks</a> <a href="/flying-on-jetblue/radio/">SiriusXM Radio®</a><a href="/flying-on-jetblue/movies/">Movies &amp; more</a> </li>
-                                    <li class="additional-flying-on-jetblue-links-2"><a href="/flying-on-jetblue/first-bag-free/">First bag free</a> <a href="/flying-on-jetblue/even-more/">Even More®</a><a href="/flying-on-jetblue/wifi/">Wi-Fi</a><a href="/flying-on-jetblue/shut-eye/">Shut Eye service</a><a href="/flying-on-jetblue/customer-protection/">Customer protection</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
-                    <li class="submenu"><a class="travel-information" href="/travel/"><span class="name">Travel information</span></a>
-                        <div class="jb-secondary-links">
-                            <div class="travel-information-submenu">
-                                <ul>
-                                    <li class="t-5"><a href="/travel/jfk/">JFK</a></li>
-                                    <li class="baggage-info"><a href="/travel/baggage/">Baggage info</a></li>
-                                    <li class="special-needs"><a href="/travel/special-needs/">Special assistance</a></li>
-                                    <li class="jet-paws"><a href="/travel/pets/">JetPaws™</a></li>
-                                    <li class="additional-travel-information-links-1"><a href="/travel/jfk/">T5 at JFK</a><a href="/travel/baggage/">Baggage info</a><a href="/travel/airports/">Airport information</a><a href="/travel/cancellations-delays/">Cancellations &amp; delays</a> <a href="/travel/planes/">Our planes</a></li>
-                                    <li class="additional-travel-information-links-2"><a href="/travel/special-needs/">Special assistance</a> <a href="/travel/international-travel/">International travel</a><a href="/travel/groups/">Groups (8+ travelers)</a><a href="/travel/pets/">Pets</a><a href="/travel/kids/">Traveling with kids</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </li>
+                    <li class="first submenu">
+<a class="plan-a-trip jb-primary-link" href="/plan-a-trip/">
+    <span class="foreground-sprite">
+        <img src="/img/bg-main-nav-primary.png" alt="">
+    </span>
+    <span class="name">Plan a trip</span>
+</a>
+    <div class="jb-secondary-links">
+        <div class="plan-a-trip-submenu">
+            <ul>
+                <li class="flights">
+                <a class="jb-secondary-link" href="/flights/">
+                <span class="foreground-sprite">
+                    <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                </span>
+                <span class="secondary-link-name">Flights</span>
+                
+                </a>
+                </li>
+                <li class="vacations">
+                <a class="jb-secondary-link" href="/vacations/">
+                <span class="foreground-sprite">
+                    <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                </span>
+                <span class="secondary-link-name">Getaways</span>
+                </a>
+                </li>
+                <li class="hotels">
+                <a class="jb-secondary-link" href="/hotels/">
+                    <span class="foreground-sprite">
+                        <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                    </span>
+                    <span class="secondary-link-name">Hotels</span>
+                
+                </a>
+                </li>
+                <li class="cars">
+                <a class="jb-secondary-link" href="/cars/">
+                    <span class="foreground-sprite">
+                        <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                    </span>
+                    <span class="secondary-link-name">Cars</span>
+                </a>
+                </li>
+                <li class="cruises">
+                <a class="jb-secondary-link" href="/cruises/" target="_blank">
+                    <span class="foreground-sprite">
+                        <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                    </span>
+                    <span class="secondary-link-name">Cruises<img src="/img/new-window-icon.png" class="new-window" alt="opens a new window"></span>
+                </a>
+                </li>
+                <li class="deals-sprite">
+                <a class="jb-secondary-link" href="/deals/">
+                    <span class="foreground-sprite">
+                        <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                    </span>
+                    <span class="secondary-link-name">Deals</span>
+                </a>
+                </li>
 
+                <li class="additional-jb-link">
+                <ul>
+                    <li class="additional-plan-a-trip-links">
+                        <a class="jb-secondary-link" href="/timetable/">Timetables</a> 
+                        <a href="/email/" class="jb-secondary-link">Fare alerts</a>
+                        <a class="jb-secondary-link" id="FClink" href="/bestfarefinder/">Best Fare Finder</a>
+                    </li>
+                </ul>
+                </li>                                    
+            </ul>
+        </div>
+    </div>
+</li>
+<li>
+    <a class="manage-flight jb-primary-link" href="https://book.jetblue.com/B6.myb/landing.html">
+        <span class="foreground-sprite">
+            <img src="/img/bg-main-nav-primary.png" alt="">
+        </span>
+        <span class="name">Manage flights</span>
+    </a>
+</li>
+<li>
+    <a class="where-we-jet jb-primary-link" href="/wherewejet/">
+        <span class="foreground-sprite">
+            <img src="/img/bg-main-nav-primary.png" alt="">
+        </span>
+        <span class="name">Where we jet</span>
+    </a>    
+</li>
+<li class="submenu">
+    <a class="flying-on-jetblue jb-primary-link" href="/flying-on-jetblue/">
+        <span class="foreground-sprite">
+            <img src="/img/bg-main-nav-primary.png" alt="">
+        </span>
+        <span class="name">Flying on JetBlue</span>
+    </a>
+    <div class="jb-secondary-links">
+        <div class="flying-on-jetblue-submenu">
+            <ul>
+                <li class="directv">
+                    <a class="jb-secondary-link" href="/flying-on-jetblue/directv/">
+                        <span class="foreground-sprite">
+                            <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                        </span>
+                        <span class="secondary-link-name">36 channels of<br>
+                        live TV at every seat</span>
+                    </a>
+                </li>
+              
+                <li class="first-bag">
+                    <a class="jb-secondary-link" href="/flying-on-jetblue/first-bag-free/">
+                        <span class="foreground-sprite">
+                            <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                        </span>
+                        <span class="secondary-link-name">First bag free</span>
+                    </a>
+                </li>
+                <li class="even-more">
+                    <a class="jb-secondary-link" href="/flying-on-jetblue/even-more/">
+                        <span class="foreground-sprite">
+                            <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                        </span>
+                        <span class="secondary-link-name">Even More™</span>
+                    
+                    </a>
+                </li>
+                <li class="mint-tab">
+                    <a class="jb-secondary-link" href="/flying-on-jetblue/mint/">
+                        <span class="foreground-sprite">
+                            <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                        </span>
+                        <span class="secondary-link-name">Mint</span>
+                    </a>
+                </li>
+                <li class="additional-jb-link">
+                <ul>
+                    <li class="additional-flying-on-jetblue-links-1">
+                        <a class="jb-secondary-link" href="/flying-on-jetblue/mint/">Mint</a>
+                        <a class="jb-secondary-link" href="/flying-on-jetblue/directv/">DIRECTV®</a> 
+                        <a class="jb-secondary-link" href="/flying-on-jetblue/snacks-and-drinks/">Snacks &amp; drinks</a> 
+                        <a class="jb-secondary-link" href="/flying-on-jetblue/radio/">SiriusXM Radio®</a> 
+                        <a class="jb-secondary-link" href="/flying-on-jetblue/movies/">Movies &amp; more</a> 
+                    </li>
+                    <li class="additional-flying-on-jetblue-links-2">
+                        <a class="jb-secondary-link" href="/flying-on-jetblue/first-bag-free/">First bag free</a> 
+                        <a class="jb-secondary-link" href="/flying-on-jetblue/even-more/">Even More™</a> 
+                        <a class="jb-secondary-link" href="/flying-on-jetblue/wifi/">Wi-Fi</a>
+                        <a href="/flying-on-jetblue/shut-eye/" class="jb-secondary-link">Shut Eye service</a>
+                        <a href="/flying-on-jetblue/customer-protection/" class="jb-secondary-link">Customer protection</a>
+                    </li>
+                </ul>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</li>
+<li class="submenu">
+    <a class="travel-information jb-primary-link" href="/travel/">
+        <span class="foreground-sprite">
+            <img src="/img/bg-main-nav-primary.png" alt="">
+        </span>
+        <span class="name">Travel information</span>    
+    </a>
+    <div class="jb-secondary-links">
+        <div class="travel-information-submenu">
+            <ul>
+                <li class="t-5">
+                    <a class="jb-secondary-link" href="/travel/jfk/">
+                        <span class="foreground-sprite">
+                            <img src="/img/bg_main_nav_secondary_icons.jpg" alt="T5">
+                        </span>
+                        <span class="secondary-link-name">JFK</span>                
+                    </a>
+                </li>
+                <li class="baggage-info">
+                    <a class="jb-secondary-link" href="/travel/baggage/">
+                        <span class="foreground-sprite">
+                            <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                        </span>
+                        <span class="secondary-link-name">Baggage info</span>
+                    </a>
+                </li>
+                <li class="special-needs">
+                    <a class="jb-secondary-link" href="/travel/special-needs/">
+                        <span class="foreground-sprite">
+                            <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                        </span>
+                        <span class="secondary-link-name">Special assistance</span>
+                    </a>
+                </li>
+                <li class="jet-paws">
+                    <a class="jb-secondary-link" href="/travel/pets/">
+                        <span class="foreground-sprite">
+                            <img src="/img/bg_main_nav_secondary_icons.jpg" alt="">
+                        </span>
+                        <span class="secondary-link-name">JetPaws™</span>                
+                    </a>
+                </li>
+                <li class="additional-jb-link">
+                <ul>
+                    <li class="additional-travel-information-links-1">
+                        <a class="jb-secondary-link" href="/travel/jfk/">T5 at JFK</a> 
+                        <a class="jb-secondary-link" href="/travel/baggage/">Baggage info</a>
+                        <a class="jb-secondary-link" href="/travel/airports/">Airport information</a>
+                        <a class="jb-secondary-link" href="/travel/cancellations-delays/">Cancellations &amp; delays</a>
+                        <a class="jb-secondary-link" href="/travel/planes/">Our planes</a> 
+                    </li>
+                    <li class="additional-travel-information-links-2">
+                        <a class="jb-secondary-link" href="/travel/special-needs/">Special assistance</a>
+                        <a class="jb-secondary-link" href="/travel/international-travel/">International travel</a> 
+                        <a class="jb-secondary-link" href="/travel/groups/">Groups (8+travelers)</a> 
+                        <a class="jb-secondary-link" href="/travel/pets/">Pets</a>
+                        <a class="jb-secondary-link" href="/travel/kids/">Traveling with kids</a>
+                    </li>
+                </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</li>
                     <li>
                         
-                                <a id="tbmvLoggedOutMode" class="true-blue" href="http://trueblue.jetblue.com/?intcmp=hd_trueblue">
-                                    <span class="member">TrueBlue</span></a>
+                                <a id="tbmvLoggedOutMode" class="true-blue jb-primary-link" href="http://trueblue.jetblue.com/?intcmp=hd_trueblue">
+                                    <span class="foreground-sprite">
+                                        <img src="/img/bg-main-nav-primary.png" alt="">
+                                    </span>
+                                    <span class="member">TrueBlue</span>
+                                </a>
                             
                     </li>
                 </ul>
@@ -280,12 +490,12 @@ padding-left: 20px;
                       <a name="p1"></a>
 					  <strong>What information do we collect?</strong><br>When you use the JetBlue Online Services, your information and activity data is collected in several ways.</p>
                       <p>First, when you engage with certain JetBlue Online Services, you will be asked to affirmatively provide some information about yourself. For example (and this is not an exhaustive list), you may be asked to provide certain personally identifiable information, such as your name, home address, e-mail address, and/or telephone number(s), when you register with TrueBlue; book a flight, Getaways vacation package or make another travel booking; purchase merchandise; or sign up for a sweepstakes or other promotion. You also may be asked to provide information about where you like to travel or other information about your preferences and behavior. If you make a purchase of any kind, you may be asked to provide your credit card number, billing information and/or other payment information.</p>
-                      <p>Second, when you use the JetBlue Online Services, some information about your online activity may be automatically collected through the use of servers and other technologies. For example, JetBlue may use "cookies," which are small pieces of information that the JetBlue Online Services transfer to the hard drive of a visitor's (your) computer for record-keeping and tracking purposes. Through servers and other technology, JetBlue may collect and track the following information: the domain name of the site providing you with internet access, the internet protocol (IP) address used to connect your computer to the internet, your browser type and version, operating system and platform, mobile-device type, wireless carrier, the average time you spent engaging with a JetBlue Online Service, pages viewed, information searched for, access times, geo-location information, and/or other information and relevant statistics. These tracking technologies also allow us to determine unique preferences and trends based on a visitor’s use of the JetBlue Online Services, as well as that visitor’s use of third party online services participating in the same advertising network as JetBlue. For example, cookies and other tracking technologies may be used by JetBlue and its third-party ad management companies to learn things like which advertisements, emails, websites or other online content brings users to our JetBlue Online Services and to advertise JetBlue products and services to you while you are on other websites based on your browsing or other online activities. For information about removing yourself from these tracking and reporting functions, please first visit the Adobe opt-out page at <a href="http://www.adobe.com/privacy/opt-out.html#4" target="_blank">http://www.adobe.com/privacy/opt-out.html#4</a>. You should also visit these links to prevent any information from being recorded in a session on the JetBlue Online Services: <a href="http://omnistats.jetblue.com/optout.html?popup=1" target="_blank">http://omnistats.jetblue.com/locale=en</a> (English) or <a href="http://omnistats.jetblue.com/optout.html?locale=es_ES&amp;popup=1" target="_blank">http://omnistats.jetblue.com/locale=es</a> (Spanish).</p>
+                      <p>Second, when you use the JetBlue Online Services, some information about your online activity may be automatically collected through the use of servers and other technologies. For example, JetBlue may use "cookies," which are small pieces of information that the JetBlue Online Services transfer to the hard drive of a visitor's (your) computer for record-keeping and tracking purposes. Through servers and other technology, JetBlue may collect and track the following information: the domain name of the site providing you with internet access, the internet protocol (IP) address used to connect your computer to the internet, your browser type and version, operating system and platform, mobile-device type, wireless carrier, the average time you spent engaging with a JetBlue Online Service, pages viewed, information searched for, access times, geo-location information, and/or other information and relevant statistics. These tracking technologies also allow us to determine unique preferences and trends based on a visitor’s use of the JetBlue Online Services, as well as that visitor’s use of third party online services participating in the same advertising network as JetBlue. For example, cookies and other tracking technologies may be used by JetBlue and its third-party ad management companies to learn things like which advertisements, emails, websites or other online content brings users to our JetBlue Online Services and to advertise JetBlue products and services to you while you are on other websites based on your browsing or other online activities. For information about removing yourself from these tracking and reporting functions, please first visit the Adobe opt-out page at <a href="http://www.adobe.com/privacy/opt-out.html#4" target="_blank" alt="Link will open a new window" alt-modified="true">http://www.adobe.com/privacy/opt-out.html#4</a>. You should also visit these links to prevent any information from being recorded in a session on the JetBlue Online Services: <a href="http://omnistats.jetblue.com/optout.html?popup=1" target="_blank" alt="Link will open a new window" alt-modified="true">http://omnistats.jetblue.com/locale=en</a> (English) or <a href="http://omnistats.jetblue.com/optout.html?locale=es_ES&amp;popup=1" target="_blank" alt="Link will open a new window" alt-modified="true">http://omnistats.jetblue.com/locale=es</a> (Spanish).</p>
 					  <p>Please also note that most browsers have options that allow the visitor to control whether the browser will accept cookies, reject cookies, or notify the visitor each time a cookie is sent, but setting a browser to reject cookies will limit the range of features available to the visitor on our JetBlue Online Services, and rejecting or disabling cookies will not necessarily limit all forms of the JetBlue Online Services tracking technologies and methodologies.</p>
 					  <p>By connecting to the JetBlue Online Services with a third-party platform (e.g., Facebook), you give us permission to access and use information, content and/or material you have supplied to that platform as permitted by the platform, and to store your log-in credentials for the platform.</p>
                       <p> <a name="p2"></a>
                       <strong>How do we use the information we collect?</strong><br>We do not sell your personal information to third parties, and we use it only in accordance with this policy.</p>
-                      <p> We use the information we collect about you (described above) to complete transactions, respond to your requests, verify if a visitor meets any criteria in order to process a request, advertise, maintain and optimize the JetBlue Online Services, and notify you of promotions, updates or special offers, including JetBlue affiliate (like TrueBlue partner) offers, that we think may interest you. We also use your information to provide you with a more effective and personalized customer experience across all of our JetBlue Online Services and to serve you with advertisements and other information appropriate to you and your interests. We may also use your information off line to provide you services as well, including without limitation, customer service, in flight services, and booking services. For example, some of your information is collected so that when you visit a particular JetBlue Online Service more than once, the JetBlue Online Service will recognize you.  JetBlue and our ad management companies will use your information, such as browsing and other online activities, to target advertising to you while you are using JetBlue Online Services or other websites that we think will be of interest to you.  Some of this advertising may be designed to bring you back to our JetBlue Online Services. For more information about your ad choices associated with this type of advertising and options to opt out, please visit this website from the Digital Advertising Alliance: <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices/</a>.</p>
+                      <p> We use the information we collect about you (described above) to complete transactions, respond to your requests, verify if a visitor meets any criteria in order to process a request, advertise, maintain and optimize the JetBlue Online Services, and notify you of promotions, updates or special offers, including JetBlue affiliate (like TrueBlue partner) offers, that we think may interest you. We also use your information to provide you with a more effective and personalized customer experience across all of our JetBlue Online Services and to serve you with advertisements and other information appropriate to you and your interests. We may also use your information off line to provide you services as well, including without limitation, customer service, in flight services, and booking services. For example, some of your information is collected so that when you visit a particular JetBlue Online Service more than once, the JetBlue Online Service will recognize you.  JetBlue and our ad management companies will use your information, such as browsing and other online activities, to target advertising to you while you are using JetBlue Online Services or other websites that we think will be of interest to you.  Some of this advertising may be designed to bring you back to our JetBlue Online Services. For more information about your ad choices associated with this type of advertising and options to opt out, please visit this website from the Digital Advertising Alliance: <a href="http://www.aboutads.info/choices/" target="_blank" alt="Link will open a new window" alt-modified="true">http://www.aboutads.info/choices/</a>.</p>
                       <p>In order to accomplish all of those things, we may process your information or combine it with other information that we have about you or that is publicly available, and we also may share your information with other companies that are carefully selected by JetBlue to assist in these uses. Please see <a href="#p2a"><em>Could anyone other than JetBlue be collecting and using my information?</em></a> below for information on how these other companies may collect and use your information.</p>
                       <p>To the extent permitted or required by applicable law, we may disclose personally identifiable information to US or non-US government authorities or agencies or other third parties pursuant to a law, rule or regulation, legal request, subpoena, or other legal process or requirement.</p>
 					  <p>We may also use or disclose your information (including to third party companies) to perform charge verifications, report or collect debts owed, fight fraud, or protect the rights or property of JetBlue, our customers, our third-party service providers, our affiliate companies, our JetBlue Online Services or its users.</p>
@@ -334,7 +544,7 @@ padding-left: 20px;
                       <p> <a name="p7" style="color:#000000;"></a>
                       <strong>Does this policy cover third party services linked from the JetBlue Online Services?</strong><br>In order to assist you and provide you as much information as possible, the JetBlue Online Services contain links to other services, including those that offer ancillary travel services, map functionality, and branded or co-branded JetBlue merchandise and offers. This policy applies only to JetBlue Online Services that have a link to this policy, including jetblue.com. Sites and services that are not owned, operated and/or controlled by JetBlue are not covered by this privacy policy, and we are not responsible for the privacy practices or privacy policies of these other sites or services.</p>
                       <p> <a name="p11" style="color:#000000;"></a>
-                      <strong>Why am I asked to provide certain information for TSA watchlist screening, and how is this data used?</strong><br>The Transportation Security Administration (TSA) screens all commercial airline passengers and baggage.  As part of TSA’s mission to secure airports in the United States, TSA requires you to provide certain information, such as your full name, date of birth, and gender, for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, gender or any other information required by TSA may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA web site at <a href="http://www.tsa.gov" target="_blank">www.tsa.gov</a>.</p>
+                      <strong>Why am I asked to provide certain information for TSA watchlist screening, and how is this data used?</strong><br>The Transportation Security Administration (TSA) screens all commercial airline passengers and baggage.  As part of TSA’s mission to secure airports in the United States, TSA requires you to provide certain information, such as your full name, date of birth, and gender, for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, gender or any other information required by TSA may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA web site at <a href="http://www.tsa.gov" target="_blank" alt="Link will open a new window" alt-modified="true">www.tsa.gov</a>.</p>
                       <p> <a name="p7b" style="color:#000000;"></a>
                       <strong>In the event of a corporate change in control, what happens?</strong><br>Should there be a corporate change in control, through merger, acquisition or bankruptcy, we reserve the right to transfer any information collected from you to the new party in control of JetBlue.</p>
                       <p> <a name="p8" style="color:#000000;"></a>
@@ -361,7 +571,7 @@ padding-left: 20px;
                     <div class="media">
                         <div class="app-wrap">
     <div class="media">
-        <div class="img"><a href="/mobile/iphone/appdownload/" target="_blank"><img src="/img/jbapp-icon.png?v=1" title="JetBlue app icon" border="0"></a></div>
+        <div class="img"><a href="/mobile/iphone/appdownload/" target="_blank" alt="Link will open a new window" alt-modified="true"><img src="/img/jbapp-icon.png?v=1" title="JetBlue app icon" border="0"></a></div>
         <div class="inner-media">
             <p class="hd"><strong>Same smart app. More smartphones.</strong><span class="fine-print"><a href="/mobile/">Download the JetBlue mobile app for iPhone and Android now!</a></span></p>
         </div>
@@ -405,39 +615,39 @@ padding-left: 20px;
                    
                     <li class="facebook">
                         <div class="inner-media">
-                            <a href="http://www.facebook.com/JetBlue" target="_blank">
+                            <a href="http://www.facebook.com/JetBlue" target="_blank" alt="Link will open a new window" alt-modified="true">
                                 <img src="/img/facebookicon.png">Like us on Facebook
                             </a>
-                            <span>&nbsp;916,339&nbsp;like this</span>
+                            <span>&nbsp;998,023&nbsp;like this</span>
                         </div>
                     </li>
                     <li class="twitter">
                         <div class="inner-media">
-                            <a href="http://twitter.com/jetblue" target="_blank">
+                            <a href="http://twitter.com/jetblue" target="_blank" alt="Link will open a new window" alt-modified="true">
                                 <img src="/img/twittericon.png">Follow us at @JetBlue
                             </a>
-                            <span>&nbsp;1,806,542&nbsp;followers</span>
+                            <span>&nbsp;1,885,250&nbsp;followers</span>
                         </div>
                     </li>
 					<li class="instagram">
 						<div class="inner-media">
-							<a href="http://www.instagram.com/jetblue" target="_blank">
+							<a href="http://www.instagram.com/jetblue" target="_blank" alt="Link will open a new window" alt-modified="true">
 								<img src="/img/instagramicon.png">Follow us on Instagram
 							</a>
-                            <span>&nbsp;23,271&nbsp;followers</span>
+                            <span>&nbsp;39,691&nbsp;followers</span>
 						</div>
 					</li>
                     <li class="youtube">
                         <div class="inner-media">
-                            <a href="http://www.youtube.com/jetblue" target="_blank">
+                            <a href="http://www.youtube.com/jetblue" target="_blank" alt="Link will open a new window" alt-modified="true">
                                 <img src="/img/youtubeicon.png">Visit us on YouTube
                             </a>
-                            <span>&nbsp;4,454,748&nbsp;total views</span>
+                            <span>&nbsp;5,810,735&nbsp;total views</span>
                         </div>
                     </li>
                     <li class="btblog">
                         <div class="inner-media">
-                            <a href="http://blog.jetblue.com" target="_blank">
+                            <a href="http://blog.jetblue.com" target="_blank" alt="Link will open a new window" alt-modified="true">
                                 <img src="/img/bluetalesicon.png">BlueTales Blog
                             </a>
                             <span>&nbsp;Your destination for all things JetBlue and beyond <p>&nbsp;</p></span>
@@ -453,23 +663,25 @@ padding-left: 20px;
                     <li><a href="/corporate-social-responsibility/">CSR</a></li>
 					<li><a href="/green/">Sustainability</a></li>
                     <li><a href="/mobile/">Mobile</a></li>
-                    <li><a href="https://shop.jetblue.com/" target="_blank">ShopBlue</a></li>
+                    <li><a href="https://shop.jetblue.com/" target="_blank" alt="Link will open a new window" alt-modified="true">ShopBlue</a></li>
                 </ul>
                 <!-- /Get to know us -->
                 <ul>
                     <li class="list-head">Services</li>
                     <li><a href="/airline-partners/">Partner airlines</a></li>
+                    <li><a href="/vacations/">Getaways</a></li>
                     <li><a href="/corporate/">Corporate</a></li>
                     <li><a href="/cargo/">Cargo</a></li>
                     <li><a href="/travel-agents/">Travel agents</a></li>
                     <li><a href="/travel/special-needs/">Special assistance</a></li>
-                    <li><a href="/gift-cards/">Gift Cards</a></li>
 					<li><a href="/travel-insurance/">Travel Insurance</a></li>
+					<li><a href="/traveldeals/veterans-discount/">Veterans Discount</a></li>
                 </ul>
                 <!-- /Services -->
                 <ul class="last">
                     <li class="list-head">Talk to us</li>
                     <li><a href="/contact-us/">Contact us</a></li>
+					<li><a href="/contact-us/receipt/">Request a receipt</a></li>
                     <li><a href="/work-here/">Work here</a></li>
                     <li><a href="/legal/">Legal</a></li>
                     <li><a href="/legal/privacy/">Privacy</a></li>
@@ -481,7 +693,7 @@ padding-left: 20px;
             <!-- /.sitemap-wrap -->
             <div id="getaways-cities-list" class="hide-cities clearfix">
                 <div class="getaways-cities-wrap">
-                    <p><strong>Top JetBlue Vacation packages:</strong> <a href="/vacations/aruba-vacations/">Aruba</a> | <a href="/vacations/barbados-vacations/">Barbados</a> | <a href="/vacations/bermuda-vacations/">Bermuda</a> | <a href="/vacations/cancun-vacations/">Cancún, Mexico</a> | <a href="/vacations/fort-lauderdale-vacations/">Fort Lauderdale</a> | <a href="/vacations/grand-cayman-vacations/">Grand Cayman</a> | <a href="/vacations/jamaica-vacations/">Jamaica</a> | <a href="/vacations/las-vegas-vacations/">Las Vegas</a> | <a href="/vacations/bahamas-vacations/">Nassau, Bahamas</a> | <a href="/vacations/orlando-vacations/">Orlando</a> | <a href="/vacations/puerto-plata-vacations/">Puerto Plata, Dominican Republic</a> | <a href="/vacations/punta-cana-vacations/">Punta Cana, Dominican Republic</a> | <a href="/vacations/st-maarten-vacations/">Saint Martin</a> | <a href="/vacations/san-juan-vacations/">San Juan, Puerto Rico</a> | <a href="/vacations/samana-vacations/">Samana, Dominican Republic</a> | <a href="/vacations/st-lucia-vacations/">St. Lucia</a> | <a href="/vacations/turks-caicos-vacations/">Turks &amp; Caicos</a> | <a href="/vacations/walt-disney-world-vacations/"><em>Walt Disney World®</em> Resort</a> | <a href="/vacations/west-palm-beach-vacations/">West Palm Beach</a><span class="show-more"><a href="/vacations/aguadilla-vacations/">Aguadilla, Puerto Rico</a> | <a href="/vacations/albuquerque-vacations/">Albuquerque</a> | <a href="/vacations/disneyland-vacations/">Anaheim / Disneyland® Resort</a> | <a href="/vacations/bogota-colombia-vacations/">Bogotá, Colombia</a> | <a href="/vacations/boston-vacations/">Boston</a> | <a href="/vacations/buffalo-niagara-falls-vacations/">Buffalo/Niagara Falls</a> | <a href="/vacations/riviera-maya-vacations/">Cancún Riviera Maya</a> | <a href="/vacations/cartagena-vacations/">Cartagena, Colombia</a> | <a href="/vacations/charleston-vacations/">Charleston</a> | <a href="/vacations/fort-myers-vacations/">Fort Myers</a> | <a href="/vacations/hilton-head-vacations/">Hilton Head, SC</a> | <a href="/vacations/jacksonville-vacations/">Jacksonville / Amelia Island</a> | <a href="/vacations/los-angeles-vacations/">LA / Hollywood</a> | <a href="/vacations/la-romana-vacations/">La Romana, Dominican Republic</a> | <a href="/vacations/liberia-costa-rica-vacations/">Liberia, Costa Rica</a> | <a href="/vacations/miami-vacations/">Miami</a> | <a href="/vacations/new-orleans-vacations/">New Orleans</a> | <a href="/vacations/new-york-city-vacations/">New York City</a> | <a href="/vacations/phoenix-vacations/">Phoenix</a> | <a href="/vacations/ponce-vacations/">Poncé, Puerto Rico</a> | <a href="/vacations/st-croix-vacations/">Saint Croix</a> | <a href="/vacations/st-thomas-vacations/">St. Thomas / St. John</a> | <a href="/vacations/salt-lake-park-city-vacations/">Salt Lake/Park City</a> | <a href="/vacations/san-diego-vacations/">San Diego</a> | <a href="/vacations/san-francisco-vacations/">San Francisco</a> | <a href="/vacations/costa-rica-vacations/">San José, Costa Rica</a> | <a href="/vacations/santo-domingo-vacations/">Santo Domingo, Dominican Republic</a> | <a href="/vacations/sarasota-vacations/">Sarasota</a> | <a href="/vacations/savannah-georgia-vacations/">Savannah</a> | <a href="/vacations/st-pete-clearwater-vacations/">St. Pete / Clearwater</a> | <a href="/vacations/washington-dc-vacations/">Washington, DC</a><br><strong>Travel Styles:</strong> <a href="/vacations/travel-styles/?id=1">All-Inclusive</a> | <a href="/vacations/travel-styles/?id=2">Adventure &amp; Sport</a> | <a href="/vacations/travel-styles/?id=3">Romance &amp; Wedding</a> | <a href="/vacations/travel-styles/?id=4">Family Fun</a> | <a href="/vacations/travel-styles/?id=5">Gaming &amp; Nightlife</a> | <a href="/vacations/travel-styles/?id=6">Spa</a></span></p>
+                    <p><strong>Top JetBlue Vacation packages:</strong> <a href="/vacations/aruba-vacations/" data-city="AUA">Aruba</a> | <a href="/vacations/barbados-vacations/" data-city="BGI">Barbados</a> | <a href="/vacations/bermuda-vacations/" data-city="BDA">Bermuda</a> | <a href="/vacations/cancun-vacations/" data-city="CUN">Cancún, Mexico</a> | <a href="/vacations/fort-lauderdale-vacations/" data-city="FLL XFL">Fort Lauderdale</a> | <a href="/vacations/grand-cayman-vacations/" data-city="GCM">Grand Cayman</a> | <a href="/vacations/jamaica-vacations/" data-city="MBJ">Jamaica</a> | <a href="/vacations/las-vegas-vacations/" data-city="LAS">Las Vegas</a> | <a href="/vacations/bahamas-vacations/" data-city="NAS">Nassau, Bahamas</a> | <a href="/vacations/orlando-vacations/" data-city="MCO">Orlando</a> | <a href="/vacations/puerto-plata-vacations/" data-city="POP">Puerto Plata, Dominican Republic</a> | <a href="/vacations/punta-cana-vacations/" data-city="PUJ">Punta Cana, Dominican Republic</a> | <a href="/vacations/st-maarten-vacations/" data-city="SXM">Saint Martin</a> | <a href="/vacations/san-juan-vacations/" data-city="SJU">San Juan, Puerto Rico</a> | <a href="/vacations/samana-vacations/" data-city="AZS">Samana, Dominican Republic</a> | <a href="/vacations/st-lucia-vacations/" data-city="UVF">St. Lucia</a> | <a href="/vacations/turks-caicos-vacations/" data-city="PLS">Turks &amp; Caicos</a> | <a href="/vacations/walt-disney-world-vacations/" data-city="MCO"><em>Walt Disney World®</em> Resort</a> | <a href="/vacations/west-palm-beach-vacations/" data-city="PBI XFL">West Palm Beach</a><span class="show-more"><a href="/vacations/aguadilla-vacations/" data-city="BQN">Aguadilla, Puerto Rico</a> | <a href="/vacations/albuquerque-vacations/" data-city="ABQ">Albuquerque</a> | <a href="/vacations/disneyland-vacations/" data-city="LGB ZLA">Anaheim / Disneyland® Resort</a> | <a href="/vacations/bogota-colombia-vacations/" data-city="BOG">Bogotá, Colombia</a> | <a href="/vacations/boston-vacations/" data-city="BOS XBO">Boston</a> | <a href="/vacations/buffalo-niagara-falls-vacations/" data-city="BUF">Buffalo/Niagara Falls</a> | <a href="/vacations/riviera-maya-vacations/" data-city="CUN">Cancún Riviera Maya</a> | <a href="/vacations/cartagena-vacations/" data-city="CTG">Cartagena, Colombia</a> | <a href="/vacations/charleston-vacations/" data-city="CHS">Charleston</a> | <a href="/vacations/curacao-vacations/" data-city="CUR">Curacao</a> | <a href="/vacations/fort-myers-vacations/" data-city="RSW">Fort Myers</a> | <a href="/vacations/hilton-head-vacations/" data-city="SAV">Hilton Head, SC</a> | <a href="/vacations/jacksonville-vacations/" data-city="JAX">Jacksonville / Amelia Island</a> | <a href="/vacations/los-angeles-vacations/" data-city="LAX ZLA">LA / Hollywood</a> | <a href="/vacations/la-romana-vacations/" data-city="LRM XDR">La Romana, Dominican Republic</a> | <a href="/vacations/liberia-costa-rica-vacations/" data-city="LIR">Liberia, Costa Rica</a> | <a href="/vacations/miami-vacations/" data-city="FLL">Miami</a> | <a href="/vacations/new-orleans-vacations/" data-city="MSY">New Orleans</a> | <a href="/vacations/new-york-city-vacations/" data-city="JFK LGA EWR HPN SWF NYC">New York City</a> | <a href="/vacations/phoenix-vacations/" data-city="PHX">Phoenix</a> | <a href="/vacations/ponce-vacations/" data-city="PSE">Poncé, Puerto Rico</a> | <a href="/vacations/st-croix-vacations/" data-city="STX">Saint Croix</a> | <a href="/vacations/st-thomas-vacations/ data-city=" stt"="">St. Thomas / St. John</a> | <a href="/vacations/salt-lake-park-city-vacations/" data-city="SLC">Salt Lake/Park City</a> | <a href="/vacations/san-diego-vacations/" data-city="SAN">San Diego</a> | <a href="/vacations/san-francisco-vacations/" data-city="SFO XSF">San Francisco</a> | <a href="/vacations/costa-rica-vacations/" data-city="SJO">San José, Costa Rica</a> | <a href="/vacations/santo-domingo-vacations/" data-city="SDQ XDR">Santo Domingo, Dominican Republic</a> | <a href="/vacations/sarasota-vacations/" data-city="SRQ">Sarasota</a> | <a href="/vacations/savannah-georgia-vacations/" data-city="SAV">Savannah</a> | <a href="/vacations/st-pete-clearwater-vacations/" data-city="TPA">St. Pete / Clearwater</a> | <a href="/vacations/washington-dc-vacations/" data-city="IAD WAS">Washington, DC</a><br><strong>Travel Styles:</strong> <a href="/vacations/travel-styles/?id=1">All-Inclusive</a> | <a href="/vacations/travel-styles/?id=2">Adventure &amp; Sport</a> | <a href="/vacations/travel-styles/?id=3">Romance &amp; Wedding</a> | <a href="/vacations/travel-styles/?id=4">Family Fun</a> | <a href="/vacations/travel-styles/?id=5">Gaming &amp; Nightlife</a> | <a href="/vacations/travel-styles/?id=6">Spa</a></span></p>
                     <a id="city-expander" href="javascript:void(0);"><p class="expander">
                         <span>Show more cities</span> &nbsp;<img class="down-icon" src="/img/getaway-cities-list-arrow.jpg" alt="" width="7" height="8"><img class="up-icon" src="/img/getaway-cities-list-arrow-up.jpg" alt="" width="7" height="8"></p></a>
                 </div>
@@ -574,7 +786,7 @@ padding-left: 20px;
     if(s_code)document.write(s_code)//--></script>
   <!--/omniture tag--->
 
-    <script src="/js/src/JB.Global.js?v=1.4.6"></script>
+    <script src="/js/src/JB.Global.js?v=1.5"></script>
     <script src="/js/src/JB.Subpages.js"></script>
     <script type="text/javascript" id="mpelid" src="//hola.jetblue.com/mpel/mpel.js"></script>
 
