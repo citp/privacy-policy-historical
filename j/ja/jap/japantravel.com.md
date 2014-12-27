@@ -1,68 +1,85 @@
-> *The following text is extracted and transformed from the japantravel.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503070417id_/http%3A//en.japantravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantravel.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227112103id_/http%3A//en.japantravel.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Japan Travel - Map Your Travels
 
-Japan Travel K.K. takes the subject of customer privacy seriously. Please read the following to learn more about our privacy policy.
+**Privacy Policy Introduction**
 
-JapanTravel.com, which used to be known as JapanTourist.jp, is now produced by Japan Travel K.K., and references to JapanTravel.com, JapanTourist.jp or Japan Travel K.K. shall in general be interchangeable.
+This policy covers how JT treats personal information that it collects and receives, including information related to your past use of JT, present and future use of JT, and its services. Personal information means information about you which personally identifies you, like your name, address, email address, or phone number, and other data which is not otherwise publicly available.
 
-**Privacy**
+This policy does not apply to possible partners or clients of JT, which JT does not own or control, nor does it apply to the conduct of people that JT does not employ or manage.
 
-**Policy Introduction**
+**Information Collection, Use, Sharing and Disclosure**
 
-  * This policy covers how JapanTravel.com treats personal information that it collects and receives, including information related to your past use of JapanTravel.com, present and future use of JapanTravel.com, and its services. Personal information means information about you which personally identifies you, like your name, address, email address, or phone number, and other data which is not otherwise publicly available.
-  * This policy does not apply to possible partners or clients of JapanTravel.com, which JapanTravel.com does not own or control, nor does it apply to the conduct of people that JapanTravel.com does not employ or manage.
+  1. Customer Personal Information Kept by JT
+
+JT keeps a portion of personal information provided by customers in travel requests and other transactions as personal data. JT also handles personal data entrusted to it by other travel companies in order to provide travel arrangements requested by those companies.
+
+  2. Reasons for Use of Customer Personal Information
+
+JT and Partners may use personal information provided in travel forms, surveys and site registration to contact customers, as well as when necessary in the performance of our travel and other services as requested by the customer, including the arrangement of transportation and accommodations (as listed in the agreement). JT may set and access cookies for the same reasons.
+
+*In addition, JT will use customer personal information...
+
+    * To respond to inquiries
+    * To process credit card payments for products or services
+    * To provide information on products, services, and campaigns offered by JT and related companies
+    * To request opinions and impressions after participating in travel
+    * To request participation in questionnaires
+    * To offer special services
+    * To create statistical data
+  3. Handling of Personal Information Related to Credit Cards Used for Internet Purchases
+
+JT will use the personal information of customers related to credit cards used to pay for products or services over the internet.
+
+  4. Sensitive Information
+
+JT does not collect, use or provide information to third parties on political opinions, faith (religion, philosophy, or creed), race or ethnicity, medical treatment, sexual history or criminal history except where permitted by law. Also, when sensitive information is collected, used, or provided to a third party, JT takes special care in its handling so as not to collect, use, or provide information in a way that is not in accordance with the law.
+
+  5. Providing Customer Personal Information to Third Parties
+
+Unless stated otherwise, JT does not rent, sell or share personal information with third parties or non-affiliated companies except to provide products or services under the following circumstances:
+
+    * JT will provide in electronic form a customer’s name, gender, age, address, phone number, e-mail address, passport number, and credit card number to transportation, accommodation, and insurance companies as necessary to arrange and provide purchased travel services, or as necessary to fulfill travel agreements or complete insurance formalities to securitize costs when accidents occur.
+    * JT may provide customer personal information in our possession to souvenir stores to facilitate shopping by customers at their destination. In such cases, the customer’s name, passport number and flight number will be provided electronically. If you do not wish for your information to be provided to these businesses, please inform the branch where you purchased the travel before departure.
+    * Where required by law or other legal proceedings to divulge such information to the authorities or where there is suspected fraud or potential threats to the physical safety of any person.
+  6. Collection and Use of Customer Personal Information
+
+JT handles the collection and use of customer personal information as follows:
+
+    * Customers are presented with a clearly worded policy on the purpose of collection and types of use in pamphlets and travel request forms, web site and permission for use and collection is sought.
+    * When the information is provided to data storage companies or third parties, customers will be notified, and permission will be sought.
+    * Though customers are free to choose whether or not to provide any or all types of personal information when requesting travel services or information, there are instances where JT will not be able to contact the customer or complete procedures necessary to provide the requested services when some or all information is not provided, and thus will not be able to accept the requests for services from the customer.
+  7. Inquiries, Release, Deletion, and Correction of Customer Personal Information
+
+Anyone who requests that we disclose, delete or destroy, change, stop the use, or stop sharing with third parties their individual customer personal information in our possession will be provided with the necessary steps to do so by contacting the departments listed below. When requested, we will take all necessary measures as set by laws and company regulations without delay.
+
+If we are unable to comply with all or part of your request, we will provide an explanation.
+
+Please contact the department below for any issues concerning personal information.
+
+Japan Travel K.K.  
+Marketing Department  
+Address: 1-3-4 Nishi-Azabu,  
+Minato-ku Roppongi OG Bldg,  
+4F 106-0031 Tokyo  
+Hours: 9:30-18:30 (Weekdays)  
+Phone: +81-3-4588-2676  
+Email: [marketing@japantravel.com](mailto:marketing@japantravel.com)  
 
 
+  8. In Circumstances When Personal Information is Leaked
 
-**Information Collection and Use**
+If for some reason JT personal information is disclosed, we will do our best to contact the customer immediately. If necessary, we will temporarily shut down our system to maintain security, or we may promptly announce facts about the situation publicly on our homepage.
 
-**General**
+  9. Court of Jurisdiction
 
-  * JapanTravel.com collects personal information when you register with JapanTravel.com, use other functionality, or enter campaigns and promotions. JapanTravel.com may combine information about you with information we obtain from business partners or other companies.
-  * Any voluntary information you provide through online surveys and/or site registrations may be stored, analyzed, and used for marketing purposes and to improve the way we do business with our current and potential clients and readers. All customer information collected by JapanTravel.com will be treated with the utmost care and will not be divulged to anyone without your permission.
-  * When you register we may ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, personal interests and other data. Once you register with JapanTravel.com and sign in to our services, you are no longer anonymous to us.
-  * JapanTravel.com may automatically receive and record information on our server logs from your browser, including your IP address, JapanTravel.com cookie information, and the page(s) you request.
-  * JapanTravel.com uses customer information for the following general purposes: i) to customize the advertising and content you see, ii) to fulfill your requests for products and services, iii) to improve our services, iv) to contact you, v) to conduct research, and vi) to provide anonymous reporting for internal and external clients.
+The laws of Japan shall be applied to this website and terms of use and visitors consent to the jurisdiction of the Tokyo District Court in any and all disputes.
 
-
-
-**Information Sharing and Disclosure**
-
-Unless stated otherwise, JapanTravel.com does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested or under the following circumstances:
-
-  * We may provide information to trusted partners who work on behalf of or with JapanTravel.com under confidentiality agreements. These companies may use your personal information to help JapanTravel.com communicate to you offers from JapanTravel.com and our marketing partners. However, these companies do not have any independent right to share this information.
-  * Where we are required by law, such as in a criminal or civil investigation or other legal proceedings, to divulge such information to the authorities.
-  * Where there may be suspected fraud, situations involving potential threats to the physical safety of any person, or other violations of JapanTravel.com's terms of use.
-  * If there is a merger or takeover by another company of JapanTravel.com, then we may transfer customer information to the acquirer. In this event, JapanTravel.com will notify you before information about you is transferred IF the terms of the acquirer's privacy policy is different to ours. If the terms are the same as our's, then we may choose not to notify you.
-
-
-
-**Cookies**
-
-  * JapanTravel.com may set and access JapanTravel.com cookies on your computer.
-
-
-
-**Your Ability to Change Your Account Information**
-
-**General**
-
-  * You can edit your JapanTravel.com Account Information at any time.
-  * If you have subscribed to a service or newsletter, you can unsubscribe by following the instructions either provided on this website or sent to you by email.
-  * We reserve the right to send you on an opt-out basis certain communications relating to the JapanTravel.com service, such as service announcements, administrative messages and JapanTravel.com newsletters, that are considered part of your JapanTravel.com membership.
-
-
-
-**Confidentiality and Security**
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  * We have physical, electronic, and procedural safeguards that comply with governmental regulations to protect personal information about you.
 
 
 
 **Changes to this Privacy Policy**
 
-  * JapanTravel.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your JapanTravel.com account or by placing a prominent notice on our site.
+JT may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your JT account or by placing a prominent notice on our site. JapanTravel.com, which used to be known as JapanTourist.jp, is produced by Japan Travel KK, and references to JapanTravel.com, JapanTourist.jp or Japan Travel KK shall in general be interchangeable.
 
-
+ 
