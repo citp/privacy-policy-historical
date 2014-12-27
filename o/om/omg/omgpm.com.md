@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgpm.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052222id_/http%3A//www.omgpm.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgpm.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227015812id_/http%3A//www.omgpm.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy -
 
@@ -143,7 +143,7 @@ You can also control how cookies operate on your device by modifying your Browse
 
 ## Advertising Cookies
 
-OMG provides advertising services which involves the use of cookies and tracking technologies. Further detail can be found in our[Advertising Privacy Policy](http://uk.omgpm.com/tracking-privacy.aspx).
+OMG provides advertising services which involves the use of cookies and tracking technologies. Further detail can be found in our[Advertising Privacy Policy](http://www.omgpm.com/tracking-privacy-policy/).
 
 ## Subject access requests
 
