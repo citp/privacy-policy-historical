@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leisurearts.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626025543id_/http%3A//leisurearts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leisurearts.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227203257id_/http%3A//www.leisurearts.com/privacy-policy) for the most accurate reproduction.*
 
-# Leisure Arts - Privacy Policy
+# Privacy Policy
 
 We will not share your customer information with any third party. Your privacy is important to us.
 
