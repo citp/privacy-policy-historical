@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeinahouseoftestosterone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073010id_/http%3A//lifeinahouseoftestosterone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinahouseoftestosterone.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227081348id_/http%3A//lifeinahouseoftestosterone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life in a House of Testosterone
 
@@ -8,15 +8,14 @@ I use third-party advertising to serve ads when you visit this blog. These compa
 
 **Cookies and Web Beacons**
 
-Life in a House of Testosterone does not use cookies.
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
+Life in a House of Testosterone does not use cookies for our readers; however, some of our advertising and affiliate partners do use cookies and web beacons on our site. Our advertising partners include:
 
   * Commission Junction
   * LinkShare
   * Share A Sale
   * Amazon
-  * Skimlinks
+  * Mommerce
+  * Moms Affiliate
 
 
 
