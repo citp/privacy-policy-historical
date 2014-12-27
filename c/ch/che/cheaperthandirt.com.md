@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaperthandirt.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624105817id_/http%3A//www.cheaperthandirt.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaperthandirt.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227182835id_/http%3A//www.cheaperthandirt.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Cheaper Than Dirt - America's Ultimate Shooting Sports Discounter
 
@@ -6,8 +6,6 @@ This privacy statement is for Cheaper Than Dirt.
 
 We are committed to protecting your privacy and want you to know what type of information we collect and what we do with it. If you have questions or concerns regarding our privacy statement or would like to be removed from any of our databases, contact us at: 
 
-800-421-8047  
-Help@CheaperThanDirt.com  
 Cheaper Than Dirt  
 2524 NE Loop 820  
 Fort Worth, TX 76106  
