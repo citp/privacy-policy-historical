@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freepatriot.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628094153id_/http%3A//freepatriot.org/visitor-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepatriot.org privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227040141id_/http%3A//freepatriot.org/visitor-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » The Free Patriot
+# Privacy Policy - The Free Patriot
 
 **The Free Patriot** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
