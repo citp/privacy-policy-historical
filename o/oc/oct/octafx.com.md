@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the octafx.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330125658id_/https%3A//www.octafx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octafx.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227215946id_/http%3A//www.octafx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OctaFX
 
@@ -35,6 +35,3 @@ Disclosure of your personal information might be necessary in order to comply wi
 ## Payment Information
 
 We do not keep nor store, in any form, customer payment information.
-
-  
-
