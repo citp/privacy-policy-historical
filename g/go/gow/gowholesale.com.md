@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowholesale.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630000354id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowholesale.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227082626id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.*
 
 # Liquidation.com Privacy Policy
 
