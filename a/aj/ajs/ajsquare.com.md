@@ -1,20 +1,9 @@
-> *The following text is extracted and transformed from the ajsquare.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331152023id_/http%3A//www.ajsquare.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203%26Itemid%3D729) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajsquare.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227071446id_/http%3A//www.ajsquare.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203%26Itemid%3D729) for the most accurate reproduction.*
 
 # Privacy Policy | About AJ Square
 
-|  | AJ Square Inc., takes your privacy seriously. Please read the following to learn more about our privacy policy. 
-
-AJ Square, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.ajsquare.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
-  
+|  | **What This Privacy Policy Covers**  
 ---  
-   
-[](http://www.truste.org/ivalidate.php?url=www.ajsquare.com&sealid=101)  
-   
-  
-If you have any questions or concerns regarding this statement, you should first contact support person at [sales@ajsquare.com](maillto:support@ajsquare.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.   
-  
-   
-**What This Privacy Policy Covers**  
    
   
   * This policy covers how AJ Square Inc treats personal information that AJ Square Inc collects and receives, including information related to your past use of AJ Square Inc products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
