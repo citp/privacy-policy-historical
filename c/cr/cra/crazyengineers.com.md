@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the crazyengineers.com privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520103721id_/http%3A//www.crazyengineers.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyengineers.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227224202id_/http%3A//www.crazyengineers.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CrazyEngineers
+
+[ ](http://www.crazyengineers.com/)
 
 This Privacy Policy governs the manner in which CrazyEngineers Technologies Pvt. Ltd. collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.crazyengineers.com](http://www.crazyengineers.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by CrazyEngineers Technologies Pvt. Ltd..
 
@@ -72,5 +74,3 @@ CrazyEngineers Technologies Pvt. Ltd. B-402, J.P. Chambers, S.A. Road, Nagpur - 
 Email: contact@crazyengineers.com
 
 This document was last updated on March 13, 2013
-
-[ ](http://www.crazyengineers.com/)
