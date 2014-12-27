@@ -1,51 +1,30 @@
-> *The following text is extracted and transformed from the hdwallpapersyouneed.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604050722id_/http%3A//hdwallpapersyouneed.com/privacy_policy_hd-wallpapers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersyouneed.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227033455id_/http%3A//hdwallpapersfactory.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HD Wallpapers You Need!
+# Pricacy Policy - HD Wallpapers
 
-**Cookies**  
-Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. 
+By visiting this website (collectively, including all Content available through the hdwallpapersfactory.com domain name, the "hdwallpapersfactory.com", or "Website"), You signify Your assent to these policy rules.  
+If you do not agree to any of these policy rules, then please do not use the hdwallpapersfactory.com website.
 
-**Third-Party Advertisers**  
-We use third-party advertising companies to serve ads when you visit our web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. 
+During your visit, we do not collect any personally information about you such as name, address,  
+phone number, or e-mail address. However, hdwallpapersfactory.com obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your IP address and browser type, or the type of computer operating system you use (Macintosh, Linux, Windows, for example). The information is used for the purpose of generating reports for our own personal use to enhance future visits to our website.
 
-**Personally Identified Information**  
-During your visit, we do not collect any personal information about you such as name, address, phone number, or e-mail address. However, 
+hdwallpapersfactory.com is a free wallpaper website, daily updated and dedicated to people of all ages. All images displayed on the site are provided only for personal use as wallpaper on computers, cell phones and other personal electronic devices. All wallpapers displayed on hdwallpapersfactory.com have been collected from a wide range public internet resources and remain copyrighted their respective owners. If you are the rightful owner of any wallpaper posted here, and object to them being displayed - please contact us and it will be removed immediately.  
+We do not intend to display any copyright protected images.
 
-_hdwallpapersyouneed.com_
+Please do not ask for permissions to use these images in your projects, as we do not own the copyrights for them.
 
-obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your IP address and browser type, or the type of computer operating system you use (Macintosh, Linux, Windows, for example). The information is used for the purpose of generating reports for our own personal use to enhance future visits to our website. 
+Cookies  
+We may automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Website and your experience. We use cookies to see which areas and features are popular and to count visits to our Websites. 
 
-**Image copyright**
+Third Party Cookies  
+We may also use third parties to serve cookies our Website. Certain third parties may automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Website (but not your name, address, email address, or telephone number). They do this using cookies, clear gifs, or other technologies. Information collected may be used, among other things, to better understand the usage and visitation of our Website and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. 
 
- _hdwallpapersyouneed.com_
+ANTI-Piracy group or any other related group, or were formally a worker of one you CANNOT download any of these wallpapers files. You may not use this site to distribute or download any material when you do not have the legal rights to do so. For permission to use or browse our website, please contact us. 
 
-is a free wallpaper website, daily updated and dedicated to people of all ages. All images displayed on the site are provided only for personal use as wallpaper on computers, cell phones and other personal electronic devices. All wallpapers displayed on 
+hdwallpapersfactory.com may change this policy from time to time by updating this page.  
+You should check this page from time to time to ensure that you are happy with any changes.  
+This policy is effective from June 25th 2011.
 
-_hdwallpapersyouneed.com_
+Our **HD Wallpapers** website performance
 
-have been collected from a wide range public internet resources and remain copyrighted their respective owners. If you are the rightful owner of any wallpaper posted here, and object to them being displayed - please [contact us](http://hdwallpapersyouneed.com/contacts/ "Contact Us") and it will be removed immediately. We do not intend to display any copyright protected images, so please do not ask for permissions to use these images in your projects, as we do not own their copyrights. Most of the links of wallpapers sources becoming dead after some time, therefore we do not give dead links to our visitors, so please dont ask for source links, because we dont store them. 
-
-_hdwallpapersyouneed.com_
-
-may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
-
-This policy is effective from January 16th 2013. 
-
-By visiting this website (collectively, including all Content available through the 
-
-_hdwallpapersyouneed.com_
-
-domain name, the "
-
- _hdwallpapersyouneed.com_
-
-", or "Website"), You signify Your assent to these policy rules. If you do not agree to any of these policy rules, then please do not use the 
-
-_hdwallpapersyouneed.com_
-
-website. 
-
-**Privacy Contact Information**   
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
-
-You might be interested in something new:
+Website Loaded in 0.186 seconds (1MB)
