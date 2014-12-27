@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videosurveillance.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627204525id_/http%3A//videosurveillance.com/company/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosurveillance.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227210314id_/http%3A//www.videosurveillance.com/company/privacy-policy.asp) for the most accurate reproduction.*
 
-# Video Surveillance – Our Story - Security Camera and IP Video Experts
+# Privacy Policy | VideoSurveillance.com
 
 Protecting your privacy is of the utmost important to us at VideoSurveillance.com. This policy explains how we collect, use and disclose the personal information you may provide while using this website. It is always your choice whether to provide personal information through the website. Any personal information you provide will be treated with care, and subject to this policy, will not be used or disclosed in ways to which you have not consented. Also, you may opt-out of certain uses and disclosures of your personal information, as explained in this policy. 
 
