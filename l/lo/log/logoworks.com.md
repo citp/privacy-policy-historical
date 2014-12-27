@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logoworks.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620034142id_/http%3A//www.logoworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoworks.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227073258id_/http%3A//www.logoworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Logoworks | Professional Logo Design, Website Design, and much, much more
+# Privacy Policy - Logoworks | Professional Logo Design, Website Design, and much, much more
 
 This privacy policy informs you of LogoWorks’ privacy practices and of the choices you can make about the way we collect and use your information. LogoWorks is sometimes referred to using the terms “us”, “we”, “our” and similar terms.
 
