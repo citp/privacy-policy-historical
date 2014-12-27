@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the womenswellness.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103610id_/http%3A//womenswellness.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenswellness.tv privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165210id_/http%3A//womenswellness.tv/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Womens Wellness
+# PRIVACY POLICY | Women's Wellness
 
 Women’s Wellness values you as a blog reader and a customer and respects your privacy. We collect information about you through our website in an effort to enhance your experience and to communicate with you about our products and services.
 
