@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captainfussybuckets.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628210112id_/http%3A//www.captainfussybuckets.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captainfussybuckets.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165215id_/http%3A//www.captainfussybuckets.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure Policy - Life with Captain Fussybuckets
 
@@ -40,13 +40,13 @@ Life With Captain Fussybuckets may collect and use Users personal information fo
 
 \- To improve customer service  
     Information you provide helps us respond to your customer service requests and support needs more efficiently.  
-\- To personalize user experience  
+– To personalize user experience  
     We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-\- To improve our Site  
+– To improve our Site  
     We may use feedback you provide to improve our products and services.  
-\- To run a promotion, contest, survey or other Site feature  
+– To run a promotion, contest, survey or other Site feature  
     To send Users information they agreed to receive about topics we think will be of interest to them.  
-\- To send periodic emails  
+– To send periodic emails  
 We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 How we protect your information
