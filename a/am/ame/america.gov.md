@@ -1,45 +1,50 @@
-> *The following text is extracted and transformed from the america.gov privacy policy that was archived on 2012-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121018234120id_/http%3A//www.america.gov/pages/footer/local/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the america.gov privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227213358id_/https%3A//share.america.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - America.gov
+# Privacy Policy | ShareAmerica
 
-### We’ve gone social!
+We collect no personal information (PII) about you when you visit our site unless you choose to provide this information to us. Submitting personally identifiable information through our website is voluntary, but by doing so, you are giving your permission to use the information for the stated purpose. Not providing certain information may result in the inability to provide you with a service you desire.
 
-#### Follow us on our facebook pages and join the conversation.
+If you choose to provide us with PII on a Department website, through such methods as completing a web form or sending us an email, we will use that information to help us provide you the information or service you have requested, or to respond to your message. The information we may receive from you varies based on what you do when visiting our site.
 
-From the birth of nations to global sports events... Join our discussion of news and world events!
+We do automatically collect and store the name of the domain from which you access the Internet (.com, .edu, etc.); the date and time you access our site; and the Internet address of the website (such as a search engine or referring page) from which you reached our site. We use the information we collect to count the number of visitors to the different pages on our site, and to help us make our site more useful to visitors like you.
 
-Democracy Is…the freedom to express yourself. Democracy Is…Your Voice, Your World. 
+In addition, we use Google Analytics to provide us with demographic information that is not personally identifiable. This information may include, among other things, gender, age, and interests.
 
-The climate is changing. Join the conversation and discuss courses of action.
+We use this information in a variety of ways. For example, we may use this information to help analyze our site traffic, understand our visitors and what they care about, and to improve our services. We use these data only in the aggregate form as provided directly from Google Analytics. We will retain this information for as long as we have this site. We will not disclose this information to any other third party.
 
-Connect the world through CO.NX virtual spaces and let your voice make a difference! 
+If you would like to prevent Google Analytics and related services by Google from collecting information during your visit to any website, you can install the opt-out tool found [here](https://tools.google.com/dlpage/gaoptout).
 
-Promoviendo el emprendedurismo y la innovación en Latinoamérica.
+#### If You Send Us E-mail
 
-Информация о жизни в Америке и событиях в мире. Поделитесь своим мнением!
+You may choose to provide us with personal information when sending us an email with a comment or question. We may use the information provided to improve our service to you or to respond to your request.
 
-تمام آنچه می خواهید درباره آمریکا بدانید زندگی در آمریکا، شیوه زندگی آمریکایی و نگاهی از منظر آمریکایی به جهان و ...
+Sometimes we forward your email to other U.S. government agencies that may be better able to help you. Except for authorized law enforcement investigations, we do not share your email with any other outside organizations.
 
-أمريكاني: مواضيع لإثارة أهتمامكم حول الثقافة و البيئة و المجتمع المدني و ريادة الأعمال بـ"نكهة أمريكانية
+#### Third-Party Websites and Applications
 
-## Privacy
+We link to social networks and other third-party websites. We use social networking websites to interact with international audiences and to engage in public diplomacy worldwide. Social networking websites are used to publicize embassy events and engage with members of the public.
 
-We collect no personal information about you when you visit our site unless you choose to provide this information to us. However, we collect and store certain information automatically. 
+We also use web analytics technologies to measure the number of visitors to our websites and to help make our websites more useful to visitors. In some cases, a third-party application may request an email address, username, password, and geographic location for account registration purposes. We do not use third-party websites to solicit and collect PII from individuals. We do not collect or store any PII collected by any third-party website, and no PII will be disclosed, sold or transferred to any other entity outside the Department of State, unless required for law enforcement purposes or by statute.
 
-**What We Collect and Store Automatically**
+We may use various types of online surveys to collect opinions and feedback from a random sample of visitors. Primarily, the State Department uses the ForeSee Results American Customer Satisfaction Index (ACSI) online survey on an ongoing basis to obtain feedback and data on visitor satisfaction with our websites. This survey does not collect PII. Although the survey invitation pops up for a random sample of visitors, it is optional, and not all embassy websites carry the survey. If you decline the survey, you will still have access to the identical information and resources at our site as those who do take the survey. The survey reports are available only to web managers and other designated staff who require this information to perform their duties. We may use other limited-time surveys for specific purposes, which are explained at the time they are posted.
 
-Name of the domain from which you access the Internet (for example, aol.com, if you use an America Online account, or princeton.edu if you connect from Princeton University's domain);
+#### Information Collected for Tracking and Customization (Cookies)
 
-Date and time you access our site; and
+A cookie is a small text file that a website transfers to your computer to allow it to remember specific information about your session while you are connected. Your computer will only share the information in the cookie with the website that provided it, and no other website can request it. There are two types of cookies:
 
-Internet address of the Website from which you linked directly to our site.
+  * **Session:**  Session: Session cookies last only as long as your web browser is open. Once you close your browser, the cookie is deleted. Websites may use session cookies for technical purposes such as to enable better navigation through the site, or to allow you to customize your preferences for interacting with the site.
+  * **Persistent:**  Persistent cookies are saved on a user’s device in order to determine which users are new to the site or are returning, and for repeat visitors, to block recurring invitations to take the ForeSee satisfaction survey.
 
-We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you. 
 
-**If You Send Us E-mail**
 
-You may choose to provide us with personal information, as in e-mail with a comment or question. We use the information to improve our service to you or to respond to your request. Sometimes we forward your e-mail to other government employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
+If you do not wish to have session or persistent cookies stored on your machine, you can [turn cookies off](http://www.usa.gov/optout_instructions.shtml) in your browser. You will still have access to all information and resources on our website. However, turning off cookies may affect the functioning of many popular websites. Be aware that disabling cookies in your browser will affect cookie usage at all other websites you visit as well.
 
- **Links to Other Sites**
+#### Links to External Websites
 
-Our Website has many links to other federal agencies, embassies, multilateral organizations and private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+Our website has many links to other U.S. agencies, embassies, multilateral organizations, and private organizations in both the United States and other nations. When you follow a link to another site, you are no longer on our site and are subject to the privacy policies of the external sites.
+
+Every effort is made to provide accurate and complete information. However, we cannot guarantee that there will be no errors. With respect to documents and information on this website, neither the State Department nor its employees or contractors make any warranty, expressed or implied, including the warranties of merchantability and fitness for a particular purpose with respect to documents available from this website. Additionally, the State Department assumes no legal liability for the accuracy, completeness, or usefulness of any information, product, or process disclosed herein and does not represent that use of such information, product, or process would not infringe on privately owned rights.
+
+For site security purposes and to ensure that this service remains available to all users, the State Department uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986.
+
+Information also may be used for authorized law enforcement investigations. Except for the above purposes, no other attempts are made to identify individual users or their usage habits. Unauthorized attempts to upload information and/or change information on these websites are strictly prohibited and are subject to prosecution under the Computer Fraud and Abuse Act of 1986 and Title 18 U.S.C. Sec. 1001 and 1030.
