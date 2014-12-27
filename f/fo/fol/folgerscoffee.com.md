@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the folgerscoffee.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505074433id_/http%3A//www.folgerscoffee.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folgerscoffee.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227063743id_/http%3A//www.folgerscoffee.com/privacy-policy) for the most accurate reproduction.*
 
 # Folgers Coffee - Privacy Statement
 
-## The Folger Coffee Company
-
-### Privacy Policy
+## Privacy Policy
 
 Effective Date: 12/19/2013
 
