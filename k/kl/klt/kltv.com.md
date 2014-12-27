@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kltv.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629201852id_/http%3A//www.kltv.com/story/8774923/p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kltv.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165127id_/http%3A//www.kltv.com/story/8774923/p) for the most accurate reproduction.*
 
 # Privacy Policy - KLTV.com-Tyler, Longview, Jacksonville, Texas | ETX News
 
