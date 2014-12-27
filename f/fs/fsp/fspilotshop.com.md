@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fspilotshop.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627045007id_/http%3A//www.fspilotshop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fspilotshop.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227092612id_/http%3A//www.fspilotshop.com/privacy.php) for the most accurate reproduction.*
 
-# FS PilotShop - Flight Simulation Hardware, Software and Accessories
+# FS PilotShop - Flight Simulator Software, FSX Addons, Hardware
 
 > This privacy statement discloses the privacy practices for the Flightsim.com Pilot Shop. Fspilotshop.com and Flightsim.com, Inc. take our clients privacy and security very seriously. 
 > 
