@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirarcade.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625231828id_/http%3A//www.sirarcade.com/pages/2/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirarcade.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227051825id_/http%3A//www.sirarcade.com/pages/2/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,3 +52,14 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 
  **Update**  
 This Privacy Policy was last updated on: Wednesday, November 16th, 2011. 
+
+[Jocuri cu Barbie](http://ijocuricubarbie.com/)
+
+Welcome to SirArcade! We are one of the largest gaming websites in the United States, with more than 15 millions users every month. We are so popular because we have the highest-quality content only, and publish the best casual flash avaiable on the internet. We also sponsor and create our own, because we think that the ones that are avaiable for free online aren't good enough: we want the best, and only the best! 
+
+The fun never stops on our website! We constantly update the website, so you can be sure that you'll be always playing the most updated versions possible! Because of that, we have a really safe environment, and you can be sure that you're 100% safe here. Also, we add to our website children-safe content alone, so there's no kind of violent or dubious content: only things that are meant for kids and childrens are added to this site. When you take account of all those factors, SirArcade is, without any doubt, the best place to play on the internet. 
+
+No matter what you want to play and what styles you like, we've got it here. As the biggest free gaming website in the USA, we offer thousands of reviews and ratings, making it easy for players to find what they really want. And we're not offering Flash content alone: we also work with Shockwave or Unity 3D. Could it get better? I doubt! 
+
+So what are you waiting for having fun? Chose between all these options and play a lot! Do you like fast [Cars](http://www.sirarcade.com/category/7/racing-games.html)? Or you are a cute [Girl](http://www.sirarcade.com/category/8/dress-up-games.html) and want to dressup Barbie and do make-ups? Or maybe you like [Shooting Games](http://www.sirarcade.com/category/4/shooting-games.html), where you can save America from bandits? You can also be Batman and Spiderman at the [Heroes](http://www.sirarcade.com/category/12/heroes-games.html) category! If you're smart and want to think before doing something, you will LOVE playing with [Strategy](http://www.sirarcade.com/category/2/strategy-games.html), right? If you are not sure about what you will like, come to our [Best](http://www.sirarcade.com/category/11/best-games-games.html) category: only the highest-rated, best-reviewed have place in this page! And, of course, we have partnership with the other really Addicting [Famous](http://www.sirarcade.com/category/6/famous-games.html) sites like Friv, Cool Math Games, Club Penguin, Animal Jam, Pogo, Miniclip, Starfall, Kizi, Y8, Candy Crush, so you will ALWAYS find what you are wanting to play We at SirArcade are sure that you, kid and children, will love our website, so enjoy your stay and HAVE FUN!   
+[ ](http://www.dmca.com/Protection/Status.aspx?ID=90002de1-91e8-4d87-91be-eaa1ad985b07 "DMCA.com Protection Program")
