@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intego.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014016id_/http%3A//www.intego.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intego.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227221730id_/http%3A//www.intego.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Intego Mac Antivirus & Security
 
@@ -37,7 +37,11 @@ Free Trial
 
 ### Start Your Free Intego Trial Now
 
+### Thank You!
+
 Enter your email address below to start your free trial.
+
+Please check your email to verify your email address and download your free trial
 
 Protect your Mac, your files and your family with the most comprehensive security suite available.
 
