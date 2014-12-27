@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mattressfirm.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618120306id_/http%3A//www.mattressfirm.com/Privacy%2520Policy-M27.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattressfirm.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227203851id_/http%3A//www.mattressfirm.com/Privacy%2520Policy-M27.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 Mattress Firm is committed to making your search for the perfect mattress and a great night sleep as pleasurable and easy as possible. Maintaining your privacy is part of that commitment. As such, this privacy policy describes the types of personal and non-personal information we collect on Mattressfirm.com (the “Site,”) how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
 
@@ -46,4 +48,6 @@ As we continue to develop our business, we or our affiliates may sell or buy oth
 **Changes to this Privacy Policy**  
 We may change this privacy policy from time to time. When we do, we will post the change(s) on the Site. If we change the policy in a material way, we will provide appropriate online notice to you. 
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [customerservice@mattressfirm.com](mailto:customerservice@mattressfirm.com).
+If you have any questions or concerns about this Privacy Policy, please contact us at [customerservice@mattressfirm.com](mailto:customerservice@mattressfirm.com).  
+  
+---|---
