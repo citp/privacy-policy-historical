@@ -1,84 +1,114 @@
-> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628050629id_/http%3A//housing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227041737id_/https%3A//housing.com/privacy-policy) for the most accurate reproduction.*
 
-# Housing
+# Privacy Policy | Housing
 
-This Policy tells you how We use information that we collect during Your use of our Website. Your privacy is very important to us and we are committed to ensuring that Your privacy is safeguarded and You are aware of how Your information is being used by Us.
+Welcome to Housing.com! We are a real estate information service connecting people in the real estate market. Housing.com and our subsidiaries and affiliates (collectively " **Housing.com** ") provide you with access to a variety of services, including but not limited to the www.housing.com website (the " **Website** ") and Housing.com's mobile applications and all the products and services available through our website (collectively the " **Services** "). The Website is owned and operated by Locon Solutions Private Limited, a company incorporated under the laws of India.
 
-If you see capitalised terms, these are because the words have be ascribed a particular meaning when used in this Policy. For Your convenience, we have included them below: 
+Our Privacy Policy is incorporated as part of the Housing.com Terms of Use. Please read this Privacy Policy and our Terms of Use carefully before using our Services. By using Housing.com’s Services, you agree to the provisions of this Privacy Policy. If you do not want to be bound by our Privacy Policy, please do not use our Services.
 
-If you see other capitalised terms which are not mentioned above, do take a look Our Terms of Use, as these terms will have same meaning as those defined in the Terms of Use.
+## Why We Collect Information from You
 
-We hope that You will use our Website regularly and do request You to go through this Policy carefully. You are free not to agree with our Policy, in which case You should not Use the Website. Your use or access of the Website will constitute Your acceptance of the Policy.
+Housing.com is a real estate information service. To provide our Services, we use the information we collect to:
 
-* **What This Policy Covers:**
-
-This Policy applies to the collection, use, processing and access of all information that we collect on the Website. This includes but is not limited to information You upload, emails that You exchange with Us and any information submitted by You to Us.
-
-The Policy does not apply to, nor do We take any responsibility for, any information that is collected by any third party either using the Website or through any links on the Website or through any of the advertisements.
-
-* **What Information We Collect And How We Collect It:**
-
-As You use, access and navigate through the Website, We collect various information, which may be personally identifiable information or other information which is not personally identifiable. For ease of Your and Our understanding we will put these into three buckets 
-
-  1. “Personal Information” which means personally identifiable information like Your name, Your address, Your age, Your email address and Your Phone Number
-  2. “Sensitive Personal Information” which means your financial information, your passwords, any biometric or medical or health related information.
-  3. “Other Information” which means all other information other than “Personal Information” or “Sensitive Personal Information”. To give examples of this, this could be in the nature of device information, Your usage patterns, Your usage preferences, Your usage patterns, logs which are created when You access and use the Website, local caches on Your browser, Your location, ip address and the like. These are just examples and the list is by no means exhaustive.
+  * Help you find the most relevant information for your situation by customizing our Services to optimize your experience;
+  * Keep you connected with Housing.com across the internet and update you with residential real estate-related news and information; and
+  * Put you in touch with the right people to sell, buy, rent, or research residential real estate, obtain a mortgage, and to optimize the information we share with those parties to initiate a productive and efficient relationship.
 
 
 
-This information that We collect could be collected either through user input, i.e, You providing the information to Us or through the use of tracking technologies or the use of Cookies or through any other manual or automated manner. Just so that You and We are clear “Cookies” are files that would be placed in Your system’s hard drive and are intended to improve Your user experience by enabling Us to track Your usage and preference. These cookies may track Your usage of the Website, track advertisements and links that You visit and collect Other Information. Most Cookies We use are limited to a session, which mean they will be automatically deleted when Your session closes but this is not universally applicable. You may decline these Cookies by changing Your browser settings, if permitted. However do note that this may impact certain features of the Website or Your user experience in using the Website.
+Our goal in this policy is to be completely transparent about the data we collect, why we collect it, and how we use it, in order to make finding your new home a pleasant and fun experience!
 
-You also may provide information to be published or displayed or posted on the Website, or transmitted to other users of the Website or third parties. Any such information is posted or transmitted to others at Your own risk. Please be aware that the We cannot control the actions of other users of the Website with whom You may choose to share information with.
+## To Whom Does This Policy Apply
 
-* **How We will Use the information and when we will disclose it:**
+Some parts of this Policy are directed at specific types of people. We use some special terminology to refer to them, which we define below. This Policy applies to everyone who uses our Services, but sometimes we direct parts of it toward particular groups of users.
 
-Any Personal Information will be used to allow You to login to Your account or to resolve specific service issues, inform You of our new services or features, to communicate with You in relation to Your use of the Website, Any Other Information We collect will used for- 
+Users: "Users" are everyone who uses our Services.
 
-  * our business purposes and this may include the viewing or advertising of residential or commercial real estate rental properties or to use of associated services;
+Real Estate Professionals (REPs): "Real Estate Professionals," or "REPs" are users who have created accounts (free or paid) with us to sell or rent real estate, participate in our advertising services, and participate in other Services that we direct toward the professional real estate community. REPs include landlords, agents, developers, institutional property consultants, mortgage professionals and subscribers. We send leads to REPs on your behalf, as described in this Policy.
+
+## What Information Do We Collect, and Where Do We Get It
+
+We Collect Some Information From All Visitors to Our Website: Like many online services, we use technologies like session and persistent cookies, web beacons (tiny image files on web pages that communicate information about the page viewer to the beacon owner), log data, and third-party analytics services to collect and analyze information about all users of our Services This includes things like User search preferences, interaction with ads on our Webite, and location.
+
+Our servers automatically record information (" **Log Data** ") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device, search terms, and cookie information. We receive Log Data when you interact with our Services, for example, when you visit our websites, sign into our Services, or interact with our email notifications. We use Log Data to provide our Services and to measure, customize, and improve them, as well as collect and use them in the aggregate. This Policy does not apply to, nor do we take any responsibility for any information that is collected by any third party either using the Website or through any links on the Website or through any of the advertisements.
+
+Cookies are small data files that we transfer to your computer. We use "session" cookies to keep you logged in while you use our Services, to better understand how you interact with our Services, and to monitor aggregate usage and web traffic information on our Services. We use "persistent" cookies to recognize you each time you return to our Services. For example, we create a persistent cookie that includes some basic information about you, like your most recent search and whether an agent responded to a query you sent using Housing.com's Services. We use this persistent cookie to remember your preferences and, if you create an account, to make your user experience consistent after you register.
+
+Most internet browsers automatically accept cookies, but you can change your settings or use third-party tools to refuse cookies or prompt you before accepting cookies from the websites you visit. You can also use your browser settings or other tools to delete cookies you already have. Please be aware that some parts of our Services may not work for you if you disable cookies.
+
+Information We Collect from REPs: If you create a REP account with us, whether as a landlord, agent, developer or subscriber we will ask you to provide certain information in order to set up your account. We ask all REPs to provide a name, a company (if available), a phone number, and an email address. If you create a paid REP account and become a subscriber, we require you to submit all of the information required from landlords and agents as well as a description of your campaign. We will also collect financial data like credit card information and billing addresses from subscribers, so that we can handle billing. If you are a subscriber, a Housing.com representative may call you to verify your information.
+
+Additional Information About You that We Obtain from Third Parties: We may sometimes obtain information about you from third parties and use it to help agents serve you better. For example, our partners may help us provide predictions of your income range and how likely you may be to purchase a home. We will share this augmented data only with selected REPs (subscribers) who you choose to share information with by contacting them through the Housing.com Services.
+
+Location Data: If you provide location information (like a ZIP code, street address, or even just a city) during the registration process or at any other time via your account settings, we will store that information and associate it with your account.
+
+We may use and store information about your location to provide localized features, to analyze our Services with the help of third-party analytics services, to provide you with relevant advertising and marketing materials, and otherwise to improve and customize our Services.
+
+## **How We Share Your Information**
+
+As you use, access and navigate our Website, we collect various information, which may either be personally identifiable information or information that is not personally identifiable. This information is classified as:
+
+  * “Personal Information” which means personally identifiable information like your name, your address, your age, your email address and your phone number.
+  * “Sensitive Personal Information” which means your financial information, your passwords, any biometric, medical or health related information.
+  * “Other Information” which means all other information other than “Personal Information” or “Sensitive Personal Information.” For example, the nature of device information, your usage patterns, your usage preferences, logs which are created when you access and use the Website, local caches on your browser, your location, ip address and the like. These are just examples and the list is by no means exhaustive.
+
+
+
+Any personal information will be used to allow you to login to your account or to resolve specific service issues, inform you of our new services or features and to communicate with you in relation to your use of the Website. Any other information we collect will be used for-
+
+  * our business purposes and this may include the viewing or advertising of residential or commercial real estate, rental properties or to use associated services;
   * analytical purposes, data usage;
-  * improving the Website, or Your user experience
-  * providing targeted advertisements to You
+  * improving the Website, or your user experience; and
+  * providing targeted advertisements to you.
 
 
 
-We will share all information We collect from You, including the Personal Information with any third party if we in good faith believe it is required for the purposes of Our compliance with any applicable law, regulation, legal process or enforceable governmental request/ action or any manner required for the purposes of protecting Our rights or interests.
+We will share all information we collect from you, including the personal information with any third party if we in good faith believe it is required for the purposes of our compliance with any applicable law, regulation, legal process or enforceable governmental request/action or any manner required for the purposes of protecting our rights or interests.
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by emailing us at the address provided below.
+From time to time, we make the e-mail addresses of those who access our Website available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by emailing us at [info@housing.com](mailto:info@housing.com) or call our call center at[ 03-333-333-3333](file://localhost/tel/03-333-333-3333).
 
-Persons who supply us with their telephone numbers on-line may receive telephone or text message contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls or text messages, please let us know by sending us e-mail at the below address.
+Persons who supply us with their telephone numbers on-line may receive telephone or text message contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls or text messages, please let us know by e-mailing us at [info@housing.com](mailto:info@housing.com) or call our call center at[ 03-333-333-3333](file://localhost/tel/03-333-333-3333).
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our Website, ad server companies may collect information such as your domain type, your IP address and clickstream information.
 
-If we need to disclose Your Personal Information to any third party for any business activity other than those we have listed above We will seek your consent. All Other Information will be shared by Us with other business associates of Our’s and other third parties in connection with the operation of the Website on such terms and conditions We may deem fit without the need for any further consent from You or notification to You.
+Non-Personally Identifiable Information (Non-PII):  is information that cannot by itself be used to identify an individual person. Non-PII includes information received from the web browser, operating system, or device, including such things as information about the browser and browser settings, information about the operating system or device, the unique identifier assigned to a device, the web address of a web page visited, the name or type of mobile app, the time and date a web page or app was visited, the address of the referring web page, and other information about a web page or app. It could also include the number of times a particular browser or device has been shown a particular ad, or it may include generic categories about users and their interests (for example, “male flat buyer”). Non-PII also includes information about the precise geographic location of the device, which may be collected when the user of the device permits such collection. 
 
-* **Our Security Measures:**
+Use of Non-PII: In order to provide and improve our Services and to share relevant ads with you, provide interest-based advertising (to opt out of interest-based advertising on the Platform, go to the Opt Out section below), show ads in a particular sequence, customize ads to a particular geographic region, determine when users respond to ads and reporting aggregated statistics regarding, for example, the effectiveness of online advertising campaigns we use and disclose to our advertising and analytics partners Non-PII that we collect, including cookie data, some log data, and mobile data. We also share anonymous profiles of users who view a property with REPs.
 
-The information We collect from You, will be stored in a safe and secure manner in Our data centre. We shall restrict the access to your information unless required to process Your service requests. If at any time You share credit card information with Us, We shall employ industry standard encryption techniques such as the Secure Socket Layer (SSL) to protect the same.
+ The user may CLICK BELOW to opt out of tracking Non PII on all our online properties.
 
-While we will do our bit for the protection of Your information, as a user of the Website You have a responsibility to ensure data security. You should use the Website in a responsible manner and should not share Your username or password with any person.
+Opting out of tracking on our services through this link inserts a cookie on the user’s browser. We rely on this cookie to identify an opted-out user. We will not be able to identify an opted out user, if the user
 
-Given the nature of internet transactions, We will not take any responsibility for the transmission of information to or from the Website. Any transmission of information on the internet is done at Your risk.
+  * Clears the cookie from his/her browser,
+  * Uses a different browser, Or
+  * Uses a different computer
 
-While We will use all reasonable efforts to ensure that Your information is safe and secure, We are not making any representation, warranties or other assurances that the security measures are adequate, safe, fool proof or impenetrable.
 
-* **Accessing and Updating Your Information:**
 
-If You have created a user account on the Website, You can access and update your Personal Information and Personal Sensitive Information at any time by accessing the Website using Your registered username and accessing Your user account.
+We will discontinue tracking activities for an opted out user. This means that we will not track an opted out user’s behaviour or display customised ads to the user. However, an opted out user may be able to view suggestions by us pertaining to marketing, branding or promotional campaigns.
 
-You may also change and/or delete any of the information you have submitted. Do note however, We reserve the right to save any usage information and You are not entitled to seek the deletion of the same. We may also in certain cases, deny You the ability to change of any information, if we reasonably believe that the same is required to observe applicable laws.
+[*I agree/ Opt out action button*]
 
-* **Advertisement, Links and Third Party Websites:**
+Direct Contact with a REP: If you fill out a form to contact a REP (or use any other contact forms available on our Website) or call a REP via our mobile site or app, we may share personally identifiable information that you share with us and information about your use of our Services with the party you wanted to contact. This may include data you input such as home search criteria or Log Data that we collect as you use the Services. If a REP wants to contact you based on the anonymized profile of Housing.com pages you visited, we will contact you to see if we can make that connection. Sometimes, if we are working with a third party to improve the leads we provide to our subscriber REPs, we may provide that third party with additional but limited personally identifiable information for the sole purpose of their carrying out their duty to us.
 
-The Website does have advertisement and links to other websites. If you should view any such links or advertisements or visit any other third page You do so at Your own choice and risk. Please be aware that the advertisements or links on the Website whether provided by Us or by third-party advertisers, may use cookies and other automatic tracking technologies to collect information about You, including web behavioural information and patterns. You should ascertain the policies applicable to the viewing and access of such advertisements and links. We do not control nor do we take any responsibility for such third parties, the links, the advertisement or their collection and use of information or their tracking technologies or how they may be used.
+Mortgage Services: If you request a mortgage quote using our services, you authorize us to share the personally identifiable information necessary for our partners to deliver the service. They are not permitted to use the information for any other purpose.
 
-* **Age restrictions**
+User-Generated Content: If you use our user-generated content services, like posting a question, answer or blog on our Webite, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-To use this Website You should be of 18 years of age or older. If You are not of the requisite age You are not to provide any information. If it comes to Our attention that any information pertains to an individual under the age of 18 years, such information will, irrespective of its nature, be deleted without notice to You.
+Protecting Ourselves and Our Users: We may release personal information when we believe that doing so is appropriate to comply with a legitimate law, regulation, or legal request; to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights or property; to protect the safety of our users; to address fraud, security, or technical issues; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
 
-* **Amendments to the Privacy Policy**
+All Housing.com websites including this Website fully comply with all Indian Laws applicable. Housing.com has always cooperated with all law enforcement inquires. Housing.com may disclose all or part of your personal details in response to a request from the law enforcement authorities or in a case of a bonafide requirement to prevent an imminent breach of the law.
 
-To keep up with the ever changing times, We may make changes to the Policy. We will indicate that the Policy has changed and this will be displayed prominently on the Website. You will need to ascertain for Yourself what changes have been made or whether or not You agree with the changes. If You do not agree to the changes, You should discontinue Your use of the Website, because as We have told your earlier, Your use or access of the Website will constitute Your acceptance of the Policy as then changed.
+Mobile Ad Networks and Analytics: For our mobile products, we use third-party service providers for the limited purpose of helping us analyze your mobile Log Data and location data, so that we can improve and localize our Services, show you relevant advertisements, and study the way our mobile users interact with our Website and Services.
 
-* **Terms of Use**
+## General Matters
 
-This Privacy policy shall be read with and form a part of the Terms of Use.
+The Accuracy and Confidentiality of Your Account Information Is Your Responsibility: You are responsible for maintaining the secrecy and accuracy of your password, email address, and other account information at all times. We recommend a strong password that you do not use with other services. We are not responsible for personal data transmitted to a third party as a result of an incorrect email address.
+
+Third-Party Websites: Our Website may contain links to other websites. When you click on one of these links, you are navigating to another website. We do not accept liability for misuse of any information by any website controller to which we may link. We also do not have any responsibility of liability for the content on websites that use the Housing.com search functionality. We encourage you to read the privacy statements of these websites, which may differ from ours.
+
+Sale/Merger: Information about our Users and our Website is a business asset of Housing.com. Consequently, information about our Users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the Website, our Services or fulfill products, sale or pledge of company assets as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company.
+
+Security: We use commercially reasonable security measures to protect the loss, misuse, and alteration of the information under our control. However, we cannot absolutely guarantee the protection of any information shared with us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+Policy Changes: We may update this Privacy Policy to reflect changes to our information practices. If we make any change in how we use your personal information we will notify you by means of a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
