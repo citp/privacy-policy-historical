@@ -1,25 +1,65 @@
-> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627153202id_/http%3A//www.citizen.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227051405id_/http%3A//www.citizen.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
 
 # Privacy Policy Page
 
-Your privacy is very important to us. Public Citizen does not automatically collect personal information. If you choose to give us your name, address, phone number, or issues of interest, we may store this information to keep you posted on relevant activities. 
+Your privacy is important to us. Public Citizen does not automatically collect personal information from people who visit or interact with our website. This privacy policy applies to the www.citizen.org website.
 
-Except as noted below, we do not enable cookies or use other software or hardware techniques to collect personal information on visitors to our site without their knowledge. We log IP addresses, or the location of your computer or network on the Internet, for systems administration and troubleshooting purposes. We also use IP addresses in the aggregate to track which pages people visit in order to improve the quality of the site. We do not use these data to develop profiles of individual visitors to our Web site. There is no personal information collected in our automated log files. We evaluate site usage by analyzing user information in the aggregate, but this analysis does not identify any individual user. 
+If you provide your name, postal address, email address, phone number, or other information via a form on the website, we may store that information and contact you about our work. Except as outlined below, we do not sell, rent, trade, or otherwise disclose to any business, organization, individual, or other outside entity information provided by people who visit or interact with the website.
 
-**When you contact us for information:** We maintain some records of individuals who contact us for information in case we need contact them later or provide further information. However, we do not provide this information to anyone else unless you give us your permission or unless disclosure is compelled by law. Individual information about website visitors, including e-mail addresses, is never shared with third parties. 
+### Taking Action
 
-**When you log-in as a subscriber to an online publication:** If you become a subscriber to a restricted online publication (such as Worst Pills, Best Pills News ONLINE), a session cookie is created on your computer each time that you log-in to view the publication. This cookie is created to allow you to browse the publication without repeatedly re-submitting your name and password to verify that you are a subscriber. The cookie is not used for any other purpose and we do not collect information about the information that you view in the publication. A cookie is created each time that you log-in and it does not remain on your computer for more than 30 minutes. 
+   
+We do not disclose the information you enter on an action page to any outside entity — except as follows:
 
-**When you sign up for one of our mailing lists:** If you provide an email address or other information in order to receive updates or news about Public Citizen's activities, we use this information to notify you about issues and opportunities. We keep the information that you give us to sign up for these notices confidential. Public Citizen does not sell, rent, exchange, or otherwise disclose to any third party information that is provided by visitors who request that they be added to our email lists. If you change your mind at any time, you can always remove your name from our email list.To stop receiving emails from Public Citizen, go to[ http://action.citizen.org/unsubscribe.jsp](http://action.citizen.org/unsubscribe.jsp)[ ](http://action.citizen.org/unsubscribe.jsp)
+  * If you sign a petition, your name and state may be included in an electronic file or hard-copy printout delivered to legislators or other policymakers.
+  * If you email a member of Congress or other policymaker, submit a comment to a government agency, send a letter-to-the-editor, or take any other action that generates a communication to an outside entity, the information you enter on the action page may be passed along to that outside entity.
+  * We may give consultants and organizations working with us on specific projects temporary access to information about our online action-takers. They will not retain the information or contact the people whose information they have access to.
+  * We may offer to connect you to other activists or volunteer organizers. Before doing so, we will notify you by email with an option to decline.
 
-**When you make purchases:** If you provide information to purchase a publication, report or other materials, we use the information that we collect to process payments and shipping. This information is not made available to any third parties except as necessary to process payments or ship products. Your shipping and contact information is kept on file in case you choose to make additional purchases but will not be used in any other way. 
 
-**When you contribute money online:** If you choose to become a member of Public Citizen or otherwise make a charitable contribution, which we deeply appreciate, we use the information collected from you to process payments. Personal information may be shared with third party service providers (e.g. merchant banks) during this process. If you become a member of Public Citizen, your contact information will be added to our membership list, which is occasionally exchanged with other organizations. Members may opt out of such membership list disclosures by contacting [member@citizen.org](mailto:member@citizen.org).
 
-**When you take action using our Legislative Action Center:** If you choose to take action on one or more of our many issues (i.e. send a fax or email to a member of Congress using our legislative action center), we use the information collected from you to personalize the letter and may contact you in the future on similar issues. We do not disclose it as part of a list to third parties. 
+Once you take action, we will send you emails about our work. To stop receiving emails, complete the form at <http://action.citizen.org/unsubscribe.jsp>.
 
-**If you sign one of our online petitions,** your name and state may be included on a list given to legislators or other policy makers in connection with that petition. 
+### Signing Up for Email Lists or E-Newsletters
 
-_If our information practices change at some time in the future we will post the policy changes to our Web site to notify everyone of these changes and provide you with the ability to opt out of any new uses. While we do not anticipate any changes to this privacy policy, you should check back at our Web site periodically._
+   
+We do not disclose the information you enter on a sign-up page to any outside entity — except as follows: We may give consultants and organizations working with us on specific projects temporary access to such information; they will not retain the information or contact the people whose information they have access to.  
+To stop receiving emails, complete the form at <http://action.citizen.org/unsubscribe.jsp>.
 
-If you have questions about this privacy policy, contact [member@citizen.org](mailto:member@citizen.org).
+### Making Donations or Payments
+
+ 
+
+The information you enter on a donation or payment page may be shared with third-party service providers (such as services that verify credit card data).
+
+If you donate, your contact information may be added to a donor file that is occasionally exchanged with other progressive organizations. You can opt out of such exchanges by contacting our Member Services team at (800) 289-3787 or [member@citizen.org](mailto:member@citizen.org).
+
+We may give consultants and organizations working with us on specific projects temporary access to information about people who make donations or payments; they will not retain the information or contact the people whose information they have access to.
+
+### Contacting Us
+
+   
+If you contact us by phone or email, we may keep a record so that we can follow up with you if necessary. We do not disclose the information in that record to any outside entity unless you give us permission to do so or unless disclosure is compelled by law.
+
+### Cookies and IP Addresses
+
+   
+Our website uses cookies for these reasons:
+
+  * so that you don’t have to reenter information on action, donate, or payment pages;
+  * for tracking traffic so that we can evaluate and improve the website; and
+  * to facilitate outreach based on visitors’ interests.
+
+
+
+For systems administration and troubleshooting, we log the IP address (the location on the Internet) of the computer or network from which someone visits the website. We also use IP addresses in the aggregate to track traffic so that we can evaluate and improve the website.
+
+### Updates to This Policy
+
+   
+This page reflects the current policy at any given time. It may be updated occasionally. It was most recently updated on July 11, 2014.
+
+### Questions
+
+   
+If you have questions about this privacy policy, contact our Member Services team at (800) 289-3787 or [member@citizen.org](mailto:member@citizen.org).
