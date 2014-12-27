@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freeje.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413054058id_/http%3A//freeje.com/terms-2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeje.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227232156id_/http%3A//www.freeje.com/terms-2.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This End User License Agreement is entered between you and BETA COMPANY technologies s.a. (including any affiliate or subsidiary company thereof) ("FREEJE") for the license of the product “Freeje”.
 
- License
+License
 
 What information do we collect? 
 
