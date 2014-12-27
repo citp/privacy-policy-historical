@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurostylelighting.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630050019id_/http%3A//www.eurostylelighting.com/sitehelpandpolicies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurostylelighting.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227043153id_/http%3A//www.eurostylelighting.com/sitehelpandpolicies%23privacy) for the most accurate reproduction.*
 
 # Customer Support, Ordering and Shipping Information - EuroStyleLighting.com and http://www.eurostylelighting.com
 
@@ -12,7 +12,7 @@ You can visit our site without ever telling us who you are. We may track the Int
 
 You tell us about yourself in several ways. When you purchase a product from us, register for a service or participate in a promotion, we collect and store your personal and transactional information in our customer database. This information is generally used to process your transactions and respond to your requests. You may also sign-up to receive periodic email communication from us about new promotions, products or special events. By purchasing from us you will receive these promotional emails, and you will also receive emails about your order processing and shipping.
 
-Aggregate information may be created from the combined information you give us online, including personal information about you and/or your order. We may combine that information with publicly available information and private information we receive from or cross-reference with our Select Partners and other persons or companies whom we have deemed to be trustworthy and responsible and whose privacy policies are aligned with ours. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and that will allow Select Partners and other persons or companies to contact you regarding products and/or services that may be of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at [opt-out@eurostylelighting.com](mailto:opt-out@eurostylelighting.com). To opt out of our emails, please visit our [email page](https://secure.eurostylelighting.com/protected/contactus/email) and submit your email address or call us with your request at **877-233-7095.**
+Aggregate information may be created from the combined information you give us online, including personal information about you and/or your order. We may combine that information with publicly available information and private information we receive from or cross-reference with our Select Partners and other persons or companies whom we have deemed to be trustworthy and responsible and whose privacy policies are aligned with ours. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and that will allow Select Partners and other persons or companies to contact you regarding products and/or services that may be of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at [opt-out@eurostylelighting.com](mailto:opt-out@eurostylelighting.com). To opt out of our emails, please visit our [email page](https://www.eurostylelighting.com/protected/contactus/email) and submit your email address or call us with your request at **877-233-7095.**
 
 We do reserve the right to disclose your personal information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities that may be causing injury to you, EuroStyleLighting.com or to others. We may also disclose personal information when we believe the law requires it.
 
@@ -28,9 +28,10 @@ If you would like more information or would like to learn about your ability to 
 
 back to top
 
-**Our Email Policy**
+ **Our email Policy**
 
-We do not sell, rent or share email addresses with any third parties. If you purchase from us or join our email list, we may occasionally send you an email about a special event or sale. Instructions on how to unsubsrcibe from our list are included in every promotional email we send out. You may also unsubscribe by [clicking here](https://secure.eurostylelighting.com/protected/contactus/email) and submitting your email on our email page, or by calling us with your request at **877-233-7095**.
+We do not sell, rent or share email addresses with any third parties. If you purchase from us or join our email list, we may occasionally send you an email about a special event or sale. Instructions on how to unsubsrcibe from our list are included in every promotional email we send out. You may also unsubscribe by [clicking here](http://www.eurostylelighting.com/protected/contactus/email) and submitting your email on our email page, or by calling us with your request at   
+**877-233-7095**. 
 
 If you choose to unsubscribe, EuroStyleLighting.com, in compliance with the CAN-SPAM legislation, will remove your address from our list. In the majority of cases your address will be removed within 5 business days, but it can take up to 10 business days in some instances. Also under the terms of the CAN-SPAM act, we may occasionally supply a list of "opt-out", removed email addresses to our advertising partners. This is done to ensure that those removed email addresses do not receive new advertising offers from us through our advertising partners. 
 
@@ -38,19 +39,19 @@ In addition, when we join with another company to offer or provide services, pro
 
 back to top
 
-**Your California Privacy Rights**
+ **Your California Privacy Rights**
 
-We comply with Section 1798.83 of the California Civil Code the Shine the Light Law.
+We comply with Section 1798.83 of the California Civil Code the Shine the Light Law. 
 
 Under Section 1798.83 of the California Civil Code, residents of California that have an established business relationship with EuroStyleLighting.com and that have provided certain personal information to EuroStyleLighting.com (California Consumer) have the right to request certain information from EuroStyleLighting.com. California Consumers may request that EuroStyleLighting.com disclose (i) the types of personal information shared with third parties for those third parties direct marketing purposes, if any and (ii) the identity of any such third party with whom EuroStyleLighting.com has shared personal information, if any, during the previous calendar year. 
 
 California Consumers may make one such request each year. 
 
-To submit a request for information please email EuroStyleLighting.com at [CustomerService@eurostylelighting.com](mailto:CustomerService@eurostylelighting.com). Please include "Request for California Privacy Information" in the subject line and in the body of your email. We will respond with the requested information, if any, to the email.
+To submit a request for information please email us at [customerservice@eurostylelighting.com](mailto:customerservice@eurostylelighting.com). Please include "Request for California Privacy Information" in the subject line and in the body of your email. We will respond with the requested information, if any, to the email.
 
 back to top
 
-**Safe and Secure Shopping**
+ **Safe and Secure Shopping**
 
 We guarantee that every transaction you make at EuroStyleLighting.com will be secure. Each online transaction is protected by SSL (Secure Socket Layer) industry-standard security up to high-grade 256-bit encryption.
 
@@ -64,7 +65,7 @@ back to top
 
 ## Satisfaction Guarantee
 
-**Our Pledge to You**
+ **Our Pledge to You**
 
 We stand behind the quality of everything we sell. Our pledge to you is that you must be 100% satisfied with the quality and value of your purchase.
 
@@ -84,7 +85,7 @@ back to top
 
 **Using a Promo Code**
 
-If you have a money off coupon or promotional code from us, simply enter the code number in the appropriate box in your shopping cart. Your cart will automatically update with the proper discount. If you're having problems or experience an error when using a coupon code just give us a call, we'll be happy to help you.
+If you have a money off promotional code from us, simply enter the code number in the appropriate box in your shopping cart. Your cart will automatically update with the proper discount. If you're having problems or experience an error when using a code just give us a call, we'll be happy to help you.
 
 back to top
 
@@ -96,13 +97,13 @@ back to top
 
 **Minimum Order**
 
-Our minimum order amount of $10 allows us to meet our minimum shipping and handling costs. Please [contact us](https://secure.eurostylelighting.com/protected/contactus) if you have questions about placing your order.
+Our minimum order amount of $10 allows us to meet our minimum shipping and handling costs. Please [contact us](https://www.eurostylelighting.com/protected/contactus) if you have questions about placing your order.
 
 back to top
 
 **Tracking Your Order**
 
-Your order confirmation email contains an order number you can use to [track your shipment on our site](http://www.eurostylelighting.com/orderstatus). Please allow 24-hours from the time of your order for the status to begin updating. If you have any questions please [contact us](https://secure.eurostylelighting.com/protected/contactus).
+Your order confirmation email contains an order number you can use to [track your shipment on our site](http://www.eurostylelighting.com/orderstatus). Please allow 24-hours from the time of your order for the status to begin updating. If you have any questions please [contact us](https://www.eurostylelighting.com/protected/contactus).
 
 back to top
 
@@ -112,21 +113,15 @@ We stock thousands of items in our warehouse, but we occasionally experience an 
 
 back to top
 
-**Canceling an Order**
+ **Canceling an Order**
 
 If you need to cancel part or all of your order, we'll be happy to do so, but we cannot guarantee an order may not have already shipped. Many items ship in one or two days, either from our warehouse or from our suppliers, so please contact us as soon as possible with your request. Cancellations are not guaranteed until you receive an email confirming cancellation.
 
 back to top
 
-**Energy Information for Ceiling Fans**
-
-[Click here](http://www.eurostylelighting.com/ceiling-fan-energy-info/fan-energy-info.aspx) to view charts showing energy information for ceiling fans that are currently sold and for those that have been discontinued.
-
-back to top
-
 ## Shipping
 
-**Free Shipping**
+ **Free Shipping**
 
 Each and every one of our products ships for free by ground delivery in the Continental United States - no exceptions!
 
@@ -135,7 +130,7 @@ back to top
 **Express Shipping**
 
 We do offer express shipping for an additional charge. Shipping costs are calculated on a per order basis. Please  
-[contact us](https://secure.eurostylelighting.com/protected/contactus) with your request.
+[contact us](https://www.eurostylelighting.com/protected/contactus) with your request.
 
 back to top
 
@@ -151,13 +146,21 @@ We do ship to APO and FPO delivery destinations. All shipments to these addresse
 
 back to top
 
-**International Shipping**
+ **International Shipping**
 
-Please note that the billing address for the order must be located in the U.S., and that delivery is available to U.S. street addresses only. Euro Style Lighting does not ship outside the 50 U.S. states at this time.
+A minimum value of $200 applies to all international orders. In addition, the total must be paid by wire transfer with the exception of: Puerto Rico, Canada, US Virgin Islands, American Samoa, FPO and APO addresses.
+
+All sales on international orders are final.
+
+In order to make an international shipping order, please go online and place an order. You will then be contacted via email by a customer service representative with a personalized shipping quote. Upon approval of related shipping charges, we will contact you via email with the wire transfer information. Please note that we are not responsible for any fees or related charges incurred with the transfer. 
+
+You should receive a quote for shipping charges outside of the U.S. via email within 2 business days of your order. Shipping quotes do not include customs charges, duties, dock fees, brokerage fees or any other internationally related charges.
+
+Please note that our free shipping policy applies only to shipments within the US states.
 
 back to top
 
-**Freight Curbside Delivery**
+ **Freight Curbside Delivery**
 
 Some of our items are heavy and/or oversized, and cannot be shipped via standard ground delivery. Freight Curbside Delivery is used instead.
 
@@ -165,13 +168,13 @@ Once your order has been processed, a freight company representative will contac
 
 back to top
 
-**Getting Your Order**
+ **Getting Your Order**
 
 If you encounter discrepancies when tracking your order or do not receive your items, please contact us. A product specialist will help you resolve the issue quickly and to your satisfaction.
 
 back to top
 
-**Packing Materials**
+ **Packing Materials**
 
 We have discontinued the use of the old petroleum-based packing peanuts. Whenever possible we now use packing materials made out of eco-friendly, 100 percent biodegradable starch pellets. These break down quickly in landfills, are static free, and contain no CFCs or HCFCs.
 
@@ -179,15 +182,9 @@ back to top
 
 ## Returns
 
-**We offer free shipping and free returns!**
-
-Find your perfect fit, minus the risk. Shop more than 10,000 designs with confidence to find the look that's right for your home or office. See our complete return policy below.
-
 **Our Policy**
 
 We want you to be completely satisfied with your purchase. If for any reason you are not satisfied with your order, you may return it, free of shipping charges, within 60 days.
-
-Please note that our "Free Returns Shipping" policy does not apply to certain large items requiring freight shipping and/or white glove handling. See below for our freight shipping return policy.
 
 You must receive a RMA (Return Merchandise Authorization) from us prior to return shipping your item. Please follow the instructions below.
 
@@ -204,23 +201,25 @@ A specialist will issue you a RMA (Return Merchandise Authorization) number, and
 
 For all returned merchandise, you will be issued a refund on your original merchandise after we receive and inspect your returned product.
 
-Free Return Shipping is offered only in the continental, lower 48 United States. For other locations, including Alaska, Hawaii, please contact a customer service representative at (877) 233-7095, or email us using our [online form](https://secure.eurostylelighting.com/protected/contactus) for return costs and more information. 
+Free Return Shipping is offered only in the continental, lower 48 United States. For other locations, including Alaska, Hawaii, Canada and other International locations, please contact a customer service representative at 877-233-7095 or email us using our [online form](http://www.eurostylelighting.com/protected/contactus) for return costs and more information.
 
 back to top
 
-**Freight Returns**
+ **Freight Curbside Delivery**
 
-Please note that our "Free Returns Shipping" policy does not apply to certain large items requiring freight shipping and/or white glove handling. Please call us to arrange return shipping on items requiring freight shipping. Freight items will be charged a flat $99 pick-up fee.
+Some of our items are heavy and/or oversized, and cannot be shipped via standard ground delivery. Freight Curbside Delivery is used instead.
+
+Once your order has been processed, a freight company representative will contact you by phone to arrange the delivery details. Deliveries are made Monday thru Friday during business hours and are scheduled in a 4-hour time window. Freight Curbside Delivery covers delivery to your curbside only. Please note that extra charges may apply for delivery to remote areas and/or for complicated deliveries.
 
 back to top
 
-**Getting a RMA (Return Merchandise Authorization)**
+ **Getting a RMA (Return Merchandise Authorization)**
 
 You must receive a RMA (Return Merchandise Authorization) from us prior to return shipping your item. Items received by us without a RMA tracking number cannot be accepted. Please contact us and we'll be happy to provide a RMA and assist you with the return process.
 
 back to top
 
-**Our Replacement Policy**
+ **Our Replacement Policy**
 
 We take pride in the construction and the packaging of our products. However, in the event that harm occurs in transit, or if you discover defects in the manufacture of a product, please contact us within 60 days for a replacement item.
 
@@ -240,6 +239,6 @@ If you need a Return Form, you may [print one here](http://www.eurostylelighting
 
 back to top
 
-*Free shipping and returns apply to the 48 continental US states only. Freight items do not qualify for free returns on EuroStyleLighting.com.
+*Free shipping and returns apply to the 48 continental US states only. Freight and giclee art shade items do not qualify for free returns on EuroStyleLighting.com.
 
 © 2014 Universal Distributing, LLC. All rights reserved. | Euro Style Lighting - _Contemporary Lighting for Your Home_
