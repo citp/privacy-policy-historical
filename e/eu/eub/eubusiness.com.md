@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630074312id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227062103id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement — EU - European Union and Eurozone business news | EUbusiness.com
 
@@ -46,7 +46,7 @@ However, please be aware that restricting cookies will have an impact on the fun
 **Advertising**  
 EUbusiness runs advertising for a wide variety of organisations. We use third-party ad servers to serve ads when you visit our website. These companies may use information (NOT including your name, address, email address, or telephone number) about your visits to this website in order to provide advertisements about goods and services of interest to you. Third-party ad servers include Google. These ad servers may attempt to set cookies (see above) on your computer. All these sites stress that information gathered through these cookies is used purely for the purpose of ad delivery, recording and segmentation. They do not use information gathered through their cookies for their own use, and they do not collect any personally identifiable information.
 
-[**WebAds Privacy Policy**](http://www.webads.co.uk/corporate/privacy) [**Google Advertising and Privacy**](http://www.google.com/privacy_ads.html)
+[**Google Advertising and Privacy**](http://www.google.com/privacy_ads.html)
 
 **Log Files**  
 We use IP addresses to analyse trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.
