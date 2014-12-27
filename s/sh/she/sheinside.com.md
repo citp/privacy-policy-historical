@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sheinside.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021726id_/http%3A//www.sheinside.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheinside.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227045636id_/http%3A//www.sheinside.com/Privacy-Security-Policy-a-282.html) for the most accurate reproduction.*
 
 # Privacy&Security Policy
-
-[Home](http://www.sheinside.com/) »  Privacy&Security Policy
 
 For users logging on to the site to stay personally identifiable information.  
 The content of the information collected When you register on our website, or using other companies products or services, visit the company website, I have that station will collect your personal information,Including name, phone number, zip code, address.
@@ -29,9 +27,10 @@ The revised privacy policy privacy policy website reserves the right to make cha
 **Choice and Opt-Out**  
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at **service@sheinside.com**.
 
-Or contact us:UNIT 04,7/F,BRIGHT WAY TOWER, NO.33 MONG KOK ROAD, KOWLOON,HK
+When you register, you will be given the option to opt-out of subscribing to our regular update service. We will send you e mail alerts for new products, features, enhancements, special offers, contests, events of interest, and one-off marketing promotions. 
 
-  
+At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that subscription. Simply follow the indications in the e-mail.
 
+Or contact us:UNIT 04,7/F,BRIGHT WAY TOWER, NO.33 MONG KOK ROAD, KOWLOON,HK  
 
-©sheinside.com. All rights reserved 
+Our Phone: 0086-25-87752273-812
