@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballimpact.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216105654id_/http%3A//fantasyfootballimpact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballimpact.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227114737id_/http%3A//fantasyfootballimpact.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fantasy Football Impact
 
@@ -32,7 +32,7 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information.
 
-Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. For instance, Google ads (AdSense) use the DoubleClick cookie. It enables Google and its partners to serve ads to you based on your visit to our site and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie by visiting [Ads Settings](http://www.google.com/ads/preferences/ "Ads Settings") or you can opt out from some third-party vendors using cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/ "AboutAds").
 
 We use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.
 
@@ -41,5 +41,7 @@ We partner with another party to provide specific services. When the user signs 
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
 **If you feel that we are not abiding by this privacy policy, you should[contact us](http://fantasyfootballimpact.com/contact-us-3/ "Contact Us") immediately.**
+
+Go to the  **[ _Fantasy Football Impact_](http://fantasyfootballimpact.com/ "Welcome to Fantasy Football Impact")** ** ** home page
 
 [](http://fantasyfootballimpact.com/)
