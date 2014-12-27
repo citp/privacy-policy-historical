@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngvoters.eu privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219025429id_/http%3A//www.youngvoters.eu/eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngvoters.eu privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227172645id_/http%3A//www.youngvoters.eu/eu/privacy) for the most accurate reproduction.*
 
 # League of Young Voters
 
