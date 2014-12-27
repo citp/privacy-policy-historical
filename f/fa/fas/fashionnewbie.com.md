@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionnewbie.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627165453id_/http%3A//www.fashionnewbie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionnewbie.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227064841id_/http%3A//www.fashionnewbie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy — Fashion Newbie
 
 Our team here at Fashion Fixation is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
