@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the viki.com privacy policy that was archived on 2014-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628205831id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viki.com privacy policy that was archived on 2014-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227050922id_/http%3A//www.viki.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js country-us" lang="en" data-cast-api-enabled="true"><!--<![endif]--><head>
   <title>Viki</title>
@@ -24,16 +24,29 @@
     document.createElement('hgroup');
   </script>
   <![endif]-->
-  <link href="//0.viki.io/a/favicon-ccba0ff4bb7ea075ceb183324859a599.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link href="//1.viki.io/a/application-b4b71e4f0743f88d0d43cd68be1bc42f.css" media="all" rel="stylesheet" type="text/css">
+  <link href="//1.viki.io/a/favicon-e550deeef63e7204dfc804ab5c037e8e.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
 
-  <script async="" id="cio-tracker" data-site-id="087421bb16c42b4dd37f" src="https://assets.customer.io/assets/track.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script type="text/javascript">
-    if (typeof jQuery === 'undefined') {
-      document.write('<script crossorigin=\"anonymous\" src=\"//0.viki.io/a/jquery-7774e5317ed764b749bb337a0917164d.js\" type=\"text/javascript\"><\/script>');
-    }
-    $('html').removeClass('no-js').addClass('with-js');
-  </script><script crossorigin="anonymous" src="//0.viki.io/a/jquery-7774e5317ed764b749bb337a0917164d.js" type="text/javascript"></script>
+  <link href="//0.viki.io/a/application-b9178f648a61cd09d58bfc7e654d2505.css" media="all" rel="stylesheet">
+
+  <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" id="cio-tracker" data-site-id="087421bb16c42b4dd37f" src="https://assets.customer.io/assets/track.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">
+  if (typeof jQuery === 'undefined') {
+    document.write('<script crossorigin=\"anonymous\" src=\"https://0.viki.io/a/jquery-4af7f5d06621e887db487d79acbe6aae.js\"><\/script>');
+    _gaq.push(['_trackEvent', 'corsError', 'not_loaded_jquery_' + window.vikiGeoCode, window.location.href]);
+  }
+  $('html').removeClass('no-js').addClass('with-js');
+</script><script crossorigin="anonymous" src="https://0.viki.io/a/jquery-4af7f5d06621e887db487d79acbe6aae.js"></script>
+
   <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-1670373-2']);
@@ -72,47 +85,25 @@
   raynor.session = {};
   window.vikiDomain = "www.viki.com";
   window.vikiCookieDomain = "viki.com";
-  window.vikiUriSSL = "https://www.viki.com"
-  window.vikiGeoCode = "US"
+  window.vikiUriSSL = "https://www.viki.com";
+  window.vikiGeoCode = "US";
+  window.vikiliticsHost = "https://collector.viki.io";
+  window.railsEnv = "production";
 </script>
 
-<script crossorigin="anonymous" src="//0.viki.io/a/utility-692332d8f286da1b975fe6a27717f494.js" type="text/javascript"></script>
-<script type="text/javascript" language="javascript">
-  (function () {
-    function SessionManager() {
-      this.initialized = false;
-      this.info = { first_hit: false, id: null };
+<script crossorigin="anonymous" src="//0.viki.io/a/utility-d3ba4e01eeb19f7014e9a1a3521ee179.js"></script>
+<script>
+//<![CDATA[
+  if(window.raynor.utility.getReferer === undefined) {
+  var tag = '<scr'+'ipt src="https://0.viki.io/a/utility-d3ba4e01eeb19f7014e9a1a3521ee179.js"></scr'+'ipt>';
+  document.write(tag);
+  _gaq.push(['_trackEvent', 'corsError', 'not_loaded', 'utility']);
+  }
 
-      this._expireIn = function (mins) {
-        var date = new Date();
-        date.setTime(date.getTime() + (mins * 60 * 1000));
-        return date;
-      };
-
-      this.getInfo = function () {
-        if (!this.initialized) {
-          this.info.id = $.cookie('visit_session_id');
-          if (this.info.id == null) {
-            this.info.first_hit = true;
-            this.info.id = (new Date()).getTime() + '-' + raynor.utility.generateUuid();
-          }
-          raynor.utility.setCookie('visit_session_id', this.info.id, this._expireIn(2 * 60));
-          this.initialized = true;
-        }
-        return this.info;
-      }
-    }
-
-    var info = (new SessionManager()).getInfo();
-    raynor.session.id = info.id;
-    raynor.session.first_hit = info.first_hit;
-  })();
+//]]>
 </script>
-
-
-
     <!-- Google font -->
-  <link href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Condensed:400,300,700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Condensed:400,300,&#10;  700" rel="stylesheet" type="text/css">
 
   
 
@@ -149,10 +140,32 @@
   
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-<body class="js-static_pages   regularscreen-">
-  <div id="lang_suggest"></div>
+<body class="js-static_pages static_pages-privacy ">
+  <div class="page-wrapper">
+    <a href="#" id="trigger" data-modal-action="close" data-modal="data-modal-mobile-banner" class="hidden" data-block-track="modalClose"></a>
+<div id="data-modal-mobile-banner" class="modal modal-mobile-banner invisible" data-block-track="mobileModal">
+  <a href="#" class="close-link" data-mobile-browse="1" title="Or continue browsing"><i class="icon icon-x"></i></a>
+  <div class="media">
+    <img alt="Mobile banner logo" class="media-object pull-left" height="136" src="//0.viki.io/a/static/mobile-banner-logo-2e5e168164cc977670fdc7fb26fe681e.png" width="136">
+    <div class="media-body">
+      <div class="mobile-banner-buttons pull-right">
+        <a href="#" class="btn btn-primary btn-download-app btn-block" data-mobile-download="1" data-utm-params="">Download App</a>
+        <a href="#" class="btn btn-primary btn-play-app deepLink appPlay mbn btn-block hidden">Play on App</a>
+      </div>
+      <h3 class="mobile-banner-heading">Viki</h3>
+      <p class="mobile-banner-copy">Download the Viki app to watch your favorite shows on-the-go!</p>
+      <p class="mobile-banner-copy">
+        <strong>Free</strong>
+      </p>
+    </div>
+  </div>
+</div>
 
-  <nav id="menubar" class="menubar menubar-fixed">
+
+    <div id="lang_suggest"></div>
+
+
+    <nav id="menubar" class="menubar menubar-fixed">
   <div class="container">
       <div class="brand pull-left">
         <a href="/" class="icon-viki-logotype" data-block-track="homeLogo">
@@ -162,30 +175,30 @@
 
     <div class="menus pull-left mlm" data-menus="1">
       <div id="menu-tv" class="menu menu-collapsible menu-tv">
-        <a href="/tv" data-block-track="headerTv">TV</a>
+        <a href="/tv" data-block-track="headerTv">Global TV</a>
         <div class="mega-menu invisible" data-mega-menu="menu-tv">
           <ul class="submenu-nav" data-block-track="headerTvSideLinks">
             <li class="submenu-nav-list">
-              <a href="/tv/browse" class="browse_all">Browse All</a>
+              <a class="browse_all" href="/tv/browse">Browse All</a>
             </li>
             <li class="submenu-nav-list">
-              <a href="/tv/browse?sort=viewed" class="most_viewed">Most Viewed</a>
+              <a class="most_viewed" href="/tv/browse?sort=viewed">Most Viewed</a>
             </li>
             <li id="on-air-menu-tv" class="submenu-nav-list hidden">
-              <a href="/on_air" class="on_air">On Air</a>
+              <a class="on_air" href="/on_air">On-Air Titles</a>
             </li>
             <li class="submenu-nav-list">
-              <a href="/news" class="on_air">News</a>
+              <a class="on_air" href="/news">News</a>
             </li>
             <li class="submenu-nav-list">
-              <a href="/networks" class="on_air">Networks</a>
+              <a class="on_air" href="/networks">Featured Networks</a>
             </li>
           </ul>
           <div class="submenu-thumb" data-block-track="headerTvThumbnails">
-            <a href="/tv?sort=latest" class="thumb-more pull-right more">More</a>
-            <a href="/tv?sort=latest" class="thumb-heading new_in_tv">New in TV</a>
+            <a class="pull-right more" href="/tv?sort=latest">See all</a>
+            <a class="thumb-heading new_in_tv" href="/tv?sort=latest">New in TV</a>
             <ul id="list-menu-tv" class="thumb-grid hidden"></ul>
-            <div id="spinner-menu-tv" class="spinner-menu"><i class="form-spinner"></i></div>
+            <div id="spinner-menu-tv" class="loader-wrapper"><i class="loader"></i></div>
           </div>
         </div>
       </div>
@@ -195,22 +208,31 @@
         <div class="mega-menu invisible" data-mega-menu="menu-movies">
           <ul class="submenu-nav" data-block-track="headerMoviesSideLinks">
             <li class="submenu-nav-list">
-              <a href="/movies/browse" class="browse_all">Browse All</a>
+              <a class="browse_all" href="/movies/browse">Browse All</a>
             </li>
             <li class="submenu-nav-list">
-              <a href="/movies/browse?sort=latest" class="most_viewed">Recently Added</a>
+              <a class="most_viewed" href="/movies/browse?sort=viewed">Most Viewed</a>
+            </li>
+            <li class="submenu-nav-list">
+              <a class="most_viewed" href="/movies/browse?sort=latest">Recently Added</a>
             </li>
             <li id="coming-soon-menu-movies" class="submenu-nav-list hidden">
-              <a href="/coming_soon?type=movies" class="coming_soon">Coming Soon</a>
+              <a class="coming_soon" href="/coming_soon?type=movies">Coming Soon</a>
             </li>
           </ul>
           <div class="submenu-thumb" data-block-track="headerMoviesThumbnails">
-            <a href="/movies?sort=viewed" class="thumb-more pull-right">More</a>
-            <a href="/movies?sort=viewed" class="thumb-heading">Popular movies</a>
+            <a class="pull-right" href="/movies?sort=viewed">See all</a>
+            <a class="thumb-heading" href="/movies?sort=viewed">Popular movies</a>
             <ul id="list-menu-movies" class="thumb-grid hidden"></ul>
-            <div id="spinner-menu-movies" class="spinner-menu"><i class="form-spinner"></i></div>
+            <div id="spinner-menu-movies" class="loader-wrapper"><i class="loader"></i></div>
           </div>
         </div>
+      </div>
+
+      <div id="menu-shorts" class="menu menu-collapsible menu-shorts">
+        <a href="/shorts" data-block-track="headerShorts">
+          Shorts
+        </a>
       </div>
 
       <div id="menu-genres" class="menu menu-collapsible menu-genres">
@@ -230,36 +252,14 @@
                 <a class="opticlickg3" href="/genres/korean-drama">Korean Drama</a>
               </li>
             <li class="submenu-nav-list">
-              <a href="/genres" class="opticlickg3">More</a>
+              <a class="opticlickg3" href="/genres">Browse All</a>
             </li>
           </ul>
           <div class="submenu-thumb" data-block-track="headerGenreThumbnails">
-            <a href="/genres" class="thumb-heading">Popular Shows By Genre</a>
+            <a class="pull-right" href="/genres">See all</a>
+            <a class="thumb-heading" href="/genres">Popular Shows By Genre</a>
             <ul id="list-menu-genres" class="thumb-grid hidden"></ul>
-            <div id="spinner-menu-genres" class="spinner-menu"><i class="form-spinner"></i></div>
-          </div>
-        </div>
-      </div>
-
-      <div id="menu-artists" class="menu menu-collapsible menu-artists">
-        <a href="/artists" data-block-track="headerArtist">Artists</a>
-        <div class="mega-menu invisible" data-mega-menu="menu-artists">
-          <ul class="submenu-nav" data-block-track="headerArtistSideLinks">
-              <li class="submenu-nav-list">
-                <a class="opticlickg3" href="/artists?utf8=✓&amp;country=kr">Korea</a>
-              </li>
-              <li class="submenu-nav-list">
-                <a class="opticlickg3" href="/artists?utf8=✓&amp;country=tw">Taiwan</a>
-              </li>
-              <li class="submenu-nav-list">
-                <a class="opticlickg3" href="/artists?utf8=✓&amp;country=my">Malaysia</a>
-              </li>
-          </ul>
-          <div class="submenu-thumb" data-block-track="headerArtistThumbnails">
-            <a href="/artists" class="thumb-more pull-right">More</a>
-            <a href="/artists" class="thumb-heading">Popular Artists</a>
-            <ul id="list-menu-artists" class="thumb-grid hidden"></ul>
-            <div id="spinner-menu-artists" class="spinner-menu"><i class="form-spinner"></i></div>
+            <div id="spinner-menu-genres" class="loader-wrapper"><i class="loader"></i></div>
           </div>
         </div>
       </div>
@@ -281,72 +281,86 @@
                 <a class="opticlickg3" href="/countries/united-states">United States</a>
               </li>
             <li class="submenu-nav-list">
-              <a href="/countries" class="opticlickg3">More</a>
+              <a class="opticlickg3" href="/countries">Browse All</a>
             </li>
           </ul>
           <div class="submenu-thumb" data-block-track="headerCountryThumbnails">
-            <a href="/countries" class="thumb-heading">Popular Shows By Country</a>
+            <a class="pull-right" href="/countries">See all</a>
+            <a class="thumb-heading" href="/countries">Popular Shows By Country</a>
             <ul id="list-menu-countries" class="thumb-grid hidden"></ul>
-            <div id="spinner-menu-countries" class="spinner-menu"><i class="form-spinner"></i></div>
+            <div id="spinner-menu-countries" class="loader-wrapper"><i class="loader"></i></div>
           </div>
         </div>
       </div>
 
       <div class="menu menu-collapsible menu-community" id="menu-community">
-        <a href="/community" data-block-track="headerCommunity">Community</a>
+        <a href="/community" data-block-track="headerCommunity">Community &amp; Store
+          <small class="new-badge-text">New</small></a>
         <ul class="reg-menu" data-block-track="headerCommunityLinks" data-mega-menu="menu-community">
           <li class="reg-menu-item">
-            <a href="http://discussions.viki.com">Discussions
-              </a>
-          </li>
-          <li class="reg-menu-item">
-            <a href="/volunteer">Volunteer
+            <a href="http://viki.spreadshirt.com?r=header">Store
+              <small class="new-badge-text">New</small>
             </a>
           </li>
           <li class="reg-menu-item">
+            <a href="http://discussions.viki.com">Discussions</a>
+          </li>
+          <li class="reg-menu-item reg-menu-divider">
+            <a href="/volunteer">Volunteer</a>
+          </li>
+          <li class="reg-menu-item">
+            <a href="/badges">Badges</a>
+          </li>
+          <li class="reg-menu-item">
+            <a href="http://subber.viki.com/volunteer_finder">Volunteer Finder</a>
+          </li>
+          <li class="reg-menu-item">
+            <a href="http://subber.viki.com/project_finder">Project Finder</a>
+          </li>
+          <li class="reg-menu-item reg-menu-divider">
             <a href="/tv/20181c-viki-u">Viki U</a>
           </li>
           <li class="reg-menu-item">
-            <a href="http://blog.viki.com/search/label/Community%20Stories">Community Stories
-            </a>
+            <a href="http://blog.viki.com/search/label/Community%20Stories">Community Stories</a>
+          </li>
+          <li class="reg-menu-item reg-menu-divider">
+            <a href="/billionwordsmarch">Billion Words March</a>
           </li>
           <li class="reg-menu-item">
-            <a href="http://subber.viki.com/volunteer_finder">Volunteer Finder
-            </a>
-          </li>
-          <li class="reg-menu-item">
-            <a href="http://subber.viki.com/project_finder">Project Finder
-            </a>
-          </li>
-          <li class="reg-menu-item">
-            <a href="/billionwordsmarch">Billion Words March
-            </a>
+            <a href="/endangeredlanguages">Endangered Languages</a>
           </li>
         </ul>
       </div>
       <div class="menu menu-collapsible menu-vikipass" id="menu-vikipass">
-        <a href="https://www.viki.com/pass?origin=header" data-block-track="headerVikiPass">
-          Viki Pass <small class="new-badge-text">Premium</small>
+        <a href="https://www.viki.com/gifts?origin=header" data-block-track="headerVikiPass">
+          Viki Pass <small class="new-badge-text">50% OFF Sale</small>
         </a>
         <ul class="reg-menu" data-block-track="headerVikiPassLinks" data-mega-menu="menu-vikipass">
           <li class="reg-menu-item">
-            <a href="/exclusives?origin=header">Exclusives <small class="new-badge-text">New</small></a>
+            <a href="https://www.viki.com/pass?origin=dropdown_aboutvp">About Viki Pass
+            </a>
           </li>
           <li class="reg-menu-item">
-            <a href="/gifts?origin=header">Buy / Redeem Gift</a>
+            <a href="/exclusives?origin=header">Exclusives</a>
+          </li>
+          <li class="reg-menu-item reg-menu-divider">
+            <a href="/gifts?origin=header">
+              Special Discount!
+              <small class="new-badge-text mls">On Sale</small>
+            </a>
           </li>
         </ul>
       </div>
     </div>
 
-    <div id="header-actions" class="hidden">
+    <div id="header-actions">
       <div id="user-dash" class="menus-on pull-right hidden" data-menus="1">
         <div class="menu menu-activity" data-block-track="headerUserInbox">
-          <a href="/inbox" class="mail-inbox"><span class="tag danger mail-count" id="mail-count"></span><i id="mail-icon" class="icon-mail hidden"></i></a>
+          <a href="/inbox" class="mail-inbox"><span class="tag danger js-mail-count mail-count"></span><i id="mail-icon" class="icon-mail hidden"></i></a>
         </div>
         <div class="menu menu-profile" id="menu-profile">
           <a href="#" data-block-track="headerUser" rel="your-profile">
-            <img class="thumbnail-avatar" alt="regular thumbnail avatar" src="//1.viki.io/a/ph/avatar_regular-cdc2bd2e0595b0a3f90ec80de219c279.png" height="30" width="30">
+            <img class="thumbnail-avatar" alt="regular thumbnail avatar" src="//0.viki.io/a/ph/avatar_regular-2ae3bfab58a089414b51532e16f60f09.png" height="30" width="30">
             <i class="icon-caret-down"></i>
           </a>
           <ul class="reg-menu" data-block-track="headerUserLinks" data-mega-menu="menu-profile">
@@ -383,7 +397,7 @@
           <a href="/sign_in" class="btn-main-login">
             <span class="btn btn-login btn-small">
               <i class="icon-user"></i>
-              <span class="btn-copy">Login</span>
+              <span class="btn-copy">Sign in</span>
             </span>
           </a>
           <div class="login-tab hidden">
@@ -392,15 +406,15 @@
     <div class="login-buttons pull-left">
       <div class="social-login">
         <button class="btn btn-facebook btn-block mbl" data-fb-login="1">
-          <i class="icon-facebook"></i> <span>Login with Facebook</span>
+          <i class="icon-facebook"></i> <span>Sign in with Facebook</span>
         </button>
         <button class="btn btn-google btn-block googleLoginBtn" data-google-login="1">
-          <i class="icon-google"></i> <span>Login with Google+</span>
+          <i class="icon-google"></i> <span>Sign in with Google</span>
         </button>
       </div>
       <span class="circle-text">or</span>
       <div class="email-login">
-        <a class="btn btn-primary btn-primary-contour btn-block" href="/sign_in">Login with Email</a>
+        <a class="btn btn-primary btn-primary-contour btn-block" href="/sign_in">Sign in with Email</a>
       </div>
     </div>
 
@@ -408,7 +422,7 @@
   <div class="sign-up-info bts">
     <p class="mal">
       Not a member?<br>
-      <a href="/sign_up">Sign up</a> and try 3 days of ad-free &amp; HD viewing
+      <a href="/sign_up" class="strong">Sign up</a> and try 3 days of ad-free viewing experience
     </p>
   </div>
 </div>
@@ -429,11 +443,11 @@
 
       <div class="menus pull-right">
         <div class="menu menu-search search-element">
-          <form accept-charset="UTF-8" action="/search" data-search-form="1" id="search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+          <form accept-charset="UTF-8" action="/search" data-search-form="1" id="search_form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
             <fieldset class="search-wrap">
               <input autocomplete="off" class="search-input" data-search-field="1" id="q" name="q" placeholder="Search" type="text">
               <a href="#" data-search-btn="1" class="icon-search" data-block-track="headerSearchButton"></a>
-              <i id="search-spinner" class="form-spinner hidden"></i>
+              <i id="search-spinner" class="loader loader-inverse loader-small js-form-loader hidden"></i>
             </fieldset>
 </form>          <ul class="search-results hidden" data-search-result="1" data-block-track="headerSearchResult"></ul>
         </div>
@@ -443,275 +457,113 @@
 </nav>
 
 
-  <div class="page-container">
-    <div class="container">
-      <div class="alert js-disabled-alert">
-        <i class="icon-exclamation-triangle pull-left"></i>
-        <div class="alert-body"><strong>For a better experience on Viki, please enable JavaScript on your browser</strong></div>
+    <div class="page-container">
+  <div class="container">
+    <header class="page-header pbs">
+      <h1 class="pull-left"><a href="/privacy">Viki Privacy Policy</a></h1>
+      <p class="note ptm pull-right">Last updated: October 28, 2013</p>
+    </header>
+    <p class="summary">Welcome to Viki.com (the&nbsp;Site), provided by Viki, Inc., and its affiliates, subsidiaries, parent company and other related companies (Us,&nbsp;We,&nbsp;or&nbsp;Viki). This Viki.com Privacy Policy (Policy) describes the information we gather from you when you use the Site and mobile applications (Services), how we use and process that information. We may add to this Policy with other notices. We may also post additional privacy statements for some portions of the Services. By submitting personal information through our Services, you expressly consent to the transfer of your personal data to our servers in the U.S., Singapore, France, and other countries for our collection, use, and disclosure in accordance with this Privacy Policy.</p>
+
+    <div class="row">
+      <div class="unit size16">
+        <article>
+          <section>
+            <h2 class="bbs mbm mtx pvm">Information We Collect</h2>
+            <p><strong>When you create an account and use our Service, we collect the following types of information from you:</strong></p>
+            <ul class="indented-list">
+              <li>Name;</li>
+              <li>Contact information such as your email address;</li>
+              <li>Demographics information such as what country you are in; what your language preferences are; your age and gender;</li>
+              <li>Payment data such as credit card information and PayPal account information ; and</li>
+              <li>Any other information, such as profile picture, videos, content, and bio, you provide us.</li>
+            </ul>
+            <p>If you create an Account using, or otherwise connect your Account to, your Facebook account, we will also collect information provided to us by Facebook including for example your: name; email address; birthday; geographic location; interests; profile picture; gender; networks; user ID; list of friends; and any information you have made public on your Facebook account.</p>
+            <p>We automatically collect information about how you use our services, for example, pages you have viewed, the television shows, movies, music videos or other content that you view or favorite, subtitles or segments of content that you edit, genres you prefer, and searches you make. We also collect certain technical information about your device including your Internet protocol address, geo-location information (city and country), your browser type, language and identifying information, your operating system and application version, device types, device model and manufacturer, device identifiers, and your device operating system type and version.</p>
+            <p>We also use cookies, Web beacons, and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed.&nbsp;Cookies&nbsp;are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which usually stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Web beacons are digital images that are used to log information on the Services or in our emails. We use Web beacons to manage cookies, count visits, and to learn what marketing works and what does not. We also use Web beacons to tell if you open or act on our emails.</p>
+            <p>Others, including third party analytics service providers and advertising partners may also collect personally identifiable information about your online activities over time and across different Web sites when you use our Services, including as described in this Privacy Policy. This Policy does not apply to and we are not responsible for those other parties.</p>
+            <p>Third party analytics services may use cookies and web beacons through our Site (for example Google Analytics for Display Advertisers) and platform device identifiers and software agents on and through our mobile Services (for example Flurry) to provide us with information about how you use and interact with our Site.</p>
+            <p>We use local shared objects, also known as "Flash cookies," to store your preferences or to display content based upon what you view on our websites to personalize your visit. Third parties may also provide certain features on our websites, collect information about your Web browsing activities, and display advertising based upon your Web browsing activity using Flash cookies to collect and store information. Flash cookies are different from other cookies because of the amount of, type of, and way in which data is stored. To learn about privacy and storage settings for Flash cookies click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" rel="nofollow">%{macromedia_link}</a> (or in the EU <a href="http://www.youronlinechoices.com/" rel="nofollow">%{youronlinechoices_link}</a>).</p>
+          </section>
+          <section>
+            <h2 class="bbs mbm mtx pvm">Sharing Of Your Information</h2>
+            <p>The Viki Services may allow you to connect and share your actions, comments, content, profile, and information publicly or with other people. You may control some of the categories of personal information shared via your profile from the account settings menu on the Site. Please be mindful of your own privacy needs as you choose who to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others.</p>
+            <p>By connecting your account to Facebook, you are instructing Viki to share your viewing history (information about videos you have viewed) with Facebook, and other users of Facebook and the Viki services, and you expressly give Viki permission to disclose and share your viewing history. If you do not want your viewing history to be shared via Facebook, you should not connect your account to Facebook. You can turn off sharing by disconnecting your account from Facebook. We are not responsible for the use or re-sharing by others of any of your viewing history once it is made public. If you do not want your viewing history to be made public, you should not use the Viki Services and/or you should adjust your Facebook privacy settings accordingly. We are not responsible for and we do not control Facebook's privacy practices. Please review Facebook's privacy policy for information about how they use your information.</p>
+          </section>
+          <section>
+            <h2 class="bbs mbm mtx pvm">How Viki Uses Your Information</h2>
+            <p><strong>Viki generally uses your information to:</strong></p>
+            <ul class="indented-list">
+              <li>Facilitate the creation of and secure your account on our network;</li>
+              <li>Identify you as a user in our system;</li>
+              <li>Provide, personalize, and improve the Services;</li>
+              <li>Communicate with you about your use of the Services;</li>
+              <li>Develop new products and services,</li>
+              <li>Customize the advertising you view and recommend content;</li>
+              <li>Fulfill your requests;</li>
+              <li>Identify the comments you post;</li>
+              <li>Send newsletters, surveys, offers and promotional materials related to the Services and for other marketing purposes of Viki;</li>
+              <li>Protect, investigate, and prevent potentially fraudulent, unauthorized, or illegal activities;</li>
+              <li>Protect our rights and the rights of other users; and</li>
+              <li>As otherwise described in this Privacy Policy or in notices we provided to you.</li>
+            </ul>
+            <p>We use your payment information to charge you for paid content or memberships and subscriptions that you request. We may also use your information to verify your geographic location. We may use your geographic location data (city and country) to personalize our Service, to recommend content, determine whether the content you have requested is available in your location. We also aggregate and anonymize all information we collect. We may use or share your aggregated and anonymized data for any purposes allowed by applicable law.</p>
+          </section>
+          <section>
+            <h2 class="bbs mbm mtx pvm">How Viki Discloses Your Information</h2>
+            <p>We may share your information as follows:</p>
+            <ul class="indented-list">
+              <li>We may share your personal information with your consent or at your direction.</li>
+              <li>We may also share your information with others who perform services on our behalf.</li>
+              <li>We may disclose your information if we believe we are required to do so by law, or to comply with a court order, judicial or other government subpoena, or warrant.</li>
+              <li>We also may disclose your information if we believe doing so is appropriate or necessary to prevent any liability, or fraudulent, abusive, or unlawful uses or to protect Viki and our Services; or any rights, property, or personal safety of Viki or others.</li>
+              <li>In the event that Viki is acquired by or merged with another company or involved in any other business deal (or negotiation of a business deal) involving sale or transfer of all or part of our business or assets, we may transfer or assign your information as part of the transaction. Finally, in the event of insolvency, bankruptcy, or receivership, information may be transferred as a business asset.</li>
+            </ul>
+            <p>We may also share aggregated and anonymized data with our partners, advertisers and other third parties. For example, we may tell studios how many times a particular episode of a television series was watched and by which demographics.</p>
+          </section>
+          <section>
+            <h2 class="bbs mbm mtx pvm">Third Party Advertisers</h2>
+            <p>We permit advertisements to be delivered to you by third party Internet advertising companies (also called&nbsp;ad networks&nbsp;or&nbsp;network advertisers). These companies may use cookies, Web beacons, platform device identifiers, software agents, and other technologies to collect non-personally identifiable information about your visits over time on our Service and across other websites to deliver advertisements to you targeted to your interests, measure their effectiveness and personalize advertising content, and to understand the usage and visitation of the Services and the other applications and websites tracked by these advertising companies. We do not have access to or control over cookies, Web beacons, platform device identifiers, software agents, or other technologies that they may use. We are not responsible for the privacy practices of third party advertisers. You should check the privacy policy of the third party advertiser to determine how it handles information it separately collects from you. In addition, the&nbsp;<a href="http://www.networkadvertising.org/" rel="nofollow">Network Advertising Initiative</a>&nbsp;offers information about some of the Internet advertising companies we may use. To learn about interest based advertising by Tremor visit <a href="http://tremorvideo.com/about-us/privacy/" rel="nofollow">Tremor's privacy policy</a>. To learn about Apple's interest based advertising visit <a href="http://www.apple.com/privacy/" rel="nofollow">Apple's privacy policy</a>.</p>
+          </section>
+          <section>
+            <h2 class="bbs mbm mtx pvm">Security</h2>
+            <p>Viki takes commercially reasonable steps to help protect your Information against loss, misuse and unauthorized access, or disclosure. No company can fully prevent security risks, however. To help protect yourself and your information, choose a unique password for our Services and do not use a password on our Services that you would use on any other website or online service.</p>
+          </section>
+          <section>
+            <h2 class="bbs mbm mtx pvm">Dispute Resolution</h2>
+            <p>If you believe that Viki has not adhered to this Statement, please contact Viki by e-mail at&nbsp;<a href="compliance@viki.com" title="compliance@viki.com">compliance@viki.com</a>. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Viki are unable to reach a resolution to the dispute, you and Viki will settle the dispute exclusively under the rules of the American Arbitration Association (<a href="http://www.adr.org" no="nofollow">http://www.adr.org</a>).</p>
+          </section>
+          <section>
+            <h2 class="bbs mbm mtx pvm">Information Choices</h2>
+            <p>You may opt out of receiving promotional emails from Viki by following the instructions in those emails. If you opt out, we may still send you&nbsp;non-promotional&nbsp;emails,&nbsp;such as&nbsp;emails about&nbsp;your accounts or our ongoing business relations. You may also send requests about your personal information, including changes to your contact&nbsp;preferences,&nbsp;changes to or deletions of your information or content you post, and requests to opt-out of sharing your personal information with third parties by emailing <a href="mailto:compliance@viki.com" title="compliance@viki.com">compliance@viki.com</a>. Please note that deletion of your information or content does not ensure complete or comprehensive removal of the content or information posted on the Services.</p>
+            <p>Viki gives you certain choices about how we collect personally identifiable information as described in this Policy. But we may not recognize or respond to your Web browser's "do not track" signal and other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party Web sites or online services. Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site including certain opt-out cookies. Cookie management tools provided by your browser usually will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" rel="nofollow">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a> (or in the EU <a href="http://www.youronlinechoices.com/" rel="nofollow">http://www.youronlinechoices.com/</a>).</p>
+            <p>We encourage you to review the privacy policies of our third party advertisers to learn about your choices about information they collect from you. In addition, the&nbsp;<a href="http://www.networkadvertising.org/" no="nofollow">Network Advertising Initiative</a>&nbsp;offers information about some of the Internet advertising companies we may use, including how to opt-out of interest based advertising they deliver. To opt-out of interest based advertising by Tremor visit <a href="http://tremorvideo.com/about-us/privacy/" rel="nofollow">Tremor's privacy policy</a>. To learn how to opt-out of interest based advertising by Apple visit the <a href="http://support.apple.com/kb/HT4228" rel="nofollow">iAd support page</a>. To learn how to opt out of Flurry Analytics mobile tracking and personalized ads/recommendations from Flurry visit <a href="http://www.flurry.com/privacy-policy.html" rel="nofollow">Flurry's privacy policy</a>. To opt-out of Google Analytics web tracking you can download <a href="https://tools.google.com/dlpage/gaoptout/" rel="nofollow">Google Analytics Opt-out Browser Add-on</a>.</p>
+          </section>
+          <section>
+            <h2 class="bbs mbm mtx pvm">Changes and Updates to this Privacy Policy</h2>
+            <p>From time to time, we may revise the Privacy Policy. To help you stay current of any changes, we note the date the Privacy Policy was last updated above.</p>
+          </section>
+          <section>
+            <h2 class="bbs mbm mtx pvm">Viki Contact Information</h2>
+            <p>Please contact Viki with any questions or comments about this Privacy Policy, your Information, our third-party disclosure practices, or your consent choices via&nbsp;<a href="mailto:compliance@viki.com" title="%{compliance_email}">compliance@viki.com</a>. You can also request access to or that we correct or delete your personal information at any time by emailing&nbsp;<a href="mailto:compliance@viki.com" title="compliance@viki.com">compliance@viki.com</a>.</p>
+          </section>
+        </article>
       </div>
-      <div id="flash_messages" data-block-track="flashMessages"></div>
-      
-      <header class="page-header pbs">
-  <h1 class="capitalize pull-left"><a href="/privacy">Viki Privacy Policy</a></h1>
-  <p class="note ptm pull-right">Last updated: October 28, 2013</p>
-</header>
 
-<p class="summary">Welcome to Viki.com (the&nbsp;Site), provided by Viki, Inc., and its affiliates, subsidiaries, parent company and other related companies (Us,&nbsp;We,&nbsp;or&nbsp;Viki). This Viki.com Privacy Policy (Policy)
-  describes the information we gather from you when you use the Site and mobile applications (Services), how
-  we use and process that information. We may add to this Policy with other notices. We may also post
-  additional privacy statements for some portions of the Services. By submitting personal information
-  through our Services, you expressly consent to the transfer of your personal data to our servers in the
-  U.S., Singapore, France, and other countries for our collection, use, and disclosure in accordance with
-  this Privacy Policy.</p>
-
-<div class="row">
-  <div class="unit size16">
-    <article>
-      <section>
-        <h2 class="bbs mbm mtx pvm">Information We Collect</h2>
-        <p><strong>When you create an account and use our Service, we collect the following types of
-          information from you:
-        </strong></p>
-        <ul class="indented-list">
-          <li>Name;</li>
-          <li>Contact information such as your email address;</li>
-          <li>Demographics information such as what country you are in; what your language preferences are;
-            your age and gender;</li>
-          <li>Payment data such as credit card information and PayPal account information ; and</li>
-          <li>Any other information, such as profile picture, videos, content, and bio, you provide us.</li>
-        </ul>
-        <p>If you create an Account using, or otherwise connect your Account to, your Facebook account, we
-          will also collect information provided to us by Facebook including for example your: name; email
-          address; birthday; geographic location; interests; profile picture; gender; networks; user ID;
-          list of friends; and any information you have made public on your Facebook account.
-        </p>
-
-        <p>We automatically collect information about how you use our services, for example, pages you have
-          viewed, the television shows, movies, music videos or other content that you view or favorite,
-          subtitles or segments of content that you edit, genres you prefer, and searches you make. We also
-          collect certain technical information about your device including your Internet protocol address,
-          geo-location information (city and country), your browser type, language and identifying
-          information, your operating system and application version, device types, device model and
-          manufacturer, device identifiers, and your device operating system type and version.
-        </p>
-        <p>We also use cookies, Web beacons, and URL information to gather information regarding the date
-          and time of your visit and the information for which you searched and which you
-          viewed.&nbsp;Cookies&nbsp;are small pieces of information that a website sends to your computer's hard drive
-          while you are viewing a website. We may use both session cookies (which expire once you close your
-          web browser) and persistent cookies (which usually stay on your computer until you delete them) to
-          provide you with a more personal and interactive experience on our Site. Web beacons are digital
-          images that are used to log information on the Services or in our emails. We use Web beacons to
-          manage cookies, count visits, and to learn what marketing works and what does not. We also use Web
-          beacons to tell if you open or act on our emails.
-        </p>
-        <p>Others, including third party analytics service providers and advertising partners may also
-          collect personally identifiable information about your online activities over time and across
-          different Web sites when you use our Services, including as described in this Privacy Policy. This
-          Policy does not apply to and we are not responsible for those other parties.
-        </p>
-        <p>Third party analytics services may use cookies and web beacons through our Site (for example
-          Google Analytics for Display Advertisers) and platform device identifiers and software agents on
-          and through our mobile Services (for example Flurry) to provide us with information about how you
-          use and interact with our Site.
-        </p>
-        <p>We use local shared objects, also known as "Flash cookies,” to store your preferences or to
-          display content based upon what you view on our websites to personalize your visit. Third parties
-          may also provide certain features on our websites, collect information about your Web browsing
-          activities, and display advertising based upon your Web browsing activity using Flash cookies to
-          collect and store information. Flash cookies are different from other cookies because of the
-          amount of, type of, and way in which data is stored. To learn about privacy and storage settings
-          for Flash cookies click here:
-          <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" rel="nofollow">
-            http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a>
-          (or in the EU <a href="http://www.youronlinechoices.com/" rel="nofollow">http://www.youronlinechoices.com/</a>).
-        </p>
-      </section>
-      <section>
-        <h2 class="bbs mbm mtx pvm">Sharing Of Your Information</h2>
-        <p>The Viki Services may allow you to connect and share your actions, comments, content, profile,
-          and information publicly or with other people. You may control some of the categories of personal
-          information shared via your profile from the account settings menu on the Site. Please be mindful
-          of your own privacy needs as you choose who to connect with and what to share and make public. We
-          cannot control the privacy or security of information you choose to make public or share with
-          others.
-        </p>
-        <p>By connecting your account to Facebook, you are instructing Viki to share your viewing history
-          (information about videos you have viewed) with Facebook, and other users of Facebook and the Viki
-          services, and you expressly give Viki permission to disclose and share your viewing history. If
-          you do not want your viewing history to be shared via Facebook, you should not connect your
-          account to Facebook. You can turn off sharing by disconnecting your account from Facebook. We are
-          not responsible for the use or re-sharing by others of any of your viewing history once it is made
-          public. If you do not want your viewing history to be made public, you should not use the Viki
-          Services and/or you should adjust your Facebook privacy settings accordingly. We are not
-          responsible for and we do not control Facebook’s privacy practices. Please review Facebook’s
-          privacy policy for information about how they use your information.
-        </p>
-      </section>
-      <section>
-        <h2 class="bbs mbm mtx pvm">How Viki Uses Your Information</h2>
-        <p><strong>Viki generally uses your information to:</strong></p>
-        <ul class="indented-list">
-          <li>Facilitate the creation of and secure your account on our network;</li>
-          <li>Identify you as a user in our system;</li>
-          <li>Provide, personalize, and improve the Services;</li>
-          <li>Communicate with you about your use of the Services;</li>
-          <li>Develop new products and services,</li>
-          <li>Customize the advertising you view and recommend content;</li>
-          <li>Fulfill your requests;</li>
-          <li>Identify the comments you post;</li>
-          <li>Send newsletters, surveys, offers and promotional materials related to the Services and for
-          other marketing purposes of Viki;</li>
-          <li>Protect, investigate, and prevent potentially fraudulent, unauthorized, or illegal activities;</li>
-          <li>Protect our rights and the rights of other users; and</li>
-          <li>As otherwise described in this Privacy Policy or in notices we provided to you.</li>
-        </ul>
-       <p>We use your payment information to charge you for paid content or memberships and subscriptions
-         that you request. We may also use your information to verify your geographic location. We may use
-         your geographic location data (city and country) to personalize our Service, to recommend content,
-         determine whether the content you have requested is available in your location. We also aggregate
-         and anonymize all information we collect. We may use or share your aggregated and anonymized data
-         for any purposes allowed by applicable law.</p>
-      </section>
-      <section>
-        <h2 class="bbs mbm mtx pvm">How Viki Discloses Your Information</h2>
-        <p>We may share your information as follows:</p>
-        <ul class="indented-list">
-          <li>We may share your personal information with your consent or at your direction.</li>
-          <li>We may also share your information with others who perform services on our behalf.</li>
-          <li>We may disclose your information if we believe we are required to do so by law, or to comply
-          with a court order, judicial or other government subpoena, or warrant.</li>
-          <li>We also may disclose your information if we believe doing so is appropriate or necessary to
-          prevent any liability, or fraudulent, abusive, or unlawful uses or to protect Viki and our
-          Services; or any rights, property, or personal safety of Viki or others.</li>
-          <li>In the event that Viki is acquired by or merged with another company or involved in any other
-          business deal (or negotiation of a business deal) involving sale or transfer of all or part of our
-          business or assets, we may transfer or assign your information as part of the transaction.
-          Finally, in the event of insolvency, bankruptcy, or receivership, information may be transferred
-          as a business asset.</li>
-        </ul>
-        <p>We may also share aggregated and anonymized data with our partners, advertisers and other third
-          parties. For example, we may tell studios how many times a particular episode of a television
-          series was watched and by which demographics.
-        </p>
-      </section>
-      <section>
-        <h2 class="bbs mbm mtx pvm">Third Party Advertisers</h2>
-        <p>
-          We permit advertisements to be delivered to you by third party Internet advertising companies
-          (also called&nbsp;ad networks&nbsp;or&nbsp;network advertisers). These companies may use cookies, Web beacons,
-          platform device identifiers, software agents, and other technologies to collect non-personally
-          identifiable information about your visits over time on our Service and across other websites to
-          deliver advertisements to you targeted to your interests, measure their effectiveness and
-          personalize advertising content, and to understand the usage and visitation of the Services and
-          the other applications and websites tracked by these advertising companies. We do not have access
-          to or control over cookies, Web beacons, platform device identifiers, software agents, or other
-          technologies that they may use. We are not responsible for the privacy practices of third party
-          advertisers. You should check the privacy policy of the third party advertiser to determine how it
-          handles information it separately collects from you. In addition, the&nbsp;<a href="http://www.networkadvertising.org/" rel="nofollow">Network
-          Advertising Initiative</a>&nbsp;offers information about some of the Internet advertising companies we may use. To
-          learn about interest based advertising by Tremor visit
-          <a href="http://tremorvideo.com/about-us/privacy/" rel="nofollow">Tremor’s privacy policy</a>. To learn about
-          Apple’s interest based advertising visit
-          <a href="http://www.apple.com/privacy/" rel="nofollow">Apple’s privacy policy</a>.
-        </p>
-      </section>
-      <section>
-        <h2 class="bbs mbm mtx pvm">Security</h2>
-        <p>Viki takes commercially reasonable steps to help protect your Information against loss, misuse
-          and unauthorized access, or disclosure. No company can fully prevent security risks, however. To
-          help protect yourself and your information, choose a unique password for our Services and do not
-          use a password on our Services that you would use on any other website or online service.
-        </p>
-      </section>
-      <section>
-        <h2 class="bbs mbm mtx pvm">Dispute Resolution</h2>
-        <p>
-          If you believe that Viki has not adhered to this Statement, please contact Viki by e-mail
-          at&nbsp;<a href="mailto:compliance@viki.com" title="compliance@viki.com">compliance@viki.com</a>.
-          We will do our best to address your concerns. If you feel that your
-          complaint has been addressed incompletely, we invite you to let us know for further investigation.
-          If you and Viki are unable to reach a resolution to the dispute, you and Viki will settle the
-          dispute exclusively under the rules of the American Arbitration Association
-          (<a href="www.adr.org" no="nofollow">www.adr.org</a>).
-        </p>
-      </section>
-      <section>
-        <h2 class="bbs mbm mtx pvm">Information Choices
-        </h2>
-        <p>You may opt out of receiving promotional emails from Viki by following the instructions in those
-          emails. If you opt out, we may still send you&nbsp;non-promotional&nbsp;emails,&nbsp;such as&nbsp;emails about&nbsp;your
-          accounts or our ongoing business relations. You may also send requests about your personal
-          information, including changes to your contact&nbsp;preferences,&nbsp;changes to or deletions of your
-          information or content you post, and requests to opt-out of sharing your personal information with
-          third parties by emailing
-          <a href="mailto:compliance@viki.com" title="compliance@viki.com">compliance@viki.com</a>.&nbsp;Please note that deletion of your information or
-          content does not ensure complete or comprehensive removal of the content or information posted on
-          the Services.
-        </p>
-        <p>
-          Viki gives you certain choices about how we collect personally identifiable information as
-          described in this Policy. But we may not recognize or respond to your Web browser’s “do not track”
-          signal and other mechanisms that provide consumers the ability to exercise choice regarding the
-          collection of personally identifiable information about an individual consumer’s online activities
-          over time and across third-party Web sites or online services. Most Web browsers are set to accept
-          cookies by default. If you prefer, you can usually choose to set your browser to remove cookies
-          and to reject cookies. If you choose to remove cookies or reject cookies, this could affect
-          certain features or services of our Site including certain opt-out cookies. Cookie management
-          tools provided by your browser usually will not remove Flash cookies. To learn how to manage
-          privacy and storage settings for Flash cookies click here:
-          <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" rel="nofollow">
-            http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a>
-          (or in the EU
-          <a href="http://www.youronlinechoices.com/" rel="nofollow">http://www.youronlinechoices.com/</a>).
-        </p>
-        <p>
-          We encourage you to review the privacy policies of our third party advertisers to learn about your
-          choices about information they collect from you. In addition, the&nbsp;<a href="http://www.networkadvertising.org/" no="nofollow">Network
-          Advertising Initiative offers</a>&nbsp;offers information about some of the Internet advertising companies we may use,
-          including how to opt-out of interest based advertising they deliver. To opt-out of interest based
-          advertising by Tremor visit
-          <a href="http://tremorvideo.com/about-us/privacy/" rel="nofollow">Tremor’s privacy policy</a>. To learn how to opt-out of interest based
-          advertising by Apple visit the
-          <a href="http://support.apple.com/kb/HT4228" rel="nofollow">iAd support page</a>. To learn how to opt out of Flurry Analytics
-          mobile tracking and personalized ads/recommendations from Flurry visit
-          <a href="http://www.flurry.com/privacy-policy.html" rel="nofollow">Flurry’s privacy policy</a>. To
-          opt-out of Google Analytics web tracking you can download
-          <a href="https://tools.google.com/dlpage/gaoptout/" rel="nofollow">Google Analytics Opt-out
-            Browser Add-on</a>.
-        </p>
-      </section>
-      <section>
-        <h2 class="bbs mbm mtx pvm">Changes and Updates to this Privacy Policy</h2>
-        <p>From time to time, we may revise the Privacy Policy. To help you stay current of any changes, we
-          note the date the Privacy Policy was last updated above.
-        </p>
-      </section>
-      <section>
-        <h2 class="bbs mbm mtx pvm">Viki Contact Information</h2>
-        <p>
-          Please contact Viki with any questions or comments about this Privacy Policy, your Information,
-          our third-party disclosure practices, or your consent choices via&nbsp;<a href="mailto:compliance@viki.com" title="compliance@viki.com">compliance@viki.com</a>. You can
-          also request access to or that we correct or delete your personal information at any time by
-          emailing&nbsp;<a href="mailto:compliance@viki.com" title="compliance@viki.com">compliance@viki.com</a>.
-        </p>
-      </section>
-    </article>
-  </div>
-
-  <div class="unit size7 offset1">
-    <aside class="mlm mtx">
-      <div class="mod mod-well">
-        <h3 class="mtn">Viki Contact Information</h3>
-        <p>If you have any questions or comments about this Privacy Policy, please contact us at <a href="mailto:compliance@viki.com" title="compliance@viki.com">compliance@viki.com</a>.</p>
+      <div class="unit size8">
+        <aside class="mtx">
+          <div class="mod mod-well">
+            <h3 class="mtn">Viki Contact Information</h3>
+            <p>Please contact Viki with any questions or comments about this Privacy Policy, your Information, our third-party disclosure practices, or your consent choices via&nbsp;<a href="mailto:compliance@viki.com" title="%{compliance_email}">compliance@viki.com</a>. You can also request access to or that we correct or delete your personal information at any time by emailing&nbsp;<a href="mailto:compliance@viki.com" title="compliance@viki.com">compliance@viki.com</a>.</p>
+          </div>
+        </aside>
       </div>
-    </aside>
+    </div>
   </div>
 </div>
 
-    </div>
-  </div>
 
-  <footer class="page-footer">
+    <footer class="page-footer">
   <div class="container">
     <div class="social-share pull-left" data-block-track="footerSocial">
       <div class="item fb-item mln">
@@ -740,30 +592,30 @@
       </div>
     </div>
     <ul class="nav-horizontal nav-show-bot pull-right" data-block-track="footerLinks">
-      <li><a href="/apps" title="Viki Apps">Viki Apps</a></li>
-      <li><a href="http://dev.viki.com" title="Developers">Developers</a></li>
-      <li><a href="/zendesk/login" title="Help Center">Help Center</a></li>
-      <li><a href="/press" title="Press">Press</a></li>
-      <li><a href="/partners" title="Partners">Partners</a></li>
-      <li><a href="/jobs" title="Jobs">Jobs</a></li>
-      <li><a href="/networks" title="Networks">Networks</a></li>
-      <li><a href="http://blog.viki.com" title="Blog">Blog</a></li>
-      <li><a href="/about" title="About Us">About Us</a></li>
-      <li><a href="https://www.viki.com/pass?origin=footer">Viki Pass</a></li>
+      <li><a class="muted" href="/apps" title="Viki Apps">Viki Apps</a></li>
+      <li><a class="muted" href="http://dev.viki.com" title="Developer API">Developer API</a></li>
+      <li><a class="muted" href="/zendesk/login" title="Help Center">Help Center</a></li>
+      <li><a class="muted" href="/press" title="Press">Press</a></li>
+      <li><a class="muted" href="/partners" title="Partners">Partners</a></li>
+      <li><a class="muted" href="/jobs" title="Jobs">Jobs</a></li>
+      <li><a class="muted" href="/networks" title="Featured Networks">Featured Networks</a></li>
+      <li><a class="muted" href="http://blog.viki.com" title="Blog">Blog</a></li>
+      <li><a class="muted" href="/about" title="About Us">About Us</a></li>
+      <li><a class="muted" href="https://www.viki.com/pass?origin=footer">Viki Pass</a></li>
     </ul>
   </div>
 </footer>
 
-  <div class="page-colophon" data-block-track="colophon">
+    <div class="page-colophon" data-block-track="colophon">
   <div class="container">
     <div class="pull-left">
-      © 2014 <a href="/" class="muted">Viki Inc</a>. All rights reserved.
+      © 2014 <a class="muted" href="/">Viki Inc</a>. All rights reserved.
     </div>
     <div class="colophon-links mll pull-left" data-block-track="colophonLinks">
-      <a href="/sitemap" class="muted" title="Sitemap">Sitemap</a>
-      <a href="/terms_of_use" class="muted" title="Terms of Use">Terms of Use</a>
-      <a href="/privacy" class="muted" title="Privacy Policy">Privacy Policy</a>
-      <a href="/copyright" class="muted" title="Intellectual Property Policy">Intellectual Property Policy</a>
+      <a class="muted" href="/sitemap" title="Sitemap">Sitemap</a>
+      <a class="muted" href="/terms_of_use" title="Terms of Use">Terms of Use</a>
+      <a class="muted" href="/privacy" title="Privacy Policy">Privacy Policy</a>
+      <a class="muted" href="/copyright" title="Intellectual Property Policy">Intellectual Property Policy</a>
     </div>
 
     <div class="btn-group btn-group-lang pull-right" data-drop-down="invisible" data-block-track="languageSelector">
@@ -776,7 +628,7 @@
       </a>
       <ul data-drop-down-target="1" class="dropdown-menu-lang dropdown-menu-right invisible">
         <li>
-          <a href="/privacy?locale=en" class="first-child" rel="nofollow" title="English">
+          <a class="first-child" href="/privacy?locale=en" rel="nofollow" title="English">
             <i class="img-flag-en"></i> English
 </a>        </li>
         <li>
@@ -787,6 +639,10 @@
           <a href="/privacy?locale=ja" rel="nofollow" title="日本語">
             <i class="img-flag-ja"></i> 日本語
 </a>        </li>
+        <li>
+          <a href="/privacy?locale=fr" rel="nofollow" title="Français">
+            <i class="img-flag-fr"></i> Français
+</a>        </li>
       </ul>
     </div>
   </div>
@@ -794,18 +650,20 @@
 
 
 
-  
+    
+    <div id="flash_messages" class="flash-message-fixed" data-block-track="flashMessages"></div>
+  </div>
 
   <span data-block-track="clientSideLoginForms">
-    <form accept-charset="UTF-8" action="/auth_clientside" id="clientsideLoginForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+    <form accept-charset="UTF-8" action="/auth_clientside" id="clientsideLoginForm" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
       <input id="clientside_login_token" name="clientside_login_token" type="hidden">
       <input id="clientside_login_type" name="clientside_login_type" type="hidden">
 </form>
-    <form accept-charset="UTF-8" action="/auth_facebook" id="loginFbForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+    <form accept-charset="UTF-8" action="/auth_facebook" id="loginFbForm" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
       <input id="facebook_token" name="facebook_token" type="hidden">
 </form>  </span>
 
-  <form accept-charset="UTF-8" action="/auth_google_plus" id="loginGoogleForm" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+  <form accept-charset="UTF-8" action="/auth_google_plus" id="loginGoogleForm" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
     <input id="google_token" name="google_token" type="hidden">
 </form>
   <div id="modal-backdrop" class="invisible"></div>
@@ -816,23 +674,51 @@
 
   <div id="fb-root"></div>
 
-  <a href="#" id="trigger" data-modal-action="close" data-modal="data-modal-mobile-banner" class="hidden" data-block-track="modalClose"></a>
-<div id="data-modal-mobile-banner" class="modal modal-mobile-banner invisible" data-block-track="mobileModal">
-  <div class="modal-body align-center">
-    <h3 class="modal-title">Viki on the go</h3>
-    <p class="modal-desc">Get the Viki mobile application on your device for a better experience.</p>
-    <a href="#" class="btn btn-primary btn-block btn-download-app" data-mobile-download="1">Download App</a>
-    <div class="deepLink close-link hidden">Already installed the app? <a href="#" class="deepLink appPlay">Play on Viki App</a></div>
-    <div class="modal-app-icons"></div>
-    <a href="#" class="close-link" data-mobile-browse="1">Or continue browsing</a>
+  <!-- modern browsers: Webkit, IE9+, Firefox 17+ Firefox, Tablet 14+, Opera 12+ -->
+<a href="#" class="hidden" data-modal="data-modal-browser" data-modal-templ="modal_browser" data-modal-init="[&quot;modals&quot;]" data-block-track="modalClose"></a>
+<div id="data-modal-browser" class="modal modal-browser invisible"></div>
+<a href="#" data-modal="data-modal-browser" class="hidden" data-block-track="modalClose"></a>
+<div id="data-modal-browser" class="modal modal-browser invisible" data-block-track="browserModal">
+  <div class="modal-header">
+    <h3>Viki doesn't support your browser anymore!</h3>
+    <a href="#" class="modal-close" data-modal-action="close"><i class="icon-x"></i></a>
+  </div>
+  <div class="modal-body">
+    <p class="delta mtn mbx">To get the best possible experience on Viki, we recommend that you upgrade your browser. Please use one of these supported browsers:</p>
+    <ul class="nav-horizontal unsupported-browsers align-center">
+      <li>
+        <a href="http://www.google.com/chrome" title="Google Chrome" target="_blank">
+          <span class="browser-image-chrome"></span>
+          <span class="browser-title">Google Chrome</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.firefox.com/" title="Mozilla Firefox" target="_blank">
+          <span class="browser-image-firefox"></span>
+          <span class="browser-title">Mozilla Firefox</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://windows.microsoft.com/ie" class="Internet Explorer" target="_blank">
+          <span class="browser-image-ie"></span>
+          <span class="browser-title">Internet Explorer</span>
+        </a>
+      </li>
+      <li>
+        <a href="http://www.apple.com/safari/" class="Safari" target="_blank">
+          <span class="browser-image-safari"></span>
+          <span class="browser-title">Safari</span>
+        </a>
+      </li>
+    </ul>
   </div>
 </div>
 
   <a href="#" class="hidden" data-modal="data-modal-register" data-modal-templ="modal_register" data-modal-init="[&quot;fbConnect&quot;,&quot;analytics&quot;,&quot;modals&quot;]" data-block-track="modalClose"></a>
-<div id="data-modal-register" class="modal modal-accented modal-register invisible"></div>
+<div id="data-modal-register" class="modal modal-register invisible"></div>
 
   <a href="#" data-modal="data-modal-favorite" class="hidden" data-block-track="modalClose"></a>
-<div id="data-modal-favorite" class="modal modal-accented modal-favorite invisible" data-block-track="favoriteModal">
+<div id="data-modal-favorite" class="modal modal-favorite invisible" data-block-track="favoriteModal">
   <div class="modal-body align-center">
     <h2 class="modal-heading mbx">Want to favorite this?</h2>
     <h3 class="modal-title mbx">Sign up to create a collection of your favorite shows to watch again. It's easy and FREE!</h3>
@@ -840,8 +726,8 @@
   <a href="#" class="btn btn-facebook btn-large track-ga-event" data-fb-login="1" data-category="modalRegister" data-action="facebook">
     <i class="icon-facebook"></i> Facebook
   </a>
-  <a href="#" class="btn btn-google btn-large track-ga-event" data-google-login="1" data-category="modalRegister" data-action="google">
-    <i class="icon-google"></i> Google+
+  <a href="#" class="btn btn-google btn-large track-ga-event googleLoginBtn" data-google-login="1" data-category="modalRegister" data-action="google">
+    <i class="icon-google"></i> Google
   </a>
   <a href="/sign_up" class="btn btn-email btn-primary btn-large btn-primary-contour track-ga-event" data-category="modalRegister" data-action="sign_up">
     Email
@@ -849,8 +735,8 @@
 </div>
 <p class="align-center mts">
   Already have an account?
-  <a href="/sign_in" title="Login here" class="track-ga-event" data-category="modalRegister" data-action="sign_in">
-    Login here
+  <a href="/sign_in" title="Sign in here" class="track-ga-event" data-category="modalRegister" data-action="sign_in">
+    Sign in here
   </a>
 </p>
 
@@ -875,11 +761,11 @@
 </div>
 
   <a href="#" data-modal="data-modal-vikipass-start" class="hidden" data-block-track="modalVikipassStartOpen"></a>
-<div id="data-modal-vikipass-start" class="modal modal-accented modal-vikipass-start invisible" data-block-track="modalVikipassStart">
+<div id="data-modal-vikipass-start" class="modal modal-vikipass-start invisible" data-block-track="modalVikipassStart">
   <div class="modal-body align-center">
     <h1 class="modal-heading mbx mtn">Congratulations!</h1>
     <h2 class="modal-title">Enjoy 3 days without ads</h2>
-    <p class="modal-desc">Compliments of Viki, enjoy your first three days with no ads and HD video.</p>
+    <p class="modal-desc">Compliments of Viki, enjoy your first three days with no ads</p>
     <p>NO ADS • HD • EXCLUSIVES AND MORE</p>
     <a href="#" class="btn btn-large btn-wide btn-firm track-ga-event" data-category="modalVikipassStart" data-action="close" data-modal-action="close" rel="no-follow">Start Now!</a>
     <a href="#" title="Close" class="modal-close track-ga-event" data-category="modalVikipassStart" data-action="close" data-modal-action="close" rel="no-follow">
@@ -891,14 +777,14 @@
 </div>
 
   <a href="#" data-modal="data-modal-vikipass-end" class="hidden" data-block-track="modalVikipassEndOpen"></a>
-<div id="data-modal-vikipass-end" class="modal modal-accented modal-vikipass-end invisible" data-block-track="modalVikipassEnd">
+<div id="data-modal-vikipass-end" class="modal modal-vikipass-end invisible" data-block-track="modalVikipassEnd">
   <div class="modal-body align-center">
     <h1 class="modal-heading mbx mtn">Hey!</h1>
     <h2 class="modal-title">Your ad-free 3 days is over</h2>
     <h2 class="modal-desc">Upgrade to Viki Pass to continue watching without ads. Sign up for a 7-day free trial below.</h2>
     <p>NO ADS • HD • EXCLUSIVES AND MORE</p>
     <div class="modal-action pbx">
-      <a href="https://www.viki.com/plans/5p?origin=modal_vikipass_end" class="btn btn-large btn-wide btn-firm track-ga-event" data-category="modal-vikipass-end">Upgrade to Viki Pass</a>
+      <a class="btn btn-large btn-wide btn-firm track-ga-event" data-category="modal-vikipass-end" href="https://www.viki.com/plans/5p?origin=modal_vikipass_end">Upgrade to Viki Pass</a>
     </div>
     <a href="#" title="Close" class="modal-close track-ga-event" data-category="modalVikipassEnd" data-action="close" data-modal-action="close" rel="no-follow">
       <i class="icon-x"></i>
@@ -909,7 +795,7 @@
 </div>
 
   <a href="#" data-modal="data-modal-qc-vikipass" class="hidden" data-block-track="modalQCVikipassShow"></a>
-<div id="data-modal-qc-vikipass" class="modal modal-accented modal-qc-vikipass invisible" data-block-track="modalQCVikipass">
+<div id="data-modal-qc-vikipass" class="modal modal-qc-vikipass invisible" data-block-track="modalQCVikipass">
   <div class="modal-body align-center">
     <h2 class="modal-heading">We love our QCs!</h2>
     <h3 class="modal-title mbx">We've upgraded your account to Viki Pass, the new ad-free, HD viewing experience. Thank you &amp; stay awesome :)</h3>
@@ -926,8 +812,32 @@
   </div>
 </div>
 
+  <script type="text/javascript">
+  
+  var disqus_config = function () {
+    this.language = 'en'
+  };
+</script>
 
-  <script crossorigin="anonymous" src="//0.viki.io/a/application-6e615974d99cfa1101838aa0f035c890.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  window.countryCode = 'US';
+  raynor.session.signed_in = false;
+  raynor.session.content_lang = {"code":"en","name":"English · English"};
+  raynor.session.can_manage = false;
+  raynor.session.can_manage_team = false;
+
+</script>
+
+
+  <script crossorigin="anonymous" src="https://1.viki.io/a/application-729b8f161e50c997e98b7b47e0f56937.js"></script>
+<script>
+//<![CDATA[
+  if(window.raynor.init === undefined) {
+    _gaq.push(['_trackEvent', 'corsError', 'not_loaded_application_'+ window.vikiGeoCode, window.location.href]);
+  }
+
+//]]>
+</script>
   <script type="text/javascript">
   window.rootUrl = 'http://www.viki.com/';
   window.sslRootUrl = 'https://www.viki.com';
@@ -935,15 +845,13 @@
   window.sessionUrl = 'https://api.viki.io/v5/sessions.json?app=100000a';
   I18n.defaultLocale = 'en';
   I18n.locale = 'en';
+  I18n.available_locales = '[:en, :es, :fr, :ja]';
   window.user_locale = 'en';
-  window.appVersion = '7709.be23a284dfdf850f2f9a5f4d65dc57941914331c';
+  window.appVersion = '9348.fe5b66b601fd4ffa2b6a4d12b9b1e92ba88ecbba';
   window.appId = '100000a';
   window.cur_a = "static_pages_privacy";
   window.rakutenOpenIDConsumer = "viki01";
-  
-  var disqus_config = function () {
-    this.language = 'en'
-  };
+
   Viki.apiURL = '//api.viki.io/v4/';
 
   window.experimentURL = 'https://turing.viki.io/v4/settings.json';
@@ -954,15 +862,6 @@
   window.vpExperimentStop = 1426669200;
   raynor.init();
 </script>
-<script type="text/javascript">
-  window.countryCode = 'US';
-  raynor.session.signed_in = false;
-  raynor.session.content_lang = {"code":"en","name":"English · English"};
-  raynor.session.can_manage = false;
-  raynor.session.can_manage_team = false;
-
-</script>
-
 
 <script type="text/javascript">
   if (raynor.session.user_token){
@@ -1001,7 +900,45 @@
     }
   </script>
 
+
+  <script type="text/javascript">
+  (function (w, d) {
+    var a = function () {
+      var b = d.createElement('script');
+      b.type = 'text/javascript';
+      if (undefined !== b.setAttribute) {
+        b.setAttribute('async', 'async');
+      }
+      b.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' :
+        'radar.cedexis.com/') + '01-14613-radar10.min.js';
+      d.body.appendChild(b);
+    };
+    if (w.addEventListener) {
+      w.addEventListener('load', a, false);
+    }
+    else if (w.attachEvent) {
+      w.attachEvent('onload', a);
+    }
+  }(window, document));
+</script>
+
   
+  <!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "18767437" });
+  (function () {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=18767437&cv=2.0&cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
 
 
-</body></html>
+
+<script type="text/javascript" async="async" src="//s3.amazonaws.com/cdx-radar/01-14613-radar10.min.js"></script></body></html>
