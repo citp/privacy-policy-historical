@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heathrow-airport-guide.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000333id_/http%3A//www.fubra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heathrow-airport-guide.co.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227151958id_/http%3A//www.fubra.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fubra
 
@@ -6,7 +6,7 @@
 
 Fubra run a network of websites, and this privacy policy applies across them all. At Fubra we recognise the importance of your privacy, so this policy outlines the data we collect, how we use it and how we safeguard your information.
 
-Fubra may be required to revise this privacy policy in the future to comply with any applicable European regulations, in order to utilise new technologies or to improve your user experience, so please check back periodically.
+Fubra may revise this privacy policy in the future to comply with any applicable European regulations, in order to utilise new technologies, to adapt to changing business strategy or to improve your user experience, so please check back periodically.
 
 * * *
 
@@ -14,7 +14,7 @@ Fubra may be required to revise this privacy policy in the future to comply with
 
 Fubra is responsible for the personal data of millions of web users, and as such we take privacy very seriously. This page outlines the principles behind our privacy policy, and explains how and why we use your information.
 
-T.R.U.S.T is an ancronym for Transparency, Regulations, User control, Secure and Temporary. These are the five principles we adhere to so that you can be sure we are really looking after your data. We hope through good practice we can gain, and more importantly keep, your trust in our services.
+T.R.U.S.T is an acronym for Transparency, Regulations, User control, Secure and Temporary. These are the five principles we adhere to so that you can be sure we are really looking after your data. We hope through good practice we can gain, and more importantly keep, your trust in our services.
 
 ### Transparency
 
@@ -22,7 +22,7 @@ We believe transparency is where all good data retention policies start. Every p
 
 ### Regulations
 
-As a company we are registered by law with the Data Protection Commissioner in the UK under number Z5193400. We also closely monitor other voluntary programmes that help improve the delivery of our privacy policies such as P3P.
+As a company we are registered by law with the Data Protection Commissioner in the UK under number Z5193400. 
 
 ### User Control
 
@@ -57,7 +57,7 @@ If we have data that is no longer needed, we delete it. We only keep data as lon
 
   * When you sign up to one of our sites, a Fubra Passport account is opened for you – please see below for an explanation of the Fubra Passport.
   * We collect a small amount of personal information when you sign up to any of our sites. Your information will be stored confidentially by us and will only be used in order to provide you with access to our products, services and information that we believe will interest you.
-  * Your personal details will never be passed onto any other companies or third parties, including affiliates, and will never be added to any third party mailing lists or databases unless you specifically opt for this to happen.
+  * Your personal details will never be passed on to any third parties, and will never be added to any third party mailing lists or databases unless you specifically opt for this to happen.
   * We may use information about our users in statistical aggregate form. This is non-personal information and simply refers to details such as number of registrations, traffic patterns and site user trends.
   * If you register for our alerts service on any of our sites, your preferences, for example your location, are logged in order to update you with the most relevant information.
 
