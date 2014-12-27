@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021529id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227103822id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
 
 # MyShopping.com.au Privacy Policy
 
