@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2014-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140511221933id_/http%3A//www.easyclosets.com/customer-service/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227122335id_/http%3A//www.easyclosets.com/customer-service/policies) for the most accurate reproduction.*
 
 # EasyClosets Policies | EasyClosets
 
@@ -21,17 +21,9 @@ We stand behind our quality craftsmanship and proudly offer a Limited Lifetime W
   
 
 
-### Privacy Policy
-
-When you create an account you will be prompted to enter personal information including: name, address, phone number, etc. The information we collect when you create an account allows us to ensure prompt delivery, and to improve our content delivery. EasyClosets does not share names, postal addresses and demographic information with any other company. All information is kept strictly confidential and internal to EasyClosets.   
-EasyClosets uses a cookie, a small file stored on your computer, to allow you to store items in your shopping basket and design portfolio and retrieve them when you re-visit our web site. The cookie, by itself, does not tell us (or anyone else) who you are, your e-mail address, or any other personal information.
-
-  
-
-
 ### Additional Parts Policy
 
-We are happy to sell you additional parts should you decide you want to modify an organization system purchased from our company, (ie: shelves, closet rods, drawers, baskets or hardware). Just call our Post Sales Team at 800-910-0129 option 5 during business hours. We can verify your previous order with your name, invoice number or email address and gladly assist you with your parts order!
+We are happy to sell you additional parts should you decide you want to modify an organization system purchased from our company, (ie: shelves, closet rods, drawers, baskets or hardware). Just call our team at 800-910-0129 option 5 during business hours. We can verify your previous order with your name, invoice number or email address and gladly assist you with your parts order!
 
   
 
@@ -47,9 +39,20 @@ A Return Material Authorization (RMA) must accompany all returns. Please call 1-
   
 
 
+### Privacy Policy
+
+When you create an account or request information or services you will be prompted to enter personal information such as your name, address, phone number, email address, etc. The information we collect allows us to ensure prompt delivery, and to improve our content delivery. EasyClosets does not share names, addresses or demographic information with any other company. All information is kept strictly confidential and internal to EasyClosets.
+
+EasyClosets uses a cookie, a small file stored on your computer, to allow you to store items in your shopping basket and design portfolio and retrieve them when you re-visit our web site. The cookie, by itself, does not tell us (or anyone else) who you are, your e-mail address, or any other personal information.
+
+You may unsubscribe from promotional emails or newsletters from EasyClosets at any time by clicking the designated link at the bottom of each email you may receive or by [emailing us.](mailto:updates@easyclosets.com)
+
+  
+
+
 ### Security Statement
 
-At EasyClosets we take the privacy and security concerns consumers have when using the Internet very seriously. We want to make your experience at EasyClosets a pleasant one. To accomplish that goal, in addition to creating a web site that has volumes of easily-navigable and current content, we also utilize secure technology to prevent any unauthorized access to your information and we pledge to not share any information you provide to us with anyone outside of EasyClosets.
+At EasyClosets, we take the privacy and security concerns consumers have when using the internet very seriously. We want to make your experience at EasyClosets a pleasant one. To accomplish that goal, we utilize secure technology to prevent any unauthorized access to your information and we pledge to not share any information you provide to us with anyone outside of EasyClosets.
 
  **Secure Transaction Security**  
 EasyClosets uses secure socket layer (SSL) technology to keep your personal information safe. All of your ordering information (name, address and credit card number) is encrypted for maximum security. This prevents anyone from reading any of your information as it travels to our ordering system. To protect you even further, EasyClosets does not retain any credit card numbers within our ordering system. Approval is immediate and we do not add your credit card number to any of our databases. This forces you to re-enter your credit card number when you make a future purchase, but it also prevents anyone from gaining access to your information. 
