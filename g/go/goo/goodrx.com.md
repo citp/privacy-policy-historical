@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodrx.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407152538id_/http%3A//www.goodrx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodrx.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227214155id_/http%3A//www.goodrx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoodRx
 
@@ -41,7 +41,7 @@ We use your email address only to send you price alerts or to send you coupons b
 We use location information, the drug information you view while on our Site, the referrer information and, if you are a registered user of the Site, your account information in order to provide you with better, faster service, particularly for recurring visits. We also use referrer information to generate group numbers on coupons for tracking. 
 
   * **Information Received From Pharmacy Benefit Managers.**  
-We de-identify information we receive from Pharmacy Benefit Managers, in order to remove personally identifiable information including your name and date of birth. We may retain the non-personally identifiable transaction information we receive for analysis. 
+We de-identify information we receive from Pharmacy Benefit Managers, in order to remove personally identifiable information including your name and date of birth. We may retain the non-personally identifiable transaction information we receive for analysis. GoodRx may share aggregated, de-identified data that does not identify you with partners in a variety of ways, for instance by providing reports breaking down usage by geography. When we provide this information, we take legal and technical measures to ensure that the data does not identify you and cannot be associated back to you. 
 
 
 
@@ -94,8 +94,8 @@ We may make changes in our privacy policy from time to time. When we do so, we w
 We would like to receive your comments and questions about this Privacy Policy and any other matter you have regarding our Site. Please address comments or questions to us via email or postal mail. 
 
 GoodRx, Inc.  
-501 Santa Monica Blvd.  
-Suite 403  
+225 Santa Monica Blvd.  
+5th Floor  
 Santa Monica, CA, 90401  
 USA
 
@@ -106,4 +106,6 @@ USA
 Your use of our Site, including any dispute concerning privacy, is subject to this Privacy Policy and the Terms of Use posted on our Site. BY USING OUR SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND TERMS OF USE. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
 
 **To Opt-Out Of Future Communications:**  
-If you do not want to receive further communication from GoodRx you may contact us at the address or email address above. 
+If you do not want to receive further communication from GoodRx, please visit the following link. 
+
+[http://www.goodrx.com/opt-out](https://web.archive.org/opt-out)
