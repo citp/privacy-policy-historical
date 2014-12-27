@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rediff.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618124449id_/http%3A//www.rediff.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rediff.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165544id_/http%3A//www.rediff.com/w3c/policy.html) for the most accurate reproduction.*
 
 # Welcome to rediff.com
 
