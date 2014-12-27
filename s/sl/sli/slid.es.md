@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slid.es privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407012504id_/http%3A//slid.es/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slid.es privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227180249id_/http%3A//slides.com/privacy) for the most accurate reproduction.*
 
 # Slides
 
@@ -10,15 +10,17 @@ Slides is owned and operated by Whim, LLC. It is Whim's policy to respect your p
 
 Like most website operators, Slides collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Slides’ purpose in collecting non-personally identifying information is to better understand how Slides’ visitors use its website. From time to time, Slides may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
 
+Additionally, paid users of our service may optionally collect non-personally-identifying information about your use of the pages they have created and made available with our service. These pages include both a paid user's profile and decks they have published with the service. The purpose of collecting this information is so that our paid users can better understand how the content they have created with the service is being used. No personally-identifying information is shared with any of our paid users. 
+
 Slides also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. Slides only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below. 
 
 #### Gathering of Personally-Identifying Information
 
-Certain visitors to Slid.es in ways that require Slides to gather personally-identifying information. The amount and type of information that Slides gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at slid.es to provide a username and email address. Those who engage in transactions with Slides – by purchasing a Pro account, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Slides collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Slides. Slides does not store the credit card details that are entered at the time of purchase, that information is sent to Stripe (our payment processor) and we only store the necessary references to your account such that we can securely interact with the Stripe API. Slides does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
+Certain visitors to Slides in ways that require Slides to gather personally-identifying information. The amount and type of information that Slides gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at Slides to provide a username and email address. Those who engage in transactions with Slides – by purchasing a Pro account, for example – are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Slides collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Slides. Slides does not store the credit card details that are entered at the time of purchase, that information is sent to Stripe (our payment processor) and we only store the necessary references to your account such that we can securely interact with the Stripe API. Slides does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities. 
 
 #### Aggregated Statistics
 
-Slides may collect statistics about the behavior of visitors to its websites. For instance, Slides may monitor the most popular decks on the Slid.es. Slides may display this information publicly or provide it to others. However, Slides does not disclose personally-identifying information other than as described below. 
+Slides may collect statistics about the behavior of visitors to its websites. For instance, Slides may monitor the most popular decks on the Slides website. Slides may display this information publicly or provide it to others. However, Slides does not disclose personally-identifying information other than as described below. 
 
 #### Protection of Certain Personally-Identifying Information
 
@@ -40,6 +42,7 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Although most changes are likely to be minor, Slides may change its Privacy Policy from time to time, and in Slides’ sole discretion. Slides encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
 
-Slides can be reached at [support@slid.es](mailto:support@slid.es?subject=Terms+of+Service). 
+Slides can be reached at [support@slides.com](mailto:support@slides.com?subject=Terms+of+Service). 
 
-Effective as of 4-25-2013
+Effective as of 4-25-2013  
+Updated 10-29-2014 
