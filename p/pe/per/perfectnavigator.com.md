@@ -1,47 +1,86 @@
-> *The following text is extracted and transformed from the perfectnavigator.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140301id_/http%3A//www.strategicdatacorp.com/sdc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectnavigator.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227065454id_/http%3A//currentaffair.com/privacy) for the most accurate reproduction.*
 
-# company-rkb
+# CurrentAffair | The Latest Celebrity Gossip, Rumors & Entertainment News, Scandals & Break-Ups
 
-**Privacy Statement**
+This policy describes how and why Online Business Services S.A. collects non-personally identifiable data from users and website visitors to http://WWW.CURRENTAFFAIR.COM, and how that data will be used. Online Business Services S.A. is committed to respecting the privacy of non-personal identifiable data gathered.
 
-Strategic Data Corp (SDC) has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses the information gathering and dissemination practices for its Web site: www.strategicdatacorp.com. 
+Online Business Services S.A. s Privacy Policy is incorporated into and subject to the CurrentAffair.com Terms of Use. Each time that you access or use the Site you signify that you have read, understand, and agree to be bound by the Terms of Use, and this Privacy Policy. If you do not agree to the Terms of Use and this Privacy Policy, you must discontinue using our Services.
 
-**Information collected and how it’s used**
+### Information That Is Collected 
 
-SDC uses your IP address to help diagnose problems with its server, and to administer the Web site. 
+When you provide us with contact or other information in connection with a particular activity, product or service, including your email address or telephone number, you expressly consent to our communicating with you about our products or services using the information you provided to us. You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you. This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving.
 
-SDC’s "Contact Us" form requires visitors to provide contact information such as name, e-mail, mailing address, and phone. This information is used to respond to your requests for information. SDC, its affiliates or partners may use this information to contact you directly, if requested. SDC saves this contact information in a visitor database to use for its own internal purposes, or the internal purposes of its affiliates or partners. SDC will not provide this information to parties outside of SDC affiliates or partners. 
+### Information you provide to us 
 
-There is a field on the "Contact Us" form that allows visitors to designate whether they would like SDC, its affiliates or partners to mail them information about the company or products in the future. If you place a checkmark in this field, SDC may send you company announcements or product information via e-mail or US mail. SDC will not provide this information to parties other than SDC affiliates or partners. 
+In order to provide the Services, we collect the following types of information from you:
 
-SDC’s site also has an "Opt-in" e-mail function on certain Web site pages. If you type your e-mail address into the field and click "Submit," SDC, its affiliates or partners may send you company announcements or product information. These e-mails will provide information about how recipients can remove themselves from the mailing list. Other opt-out methods are provided below under "Choice/Opt-out." E-mail addresses collected through the "Opt-in" function on the Web site will not be provided to parties other than SDC’s affiliates or partners. 
+Personally Identifiable Information (user-provided information)
 
-**Links to other sites**
+Personally identifiable information is any information that may be used to identify or contact you personally, such as your name, email address, gender, birthdates, phone number, postal or other physical address. If you register for an account, then we may collect certain personally identifiable information during the registration process, including your name, email address. You may also provide personal information to us when participating in a survey or poll or when you post information via our social networking platform. Whether or not to provide this information is your choice; however, certain personally identifiable information is required to access and use some of the Services.
 
-This site contains links to other sites. SDC, its affiliates and partners are not responsible for the privacy practices or the content of such Web sites. 
+Non-Personal Information/ Anonymous Data (automatically collected information which doesn’t identify the user).
 
-## Security
+Non-personal/anonymous data is any data or information that does not personally identify you. We obtain non-personal information about you from information that you provide to us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you use our Services and may include such information as your Internet Protocol address, your browser, recent search history, and your activity on our websites or website of our partners .
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under SDC’s control. However, no security measure is perfect, and SDC is not responsible for any circumvention of reasonable security measures by unauthorized third parties.
+We use non-personally identifiable data collected from users and website visitors in order to:
 
-## Choice/Opt-Out
+  1. To improve the quality and functionality of the website, enhance your experience, create new services (including customized services), change/cancel existing content and services, or for other internal and statistical purposes.
+  2. To present you relevant content, marketing materials and advertisements, by analyzing your interests from the web pages you visit and online services that you use.
+  3. To provide you with support and handle inquires.
+  4. To enforce our terms of use.
+  5. To comply with any applicable law and assist law enforcement agencies as required.
+  6. To conduct surveys and market researches.
+  7. We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
+  8. To provide you with transactional communication. We may send you notices from time to time relating to your account, your subscriptions and other products and services you have requested or in which you are currently enrolled. These may include order confirmations, renewal notices, invoices or customer service notifications.
+  9. To provide you with Email newsletters-We may send you our email newsletter(s). If you wish to unsubscribe from our email newsletter(s), simply email unsubscribe to [unsubscribe@CurrentAffair.com](mailto:unsubscribe@currentaffair.com)
+  10. To provide you with Email marketing offers, reader surveys and other promotional material.
 
-SDC provides you with the opportunity to opt-out of receiving communications from SDC, its affiliates and partners on the "Contact Us" form. 
 
-If you have previously provided contact information to SDC and wish to remove this information from SDC’s visitor database, please send an e-mail to this effect to: [Privacy@strategicdatacorp.com](mailto:Privacy@strategicdatacorp.com). 
 
-## Correct/Update
+### Information You Disclose Publicly 
 
-If you would like to change or modify information you previously provided, please send an e-mail to this effect to: [Privacy@strategicdatacorp.com](mailto:Privacy@strategicdatacorp.com). 
+The Site   may permit you to submit photographs, user profiles, writings, music, video, questions, comments or other content, which may include Personal Information . We or others may reproduce, publish, distribute or otherwise use this Content in any media or format (currently existing or hereafter developed). Others may have access to this Content and may have the ability to share it with third parties. Please think carefully before deciding what information you share, including Personal Information, in connection with your Personal Content. Please note that we do not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload onto the Site. We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Site . For the full terms and conditions regarding Personal Content you submit to the Site, please review our Terms of Use. 
 
-#### Data protection 
+### Third Party Content and Links To Third Party Sites 
 
-SDC takes privacy very seriously, and uses reasonable efforts to keep personal information collected on its site confidential. SDC does not grant permission to affiliates or partners to use contact information in a manner other than provided for in this privacy statement. 
+The Site may contain content that is supplied by a third party, and those third parties may collect Site   usage information when you browse web pages from the Site or content served to your browser. In addition, when you are on the Site you may be directed to other web sites that are operated and controlled by third parties that we do not control. We are not responsible for the privacy practices employed by any of these third parties or third party web sites. For example, if you “click” on a banner advertisement, the “click” may take you off the Site   onto a different web site. These other web sites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. We encourage you to note when you leave our Site   and to read the privacy statements of all third party web sites before submitting any Personal Information to those sites.
 
-## Contacting the Web Site
+### Cookies , Web Beacons and Log Files 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact:
+Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors
 
-Marketing Department Strategic Data Corp. 1821 Wilshire Boulevard Suite 600 Santa Monica, CA 90403 _[Privacy@strategicdatacorp.com](mailto:Privacy@strategicdatacorp.com)_
+**_Cookies_** : When you use our Services, we may send one or more “cookies” (small data files) to your computer to uniquely identify your browser and enable us to help you log in faster and generally enhance your navigation through the Services. Cookies save you time, for example, if you personalize a web page, or navigate within the Services, a cookie recalls your specific information on subsequent visits. A cookie file can contain information such as a user ID that the website uses to track the pages you’ve visited, but the only personal information a cookie can contain is information you supply yourself. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to use the Services. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. In addition to enhancing the user experience, we may use cookies to track traffic user traffic patterns. We do this to determine the usefulness and efficiency of our Services and its various pages, and to analyze traffic patterns, in order to constantly improve the Services and better serve our customers.
 
-[](http://www.the-dma.org/logotext.html)
+**_Web Beacons/Pixel Tracking_** : Online Business Services S.A. may employ a common technique usually referred to as “pixel tracking” to measure the effectiveness of marketing and advertisements, as well as compile aggregate usage statistics. Pixel tracking, which may be used in connection with advertisements on other sites, on our website or in e-mail messages, involves the use of pixel tags (also known as “clear gifs,” “Web beacons” or “1-by-1 gifs”) that are not visible to the user of the site and consist of a few lines of computer coding. For example, if you visit our website from an advertisement on another site, the pixel tag will reference the cookie you received when you clicked on the advertisement. The pixel tag also may register this activity with a business partner to allow us to count the number of times or when an advertisement is accessed. This data is collected for use in our marketing and research. Personally identifiable information about you is not collected by pixel tracking, nor is any tracking information generated from the pixel tag allowed to be used for any other purpose other than to report website activity to us
+
+**_Log Files_** : Log file information is automatically reported by your browser each time you access a web page. When you use the Services, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
+
+If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.
+
+In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.
+
+### Age Limit 
+
+To use this website you must be at least 18 years of age. We never knowingly collect or maintain information at or on our website from those we actually know are under 18. If you are not 18 years of age you must obtain written consent from an adult who is at least 18 years of age before using this website.
+
+### Security 
+
+We have taken every reasonable step to safeguard and to help prevent the loss, misuse and alteration of information under our control. However, no data transmission over the Internet or electronic storage of information can be guaranteed to be 100% secure and we cannot anticipate all potential misuse of data over the Internet. Please note that we cannot ensure the security of any information you transmit to us, and your use of the Site indicates that you are willing to assume this risk.
+
+### Opt-out 
+
+To opt-out from any of our direct promotions, please email [unsubscribe@CurrentAffair.com](mailto:unsubscribe@currentaffair.com)
+
+Current Affair uses third-party online behavioral advertising technologies which include members of the Network Advertising Initiative. You can opt out of behavioral advertising from the advertising networks in the Network Advertising Initiative by [clicking here.](http://www.networkadvertising.org/choices/)
+
+### Changes to Policy 
+
+From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
+
+### Governing Law 
+
+This Privacy Policy is governed by and construed in accordance with the laws of Costa Rica. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of Costa Rica.
+
+### Contact us 
+
+Please direct all questions in connection with this Policy via e-mail to:  **INFO(AT)CURRENTAFFAIR(DOT)COM**.
