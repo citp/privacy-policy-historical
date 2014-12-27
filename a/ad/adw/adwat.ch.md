@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adwat.ch privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617034710id_/http%3A//adwat.ch/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adwat.ch privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227010342id_/http%3A//adwat.ch/privacy.php) for the most accurate reproduction.*
 
 # Adwat.ch | Share Links and Make Money
 
@@ -86,4 +86,4 @@ We cannot withhold data we collect about you, as per The Data Protection Act 199
 
 **8\. Contacting Us**
 
-Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20140617034710id_/http%3A//adwat.ch/contact.php). 
+Please feel free to contact us with queries, requests, or comments you may have about our Privacy Policy. We welcome any communication via our [contact form](https://web.archive.org/web/20141227010342id_/http%3A//adwat.ch/contact.php). 
