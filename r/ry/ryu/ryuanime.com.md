@@ -1,26 +1,35 @@
-> *The following text is extracted and transformed from the ryuanime.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506181547id_/http%3A//ryuanime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryuanime.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227104957id_/http%3A//www.ryuanime.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RYUAnime.com
+# Privacy Policy - RyuAnime - Dubbed Anime / Subbed Anime
 
-Last Updated: February 25, 2011
+**What information do we collect?**
 
-### Introduction
+Protecting the privacy of RyuAnime's visitors is very important to us. We here at RyuAnime are committed to ensuring that your privacy is protected. RyuAnime and its staff will never ask for any personal information (other than, but not limited to, username/email when leaving a comment. You can, however, leave a completely anonymous username/email). 
 
-RYU Anime is committed to protecting your privacy to allow for a safe and secure experience. This privacy policy outlines how information is collected and used. As our content and services constantly evolve we may modify this policy from time to time.
+**Video Disclaimer**
 
-### Information Collection
+No video content is held on our servers and we, along with our staff, are in no way affiliated with the video content. The video content that is displayed originates from online video streaming websites, such as, but not limited to Dailymotion, Yourupload, MyspaceTV, Veoh, Putlocker, etc. 
 
-We may collect information from you in order for you to use our services. This can include, but is not limited to your name, email address, and Internet Protocol address. Aside from your name or chosen nickname, other information will not be publicly available to others. We do not promote nor send spam thus we will not redistribute your information to any third parties.
+**Copyright Infringement**
 
-We may collect cookies from your computer depending on your preferences. Cookies are plain text files that are stored on your computer generally used to serve to your convenience for future visits. This can prevent repeatedly performing tasks such as typing in your name or email address each time by saving this information for future use. You can stop accepting cookies by configuring the settings in your browser, however, you may not be able to fully use the website features.
+_In case of copyright infringement, please directly contact the responsible parties._ RyuAnime operates as an index and database of Anime content found publicly available on the internet, in principle conducting in the same way as any of the large search engines, such as Google, Bing and Yahoo. However, RyuAnime and its staff strongly believe in the protection of intellectual property and would be willing to assist when possible and applicable. If you believe a link should be removed from the website, and have already contacted the responsible parties regarding the video(s), then please contact us directly. 
 
-In addition, third party advertisements may also set and/or read cookies on your computer to collect information about users who view or interact with their advertisements. The general use of this information is for the purpose of reporting website traffic, statistics, advertisement click-throughs, and other activities on the website by using cookies, web beacons, and other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. The actions of such parties and how they use such information is subject to the particular third party's privacy policy. To opt out from such information collection please visit the following link: <http://www.networkadvertising.org/managing/opt_out.asp>.
+Users who upload to the video streaming websites mentioned above agree not to upload illegal content when creating their user accounts. RyuAnime does not accept responsibility for content hosted on third party websites, nor do we upload videos ourselves or encourage others to do so. The videos are streamed directly from the third-party video sharing services. 
 
-### Obligation to Children's Privacy
+**Does RyuAnime use cookies?**
 
-We never collect or maintain information from those who we actually know are under 13 years of age. Such information will be deleted if we become aware that a child under 13 has provided us with personal information.
+As most websites on the internet, yes. For those of you who are unaware, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. RyuAnime use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools for users in the future. 
 
-### How to Contact Us
+**Advertising**
 
-Should you have any questions or concerns regarding our privacy policies, please send us an e-mail: webmaster@ryuanime.com  
+RyuAnime uses third-party advertising companies to serve ads when you visit our website. These companies may compile data (not including any personal information) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy. 
+
+**Changes to our Privacy Policy** RyuAnime reserves the right to make any changes to our Privacy Policy, at any time. If and when we decide to change our privacy policy, we will post those changes on this page, with an update that can be viewed site-wide.
