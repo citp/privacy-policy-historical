@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalsoup.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620025403id_/http%3A//www.1105media.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalsoup.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227061541id_/http%3A//www.1105media.com/privacy.aspx) for the most accurate reproduction.*
 
 # 1105 Media, Inc. - Privacy Policy
 
@@ -24,7 +24,7 @@ It will take up to 10 business days to process your e-mail opt-out request. Plea
 
 If you volunteer a postal address you may receive periodic mailings to relate information about new products, services, and/or upcoming events. We may also provide this information to other carefully selected outside companies for promotional purposes. If you do not wish to receive mailings from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
 
-[_I do not wish to receive any mailings from 1105 Media Inc. or other companies._](https://web.archive.org/web/20140620025403id_/http%3A//www.1105media.com/mailForm.html)
+[_I do not wish to receive any mailings from 1105 Media Inc. or other companies._](https://web.archive.org/web/20141227061541id_/http%3A//www.1105media.com/mailForm.html)
 
 It will take up to 3 months to process your do-not-mail request. Please note that you may receive additional communications from us or other companies after submitting your request if your postal address was selected from our database just prior to receiving and processing your request. 
 
@@ -32,7 +32,7 @@ It will take up to 3 months to process your do-not-mail request. Please note tha
 
 If you volunteer a telephone number you may receive periodic telephone calls about new products, services, and/or upcoming events. We may also provide this information to carefully selected outside companies for promotional purposes. If you do not wish to receive telephone calls from us or other companies, please let us know by clicking on the statement below and following the steps provided, calling us at the above telephone number, or writing to us at the above address.
 
-[I do not wish to receive any telephone calls from 1105 Media Inc. or other companies.](https://web.archive.org/web/20140620025403id_/http%3A//www.1105media.com/callForm.html)
+[I do not wish to receive any telephone calls from 1105 Media Inc. or other companies.](https://web.archive.org/web/20141227061541id_/http%3A//www.1105media.com/callForm.html)
 
 It will take up to 1 month to process your do-not-call request. Please note that you may receive additional communications from us or other companies after submitting your request if your telephone number was selected from our database just prior to receiving and processing your request.
 
@@ -40,7 +40,7 @@ It will take up to 1 month to process your do-not-call request. Please note that
 
 If you volunteer a fax number you may receive promotional faxes on a very limited basis. Only those with whom we have an existing business relationship (such as an established subscription or registration) will receive such faxes. If you do not wish to receive such faxes, please let us know by sending us an e-mail through the e-mail link provided above, writing to us at the above address, or calling us at the above telephone number.
 
-[I do not wish to receive any fax messages from 1105 Media Inc.](https://web.archive.org/web/20140620025403id_/http%3A//www.1105media.com/faxForm.html)
+[I do not wish to receive any fax messages from 1105 Media Inc.](https://web.archive.org/web/20141227061541id_/http%3A//www.1105media.com/faxForm.html)
 
 It will take up to 1 month to process your do-not-fax request. Please note that you may receive additional communications from us after submitting your request if your fax number was selected from our database just prior to receiving and processing your request.
 
