@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617220707id_/http%3A//www.sydneyoperahouse.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydneyoperahouse.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227044857id_/http%3A//www.sydneyoperahouse.com/privacystatement.aspx) for the most accurate reproduction.*
 
-# Sydney Opera House Customer Privacy Statement. - Sydney Opera House
+# Sydney Opera House Customer Privacy Statement - Sydney Opera House
 
 At Sydney Opera House, all our customers are very important to us, and we are committed to protecting all your personal details securely and sensitively, in accordance with the NSW Privacy and Personal Information Protection Act 1998.
 
@@ -16,7 +16,7 @@ Sydney Opera House's Customer Privacy Statement is divided into the following se
   6. Security of personal information
   7. Are there other circumstances where personal information will be given anyone else?
   8. How can you check and update your personal details and preferences?
-  9. What are cookies and how does Sydney Opera House use them?
+  9. What are cookies and how does Sydney Opera House use them and beacons?
   10. Changes to the Privacy Statement
   11. What if I am concerned about a breach of privacy by Sydney Opera House?
 
@@ -89,7 +89,7 @@ Our database is a customer relationship management system which is shared by Syd
 
 When you book tickets, make a donation to Sydney Opera House or otherwise provide us with your personal information, you consent to your name and contact details, which are entered on to the database, being disclosed to the Organisations.
 
-The current Organisations are the Australian Brandenburg Orchestra, the Australian Chamber Orchestra, Bell Shakespeare Company, Opera Australia and Seymour Theatre Centre.
+The current Organisations are the Australian Chamber Orchestra, Bell Shakespeare Company, Opera Australia and Seymour Theatre Centre.
 
 Unless you tell us otherwise (by opting out – see (5) below) you also consent to your name and contact details and other personal performance related information (such as performance and seating preferences, history of attendances and any other performance related information collected for marketing purposes) being shared with and used by the Organisations’, promoters, performing companies, corporate sponsors relating to those events you attend. This enables Sydney Opera House and other third parties to keep you informed of upcoming events and promotions that may be of interest.
 
@@ -121,17 +121,17 @@ You have the right to access and correct your personal information and privacy p
 
  **Telephone:** +61 2 9250 7111 and ask for the Privacy Officer.
 
-**9. What are cookies and how does Sydney Opera House use them?**
+**9. What are cookies and how does Sydney Opera House use them and beacons?**
 
 Sydney Opera House uses session cookies on its internet site.
 
-A session cookie lets us know that you are the same person whenever you are on the website. Therefore if you select a particular performance and place it in the cart, when you go to the Box Office, we will be able to identify the performance you have chosen. Once you have closed down the browser, the cookie is destroyed and no personal information is maintained.
+A session cookie lets us know that you are the same person whenever you are on the website. Therefore if you select a particular performance and place it in the cart, when you go to the Box Office, we will be able to identify the performance you have chosen. Once you have closed down the browser, the cookie is destroyed and no personal information is maintained. If you have downloaded the Sydney Opera House app onto a device, beacons may be used to collect anonymous location data about you whilst you are onsite at the Sydney Opera House. This data will allow us to send you notifications about how to find your way around the Sydney Opera House (e.g. to the closest amenities or to the box office) and keep you informed of promotions running on site at that time. Your permission will be sought before this location data is collected.
 
 **10. Changes to this Privacy Statement**
 
 Sydney Opera House Privacy Statement may change from time to time, particularly when new industry codes are introduced.
 
-This statement was last updated in December 2013.
+This statement was last updated in September 2014.
 
 **11. What if I am concerned about a breach of privacy by Sydney Opera House? **
 
