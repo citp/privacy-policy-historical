@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100116id_/https%3A//www.insightexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpress.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227122610id_/http%3A//www.insightexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InsightExpress
 
-The effective date for this Privacy Policy is November 11, 2011. 
+The effective date for this Privacy Policy is August 15, 2014. 
 
 InsightExpress, LLC (http://www.InsightExpress.com) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [**TRUSTe's Data Collection Program**](http://www.truste.com/privacy-program-requirements/3rd-party-data-collection/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@insightexpress.com. If you are not satisfied with our response you can contact [**TRUSTe here**](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 [](https://privacy.truste.com/privacy-seal/InsightExpress,-LLC/validation?rid=3e59a0ee-d39f-4b0f-a86d-366508a97fe1 "Validate TRUSTe privacy certification")
-
-InsightExpress, LLC complies with the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Information regarding the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks can be found at: [**http://export.gov/safeharbor**](http://export.gov/safeharbor).
 
 **Scope**
 
@@ -129,11 +127,9 @@ If users have questions or concerns regarding this statement, they should first 
 
 ## Visitor/Client Privacy Policy
 
-The effective date for this Privacy Policy is November 11, 2011. 
+The effective date for this Privacy Policy is August 15, 2014. 
 
 InsightExpress, LLC (http://www.InsightExpress.com) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [**TRUSTe's program requirements**](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@insightexpress.com. If you are not satisfied with our response you can contact [**TRUSTe here**](http://watchdog.truste.com/pvr.php?page=complaint). 
-
-InsightExpress, LLC complies with the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union and Switzerland. Information regarding the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks can be found at: [**http://export.gov/safeharbor**](http://export.gov/safeharbor).
 
 **Scope**
 
