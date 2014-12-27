@@ -1,24 +1,21 @@
-> *The following text is extracted and transformed from the divxcentral.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216061106id_/http%3A//www.mypage.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divxcentral.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227064637id_/http%3A//divxcentral.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :Your Free Social,Website, Business and Community Web Page Builder - MyPage.com
+# Privacy • DivXCentral - WEB-DL TV Shows and Movies news
 
-|   
----|---  
-  
-**What This Privacy Policy Covers**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-  * This privacy policy relates to use of the Mypage-tm web site at http://www.mypagenetwork.com/
-  * This privacy policy covers how Mypage-tm (hereafter named 'we') will treat personal information that we collect. Personal information is **your** information and includes identifiers like your name, address, email address, phone number.
-  * We will not send you any junk emails. Furthermore we will not send you any information unless you have specifically requested we do so. An exception to this rule will be the initial email validation when you create a new account.
-  * Children under 13 are not permitted to use the Mypage-tm service, and so this privacy policy makes no provision for children's use of the site.
+Other Third Party ad servers or ad networks may use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, divxcentral.com has no access or control over these cookies that may be used by third party advertisers.
 
+**Collection of Personal Information**
 
+When visiting divxcentral.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information and we don't share any information with companies or advertisers.
 
-**Changes to this Privacy Policy**
+**Links to third party Websites**
 
-Mypage-tm may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your Mypage-tm account or by placing a prominent notice on our site.
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-If you have questions or suggestions you can contact us at:
+**Changes to this Privacy Statement**
 
-[admin@mypage.com](mailto:admin@mypage.com)   
+The contents of this statement may be altered at any time, at our discretion.
 
+If you have any questions regarding our privacy policy then you may contact us at info@divxcentral.com
