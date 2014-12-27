@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the misshaus.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519044913id_/http%3A//www.misshaus.com/ctrl.php%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misshaus.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227200849id_/http%3A//www.misshaus.com/privacy_policy) for the most accurate reproduction.*
 
-# Shop BB Cream, Makeup and Skincare | The Official Missha
+# Privacy Policy | The Official Missha
 
 1.Personal Information  
 MisshaUS.com collects Personal Information in which customers voluntarily submit when registering, such as, but not limited to, a person’s name and email address that is necessary for MisshaUS.com to provide services offered on our site, including prompt delivery.  
-Additionally Personal Information will include mailing address, demographic information, and preferences. All information will be used by MisshaUS.com internally to study consumers’ patterns and trends and to create better site contents, promotions, or other miscellaneous conditions that could aid in serving our customers more efficiently. Election of being added on to our email list will be at the customers’ digression.   
+Additionally Personal Information will include mailing address, demographic information, and preferences. All information will be used by MisshaUS.com internally to study consumers’ patterns and trends and to create better site contents, promotions, or other miscellaneous conditions that could aid in serving our customers more efficiently. Election of being added on to our email list will be at the customers’ discretion.   
 Once a customer elects to be included in our email list and promotional or other events sponsored by MisshaUS.com, we will collect personal information through our registration process and may also collect additional information via outside sources. All such collected information will be used to communicate and share with our customers about current promotion procedures or winning selections, our service updates, special opportunities, and future promotional events. If the customer does not wish to receive these communications, one can simply click on the “UNSUBSCRIBE” button in our email. 
 
 2.How We Protect Personal Information  
