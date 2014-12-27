@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionscope.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627165506id_/http%3A//fashionscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionscope.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227064645id_/http%3A//fashionscope.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy — Fashion Scope
 
 Our team here at Fashion Scope is fully committed to protecting all our users privacy online. By continuing to use this site, you acknowledge that you have read and agree to all terms stated in this policy.
 
