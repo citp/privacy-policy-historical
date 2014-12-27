@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628014005id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227020430id_/http%3A//www.care.com/privacy-policy-p1013.html) for the most accurate reproduction.*
 
 # Privacy Policy - Care.com
 
