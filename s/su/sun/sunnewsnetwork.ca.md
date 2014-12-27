@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnewsnetwork.ca privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628170138id_/http%3A//www.sunnewsnetwork.ca/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnewsnetwork.ca privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227063313id_/http%3A//www.sunnewsnetwork.ca/privacy-policy.html) for the most accurate reproduction.*
 
 # Canada's Home for Hard News and Straight Talk
 
@@ -67,5 +67,17 @@ The Sun News Network uses cookies to monitor traffic, anonymously, on its Web si
 Each visitor is assigned a unique cookie, for a temporary period of less than 24 hours` that allows us to determine the total number of repeat visits to the Sun News Network. 
 
 While the information cannot be used to identify a visitor, cookies provide important data for our marketing department. Indeed, this information enables us to inform our sponsors of the total number of visitors for each of our sites and the length of each visit. In turn, it allows our sponsors to estimate or measure the probable or actual impact of their ads. It also allows us to determine our ad rates. While this information helps our sponsors buy ad space, it does not allow them to identify you individually. 
+
+### Facebook
+
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information from this website and elsewhere on the internet and use that information to provide measurement services and target ads. You can opt-out of the collection and use of information for ad targeting. You may exercise that option [here](http://www.aboutads.info/choices).
+
+### Twitter
+
+We work with Twitter to bring you more useful and interesting advertising content. We may do this based on information that we share with Twitter. We hope that this increases the usefulness of Twitter Ads for you. If you do not want Twitter to tailor ads based on our this information, you can uncheck the box next to "Promoted content" in your [account settings](https://twitter.com/settings/security) at any time.
+
+### Google Adwords
+
+We use Remarketing with Google Adwords. Third-party vendors, including Google, may show our ads on sites across the Internet. We use cookies to optimize ads based on your past visits to our website. To opt-out from Google's remarketing program, please [ edit your Google Ad Settings](https://www.google.com/settings/ads).
 
 We hope that this information has provided you with a better understanding of our strict privacy protection policies. Please note that the Sun News Network reserves the right to modify these policies at any time. Thus, we invite you to periodically consult this section for possible updates and changes. 
