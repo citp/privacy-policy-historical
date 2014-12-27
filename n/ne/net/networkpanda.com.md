@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the networkpanda.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626055715id_/http%3A//www.networkpanda.com/page/privacy-policy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkpanda.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227211746id_/http%3A//www.networkpanda.com/page/privacy-policy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies - Network Panda Web Hosting, cPanel, SSD disks, Softaculous, VPS, Dedicated Servers
 
-  
+## Privacy Policy and Cookies
 
-
-[](https://web.archive.org/livechat.php)
+## Privacy Policy and Cookies
 
 We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit http://www.aboutcookies.org for detailed guidance
 
