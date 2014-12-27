@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628013740id_/http%3A//www.greatschools.org/privacy/%3Fstate%3DGA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227020254id_/http%3A//www.greatschools.org/privacy) for the most accurate reproduction.*
 
 # GreatSchools.org Privacy Statement
 
@@ -12,7 +12,7 @@ We share aggregated demographic information with our partners and sponsors. This
 
 We use third-party vendors to provide services on the website, such as sending email messages to subscribers. The information that a user submits on the site will be provided to our vendor so that we may send GreatSchools communications to users who have 'opted in' to receive them. We may share your email address with our partners to offer you programs and services we are jointly promoting. You may opt-out of these communications at any time. Please note, however, if such communications include a link to a vendor's website or a co-branded partner page and you submit personal information to such vendor's website or a co-branded partner page, then the privacy policies and practices of such vendor's website or a co-branded partner page governs the use of your personal information.
 
-We may, however, release information provided by a user to the extent it is required to be disclosed pursuant to a valid order or requirement of a governmental agency or court.
+We may release information provided by a user if a subpoena, order, or demand from a governmental agency or court requires disclosure. We may also release information provided by a user if GreatSchools in its sole discretion determines that release may assist in protecting the health, safety, or welfare of another. However, GreatSchools has no obligation to exercise such discretion.
 
 ##### Cookies
 
@@ -120,4 +120,4 @@ Protecting the privacy of young children is especially important. For that reaso
 
 It is the policy of GreatSchools to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers or website users, via email notice, written or hard copy notice, or through conspicuous posting of such notice on our website page, www.greatschools.org, as determined by GreatSchools in its sole discretion. Notwithstanding the foregoing, GreatSchools reserves the right to determine the form and means of providing notifications to our customers or website users.
 
-Updated January, 12 2014
+Updated July, 30 2014
