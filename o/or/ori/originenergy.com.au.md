@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originenergy.com.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629114745id_/http%3A//www.originenergy.com.au/932/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originenergy.com.au privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227102804id_/http%3A//www.originenergy.com.au/932/Privacy) for the most accurate reproduction.*
 
 # Privacy - Origin Energy
 
@@ -8,7 +8,7 @@ We are committed to protecting your privacy and to appropriately managing the pe
 
 We will collect, hold, use and disclose your personal information in accordance with our [Privacy Policy](https://web.archive.org/4458/Privacy-Policy), which sets out how you may access and correct the personal information that we hold about you and how to lodge a complaint relating to our treatment of your personal information. 
 
-More information about how to access and correct the credit related information that we holds about you and how to lodge a complaint relating to our treatment of your credit related information (and how we will deal with it) can be found in our Credit Reporting Policy, which forms part of our Privacy Policy. 
+More information about how to access and correct the credit related information that we hold about you and how to lodge a complaint relating to our treatment of your credit related information (and how we will deal with it) can be found in our Credit Reporting Policy, which forms part of our Privacy Policy. 
 
 [Read our Privacy Policy](https://web.archive.org/4458/Privacy-Policy)
 
