@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhs.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625223001id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhs.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227102853id_/http%3A//www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy on NHS Choices - About NHS Choices - NHS Choices
 
@@ -23,6 +23,9 @@
 **Personalisation  
 **Uses navigation data and personal information to enable us, and third parties to tailor the services provided to you. 
 
+**Symptom assessment  
+**Personal information will be collected through the use of the [Symptom checkers](https://web.archive.org/symptomcheckers/pages/symptoms.aspx). This is necessary so that the correct assessment can be made, given the options you have selected through the tool.
+
 ### Data sharing
 
 We will never share personal information with any third parties without your consent. Navigation data is shared with trusted third parties providing analytics or advertising.
@@ -33,6 +36,6 @@ The Department of Health is the Data Controller for NHS Choices under the Data P
 
 We want you to feel secure when using the website and associated services. We are committed to respecting your privacy. Below we give an overview of how we do that.
 
-Page last reviewed: 12/07/2012
+Page last reviewed: 10/07/2014
 
-Next review due: 12/07/2014
+Next review due: 10/07/2016
