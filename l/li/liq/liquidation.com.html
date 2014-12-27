@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the liquidation.com privacy policy that was archived on 2014-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630000354id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the liquidation.com privacy policy that was archived on 2014-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227082626id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
@@ -65,6 +65,7 @@
 		}); 
 	</script>
 	<link media="all" type="text/css" href="/css/sellerCredibility.css" rel="stylesheet">
+	<link rel="stylesheet" href="/shared/css/csl_compare.css" type="text/css">
 </head>
 <body>
 <div class="bodyContainer">
@@ -147,7 +148,7 @@
                                 <li class="anchors"><a href="/c/about/index.html">Company Profile</a></li>
                                 <li class="anchors"><a href="/c/press.html">In the News</a></li>
                                 <li class="anchors"><a href="/contactus">Contact Us</a></li>
-                                <li class="anchors"><a href="http://www.liquidityservicesinc.com/careers">Careers</a></li>
+                                <li class="anchors"><a href="http://www.liquidityservicesinc.com/company/careers">Careers</a></li>
                             </ul>
                         </div>
                         <div class="bottom"></div>
@@ -586,6 +587,21 @@
 
 <!-- display search -->
 <div class="subBody">
+	<div class="clearfix"></div>
+<div class="compare-header" id="compareHeader">
+    <form method="post" action="/auction/search?cmd=csl_compare" id="compareForm">
+        <label class="hint" id="cslCompareHint">Add up to 4 auctions for comparison</label>
+        <div class="action">
+            <input type="hidden" name="back_url" id="redirect_url" value="">
+            <input type="hidden" name="api_file" value="cgi/bu/includes/compare/endeca_api.tt">
+            <input type="hidden" name="prefs_file" value="cgi/bu/includes/compare/prefs.tt">
+            <input type="hidden" id="auctionStr" name="auction" value="">
+            <input type="submit" value="Compare" name="submit" class="compare-btn">
+            <label id="lblDiscard">Discard</label>
+        </div>
+    </form>
+</div>
+
 		
 		
 			
@@ -726,11 +742,11 @@
 	saveSearch_param.location = '';
 	saveSearch_param.username = '';
 	saveSearch_param.auctionId = '';
-	saveSearch_param.size = '';
+	saveSearch_param.size = '4';
 	saveSearch_param.shipping_terms = '';
 	saveSearch_param.auctionType = '';
 	saveSearch_param.perPage = '';
-	saveSearch_param.sort = 'ARRAY(0xdaf6a1c)';
+	saveSearch_param.sort = 'ARRAY(0xe2641d0)';
 	saveSearch_param.page = '1';
 	saveSearch_param.ascending = '0';
 	var isloggedIn = 0;
@@ -763,7 +779,7 @@
 <script type="text/javascript" src="/shared/bu/jslib/sellerCredibility.js"></script>
 <script type="text/javascript">
 	$(document).ready(function() {
-		sellerData = {"prev_page_uri":null,"next_page_uri":null,"error":[{"status_code":"403","error_text":"Access denied","error_id":"5","error_code":"FORBIDDEN"}],"result":[],"meta":{"time":1404086634}};
+		sellerData = {"prev_page_uri":null,"next_page_uri":null,"error":[{"status_code":"403","error_text":"Access denied","error_id":"5","error_code":"FORBIDDEN"}],"result":[],"meta":{"time":1419668786}};
 		sellerCredibility.init();
 	});
 </script>
@@ -849,7 +865,7 @@
                 <!-- <li><a rel="nofollow" href="/commercial_gross_sales_summary.csv">Commerical GSS</a></li> -->
                 <li><a href="/c/terms.html">terms and conditions</a></li>
                 <li><a href="/c/privacy.html">privacy policy</a></li>
-				<li><a href="http://www.liquidityservicesinc.com/careers">Careers</a></li>
+				<li><a href="http://www.liquidityservicesinc.com/company/careers">Careers</a></li>
                 <li><a href="/c/about/index.html">about us</a></li>
                 <li><a href="/contactus">contact us</a></li>
             </ul>
@@ -1022,6 +1038,125 @@ var google_remarketing_only = true;
 	}
 </script>
 </div>
+
+	<script type="text/javascript" src="/shared/bu/jslib/jStorage.js"></script>
+<script type="text/javascript">
+    var auc_str = '.tableContents';
+    var storage_key = 'lcom-auc-',cW=Math.floor(($(window).width()-30-75-20-10)/4) -87;
+    $(function(){
+        var cH = $('#compareHeader');
+		var cForm = $('#compareForm');
+        var cAuctionStr = $('#auctionStr');
+        $('#redirect_url').val(window.location.href);
+        $('#lblDiscard',cH).bind('click',function(){
+            cH.slideUp(function(){
+                cH.find('.compare-auction').remove();
+                cAuctionStr.val('');
+                $(auc_str+' .compare input:checkbox').removeAttr('checked').removeAttr('disabled');
+                $('.auction-selected').removeClass('auction-selected');
+            });
+            $.jStorage.flush();
+        });
+        if(parseFloat(jQuery.fn.jquery)<1.7){
+            $(auc_str+' .compare input:checkbox').live('click',function(event){
+			
+				// Adding prevent default because, clicking checkbox event bubbles upto Anchor and navigates.
+				// Blocking the Anchor navigation using prevent default.
+				
+				event.preventDefault();
+				var that = this;    
+				setTimeout(function() { that.checked = !that.checked; }, 1); 
+                attachCheckBoxHandler($(this),cH,cForm,cAuctionStr);
+            });
+        } else {
+            $('#tableContainer').on('click',auc_str+' .compare input:checkbox',function(){
+                attachCheckBoxHandler($(this),cH,cForm,cAuctionStr);
+            });
+        }
+        checkForPreviousSelections();
+    });
+    function checkForPreviousSelections(){
+        var aucs = $.jStorage.index();
+        if(aucs.length != 0){
+            for(var i = 0 ; i < aucs.length;i++) {
+                var c = aucs[i];
+                if(c.indexOf(storage_key) != -1){
+                    var obj = $.jStorage.get(c);
+                    if(obj.id){
+                        addAuctionToCompare(obj.id,obj.img_src,obj.title);
+                        $(auc_str+'[data-id='+ obj.id+']').addClass('auction-selected').find('.compare input:checkbox').attr('checked','true');
+                    }
+                }
+            }
+            var cForm = $('#compareHeader');
+            if(cForm.find('.compare-auction').length != 0) cForm.show(); else cForm.hide();
+        }
+        checkCompareAuctionsSelected();
+    }
+    function addAuctionToCompare(auc_id,auc_img_src,auc_title){
+        var cForm = $('#compareForm');
+        var auction = $('<div class="compare-auction" ></div>');
+        auction.attr('id','com_'+ auc_id).attr('data-id',auc_id);
+        var $i = $('<img class="img"/>');
+        $i.attr('src', auc_img_src);
+        auction.append($i);
+        auction.append('<label>'+ auc_title+'</label>');
+        auction.append($('<div class="close">&#10006;</div>'));
+        $('#cslCompareHint').before(auction);
+        attachCompareCloseAuctionHandler(auction.find('.close'));
+    }
+    function attachCheckBoxHandler(c,cH,cForm,cAuctionStr){
+        var p = c.closest(auc_str);
+        var auc_id = p.attr('data-id');
+        if(c.is(':checked')){
+            p.addClass('auction-selected');
+            var auc_img_src = p.find('.itemImage').attr('data-source');
+            var auc_title = p.find('.itemDescription a').text();
+            addAuctionToCompare(auc_id, auc_img_src, auc_title);
+            $.jStorage.set(storage_key+auc_id,{'img_src':auc_img_src,'title':auc_title,'id':auc_id});
+            if(!cH.is(':visible')) cH.slideDown();
+        } else {
+            p.removeClass('auction-selected');
+            cH.find('#com_'+auc_id).remove();
+            $.jStorage.deleteKey(storage_key+auc_id);
+        }
+        var str = checkCompareAuctionsSelected();
+        cAuctionStr.val(str);
+    }
+    function attachCompareCloseAuctionHandler(element){
+        element.bind('click',function(){
+            var c = $(this).parent();
+            c.remove();
+            var auc_id = c.attr('data-id');
+            $(auc_str+'[data-id='+ auc_id+']').removeClass('auction-selected').find('.compare input:checkbox').removeAttr('checked');
+            $.jStorage.deleteKey(storage_key+auc_id);
+            var str = checkCompareAuctionsSelected();
+        });
+    }
+    function checkCompareAuctionsSelected(){
+        var aucs = $('#compareHeader .compare-auction');
+        var len = aucs.length;
+        var str = '';
+        if(len == 4){
+            $(auc_str+' .compare input:checkbox:not(:checked)').attr('disabled',true);
+        } else {
+            $(auc_str+' .compare input:checkbox:disabled').removeAttr('disabled');
+        }
+        if(len == 0 ) {
+            $('#compareHeader').slideUp();
+        } else {
+            var selected = [];
+            aucs.each(function(){
+                selected.push($(this).attr('data-id'));
+            });
+            str = selected.toString();
+        }
+        $('#auctionStr').val(str);
+        return str;
+    }
+
+</script>
+
 
 
 </div></body></html>
