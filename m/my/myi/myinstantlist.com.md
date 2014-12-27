@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myinstantlist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045007id_/http%3A//myinstantlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinstantlist.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227192811id_/http%3A//myinstantlist.com/privacy.php) for the most accurate reproduction.*
 
 # Free Viral List Builder
 
-[](http://myinstantlist.com/banclick.php?code=d6e9eb681607a6e5695e84e6f19c0149)
+[](http://myinstantlist.com/banclick.php?code=a1ff59c9fcd256be3695bb06465e1011)
 
 My Instant List Privacy Policy
 
