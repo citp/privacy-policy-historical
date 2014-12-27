@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gainesville.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624045628id_/http%3A//www.gainesville.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainesville.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227223651id_/http%3A//www.gainesville.com/privacypolicy) for the most accurate reproduction.*
 
 # Untitled Document
 
