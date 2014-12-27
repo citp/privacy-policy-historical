@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ulprospector.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505200459id_/http%3A//www.ulprospector.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulprospector.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227082946id_/http%3A//www.ulprospector.com/en/Privacy) for the most accurate reproduction.*
 
-# Privacy - UL Prospector
+# Innovadex Privacy Statement
 
 Your privacy is important to us. Please take a few minutes to familiarize yourself with our Privacy Policy. YOUR USE OF THE SITE CONSTITUTES ACCEPTANCE OF THE PROSPECTER WEBSITE PRIVACY POLICY. 
 
