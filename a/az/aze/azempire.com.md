@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azempire.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111120id_/http%3A//azempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azempire.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227122411id_/http%3A//azempire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Azon Empire
+# Privacy Policy - Azon Empire
 
 The privacy of our visitors is of extreme importance to us. This privacy policy document is designed to advise you about how we collect, use, and protect the Personally Identifiable Information (hereinafter defined) that you provide to us through our website. By visiting this website, you are accepting the practices described in this Privacy Policy. 
 
@@ -28,8 +28,8 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 2.) USE OF INFORMATION
 
 Any of the information we collect from you may be used in, but not limited to, the following ways:  
-\- To personalize your experience  
-\- To improve our website
+– To personalize your experience  
+– To improve our website
 
 (a) Identification of Purchasers  
 If you purchase one of our products or services, you authorize us to use your name and identification information in advertising or promotions.
