@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peopleeasy.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615171249id_/http%3A//www.peopleeasy.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleeasy.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227202331id_/http%3A//www.peopleeasy.com/t/privacyinfo) for the most accurate reproduction.*
 
-# Privacy policy - Buy Online at PeopleEasy.com - Leading Online Supermarket for all your daily needs
+# Privacy policy
 
 Garg Enterprises is the licensed owner of the brand PeopleEasy and the website peopleeasy.com. Your use of the Website and any personal information you provide on the Website remains subject to the terms of this Privacy Policy and the PeopleEasy.com [Terms & Conditions](http://www.peopleeasy.com/t/conditionsofUse).
 
