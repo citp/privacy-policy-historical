@@ -1,51 +1,47 @@
-> *The following text is extracted and transformed from the edupoint.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207013500id_/http%3A//www.edupoint.com/global/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edupoint.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165925id_/http%3A//www.edupoint.com/privacy-statement.aspx) for the most accurate reproduction.*
 
-# EduPoint - Privacy Statement for EduPoint
+# Edupoint > Privacy Statement
 
-EduPoint (the "Company") has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL [www.edupoint.com](http://www.edupoint.com/?id=7446713) and any other site provided by the Company (collectively, the "Site"). The Company reserves the right to change this policy at any time by posting a new privacy policy at this location. 
+Edupoint is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Edupoint Web site and governs data collection and usage. By using the Edupoint website, you consent to the data practices described in this statement.
 
-_**What Information We Collect and How We Use That Information:**_
+Collection of your Personal Information
 
-**Contact Information:** Some areas of our Site request or require registration. During the registration process, we collect personal and institutional contact information such as name, email, phone, fax, address, birthdate. Social Security Numbers are required by a number of the educational institutions for enrollment and registration purposes. Contact information is only shared with merchants and educational institutions from whom you ultimately will be receiving the products/services Except as stated in this paragraph, we do not share your financial information with any third party without your consent, except to a court or governmental agency if required by law.
+Edupoint collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Edupoint also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-**Financial Information:** To conduct transactions through the Site, we may collect certain financial information from you (your credit card number). Financial information that is collected is used to bill the user for the purchase of the products/services. Your financial information is only shared with merchants and educational institutions from which you ultimately will be receiving the products/services. In certain cases, such merchants and educational institutions may bill you directly for the products/services. Except as stated in this paragraph, we do not share your financial information with any third party without your consent, except to a court or governmental agency if required by law.
+There is also information about your computer hardware and software that is automatically collected by Edupoint. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Edupoint for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Edupoint Web site.
 
-**Internet Protocol Address:** We collect an IP address from all visitors to our Site. We use your IP address to help diagnose problems with our server, and to administer our Web Site. 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Edupoint public message boards, this information may be collected and used by others. Note: Edupoint does not read any of your private online communications.
 
-**Demographic and Other Information:** Demographic (age, income level or zip code) and profile data may also be collected at our Site. This information may be shared with advertisers or other third parties on an aggregated basis. We may also maintain a database of transactions on the Site and we use this information in aggregate form to track the success of our Site.
+Edupoint encourages you to review the privacy statements of Web sites you choose to link to from Edupoint so that you can understand how those Web sites collect, use and share your information. Edupoint is not responsible for the privacy statements or other content on Web sites outside of the Edupoint and Edupoint family of Web sites.
 
-**Updating Personal Information:** You may edit or update your personal information at any time through our web site. To update your personal information, you can send an E-mail to [help@edupoint.com](mailto:help@edupoint.com). 
+Use of your Personal Information
 
-**Use of cookies:**  
-Our Site currently utilizes cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web Sites transfer to the computer that is browsing that Web Site and are used for record-keeping purposes at many Web Sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, remembering your personal preferences regarding your use of a particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. 
+Edupoint collects and uses your personal information to operate the Edupoint Web site and deliver the services you have requested. Edupoint also uses your personally identifiable information to inform you of other products or services available from Edupoint and its affiliates. Edupoint may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them.
+Edupoint does not sell, rent or lease its customer lists to third parties. Edupoint may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Edupoint may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Edupoint, and they are required to maintain the confidentiality of your information.
 
-**Public Forums:**  
-This Site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+Edupoint does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-**Security:**  
-This Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. The Internet is a 'public packet network'; this means documents sent over the Internet could be read or modified by people who are not intended to access them. To guard against this, EduPoint uses the encryption protocol "Secure Socket Layer" for sensitive data our members supply us via the web. Most networks today use a "Firewall" computer to protect their servers and network from unauthorized access. Edupoint uses industry standard firewall technology to protect our servers.
+Edupoint keeps track of the Web sites and pages our customers visit within Edupoint, in order to determine what Edupoint services are the most popular. This data is used to deliver customized content and advertising within Edupoint to customers whose behavior indicates that they are interested in a particular subject area.
 
-**Choice/Opt-Out:**  
-EduPoint may send out communications regarding its services, the Site or otherwise. EduPoint provides you the opportunity to opt-out of receiving such communications by:
+Edupoint Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Edupoint or the site; (b) protect and defend the rights or property of Edupoint; and, (c) act under exigent circumstances to protect the personal safety of users of Edupoint, or the public.
 
-  1. Sending email to [help@edupoint.com](mailto:help@edupoint.com), or
-  2. Sending mail to the postal address located below. 
+Use of Cookies
 
+The Edupoint Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Edupoint pages, or register with Edupoint site or services, a cookie helps Edupoint to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Edupoint Web site, the information you previously provided can be retrieved, so you can easily use the Edupoint features that you customized.
 
-**Correct/Update:**  
-If any of your contact information changes or is incorrect, please email [help@edupoint.com](mailto:help@edupoint.com) with your new, correct information. 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Edupoint services or Web sites you visit.
 
-**Contacting the Web Site:**  
-If you have any questions about this privacy statement, the practices of this Site, or your dealings with this Web Site, you can contact
+Security of your Personal Information
 
-> Customer Support  
->  [help@edupoint.com](mailto:help@edupoint.com)
+Edupoint secures your personal information from unauthorized access, use or disclosure. Edupoint secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Our Address:
+Changes to this Statement
 
-> EduPoint  
->  380 Stevens, Suite 210  
->  Solana Beach, CA 92075 
+Edupoint will occasionally update this Statement of Privacy to reflect company and customer feedback. Edupoint encourages you to periodically review this Statement to be informed of how Edupoint is protecting your information.
+
+Contact Information
+
+Edupoint welcomes your comments regarding this Statement of Privacy. If you believe that Edupoint has not adhered to this Statement, please contact Edupoint at [host@change.me](mailto:host@change.me). We will use commercially reasonable efforts to promptly determine and remedy the problem.
