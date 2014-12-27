@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063845id_/http%3A//www.we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the we-energies.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227142248id_/http%3A//www.we-energies.com/home/privacy_policy.htm) for the most accurate reproduction.*
 
 # We Energies | Website Privacy and Security
 
@@ -13,7 +13,7 @@ We Energies delivers excellent customer service every day, and information you p
   3. When you visit our Site, we may record some details about your visit for statistical and administrative purposes. Information we may gather could include your server address, top level domain name (for example .com, .gov, etc.), the date and time of your visit to the site, the pages accessed and documents downloaded, and the type of browser used. We also use this information to improve our site.
   4. Only authorized We Energies employees, and other organizations hired to provide support services, will have access to the personal and account information you provide. Those employees and organizations have signed a policy statement or confidentiality agreement regarding the use of your personal and account information that prohibits them from disclosing your information. 
   5. Whenever we hire outside firms to provide support services, we require that they conform to our customer information confidentiality standards and requirements.
-  6. Your personal and account information will not be shared with any organization or individual that does not provide support services unless we have written authorization from you, or we are required to provide the information by law. We do not sell customer information.
+  6. Your personal and account information will not be shared with any organization or individual that does not provide support services unless we have authorization from you, or we are required to provide the information by law. We do not sell customer information.
   7. If you need to correct the information we have on file for you or your account, you may contact us via [email](mailto:contactwe@mail.we-energies.com), or by phone at 800-242-9137.
   8. We take your privacy seriously. If you have any comments or concerns with our privacy policy, please contact us via [email](mailto:contactwe@mail.we-energies.com), or by phone at 800-242-9137 to discuss your concerns.
 
