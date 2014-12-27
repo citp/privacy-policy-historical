@@ -1,178 +1,208 @@
-> *The following text is extracted and transformed from the lemon.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203064951id_/http%3A//lemon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemon.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165139id_/http%3A//www.lifelock.com/legal/privacy) for the most accurate reproduction.*
 
-# Lemon Wallet · Privacy Policy
+# LifeLock
 
-_Effective Date:   Oct 25, 2013  
-_
+## Our Mission
 
-### Scope
+LifeLock, Inc. ("LifeLock", "we", "our" or "us") is committed to enriching lives by protecting what matters most. This includes safeguarding your Personal Information (defined below), and treating such information with security and respect. We understand the need to feel safe when sharing information with third parties, and we have developed this Privacy Policy to help you understand our practices and how to exercise choice regarding the collection and use of your personal information.
 
-****This is the Privacy Policy of Lemon, Inc.   It applies to users of our Lemon.com website, users of our services and our mobile apps for iPhone, Android and Windows phones, and recipients of our emails. It describes the personal data that we collect, how we use this data and how we protect this data.  By using our website, services or mobile apps, you are agreeing to our collection and use of your personal data as described in this Privacy Policy.
+## Scope and Other Agreements and Notices
 
-### Summary
+Our Privacy Policy applies to information about you that is gathered automatically ("General Information") and to Personal Information (as defined below) that we collect directly from you online and offline, as well as information we collect about you from other sources, such as from third party partners and affiliates, which we may append to other information we collect from or about you. This Privacy Policy applies to visitors and users of our website, [www.lifelock.com](https://web.archive.org/) (our "Site") (including the mobile version of our Site), users of Services that we provide at no charge ("Users"), users of Services that require payment of a fee ("Members") (we refer to our Users and Members collectively as our "Customers"), and prospective Customers.  
+See more about information we collect and how we use and share it.
 
-If you provide us with your personal data, we make the following commitments to you:
+In addition to this Privacy Policy, other contract terms such as our LifeLock, Inc. Service Terms and Conditions (the "Service Terms") and our [Website Terms of Use](https://web.archive.org/legal/terms/), will apply to you, based on the Services you select or use. If you use other Services, additional privacy terms may also be applicable. For example, our [Mobile App Privacy Policy](https://web.archive.org/legal/mobile-privacy/) will also apply to the use of our mobile app (the "Mobile App"). Current versions of these documents may be found [here](https://web.archive.org/legal/). Our subsidiary, ID Analytics', use of personal information is not addressed in this Privacy Policy.
 
-  * we will not spam you; and
-  * we will not share your data unless we’ve described it in this Privacy Policy, we’ve told you in advance, you’ve given us permission, we’ve aggregated it and removed any information that would identify you, or legal rights are affected.
+**_IF YOU DO NOT AGREE TO OUR PRACTICES AS DESCRIBED IN THIS POLICY, DO NOT USE OUR SITE AND SERVICES._**
 
+## LifeLock's Commitment
 
+We are committed to (1) working with our Customers to obtain a fair resolution of any complaint or concern about privacy concerns and our Services, and (2) supporting law enforcement and regulatory agencies committed to stopping crimes of identity theft and identity fraud. To contact us with a question or concern about our privacy practices, email us at [privacy@lifelock.com](mailto:privacy@lifelock.com) or write to us at LifeLock, Inc., Attn. Privacy Officer, 60 E. Rio Salado Parkway, Tempe, AZ 85281.
 
-### TRUSTe Privacy Seal
+## Modifications
 
-We have been awarded TRUSTe’s Privacy Seal signifying that this Privacy Policy and our privacy practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. [The TRUSTe program covers only information that is collected through this Web site, http://www.lemon.com and our mobile applications.]  TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@lemonhq.com.](mailto:suppo%72t%40lem%6f%6ehq%2eco%6d%2e)  If you are not satisfied with our response you can use [TRUSTe’s Feedback and Resolution System](https://feedback-form.truste.com/watchdog/request). **  
-**
+WE MAY MODIFY OUR POLICY FROM TIME TO TIME. WE WILL POST THOSE MODIFICATIONS OF OUR WEBSITE [HERE](https://web.archive.org/legal/) PRIOR TO THE MODIFICATIONS BECOMING EFFECTIVE. WE WILL ATTEMPT TO NOTIFY YOU OF MATERIAL MODIFICATIONS TO THIS PRIVACY POLICY, INCLUDING BY SENDING YOU A COPY OF THE UPDATED POLICY BY EMAIL IF WE HAVE YOUR EMAIL ADDRESS ON FILE. . YOUR CONTINUED USE OF THE SITE OR OUR SERVICES AFTER ANY SUCH MODIFICATION MEANS THAT YOU ACCEPT THE MODIFIED POLICY. EACH TIME YOU USE THE SITE, THE LATEST VERSION OF THE POLICY WILL BE DISPLAYED AND WILL APPLY.
 
-### U.S.-EU and U.S.-Swiss Safe Harbor
+## Members and Users
 
-We comply with the U.S.-EU and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor>.
+You need not enroll or register with us to just visit and view our Site. However, if you elect to obtain or use any of our Services you must register or enroll (or be enrolled by an authorized third party) with us, and you must agree to our [Service Terms](https://web.archive.org/legal/terms/), which incorporate by reference this Privacy Policy.
 
-### Data We Collect as Part of Providing the Lemon Service
+## Third Party Websites
 
-If you use the Lemon service through our mobile apps or the dashboard on our website to submit your information, including card and receipts, we will scan and digitize this data, store the image, and provide you with access to the image and digitized data. You can see images of your stored data, review the digitized data and search this data.  To use the Lemon service, you need to register with us by creating an account using a valid email address and setting a PIN and/or password.
+Our Site may be linked to other web sites operated by one or more third-parties (collectively, "Third-Party Sites"). Certain areas of our Site may allow you to interact with Third-Party Sites and, in certain situations, you may be transferred to a Third-Party Site through a link but it may appear that you are still on our Site. The Third-Party Sites may have different privacy policies and terms and conditions and/or business practices than we do, and your use of Third-Party Sites is governed by that Third-Party Site's privacy policy and terms and conditions.
 
-As part of our service, we may collect the following information from you:
+## Information We Collect
 
-  * your name and email address;
-  * the payment card information you use to purchase a paid premium subscription (such as Lemon Plus or Lemon Expense);
-  * the data displayed in the image you submit, which could include your name, your card data, such as identification, insurance, loyalty, and payment card data (including number and expiration date), information from a receipt such as merchant name, address or phone number, date and time of a purchase, the amount and method of payment, and the items purchased;
-  * if you authorize us to access your address book on your smartphone, the contact information for those in that address book;
-  * if you Facebook Connect, data from About You and your birthday; and
-  * any description notes or tags that you add to your cards or receipts.
+We may collect information about you from a variety of sources, including information we gather from you directly when you register or enroll (or are enrolled by an authorized third party), use our Services, or view our Site or our online advertisements. We may also gather information from other sources as described below.
 
+## Information We Collect Directly From You
 
+Some Personal Information is collected when you register or enroll (for the Services, otherwise agree to provide information directly to us, or are enrolled for the Services by an authorized third party. Here are some of the kinds of Personal Information we may collect directly from you or an authorized third party:
 
-We collect this information because it is required in order for us to provide you with our services. If you do not want this data collected, you can stop using the Lemon service and our mobile apps at any time and delete your account. In addition, if you request information from us as part of the Lemon service (for example, through requests for support) we may collect data such as your name, e-mail address and phone number.
+  * Name
+  * Contact information (email address, postal address, phone number)
+  * Social Security Number
+  * Date of Birth, Age, Gender
+  * Personal details to verify your identity, such as your mother's maiden name
+  * Payment and Financial Information, such as a credit card or financial account number
+  * Government identity information, for example, driver's license information, voluntarily identified by you in your Member portal
+  * Other information you may voluntarily provide for protection on the Member portal, such as your insurance information
+  * Product Preferences and interests
+  * Communication Preferences
+  * Contact Information for friends or family members that you wish to register as members or that you suggest we contact
+  * Other information that you may voluntarily provide in response to member surveys or studies or as part of enrollment in a new product or service 
+  * When you call or exchange emails with us, we will retain the content of the email messages (or hard copy correspondence) as required or permitted by law and its record and information management policies. We also may retain recordings of our phone messages or phone calls with you.
 
-You are able to download our mobile app using an authorized account in the applicable app store (for example, Google Play for Android, the Apple App Store for iOS, and the Windows Marketplace for Windows).  When you use our mobile apps to receive the Lemon service, we will collect from your mobile device a unique ID.  Where your device is an iPhone, we collect the Apple-recommended CFUUID (the Core Foundation Universally Unique Identifier).  When you use certain features of our apps on a mobile phone, we may collect information about your location.  We may use this information to provide you with location-based services and information.  Mobile devices typically allow you to turn off location services, however, if you do so, you will be unable to use these features.
+  
 
-### Other Data We Collect Through Our Website, Emails and Mobile Apps
 
-In addition to the information described in the section above, may also collect the following data:
+## Information We Collect When You Visit Our Site or View Our Online Advertisements
 
-  * **_Cookies_**. ** _  _**We use cookies on our website to collect data about your visit and to allow you to navigate from page to page without having to re-register each time. We do not link the information we store in cookies to any personal information you submit while on our website.  We may also use this data to tailor advertisements to you.  The use of cookies by our partners, affiliates, and service providers is not covered by our privacy policy. We do not have access or control over these cookies.  Our partners, affiliates, and service providers use session ID cookies to collect data about your visit and to tailor and deliver advertising messages to you. You can refuse cookies by using the appropriate setting on your browser.  In this case, you may not be able to access portions of our website.
+We automatically collect certain General Information when you access the Site. The following are some examples of information we may collect with Cookies, log files, Web Beacons, GIFs, pixel tags, Flash LSO, server logs, customer relationship management ("CRM") tools or other technologies that gather information automatically when you visit our Site or view online advertisements:
 
+  * Website pages you view
+  * IP address
+  * Emails from LifeLock that you open or forward
+  * LifeLock offers or links you connect to
 
-  * **_Analytics_**.When you visit our website, we use third party analysis tools to collect data about your computer and  Internet connection.  That information includes the IP address of your computer and/or Internet service provider, when you access our website, the Internet address of websites from which you link to our website and from which you came before landing on our website, the browser that you are using, and your movements and preferences on our website.  All of this information is used internally for the purpose of understanding how our website is being used and improving our website. We also use third party analysis tools to collect data about your use of our mobile apps.  The information collected identifies the types and timing of actions you take within our mobile apps, including installation, registration, uploading, and certain types of navigating .  All of this information is used internally for the purpose of understanding how our mobile apps are being used and improving them.
 
 
-  * **_Action Tags_**. ** _  _**When you visit our website, we use action tags (also called pixel tags, clear GIF, or beacons) to identify some of the pages that you visit and how you use the content on those pages.  Action tags are also placed in advertisements that are served on our behalf by third parties on our website or the websites of other parties. Action tags may collect and transmit this data in a manner that identifies you personally if you have registered with our website, or are logged into our website. We also use action tags in our emails, to determine whether an email was opened or whether it was forwarded to someone else.  When you use our mobile apps, we use action tags where you are accessing websites from links in our mobile apps.  These may identify the pages that you visit and how you use the content on those pages. **  
-**
+In connection with the Site, for example during the enrollment process or upon log into your member portal, information about your computer, such as the device id and other accompanying technical attributes and characteristics, may be accessed, retained and used by us or our service provider solely to confirm device identification, verify your identity, and to authenticate your account. If you access our Site through a mobile device, we also may collect information about your device, such as the device ID or other identifier as permitted by the manufacturer, length of time spent on the Mobile App, installations, clicks and gestures.
 
+  
 
-  * **_Site Management_**. **  **We aggregate data that we collect about the use of our website for administering, protecting and improving our website and our systems, to better understand the preferences of our website visitors and optimize the content that we serve, to identify server problems, to compile aggregated statistics about our website usage, to improve our marketing and research. **  
-**
 
+## Information we collect from other sources ("Third Party Information")
 
+We may obtain information about you from third party sources, such as the companies we work with to provide service to you (i.e., our service partners), affiliates such as our subsidiary, ID Analytics and other companies that we acquire or merge, data aggregators or public databases. Here are examples of this kind of Third Party Information.
 
-### How We Use Your Data
+  * Name
+  * Age 
+  * Postal Address
+  * Phone Number
+  * Marital status and number of children
+  * Other information which may help us determine your risk of identity theft such as online behavior, purchase behavior, interests and other consumer and market research data
+  * Information used to populate our membership registration forms
+  * Information such as your social security number and date of birth, obtained from our subsidiary, ID Analytics, other affiliates or service partners.
 
-We use your data to provide you our services.  We may share your information with third parties, but it will only be in the following cases:
+  
 
-  * we’ve told you in advance, for example, if we’ve disclosed it in our Privacy Policy;
-  * you’ve given us permission, for example, by authorizing us to share your stored payment credentials to complete transactions with third-party developers and merchants who have developed apps that utilize Lemon’s check-out services, or by receiving offers from third parties based on your profile as part of the service;
-  * we’ve aggregated it and removed any information that may identify you; or
-  * when legal rights are affected.
 
+## How We Use and Share Your Information
 
+This summary tells you how we use your information, if we share it and why. It also explains how you can make decisions about these actions and how we will respond to those requests.
 
-### How We Use Your Data with Third Party Apps
+When do we USE your information? | Do we SHARE this information with others? | What data is shared? | Can you limit this sharing?  
+---|---|---|---  
+To understand Site demographics and use of the Internet | Yes, to our affiliates and third party service providers to help improve our products, service offerings, Site, and technology | General Information | You may block cookies through your browser settings, which prevents us from collecting certain information about your use of our Site and our Services. We may still collect information about your use of our Services, such as when you log in, and analyze this information to help understand the use of our Site.  
+In the course of providing Services you request, verifying your identity, notifying you of new features, Services, or changes in our business or to process, and fulfilling or billing your orders or requests. | 
 
-As described above, you can authorize Lemon to share your stored payment credentials to complete transactions with third-party developers and merchants who have developed apps that utilize Lemon’s check-out services, , in which case we may share your data with such third parties.  Please note that if you do not want this data shared with these apps at the time of a transaction, you would simply not consent to sharing the information.  These third parties may request additional information directly from you.  If you provide any data directly to these third parties, please note that we are not responsible for the security of any data you provide directly to these third parties, which would be governed by those parties’ policies.
+Yes as follows:
 
-### How We Use Your Data with Third Party Partners
+  * To other members registered under your account
+  * To our Affiliates
+  * To third party service providers, including for example insurance companies, administrators of customer rewards programs, payment verification services, financial institutions or credit card companies, or other service providers that perform functions on our behalf
+  * To Government agencies and law enforcement (in helping address identity theft)
+  * To consumer reporting agencies
 
-As part of providing you with our service, we have written agreements with third parties pursuant to which we are able to offer you additional functionality as part of the Lemon service. Because the additional services provided by these parties form part of the Lemon service, you may not opt-out of receiving them. If you do not wish to receive these additional services, you would need to stop using the Lemon service and our mobile apps and delete your account. In this section, we describe those parties and how your data is used in providing the Lemon service.  Our written agreement with these parties require that they protect the confidentiality and security of your data, and to use your data only on our behalf and only in the way we permit in the written agreement.
+| General Information; Personal Information | No. This is necessary to provide the Services, including updates about features and functionalities of the products and services to which they subscribe. The information requested may differ depending on the Service(s) you select to receive. This use of your information is separate and distinct from marketing uses, which you may opt-out of, and which are discussed below.  
+When we, or our affiliates, send you marketing material about services, promotions or other material which may be of interest to you, through e-mail, interactive voice response telephone technology, direct mail or other means. | Yes, with our affiliates and to third party service providers who are under contract with us to provide our direct mail or other marketing efforts | General Information. Personal Information such as Name, Address, Email Address, or Phone Number Third Party Information | Yes, by opting out of communications in your preferences or by contacting us at unsubscribe.nonmember@lifelock.com or by regular mail at Attn.: Marketing, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ  
+Behavioral or Interest-based Advertising (to send you focused advertising) | Yes, with service providers and network advertisers (as described under "Behavioral or Interest-based Advertising") | General Information Elements of your Personal Information such as Name, Address, Email Address, and Phone Number. Third Party Information | Yes, you may exercise your options to not receive behavioral advertising, including targeted ads about LifeLock products on certain third party sites, at [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp) (NAI) and [www.aboutads.info/choices](http://www.aboutads.info/choices) (DAA).  
+Exercise your opt out choice to limit use of your information by LifeLock for behavioral advertising purposes [here](https://web.archive.org/advertising-choices/).  
+To develop new products and services | Yes, with our affiliates for their own product and service development and to third party service providers who are under contract with us to develop products and services, such as engineers, web developers and the like | General Information  
+Third Party Information | No  
+As part of our thought leadership in reducing the risk of identity theft, education of law enforcement, regulators and other professionals | Yes, with our affiliates and third parties but this information will not be used to identify any single individual | Aggregate information that is derived from your Personal Information, meaning general statistics, summaries and the like | No  
+To investigate misconduct or a crime, to comply with law, or when we believes it is necessary to protect our rights, property or safety or that of others | Yes, with law enforcement, attorneys, officers of the court, arbitrators, mediators and others involved in any judicial proceeding, court order, legal process or the like | General Information  
+Personal Information  
+Third Party Information | No  
+To conduct data analysis and research the risk and prevention of identity theft and related crimes | Yes, with our affiliates and third parties under contract with us to protect the information; to law enforcement or other government entity | General Information  
+Personal Information  
+Third Party Information  
+| No  
+In connection with our sale, purchase, merger or reorganization | Yes, with the acquiring, purchasing, or other applicable entity, including, without limitation, legal and financial advisors and other persons or entities as appropriate | General Information  
+Personal Information  
+Third Party Information | No  
+  
+## Security Standards
 
-  * Womply:  The Lemon service incorporates the services of Womply, which allows you to receive rewards from participating Womply merchants.  These rewards are automatically applied to your credit or debit card.  When you add a credit or debit card to your Lemon account, Womply will automatically check to see if you’ve transacted at a Womply merchant.  If you have transacted at a Womply merchant and you earn a reward, Womply will notify Lemon, and we will let you know when you have earned a reward.
+The security of your Personal Information is important to us and we have put into place multi-layered technical, physical and procedural measures to help keep it safe. For example we keep Personal Information encrypted during transit and at rest using strong encryption technology and employ proactive monitoring and other tools to protect against unauthorized access. We work with third parties on an ongoing basis to keep our practices current and compliant with laws and industry standards relating to data security and privacy. We protect the credit card data you submit to us for payment of the Services in accordance with the Payment Card Industry Data Security Standard.
 
+Despite our mutual efforts, you understand and agree that perfect security does not exist and understand that there is a certain amount of risk inherent in providing and receiving services over the internet. The Services depend upon your commitment to keep your Personal Information safe. You agree to use your Personal Information in a reasonable way and to avoid recklessly disclosing your Social Security number, financial account numbers or other Personal Information to those that could improperly use or disclose it. For example, take care not to visit sites that may transmit malware, or to respond to “phishing” scams, unsolicited emails, or pop-up messages requesting your Personal Information. You may have the opportunity to participate in contests, blogs, promotions or other functions by way of the Site. Use caution when deciding to disclose your information in such a submission as these functions may be provided by a Third Party Website and subject to terms which are different than those stated in this Privacy Policy.
 
+If you have any questions about the security of your Personal Information or the security of the Site, you can send us an email at [Privacy@LifeLock.com](mailto:privacy@lifelock.com)
 
-This section will be updated from time to time to reflect the parties with whom we have these relationships.  Please note that we may make changes, replace or discontinue (temporarily or permanently) these services at any time for any reason with or without notice.
+## Marketing
 
-### How We Protect Your Data
+If you provide us with your email address or mailing address, you may receive marketing messages and materials from us or our affiliates. You have choices on what communications you want to receive from us. If you choose not to receive marketing communications, we will honor your request. However, we will continue to communicate with you as needed to provide the Services, respond to your inquiries or otherwise relay service related messages.
 
-The security of your data is a top priority for us.  We use reasonable physical, electronic and procedural safeguards to protect the personal information that we obtain from you from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.  These are a few of the ways we are safeguarding your information:
+You can stop receiving promotional email or postal communications from us by following the instructions included in each communication, [by changing your preferences](https://web.archive.org/subscribe/), or by contacting us at [unsubscribe.nonmember@lifelock.com](mailto:unsubscribe.nonmember@lifelock.com) or by regular mail at Attn.: Marketing, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ.
 
-  * **_SSL and Password Encryption_**.  You log in to the dashboard on our website using SSL (secure sockets layer), the standard in Internet security for authentication and encryption.  This encrypts data transmitted between your device and our servers, including passwords.
+#### Tracking and Behavioral or Interest-based Advertising
 
+Currently, we do not honor browser requests not to be tracked online. You may opt-out, however, of being tracked for purposes of online advertising as discussed in this section.
 
-  * **_PIN-Entry Required for Payment Card Data_**.  We grant you access to the payment card data you store using our mobile apps only upon your entry of the PIN number that you select.  That PIN number is not know to us or stored anywhere in our system.  We use your PIN as part of our data encryption process.  Be sure to select your PIN carefully–because we don’t store your PIN, if you lose or forget it, you will not be able to retrieve your PIN (although we do offer a process for you to reset your PIN).
+We use third parties such as network advertisers to display advertisements on other websites you may visit. Network advertisers are third parties that display advertisements based on your visits to our Site as well as other websites. This enables us and these third parties to advertise more effectively by displaying ads for products and services in which you might be interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use some of the technologies described in this policy, such as cookies, JavaScript, web beacons (including clear GIFs), and Flash Local Storage Objects (Flash LSOs) to measure the effectiveness of their ads and to personalize advertising content to you. This helps us, and them, provide advertising content to you that is more relevant and tailored to your interests. As with links to other websites that may be found on our Site, these Tracking Technologies are governed by each third party's privacy policy, not this one.
 
+We may provide these third-party advertisers with non-personally identifiable information about your usage of our Site and our Services, as well as aggregate or non-personally identifiable information about visitors to our Site and users of our Services. We do not provide these third parties with your Personal Information. If you don't want us to show you interest-based ads or share interest-based behavioral data with third parties, you can opt out. Understand that even after opting out you will still see online ads. Opting out only means that network members will no longer deliver targeted content to you. You may continue to see interest-based advertisements from other parties from whom you have not opted out, or from companies that have not adopted the self-regulatory standards for Online Behavioral Advertising that we follow.
 
-  * **_Discrete, Authenticated Sessions_**.  Once you have logged in to your Lemon account (on your mobile phone or in the dashboard on our website), you can end that session by logging out.  After you have ended your session, your data cannot be accessed on your mobile phone or the dashboard on our website without your re-entering your password (and PIN, if applicable).
+If you don't want us to show you interest-based ads or share interest-based behavioral data with third parties for advertising, you may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA"). For more information and available choices for third-party ad networks operated by NAI and DAA members, please visit their respective websites: [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp) (NAI) and [www.aboutads.info/choices](http://www.aboutads.info/choices) (DAA).
 
+We also participate in third party ad networks and use cookies to improve the performance of our advertising on third-party websites, including to display ads about LifeLock products on these sites. You may control our use of the General Information we collect about your activities on our Site to display targeted LifeLock advertising during your visits to third party websites. To opt out of receiving these targeted LifeLock ads, click [here](https://web.archive.org/advertising-choices/).
 
-  * **_Restricted Access_**.  We protect centralized databases and storage systems by preventing access from the public internet.
+Note: If your browser is configured to reject cookies when you visit the opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI, DAA or LifeLock opt-out may no longer be effective. Additional information is available on NAI's and DAA's websites accessible by the above links.
 
+#### Special Notice to California Consumers
 
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your Personal Information to third parties for the third parties' direct marketing purposes. We may share your Personal Information with our affiliates for direct marketing, but we do not sell it to or share it with unaffiliated third parties. You may request a list of our affiliates by contacting us at LifeLock, Attn.: Marketing, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. Please allow up to thirty (30) days for a response.
 
-Please note that we are not responsible for the security of any data you are transmitting over the internet, or any data you are storing, posting or providing directly to a third party’s website, which is governed by that party’s policies. Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure. If you have further questions about security, you can contact us at [support@lemonhq.com.](mailto:%73up%70%6frt@lem%6fn%68%71%2e%63%6fm.)
+## Your Access to Your Information
 
-###  How You Can Update or Delete Your Data
+You may access the Personal Information you have provided to us on the Site and we will honor your right to review, correct or update it. Members can do this by logging into the member portal and selecting the account or member information options. If you are not a member and want to access your Personal Information, you may contact us. We will retain your information, including the prior version of the information that you updated, as follows:
 
-You can update or delete data and images stored in Lemon by using the edit feature in our mobile app or the dashboard on our website.  If you wish to close your Lemon account altogether, you can do so in the dashboard on our website.  If there is other information that you have provided to us other than through our mobile app that you wish to change or delete, please let us know by submitting a request to [support@lemonhq.com.](mailto:suppo%72t%40%6ce%6d%6fn%68q%2ecom.)  Note that we may retain your personal information in our databases for as long as your account is active or as needed to provide you services, in accordance with our applicable data retention policies and applicable laws. Our retention and use of your information will be as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  The retention period may extend beyond the end of your relationship with us, but it will be only as long as it is necessary for us to have sufficient information to respond to any issues that may arise later.  For example, we may need or be required to retain certain information to prevent fraudulent activity, protect ourselves against liability, permit us to pursue available remedies or limit any damages that we may sustain, or if we believe in good faith that a law, regulation, rule or guideline requires it.  Your personal information will be stored in secured locations and on servers controlled by us.  In all cases, we reserve the right to use data obtained previously to verify your identity or take other actions that we believe are appropriate. We will respond to your request for access within 30 days.
+  * for as long as your membership is active
+  * as needed to provide you Services
+  * as required by company policy or legal obligation
+  * as needed to resolve disputes
+  * as needed to enforce our agreements
 
-### Sharing Your Data When Legal Rights are Affected
 
-We may be required to share your information where legal rights are affected.  These are a few examples:
 
-  * We will share your data if this is required by law or to respond to requests from law enforcement officials and regulatory agencies and in connection with certain court proceedings.
-  * We may share your data where this is in the interest of protecting or exercising our or others’ legal rights, for example, in connection with court proceedings, or to detect or prevent criminal activity, fraud, material misrepresentation, or to establish our rights or defend against legal claims.
-  * We may sell your data in connection with selling, merging, transferring or reorganizing all or parts of our business.   You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+#### Contact Us
 
+If you have any questions about this Policy, please contact us at 1-800-LifeLock (543-3562), at [privacy@lifelock.com](mailto:privacy@lifelock.com), or by mail at LifeLock, 60 East Rio Salado Parkway, Suite 400, Tempe, AZ 85281, Attn.: Privacy Officer. You hereby agree that we may use and disclose any suggestions, ideas, concepts, or information (other than your Personal Information) that you provide to us regarding the Privacy Policy, our business, or any other matter, without obligation to you or any third party.
 
+#### TRUSTe Verification of Our Website Practices
 
-### Email Communications
+LifeLock, Inc. is a participant in the TRUSTe® Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact us at [privacy@lifelock.com](mailto:privacy@lifelock.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at: <http://www.truste.com/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with LifeLock to resolve your concerns.
 
-**If you opted-in to receive information about our product, updates and offers,** we will use your name and email address to send this information to you. If you no longer wish to receive these newsletters, you can unsubscribe by following the instructions contained in the emails you receive or in the dashboard on our website.  Please note that we may send you service-related announcements when it is necessary to do so, even if  you have unsubscribed from our marketing communications.  For instance, if our service is going to be temporarily suspended for maintenance, we might send you an email to update you.  Because you may not opt-out of these communications, if you do not wish to receive them, you would need to stop using our services and mobile apps and delete your account.
+#### Definitions Used in this Policy
 
-### Personal Information of Third Parties
+**Cookie Information**. Cookies are small text files that are stored by a user's web browser on the hard drive of a user's computer. Cookies can "remember" what information ("Cookie Information") a user accesses on a particular web page to simplify subsequent interactions with that website by the same user, or cookies can use that information to streamline the user's transactions on related websites. The cookies we use on our Site may be "session" cookies that are erased when you leave the Site, or they may be "persistent" cookies that remain on your computer's hard drive after you leave the Site. We also use a cookie installed by Google, Inc. to provide us with usage information regarding the Site. The cookies we use do not capture your Personal Information. We may also set cookies when you register at the Site, and may do so without notice to or permission from you or any third party.
 
-****If you choose to purchase a paid premium subscription and if you want to share data with family members or co-workers, you can provide us with their email address.   We will then send them an email inviting them to create a Lemon account.  Lemon stores  this information for the purpose of sending this invitation email.  If your family member or co-worker does not wish to have this information stored, they can contact us at [support@lemonhq.com](mailto:su%70port@lemonhq.%63om) to request that we remove this information from our database.
+**General Information** refers to information about your use of the Site that is gathered automatically. General Information does not identify you individually, but helps us better understand how the Site is used.
 
-### Public Parts of Our Website
+**Our, We or Us** refers to LifeLock, Inc.
 
-There are parts of our website, such as the comments sections in our blog, that are public.  If you disclose personal data in any public forum on our website, that data becomes public and can be accessed and used by people other than us.  We aren’t responsible for their use of your personal data.  If you are worried about this, don’t post personal data in public places on our website. To request removal of your personal information from our blog or community forum, contact us at [support@lemonhq.com.](mailto:su%70p%6f%72t@%6cemonh%71.com.)  We will let you know if we are unable to remove your personal information and the reason why.
+**Personal Information** means information, or a combination of pieces of information, that reasonably could allow us to identify you. Personal Information includes things like your name, address, date of birth, social security or driver's license number.
 
-### Testimonials
+**Third Party Information** refers to information that may be gathered on our behalf or which we lawfully obtain from third parties outside of this Site.
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@lemonhq.com.](mailto:suppo%72t@lem%6fnhq.com.)
+**Tracking Technologies** refers to technologies such as cookies, JavaScript, web beacons (including clear GIFs), and Flash Local Storage Objects (Flash LSOs).
 
-### Links to Other Websites
+**Site** refers to this website, www.lifelock.com
 
-Our website includes links to other websites whose privacy practices may differ from those of Lemon. If you submit personal information to any of those websites, your information is governed by their privacy policy. We encourage you to carefully read the privacy policy of any website you visit.
+**Services** refers to the services offered by LifeLock through [www.lifelock.com](http://www.lifelock.com/) and offline, including our identity protection services, credit monitoring services, mobile applications or other products or services for which you must register or enroll, as well as any on-line promotions that are associated with our Services, unless we tell you otherwise.
 
-### Third Party Service Providers
+**Web Beacons / Gifs.** We employ (either directly or through one of our third party advertising partners) a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our Site by educating us on what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. To learn more about our advertising company's use of clear gifs, please visit the following sites:
 
-We use third party service providers as part of delivering our service.  These third parties provide us with certain advertising, referral, operations and technology services (such as hosting providers, support, image capture, payment and email service providers).  We require each service providers to enter into a written agreement with us by which they agree, among other things, to protect the confidentiality and security of your data, and to use your data only on our behalf and only in the way we permit in the written agreement.  Please note that we also give you the option to export information in your Lemon account to third party service providers and to import information from other providers into your Lemon account.  Please note that we are not responsible for the security of any data you are transmitting to or storing with any third party, which is governed by that party’s policies.
+  * AOL: <http://adinfo.aol.com/about-our-ads/>
+  * ValueClick: <http://www.valueclick.com/privacy>
+  * Adconion: <http://www.adconiondirect.com/privacy-policy>
+  * RadiumOne: <http://www.radiumone.com/about/privacy.html>
+  * AdMarketplace: <http://www.admarketplace.com/privacy-statement.php>
 
-### Advertising
 
-We work with third party ad networks to display advertising on our website and to manage our advertising on other websites.  Our ad network partners uses cookies and web beacons to collect non-personal information about your activities on our website and on other websites to provide you targeted advertising based upon your interests.  If you do not wish to have this information used for the purpose of serving you targeted ads, you may opt-out using [TRUSTe’s Preference Manager](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
-### Social Media Features
+We also use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
-Our website includes social media features, such as the Facebook Like button. These features may collect your IP address and information on the page you are visiting on our website, and they may set a cookie to enable the particular feature to function properly.  These social media features are either hosted by a third party or hosted directly on our website.  Your interactions with these social media features are governed by the privacy policy of the company providing it.
-
-### Facebook Connect
-
-**As part of our service, you can** use Facebook Connect to authenticate your identity and provide you the option to share certain personal information with us, such as your name and email address, which is associated with your Lemon account. You can also authenticate your identity using Facebook Connect to post comments on our blog.  Facebook Connect also lets you post information about your activities on our website and in our mobile apps to your Facebook profile page to share with others within your network.
-
-### Protecting Children’s Privacy
-
-We do not intentionally or knowingly collect personal data from children under the age of 13.  If you are under the age of 13, please do not use our website, services or mobile apps, or submit any personal data using these.  If you believe that your or any other child has provided us with personal data, please contact us immediately.   See “Contact Us” below.
-
-### California Privacy Rights
-
-We do not share personal information with third parties for their direct marketing, other than as permitted by law.  As required under California law, if we decide to provide a third party with your personal information for direct marketing purposes and you are a California resident, we will provide you with a method to opt-out of having your personal information shared like that.  If you have questions about our information sharing practices, you can contact us. See “Contact Us” below.
-
-### Changes to this Policy
-
-We may make changes to this Privacy Policy.  If we make material changes, we will do so in accordance with applicable legal requirements, and we will post a notice on our website alerting you to the material changes prior to such changes becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-### Others Applicable Terms and Conditions
-
-Use of our website, services and mobile apps is also subject to our [Terms of Use](http://lemon.com/terms/ "Terms of Use"),  and any other agreements that apply to you, such as the [Terms of Use for Developers](http://developers.lemon.com/terms/).  Among others, these include disclaimers, limitations of liability, and a choice of California law.
-
-[](https://privacy.truste.com/privacy-seal/Lemon,-Inc-/validation?rid=87254088-7e51-48a4-a7e2-6f3e26b46708 "TRUSTe European Safe Harbor certification")
+**You or Your** refers to you as a Member or User of our Site or Services.
