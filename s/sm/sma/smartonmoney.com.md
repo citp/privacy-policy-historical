@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartonmoney.com privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618153954id_/http%3A//www.smartonmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartonmoney.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227062719id_/http%3A//www.smartonmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
