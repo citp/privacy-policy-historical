@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingcharts.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617023420id_/http%3A//www.marketingcharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingcharts.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227072955id_/http%3A//www.marketingcharts.com/privacy) for the most accurate reproduction.*
 
 # Watershed Publishing Privacy Policy
 
@@ -34,4 +34,4 @@ We have put security measures in place to protect the loss, misuse and alteratio
 
 Personally Identifiable Information provided to Watershed Publishing is subject to disclosure pursuant to judicial or other government subpoenas, warrants or orders. We make every effort possible to preserve user privacy and anonymity; however, we may need to disclose personal information when required by law wherein such action is necessary to comply with judicial proceedings, court orders or legal processes served on our Website.
 
-– Watershed Publishing, March 2007
+— Watershed Publishing, March 2007
