@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carkhabri.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326174915id_/http%3A//www.carkhabri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carkhabri.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227172056id_/http%3A//www.carkhabri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,11 +59,11 @@ By using our site, you consent to our web site privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-**Contacting Us**
+**Contact Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.   
-www.carkhabri.com  
-6-Kha-9, Jawahar Nagar  
+[www.carkhabri.com](http://www.carkhabri.com/)  
+4-Ra-5, Jawahar Nagar  
 Jaipur, Rajasthan 302004  
 India  
-admin@carkhabri.com
+[info@carkhabri.com](mailto:info@carkhabri.com?subject=Privacy%20Policy-Carkhabri)
