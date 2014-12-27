@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the montefiore.org privacy policy that was archived on 2014-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140527004941id_/http%3A//www.montefiore.org/body.cfm%3Fid%3D1557) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the montefiore.org privacy policy that was archived on 2014-12-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141227090952id_/http%3A//www.montefiore.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -11,19 +11,19 @@
 	<link rel="shortcut icon" href="favicon.ico">
 	<link rel="canonical" href="http://www.montefiore.org/privacy-policy">
 
-	<link type="text/css" rel="stylesheet" href="template.css">
+	<link type="text/css" rel="stylesheet" href="/template.css">
 	<!--[if IE 7]>
-	<link type="text/css" rel="stylesheet" href="template_ie7.css">
+	<link type="text/css" rel="stylesheet" href="/template_ie7.css">
 	<![endif]-->
 	<!--[if IE 6]>
-	<link type="text/css" rel="stylesheet" href="template_ie6.css">
+	<link type="text/css" rel="stylesheet" href="/template_ie6.css">
 	<![endif]-->
-	<link type="text/css" rel="stylesheet" href="default.css">
-	<link type="text/css" rel="stylesheet" href="print.css" media="print">
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="jquery-1.7.1.min.js"></script>
-	<script language="javascript" src="utilities/BrowserDetect.js"></script>
-	<script type="text/javascript" src="template.js"></script>
-	<script type="text/javascript" src="swfobject.js"></script>
+	<link type="text/css" rel="stylesheet" href="/default.css">
+	<link type="text/css" rel="stylesheet" href="/print.css" media="print">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jquery-1.7.1.min.js"></script>
+	<script language="javascript" src="/utilities/BrowserDetect.js"></script>
+	<script type="text/javascript" src="/template.js"></script>
+	<script type="text/javascript" src="/swfobject.js"></script>
 	<script type="text/javascript">var switchTo5x=false;</script>
 	
 	
@@ -31,7 +31,8 @@
 		if(((BrowserName=="MSIE"&&BrowserVersion>=8)||BrowserName!="MSIE")&&"off"!="on"){
 			document.write(unescape("%3Cscript type='text/javascript' src='http://w.sharethis.com/button/buttons.js'%3E%3C/script%3E")); 
 			$(document).ready(function(){
-				stLight.options({publisher: "0ccb2171-29e9-4dee-b410-28bbbc839a10"}); 	
+				stLight.options({publisher: "0ccb2171-29e9-4dee-b410-28bbbc839a10"});
+				RebuildRefs();
 			});
 		}
 		else{
@@ -39,7 +40,31 @@
 				$(".st_sharethis").parent().html("");
 				$(".st_sharethis_large").parent().html("");
 				$("img[src$='footer-icon-share-text.gif']").hide();
+				RebuildRefs();
 			});
+		}
+		
+		function RebuildRefs(){
+			$("img").each(function(){
+				var s = $(this).attr("src");
+				if(s.substr(0,4)!="http"&&s.substr(0,1)!="/")
+					$(this).attr("src","/"+s);
+			});
+			$("script").each(function(){
+				if($(this).attr("src")){
+					var s = $(this).attr("src");
+					if(s.substr(0,4)!="http"&&s.substr(0,1)!="/"){
+var head= document.getElementsByTagName('head')[0];
+var script= document.createElement('script');
+script.type= 'text/javascript';
+script.src= '/'+$(this).attr("src");
+head.appendChild(script);
+						
+						$(this).remove();
+					}
+				}
+			});
+			
 		}
 	</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 	
@@ -120,9 +145,9 @@ font-size: 11px;
 <!-- Begin NavBar Bar #1 Content Output... -->
 <div class="listnav" id="listnav_1" onclick="NavBar_deleteCookie();">
 	<ul id="Link1_1_1">
-		<li class="listnav first-child children" id="Link2_1_1454" onmouseover="RestoreAll();navbarMouseover(1,1454,'1');" onmouseout="navbarMouseout(1,1454,'1');" onclick="NavBar_setPLinkIDCookie('1454','');"><a href="about" id="Link3_1_1454"><span>About Us</span></a></li>
-		<li class="listnav children" id="Link2_1_1336" onmouseover="RestoreAll();navbarMouseover(1,1336,'1');" onmouseout="navbarMouseout(1,1336,'1');" onclick="NavBar_setPLinkIDCookie('1336','');"><a href="information-for-professionals" id="Link3_1_1336"><span>For Professionals</span></a></li>
-		<li class="listnav last-child children" id="Link2_1_1485" onmouseover="RestoreAll();navbarMouseover(1,1485,'1');" onmouseout="navbarMouseout(1,1485,'1');" onclick="NavBar_setPLinkIDCookie('1485','');"><a href="newsroom" id="Link3_1_1485"><span>Newsroom</span></a></li>
+		<li class="listnav first-child children" id="Link2_1_1454" onmouseover="RestoreAll();navbarMouseover(1,1454,'1');" onmouseout="navbarMouseout(1,1454,'1');" onclick="NavBar_setPLinkIDCookie('1454','');"><a href="body.cfm?id=1454" id="Link3_1_1454"><span>About Us</span></a></li>
+		<li class="listnav children" id="Link2_1_1336" onmouseover="RestoreAll();navbarMouseover(1,1336,'1');" onmouseout="navbarMouseout(1,1336,'1');" onclick="NavBar_setPLinkIDCookie('1336','');"><a href="body.cfm?id=1336" id="Link3_1_1336"><span>For Professionals</span></a></li>
+		<li class="listnav last-child children" id="Link2_1_1485" onmouseover="RestoreAll();navbarMouseover(1,1485,'1');" onmouseout="navbarMouseout(1,1485,'1');" onclick="NavBar_setPLinkIDCookie('1485','');"><a href="body.cfm?id=1485" id="Link3_1_1485"><span>Newsroom</span></a></li>
 	</ul>
 </div> 
 <!-- End NavBar Output -->
@@ -130,8 +155,8 @@ font-size: 11px;
 <!-- Begin NavBar Bar #2 Content Output... -->
 <div class="listnav" id="listnav_2" onclick="NavBar_deleteCookie();">
 	<ul id="Link1_2_1">
-		<li class="listnav first-child children" id="Link2_2_1506" onmouseover="RestoreAll();navbarMouseover(2,1506,'1');" onmouseout="navbarMouseout(2,1506,'1');" onclick="NavBar_setPLinkIDCookie('1506','');"><a href="careers" id="Link3_2_1506"><span>Careers</span></a></li>
-		<li class="listnav children" id="Link2_2_1528" onmouseover="RestoreAll();navbarMouseover(2,1528,'1');" onmouseout="navbarMouseout(2,1528,'1');" onclick="NavBar_setPLinkIDCookie('1528','');"><a href="giving" id="Link3_2_1528"><span>Ways to Give</span></a></li>
+		<li class="listnav first-child children" id="Link2_2_1506" onmouseover="RestoreAll();navbarMouseover(2,1506,'1');" onmouseout="navbarMouseout(2,1506,'1');" onclick="NavBar_setPLinkIDCookie('1506','');"><a href="body.cfm?id=1506" id="Link3_2_1506"><span>Careers</span></a></li>
+		<li class="listnav children" id="Link2_2_1528" onmouseover="RestoreAll();navbarMouseover(2,1528,'1');" onmouseout="navbarMouseout(2,1528,'1');" onclick="NavBar_setPLinkIDCookie('1528','');"><a href="body.cfm?id=1528" id="Link3_2_1528"><span>Ways to Give</span></a></li>
 		<li class="listnav last-child" id="Link2_2_1228" onmouseover="RestoreAll();navbarMouseover(2,1228,'1');" onmouseout="navbarMouseout(2,1228,'1');" onclick="NavBar_setPLinkIDCookie('1228','');"><a href="body.cfm?id=1228" id="Link3_2_1228"><span>Directions/Parking</span></a></li>
 	</ul>
 </div> 
@@ -879,149 +904,155 @@ window.onload = DHTMLFullyLoaded;
 				</div>
 				<div id="childContent12"><table cellpadding="0" cellspacing="0" class="ChildNav1" border="0">
 					<tbody><tr id="cRow12_1" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_1"><a href="integrative-medicine" target="" class="clSubb1">Integrative Medicine</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_1"><a href="radiology-main" target="" class="clSubb1">Radiology</a></td>
 					</tr>
 					<tr id="cRow12_2" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_2"><a href="allergy-immunology" target="" class="clSubb1">Allergy &amp; Immunology</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_2"><a href="integrative-medicine" target="" class="clSubb1">Integrative Medicine</a></td>
 					</tr>
 					<tr id="cRow12_3" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_3"><a href="anesthesiology" target="" class="clSubb1">Anesthesiology &amp; Pain Management</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_3"><a href="allergy-immunology" target="" class="clSubb1">Allergy &amp; Immunology</a></td>
 					</tr>
 					<tr id="cRow12_4" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_4"><a href="rheumatology" target="" class="clSubb1">Arthritis &amp; Joint Disease (Rheumatology)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_4"><a href="anesthesiology" target="" class="clSubb1">Anesthesiology</a></td>
 					</tr>
 					<tr id="cRow12_5" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_5"><a href="asthma-center" target="" class="clSubb1">Asthma Center</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_5"><a href="rheumatology" target="" class="clSubb1">Arthritis &amp; Joint Disease (Rheumatology)</a></td>
 					</tr>
 					<tr id="cRow12_6" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_6"><a href="hematology" target="" class="clSubb1">Blood (Hematology)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_6"><a href="asthma-center" target="" class="clSubb1">Asthma Center</a></td>
 					</tr>
 					<tr id="cRow12_7" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_7"><a href="surgery-orthopaedic" target="" class="clSubb1">Bones, Muscles &amp; Joints (Orthopaedics)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_7"><a href="hematology" target="" class="clSubb1">Blood (Hematology)</a></td>
 					</tr>
 					<tr id="cRow12_8" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_8"><a href="neurology" target="" class="clSubb1">Brain (Neurology)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_8"><a href="surgery-orthopaedic" target="" class="clSubb1">Bones, Muscles &amp; Joints (Orthopaedics)</a></td>
 					</tr>
 					<tr id="cRow12_9" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_9"><a href="centers-of-excellence" target="" class="clSubb1">Centers of Excellence</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_9"><a href="neurology" target="" class="clSubb1">Brain (Neurology)</a></td>
 					</tr>
 					<tr id="cRow12_10" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_10"><a href="dentistry" target="" class="clSubb1">Dentistry &amp; Oral Surgery</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_10"><a href="centers-of-excellence" target="" class="clSubb1">Centers of Excellence</a></td>
 					</tr>
 					<tr id="cRow12_11" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_11"><a href="thyroid" target="" class="clSubb1">Comprehensive Thyroid Program</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_11"><a href="aging-brain" target="" class="clSubb1">Center for the Aging Brain</a></td>
 					</tr>
 					<tr id="cRow12_12" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_12"><a href="dermatology" target="" class="clSubb1">Dermatology</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_12"><a href="dentistry" target="" class="clSubb1">Dentistry &amp; Oral Surgery</a></td>
 					</tr>
 					<tr id="cRow12_13" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_13"><a href="endocrinology" target="" class="clSubb1">Diabetes, Hormones &amp; Metabolism (Endocrinology)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_13"><a href="thyroid" target="" class="clSubb1">Comprehensive Thyroid Program</a></td>
 					</tr>
 					<tr id="cRow12_14" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_14"><a href="pathology" target="" class="clSubb1">Pathology (Diagnostics &amp; Testing)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_14"><a href="dermatology" target="" class="clSubb1">Dermatology</a></td>
 					</tr>
 					<tr id="cRow12_15" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_15"><a href="gastroenterology" target="" class="clSubb1">Digestive &amp; Liver Diseases (Gastroenterology)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_15"><a href="endocrinology" target="" class="clSubb1">Diabetes, Hormones &amp; Metabolism (Endocrinology)</a></td>
 					</tr>
 					<tr id="cRow12_16" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_16"><a href="geriatrics" target="" class="clSubb1">Elder Care (Geriatrics)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_16"><a href="pathology" target="" class="clSubb1">Pathology (Diagnostics &amp; Testing)</a></td>
 					</tr>
 					<tr id="cRow12_17" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_17"><a href="emergency-medicine" target="" class="clSubb1">Emergency Medicine</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_17"><a href="gastroenterology" target="" class="clSubb1">Digestive &amp; Liver Diseases (Gastroenterology)</a></td>
 					</tr>
 					<tr id="cRow12_18" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_18"><a href="eyes" target="" class="clSubb1">Eyes (Ophthalmology and Visual Sciences)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_18"><a href="geriatrics" target="" class="clSubb1">Elder Care (Geriatrics)</a></td>
 					</tr>
 					<tr id="cRow12_19" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_19"><a href="family-social-medicine" target="" class="clSubb1">Family and Social Medicine</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_19"><a href="emergency-medicine" target="" class="clSubb1">Emergency Medicine</a></td>
 					</tr>
 					<tr id="cRow12_20" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_20"><a href="general-internal-medicine" target="" class="clSubb1">General Internal Medicine</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_20"><a href="eyes" target="" class="clSubb1">Eyes (Ophthalmology and Visual Sciences)</a></td>
 					</tr>
 					<tr id="cRow12_21" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_21"><a href="body.cfm?id=1117" target="" class="clSubb1">General Surgery</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_21"><a href="family-social-medicine" target="" class="clSubb1">Family and Social Medicine</a></td>
 					</tr>
 					<tr id="cRow12_22" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_22"><a href="headache-center" target="" class="clSubb1">Headache Center</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_22"><a href="general-internal-medicine" target="" class="clSubb1">General Internal Medicine</a></td>
 					</tr>
 					<tr id="cRow12_23" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_23"><a href="body.cfm?id=512" target="" class="clSubb1">Heart (Cardiology &amp; Vascular)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_23"><a href="body.cfm?id=1117" target="" class="clSubb1">General Surgery</a></td>
 					</tr>
 					<tr id="cRow12_24" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_24"><a href="hiv-aids" target="" class="clSubb1">HIV/AIDS</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_24"><a href="headache-center" target="" class="clSubb1">Headache Center</a></td>
 					</tr>
 					<tr id="cRow12_25" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_25"><a href="home-care" target="" class="clSubb1">Home Care</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_25"><a href="body.cfm?id=512" target="" class="clSubb1">Heart (Cardiology &amp; Vascular)</a></td>
 					</tr>
 					<tr id="cRow12_26" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_26"><a href="hyperbaric" target="" class="clSubb1">Hyperbaric Medicine</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_26"><a href="hiv-aids" target="" class="clSubb1">HIV/AIDS</a></td>
 					</tr>
 					<tr id="cRow12_27" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_27"><a href="critical-care" target="" class="clSubb1">ICU (Critical Care Medicine)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_27"><a href="home-care" target="" class="clSubb1">Home Care</a></td>
 					</tr>
 					<tr id="cRow12_28" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_28"><a href="infectious-diseases" target="" class="clSubb1">Infectious Diseases</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_28"><a href="hyperbaric" target="" class="clSubb1">Hyperbaric Medicine</a></td>
 					</tr>
 					<tr id="cRow12_29" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_29"><a href="internal-medicine" target="" class="clSubb1">Internal Medicine</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_29"><a href="critical-care" target="" class="clSubb1">ICU (Critical Care Medicine)</a></td>
 					</tr>
 					<tr id="cRow12_30" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_30"><a href="medicine" target="" class="clSubb1">Medicine</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_30"><a href="infectious-diseases" target="" class="clSubb1">Infectious Diseases</a></td>
 					</tr>
 					<tr id="cRow12_31" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_31"><a href="nephrology" target="" class="clSubb1">Kidney Disease (Nephrology)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_31"><a href="internal-medicine" target="" class="clSubb1">Internal Medicine</a></td>
 					</tr>
 					<tr id="cRow12_32" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_32"><a href="pulmonary" target="" class="clSubb1">Lungs (Pulmonary Medicine)</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_32"><a href="nephrology" target="" class="clSubb1">Kidney Disease (Nephrology)</a></td>
 					</tr>
 					<tr id="cRow12_33" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_33"><a href="neurosurgery" target="" class="clSubb1">Neurological Surgery</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_33"><a href="medicine" target="" class="clSubb1">Medicine</a></td>
 					</tr>
 					<tr id="cRow12_34" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_34"><a href="womens-health" target="" class="clSubb1">OB/GYN &amp; Women's Health</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_34"><a href="pulmonary" target="" class="clSubb1">Lungs (Pulmonary Medicine)</a></td>
 					</tr>
 					<tr id="cRow12_35" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_35"><a href="ent" target="" class="clSubb1">Otorhinolaryngology - Head and Neck Surgery</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_35"><a href="neurosurgery" target="" class="clSubb1">Neurological Surgery</a></td>
 					</tr>
 					<tr id="cRow12_36" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_36"><a href="pharmacy-services" target="" class="clSubb1">Pharmacy Services</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_36"><a href="womens-health" target="" class="clSubb1">OB/GYN &amp; Women's Health</a></td>
 					</tr>
 					<tr id="cRow12_37" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_37"><a href="primary-care" target="" class="clSubb1">Primary Care</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_37"><a href="ent" target="" class="clSubb1">Otorhinolaryngology - Head and Neck Surgery</a></td>
 					</tr>
 					<tr id="cRow12_38" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_38"><a href="psychiatry" target="" class="clSubb1">Psychiatry and Behavioral Sciences</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_38"><a href="pharmacy-services" target="" class="clSubb1">Pharmacy Services</a></td>
 					</tr>
 					<tr id="cRow12_39" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_39"><a href="radiology" target="" class="clSubb1">Radiology</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_39"><a href="primary-care" target="" class="clSubb1">Primary Care</a></td>
 					</tr>
 					<tr id="cRow12_40" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_40"><a href="rehabilitation-medicine" target="" class="clSubb1">Physical Medicine and Rehabilitation</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_40"><a href="psychiatry" target="" class="clSubb1">Psychiatry and Behavioral Sciences</a></td>
 					</tr>
 					<tr id="cRow12_41" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_41"><a href="std" target="" class="clSubb1">STD Program</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_41"><a href="radiology" target="" class="clSubb1">Radiology</a></td>
 					</tr>
 					<tr id="cRow12_42" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_42"><a href="sleep-wake-disorders" target="" class="clSubb1">Sleep-Wake Disorders Center</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_42"><a href="rehabilitation-medicine" target="" class="clSubb1">Physical Medicine and Rehabilitation</a></td>
 					</tr>
 					<tr id="cRow12_43" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_43"><a href="sternstrokecenter" target="" class="clSubb1">Stern Stroke Center at Montefiore</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_43"><a href="std" target="" class="clSubb1">STD Program</a></td>
 					</tr>
 					<tr id="cRow12_44" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_44"><a href="surgery" target="" class="clSubb1">Surgery</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_44"><a href="sleep-wake-disorders" target="" class="clSubb1">Sleep-Wake Disorders Center</a></td>
 					</tr>
 					<tr id="cRow12_45" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_45"><a href="surgical-services" target="" class="clSubb1">Surgical Specialties</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_45"><a href="sternstrokecenter" target="" class="clSubb1">Stern Stroke Center at Montefiore</a></td>
 					</tr>
 					<tr id="cRow12_46" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_46"><a href="body.cfm?id=1179" target="" class="clSubb1">Transplant Surgery</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_46"><a href="surgery" target="" class="clSubb1">Surgery</a></td>
 					</tr>
 					<tr id="cRow12_47" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink12_47"><a href="urology" target="" class="clSubb1">Urology</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink12_47"><a href="surgical-services" target="" class="clSubb1">Surgical Specialties</a></td>
+					</tr>
+					<tr id="cRow12_48" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink12_48"><a href="body.cfm?id=1179" target="" class="clSubb1">Transplant Surgery</a></td>
+					</tr>
+					<tr id="cRow12_49" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink12_49"><a href="urology" target="" class="clSubb1">Urology</a></td>
 					</tr>
 				</tbody></table></div>
 				<!--[if lte IE 6.5]>
-				<div id="endTablelyr12" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr12" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:705;z-index:-1;filter:mask();"></iframe>
+				<div id="endTablelyr12" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr12" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:735;z-index:-1;filter:mask();"></iframe>
 				<![endif]-->
 			</div>
 		</div>
@@ -1134,7 +1165,7 @@ window.onload = DHTMLFullyLoaded;
 						<td valign="top" class="ChildNav1" style="" id="cLink1296_8"><a href="body.cfm?id=1407" target="" class="clSubb1">Alumni Relations</a></td>
 					</tr>
 					<tr id="cRow1296_9" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink1296_9"><a href="contact-education" target="" class="clSubb1">Contact</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink1296_9"><a href="contact-education" target="" class="clSubb1">Education and Training Contacts</a></td>
 					</tr>
 				</tbody></table>
 				<!--[if lte IE 6.5]>
@@ -1169,11 +1200,17 @@ window.onload = DHTMLFullyLoaded;
 						<td valign="top" class="ChildNav1" style="" id="cLink1306_6"><a href="community-reports" target="" class="clSubb1">Community Reports</a></td>
 					</tr>
 					<tr id="cRow1306_7" style="vertical-align: top; background-color: transparent;" onmouseover="">
-						<td valign="top" class="ChildNav1" style="" id="cLink1306_7"><a href="events" target="" class="clSubb1">Community Events</a></td>
+						<td valign="top" class="ChildNav1" style="" id="cLink1306_7"><a href="montefiore-community-events-and-activities" target="" class="clSubb1">Events and Activities</a></td>
+					</tr>
+					<tr id="cRow1306_8" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink1306_8"><a href="workshops" target="" class="clSubb1">Health Management Workshops</a></td>
+					</tr>
+					<tr id="cRow1306_9" style="vertical-align: top; background-color: transparent;" onmouseover="">
+						<td valign="top" class="ChildNav1" style="" id="cLink1306_9"><a href="body.cfm?id=3416" target="" class="clSubb1">Montefiore Hudson Valley Collaborative</a></td>
 					</tr>
 				</tbody></table>
 				<!--[if lte IE 6.5]>
-				<div id="endTablelyr1306" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr1306" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:105;z-index:-1;filter:mask();"></iframe>
+				<div id="endTablelyr1306" style="height:1px;overflow:hidden;"></div><iframe id="Framelyr1306" frameborder="0" style="background-color:transparent;left:0px;position:absolute;top:0px;width:100%;height:135;z-index:-1;filter:mask();"></iframe>
 				<![endif]-->
 			</div>
 		</div>
@@ -1182,7 +1219,7 @@ window.onload = DHTMLFullyLoaded;
 <!-- Begin NavBar Bar #3 Content Output... -->
 <div class="findphys" id="listnav_3" onclick="NavBar_deleteCookie();">
 	<ul id="Link1_3_1">
-		<li class="findphys only-child" id="Link2_3_1735" onmouseover="RestoreAll();nbMouseover('button_topnav_findADoctor_3_1','images/button_topnav_findADoctor.gif','');navbarMouseover(3,1735,'1');" onmouseout="nbMouseoverRestore();navbarMouseout(3,1735,'1');" onclick="NavBar_setPLinkIDCookie('1735','');"><a href="doctors" id="Link3_3_1735"><span><img src="images/button_topnav_findADoctor.gif" border="0" alt="Find a Doctor" id="button_topnav_findADoctor_3_1" name="button_topnav_findADoctor_3_1"></span></a></li>
+		<li class="findphys only-child" id="Link2_3_1735" onmouseover="RestoreAll();nbMouseover('button_topnav_findADoctor_3_1','images/button_topnav_findADoctor.gif','');navbarMouseover(3,1735,'1');" onmouseout="nbMouseoverRestore();navbarMouseout(3,1735,'1');" onclick="NavBar_setPLinkIDCookie('1735','');"><a href="body.cfm?id=1735" id="Link3_3_1735"><span><img src="images/button_topnav_findADoctor.gif" border="0" alt="Find a Doctor" id="button_topnav_findADoctor_3_1" name="button_topnav_findADoctor_3_1"></span></a></li>
 	</ul>
 </div> 
 <!-- End NavBar Output -->
@@ -1435,13 +1472,13 @@ window.onload = DHTMLFullyLoaded;
 <!-- Begin NavBar Bar #4 Content Output... -->
 <div class="footer2" id="listnav_4" onclick="NavBar_deleteCookie();">
 	<ul id="Link1_4_1">
-		<li class="footer2 first-child children" id="Link2_4_1557" onmouseover="RestoreAll();navbarMouseover(4,1557,'1');" onmouseout="navbarMouseout(4,1557,'1');" onclick="NavBar_setPLinkIDCookie('1557','');"><a href="privacy-policy" id="Link3_4_1557"><span>Privacy Policy</span></a></li>
+		<li class="footer2 first-child children" id="Link2_4_1557" onmouseover="RestoreAll();navbarMouseover(4,1557,'1');" onmouseout="navbarMouseout(4,1557,'1');" onclick="NavBar_setPLinkIDCookie('1557','');"><a href="body.cfm?id=1557" id="Link3_4_1557"><span>Privacy Policy</span></a></li>
 		<li class="footer2 between"><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span></li>
-		<li class="footer2" id="Link2_4_1558" onmouseover="RestoreAll();navbarMouseover(4,1558,'1');" onmouseout="navbarMouseout(4,1558,'1');" onclick="NavBar_setPLinkIDCookie('1558','');"><a href="sitemap" id="Link3_4_1558"><span>Sitemap</span></a></li>
+		<li class="footer2" id="Link2_4_1558" onmouseover="RestoreAll();navbarMouseover(4,1558,'1');" onmouseout="navbarMouseout(4,1558,'1');" onclick="NavBar_setPLinkIDCookie('1558','');"><a href="body.cfm?id=1558" id="Link3_4_1558"><span>Sitemap</span></a></li>
 		<li class="footer2 between"><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span></li>
-		<li class="footer2" id="Link2_4_1556" onmouseover="RestoreAll();navbarMouseover(4,1556,'1');" onmouseout="navbarMouseout(4,1556,'1');" onclick="NavBar_setPLinkIDCookie('1556','');"><a href="for-vendors" id="Link3_4_1556"><span>For Vendors</span></a></li>
+		<li class="footer2" id="Link2_4_1556" onmouseover="RestoreAll();navbarMouseover(4,1556,'1');" onmouseout="navbarMouseout(4,1556,'1');" onclick="NavBar_setPLinkIDCookie('1556','');"><a href="body.cfm?id=1556" id="Link3_4_1556"><span>For Vendors</span></a></li>
 		<li class="footer2 between"><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span></li>
-		<li class="footer2" id="Link2_4_2820" onmouseover="RestoreAll();navbarMouseover(4,2820,'1');" onmouseout="navbarMouseout(4,2820,'1');" onclick="NavBar_setPLinkIDCookie('2820','');"><a href="compliance-hotline" id="Link3_4_2820"><span>Compliance Hotline</span></a></li>
+		<li class="footer2" id="Link2_4_2820" onmouseover="RestoreAll();navbarMouseover(4,2820,'1');" onmouseout="navbarMouseout(4,2820,'1');" onclick="NavBar_setPLinkIDCookie('2820','');"><a href="body.cfm?id=2820" id="Link3_4_2820"><span>Compliance Hotline</span></a></li>
 		<li class="footer2 between"><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span></li>
 		<li class="footer2 last-child" id="Link2_4_3002" onmouseover="RestoreAll();navbarMouseover(4,3002,'1');" onmouseout="navbarMouseout(4,3002,'1');" onclick="NavBar_setPLinkIDCookie('3002','');"><a href="http://www.montefiorehealthsystem.org/" id="Link3_4_3002" target="_blank"><span>A Member of the Montefiore Health System</span></a></li>
 	</ul>
