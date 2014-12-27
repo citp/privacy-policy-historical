@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the fastcoexist.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625205812id_/http%3A//www.fastcompany.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcoexist.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227164036id_/http%3A//www.fastcompany.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fast Company | Business + Innovation
 
 _Updated as of May 5, 2011_
+
+**[ABOUT US](http://www.fastcompany.com/about-us)** | **[MASTHEAD](http://www.fastcompany.com/staff-masthead)** | **[FAQ](http://www.fastcompany.com/frequently-asked-questions)** | **[MEDIA KIT](http://mediakit.fastcompany.com/)** | **[EVENTS](http://www.fastcompany.com/events)** | **[CONTACT US](http://www.fastcompany.com/contact-us)** | PRIVACY POLICY
+
+* * *
 
 **Safeguarding your privacy is very important to us.** We take seriously the collection of any personally identifiable information and personal contact information ("personal information") from our visitors and are committed to protecting each visitor's privacy in accordance with these policies. We use the term "visitors" to include registered members of Inc. communities and any other person that accesses our websites at any point for any amount of time, unless designated otherwise. Please carefully review our information collection practices and privacy protections below.
 
