@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the artkerala.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102040041id_/http%3A//artkerala.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artkerala.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227050212id_/http%3A//www.artkerala.com/content/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Art Kerala
 
-This is the web site of Incom Infotech.
-
-Our postal address is BHS Road, Tripunithura, Cochin, Kerala 682301
-
-We can be reached via e-mail at mail [at] artkerala [dot] com or you can reach us by telephone at 091 484 4016262
+We can be reached via e-mail at mail [at] artkerala [dot] com or you can reach us by telephone at 091 9388633734
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -16,7 +12,7 @@ The information we collect is used for internal review and is then discarded, us
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <http://www.networkadvertising.org/pdfs/NAI_principles.pdf>
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [http://www.networkadvertising.org/pdfs/NAI_principles.pdf](http://web.archive.org/web/20111021002400/http://www.networkadvertising.org/pdfs/NAI_principles.pdf "http://www.networkadvertising.org/pdfs/NAI_principles.pdf")
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.
 
@@ -34,9 +30,9 @@ Persons who supply us with their telephone numbers on-line will only receive tel
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: <http://www.google.com/privacy_ads.html>
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: [http://www.google.com/privacy_ads.html](http://web.archive.org/web/20111021002400/http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html")
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically, 27-03-2009.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically,
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by writing to us at the above address.
 
