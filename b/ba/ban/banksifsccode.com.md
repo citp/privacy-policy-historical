@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banksifsccode.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091747id_/http%3A//banksifsccode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banksifsccode.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227010050id_/http%3A//banksifsccode.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,14 @@ We collect information from you when you register on our site, subscribe to our 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
  **Google Adsense and the DoubleClick DART Cookie**
+
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
+
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to www.banksifsccode.com and/or other sites on the Internet..
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
+
+Alternatively, you can opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
