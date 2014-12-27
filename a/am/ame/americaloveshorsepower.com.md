@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americaloveshorsepower.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628234826id_/http%3A//americaloveshorsepower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americaloveshorsepower.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227035354id_/http%3A//americaloveshorsepower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
