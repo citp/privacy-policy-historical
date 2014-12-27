@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205152304id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227040842id_/http%3A//www.nist.gov/public_affairs/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement/SecurityNotice/Accessibility Statement
 
-[*](http://www.nist.gov/public_affairs/disclaimer.cfm) |  [](http://www.addthis.com/bookmark.php?v=300&pub=usnistgov)  
+[*](https://web.archive.org/public_affairs/disclaimer.cfm) |  [](https://www.addthis.com/bookmark.php?v=300&pub=usnistgov)  
 ---|---  
   
+Privacy Policy | Cookie Disclaimer | Security Notice | Accessibility Statement | [NIST Privacy Impact Assessments](https://web.archive.org/director/oism/policies.cfm)
+
+* * *
+
 **Privacy Policy**
 
 Thank you for visiting the National Institute of Standards and Technology Web site. We are committed to the privacy of our visitors. We collect no personal information about you when you visit our Web site unless you choose to provide that information to us.
@@ -16,7 +20,7 @@ Here is how we handle information about your visit to our Web site.
 Cookies are small files that Web servers place on a user's hard drive. They can serve several functions:
 
   * they allow the Web site to identify you as a previous visitor each time you access a site;
-  * they track what information you view at a site (important to NIST to ensure visitors find what they are looking for);
+  * they track what information you view at a site (important to NIST to ensure visitors find what they are looking for);
   * in the more advanced cases they track your movements through many Web sites but not the whole Web;
   * businesses use them for customer convenience to allow them to produce a list of items to buy and pay for them all at one time and to garner information about what individuals are buying at their sites;
   * advertisers use them to determine the effectiveness of their marketing and offer insights into consumer preferences and tastes by collecting data from many Web sites; and
