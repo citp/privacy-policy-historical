@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effectivemeasure.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133456id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectivemeasure.net privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227062334id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Effective Measure
 
@@ -30,6 +30,8 @@ From time to time we may also administer random “interactive pop-up” surveys
 The technology used by Effective Measure is not intended to collect personally identifiable information. In some limited circumstances, however, some voluntarily provided personally identifiable information may be captured; for example, when an email address or telephone number is incorporated into a survey for the potential awarding of a prize draw, or when the respondent has opted-in to possible follow up research. This information may be shared with overseas entities or customers who in turn have agreed to adhere to this Privacy Policy.
 
 Effective Measure does NOT use personally identifiable information inadvertently captured in this manner. Your personally identifiable information will NEVER be used by Effective Measure to advertise, promote or market third party goods or services to you.
+
+Effective Measure will in some occasions make available to third parties such as research and or marketing companies anonymised cookie information. 
 
 **Links to Other Web Sites**  
 Our web site contains links to information on other web sites. We do not have any control over these other web sites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those sites. This Privacy Policy does not govern those sites, and if you have questions about how a site uses your information, consult that site’s privacy statement.
