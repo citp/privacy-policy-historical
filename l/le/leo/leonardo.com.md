@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the leonardo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628173700id_/http%3A//www.leonardo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leonardo.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227193026id_/http%3A//www.leonardo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Leonardo.com
+# Privacy Policy | Leonardo
 
-##  Privacy Policy
-
-Leonardo Worldwide Corporation ["Leonardo"] is committed to protecting and respecting your privacy. If you have received email from us in error or would otherwise like to be removed from all future mailings you have two options:
+Leonardo Worldwide Corporation [“Leonardo”] is committed to protecting and respecting your privacy. If you have received email from us in error or would otherwise like to be removed from all future mailings you have two options:
 
   1. Use the opt-out link in the footer of the offending email.
   2. Send an email to [Privacy](mailto:privacy@leonardo.com?subject=REMOVE) with REMOVE in the subject line either from the email address you would like removed or include the email addresses to be removed in the email body.
