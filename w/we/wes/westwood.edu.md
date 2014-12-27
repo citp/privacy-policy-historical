@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629114210id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227210739id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
 
 # Westwood College Privacy Policy
 
@@ -33,6 +33,12 @@ Additionally:
 
 
 
+If you submit a review:
+
+We may use your review content in a number of different ways, including publicly displaying it, reformatting it, incorporating it into advertisements and other works, creating derivative works from it, promoting it, distributing it, and allowing others to do the same in connection with their own websites and media platforms. As such, you hereby irrevocably grant us world-wide, perpetual, non-exclusive, royalty-free, assignable, sublicensable, transferable rights to use your review content for any purpose. Please note that you also irrevocably grant the users of this website the right to access your review content in connection with their use of the website. Finally, you irrevocably waive, and cause to be waived, against Westwood and its users any claims and assertions of moral rights or attribution with respect to your review content. By "use" we mean use, copy, publicly perform and display, reproduce, distribute, modify, translate, remove, analyze, commercialize, and prepare derivative works of your content.
+
+Personally identifiable information about yourself that you submit in your review will be available for viewing by users of this web site. Please do not include personally identifiable information about others in your post without their permission.
+
 ### Email Communications
 
 We will send you strictly related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email.
@@ -43,7 +49,7 @@ If you sign up to receive emails regarding upcoming events (such as an open hous
 
 ### Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or deactivate it by logging into your account if you are a registered student and updating your settings , filling out the request info form again, or by contacting us at [information@westwood.edu](mailto:information@westwood.edu).
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update or deactivate it by logging into your account if you are a registered student and updating your settings, filling out the request info form again, or by contacting us at [information@westwood.edu](mailto:information@westwood.edu).
 
 We will retain your information for as long as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [information@westwood.edu](mailto:information@westwood.edu). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
