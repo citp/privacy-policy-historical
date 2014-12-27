@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echalk.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209005916id_/http%3A//www.echalk.co.uk/info/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echalk.co.uk privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227031717id_/http%3A//www.echalk.co.uk/info/privacyPolicy.html) for the most accurate reproduction.*
 
 # eChalk privacy policy
 
