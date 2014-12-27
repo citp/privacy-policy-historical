@@ -1,118 +1,66 @@
-> *The following text is extracted and transformed from the dhost.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022133357id_/http%3A//www.dhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dhost.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227043308id_/http%3A//www.dhost.com/privacy-policy) for the most accurate reproduction.*
 
-# DHost Privacy Policy
+# Privacy Policy
 
-### Privacy Policy
+At dHost we recognize that privacy is important. This Privacy Policy applies to all products and services provided by us.
 
-**The Information We Collect**
+#### Collection of Information
 
-This notice applies to all information collected on the DHOST website, or submitted to DHOST at any time through any of our services on the website.
+We collect various information when you register with Company, during your usage of our products and services, when you visit pages of our partners. We may combine information about you that we have with information we obtain from other partners or other companies in order to provide you a better experience or to improve the quality of our services. When you sign in to our services, you are not anonymous to us. We automatically receive and record information from your computer and browser, including your IP address, our cookie information, software and hardware attributes, the page you request and other standard browser parameters.
 
-Personally Identifiable Information - When visiting DHOST`s Web site and signing-up for or using an DHOST powered service such as registering for a domain, our Forum, Tell -A- Friend or Reporting Abuse, you may choose to supply DHOST with information that identifies you personally. This information may include your name and contact information, as well as other demographic or commerce related information.
+When you use our services, we send one or more cookies - a small file containing a string of characters - to your device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing you with a better experience. We may set one or more cookies in your browser when you use our services or one of our partner's services. When you send messages, publish content, post material, transmit information or email through our services, we may retain the same in order to process your inquiries, respond to your requests and improve our services.
 
-**Cookies**
+Our infrastructure consists of servers deployed at multiple datacenters that are owned and operated by us or our partners. All information collected within our services resides on this network of servers.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+#### Use of Information
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "Help" file.
+We only use and process personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include:
 
-We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+  * Communicating with you
+  * Making the sites or services easier to use by eliminating the need for you to repeatedly enter the same information
+  * Providing our services
+  * Auditing, research and analysis in order to maintain, protect and improve our services
+  * Ensuring the technical functioning of our network
+  * Protecting our rights or property and that of our users
+  * Developing new services
+  * As described in the respective terms of service of each of our services and in the dHost Customer Master Agreement
 
-If you reject cookies, you may still use our site, but you will be asked to enter your username and password again every time you closed your browser or your session has timed out.
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See "Third Party Advertisers."
 
-This privacy statement covers the use of cookies by DHOST only and does not cover the use of cookies by any advertisers.
+#### No-Spam Policy
 
-**Log Files**
+We have a strict No-Spam Policy prohibiting the use of any data collected to send spam. We will not sell any contact information to third parties.
 
-As it is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data.
+#### Choices for Personal Information
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users movements around the site and to gather demographic information about our user base as a whole.
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose defined herein and in the terms of the services offered then we will ask for your consent prior to such use. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some of our features and services may not function properly if your cookies are disabled. You can decline to submit personal information to any of our services, in which case we may not be able to provide those services to you.
 
-We do not link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to prevent and block abusers to keep using our services such as members who violates our terms of service.
+#### Information Sharing
 
-We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate of usage and volume statistics to determine how our users navigate through our website and to know how many users are using our services demographically.
+We only share personal information with other companies or individuals in the following limited circumstances:
 
-**The Way We Use Information**
+  * We have your consent
+  * Sharing the information with our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to:  
+(a) satisfy any applicable law, regulation, legal process or enforceable governmental request,  
+(b) enforce applicable Terms of Service, including investigation of potential violations thereof,  
+(c) detect, prevent, or otherwise address fraud, security or technical issues, or  
+(d) protect against harm to rights, property or safety, of our users, us or the public as required or permitted by law.
+  * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users by demographic. Such information does not identify you individually.
+  * As permitted and described in the respective terms of service of each of our services and in the dHost Customer Master Agreement
 
-We use the information you provide about yourself or others to complete the transaction for which it is intended. This may include administering a service such as registration, email, forum, etc., or contacting you if you have indicated your permission to do so by agreeing to accept further notification and service announcement from us on your member profile page. You can choose to opt-out of receiving any further notification from your member profile page. We do not share this information with outside parties without your permission.
 
-**Tell -A- Friend**
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. DHOST stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
+#### Information Security
 
-**Support Forum**
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-If you use the Support Forum on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in this forum.
+We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-**Internal Surveys**
+#### Accessing and Updating Personal Information
 
-Upon using our free services, you will be requested to participate in our periodic internal surveys which are conducted by DHOST to determine your personal interests. These surveys are strictly voluntary. The data collected through these surveys will be used solely to determine the type of advertisements you will be exposed with when you are logged in to your control panel account.
+When you use our services, we make good faith efforts to provide you with access to your personal information and to correct this data if it is inaccurate.
 
-Each survey will be sponsored by our partners, which will be in a form of survey prizes. However, any PII collected will not be shared in any way to any of our partners or affiliates. The information collected will only be used to enhance our Web site and your experience and to award prizes.
+#### Changes to this Privacy Policy
 
-The surveys will be prompted when you are logging in to your DHOST account, a new survey will be prompted to you, whenever it is available.
-
-**Communications from the Site**
-
-When we receive email, we use return email addresses to reply with the information requested. Such addresses are not used for any other purpose and are not shared with outside parties. When supplying contact information to DHOST you can indicate your preference if you would like to be contacted to receive information and updates about our services by logging in to your DHOST account, going to your member profile page and choose not to receive any further notification emails from us or other information pertaining to DHOST. Information you submit to us will not be used for this purpose unless you indicate this as your preference. When supplying contact information to DHOST you can indicate your preference on your members profile page to participate in the DHOST program if you would like to receive special offers from other companies that we think may be of interest to you through our periodically newsletter. Information you submit to us will not be used for this purpose unless you elect to participate in the DHOST program or otherwise consent.
-
-You will receive a confirmation email from us when placing an order on our site and paying through one of our trusted 3rd parties such as CCAvenue. They only share back information with us about the transaction such as your name, item ordered, email address, etc.
-
-**Choice/Opt-out**
-
-We provide you the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you register for our free services, but choose not to receive any promotional newsletter concerning our updated services.
-
-If you no longer wish to receive our newsletter and promotional communications, you may opt- out of receiving them by following the instructions included in each newsletter or communication or by emailing us at opt-out@DHOST. We offer an opportunity to opt- out of certain communications on our member profile page, or you may contact us at opt- out@DHOST 
-
-You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
-
-Generally, you may not opt-out of service related communications (such as replying to your emails, order confirmation emails, etc.) which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account by contacting us at opt- out@DHOST.
-
-**Information Sharing and Disclosure**
-
-We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users. We use non-identifying and aggregate information to better design our Web site and services, and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our Web site, or that Y number of men and Z number of women use a certain service, but we would not disclose anything that could be used to identify those individuals unless they indicated this as their preference by participating in the DHOST program.
-
-We do not link aggregate user data with personally identifiable information.
-
-**Personally identifiable information:**
-
-DHOST does not share, sell, rent, or trade PII with third parties for their promotional purposes except with your consent as described in this privacy policy.
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described within this privacy policy without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
-**How You Can Access or Correct Your Information**
-
-You can access all your personally identifiable information that we collect online and maintain by logging into your password-protected account and selecting to update your Profile or Personal Info. We use this procedure to better safeguard your information. You can also correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-**Specific Terms and Conditions**
-
-DHOST considers email transmitted via our service to be the private correspondence between the sender and recipient. We will not monitor, edit or disclose the contents of a user`s private communications, except as required by law, to comply with legal process, if necessary to enforce the Service Agreement, to respond to claims that such contents violate the rights of third- parties, or to protect the rights or property of DHOST. By using the service you agree that technical processing of email communications is and may be required to send and receive messages, to conform to the technical requirements of connecting networks, to conform to the limitations of the Service, or to conform to other, similar technical requirements. By using the service you acknowledge and agree that DHOST do not endorse the content of any user communications and are not responsible or liable for any unlawful, harassing, libelous, privacy invading, abusive, threatening, harmful, vulgar, obscene, tortuous, or otherwise objectionable content, or content that infringes or may infringe the intellectual property or other rights of another.
-
-**Legal Disclaimer**
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
-
-**Security**
-
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can send email us at privacy@dhost.com 
-
-**Links to Other Sites**
-
-This Web site contains links to other sites that are not owned or controlled by DHOST. Please be aware that we, DHOST are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
-
-**Changes in this Privacy Statement**
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
-
-**DHOST Legal Department  
-DANIN IT Pvt. Ltd.  
-SCO 68-70, Level 4  
-Sector 17C  
-Chandigarh - 160017  
-+91-172-4100000  
-privacy@dhost.com   
-**
+Please note that this Privacy Policy may change from time to time.
