@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebitchy.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054707id_/http%3A//www.celebitchy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebitchy.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227165209id_/http%3A//www.celebitchy.com/privacy_policy) for the most accurate reproduction.*
 
 # Cele|bitchy | Privacy Policy
 
@@ -7,7 +7,7 @@ We collect information from you when you comment on our site.
 
 When commenting on our site you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
-Google, Advertising.com, Taboola, Intellitxt, and GumGum, as third party vendors, use cookies to serve ads on our site.
+Google, Advertising.com, Outbrain, Intellitxt, and GumGum, as third party vendors, use cookies to serve ads on our site.
 
 The use of cookies enables them to serve ads to users based on their visits to our site and other sites on the Internet.
 
@@ -15,7 +15,7 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 
 Users may opt out of the use of the Advertising.com cookie by visiting the [AOL Advertising privacy policy](http://advertising.aol.com/privacy).
 
-Users may opt out of the use of the Taboola cookie by visiting [their privacy policy](https://www.taboola.com/privacy-policy)
+Users may opt out of the use of the Outbrain cookie by visiting [their privacy policy](http://www.outbrain.com/legal/privacy-713#Four)
 
 Users may opt out of Intellitxt and GumGum’s cookies through the [Network Advertising Initiative consumer opt-out website.](http://www.networkadvertising.org/choices/)
 
@@ -47,7 +47,7 @@ By using our site, you consent to our online privacy policy.
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page.  
-This policy was last modified on November 7, 2013.
+This policy was last modified on July 28, 2014.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
