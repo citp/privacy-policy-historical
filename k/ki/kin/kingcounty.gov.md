@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingcounty.gov privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626204206id_/http%3A//www.kingcounty.gov/about/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingcounty.gov privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227062843id_/http%3A//www.kingcounty.gov/about/website/privacy) for the most accurate reproduction.*
 
 # Privacy - King County
 
