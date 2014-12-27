@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneytips.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814094302id_/http%3A//www.moneytips.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytips.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227145526id_/http%3A//www.moneytips.com/privacy) for the most accurate reproduction.*
 
-# Privacy - MoneyTips
+# Privacy | MoneyTips
 
 **Collection of Information** The Site collects information from individuals by various methods, including, but not limited to the list herein, which is inclusive of online or offline methods. (As used herein, "online" means using the Internet, including The site and other websites, and related technologies, and "offline" means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means) . In these methods, The Site may ask an individual to provide various information, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, user behavior, other demographic information and such other information as may be requested from time to time (together, "Personal Information"). Providing information is completely voluntary, and individuals are under no obligation to provide Personal Information to the Site. 
 
