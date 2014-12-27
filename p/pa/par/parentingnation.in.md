@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parentingnation.in privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627031531id_/http%3A//www.parentingnation.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentingnation.in privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227052715id_/http%3A//www.parentingnation.in/privacy-policy) for the most accurate reproduction.*
 
-# Parenting Advice India, Pregnancy Advice, Baby Care, Baby Names India - Parenting Nation India
+# Privacy Policies of Parenting Portal Parenting Nation India - Parenting Nation India
 
 **Introduction:**
 
