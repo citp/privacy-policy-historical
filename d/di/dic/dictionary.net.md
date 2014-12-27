@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dictionary.net privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624074544id_/http%3A//www.dictionary.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dictionary.net privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227093655id_/http%3A//www.dictionary.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Dictionary.net
 
