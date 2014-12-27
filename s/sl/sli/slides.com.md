@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slides.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034305id_/http%3A//slides.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slides.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227180249id_/http%3A//slides.com/privacy) for the most accurate reproduction.*
 
 # Slides
 
@@ -9,6 +9,8 @@ Slides is owned and operated by Whim, LLC. It is Whim's policy to respect your p
 #### Website Visitors
 
 Like most website operators, Slides collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Slides’ purpose in collecting non-personally identifying information is to better understand how Slides’ visitors use its website. From time to time, Slides may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. 
+
+Additionally, paid users of our service may optionally collect non-personally-identifying information about your use of the pages they have created and made available with our service. These pages include both a paid user's profile and decks they have published with the service. The purpose of collecting this information is so that our paid users can better understand how the content they have created with the service is being used. No personally-identifying information is shared with any of our paid users. 
 
 Slides also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. Slides only discloses logged in user IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below. 
 
@@ -42,4 +44,5 @@ Although most changes are likely to be minor, Slides may change its Privacy Poli
 
 Slides can be reached at [support@slides.com](mailto:support@slides.com?subject=Terms+of+Service). 
 
-Effective as of 4-25-2013
+Effective as of 4-25-2013  
+Updated 10-29-2014 
