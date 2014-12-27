@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deseretbook.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110457id_/http%3A//deseretbook.com/privacy/5110611) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deseretbook.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227062109id_/https%3A//deseretbook.com/privacy/5110611) for the most accurate reproduction.*
 
 # Deseret Book Privacy Policy
 
