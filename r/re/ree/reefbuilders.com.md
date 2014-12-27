@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reefbuilders.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063405id_/http%3A//reefbuilders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reefbuilders.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227195934id_/http%3A//reefbuilders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,6 +67,6 @@ If you have any questions about our Privacy Practices or this Policy, please con
 **Reef Builders, Inc’s Copyright Agent  
 **Ryan Gripp  
 Reef Builders, Inc.  
-3126 N Spaulding Ave  
-Chicago, IL 60618  
+427 N Tatnall St #23264  
+Wilmington, DE 19801-2230  
 ryan DOT gripp AT reefbuilders.com
