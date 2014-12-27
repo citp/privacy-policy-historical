@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truckaddons.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327060243id_/http%3A//www.truckaddons.com/orderinfo.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truckaddons.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227114604id_/http%3A//www.truckaddons.com/orderinfo.htm%23privacy) for the most accurate reproduction.*
 
 # Ordering Information at TruckAddons.com
 
@@ -8,7 +8,7 @@ Online Orders:
 TruckAddons.com provides a simple online ordering process to serve our customers. We offer hundreds of thousands of parts for online purchase and over 1 million parts orderable over the telephone. To place your order online, navigate TruckAddons.com and find the products you'd like to purchase. Press the "Add to Cart" button for the product. The product will be added to your shopping cart. You may continue to shop or check out by pressing the "Go to Secure Checkout" button. Choose your payment method and then enter your billing, shipping and contact information. Once you complete the checkout process you will be sent an order confirmation to the email address you provided during the checkout process.  
   
 Phone Orders:  
-If you would like to place your order by phone, use our toll free number 1-800-388-8637. Our automotive accessory specialists are available Monday - Saturday 9am to 6pm EST. Feel free to find the item your interested in online and call in to place the order, or we can help you get the right part for your vehicle.
+If you would like to place your order by phone, use our toll free number  1-859-231-8120. Our automotive accessory specialists are available Monday - Saturday 9am to 6pm EST. Feel free to find the item your interested in online and call in to place the order, or we can help you get the right part for your vehicle.
 
   
 
@@ -18,14 +18,15 @@ TruckAddons.com proudly accepts the following payment methods.
 |   
   
 ---  
-   
+Credit Card Charges:  
+Credit card charges will be from _**Truck and Auto Extras**_ , the parent company of TruckAddons.com.  
   
   
 
 
 In most cases we will provide you with a tracking number within 3-5 business days of placing your order without having to request it. Most orders are processed and shipped within this time frame.
 
-TruckAddons.com ships from our main warehouse in Lexington Kentucky, but we also ship from multiple warehouses across the country as well as shipping directly from 500+ manufacturers straight to you when needed. This can cause delays in providing the customer a tracking number. Often, customers will receive their order before we are able to supply them their tracking number on drop ship or factory direct orders. If you would like to request a tracking number, please use the [tracking request](https://web.archive.org/web/20140327060243id_/http%3A//www.truckaddons.com/contact/tracking.php) form. 
+TruckAddons.com ships from our main warehouse in Lexington Kentucky, but we also ship from multiple warehouses across the country as well as shipping directly from 500+ manufacturers straight to you when needed. This can cause delays in providing the customer a tracking number. Often, customers will receive their order before we are able to supply them their tracking number on drop ship or factory direct orders. If you would like to request a tracking number, please use the [tracking request](https://web.archive.org/web/20141227114604id_/http%3A//www.truckaddons.com/contact/tracking.php) form. 
 
   
 
@@ -35,7 +36,7 @@ In most cases, products ordered from TruckAddons.com will ship within 24-48 hour
   
 
 
-In order to ensure the protection and security of your personal information, Trailblazers/TruckAddons.com utilizes secure line technology at TruckAddons.com. Our site has built-in security measures to prevent the loss, misuse or alteration of your information. Your credit card information is protected using 128-bit (SSL) encryption technology, and is SET compliant. To insure that no one other than our company receives your information, all you private information is encrypted.
+In order to ensure the protection and security of your personal information, Trailblazers/TruckAddons.com utilizes secure line technology at TruckAddons.com. Our cart has built-in security measures to prevent the loss, misuse or alteration of your information. Your credit card information is protected using 128-bit (SSL) encryption technology, and is SET compliant. To insure that no one other than our company receives your information, all you private information is encrypted.
 
   
 
@@ -101,14 +102,14 @@ Remarketing allows TruckAddons.com to reach out to our visitors in banner advert
 | 
 
 Call Toll Free   
-1-800-388-8637  
+1-859-231-8120  
   
 ---|---  
   
   
 
 
-[](https://web.archive.org/web/20140327060243id_/http%3A//www.truckaddons.com/contact/contact.php)
+[](https://web.archive.org/web/20141227114604id_/http%3A//www.truckaddons.com/contact/contact.php)
 
 | 
 
