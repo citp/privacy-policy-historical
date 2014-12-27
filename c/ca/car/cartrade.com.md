@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartrade.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628033525id_/http%3A//www.cartrade.com/company/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartrade.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227034050id_/http%3A//www.cartrade.com/company/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | CarTrade.com
 
