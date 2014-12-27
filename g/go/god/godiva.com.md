@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the godiva.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626153348id_/http%3A//www.godiva.com/privacy-policy/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godiva.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227143812id_/http%3A//www.godiva.com/privacy-policy/privacyPolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | GODIVA
 
 **Privacy Policy**
 
