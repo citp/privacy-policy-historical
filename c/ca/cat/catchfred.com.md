@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the catchfred.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516201704id_/http%3A//catchfred.com/2012-06-06-13-52-16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchfred.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227075916id_/http%3A//catchfred.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | catchfred
+# Privacy Policy | catchFred
 
 ##  [ Privacy Policy](http://catchfred.com/privacy-policy/)
-
-     Written by Christina Marinos 
 
 **catchFred.com** takes every step in safe-guarding and protecting your information and privacy. When using our site you can rest assured that catchFred uses the latest security measures to encrypt data while in transit and the best firewall security solutions while the data is stored.
 
@@ -52,22 +50,20 @@ Remember, all emails can be unsubscribed from immediately by clicking the "unsub
 
 Have other questions? Feel free to contact us any time, and if you have further questions about catchFred.com.
 
-Related stories
+Other Simular:
 
-  * [Clothes for Dogs?...](http://catchfred.com/clothes/ "Clothes for Dogs?")  
-Occasions like parties, festivities, social events, shopping or going on an outing, lots of people enjoy having their doggy around. Dog owners prefer to dress t...  
-
-
+[404 Error...](http://catchfred.com/404-error/ "404 Error, Article has been viewed 103039 times")  
+Not sure what happened but you can go back to the home page by clicking here -OR- {loadposition search404} ...  
 
 
-  * [Healthy Paws...](http://catchfred.com/healthy-paw/ "Healthy Paws")  
+[Healthy Paws Insurance...](http://catchfred.com/healthy-paws-insurance/ "Healthy Paws Insurance, Article has been viewed 516236 times")  
 The Dog Insurance Center From diagnosing a bee sting to treating serious conditions like cancer, Healthy Paws helps you ensure your best friend recei...  
 
 
-
-
-  * [Terms of Use...](http://catchfred.com/terms-conditions/ "Terms of Use")  
+[Terms of Use...](http://catchfred.com/terms-conditions/ "Terms of Use, Article has been viewed 232572 times")  
 CATCHFRED, ACCEPTANCE OF TERMS OF USE (updated March 11, 2013) By using this site (the "Site"), you ("you" or the "End User") agree to the terms and condition...  
 
 
+[Pomeranian....](http://catchfred.com/pomeranian/ "Pomeranian., Article has been viewed 14587 times")  
+Appearance The Pomeranian is a compact, short-backed, active toy dog of Nordic descent. The double coat consists of a short dense undercoat with a profuse hars...  
 
