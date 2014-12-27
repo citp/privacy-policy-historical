@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091459id_/http%3A//freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227221730id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Free Stuff
 
@@ -12,7 +12,7 @@ In this privacy policy a reference to "prize draws", "draws", "competitions" or 
 
 * **Information provided by you through the Website**
 
-When you participate in activities on the Website, you are asked to provide information about yourself. This includes your name, address, date of birth, gender, e-mail address and telephone number. We may also ask further questions regarding your marital status, education and for example about the price you want to receive, your interests, preferences and the receipt of products or information. Allgroove Limited can also use your telephone number to send you a text message. These messages are for the verification of an order made.
+When you participate in activities on the Website, you are asked to provide information about yourself. This includes your name, address, date of birth, gender, e-mail address and telephone number. We may also ask further questions regarding your marital status, education and for example about the price you want to receive, your interests, preferences and the receipt of products or information. Allgroove Limited and our [Sponsors](https://web.archive.org/sponsors.php) can also use your telephone number to send you a text message. These messages are for the verification of an order made.
 
   
 
