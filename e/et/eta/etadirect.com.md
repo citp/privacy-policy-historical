@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the etadirect.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628075121id_/http%3A//toatech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etadirect.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227122903id_/http%3A//toatech.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TOA Technologies
+
+TOA Technologies has been [acquired](http://www.oracle.com/us/corporate/acquisitions/toatechnologies/index.html "Oracle and TOA Technologies") by Oracle and will soon transition to the Oracle Privacy Policy. Click [here](http://www.oracle.com/us/legal/privacy/privacy-policy/index.html "Oracle Legal Notices") to view the Oracle Privacy Policy and read your options for opt out and compliance issues under that policy. Please note that the provisions of TOA Technologies’ Privacy Policy below will remain active until the policy transition is complete.
 
 TOA Technologies is committed to maintaining the highest ethical standards during the receipt and processing of personal information it receives through its customers and their clients, vendors, business partners, employees and others.
 
