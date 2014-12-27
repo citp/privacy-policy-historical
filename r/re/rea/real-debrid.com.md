@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125359id_/http%3A//real-debrid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the real-debrid.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227195046id_/http%3A//real-debrid.com/privacy) for the most accurate reproduction.*
 
 # Real-Debrid | Quality Unrestricted Downloaders
 
@@ -11,9 +11,9 @@ This privacy policy may be changed at any time.
 
 Agreement relating to confidentiality. 
 
-#### IP Addresses recording
+#### IP Addresses recording and their geolocations
 
-Our servers can detect the IP Address of Users connection through the Internet. These IP addresses are recorded by our servers for internal use only (registration on the site, optimal use of downloads, etc.).
+Our servers can detect the IP Address of Users connection through the Internet. These IP addresses and their geolocations are recorded by our servers for internal use only (registration on the site, optimal use of downloads, protection against thieves, etc.).
 
 #### Email addresses recording
 
@@ -37,4 +37,4 @@ The advertisements on our website are offered by other companies. They can use i
 
 #### Datalogging
 
-Files links that Users download are stored in a database for legal concerns and our internal use. All saved links are erased within a month for security issues and service needs.
+Files links that Users download are stored in a database for legal concerns and our internal use. All saved links are erased within 1 month for security reasons and service needs. However all requests made on our site are stored for 1 year, the legal retention period.
