@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the versus.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081859id_/http%3A//versus.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the versus.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227022541id_/http%3A//versus.com/privacypolicy) for the most accurate reproduction.*
 
 # Versus - Privacy Policy
 
@@ -19,8 +19,8 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 How we use collected information
 
 URGE IO GmbH may collect and use Users personal information for the following purposes:  
-\- To improve our Site  
-We may use feedback you provide to improve our products and services.
+\- To improve our Site, we may use feedback you provide to improve our products and services.  
+\- To come back to you with the latest activities you can find on our Site, we may use your email address with the purpose of sending emails, newsletters, deals and promotions.
 
 How we protect your information
 
