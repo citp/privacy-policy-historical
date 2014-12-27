@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627045136id_/http%3A//www.melbournewater.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227080348id_/http%3A//www.melbournewater.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy statement - Melbourne Water
 
-​We respect the privacy of your personal information and are committed to collecting and handling it responsibly and in conformity with the Information Privacy Act 2000 (Vic).
+​We respect the privacy of your personal information and are committed to collecting and handling it responsibly and in accordance with the _Privacy and Data Protection Act 2014_.
 
-This statement outlines our online privacy policy and applies to the entire Melbourne Water website. It does not extend beyond this website – if you visit other sites from this website you should familiarise yourself with their privacy statements.
+For general information about how we seek to protect your personal information, please see our [Privacy Policy (PDF, 517.94 KB)](https://web.archive.org/Documents/Privacy_Policy.pdf).
 
-For more general information about how Melbourne Water seeks to protect your privacy when handling your personal information, please see our [Privacy Policy (PDF, 517.94 KB)](https://web.archive.org/Documents/Privacy_Policy.pdf).
+Our policy is being updated in accordance with Victoria's _Privacy and Data Protection Act 2014_. 
 
-## What information do we collect?
+The following privacy statement applies to the entire Melbourne Water website, what personal information is collected and how it is handled.  The statement does not extend beyond this website. If you visit other sites from this website you should familiarise yourself with their privacy statements.
+
+## ​What information do we collect?
 
 We only collect personal information online when you choose to provide it, for example if you are paying a bill.
 
