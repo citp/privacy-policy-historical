@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenet.nl privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626104136id_/http%3A//en.usenet.nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenet.nl privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227072814id_/http%3A//en.usenet.nl/privacy) for the most accurate reproduction.*
 
 # Usenet.nl - privacy statement
 
@@ -64,4 +64,16 @@ Should you no longer wish to receive newsletter e-mails or similar information, 
 
 Our website exploits online Google AdWords and Google Display Network promotion systems. On this topic, Google guarantees its customers and users’ data privacy. Google AdWords enables a cookie on your computer. The cookie only remains valid for 30 days and is not used to identify personal data. If the user visits certain pages in the AdWords customer’s website and the cookie has not yet expired, Google and the customer are able to recognise the user who clicked on the ad and who was sent to this page. This information is used to create statistics that are analysed in anonymous form. We also exploit these Google AdWords functions to address users on this website to third party websites or internet users with profiles of specific interest, based on their internet use. We do not collect any personal information to do this. In fact, any analyses are used to calculate and evaluate promo ads and do not contain your personal information. Users who do not intend to participate in localisation may simply deactivate the Google Conversion-Tracking cookie in the internet browser user settings. These users will not be included in Conversion-Tracking statistics.
 
-Please note that Google has its own guidelines concerning personal data privacy. We may not be held liable in any way for these guidelines and procedures. Please visit Google to learn more about their data privacy terms before using our website. 
+Please note that Google has its own guidelines concerning personal data privacy. We may not be held liable in any way for these guidelines and procedures. Please visit Google to learn more about their data privacy terms before using our website.
+
+**7\. Risk Ident GmbH**
+
+We employ the services of the IT Security Agency Risk Ident GmbH (Sternstraße 105, 20357 Hamburg, Deutschland) for our website. All communication between us and Risk Ident takes place with the sole purpose of combating fraud when using our website.
+
+a) Data Storage
+
+Risk Ident collects and processes specific data on our users about the configuration of the user’s end device (“device-specific data”), raw data from the TCP/IP connection and data on the use of our website. In the process, tracking technology, such as cookies and JavaScript elements and Shockwave Flash objects are used which are integrated into the website. Cookies are text files which save the visited website via the browser onto your computer and which contain information about the use of this website. The JavaScript and Shockwave Flash objects make it possible to read information on the user’s end device, which is automatically transmitted after each internet session. For technical reasons, the user’s IP address is collected and processed by Risk Ident and encoded by Risk Ident within seconds. Risk Ident saves the information anonymously onto a databank for fraud prevention.
+
+b) Data Retrieval
+
+Whenever a user concludes a contract or aims to conclude a contract over our website, e.g. by setting up a user account or by beginning the check-out process in order to buy a certain item, we call up a risk assessment on Risk Ident’s databank which has been saved there for the user’s end device. This risk assessment, based inter alia on information ascertains (a) if the user’s end device is currently communicating or has communicated in the past a proxy connection, (b) if the end device has recently dialed into various internet service providers, (c) if the end device exhibits or has exhibited a frequent change in geo-reference, (d) how many internet transactions have been made in recent weeks (whereby we are not informed about the type of transaction), and (e) how probable it is that the end device saved in the Risk Ident data bank really belongs to the user. (The result of this risk assessment helps us to prevent fraud on our website. The data, however, is not a sole criterion to either complete or terminate a purchase).
