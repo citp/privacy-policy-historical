@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626094107id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucadibeppo.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227083600id_/http%3A//www.bucadibeppo.com/privacy-policy) for the most accurate reproduction.*
 
 # Buca di Beppo's Privacy Policy
 
