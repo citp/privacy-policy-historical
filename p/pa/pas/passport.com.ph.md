@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passport.com.ph privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606192754id_/http%3A//www.passport.com.ph/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passport.com.ph privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227174443id_/http%3A//www.passport.com.ph/info/privacy) for the most accurate reproduction.*
 
 # DFA Passport Appointment System
 
@@ -10,11 +10,15 @@ The specific practices outlined in this privacy statement apply to the DFA PASSP
 
 ## Purpose Specifications and Data Collection
 
-Overall, you can browse the DFA PASSPORT APPOINTMENT SYSTEM website(s) without disclosing any information about yourself. If you visit the DFA PASSPORT APPOINTMENT SYSTEM website(s) to read information, we will collect and store only the following information that is automatically recognized: the date and time, the originating IP address, the domain name, the type of browser and operating system used (if provided by the browser), the URL of the referring page (if provided by the browser). If you visit the DFA PASSPORT APPOINTMENT SYSTEM website(s) to get an appointment schedule, we collect and store as mandated by the DFA the following information: Application Type, Last Name, First Name, Middle Name, Birthday (mm/dd/yyyy),Birth Place, Birth Right, Gender, Civil Status, Father's Last Name, Father's First Name, Father's Middle Name, Father's Citizenship, Mother's Last Maiden Name, Mother's First Name, Mother's Middle Maiden Name, Mother's Citizenship, Purpose of Travel, Acquired Citizenship, Foreign Passport Holder?, Occupation, Office Number, Office Address, Phone Number, Mobile Number, Email, Philippine Address, City, Province, Landmarks, Deliver My Passport, Processing Type 
+Overall, you can browse the DFA PASSPORT APPOINTMENT SYSTEM website(s) without disclosing any information about yourself. If you visit the DFA PASSPORT APPOINTMENT SYSTEM website(s) to read information, we will collect and store only the following information that is automatically recognized: the date and time, the originating IP address, the domain name, the type of browser and operating system used (if provided by the browser), the URL of the referring page (if provided by the browser). 
 
-Cookies and Other Technologies
+If you visit the DFA PASSPORT APPOINTMENT SYSTEM website(s) to get an appointment schedule, we collect and store as mandated by the DFA the following information: Application Type, Last Name, First Name, Middle Name, Birthday (mm/dd/yyyy),Birth Place, Birth Right, Gender, Civil Status, Father's Last Name, Father's First Name, Father's Middle Name, Father's Citizenship, Mother's Last Maiden Name, Mother's First Name, Mother's Middle Maiden Name, Mother's Citizenship, Purpose of Travel, Acquired Citizenship, Foreign Passport Holder?, Occupation, Office Number, Office Address, Phone Number, Mobile Number, Email, Philippine Address, City, Province, Landmarks, Deliver My Passport, Processing Type 
 
-As described above, we sometimes collect anonymous information from visits to our website(s) to help us provide better service. We use the information that we collect to measure the number of visitors to the different areas of our website(s), and to help us make our website(s) more useful to visitors. This includes analysing these logs periodically to measure the traffic through our servers, the number of pages visited and the level of demand for pages and topics of interest. The logs may be preserved indefinitely and used at any time and in any way to prevent security breaches and to ensure the integrity of the data on our servers. We collect the anonymous information we mentioned above through the use of various technologies, one of which is called "cookies". A cookie is an element of data that a website can send to your browser, which may then be stored on your hard drive. The following information is stored in the cookies: 
+## Cookies and Other Technologies
+
+As described above, we sometimes collect anonymous information from visits to our website(s) to help us provide better service. We use the information that we collect to measure the number of visitors to the different areas of our website(s), and to help us make our website(s) more useful to visitors. This includes analysing these logs periodically to measure the traffic through our servers, the number of pages visited and the level of demand for pages and topics of interest. The logs may be preserved indefinitely and used at any time and in any way to prevent security breaches and to ensure the integrity of the data on our servers. 
+
+We collect the anonymous information we mentioned above through the use of various technologies, one of which is called "cookies". A cookie is an element of data that a website can send to your browser, which may then be stored on your hard drive. The following information is stored in the cookies: 
 
   * IP address
   * Unique ID
@@ -46,4 +50,6 @@ As the DFA PASSPORT APPOINTMENT SYSTEM creates new service upgrades that may gen
 
 ## Privacy Support
 
-If you have any inquiries about our privacy statement, please contact: DFA PASSPORT APPOINTMENT SYSTEM E-mail: info@passport.com.ph URL: www.passport.com.ph 
+If you have any inquiries about our privacy statement, please contact:   
+DFA PASSPORT APPOINTMENT SYSTEM E-mail: info@passport.com.ph   
+URL: www.passport.com.ph 
