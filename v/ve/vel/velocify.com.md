@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velocify.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626220528id_/http%3A//www.velocify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocify.com privacy policy that was archived on 2014-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141227044927id_/http%3A//velocify.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Velocify: High Performance Sales
 
