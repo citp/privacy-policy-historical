@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenindia.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629172801id_/http%3A//indianexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenindia.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228174950id_/http%3A//indianexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy | The Indian Express
 
@@ -22,4 +22,4 @@ We also use a reputable third party to serve the advertisements that you see on 
 
 ### Links to Other Sites
 
-Our website(s) has links to other website(s) in the World Wide Web. The privacy policies of these website(s) is not under our control. Once you leave our servers, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. It is advisable to read their privacy policies for further information. 
+Our website(s) has links to other website(s) in the World Wide Web. The privacy policies of these website(s) is not under _[continued…](http://indianexpress.com/privacy-policy/2)_
