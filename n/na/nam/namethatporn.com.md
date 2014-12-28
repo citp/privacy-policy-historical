@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the namethatporn.com privacy policy that was archived on 2014-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140405165105id_/http%3A//namethatporn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namethatporn.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228062303id_/http%3A//namethatporn.com/help/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - NameThatPorn.com :: One and Only Q&A site for Porn!
+# Privacy Policy › Help › NTP
 
 This document details important information regarding the use and disclosure of User Data collected on NameThatPorn.com
 
@@ -8,7 +8,7 @@ The security of your Data is very important to NameThatPorn.com and as such we t
 
 This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
-## Data Collected
+### Data Collected
 
   * Personal Information: 
     * Non-Registered users can view posts without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
@@ -21,7 +21,7 @@ This site expressly and strictly limits its membership and/or viewing privileges
 
 
 
-## Uses
+### Uses
 
   * Your Personally identifiable information submitted to NameThatPorn.com is used to provide to the user the website's features and special personalized features.
   * Your chosen username (not your email address) is displayed to other Users alongside the content you publish, including questions, answers, comments and etc.
@@ -34,7 +34,7 @@ This site expressly and strictly limits its membership and/or viewing privileges
 
 
 
-## Disclosure Of Information
+### Disclosure Of Information
 
   * If under duty to do so NameThatPorn.com may release data to comply with any legal obligation, or in order to enforce our Terms of Service and other agreements; or to protect the rights, property or safety of NameThatPorn.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms of Service. It is NameThatPorn.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
   * Should you deliberately post any illegal material NameThatPorn.com shall forward all available information to all relevant authorities and this without notice.
@@ -42,12 +42,12 @@ This site expressly and strictly limits its membership and/or viewing privileges
 
 
 
-## Security
+### Security
 
 Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
 Unfortunately, the transmission of information via the Internet is not completely secure. NameThatPorn.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to NameThatPorn.com and you do so at your own risk. 
 
-## Your Rights
+### Your Rights
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us via [Send Feedback](https://web.archive.org/web/20140405165105id_/http%3A//namethatporn.com/send-feedback) form. 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
