@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620205711id_/http%3A//www.haygroup.com/ww/misc/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haygroup.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228082940id_/http%3A//www.haygroup.com/en/legal-pages/privacy-policy) for the most accurate reproduction.*
 
-# Global privacy policy summary | Hay Group - Worldwide
-
-LAST UPDATED: November 15, 2013
+# Global privacy policy summary
 
 It is important that you read and understand our entire privacy policy before using the Services. The entire privacy policy can be found [here](https://web.archive.org/ww/misc/privacy-policy.aspx#Content_1 "Entire privacy policy"). To assist you with your review of the privacy policy, we have provided below a brief introductory statement for the key sections of the privacy policy, along with a link to the relevant section of the privacy policy. We note that the summary provided below is merely a handy reference guide, and is not a substitute for reviewing the entire privacy policy. Any capitalized terms that appear, but are not defined in the introduction, have the meanings given to them elsewhere in the privacy policy.
 
@@ -21,7 +19,7 @@ Back to Top
 
 LAST UPDATED: November 15, 2013
 
-Hay Group, Inc. and its [affiliates](https://web.archive.org/ww/about/locations.aspx "Hay Group, Inc. and its affiliates") (“ **Hay Group** ”) are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the websites operated by us from which you are accessing this Privacy Policy (the “Sites”), through the software applications and online services made available by us for use on or through computers and mobile devices (the “ **Apps** ”), through our social media pages and apps to which our Sites and Apps link (the “ **Social Media Pages** ”) as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Sites, the Apps and our Social Media Pages, the “ **Online Systems** ”), as well as information we collect through offline sources. By providing Personal Information (as defined below) to us, you agree to the terms and conditions of this Privacy Policy.
+Hay Group, Inc. and its [affiliates](https://web.archive.org/en/locations) (“ **Hay Group** ”) are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the websites operated by us from which you are accessing this Privacy Policy (the “Sites”), through the software applications and online services made available by us for use on or through computers and mobile devices (the “ **Apps** ”), through our social media pages and apps to which our Sites and Apps link (the “ **Social Media Pages** ”) as well as through HTML-formatted email messages that we send to you that link to this Privacy Policy (collectively, including the Sites, the Apps and our Social Media Pages, the “ **Online Systems** ”), as well as information we collect through offline sources. By providing Personal Information (as defined below) to us, you agree to the terms and conditions of this Privacy Policy.
 
 In the course of providing consulting services and related Online Systems (collectively “Consulting Services and Tools”) to its clients, Hay Group may collect, use and disclose certain Personal Information about individuals to whom the services relate (each, a “Participant”), which may include a client’s employees or other individuals. In addition to the generally applicable provisions of this Privacy Policy, please review the Consulting Services and Tools Participants section below to see important information.
 
@@ -29,13 +27,13 @@ Back to Top
 
 ### Safe harbor
 
-Hay Group Inc. has certified to the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU and the US and Switzerland with respect to certain Personal Information collected by our affiliates and corporate clients located in the European Economic Area and Switzerland and transferred to Hay Group, Inc. and Hay Group Management, Inc. in the United States. Please see our [Safe Harbor Statement](https://web.archive.org/ww/misc/index.aspx?id=39623 "Safe harbor statement"). For additional information regarding the Safe Harbor Program, see the U.S. Dept. of Commerce web site at <http://www.export.gov/safeharbor>. 
+Hay Group Inc. has certified to the Safe Harbor framework agreed to by the U.S. Department of Commerce and the EU and the US and Switzerland with respect to certain Personal Information collected by our affiliates and corporate clients located in the European Economic Area and Switzerland and transferred to Hay Group, Inc. and Hay Group Management, Inc. in the United States. Please see our [Safe Harbor Statement](https://web.archive.org/en/legal-pages/safe-harbour). For additional information regarding the Safe Harbor Program, see the U.S. Dept. of Commerce web site at <http://www.export.gov/safeharbor>. .
 
 Back to Top
 
 ### Personal Information
 
- **Personal Information We May Collect**
+**Personal Information We May Collect**
 
 “ **Personal Information** ” is information that identifies you as an individual, including: 
 
@@ -52,15 +50,15 @@ Back to Top
 
 If you submit any Personal Information relating to other people to us or to our service providers in connection with the Online Systems, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
- **How We May Collect Personal Information**
+**How We May Collect Personal Information**
 
 We and our service providers may collect Personal Information in a variety of ways, including: 
 
   * **Through the Online Systems** : We may collect Personal Information through the Online Systems, e.g., when you create an account, download a publication or make a purchase.  
 Offline: We may collect Personal Information from you offline, such as when you attend one of our training courses or conferences or another event, participate in employee compensation, effectiveness, talent and leadership surveys, diagnostics and assessments, or contact us over the telephone.
-  *  **From Other Sources** : We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; your employer’s Human Resources department or other personnel managers when your employer engages us to provide services; people with whom you are friends or otherwise connected on social media platforms; and other third parties. For example, if you elect to connect your social media account to your Site account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles. 
+  * **From Other Sources** : We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; your employer’s Human Resources department or other personnel managers when your employer engages us to provide services; people with whom you are friends or otherwise connected on social media platforms; and other third parties. For example, if you elect to connect your social media account to your Site account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles. 
 
-
+.
 
 **How We May Use Personal Information**
 
@@ -88,7 +86,7 @@ We may use Personal Information:
 
 Your Personal Information may be disclosed:
 
-  * To our [affiliates](https://web.archive.org/ww/about/locations.aspx "Hay Group, Inc. and its affiliates") for the purposes described in this Privacy Policy. Hay Group, Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * To our [affiliates](https://web.archive.org/en/locations) for the purposes described in this Privacy Policy. Hay Group, Inc. is the party responsible for the management of the jointly-used Personal Information.
   * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, marketing, email delivery, credit card processing, auditing and other similar services.
   * To third parties as needed to fulfill your request or transaction, such as our business partners, financial institutions, and Customs or other government authorities.
   * To or as instructed by your employer (for example, if you are designated as a contact person by your employer).
@@ -117,7 +115,7 @@ Back to Top
 
 ### Other Information
 
- **Other Information We May Collect**
+**Other Information We May Collect**
 
 “ **Other Information** ” is any information that does not reveal your specific identity or does not directly relate to an individual, such as: 
 
@@ -134,19 +132,19 @@ Back to Top
 We and our third party service providers may collect Other Information in a variety of ways, including:
 
   * **Through your browser or device** : Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Online Systems (such as the App) you are using. We use this information to ensure that the Online Systems function properly.
-  *  **Through your use of the App** : When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+  * **Through your use of the App** : When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+
+.
+
+  * **Using cookies** : Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Online Systems, pages visited, language preferences, and other anonymous traffic data. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at the Site may be diminished and some features may not work as they were intended. Please see our [Cookie policy](https://web.archive.org/system%20pages/Error?item=web%3a%7b8FCBD385-087A-4A5C-B286-13921AC25728%7d%40en) for more information.
 
 
 
-  *  **Using cookies** : Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Online Systems, pages visited, language preferences, and other anonymous traffic data. You can choose whether to accept cookies by changing the settings on your browser. However, if you choose to disable this function, your experience at the Site may be diminished and some features may not work as they were intended. Please see our [Cookie Policy](https://web.archive.org/ww/misc/index.aspx?id=34220 "Cookie policy") for more information.
-
-
-
-  *  **Using pixel tags and other similar technologies** : Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Online Systems to, among other things, track the actions of users of the Online Systems (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Online Systems and response rates.
-  *  **IP Address** : Your “ **IP Address** ” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Online Systems, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use IP Addresses for purposes such as calculating usage levels of the Online Systems, helping diagnose server problems, and administering the Online Systems.
-  *  **Physical Location** : We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
-  *  **From you** : Information such as your location, as well as other information, such as your areas of interest, preferred newsletters and online community choices, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Online Systems.
-  *  **By aggregating information** : Aggregated Personal Information does not personally identify you or any other user of the Online Systems, (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
+  * **Using pixel tags and other similar technologies** : Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Online Systems to, among other things, track the actions of users of the Online Systems (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Online Systems and response rates.
+  * **IP Address** : Your “ **IP Address** ” is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Online Systems, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use IP Addresses for purposes such as calculating usage levels of the Online Systems, helping diagnose server problems, and administering the Online Systems.
+  * **Physical Location** : We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
+  * **From you** : Information such as your location, as well as other information, such as your areas of interest, preferred newsletters and online community choices, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Online Systems.
+  * **By aggregating information** : Aggregated Personal Information does not personally identify you or any other user of the Online Systems, (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
 
 
 
@@ -170,6 +168,8 @@ Back to Top
 
 We may use third-party advertising companies to advertise our products and services on other websites, based on information relating to your access to and use of the Online Systems and other websites. To do so, these companies may place or recognize a unique cookie on your device (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit <http://www.networkadvertising.org/managing/opt_out.asp> and <http://www.aboutads.info/>.
 
+.
+
 Back to Top
 
 ### Security
@@ -180,7 +180,7 @@ Back to Top
 
 ### Choices and access
 
- **Your choices regarding our use and disclosure of your Personal Information**
+**Your choices regarding our use and disclosure of your Personal Information**
 
 We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from:
 
@@ -196,7 +196,7 @@ We will try to comply with your request(s) as soon as reasonably practicable. Pl
 
 **How you can access, change or suppress your Personal Information**
 
-If you would like to review, correct, update, suppress, or delete Personal Information that has been previously provided to us by you, you may contact us through the [Contact Us](https://web.archive.org/ww/contact/index.aspx "Contact us") page on our Site or as set forth in the “Contacting Us” section of this Privacy Policy.
+If you would like to review, correct, update, suppress, or delete Personal Information that has been previously provided to us by you, you may contact us through the [Contact us](https://web.archive.org/en/contact-us) page on our Site or as set forth in the “Contacting Us” section of this Privacy Policy.
 
 In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information that you have provided to us suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information that you have provided to us For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable. 
 
@@ -229,6 +229,8 @@ Back to Top
 ### Updates to this privacy policy
 
 We may change this Privacy Policy. Please take a look at the “Last Updated” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Online Systems. Your use of the Online Systems following these changes means that you accept the revised Privacy Policy. 
+
+.
 
 Back to Top
 
