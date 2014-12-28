@@ -1,37 +1,69 @@
-> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205205838id_/http%3A//www.advocatehealth.com/body.cfm%3Fid%3D197) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advocatehealth.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228015253id_/http%3A//www.advocatehealth.com/NoticeofPrivacyPractices) for the most accurate reproduction.*
 
-# notice of privacy practices
+# Notice of Privacy Practices
 
-To view **_Advocate's Notice of Privacy Practices/HIPAA_** [click here](https://web.archive.org/web/20101205205838id_/http%3A//www.advocatehealth.com/body.cfm?id=200).
+To view **_Advocate's Notice of Privacy Practices_**[click here](https://web.archive.org/web/20141228015253id_/http%3A//www.advocatehealth.com/documents/system/NoticeOfPrivacyPractices2013Final.pdf).  
+To view the _**Patient Acknowledgment Form**_ , [click here](https://web.archive.org/web/20141228015253id_/http%3A//www.advocatehealth.com/documents/system/Notice_of_Privacy_Practices_Acknowledgement_FormFinal.pdf).
 
-Advocate Health Care has always supported and recognized our patients' right to expect that their medical records and other information about their care will be kept confidential. For the past two years Advocate Health Care has been preparing to implement policies and procedures to comply with the Health Insurance Portability and Accountability Act of 1996 (HIPAA) Privacy Regulations. The HIPAA privacy regulations give patients more control over their health information and also set boundaries on the use and release of patient information.
+Advocate Health Care supports and recognizes our patients' right to expect that their medical records and other information about their care will be kept confidential.  Our Notice of Privacy Practices, effective September 23, 2013, includes:
 
-Advocate Health Care is committed to protecting the privacy of visitors to our website (www.advocatehealth.com). Information gathered on our website is used to monitor our effectiveness in providing relevant and credible health information, in answering questions, and in improving our website. As a not-for-profit, faith-based health care delivery system, Advocate is committed to making certain that our website is used as a resource to fulfill our mission of serving the health care needs of individuals, families and the communities in which they live.
+  * When we are required to obtain your authorization for disclosures, including for the use of psychotherapy notes
+  * How we may use your information for fundraising, as well as your right to opt out of receiving such communications
+  * Your right to receive notification if a breach occurs
 
-Our website, www.advocatehealth.com, is developed by Advocate Health Care. Our postal address is: Advocate Health Care, 2025 Windsor Drive, Oakbrook, IL, 60523-1586. Our website manager can be contacted at [webmaster@advocatehealth.com](mailto:webmaster@advocatehealth.com).
+
+
+For further questions regarding the Notice of Privacy Practices, or other HIPAA concerns, please call the Advocate Privacy Office at 630.929.5922.
+
+Advocate Health Care is committed to protecting the privacy of visitors to our website ([www.advocatehealth.com](http://www.advocatehealth.com/)). Information gathered on our website is used to monitor our effectiveness in providing relevant and credible health information, in answering questions, and in improving our website. As a not-for-profit, faith-based health care delivery system, Advocate is committed to making certain that our website is used as a resource to fulfill our mission of serving the health care needs of individuals, families and the communities in which they live.  
+Our website, [www.advocatehealth.com](http://www.advocatehealth.com/), is developed by Advocate Health Care. Our postal address is: Advocate Health Care, 3075 Highland Parkway, Suite 600, Downers Grove, IL, 60515. Our website manager can be contacted at [webmaster@advocatehealth.com](mailto:webmaster@advocatehealth.com).
 
 This site recognizes and collects, when possible, the domain name of a visitor's server (for example, advocatehealth.com or aol.com). We do not automatically collect the full e-mail address of visitors to our website. The only way we obtain your name or e-mail address is when you choose to provide that information to us. Examples of how you might provide us with such personal information include:
 
-  * Completing a survey or feedback form; 
-  * E-mailing us with a comment or question; 
-  * Subscribing to our e-mail notification service for new editions of Health Advocate magazine; 
-  * Establishing a personalized homepage via our website. 
+  * Completing a survey or feedback form;
+  * E-mailing us with a comment or question;
+  * Subscribing to our e-mail notification service for new editions of Health Advocate magazine;
+  * Establishing a personalized homepage via our website.
+
+
+
+We use Google Universal Analytics to collect website data that allows us to get a better understanding of how our site visitors interact with our online content.  If you do nothing during your visit but browse through the website or download information, Google Universal Analytics will automatically gather and store certain information about your visit. This information does not identify you personally and is used in a general way to help us improve our website and tell us the number of visitors to our site each day. 
+
+Our web server automatically collects and records the following information:
+
+  * Aggregate information on what pages are accessed
+  * Address of the website that linked to us (referral URL)
+  * Date and time you access our site
+  * Name and release number of web browser software used
+  * Operating system used
+  * Visitor's domain name, but not the e-mail address
+  * Visitor's IP address
+  * Age, gender and interests
+
+
+
+This site recognizes and collects, when possible, the domain name of a visitor's server (for example, advocatehealth.com or aol.com). We do not automatically collect the full e-mail address of visitors to our website. The only way we obtain your name or e-mail address is when you choose to provide that information to us. Examples of how you might provide us with such personal information include:
+
+  * Completing a survey or feedback form
+  * E-mailing us with a comment or question
+  * Subscribing to our e-mail notification service for new editions of Health Advocate magazine
+  * Establishing a personalized homepage via our website
 
 
   * Advocate Health Care does not sell, trade or rent personal information about its website visitors.
-  *  The information we collect about the domain name of the server from which you are visiting is aggregated and used solely to determine the number of visitors to our site each day, and sources of traffic. 
-  * E-mail addresses provided by visitors are used to respond to comments submitted through our feedback and surveys forms, when indicated. E-mail addresses provided when subscribing to e-mail bulletins are used to distribute the bulletins via email to subscribers. Information provided by visitors who choose to establish a personal homepage is used to furnish that page with the data requested by the visitor and to send information requested by the visitor. 
-  * If a website visitor asks us to send material that cannot be transmitted electronically, we will need to know the visitor's name, e-mail address and mailing address. We will use that information only to fulfill the visitor's request. 
-  * Website visitors who complete a website survey and indicate a willingness to participate in future surveys are asked to provide their name, e-mail address and telephone number. That information is shared with carefully screened market research firms with which Advocate Health Care has business relationships. 
+  * The information we collect about the domain name of the server from which you are visiting is aggregated and used solely to determine the number of visitors to our site each day, and sources of traffic.
+  * E-mail addresses provided by visitors are used to respond to comments submitted through our feedback and surveys forms, when indicated. E-mail addresses provided when subscribing to e-mail bulletins are used to distribute the bulletins via email to subscribers. Information provided by visitors who choose to establish a personal homepage is used to furnish that page with the data requested by the visitor and to send information requested by the visitor.
+  * If a website visitor asks us to send material that cannot be transmitted electronically, we will need to know the visitor's name, e-mail address and mailing address. We will use that information only to fulfill the visitor's request.
+  * Website visitors who complete a website survey and indicate a willingness to participate in future surveys are asked to provide their name, e-mail address and telephone number. That information is shared with carefully screened market research firms with which Advocate Health Care has business relationships.
 
 
 
 If you do not want to receive e-mail from Advocate Health Care, please let us know by sending an e-mail notification to [webmaster@advocatehealth.com](mailto:webmaster@advocatehealth.com). When you write, it is imperative that you provide the following information so that we can be sure to honor your request:
 
-  * Your full name 
-  * Your active e-mail address (If you use more than one e-mail address, send a message to us from each of your e-mail accounts.) 
-  * A sentence asking that your e-mail address be removed from our files.   
-The specific name of the Advocate Health Care e-mail bulletin(s) that you no longer wish to receive. 
+  * Your full name
+  * Your active e-mail address (If you use more than one e-mail address, send a message to us from each of your e-mail accounts.)
+  * A sentence asking that your e-mail address be removed from our files.
+  * The specific name of the Advocate Health Care e-mail bulletin(s) that you no longer wish to receive.
 
 
 
