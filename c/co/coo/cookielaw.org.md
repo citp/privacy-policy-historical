@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2014-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140520103937id_/http%3A//www.cookielaw.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookielaw.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228130413id_/http%3A//www.cookielaw.org/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | The Cookie Collective
 
@@ -14,11 +14,11 @@ We are committed to protecting and respecting your privacy. The aim of this page
 
 
 
-**Last Update** : 20 Feb. 2014
+**Last Update** : 06 Nov. 2014
 
 Who We Are
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Cookie Collective LLP of 91-93 Southwark Street, London, SE1 0HX, United Kingdom.
+The Cookie Collective is a trading name of [Governor Technology](http://www.governor.co.uk/ "Governor Technology"). For the purpose of the Data Protection Act 1998 (the Act), the data controller is Governor Technology Ltd of 133 Creek Road, London, SE3 8BU, United Kingdom.
 
 Information we may collect from you 
 
@@ -63,25 +63,23 @@ Optanon Auditor Data Collection
 
 The Optanon Auditor plug-in for Google Chrome gathers data about cookies and submits it to our database.
 
-This data contains information both about the cookies found, and the pages on a particular site they were found on.  It also contains values of cookies, which in some circumstances may contain personally identifiable information - if the cookie is designed to hold such information.  Such information is only ever used to help us identify the purpose of a cookie, where a website owner has requested this service from us.  The data may also be provided to the owner of a website if they request it.
+This data contains information both about the cookies found, and the pages on a particular site they were found on.  It also contains values of cookies, which in some circumstances may contain personally identifiable information - if the cookie is designed to hold such information.  Such information is only ever used to help us identify the purpose of a cookie, where a website owner has requested this service from us.  The data is only available to us and our clients who use the plug-in for specific websites.
 
 We do not use any personally identifiable information for any other purpose, and nor do we make it available in any other way.
 
 All submissions of data via the Optanon Auditor plug-in are otherwise completely anonymous.  No information is collected about the device the plug-in is installed on, or the person using the device.  No browsing history, other than a record pf pages that set cookies, is complied, and no profile linked to a device can be created from the data.
 
-The names and some attributes of the cookies gathered by the auditor are made publicly available on the Cookiepedia website.  However there is to our knowledge no personally identifiable information contained within this data.
+The names and some attributes of the cookies gathered by the auditor are made publicly available on the [Cookiepedia](http://cookiepedia.co.uk/ "Cookiepedia") website.  However there is to our knowledge no personal information contained within this data.
 
-Cookie Collector Plug-ins 
+Privacy Detective Cookiepedia Plug-in 
 
-Aside from the Optanon Auditor there are two Cookie Collector plug-ins in circulation which submit data about cookies to our database.
+Aside from the Optanon Auditor, our [Privacy Detective](https://chrome.google.com/webstore/detail/cookiepedia-privacy-detec/oicbhgcaoofklplaiijhkkcmflkenmij "Privacy Detective") plug-in for Google Chrome, which submits data about cookies to our systems.  This is done automatically, without any kind of user input or control. 
 
-Although the old Chrome Collector is no longer available for download, a Firefox Cookie Collector extension is still available in the Mozilla Add-ons store.
+The data consists of the names of cookies and their other attributes, along with the top level domain name of the site being visited by the browser, when the data was submitted.  The values (contents) of the cookies are not stored, nor the specific pages of the site they were found on.  We do not identify the source of the data submitted back to a paricular copy of the plug-in. We therefore believe that no personal data is collected by the Privacy Detective.
 
-Both plug-ins if installed will submit data about cookies to our systems.  They do this automatically, without any kind of user input, feedback or control.
+The sole purpose of the plug-in is to source data about cookies to inform our research.  Statistics and other intelligence garnered from analysis of this data are published freely on [Cookiepedia](http://cookiepedia.co.uk/ "Cookiepedia - all about cookies").
 
-The Collector submits only names of cookies and their other attributes, along with the top level domain name of the site being visited by the browser, when the data was submitted.  The values (contents) of the cookies are not stored, nor the specific pages of the site they were found on.  Therefore no personal data is collected.  We do not identify the source of the data submitted - so it cannot be used to build up a browsing history of any person using the Collector.
-
-The sole purpose is to source data about cookies to inform our research.  Statistics and other intelligence garnered from analysis of this data are published freely on Cookiepedia.
+Prior to this plug-in there were two Cookie Collector plug-ins, for Firefox and Chrome available.  Data collection from these plug-ins is no longer taking place.
 
 Disclosure of your information
 
@@ -89,8 +87,8 @@ We may disclose your personal information to any member of our group, which mean
 
 We may disclose your personal information to third parties:
 
-  * If Cookie Collective LLP or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Cookie Collective LLP, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If Governor Technology or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of Governor Technology, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
