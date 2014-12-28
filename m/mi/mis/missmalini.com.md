@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the missmalini.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627162921id_/http%3A//www.missmalini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missmalini.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228025750id_/http%3A//www.missmalini.com/privacy) for the most accurate reproduction.*
 
-# Privacy - MissMalini
+# Privacy - MissMalini.com
 
 The privacy policy (hereinafter referred to as the “Privacy Policy”) provided below is with respect to our use and protection of any personal information you provide to us through the MissMalini.com website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration the user expressly approves and consents to our collection, storage, use and disclosure of personal information as described in this Privacy Policy.
 
@@ -36,4 +36,4 @@ The privacy policy (hereinafter referred to as the “Privacy Policy”) provide
 
 16\. Please also visit our Terms of Use section establishing the use, disclaimers and limitations of liabilities governing the use of our website at Terms of Use.
 
-17\. Any questions or clarifications with respect to this Privacy Policy can be sent to MissMalini.com at: info@missmalini.com or addressed to MissMalini Publishing Pvt Ltd, Amardeep, Suite #4, 1st Floor, North 17th Rd, Santacruz West, Mumbai, Maharashtra, India 400054. MissMalini.com will attempt to respond to all reasonable concerns or inquiries.
+17\. Any questions or clarifications with respect to this Privacy Policy can be sent to MissMalini.com using our [contact page](http://beta.missmalini.com/contact-us "Contact Us") or addressed to MissMalini Publishing Pvt Ltd, Amardeep, Suite #4, 1st Floor, 17th North Ave., Santacruz West, Mumbai, Maharashtra, India 400054. MissMalini.com will attempt to respond to all reasonable concerns or inquiries.
