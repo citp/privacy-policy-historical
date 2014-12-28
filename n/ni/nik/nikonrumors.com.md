@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikonrumors.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625164013id_/http%3A//nikonrumors.com/2012/09/01/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikonrumors.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228025956id_/http%3A//nikonrumors.com/2012/09/01/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Nikon Rumors
 
@@ -124,4 +124,4 @@ If you have any questions or comments regarding our privacy practices, you may [
 
 Effective Date: September 1, 2012
 
-This entry was posted in [Other Nikon stuff](http://nikonrumors.com/category/uncategorized/ "View all posts in Other Nikon stuff"). Bookmark the [permalink](http://nikonrumors.com/2012/09/01/privacy-policy.aspx/ "Permalink to Privacy Policy"). Both comments and trackbacks are currently closed.
+This entry was posted in [Other Nikon stuff](http://nikonrumors.com/category/uncategorized/). Bookmark the [permalink](http://nikonrumors.com/2012/09/01/privacy-policy.aspx/ "Permalink to Privacy Policy"). Both comments and trackbacks are currently closed.
