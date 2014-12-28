@@ -1,90 +1,141 @@
-> *The following text is extracted and transformed from the domo.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401011217id_/http%3A//www.domo.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domo.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228050106id_/http%3A//www.domo.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Domo Privacy Policy | Domo
 
-Domo respects your preferences concerning the collection and use of personally identifiable information. This statement discloses the privacy practices for the domo.com website. As part of the normal operation of this site, we may collect and, in some cases, may disclose information about you. This Privacy Policy describes the information we collect about you and how we may use or share that information.
+## Scope of this Policy
 
-## Personally Identifiable Information We Collect
+Domo, Inc. ("Domo") understands you care about how information about you is collected and used. Domo is committed to protecting the privacy of individuals who interact with Domo. This Privacy Policy describes Domo privacy practices for our websites, services, and apps that link to this policy.
 
-### Registration Information
+In this Privacy Policy, we will refer to the Domo hosted services and related apps collectively as our "Services." We will refer to our emails, newsletters, texts, and other marketing and advertising practices collectively as our "Communications."
 
-We may ask for specific Personally Identifiable Information about you when you download evaluation versions of our software and when you register to become a member of this site. For example, we will ask for contact information, system information, etc. We may also ask you for information about your interests, preferences and future needs so that we can improve our services.
+## Information collected by Domo
 
-### Newsletter Subscription Information
+### Domo registration and customer support
 
-From time to time we provide information to our customers in the form of electronic and/or print newsletters. When you subscribe to Domo's newsletter you will be added to our mailing list and will receive announcements and information about Domo. The announcements and information will come from Domo, not from third parties. It will be emailed directly to the email address that you provide when you subscribe.
+You may choose to provide Domo information when you register to use a Domo website or Service, request a Services demonstration, contact Domo for support or other offerings, or attend an event or forum in which Domo is participating. During such processes, Domo collects personal information that identifies you. Domo may collect, for example, your name, company name, address, email, phone number, financial, billing or payment information, position, or title.
 
-If you no longer wish to receive newsletters from us in the future, please let us know by sending an email to [info@domo.com](mailto:info@domo.com) with ‘unsubscribe’ in the body, or follow the “UNSUBSCRIBE" instructions that will be contained within any newsletter email that we send to you.
+### Domo website and use of cookies
 
-You can help Domo to maintain the accuracy of your information by notifying us of any change to your subscription information. You can notify us by sending email [info@domo.com](mailto:info@domo.com) or surface mail to us at the address below.
+Domo receives and stores certain information about how you use our websites and Services when you visit a Domo website or use our Services. For example, we receive information that your browser or device sends to our servers whenever you visit a Domo website. Your browser or device may tell us your internet protocol (IP) address used to connect your computer to the Internet, computer and connection information such as browser type, version, language and time zone setting, browser plug-in types, operating system, and type of device you are using. When you visit a Domo website, your browser may also tell us information such as the actions you take on our website, the page that led you to our website and, if applicable, the search terms you typed into a search engine that led you to our website.
 
-Domo, Inc.  
-772 East Utah Valley Drive  
-American Fork, Utah 84003  
-[www.domo.com](https://web.archive.org/)
+Domo receives information about how you use our websites and Services through the use of first-party and third-party cookies, web beacons, and similar technologies. Our servers collect similar information when you are logged into our website or Services. The information Domo receives through cookies and similar technologies may be anonymous or it may be associated with you, depending on the website or Services you are using.
 
-We can also be contacted  by telephone at 1.800.899.1000. Our business hours for telephone contact are 9:00 AM to 8:00 PM Eastern.
+### Buttons, tools, and content from other companies
 
-### Links
+Domo websites and Services include buttons, tools, or content that link to other companies' services (for example, a Facebook "Like" button). We collect information about your use of these features. In addition, when you see or interact with these buttons, tools, or content, or view a Domo web page containing them, some information from your browser may automatically be sent to the other company. Please read that company's privacy policy for more information regarding its use of that information.
 
-Domo.com includes links to other sites. This Privacy Policy applies to the domo.com site only. Any information you submit to linked sites will be subject to the privacy policies of those sites, if any. You should review those policies carefully.
+### Domo social networking pages
 
-### Legal Disclosures
+Domo maintains its own pages on many social networking sites. We may collect information when you interact with our social networking pages.
 
-Domo may disclose Personally Identifiable Information if required to do so by law or in the good-faith belief that such action is necessary to prevent injury or property damage. We will usually attempt to notify you when we are making such a disclosure, but we may not do so in an emergency or when we are prohibited by law or court order from giving such notice.
+### Domo online advertising
 
-### Chat, Message Boards and User Postings
+Domo advertises online, including displaying Domo ads across the Internet on websites and in apps. When we advertise online to you, we collect information about which ads are displayed to you, which ads you click on, and on which web page the ad was displayed to you.
 
-You might provide Personally Identifiable Information through your participation in chat sessions, message boards, email exchanges or newsgroups on domo.com. That information is public and immediately available to anyone who has access to this site; it is not private. This Policy does not apply to such information that you post to publicly available portions of the Domo web site.
+### Public chat, message boards and user postings
 
-### Your Passwords
+You might provide personal information through your public participation in chat sessions, message boards, blogs, email exchanges, or newsgroups on our websites such as [http://www.domo.com](http://www.domo.com/). That information may be available to anyone who has access to the website. This Privacy Policy does not apply to information that you post for public view.
 
-Always select a password that is unlikely to be available or discovered by others, and never disclose your password to any third parties. If you lose control of your password, you may lose substantial control over your Personally Identifiable Information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
+### Domo Services
 
-### Domo SMS - Short Code 700-007
+Domo provides Services to our customers. As part of the Services, our customers' data is stored on our computers. When we provide Services that collect or process our customer data, that data is used by the customer, and not by Domo. Our customers control what data is collected and how it is used within the Domo Service. Our customers' collection and use of data through the Services we provide to them are governed by our customers' privacy policies. As a data processor, Domo will, as required by law, cooperate with our customers in their efforts to control their data.
 
-  1. When you opt-in to the service, we will send you an SMS message to confirm your signup.
-  2. You can cancel the SMS service at any time. Just text " **STOP** " to 700-007. After you send the SMS message " **STOP** " to us, we will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, just sign up as you did the first time and we will start sending SMS messages to you again.
-  3. If at any time you forget what keywords are supported, just text " **HELP** " to 700-007. After you send the SMS message " **HELP** " to us, we will respond with instructions on how to use our service as well as how to unsubscribe.
-  4. Participating carriers: Alaska Communications Systems (ACS), Alltel, AT&T, Bluegrass Cellular, Boost Mobile, Boost-CDMA, Centennial, Cincinnati Bell, Cox Wireless, Cricket (Leap Wireless), Dobson, ECIT (Cellular One of East Central Illinois), GCI Communications, Hawkeye (Chat Mobility), Illinois Valley Cellular, Immix/Keystone Wireless/PC Man, Inland Cellular, Nex Tech Communications, Nextel, nTelos, Pioneer, Plateau, Pocket, Revol Wireless, Sprint, T-Mobile, Thumb Cellular, TracFone, Unicell, Union Wireless, U.S. Cellular, United Wireless, Verizon, Virgin Mobile, and West Central Wireless.
-  5. As always, message and data rates may apply for any messages sent to you from us and to us from you. Message frequency depends on the user's interaction. If you have any questions about your text plan or data plan, it is best to contact your wireless provider. For all questions about the services provided by this short code, you can send an email to [support@domo.com](mailto:support@domo.com).
+## Use of the information collected by Domo
+
+Domo uses the information we collect about you to:
+
+  * Provide you Domo website content and Services, as well as any other services, support, or information you have requested
+  * Operate and improve our websites and Services, and diagnose related problems
+  * Personalize our website, Services, and Communications to your likely interests and needs
+  * Send you business messages such as those related to payments or expiration of your subscription
+  * Send you information about Domo, new releases, special offers, and similar marketing information 
+  * Conduct market research about our customers, their interests, and the effectiveness of our marketing campaigns
+  * Display personalized ads to you across the Internet
+  * Combine information we collect about you with other public or private information sources in order to provide you with Communications that may be relevant to you 
+  * Contact you via telephone to discuss Domo Services and related offers with you
+  * Aggregate anonymous data from our Services used for benchmarking and to improve the Services
 
 
 
-### Opt-out Policy
+### Newsletter subscription information
 
-Domo allows you to opt out of receiving marketing and promotional mailings by modifying your registration profile or by unsubscribing for services you no longer desire. If you no longer wish to receive newsletters from us in the future, please let us know. Just send an email to [info@domo.com](mailto:info@domo.com) with 'unsubscribe' in the body, or follow the "UNSUBSCRIBE" instructions that will be contained within any newsletter email that we send to you.
+From time to time, we provide information to our customers and potential customers in the form of electronic or print newsletters. When you subscribe to our newsletter you will be added to our mailing list and will receive announcements and information about Domo. It will be emailed or mailed to the address that you provide when you subscribe.
 
-### Security
+### Domo SMS messages
 
-Domo uses state-of-the-art commercially available technology to protect against unauthorized access to any Personally Identifiable Information that is stored electronically by Domo.
+When you register for Domo Services, we will send you an SMS message to confirm your signup, and we may periodically communicate with you through this SMS message service about the Services.
 
-### Changes to This Policy
+## Sharing information collected by Domo
 
-If we decide to change this privacy policy, we will post those changes here so that you will always know what information we gather, how we might use it and whether we will disclose it to anyone. Unless you opt out of receiving email notifications from us, we may also notify by email of significant changes to this policy.
+Domo works with companies that help us run our business. These companies may provide services such as delivering customer support, processing credit card payments, and sending emails on our behalf. In some cases, these companies may have access to your personal information as required to help us run our business. They are not permitted to access or use your information for their own purposes.
 
-### Email
+Domo may also share your personal information:
 
-We place email links on this site to allow you to contact us directly. The information you provide is used to respond directly to your questions or comments. We may also file your comments to improve the site and our services, or review and discard the information.
+  * When you have consented to the sharing
+  * With companies affiliated with Domo
+  * With Domo resellers and other sales partners
+  * When we are required to provide information in response to a subpoena, court order, applicable law, government statute, regulation or other legal process
+  * When we have a good faith belief that the disclosure is necessary to prevent or respond to fraud, defend our websites or Services against attacks, or protect the property and security of Domo, or our customers and users
+  * To the extent necessary to meet national security, law enforcement, or public interest requirements
+  * If we merge with or are acquired by another company, we sell a Domo website, app, or business unit, or all or a substantial portion of our assets are acquired by another company. In those cases your information may be one of the assets that is transferred
+  * When we hire companies to help us market our websites and Services and provide you with information and offers related to Domo, including displaying ads to you across the Internet
+  * When we enlist the services of participating third party carriers to provide the Domo SMS message service 
+  * When we aggregate and share information collected by our Services in order to provide statistical information or market research to third parties. Aggregated information is anonymous and does not identify individuals
 
-### Automated Data Capture, Cookies
 
-We may automatically track certain information about your use of this site. Domo.com logs IP addresses and browser types for system administration purposes. This information will be analyzed to constantly improve the value of the materials and services available on the web site. We may also collect information about your use of the website gathered though cookies or other technologies. Cookies are pieces of information that are stored on your computer's hard disk. They make our site more useful by storing information about your preferences and settings.
 
-### Third Party Information
+## Information security and storage
 
-We may, on occasion, use information provided to us by third parties, such as opt-in lists where you have requested information about Domo or its products while visiting a third-party web site.
+We understand that the security of your personal information is important. We provide reasonable administrative, technical, and physical security controls to protect your personal information from loss, misuse, unauthorized access, disclosure, alteration, or destruction. However, despite our efforts, no security controls are completely effective and Domo cannot ensure or warrant the security of your personal information.
 
-## Use of Your Personally Identifiable Information
+Your personal information and data files are stored on Domo servers and the servers of companies we hire to provide services to us.
 
-### Use by Domo
+## Reviewing, updating or deleting your personal information
 
-We will use your Personally Identifiable Information so that Domo and Domo representatives can engage in and process your transactions and provide services to you, as required by our agreements with you, such as product upgrades, special offers, updated information, new services, and other Domo-related information. ("Representatives" include value-added resellers.) Domo does not offer, or allow the selling of, any user-provided information to third parties, including email addresses.
+Domo takes reasonable steps to ensure that your personal information we process is accurate, complete, and current by using the most recent information provided to us. Our websites and Services may allow you to review and edit your personal information by accessing your profile or similar feature of the website or Service you are using. For our websites, you have the ability to accept or reject cookies and similar technologies through your web browser settings. You can also use your web browser settings to prompt you each time a cookie is offered. Please review the instructions provided by the provider of your web browser for more information.
 
-We also use Personally Identifiable Information to improve our marketing and promotional efforts, to analyze site usage, to improve our site and service offers, and to customize our site. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems and enforce our agreements with you, including our Customer Service Agreement, and this Privacy Policy.
+You may also submit a request to Domo to review, edit, or delete your personal information by emailing your request to [privacy@domo.com](mailto:privacy@domo.com), or if you prefer, you can contact us through physical mail at Domo, Inc. 772 East Utah Valley Drive, American Fork, Utah 84003, or by telephone at 1.800.899.1000. Our business hours for telephone contact are 9:00 AM to 5:00 PM Mountain. Once we verify your identify, we will assist you with your request.
 
-### Use by Third Parties
+We will retain your personal information for as long as necessary to provide you with the websites and Services you are eligible to use with your Domo account ID, or as needed to comply with our legal obligations or enforce our agreements. For example, we may retain certain records for legal or internal business reasons, such as fraud prevention. Some of your information may also remain on backup systems, in compliance with applicable law.
 
-We may share your personally identifiable information with third parties to assist Domo with responding to your sales request, taking your order, or processing your payment, with third parties that sponsor Domo events or conferences that you attend, and when you give your consent. We may also share information to comply with legal requirements.
+## Opting out of Domo communications
 
-If you have any comments, questions, or concerns about the Domo Privacy Policy, feel free to [contact us](https://web.archive.org/company/contact-us).
+You may opt out of receiving Communications by modifying your website or Service registration profile, or by unsubscribing for the marketing, mailings or newsletters you no longer desire. To unsubscribe, please submit your information through <http://www.domo.com/unsubscribe>, or follow the "Unsubscribe" instructions that are contained within the newsletter or other Communication that we send to you. You may also send an email to [privacy@domo.com](mailto:privacy@domo.com) with "Unsubscribe" in the body, together with a description of the Communications you no longer desire to receive.
+
+## Domo U.S.-EU Safe Harbor program participation
+
+Domo has certified its adherence to the U.S.–E.U. Safe Harbor Framework and the U.S.–Swiss Safe Harbor Framework principles as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data received from the European Economic Area (EEA) and Switzerland. Such personal data may be transferred from our customers and processed by Domo in the United States on behalf of our customers, and also received by Domo from our website visitors and other business partners. To view Domo's Safe Harbor certification status, visit <https://safeharbor.export.gov/list.aspx>. To learn more about the Safe Harbor Principles, visit <http://www.export.gov/safeharbor>.
+
+### Personal information from our website visitors and other business partners
+
+Any personal information sent to us from our website visitors and other business partners in the EEA and Switzerland may be used by Domo and its agents and business partners as described in this Privacy Policy and at the time the information was collected. If we plan to use personal information received from the EEA or Switzerland for a purpose that is incompatible with this Privacy Policy or if we plan to disclose such information to a third party for purposes incompatible with this Privacy Policy, we will provide you with notice and an opportunity to consent to such uses or disclosures as required by applicable law.
+
+### Agents and service providers
+
+Domo requires that its agents and service providers that have access to personal information received by Domo from the EEA or Switzerland subscribe to the Safe Harbor Privacy Principles or enter into a written agreement that requires them to provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles.
+
+### Information processed by Domo on behalf of a company using Domo hosted Services
+
+Domo provides hosted Services to our customers. As part of the Services, customers may submit to Domo personal data from the EEA and Switzerland. When Domo provides the Services, we are providing the Services to our customers as a data processor. As a data processor, Domo acts on the instructions of our customers and uses reasonable physical, electronic, and administrative safeguards to protect this personal information from loss, misuse, or unauthorized access, disclosure, alteration, or destruction. Domo customers are responsible for complying with all other obligations in relation to the personal information they may collect from you.
+
+### Complaints
+
+If you have any complaints regarding our compliance with the Safe Harbor program, you should first contact us at [privacy@domo.com](mailto:privacy@domo.com). If the complaint cannot be resolved through our internal dispute resolution process, you may submit your complaint to JAMS for mediation under the JAMS International Mediation Rules, which are accessible on the JAMS website at [http://www.jamsadr.com](http://www.jamsadr.com/).
+
+## Changes to this Privacy Policy
+
+Occasionally, we may change or update this Privacy Policy to allow Domo to use or share your previously collected personal information in a materially different way. For new users, such changes will become effective upon posting. For existing users, the changes and updates will become effective 30 days after posting. We encourage you to periodically review the Domo Privacy Policy for the latest information on our privacy practices.
+
+## Questions or concerns
+
+If you have any questions related to this Privacy Policy, please email us at [privacy@domo.com](mailto:privacy@domo.com).
+
+x
+
+Domo requests your consent to send you email communications. Please customize your Domo experience:
+
+**YES** \- Send email
+
+**NO** \- Do not send email
+
+By selecting "YES" and clicking "Submit", you agree that Domo, Inc. and its representatives may contact you at the email address provided. You may [unsubscribe](https://web.archive.org/company/privacy-policy), or view our [Privacy Policy](https://web.archive.org/company/privacy-policy), at any time.
