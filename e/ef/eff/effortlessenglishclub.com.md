@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the effortlessenglishclub.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508025035id_/http%3A//effortlessenglishclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effortlessenglishclub.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228044407id_/http%3A//effortlessenglishclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Information about our Organization and Web site**
+### **Information about our Organization and Web site**
 
 Modern information and communication technologies play a fundamental role in the activities of an organization like Effortless English LLC . We are based in The USA .
 
-Our principal activity is: English Language Education for Speakers of Other Languages.  We primarily serve adult students.
+Our principal activity is: English Language Education for Speakers of Other Languages. We primarily serve adult students.
 
 Our privacy policy covers Effortless English LLC and its Web sites: EffortlessEnglishClub.com, EffortlessEnglish.com
 
@@ -19,10 +19,15 @@ Country: | USA
 Controller: | Allen Hoge  
 Web Sites(s): | EffortlessEnglishClub.com  
   
-**Providing Visitors with Anonymous Access**  
+* * *
+
+### Providing Visitors with Anonymous Access
+
 You can access our Web site home page and browse our site without disclosing your personal data.
 
-**The services and links of our Web site**
+* * *
+
+### **The services and links of our Web site**
 
 Our Web site enables you to communicate with other visitors or to post information to be accessed by others. When you do so, other visitors may collect your data.
 
@@ -34,7 +39,9 @@ Our Web site also includes a link to:
 
 Such third party Web service providers may collect personal data about our visitors.
 
-**Automatic Collection of Information**
+* * *
+
+### Automatic Collection of Information
 
 **We may use cookies on our Web site.**
 
@@ -56,11 +63,15 @@ We do not take specific steps to protect the privacy of children who disclose th
 
 We do not provide information about our personal data practices in relation to children on our home page, or at those sites on our Web site where we collect personal data.
 
-**Disclosure and Visitor Choice**
+* * *
+
+###  Disclosure and Visitor Choice
 
 We do not disclose your personal data to our subsidiaries or other organizations.
 
-**Confidentiality / Security**
+* * *
+
+###  Confidentiality / Security
 
 We give you the option of using a secure transmission method to send us the following types of personal data:
 
@@ -80,42 +91,10 @@ We have implemented security policies, rules and technical measures to protect t
 You may receive information about the kind of information we have for you by
 
   * sending an email (members@effortlessenglish.org )
-
-
-  * mailing us at:  Effortless English LLC, 1702 A Street #C, Sparks, NV 89431
+  * mailing us at: Effortless English LLC, 1702 A Street #C, Sparks, NV 89431
 
 
 
 All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors’ personal data.
 
 We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation.
-
-**Access to the personal data we may hold about you**
-
-You can ask us, by:
-
-  * sending an email (members@effortlessenglish.org )
-  * mailing us at:  Effortless English LLC, 1702 A Street #C, Sparks, NV 89431
-
-
-
-We will provide you with a readable copy of the personal data which we keep about you, within a month. – although we may before require proof of your identity. We will provide the information without any charge. We allow you to challenge the data that we hold about you and, where appropriate, you may have the data.
-
-We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give reasons for our refusal.
-
-We do, however, allow you to challenge our decision to refuse to provide you with a copy of your personal data.
-
-**Privacy Support & Removal of Information**
-
-We will remove all of your personal information from our records at your request.
-
-If you have an inquiry or concern about our privacy policy, or would like your information removed, please contact:
-
-| Contact  
----|---  
-Name/designation : | Allen Hoge  
-Department : |   
-Address : | 1702 A Street #C, Sparks, NV 89431  
-Phone Number : |   
-Fax Number : |   
-Email address : | members@effortlessenglish.org
