@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the vail.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516150025id_/http%3A//www.vail.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vail.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228063634id_/http%3A//www.vail.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement + | Vail.com
+# Privacy Statement | Vail.com
 
 **Vail Resorts Online Privacy Policy  
-**   
+**  
 Vail Resorts Management Company and other members of the Vail Resorts family of businesses (together, “Vail Resorts,”) know that you care how information about you is collected and used. We take great pride in the relationships we have developed with our guests and we are committed to treating personal information we obtain from you with care and respect. This Online Privacy Policy (the “Privacy Policy” or “Policy”) is designed to inform you about our privacy policies and practices. This Policy is part of the Terms of Use published on our Sites. Click here to review the [Terms of Use](http://www.snow.com/termsandconditions.aspx).
 
 **Scope of the Policy**
