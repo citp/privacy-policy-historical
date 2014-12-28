@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braingradetest.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627150149id_/http%3A//www.lumosity.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braingradetest.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228210014id_/http%3A//www.lumosity.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Lumosity - Privacy Policy - Lumosity
 
@@ -20,10 +20,9 @@ Third parties whose products or services are accessible in Lumosity, including s
 
 The third-party advertising and analytics companies with whom we or our advertisers partner, including Google and New Relic, may place a unique cookie or utilize similar technologies on your browser in order to collect non-personal information about your visits to Lumosity. If you would like more information about this practice and how to control how this information is used by these companies, please visit the following links:
 
-  * <http://www.networkadvertising.org/choices>
-  * [http://www.aboutads.info/choices](http://www.aboutads.info/choices/)
+<http://www.networkadvertising.org/choices>
 
-
+[http://www.aboutads.info/choices](http://www.aboutads.info/choices/)
 
 We use the information we collect to operate and provide you with Lumosity. This includes, but is not limited to:
 
@@ -61,7 +60,7 @@ If you access Lumosity outside of the United States, you fully understand and un
 
 This Privacy Policy may be updated from time to time. If we make material changes, we will provide advance notice to you either by email, by posting a notification on Lumosity or by posting an updated TOS on Lumosity 45 days in advance of the effective date of the updated TOS. Please note that, for existing users, unless otherwise provided by applicable law, your continued use of Lumosity following the effective date means that you agree with, and consent to be bound by, the updated TOS.
 
-We welcome inquiries or comments about our Privacy Policy via our help center [here](https://help.lumosity.com/anonymous_requests/new). You may also send a letter to the following address:
+We welcome inquiries or comments about our Privacy Policy via our [help center](https://help.lumosity.com/anonymous_requests/new). You may also send a letter to the following address:
 
 Director of Privacy  
 Lumos Labs  
