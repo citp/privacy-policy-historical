@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220223316id_/http%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228185108id_/http%3A//www.mercycorps.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercy Corps
 
@@ -26,7 +26,7 @@ Our online donation processor hosts our secure giving pages on PCI Compliant ser
 
 Independent external and internal audits ensure the privacy, security and appropriate processing of your information on our site.
 
-[Read our nine promises to donors here.](https://web.archive.org/web/20131220223316id_/http%3A//www.mercycorps.org/about-us/donor-pledge)
+[Read our nine promises to donors here.](https://web.archive.org/web/20141228185108id_/http%3A//www.mercycorps.org/about-us/donor-pledge)
 
 **Use of Third-Party Software and Advertising Services**
 
