@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the universitymission.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628170210id_/http%3A//www.universitymission.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universitymission.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228031733id_/http%3A//www.universitymission.com/privacypolicy.html) for the most accurate reproduction.*
 
-# List Online Degree College | Online Schools | Classes - University Missions
+# Online Degree Programs, Associate Degree Criminal Justice, Bachelors Degree in Business
 
 Our data security policy operated independently, or in conjunction with our data management partners and sponsor, meets, or exceeds, the requirements of all current Privacy legislation. 
 
