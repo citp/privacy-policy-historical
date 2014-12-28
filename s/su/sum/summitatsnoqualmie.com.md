@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309041839id_/http%3A//www.boyneresorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228084739id_/http%3A//www.boyneresorts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boyne Resorts
 
@@ -70,11 +70,19 @@ Out of respect for your privacy, we present the option not to receive these type
 
 To be removed from our direct mail database associated with our properties, please e-mail, contact or submit your request in writing to the respective resort below:
 
-  * Boyne Highlands Resort, Boyne Mountain Resort, and The Inn at Bay Harbor Marketing Department  
+  * Boyne Highlands Resort Marketing Department  
+600 Highland Drive  
+Harbor Springs, MI 49740  
+[boynehighlands.com](http://www.boyne.com/boynehighlands)
+  * Boyne Mountain Resort Marketing Department  
 PO Box 19   
 One Boyne Mountain Road   
 Boyne Falls, MI 49713   
-[boyneresorts.com](http://www.boyneresorts.com/)
+[boynemountain.com](http://www.boyne.com/boynemountain)
+  * The Inn at Bay Harbor Marketing Department   
+3600 Village Harbor Drive  
+Bay Harbor, Michigan 49770   
+[innatbayharbor.com](http://www.innatbayharbor.com/)
   * Big Sky Resort Marketing Department   
 PO Box 160001   
 One Lone Mountain Trail   
