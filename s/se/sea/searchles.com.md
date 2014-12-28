@@ -1,78 +1,66 @@
-> *The following text is extracted and transformed from the searchles.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225045949id_/http%3A//www.searchles.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchles.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228215602id_/http%3A//twicsy.com/s/privacy.html) for the most accurate reproduction.*
 
-# Searchles
+# Twicsy Privacy Policy | Twicsy - Twitter Picture Discovery
 
-Searchles cares about your privacy and takes it seriously. Please read the following to learn more about our privacy policy. By visiting the Searchles website, you are accepting the practices outlined in this Privacy Policy.
+**What information do we collect from visitors to Twicsy.com?**
 
-### What Does This Privacy Policy Cover?
+We collect information from you when you Sign in with your Twitter account. We collect your email if you sign up for the newsletter and give us your email. 
 
-This Privacy Policy covers Searchles's treatment of personal information that Searchles gathers when you are on the Searchles website and when you use Searchles services.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: twitter details. You may, however, visit our site anonymously.
 
-This policy does not apply to the practices of third parties that Searchles does not own or control, or to individuals that Searchles does not employ or manage.
+**What do we use your information for?**
 
-### What Personal Information About Users Does Searchles Collect?
+Any of the information we collect from you may be used in one of the following ways: 
 
-Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We only collect personal information that is relevant to the purpose of our website. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you. We collect the following types of information from our users:
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-  1. Information You Provide to Us:  
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The personal information you provide is used for such purposes as: 
-    * Registration: In order for you to use Searchles services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require your email address.
-  2. Automatic Information: 
-    * We receive and store certain types of information whenever you interact with us. Searchles automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, Searchles cookie information, and the page you requested. Searchles uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
-    * Social sharing of data: Searchles allows other users to browse stories that you have dugg, submitted, blogged, or commented on. This information is made available via your member profile (Searchles.com/users/username), on the Searchles spy page (Searchles.com/spy) or within the permalink URL of the story in which you performed the action on. Searchles may choose to post this data on other site features in the future.
-    * Profile information: Searchles allows other users to browse your full name, location, and instant messaging URL, within your member profile should you provide this optional information.
-    * Syndication: Searchles allows for the RSS syndication of all of its public content within the website.
-    * Friends Data: Much like other social services Searchles allows non-friends to browse through your friends activities .
-    * Many companies offer programs that help you to visit websites anonymously. While Searchles will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
+; To administer a contest, promotion, survey or other site feature
 
+ **How do we protect your information?**
 
-### What About Cookies?
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Searchles cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is. 
-  * The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of Searchles's most attractive features.
-  * Searchles uses third party advertising companies to serve ads when you visit the Searchles website. These companies may use information about your visits to this website (not including your name, address, or other personal information) to provide advertisements on this website, other sites and other forms of media about goods and services that may be of interest to you. In providing advertisements, a unique third party cookie may be placed on your browser. Searchles does not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: <http://www.networkadvertising.org/consumer/opt_out.asp>
+**Do we use cookies?**
 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-### Will Searchles Share Any of the Information it Receives?
+ **Do we disclose any information to outside parties?**
 
-Information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-  * **Business Transfers:**
-    * **Protection of Searchles and Others:**  
-We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Searchles, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
-    * **With Your Consent:**  
-Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.
+ **Childrens Online Privacy Protection Act Compliance**
 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
+**Terms and Conditions**
 
-### Is Information About Me Secure?
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://twicsy.com/s/tos.html>
 
-  * Your Searchles account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.
-  * Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.
+**Your Consent**
 
+By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/). 
 
+**Changes to our Privacy Policy**
 
-### What Information Can I Access?
+If we decide to change our privacy policy, we will post those changes on this page. 
 
-You can access your personal information on our website and correct, amend, or delete information that is inaccurate. Upon logging in visit your user profile setting page located at: http://www.searchles.com/stuff/user/<usersname>/
+**Opting Out of Twicsy**
 
-### What Choices Do I Have?
+If you would like your content removed from Twicsy please use this [removal form](https://web.archive.org/remove). 
 
-  * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links.
-  * You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Searchles Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
-  * You may request deletion of your Searchles account by sending an email to [info@searchles.com](mailto:info@searchles.com). This removes all of your past Searchles usage from public view (future communication would be through Searchles's internal messaging system).
-  * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.
+**Contacting Us**
 
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
+Searchles Inc.  
+1220 L St NW Suite 100-259  
+Washington, DC 20005  
+USA  
+[twicsy@searchles.com](mailto:twicsy@searchles.com)   
 
-### Can Children Use Searchles's Services?
-
-You must be 13 years and older to register to use the Searchles website. As a result, Searchles does not specifically collect information about children.
-
-### Conditions of Use
-
-If you decide to visit Searchles website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
-
-Copyright ©2009 Searchles, Inc. All Rights Reserved 
