@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationgrant.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531233729id_/http%3A//www.educationgrant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationgrant.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228081129id_/http%3A//www.educationgrant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EducationGrant.com
 
@@ -77,3 +77,5 @@ At some point, EducationGrant may establish subsidiaries or other related compan
 We reserve the right to modify this Policy at any time, so please review the Site frequently for any changes. Amendments to this Policy will be posted on the Site and will be effective when posted. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted, the changes to any amended or revised Policy by your continued use of our services or the Site.
 
 Of course, EducationGrant will take reasonable measures to secure the personally identifiable information Users provide to us, using industry-standard methods. All personally identifiable information is protected by password and accessible only to authorized EducationGrant personnel. However, there is a remote possibility that Internet transmissions containing a User’s personally identifiable information may be intercepted by others. There is no way for us to ensure the privacy of User information before it arrives at the Site or after it leaves the Site.
+
+Avenue100 Media Solutions owns and operates www.educationgrant.com
