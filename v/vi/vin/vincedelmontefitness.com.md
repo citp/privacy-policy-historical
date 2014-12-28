@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the vincedelmontefitness.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507181842id_/http%3A//www.vincedelmontefitness.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincedelmontefitness.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228042743id_/http%3A//www.vincedelmontefitness.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Vince DelMonte's Muscle Building Secrets and Programs
 
-**PRIVACY POLICY**
-
-This privacy notice discloses the privacy practices for **www.vincedelmontefitness.com.**
+This privacy notice discloses the privacy practices for **www.vincedelmontefitness.com.  
+**
 
 This privacy notice applies solely to information collected on http://www.vincedelmontefitness.com, http://vincedelmontespecial.com and related websites. 
 
@@ -28,11 +27,10 @@ What Do We Use Your Information For?
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To improve our website - We continually strive to improve our website offerings based on the information and feedback we receive from you
-  * To personalize your experience - Your information helps us better respond to your individual goals and needs  
-
-  * To improve customer service - Your information helps us to more effectively respond to your customer service requests and support needs
-  * To process transactions - Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To improve our website – We continually strive to improve our website offerings based on the information and feedback we receive from you
+  * To personalize your experience – Your information helps us better respond to your individual goals and needs 
+  * To improve customer service – Your information helps us to more effectively respond to your customer service requests and support needs
+  * To process transactions – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
   * To administer a contest, promotion, survey or other site feature
   * To send periodic emails to alert to alert you about updates of free videos, workouts and tips via our youtube channel, fan page, links to free content articles on our blog, and finally any product promotions that we may be running at a given time of the year.
   * NOTE: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
