@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insureon.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042306id_/http%3A//www.insureon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insureon.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228200532id_/http%3A//www.insureon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Disclosures | Insureon
 
@@ -12,11 +12,11 @@ This Privacy Policy describes how BIN Insurance Holdings, LLC, d/b/a insureon, B
 
 Information that may be collected by cookies when you use the Service may include, without limitation: 
 
-  * • the pages you visit within the Service;
-  * • the date and time of your visit to the Service;
-  * • the amount of time you spend using the Service;
-  * • the Internet Protocol (IP) address used to connect your computer to the Internet; and/or
-  * • your computer and connection information such as your browser type and version, operating system and platform.
+  * the pages you visit within the Service;
+  * the date and time of your visit to the Service;
+  * the amount of time you spend using the Service;
+  * the Internet Protocol (IP) address used to connect your computer to the Internet; and/or
+  * your computer and connection information such as your browser type and version, operating system and platform.
 
 
 
@@ -26,14 +26,14 @@ You can set your browser to reject cookies or to notify you when you are sent a 
 
 **4\. HOW WE USE YOUR INFORMATION.** Our primary purpose in collecting information from you is to provide you with access to the Service, and to provide you with the products and services offered through the Service. We may use the information we collect about you through the Service to: 
 
-  * • provide access to the Service, to manage and service your account and to provide the products and services you request through the Service;
-  * • resolve disputes, troubleshoot problems and respond to your customer service inquiries;
-  * • prevent, detect, and investigate potentially prohibited or illegal activities, and enforce the insureon Terms of Use; 
-  * • customize, measure, and improve our services, content, and advertising; 
-  * • comply with applicable laws, regulations and legal process; 
-  * • tell you about our services, and deliver targeted marketing, service updates, and promotional offers; 
-  * • keep a record of our transactions and communications with you; and
-  * • provide you with other services requested by you as described when we collect the information.
+  * provide access to the Service, to manage and service your account and to provide the products and services you request through the Service;
+  * resolve disputes, troubleshoot problems and respond to your customer service inquiries;
+  * prevent, detect, and investigate potentially prohibited or illegal activities, and enforce the insureon Terms of Use; 
+  * customize, measure, and improve our services, content, and advertising; 
+  * comply with applicable laws, regulations and legal process; 
+  * tell you about our services, and deliver targeted marketing, service updates, and promotional offers; 
+  * keep a record of our transactions and communications with you; and
+  * provide you with other services requested by you as described when we collect the information.
 
 
 
@@ -41,12 +41,12 @@ We may also combine your information with the information of other users so that
 
 **5\. DISCLOSURE OF YOUR INFORMATION TO THIRD PARTIES.** We will not sell or lease your information to, or exchange your information with, third parties without first obtaining your express consent, except that we may share your information with the following third parties: 
 
-  * • _Insurance Companies_ : If you request an insurance quote through the Service, or otherwise use the Service to purchase insurance coverage, we may share the information you provide through the Service with insurance companies. We will only share your information with insurance companies as necessary to provide you with the products or services you have requested through the Service. If you elect to proceed with purchasing insurance from a particular insurance company, that insurance company may seek additional information about you, including by contacting you directly by email, postal mail or telephone or running a credit check about you. We will obtain your prior consent if an insurance company intends to conduct a credit check about you. Insurance companies are only permitted to contact you directly in order to provide you with the products or services you have requested through the Service. 
-  * • _Third Party Marketing Partners_ : If you opt-in to receive marketing communications from third parties, we may, from time to time, share your name, email address and postal mailing address with a few carefully selected third party marketing partners that we believe offer products or services that may be of interest to you. If you would like us to stop providing this information to our third party marketing partners, you may opt-out by emailing us at [support@insureon.com](mailto:support@insureon.com), calling us at (800) 668-7020 or writing to us at 1301 Central Expressway South, Suite 115, Allen, Texas 75013.
-  * • _Our Service Providers_ : We may share your information with third party contractors or service providers who provide certain services to us or on our behalf, such as operating and supporting the Service. These service providers will only have access to the information needed to perform these limited functions on our behalf and are required to provide your information with at least the same level of protection and security as we use with regard to your information. 
-  * • _Our Affiliates_ : We may share some or all of your information with our subsidiaries and corporate affiliates, joint venturers, or other companies under common control with us. We will require these entities to comply with the terms of this Privacy Policy with regard to their use of your information. 
-  * • _Companies that Acquire Our Business or Assets_ : If our company or our assets are acquired by, transferred to or merged with another company, that company may acquire the information about you collected by us. We will require the applicable company to assume the rights and obligations that are applicable to your information at the time of the acquisition, transfer or merger.
-  * • _Law Enforcement Authorities_ : We may disclose your information if required to do so by law or to comply with valid legal process (such as a search warrant, subpoena or court order), to protect our rights or property, or during emergencies when safety is at risk.
+  * Insurance Companies: If you request an insurance quote through the Service, or otherwise use the Service to purchase insurance coverage, we may share the information you provide through the Service with insurance companies. We will only share your information with insurance companies as necessary to provide you with the products or services you have requested through the Service. If you elect to proceed with purchasing insurance from a particular insurance company, that insurance company may seek additional information about you, including by contacting you directly by email, postal mail or telephone or running a credit check about you. We will obtain your prior consent if an insurance company intends to conduct a credit check about you. Insurance companies are only permitted to contact you directly in order to provide you with the products or services you have requested through the Service. 
+  * Third Party Marketing Partners: If you opt-in to receive marketing communications from third parties, we may, from time to time, share your name, email address and postal mailing address with a few carefully selected third party marketing partners that we believe offer products or services that may be of interest to you. If you would like us to stop providing this information to our third party marketing partners, you may opt-out by emailing us at [support@insureon.com](mailto:support@insureon.com), calling us at (800) 668-7020 or writing to us at 1301 Central Expressway South, Suite 115, Allen, Texas 75013.
+  * Our Service Providers: We may share your information with third party contractors or service providers who provide certain services to us or on our behalf, such as operating and supporting the Service. These service providers will only have access to the information needed to perform these limited functions on our behalf and are required to provide your information with at least the same level of protection and security as we use with regard to your information. 
+  * Our Affiliates: We may share some or all of your information with our subsidiaries and corporate affiliates, joint venturers, or other companies under common control with us. We will require these entities to comply with the terms of this Privacy Policy with regard to their use of your information. 
+  * Companies that Acquire Our Business or Assets: If our company or our assets are acquired by, transferred to or merged with another company, that company may acquire the information about you collected by us. We will require the applicable company to assume the rights and obligations that are applicable to your information at the time of the acquisition, transfer or merger.
+  * Law Enforcement Authorities: We may disclose your information if required to do so by law or to comply with valid legal process (such as a search warrant, subpoena or court order), to protect our rights or property, or during emergencies when safety is at risk.
 
 
 
@@ -56,7 +56,7 @@ We will obtain your consent prior to sharing your information with any third par
 
 **7\. THIRD PARTY ADVERTISERS.** The Service may include third party advertising, links to advertiser websites, and other content from third party businesses. These third party sites, businesses, and advertisers may use web beacons and cookies to measure the effectiveness of their ads, personalize or optimize advertising content and to track users who click on the links made available through the Service. We do not have access to or control over web beacons or cookies that these third parties may use. We are not responsible for the privacy practices of these third parties. We encourage you to review their privacy policies.
 
-Some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt out process, you may visit the Network Advertising Initiative website, available at <http://www.networkadvertising.org/managing/opt_out.asp>.
+Some third-party advertising companies may provide a mechanism to opt-out of their technology. For more information about the opt out process, you may visit the Network Advertising Initiative website, available at <http://www.networkadvertising.org/choices/>.
 
 **8\. PRIVACY PROTECTION FOR CHILDREN.** In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect information from persons under the age of thirteen (13). If we later learn that an individual under the age of thirteen (13) has provided information through the Service, we will take appropriate steps to remove that individual's information from our database restrict that individual from future access to the Service.
 
@@ -91,7 +91,7 @@ If at some point in the future, there is a change to our information usage pract
 You can correct and update pertinent information by email, phone, or postal mail.
 
 Insureon  
-1301 Central Expy. South, Suite 115
+1301 Central Expy. South, Suite 115 
 
 Allen, TX 75013  
 800 655-1714  
@@ -114,6 +114,3 @@ The U.S. Federal Trade Commission offers an overview of privacy protection.
 Be sure to check the privacy policies of each site you visit. If you have questions or comments regarding Insureon privacy practices, please send an email to [info@insureon.com](mailto:info@insureon.com)
 
 We hope you have found this information helpful. If you have any questions or would like more information, please contact customer services at 800 668 7020.
-
-  
-
