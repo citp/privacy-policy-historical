@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vulvatube.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819051025id_/http%3A//www.vulvatube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vulvatube.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228085537id_/http%3A//www.vulvatube.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
