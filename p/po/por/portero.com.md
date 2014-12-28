@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portero.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419022629id_/https%3A//www.portero.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portero.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228014931id_/http%3A//www.portero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Portero Luxury
 
@@ -23,22 +23,3 @@ Your privacy is important to us. Accordingly, we have designed this privacy poli
 **Data Collection Devices, such as Cookies:**  Cookies are small pieces of information sent to your Web browser and stored on your hard drive to help us provide you with a more effective and interesting shopping experience. Since our site may not function correctly with cookies disabled, we strongly recommend that you leave them enabled. However, if you would like to be notified when a cookie may be written, set your browser to stop accepting new cookies. To disallow the use of cookies altogether, please see the "Help" option in your browser's toolbar.
 
 **Security:**  Portero is committed to protecting your privacy in accordance with the terms of this privacy policy and we will use appropriate security measures to protect the personal information you provide to us, including the use of a Secure Socket Layer (SSL). However, no internet data transmission can be guaranteed to be secure from access by unintended parties, and, by registering with us and providing personal information, you agree that you will not hold us responsible for any breach of security unless such breach is due to our gross negligence or deliberate violation of this privacy policy. Please note that if you have logged into Portero.com from a shared computer, it is important that you sign off your account before leaving that computer.
-
-[ ](https://web.archive.org/the-portero-promise)
-
-Portero respects the brands we serve. We guarantee the authenticity and condition of all merchandise. We ensure the highest level of service and security. That's our promise. And we don't take it lightly.
-
-## Sign Up
-
-Get updates on our latest arrivals,  
-styles, private offers and more.
-
-Thanks for signing up. Look for   
-a welcome email from us.
-
-Please enter a valid email address
-
-## Press
-
-One of the best options on the web  
-for buying authentic merchandise.
