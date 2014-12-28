@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotter.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207185630id_/http%3A//www.hottershoes.com/webapp/wcs/stores/servlet/StaticPageDisplay%3FstoreId%3D10551%26identifier%3DFAQ-Privacy-Security%26brdcrmb_trail%3DFAQ%26langId%3D-1%26catalogId%3D10051) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotter.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228022621id_/http%3A//www.hotter.com/gb/en/info/FAQ-Privacy-Security) for the most accurate reproduction.*
 
-# FAQ - Privacy and Security
+# Hotter Shoes UK - FAQ - Frequently Asked Questions - Privacy & Security
 
   * How do I know I can order safely?
   * How will you use my personal information?
@@ -44,12 +44,12 @@ Was this helpful? Yes / No
 
 Do you have a privacy policy?
 
-Yes, our privacy policy can be found on our [‘Terms and Conditions page](https://web.archive.org/webapp/wcs/stores/servlet/StaticPageDisplay?storeId=10551&identifier=Terms-Conditions&langId=-1&catalogId=10601)’.
+Yes, our privacy policy can be found on our [‘Terms and Conditions page](https://web.archive.org/gb/en/info/Terms-Conditions)’.
 
 Was this helpful? Yes / No
 
 Do you use cookies?
 
-Yes, in common with other websites we use "cookies". These are small files that our website puts on your hard drive so that it can remember information about you at a later date. Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order and retain the contents in your shopping basket. Our cookie information can be found within our [full Cookie information page](https://web.archive.org/en/info/Hotter-Cookie-Policy).
+Yes, in common with other websites we use "cookies". These are small files that our website puts on your hard drive so that it can remember information about you at a later date. Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order and retain the contents in your shopping basket. Our cookie information can be found within our [full Cookie information page](https://web.archive.org/gb/en/info/Hotter-Cookie-Policy).
 
 Was this helpful? Yes / No
