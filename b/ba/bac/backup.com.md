@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627044123id_/https%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backup.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228111506id_/https%3A//www.symantec.com/about/profile/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Complete Privacy Policy | Symantec
 
