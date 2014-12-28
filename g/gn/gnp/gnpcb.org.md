@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnpcb.org privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112071241id_/http%3A//www.crossway.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnpcb.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228015027id_/http%3A//www.crossway.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crossway
 
