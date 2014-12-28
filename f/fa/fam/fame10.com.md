@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fame10.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510215834id_/http%3A//www.fame10.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fame10.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229002546id_/http%3A//www.fame10.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fame10
 
@@ -23,7 +23,7 @@ None of this information is linked to anything that is personally identifiable.
 
 **2\. Cookies**
 
-We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers, Activebeat.com has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers, Fame10.com has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
 If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
 
