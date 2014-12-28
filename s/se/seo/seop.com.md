@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seop.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622000750id_/http%3A//www.seop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seop.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228182440id_/http%3A//www.seop.com/privacy-policy) for the most accurate reproduction.*
 
 # SEOP Privacy Policy | SEOP
 
@@ -22,7 +22,15 @@ SEOP may occasionally include links to external sites on its Website. The inclus
 
 **Security**
 
-The SEOP Website employs industry-standard security measures designed to protect against loss, misuse or alteration of information that the User provides via the SEOP Website. SEOP cannot fully eliminate such risks and SEOP is not responsible for unauthorized access to information by internet Users with malicious intents, or others who have obtained such access through illegal means. 
+We take precautions to protect your information. When you submit information via the website, your information is protected both online and offline.
+
+We do not collect sensitive information (such as credit card data) via the website. 
+
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only those employees or persons who need the information to perform a specific job (e.g, billing or customer service) are granted access to personally identifiable information. The computers/servers on which we store personally identifiable information are kept in a completely secure, private environment.
+
+**Notification of Changes**
+
+SEOP is not obligated to notify you if changes are made to this Privacy Policy, so please check the terms regularly. 
 
 **Changes and Questions**
 
