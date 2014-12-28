@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429181710id_/http%3A//www.mimeo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228033338id_/http%3A//www.mimeo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mimeo.com
 
-## [](http://privacy.truste.com/privacy-seal/Mimeo-com,-Inc-/validation?rid=b6a8bdae-ac77-4ac2-b273-5c037ca03e96)
+[](https://privacy.truste.com/privacy-seal/Mimeo-com,-Inc-/validation?rid=b6a8bdae-ac77-4ac2-b273-5c037ca03e96 "TRUSTe European Safe Harbor certification")
 
 Mimeo.com, Inc. (“Mimeo”) recognizes that your privacy and the protection of your personal information is important to you and is committed to protecting your privacy. This Privacy Policy describes the measures taken by us to protect your privacy in connection with your use of www.mimeo.com (our “Site”). This Privacy Statement discloses our collection, use and storage practices surrounding the personal information we collect from you. “Personal Information” is defined as the information such as your name, and email that can be used to identify you.
 
-This policy was last modified on June 7, 2013.
+This policy was last modified on June 17, 2014.
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING OUR SITE AND THE RELATED SERVICES PROVIDED BY MIMEO OR ITS DESIGNEES (THE “SERVICES”), YOU SIGNIFY YOUR AGREEMENT TO THIS POLICY.
 
@@ -19,7 +19,7 @@ Our full Privacy Policy is given below, but here are a few key points:
 
 
 
-Mimeo.com, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[ TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _. If you have questions or complaints regarding our privacy policy or practices, please contact us at  _[customercare@mimeo.com](mailto:customercare@mimeo.com) _.   _If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "TRUSTe Feedback").
+Mimeo.com, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[ TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/ "TRUSTe") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _. If you have questions or complaints regarding our privacy policy or practices, please contact us at  _[customercare@mimeo.com](mailto:customercare@mimeo.com) _.   _If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "TRUSTe Feedback").
 
 Mimeo.com, Inc. complies with the U.S. – E.U.  Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries.  Mimeo.com, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Mimeo.com, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -41,9 +41,23 @@ The TRUSTe program covers only information that is collected through this Site, 
 
 In order to use the Services, you are required to provide us with an e-mail address and a unique password. In addition, when placing an order with our Site, you are required to provide personally identifying and other information such as your name, phone number, address, payment information (including credit card information), and shipping information (such as third party shipping addresses and shipping preferences).  We may use your e-mail address from time to time send you e-mails regarding events and promotions.  You always have the option to opt out of said e-mails as described below.
 
-Cookies. Our Site uses cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. We use cookies to collect non-personal information such as aggregate use statistics for internal evaluation of our Services. We also use cookies to temporarily identify users as “logged in” to our secure servers. We do not link any personal information to the information stored in cookies. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to use our Site, since our databases would no longer be able to identify you as “logged in,” and you may also be unable to fully experience the interactive features of other websites you visit.
+Cookies: Our Site uses cookies. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. We use cookies to collect non-personal information such as aggregate use statistics for internal evaluation of our Services. We also use cookies to temporarily identify users as “logged in” to our secure servers. We do not link any personal information to the information stored in cookies. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you will not be able to use our Site, since our databases would no longer be able to identify you as “logged in,” and you may also be unable to fully experience the interactive features of other websites you visit.
 
 Third Party Cookies: We may from time to time engage third parties to track and analyze non-personal usage and volume statistical information from visitors to our Site to help us administer our Site and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personal information.
+
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
+
+Analytics / Log Files: As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+
+Flash LSOs: We use local storage objects (LSOs) to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information.
+
+Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
+
+Behavioral Targeting / Re-Targeting: We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+
+We use Google AdSense to publish ads on this site.  When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites.   You may opt-out of the use of this cookie by visiting Google’s [Advertising and Privacy page](http://www.google.com/privacy_ads.html).
 
 **Children’s personally identifiable information:**
 
@@ -73,13 +87,13 @@ In the event of a sale, acquisition or merger of some, or all of Mimeo’s asset
 
 Occasionally, Mimeo may conduct surveys in order to better deliver advertisements and content, and to better understand your needs relating to the Services. If you participate, we will request certain personal information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.  The requested information typically includes contact information such as name, email and shipping address and demographic information such as zip code. We will not share your survey information with any third party, except in aggregate form. In addition, if we sponsor a contest/sweepstakes or promotion in conjunction with a third party, we will post relevant privacy information at the point of registration for that specific contest/sweepstakes or promotion so you can determine whether you wish to participate. Mimeo will handle personal information it receives as a result of a joint contest/sweepstakes or promotion or where Mimeo is the sole sponsor in accordance with this privacy policy.
 
-**Blog Disclosure:**
+**Testimonial Disclosure:**
 
-When you select to comment on our blog, you should be aware that any personal information you select to disclose within your comment can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information that you choose to submit in these forums.  _To request removal of your personal information from our blog or community forum, contact us at  _[customercare@mimeo.com](mailto:customercare@mimeo.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.
 
 **How you may access & update your information:**
 
-If you would like to change, update or delete your personal information in our databases, you may do so through your Account Profile, or by contacting our customer care team. We will make reasonable efforts to comply with your request. We shall respond to your inquiry within 30 days of receiving it. Keep in mind, however, that there will be residual information that will remain within Mimeo databases, access logs, and other records, which may or may not contain inaccurate or outdated personal information. The residual information will not be used for commercial purposes; however Mimeo reserves the right, from time to time, to re-contact former users of the Services for the purpose of informing them of changes in our service or hours of service.
+If you would like to change, update or delete your personal information in our databases, you may do so through your Account Profile, or by contacting our customer care team. We will make reasonable efforts to comply with your request. We shall respond to your inquiry within 30 days of receiving it. Keep in mind, however, that there will be residual information that will remain within Mimeo databases, access logs, and other records, which may or may not contain inaccurate or outdated personal information. The residual information will not be used for commercial purposes; however Mimeo reserves the right, from time to time, to re-contact former users of the Services for the purpose of informing them of changes in our service or hours of service. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [customercare@mimeo.com](mailto:customercare@mimeo.com).
 
 **How your information is protected:**
 
@@ -91,7 +105,7 @@ We may occasionally update this Privacy Policy. When we do, we will also revise 
 
 **Terms & Conditions:**
 
-Please also visit our Terms & Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our Site at <http://www.mimeo.com/terms-and-conditions/>.
+Please also visit our [Terms & Conditions section](http://www.mimeo.com/terms-and-conditions/) establishing the use, disclaimers, and limitations of liability governing the use of our Site.
 
 **Third party links:**
 
@@ -100,11 +114,3 @@ The Mimeo web site may contain links to other Internet web sites, including co-b
 **Social Media Widgets**
 
 Our Web site includes Social Media Features, such as the Facebook and Twitter buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. ****
-
-**Contacting Us:**
-
-If you have any questions regarding this Privacy Policy, the Service, or Mimeo.com, please e-mail us at [customercare@mimeo.com](mailto:customercare@mimeo.com). If at any time you do not agree to this Policy, please call 1-800-Go-Mimeo to cancel your account or write to us at:
-
-Mimeo.com, Inc.  
-460 Park Ave South  
-New York, NY 10016
