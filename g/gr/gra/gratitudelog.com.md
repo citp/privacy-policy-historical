@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gratitudelog.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216193752id_/http%3A//www.gratitudelog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratitudelog.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229000755id_/http%3A//www.gratitudelog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GratitudeLog
 
