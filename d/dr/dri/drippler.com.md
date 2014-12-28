@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drippler.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060636id_/http%3A//drippler.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drippler.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228142640id_/http%3A//drippler.com/about/privacy) for the most accurate reproduction.*
 
-# Drippler Privacy Policy | Drippler
+# Privacy Policy | Drippler
 
   
 Version 2.0Last Revised: [03/20/14]
@@ -19,49 +19,64 @@ Drippler Ltd. (the **"Company"** or **“we”** ) respects the privacy of the u
 **1\. Collection of Information**  
 We collect two basic types of data and information through your use of the Services. 
 
-a. **General Information.** The first type of information is non-personally identifiable information ( **“General Information”** ) that we collect while you access, browse, view or otherwise use the Services. In other words, when you access the Services we are aware of your usage of the Services, and may gather, collect and record the information relating to such usage. General Information may contain, among other things:  
-• browser language and keyboard language  
-• the manufacturer and operating system of your mobile device (i.e., Samsung Galaxy S4)  
-• the name of your mobile carrier  
-• the country from which you have downloaded and/or accessed the Services  
-• your IP Address  
-• Type of web browser  
-• Screen resolution
+a. **General Information.** The first type of information is non-personally identifiable information ( **“General Information”** ) that we collect while you access, browse, view or otherwise use the Services. In other words, when you access the Services we are aware of your usage of the Services, and may gather, collect and record the information relating to such usage. General Information may contain, among other things: 
 
-b. Personal Information. The second type of information is individually identifiable information ( **"Personal Information"** ) that specifically identifies you (like your name and email address) together with any (ii) behavioral information that may be derived from your use of the Services or (ii) information that might otherwise be collected when you use certain features of your phone (like GPS) in connection with the App that may contain, among other things:  
-• your name (if you provided this upon registration for the Website)  
-• your email address (if you provided this upon registration for the Website)  
-• the location from where you have accessed the Services  
-• the mobile device identifier provided by your mobile device operating system  
-• your answers to Company sponsored usage and preference surveys  
-• statistics regarding your use of the Services, such as items that you have designated as a “Like” and/or a “Favorite”  
-• the frequency of your use of the Services  
-• Drips (content updates sent through the Services) that you opened  
-• Third-party content accessed via the Services
+  * browser language and keyboard language
+  * the manufacturer and operating system of your mobile device (i.e., Samsung Galaxy S4)
+  * the name of your mobile carrier
+  * the country from which you have downloaded and/or accessed the Services
+  * your IP Address
+  * Type of web browser
+  * Screen resolution
 
-c. Extended Personal Information. In addition, if you choose to register for the Services and/or access the Services in connection with an external social network (such as Facebook, Google+ or Twitter)(each an **“External Network”** ), we may also collect certain additional elements of Personal Information, in accordance with the permissions that you grant us the first time that you register for/access the Services using your External Network profile which may include any of the following:  
-• Your user id/personal identifier on the External Network  
-• Gender  
-• Age  
-• Items that you have “liked” on an External Network  
-• Your “Friends” in the External Network  
-• Information based on your use of the App  
-• Other applications you have installed on your device  
-• Items and actions that you allow to be published on an External Network (i.e., the “Like a Drip” and “Share a Drip” functionalities)  
-• The “Gadgets” that you have indicated that you have or want
 
-**2\. Usage of Information**  
-We are committed to protecting your privacy and earning your trust. It is our intent to give you as much control as reasonably practicable over the privacy and use of your General Information and your Personal Information (together, your **“Information”** ). The Information we collect is used mainly to enhance and improve your experience using the Services. Generally speaking, the more Information that you volunteer to provide us, the better we are able to customize your experience. 
+
+b. Personal Information. The second type of information is individually identifiable information ( **"Personal Information"** ) that specifically identifies you (like your name and email address) together with any (ii) behavioral information that may be derived from your use of the Services or (ii) information that might otherwise be collected when you use certain features of your phone (like GPS) in connection with the App that may contain, among other things: 
+
+  * your name (if you provided this upon registration for the Website)
+  * your email address (if you provided this upon registration for the Website)
+  * the location from where you have accessed the Services
+  * the mobile device identifier provided by your mobile device operating system
+  * your answers to Company sponsored usage and preference surveys
+  * statistics regarding your use of the Services, such as items that you have designated as a “Like” and/or a “Favorite”
+  * the frequency of your use of the Services
+  * Drips (content updates sent through the Services) that you opened
+  * Third-party content accessed via the Services
+
+
+
+c. Extended Personal Information. In addition, if you choose to register for the Services and/or access the Services in connection with an external social network (such as Facebook, Google+ or Twitter)(each an **“External Network”** ), we may also collect certain additional elements of Personal Information, in accordance with the permissions that you grant us the first time that you register for/access the Services using your External Network profile which may include any of the following: 
+
+  * Your user id/personal identifier on the External Network
+  * Gender
+  * Age
+  * Items that you have “liked” on an External Network
+  * Your “Friends” in the External Network
+  * Information based on your use of the App
+  * Other applications you have installed on your device
+  * Items and actions that you allow to be published on an External Network (i.e., the “Like a Drip” and “Share a Drip” functionalities)
+  * The “Gadgets” that you have indicated that you have or want
+
+
+
+**2\. Usage of Information** We are committed to protecting your privacy and earning your trust. It is our intent to give you as much control as reasonably practicable over the privacy and use of your General Information and your Personal Information (together, your **“Information”** ). The Information we collect is used mainly to enhance and improve your experience using the Services. Generally speaking, the more Information that you volunteer to provide us, the better we are able to customize your experience. 
 
 General Information is collected in order to:  
-• Enhance the User's experience on the Site (e.g. by determining the screen resolutions).  
-• Learn about the preferences of Users and general trends on our Site (e.g. understand which “Gadgets” are more popular than others).
 
-Personal Information is collected in order to:  
-• Personalize your experience on the Site.  
-• Provide you with certain information and services relevant to Users like you (for example, content related to your specific mobile device).  
-• Allow us to contact you with proposals and tailored information regarding events, offers, etc. in your area (for example, a sale on accessories for your mobile device in store located nearby).  
-• Identify you when conducting customer service operations (such as providing service feedback, etc.)
+
+  * Enhance the User's experience on the Site (e.g. by determining the screen resolutions).
+  * Learn about the preferences of Users and general trends on our Site (e.g. understand which “Gadgets” are more popular than others).
+
+
+
+Personal Information is collected in order to: 
+
+  * Personalize your experience on the Site.
+  * Provide you with certain information and services relevant to Users like you (for example, content related to your specific mobile device).
+  * Allow us to contact you with proposals and tailored information regarding events, offers, etc. in your area (for example, a sale on accessories for your mobile device in store located nearby).
+  * Identify you when conducting customer service operations (such as providing service feedback, etc.)
+
+
 
 **3\. Sharing Personal Information with Third Parties**  
 Other than as expressly described elsewhere in this Privacy Policy, we will not share your Personal Information with any third-party, except in the following cases (and then, only to extent reasonably necessary under the circumstances): (a) to comply with any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy or the Terms of Use, including investigation of potential violations of it; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to your support requests; (e) to respond to claims that any content violates the rights of third-parties; (f) to respond to claims that contact information (e.g. phone number, name, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (g) to protect the rights, property, or personal safety of the Company, its Users and the general public; (h) when the Company is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of the assets of the Company; or (i) pursuant to your explicit approval, in order to supply certain services you have requested from Company.
