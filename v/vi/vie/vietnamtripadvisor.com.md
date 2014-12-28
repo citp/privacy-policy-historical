@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vietnamtripadvisor.com privacy policy that was archived on 2014-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140110142306id_/http%3A//www.vietnamtripadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vietnamtripadvisor.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228023323id_/http%3A//www.vietnamwhere.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Viet Nam Tripadvisor
+# Privacy Policy
 
 In order to inform you of how we use your data and what data we may collect; we have developed a privacy policy. We define personal information as any information that can be linked to you or used to identify you. This includes but isn’t limited to; your name, your address, your phone number, and your e-mail address.
 
