@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looneypalace.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620142653id_/http%3A//www.looneypalace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looneypalace.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228153047id_/http%3A//www.looneypalace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Looney Palace
 
