@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iafrica.com privacy policy that was archived on 2014-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140526220951id_/http%3A//www.iafrica.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iafrica.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228084436id_/http%3A//www.iafrica.com/about/privacy) for the most accurate reproduction.*
 
 # iafrica.com
 
@@ -32,16 +32,16 @@ This privacy statement applies specifically to the iafrica.com service. Question
 
 
 
-A settlement agreement has been reached between Economic Freedom Fighters leader Julius Malema and the SA Revenue Service.
+A flight from Indonesia to Singapore has lost contact with air traffic control over the sea, leading experts to send out a rescue mission.
 
-[Read more ›](https://web.archive.org/articles/940765.html)
+[Read more ›](https://web.archive.org/articles/976366.html)
 
-Thinking of taking a mid-career sabbatical? Consider these factors before going on your dream gap year...
+Government will work towards implementing the National Development Plan (NDP) in 2015, Deputy President Cyril Ramaphosa said.
 
-[Read more ›](https://web.archive.org/articles/940583.html)
+[Read more ›](https://web.archive.org/articles/976269.html)
 
-Seventh seed Maria Sharapova encountered little resistance as she reached the second round of the French Open on Monday.
+Faf du Plessis completed his fourth Test century and was dismissed immediately afterwards on a rain-hit second day of the second Test.
 
-[Read more ›](https://web.archive.org/articles/940844.html)
+[Read more ›](https://web.archive.org/articles/976348.html)
 
 ### Subscribe to our Newsletters
