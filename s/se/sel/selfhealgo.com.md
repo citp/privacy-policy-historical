@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the selfhealgo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630192205id_/http%3A//www.selfhealgo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfhealgo.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229005559id_/http%3A//www.selfhealgo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Remote Scalar Energy Healing
+# Privacy Policy -
 
 **What information do we collect?**
 
