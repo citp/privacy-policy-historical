@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycandylove.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630131022id_/http%3A//www.mycandylove.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycandylove.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228104614id_/http%3A//www.mycandylove.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# My Candy Love, a game of love and flirting for girls!
 
 Privacy is fundamental to BEEMOOV. This “General Privacy Policy” applies to all visitors and users of [www.mycandylove.com](http://www.mycandylove.com/). You must agree to the [Terms of Service](https://web.archive.org/cgu.html) before enjoying the benefits of a registered user.
 
