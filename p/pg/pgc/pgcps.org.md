@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgcps.org privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522152143id_/http%3A//www1.pgcps.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8654) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgcps.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228083100id_/http%3A//www1.pgcps.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D8654) for the most accurate reproduction.*
 
 # PGCPS Privacy Policy
 
