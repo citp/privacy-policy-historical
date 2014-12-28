@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siu.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064632id_/http%3A//policies.siu.edu/policies/webprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siu.edu privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228031553id_/http%3A//policies.siu.edu/policies/webprivacy.htm) for the most accurate reproduction.*
 
 # Campus Web Privacy Policy | Policies & Procedures | SIU
 
