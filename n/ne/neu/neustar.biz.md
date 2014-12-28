@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the neustar.biz privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629212544id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neustar.biz privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228151927id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
 
 # Neustar | Privacy
 
 **Highlights of the Neustar Privacy Policy**
 
-_Updated: October 1, 2013_
+_Updated: September 23, 2014_
 
 Neustar uses Personal Information to support data-driven decision-making and deliver personalized content _without_ sacrificing personal privacy. These “Highlights” summarize Neustar’s privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Policy](https://web.archive.org/privacy/privacy_policy) and [Privacy Principles](https://web.archive.org/privacy/privacy_principles).
 
@@ -32,9 +32,20 @@ Read our full [Privacy Policy](https://web.archive.org/privacy/privacy_policy) o
 
 We may use Cookies, Web Beacons, Pixel Tags and similar technologies to enhance and personalize your experience on our web sites and to track, manage, and enable visitor transactions and preferences. In addition, we work with a variety of [Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners) to set [AdAdvisor Cookies](https://web.archive.org/privacy/privacy_policy#cookies). Businesses use the information in AdAdvisor cookies to tailor online advertising based on the likelihood that someone will share certain interests or propensities with members of an aggregated group. to tailor online advertising based on our predictions about the preferences and interests of large groups of similar consumers, and to measure the effectiveness of ad campaigns. We also use Log Data associated with AdAdvisor Cookies for marketing and analytics purposes, and to understand what kind of mobile devices are being used.
 
+### Advertising IDs
+
+**Mobile Advertising IDs.** We use Mobile Advertising IDs, also known as IDFA or IFA, in connection with [ElementOneSM](https://web.archive.org/marketing-solutions) and other marketing services. We obtain Mobile Ad IDs from Match Partners who have user consent to share this information. We share Segment Codes associated with Mobile Advertising IDs with our customers who have access to these identifiers with the consent of their users. This enables our clients to provide a more tailored user experience as well as relevant content and offers in the mobile environment. You can find more information about how mobile advertising IDs are used and how to opt out of mobile advertising in our Transparency and Choice section below.
+
 ### Transparency and Choice
 
 You can check the [AdAdvisor Profile Manager](http://www.adadvisor.net/profileUpdate.html) to see if we have set an [AdAdvisor Cookie](https://web.archive.org/privacy/privacy_policy#cookies) through your browser. If so, the Profile Manager also displays the de-identified information contained in that cookie. You may opt out of the use of AdAdvisor Cookies for online behavioral advertising using the [AdAdvisor Opt-Out](http://www.adadvisor.net/optout.html). You can also learn more about online advertising in general on the [Network Advertising Initiative](http://www.networkadvertising.org/code-enforcement) web site, which also permits you to opt-out of receiving tailored online advertising from some or all of its members.
+
+### Mobile Advertising IDs
+
+  * Apple’s iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: [IDFA Opt-Out](http://support.apple.com/kb/HT4228).
+  * Similar to IDFA for Apple devices, Android devices pass Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile are used for advertising and receive instruction for how to opt out of mobile advertising on the [Google Privacy & Terms](http://www.google.com/policies/technologies/ads/) webpage.
+
+
 
 ### Accountability
 
