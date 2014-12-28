@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adt.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625163932id_/http%3A//www.adt.com/about-adt/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adt.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228104724id_/http%3A//www.adt.com/about-adt/legal/privacy-policy) for the most accurate reproduction.*
 
 # ADT Security Privacy Policy - ADT Security Services
 
