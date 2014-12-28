@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228161646id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visabureau.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228191522id_/http%3A//www.visabureau.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Visa Bureau
 
   »   **Privacy Policy: Visa Bureau**
+
+Visa Bureau is not affiliated with the Australian Government but is an independent UK company. Australian visas are available from the Australian Government at a lower cost or for free when you apply directly. Our comprehensive [visa and immigration services](https://web.archive.org/australia/visa-bureau-service.aspx) include immigration advice from registered migration agents, an exceptional success rate, document checking and expedited visa processing. 
 
 This Policy is devised to help you feel more confident about the privacy and security of your personal details. We collect and process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation. 
 
