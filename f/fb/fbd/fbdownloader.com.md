@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbdownloader.com privacy policy that was archived on 2014-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140516173228id_/http%3A//fbdownloader.com/lp/is/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbdownloader.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228032822id_/http%3A//fbdownloader.com/lp/is/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
