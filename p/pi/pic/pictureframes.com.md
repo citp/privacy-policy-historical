@@ -1,148 +1,21 @@
-> *The following text is extracted and transformed from the pictureframes.com privacy policy that was archived on 2007-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071225183958id_/http%3A//www.pictureframes.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictureframes.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228195806id_/http%3A//www.pictureframes.com/Privacy-Policy) for the most accurate reproduction.*
 
-# PictureFrames.com Privacy Policy
+# Privacy & User Policy | PictureFrames.com
 
-[](http://www.pictureframes.com/)  
----  
-  
-Your Privacy at pictureframes.com  
-  
-Protecting your privacy is as important to us as it is to you. We here at Graphik Dimensions Ltd. have written the following policy to help you understand how we collect, use, and safeguard the personal information you provide to us at pictureframes.com.  
-  
-Pictureframes.com and Graphik Dimensions Ltd.  
-  
-Pictureframes.com is wholly owned and operated by Graphik Dimensions Ltd. For over 40 years, Graphik Dimensions Ltd. has provided quality merchandise, wholesale prices, and award-winning customer care. At pictureframes.com, our goal is not only to further this tradition, but also provide a unique Internet experience that is fun, easy, informative, and secure.
+In order to make improvements in the way we communicate and interact with customers, pictureframes.com may also compile aggregate data from all of our customers to prepare internal reports. For example, we may collect and analyze collected aggregate information to determine how many visitors arrived at certain pages of the Site, how long they stayed on those pages, and where they went afterwards. Pictureframes.com does not combine your personally identifiable information with information about pages visited, purchases made, or any other clickstream data.
 
-Top  
-  
-Data Security  
-  
-Pictureframes.com is fully committed to the highest data security possible. Be assured that all information relating to our customers is stored in a highly secure environment, and all credit card information is processed and stored in an encrypted format. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place physical, electronic, and managerial procedures to safeguard and secure the information you provide to us online.
+In some instances, we use third party companies to help us provide our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these companies are given access to some or all of the information you provide to us and some may use cookies on our behalf. These companies are contractually-restricted from using your information in any manner other than in helping us to provide you with the products and services available from pictureframes.com.
 
-Top  
-  
-Browsing  
-  
-When you browse pictureframes.com, you do so anonymously we do not collect your name, email address or any other personal information unless you provide it to us. We do log your IP address (the Internet address of your computer) to give us an idea of which parts of our website you visit and how long you spend there. Your browser also automatically supplies us with the type of computer and operating system you are using. Furthermore, we do not follow your browsing path outside of pictureframes.com.
+In addition, we may allow third party service providers such as advertisers, website statistics gatherers and others to use cookies and other technologies to, among other things, serve advertisements, collect statistics about use of the Site and enable such third parties to record information such as your browser type, IP address, which ads your browser has seen, which Site pages you may have been viewing when ads were delivered, your referring URL, your geographic location and other interaction information (but not your name or address). Pictureframes.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
-Top  
-  
-Pictureframes.com and BBB Reliability Program  
-  
-Pictureframes.com is proud to have received the BBB's Reliability Program Seal. It can sometimes be difficult to tell the reputable websites and online services from those that are not. The BBBOnLine Reliability seal provides you an easy way to distinguish reliable websites and online services.
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these agencies or companies for marketing purposes.
 
-Top  
-  
-Information we collect online  
-  
-In several areas of our site, we ask you to provide information by filling out and submitting an online form. These areas include:
+The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please contact Customer Care at 800-332-8884.
 
-  * Checkout: where we ask for name, address, email, credit card and other information needed to complete your order.  
-Once you've registered, you will have an account at pictureframes.com. (Please NOTE: For your comfort, we do NOT store your credit card number in your account. You will have to enter the number each time you order.)  
+If you provide feedback on any of our products and services to us, we may use your feedback for any purpose. Pictureframes.com will collect any information contained in your communication and will treat the personal information in the communication in accordance with this Privacy Policy.
 
-  * Contests: where we may ask name, address, email, phone, and perhaps some basic marketing questions.  
+We may operate sweepstakes, contests, raffles, games and similar promotions through the Site. We typically ask you for certain personally identifiable information when you enter and, if applicable, win a sweepstakes, contest, raffle, game or similar promotion. We reserve the right to share this personally identifiable information with third party sponsors of such sweepstakes, contests, raffles, games and promotions (irrespective of whether it is hosted by us), or otherwise in accordance with the rules applicable to such sweepstakes, contest, raffle, game or promotion. You should carefully review the rules of each sweepstakes, contest, raffle, game and promotion in which you participate through the website, as they may contain additional important information about pictureframes.com's or a sponsor's use of your personally identifiable information.
 
-  * Catalog requests, where we ask for a name, address, e-mail and some basic marketing info.  
+In the event there is a change in the corporate structure of Graphik Dimensions Ltd./pictureframes.com such as, but not limited to, merger, consolidation, sale, liquidation, or transfer of substantial assets, Graphik Dimensions may, in its sole discretion, transfer, sell or assign information collected on and through this Site, including without limitation, personally identifiable information concerning visitors, to one or more affiliated or unaffiliated third parties.
 
-
-
-
-All of this information will remain in a highly secure and encrypted environment.
-
-Top  
-  
-How we use the information we collect  
-  
-In order to make improvements in the way we communicate and interact with customers, pictureframes.com may also compile aggregate data from all of our customers to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns. Pictureframes.com does not combine your personally identifiable information with information about pages visited, purchases made, or any other clickstream data. 
-
-Top  
-  
-Images you upload to pictureframes.com  
-  
-The images you upload to the Personal Frame Shop, Print & Frame, or Editions will never be used in any way without your consent. 
-
-Top  
-  
-Cookies – what they are and how we use them  
-  
-What A Cookie Is
-
-Like many other commercial websites, pictureframes.com uses a standard technology called a "cookie" to collect information about how you use the site. A cookie is a small file stored on your computer by a Web site to give you a unique ID. Cookies help make it easier for you to use our site, and they help us customize your experience so that we can provide you with the information you need – when and where you need it.
-
-How We Use Cookies
-
-A cookie generated by our site contains a numeric ID that, for example, allows you to retrieve your Shopping Cart and place an order. We also use cookies to help us measure the success of our marketing efforts, so that we can better understand how to reach you and customers like you with information about pictureframes.com. In keeping with our standard policy on customer information, we analyze data gathered via cookies only in aggregate, not at the individual customer level.
-
-How we don’t or can't use Cookies
-
-We do not use cookies to track your web browsing away from pictureframes.com, nor can we. We neither do nor can tell where you have been or where you go once you leave the pictureframes.com site. We do not use cookies to match you with any outside or third party database. 
-
-Top  
-  
-How we use email   
-  
-Occasionally, we send out email updates on products, sales, special events, and promotions. Certain customers whom we think might be interested in learning about this information will receive these emails. All email offers that you receive from pictureframes.com will tell you how to decline further email offers.
-
-We also use email as a means of communicating with our customers. We love to hear from you, and we encourage you to email us with your questions or comments. We read every email we receive.
-
-Top  
-  
-Declining Email Offers  
-  
-Pictureframes.com provides customers with an easy means of declining email offers. Although most customers tell us they appreciate receiving notice of these opportunities, we recognize the importance of providing you with choices. At any time, you may request to discontinue receiving these offers from us by simply replying to the email and informing us of your preferences. 
-
-Top  
-  
-Information we may share with others  
-  
-In delivering this information, we may group you with other customers who have bought similar amounts and types of products, but we never provide details that are specific to a single customer or household. 
-
-Top  
-  
-Information we do not share with others  
-  
-We do not give other companies access to your personal information. We do not release credit card or financial information for use by other companies. We do not share, sell or trade information collected as part of a survey or specific details about you or your household. For privacy purposes, all information relating to our customers is stored on a highly secure server, and all credit card information is stored in an encrypted format. 
-
-Top  
-  
-How to contact us with questions or comments, limit catalogs, remove your name from our mailing list, etc.  
-  
-We're always happy to answer your questions, take your comments and suggestions, or assist you in any way possible.
-
-| **E-mail** :  
-[customercare@pictureframes.com](mailto:customerservice@pictureframes.com) |   
----|---  
-**Customer Care Phone:**  
-(800)332-8884
-
-Regular Hours (Jan. 15 - Sept. 15, Eastern times)  
-8am - 7pm Mon-Thurs  
-8am - 6pm Fri  
-10am - 4pm Sat
-
-Extended Holiday Hours (Sept. 16 - Jan. 14, Eastern times)  
-8am - 9pm Mon-Fri  
-9am - 6pm Sat
-
-| **Phone Orders** :  
-(800)221-0262
-
-Regular Hours (Jan. 15 - Sept. 15, Eastern times)  
-8am - 7pm Mon-Thurs  
-8am - 6pm Fri  
-10am - 4pm Sat
-
-Extended Holiday Hours (Sept. 16 - Jan. 14, Eastern times)  
-8am - 9pm Mon-Fri  
-9am - 6pm Sat  
-  
-  
-**Address:  
-**2103 Brentwood Street  
-High Point, NC 27263  
-USA | **  
-Fax** :  
-(336)887-3773  
-(fax orders 24 hrs/day)  
-  
-Top
+Back to Top
