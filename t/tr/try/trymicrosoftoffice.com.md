@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trymicrosoftoffice.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626073535id_/http%3A//www.microsoftstore.com/store/msusa/en_US/DisplayPrivacyPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trymicrosoftoffice.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228142847id_/http%3A//www.microsoftstore.com/store/msusa/en_US/DisplayPrivacyPage) for the most accurate reproduction.*
 
 # Microsoft Store - Privacy statement
 
