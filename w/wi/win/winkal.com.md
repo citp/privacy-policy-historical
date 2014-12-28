@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winkal.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628042458id_/https%3A//winkal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkal.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228215841id_/https%3A//winkal.com/privacy) for the most accurate reproduction.*
 
 # Winkal - Share the Fun
 
