@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2ndswing.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214824id_/http%3A//www.2ndswing.com/t-PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ndswing.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228074433id_/http%3A//www.2ndswing.com/t-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,10 +6,11 @@ Effective January 1, 2013
 
 This privacy statement describes how 2ndswing.com collects and uses the personal information you provide on our web site, [www.2ndswing.com](http://www.2ndswing.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Collection and Use of Personal Information
+### Collection and Use of Personal Information
 
- **Why we collect information?**  
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey.
+##### Why we collect information?
+
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter personal information. you may, however, visit our site anonymously. We collect the following personal information from you:
 
@@ -24,7 +25,8 @@ As is true of most web sites, we automatically gather information about your com
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookies enables it to serve ads to your users based on their visit to your sites and other sites on the INTERNET. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
- **What do we use your information for?**  
+##### What do we use your information for?
+
 We use this information to:
 
   * Fulfill your order and process transactions
@@ -41,13 +43,13 @@ We use this information to:
 
 
 
- **Unsubscribe**
+##### Unsubscribe
 
 If at any time you would like to unsubscribe from receiving our newsletter or marketing emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Information Security
+### Information Security
 
- **How do we protect your information?**
+##### How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
@@ -55,7 +57,7 @@ We offer the use of a secure server. All supplied sensitive/credit information i
 
 After a transaction, your credit card numbers will not be stored on our servers.
 
- **Do we use cookies?**
+##### Do we use cookies?
 
 Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the site or service providers systems to recognize your browser and capture and remember certain information.
 
@@ -65,7 +67,7 @@ If you prefer, you can choose to have your computer warn you each time a cookie 
 
 Users may opt out of Google's use of cookies by visiting the [Google Advertising opt-out page](http://www.google.com/policies/privacy/ads/).
 
- **Do we disclose any information to outside parties?**
+##### Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
 
@@ -78,13 +80,13 @@ We may also disclose your personal information:
 
 
 
- **PayPal/Google Checkout**
+##### PayPal/Google Checkout
 
 If you choose to use PayPal or Google Checkout to finalize and pay for your order, you will provide your credit card number directly to PayPal or Google. The privacy policy for PayPal and Google will apply to the information you provide on their web site.
 
-Additional Privacy Policy Information
+### Additional Privacy Policy Information
 
- **Third party links**
+##### Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
@@ -92,36 +94,30 @@ Children's Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Children's Online Privacy Protection Act).
 
- **Online Privacy Policy Only**
+##### Online Privacy Policy Only
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
- **Terms and Conditions**
+##### Terms and Conditions
 
 Please visit our Terms and Conditions section establishing the use, disclaimer, and limitations of liability governing the use of our website at <https://www.2ndswing.com/t-TermsConditons.aspx>
 
-**Your Consent**
+##### Your Consent
 
 By using our site, you consent to our web site Privacy Policy.
 
- **Changes to our Privacy Policy**
+##### Changes to our Privacy Policy
 
 If we decide to change our Privacy Policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified January 1, 2013.
 
- **Contact Information**
+##### Contact Information
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-2nd Swing
-
-2412 E Hennepin Ave
-
-Minneapolis, Minnesota 55413
-
-United States
-
-service@2ndswing.com
-
-(612) 216-4152
+**2nd Swing**  
+6752 Shady Oak Rd  
+Eden Prairie, MN 55344   
+United States  [service@2ndswing.com  
+(612) 216-4152 ](mailto:service@2ndswing.com)
