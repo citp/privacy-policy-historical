@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netted.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627142049id_/http%3A//netted.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netted.net privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228213233id_/http%3A//netted.net/privacy-policy) for the most accurate reproduction.*
 
 # Netted: Privacy Policy
 
