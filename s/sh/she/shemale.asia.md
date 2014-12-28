@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemale.asia privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606083749id_/http%3A//www.shemale.asia/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemale.asia privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228034309id_/http%3A//www.shemale.asia/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
