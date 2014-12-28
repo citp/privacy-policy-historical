@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resourcemagonline.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627140134id_/http%3A//resourcemagonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcemagonline.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228063532id_/http%3A//resourcemagonline.com/privacy) for the most accurate reproduction.*
 
-# Resource Magazine Privacy Policy | Resource Magazine
+# Privacy Policy | Resource Magazine
 
 Remag, Inc., doing business as Resource Magazine (“our”, “us” or “we”) has created this privacy policy statement in order to demonstrate our commitment to your privacy. This privacy policy explaining our data collection and use practices applies to this website (the “Website”), any newsletters subscribed to via this Website, information collected and provided to us when you subscribe to or purchase the digital edition of Resource Magazine at third-party websites and applications (collectively, the “Apps”), and information collected offline when you subscribe to the print edition of Resource Magazine, but does not apply to any other products or services or to information collected in any other way (whether offline or online) by us and our respective general partners and affiliates (collectively “Resource”), unless expressly indicated by Resource (such as by including a link to this Privacy Policy on other Resource websites or on Resource mobile applications). By using or accessing the Website or any Apps, you signify your assent to our privacy policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE WEBSITE OR THE APPS.
 
@@ -32,7 +32,7 @@ If you receive an unwanted email from us, you can simply reply and ask not to re
 
 Communications with us: By providing your email address to us, you expressly consent to receive emails from us. We may use email to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us, provided that, we will not give your email address to another party to promote their products or services directly to you.
 
-California Residents: If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Resource to its affiliates and/or third parties for their direct marketing purposes. To make such a request, please send an email with your first name, last name, mailing address, email address and telephone number to [legal@resourcemagonline.com](mailto:legal@resourcemagonline.com). Please include “California Privacy Rights” in the Subject line of your email.
+California Residents: If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Resource to its affiliates and/or third parties for their direct marketing purposes. To make such a request, please send us an email with your first name, last name, mailing address, email address and telephone number. Please include “California Privacy Rights” in the Subject line of your email.
 
 Contact: If you have any questions about this policy please contact: legal@resourcemagonline.com
 
