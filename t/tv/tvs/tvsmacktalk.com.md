@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvsmacktalk.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505182150id_/http%3A//www.tvsmacktalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvsmacktalk.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228020423id_/http%3A//www.tvsmacktalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - T.V.S.T.
 
@@ -25,4 +25,4 @@ If you have any questions regarding the privacy policy of TV Smack Talk You Post
 
 Last updated Sat, 11 Jun 2011 07:43
 
-(2269)
+* * *
