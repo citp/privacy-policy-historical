@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanrifleman.org privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620084452id_/http%3A//membership.nrahq.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanrifleman.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228070631id_/http%3A//membership.nrahq.org/privacy.asp) for the most accurate reproduction.*
 
 # NRA Online Membership
 
@@ -24,7 +24,7 @@ We also use your information to send you notices in the mail or by email about s
 
 **Editing Your Personal Information**
 
-Three ways you can edit or update your personal information: (1) visiting [NRA Member Services](http://nra%20member%20services/); (2) calling us at 1-800-672-3888; or (3) writing to us at National Rifle Association of America, 11250 Waples Mill Road; Fairfax, VA 22030.
+Three ways you can edit or update your personal information: (1) visiting [NRA Member Services](http://www.nramemberservices.org/); (2) calling us at 1-800-672-3888; or (3) writing to us at National Rifle Association of America, 11250 Waples Mill Road; Fairfax, VA 22030.
 
 We protect your personal information by using technologies and processes such as encryption, access control procedures, network firewalls, physical security and other measures. Data is secured in transit by Secure Sockets Layer (SSL) technology. Only authorized employees or agents with a legitimate business purpose are allowed to access your personal information. We train our employees and agents to implement and understand our privacy and confidentiality policies. 
 
