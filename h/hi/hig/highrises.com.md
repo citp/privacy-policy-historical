@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the highrises.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520004806id_/http%3A//www.highrises.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highrises.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228163015id_/http%3A//www.highrises.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy & Terms of Service
 
 At Highrises.com, we recognize that you expect privacy and security when it comes to information that personally identifies you and allows you to be individually contacted (”Personal Information”). Highrises.com has adopted the following online privacy policy because we understand the need to safeguard the information you may be providing to us at our web site. We collect and retain information about you only when we believe it will help us provide you with the services and products that you desire.
 
@@ -20,8 +20,12 @@ Cookies are small pieces of information that are stored by your browser on your 
 
 Our web site contains links to and from other web sites and may be in the form of display advertising. We cannot guarantee that web sites other than Highrises.com will respect and protect your Personal Information in the same manner that we do. We urge you to go to and read the Privacy Statements of other web sites when you visit them for your own protection. We also are not responsible for the content of web sites other than Highrises.com
 
+### Referrals
+
+When you provide us with Personal Information such as your name, email and/or phone number, you authorize Highrises.com to refer you to our partner real estate brokerage in the market in which you registered or inquired.  You also acknowledge that Highrises.com may be paid a valuable consideration for facilitating such a referral.
+
 ### Your Consent
 
-When you provide us with Personal Information, you consent to the collection and use of this information by Highrises.com. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+When you provide us with Personal Information, you consent to the collection and use of this information by Highrises.com.  If we decide to change our privacy policy, we will post changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-© 2008 Highrises.com. All Rights Reserved.
+© 2014 Highrises.com. All Rights Reserved.
