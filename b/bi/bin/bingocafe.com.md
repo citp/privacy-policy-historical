@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingocafe.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612201632id_/http%3A//www.bingocafe.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingocafe.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228014301id_/http%3A//www.bingocafe.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Bingo Cafe
 
