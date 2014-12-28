@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071511id_/http%3A//thehealthcast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228012845id_/http%3A//thehealthcast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Health Cast
 
@@ -10,7 +10,7 @@ _Effective Date: May 10, 2012_
 
 This Privacy Policy describes the information practices of the TheHealthCast.com website, operated by Optimal Fusion. You may visit and use certain features of our website without any registration, in which case none of your personal information will be collected or retained. However, if you to register through our website or request coupons, we will ask you to provide personal information such as your contact information and your date of birth.
 
-In addition, some sections of our website allow you to provide information directly to third parties whose websites are framed within our website, as described below in the section on “Third party links and co-brand relationships.”  
+In addition, some sections of our website allow you to provide information directly to third parties whose websites are framed within our website, as described below in the section on â€œThird party links and co-brand relationships.â€  
 When you visit our website, we may also collect information that does not identify you personally, such as the IP address of the computer making the request, information about your computer and browser, and information about your use of our website.
 
 We use the information we collect to provide you with product promotions, support and any information you request, and otherwise to operate our business and this website.
@@ -19,9 +19,9 @@ We use the information we collect to provide you with product promotions, suppor
 
 TheHealthCast.com uses reasonable security measures to help protect the information that we collect.
 
-**Does TheHealthCast.com use “cookies”?**
+**Does TheHealthCast.com use â€œcookiesâ€?**
 
-We use cookies so that we can help provide our customers with a better and more efficient experience on our website. A “cookie” is a piece of information a web site sends to your computer while you are viewing the web site to remember who you are without personally identifying you. Even without accepting a cookie, you can still access all of the features on our website.
+We use cookies so that we can help provide our customers with a better and more efficient experience on our website. A â€œcookieâ€ is a piece of information a web site sends to your computer while you are viewing the web site to remember who you are without personally identifying you. Even without accepting a cookie, you can still access all of the features on our website.
 
 **Does TheHealthCast.com disclose any information it collects from its visitors to third parties?**
 
@@ -35,18 +35,18 @@ Although it is our hope that you find the display of advertising to you based on
 
 **What are my choices?**
 
-If you would like TheHealthCast.com to stop providing your information to these third parties, please send a “do not share” request to TheHealthCast.com by emailing us at[privacy@optimalfusion.com](mailto:privacy@optimalfusion.com?subject=TheHealthCast.com), or by contacting us as directed below under “Additional Information.”
+If you would like TheHealthCast.com to stop providing your information to these third parties, please send a â€œdo not shareâ€ request to TheHealthCast.com by emailing us at[privacy@optimalfusion.com](mailto:privacy@optimalfusion.com?subject=TheHealthCast.com), or by contacting us as directed below under â€œAdditional Information.â€
 
-**TheHealthCast.com’s special note to parents**
+**TheHealthCast.comâ€™s special note to parents**
 
 TheHealthCast.com does not knowingly collect personal information from children under the age of 13.
 
 **Third party links and co-brand relationships**  
-In order to provide increased value to our visitors, TheHealthCast.com may choose various third party websites to link to and from, and frame within, its own website. TheHealthCast.com may also participate in co-branding and other relationships to offer information, programs and other services and features to its users. A “framed” website is a page from a third party’s website that appears within our website. Framing allows you to interact with a third party website without navigating away from our website.
+In order to provide increased value to our visitors, TheHealthCast.com may choose various third party websites to link to and from, and frame within, its own website. TheHealthCast.com may also participate in co-branding and other relationships to offer information, programs and other services and features to its users. A â€œframedâ€ website is a page from a third partyâ€™s website that appears within our website. Framing allows you to interact with a third party website without navigating away from our website.
 
 These third party web sites may independently solicit and collect information from you. TheHealthCast.com does not control these linked sites. Since their treatment of personal information may differ from ours, we encourage you to carefully review the privacy statements and terms of use of all third party web sites you access. On occasion, those third party web sites may provide us with information about your use of those sites.
 
-We serve some third-party ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://7.hidemyass.com/ip-1/encoded/Oi8vd3d3Lm5ldHdvcmthZHZlcnRpc2luZy5vcmc%3D).
+We serve some third-party ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,Â [click here](http://7.hidemyass.com/ip-1/encoded/Oi8vd3d3Lm5ldHdvcmthZHZlcnRpc2luZy5vcmc%3D).
 
 **Your consent and changes to this policy**
 
