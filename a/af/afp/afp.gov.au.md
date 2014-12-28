@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530133130id_/http%3A//www.afp.gov.au/Global/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afp.gov.au privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228050401id_/http%3A//www.afp.gov.au/Global/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Australian Federal Police
 
@@ -23,7 +23,7 @@ If you do not wish to use an online form, you may download a hard copy from the 
 
 The Australian Federal Police will only record your email address if you send us a message. The address you supply will be used only for the purpose for which you have provided it, and will not be disclosed or added to a mailing list without your consent.
 
-You are reminded that, with the exception of encrypted forms as described above, messages sent from this site over the Internet are not secure. For further information on the Internet and security, you should read the [Disclaimer](https://web.archive.org/Global/Disclaimer.aspx).
+You are reminded that, with the exception of encrypted forms as described above, messages sent from this site over the Internet are not secure. For further information on the Internet and security, you should read the [Disclaimer](https://web.archive.org/en/Global/Disclaimer.aspx).
 
 ##  Clickstream data
 
