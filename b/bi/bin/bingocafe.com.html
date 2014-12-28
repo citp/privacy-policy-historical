@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the bingocafe.com privacy policy that was archived on 2014-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140612201632id_/http%3A//www.bingocafe.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bingocafe.com privacy policy that was archived on 2014-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141228014301id_/http%3A//www.bingocafe.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US"><head id="page_head"><link href="App_Themes/site/style.css" type="text/css" rel="stylesheet"><meta http-equiv="Content-Type" content="text/html;"><meta name="robots" content="follow,index"><link id="link_Icon" rel="shortcut icon" type="image/x-icon" href="App_Themes/site/Icons/favicon.ico">
     
-<script type="text/javascript" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.4.2.min.js"></script><script type="text/javascript" src="/App_Resources/Js/JScript.js"></script><title>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MJRGBM"></script><script type="text/javascript" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.4.2.min.js"></script><title>
 	Privacy - Bingo Cafe
-</title></head>
+</title><script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=45813911"></script></head>
 <body id="htmlbody">
     <form method="post" action="privacy.aspx" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk5Njc3MjI4MGRkb9ICCdtbWRhFiJ2IYK7Z9vtCxGc=">
 
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
     <div id="bodyContainer">
         <div id="container">
             <a name="top"></a>
@@ -84,8 +85,6 @@
             </tr>
         </tbody></table>
     </div>
-    <div id="whatson-hover">        
-    </div>
     <div id="winners-hover">
     </div>
     <div id="help-hover">
@@ -99,12 +98,6 @@
     var topHelpMenu = false;
     var subHelpMenu = false;
 
-    function checkHover() {
-        if (topMenu == false && subMenu == false && $("#whatson-hover").is(":visible")) {
-            $("#whatson-sub").hide();
-            $("#whatson-hover").hide();
-        }
-    }
 
     function checkWinnersHover() {
         if (topWinnersMenu == false && subWinnersMenu == false && $("#winners-hover").is(":visible")) {
@@ -122,72 +115,35 @@
 
     $(document).ready(function () {
         $("td.line").height("1px");
-        $("#whatson-sub td, #winners-sub td, #help-sub td").hover(function(){
+        $("#winners-sub td, #help-sub td").hover(function(){
             $(this).find("a").css("color", "#993300");
         }, function(){
             $(this).find("a").css("color", "#fff");
         });
-        $("#whatson-sub td, #winners-sub td, #help-sub td").click(function(){
+        $("#winners-sub td, #help-sub td").click(function(){
             window.location = $(this).find("a").attr("href");
         });
-
-
-        var whatsonOffset = $('#nav-whatson').position();
+                
         var winnersOffset = $('#nav-fame').position();
         var helpOffset = $('#nav-contactus').position();
 
-        $('.whatson').hover(function () {
-            $("#help-sub").hide();
-            $("#winners-sub").hide();
-            $("#whatson-hover").show();
-        });
         $('.winners').hover(function () {
-            $("#help-sub").hide();
-            $("#whatson-sub").hide();
+            $("#help-sub").hide();            
             $("#winners-hover").show();
         });
-        $('.help').hover(function () {
-            $("#whatson-sub").hide();
+        $('.help').hover(function () {        
             $("#winners-sub").hide();
             $("#help-hover").show();
         });
+                        
+        $("#winners-hover").css('left', (winnersOffset.left)+3);
+        $("#help-hover").css('left', (helpOffset.left)+3);                
 
-        $("#whatson-hover").css('left', (whatsonOffset.left + 3));
-        $("#winners-hover").css('left', (winnersOffset.left + 3));
-        $("#help-hover").css('left', (helpOffset.left + 3));
-
-        $("#whatson-hover").click(function () {
-            window.location = "/whats-on.aspx";
-        });
         $("#winners-hover").click(function () {
             window.location = "/winners/photo-gallery.aspx";
         });
         $("#help-hover").click(function () {
             window.location = "/contactus.aspx";
-        });
-
-        $("#whatson-hover").mouseover(function () {
-            var position = $('#nav-whatson').position();
-            $("#whatson-hover").css('left', (position.left + 7));
-            $("#whatson-hover").show();
-            $("#whatson-sub").css('left', (position.left + 7));
-            $("#whatson-sub").show();
-            topMenu = true;
-        });
-        $("#whatson-hover").mouseout(function () {
-            topMenu = false;
-            setTimeout("checkHover()", 400);
-        });
-        $("#whatson-sub").hover(function () {
-            $("#whatson-sub").show();
-            $("#whatson-hover").show();
-            subMenu = true;
-        }, function () {
-            subMenu = false;
-            if (topMenu == false && subMenu == false) {
-                $("#whatson-sub").hide();
-                $("#whatson-hover").hide();
-            }
         });
 
         $("#winners-hover").mouseover(function () {
@@ -213,7 +169,6 @@
                 $("#winners-hover").hide();
             }
         });
-
         $("#help-hover").mouseover(function () {
             var position = $('#nav-contactus').position();
             $("#help-hover").css('left', (position.left + 3));
@@ -253,7 +208,7 @@
                 </div>
                 <div id="main-top">
                     <div id="breadcrumb">
-                        <span id="siteMapPath"><a href="#siteMapPath_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=vKiYxPTv5KpImk1w9jQw5oomATdo2-MI4v9gYtpUdtpyGYh0uOkXFmBGmqixG2YgHgN_xHEoy85M9ho8rV5vjtaoPsc1&amp;t=635284644953928920" border="0"></a><span><a title="Home" href="/default.aspx"><font color="White">Home</font></a></span><span> &gt; </span><span><b><font color="White">Privacy</font></b></span><a id="siteMapPath_SkipLink"></a></span>
+                        <span id="siteMapPath"><a href="#siteMapPath_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=vKiYxPTv5KpImk1w9jQw5oomATdo2-MI4v9gYtpUdtpyGYh0uOkXFmBGmqixG2YgHgN_xHEoy85M9ho8rV5vjtaoPsc1&amp;t=635418460260000000" width="0" height="0" border="0"></a><span><a title="Home" href="/default.aspx"><font color="White">Home</font></a></span><span> &gt; </span><span><b><font color="White">Privacy</font></b></span><a id="siteMapPath_SkipLink"></a></span>
                     </div>
                 </div>
                 <div id="main">
@@ -387,7 +342,7 @@ In this Privacy Policy, as in the General terms and conditions, references to th
                     <li><a href="http://www.bingocafe.com/refer-a-friend.aspx">Refer a Friend</a></li>
                     <li><a href="http://www.referbingo.com/?cid=97" target="_blank" rel="nofollow">Affiliates</a></li>            
                     <li><a href="http://www.bingocafe.com/sitemap.aspx">Sitemap</a></li>
-                    <li><a href="faq.aspx#uninstall">Uninstall</a></li>
+                    <li><a href="../faq.aspx#uninstall">Uninstall</a></li>
                 </ul>
             </div>   
                                  
@@ -395,7 +350,10 @@ In this Privacy Policy, as in the General terms and conditions, references to th
                 <img src="http://www.bingocafe.com/App_Themes/site/images/logo_itechlabs.gif" alt="iTech Labs">&nbsp;<img src="http://www.bingocafe.com/App_Themes/site/images/logo_verisign.gif" alt="VeriSign">&nbsp;<img src="http://www.bingocafe.com/App_Themes/site/images/logo_18.gif" alt="No under 18s" class="noborder">&nbsp;<img src="http://www.bingocafe.com/App_Themes/site/images/logo_usa.gif" alt="We Do Not Accept USA Players" class="noborder">&nbsp;<img src="http://www.bingocafe.com/App_Themes/site/images/logo_safe.gif" alt="Certified Safe Download">
                 <p>
                     ©2013 Bingo Café – Also try our partner sites at <a href="http://www.bingoliner.com/" target="_blank">Bingo Liner</a>. and <a href="http://www.bingocabin.com/" target="_blank">Bingo Cabin</a>.
-                </p>                
+                </p>    
+                <p>
+                    Wilhelminalaan 13, Curacao, Netherlands Antilles
+                </p>            
             </div>
         </div>
             </div>          
@@ -417,72 +375,91 @@ _gaq.push(function(){checkSEO('http://www.bingocafe.com/','BCCID',2491,'BCSEO','
 //<![CDATA[
 $(document).ready(function(){ $('#country-dd').msDropDown(); });//]]>
 </script>
-</form>
+<script type="text/javascript" src="/App_Resources/Js/JScript.js"></script></form>
     <!-- One Tag Conditional Container: Uber Interactive (4103) | BingoCafe_oneTag (3007) -->
 
-<script type="text/javascript">
-    var ft_onetag_3007 = {
-        ft_vars: {
-            "ftXRef": "",
-            "ftXValue": "",
-            "ftXType": "",
-            "ftXName": "",
-            "ftXNumItems": "",
-            "ftXCurrency": "",
-            "U1": "",
-            "U2": "",
-            "U3": "",
-            "U4": "",
-            "U5": "",
-            "U6": "",
-            "U7": "",
-            "U8": "",
-            "U9": "",
-            "U10": "",
-            "U11": "",
-            "U12": "",
-            "U13": "",
-            "U14": "",
-            "U15": "",
-            "U16": "",
-            "U17": "",
-            "U18": "",
-            "U19": "",
-            "U20": ""
-        },
-        ot_dom: document.location.protocol + '//servedby.flashtalking.com',
-        ot_path: '/container/4103;24706;3007;iframe/?',
-        ot_href: 'ft_referrer=' + escape(document.location.href),
-        ot_rand: Math.random() * 1000000,
-        ot_ref: document.referrer,
-        ot_init: function () {
-            var o = this, qs = '', count = 0, ns = '';
-            for (var key in o.ft_vars) {
-                qs += (o.ft_vars[key] == '' ? '' : key + '=' + o.ft_vars[key] + '&');
-            }
-            count = o.ot_path.length + qs.length + o.ot_href + escape(o.ot_ref).length;
-            ns = o.ot_ns(count - 2000);
-            document.write('<iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="' + o.ot_dom + o.ot_path + qs + o.ot_href + '&ns=' + ns + '&cb=' + o.ot_rand + '"></iframe>');
-        },
-        ot_ns: function (diff) {
-            if (diff > 0) {
-                var o = this, qo = {},
-				sp = /(?:^|&)([^&=]*)=?([^&]*)/g,
-				fp = /^(http[s]?):\/\/?([^:\/\s]+)\/([\w\.]+[^#?\s]+)(.*)?/.exec(o.ot_ref),
-				ro = { h: fp[2], p: fp[3], qs: fp[4].replace(sp, function (p1, p2, p3) { if (p2) qo[p2] = [p3] }) };
-                return escape(ro.h + ro.p.substring(0, 10) + (qo.q ? '?q=' + unescape(qo.q) : '?p=' + unescape(qo.p)));
-            } else {
-                var o = this;
-                return escape(unescape(o.ot_ref));
+    <script type="text/javascript">
+        var ft_onetag_3007 = {
+            ft_vars: {
+                "ftXRef": "",
+                "ftXValue": "",
+                "ftXType": "",
+                "ftXName": "",
+                "ftXNumItems": "",
+                "ftXCurrency": "",
+                "U1": "",
+                "U2": "",
+                "U3": "",
+                "U4": "",
+                "U5": "",
+                "U6": "",
+                "U7": "",
+                "U8": "",
+                "U9": "",
+                "U10": "",
+                "U11": "",
+                "U12": "",
+                "U13": "",
+                "U14": "",
+                "U15": "",
+                "U16": "",
+                "U17": "",
+                "U18": "",
+                "U19": "",
+                "U20": ""
+            },
+            ot_dom: document.location.protocol + '//servedby.flashtalking.com',
+            ot_path: '/container/4103;24706;3007;iframe/?',
+            ot_href: 'ft_referrer=' + escape(document.location.href),
+            ot_rand: Math.random() * 1000000,
+            ot_ref: document.referrer,
+            ot_init: function () {
+                var o = this, qs = '', count = 0, ns = '';
+                for (var key in o.ft_vars) {
+                    qs += (o.ft_vars[key] == '' ? '' : key + '=' + o.ft_vars[key] + '&');
+                }
+                count = o.ot_path.length + qs.length + o.ot_href + escape(o.ot_ref).length;
+                ns = o.ot_ns(count - 2000);
+                document.write('<iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="' + o.ot_dom + o.ot_path + qs + o.ot_href + '&ns=' + ns + '&cb=' + o.ot_rand + '"></iframe>');
+            },
+            ot_ns: function (diff) {
+                if (diff > 0) {
+                    var o = this, qo = {},
+				    sp = /(?:^|&)([^&=]*)=?([^&]*)/g,
+				    fp = /^(http[s]?):\/\/?([^:\/\s]+)\/([\w\.]+[^#?\s]+)(.*)?/.exec(o.ot_ref),
+				    ro = { h: fp[2], p: fp[3], qs: fp[4].replace(sp, function (p1, p2, p3) { if (p2) qo[p2] = [p3] }) };
+                    return escape(ro.h + ro.p.substring(0, 10) + (qo.q ? '?q=' + unescape(qo.q) : '?p=' + unescape(qo.p)));
+                } else {
+                    var o = this;
+                    return escape(unescape(o.ot_ref));
+                }
             }
         }
-    }
-    ft_onetag_3007.ot_init();
-</script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/4103;24706;3007;iframe/?ft_referrer=https%3A//web.archive.org/web/20140612201632id_/http%253A//www.bingocafe.com/privacy.aspx&amp;ns=&amp;cb=690188.5685702709"></iframe>
+        ft_onetag_3007.ot_init();
+    </script><iframe style="position:absolute; visibility:hidden; width:1px; height:1px;" src="https://servedby.flashtalking.com/container/4103;24706;3007;iframe/?ft_referrer=https%3A//web.archive.org/web/20141228014301id_/http%253A//www.bingocafe.com/privacy.aspx&amp;ns=&amp;cb=529076.1300759459"></iframe>
+
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MJRGBM"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+    new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MJRGBM');</script>
+    <!-- End Google Tag Manager -->
+
     <noscript>
         <p>
             Javascript is required to use this website. Please enable it.</p>
     </noscript>
+    <!-- BEGIN LivePerson Monitor. -->
+<script type="text/javascript">
+    window.lpTag = window.lpTag || {}; if (typeof window.lpTag._tagCount === 'undefined') { window.lpTag = { site: '45813911', section: lpTag.section || '', autoStart: lpTag.autoStart === false ? false : true, ovr: lpTag.ovr || {}, _v: '1.5.1', _tagCount: 1, protocol: location.protocol, events: { bind: function (app, ev, fn) { lpTag.defer(function () { lpTag.events.bind(app, ev, fn) }, 0) }, trigger: function (app, ev, json) { lpTag.defer(function () { lpTag.events.trigger(app, ev, json) }, 1) } }, defer: function (fn, fnType) { if (fnType == 0) { this._defB = this._defB || []; this._defB.push(fn) } else if (fnType == 1) { this._defT = this._defT || []; this._defT.push(fn) } else { this._defL = this._defL || []; this._defL.push(fn) } }, load: function (src, chr, id) { var t = this; setTimeout(function () { t._load(src, chr, id) }, 0) }, _load: function (src, chr, id) { var url = src; if (!src) { url = this.protocol + '//' + ((this.ovr && this.ovr.domain) ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site } var s = document.createElement('script'); s.setAttribute('charset', chr ? chr : 'UTF-8'); if (id) { s.setAttribute('id', id) } s.setAttribute('src', url); document.getElementsByTagName('head').item(0).appendChild(s) }, init: function () { this._timing = this._timing || {}; this._timing.start = (new Date()).getTime(); var that = this; if (window.attachEvent) { window.attachEvent('onload', function () { that._domReady('domReady') }) } else { window.addEventListener('DOMContentLoaded', function () { that._domReady('contReady') }, false); window.addEventListener('load', function () { that._domReady('domReady') }, false) } if (typeof (window._lptStop) == 'undefined') { this.load() } }, start: function () { this.autoStart = true }, _domReady: function (n) { if (!this.isDom) { this.isDom = true; this.events.trigger('LPT', 'DOM_READY', { t: n }) } this._timing[n] = (new Date()).getTime() }, vars: lpTag.vars || [], dbs: lpTag.dbs || [], ctn: lpTag.ctn || [], sdes: lpTag.sdes || [], ev: lpTag.ev || [] }; lpTag.init() } else { window.lpTag._tagCount += 1 }
+</script>
+<!-- END LivePerson Monitor. -->
 
 
 </body></html>
