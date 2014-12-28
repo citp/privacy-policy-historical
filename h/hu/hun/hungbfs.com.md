@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungbfs.com privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309094527id_/http%3A//join.hungbfs.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungbfs.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228064611id_/http%3A//join.hungbfs.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
