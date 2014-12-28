@@ -1,0 +1,180 @@
+<!--The following is the downloaded HTML source of the playeasygame.com privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229004016id_/http%3A//www.playeasygame.com/index.php/info/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Playeasygame</title>
+<link href="https://playeasygame.s3-ap-southeast-1.amazonaws.com/css/main.css" rel="stylesheet" type="text/css">
+<link href="https://playeasygame.s3-ap-southeast-1.amazonaws.com/css/css.css" rel="stylesheet" type="text/css">
+<link href="https://playeasygame.s3-ap-southeast-1.amazonaws.com/css/pcss3t.css" rel="stylesheet" type="text/css">
+<link href="https://playeasygame.s3-ap-southeast-1.amazonaws.com/css/pcss3t-ie8.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//c1.popads.net/pop.js"></script><script type="text/javascript" async="" src="//c2.popads.net/pop.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+<!--<script src="http://www.playeasygame.com/scripts/jquery-2.0.3.min.js"></script>-->
+
+<!--[if gt IE 6]>
+			<link rel="stylesheet" href="css/pcss3t-ie8.css">
+			<script src="js/pcss3t-ie8.js"></script>
+		<![endif]-->
+	<!--[if IE 6]>
+			<link rel="stylesheet" href="css/pcss3t-ie6.css">
+		<![endif]-->	
+   <!--[if IE 7]>
+			<link rel="stylesheet" href="css/pcss3t-ie6.css">
+		<![endif]-->
+
+<!------------------CSS/JS START FOR CHANGE QUESTION------------------>
+<style type="text/css">
+/*img, div { behavior: url(iepngfix.htc) }*/
+</style> 
+<script src="https://playeasygame.s3-ap-southeast-1.amazonaws.com/scripts/common.js"></script>
+<script src="https://playeasygame.s3-ap-southeast-1.amazonaws.com/scripts/pcss3t-ie8.js"></script>
+
+ 
+ <!-- PopAds.net Popunder Code for www.playeasygame.com -->
+<script type="text/javascript">
+  var _pop = _pop || [];
+  _pop.push(['siteId', 492375]);
+  _pop.push(['minBid', 0]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', false]);
+  _pop.push(['defaultPerDay', 0]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0]; 
+    pa.src = '//c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = '//c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+</script>
+
+<!-- PopAds.net Popunder Code End -->
+  <!--
+<script type="text/javascript">
+var uid = '15579';
+var wid = '59656';
+</script>
+<script type="text/javascript" src="http://cdn.popcash.net/pop.js"></script>
+--> 
+ 
+ 
+<script language="javaScript">
+	$(document).ready(function(e) {
+		$(".slide-action").click(function(e) {
+			var cur_data_id = $(this).attr('data-id');
+			var total_slides = $(".slider-parent").children().size();
+			var next_slide = parseInt(cur_data_id) + 1;
+		
+			if(cur_data_id < total_slides) {
+				for (var i = 1; i <= total_slides; i++) {
+					if (i <= parseInt(cur_data_id) + 1) {
+						$("#nav-" + i).addClass("number-box-select");
+					} else {
+						$("#nav-" + i).removeClass("number-box-select");
+					}
+					if(i == next_slide) {
+						$("#slide-container-" + i).show("slide", { direction: "right" }, 500);
+					} else {
+						$("#slide-container-" + i).hide();
+					}
+				}
+				$("#nav-" + (parseInt(cur_data_id) + 1)).addClass("number-box-select");
+			} else {
+				window.location.href = $(this).attr('data-url');
+			}
+		});
+	});
+</script>
+<script>
+$(function() {	
+ 	var dt = new Date();
+	var startDt = dt.getDate() + '/' + ("0" + (dt.getMonth() + 1)).slice(-2) + '/' + (dt.getFullYear() - 50);
+	var endDt = dt.getDate() + '/' + ("0" + (dt.getMonth() + 1)).slice(-2) + '/' + (dt.getFullYear() - 18);
+	
+	
+	
+	$( "#dob, #search_date , #calendar" ).datepicker({
+		inline: true,
+		minDate: startDt,
+    	maxDate: endDt,
+		yearRange: (dt.getFullYear() - 50) + ":" + (dt.getFullYear() - 18),
+		changeMonth: true,
+        changeYear: true,
+		dateFormat: 'dd/mm/yy'
+	});
+});
+
+</script>
+
+ 
+<script type="text/javascript">
+	$(document).ready(function(e) {
+        $("#page_body").css("display","block")
+    });
+</script>   
+
+ 
+
+</head>
+<body id="page_body"> 
+		
+
+
+<div id="mainpage">
+  <div id="wrapper">
+    <div id="container">
+      <div id="header">
+       
+      <a onclick="return fireclosebtn('43','https://adcanopus.oneffect.us/affiliate/goto_offer/71/55/461/[SUB_ID]/?link_id=1453','http://www.playeasygame.com/' )"><img src="http://www.playeasygame.com/images/close.png" class="close"></a>
+        <div id="logo"><a href="http://www.playeasygame.com/"><img src="https://playeasygame.s3-ap-southeast-1.amazonaws.com/images/logo.png" class="logo"></a></div>
+        <div id="title">
+                        <iframe id="ad21e293" name="ad21e293" src="http://www.seajinadserver.com/www/delivery/afr.php?zoneid=15&amp;cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90">
+            <a href='http://www.seajinadserver.com/www/delivery/ck.php?n=aa47b091&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.seajinadserver.com/www/delivery/avw.php?zoneid=15&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa47b091' border='0' alt='' />
+            </a>
+            </iframe>
+                    </div>
+      </div>
+      <div id="body">
+        <h2>Congratulations! You are the lucky visitor</h2>
+        <h1>You can get this amazing mobile <span>Free</span> just by completing the Survey.</h1>
+      
+                
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53089229-1', 'auto');
+  ga('send', 'pageview');
+
+</script>                
+
+<div id="fullpage">
+<h1>Privacy policy</h1>
+    <p>The Privacy of our gamers is of utmost importance for us. Our company makes all the efforts to protect the privacy of the contestants because we believe that your ‘privacy’ is valuable and worth preserving. Our privacy policy aims at offering a secure and absolutely full-proof online environment where our    contestants are clearly informed of why and how their info is collected, stored or used by us. We make sure to maintain 100% transparency in our privacy policy so that gamers can be relaxed that we are engaged in a fair play and are not involved into passing on any of their personal information to a third party.</p>
+    <br> 
+    <p>Whatever information we collect from the contestants are utilized for Skill gaming and are kept 100% secret.However be informed that we might use your personal data from time to time in the promotional activities in our various properties and there's zero risk of data leakage in these promotional activities. So you can just bash aside your stress, play our games and look forward to win an exciting Prize such as an iPhone! If still you have doubts about our privacy guard system, you can simply de-activate your account with us by dropping an email. But, that is not needed gamers because we assure you that our privacy policies are tight enough. So just come and play with a free mind!</p>
+    
+        </div>
+    </div>
+  </div>
+</div><div id="footer"> After entering into the competition, our users are presented with a questionnaire and some promotional offers which are provided by our Advertisers. However Completion of Questionnaire isn’t a Prima-facie for entering into the competition, although users accept and provide their email address and other contact information which is provided to our third party advertisers upon entry.
+    <div class="footerlink">
+      <a href="http://www.playeasygame.com/index.php/info/termscondition" target="_blank">Terms and conditions</a> | 
+      <a href="http://www.playeasygame.com/index.php/info/privacypolicy" target="_blank">Privacy Policy</a>
+     </div>
+  </div>
+</div>
+    <input type="hidden" id="site_url" value="http://www.playeasygame.com/index.php">
+  
+
+</body></html>
