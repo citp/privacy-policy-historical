@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ofoct.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517222901id_/http%3A//www.ofoct.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofoct.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228104430id_/http%3A//www.ofoct.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bear File Converter Online
+# Privacy Policy | Bear File Converter - Online & Free
 
 Privacy Policy
 
