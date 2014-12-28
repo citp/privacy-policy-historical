@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corexchange.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509035652id_/http%3A//www.corexchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corexchange.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228185326id_/http%3A//www.corexchange.com/privacy-policy) for the most accurate reproduction.*
 
 # CoreXchange Privacy Policy
 
