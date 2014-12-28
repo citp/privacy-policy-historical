@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lastpass.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628054811id_/https%3A//lastpass.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastpass.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228220428id_/https%3A//lastpass.com/privacy-statement) for the most accurate reproduction.*
 
 # LastPass | Privacy Statement
 
