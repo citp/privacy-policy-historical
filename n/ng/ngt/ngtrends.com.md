@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the ngtrends.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227202214id_/http%3A//www.ngtrends.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngtrends.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228061625id_/http%3A//www.ngtrends.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NG Trends
+# Privacy Policy - NG Trends
+
+[ ](http://www.ngtrends.com/wp-content/uploads/2013/09/ngtrends.jpg)
+
+##### Privacy Policy
 
 * * *
 
