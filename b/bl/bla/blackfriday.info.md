@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackfriday.info privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628044755id_/http%3A//blackfriday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackfriday.info privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228221042id_/http%3A//blackfriday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Black Friday 2014
 
@@ -75,7 +75,7 @@ We will retain your information for as long as your account is active or as need
 Our site sends you email everytime a major adscan breaks from the retailers that shoppers are interested in. Should you wish to unsubscribe, please click the unsubscribe link on any email. You can also unsubscribe by contacting us by email at unsubscribe@blackfriday.com or mail at:
 
 Venture Media, Inc.  
-201-1020 Hamilton St.  
-Vancouver, BC V6B 2R9  
+510-280 Nelson St.  
+Vancouver, BC V6B 2E2  
 Canada  
 778-328-2861
