@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629193559id_/http%3A//www.snapsurveys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228094835id_/http%3A//www.snapsurveys.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy » Snap Survey Software
 
 Snap Surveys Limited and Snap Surveys NH, Inc. are committed to protecting and respecting your privacy.
 
