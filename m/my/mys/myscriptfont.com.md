@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myscriptfont.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615063508id_/http%3A//www.myscriptfont.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myscriptfont.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228090314id_/http%3A//www.myscriptfont.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - myscriptfont.com
 
