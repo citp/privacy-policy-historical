@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120830id_/http%3A//www.xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremetop100.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228071121id_/http%3A//xtremetop100.com/privacypolicy.php) for the most accurate reproduction.*
 
 # XtremeTop100.com - Free servers
 
