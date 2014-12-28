@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacktryst.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327140031id_/http%3A//www.blacktryst.com/main/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacktryst.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228062706id_/http%3A//www.blacktryst.com/main/privacy_policy) for the most accurate reproduction.*
 
 # Black Singles | Hot Black Girls, Women | Local Hookup | BlackTryst
 
@@ -136,7 +136,7 @@ To stop or resume receiving email notifications regarding various site activity 
 
 If you have any further questions or concerns about BlackTryst's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact), or by email to [the webmaster.](mailto:abuse@blacktryst.com)
 
-By mail: 
+By mail:
 
 BlackTryst  
 2nd Floor  
