@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simutechgroup.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623193816id_/http%3A//www.simutechgroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simutechgroup.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228230244id_/http%3A//www.simutechgroup.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | SimuTech Group
+# Privacy Policy
 
 SimuTech Group respects your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information.
 
