@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finerminds.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506165929id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finerminds.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228040304id_/http%3A//www.mindvalley.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
