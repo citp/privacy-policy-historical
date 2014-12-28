@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814200931id_/http%3A//webtrends.com/terms-policies/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228080002id_/http%3A//webtrends.com/terms-policies/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | Webtrends | Re-Imagine Digital Marketing
+# Privacy Notice | Webtrends.com
 
-**Last Updated:** Jan 17th, 2013  
-**Effective:** Feb 15th 2013
+**Last Updated: Jan 17th, 2013** Effective Feb 15th 2013
 
 Trust is a fundamental requirement for successful personal and business exchanges, and Webtrends is committed to deserve, gain and retain the trust of its customers.
 
@@ -11,17 +10,19 @@ This privacy notice describes how Webtrends collects and uses your personal info
 
 **Contact info**  
 Webtrends Inc  
-851 SW 6th Avenue  
+555 SW Oak Street, Suite 300  
 Portland, Oregon 97204  
 [privacy@webtrends.com](mailto:privacy@webtrends.com)
 
 **Privacy Program & Regulatory Compliance**
 
-[We self-certify compliance with](https://www.export.gov/safehrbr/list.aspx)
+[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)
+
+[](http://www.export.gov/safeharbor)
 
 [](https://privacy.truste.com/privacy-seal/Webtrends-Inc-/validation?rid=40aecf5f-3b93-47f3-aa44-e3c31d26b7d7 "Validate TRUSTe privacy certification")
 
-Webtrends’ privacy practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/). If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@webtrends.com](mailto:privacy@webtrends.com). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+Webtrends’ privacy practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html). If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@webtrends.com](mailto:privacy@webtrends.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 **Privacy on Webtrends Online Properties**
 
