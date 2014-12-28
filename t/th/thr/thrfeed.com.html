@@ -1,25 +1,25 @@
-<!--The following is the downloaded HTML source of the thrfeed.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627232754id_/http%3A//www.hollywoodreporter.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thrfeed.com privacy policy that was archived on 2014-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141228223422id_/http%3A//www.hollywoodreporter.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/6696.js?439014" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="http://rma-api.gravity.com/v1/api/intelligence/wl?jq=&amp;sg=01b0b9ad501e0c849a822e6124ff0fc2&amp;ug=&amp;ugug=0&amp;id=grv-personalization-18&amp;pl=18&amp;type=iframe&amp;ad=&amp;x=1580451828525"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcFV1RSGwEGUllTAAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/6696.js?439014" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ak.sail-horizon.com/horizon/v1.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="http://rma-api.gravity.com/v1/api/intelligence/wl?jq=&amp;sg=01b0b9ad501e0c849a822e6124ff0fc2&amp;ug=&amp;ugug=0&amp;id=grv-personalization-18&amp;pl=18&amp;type=iframe&amp;ad=&amp;x=1580451824713"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WLF8ZZ"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcFV1RSGwEGUllTAAQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
   <title>Privacy Policy - Hollywood Reporter</title>
   <link href="https://plus.google.com/114861223360308338936/posts" rel="publisher">
   <meta property="twitter:account_id" content="17446621">
   <meta name="apple-itunes-app" content="app-id=398952999, affiliate-data=partnerId=253D30&amp;siteID=2971232">
-
   
-  <link type="text/css" rel="stylesheet" media="all" href="http://www.hollywoodreporter.com/sites/default/files/css/css_af3dbaa4b9702c0e6a4e220d6fdca12b.css">
-<link type="text/css" rel="stylesheet" media="print" href="http://www.hollywoodreporter.com/sites/default/files/css/css_c484d62324733bb78d1d12f0e899867e.css">
-<link type="text/css" rel="stylesheet" media="screen" href="http://www.hollywoodreporter.com/sites/default/files/css/css_2f05e23ae6555564a845a790a1fba144.css">
+  <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.hollywoodreporter.com/legal/privacy">
+  <link type="text/css" rel="stylesheet" media="all" href="http://www.hollywoodreporter.com/sites/default/files/css/css_1ad40f151108ff83310d930fd498fa00.css">
+<link type="text/css" rel="stylesheet" media="print" href="http://www.hollywoodreporter.com/sites/default/files/css/css_e65bafffc27567e8c65a0fd48c7e9a9b.css">
+<link type="text/css" rel="stylesheet" media="screen" href="http://www.hollywoodreporter.com/sites/default/files/css/css_94aca5a62c3cc0a076a3233822375135.css">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/thr/css/ie.css?N" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/thr/css/ie.css?I" />
 <![endif]-->
 <!--[if IE 7]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/thr/css/ie7.css?N" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/thr/css/ie7.css?I" />
 <![endif]-->
 <!--[if lte IE 6]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/thr/css/ie6.css?N" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/thr/css/ie6.css?I" />
 <![endif]-->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="OBKey" content="llM+D8SAdik38YPqbPFogw==">
@@ -42,7 +42,7 @@
 
   <!-- Sailthru Meta Date -->
   <meta name="sailthru.date" content="2010-10-13 16:42:18">  <!-- Sailthru Meta Tags -->
-  <script type="text/javascript" src="http://www.hollywoodreporter.com/sites/default/files/js/js_e5d25b580440d3282dbb14f1710873fd.js"></script>
+  <script type="text/javascript" src="http://www.hollywoodreporter.com/sites/default/files/js/js_5ae9b0db06d5ef7b1eab13da4d2731bd.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","chartbeat":{"uid":3388,"domain":"hollywoodreporter.com"},"imagecache_lazyload":{"failure_limit":"60","threshold":"400"},"thr_fandango":{"refresh_path":"\/fandango\/refresh\/%zip%\/%movie%\/%date%","refresh_theater_path":"\/fandango\/refresh-theaters\/%zip%\/%theater%\/%date%"},"googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"thr_pc":{"entitlement_id":"Free_until_cut_off_date"}});
@@ -50,7 +50,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","chartbeat":{"uid":3388,"domain"
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-6367557-1"]);_gaq.push(["_setDomainName", ".hollywoodreporter.com"]);var pluginUrl =
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-6367557-1"]);_gaq.push(["_setDomainName", ".hollywoodreporter.com"]);_gaq.push(['_setCustomVar', 2, "Pubdate", "20101013", 3]);var pluginUrl =
  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
 
 _gaq.push(
@@ -74,6 +74,22 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
 </script>
 
   
+   <script type="text/javascript" src="http://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+   <script type="text/javascript">
+     // Set up Amazon ads code.
+     // See 'Amazon Direct Match Buy - Integration Guide' in THR-4578.
+     try {
+         amznads.getAds('3125');
+      } catch(e) { /*ignore*/}
+   </script>   
+   <script>
+      var amznslots = amznads.getTokens();
+      // thr_amazon_tokens will be included in ad URL params by Dart module.
+      // See /admin/build/adtag/<tag>/edit -> "Key|val pairs". Use something like: amznslots|thr_amazon_tokens|eval
+      var thr_amazon_tokens = (amznslots.length == 0) ? 0 : amznslots.join();
+   </script>   
+
+
   <!-- Begin Metrics code -->
   <!-- Begin comScore Tag -->
 <script>
@@ -95,10 +111,22 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
 <!-- End comScore Tag -->
 
   <meta name="viewport" content="width=1052">
+    
+    
 
-  </head>
+</head>
 <body class="page not-front not-logged-in node-type-simple page-with-topic-blocks page-legal-privacy section-legal two-sidebars page-node section-microsite ">
-  
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WLF8ZZ"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WLF8ZZ');</script>
+<!-- End Google Tag Manager -->
+
   <!-- Persistent Navigation -->
   <div id="sticky-nav" class="clearfix thr">
     <div class="container">
@@ -107,18 +135,15 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
         <a href="/" class="brand" title="The Hollywood Reporter">The Hollywood Reporter</a>
       </h1>
 
-      <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-216330 menuparent menu-path-movies first  odd "><a href="/movies" title="">Movies</a><ul><li class="menu-216357 menu-path-movies-news first  odd "><a href="/movies/news" title="">News</a></li>
-<li class="menu-216351 menu-path-movies-reviews even "><a href="/movies/reviews" title="">Reviews</a></li>
-<li class="menu-216372 menu-path-node-225525 odd "><a href="/topic/box-office-updates" title="">Box Office</a></li>
+      <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-216330 menuparent menu-path-movies first  odd "><a href="/movies" title="">Movies</a><ul><li class="menu-216351 menu-path-movies-reviews first  odd "><a href="/movies/reviews" title="">Reviews</a></li>
 <li class="menu-216381 menu-path-videos-movie-trailers-159 even "><a href="/videos/movie-trailers-159" title="">Trailers</a></li>
-<li class="menu-216450 menu-path-node-448439 odd "><a href="/cannes/2014" title="">Cannes</a></li>
-<li class="menu-216395 menu-path-node-31841 even "><a href="/package/awards/oscars" title="">Oscars</a></li>
-<li class="menu-216334 menu-path-blogs-race odd "><a href="/blogs/race" title="">The Race</a></li>
+<li class="menu-216372 menu-path-node-225525 odd "><a href="/topic/box-office-updates" title="">Box Office</a></li>
 <li class="menu-216340 menu-path-blogs-heat-vision even "><a href="/blogs/heat-vision" title="">Heat Vision</a></li>
-<li class="menu-216389 menu-path-node-565742 odd "><a href="/movies/independent-film" title="Indie Film">Indie Film</a></li>
-<li class="menu-216350 menu-path-movies-showtimes even "><a href="/movies/showtimes" title="">Showtimes</a></li>
-<li class="menu-216337 menu-path-movies-in-theaters odd "><a href="/movies/in-theaters" title="">In Theaters</a></li>
-<li class="menu-216403 menu-path-movies-coming-soon even  last "><a href="/movies/coming-soon" title="Coming Soon">Coming Soon</a></li>
+<li class="menu-216334 menu-path-blogs-race odd "><a href="/blogs/race" title="">The Race</a></li>
+<li class="menu-216389 menu-path-node-565742 even "><a href="/movies/independent-film" title="Indie Film">Indie Film</a></li>
+<li class="menu-216350 menu-path-movies-showtimes odd "><a href="/movies/showtimes" title="">Showtimes</a></li>
+<li class="menu-216337 menu-path-movies-in-theaters even "><a href="/movies/in-theaters" title="">In Theaters</a></li>
+<li class="menu-216403 menu-path-movies-coming-soon odd  last "><a href="/movies/coming-soon" title="Coming Soon">Coming Soon</a></li>
 </ul>
 </li>
 <li class="menu-216325 menuparent menu-path-television even "><a href="/television" title="">TV</a><ul><li class="menu-216344 menu-path-node-576559 first  odd "><a href="/awards/emmys/2014" title="">Emmys</a></li>
@@ -132,17 +157,15 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
 <li class="menu-216327 menuparent menu-path-music odd "><a href="/music" title="">Music</a><ul><li class="menu-216385 menu-path-node-400235 first  odd "><a href="/topic/billboard-charts" title="">Charts</a></li>
 <li class="menu-216384 menu-path-node-416041 even "><a href="/topic/concert-reviews" title="">Concert Reviews</a></li>
 <li class="menu-216386 menu-path-node-426126 odd "><a href="/topic/music-festivals" title="">Music Festivals</a></li>
-<li class="menu-216339 menu-path-blogs-earshot even  last "><a href="/blogs/earshot" title="">Earshot</a></li>
+<li class="menu-216339 menu-path-blogs-earshot even "><a href="/blogs/earshot" title="">Earshot</a></li>
+<li class="menu-216332 menu-path-blogs-idol-worship odd "><a href="/blogs/idol-worship" title="">Idol Worship</a></li>
+<li class="menu-216366 menu-path-node-263620 even  last "><a href="/package/american-music-awards" title="">AMA</a></li>
 </ul>
 </li>
 <li class="menu-216323 menuparent menu-path-tech even "><a href="/tech" title="">Tech</a><ul><li class="menu-216338 menu-path-blogs-behind-screen first  odd "><a href="/blogs/behind-screen" title="">Behind The Screen</a></li>
-<li class="menu-216341 menu-path-node-177016 even "><a href="/topic/nab-show" title="">NAB Show</a></li>
-<li class="menu-216348 menu-path-node-383475 odd "><a href="/topic/3d" title="">3D</a></li>
-<li class="menu-216354 menu-path-node-383461 even "><a href="/topic/smpte" title="">SMPTE</a></li>
-<li class="menu-216349 menu-path-node-193889 odd "><a href="/topic/e3-conference" title="">E3 Conference</a></li>
-<li class="menu-216347 menu-path-node-46677 even "><a href="/package/sxsw" title="">SXSW</a></li>
-<li class="menu-216355 menu-path-node-359038 odd "><a href="/topic/siggraph" title="">SIGGRAPH</a></li>
-<li class="menu-216353 menu-path-node-225739 even  last "><a href="/topic/disneys-d23-full-coverage" title="">D23</a></li>
+<li class="menu-216355 menu-path-node-359038 even "><a href="/topic/siggraph" title="">SIGGRAPH</a></li>
+<li class="menu-216354 menu-path-node-383461 odd "><a href="/topic/smpte" title="">SMPTE</a></li>
+<li class="menu-216348 menu-path-node-383475 even  last "><a href="/topic/3d" title="">3D</a></li>
 </ul>
 </li>
 <li class="menu-216329 menuparent menu-path-business odd "><a href="/business" title="">The Business</a><ul><li class="menu-216364 menu-path-node-313726 first  odd "><a href="/package/international" title="">International</a></li>
@@ -156,23 +179,23 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
 <li class="menu-216343 menu-path-node-377229 even "><a href="/package/beauty" title="">Beauty</a></li>
 <li class="menu-216345 menu-path-node-655019 odd "><a href="/package/people" title="">People</a></li>
 <li class="menu-216342 menu-path-node-655017 even "><a href="/package/shopping" title="">Shopping</a></li>
-<li class="menu-216402 menu-path-node-694581 odd  last "><a href="/package/pretapodcasts" title="Podcasts">Podcasts</a></li>
+<li class="menu-216402 menu-path-node-694581 odd "><a href="/package/pretapodcasts" title="Podcasts">Podcasts</a></li>
+<li class="menu-216446 menu-path-node-655240 even  last "><a href="/package/fashion-week" title="">Fashion Week</a></li>
 </ul>
 </li>
-<li class="menu-216331 menuparent menu-path-culture odd "><a href="/culture" title="">Culture</a><ul><li class="menu-216363 menu-path-node-271518 first  odd "><a href="/package/hotels-luxury-trips-travel" title="">Travel</a></li>
+<li class="menu-216331 menuparent menu-path-culture odd "><a href="/culture" title="">Culture</a><ul><li class="menu-216362 menu-path-node-267216 first  odd "><a href="/package/theater" title="">Theater</a></li>
+<li class="menu-216365 menu-path-node-275958 even "><a href="/package/automotive" title="">Auto</a></li>
+<li class="menu-216361 menu-path-node-266703 odd "><a href="/package/books" title="">Books</a></li>
 <li class="menu-216360 menu-path-node-266763 even "><a href="/package/dining" title="">Dining</a></li>
-<li class="menu-216365 menu-path-node-275958 odd "><a href="/package/automotive" title="">Auto</a></li>
-<li class="menu-216361 menu-path-node-266703 even "><a href="/package/books" title="">Books</a></li>
-<li class="menu-216362 menu-path-node-267216 odd "><a href="/package/theater" title="">Theater</a></li>
-<li class="menu-216359 menu-path-node-266769 even  last "><a href="/package/real-estate" title="">Real Estate</a></li>
+<li class="menu-216359 menu-path-node-266769 odd "><a href="/package/real-estate" title="">Real Estate</a></li>
+<li class="menu-216363 menu-path-node-271518 even  last "><a href="/package/hotels-luxury-trips-travel" title="">Travel</a></li>
 </ul>
 </li>
-<li class="menu-216322 menuparent menu-path-awards even "><a href="/awards" title="">Awards</a><ul><li class="menu-216375 menu-path-node-31841 first  odd "><a href="/package/awards/oscars" title="">Oscars</a></li>
-<li class="menu-216388 menu-path-node-576559 even "><a href="/awards/emmys/2014" title="">Emmys</a></li>
-<li class="menu-216477 menu-path-node-196615 odd "><a href="/topic/tony-awards" title="">Tonys</a></li>
+<li class="menu-216322 menuparent menu-path-awards even "><a href="/awards" title="">Awards</a><ul><li class="menu-216396 menu-path-blogs-race- first  odd "><a href="/blogs/race/" title="">The Race</a></li>
+<li class="menu-216388 menu-path-awards-predictions even "><a href="/awards/predictions" title="Awards Predictions">Feinberg Forecast</a></li>
+<li class="menu-216477 menu-path-awards-screening-guide odd "><a href="/awards/screening-guide" title="Screening Guide">Screening Guide</a></li>
 <li class="menu-216369 menu-path-awards-calendar even "><a href="/awards/calendar" title="">Calendar</a></li>
-<li class="menu-216396 menu-path-blogs-race- odd "><a href="/blogs/race/" title="">The Race</a></li>
-<li class="menu-216451 menu-path-node-448439 even  last "><a href="/cannes/2014" title="">Cannes</a></li>
+<li class="menu-216375 menu-path-node-31841 odd  last "><a href="/package/oscars-2015" title="">Oscars</a></li>
 </ul>
 </li>
 <li class="menu-216324 menuparent menu-path-video odd  last "><a href="/video" title="">Video</a><ul><li class="menu-216401 menu-path-videos-movie-trailers-159 first  odd "><a href="/videos/movie-trailers-159" title="Movie Trailers">Trailers</a></li>
@@ -234,7 +257,7 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
     <div id="page">
       <div id="toolbar">
                 <div class="region region-toolbar">
-  <div id="block-block-1" class="block block-block first region-odd odd region-count-1 count-1">
+    <div id="block-block-1" class="block block-block first region-odd odd region-count-1 count-1">
  
   
   
@@ -248,7 +271,7 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
  
  
 </div> <!-- /.block -->
-<div id="block-thr_toolbar-thr_toolbar" class="block block-thr_toolbar last region-even even region-count-2 count-2">
+  <div id="block-thr_toolbar-thr_toolbar" class="block block-thr_toolbar region-even even region-count-2 count-2">
  
   
   
@@ -320,14 +343,14 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
     <div class="advert-inner">
       <div class="center">
          <center>
-            <script type="text/javascript">Drupal.DART.tag('t', '980x50,728x90,970x90', {"dtid":"3","obj":{"dtid":"3","active":"1","name":"Default Top 980x50,728x90,970x90","pos":"t","sz":"980x50,728x90,970x90","block":"0","settings":{"options":{"scriptless":0,"keyvals":"dcopt|ist","method":"adj","terms":1},"site":"","zone":"ros.simple","slug":"\u003cnone\u003e","rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","awardevent":"awardevent","blog":"blog","customheader":"customheader","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"nomcat":0,"company":0,"contender_list":0,"node_gallery_gallery":0,"node_gallery_image":0,"hero_trailer_tout":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}}}},"active":"1","name":"Default Top 980x50,728x90,970x90","pos":"t","sz":"980x50,728x90,970x90","site":"com","zone":"ros.simple","slug":"","options":{"scriptless":0,"keyvals":{"":[{"val":null,"eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"dcopt":[{"val":"ist","eval":false}],"a":[{"val":"simpl","eval":false}],"page":[{"val":"17817","eval":false}]},"method":"adj","terms":1,"block":null},"rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","awardevent":"awardevent","blog":"blog","customheader":"customheader","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"nomcat":0,"company":0,"contender_list":0,"node_gallery_gallery":0,"node_gallery_image":0,"hero_trailer_tout":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}},"prefix":"thr"});</script>
+            <script type="text/javascript">Drupal.DART.tag('t', '980x50,728x90,970x90,728x91,980x250,970x250,970x66', {"dtid":"3","obj":{"dtid":"3","active":"1","name":"Default Top 980x50,728x90,970x90,728x91,980x250,970x250,970x66","pos":"t","sz":"980x50,728x90,970x90,728x91,980x250,970x250,970x66","block":"0","settings":{"options":{"scriptless":0,"keyvals":"dcopt|ist\r\namznslots|thr_amazon_tokens|eval","method":"adj","terms":1},"site":"","zone":"ros.simple","slug":"\u003cnone\u003e","rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","awardevent":"awardevent","blog":"blog","customheader":"customheader","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"nomcat":0,"company":0,"contender_list":0,"node_gallery_gallery":0,"node_gallery_image":0,"hero_trailer_tout":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}}}},"active":"1","name":"Default Top 980x50,728x90,970x90,728x91,980x250,970x250,970x66","pos":"t","sz":"980x50,728x90,970x90,728x91,980x250,970x250,970x66","site":"com","zone":"ros.simple","slug":"","options":{"scriptless":0,"keyvals":{"":[{"val":null,"eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"dcopt":[{"val":"ist","eval":false}],"amznslots":[{"val":"thr_amazon_tokens","eval":true}],"a":[{"val":"simpl","eval":false}],"page":[{"val":"17817","eval":false}]},"method":"adj","terms":1,"block":null},"rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","awardevent":"awardevent","blog":"blog","customheader":"customheader","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"nomcat":0,"company":0,"contender_list":0,"node_gallery_gallery":0,"node_gallery_image":0,"hero_trailer_tout":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}},"prefix":"thr"});</script>
          </center>
       </div>
     </div>
   </div>
   
   <div class="advert-clear"></div>
- <noscript><p><a href="http://ad.doubleclick.net/jump/thr.com/ros.simple;pos=t;sz=980x50,728x90,970x90;=;dcopt=ist;a=simpl;page=17817;tile=5;ord=7915016610?"><img src="http://ad.doubleclick.net/ad/thr.com/ros.simple;pos=t;sz=980x50,728x90,970x90;=;dcopt=ist;a=simpl;page=17817;tile=5;ord=7915016610?" alt="" /></a></p></noscript>            </div>
+ <noscript><p><a href="http://ad.doubleclick.net/jump/thr.com/ros.simple;pos=t;sz=980x50,728x90,970x90,728x91,980x250,970x250,970x66;=;dcopt=ist;a=simpl;page=17817;tile=4;ord=9554486448?"><img src="http://ad.doubleclick.net/ad/thr.com/ros.simple;pos=t;sz=980x50,728x90,970x90,728x91,980x250,970x250,970x66;=;dcopt=ist;a=simpl;page=17817;tile=4;ord=9554486448?" alt="" /></a></p></noscript>            </div>
             
                         
                   
@@ -338,18 +361,15 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
             </h1>
             
             <div id="navigation" class="thr">
-              <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-216330 menuparent menu-path-movies first  odd "><a href="/movies" title="">Movies</a><ul><li class="menu-216357 menu-path-movies-news first  odd "><a href="/movies/news" title="">News</a></li>
-<li class="menu-216351 menu-path-movies-reviews even "><a href="/movies/reviews" title="">Reviews</a></li>
-<li class="menu-216372 menu-path-node-225525 odd "><a href="/topic/box-office-updates" title="">Box Office</a></li>
+              <ul class="nice-menu nice-menu-down" id="nice-menu-1"><li class="menu-216330 menuparent menu-path-movies first  odd "><a href="/movies" title="">Movies</a><ul><li class="menu-216351 menu-path-movies-reviews first  odd "><a href="/movies/reviews" title="">Reviews</a></li>
 <li class="menu-216381 menu-path-videos-movie-trailers-159 even "><a href="/videos/movie-trailers-159" title="">Trailers</a></li>
-<li class="menu-216450 menu-path-node-448439 odd "><a href="/cannes/2014" title="">Cannes</a></li>
-<li class="menu-216395 menu-path-node-31841 even "><a href="/package/awards/oscars" title="">Oscars</a></li>
-<li class="menu-216334 menu-path-blogs-race odd "><a href="/blogs/race" title="">The Race</a></li>
+<li class="menu-216372 menu-path-node-225525 odd "><a href="/topic/box-office-updates" title="">Box Office</a></li>
 <li class="menu-216340 menu-path-blogs-heat-vision even "><a href="/blogs/heat-vision" title="">Heat Vision</a></li>
-<li class="menu-216389 menu-path-node-565742 odd "><a href="/movies/independent-film" title="Indie Film">Indie Film</a></li>
-<li class="menu-216350 menu-path-movies-showtimes even "><a href="/movies/showtimes" title="">Showtimes</a></li>
-<li class="menu-216337 menu-path-movies-in-theaters odd "><a href="/movies/in-theaters" title="">In Theaters</a></li>
-<li class="menu-216403 menu-path-movies-coming-soon even  last "><a href="/movies/coming-soon" title="Coming Soon">Coming Soon</a></li>
+<li class="menu-216334 menu-path-blogs-race odd "><a href="/blogs/race" title="">The Race</a></li>
+<li class="menu-216389 menu-path-node-565742 even "><a href="/movies/independent-film" title="Indie Film">Indie Film</a></li>
+<li class="menu-216350 menu-path-movies-showtimes odd "><a href="/movies/showtimes" title="">Showtimes</a></li>
+<li class="menu-216337 menu-path-movies-in-theaters even "><a href="/movies/in-theaters" title="">In Theaters</a></li>
+<li class="menu-216403 menu-path-movies-coming-soon odd  last "><a href="/movies/coming-soon" title="Coming Soon">Coming Soon</a></li>
 </ul>
 </li>
 <li class="menu-216325 menuparent menu-path-television even "><a href="/television" title="">TV</a><ul><li class="menu-216344 menu-path-node-576559 first  odd "><a href="/awards/emmys/2014" title="">Emmys</a></li>
@@ -363,17 +383,15 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
 <li class="menu-216327 menuparent menu-path-music odd "><a href="/music" title="">Music</a><ul><li class="menu-216385 menu-path-node-400235 first  odd "><a href="/topic/billboard-charts" title="">Charts</a></li>
 <li class="menu-216384 menu-path-node-416041 even "><a href="/topic/concert-reviews" title="">Concert Reviews</a></li>
 <li class="menu-216386 menu-path-node-426126 odd "><a href="/topic/music-festivals" title="">Music Festivals</a></li>
-<li class="menu-216339 menu-path-blogs-earshot even  last "><a href="/blogs/earshot" title="">Earshot</a></li>
+<li class="menu-216339 menu-path-blogs-earshot even "><a href="/blogs/earshot" title="">Earshot</a></li>
+<li class="menu-216332 menu-path-blogs-idol-worship odd "><a href="/blogs/idol-worship" title="">Idol Worship</a></li>
+<li class="menu-216366 menu-path-node-263620 even  last "><a href="/package/american-music-awards" title="">AMA</a></li>
 </ul>
 </li>
 <li class="menu-216323 menuparent menu-path-tech even "><a href="/tech" title="">Tech</a><ul><li class="menu-216338 menu-path-blogs-behind-screen first  odd "><a href="/blogs/behind-screen" title="">Behind The Screen</a></li>
-<li class="menu-216341 menu-path-node-177016 even "><a href="/topic/nab-show" title="">NAB Show</a></li>
-<li class="menu-216348 menu-path-node-383475 odd "><a href="/topic/3d" title="">3D</a></li>
-<li class="menu-216354 menu-path-node-383461 even "><a href="/topic/smpte" title="">SMPTE</a></li>
-<li class="menu-216349 menu-path-node-193889 odd "><a href="/topic/e3-conference" title="">E3 Conference</a></li>
-<li class="menu-216347 menu-path-node-46677 even "><a href="/package/sxsw" title="">SXSW</a></li>
-<li class="menu-216355 menu-path-node-359038 odd "><a href="/topic/siggraph" title="">SIGGRAPH</a></li>
-<li class="menu-216353 menu-path-node-225739 even  last "><a href="/topic/disneys-d23-full-coverage" title="">D23</a></li>
+<li class="menu-216355 menu-path-node-359038 even "><a href="/topic/siggraph" title="">SIGGRAPH</a></li>
+<li class="menu-216354 menu-path-node-383461 odd "><a href="/topic/smpte" title="">SMPTE</a></li>
+<li class="menu-216348 menu-path-node-383475 even  last "><a href="/topic/3d" title="">3D</a></li>
 </ul>
 </li>
 <li class="menu-216329 menuparent menu-path-business odd "><a href="/business" title="">The Business</a><ul><li class="menu-216364 menu-path-node-313726 first  odd "><a href="/package/international" title="">International</a></li>
@@ -387,23 +405,23 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
 <li class="menu-216343 menu-path-node-377229 even "><a href="/package/beauty" title="">Beauty</a></li>
 <li class="menu-216345 menu-path-node-655019 odd "><a href="/package/people" title="">People</a></li>
 <li class="menu-216342 menu-path-node-655017 even "><a href="/package/shopping" title="">Shopping</a></li>
-<li class="menu-216402 menu-path-node-694581 odd  last "><a href="/package/pretapodcasts" title="Podcasts">Podcasts</a></li>
+<li class="menu-216402 menu-path-node-694581 odd "><a href="/package/pretapodcasts" title="Podcasts">Podcasts</a></li>
+<li class="menu-216446 menu-path-node-655240 even  last "><a href="/package/fashion-week" title="">Fashion Week</a></li>
 </ul>
 </li>
-<li class="menu-216331 menuparent menu-path-culture odd "><a href="/culture" title="">Culture</a><ul><li class="menu-216363 menu-path-node-271518 first  odd "><a href="/package/hotels-luxury-trips-travel" title="">Travel</a></li>
+<li class="menu-216331 menuparent menu-path-culture odd "><a href="/culture" title="">Culture</a><ul><li class="menu-216362 menu-path-node-267216 first  odd "><a href="/package/theater" title="">Theater</a></li>
+<li class="menu-216365 menu-path-node-275958 even "><a href="/package/automotive" title="">Auto</a></li>
+<li class="menu-216361 menu-path-node-266703 odd "><a href="/package/books" title="">Books</a></li>
 <li class="menu-216360 menu-path-node-266763 even "><a href="/package/dining" title="">Dining</a></li>
-<li class="menu-216365 menu-path-node-275958 odd "><a href="/package/automotive" title="">Auto</a></li>
-<li class="menu-216361 menu-path-node-266703 even "><a href="/package/books" title="">Books</a></li>
-<li class="menu-216362 menu-path-node-267216 odd "><a href="/package/theater" title="">Theater</a></li>
-<li class="menu-216359 menu-path-node-266769 even  last "><a href="/package/real-estate" title="">Real Estate</a></li>
+<li class="menu-216359 menu-path-node-266769 odd "><a href="/package/real-estate" title="">Real Estate</a></li>
+<li class="menu-216363 menu-path-node-271518 even  last "><a href="/package/hotels-luxury-trips-travel" title="">Travel</a></li>
 </ul>
 </li>
-<li class="menu-216322 menuparent menu-path-awards even "><a href="/awards" title="">Awards</a><ul><li class="menu-216375 menu-path-node-31841 first  odd "><a href="/package/awards/oscars" title="">Oscars</a></li>
-<li class="menu-216388 menu-path-node-576559 even "><a href="/awards/emmys/2014" title="">Emmys</a></li>
-<li class="menu-216477 menu-path-node-196615 odd "><a href="/topic/tony-awards" title="">Tonys</a></li>
+<li class="menu-216322 menuparent menu-path-awards even "><a href="/awards" title="">Awards</a><ul><li class="menu-216396 menu-path-blogs-race- first  odd "><a href="/blogs/race/" title="">The Race</a></li>
+<li class="menu-216388 menu-path-awards-predictions even "><a href="/awards/predictions" title="Awards Predictions">Feinberg Forecast</a></li>
+<li class="menu-216477 menu-path-awards-screening-guide odd "><a href="/awards/screening-guide" title="Screening Guide">Screening Guide</a></li>
 <li class="menu-216369 menu-path-awards-calendar even "><a href="/awards/calendar" title="">Calendar</a></li>
-<li class="menu-216396 menu-path-blogs-race- odd "><a href="/blogs/race/" title="">The Race</a></li>
-<li class="menu-216451 menu-path-node-448439 even  last "><a href="/cannes/2014" title="">Cannes</a></li>
+<li class="menu-216375 menu-path-node-31841 odd  last "><a href="/package/oscars-2015" title="">Oscars</a></li>
 </ul>
 </li>
 <li class="menu-216324 menuparent menu-path-video odd  last "><a href="/video" title="">Video</a><ul><li class="menu-216401 menu-path-videos-movie-trailers-159 first  odd "><a href="/videos/movie-trailers-159" title="Movie Trailers">Trailers</a></li>
@@ -421,89 +439,7 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
           <!--END Global Navigation -->
 
         </div><!-- /.section -->
-        <div class="region region-hottopics">
-  <div id="block-thr_hottopicsbar-thr_hottopicsbar" class="block block-thr_hottopicsbar first last region-odd even region-count-1 count-4">
- 
-  
-  
-
-  <div class="content">
-    <div id="hottopicsbar">
-  <div class="hot-topic">
-     
-<a href="/list/100-greatest-films-all-time-713215" title="HOLLYWOOD'S 100 FAVORITE FILMS">
-  <img src="http://www.hollywoodreporter.com/sites/default/files/imagecache/thumbnail_medium_194x109/2014/06/susan_sarandon__geenadavis_david_needleman_d_164_a_p_194.jpg" alt="HOLLYWOOD'S 100 FAVORITE FILMS" title="HOLLYWOOD'S 100 FAVORITE FILMS" width="194" height="109" rel="HOLLYWOOD'S 100 FAVORITE FILMS">  
-  <div class="image-overlay">
-    <div class="inner">
-      HOLLYWOOD'S 100 FAVORITE FILMS    </div>
-  </div>
-</a>
-
-
-
-  </div>
-  <div class="hot-topic">
-     
-<a href="/topic/rising-star" title="ABC'S 'RISING STAR' ">
-  <img src="http://www.hollywoodreporter.com/sites/default/files/imagecache/thumbnail_medium_194x109/2014/06/135909_0587_ful.jpg" alt="ABC'S 'RISING STAR' " title="ABC'S 'RISING STAR' " width="194" height="109" rel="ABC'S 'RISING STAR' ">  
-  <div class="image-overlay">
-    <div class="inner">
-      ABC'S 'RISING STAR'     </div>
-  </div>
-</a>
-
-
-
-  </div>
-  <div class="hot-topic">
-     
-<a href="/awards/roundtables" title="ROUNDTABLES">
-  <img src="http://www.hollywoodreporter.com/sites/default/files/imagecache/thumbnail_medium_194x109/2014/06/comedy_actor_roundtable_6_194.jpg" alt="ROUNDTABLES" title="ROUNDTABLES" width="194" height="109" rel="ROUNDTABLES">  
-  <div class="image-overlay">
-    <div class="inner">
-      ROUNDTABLES    </div>
-  </div>
-</a>
-
-
-
-  </div>
-  <div class="hot-topic">
-     
-<a href="/topic/world-cup-2014" title="WORLD CUP: BRAZIL ">
-  <img src="http://www.hollywoodreporter.com/sites/default/files/imagecache/thumbnail_medium_194x109/2014/06/ap582761483373.jpg" alt="WORLD CUP: BRAZIL " title="WORLD CUP: BRAZIL " width="194" height="109" rel="WORLD CUP: BRAZIL ">  
-  <div class="image-overlay">
-    <div class="inner">
-      WORLD CUP: BRAZIL     </div>
-  </div>
-</a>
-
-
-
-  </div>
-
-<div id="hottopics-advert">
-  <div class="advert">
-    <div class="advert-inner">
-      <div class="center">
-         <center>
-            <script type="text/javascript">Drupal.DART.tag('c', '194x109', {"dtid":"7","obj":{"dtid":"7","active":"1","name":"Default Hot Topics 194x109","pos":"c","sz":"194x109","block":"0","settings":{"options":{"scriptless":0,"keyvals":"","method":"adj","terms":1},"site":"","zone":"ros.simple","slug":"\u003cnone\u003e","rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","blog":"blog","featured_tout":"featured_tout","gallery_tout":"gallery_tout","hero_tout":"hero_tout","hero_trailer_tout":"hero_trailer_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","gallery":"gallery","project":"project","review":"review","simple":"simple","top_10_gallery_promo_tout":"top_10_gallery_promo_tout","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"awardevent":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"multichoice":0,"multivariate":0,"newsletter":0,"person":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","20":"","8":"","22":"","23":"","12":"","15":"","16":""}}}},"active":"1","name":"Default Hot Topics 194x109","pos":"c","sz":"194x109","site":"com","zone":"ros.simple","slug":"","options":{"scriptless":0,"keyvals":{"":[{"val":null,"eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"a":[{"val":"simpl","eval":false}],"page":[{"val":"17817","eval":false}]},"method":"adj","terms":1,"block":null},"rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","blog":"blog","featured_tout":"featured_tout","gallery_tout":"gallery_tout","hero_tout":"hero_tout","hero_trailer_tout":"hero_trailer_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","gallery":"gallery","project":"project","review":"review","simple":"simple","top_10_gallery_promo_tout":"top_10_gallery_promo_tout","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"awardevent":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"multichoice":0,"multivariate":0,"newsletter":0,"person":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","20":"","8":"","22":"","23":"","12":"","15":"","16":""}},"prefix":"thr"});</script>
-         </center>
-      </div>
-    </div>
-  </div>
-  
-  <div class="advert-clear"></div>
- <noscript><p><a href="http://ad.doubleclick.net/jump/thr.com/ros.simple;pos=c;sz=194x109;=;a=simpl;page=17817;tile=1;ord=7915016610?"><img src="http://ad.doubleclick.net/ad/thr.com/ros.simple;pos=c;sz=194x109;=;a=simpl;page=17817;tile=1;ord=7915016610?" alt="" /></a></p></noscript></div>
-
-</div><!-- close #hottopicsbar -->
-  </div>
-
- 
- 
-</div> <!-- /.block -->
-</div> <!-- /.region -->
-
+        
       </div> <!-- /#header -->
 
             <div id="main-wrapper">
@@ -515,7 +451,7 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
         
 
           <div class="region region-sidebar-second column sidebar"><div class="section">
-  <div id="block-dart-dart-tag-2" class="block block-dart first region-odd odd region-count-1 count-7">
+    <div id="block-dart-dart-tag-2" class="block block-dart first region-odd odd region-count-1 count-5">
  
   
   
@@ -526,19 +462,19 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
       <div class="center">
          <center>
               <span class="dart_slug">Advertisement</span>
-            <script type="text/javascript">Drupal.DART.tag('m1', '300x600,300x250,300x1050', {"dtid":"2","obj":{"dtid":"2","active":"1","name":"Default Medium Rec 1 300x250,300x600,300x1050","pos":"m1","sz":"300x600,300x250,300x1050","block":"1","settings":{"options":{"scriptless":0,"keyvals":"","method":"adj","terms":1},"site":"","zone":"ros.simple","slug":"","rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","blog":"blog","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"awardevent":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"hero_trailer_tout":0,"list_profile":0,"multichoice":0,"multivariate":0,"newsletter":0,"person":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}}}},"active":"1","name":"Default Medium Rec 1 300x250,300x600,300x1050","pos":"m1","sz":"300x600,300x250,300x1050","site":"com","zone":"ros.simple","slug":"Advertisement","options":{"scriptless":0,"keyvals":{"":[{"val":null,"eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"a":[{"val":"simpl","eval":false}],"page":[{"val":"17817","eval":false}]},"method":"adj","terms":1,"block":null},"rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","blog":"blog","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"awardevent":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"hero_trailer_tout":0,"list_profile":0,"multichoice":0,"multivariate":0,"newsletter":0,"person":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}},"prefix":"thr"});</script>
+            <script type="text/javascript">Drupal.DART.tag('m1', '300x600,300x250,300x1050,300x251', {"dtid":"2","obj":{"dtid":"2","active":"1","name":"Default Medium Rec 1 300x250,300x600,300x1050,300x251","pos":"m1","sz":"300x600,300x250,300x1050,300x251","block":"1","settings":{"options":{"scriptless":0,"keyvals":"amznslots|thr_amazon_tokens|eval","method":"adj","terms":1},"site":"","zone":"ros.simple","slug":"","rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","blog":"blog","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"awardevent":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"hero_trailer_tout":0,"list_profile":0,"multichoice":0,"multivariate":0,"newsletter":0,"person":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}}}},"active":"1","name":"Default Medium Rec 1 300x250,300x600,300x1050,300x251","pos":"m1","sz":"300x600,300x250,300x1050,300x251","site":"com","zone":"ros.simple","slug":"Advertisement","options":{"scriptless":0,"keyvals":{"":[{"val":null,"eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"amznslots":[{"val":"thr_amazon_tokens","eval":true}],"a":[{"val":"simpl","eval":false}],"page":[{"val":"17817","eval":false}]},"method":"adj","terms":1,"block":null},"rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","blog":"blog","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"awardevent":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"hero_trailer_tout":0,"list_profile":0,"multichoice":0,"multivariate":0,"newsletter":0,"person":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}},"prefix":"thr"});</script>
          </center>
       </div>
     </div>
   </div>
   
   <div class="advert-clear"></div>
- <noscript><p><a href="http://ad.doubleclick.net/jump/thr.com/ros.simple;pos=m1;sz=300x600,300x250,300x1050;=;a=simpl;page=17817;tile=2;ord=7915016610?"><img src="http://ad.doubleclick.net/ad/thr.com/ros.simple;pos=m1;sz=300x600,300x250,300x1050;=;a=simpl;page=17817;tile=2;ord=7915016610?" alt="" /></a></p></noscript>  </div>
+ <noscript><p><a href="http://ad.doubleclick.net/jump/thr.com/ros.simple;pos=m1;sz=300x600,300x250,300x1050,300x251;=;a=simpl;page=17817;tile=1;ord=9554486448?"><img src="http://ad.doubleclick.net/ad/thr.com/ros.simple;pos=m1;sz=300x600,300x250,300x1050,300x251;=;a=simpl;page=17817;tile=1;ord=9554486448?" alt="" /></a></p></noscript>  </div>
 
  
  
 </div> <!-- /.block -->
-<div id="block-thr_gravity_blocks-gravity-most-popular-rr" class="block block-thr_gravity_blocks region-even even region-count-2 count-8">
+  <div id="block-thr_gravity_blocks-gravity-most-popular-rr" class="block block-thr_gravity_blocks region-even even region-count-2 count-6">
  
   
   
@@ -562,7 +498,7 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
  
  
 </div> <!-- /.block -->
-<div id="block-dart-dart-tag-6" class="block block-dart region-odd odd region-count-3 count-9">
+  <div id="block-dart-dart-tag-6" class="block block-dart region-odd odd region-count-3 count-7">
  
   
   
@@ -573,19 +509,19 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
       <div class="center">
          <center>
               <span class="dart_slug">Advertisement</span>
-            <script type="text/javascript">Drupal.DART.tag('m3', '300x250,300x650', {"dtid":"6","obj":{"dtid":"6","active":"1","name":"Default Medium Rec 3 300x250","pos":"m3","sz":"300x250,300x650","block":"1","settings":{"options":{"scriptless":0,"keyvals":"","method":"adj","terms":1},"site":"","zone":"ros.simple","slug":"","rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","blog":"blog","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hero_trailer_tout":"hero_trailer_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","top_10_gallery_promo_tout":"top_10_gallery_promo_tout","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"awardevent":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}}}},"active":"1","name":"Default Medium Rec 3 300x250","pos":"m3","sz":"300x250,300x650","site":"com","zone":"ros.simple","slug":"Advertisement","options":{"scriptless":0,"keyvals":{"":[{"val":null,"eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"a":[{"val":"simpl","eval":false}],"page":[{"val":"17817","eval":false}]},"method":"adj","terms":1,"block":null},"rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","blog":"blog","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hero_trailer_tout":"hero_trailer_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","top_10_gallery_promo_tout":"top_10_gallery_promo_tout","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"awardevent":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}},"prefix":"thr"});</script>
+            <script type="text/javascript">Drupal.DART.tag('m3', '300x250,300x650,300x253', {"dtid":"6","obj":{"dtid":"6","active":"1","name":"Default Medium Rec 3 300x250,300x253","pos":"m3","sz":"300x250,300x650,300x253","block":"1","settings":{"options":{"scriptless":0,"keyvals":"amznslots|thr_amazon_tokens|eval","method":"adj","terms":1},"site":"","zone":"ros.simple","slug":"","rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","blog":"blog","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hero_trailer_tout":"hero_trailer_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","top_10_gallery_promo_tout":"top_10_gallery_promo_tout","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"awardevent":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}}}},"active":"1","name":"Default Medium Rec 3 300x250,300x253","pos":"m3","sz":"300x250,300x650,300x253","site":"com","zone":"ros.simple","slug":"Advertisement","options":{"scriptless":0,"keyvals":{"":[{"val":null,"eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"amznslots":[{"val":"thr_amazon_tokens","eval":true}],"a":[{"val":"simpl","eval":false}],"page":[{"val":"17817","eval":false}]},"method":"adj","terms":1,"block":null},"rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","blog":"blog","featured_tout":"featured_tout","gallery_tout":"gallery_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hero_trailer_tout":"hero_trailer_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","manual_chart":"manual_chart","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","top_10_gallery_promo_tout":"top_10_gallery_promo_tout","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"awardevent":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}},"prefix":"thr"});</script>
          </center>
       </div>
     </div>
   </div>
   
   <div class="advert-clear"></div>
- <noscript><p><a href="http://ad.doubleclick.net/jump/thr.com/ros.simple;pos=m3;sz=300x250,300x650;=;a=simpl;page=17817;tile=3;ord=7915016610?"><img src="http://ad.doubleclick.net/ad/thr.com/ros.simple;pos=m3;sz=300x250,300x650;=;a=simpl;page=17817;tile=3;ord=7915016610?" alt="" /></a></p></noscript>  </div>
+ <noscript><p><a href="http://ad.doubleclick.net/jump/thr.com/ros.simple;pos=m3;sz=300x250,300x650,300x253;=;a=simpl;page=17817;tile=2;ord=9554486448?"><img src="http://ad.doubleclick.net/ad/thr.com/ros.simple;pos=m3;sz=300x250,300x650,300x253;=;a=simpl;page=17817;tile=2;ord=9554486448?" alt="" /></a></p></noscript>  </div>
 
  
  
 </div> <!-- /.block -->
-<div id="block-block-26" class="block block-block region-even even region-count-4 count-10">
+  <div id="block-block-26" class="block block-block region-even even region-count-4 count-8">
 
 
             <h2 class="thr-subtitle"><em></em></h2>
@@ -598,7 +534,7 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
 
 
 </div> <!-- /.block -->
-<div id="block-thr_custom_blocks-5" class="block block-thr_custom_blocks region-odd odd region-count-5 count-11 popeater">
+  <div id="block-thr_custom_blocks-5" class="block block-thr_custom_blocks region-odd odd region-count-5 count-9 popeater">
 
   <div class="content">
     <div class="partners-logo">
@@ -608,17 +544,17 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
     </div>
           <div class="partner-content">
         <ul class="module-list">
-                  <li><a href="http://feedproxy.google.com/~r/thr/huffingtonpost/~3/yJJZS2vEhgg/dad-photoshops-baby-into-action-movies_n_5534505.html" target="_blank">The Pose That Earned This Baby A Starring Role In 12 Movies</a></li> 
-                  <li><a href="http://feedproxy.google.com/~r/thr/huffingtonpost/~3/SyXbkVSu3IE/kitchen-nightmares-over_n_5538337.html" target="_blank">A Shocking 60 Percent Of Restaurants On 'Kitchen Nightmares' Are Closed</a></li> 
-                  <li><a href="http://feedproxy.google.com/~r/thr/huffingtonpost/~3/dUCn2B1f03w/the-dissapearance-of-eleanor-rigby-trailer_n_5538470.html" target="_blank">'The Disappearance of Eleanor Rigby' Trailer Will Break Your Heart</a></li> 
-                  <li><a href="http://feedproxy.google.com/~r/thr/huffingtonpost/~3/AFU7vD_Vf78/aolbuild-welcomes-22-jump_b_5538477.html" target="_blank">#AOLBuild Welcomes '22 Jump Street' Directors and Ice Cube</a></li> 
+                  <li><a href="http://feedproxy.google.com/~r/thr/huffingtonpost/~3/Y8ntJLUc5h0/chris-rock-malaak-compton-split_n_6387754.html" target="_blank">Chris Rock And Malaak Compton-Rock Split After 19 Years Of Marriage</a></li> 
+                  <li><a href="http://feedproxy.google.com/~r/thr/huffingtonpost/~3/gdmxWGdULpc/madonna-lady-gaga_n_6387610.html" target="_blank">No, That Madonna Song Isn't About Lady Gaga, Manager Says</a></li> 
+                  <li><a href="http://feedproxy.google.com/~r/thr/huffingtonpost/~3/PE5tn2K1n3I/mark-wahlberg-wife_n_6387654.html" target="_blank">Mark Wahlberg And His Wife Bring Their PDA To The Beach</a></li> 
+                  <li><a href="http://feedproxy.google.com/~r/thr/huffingtonpost/~3/R6aEjUgo-44/alicia-keys-baby-boy_n_6387538.html" target="_blank">Alicia Keys Welcomes Second Baby Boy With Swizz Beatz</a></li> 
                 </ul>
       </div>
       </div>
 
   </div> <!-- /.block -->
 
-<div id="block-thr_custom_blocks-9" class="block block-thr_custom_blocks region-even even region-count-6 count-12 popeater">
+  <div id="block-thr_custom_blocks-9" class="block block-thr_custom_blocks region-even even region-count-6 count-10 popeater">
 
   <div class="content">
     <div class="partners-logo">
@@ -628,17 +564,17 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
     </div>
           <div class="partner-content">
         <ul class="module-list">
-                  <li><a href="http://feedproxy.google.com/~r/thr/vulture/~3/w6NAd7_NZgE/best-of-netflix-spoof-movies.html" target="_blank">Best of Netflix, Amazon, and Hulu Streaming: Spoof Movies</a></li> 
-                  <li><a href="http://feedproxy.google.com/~r/thr/vulture/~3/0Q8sI1gXafk/roam-through-snowpiercers-train-in-gif-form.html" target="_blank">Roam Through Snowpiercer’s Train in GIF Form</a></li> 
-                  <li><a href="http://feedproxy.google.com/~r/thr/vulture/~3/0YeKeknuKoQ/shia-labeoufs-ample-collection-of-dirty-tees.html" target="_blank">Shia LaBeouf’s Ample Collection of Dirty Tees: A Slideshow</a></li> 
-                  <li><a href="http://feedproxy.google.com/~r/thr/vulture/~3/wbPE7lYLEJE/dave-chappelle-fans-on-his-legacy-and-return.html" target="_blank">Poll: Dave Chappelle Fans on His Legacy and Return to the Stage</a></li> 
+                  <li><a href="http://feedproxy.google.com/~r/thr/vulture/~3/ppJVF4MUXsE/cosby-hired-private-eyes-to-look-into-accusers.html" target="_blank">Bill Cosby Reportedly Hired Private Investigators in an Attempt to Discredit His Accusers</a></li> 
+                  <li><a href="http://feedproxy.google.com/~r/thr/vulture/~3/BaBk1c8N_CU/chris-rock-and-his-wife-are-getting-a-divorce.html" target="_blank">Chris Rock and His Wife Are Getting a Divorce After 19 Years Together</a></li> 
+                  <li><a href="http://feedproxy.google.com/~r/thr/vulture/~3/-U8-wFYu2kQ/hobbit-unbroken-into-the-woods-interview-christmas-box-office.html" target="_blank">Hobbit Leads a Strong Holiday Weekend Box Office</a></li> 
+                  <li><a href="http://feedproxy.google.com/~r/thr/vulture/~3/TtEyvLZgu3w/harry-potter-actor-david-ryall-has-died.html" target="_blank">Harry Potter Actor David Ryall Died on Christmas Day </a></li> 
                 </ul>
       </div>
       </div>
 
   </div> <!-- /.block -->
 
-<div id="block-thr_custom_blocks-33" class="block block-thr_custom_blocks last region-odd odd region-count-7 count-13 popeater">
+  <div id="block-thr_custom_blocks-33" class="block block-thr_custom_blocks region-odd odd region-count-7 count-11 popeater">
 
   <div class="content">
     <div class="partners-logo">
@@ -648,10 +584,10 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
     </div>
           <div class="partner-content">
         <ul class="module-list">
-                  <li><a href="http://feedproxy.google.com/~r/thr/JustJared/~3/NQnZe3IUtOg/" target="_blank">Jessica Chastain &amp; James McAvoy Let the Sparks Fly in Steamy 'Disappearance of Eleanor Rigby' Trailer - Watch Now!</a></li>
-                  <li><a href="http://feedproxy.google.com/~r/thr/JustJared/~3/_byhkJL6n1E/" target="_blank">Prince Harry's Interaction With a Chilean Toddler Is Beautiful to See!</a></li>
-                  <li><a href="http://feedproxy.google.com/~r/thr/JustJared/~3/g8Kz6gno9Wo/" target="_blank">Dexter's Jennifer Carpenter Steps Out with Boyfriend Seth Avett!</a></li>
-                  <li><a href="http://feedproxy.google.com/~r/thr/JustJared/~3/KRxXXrPAle8/" target="_blank">Rachel Bilson &amp; Hayden Christensen Know How to Stay Healthy With Smoothies!</a></li>
+                  <li><a href="http://feedproxy.google.com/~r/thr/JustJared/~3/vue1AcstQa4/" target="_blank">Selena Gomez Flies to Dubai with Kendall Jenner, Cody Simpson, Gigi Hadid &amp; More for New Year's!</a></li>
+                  <li><a href="http://feedproxy.google.com/~r/thr/JustJared/~3/CbpO852xEeQ/" target="_blank">Nick Jonas Googles Himself, But Never 'Nick Jonas Shirtless'</a></li>
+                  <li><a href="http://feedproxy.google.com/~r/thr/JustJared/~3/omMtyFkc74s/" target="_blank">Chris Rock and Wife Malaak Split After 19 Years Together</a></li>
+                  <li><a href="http://feedproxy.google.com/~r/thr/JustJared/~3/5BQ5ne1HfC4/" target="_blank">Alicia Keys &amp; Swizz Beatz Welcome Baby Boy Named Genesis!</a></li>
                 </ul>
       </div>
       </div>
@@ -708,7 +644,7 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
           </div><!-- /#content -->
 <!-- replacing the node object call with preprocessed vars -->
         <div class="region region-sidebar-first column sidebar"><div class="section">
-  <div id="block-thr_blogs-thr_our_blogs" class="block block-thr_blogs first region-odd odd region-count-1 count-5">
+    <div id="block-thr_blogs-thr_our_blogs" class="block block-thr_blogs first region-odd even region-count-1 count-4">
  
   
               <h2 class="thr-subtitle">
@@ -766,19 +702,6 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
  
  
 </div> <!-- /.block -->
-<div id="block-block-24" class="block block-block last region-even even region-count-2 count-6">
-
-
-            <h2 class="thr-subtitle"><em></em></h2>
-      
-
-  <div class="content">
-    <p><span></span></p>
-  </div>
-
-
-
-</div> <!-- /.block -->
 </div></div> <!-- /.section, /.region -->
 
 
@@ -788,7 +711,7 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
         </div><!-- /#main -->
       </div> <!-- /#main-wrapper -->
       <div id="content-bottom"><div class="region region-content-bottom">
-  <div id="block-dart-dart-tag-1" class="block block-dart first region-odd even region-count-1 count-14">
+    <div id="block-dart-dart-tag-1" class="block block-dart first region-odd even region-count-1 count-12">
  
   
   
@@ -799,19 +722,19 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
       <div class="center">
          <center>
               <span class="dart_slug">Advertisement</span>
-            <script type="text/javascript">Drupal.DART.tag('a', '728x90,728x98', {"dtid":"1","obj":{"dtid":"1","active":"1","name":"Default Footer 728x90","pos":"a","sz":"728x90,728x98","block":"1","settings":{"options":{"scriptless":0,"keyvals":"","method":"adj","terms":1},"site":"","zone":"ros.simple","slug":"","rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","awardevent":"awardevent","blog":"blog","featured_tout":"featured_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"gallery_tout":0,"hero_trailer_tout":0,"manual_chart":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}}}},"active":"1","name":"Default Footer 728x90","pos":"a","sz":"728x90,728x98","site":"com","zone":"ros.simple","slug":"Advertisement","options":{"scriptless":0,"keyvals":{"":[{"val":null,"eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"a":[{"val":"simpl","eval":false}],"page":[{"val":"17817","eval":false}]},"method":"adj","terms":1,"block":null},"rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","awardevent":"awardevent","blog":"blog","featured_tout":"featured_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"gallery_tout":0,"hero_trailer_tout":0,"manual_chart":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}},"prefix":"thr"});</script>
+            <script type="text/javascript">Drupal.DART.tag('a', '728x90,728x98,728x92', {"dtid":"1","obj":{"dtid":"1","active":"1","name":"Default Footer 728x90,728x92","pos":"a","sz":"728x90,728x98,728x92","block":"1","settings":{"options":{"scriptless":0,"keyvals":"amznslots|thr_amazon_tokens|eval","method":"adj","terms":1},"site":"","zone":"ros.simple","slug":"","rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","awardevent":"awardevent","blog":"blog","featured_tout":"featured_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"gallery_tout":0,"hero_trailer_tout":0,"manual_chart":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}}}},"active":"1","name":"Default Footer 728x90,728x92","pos":"a","sz":"728x90,728x98,728x92","site":"com","zone":"ros.simple","slug":"Advertisement","options":{"scriptless":0,"keyvals":{"":[{"val":null,"eval":false}],"tile":[{"val":"Drupal.DART.tile++","eval":true}],"amznslots":[{"val":"thr_amazon_tokens","eval":true}],"a":[{"val":"simpl","eval":false}],"page":[{"val":"17817","eval":false}]},"method":"adj","terms":1,"block":null},"rules":{"domains":null,"paths":"all_paths","node_types":{"author":"author","awardevent":"awardevent","blog":"blog","featured_tout":"featured_tout","guest_editor":"guest_editor","hero_tout":"hero_tout","hot_topic_tout":"hot_topic_tout","image":"image","list_index":"list_index","list_item":"list_item","list_profile":"list_profile","lists":"lists","magazine":"magazine","microsite":"microsite","navigation_tout":"navigation_tout","news":"news","package":"package","person":"person","gallery":"gallery","project":"project","review":"review","simple":"simple","topic":"topic","trailer_tout":"trailer_tout","video":"video","adskin":0,"nomcat":0,"company":0,"contender_list":0,"customheader":0,"node_gallery_gallery":0,"node_gallery_image":0,"gallery_tout":0,"hero_trailer_tout":0,"manual_chart":0,"multichoice":0,"multivariate":0,"newsletter":0,"podcast":0,"project_role":0,"quiz":0,"score":0,"song":0,"thr_movie_boxoffice":0,"partner_ship_block":0,"thr_tv_program_ratings":0,"theater":0,"top_10_gallery_promo_tout":0},"taxonomy":{"6":"","19":"","14":"","7":"","18":"","4":"","5":"","3":"","13":"","9":"","11":"","25":"","20":"","8":"","22":"","12":"","15":"","16":""}},"prefix":"thr"});</script>
          </center>
       </div>
     </div>
   </div>
   
   <div class="advert-clear"></div>
- <noscript><p><a href="http://ad.doubleclick.net/jump/thr.com/ros.simple;pos=a;sz=728x90,728x98;=;a=simpl;page=17817;tile=4;ord=7915016610?"><img src="http://ad.doubleclick.net/ad/thr.com/ros.simple;pos=a;sz=728x90,728x98;=;a=simpl;page=17817;tile=4;ord=7915016610?" alt="" /></a></p></noscript>  </div>
+ <noscript><p><a href="http://ad.doubleclick.net/jump/thr.com/ros.simple;pos=a;sz=728x90,728x98,728x92;=;a=simpl;page=17817;tile=3;ord=9554486448?"><img src="http://ad.doubleclick.net/ad/thr.com/ros.simple;pos=a;sz=728x90,728x98,728x92;=;a=simpl;page=17817;tile=3;ord=9554486448?" alt="" /></a></p></noscript>  </div>
 
  
  
 </div> <!-- /.block -->
-<div id="block-most_popular_by_section-most_viewed_1" class="block block-most_popular_by_section last region-even odd region-count-2 count-15">
+  <div id="block-most_popular_by_section-most_viewed_1" class="block block-most_popular_by_section region-even odd region-count-2 count-13">
  
   
   
@@ -824,6 +747,20 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
   </h2>
   
         <div class="module_wrap">
+        <div class="media">
+            <div class="thumbnail">
+              <a href="/gallery/hollywoods-notable-deaths-2014-674642">
+    
+    	    		  <img src="http://www.hollywoodreporter.com/sites/default/files/imagecache/thumbnail_medium_194x109/ap849086656566_194.jpg" alt="Hollywood's Notable Deaths of 2014 " title="Hollywood's Notable Deaths of 2014 " width="194" height="109" class="">		    
+            </a>
+      </div>
+  </div>
+<h4 class="title">
+    <a href="/gallery/hollywoods-notable-deaths-2014-674642">Hollywood's Notable Deaths of 2014 </a></h4>
+<p class="teaser">
+     <a href="/gallery/hollywoods-notable-deaths-2014-674642" class="call-to-action call-to-action-gallery">View gallery</a></p>
+    </div>
+          <div class="module_wrap">
         <div class="media">
             <div class="thumbnail">
               <a href="/gallery/100-greatest-films-all-time-714192">
@@ -840,44 +777,30 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
           <div class="module_wrap">
         <div class="media">
             <div class="thumbnail">
-              <a href="/gallery/hollywoods-notable-deaths-2014-674642">
+              <a href="/gallery/yes-i-did-say-2014-760275">
     
-    	    		  <img src="http://www.hollywoodreporter.com/sites/default/files/imagecache/thumbnail_medium_194x109/maya-angelou-5_194.jpg" alt="Hollywood's Notable Deaths of 2014 " title="Hollywood's Notable Deaths of 2014 " width="194" height="109" class="">		    
+    	    		  <img src="http://www.hollywoodreporter.com/sites/default/files/imagecache/thumbnail_medium_194x109/Beyonce_Quote_a_l_194.jpg" alt="Yes, I Did Say That! 2014 In Quotes" title="Yes, I Did Say That! 2014 In Quotes" width="194" height="109" class="">		    
             </a>
       </div>
   </div>
 <h4 class="title">
-    <a href="/gallery/hollywoods-notable-deaths-2014-674642">Hollywood's Notable Deaths of 2014 </a></h4>
+    <a href="/gallery/yes-i-did-say-2014-760275">Yes, I Did Say That! 2014 In Quotes</a></h4>
 <p class="teaser">
-     <a href="/gallery/hollywoods-notable-deaths-2014-674642" class="call-to-action call-to-action-gallery">View gallery</a></p>
-    </div>
-          <div class="module_wrap">
-        <div class="media">
-            <div class="thumbnail">
-              <a href="/gallery/pulp-fiction-thelma-louise-stars-714330">
-    
-    	    		  <img src="http://www.hollywoodreporter.com/sites/default/files/imagecache/thumbnail_medium_194x109/HARG7978_a_l_194.jpg" alt="'Pulp Fiction,' 'Thelma &amp;amp; Louise' Stars Reunite (Photos)" title="'Pulp Fiction,' 'Thelma &amp;amp; Louise' Stars Reunite (Photos)" width="194" height="109" class="">		    
-            </a>
-      </div>
-  </div>
-<h4 class="title">
-    <a href="/gallery/pulp-fiction-thelma-louise-stars-714330">'Pulp Fiction,' 'Thelma &amp; Louise' Stars Reunite (Photos)</a></h4>
-<p class="teaser">
-     <a href="/gallery/pulp-fiction-thelma-louise-stars-714330" class="call-to-action call-to-action-gallery">View gallery</a></p>
+     <a href="/gallery/yes-i-did-say-2014-760275" class="call-to-action call-to-action-gallery">View gallery</a></p>
     </div>
           <div class="module_wrap last">
         <div class="media">
             <div class="thumbnail">
-              <a href="/gallery/vintage-malibu-elizabeth-taylor-marilyn-710552">
+              <a href="/gallery/breaking-bad-quotes-20-badass-612801">
     
-    	    		  <img src="http://www.hollywoodreporter.com/sites/default/files/imagecache/thumbnail_medium_194x109/108820612_a_l_194.jpg" alt="Vintage Malibu: Elizabeth Taylor, Marilyn Monroe on the Beach (Photos)" title="Vintage Malibu: Elizabeth Taylor, Marilyn Monroe on the Beach (Photos)" width="194" height="109" class="">		    
+    	    		  <img src="http://www.hollywoodreporter.com/sites/default/files/imagecache/thumbnail_medium_194x109/Say_My_Name_a_l_194.jpg" alt="'Breaking Bad': 25 Most Badass Quotes" title="'Breaking Bad': 25 Most Badass Quotes" width="194" height="109" class="">		    
             </a>
       </div>
   </div>
 <h4 class="title">
-    <a href="/gallery/vintage-malibu-elizabeth-taylor-marilyn-710552">Vintage Malibu: Elizabeth Taylor, Marilyn Monroe on the Beach (Photos)</a></h4>
+    <a href="/gallery/breaking-bad-quotes-20-badass-612801">'Breaking Bad': 25 Most Badass Quotes</a></h4>
 <p class="teaser">
-     <a href="/gallery/vintage-malibu-elizabeth-taylor-marilyn-710552" class="call-to-action call-to-action-gallery">View gallery</a></p>
+     <a href="/gallery/breaking-bad-quotes-20-badass-612801" class="call-to-action call-to-action-gallery">View gallery</a></p>
     </div>
     </div>
   </div>
@@ -894,7 +817,7 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
       <div id="footer">
         <div class="section">
                               <div class="region region-footer">
-  <div id="block-thr_footer-thr_footer" class="block block-thr_footer first last region-odd even region-count-1 count-16">
+    <div id="block-thr_footer-thr_footer" class="block block-thr_footer first region-odd even region-count-1 count-14">
  
   
   
@@ -1069,6 +992,6 @@ Drupal.DART.ord = 1000000000 + Math.floor(Math.random()*900000000);
     a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"645958bbf2","applicationID":"2668175","transactionName":"YAZRbEJXC0VUURFZV1lMcltEXwpYGkYNQmdZDFddb0YEUVBtE1ldQA==","queueTime":0,"applicationTime":574,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"645958bbf2","applicationID":"2668175","transactionName":"YAZRbEJXC0VUURFZV1lMcltEXwpYGkYNQmdZDFddb0YEUVBtE1ldQA==","queueTime":0,"applicationTime":395,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
