@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the bbcworldwide.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085337id_/http%3A//www.bbcworldwide.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcworldwide.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228222519id_/http%3A//www.bbcworldwide.com/privacy.aspx) for the most accurate reproduction.*
 
 # privacy
 
 ## **Privacy at BBC Worldwide**
 
-Last updated: 7th March 2014
-
-#### _This policy has recently been updated. What's new?_
-
-  * We've created an plain English summary of our privacy approach; "Our Promise";
-  * We've provided more detail about what we do with your information and when we may share it between our group of companies; and
-  * We've implemented the same policy across all our services and group companies.
-
-
+Last updated: 18 September 2014
 
 BBC Worldwide Limited (BBCW) is the main commercial arm and a wholly owned subsidiary of the British Broadcasting Corporation (BBC). It is a UK based company operating in countries around the world through its subsidiaries. The information in these pages relate to the privacy practices of the companies in the BBC Worldwide group, (herein referred to as "BBCW", "we", "our" or "us").
 
