@@ -1,149 +1,252 @@
-<!--The following is the downloaded HTML source of the lawguru.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331170025id_/https%3A//www.lawguru.com/answers/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lawguru.com privacy policy that was archived on 2014-12-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141228025728id_/http%3A//www.lawguru.com/support/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0005/6697.js?439595" async="" type="text/javascript"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGUV5XGwYHV1JSBA=="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
-<title>Privacy Policy - LawGuru Answers: Ask an Attorney a Free Legal Question</title>
-
-<meta name="description" content="Get a free answer to your legal question on LawGuru.com.  Find free answers and free legal advice to legal questions from the LawGuru network of attorneys.">
-<meta name="keywords" content="legal questions, law question, legal questions and answers, legal question, legal, questions, answers, answer, advice, legal advice, advise, attorney advice, free advice, law, attorneys, lawyers, attorney, lawyer, legal research, research, post questions, submit legal questions, legal answer, law advice, attorney answers, questions and answers">
-<link href="/answers/css/lawguru.css" rel="stylesheet" type="text/css">
-<!--[if IE 6]>
-	<link rel="stylesheet" type="text/css" href="http://d11ls2tzjx8fh9.cloudfront.net/answers/css/lawguru_ie6.css" />
-<![endif]-->
-
-        <style>
-        a.logo{
-                background:url(http://d11ls2tzjx8fh9.cloudfront.net/answers/images/newlawgurufinal.jpg) no-repeat;
-        }
-        </style>
-
-<script type="text/javascript" src="http://d11ls2tzjx8fh9.cloudfront.net/answers/js/jquery.js"></script>
-<script type="text/javascript">
-$(function() {
-    var win = $(window), 
-	nav = $('#header ul');
-
-    win.scroll(function() {
-        if (!nav.hasClass('fixed') && (win.scrollTop() > nav.offset().top)) {
-            nav.addClass('fixed').data('top', nav.offset().top);
-	    $('<div id="fixed_bar"></div>').insertAfter('.logo');
-        }
-        else if (nav.hasClass('fixed') && (win.scrollTop() < nav.data('top'))) {
-            nav.removeClass('fixed');
-            $('#fixed_bar').remove();
-        }
-    });
-});
+<!DOCTYPE html><html lang="en"><!--<![endif]--><head><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0005/6697.js?438987" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok2v=919620257c/cloudflare.min.js"></script><script type="text/javascript">
+	SEARCH_RESULTS_URL = "/search/complete.php?country=US";
 </script>
 
+<meta name="viewport" content="width=1200px">
+<meta charset="utf-8"><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok2v=1613a3a185/"},atok:"764bc79d5b1cfa2736de388cf5fec06d",petok:"19ba3469475471683bad27c786991bfa7eb0d380-1419735449-1800",zone:"lawguru.com",rocket:"0",apps:{"ga_key":{"ua":"UA-2335064-6","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok2v=919620257c/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGUV5XGwcGUVFQ"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="/xcart/skin1/css/style.css" type="text/css" media="all">
+<!--[if lt IE 9]>
+			<script type="text/javascript" src="/xcart/skin1/new_js/htmlshiv.js"></script>
+		<![endif]-->
+<title class="myf"> Privacy Policy
+- LawGuru.com
+</title>
+<script type="text/javascript">/* CloudFlare analytics upgrade */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2335064-6']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
 </head>
 <body>
-<div id="page">
-	<div id="header">
-		<a href="/answers/search" class="logo" title="LawGuru Answers"><span>LawGuru Answers</span></a>
-		<ul>
-		<a href="/answers/search"><img src="http://d11ls2tzjx8fh9.cloudfront.net/answers/images/lg_small_icon.jpg" border="0"></a>
-        	<a href="/answers/ask/" title="Ask A Free Legal Question"><li class="show_fixed">Ask A Free Legal Question</li></a>
-		<a href="http://www.lawguru.com" title="LawGuru Home"><li class="first">LawGuru Home</li></a>
-		<a href="/answers/search/" title="LawGuru Search"><li class="show_fixed">LawGuru Search</li></a>
-        	<a href="/legalforms/" title="Legal Forms"><li>Legal Forms</li></a>
-		<a href="/answers/about" title="About LawGuru" target="_blank"><li>About</li></a>
-		<a href="/support/open.php" title="Support" target="_blank"><li>Support</li></a>
-		<a href="/answers/help/users" title="Help" target="_blank"><li>Help</li></a>
-		</ul>
-	</div>
-	<br class="clear">
+<div id="rootWrp">
+<div id="mainWrp">
+<header>
+<div class="marginLRAuto mainGutter">
+<div class="left websiteTitleWrp websiteTitle">
+<h1 class="reset proximaSemBol websiteTitle"><a href="http://www.lawguru.com"><img src="/answers/img/logo.png" alt="LawGuru"></a></h1>
+</div>
+<div class="clear hLine"></div>
+<div class="left websiteNavigWrp">
+<section class="left">
+<a href="http://www.lawguru.com" class="proximaSemBol">Home</a>
+</section>
+<section class="left">
+<a href="https://www.lawguru.com/answers/ask/" class="proximaSemBol" style="color: #9aca86;">Ask Legal Question</a>
+</section>
+<section class="left legalAnswers">
+<a href="#" class="proximaSemBol" style="color: #9aca86;">Legal Answers</a>
+<div class="subMenuNarrow">
+<div class="column">
+<ul class="reset">
+<li><a href="/answers/search/">Search Past Legal Answers</a></li>
+<li><a href="/answers/legal_directory/">Find an Attorney</a></li>
+<li><a href="/articles/">Browser Legal Articles</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+</section>
+<section class="left help">
+<a href="#" class="proximaSemBol">Help</a>
+<div class="subMenuNarrow">
+<div class="column">
+<ul class="reset">
+<li><a href="/support/FAQ/">FAQs</a></li>
+<li><a href="/xcart/customer/help.php?section=contactus&amp;mode=update">Customer Support</a></li>
+<li><a href="/support/about/">About Us</a></li>
+<li><a href="/answers/atty_profile/">Attorney Network</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+</section>
+</div>
+<div class="right websiteSearchWrp">
+<form class="search_form" method="post" action="/answers/search/express/">
+<input type="text" name="terms" class="reset headerSearch noText" autocomplete="off">
+<input type="hidden" name="autosuggested" value="0">
+<input type="submit" value="Search" class="reset sprite">
+</form>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</header>
+<div class="clear"></div>
+<div class="clear"></div>
+<section class="singularHeader cart">
+<div class="marginLRAuto mainGutter">
+<div class="left">
+<h1 class="reset singularTitle">LawGuru.com Privacy Policy</h1>
+</div>
+<div class="clear"></div>
+</div>
+</section>
+<div class="clear"></div>
+<section class="staticContentWrp">
+<div class="marginLRAuto mainGutter">
+<div class="left">
+<div class="aboutUsContent">
+<style type="text/css">.aboutUsContent p{line-height:18px;padding:12px 0;}</style>
 <div id="content_single">
-
-	<h1>LawGuru.com Privacy Policy</h1>
-	<br>
-	<div class="terms">
-		<p>Last modified: July 25, 2011.</p>
-
-<p>Our Privacy Policy applies to the following websites owned and operated by WebsiteBroker, Inc.: LawGuru.com, LawSimple.com, AdviceTool.com and to all the other products and services we offer including LawGuru.com Answers, LawSimple.com Answers, AdviceTool.com Answers, the Attorney Network (also referred to as the Lawyer Network in some jurisdictions), the Advisor Network and the LawGuru.com Answers public database (collectively referred to as "LawGuru").   For simplicity, when we refer in this Privacy Policy to LawGuru.com, AdviceTool.com or LawSimple.com, that term also refers to and includes WebsiteBroker, Inc., and its owners, managers, partners and employees.  </p>
-
-<p>If you have any questions about this Privacy Policy, please feel free to <a href="https://www.lawguru.com/writeus.html">contact us</a> or write to us at:</p>
-
+<div class="terms">
+<p>Last modified: March 1, 2014.</p>
+<p>Our Privacy Policy applies to the following websites owned and operated by WebsiteBroker, Inc.: LawGuru.com, LawSimple.com, AdviceTool.com and to all the other products and services we offer including LawGuru.com Answers, LawSimple.com Answers, AdviceTool.com Answers, the Attorney Network (also referred to as the Lawyer Network in some jurisdictions), the Advisor Network and the LawGuru.com Answers public database (collectively referred to as "LawGuru"). For simplicity, when we refer in this Privacy Policy to LawGuru.com, AdviceTool.com or LawSimple.com, that term also refers to and includes WebsiteBroker, Inc., and its owners, managers, partners and employees. </p>
+<p>If you have any questions about this Privacy Policy, please feel free to contact us via our support page or write to us at:</p>
 <p>Legal Department<br>
 WebsiteBroker, Inc.<br>
 73700 Dinah Shore Dr., Suite 104<br>
 Palm Desert, CA 92211</p>
-
 <p>By using LawGuru, you represent that you are 13 years old or older and you consent to the information collection and use practices described herein.</p>
-
-<p>The use of LawGuru is governed by this Privacy Policy, the various disclaimers appearing on our site, and our Terms &amp; Conditions.  By visiting or using LawGuru you agree to be bound by these terms.   In addition, you understand that the specific method, features and services offered on LawGuru may be altered, improved, removed or adapted at any time by LawGuru in its sole discretion and without any notice.   If you do not agree with any of these terms, do not use this site.</p>
-
+<p>The use of LawGuru is governed by this Privacy Policy, the various disclaimers appearing on our site, and our Terms &amp; Conditions. By visiting or using LawGuru you agree to be bound by these terms. In addition, you understand that the specific method, features and services offered on LawGuru may be altered, improved, removed or adapted at any time by LawGuru in its sole discretion and without any notice. If you do not agree with any of these terms, do not use this site.</p>
 <p>LawGuru is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer and personal information.</p>
-
 <p><b>A. Consumer Information</b></p>
-
-<p>During the process of delivering our content and information to you, we do not automatically collect any personally identifiable information about you such as name, address, phone number, or e-mail address.  However, we do obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by us is used for the purpose of analyzing our traffic and sometimes for targeting ads.</p>
-
-<p>In some cases, you may voluntarily provide personal information in order to register for our newsletters, when signing our guestbook, to submit a question, or in response to a specific ad.  This information is used by us to respond to your request.  We may at times combine this information with other users' information and review it in an aggregate form to understand the type of individuals who visit our websites.  We will not disclose your personal information to third parties without your permission except in the following circumstances: i) to protect ourselves from liability; ii) to respond to a legal process or comply with the law; iii) in a limited number of jurisdictions and legal fields, to have your case reviewed for free by a law firm that practices in the area of law of your case; and iv) as discussed in Section B below, to facilitate the answering of questions submitted to LawGuru and including certain of these questions and answers in the LawGuru.com Answers public database as an information resource to the public.</p>
-
+<p>During the process of delivering our content and information to you, we do not automatically collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, we do obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by us is used for the purpose of analyzing our traffic and sometimes for targeting ads.</p>
+<p>In some cases, you may voluntarily provide personal information in order to register for our newsletters, when signing our guestbook, to submit a question, or in response to a specific ad. This information is used by us to respond to your request. We may at times combine this information with other users' information and review it in an aggregate form to understand the type of individuals who visit our websites. We will not disclose your personal information to third parties without your permission except in the following circumstances: i) to protect ourselves from liability; ii) to respond to a legal process or comply with the law; iii) in a limited number of jurisdictions and legal fields, to have your case reviewed for free by a law firm that practices in the area of law of your case; and iv) as discussed in Section B below, to facilitate the answering of questions submitted to LawGuru and including certain of these questions and answers in the LawGuru.com Answers public database as an information resource to the public.</p>
 <p><b>B. Questions Submitted to LawGuru</b></p>
-
-<p>In connection with the submission of "Free Questions" and "Paid Questions" to LawGuru, we only require, and we encourage you to only provide, the minimum amount of personal identifying information necessary to process a question.  All of your personal information provided to LawGuru, including email addresses, is concealed from all other users of LawGuru and is never published as part of the LawGuru.com Answers public database.  Only the LawGuru administrators have access, for purposes of site administration only, to this information.  LawGuru will not disclose this information to third parties without your permission, except in the following circumstances: (i) to protect ourselves from liability, or (ii) to respond to legal process or to otherwise comply with the law. With respect to certain information supplied by you, as explained further below, there will be a need for disclosure to "Lawyer Members" (also referred to as "Attorney Members") or "Advisor Members" when you are asking a Paid Question.</p>
-
+<p>In connection with the submission of "Free Questions" and "Paid Questions" to LawGuru, we only require, and we encourage you to only provide, the minimum amount of personal identifying information necessary to process a question. All of your personal information provided to LawGuru, including email addresses, is concealed from all other users of LawGuru and is never published as part of the LawGuru.com Answers public database. Only the LawGuru administrators have access, for purposes of site administration only, to this information. LawGuru will not disclose this information to third parties without your permission, except in the following circumstances: (i) to protect ourselves from liability, or (ii) to respond to legal process or to otherwise comply with the law. With respect to certain information supplied by you, as explained further below, there will be a need for disclosure to "Lawyer Members" (also referred to as "Attorney Members") or "Advisor Members" when you are asking a Paid Question.</p>
 <p>Whether other information submitted to LawGuru by you, such as the content of the Question itself, will be publicly disclosed will vary as between Free Questions and Paid Questions:</p>
-
-<p><b>i) Free Questions &amp; Answers.</b>  At this time, Free Questions can only be submitted through LawGuru.com.  After a Free Question is answered, the Free Question and its answer are automatically posted to the LawGuru.com Answers public database. The contents of these Free Questions and their answers are visible to all users of LawGuru.com and to Lawyer Members.  Thus, Free Questions and answers to them are neither confidential nor privileged in any way.  Although the contents of the Free Questions and their Answers are visible, the names and identifying information of the user who submitted the Free Question will not be visible to all users of LawGuru.com and Lawyer Members.  Of course, you must understand that, because the LawGuru.com Answers public database is public, you may lose some privacy by posting Free Questions and answers in the LawGuru.com Answers public database.  Your view of the facts or the way you frame a question, may well reveal something about your thinking about a problem that you may not want others to know.  It's your choice.</p>
-
-<p><b>ii. Paid Questions &amp; Answers.</b>  Unlike a Free Question, when a Paid Question is answered, the contents of the Paid Question and Answer are kept private and are not visible to the other users of LawGuru.com, LawSimple.com, AdviceTool.com or to their respective Lawyer or Advisor Members.  However, before answering a question, Lawyer and Advisor Members must often first determine that there are no conflicts of interest.  In order to accomplish this, the Lawyer or Advisor Member must be supplied with the full name of the user submitting the question and, when available, their zipcode (or postal code).  Similarly, LawGuru administrators will have access to this information in order to ensure that it is properly transmitted to Lawyer or Advisor Members and for the purpose of getting your question answered.</p>
-
-<p>In posting a Paid Question, you are giving permission to LawGuru to transmit this information to Lawyer and Advisor Members and to provide access to this information to LawGuru administrators for this purpose.  LawGuru expressly agrees with respect to Paid Questions to respect and protect the confidentiality of any confidential client information, lawyer-client or attorney-client privileged information contained in your Paid Question and in the answer provided by an Lawyer or Advisor Member.  Other than as indicated above, we will not disclose this information to third parties without your permission except to respond to a legal process or comply with the law.</p>
-
+<p><b>i) Free Questions &amp; Answers.</b> At this time, Free Questions can only be submitted through LawGuru.com. After a Free Question is answered, the Free Question and its answer are automatically posted to the LawGuru.com Answers public database. The contents of these Free Questions and their answers are visible to all users of LawGuru.com and to Lawyer Members. Thus, Free Questions and answers to them are neither confidential nor privileged in any way. Although the contents of the Free Questions and their Answers are visible, the names and identifying information of the user who submitted the Free Question will not be visible to all users of LawGuru.com and Lawyer Members. Of course, you must understand that, because the LawGuru.com Answers public database is public, you may lose some privacy by posting Free Questions and answers in the LawGuru.com Answers public database. Your view of the facts or the way you frame a question, may well reveal something about your thinking about a problem that you may not want others to know. It's your choice.</p>
+<p><b>ii. Paid Questions &amp; Answers.</b> Unlike a Free Question, when a Paid Question is answered, the contents of the Paid Question and Answer are kept private and are not visible to the other users of LawGuru.com, LawSimple.com, AdviceTool.com or to their respective Lawyer or Advisor Members. However, before answering a question, Lawyer and Advisor Members must often first determine that there are no conflicts of interest. In order to accomplish this, the Lawyer or Advisor Member must be supplied with the full name of the user submitting the question and, when available, their zipcode (or postal code). Similarly, LawGuru administrators will have access to this information in order to ensure that it is properly transmitted to Lawyer or Advisor Members and for the purpose of getting your question answered.</p>
+<p>In posting a Paid Question, you are giving permission to LawGuru to transmit this information to Lawyer and Advisor Members and to provide access to this information to LawGuru administrators for this purpose. LawGuru expressly agrees with respect to Paid Questions to respect and protect the confidentiality of any confidential client information, lawyer-client or attorney-client privileged information contained in your Paid Question and in the answer provided by an Lawyer or Advisor Member. Other than as indicated above, we will not disclose this information to third parties without your permission except to respond to a legal process or comply with the law.</p>
 <p><b>C. Cookies</b></p>
-
-<p>Our sites, as well as most sites on the Internet, use "cookies" to enhance your experience on the web.  Generally, we cannot use these cookies to personally identify you in any way.  The only time we can use cookies to personally identify you, is when you use the password-protected areas of our sites and you chose to enable cookie identification.  Basically, we use cookies to allow you to enjoy our site more and to make your visit to our site easier; disabling the cookies will cause some LawGuru functionality to become unavailable. While we believe that cookies enhance your Internet experience, they are not required to use our sites.</p>
-
-<p>If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies.  Please consult your web browser's Help documentation for more information.</p>
-
+<p>Our sites, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. Generally, we cannot use these cookies to personally identify you in any way. The only time we can use cookies to personally identify you, is when you use the password-protected areas of our sites and you chose to enable cookie identification. Basically, we use cookies to allow you to enjoy our site more and to make your visit to our site easier; disabling the cookies will cause some LawGuru functionality to become unavailable. While we believe that cookies enhance your Internet experience, they are not required to use our sites.</p>
+<p>If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.</p>
 <p><b>D. Opting Out</b></p>
-
 <p>If at any time you no longer wish to receive the information you originally requested to receive from us (e.g. newsletters, etc.), please <a href="https://www.lawguru.com/writeus.html">contact us</a> and we will remove your information from our system.</p>
-
-<p>If you have any additional questions about our dedication to consumer privacy, please <a href="https://www.lawguru.com/writeus.html">contact us</a>.</p>
-
+<p>If you have any additional questions about our dedication to consumer privacy, please contact us via our support page.</p>
 <p><b>E. Third Party Ads</b></p>
-
 <p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/">click here</a>.</p>
-
-<p>LawGuru may also work with advertisers who may collect information that you would voluntarily provide to them.  Please refer to those advertisers individual privacy policies for information on how they manage the privacy of this information.</p>
-
+<p>LawGuru may also work with advertisers who may collect information that you would voluntarily provide to them. Please refer to those advertisers individual privacy policies for information on how they manage the privacy of this information.</p>
 <p><b>F. Consent to Collection and Processing in the United States.</b></p>
-
-<p>By using LawGuru, you consent to having your personal data transferred to and processed in the United States.  For users in England and Wales, the information you provide to LawGuru is also subject to the Data Protection Act 1998.  You have a right of access under data protection legislation to the personal data that we hold about you.</p>
-
+<p>By using LawGuru, you consent to having your personal data transferred to and processed in the United States. For users in England and Wales, the information you provide to LawGuru is also subject to the Data Protection Act 1998. You have a right of access under data protection legislation to the personal data that we hold about you.</p>
 <p><b>G. Modification of Policy</b></p>
-
 <p>LawGuru may modify this Privacy Policy at any time without prior notice. Continued use of this site following any change constitutes your acceptance of the change. We therefore ask you to review this Privacy Policy occasionally to ensure that you are aware of the most recent version.</p>
-	</div>
-
 </div>
-	<div class="clear"></div>
-	<div id="footer">
-	<p class="float_r">© WebsiteBroker, Inc.</p>
-		<a href="http://www.lawguru.com" title="LawGuru.com Home">LawGuru.com</a> &nbsp;|&nbsp;
-	<a href="/advertise/" title="Advertise on LawGuru" rel="external">Advertise on LawGuru</a> &nbsp;|&nbsp;
-	<a href="http://www.lawguru.com/affiliate/affiliates/index.php" title="Affiliate Program" target="_blank">Affiliate Program</a>&nbsp;|&nbsp;
-	<a href="/privacy.html" title="Privacy" rel="external">Privacy</a> &nbsp;|&nbsp;
-	<a href="/answers/about" title="About Us" rel="external">About Us</a>&nbsp;|&nbsp;
-    <a href="/answers/about/press">Press</a>
-	</div>
+</div> </div>
+<div class="clear"></div>
 </div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</section>
+<div class="clear"></div>
+<div class="marginLRAuto mainGutter">
+<div class="hLine"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<footer>
+<div class="marginLRAuto mainGutter">
+<div class="clear"></div>
+<div class="hLine"></div>
+<section class="footerLogos">
+<a href="/answers/about/press/" class="verHorCenter"><img src="/answers/img/logo-cnn-money.png" alt=""></a>
+<a href="/answers/about/press/" class="verHorCenter"><img src="/answers/img/logo-usa-today.png" alt=""></a>
+<a href="/answers/about/press/" class="verHorCenter"><img src="/answers/img/logo-bloomberg.png" alt=""></a>
+<a href="/answers/about/press/" class="verHorCenter"><img src="/answers/img/logo-washington-times.png" alt=""></a>
+<a href="/answers/about/press/" class="verHorCenter"><img src="/answers/img/logo-cnet.png" alt=""></a>
+</section>
+<section class="columns">
+<div class="column col1">
+<h3 class="reset proximaSemBol columnTitle">Legal Questions</h3>
+<ul class="reset">
+<li><a href="/answers/ask/">Ask A Legal Question</a></li>
+<li><a href="/answers/search/">Search Past Legal Answers</a></li>
+<li><a href="/answers/legal_directory/">Find an Attorney</a></li>
+<li><a href="/answers/atty_profile/apply/">Join Attorney Network</a></li>
+<li><a href="/students.php">For Students</a></li>
+</ul>
+</div>
+<div class="column col2">
+<h3 class="reset proximaSemBol columnTitle">Services &amp; Resources</h3>
+<ul class="reset">
+<li><a href="/forms/">Legal Forms</a></li>
+<li><a href="/articles/">Articles</a></li>
+<li><a href="/research.html">Legal Research Tool</a></li>
+<li><a href="/dictionary/">Legal Dictionary</a></li>
+<li><a href="/weird/index.html">Weird and Dumb Laws</a></li>
+</ul>
+</div>
+<div class="column col3">
+<h3 class="reset proximaSemBol columnTitle">Information</h3>
+<ul class="reset">
+<li><a href="/support/terms_of_use/">Terms &amp; Conditions</a></li>
+<li><a href="/support/privacy_policy/">Privacy Policy</a></li>
+<li><a href="/answers/employment/">Join our team</a></li>
+<li><a href="/answers/about/press/">Press</a></li>
+<li><a href="/advertise/">Advertise</a></li>
+</ul>
+</div>
+<div class="column col4">
+<h3 class="reset proximaSemBol columnTitle">Help</h3>
+<ul class="reset">
+<li><a href="/xcart/customer/help.php?section=contactus&amp;mode=update" "="">Customer Support</a></li>
+                                                        <li><a href="/support/FAQ/">FAQs</a></li>
+                                                        <li><a href="/support/about/">About Us</a></li>
+                                                </ul>
+                                        </div>
+					<div class="clear"></div>					
+				</section>
+				<section class="icons">
+					<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.findlegalforms.com"><img width="98" height="28" border="0" src="//images.scanalert.com/meter/www.findlegalforms.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+					<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=2TYDymTLZs0p35W7koRLPayAn2xVqhvxFWo78gM2S8yVPPneIE"></script></span>
+                                        <span class="bbb"><img src="https://www.lawguru.com/xcart/skin1/theme-julio/small_bbb.png" border="0"></span>
+				</section>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+			<section class="contactInfo">
+				<div class="txtCenter marginLRAuto mainGutter">
+					<small>© WebsiteBroker, Inc.</small>
+					<address>73700 Dinah Shore Dr. Suite 104, Palm Desert, California 92211</address>
+				</div>
+			</section>
+		</footer>
+		<section class="customTooltip"></section>
+		<section class="searchResults">
+			<div class="customScrollbar">
+				<div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+				<div class="viewport">
+					<div class="overview">
+					</div>
+				</div>
+			</div>
+		</section>
+		<script type="text/javascript" src="/xcart/skin1/new_js/jquery-1.8.2.min.js"></script>
+		<script type="text/javascript" src="/xcart/skin1/new_js/jquery.tinyscrollbar.min.js"></script>
+		<script type="text/javascript" src="/xcart/skin1/new_js/jquery.customPlugins.min.js"></script>
+		<script type="text/javascript" src="/xcart/skin1/new_js/jquery.validationEngine-combined.min.js"></script>
+		<script type="text/javascript" src="/xcart/skin1/new_js/jquery.cookie.min.js"></script>
+		<script type="text/javascript" src="/xcart/skin1/new_js/script.js"></script>		
 
-<!-- Google Analytics -->
+
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-2335064-6");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+</script>
+
 
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
@@ -152,6 +255,22 @@ a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"aa0bd91241","applicationID":"573303","transactionName":"NlJUNRACXBBXVUVbDA8YdwIWCl0NGWZDWxUAVE9OCw1WBk4=","queueTime":0,"applicationTime":16,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+
+<script type="text/javascript">
+var host = window.location.hostname;
+var host_array = host.split('.');
+var host_pre = host_array[0];
+
+if (host_pre == 'lawguru')
+{
+	host_pre = 'www';
+}
+
+$.cookie("host_prefix", host_pre, { path: "/" });
+</script>
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"aa0bd91241","applicationID":"46502","transactionName":"NlJUNRACXBBXVUVbDA8YYxMLTEEWRkZeQBdOR0QIFAJRGmlGXl4KAk4ZCAwHVxsYRllC","queueTime":0,"applicationTime":33,"atts":"GhVXQ1gYTx4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
