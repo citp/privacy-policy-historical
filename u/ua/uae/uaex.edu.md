@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628223555id_/http%3A//www.uaex.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228223454id_/http%3A//www.uaex.edu/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -21,3 +21,5 @@ Cookies contain information that is transferred to your computer’s hard drive.
 Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this Google page. 
 
 **E-mail** \- Personal information collected via e-mail or through other online means will be used only for purposes necessary to serve your needs, such as responding to an inquiry for information. This may involve redirecting your inquiry or comment to another person or department better suited to meeting your needs. 
+
+**Credit Cards -  **We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.  We reveal only the last four digits of your credit card numbers when confirming an order.  It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
