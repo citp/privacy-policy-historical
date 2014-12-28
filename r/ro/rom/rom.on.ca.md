@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518235217id_/http%3A//www.rom.on.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rom.on.ca privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228181237id_/http%3A//www.rom.on.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Royal Ontario Museum
 
@@ -53,6 +53,8 @@ The nature of the Internet requires specific information to be exchanged between
 This information is used by the ROM as an administrative tool for identifying system problems and monitoring network traffic. The ROM does not attempt to link this information with the identity of the individual visiting our website, except when necessary to protect our service, site, visitors, or others.
 
 Parts of the ROM’s website use cookies. Cookies facilitate the exchange of information from your Web browser to our Web server. Cookies enable you to use our online registration service and can tell us how you navigate within our site, which facilitates the improvement of the site based on user-activity trends. The ROM does not use cookies to obtain any personal information about you, including contact information. Your Web browser can be set to detect or reject cookies. However, note that some parts of the ROM website will not function properly or may be slower if you refuse cookies.
+
+The ROM may use third parties to collect conversion tracking data and/or data for remarketing purposes (for example, tailored ads). This is for advertising purposes only. All data is anonymous: you will not be personally identified through this data and the ROM does not see any data or contact information on an individual level. These third parties may include, but may not be limited to, Facebook and/or Twitter. These services recommend that if you wish to limit access to this data as much as possible, enable Do Not Track (DNT) in your browser,  and/or opt-out of  tailored ads in your account settings, and/or adjust your privacy controls in each account.
 
 ##  Additional Information
 
