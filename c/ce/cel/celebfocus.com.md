@@ -1,174 +1,65 @@
-> *The following text is extracted and transformed from the celebfocus.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126003030id_/http%3A//celebfocus.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebfocus.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228131026id_/http%3A//www.celebfocus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | CelebFocus
 
-### DARK BLUE SEA - PRIVACY POLICY
+This Privacy Policy is in application to CelebFocus. This would impart how CelebFocus collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on CelebFocus and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with CelebFocus, you may receive and be under the coverage of CelebFocus, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+**Information Gathering**
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+When you visit CelebFocus, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields. We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
 
-The Dark Blue Sea group comprises a number of companies that includes:
+**Cookies**
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+These are pieces of information stored on the computer upon use. CelebFocus or the third party service providers, as well as advertising service providers, may place cookies or flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.
 
-
-
-#### ABOUT THIS PRIVACY POLICY
-
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
-
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
-
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
-
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
-
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
-
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
-
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
-
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
-
-In order to do this, we share your personal information with our related companies.
-
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
-
-#### HOW WE COLLECT INFORMATION
-
-**Personal Information provided to us**
-
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
-
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
-
-**Website activity, cookies and related technology**
-
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
-
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
-
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+In visiting CelebFocus, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browsers instructions for deleting and disabling cookies.
 
 **IP Addresses**
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+The IP address is a number assigned to the Internet accessing network or computer. Visitors IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+**Advertising**
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+The site advertises on pages within the site as well as other websites not affiliated with CelebFocus. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in CelebFocus and responses to promotions and advertisements on the sites where we advertise.
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+**Online Surveys**
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+**Planning Tools**
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+CelebFocus gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+**Using and Sharing Information**
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+There would be times that CelebFocus could make information available to third parties that could be companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice , providing consumers additional direct marketing choices.
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+**Social Media Connection**
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+CelebFocus provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+**Accuracy of Information**
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
 
-#### EPP SHARING ARRANGEMENTS
+**Linking to Other Sites**
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by CelebFocus, you should go over the privacy policies and other terms, as they could diverge from other sites. CelebFocus will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
 
-#### PROTECTING KIDS PRIVACY
+**Children’s Privacy**
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet.
 
-**Notice to Kids**
+**Change in Company’s Ownership**
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+If by chance another company obtains the assets in the business of CelebFocus, we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners.
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+**Service Customization**
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
+Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
 
-**Notice to Parents**
+**Third-Parties**
 
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
+Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
 
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
-
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
-
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
-
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
-
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
-
-#### LINKS TO OTHER WEBSITES
-
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
-
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
-
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
-
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
-
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
-
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
-
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
-
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
-
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
-
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
-
-#### PRIVACY COMPLAINTS
-
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
-
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
-
-
-
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
-
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
-
-
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/)
