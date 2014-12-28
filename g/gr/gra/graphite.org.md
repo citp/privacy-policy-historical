@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the graphite.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628154152id_/http%3A//www.graphite.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphite.org privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228182328id_/http%3A//www.graphite.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Your California Privacy Rights | graphite
 
-Graphite is an online service brought to you by Common Sense Media, an independent, not-for-profit organization. At Common Sense Media, we value your privacy. And since privacy policies can be very long, we believe you should be able to see what you’re agreeing to at a glance. Here’s a summary of the key concepts of the full [Graphite Privacy Policy](https://web.archive.org/privacy-policy).
+Graphite is an online service brought to you by Common Sense Media, an independent, not-for-profit organization. At Common Sense Media, we value your privacy. And since privacy policies can be very long, we believe you should be able to see what you’re agreeing to at a glance. Here’s a summary of the key concepts of the full Graphite Privacy Policy.
 
 **What do you do with the information I give you when I register?**
 
@@ -14,7 +14,16 @@ We do not use your information to sell products to you.
 
 **Do you give anyone my personal information?**
 
-We do not rent, sell, share or otherwise disclose your personal data with third parties without your prior written consent except as set forth in the Third Party Service Providers section in this Policy or to fulfill a request you have made on the Graphite website (i.e. enter a promotion, etc.).
+We do not rent or sell your personal data. We do not share or disclose your personal data without your prior written consent, except as follows:
+
+  * to our third party vendors who assist us with operating, maintaining and improving the Site by providing us with services, such as donation processing, email delivery, information technology services, and other similar services, and who receive your data for the limited purposes of providing us with such services;
+  * to enable social login (for adults);
+  * to fulfill a request you have made (such as entering a promotion); and
+  * to comply with the law, legal process, respond to an emergency, or protect our rights.
+
+
+
+Our Privacy Policy gives details on all of our disclosure practices.
 
 **What happens when I sign up for your newsletter?**
 
@@ -24,7 +33,7 @@ You can unsubscribe from our email newsletter by updating your subscription sele
 
 **Other information**
 
-For more information on our privacy practices, please go to the full [Privacy Policy](https://web.archive.org/privacy-policy).
+For more information on our privacy practices, please go to the full Privacy Policy.
 
 **Contact us**
 
