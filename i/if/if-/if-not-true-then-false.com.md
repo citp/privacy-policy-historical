@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the if-not-true-then-false.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211014212id_/http%3A//www.if-not-true-then-false.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the if-not-true-then-false.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228113719id_/http%3A//www.if-not-true-then-false.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | If Not True Then False
 
 ### What information do we collect?
 
@@ -18,13 +18,13 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Any of the information we collect from you may be used in one of the following ways:
 
-\- To personalize your experience  
+– To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-\- To improve customer service  
+– To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-\- To send periodic emails
+– To send periodic emails
 
 The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
@@ -62,4 +62,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on 2012-08-21
+Published: Nov 8, 2011 | Updated: Dec 11, 2014 | by 
