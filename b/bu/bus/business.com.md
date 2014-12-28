@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626215031id_/http%3A//www.business.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228210339id_/http%3A//www.business.com/info/privacy) for the most accurate reproduction.*
 
-# Business.com - Privacy Policy
+# 
 
 ### Our Policy:
 
@@ -23,6 +23,8 @@ When you interact with the Company through the Site or Services, we receive and 
 In operating the Site, we may also use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, the Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features.
 
 We may also use a third party advertising partner that employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our Site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track your online movements. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to your Personal Data. We use clear gifs in our emails to let us know which emails have been opened by recipients, this allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
+
+If you prefer to have an untargeted ad experience while you surf, please visit <http://www.networkadvertising.org/choices/> and simply select the companies you'd like to "Opt Out" of receiving targeted ads from. No additional informational cookies will be delivered to you from Business.com. Please note that by opting out through this interface you are only opting out of ad targeting activity that is conducted online via Business.com and its partners (some of which are listed here). Business.com is not responsible for online or offline data collection conducted by other organizations with which you may interact. For more information, review the opt-out tool from the Network Advertising Initiative at: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ### Our Use of Your Personal Data and Other Information:
 
