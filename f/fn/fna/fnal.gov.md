@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142414id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnal.gov privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228212257id_/http%3A//www.fnal.gov/pub/disclaim.html) for the most accurate reproduction.*
 
 # Fermilab | Fermilab Disclaimer
 
 ###  Fermi National Accelerator Laboratory  
-Fermi Research Alliance, LLC.
+Fermi Research Alliance LLC
 
-This web site is served by a computer system on a U.S. Government owned network. The Department of Energy and Fermilab computer security personnel monitor this web site for security purposes to ensure it remains available to all users and to protect information in the system. By accessing this web site, you are expressly consenting to these monitoring activities.
+This website is served by a computer system on a U.S. government owned network. The Department of Energy and Fermilab computer security personnel monitor this website for security purposes to ensure it remains available to all users and to protect information in the system. By accessing this website, you are expressly consenting to these monitoring activities.
 
 Unauthorized attempts to defeat or circumvent security features, to use the system for other than intended purposes, to deny service to authorized users, to access, obtain, alter, damage, or destroy information, or otherwise to interfere with the system or its operation are prohibited. Evidence of such acts may be disclosed to law enforcement authorities and result in criminal prosecution under the Computer Fraud and Abuse Act of 1986 (Pub. L. 99-474) and the National Information Infrastructure Protection Act of 1996 (Pub. L. 104-294), (18 U.S.C. 1030), or other applicable criminal laws.
 
@@ -13,14 +13,14 @@ The public is authorized to read all pages that are not protected by password or
 
 Fermilab policy and rules for computing, including appropriate use, may be found at <http://security.fnal.gov/policies/cpolicy.html>
 
-We collect no information about you when you visit this site except whatever you choose to send, for example through web-based forms or email, and some portion of whatever your web browser automatically sends to web sites you visit.
+We collect no information about you when you visit this site except whatever you choose to send, for example through web-based forms or email, and some portion of whatever your web browser automatically sends to websites you visit.
 
 **The information we do automatically collect and store includes the following:**
 
   * the Internet Protocol (IP) address from which you access the Internet (e.g., 192.255.238.66), whether your own or provided as a proxy by your Internet Service Provider (ISP),
   * the date and time you access our site,
   * the pages you visit (recorded by the text and other files that compose that page),
-  * the URL of the web page (if any) from which you linked directly to our site,
+  * the URL of the webpage (if any) from which you linked directly to our site,
   * the total number of packets and bytes you exchange with our site, categorized by protocol header information.
 
 
