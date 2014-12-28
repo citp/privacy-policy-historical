@@ -1,114 +1,273 @@
-> *The following text is extracted and transformed from the banfield.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226054931id_/http%3A//www.banfield.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banfield.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228061734id_/http%3A//www.banfield.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Banfield Pet Hospital®
 
-Updated January 29, 2013
+Last Updated July 9, 2014
 
-The following privacy policy ("Privacy Policy") states Banfield Pet Hospital's policy regarding the privacy rights of visitors to this website.
+##  **Privacy Statement Overview and Summary**
 
-This is the website (hereafter referred to as "website," "site," or "sites") of Medical Management International, Inc., doing business as Banfield Pet Hospital (hereafter referred to as "we", "us", "our" or "Banfield"). Our postal address is:
+ 
 
+Medical Management International, Inc., doing business as Banfield Pet Hospital® (hereafter referred to as "we", "us", "our" or "Banfield") respects your privacy and is committed to protecting it through our compliance with this privacy statement.
+
+  To view our full Privacy Statement, **clickhere**.
+
+  For California residents, to review your **California Privacy Rights** , **clickhere**.
+
+####  **What does this Privacy Statement apply to?**
+
+This Privacy Statement applies to information, including personal information, collected from or about you by us.
+
+  **Clickhere ** for more information.
+
+####  **What information do we collect?**
+
+We may collect, among others, the following types of information from you:  
+ 
+
+  * Your name and contact information
+  * Information about the transactions you make with us
+  * Demographic information about you
+  * Information you post or submit to us
+  * Information about your computer or device, your Internet browser, and browsing activities
+
+
+
+ 
+
+**Clickhere** for more information.   
+ 
+
+####  **How do we use your information?**
+
+  
+
+
+We may use your information for a variety of purposes including: to provide products or services that you request; to administer promotions (sweepstakes, contests and offers); to communicate with you; to deliver advertising; to improve our websites, products and services; and for our other legitimate business purposes, including legal compliance.
+
+  **Clickhere** for more information.
+
+####  **How do we share and disclose your information?**
+
+We may share your information in the following ways:  
+ 
+
+  * With our subsidiaries, affiliates, and business partners
+  * With our service providers
+  * To fulfill the purpose for which you provide it
+  * At your direction or request or with your consent
+  * To third parties for their marketing purposes
+  * For our other legitimate business purposes, including legal compliance
+
+
+
+ 
+
+**Clickhere** for more information.  
+ 
+
+####  **What choices do you have?**
+
+  
+
+
+We provide you with choices about receiving promotional offers from us, receiving cookies, receiving interest-based advertisements, and, if applicable, sharing of your personal information with third parties for their own marketing purposes.
+
+  **Clickhere** for more information. 
+
+####  **How do we safeguard your information?**
+
+  
+
+
+We have implemented administrative, physical and technical safeguards designed to protect your information.
+
+  **Clickhere** for more information. 
+
+####  **How can you contact us?**
+
+Banfield Privacy Team  
 PO Box 13998  
-Portland, OR 97213
+Portland, OR 97213  
+E-mail: [Privacy@banfield.com](mailto:Privacy@banfield.com)  
+ 
 
-We can be reached via email at [Internet.Inquiries@banfield.net](mailto:Internet.Inquiries@banfield.net).
+##  **Your Privacy Rights - Banfield Privacy Statement  **
 
-We care about your privacy. We want to tell you in detail about the privacy policies and practices which we have adopted so you can feel confident about how we handle the personally identifiable information ("personal information") you entrust to us, and understand how we manage your personal information to offer you the best possible products, services and experiences. The server(s) that make(s) this site available, and databases where information may be stored, may be located outside the country from which you accessed this site, but we will collect, process and use personal information only in accordance with this policy. The personal information made available to us may, therefore, be transmitted abroad. By visiting this site and submitting information, you consent to such collection, processing, transfer and/or storage of your personal information.
+Last Updated June 30, 2014  
+ 
 
-While we do not intend to make changes to our policies very often, it is always a good idea to double check when you visit our site to be sure that you have read and agree with our most current policy statement. We will not make any retroactive changes unless legally required to do so.
+###  What does this privacy statement apply to?
 
-The content on our site may include, among other items of interest, pet health information, social networking opportunities, surveys, sweepstakes, and contests, and may also include advertising and opportunities to shop online. We may also provide information on our company, pet health products, and our services.
+ 
 
-We hope that you enjoy our site and will come back often to visit!  
-Please take a moment to review our policy in detail. To assist you, we offer this short summary.
+Medical Management International, Inc., doing business as Banfield Pet Hospital® (hereafter referred to as "we", "us", "our" or "Banfield") respects your privacy and is committed to protecting it through our compliance with this privacy statement ("Privacy Statement").
 
-###  _Policy Summary_
+  This Privacy Statement describes the types of information we may collect from you or about you or that you may provide when you visit the website [www.banfield.com](http://www.banfield.com/), or any website, mobile application, or other service that displays a link to this Privacy Statement (hereinafter referred to as a "Site" or the "Sites").  This Privacy Statement does not apply to Banfield websites, mobile applications and other services and products that do not display or include a link to this Privacy Statement or that have their own privacy statement.  This Privacy Statement applies to your "personal information," which is any information or combination of information that could reasonably be used to identify you, and any other information collected from or about you.
 
-  1. **We use your personal information to fulfill your requests and serve you better.**
-  2. **We do not share your personal details with outside third parties without your consent, except as provided herein.**
-  3. **We will only send you materials you have indicated you want to receive according to your preferences, and we will honor your opt-out requests.**
-  4. **We use cookies and web beacons to help us understand the features that apply to visitors, provide better functionality, and offer you personalized content.**
-  5. **We adopt careful procedures to protect your personal information, and use special care to protect credit card data you give us when you shop online.**
-  6. **We reserve the right to use or disclose your personal information in certain circumstances, such as to satisfy a legal request or protect our property.**
-  7. **We do not knowingly collect information of any kind from anyone under the age of 13.**
+Please read this Privacy Statement carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Site. By accessing or using this Site, you agree to this Privacy Statement. This Privacy Statement may change from time to time. Your continued use of this Site after we make changes is deemed to be acceptance of those changes, so please check the Privacy Statement periodically for updates.
 
+We hope that you enjoy our Sites and will come back often to visit! 
 
+###  **What information do we collect and how do we collect it?**
 
-###  When do we collect personal information?
+   
+We may collect various information that you provide to us, including personal contact details, and information related to your purchases, employment or demographic. The information that we collect from you may include:
 
-We collect personal information, such as names, addresses, e-mail addresses, phone numbers, pet information (names, birthdates, vaccination records, pet image, etc.), hobby or activity information, demographic information (age, gender, etc.), credit card information or other financial account data, and the like, when submitted by a visitor. Visitors may submit personal information online to sign up for an account, make a veterinarian appointment, enter contests, to obtain information or submit a comment, to register for a loyalty program or chat room, to place an order, or to otherwise take advantage of the services offered on our site. When applying for a job on the site under the Careers section, or recommending a potential employee, visitors may submit personal information. We may also obtain contact lists, demographic, and other information about you from other sources, and add it to or combine it with our databases. If a visitor applies for a job listed on the Careers section, or a visitor refers a veterinarian or veterinary technician, we may collect information relevant for evaluating a referral or the visitor's or employment application, which information will be subject to this Privacy Policy and the Terms and Conditions.
-
-You can update or correct your contact information or change your preferences about receiving offers and information from us at any time. If you are under 13 years of age, you and your parent or guardian must review the section below titled "Policy Regarding Children," which will govern your provision of personally information.
-
-In addition to the information you provide, we also collect automatically generated information. Whenever you visit our site, we receive and store information about that visit. For example, we obtain information about you and your Web browser, including:
-
-  * The Internet Protocol (IP) address that connects your computer to the Internet;
-  * Your email address and confirmation when you open an email sent from our site;
-  * Your user name(s) and password(s);
-  * Your browser type and version, operating system and platform, and other computer and connection information;
-  * The date, time and full Uniform Resource Locators (URLs) of your clicks to, through and from our site;
-  * Services you search for on our site, view and/or use; and
-  * Sections of our site you visit.
+  * Personal contact details include information such as names, addresses, telephone numbers, or e-mail addresses, such as when you provide them to us during online registration, and some of our Sites allow you to establish a user name and password to set up an account.
+  * Transaction-related information includes data regarding purchases, requests, or other transactions you make on our Sites, including payment card information and shipping details.
+  * Employment-related information includes your indicated job preferences, work history and information provided on applications submitted to us online.
+  * Demographic information includes data such as age, gender, hobby or activity information, taste or other preference information, and the like.
+  * Comments, photos, or other information that you post on public areas of each Site, through blogs, message boards, or social networking opportunities (for further information please see the _What about blogs, message boards and social networking opportunities or other interactive forums?_ section below).
 
 
 
-There are companies that provide tools that allow you to visit websites anonymously. While use of these tools may prevent us from providing you with personalized service, you should be aware that this option is available.
+As a Banfield client, when you register for a, and sign-in to your, My Banfield online client account using your My Banfield ID, your sign-in information is shared with your Banfield Hospital(s) in order to authenticate your identity and provide you with the My Banfield online client account features, such as access to your pet's vaccination records.  In addition, we may collect information from other sources, including contact lists, and demographic information from third parties and other commercial sources. This data may be combined with other information that we collect.   
 
-Special Note on Personal Profiles. After you register with our site, which allows for the creation of personal profiles, you are able to create a personal profile with information that you can make accessible to other users. Your profile can include a variety of information, including a name, e-mail address, physical location, occupation, or other information such as a photo, listing of recent posts you have made, a personal biography, or other personal information. Please be aware that we do not generally monitor or review the information in your profile and the information that you choose to provide will be publicly accessible. Please use caution when deciding on what information to include in your personal profile. We will maintain your personal profile on our servers until such time that you delete or modify that personal profile.
+  We also collect certain types of information automatically:
 
-###  What do we do with your personal information?
+  * Your Internet Protocol (IP) address or device identifier, your device’s operating system, browser type, websites visited before or after you visit our website, pages viewed and activities at our website, as well as your interaction with advertisements.
+  * Third-party service providers and advertising partners may also collect information automatically.
+  * Find out more about our automatic collection practices in the section below called _How do we use tracking technologies like "cookies", web beacons and other technologies?_
 
-We collect personally identifiable information to present our site and its content to you, provide you access to your pet's health records, schedule veterinarian appointments, pay for services, to enter you in contests and notify you of results, to e-mail you with updates and news, to respond to your questions or comments, to register you for certain features, to provide personalized content and information, to evaluate a referral or an application for employment, and/or to send out brochures, coupons, samples, offers and other information on products we sell, our services or our company. We ask visitors providing e-mail addresses to let us know if they would like further information or updates from us or our site. Only those who request it will receive follow-up e-mail or other communications from us. We also offer visitors an "opt-out" option at any time they wish to cease receiving e-mails or other information from us.
 
-Personal information is used solely by us, and our affiliates, agents, business partners or third party service providers (“Approved Users”) who help make this site and its content, and the products and services at this site available to you, and in some instances, more customized for you; and who provide us data and other information to better serve you. In addition, we may disclose personal information that we collect or you provide as described in this Privacy Policy to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern or part of a bankruptcy, liquidation, or similar proceeding, in which personal information held by Banfield about our website users is among the assets transferred. We provide our Approved Users only with the information they need and we require them to protect and keep confidential your information. Although we use reasonable precautions to ensure that Approved Users protect your personal information, we cannot guarantee complete protection of your personal information to the same extent described in this Privacy Policy.
 
-With respect to employee referrals or job applications, we will hold your application or referral information (and the personal information contained in it) on file for a limited period, whether or not you are offered an interview. Approved Users may collect, save, process and use your personal information for the purpose of considering your application for employment for a limited period of time (not exceeding two years after submission of any modification). At any time you may revoke consent with effect from the date such revocation is notified to us pursuant to [Internet.Inquiries@banfield.net](mailto:Internet.Inquiries@banfield.net), except that personal information may be retained longer than the above described two years, if required under applicable law. To the extent any privacy policy posted on the Careers section of this site, or any click-through privacy policy on the referral or job application screen ("Career Privacy Policy"), if any, conflicts with this Privacy Policy, the Career Privacy Policy will govern.
+###  **How do we use your information?**
 
-Without limiting the foregoing, we reserve the right to use or disclose any personal information as needed to satisfy any law, regulation or legal request, to conduct investigations of consumer complaints or possible breaches of law, to protect the integrity of the site, to fulfill your requests, or to cooperate in any legal investigation.
+We may use your information for a variety of purposes including:  to provide products or services that you request; to administer promotions (sweepstakes, contests and offers); to communicate with you; to deliver advertising; to improve our websites, products and services; and for other legitimate business purposes.
 
-###  How do we use "cookies" and web beacons?
+  * Providing the features, products and services you request: We may use the information we collect about you to fulfill your requests for, and enable your use of, our features, products and services, including features such as a My Banfield online client account.
+  * Registration, contests and promotions: We may use your information to enter you in contests, to notify you of results and to register you for certain features, products and services.
+  * To communicate with you and provide you with information: We may use your information to communicate with you, to respond to your questions or comments, to provide you with updates and news, and, if applicable, to alert you when job vacancies that fit your profile arise (in the event that you submit your resume). We also may use your information to provide you with personalized content and information and to send you brochures, coupons, samples, offers and other information on our products or our family of companies. We ask visitors providing e-mail addresses to indicate if they would like further information or updates from us or our website and only those who request it will receive these types of communications from us. We may also ask if you would like to receive information about other products available from members of our family of companies.  Note that, regardless of your choices or stated preferences, you may still receive communications from us that facilitate, complete or confirm a commercial transaction that you have already agreed to enter with us ("transactional communications"), such as communications about your pet's health and appointment reminders, the completion of your registration, correction of user data, password reset requests, confirmation of transactions, shipping notices, and other similar communications essential to your transactions with us.
 
-**What are cookies?**  
-“Cookies” are data files that a website sends to your computer while you are viewing the site. These data files include information that allows our site to remember important information that will make your use of the site more efficient and useful. Our site uses cookies for a variety of purposes. We use cookie technology and IP addresses to obtain non-personal information from online visitors, and to provide registered visitors with the best possible personalized online experience.
 
-**How do we use cookies?**  
-Visitors to our site use different web browsers and different computers. To make your visits as easy as possible with the technology you use, we automatically keep track of the type of browser (e.g., Internet Explorer, Netscape) and operating system (e.g., Windows, Macintosh) used by a visitor, and the domain name of the visitor's Internet service provider. We also track the total number of visitors to our site in an aggregate form to allow us to update and improve our site. Personally identifiable information is not extracted in this process. This data tells us if more visitors prefer certain features or areas to others, which helps us keep our site fresh and interesting. We also use cookies to help prevent children from entering certain areas or features intended only for adults or older teens.
 
-**How do we use cookies to personalize your experience at our sites?**  
-Cookie technology helps us assess and deliver content tailored to a visitor’s interests. Sites that offer online shopping use cookies to remember and process the items in your shopping cart. Where permitted, we may associate personal information with a cookie file in such instances.
+You may have the ability to "opt-out" of certain of our uses of your information, and in some instances, you may need to "opt in" before we contact you in certain ways.  For more information, see Choices About How We Use and Disclose Your Information.
 
-**What if you don´t want cookies?**  
-If you don't want cookies, you can set your computer to warn you each time a cookie is being sent or turn off all cookies through your browser. (Check your browser HELP menu to learn the correct way to change or update your cookies.) If you disable cookies, you may be unable to access some of the features noted above.
+####  _How do we share and disclose your information?_
 
-**What are web beacons and how do we use them?**  
-Some of our web pages and e-mail updates may contain electronic images called web beacons, sometimes known as one pixel GIFs, clear GIFs or pixel tags. On websites, these allow us to count visitors who have viewed our pages. In promotional e-mail messages/newsletters they allow us to count how many subscribers have read them. Web beacons allow us to develop statistical information about the activities and features that most interest our consumers for the purpose of providing more personalized content. They are not used to access personally identifiable information without your consent.
+We may share or disclose your information:
 
-###  What about chat rooms, message boards, or other interactive forums?
+  * With our subsidiaries, affiliates, and business partners.
+  * With vendors or agents. For example, we may share your information with companies we have hired to provide services for us or on our behalf. When we share information with these other companies to provide services for us, they are not allowed to use any information that can personally identify you for any other purpose and must keep such information confidential unless you otherwise consent.
+  * Where your information may be transferred along with other business assets.  For example: to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Banfield's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Banfield about our Site users is among the assets transferred.
+  * To fulfill the purpose for which you provide it.
+  * To third parties for their marketing purposes.
+  * For any other purpose disclosed by us when you provide the information.
+  * At your direction or request or with your consent.
 
-We may offer blogs, message or bulletin boards, or interactive areas where visitors may post comments or information for our visitors’ information and enjoyment. If there is a blog, bulletin or message board, or other interactive areas where personal information may be posted at this site, be sure to check out the section entitled “Submissions” in our Terms and Conditions located at [Banfield.com/Terms-and-Conditions](https://web.archive.org/terms), before entering, as you will be bound by these provisions as well as our Terms and Conditions generally, located at [Banfield.com/Terms-and-Conditions](https://web.archive.org/terms). Our Terms and Conditions and this Privacy Policy establish restrictions and requirements for participation in these areas. As you know, anything you post online is available for the world to see. We make no representations and undertake no obligations as to information you voluntarily post.
 
-###  Is credit card / transaction information secure?
 
-We care about the safety and security of your transaction. We use SSL (Secure Sockets Layer) in compliance with the PCI DSS (Payment Card Industry Data Security Standard) to communicate with your browser software when you order from us online and thereby provide us with credit card or similar information. SSL is the industry standard security protocol, which makes it extremely difficult for anyone else to intercept your credit card / transaction and order information that you send us when you submit your online order. Otherwise, the transmission of information to and from us is not encrypted or secure. We take precautions to safeguard your credit card data in our internal systems.
+We may also share or disclose personal information, including the content of your communications:
 
-###  What do we do to safeguard personal information?
+  * To comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.
+  * To conduct investigations of consumer complaints or possible illegal activity, to protect the integrity of Banfield’s websites, to fulfill your requests or to cooperate in any legal investigation.
+  * To protect the rights or property of the Banfield, Banfield's affiliates, agents or our customers, including enforcing the terms governing your use of our websites and services (for example, for billing and collections purposes).
+  * To act on a good faith belief that access or disclosure is necessary to protect the safety of Banfield’s associates, customers or the public (for example, exchanging information with other companies and organizations for the purpose of fraud protection and credit risk reduction).
 
-We have instituted safeguards to check that our internal procedures meet our high policy standards. We also use our best efforts to be sure that third parties who are hired to develop and maintain this site and to fulfill your orders and requests, agree to protect all personal information they must access in order to serve our site and our visitors, and honor your preferences about contacts you receive. However, like other companies, we cannot guarantee 100% the security or confidentiality of the information that you provide to us.
 
-###  What about links to other websites?
 
-We may offer links to other sites. However, we try to link only with websites that share our values. You should always check the privacy policy of any linked website to understand their personal information collection practices, including how they may use cookies. We are not responsible for the content or information collection policies of sites operated by other companies. If you visit another site, you should review their privacy and other policies.
+Please note that our websites may include links to third-party websites with privacy practices that differ from those of Banfield. If you submit personal information to any third-party website, your information is governed by the privacy policy on it. We encourage you to review the privacy policy of any website that you visit.
 
-###  Policy Regarding Children
+###  What about children's privacy?
 
-We at Banfield believe it essential that parents are involved in their children's online experiences. That is why, in compliance with federal law, we do not knowingly collect information of any kind from anyone under the age of 13. If you become aware that a child under 13 has registered as a user of our site, please report the use to: [Internet.Inquiries@Banfield.net](mailto:Internet.Inquiries@Banfield.net) or telephone Banfield's Client Advocate Team at 1‑800-838-6738. If we become aware of a user under the age of 13 providing information on our site, we will terminate that account and purge our databases of all information provided by that user.
+  
+We at Banfield believe it is essential that parents are involved in their children's online experiences. Our Sites are primarily designed and intended for adults, except for "Kids" tab of [www.futurevet.](http://www.futurevet.com/)[ _net_](http://www.futurevet.net/), which is subject to the additional [FutureVet Privacy Policy Regarding Children](http://futurevet.net/misc-pages/policy-regarding-children).  In accordance with the Children's Online Privacy Protection Act ("COPPA"), Banfield does not knowingly collect or store personal information about children under age 13. We may ask visitors to enter a birth date to restrict those who are underage from accessing certain Sites, areas, or features.  If you become aware that a child under 13 has registered for a My Banfield online client account, our email newsletters, or otherwise provided us with their personal information, please report the use to:  [Privacy@banfield.com](mailto:Privacy@banfield.com).  If we become aware of a user under the age of 13 providing information on our Site without parental permission, we will terminate that account and purge our databases of all personal information provided by that user to the extent feasible.  For visitors to [www.futurevet.net](http://www.futurevet.net/) only, please see the additional [FutureVet Privacy Policy Regarding Children](http://futurevet.net/misc-pages/policy-regarding-children).  
 
-###  Your California Privacy Rights
+###  How do we use tracking technologies like "cookies", web beacons and other technologies?
 
-California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to: [Internet.Inquiries@banfield.net](mailto:Internet.Inquiries@banfield.net) or telephone Banfield’s Client Advocate Team at: 1-800-838-6738.
+As you navigate through and interact with each Site, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
-###  What should you do if you have questions, wish to access, update or delete information, or wish to opt out of receiving future communications?
+  * Details of your visits to each Site, including traffic data, location data, logs and other communication data and the resources that you access and use on the Site.
+  * Information about your computer and internet connection, including your IP address, operating system and browser type.
 
-If you would like us to access, update, change, or delete information about you in our database (subject to any applicable legal exceptions), would like to opt out of receiving further communications from us, or have your questions about our Privacy Policy answered, please contact us via email to: [Internet.Inquiries@Banfield.net](mailto:Internet.Inquiries@Banfield.net) or telephone Banfield's Client Advocate Team at 1‑800-838-6738.
 
-Copyright 2013 © Medical Management International, Inc. All rights reserved.
+
+We (through our service providers) or other third parties use technologies like cookies and web beacons to automatically collect information to support certain functions at our Site, to understand our visitors, and to offer ads or promotions on our websites or at non-affiliated third-party websites, sometimes also using information collected through technology at one of our affiliates' websites and sometimes through third-party networks. Service providers or publishers may display ads for our products or services at unaffiliated third-party websites based on your online activities. We support self-regulatory programs for this practice, called interest-based advertising or online behavioral advertising.  To learn more about interest-based advertising and our practices, see our [Banfield Interest-Based Advertising Policy](http://www.banfield.com/iba-policy). Please note that the third party websites, at which you might see our ads have their own privacy statements and use technologies which we do not control. We encourage you to read those policies carefully.  
+The information we collect automatically typically does not include personal information (as defined above), but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. The automatic collection of data helps us to improve each Site and to deliver a better and more personalized service, including by enabling us to:
+
+  * Estimate our audience size and usage patterns.
+  * Store information about your preferences, allowing us to customize our Site according to your individual interests.
+  * Speed up your searches.
+  * Recognize you when you return to our Site.
+
+
+
+####  What are cookies and how do we use them?
+
+  
+
+
+“Cookies” are data files that are sent to your computer while you are viewing the Site. These data files include information that allows us to remember important information that will make your use of the Site more efficient and useful to you. Our Sites use cookies for a variety of purposes.
+
+  Visitors to our Sites use different web browsers and different computers. To make your visits as easy as possible with the technology you use, we automatically keep track of information like the type of browser (e.g., Internet Explorer, Safari, or Firefox) and operating system (e.g., Windows, Mac-OS X) you use, your IP address, domain name of your Internet service provider, websites visited before and after this Site, pages viewed and activities at our Site, and advertisements seen or clicked on. We also track the total number of visitors to our Sites in an aggregate form to allow us to update and improve them. Personal information is not extracted in this process. This information tells us if more visitors prefer certain features or areas to others, which helps us keep our Sites fresh and interesting to the majority of our visitors.
+
+  Cookie technology helps us deliver content tailored to a visitor’s interests, and allows us to make ordering products, entering and participating in sweepstakes and contests, and offering other functions at our Site easier for our visitors. Sites that offer online shopping use cookies to remember and process the items in your shopping cart. Where permitted, we may associate personal information with a cookie file in such instances (i.e. when you click "remember me" with regards to your username and password).
+
+  Please note that we may allow third parties to advertise on our Sites or automatically collect information from our Sites for purposes of advertising. These third parties may place cookies on your computer for these purposes. Banfield does not control the cookies of third parties. To opt-out of these third party cookies please click [here](http://www.banfield.com/iba-policy).
+
+####  What are web beacons and how do we use them?
+
+Some of the pages of our Sites and our e-mails may contain electronic images called “web beacons” (sometimes known as one pixel GIFs, clear GIFs or pixel tags). Web beacons allow us to count visitors who have viewed our webpages, helping to indicate the popularity of the page content. In e-mail messages, promotional materials and newsletters, web beacons allow us to count how many subscribers have read them, and verifying the address provided, system and server integrity. Web beacons allow us to develop statistical information about the activities and features that most interest our consumers for the purpose of providing more personalized content.
+
+###  Choices About How We Use and Disclose Your Information.
+
+  * _**What if you don't want cookies (browser or flash)?**_  Our systems may not recognize "do not track" signals from your browser, but you can use the "help" function of your browser to find out how to set your browser to not accept new cookies, to notify you when a cookie is issued, or how to disable cookies altogether.  To learn how you can manage your Flash cookie settings, visit the Flash player settings page on [Adobe's website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If you disable or refuse cookies, please note that some parts of this Website may be inaccessible or not function properly.
+  * **_How can you opt-out of receiving interest-based ads?_** In providing interest-based ads, we follow the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance ("DAA").  More information about these principles can be found [here](http://www.aboutads.info/obaprinciples). For more information about interest-based advertising on our Sites and to opt-out, please see our [Banfield Interest-Based Advertising Policy](http://www.banfield.com/iba-policy). You can also generally opt-out of receiving interest-based ads from third party advertisers who are members of the [Network Advertising Initiative ("NAI")](http://www.networkadvertising.org/) or who follow the [DAA Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/) by visiting the opt-out pages on the NAI website and DAA website.
+  * **_What if you don't want Promotional Offers from us?_**   Whether or not you have previously opted in, if you no longer wish to have your personal contact information used by us to promote our own or third parties' products or services, send us an e-mail stating your request to [Privacy@banfield.com](mailto:Privacy@banfield.com) or write to Attn: Banfield Promotional Opt-Out, PO Box 13998, Portland, OR 97213. If you have a My Banfield account, you may also log-in to your account and adjust your "Contact Preferences."  If we have sent you a promotional e-mail, you may also follow the unsubscribe process at the bottom of the e-mail to opt-out of receiving additional promotional e-mails from us. In some instances, we may request your consent in advance of sending you promotional emails, and by declining to provide consent, you will not receive certain emails from us. Note that any opt-out request you make or your decision not to provide consent to receive certain emails will not apply to transactional communications (as defined above) from us that you may receive.
+  * _**What if you do not wish us to share your personal information with other third parties?  **_ If we engage in the practice of sharing your personal information with third parties for their own marketing purposes, before we do so, we will first ask you to agree to such sharing (either through an opt-in or opt-out method).  If you do not agree, we will not engage in this type of sharing of your personal information.  If you agree, but later decide you do not want us to continue to share your personal information this way, contact us at [Privacy@banfield.com](mailto:Privacy@banfield.com) with your request. 
+
+
+
+###  What else do you need to know?
+
+  
+
+
+####  Where is your information stored and processed?
+
+ 
+
+Personal information collected on our Sites and services may be stored and processed in the United States or any other country where Banfield or its affiliates, subsidiaries or service providers maintain facilities.
+
+  The servers and databases in which information may be stored may be located outside the country from which you accessed this Site and in a country that does not have the same privacy laws as your country of residence. The personal information you provide us may be transmitted abroad, but we will collect, process and use personal information only in accordance with this Privacy Statement. Employment-related queries may also be transferred to Banfield, or its affiliate family of companies. By visiting this Site and submitting information, you consent to such collection, processing, transfer and/or storage of your personal information.
+
+####  What about blogs, message boards, social networking opportunities, or other interactive forums? 
+
+   
+We may offer blogs, message or bulletin boards, social networking opportunities, or interactive areas where visitors may post comments or information for our visitors' enjoyment. If there are blogs, bulletin or message boards, social networking opportunities, or other interactive areas where personal information may be posted at this Site, be sure to review any posted rules before entering, as you will be bound by them as well as our Site's [Terms & Conditions](http://www.banfield.com/terms) generally.  Rules for participation in interactive features may establish age and other restrictions on participation. Anything you post online is public information, and Banfield is not responsible for anything you voluntarily post online. Users should exercise caution when disclosing personal information online.  
+ 
+
+####  How do we safeguard your information?
+
+ 
+
+We have implemented administrative, physical and technical safeguards designed to protect your information. If online shopping is permitted at the Site, we use encryption technology to communicate with your browser software when you order from us online and provide us with payment card or related information. Otherwise, the transmission of information to and from us is not encrypted or secure.
+
+  We have instituted safeguards to check that our internal procedures meet our high policy standards. We also use our best efforts to be sure that third parties who are hired to develop and maintain this Site and to fulfill your orders and requests, agree to protect all personal information they must access in order to serve our Site and our visitors, and honor your preferences about contacts you receive.
+
+  No security measures can be 100% secure, however, and so we recommend that you take additional measures to protect yourself and your information, including by installing up to date anti-virus software, closing browsers after use, keeping confidential your log-in credentials and passwords, and making sure that you regularly update software and apps you have downloaded to ensure you have enabled the latest security features on your devices. 
+
+####  Changes to this Privacy Statement.
+
+   
+We may update this Privacy Statement from time to time, so please visit this page periodically and review this statement for changes. We will notify you of material changes to this Privacy Statement by posting a notice on our home page for a reasonable period of time and changing the "Updated" date above.  Your continued use of our Sites following the posting of changes will mean that you accept the changed terms.
+
+####  What should you do if you have questions, wish to access, update or delete information, or wish to opt-out of receiving future communications?
+
+   
+If you would like us to access, update, change, or delete information we have about you in our marketing database (subject to any applicable legal exceptions), would like to opt-out of receiving further communications from us, or have questions about our Privacy Statement, please click [here](mailto:Privacy@banfield.com).
+
+####  How can you contact us?
+
+   
+Banfield Privacy Team  
+PO Box 13998  
+Portland, OR 97213  
+E-mail: [Privacy@banfield.com](mailto:Privacy@banfield.com)  
+ 
+
+####  What are your California Privacy Rights?
+
+   
+California law permits residents of California to opt-out of Banfield’s disclosure of personal information to third parties for their direct marketing purposes. You may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to PO Box 13998, Portland, OR 97213 or by e-mailing us at [Privacy@banfield.com](mailto:Privacy@banfield.com). Please note that this opt-out does not prohibit disclosure made for non-marketing purposes. California law also permits residents of California to request and obtain from us once per year, free of charge, a list of the third parties (if any) to whom we have disclosed personal information for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an e-mail to: [Privacy@banfield.com](mailto:Privacy@banfield.com) or by writing to PO Box 13998, Portland, OR 97213. Requests via telephone or facsimile will not be accepted. The e-mail subject line or mailing envelope and the content of your request must include the phrase "Your California Privacy Rights," and include your name, e-mail address (if you wish to receive a response via e-mail) or street address, city, state, zip code (if you wish to receive a response via postal mail). 
