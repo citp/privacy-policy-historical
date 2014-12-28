@@ -1,88 +1,68 @@
-> *The following text is extracted and transformed from the lumosity.com privacy policy that was archived on 2012-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121128104445id_/http%3A//www.lumosity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumosity.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228210014id_/http%3A//www.lumosity.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Brain Games & Brain Training - Lumosity - Privacy Policy
+# Lumosity - Privacy Policy - Lumosity
 
-Effective 3/30/07
+Lumos Labs, Inc. (“Lumos Labs” or “we” ) knows your privacy is important to you and we are committed to providing a safe and secure user experience. This Privacy Policy is incorporated into the Lumosity Terms of Service, and applies to the use of Lumosity online at [Lumosity.com](http://www.lumosity.com/) and on mobile devices (collectively, “Lumosity” or “Services”). It describes how we collect, use, secure, and share information of our users and individuals whose payment details are used to purchase Lumosity (collectively, “you”).
 
-Last Updated 9/5/2008 
+**Information you provide.** You are not required to create a Lumosity account to gain access to many areas of Lumosity. If you do create an account, we ask for certain information to process your registration, including an email address and password. If you subscribe to a paid account, we request additional information, including your full name and payment method details.
 
-Lumosity is created by Lumos Labs, Inc. At Lumos Labs, Inc. (“Lumos Labs”, “Company”, “we”, “us” or “our”), we know your privacy is important to you and Lumos Labs is fully committed to your privacy. 
+To help personalize your experience, we also ask for certain, limited demographic information, including your first name, gender, date of birth and education level. Providing most of this information is optional. We also allow you to upload a photo of yourself and select your preferences for training, language, and receiving email communications.
 
-This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”, as more fully defined below) that we gather when you are accessing our Website, Lumosity.com (the “Site”). This policy does not apply to processes we do not control, or to individuals that we do not employ or manage. 
+If you sign in to Lumosity using your Facebook or other third party credentials, we will use that service to authenticate you. We may also collect other information that you have agreed may be provided by that third party, such as your username, name, e-mail address, date of birth and gender. We collect this information so that it can be used for the purposes explained in this Policy.
 
-BY USING THE SITE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE SITE. 
+We may supplement the information you provide to us with additional information gathered from other sources, such as publicly available information.
 
-### WHAT INFORMATION DO WE COLLECT?
+**Data we collect.** In addition to the information you provide to us, when you use Lumosity, we may also automatically collect and store information about the computer, mobile device, or other devices you use to access Lumosity and about how you use Lumosity. For example, we collect and store data about the games you play and your performance in those games. We may also collect and store information such as your browser type, IP address, language, operating system, unique device identifier, the date and time of your visit, the pages you view and the websites you visited immediately before and after visiting Lumosity.
 
-We gather information which enables us to personalize and improve our services. We collect the following types of information from our customers.
+_Our use of cookies._ To collect information, we use cookies and other standard web technologies (e.g., pixel tags). Cookies are small text files placed on the browser of your computer or mobile device when you visit a website that collect non-personal information. We use “persistent cookies” to save your login information for future logins to Lumosity. We use “session ID cookies” to enable certain features of Lumosity, to better understand how you interact with the Service and to monitor aggregate usage and web traffic routing on the Service. Most browsers automatically accept cookies, but allow you to disable cookies through the “options” or “preferences” menu of your browser. Please be aware that disabling cookies could interfere with the functionality of Lumosity.
 
-Personal Information You Provide To Us:
+Third parties whose products or services are accessible in Lumosity, including social networking services like Facebook, may also use cookies or similar tools. Please review their privacy policies for information about their cookies and other privacy practices.
 
-In order for you to use certain of the Site’s Services, you may be asked to provide to us with certain Personal Information. Personal Information includes, without limitation: (1) “Contact Data” (such as your name, company name, mailing address, and e-mail address); (2) “Financial Data” (such as your account or credit card number); and (3) “Demographic Data” (such as you zip code and age). In each case, you will be asked to provide Personal Information; the Site will not gather it surreptitiously. Company may supplement the Personal Information you provide with additional Personal Information gathered from public sources or from third-parties (e.g., consumer reporting agencies) who may lawfully provide such information to us.
+The third-party advertising and analytics companies with whom we or our advertisers partner, including Google and New Relic, may place a unique cookie or utilize similar technologies on your browser in order to collect non-personal information about your visits to Lumosity. If you would like more information about this practice and how to control how this information is used by these companies, please visit the following links:
 
-You are under no obligation to provide Personal Information, with the caveat that your refusal to do so may prevent you from using certain of the Site’s Services.
+<http://www.networkadvertising.org/choices>
 
-Information Collected Automatically:
+[http://www.aboutads.info/choices](http://www.aboutads.info/choices/)
 
-We may receive and store certain types of information whenever you interact with our Web site or services. The Company automatically receives and records information on our server logs from your browser including your IP address, Company cookie information, the page you requested and game, test and training program data.
+We use the information we collect to operate and provide you with Lumosity. This includes, but is not limited to:
 
-Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components, similar to TV ratings that indicate how many people watched a particular show. Company uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally.
+  * Authenticating your login and processing your payments;
+  * Personalizing your Lumosity experience and customizing your training program;
+  * Allowing you to monitor your performance and progress in Lumosity, by, for example, presenting charts and graphs of your performance to you;
+  * Customizing and delivering information about our products and services by email;
+  * Providing customer service and sending confirmations about your account;
+  * Protecting our intellectual property or other rights; and
+  * Managing and improving our business, our games, and our training.
 
-What Are Cookies?
 
-Like many websites, we use cookies and other standard web technology to collect information for our own use.
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our Site are visited and by how many people.
+You can opt out of receiving most emails by navigating to your Email Notifications page, but we reserve the right to email you to confirm transactions or to address account issues, such as when you make a purchase, or you request a reset password.
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Web site’s most attractive features. If you disable the cookie feature, you assume all responsibility for any resulting loss of functionality on the Site.
+We also reserve the right to use non-personal information (e.g., de-identified or aggregate data) for any purpose. For example, we show aggregate performance measures to users to allow them to evaluate their performance against other Lumosity users. Also, in connection with our [Human Cognition Project](http://www.lumosity.com/hcp), we may disclose performance statistics to university collaborators to evaluate, study, and improve the effectiveness of our programs or human cognition more generally. In these situations, all data is disclosed either in aggregate form or with information that can identify you removed. In addition, when we work with university collaborators, we contractually prohibit them from attempting to re-identify individuals from data that has been de-identified.
 
-### HOW WE USE YOUR PERSONAL INFORMATION
+We believe in protecting your privacy, and therefore do not provide your personal information to third parties for their marketing purposes.
 
-We use information we collect to authenticate your visits and send you information and products.
+We may share your personal information in the following ways:
 
-If you have opted in to receiving marketing information, we use your personal information to customize and deliver that information to you. 
+  * **Service providers and agents.** We may share your information with certain third parties selected by us to help support our operations. These include, for example, services that help us process payments, analyze web traffic, send emails, and track customer service requests. In addition, we may share limited personal information to third parties that help us market or advertise Lumosity. These third parties may have access to your information only for purposes of performing these tasks on our behalf and we contractually require them to protect your information consistent with this Privacy Policy.
+  * **Affiliates.** We may share your information with our corporate affiliates, such as entities under common ownership or control.
+  * **Business transfers.** We may sell, transfer, or otherwise share some or all of our assets in connection with a merger, reorganization, business transaction, or in the event of bankruptcy. In such scenarios, your information may be one of the assets transferred. We will post a notice or otherwise notify you before the information is transferred and becomes subject to a different privacy policy.
+  * **Compliance with law and law enforcement requests, and protection of our rights.** We may disclose your information when we have a good faith belief we are required to do so by law, or in response to a subpoena, court order, or other legal mechanism. We may also disclose your information when we have a good faith belief that disclosure may prevent fraud and abuse of Lumosity or its users or protect our property rights.
+  * **Consent.** We may disclose your information when we believe we have your consent to do so, such as when you contact customer service and ask us about your account, or when we have the consent of someone we believe is authorized to consent on behalf of you, such as the individual associated with the payment method for your account. If you have expressly agreed to participate in a research study with us or with a third party that incorporates your personal information collected by Lumosity, we also may disclose your information for the purpose of facilitating the research to which you have consented.
 
-We also use the information to manage and improve our Site, our games and our training. We may use your information, in aggregate form and in collaboration with outside researchers, to measure and quantify the effectiveness of our program. In our research, all the data is used in aggregate form or with your personal information removed. At no point will you be personally identifiable.
 
-We may enhance or merge personal information with your other information and with data from third parties in order to better market and provide our products and services.
 
-The Site may contain features, e.g. blogs, chat rooms, etc., that permit you to upload, post, transmit, display, perform or distribute content, information or other, including personal information. Any information that you choose to disclose by means of such features becomes public information over which we are unable to exercise control. You should exercise caution when deciding to disclose information by means of such features, and you agree to assume all responsibility for doing so.
+You can access, review and correct the registration and demographic information we have collected about you by logging into your account and navigating to the Account page. You may also access or delete the information all of the information we have collected about you by contacting us at the contact information listed below. While we will make reasonable efforts to accommodate your requests, if allowed by applicable laws, we reserve the right to impose certain requirements and restrictions on such requests, such as limiting our production of information to certain formats.
 
-### LIMITED DISCLOSURE OF YOUR PERSONAL INFORMATION TO THIRD PARTIES
+We have implemented and maintain reasonable security practices to protect against the unauthorized access, use, modification, destruction or disclosure of your personal information. For example, we use one or more of SSL encryption, firewalls, and anti-virus software. However, no method of transmission or storage is completely secure, and we therefore cannot guarantee absolute security.
 
-Personal Information about our customers is an integral part of our business. We do not share Personal Information with unrelated third parties for their direct marketing purposes. We share your Personal Information only with our partners and affiliates as described below. We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include processing credit card payments with a secure third party provider. Unless we tell you differently, these agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us.
+If you access Lumosity outside of the United States, you fully understand and unambiguously consent to the transfer of your personal information to, and the collection and processing of such personal information in the United States.
 
-We also disclose Personal Information when required to do so by law, or in response to a subpoena, court order, or other legal mechanism, or when we believe, in our sole discretion, that disclosure is reasonably necessary to protect the property or rights of the Company, third parties or the public at large.
+This Privacy Policy may be updated from time to time. If we make material changes, we will provide advance notice to you either by email, by posting a notification on Lumosity or by posting an updated TOS on Lumosity 45 days in advance of the effective date of the updated TOS. Please note that, for existing users, unless otherwise provided by applicable law, your continued use of Lumosity following the effective date means that you agree with, and consent to be bound by, the updated TOS.
 
-We reserve the right to sell, transfer or otherwise share some or all of our assets, including information provided by you, in connection with a merger, reorganization or sale of some or all of our assets or in the event of bankruptcy. In any such event, personally identifiable and other information may be one of the assets transferred. We will post notice before personal information is transferred and becomes subject to a different privacy policy. You hereby consent to our sharing of Personal Information for the above purposes.
+We welcome inquiries or comments about our Privacy Policy via our [help center](https://help.lumosity.com/anonymous_requests/new). You may also send a letter to the following address:
 
-### IS PERSONAL INFORMATION ABOUT ME SECURE?
-
-The Site has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of your Personal Information. For example, we use one or more of SSL encryption, firewalls and self-updating anti-virus software. User purchase information is encrypted.
-
-### CHOICE
-
-You are not required to register to gain access to many areas of the Site. If you use the Site’s personalized services, however, we will treat your Personal Information as described in this Privacy Policy.
-
-### MORE ON PRIVACY
-
-Children’s online privacy protection
-
-Lumos Labs understands the importance of protecting children’s privacy, especially in an online environment. Accordingly, the Site and the Software are not designed for or directed at children; the subject matter of the Site is not designed for or directed at children; and the content, including any video or audio, on the Site is not designed for or directed at children. Likewise, it is our policy not to knowingly collect, maintain, use or disclose information about anyone under the age of 13.
-
-Links to third party sites
-
-The Site may contain links to third party websites. The Company neither owns nor controls these third-party websites and accordingly assumes no responsibility for the information practices of those websites. You should inform yourself with the privacy policies (if any) of those third-party websites.
-
-### CHANGES TO THE PRIVACY POLICY
-
-This Privacy Policy may be updated from time to time as our services change and grow. We will indicate any such changes at the privacy link at the bottom of our home page. Accordingly, each time you use the Site you should check the “Last Updated” date of this privacy policy (located at the top), and review any changes since you last accessed the Site. Such changes are effective ten (10) calendar days after the Last Updated date (the date they become effective is the “effective date”). Unless Company obtains your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
-
-### QUESTIONS AND CONCERNS
-
-We welcome inquiries or comments about our Privacy Policy and any queries or concerns about Lumos Labs by email at info@lumoslabs.com. You may also send a letter to the following address:
-
-Director of Privacy   
-Lumos Labs   
-153 Kearny Street, 6th Floor   
-San Francisco, CA, 94108
+Director of Privacy  
+Lumos Labs  
+140 New Montgomery Street, Floor 19  
+San Francisco, CA 94105 
