@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the playvid.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628053613id_/http%3A//www.playvid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playvid.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228215846id_/http%3A//www.playvid.com/privacy) for the most accurate reproduction.*
 
-# PlayVid is biggest and hottest XXX & Free Porn website. Updated new users videos EVERY 10 MINUTES
-
-## Privacy Policy
+# Privacy Policy - PlayVid
 
 Pursuant to our Terms of Use, this document describes how we treat personal information related to your use of PlayVid.com (the “Website”), including information you provide when using it.
 
