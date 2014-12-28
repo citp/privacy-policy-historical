@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myonlinearcade.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626152402id_/http%3A//myonlinearcade.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myonlinearcade.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228201851id_/http%3A//myonlinearcade.com/privacypolicy) for the most accurate reproduction.*
 
 # My Online Arcade Privacy Policy
 
