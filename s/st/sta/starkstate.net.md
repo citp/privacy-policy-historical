@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the starkstate.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140530id_/http%3A//www.starkstate.edu/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkstate.net privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229005634id_/http%3A//starkstate.net/privacy-policy) for the most accurate reproduction.*
 
-# Stark State College Privacy Policy Statement
-
-**Stark State College Privacy Policy Statement**
+# Privacy Policy | Stark State College - North Canton, Ohio
 
 This is the Web site of **Stark State College**.
 
@@ -10,8 +8,7 @@ Our postal address is:
 **6200 Frank Avenue NW  
 North Canton, Ohio 44720**
 
-We can be reached via email at  [webmaster@starkstate.edu](mailto:webmaster@starkstate.edu) or you can reach us by telephone at  
-330-494-6170, Ext. 4299
+We can be reached via email at [webmaster@starkstate.edu](mailto:webmaster@starkstate.edu) or you can reach us by telephone at 330-494-6170, Ext. 4299
 
 For each visitor to our Web site, our Web server automatically recognizes only the user's domain name, but not the email address.
 
@@ -43,4 +40,4 @@ Users can have this information corrected by calling us at the above telephone n
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving user data exchanged with our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202-FTC-HELP  
-(202-382-4357) or electronically at  [ http://www.ftc.gov/ftc/complaint.htm](http://www.ftc.gov/ftc/complaint.htm)
+(202-382-4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>
