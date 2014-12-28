@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628181446id_/http%3A//www.entertainmentcareers.net/jobseeker/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228063333id_/http%3A//www.entertainmentcareers.net/jobseeker/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
