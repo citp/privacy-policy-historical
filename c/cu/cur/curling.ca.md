@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the curling.ca privacy policy that was archived on 2012-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121123054453id_/http%3A//www.curling.ca/about-the-organization/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curling.ca privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228081458id_/http%3A//www.curling.ca/about-the-cca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Canadian Curling Association
+# Privacy Policy | Canadian Curling Association
 
-## Privacy Policy
-
- **Article 1 – General**
+**Article 1 – General**
 
 1.1 Background – Privacy of personal information is governed by the Personal Information Protection and Electronics Documents Act (“PIPEDA”). This policy describes the way that the CCA collects, uses, safeguards, discloses and disposes of personal information, and states CCA’s commitment to collecting, using and disclosing personal information responsibly. This policy is based on the standards required by PIPEDA, and the CCA’s interpretation of these responsibilities.
 
@@ -36,7 +34,7 @@
 
 1.7 Ruling on Policy – Except as provided in the Act, the CCA’s Privacy Officer will have the authority to interpret any provision of this Policy that is contradictory, ambiguous, or unclear.
 
- **Article 2 - Accountability**
+**Article 2 – Accountability**
 
 2.1 Privacy Officer – Patricia Ray, Chief Operating Officer, is the CCA’s Privacy Officer and is responsible for the implementation of this policy and monitoring information collection and data security, and ensuring that all employees receive appropriate training on privacy issues and their responsibilities. The Privacy Officer also handles personal information access requests and complaints. The Privacy Officer may be contacted at the following address:
 
@@ -59,7 +57,7 @@ Email: [privacyofficer@curling.ca](mailto:privacyofficer@curling.ca)
 
 2.3 Employees – The CCA will be responsible to ensure that the employees, contractors, agents, or otherwise are compliant with the Act and this Policy.
 
- **Article 3 – Identifying Purposes**
+**Article 3 – Identifying Purposes**
 
 3.1 Purpose – Personal information may be collected from Representatives and prospective Representatives and will only be used to meet and maintain the highest standards related to the organization and programming of curling. The CCA will use personal information for purposes that include, but are not limited to, the following:
 
@@ -99,7 +97,7 @@ Email: [privacyofficer@curling.ca](mailto:privacyofficer@curling.ca)
 
 3.6 Social Media User Agreement and Terms of Use – In addition to the requirements and information provided within this Policy, Representatives and Potential Representatives accessing the CCA website and/for social media platforms are also subject to the terms and conditions of the CCA Social Media User Agreement and Terms of Use.
 
- **Article 4 - Consent**
+**Article 4 – Consent**
 
 4.1 Consent – The CCA will obtain consent by lawful means from individuals at the time of collection and prior to the use or disclosure of the applicable personal information. The CCA may collect personal information without consent where reasonable to do so and where permitted by law.
 
@@ -146,7 +144,7 @@ Email: [privacyofficer@curling.ca](mailto:privacyofficer@curling.ca)
 
 
 
- **Article 5 - Limiting Collection, Use, Disclosure and Retention**
+**Article 5 – Limiting Collection, Use, Disclosure and Retention**
 
 5.1 Limiting Collection, Use and Disclosure – The CCA will not collect, use or disclose personal information indiscriminately. Information collected will be for the purposes specified in Article 3.1, except with the consent of the individual or as required by law.
 
@@ -154,11 +152,11 @@ Email: [privacyofficer@curling.ca](mailto:privacyofficer@curling.ca)
 
 5.3 Destruction of Information – Documents will be destroyed by way of shredding and electronic files will be deleted in their entirety.
 
- **Article 6 - Safeguards**
+**Article 6 – Safeguards**
 
 6.1 Safeguards – Personal information will be protected by security safeguards appropriate to the sensitivity of the information against loss or theft, unauthorized access, disclosure, copying, use or modification.
 
- **Article 7 - Individual Access**
+**Article 7 – Individual Access**
 
 7.1 Access – Upon written request, and with assistance from the CCA, an individual may be informed of the existence, use and disclosure of his or her personal information and will be given access to that information. As well, an individual is entitled to be informed of the source of the personal information along with an account of third parties to whom the information has been disclosed.
 
@@ -177,7 +175,7 @@ Email: [privacyofficer@curling.ca](mailto:privacyofficer@curling.ca)
 
 7.5 Identity – Sufficient information will be required to confirm an individual’s identity prior to providing that individual an account of the existence, use, and disclosure of personal information.
 
- **Article 8 - Challenging Compliance**
+**Article 8 – Challenging Compliance**
 
 8.1 Challenges – An individual will be able to challenge compliance with this Policy and the Act to the designated individual accountable for compliance.
 
@@ -200,6 +198,6 @@ Email: [privacyofficer@curling.ca](mailto:privacyofficer@curling.ca)
 
 
 
- **Article 9 - Applicable Law**
+**Article 9 – Applicable Law**
 
 9.1 Applicable Law – The laws of the province of Ontario will govern.
