@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000428id_/http%3A//8notes.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8notes.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228143335id_/http%3A//www.8notes.com/help/privacy.asp) for the most accurate reproduction.*
 
 # 8notes.com Privacy Policy
 
@@ -21,11 +21,6 @@ In the course of serving advertisements to this site, our third-party advertiser
   
 When you sign up for our free newsletter or subscription service, we need only an e-mail address, which we use to send the information you requested. If at any time you wish do unsubscribe from our newsletter, simply send an email to [admin@8notes.com](mailto:admin@8notes.com) and include the words "unsubscribe" in the subject heading of your message.
 
-## Tell-a-Friend service
-
-  
-If you refer someone to our site through the 8notes.com Tell-a-Friend service, we ask for your e-mail address and that of the recipient in order to complete your request. We will never disclose or send promotional e-mail to recipient addresses provided only to the 8notes.com Tell-a-Friend service. 
-
 ## Use of Information Collected
 
   
@@ -39,6 +34,4 @@ By using our web site, you consent to the collection and use of this information
 ## Feedback
 
   
-8notes.com welcomes your questions and comments about privacy. Please send e-mail to [admin@8notes.com](mailto:admin@8notes.com). 
-
-Top of Page
+8notes.com welcomes your questions and comments about privacy. Please send e-mail to [admin@8notes.com](mailto:admin@8notes.com). Top of Page
