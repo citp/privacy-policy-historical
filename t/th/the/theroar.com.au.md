@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theroar.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630020159id_/http%3A//theroar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theroar.com.au privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228133618id_/http%3A//www.theroar.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Roar
 
-As used in this Privacy Policy, “The Roar” refers to all websites (including theroar.com.au), mobile sites, applications, social media, and other properties or services owned or operated by The Roar Sports Media Pty Ltd.
+As used in this Privacy Policy, “The Roar” refers to all websites (including theroar.com.au and theroar.tv), mobile sites, applications, social media, and other properties or services owned or operated by The Roar Sports Media Pty Ltd.
 
 By visiting The Roar, viewing our content and/or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
