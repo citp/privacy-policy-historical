@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photographicblog.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045250id_/http%3A//photographicblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photographicblog.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229000144id_/http%3A//photographicblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Photographic Blog
 
