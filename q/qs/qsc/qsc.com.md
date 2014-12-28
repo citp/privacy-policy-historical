@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsc.com privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410045032id_/http%3A//www.qsc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsc.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228103022id_/http%3A//qsc.com/privacy-policy) for the most accurate reproduction.*
 
 # QSC Audio Products :: PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY
 
