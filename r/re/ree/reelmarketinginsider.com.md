@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reelmarketinginsider.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611034514id_/http%3A//www.reelmarketinginsider.com/privacy-and-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reelmarketinginsider.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228074339id_/http%3A//www.reelmarketinginsider.com/privacy-and-policy) for the most accurate reproduction.*
 
 # Privacy and Terms | Reel Marketing Insider
 
 We can be reached via e-mail at support@JamesWedmore.com
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer?s domain name and e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who:
 
@@ -27,7 +27,7 @@ The information we collect is used to:
 
 
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide
+With respect to cookies: We use cookies to store visitors’ preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide
 
 **CONTACT INFORMATION:**
 
