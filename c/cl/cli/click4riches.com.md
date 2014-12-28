@@ -1,0 +1,73 @@
+> *The following text is extracted and transformed from the click4riches.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228200639id_/http%3A//www.click4riches.com/hosting/staticpages/privacy.aspx) for the most accurate reproduction.*
+
+# 
+
+_**Last Updated**_ **: _November 12_** _ **, 2013**_
+
+Thank you for visiting the Click4Riches™ website located at  _[www.click4riches.com](http://www.click4riches.com/)_  (the "Site"). The Site is an Internet property of What If Holdings, LLC ("Click4Riches™," "we," "our" or "us"). Click4Riches™ is committed to protecting the privacy of our visitors' personally identifiable information ("PII"). To better inform you of our privacy practices, we provide this Privacy Policy ("Privacy Policy"), explaining our online information practices and the choices that you can make regarding the way that your PII is used by us. You agree to this Privacy Policy, in its entirety, when you: (a) access or use our Site; (b) register as an interactive member on the Site ("Commenter"); (c) register for one of our sweepstakes and/or promotions (“Promotions”); (d) register for our services via a coregistration on another website; and/or (e) register as a content producer on the Site ("Contributor"). If you do not agree to this Privacy Policy in its entirety, you are not authorized to enter a Promotion, become a Commenter and/or Contributor and/or use the Site in any manner or form whatsoever.
+
+**Telemarketing Consent:**
+
+**By signing up for our services on this site or via another site (“Coregistration”), you consent to receive autodialed and/or pre-recorded telemarketing calls from or on behalf of Company,** **Academic Advisor, The Daily Jackpot, Great American Readers, Global Readers, Time2 Read, Midwest Periodicals, JMS Marketing, American Discount Services, Subscription Ink and its affiliates, and Degree Insider** **at the number you provided.** Please see complete information in the section labeled **Use and Sharing of PII** below.
+
+**Personally Identifiable Information:**
+
+We collect PII when you register or sign up for Click4Riches PII includes any information that can be used to identify or locate a particular person or entity. The information that we may request may  include, but is not limited to, your: (a) full name; (b) e-mail address; (c) mailing address; (c) daytime and/or cellular telephone numbers; (d) date of birth; and/or (e) any other information requested on the applicable form.     **We may also collect your PII when you otherwise agree to the terms of this Privacy Policy, but do not complete the applicable registration process in full.**
+
+**Non-Personally Identifiable Information:**
+
+We may collect certain Non-Personally Identifiable Information ("Non-PII") about you when you visit any of the Site's pages, such as the type of browser you are using (e.g.,  Internet Explorer), the type of operating system you are using, (e.g., Windows) and the domain name of your Internet service provider (e.g., Yahoo). We use the Non-PII that we collect to improve the design and content of the Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze Site usage.
+
+**Cookies:**
+
+When a user visits the Site, we may send one (1) or more cookies and/or gif files (collectively, "Cookies") to assign an anonymous, unique identifier to the applicable user’s computer or other device.  A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you.  Cookies have many benefits to enhance your experience at the Site.  To find out more about Cookies, please visit www.cookiecentral.com.  We use Cookies to improve the quality of the Site, including for storing user preferences, improving ad selection and tracking Site-user trends (such as pages opened and length of stay at the Site).
+
+Most Internet browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a cookie is being sent. To disable and reject certain Cookies, follow the instructions associated with your Internet browser. Even in the case where a user rejects a Cookie, he or she may still use the Site;  _provided, however,_  that certain functions of the Site and/or Promotions may be impaired or rendered inoperable if the use of Cookies is disabled.  We reserve the right to retain Cookie data indefinitely.
+
+**Use and Sharing of PII:**
+
+We use the PII that you supply to personalize your experience with the Site.  The PII that you submit to Click4Riches ™ remains your property, but by submitting that PII to Click4Riches ™ you grant Click4Riches ™ the right, subject to applicable state and federal law, to use that PII  for marketing purposes. 
+
+We reserve the right to share, sell, rent or lease such PII with/to any third-party for any and all uses permitted by this Privacy Policy and applicable law.  These third-parties may include, but shall not be limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) telemarketers (where permitted by applicable law); and (c) direct marketers. 
+
+You also agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Site and/or Promotions. 
+
+Click4Riches™ is able to offer its Services to you, in part, based on your willingness to be reached by our third-party advertisers.  Your PII will be shared with advertisers on an aggregate and non-aggregate basis. Please keep in mind that Click4Riches™ does not control, and is not responsible for, the practices of our third-party advertisers.  If you wish to stop receiving future communications from us and/or third party advertisers, or if you wish to prevent the transfer and/or sale of your PII to third parties (subject to restrictions contained in applicable state and federal law), please see the Opting-Out/Unsubscribe section below.
+
+By signing up for our services whether through Coregistration or on the site, you authorize Academic Advisor, The Daily Jackpot, Great American Readers, Global Readers, Time2 Read, Midwest Periodicals, JMS Marketing, American Discount Services, Subscription Ink and its affiliates, and Degree Insider to contact you by phone using an automatic telephone dialing system. You agree to receive these calls to the number you provided even if it is a mobile number or you have previously listed yourself on any Do–Not–Call Lists, and you understand that these calls may be generated using an automatic telephone dialing system. You may have your telephone number or cell mobile phone number listed on a state or federal do not call registry, but by registering, Coregistration, or using this Web Site, you are waiving your rights and privileges under these laws and expressly giving permission of Company, Academic Advisor, The Daily Jackpot, Great American Readers, Global Readers, Time2 Read, Midwest Periodicals, JMS Marketing, American Discount Services, Subscription Ink and its affiliates, Degree Insider, and any agent of Company the right to contact you by telephone or cell phone and for Company to share your email address with these parties.
+
+Notwithstanding anything to the contrary in this Privacy Policy, Click4Riches™ reserves the right to release current or past PII: (i) in the event that we believe that the Site is being or has been used in violation of the Click4Riches.com Terms and Conditions, or to otherwise commit unlawful acts; (ii) if the information is subpoenaed; _ _ _provided, however,_  that, where permitted by applicable law, we shall provide you with e-mail notice, and opportunity to challenge the subpoena, prior to disclosure of any PII pursuant to a subpoena; or (iii) if Click4Riches™ is sold, merged or acquired;  _provided, however,_  that if Click4Riches™ is involved in a merger, acquisition or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your PII, as well as any choices that you may have regarding your PII.
+
+**Third Party Links:**
+
+The Site may contain links to third-party websites ("Third Party Websites"). Please be aware that Click4Riches™ is not responsible for the privacy practices of Third Party Websites. We encourage you to be aware when you leave the Site and to read the privacy policies of each and every website that collects PII. This Privacy Policy applies solely to information collected by the Site.
+
+**Security:**
+
+All collected information is stored in a technically and physically secure environment. We take precautions to protect PII both online and off-line. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your PII, we cannot ensure or warrant the security of any information that you transmit to us, and you do so at your own risk.
+
+Once we receive your transmission, we make reasonable efforts to ensure its security on our systems. All of our users' information, not just PII, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to PII. Furthermore, access to this information is strictly limited, and not accessible to the public. Our employees are dedicated to ensuring the security and privacy of all user information. Employees not adhering to our firm policies are subject to disciplinary action. Please note that any attempt to breach the security of the network, our servers, databases or other hardware or software supporting the Site or other websites under the control of Click4Riches™ constitutes a crime punishable by law. We will turn over to authorities, any and all evidence relating to a potential breach of security or other abuse against the network, servers, databases or other such supporting equipment or software. In compliance with applicable federal and state laws, we shall notify you in the event that we learn of an information security breach with respect to your PII. You will be notified via e-mail in the event of such a breach. Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage, and to engage in remedial measures.
+
+**Minors:**
+
+We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. Click4Riches™ will never knowingly collect any personal information from individuals under eighteen (18) years of age. If Click4Riches™ obtains actual knowledge that it has collected personal information of a minor, that information will be immediately deleted from our database.
+
+**Opting-Out/Unsubscribe:**
+
+To opt-out of having your PII shared with third parties, please contact us at info@Click4Riches.com.  To opt-out of receiving e-mail advertising, SMS text-based marketing (where and to the extent permitted by applicable law), telemarketing and direct mail marketing from us, you can follow the instructions at the end of the applicable marketing message or contact us at info@Click4Riches.com. 
+
+Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to your use of the Site, as well as to respond to any inquiry or request made by you.  To opt-out of receiving Site-related, Promotions-related and/or inquiry response-related messages from Click4Riches™, you must cease using the Site and/or Promotions and cease submitting inquiries to Click4Riches™, as applicable.
+
+**Updating Your Information:**
+
+At your request, we will inform you of what PII we have on file for you.  In addition, at your request, we will remove PII that you have provided to us, or that we have collected.  You may do so by sending your request via certified mail to: Click4Riches, 24 W. Railroad Ave., # 139, Tenafly, NJ 07670, or e-mailing us at: [_info@Click4Riches.com_](mailto:info@AmericanCareerOpportunites.com).  We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
+
+Please be advised that, after you delete your PII, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. In addition, this deletion will not change or delete PII which may have already been shared with third parties, all as provided above in this Privacy Policy.  You will need to contact the third parties that contact you directly to change your preferences regarding their use of your PII.
+
+**Changes to this Privacy Policy:**
+
+Click4Riches™ reserves the right to change or update this Privacy Policy at any time by posting a clear and conspicuous notice on the Site explaining that we are changing our Privacy Policy. All Privacy Policy changes will take effect immediately upon their posting on the Site;  _provided, however_ , that if the manner in which we use PII changes, we will notify users by: (a) sending the modified policy to our users via email; and/or (b) by any other reasonable means acceptable under applicable state and federal law.  You will have a choice as to whether or not we use your PII in this different manner. At any time that you do not agree with the changes, you must opt out from receiving future communications from us (see the "Opting-Out/Unsubscribe" section above). Please check the Site periodically for any changes. Failure to opt out after notice of any such changes constitutes an affirmative acknowledgement and acceptance by you of the modified Privacy Policy.
+
+**Contact Us:**
+
+If you have any questions regarding this Privacy Policy, or would like more information regarding our privacy practices, please email us at: info@Click4Riches.com, or contact us by postal mail at: Click4Riches 24 W. Railroad Ave., # 139, Tenafly, NJ 07670.
