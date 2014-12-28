@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandora.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626172109id_/http%3A//www.pandora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandora.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228052148id_/http%3A//www.pandora.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -110,7 +110,7 @@ If you are using an Android-based device and you do not wish to receive tailored
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-**Your Email Preferences:** When you register for the Service, you may elect to receive promotional, marketing, or other similar emails tailored to your interests. You have the option to change this election in the Settings section of our Service. For information on how to opt in or out of receiving promotional, marketing, or other similar emails from us, visit [http://help.pandora.com](http://help.pandora.com/customer/portal/articles/94162). 
+**Your Email Preferences:** When you register for the Service, you may elect to receive promotional, marketing, or other similar emails tailored to your interests. You have the option to change this election in the Settings section of our Service. For information on how to opt in or out of receiving promotional, marketing, or other similar emails from us, visit [http://help.pandora.com](http://help.pandora.com/customer/portal/articles/1468760-information-about-privacy-on-pandora#4). 
 
 Additionally, you may also follow the unsubscribe instructions contained in the promotional, marketing, or other similar emails you receive. 
 
