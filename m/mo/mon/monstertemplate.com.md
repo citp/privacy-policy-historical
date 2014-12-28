@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the monstertemplate.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630120232id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstertemplate.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228104859id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### **Privacy Policy**
-
 TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-**What this Privacy Policy Covers**
+ **What this Privacy Policy Covers**
 
   * This privacy policy covers TemplateMonster.com’s treatment of personally identifiable information collected by TemplateMonster.com through a website owned and operated by TemplateMonster.com.
   * This privacy policy does not apply to the practices of companies that TemplateMonster.com does not own or control, or of persons that TemplateMonster.com does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which TemplateMonster.com websites link.
@@ -43,7 +41,7 @@ TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has cre
 
 
 
-**Display Advertising**  
+ **Display Advertising**  
 
 
   * TemplateMonster.com has implemented Display Advertising and uses Remarketing with Google Analytics to advertise online. It means that third-party vendors, including Google, show our ads on sites across the Internet.
@@ -52,14 +50,14 @@ TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has cre
 
 
 
-**Consent**  
+ **Consent**  
 
 
   * If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to TemplateMonster.com. If you have provided personal information to TemplateMonster.com and no longer consent to its use or disclosure as outlined herein, please notify TemplateMonster.com at privacy@templatemonster.com.
 
 
 
-**Security**  
+ **Security**  
 
 
   * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your TemplateMonster.com Information protected for your privacy and security. In certain areas of our websites, as identified on the site, TemplateMonster.com uses industry-standard SSL-encryption to protect data transmissions.
@@ -76,12 +74,6 @@ TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has cre
 
 **Questions or Suggestions**
 
-  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [privacy@templatemonster.com](https://web.archive.org/web/20140630120232id_/http%3A//www.templatemonster.com/privacy@templatemonster.com).
+  * If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [privacy@templatemonster.com](mailto:privacy@templatemonster.com).
 
 
-
-**Live Chat**
-
-Hello! Can I help you choose a product?
-
-Have a support question? [Submit a ticket](http://esupport.template-help.com/index.php?/Tickets/Submit)
