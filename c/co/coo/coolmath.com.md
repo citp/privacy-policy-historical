@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmath.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044810id_/http%3A//www.coolmath.com/privacyp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmath.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228010114id_/http%3A//www.coolmath.com/privacyp.htm) for the most accurate reproduction.*
 
 # Cool Math - Privacy Policy
 
@@ -8,14 +8,7 @@
 
  **If we make material changes to how we use Personally Identifiable Information collected from children under age 13, we will notify you by means of a notice on this Site and may require parents to provide their email address in order for us to obtain verifiable parental consent for the new uses of the child's Personally identifiable information.**
 
- **Coolmath has received TRUSTe's Privacy and Children’s Privacy Seals signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe certification covers the sites www.coolifiedgames.com, www.spikesgamezone.com, www.sciencemonster.com, www.coolmath4teachers.com, www.coolmath4parents.com, www.coolmath4kids.com, and www.coolmath.com.**
-
- **[](https://privacy.truste.com/privacy-seal/Coolmath-com,-Inc-/validation?rid=a161b539-2f5d-4d47-91cd-82790926330b "TRUSTe Children privacy certification")**
-
-**If you have questions or concerns regarding our privacy policy or practices, please contact us at **
-
-**If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at:  
-**<https://feedback-form.truste.com/watchdog/request> ****
+ **If you have questions or concerns regarding our privacy policy or practices, please contact us at **
 
 **Information Collected **
 
@@ -38,7 +31,7 @@
 **Here is more information about online advertising that's put out by the IAB (the Internet Advertising Bureau), so you can learn more about all of this:  
 **<http://www.iab.net/privacymatters/> ****
 
-**To view a full list of third parties who may set tracking technologies on our site, please[click here](https://web.archive.org/web/20140625044810id_/http%3A//www.coolmath.com/privacy-third-parties.htm). **
+**To view a full list of third parties who may set tracking technologies on our site, please[click here](https://web.archive.org/web/20141228010114id_/http%3A//www.coolmath.com/privacy-third-parties.htm). **
 
 **Web Beacons **
 
