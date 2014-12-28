@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelexperta.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629150236id_/http%3A//travelexperta.com/review-information-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelexperta.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228230828id_/http%3A//travelexperta.com/review-information-and-disclosure) for the most accurate reproduction.*
 
 # Reviews for Travel Products, Hotels, Restaurants and ToursTravel Experta – Specializing in Unique International Family Travel
 
