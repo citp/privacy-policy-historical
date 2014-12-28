@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2014-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140203134023id_/http%3A//www.arrow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrow.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228122148id_/http%3A//www.arrow.com/privacy.html) for the most accurate reproduction.*
 
 # Arrow Electronics: Privacy Policy
 
@@ -29,6 +29,10 @@ Arrow will treat all Personal Data in our possession as confidential, and mainta
 Arrow will only process Personal Data fairly and lawfully and will not use Personal Data in Arrow’s  possession for purposes that are incompatible with the purposes for which Arrow receives the Personal Data.
 
 Arrow uses the Personal Data that Arrow collects about you: to process orders; to help us to improve our site and your online experience; to provide you with information about our products and services; for ordering, customer support, payment, processing and service purposes; to transact business with us; for credit checks, collections and related billing or credit purposes; and as otherwise allowed by law.
+
+**Canada's anti-spam legislation (CASL)**
+
+Arrow Electronics and our affiliates comply with the [Canada Anti Spam Law](http://fightspam.gc.ca/eic/site/030.nsf/eng/home) effective July 1, 2014.
 
 **Online Ordering:   If you place an order online, we need to know your name, email address, mailing address, credit card number, and the credit card's expiration date. We may also ask you for certain credit history and tax information.  This allows us to process and fulfill your orders and keep you up-to-date on the status of your order. **
 
