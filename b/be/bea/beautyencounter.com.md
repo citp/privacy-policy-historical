@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautyencounter.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220011305id_/http%3A//www.beautyencounter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyencounter.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228124718id_/http%3A//www.beautyencounter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Beauty Encounter
 
@@ -35,14 +35,12 @@ Fountain Valley, CA 92708
 
 Email Submissions
 
-Our email list is intended to keep users informed of new products, gifts and special features. Our policy is to send our email announcements or newsletters only to those who request this when registering or opting-in to our email list (see how we use the information we collect above). If you receive an email and want to be removed from our email list, you can do so by the following: 
+Our email list is intended to keep users informed of new products, gifts and special features. Our policy is to send our email announcements or newsletters only to those who request this when registering or opting-in to our email list (see how we use the information we collect above). Beauty Encounter complies with all anti-spam laws and regulations. If you receive an email and want to be removed from our email list, you can do so by the following: 
 
   * Email [privacy@beautyencounter.com](mailto:privacy@beautyencounter.com) to be removed from the email list 
   * Login to My Account and uncheck the option to receive promotional emails 
 
 
-
-THIS ONLINE PRIVACY POLICY WAS LAST UPDATED ON January 27, 2011.
 
 How We Use "Cookies"
 
