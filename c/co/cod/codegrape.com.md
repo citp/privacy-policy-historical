@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codegrape.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114815id_/http%3A//www.codegrape.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codegrape.com privacy policy that was archived on 2014-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141228014221id_/http%3A//codegrape.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CodeGrape
 
@@ -6,13 +6,13 @@ CodeGrape has developed this Privacy Policy ("Policy") to inform you about how w
 
 This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Website Terms of Access Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site.
 
-**INFORMATION ABOUT CHILDREN**
+### Information about children
 
 Children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children not submit any personal information to us. If you are under the age of 18 years, you can browse the Site only in conjunction with and under the supervision of your parents or guardians. If you are under 18 years of age you cannot use the Membership Section of the Site.
 
 It is the responsibility of parents to monitor their children's use of our Site.
 
-**INFORMATION COLLECTION**
+### Information collection
 
 **PART A - The Public Generally**
 
@@ -61,7 +61,9 @@ We collect information from people who use the Membership Section of our Site ("
 
 If you choose to buy or sell on our Site we collect information about your buying and selling behaviour.
 
-If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date. **USE OF INFORMATION AND DISCLOSURE**
+If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date.
+
+### Use of information and disclosure
 
 CodeGrape will only use the information it collects through the Site for the following purposes:
 
@@ -81,26 +83,27 @@ CodeGrape will not give, sell, trade or otherwise disclose any personal informat
 
 
 
-**ACCESS AND /OR CORRECTION OF YOUR DETAILS**
+### Access and/or correction of your details
 
 You may request access to your personal information and can ask us to correct your personal information.
 
-You can do this by emailing [legal@flashdo.com](mailto:legal@flashdo.com)
+You can do this by emailing [legal@codegrape.com](mailto:legal@codegrape.com)
 
-**DISCLAIMER**  
+### Disclaimer
+
 This Site contains links to other sites. CodeGrape is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. CodeGrape strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you
 
-**SECURITY**
+### Security
 
 This Site has security measures in place to protect the loss or misuse of, or alteration or unauthorised access to, information under our control. However, if you send information from this Site, it will not be encrypted unless we expressly tell you it is.
 
-**AMENDMENTS TO THE PRIVACY POLICY**
+### Amendments to the privacy policy
 
 We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify CodeGrape if you do not agree to such changes.
 
-**OPT - OUT PROVISION**
+### Opt - out provision
 
-To protect you from unwanted email communications, CodeGrape adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by sending an email to [legal@flashdo.com](mailto:legal@flashdo.com) or follow the instructions in the "Opt-Out" section of the email you have received.
+To protect you from unwanted email communications, CodeGrape adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by sending an email to [legal@codegrape.com](mailto:legal@codegrape.com) or follow the instructions in the "Opt-Out" section of the email you have received.
 
 If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:
 
@@ -110,10 +113,10 @@ If you request us not to use personal information in a particular manner or at a
 
 
 
-**INTERNATIONAL TRANSFER OF INFORMATION**
+### International transfer of information
 
 Because our server and information processing equipment is located in the United States of America, the information collected from you will be stored there. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us, including the transfer to another jurisdiction other than Australia.
 
-**FURTHER INFORMATION**
+### Further information
 
-For further information about CodeGrape's privacy policy, please email us at [legal@flashdo.com](mailto:legal@flashdo.com)
+For further information about CodeGrape's privacy policy, please email us at [legal@codegrape.com](mailto:legal@codegrape.com)
