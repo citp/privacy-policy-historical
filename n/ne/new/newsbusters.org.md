@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the newsbusters.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629003025id_/http%3A//newsbusters.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbusters.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229010955id_/http%3A//newsbusters.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NewsBusters
-
-Privacy Policy 
-
-NEWSBUSTERS.org PRIVACY POLICY
+# Privacy Policy
 
 Effective Date: January 1, 2013.
 
@@ -14,8 +10,7 @@ In this Privacy Policy (Policy), we describe the information that we collect abo
 
 We are operated entirely within the United States. If you are located outside of the United States, please note that any information – including personal data – that we collect about you will be transferred to and processed in the United States. You hereby consent to these transfers.
 
-WHAT TYPES OF INFORMATION DO WE COLLECT?  
-
+WHAT TYPES OF INFORMATION DO WE COLLECT?
 
   * PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT FROM AND ABOUT YOU
   * INFORMATION COLLECTED AUTOMATICALLY WHEN USING OUR SERVICES
@@ -105,9 +100,10 @@ THE MRC may share personally identifiable information with others, such as:
 
   * Third Party Service Providers that provide services on our behalf. Examples of these services include, but are not limited to: technical support for the operation of our Services; Website evaluation and statistics; and fulfilling your orders for products and services made available through our Site;
   * Law enforcement authorities, government agencies, courts, or other entities, when:
-we believe in good faith that the law requires it  
+  * we believe in good faith that the law requires it
+  
 
-    * we deem it necessary or appropriate to provide such information
+  *     * we deem it necessary or appropriate to provide such information
     * to otherwise protect our rights, other persons, or other users of our Services
     * Another entity, in the course of a sale to or merger of all or a part of our business with another entity
   * A court, another business, or other interested party in the event of a bankruptcy proceeding, in which case the information about you would be among the many assets shared or transferred.
@@ -127,9 +123,9 @@ If you do not wish to receive promotional communications from THE MRC, you can u
 
 We use third parties such as network advertisers to serve advertisements on our Website. Network advertisers are third parties that display advertisements based on your visits to our Website and other websites you have visited. This enables us and these third parties to target advertisements to you for products and services in which you might be interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party cookies and other technologies are governed by each third party’s specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our Services on an aggregated basis.
 
-You may opt-out of many third-party ad networks. The website <http://www.networkadvertising.org/optout_nonppii.asp> provides information regarding this practice by Network Advertising Initiative (“NAI”) members, and your choices regarding having this information used by these companies, including how to “opt-out” of third-party ad networks operated by NAI members.
+You may opt-out of many third-party ad networks. The website http://www.networkadvertising.org/optout_nonppii.asp provides information regarding this practice by Network Advertising Initiative (“NAI”) members, and your choices regarding having this information used by these companies, including how to “opt-out” of third-party ad networks operated by NAI members.
 
-You also may contact the Digital Advertising Alliance at <http://www.aboutads.info/choices/> for information about opting out of targeted advertising and your choices regarding having information used by About Ads member companies, including how to “opt-out” of third-party ad networks operated by About Ads members. Opting out of one or more NAI members or DAI members (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you, but it does not mean you will no longer receive any targeted content or ads on our Website or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI or DAI opt-out may no longer, be effective. Additional information is available on NAI’s and DAI’s websites accessible by the above links.
+You also may contact the Digital Advertising Alliance at http://www.aboutads.info/choices/ for information about opting out of targeted advertising and your choices regarding having information used by About Ads member companies, including how to “opt-out” of third-party ad networks operated by About Ads members. Opting out of one or more NAI members or DAI members (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you, but it does not mean you will no longer receive any targeted content or ads on our Website or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI or DAI opt-out may no longer, be effective. Additional information is available on NAI’s and DAI’s websites accessible by the above links.
 
 **VI. LINKS TO OTHER (THIRD PARTY) WEBSITES**
 
