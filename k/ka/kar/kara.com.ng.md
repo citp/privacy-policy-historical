@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kara.com.ng privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521004340id_/http%3A//www.kara.com.ng/kara-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kara.com.ng privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229085537id_/http%3A//kara.com.ng/privacy-policy) for the most accurate reproduction.*
 
-# Kara Nigeria Online Shopping site privacy policy
-
-**Privacy Policy**
+# Privacy Policy
 
 We value our customers and visitors to our site at kara.com.ng. Hence we insist on the highest standards for all transactions customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices. 
 
