@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2014-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140104082946id_/http%3A//www.shopjustice.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjustice.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229071708id_/http%3A//www.shopjustice.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Shop Justice
+# Privacy Policy: Customer Information - Shop Justice & Brothers
 
 PRIVACY POLICY 
 
 Effective as of October 25, 2011. 
 
-We are committed to protecting your personal information. Please take a few minutes to read and understand our privacy policies so that you know how we collect, use and share your personal information obtained online and in our U.S. and Puerto Rico stores. This Privacy Policy supersedes any prior privacy policy, statements, or representations relating to the collection, retention, or sharing of information. 
+We are committed to protecting your personal information. Please take a few minutes to read and understand our privacy policies so that you know how we collect, use and share your personal information obtained online and in our U.S. stores. This Privacy Policy supersedes any prior privacy policy, statements, or representations relating to the collection, retention, or sharing of information. 
 
 We do not collect and keep personal information online from children under the age of 13 without their parent and/or legal guardian's consent, except in limited circumstances authorized by law and described in this policy. To determine who is younger than 13 years old and whether parental consent is required, we ask all users who wish to register to submit their date of birth. Users who indicate they are less than 13 years of age are taken through a parental consent process. 
 
