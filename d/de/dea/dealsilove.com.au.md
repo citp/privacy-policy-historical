@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealsilove.com.au privacy policy that was archived on 2014-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140618013118id_/http%3A//www.dealsilove.com.au/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsilove.com.au privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229055516id_/http%3A//www.dealsilove.com.au/legal-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ‹ Deals I Love – Daily Deals on amazing items
+# Privacy Policy | Daily Deals for big savings by Deals I Love
 
 This web site is owned and operated by Deals I Love (Australia) Pty Ltd and will be referred to as “We”, “our” and “us” in this Internet Privacy Policy.
 
