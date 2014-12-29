@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602160238id_/http%3A//www.usp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usp.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229210829id_/http%3A//www.usp.org/privacy-policy) for the most accurate reproduction.*
 
-# USP Website Privacy Policy | U.S. Pharmacopeial Convention
+# USP Website Privacy Policy
 
 USP respects the privacy of its customers and takes its responsibilities regarding the security of customer information very seriously. USP is committed to providing professional and valuable service while safeguarding privacy. This Privacy Policy applies to all USP websites.
 
