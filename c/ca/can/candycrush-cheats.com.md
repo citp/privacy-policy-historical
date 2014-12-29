@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candycrush-cheats.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627192724id_/http%3A//candycrush-cheats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candycrush-cheats.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229053805id_/http%3A//candycrush-cheats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Candy Crush Saga Cheats
 
