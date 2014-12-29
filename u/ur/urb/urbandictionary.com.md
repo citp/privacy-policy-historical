@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbandictionary.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630080721id_/http%3A//www.urbandictionary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbandictionary.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229130136id_/http%3A//www.urbandictionary.com/privacy.php) for the most accurate reproduction.*
 
 # Urban Dictionary: Privacy Policy
 
@@ -27,6 +27,8 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 Our Ad Partners may also from time to time use web beacons (also known as Internet tags, pixel tags and clear GIFs). These web beacons are provided by our Ad Partners and allow Ad Partners to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page and the information in cookies set by the Ad Partners. Web beacons enable our Ad Partners to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our Website. 
 
 With both cookies and web beacon technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. 
+
+You can opt-out of Google Analytics data collection with the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 **Data Storage**
 
