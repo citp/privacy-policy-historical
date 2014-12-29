@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chickensmoothie.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223000213id_/http%3A//www.chickensmoothie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickensmoothie.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229174746id_/http%3A//www.chickensmoothie.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - Chicken Smoothie
 
