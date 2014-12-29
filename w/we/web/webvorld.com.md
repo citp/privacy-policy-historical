@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webvorld.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628082534id_/http%3A//www.webvorld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvorld.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229160533id_/http%3A//www.webvorld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WEBVORLD
 
-#### Webvorld.com, International.(hereafter referred to as Webvorld.com) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
+#### WEBVORLD SERVICES .(hereafter referred to as Webvorld.com) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
 **What this Privacy Policy Covers**
 
