@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedodo.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301083911id_/https%3A//www.thedodo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedodo.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229150054id_/https%3A//www.thedodo.com/privacy-policy) for the most accurate reproduction.*
 
 # The Dodo : For the Love of Animals
 
