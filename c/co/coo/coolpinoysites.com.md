@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolpinoysites.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209200656id_/http%3A//www.coolpinoysites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolpinoysites.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230004040id_/http%3A//www.cheflogrorecipes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chef Boy Logro Pinoy Recipes
 
