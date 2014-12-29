@@ -1,16 +1,29 @@
-<!--The following is the downloaded HTML source of the connect6.com privacy policy that was archived on 2014-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140411043352id_/http%3A//www.connect6.com/Home/Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connect6.com privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229231913id_/http%3A//www.connect6.com/Home/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta name="viewport" content="width=device-width">
-    <title>Policy</title>
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Content/marketing/scripts/jquery.js"></script>
-    <script type="text/javascript" src="/Content/marketing/scripts/init.js"></script>
-    <script type="text/javascript" src="/Content/marketing/scripts/waypoint.js"></script>
-    <link rel="stylesheet" type="text/css" href="/Content/marketing/styles/style.css">
+    <title>Connect6° | Privacy Policy</title>
+    <link rel="stylesheet" type="text/css" href="/Content/New/styles/style.css">
+    <script async="" src="//connect.facebook.net/en_US/fp.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Content/New/scripts/jquery.js"></script>
+    <script type="text/javascript" src="/Content/New/scripts/init.js"></script>    
+    <script type="text/javascript" src="/Scripts/jquery.validate.js"></script>
     
-   
-    
+    <!--GOOGLE ANALYTICS-->
+    <script type="text/javascript">
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-40744243-1', 'connect6.com');
+        ga('send', 'pageview');
+
+    </script>
+    <!--END GOOGLE ANALYTICS-->
+
     <!--ADD ROLL-->
     <script type="text/javascript">
         adroll_adv_id = "QTAANZZP6VC4VESYMCFMFQ";
@@ -26,53 +39,96 @@
                 scr.src = host + "/j/roundtrip.js";
                 ((document.getElementsByTagName('head') || [null])[0] ||
                 document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-                if (oldonload) { oldonload() } 
+                if (oldonload) { oldonload() }
             };
         } ());
     </script>
     <!--END ADD ROLL-->
 
+    <!-- FACEBOOK CAMPAIGN TRACKING -->
+    <script type="text/javascript">
+        var fb_param = {};
+        fb_param.pixel_id = '6015199161824';
+        fb_param.value = '0.01';
+        fb_param.currency = 'USD';
+        (function () {
+            var fpw = document.createElement('script');
+            fpw.async = true;
+            fpw.src = '//connect.facebook.net/en_US/fp.js';
+            var ref = document.getElementsByTagName('script')[0];
+            ref.parentNode.insertBefore(fpw, ref);
+        })();
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6015199161824&amp;value=0.01&amp;currency=USD" /></noscript>
+    <!-- END FACEBOOK CAMPAIGN TRACKING -->
+
+
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#waitForm").validate({
+                ignore: ":hidden",
+                rules: {
+                    txtFirstName: {
+                        required: true,
+                    },
+                    txtLastName: {
+                        required: true,
+                    },
+                    txtEmail: {
+                        required: true,
+                        email : true
+                    },
+                    txtPassword : {
+                       required: true,
+                    },
+                    txtPassword1 : {
+                        required: true,
+                        equalTo : "#txtPassword"
+                    }
+                },
+                submitHandler: function (form) {
+                    ajaxForm(form,'for-waitlist');
+                    return false; // required to block normal submit since you used ajax
+                }
+            });
+
+         //  setTimeout(function(){
+          //      if(!$('#animButton').hasClass('thisClicked')){
+         //            $('#theSidebar').height($( document ).height());
+         //            $('#theSidebar').fadeIn('fast');
+           //          $('#captionPic').delay(1000).fadeIn('fast');
+
+           //          $('#captionName').delay(1500).fadeIn('fast');
+           //          $('#captionSM').delay(2000).fadeIn('fast');
+            //         $('#captionContact').delay(2500).fadeIn('fast');
+           //          $('#captionPath').delay(3000).fadeIn('fast');
+           //      }
+           //  }, 3000);
+
+           
+       }); 
+
+     </script>
 
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+
+
+
 <body style="">
-<div id="pop-login" class="popContainer">
-	<div class="popContent">
-        	
-            <h3 class="aligncenter  borderedBottomGreen pad30 font24">Login to Connect6°</h3>
-
-            
-            <div class=" patternLight borderNone padNone">
-            	<div class="pad30 grayBack borderedBottom">
-<form action="/Account/Login?returnUrl=%2FCompany" id="loginForm" method="post">        <input type="text" id="txtUserName" name="txtUserName" placeholder="Email" class=" width95 text"><br><br>
-        <input type="password" id="txtPassword" name="txtPassword" placeholder="Password" class="width95 text"><br>
-<br>        <input type="submit" class="uppercase greenedButton  margin-right-20" value="Login">
-        <a href="" onclick="showHide('#topForgotPassword','#loginForm'); return false;" class="small-link">Forgot Password?</a>
-</form>
-            <div id="topForgotPassword" style="display:none;">
-<form action="/Account/ForgotPassword" class="form" method="post">               <input type="text" id="txtEmail" name="txtEmail" class="width95" placeholder="Email"><br><br>
-               <input type="submit" class="greenedButton margin-right-20 uppercase" value="Send Password">       
-               <a href="" onclick="showHide('#loginForm','#topForgotPassword'); return false;" class="small-link">Back to Login</a>
-</form>             </div>
-             <div class="clear"></div>
-                </div>
-            </div>
-    </div>
-</div>
-
-
 <div id="pop-signup" class="popContainer">
 	<div class="popContent">
-        	
-
-            
             <div class="bgWhite borderNone padNone">
             	<div class="pad30 grayBack borderedBottom">
-                <div class="aligncenter">
-                <h3 class="font24 margin-bottom-10">Try Connect6° for FREE</h3>
-                <p class="gray margin-bottom-25">No credit card or contract required. Really, no strings attached<br>and zero pressure to buy.</p>
+                <div class="">
+                 <h3><img src="/Content/New/images/icon_c6.png" class="icon"> Try Connect6° for FREE</h3>
+                
+                
+                <p class="gray margin-bottom-25">No credit card or contract required. Really, no strings attached and zero pressure to buy.</p>
                 </div>
 
-            	<form class="form" method="post" action="/Home/CreateAccount" onsubmit="return ajaxForm(this,'for-signup')">
+            	<form class="form" method="post" action="#" onsubmit="return ajaxForm(this,'for-signup')">
              
         <input type="hidden" name="returnUrl" id="returnUrl" value="/Home/CreateAccount">  
         <input type="text" id="txtFirstName" name="txtFirstName" placeholder="First Name" class=" width95 text margin-bottom-10">
@@ -87,156 +143,363 @@
              <div class="clear"></div>
                 </div>
             </div>
+   </div>
+</div>
+
+
+
+<div id="pop-wait" class="popContainer">
+	<div class="popContent">
+            <div class="bgWhite borderNone padNone">
+            	<div class="pad30 grayBack borderedBottom">
+                <div class="">
+                 <h3><img src="/Content/New/images/icon_c6.png" class="icon"> Sign up<br>now</h3>
+                
+                
+                <p class="gray margin-bottom-25">Get instant access to people search and people discovery.</p>
+                </div>
+
+         <form class="form" id="waitForm" method="post" action="/Home/CreateAccount">
+             
+        <input type="hidden" id="formName" name="formName" value="waitlist">
+        
+        <div class="relative">
+        <input type="text" id="txtFirstName" name="txtFirstName" placeholder="First Name" class=" width95 text margin-bottom-10 required"> </div>
+        <div class="relative">
+        <input type="text" id="txtLastName" name="txtLastName" placeholder="Last Name" class="width95 text margin-bottom-10 required">
+        </div>
+       <div class="relative">
+        <input type="text" id="txtEmail" name="txtEmail" placeholder="Email" class="width95 text margin-bottom-20 required email">
+        </div>
+        <div class="relative">
+        <input type="password" id="txtPassword" name="txtPassword" placeholder="Password" class="width95 text margin-bottom-20 required">
+        </div>
+        <div class="relative">
+        <input type="password" id="txtPassword1" name="txtPassword1" placeholder="Re-type password" class="width95 text margin-bottom-20 required">
+        </div>
+                 
+
+        <input type="submit" class="uppercase greenedButton block aligncenter width100" value="Sign up now">
+
+            </form>
+
+             <div class="clear"></div>
+                </div>
+            </div>
+   </div>
+</div>
+
+
+
+
+
+<div id="pop-login" class="popContainer">
+	<div class="popContent">
+            <div class=" patternLight borderNone padNone">
+            	<div class="pad30 grayBack borderedBottom">
+               <h3><img src="/Content/New/images/icon_c6.png" class="icon"> Login to Connect6°</h3>
+                <form action="/Account/Login?returnurl=/Home/Index" id="loginForm" method="post">        
+                    <input type="text" id="txtUserName" name="txtUserName" placeholder="Email" class=" width90 text"><br><br>
+                    <input type="password" id="txtPassword" name="txtPassword" placeholder="Password" class="width90 text"><br><br>        
+                    <input type="submit" class="uppercase greenedButton  margin-right-20" value="Login">
+                    <a href="" onclick="showHide('#topForgotPassword','#loginForm'); return false;" class="small-link">Forgot Password?</a>
+                </form>
+                <br>
+                
+            	<div id="topForgotPassword" style="display:none;">
+                <form action="/Account/ForgotPassword" class="form" method="post">               
+                    <input type="text" id="txtEmail" name="txtEmail" class="width95" placeholder="Email"><br><br>
+                    <input type="submit" class="greenedButton margin-right-20 uppercase" value="Send Password">       
+                    <a href="" onclick="showHide('#loginForm','#topForgotPassword'); return false;" class="small-link">Back to Login</a>
+                </form>             
+                </div>
+             <div class="clear"></div>
+                </div>
+            </div>
     </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="pop-action-like" class="popContainer">
+	<div class="popContent">
+            <div class="patternLight borderNone padNone likeContainer">
+            	
+            </div>
+    </div>
+</div>
+
+
+
+
+<div id="pop-action-add" class="popContainer">
+	<div class="popContent">
+            <div class=" patternLight borderNone padNone addContainer">
+            	
+                
+             		
+               
+            </div>
+    </div>
+</div>
+
+
+<div id="pop-action-share" class="popContainer">
+	<div class="popContent">
+            <div class=" patternLight borderNone padNone">
+               <h4 class="pad25 marginNone borderedBottom">Share</h4>
+               
+               <div class="pad20 borderedBottom">
+               <img src="/Content/New/images/seo/sm/fb.jpg" class="alignleft margin-right-10">Facebook <input type="checkbox" class="alignright margin-top-5">
+               </div>
+				<div class="pad20 borderedBottom">
+               <img src="/Content/New/images/seo/sm/twitter.jpg" class="alignleft margin-right-10">Twitter <input type="checkbox" class="alignright margin-top-5">
+               </div>
+               <div class="pad20 borderedBottom">
+               <img src="/Content/New/images/seo/sm/gplus.jpg" class="alignleft margin-right-10">Google Plus <input type="checkbox" class="alignright margin-top-5">
+              
+               </div>
+                <div class="pad20 borderedBottom">
+               <img src="/Content/New/images/seo/sm/linkedin.jpg" class="alignleft margin-right-10">LinkedIn <input type="checkbox" class="alignright margin-top-5">
+               </div>
+               
+            </div>
+    </div>
+</div>
+
+
+
+
+<div id="pop-action-email" class="popContainer">
+	<div class="popContent">
+            <div class=" patternLight borderNone padNone">
+               <h4 class="pad25 marginNone borderedBottom">Email me</h4>
+               
+               <div class="pad25 borderedBottom">
+               		<form>
+                    	<textarea placeholder="Your message here" rows="5" class="width93"></textarea>
+                        <small class="block gray">The recipient of this message can respond directly to your email address.</small>
+                        <input type="submit" value="Send" class="greenedButton margin-top-10">
+                    </form>
+               </div>
+				
+            </div>
+    </div>
+</div>
+
 
 
 <div id="headerContainer">
-	<div id="header">
-    	<a href="/" id="logo"><img src="/Content/marketing/images/logo.png"></a>
-        <a href="#" id="mtoggle"><img src="/Content/marketing/images/icon_more.png"></a>
-        <div id="menu">
-        	<ul>
-            <li><a href="/Home/Features">Features</a></li>
-            <li><a href="/Home/Pricing">Pricing</a></li>
-            <li><a href="/Home/FAQ">Faq</a></li>
-            	<li class="login"><a href="#" onclick="pops('#pop-login');">Login</a></li>
-            </ul>
-        </div><!--END menu-->
-        <div class="clear"></div>
-  </div>
-</div><!--END headerContainer-->
 
+	<div id="header"><a href="/"><img src="/Content/New/images/logo.png" id="logo"></a>
+    	<a href="#" id="mtoggle"><img src="/Content/New/images/icon_more.png"></a>
 
-        
-<div id="bannerContainer">
-    
-	<div id="banner" class="pad35 bgMap">
-		<div id="bannerContent">
-            <h1>Privacy Policy</h1>
-<div class="clear"></div>      
-        </div>
-    </div>
-</div><!--END bannerContainer-->
+            <div id="menu">
 
-<div class="patternLight">
-	<div class="container pad30">
-    
-    
-    		<div class="bgWhite pad35 borderedLight">
-            <h3>Information gathered from visitors</h3>
-                <p class="margin-bottom-30">
-                  In common with other websites, log files are stored on the web server saving details such as the visitor's IP address, browser type, referring page and time of visit. Where registration is required, the visitor's email and a username will be stored on the server.</p>
-          
-            <h3>How the Information is used</h3>
-            <p class="margin-bottom-30">The information is used to enhance the visitor's experience when using the website to display personalized content and possibly advertising. Email addresses will not be sold, rented or leased to 3rd parties. Email may be sent to inform you of news of our services or offers by us or our affiliates.
-            </p>
-      <h3>Visitor Options</h3>
-            <p class="margin-bottom-30">If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in email that you receive. You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
-            </p>
-      <h3>Cookies</h3>
-            <p class="margin-bottom-30">Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. Third-party advertising companies may also use cookies for tracking purposes.
-            </p>
-      <h3>Google Ads</h3>
-            <p class="margin-bottom-30">Google, as a third party vendor, uses cookies to serve ads. We sometimes use Google Remarketing Dynamic Ads. This feature uses the Teracent cookie; users may opt out of the Teracent cookie by visiting their&nbsp;opt-out page. Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet. Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy; here's a link to their&nbsp;opt-out page.
-            </p>
-</div>
-  </div>
-</div>
-
-
-<div id="getStarted">
-	<div class="container aligncenter">
-    
-    
-    	<h2>Let's get started</h2>
-        <h4>No credit card or contract required. Really, no strings attached and zero pressure to buy.</h4>
-        <br>
-        <a href="#" class="greenedButton greenedButtoned uppercase" onclick="pops('#pop-signup');">Try it free</a> 
-        
-      
-        
-    </div>
-</div>
-
-
-
-
-
-<div id="contactBox">
-    	<div id="parallaxcontactBox">
-        <div class="layer" data-depth="0.60"><img src="/Content/marketing/images/map2.png"></div>
-        </div><!--END parallaxcontactBox-->
-        <script type="text/javascript" src="scripts/parallax.js"></script>
-        <script>
-            $('#parallaxcontactBox').parallax({
-                limitX: 0,
-                limitY: false
-            });
-        </script>
-
-	<div class="container">
-    	<div class="alignleft width48">
-        	<h2>Contact Us</h2>
-        	<div id="contactAddress">Connect6° Inc.<br>
-27520 Hawthorne Boulevard, Ste. 260<br>
-Palos Verdes, CA 90274</div>
-            <div id="contactPhone">+ 1 415 758 2897</div>
-            <br>
-            <h5 class="uppercase margin-bottom-10"><strong>Follow Us</strong></h5>
-            <a href="http://facebook.com/connectsixdegrees" target="_new"><img src="/Content/marketing/images/icon_facebook.png"></a>
-            <a href="http://twitter.com/connect6recruit" target="_new"><img src="/Content/marketing/images/icon_twitter.png"></a>
-            <a href="http://linkedin.com/company/3361899?trk=tyah&amp;trkinfo=tas(3Aconnect6%2Cidx%3a1-1-1" target="_new"><img src="/Content/marketing/images/icon_linkedin.png"></a>
-        </div>
-    
-    	
-    	<div class="alignleft width48">
-        	<form class="form" action="/home/contactus2" method="POST">
-            	<input type="hidden" id="RedirectUrl" name="RedirectUrl" value="/Home/ThankYou">
-                <input type="text" id="txtName" name="txtName" placeholder="Full Name" class="block width95 margin-bottom-15">	
-                <input type="text" id="txtEmail" name="txtEmail" placeholder="Email" class="block width95 margin-bottom-15">
-                <input type="text" id="txtPhone" name="txtPhone" placeholder="Phone Number" class="block width95 margin-bottom-15">
-                <textarea id="txtQuestion" name="txtQuestion" placeholder="Message" rows="4" class="block width95 margin-bottom-15"></textarea>	
-                <input type="submit" value="Submit" class="greenedButton uppercase block width100">
-            </form>
-        </div>
-    	<div class="clear"></div>
-    </div>
-</div>
-
-<div id="footerContainer">
-	<div id="footer">
-    	<ul id="footerMenu">
-            <li><a href="/Home/Vision">Vision</a></li>
-            <li><a href="/Home/Features">Features</a></li>
-            <li><a href="/Home/Pricing">Pricing</a></li>
-            <li><a href="/Home/FAQ">Faq</a></li>
-            <li><a href="/Home/Policy">Privacy Policy</a></li>
-            <li><a href="/Home/Terms">Terms of use</a></li>
+        <ul>
+             <li> <a href="#" onclick="pops('#pop-wait');">Get it now</a>  </li>
+            <li class="hasSub"><a href="/Home/#services">Services</a>
+                <ul>
+                    <li><a href="/Home/ChromeExtensionDetail">Discover</a></li>
+                    <li><a href="/Home/PeopleSearchDetail">Search</a></li>
+                </ul>
+            </li>
+        	<li><a href="/Home/AboutUs">About</a></li>
+        	<li><a href="/Home/Help">FAQ</a></li>
+        	
+        	<li><a href="/Home/ContactUs">Contact</a></li>
+        	<li class="signin"><a href="#" onclick="pops('#pop-login')">Sign in</a></li>
         </ul>
-        
-        <div class="alignright">
-        	Copyright 2014. All rights reserved
         </div>
-        <div class="clear"></div>
 
-    </div>
+
+        
+
+
+
+
+    </div>  
+     
+</div>
+    
+   
+
+<div class="container">
+	<div class="aligncenter">
+        <h2 class="margin-bottom-5">Privacy Policy</h2>
+        <h4 class="margin-bottom-30">&nbsp;</h4>       
+  </div>
+   
+<p>Effective  Date: May 15, 2014<br>
+  <br>
+  We at Connect6, Inc., along with our  subsidiaries and affiliates (collectively, "Connect6°"),  respect your concerns about privacy. This Privacy Notice describes  the types of personal information we collect about our consumers, how  we may use the information and with whom we may share it. The notice  also describes the measures we take to safeguard the personal  information. In addition, we tell you how you can ask us to (i)  access or change the personal information we maintain about you, (ii)  withdraw consent you previously provided to us, (iii) refrain from  sending you certain communications, and (iv) answer questions you may  have about our privacy practices</p>
+<h3><br>
+<a name="Information+We+Obtain" id="Information+We+Obtain"></a> Information  We Obtain</h3>
+<p> We may  obtain personal information about Connect6° consumers and users  (such as name, contact details and payment information) in connection  with various activities such as (i) use of the Connect6° websites  and services  (ii)  publicly-available  information about people and companies captured from technology scans  of the Internet, (iii) licensed information from other companies,  (iv)  events in which we participate, and (v) promotions and other offers.</p>
+<p>Connect6°  creates profiles of business people and companies, which we call  "Public Profiles," from different sources. Once Connect6°  has collected information about a person or company, Connect6°  combines multiple mentions of the same person or company into a  Public Profile. The resulting directory of Public Profiles (the  "Directory") is then made available to the users of the  website and service and Connect6°‘s  customers and strategic partners.</p>
+<p>The  types of personal information we may obtain include:</p>
+<ul>
+  <li>Individual  	and business contact information (such as name, company name,  	physical address, email address, and telephone or fax number)</li>
+  <li>Information  	that enables us to verify your identity</li>
+  <li>Names,  	email addresses and telephone numbers of others to whom we are asked  	to send information</li>
+  <li>Username  	and password to access Connect6° products and services online</li>
+  <li>Social  	media handles</li>
+  <li>Payment  	information (including payment card details or online payment  	services number and billing address) and financial information (such  	as bank account number)</li>
+  <li>Tax  	identification number in circumstances in which you request products  	or services for which this information is required, or in connection  	with certain promotions or sweepstakes</li>
+  <li>Other  	personal information that may be provided to us to obtain a  	Connect6° product or service</li>
+</ul>
+<p> Information  we may receive from third parties</p>
+<p> When  you make information publicly available on your social networking  page, we may collect that information.</p>
+<p> If  you provide your third-party account credentials to us, you  understand some content and/or information in those accounts (“Third  Party Account Information”) may be transmitted into your account  with us if you authorize such transmissions, and that Third Party  Account Information transmitted to us is covered by this policy. For  example, if you access our websites or services through a third-party  connection or log-in, for example, through Facebook Connect, by  “following,” “liking,” adding the Connect6° application,  linking your account to the Connect6° services, etc., that third  party may pass certain information about your use of its service to  Connect6°. This information could include, but is not limited to,  the user ID associated with your account (for example, your Facebook  UID), an access token necessary to access that service, any  information that you have permitted the third party to share with us  including contacts or “Friends,” and any information you have  made public in connection with that service. <br>
+  <br>
+In  addition, when you visit our websites or use our services, we may  collect certain information by automated means, such as cookies and  web beacons. The information we collect in this manner includes IP  address, browser characteristics, device characteristics, operating  system, language preferences, referring URLs, information on actions  taken on our site, and dates and times of website visits. A "cookie"  is a text file that websites send to a visitor's computer or other  Internet-connected device to uniquely identify the visitor's browser  or to store information or settings in the browser. A "web  beacon" also known as an Internet tag, pixel tag or clear GIF,  links web pages to web servers and their cookies and may be used to  transmit information collected through cookies back to a web server.  Through these automated collection methods, we obtain "clickstream  data," which is a log of content on which a visitor clicks while  browsing a website. As the visitor clicks through the website, a  record of the action may be collected and stored. We may link certain  data elements we have collected through automated means, such as your  browser information, with other information we have obtained about  you to let us know, for example, whether you have opened an email we  sent to you. We also may use third-party website analytics tools that  collect information about visitor traffic on our websites. Your  browser may tell you how to be notified when you receive certain  types of cookies or how to restrict or disable certain types of  cookies. Please note, however, that without cookies you may not be  able to use all of the features of our websites.</p>
+<h3><br>
+How  We Use The Information We Obtain</h3>
+<p>We  may use the information we obtain to:</p>
+<ul>
+  <li>Provide  	products and services you Process and collect payments</li>
+  <li>Provide  	customer support and respond to and communicate with you about your  	requests, questions and comments</li>
+  <li>Establish  	and manage your Connect6° account (including your online account on  	connect6.com and its various features, </li>
+  <li>Offer  	you products and services we believe may interest you</li>
+  <li>Communicate  	about, and administer your participation in, special events,  	programs, surveys, contests, sweepstakes, and other offers or  	promotions</li>
+  <li>Enable  	you to post on our blogs and interact with Connect6° through social  	media</li>
+  <li>Send  	information to your contacts if you ask us to do so</li>
+  <li>Operate,  	evaluate and improve our business (including developing new products  	and services; managing our communications; determining the  	effectiveness of our sales, marketing and advertising; analyzing and  	enhancing our products, services and websites; and performing  	accounting, auditing, billing, reconciliation and collection  	activities)</li>
+  <li>Perform  	data analyses (including market and consumer search, trend analysis,  	financial analysis, and anonymization of personal information)</li>
+  <li>Protect  	against, identify and prevent fraud and other criminal activity,  	claims and other liabilities</li>
+  <li>Comply  	with applicable legal requirements and our policies</li>
+</ul>
+<p> Connect6°  users save time by registering with their favorite social network,  since Connect6°  can automatically populate new profiles using information gleaned  from their existing account. This option is provided to users so they  do not have to remember an additional password--when they return to  the Connect6°,  users can click on their favorite network and sign in using their  existing Facebook or LinkedIn credentials.  When you use a social  networking site or choose to join (or “like”) a Connect6° page  on a social network, the social networking site may make some  information about you available to Connect6°.  Please see the privacy policy for the social networking site to learn  more.
+</p>
+<p>When  you use a social networking site to log into Connect6°,  you allow us to access to your friends list, your friends’ user  IDs, and your connection to those friends. Connect6°  may use and store this information to make your experience more  social, and shared contacts may also be used to improve Connect6°’s  services. You should always review, and if necessary, adjust your  privacy settings on third-party websites and services.</p>
+<p><a name="Interest%2DBased+Advertising" id="Interest%2DBased+Advertising"></a> In  addition, we use information collected online through cookies, web  beacons and other automated means for purposes such as (i)  customizing our users' visits to our websites and services, (ii)  delivering content (including advertising) tailored to our users'  interests and the manner in which our users browse our websites and  services, and (iii) managing our business. We may supplement data we  collect through automated means with information about your location  (such as your zip code) to provide you with content that may be of  interest to you. We also use this information to help diagnose  technical and service problems, administer our websites, identify  users of our websites, and gather demographic information about our  users. We use clickstream data to determine how much time users spend  on web pages of our websites, how users navigate through our  websites, and how we may tailor our websites to better meet the needs  of our users.<br>
+  <br>
+  We also may use the information we obtain about  you in other ways for which we provide specific notice at the time of  collection.</p>
+<h3><br>
+Interest-Based  Advertising</h3>
+<p>On  our websites, we may collect information about your online activities  for use in providing you with advertising about products and services  tailored to your individual interests. This section of our Privacy  Notice provides details and explains how to exercise your  choices.<br>
+  <br>
+  You may see certain ads on other websites because we  participate in advertising networks. Ad networks allow us to target  our messaging to users through demographic, interest-based and  contextual means. These networks track your online activities over  time by collecting information through automated means, including  through the use of cookies, web server logs and web beacons. The  networks use this information to show you advertisements that may be  tailored to your individual interests. The information our ad  networks may collect includes information about your visits to  websites that participate in the relevant advertising networks, such  as the pages or advertisements you view and the actions you take on  the websites. This data collection takes place both on our websites  and on third-party websites that participate in the ad networks. This  process also helps us track the effectiveness of our marketing  efforts. </p>
+<p>To  learn how to opt out of this ad network interest-based  advertising,&nbsp;select <a href="http://www.aboutads.info/choices/">here</a>.</p>
+<h3><br>
+<a name="Information+We+Share" id="Information+We+Share"></a> Information  We Share</h3>
+<p>We  do not sell or otherwise share personal information about you, except  as described in this Privacy Notice. We share personal information  with third parties who perform services on our behalf based on our  instructions. These third parties are not authorized by us to use or  disclose the information except as necessary to perform services on  our behalf or comply with legal requirements.<br>
+  <br>
+  We also may  share the personal information we obtain with our affiliates,  franchisees, resellers and joint marketing partners. These entities,  which collectively are referred to here as the "Connect6°  Business Partners," may use the information for the purposes  described in this Privacy Notice. We may share physical location data  with our Connect6° Business Partners and other third parties to, for  example, enhance location-based services and develop accurate and  up-to-date maps. In addition, except as described below, unless you  object, we may share personal information with third parties who are  not Connect6° Business Partners for those parties' own purposes,  such as to offer products or services that may interest you.<br>
+  <br>
+  We  also may disclose information about you (i) if we are required to do  so by law, regulation or legal process (such as a court order or  subpoena), (ii) in response to requests by government agencies, such  as law enforcement authorities, or (iii) when we believe disclosure  is necessary or appropriate to prevent physical harm or financial  loss or in connection with an investigation of suspected or actual  illegal activity. We reserve the right to transfer any information we  have about you in the event we sell or transfer all or a portion of  our business or assets (including in the event of a reorganization,  dissolution or liquidation).</p>
+<h3><br>
+Your  Options</h3>
+<p>We  offer you certain choices about how we communicate with you and what  information we collect from you.  You may choose not to receive  marketing email communications from us by clicking on the unsubscribe  link in our marketing emails, selecting the Email Unsubscribe link  below, adjusting your email preferences in your profile in My  Connect6°, or contacting us as specified in the "How To Contact  Us" section below. You also may ask us not to send you other  marketing communications by contacting us as specified in the "How  To Contact Us" section below, and we will honor your request. In  addition, as required by law, you may object at any time on  legitimate grounds and free of charge to the processing of your  personal information, and we will apply your preferences going  forward.</p>
+<p> If you register for a  Connect6°  account and your  information changes, or if you no longer desire our service, you may  update or delete your information by logging in with your username  and password and making the change. If you would like us to remove  information you submitted to Connect6°  (i.e., your email address), you can send an email  to&nbsp;remove@connect6.com&nbsp;with your request. You may also  communicate your request by mail by using the contact information at  the end of this Privacy Notice. Once we have received your request,  we will act upon the request.</p>
+<p> NOTE:  Connect6°  collects much of  its information from the web. Because we search millions of new and  old web pages every day, information about you may be acquired again  by our service, or contributed by our users, without your knowledge.  We recommend that you check back periodically to ensure that your  Public Profile contains only the information you choose to have  displayed. The best way to avoid having your information found by our  search engine (or any other search engine) is to contact the operator  of the website that contains the original source(s) of the  information and ask for the operator to remove the displayed  Information from the web.</p>
+<p><a href="http://www.aboutads.info/choices/">View  the Self-Regulatory Principles for Online Behavioral Advertising</a></p>
+<p>If  you are a California resident, you may ask us to refrain from sharing  your personal information with certain of our affiliates and other  third parties for their marketing purposes. Please tell us your  preference by contacting us as specified below.</p>
+<h3><br>
+<a name="Access+and+Correction" id="Access+and+Correction"></a> Access  and Correction</h3>
+<p>Subject  to applicable law, (i) you may obtain a copy of certain personal  information we maintain about you or update or correct inaccuracies  in that information through your account on connect6.com or (ii) you  may have the right to obtain access to personal information we  maintain about you by contacting us as indicated in the "How To  Contact Us" section of this Privacy Notice. To help protect your  privacy and maintain security, we will take steps to verify your  identity before granting you access to the information. In addition,  if you believe that personal information we maintain about you is  inaccurate, subject to applicable law, you may have the right to  request that we correct or amend the information by contacting us as  indicated below.</p>
+<h3><br>
+<a name="Links+To+Other+Websites" id="Links+To+Other+Websites"></a> Links  To Other Websites</h3>
+<p>Our  websites may contain links to other websites for your convenience and  information. These websites may be operated by companies not  affiliated with Connect6°. Linked websites may have their own  privacy policies or notices, which we strongly suggest you review if  you visit any linked websites. We are not responsible for the content  of any websites that are not affiliated with Connect6°, any use of  those websites, or the privacy practices of those websites.</p>
+<h3><br>
+<a name="Data+Transfers" id="Data+Transfers"></a> Data  Transfers</h3>
+<p>We  may transfer the personal information we collect about you to  countries other than the country in which the information originally  was collected. Those countries may not have the same data protection  laws as the country in which you initially provided the information.  When we transfer your information to other countries, we will protect  that information as described in this Privacy Notice and in  accordance with applicable law.</p>
+<h3><br>
+<a name="How+We+Protect+Personal+Information" id="How+We+Protect+Personal+Information"></a> How  We Protect Personal Information</h3>
+<p>We  maintain administrative, technical and physical safeguards designed  to protect the personal information you provide against accidental,  unlawful or unauthorized destruction, loss, alteration, access,  disclosure or use. .</p>
+<h3><br>
+<a name="Updates+To+Our+Privacy+Notice" id="Updates+To+Our+Privacy+Notice"></a> Updates  To Our Privacy Notice</h3>
+<p>This  Privacy Notice may be updated periodically and without prior notice  to you to reflect changes in our personal information practices. We  will post a prominent notice on our websites to notify you of any  significant changes to our Privacy Notice and indicate at the top of  the notice when it was most recently updated.</p>
+<h3><br>
+<a name="How+To+Contact+Us" id="How+To+Contact+Us"></a> How  To Contact Us</h3>
+<p>If  you have any questions or comments about this Privacy Notice, or if  you would like us to update information we have about you or your  preferences, please contact us by email at&nbsp;<a href="mailto:privacy@connect6.com">privacy@connect6.com</a>.  You also may write to us at:</p>
+<p> Connect6° <br>
+  Attention:  Global Privacy Manager<br>
+  27520 Hawthorne Boulevard, Suite 260<br>
+  Los Angeles, California 90274<br>
+  United States</p>
+   
+    
+    
+    <img src="/Content/New/images/pointer_down_white.png" id="pointerDownWhite">
 </div>
 
-<!--GOOGLE ANALYTICS-->
-<script>
-    (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-            (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date(); a = s.createElement(o),
-  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    <div id="bottomContent">
+   
+	<div class="container">
+    	<h2 class="aligncenter">Why Connect6°?</h2>
+    
+    	<div class="feats">
+        	<div class="featItem">
+            	<img src="/Content/New/images/icon_free.png" class="icon">
+                <h3>Free.<br>Really.</h3>
+               Establish Rapport. See a contact’s interests, skills, and experience. 
+            </div>
+        	<div class="featItem">
+            	<img src="/Content/New/images/icon_user.png" class="icon">
+                <h3> Who's that Twitter Handle?</h3>
+				We provide contact details in real-time about the people behind their Twitter handles.
+            </div>
+        	<div class="featItem">
+            	<img src="/Content/New/images/icon_network.png" class="icon">
+                <h3>Grow your<br>network</h3>
+				Discover people with specific skills or titles embedded within their social and technical profiles.
+            </div>
+            
+            <div class="clear"></div>
+            <div class="featItem">
+            	<img src="/Content/New/images/icon_email.png" class="icon">
+               <h3> Email and<br>Phone</h3>
+				Stop relying on LinkedIn's InMail.  Get a contact's email address and phone number with the click of a button. 
+            </div>
+        	
+        	
+        	<div class="featItem">
+            <img src="/Content/New/images/icon_social.png" class="icon">
+                <h3>Social<br>Snapshot</h3>
+Quickly link to a person's social profiles - everything from Facebook to Github.&nbsp;
+            </div>
+            <div class="featItem">
+            	<img src="/Content/New/images/icon_path.png" class="icon">
+                <h3>Connection<br>Path</h3>
+                See a complete social graph with all the contacts between you and the person highlighted. 
+            </div>
+            
+        </div>
+    </div>
+</div>
+<div id="footerContainer">
+<div id="footer">
 
-    ga('create', 'UA-40744243-1', 'connect6.com');
-    ga('send', 'pageview');
+	<ul id="footerMenu">
+    	<li><a href="https://blogdotconnect6dotcom.wordpress.com/" target="_blank">Blog</a></li>
+    	<li><a href="/Home/Help">FAQ</a></li>
+        <li><a href="/Home/Press">Press</a></li>
+         
+        <li><a href="/Home/Privacy">Privacy Policy</a></li>
+        <li><a href="/Home/Terms">Terms of Use</a></li>
 
-</script>
-<!--END GOOGLE ANALYTICS-->
+        <li><a href="/Home/ContactUs">Contact</a></li>
+        
+    </ul>
+    
+    <div id="footerRight">
+    	Copyright 2014. All Rights Reserved
+    </div>
+    <div class="clear"></div>
+    
+</div>
+
 
 <!--GOOGLE RETARGETING -->
 <script type="text/javascript">
@@ -254,8 +517,16 @@ var google_remarketing_only = true;
 </div>
 <!--END GOOGLE RETARGETING -->
 
+<!--TWITTER CAMPAIGN TRACKING-->
+<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+<script type="text/javascript">
+    twttr.conversion.trackPid('l4i1w');
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4i1w&p_id=Twitter" />
+<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4i1w&p_id=Twitter" />
+</noscript>
+<!--END TWITTER CAMPAIGN TRACKING-->
+</div>
 
-</body>
-</html>
-
-</noscript></body></html>
+</body></html>
