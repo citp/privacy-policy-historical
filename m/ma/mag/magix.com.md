@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magix.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512033035id_/http%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magix.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229083718id_/http%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - MAGIX
 
@@ -39,8 +39,6 @@ On these web pages plug-ins from the social network facebook.com are used, which
 If you access Internet pages provided by our website with this kind of plug-in, a link to the Facebook servers will be created and a plug-in will be displayed on the website by notifying your browser. Thereby notifying the Facebook servers which of our websites you have visited. If you are logged in as a member of Facebook, Facebook assigns this information to your personal Facebook account. When using plug-in functions (such as clicking on the "Like" button, or when leaving a comment) this information is associated with your Facebook account, you can prevent this by logging out before using the plug-in. 
 
 Please consult Facebook's privacy policy for more detailed information on your rights and ways to protect your privacy and how Facebook collects and uses data, which you can read about at <http://www.facebook.com/policy.php>. 
-
-In mobile applications we sometimes implement Ad-X technology to analyze the use of our apps. Ad-X technology uses exclusively anonymous information by means of non-persistent device ID tracking such as IDFA, as well other non-person-related tracking mechanisms and processes this data on our behalf. If you would like to opt out of Ad-X tracking or would like to find out more about how Ad-X processes information, please visit <https://ad-x.co.uk/dont_track.php>. 
 
 ### The following applies in other cases:
 
