@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the worldhistoryproject.org privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210075323id_/http%3A//worldhistoryproject.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldhistoryproject.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229041301id_/http%3A//worldhistoryproject.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WorldHistoryProject.org
+# Privacy Policy | World History Project
 
 ## World History Project Privacy Policy
 
 **PLEASE READ OUR PRIVACY POLICY CAREFULLY BEFORE YOU USE OUR WEB SITE.**
 
-This privacy policy ("Privacy Policy") covers the website www.worldhistoryproject.org ("World History Project" or the "Site"), owned and operated by Timelines Inc. ("we", "us" or "our"), and all services provided on the Site (the "Service"). By visiting the Site, submitting information or using the Service, you are accepting the practices outlined in this Privacy Policy and the Terms of Use (which can be accessed at www.worldhistoryproject.org/terms_of_use). This Privacy Policy does not apply to the practices of third parties that Timelines Inc.. does not own or control, or to individuals that Timelines Inc.. does not employ or manage.
+This privacy policy ("Privacy Policy") covers the website www.worldhistoryproject.org ("World History Project" or the "Site"), owned and operated by McHaBu ("we", "us" or "our"), and all services provided on the Site (the "Service"). By visiting the Site, submitting information or using the Service, you are accepting the practices outlined in this Privacy Policy and the Terms of Use (which can be accessed at www.worldhistoryproject.org/terms_of_use). This Privacy Policy does not apply to the practices of third parties that McHaBu does not own or control, or to individuals that McHaBu does not employ or manage.
 
 #### Description of Service
 
@@ -24,11 +24,11 @@ Your name, events, photos, comments and other information you contribute about e
 
 #### Sharing of the Information
 
-As a matter of policy, except where you are expressly informed otherwise and we have obtained your consent, we do not sell, rent, share, trade or give away any of your personal information to entities not owned or controlled by Timelines Inc. However, we may share aggregate usage information in a non-personally identifiable manner with advertisers, subsidiaries, affiliates and other third party service providers only to the extent required for such third parties to provide their services so that we can present to users more targeted products, services and advertising.
+As a matter of policy, except where you are expressly informed otherwise and we have obtained your consent, we do not sell, rent, share, trade or give away any of your personal information to entities not owned or controlled by McHaBu However, we may share aggregate usage information in a non-personally identifiable manner with advertisers, subsidiaries, affiliates and other third party service providers only to the extent required for such third parties to provide their services so that we can present to users more targeted products, services and advertising.
 
-We use outside vendors to fulfill various services, such as a financial transaction processing company to bill you for goods and services. When you sign up for a paid service we offer, we will share only that information necessary for the third party to provide that service. These third parties are prohibited by contract from using your personally identifiable information for any other purpose. We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our Terms of Use or other agreements; or protect the rights, property, or safety of Timelines Inc., our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We use outside vendors to fulfill various services, such as a financial transaction processing company to bill you for goods and services. When you sign up for a paid service we offer, we will share only that information necessary for the third party to provide that service. These third parties are prohibited by contract from using your personally identifiable information for any other purpose. We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our Terms of Use or other agreements; or protect the rights, property, or safety of McHaBu, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if Timelines Inc., or substantially all of its assets, were acquired, user information would be one of the assets that are transferred.
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that are transferred. Moreover, if McHaBu, or substantially all of its assets, were acquired, user information would be one of the assets that are transferred.
 
 Except as set forth above, you will be notified by email and a notice on the Site when your personal information may be shared with third parties.
 
@@ -46,7 +46,7 @@ You may access, modify, or remove any of your personal information at any time b
 
 #### Changes to our Privacy Policy
 
-Timelines Inc. may amend this Privacy Policy at any time, at our sole discretion. Use of information we collect will be subject to the Privacy Policy in effect at the time such information is collected. If we change this Privacy Policy, we will post those changes on the Site so users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+McHaBu may amend this Privacy Policy at any time, at our sole discretion. Use of information we collect will be subject to the Privacy Policy in effect at the time such information is collected. If we change this Privacy Policy, we will post those changes on the Site so users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 #### Invite a Friend
 
@@ -62,7 +62,7 @@ Your World History Project account is password-protected. You need to work to pr
 
 #### Third Party Advertising
 
-Ads appearing on the Site are delivered to users by our Web advertising partners. Our Web advertising partners may use cookies. Doing this allows our Web advertising partners to recognize your computer each time they send you an online advertisement. In this way, our Web advertising partners may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked on. This information allows our Web advertising partners to deliver targeted advertisements that they believe will be of most interest to you. Timelines IncInc. does not have access to or control of the cookies that may be used by any Web advertising partners, third-party ad servers or ad networks.
+Ads appearing on the Site are delivered to users by our Web advertising partners. Our Web advertising partners may use cookies. Doing this allows our Web advertising partners to recognize your computer each time they send you an online advertisement. In this way, our Web advertising partners may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked on. This information allows our Web advertising partners to deliver targeted advertisements that they believe will be of most interest to you. McHaBu does not have access to or control of the cookies that may be used by any Web advertising partners, third-party ad servers or ad networks.
 
 #### Conditions of Use
 
@@ -74,3 +74,5 @@ If you have any questions about this Privacy Policy, the practices of the Site, 
 
 World History Project  
 Email: support@worldhistoryproject.org 
+
+©2014 McHaBu The History of Us® and The History of the World® are registred trademarks
