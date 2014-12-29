@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626132304id_/http%3A//www.allbestarticles.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229022756id_/http%3A//www.allbestarticles.com/Privacy) for the most accurate reproduction.*
 
 # AllBestArticles.com Privacy
 
@@ -8,11 +8,19 @@
 
 \- **Cookies:** A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Usage of a cookie is in no way linked to any personally identifiable information.  
 We only use cookies to record session information so we can remember you when you come back to our website without requiring you to log-in every time.  
-There are two types of cookies: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the cookie folder on your computer's hard drive. A persistent cookie remains in that cookie folder, which is maintained and governed by your Web browser, after you close your browser program. A session cookie is temporary and disappears after you close your browser.   
-Advertising partners (like Google) may use cookies to collect non-personally identifiable information (that doesn't include your name, address, email or phone number) about your visit to our site in order to provide advertisements about goods and services that may be of interest to you. We have no access to or control over these cookies, and this privacy policy does not govern the use of cookies by our business partners or advertisers.   
-Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. For further information and option to opt out and avoid they can use the above data, consult the privacy policies of Google at http://www.google.com/privacy_ads.html   
+There are two types of cookies: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the cookie folder on your computer's hard drive. A persistent cookie remains in that cookie folder, which is maintained and governed by your Web browser, after you close your browser program. A session cookie is temporary and disappears after you close your browser. 
+
+**We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers.  
+The information generated relating to our website is used to create reports about the use of the website. Google will store and use this information.   
+By using our website, you agree that we can place these types of cookies on your device. Most browsers enable you refuse to accept cookies. In Internet Explorer, refuse all cookies by clicking Tools, Internet Options, Privacy, and selecting “Block all cookies”. In Firefox, adjust your cookie settings by clicking Tools, Options, Privacy.**
+
+Advertising partners (like Google) may use cookies to collect non-personally identifiable information (that doesn't include your name, address, email or phone number) about your visit to our site in order to provide advertisements about goods and services that may be of interest to you.   
+We have no access to or control over these cookies, and this privacy policy does not govern the use of cookies by our business partners or advertisers.   
+Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. 
+
+For further information and option to opt out and avoid they can use the above data, consult the privacy policies of Google at http://www.google.com/privacy_ads.html   
 \- **Log Files:** We gather certain anonymous, non-personal information automatically and store it in web server log files. For each visitor to our Web page, our Web server automatically recognizes the consumer's IP Address, Browser Information (such as client, and version), Username (If registered), Referring page, pages viewed on our servers and duration of each page view. We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.   
-You can set your web browser software to disable cookies. To do so, please refer to the help section of your specific browser for more information on how to manage or disable cookies. If you disable cookies, you may still view our site, but some areas of our site will not work properly 
+You can set your web browser software to disable cookies. To do so, please refer to the help section of your specific browser for more information on how to manage or disable cookies. If you disable cookies, you may still view our site, but some areas of our site will not work properly. 
 
 ## Information Disclosure
 
@@ -46,7 +54,7 @@ This website contains links to other sites. We encourage our users to be aware w
 
 ## Disclaimer>
 
-**AllBestArticles.com** is a repository of free articles written by others that have no association with this site; the articles are not meant to be used for legal, medical or other types of advice; they are only provided for information and redistribution as outlined in our [TOS](https://web.archive.org/tos).   
+**AllBestArticles.com** is a repository of free articles written by others that have no association with this site; the articles are not meant to be used for legal, medical or other types of advice; they are only provided for information as outlined in our [TOS](https://web.archive.org/tos).   
 Use of this web site is provided "AS IS" with no warranty whatsoever.
 
 **AllBestArticles.com** does not endorse any statements or claims made in any article on this site and does not accept any responsibility or liability for the use or misuse of the article content on this site or reliance by any person on the site's contents. By using this web site, you agree not to hold **AllBestArticles.com** , its owner, it's partner sites and/or any other affiliated sites or persons, liable for any damages that may occur from use of this web site.
