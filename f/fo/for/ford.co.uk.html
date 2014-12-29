@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the ford.co.uk privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629140609id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ford.co.uk privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229174108id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html style="" class=" js flexbox flexboxlegacy canvas canvastext no-touch postmessage websqldatabase indexeddb hashchange history websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache targetselector"><head><style type="text/css"></style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-start{clip:rect(0,auto,auto,0);-ms-zoom:1.0001;}.ng-animate-active{clip:rect(-1px,auto,auto,0);-ms-zoom:1;}</style>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
 <title>Privacy Policy</title>
-<!-- Server: 68  -->
+<!-- Server: -113  -->
 <meta name="robots" content="index,follow">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta http-equiv="content-language" content="en_UK">
@@ -26,7 +26,7 @@ ForceRedirectUserAgents = 'iphone,ipod,android,blackberry,mini,palm,ipad,xoom,sc
 ForceRedirectUserAgentsBypass = 'Win64,Win32';
 ForceRedirectMinWidth = '480';
 MobileHomePageRedirectURL = 'http:\/\/m.ford.co.uk';
-MobileRedirectURL = MobileHomePageRedirectURL + '/MobileFooter/PrivacyPolicy';
+MobileRedirectURL = MobileHomePageRedirectURL + '/PrivacyPolicy';
 </script>
 <!--  doing javascript calling from is body-->
 <script type="text/javascript" src="/cs/ContentServer?pagename=ENGInE%2fscript%2fGroupedJS"></script>	
@@ -100,107 +100,11 @@ secondLevelDomain = 'ford.co.uk';
 <script>
 </script>
 <script src="//cdn.optimizely.com/js/654941032.js"></script>
+<!-- enableiPerceptions is - 'null' -->
 <base href="/Footer/PrivacyPolicy/">
 <link rel="stylesheet" type="text/css" href="/cs/ContentServer?pagename=ENGInE/css/ep2_header_footer">
 <script src="/cs/ContentServer?pagename=EP2/ENGInE/script/api/modernizr-2.5.3.min"></script>
-<script type="text/javascript">
-var EngineGlobals = EngineGlobals || {};
-EngineGlobals.site = 'UKEN_ENGInE';
-EngineGlobals.siteSetup = {"EcatLocale":"en-gb","DistanceUnit":"miles","configuratorPrefixUrl":"ConfigureyourCar","SecondLevelDomain":"ford.co.uk","EcatMarketCode":"GB","OmnitureLanguage":"eng","OmnitureScript":"1204986890525","SecureDomain":"secure.ford.co.uk","MarketCode":"GBR","carsPrefixUrl":"Cars","HttpDomain":"www.ford.co.uk","carsModelsPrefixUrl":"Models","Locale":"en_GB","CookieText":"1205010534370","HttpDomainAliases":"wwwprod-couk.engine.ford.com","OmnitureCountry":"ford-uk"};
-EngineGlobals.isMobile = false;
-// 3 letter ISO code
-EngineGlobals.isoCountry = 'GBR';
-EngineGlobals.i18n = {
-currencySymbol : '\u00A3',
-currencySymbolPosition : 'prefix',
-monetaryDecimalSeparator : '.',
-thousandSeparator : ',',
-currencyCodeToSymbolMap : {"USD":"$","PLN":"z\u0142","HUF":"Ft","BGN":"\u043b\u0432","EUR":"\u20ac","RSD":"\u0414\u0438\u043d.","SEK":"kr","ALL":"Lek","HRK":"kn","LTL":"Lt","BYR":"p.","BAM":"KM","EEK":"kr","RUB":" \u0440\u0443\u0431","UAH":"\u20b4","CHF":"CHF ","ISK":"kr","NOK":"kr","GBP":"\u00a3","TRL":"\u20a4","MKD":"\u0434\u0435\u043d","RON":"lei","CZK":" K\u010d","LVL":"Ls","JPY":"\u00a5"},
-// Formats currency in current locale's format
-formatCurrency: function (val, currencyCode) {
-var currencySymbol;
-if (typeof currencyCode !== 'undefined') {
-currencySymbol = this.currencyCodeToSymbolMap[currencyCode];
-// Couldn't find the currency, stick to the code
-if (typeof currencySymbol === 'undefined') {
-currencySymbol = currencyCode;
-}
-} else {
-// Moved the below statement within else block. 
-// B'coz it's placed outside the else block which overrides currency symbol.
-currencySymbol = this.currencySymbol;
-}	    		    
-// Support strings
-if (typeof val !== 'number') {
-val = parseFloat(val, 10);
-}
-if (isNaN(val)) {
-val = 0;
-}
-var intPart = Math.floor(val);
-var decimalPart = val - intPart;
-intPart = ''+intPart;
-// inject thousand separator into int part
-var result = '';
-for (var i = intPart.length - 1, n = i; i >= 0; i--) {
-if ((n - i) % 3 === 0 && result !== '') {
-result = this.thousandSeparator + result;
-}
-result = intPart.charAt(i) + result;
-}
-// add decimal part, if any
-if (decimalPart !== 0) {
-decimalPart = ('' + decimalPart.toFixed(2)).substring(2);
-result = result + this.monetaryDecimalSeparator + decimalPart;
-}
-// Currency symbol
-if (this.currencySymbolPosition === 'prefix') {
-result = currencySymbol + result;
-} else {
-result = result + currencySymbol;            
-}
-return result;
-}
-};
-// Event hooker
-EngineGlobals.onLoad = function(callback) {
-if (!!(window.addEventListener)) {
-// normal browsers
-window.addEventListener("DOMContentLoaded", callback);
-} else {
-// internet exploder 
-window.attachEvent("onload", callback);
-}
-};
-// Adds javascript to body (jquery does more than it should to do it)
-EngineGlobals.injectScript = function(url) {
-var tag = document.createElement('script');
-tag.type = 'text/javascript';
-script.src = url;
-document.body.appendChild(tag);
-};
-// Cookie related methods 
-EngineGlobals.cookie = {
-// returns cookie value, if found, or nothing (undefined)
-read : function(name) {
-var nameEQ = name + "=";
-var ca = document.cookie.split(';'); 
-for(var i=0;i < ca.length;i++) {
-var c = ca[i];
-while (c.charAt(0)==' ') c = c.substring(1,c.length);
-if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-}
-}	
-};
-// Global site terms, accessible from Javascript, used in automatic dialogs
-EngineGlobals.txt = {
-close: 'close',
-closeWindow: 'closeWindow',
-cancel: 'cancel',
-help:  'help',
-ok: 'ok'
-};
-</script>
+<script src="/cs/ContentServer?pagename=ENGInE/EP2/common/EngineJSGlobals&amp;mode=script&amp;site=UKEN_ENGInE&amp;mobile=null"></script>
 <script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=28458953"></script></head>
 <body onload="engine.navigation.init(document.getElementById('currentContext'));engine.navigation.init(document.getElementById('nextSteps'));">
 <div id="wrapper" role="page">
@@ -237,14 +141,15 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 <div class="flyout">
 <dl role="tree">
 <dd role="treeitem"><a href="/SBE/RequestATestDrive/TestDriveCar" class="om_he_sb_SBET">Cars</a></dd>
-<dd role="treeitem"><a href="/SBE/RequestATestDrive/TestDrive_Van" class="om_he_sb_SBET">Commercial Vehicles</a></dd>
+<dd role="treeitem"><a href="/SBE/RequestATestDrive/TestDrive_Van" class="om_he_sb">Commercial Vehicles</a></dd>
 </dl>
 </div>
 </li>
-<li role="listitem" class="levelOne"><a role="link" class="sbe om_he_sb" href="#"><span style="background-image:url('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214470517433&amp;blobkey=id')"></span>Brochures &amp; Prices</a>           
+<li role="listitem" class="levelOne"><a role="link" class="sbe om_he_sb" href="#"><span style="background-image:url('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214481882132&amp;blobkey=id')"></span>Brochures &amp; Prices</a>           
 <div class="flyout">
 <dl role="tree">
-<dd role="treeitem"><a href="/SBE/Brochures/BrochuresandPricelists" class="om_he_sb_SBEB">Brochures &amp; Price Lists</a></dd>
+<dd role="treeitem"><a href="/SBE/Brochures/BrochuresandPricelists" class="om_he_sb_SBEB">Cars</a></dd>
+<dd role="treeitem"><a href="/SBE/Brochures/BrochuresandPricelistsVan" class="om_he_sb">Commercial Vehicles</a></dd>
 </dl>
 </div>
 </li>
@@ -252,7 +157,7 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 </li>
 <li role="listitem"><a role="link" class="sbe om_he_sb_SBED" href="/SBE/DealerLocator"><span style="background-image:url('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214470907521&amp;blobkey=id')"></span>Dealer Locator</a>
 </li>
-<li role="listitem" class="levelOne"><a role="link" class="sbe om_he_sb" href="#"><span style="background-image:url('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214464529276&amp;blobkey=id')"></span>Book a Service</a>           
+<li role="listitem" class="levelOne"><a role="link" class="sbe om_he_sb" href="#"><span style="background-image:url('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214478968107&amp;blobkey=id')"></span>Book a Service</a>           
 <div class="flyout">
 <dl role="tree">
 <dd role="treeitem"><a href="/OSB" class="om_he_sb">Book a Scheduled Service</a></dd>
@@ -262,13 +167,33 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 </li>
 </ul>
 <ul class="userAccess fr">
-<li><a href="/Hidden/MyFord/Log-in-to-my-ford" target="_blank"><span style="background-image:url('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214455989207&amp;blobkey=id')"></span>SIGN IN</a></li>
+<li><a href="/Hidden/MyFord/Log-in-to-my-ford" target="_blank"><span style="background-image:url('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214455989207&amp;blobkey=id')"></span><span id="loggedinTitle">SIGN IN</span></a></li>
 </ul>
+<script type="text/javascript">	
+if(window.addEventListener){
+window.addEventListener("load", function() {
+if(EngineGlobals.cookie.read('opus_auth')){
+$('#loggedinTitle').html('My Ford');	
+}else{
+$('#loggedinTitle').html('SIGN IN');	
+}
+}
+,false);
+}else{
+window.attachEvent("onload", function() {
+if(EngineGlobals.cookie.read('opus_auth')){
+$('#loggedinTitle').html('My Ford');	
+}else{
+$('#loggedinTitle').html('SIGN IN');	
+}
+});
+}
+</script>
 </nav>
 <nav id="mainTopNav" role="navigation">
 <h2 class="navTitle">Ford site navigation</h2>
 <ul id="sections" role="menu">
-<li class="levelOne" role="menuitem">
+<li class="levelOne" role="menuitem" data-nav="pv">
 <a role="link" class="mainTopNav om_he_pv_li" href="/Cars"><span>Cars</span></a>
 <div class="doormat">
 <div class="innerWrap">
@@ -280,18 +205,18 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/Fiesta-ST">Fiesta ST</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/B-MAX">B-MAX</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/EcoSport">EcoSport</a></li>
+<li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/NewFocus">New Focus</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/Focus">Focus</a></li>
-<li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/Focus-ST">Focus ST</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/C-MAX">C-MAX and Grand C-MAX</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/KUGA">Kuga</a></li>
-<li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/Mondeo">Mondeo</a></li>
+<li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/AllNewMondeo">All-New Mondeo</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/Mustang">Mustang</a></li>
+<li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/Vignale">Vignale</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/S-MAX">S-MAX</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/Galaxy">Galaxy</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/Ranger">Ranger</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/TourneoCustom">Tourneo Custom</a></li>
 <li role="menuitem" class=""><a role="link" class="om_he_pv_np " href="/Cars/Tourneo-Connect">Tourneo Connect</a></li>
-<li role="menuitem" class="special"><a role="link" class="om_he_pv_tc " href="http://www.truechoiceapp.com/?loc=FordUK">Help me Choose</a></li>
 </ul>
 <div class="pvnp-gradient"></div>
 <div class="wrapperTabContent">
@@ -355,26 +280,26 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 </figure>
 </section>
 </div>
-<div class="tabContent" id="Focus" role="tabpanel" style="display:none;">
+<div class="tabContent" id="NewFocus" role="tabpanel" style="display:none;">
 <section class="doormatContent fl">
 <h2 class="bigHeading"><span class="mark">Ford</span> Focus</h2>
 <figure>
-<a href="/Cars/Focus" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/00i/yyt/images/resize340xgbr00iyyta01a11(a)(a)a5j_1_0.png" role="presentation" alt="Focus"></a> 
+<a href="/Cars/NewFocus" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/00l/yyy/images/resize340xgbr00lyyy1j51td(a)(a)coz_1_0.png" role="presentation" alt="New Focus"></a> 
 <!--Rendering the CTA Button-->
 <div class="btnLink">
-<a title="" href="/Cars/Focus" class="om_he_pv_np">View this car</a>
+<a title="" href="/Cars/NewFocus" class="om_he_pv_np">View this car</a>
 </div>
 </figure>
 </section>
 </div>
-<div class="tabContent" id="FocusST" role="tabpanel" style="display:none;">
+<div class="tabContent" id="Focus" role="tabpanel" style="display:none;">
 <section class="doormatContent fl">
-<h2 class="bigHeading"><span class="mark">Ford</span> Focus ST</h2>
+<h2 class="bigHeading"><span class="mark">Ford</span> Focus</h2>
 <figure>
-<a href="/Cars/Focus-ST" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/00i/yyt/images/resize340xgbr00iyyta01a1s(a)(a)a5j_1_0.png" role="presentation" alt="Focus ST"></a> 
+<a href="/Cars/Focus" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/00i/yyw/images/resize340xgbr00iyywa01a11(a)(a)a5j_1_0.png" role="presentation" alt="Focus"></a> 
 <!--Rendering the CTA Button-->
 <div class="btnLink">
-<a title="" href="/Cars/Focus-ST" class="om_he_pv_np">View this car</a>
+<a title="" href="/Cars/Focus" class="om_he_pv_np">View this car</a>
 </div>
 </figure>
 </section>
@@ -395,7 +320,7 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 <section class="doormatContent fl">
 <h2 class="bigHeading"><span class="mark">Ford</span> Kuga</h2>
 <figure>
-<a href="/Cars/KUGA" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/00o/yyw/images/resize340xgbr00oyyw7sa7ti(a)(a)7xr_1_0.png" role="presentation" alt="Kuga"></a> 
+<a href="/Cars/KUGA" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/00o/yyy/images/resize340xgbr00oyyy7sa7ti(a)(a)7xr_1_0.png" role="presentation" alt="Kuga"></a> 
 <!--Rendering the CTA Button-->
 <div class="btnLink">
 <a title="" href="/Cars/KUGA" class="om_he_pv_np">View this car</a>
@@ -403,14 +328,14 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 </figure>
 </section>
 </div>
-<div class="tabContent" id="Mondeo" role="tabpanel" style="display:none;">
+<div class="tabContent" id="AllNewMondeo" role="tabpanel" style="display:none;">
 <section class="doormatContent fl">
-<h2 class="bigHeading"><span class="mark">Ford</span> Mondeo</h2>
+<h2 class="bigHeading"><span class="mark">All-New </span> Mondeo</h2>
 <figure>
-<a href="/Cars/Mondeo" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/00q/yyn/images/resize340xgbr00qyynbl5vgn(a)(a)wga_1_0.png" role="presentation" alt="Mondeo"></a> 
+<a href="/Cars/AllNewMondeo" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/00r/yyy/images/resize340xgbr00ryyyr05r3a(a)(a)rjg_1_0.png" role="presentation" alt="All-New Mondeo"></a> 
 <!--Rendering the CTA Button-->
 <div class="btnLink">
-<a title="" href="/Cars/Mondeo" class="om_he_pv_np">View this car</a>
+<a title="" href="/Cars/AllNewMondeo" class="om_he_pv_np">View this car</a>
 </div>
 </figure>
 </section>
@@ -423,6 +348,18 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 <!--Rendering the CTA Button-->
 <div class="btnLink">
 <a title="" href="/Cars/Mustang" class="om_he_pv_np">View this car</a>
+</div>
+</figure>
+</section>
+</div>
+<div class="tabContent" id="Vignale" role="tabpanel" style="display:none;">
+<section class="doormatContent fl">
+<h2 class="bigHeading"><span class="mark">Ford</span> Vignale</h2>
+<figure>
+<a href="/Cars/Vignale" class="om_he_pv_np"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214479436245&amp;blobkey=id" role="presentation" alt="Vignale"></a> 
+<!--Rendering the CTA Button-->
+<div class="btnLink">
+<a title="" href="/Cars/Vignale" class="om_he_pv_np">EXPERIENCE VIGNALE</a>
 </div>
 </figure>
 </section>
@@ -455,7 +392,7 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 <section class="doormatContent fl">
 <h2 class="bigHeading"><span class="mark">Ford</span> Ranger</h2>
 <figure>
-<a href="/Cars/Ranger" class="om_he_pv_np"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214464073544&amp;blobkey=id" role="presentation" alt="Ranger"></a> 
+<a href="/Cars/Ranger" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_ng/images/resize618xgbrsu_ngca_bzcd218(len)(hei)(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" role="presentation" alt="Ranger"></a> 
 <!--Rendering the CTA Button-->
 <div class="btnLink">
 <a title="" href="/Cars/Ranger" class="om_he_pv_np">View this car</a>
@@ -467,7 +404,7 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 <section class="doormatContent fl">
 <h2 class="bigHeading"><span class="mark">Ford</span> Tourneo Custom</h2>
 <figure>
-<a href="/Cars/TourneoCustom" class="om_he_pv_np"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214467875471&amp;blobkey=id" role="presentation" alt="Tourneo Custom"></a> 
+<a href="/Cars/TourneoCustom" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_dv/images/resize618xgbrsu_dvca_ctcd214cd426cd101(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" role="presentation" alt="Tourneo Custom"></a> 
 <!--Rendering the CTA Button-->
 <div class="btnLink">
 <a title="" href="/Cars/TourneoCustom" class="om_he_pv_np">View this car</a>
@@ -479,22 +416,10 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 <section class="doormatContent fl">
 <h2 class="bigHeading"><span class="mark">Ford</span> Tourneo Connect</h2>
 <figure>
-<a href="/Cars/Tourneo-Connect" class="om_he_pv_np"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214464079033&amp;blobkey=id" role="presentation" alt="Tourneo Connect"></a> 
+<a href="/Cars/Tourneo-Connect" class="om_he_pv_np"><img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_to/images/resize618xgbrsu_toca_tocd214cd426cd101(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" role="presentation" alt="Tourneo Connect"></a> 
 <!--Rendering the CTA Button-->
 <div class="btnLink">
 <a title="" href="/Cars/Tourneo-Connect" class="om_he_pv_np">View this car</a>
-</div>
-</figure>
-</section>
-</div>
-<div class="tabContent" id="HelpmeChoose" role="tabpanel" style="display:none;">
-<section class="doormatContent fl">
-<h2 class="bigHeading"><span class="mark"></span> Help me Choose</h2>
-<figure>
-<a href="http://www.truechoiceapp.com/?loc=FordUK" class="om_he_pv_np"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214469415162&amp;blobkey=id" role="presentation" alt="Help me Choose"></a> 
-<!--Rendering the CTA Button-->
-<div class="btnLink">
-<a title="" href="http://www.truechoiceapp.com/?loc=FordUK" class="om_he_pv_tc">Start here</a>
 </div>
 </figure>
 </section>
@@ -506,7 +431,7 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 <aside class="miscellaneousFooter  x-axis-footer footer-length-3">
 <div class="content">
 <a href="/Hidden/DealerLocator" class="om_ca_hl_0">
-<div class="section-left"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214470201017&amp;blobkey=id" alt="Dealers" role="presentation"></div>
+<div class="section-left"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480943201&amp;blobkey=id" alt="Dealers" role="presentation"></div>
 <div class="section-right">
 <h3 class="normalHeading">Contact a Dealer</h3>
 <p></p>
@@ -524,7 +449,7 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 </div>
 <div class="content">
 <a href="/Cars/CarPromotions" class="om_ca_hl_2">
-<div class="section-left"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214472254257&amp;blobkey=id" alt="Promotions" role="presentation"></div>
+<div class="section-left"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214482317863&amp;blobkey=id" alt="Promotions" role="presentation"></div>
 <div class="section-right">
 <h3 class="normalHeading">Car Promotions</h3>
 <p></p>
@@ -548,40 +473,167 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 </div>	
 </div>
 </li>
-<li class="levelOne" role="menuitem">
-<a role="link" href="/CommercialVehicles" class="om_he_at_li"><span>Commercial vehicles</span></a>
-<div class="flyout">
-<ul class="subMenu" role="menu">
-<li role="menuitem"><a href="/CommercialVehicles/Overview" class="om_he_ac_li">Overview</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/CommercialPromotions" class="om_he_ac_li">Commercial Promotions</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/Fiesta-Van" class="om_he_ac_li">Fiesta Van</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/Transit-Range" class="om_he_ac_li">All-New Transit Range</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/All-New-Transit-Courier" class="om_he_ac_li">New Transit Courier</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/All-New-Transit-Connect" class="om_he_ac_li">All-New Transit Connect</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/TransitCustom" class="om_he_ac_li">Transit Custom</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/Transit" class="om_he_ac_li">Ford Transit</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/TransitChassisCab" class="om_he_ac_li">Transit Chassis Cab</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/TransitMotorhomesChassis" class="om_he_ac_li">Transit Motorhomes Chassis</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/TransitMinibus" class="om_he_ac_li">Transit Minibus</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/All-New-Transit" class="om_he_ac_li">All-New Transit</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/Ranger" class="om_he_ac_li">Ranger</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/VehicleConversion" class="om_he_ac_li">Vehicle Conversion Body Equipment  Mounting Manual</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/TourneoCustom" class="om_he_ac_li">Model-Tourneo Custom</a></li>
-<li role="menuitem"><a href="/CommercialVehicles/Tourneo-Connect" class="om_he_ac_li">Model Tourneo Connect</a></li>
+<li class="levelOne" role="menuitem" data-nav="cv">
+<a role="link" class="mainTopNav om_he_pv_li" href="/CommercialVehicles"><span>Commercial vehicles</span></a>
+<div class="doormat navigation-grid-wrapper">
+<ul class="primary-nav-items" role="menu">
+<li role="menuitem" class="active">
+<a role="link" class="om_he_pv_np">Vans</a>
+<!-- these are the child vehicles of this menu item node. They need to appear here as direct descendants -->
+<ul class="navigation-grid-items">
+<li class="title">Vans</li>
+<li> 
+<a href="/CommercialVehicles/Fiesta-Van">
+<img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_va/images/resize400xgbrsu_vaca_vacd257(len)(hei)(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" alt="Fiesta Van" style="width:119px; height:67px; margin-top:56px;">
+<h5>Fiesta Van</h5>
+<span>
+From&nbsp; <strong>£11,180 </strong>Exc. VAT 
+</span>
+</a>
+</li>
+<li> 
+<a href="/CommercialVehicles/All-New-Transit-Courier">
+<img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_cr/images/resize400xgbrsu_crca_crcd203(len)(hei)(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" alt="Transit Courier" style="width:131px; height:74px; margin-top:51px;">
+<h5>Transit Courier</h5>
+<span>
+From&nbsp; <strong>£11,045 </strong>Exc. VAT 
+</span>
+</a>
+</li>
+<li> 
+<a href="/CommercialVehicles/All-New-Transit-Connect">
+<img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_tt/images/resize400xgbrsu_ttca_mkcd203cd421cd101(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" alt="Transit Connect" style="width:145px; height:82px; margin-top:29px;">
+<h5>Transit Connect</h5>
+<span>
+From&nbsp; <strong>£15,808 </strong>Exc. VAT 
+</span>
+</a>
+</li>
+<li> 
+<a href="/CommercialVehicles/TransitCustom">
+<img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_ct/images/resize400xgbrsu_ctca_tpcd203cd426cd108(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" alt="Transit Custom" style="width:150px; height:84px; margin-top:24px;">
+<h5>Transit Custom</h5>
+<span>
+From&nbsp; <strong>£18,045 </strong>Exc. VAT 
+</span>
+</a>
+</li>
+<li> 
+<a href="/CommercialVehicles/All-New-Transit">
+<img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_tv/images/resize400xgbrsu_tvca_tvcd203cd422cd102(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" alt="Transit Van" style="width:170px; height:96px; margin-top:0px;">
+<h5>Transit Van</h5>
+<span>
+From&nbsp; <strong>£20,795 </strong>Exc. VAT 
+</span>
+</a>
+</li>
 </ul>
+</li>
+<li role="menuitem">
+<a role="link" class="om_he_pv_np">Motorhomes</a>
+<!-- these are the child vehicles of this menu item node. They need to appear here as direct descendants -->
+<ul class="navigation-grid-items">
+<li class="title">Motorhomes</li>
+<li> 
+<a href="/CommercialVehicles/Transit-Motor-Caravan">
+<img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214481840798&amp;blobkey=id" alt="Transit Motorhomes Chassis" style="width:170px; height:96px; margin-top:0px;">
+<h5>Transit Motorhomes Chassis</h5>
+<span>
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li role="menuitem">
+<a role="link" class="om_he_pv_np">Pickups</a>
+<!-- these are the child vehicles of this menu item node. They need to appear here as direct descendants -->
+<ul class="navigation-grid-items">
+<li class="title">Pickups</li>
+<li> 
+<a href="/CommercialVehicles/Ranger">
+<img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_ng/images/resize400xgbrsu_ngca_bzcd218(len)(hei)(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" alt="Ranger" style="width:146px; height:83px; margin-top:27px;">
+<h5>Ranger</h5>
+<span>
+From&nbsp; <strong>£15,133 </strong>Exc. VAT 
+</span>
+</a>
+</li>
+</ul>
+</li>
+<li role="menuitem">
+<a role="link" class="om_he_pv_np">People Movers</a>
+<!-- these are the child vehicles of this menu item node. They need to appear here as direct descendants -->
+<ul class="navigation-grid-items">
+<li class="title">People Movers</li>
+<li> 
+<a href="/CommercialVehicles/Tourneo-Connect">
+<img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_to/images/resize400xgbrsu_toca_tocd214cd426cd101(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" alt="Tourneo Connect" style="width:145px; height:82px; margin-top:29px;">
+<h5>Tourneo Connect</h5>
+<span>
+From&nbsp; <strong>£11,804 </strong>Exc. VAT 
+</span>
+</a>
+</li>
+<li> 
+<a href="/Cars/TourneoCustom">
+<img src="https://www.gforce.ford.com/nas/gforcenaslive/gbr/su_dv/images/resize400xgbrsu_dvca_ctcd214cd426cd101(pay)(eng)(tra)(axl)(rwh)pn3gz_1_0.png" alt="Tourneo Custom" style="width:151px; height:85px; margin-top:22px;">
+<h5>Tourneo Custom</h5>
+<span>
+From&nbsp; <strong>£23,495 </strong>Exc. VAT 
+</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<!-- Displaying 3 additional market specified links  -->
+<aside class="miscellaneousFooter  x-axis-footer footer-length-3">
+<div class="content">
+<a href="/SBE/DealerLocator" class="om_ca_hl_0">
+<div class="section-left"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214480943201&amp;blobkey=id" alt="Dealers" role="presentation"></div>
+<div class="section-right">
+<h3 class="normalHeading">Contact a Dealer</h3>
+<p></p>
+</div>
+</a>
+</div>
+<div class="content">
+<a href="/CommercialVehicles/CommercialPromotions" class="om_ca_hl_1">
+<div class="section-left"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214482317863&amp;blobkey=id" alt="Promotions" role="presentation"></div>
+<div class="section-right">
+<h3 class="normalHeading">Commercial Promotions</h3>
+<p></p>
+</div>
+</a>
+</div>
+<div class="content">
+<a href="/SBE/RequestATestDrive/TestDrive_Van" class="om_ca_hl_2">
+<div class="section-left"><img src="/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobwhere=1214481878644&amp;blobkey=id" alt="Test Drive" role="presentation"></div>
+<div class="section-right">
+<h3 class="normalHeading">Test Drive</h3>
+<p></p>
+</div>
+</a>
+</div>
+</aside>
+<!-- Displaying Tertiary Block Links for CV -->
+<aside class="miscellaneousFooter  x-axis-footer footer-length-2">
+<div class="content slate">
+<a class="tertiary-link om_ca_tl_1" href="/CommercialVehicles/Transit-Range">Transit Range</a>
+</div>
+<div class="content slate">
+<a class="tertiary-link om_ca_tl_2" href="/GoFurther">Technology</a>
+</div>
+</aside>
 </div>
 </li>
-<li class="levelOne" role="menuitem">
+<li class="levelOne" role="menuitem" data-nav="generic">
 <a role="link" href="/GoFurther" class="om_he_at_li"><span>Technology</span></a>
 </li>
-<li class="levelOne" role="menuitem">
+<li class="levelOne" role="menuitem" data-nav="generic">
 <a role="link" href="/Approved-used-cars" class="om_he_at_li"><span>Approved Used</span></a>
-<div class="flyout">
-<ul class="subMenu" role="menu">
-</ul>
-</div>
 </li>
-<li class="levelOne" role="menuitem">
+<li class="levelOne" role="menuitem" data-nav="generic">
 <a role="link" href="/FordFleet" class="om_he_at_li"><span>Fleet</span></a>
 <div class="flyout">
 <ul class="subMenu" role="menu">
@@ -599,7 +651,7 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 </ul>
 </div>
 </li>
-<li class="levelOne" role="menuitem">
+<li class="levelOne" role="menuitem" data-nav="generic">
 <a role="link" href="/BuyingandprotectingyourFord" class="om_he_at_li"><span>Buy &amp; Protect</span></a>
 <div class="flyout">
 <ul class="subMenu" role="menu">
@@ -618,7 +670,7 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 </ul>
 </div>
 </li>
-<li class="levelOne" role="menuitem">
+<li class="levelOne" role="menuitem" data-nav="generic">
 <a role="link" href="/FordMotability" class="om_he_at_li"><span>Motability</span></a>
 <div class="flyout">
 <ul class="subMenu" role="menu">
@@ -632,15 +684,16 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 </ul>
 </div>
 </li>
-<li class="levelOne" role="menuitem">
+<li class="levelOne" role="menuitem" data-nav="generic">
 <a role="link" href="/OwnerServices" class="om_he_at_li"><span>Owners</span></a>
 <div class="flyout">
 <ul class="subMenu" role="menu">
 <li role="menuitem"><a href="/OwnerServices/Overview" class="om_he_ac_li">Overview</a></li>
-<li role="menuitem"><a href="/OwnerServices/BlueService" class="om_he_ac_li">Ford BlueService</a></li>
+<li role="menuitem"><a href="/OwnerServices/BlueService" class="om_he_ac_li">Ford BlueService - The Ford Service Promise</a></li>
+<li role="menuitem"><a href="/OwnerServices/Transit24" class="om_he_ac_li">Transit 24 - The Commercial Vehicle Service Promise</a></li>
+<li role="menuitem"><a href="/OwnerServices/MotorcraftFourPlus" class="om_he_ac_li">Ford Motorcraft 4+ - Offers for Drivers of Vehicles 4 years and older</a></li>
+<li role="menuitem"><a href="/OwnerServices/FordServiceApp" class="om_he_ac_li">Ford Service App</a></li>
 <li role="menuitem"><a href="/OwnerServices/SYNC-and-Bluetooth-Support" class="om_he_ac_li">SYNC &amp; Bluetooth Support</a></li>
-<li role="menuitem"><a href="/OwnerServices/Transit24" class="om_he_ac_li">Transit24 - The Commercial Vehicles Price Promise</a></li>
-<li role="menuitem"><a href="/OwnerServices/MotorcraftFourPlus" class="om_he_ac_li">Motorcraft FourPlus</a></li>
 <li role="menuitem"><a href="/OwnerServices/Promotions" class="om_he_ac_li">Promotions</a></li>
 <li role="menuitem"><a href="/OwnerServices/MyFord" class="om_he_ac_li">My Ford</a></li>
 <li role="menuitem"><a href="/OwnerServices/VehicleServiceandRepair" class="om_he_ac_li">Vehicle service and repair</a></li>
@@ -654,10 +707,11 @@ The Ford website uses certain cookies. A cookie is a text-only string of informa
 <li role="menuitem"><a href="/OwnerServices/Owners-Manual" class="om_he_ac_li">Download an Owner's Manual</a></li>
 <li role="menuitem"><a href="/OwnerServices/VehicleSecurity" class="om_he_ac_li">Vehicle Security</a></li>
 <li role="menuitem"><a href="/OwnerServices/FAQs" class="om_he_ac_li">FAQs</a></li>
+<li role="menuitem"><a href="/OwnerServices/TaxDiscInformation" class="om_he_ac_li">Tax Disc Information	</a></li>
 </ul>
 </div>
 </li>
-<li class="levelOne" role="menuitem">
+<li class="levelOne" role="menuitem" data-nav="generic">
 <a role="link" href="/FordRental" class="om_he_at_li"><span>Rental</span></a>
 <div class="flyout">
 <ul class="subMenu" role="menu">
@@ -726,6 +780,10 @@ $(document).ready(onPageLoad);
 }
 // ]]>
 </script> 
+<script>
+var namplate = '';
+var googleAdServerNameplateName = namplate.replace("ford ","");
+</script>
 <script type="text/javascript">
 String.prototype.endsWith = function(str){
 return (this.match(str+"$")==str)
@@ -754,10 +812,101 @@ return currentURL;
 tc_page_alias = createPath(); 
 </script>
 <script type="text/javascript" src="/cs/ENGInE/js/logging/sophus/logging.js"></script><script language="JavaScript" type="text/javascript" src="/cs/ENGInE/js/logging/sophus/logging-code.js"></script>
-<!-- Engine tag - loading 'null::Body' -->
+<!-- Engine tag - loading 'Layout4_EP2::Body' -->
 <!-- Loading sitesetup -->
+<!-- 'Layout4_EP2' is calling DoubleClick from 'Body' -->
+<script>
+if (typeof isDoubleclickTriggered == 'undefined') {
+var isDoubleclickTriggered = 'false';
+}
+//console.log("isDoubleclickTriggered-->>"+isDoubleclickTriggered);
+</script>
+<script type="text/javascript">
+function getCookie(c_name) {
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1) {
+c_start = c_value.indexOf(c_name + "=");
+}
+if (c_start == -1) {
+c_value = null;
+} else {
+c_start = c_value.indexOf("=", c_start) + 1;
+var c_end = c_value.indexOf(";", c_start);
+if (c_end == -1) {
+c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+if(isDoubleclickTriggered === 'false'){
+var isLogin = getCookie("isOwnerAuthenticated");
+var visitorLoginState;
+if (isLogin === 'true') {
+visitorLoginState = 'login';
+} else {
+visitorLoginState = 'not login';
+}
+var currentURL = document.URL;
+dataLayer = [];
+dataLayer.push({"URL":currentURL});
+dataLayer.push({"visitorLoginState" : visitorLoginState});
+if (navigator && navigator.userAgent) {
+dataLayer.push({"userAgent": navigator.userAgent});
+}
+if (typeof siteID != 'undefined') {
+dataLayer.push({"siteID":siteID});
+}else{
+dataLayer.push({"siteID":'1204903533932'});
+}
+dataLayer.push({"country":'uk'});
+if (typeof googleAdServerNameplateId != 'undefined') {
+dataLayer.push({"nameplateID":googleAdServerNameplateId});
+}
+if (typeof googleAdServerNameplateName != 'undefined') {
+googleAdServerNameplateName = "ford " + googleAdServerNameplateName.toLowerCase(); 
+dataLayer.push({"nameplateName" : googleAdServerNameplateName});
+}
+if (typeof osbNameplateName != 'undefined') {
+osbNameplateName = osbNameplateName.toLowerCase(); 
+dataLayer.push({"nameplateName" : osbNameplateName});
+}
+if (typeof bookingReferenceNumber != 'undefined') {
+dataLayer.push({"leadID" : bookingReferenceNumber});
+}
+dataLayer.push({"pageTitle":'Privacy Policy'});
+dataLayer.push({"pageCategory":'ford-brand'});
+if (typeof osb_pageId != 'undefined') {
+dataLayer.push({"pageID":osb_pageId});
+}else{
+if(typeof mobile_bnp_pageId != 'undefined') {
+dataLayer.push({"pageID":mobile_bnp_pageId});
+}else{
+}
+}
+dataLayer.push({"language":'eng'});
+console.log(JSON.stringify(dataLayer));	
+}
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe
+src="//www.googletagmanager.com/ns.html?id=GTM-PLW9L" height="0"
+width="0" style="display: none; visibility: hidden"></iframe></noscript>
+<script type="text/javascript">
+if(isDoubleclickTriggered === 'false'){
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PLW9L');
+}
+isDoubleclickTriggered = 'true';
+</script>
+<!-- End Google Tag Manager -->
 <script>
 </script>
+<!-- enableiPerceptions is - 'null' -->
 <div id="frame">
 <!-- Header --> 
 <!-- <Start> --> 
@@ -784,63 +933,7 @@ tc_page_alias = createPath();
 <div class="btoArticleTitle">Privacy</div> 		
 <div class="btoArticleText">
 <div class="btoArticleAbstract">
-<div><strong>Internet privacy policy</strong></div>
-<div><strong>&nbsp;</strong></div>
-<div>Ford Motor Company Limited ("Ford") respects the privacy of every individual who visits its Web Sites and any information collected about you will firstly be used to fulfil any service you might request and secondly improve how as a company we serve you. We do this by making appropriate use of the information.</div>
-<div>&nbsp;</div>
-<div>This information will not be disclosed to anyone outside of the Ford Motor Company Group ¹, its affiliated or associated companies, its agencies, dealers or licensees, and other companies with which Ford has arranged services for your benefit and any assignees, transferees or replacements of the above referred parties. It will be treated in accordance with the legal provisions under English law concerning data protection and may be transferred to the USA or countries outside the EEA for the purpose of business administration.</div>
-<div>&nbsp;</div>
-<div>You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However, certain legislation, especially related to safety issues or financial regulation (e.g. when dealing with Ford Credit) might prevent this.</div>
-<div>&nbsp;</div>
-<div>If you have any specific questions that are not covered in the FAQ section please mail your enquiry to Ford Motor Company Limited, PO Box 2439, Glasgow, G40 3WX.</div>
-<div>&nbsp;</div>
-<div>¹The Ford Motor Company Group, a company based in the United States of America, ("FMC") in the context of this Privacy Policy includes those companies where Ford owns at least 25% of the company (this includes Mazda).</div>
-<div>&nbsp;</div>
-<div>&nbsp;</div>
-<div><strong>Mobile</strong><strong> and WAP privacy policy</strong></div>
-<div>&nbsp;</div>
-<div>Ford respects the privacy of every individual who visits its WAP Sites and any information collected about you will firstly be used to fulfil any service you might request and secondly improve how as a company we serve you. We do this by making appropriate use of the information.</div>
-<div>&nbsp;</div>
-<div><strong>Types of permissions&nbsp;</strong></div>
-<div>For Brochure requests – where permission is given for future contact you are consenting to receive text and postal contacts.</div>
-<div>For Keep Me Informed requests – where permission is given for future contact you are consenting to receive text and postal contacts.</div>
-<div>For Test Drives requests – where permission is given for future contact you are consenting to receive text, voice and voicemail and postal contacts.&nbsp;</div>
-<div><strong>&nbsp;</strong></div>
-<div><strong>Using your information&nbsp;</strong></div>
-<div>This information will not be disclosed to anyone outside of the Ford Motor Company Group, its affiliated or associated companies, its agencies, dealers or licensees, and other companies with which Ford has arranged services for your benefit. It will be treated according to the standards set by English and European legislation on acceptable data retention and protection. Your information may be initially stored and processed inside or outside the European Union so long as that country has standards of data protection similar to those set in the European Union.&nbsp;</div>
-<div>&nbsp;</div>
-<div><strong>SMS Data&nbsp;</strong></div>
-<div>Our mobile services provider is required to be able to provide historic information data to local telecommunications regulators, mobile operators and authorities on request. This includes opt-in, opt-out, inbound message and outbound message, date and time, mobile phone number and network operator. This data is not available to Ford or its consumers. For further information and contact details please log onto the following sites;</div>
-<div>&nbsp;</div>
-<div>For more information about OFCOM view the link below. </div>
-<div><a href="http://www.ofcom.org.uk/" target="_blank">View the OFCOM site </a></div>
-<div>&nbsp;</div>
-<div>For more information about PhonePay Plus view the link below. </div>
-<div><a href="http://www.phonepayplus.org.uk/" target="_blank">View the PhonePay Plus site </a></div>
-<div>&nbsp;</div>
-<div>Our mobile services provider also complies with the standards and rules set out by the Global Mobile Marketing Association (MMA), view the link below.</div>
-<div><a href="http://www.mmaglobal.com/main" target="_blank">View the Global Mobile Marketing Association site </a></div>
-<div>&nbsp;</div>
-<div><strong>Contact Us&nbsp;</strong></div>
-<div>You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However we may be prevented from doing so by legislation, for example relating to health and safety or financial regulation (e.g. when dealing with Ford Credit). </div>
-<div>&nbsp;</div>
-<div>For questions that are not covered in the FAQ section please mail your enquiry to Ford Motor Company Limited, PO Box 2439, Glasgow, G40 3WX.&nbsp;</div>
-<div>&nbsp;</div>
-<div><strong>Use of Cookies on our WAP site&nbsp;</strong></div>
-<div>Cookies are only used in the process of Keep Me Informed, Test Drive and Brochure Requests. This is only so that we can keep a record of the session, no customer data is stored.&nbsp;</div>
-<div>&nbsp;</div>
-<div><strong>Charges&nbsp;</strong></div>
-<div>Text messages you send to the Ford shortcode will be charged at your standard network operator cost. You will also be charged your standard network WAP and download charges to access the WAP site and download any content. Text messages sent to you by Ford are free of charge&nbsp;</div>
-<div>&nbsp;</div>
-<div><strong>Browsing&nbsp;</strong></div>
-<div>To browse our WAP site and access the content you must have WAP access enabled on your phone and an appropriately capable handset (e.g. to support video content). Any downloaded content must not be used in any context that might be construed as defamatory or derogatory and may not be used for any commercial purposes without the written permission of Ford Motor Company Limited. Your network operator must also allow our content to be downloaded. If you are unsure please consult your mobile phone service provider before attempting to download the content. The Ford Motor Company Group, nor any of its agents, suppliers or consultants shall be liable or responsible in the event that you are unable to access the content, or for any difficulty in downloading it to, or accessing it on, your handset. For questions around content that has been downloaded to your handset please see our FAQ’s section.&nbsp;</div>
-<div>&nbsp;</div>
-<div>Ford Motor Company Limited. Registered in England: No.235446, Registered Office: Eagle Way, Brentwood, Essex, CM13 3BW, England. </div>
-<br>
-<br>
-<div><strong><font size="2">Cookies</font></strong></div>
-<div><a href="/Footer/CookieGuide" contenteditable="false">View our Cookie Guide</a></div>
-<!--
+<div><strong>Internet privacy policy</strong></div> <div><strong>&nbsp;</strong></div> <div>Ford Motor Company Limited ("Ford") respects the privacy of every individual who visits its Web Sites and any information collected about you will firstly be used to fulfil any service you might request and secondly improve how as a company we serve you. We do this by making appropriate use of the information.</div> <div>&nbsp;</div> <div>This information will not be disclosed to anyone outside of the Ford Motor Company Group ¹, its affiliated or associated companies, its agencies, dealers or licensees, and other companies with which Ford has arranged services for your benefit and any assignees, transferees or replacements of the above referred parties. It will be treated in accordance with the legal provisions under English law concerning data protection and may be transferred to the USA or countries outside the EEA for the purpose of business administration.</div> <div>&nbsp;</div> <div>You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However, certain legislation, especially related to safety issues or financial regulation (e.g. when dealing with Ford Credit) might prevent this.</div> <div>&nbsp;</div> <div>If you have any specific questions that are not covered in the FAQ section please mail your enquiry to:</div><div></div><div><div>&nbsp;</div><div>Ford Motor Company</div><div>PO Box 3602</div><div>GLASGOW</div><div>G73 9ES</div></div> <div>&nbsp;</div> <div>¹The Ford Motor Company Group, a company based in the United States of America, ("FMC") in the context of this Privacy Policy includes those companies where Ford owns at least 25% of the company (this includes Mazda).</div> <div>&nbsp;</div> <div>&nbsp;</div> <div><strong>Mobile</strong><strong> and WAP privacy policy</strong></div> <div>&nbsp;</div> <div>Ford respects the privacy of every individual who visits its WAP Sites and any information collected about you will firstly be used to fulfil any service you might request and secondly improve how as a company we serve you. We do this by making appropriate use of the information.</div> <div>&nbsp;</div> <div><strong>Types of permissions&nbsp;</strong></div> <div>For Brochure requests – where permission is given for future contact you are consenting to receive text and postal contacts.</div> <div>For Keep Me Informed requests – where permission is given for future contact you are consenting to receive text and postal contacts.</div> <div>For Test Drives requests – where permission is given for future contact you are consenting to receive text, voice and voicemail and postal contacts.&nbsp;</div> <div><strong>&nbsp;</strong></div> <div><strong>Using your information&nbsp;</strong></div> <div>This information will not be disclosed to anyone outside of the Ford Motor Company Group, its affiliated or associated companies, its agencies, dealers or licensees, and other companies with which Ford has arranged services for your benefit. It will be treated according to the standards set by English and European legislation on acceptable data retention and protection. Your information may be initially stored and processed inside or outside the European Union so long as that country has standards of data protection similar to those set in the European Union.&nbsp;</div> <div>&nbsp;</div> <div><strong>SMS Data&nbsp;</strong></div> <div>Our mobile services provider is required to be able to provide historic information data to local telecommunications regulators, mobile operators and authorities on request. This includes opt-in, opt-out, inbound message and outbound message, date and time, mobile phone number and network operator. This data is not available to Ford or its consumers. For further information and contact details please log onto the following sites;</div> <div>&nbsp;</div> <div>For more information about OFCOM view the link below.</div> <div><a href="http://www.ofcom.org.uk/" target="_blank">View the OFCOM site </a></div> <div>&nbsp;</div> <div>For more information about PhonePay Plus view the link below.</div> <div><a href="http://www.phonepayplus.org.uk/" target="_blank">View the PhonePay Plus site </a></div> <div>&nbsp;</div> <div>Our mobile services provider also complies with the standards and rules set out by the Global Mobile Marketing Association (MMA), view the link below.</div> <div><a href="http://www.mmaglobal.com/main" target="_blank">View the Global Mobile Marketing Association site </a></div> <div>&nbsp;</div> <div><strong>Contact Us&nbsp;</strong></div> <div>You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However we may be prevented from doing so by legislation, for example relating to health and safety or financial regulation (e.g. when dealing with Ford Credit).</div> <div>&nbsp;</div> <div>For questions that are not covered in the FAQ section please mail your enquiry to:</div><div></div><div><div>&nbsp;</div><div>Ford Motor Company</div><div>PO Box 3602</div><div>GLASGOW</div><div>G73 9ES</div></div> <div>&nbsp;</div> <div><strong>Use of Cookies on our WAP site&nbsp;</strong></div> <div>Cookies are only used in the process of Keep Me Informed, Test Drive and Brochure Requests. This is only so that we can keep a record of the session, no customer data is stored.&nbsp;</div> <div>&nbsp;</div> <div><strong>Charges&nbsp;</strong></div> <div>Text messages you send to the Ford shortcode will be charged at your standard network operator cost. You will also be charged your standard network WAP and download charges to access the WAP site and download any content. Text messages sent to you by Ford are free of charge&nbsp;</div> <div>&nbsp;</div> <div><strong>Browsing&nbsp;</strong></div> <div>To browse our WAP site and access the content you must have WAP access enabled on your phone and an appropriately capable handset (e.g. to support video content). Any downloaded content must not be used in any context that might be construed as defamatory or derogatory and may not be used for any commercial purposes without the written permission of Ford Motor Company Limited. Your network operator must also allow our content to be downloaded. If you are unsure please consult your mobile phone service provider before attempting to download the content. The Ford Motor Company Group, nor any of its agents, suppliers or consultants shall be liable or responsible in the event that you are unable to access the content, or for any difficulty in downloading it to, or accessing it on, your handset. For questions around content that has been downloaded to your handset please see our FAQ’s section.&nbsp;</div> <div>&nbsp;</div> <div>Ford Motor Company Limited. Registered in England: No.235446, Registered Office: Eagle Way, Brentwood, Essex, CM13 3BW, England.</div> <div></div><div><strong><font size="2">Cookies</font></strong></div> <div><a href="/Footer/CookieGuide" contenteditable="false">View our Cookie Guide</a></div> <!--
 <div><strong>What is a Cookie?&nbsp;</strong></div>
 <div>A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. Cookies can help a website to arrange content to match your preferred interests more quickly - most major websites use cookies. Cookies alone cannot be used to identify you.</div>
 <div>&nbsp;</div>
@@ -944,7 +1037,7 @@ Select &lsquo;Security&rsquo; icon <br>
 Press &lsquo;Show Cookies&rsquo; button <br>
 Select the Cookies to be deleted from the list <br>
 Press Delete button. </div>
---> <br>		
+--> <div></div>		
 </div>
 </div>
 </div>                       
@@ -1026,15 +1119,15 @@ B-MAX</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/Cars/EcoSport">
-Model</a></h4>
+EcoSport</a></h4>
+</dd>
+<dd>
+<h4><a class="sbe om_fo_ff_li " href="/Cars/NewFocus">
+New Focus</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/Cars/Focus">
 Focus</a></h4>
-</dd>
-<dd>
-<h4><a class="sbe om_fo_ff_li " href="/Cars/Focus-ST">
-Focus ST</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/Cars/Focus-Electric">
@@ -1049,12 +1142,16 @@ C-MAX &amp; Grand C-MAX</a></h4>
 KUGA</a></h4>
 </dd>
 <dd>
-<h4><a class="sbe om_fo_ff_li " href="/Cars/Mondeo">
-Mondeo</a></h4>
+<h4><a class="sbe om_fo_ff_li " href="/Cars/AllNewMondeo">
+All New Mondeo</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/Cars/Mustang">
 Mustang</a></h4>
+</dd>
+<dd>
+<h4><a class="sbe om_fo_ff_li " href="/Cars/Vignale">
+Vignale</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/Cars/S-MAX">
@@ -1074,11 +1171,11 @@ Introducing the Tourneo Range</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/Cars/TourneoCustom">
-Model-Tourneo Custom</a></h4>
+Tourneo Custom</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/Cars/Tourneo-Connect">
-Model Tourneo Connect</a></h4>
+Tourneo Connect</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/Cars/FutureVehicles">
@@ -1093,10 +1190,6 @@ Future Vehicles </a></h4>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/Overview">
 Overview</a></h4>
-</dd>
-<dd>
-<h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/CommercialPromotions">
-Commercial Promotions</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/Fiesta-Van">
@@ -1119,40 +1212,32 @@ All-New Transit Connect</a></h4>
 Transit Custom</a></h4>
 </dd>
 <dd>
-<h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/Transit">
-Ford Transit</a></h4>
-</dd>
-<dd>
-<h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/TransitChassisCab">
-Transit Chassis Cab</a></h4>
-</dd>
-<dd>
-<h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/TransitMotorhomesChassis">
-Transit Motorhomes Chassis</a></h4>
-</dd>
-<dd>
-<h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/TransitMinibus">
-Transit Minibus</a></h4>
-</dd>
-<dd>
 <h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/All-New-Transit">
 All-New Transit</a></h4>
-</dd>
-<dd>
-<h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/Ranger">
-Ranger</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/VehicleConversion">
 Vehicle Conversion Body Equipment  Mounting Manual</a></h4>
 </dd>
 <dd>
-<h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/TourneoCustom">
-Model-Tourneo Custom</a></h4>
+<h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/Transit-Motor-Caravan">
+Transit Motor-Caravan</a></h4>
+</dd>
+<dd>
+<h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/Ranger">
+Ranger</a></h4>
 </dd>
 <dd>
 <h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/Tourneo-Connect">
-Model Tourneo Connect</a></h4>
+Tourneo Connect</a></h4>
+</dd>
+<dd>
+<h4><a class="sbe om_fo_ff_li " href="/Cars/TourneoCustom">
+Tourneo Custom</a></h4>
+</dd>
+<dd>
+<h4><a class="sbe om_fo_ff_li " href="/CommercialVehicles/CommercialPromotions">
+Commercial Promotions</a></h4>
 </dd>
 </dl>
 </div>
@@ -1168,24 +1253,8 @@ Car Promotions</a>
 Commercial Promotions</a>
 </dd>
 <dd>
-<a class="om_fo_ff_li " href="/Footer/ContactUs">
-Contact Us</a>
-</dd>
-<dd>
-<a class="om_fo_ff_li " href="/DVLA">
-DVLA Tax Disc Changes</a>
-</dd>
-<dd>
-<a class="om_fo_ff_li " href="/experience-ford/AboutFord/FordCareers">
-Careers</a>
-</dd>
-<dd>
-<a class="om_fo_ff_li " href="/experience-ford/AboutFord/Scholarships">
-Scholarships</a>
-</dd>
-<dd>
-<a class="om_fo_ff_li " href="/OwnerServices/FAQs">
-FAQs</a>
+<a class="om_fo_ff_li " href="/BuyingandprotectingyourFord/FordInsure">
+Ford Insure Motor Insurance</a>
 </dd>
 <dd>
 <a class="om_fo_ff_li " href="/OwnerServices/VehicleServiceandRepair/MotorcraftFourPlus">
@@ -1210,6 +1279,26 @@ Rental</a>
 <dd>
 <a class="om_fo_ff_li " href="/FordTechnologiesInAction">
 Ford Technologies in Action</a>
+</dd>
+<dd>
+<a class="om_fo_ff_li " href="/EcoBoost">
+EcoBoost Engine</a>
+</dd>
+<dd>
+<a class="om_fo_ff_li " href="/Footer/ContactUs">
+Contact Us</a>
+</dd>
+<dd>
+<a class="om_fo_ff_li " href="/experience-ford/AboutFord/FordCareers">
+Careers</a>
+</dd>
+<dd>
+<a class="om_fo_ff_li " href="/experience-ford/AboutFord/Scholarships">
+Scholarships</a>
+</dd>
+<dd>
+<a class="om_fo_ff_li " href="/OwnerServices/FAQs">
+FAQs</a>
 </dd>
 </dl>
 </div>
@@ -1316,12 +1405,17 @@ Commercial Vehicles
 </dd>
 <dd>
 <a class="sbe om_fo_ff_li expand" href="/SBE/Brochures">
-<span style="background-image: url('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214470517433&amp;blobkey=id')"></span>
+<span style="background-image: url('/cs/BlobServer?blobtable=MungoBlobs&amp;blobcol=urldata&amp;blobheader=image%2Fpng&amp;blobwhere=1214481882132&amp;blobkey=id')"></span>
 Brochures &amp; Prices</a>
 <dl class="flyout">
 <dd>
 <a class="sbe" href="/SBE/Brochures/BrochuresandPricelists">
-Brochures &amp; Price Lists
+Cars
+</a>
+</dd>
+<dd>
+<a class="sbe" href="/SBE/Brochures/BrochuresandPricelistsVan">
+Commercial Vehicles
 </a>
 </dd>
 </dl>
@@ -1408,16 +1502,20 @@ osbNameplateName = osbNameplateName.toLowerCase();
 dataLayer.push({"nameplateName" : osbNameplateName});
 }
 if (typeof bookingReferenceNumber != 'undefined') {
-dataLayer.push({"bookingReferenceNumber" : bookingReferenceNumber});
+dataLayer.push({"leadID" : bookingReferenceNumber});
 }
 dataLayer.push({"pageTitle":'Privacy Policy'});
 dataLayer.push({"pageCategory":'ford-brand'});
 if (typeof osb_pageId != 'undefined') {
 dataLayer.push({"pageID":osb_pageId});
 }else{
+if(typeof mobile_bnp_pageId != 'undefined') {
+dataLayer.push({"pageID":mobile_bnp_pageId});
+}else{
+}
 }
 dataLayer.push({"language":'eng'});
-//console.log(JSON.stringify(dataLayer));	
+console.log(JSON.stringify(dataLayer));	
 }
 </script>
 <!-- Google Tag Manager -->
@@ -1432,11 +1530,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PLW9L');
 }
-isDoubleclickTriggered = 'true';	
+isDoubleclickTriggered = 'true';
 </script>
 <!-- End Google Tag Manager -->
 <script>
 </script>
+<!-- enableiPerceptions is - 'null' -->
 <script src="/cs/ContentServer?pagename=EP2%2fENGInE%2fscript%2fGroupedJS" type="text/javascript"></script>
 <script> EP2.Globals.siteName = 'UKEN_ENGInE';
 EP2.Globals.gforceMode='LIVE'</script>
@@ -1475,6 +1574,7 @@ lpTag.vars.send();
 </script>
 <script src="/cs/ContentServer?pagename=ENGInE/script/LivePerson" type="text/javascript"></script>
 <div id="lpButtonDiv-sales"></div>
+<!-- enableiPerceptions is - 'null' -->
 
 
 <div id="overlay" style="display: none;"></div><div id="overlayBlock" style="top: 384px; left: 683px; display: none;"><div id="content"></div><a class="icon closeBtn" href="#">close</a></div></body></html>
