@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cachedpages.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325155303id_/http%3A//www.cachedpages.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cachedpages.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229132403id_/http%3A//www.cachedpages.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Cached Pages - Get the cached page of any URL
 
@@ -14,7 +14,7 @@ At CachedPages.com we recognize that privacy is important. We offer a service th
 
   * **Web links:** CachedPages.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search services and web site content. 
 
-  * **Other web sites:** This Privacy Policy applies to services offered by Dotia. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+  * **Other web sites:** This Privacy Policy applies to services offered by CachedPages.com. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
 
 
