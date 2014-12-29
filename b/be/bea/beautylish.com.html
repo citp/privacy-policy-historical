@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beautylish.com privacy policy that was archived on 2014-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140627043015id_/http%3A//www.beautylish.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beautylish.com privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229191006id_/http%3A//www.beautylish.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US" class="no-js"><head profile="http://gmpg.org/xfn/11">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -8,19 +8,19 @@
 
     
 
-<link rel="shortcut icon" href="//s.beautylish.co/global/fav_icon.ico">
+<link rel="shortcut icon" href="//d2k21z21l53iby.cloudfront.net/global/fav_icon.ico">
 
 
-    <link rel="apple-touch-icon-precomposed" href="//s.beautylish.co/logo/touch-icon.png">
+    <link rel="apple-touch-icon-precomposed" href="//d2k21z21l53iby.cloudfront.net/logo/touch-icon.png">
 
     <meta name="apple-itunes-app" content="app-id=469984067">
 
 
 
-    <script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEGWVRADAUGUFRS"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+    <script type="text/javascript" async="" src="https://cdn.siftscience.com/s.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KH7775"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgEGWVRADAUGUFRS"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
 
     
-<link href="//s.beautylish.co/combined/20140625-194919-css/beautylish_screen.css" rel="stylesheet" media="all" type="text/css">
+<link href="//d2k21z21l53iby.cloudfront.net/combined/20141226-153650-css/beautylish_screen.css" rel="stylesheet" media="all" type="text/css">
 
 
 
@@ -49,8 +49,9 @@
     
 
 
+
 <script>
-window.scriptCtx = "eyJTaGlwcGluZ01lbnVBcHAiOiB7ImNvdW50cnlDb2RlIjogIlVTIn0sICJMb2NhbGl6ZWRNZXNzYWdlcyI6IHsic2hpcHBpbmdGcmVlIjogIjxwPjxwPkJlYXV0eWxpc2ggb2ZmZXJzIGZyZWUgc2hpcHBpbmcgdGhyb3VnaG91dCB0aGUgVS5TLiBvbiBhbGwgb3JkZXJzICAkMzUgYW5kIHVwLiAoQWZ0ZXIgYW55IGFwcGxpY2FibGUgZGlzY291bnRzIGFyZSBhcHBsaWVkLikgRm9yIGFsbCBvdGhlciBvcmRlcnMsIHdlIG9mZmVyICAkNSBmbGF0IHJhdGUgc2hpcHBpbmcuPC9wPjwvcD4iLCAic2hpcHBpbmdFeGNsdXNpb24iOiAiPHA+PHA+V2UgYXJlIGN1cnJlbnRseSB1bmFibGUgdG8gc2hpcCB0byBVLlMuIHRlcnJpdG9yaWVzIG9yIHRvIFAuTy4gYm94ZXMgb3IgQVBPL0ZQTyBhZGRyZXNzZXMuPC9wPjwvcD4iLCAic2hpcHBpbmdVbnNoaXBwYWJsZSI6ICI8cD48cD48L3A+PC9wPiIsICJzaGlwcGluZ01ldGhvZEFuZFRpbWVIYXptYXQiOiAiPHA+PHA+VGhpcyBwcm9kdWN0IHNoaXBzIHZpYSBncm91bmQuIDxzdHJvbmc+T3JkZXJzIGNvbnRhaW5pbmcgdGhpcyBwcm9kdWN0IG1heSB0YWtlIGxvbmdlciB0byBhcnJpdmUuPC9zdHJvbmc+PC9wPjwvcD48cD48cD5BdCB0aGlzIHRpbWUsIHdlIGFyZSB1bmFibGUgdG8gc2hpcCB0aGlzIGl0ZW0gdG8gQWxhc2thIGFuZCBIYXdhaWksIG9yIHRvIFAuTy4gYm94ZXMgb3IgQVBPL0ZQTyBhZGRyZXNzZXMuPC9wPjwvcD4iLCAic2hpcHBpbmdFeGNsdXNpb25Nb3JlSW5mbyI6ICI8cD48cD5BZXJvc29scyBhbmQgYWxjb2hvbC1iYXNlZCBwcm9kdWN0cyAoaGFpciBzcHJheSwgbmFpbCBwb2xpc2gsIG5haWwgcG9saXNoIHJlbW92ZXIsIGJydXNoIGNsZWFuZXIsIHBlcmZ1bWUsIGV0YykgY2FuIG9ubHkgYmUgc2hpcHBlZCBncm91bmQuPC9wPjwvcD48cD48cD5UaGlzIGlzIGEgVS5TLiBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uIHJlZ3VsYXRpb24gd2hpY2ggd2UgYXJlIHJlcXVpcmVkIHRvIGNvbXBseSB3aXRoLjwvcD48L3A+IiwgInNoaXBwaW5nTWV0aG9kQW5kVGltZSI6ICI8cD48cD5PcmRlcnMgc2hpcCB2aWEgRmVkRXguIE9yZGVycyBwbGFjZWQgYmVmb3JlIDY6MzBwbSBQU1QgTVx1MjAxM0Ygc2hpcCB0aGUgc2FtZSBkYXksIHdpdGggMiBkYXkgc2hpcHBpbmcgb3IgZmFzdGVyLjwvcD48L3A+In19";
+window.scriptCtx = "eyJTaGlwcGluZ01lbnVBcHAiOiB7ImNvdW50cnlTdWZmaXhFb3NEaWN0IjogeyJGUiI6ICJGcmFuY2UiLCAiQ0giOiAiU3dpdHplcmxhbmQiLCAiTkwiOiAiTmV0aGVybGFuZHMiLCAiU0ciOiAiU2luZ2Fwb3JlIiwgIkNBIjogIkNhbmFkYSIsICJERSI6ICJHZXJtYW55IiwgIlVTIjogIlUuUyIsICJISyI6ICJIb25nIEtvbmciLCAiTloiOiAiTmV3IFplYWxhbmQiLCAiQVUiOiAiQXVzdHJhbGlhIiwgIkdCIjogIlUuSyIsICJJRSI6ICJJcmVsYW5kIiwgIkVTIjogIlNwYWluIn0sICJjb3VudHJ5Q29kZSI6ICJVUyIsICJjb3VudHJ5VGVybSI6ICJ0aGUgVS5TLiIsICJjb3VudHJ5VGVybXNFb3NEaWN0IjogeyJGUiI6ICJGcmFuY2UiLCAiQ0giOiAiU3dpdHplcmxhbmQiLCAiTkwiOiAidGhlIE5ldGhlcmxhbmRzIiwgIlNHIjogIlNpbmdhcG9yZSIsICJDQSI6ICJDYW5hZGEiLCAiREUiOiAiR2VybWFueSIsICJVUyI6ICJ0aGUgVS5TIiwgIkhLIjogIkhvbmcgS29uZyIsICJOWiI6ICJOZXcgWmVhbGFuZCIsICJBVSI6ICJBdXN0cmFsaWEiLCAiR0IiOiAidGhlIFUuSyIsICJJRSI6ICJJcmVsYW5kIiwgIkVTIjogIlNwYWluIn0sICJjb3VudHJ5VGVybXNEaWN0IjogeyJGUiI6ICJGcmFuY2UiLCAiQ0giOiAiU3dpdHplcmxhbmQiLCAiQ0EiOiAiQ2FuYWRhIiwgIkRFIjogIkdlcm1hbnkiLCAiSEsiOiAiSG9uZyBLb25nIiwgIkFVIjogIkF1c3RyYWxpYSIsICJHQiI6ICJ0aGUgVS5LLiIsICJJRSI6ICJJcmVsYW5kIiwgIkVTIjogIlNwYWluIiwgIk5MIjogInRoZSBOZXRoZXJsYW5kcyIsICJVUyI6ICJ0aGUgVS5TLiIsICJOWiI6ICJOZXcgWmVhbGFuZCIsICJTRyI6ICJTaW5nYXBvcmUifSwgImNvdW50cnlUZXJtc0xvbmdEaWN0IjogeyJGUiI6ICJGcmFuY2UiLCAiQ0giOiAiU3dpdHplcmxhbmQiLCAiQ0EiOiAiQ2FuYWRhIiwgIkRFIjogIkdlcm1hbnkiLCAiSEsiOiAiSG9uZyBLb25nIiwgIkFVIjogIkF1c3RyYWxpYSIsICJHQiI6ICJ0aGUgVW5pdGVkIEtpbmdkb20iLCAiSUUiOiAiSXJlbGFuZCIsICJFUyI6ICJTcGFpbiIsICJOTCI6ICJ0aGUgTmV0aGVybGFuZHMiLCAiVVMiOiAidGhlIFVuaXRlZCBTdGF0ZXMiLCAiTloiOiAiTmV3IFplYWxhbmQiLCAiU0ciOiAiU2luZ2Fwb3JlIn0sICJjb3VudHJ5VGVybUVvcyI6ICJ0aGUgVS5TIn0sICJMb2NhbGl6ZWRNZXNzYWdlcyI6IHsic2hpcHBpbmdGcmVlIjogIjxwPjxwPkJlYXV0eWxpc2ggb2ZmZXJzIGZyZWUgc2hpcHBpbmcgdGhyb3VnaG91dCB0aGUgVS5TLiBvbiBhbGwgb3JkZXJzICAkMzUgYW5kIHVwLiAoQWZ0ZXIgYW55IGFwcGxpY2FibGUgZGlzY291bnRzIGFyZSBhcHBsaWVkLikgRm9yIGFsbCBvdGhlciBvcmRlcnMsIHdlIG9mZmVyICAkNSBmbGF0IHJhdGUgc2hpcHBpbmcuPC9wPjwvcD4iLCAic2hpcHBpbmdFeGNsdXNpb24iOiAiPHA+PHA+V2UgYXJlIGN1cnJlbnRseSB1bmFibGUgdG8gc2hpcCB0byBVLlMuIHRlcnJpdG9yaWVzIG9yIHRvIFAuTy4gYm94ZXMgb3IgQVBPL0ZQTyBhZGRyZXNzZXMuPC9wPjwvcD4iLCAic2hpcHBpbmdVbnNoaXBwYWJsZSI6ICI8cD48cD48L3A+PC9wPiIsICJzaGlwcGluZ01ldGhvZEFuZFRpbWVIYXptYXQiOiAiPHA+PHA+VGhpcyBwcm9kdWN0IHNoaXBzIHZpYSBncm91bmQuIDxzdHJvbmc+T3JkZXJzIGNvbnRhaW5pbmcgdGhpcyBwcm9kdWN0IG1heSB0YWtlIGxvbmdlciB0byBhcnJpdmUuPC9zdHJvbmc+PC9wPjwvcD48cD48cD5BdCB0aGlzIHRpbWUsIHdlIGFyZSB1bmFibGUgdG8gc2hpcCB0aGlzIGl0ZW0gdG8gQWxhc2thIGFuZCBIYXdhaWksIG9yIHRvIFAuTy4gYm94ZXMgb3IgQVBPL0ZQTyBhZGRyZXNzZXMuPC9wPjwvcD4iLCAic2hpcHBpbmdFeGNsdXNpb25Nb3JlSW5mbyI6ICI8cD48cD5BZXJvc29scyBhbmQgYWxjb2hvbC1iYXNlZCBwcm9kdWN0cyAoaGFpciBzcHJheSwgbmFpbCBwb2xpc2gsIG5haWwgcG9saXNoIHJlbW92ZXIsIGJydXNoIGNsZWFuZXIsIHBlcmZ1bWUsIGV0YykgY2FuIG9ubHkgYmUgc2hpcHBlZCBncm91bmQuPC9wPjwvcD48cD48cD5UaGlzIGlzIGEgVS5TLiBEZXBhcnRtZW50IG9mIFRyYW5zcG9ydGF0aW9uIHJlZ3VsYXRpb24gd2hpY2ggd2UgYXJlIHJlcXVpcmVkIHRvIGNvbXBseSB3aXRoLjwvcD48L3A+IiwgInNoaXBwaW5nTWV0aG9kQW5kVGltZSI6ICI8cD48cD5PcmRlcnMgc2hpcCB2aWEgRmVkRXguIE9yZGVycyBwbGFjZWQgYmVmb3JlIDY6MzBwbSBQU1QgTVx1MjAxM0Ygc2hpcCB0aGUgc2FtZSBkYXksIHdpdGggMiBkYXkgc2hpcHBpbmcgb3IgZmFzdGVyLjwvcD48L3A+In19";
 
 
 window.services = {"enableAdmin": "https://www.beautylish.com/admin/enable", "disableAdmin": "https://www.beautylish.com/admin/disable"};
@@ -58,9 +59,9 @@ window.services = {"enableAdmin": "https://www.beautylish.com/admin/enable", "di
 </script>
 
     
-<script src="//s.beautylish.co/combined/require-2.1.10.min.js"></script>
+<script src="//d2k21z21l53iby.cloudfront.net/combined/require-2.1.10.min.js"></script>
 <script>
-require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beautylish.co/combined/20140625-225221-js/SharedApp.js']);
+require(['//d2k21z21l53iby.cloudfront.net/combined/20141226-153610-js/BaseApp.js', '//d2k21z21l53iby.cloudfront.net/combined/20141226-153610-js/SharedApp.js']);
 </script>
 
 
@@ -93,16 +94,35 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 
-    <script src="//s.beautylish.co/js/modernizr-2014-03-21.js"></script>
+    <script src="//d2k21z21l53iby.cloudfront.net/js/modernizr-2014-03-21.js"></script>
+
   <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
-  <body itemscope="" itemtype="http://schema.org/WebPage">
+  <body itemscope="" itemtype="http://schema.org/WebPage" class="PageWithFooter">
+
+
+    <!--[if lt IE 9 ]>
+    <div class="pa10" style="background-color: #e2af4b; color: black">
+      <a href="/privacy?dismiss-browser-msg=1" >
+        <span class="right glyph glyph_x_bold"></span>
+      </a>
+      <div class="region">
+        <p style="font-size: 12px; line-height: 18px">
+          It looks like you are using an out-of-date browser. Some
+          aspects of this site may not work correctly. <br/>
+          For a better experience, please consider
+          <a class="text_link" href="http://whatbrowser.org/"
+             target="_blank">upgrading to a more recent browser</a>.
+        </p>
+      </div>
+    </div>
+    <![endif]-->
 
 
 
-    <div id="page" class="page_shell">
+    <div id="page" class="page_shell PageWithFooter_content">
       <div class="page_mask"></div>
-      
+        
 <header id="top_bar" class="desktopnav page_shell">
   <div class="page_mask"></div>
   <nav class="topnav_shell">
@@ -112,27 +132,101 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li class="topnav_login user_drop">
-  <a class="js-load-modal" data-width="320" data-url="/fragment/login-modal?redirect_to=%2Fprivacy">Login</a>
-</li><li class="topnav_join user_drop">
-  <a data-url="/signup/join-modal?signup_campaign=header" class="js-load-modal" data-width="320">Join</a>
+  <a class="js-load-modal topnav_bar_link" data-width="320" data-url="/fragment/login-modal?redirect_to=%2Fprivacy">Login</a>
+</li><li class="topnav_join topnav_bar_linkuser_drop">
+  <a data-url="/signup/join-modal?signup_campaign=header" class="js-load-modal topnav_bar_link" data-width="320">Join</a>
 </li>
 
+<li class="user_drop js-shipping-menu">
+  <span class="cat_menu_expandable_trigger">
+    <span class="pr5">Ship To:</span>
+    <span id="js-flag" class="country_US is_active"></span>
+  </span>
+  <span class="glyph_right right_glyph_down hidden_mobile"></span>
+
+  
+
+<div class="drop_wrap">
+  <ul class="drop_wrap_inner">
+
+<li class="topnavList_item">
+  <span class="country_AU mr10"></span>
+  <a href="#" class="topnavList_link">Australia</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_CA mr10"></span>
+  <a href="#" class="topnavList_link">Canada</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_FR mr10"></span>
+  <a href="#" class="topnavList_link">France</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_DE mr10"></span>
+  <a href="#" class="topnavList_link">Germany</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_HK mr10"></span>
+  <a href="#" class="topnavList_link">Hong Kong</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_IE mr10"></span>
+  <a href="#" class="topnavList_link">Ireland</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_NL mr10"></span>
+  <a href="#" class="topnavList_link">Netherlands</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_NZ mr10"></span>
+  <a href="#" class="topnavList_link">New Zealand</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_SG mr10"></span>
+  <a href="#" class="topnavList_link">Singapore</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_GB mr10"></span>
+  <a href="#" class="topnavList_link">United Kingdom</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_US mr10"></span>
+  <a href="#" class="topnavList_link">United States</a>
+</li>
+
+  </ul>
+</div>
+
+
+</li>
 
       
 
 
-
-<li class="cartbtn">
-  <a class="js-load-modal" data-url="/fragment/cart/view" data-width="900">Your Bag 
-
+<li class="bagNav bag_drop ">
+  <a class="bagNav_link" href="https://www.beautylish.com/bag/view?ref=head">Your Bag 
 
 
 
-<span class="js-cart-quantity-num cartbtn_qty" style="display: none">
+<span class="bagNav_qty">
       (0)</span>
-<span class="js-cart-glyph glyph glyph_bag_empty"></span>
+<span class="glyph glyph_bag_empty"></span>
 
 </a>
+      
+
+
+
+<div class="drop_wrap type_small pa20">
+  <h5>YOUR BAG</h5>
+  <div class="bagNav_inner"></div>
+  <p class="pt20">
+    <a class="btn btn_info" href="https://www.beautylish.com/bag/view?ref=qv">View Bag</a>
+    <a class="right btn btn_luxe right_glyph_bold glyph_right" href="/join/shop?ref=qv">Checkout</a>
+  </p>
+</div>
+
+
 </li>
 
 
@@ -178,7 +272,7 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 </header>
 
 
-      
+        
 
 <div id="menu" class="menu_shell">
   
@@ -195,13 +289,14 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
       <li class="cat_menu_callout"><a href="/shop/new-arrivals">New Arrivals</a></li>
       <li class="cat_menu_expandable"><a href="/shop">Brands</a>
 
-<div id="brand" class="subnav_menu subnav_2col">
-  <div class="subcol_list_split">
-    
+<div id="brand" class="subnav_menu subnav_3col">
+  
 
 <ul class="subcat_menu">
   <li class="menu_back visible_mobile">Back</li>
   <li class="cat_title_group hidden_mobile"><a href="/shop">Brand Boutiques:</a></li>
+  <div class="subnav_3col_inner">
+  <li class="cat_link cat_link_split"><a href="/b/alphabet-bags">Alphabet Bags</a></li>
   <li class="cat_link cat_link_split"><a href="/b/anastasia">Anastasia</a></li>
   <li class="cat_link cat_link_split"><a href="/b/anna-sui">Anna Sui</a></li>
   <li class="cat_link cat_link_split"><a href="/b/armour-beauty">Armour Beauty</a></li>
@@ -210,6 +305,9 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
   <li class="cat_link cat_link_split"><a href="/b/benjabelle">Benjabelle</a></li>
   <li class="cat_link cat_link_split"><a href="/b/billy-b-beauty">Billy B</a></li>
   <li class="cat_link cat_link_split"><a href="/b/bliss">Bliss</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/by-terry">BY TERRY</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/charlotte-tilbury">Charlotte Tilbury</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/chikuhodo">CHIKUHODO</a></li>
   <li class="cat_link cat_link_split"><a href="/b/cover-fx">Cover FX</a></li>
   <li class="cat_link cat_link_split"><a href="/b/cult-nails">Cult Nails</a></li>
   <li class="cat_link cat_link_split"><a href="/b/dita-von-teese">Dita Von Teese</a></li>
@@ -222,9 +320,14 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
   <li class="cat_link cat_link_split"><a href="/b/indie-lee">Indie Lee</a></li>
   <li class="cat_link cat_link_split"><a href="/b/inglot-cosmetics">Inglot Cosmetics</a></li>
   <li class="cat_link cat_link_split"><a href="/b/kevyn-aucoin">Kevyn Aucoin</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/kjaer-weis">Kjaer Weis</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/koh-gen-do">Koh Gen Do</a></li>
   <li class="cat_link cat_link_split"><a href="/b/korres">Korres</a></li>
   <li class="cat_link cat_link_split"><a href="/b/lit-cosmetics">Lit Cosmetics</a></li>
   <li class="cat_link cat_link_split"><a href="/b/lucas-papaw-remedies">Lucas' Papaw Remedies</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/nudestix">Nudestix</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/obsessive-compulsive-cosmetics">Obsessive Compulsive Cosmetics</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/omorovicza">Omorovicza</a></li>
   <li class="cat_link cat_link_split"><a href="/b/parian-spirit">Parian Spirit</a></li>
   <li class="cat_link cat_link_split"><a href="/b/paw-palette">Paw Palette</a></li>
   <li class="cat_link cat_link_split"><a href="/b/rcma-makeup">RCMA Makeup</a></li>
@@ -235,12 +338,13 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
   <li class="cat_link cat_link_split"><a href="/b/sugarpill-cosmetics">Sugarpill Cosmetics</a></li>
   <li class="cat_link cat_link_split"><a href="/b/the-brush-guard">The Brush Guard</a></li>
   <li class="cat_link cat_link_split"><a href="/b/too-faced">Too Faced</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/tweezerman">Tweezerman</a></li>
   <li class="cat_link cat_link_split"><a href="/b/wayne-goss">Wayne Goss</a></li>
   <li class="cat_link cat_link_split"><a href="/b/z-palette">Z•Palette</a></li>
+  </div>
 </ul>
 
 
-  </div>
 </div>
 
 </li>
@@ -308,8 +412,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="makeup1" class="is_hidden mt20">
-  <a href="/s/anastasia-brow-powder-duo-dark-brown" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/LdgIhkFqSXSwQpoeGY38sgR-BH4/200_p-a7/anastasia-brow-powder-duo-dark-brown.jpg" alt="Dark Brown">
+  <a href="/s/anastasia-dipbrow-pomade-auburn" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/GTxXSjZV18WNFEABH34jPwR-BH4/200_p-89/anastasia-dipbrow-pomade-auburn.jpg" alt="Auburn">
   </a>
 </li>
 
@@ -319,8 +423,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="makeup2" class="is_hidden mt20">
-  <a href="/s/korres-magic-light-contouring-trio-mykonos" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/pmFE_cVRUQJnsHpXIapVIQR-BH4/200_p-73/korres-magic-light-contouring-trio-mykonos.jpg" alt="Mykonos">
+  <a href="/s/charlotte-tilbury-cheek-to-chic-love-glow" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/oxHNDnx4JzoMtEtkbA78_gR-BH4/200_p-6f/charlotte-tilbury-cheek-to-chic-love-glow.jpg" alt="Love Glow">
   </a>
 </li>
 
@@ -330,8 +434,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="makeup3" class="is_hidden mt20">
-  <a href="/s/inglot-cosmetics-amc-pure-pigment-eye-shadow-70" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/M2kbwRSFpZnegKsnjdPsYwR-BH4/200_p-30/inglot-cosmetics-amc-pure-pigment-eye-shadow-70.jpg" alt="70">
+  <a href="/s/inglot-cosmetics-matte-collection-amc-eyeliner-gel-83" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/PBHgfehB43Y2F4rBCL3pTAR-BH4/200_p-c8/inglot-cosmetics-matte-collection-amc-eyeliner-gel-83.jpg" alt="83">
   </a>
 </li>
 
@@ -341,8 +445,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="makeup4" class="is_hidden mt20">
-  <a href="/s/too-faced-amazing-face-powder-foundation-warm-vanilla" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/0Ts__DRslz1MUoRDiobaYwR-BH4/200_p-bc/too-faced-amazing-face-powder-foundation-warm-vanilla.jpg" alt="Warm Vanilla">
+  <a href="/s/charlotte-tilbury-filmstar-bronze-glow" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/sDftTuyF5s8R4dWeXOzetgR-BH4/200_p-51/charlotte-tilbury-filmstar-bronze-glow.jpg" alt="Filmstar Bronze &amp; Glow">
   </a>
 </li>
 
@@ -363,8 +467,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="makeup6" class="is_hidden mt20">
-  <a href="/s/sugarpill-cosmetics-sinnocent-false-eyelashes" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/aAWsKHTcBZBjjllYxHCS1AMgAyA/200_p-1e/sugarpill-cosmetics-sinnocent-false-eyelashes.jpg" alt="Sinnocent">
+  <a href="/s/sugarpill-cosmetics-cateye-false-eyelashes" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/A0Nu2J9CSPy11OanZjC-rQR-BH4/200_p-ff/sugarpill-cosmetics-cateye-false-eyelashes.jpg" alt="Cateye">
   </a>
 </li>
 
@@ -374,8 +478,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="makeup7" class="is_hidden mt20">
-  <a href="/s/armour-beauty-lip-gloss-barracuda" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/C1_VsRgWdjvzTC7-DbrP1QR-BH4/200_p-46/armour-beauty-lip-gloss-barracuda.jpg" alt="Barracuda">
+  <a href="/s/anna-sui-lipstick-v-401-brilliant-red" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/QbEUEnYLXVPwWqg7cRA8xQR-BH4/200_p-61/anna-sui-lipstick-v-401-brilliant-red.jpg" alt="401 Brilliant Red">
   </a>
 </li>
 
@@ -385,6 +489,61 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="makeup8" class="is_hidden mt20">
+  <a href="/s/kevyn-aucoin-the-primed-skin-developer-nd" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/98vR0k8nIbs1jhBL4zFjIgR-BH4/200_p-e4/kevyn-aucoin-the-primed-skin-developer-nd.jpg" alt="N/D">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="makeup9" class="is_hidden mt20">
+  <a href="/s/kevyn-aucoin-the-essential-eyeshadow-set-palette-3" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/R4TVsgbqSgDeqHrxbtd9RQR-BH4/200_p-71/kevyn-aucoin-the-essential-eyeshadow-set-palette-3.jpg" alt="Palette #3">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="makeup10" class="is_hidden mt20">
+  <a href="/s/wayne-goss-the-face-set" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/2oXBSB8SvVpr_YTuTO3jiAR-BH4/200_p-bf/wayne-goss-the-face-set.jpg" alt="The Face Set">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="makeup11" class="is_hidden mt20">
+  <a href="/s/inglot-cosmetics-amc-pure-pigment-eye-shadow-70" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/M2kbwRSFpZnegKsnjdPsYwR-BH4/200_p-30/inglot-cosmetics-amc-pure-pigment-eye-shadow-70.jpg" alt="70">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="makeup12" class="is_hidden mt20">
+  <a href="/s/too-faced-amazing-face-powder-foundation-warm-vanilla" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/0Ts__DRslz1MUoRDiobaYwR-BH4/200_p-bc/too-faced-amazing-face-powder-foundation-warm-vanilla.jpg" alt="Warm Vanilla">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="makeup13" class="is_hidden mt20">
   <a href="/s/too-faced-shadow-insurance" class="thumb_img_160x160">
     <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/VwKXfz6zzmzNO4oz78xDwgR-BH4/200_p-f7/too-faced-shadow-insurance.jpg" alt="Shadow Insurance">
   </a>
@@ -395,9 +554,9 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 
-<li id="makeup9" class="is_hidden mt20">
-  <a href="/s/sugarpill-cosmetics-cold-chemistry-collection-palette" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/3Gx3IHOFvKh8v_YhFuwsfAR-BH4/200_p-f7/sugarpill-cosmetics-cold-chemistry-collection-palette.jpg" alt="Cold Chemistry Collection Palette">
+<li id="makeup14" class="is_hidden mt20">
+  <a href="/s/armour-beauty-lip-gloss-barracuda" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/C1_VsRgWdjvzTC7-DbrP1QR-BH4/200_p-46/armour-beauty-lip-gloss-barracuda.jpg" alt="Barracuda">
   </a>
 </li>
 
@@ -406,7 +565,18 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 
-<li id="makeup10" class="is_hidden mt20">
+<li id="makeup15" class="is_hidden mt20">
+  <a href="/s/sugarpill-cosmetics-sinnocent-false-eyelashes" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/aAWsKHTcBZBjjllYxHCS1AMgAyA/200_p-1e/sugarpill-cosmetics-sinnocent-false-eyelashes.jpg" alt="Sinnocent">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="makeup16" class="is_hidden mt20">
   <a href="/s/billy-b-beauty-paint-brush-two-2012" class="thumb_img_160x160">
     <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/msUqUYgC4W5rnRqP-u0aRwR-BH4/200_p-a7/billy-b-beauty-paint-brush-two-2012.jpg" alt="Paint Brush Two (2012)">
   </a>
@@ -443,7 +613,7 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
     <a href="/shop/browse?category=top-coat">Top Coat</a>
   </li>
   <li class="cat_link cat_last" data-featured-img="nail5">
-    <a href="/shop/browse?category=nail-sets-kits">Nail Care</a>
+    <a href="/shop/browse?category=nail-care">Nail Care</a>
   </li>
 </ul>
 
@@ -511,8 +681,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="nail5" class="is_hidden mt20">
-  <a href="/s/anna-sui-emery-board-duo" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/a8uj3ukx4d0-AoLHqca0JwGEBH4/200_p-73/anna-sui-emery-board-duo.jpg" alt="Emery Board Duo">
+  <a href="/s/tweezerman-mini-nail-rescue-kit" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/3fEHaoSY7UDesL7OXW32rAR-BH4/200_p-98/tweezerman-mini-nail-rescue-kit.jpg" alt="Mini Nail Rescue Kit">
   </a>
 </li>
 
@@ -546,6 +716,205 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 <li id="nail8" class="is_hidden mt20">
   <a href="/s/cult-nails-nail-lacquer-untamed" class="thumb_img_160x160">
     <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/zFYbaBhyAKx6Bo1j8eAeXQR-BH4/200_p-d4/cult-nails-nail-lacquer-untamed.jpg" alt="Untamed">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="nail9" class="is_hidden mt20">
+  <a href="/s/anna-sui-emery-board-duo" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/a8uj3ukx4d0-AoLHqca0JwGEBH4/200_p-73/anna-sui-emery-board-duo.jpg" alt="Emery Board Duo">
+  </a>
+</li>
+
+
+    </ul>
+  </div>
+</div>
+
+</li>
+      <li class="cat_menu_expandable"><a href="/shop/browse?category=bath-and-body">
+          Bath <span class="fwn">&amp;</span> Body</a>
+
+<div class="subnav_menu subnav_2col">
+  <div class="subcol_list">
+    
+
+<ul class="subcat_menu">
+  <li class="menu_back visible_mobile">Back</li>
+    <li class="cat_title_group" data-featured-img="tool0">
+      <a href="/shop/browse?category=bath-and-body">Bath &amp; Body</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool1">
+      <a href="/shop/browse?category=body-cleansers">Cleansers</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool2">
+      <a href="/shop/browse?category=body-scrubs-exfoliants">Scrubs &amp; Exfoliants</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool3">
+      <a href="/shop/browse?category=body-treatments">Treatments</a>
+    </li>
+    <li class="cat_link cat_last" data-featured-img="tool4">
+      <a href="/shop/browse?category=sun-care">Sun &amp; Tanning</a>
+    </li>
+    <li class="cat_title_group" data-featured-img="tool5">
+      <a href="/shop/browse?category=hair">Hair</a>
+    </li>
+    <li class="cat_link " data-featured-img="tool6">
+      <a href="/shop/browse?category=hair-styling-products">Styling</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool7">
+      <a href="/shop/browse?category=hair-scalp-treatments">Hair Treatment</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool8">
+      <a href="/shop/browse?category=conditioner">Conditioner</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool9">
+      <a href="/shop/browse?category=shampoo">Shampoo</a>
+    </li>
+    <li class="cat_link cat_last" data-featured-img="tool10">
+      <a href="/shop/browse?category=hair-tools">Brushes &amp; Combs</a>
+    </li>
+    <li class="cat_title" data-featured-img="tool11">
+      <a href="/shop/browse?category=fragrances">Fragrance</a>
+    </li>
+</ul>
+
+
+  </div><div class="hidden_mobile subcol_img">
+    <h5 class="cat_title_group">Best Sellers:</h5>
+    <ul class="subcat_featured">
+      
+
+
+
+<li id="tool0" class="is_visible mt20">
+  <a href="/s/indie-lee-coconut-citrus-body-scrub" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/9HK-6S0wtaxtnT4exKn8JAR-BH4/200_p-11/indie-lee-coconut-citrus-body-scrub.jpg" alt="Coconut Citrus Body Scrub">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool1" class="is_hidden mt20">
+  <a href="/s/korres-showergel-japanese-rose" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/Zkm57hqDnZd5VrR0wKoewwPoBH4/200_p-b1/korres-showergel-japanese-rose.jpg" alt="Japanese Rose">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool2" class="is_hidden mt20">
+  <a href="/s/bliss-hot-salt-scrub" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/kmwET6NEh87xqfjpDG1z5gR-BH4/200_p-74/bliss-hot-salt-scrub.jpg" alt="Hot Salt Scrub">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool3" class="is_hidden mt20">
+  <a href="/s/lucas-papaw-remedies-lucas-papaw-ointment-75g-jar" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/GxOhmqIcpcjhs38B6LxbOwR-BH4/200_p-e8/lucas-papaw-remedies-lucas-papaw-ointment-75g-jar.jpg" alt="75g Jar">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool4" class="is_hidden mt20">
+  <a href="/s/charlotte-tilbury-supermodel-body" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/H59aFHfVlihFWIMTRODouQR-BH4/200_p-3a/charlotte-tilbury-supermodel-body.jpg" alt="Supermodel Body">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool5" class="is_hidden mt20">
+  <a href="/s/sachajuan-ocean-mist" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/HhJWFHWMaikPR8LXu0x87AR-BH4/200_p-ee/sachajuan-ocean-mist.jpg" alt="Ocean Mist">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool6" class="is_hidden mt20">
+  <a href="/s/sachajuan-styling-cream" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/YJ8OK4uT_jijOjB3kOjerAR-BH4/200_p-d6/sachajuan-styling-cream.jpg" alt="Styling Cream">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool7" class="is_hidden mt20">
+  <a href="/s/sachajuan-hair-repair" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/STDQOiBwIQvCmE6Deke0jwR-BH4/200_p-54/sachajuan-hair-repair.jpg" alt="Hair Repair">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool8" class="is_hidden mt20">
+  <a href="/s/sachajuan-silver-conditioner" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/GMEbkF9i6MiAXKQjVEsfQQR-BH4/200_p-8f/sachajuan-silver-conditioner.jpg" alt="Silver Conditioner">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool9" class="is_hidden mt20">
+  <a href="/s/sachajuan-intensive-repair-shampoo" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/LXoZcxCC7-_wdZLowelaHQR-BH4/200_p-46/sachajuan-intensive-repair-shampoo.jpg" alt="Intensive Repair Shampoo">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool10" class="is_hidden mt20">
+  <a href="/s/anna-sui-hair-brush" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/7wVHYgRWv5vhE8vFlWlShgR-BH4/200_p-31/anna-sui-hair-brush.jpg" alt="Hair Brush">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool11" class="is_hidden mt20">
+  <a href="/s/anna-sui-la-nuit-de-boheme-eau-de-toilette-50-ml" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/dQSnF4iOF0cMhbfmFL_rPwR-BH4/200_p-ec/anna-sui-la-nuit-de-boheme-eau-de-toilette-50-ml.jpg" alt="50 ml">
   </a>
 </li>
 
@@ -585,12 +954,6 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
   <li class="cat_link cat_last" data-featured-img="skin6">
     <a href="/shop/browse?category=toners">Toners and Mists</a>
   </li>
-  <li class="cat_title" data-featured-img="skin7">
-    <a href="/shop/browse?category=bath-and-body">Bath and Body</a>
-  </li>
-  <li class="cat_title" data-featured-img="skin8">
-    <a href="/shop/browse?category=fragrances">Fragrance</a>
-  </li>
 </ul>
 
 
@@ -602,8 +965,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="skin0" class="is_visible mt20">
-  <a href="/s/rms-beauty-beauty-oil" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/g4v_kKOrx1G0wQ9O9gVNUwQgBH4/200_p-7a/rms-beauty-beauty-oil.jpg" alt="Beauty Oil">
+  <a href="/s/charlotte-tilbury-multi-miracle-glow" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/WX9vYQ1v6UwJ_UuEFYMYXAR-BH4/200_p-99/charlotte-tilbury-multi-miracle-glow.jpg" alt="Multi-Miracle Glow">
   </a>
 </li>
 
@@ -613,8 +976,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="skin1" class="is_hidden mt20">
-  <a href="/s/korres-wild-rose-instant-brightening-eye-treatment" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/w4gLIYhSh88cjFPrTQExUQJSBH4/200_p-e5/korres-wild-rose-instant-brightening-eye-treatment.jpg" alt="Wild Rose Instant Brightening Eye Treatment">
+  <a href="/s/indie-lee-calendula-eye-balm" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/fkHhjD1w3h5IGHJ8w9bb7QR-BH4/200_p-37/indie-lee-calendula-eye-balm.jpg" alt="Calendula Eye Balm">
   </a>
 </li>
 
@@ -624,8 +987,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="skin2" class="is_hidden mt20">
-  <a href="/s/rms-beauty-raw-coconut-cream-2-5-oz" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/w0VF4RxMeRz7TOijOO9T8AR-BH4/200_p-47/rms-beauty-raw-coconut-cream-2-5-oz.jpg" alt="2.5 oz">
+  <a href="/s/koh-gen-do-cleansing-water-300-ml" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/Vi1bAI9flCzDWCg0DxACHAR-BH4/200_p-b7/koh-gen-do-cleansing-water-300-ml.jpg" alt="300 ml">
   </a>
 </li>
 
@@ -635,8 +998,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="skin3" class="is_hidden mt20">
-  <a href="/s/korres-wild-rose-vitamin-c-advanced-brightening-sleeping-facial" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/oEw9na39-NYdul0CgrltFAR-BH4/200_p-47/korres-wild-rose-vitamin-c-advanced-brightening-sleeping-facial.jpg" alt="Wild Rose + Vitamin C Advanced Brightening Sleeping Facial">
+  <a href="/s/glamglow-youthmud-tinglexfoliate-treatment-very-sexy-mud-mask" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/4ERMEQI-wBYvzytyXidf1QR-BH4/200_p-3f/glamglow-youthmud-tinglexfoliate-treatment-very-sexy-mud-mask.jpg" alt="Very Sexy Mud Mask">
   </a>
 </li>
 
@@ -657,8 +1020,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="skin5" class="is_hidden mt20">
-  <a href="/s/embryolisse-creme-anti-age-raffermissante" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/0xdqbmH1j0U_6Z0SRk95agR-BH4/200_p-9b/embryolisse-creme-anti-age-raffermissante.jpg" alt="Crème Anti-Âge Raffermissante">
+  <a href="/s/eve-lom-day-cream" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/KF4l0HGEnRsatDHNSm3vJQR-BH4/200_p-e7/eve-lom-day-cream.jpg" alt="Day Cream">
   </a>
 </li>
 
@@ -701,8 +1064,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="skin9" class="is_hidden mt20">
-  <a href="/s/korres-pomegranate-cleansing-makeup-removing-wipes" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/TSG6x_gPkMaOSmwRQz_4SAR-BH4/200_p-d4/korres-pomegranate-cleansing-makeup-removing-wipes.jpg" alt="Pomegranate Cleansing &amp; Makeup Removing Wipes">
+  <a href="/s/korres-pomegranate-cleansing-makeup-removing-wipes-2013" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/TSG6x_gPkMaOSmwRQz_4SAR-BH4/200_p-22/korres-pomegranate-cleansing-makeup-removing-wipes-2013.jpg" alt="Pomegranate Cleansing &amp; Makeup Removing Wipes (2013)">
   </a>
 </li>
 
@@ -714,6 +1077,17 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 <li id="skin10" class="is_hidden mt20">
   <a href="/s/embryolisse-lait-creme-moussant-sans-savon" class="thumb_img_160x160">
     <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/u0g0ZHTFtdoyHiceuiqMRAR-BH4/200_p-d9/embryolisse-lait-creme-moussant-sans-savon.jpg" alt="Lait-Crème Moussant Sans Savon">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="skin11" class="is_hidden mt20">
+  <a href="/s/korres-wild-rose-vitamin-c-advanced-brightening-sleeping-facial-2013" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/oEw9na39-NYdul0CgrltFAR-BH4/200_p-3e/korres-wild-rose-vitamin-c-advanced-brightening-sleeping-facial-2013.jpg" alt="Wild Rose + Vitamin C Advanced Brightening Sleeping Facial (2013)">
   </a>
 </li>
 
@@ -776,8 +1150,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="tool0" class="is_visible mt20">
-  <a href="/p/too-faced-retractable-kabuki-brush-2014-edition" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/jt_7oayaULQeRqYY7_qhzgR-BH4/200_p-61/too-faced-retractable-kabuki-brush-2014-edition.jpg" alt="Retractable Kabuki Brush 2014 Edition">
+  <a href="/s/chikuhodo-gsn-series-gsn-1-powder" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/Xz7RO5OTTEoGZSZizG9GwwR-BH4/200_p-89/chikuhodo-gsn-series-gsn-1-powder.jpg" alt="GSN Series GSN-1 Powder">
   </a>
 </li>
 
@@ -787,8 +1161,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="tool1" class="is_hidden mt20">
-  <a href="/s/anastasia-mini-duo-brush-7" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/2R9EDnZH1gHcVQ2jCMf4TwB8BH4/200_p-5d/anastasia-mini-duo-brush-7.jpg" alt="Mini Duo Brush #7">
+  <a href="/s/chikuhodo-z-series-z-1-powder" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/_BQrZBC2u_8iSUS2MOvpsgR-BH4/200_p-c9/chikuhodo-z-series-z-1-powder.jpg" alt="Z Series Z-1 Powder">
   </a>
 </li>
 
@@ -820,8 +1194,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="tool4" class="is_hidden mt20">
-  <a href="/s/paw-palette-regular-teal-purr-fect-paw" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/-uh5nC6YH-cUhCekLcuPjwR-BH4/200_p-ea/paw-palette-regular-teal-purr-fect-paw.jpg" alt="Regular Teal Purr-fect Paw">
+  <a href="/s/paw-palette-regular-red-glitter-mini-luv" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/AQHqLADtrDvndOE2asguPAR-BH4/200_p-b0/paw-palette-regular-red-glitter-mini-luv.jpg" alt="Regular Red Glitter Mini Luv">
   </a>
 </li>
 
@@ -831,8 +1205,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="tool5" class="is_hidden mt20">
-  <a href="/s/beautyblender-single-original" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/QYTx_FjKAJZQWv6zFNfk_gR-BH4/200_p-42/beautyblender-single-original.jpg" alt="Original">
+  <a href="/s/koh-gen-do-makeup-sponge-for-liquid-cream-foundation" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/bVMcVJNRsjGxiSjifdrEXgR-BH4/200_p-41/koh-gen-do-makeup-sponge-for-liquid-cream-foundation.jpg" alt="Makeup Sponge for Liquid/Cream Foundation">
   </a>
 </li>
 
@@ -842,8 +1216,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="tool6" class="is_hidden mt20">
-  <a href="/s/anastasia-scissors" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/yvuwGS6OEFH_0vywtHTU8gJiBH4/200_p-2f/anastasia-scissors.jpg" alt="Scissors">
+  <a href="/s/tweezerman-regency-finish-collection-petite-tweeze-set" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/TDBcf1G25PmptbNHB1HzYgR-BH4/200_p-e2/tweezerman-regency-finish-collection-petite-tweeze-set.jpg" alt="Regency Finish Collection Petite Tweeze Set">
   </a>
 </li>
 
@@ -853,8 +1227,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="tool7" class="is_hidden mt20">
-  <a href="/s/anastasia-sharpener" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/u11HOPlIG8S6i_QCJS48nwNWA1Y/200_p-2e/anastasia-sharpener.jpg" alt="Sharpener">
+  <a href="/s/kevyn-aucoin-the-precision-pencil-sharpener" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/3PXaFm34cnXe_pYRzL9f0wR-BH4/200_p-3f/kevyn-aucoin-the-precision-pencil-sharpener.jpg" alt="The Precision Pencil Sharpener">
   </a>
 </li>
 
@@ -864,8 +1238,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li id="tool8" class="is_hidden mt20">
-  <a href="/s/billy-b-beauty-eyelash-curler" class="thumb_img_160x160">
-    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/oc-WTvd05GKQxj-LQTc66QR-BH4/200_p-52/billy-b-beauty-eyelash-curler.jpg" alt="Eyelash Curler">
+  <a href="/s/charlotte-tilbury-life-changing-lashes" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/abRKWILuZ3hRyxVo7xw_agR-BH4/200_p-fa/charlotte-tilbury-life-changing-lashes.jpg" alt="Life Changing Lashes">
   </a>
 </li>
 
@@ -888,6 +1262,17 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 <li id="tool10" class="is_hidden mt20">
   <a href="/p/anna-sui-hand-mirror" class="thumb_img_160x160">
     <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/Yb0US-I2FWUHwhG4YQaNqQR-BH4/200_p-88/anna-sui-hand-mirror.jpg" alt="Hand Mirror">
+  </a>
+</li>
+
+
+      
+
+
+
+<li id="tool11" class="is_hidden mt20">
+  <a href="/s/anastasia-scissors" class="thumb_img_160x160">
+    <img class="thumb_img_160x160" data-src="//dy6g3i6a1660s.cloudfront.net/yvuwGS6OEFH_0vywtHTU8gJiBH4/200_p-2f/anastasia-scissors.jpg" alt="Scissors">
   </a>
 </li>
 
@@ -1065,7 +1450,7 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
         <a href="/articles/building-your-kit">Building Your Kit</a>
       </li>
       <li class="cat_link">
-        <a href="/articles/outfit-with-kit">outFit with Kit</a>
+        <a href="/articles/halloween-makeup">Halloween Makeup Ideas</a>
       </li>
       <li class="cat_title">
         <a href="/articles/from-the-shop">From the Shop</a>
@@ -1249,28 +1634,32 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
       <div class="clear"></div>
 
 
-      </div><!-- end body area -->
-      <div class="fluid footer_region">
+    </div><!-- end body area -->
+    <div class="fluid footer_region">
 
-          <div class="region">
-            <div class="">
-              
+        <div class="region">
+          <div class="">
+            
 
 <footer class="footer footer_brands">
   <ul class="footer_module module">
     <li class="footer_list">
       <h5 class=""><a href="/shop">Beautylish Boutiques</a></h5>
       <ul class="">
-        <li><a href="/b/billy-b-beauty">Billy B</a></li>
+        <li><a href="/b/anastasia">Anastasia</a></li>
+        <li><a href="/b/anna-sui">Anna Sui</a></li>
+        <li><a href="/b/by-terry">BY TERRY</a></li>
+        <li><a href="/b/charlotte-tilbury">Charlotte Tilbury USA</a></li>
+        <li><a href="/b/chikuhodo">CHIKUHODO</a></li>
         <li><a href="/b/inglot-cosmetics">Inglot</a></li>
-        <li><a href="/b/kevyn-aucoin">Kevyn Aucoin</a></li>
-        <li><a href="/b/korres">Korres</a></li>
       </ul>
     </li>
 
     <li class="footer_list">
       <h5 class=""><a href="/shop">&nbsp;</a></h5>
       <ul class="">
+        <li><a href="/b/kevyn-aucoin">Kevyn Aucoin</a></li>
+        <li><a href="/b/korres">Korres</a></li>
         <li><a href="/b/rcma-makeup">RCMA Makeup</a></li>
         <li><a href="/b/sugarpill-cosmetics">Sugarpill Cosmetics</a></li>
         <li><a href="/b/too-faced">Too Faced</a></li>
@@ -1278,39 +1667,21 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
       </ul>
     </li>
   </ul>
-
-  <div class="footer_country module js-shipping-menu">
-    <span class="inlineblock">Now Shopping: </span>
-    <ul class="inlineblock">
-      
-      
-      <li>
-        <span class="country_US mh10"></span>
-        United States
-      </li>
-      
-      <li>
-        <a href="#"><span class="country_CA mh10 is_inactive"></span></a>
-        <a href="#">Canada</a>
-      </li>
-      
-    </ul>
-  </div>
 </footer>
 
-  <footer class="footer footer_info">
-    <ul class="footer_module">
+<footer class="footer footer_info">
+  <ul class="footer_module">
     <li class="footer_list footer_list_shop">
       <h5 class="">Shop Beautylish</h5>
       <ul class="">
         <li><a href="https://www.beautylish.com/shop/order-history">Order History</a></li>
-        <li><a href="https://www.beautylish.com/shop/credit">View / Redeem Credit</a></li>
+        <li><a href="https://www.beautylish.com/shop/credit">View Credit</a></li>
         <li><a href="/help#customer-care">Customer Care</a></li>
         <li><a href="/help#placing-online-orders">Ordering &amp; Shipping</a></li>
         <li><a href="/help#returns-and-exchanges">Returns &amp; Exchanges</a></li>
         <li><a href="/help">Help</a></li>
       </ul>
-  </li>
+    </li>
   <li class="footer_list">
       <h5 class="">Follow Beautylish</h5>
       <ul class="">
@@ -1325,8 +1696,9 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
       </ul>
   </li>
   <li class="footer_list">
-    <h5 class="">About Beautylish</h5>
+    <h5 class=""><a href="/about">About Beautylish</a></h5>
     <ul class="">
+      <li><a href="/about">About</a></li>
       <li><a href="/community-etiquette">Community Etiquette</a></li>
       <li><a href="/review-guidelines">Review Guidelines</a></li>
       <li><a href="/press">Press</a></li>
@@ -1338,10 +1710,11 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 </footer>
 
-            </div>
-          </div>
 
-            
+          </div>
+        </div>
+
+          
 <div class="footer_bottom" style="">
   <div class="region">
     
@@ -1363,10 +1736,10 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
   </div>
 </div>
 
-      </div>
-    
+    </div>
+  
 
-    
+  
 
 <nav class="mobile_menu_shell">
 
@@ -1435,25 +1808,84 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 <li class="topnav_login info_menu">
-  <a class="js-load-modal" data-width="320" data-url="/fragment/login-modal?redirect_to=%2Fprivacy">Login</a>
-</li><li class="topnav_join info_menu">
-  <a data-url="/signup/join-modal?signup_campaign=header" class="js-load-modal" data-width="320">Join</a>
+  <a class="js-load-modal topnav_bar_link" data-width="320" data-url="/fragment/login-modal?redirect_to=%2Fprivacy">Login</a>
+</li><li class="topnav_join topnav_bar_linkinfo_menu">
+  <a data-url="/signup/join-modal?signup_campaign=header" class="js-load-modal topnav_bar_link" data-width="320">Join</a>
 </li>
 
+<li class="info_menu cat_menu_expandable js-shipping-menu">
+  <span class="cat_menu_expandable_trigger">
+    <span class="pr5">Ship To:</span>
+    <span id="js-flag" class="country_US is_active"></span>
+  </span>
+  <span class="glyph_right right_glyph_down hidden_mobile"></span>
+    <span class="subnav_trigger glyph glyph_right_nav"></span>
+
+  
+
+<ul class="subcat_menu user_subcat_menu">
+  <li class="menu_back visible_mobile">Back</li>
+
+<li class="topnavList_item">
+  <span class="country_AU mr10"></span>
+  <a href="#" class="topnavList_link">Australia</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_CA mr10"></span>
+  <a href="#" class="topnavList_link">Canada</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_FR mr10"></span>
+  <a href="#" class="topnavList_link">France</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_DE mr10"></span>
+  <a href="#" class="topnavList_link">Germany</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_HK mr10"></span>
+  <a href="#" class="topnavList_link">Hong Kong</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_IE mr10"></span>
+  <a href="#" class="topnavList_link">Ireland</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_NL mr10"></span>
+  <a href="#" class="topnavList_link">Netherlands</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_NZ mr10"></span>
+  <a href="#" class="topnavList_link">New Zealand</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_SG mr10"></span>
+  <a href="#" class="topnavList_link">Singapore</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_GB mr10"></span>
+  <a href="#" class="topnavList_link">United Kingdom</a>
+</li>
+<li class="topnavList_item">
+  <span class="country_US mr10"></span>
+  <a href="#" class="topnavList_link">United States</a>
+</li>
+
+  </ul>
+
+
+</li>
 
     
 
-
-
 <li class="info_menu">
-  <a href="https://www.beautylish.com/cart/view">Your Bag 
+  <a href="https://www.beautylish.com/bag/view?ref=mob">Your Bag 
 
 
 
-
-<span class="js-cart-quantity-num cartbtn_qty" style="display: none">
+<span class="bagNav_qty">
       (0)</span>
-<span class="js-cart-glyph glyph glyph_bag_empty"></span>
+<span class="glyph glyph_bag_empty"></span>
 
 </a>
 </li>
@@ -1470,6 +1902,8 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 <ul class="subcat_menu">
   <li class="menu_back visible_mobile">Back</li>
   <li class="cat_title_group hidden_mobile"><a href="/shop">Brand Boutiques:</a></li>
+  <div class="subnav_3col_inner">
+  <li class="cat_link cat_link_split"><a href="/b/alphabet-bags">Alphabet Bags</a></li>
   <li class="cat_link cat_link_split"><a href="/b/anastasia">Anastasia</a></li>
   <li class="cat_link cat_link_split"><a href="/b/anna-sui">Anna Sui</a></li>
   <li class="cat_link cat_link_split"><a href="/b/armour-beauty">Armour Beauty</a></li>
@@ -1478,6 +1912,9 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
   <li class="cat_link cat_link_split"><a href="/b/benjabelle">Benjabelle</a></li>
   <li class="cat_link cat_link_split"><a href="/b/billy-b-beauty">Billy B</a></li>
   <li class="cat_link cat_link_split"><a href="/b/bliss">Bliss</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/by-terry">BY TERRY</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/charlotte-tilbury">Charlotte Tilbury</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/chikuhodo">CHIKUHODO</a></li>
   <li class="cat_link cat_link_split"><a href="/b/cover-fx">Cover FX</a></li>
   <li class="cat_link cat_link_split"><a href="/b/cult-nails">Cult Nails</a></li>
   <li class="cat_link cat_link_split"><a href="/b/dita-von-teese">Dita Von Teese</a></li>
@@ -1490,9 +1927,14 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
   <li class="cat_link cat_link_split"><a href="/b/indie-lee">Indie Lee</a></li>
   <li class="cat_link cat_link_split"><a href="/b/inglot-cosmetics">Inglot Cosmetics</a></li>
   <li class="cat_link cat_link_split"><a href="/b/kevyn-aucoin">Kevyn Aucoin</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/kjaer-weis">Kjaer Weis</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/koh-gen-do">Koh Gen Do</a></li>
   <li class="cat_link cat_link_split"><a href="/b/korres">Korres</a></li>
   <li class="cat_link cat_link_split"><a href="/b/lit-cosmetics">Lit Cosmetics</a></li>
   <li class="cat_link cat_link_split"><a href="/b/lucas-papaw-remedies">Lucas' Papaw Remedies</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/nudestix">Nudestix</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/obsessive-compulsive-cosmetics">Obsessive Compulsive Cosmetics</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/omorovicza">Omorovicza</a></li>
   <li class="cat_link cat_link_split"><a href="/b/parian-spirit">Parian Spirit</a></li>
   <li class="cat_link cat_link_split"><a href="/b/paw-palette">Paw Palette</a></li>
   <li class="cat_link cat_link_split"><a href="/b/rcma-makeup">RCMA Makeup</a></li>
@@ -1503,8 +1945,10 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
   <li class="cat_link cat_link_split"><a href="/b/sugarpill-cosmetics">Sugarpill Cosmetics</a></li>
   <li class="cat_link cat_link_split"><a href="/b/the-brush-guard">The Brush Guard</a></li>
   <li class="cat_link cat_link_split"><a href="/b/too-faced">Too Faced</a></li>
+  <li class="cat_link cat_link_split"><a href="/b/tweezerman">Tweezerman</a></li>
   <li class="cat_link cat_link_split"><a href="/b/wayne-goss">Wayne Goss</a></li>
   <li class="cat_link cat_link_split"><a href="/b/z-palette">Z•Palette</a></li>
+  </div>
 </ul>
 
 </li>
@@ -1568,8 +2012,51 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
     <a href="/shop/browse?category=top-coat">Top Coat</a>
   </li>
   <li class="cat_link cat_last" data-featured-img="nail5">
-    <a href="/shop/browse?category=nail-sets-kits">Nail Care</a>
+    <a href="/shop/browse?category=nail-care">Nail Care</a>
   </li>
+</ul>
+
+</li>
+<li class="cat_menu_expandable"><a href="/shop/browse?category=bath-and-body">Bath <span class="fwn">&amp;</span> Body</a><span class="subnav_trigger glyph glyph_right_nav"></span>
+
+<ul class="subcat_menu">
+  <li class="menu_back visible_mobile">Back</li>
+    <li class="cat_title_group" data-featured-img="tool0">
+      <a href="/shop/browse?category=bath-and-body">Bath &amp; Body</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool1">
+      <a href="/shop/browse?category=body-cleansers">Cleansers</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool2">
+      <a href="/shop/browse?category=body-scrubs-exfoliants">Scrubs &amp; Exfoliants</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool3">
+      <a href="/shop/browse?category=body-treatments">Treatments</a>
+    </li>
+    <li class="cat_link cat_last" data-featured-img="tool4">
+      <a href="/shop/browse?category=sun-care">Sun &amp; Tanning</a>
+    </li>
+    <li class="cat_title_group" data-featured-img="tool5">
+      <a href="/shop/browse?category=hair">Hair</a>
+    </li>
+    <li class="cat_link " data-featured-img="tool6">
+      <a href="/shop/browse?category=hair-styling-products">Styling</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool7">
+      <a href="/shop/browse?category=hair-scalp-treatments">Hair Treatment</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool8">
+      <a href="/shop/browse?category=conditioner">Conditioner</a>
+    </li>
+    <li class="cat_link" data-featured-img="tool9">
+      <a href="/shop/browse?category=shampoo">Shampoo</a>
+    </li>
+    <li class="cat_link cat_last" data-featured-img="tool10">
+      <a href="/shop/browse?category=hair-tools">Brushes &amp; Combs</a>
+    </li>
+    <li class="cat_title" data-featured-img="tool11">
+      <a href="/shop/browse?category=fragrances">Fragrance</a>
+    </li>
 </ul>
 
 </li>
@@ -1597,12 +2084,6 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
   </li>
   <li class="cat_link cat_last" data-featured-img="skin6">
     <a href="/shop/browse?category=toners">Toners and Mists</a>
-  </li>
-  <li class="cat_title" data-featured-img="skin7">
-    <a href="/shop/browse?category=bath-and-body">Bath and Body</a>
-  </li>
-  <li class="cat_title" data-featured-img="skin8">
-    <a href="/shop/browse?category=fragrances">Fragrance</a>
   </li>
 </ul>
 
@@ -1694,7 +2175,7 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
     <a href="/articles/building-your-kit">Building Your Kit</a>
   </li>
   <li class="cat_link">
-    <a href="/articles/outfit-with-kit">outFit with Kit</a>
+    <a href="/articles/halloween-makeup">Halloween Makeup Ideas</a>
   </li>
 </ul>
 
@@ -1835,9 +2316,9 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 
-    
+  
 
-    
+  
 
 <div id="modal-overlay" style="display: none;"></div>
 
@@ -1875,7 +2356,7 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
     <a href="{{fullUrl}}" onclick="location.replace('{{fullUrl}}'); return false;">
       <img src="{{imageUrl}}"
            style="height: {{imageHeight}}px; margin-top: {{marginTop}}px; width: {{imageWidth}}px; " />
-      <img src="//s.beautylish.co/global/spacer.gif" class="pabs"
+      <img src="//d2k21z21l53iby.cloudfront.net/global/spacer.gif" class="pabs"
            style="height: 100%; left: 0; top: 0; width: 100%;" />
     </a>
   </script>
@@ -1885,14 +2366,15 @@ require(['//s.beautylish.co/combined/20140625-225221-js/BaseApp.js', '//s.beauty
 
 
 
-    
+  
 
 
-    
+  
 <div style="display:none">
     <script>
       /* <![CDATA[ */
 var google_conversion_id = 1012028432;
+var google_custom_params = window.google_tag_params;
 var google_conversion_language = "en";
 var google_conversion_format = "3";
 var google_conversion_color = "666666";
@@ -1912,7 +2394,17 @@ var google_conversion_value = 0;
 
 
 
-    
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KH7775"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KH7775');</script>
+  <!-- End Google Tag Manager -->
+
+  
 
 <script>
   adroll_adv_id = "K75I4ZPVSZDHNC7Y2ELLXX";
@@ -1934,16 +2426,7 @@ var google_conversion_value = 0;
 
 
 
-    
-
-<img style="display:none" src="//api.nanigans.com/event.php?app_id=44412&amp;type=visit&amp;name=landing">
-
-
-
-
-
-
-    
+  
 
 <script type="text/javascript">
     var fb_param = {};
@@ -1962,10 +2445,10 @@ var google_conversion_value = 0;
 
 
 
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","queueTime":0,"licenseKey":"b12d078aa6","agent":"js-agent.newrelic.com/nr-411.min.js","transactionName":"Z1NRZkNWChYFUkMIXl4ZdUdfVBAMC18YA1RRQ0dLXV4XDUpSWA9FQllfXlRFF0sXRVYVWFMMYEZQQw0GJ15ZFUNfWl9XQxkUFw1HVgJI","applicationID":"466450","errorBeacon":"bam.nr-data.net","applicationTime":147}</script>
-    
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","queueTime":0,"licenseKey":"b12d078aa6","agent":"js-agent.newrelic.com/nr-476.min.js","transactionName":"Z1NRZkNWChYFUkMIXl4ZdUdfVBAMC18YA1RRQ0dLXV4XDUpSWA9FQllfXlRFF0sXRVYVWFMMYEZQQw0GJ15ZFUNfWl9XQxkUFw1HVgJI","applicationID":"466450","errorBeacon":"bam.nr-data.net","applicationTime":124}</script>
   
-  <!-- 1 -->
+
+<!-- 1 -->
 
 
 
@@ -1978,4 +2461,4 @@ var google_conversion_value = 0;
 
 
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
