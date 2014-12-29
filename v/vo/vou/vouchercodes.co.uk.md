@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620200205id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercodes.co.uk privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229043350id_/http%3A//www.vouchercodes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # VoucherCodes.co.uk Data Protection and Privacy Policy
 
-RetailMeNot UK Ltd ("we", “our”, “us”) are committed to protecting and respecting your privacy.
+RetailMeNot UK Ltd, trading as VoucherCodes.co.uk, ("we", “our”, “us”) are committed to protecting and respecting your privacy.
 
 This policy (together with our website terms and conditions that apply to your use of our website and our mobile application terms and conditions that apply to your use of our mobile application) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -24,6 +24,8 @@ We may collect and process the following data about you:
 
   * Details of your visits to our Website or your use of the App, including, but not limited to, traffic data, location data and other communication data and the resources that you access.
 
+  * Information in relation to your location, if (i) you have installed the App on a mobile device and permitted your mobile device to transmit location data in respect of this App, or (ii) you access our Website via a mobile browser and you allow the transmission of your location data when prompted by your browser. Our App may be designed to collect information even if you are not logged in. The type of location data collected includes information relating to the latitude and longitude of your mobile device, your direction of travel and / or the time the location information was recorded.
+
 
 
 
@@ -33,20 +35,20 @@ We may collect and process the following data about you:
 
 We may collect information about your computer or mobile device, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our business users. This is statistical data about our users' browsing actions and patterns.
 
-For the same reason, we may obtain information about your usage of the Website or the App by using a cookie file which is stored on the hard drive of your computer or the internal memory of your mobile device. Cookies contain information that is transferred to your computer's hard drive or your mobile device's internal memory. They help us to improve our Website and our App and to deliver a better and more personalised service. They enable us:
+For the same reason, we may obtain information about your usage of the Website by using a cookie file which is stored on the hard drive of your computer or the internal memory of your mobile device. Cookies contain information that is transferred to your computer's hard drive or your mobile device's internal memory. They help us to improve our Website and to deliver a better and more personalised service. They enable us:
 
   * To estimate our audience size and usage pattern.
 
-  * To store information about your preferences, and so allow us to customise our Website or App according to your individual interests.
+  * To store information about your preferences, and so allow us to customise our Website according to your individual interests.
 
   * To speed up your searches.
 
-  * To recognise you when you return to our Website or use our App.
+  * To recognise you when you return to our Website.
 
 
 
 
-You may refuse to accept cookies by activating the setting on your browser or your mobile device which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website or our App. Unless you have adjusted your browser or mobile device setting so that it will refuse cookies, our system will issue cookies when you log on to our Website or use our App.
+You may refuse to accept cookies by activating the setting on your browser or your mobile device which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser or mobile device setting so that it will refuse cookies, our system will issue cookies when you log on to our Website.
 
 You can read more about our use of cookies [here](https://web.archive.org/about-cookies.html).
 
@@ -64,13 +66,13 @@ You can unsubscribe from receiving our newsletter by clicking the "Unsubscribe" 
 
 ## Where We Store Your Personal Data
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). Specifically our parent company (“RetailMeNot, Inc.”) is located in the United States of America and your personal data (as described in “Information we may Collect from You” above) can be accessed by and / or transferred to RetailMeNot, Inc in the United States and / or its affiliates, partners and service providers and will be used for communication of information, request fulfillment, statistical analysis and optimisation of websites and marketing. RetailMeNot, Inc. has voluntarily acceded to the U.S. Department of Commerce, Principles of Safe Harbor. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). Specifically our parent company (“RetailMeNot, Inc.”) is located in the United States of America and your personal data (as described in “Information we may Collect from You” above) can be accessed by and / or transferred to RetailMeNot, Inc in the United States and / or its affiliates, partners and service providers and will be used for communication of information, request fulfillment, statistical analysis and optimisation of websites and marketing. RetailMeNot, Inc. has voluntarily acceded to the U.S. Department of Commerce, Principles of Safe Harbor. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>
 
 In compliance with the US-EU Safe Harbor Principles, We commit to resolve complaints about your privacy and our collection or use of your personal information. If you have an enquiry or complaint regarding this privacy policy you should first contact us at [legal@vouchercodes.co.uk](mailto:legal@vouchercodes.co.uk).
 
 We have further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
-By submitting your personal data, you agree to this transfer, storing or processing. Your express consent shall be required if the collection and transfer is of sensitive data. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Please note that third parties may independently collect data about you, including your IP address, information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Website or the App.
+By submitting your personal data, you agree to this transfer, storing or processing. Your express consent shall be required if the collection and transfer is of sensitive data. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Please note that third parties may independently collect data about you, including your IP address, information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on the Website or the App. 
 
 All information you provide to us is stored on our (or our third party service providers’) secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Website or our App, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
@@ -94,14 +96,37 @@ We use information held about you in the following ways:
 
   * To notify you about changes to our service.
 
+  * To provide location based services to you (as set out below) if (i) you have installed the App on a mobile device and permitted your mobile device to transmit location data in respect of this App, or (ii) you access our Website via a mobile browser and you allow the transmission of your location data when prompted by your browser.
+
 
 
 
 We may also use your data to provide you with information about goods and services which may be of interest to you.
 
-We have implemented Google Analytics Demographics and Interest Reporting. We use information from Google Analytics Demographics and Interest Reporting to gain understanding and insights about the nature of our audience (holistically not individually). You can opt out of Google Analytics [here](https://tools.google.com/dlpage/gaoptout/).
+We have implemented Google Analytics including Google Analytics Demographics and Interest Reporting. We use information from Google Analytics to gain understanding and insights about the nature of our audience and how they interact with our products and services (holistically not individually). You can opt out of Google Analytics when using the Website [here](https://tools.google.com/dlpage/gaoptout/).
 
 We only disclose information about identifiable individuals to our affiliate advertisers as described in “Disclosure of Your Information” below. However, we may provide any affiliate advertisers with aggregate information about our users.
+
+* * *
+
+## Collection and Use of Location Data
+
+If (i) you have installed the App on a mobile device and permitted your mobile device to transmit location data in respect of this App, or (ii) you access our Website via a mobile browser and you allow the transmission of your location data when prompted by your browser, we may use that location data held about you in the following ways:
+
+  * To log when you have arrived at and / or leave a location (for example, a shopping centre, a high street or an airport);
+
+  * To provide location based services to you (for example, offering vouchers for merchants nearby or other marketing relevant to your location);
+
+  * To infer the location of the places you visit most often and determine your frequency at these locations.
+
+
+
+
+Location data will be processed for no longer than fourteen months.
+
+By (i) installing the App on a mobile device and permitting your mobile device to transmit location data in respect of this App, or (ii) accessing our Website via a mobile browser and you allow the transmission of your location data when prompted by your browser, you consent to the collection and use of such location data as set out above. 
+
+You may adjust the settings on your mobile device to withdraw consent to sharing your location data at any time and to prevent the sharing of location data. You may also manage how your mobile device or mobile browser handles cookies and related technologies by adjusting your mobile device privacy and security settings. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your mobile device and mobile browser settings. Please note that if you disable the sharing of location data, you may be unable to access some features of our services that are designed for mobile devices.
 
 * * *
 
@@ -109,7 +134,7 @@ We only disclose information about identifiable individuals to our affiliate adv
 
 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the Companies Act 2006.We may disclose your personal information to our affiliate advertisers, but only to the extent you have redeemed a voucher offered by the affiliate advertiser, or participated in an offer, contest or other activity sponsored or offered through the Website or App on behalf of the affiliate advertiser.
 
-We may disclose your personal information to our service providers that provide services for us to assist us in carrying out the purposes described in “Uses Made of the Information” above such as sending emails on our behalf, processing payments, and facilitating card-linked offers. Our service providers are bound by law or contract to protect personal information and are only allowed to use the personal information in accordance with the terms of our service agreements with them.
+We may disclose your personal information to our service providers that provide services for us to assist us in carrying out the purposes described in “Uses Made of the Information” above such as sending emails on our behalf, processing payments, and facilitating card-linked offers. Qualcomm Retail Solutions, Inc., for example, is a service provider that enables certain geo-location features of our Apps. Consequently, Qualcomm Retail Solutions, Inc. and its affiliates collect, store, and process, on our behalf, certain location information and related data on servers in the United States. Our service providers are bound by law or contract to protect personal information and are only allowed to use the personal information in accordance with the terms of our service agreements with them.
 
 We may disclose your personal information to other third parties:
 
@@ -146,7 +171,7 @@ The Act gives you the right to access information held about you. Your right of 
 
 Any changes we may make to our data protection and privacy policy in the future will be posted on this page.
 
-This data protection and privacy policy was last updated in February 2014.
+This data protection and privacy policy was last updated in July 2014.
 
 * * *
 
