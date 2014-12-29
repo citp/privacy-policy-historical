@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msexchange.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629125550id_/http%3A//www.msexchange.org/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msexchange.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229064619id_/http%3A//www.msexchange.org/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
