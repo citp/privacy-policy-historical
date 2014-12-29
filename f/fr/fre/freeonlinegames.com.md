@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621044904id_/http%3A//www.freeonlinegames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinegames.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229024830id_/http%3A//www.freeonlinegames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Online Games at FOG.COM
 
@@ -15,6 +15,8 @@ We respect each site visitor's right to personal privacy. To that end, we collec
 
 
 Registration is not required to enter our site. However, subscription to certain services may require a user to complete a registration form. During registration a user must give certain contact information, but we never sell or give away this information. It is only gathered to contact the user about services on our site for which s/he has expressed interest. It is optional for the user to provide demographic information (income level, gender, etc.), and unique identifiers (username, password, etc.). Giving additional information helps provide a more personalized experience on our site, but is not required. We publish a newsletter, and we never sell or share our subscribers' email or mailing addresses. We operate online surveys, and we never sell or share our subscribers' email addresses. We do show advertisement to our users, which is handled by [Google Adsense](http://adsense.google.com/), [FastClick](http://www.fastclick.com/), [CasaleMedia.com](http://www.casalemedia.com/) & [ValueClick.com](http://www.valueclick.com/). So any such concerns with our advertising, should be directed to them respectedly. 
+
+FreeOnlineGames.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email, address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, go to <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 **Furthermore:**
 
