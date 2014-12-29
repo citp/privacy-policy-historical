@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the listenonrepeat.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625105504id_/http%3A//listenonrepeat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the listenonrepeat.com privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229114751id_/http%3A//listenonrepeat.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# 
                   website: http://ogp.me/ns/website#">
@@ -13,9 +13,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   
+  
 
-  <link rel="stylesheet" type="text/css" href="/static/css/style.b8a80ff67a3f.css">
-  <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+  <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+
+  <script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") + 
+  "//www.googletagservices.com/tag/js/gpt.js";
+      var node = document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/static/js/moment.min.e8cdc98d1a71.js"></script>
+  <script type="text/javascript" src="/static/js/livestamp.min.e1d6370e267b.js"></script>
+  
+  <script type="text/javascript" src="/static/lor.ee3fb3da236d.js"></script>
+  
+
+  <script src="//gdata.youtube.com/feeds/api/videos/?v=2&amp;alt=json-in-script&amp;callback=PLAYER.youtubeFeedCallback"></script>
 
   
   <style>
@@ -74,18 +98,63 @@
 </head>
 
 <body>
-  <!-- Google Analytics -->
-  <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-4807430-3']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
 
-  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    <!-- Google Analytics -->
+  <script type="text/javascript"> 
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+  <script type="text/javascript"> 
+   try {
+      var pageTracker = _gat._createTracker("");
+      pageTracker._trackPageview();
+    } 
+    catch(err) {}
+  </script> 
 
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  <script>
+    PLAYER.ytid = "";
+    PLAYER.landingVideo = "";
+
+    
+    PLAYER.autoplay = false;
+    
+
+    $.ajaxSetup({
+      // Generate unique URL's for ajax calls
+      cache: false,
+
+      // Add CSRF token to relevant ajax calls
+      beforeSend: function(xhr, settings) {
+        if (!CSRF.isSafeMethod(settings.type) && CSRF.isSameOrigin(settings.url)) {
+          var csrftoken = $.cookie("csrftoken");
+          xhr.setRequestHeader("X-CSRFToken", csrftoken);
+        }
+      }
+    });
+
+    jQuery(function($) {
+      if ($.cookie("nocache") || $.cookie("debug")) {
+        $("body").css("border-top", "2px solid #0000ff");
+      }
+
+      PLAYER.init();
+      CONTACT.init();
+      NOTIFICATION.init();
+      HISTORY.init();
+      ANALYTICS.analyticsID = '';
+      ANALYTICS.init();
+
+      
+    });
+
+    $(window).load(function() {
+      // YouTube player embed
+      var tag = document.createElement('script');
+      tag.src = "//www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+    });
   </script>
 
   
@@ -149,6 +218,18 @@
     </div>
   </div>
 
+  
+  <script>
+    jQuery(function($) {
+      MANAGER.ytid = "";
 
+      
+      MANAGER.isMobile = false;
+      
+
+      MANAGER.init();
+      ARTIST.numArtists = '';
+    });
+  </script>
 
 </body></html>
