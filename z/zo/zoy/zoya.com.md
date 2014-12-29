@@ -1,36 +1,6 @@
-> *The following text is extracted and transformed from the zoya.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044058id_/http%3A//www.zoya.com/content/category/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoya.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229215103id_/http%3A//www.zoya.com/content/category/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Art of Beauty Privacey Policy
-
-Go Back
-
-Welcome! 
-
-\- or -
-
-Forgot your password? Click here
-
-Please Choose One: 
-
-Or 
-
-Professional Accounts
-
-**Licensed salon & spa professionals can set up a Professional Account which entitles them to professional only pricing, professional only promotions and additional educational and marketing resources available to our salon & spa customers.**
-
-If you already have a Professional Account with us, please sign in below with your email and password in the **"Sign In to My Professional Account"** section.
-
-To create a Salon - Spa Professional Account, please enter your email and a valid Cosmetology License in the section called **"Create a Professional Account"** below and click the **"Create Account" button.** You will then be asked for additional information.
-
-Sign In to Your Professional Account 
-
-Create a Professional Account 
-
-Welcome! 
-
-Please Choose One: 
-
-Or 
+# Art of Beauty Privacy Policy
 
 **What our Privacy Policy Covers**
 
