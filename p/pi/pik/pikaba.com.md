@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pikaba.com privacy policy that was archived on 2012-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120617161439id_/http%3A//www.pikaba.com/info.aspx%3Fmode%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikaba.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229085703id_/http%3A//www.pikaba.com/info.aspx%3Fmode%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Pikaba
 
@@ -64,6 +64,4 @@ lease remember that when you use a link to go from our Web site to another Web s
 
 **Your Consent**
 
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.  
-  
----
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
