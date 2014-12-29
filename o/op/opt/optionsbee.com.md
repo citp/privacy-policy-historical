@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionsbee.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630162215id_/http%3A//www.optionsbee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionsbee.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229154837id_/http%3A//www.optionsbee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,3 +16,5 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * We will make readily available to customers information about our policies and practices relating to the management of personal information. We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
 
+
+**_Back to Top_**
