@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the infoisinfo.co.in privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625225159id_/http%3A//www.infoisinfo.co.in/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoisinfo.co.in privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229214927id_/http%3A//www.infoisinfo.co.in/policy) for the most accurate reproduction.*
 
 # Privacy policy Infoisinfo
 
 In compliance with the provisions set forth in the Personal Data Protection Organic Law 15/1999 of the Spanish Legislation, users of the site [www.Infoisinfo.co.in](http://www.infoisinfo.co.in/), are made aware of our policy on the management of personal data in order to guarantee and protect the information collected. 
 
-Infoisinfo.co.in Infoisinfo.co.in is property of COMERLEADS S.L., which is owner of and responsible for the database generated from public sources and with the personal information provided by users. 
+Infoisinfo.co.in is property of COMERLEADS S.L., which is owner of and responsible for the database generated from public sources and with the personal information provided by users. 
 
 By pressing SEND, you agree that the personal data you have provided to us is added on a file owned by COMERLEADS, S.L. The purpose of such file is to provide you with the services indicated in the page, send you commercial or advertising information relative to our services and send you commercial or advertising information relative to services and products you have requested, by any means of communication (by phone, SMS, electronic means, etc.). Likewise, with the purpose of making you aware of the offers relative to their services, you expressly authorise your data to be assigned to the company or companies from which you have requested information. 
 
