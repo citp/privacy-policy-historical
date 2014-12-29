@@ -1,583 +1,176 @@
-<!--The following is the downloaded HTML source of the flightrising.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625083504id_/http%3A//flightrising.com/main.php%3Fp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flightrising.com privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229193112id_/http%3A//www1.flightrising.com/site/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Flight Rising </title>
-
-<link rel="stylesheet" type="text/css" href="/includes/custom-theme/jquery-ui-1.8.19.custom.css">
-<link rel="stylesheet" type="text/css" href="/includes/2_1.css">
-
-<script type="text/javascript" src="/js/jquery-1.9.1.js"></script>
-<script type="text/javascript" src="/js/jquery.hoverIntent.js"></script>
-<script type="text/javascript" src="/js/jquery-ui-1.9.2.js"></script>
-<script type="text/javascript" src="/js/jquery.cluetip.min.js"></script>
-<script type="text/javascript" src="/js/ed.js"></script>
-
-<script type="text/javascript">
-function helpMe(tut, first){
-	$('body').append('<div id="tutorial"></div>');
-	$("#tutorial").html('<img src="/images/layout/loading.gif"> loading...');
-
-	$.ajax({
-		type: "POST",
-		data: {tut: tut, ret: "title"},
-		url: "/includes/ol/tutorial.php",
-		cache:false
-	}).done(function(stuff){
-		var tuttitle = stuff;
-
-		//if(tut == "hoard"){var wval = 400;}
-		//else{wval = 400;}
-
-		var wval = 400;
-
-		$('#tutorial').dialog({
-			autoOpen: false,
-			title: tuttitle,
-			width: wval,
-			height: "auto",
-			modal: true,
-			resizable: false,
-			draggable: false,
-			closeOnEscape: false,
-			position: ['center', 100],
-			open: function(event, ui) {
-				$(".ui-dialog-titlebar-close", ui.dialog).hide();
-			}
-		});
-
-		$('#tutorial').dialog('open');
-
-		$.ajax({
-			type: "POST",
-			data: {tut: tut, ret: "modal", first: first},
-			url: "/includes/ol/tutorial.php",
-			cache:false
-		}).done(function(bodystuff){
-			$("#tutorial").html(bodystuff);
-		});
-
-
-	});
-
-
-}
-
-function pregiveStar(id)
-{
-
-	$.each(id, function(index, value){
-
-		var time = index * 7000;
-		//alert(time +":"+ value);
-		setTimeout( function(){giveStar(value)}, time);
-		//setTimeout(function(){giveStar('5')}, 3000);
-	});
-}
-
-function giveStar(id)
-{
-
-	$("#achieve_pop").html('<img src="/../../images/layout/loading.gif"> loading...');
-
-	$('#achieve_pop').dialog({
-		autoOpen: false,
-		title: "Achievement Unlocked!",
-		width: 310,
-		height: 120,
-		position: {
-			my: 'left',
-			at: 'right',
-			of: $('#logo')
-		},
-		modal: false,
-		resizable: false,
-		draggable: false,
-		closeOnEscape: false,
-		open: function(event, ui) {
-			$(".ui-dialog-titlebar-close", ui.dialog).hide();
-		}
-	});
-
-	$.ajax({
-		data: {id: id},
-		url: "/includes/ol/achieve_pop.php",
-		cache:false
-	}).done(function(stuff){
-		$('#achieve_pop').dialog('open');
-
-		$("#achieve_pop").html(stuff);
-
-		$('#achieve_pop').parent().fadeIn(1000);
-
-		$("#achieve_pop").parent().delay(5000).fadeOut(1000);
-
-
-
-		$('#overlay_ach').fadeIn(1).animate({height:'50px', width:'50px'}, 1).animate({height:'25px', width:'25px'}, 1000).fadeOut(1000);
-	});
-
-
-}
-
-var starmie = Array();
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-//CLUETIP
-$(document).ready(function() {
-	$('a.clue').cluetip({
-		height:"auto",
-		ajaxCache: true
-	});
-
-	$('a.clueitem').cluetip({
-		height:130,
-		showTitle:false,
-		positionBy: 'mouse',   // Sets the type of positioning: 'auto', 'mouse','bottomTop', 'topBottom', fixed'
-		topOffset: 20,       // Number of px to offset clueTip from top of invoking element
-		leftOffset: -20,       // Number of px to offset clueTip from left of invoking element
-		ajaxCache: true
-	});
-
-	$('a.cluestat').cluetip({
-		width: 180,
-		height: "auto",
-		ajaxCache: true
-	});
-
-	$('a.clue_nrg').cluetip({
-		showTitle:false,
-		width:300,
-		height: "auto"
-	});
-
-	$('a.loginbar').cluetip({
-		splitTitle: '|',
-		showTitle:false,
-		width: 200,
-		height: 'auto',
-		leftOffset: 25
-	});
-
-	$('a.miniclue').cluetip({
-		splitTitle: '|',
-		showTitle:false,
-		width:100,
-		height: 'auto',
-		leftOffset: 25
-	});
-
-	$('a.miniclue_female').cluetip({
-		splitTitle: '|',
-		showTitle:false,
-		width:100,
-		height: 'auto',
-		leftOffset: 25
-	});
-
-	$('a.miniclue_male').cluetip({
-		splitTitle: '|',
-		showTitle:false,
-		width:50,
-		height: 'auto',
-		leftOffset: 25
-	});
-
-	$('a.elemclue_fire').cluetip({
-		splitTitle: '|',
-		showTitle:false,
-		width:80,
-		height: 'auto',
-		leftOffset: 25
-	});
-
-	$('a.cluehelp').cluetip({
-		splitTitle: '|',
-		showTitle:false,
-		width:'auto',
-		height: 'auto',
-		positionBy: 'mouse',
-		leftOffset: '20px'
-	});
-
-
-
-	$('a.faire_clue').cluetip({
-		positionBy: 'mouse',
-		topOffset:'30px',
-		leftOffset:'40px',
-		height:'auto',
-		ajaxCache: true
-		//tracking: true
-	});
-});
-//]]>
-</script>
-
-<script type="text/javascript">
-	function switchTo(qval)
-	{
-		if (qval)
-		{
-			document.getElementById('passwordtext').style.display="none";
-			document.getElementById('pword').style.display="inline";
-			document.getElementById('pword').focus();
-		}
-		else
-		{
-			document.getElementById('pword').style.display="none";
-			document.getElementById('passwordtext').style.display="inline";
-		}
-	}
-
-
-	///Possibly Deprecated if I do an Ajax quote
-	function getText(id,user,date)
-	{
-		var textarea = document.getElementById("message");
-		var quote = document.getElementById(id).innerHTML;
-		alert(quote);
-		// Code for IE
-		if (document.selection)
-		{
-			textarea.focus();
-			var sel = document.selection.createRange();
-			sel.text = "[quote name='"+user+"' date='"+date+"' url='main.php?p=mb&board=&page=1&id=0#"+id+"']"+quote+"[/quote]";
-		}
-
-		else
-    	{  // Code for Mozilla Firefox
-			var len = textarea.value.length;
-	    	var start = textarea.selectionStart;
-			var end = textarea.selectionEnd;
-
-
-			var scrollTop = textarea.scrollTop;
-			var scrollLeft = textarea.scrollLeft;
-
-
-        	var sel = textarea.value.substring(start, end);
-			var rep = "[quote name='"+user+"' date='"+date+"' url='main.php?p=mb&board=&page=1&id=0#"+id+"']"+quote+"[/quote]";
-        	textarea.value =  textarea.value.substring(0,start) + rep + textarea.value.substring(end,len);
-
-			textarea.scrollTop = scrollTop;
-			textarea.scrollLeft = scrollLeft;
-		}
-	}
-</script>
-
-
-
-<script>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwMHUV9QGwAGVlJTAgI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(4),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(u){"stack"in u&&(t(5),t(3),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:4,2:7,3:5,4:18,5:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:18,2:19,ee:"QJf3ax",gos:"7eSDFh"}],5:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:19,2:18,ee:"QJf3ax"}],6:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:19,2:18,ee:"QJf3ax"}],7:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),u=s(a),f=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new f(t);try{i.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=f.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:4,2:19,ee:"QJf3ax"}],8:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=e(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var f=0;c>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:9,3:7,4:4,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],9:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,u="addEventListener",f="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[u]?(c[u]("DOMContentLoaded",o,!1),s[u]("load",n,!1)):(c[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],18:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],19:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:18,ee:"QJf3ax"}]},{},["G9z0Bl",3,8]);</script>
+  <link rel="shortcut icon" href="http://www1.flightrising.com/static/favicon.ico">
+  <link rel="apple-touch-icon" href="http://www1.flightrising.com/static/favicon.ico">
+  <title>Privacy Policy |
+ Flight Rising</title>
+  <link href="http://www1.flightrising.com/assets/application.css" rel="stylesheet" type="text/css">
+  <script src="http://www1.flightrising.com/assets/application.js"></script>
+  <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-45423708-1', 'flightrising.com');
+  ga('create', 'UA-45423708-1', 'www1.flightrising.com', 'ls');
+  ga('create', 'UA-3549204-2', 'www1.flightrising.com');
+  ga('require', 'displayfeatures');
+  ga('ls.send', 'pageview');
   ga('send', 'pageview');
-
-</script></head>
-
-
-
-
-	<body style="background-image: url(/images/layout/none/bg.jpg);">
-	<div class="container">
-	<div class="banner" style="background-image:url(/images/layout/holiday_5/banner.jpg); position:relative;">
-	
-
-<div class="logo" id="logo" style="width:325px;"><a href="http://flightrising.com/index.php"><img border="0" src="/images/layout/trans.png" width="312" height="140"></a></div>
-
-
-
-
-
-
-
-<div style="position:absolute; left:725px; bottom:70px; color: #e8cc9f;"></div>
-
-<div class="loginarea" id="loginarea">
-
-<div style="position:absolute; height:27px; width:950px; bottom:4px; right:0px;">
-	<span style="position:absolute; top:8px; left:10px; text-align:left; vertical-align:middle;">
-	<span style="position:relative; margin-right:15px; font-weight:bold; display:inline-block;">
-    <img src="/images/layout/siteclock.png" style="vertical-align:middle;">
-	01:35    </span>
-    |
-	</span>
-	
-	<span style="position:absolute; top:8px; left:100px; text-align:left;">
-	<strong><a href="main.php?p=active" class="loginlinks">1959 Users Online</a></strong>
-	</span>
-
-</div>
-
-	
-	
-</div>
-
-
-<div id="usertab" style="position:absolute; background-image:url(/images/layout/user_module_bg.png); right:0px; bottom:31px; height:90px; width:285px;">
-	<div class="loginform" style="position:relative; width:250px; margin-left:auto; margin-right:auto;">
-		<form method="post" id="loginform">
-		<span style="position:absolute; left:0px; top:5px;">
-		<input type="text" class="input_reg" name="uname" id="uname" value="Username" onfocus="if(this.value==this.defaultValue) this.value='';" onblur="this.value=this.value.replace(/^\s+|\s+$/g, ''); if(this.value=='') this.value='Username';" style="width:120px;">
-		</span>
-		
-		<span style="position:absolute; left:0px; bottom:5px;">
-		<input class="input_reg" type="text" style="width:120px;" id="passwordtext" value="Password" onfocus="switchTo(1)" onkeydown="switchTo(1)"> 
-		<input class="input_reg" type="password" name="pword" id="pword" value="" style="display:none; width:12em;" ;="" onblur="if (this.value=='') {switchTo(0)}"> 
-		</span>
-		
-		<span style="position:absolute; left:130px; top:5px; width:100px; display:inline-block; ">
-		<input name="remember" type="checkbox" id="remember" value="yes" title="Enabling this option will keep you logged into Flight Rising on this computer."> <span style="color:#000">Remember Me</span>
-		</span>    
-		
-		<span style="position:absolute; left:130px; bottom:2px;;">
-		<input name="button" id="loginbutton" type="submit" value="Login" style="font-size:1em;">
-		</span>
-		<input type="hidden" name="dologin" value="Login" id="dologin">
-		</form>
-	</div>
-
-	<span style="position:absolute; left:15px; bottom:10px; width:200px; text-align:left; display:inline-block;">
-		<a href="index.php?p=reg" class="loginlinks" style="color:#731d08;">Sign Up!</a> | <a href="index.php?p=lostpass" class="loginlinks" style="color:#731d08;">Lost Pass</a>
-	</span>
-	
-	<script type="text/javascript">
-	$('#loginform').submit(function(e) {	
-		e.preventDefault();
-		$('body').append('<div id="logging"></div>');
-		$("#logging").html('<img src="/images/layout/loading.gif"> loading...');
-		
-		$('#logging').dialog({
-			autoOpen: false,
-			title: "Login",
-			width: 350,
-			height: "auto",
-			modal: true,
-			resizable: false,
-			draggable: false,
-			closeOnEscape: false,
-			open: function(event, ui) { 
-				$(".ui-dialog-titlebar-close", ui.dialog).hide(); 
-			}
-		});		
-		
-		$('#logging').dialog('open');
-		
-		data = $('#loginform').serialize();
-		
-		$.ajax({
-			type: "POST",
-			data: data,
-			url: "includes/ol/login.php",
-			cache:false
-		}).done(function(stuff){	
-			$("#logging").html(stuff);
-		});
-	});
-	</script>
-	</div>
-
-<div id="achieve_pop" style="display:none; overflow:hidden;"></div>
-
-<!--End Banner-->
-</div>
-
-<div class="contentcontainer">
-
-<div class="leftcolumn">
-
-<img src="/images/layout/under_shadow.png" width="200px" height="3px" style="position:absolute; z-index:10;">
-
-	<div style="position:relative; width:180px; margin:10px;">
-
-		<script type="text/javascript">
-	function navDrill(divid) {
-		var div = document.getElementById(divid);
-		if (div.style.display == "inline") {
-			div.style.display = "none";
-			document.getElementById(divid + "+").innerHTML = "+";
-		} else {
-			div.style.display = "inline";
-			document.getElementById(divid + "+").innerHTML = "-";
-		};
-	};
 </script>
-<style type="text/css">
-	.navdrill {
-		display: none;
-		margin-left: 25px;
-	}
-	.navbar_drill {
-		font-size:10px;
-		display:block;
-		margin-left:30px;
-		color:#731d08;
-	}
-	.navbar_inline {
-		font-size:12px;
-		display:inline;
-		color:#731d08;
-		font-weight: bold;
-	}
-</style>
-	<script type="text/javascript">
-	if (document.images) 
-	{
-		var clan_hover = new Image();
-		clan_hover.src='/images/layout/header_clan_hover.png';
-		var shop_hover = new Image();
-		shop_hover.src='/images/layout/header_shop_hover.png';
-		var play_hover = new Image();
-		play_hover.src='/images/layout/header_play_hover.png';
-		var library_hover = new Image();
-		library_hover.src='/images/layout/header_library_hover.png';
-	}
-	</script>
-		
-	<a href="main.php?p=unreg"><img src="/images/layout/header_clan.png" border="0" width="179" height="29" onmouseover="this.src=clan_hover.src" onmouseout="this.src='/images/layout/header_clan.png'" style="margin-top:10px; margin-bottom:5px;"></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Dragon Lair</span></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Nesting Grounds</span></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Gather Items</span></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Clan Profile</span></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Hoard</span></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Messages</span></a>
-	
-	<a href="main.php?p=unreg"><img src="/images/layout/header_shop.png" border="0" width="179" height="29" onmouseover="this.src=shop_hover.src" onmouseout="this.src='/images/layout/header_shop.png'" style="margin-top:10px; margin-bottom:5px;"></a>
-	<a class="navbar" href="main.php?p=market"><span class="navbar-glow-hover">Marketplace</span></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Auction House</span></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Trading Post</span></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Crossroads</span></a>
-	<a class="navbar" href="main.php?p=skins"><span class="navbar-glow-hover">Custom Skins</span></a>
-	
-	<a href="main.php?p=unreg"><img src="/images/layout/header_play.png" border="0" width="179" height="29" onmouseover="this.src=play_hover.src" onmouseout="this.src='/images/layout/header_play.png'" style="margin-top:10px; margin-bottom:5px;"></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Fairgrounds</span></a>
-	<a class="navbar" href="main.php?p=unreg"><span class="navbar-glow-hover">Coliseum</span></a>
-	<a class="navbar" href="main.php?p=dominance"><span class="navbar-glow-hover">Dominance</span></a>
-	<!--<a class="navbar" href="main.php?p=unreg">Adventure</a>-->
-	
-	<a href="main.php?p=libraryhome"><img src="/images/layout/header_library.png" border="0" width="179" height="29" onmouseover="this.src=library_hover.src" onmouseout="this.src='/images/layout/header_library.png'" style="margin-top:10px; margin-bottom:5px;"></a>
-	<a class="navbar" href="main.php?p=mb"><span class="navbar-glow-hover">Forums</span></a>
-	<a class="navbar" href="main.php?p=explore"><span class="navbar-glow-hover">World Map</span></a>
-	<a class="navbar" href="main.php?p=search"><span class="navbar-glow-hover">Search</span></a>
-    <a class="navbar" href="main.php?p=scrying"><span class="navbar-glow-hover">Scrying Workshop</span></a>
-	<a class="navbar" href="main.php?p=wiki"><span class="navbar-glow-hover">Encyclopedia</span></a>
-	<a class="navbar" href="main.php?p=wallpaper"><span class="navbar-glow-hover">Media</span></a>	
-	
-		<div class="skybanner" style="margin-bottom:10px; margin-top:15px; overflow:hidden;">
-			<!--<script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=160X600&cwpid=552353&cwwidth=160&cwheight=600&cwpnet=1&cwtagid=148094"></script>-->
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Skyscraper -->
-<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-5695505966863461" data-ad-slot="1835150665"></ins>
+</head>
+<body class="onecol" style="background-image:url(/static/layout/none/bg.jpg)">
+    <div class="container">
+   <div class="banner" style="background-image:url(/static/layout/none/banner.jpg)">
+
+  <div class="logo" id="logo">
+    <a href="http://www1.flightrising.com"><img src="http://www1.flightrising.com/static/layout/trans.png" alt="FlightRising Logo"></a>
+  </div>
+
+  <div class="loginarea" id="loginarea">
+    <div class="users-online">
+	<span class="time">
+	  <span> <img src="http://www1.flightrising.com/static/layout/siteclock.png" class="clock" alt="Users Online"> 11:31</span> |
+	</span>
+
+	<span class="online">
+    <a href="http://www1.flightrising.com/site/active" class="loginlinks">3528 Users Online</a>	</span>
+
+     
+</div>
+  </div>
+
+       <div id="logintab">
+      <div id="loginform">
+        <form method="POST" action="https://www1.flightrising.com/login" accept-charset="UTF-8"><input name="_token" type="hidden" value="BJoa1bIven2zcxr0MGZevpeLK0nck8CW3QWhWpv4">          <input id="uname" tabindex="1" name="uname" type="text" value="Username">          <input checked="checked" name="remember" type="checkbox" value="1">          Remember Me
+          <input tabindex="2" name="pword" type="text" value="Password">          <input secure="secure" type="submit" value="Login">        </form>      </div>
+      <div class="loginlinks">
+        <a href="http://www1.flightrising.com/registration/start">Sign Up!</a>        |
+        <a href="http://www1.flightrising.com/login/lost-password">Lost Pass</a> 
+      </div>
+    </div>
+    <div id="rejectpass" style="visibility: hidden">
+	<div>Invalid Login. Incorrect username and/or password. After four failed login attempts, your account will be locked for a duration of two hours.</div>
+	<div><button class="beigebutton thingbutton" id="rejectpass-close">Close</button></div>
+    </div>
+    <div id="locked" style="visibility: hidden">
+      <div>Your account is currently locked due to repeated failed logins. Please wait two hours and try again.</div>
+      <div><button class="beigebutton thingbutton" id="locked-close">Close</button></div>
+    </div>
+    <div id="suspended" style="visibility: hidden">
+      <div>Your account has been suspended until <span id="bantime"></span>.  Check your email for further details.</div>
+      <div><button class="beigebutton thingbutton" id="suspended-close">Close</button></div>
+    </div>
+    <div id="banned" style="visibility: hidden">
+      <div>Your account has been banned.</div>
+      <div><button class="beigebutton thingbutton" id="banned-close">Close</button></div>
+    </div>
+    <div id="maint" style="visibility: hidden">
+      <div>Flight Rising is currently closed for maintenance. We will be back shortly.</div>
+      <div><button class="beigebutton thingbutton" id="maint-close">Close</button></div>     
+    </div>
+  </div>
+   <div id="content">
+    <div class="contentcontainer">
+      <div class="leftcolumn">
+        <img src="http://www1.flightrising.com/static/layout/under_shadow.png" class="under-shadow">
+<div class="content">
+  <a href="http://www1.flightrising.com/clan-home">
+  <div class="header clan"></div>
+  </a>
+
+  <a href="http://www1.flightrising.com/lair" class="navbar navbar-glow-hover">Dragon Lair</a>  <a href="http://www1.flightrising.com/nest" class="navbar navbar-glow-hover">Nesting Grounds</a>  <a href="http://www1.flightrising.com/gather" class="navbar navbar-glow-hover">Gather Items</a>
+      <a href="http://www1.flightrising.com/noauth" class="navbar navbar-glow-hover">Clan Profile</a> 
+  
+  <a href="http://www1.flightrising.com/hoard" class="navbar navbar-glow-hover">Hoard</a>
+  
+  <a href="http://www1.flightrising.com/msgs" class="navbar navbar-glow-hover">Messages</a>
+  <a href="http://www1.flightrising.com/shop-home">
+  <div class="header shop"></div>
+  </a>
+
+  
+  <a href="http://www1.flightrising.com/marketplace" class="navbar navbar-glow-hover">Marketplace</a>  <a href="http://www1.flightrising.com/auction-house" class="navbar navbar-glow-hover">Auction House</a>  <a href="http://www1.flightrising.com/trading" class="navbar navbar-glow-hover">Trading Post</a>  <a href="http://www1.flightrising.com/crossroads" class="navbar navbar-glow-hover">Crossroads</a>  <a href="http://www1.flightrising.com/custom-skins" class="navbar navbar-glow-hover">Custom Skins</a>
+  
+  <a href="http://www1.flightrising.com/play-home">
+  <div class="header play"></div>
+  </a>
+
+  <a href="http://www1.flightrising.com/play/fairgrounds" class="navbar navbar-glow-hover">Fairgrounds</a>  <a href="http://www1.flightrising.com/coliseum" class="navbar navbar-glow-hover">Coliseum</a>  <a href="http://www1.flightrising.com/dominance" class="navbar navbar-glow-hover">Dominance</a>
+  <a href="http://www1.flightrising.com/wiki/wiki-home">
+  <div class="header library"></div>
+  </a>
+
+  <a href="http://www1.flightrising.com/forums" class="navbar navbar-glow-hover">Forums</a>  <a href="http://www1.flightrising.com/wiki/world-map" class="navbar navbar-glow-hover">World Map</a>  <a href="http://www1.flightrising.com/search" class="navbar navbar-glow-hover">Search</a>  <a href="http://www1.flightrising.com/scrying" class="navbar navbar-glow-hover">Scrying Workshop</a>  <a href="http://www1.flightrising.com/wiki/wiki" class="navbar navbar-glow-hover">Encyclopedia</a>  <a href="http://www1.flightrising.com/site/media" class="navbar navbar-glow-hover">Media</a>
+  
+  <div class="skybanner" id="skybanner" style="margin-bottom:10px; margin-top:15px; overflow:hidden;">
+    <!-- Skyscraper -->
+    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:inline-block; width:160px; height:600px" data-ad-client="ca-pub-5695505966863461" data-ad-slot="1835150665">
+</ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-			</div>
-		<!--<div class="skybanner"></div>-->
-		<div style="width:80px; height:10px;"></div>
-		<!--End Left Column-->
-	</div>
-
+  </div>
 </div>
-
-<div class="main">
-<!--START CODEMEGEDDON-->
-
-<img src="/images/layout/under_shadow.png" width="750px" height="3px" style="position:absolute; z-index:10;">
-<img src="/images/layout/privacy/internal_bg.jpg" style="position:absolute; right:0px;" id="internal_bg">
-<div style="position:relative; width:730px; margin:10px;" id="super-container">
-<div style="font-size:12px; color:#000;">
-	<a href="index.php" style="color:#000;">Home</a> »
-	<a href="main.php?p=privacy" style="color:#731d08; font-weight:bold;">Privacy Policy</a> »
-	<a href="main.php?p=tos" style="color:#000;">Terms of Use Agreement</a> 
-</div>
-
-
-<div style="position:relative; text-align:right; width:705px; height:69px; margin-left:15px;">
-	<span style="font-size:22px; color:#731d08; font-weight:bold; position:absolute; top:20px; left:0px;">Our Privacy Policy</span>
-	<div style="color:#666; font-size:12px; position:absolute; bottom:10px; left:0px;">
-		How Flight Rising gathers, uses, manages, and discloses its users' data.
-	</div>
-</div>
-
-<div style="width:680px; margin-left:auto; margin-right:auto; font-size:12px;">
-<div style="margin-top:30px;">
-	<div style="font-weight:bold;">
-	Information Flight Rising gathers:
-	</div>
-	<div style="margin-left:15px; margin-top:10px;">
-	-IP Address<br>
-	-First Name<br>
-	-Last Name<br>
-	-Birthday<br>
-	-E-Mail Address
-	</div>
-</div>
-
-<div style="font-weight:bold; margin-top:30px;">
-How Flight Rising uses the above information:
-</div>
-<div style="margin-top:10px;">
-This information is solely used to identify and protect the account owner. No information is sold, traded, or shared with anyone (persons or businesses).
-</div>
-
-<div style="font-weight:bold; margin-top:30px;">
-Parties that are given access to the above information:
-</div>
-<div style="margin-top:10px;">
-A user's personal information is accessible by the site administration staff only, with the exception being the user's password, which remains heavily encrypted.
-</div>
-
-<div style="font-weight:bold; margin-top:30px;">
-Flight Rising's use of browser cookies:
-</div>
-<div style="margin-top:10px;">
-Our website makes use of cookies which are small digital files that are stored in your web browser that enable us to track your return visits to our website. Your browser settings may allow you to block these cookies, but we recommend you have them enabled to help us personalize your experience.<br>
+<div style="width:80px; height:10px;"></div>
+      </div>
+      <div class="main" style="background-image:  url(/static/layout/404/internal_bg.jpg)
+">
+        <img src="http://www1.flightrising.com/static/layout/under_shadow.png" class="under-shadow">        <div class="content">
+          <div class="breadcrumbs"><a href="http://www1.flightrising.com">Home</a> » Privacy Policy</div>                    <div class="inner-content">
+            <h1 class="siteheader">Our Privacy Policy</h1>
+<p class="subheader">How Flight Rising gathers, uses, manages, and discloses its users' data.</p>
 <br>
-Additionally, 3rd party advertisers on our site may use cookies for tracking purposes. For instance, Google, as a third party vendor, uses cookies to serve ads and track our site traffic. Google's use of the DART cookie enables it to serve ads to visitors based on the sites they visit on the internet. Website visitors may opt out of the DART cookie by visiting their Google ad and content network privacy policy.
-</div>
+<p><strong>Information Flight Rising gathers:</strong></p>
+<p>-IP Address</p>
+<p>-First Name</p>
+<p>-Last Name</p>
+<p>-Birthday</p>
+<p>-E-Mail Address</p>
+<br>
+<p><strong>How Flight Rising uses the above information:</strong></p>
+<p>This information is solely used to identify and protect the account owner. No information is sold, traded, or shared with anyone (persons or businesses).</p>
+<br>
+<p><strong>Parties that are given access to the above information:</strong></p>
+<p>A user's personal information is accessible by the site administration staff only, with the exception being the user's password, which is irreversibly hashed per security best practices.</p>
+<br>
+<p><strong>Flight Rising's use of browser cookies:</strong></p>
+<p>Our website makes use of cookies which are small digital files that are stored in your web browser that enable us to track your return visits to our website. Your browser settings may allow you to block these cookies, but we recommend you have them enabled to help us personalize your experience.</p>
 
-</div>	</div>
-<!--END CODEMEGEDDON-->
-
-<!--End Main Content-->
-</div>
-
-	<!--Clear Floats-->
-	<div class="clear"></div>
-
-<!--End Content Container-->
-</div>
-
-<div style="width:auto; background-color:#731d08; padding-top:8px; padding-bottom:8px; height:90px;"><div style="margin-left:111px; width:728px; overflow:hidden;">
-	<!--<script  src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=728X90&cwpid=552353&cwwidth=728&cwheight=90&cwpnet=1&cwtagid=148095"></script>-->
-    
-   <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Leaderboard -->
-<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-5695505966863461" data-ad-slot="3311883867"></ins>
+<p>Additionally, 3rd party advertisers on our site may use cookies for tracking purposes. For instance, Google, as a third party vendor, uses cookies to serve ads and track our site traffic. Google's use of the DART cookie enables it to serve ads to visitors based on the sites they visit on the internet. Website visitors may opt out of the DART cookie by visiting their Google ad and content network privacy policy.</p>
+          </div>
+        </div>
+      </div>
+      <div style="clear:both;"></div>
+    </div>
+  </div>
+  <div id="footer">
+    <div id="bottom-banner">
+  <div class="content">
+    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:inline-block; width:728px; height:90px" data-ad-client="ca-pub-5695505966863461" data-ad-slot="3311883867">
+</ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-    
-    
-    
-	</div></div>
-<!--End Bottom Banner-->
-<div class="copybar">© 2013 Stormlight Workshop. All Rights Reserved<br>
-<a href="main.php?p=tos">Terms of Use</a> | <a href="main.php?p=privacy">Privacy Policy</a> | <a href="main.php?p=credits">Credits</a> |  <a href="index.php?p=contact">Contact Us</a> | <a href="http://www.virtualpetlist.com/" target="_blank" alt="Virtual Pet List">Virtual Pets Forum</a></div>
-<!--End Copybar-->
-
-<!--End Container-->
+  </div>
 </div>
 
-<!--ZENDESK TAB-->
+<div class="copybar">© 2013 Stormlight Workshop.<br>
+  <a href="http://www1.flightrising.com/site/terms-use">Terms of Use</a> |
+  <a href="http://www.flightrising.com/main.php?p=wiki&amp;article=50">Rules and Guidelines</a> |
+  <a href="http://www1.flightrising.com/site/privacy-policy">Privacy Policy</a> |
+  <a href="http://www1.flightrising.com/site/credits">Credits</a> |
+  <a href="http://www1.flightrising.com/site/contact-us">Contact Us</a> |
+  <a href="http://www.virtualpetlist.com" target="_blank">Virtual Pets Forum</a></div>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"b24d3dfb63","applicationID":"2206232","transactionName":"ZlJQbEJZWUtTUUZYWV8YZ0pZF1pZW1wcQV5B","queueTime":0,"applicationTime":4,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<div id="preview-dialog"></div>
+  </div>
+ </div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"b24d3dfb63","applicationID":"3623153","transactionName":"ZlJQbEJZWUtTUUZYWV8Yc1tEUVhWHUJAWEBQVEsVQFdbUVFL","queueTime":0,"applicationTime":73,"ttGuid":"","agentToken":"","atts":"ShVTGgpDSkU=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
