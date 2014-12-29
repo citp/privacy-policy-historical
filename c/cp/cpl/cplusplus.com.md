@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617205629id_/http%3A//www.cplusplus.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229081955id_/http%3A//www.cplusplus.com/privacy.do) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -35,7 +35,7 @@ Some non-personal information is automatically logged by our servers as provided
 
 This information is temporarily stored in our servers for statistical and reviewing purposes. 
 
-Most browser applications allow you restrict the disclosure of some or all of the above information. Please check yor browser's manual for more detail. 
+Most browser applications allow you to restrict the disclosure of some or all of the above information. Please check your browser's manual for more detail. 
 
 #### User-provided content
 
