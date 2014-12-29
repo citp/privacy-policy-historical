@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tjori.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613185206id_/http%3A//www.tjori.com/open/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjori.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229022411id_/http%3A//www.tjori.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tijori
 
 ## TJORI.COM, LLC (A subsidiary of AM WEBSHOP INDIA PVT LTD)
 
@@ -17,9 +17,6 @@ This Privacy Policy covers our treatment of personally identifiable information 
 
 We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for the Services (as that term is defined in our Terms of Use). If you are under 13, please do not attempt to register for the Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to us or on the Services. If we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@Tjori.com.
 
-  
-
-
 ## II. WHAT INFORMATION DOES TJORI COLLECT?
 
 In order to access this Site, you must first complete the registration process. During the registration process, we collect personal information such as your name and email address. Once you complete and submit your registration, you have opted in to receive email communication from us.
@@ -32,7 +29,9 @@ If you choose to invite an individual to join Tjori.com, you will need to provid
 
 ### A. Information You Provide to Us:
 
-We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, username, phone number, credit card and other billing information, email address, shipping address, and your friends' email addresses (which we will only use in order to invite them to use the Service), and your third-party account credentials (for example, your log-in credentials for Facebook). We may also collect information you supply to us regarding your personal preferences and interests. If you access the Service through Facebook Connect , you understand that some content and/or information in your Facebook account ("Third Party Account Information") may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to register with us or to take advantage of some or all of our features.
+We receive and store any information you knowingly provide to us. For example, we collect Personal Information such as your name, username, phone number, credit card and other billing information, email address, shipping address, and your friends' email addresses (which we will only use in order to invite them to use the Service), and your third-party account credentials (for example, your log-in credentials for Facebook). We may also collect information you supply to us regarding your personal preferences and interests. If you access the Service through Facebook Connect , you understand that some content and/or information in your Facebook account ("Third Party Account Information") may be transmitted into your account with us if you authorize such transmissions, and that Third Party Account Information transmitted to our Services is covered by this Privacy Policy. You can choose not to provide us with any or all of the information we specify or request, but then you may not be able to register with us or to take advantage of some or all of our features. Third parties may use cookies, web beacons, and similar technologies to collect or receive information from our website and elsewhere on the internet and use that information to provide measurement services and target ads. You can opt-out of the collection and use of information for ad targeting. to[www.aboutads.info/choices](http://www.aboutads.info/choices)).
+
+<https://www.facebook.com/ads/manage/convtrack/tos/?act=1487439554847258>
 
 We may anonymize your Personal Information so that you cannot be individually identified and provide that anonymized information to our partners. For example, we allow advertisers to choose the demographic information of users who will see their advertisements and you agree that we may use any of the information we have collected from you in non-personally identifiable form to allow our advertisers to select the appropriate audience for those advertisements. We might use the fact you have purchased or inquired about a certain brand of apparel, for instance, to show you advertisements for the company that sells that brand, but we will not tell that company who you are.
 
