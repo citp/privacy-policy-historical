@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the vw.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629151217id_/http%3A//www.vw.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vw.com privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229064932id_/http%3A//www.vw.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
     <script type="text/javascript">
         var overrideMobileRedirect = 'false';
         var mobileRedirectUrl = '';
     </script>
+
     <meta name="google" content="notranslate">
     <script type="text/javascript">
     window.sdlBaseUrl = '/vwsdl';
@@ -14,78 +15,125 @@
 	pagePath = "/privacy/";
     </script>
 
-    <link rel="stylesheet" href="/etc/clientlibs/vwcom.css?_s=LDd2UDd" type="text/css">
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery.js?_s=M86WGaH"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/utils.js?_s=72cCTbi"></script>
-<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js?_s=dxVlK1i"></script>
-<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js?_s=t2KCyb/"></script>
-<script type="text/javascript" src="/etc/clientlibs/vwcom.js?_s=nvg1p0/"></script>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="google-site-verification" content="oItZfGhbj6mJmPgZgC40-JWZYEAdHGyvp4KcvrSvVjw">
+<meta name="google-site-verification" content="h8ujd-a-uZtQaET1Hh__mcQXNJHXBe1QLRNNqy_Xk0Y">
 
-<!--[if IE 8]>   <script>$('html').addClass('ie8');</script> <![endif]-->
-<!--[if IE 9]>   <script>$('html').addClass('ie9');</script> <![endif]-->
-<!--[if !IE]>    <script>$('html').addClass('not-ie');</script> <![endif]-->
-
+<!-- In this implementation, we can author these UserAgents per instance, if needed  SMK -->
 <script>
+var mobileRedirectConfig = [
+    {
+        "userAgent": "iphone|ipod|mobile|blackberry|palm|silk",
+        "not": {
+            "userAgent": "tablet|ipad|playstation|iemobile|msie",
+            "mediaQuery": "(min-width: 768px)"
+        }
+    }
+];
 
-  if (navigator.appVersion.indexOf("MSIE 10") !== -1) {
-    $('html').addClass('ie10');
-  }
+if (mobileRedirectConfig){
+    try {
+        var defaultRedirect = 'http://m.vw.com';
+        var passed = false;
 
-	if(navigator.userAgent.match(/Trident.*rv:11\./)) {
-		$('html').addClass('ie11');
-	}
-	
-	if (navigator.userAgent.indexOf('Windows NT 6.1') > 0) {
-		   	$('html').addClass('windowsSeven');
-	}
-	
+        for (var i=mobileRedirectConfig.length; i--;){
+            // check to see if thisConfig passes all tests.
+            var thisConfig = mobileRedirectConfig[i];
+            var configPass = true;
+
+            // userAgent
+            var userAgentMatch = navigator.userAgent.toLowerCase().match(new RegExp(thisConfig.userAgent, 'i'));
+
+            //if match is null, then it's a no pass.  if not null, it passed; set to true
+            configPass = configPass && userAgentMatch;
+
+            // media query
+            if (typeof window.matchMedia === 'function' && thisConfig.mediaQuery){
+                var mqMatch = window.matchMedia(thisConfig.mediaQuery);
+                configPass = configPass && mqMatch.matches;
+            }
+
+            //not rules
+            if (typeof thisConfig.not === 'object') {
+
+                //not user agent
+                if (thisConfig.not.userAgent){
+                    var notUAMatch = navigator.userAgent.toLowerCase().match(new RegExp(thisConfig.not.userAgent, 'i'));
+                    configPass = notUAMatch ? false : configPass;
+                }
+
+                //not media query
+                if (typeof window.matchMedia ==='function' && thisConfig.not.mediaQuery){
+                    var notMediaQuery = window.matchMedia(thisConfig.not.mediaQuery);
+                    configPass = (notMediaQuery.matches) ? false: configPass;
+                }
+            }
+
+            passed = passed || configPass;
+        }
+
+
+        if (window.overrideMobileRedirect === "true") {
+            passed = false;
+        }
+
+        if (passed) {
+            //redirect
+            window.location = window.mobileRedirectUrl || defaultRedirect;
+        }
+    } catch (ex) {
+        // error
+        debugger;
+    }
+}
+</script>
+<link rel="stylesheet" href="/etc/clientlibs/vwcom.css?_s=A4ZZIMc" type="text/css">
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery.js?_s=+E0dBRh"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.js?_s=l9s3jv5"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js?_s=l7r7oAt"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.js?_s=qDVagsg"></script>
+<script type="text/javascript" src="/etc/clientlibs/vwcom.js?_s=GPdMtFS"></script>
+<script>
+    $(document).ready(function(){
+        var browser = VW.utilities.isIE();
+        var tag = $('html');
+        var classToAdd = '';
+
+        switch(browser){
+            case 8:
+                classToAdd ='ie8';
+                break;
+            case 9:
+                classToAdd ='ie9';
+                break;
+            case 10:
+                classToAdd ='ie10';
+                break;
+            case 11:
+                classToAdd ='ie11';
+                break;
+
+            default:
+                if (navigator.userAgent.indexOf('Windows NT 6.1') > 0 ) {
+                    classToAdd = 'windowsSeven';
+                }
+                break;
+        }
+
+        if (classToAdd) tag.addClass(classToAdd);
+    });
 </script>
 
-
-<!--[if lte IE 9]>
-	<script type="text/javascript" src="/etc/clientlibs/iefixes.js"></script>
-<style>
-      .zeroResultsWarningOverlay {
-          background-color: black !important;
-      }
-    </style>
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]--><!--[if lte IE 9]>
+<link rel="stylesheet" href="/etc/clientlibs/iefixes.css" type="text/css"/>
+<script type="text/javascript" src="/etc/clientlibs/iefixes.js"></script>
 <![endif]-->
 
-<!--[if IE 8]>
-  <style>
-  #lightboxContent #lightboxContentInner .locationChange .geoLocate .textboxWrapper input {
-    line-height: 40px;
-  }
 
-  .matchmakerConfigurator .visualFilters .visualFilter .bfNavWrapper h1 {
-    background-color: #F1F5F6;
-  }
-  </style>
-<![endif]-->
-
-<!-- FIREFOX ONLY -->
-<style>
-@-moz-document url-prefix() {
-  .matchmakerConfigurator .subMenu .matchmakerSelections .matchmakerSelection .thumbnail {
-    line-height: 30px !important;
-    text-indent: 1px;
-  }
-}
-</style>
-
-<!--[if lte IE 9]>
-	    <link rel="stylesheet" href="/etc/clientlibs/iefixes.css" type="text/css"/>
-<![endif]-->
-<!--[if lte IE 9]>
-    <![endif]-->
-	
-    <!--[if IE 11]>
-    <![endif]-->
-
-    <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/vwcom/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/vwcom/favicon.ico">
     <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/vwcom/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/etc/designs/vwcom/apple-touch-icon-114x114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/etc/designs/vwcom/apple-touch-icon-72x72-precomposed.png">
@@ -96,15 +144,15 @@
             
 			});
     </script>
-	<!--[if lte IE 9]>
-	    <![endif]-->
+
 	<script type="text/javascript" src="//s.btstatic.com/tag.js">
 { site: "2GdXbS4", mode: "sync" }
 </script>
 <noscript>
   <iframe src="//s.thebrighttag.com/iframe?c=2GdXbS4" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </noscript>
-</head>
+<!-- SMK -->
+    </head>
 <body class="vwContentPage auxPage privacyPolicy">  
 
   <div class="parbase pageViewEvent"></div>
@@ -354,8 +402,8 @@ Auburn Hills, MI 48326</p>
          <div class="t12 d12 w12">
   <p>© 2014 Volkswagen of America, Inc.</p>
 <ul class="nav">
-  		<li><a href="/site-map/">Site Map</a></li>
-      <li>Internet-Based Ads</li>
+  		<li><a href="http://www.vw.com/web/vw/recall/index.html#">Recalls</a></li>
+      <li><a href="http://www.vw.com/privacy/#ad-choices.html">Internet-Based Ads</a></li>
       <li><a href="/privacy/">Privacy</a></li>
       <li><a href="/terms/">Terms</a></li>
       </ul>
