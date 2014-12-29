@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encyclopedia-titanica.org privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522055345id_/http%3A//www.encyclopedia-titanica.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encyclopedia-titanica.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229225833id_/http%3A//www.encyclopedia-titanica.org/privacy) for the most accurate reproduction.*
 
 # Encyclopedia Titanica : Privacy
 
