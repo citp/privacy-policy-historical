@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the wsowarrior.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055921id_/http%3A//wsowarrior.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsowarrior.net privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229062805id_/http%3A//wsowarrior.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WSO Warrior
-
-## Privacy Policy
-
-## Privacy Policy
 
 Welcome to http://wsowarrior.net (the “Site”).We understand that privacy online is important to users of our Site, especially when conducting business.This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by WSO Warrior (collectively, “Services”) (“Authorized Customers”).
 
@@ -54,7 +50,7 @@ All of our employees are familiar with our security policy and practices. The Pe
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information?
 
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at admin@wsowarrior.net
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at webmaster@wsowarrior.net
 
 Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?
 
@@ -67,5 +63,3 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 Links:
 
 http://wsowarrior.net contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
-
-No tags for this post. 
