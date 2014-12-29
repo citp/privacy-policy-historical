@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lumens.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626050433id_/http%3A//www.lumens.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumens.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229093753id_/http%3A//www.lumens.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Privacy & Security at Lumens.com
-
-## **Privacy and Security** Policies
 
 * * *
 
@@ -77,6 +75,7 @@ Information about our customers is an important part of our business. Lumens.com
   * Lumens.com investors receive reports on number of Customers, items purchased, page views, logins, etc. They do not receive any personally identifiable information.
   * Business transitions. In the event that Lumens.com goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, Customers' personal information generally is one of the transferred business assets. For more information, see our Notification of Changes section below.
   * Lumens.com will also disclose personal information it has collected if necessary to fulfill our service obligations or if we are required to do so by law or if in our good faith judgment, such action is reasonably necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site, to respond to any claims, or protect the rights of Lumens.com and its Customers and the public. Nondisclosure Agreements are in place with contractors and third parties having access to sensitive data. Access to sensitive data such as customer financial information and individually identifiable information is revoked in a timely manner for employees who change function or resign.
+  * Personally identifiable information that you provide to us and information about your order may be combined with other personally identifiable information from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with our third party service providers and other marketers whose products or services we feel may be of interest to you. If you prefer that we do not share your personal information with other marketers, please email us at [customerservice@lumens.com](mailto:customerservice@lumens.com).
   * Information with your consent. Other than as described above, you will receive notice when information about you may go to third parties, and you will have an opportunity to choose not to share the information.
 
 
