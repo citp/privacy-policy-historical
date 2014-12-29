@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the virginatlantic.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630175642id_/http%3A//www.virgin-atlantic.com/gb/en/disclaimer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginatlantic.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229205417id_/http%3A//www.virgin-atlantic.com/gb/en/disclaimer/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin Atlantic
 
-We hope that you enjoy using our website, safe in the knowledge that we are committed to protecting your privacy and security online.
+We hope that you enjoy using our website and mobile app, safe in the knowledge that we are committed to protecting your privacy and security online.
 
-If you would like to know how we currently use cookies, please view our dedicated cookies page. We are in the process of developing our cookie technology and will provide updates to this Policy accordingly.
+If you would like to know how we currently use cookies, please view our [dedicated cookies page](https://web.archive.org/gb/en/disclaimer/cookie-statement.html). 
 
 Worried about providing us with information online? Let us put your mind at rest. Find out more about:
 
@@ -180,10 +180,9 @@ In our website we also provide links to other websites for your convenience and 
 
 ## Changes to our privacy policy
 
-Our Privacy Policy is reviewed regularly to ensure that it reflects how we use your information. Any changes will be notified to you by updating this policy. 
+Our Privacy Policy is reviewed regularly to ensure that it reflects how we use your information. Any changes will be notified to you by updating this policy.
 
-This Privacy Policy was last updated on 15 May 2012  
-
+This Privacy Policy was last updated on 16 October 2014. 
 
 ## How to contact us
 
