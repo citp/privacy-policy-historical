@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfchangs.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626043857id_/http%3A//www.pfcb.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfchangs.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229235720id_/http%3A//www.pfcb.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # PFCB, Inc. - Privacy Policy
 
