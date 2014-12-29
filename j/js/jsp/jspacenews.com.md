@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jspacenews.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626042537id_/http%3A//www.jspacenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jspacenews.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229063025id_/http%3A//www.jspacenews.com/privacy) for the most accurate reproduction.*
 
 # Jspace News Privacy Policy - Jspace News
 
