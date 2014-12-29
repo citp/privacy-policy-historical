@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudflare.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626195509id_/http%3A//www.cloudflare.com/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudflare.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229151038id_/https%3A//www.cloudflare.com/security-policy) for the most accurate reproduction.*
 
 # Security policy | CloudFlare | The web performance & security company
 
