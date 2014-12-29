@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timbuk2.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627085411id_/http%3A//www.timbuk2.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timbuk2.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229180616id_/http%3A//www.timbuk2.com/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,6 +19,8 @@ We receive and store certain types of information whenever you interact with us.
 ### Email Communications
 
 To help us make emails more useful and interesting, we often receive a confirmation when you open email from Timbuk2.com if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.
+
+Out of respect for your privacy, if you no longer wish to receive email communications, you can easily opt-out using the Unsubscribe link included in each communication. Unsubscribe links are specific to the email communication types you are currently subscribed to and are indicated in the footer copy of the email communication. You can globally unsubscribe from all email communications by clicking Unsubscribe.
 
 ### Information From Other Sources
 
