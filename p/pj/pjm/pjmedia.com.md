@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pjmedia.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630172621id_/http%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pjmedia.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229063000id_/http%3A//pjmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# PJ Media » Privacy Policy
+# Privacy Policy | PJ Media
 
 In addition to the Privacy Policy and Rights applicable to all users of our Websites, California residents have some additional rights.
 
