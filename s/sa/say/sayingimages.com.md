@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sayingimages.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085238id_/http%3A//sayingimages.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sayingimages.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229130542id_/http%3A//sayingimages.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policy | SayingImages.com
 
