@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625081249id_/http%3A//www.carbonite.com/terms-of-use/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonite.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230000844id_/http%3A//www.carbonite.com/terms-of-use/privacy) for the most accurate reproduction.*
 
 # Carbonite's Privacy Policy | Carbonite
 
@@ -24,9 +24,9 @@ Carbonite will not view the contents of Your Account. Carbonite may view Your fi
 
 Carbonite is very concerned about protecting the privacy of children. Carbonite does not intend to collect any personally identifiable information from children under 13 years old or knowingly distribute such information. Children under 13 are not permitted to use Carbonite's website, and we request that children under 13 not submit any personally identifiable information to Carbonite. If a child under 13 has provided Carbonite with personally identifiable information, the parent or guardian of that child should contact Carbonite immediately at [privacy@carbonite.com](mailto:privacy@carbonite.com) to delete this information from our files. 
 
-### EUROPEAN PERSONALLY IDENTIFIABLE INFORMATION
+### EUROPEAN AND SWISS PERSONALLY IDENTIFIABLE INFORMATION
 
-Carbonite has committed to handling personally identifiable information from users in the European Union and the European Economic Area in accordance with the European Union's Safe Harbor Principles and to refer unresolved privacy complaints to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by Carbonite, please visit the BBB EU Safe Harbor website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+Carbonite has committed to handling personally identifiable information in accordance with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Carbonite has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Unresolved privacy complaints will be referred to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If You do not receive timely acknowledgement of Your complaint, or if Your complaint is not satisfactorily addressed by Carbonite, please visit the BBB EU Safe Harbor website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information. 
 
 Carbonite's self-certification on the U.S. Department of Commerce's Safe Harbor List can be found at <http://export.gov/safeharbor>. 
 
