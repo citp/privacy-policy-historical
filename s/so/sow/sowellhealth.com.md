@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sowellhealth.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622164505id_/http%3A//www.sowellhealth.com/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sowellhealth.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229065819id_/http%3A//www.sowellhealth.com/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy | Sell Health
 
