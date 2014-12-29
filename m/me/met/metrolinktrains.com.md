@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrolinktrains.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111615id_/http%3A//www.metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrolinktrains.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229150323id_/http%3A//www.metrolinktrains.com/help/page/title/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metrolink
 
@@ -21,7 +21,7 @@ In addition to collecting personal information that you provide voluntarily, we 
 
 Metrolink may compile statistical information regarding its ridership from personal information that it receives from this website or other sources. Metrolink may use this statistical information for purposes of improving its products and services, and it may provide this statistical information to our Member Agencies or other organizations. This statistical information cannot be used to identify you personally.
 
-Some applications on this website may use cookies. Cookies are small data files that write to your hard drive if your browser is set to allow them. The only personal information that a cookie can contain is information you supply yourself. Metrolink may utilize cookies for the purpose of facilitating your use of our site and for tracking user traffic patterns in order to help us make improvements to the site. You can set your browser to refuse cookies. However, cookies may be required to use some of the web applications on Metrolink’s site.
+Some applications on this website may use cookies. Cookies are small data files that write to your hard drive if your browser is set to allow them. The only personal information that a cookie can contain is information you supply yourself. Metrolink may utilize cookies or retargeting pixels for the purpose of facilitating your use of our site and for tracking user traffic patterns in order to help us make improvements to the site. You can set your browser to refuse cookies or retargeting pixels. However, cookies may be required to use some of the web applications on Metrolink’s site.
 
 We may provide links from this website to external sites maintained by other public agencies or by private organizations. You should be aware that these third-party websites are not controlled by Metrolink, and therefore are not subject to this Privacy Policy. You should review the privacy policies of these external sites to determine the risks associated with using these sites and making your personal information available to operators of these sites.
 
