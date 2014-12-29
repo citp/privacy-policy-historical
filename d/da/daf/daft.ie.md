@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620164948id_/http%3A//www.daft.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229164655id_/http%3A//www.daft.ie/privacy) for the most accurate reproduction.*
 
 # Daft.ie : Information
 
@@ -100,6 +100,7 @@ cookie_uid | User ID | Set only if "Remember me" is checked. Auto-login on subse
 cookie_notice | 1 |  Whether the user has seen the sitewide notice regarding the use of cookies on Daft.ie.  | 1 year from being set  
 daft_last_search | Json representation of last search filters used |  Used to generate the recently searched properties for the homepage  | 1 month from being set  
 dgo | 1 |  Used to signify that a mobile user does not wish the site to open in the app  | 1 month from being set  
+daft_uuid | Randomly generated alphanumeric string | Used to identify user session | Jan 1st, 6 years after visit  
   
 In addition to the above cookies set by Daft, cookies may also be set by a number of our site partners. 
 
