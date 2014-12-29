@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the templatetoaster.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627212252id_/http%3A//templatetoaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatetoaster.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229105027id_/http%3A//templatetoaster.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TemplateToaster
+# Privacy Policy -TemplateToaster
 
 TemplateToaster is committed to ensure you that the information we gather from you is completely anonymous and protected, we never share that information with any third party.
 
