@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalmarketinginstitute.ie privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625192047id_/http%3A//digitalmarketinginstitute.com/ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmarketinginstitute.ie privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229095112id_/http%3A//digitalmarketinginstitute.com/ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Marketing Institute IE
 
