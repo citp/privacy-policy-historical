@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lafilm.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625064003id_/http%3A//lafilm.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lafilm.edu privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229194116id_/http%3A//lafilm.edu/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | LA Film School
 
