@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbclothing.co.uk privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619234654id_/http%3A//www.bbclothing.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbclothing.co.uk privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229064721id_/http%3A//www.bbclothing.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Brown Bag Clothing Privacy Policy
 
