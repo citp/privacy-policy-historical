@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhomedepotaccount.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628215520id_/http%3A//www.homedepot.com/c/Privacy_Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhomedepotaccount.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229032501id_/http%3A//www.homedepot.com/c/Privacy_Security) for the most accurate reproduction.*
 
 # Customer Support: Privacy Security at The Home Depot
 
