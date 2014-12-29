@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606154705id_/http%3A//talgov.com/Main/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229222911id_/http%3A//www.talgov.com/Main/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Talgov.com
 
@@ -26,6 +26,9 @@ The following is a current list of information we may collect during your visit,
 **If you subscribe to any service on Talgov.com that involves continuous delivery of information to you, your contact information will be kept on a separate distribution list for each service until you submit a request to unsubscribe. This distribution list will be kept confidential, and will not be sold, rented, or voluntarily supplied to any agency, unless required by law.
 
 If, at any time, you would like to unsubscribe from a distribution list, information on how to unsubscribe can be found at the end of the document sent to you.
+
+**Photo Contest Submissions**  
+By submitting a photo, an entrant (1) acknowledges that the photo becomes the property of the City; (2) authorizes the City to utilitze the photo in its discretion without attribution or compensation; and (3) agrees to hold harmless, release and forever discharge the City from any and all claims, demands or damages arising out of or relating to entrant's photo submission. The City reserves the right not to accept, consider or post photos that do not meet requirements stated online. 
 
 **Cookies  
 **Talgov.com does not set or use cookies.
