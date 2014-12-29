@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the redeye.com privacy policy that was archived on 2014-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140616114754id_/http%3A//www.redeye.com/company/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redeye.com privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229071339id_/http%3A//www.redeye.com/company/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		<base href="http://www.redeye.com/"><!--[if lte IE 6]></base><![endif]-->
@@ -29,7 +29,105 @@
 	<script src="/themes/redeye/js/respond.min.js"></script>
 <![endif]-->
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/themes/redeye/js/jquery-1.10.2.min.js"></script>
+<script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580371200000/429900.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/themes/redeye/js/jquery-1.10.2.min.js"></script>
+
+
+
+	<script type="text/javascript">
+    var redWebCookie = function(){
+        
+        return {
+            init: function() {
+                this.cookieName == this.cookieName || 'webflags';
+                if(document.cookie.indexOf(this.cookieName) === -1) {
+                    this.loadCookieData();
+                }/* else {
+    
+                    console.log('cookie val is ' + this.getCookie(this.cookieName));
+                }*/
+            },
+            loadCookieData: function() {
+                this.cookieURL = this.cookieURL || document.domain + '/cgi/wc/';
+                var xhr = this.createCORSRequest('GET', this.cookieURL);
+                if (!xhr) {
+                    throw new Error('CORS not supported');
+                }
+                xhr.send();
+            },
+            getCookie: function(name){
+                var arg = name + "=";
+                var alen = arg.length;
+                var clen = document.cookie.length;
+                var i = 0;
+                var j = 0;
+                while(i < clen){
+                    j = i + alen;
+                    if (document.cookie.substring(i, j) == arg)
+                        return this.getCookieVal(j);
+                    i = document.cookie.indexOf(" ", i) + 1;
+                    if(i == 0)
+                        break;
+                }
+                return null;
+            },
+            getCookieVal: function(offset){
+               var endstr = document.cookie.indexOf(";", offset);
+               if(endstr == -1){
+                   endstr = document.cookie.length;
+               }
+               return unescape(document.cookie.substring(offset, endstr));
+            },
+            setCookieVal: function(name, value) {
+                 var argv = arguments;
+                 var argc = arguments.length;
+                 var expires = (argc > 2) ? argv[2] : null;
+                 var path = (argc > 3) ? argv[3] : '/';
+                 var domain = (argc > 4) ? argv[4] : document.domain.replace('www.', ''); //null;
+                 var secure = (argc > 5) ? argv[5] : false;
+                 document.cookie = name + "=" + escape (value) +
+                   ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+                   ((path == null) ? "" : ("; path=" + path)) +
+                   ((domain == null) ? "" : ("; domain=" + domain)) +
+                   ((secure == true) ? "; secure" : "");
+                   //console.log('new cookie val is ' + this.getCookie(this.cookieName));
+            },
+            onError: function() {
+                //console.log('load error');
+                redWebCookie.setCookieVal(redWebCookie.cookieName, '-');
+            },
+            onSuccess: function(xhr){
+                //console.log('success ', this.responseText);
+                redWebCookie.setCookieVal(redWebCookie.cookieName, this.responseText);
+            },
+            createCORSRequest: function(method, url) {
+                var xhr = new XMLHttpRequest();
+                if ("withCredentials" in xhr) {
+                 xhr.open(method, url, true);
+                } else if (typeof XDomainRequest != "undefined") {
+                  xhr = new XDomainRequest();
+                  xhr.open(method, url);
+                } else {
+                  xhr = null;
+                }
+                if(xhr){
+                  xhr.withCredentials = true;
+                  xhr.onload = this.onSuccess;
+                  xhr.onerror = this.onError;
+                }
+                return xhr;
+            }
+        }
+    }();
+    
+    redWebCookie.cookieName = 'redWebFlagTest'; // the cookie name you want to use. webflags is default but client may be using this so can be configured here if you need to
+    redWebCookie.cookieURL = 'http://visitor.redeye.com/cgi/wc/';  // should be same as tracking domain. configure per client.
+    redWebCookie.init();
+    </script>
+
+	<script type="text/javascript" src="http://san-spr-01.net/js/29762.js"></script>
+    <noscript><img src="http://san-spr-01.net/images/track/29762.png?trk_user=29762&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled" height="0px" width="0px" style="display:none;" /></noscript>
+
+
 
 <!-- Optimizely -->
 <script src="//cdn.optimizely.com/js/16076544.js"></script>
@@ -41,9 +139,26 @@
 <script type="text/javascript" src="http://www.redeye.com/zlang/javascript/lang/en_GB.js?m=1398171710"></script>
 <script type="text/javascript">
 //<![CDATA[
+function getCookie(cname)
+{
+	var name = cname + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0; i<ca.length; i++) 
+	{
+		var c = ca[i].trim();
+		if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+	}
+	return "";
+}
+
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-1183619-1']);
 _gaq.push(['_trackPageview']);
+
+if(getCookie('redWebFlagTest')!="")
+{
+	_gaq.push(['_setCustomVar', 1, 'RE Web Profiles', getCookie('redWebFlagTest'), 2]);
+}
 
 (function() {
 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -381,7 +496,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 		</div>
 	</div>
 </footer>
-		<script type="text/javascript">
+
+	</div>
+	<script type="text/javascript">
 	ss.i18n.setLocale("en_GB");
 	//
 </script>
@@ -410,9 +527,18 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	<!-- standard -->
 	<img src="http://visitor.redeye.com/cgi-bin/rr/noid:1/images/blank.gif?nourl=Privacy%20Policy&amp;pagename=Privacy%20Policy&amp;pageurl=www.redeye.com%2Fcompany%2Fabout-us%2Fprivacy-policy%2F" height="0" width="0">
 
-	</div>
 
-	<!-- session: 3qe5firb37rhcirs1jtggd44r6 | subsite: 1 | subsite (session): 1 | uri: /company/about-us/privacy-policy | host: www.redeye.com | strict:  -->
+<!-- Start of Async HubSpot Analytics Code -->
+<script type="text/javascript">
+   (function(d,s,i,r) {
+     if (d.getElementById(i)){return;}
+     var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+     n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'\/429900.js';
+     e.parentNode.insertBefore(n, e);
+   })(document,"script","hs-analytics",300000);
+</script>
+<!-- End of Async HubSpot Analytics Code -->
+	<!-- session: rolp6gr4rpqjsgqjobihi34ka0 | subsite: 1 | subsite (session): 1 | uri: /company/about-us/privacy-policy | host: www.redeye.com -->
 	
 
 </body></html>
