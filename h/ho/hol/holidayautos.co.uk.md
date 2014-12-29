@@ -1,71 +1,109 @@
-> *The following text is extracted and transformed from the holidayautos.co.uk privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423192720id_/http%3A//www.holidayautos.co.uk/GBR/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayautos.co.uk privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229214355id_/http%3A//www.holidayautos.co.uk/privacy-policy%3Fc%3Dgb) for the most accurate reproduction.*
 
-# Car Hire - Book cheap car rental in the UK, Europe and Worldwide from Holiday Autos
+# Holiday Autos - Compare Cheap Car Hire
 
-### Data Protection and Privacy Policy for the Holiday Autos site
+This legal notice is issued by Holiday Autos, the full owner of this website (“we”, “us” or “ours). We are committed to protecting and respecting your privacy and appreciate the importance of responsible use of personal data collected on this website. We take great care with personal information, taking steps to keep it secure and ensure it is used only for our legitimate business purposes in accordance with applicable law. 
 
-Please find below our privacy policy for the Holiday Autos site which shall be deemed to be incorporated into these terms and conditions. We are Holiday Autos and our registered address is **holiday autos uk and ireland limited,** 77 Hatton Garden London, EC1N 8JS. Holiday Autos takes the privacy of its customers data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through your use of one of our distribution channels. Those distribution channels will include our website, our WAP, PDA and digital TV services our Interactive Voice Recognition software and other channels as they evolve. If this policy changes then we will let you know via our homepage but we assure you that we only use your data as specified here and for our legitimate business reasons. 
+This policy (together with our booking engine terms and conditions of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-### When do we collect data?
+### INFORMATION WE MAY COLLECT FROM YOU 
 
-We can collect data on you from a variety of different sources these include. 
+We may collect and process the following data about you: 
 
-1\. When you purchase products or services from the site or via any of our other distribution channels.   
-2\. When you become a subscriber;   
-3\. When you speak to our customer services personnel;   
-4\. Via explicit data capture measures, for example by entering competitions and completing surveys;   
-5\. Via implicit data capture measures such as studying which pages you read the most and the use of cookies.   
-In any of the above cases the data we collect could be personal data.   
+Information that you provide by filling in forms on our site (“our site”). This includes information provided at the time of registering to use our site, completing a vehicle rental booking form or query form, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with our site. 
+
+If you contact us, we may keep a record of that correspondence. 
+
+We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
+
+Details of transactions you carry out through our site and of the fulfilment of your orders. 
+
+Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. We may also collect, and our third party providers of advertisements and content may collect, information about where you are on the internet (e.g. the URL you came from, IP address, domain types like .ie and .com), your browser type, the country and telephone area code where your computer is located, the pages of our website that were viewed during your visit, the advertisements you clicked on, and any search terms that you entered on our website. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. 
+
+Bookings: When you make a booking of vehicle rental on our site, we need to use personal information about you and other passengers included in your booking. We request the following information depending on what specific service you require: name, e-mail address, home address, phone number, gender, date of birth, city and country of birth, driving licence number, class of driving licence, passport number and type and country of issue on passport, flight number. Sensitive information such as health, medical, dietary, mobility and religious requirements may also be required. This personal information may be passed on to other suppliers of your travel arrangements in addition to public authorities (customs and immigration), security, and credit checking organisations and otherwise as permitted or required by law.
+
+Secure Transactions: All requests and credit card confirmations sent to us pass directly through our secure server to protect your information. Any payment transactions will be encrypted using SSL technology. To check that your browser is using the secure server, ensure that a small padlock icon on the lower part of your browser window is visible. When it is in the “locked” position, it means that your transaction is secure. These security features are only activated for pages where you can view and submit your request or confirm your quote by providing your credit card number. 
+
+### COOKIES
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy
+
+### WHERE WE STORE YOUR PERSONAL DATA 
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”) which may not have laws that are as protective of personal data as the laws that apply throughout the EU. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your vehicle rental booking, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing of your personal data. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
+
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you to do their jobs. We have physical, electronic and procedural safeguards in place that protect personal information about you. 
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+
+### USES MADE OF THE INFORMATION 
+
+We use information held about you in the following ways: 
+
+To facilitate vehicle rental bookings by disclosing your personal data to a vehicle rental provider when you book a vehicle rental with a provider using this website. 
+
+To ensure that content from our site is presented in the most effective manner for you and for your computer. 
+
+To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+
+To carry out our obligations arising from any contracts entered into between you and us. 
+
+To allow you to participate in interactive features of our service, when you choose to do so. 
+
+To notify you about changes to our service. 
+
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information and marketing surveys about goods and services similar to those which were the subject of a previous sale to you.
+
+If you do not want us to use your data in this way, you should express this in your marketing preferences at the time that we collect this data from you, or if you wish to be subsequently removed from our list you may, at any time, notify us by clicking on the “unsubscribe” link at the bottom of each email communication you receive from us. 
+
+### DISCLOSURE OF YOUR INFORMATION 
+
+We will only disclose data in a way compatible with the purposes for which it was obtained. We may disclose your personal information to our agents, service providers, professional advisers and any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. 
+
+We may also disclose your personal information to third parties: 
+
+In the event that we are involved in the sale or acquisition of any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets and their agents and professional advisers.
+
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our booking engine terms and conditions of use and other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+
+Save as provided herein we do not rent, sell or share personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested. 
+
+### YOUR RIGHTS 
+
+You have the right to ask us not to process your personal data for marketing purposes. We will inform you if we would like to use your data for such purposes or if we would like to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by indicating through your marketing preferences on the booking form that you do not wish to receive marketing emails or by subsequently unsubscribing to any such marketing emails by clicking on the unsubscribe link at the bottom of all email communications. You can also exercise the right at any time by contacting us at:
+
+Holiday Autos   
+Classon House   
+Dundrum Business Park   
+Dundrum   
+Dublin 14   
 
 
-### What do we do with your personal information?
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for those policies. Please check these policies before you submit any personal data to these websites.
 
-When you buy anything via the site or give us any personal data as indicated above , we may need to collect information about you to process the transaction, fulfil your order and provide you with the services you expect then and in the future.  
-This information may include, but is not limited to, details such as your name, your address, your phone number and your credit card details. 
+### ACCESS TO INFORMATION 
 
-Unless we have your express consent we will only disclose personal data to third parties if this is required for the purpose of completing your transaction with us.   
-This is of course subject to the proviso that we may disclose your data to certain permitted third parties, such as members of our own group, our own professional advisers who are bound by confidentiality codes, and when we are legally obliged to disclose your data. 
+You have a right, subject to certain exemptions, to receive a copy of any data, which personally identifies you, held by us. We may charge you an administration fee to cover the cost of carrying out your request. You should write to Holiday Autos, Classon House, Dundrum Business Park, Dundrum, Dublin 14, Ireland marked “Data Access Request”. You should include adequate information to identify yourself and, such other relevant information that you may have that will reasonably assist us in fulfilling your request. 
 
-By becoming a subscriber or making a car hire booking with us, you consent to receive from us by e-mail our e-newsletter and details of other special offers which we may think may be of interest to you.   
-Holiday Autos retains and uses your personal information to provide you with the best remote commerce (including electronic and mobile commerce) experience by providing you with a personalised service and to give you details of offers which we think will be of interest to you. 
+You also have a right to have inaccuracies in the personal data we hold about you corrected. If you discover that we hold inaccurate personal information about you, you may instruct us to correct that information. Your instruction should be in writing to the address set out above. 
 
-We do not sell, rent or trade your personal information to third parties for marketing purposes without your express consent. 
+### CHANGES TO OUR PRIVACY POLICY 
 
-For any of the above purposes we may send your information internationally including to countries outside the EEA. Some of these jurisdictions offer differing levels of protection of personal information, not all of which may be as high as the UK. 
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Your continued use of our site after any change in this privacy policy will constitute your acceptance of such change. 
 
-### Cookies
+### PROHIBITED USES 
 
-Each web site owned and operated by Holiday Autos group uses cookies. A cookie is a small text file of which there are three types:  
-Session cookies: These are used to maintain something called session state. If you consider your journey through the site to be a conversation with us and this cookie just reminds the site where we were in that conversation. These are required for the site to function but are not used in any way to identify you personally. 
+It is prohibited to use any device, software or routine, directly or indirectly to interfere or attempt to interfere with the proper working of this website or any activity in operation on this website, or to place any undue load or stress upon our systems. We monitor access to the site for data scrapers and automated access of information and we will block processed engaging in these activities. 
 
-**Permanent cookies:** These store a few numbers on your hard drive. You can view them by looking in the cookies directory of your browser installation if you are interested. They last for a long time and each time you come to our site you send us a copy of them. We use them to identify you between visits. For instance if you were looking at cars in Glasgow last time you were on the site and we have a deal we may use this cookie to recognise you and show you our great deal. They are not required for the site to work but may enhance your experience. We do not store any personal data in these cookies, just a unique number that identifies you to us. 
+### CONTACT 
 
-**Third Party Cookies:** You may have noticed that we carry advertising from third parties on our site. Occasionally they may send you a cookie. We have no control over these. Although you cannot block "session" cookies as they are required for our site to function correctly you can configure your internet browser so that it can reject both "permanent" and "third party" cookies. How you do this will depend upon the internet browser you use (for example, Internet Explorer 5, Netscape 4 or Opera etc) and it is therefore impractical for us to detail here how you can reject those cookies. Please refer to the relevant internet browser manufacturer's website where you should be able to receive all the information you need." 
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to 
 
-### Third Party Advertising
+Holiday Autos   
+Classon House   
+Dundrum Business Park   
+Dundrum   
+Dublin 14   
 
-The ads appearing on this Web site are delivered to you, on our behalf, by our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or any other personal information), is used to serve ads.
-
-### Data
-
-In the UK we operate and are registered in accordance with applicable data protection legislation.
-
-### Consent
-
-By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by Holiday Autos in the manner set out in this Privacy Policy. Some information and e-mails sent to Holiday Autos may be used as testimonials but no e-mail address or contact details will be displayed.
-
-### Opt-Out Policy
-
-Holiday Autos Newsletter subscribers have the option to opt-out of receiving further information from us. [Click here to unsubscribe](http://www.holidayautos.co.uk/cgi-bin/liveweb.sh/pagewrapper.w?ctryref=GBR&lang=EN&page=unsubscribepage). 
-
-### Change/Modify Details
-
-To change your e-mail address details, send an e-mail with your correct details to: [holidayautos@mailnj.custhelp.com](mailto:holidayautos@mailnj.custhelp.com)
-
-If you need to Modify or Change your personal details after you have made a purchase on the site please contact us as soon as possible.
-
-### Contact
-
-If you have any questions or concerns about the information we hold about you, you can call us on 0871 472 5229 (calls cost 10p per minute plus network extras) - our opening hours are 7am to 10pm, 7 days a week. You can also email us via our [**contact us**](http://uk.custhelp.com/app/home/p/72%2C73/search/1) page.
-
-**February 2007**
