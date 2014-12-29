@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628114442id_/http%3A//www.futuremark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuremark.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229114800id_/http%3A//www.futuremark.com/privacy-policy) for the most accurate reproduction.*
 
 # Futuremark Privacy Policy
 
-We are committed to protecting your privacy and personal data when you visit our websites and use our products and services. Our Privacy Policy explains what information we collect, how we use that information and how you can access and update the information we hold about you. This policy was updated on November 20, 2013.
+We are committed to protecting your privacy and personal data when you visit our websites and use our products and services. Our Privacy Policy explains what information we collect, how we use that information and how you can access and update the information we hold about you. This policy was updated on August 28, 2014.
 
 ## Contact
 
@@ -14,9 +14,17 @@ Niittytaival 13
 02200 ESPOO  
 FINLAND
 
-## Application
+## Scope
 
-Our Privacy Policy applies to all of the services offered by Futuremark. It does not apply to other sites linked from our services, nor does it cover the information practices of other companies who provide content, services, or advertising on our sites.
+Our Privacy Policy applies to all of the currently supported software products and services offered by Futuremark. It does not apply to other sites linked from our services, nor does it cover the information practices of other companies who provide content, services, or advertising on our sites.
+
+## Applications
+
+To help us improve our products, our software may collect and report log files, crash reports, and other anonymous statistical information.
+
+  * We use [Google Analytics](https://tools.google.com/dlpage/gaoptout) and [Flurry Analytics](https://dev.flurry.com/secure/optOut.do) to collect anonymous statistical information on application usage.
+
+
 
 ## Log files
 
@@ -44,7 +52,7 @@ Our websites use cookies. A cookie is a simple text file that is stored on your 
 
 
 
-**Analytical cookies** are set by our website and can only be read by our web servers. We use these cookies to:
+**Analytical cookies** and services are set by our website and can only be read by our web servers. We use these cookies to:
 
   * Report anonymous statistical information on website usage.
 
