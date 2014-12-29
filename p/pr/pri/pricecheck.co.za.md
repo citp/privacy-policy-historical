@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pricecheck.co.za privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621223032id_/http%3A//www.pricecheck.co.za/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricecheck.co.za privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229163501id_/http%3A//www.pricecheck.co.za/policy) for the most accurate reproduction.*
 
-# PriceCheck Shopping - Online Shop & Price Comparison in South Africa - PriceCheck Shopping South Africa
+# PriceCheck Shopping - Online Shop & Price Comparison in South Africa
 
 PriceCheck (Pty) Ltd, registration number: 2007/013797/07 (hereinafter referred to as " **PriceCheck** ", " **we** ", " **us** " or " **our** ") is committed to ensuring the protection of the privacy of all of all visitors (" **Visitors** ") to our website at www.pricecheck.co.za (the " **Website** ") we well as all persons (" **Customers** ") who have subscribed to any of the services we offer (" **Services** "), whether they be registered 'Users' or registered 'Merchants'.
 
@@ -8,11 +8,11 @@ This privacy policy (" **this Policy** ") describes the ways in which we collect
 
 **You need to read and accept all the provisions in this Policy in order to use the Website and/or Services. By accepting this Policy, you are deemed to have read and agreed with all the provisions thereof. If you do not agree with anything in this Policy, then you may not register and/or use any of the Services**.
 
-  1. **CHANGES TO THIS POLICY**
+  1. **Changes To This Policy**
 
 We may amend this Policy at any time by posting a revised version on our Website. The revised version will apply to Visitors with effect from the time we post it. **However** we will provide Customers with at least 30 days' prior notice of any such revision by posting notice of the change on the Website and the revision will then apply to Customers with effect from the date indicated in such notice, provided that if a Customer is not happy with the revisions made, he/she/it shall be entitled to terminate the Services subscribed for.
 
-  2. **GENERAL INFORMATION ABOUT EVERYONE**
+  2. **General Information About Everyone**
     1. **Types of Information we collect**
 
 As a Visitor, registered User, or Merchant, you agree that we may electronically collect, store and use the following of your information:
@@ -31,7 +31,7 @@ As a Visitor, registered User, or Merchant, you agree that we may electronically
 
 **NOTE:** Some of our business partners (e.g. advertisers) use their own cookies and/or widgets on our Website and we have no access to or control over such cookies or widgets. (Widgets are interactive mini-programs that run on our Website to provide specific services from another company (e.g. displaying the news, opinions, music, etc) and these widgets may collect certain of your personal information (eg your email address). Cookies may also be set by the widget to enable it to function properly.) Information collected by any such cookie or widget is governed by the privacy policy of the company that created it, and not by Pricecheck. **This Policy covers the use of cookies by Pricecheck only and does not cover the use of cookies or widgets by any third party advertisers on the Website**.
 
-  3. **INFORMATION ABOUT REGISTERED USERS**
+  3. **Information About Registered Users**
     1. **Types of information we collect about registered Users**
 
 If you are a registered User, you agree that we may also electronically collect, store and use the following of your information:
@@ -50,7 +50,7 @@ We use the information that registered Users provide (or that we collect) to ope
       1. We use your **Personal Details** to greet you when you access your User Account, to manage and administer your use of the Services and fulfill our contractual obligations; 
       2. We use your **Contact Details** to verify your identity and to inform you of facts relating to your use of the Services (eg. notifications regarding major updates or content you have posted or downloaded from the Website, customer service notifications, and to address copyright infringement or defamation issues) as well as to inform you, subject to obtaining your prior consent, of competitions, promotions and special offers form us and/or our partners and/or affiliates. 
       3. We may use any **Additional Details** provided by you to enhance and personalize your browsing experience on the Website and for such other purposes as may be indicated to you at the time you agree to provide such Additional Details. 
-  4. **INFORMATION ABOUT MERCHANTS**
+  4. **Information About Merchants**
     1. **Types of information we collect about Merchants**
 
 If you are a Merchant, you also agree that we may electronically collect, store and use the following of your information:
@@ -68,11 +68,11 @@ We use the information that Merchants provide to operate, maintain, enhance, and
 
       1. we use your **Corporate Details** (or **Personal Details** , as the case may be) to greet you when you access your Merchant Account, to manage and administer your use of the Services, and fulfill our contractual obligations; and
       2. we use your **Contact Details** to verify your identity and to inform you of facts relating to your use of the Services (eg. notifications regarding scheduled system maintenance or downtime, major updates, customer service notifications, and to address copyright infringement or defamation issues) as well as to inform you, subject to obtaining your prior consent, of competitions, promotions and special offers form us and/or our partners and/or affiliates.
-  5. **HOW WE PROTECT & STORE PERSONAL INFORMATION**
+  5. **How We Protect & Store Personal Information**
     1. We store and process the personal information of our registered Users, Merchants and Visitors on our computers in South Africa. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. 
     2. You should not divulge your account password to anyone. **We will never ask you for your password in an unsolicited telephone call or e-mail**. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES. 
     3. If you are a legal entity and not an individual, we will liaise only with your named contact or alternative contact provided by your named contact. It is your responsibility to let us know of any changes to your named contact. 
-  6. **HOW WE SHARE PERSONAL INFORMATION WITH OTHERS**
+  6. **How We Share Personal Information With Others**
     1. **We may share your personal information with:**
       1. Our holding company, MIH Internet Africa (Pty) Ltd, and other divisions or companies within the group of companies to which we belong, being the Naspers Ltd group of companies which includes companies registered in countries other than South Africa so as to provide joint content and services like registration, transactions and customer support, to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications. Members of our corporate family will only use this information to send you marketing communications if you have requested their services. 
       2. Our Merchants, but only in the event and to the extent that you, the User, have expressly authorised such disclosure beforehand. The reason for this is that Merchants sometimes request a User's details in order to follow up with such User as to his/her grievances regarding such Merchant's product/s. Should PriceCheck receive any such request from a Merchant in relation to a User, we will notify the User thereof via email and request his/her permission to such disclosure. Please note that Merchants have their own privacy policies, and PriceCheck will not be held responsible for their operations, including, but not limited to, their information practices, once a User’s personal information has been given to them, either by us with the User’s prior authorisation in accordance with this clause, or by the User directly when transacting with such Merchants. We similarly will not be liable in any way for the manner in which a User may use or disclose any Merchant-related information provided to him/her directly by such Merchant. 
@@ -81,22 +81,22 @@ We use the information that Merchants provide to operate, maintain, enhance, and
       5. Law enforcement, government officials, fraud detection agencies or other third parties when (a) we are compelled to do so by a subpoena, court order or similar legal procedure; or (b) we need to do so to comply with any law; or (c) we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our User Agreement and/or Merchant Agreement. 
       6. Other third parties, with your consent or direction to do so.
     2. PriceCheck will not sell or rent any of your personal information to third parties for their marketing purposes and only shares your personal information with third parties as described in this Policy.
-  7. **HOW YOU CAN ACCESS OR CHANGE YOUR PERSONAL INFORMATION**
+  7. **How You Can Access Or Change Your Personal Information**
 
 You can review and edit any of your personal information at any time by signing in to your User Account or Merchant Account (as the case may be) and clicking the My Account menu in any of the PriceCheck pages.
 
-  8. **NON-PERSONAL INFORMATION**
+  8. **Non-personal Information**
 
 Notwithstanding anything contained in this Policy regarding your information, the following information is not regarded as personal information for purposes of this Policy:
 
     1. Permanently de-identified information that does not relate and/or cannot be traced back to you specifically. We may compile, use, share and otherwise process such information as we deem fit. 
     2. Non-personal statistical information collected and compiled by us. We own and retain all rights in such information 
     3. Information which you have provided voluntarily in an open, public environment or forum including (without limitation) any blog, chat room, albums, community, classifieds or discussion board. Because the information has been disclosed in a public forum, it is no longer confidential and does not constitute personal information subject to protection under this Policy. Since such public environments are accessible by third parties, it is possible that third parties may collect and collate and use such information for their own purposes and you should accordingly be careful when deciding to share any of your personal information in such public environments 
-  9. **YOU CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION**
+  9. **You Consent To The Processing Of Your Personal Information**
 
 By accepting this Policy, you consent to our collection, storage, processing and disclosure of your personal information as described in this Policy. Should you terminate your registration with us and close your User Account, you consent to our retention of the information we have already collected from you for record-keeping purposes only. 
 
-  10. **HOW YOU CAN CONTACT US ABOUT PRIVACY QUESTIONS**
+  10. **How You Can Contact Us About Privacy Questions**
 
 If you have questions or concerns regarding this Policy, you should contact us by using the [_Contact Us_](http://www.pricecheck.co.za/contact_us) link on any of the PriceCheck pages
 
