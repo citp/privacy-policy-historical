@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220104128id_/http%3A//www.territoryahead.com/privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the territoryahead.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229082442id_/http%3A//www.territoryahead.com/privacyandsecurity) for the most accurate reproduction.*
 
 # Territory Ahead
 
@@ -37,6 +37,7 @@ _In general_. We may use information that we collect about you to:
   * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties;
   * develop and display content and advertising tailored to your interests on our site and other sites;
   * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+  * to process any participation in promotions
   * enforce our terms and conditions;
   * manage our business and
   * perform functions as otherwise described to you at the time of collection.
@@ -68,7 +69,7 @@ _Aggregated and non-personal information_. We may share aggregated and non-perso
 There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a link on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the web page you are visiting.
 
 **How you can access your information**  
-If you have an online account with us, you have the ability to review your personal information online by [logging into your account](http://www.territoryahead.com/myaccount). You can also review and update your personal information by contacting us by phone or mail. More information about how to contact us is provided below.
+If you have an online account with us, you have the ability to review your personal information online by [logging into your account](http://www.territoryahead.com/track-order.asp). You can also review and update your personal information by contacting us by phone or mail. More information about how to contact us is provided below.
 
 If you have an online account with us, you also may choose to close your account at any time by contacting Territory Ahead customer service. However, you can open a new account at any time. If you close your account, we may still retain certain information associated with your account for analytical purposes and record keeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
 
