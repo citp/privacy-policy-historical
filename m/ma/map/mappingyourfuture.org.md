@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mappingyourfuture.org privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616151402id_/http%3A//mappingyourfuture.org/About/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mappingyourfuture.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229021339id_/http%3A//mappingyourfuture.org/About/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy policy
+
+[ En Español](https://web.archive.org/Espanol/)
 
 Mapping Your Future respects your privacy. Following is Mapping Your Future's privacy policy to advise you of our information gathering and information sharing practices.
 
@@ -68,4 +70,4 @@ Mapping Your Future follows applicable laws relating to the collection and use o
 
 Mapping Your Future engages in ongoing reviews of its privacy policies, procedures, and communications. We reserve the right to change our policies on privacy and the collection and use of information. 
 
-This policy was updated on December 1, 2011, with updates to 1 ("When you're participating in MappingXpress"), and 2 above. 
+This policy was updated on December 1, 2011, with updates to 1 ("When you're participating in MappingXpress"), and 2 above.
