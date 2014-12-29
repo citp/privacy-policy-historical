@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625045954id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229093110id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -25,7 +25,7 @@ Hy-Vee, Inc. (“Hy-Vee”, “we”, “our” or “us”) is committed to res
 
 These provisions may be changed from time to time and without notice at Hy-Vee's sole discretion and as provided by applicable law. You should check this privacy policy frequently for any such changes, but, in any case, your continued access or use of our Services shall constitute acceptance of any modifications of the privacy statement. If you have any questions about our privacy policies, we encourage you to contact us using any of the methods outlined at the end of our privacy policy.
 
-For purposes of this privacy policy, our “Services” means any one or more, or all, of the following interactions that you may have with us: our stores, websites, promotions, loyalty and/or rewards programs, mobile applications, contests, sweepstakes, promotions, surveys, forums, customer service requests. This list is not intended to be exhaustive.
+For purposes of this privacy policy, our “Services” means any one or more, or all, of the following interactions that you may have with us: our stores, websites, promotions, loyalty and/or rewards programs, mobile applications, contests, sweepstakes, promotions, surveys, forums, customer service requests and communication. This list is not intended to be exhaustive.
 
 ## Who is Collecting the Information?
 
@@ -35,6 +35,8 @@ Hy-Vee collects information as outlined in this privacy policy in order to deliv
 
  _Automatic Collection of Information:_  
 When you interact with our Services, our system will automatically gather and store certain information about you. This information does not identify you personally and is used in an aggregate way to help us improve our Services and tell us the number of users of our Services each day. Our Services automatically collect and record information from visitors, which includes, but is not limited to: domain name; your computer’s internet protocol address; data showing the order in which you accessed our Services; the name and release number of the web browser software you used; the operating system of the computer used; the date and time you access our Services; the address of the website that linked to our Services (referral URL); any search terms used when interacting with our Services.
+
+In addition to the automatic collection of information set forth above, we collect data that is publically available by providing you with a single sign-on service using your third-party social networking login credentials. This includes, but is not limited to, Facebook, Google, and Twitter. This improves our ability to contact you and increases the relevance of our marketing by providing better product recommendations or special offers that may interest you. We may also access and use available information from your third-party social network profile, such as your name, location, profile picture, profile information, gender, list of friends, friends’ profiles or postings, email addresses, wall postings and news feed. You should know that any information or content you post to a third-party site will be subject to that site’s own privacy policy.
 
  _Permission-based Collection of Information:_  
 At different places within our Services, depending upon the feature(s) you use (i.e. forum, shopping cart, locator services), you may be asked to volunteer personal information, including, but not limited to, your name, credit and/or debit card information, physical location, e-mail address, mailing address and telephone number. We also collect the e-mail addresses of those who communicate with us via e-mail.
@@ -58,8 +60,6 @@ In connection with sweepstakes, contests, giveaways and other types of promotion
 ## Communication Defaults: Opt-in, Opt-out
 
 For text message based promotions, we use an opt-in for text message communication with you. We will not communicate with you via text message without your express consent.
-
-For online accounts, we use an opt-in standard for communication of promotional materials with you. We will not email or mail promotional materials to you without your express consent.
 
 For all of other Services, we use an opt-out standard for email and mail communications with you. Opt-out means that your consent to our communication with you is implied, but if you request to opt-out of specific types of communications, either by unsubscribing from the specific email communication or contacting us to opt-out of specific mailed correspondence, we will cease sending them to you.
 
@@ -105,7 +105,7 @@ Hours of Operation:
 
 ## Modification Date
 
-This privacy policy was last modified on, and shall be effective from and after **March 19, 2013**.
+This privacy policy was last modified on, and shall be effective from and after **August 4, 2014.**
 
 |  | Seasons  
 ---  
@@ -113,13 +113,6 @@ This privacy policy was last modified on, and shall be effective from and after 
 ##### [Helpful Products And Ideas](https://web.archive.org/seasons/default.aspx)
 
 Hy-Vee Seasons provides you with recipes, crafts, tips and helpful seasonal information. Celebrate the seasons in your life!  
-  
-Mother's Choice  
----  
-  
-##### [You Take Care Of The Little Ones, We'll Take Care Of You](https://web.archive.org/Redirect.aspx?url=http://www.motherschoiceformula.com/)
-
-Mother's Choice offers a nutritionally complete alternative to expensive brand name infant formulas at a cost mothers will love!  
   
 Midwest Heritage Bank  
 ---  
