@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moretechtips.net privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313095200id_/http%3A//www.moretechtips.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moretechtips.net privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229121917id_/http%3A//www.moretechtips.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
