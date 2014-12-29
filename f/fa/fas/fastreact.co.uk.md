@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530014254id_/http%3A//www.fastreact.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229095210id_/http%3A//www.fastreact.com/privacy.php) for the most accurate reproduction.*
 
 # Fast React > Privacy Policy
 
@@ -12,17 +12,15 @@ Internationally renowned footwear retailer, Fit Flop steps up to improve on time
 
 ## Case Studies
 
+### Concept Group
+
+[](http://www.fastreact.com/case_studies.php?product=1&id=350 "Concept Group")
+
 ### REISS
 
 REISS achieves improved visibility and control with Fast React.
 
 [](http://www.fastreact.com/case_studies.php?product=1&id=132 "REISS")
-
-### Wilton Bradley
-
-Wilton Bradley select Fast React for improved visibility and control.
-
-[](http://www.fastreact.com/case_studies.php?product=1&id=133 "Wilton Bradley")
 
 ## Privacy Policy
 
