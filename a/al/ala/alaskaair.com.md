@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629114931id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229045310id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Online Privacy Notice - Alaska Airlines
 
-Alaska Airlines respects your concerns about privacy. This Privacy Notice applies to personal information we collect on the websites and applications (collectively, the "Sites") listed here.
+Alaska Airlines respects your concerns about privacy. This Privacy Notice applies to personal information we collect on the websites and applications listed below (collectively, the "Sites"), as well as our fingerprint identity verification service.
 
   * alaskaair.com 
   * res.asvacations.com (vacation site) 
   * m.alaskaair.com (mobile site) 
   * facebook.com/alaskaairlines 
-  * apps.facebook.com/flyingsocial
 
 
 
@@ -19,7 +18,7 @@ Alaska Airlines respects your concerns about privacy. This Privacy Notice applie
 
 
 
-This Privacy Notice describes the types of personal information we collect on the Sites, how we may use that information and with whom we may share it. The Privacy Notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to update your preferences regarding how we communicate with you or answer any questions you may have about our privacy practices.
+This Privacy Notice describes the types of personal information we collect on the Sites and through the fingerprint identity verification service, how we may use that information and with whom we may share it. The Privacy Notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to update your preferences regarding how we communicate with you or answer any questions you may have about our privacy practices.
 
 ### Information We Collect
 
@@ -41,13 +40,15 @@ When you visit the Sites, you may provide personal information directly to us, i
 
 
 
+At an expanding number of locations, we offer a fingerprint identity verification service, allowing you to use your fingerprint for things like flight check-in, baggage drop, flight boarding, and accessing our Board Room airport lounge. Participation is completely optional. If you choose to enroll, our system will scan your fingerprint, take certain measurements of it, and convert these measurements into an identifying number. We delete the initial image but retain the identifying number based on the measurements. We can’t work backwards from this information to reproduce an image of your fingerprint, but the next time you scan your fingerprint, we’ll repeat the measurement process and compare the identifying number to confirm your identity, without the need to swipe a card or examine an ID. You can opt out at any time as described in the Your Choices section below.
+
 #### Information We Collect by Automated Means
 
 When you visit our Sites, we may collect certain information by automated means, using technologies such as cookies, Web server logs and Web beacons.
 
 Cookies are small files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser. Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. Please note, however, that without cookies you may not be able to use all of the features of our Sites.
 
-Our Web servers may log information such as your device and operating system type, browser type, domain, device ID, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record information such as the address of the Web page that referred you to our Site and the IP address of the device you use to connect to the Internet.
+Our Web servers may log information such as your device and operating system type, browser type, domain, device ID, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record information such as the address of the Web page that referred you to our Site and the IP address of the device you use to connect to the Internet in order for us deliver a customized website experience based on your geographic area.
 
 To control which Web servers collect information by automated means, we may place tags on our Web pages called "Web beacons", which are small files that allow us to understand the actions of visitors to our Sites, and we use similar technology to analyze users' interactions with our apps.
 
@@ -65,7 +66,6 @@ You may see certain ads on our and other websites because we participate in adve
 
 We may use the information we obtain about you through the Sites for various purposes, including to:
 
-  * Verify your identity 
   * Process, evaluate, and respond to your requests, inquiries, and applications 
   * Create, administer, and communicate with you about your accounts 
   * Process your purchases and payments 
@@ -75,33 +75,40 @@ We may use the information we obtain about you through the Sites for various pur
   * Evaluate your interest in employment and contact you regarding possible employment 
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality 
   * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our terms of use 
-  * Alaska Airlines uses the Evidon assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the [Digital Advertising Alliance (DAA)](http://www.aboutads.info/). As part of this service, online advertisements and websites are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
 
 
+
+Alaska Airlines uses the Ghostery, Inc. to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the [Digital Advertising Alliance (DAA)](http://www.aboutads.info/). As part of this service, online advertisements and websites are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
+
+We also use information collected on our Sites, as well as fingerprint data (if you choose to enroll in our fingerprint service), for identity verification purposes.
 
 ### Information We Share
 
-We may share personal information we collect on our Sites with our service providers who perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We may also share personal information among our affiliates and joint marketing partners for the purposes described in this Privacy Notice, including for their marketing purposes.
+We may also share personal information we collect on our Sites among our affiliates and joint marketing partners for the purposes described in this Privacy Notice, including for their marketing purposes. 
 
-We may share personal information with authorized operators of websites and applications that interact with our systems if you choose to use their applications to interact with us or if you otherwise authorize those operators to access our record of your personal information. For example, if you log in through an authorized third-party app that allows you to view your Mileage Plan™ account, we may share personal information with the operator of the app. Such operators' use of the information may be subject to their own privacy policies, which we strongly recommend you review before logging in through their applications. We are not responsible for such operators' privacy practices, which are not covered by this Privacy Notice.
+We may also share personal information we collect on our Sites with authorized operators of websites and applications that interact with our systems if you choose to use their applications to interact with us or if you otherwise authorize those operators to access our record of your personal information. For example, if you log in through an authorized third-party app that allows you to view your Mileage Plan™ account, we may share personal information with the operator of the app. Such operators' use of the information may be subject to their own privacy policies, which we strongly recommend you review before logging in through their applications. We are not responsible for such operators' privacy practices, which are not covered by this Privacy Notice.
 
-We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent harm or loss or in connection with an investigation of suspected or actual illegal activity.
+Some third parties' embedded content or plugins on Sites, such as Facebook "Like" buttons on alaskaair.com, may allow their operators to learn that you have visited or interacted with our Sites, and they may combine this information with other, identifiable information they have collected about your visits to other websites or online services. These third parties may handle this information, and other information they directly collect through their content and plugins, pursuant to their own privacy policies.
 
 As mandated by the U.S. government and governments outside the U.S., Alaska Airlines will provide to those governments specific passenger information collected on our Sites for travelers crossing international borders. For flights within the U.S., and pursuant to the Transportation Security Administration (TSA) Secure Flight Program, Alaska Airlines is required to collect and transmit the following passenger information: Name, Birth Date, Gender and Redress Number, if available, to the TSA. For information from the TSA about its privacy practices, please visit [](http://www.tsa.gov/)www.tsa.gov. 
 
-We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Notice.
+We may also disclose personal information about you (i) if we are required to do so by other laws or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent harm or loss or in connection with an investigation of suspected or actual illegal activity.
 
-Some third parties' embedded content or plugins on Sites, such as Facebook "Like" buttons on alaskaair.com, may allow their operators to learn that you have visited or interacted with our Sites, and they may combine this information with other, identifiable information they have collected about your visits to other websites or online services. These third parties may handle this information, and other information they directly collect through their content and plugins, pursuant to their own privacy policies.
+We may share personal information with our service providers who perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. 
+
+We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Notice.
 
 ### Your Choices
 
 If you would like to update or modify your personal information or subscription preferences, you may contact us as described in the How To Contact Us section below. If you have an online account at alaskair.com, you also can login and visit the My Account section; from there you can modify your personal information or click on Manage Email to update your communication preferences. To update your subscription preference for Alaska Airlines Vacations, please log in to your account at <https://res.asvacations.com/Account/Default.aspx>. You may update your flight alerts by going to [Manage Flight Alerts](http://www.alaskaair.com/dayofflight/alerts.aspx?CurrentForm=UCEditAlert), or update your Trip Alerts by logging into your account at: [Manage Trip Alerts](https://www.flightstats.com/ta/Login/login.do). You also may unsubscribe from promotional emails by clicking on the "unsubscribe" link in the relevant emails. You may choose to opt out of receiving prescreened offers of credit and insurance from Bank of America and other companies by calling toll free 1-888-5-OPT-OUT (1-888-567-8688).
 
-To manage notifications and preferences relating to our apps, including certain options regarding the collection and use of location data, visit the Push Notifications section. To manage Flight Alerts that you set through the Flight Status section of the app, go to the main screen in the app, swipe sideways until you find the flight, and then click on “ALERTS”.
+To manage notifications and preferences relating to our apps, including certain options regarding the collection and use of location data, visit the Push Notifications section.
 
 To remove or delete our Facebook apps from your account, follow the instructions at <https://www.facebook.com/help/170585223002660>.
 
-If you have created an account on our careers pages, you can modify or delete your weekly job agent emails by logging in, visiting the "career opportunities" section, and then clicking on "Search Opportunities" to see a list of all your weekly job agent emails.
+If you have created an account on our careers pages, you can update the personal information in your account. To do this, login and go to the 'My Profile' and 'My Career Tools' pages.
+
+You can cancel your participation in the fingerprint identity verification service at an enrollment station or by contacting us as described below.
 
 ### Notice to California Residents
 
@@ -131,6 +138,6 @@ Alaska Airlines Customer Care Department
 P.O. Box 24948 - SEAGT  
 Seattle, WA 98124-0948
 
-[opt.out@alaskaair.com](mailto:opt.out@alaskaair.com)
+[customer.care@alaskaair.com](mailto:customer.care@alaskaair.com)
 
 1-800-654-5669 Monday - Friday, 8:00 a.m. - 5:45 p.m. (PT)
