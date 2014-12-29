@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalebs.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630202405id_/http%3A//www.zalebs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalebs.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229021341id_/http%3A//www.zalebs.com/privacy-policy) for the most accurate reproduction.*
 
 # Zalebs
 
