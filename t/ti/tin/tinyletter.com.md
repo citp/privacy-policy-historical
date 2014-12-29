@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tinyletter.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090334id_/http%3A//www.tinyletter.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyletter.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229052226id_/http%3A//tinyletter.com/site/legal/privacy) for the most accurate reproduction.*
 
-# TinyLetter
+# Privacy Policy | TinyLetter
 
 Thanks for using TinyLetter. This policy explains the what, how, and why of the information we collect when you use TinyLetter. It also explains the specific ways we use and disclose that information. We never sell lists or email addresses. Because TinyLetter is run by the MailChimp team, you'll see some MailChimp references throughout this policy.
 
@@ -10,7 +10,9 @@ We’ll start by getting a few definitions out of the way that should help you u
 
 We provide online platforms that you may use to create, send, and manage emails (the “Services”). We offer the Services on our websites [http://www.mailchimp.com](http://www.mailchimp.com/), [http://www.tinyletter.com](http://www.tinyletter.com/), and [http://www.mandrill.com](http://www.mandrill.com/) (each a “Website” and together the “Websites”). In the course of providing the Services, we may collect Personal Information, which means information about a Member. A "Distribution List" is a list of email addresses that one of our Members has sent, or intends to send, emails to, and all information relating to those email addresses.
 
-MailChimp has TRUSTe's Privacy Seal, which means this privacy policy has been reviewed by TRUSTe for compliance with their [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability, and choice related to the collection and use of your personal information. The TRUSTe program covers our Websites, [http://www.mailchimp.com](http://www.mailchimp.com/), [http://www.tinyletter.com](http://www.tinyletter.com/), [http://www.mandrill.com](http://www.mandrill.com/), as well as the Golden Monkeys mobile app. TRUSTe is an independent third party that operates a globally recognized privacy trustmark.
+[](https://privacy.truste.com/privacy-seal/The-Rocket-Science-Group,-LLC/validation?rid=49970d6c-d276-4bdd-9205-01139437cdd6 "TRUSTe European Safe Harbor certification")
+
+MailChimp has TRUSTe's Privacy Seal, which means this privacy policy has been reviewed by TRUSTe for compliance with their [program requirements](http://www.truste.com/privacy-program-requirements/), including transparency, accountability, and choice related to the collection and use of your personal information. The TRUSTe program covers our Websites, [http://www.mailchimp.com](http://www.mailchimp.com/), [http://www.tinyletter.com](http://www.tinyletter.com/), [http://www.mandrill.com](http://www.mandrill.com/), as well as the Golden Monkeys mobile app. TRUSTe is an independent third party that operates a globally recognized privacy trustmark.
 
 ## 2\. Changes
 
@@ -29,7 +31,7 @@ Privacy Department
 512 Means St. Suite 404  
 Atlanta, GA 30318 
 
-If you’re not satisfied with our response you can [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint).
+If you’re not satisfied with our response you can [contact TRUSTe](https://feedback-form.truste.com/watchdog/request).
 
 ## 5\. Information We Collect
 
@@ -99,9 +101,9 @@ To protect your information, our credit card processing vendor uses the latest 1
 
 MailChimp accounts require a username and password to log in. You must keep your username and password secure, and _never_ disclose it to a third party. Because the information in your Distribution Lists is so sensitive, account passwords are encrypted, which means we can’t see your passwords. We can’t resend forgotten passwords either. We’ll only reset them.
 
-## 12\. Safe Harbor Certification.
+## 12\. Safe Harbor Certification
 
-MailChimp complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework, which is overseen by the U.S. Department of Commerce and covers the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we follow the principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. A data processing agreement is available upon request, please contact privacy@mailchimp.com.
+MailChimp complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework, which is overseen by the U.S. Department of Commerce and covers the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we follow the principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
 ## 13\. Accuracy of Data, Transparency, and Choice
 
