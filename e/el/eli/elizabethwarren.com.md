@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elizabethwarren.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214114954id_/http%3A//elizabethwarren.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elizabethwarren.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229094112id_/http%3A//elizabethwarren.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Elizabeth Warren for Senate
 
