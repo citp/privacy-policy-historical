@@ -1,158 +1,55 @@
-> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325073018id_/http%3A//www.americansuperstarmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229175053id_/http%3A//www.americansuperstarmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Superstar Magazine
 
-**OUR COMMITMENT TO PRIVACY**
+Protecting your private information is our priority. This Statement of Privacy applies to [www.americansuperstarmag.com](http://www.americansuperstarmag.com/) and Americansuperstarmag.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Americansuperstarmag.com include [www.americansuperstarmag.com](http://www.americansuperstarmag.com/). The Americansuperstarmag.com website is a News and Information site. By using the Americansuperstarmag.com website, you consent to the data practices described in this statement.
 
-American Superstar is dedicated to protecting your privacy and handling any personal information that we obtain from you with care and respect. We strive to deliver outstanding products, services and experiences. We value your support, and most importantly, your loyalty. This Privacy Policy ("Policy") is designed to answer your questions regarding our privacy policies and principles, and demonstrate our commitment to a strong and meaningful customer relationship.
+**Collection of your Personal Information**  
+Americansuperstarmag.com may collect personally identifiable information, such as your name. Americansuperstarmag.com may also collect anonymous demographic information, which is not unique to you, such as your age, gender, household income, political affiliation, race and religion. We may gather additional personal or non-personal information in the future.
 
-**WHAT THIS PRIVACY POLICY COVERS**
+Information about your computer hardware and software may be automatically collected by Americansuperstarmag.com. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Americansuperstarmag.com website.
 
-  * This policy covers how American Superstar treats personal information that American Superstar collects and receives, including information related to your past use of American Superstar products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Americansuperstarmag.com's public message boards, this information may be collected and used by others.
 
-  * This Site contains links to other Web sites over which we have no control. We are not responsible for the privacy policies or practices of other Web sites to which you choose to link from our Site. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information.
+Americansuperstarmag.com encourages you to review the privacy statements of websites you choose to link to from Americansuperstarmag.com so that you can understand how those websites collect, use and share your information. Americansuperstarmag.com is not responsible for the privacy statements or other content on websites outside of the Americansuperstarmag.com website.
 
+**Use of your Personal Information**  
+Americansuperstarmag.com collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
+Americansuperstarmag.com may also use your personally identifiable information to inform you of other products or services available from Americansuperstarmag.com and its affiliates. Americansuperstarmag.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
+Americansuperstarmag.com does not sell, rent or lease its customer lists to third parties.
 
-**THE INFORMATION WE COLLECT**
+Americansuperstarmag.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is transferred to the third party. Americansuperstarmag.com may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Americansuperstarmag.com, and they are required to maintain the confidentiality of your information.
 
-**General**
+Americansuperstarmag.com may keep track of the websites and pages our users visit within Americansuperstarmag.com, in order to determine what Americansuperstarmag.com services are the most popular. This data is used to deliver customized content and advertising within Americansuperstarmag.com to customers whose behavior indicates that they are interested in a particular subject area.
 
-  * American Superstar collects personal information when you register with American Superstar, when you use American Superstar products or services, when you visit American Superstar pages or the pages of certain American Superstar partners, and when you enter promotions or sweepstakes. American Superstar may combine information about you that we have with information we obtain from business partners or other companies.
+Americansuperstarmag.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Americansuperstarmag.com or the site; (b) protect and defend the rights or property of Americansuperstarmag.com; and, (c) act under exigent circumstances to protect the personal safety of users of Americansuperstarmag.com, or the public.
 
-  * When you register we ask for information such as your name, address, email address, zip code, phone number, birth date, gender, industry, work experience and personal interests. Once you register with American Superstar and sign in to our services, you are not anonymous to us.
+**Use of Cookies**  
+The Americansuperstarmag.com website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-  * If a user elects to use our Invite feature to invite a friend to our site, we ask them for the friend's email address. American Superstar will automatically send the friend an email inviting them to join the Site. American Superstar stores this email address for the purpose of sending reminders of the invitation. American Superstar does not sell these email addresses or use them to send any other communication besides invitations and invitation reminders. The friend may contact American Superstar to request the removal of this information from our database.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Americansuperstarmag.com pages, or register with Americansuperstarmag.com site or services, a cookie helps Americansuperstarmag.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Americansuperstarmag.com website, the information you previously provided can be retrieved, so you can easily use the Americansuperstarmag.com features that you customized.
 
-  * American Superstar collects your credit card information if you purchase a product from the Site. Your credit card information is not collected or retained by American Superstar. It, along with the personal identifying information you submit, is transferred to and used by third party financial institutions to verify the credit card numbers and to authorize the processing of the transaction. Be sure to review all privacy policies published by our third-party service providers and contact them directly if you have questions as they may have privacy terms that differ from American Superstar's Privacy Policy.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Americansuperstarmag.com services or websites you visit.
 
-  * American Superstar automatically receives and records information on our server logs from your browser, including your IP address, American Superstar cookie information, and the page you request.
+**Security of your Personal Information**  
+Americansuperstarmag.com secures your personal information from unauthorized access, use or disclosure.
 
-  * American Superstar uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+**Children Under Thirteen**  
+Americansuperstarmag.com does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
+**Opt-Out & Unsubscribe**  
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Americansuperstarmag.com by contacting us here:
 
+Email: [support@americansuperstarmag.com](mailto:support@americansuperstarmag.com)
 
+**Changes to this Statement**  
+Americansuperstarmag.com will occasionally update this Statement of Privacy to reflect company and customer feedback. Americansuperstarmag.com encourages you to periodically review this Statement to be informed of how Americansuperstarmag.com is protecting your information.
 
-**Children**
+**Contact Information**  
+Americansuperstarmag.com welcomes your questions or comments regarding this Statement of Privacy. If you believe that Americansuperstarmag.com has not adhered to this Statement, please contact Americansuperstarmag.com at:
 
-  * Children should always ask parents for permission before providing any personal information online. No information should be submitted to or posted on this Site by any Minor (a guest under 18 years of age) without the consent of a parent or guardian. Unless otherwise disclosed during collection, we do not knowingly provide any personally identifying information about Minors, regardless of its source, to third parties, nor is this information knowingly used by American Superstar for any marketing or promotional purposes.
+Email: [support@americansuperstarmag.com](mailto:support@americansuperstarmag.com)
 
-
-
-
-**INFORMATION SHARING AND DISCLOSURE**
-
-  * American Superstar does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-    * We provide the information to trusted partners who work on behalf of or with American Superstar under confidentiality agreements. These companies may use your personal information to help American Superstar communicate with you about offers from American Superstar and our marketing partners. However, these companies do not have any independent right to share this information.
-
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of American Superstar's Terms of Use, or as otherwise required by law.
-
-    * We transfer information about you if American Superstar is acquired by or merged with another company. In this event, American Superstar will notify you before information about you is transferred and becomes subject to a different privacy policy.
-
-  * American Superstar displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, males ages 18-24 from a particular geographic area.
-
-    * American Superstar does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
-
-    * American Superstar advertisers include financial service providers (such as banks) and non-financial companies (such as stores, media, and entertainment companies).
-
-  * American Superstar works with vendors, partners, advertisers, and other service providers in different industries and categories of business.
-
-
-
-
-**COOKIES**
-
-We may automatically track and collect your IP address, domain server, the type of computer and type of web browser you are using and use "cookies" to (i) customize content specific to your interests, (ii) ensure that you do not see the same advertisement repeatedly, and (iii) store your password so you do not have to re-enter it each time you use the Site.
-
-**What are Cookies?**
-
-  * "Cookies" are pieces of electronic information (specifically, a string of text) that your browser and your operating system store on your hard drive for record-keeping purposes.
-
-  * Cookies can store a user's ID and password, personalize home pages, identify which parts of a site have been visited or keep track of previous selections or purchases.
-
-  * Cookies can enhance the user's visit.
-
-  * The use of cookies is an industry standard-you'll find they are used by most major commercial websites.
-
-
-
-
-**How We Issue and Use Cookies**
-
-  * We issue and use cookies to enhance your visit and the services we offer on the Site. The Site consists of thousands of pages of content. We want you to be able to find the information and offers that interest you, as quickly and easily as possible. The use of cookie technology helps us to achieve that objective.
-
-  * We issue and use cookies to keep track of the areas of the Site that interest our visitors most. In doing so, we can determine areas of the Site that are most popular and those that are not. Many improvements and updates to the Site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies.
-
-  * Visitors to the Site who accept cookies may be presented with targeted messages, offers and ads on the Site and via email that we believe would be of value, based on observed preferences.
-
-  * If you have registered as a member of the Site and accept cookies, we can tailor your use to your personal preferences, and it is easier and faster to take advantage of the Site's benefits.
-
-  * If you have submitted your email address, you may receive targeted messages we believe you will find of value. Remember, you may request to be removed from your email subscription lists.
-
-
-
-
-**Your Choice to Accept or Deny Cookies**
-
-  * You can choose whether to accept or deny cookies; your browser on your computer is often initially set to accept cookies. However, you can choose to deny cookies and continue browsing the sites.
-
-  * Keep in mind that your choice to accept or deny a cookie is different from your choice to accept/deny email messages.
-
-
-
-
-**YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES**
-
-  * You can edit your American Superstar account, including your marketing preferences, at any time.
-
-  * New categories of marketing communications may be added to the marketing preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
-  * We reserve the right to send you certain communications relating to the American Superstar service, such as service announcements, administrative messages and the American Superstar Newsletter, which are considered part of your American Superstar account, without offering you the opportunity to opt-out of receiving them.
-
-  * You can delete your American Superstar account by visiting your account information page, by using an opt out message in an email, or by emailing the Site at customerservice [at] americansuperstarmag.com.
-
-
-
-
-**CONFIDENTIALITY AND SECURITY**
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
-
-  * To learn more about security, including the security steps we have taken and security steps you can take, please contact us at privacy [at] americansuperstarmag.com.
-
-
-
-
-**NETWORK ADVERTISING INITIATIVE**
-
-We are committed to following the [Code of Conduct](http://www.networkadvertising.org/networks/2008%20NAI%20Principles_final%20for%20Website.pdf) of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/), of which we are a member. In accordance with the Code of Conduct, we require our Global Web Alliance clients to provide conspicuous access to their privacy policy statements. Additionally, we require that our network affiliates disclose any and all information that is being collected from Internet users on their Web sites, including data gathered from banners and other forms of advertising, as well as content delivered or other transactions occurring on their Web sites. We periodically monitor the Web sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
-
-You can also click the link below to reach the Network Advertising Initiative site, a central location for information about Internet advertising and the choices available to you and opt out of our cookies and other NAI member companies.
-
-**CHANGES TO THIS PRIVACY POLICY**
-
-  * American Superstar may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your American Superstar account or by placing a prominent notice on our site.
-
-
-
-
-**CALIFORNIA PRIVACY RIGHTS**
-
-  * Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy [at] americansuperstarmag.com.
-
-
-
-
-**CONTACTING THE WEBSITE**
-
-  * If you have questions about this privacy policy, the practices of this Site or your dealings with this Web site, please contact us at privacy [at] americansuperstarmag.com.
-
-
-
-
-Effective Date: March 17, 2011
+Effective as of January 1, 2014
