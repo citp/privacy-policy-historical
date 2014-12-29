@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomla.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630135131id_/http%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomla.org privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229123847id_/http%3A//www.joomla.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
