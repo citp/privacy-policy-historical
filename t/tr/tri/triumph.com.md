@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the triumph.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626101633id_/http%3A//us.triumph.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triumph.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229090907id_/http%3A//us.triumph.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Shapewear, Lingerie and Sleepwear from Triumph US
+# Privacy Statement - Triumph Official Store
 
 Last Updated: October 1, 2013
 
