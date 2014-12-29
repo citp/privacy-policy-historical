@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliancenetconnect.co.in privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623011158id_/http%3A//reliancenetconnect.co.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancenetconnect.co.in privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229085659id_/http%3A//www.reliancenetconnect.co.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Reliance Netconnect::Downloads
 
