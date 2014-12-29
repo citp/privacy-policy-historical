@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylormorrison.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608130137id_/http%3A//www.taylormorrison.com/Privacy-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormorrison.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230005101id_/http%3A//www.taylormorrison.com/Privacy-Policies) for the most accurate reproduction.*
 
 # Privacy Policy for Taylor Morrison
 
