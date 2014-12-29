@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the amazon.ca privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630211018id_/http%3A//amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazon.ca privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229154737id_/http%3A//www.amazon.ca/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D918814) for the most accurate reproduction.*
 
 # Amazon.ca Help: Amazon.ca Privacy Notice
-
-| 
 
 **Last Updated: April 13, 2012** ([ Click here](https://www.amazon.ca/gp/help/customer/display.html?nodeId=200038080) to see what's changed.)
 
@@ -123,5 +121,3 @@ Examples of information we receive from other sources include updated delivery a
 **Information You Can Access**
 
 Examples of information you can currently access easily at Amazon.ca include up-to-date information regarding recent orders, personally identifiable information (including name, e-mail, password, communications preferences, address book, and 1-Click settings), payment settings (including credit card information, gift certificate, gift card, and check balances), e-mail notification settings, Wish Lists, and recommendations.
-
-| 
