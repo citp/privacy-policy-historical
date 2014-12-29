@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moef.gov.in privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608110610id_/http%3A//moef.gov.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moef.gov.in privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229192858id_/http%3A//moef.gov.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ministry of Environment & Forests, Government of India
+# Privacy Policy | Ministry of Environment, Forest and Climate Change Government of India
 
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
