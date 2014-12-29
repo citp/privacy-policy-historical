@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodtv.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051443id_/http%3A//woodtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodtv.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229013118id_/http%3A//woodtv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WOODTV.com
 
@@ -38,8 +38,8 @@ The provisions of this Privacy Policy relating to the collection and retention o
 
 If you have subscribed to one or more of our email newsletters, you may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by visiting [http://www.woodtv.com](http://www.woodtv.com/).
 
-To opt out of eXelate cookies, see [www.exelate.com/consumer-opt-out/](https://web.archive.org/web/20140625051443id_/http://woodtv.com/privacy-policy/www.exelate.com/consumer-opt-out/).
+To opt out of eXelate cookies, see [www.exelate.com/consumer-opt-out/](http://www.exelate.com/consumer-opt-out/).
 
 **  Questions Regarding Privacy**
 
-If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact us at [privacypolicy@linmedia.com](https://web.archive.org/web/20140625051443id_/http://woodtv.com/privacy-policy/privacypolicy@linmedia.com).
+If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact us at [privacypolicy@linmedia.com](mailto:privacypolicy@linmedia.com).
