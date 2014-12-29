@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fresh.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625220305id_/http%3A//www.fresh.com/customer-service-links/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresh.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229081310id_/http%3A//www.fresh.com/US/customer-service-links/privacy-policy.html) for the most accurate reproduction.*
 
 # Fresh - Privacy Policy
 
