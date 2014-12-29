@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wd.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331130849id_/http%3A//www.wd.com/en/company/corporateinfo/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wd.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229194724id_/http%3A//www.wdc.com/en/company/corporateinfo/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,56 +12,136 @@ Western Digital collects certain types of information about individuals who use 
 
 
 
-Western Digital Corporation, Western Digital Technologies, Inc. (“WDT”), and  Arkeia Software, Inc. (collectively, "we" or "us") are committed to protecting the privacy of customers, especially those who access and use our websites.
+**Effective Date of this Privacy Policy:   **September 30, 2014. ****
 
-This Website Privacy Policy (“Policy”) governs your use of our websites, which include [www.wdc.com](http://www.wdc.com/), [www.arkeia.com](http://www.arkeia.com/), and [www.westerndigital.com](http://www.westerndigital.com/) (collectively, the “Site”). **  This Policy may change from time to time, so please check back periodically.**
+This website is operated by a Western Digital Corporation entity (“WDC”).  WDC is committed to protecting your privacy and we want to ensure that you understand what we collect from or about you, how we use it and the safeguards we have in place designed to protect it.
 
-This Policy does not apply to user information that we collect in connection with our products and software applications, which are governed by our Products Privacy Policy, available here: [ _Products Privacy Policy_]().  In addition, this Policy does not apply to the practices of companies that we do not own or control, or to individuals whom we do not employ or manage, including any of the third parties to whom we may disclose user information as set forth in this Policy.
+This Website Privacy Policy (“Policy”) applies to information collected through this website and through our social media pages (“Social Media Pages”) located at <https://www.facebook.com/WesternDigital>, <https://twitter.com/WesternDigital>  (collectively, including website and Social Media Pages, the “Site”).  Please note that this Policy does not apply to information we collect in connection with our products or apps, which are governed by our Products Privacy Policy, available here: Products Privacy Policy. **  This Policy may change from time to time, so please check back periodically.**
 
-What information do we collect from you?
+**What types of user information do we collect and how?**
 
-Our Site collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with efficient and effective service while using our Site.
+_Personally Identifiable Information_
 
-Personally Identifiable Information: This refers to information that specifically identifies who you are. We request Personally Identifiable Information when you order a product or service, register a product, fill out surveys, create a user account for the WD Community or correspond with us. This information might include your name, mailing address, telephone number or e-mail address. This might also include your credit card number and card security code (also called CVV) and the expiration date, if you create a return materials authorization (RMA), purchase an extended warranty or purchase products through WD’s customer loyalty program. We transmit your entire credit card information to the appropriate credit card company in an encrypted format during order processing for payment processing. If you purchase products through the WD on-line store, please note that the on-line store's privacy policy may differ from this privacy policy.
+When you access our Site, we may collect personally identifiable information (“PII”) from you when you voluntarily submit this information to us.  Examples of PII may include your name, mailing address, email address, phone number, user name, password and other information such as payment or credit card information.  We may supplement the information we receive from you with information about you that we receive from other sources, such as public databases, joint marketing partners, social media platforms and other third parties.
 
-Non-Personally Identifiable Information: This refers to information that does not by itself identify a specific individual. We gather this information each time you access our Site. This information, compiled and analyzed on both a personal and an aggregated basis, may include the Uniform Resource Locator ("URL") of the web site you visited just prior to accessing our Site, the URL you go to after leaving our Site, what browser you are using, platform type, your internet service provider, your Internet Protocol ("IP") address, date/time stamp, and number of clicks to analyze trends, administer the Site, track a user’s movement in the aggregate, and gather broad demographic information for aggregate use. You do not have to register with us before we can collect this anonymous information. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. 
+ _Other Information_
 
-Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
+We may also collect other information when you access our Site.  “Other Information” is any information that does not reveal your specific identity or does not directly relate to an individual.  Other Information may include the type of device you are using, your IP address, the geographic location of your device (e.g., zip code or county), your operating system, the type of Internet browser that you use, usage information, diagnostic information and other data that allow us to improve our applications and serve you better, demographic information and other information provided by you, and aggregated information.  We collect this information through your browser or device, by means of cookies and pixel tags, using Adobe Flash technology (including Flash Local Shared Objects or “Flash LSOs”), from you or by aggregating information. We also may collect Other Information from you, such as your preferred means of communication, when you voluntarily provide this information. 
 
-The Site may contain “cookies.” Cookies are bits of electronic information generated by web servers and stored on your hard drive when you visit practically any website on the Internet. Cookies are often used to differentiate users, store user preferences and track user trends in general. We may use cookies to improve the quality of the Site and to better understand how users interact with the Site. We do not use cookies to retrieve individual personally identifying information about you from your computer unless you knowingly and willingly provide such information. You can adjust your web browser security settings to refuse all cookies or to indicate when a cookie is being sent. However, if you disable the use of cookies in your web browser, some features of the Site we offer may not function properly.
+**What about "cookies"?**
 
-**How do we use the information that we receive from you?**
+Cookies are small bits of information that this Site places on your computer. We and our third party service providers use various types of cookies, local shared objects and pixel tags to identify your IP address, browser type, device characteristics, domain name, referring URLs and specific links and web pages through which you click. This data is collected automatically and utilized for site operations, fraud prevention and to help us improve this Site and your overall experience. This technology also allows us to recognize you when you return to this Site and to provide you with a customized experience that we feel will be of value to you.  Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you. 
 
-Our primary goal in collecting personal information from our customers and other visitors to our Site is to provide those customers and visitors with a superior customized online experience. We use customer contact information to provide faster, more effective warranty service, to contact prior purchasers and inform them of the status of their online orders or returns, to send promotional e-mails about products and services that may be of interest to them, and to contact users in relation to their user accounts and use of the WD Community. 
+Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function.  You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>.  If you do elect to disable cookies, please note that you may not be able to take full advantage of a personalized experience on this Site and certain functions may not be available to you. 
 
-We may also perform statistical analyses of aggregate customer behavior. For instance, we may analyze which pages on our Site receive the most visitors or how long visitors spend reviewing those pages when visiting the Site. This allows us to measure relative customer interest in the various areas of our Site. We then use that information to improve the content of our Site, to enhance your experience when visiting the Site, to customize the content and/or layout of the Site's pages, to provide the services required by our individual customers, to comply with any requirements of law; to serve, or have a third party serve specialized or relevant advertising content and/or recommendations to you on the Site; and for our internal purposes. We may from time to time supply the owners or operators of third party sites from which it is possible to link to the Site with information relating to the number of users linking to the Site from their sites. You cannot be identified from this information.
+WDC uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies and similar technologies to analyze how users use the Domains. The information generated about Domain usage (including your shortened IP address) is transmitted to Google in the U.S. This information is used to evaluate visitors’ use of the Domain, compile statistical reports on Domain activity, and provide other services related to the Site and internet use. Google may also collect information about Domain visitors’ use of other websites. For more information about Google Analytics, or to opt out of Google Analytics, please go to: https://tools.google.com/dlpage/gaoptout.
 
-**With whom do we share your information?**
+We may also use Flash Cookies, LSOs and other technologies to, among other things, collect and store information about your use of the Site, fraud prevention and other site operations.  If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time).  Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the Site or our online content. 
 
-Except in the situations described in the following paragraph, we do not share your Personally Identifiable Information with third parties. You should also consult the privacy policy of our on-line store, which is managed by one of the firms with whom we do business. The on-line store's privacy policy may differ from this privacy policy.
+**How do we use PII?**
 
-From time to time, we may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to appropriate governmental authorities or other third parties in conjunction with a judicial, administrative or other proceeding. We will disclose Personally Identifiable Information upon receipt of a valid court order or subpoena or in order to assist a law enforcement investigation. We fully cooperate with law enforcement agencies in identifying those who use our Site's services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful.
+We may use PII: 
 
-**Children’s Privacy**
+  * To process and respond to your requests; 
+  * To contact you from time to time to provide you with important information, required notices and promotional materials;
+  * To send administrative information to you, for example, information regarding the Site and changes to our terms, conditions, and policies. 
+  * To complete and fulfill your purchase, for example, to process your payments, have your order delivered to you, communicate with you regarding your purchase and provide you with related customer service.
+  * To personalize your experience on the Site by presenting products and offers tailored to you.
+  * To allow you to participate in sweepstakes, contests and similar promotions and to administer these activities.  Some of these activities have additional rules, which could contain additional information about how we use and disclose your PII, so we suggest that you read these rules carefully.
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Site, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities;
+  * As we believe necessary or appropriate:  (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public or government authorities, including authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; (g) to allow us to pursue available remedies or limit the damages that we may sustain.
 
-The Site complies with the Children’s Online Privacy Protection Act and all other applicable laws and regulations protecting children’s privacy on the Internet. The Site is not directed to children under the age of 18 and we do not allow persons under 18 years of age to create user accounts. Therefore, except as may be required by law, the Site does not knowingly collect, maintain, or disclose any personal information from children under the age of 18. If you are under the age of 18, please do not: (i) access or use the Site, (ii) create or attempt to create an account on the Site, (iii) sign up for any subscription service, or (iv) buy anything through the Site.
 
-As a parent or guardian you can request that WD remove personal information of your child that was submitted without your consent or by the child misrepresenting his or her age. At your request, we will take reasonable steps to remove such information from our database. All such requests should include the same user name, password, and e-mail address that your child submitted and should be sent to [webinfo@wdc.com](mailto:webinfo@wdc.com).
 
-**Changes to the Privacy Policy.**
+**How do we share PII with third parties?**
 
-This Policy was last changed on June 3, 2013. If we make changes to any terms or conditions of this Policy, the changes will be posted in this document so that you will always know what information we gather as well as how we might use that information and to whom we may disclose it. We may change, modify, add or remove portions of this Policy at any time. Please be sure to check this page before proceeding to use our Site.
+We may disclose your PII as follows:
 
-**How to Contact Us**   
-We welcome any questions or comments you may have regarding this Policy or its implementation. Any such questions or comments should be submitted via email to [webinfo@wdc.com](mailto:webinfo@wdc.com) or directed to the address below. We will undertake reasonable efforts to resolve or address your concern.
+  * To our affiliates for the purposes described in this Policy.  Western Digital Corporation **** is the party responsible for the management of the jointly-used PII. 
+  * To our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services.  We seek to require that our service providers adhere to appropriate restrictions on access and use of your PII.
+  * To third parties to permit them to send you marketing communications. 
+  * To third-party sponsors of sweepstakes, contests and similar promotions.
+  * To identify you to anyone to whom you send messages through the Site.
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages).  Please note that any information you post or disclose through these services will become public information, and may be available to users of the Site and to the general public.  We urge you to be very careful when deciding to disclose your PII, or any other information, on the Site. 
 
-WDT  
-Legal Department  
+
+
+We may also disclose your PII in the following circumstances:
+
+  * As required by law, including laws outside your country of residence, such as to comply with a subpoena, or similar legal process;
+  * To respond to requests from public and government authorities, including authorities outside your country of residence;
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request;
+  * To allow us to pursue available remedies and limit the damage we may sustain;
+  * In the event of a merger, reorganization, acquisition, joint venture, assignment, spin-off, transfer or sale or disposition of all or any portion of our business, including in connection with any bankruptcy or similar proceedings.
+
+
+
+**How do we use and disclose Other Information?**
+
+We may use and disclose Other Information in any manner for any purpose, except where we are required to do otherwise under applicable law.  If we are required to treat Other Information as PII under applicable law, then we may use it for all the purposes for which we use and disclose PII.  If we combine Other Information with PII, we will treat the combined information as PII while it is combined.
+
+**Interest-Based Ads and Online Tracking**
+
+We may partner with third-party service providers to serve ads regarding goods or services that may be of interest to you when you access and use the Site and third party-sites.  Some of the ads on this Site or on third party sites may be personalized, meaning that they are intended to be relevant to you based on what we or the online advertising network serving the ad know about you or your computer's browsing activity on both the Site and third-party sites.  To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags). 
+
+The Network Advertising Initiative offers useful information about internet advertising companies, including information about how to opt-out of interest-based advertising by their members. See [http://www.networkadvertising.org](http://www.networkadvertising.org/) for general information about the NAI and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page.  You may also visit <http://www.aboutads.info/consumers/> to learn about interest-based advertising and how to opt-out from ads served by some or all participating companies.   ****
+
+These opt-out mechanisms rely on cookies to remember your choices.   If you delete your cookies, use another computer or device, or change browsers, you will need to repeat this process.  In addition, opting out of interest-based ads will not opt you out of all ads, but rather only those ads that are personalized to your interests. 
+
+**Third Party Services**
+
+This Policy does not address, and we are not responsible for, the privacy, information or practices of any third parties, including any third party operating any site or service to which the Site links.  The inclusion of a link on the Site does not imply our or our affiliates’ endorsement of the linked site or service. 
+
+Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any PII you disclose to other organizations through or in connection with our Social Media Pages.  ****
+
+**How can I access or correct my information?**
+
+If you would like us to correct or delete PII that you have provided to us in connection with your use of this Site, please contact us at [privacy@wdc.com](mailto:privacy@wdc.com), and we will endeavor to respond in a reasonable time.  We will make a good faith effort to provide you with access to your PII and to correct any inaccuracy or delete such information, at your request, if it is not otherwise required to be retained by law or for legitimate business purposes.  There may also be residual information that will remain within our databases and other records, which will not be removed.  We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical or for which access is not otherwise required.  For your protection, we may only implement requests with respect to the PII associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request.
+
+**How do we protect your information?**
+
+We have implemented reasonable security measures and practices in an effort to protect the confidentiality of your PII.  However, no security system is impenetrable.  It may be possible for third parties to intercept or access information that you provide to WDC.  WDC cannot guarantee the security of your information, nor can we guarantee that information you supply will not be intercepted while being transmitted to WDC.  It is important for you to protect against unauthorized access to your password(s), computer and WDC Products.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting use in accordance with the “How to Contact Us” section below.
+
+**Children**
+
+We do not knowingly solicit data from, or market to, children under the age of 13.  If a parent or guardian becomes aware that his or her child has provided us with personal information, he or she should contact us at[ privacy@wdc.com](mailto:%20privacy@wdc.com).  We will take reasonable steps to delete such information from our database within a reasonable time.  ****
+
+**Your California Privacy Rights**
+
+California law permits our established customers who are California residents to request information regarding the manner in which WDC shares certain categories of your PII with third parties, for the third parties’ direct marketing purposes.  California law provides that you have the right to submit a request to WDC at its designated address and receive the following information. 
+
+  1. The categories of information WDC disclosed to third parties for the third parties’ direct marketing purposes during the preceding calendar year; 
+  2. The names and addresses of third parties that received such information; and 
+  3. If the nature of a third party's business cannot be reasonably determined from the third party's name, examples of the products or services marketed. 
+
+
+
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually.  WDC’s designated email address for such requests is [Privacy@wdc.com](mailto:Privacy@wdc.com).  We reserve our right not to respond to requests submitted to addresses other than the addresses specified in this paragraph.
+
+**Cross-Border Transfers**
+
+The Site is controlled and operated by us from the United States and is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.  Your PII may be stored and processed in any country where we have facilities or in which we engage service providers.  By using the Site, you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than your country. 
+
+**Retention Period**
+
+We will retain your PII for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by law.
+
+**Sensitive Information**
+
+We ask that you do not send us or disclose any sensitive PII ( _e.g.,_ Social Security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Site or otherwise to us.
+
+**Changes to the Privacy Policy**
+
+WDC retains the discretion to amend this Policy from time to time.  Please take a look at the “Effective Date” legend at the top of this page to see when this Policy was last revised.  Any changes to this Policy will become effective when we post the revised Policy on our Site.  Your use of the Site following these changes means that you accept the revised Policy.
+
+**How to Contact Us**
+
+WDC welcomes any questions or comments you may have regarding this Policy or its implementation.  Any such questions or comments should be submitted via email to [privacy@wdc.com](mailto:privacy@wdc.com) or directed to the address below.  We will undertake reasonable efforts to resolve or address your concern.  Please note that email communications are not always secure, so please do not include credit card information or sensitive information in your emails to us. 
+
+Western Digital Corporation  
+Attn: Legal Dept / Privacy  
 3355 Michelson Drive, Suite 100  
 Irvine, California 92612, USA
-
-**Effective Date of this Policy**   
-This Policy is effective as of June 3, 2013.
 
   
 Products Privacy Policy
@@ -74,7 +154,7 @@ By using WDT products, you acknowledge that you accept the practices and policie
 
 This WDP Privacy Policy covers the treatment of user information obtained by WDT in connection with the use of WDT Products.
 
-This WDP Privacy Policy does not apply to user information that we or our parent entity, Western Digital Corporation, collect in connection with our corporate websites, which are governed by our Website Privacy Policy, available here: [ _Website Privacy Policy_]().  In addition, this WDP Privacy Policy does not apply to the practices of companies that WDT does not own or control, or to individuals whom WDT does not employ or manage, including any of the third parties to which WDT may disclose user information as set forth in this WDP Privacy Policy.   
+This WDP Privacy Policy does not apply to user information that we or our parent entity, Western Digital Corporation, collect in connection with our corporate websites, which are governed by our Website Privacy Policy, available here: Website Privacy Policy.  In addition, this WDP Privacy Policy does not apply to the practices of companies that WDT does not own or control, or to individuals whom WDT does not employ or manage, including any of the third parties to which WDT may disclose user information as set forth in this WDP Privacy Policy.   
 
 **Your Consent** ****
 
@@ -110,7 +190,7 @@ We may disclose information (including User Provided Information and Automatical
 
 **Information collected by third-party analytics companies**
 
-We may work with third-party data analytics providers and products to obtain, compile and analyze information about how users are using and interacting with WDT Products.  For example, these analytics providers may record the device, operating system, firmware and unique ID of WDT Products; generalized location information; and usage information, such as how frequently WDT Products are used and the file extensions that are accessed using WDT software applications.  You recognize and agree that the analytics companies utilized by WDT may combine the information that they collect with other information they have independently collected from other services or products used by you. These companies collect and use information under their own privacy policies.  You further recognize and agree that WDT has no responsibility for the technologies, tools, or practices of the third parties that provide analytics products and services to WDT.  For a current list of third party analytic tools we are using, as well as a link to these providers’ privacy policies, please see [**third party analytics details**](https://web.archive.org/web/20140331130849id_/http%3A//www.wd.com/en/company/corporateinfo/thirdparty.aspx).
+We may work with third-party data analytics providers and products to obtain, compile and analyze information about how users are using and interacting with WDT Products.  For example, these analytics providers may record the device, operating system, firmware and unique ID of WDT Products; generalized location information; and usage information, such as how frequently WDT Products are used and the file extensions that are accessed using WDT software applications.  You recognize and agree that the analytics companies utilized by WDT may combine the information that they collect with other information they have independently collected from other services or products used by you. These companies collect and use information under their own privacy policies.  You further recognize and agree that WDT has no responsibility for the technologies, tools, or practices of the third parties that provide analytics products and services to WDT.  For a current list of third party analytic tools we are using, as well as a link to these providers’ privacy policies, please see [**third party analytics details**](https://web.archive.org/web/20141229194724id_/http%3A//www.wdc.com/en/company/corporateinfo/thirdparty.aspx).
 
 **Information collected by third-party content providers** ****
 
