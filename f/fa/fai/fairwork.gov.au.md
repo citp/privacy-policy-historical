@@ -1,102 +1,107 @@
-> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2014-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140306222454id_/http%3A//fairwork.gov.au/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229182945id_/http%3A//www.fairwork.gov.au/website-information/privacy) for the most accurate reproduction.*
 
 # Privacy - Fair Work Ombudsman
 
 We are committed to protecting your privacy.
 
-We aim to offer an online environment that ensures your security when you give us your information.
+We aim to offer an environment online that makes sure the information you give us is secure. 
 
-We adhere to: 
+We follow:
 
-  * the _Privacy Act 1988_
-  * Privacy Commissioner's Guidelines for Federal and ACT Government websites. 
+These laws and guidelines are reflected in our Privacy policy. Download our [Privacy policy](https://web.archive.org/about-us/policies-and-guides/internal-policies-and-plans) for more information.
 
+When you deal with us you have the right be anonymous and the right to use a pseudonym.
 
+## Collecting and using personal information
 
- (The guidelines focus on what should be done to make sure there is transparent collection, appropriate and ethical use and secure storage of your personal information).
+### Visiting the website
 
-## Collecting & using personal information
+When you visit our website, we record anonymous information about your visit. We log this information to collect and analyse statistics on how our website is used in order to develop better services online for you.
 
-When you visit our websites, we record anonymous information about your visit. We also log information to collect statistics and develop better online services for you.
+The anonymous information we collect won’t tell us anything about you specifically (such as your personal details).
 
-We log the following information: 
+Information we log includes:
 
-  * your server address 
-  * your operating system (e.g  Windows, Mac etc) 
-  * your top level domain name (e.g  .com, .gov, .au, .uk etc) 
-  * the date and time of your visit to the site 
-  * the pages accessed and the documents downloaded 
-  * the previous site visited 
-  * the type of browser used (e.g. Internet Explorer or Firefox). 
-
-
-
-This information is not specific to an individual. It is used for system administration purposes to enable us to analyse statistics on how our websites are used.
-
-The anonymous information we collect will not tell us anything about you specifically (i.e. your personal information).
-
-## Cookies
-
-A cookie is a small text file a server puts on your hard-drive that shows you have come to our websites a second time, third time, fourth time and so on.
-
-Cookies are shared between your browser and our server.
-
-We use cookies on our websites to see patterns of how you use them.
-
-Cookies 'remember' your browser between page visits. The cookie identifies your browser, not you personally.
-
-## Emailing us or subscribing to email alerts
-
-When you email us or subscribe to email alerts: 
-
-  * we record your email address 
-  * we only use your email address for the reasons you gave it 
-  * unless you ask us to, we will not add your email address to a mailing list (other than any email alerts you have subscribed to) 
-  * we will not give your email address to any 3rd party unless you give us permission (except when we are authorised to by law). 
+  * your server address
+  * your operating system (eg. Windows, Mac)
+  * your top level domain name (eg. .com, .gov, .au, .uk)
+  * the date and time of your visit to our site
+  * the pages accessed and the documents downloaded
+  * the previous site visited
+  * the type of browser used (eg. Internet Explorer, Firefox).
 
 
 
-If you give us other personal information when you have, for example, used an online form, online claim form registration, online claim form submission or email, we will only: 
+The browser information is tracking using cookies. A cookie is a small text file a server puts on your hard-drive that shows you have come to our website a second time, third time, fourth time and so on.
 
-  * collect it by lawful and fair means 
-  * use it for a lawful purpose 
-  * collect it with your consent. 
+Cookies are shared between your browser and our server. This lets us see the patterns of how you use our website. Cookies ‘remember’ your browser between page visits and identifies your browser when you return to the site, not you personally.
 
+### Subscribing to email alerts and completing online forms
 
+When you subscribe to email updates, media updates or email us through our Email us form:
 
-   
-When you send us a completed electronic form that includes your personal details, we will collect personal information, such as name, address and email address.
-
-We will not identify you or your browsing activities, except if there is an investigation. In this case, a law enforcement agency may exercise a warrant to look at our logs.
-
-**Note:** The National Library of Australia may also archive information on our websites.
-
-## Secure transmissions
-
-While we work to ensure a secure web environment, you should note there are inherent risks that come with providing information via the web.
-
-To ensure the information you provide us is as secure as possible, we encrypt all messages between the browser running on your computer and its online site. The encryption process we use is Secure Socket Layer (SSL).
-
-## Disclosing information
-
-We may provide your personal information to 3rd parties in Australia or overseas who help us with our statutory functions and activities.
-
-We may provide your personal information to: 
-
-  * government agencies / departments or anyone we are required or permitted, by law, to provide personal information to, or 
-  * researchers conducting research or survey work for us. 
+  * we record your email address
+  * we only use your email address for the reasons you gave it
+  * unless you ask us to, we won’t add your email address to other mailing lists.
 
 
 
-We may transfer your personal information to these 3rd parties electronically, including via the internet.
+If you give us other personal information when using an online form or email, we will only:
 
-When we provide personal information to 3rd parties for surveys and research, we will limit them to only using or disclosing your personal information for the reasons we engaged them.
+  * collect it by lawful and fair means
+  * use it for a lawful purpose
+  * collect it from you personally with your consent
+  * collect it from someone else if required, with your consent.
 
-Third parties conducting surveys or research for us must follow the same legal obligations we follow when it comes to your personal information.
 
-If you do not want your personal information to be used by or disclosed to 3rd parties conducting research or surveys for us, or if you want to inspect, amend or remove personal information we have about you, write to us at:
+
+When you send us information by completing an online form that includes your personal details, we will collect personal details such as name, address and email address.
+
+We won’t identify you or your browsing activities, except if there is an investigation. In this case, a law enforcement agency can exercise a warrant to look at our logs.
+
+The National Library of Australia can also archive information on our websites.
+
+## When we will disclose and destroy information
+
+We can provide your information to third parties in Australia or overseas who help us with our statutory functions and activities.
+
+We can provide your personal information to:
+
+  * government agencies/departments or anyone we are required or permitted, by law, to provide personal information to, or
+  * researchers conducting research or survey work for us.
+
+
+
+We can transfer your information to these third parties electronically, including via the internet.
+
+When we no longer need this information for authorised purposes, we will take all reasonable steps to destroy or de-identify it.
+
+### Using your information for surveys or research
+
+When we provide personal information to third parties for surveys and research, we will limit them to only using or disclosing your personal information for the reasons we engaged them for.
+
+Third parties conducting surveys or research for us have to follow the same legal obligations we follow when it comes to your information.
+
+If you don’t want your personal information to be used by or disclosed to third parties conducting research or surveys for us, or if you want to inspect, amend or remove personal information we have about you, write to us at:
 
 Privacy Officer  
 Fair Work Ombudsman  
 GPO Box 9887  
 In your capital city
+
+##  Secure website transmissions 
+
+While we work to make sure the web environment is secure, there are some risks when providing information online.
+
+To make sure your information is as secure as possible, we encrypt all messages between the browser running on your computer and its online site. The encryption process we use is Secure Socket Layer (SSL).
+
+### You might also be interested in
+
+  * Freedom of information in [Accessing information](https://web.archive.org/about-us/accessing-information/default)
+  * [Office of the Australian Information Commissioner ](http://www.oaic.gov.au/) website
+
+
+
+[](http://www.fairwork.gov.au/PrintToPDF.aspx?url=http%3a%2f%2fwww.fairwork.gov.au%2fWebsite-information%2fprivacy%3fPrintToPDF%3dTrue&pagename=Privacy+-+Fair+Work+Ombudsman)
+
+Page reference No: 2841 
