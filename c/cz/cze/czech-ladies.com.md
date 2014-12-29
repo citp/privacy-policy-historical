@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the czech-ladies.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612203111id_/http%3A//www.czech-ladies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the czech-ladies.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230003042id_/http%3A//www.czech-ladies.com/privacy.html) for the most accurate reproduction.*
 
 # Czech ladies -
 
-**Effective Date: June 29, 2012**
+**Effective Date: 29.06.2012**
 
-Services on the Czech Ladies Website ([www.czech-ladies.com](http://www.czech-ladies.com/index.php)) (the “Website”) are provided by New Experience, LLC (“Us” or We”) We have created this privacy policy in order to demonstrate our firm commitment to privacy. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
+Services on the Czech Ladies Website ([www.czech-ladies.com](http://www.czech-ladies.com/index.php)) (the “Website”) are provided by Dot Com Productions LLC (“Us” or We”) We have created this privacy policy in order to demonstrate our firm commitment to privacy. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
 
 ## Age of Users
 
@@ -82,14 +82,13 @@ We may amend this Privacy Policy at any time.  If any material changes are made
 
 If you have any questions about this privacy policy and the practices of its usage, please contact:
 
-  New Experience LLC  
-429 Weber Road #288  
-Romeoville, IL 60445  
-USA
+  Dot Com Productions LLC  
+Suite 3978, PO Box 6945  
+London W1A 6US, United Kingdom
 
 Toll free phone:             1-866-Y-SINGLE       ( 1-866-974-6453 )  
-Outside US call:             +1 (312) 252-0005       or             +44 (0) 2030261229
+Outside US call:             +1 (312) 252-0005       or             +44 (0) 2030261229
 
-Fax: (360) 525-0025
+Fax: +1 (360) 525-0025
 
 Please be assured that any personal information that you provide in communications to the above mailing address or telephone numbers will not be used to send you promotional materials, unless you so request.
