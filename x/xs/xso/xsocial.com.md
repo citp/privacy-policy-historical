@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xsocial.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214074407id_/http%3A//www.xsocial.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xsocial.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229235959id_/http%3A//www.xsocial.com/site/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# xSocial - Spice up your life with a discreet encounter!
 
-#### Table of Contents:
+### Table of Contents:
 
   1. A Special Note About Children
   2. Information We Collect
@@ -14,6 +14,7 @@
   8. Third Party Collections of Information
   9. Security
   10. Update/Delete
+  11. Opt-out provisions
 
 
 
@@ -23,7 +24,7 @@ Children under eighteen years of age are not eligible to use our services. We as
 
 #### 2\. Information We Collect
 
-In our online ANONYMOUS registration form, we ask you to provide us with certain information such as your age and the type of relationship you are looking for. However, NONE of the personally identifiable information can be accessed or used by the public to identify a specific individual.
+In our online ANONYMOUS registration form, we ask you to provide us with certain information such as your age and the type of relationship you are looking for. In addition, we collect address, credit card, and bank information only from those who wish to acquire premium member privileges. However, NONE of the personally identifiable information can be accessed or used by the public to identify a specific individual.
 
 In the course of using our site, we automatically track certain information such as your IP addresses and email addresses. Many sites automatically collect this information. If you choose to post messages in our website, we will only display such information about you as you choose to reveal.
 
@@ -41,7 +42,7 @@ We also send periodic informational updates to our members via email.
 
 #### 4\. Our Disclosure of Your Information
 
-We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, are not disclosed in aggregate at all.
+We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all.
 
 In order to maintain a healthy community, we cooperate with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights.
 
@@ -49,7 +50,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 #### 5\. Your use of Other Users' Information
 
-You may not use other user's information for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate those who misuse other user's information or who otherwise violate the [Terms of Service](https://web.archive.org/tos.html).
+You may not use other user's information for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate those who misuse other user's information or who otherwise violate the [Terms of Service](https://web.archive.org/site/terms).
 
 #### 6\. Control of Your Password
 
@@ -68,6 +69,8 @@ Once you register, you will be able to review and change much of your personally
 
 Please promptly update your information if it changes by logging in to your account and following the screen prompts. We strongly urge you to periodically change your password to help reduce the risk of unauthorized access to your account information.
 
+Upon your request, we will remove your credit card number and credit card expiration date from our main databases. To make this request, email us at [support@xsocial.com](mailto:support@xsocial.com). We will retain in our files information, including credit card information, you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems, comply with Credit Card Merchant Banking and Association Agreements, enhance security, reduce fraud, comply with Federal and State Law, and to enforce our [Terms of Service Agreement](https://web.archive.org/site/terms).
+
 #### 8\. Third Party Collections of Information
 
 Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. While we are working closely with our partners to ensure the highest privacy to you, we encourage you to ask questions before you disclose your personal information to others. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness.
@@ -80,7 +83,23 @@ We have security measures in place to protect and prevent the loss, misuse, and 
 
 You have the following choices to modify or delete your profile information from our database:
 
-  * Send an email to our Customer Service (see support link on the [main page](https://web.archive.org/)).
-  * Log in with your password and modify your profile.
+  * Send an email to [Customer Service](mailto:support@xsocial.com);
+  * Log in with your password and modify your profile;
 
 
+
+#### 11\. Opt-out provisions
+
+You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of HK International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in. 
+
+  
+
+
+#### Our address:
+
+XD International Limited  
+PO Box 440  
+Envoy House, La Vrangue  
+St Peter Port  
+Guernsey  
+GY1 3ZN 
