@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629140609id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.co.uk privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229174108id_/http%3A//www.ford.co.uk/Footer/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,15 @@ This information will not be disclosed to anyone outside of the Ford Motor Compa
 
 You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However, certain legislation, especially related to safety issues or financial regulation (e.g. when dealing with Ford Credit) might prevent this.
 
-If you have any specific questions that are not covered in the FAQ section please mail your enquiry to Ford Motor Company Limited, PO Box 2439, Glasgow, G40 3WX.
+If you have any specific questions that are not covered in the FAQ section please mail your enquiry to:
+
+Ford Motor Company
+
+PO Box 3602
+
+GLASGOW
+
+G73 9ES
 
 ¹The Ford Motor Company Group, a company based in the United States of America, ("FMC") in the context of this Privacy Policy includes those companies where Ford owns at least 25% of the company (this includes Mazda).
 
@@ -34,17 +42,25 @@ This information will not be disclosed to anyone outside of the Ford Motor Compa
 
 Our mobile services provider is required to be able to provide historic information data to local telecommunications regulators, mobile operators and authorities on request. This includes opt-in, opt-out, inbound message and outbound message, date and time, mobile phone number and network operator. This data is not available to Ford or its consumers. For further information and contact details please log onto the following sites;
 
-For more information about OFCOM view the link below. 
+For more information about OFCOM view the link below.
 
-For more information about PhonePay Plus view the link below. 
+For more information about PhonePay Plus view the link below.
 
 Our mobile services provider also complies with the standards and rules set out by the Global Mobile Marketing Association (MMA), view the link below.
 
 **Contact Us  **
 
-You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However we may be prevented from doing so by legislation, for example relating to health and safety or financial regulation (e.g. when dealing with Ford Credit). 
+You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However we may be prevented from doing so by legislation, for example relating to health and safety or financial regulation (e.g. when dealing with Ford Credit).
 
-For questions that are not covered in the FAQ section please mail your enquiry to Ford Motor Company Limited, PO Box 2439, Glasgow, G40 3WX. 
+For questions that are not covered in the FAQ section please mail your enquiry to:
+
+Ford Motor Company
+
+PO Box 3602
+
+GLASGOW
+
+G73 9ES
 
 **Use of Cookies on our WAP site  **
 
@@ -58,9 +74,6 @@ Text messages you send to the Ford shortcode will be charged at your standard ne
 
 To browse our WAP site and access the content you must have WAP access enabled on your phone and an appropriately capable handset (e.g. to support video content). Any downloaded content must not be used in any context that might be construed as defamatory or derogatory and may not be used for any commercial purposes without the written permission of Ford Motor Company Limited. Your network operator must also allow our content to be downloaded. If you are unsure please consult your mobile phone service provider before attempting to download the content. The Ford Motor Company Group, nor any of its agents, suppliers or consultants shall be liable or responsible in the event that you are unable to access the content, or for any difficulty in downloading it to, or accessing it on, your handset. For questions around content that has been downloaded to your handset please see our FAQ’s section. 
 
-Ford Motor Company Limited. Registered in England: No.235446, Registered Office: Eagle Way, Brentwood, Essex, CM13 3BW, England. 
+Ford Motor Company Limited. Registered in England: No.235446, Registered Office: Eagle Way, Brentwood, Essex, CM13 3BW, England.
 
 **Cookies**
-
-  
-
