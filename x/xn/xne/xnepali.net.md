@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xnepali.net privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521152826id_/http%3A//xnepali.net/movies/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xnepali.net privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229131557id_/http%3A//xnepali.net/movies/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Nepali Movies, Nepali Films
 
