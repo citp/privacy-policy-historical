@@ -1,0 +1,701 @@
+<!--The following is the downloaded HTML source of the guardian.com.sg privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229062800id_/http%3A//www.guardian.com.sg/privacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class="ua-headlesschrome ua-headlesschrome-69 ua-headlesschrome-69-0 ua-headlesschrome-69-0-3494 ua-headlesschrome-69-0-3494-0 ua-safari ua-safari-537 ua-safari-537-36 ua-desktop ua-desktop-linux ua-webkit ua-webkit-537 ua-webkit-537-36 js js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+	<title>
+		Privacy Policy | Guardian Health &amp; Beauty | Guardian</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- <meta name="description" content="" /> -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index,follow">
+		<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="970">
+		<meta name="viewport" content="width=970, target-densitydpi=160, maximum-scale=1.0">
+		<link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/common/css/jquery.colorbox-1.3.16.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/_ui/desktop/common/css/jquery.ui.stars-3.0.1.custom.css">
+
+<link rel="stylesheet" href="/_ui/desktop/common/css/normalize.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/theme-guardian/css/changes.css">
+<link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/theme-guardian/css/changes-infy.css">
+<link rel="stylesheet" href="/_ui/desktop/common/css/font-awesome.min.css">
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css" media="print">
+	@IMPORT url("/_ui/desktop/common/blueprint/print.css");
+</style>
+
+
+<!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/_ui/desktop/common/css/ie_8.css" media="screen, projection" /> <![endif]-->
+<!--[if IE 7]> <link type="text/css" rel="stylesheet" href="/_ui/desktop/common/css/ie_7.css" media="screen, projection" /> <![endif]-->
+
+<!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/_ui/desktop/theme-guardian/css/ie_8.css" media="screen, projection" /> <![endif]-->
+<!--[if IE 7]> <link type="text/css" rel="stylesheet" href="/_ui/desktop/theme-guardian/css/ie_7.css" media="screen, projection" /> <![endif]-->
+
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M5DVC9"></script><script type="text/javascript" src="/_ui/shared/js/analyticsmediator.js"></script>
+<script type="text/javascript">
+/* Google Analytics */
+
+/* var googleAnalyticsTrackingId = 'UA-20720025-1';
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', googleAnalyticsTrackingId]);
+
+
+		_gaq.push(['_trackPageview']);
+	 */
+
+/* (function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})(); */
+
+
+function trackAddToCart_google(productCode, quantityAdded) {
+	dataLayer.push({'event':'GAEvent','eventCategory':'Cart','eventAction':'AddToCart','eventLabel':productCode,'eventValue':quantityAdded});
+}
+
+function trackUpdateCart(productCode, initialQuantity, newQuantity) {
+	if (initialQuantity != newQuantity) {
+		if (initialQuantity > newQuantity) {
+			dataLayer.push({'event':'GAEvent','eventCategory':'Cart','eventAction':'RemoveFromCart','eventLabel':productCode,'eventValue':initialQuantity - newQuantity});
+		} else {
+			dataLayer.push({'event':'GAEvent','eventCategory':'Cart','eventAction':'AddToCart','eventLabel':productCode,'eventValue':newQuantity - initialQuantity});
+		}
+	}
+}
+
+function trackRemoveFromCart(productCode, initialQuantity) {
+	dataLayer.push({'event':'GAEvent','eventCategory':'Cart','eventAction':'RemoveFromCart','eventLabel':productCode,'eventValue':initialQuantity});
+}
+
+window.mediator.subscribe('trackAddToCart', function(data) {
+	if (data.productCode && data.quantity)
+	{
+		trackAddToCart_google(data.productCode, data.quantity);
+	}
+});
+
+window.mediator.subscribe('trackUpdateCart', function(data) {
+	if (data.productCode && data.initialCartQuantity && data.newCartQuantity)
+	{
+		trackUpdateCart(data.productCode, data.initialCartQuantity, data.newCartQuantity);
+	}
+});
+
+window.mediator.subscribe('trackRemoveFromCart', function(data) {
+	if (data.productCode && data.initialCartQuantity)
+	{
+		trackRemoveFromCart(data.productCode, data.initialCartQuantity);
+	}
+});
+</script>
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+
+<body class="page-privacyPolicy pageType-ContentPage template-pages-layout-staticPage pageLabel-privacyPolicy language-en"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 28px; padding-right: 0px; display: none;"><div id="cboxWrapper" style=""><div id="cboxContent" style=""><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" class="" style="float: left;"></div><div id="cboxLoadingGraphic" class="" style="float: left;"></div><div id="cboxTitle" class="" style="float: left;"></div><div id="cboxCurrent" class="" style="float: left;"></div><div id="cboxNext" class="" style="float: left;"></div><div id="cboxPrevious" class="" style="float: left;"></div><div id="cboxSlideshow" class="" style="float: left;"></div><a id="cboxClose" href="javascript:void(0);" class="" style="float: left;"></a></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M5DVC9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M5DVC9');</script>
+<!-- End Google Tag Manager -->
+
+	<div id="page" data-currency-iso-code="SGD">
+		<div id="cpl-container">
+			<div id="cpl-header">
+	<div class="sticky-wrapper"><div class="cpl-header-top ">
+			<div class="cpl-wrapper clearfix"><a href="/"><div class="cpl-logo-sticky"></div></a><a class="cpl-btn-top-sticky" title="Back to top" href="javascript:;">Top</a>
+				
+				<div class="cpl-member-section clearfix">
+				<div class="cpl-member-login">
+				<!--  Sundar - Hide Link to mobile site -->
+		<!--  Sundar - Hide Link to mobile site -->
+
+		<a href="/login">Login</a>&nbsp;|
+				<!-- Login Fly-out -->
+		<a href="/register">Register</a>
+			</div>
+				<div class="cpl-member-cart">
+<div id="val" style="display:none;">0</div>
+	<a href="/cart" class="miniCart"> <i class="icon-shopping-cart"></i> My Cart(<span class="item">0</span>) 		
+		<i class="fa fa-caret-down"></i>
+		</a>
+		
+<div id="miniCartLayer" data-refreshminicarturl="/cart/miniCart/0/?" data-rolloverpopupurl="/cart/rollover/MiniCart"></div>
+</div>
+
+</div>
+				<div class="cpl-header-contact">
+					<span class="yCmsComponent"><a href="/store-finder" title="Store Locator">Store Locator</a></span><span class="yCmsComponent"><a href="/contact_us" title="Contact Us">Contact Us</a></span><span class="yCmsComponent"><span class="empty-nav-item">Guardian Online: 6733 2685 (Mon - Fri, 9:30am - 6:00pm)</span></span></div>				
+				
+				
+			</div>
+			
+		</div></div>
+		<!-- Header - Utility -->
+		<div class="cpl-header-utility">
+			<div class="cpl-wrapper clearfix">
+				<a href="/" class="cpl-logo"><img title="Guardian" alt="Guardian" src="/medias/logo-guardian-print.jpg?context=bWFzdGVyfHJvb3R8NDcxMHxpbWFnZS9qcGVnfGhjMS9oMGEvODgxMjM0NjgwMjIwNi5qcGd8MzliZjRkZjE4NGQzOGUxMjlhODNkMzU3MzE0MDBmNDdkM2YxMWNhZWMwOWFmYjExOTZmOTZiODc3YzcyYTZiZA"></a>
+				<span class="cpl-logo-hh"></span>
+			</div>
+		</div>
+		<!--#end of Header - Utility -->
+	<!-- Header - Delivery Notice -->
+	<div class="cpl-header-delivery">
+		<div class="cpl-wrapper">
+			<ul class="cpl-delivery-notice clearfix">
+				<li><span class="cpl-ico-delivery">Free delivery above $20</span> <a class="cpl-popup-delivery cpl-fancybox-calendar" href="#cpl-delivery-calendar">View delivery times<i class="fa fa-caret-down"></i></a>
+				<a href="/store-finder"><span class="cpl-ico-pickup">Shop and pick up at any of our 145 stores</span></a>
+				</li>
+				<li><form name="search_form" method="get" action="/search/" id="search_form">
+		<div class="cpl-input-btn-inline cpl-search-products clearfixs">
+			<div class="controls">
+				<input id="search" class="siteSearchInput left ui-autocomplete-input" type="text" name="text" value="" maxlength="100" placeholder="Search for keyword..." data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBoxComponent&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;3&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;500&quot;,&quot;displayProductImages&quot; : &quot;true&quot;}" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+				<button class="cpl-btn-search" type="submit">
+						<i class="fa fa-search"></i>
+					</button>
+				</div>
+		</div>
+	</form>
+
+	<div class="cpl-search-dropdown">
+		
+	<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1001; display: none;"></ul></div>		
+</li>
+			</ul>
+		</div>
+	</div>
+	<!--#end of Header - Delivery Notice -->
+	
+	
+	<!-- Lightbox - Choose Delivery Date -->
+	<div id="cpl-delivery-calendar" class="cpl-lightbox cpl-centered">
+		<h2 class="cpl-lightbox-header">View our available delivery time slots for the next 5 days. You will be able to choose your preferred time slot during checkout. </h2>
+
+		<!-- Carousel -->
+		<div class="cpl-lightbox-calendar">
+			<div class="cpl-carousel-calendar-month flexslider  hidden">
+			<ul class="slides">
+					<li><fmt:formatdate value="Mon Dec 29 14:27:58 SGT 2014" pattern="MMMMMMMMMMMMMM YYYY"></fmt:formatdate></li>
+				</ul>
+			</div>
+			
+			<div class="cpl-carousel-calendar-day flexslider">
+				<ul class="slides" id="defaultSlot">
+					<li>
+							<div class="cpl-calendar-item" id="calendar-day">
+								<div class="cpl-calendar-item-day">December</div>
+								<div>Monday</div>
+								<div class="cpl-calendar-item-date">29</div>
+								<div class="cpl-calendar-item-times">
+									<p id="selectedSlot" class="cpl-disabled">0830-1230</p>
+									<p id="selectedSlot" class="cpl-disabled">1230-1730</p>
+									<p id="selectedSlot" class="cpl-disabled">1730-2030</p>
+									<p id="selectedSlot" class="cpl-disabled">2030-2230</p>
+									</div>
+							</div>
+						</li>
+					<li>
+							<div class="cpl-calendar-item" id="calendar-day">
+								<div class="cpl-calendar-item-day">December</div>
+								<div>Tuesday</div>
+								<div class="cpl-calendar-item-date">30</div>
+								<div class="cpl-calendar-item-times">
+									<p id="selectedSlot" class="cpl-disabled">0830-1230</p>
+									<p id="selectedSlot" class="">1230-1730</p>
+									<p id="selectedSlot" class="">1730-2030</p>
+									<p id="selectedSlot" class="">2030-2230</p>
+									</div>
+							</div>
+						</li>
+					<li>
+							<div class="cpl-calendar-item" id="calendar-day">
+								<div class="cpl-calendar-item-day">December</div>
+								<div>Wednesday</div>
+								<div class="cpl-calendar-item-date">31</div>
+								<div class="cpl-calendar-item-times">
+									<p id="selectedSlot" class="">0830-1230</p>
+									<p id="selectedSlot" class="">1230-1730</p>
+									<p id="selectedSlot" class="">1730-2030</p>
+									<p id="selectedSlot" class="">2030-2230</p>
+									</div>
+							</div>
+						</li>
+					<li>
+							<div class="cpl-calendar-item" id="calendar-day">
+								<div class="cpl-calendar-item-day">January</div>
+								<div>Thursday</div>
+								<div class="cpl-calendar-item-date">01</div>
+								<div class="cpl-calendar-item-times">
+									<p id="selectedSlot" class="">0830-1230</p>
+									<p id="selectedSlot" class="">1230-1730</p>
+									<p id="selectedSlot" class="">1730-2030</p>
+									<p id="selectedSlot" class="">2030-2230</p>
+									</div>
+							</div>
+						</li>
+					<li>
+							<div class="cpl-calendar-item" id="calendar-day">
+								<div class="cpl-calendar-item-day">January</div>
+								<div>Friday</div>
+								<div class="cpl-calendar-item-date">02</div>
+								<div class="cpl-calendar-item-times">
+									<p id="selectedSlot" class="">0830-1230</p>
+									<p id="selectedSlot" class="">1230-1730</p>
+									<p id="selectedSlot" class="">1730-2030</p>
+									<p id="selectedSlot" class="">2030-2230</p>
+									</div>
+							</div>
+						</li>
+					</ul>
+			</div>
+		</div>
+		<!-- Carousel -->
+		
+	</div>
+	<!--#end of Lightbox - Choose Delivery Date -->
+	
+	
+	
+<div class="cpl-header-nav">
+<ul id="cpl-main-nav" class="clearfix">
+	<li class="onsalenav">
+	<a href="/ChristmasCatalogue2014" title="Xmas">Xmas</a></li>
+<li class="">
+	<a href="/Health/c/Health" title="Health">Health</a><div class="cpl-dropdown-menu clearfix">
+		<ul class="cpl-dropdown-main cpl-col-2 clearfix">
+		<li>
+		<a class="linkComponent2" href="/Health/Vitamins-%26-Supplements/pl/Vitamins%20supplements" name="Vitamins &amp; Supplements">Vitamins &amp; Supplements</a><a class="linkComponent2" href="/Health/Health-Aids-%26-Equipment/First-Aid/pl/First%20aid" name="First Aid">First Aid</a><a class="linkComponent2" href="/Health/Health-Aids-%26-Equipment/pl/Health%20aids%20equipment" name="Health Aids &amp; Equipment">Health Aids &amp; Equipment</a><a class="linkComponent2" href="/Health/Chinese-Supplements/pl/Chinese%20medication" name="Chinese Supplements">Chinese Supplements</a><a class="linkComponent2" href="/Personal-Care/Eye-Care/pl/Eye%20care" name="Eye Care">Eye Care</a><a class="linkComponent2" href="/Personal-Care/Ear-Care/pl/Ear%20care" name="Ear Care">Ear Care</a><a class="linkComponent2" href="/Personal-Care/Insect-Repellent/pl/Insect%20repellent" name="Insect Repellent">Insect Repellent</a><a class="linkComponent2" href="/Health/Diet-%26-Nutrition/pl/Diet%20Nutrition" name="Diet &amp; Nutrition">Diet &amp; Nutrition</a><a class="linkComponent2" href="/Personal-Care/Family-Planning-For-Future-Mothers/pl/Family%20planning" name="Family Planning For Future Mothers">Family Planning For Future Mothers</a><a class="linkComponent2" href="/For-Men/Condoms-%26-Sexual-Health/pl/Condoms%20sexual%20health" name="Condoms &amp; Sexual Health">Condoms &amp; Sexual Health</a></li>
+		<li>
+						<h4>Popular Brands</h4>
+								<a href="/search?q=::brand:21st Century&amp;fromPage=brandsresultPage:21st Century" title="21st Century">21st Century</a><a href="/search?q=::brand:Blackmores&amp;fromPage=brandsresultPage:Blackmores" title="Blackmores">Blackmores</a><a href="/search?q=::brand:Ocean Health&amp;fromPage=brandsresultPage:Ocean Health" title="Ocean Health">Ocean Health</a><a href="/search?q=::brand:Shaklee&amp;fromPage=brandsresultPage:Shaklee" title="Shaklee">Shaklee</a><a href="/brands" title="More Brands">More Brands</a></li>
+						</ul>		
+		<div class="cpl-dropdown-side-bg"></div><div class="cpl-dropdown-side">
+			<ul class="cpl-col-1 clearfix">
+    <li>
+    <h4>Health tips &amp; advice</h4>
+    <a href="/Health-Tips/Ear%2C-Nose-%26-Throat/article/page_ah_choo_how_to_stay_away_from_colds_and_flu">How To Stay Away From Colds &amp; Flu</a> 									<a href="/Health-Tips/Travel-Medications/article/page_7_must_have_medications_when_travelling"> 7 Must-Have Medications When Travelling </a> 									<a href="/Health-Tips/Skin-Conditions/article/page_psoriasis_how_to_stop_that_itch">Psoriasis: How To Stop That Itch</a> 									<a href="/Health-Tips/General-Health/article/page_feeling_thirsty_dont_take_dehydration_lightly">Don’t Take Dehydration Lightly</a> 																	<a class="cpl-link" href="/Article-Root/ac/healthTips">More health tips &amp; advice </a></li>
+</ul></div>			
+		</div>
+	</li>
+<li class="">
+	<a href="/Beauty/c/Beauty" title="Beauty">Beauty</a><div class="cpl-dropdown-menu clearfix">
+		<ul class="cpl-dropdown-main cpl-col-2 clearfix">
+		<li>
+		<a class="linkComponent2" href="/Beauty/Derma-Skin-Care-Brands/pl/derma%20skin%20care%20brands" name="Derma Skin Care Brands">Derma Skin Care Brands</a><a class="linkComponent2" href="/Beauty/Face-Care/pl/Face%20care" name="Face Care">Face Care</a><a class="linkComponent2" href="/Beauty/Hair-Care/pl/Hair%20care" name="Hair Care">Hair Care</a><a class="linkComponent2" href="/Personal-Care/Lip-Care/pl/Lip%20care" name="Lip Care">Lip Care</a><a class="linkComponent2" href="/Personal-Care/Sun-Care/pl/Sun%20care" name="Sun Care">Sun Care</a><a class="linkComponent2" href="/Beauty/Derma-Sun-Care/pl/derma%20sun%20care" name="Derma Sun Care">Derma Sun Care</a><a class="linkComponent2" href="/Beauty/Makeup/pl/Makeup" name="Makeup">Makeup</a></li>
+		<li>
+						<h4>Popular brands</h4>
+								<a href="/search?q=::brand:Avene&amp;fromPage=brandsresultPage:Avene" title="Avene">Avene</a><a href="/search?q=::brand:Catrice&amp;fromPage=brandsresultPage:Catrice" title="Catrice">Catrice</a><a href="/search?q=::brand:L'Oreal Paris&amp;fromPage=brandsresultPage:L'Oreal Paris" title="L'Oreal Paris">L'Oreal Paris</a><a href="http://www2.guardian.com.sg/search?q=::brand:Maybelline&amp;fromPage=brandsresultPage:Maybelline" title="Maybelline">Maybelline</a><a href="/brands" title="More Brands">More Brands</a></li>
+						</ul>		
+		<div class="cpl-dropdown-side-bg"></div><div class="cpl-dropdown-side">
+			<ul class="cpl-col-1 clearfix">
+    <li>
+    <h4>Beauty tips &amp; advice</h4>
+    <a href="/Beauty-Tips/Wrinkles/article/page_8_ways_to_prevent_wrinkles">8 Ways To Prevent Wrinkles</a> 									   <a href="/Beauty-Tips/Skin-Care/article/page_ways_to_liven_up_your_skin">Ways To Liven Up Your Skin</a>
+<a href="/Beauty-Tips/Makeup/article/page_3_tips_on_finding_the_perfect_foundation">3 Tips On Finding The Perfect Foundation</a> 									<a class="cpl-link" href="/Article-Root/ac/beautyTips">More beauty tips &amp; advice </a></li>
+</ul></div>			
+		</div>
+	</li>
+<li class="">
+	<a href="/Personal-Care/c/Personal%20Care" title="Personal Care">Personal Care</a><div class="cpl-dropdown-menu clearfix">
+		<ul class="cpl-dropdown-main cpl-col-2 clearfix">
+		<li>
+		<a class="linkComponent2" href="/Beauty/Face-Care/pl/Face%20care" name="Face Care">Face Care</a><a class="linkComponent2" href="/Personal-Care/Lip-Care/pl/Lip%20care" name="Lip Care">Lip Care</a><a class="linkComponent2" href="/Personal-Care/Sun-Care/pl/Sun%20care" name="Sun Care">Sun Care</a><a class="linkComponent2" href="/Beauty/Hair-Care/pl/Hair%20care" name="Hair Care">Hair Care</a><a class="linkComponent2" href="/Personal-Care/Bath-%26-Body/pl/Bath%20body%20personal%20care" name="Bath &amp; Body">Bath &amp; Body</a><a class="linkComponent2" href="/Personal-Care/Oral-Care/pl/Oral%20care" name="Oral Care">Oral Care</a><a class="linkComponent2" href="/Personal-Care/Eye-Care/pl/Eye%20care" name="Eye Care">Eye Care</a><a class="linkComponent2" href="/Personal-Care/Feminine-Care/pl/Feminine%20care" name="Feminine Care">Feminine Care</a><a class="linkComponent2" href="/Personal-Care/Family-Planning-For-Future-Mothers/pl/Family%20planning" name="Family Planning For Future Mothers">Family Planning For Future Mothers</a><a class="linkComponent2" href="/Personal-Care/Female-Shaving-%26-Hair-Removal/pl/Female%20shaving%20hair%20removal" name="Female Shaving &amp; Hair Removal">Female Shaving &amp; Hair Removal</a></li>
+		<li>
+						<h4>Popular Brands</h4>
+								<a href="/search?q=::brand:Dove&amp;fromPage=brandsresultPage:Dove" title="Dove">Dove</a><a href="/search?q=::brand:Gatsby&amp;fromPage=brandsresultPage:Gatsby" title="Gatsby">Gatsby</a><a href="/search?q=::brand:Oral-B&amp;fromPage=brandsresultPage:Oral-B" title="Oral-B">Oral-B</a><a href="/search?q=::brand:Sebamed&amp;fromPage=brandsresultPage:Sebamed" title="Sebamed">Sebamed</a></li>
+						</ul>		
+		<div class="cpl-dropdown-side-bg"></div><div class="cpl-dropdown-side">
+			<ul class="cpl-col-1 clearfix">
+    <li>
+    <h4>Personal Care tips &amp; advice</h4>
+    <a href="/Health-Tips/General-Well-Being/article/page_managing_burns">Managing Burns</a> 									<a href="/Health-Tips/Insomnia/article/page_say_goodnight_to_insomnia">Say Goodnight To Insomnia</a> 									<a href="/Health-Tips/Infections/article/page_managing_skin_fungal_infection">Managing Skin Fungal Infection</a> 								<a class="cpl-link" href="/Article-Root/ac/personalCareTips">More personal care tips &amp; advice </a></li>
+</ul></div>			
+		</div>
+	</li>
+<li class="">
+	<a href="/Mother-%26-Baby/c/Mother%20baby" title="Mother &amp; Baby">Mother &amp; Baby</a><div class="cpl-dropdown-menu clearfix">
+		<ul class="cpl-dropdown-main cpl-col-2 clearfix">
+		<li>
+		<a class="linkComponent2" href="/Personal-Care/Family-Planning-For-Future-Mothers/pl/Family%20planning" name="Family Planning For Future Mothers">Family Planning For Future Mothers</a><a class="linkComponent2" href="/Mother-%26-Baby/Vitamins-%26-Supplements-for-Mothers-%26-Kids/pl/Vitamins%20supplements%20for%20mother%20kids" name="Vitamins &amp; Supplements for Mothers &amp; Kids">Vitamins &amp; Supplements for Mothers &amp; Kids</a><a class="linkComponent2" href="/Mother-%26-Baby/Bath-%26-Body-Care-For-Mothers-%26-Kids/pl/Bath%20body%20care" name="Bath &amp; Body Care For Mothers &amp; Kids">Bath &amp; Body Care For Mothers &amp; Kids</a><a class="linkComponent2" href="/Mother-%26-Baby/Diapers-%26-Wipes/pl/Diapers%20wipes" name="Diapers &amp; Wipes">Diapers &amp; Wipes</a><a class="linkComponent2" href="/Mother-%26-Baby/Nappy-Rash-Cream/pl/NappyRashCream" name="Nappy Rash Cream">Nappy Rash Cream</a><a class="linkComponent2" href="/Mother-%26-Baby/Baby-Food/pl/Baby%20food" name="Baby Food">Baby Food</a></li>
+		<li>
+						<h4>Popular Brands</h4>
+								<a href="/search?q=::brand:Similac&amp;fromPage=brandsresultPage:Similac" title="Similac">Similac</a><a href="/search?q=::brand:Desitin&amp;fromPage=brandsresultPage:Desitin" title="Desitin">Desitin</a><a href="/search?q=::brand:Enfagrow&amp;fromPage=brandsresultPage:Enfagrow" title="Enfagrow">Enfagrow</a><a href="/search?q=::brand:NAN&amp;fromPage=brandsresultPage:NAN" title="NAN">NAN</a><a href="/search?q=::brand:Pediasure&amp;fromPage=brandsresultPage:Pediasure" title="Pediasure">Pediasure</a><a href="/search?q=::brand:Drypers&amp;fromPage=brandsresultPage:Drypers" title="Drypers">Drypers</a><a href="/search?q=::brand:QV Kids&amp;fromPage=brandsresultPage:QV Kids" title="QV Kids">QV Kids</a><a href="/search?q=::brand:Karihome+&amp;fromPage=brandsresultPage:Karihome+" title="Karihome">Karihome</a><a href="/search?q=::brand:Gain IQ&amp;fromPage=brandsresultPage:Gain IQ" title="Gain IQ">Gain IQ</a></li>
+						</ul>		
+		<div class="cpl-dropdown-side-bg"></div><div class="cpl-dropdown-side">
+			<ul class="cpl-col-1 clearfix">
+    <li>
+    <h4>Mother &amp; Baby tips &amp; advice</h4>
+    <a href="/Health-Tips/Children/article/page_managing_childhood_allergies">Managing Childhood Allergies</a> 									<a href="/Mother-%26-Baby/Baby/article/page_infant_massage_the_secret_to_a_healthy_baby"> Home Tips Mother &amp; Baby Baby Infant Massage Infant Massage</a> 									<a href="/Mother-%26-Baby/Mother/article/page_11_common_skin_changes_during_pregnancy">Common Skin Changes During Pregnancy</a> 								<a class="cpl-link" href="/Article-Root/ac/motherBabyTips">More Mother &amp; Baby tips &amp; advice</a></li>
+</ul></div>			
+		</div>
+	</li>
+<li class="">
+	<a href="/For-Men/c/For%20Men" title="Men">Men</a><div class="cpl-dropdown-menu clearfix">
+		<ul class="cpl-dropdown-main cpl-col-2 clearfix">
+		<li>
+		<a class="linkComponent2" href="/Personal-Care/Male-Shaving/pl/Male%20Shaving" name="Male Shaving">Male Shaving</a><a class="linkComponent2" href="/Personal-Care/Male-Grooming/pl/Male%20Grooming" name="Male Grooming">Male Grooming</a><a class="linkComponent2" href="/For-Men/Condoms-%26-Sexual-Health/pl/Condoms%20sexual%20health" name="Condoms &amp; Sexual Health">Condoms &amp; Sexual Health</a><a class="linkComponent2" href="/For-Men/Fitness/pl/Fitness%20for%20men" name="Fitness">Fitness</a></li>
+		<li>
+						<h4>Popular Brands</h4>
+								<a href="/search?q=::brand:Gillette&amp;fromPage=brandsresultPage:Gillette" title="Gillette">Gillette</a></li>
+						</ul>		
+		<div class="cpl-dropdown-side-bg"></div><div class="cpl-dropdown-side">
+			<ul class="cpl-col-1 clearfix">    <li>    <h4>For Men tips &amp; advice</h4>    <a href="/Men/Men/article/page_get_the_perfect_shave_in_5_steps"> Get The Perfect Shave In 5 Steps</a> 																	<a class="cpl-link" href="/Article-Root/ac/menTips">More For Men tips &amp; advice</a></li></ul></div>			
+		</div>
+	</li>
+<li class="brandsnav">
+	<a href="/brands" title="Brands">Brands</a></li>
+<li class="onsalenav">
+	<a href="/promotions" title="Sale">Sale</a></li>
+<li class="newnav">
+	<a href="/newProducts" title="New">New</a></li>
+<li class="exclusivenavbar">
+	<a href="/search?q=%3Arelevance%3ACollection%3AExclusive&amp;text=Exclusive&amp;source=productList&amp;title=Exclusive&amp;fromPage=0" title="Exclusive">Exclusive</a></li>
+<li class="mydoc">
+	<a href="/Mydoc" title="MyDoc">MyDoc</a></li>
+</ul>
+</div></div>
+
+<script>
+	cartMaxCount = 20;
+</script><a id="skiptonavigation"></a>			
+			<div id="content" class="clearfix">
+			<a id="skip-to-content"></a>
+				<div id="cpl-content">
+	<div class="cpl-section-full clearfix">
+	<div id="breadcrumb" class="cpl-breadcrumb">
+		<span>
+		<a href="/">Home</a>
+	</span>
+
+	<span class="active">
+			<a href="#" onclick="return false;" class="last">Privacy Policy | Guardian Health &amp; Beauty</a>
+				</span></div>
+	<div class="cpl-column-1-5">
+		<ul class="cpl-nav-side">
+		</ul>
+	</div>
+	<div class="cpl-column-4-5">	
+	<div class="cpl-title">		
+		<h2 class="cpl-no-icon">Online Privacy Policy</h2>
+		</div>
+		<div class="content"><p>We take your privacy seriously and we will only collect and use personal data as stated in this Privacy Policy.</p> <h3><u>1.	Collection and use of personal data</u></h3> <p>1.1	We will only use or disclose your personal data with your consent or as authorised by applicable laws and regulations.  The personal data collected may include:</p> <ul class="cpl-ul">     <li>Name</li>     <li>NRIC/ Passport Number</li>     <li>Date of birth</li>     <li>Gender</li>     <li>Home address</li>     <li>Delivery address</li>     <li>Email address</li>     <li>Telephone/ Mobile number</li> </ul> <p>1.2	By creating an online account with us (whether directly or on your behalf), you consent to our collection, use and disclosure of your personal data for any or all of the purposes specified below:</p> <ul class="cpl-ul">     <li>Administer your online account with us</li>     <li>Provide the products or services purchased from us online (and for all other matters relating to such purchase)</li>     <li>Verify and carry out financial transactions in relation to payments made for online purchases from us</li>     <li>Managing, investigating or responding to feedback, request, claims or complaints provided or made by you</li>     <li>Audit the downloading of data from our website</li>     <li>Improve or customise the layout or content of our website</li>     <li>Identify visitors to our website</li> </ul> <p>1.3 With your consent, we may collect, use and disclose your personal data for any or all of the purposes specified below:</p> <ul class="cpl-ul">     <li>Deliver marketing or promotional materials relating to our products, services or special offers (and other information which you have requested)</li>     <li>Inform you of updates to this website</li>     <li>Provide information or services relating to our products, promotions or offers</li>     <li>Conduct market surveys, research or data mining</li> </ul> <p>1.4	Your personal data will be retained by us and will be accessible to our employees and third parties engaged by us for any of the purposes stated in this Privacy Policy.  You authorise us to (a) disclose all or any of your personal data to such third parties, and (b) collect your personal data from any other sources available to us (including credit referral agencies).</p> <p>1.5	Insufficient or incorrect personal data provided to us by you may result in delays or failure in providing the products or services purchased by you.</p> <h3><u>2.	Confidentiality of personal data</u></h3> <p>2.1	Personal data provided to us by customers or visitors to this website will be kept confidential and will only be disclosed for the purposes stated in this Privacy Policy. We may disclose personal data to third parties who perform certain tasks relating to the provision of our products or services to our customers or to visitors to this website. All such third parties are required by us to use the personal data strictly to provide the products or services, and are required to maintain the confidentiality of the personal data.</p> <p>2.2	Any questions, comments, suggestions or information (other than personal data) sent or posted to this website by customers or visitors will be deemed voluntarily provided to us on a non-confidential and non-proprietary basis. We may use, reproduce, disclose, transmit, publish, broadcast or post elsewhere such information in connection with the development, manufacture and marketing of products or services, to meet the needs of our customers or visitors or for any other purpose.</p> <p>2.3	We will only disclose your personal data without notice to you if required to do so by law, or in the good faith belief that such disclosure is necessary to:</p> <ul class="cpl-ul">     <li>Comply with legal process, or under compulsion of an order of court or governmental agency served on us or Cold Storage Singapore (1983) Pte Ltd</li>     <li>Protect our rights, property or safety or that of Cold Storage Singapore (1983) Pte Ltd, its employees, customers, visitors or others</li> </ul> <p>2.4	This Privacy Policy applies only to personal data collected via this website.  We are not responsible for the privacy practices or policies of other websites accessible via this website.  By activating a link (eg, by clicking on the banner of an advertiser), you leave this website and we do not have control over any personal data or any other information you give to any other person or entity after you have left this website.</p> <h3><u>3.	Information collected by cookies</u></h3> <p>3.1	Our website may pass a “cookie” (a string of information that is sent by a website to reside in your computer’s hard drive and/or temporarily in your computer’s memory). The purpose of a cookie is to tell the web server that you have returned to a particular page, to retain log-in information or to remember preferences and enhance your experience on our website. We may allow third parties to set cookies through our website in order to help us manage and analyze the performance of our website. You may set your browser to decline cookies.  If you do so, you may not be able to fully experience some interactive features of our website.</p> <h3><u>4.	Collection of computer data</u></h3> <p>4.1	When you visit this website, our company servers automatically records information that your browser sends whenever you visit a website. This information may include:</p> <ul class="cpl-ul">     <li>Your computer's IP address</li>     <li>Browser type</li>     <li>Websites visited before our website</li>     <li>Pages visited within our website (including time spent on those pages)</li>     <li>Other items and information searched for on our website, access times and dates etc</li> </ul> <p>4.2	This information is collected for analysis and evaluation in order to help us improve this website, and the services and products we provide. This information will not be used in association with any personal data.</p> <h3><u>5.	Access request; Withdrawal of consent; Updating of personal data</u></h3> <p>5.1		You may by contact us via email (<a href="mailto:GDDPO@guardian.com.sg">GDDPO@guardian.com.sg</a>) or by telephone (1800 891 8100)to (a) request for access to your personal data, (b) withdraw your consent to our use or disclosure of your personal data, or (c) terminate your online account with us.</p> <p>5.2	Requests to withdraw your consent to use or disclose your personal data may result in delays or failure to provide you with the products or services purchased from us.</p> <p>5.3	You may also update or correct your personal data by accessing your online account with us.</p> <h3><u>6.	Security of personal data</u></h3> <p>6.1	Personal data collected by us will be (a) safely and securely stored, and (b) disposed when no longer needed by us for business or legal purposes.</p> <h3><u>7.	Changes to Privacy Policy</u></h3> <p>7.1	We may change this Privacy Policy at any time without prior notice to our customers or visitors. Any changes to this Privacy Policy will be published on this website.</p> <h3><u>8.	Contact Us</u></h3> <p>8.1	If you have any questions about our data protection policy or practices, you may contact our Data Protection Officer via email (<a href="mailto:GDDPO@guardian.com.sg">GDDPO@guardian.com.sg</a>) or by telephone (1800 891 8100).</p></div></div>
+	</div>
+	</div>
+</div>
+			<div id="cpl-footer">
+<!-- Footer - Subscribe -->
+<div id="cpl-modal-subscribe" style="display: none;">
+			<div id="promptDiv">
+				<h2>Enjoy 10% OFF</h2>
+				<p class="cpl-font-lead">your first order by subscribing to our newsletter!</p>	
+				<div id="errorDiv"></div>			
+							<div class="cpl-input-btn-inline">							
+								<form:form id="emailSubscriptionForm" method="get" action="subscribe">
+									<input type="text" name="email" placeholder="Enter your email address" id="email">
+									<button type="submit" class="cpl-btn-submit" id="emailSubscriptionSubmit">Subscribe</button>
+									<input type="hidden" name="contextPath" id="contextPath" value="">
+								</form:form>
+							</div>
+							<span><small>By clicking the "Subscribe" button above, you consent to our collection, use and disclosure of your personal data in accordance with our&nbsp;<a href="/privacyPolicy" target="_blank">Privacy Policy</a></small></span>		
+										
+					</div>
+	<div id="subscriptionSuccess" class="hidden">
+		<h2>Thank you! </h2>
+		<p class="cpl-font-lead">We are happy to confirm your newsletter subscription.</p>
+		<p><br>Your 10% discount coupon has been sent to your email.</p>
+		<p><br><a class="cpl-btn-primary" href="javascript:;" onclick="blockMethod()">Start shopping	</a></p>
+	</div>
+<a class="cpl-modal-close" href="javascript:;"></a></div>
+	<script>
+function blockMethod()
+{
+	$("#cpl-modal-subscribe").css("display","none");	
+}
+</script><div id="subscribe-footer" class="cpl-footer-subscribe">
+		<div class="cpl-wrapper clearfix">			
+			<div class="cpl-lightbox-subscribe" id="subscriptionFooter">
+				<span class="cpl-subscribe-newsletter" id="cpl-subscribe">Get the latest news and offers. Subscribe to Guardian's newsletter.											   <br>
+				<span><small>By clicking the "Subscribe" button above, you consent to our collection, use and disclosure of your personal data in accordance with our&nbsp;<a href="/privacyPolicy" target="_blank">Privacy Policy</a></small></span>
+				 </span>
+		&nbsp;&nbsp; <span class="cpl-input-btn-inline">
+						<form:form id="emailSubscriptionForm" method="get" action="subscribe">
+							<input type="text" name="emailfooter" placeholder="Enter your email address" id="emailfooter">
+							<button type="button" value="Submit" class="cpl-btn-submit" id="emailSubscriptionSubmitFooter">Subscribe</button>
+							<input type="hidden" name="contextPathFooter" id="contextPathFooter" value="">
+						</form:form>
+				</span>
+				<div id="subscriptionErrorAlreadyExistFooter" class="footersuberr" style="display: none">
+				You are already subscribed !!!</div>
+			<div id="subscriptionErrorSavingErrorFooter" class="footersuberr" style="display: none">
+				Please enter valid email address.</div>
+			<div id="subscriptionSuccessFooter" class="footersuberr" style="display: none">
+				You have successfully subscribed!</div>			
+			</div>
+		</div>
+	</div>
+<script>
+function blockMethod()
+{
+	$("#cpl-modal-subscribe").css("display","none");	
+}
+</script><!--#end of Footer - Subscribe -->
+		
+<div class="cpl-footer-nav">
+<ul class="clearfix">
+<li>
+								<h3>About Guardian</h3>
+							<a href="/Aboutus" title="About us">About us</a><a href="/career_opportunities" title="Careers">Careers</a><a href="/GPCS" title="Patient Care Services">Patient Care Services</a><a href="/Webcam_pharmacy" title="Webcam Pharmacy">Webcam Pharmacy</a><a href="/Guardian_golden_senior_card" title="Golden Senior">Golden Senior</a><a href="/Staff_discount" title="Staff Discount">Staff Discount</a><a href="/page_mydoc_faqs" title="myDoc FAQ">myDoc FAQ</a><a href="/rewards" title="Rewards">Rewards</a></li>
+			<li>
+								<h3>Customer Service</h3>
+							<a href="/contact_us" title="Contact Us">Contact Us</a><a href="/Exchanges_and_refunds" title="Exchanges &amp; Refunds">Exchanges &amp; Refunds</a><a href="/my-account" title="My Account">My Account</a><a href="/Delivery" title="Delivery">Delivery</a><a href="/payment" title="Payment">Payment</a><a href="/online_perks" title="Online Perks">Online Perks</a></li>
+			<li>
+								<h3>Shop Online</h3>
+							<a href="/newProducts" title="New Arrivals">New Arrivals</a><a href="/promotions" title="On Sale">On Sale</a><a href="http://www.guardian.com.sg/search?q=%3Arelevance%3ACollection%3AExclusive&amp;text=%20&amp;source=productList&amp;title=Exclusive&amp;fromPage=0" title="Exclusive">Exclusive</a></li>
+			<li>
+								<h3>Tips &amp; Advice</h3>
+							<a href="/Article-Root/ac/healthTips" title="Health">Health</a><a href="/Article-Root/ac/beautyTips" title="Beauty">Beauty</a><a href="Article-Root/ac/motherBabyTips" title="Mother &amp; Baby">Mother &amp; Baby</a><a href="/Article-Root/ac/personalCareTips" title="Personal Care">Personal Care</a><a href="/Article-Root/ac/travelTips" title="Travel">Travel</a><a href="/Article-Root/ac/menTips" title="Men">Men</a><a href="/Article-Root/ac/pharmacistTips" title="Pharmacist">Pharmacist</a></li>
+			<div class="copyright"></div>
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">
+	/*<![CDATA[*/
+	window.olark
+			|| (function(c) {
+				var f = window, d = document, l = f.location.protocol == "https:" ? "https:"
+						: "http:", z = c.name, r = "load";
+				var nt = function() {
+					f[z] = function() {
+						(a.s = a.s || []).push(arguments)
+					};
+					var a = f[z]._ = {}, q = c.methods.length;
+					while (q--) {
+						(function(n) {
+							f[z][n] = function() {
+								f[z]("call", n, arguments)
+							}
+						})(c.methods[q])
+					}
+					a.l = c.loader;
+					a.i = nt;
+					a.p = {
+						0 : +new Date
+					};
+					a.P = function(u) {
+						a.p[u] = new Date - a.p[0]
+					};
+					function s() {
+						a.P(r);
+						f[z](r)
+					}
+					f.addEventListener ? f.addEventListener(r, s, false) : f
+							.attachEvent("on" + r, s);
+					var ld = function() {
+						function p(hd) {
+							hd = "head";
+							return [ "<",hd,"></",hd,"><", i,
+									' onl' + 'oad="var d=', g,
+									";d.getElementsByTagName('head')[0].", j,
+									"(d.", h, "('script')).", k, "='", l, "//",
+									a.l, "'", '"', "></",i,">" ].join("")
+						}
+						var i = "body", m = d[i];
+						if (!m) {
+							return setTimeout(ld, 100)
+						}
+						a.P(1);
+						var j = "appendChild", h = "createElement", k = "src", n = d[h]
+								("div"), v = n[j](d[h](z)), b = d[h]("iframe"), g = "document", e = "domain", o;
+						n.style.display = "none";
+						m.insertBefore(n, m.firstChild).id = z;
+						b.frameBorder = "0";
+						b.id = z + "-loader";
+						if (/MSIE[ ]+6/.test(navigator.userAgent)) {
+							b.src = "javascript:false"
+						}
+						b.allowTransparency = "true";
+						v[j](b);
+						try {
+							b.contentWindow[g].open()
+						} catch (w) {
+							c[e] = d[e];
+							o = "javascript:var d=" + g + ".open();d.domain='"
+									+ d.domain + "';";
+							b[k] = o + "void(0);"
+						}
+						try {
+							var t = b.contentWindow[g];
+							t.write(p());
+							t.close()
+						} catch (x) {
+							b[k] = o
+									+ 'd.write("'
+									+ p().replace(/"/g,
+											String.fromCharCode(92) + '"')
+									+ '");d.close();'
+						}
+						a.P(2)
+					};
+					ld()
+				};
+				nt()
+			})({
+				loader : "static.olark.com/jsclient/loader0.js",
+				name : "olark",
+				methods : [ "configure", "extend", "declare", "identify" ]
+			});
+	
+	/* custom configuration goes here (www.olark.com/documentation) */
+	olark.identify('8701-183-10-5315');/*]]>*/
+</script>
+<noscript>
+	<a
+		href="https://www.olark.com/site/8701-183-10-5315/contact"
+		title="Contact us" target="_blank">Questions? Feedback?</a> powered by
+	<a href="http://www.olark.com?welcome" title="Olark live chat software">Olark
+		live chat software</a>
+</noscript>
+<!-- end olark code --><li><h3>PAssion Card Perks</h3> <p><a href="/PA"><img src="/medias/PAssionCard-and-PAssion-POSB-Card-edited.jpg?context=bWFzdGVyfHJvb3R8MTAyNDV8aW1hZ2UvanBlZ3xoYjAvaDQ3Lzg4MTg3OTg4NTQxNzQuanBnfGM2MTJmN2Y3YzQ0ZGQ5YThkNDIxZjFiMzI0NDYwYzkzZmVlYmVlNmViYTJkOTQ0YWJiM2NkMzA3NTM5N2YwNjA" alt="PAssion Card"></a></p> <h3>Follow Us On</h3> <p><a target="_blank" href="https://www.facebook.com/guardiansg/info"><img src="/medias/facebook.jpg?context=bWFzdGVyfHJvb3R8MjQzM3xpbWFnZS9qcGVnfGg3YS9oYmEvODgxOTE1MTQzNzg1NC5qcGd8NjBmMDY4ODhkMDg4MGJhYmU1OTg2OGNiZDAzZDk4NTI5ZDU4YTRkZTZlOTlkZWM4NGYwZjQ0NTcxOTRiMGQ5OQ" alt="Facebook"></a></p></li>
+</ul>
+</div>
+<div class="cpl-footer-copyright">
+<div class="cpl-wrapper clearfix">
+	<div class="cpl-payment-methods">
+		<img title="Visa Card" src="/medias/visa.jpg?context=bWFzdGVyfHJvb3R8MjQ0MXxpbWFnZS9qcGVnfGg0Yi9oM2QvODgwNDkxOTY0MDA5NC5qcGd8NWU3ZGYxMzc1ODQ4M2Q0OTRkMjBhMTgwZWI0ZGIzNGEwYmZjOTgxN2M3NTA0MWNjNjFhYWQ4NGFkMmM4ZWZhMw" alt="Visa Card">
+<img title="Master Card" src="/medias/card-master.gif?context=bWFzdGVyfHJvb3R8MjA0NXxpbWFnZS9naWZ8aDMxL2g4MS84Nzk2MTM5OTEzMjQ2LmdpZnw1MGU1NThmOTFiYjBhNjIxN2ZhNWJlZWM2NjMzM2M4NWEzNDk0NzljYjA3N2I0MzM5NzkwZGE5ZjFlZTJmMTNi" alt="Master Card">
+<img title="card-jcb.jpg" src="/medias/card-jcb.jpg?context=bWFzdGVyfHJvb3R8NzQwNHxpbWFnZS9qcGVnfGgyYy9oMmQvODgwMDY4NTYyMTI3OC5qcGd8MzJiMjBhYmZjOWIzM2ZhNGY0MWMxZTBlZTQxOWM5YzM0ODUwZjBmMWE0MWZkOWY2OTY2NDVhMzAzZjJlNWQ1Zg" alt="card-jcb.jpg">
+<img title="card-amex.jpg" src="/medias/card-amex.jpg?context=bWFzdGVyfHJvb3R8OTczMXxpbWFnZS9qcGVnfGgxNC9oYWQvODgwMDY4NTg4MzQyMi5qcGd8MWRlOTlmMWY3ODZjYjkyNTY2NzYyYjk3ODFjMjgxYmIzNzdjOWU1YzJlNzkxOWVlY2U3ZGU4NmQ0OTQ3MzcyNQ" alt="card-amex.jpg">
+</div>
+	<div class="content"><div class="cpl-copyright"><a href="/privacyPolicy">Privacy Policy</a> &nbsp;|&nbsp; <a href="/termsConditions">Terms &amp; Conditions</a> 					© 2014 Guardian Health &amp; Beauty. All rights reserved.</div>
+<p>&nbsp;</p></div></div>
+</div>
+</div></div>
+		</div>
+
+	<form name="accessiblityForm">
+		<input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value="">
+	</form>
+	<div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
+
+	<!-- <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery-1.7.2.min.js"></script>
+<!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script> -->
+<script type="text/javascript" src="/_ui/desktop/common/js/html.js"></script>
+<script type="text/javascript">
+		/*<![CDATA[*/
+		
+		var ACC = { config: {} };
+			ACC.config.contextPath = "";
+			ACC.config.commonResourcePath = "/_ui/desktop/common";
+			ACC.config.themeResourcePath = "/_ui/desktop/theme-guardian";
+			ACC.config.siteResourcePath = "/_ui/desktop/site-guardian";
+			ACC.config.language = "en";
+			ACC.config.rootPath = "/_ui/desktop";
+			ACC.config.CSRFToken = "bc3188dc-da03-40dc-a4eb-e0a0665edf37";
+			ACC.pwdStrengthVeryWeak = 'Very weak';
+			ACC.pwdStrengthWeak = 'Weak';
+			ACC.pwdStrengthMedium = 'Medium';
+			ACC.pwdStrengthStrong = 'Strong';
+			ACC.pwdStrengthVeryStrong = 'Very strong';
+			ACC.pwdStrengthUnsafePwd = 'password.strength.unsafepwd';
+			ACC.pwdStrengthTooShortPwd = 'Too short';
+			ACC.pwdStrengthMinCharText = 'Minimum length is %d characters';
+			ACC.accessibilityLoading = 'Loading... Please wait...';
+			ACC.accessibilityStoresLoaded = 'Stores loaded';
+
+			
+		/*]]>*/
+	</script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.query-2.1.7.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.jcarousel-0.2.8.min.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.tmpl-1.0.0pre.min.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.blockUI-2.39.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.colorbox.custom-1.3.16.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.slideviewer.custom.1.2.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.waitforimages.min.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.scrollTo-1.4.2-min.js"></script>
+
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.form.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.bgiframe-2.1.2.min.js"></script>
+<!--[if IE]><script type="text/javascript" src="/_ui/desktop/common/js/excanvas-r3.compiled.js"></script><![endif]-->
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.bt-0.9.5-rc1.min.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.pstrength.custom-1.2.0.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.common.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.userlocation.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.track.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.cms.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.product.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.refinements.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.storefinder.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.carousel.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.autocomplete.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.pstrength.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.password.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.minicart.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.pickupinstore.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.userlocation.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.langcurrencyselector.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.paginationsort.js"></script>
+
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.checkout.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.cartremoveitem.js"></script>
+
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.address.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.refresh.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.stars.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.forgotpassword.js"></script>
+
+
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery.accessible-tabs-1.9.7.min.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.productDetail.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.producttabs.js"></script>	
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.populateAddress.js"></script>	
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.populateCalendar.js"></script>	
+
+
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.skiplinks.js"></script>
+
+<!--  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>  -->
+<!-- <script type="text/javascript">window.jQuery || document.write('<script src="/_ui/desktop/common/js/jquery-1.9.1.min.js"><\/script>')</script> -->
+<!-- <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script> -->
+
+<script type="text/javascript" src="/_ui/desktop/common/js/jquery-ui-1.9.2.custom.min.js"></script>
+
+<script type="text/javascript" src="/_ui/desktop/common/js/plugins.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/main.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/modernizr-2.6.2.min.js"></script>
+<script type="text/javascript" src="/_ui/desktop/common/js/acc.email.subscription.js"></script>
+
+<input type="hidden" id="feedbackid" value="82616b05">
+	<script type="text/javascript" async="" src="https://ssl.widgets.webengage.com/js/widget/webengage-min-v-4.0.js"></script><script id="_webengage_script_tag" type="text/javascript">
+  var _weq = _weq || {};
+  _weq['webengage.licenseCode'] = document.getElementById("feedbackid").value;
+  _weq['webengage.widgetVersion'] = "4.0";
+  
+  (function(d){
+    var _we = d.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (d.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+    var _sNode = d.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  })(document);
+</script>
+
+
+
+</body></html>
