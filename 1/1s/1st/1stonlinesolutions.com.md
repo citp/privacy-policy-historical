@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 1stonlinesolutions.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604020149id_/http%3A//www.1stonlinesolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1stonlinesolutions.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229153520id_/http%3A//www.1stonlinesolutions.com/%23%21/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy First Online Solutions
+# First Online Solutions - Web design, UX and SEO
+
+## Privacy Policy First Online Solutions
 
 We, at First Online Solutions Ltd. treat the privacy of our visitors with the highest importance. This policy details the measures we take to preserving and safely guarding your privacy when you visit or communicate with our site or personnel. The Privacy Policy here has been approved and provided by the legal advice resource Legal Centre.
 
@@ -56,10 +58,87 @@ Primarily, we collect and store data about you to help us provide better service
 
 
 
-  * London, United Kingdom
-  * Melbourne, Victoria, Australia
-  * Austin, TX, USA
-  * Varna, Bulgaria
-  * Sofia, Bulgaria
+×
+
+## Payment and Cancellation Policies
+
+Below you will find our current payment and refund / replacement policy. Please read it carefully as this is the official policy in force at the present time. The policy listed below supersedes any other written document you may have received prior to today's date. If you have any questions or comments about this policy, please do not hesitate to contact us.
+
+## Current Payment Policy
+
+Effective immediately, the following payment policy MUST be adhered to. THERE ARE NO EXCEPTIONS, ALL FIRST ONLINE SOLUTIONS LTD. CLIENTS MUST READ, UNDERSTAND AND ADHERE TO THIS POLICY except by other written arrangements approved by FIRST ONLINE SOLUTIONS LTD. Late charges apply (see below).
+
+Our typical policy is to collect payment on the date of service when we visit your office or residence to provide a service or deliver products. If you are on a VIP-plan, and you purchase any products and/or services from us that are not covered by the VIP-plan, and we visit your office to install these non-covered products and/or provide non-covered services, you may pay the technician the full amount due for said products, services and mileage charges in cash or by check before the technician leaves your office. If you do not pay in full before the technician leaves the office, we will bill you for non-covered products and services. Late charges apply (see below).
+
+In the case of products or services ordered online and delivered by Internet, e-mail or postal mail, payment MUST BE RECEIVED BEFORE PRODUCT IS DELIVERED TO YOU.
+
+If, for any reason, we send an invoice to you for any products or services, regardless if you are on a VIP-plan or not, payment must be sent within 5 business days of your receipt of the invoice, unless other FIRST ONLINE SOLUTIONS LTD approved arrangements have been made ahead of time. Late charges apply (see below).
+
+### LATE CHARGES:
+
+ALL payments such as invoices, visit fees, service charges and mileage charges described in the above policy MUST BE RECEIVED BY FIRST ONLINE SOLUTIONS LTD immediately upon completion of said services for any services or products delivered in person (or within 5 business days from the day you received an invoice) or late fees in the amount of 10% of the outstanding total will be assessed. This applies to ALL clients, without exception.
+
+Non-payment may result in your account being sent to collections, your credit standing with us being downgraded and possible litigation to recover payment. If you have questions or concerns, or you feel that you have been charged incorrectly, please contact us IMMEDIATELY so that we can work together to find a solution.
+
+We prefer to work payment issues out in a positive way and we try not to resort to sending payments to collections or small-claims unless we have no recourse.
+
+### Current Refund / Replacement Policy
+
+ALL sales (including VIP-plans) are final. We do not offer refunds on any service packages at this time.
+
+If the products, support or services you purchased from us do not meet your needs, please contact us immediately and we will work with you to add the features you want or to correct any perceived issues.
+
+If you are dissatisfied with the level of support you are receiving from us after purchasing one of our products or services, please contact us with your concerns so that we can address this issue immediately. We value you as a client and strive for your satisfaction.
+
+×
+
+## Terms and Conditions First Online Solutions
+
+  1. RIGHTS AND OBLIGATIONS
+    1. 1st Online Solutions ltd shall perform the services, specifically described in the Package of services, as specified by CLIENT.
+    2. CLIENT shall provide 1st Online Solutions ltd all information and materials necessary for 1st Online Solutions ltd to provide the Services. Such information and materials provided by CLIENT shall not be unlawful, harmful, abusive, hateful, obscene, threatening, defamatory, or in any way infringes third party rights. 1st Online Solutions ltd may refuse to use any such information and materials in its discretion.
+    3. CLIENT shall pay to 1st Online Solutions ltd the fees for the services set out in section III of this Agreement as selected by CLIENT, plus VAT.
+    4. 1st Online Solutions ltd shall issue a valid invoice to CLIENT and CLIENT shall pay 1st Online Solutions ltd, within seven (7) days of receipt of such invoice. 1st Online Solutions ltd may charge CLIENT interest on any overdue amount at the rate of 3% above the base lending rate of the Bank of England.
+    5. Upon request by CLIENT, 1st Online Solutions shall provide to CLIENT Monthly reports in writing, not later of the 10th day of the month following such request, for all activities 1st Online Solutions performed under this this agreement. CLIENT may elect to receive such reports via email, post or both.
+    6. 1st Online Solutions has right to use any information available on or through the CLIENT’s website(s) and to receive any information from the CLIENT, in order to provide the right level of promotion to the CLIENT. Such information shall include without limitation the CLIENT’s: registered address, trading address, telephone number, photos of the company, trade marks, logos, all information relating to the CLIENT and the services and products the CLIENT produces and sells.
+    7. 1st Online Solutions have the right to receive and use information regarding pre-sales, promotions, best products, campaigns, profitability of products and images and launch dates necessary for the performance of this agreement.
+    8. Both parties agreed all the information including CLIENT information, account access, etc. is considered CONFIDENTIAL INFORMATION and will be used only for the purpose of the performance of this Agreement.
+    9. CLIENT agrees that 1st Online Solutions as the consultant party may contact the CLIENT to provide information about new technologies and services 1st Online Solutions and its partners provide.
+  2. AGREEMENT TERMINATION
+    1. This Agreement shall commence on the effective date and shall continue until terminated by either party in accordance with the terms of this Agreement.
+    2. This Agreement may be terminated for any reason by either party by providing the other party with at least 30 days’ written notice.
+    3. This Agreement may be terminated by the non-breaching party immediately upon written notice of such material breach of a provision of this Agreement. For the avoidance of doubt, late payment shall be deemed a material breach of this Agreement.
+    4. 1st Online Solutions reserves the right to change this agreement with 30 days’ notice to the CLIENT in writing.
+  3. PACKAGES: All packages will be confirmed between 1st Online Solutions and the CLIENT
+  4. LICENCE
+    1. CLIENT hereby grants to 1st Online Solutions a revocable, non-exclusive, non-transferable, royalty free licence to use any text, images, logos, trademarks, service marks, promotional materials, product or service information, comments, reviews, photos, audio and video clips and other materials or information of the CLIENT, including without limitation information included on or through the CLIENT’s website(s), solely for the purposes of providing the services under this Agreement.
+  5. WARRANTIES AND REPRESENTATIONS
+    1. CLIENT warrants and represents that: 
+      1. it has the full right, power and authority to enter into and perform this Agreement
+      2. all the information provided by CLIENT, or on or through the CLIENT’s website(s), to 1st Online Solutions for 1st Online Solutions to perform the services under this Agreement will not infringe the rights of third parties, including the intellectual property rights, is not defamatory and is not likely to bring 1st Online Solutions into disrepute
+      3. will at all times comply with all applicable laws and regulations.
+    2. CLIENT shall indemnify 1st Online Solutions and hold 1st Online Solutions harmless from any claim, damage or other costs and other expenses arising out of any breach or alleged breach of Affiliate’s warranties set out in Clause 16. 
+  6. LIMITATION OF LIABILITY
+    1. 1st Online Solutions will not be liable for indirect, special or consequential damages (or any loss of revenue, profits or data) arising in connection with the performance of this Agreement, even if 1st Online Solutions has been advised of the possibility of such damages.
+    2. 1st Online Solutions’s collective aggregate liability arising under this Agreement will not exceed the total FEES paid or payable to CLIENT in the calendar year in which the act or omission giving rise to the liability occurred.
+    3. Nothing in this Agreement shall exclude or limit either party’s liability for (i) death or personal injury caused by the other parties’ negligence, (ii) fraud, or (iii) fraudulent misrepresentation.
+  7. Confidentiality
+    1. Any technical, financial, business or other information provided by 1st Online Solutions to CLIENT and designated as confidential or which should reasonably be understood to be confidential (“Confidential Information”) shall be held in confidence and not disclosed by Affiliate and shall not be used except to the extent necessary to carry out Affiliate’s obligations under this Agreement.
+    2. The obligation in this Clause shall not apply to information that (a) is generally and freely publicly available through no fault of CLIENT; (b) affiliate otherwise rightfully obtains from third parties without restriction; or (c) is independently developed by employees of CLIENT with no knowledge of or access to the Confidential Information.
+    3. CLIENT shall not be liable for the disclosure of Confidential Information if made in response to a valid order of a court or authorised body, provided Affiliate gives 1st Online Solutions prior notice of such disclosure.
+    4. The obligations under this Clause shall survive for so long as the information remains Confidential Information.
+  8. Independent Contractors
+    1. The parties to this Agreement are independent contractors. No relationship of principal to agent, employer to employee or franchisor to franchisee is hereby established or intended to be established between the parties.
+    2. Neither party shall have the right, power or authority to assume, create or incur any expenses, liability or obligation, express or implied, on behalf of the other, except as expressly provided herein.
+    3. This Agreement shall not be construed as creating or constituting a partnership, joint venture or agency relationship between the parties.
+  9. General
+    1. Neither party may assign this Agreement without the written consent of the other party.
+    2. This Agreement constitutes the entire understanding and agreement between the parties in relation to the subject matter of this Agreement.
+    3. Each party acknowledges that it has not entered into this Agreement in reliance wholly or partly on any representation or warranty made by or on behalf of the other party (whether orally or in writing) other than expressly set out in this Agreement.
+    4. No delay, neglect or forbearance of the part of either party in enforcing against the other party any term of condition of this Agreement shall either be deemed to be a waiver or in any way prejudice any right of that party under this Agreement. No waiver of any right, power or remedy arising under this Agreement is effective unless in writing signed by a duly authorised officer or representative of each of the parties.
+    5. A person who is not party to this Agreement has no right under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this Agreement.
+    6. This Agreement shall be governed by, and construed in accordance with, English law. Any dispute arising out of or in connection with, or concerning the carrying into effect of, this Settlement Agreement shall be subject to the exclusive jurisdiction of the English Courts, and the parties hereby submit to the exclusive jurisdiction of that court for these purposes
 
 
+
+×
