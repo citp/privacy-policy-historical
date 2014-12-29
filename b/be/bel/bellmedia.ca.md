@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellmedia.ca privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626014637id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellmedia.ca privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229074118id_/http%3A//support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy) for the most accurate reproduction.*
 
 # How does Bell respect my privacy? : Privacy at Bell
 
@@ -8,11 +8,11 @@
 
 The Bell companies have long been committed to maintaining the accuracy, confidentiality, security and privacy of your information. Our long-standing commitment to safeguarding your right to privacy has led to our reputation as a leader in the protection of customer privacy. To continue to earn your trust, we want to keep you up-to-date on your rights as our customer and on how the Bell companies use and safeguard your personal information. Our representatives undergo privacy training to ensure they are aware of your rights.
 
-[Download the full text of the Bell Privacy Policy](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf) (PDF - 354K)
+[Download the full text of the Bell Privacy Policy (PDF 208.26 KB)](https://web.archive.org/_web/guides/Common/Legal/bcfip\(en\).pdf) (PDF - 354K)
 
 Bell has also developed a privacy policy specific to Bell Mobility’s Finder Services.
 
-[Download the full text of the Privacy Policy for Bell's Finder services](https://web.archive.org/_web/guides/Common/Legal/privacy\(en\).pdf?ver=23.0%20target=) (PDF - 35K).
+[Download the full text of the Privacy Policy for Bell's Finder services (PDF 34.16 KB)](https://web.archive.org/_web/guides/Common/Legal/privacy\(en\).pdf?ver=23.0%20target=) (PDF - 35K).
 
 **Bell's Privacy Policy applies to all employees and agents of the Bell companies.**
 
@@ -157,6 +157,7 @@ This may include search terms that have been used.
   * Calling patterns
 
   
+  
 Account information:  
 ---  
   
@@ -230,11 +231,6 @@ We therefore ask for your patience and understanding when you are asked to confi
 
 Last Update:09/05/2014
 
-  
-
-
-## Common privacy concerns
-
 **Does Bell monitor client Internet usage?**
 
 Bell does not usually monitor your use of the service or the content of your emails. However, similar to other Internet service providers, Bell reserves the right to do so from time to time.
@@ -253,12 +249,6 @@ Some of the things that will trigger monitoring of your use include:
 Bell may also use information about your account and network usage for other purposes, such as developing new business and marketing reports and improving the relevance of the ads and marketing partner offers we show you.  We will not share any information that identifies you personally outside of Bell Canada and its affiliates.
 
 You can [view your Bell Internet Service Agreement online](http://bell.ca/Legal_residential_services/Bell_Internet_and_Value_Added_Services.tab).
-
-**What is Deep Packet Inspection (DPI) and what does it have to do with the Internet?**
-
-Deep packet inspection or DPI is a technology used in the industry to examine the types of traffic going across a network, but not the content. During peak periods, Bell uses DPI to identify peer-to-peer (P2P) file sharing traffic which is less time sensitive than other real-time sensitive applications, such as Web browsing or video streaming. Because P2P file sharing applications are less time sensitive, they can be slowed when Internet traffic becomes congested during peak periods without interrupting use of the service.
-
-When Bell uses DPI as part of its traffic management measures during peak periods of Internet usage, we do not examine the actual content of traffic and we only collect, for a limited time, your IP address. For example, we do not know the content of your communications nor your search activities. However, for traffic management to work properly, we use DPI technology to assess traffic data along with each IP address to determine what type of traffic it is so that we can treat it accordingly (e.g. if it is P2P file sharing traffic, we may slow it down during times of peak Internet usage to support other activities like Web browsing and video streaming). Once the traffic has been sorted by type for traffic management purposes, it is not retained as part of the usage pattern of any IP address.
 
 Find out more about [Bell's Network Management Policy](http://support.bell.ca/Internet/Usage/Network-management).
 
@@ -302,7 +292,7 @@ Last Update:09/05/2014
 
 **What privacy enhancing services does Bell offer?**
 
-[Bell offers a number of services](http://bell.ca/Home_phone/Calling_features/Control_your_calls.tab), such as Call Display, Call Privacy and Call Blocking, to help balance the privacy interests of customers and the people they call. You can also find information about these services in the introductory pages of the telephone directory, by calling **310-BELL** (2355) or by visiting a Bell store.
+[Bell offers a number of services](http://bell.ca/Home_phone/Calling_features/Control_your_calls.tab), such as Call Display, Call Privacy and Call Blocking, to help balance the privacy interests of customers and the people they call. You can also find information about these services in the introductory pages of the telephone directory, by calling **1 866 310-BELL** (2355) or by visiting a Bell store.
 
 Last Update:09/05/2014
 
@@ -319,7 +309,7 @@ Persons making telephone or fax telemarketing calls must:
 
   * Identify themselves, the name of the telemarketer, and the name of the client when the call is being made by a telemarketer on behalf of a client.
   * Display the originating phone number or an alternative number where the telemarketer can be reached, unless number display is not available for technical reasons. The telemarketer’s fax number, name, address and phone number must also appear on the fax.
-  * Upon request, remove your name and phone number from their calling or fax lists within 31 days (your request must remain in effect for three years).
+  * Upon request, remove your name and phone number from their calling or fax lists within 14 days (your request must remain in effect for three years).
   * Upon request, provide a representative’s name, toll-free phone number and address for both the telemarketing organization and, if applicable, its client to whom you can call or write to ask questions, make comments, or to make or verify a Do Not Call request.
   * For faxes only, provide the originating date and time of the fax.
 
@@ -342,7 +332,7 @@ Note: To register on the National Do Not Call List by phone, TTY device, or by f
 
 There is no charge to register your number(s) on the National Do Not Call List. Your number(s) will remain on the National Do Not Call List for three years.
 
-All telephone or fax telemarketing calls that are not subject to one of the exemptions listed below should cease 31 days after you register your number on the National Do Not Call list, except when you have provided an organization with express consent to call you.
+All telephone or fax telemarketing calls that are not subject to one of the exemptions listed below should cease 14 days after you register your number on the National Do Not Call list, except when you have provided an organization with express consent to call you.
 
 The following types of calls are exempt from the National Do Not Call List rules:
 
@@ -357,7 +347,7 @@ The following types of calls are exempt from the National Do Not Call List rules
 
 **Bell** **’s telemarketing activities**
 
-If you wish to be added to Bell’s internal Do Not Call List, please notify any Bell customer service representative who will action your request immediately. In keeping with National Do Not Call List rules, all Bell marketing lists will be updated within 31 days.
+If you wish to be added to Bell’s internal Do Not Call List, please notify any Bell customer service representative who will action your request immediately. In keeping with National Do Not Call List rules, all Bell marketing lists will be updated within 14 days.
 
 **Complaints regarding telephone or fax telemarketing**
 
@@ -390,7 +380,7 @@ The use of ADADs to make telemarketing calls is prohibited, except where you hav
 
 ADADs used to make calls for purposes other than telemarketing must:
 
-  * Begin with a clear message identifying the person on behalf of whom the call is being made (this identification statement should include both a mailing address and a toll-free number of a call-back line).
+  * Begin with a clear message identifying the person on behalf of whom the call is being made. This identification statement should include an email or a mailing address and a local or toll-free telephone number where a representative of the originator of the message can be reached.
   * Repeat the identification statement at the end of the call if the call exceeds 60 seconds.
   * Display the originating number or an alternative number where the caller can be reached, unless number display is not available for technical reasons.
   * In the case of a survey, identify either the survey company or its client.
@@ -427,7 +417,7 @@ Some of our customers have had calls from fraudulent telemarketing “operators�
 If you get a suspicious call:
 
   * Do not give out your personal information. Legitimate companies will never call or email their customers requesting information such as passwords, bank account information or a credit card number, unless they are responding directly to an inquiry you know you have made.
-  * If you suspect that you are speaking with a fraudulent telemarketer, you should end the call and contact the business or organization through its regular channels, for example, **310-BELL (2355)**.
+  * If you suspect that you are speaking with a fraudulent telemarketer, you should end the call and contact the business or organization through its regular channels, for example, **1 866 310-BELL (2355)**.
   * Beware of being directed to websites that “look” like the sites from legitimate organizations – it is always best to access the site of a legitimate organization from its direct homepage, e.g. bell.ca.
 
 
