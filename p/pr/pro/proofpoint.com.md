@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proofpoint.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630043323id_/http%3A//www.proofpoint.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proofpoint.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229015433id_/http%3A//www.proofpoint.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Proofpoint Privacy Policy
 
