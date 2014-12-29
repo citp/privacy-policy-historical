@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630131435id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229130529id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Dell
 
@@ -81,7 +81,7 @@ You may choose to receive or not receive marketing communications from Dell by i
 
 Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.
 
-#### [](https://web.archive.org/web/20140630131435id_/http%3A//www.dell.com/learn/us/en/uscorp1/spredir.ashx/solutions/cat-intro-privacy-statement?catid=policies-privacy)Collection and Use of Children's Personal Information
+#### [](https://web.archive.org/web/20141229130529id_/http%3A//www.dell.com/learn/us/en/uscorp1/spredir.ashx/solutions/cat-intro-privacy-statement?catid=policies-privacy)Collection and Use of Children's Personal Information
 
 Dell takes children's privacy seriously. We do not knowingly collect personal information from children under the age of 13 through our websites. If you are under 18 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian. 
 
