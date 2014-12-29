@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the owneriq.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625095019id_/http%3A//owneriq.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owneriq.net privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229190257id_/http%3A//owneriq.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OwnerIQ
 
