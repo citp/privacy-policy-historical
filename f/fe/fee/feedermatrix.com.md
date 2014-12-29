@@ -1,43 +1,25 @@
-> *The following text is extracted and transformed from the feedermatrix.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedermatrix.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229035512id_/http%3A//www.feedermatrix.com/privacy.php) for the most accurate reproduction.*
 
-# The Best Reseller Program!
+# FeederMatrix - Privacy
 
-[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/index.php)[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/details.php)[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/reg.php)[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/faq.php)[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/sendmail.php)[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/account.php)  
-| 
+### **What information about you do we gather and maintain?**
 
-## Privacy
+In order to operate this website, we need to collect and maintain your name and e-mail address, along with a password of your choosing. For administrative purposes we also make use of HTTP cookies, as explained below. 
 
-**Privacy Policy**
+### **How do we use the information we maintain?**
 
-> Protecting your privacy is important to us. We hope the following statement will help you understand how the feedermatrix collects, uses and safeguards the personal information you provide to us on our site.
+Your name, e-mail address, and password are used to uniquely indentify, and control access to, your account. We also use your e-mail address to communicate with you regarding this website, and to facilitate the upline and downline communications. Other information we track, such as HTTP cookies, are used to prevent abuse of the program.
 
-> **Names & Email Addresses & Other Personal Information Collected Online**  
->  When consumers browse our Web site, we may collect their information when they have filled out one of our forms or have contacted us? Personal information that is collected would be submitted by the consumer in regards to receiving a free report or participating in a survey. Personal information would also be collected from consumers who order from our website and it would also be collected from individuals who participate in our affiliate program.
+### **With whom do we share your private information?**
 
-> **Your Collected Information Is Protected**  
->  Any personal information that is collected online through our website is always kept private. At no time will your personal information ever be shared, sold or viewed by a third party at anytime. We value your privacy and have taken measures to assure that your information remains private.
+****We do not rent or sell our members' names or e-mail addresses to third parties. All personal information is used solely for the purposes of administering this website. As noted above, your e-mail address will be used for upline and downline communication.
 
-> **Receiving Communications From Our Website**  
->  When personal information is collected from our website, the individual who has entered their information is agreeing to receive emails from our website from time to time. These emails may contain specials, newsletters, free reports, free giveaways, etc. When receiving these emails, the individual understands that they have granted us permission to send such emails when they have filled out our online forms, have purchased from us or have become a reseller of our website.
+**
 
-> **Questions Regarding Our Privacy Policy**  
->  If a member has a question regarding our privacy policy or wants further information about our privacy policy, they may contact me by [email us](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/sendmail.php?ref=) for an immediate response. Please indicate in the subject line if it is a question or concern and describe it completely in the text body of the email. 
+### How do we protect your privacy?
 
-> **How We Protect Your Information Online**  
->  When and individual fills out a form on or website or participates in our program, their personal information which is collected is stored directly to the servers database. All databases are secured and password protected assuring your information remains secure. When placing an order on our website with payment, all orders are process through SSL secured web pages through Alertpay payment gateway. 
+**
 
-> **Changes Made To Our Privacy Policy**  
->  From time to time, we make changes to our privacy policy. All changes to our privacy policy will be posted here, and it is the consumer's responsibility to frequently check our privacy policy for such changes.
+Member's personal information is stored on servers which are protected by stringent security measures. We make every effort to ensure this information remains uncompromised. Individual members' information is protected by the passwords they choose, so it is essential that members choose passwords that cannot be easily guessed. 
 
-| 
-
-[](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/reg.php)  
-  
----|---  
-    
-  
-  
-  
-**[Disclaimer](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/earning.php)      [Terms](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/rules.php)      [Privacy](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/privacy.php)      [FAQ’s](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/faq.php)      [Contact Us](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/sendmail.php)      [Login](https://web.archive.org/web/20140625124656id_/http%3A//www.feedermatrix.com/account.php)     **
-
-Copyright 2011-2015 FeederMatrix.com All Rights Reserved.    
+Please be aware, however, that this website cannot be held responsible for the privacy policies of websites to which we may link. 
