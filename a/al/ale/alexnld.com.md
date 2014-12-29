@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alexnld.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404044101id_/http%3A//alexnld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexnld.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229153059id_/http%3A//alexnld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Alex NLD - Free Worldwide Shipping
+# Privacy Policy | Alex NLD
 
 **Privacy Policy**
 
