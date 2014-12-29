@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221074004id_/http%3A//www.timeinc.net/subs/privacy/sk/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikids.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229173207id_/http%3A//www.timeinc.net/subs/privacy/sk/policy.html) for the most accurate reproduction.*
 
 # SPORTS ILLUSTRATED KIDS Privacy Notice
 
@@ -9,7 +9,7 @@
 * The Information We Collect
 * How We Use and Share the Information 
 * Privacy Options
-* Your California Privacy Rights
+* Your California Privacy Rights: Notice to California Customers
 * Collection of Information by Third-Party Sites and Sponsors
 * Cookies
 * Our Commitment to Security
@@ -76,7 +76,7 @@ Time Inc. sites will not use or transfer personally identifiable information pro
 | back to top  
   
 **Your California Privacy Rights: Notice to California Customers**  
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please click here, or for email please click here. To find out more about your opt-out rights, please contact us as described in the " **How to Contact Us**" section below.  |    
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://subscription.timeinc.com/storefront/privacy/sik/generic_privacy_form_offline.html?dnp-source=E), or for email please [click here](https://subscription.timeinc.com/storefront/privacy/sik/generic_privacy_form_online.html?dnp-source=E). To find out more about your opt-out rights, please contact us as described in the " **How to Contact Us**" section below.  |    
   
 **Collection of Information by Third-Party Sites and Sponsors**  
 Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy policies, as we have no control over information that is submitted to, or collected by, these third parties. 
