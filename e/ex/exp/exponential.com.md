@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624040432id_/http%3A//exponential.com/our-company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exponential.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229152412id_/http%3A//exponential.com/our-company/privacy) for the most accurate reproduction.*
 
-# Privacy « Exponential InteractiveExponential Interactive
+# Privacy - Exponential InteractiveExponential Interactive
 
 _Updated on September 6, 2012_
 
@@ -13,7 +13,7 @@ Exponential Interactive, Inc. (“Exponential”) is a technology-enabled media 
 
 Our product offerings and services currently include Adotube, AppSnack, Firefly Video, FullTango, TechBargains and Tribal Fusion (together, referred to herein as our “Services”). For a full description of these Services please see our website at [www.exponential.com](http://www.exponential.com/).
 
-At Exponential we believe that safe, secure and respectful practices regarding the use of consumer information are fundamental to our business success and to the growth and vitality of the Internet as a whole. We are a member of the Network Advertising Initiative (“NAI”). We are signatories to the DAA AdChoices program and the EASA’s Best Practice Recommendation on Online Behavioral Advertising. We maintain compliance with the [NAI’s Self-Regulatory Principles](http://www.networkadvertising.org/managing/principles.asp) and [IAB UK’s Good Practice Principles](http://www.youronlinechoices.eu/goodpractice.html).
+At Exponential we believe that safe, secure and respectful practices regarding the use of consumer information are fundamental to our business success and to the growth and vitality of the Internet as a whole. We are a member of the Network Advertising Initiative (“NAI”). We are signatories to the DAA AdChoices program and the EASA’s Best Practice Recommendation on Online Behavioral Advertising. We maintain compliance with the [NAI’s Code of Conduct](http://www.networkadvertising.org/code-enforcement/code) and [IAB UK’s Good Practice Principles](http://www.youronlinechoices.eu/goodpractice.html).
 
 This Privacy Policy is intended to provide consumers with clear and complete information about the consumer data we collect in connection with our Services and the way that data is stored and used by our company, our clients and partners. For information about our privacy practices as they relate to our corporate website, please see below.
 
@@ -50,7 +50,9 @@ We use technology which includes cookies and web beacons in the delivery of our 
 
 We enable consumer choice and control over our third party tracking cookie. The details of this cookie can be found below. For details of our other cookies, please contact [privacy@exponential.com](mailto:privacy@exponential.com).
 
-You may opt out of being behaviorally targeted by Exponential online advertising via [our opt-out mechanism](http://exponential.com/success/).
+You may opt out of being behaviorally targeted by Exponential online advertising via our opt-out mechanism.
+
+[Opt-out](http://exponential.com/success/)
 
 Through this opt-out procedure, your computer will overwrite our ANON_ID cookie with a non-identifying “opt-out” cookie that indicates your anonymous data should not be used for behaviorally targeted advertising. Please note that the “opt-out” cookie must remain on your computer in order for us to recognize you as an opt-out user. This means that if you use multiple computers or multiple browsers you will need to opt out of receiving cookies on each computer and for each browser. Also, if you change computers or delete cookies from your computer you will need to repeat this opt-out process. The details of the opt-out cookie are shown below.
 
