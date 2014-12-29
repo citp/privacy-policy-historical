@@ -1,30 +1,19 @@
-> *The following text is extracted and transformed from the lushome.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616202155id_/http%3A//www.lushome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushome.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229113128id_/http%3A//www.lushome.com/privacy-policy) for the most accurate reproduction.*
 
 # Lushome
 
-**Accord D D S**
-
-**Statement No 51411**
-
-**Information about our Company Web site**  
-**  
-**
+**Privacy Policy** **Statement No 51411**
 
 We take your security and privacy seriously and we aim to make your experience with us entirely safe and problem free. Please see our security guarantee and privacy policy below.
 
 Every purchase from our site using your credit or debit card number we process using industry-standard PAYPAL secure system. To ensure absolutely minimal risk to you, PAYPAL offers a guarantee for every purchase you make using a credit or debit card.
 
-Our privacy policy covers  
-Accord  
-and its Web sites:
+Our privacy policy covers lushome.com
 
-Organization Name: | Accord D D S  
+Organization Name: | lushome  
 ---|---  
-Address: | PO Box 1614  
-City, Zip: | Halifax,B3J2Y3  
-State: | NS  
 Country: | Canada  
-Controller: | Accord  
+Controller: | lushome  
 Web Sites(s):  
 | www.lushome.com  
   
@@ -145,7 +134,7 @@ We will provide you with a readable copy of the personal data which we keep abou
 
 within a month.
 
-\- although we may before require proof of your identity.
+– although we may before require proof of your identity.
 
 We will provide the information
 
@@ -180,24 +169,20 @@ In order to demonstrate that our privacy policy accords with the above privacy i
 
 Self Assessment procedure
 
-Name or designation of the privacy policy person or service | Accord D D S  
+Name or designation of the privacy policy person or service | support  
 ---|---  
 URL | www.lushome.com  
-Address | Halifax, NS  
+Address |   
 Country | Canada  
   
 **Privacy Support**
 
 If you have an enquiry or concern about our privacy policy, please contact:
 
-|   
+Address :Canada
+
+Email address : | support@lushome.com  
 ---|---  
-Name/designation : | Accord D D S  
-Department : |   
-Address : | PO Box 1614, Halifax, NS, Canada, B3J2Y3  
-Phone Number : |   
-Fax Number : |   
-Email address : | info@lushome.com  
 URL : | www.lushome.com  
   
 We do not recommend another means by which visitors’ concerns may be addressed.
