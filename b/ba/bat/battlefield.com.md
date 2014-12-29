@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the battlefield.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628031358id_/http%3A//www.ea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlefield.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229124227id_/http%3A//www.ea.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# the page information was not properly set in the request for the uri /privacy-policy
 
 ELECTRONIC ARTS PRIVACY AND COOKIE POLICY
 
