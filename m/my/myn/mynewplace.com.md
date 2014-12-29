@@ -1,36 +1,34 @@
-> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326080548id_/http%3A//www.mynewplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229031740id_/http%3A//www.mynewplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyNewPlace
 
 **PRIVACY POLICY**
 
-[](http://www.truste.com/ivalidate.php?url=www.mynewplace.com&sealid=101)
-
- **MyNewPlace is a subsidiary of RealPage, Inc. and subject to the following Privacy Policy:**
+**MyNewPlace is a subsidiary of RealPage, Inc. and subject to the following Privacy Policy:**
 
 Our commitment to privacy is a fundamental aspect of the way we do business and interact with our users. This Privacy Policy describes how MyNewPlace and RealPage (hereinafter “MNP” and “We”) handle your personal information collected through your use of our products and services. It applies generally to the MyNewPlace.com website and the information collected and stored during the user registration process. By completing the registration process, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon registration for new users and is otherwise effective on August 1, 2012.
 
- **MyNewPlace.com has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with**[ **TRUSTe’s program requirements**](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) **including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Web site, www.mynewplace.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact our Consumer Support Team via email at consumercare@mynewplace.com.   If you are not satisfied with our response you can contact TRUSTe **[**here**](http://watchdog.truste.com/pvr.php?page=complaint) **.**
-
- **Information Collection**
+**Information Collection**
 
 RealPage may collect various types of information, both personal and anonymous, through our products, services, and websites. The information is gathered from your usage of our products and services, as well as from your entry of information on our websites. This collected information consists of two basic types of data: 1) personal information and 2) non-personal information.
 
 Personal information is information that can be used to uniquely identify you as an individual or contact you directly. This may include contact information such as your name, address, telephone number, and email address. For certain financial, health, or credit-based products and services, personal information may also include sensitive data such as payment data, credit records, social security numbers, date of birth, and account numbers. Personal information is only collected based upon your choice to provide it to RealPage through our products, services, and websites. You have the option to choose not to provide personal information to us; however, the lack of such personal information will typically prevent RealPage from providing the requested products or services to you.
 
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
 Non-personal information is general information that does not permit direct association with you as an individual. When you browse RealPage websites, we may automatically collect non-personal information such as your IP address, device information, browser, internet connection speed, past web pages visited, and your link selections on our various website pages. This information may be used to: (1) manage and protect our websites, products, services, and users from fraudulent, abusive, or unlawful uses; and (2) help us research, develop, and improve our websites, products, and services. This type of information may also be aggregated or otherwise rendered anonymous for business and marketing uses by us or by third parties.
 
- **Information Disclosure**
+**Information Disclosure**
 
 Except as explained in this Privacy Policy, RealPage does not sell, license, or share our users’ information outside the RealPage family of companies without the consent and authorization of the user whose information will be shared.
 
-We may share your information within the [RealPage family of companies, products, and services](http://www.realpage.com/company/realpage-company-info) for operational and marketing purposes. The RealPage companies that access your information will do so in conformity with the practices described in this Privacy Policy. Sharing this information allows RealPage to provide you with the best customer service experience possible, provide you with the services you have ordered or requested, and notify you of the latest information regarding new or enhanced products, services, and promotions. RealPage may periodically send offers, promotions, and updates regarding RealPage products and services to current and potential users via e-mail. Every marketing e-mail RealPage sends contains instructions and procedures allowing you to opt out of additional marketing e-mails for that product or service.
+We may share your information within the [RealPage family of companies, products, and services](http://www.realpage.com/company/realpage-company-info) for operational and marketing purposes. The RealPage companies that access your information will do so in conformity with the practices described in this Privacy Policy. Sharing this information allows RealPage to provide you with the best customer service experience possible, provide you with the services you have ordered or requested, and notify you of the latest information regarding new or enhanced products, services, and promotions. RealPage may periodically send offers, promotions, and updates regarding RealPage products and services to current and potential users via e-mail. Every marketing e-mail RealPage sends contains instructions and procedures allowing you to opt out of additional marketing e-mails for that product or service.
 
 In some circumstances, we use third-party companies, agents, and contractors to perform services on our behalf, such as website optimization, email distribution, processing credit card transactions, infrastructure and IT services, background screening, and other data processing or handling functions. In the course of engaging these third party services, RealPage only shares your information to the extent reasonably necessary for the third party to perform the services on our behalf. We do not permit these third parties to use or disclose your personal information except for the purpose of providing the services we request of them. However, please note that RealPage does not maintain control over the privacy policies and practices of any third party companies, agents, or contractors.
 
-RealPage also reserves the right to disclose user information if we reasonably believe that such disclosure is necessary to (1) satisfy any applicable legal or regulatory requirement, (2) to respond to a governmental request, (3) enforce RealPage Terms of Use or investigate potential violations thereof, (4) to protect against fraudulent, malicious, abusive, unauthorized or unlawful use of RealPage products, services, and websites, or (5) to protect our rights or property, or the safety or security of our customers, employees or data.
+RealPage also reserves the right to disclose user information if we reasonably believe that such disclosure is necessary to (1) satisfy any applicable legal or regulatory requirement, (2) to respond to a governmental request, as required by law such as to comply with a subpoena, or similar legal process (3) enforce RealPage Terms of Use or investigate potential violations thereof, (4) to protect against fraudulent, malicious, abusive, unauthorized or unlawful use of RealPage products, services, and websites, or (5) to protect our rights or property, or the safety or security of our customers, employees or data.
 
-If RealPage enters into any business transition, restructuring, merger, sale, or other transferring of assets, we reserve the right to transfer user information, including all personal information, as part of or in connection with the transaction.
+If RealPage enters into any business transition, restructuring, merger, sale, or other transferring of assets, we reserve the right to transfer user information, including all personal information, as part of or in connection with the transaction. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
  **Electronic Protected Health Information (ePHI)**
 
@@ -38,11 +36,11 @@ Certain RealPage products, services, and websites are aligned with the senior ma
 
  **Cookies, Web Beacons, and Other Technologies**
 
-When you access our websites, products, and services, RealPage servers may place small text files (“cookies”) on your computer for recordkeeping purposes. Among other things, cookies enable RealPage to gather information about your activity on our websites, products, and services for the purposes of improving your online experience, remembering your preferences and settings, delivering advertising to match your preferences and interests, and for other similar customization purposes. We may also engage data providers who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized advertisements or content. These cookies contain no personally identifiable information. These cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>.
+When you access our websites, products, and services, RealPage servers may place small text files (“cookies”) on your computer for recordkeeping purposes. Among other things, cookies enable RealPage to gather information about your activity on our websites, products, and services for the purposes of improving your online experience, remembering your preferences and settings, delivering advertising to match your preferences and interests, and for other similar customization purposes.
 
-In addition to cookies, RealPage may utilize web beacons, clear gifs, or other technologies built into our websites, products and services to gather information on how users interact with and utilize various features. These technologies can help personalize your RealPage usage experience and help associate your interactions with our products and services to other information within your account. For example, these technologies can identify popular pages, viewing patterns, click-through, conversion rates, and other information that can be used to improve, monitor, and operate our websites, products, and services.
+In addition to cookies, RealPage may utilize web beacons, clear gifs, or other technologies built into our websites, products and services to gather information on how users interact with and utilize various features. These technologies can help personalize your RealPage usage experience and help associate your interactions with our products and services to other information within your account. For example, these technologies can identify popular pages, viewing patterns, click-through, conversion rates, and other information that can be used to improve, monitor, and operate our websites, products, and services. For greater detail on how these technologies function and how your activity records are used, please review the Google Analytics privacy disclosures at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
 
-Most internet browsers provide controls that allow users to manage or disable the placement and usage of cookies on their computer. Please note that disabling cookies may deactivate or otherwise restrict certain features on RealPage websites, products, and services.
+Most internet browsers provide controls that allow users to manage or disable the placement and usage of cookies on their computer. Please note that disabling cookies may deactivate or otherwise restrict certain features on RealPage websites, products, and services. To opt out of any behavioral advertising and tracking cookies, please go to <http://www.aboutads.info/choices> to submit your do not track request.
 
  **Third Party Advertisements and Links to Other Sites**
 
@@ -68,13 +66,17 @@ RealPage implements and maintains physical, administrative, and technical safegu
 
 RealPage does not target children under the age of 13 for the collection of information online. Our products, services, and websites are not designed to attract the attention of persons under the age of 13.
 
+ **Accessing and Updating Personal Information**
+
+In the event that your personal information is found to be outdated, incomplete, or inaccurate, you may access and update your information by logging into your RealPage product or service account. If you require verification that your requested changes have been completed, and such verification is not readily displayed in your product or service account, you may request confirmation at the email address listed below (See “Contact Us”).
+
  **Privacy Policy Changes**
 
-As RealPage develops new products and services, updates or expands technologies, and develops new information uses, we reserve the right to update this Privacy Policy as necessary to reflect such changes. We recommend that you review this policy periodically for any changes that may have been made. Your continued use of RealPage products, services, and websites subsequent to any changes made after your initial consent means that you agree to be bound by those changes. The most current version of this Privacy Policy supersedes all previous versions and is accessible on the Legal section of the RealPage website or by clicking [here.](http://www.realpage.com/terms-of-use-privacy-policy)
+As RealPage develops new products and services, updates or expands technologies, and develops new information uses, we reserve the right to update this Privacy Policy as necessary to reflect such changes. We recommend that you review this policy periodically for any changes that may have been made. Your continued use of RealPage products, services, and websites subsequent to any changes made after your initial consent means that you agree to be bound by those changes. The most current version of this Privacy Policy supersedes all previous versions.
 
  **Contact Us**
 
-If you have any questions or concerns about the RealPage Privacy Policy or its implementation, you may contact us at privacy@realpage.com or mail your written inquiry to:
+If you have any questions or concerns about the RealPage Privacy Policy or its implementation, you may contact us at privacy@realpage.com or mail your written inquiry to:
 
 RealPage, Inc.  
 Attn: Privacy (Legal)  
