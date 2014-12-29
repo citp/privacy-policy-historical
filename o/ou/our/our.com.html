@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2014-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325031519id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229115211id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -97,6 +97,8 @@
             <link rel="stylesheet" href="http://cdn.our.com/css/uiRegisterForm.css">
             <script src="http://cdn.our.com/js/vendor/jquery.infieldlabel.min.js"></script> <!-- for uiRegisterForm -->
 <link rel="stylesheet" href="http://cdn.our.com/css/uiConfirmRegisterForm.css">
+
+<link rel="stylesheet" href="http://cdn.our.com/css/uiCookiesBanner.css">
         
         <script type="text/javascript">
         <!--
@@ -166,7 +168,7 @@
                     location.href = 'http://www.our.com/fb_registration.php';
                 });
            	}            // uiSlideHeader
-            var banners = new Array("http://www.our.com/mobile_promotion.php#_blank","http://www.our.com/games/our-bingo/#_self","http://www.our.com/games/our-slots/#_self","http://www.our.com/games/our-video-poker/#_self","javascript:showTheFormRegister();#_self");
+            var banners = new Array("http://www.our.com/mobile_promotion.php#_blank","http://www.our.com/games/our-bingo/#_self","http://www.our.com/games/our-slots/#_self","http://www.our.com/games/our-bingo/#_self","javascript:showTheFormRegister();#_self");
 
             
             function clickBanner(){
@@ -279,7 +281,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:9752, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:9383, sessionKeyVarName:sessionVarName} ,function(data) {
                              _loginFormRememberSended(true, data);
                         });
                     }
@@ -531,7 +533,7 @@
                         var fbId_param = '';
                         var fbImage_param = '';
                         var vinculateIdUser_param = '';
-                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:917, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
+                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:9628, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
                             if (data.indexOf('yes') == -1 && isNaN(data)) {
                                 // Registration failed !!!!
                                 messageError("There was an error registering user");
@@ -608,7 +610,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey2';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:7984, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:5476, sessionKeyVarName:sessionVarName} ,function(data) {
                              _RegisterLoginFormRememberSended(true, data);
                         });
                     }
@@ -716,7 +718,7 @@
                 
                 $('#resendEmail').click(function() {
                     if (id_new_user > 0) {
-                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:2260} ,function(data) {
+                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:8412} ,function(data) {
                             if (data == 'yes') {
                                 // Email sended
                                 $('#responsenolocate2').html(message_email_sended + ' ' + email_new_user);
@@ -729,6 +731,26 @@
                         });
                     }
                 });
+            });            
+            // uiCookiesBanner
+            
+            var cookiesAccepted = false;
+            
+            function acceptCookies() {
+                cookiesAccepted = true;
+                $('#cookiesBanner').fadeOut('slow', function() {
+                    $.post('http://www.our.com/accept_cookies.php',{},function(data) {
+                    });
+                });
+            }
+            
+            $(document).ready(function() {
+                $('#cookiesBannerButton').click(function() {
+                    if (!cookiesAccepted) acceptCookies();
+                });
+                delay(function(){
+                    if (!cookiesAccepted) acceptCookies();
+                }, 15000);
             });        //-->
         </script>
 
@@ -745,9 +767,9 @@
             <div id="slideHeader" style="visibility:hidden;">
                 <ul class="bxslider">
                     <li><img src="http://cdn.our.com/img/web/banners/BINGOMOBILE_EN.jpg"></li>
-<li><img src="http://cdn.our.com/img/web/banners/BINGO_EN.jpg"></li>
+<li><img src="http://cdn.our.com/img/web/banners/BINGOPARIS_EN.jpg"></li>
 <li><img src="http://cdn.our.com/img/web/banners/SLOTS_EN.jpg"></li>
-<li><img src="http://cdn.our.com/img/web/banners/VIDEOPOKER_EN.jpg"></li>
+<li><img src="http://cdn.our.com/img/web/banners/BINGOHAWAII_EN.jpg"></li>
 <li><img src="http://cdn.our.com/img/web/banners/REGISTRATE_EN.jpg"></li>
 
                 </ul>
@@ -770,6 +792,7 @@
             <div id="mainMenu">
                 <a href="http://www.our.com" class="mainButton" id="homeButton">Home</a>
                 <a href="http://www.our.com/games/" class="mainButton" id="gamesButton">Games</a>
+                <a href="http://blog.our.com/en/" class="mainButton" id="newsButton">News</a>
             </div>
             <hr>                <div class="pageContainer">
                     <div class="pageContainerHeader">
@@ -804,7 +827,7 @@
         <h3>Payment information</h3>
         <p>If you buy directly from THE NETWIZZY COMPANY, a license to use money or virtual in-game content, we collect the billing information and financial information necessary to process your charges, which may include your mailing and email address. THE NETWIZZY COMPANY may also receive the billing and payment information that you provide when your purchase is processed by a third party.</p>
         <p>We collect your information in order to fulfill our contract with you. It is especially important to properly process payment orders made by you, as well as monitor compliance with the conditions of use and game rules.<br><br></p>
-        <h3>Cookies</h3>
+        <h3>Cookies</h3><a name="cookies"></a>
         <p>For technical purposes and to make our Internet experience as enjoyable as possible, we use, like many other companies do, so-called Cookies. These cookies are normally deleted automatically from your hard drive when you leave our website. Some cookies may be stored however for technical reasons on your hard drive for a longer period of time. Your browser may be set so that cookies are rejected as a general rule, or to be deleted in individual cases. The User decides whether to accept or delete cookies set by that web browser. If you do not want cookies to be stored or want to erase some in particular, you should follow the instructions on how to do so from the developer of the browser. The use of our websites may be restricted wholly or partly for technical reasons as a result of the aforementioned cookies.</p>
         <p>Cookies collect information about the games and the frequency the user plays them (for example, at what time of day, day of week). They also collect information about the time period in which you use the website and each of the games. In addition, demographic information is saved as well as the age and gender of the user. The operator will enter, examine and use the information collected by cookies both to adapt the website to the behavior, needs and interests of the respective user, and generate statistics and create user groups. The information provided by cookies will also be used to allow certain third parties to display advertisements on the website. Additionally, the information collected in relation to the user's browsing habits will be updated and constantly expanding.</p>
         <p>The user expressly agrees to the use of cookies and retargeting cookies by the operator. Furthermore, the user explicitly agrees to the automatic treatment (eg, through cookies) of data that you have provided about yourself and that the operator has collected.<br><br></p>
@@ -1059,6 +1082,10 @@
                         <div id="fbregister_btn_container" style="display:none;"><a href="javascript://;" class="formRegisterButton" id="postFbRegisterBtn">Play</a></div>
                     </div>
                 </div>
+            </div>            
+            <div class="cookiesBanner" id="cookiesBanner">
+                <div class="cookiesBannerTextPanel">We use our own cookies and from third parties to improve your experience on our website. If you continue without changing your settings, we assume that you accept the use of cookies. Find more information in our <a href="http://www.our.com/privacy/#cookies">Cookie Policy</a>.</div>
+                <div class="cookiesBannerButtonPanel"><a href="javascript://" class="cookiesBannerButton" id="cookiesBannerButton">OK</a></div>
             </div>        
         <script src="http://cdn.our.com/js/vendor/zepto.min.js"></script>
         <script src="http://cdn.our.com/js/helper.js"></script>
@@ -1066,6 +1093,5 @@
                 
         <script src="//static.getclicky.com/js" type="text/javascript"></script>
         <script type="text/javascript">try{ clicky.init(100614490); }catch(e){}</script>
-        <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100614490ns.gif" /></p></noscript>
-            
+        <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/100614490ns.gif" /></p></noscript>            
 </body></html>
