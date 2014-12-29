@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindtools.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630213105id_/http%3A//www.mindtools.com/policies/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtools.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229055820id_/http%3A//www.mindtools.com/policies/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Mind Tools Ltd (Company Number 04829074) ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [Terms of Use](https://web.archive.org/web/20140630213105id_/http%3A//www.mindtools.com/policies/TermsofUse.htm)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using a log-in for or visiting the www.mindtools.com Website (the “Website”) you are accepting and consenting to the practices described in this policy.
+This policy (together with our [Terms of Use](https://web.archive.org/web/20141229055820id_/http%3A//www.mindtools.com/policies/TermsofUse.htm)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using a log-in for or visiting the www.mindtools.com Website (the “Website”) you are accepting and consenting to the practices described in this policy.
 
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Mind Tools Ltd of 2nd Floor, 145-157 St John Street, London, EC1V 4PY. 
 
@@ -90,7 +90,5 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ## Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Mind Tools Ltd, 2nd Floor, 145-157 St John Street, London, EC1V 4PY, telephone +44 20 7788 7978 or [customer.helpdesk@mindtools.com](mailto:customer.helpdesk@mindtools.com). (Due to time zone differences, it may take up to 24 hours for us to respond to you).
-
-* * *
 
 Return to the top of the page
