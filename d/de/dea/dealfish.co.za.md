@@ -1,40 +1,39 @@
-> *The following text is extracted and transformed from the dealfish.co.za privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008172245id_/http%3A//www.kalahariads.net/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealfish.co.za privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229131615id_/http%3A//www.quikr.com/html/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Kalahari Ads
+# Privacy Policy Quikr
 
-  * [Home](http://www.kalahariads.net/)
-  * » Privacy Policy
+This privacy policy describes how we handle your personal information. We collect, use, and share personal information to help the Quikr website ("Quikr") work and to keep it safe (details below). In formal terms, Quikr India Private Limited, acting itself and through its subsidiaries, is the "data controller" of your personal information. This policy is effective 16/11/2005 
 
+**Collection.** Information posted on Quikr is obviously publicly available. Our servers are located in Mumbai, India. Therefore, if you choose to provide us with personal information, you are consenting to the transfer and storage of that information on our servers. We collect and store the following personal information:   
+• email address, physical contact information, and (depending on the service used) sometimes financial information;   
+• computer sign-on data, statistics on page views, traffic to and from Quikr and Ad data (all through cookies – you can take steps to disable the cookies on your browser although this is likely to affect your ability to use the site);   
+• other information, including users IP address and standard web log information.
 
+**Use.** We use users' personal information to:   
+• provide our services;   
+• resolve disputes, collect fees, and troubleshoot problems;   
+• encourage safe trading and enforce our policies;   
+• customize users' experience, measure interest in our services, and inform users about services and updates;   
+• communicate marketing and promotional offers to you;   
+• Do other things for users as described when we collect the information. 
 
-#### Privacy policy
+**Disclosure.**  
+• All information contained by Quikr is treated as strictly confidential and Quikr does not and will not disclose or share such confidential information to / with any external organization.   
+• The users’ privacy is very important to us. We do not and shall not at any point in time, either sell or rent users’ personal information to third parties without users’ explicit consent.   
+• We may be required from time to time to disclose users’ personal information to Governmental or law enforcing agencies or our regulators, but we will only do so under proper authority.  
+• Quikr also reserves the right to make use of the personal information in any investigation or judicial process relating to fraud on account of such transactions during the period Quikr retains such information.   
+• We may also disclose personal information to enforce our policies, respond to claims that a posting or other content violates other’s rights, or protects anyone’s rights, property or safety.  
+• We may also share personal information with:  
+    \- Corporate affiliates who help detect or prevent potentially illegal acts and provide joint services (Our corporate affiliates will market  
+     only to users who ask them to).  
+    \- Service providers who help with our business operations.
 
-  1. We reserve the right to contact and send information to users of our Site ("the Users"), including you, using the contact details (including email address and mobile phone number) provided to us. In this regard you undertake to ensure that such details are up to date and to inform us of any change in your contact details. We will not be liable for information being sent to out-of-date contact details. 
-  2. Children below 18 years of age should not access the Site or use the Services. We do not have any intention of collecting any personally identifiable information from individuals under 18 years of age. If you are aware that a child has provided us with personally identifiable information, please contact us and we will remove the information. 
-  3. The security of the information that you provide to us is important to us. To prevent unauthorized disclosure, maintain data accuracy and ensure the correct use of information, we have in place reasonable physical, electronic and managerial procedures to safeguard and secure any information we collect online. 
-  4. It is important for you to protect against unauthorized access to your password and to your computer. When using a shared computer, be sure to sign off and do not opt to stay logged in to the Site. Should you realize that you accidentally allowed a third party to access your account, you must let us know immediately, as you may be held liable for their actions in your name. 
-  5. We do not have any control over the privacy practices of any external websites linked from the main www.kalahariads.net domain and will not be liable for the content of such websites or use of information provided to them. 
-  6. Other Users who advertise on the Site may collect certain information that is available to them through your interaction with their advertisements. We have no control or knowledge as to their practices and it is suggested that you read their privacy policy separately before clicking on any advertisements. Furthermore, whatever information you make available in advertisements placed by you on this Site will be visible to other Users and we will not be held liable in any way in relation to the information so disclosed by you. 
-  7. You agree that we may electronically collect, store and use the following of your personal information: 
-    1. email address
-    2. mobile phone number
-    3. closest city
-    4. non-personal browsing habits and click patterns
-    5. IP address
-  8. We collect, store and use the abovementioned information for the following purposes: 
-    1. to greet you when you access the Site
-    2. to inform you of facts relating to your access and use of the Site and/or the Service
-    3. to inform you about competitions and special offers from us and/or our partners and/or affiliates, save where you have requested us not to inform you thereof
-    4. to compile non-personal statistical information about your browsing habits, click-patterns and access to the Site
-    5. to verify your identity when transacting with us or with other Users on the Site
-    6. to furnish information to you and other Users regarding transactions, potential transactions and subscriptions
-  9. You specifically acknowledge and agree that we may collect, store and use the other information you voluntarily provide when you create and post an online classifieds advertisement on this Site. Such information/content is used and publicly disclosed on the Site for so long as you wish to have the advertisement published. You further acknowledge that any such advertisement, and any information therein, may be shared by us with the publishers of newspapers and magazines in order to have your advertisement duplicated in their print media,
-  10. The information detailed above is collected either electronically by using cookies or is provided voluntarily by you. You may determine cookie use independently through your browser settings. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser and to provide features that recognize your account as logged on and other Site features. Further, to help us tailor the Site to the needs and interests of our Users, or for other purposes, we may gather aggregate, permanently non-personally identifiable information via cookies. Examples include the type of Internet browser our Users are using, the frequency of visits to our Site and which pages our Users viewed. We may share these aggregate statistics with others. The use of cookies is standard on the internet and many major web sites use them. 
-  11. We may collect, maintain, save, compile and share any permanently de-identified information collected from you, subject to the following provisions: 
-    1. We shall not disclose your personal information to anyone other than our partners and affiliates, unless you consent thereto.
-    2. We shall disclose information without your consent only where required to do so by law or any regulatory authority or where necessary to enforce our rights under this Privacy Policy or the dealfish Terms & Conditions.
-    3. We may compile, use, share and otherwise process any permanently de-identified information that does not relate and cannot be traced back to any specific individual.
-  12. We own and retain all rights to non-personal statistical information collected and compiled by us. 
-  13. By submitting your information you consent to the use of that information as set out in this Privacy Policy. If we change our Privacy Policy we will post the changes on this webpage on the Site so that you may be aware of the information we collect and how we use it at all times. Upon change of our Privacy Policy, your continued use of the Site and/or Services will signify that you agree to such change(s). 
+**Using Information from Quikr.** You may use personal information gathered from Quikr only to follow up with another user about a specific posting, not to send spam/ phising or collect personal information from someone who hasn't agreed to that.
 
+**Access, Modification, and Deletion.** You can see, modify or erase your personal information by reviewing your posting or account status page. Contact customer support at [](mailto:privacy@quikr.com) to review any personal information we store that is not available on Quikr. There may be a charge associated with such requests but these will not exceed the amounts permitted by law. We delete personal information when we no longer need it for the purposes we described earlier. We retain personal information as permitted by law to resolve disputes, enforce our policies; and prevent bad guys from coming back.
 
+**Data Security.** We use a number of mechanisms (encryption, passwords, physical security) to protect the security and integrity of your personal information against unauthorized access and disclosure. Unfortunately, no data transmission over the internet can be guaranteed to be completely secure. So while we strive to protect such information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once any personal information comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure.
+
+**Confidentiality of Information.** Users who use any of the features on Quikr agree and accept that they have been fully informed by Quikr that the use of features may lead to publication, to all users of Quikr, of any personal information posted by them while using any specific feature on Quikr. Users further agree that the authenticity of, and consequences from the posting by users of any personal information of themselves or any other person, are the sole responsibility of the user. Users further agree and accept that the terms of the Privacy Policy will be applicable to the use of all features, existing and new. However, the Users agree and accept that confidentiality of information posted on such features has been waived by the Users of such features themselves.
+
+**General.** We may update, upgrade, modify (partially &/or fully) this policy at any time, with updates taking effect when you next post or after 30 days, whichever is sooner. If we or our corporate affiliates are involved in a merger or acquisition, we may share personal information with another company, but this policy will continue to apply. Send questions about this policy to [](mailto:privacy@quikr.com).
