@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the joyofandroid.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092944id_/http%3A//joyofandroid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofandroid.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229205643id_/http%3A//joyofandroid.com/privacy) for the most accurate reproduction.*
 
 # Privacy - JoyofAndroid.com
 
-At the Crazy Android Website, the privacy of our visitors is our ultimate concern.  Because we want our visitors to be confident and comfortable in using our website and our services, we are executing appropriate processes and procedures to protect the personal information that you have shared with us. This Privacy Policy summarize the types of personal information that are received and collected as well as how it is used by [**joyofandroid.com**](http://joyofandroid.com/) website.
+At JoyofAndroid.com, the privacy of our visitors is our ultimate concern.  Because we want our visitors to be confident and comfortable in using our website and our services, we are executing appropriate processes and procedures to protect the personal information that you have shared with us. This Privacy Policy summarize the types of personal information that are received and collected as well as how it is used by JoyofAndroid.com
 
 ## Definition of Terms
 
-This Privacy Policy Section identifies the words that Users will frequently run into while using our website [joyofandroid.com](http://joyofandroid.com/).
+This Privacy Policy Section identifies the words that Users will frequently run into while using our website JoyofAndroid.com
 
-**“Crazy Android”, “Crazy Android.com”, “We”, “Our”, “Us”** points to the entire management of [joyofandroid.com](http://joyofandroid.com/).
+**“JoyofAndroid”, “Joy of Android”, “We”, “Our”, “Us”** points to the entire management of JoyofAndroid.com.
 
-**“Site” or “Website”** refers to our website [joyofandroid.com](http://joyofandroid.com/) and the pages hosted by [joyofandroid.com](http://joyofandroid.com/).
+**“Site” or “Website”** refers to our website JoyofAndroid.com and the pages hosted by JoyofAndroid.com
 
 **“Guest”** is the term for an individual that browses the Website’s services without subscribes to our email list.
 
@@ -26,19 +26,19 @@ The website collects visitor’s email through feed burner. If you have subscrib
 
 ### Advertising cookies:
 
-Crazy Android uses wide range of third party tracking tools and advertisers. Like any other website, these third parties or advertisers may place cookies that can collect and send aggregate data. You should consult the respective privacy policies of the third party ad servers for more detailed information. The Crazy Android website does not control the activities of such advertisers. Our privacy policy does not cover their collection or use of this information. If you do not wish you to agree with this policy, you must leave the Site right now.
+JoyofAndroid.com uses wide range of third party tracking tools and advertisers. Like any other website, these third parties or advertisers may place cookies that can collect and send aggregate data. You should consult the respective privacy policies of the third party ad servers for more detailed information. JoyofAndroid.com does not control the activities of such advertisers. Our privacy policy does not cover their collection or use of this information. If you do not wish you to agree with this policy, you must leave the Site right now.
 
 ### Google Analytics Cookie
 
-Crazy Android uses Google Analytics as web analytics tool. Google Analytics cookie is used to optimize, inform and collect data about the traffic on this Site.
+JoyofAndroid.com uses Google Analytics as web analytics tool. Google Analytics cookie is used to optimize, inform and collect data about the traffic on this Site.
 
 ### Alexa Scripts Cookie
 
-Alexa scripts used for tracking the number of visitors of the Crazy Android site may place a Cookie. Aggregate data are collected, transmitted, stored and analyzed to check our web traffic.
+Alexa scripts used for tracking the number of visitors of the JoyofAndroid.com may place a Cookie. Aggregate data are collected, transmitted, stored and analyzed to check our web traffic.
 
 ## How Collected Information are Used:
 
-Crazy Android gathers and makes use of a User’s information to attain the following:
+JoyofAndroid.com gathers and makes use of a User’s information to attain the following:
 
   * Outstanding Customer Service
   * Timely updates
@@ -56,14 +56,14 @@ We may contact you when one of the below events happen:
 
 
 
-## External Link Policy
+## External Link & Affiliate Commission Policy
 
-From time to time, Crazy Android may link to external websites which might be helpful for the user. However Crazy Android does not endorse or control the content available on the third party websites.
+From time to time, JoyofAndroid.com may link to external websites which might be helpful for the user. We may receive monetary benefits by referring products, apps and websites. However JoyofAndroid.com does not control the content available on the third party websites.
 
 ## Copyright Policy
 
-All content – texts, media files, images and videos are copyright to the owners of Crazy Android. You may not copy, or reproduce it online or in offline without the written permission of the owners. Such behavior will call for DMCA take down and legal actions if necessary.
+All content – texts, media files, images and videos are copyright to the owners of JoyofAndroid.com. You may not copy, or reproduce it online or in offline without the written permission of the owners. Such behavior will call for DMCA take down and legal actions if necessary.
 
-Crazy Android reserves the right to update or modify the Privacy Policy whenever it is deemed to be necessary. We will post a notification on our site and update the date at the bottom of this page. If you have any questions or concerns regarding our Privacy policy, you can fill up and submit the form located at <http://joyofandroid.com/contact-us/>.
+JoyofAndroid.com reserves the right to update or modify the Privacy Policy whenever it is deemed to be necessary. We will post a notification on our site and update the date at the bottom of this page. If you have any questions or concerns regarding our Privacy policy, you can fill up and submit the form located at <http://joyofandroid.com/contact-us/>.
 
-**This document was last updated on August 2, 2013**
+**This document was last updated on November  02, 2014**
