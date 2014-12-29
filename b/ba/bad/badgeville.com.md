@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630011230id_/http%3A//badgeville.com/basic/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badgeville.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229201215id_/http%3A//badgeville.com/basic/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Badgeville, The #1 Gamification Platform for Customer Loyalty and Employee Productivity
 
