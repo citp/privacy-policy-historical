@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the timewarnercable.com privacy policy that was archived on 2014-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140610222922id_/http%3A//www.timewarnercable.com/en/about-us/legal/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timewarnercable.com privacy policy that was archived on 2014-12-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141229223829id_/http%3A//www.timewarnercable.com/en/about-us/legal/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
   
@@ -24,6 +24,7 @@
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta http-equiv="keywords" content="Privacy">
 
+
   
 
 
@@ -40,7 +41,7 @@
 
 
 
-<script id="elicit-js" async="" src="https://twc.elicitapp.com/js.ashx?f=elicit.tag.web.js"></script><script type="text/javascript">CQURLInfo={"requestPath":"/content/twc/en/about-us/legal/privacy-policy","extension":"html","selectors":[],"systemId":"8b19f8ec-0cdb-45ca-9ff9-8b8b0e91704e","runModes":"samplecontent,crx2,publish,07,omega,crx3mongo,prod"};</script>
+<script id="elicit-js" async="" src="https://twc.elicitapp.com/js.ashx?f=elicit.tag.web.js"></script><script type="text/javascript">CQURLInfo={"requestPath":"/content/twc/en/about-us/legal/privacy-policy","extension":"html","selectors":[],"systemId":"157513ac-2a51-4a7a-9721-bab933e35f8d","runModes":"crx2,publish,omega,nosamplecontent,crx3mongo,02,prod"};</script>
 <link rel="stylesheet" href="/etc/designs/residential/clientlibs.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/residential/clientlibs-split.css" type="text/css">
 <link rel="stylesheet" href="/etc/designs/corporate/clientlibs.css" type="text/css">
@@ -135,15 +136,16 @@
                     
                     'pageCategory' : 'Omega',
                     
-					//Set visitorType from onNetwork status
-					'visitorType' : Twc.Profile.getVisitorType(),
+            //Set visitorType from onNetwork status
+            'visitorType' : Twc.Profile.getVisitorType(),
 					
-                    //Add the region, city, state and zip to the data layer
-                    'region' : region,
-					'city' : city,
-					'state' : state,
-					'zip' : zip
-                           }];
+            //Add the region, city, state and zip to the data layer
+            'region' : ClientContext.get('/twcprofile/region'),
+            'city' : ClientContext.get('/twcprofile/city'),
+            'state' : ClientContext.get('/twcprofile/state'),
+            'zip' : ClientContext.get('/twcprofile/zipcode'),
+            'soaid': ClientContext.get('/twcprofile/soaid')
+        }];
 
         //Initialize GTM
         (function(w,d,s,l,i)
@@ -202,7 +204,7 @@
 
 <ul>
 
-    <li> <div class="smartLink"><a href="/en/residential-home.html" analyticsname="Tophat:1:1:your home <linkhref=/content/dam/residential/custom-css/follow-us-edits.cssrel=stylesheet type=text/css />">Your Home <link href="/content/dam/residential/custom-css/follow-us-edits.css" rel="stylesheet" type="text/css"></a></div></li>
+    <li> <div class="smartLink"><a href="/en/residential-home.html" analyticsname="Tophat:1:1:your home <linkhref=/content/dam/residential/custom-css/follow-us-edits.cssrel=stylesheet type=text/css /><link href=/content/dam/residential/custom-css/global-elements-custom.cssrel=stylesheet type=text/css />">Your Home <link href="/content/dam/residential/custom-css/follow-us-edits.css" rel="stylesheet" type="text/css"><link href="/content/dam/residential/custom-css/global-elements-custom.css" rel="stylesheet" type="text/css"></a></div></li>
 
     <li> <div class="smartLink"><a href="http://business.timewarnercable.com" analyticsname="Tophat:1:2:your business">Your Business</a></div></li>
 
@@ -243,7 +245,7 @@
                             <form action="javascript:void(0);" class="twc-user-location-search">
                                 <fieldset class="twc-search ">
                                     <div class="twc-search-input-wrap">
-                                        <input type="text" name="geolocation" placeholder="Enter Your Zip Code">
+                                        <input type="text" name="geolocation" data-component-path="residential/components/content/user-location" placeholder="Enter Your Zip Code">
                                         <button class="btn blue geoloc-btn" type="submit">GO</button>
                                     </div>
                                 </fieldset>
@@ -330,7 +332,7 @@ Make sure you entered your zip code correctly. If you entered your zip code corr
 
 
 
-<form action="/en/search.html">
+<form action="/en/about-us/search.html">
     <fieldset class="twc-search">
         <div class="twc-search-input-wrap search-input-wrap">
             
@@ -537,11 +539,11 @@ Make sure you entered your zip code correctly. If you entered your zip code corr
         <h3>SHARE</h3>
         <ul class="share">
             
-                <li><a analyticsname="share:twitter" href="https://twitter.com/share?url=http://www.timewarnercable.com:80&amp;text=Privacy Policy&amp;url=http://www.timewarnercable.com:80/content/twc/en/about-us/legal/privacy-policy.html&amp;eid=true" class="twitter" target="_blank">Twitter</a></li>
+                <li>Twitter</li>
             
-                <li><a analyticsname="share:facebook" href="http://www.facebook.com/sharer.php?u=http://www.timewarnercable.com:80/content/twc/en/about-us/legal/privacy-policy.html&amp;t=Privacy Policy&amp;eid=true" class="facebook" target="_blank">Facebook</a></li>
+                <li>Facebook</li>
             
-                <li><a analyticsname="share:linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.timewarnercable.com:80/content/twc/en/about-us/legal/privacy-policy.html&amp;title=Privacy Policy&amp;summary=articleSummary&amp;source=articleSource&amp;eid=true" class="linkedin" target="_blank">LinkedIn</a></li>
+                <li>LinkedIn</li>
             
         </ul>
     </div> <!-- .block -->
@@ -751,27 +753,27 @@ Make sure you entered your zip code correctly. If you entered your zip code corr
                
                    
                    <li>
-                       <a analyticsname="fat footer:1:1:packages" href="/en/residential-home/packages.html" class="">Packages</a>
+                       <a analyticsname="fat footer:1:1:packages" href="/en/plans-packages/cable-internet.html" class="">Packages</a>
                    </li>
                
                    
                    <li>
-                       <a analyticsname="fat footer:1:2:tv" href="/en/residential-home/tv/digital-cable-tv.html" class="">TV</a>
+                       <a analyticsname="fat footer:1:2:tv" href="/en/plans-packages/tv/digital-cable-tv-plans.html" class="">TV</a>
                    </li>
                
                    
                    <li>
-                       <a analyticsname="fat footer:1:3:internet" href="/en/residential-home/internet/internet-service-plans.html" class="">Internet</a>
+                       <a analyticsname="fat footer:1:3:internet" href="/en/plans-packages/internet/internet-service-plans.html" class="">Internet</a>
                    </li>
                
                    
                    <li>
-                       <a analyticsname="fat footer:1:4:phone" href="/en/phone/domestic-international-calling-plans.html" class="">Phone</a>
+                       <a analyticsname="fat footer:1:4:phone" href="/en/plans-packages/phone/domestic-international-calling-plans.html" class="">Phone</a>
                    </li>
                
                    
                    <li class="last">
-                       <a analyticsname="fat footer:1:5:home security" href="/en/residential-home/intelligenthome/overview.html" class="">Home Security</a>
+                       <a analyticsname="fat footer:1:5:home security" href="/en/intelligenthome/overview.html" class="">Home Security</a>
                    </li>
                
            </ul>
@@ -839,7 +841,7 @@ jQuery(document).ready(function(){
                
                    
                    <li>
-                       <a analyticsname="fat footer:2:5:twc apps" href="/en/residential-home/apps/twc-apps/overview.html" class="">TWC Apps</a>
+                       <a analyticsname="fat footer:2:5:twc apps" href="/en/apps.html" class="">TWC Apps</a>
                    </li>
                
                    
@@ -892,7 +894,7 @@ jQuery(document).ready(function(){
                
                    
                    <li>
-                       <a analyticsname="fat footer:3:1:browse support" href="/en/residential-home/support.html" class="">Browse Support</a>
+                       <a analyticsname="fat footer:3:1:browse support" href="/en/support/overview.html" class="">Browse Support</a>
                    </li>
                
                    
@@ -980,37 +982,32 @@ jQuery(document).ready(function(){
                
                    
                    <li>
-                       <a analyticsname="fat footer:4:2:live chat" href="#"></a><a href="#" onclick="MyWindow=window.open('http://www.timewarnercable.com/en/residential-home/support/chat-ui.html','MyWindow','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=450,height=700'); return false;">Live Chat</a>
+                       <a analyticsname="fat footer:4:2:contact us" href="/en/residential-home/support/contact-us.html" class="">Contact Us</a>
                    </li>
                
                    
                    <li>
-                       <a analyticsname="fat footer:4:3:contact us" href="/en/residential-home/support/contact-us.html" class="">Contact Us</a>
+                       <a analyticsname="fat footer:4:3:twc stores" href="/en/support/twc-stores.html" class="">TWC Stores</a>
                    </li>
                
                    
                    <li>
-                       <a analyticsname="fat footer:4:4:twc stores" href="/en/support/twc-stores.html" class="">TWC Stores</a>
+                       <a analyticsname="fat footer:4:4:channel feedback" href="/en/residential-home/support/channel-feedback.html" class="">Channel Feedback</a>
                    </li>
                
                    
                    <li>
-                       <a analyticsname="fat footer:4:5:channel feedback" href="/en/residential-home/support/channel-feedback.html" class="">Channel Feedback</a>
+                       <a analyticsname="fat footer:4:5:investor relations" href="http://ir.timewarnercable.com/investor-relations/default.aspx" class="" target="_blank">Investor Relations</a>
                    </li>
                
                    
                    <li>
-                       <a analyticsname="fat footer:4:6:investor relations" href="http://ir.timewarnercable.com/investor-relations/default.aspx" class="" target="_blank">Investor Relations</a>
-                   </li>
-               
-                   
-                   <li>
-                       <a analyticsname="fat footer:4:7:careers" href="http://jobs.timewarnercable.com/?utm_source=careersite" class="" target="_blank">Careers</a>
+                       <a analyticsname="fat footer:4:6:careers" href="http://jobs.timewarnercable.com/?utm_source=careersite" class="" target="_blank">Careers</a>
                    </li>
                
                    
                    <li class="last">
-                       <a analyticsname="fat footer:4:8:email offers" href="http://email.timewarnercable.com/p/TWC_Marketing/TWC_Custom_Acquistion_Page" class="">Email Offers</a>
+                       <a analyticsname="fat footer:4:7:email offers" href="http://email.timewarnercable.com/p/TWC_Marketing/Preferences" class="">Email Offers</a>
                    </li>
                
            </ul>
@@ -1294,7 +1291,6 @@ jQuery(document).ready(function(){
 
 
 
-<script type="text/javascript" src="/etc/clientlibs/common/session-cookie-fix.js"></script>
 <script type="text/javascript" src="/etc/designs/residential/clientlibs.js"></script>
 <script type="text/javascript" src="/etc/designs/common/clientlibs.js"></script>
 
@@ -1317,8 +1313,7 @@ jQuery(document).ready(function(){
 <script type="text/javascript" src="/etc/clientlibs/foundation/sitecatalyst/twc-plugins.js"></script>
 <script type="text/javascript" src="/etc/clientlibs/foundation/sitecatalyst/plugins.js"></script>
 <script type="text/javascript">
-<!--
-CQ_Analytics.Sitecatalyst.frameworkComponents = ['common/components/page/base','common/components/content/link-group','responsive/residential/components/personalization/twcprofile','common/components/page/custom404','common/components/content/cta'];
+CQ_Analytics.Sitecatalyst.frameworkComponents = ['responsive/residential/components/content/user-location','responsive/residential/components/content/clu/tune-in-link','residential/components/content/user-location','buyflow/components/page/base','common/components/page/base','responsive/residential/components/content/my-move-module/multi-form','responsive/residential/components/content/youtube-search-module/youtube-iframe','responsive/residential/components/content/left-rail/leftRail-topic','responsive/common/components/content/analytics-error-page','responsive/residential/components/personalization/twcprofile','formbuilder/components/content/form','responsive/residential/components/content/user-location/mobile','responsive/residential/components/content/my-move-module/my-move'];
 /**
  * Sets SiteCatalyst variables accordingly to mapped components. If <code>options</code> 
  * object is provided only variables matching the options.componentPath are set.
@@ -1327,19 +1322,97 @@ CQ_Analytics.Sitecatalyst.frameworkComponents = ['common/components/page/base','
  */
 CQ_Analytics.Sitecatalyst.updateEvars = function(options) {
     this.frameworkMappings = [];
+	this.frameworkMappings.push({scVar:"event86",cqVar:"eventdata.events.linkClick",resourceType:"responsive/residential/components/content/user-location"});
+	this.frameworkMappings.push({scVar:"eVar6",cqVar:"eventdata.currentGeoRegion",resourceType:"responsive/residential/components/content/user-location"});
+	this.frameworkMappings.push({scVar:"eVar57",cqVar:"eventdata.linkText",resourceType:"responsive/residential/components/content/user-location"});
+	this.frameworkMappings.push({scVar:"eVar59",cqVar:"eventdata.currentPage",resourceType:"responsive/residential/components/content/user-location"});
+	this.frameworkMappings.push({scVar:"prop19",cqVar:"eventdata.linkText",resourceType:"responsive/residential/components/content/clu/tune-in-link"});
+	this.frameworkMappings.push({scVar:"eVar6",cqVar:"eventdata.currentGeoRegion",resourceType:"responsive/residential/components/content/clu/tune-in-link"});
+	this.frameworkMappings.push({scVar:"prop3",cqVar:"eventdata.currentGeoRegion",resourceType:"responsive/residential/components/content/clu/tune-in-link"});
+	this.frameworkMappings.push({scVar:"eVar59",cqVar:"eventdata.currentPage",resourceType:"responsive/residential/components/content/clu/tune-in-link"});
+	this.frameworkMappings.push({scVar:"event86",cqVar:"eventdata.events.linkClick",resourceType:"residential/components/content/user-location"});
+	this.frameworkMappings.push({scVar:"eVar6",cqVar:"eventdata.currentGeoRegion",resourceType:"residential/components/content/user-location"});
+	this.frameworkMappings.push({scVar:"eVar57",cqVar:"eventdata.linkText",resourceType:"residential/components/content/user-location"});
+	this.frameworkMappings.push({scVar:"eVar59",cqVar:"eventdata.currentPage",resourceType:"residential/components/content/user-location"});
+	this.frameworkMappings.push({scVar:"event10",cqVar:"eventdata.events.billingPaymentInfo",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar9",cqVar:"eventdata.existingLOS",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar6",cqVar:"eventdata.serviceRegion",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar7",cqVar:"eventdata.siteTool",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"scAdd",cqVar:"eventdata.events.cartAdd",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar67",cqVar:"eventdata.chatBreadcrumb",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"prop60",cqVar:"eventdata.breadcrumb",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event55",cqVar:"eventdata.events.orderReview",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar69",cqVar:"eventdata.cartFirstProduct",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar68",cqVar:"eventdata.chatPageName",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event92",cqVar:"eventdata.events.subPageView",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event40",cqVar:"eventdata.events.chatClick",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar38",cqVar:"eventdata.installationOption",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event43",cqVar:"eventdata.events.install",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event48",cqVar:"eventdata.events.siteToolUsed",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"transactionID",cqVar:"eventdata.orderID",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event49",cqVar:"eventdata.events.pageViewEvent",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event86",cqVar:"eventdata.events.click",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"prop63",cqVar:"eventdata.subPageViewValue",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"prodView",cqVar:"eventdata.events.prodView",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"prop3",cqVar:"eventdata.serviceRegion",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event84",cqVar:"eventdata.events.impression",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event36",cqVar:"eventdata.events.agreements",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event73",cqVar:"eventdata.events.confirmationFlag",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event38",cqVar:"eventdata.events.credit_card",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event37",cqVar:"eventdata.events.billingContactInfo",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"state",cqVar:"eventdata.serviceState",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"purchase",cqVar:"eventdata.events.purchase",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event30",cqVar:"eventdata.events.order_summary",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar45",cqVar:"eventdata.orderID",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"purchaseID",cqVar:"eventdata.orderID",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event28",cqVar:"eventdata.events.internet",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"products",cqVar:"eventdata.products",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event29",cqVar:"eventdata.events.phone",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event27",cqVar:"eventdata.events.tv",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar13",cqVar:"eventdata.paymentType",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"zip",cqVar:"eventdata.serviceZipConfirm",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar14",cqVar:"eventdata.clickToChat",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"pageName",cqVar:"eventdata.pageName",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event25",cqVar:"eventdata.events.landing",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"scRemove",cqVar:"eventdata.events.cartRemove",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar12",cqVar:"eventdata.serviceZip",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar57",cqVar:"eventdata.analyticsNiceName",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar59",cqVar:"eventdata.pageNameTracklight",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"event66",cqVar:"eventdata.events.oneTimeRevenue",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar19",cqVar:"eventdata.buyflowType",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"scOpen",cqVar:"eventdata.events.cartOpen",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"eVar63",cqVar:"eventdata.subPageViewValue",resourceType:"buyflow/components/page/base"});
+	this.frameworkMappings.push({scVar:"pageName",cqVar:"eventdata.pageName",resourceType:"common/components/page/base"});
 	this.frameworkMappings.push({scVar:"prop29",cqVar:"eventdata.PageLanguage",resourceType:"common/components/page/base"});
-	this.frameworkMappings.push({scVar:"prop15",cqVar:"pagedata.template",resourceType:"common/components/page/base"});
-	this.frameworkMappings.push({scVar:"eVar28",cqVar:"'|'+(twcprofile.onNetwork == 'true' ? 'net:on network' : 'net:off network')+'|'+(twcprofile.customerStatus == 'new' ? 'cus:not customer' : 'cus:customer')+'|'",resourceType:"common/components/page/base"});
-	this.frameworkMappings.push({scVar:"prop19",cqVar:"eventdata.prop19",resourceType:"common/components/content/link-group"});
-	this.frameworkMappings.push({scVar:"prop54",cqVar:"eventdata.prop54",resourceType:"common/components/content/link-group"});
-	this.frameworkMappings.push({scVar:"eVar6",cqVar:"twcprofile.region",resourceType:"responsive/residential/components/personalization/twcprofile"});
+	this.frameworkMappings.push({scVar:"prop19",cqVar:"eventdata.siteTool",resourceType:"responsive/residential/components/content/my-move-module/multi-form"});
+	this.frameworkMappings.push({scVar:"eVar7",cqVar:"eventdata.siteTool",resourceType:"responsive/residential/components/content/my-move-module/multi-form"});
+	this.frameworkMappings.push({scVar:"eVar59",cqVar:"eventdata.currentPageName",resourceType:"responsive/residential/components/content/my-move-module/multi-form"});
+	this.frameworkMappings.push({scVar:"event48",cqVar:"eventdata.events.siteToolUsed",resourceType:"responsive/residential/components/content/my-move-module/multi-form"});
+	this.frameworkMappings.push({scVar:"eVar54",cqVar:"eventdata.errorMessage",resourceType:"responsive/residential/components/content/my-move-module/multi-form"});
+	this.frameworkMappings.push({scVar:"event82",cqVar:"eventdata.events.errorEvent",resourceType:"responsive/residential/components/content/my-move-module/multi-form"});
+	this.frameworkMappings.push({scVar:"eVar6",cqVar:"eventdata.currentGeoRegion",resourceType:"responsive/residential/components/content/youtube-search-module/youtube-iframe"});
+	this.frameworkMappings.push({scVar:"event42",cqVar:"eventdata.events.videoNaturalEnd",resourceType:"responsive/residential/components/content/youtube-search-module/youtube-iframe"});
+	this.frameworkMappings.push({scVar:"event6",cqVar:"eventdata.events.videoStart",resourceType:"responsive/residential/components/content/youtube-search-module/youtube-iframe"});
+	this.frameworkMappings.push({scVar:"eVar1",cqVar:"eventdata.videoTitle",resourceType:"responsive/residential/components/content/youtube-search-module/youtube-iframe"});
+	this.frameworkMappings.push({scVar:"eVar63",cqVar:"eventdata.tabName",resourceType:"responsive/residential/components/content/left-rail/leftRail-topic"});
+	this.frameworkMappings.push({scVar:"prop63",cqVar:"eventdata.tabName",resourceType:"responsive/residential/components/content/left-rail/leftRail-topic"});
+	this.frameworkMappings.push({scVar:"event92",cqVar:"eventdata.events.tabClick",resourceType:"responsive/residential/components/content/left-rail/leftRail-topic"});
+	this.frameworkMappings.push({scVar:"prop3",cqVar:"eventdata.currentGeoRegion",resourceType:"responsive/residential/components/content/left-rail/leftRail-topic"});
+	this.frameworkMappings.push({scVar:"eVar59",cqVar:"eventdata.currentPage",resourceType:"responsive/residential/components/content/left-rail/leftRail-topic"});
+	this.frameworkMappings.push({scVar:"pageName",cqVar:"eventdata.pageName",resourceType:"responsive/common/components/content/analytics-error-page"});
 	this.frameworkMappings.push({scVar:"eVar12",cqVar:"twcprofile.zipcode",resourceType:"responsive/residential/components/personalization/twcprofile"});
-	this.frameworkMappings.push({scVar:"prop3",cqVar:"twcprofile.region",resourceType:"responsive/residential/components/personalization/twcprofile"});
-	this.frameworkMappings.push({scVar:"pageName",cqVar:"eventdata.errorPageName",resourceType:"common/components/page/custom404"});
-	this.frameworkMappings.push({scVar:"prop29",cqVar:"eventdata.PageLanguage",resourceType:"common/components/page/custom404"});
-	this.frameworkMappings.push({scVar:"prop15",cqVar:"pagedata.template",resourceType:"common/components/page/custom404"});
-	this.frameworkMappings.push({scVar:"prop19",cqVar:"eventdata.prop19",resourceType:"common/components/content/cta"});
-	this.frameworkMappings.push({scVar:"prop54",cqVar:"eventdata.prop54",resourceType:"common/components/content/cta"});
+	this.frameworkMappings.push({scVar:"eVar63",cqVar:"eventdata.formNameAndStep",resourceType:"formbuilder/components/content/form"});
+	this.frameworkMappings.push({scVar:"prop63",cqVar:"eventdata.formNameAndStep",resourceType:"formbuilder/components/content/form"});
+	this.frameworkMappings.push({scVar:"event92",cqVar:"eventdata.events.subPageView",resourceType:"formbuilder/components/content/form"});
+	this.frameworkMappings.push({scVar:"event86",cqVar:"eventdata.events.linkClick",resourceType:"responsive/residential/components/content/user-location/mobile"});
+	this.frameworkMappings.push({scVar:"eVar6",cqVar:"eventdata.currentGeoRegion",resourceType:"responsive/residential/components/content/user-location/mobile"});
+	this.frameworkMappings.push({scVar:"eVar57",cqVar:"eventdata.linkText",resourceType:"responsive/residential/components/content/user-location/mobile"});
+	this.frameworkMappings.push({scVar:"eVar59",cqVar:"eventdata.currentPage",resourceType:"responsive/residential/components/content/user-location/mobile"});
+	this.frameworkMappings.push({scVar:"eVar7",cqVar:"eventdata.siteTool",resourceType:"responsive/residential/components/content/my-move-module/my-move"});
+	this.frameworkMappings.push({scVar:"eVar59",cqVar:"eventdata.currentPageName",resourceType:"responsive/residential/components/content/my-move-module/my-move"});
+	this.frameworkMappings.push({scVar:"event48",cqVar:"eventdata.events.siteToolUsed",resourceType:"responsive/residential/components/content/my-move-module/my-move"});
+	this.frameworkMappings.push({scVar:"eVar54",cqVar:"eventdata.errorMessage",resourceType:"responsive/residential/components/content/my-move-module/my-move"});
+	this.frameworkMappings.push({scVar:"event82",cqVar:"eventdata.events.errorEvent",resourceType:"responsive/residential/components/content/my-move-module/my-move"});
     for (var i=0; i<this.frameworkMappings.length; i++){
 		var m = this.frameworkMappings[i];
 		if (!options || options.compatibility || (options.componentPath == m.resourceType)) {
@@ -1349,27 +1422,25 @@ CQ_Analytics.Sitecatalyst.updateEvars = function(options) {
 }
 
 CQ_Analytics.CCM.addListener("storesinitialize", function(e) {
-	var collect = true;
-    var lte = s.linkTrackEvents;
-    s.pageName="content:twc:en:about-us:legal:privacy-policy";
-    CQ_Analytics.Sitecatalyst.collect(collect);
-    if (collect) {
-		CQ_Analytics.Sitecatalyst.updateEvars();
-	    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-	    var s_code=s.t();if(s_code)document.write(s_code);
-	    s.linkTrackEvents = lte;
-	    if(s.linkTrackVars.indexOf('events')==-1){delete s.events};
-	    $CQ(document).trigger("sitecatalystAfterCollect");
+    if (CQ_Analytics.StoreRegistry.getStore("eventdata") && !window.hasPageViewFired) {
+        window.hasPageViewFired = true;
+        var lte = s.linkTrackEvents;
+        CQ_Analytics.Sitecatalyst.collect(true);
+        CQ_Analytics.Sitecatalyst.updateEvars();
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code);
+        s.linkTrackEvents = lte;
+        if(s.linkTrackVars.indexOf('events')==-1){delete s.events};
+        $CQ(document).trigger("sitecatalystAfterCollect");
     }
 });
-//-->
 </script>
 <script type="text/javascript">
 <!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //-->
 </script>
-<noscript><img src="http://metric.timewarnercable.com/b/ss/tsg2resdev3/1/H.25--NS/1402439111904?cdp=2&amp;gn=content%3Atwc%3Aen%3Aabout-us%3Alegal%3Aprivacy-policy" height="1" width="1" border="0" alt=""/></noscript>
+<noscript><img src="http://metric.timewarnercable.com/b/ss/tsg2resdev3/1/H.25--NS/1419892709592?cdp=2&amp;gn=content%3Atwc%3Aen%3Aabout-us%3Alegal%3Aprivacy-policy" height="1" width="1" border="0" alt=""/></noscript>
 <span data-tracking="{event:'pageView', values:{}, componentPath:'foundation/components/page'}"></span>
 </div>
 
