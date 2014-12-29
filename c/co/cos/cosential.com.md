@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosential.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117013416id_/http%3A//www.cosential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosential.com privacy policy that was archived on 2014-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141229014905id_/http%3A//www.cosential.com/privacy-policy) for the most accurate reproduction.*
 
 # Cosential - Privacy Policy
 
@@ -27,3 +27,5 @@ Customers may prevent their information from being used for purposes other than 
 Upon request we provide site visitors with access to financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them .
 
 Information contained in the Cosential System or other programs is subject to the confidentiality and privacy agreement for each product.
+
+Cosential is a registered trademark of Cosential, Inc. 
