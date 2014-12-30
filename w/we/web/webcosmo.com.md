@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcosmo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626151725id_/http%3A//www.webcosmo.com/help/help_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcosmo.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230163213id_/http%3A//www.webcosmo.com/help/help_privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
