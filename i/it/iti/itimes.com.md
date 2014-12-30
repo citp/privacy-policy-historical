@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the itimes.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110022id_/http%3A//itimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itimes.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230130124id_/http%3A//ww.itimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Be more interesting | itimes | Privacy Policy
 
-Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman & Co. Limited. Indiatimes located at http://in.indiatimes.com is the mother brand of TIL and powers / manages the Online Properties (Brand Names) of the 'Times Group' interalia www.timesofindia.com, www.economictimes.com, www.navbharattimes.com, www.maharashtratimes.com including various internet sites and community boards and services, to name a few, (Indiatimes Channels) hereinafter collectively referred to as TIL. 
+Times Internet Limited, (“TIL”) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the website [ww.itimes.com ](http://ww.itimes.com/)
 
-TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. You may read ['About Us'](http://timesinternet.in/about-us/corporate-overview/cview/15615486.cms) to know more about TIL. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'Indiatimes Channels' in detail. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
+TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
  **By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.**
 
  **USER INFORMATION**
 
-To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites as in Indiatimes Contests, dating etc. we require your contact addresses. 
+To avail certain sites / services on our websites, users are required to provide certain information for the registration process that may include but not limited to :- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. 
 
-All required information is service dependent and TIL may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services. 
+All required information is service dependent and TIL may use the above said user information to, maintain, protect, and improve its services (including advertising services) and for developing new services. 
 
-Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force. 
+Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005, any rules made there under or any other law for the time being in force. 
 
 **COOKIES**
 
-To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. 
+To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a user identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control. 
 
-Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. 
+Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. 
 
-**LINK TO THIRD PARTY SITES**
+ **LINK TO THIRD PARTY SITES**
 
 TIL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
 
@@ -33,7 +33,7 @@ When we present information to our advertisers -- to help them understand our au
 TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
 
   1. When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences. These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.
-  2. TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  2.  TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
 
 
 
@@ -49,25 +49,31 @@ All information gathered on TIL is securely stored within the TIL controlled dat
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance officer as mentioned below via post or by sending an email to grievance.itimes@timesinternet.in to 
 
-In the event you have any grievance relating to the processing of information provided by you or relating to any grievance pertaining to the Site, you may contact our Grievance Officer, at copyright.infringement@indiatimes.com ; or write at the following address:
+Mr. Pushpinder Singh Sahi ("Grievance Officer") 
 
-Pushpinder Singh Sahi   
-Grievance Redressal Officer   
-itimes.com   
-Times Internet Limited   
+**Grievance Redressal**
+
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to 
+
+Mr. Pushpinder Singh Sahi ("Grievance Officer") 
+
+**Times Internet Limited**
+
+[http://ww.itimes.com ](http://ww.itimes.com/)  
+Times Internet Limited  
 Plot No. 391, Udyog Vihar, Phase – III,  
-Gurgaon, Haryana 122016   
-India  
-Ph: 0124-4518550
+Gurgaon - 122016, Haryana, India  
+Ph : + 91-124-4187000/4518550.
 
 We request you to please provide the following information in your complaint:-
 
-  1. Identification of the information provided by you
-  2. Clear statement as to whether the information is personal information or sensitive personal information
-  3. Your address, telephone number or e-mail address.
-  4. A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.
-  5. A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.
+  1. A physical or electronic signature of a person authorized to act on behalf of the copyright owner for the purposes of the complaint.
+  2. Identification of the copyrighted work claimed to have been infringed..
+  3. Identification of the material on our website that is claimed to be infringing or to be the subject of infringing activity.
+  4. The address, telephone number or e-mail address of the complaining party.
+  5. A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law.
+  6. A statement, under penalty of perjury, that the information in the notice of copyright infringement is accurate, and that the complaining party is authorized to act on behalf of the owner of the right that is allegedly infringed.
 
 
