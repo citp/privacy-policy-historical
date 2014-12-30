@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flirchi.ru privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629165934id_/http%3A//flirchi.ru/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirchi.ru privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042713id_/http%3A//flirchi.ru/privacypolicy) for the most accurate reproduction.*
 
-# Флирчи – сайт знакомств! Общение без ограничений
+# Флирчи – website for meetings! Communication without limits
 
 ### Privacy Policy
 
@@ -56,9 +56,7 @@ In General. We may use information that we collect about you to:
 
   * perform functions as otherwise described to you at the time of collection; and
 
-  * register you with and display your profile on other online dating and other social websites owned by Us.
-
-
+  * 
 
 
 Financial information. We may use financial information or payment method to process payment for any purchases made on our website, enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
