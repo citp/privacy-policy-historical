@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafemom.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630180520id_/http%3A//www.cafemom.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafemom.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230225946id_/http%3A//www.cafemom.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CafeMom
 
