@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cybernaira.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084050id_/http%3A//cybernaira.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybernaira.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230051839id_/http%3A//cybernaira.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy. Blogging Tips To Help You Make Money Online - CyberNaira
-
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fcybernaira.com%2Fprivacy-policy%2F&media=)
+# . Blogging Tips To Help You Make Money Online - CyberNaira
 
 **Privacy Policy for www.cybernaira.com**
 
