@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101722id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanddate.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080711id_/http%3A//www.timeanddate.com/information/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for timeanddate.com
 
@@ -30,5 +30,5 @@ Time and Date AS
 PO Box 27 Forus  
 NO-4064 Stavanger  
 Norway  
-[webmaster@timeanddate.com](https://web.archive.org/common/mailto.cgi?webmaster=timeanddate.com)  
+[webmaster@timeanddate.com](mailto://webmaster@timeanddate.com)  
 Fax: +47 5163 2711
