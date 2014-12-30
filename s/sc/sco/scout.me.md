@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the scout.me privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110013909id_/http%3A//www.telenav.com/legal/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scout.me privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230152420id_/http%3A//www.telenav.com/legal/policies.html) for the most accurate reproduction.*
 
 # Telenav Policies
 
 Telenav Privacy Policy
 
-By using our services, products, websites, or otherwise by interacting with us, you consent to this privacy policy. If you do not agree with the terms of this policy, please do not engage in any of these activities.
+This Privacy Policy governs your use of services, product or websites offered by Telenav, Inc. (“Telenav”), including Thinknear by Telenav and thinknear.com. By using our services, products, websites, or otherwise by interacting with us, you consent to this Privacy Policy. If you do not agree with the terms of this Policy, please do not engage in any of these activities.
 
 Telenav understands and respects your concerns about the use of your personally identifiable information, collected from you as a customer or visitor to our websites that identifies you as a specific person or entity ("personal information"). Personal information includes name, nicknames, birth date, gender, billing and shipping addresses, telephone numbers including mobile telephone numbers, social security number, last four digits of credit card numbers, credit card holder's names, credit card expiration dates, billing account number, Mobile Subscriber Identifier, Mobile Equipment Identifier, Network Address Identifier, IP address, call records, audible utterances, email addresses, personal interests, personal identification number (PIN), and if a corporate entity, may also include company name, purchase order number, and employee number and occupation. Personal information does not include anonymous or aggregate information, which after processing may not be associated with a specific person or entity. We believe that you should know what information about you we collect, as well as how that information is used, maintained, and, in some cases, shared. The following sets forth our privacy practices and policies, applicable to Telenav customers and visitors to the Telenav websites.
 
@@ -12,23 +12,29 @@ You acknowledge and understand that this privacy policy does not apply to our bu
 
 INFORMATION COLLECTED ABOUT YOU AND OUR USE OF SUCH INFORMATION
 
-The types of personal and other information we may collect about you are primarily from three sources: (1) information you provide; (2) information automatically collected; and (3) information from other sources. How we use and maintain that information is described below. 
+The types of personal and other information we may collect about you are primarily from three sources: (1) information you provide; (2) information automatically collected; and (3) information from other sources. How we use and maintain that information is described below.
 
 1\. Information You Provide
 
-**(a) Register/Information Related to Your Account**
+(a) Register/Information Related to Your Account
 
 We collect and store personal information about you when you register to become a customer of our services, and when you otherwise transmit such information to us via the internet (including partner websites) or by email. For instance, to maintain your account we collect and store in a database your name, nickname(s), billing address, email address, mobile phone number, or device ID/number for certain devices, mobile phone model, wireless carrier, and in certain circumstances the last four digits of your credit card number, credit card holder's names, and credit card expiration dates.
 
 We use your name, billing address, and credit card number for the purpose of billing you for our services, and other services offered from within certain Telenav products, and with your permission, may store such information for future transactions.
 
-We may also use the information that we collect about you to manage your account and provide you with customer support, perform research and analysis about your use of our products and services, to inform you from time to time by email, Short Messaging Service (SMS) message and/or within our application about products or services that we think will interest you, unless you inform us that you opt out from receiving such communications.
+When you choose to access our services through a Facebook log-in, we collect your name, profile picture, email, Facebook password and your Facebook contacts list with your permission. Your name will be displayed and stored within our application and your email and Facebook password will be stored to provide future access to our application. We may use this email to contact you regarding your account and/or to respond to any inquiry or feedback you submit from within our applications as described in section (b) below. If you want to revoke authorization for the application to interact with your Facebook account, you can remove the application from the list of permitted Apps or turn off the Platform for Apps, Plugin and Websites from the Settings menu for your Facebook account. 
 
-**(b) Website Use/Contact Our Customer Service Representatives**
+When you choose to access our services through a Google Sign in, we collect your email, basic profile information and Google password with your permission, which will be stored to provide future access to our application. We may use this email to contact you regarding your account and/or to respond to any inquiry or feedback you submit from within our applications as described in section (b) below. 
 
-We use your email address to contact you with regard to your account, such as to communicate that it is about to expire or to confirm any change to your phone number, and to respond to any inquiry or feedback you submit via our websites by email or from within any of our applications. 
+We may also use the information that we collect about you to manage your account and provide you with customer support, perform research and analysis about your use of our products and services, to inform you from time to time by email, Short Messaging Service (SMS) message and/or within our application about products or services that we think will interest you, unless you inform us that you opt out from receiving such communications. We may share the information we collect about you and your usage activity with our third party partners for the purpose of performing research and analysis about users of our products and services.
 
-**(c) Accessing Our Services**
+(b) Contact Our Customer Service Representatives/In-App Feedback
+
+We may use your email address to contact you with regard to your account, such as to communicate that it is about to expire or to confirm any change to your phone number, and to respond to any inquiry or feedback you submit via our websites by email or from within any of our applications.
+
+Additionally, if you provide feedback regarding a routing or map issue within one of our applications, we may share your comments and anonymized data about your location and route with the OpenStreetMap community for purposes of improving OpenStreetMap data.
+
+(c) Accessing Our Services
 
 When you use any of our services, including when you use a mobile device equipped with one of our services, you will be asked to provide certain information. We may use your mobile phone number/device ID number as your account number so that when you access our services for instructions or interact with our automated voice entry system, we can use caller ID to map your phone number to your account number. We may also assign you a separate and unique ID number, which may be stored and used to manage your account and provide you with customer support, perform research and analysis about your use of our products and services, to inform you from time to time by email, SMS message and/or within our application about products or services that we think will interest you, unless you inform us that you opt out from receiving such communications.
 
@@ -36,61 +42,81 @@ As a customer of Telenav, you may also create a personal identification number (
 
 As a customer of Telenav, you also have the option of providing us with your home and work addresses (to the extent they differ from your billing address), which we store in our database, to enable you to access readily other features of our services.
 
-On some versions of our services, you can also create a list of "favorite" addresses that can include your home and work addresses, and that you may edit on our website, or on your mobile device. We store these addresses in our database so that you can access them from your mobile device, and so that should you change devices, this collection of addresses will still be available to you. 
+On some versions of our services, you can also create a list of "favorite" addresses that can include your home and work addresses, and that you may edit on our website, or on your mobile device. We store these addresses in our database so that you can access them from your mobile device, and so that should you change devices, this collection of addresses will still be available to you.
 
-On some versions of our services, registered Scout.me users can create a custom list of POIs and addresses that you may name, organize and edit on the Scout.me website or mobile website. We store these addresses in our database so that you can access them from your Scout.me account, and so that you can share your lists with others. Registered Scout.me users can opt to share a URL link to any of their lists via email, the internet or text messages using SMS. To respect the privacy of any individual with whom you would like to share your list via SMS message, but who has requested not to accept SMS messages, we maintain a list of recipients who have opted-out of receiving these messages. Recipients of the URL link will be able to view your list indefinitely, and will be able to share that URL link with others as well. Anyone with the URL link will be able to view the contents of your list. You can continue to add, remove or edit the POIs and addresses in any of your lists at any time, including renaming or deleting the entire list. Anyone accessing the URL will view the most current version of your list, but will not be able to view a deleted list.
-
-**(d) Third Party Applications**
+(d) Third Party Applications
 
 Some of Telenav's services provide you with access to third party applications. When you enable a third party application, information collected by Telenav is processed under our privacy policy while information collected by the third party application provider is governed by its own privacy policy.
 
-**(e) Promotions**
+(e) Promotions
 
 When you participate in a Telenav promotion, such as a sweepstakes or contest, you will typically be asked to provide your name and email address, and possibly other information such as your mailing address and telephone number.
 
 We store this information in our database and will use it to communicate with you about the promotion. We also may use your email address from time to time to inform you about our products and services that we think will interest you, unless you inform us that you opt out from receiving such communications.
 
-**(f) Request for Information**
+(f) Request for Information
 
-When you request additional information about one of our services either via our website or via one of our partners through which our services are offered, such as a mobile telecommunications provider, information we collect through these requests include your name, nickname(s), phone number, and email address, and if you are seeking information on behalf of your company, the name of that company. We will use this information to provide you with details about our services, and we may use this information to promote our services to you in the future, unless you inform us that you opt out from receiving such communications. To understand what a partner of ours may do with information about you in the partner's custody, you should check the privacy policy of that partner.
+When you request additional information about one of our services either via one of our websites or via one of our partners through which our services are offered, such as a mobile telecommunications provider, information we collect through these requests include your name, nickname(s), phone number, and email address, and if you are seeking information on behalf of your company, the name of that company. We will use this information to provide you with details about our services, and we may use this information to promote our services to you in the future, unless you inform us that you opt out from receiving such communications. To understand what a partner of ours may do with information about you in the partner's custody, you should check the privacy policy of that partner.
 
-**(g) Public Forums**
+(g) Public Forums
 
 If you use or link to public forums such as social networking services, blogs on Telenav or non-Telenav websites, internet bulletin boards, or chat rooms, be aware that any personal information you submit can be read, collected, or used by other users of these forums, including to send you unsolicited messages. Telenav cannot prevent the distribution and use of such information by other parties.
 
-**(h) Other Submissions**
+(h) Other Submissions
 
 We collect personal information about you when you submit survey responses, a job application or resume.
 
 2\. Information Automatically Collected
 
-We automatically receive certain types of information, some of which may be associated with personal information, when you visit our websites or use our products and services. 
+We automatically receive certain types of information, some of which may be associated with personal information, when you visit our websites or use our products and services.
 
-**(a) Information Related to Your Location and Route or Other User Content**
+(a) Information Related to Your Location and Route or Other User Content
 
-Each time you access the Telenav GPS Navigator™ or Scout™ service or our partnered branded versions of GPS Navigator services, we record your location and route information, including your point of origin (which may be your then-current location), the address of your destination, the starting time of your trip, and the route you are instructed to follow. We record your current location when your wireless device requests a rerouting (which occurs, for example, when you deviate from the specified instructions). We maintain a database with these locations and route information, and may keep such information indefinitely to improve our map coverage and to provide other features that may enhance your service capabilities, functions, and your user experience. We may periodically receive your current location from the GPS hardware associated with your wireless device for the purpose of providing enhanced services, including traffic flow data. When your location, GPS heading and speed are used for these purposes, we strip it of your personal identity information, such as your phone number, prior to storing. 
-
-The Telenav Track™ service combines GPS, wireless and web technologies to enable fleet dispatching and activity reporting. To provide the Telenav Track service, we record your route information, including your point of origin, the address of your destination, the starting time of your trip, and the route you are instructed to follow, and must periodically receive your GPS location from the GPS hardware associated with your wireless device, as well as internally continuously record, compile, and display data regarding the location of your GPS and wireless device. If an entity or another individual obtains the Telenav Track service for you, that entity or individual is our customer, and we may provide personal information on your use of the service to the entity at its direction, and use of such information by the entity is outside the control of Telenav. 
+Each time you access the Telenav GPS Navigator™ or Scout® service or our partnered branded versions of GPS Navigator services, we record your location and route information, including your point of origin (which may be your then-current location), the address of your destination, the starting time of your trip, and the route you are instructed to follow. We record your current location when your wireless device requests a rerouting (which occurs, for example, when you deviate from the specified instructions). We maintain a database with these locations and route information, and may keep such information indefinitely to improve our map coverage and to provide other features that may enhance your service capabilities, functions, and your user experience. We may periodically receive your current location from the GPS hardware associated with your wireless device for the purpose of providing enhanced services, including traffic flow data. When your location, GPS heading and speed are used for these purposes, we strip it of your personal information, such as your phone number, prior to storing.
 
 When you choose to use your current GPS location for specifying the locale for a business finder search, or obtaining a map, we use your location information for the requested purpose, and then discard it. We anonymously record any search activities and results for comparative analysis. Further, we anonymously record transactions for the purpose of paying directory listing and mapping data providers.
 
-Some versions of our services include a location and information sharing feature that enables you to send your location or other information to another party. These location exchanges are transmitted via the internet or text messages using SMS. We record these location exchanges, and may keep such information indefinitely. To respect the privacy of any individual with whom you would like to conduct a location exchange, but who has requested not to accept SMS messages, we maintain a list of recipients who have opted-out of receiving these messages. For some applications we may save this location information until you replace it or elect to delete your account. Upon termination of our services, all data in your profile will be removed. However, information regarding yourself in connection with any particular event shall remain available within the applicable service, but shall remain available solely in connection with the event. Any other user submission data, email, or other such service interaction shall be removed from the applicable service, and shall no longer be available to you or other members of such service.
+Some versions of our services include a location and information sharing feature that enables you to share your location or other information with another party. These location exchanges are transmitted within the application or via the internet or text messages using SMS. For example, when you create or join a Meet Up with the Scout application, your current location will be displayed on a map visible by other Meet Up participants. Your location will be removed from the map when you delete or close the Meet Up. We record these location exchanges, and may keep such information indefinitely. To respect the privacy of any individual with whom you would like to conduct a location exchange, but who has requested not to accept SMS messages, we maintain a list of recipients who have opted-out of receiving these messages. For some applications we may save this location information until you replace it or elect to delete your account. Upon termination of our services, all data in your profile will be removed. However, information regarding yourself in connection with any particular event or Meet Up shall remain available within the applicable service, but shall remain available solely in connection with the event. Any other user submission data, email, or other such service interaction shall be removed from the applicable service, and shall no longer be available to you or other members of such service.
 
-Additionally, in some versions of our applications, you can allow our application to access the data stored in the address book and/or calendar on your mobile device. Our applications may use data from your address book to allow you to search for and navigate to the addresses of your contacts and our applications may use calendar entry data to provide you with reminders about upcoming appointments and to provide navigation to the locations of your appointments. We will only access this data if you have given permissions for a particular Telenav application to do so, and you can revoke such permissions at any time by changing the settings on your mobile device. 
+Additionally, in some versions of our applications, you can allow our application to access the data stored in the address book and/or calendar on your mobile device. Our applications may use data from your address book or for your Facebook or Google+ contacts (if you signed in with a FacebookÂ  or Google+ sign-in) to allow you to search for and navigate to the addresses of your contacts, chat with your contacts within the application, or create a Meet Up within the application. Our applications may use calendar entry data to provide you with reminders about upcoming appointments and to provide navigation to the locations of your appointments. We will only access this data if you have given permissions for a particular Telenav application to do so, and you can revoke such permissions at any time by changing the settings on your mobile device.
 
-**(b) Cookies, Web Beacons, and Similar Technologies on the Website and Telenav Applications**
+When you access Telenav map and data services through a third party application, we receive and store your location information from your device along with any address or point of interest search requests along with associated destination location information. We maintain a database with locations and search information, and may keep such information indefinitely to improve our map coverage and to provide other features that may enhance your service capabilities, functions, and your user experience. Such data does not contain any personal information, such as your phone number.
 
-We may employ browser cookies or similar technologies to identify the computer, mobile device, or some of our services and record your preferences and other data. We use cookies or similar technologies to evaluate how our websites, devices or applications are used and to provide continuous improvement to our services, make recommendations, and complete transactions you request. Cookies may be stored locally on mobile devices or on computer servers operated or controlled by Telenav. We may use a tracking pixel, agent or other visitor identification technology that collects anonymous data about your use of some of our services. We may also use Web beacons, also known as Web bugs, which are mostly invisible small graphic images (1-by-1 pixel), in the same color as the background of the web page or an HTML email, to monitor interaction with our websites or emails. In addition, when you visit our website our systems automatically collect your IP address and the type of browser that you use. When you browse our website, our systems log the Telenav web pages that you visit. Server log files are records of activity automatically created by the server and stored. If we combine or link cookie or Web beacons with personal information, we will treat the combined or linked information as personal information under this policy. We may employ third-parties to place advertisements about our products and services on other web sites. The use of cookies, Web beacons or other similar technologies by such third parties is governed by their privacy policies.
+(b) Cookies, Web Beacons, and Similar Technologies on our Websites 
 
-You may limit the automatic collection of certain information by our website by disabling the cookies using your browser options. Please be aware that disabling cookies may prevent you from using specific features on our websites, such as ordering services, or maintaining an online account.
+When you visit one of our websites (including telenav.com or thinknear.com), register on one of our websites, and/or fill out a form on one of our websites we collect data from you in several ways. The types of personal data that our websites collect by themselves or through third parties, include: cookies, usage data, your name, your company name, your email address, your phone number, and other contact information.
 
-**(c) Information related to your personal interests for particular advertisements**
+The data that we collect from you may be used for the following purposes:
 
-Our websites may collect data about your activity and some user identifying information, including personal information. This collected information is disclosed to and processed by Google and is used to enable features including but not limited to remarketing and display advertising. We use remarketing with Google Analytics to advertise online and third party vendors, including but not limited to Google, show our ads on sites across the Internet. Telenav and third-party vendors, including but not limited to Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website. These features are solely for purposes to allow us to maintain the interests of previous visitors and deliver advertisement content specifically targeting the visitors’ previous interests. You may opt-out of such advertising using the Google Ads Preference Manager. 
+  * Analytics;
+  * Registration for a Scout or other application account;
+  * To respond to user inquires and customer support requests; and
+  * To send emails or to contact you by other means regarding your account and/or to inform you about our products and services that may be of interest to you.
 
-When Telenav has the opportunity to serve an ad to you on a third party mobile site or mobile application, we may receive information about your device and location from third party ad exchanges and/or mobile publishers. This information does not enable us to personally identify you by name, phone number, email address, or other similar means, but includes anonymized version of your Device ID, your IP address and the geo-location of your device at the time the advertisement was served. This information is provided so that we can improve the relevance of the ads we serve to you. Any such information is shared in accordance with the third party’s privacy policies and subject to their terms and conditions. We do not use the information they provide to us for any purpose other than serving you with interest-based ads on their behalf.
 
-**(d) Other Information**
+
+We may employ browser cookies or similar technologies to identify the computer, mobile device, or some of our services and record your preferences and other data. We use cookies or similar technologies to evaluate how our websites, devices or applications are used and to provide continuous improvement to our services, make recommendations, and complete transactions you request. Cookies may be stored locally on mobile devices or on computer servers operated or controlled by Telenav. We may use a tracking pixel, agent or other visitor identification technology that collects anonymous data about your use of some of our services. We may also use Web beacons, also known as Web bugs, which are mostly invisible small graphic images (1-by-1 pixel), in the same color as the background of the web page or an HTML email, to monitor interaction with our websites or emails. In addition, when you visit our website our systems automatically collect your IP address and the type of browser that you use. When you browse our websites, our systems log the Telenav web pages that you visit. Server log files are records of activity automatically created by the server and stored. If we combine or link cookie or Web beacons with personal information, we will treat the combined or linked information as personal information under this policy. We may employ third-parties to place advertisements about our products and services on other web sites. The use of cookies, Web beacons or other similar technologies by such third parties is governed by their privacy policies.
+
+You may limit the automatic collection of certain information through the use of cookies by our websites by disabling the cookies using your browser options. Please be aware that disabling cookies may prevent you from using specific features on our websites, such as ordering services, or maintaining an online account.
+
+Our websites may collect data about your activity and some user identifying information, including personal information. This collected information is disclosed to and processed by Google and is used to enable features including but not limited to remarketing and display advertising. We use remarketing, display retargeting and search retargeting with Google Adwords to advertise online and third party vendors, including but not limited to Google, show our ads on sites across the Internet. We also use Google Analytics to optimize our websites. Telenav and third-party vendors, including but not limited to Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads about our products and services based on your past visits to our website or your search history. These features are solely for purposes to allow us to maintain the interests of previous visitors and deliver advertisement content specifically targeting the visitors’ previous interests and searches. You may opt-out of such advertising using the [Google Ads Preference Manager](http://www.google.com/ads/preferences) or obtain additional information available about Google’s [Remarketing Privacy Guidelines, Policies, and Restrictions](https://support.google.com/adwordspolicy/answer/143465?hl=en&rd=1) and [how Google uses data when you use their partners' sites or apps](https://www.google.com/policies/privacy/partners/). 
+
+Additionally, in connection with our thinknear.com website we use a marketing automation tool called Hubspot® to handle various marketing tasks, for example but not limited to, contacting visitors to thinknear.com who provided their contact information and requested additional information. HubSpot’s software uses cookies to track thinknear.com visitors and contacts. You can read more about Hubspot's Privacy Policy and opt-out options [here](http://www.hubspot.com/legal/privacy-policy).  
+
+
+Also note that we do not have a system to comply with Do Not Track requests at this time, unless required by applicable laws or regulations.
+
+(c) Information related to your personal interests for particular advertisements
+
+When you search for a Point of Interest or address within our Scout applications or our partnered branded navigation applications, we may share your search and location data with our third party partners in order to provide you with more relevant advertisement results within the application. The information we share is de-identified so that it does not contain any personally identifying information, such as your name, phone number or email address.
+
+When Thinknear by Telenav has the opportunity to serve an ad to you on a third party mobile site or mobile application, we may receive information about your device and location from third party ad exchanges and/or mobile publishers. This information does not enable us to personally identify you by name, phone number, email address, or other similar means, but may include your device ID, your IP address and the geo-location of your device at the time the advertisement was served. This information is provided so that we can improve the relevance of the ads we serve to you. Any such information is shared in accordance with the third party’s privacy policies and subject to their terms and conditions. We do not use the information they provide to us for any purpose other than serving you with interest-based ads on behalf of our advertising partners.
+
+We may also obtain Precise Location Data from your use of Telenav applications (and certain other third party location based applications and use that location data) about your “geohistory”, which is the geo-location of your mobile device over time along with an anonymized version of your device IDs to create a profile. Additionally, in order to create a profile, we may use data about your location and online activity and interests, including things like real-world category types you visited (e.g. Shopping Mall), mobile apps with which you engage, information collected by our inventory partners and other third parties and shared with us. This will involve the use of your device ID and will not include any data that personally identifies you by name, phone number, email address, or other similar means.
+
+If you would like to opt out of the use of data for geohistorical-based and interest-based advertising by Thinknear by Telenav, please contact us at [support@telenav.com](mailto:support@telenav.com) or [click here](http://www.telenav.com/legal/ads-optout.html) and follow the instructions provided.
+
+(d) Other Information
 
 When you use the voice command or entry features on our services, we record your audible utterance (what you said). We collect utterances from our entire subscriber population, organize them by what was said, and then use this information to adjust speech recognition performance parameters to improve accuracy.
 
@@ -104,41 +130,41 @@ We may obtain information about you from outside sources and add to it or combin
 
 WHEN YOUR INFORMATION WILL BE SHARED OR DISCLOSED
 
-Telenav does not sell, rent, license or otherwise share information with unaffiliated parties except as explained in this privacy policy. 
+Telenav does not sell, rent, license or otherwise share information with unaffiliated parties except as explained in this privacy policy.
 
-**Consent Given/Transaction Processing**
+Consent Given/Transaction Processing
 
 We may disclose personal information about you to third parties with your consent. Consent is sometimes implicit, as in the disclosure of personal information to third-parties who complete transactions or perform services on our behalf. For example, we routinely provide your name, billing address, and credit card information, along with the amount to be charged, to the bank that processes your credit card for billing purposes.
 
-**To the Primary Account Holder**
+To the Primary Account Holder
 
 We may disclose personal information of an account user to the primary account holder (the party financially responsible for the account). If a business, governmental agency, or other individual obtains service for you, that entity or individual is our customer, and we may provide personal information about you, or your use of the service to them or others at their direction.
 
 Third Party Services or Third Party Service Providers
 
-Telenav offers access to a variety of resources, including but not limited to various communication tools, search services, forums, and links to other World Wide Web sites in providing its services, products and websites. We may make certain personally identifiable information non-personal and share it or aggregated data with strategic partners that work with us to analyze usage, provide and improve products or services, or that help us market to customers, or for similar purposes. Information that is not personally identifiable or is aggregated is not subject to any restrictions of use or disclosure under this privacy policy. 
+Telenav offers access to a variety of resources, including but not limited to various communication tools, search services, forums, and links to other World Wide Web sites in providing its services, products and websites. We may make certain personally identifiable information non-personal and share it or aggregated data with strategic partners that work with us to analyze usage, provide and improve products or services, or that help us market to customers, or for similar purposes. Information that is not personally identifiable or is aggregated is not subject to any restrictions of use or disclosure under this privacy policy.
 
 If you take advantage of a third party's services or products offered through the use of our services, we may disclose your personal information to such unaffiliated third parties. These entities may use this information that you provide in the course of your use of Telenav's services (including your name, nicknames, telephone numbers, audio files, and email and mailing addresses) to promote their products and services to you. Any such personal information that a third party uses will be subject to their applicable privacy policies.
 
 Some of our services and functionality are provided in conjunction with third party service providers. These third party service providers process personal information on our behalf and are obligated to process such information in compliance with this privacy policy and other appropriate security and confidentiality measures.
 
-**Legal Processes**
+Legal Processes
 
 We will comply with any subpoenas, court orders or other legal processes for any of the information about you in our possession, and we may use such information to establish or exercise yours, ours, or others' legal rights, or to defend against legal claims.
 
-**Business Transfers**
+Business Transfers
 
-Information about you in our possession may be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of insolvency, bankruptcy, or receivership in which your personal information would be transferred as one of the business assets of the company. Telenav does not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this policy.
+Information about you in our possession may be disclosed as part of any merger, acquisition, sale of company assets, or transition of service to another provider, as well as in the unlikely event of in solvency, bankruptcy, or receivership in which your personal information would be transferred as one of the business assets of the company. Telenav does not guarantee that any entity receiving such information in connection with one of these transactions will comply with all terms of this policy.
 
-**International Users**
+International Users
 
 Information that we collect about you may also be transferred among our various divisions and affiliated companies around the world, which may involve transfer from countries within the European Economic Area (EEA) and Switzerland to countries outside the EEA. By allowing Telenav to collect this information about you, you consent to these transfers, including transborder transmission of data covered by this privacy policy. As a result, that country's courts, governments or law enforcement agencies could obtain disclosure of such information under that country's laws. Telenav complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Telenav has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Telenav’s certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
 
-**INFORMATION ON WIRELESS DEVICES**
+INFORMATION ON WIRELESS DEVICES
 
-The Telenav software (and any upgrades, modifications, or additions thereto) that is factory installed or downloaded to, and resides upon your wireless device retains your manually entered account number and PIN, or reads it from the device. Having your carrier change the assigned phone number for your wireless device does not change the account number we maintain with regard to that device, which will result in your device not being able to access your Telenav account established using the previous phone number. If this happens, please contact Telenav customer care. 
+The Telenav software (and any upgrades, modifications, or additions thereto) that is factory installed or downloaded to, and resides upon your wireless device retains your manually entered account number and PIN, or reads it from the device. Having your carrier change the assigned phone number for your wireless device does not change the account number we maintain with regard to that device, which will result in your device not being able to access your Telenav account established using the previous phone number. If this happens, please contact Telenav customer care.
 
-**SECURITY OF PERSONAL INFORMATION**
+SECURITY OF PERSONAL INFORMATION
 
 Telenav has implemented various physical, electronic and procedural safeguards to protect the confidentiality and security of personal information under our control. For instance, Telenav limits access to Telenav systems that store such information to authorized personnel. Telenav also employs the Secure Sockets Layer (SSL) protocol to protect your personal information when you bill on our website.
 
@@ -146,33 +172,33 @@ While Telenav maintains a multitude of security measures to prevent unauthorized
 
 Telenav will maintain your personal information for as long as a business need exists, or as required by applicable laws, regulations, or government orders. When we dispose of personal information, we use commercially reasonable procedures to erase or render it unreadable.
 
-**CHILDREN'S PRIVACY**
+CHILDREN'S PRIVACY
 
 Telenav will not knowingly request or collect personal information from any person under 13 years of age without prior verifiable parental or legal guardian consent. If, however, you authorize a child to use our services or products by providing them a device associated with your Telenav service, any personal information associated with such use will be treated as your information in accordance with this policy. Telenav encourages parents to be involved in the online activities (including wireless Internet browsing) of their children to ensure that no information is collected from a child without parental or Guardian consent.
 
-**CUSTOMER REQUESTS FOR INFORMATION**
+CUSTOMER REQUESTS FOR INFORMATION
 
-Customers are entitled to request information concerning whether a business has disclosed personal information to any affiliated companies or third parties for their direct marketing purposes. Customers are further entitled to request access to their personal information under Telenav's control. To protect your privacy and security, Telenav will take reasonable steps to verify your identity before providing you access or making corrections. Good faith efforts to resolve requests to correct inaccuracies in personal information will be made by Telenav, except where the request is unreasonable. As stated in this privacy policy, Telenav will not sell or share your personal information with third parties for their direct marketing purposes without your consent. Customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at care@telenav.com or write to the attention of Privacy Policy Officer, Telenav, Inc., 950 DeGuigne Dr., Sunnyvale, CA 94085-3900, USA. 
+Customers are entitled to request information concerning whether a business has disclosed personal information to any affiliated companies or third parties for their direct marketing purposes. Customers are further entitled to request access to their personal information under Telenav's control. To protect your privacy and security, Telenav will take reasonable steps to verify your identity before providing you access or making corrections. Good faith efforts to resolve requests to correct inaccuracies in personal information will be made by Telenav, except where the request is unreasonable. As stated in this privacy policy, Telenav will not sell or share your personal information with third parties for their direct marketing purposes without your consent. Customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at support@telenav.com or write to the attention of Privacy Policy Officer, Telenav, Inc., 950 DeGuigne Dr., Sunnyvale, CA 94085-3900, USA.
 
-**OTHER WEBSITES**
+OTHER WEBSITES
 
-For your convenience, this website contains links to other websites, including some websites administered by Telenav or administered by other companies on behalf of Telenav, as well as to websites unrelated to Telenav. This privacy policy does not apply to non-linked websites. Each website should be checked for its own privacy policy. 
+For your convenience, this website contains links to other websites, including some websites administered by Telenav or administered by other companies on behalf of Telenav, as well as to websites unrelated to Telenav. This privacy policy does not apply to non-linked websites. Each website should be checked for its own privacy policy.
 
-**CHANGES TO THIS POLICY**
+CHANGES TO THIS POLICY
 
-Telenav may from time to time update this privacy policy, and we encourage you to periodically review this privacy policy to be informed of the latest changes. In the event that Telenav merges with, or is acquired by another company, a change to this privacy policy may result. Whenever a change to this policy is significant, we will place a prominent notice on this website, at least 30 days before the effective date. 
+Telenav may from time to time update this privacy policy, and we encourage you to periodically review this privacy policy to be informed of the latest changes. In the event that Telenav merges with, or is acquired by another company, a change to this privacy policy may result. Whenever a change to this policy is significant, we will place a prominent notice on this website, at least 30 days before the effective date.
 
-**OTHER AGREEMENTS**
+OTHER AGREEMENTS
 
 Telenav may enter into written product or service agreements with customers that contain specific provisions related to confidentiality, security or other handling of information. If this privacy policy conflicts with any provision of those terms and agreements (both US and international), those terms and agreements govern to the extent of the inconsistency. In all other instances, the terms of this privacy policy apply.
 
-**GOVERNING LAW**
+GOVERNING LAW
 
 By choosing to visit this website or otherwise provide information to Telenav, you agree that any dispute over privacy or the terms contained in this privacy policy will be governed by the law of the State of California, United States of America. You also agree to arbitrate such disputes and to abide by any limitation on damages contained in our Terms of Use, Terms and Conditions of Service, or other applicable agreement we have with you.
 
 UPDATE INFORMATION / REVOKE CHOICES / SUGGESTIONS / CONTACT INFORMATION
 
-If you would like to update or correct any information that you have provided to Telenav through your use of our services or this website, limit or opt-out of certain communications, revoke prior communication choices you have made, or if you have suggestions for improving this privacy policy, please send an e-mail to care@telenav.com, or fill out the form in the Contact Us link on this website. We will use reasonable commercial efforts to address any concerns that you may have.
+If you would like to update or correct any information that you have provided to Telenav through your use of our services or our websites, limit or opt-out of certain communications, revoke prior communication choices you have made, or if you have suggestions for improving this privacy policy, please send an e-mail to care@telenav.com, or fill out the form in the Contact Us link on this website. We will use reasonable commercial efforts to address any concerns that you may have.
 
 CONTACT INFORMATION FOR INTERNATIONAL USERS
 
@@ -182,36 +208,37 @@ Telenav has further committed to refer unresolved privacy complaints under the U
 
 Telenav takes its users' privacy concerns seriously, and if you believe that Telenav has not complied with this Privacy Policy in regards to your personal information, you may write to the Telenav Privacy Officer at the following address:
 
-Telenav Headquarters  
-ATTN: PRIVACY POLICY OFFICER  
+Telenav Headquarters
+
+ATTN: PRIVACY POLICY OFFICER
+
 950 De Guigne Drive  
-Sunnyvale, CA 94085
-
-Email: [care@telenav.com](mailto:care@telenav.com)
-
+Sunnyvale, CA 94085  
+Email: support@telenav.com  
 In your letter, please describe in detail — in as much detail as possible — the ways in which you believe that we have not complied with this Privacy Policy. We will investigate and verify your complaint in a timely manner. If you do not receive acknowledgement of your complaint or if you feel that your complaint is not adequately addressed by Telenav, you should then contact the following companies (choose one):
 
-Council of Better Business Bureaus, Inc.  
-BBB EU Safe Harbor     
-Web: [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
+Council of Better Business Bureaus, Inc.
+
+BBB EU Safe Harbor   
+Web: www.bbb.org/us/safe-harbor-complaints
 
 E.U. Data Protection Authority (E.U. DPA)  
 c/o United States Council for International Business
 
 1212 Avenue of the Americas  
-New York, NY  10036  
+New York, NY 10036  
 Telephone: (212) 354-4480  
 Fax: (212) 575-0327  
-Web: [www.uscib.org](http://www.uscib.org/)
+Web: www.uscib.org
 
 Swiss FDPIC  
 Office of the Federal Data Protection and Information Commissioner FDPIC  
 Feldeggweg 1  
-CH - 3003 Berne  
-Telephone: +41 (0)31 322 43 95 (Monday - Friday, 10am - 12 am)  
-Fax: +41 (0)31 325 99 96 
+CH - 3003 Berne   
+Telephone: +41 (0)31 322 43 95 (Monday - Friday, 10am - 12 am)   
+Fax: +41 (0)31 325 99 96
 
-Telenav Privacy Policy last updated as of October 25, 2013.
+Telenav Privacy Policy last updated as of December 18, 2014.
 
 * * *
 
@@ -355,6 +382,7 @@ Protocol Buffers  | 2.3.0 | http://opensource.org/licenses/BSD-3-Clause | • Au
 QT | 1.1.4 | http://qt.nokia.com/products/licensing/ | • Test frameworks  
 Quattroshapes |  | https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md | • Clients  
 • Website  
+REFrostedViewController |  | https://github.com/romaonthego/REFrostedViewController/blob/master/LICENSE | • Clients   
 SBJSON | V3.0.4 | http://www.opensource.org/licenses/bsd-license.php | • iPhone  
 • Clients  
 SBJson |  | http://superloopy.io/json-framework/ | • iPhone  
@@ -377,7 +405,7 @@ WriteableBitmapEx | 1.0.5 | http://writeablebitmapex.codeplex.com/license | • 
 zlib | 1.2.5 | http://www.gzip.org/zlib/zlib_license.html | • Clients  
 • Automotive   
   
-Telenav Open Source Statement last updated as of October 29, 2013.
+Telenav Open Source Statement last updated as of April 25, 2014.
 
 * * *
 
