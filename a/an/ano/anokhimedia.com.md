@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the anokhimedia.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616004554id_/http%3A//anokhimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anokhimedia.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230133301id_/http%3A//www.anokhimedia.com/privacy-policy) for the most accurate reproduction.*
 
 # ANOKHI MEDIA - Privacy Policy
 
-Your privacy is important to us. Anokhi Media Corp. (hereinafter referred to as AMC), its subsidiaries and affiliates (collectively, "ANOKHI", "us", "we") are committed to maintaining the privacy, security and accuracy of the personal information they collect, use and disclose in accordance with applicable legislation. This privacy policy (the "Privacy Policy") is a statement of principles and guidelines concerning the protection of personal information of our individual clients, individual service providers and other individuals ("you") (with the exception of our personnel, whose personal information is collected, used and disclosed in accordance with AMC's Personnel Privacy Policy).
+Your privacy is important to us. Anmeco OptiMedia Communications Inc. (hereinafter referred to as AMC), its subsidiaries and affiliates (collectively, "ANOKHI", "us", "we") are committed to maintaining the privacy, security and accuracy of the personal information they collect, use and disclose in accordance with applicable legislation. This privacy policy (the "Privacy Policy") is a statement of principles and guidelines concerning the protection of personal information of our individual clients, individual service providers and other individuals ("you") (with the exception of our personnel, whose personal information is collected, used and disclosed in accordance with AMC's Personnel Privacy Policy).
 
-**1\. Who is Anokhi Media Corp.?**
+**1\. Who is Anmeco OptiMedia Communications Inc.?**
 
-Anokhi Media Corp. (AMC). is the "parent" of a group of subsidiary companies focusing on the print and media sectors. Through its multimedia marketing facilities, AMC increasingly is developing the geographic platforms and complete service offering needed to cover the entire domestic and international South Asian market. AMC is Canada's leading South Asian multimedia company, both online and offline. 
+Anmeco OptiMedia Communications Inc. (AMC). is the "parent" of a group of subsidiary companies focusing on the print and media sectors. Through its multimedia marketing facilities, AMC increasingly is developing the geographic platforms and complete service offering needed to cover the entire domestic and international South Asian market. AMC is Canada's leading South Asian multimedia company, both online and offline. 
 
 This Privacy Policy applies to our collection, use and disclosure of personal information regarding the clients and consumers of our products and services, including our online and print publication ANOKHI Magazine.
 
@@ -22,7 +22,7 @@ As mentioned previously, we may not be able to provide you with our services if 
 
 **6\. Where is your personal information stored?**
 
-Your personal information is stored in secured servers, located either at our offices or at the offices of our service providers. For access to your personal information, contact us at [support@anokhimagazine.com](mailto:support@anokhimagazine.com) or call 905-501-9907
+Your personal information is stored in secured servers, located either at our offices or at the offices of our service providers. For access to your personal information, contact us at [support@anokhimedia.com](mailto:support@anokhimedia.com) or call 905-501-9907
 
 **7\. How can you access your personal information?**
 
@@ -75,5 +75,5 @@ If you have any questions regarding compliance with this Privacy Policy and appl
 Privacy Policy  
 1179 King St West, Suite 205  
 Toronto, Ontario M6K 3C5  
-E-mail: [support@anokhimagazine.com](mailto:support@anokhimagazine.com)   
+E-mail: [support@anokhimedia.com](mailto:support@anokhimedia.com)   
 Phone: (416) 535-3700
