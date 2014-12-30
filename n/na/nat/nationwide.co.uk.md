@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517161319id_/http%3A//www.nationwide.co.uk/about/corporate-information/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230043433id_/http%3A//www.nationwide.co.uk/about/corporate-information/cookies-and-privacy/introduction) for the most accurate reproduction.*
 
 # Cookies & Privacy Policy - Introduction | Nationwide
 
@@ -20,12 +20,12 @@ Find out how we keep your information secure and how you can protect your own in
 
 #### [Recent improvements to our Internet Bank](https://web.archive.org/support/ways-to-bank/internet-banking/recent-improvements)
 
-See why Nationwide won Best Overall Online Provider of the year at the 2013 Your Money Direct Awards
+See why Nationwide won Best Overall Online Provider of the year at the 2014 Your Money Direct Awards
 
 #### [Your Nationwide](http://your.nationwide.co.uk/Pages/your-nationwide-home.aspx)
 
 Your needs are at the heart of Your Nationwide. Find out how we're doing, read about our community initiatives, and get the latest news
 
-##  [How we use your information](https://web.archive.org/about/corporate-information/cookies-and-privacy/how-we-use-your-information "How we use your information")
+##  [How we use your information](https://web.archive.org/about/corporate-information/cookies-and-privacy/how-we-use-your-information#tab:sectionHowweuseyourinformation "How we use your information")
 
-##  [Cookie details](https://web.archive.org/about/corporate-information/cookies-and-privacy/cookie-details "Cookie details")
+##  [Cookie details](https://web.archive.org/about/corporate-information/cookies-and-privacy/cookie-details#tab:sectionCookiedetails "Cookie details")
