@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627112807id_/http%3A//www.heartinternet.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045007id_/https%3A//www.heartinternet.uk/privacy-policy) for the most accurate reproduction.*
 
 # Heart Internet Privacy Statement
 
 **Heart Internet Limited (“we”) are committed to protecting and respecting your privacy.**
 
-This policy (together with our terms of use http://www.heartinternet.co.uk/websiteuse.shtml, terms and conditions of supply http://www.heartinternet.co.uk/termshi.shtml and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our terms of use https://www.heartinternet.uk/websiteuse.shtml, terms and conditions of supply https://www.heartinternet.uk/termshi.shtml and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purposes of the Data Protection Act 1998 (the “Act”), the data controller is Heart Internet Limited of 5 Roundwood Avenue, Stockley Park, Uxbridge, UB11 1FF.
 
@@ -12,7 +12,7 @@ For the purposes of the Data Protection Act 1998 (the “Act”), the data contr
 
 1.1 We may collect and process the following data about you:
 
-1.1.1 information that you provide by filling in forms on our website https://customer.heartinternet.co.uk (our “site”). This includes information provided at the time of registering an account, purchasing services from us or requesting further services. We may also ask you for information when you report a problem with our site or the services you have purchased;
+1.1.1 information that you provide by filling in forms on our website https://customer.heartinternet.uk (our “site”). This includes information provided at the time of registering an account, purchasing services from us or requesting further services. We may also ask you for information when you report a problem with our site or the services you have purchased;
 
 1.1.2 if you contact us letter or email, we may keep a record of that correspondence;
 
@@ -74,7 +74,7 @@ For the purposes of the Data Protection Act 1998 (the “Act”), the data contr
 
 5.2.1 in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; or
 
-5.2.2 if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use http://www.heartinternet.co.uk/websiteuse.shtml or terms and conditions of supply http://www.heartinternet.co.uk/termshi.shtml and other agreements; or to protect our rights, property, or safety, or that of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+5.2.2 if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use https://www.heartinternet.uk/websiteuse.shtml or terms and conditions of supply https://www.heartinternet.uk/termshi.shtml and other agreements; or to protect our rights, property, or safety, or that of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **6\. Disclosure of your information**
 
