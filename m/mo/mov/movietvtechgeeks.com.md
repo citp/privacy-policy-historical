@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the movietvtechgeeks.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085821id_/http%3A//movietvtechgeeks.com/movie-tv-tech-geeks-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietvtechgeeks.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230054134id_/http%3A//movietvtechgeeks.com/movie-tv-tech-geeks-privacy-policy) for the most accurate reproduction.*
 
 # Movie TV Tech Geeks Privacy Policy - Movie TV Tech Geeks
 
-**Warning** : Illegal string offset 'box_post_keywords' in **/home/moviet6/public_html/wp-content/plugins/seo-smart-links-business/seo-smart-links-business.php** on line **478**
-
- **Overview**
+**Overview**
 
 This Privacy Policy explains MovieTvTechGeeks.com, LLC ’s (“MovieTVTechGeeks”) information-gathering and dissemination practices for our website: www.MovieTvTechGeeks.com (the “Site”). This Site provides users with access to entertainment and news about electronic devices along with links to pertinent breaking stories elsewhere on the web.
 
@@ -12,7 +10,7 @@ MovieTVTechGeeks takes your privacy rights seriously and has posted this Privac
 
 **Acceptance of These Terms**
 
-This Privacy Policy is incorporated into and is subject to the MovieTVTechGeeks Terms and Conditions for use of the Site. If you do not agree to the terms of this Privacy Policy or the Terms and Conditions for use of the Site, please do not provide us with any information and do not use the Site. Your continued use of the Site in light of changes to this Privacy Policy will signify your acceptance of the changes for information gathered after the date of the change.
+This Privacy Policy is incorporated into and is subject to the MovieTVTechGeeks [Terms and Conditions](http://movietvtechgeeks.com/movie-tv-tech-geeks-privacy-policy/terms-and-conditions/ "Terms and Conditions") for use of the Site. If you do not agree to the terms of this Privacy Policy or the Terms and Conditions for use of the Site, please do not provide us with any information and do not use the Site. Your continued use of the Site in light of changes to this Privacy Policy will signify your acceptance of the changes for information gathered after the date of the change.
 
 **Does this Privacy Policy apply to you?**
 
@@ -74,5 +72,22 @@ MovieTVTechGeeks reserves the right, at our discretion, to change, modify, add 
 
 The information provided in this Privacy Policy should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through the Site.
 
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) 
+
   
 Read more at http://MovieTVTechGeeks.com/movie-tv-tech-geeks-privacy-policy/
+
+  * Bio
+  * Twitter
+  * Facebook
+  * Google+
+  * LinkedIn
+  * YouTube
+  * Pinterest
+  * Latest Posts
+
+
+
+Curt Johnson is an award winning filmmaker and movie reviewer/writer on all aspects of entertainment.
+
+How can you get this awesome Captain America t-shirt? Want to hear Sam Raimi talk about the problems on... <http://t.co/4gaZKEjFec> \- 57 mins ago
