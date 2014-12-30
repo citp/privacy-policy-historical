@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spillit.me privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073608id_/http%3A//www.spillit.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spillit.me privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230115728id_/http%3A//spillit.me/privacy) for the most accurate reproduction.*
 
-# Spillit Privacy Policy
+# Privacy Policy
 
 Last updated May 1st, 2014
 
