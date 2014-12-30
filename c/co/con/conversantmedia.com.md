@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the conversantmedia.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002129id_/http%3A//www.conversantmedia.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversantmedia.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230074034id_/http%3A//www.conversantmedia.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Conversant
 
 **Conversant** **Privacy** **Policy**
 
-Last Modified: April 16, 2014
+Last Modified: November 13, 2014
 
  **INTRODUCTION:**
 
@@ -273,11 +273,11 @@ Top
 
  **CONTACT** **US**
 
-Have a question on something not addressed here? Contact us at [privacy@conversantmedia.com](mailto:privacy@conversantmedia.com).
+Have a question on something not addressed or have a complaint? Please use the Feedback form located [here](http://www.conversantmedia.com/feedback?t=g) or send us an email at [privacy@conversantmedia.com](mailto:privacy@conversantmedia.com).
 
  **YOUR** **REPRESENTATIONS**
 
-YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE SITE TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose information you supply to us with regard to: (a) the purposes for which such third party's information has been collected; (b) the intended recipients or categories of recipients of the third party's information; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express wish of the parties that the Privacy Policy and all related documents have been drawn up in the English language and that the English version of this Privacy Policy shall be the sole version used in interpreting and enforcing this Privacy Policy. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE SITE TERMS AND CONDITIONS. You also agree that you have provided notice to, and obtained consent from, any third party individuals whose information you supply to us with regard to: (a) the purposes for which such third party's information has been collected; (b) the intended recipients or categories of recipients of the third party's information; (c) which of the third party's data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them. It is the express wish of the parties that the Privacy Policy and all related documents have been drawn up in the English language and that the English version of this Privacy Policy shall be the sole version used in interpreting and enforcing this Privacy Policy. 
 
 YOU AGREE THAT OUR LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY US TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.
 
@@ -286,29 +286,5 @@ Top
  **MODIFICATIONS TO THIS** ******PRIVACY POLICY**
 
 We may occasionally make changes to this Privacy Policy. If we do, we will update the “Last Modified” date above. If we make a material change, such as the ways in which we use PII, we will notify you via a prominent notice on our Site.
-
-On February 4th, 2014, ValueClick Inc., and its subsidiaries and affiliates became Conversant and consolidated our privacy policies. If you would like to review past ValueClick privacy policies, please visit the links below:
-
-[CJ Web User Privacy Policy (updated 2.27.13)](http://www.cj.com/legal/privacy_web_user.html)
-
-[CJ Member Privacy Policy (updated 5.30.12)](http://www.cj.com/legal/privacy_member.html)
-
-[Dotomi Privacy Policy (updated 3.12.13)](http://www.conversantmedia.com/legal/dotomi-privacy)
-
-[Greystripe User Privacy Policy (updated 9.3.13)](http://www.greystripe.com/legal/user-privacy-policy)
-
-[Greystripe Member Privacy Policy (updated 5.13.13)](http://www.greystripe.com/legal/member-privacy-policy)
-
-[Mediaplex Privacy Policy (updated 5.30.12)](http://www.mediaplex.com/legal/mojo-privacy-statement)
-
-[Master TMS Privacy Policy (updated 9.26.12)](http://www.mastertms.com/legal/privacy-policy)
-
-[ValueClick Inc. Website Privacy Policy (updated 9.9.10)](http://www.valueclick.com/privacy)
-
-[ValueClick Media Display Web User Privacy Policy (updated 8.12.13)](http://www.valueclickmedia.com/legal/privacy/display-web-user)
-
-[ValueClick Media Display Member Privacy Policy (updated 5.30.12)](http://www.valueclickmedia.com/legal/privacy/display-member)
-
-[ValueClick Media Lead Generation Web User Privacy Policy (updated 12.1.11)](http://www.valueclickmedia.com/about/privacy/lead-gen-web-user)
 
 Top
