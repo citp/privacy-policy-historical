@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051951id_/http%3A//webengage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webengage.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230033731id_/http%3A//webengage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WebEngage
 
@@ -57,11 +57,11 @@ If you have any questions about this Privacy Policy, the practices of this site,
 Webklipper Technologies Private Limited  
 [http://webengage.com](http://webengage.com/)  
 Webklipper Technologies Pvt Ltd  
-303, A Wing, Cello Triumph  
-I. B. Patel Road, Goregaon (E)  
+602, A Wing, Lotus Corporate Park  
+Jay Coach, Goregaon (E)  
 Mumbai - 400063  
 Maharashtra, India  
-+91-22-67259495  
++91-22-61102400  
 support@webklipper.com
 
 This document was last updated on May 13, 2013
