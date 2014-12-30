@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parse.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630205019id_/https%3A//parse.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parse.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042937id_/https%3A//parse.com/about/privacy) for the most accurate reproduction.*
 
 # Policies - Privacy | Parse
 
@@ -91,5 +91,3 @@ Parse reserves the right to change this Privacy Statement. Parse will provide no
 ## 12\. Contacting Us
 
 If you have questions or complaints regarding our Privacy Statement or practices, please contact us by mail. If you are located in the U.S. or Canada, our mailing address is Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025. If you are located outside the U.S. or Canada, our mailing address is Facebook Ireland Ltd., Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland. You may also contact us at community@parse.com.
-
-These policies are inspired by the policies of [Google App Engine](http://developers.google.com/appengine/terms) and [Heroku](http://policy.heroku.com/). The original works have been modified. Parse is not affiliated with or sponsored by Google or Heroku.
