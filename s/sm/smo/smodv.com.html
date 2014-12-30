@@ -1,199 +1,107 @@
-<!--The following is the downloaded HTML source of the smodv.com privacy policy that was archived on 2013-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425001200id_/http%3A//smodv.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smodv.com privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230145456id_/http%3A//resources.smodv.com/p/legal/smod_privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-        <title>sMod Privacy Policy</title>
-        <meta name="description" content="sMod Privacy Policy">
-        <meta name="keywords" content="">
-        <meta name="robots" content="index,follow">
-                <link href="//fonts.googleapis.com/css?family=Oxygen:400,300,700" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="//smodv.s3.amazonaws.com/Template/template.css" type="text/css">
-        <link rel="stylesheet" href="//smodv.s3.amazonaws.com/Template/login.css" type="text/css">
-        <link href="//smodv.s3.amazonaws.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
-        
-        <script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
-            function openFeedback(){
-                var ele = document.getElementById("smod_feedback");
-                ele.setAttribute('class','central_dialog');
-            }
-            function hideFeedback(){
-                var ele = document.getElementById("smod_feedback");
-                ele.setAttribute('class','hidden');
-            }
-                        function sendFeedback(){
-                var ele = "smod_feedback";
-                var feedback = document.getElementById("smod_feedback_textarea").value;
-                var xmlhttp;
-                if (window.XMLHttpRequest)
-                {// code for IE7+, Firefox, Chrome, Opera, Safari
-                    xmlhttp=new XMLHttpRequest();
-                }
-                else
-                {// code for IE6, IE5
-                    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-                }
-                xmlhttp.onreadystatechange=function()
-                {
-                    if (xmlhttp.readyState==4 && xmlhttp.status==200)
-                    {
-                        document.getElementById(ele).innerHTML=xmlhttp.responseText;
-                    }
-                }
-                var parameters = "feedback="+feedback;
-                xmlhttp.open("POST","/Feedback/submit.php",true);
-                xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
-                xmlhttp.send(parameters)
-            }
-        </script>
-        <script type="text/javascript">
-                                function checkUsername(str,mode)
-                                {
-                                    if (str.length == 0)
-                                    { 
-                                    return;
-                                    }
-                                    if (str.length > 5)
-                                    { 
-                                    document.getElementById("feedback").innerHTML="OK...";
-                                    document.getElementById("feedback").className="feedback_green";
-                                    var xmlhttp;
-                                    if (window.XMLHttpRequest)
-                                    {// code for IE7+, Firefox, Chrome, Opera, Safari
-                                        xmlhttp=new XMLHttpRequest();
-                                    }
-                                    else
-                                    {// code for IE6, IE5
-                                        xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-                                    }
-                                    xmlhttp.onreadystatechange=function()
-                                    {
-                                        if (xmlhttp.readyState==4 && xmlhttp.status==200)
-                                        {
-                                            document.getElementById("feedback").innerHTML=xmlhttp.responseText;
-                                        }
-                                    }
-                                    xmlhttp.open("GET","/validation.php?mode="+mode+"&value="+str,true);
-                                    xmlhttp.send();
-                                    return;
-                                    }
-                                    if (mode == "check_username")
-                                    {
-                                    if (str.length < 5) 
-                                    {
-                                    document.getElementById("feedback").innerHTML="too short...";
-                                    document.getElementById("feedback").className="feedback_red";
-                                    return;
-                                    }
-                                    }
-                                    
-                                }
-                                function checkPassword(password)
-                                {
-                                    if (password.length == 0)
-                                    { 
-                                    document.getElementById("feedback").innerHTML="";
-                                    return;
-                                    }
-                                    else if (password.length > 9)
-                                    { 
-                                    document.getElementById("feedback").innerHTML="OK...";
-                                    document.getElementById("feedback").className="feedback_green";
-                                    return;
-                                    }
-                                    else if (password.length < 10) 
-                                    {
-                                    document.getElementById("feedback").innerHTML="too short...";
-                                    document.getElementById("feedback").className="feedback_red";
-                                    return;
-                                    }
-                                    
-                                }
-                                function checkPasswordsMatch(){
-                                    var new_password = encodeURIComponent(document.getElementById("new_password").value);
-                                    var confirm_password = encodeURIComponent(document.getElementById("confirm_password").value);
-                                    if (new_password != confirm_password)
-                                    { 
-                                    document.getElementById("feedback").innerHTML="passwords don't match...";
-                                    document.getElementById("feedback").className="feedback_red";
-                                    return;
-                                    }
-                                    else if (new_password == confirm_password)
-                                    { 
-                                    document.getElementById("feedback").innerHTML="OK...";
-                                    document.getElementById("feedback").className="feedback_green";
-                                    return;
-                                    }
-                                }
-                                function register(){
-                                    var mode = "check_username";
-                                    var username = encodeURIComponent(document.getElementById("new_username").value);
-                                    var email = encodeURIComponent(document.getElementById("email").value);
-                                    var password = encodeURIComponent(document.getElementById("new_password").value);
-                                    var password_2 = encodeURIComponent(document.getElementById("confirm_password").value);
-                                    var submit = "submit_registration";
-                                    
-                                    var parameters = "username="+username+
-                                    "&email="+email+
-                                    "&password="+password+
-                                    "&password_2="+password_2+
-                                    "&submit="+submit;
-                                    
-                                    if (username.length < 5 || password.length < 10 || email.length < 5 || password != password_2)
-                                    {
-                                    return;
-                                    }
-                                    var xmlhttp;
-                                    if (window.XMLHttpRequest)
-                                    {// code for IE7+, Firefox, Chrome, Opera, Safari
-                                        xmlhttp=new XMLHttpRequest();
-                                    }
-                                    else
-                                    {// code for IE6, IE5
-                                        xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-                                    }
-                                    xmlhttp.onreadystatechange=function()
-                                    {
-                                        if (xmlhttp.readyState==4 && xmlhttp.status==200)
-                                        {
-                                            document.getElementById("wrapper_inner").innerHTML=xmlhttp.responseText;
-                                        }
-                                    }
-                                    xmlhttp.open("POST","/User/submit.php",true);
-                                    xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
-                                    xmlhttp.send(parameters)
-                                }
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="user-scalable=yes, initial-scale=1">
+<title>sMod Privacy Policy | Legal | Resources</title>
+<meta name="description" content="This web site is owned and operated by sMod and will be referred to as " we",="" "our"="" and="" "us"="" in="" this="" internet="" privacy="" policy.="" by="" using="" site,="" you="" agree="" to="" the="" policy="" of="" web="" site="" ("the="" site"),="" which="" is="" set="" out="" on="" page.="" relates="" collection="" use="" personal="" information="" may="" supply="" us="" through="" your="" conduct="" site."="">
+<!--include jQuery -->
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<!--include bootstrap -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+<!-- Optional theme -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css">
+<!-- Latest compiled and minified JavaScript -->
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<!--include custom css -->
+<link rel="stylesheet" href="/css/css.css">
+<!--include smod js -->
+<script src="//smod-external.s3.amazonaws.com/cdn/public-js.js"></script>
+<script src="/js/js.js"></script>
+<!-- sort out old browsers -->
+<!--[if lt IE 9]>
+<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
 
-                            </script>        <script type="text/javascript">
-
-          var _gaq = _gaq || [];
-          _gaq.push(['_setAccount', 'UA-28505474-4']);
-          _gaq.push(['_trackPageview']);
-
-          (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
-
-        </script>
-    </head>
-    <body id="page_bg">
-                <div id="fb-root"></div>
-        <script>(function(d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-        </script>
-                <div id="header" class="full_width">
-                <div id="header_inner" class="inner_div">
-                    <ul class="smod_menu"><li><a href="https://www.smod.com.au/" title="sMod Home"><img src="/sMod_logo.png" alt="sMod Logo"></a></li><li><a href="/home">Home</a></li><li><a href="/about-us">About Us</a></li><li><a href="/websites">Websites</a><ul><li><a href="/websites/website-gallery">Website Gallery</a></li></ul></li><li><a href="/apps">Apps</a><ul><li><a href="/apps/app-gallery">App Gallery</a></li></ul></li><li><a href="/cms">CMS</a></li><li><a href="/e-marketing">e-Marketing</a></li><li><a href="/blog">Blog</a><ul><li><a href="/blog/e-commerce-app">e-Commerce App</a></li><li><a href="/blog/new-smod-brand">New sMod Brand</a></li><li><a href="/blog/announcing-smod-v4-rtm">Announcing sMod V4</a></li></ul></li><li><a href="/contact-us">Contact Us</a></li><li><a href="/email-newsletter">Email Newsletter</a></li><li><a href="/new-features">New Features</a></li></ul>                                    </div>
+<script type="text/javascript" async="" src="//resourcessmodvcom.disqus.com/embed.js"></script></head>
+<body>
+<div id="wrap">
+    <div class="navbar navbar-default navbar-static-top navbar-inverse" role="navigation">
+        <div class="container">
+            <div class="navbar-header navbar-inverse ">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="brand" href="/"><img src="/img/logo.png" alt="sMod Responsive Web Development Tasmania"></a>
+                <div class="navbar-collapse collapse ">
+                    <ul class="nav navbar-nav"><li><a href="/">Home</a></li><li class="dropdown">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle ">sMod V5<b class="caret"></b></a>
+                                <ul class="dropdown-menu"><li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Companies &amp; Users</a>
+                                        <ul class="dropdown-menu count-5"><li><a href="/p/documentation/companies___users/how_to_add_a_company_in_smod" title="Add a Company">Add a Company</a></li><li><a href="/p/documentation/companies___users/how_to_edit_update_a_company_in_smod" title="How to Edit/Update a Company in sMod">How to Edit/Update a Company in sMod</a></li><li><a href="/p/documentation/companies___users/how_to_invite_a_new_user_in_smod" title="How to Invite a New User in sMod">How to Invite a New User in sMod</a></li><li><a href="/p/documentation/companies___users/how_to_grant_permissions_from_users_is_smod" title="How to Grant Permissions for Users is sMod">How to Grant Permissions for Users is sMod</a></li><li><a href="/p/documentation/companies___users/how_to_search_in_smodv" title="How to Search in sModV">How to Search in sModV</a></li></ul>
+                        </li><li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Content Management System</a>
+                                        <ul class="dropdown-menu count-7"><li><a href="/p/documentation/content_management_system/smod_cms_positions" title="CMS Positions">CMS Positions</a></li><li><a href="/p/documentation/content_management_system/smod_cms_menus" title="CMS Menus">CMS Menus</a></li><li><a href="/p/documentation/content_management_system/smod_cms_modules" title="CMS Modules">CMS Modules</a></li><li><a href="/p/documentation/content_management_system/smod_cms_pages" title="CMS Pages">CMS Pages</a></li><li><a href="/p/documentation/content_management_system/smod_cms_galleries" title="CMS Galleries">CMS Galleries</a></li><li><a href="/p/documentation/content_management_system/smod_cms_slideshow" title="CMS Slideshow">CMS Slideshow</a></li><li><a href="/p/documentation/content_management_system/how_to_add_custom_fields_in_a_page_module" title="How to Add Custom Fields">How to Add Custom Fields</a></li></ul>
+                        </li><li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Customer Relationship Management</a>
+                                        <ul class="dropdown-menu count-3"><li><a href="/p/documentation/customer_relationship_management/how_to_add_a_contact_in_smodv" title="How to Add/Edit a Contact in sModV">How to Add/Edit a Contact in sModV</a></li><li><a href="/p/documentation/customer_relationship_management/how_to_add_a_group_in_smodv" title="How to Add/Edit a Group in sModV">How to Add/Edit a Group in sModV</a></li><li><a href="/p/documentation/customer_relationship_management/how_to_add_an_organisation_in_smodv" title="How to Add/Edit an Organisation in sModV">How to Add/Edit an Organisation in sModV</a></li></ul>
+                        </li><li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Plugins</a>
+                                        <ul class="dropdown-menu count-9"><li><a href="/p/documentation/plugins/how_to_insert_a_gallery_into_a_module" title="How to insert a gallery into a module">How to insert a gallery into a module</a></li><li><a href="/p/documentation/plugins/how_to_insert_a_gallery_into_a_page" title="How to insert a gallery into a page">How to insert a gallery into a page</a></li><li><a href="/p/documentation/plugins/how_to_insert_a_slideshow_into_a_page" title="How to insert a slideshow into a page">How to insert a slideshow into a page</a></li><li><a href="/p/documentation/plugins/how_to_insert_a_slideshow_into_a_module" title="How to insert a slideshow into a module">How to insert a slideshow into a module</a></li><li><a href="/p/documentation/plugins/how_to_insert_a_google_map_into_a_page" title="How to insert a google map into a page">How to insert a google map into a page</a></li><li><a href="/p/documentation/plugins/how_to_insert_a_google_map_into_a_module" title="How to insert a google map into a module">How to insert a google map into a module</a></li><li><a href="/p/documentation/plugins/how_to_insert_an_email_form_into_a_page" title="How to insert an email form into a page">How to insert an email form into a page</a></li><li><a href="/p/documentation/plugins/how_to_insert_an_email_form_into_a_module" title="How to insert an email form into a module">How to insert an email form into a module</a></li><li><a href="/p/documentation/plugins/how_to_insert_a_pdf_file_into_a_page" title="How to insert a PDF file into a page">How to insert a PDF file into a page</a></li></ul>
+                        </li><li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Multimedia and Uploads</a>
+                                        <ul class="dropdown-menu count-4"><li><a href="/p/documentation/multimedia_and_uploads/smod_audio_manager" title="Audio Manager">Audio Manager</a></li><li><a href="/p/documentation/multimedia_and_uploads/smod_file_manager" title="File Manager">File Manager</a></li><li><a href="/p/documentation/multimedia_and_uploads/smod_image_manager" title="Image Manager">Image Manager</a></li><li><a href="/p/documentation/multimedia_and_uploads/smod_video_manager" title="Video Manager">Video Manager</a></li></ul>
+                        </li><li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Search Engine Optimisation</a>
+                                        <ul class="dropdown-menu count-1"><li><a href="/p/documentation/search_engine_optimisation/smod_meta_data" title="Meta Data">Meta Data</a></li></ul>
+                        </li><li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Product Management</a>
+                                        <ul class="dropdown-menu count-3"><li><a href="/p/documentation/product_management/how_to_add_a_product_in_smodv" title="How to Add a Product in sModV">How to Add a Product in sModV</a></li><li><a href="/p/documentation/product_management/how_to_add_a_category_in_smodv" title="How to Add/Edit a Category in sModV">How to Add/Edit a Category in sModV</a></li><li><a href="/p/documentation/product_management/how_to_link_products_categories_using_product_explorer" title="How to Link Products/Categories Using Product Explorer">How to Link Products/Categories Using Product Explorer</a></li></ul>
+                        </li><li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Marketing Management</a>
+                                        <ul class="dropdown-menu count-3"><li><a href="/p/documentation/marketing_management/how_to_add_edit_marketing_campaign_in_smod" title="How to Add Marketing Campaign in sMod">How to Add Marketing Campaign in sMod</a></li><li><a href="/p/documentation/marketing_management/how_to_add_edit_an_email_template" title="How to Add/Edit an Email Template">How to Add/Edit an Email Template</a></li><li><a href="/p/documentation/marketing_management/how_to_add_edit_an_sms_template" title="How to Add/Edit an SMS Template">How to Add/Edit an SMS Template</a></li></ul>
+                        </li></ul></li><li class="dropdown">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle ">Videos<b class="caret"></b></a>
+                                <ul class="dropdown-menu"><li><a href="/p/Videos/Huon_Trail_Case_Study" title="Huon Trail Case Study">Huon Trail Case Study</a></li><li><a href="/p/Videos/eCommerce_App_Video" title="eCommerce App Video">eCommerce App Video</a></li></ul></li><li class="dropdown">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle ">Miscellaneous<b class="caret"></b></a>
+                                <ul class="dropdown-menu"><li><a href="/p/customer_resources/Email_Configuration_Instructions" title="Email Configuration Instructions">Email Configuration Instructions</a></li><li><a href="/p/customer_resources/Webmail_Access" title="Webmail Access">Webmail Access</a></li><li><a href="/p/customer_resources/domain_name_delegation" title="Domain Name Delegation">Domain Name Delegation</a></li><li><a href="/p/customer_resources/dns_zone_settings" title="DNS Zone Settings">DNS Zone Settings</a></li><li><a href="/p/customer_resources/how_to_upgrade_from_pop_to_imap_on_outlook" title="How to Upgrade from POP to IMAP on Outlook">How to Upgrade from POP to IMAP on Outlook</a></li></ul></li><li class="dropdown">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle ">Partners<b class="caret"></b></a>
+                                <ul class="dropdown-menu"><li><a href="/p/partners/partner_margins" title="Partner Margins">Partner Margins</a></li><li><a href="/p/partners/overview" title="Overview">Overview</a></li></ul></li><li><a href="/p/tourism" title="Tourism">Tourism</a></li><li class="dropdown">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle ">Developers<b class="caret"></b></a>
+                                <ul class="dropdown-menu"><li><a href="/p/developers/installation_instructions" title="Installation Instructions">Installation Instructions</a></li><li><a href="/p/developers/how_to_output_a_menu_in_your_website" title="How to output a menu in your website">How to output a menu in your website</a></li><li><a href="/p/developers/how_to_output_a_module_in_your_website" title="How to output a module in your website">How to output a module in your website</a></li><li><a href="/p/developers/how_to__collapse_a_module__in_smod" title="How to " collapse="" a="" module"="" in="" smod"="">How to "collapse a module" in sMod</a></li><li><a href="/p/developers/how_to_output_page_content_in_your_website" title="How to output Page content in your website">How to output Page content in your website</a></li><li><a href="/p/developers/how_to_add_google_analytics_to_your_website" title="How to add Google Analytics to your website">How to add Google Analytics to your website</a></li><li><a href="/p/developers/how_to_output_meta_data_in_the_head_of_your_website" title="How to output Meta Data in the head of your website">How to output Meta Data in the head of your website</a></li><li><a href="/p/developers/how_to_edit_the_css_of_your_website" title="How to edit the CSS of your website">How to edit the CSS of your website</a></li><li><a href="/p/developers/how_to_add_disqus_to_your_page" title="How To Add Disqus to your page">How To Add Disqus to your page</a></li><li><a href="/p/developers/smod_open_api" title="sMod Open-API">sMod Open-API</a></li><li class="dropdown-submenu">
+                                    <a tabindex="-1" href="#">Data Dictionary</a>
+                                        <ul class="dropdown-menu count-1"><li><a href="/p/developers/data_dictionary/page_mode_data_dictionary" title="Page Mode Data Dictionary">Page Mode Data Dictionary</a></li></ul>
+                        </li><li><a href="/p/developers/how_to_add_a_legacy__non_bootstrap__drop_down_menu" title="How to add a legacy (non-bootstrap) drop down menu">How to add a legacy (non-bootstrap) drop down menu</a></li></ul></li><li class="dropdown">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle active">Legal<b class="caret"></b></a>
+                                <ul class="dropdown-menu"><li class="active"><a href="/p/legal/smod_terms_of_service" title="sMod Terms Of Service">sMod Terms Of Service</a></li><li class="active"><a href="/p/legal/smod_privacy_policy" title="sMod Privacy Policy">sMod Privacy Policy</a></li></ul></li><li class="dropdown">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle ">Charges<b class="caret"></b></a>
+                                <ul class="dropdown-menu"><li><a href="/p/charges/what_s_this" title="About sMod Charges">About sMod Charges</a></li></ul></li><li><a href="/p/contact_us" title="Contact Us">Contact Us</a></li></ul>                                    </div>
+            </div>
         </div>
-                <div id="wrapper" class="full_width">
-            <div id="wrapper_inner" class="inner_div">
-                <div id="left_modules"><div id="page_content"><h1>Privacy Policy</h1>
+    </div>
+        <section>
+        <div class="container">
+            <div class="row-fluid">
+                <div class="col-lg-4">
+                                    </div>
+                <div class="col-lg-4">
+                                    </div>
+                <div class="col-lg-4">
+                                    </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <div class="row-fluid">
+                
+<div class="page_output">
+    <h1>Privacy Policy</h1>
 <p>This web site is owned and operated by sMod and will be referred to as "We", "our" and "us" in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site ("the web site"), which is set out on this web site page. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.</p>
 <p>We reserve the right, at our discretion, to modify or remove portions of this Internet Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site.</p>
 <p>We recognise the importance of protecting the privacy of information collected about visitors to our web site, in particular information that is capable of identifying an individual ("personal information"). This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your comments and feedback.</p>
@@ -223,43 +131,70 @@
 <p>15.&nbsp;&nbsp;&nbsp; We provide links to Web sites outside of our web sites, as well as to third party Web sites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using that Web site and its privacy statement.</p>
 <h3>Problems or questions</h3>
 <p>16.&nbsp;&nbsp;&nbsp; If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us.</p>
-<p>17.&nbsp;&nbsp;&nbsp; For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's web site; <a title="Australian Federal Privacy Commissioner's Website" href="http://www.privacy.gov.au" target="_blank">http://www.privacy.gov.au/</a>.<br><br></p></div></div><div id="right_modules"><div class="fb-like-box" data-href="http://www.facebook.com/sMod.com.au" data-width="220" data-show-faces="false" data-stream="false" data-header="true"></div><div id="login_box"><h3>Login</h3><form action="/" method="post">
-                        <ul>
-                        <li><label>Username:</label><br><input type="text" name="username" required="required"></li>
-                        <li><label>Password:</label><br><input type="password" name="password" required="required"></li>
-                        <li><input id="submit_blue" type="submit" name="logon" value="Logon"></li>
-                        </ul>
-                        </form></div><div id="register_box"><h3>Register for free</h3><ul>
-                        <li><label>Choose a Username:<span id="feedback" class="feedback_red"></span></label><br><input type="text" id="new_username" name="username" required="required" onkeyup="checkUsername(this.value,'check_username');"></li>
-                        <li><label>Enter a Valid Email Address:</label><br><input type="email" id="email" name="email" required="required" onkeyup="checkUsername(this.value,'check_email');"></li>
-                        <li><label>Choose a Password:</label><br><input type="password" id="new_password" name="new_password" required="required" onkeyup="checkPassword(this.value);"></li>
-                        <li><label>Confirm your password:</label><br><input type="password" id="confirm_password" name="confirm_password" required="required" onkeyup="checkPasswordsMatch();"></li>
-                        <li><input id="submit_blue" type="button" name="register" value="Register" onclick="register();"></li>
-                        </ul></div></div>            </div>
+<p>17.&nbsp;&nbsp;&nbsp; For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's web site; <a title="Australian Federal Privacy Commissioner's Website" href="http://www.privacy.gov.au" target="_blank">http://www.privacy.gov.au/</a></p>
+    <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+            <a class="addthis_button_preferred_1"></a>
+            <a class="addthis_button_preferred_2"></a>
+            <a class="addthis_button_preferred_3"></a>
+            <a class="addthis_button_preferred_4"></a>
+            <a class="addthis_button_compact"></a>
+            <a class="addthis_counter addthis_bubble_style"></a>
         </div>
-        <div id="footer" class="full_width">
-            <div id="footer_inner" class="inner_div">
-                <ul class="smod_menu"><li><a href="/terms-of-service">Terms of Service</a></li><li><a href="/privacy-policy">Privacy Policy</a></li></ul>                <p>Copyright © 2008 - 2013 sMod | All Rights Reserved</p>
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-515a9f1902a1a4b4"></script>
+    <!-- AddThis Button END -->
+    <h6><em>Last updated 2013-12-16 11:53:09</em></h6>
+    <div class="sub_items">
+        <ul class="sub_items_ul">
+            
+        </ul>
+    </div>
+</div>            </div>
+            <div class="row-fluid">
+                <div class="module_container"><p></p><div id="disqus_thread"></div>
+            <script type="text/javascript">
+            var disqus_shortname = 'resourcessmodvcom';
+            (function() {
+                var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript><p></p></div>            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <div class="row-fluid">
+                <div class="col-lg-4">
+                                    </div>
+                <div class="col-lg-4">
+                                    </div>
+                <div class="col-lg-4">
+                                    </div>
             </div>
         </div>
-        <div id="chat_bar_collapsed" onclick="showChatBar()">
-            <p><a href="javascript:void(0)">Collaborate - Chat</a></p>
+    </section>
+</div>
+    <footer id="footer">
+        <div class="container">
+            <div class="row-fluid">
+                Copyright © 2014 sMod All Rights Reserved - Website powered by <a href="http://www.smodv.com">sMod Content Management</a>            </div>
         </div>
-        <div id="chat_bar" class="hidden">
-            <div id="chat_bar_header"><h6>chose users /  <a href="javascript:void(0)" onclick="hideChatBar()"> close window</a></h6></div>
-                    </div>
-        <div id="central_loader" class="hidden">
-            <div id="central_loader_image">
-                <img src="//smodv.s3.amazonaws.com/images/ajax-loader.gif">
-            </div>
-        </div>
-        <div id="smod_feedback" class="hidden">
-            <label><a href="javascript:void(0);" onclick="hideFeedback()">Close Window</a>&nbsp;&nbsp;/&nbsp;&nbsp; Tell us what you think:</label><br>
-            <textarea id="smod_feedback_textarea"></textarea><br>
-            <input type="button" onclick="sendFeedback()" id="smod_feedback_button" value="Send Feedback">
-        </div>
-        <div id="feedback_button">
-            <a href="javascript:void(0)" onclick="openFeedback()">feedback</a>
-        </div>
-                    
+    </footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-28505474-8', 'smodv.com');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
 </body></html>
