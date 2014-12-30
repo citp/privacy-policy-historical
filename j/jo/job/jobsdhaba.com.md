@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsdhaba.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622154838id_/http%3A//www.jobsdhaba.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdhaba.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230163100id_/http%3A//www.jobsdhaba.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# JobsDhaba.Com: Privacy Policy
+# Privacy Policy ~ JobsDhaba.Com | Sarkari naukri | Government Jobs
 
 **_Privacy Policy At www.JobsDhaba.Co_ m**
 
