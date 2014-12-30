@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223215127id_/http%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230233040id_/https%3A//www.data.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Data.gov
 
@@ -26,7 +26,7 @@ Users are NOT required to provide any information to search, retrieve, download,
 
 While you must provide an email address and user name for the optional uses of Data.gov, you should NOT include any other personal information, especially [Social Security numbers](http://www.ssa.gov/pubs/10002.html#protect).
 
-For certain Data.gov users who need access to administrative privileges in order to carry out Data.gov functions in their roles as official representatives of federal, state, local or tribal governments or certain non-governmental organizations, Data.gov collects additional information such as name, organization, job title, and business address, business telephone number and business email address. 
+For certain Data.gov users who need access to administrative privileges in order to carry out Data.gov functions in their roles as official representatives of federal, state, local or tribal governments or certain non-governmental organizations, Data.gov collects additional information such as name, organization, job title, and business address, business telephone number and business email address.
 
 Data.gov is NOT a Privacy Act System of Record. Submission of any information is voluntary, and the collection of email addresses is being done purely for the purpose of authentication.
 
@@ -47,7 +47,7 @@ We reserve the discretion not to display posts that:
   * contain obscene, indecent, or profane language;
   * contain threats, or defamatory statements;
   * contain hate speech directed at race, color, sex, sexual orientation, national origin, ethnicity, age, religion, or disability;
-  * reveal your own or others' sensitive/personal information (e.g., Social Security numbers)
+  * reveal your own or others’ sensitive/personal information (e.g., Social Security numbers)
   * contain information posted in violation of law, including libel, condoning or encouraging illegal activity, and revealing classified information, or posts that might affect the outcome of ongoing legal proceedings or
   * promote or endorse services or products, including links to external commercial sites. (Note that non-commercial links that are relevant to the topic or another post are acceptable.)
 
@@ -65,7 +65,7 @@ To protect your privacy, please do not include information (e.g., an e-mail addr
 
 Thank you for taking the time to read this discussion forum policy. We encourage your participation in our discussion and look forward to an active exchange of ideas.
 
-If you have questions about this discussion forum policy or how we apply it, please contact us through the "contact us" link on the home page.
+If you have questions about this discussion forum policy or how we apply it, please contact us through the “contact us” link on the home page.
 
 ### Browser Information Collected on the Website
 
