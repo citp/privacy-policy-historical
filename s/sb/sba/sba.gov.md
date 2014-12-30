@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628084705id_/http%3A//www.sba.gov/about-sba/sba_performance/open_government/about_the_sba_gov_website/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230140701id_/http%3A//www.sba.gov/about-sba/sba_performance/open_government/about_the_sba_gov_website/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The U.S. Small Business Administration | SBA.gov
 
@@ -40,7 +40,7 @@ SBA.gov provides interactive forms that let you voluntarily submit personal info
 
 SBA.gov only shares information you voluntarily provide with other government agencies if required by law. SBA.gov never collects information or creates individual profiles for commercial marketing. However, when you join an online community and participate in online discussions, your name and other personal information you provide (except e-mail) are viewable by anyone visiting SBA.gov, unless you choose not share this information with the public on your user profile page. Any personal information you provide will be protected to the extent permissible under the Freedom of Information Act and Privacy Act.
 
-Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found on the [Freedom of Information Act home page](http://www.gsa.gov/portal/content/104389 "Freedom of Information Act home page.").
+Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found on the [Freedom of Information Act home page](http://www.gsa.gov/portal/content/104389).
 
 SBA may also use online survey instruments to obtain feedback on your experience with SBA.gov. The survey initiation pops up for a random sample of visitors, is voluntary and does not collect personal information. If you decline the survey you will still have access to the same information and resources of SBA.gov as those who do take the survey. The survey reports are available only to SBA.gov managers and other staff who require this information to perform their duties. The SBA retains the data from the survey results in accordance with its data retention policy.
 
@@ -52,36 +52,36 @@ The E-Government Act requires agencies to conduct privacy impact assessments for
 
 Because we care about the safety and privacy of children online, we comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying regulations protect the privacy of children using the Internet. SBA.gov does not knowingly contact or collect personal information from children under 13. SBA.gov is not intended to solicit information of any kind from children under 13.
 
-It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so by sending an e-mail to the [SBA Answer Desk](mailto:answerdesk@sba.gov "Send an Email to the SBA Answer Desk").
+It is possible that by fraud or deception we may receive information pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so by sending an e-mail to the [SBA Answer Desk](mailto:answerdesk@sba.gov).
 
 ###  Site Security
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-Except for authorized law enforcement investigations, no attempts are made to identify individual users and their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with [National Archives and Records Administration General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html "National Archives and Records Administration General Schedule 20.").
+Except for authorized law enforcement investigations, no attempts are made to identify individual users and their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with [National Archives and Records Administration General Schedule 20](http://www.archives.gov/records-mgmt/grs/grs20.html).
 
-Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1986](http://www.justice.gov/criminal/cybercrime/docs/ccmanual.pdf "Link to Computer Fraud and Abuse Act of 1986") and the National Information Infrastructure Protection Act.
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the [Computer Fraud and Abuse Act of 1986](http://www.justice.gov/criminal/cybercrime/docs/ccmanual.pdf) and the National Information Infrastructure Protection Act.
 
 ###  Social Media and Third Party Websites
 
 The SBA uses some social media tools and websites to interact with its customers and resource partners. Social media websites are used to publicize SBA programs and services and engage with members of the public. The SBA does not use third party websites to solicit and collect personal information from individuals. Any personal information collected by a third party website will not be transmitted to SBA unless required for law enforcement purposes or as otherwise permitted by law. SBA’s privacy and other web policies do not apply to these third party sites and we encourage you to read the policies of the third party site when deciding whether to use it. The official SBA “social media” sites are listed below.
 
 **Facebook:** <http://www.facebook.com/SBAgov>  
-[SBA’s Facebook Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21051/ "SBA’s Facebook Privacy Statement and Terms of Use")
+[SBA’s Facebook Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21051/)
 
-**IdeaScale:**[http://reducingbarriers.ideascale.com](http://reducingbarriers.ideascale.com/ "Link to IdeaScale")  
-[SBA’s IdeaScale Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21061 "SBA’s IdeaScale Privacy Statement and Terms of Use")
+**IdeaScale:**[http://reducingbarriers.ideascale.com](http://reducingbarriers.ideascale.com/)  
+[SBA’s IdeaScale Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21061)
 
 **Twitter:** <http://twitter.com/#!/sbagov>  
-[SBA’s Twitter Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21331 "SBA’s Twitter Privacy Statement and Terms of Use")
+[SBA’s Twitter Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21331)
 
 **YouTube:** <http://www.youtube.com/sba>  
-[SBA’s YouTube Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21071 "SBA’s YouTube Privacy Statement and Terms of Use")
+[SBA’s YouTube Privacy Statement and Terms of Use](https://web.archive.org/about-sba-info/21071)
 
 ###  Links to Other Sites
 
 SBA.gov contains links to websites of other public and private organizations. When you follow a link to another site, you leave the SBA.gov site and your website interactions are no longer protected by our privacy policy. SBA.gov is not responsible for, and does not endorse the privacy or security practices and content of sites to which SBA.gov links.
 
-Please visit SBA.gov’s [Linking Policy](http://www.sba.gov/content/linking-policy-0 "SBA.gov’s Linking Policy") for more information about the linking policies of SBA.gov.
+Please visit SBA.gov’s [Linking Policy](http://www.sba.gov/content/linking-policy-0) for more information about the linking policies of SBA.gov.
 
 This policy was updated on May 24, 2011.
