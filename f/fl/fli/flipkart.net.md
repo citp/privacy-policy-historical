@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipkart.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630065841id_/http%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipkart.net privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231003930id_/http%3A//www.flipkart.com/s/privacypolicy) for the most accurate reproduction.*
 
 # Flipkart.com
 
@@ -71,7 +71,7 @@ Our Website has stringent security measures in place to protect the loss, misuse
 
 We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
 
-If you want to remove your contact information from all flipkart.com lists and newsletters, please visit [http://www.flipkart.com/unsubscribe.php](https://web.archive.org/web/20140630065841id_/http%3A//www.flipkart.com/unsubscribe.php)
+If you want to remove your contact information from all flipkart.com lists and newsletters, please visit [unsubscribe](https://web.archive.org/web/20141231003930id_/http%3A//www.flipkart.com/unsubscribe.php)
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email  
 address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
@@ -97,6 +97,6 @@ Karnataka, India
 
 Phone: +91- 080-49083910  
 Email: grievance.officer@flipkart.com  
-Time: Mon ? Sat (9:00 ? 18:00)
+Time: Mon to Sat (9:00 to 18:00)
 
-Questions regarding this statement should be directed to the following address: [cs@flipkart.com](mailto:cs@flipkart.com)
+Please [contact us](https://web.archive.org/s/contact) regarding any questions regarding this statement.
