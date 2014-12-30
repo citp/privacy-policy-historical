@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mintvine.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044406id_/http%3A//mintvine.com/page/mintvine-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintvine.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230135204id_/http%3A//mintvine.com/page/mintvine-privacy-policy) for the most accurate reproduction.*
 
 # MintVine | MintVine Privacy Policy | MintVine
 
