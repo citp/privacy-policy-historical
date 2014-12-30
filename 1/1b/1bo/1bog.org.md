@@ -1,30 +1,132 @@
-> *The following text is extracted and transformed from the 1bog.org privacy policy that was archived on 2008-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080914153657id_/http%3A//www.1bog.org/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1bog.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230200945id_/http%3A//pureenergies.com/us/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | 1 Block Off the Grid
+# Privacy Policy - Pure Energies USA
 
-**BREAKING NEWS:** ****
+## Privacy Policy
 
-**1BOG San Francisco has FIVE SPOTS LEFT for Real Goods Solar, Inc. to evaluate your place before September 15th!**
+Please read our Privacy Policy carefully so that you can understand how we collect, use and disclose the personal information that you provide to us.
 
-This policy covers how 1BOG.org treats information we collect and receive on our website that personally identifies you. The personal information (PI) we collect may include your name, e-mail address, phone number and address. 1BOG.org does not rent, sell or trade your personal information except for the purposes of fulfilling your request to enter the 1BOG Challenge and solely for matters related to energy conservation, solar energy, backup power system, retrofit and upgrades or other advice regarding renewable energy.
+By accessing this Website you accept all the terms and conditions of this Privacy Policy. In particular, by submitting your personal data to us, you will be deemed to have given your permission for use and disclosures referred to herein.
 
-There are several links from the 1BOG.org website to third party information and service providers who may collect PI from you in order to provide you with information or services. 1BOG.org has no control over the privacy policy of any third party company, so please examine their privacy policy prior to submitting any PI once you’ve left our website. This privacy policy only applies to the 1BOG.org website.
+If you do not agree with the terms and conditions of this Privacy Policy, you must immediately cease using and accessing this Website and any content, services or products contained in or available from this Website for which you need to provide personal information.
 
-**The Security of Information**  
-1BOG.org will strive to ensure a reasonably secure level of protection of your PI. We have policies and practices to protect information, including PI that is collected on our website against loss, misuse, theft, or alteration. Because of the potentially vulnerable nature of computers and the Internet, we cannot and do not guarantee that the individual user information you have communicated, including PI, will not be intercepted by others and possibly decrypted. Similarly, there is a chance that human error may lead to an accidental disclosure of user information that you have transmitted, including PI. 1BOG.org and other parties involved with this project cannot ensure the security of, guarantee, or warrant any information transmitted by you to us online either via the website or via email and we accept no liability for any unintentional disclosures.
+### What does this privacy policy cover?
 
-**Information Sharing and Disclosure**  
-1BOG.org does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide information and fulfill products or services you have requested. That is only the case when you enter your information in the Sign up form. 1BOG.org website content is also integrated into other websites. These websites may collect personal information from their visitors that may or may not be used in conjunction with the 1BOG.org website content. Prior to supplying any personal information to any third party company linking to the 1BOG.org website, please read and understand their privacy policy.
+This Privacy Policy covers our use and disclosure of your personal information, which is collected through or in connection with this Website. For the purposes of this Privacy Policy, “this Website” means all the web pages related to the pure-energies.com site excluding any links to third party sites.
 
-**Future Changes to our Privacy Policy**  
-1BOG.org does make updates to our privacy policy based on changing circumstances. If we do change our privacy policy, we will post those changes on this website so you are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. Your continued usage of our website after the posting of additions and/or changes to this Privacy Policy means you accept those changes.
+This Privacy Policy relates to this website. Other Pure Energies websites may contain privacy policies, which are different from this Privacy Policy. In addition, specific terms and conditions may apply to specific content, services or products contained in or available from such other Pure Energies websites. In the event such additional or specific terms are inconsistent with the terms contained in this Privacy Policy, the additional or specific terms shall prevail.
 
-**Unsubscribe**  
-You may unsubscribe at any time from our email list by sending an email to [unsubscribe@1BOG.org](mailto:unsubscribe@1BOG.org) or using the unsubscribe link when you receive a newsletter or mailing from us.
+On your journey around the Pure Energies websites please check the privacy policy of each website which you visit and do not assume that this privacy policy applies to all Pure Energies websites.
 
-**Questions? Concerns?**  
-At any given time, please feel free to contact our consumer advocacy at [1BOGadvocacy@1BOG.org](mailto:1BOGadvocacy@1BOG.org).  
-This privacy policy was last updated and posted on the website on July 12, 2008
+### Who is responsible for the personal information collected on this Website?
 
-  
+Pure Energies Canada Limited whose registered office is at Calgary, Alberta controls the personal data collected on this Website.
 
+#### Special Notice – if you are under 18 years old
+
+Pure Energies Canada Limited does not intentionally collect personal data of persons under 18 years old. If you are under 18 years old please do not send us your personal information (for example, your name, address and email address). If you are under 18 years old and you wish to ask a question or use this Website in anyway which requires you to submit your personal information please get your parent or guardian to do so on your behalf.
+
+### Information collection and use
+
+We collect and use personal information (including name, address, telephone number and email address) in order to:
+
+respond to queries or requests submitted by you  
+process orders or applications submitted by you  
+administer or otherwise carry out our obligations in relation to any agreement you have with us  
+anticipate and resolve problems with any products or services supplied to you  
+better tailor and improve the features of products and services  
+create products or services that may meet your needs.  
+As part of the products or services offered to you through our Website, the information you provide to us may be transferred to countries outside of Canada.
+
+By way of example, this may happen if any of our servers are from time to time located in a country outside of Canada or one of our service providers is located in a country outside of Canada.
+
+These countries may not have similar data protection laws to Canada.
+
+If we transfer your information outside of Canada in this way, we will take steps to ensure that your privacy rights continue to be protected.
+
+In addition, if you use our services while you are outside Canada, your information may be transferred outside Canada in order to provide you with those services.
+
+We may use third parties for the fulfillment of our obligations here under.
+
+Providing you with additional information and sharing your information
+
+From time to time we would like to use your personal information for purposes other than as set out in the above section.
+
+We believe that these additional uses will be of benefit to you. However, we understand that you may not wish us to use your information in this way.
+
+We will not use your information for the purposes set out below if you have indicated that you do not wish us to use your information in this way when submitting the information.
+
+Additionally, if at any time you wish us to stop using your information for any or all of the below purposes, please let us know (see contact information below).
+
+We will take the necessary steps to stop the use of your information for such purposes with immediate effect.
+
+In such case we will, however, continue to use your personal data for the purposes set out in the above section for as long as necessary to achieve such purposes.
+
+From time to time we will use the information you supply to us for:
+
+#### market research and tracking of sales data
+
+informing you about our products and services, which may include contacting you by telephone  
+giving the information to Pure Energies affiliate offices and companies, which may be located outside Canada, to enable them to send you information which may be of interest to you.  
+In addition, from time to time we would like to give your name, address and e-mail and any other personal data you supply to us to carefully selected third parties, which may be located outside of Canada. These third parties may use this information for:
+
+market research and tracking of sales data  
+sending you information about their products and services  
+giving the information to their affiliate offices and companies to enable them to send you information which may be of interest to you.  
+Collection of non-personal information
+
+We may automatically collect non-personal information about you such as the type of internet browsers you use or the website from which you linked to our Website. We may also aggregate details which you have submitted to the Website (for example, your age and the town where you live). You cannot be identified from this information and it is only used to assist us in providing an effective service on this web site.
+
+We may from time to time supply third parties with your contact information for uses in connection with this Website.
+
+### The use of cookies
+
+We may store some information (commonly known as a “cookie”) on your computer when you look at our Website. We are able to read these cookies for information purposes when you revisit our Website.
+
+The type of information we collect as a result of a cookie being accepted by you is specific to your PC and includes the IP address, the date and time the PC visited the Website, what parts of our Website were looked at and whether the web pages requested were delivered successfully. This information is anonymous; it represents a computer rather than a person.
+
+We use the cookie information to improve our knowledge of the use of our Website and to enable us to be able to ascertain whether the Website is operating at an optimal level. This allows us to enhance our web offerings to you and to provide an enjoyable and an innovative online experience.
+
+You can erase or block this information by changing the settings on your computer (please refer to your help screens or manuals). If you do erase or block this information you may not be able to utilise some features of the Website.
+
+### Chat rooms, notice boards, newsgroups
+
+If at any time this Website offers any chat rooms, notice board facilities, newsgroups etc we may collect the information that you disclose. Such information will be used in accordance with this Privacy Policy. Please note that we cannot be responsible for other parties’ use of the personal information, which you make available to such third parties through any chat room, notice board, newsgroup etc on this Website.
+
+Please be careful about what personal information you disclose in this way.
+
+### E-mail, Feedback and Forum Facilities
+
+If at any time this Website offers any e-mail, feedback or forum facilities, we may collect the information, which you disclose. Such information will be used in accordance with this Privacy Policy.
+
+### Keeping our records accurate
+
+We aim to keep our information about you as accurate as possible. If you would like to review or change the details you have supplied us with, please contact us as set out below.
+
+### Security of your personal data
+
+We have implemented technology and policies with the objective of protecting your privacy from unauthorised access and improper use and will update these measures as new technology becomes available, as appropriate.
+
+Use of your personal information submitted to other websites
+
+We cannot be responsible for the privacy policies and practices of other websites even if:
+
+you accessed the third party website using links from our Website; or  
+you linked to our Website from a third party website.  
+We recommend that you check the policy of each site you visit and contact the owner or operator of such website if you have any concerns or questions.
+
+### Submission of others personal information
+
+From time to time this Website may ask you to provide personal details of your family or friends, for example, so that we can send them details of our products and services. Before providing such information, please ensure that you have obtained their consent to their personal data being used in this way. We will not use these details in any manner, which is incompatible with this Privacy Policy.
+
+#### Will this privacy policy change?
+
+From time to time we may make changes to this Privacy Policy. If we make any substantial changes to this Privacy Policy and the way in which we use your personal data we will post these changes on this page and will do our best to notify you of any significant changes. Please check our Privacy Policy on a regular basis.
+
+#### Contest Rules and Regulations:
+
+For more information on contest rules and regulations, see our [webpage](http://pureenergies.com/us/?p=23163 "Contest Rules and Regulations").
+
+### How you can contact us
+
+For any inquiries or comments please e-mail help@pureenergies.com
