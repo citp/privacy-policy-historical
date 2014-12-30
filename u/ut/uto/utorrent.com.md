@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629140051id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utorrent.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230054544id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - BitTorrent - Delivering the World’s Content
 
-Date of last revision February 12, 2014
+Date of last revision July 28, 2014
 
-BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites ("Sites"), applications and services (collectively, the "Services"). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.
+* * *
+
+BitTorrent, Inc. ("BitTorrent") is committed to respecting the privacy rights and concerns of all users of our websites ("Sites"), applications and services (collectively, the "Services"). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.
 
 ### What information does BitTorrent, Inc. collect and how does BitTorrent use it?
 
   * #### How the BitTorrent Client Works
 
-The BitTorrent Client is a software application on your machine that manages downloads. It downloads files quickly by trading pieces with other users who are also downloading (or have downloaded) the same content. Your use of the BitTorrent Client to download files will, in turn, enable other BitTorrent users (or users of other clients that communicate using the BitTorrent protocol, including clients that are unaffiliated with BitTorrent, Inc.) to download pieces of those files from you. Although your IP address is associated with your piece of the file, other users will not have access to any other personal information about you.
+BitTorrent software (the "BitTorrent Client") is a software application on your machine that manages downloads. It downloads files quickly by trading pieces with other users who are also downloading (or have downloaded) the same content. Your use of the BitTorrent Client to download files will, in turn, enable other BitTorrent users (or users of other clients that communicate using the BitTorrent protocol, including clients that are unaffiliated with BitTorrent, Inc.) to download pieces of those files from you. Although your IP address is associated with your piece of the file, other users will not have access to any other personal information about you.
 
 We do not track which files you transfer with the BitTorrent Client. Merely using the BitTorrent Client does not cause a record of which files you transfer to be kept by BitTorrent or BitTorrent on behalf of any third party.
 
-  * #### Gathering and Use of Anonymous Information
+  * #### Gathering and Use of Non-personally Identifiable Information
 
 Each time a visitor comes to one of our Sites (including utorrent.com), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.
 
@@ -22,7 +24,9 @@ In addition to collecting these types of information, BitTorrent collects aggreg
 
 In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users’ answers to such questions.
 
-We also aggregate some data from the BitTorrent Client regarding total traffic flows and content delivery performance as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of BitTorrent and HTTP protocols on the public internet. End users may opt out of providing this information using a Preferences setting.
+We also aggregate some data from the BitTorrent Client regarding total traffic flows and content delivery performance as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of BitTorrent and HTTP protocols on the public internet.
+
+We may also receive and collect information from your computer and browser, including your IP address, BitTorrent cookie information and software and hardware attributes. Additionally we may also collect information about your computer or mobile device, such as your device model, browser type, or sensors in your device like the accelerometer. BitTorrent uses such information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, conduct research, and provide anonymous reporting for internal and external clients.
 
   * #### Gathering and Use of Personally Identifiable Information
 
@@ -38,7 +42,7 @@ You may visit the Sites and use the BitTorrent Client and many of the Services w
 We will use the personal information you provide to:
 
     * identify you when you sign-in to your account;
-    * enable us to provide you with the Services;
+    * enable us to provide you with the Services or to carry out your instructions (for example, to process payment information);
     * send you information we think you may find useful or which you have requested from us;
     * present projects to you when you use the Service which we believe will be of interest based on your geographic location and previous use of the Service;
     * administer your account with us;
@@ -55,19 +59,15 @@ Notwithstanding any other term of this Privacy Policy, we may release any person
 
 
 
-### How does BitTorrent protect customer information?
-
-We implement a variety of security measures to ensure the security of your personal information on our systems. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems.
-
 ### Does BitTorrent use "cookies"?
 
-Cookies are small bits of electronic information that a web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor's individual preferences. For example, by setting a cookie you would not have to log in a password more than once, thereby saving time. We currently save password information in cookies. In addition, advertisements displayed on the BitTorrent websites or in the BitTorrent Client may contain cookies. The companies who serve our advertisements transfer cookies independent of us, and, as such, we do not control the use of such cookies and in many instances have no access to the information collected by them.
+Cookies are small bits of electronic information that a web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor's individual preferences. For example, by setting a cookie you would not have to log in a password more than once, thereby saving time. We currently save password information in cookies. In addition, advertisements displayed on the BitTorrent websites or in the BitTorrent Client may contain cookies. Third party analytics, ad-serving and affiliate partners may set or have cookies set and access their cookies or local storage objects (flash cookies) on your computer, when you are using the BitTorrent Client or visiting a BitTorrent website and may collect information about your online activities across websites or online services. The third parties who serve our advertisements transfer cookies, and we do not control their use or content of their cookies and in many instances have no access to the information collected by them. Other companies' use of their cookies is subject to their own privacy policies, not this one.
 
 Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access many, if not all, of the features of the BitTorrent websites or the BitTorrent Client. However, some parts of the BitTorrent websites or the BitTorrent Client may not function properly if you refuse cookies.
 
 ### Does BitTorrent disclose the information it collects from its visitors to outside parties?
 
-BitTorrent does not currently sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration or use of the BitTorrent websites or the BitTorrent Client. This information is used to better understand visitors’ use of the features of the BitTorrent websites or the BitTorrent Client, to support related transactions made on or through the BitTorrent websites or the BitTorrent Client, and to better know our visitors and possibly tailor any specific features, promotions, or other notifications to them. However, this data in an aggregate form without any personally identifiable information may be provided to other parties for marketing, advertising, or other uses. Should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. You can do this simply by contacting us in any of the simple ways set forth below in the section entitled "How do you change the information we have for you?"
+BitTorrent does not sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide for BitTorrent in any registration or use of the BitTorrent websites or the BitTorrent Client, except when it’s necessary to provide the Services (like when we partner with payment processors). This information is used to better understand visitors’ use of the features of the BitTorrent websites or the BitTorrent Client, to support related transactions made on or through the BitTorrent websites or the BitTorrent Client, and to better know our visitors and possibly tailor any specific features, promotions, advertisement or other notifications to them. However, this data in an aggregate form without any personally identifiable information may be provided to other parties for marketing, advertising, or other uses. Should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. You can do this simply by contacting us in any of the simple ways set forth below in the section entitled "How do you change the information we have for you?" If you sign up for the mailing list of a publisher of a BitTorrent Bundle, the e-mail address you submit will be provided to that publisher, whom we have no control over.
 
 Finally, we may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of our assets or equity securities or upon any other corporate reorganization.
 
