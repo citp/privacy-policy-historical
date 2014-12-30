@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602184854id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumercomplaints.in privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045241id_/http%3A//www.consumercomplaints.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indian Consumer Complaints Forum
 
@@ -66,19 +66,21 @@ If we merge with or are acquired by another company, the resulting combined comp
 
 | 
 
+### Share this page with others
+
 Recently Discussed
 
-(13 minutes ago)  
-[TNSTC](https://web.archive.org/complaints/tnstc-some-79-buses-going-in-wrong-route-c732561.html)  
-Some 79 buses going in wrong route
+(2 minutes ago)  
+[Spice Jet Airlines](https://web.archive.org/spice-jet-airlines-refund-of-money-for-cancelled-flight-pnr-ud31pk-c985923)  
+Refund of money for cancelled flight (PNR UD31PK)
 
-(13 minutes ago)  
-[MTC Bus Service](https://web.archive.org/complaints/mtc-bus-service-uthukottai-tiruvallur-tamil-nadu-c470988.html)  
-Need more frequent busses to UTHUKOTTAI
+(4 minutes ago)  
+[Freecharge.in](https://web.archive.org/freechargein-mob-no-9974395252-idea-gujarat-recharge-amount-not-credited-in-my-account-c986228)  
+Mob. No.-9974395252 Idea Gujarat Recharge Amount not credited in my account
 
-(13 minutes ago)  
-[MTC Bus](https://web.archive.org/complaints/mtc-bus-vengal-tiruvallur-tamil-nadu-c469411.html)  
-no direct buses
+(7 minutes ago)  
+[Aircel](https://web.archive.org/complaints/aircel-deduction-of-balance-c743622.html)  
+deduction of balance
 
 [](http://www.bdomains.com/)
 
