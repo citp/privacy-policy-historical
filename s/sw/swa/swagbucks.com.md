@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swagbucks.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630054918id_/http%3A//www.swagbucks.com%3Fcmd%3Dsb-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swagbucks.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080309id_/http%3A//www.swagbucks.com%3Fcmd%3Dsb-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Swagbucks
 
@@ -128,8 +128,8 @@ Our goal is to keep you in control of the Personal Information you provide to us
 
 ## Swagbucks.com
 
-P.O. Box 2748  
-Redondo Beach , CA 90278  
+P.O. Box 578  
+Manhattan Beach, Ca 90267  
 [support@swagbucks.com](mailto:support@swagbucks.com)  
 Phone: 1-877-748-2714
 
@@ -163,8 +163,8 @@ Questions regarding children's privacy should be directed to:
 
 ## Swagbucks.com
 
-P.O. Box 2748  
-Redondo Beach , CA 90278  
+P.O. Box 578  
+Manhattan Beach, Ca 90267  
 [support@swagbucks.com](mailto:support@swagbucks.com)  
 Phone: 1-877-748-2714 
 
