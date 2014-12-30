@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingland.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630001955id_/http%3A//marketingland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingland.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045118id_/http%3A//marketingland.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ Information we collect such as this will not be given or sold to third parties u
 
 ### Cookies & Web Beacons
 
-Third Door Media, its advertisers or analytics partners may send a [cookie](http://www.webopedia.com/TERM/c/cookie.html) to your computer or use [web beacons](http://www.webopedia.com/TERM/W/Web_cookie.html) to gather statistical information.
+Third Door Media, its advertisers or analytics partners may send a [cookie](http://www.webopedia.com/TERM/c/cookie.html) to your computer or use [web beacons](http://www.webopedia.com/TERM/W/Web_beacon.html) to gather statistical information.
 
 A cookie does not personally identify you. It is simply a way to know that a particular web browser was used to visit our sites.
 
