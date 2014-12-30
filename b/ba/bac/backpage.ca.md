@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the backpage.ca privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621033537id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.ca privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080127id_/http%3A//www.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
 # backpage.com
 
 **Privacy Policy  
 Last Revised: _January 9, 2014_**
 
-Backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
+backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
 
 **Acceptance of Privacy Policy**
 
@@ -24,7 +24,7 @@ We may use the information we collect to:
   *      Process and respond to your inquires; 
   *      Improve the Site; 
   *      Administer, monitor and control use of the Site, including posts, replies, and account information; and 
-  *      Enforce the [Terms of Use](https://web.archive.org/en-us/online/classifieds/Terms) (collectively, the “Activities”).
+  *      Enforce the [Terms of Use](https://web.archive.org/en-us/online/TermsOfUse) (collectively, the “Activities”).
 
 
 
@@ -60,7 +60,7 @@ If you are a California resident and have provided personal information to the S
 
 We will not share your personal information with third parties for their direct marketing purposes if you request that we do not do so.  You may make such a request by sending us an email at [support@backpage.com](mailto:support@backpage.com) or mailing your request to:
 
-Backpage.com LLC  
+backpage.com LLC  
 PO Box 192307   
 Dallas, TX 75219 USA
 
