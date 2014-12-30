@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628112524id_/http%3A//www.zamzar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamzar.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042443id_/http%3A//www.zamzar.com/privacy.php) for the most accurate reproduction.*
 
 # Zamzar - Free online file conversion
 
@@ -8,13 +8,13 @@ Zamzar is registered in England as a limited company (number 6463494).
 
 **This policy is effective from 1st September 2006**
 
-**This policy was last modified on 23rd April 2012**
+**This policy was last modified on 8th September 2014**
 
    
 
 
   
-Zamzar is registered with the UK [Information Commissioner's Office (ICO)](http://www.ico.gov.uk/) in the [Register of Data Controllers](http://www.ico.gov.uk/tools_and_resources/register_of_datacontrollers.aspx) as required by the UK's 1998 Data Protection Act. The entry in the register is available for public inspection to help ensure transparency and openness in the processing of your data.
+Zamzar is registered with the UK [Information Commissioner's Office (ICO)](http://www.ico.gov.uk/) in the [Register of Data Controllers](http://ico.org.uk/what_we_cover/register_of_data_controllers) as required by the UK's 1998 Data Protection Act. The entry in the register is available for public inspection to help ensure transparency and openness in the processing of your data.
 
   
 For each visitor to our Web page, IP addresses are logged and used by Zamzar for measuring usage. 
@@ -53,7 +53,7 @@ Google Analytics | _utma
 _utmb  
 _utmc  
 _utmz  
-_qca | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited. | [Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "Privacy at Google")
+_qca | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Click here for an overview of privacy at Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html "Privacy at Google")
 
  To opt out of being tracked by Google Analytics across all websites visit: <http://tools.google.com/dlpage/gaoptout>  
   
@@ -72,6 +72,9 @@ Third party advertising providers | Various in the _*.tribalfusion.com_
   
   
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. To learn more about behavioral advertising practice or to opt-out of this use of your anonymous information, you can visit [networkadvertising.org](http://www.networkadvertising.org/). 
+
+  
+Your files and the content of those files belong to you, so it is important to know that as part of our commitment to privacy we will not share, sell or pass on your files to any third parties. The only time any of our team members will handle your files is in the event of a support enquiry, or if a conversion fails and requires further investigation or in the circumstances outlined above in the "Certain Exceptional Disclosures" section. 
 
   
 When users upload files to be converted Zamzar stores those files on its servers until such time as those files have been converted to the new file format. As soon as this has been done Zamzar removes the original user files from its servers. The converted files remain in place on the servers for users to download, until such time as they expire, at which point they are deleted, or in the case of a subscribed user until such time as that user deletes those files. Files stored for download are only accessible by Zamzar and through the clickable link generated for download. 
