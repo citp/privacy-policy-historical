@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yummly.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630011956id_/http%3A//www.yummly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yummly.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230092140id_/http%3A//www.yummly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Yummly
 
@@ -68,6 +68,4 @@ This Site is not directed to children and we do not knowingly collect personally
 
 If you have any questions about this Privacy Policy, please [contact us](mailto:privacy@yummly.com)
 
-_Effective March 27, 2014_  
-  
----|---
+_Effective March 27, 2014_
