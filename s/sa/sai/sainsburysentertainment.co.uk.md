@@ -1,104 +1,117 @@
-> *The following text is extracted and transformed from the sainsburysentertainment.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628011516id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/page.html%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysentertainment.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230203917id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/page.html%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Sainsbury's Entertainment | Privacy Policy
 
 **Introduction**
 
-**[www.sainsburysentertainment.co.uk](http://www.sainsburysentertainment.co.uk/) is a site operated by Sainsbury’s Supermarkets Ltd (we, us, our)** registered in England and Wales under company number 3261722 and with our registered office at 33 Holborn, London EC1N 2HT. 
+We value your privacy and the security of your data is extremely important to us. This policy sets out where and how we collect your personal information and how it will be used, as well as your rights over any personal information we hold about you.
 
-Sainsbury’s Supermarkets Ltd is committed to safeguarding your privacy. We believe that the best way to protect the privacy of users of [www.sainsburysentertainment.co.uk](http://www.sainsburysentertainment.co.uk/) and any other Sainsbury’s Supermarkets Ltd controlled website (each a "Website") is to tell you what information we gather and ensure that you understand and consent to Sainsbury's Supermarkets Ltd’s uses of information you provide. We may occasionally modify this Privacy Policy and will post the revised Privacy Policy on this page so that you are always aware of what information we collect, how we use it and under what circumstances we use or disclose it. We may let you know via the homepage when this happens but you should check the policy frequently to read the latest Privacy Policy. Please note that the Website contains links to and from other websites. We are not responsible for the privacy practices or the content of other websites whether or not we provide you with a link from this Website to such third party websites. This Privacy Policy does not cover the information practices of those other websites. We set out below the answers to frequently asked questions regarding Sainsbury's Supermarkets Ltd’s Privacy Policy. 
+Your use of this website is governed by our [terms and conditions](https://web.archive.org/web/20141230203917id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/en/Terms-and-Conditions/page.html?page=terms). Please ensure you have read and understood them in addition to this policy.
 
-**What information do we collect? How do we use it?**
+  * Business Information
+  * Our promise to you
+  * What sort of information to we collect
+  * How will we use the information
+  * Who might we share the information with
+  * International transfers of your data
+  * Keeping you informed about Sainsbury’s products and services
+  * Nectar
+  * Your rights
+  * Cookies
+  * Links to other websites
+  * Sharing your thoughts
+  * Security
+  * Policy change
 
-We will only use your information for the purposes set out below if you have indicated that you consent to us using your information in this way when submitting the information. If at any time you wish us to stop using your information for any or all of the purposes detailed below please go to the "Notifications" section within the "My Account" area and remove the tick from the relevant boxes or contact us through the "Contact Us" link on the Website or by emailing: [onlineservice@sainsburys.co.uk](mailto:onlineservice@sainsburys.co.uk). We will stop the use of your information for such purposes as soon as it is reasonably possible to do so.
 
-• **Information you give us** : we receive and store any information you enter on our Website or that you give us in any other way. You do not have to provide all of the information requested but that may mean that you cannot use the features of our Website. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you.  
-• **Automatic information** : we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your Web browser accesses our Website or advertisements and other content served by or on behalf of Sainsbury’s Supermarkets Ltd on other Web sites.  
-• **E-mail communications** : to help us make e-mails more useful, we often receive a confirmation when you open an e-mail from us if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mails or other mail from us, please ensure that you have unchecked the relevant boxes in the "Notifications" section within the "My Account" area.  
-• **Information from other sources** : we might receive information about you from other sources and add it to our account information. 
 
-This information is stored on our database. Subject to the uses of this information to which you have consented, the database enables Sainsbury’s Supermarkets Ltd to provide you with information you request from us. We may also use your personal information to track activity on the Website. We do this in order to serve you better as we understand how you and other visitors use the Website. 
+**Business Information**
 
-We also use technology that allows us to track visitors to the Website so that we can understand how you and other visitors use it. For example, we use this technology to gather the following statistics: 
+This website is operated by Sainsbury’s Supermarkets Ltd, 33 Holborn, London EC1N 2HT, Company Registration Number: 3261722, VAT number: 660 4548 36. Sainsbury’s Supermarkets Ltd is registered as a data controller under the terms of the Data Protection Act 1998. Details can be found at [www.ico.gov.uk](http://www.ico.gov.uk/) under number Z4722394. 
 
-• your total number of visits;  
-• your total number of page views;  
-• how many pages you clicked on;  
-• your location;  
-• the length of time you spent on the Website;  
-• where you arrived from (either directly, via a referring site or search engine);  
-• your connection speed;  
-• what browser/operating system/screen resolution you have.
+**Our promise to you**
+
+We respect, and are committed to protecting your privacy and will always process your personal information in accordance with the Data Protection Act and any other relevant legislation. We will not sell any information that identifies you to any third party without your consent and any information you give to Sainsbury’s will be held with the utmost care and security. 
+
+**What sorts of information do we collect**
+
+  * Information that you provide to us such as your name, address, telephone number, email address and payment card details.
+  * Information about the products and services you purchase from us.
+  * Information such as your computer’s IP address and anonymous information collected from cookies when you are browsing our website.
+  * Information from other sources like credit reference agencies, the DVLA, social media providers, marketing and research companies, as well as information that is publicly available.
+
+
+
+Return to the top of page
+
+**How we will use the information**
+
+The information we collect may be used to:
+
+  * Process your orders;
+  * Allocate Nectar points if appropriate;
+  * Help us ensure that our customers are genuine and to prevent fraud;
+  * Conduct market research, either ourselves or by using reputable agencies;
+  * Conduct statistical analysis;
+  * Help us understand more about you as a customer and how you shop across Sainsbury’s companies, so we can serve you better;
+  * Help us to develop this website to make your shopping easier in the future;
+  * Contact you about our products and services if you’ve consented;
+  * Help answer your questions and solve any issues you have raised.
+
+
+
+**Who might we share your information with**
+
+  * Our other Sainsbury’s companies like Mobile By Sainsbury’s and Sainsbury’s Bank - so we can provide you with a high quality service across our brand.
+  * Reputable partners, suppliers or agencies so they can process your personal information on our behalf…but only where they meet our strict standards on the processing of data and security!
+  * To allocate Nectar points, we will pass limited information to Aimia Coalition Loyalty Limited who operates the Nectar programme.
+  * New Sainsbury’s companies that we may develop in the future, either on our own or with others.
+
+
+
+**International transfers of your data**
+
+From time to time we may transfer your personal information to our companies, suppliers or service providers based outside of the UK for the purposes described in this privacy policy. If we do this your personal information will continue to be treated with the utmost care and protected in accordance with this privacy policy. 
+
+**Keeping you informed about Sainsbury’s products and services**
+
+The information we communicate to you may be sent by email, SMS, social media, post or via telephone provided you have consented to us doing so. If you wish to amend your marketing preferences you can do so by clicking on "my account" and following the directions or by calling our Customer Care Team on 0800 636262. 
+
+**Nectar**
+
+We are a partner in the Nectar loyalty card scheme. That means that if you use your Nectar card when shopping with us you will be awarded points for most things that you buy. The points can be spent with us or with any other Nectar partner. If you use your Nectar card we can also see what products you have bought from us. That allows us to personalise the offers we send to you and understand a bit more about the kind of shopper you are. 
+
+Return to the top of page
+
+**Your rights**
+
+In addition to our safeguards, your personal data is protected in the UK by the Data Protection Act. This provides, among other things, that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people. You have the right to see what is held about you and correct any inaccuracies. Should you wish to see any of the information held about you, please write to The Data Protection Manager, Sainsbury’s Legal Services, 33 Holborn, London EC1N 2HT. 
+
+**Cookies**
+
+We use a feature of your internet browser called a 'cookie' on this website. A 'cookie' is a very small text file that your web browser places on your computer's hard drive which allows us to help you get the best out of your visit to the website and improve your user experience. A 'cookie' can be thought of as an identification card which tells a website when you have returned. To read our Cookie Policy please [click here](https://web.archive.org/web/20141230203917id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/en/Cookie-Policy/page.html?page=Cookies). 
+
+**Links to other websites**
+
+Whilst we make every effort to provide you with links to other high quality, reputable websites, these websites are not under our day to day control. Therefore we cannot accept responsibility for any issues arising in connection with their use of your information, the website content or the services offered to you by these websites. We advise you to consult the privacy policy and terms and conditions on each website to see how each supplier may process your information. 
+
+**Sharing your thoughts**
+
+When using our website, you may be able to share information through social networking accounts like Facebook and Twitter. For example when you ‘like’, ‘share’ or review our products. When doing this your personal information may be visible to other users of those sites, Sainsbury's or this website. Please remember it is your responsibility to set appropriate privacy settings on your social network accounts so you are comfortable with how your information is used and shared. 
 
 **Security**
 
-We are committed to using our best efforts to maintaining the security of your personal information and we do this in a number of ways: 
+  * We treat all the information we hold securely and with the utmost care.
+  * Your payment details are stored on our system in an encrypted format and can only be accessed when you place an order using your user name or email address and password.
+  * Please be aware that we will only ever contact customers requesting confirmation of account details if your card is declined at the point of payment (this is not the same as the automatic pre authorisation which happens when you order your products online), or in certain circumstances when a refund to your card is required as Customer Care Team do not have access to your payment card details.
+  * We will never ask you for your password.
+  * We advise you never to enter your account number or password into an email or after following a link from an email.
+  * In order to provide a safe, secure shopping environment for all customers and to ensure we only serve genuine customers, Sainsbury’s reserves the right to use reputable security devices and systems as necessary.
 
-• we work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.   
-• we reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.  
-• we maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. 
 
-It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. 
 
-Although we use our best efforts to protect the security of your personal information and our system, due to the inherent open nature of the Internet, no transmission via the Internet can be guaranteed to be 100% secure. As a result of this and other factors beyond our control, we cannot guarantee the security of the information that you transmit to or through our Website. Therefore, you assume that risk by using the Website. 
+Return to the top of page
 
-**Notice to minors**
+**Policy change**
 
-This Website is intended for use by adults. If you are under **18** please do not send us any personal information including your email details. If you would like to contact us please do so through a parent or legal guardian (ask them to email us on your behalf). If you are a parent or legal guardian of a minor who has submitted personal information to us, please let us know by contacting us by clicking the "Contact Us" link on the Website or by emailing [onlineservice@sainsburys.co.uk](mailto:%20onlineservice@sainsburys.co.uk). We will delete such personally identifiable information from our database as soon as possible following our receipt of any such notice.
-
-**Access to your information**
-
-Where required by law, we will, upon request provide you with all the information we hold about you and which we are obliged to disclose to you. In making this request, please contact the Sainsbury’s Entertainment team ([onlineservice@sainsburys.co.uk](mailto:%20onlineservice@sainsburys.co.uk)) and specify that you require disclosure of your personal information.
-
-**Do we share the information we receive?**
-
-In addition to the sharing of your information as otherwise set out in this policy, as Sainsbury’s Supermarkets Ltd is part of a larger group your information may be shared between Sainsbury’s Supermarkets Ltd group companies, a list of which can be obtained by contacting [onlineservice@sainsburys.co.uk](mailto:%20onlineservice@sainsburys.co.uk). Save as described below, we do not otherwise disclose information about your individual visits to the Website or information which identifies you to any third parties unless we have your prior consent or unless requested by local regulators and law enforcement officers or required by applicable law, rule or regulation. However, in order to provide an efficient service, certain functions such as hosting, storage fulfilment and disaster recovery are provided by third parties. Where this is the case we will ask those with whom we share data to agree to protect data as we have agreed in this Privacy Policy.
-
-**Your Choice**
-
-Sainsbury’s Supermarkets Ltd permits you to opt-in to receive certain communications from us. If at any time you want to opt-out of receiving communications from Sainsbury’s Supermarkets Ltd or that you no longer wish your feedback to be displayed on the Website, please let us know by contacting us at [onlineservice@sainsburys.co.uk](mailto:onlineservice@sainsburys.co.uk) and we will change your Preferences.
-
-**Data Security**
-
-We take the security of your data seriously. Therefore, once we receive your transmission, we make our best efforts to ensure its security on our systems. 
-
-It is our policy to virus check documents and files before they are posted on this Website. However, we cannot guarantee that documents or files downloaded from this Website will be free from viruses and we do not accept any responsibility for any damage or loss caused by any virus. Accordingly, for your own protection, you must use virus-checking software when using this Website. You must not post or provide to us via this Website, any document or file which you believe may contain a virus. You must virus check any document or file which you intend to post or provide to us via the Website. 
-
-Unfortunately no data transmission or security program can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. You remain responsible for the security of your computer at all times.
-
-**Worldwide transfer of your data**
-
-The dynamics of the Internet may mean that information is sent electronically outside of the country where you originally entered the information. In addition, that information may be used, stored and processed outside the country where you entered that information. While there is a risk that countries to which information is transferred will not be subject to an information protection regime as rigorous as that of the EEA we will take reasonable steps to ensure that your information is treated securely and adequately protected in accordance with this Privacy Policy. However, if you are resident in the EEA and you do not want your information to be transferred outside of the EEA please do not send us personal data. 
-
-**What about ‘cookies’?**
-
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard-drive. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. We only use cookies to keep track of the pages you visit on the Website and to tell us whether you have visited the Website previously so that, in order to serve you better, we understand how you and other visitors use the Website. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. We have sought to set up our Website so as to notify you before a cookie is used. However, if you choose to reject all cookies, you may be unable to use parts of the Website. 
-
-To view our Cookie Policy, please click [ here.](https://web.archive.org/web/20140628011516id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/en/Sainsbury-s-Entertainment-Cookie-Policy/page.html?page=Cookies)
-
-**Your Consent**
-
-By using the Website and submitting information, you consent to the collection and use of your personal information by us as described in this policy and the transfer of your personal information to countries outside of the EEA.
-
-**Accuracy of Your Personal Information**
-
-The information you provide to us shall be truthful and accurate.   
-We aim to keep our information about you accurate. If you would like to review or change the information you have supplied us with, please contact us as set out below in 'Further Information'.
-
-**Merger**
-
-If Sainsbury's Supermarkets Ltd merges with, acquires or is sold to another company or goes into bankruptcy or engages in other such business transactions, we may share files and email records with our business and merger partners.
-
-**Online data**
-
-This general Privacy Policy only applies to the collection of data online and not to offline information. This Privacy Policy may be amended or superseded by a specific privacy policy for the collection and use of other data. Where this Privacy Policy is amended or superseded for the collection and use of other data Sainsbury’s Supermarkets Ltd will draw that amended privacy policy to your attention.
-
-**Governing Law**
-
-This Privacy Policy is governed by the laws of England.
-
-**Further Information**
-
-If you have any requests or questions regarding this Privacy Policy please write to Sainsbury's Supermarkets Ltd at 33 Holborn, London EC1N 2HT or contact us by e-mail using the following address: [onlineservice@sainsburys.co.uk ](mailto:onlineservice@sainsburys.co.uk)
-
-Updated: 15th February 2013
+This privacy policy was most recently updated in November 2014. Any changes will be posted on this website and will take effect immediately. 
