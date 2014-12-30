@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626231515id_/http%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230120752id_/http%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
 
 # destructoid.com privacy policy - Destructoid
 
@@ -60,21 +60,11 @@ If you have any questions about this privacy statement, the practices of this si
 
 | 
 
-[](http://www.destructoid.com/author.phtml?name=Niero%20Gonzalez&a=1329)
+[](http://www.destructoid.com/author.phtml?name=Papa%20Niero&a=1329)
 
-[](http://www.destructoid.com/video-ubisoft-is-now-luring-consumers-into-pre-orders-with-gambling-277087.phtml)
+[](http://www.destructoid.com/well-i-ll-be-sucked-tak-fujii-has-left-konami-285087.phtml)
 
-Ubisoft has launched a new tactic for netting pre-orders for Assassin's Creed: Unity in the form of a digital slot machine. Pre-order customers gain 5 free spins every Friday, and prizes include everything from in-game content to a trip to Paris. While participants pay no actual money to play, using gambling as a way to attract customers still feels a bit sleazy. [more](http://www.destructoid.com/video-ubisoft-is-now-luring-consumers-into-pre-orders-with-gambling-277087.phtml)
-
-  
-
-
-  
-
-
-[](http://www.destructoid.com/video-ea-sorry-about-battlefield-4-releases-paid-dragon-s-teeth-dlc-277070.phtml)
-
-EA has garnered quite a reputation for being jerks over the past couple of years, with the rough launch of Battlefield 4 being one of the many reasons people are upset with them. CEO Andrew Wilson offered his apologies, sort of.[more](http://www.destructoid.com/video-ea-sorry-about-battlefield-4-releases-paid-dragon-s-teeth-dlc-277070.phtml)
+Metal Gear Solid, Pro Evolution, and literally nothing else developer Konami has lost its brightest star aside from the one that goes around wearing a Drive jacket and hanging out with Kiefer Sutherland.  Tak "...[more](http://www.destructoid.com/well-i-ll-be-sucked-tak-fujii-has-left-konami-285087.phtml)
 
   
 
@@ -82,9 +72,19 @@ EA has garnered quite a reputation for being jerks over the past couple of years
   
 
 
-[](http://www.destructoid.com/ubisoft-comments-on-watch-dogs-unused-graphics-settings-276892.phtml)
+[](http://www.destructoid.com/microsoft-is-the-publisher-of-rise-of-the-tomb-raider-284797.phtml)
 
-Modders have found settings in Watch Dogs' files that can be enabled to make the game look better and, in some cases, even improve performance. What's the deal with that? "The dev team is completely dedicated to getting the m...[more](http://www.destructoid.com/ubisoft-comments-on-watch-dogs-unused-graphics-settings-276892.phtml)
+Ever since Microsoft's gamescom exclusivity reveal, there's been plenty of speculation about the state of Rise of the Tomb Raider. Although it was soon found out to be a timed-exclusive, there are still many uncertainties sur...[more](http://www.destructoid.com/microsoft-is-the-publisher-of-rise-of-the-tomb-raider-284797.phtml)
+
+  
+
+
+  
+
+
+[](http://www.destructoid.com/ea-s-looking-to-build-from-within-instead-of-acquiring-new-studios-284534.phtml)
+
+In one way, Electronic Arts has always sort of been the New York Yankees of videogames -- it simply buys what it wants. Many of the studios in EA's stable -- such as PopCap and BioWare -- weren't home-grown, but rather bought...[more](http://www.destructoid.com/ea-s-looking-to-build-from-within-instead-of-acquiring-new-studios-284534.phtml)
 
   
 
