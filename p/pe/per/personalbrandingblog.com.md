@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalbrandingblog.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084730id_/http%3A//www.personalbrandingblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalbrandingblog.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230232857id_/http%3A//www.personalbrandingblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Branding Blog - Stand Out In Your Career
 
