@@ -1,39 +1,36 @@
-> *The following text is extracted and transformed from the bloggertipsseotricks.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209135237id_/http%3A//www.bloggertipsseotricks.com/p/blogger-tips-tricks-seo-privacy-policy_23.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertipsseotricks.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230051832id_/http%3A//www.bloggertipsseotricks.com/p/blogger-tips-tricks-seo-privacy-policy_23.html) for the most accurate reproduction.*
 
-# Blogger & SEO Tips and Tricks - Privacy Policy | Blogger Tips and Tricks
+# Privacy Policy
 
-  *   
+###  **Privacy Policy for** BloggerTipsSEOTricks.com
 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin[@]bloggertipsseotricks.com.
 
-###  **Privacy Policy for Blogger Tips and Tricks | Search Engine Optimization-SEO Tips**
-
-[](http://3.bp.blogspot.com/_d23RhflOeI4/TMDGjqZyqQI/AAAAAAAAABI/pkw5TrvZ1EE/s1600/search+engine+optimization+privacy+policy..jpg)
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at shadabiitr AT THE RATE gmail.com.
+At [BloggerTipsSEOTricks.com](http://www.bloggertipsseotricks.com/) , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by BloggerTipsSEOTricks.com and how it is used.
 
 **Log Files**
 
-Like many other Web sites, [Blogger Tips and Tricks | Search Engine Optimization-SEO Tips](http://www.bloggertipsseotricks.com/)[](http://www.bloggertipsseotricks.com/) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, BloggerTipsSEOTricks.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-  
 **Cookies and Web Beacons**
 
-[Blogger Tips and Tricks | Search Engine Optimization-SEO Tips](http://www.bloggertipsseotricks.com/) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+BloggerTipsSEOTricks.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-  
 **DoubleClick DART Cookie**
+
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to BloggerTipsSEOTricks.com and other sites on the Internet. 
 
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy/ads/>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
 Google Adsense  
-Adbrite  
-Chitika These third-party ad servers or ad networks use technology to the advertisements and links that appear on [Blogger Tips and Tricks | Search Engine Optimization-SEO Tips](http://www.bloggertipsseotricks.com/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
-[Blogger Tips and Tricks | Search Engine Optimization-SEO Tips](http://www.bloggertipsseotricks.com/) has no access to or control over these cookies that are used by third-party advertisers.
+BuySellAds  
+Chitika
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. [Blogger Tips and Tricks | Search Engine Optimization-SEO Tips](http://www.bloggertipsseotricks.com/)[](http://www.bloggertipsseotricks.com/)'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on BloggerTipsSEOTricks.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+BloggerTipsSEOTricks.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. BloggerTipsSEOTricks.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-
-
-
