@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the boombycindyjoseph.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530023402id_/http%3A//www.boombycindyjoseph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boombycindyjoseph.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230101828id_/http%3A//www.boombycindyjoseph.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY - BOOM! by Cindy Joseph Pro
+# Privacy Policy - BOOM by Cindy Joseph
+
+Privacy Policy 
 
 **Privacy Policy**  
 BOOM! By Cindy Joseph® ("BOOM") is committed to protecting your privacy when you visit our Website, so we want you to know what information we collect when you visit our site, how we use that information, and how you can update it ("Privacy Policy"). We reserve the right to append or otherwise modify this Privacy Policy at any time, so please re-visit this page occasionally to check for updates.
