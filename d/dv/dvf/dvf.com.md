@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221123421id_/http%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230194306id_/http%3A//www.dvf.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DVF | Privacy Policy
 
 Last Updated: August 21, 2012
 
-This privacy policy (this "Privacy Policy") in intended to inform you about how Diane von Furstenberg Studio, L.P., a Delaware limited partnership located at 872 Washington Street, New York, NY 10014. ("DvF", "we", "our", or "us"), collects and uses your personally identifiable information ("PII" or "Personally Identifiable Information") and other information through our website located at [www.dvf.com](http://www.dvf.com/) (the "Website").
+This privacy policy (this "Privacy Policy") in intended to inform you about how DVF Studio, LLC, a Delaware limited partnership located at 440 West 14th Street, New York, NY 10014. ("DvF", "we", "our", or "us"), collects and uses your personally identifiable information ("PII" or "Personally Identifiable Information") and other information through our website located at [www.dvf.com](http://www.dvf.com/) (the "Website").
 
 ### How does the Website work?
 
@@ -24,7 +24,7 @@ DvF may also provide your PII to individuals or entities who work on our behalf 
 
 ### How do we use the Personally Identifiable Information we collect on the Website?
 
-We may use and disclose PII to improve and enhance your experience on the website and for other purposes. For example, from time to time, we may use and share PII with third parties to show general demographic and preference information among users of the website. In these circumstances, the shared information will neither contain nor be linked to any PII.
+We may use and disclose PII to improve and enhance your experience on the website, know more about our customers and for other purposes. For example, from time to time, we may use and share PII with third parties to show general demographic and preference information among users of the website as well as understanding more about customers. In these circumstances, the shared information will neither contain nor be linked to any PII.
 
 ### Under what other circumstances may we release Personally Identifiable Information?
 
@@ -52,7 +52,7 @@ DvF may provide links to other websites or resources of possible interest to you
 
 The Website is intended for general use of persons who have reached the age of consent in their jurisdiction of residence, and it is not targeted to anyone under thirteen (13) years of age. DvF does not knowingly collect PII from anyone under thirteen (13) years of age. If we learn that we have unwittingly collected PII from anyone under thirteen (13) years of age, we will promptly delete such information. Do we have a mechanism to address the removal of Personally Identifiable Information and complaints about the handling of information that we collect?
 
-If you wish to remove PII that you have submitted to DvF, please send us an email requesting such removal to [cseshop@dvf.com](mailto:cseshop@dvf.com?subject=Removal). If you have questions or concerns about any of our information collection or handling practices, please contact us at [cseshop@dvf.com](mailto:cseshop@dvf.com?subject=Information%20Collection) or write to us at Diane von Furstenberg Studio, L.P., Attn: Customer service for DVF.COM, 872 Washington Street, New York, NY 10014.
+If you wish to remove PII that you have submitted to DvF, please send us an email requesting such removal to [cseshop@dvf.com](mailto:cseshop@dvf.com?subject=Removal). If you have questions or concerns about any of our information collection or handling practices, please contact us at [cseshop@dvf.com](mailto:cseshop@dvf.com?subject=Information%20Collection) or write to us at DVF Studio, LLC, Attn: Customer service for DVF.COM, 440 West 14th Street, New York, NY 10014.
 
 ### Consent to transfer
 
