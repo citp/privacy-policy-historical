@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorolasolutions.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629104342id_/http%3A//www.motorolasolutions.com/Business/US-EN/About/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorolasolutions.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230041122id_/http%3A//www.motorolasolutions.com/US-EN/About/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Statement - Motorola Solutions USA
 
@@ -6,59 +6,172 @@ This Statement applies to the online processing of personal information via web 
 
 **What personal information is collected?**
 
-  | • | We collect personal information you voluntarily choose to provide such as your name, address, email address, phone numbers and/or other categories of personal information, such as payment card information.  
+  | 
+
+•
+
+| 
+
+We collect personal information you voluntarily choose to provide such as your name, address, email address, phone numbers and/or other categories of personal information, such as payment card information.  
+  
 ---|---|---  
-  | • | Our web server logs may collect additional information, such as the domain names of visitors to our web sites, in order to measure the use of our web sites and to improve content.  
-  | • | We may use cookies to manage areas of our web site and to deliver a better web site experience to our users. You have choices with respect to cookies.  
+  | 
+
+•
+
+| 
+
+Our web server logs may collect additional information, such as the domain names of visitors to our web sites, in order to measure the use of our web sites and to improve content.  
+  
+  | 
+
+•
+
+| 
+
+We may use cookies to manage areas of our web site and to deliver a better web site experience to our users. You have choices with respect to cookies.  
+  
 More details  
    
   
 **How is my personal information used?**
 
-  | • | We may use personal information to facilitate order processing; to contact you if a problem arises with your order; to facilitate the employment application process; or for other uses consistent with this Statement.  
+  | 
+
+•
+
+| 
+
+We may use personal information to facilitate order processing; to contact you if a problem arises with your order; to facilitate the employment application process; or for other uses consistent with this Statement.  
+  
 ---|---|---  
-  | • | Except as outlined in this Statement or on our web sites, we do not provide your personal information to third parties without your consent.  
-  | • | We share the information you provide with Motorola Solutions subsidiaries and related companies.  
-  | • | We may also share your personal information with third-party business partners so that they may provide services to Motorola Solutions that are consistent with this Statement and our web sites, or as part of a specific product, service, or promotion.  
-  | • | In addition, we may disclose personal information in special cases, such as when we believe in good faith that the law requires it.  
+  | 
+
+•
+
+| 
+
+Except as outlined in this Statement or on our web sites, we do not provide your personal information to third parties without your consent.  
+  
+  | 
+
+•
+
+| 
+
+We share the information you provide with Motorola Solutions subsidiaries and related companies.  
+  
+  | 
+
+•
+
+| 
+
+We may also share your personal information with third-party business partners so that they may provide services to Motorola Solutions that are consistent with this Statement and our web sites, or as part of a specific product, service, or promotion.  
+  
+  | 
+
+•
+
+| 
+
+In addition, we may disclose personal information in special cases, such as when we believe in good faith that the law requires it.  
+  
 More details  
    
   
 **What choices do I have?**
 
-  | • | If you do not want to receive e-mail, direct mail or targeted advertisements regarding our products and services, simply tell us when you provide your personal information or by following the directions on our web sites to remove your name from our mailing list(s). [Click here to manage your communications preferences.](https://web.archive.org/Business/US-EN/Manage+My+Communications)  
+  | 
+
+•
+
+| 
+
+If you do not want to receive e-mail, direct mail or targeted advertisements regarding our products and services, simply tell us when you provide your personal information or by following the directions on our web sites to remove your name from our mailing list(s). [Click here to manage your communications preferences.](https://web.archive.org/US-EN/Manage+My+Communications)  
+  
 ---|---|---  
-  | • | You have the right to access (review, correct, amend or delete) your personal information by contacting Motorola Solutions.  
-  | • | If you have established a "user profile" on a Motorola Solutions web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information.  
+  | 
+
+•
+
+| 
+
+You have the right to access (review, correct, amend or delete) your personal information by contacting Motorola Solutions.  
+  
+  | 
+
+•
+
+| 
+
+If you have established a "user profile" on a Motorola Solutions web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information.  
+  
 More details  
    
   
 **What about information security?**
 
-  | • | When you place an order or provide personal information, we employ certain security measures, such as encryption where appropriate.  
+  | 
+
+•
+
+| 
+
+When you place an order or provide personal information, we employ certain security measures, such as encryption where appropriate.  
+  
 ---|---|---  
-  | • | The personal information you provide may be transmitted, used, stored and otherwise processed outside of the country where you submitted that information, including jurisdictions that may not have data privacy laws that provide equivalent protection to such laws in your home country.  
-  | • | Regardless of where these activities occur, we take appropriate steps to ensure that your information is treated securely.  
+  | 
+
+•
+
+| 
+
+The personal information you provide may be transmitted, used, stored and otherwise processed outside of the country where you submitted that information, including jurisdictions that may not have data privacy laws that provide equivalent protection to such laws in your home country.  
+  
+  | 
+
+•
+
+| 
+
+Regardless of where these activities occur, we take appropriate steps to ensure that your information is treated securely.  
+  
 More details  
    
   
 **What about my child's privacy?**
 
-  | • | Our web sites are intended for use only by persons over the age of 13 or as required by local law. Persons under the age of 13 should not submit personal information to Motorola Solutions.  
+  | 
+
+•
+
+| 
+
+Our web sites are intended for use only by persons over the age of 13 or as required by local law. Persons under the age of 13 should not submit personal information to Motorola Solutions.  
+  
 ---|---|---  
 [More details](https://web.archive.org/US-EN/About/Privacy+Policy#9)  
    
   
 **How do I contact Motorola Solutions?**
 
-  | • | Please direct any questions concerning Motorola Solutions' privacy practices to [privacy1@motorolasolutions.com](mailto:privacy1@motorolasolutions.com). Requests to unsubscribe from ("opt-out" of) communications from Motorola Solutions can be managed [here](https://web.archive.org/Business/US-EN/Manage+My+Communications). Or, mail your inquiry/request to:  
+  | 
+
+•
+
+| 
+
+Please direct any questions concerning Motorola Solutions' privacy practices to [privacy1@motorolasolutions.com](mailto:privacy1@motorolasolutions.com). Requests to unsubscribe from ("opt-out" of) communications from Motorola Solutions can be managed [here](https://web.archive.org/US-EN/Manage+My+Communications). Or, mail your inquiry/request to:  
+  
 ---|---|---  
-  |   |   
+  |   | 
+
+  
 Motorola Solutions, Inc.  
 Attention: Privacy Compliance Program  
-P.O. Box 10551  
-Scottsdale, Arizona 85271-0551  
-USA  
+P.O. Box 59263  
+Schaumburg, IL U.SA. 60159-0263  
   
 Motorola Solutions recognizes privacy and security as being concerns for most individuals accessing the Internet, including our customers. This Statement describes how Motorola Solutions collects, uses and safeguards information you provide when using our web sites in accordance with the relevant legislation for the countries in which such data is being processed. By using our web sites, you consent to the collection and use of your information by Motorola Solutions as set forth in the policy currently in effect. Any changes to this Statement will be posted on our web sites, so please check back periodically to ensure you have the most current Statement.
 
@@ -126,7 +239,7 @@ Motorola Solutions may share your personal information with third-party business
 
 Motorola Solutions shares web site usage information about visitors to our web sites, who have received a targeted promotional campaign, with reputable third-party advertising companies for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising companies note some of the pages you visit on our web sites through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising companies through the use of these pixel tags is not personally identifiable.
 
-Motorola Solutions or its business partners may, from time to time, send you email or direct mail regarding our products and services. If you do not want to receive such information, simply tell us when you give us your personal information, or follow the directions contained on the mailing to remove your name from our mailing list(s). [Click here to manage your communications preferences.](https://web.archive.org/Business/US-EN/Manage+My+Communications)
+Motorola Solutions or its business partners may, from time to time, send you email or direct mail regarding our products and services. If you do not want to receive such information, simply tell us when you give us your personal information, or follow the directions contained on the mailing to remove your name from our mailing list(s). [Click here to manage your communications preferences.](https://web.archive.org/US-EN/Manage+My+Communications)
 
 On certain types of Motorola Solutions promotions, we will ask for your email address in order to contact you in the event you have won a prize. When you participate in these types of promotions, you may receive promotion-related email. Occasionally these promotion-related email messages may include targeted advertisements. If you do not wish to receive such advertisements, you can choose not to participate in such promotions or contests.
 
@@ -136,13 +249,15 @@ You also have the right to access (review, correct, amend or delete) your person
 
 If you have established a "user profile" on a Motorola Solutions web site, you may change the information you provided by visiting that portion of the web site and resubmitting your information.
 
-Please direct any questions concerning Motorola Solutions' privacy practices to [privacy1@motorolasolutions.com](mailto:privacy1@motorolasolutions.com). Requests to unsubscribe from ("opt-out" of) communications from Motorola Solutions can be managed [here](https://web.archive.org/Business/US-EN/Manage+My+Communications). Inquiries or requests may be mailed to:
+Please direct any questions concerning Motorola Solutions' privacy practices to [privacy1@motorolasolutions.com](mailto:privacy1@motorolasolutions.com). Requests to unsubscribe from ("opt-out" of) communications from Motorola Solutions can be managed [here](https://web.archive.org/US-EN/Manage+My+Communications). Inquiries or requests may be mailed to:
 
-   |   | Motorola Solutions, Inc.  
+   |   | 
+
+Motorola Solutions, Inc.  
 Attention: Privacy Compliance Program  
-P.O. Box 10551  
-Scottsdale, Arizona 85271-0551  
-USA  
+P.O. Box 59263  
+Schaumburg, IL U.SA. 60159-0263  
+  
 ---|---|---  
   
 When you place an order or provide personal information, we employ certain technical and organization security measures, such as encryption where appropriate. Encryption scrambles the information in your purchase, including your credit card number, so this information can only be viewed by Motorola Solutions. Motorola Solutions currently uses Secure Socket Layer (SSL) encryption technology, where appropriate, for Internet-based transactions.
@@ -155,7 +270,7 @@ Web sites operated by or on behalf of Motorola Solutions, Inc. and its world-wid
 
 * * *
 
-**This Privacy Statement is subject to change without notice.  Last Update: January 22, 2014**
+**This Privacy Statement is subject to change without notice.  Last Update: October 7, 2014**
 
   
 
