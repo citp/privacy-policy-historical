@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awareness-time.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518230907id_/http%3A//awareness-time.com/%3Fpage_id%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awareness-time.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230185238id_/http%3A//awareness-time.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Awareness
 
@@ -20,11 +20,11 @@ How we use collected information
 
 Awareness may collect and use Users personal information for the following purposes:
 
-\- To improve customer service
+– To improve customer service
 
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
 
-\- To send periodic emails
+– To send periodic emails
 
 We may use the email address to send them information and updates pertaining to their order.
 
