@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626065538id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beachaudio.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230174749id_/http%3A//www.beachaudio.com/info.php%23Privacy) for the most accurate reproduction.*
 
 # Beach Audio - About Us | Customer Help Center : Consumer Electronics, Video Games, Cables, Appliances, and much more!
 
@@ -7,7 +7,7 @@
 
 ###   About Us 
 
-Named into the prestigious [Internet Retailer Top 500 Guide](http://www.internetretailer.com/top500/list.asp), Beach Audio was founded in August 2002 with a mission to provide the best experience on the Internet for buying Consumer Electronics.  We focus on making purchasing electronics online a pleasant experience.  Unfortunately, many of our competitors would rather bombard you with pop-ups, unrelated advertising, and up-selling, than making their sites easy to use.  Because we value you, our customer, we will never insult you with third party advertisements. Have you ever found a low price on another web site, just to be socked with the exorbitant shipping cost on the final checkout page? That won't happen here! We offer flat rate Ground shipping on all items under 75 pounds that can be shipped via common carrier.  Orders $100 and above ship for FREE, and orders under $100 ship for only $8. Our product availability is clearly displayed on every product page, with the time the inventory was last updated, so you can avoid back order surprises.  Our non-commissioned customer service representatives are here to help you with any questions you might have.  We aim to pick up the phone within one to two rings and you will not need to navigate any touch tone menus to reach a cheerful sales representative. 
+Beach Audio was founded in August 2002 with a mission to provide the best experience on the Internet for buying Consumer Electronics.  We focus on making purchasing electronics online a pleasant experience.  Unfortunately, many of our competitors would rather bombard you with pop-ups, unrelated advertising, and up-selling, than making their sites easy to use.  Because we value you, our customer, we will never insult you with third party advertisements. Have you ever found a low price on another web site, just to be socked with the exorbitant shipping cost on the final checkout page? That won't happen here! We offer flat rate Ground shipping on all items under 75 pounds that can be shipped via common carrier.  Orders $100 and above ship for FREE, and orders under $100 ship for only $8. Our product availability is clearly displayed on every product page, with the time the inventory was last updated, so you can avoid back order surprises.  Our non-commissioned customer service representatives are here to help you with any questions you might have.  We aim to pick up the phone within one to two rings and you will not need to navigate any touch tone menus to reach a cheerful sales representative. 
 
 Our sales office is located in beautiful town of Manhattan Beach, California, just three miles South of LAX International Airport and within one mile of the landmark Manhattan Beach Pier.  We do not stock any inventory at our sales office.  Instead, we ship from several warehouses located throughout the country. Our sophisticated fulfillment system will automatically ship from the warehouse location that is the closest to your shipping address!   Because we are streamlined to do internet fulfillment, we cannot offer in-store pickup except for certain larger televisions that are available out of our Canoga Park, California warehouse.  Please call for details.
 
@@ -17,7 +17,7 @@ All items we sell are BRAND NEW and FACTORY SEALED. We do not sell any refurbish
 
 We are quite proud of the ratings and testimonials we receive from independent sources. 
 
-Please visit our [Ratings & Testimonials](https://web.archive.org/web/20140626065538id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
+Please visit our [Ratings & Testimonials](https://web.archive.org/web/20141230174749id_/http%3A//www.beachaudio.com/testimonials.php) page to see for yourself!
 
 ###  Sales and Support 
 
@@ -55,7 +55,7 @@ Most orders ship within one business day from the time the order is placed. Orde
 
 ###  Sales Tax
 
-If your shipping address is in California or North Carolina, you will automatically be charged applicable sales tax.
+If your shipping address is in California you will automatically be charged applicable sales tax.
 
 For Oklahoma,Vermont,Kentucky Customers :
 
