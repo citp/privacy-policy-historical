@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2012-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120523131051id_/http%3A//gislounge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230225348id_/http%3A//www.gislounge.com/privacy-policy) for the most accurate reproduction.*
 
-# GIS Lounge | Privacy Policy
+# Privacy Policy - GIS Lounge
 
 This is the web site of **GIS Lounge**.  
 We can be reached via e-mail at [editor@gislounge.com](mailto:editor@gislounge.com)
@@ -9,7 +9,11 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page.
+The information we collect is used for internal review and to understand the audience of GIS Lounge.  This site collects visitor location and demographic information using Google Analytics Demographics and Interest Reporting.  This information is used in summation to provide background statistics on user demographics to potential advertisers.
+
+  * Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+
+
 
  **Log Files**  
 Like many other Web sites, GISLounge.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
@@ -20,7 +24,7 @@ GISLounge.com does not use cookies.
  **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on gislounge.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to GISLounge.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy/ads/)
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html ](http://www.google.com/policies/technologies/ads/)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners are:
 
