@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630192212id_/http%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230233830id_/http%3A//www.zazzle.com/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
@@ -140,7 +140,7 @@ The current version of the Zazzle Privacy Policy was adopted effective as of Jan
   * Policies
   * [User Agreement](http://www.zazzle.com/mk/policy/user_agreement)
   * [Privacy Policy](http://www.zazzle.com/mk/policy/privacy_policy)
-  * [Nonexclusive License Agreement](http://www.zazzle.com/mk/policy/nonexclusive_license_agreement)
+  * [Designer License Agreement](http://www.zazzle.com/mk/policy/designer_license_agreement)
   * [Volume Bonus Agreement](http://www.zazzle.com/mk/policy/volume_bonus_agreement)
   * [Associates Agreement](http://www.zazzle.com/mk/policy/associates_agreement)
   * [Shipping & Returns](http://www.zazzle.com/mk/policy/shippingreturns)
