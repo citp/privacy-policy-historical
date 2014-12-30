@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildjunket.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626040733id_/http%3A//www.wildjunket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildjunket.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230072159id_/http%3A//www.wildjunket.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wild JunketWild Junket
 
