@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ffilms.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628090940id_/http%3A//ffilms.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffilms.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230025325id_/http%3A//ffilms.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | FFilms.org
 
 **Privacy policy**
 
-_**For your security and privacy, we are not using personal info, like your name, email address, password, or phone number.**_  
+_**Your privacy is important to us. For your security and privacy, we are not using personal info, like your name, email address, password, or phone number. You don’t need to provide us with any personal data in order to visit the Website.**_  
 Your right to privacy is very important to us. We recognize that providing us with personal information is an act of trust. Therefore, we have created a privacy policy to protect your personal information.
 
 **Personal Information Collected**
