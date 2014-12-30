@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icrossing.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628082059id_/http%3A//www.icrossing.com/icrossing-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icrossing.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230053238id_/http%3A//www.icrossing.com/icrossing-privacy-policy) for the most accurate reproduction.*
 
 # iCrossing Privacy Policy | iCrossing
 
@@ -57,6 +57,10 @@ iCrossing may change this policy from time to time. If we make any substantial c
 Business Relationships
 
 Our websites contain links to other websites. Please be aware that iCrossing has no control or influence over the privacy practices of such other sites nor is it responsible for the privacy practices or content of such sites. We encourage our users to be aware when they leave this site and to read the privacy statements of each and every site that collects personal information.
+
+Safe Harbor Compliance
+
+iCrossing, Inc. complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. iCrossing has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view iCrossing’s certification, please visit <http://www.export.gov/safeharbor/>. 
 
 Enforcements
 
