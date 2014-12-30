@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rr.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605085200id_/http%3A//www.twcc.com/privacy/web_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rr.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230064558id_/http%3A//www.twcc.com/privacy/web_privacy_policy.html) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
