@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506043141id_/http%3A//www.dnamagazine.com.au/articles/news.asp%3Fnews_id%3D158) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230085014id_/http%3A//www.dnamagazine.com.au/articles/news.asp%3Fnews_id%3D158) for the most accurate reproduction.*
 
-# Privacy Policy
+# DNA Magazine - Privacy Policy
 
 **DNA Publications ("DNA") Privacy Policy Detailed Review...**
 
