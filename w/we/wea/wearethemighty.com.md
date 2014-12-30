@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wearethemighty.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617191710id_/http%3A//www.wearethemighty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearethemighty.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230025607id_/http%3A//www.wearethemighty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | We Are The Mighty
+# Privacy Policy – We Are The Mighty
 
 This Privacy Policy describes the policies and procedures of The Mighty Networks, Inc. (“we”, “our” or “us”) on the collection, use and disclosure of your information on _www.wearethemighty.com_ (the “Site”) and the services, features, content or applications we offer (collectively with the Site, the “Services”). We receive information about you from various sources, including: (i) if you register for the Site and the Services, through your user account on the Services (your “Account”); (ii) your use of the Services generally; and (iii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
@@ -135,3 +135,5 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 **What If I Have Questions or Concerns?**
 
 If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to info@wearethemighty.com.
+
+– See more at: http://www.wearethemighty.com/privacy-policy/#sthash.FHexgrjq.dpuf
