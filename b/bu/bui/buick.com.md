@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628124847id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buick.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230110349id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # General Motors | Privacy Statement | GM.com
 
