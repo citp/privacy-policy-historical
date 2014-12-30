@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the japantimes.co.jp privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626033130id_/http%3A//www.japantimes.co.jp/about-us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the japantimes.co.jp privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230185326id_/http%3A//www.japantimes.co.jp/about-us/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]--><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="http://www.google.com/cse/cse.js?cx=010554982535493096881:afvz2doyofo"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIBUFVRGwEBXVNQBAY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><!--<![endif]--><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://www.google.com/cse/cse.js?cx=010554982535493096881:afvz2doyofo"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=u(e),f=c.length,s=i(a,o,r),p=0;f>p;p++)c[p].apply(s,n);return s}function a(t,e){f[t]=u(t).concat(e)}function u(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:u,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=l.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),u=window,c=u.document,f="addEventListener",s="attachEvent",p=(""+location).split("?")[0],l=e.exports={offset:i(),origin:p,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),u[f]("load",n,!1)):(c[s]("onreadystatechange",r),u[s]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}]},{},["G9z0Bl"]);</script>
 
 	<meta charset="UTF-8">
 	
 	
-	<!--
-Viewing Local Version (10.146.19.187)	-->
+	
 	<!-- WP, Meta & Viewport Stuff -->
 	
 	<link rel="pingback" href="http://www.japantimes.co.jp/xmlrpc.php">
@@ -18,13 +17,10 @@ Viewing Local Version (10.146.19.187)	-->
 	
 		<meta property="twitter:account_id" content="7424642">
 	
-	<!-- <meta name="viewport" content="width=device-width, initial-scale=1" /> -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 	<meta name="HandheldFriendly" content="true">
-	
-	<!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIBUFVRGwEBXVNQBAY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>  -->
-	
-				<link rel="alternate" type="application/rss+xml" title="Japan Times RSS Feed - Top Stories" href="http://www.japantimes.co.jp/feed/topstories/">
+		
+				<link rel="alternate" type="application/rss+xml" title="Japan Times RSS Feed - Top Stories" href="http://www.japantimes.co.jp/feed/topstories">
 		
     <link rel="shortcut icon" href="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/favicon.ico">
     <link rel="apple-touch-icon" href="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/apple-touch-icon-72px.png">
@@ -36,16 +32,9 @@ Viewing Local Version (10.146.19.187)	-->
 	<meta name="robots" content="noarchive">
 	<!-- <meta name="robots" content="nosnippet" /> -->
 	
-						
-					<meta property="og:description" content="The Japan Times fully understands the importance of protecting personal information, and observes all applicable laws and regulations relating to privacy protection. We have designed this Privacy Policy to explain ...">
-					<meta name="twitter:description" content="The Japan Times fully understands the importance of protecting personal information, and observes all applicable laws and regulations relating to privacy protection. We have designed this Privacy Policy to explain ...">
-						<meta name="thumbnail" content="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/logo-japan-times_square.png">
-			<meta property="og:image" content="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/logo-japan-times_square.png">
-			<meta property="og:title" content="Privacy Policy">
-			<meta property="og:type" content="article">
-	
-	<meta property="og:url" content="http://www.japantimes.co.jp/about-us/privacy/">
-	
+			<meta name="thumbnail" content="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/logo-japan-times_square.png">
+		
+		
 	<!-- Fix for Off-canvas flickr -->	
 	<script type="text/javascript">
 		
@@ -69,9 +58,14 @@ Viewing Local Version (10.146.19.187)	-->
 <meta property="og:url" content="http://www.japantimes.co.jp/about-us/privacy/">
 <meta property="og:site_name" content="The Japan Times">
 <meta property="article:published_time" content="2012-12-14T12:49:49+09:00">
-<meta property="article:modified_time" content="2013-05-07T18:01:21+09:00">
-<meta property="og:updated_time" content="2013-05-07T18:01:21+09:00">
+<meta property="article:modified_time" content="2014-10-12T17:42:39+09:00">
+<meta property="og:updated_time" content="2014-10-12T17:42:39+09:00">
 <meta property="fb:admins" content="44702392">
+<meta property="og:image" content="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/logo-japan-times_square.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@japantimes">
+<meta name="twitter:domain" content="The Japan Times">
+<meta name="twitter:creator" content="@japantimes">
 <!-- / Yoast WordPress SEO plugin. -->
 
 
@@ -108,6 +102,12 @@ Viewing Local Version (10.146.19.187)	-->
 <script type="text/javascript" src="http://www.japantimes.co.jp/wp-includes/js/jquery/jquery-migrate.min.js"></script>
 <script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/jquery.flexslider-min.js"></script>
 <script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/plugins/checkDevice/cookie.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var EM = {"ajaxurl":"http:\/\/www.japantimes.co.jp\/wp-admin\/admin-ajax.php","locationajaxurl":"http:\/\/www.japantimes.co.jp\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"yy\/mm\/dd","ui_css":"http:\/\/www.japantimes.co.jp\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"1","is_ssl":"","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/plugins/events-manager/includes/js/events-manager.js"></script>
 <link rel="shortlink" href="http://www.japantimes.co.jp/?p=74">
 <script src="http://www.japantimes.co.jp/wp-content/plugins/jto_paywall/js/jquery.cookie.js" type="text/javascript"></script>
 <script src="http://www.japantimes.co.jp/wp-content/plugins/jto_paywall/js/jto_paywall.js" type="text/javascript"></script>
@@ -183,16 +183,6 @@ var JTO_Paywall = {
 	border: 1px solid #;
 }
 </style>
-
-		<style media="print" type="text/css">
-			div.faq_answer {display: block!important;}
-			p.faq_nav {display: none;}
-		</style>
-
-		
-	
-	
-	<!-- dfp tag start --> 
 
 		<script type="text/javascript">
 		// check window width and determine device type
@@ -274,18 +264,24 @@ var JTO_Paywall = {
 			}
 			
 		
-googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-ad-1362125631688-5').addService(googletag.pubads());googletag.defineSlot('/4973089/JTO_smallbanner2(excl-TOP)', [300, 55], 'div-gpt-ad-1362125631688-6').addService(googletag.pubads());googletag.defineSlot('/4973089/JTO_smallbanner3(excl-TOP)', [300, 55], 'div-gpt-ad-1362125631688-7').addService(googletag.pubads());googletag.defineSlot('/4973089/JTO_smallbanner1(TOP)', [300, 55], 'div-gpt-ad-1362125114269-5').addService(googletag.pubads());googletag.defineSlot('/4973089/JTO_smallbanner2(TOP)', [300, 55], 'div-gpt-ad-1362125114269-6').addService(googletag.pubads());googletag.defineSlot('/4973089/JTO_smallbanner3(TOP)', [300, 55], 'div-gpt-ad-1362125114269-7').addService(googletag.pubads());		
-		/* googletag.pubads().enableSingleRequest(); */
-		googletag.pubads().enableSyncRendering();
-		googletag.enableServices();
-		/* }); */
+googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-ad-1362125631688-5').addService(googletag.pubads());googletag.defineSlot('/4973089/JTO_smallbanner2(excl-TOP)', [300, 55], 'div-gpt-ad-1362125631688-6').addService(googletag.pubads());googletag.defineSlot('/4973089/JTO_smallbanner3(excl-TOP)', [300, 55], 'div-gpt-ad-1362125631688-7').addService(googletag.pubads());googletag.defineSlot('/4973089/JTO_smallbanner1(TOP)', [300, 55], 'div-gpt-ad-1362125114269-5').addService(googletag.pubads());googletag.defineSlot('/4973089/JTO_smallbanner2(TOP)', [300, 55], 'div-gpt-ad-1362125114269-6').addService(googletag.pubads());googletag.defineSlot('/4973089/JTO_smallbanner3(TOP)', [300, 55], 'div-gpt-ad-1362125114269-7').addService(googletag.pubads());		/* }); */
 	</script>
 
 	<script type="text/javascript">
 		var disqus_url = 'http://www.japantimes.co.jp/about-us/privacy/';
 		var disqus_disable_mobile = false;
 	</script>
-
+    <script type="text/javascript">
+		/* Categories */
+		googletag.pubads().setTargeting("category","page");
+		/* ARTICLE ID */
+		googletag.pubads().setTargeting("articleID","74");		
+		
+		/* googletag.pubads().enableSingleRequest(); */
+		googletag.pubads().enableSyncRendering();
+		googletag.enableServices();    
+    
+    </script>
 <script async="" type="text/javascript" src="//disqus.com/forums/japantimes/count.js"></script></head>
 
 <body class="page page-id-74 page-child parent-pageid-59 page-template-default" id="page">
@@ -370,29 +366,29 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 								<!-- social header and extra links -->
 								<div class="social_header">
 									<ul>
-									<li><a class="icon-twitter" href="https://twitter.com/japantimes" target="_blank" title="The Japan Times on Twitter"><span>Twitter</span></a></li>
-									<li><a class="icon-facebook" href="http://www.facebook.com/thejapantimes" target="_blank" title="The Japan Times on Facebook"><span>Facebook</span></a></li>
-									<li><a class="icon-mail" href="http://members.japantimes.co.jp/mail/email-updates-summary/" title="Register for daily email updates."><span>Newsletter</span></a></li>
+										<li><a class="icon-twitter" href="https://twitter.com/japantimes" target="_blank" title="The Japan Times on Twitter"><span>Twitter</span></a></li>
+										<li><a class="icon-facebook" href="http://www.facebook.com/thejapantimes" target="_blank" title="The Japan Times on Facebook"><span>Facebook</span></a></li>
+										<li><a class="icon-mail" href="http://members.japantimes.co.jp/mail/email-updates-summary/" title="Register for daily email updates."><span>Newsletter</span></a></li>
 									
-																				<li><a class="icon-rss" href="http://www.japantimes.co.jp/feed/topstories/" title="The Japan Times RSS Feed - Today's Top Stories"><span>RSS</span></a></li>
-																	</ul>
+																					<li><a class="icon-rss" href="http://www.japantimes.co.jp/feed/topstories/" title="The Japan Times RSS Feed - Today's Top Stories"><span>RSS</span></a></li>
+																			</ul>
 								</div>
 								<!-- weather widget -->
 								<div class="weather_header">
 									<a href="http://www.japantimes.co.jp/weather" title="Weather in Japan">
 										<div class="icon_weather">
-	<img src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/weather_icons/all-icons_03.png" alt="weather icon">
+	<img src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/img/weather_icons/all-icons_35.png" alt="weather icon">
 </div>
-<p class="temperature">25</p>
-<p>P/SUNNY</p>
-<h2>TOKYO (12 p.m.)</h2>
+<p class="temperature">5</p>
+<p>P/CLOUDY</p>
+<h2>TOKYO (3 a.m.)</h2>
 									</a>
 								</div>
 								<!-- Financial Markets -->
 								<div class="financial_header">
 									<ul>
 									<li><a href="http://www.japantimes.co.jp/market-moves" title="The Japan Times - Financial Market Information"><!-- Financial  -->Markets</a></li>
-									<li>101.83 ¥/$ (12 a.m.) <!-- yen/dollar exchange rate tag -->
+									<li>119.81 ¥/$ (5 p.m.) <!-- yen/dollar exchange rate tag -->
 									</li>
 								</ul>
 								</div>
@@ -422,7 +418,7 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 									<li>
 										<a href="http://members.japantimes.co.jp/sub/" title="Get The Japan Times delivered daily to your home.">Home Delivery</a>
 									</li>
-									<li class="strong"><a href="http://www.japantimes.co.jp/2014/06/26" title="The Japan Times - By-Day Archive">Today's Stories</a>
+									<li class="strong"><a href="http://www.japantimes.co.jp/2014/12/31" title="The Japan Times - By-Day Archive">Today's Stories</a>
 									</li>
 								</ul>
 							</div>
@@ -440,26 +436,12 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 			<nav id="nav_anchor_container">
 				<ul id="nav_anchors" class="nav_anchors">
 					<li class="offcanvas_menu"><a id="sidebarButton" href="#footer_menu" class="block menu-link"><span aria-hidden="true" class="icon-menu"></span>MENU</a></li>
+					<li class="city_guide "><a href="/events/">City Guide</a></li> 
 					<li class="search_flyout">
 						<a class="icon-search search_toggle" href="#">
 							<span>Search</span>
 						</a>
 					</li> 
-					<!-- <li class="nav_search">
-<form method="get" id="searchform" action="http://www.japantimes.co.jp/search-results/" role="search">
-	<label for="s" class="assistive-text">Search</label>
-	<input type="search" class="field gsc" name="q" id="s" placeholder="" value=""/>
-	<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
-</form>
-        
-<div style="display:none;">        
-<gcse:searchbox-only
-        queryParamName="s"
-	enableHistory="false" 
-	resultsUrl="/search-results/" 
-	enableAutoComplete="false"
-	//enableImageSearch="true"
-></div></li> -->
 				</ul>
 			</nav>
 			
@@ -478,6 +460,12 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 		<div class="e_p_and_search">
 			
 			<ul class="main_menu">
+				<li class="city_guide ">
+					<div class="city_illu"></div>
+					<a href="/events/">
+						<span>City Guide</span>
+					</a>
+				</li>
 				<li class="search">
 					<a class="icon-search search_toggle" href="#">
 						<span>Search</span>
@@ -509,13 +497,13 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 			</div>
 		  	
 		  				
+			
 			<!-- Controlling container for all layout -->
-			<div id="wrapper">
-	
-	<nav id="menu" class="menu-link oc" role="navigation" style="left: -14em; position: absolute; display: none;">
-    	
-    	<ul id="menu-primary-menu-1" class="main_menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23"><a title="Japan Times News articles" href="/news/">News</a>
-<ul class="sub-menu level-0">
+			<div id="wrapper">	
+	<nav id="menu" class="menu-link oc overthrow" role="navigation" style="position: fixed; display: none; overflow-y: scroll; overflow-x: hidden;">
+		<div class="off_canvas_scroll">
+	    	<ul id="menu-primary-menu-1" class="main_menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23"><a title="Japan Times News articles" href="/news/">News</a>
+<ul class="sub-menu">
 	<li id="menu-item-181" class="menu-item menu-item-type-taxonomy menu-item-object-news_category menu-item-181"><a href="http://www.japantimes.co.jp/news/national/">National</a></li>
 	<li id="menu-item-188" class="menu-item menu-item-type-taxonomy menu-item-object-news_category menu-item-188"><a href="http://www.japantimes.co.jp/news/world/">World</a></li>
 	<li id="menu-item-195" class="menu-item menu-item-type-taxonomy menu-item-object-news_category menu-item-195"><a href="http://www.japantimes.co.jp/news/business/">Business</a></li>
@@ -526,7 +514,7 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24"><a title="Japan Times Opinion articles" href="/opinion/">Opinion</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li id="menu-item-211" class="menu-item menu-item-type-taxonomy menu-item-object-opinion_category menu-item-211"><a href="http://www.japantimes.co.jp/opinion/editorials/">Editorials</a></li>
 	<li id="menu-item-212" class="menu-item menu-item-type-taxonomy menu-item-object-opinion_category menu-item-212"><a href="http://www.japantimes.co.jp/opinion/commentary/">Commentary</a></li>
 	<li id="menu-item-215" class="menu-item menu-item-type-taxonomy menu-item-object-opinion_category menu-item-215"><a href="http://www.japantimes.co.jp/opinion/reader-mail/">Reader Mail</a></li>
@@ -534,7 +522,7 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25"><a title="Japan Times Life feature stories" href="/life/">Life</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li id="menu-item-219" class="menu-item menu-item-type-taxonomy menu-item-object-life_category menu-item-219"><a href="http://www.japantimes.co.jp/life/travel/">Travel</a></li>
 	<li id="menu-item-220" class="menu-item menu-item-type-taxonomy menu-item-object-life_category menu-item-220"><a href="http://www.japantimes.co.jp/life/digital/">Digital</a></li>
 	<li id="menu-item-221" class="menu-item menu-item-type-taxonomy menu-item-object-life_category menu-item-221"><a href="http://www.japantimes.co.jp/life/food/">Food &amp; Drink</a></li>
@@ -548,7 +536,7 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-26"><a title="Japan Times Community feature stories" href="/community/">Community</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li id="menu-item-229" class="menu-item menu-item-type-taxonomy menu-item-object-community_category menu-item-229"><a href="http://www.japantimes.co.jp/community/voices/">Voices</a></li>
 	<li id="menu-item-230" class="menu-item menu-item-type-taxonomy menu-item-object-community_category menu-item-230"><a href="http://www.japantimes.co.jp/community/issues/">Issues</a></li>
 	<li id="menu-item-231" class="menu-item menu-item-type-taxonomy menu-item-object-community_category menu-item-231"><a href="http://www.japantimes.co.jp/community/our-lives/">Our Lives</a></li>
@@ -559,7 +547,7 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27"><a title="Japan Times Culture feature stories" href="/culture/">Culture</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li id="menu-item-241" class="menu-item menu-item-type-taxonomy menu-item-object-culture_category menu-item-241"><a href="http://www.japantimes.co.jp/culture/films/">Film</a></li>
 	<li id="menu-item-243" class="menu-item menu-item-type-taxonomy menu-item-object-culture_category menu-item-243"><a href="http://www.japantimes.co.jp/culture/music/">Music</a></li>
 	<li id="menu-item-246" class="menu-item menu-item-type-taxonomy menu-item-object-culture_category menu-item-246"><a href="http://www.japantimes.co.jp/culture/arts/">Art</a></li>
@@ -573,7 +561,7 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28"><a title="Japan Times Sports articles" href="/sports/">Sports</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li id="menu-item-258" class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-258"><a href="http://www.japantimes.co.jp/sports/baseball/">Baseball</a></li>
 	<li id="menu-item-261" class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-261"><a href="http://www.japantimes.co.jp/sports/soccer/">Soccer</a></li>
 	<li id="menu-item-88892" class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-88892"><a href="http://www.japantimes.co.jp/sports/basketball/">Basketball</a></li>
@@ -581,12 +569,11 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 	<li id="menu-item-377593" class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-377593"><a href="http://www.japantimes.co.jp/sports/figure-skating/">Figure Skating</a></li>
 	<li id="menu-item-563243" class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-563243"><a href="http://www.japantimes.co.jp/sports/tennis/">Tennis</a></li>
 	<li id="menu-item-350" class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-350"><a href="http://www.japantimes.co.jp/sports/more-sports/">More Sports</a></li>
-	<li id="menu-item-572067" class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-572067"><a href="http://www.japantimes.co.jp/sports/international-soccer/">World Cup</a></li>
 	<li id="menu-item-56853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56853"><a href="http://www.japantimes.co.jp/sports-columns/">Columns</a></li>
 	<li id="menu-item-373857" class="menu-item menu-item-type-taxonomy menu-item-object-multimedia_category menu-item-373857"><a title="Multimedia Sports" href="http://www.japantimes.co.jp/multimedia/sports/">Multimedia</a></li>
 </ul>
 </li>
-</ul>    	
+</ul>		</div>
 	</nav>
 	
 	
@@ -754,9 +741,9 @@ googletag.defineSlot('/4973089/JTO_smallbanner1(excl-TOP)', [300, 55], 'div-gpt-
 												
 						<div class="entry  "> <!-- START Entry -->
 						
-							<p>The Japan Times fully understands the importance of protecting personal information, and observes all applicable laws and regulations relating to privacy protection. We have designed this Privacy Policy to explain how we safeguard the privacy of our users.</p>
+							<p align="left">The Japan Times fully understands the importance of protecting personal information, and observes all applicable laws and regulations relating to privacy protection. We have designed this Privacy Policy to explain how we safeguard the privacy of our users.</p>
 <h2>Principles</h2>
-<p>This Privacy Policy applies to all matters relating to the handling of personal information on the “The Japan Times Online” website (the “Website”), located at http://www.japantimes.co.jp/, which is operated by The Japan Times Ltd.</p>
+<p align="left">This Privacy Policy applies to all matters relating to the handling of personal information on the “The Japan Times Online” website (the “Website”), located at http://www.japantimes.co.jp/, which is operated by The Japan Times Ltd.</p>
 <ul>
 <li>We will comply with all applicable laws and regulations concerning privacy protection in handling your personal information.</li>
 <li>We will only collect your personal information by appropriate and fair means.</li>
@@ -795,28 +782,30 @@ If we entrust an individual or entity with the handling of any personal informat
 <strong>Children</strong><br>
 We do not knowingly collect personal information from children under the age of 13. If a child under 13 has provided us with personal information without parental or guardian consent, the parent or guardian may e-mail us, and we will remove such information from our database and cease promotional contacts with the child.<br>
 Please see “Contact for Inquiries and Complaints about the Handling of Personal Information” below for information on how to contact us.<br>
-<strong>About “Cookies”</strong><br>
-We use “cookies” to improve your experience on our website. Cookies are small files that are stored on your computer’s hard disk through your web browser. This technology allows us to recognize your preferences and to facilitate effective site administration. We use the information we collect to enhance your visit to our website and provide you with information tailored to your needs.<br>
-We have entrusted DoubleClick Japan to track and analyze usage of our site to help provide for efficient delivery of advertising. We do not collect personally identifiable information through cookies; however, you may opt out of their use by modifying the configuration of your web browser.<br>
-<strong>Security</strong><br>
-To protect the personal information we collect from threats of improper disclosure or modification and from unauthorized access, and to maintain data accuracy, we have established appropriate physical, electronic and procedural safeguards in accordance with this Privacy Policy.<br>
+<strong>About “Cookies”<br>
+</strong>The Japan Times uses “cookies”— small files that the web browsers store on your computer — to&nbsp;manage access to and use of our site, recognize your preferences and to facilitate effective site administration.<br>
+Some of the services and advertisements included in our site are delivered or served by third-party companies. These companies may place or recognize cookies, Web beacons or other technology to track certain non-personal information about our website users. You may opt out of their use by modifying the configuration of your web browser.<br>
+We use Google Adsense to serve some advertisements on our site. Google uses cookies to display ads based on your visit to The Japan Times website and other sites. You may opt out of the use of this cookie by visiting the&nbsp;<a title="Google ad and content network privacy policy" href="http://www.google.com/ads/preferences" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.google.com']);" target="_blank">Google ad and content network privacy policy</a>.<br>
+We use Teads to deliver some of the advertisements displayed on our website. This ad-serving system may note some of the pages you visit through the use of pixel tags (also called “clear gifs”). In the course of serving advertisements to this site, Teads may place or recognize a unique cookie on your computer in order to bring to you more relevant information and to make sure that you do not receive the same ad many times in the same session. To find out more about this sensing method and to know your choices about not having this information used by Teads, please visit&nbsp;<a href="http://teads.tv/#/ja/privacy_policy" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://teads.tv']);" target="_blank">http://teads.tv/#/ja/privacy_<wbr>policy</a><a href="http://teads.tv/#/privacy_policy"><br>
+</a><b>Analytics</b><br>
+We use Google Analytics to help analyze how users use our site. The tool uses cookies to collect standard Internet log information and visitor behavior information in an anonymous form. The information generated by the cookie about your use of the site (including IP address) is transmitted to Google. This information is then used to evaluate visitors’ use of the site and to compile statistical reports on website activity for us. Google may also use the data collected to contextualize and personalize the ads of its own advertising network.<br>
+<strong>Security<br>
+</strong>To protect the personal information we collect from threats of improper disclosure or modification and from unauthorized access, and to maintain data accuracy, we have established appropriate physical, electronic and procedural safeguards in accordance with this Privacy Policy.<br>
 We reserve the right to revise this Privacy Policy and our security standards and procedures on a regular basis in order to maintain appropriate safeguards. We will post any such changes on the Website, so please be sure to check back periodically.<br>
-<strong>Accountability</strong><br>
-We have appointed a Privacy Officer, and endeavor to safeguard the privacy of our users and ensure compliance with the requirements of applicable laws relating to privacy protection.<br>
+<strong>Accountability<br>
+</strong>We have appointed a Privacy Officer, and endeavor to safeguard the privacy of our users and ensure compliance with the requirements of applicable laws relating to privacy protection.<br>
 We instruct our management and employees concerning legal requirements and company regulations related to privacy protection as part of our continuing efforts to manage personal information appropriately.<br>
-<strong>Disclosure, Addition, Correction, Deletion</strong><br>
-When we are requested by a user in accordance with procedures we have specified:<br>
+<strong>Disclosure, Addition, Correction, Deletion<br>
+</strong>When we are requested by a user in accordance with procedures we have specified:<br>
 to disclose his/her personal information, we will disclose such information as soon as practicable, unless such disclosure would be in violation of law.<br>
 to correct, add to, or delete his/her personal information on the basis that such information is inaccurate, we will review the facts relating to such request without delay and will correct, add to, or delete the information on the basis of such review.<br>
 Please see “How to Obtain Disclosure, Add to, Delete or Opt Out of Use of Your Personal Information” below for the procedures to make such a request.<br>
-<strong>Suspension of Use</strong><br>
-When we are requested by a user to stop using his/her personal information on the basis that such information was collected improperly or is being used for purposes other than those specified without his/her consent, we will review the facts relating to such request without delay. If we find a valid reason for such request, we will cease use of such personal information.<br>
+<strong>Suspension of Use<br>
+</strong>When we are requested by a user to stop using his/her personal information on the basis that such information was collected improperly or is being used for purposes other than those specified without his/her consent, we will review the facts relating to such request without delay. If we find a valid reason for such request, we will cease use of such personal information.<br>
 Please see “How to Obtain Disclosure, Add to, Delete or Opt Out of Use of Your Personal Information” below for the procedures to make such a request.<br>
-<strong>Inquiries and Complaints</strong><br>
-We have established an office in order to receive and respond to any inquiries and complaints concerning our handling of personal information efficiently and appropriately. Please note that any such communications must be in writing (which may include e-mail).<br>
-Please see “Contact for Inquiries and Complaints about the Handling of Personal Information” below for information on how to contact us.<br>
-<strong>Japanese Version to Govern</strong><br>
-The original version of this Privacy Policy has been prepared in Japanese. In the event of any discrepancy between the English and Japanese versions, the Japanese version will govern.</p>
+<strong>Inquiries and Complaints<br>
+</strong>We have established an office in order to receive and respond to any inquiries and complaints concerning our handling of personal information efficiently and appropriately. Please note that any such communications must be in writing (which may include e-mail).<br>
+Please see “Contact for Inquiries and Complaints about the Handling of Personal Information” below for information on how to contact us.</p>
 <p><strong>How to Obtain Disclosure, Add to, Delete or Opt Out of Use of Your Personal Information</strong></p>
 <ol>
 <li>Obtain an Application Form for Disclosure</li>
@@ -837,13 +826,14 @@ The Japan Times Co., Ltd.<br>
 <h2>Contact for Inquiries and Complaints about the Handling of Personal Information</h2>
 <p>Contact us at&nbsp;The Japan Times Co., Ltd.<br>
 5-4, Shibaura 4-chome Minato-ku, Tokyo, 108-8071</p>
-<p>or <a href="http://awsadmin.japantimes.co.jp/contact-us/">via this online form.&nbsp;</a></p>
+<p>or&nbsp;<a href="http://awsadmin.japantimes.co.jp/contact-us/">via this online form.&nbsp;</a></p>
 	
 							<div class="clearfix"></div>			
 						</div> <!-- End Entry -->
 					</div> <!-- End padding_block -->	
 				</article>
-					</div>
+						
+		</div>
 		
 	<div class="padding_block">	
 		
@@ -852,7 +842,7 @@ The Japan Times Co., Ltd.<br>
 				<div class="ad single_block">					
 					 
 			
-		<div class="section_title small single_block"></div>
+		<!-- <div class="section_title small single_block"></div> -->
 		<div class="single_block">						
 			<!-- Non Top Page Ad - Sidebar Top -->
 			<div id="screen_type"></div>
@@ -910,29 +900,31 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1362125631688-5');
 								<!-- If the wildcard has no image -->
 					
 				
-				<div class="trending single_block">
-					<div class="section_title small single_block">
-						<h2>What's Trending Now</h2>
+				<!--googleoff: index-->
+					<div class="trending single_block">
+						<div class="section_title small single_block">
+							<h2>What's Trending Now</h2>
+						</div>
+						
+						<!-- AddThis Trending Content BEGIN -->
+						<div id="addthis_trendingcontent"></div>
+						<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=jtimes"></script>
+						<script type="text/javascript">
+						addthis.box("#addthis_trendingcontent", {
+						    feed_title : "",
+						    feed_type : "trending",
+						    feed_period : "day",
+						    num_links : 8,
+						    height : "auto",
+						    width : "auto",
+						    domain : "www.japantimes.co.jp",
+						    remove : " | The Japan Times"});
+						</script>
+						<!-- AddThis Trending Content END -->
+						
+						<div class="section_title small single_block bottom"></div>			
 					</div>
-					
-					<!-- AddThis Trending Content BEGIN -->
-					<div id="addthis_trendingcontent"></div>
-					<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=jtimes"></script>
-					<script type="text/javascript">
-					addthis.box("#addthis_trendingcontent", {
-					    feed_title : "",
-					    feed_type : "trending",
-					    feed_period : "day",
-					    num_links : 8,
-					    height : "auto",
-					    width : "auto",
-					    domain : "www.japantimes.co.jp",
-					    remove : " | The Japan Times"});
-					</script>
-					<!-- AddThis Trending Content END -->
-					
-					<div class="section_title small single_block bottom"></div>			
-				</div>
+				<!--googleon: index-->
 				
 				<!-- Sidebar Wildcard 2 - Options -->
 				<!-- If the wildcard has a javascript banner set -->
@@ -1041,7 +1033,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1362125631688-7');
 				<div class="footer_content">
 					
     	<ul id="menu-primary-menu-2" class="main_menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23"><a title="Japan Times News articles" href="/news/">News</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-news_category menu-item-181"><a href="http://www.japantimes.co.jp/news/national/">National</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-news_category menu-item-188"><a href="http://www.japantimes.co.jp/news/world/">World</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-news_category menu-item-195"><a href="http://www.japantimes.co.jp/news/business/">Business</a></li>
@@ -1052,7 +1044,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1362125631688-7');
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24"><a title="Japan Times Opinion articles" href="/opinion/">Opinion</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-opinion_category menu-item-211"><a href="http://www.japantimes.co.jp/opinion/editorials/">Editorials</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-opinion_category menu-item-212"><a href="http://www.japantimes.co.jp/opinion/commentary/">Commentary</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-opinion_category menu-item-215"><a href="http://www.japantimes.co.jp/opinion/reader-mail/">Reader Mail</a></li>
@@ -1060,7 +1052,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1362125631688-7');
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25"><a title="Japan Times Life feature stories" href="/life/">Life</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-life_category menu-item-219"><a href="http://www.japantimes.co.jp/life/travel/">Travel</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-life_category menu-item-220"><a href="http://www.japantimes.co.jp/life/digital/">Digital</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-life_category menu-item-221"><a href="http://www.japantimes.co.jp/life/food/">Food &amp; Drink</a></li>
@@ -1074,7 +1066,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1362125631688-7');
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-26"><a title="Japan Times Community feature stories" href="/community/">Community</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-community_category menu-item-229"><a href="http://www.japantimes.co.jp/community/voices/">Voices</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-community_category menu-item-230"><a href="http://www.japantimes.co.jp/community/issues/">Issues</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-community_category menu-item-231"><a href="http://www.japantimes.co.jp/community/our-lives/">Our Lives</a></li>
@@ -1085,7 +1077,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1362125631688-7');
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-27"><a title="Japan Times Culture feature stories" href="/culture/">Culture</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-culture_category menu-item-241"><a href="http://www.japantimes.co.jp/culture/films/">Film</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-culture_category menu-item-243"><a href="http://www.japantimes.co.jp/culture/music/">Music</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-culture_category menu-item-246"><a href="http://www.japantimes.co.jp/culture/arts/">Art</a></li>
@@ -1099,7 +1091,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1362125631688-7');
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-28"><a title="Japan Times Sports articles" href="/sports/">Sports</a>
-<ul class="sub-menu level-0">
+<ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-258"><a href="http://www.japantimes.co.jp/sports/baseball/">Baseball</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-261"><a href="http://www.japantimes.co.jp/sports/soccer/">Soccer</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-88892"><a href="http://www.japantimes.co.jp/sports/basketball/">Basketball</a></li>
@@ -1107,7 +1099,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1362125631688-7');
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-377593"><a href="http://www.japantimes.co.jp/sports/figure-skating/">Figure Skating</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-563243"><a href="http://www.japantimes.co.jp/sports/tennis/">Tennis</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-350"><a href="http://www.japantimes.co.jp/sports/more-sports/">More Sports</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-sports_category menu-item-572067"><a href="http://www.japantimes.co.jp/sports/international-soccer/">World Cup</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56853"><a href="http://www.japantimes.co.jp/sports-columns/">Columns</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-multimedia_category menu-item-373857"><a title="Multimedia Sports" href="http://www.japantimes.co.jp/multimedia/sports/">Multimedia</a></li>
 </ul>
@@ -1193,6 +1184,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1362125631688-7');
 <script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/hoverintent.js"></script>
 <script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/iscroll-lite.js"></script>
 <script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/overthrow.js"></script>
+<script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/tinynav.min.js"></script>
+<script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/jquery.slimscroll.min.js"></script>
+<script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/jquery.masonry.min.js"></script>
 <script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/jquery.ui.position.min.js"></script>
 <script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/jquery.cf.popover.min.js"></script>
 <script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/themes/jt_theme/library/js/fresco.js"></script>
@@ -1204,26 +1198,27 @@ var pollsL10n = {"ajax_url":"http:\/\/www.japantimes.co.jp\/wp-admin\/admin-ajax
 </script>
 <script type="text/javascript" src="http://www.japantimes.co.jp/wp-content/plugins/wp-polls/polls-js.js"></script>
 
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-337614-1']);
-	_gaq.push(['_trackPageview']);
-	
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
+<script>
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-337614-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
 </script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"bdbd24bbae","applicationID":"2192237","transactionName":"M1dbN0dRV0MAWkReWAodeABBWVZeTklRUFI=","queueTime":0,"applicationTime":5675,"ttGuid":"","agentToken":"","atts":"HxBYQQ9LRE0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"bdbd24bbae","applicationID":"2192237","transactionName":"M1dbN0dRV0MAWkReWAodbBFcH1BeBVxIGUcMQg==","queueTime":0,"applicationTime":317,"ttGuid":"","agentToken":"","atts":"HxBYQQ9LRE0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"bdbd24bbae","applicationID":"11849301","transactionName":"M1dbN0dRV0MAWkReWAodeABBWVZeTklRUFI=","queueTime":0,"applicationTime":6251,"atts":"HxBYQQ9LRE0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Database Caching 91/98 queries in 0.513 seconds using memcached
-Object Caching 7317/7684 objects using memcached
+Database Caching 107/131 queries in 0.483 seconds using memcached
+Object Caching 8816/9212 objects using memcached
 Application Monitoring using New Relic
 
- Served from: www.japantimes.co.jp @ 2014-06-26 12:30:47 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+ Served from: www.japantimes.co.jp @ 2014-12-31 03:30:40 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
