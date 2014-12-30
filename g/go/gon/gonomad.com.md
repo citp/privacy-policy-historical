@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016004703id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230072446id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Statement - GoNOMAD Travel
 
@@ -50,3 +50,30 @@ GoNOMAD uses third party advertising companies to serve ads when you visit our s
 ##### Questions?
 
 If you have any further questions or suggestions about this privacy statement, please contact [editorial at gonomad.com](mailto:editorial@gonomad.com). If you are concerned about a specific page on our site, please include the address in the email message.
+
+## GoNomad.Com
+
+|  | 
+
+[What Our Readers are Saying about GoNOMAD.com](http://www.gonomad.com/2360-gonomad-what-our-readers-are-saying-about-gonomad-com "Reader comments | A page of reader comments about stories on GoNOMAD.com. ")
+
+Hike by the Mediterranean hi sugar! > sounds like we could do this in a day... **GoNOMAD.com** Your  
+  
+---|---|---  
+|  | 
+
+[Still More Handy Travel Gadgets From GoNOMAD.com](http://www.gonomad.com/2364-still-more-handy-travel-gadgets-from-gonomad-com "travel gadgets: Nicole Sobel writes about six new handy travel gadgets including cases and covers for your iPhone, an easy-to-use lock for bags and purses and an ergonomic computer mouse.")
+
+**GoNOMAD.com** By Nicole Sobel Traveling with gadgets that make traveling easier is always a plus  
+  
+|  | 
+
+[Tours: Adventure, Unusual, and Cultural Tours | GoNOMAD.com](http://www.gonomad.com/4481-tours-adventure-unusual-and-cultural-tours-gonomad-com)
+
+on **GoNOMAD.com** Gen Y Goes to Africa : 20-30-something trips Many Ways to See Rome: Walking, Biking, Vespa  
+  
+| 
+
+[Zanzibar, Tanzania Destination Guide](http://www.gonomad.com/1304-zanzibar-tanzania-destination-guide "A destination guide to Stone Town Zanzibar, part of the African Guides section of GoNOMAD.com")
+
+of travel to and within Zanzibar. zanzibar.net/webca m Live webcam images of Zanzibar. Read more on articles about Zanzibar, Tanzania on **GoNOMAD.com** Travel: 
