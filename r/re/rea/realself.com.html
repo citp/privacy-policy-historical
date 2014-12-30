@@ -1,27 +1,19 @@
-<!--The following is the downloaded HTML source of the realself.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629113305id_/http%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realself.com privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230064005id_/http%3A//www.realself.com/real_self_privacy_policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-        <meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TC78S9"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUEUlNaGwICXVdUAAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-    
-        
-                 <meta property="rs:user-type" content="not logged in">
-        <meta property="rs:user-id" content="">
-            
-            <script src="http://www.realself.com/js/jquery.js,q937553578.pagespeed.ce.ft5FopkFDs.js"></script>
-    
-            <script src="//cdn.optimizely.com/js/300154627.js"></script>
-    
-    <link rel="shortcut icon" href="http://www.realself.com/favicon.ico">
-
-    <link href="http://www.realself.com/images/icon/xrealself-logo-60x60.png.pagespeed.ic.u85xfeV7c1.png" rel="apple-touch-icon">
-    <link href="http://www.realself.com/images/icon/xrealself-logo-76x76.png.pagespeed.ic.vXcac5TBFT.png" rel="apple-touch-icon" sizes="76x76">
-    <link href="http://www.realself.com/images/icon/xrealself-logo-120x120.png.pagespeed.ic.Mc7T0XlKUh.png" rel="apple-touch-icon" sizes="120x120">
-    <link href="http://www.realself.com/images/icon/xrealself-logo-152x152.png.pagespeed.ic.nJpXtq16BA.png" rel="apple-touch-icon" sizes="152x152">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
-        
-                                        <script type="text/javascript">
+<!DOCTYPE html><html lang="en" rs-app-modules="[&quot;rs-app&quot;]"><head>
+<meta charset="utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TC78S9"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgUEUlNaGwIBVVdTBAYP"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(5),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(f){"stack"in f&&(t(1),t(4),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:8,2:5,3:9,4:7,5:20,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],4:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(2);t("loader").features.stn=!0,t(1),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:6,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:20,2:21,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:21,2:20,ee:"QJf3ax"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:21,2:20,ee:"QJf3ax"}],8:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:21,2:20,ee:"QJf3ax"}],9:[function(t,e){function n(){c.inPlace(this,d,"fn-")}function r(t,e){c.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}var i=t("ee").create(),a=t(1),s=t(2),c=s(i),f=s(a),u=window.XMLHttpRequest,d=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=i,window.XMLHttpRequest=function(t){var e=new u(t);try{i.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{i.emit("internal-error",[r])}catch(o){}}return e},window.XMLHttpRequest.prototype=u.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),i.on("send-xhr-start",r),i.on("open-xhr-start",r)},{1:5,2:21,ee:"QJf3ax"}],10:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:11,3:9,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],11:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&c&&c.body){p.proto="https"===d.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=c.createElement("script");e.src=p.proto+t.agent,c.body.appendChild(e)}}function r(){"complete"===c.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,c=s.document,f="addEventListener",u="attachEvent",d=(""+location).split("?")[0],p=e.exports={offset:i(),origin:d,features:{}};c[f]?(c[f]("DOMContentLoaded",o,!1),s[f]("load",n,!1)):(c[u]("onreadystatechange",r),s[u]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],20:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],21:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:20,ee:"QJf3ax"}]},{},["G9z0Bl",3,10,4]);</script>
+<meta property="rs:user-type" content="not logged in">
+<meta property="rs:user-id" content="">
+<script src="http://www.realself.com/js/jquery.js,q963734522.pagespeed.ce.ft5FopkFDs.js"></script>
+<script src="//cdn.optimizely.com/js/300154627.js"></script>
+<link rel="shortcut icon" href="http://www.realself.com/favicon.ico">
+<link href="http://www.realself.com/images/icon/realself-logo-60x60.png" rel="apple-touch-icon">
+<link href="http://www.realself.com/images/icon/realself-logo-76x76.png" rel="apple-touch-icon" sizes="76x76">
+<link href="http://www.realself.com/images/icon/realself-logo-120x120.png" rel="apple-touch-icon" sizes="120x120">
+<link href="http://www.realself.com/images/icon/realself-logo-152x152.png" rel="apple-touch-icon" sizes="152x152">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
+<script type="text/javascript">
             (function () {
                 var lazyLoadFont = false;
 
@@ -31,7 +23,7 @@
                         localStorage.setItem('font-loaded', 1);
                     }
                 } catch(e) {}
-                
+
                 if (lazyLoadFont) {
                                         $(window).load(function () {
                         $.ajax('//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js', {
@@ -54,32 +46,18 @@
                     document.getElementsByTagName("head")[0].appendChild(link);
                 }
             })();
-            </script>
-                
-                                    <link rel="stylesheet" href="http://www.realself.com/css/style.css,q937553578.pagespeed.ce.5WNxscS9FC.css">
-                            
-            
-    
-    <style type="text/css">
-    .sponsored-nav {
-        margin: 4em 0;
-    }
-    </style>
-    
-                                <script type="text/javascript" src="http://www.realself.com/js/realself-core.js,q937553578.pagespeed.ce.rmX0VzQpiy.js"></script>
+            </script><link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="http://www.realself.com/css/A.style.css,q963734522.pagespeed.cf.roLjW51Kyj.css">
+<style type="text/css">.sponsored-nav{margin:4em 0}</style>
+<script type="text/javascript" src="http://www.realself.com/js/realself-core.js?963734522"></script>
 <title>Privacy Policy ~ Guidelines &amp; Policies</title>
-                        
-            <!--[if lt IE 9]>            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<!--[if lt IE 9]>            <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
-        
-    
-            <link rel="publisher" href="https://plus.google.com/111023064339101252844">
-    
-            
-    <script>                RS.Container.get().setParams({"webUserId":null,"webUserAcoMap":{"video.admin":false}});
-    
+<link rel="publisher" href="https://plus.google.com/111023064339101252844">
+<script>                RS.Container.get().setParams({"webUserModel":null,"webUserAcoMap":{"video.admin":false,"comments.admin":false}});
+
             </script>
-                            <script>
+<script>
                 var _gaq=_gaq||[];
                 _gaq.push(['_setAccount', 'UA-289597-1']);
                 if(typeof(_vis_opt_GA_track) == "function") { _vis_opt_GA_track(); }
@@ -91,623 +69,343 @@
                     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                 })();
             </script>
-                        <script>                $(document).ready( function() {
+<script>                $(document).ready( function() {
                     $(this).gatracker();
                 });
-            </script>            
-    
-                        
-        <script>window.dataLayer = window.dataLayer || [];</script>
-    </head>
-    
-    <body>
-                        <!-- Google Tag Manager -->
-        <noscript><style type="text/css">.no-script-warning {background-color: rgba(232,111,117,1);color: #fff;padding: 10px 0 3px;margin-bottom: 0;}</style><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TC78S9" height="0" width="0" style="display:none;visibility:hidden"></iframe><div class="no-script-warning page-section"><div class="container"><div class="row"><p><b>Warning:</b> You do not have JavaScript enabled. Parts of this website will not display or function properly. For a better experience, please enable JavaScript.</p></div></div></div>
-        </noscript>
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            </script>
+<script>window.dataLayer = window.dataLayer || [];</script>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><style type="text/css">.no-script-warning{background-color:rgba(232,111,117,1);color:#fff;padding:10px 0 3px;margin-bottom:0}</style><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TC78S9" height="0" width="0" style="display:none;visibility:hidden"></iframe><div class="no-script-warning page-section"><div class="container"><div class="row"><p><b>Warning:</b> You do not have JavaScript enabled. Parts of this website will not display or function properly. For a better experience, please enable JavaScript.</p></div></div></div>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
         j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-TC78S9');</script>
-        <!-- End Google Tag Manager -->
-                
-        <div class="content-body">
-                <header data-enhance="false">
-                
-        <nav id="nav">
-            <a href="/" id="logo">
-                <img src="http://ei.realself.com/images/layout/logo.png,q937553578.pagespeed.ce.aXkl_YIjK-.png" class="img-responsive">
-            </a>
-            
-                        <div id="nav-top-items">
-                                    <a href="/user/signup" rel="auth-require" data-tab="signup" class="btn btn-cta" id="nav-login-button" data-gtm="{&quot;action&quot;:&quot;click&quot;,&quot;event&quot;:&quot;submit-action:sign-up&quot;,&quot;state&quot;:&quot;lightbox&quot;,&quot;widget&quot;:&quot;sign up&quot;}">Join</a>
-
-                    <a href="/user/login" rel="auth-require" data-tab="login" id="nav-signin-button" data-gtm="{&quot;action&quot;:&quot;click&quot;,&quot;event&quot;:&quot;submit-action:sign-in&quot;,&quot;state&quot;:&quot;lightbox&quot;,&quot;widget&quot;:&quot;sign in&quot;}">Sign in</a>
-                                
-                <span id="nav-mobile-menu" class="dropdown-toggle nav-item-dropdown" data-toggle="dropdown" data-target="#main-nav-phone">
-                    <span class="icon icon-mobile-menu"></span>
-                </span>
-            </div>
-            
-                        <div class="dropdown-menu-mobile" id="main-nav-phone">
-                <ul id="main-nav">
-                    <li><a href="/reviews" data-gtm="{&quot;event&quot;:&quot;navlink:treatments&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Treatments</a></li>
-                                            <li>
-                            <a href="/video" data-gtm="{&quot;event&quot;:&quot;navlink:video&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Video</a>
-                        </li>
-                                        <li><a href="/find" data-gtm="{&quot;event&quot;:&quot;navlink:find-a-doctor&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Find a Doctor</a></li>
-                    <li><a href="/ask-a-doctor" data-gtm="{&quot;event&quot;:&quot;navlink:ask-a-dr&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Ask a Doctor</a></li>
-                    <li>
-                        <a href="/review/create" class="link-icon" data-gtm="{&quot;event&quot;:&quot;navlink:write-a-review&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">
-                            <span class="icon icon-edit hidden-xs-inline"></span>
-                            <span class="icon icon-edit-white visible-xs-inline"></span>
-                            <span class="link">Write a Review</span>
-                        </a>
-                    </li>
-                </ul>
-            
-                                    <a href="/user/signup" rel="auth-require" data-tab="signup" class="dropdown-menu-item visible-xs">Sign In / Join</a>
-                            </div>
-            
-                    </nav>
-        
-                    <div id="nav-search-wrapper">
-                <form action="/search/results" class="form-base form-md" id="rs-nav-search">
-                    <div class="input-search-container">
-                        <input id="rs-main-search-text" name="gsc.q" placeholder="Search reviews, photos and more" type="text" autocomplete="off" maxlength="100">
-                        <button class="btn btn-tertiary btn-sm" type="submit">Search</button>
-                    </div>
-                </form>
-            </div>
-            </header>
-    
-        
-            <div class="container" id="content-wrapper">
-            
-                        
-                                                                    
-                                                            
-                <div id="content">
-                        <div class="row">
-        <div class="col-sm-2">
-                            <ul class="sponsored-nav list-unstyled">
-                                            <li>
-                                                            <a href="/policies">Guidelines &amp; Policies</a>
-                                                    </li>
-                                            <li>
-                                                            <a href="/terms-of-service">Terms of Service</a>
-                                                    </li>
-                                            <li>
-                                                            Privacy Policy
-                                                    </li>
-                                            <li>
-                                                            <a href="/community-guidelines">Community Guidelines</a>
-                                                    </li>
-                                            <li>
-                                                            <a href="/professionals/policies">Doctor Listing Criteria</a>
-                                                    </li>
-                                            <li>
-                                                            <a href="/professionals/rules-photos">Photo/Video Gallery Guidelines</a>
-                                                    </li>
-                                    </ul>
-                        
-                    </div>
-        
-        <section class="col-sm-7 sponsored-body user-generated-content">
-            <h1>
-	RealSelf Privacy Notice</h1>
-<h2>
-	<a name="intro"> 1. Introduction.</a></h2>
-<div class="callout">
-	This Privacy Policy tells you all about how we collect, store and use your information. We have provided a plain English summary (in the shaded boxes) as a quick read guide only. The full Privacy Policy is legally binding.</div>
-<p>
-	www.RealSelf.com or other web sites owned or operated by RealSelf (the "RealSelf Sites") values your privacy. This Privacy Notice details important information regarding the use and disclosure of your information collected on the RealSelf Sites. RealSelf provides this Privacy Notice to help you make an informed decision about whether to use or continue using the RealSelf Sites. This Privacy Notice is incorporated into and is subject to the RealSelf Terms of Service. Your use of the RealSelf Sites and any personal information you provide on the RealSelf Sites remains subject to the terms of this Privacy Notice and our Terms of Service.</p>
-<div class="callout">
-	RealSelf is a public website. If you choose to post something, that information is out there publicly and no longer considered "personally identifiable information." A good example of this is your email address: We won't share it, but if <em>you</em> share it, it's no longer a secret (obviously).</div>
-<p>
-	Please note that any content posted by you onto the RealSelf Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.</p>
-<p>
-	<strong>Our Commitment To Children's Privacy.</strong>&nbsp; Protecting the privacy of young children is especially important. For that reason, RealSelf does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the RealSelf Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the RealSelf Sites at any time or in any manner.</p>
-<div class="callout">
-	You must be at least 13 years old to use RealSelf.</div>
-<p>
-	If RealSelf learns that personally identifiable information of persons under 13 years of age has been collected on the RealSelf Sites without verified parental consent, then RealSelf will take the appropriate steps to delete this information.</p>
-<div class="callout">
-	If children under the age of 13 use our site and we find out about it, we will do our best to remove their personally identifiable information.</div>
-<p>
-	<strong>Special Note to International Users.</strong>&nbsp; The RealSelf Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the RealSelf Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the RealSelf Sites, which are governed by U.S. law, this Privacy Notice, and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.</p>
-<div class="callout">
-	RealSelf is "Made in the USA." If you're accessing the site from somewhere else, your information will be stored in the United States.</div>
-<h2><a name="receiveinfo">
-	2. Information RealSelf Receives from You.</a></h2>
-<p>
-	You provide certain personally identifiable information (such as your name and email address) to RealSelf&nbsp;when choosing to participate in various activities on the RealSelf Sites such as posting messages, entering&nbsp;contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to&nbsp;newsletters or other mailing lists. In addition, if you provide your third-party account information (e.g.,&nbsp;your log-in information for Facebook or other third party sites) to us, you understand that if you authorize&nbsp;the transmissions, some content and/or information in those accounts may be transmitted into your RealSelf&nbsp;account. This Privacy Policy governs any third party account information that is transmitted to RealSelf.</p>
-<div class="callout">
-	You provide "personally identifiable information" when you use RealSelf. That's a lawyer term and generally means stuff like your name and email address.</div>
-<h2><a name="collectinfo">
-	3. Information RealSelf Collects.</a></h2>
-<div class="callout">
-	Cookies... they're not just for snacking! A cookie is a small bit of data that is saved to your computer when you visit a website.</div>
-<p>
-	<strong>Cookies Information.</strong> When you visit the RealSelf Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. RealSelf uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the RealSelf Sites may not function properly if the ability to accept cookies is disabled.</p>
-<div class="callout">
-	You can set up your browser to remove or refuse cookies, but you might not be able to use RealSelf.com properly if you do this.</div>
-<p>
-	<strong>Log File Information.</strong> When you use the RealSelf Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.</p>
-<div class="callout">
-	We automatically record information about your activity on RealSelf, like the pages you view and how long you spend on the site.</div>
-<p>
-	<strong>Clear Gifs Information.</strong> When you use the RealSelf Sites, we may employ "clear gifs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear gifs in HTML-based emails sent to our Users to track which emails are opened by recipients</p>
-<div class="callout">
-	We track what you do, but it's all anonymous. This helps us make the site better by observing how people are using it.</div>
-<h2><a name="useinfo">
-	4. The Way RealSelf Uses Information.</a></h2>
-<p>
-	<strong>Use of Voluntary Disclosure of Information.</strong>&nbsp; Any personal information or content that you voluntarily disclose on the RealSelf Sites (e.g., on the RealSelf Sites’ discussion boards, in messages and comment areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others.</p>
-<div class="callout">
-	When you post on RealSelf, it's public.</div>
-<p>
-	Your account name (not your email address) is displayed to other RealSelf users when you submit comments, articles or send messages through the RealSelf Sites and other RealSelf users can contact you through messages and comments.</p>
-<div class="callout">
-	You choose an account name when you sign up to RealSelf. This is displayed publicly next to all of your posts. Choose your name wisely.</div>
-<p>
-	Any content that you submit to the RealSelf Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.</p>
-<div class="callout">
-	The Internet is a public place.</div>
-<p>
-	<strong>Contact its Users.</strong>&nbsp; We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major RealSelf Site changes or for customer service purposes).</p>
-<div class="callout">
-	We use email as a quick way to keep in touch with you. You can opt out of them, except for administrative emails, which have to do with major changes to the site or your account.</div>
-<p>
-	<strong>Improve the RealSelf Sites and Service.</strong>&nbsp; We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the RealSelf Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing RealSelf’s users’ preferences and trends. We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the RealSelf Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.</p>
-<div class="callout">
-	The cookies that we collect are used to personalize RealSelf for you and save you time.</div>
-<h2><a name="discloseinfo">
-	5. When RealSelf Discloses Information.</a></h2>
-<p>
-	<strong>Provide Services.</strong>&nbsp; We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.</p>
-<div class="callout">
-	The only people who see your personal details are us and the people who process it on our behalf (following our rules while they do it).</div>
-<p>
-	However, we do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.</p>
-<div class="callout">
-	We don't sell your information.</div>
-<p>
-	We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the RealSelf Sites.</p>
-<div class="callout">
-	We share anonymous data and trends as a way of improving RealSelf.</div>
-<p>
-	<strong>Connect RealSelf Users with Doctors.</strong>&nbsp; RealSelf offers the “Find a Doctor” feature on its RealSelf Sites, which connects RealSelf users with various doctors featured on the RealSelf Sites.&nbsp; By using RealSelf’s “Find a Doctor” form, you voluntarily provide the doctor’s office with your name, email address, telephone number and your comments/desired treatment, which is transmitted by RealSelf to the doctor’s office.&nbsp; The information provided to the doctor’s office through the “Find A Doctor” feature is not used by RealSelf in any other manner other than transmitting that information to the doctor’s office through the RealSelf Sites.</p>
-<div class="callout">
-	The consultation request form in RealSelf's "Find a Doctor" directory asks for info such as your phone number. We will send this info to the doctor's office and that's it. We don't use it for anything else.</div>
-<p>
-	<strong>Legal Requests and Comply with State and Federal Laws.</strong>&nbsp; We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.</p>
-<div class="callout">
-	Law enforcement agencies can get your data if they have a court order.</div>
-<p>
-	RealSelf also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that RealSelf believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the RealSelf Sites, and to protect the rights, property, or personal safety of RealSelf, RealSelf’s users or others.</p>
-<p>
-	<strong>In the Event of Merger, Sale, or Bankruptcy.</strong>&nbsp; In the event that RealSelf or the RealSelf Sites are acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors rights generally, we may not be able to control how your personal information is treated, transferred, or used.</p>
-<div class="callout">
-	So what happens if someone makes us an offer we can't refuse? If RealSelf is sold or gets acquired, we can transfer your information.</div>
-<p>
-	<strong>Third-party Advertisers, Links to Other Sites.</strong> RealSelf allows other companies, called third-party ad servers or ad networks, to serve advertisements within the RealSelf Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the RealSelf Sites. They automatically receive your IP address when this happens.</p>
-<div class="callout">
-	Your IP address is automatically shared with advertisers.</div>
-<p>
-	These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. RealSelf does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.</p>
-<div class="callout">
-	We may also provide general information about you so you see ads that are relevant to you. None of this will be personally identifiable.</div>
-<p>
-	However, please note that if an advertiser asks RealSelf to show an advertisement to a certain audience (for example, women ages 35-49) or audience segment (for example, women ages 35-49 who have viewed certain content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.</p>
-<div class="callout">
-	We might target ads based on demographics (age, gender, etc). We don't tell advertisers this information, but they might make assumptions. (Unless women want to see Viagra ads, in which case the world is a strange and mysterious place.)</div>
-<p>
-	You should consult the respective privacy policies of these third-party ad servers or ad networks. RealSelf's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
-<p>
-	Currently, RealSelf has relationships with the following third-party ad servers or ad networks:&nbsp; Google, Inc. <a href="http://www.google.com/privacypolicy.html">http://www.google.com/privacypolicy.html</a></p>
-<div class="callout">
-	Our Privacy Policy does not apply to advertisers. Check them out separately.</div>
-<h2><a name="choices">
-	6. Your Choices.</a></h2>
-<p>
-	You may, of course, decline to submit personally identifiable information through the RealSelf Sites, in which case RealSelf may not be able to provide certain services to you.</p>
-<div class="callout">
-	Some services will not be available if you choose not to give us your email address.</div>
-<p>
-	You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.</p>
-<div class="callout">
-	Keep your info up-to-date by visiting your RealSelf <a href="http://www.realself.com/user/">profile</a>.</div>
-<p>
-	Please note that content submitted by RealSelf users to the RealSelf Sites cannot be removed and remain subject to our Terms of Service.</p>
-<div class="callout">
-	Once you post something, it can't be deleted.</div>
-<p>
-	To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.</p>
-<div class="callout">
-	Keep your password a secret. "1234" is not a good password.</div>
-<p>
-	Please contact RealSelf with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using the <a href="http://help.realself.com/customer/portal/emails/new">feedback form</a>.</p>
-<div class="callout">
-	Questions? <a href="http://help.realself.com/customer/portal/emails/new">Just ask!</a></div>
-<h2><a name="security">
-	7. Our Commitment To Data Security.</a></h2>
-<p>
-	RealSelf uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to RealSelf and the RealSelf Sites and you do so at your own risk. Once we receive your transmission of information, RealSelf makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
-<div class="callout">
-	We use all the best tech gear to keep your information safe, but there are no guarantees in life.</div>
-<p>
-	If RealSelf learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. RealSelf may post a notice on the RealSelf Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using our<a href="http://help.realself.com/customer/portal/emails/new"> </a><a href="http://help.realself.com/customer/portal/emails/new">feedback form</a>.</p>
-<div class="callout">
-	If a security breach occurs, we'll email you and post about it on RealSelf.com.</div>
-<h2><a name="changes">
-	8. Changes and updates to this Privacy Notice.</a></h2>
-<p>
-	This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the RealSelf Sites constitutes your agreement to this Privacy Notice and any future revisions.</p>
-<div class="callout">
-	We'll update our Privacy Policy periodically. Watch this space.</div>
-<p>
-	For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.</p>
-<div class="callout">
-	If we make any big changes to this document, we'll let you know.</div>
-<p>
-	Date Last Modified: This Privacy Notice was last modified on November 20, 2012.</p>
-<h5>
-	Contact Information: Please contact RealSelf with any questions or comments about this Privacy Notice using <a href="http://help.realself.com/customer/portal/emails/new">our feedback form</a>.</h5>
-<h6>
-	Copyright © 2013 RealSelf.com™</h6>
-
-        </section>
-        
-        <div class="col-sm-3">
-            
+<!-- End Google Tag Manager -->
+<div class="content-body">
+<header data-enhance="false">
+<nav id="nav">
+<div itemscope="" itemtype="http://schema.org/Organization">
+<a itemprop="url" href="/" id="logo">
+<img itemprop="logo" src="http://fi.realself.com/images/layout/logo.png,q963734522.pagespeed.ce.aXkl_YIjK-.png" class="img-responsive">
+</a>
+</div>
+<div id="nav-top-items">
+<a href="/user/signup" rel="auth-require" data-tab="signup" class="btn btn-cta" id="nav-login-button" data-gtm="{&quot;action&quot;:&quot;click&quot;,&quot;event&quot;:&quot;submit-action:sign-up&quot;,&quot;state&quot;:&quot;lightbox&quot;,&quot;widget&quot;:&quot;sign up&quot;}">Join</a>
+<a href="/user/login" rel="auth-require" data-tab="login" id="nav-signin-button" data-gtm="{&quot;action&quot;:&quot;click&quot;,&quot;event&quot;:&quot;submit-action:sign-in&quot;,&quot;state&quot;:&quot;lightbox&quot;,&quot;widget&quot;:&quot;sign in&quot;}">Sign in</a>
+<span id="nav-mobile-menu" class="dropdown-toggle nav-item-dropdown" data-toggle="dropdown" data-hover="dropdown" data-delay="50" data-target="#main-nav-phone">
+<span class="icon icon-mobile-menu"></span>
+<span class="arrow"></span>
+</span>
+</div>
+<div class="dropdown-menu-mobile" id="main-nav-phone">
+<ul id="main-nav">
+<li><a href="/reviews" data-gtm="{&quot;event&quot;:&quot;navlink:treatments&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Treatments</a></li>
+<li>
+<a href="/video" data-gtm="{&quot;event&quot;:&quot;navlink:video&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Video</a>
+</li>
+<li><a href="/find" data-gtm="{&quot;event&quot;:&quot;navlink:find-a-doctor&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Find a Doctor</a></li>
+<li><a href="/ask-a-doctor" data-gtm="{&quot;event&quot;:&quot;navlink:ask-a-dr&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Ask a Doctor</a></li>
+<li>
+<a href="/review/create" class="link-icon" data-gtm="{&quot;event&quot;:&quot;navlink:write-a-review&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}" id="main-nav-war">
+<span class="icon icon-edit hidden-xs-inline"></span>
+<span class="icon icon-edit-blue visible-xs-inline"></span>
+<span class="link">Write a Review</span>
+</a>
+</li>
+</ul>
+<a href="/user/login" rel="auth-require" data-tab="login" class="dropdown-menu-item visible-xs">Sign In</a>
+</div>
+<a href="/user/signup" rel="auth-require" data-tab="signup" id="nav-mobile-join" class="dropdown-menu-item visible-xs btn btn-secondary btn-xs">Join</a>
+</nav>
+<div id="nav-search-wrapper">
+<form action="/search/results" class="form-base form-md" id="rs-nav-search">
+<div class="input-search-container">
+<input id="rs-main-search-text" name="gsc.q" placeholder="Search reviews, photos and more" type="text" autocomplete="off" maxlength="100">
+<button class="btn btn-tertiary btn-sm" type="submit">Search</button>
+</div>
+</form>
+</div>
+<!--[if lte IE 7]>
+    <div id="browser-deprecate-message" class="alert-alert">
+        <div class="container">
+            <strong>Your browser needs a facelift!</strong> RealSelf no longer supports Microsoft Internet Explorer 7 and older. We recommend upgrading to a more modern browser. Visit <a href="http://whatbrowser.org/">whatbrowser.org</a> to learn more and <a href="http://whatbrowser.org/">upgrade your browser.</a>
         </div>
     </div>
-    
-                    </div>
-                    </div>
-
-        
-    
-        <footer data-enhance="false">
-        <div class="container" id="footer-links">
-            <div class="row page-element-list">
-                <div class="col-lg-2 col-lg-offset-1 col-sm-3">
-                    <h5>Company</h5>
-                
-                    <ul class="list-unstyled list-spaceless">
-                        <li><a href="/about" id="footer-about">About</a></li>
-                        <li><a href="/about/team" id="footer-team">Team</a></li>
-                        <li><a href="/about/jobs" id="footer-jobs">Jobs</a></li>
-                        <li><a href="/about/contact" id="footer-contact">Contact</a></li>
-                        <li><a href="/about/press" id="footer-press">Press</a></li>
-                        <li><a href="/about/realfriends" id="footer-realfriends">RealFriends</a></li>
-                        <li><a href="/policies" id="footer-guidelines">Guidelines &amp; Policies</a></li>
-                    </ul>
-                </div>
-            
-                <div class="col-lg-2 col-sm-3">
-                    <h5>What We Offer</h5>
-                
-                    <ul class="list-unstyled list-spaceless">
-                        <li><a href="/topics" id="footer-topic-index">Topics A-Z</a></li>
-                        <li><a href="/reviews" id="footer-reviews" data-gtm="{&quot;event&quot;:&quot;navlink:treatments&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Treatments</a></li>
-                        <li><a href="/ask-a-doctor" id="footer-qa" data-gtm="{&quot;event&quot;:&quot;navlink:ask-a-dr&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Ask a Doctor</a></li>
-                        <li><a href="/find" id="footer-drs" data-gtm="{&quot;event&quot;:&quot;navlink:find-a-doctor&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Find a Doctor</a></li>
-                        <li><a href="/photo" id="footer-photos">Before &amp; After Photos</a></li>
-                        <li><a href="/blog" id="footer-blog">Blog</a></li>
-                    </ul>
-                </div>
-            
-                <div class="col-lg-2 col-sm-3">
-                    <h5>For Doctors</h5>
-                
-                    <ul class="list-unstyled list-spaceless">
-                        <li><a href="/dr/claimProfile">Claim Your Profile</a></li>
-                        <li><a href="/dr/advertise">Advertise</a></li>
-                        <li><a href="/dr/recognition">Top Doctors</a></li>
-                        <li><a href="http://medibeauty.biz" target="_blank">MediBeauty Today</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-lg-2 col-sm-3">
-                    <h5>My Account</h5>
-                
-                    <ul class="list-unstyled list-spaceless">
-                                                    <li><a href="/user/signup" rel="auth-require" data-tab="signup">Join Now</a></li>
-                            <li><a href="/user/login" rel="auth-require" data-tab="login">Sign In</a></li>
-                                            
-                        <li><a href="http://help.realself.com">Help</a></li>
-                    </ul>
-                </div>
-                
-                <span class="hidden-lg clearfix"></span>
-                
-                <div class="col-lg-2 col-sm-12" id="footer-social-links">
-                    <a href="https://www.facebook.com/Realself" class="icon icon-facebook" rel="nofollow"></a>
-                    <a href="https://twitter.com/RealSelf" class="icon icon-twitter-small" rel="nofollow"></a>
-                    <a href="http://www.pinterest.com/realself" class="icon icon-pinterest" rel="nofollow"></a>
-                </div>
-            </div>
-        </div>
-    
-        <div id="footer-text">
-            <div>
-                © 2014 RealSelf, Inc. All rights reserved. RealSelf is a registered trademark of RealSelf, Inc.
-            </div>
-            
-            <ul class="list-horizontal-bullet">
-                <li>
-                    <a href="/terms-of-service">Terms of Service</a>
-                </li>
-            
-                <li>
-                    <a href="/real_self_privacy_policy.html">Privacy Policy</a>
-                </li>
-            </ul>
-        </div>
-    </footer>
-    
-    <div class="hidden">
-        <div id="modal-tabs">
-            <div class="modal-tabs"></div>
-        </div>
-        
-        <div id="modal-tab">
-            <div class="modal-tab"></div>
-        </div>
-        
-        <div id="login-tab_template">
-            
-<div class="modal-title">
-    <h2 class="modal-headline">Welcome Back!</h2>
-</div>
-
-<div class="modal-content">
-    <form class="form-base form-large" rv-on-submit="form.submit" method="post">
-        <div class="control-group" rv-class-control-group-error="errors:status">                    
-            <div class="control-label control-label-error">
-                <label rv-html="errors:status"></label>
-            </div>
-        </div>          
-        <div class="control-group" rv-class-control-group-error="errors:email">
-            <!--[if lt IE 10]>
-                <div class="control-label">
-                    <label>Email</label>
-                </div>
-            <![endif]-->
-            
-            <div class="control-label control-label-error">
-                <label rv-html="errors:email"></label>
-            </div>
-        
-            <div class="controls">
-                <input type="text" placeholder="Email" name="LoginForm[email]" rv-input="values:email" maxlength="100" class="input-block">
-            </div>
-        </div>
-    
-        <div class="control-group" rv-class-control-group-error="errors:password">
-            <!--[if lt IE 10]>
-                <div class="control-label">
-                    <label>Password</label>
-                </div>
-            <![endif]-->
-            
-            <div class="control-label control-label-error">
-                <label rv-html="errors:password"></label>
-            </div>
-        
-            <div class="controls">
-                <input type="password" placeholder="Password" name="LoginForm[password]" rv-input="values:password" class="input-block">
-            </div>
-        
-            <div class="text-right">
-                <a data-change-tab="password-reset" href="/user/forgotPassword" class="small">
-                    Forgot?
-                </a>
-            </div>
-        </div>
- 
-        <p>
-            <button type="submit" class="btn btn-primary btn-block btn-lg" rv-enabled="form:enabled">Sign In</button>
-        </p>
-        
-        <p class="text-center">
-            or
-            <span rv-on-click="fbConnect.launch" class="link">
-                sign in with Facebook
-            </span>
-        </p>
-    
-        <div class="text-backline">
-            <span class="text-backline-text">
-                Not a member yet? <a href="/user/signup" data-change-tab="signup">Join today</a>.
-            </span>
-        </div>
-    </form>
-</div>        </div>
-        
-        <div id="register-tab_template">
-            
-
-<div class="modal-title">
-    <h2 class="modal-headline">Join RealSelf</h2>
-</div>
-
-<div class="modal-content">
-    <p class="large">
-        Join the world's largest cosmetic surgery community.
-    </p>
-    
-    <form class="form-base form-large" rv-on-submit="form.submit" method="post">
-        <div class="control-group input-email" rv-class-control-group-error="errors:email" rv-email-input-container="form:emailInputConfig">
-            <!--[if lt IE 10]>
-                <div class="control-label">
-                    <label>Email</label>
-                </div>
-            <![endif]-->
-            
-            <div class="control-label control-label-error">
-                <label rv-text="errors:email"></label>
-            </div>
-            
-            <div class="controls">
-                <input type="text" placeholder="Email" name="User[email]" rv-input="values:email" class="input-block">
-            </div>
-            
-            <div class="control-help-block hide">
-                <span class="icon icon-cancel link"></span>
-                Did you mean <span class="email-hint link"></span>?
-            </div>
-        </div>
-
-        <div class="control-group" rv-class-control-group-error="errors:nickname">
-            <!--[if lt IE 90]>
-                <div class="control-label">
-                    <label>Username</label>
-                </div>
-            <![endif]-->
-            
-            <div class="control-label control-label-error">
-                <label rv-text="errors:nickname"></label>
-            </div>
-        
-            <div class="controls">
-                <input type="text" placeholder="Username" name="User[nickname]" rv-input="values:nickname" class="input-block">
-            </div>
-        </div>
-
-        <div class="control-group" rv-class-control-group-error="errors:password_update">
-            <!--[if lt IE 10]>
-                <div class="control-label">
-                    <label>Create Password</label>
-                </div>
-            <![endif]-->
-                
-            <div class="control-label control-label-error">
-                <label rv-text="errors:password_update"></label>
+<![endif]-->
+<!--[if IE 8]>
+    <div id="browser-deprecate-message" class="alert-alert">
+        <div class="container">
+            <div id="browser-deprecate-message-copy">
+                <strong>Your browser will need a facelift!</strong> RealSelf will stop supporting Microsoft Internet Explorer 8 in February 2015. We recommend upgrading to a more modern browser. Visit <a href="http://whatbrowser.org/" data-gtm="{'event':'browser-deprecate-message:link-clicked', 'link-label': 'what-browser', 'action':'click'}">whatbrowser.org</a> to learn more and upgrade your browser.
             </div>
 
-            <div class="controls">
-                <input type="password" placeholder="Create Password" name="User[password_update]" rv-input="values:password_update" class="input-block">
-            </div>
-        </div>
-
-        <input type="hidden" name="User[receive_updates]" rv-value="values:receive_updates">
-        <input type="hidden" name="User[context]" rv-enabled="values:context" rv-value="values:context">
-
-        <p>
-            <button type="submit" class="btn btn-primary btn-lg btn-block" rv-enabled="form:enabled">Join Now</button>
-        </p>
-    
-        <p class="small gray text-center">
-            By creating an account, you are indicating that you have read and accept the
-            <a href="/terms-of-service" target="_blank" class="link-tertiary">RealSelf Terms of Use</a>.
-        </p>
-
-        <div class="text-backline">
-            <span class="text-backline-text">
-                Already a member? <a href="/user/login" data-change-tab="login">Sign In</a>.
-            </span>
-        </div>
-    </form>
-</div>
-        </div>
-        
-        <div id="confirm-modal_template">
-            <div class="modal-title">
-                <h2 class="modal-headline" rv-text="confirmation:title"></h2>
-            </div>
-
-            <div class="modal-content">
-                <p class="large" rv-html="confirmation:message"></p>
-                
-                <div>
-                    <button class="btn btn-primary btn-lg btn-block" rv-text="confirmation:buttonText" rv-on-click="confirmation.confirm" rv-disabled="confirmation:confirmed"></button>
-                </div>
-            </div>
-        </div>
-        
-        <div id="password-reset-tab_template">
-            <div class="modal-title">
-                <h2 class="modal-headline">Retrieve your password</h2>
-            </div>
-            
-            <div class="modal-content">
-                <form class="form-base form-large" rv-on-submit="form.submit" method="post">
-                    <p class="large">Enter your username or email address and we will send you a link to login.</p>
-                    
-                    <div class="control-group" rv-class-control-group-error="errors:email">
-                        <div class="control-label control-label-error" rv-text="errors:email"></div>
-                        
-                        <div class="controls">
-                            <input type="text" rv-input="values:email" class="input-block">
-                        </div>
-                    </div>
-                    
-                    <div class="form-actions">
-                        <button type="submit" class="btn btn-primary btn-lg" rv-enabled="form:enabled">Send me a link</button>
-                        <span class="link" data-change-tab="login">cancel</span>
-                    </div>
-                </form>
-            </div>
-        </div>
-        
-        <div id="set-username-tab_template">
-            <div class="modal-title">
-                <h2 class="modal-headline">Almost Finished...</h2>
-            </div>
-
-            <div class="modal-content">
-                <form class="form-base form-large" rv-on-submit="form.submit" method="post">
-                    <p class="large">
-                        Please create a username or use the one provided to complete your registration.
-                    </p>
-                    
-                    <div class="control-group" rv-class-control-group-error="errors:username">
-                        <div class="control-label control-label-error" rv-text="errors:username"></div>
-                        
-                        <div class="controls">
-                            <input type="text" placeholder="TexasSuzie1200" rv-input="values:username" class="input-block">
-                        </div>
-                    </div>
-                    
-                    <div class="form-actions">
-                        <button type="submit" class="btn btn-primary btn-lg btn-block" rv-enabled="form:enabled">Complete Registration</button>
-                    </div>
-                </form>
-            </div>
+            <div id="browser-deprecate-message-upgrade" class="browser-deprecate-action"><a href="http://whatbrowser.org/" data-gtm="{'event':'browser-deprecate-message:link-clicked', 'link-label': 'upgrade', 'action':'click'}"><div class="btn btn-primary">Upgrade</div></a></div>
+            <div id="browser-deprecate-message-dismiss" class="browser-deprecate-action"><a href="" id="browser-deprecate-message-dismiss" class="link" data-gtm="{'event':'browser-deprecate-message:link-clicked', 'link-label': 'dismiss', 'action':'click'}">No thanks, maybe later</a></div>
         </div>
     </div>
-        </div>
-        
-            <script type="text/javascript">
-        if (typeof RS == 'undefined') {
-        var RS = {};
-    }
-    
-        if (typeof jQuery != 'undefined') {
-        RS.scriptReadyPromise = new $.Deferred();
-        
-        (function ($) {
-            var def = new $.Deferred();
-            $(window).load(function () {
-                def.resolve();
-            });
-            
-            if (!window.RS) {
-                window.RS = {};
+
+    <style>#browser-deprecate-message{margin:0}#browser-deprecate-message .container{margin:0 auto}#browser-deprecate-message-copy{float:left;max-width:845px;margin-right:10px}.browser-deprecate-action{float:left;margin-top:7px;line-height:35px}#browser-deprecate-message-upgrade{width:110px}#browser-deprecate-message .link{white-space:nowrap}</style>
+
+    <script>
+        (function() {
+            var browserDeprecateFlag = 'browserDeprecateMsg';
+
+            function hasSeenBrowserDeprecateMessage () {
+                return !!localStorage.getItem(browserDeprecateFlag);
             }
-            
-            RS.loadPromise = $.when(RS.scriptReadyPromise.promise(), def.promise());
-        })(jQuery);
-    };
+
+            function markDeprecateMessageAsRead () {
+                localStorage.setItem(browserDeprecateFlag, true);
+                dismissBrowserDeprecateMessage();
+                return;
+            }
+
+            /**
+            * Hide the browserDeprecateMessage
+            *
+            * @return bool
+            */
+            function dismissBrowserDeprecateMessage () {
+                $('#browser-deprecate-message').hide();
+                return;
+            }
+
+            if(hasSeenBrowserDeprecateMessage()) {
+                dismissBrowserDeprecateMessage();
+            }
+
+            $('#browser-deprecate-message-dismiss').click(function(event){
+                event.preventDefault();
+                markDeprecateMessageAsRead();
+            });
+        }());
     </script>
-    
-            <script>            window.top.location.hostname !== window.location.hostname && (window.top.location = window.location);
-        </script>        
-        <script>        RS.scriptReadyPromise.resolve();
+<![endif]-->
+</header>
+<div class="container" id="content-wrapper" ng-non-bindable="">
+<div id="content">
+<div class="row">
+<div class="col-sm-2">
+<ul class="sponsored-nav list-unstyled">
+<li>
+<a href="/policies">Guidelines &amp; Policies</a>
+</li>
+<li>
+<a href="/terms-of-service">Terms of Service</a>
+</li>
+<li>
+Privacy Policy
+</li>
+<li>
+<a href="/community-guidelines">Community Guidelines</a>
+</li>
+<li>
+<a href="/professionals/policies">Doctor Listing Criteria</a>
+</li>
+<li>
+<a href="/professionals/rules-photos">Photo/Video Gallery Guidelines</a>
+</li>
+</ul>
+</div>
+<section class="col-sm-7 sponsored-body user-generated-content">
+<h1>
+RealSelf Privacy Notice</h1>
+<h2>
+<a name="intro"> 1. Introduction.</a></h2>
+<a href="http://www.RealSelf.com">www.RealSelf.com</a> or other web sites owned or operated by RealSelf (the "RealSelf Sites") values your privacy. This Privacy Notice details important information regarding the use and disclosure of your information collected on the RealSelf Sites. RealSelf provides this Privacy Notice to help you make an informed decision about whether to use or continue using the RealSelf Sites. This Privacy Notice is incorporated into and is subject to the RealSelf Terms of Service. Your use of the RealSelf Sites and any personal information you provide on the RealSelf Sites remains subject to the terms of this Privacy Notice and our Terms of Service.<br>
+<br>
+Please note that any content posted by you onto the RealSelf Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.<br>
+<br>
+<strong>Our Commitment To Children's Privacy.</strong>&nbsp; Protecting the privacy of young children is especially important. For that reason, RealSelf does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the RealSelf Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the RealSelf Sites at any time or in any manner.<br>
+<br>
+If RealSelf learns that personally identifiable information of persons under 13 years of age has been collected on the RealSelf Sites without verified parental consent, then RealSelf will take the appropriate steps to delete this information.<br>
+<br>
+<strong>Special Note to International Users.</strong>&nbsp; The RealSelf Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the RealSelf Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the RealSelf Sites, which are governed by U.S. law, this Privacy Notice, and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.<br>
+<h2><a name="receiveinfo">
+2. Information RealSelf Receives from You.</a></h2>
+You provide certain personally identifiable information (such as your name and email address) to RealSelf&nbsp;when choosing to participate in various activities on the RealSelf Sites such as posting messages, entering&nbsp;contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to&nbsp;newsletters or other mailing lists. In addition, if you provide your third-party account information (e.g.,&nbsp;your log-in information for Facebook or other third party sites) to us, you understand that if you authorize&nbsp;the transmissions, some content and/or information in those accounts may be transmitted into your RealSelf&nbsp;account. This Privacy Policy governs any third party account information that is transmitted to RealSelf.
+<br>
+<h2><a name="collectinfo">
+3. Information RealSelf Collects.</a></h2>
+<strong>Cookies Information.</strong> When you visit the RealSelf Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. RealSelf uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the RealSelf Sites may not function properly if the ability to accept cookies is disabled.<br>
+<br>
+<strong>Log File Information.</strong> When you use the RealSelf Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.<br>
+<br>
+<strong>Clear Gifs Information.</strong> When you use the RealSelf Sites, we may employ "clear gifs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear gifs in HTML-based emails sent to our Users to track which emails are opened by recipients<br>
+<h2><a name="useinfo">
+4. The Way RealSelf Uses Information.</a></h2>
+<strong>Use of Voluntary Disclosure of Information.</strong>&nbsp; Any personal information or content that you voluntarily disclose on the RealSelf Sites (e.g., on the RealSelf Sites’ discussion boards, in messages and comment areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others.<br>
+Your account name (not your email address) is displayed to other RealSelf users when you submit comments, articles or send messages through the RealSelf Sites and other RealSelf users can contact you through messages and comments.
+<br>
+<br>
+Any content that you submit to the RealSelf Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.<br>
+<br>
+<strong>Contact its Users.</strong>&nbsp; We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major RealSelf Site changes or for customer service purposes).<br>
+<br>
+<strong>Improve the RealSelf Sites and Service.</strong>&nbsp; We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the RealSelf Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing RealSelf’s users’ preferences and trends. We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the RealSelf Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.<br>
+<h2><a name="discloseinfo">
+5. When RealSelf Discloses Information.</a></h2>
+<strong>Provide Services.</strong>&nbsp; We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.<br>
+<br>
+However, we do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+<br><br>
+We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the RealSelf Sites.
+<br>
+<br>
+<strong>Connect RealSelf Users with Doctors.</strong>&nbsp; RealSelf offers the “Find a Doctor” feature on its RealSelf Sites, which connects RealSelf users with various doctors featured on the RealSelf Sites.&nbsp; By using RealSelf’s “Find a Doctor” form, you voluntarily provide the doctor’s office with your name, email address, telephone number and your comments/desired treatment, which is transmitted by RealSelf to the doctor’s office.&nbsp; The information provided to the doctor’s office through the “Find A Doctor” feature is not used by RealSelf in any other manner other than transmitting that information to the doctor’s office through the RealSelf Sites.<br><br>
+<strong>Legal Requests and Comply with State and Federal Laws.</strong>&nbsp; We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.<br>
+<br>
+RealSelf also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that RealSelf believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the RealSelf Sites, and to protect the rights, property, or personal safety of RealSelf, RealSelf’s users or others.<br>
+<br>
+<strong>In the Event of Merger, Sale, or Bankruptcy.</strong>&nbsp; In the event that RealSelf or the RealSelf Sites are acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors rights generally, we may not be able to control how your personal information is treated, transferred, or used.<br>
+<br>
+<strong>Third-party Advertisers, Links to Other Sites.</strong> RealSelf allows other companies, called third-party ad servers or ad networks, to serve advertisements within the RealSelf Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the RealSelf Sites. They automatically receive your IP address when this happens.<br>
+<br>
+These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. RealSelf does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.<br>
+<br>
+However, please note that if an advertiser asks RealSelf to show an advertisement to a certain audience (for example, women ages 35-49) or audience segment (for example, women ages 35-49 who have viewed certain content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.<br>
+<br>
+You should consult the respective privacy policies of these third-party ad servers or ad networks. RealSelf's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.<br>
+<br>
+Currently, RealSelf has relationships with the following third-party ad servers or ad networks:&nbsp; Google, Inc.
+<a href="http://www.google.com/privacypolicy.html">http://www.google.com/privacypolicy.html</a><br>
+<h2><a name="choices">
+6. Your Choices.</a></h2>
+You may, of course, decline to submit personally identifiable information through the RealSelf Sites, in which case RealSelf may not be able to provide certain services to you.
+<br>
+<br>
+You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.
+<br><br>
+Please note that content submitted by RealSelf users to the RealSelf Sites cannot be removed and remain subject to our Terms of Service.
+<br><br>
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+<br>
+<br>
+Please contact RealSelf with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using the
+<a href="http://help.realself.com/customer/portal/emails/new">feedback form</a>.<br>
+<h2><a name="security">
+7. Our Commitment To Data Security.</a></h2>
+RealSelf uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to RealSelf and the RealSelf Sites and you do so at your own risk. Once we receive your transmission of information, RealSelf makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+<br>
+<br>
+If RealSelf learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. RealSelf may post a notice on the RealSelf Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using our
+<a href="http://help.realself.com/customer/portal/emails/new"> </a><a href="http://help.realself.com/customer/portal/emails/new">feedback form</a>.<br>
+<h2><a name="changes">
+8. Changes and updates to this Privacy Notice.</a></h2>
+This Privacy Notice may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the RealSelf Sites constitutes your agreement to this Privacy Notice and any future revisions.
+<br>
+<br>
+For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.<br>
+<br>
+Date Last Modified: This Privacy Notice was last modified on November 20, 2012.<br>
+<br>
+Contact Information: Please contact RealSelf with any questions or comments about this Privacy Notice using <a href="http://help.realself.com/customer/portal/emails/new" style="font-size: 1em; font-weight: 700; text-transform: uppercase;">our feedback form</a>.<br>
+<br>
+Copyright © 2014 RealSelf.com™
+</section>
+<div class="col-sm-3">
+</div>
+</div>
+</div>
+</div>
+<footer data-enhance="false">
+<div class="container" id="footer-links">
+<div class="row page-element-list">
+<div class="col-lg-2 col-lg-offset-1 col-sm-3">
+<h5>Company</h5>
+<ul class="list-unstyled list-spaceless">
+<li><a href="/about" id="footer-about">About</a></li>
+<li><a href="/about/team" id="footer-team">Team</a></li>
+<li><a href="/about/jobs" id="footer-jobs">Jobs</a></li>
+<li><a href="/about/contact" id="footer-contact">Contact</a></li>
+<li><a href="/Change500" id="footer-contact">Giving Back</a></li>
+<li><a href="/about/press" id="footer-press">Press</a></li>
+<li><a href="/about/realfriends" id="footer-realfriends">RealFriends</a></li>
+<li><a href="/policies" id="footer-guidelines">Guidelines &amp; Policies</a></li>
+</ul>
+</div>
+<div class="col-lg-2 col-sm-3">
+<h5>What We Offer</h5>
+<ul class="list-unstyled list-spaceless">
+<li><a href="/topics" id="footer-topic-index">Topics A-Z</a></li>
+<li><a href="/reviews" id="footer-reviews" data-gtm="{&quot;event&quot;:&quot;navlink:treatments&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Treatments</a></li>
+<li><a href="/ask-a-doctor" id="footer-qa" data-gtm="{&quot;event&quot;:&quot;navlink:ask-a-dr&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Ask a Doctor</a></li>
+<li><a href="/find" id="footer-drs" data-gtm="{&quot;event&quot;:&quot;navlink:find-a-doctor&quot;,&quot;state&quot;:&quot;navlink&quot;,&quot;action&quot;:&quot;click&quot;,&quot;widget&quot;:&quot;nav&quot;}">Find a Doctor</a></li>
+<li><a href="/photo" id="footer-photos">Before &amp; After Photos</a></li>
+<li><a href="/blog" id="footer-blog">Blog</a></li>
+</ul>
+</div>
+<div class="col-lg-2 col-sm-3">
+<h5>For Doctors</h5>
+<ul class="list-unstyled list-spaceless">
+<li><a href="/dr/claimprofile">Claim Your Profile</a></li>
+<li><a href="/dr/advertise">Advertise</a></li>
+<li><a href="/dr/recognition">Top Doctors</a></li>
+<li><a href="http://medibeauty.biz" target="_blank">MediBeauty Today</a></li>
+</ul>
+</div>
+<div class="col-lg-2 col-sm-3">
+<h5>My Account</h5>
+<ul class="list-unstyled list-spaceless">
+<li><a href="/user/signup" rel="auth-require" data-tab="signup">Join Now</a></li>
+<li><a href="/user/login" rel="auth-require" data-tab="login">Sign In</a></li>
+<li><a href="http://help.realself.com">Help</a></li>
+</ul>
+</div>
+<span class="hidden-lg clearfix"></span>
+<div class="col-lg-2 col-sm-12" id="footer-social-links">
+<a href="https://www.facebook.com/Realself" class="icon icon-facebook" rel="nofollow"></a>
+<a href="https://twitter.com/RealSelf" class="icon icon-twitter-small" rel="nofollow"></a>
+<a href="http://www.pinterest.com/realself" class="icon icon-pinterest" rel="nofollow"></a>
+</div>
+</div>
+</div>
+<div id="footer-text">
+<div>
+© 2014 RealSelf, Inc. All rights reserved. RealSelf is a registered trademark of RealSelf, Inc.
+</div>
+<ul class="list-horizontal-bullet">
+<li>
+<a href="/terms-of-service">Terms of Service</a>
+</li>
+<li>
+<a href="/real_self_privacy_policy.html">Privacy Policy</a>
+</li>
+</ul>
+</div>
+</footer>
+</div>
+<script type="text/javascript">
+                if (typeof RS == 'undefined') {
+            var RS = {};
+        }
+
+                if (typeof jQuery != 'undefined') {
+            RS.scriptReadyPromise = new $.Deferred();
+
+            (function ($) {
+                var def = new $.Deferred();
+                $(window).load(function () {
+                    def.resolve();
+                });
+
+                if (!window.RS) {
+                    window.RS = {};
+                }
+
+                RS.loadPromise = $.when(RS.scriptReadyPromise.promise(), def.promise());
+            })(jQuery);
+        };
         
+            </script>
+<script>            window.top.location.hostname !== window.location.hostname && (window.top.location = window.location);
+        </script>
+<script>        RS.scriptReadyPromise.resolve();
+
         RS.loadPromise.done(function() {
                                                 var s = document.createElement('script');
                     s.type = 'text/javascript';
@@ -716,24 +414,29 @@
                     var x = document.getElementsByTagName('script')[0];
                     x.parentNode.insertBefore(s, x);
                     s.onload = function() {
-                        Sailthru.setup({ domain: 'horizon.realself.com' });
-                    };
-                                        
-                                        RS.Utilities.loadCSS('http://www.realself.com/css/lazyload.css?937553578');
-                        
+                                                    Sailthru.setup({ domain: 'horizon.realself.com' });
+                                            };
+                            
+                                        RS.Utilities.loadCSS('http://www.realself.com/css/lazyload.css?963734522');
+            
             if (!Modernizr.inlinesvg) {
-                RS.Utilities.loadCSS('http://www.realself.com/css/icons-no-svg.css?937553578');
+                RS.Utilities.loadCSS('http://www.realself.com/css/icons-no-svg.css?963734522');
             }
         });
-        
+
         RS.fbClientId = "233091892959";
-        new RS.Global(["Open Sans:300,400,600"], RS.fbClientId);
-    </script>    <script type="text/javascript">
+        new RS.Global(
+            ["Open Sans:300,400,600"],
+            RS.fbClientId
+        );
+    </script> <script type="text/javascript">
 /*<![CDATA[*/
 RS.Stats.incrementViews(416, 'sponsored');
- RS.DataLayer.geoBeaconAjax(); 
+require.config({"urlArgs":"963734522","baseUrl":"\/build\/"});
+require.config({"config":{"bower_components\/rs-styleguide\/angular-src\/module\/auth-module\/main":{"user":null,"acoMap":{"video.admin":false,"comments.admin":false}},"src\/feature-module\/collection":{"features":{"activity_streams.ui":{"enabled":true}}},"src\/video-module\/main":{"brightcovePlayerId":"2764084504001","brightcovePlayerKey":"AQ~~,AAACg5BC7wk~,fgswg8F2snqbVuilcvH7MSm569m22F_X"},"src\/image-resize-module\/main":{"imageResizeHost":"fi.realself.com"}}});
+ RS.DataLayer.geoBeaconInline(23445,"San Francisco"); 
 /*]]>*/
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"7e831b8083","applicationID":"1296674,2804543","transactionName":"YFMGNhcHXhEHBkIIDVkZJQERD18MSRJBFk1HRAsWAAVEBwJKVQ4MQ0QLDgkDQhFJNkYODERZFgcBJV8MEhdZDQ5SREoSDRY=","queueTime":0,"applicationTime":56,"ttGuid":"","agentToken":"","atts":"TBQFQF8dTR8=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","licenseKey":"7e831b8083","applicationID":"11161378,1296674","transactionName":"YFMGNhcHXhEHBkIIDVkZJQERD18MSRJBFk1HRAsWAAVEBwJKVQ4MQ0QLDgkDQhFJNkYODERZFgcBJV8MEhdZDQ5SREoSDRY=","queueTime":0,"applicationTime":74,"atts":"TBQRQF8dTU5EBBRbGUpL","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-476.min.js"}</script>
 
-<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-476.min.js"></script></body></html>
