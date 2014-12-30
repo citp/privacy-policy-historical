@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcgoodfood.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625160649id_/http%3A//www.bbcgoodfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcgoodfood.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230130329id_/http%3A//www.bbcgoodfood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | BBC Good Food
 
@@ -52,8 +52,8 @@ In the course of providing you with our services and through your interactions w
   7. Children using our services
   8. How we secure your information
   9. Your rights and choices
-  10. [Changes to this policy](https://web.archive.org/web/20140625160649id_/http%3A//www.bbcgoodfood.com/changes)
-  11. [Contact Us](https://web.archive.org/web/20140625160649id_/http%3A//www.bbcgoodfood.com/contactus)
+  10. [Changes to this policy](https://web.archive.org/web/20141230130329id_/http%3A//www.bbcgoodfood.com/changes)
+  11. [Contact Us](https://web.archive.org/web/20141230130329id_/http%3A//www.bbcgoodfood.com/contactus)
 
 
 
