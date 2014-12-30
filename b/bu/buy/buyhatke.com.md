@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyhatke.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623203943id_/http%3A//compare.buyhatke.com/products/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyhatke.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230072549id_/http%3A//compare.buyhatke.com/products/privacy.php) for the most accurate reproduction.*
 
 # Privacy || Compare Hatke
 
