@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624030759id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042731id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Scholastic Privacy Policy | Your Privacy Rights
 
 Scholastic knows that your privacy is important to you, and we want you to know that it is important to us too. Unless otherwise specified in connection with a particular activity, this Policy explains the types of information we collect through our Web sites, online services or applications on which this Policy is posted (each, a "Site"), how we will use, disclose and protect this information once it is collected, and how you can opt out of some of our uses and disclosures of your information. By visiting our Site, you agree to the terms of this Privacy Policy.
 
 Here are a few general things to keep in mind as you read this Policy:
+
+  * Our [Scholastic Education Technology Products Privacy Policy](https://web.archive.org/edtechprivacy.htm), not this Privacy Policy, applies to our collection and use of data collected from schools, teachers, parents and students through our educational software products.
+  
 
   * The Site is owned and operated by Scholastic Inc. or one or more of its corporate affiliates (referred to collectively in this policy as "we," "us," "our" and other similar pronouns).
   
@@ -35,7 +38,7 @@ Here are a few general things to keep in mind as you read this Policy:
 
 You may have the right to opt in to or opt out of certain of our uses and disclosures of your Personal Information. For example, we may ask you if you want to get marketing messages from us when you submit Personal Information to us on the Site. If you do get marketing emails from us, you can tell us you don't want to get them by clicking on the opt-out link in those emails.
 
-Or, write to us: **Opt-Out Request, Scholastic Inc., 557 Broadway, New York, NY 10012**. Please include your name, address, email and phone number and tell us if you want us to stop sharing your Personal Information with third parties for marketing purposes, or if you want us to stop sending a particular kind of communication. If you are writing about a communication sent to you by Scholastic, please include the name or type of the communication and, if applicable, the name of the specific Scholastic entity or business.
+Or, contact us through this [form](http://scholastic.custhelp.com/app/ask/p/82/incidents.subject/Third%20Party%20Opt%20Out%20Request) or write to us at: **Opt-Out Request, Scholastic Inc., 557 Broadway, New York, NY 10012**. Please include your name, address, email and phone number and tell us if you want us to stop sharing your Personal Information with third parties for marketing purposes, or if you want us to stop sending a particular kind of communication. If you are writing about a communication sent to you by Scholastic, please include the name or type of the communication and, if applicable, the name of the specific Scholastic entity or business.
 
 It may take us a few days to process any opt-out request. In addition, if you opt out of having your Personal Information shared with third parties for marketing purposes, you may continue to receive communications from third parties who received your Personal Information from us before we processed your opt-out. To stop receiving such communications, please contact the third party directly.
 
@@ -179,9 +182,10 @@ Phone: 1-800-SCHOLASTIC
 
 This Privacy Policy replaces our former privacy policy which you can find posted [here](http://www.scholastic.com/privacy.htm).
 
-**Effective Date:** November 21, 2013
+**Effective Date:** November 21, 2013  
+Updated July 2014 to add links to Opt-Out Request Form and Scholastic Education Technology Products Privacy Policy. 
 
- **Scholastic Kids (Under 13) Privacy Policy**
+**Scholastic Kids (Under 13) Privacy Policy**
 
 This Kids Privacy Policy applies to information we collect from users of our Sites, online services or applications directed to children who are under the age of 13 (our "Kid Sites"). When we use the word "kid" or "child" in this Policy, we mean a user under the age of 13. When we use the word "parent" in this Policy, we mean a kid's parent or legal guardian. The operators of our Kids Sites are listed here. Each Kids Site's operator is referred to in this Kids Privacy Policy as "we," "us," "our" or other similar pronouns. Some of our Kids Sites may have additional privacy policies, terms of use, site descriptions or Frequently Asked Questions that add to this Kids Privacy Policy by giving more details about what kids can do there, and how we use Personal Information collected there. 
 
@@ -349,18 +353,6 @@ Phone: 800-SCHOLASTIC
 New York, NY 10012  
 Email: custserv@scholastic.com  
 Phone: 800-SCHOLASTIC  
-[Storia eReading App](https://store.scholastic.com/SchWS/html/CMS_Includes/CoppaPolicyCopy.html) | Scholastic Storia Inc.  
-557 Broadway  
-New York, NY 10012  
-Email: storia@scholastic.com  
-Phone: 1-855-Storia1
-
-Scholastic Book Clubs, Inc.  
-2931 East McCarthy Street  
-Jefferson City, MO 65101  
-Email: custserv@scholastic.com  
-Phone: 800-SCHOLASTIC  
-  
 [Scholastic Summer Reading Challenge](https://web.archive.org/readingcampaign/privacy-policy.htm) | Scholastic Inc.  
 557 Broadway  
 New York, NY 10012  
