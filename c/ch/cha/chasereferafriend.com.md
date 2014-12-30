@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chasereferafriend.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630174421id_/http%3A//www.chase.com/ccp/index.jsp%3Fpg_name%3Dccpmapp/shared/assets/page/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chasereferafriend.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230100933id_/http%3A//www.chase.com/ccp/index.jsp%3Fpg_name%3Dccpmapp/shared/assets/page/Privacy_Policy) for the most accurate reproduction.*
 
 # Chase Online Security Center | Online Privacy Policy
 
@@ -16,6 +16,10 @@ The Chase product or service you selected is not available in the ZIP code you e
 
 You may have an Ad Block program enabled. Please disable the Ad Block program in your browser and then enter your ZIP code. For more information about our products or services, please [Contact Us](https://www.chase.com/online/services/customer-service-support.htm)
 
+Product offerings and features may differ among geographic locations. With your ZIP code, we can make sure you see accurate information.
+
+If you live outside the United States, please visit[www.chase.com/IFS](https://www.chase.com/IFS) to learn more about Chase International Financial Services.
+
 End overlay
 
 |
@@ -26,6 +30,8 @@ End overlay
 
 
 [](https://www.chase.com/)
+
+[Printer Friendly version (PDF)](https://web.archive.org/content/dam/chasecom/en/resources/documents/Online_Privacy_Policy.pdf)
 
 **Last Updated: November 17, 2013**
 
@@ -74,7 +80,7 @@ We use the information discussed above in a number of ways, such as:
   * Responding to your requests and communicating with you;
   * Managing your preferences;
   * Performing analytics concerning your use of our online services, including your responses to our emails and the pages and advertisements you view;
-  * Providing you tailored content and marketing messages;   
+  * Providing you tailored content and marketing messages;  
 
   * Operating, evaluating and improving our business (including developing new products and services; improving existing products and services; performing data analytics; and performing accounting, auditing and other internal functions);
   * Complying with and enforcing applicable legal requirements, relevant industry standards, contractual obligations and our policies; and
@@ -104,7 +110,7 @@ We, or our service providers, and other companies we work with may deploy and us
   *  “Cookies” are small amounts of data a website can send to a visitor’s web browser.  They are often stored on the device you are using to help track your areas of interest.  Cookies may also enable us or our service providers and other companies we work with to relate your use of our online services over time to customize your experience.  Most web browsers allow you to adjust your browser settings to decline or delete cookies, but doing so may degrade your experience with our online services.  
 
   * Clear GIFs, pixel tags or web beacons—which are typically one-pixel, transparent images located on a webpage or in an email or other message—or similar technologies may be used on our sites and in some of our digital communications (such as email or other marketing messages).  They may also be used when you are served advertisements or you otherwise interact with advertisements outside of our online services.  These are principally used to help recognize users, assess traffic patterns and measure site or campaign engagement. 
-  * Local Shared Objects, sometimes referred to as “flash cookies” may be stored on your hard drive using a media player or other software installed on your device.  Local Shared Objects are similar to cookies in terms of their operation, but may not be managed in your browser in the same way.  For more information on managing Local Shared Objects, [click here](http://www.adobe.com/security/flashplayer/articles/lso/).
+  * Local Shared Objects, sometimes referred to as “flash cookies” may be stored on your hard drive using a media player or other software installed on your device.  Local Shared Objects are similar to cookies in terms of their operation, but may not be managed in your browser in the same way.  For more information on managing Local Shared Objects, [click here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
 
 
 
