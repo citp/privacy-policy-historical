@@ -1,65 +1,43 @@
-> *The following text is extracted and transformed from the hheaven.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115613id_/http%3A//www.hheaven.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hheaven.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230164910id_/http%3A//www.hheaven.com/policies/privacy-policy.html) for the most accurate reproduction.*
 
-# H. Heaven Auto Repair & Service | Our Online Privacy Policy
+# Privacy Policy
 
-**What information do we collect?**
+H.Heaven Auto Repair thanks you for accessing or using this web site (the “Site”). H.Heaven Auto Repair wants to assure you that H.Heaven Auto Repair respects your privacy. H.Heaven Auto Repair knows that trust is the key to any successful business relationship. The following Privacy Policy describes H.Heaven’s commitment to protect your personal information. Use of this Site constitutes your consent to the collection and use of the information as described below in this Privacy Policy. If H.Heaven Auto Repair changes this Privacy Policy, H.Heaven Auto Repair will update this page of the Site so that you will be aware of any changes to this policy. H.Heaven Auto Repair encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. This Privacy Policy explains how H.Heaven Auto Repair collects, uses and discloses your personal information. This Privacy Policy also explains the steps H.Heaven Auto Repair has taken to ensure that your personal information is secure. Finally, this Privacy Policy explains your choices regarding the collection, use and disclosure of your personal information.
 
-We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.
+THE SITE INCLUDES LINKS TO THE WEB SITES OF THIRD PARTIES. WE PROVIDE THESE LINKS AS A CONVENIENCE TO OUR USERS. THE INCLUSION OF ANY LINK DOES NOT IMPLY H.HEAVEN AUTO REPAIR’S ENDORSEMENT OF ANY COMPANY, ITS WEB SITE, OR THE PRODUCTS AND SERVICES IT SELLS. PLEASE NOTE THAT H.HEAVEN AUTO REPAIR IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY WEB SITE OTHER THAN OUR OWN SITE. THE SITE MAY ALSO INCLUDE CERTAIN PAGES THAT ARE “FRAMED” TO PROVIDE INFORMATION FROM WEB SITES OF THIRD PARTIES. SUCH FRAMED PAGES WILL BE IDENTIFIED ON THE PAGE AND THE PAGE OWNER IDENTIFIED. WE PROVIDE THESE FRAMED PAGES AS A CONVENIENCE TO OUR USERS. PLEASE NOTE THAT H.HEAVEN AUTO REPAIR IS NOT RESPONSIBLE FOR ANY CONTENT OR THE PRIVACY PRACTICES OF ANY FRAMED PAGES. THE TERMS AND POLICIES OF THE PAGE OWNER IDENTIFIED ON THE FRAMED PAGE WILL CONTROL.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
+## Information Collection and Use
 
-**What do we use your information for?**
+1.Information Collection.
 
-Any of the information we collect from you may be used in one of the following ways:
+H.Heaven Auto Repair may collect information from you at several different points and in different ways on this Site H.Heaven Auto Repair will ask you for your permission before H.Heaven Auto Repair collects any information that personally identifies you or allows H.Heaven Auto Repair to contact you. H.Heaven Auto Repair’s primary goal in collecting personal information from you is to provide you with an efficient, meaningful and customized experience.
 
-  * To send periodic emails
-    * The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+For example, H.Heaven Auto Repair can use your personal information to:
 
+• make this Site easier for you to use by not having to enter information more than once.
 
+• help you quickly find information and services.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+• help H.Heaven Auto Repair create content on this Site that is most relevant to you.
 
-**How do we protect your information?**
+**(a) Registration.** To use this Site, or certain portions or features of the Site, you may be required to first complete an online registration form. During registration you will be prompted to provide to H.Heaven Auto Repair certain personal information, including but not limited to your name, address, phone number and email address.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+**(b) Cookies.** “Cookies” are small pieces of information that are stored by a user’s Internet browser on a user’s hard drive. The Site may store some information on your computer in the form of a cookie or similar file, however This Site does not use permanent cookies that contain any personally identifying information, such as your name or address. The cookies allow us to recognize you when you return to our site and to provide you with a customized experience that we feel will be of value to you. Most web browsers allow you to exercise control over cookie files on your computer by erasing them, blocking them, or notifying you when such a file is stored. Please take a look at your particular browser for instructions on this function. If you do elect to disable the Site’s cookies, please note that you may not be able to take full advantage of the Site.
 
-**Do we use cookies?**
+**(c) Log Files**. This Site automatically collects information pertaining to Your access. Such information may include Your Internet protocol (“IP”) address as well as other connection and usage information for system administration and troubleshooting purposes. (An IP address indicates the location of Your computer on the Internet.) H.Heaven Auto Repair does not link an IP address to any personally identifiable information.
 
-We do not use cookies.
+Children’s Online Privacy Protection Act (COPPA). This Site is a website directed to the general public. H.Heaven Auto Repair does not knowingly collect information from children under 13.
 
-**Do we disclose any information to outside parties?**
+2\. Information Use and Disclosure.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**(a) Internal Use**. H.Heaven Auto Repair may identify you in connection with your use of certain aspects of this Site. For example, H.Heaven Auto Repair may identify you by vehicle or tire ownership to provide you with information on related products and/or promotions. H.Heaven Auto Repair may internally use your personal information to improve H.Heaven Auto Repair’s marketing and promotional efforts, to improve the Site’s content and/or layout, and to determine general marketplace information about visitors to this Site.
 
-**Third party links**
+**(b) External Use.** H.Heaven Auto Repair does not sell, rent, license or otherwise disclose your specific personal information to any third parties, excluding affiliated companies, without your consent. Occasionally, H.Heaven Auto Repair may provide statistics to outside parties about the usage of our site, but these statistics will never include any personal information about our users. H.Heaven Auto Repair may disclose your personal information pursuant to a court or government order. H.Heaven Auto Repair will not share your information with affiliated companies. Please note that because a customer information database is customarily considered a business asset, H.Heaven Auto Repair reserves the right to transfer the database in a merger or sale of some or all of its company or in an action for bankruptcy. Your information will continue to be treated in accordance with this Privacy Policy by the acquiring or merged company unless you are notified and provided an opportunity to change your preferences. Data Security This Site incorporates various physical, electronic and administrative procedures to safeguard the confidentiality of your personal information. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Finally, the servers where H.Heaven Auto Repair stores your personal information are kept in a secure environment, behind locked doors and a firewall. WHILE H.HEAVEN AUTO REPAIR HAS TAKEN COMMERCIALLY REASONABLE PRECAUTIONS TO SAFEGUARD YOUR PERSONAL INFORMATION, H.HEAVEN AUTO REPAIR CANNOT GUARANTEE COMPLETE SECURITY BECAUSE COMPLETE SECURITY DOES NOT PRESENTLY EXIST ON THE INTERNET.
 
-**California Online Privacy Protection Act Compliance**
+**Opt Out/Corrections:** Upon your request, H.Heaven Auto Repair will (a) remove your personal information from H.Heaven Complete Auto Repair’s database (which might cancel your subscription to this Site or a portion of this Site); or (b) correct or update your personal information. You can request that H.Heaven Auto Repair remove, correct or update your personal information at the “Contact Us” section of this Site.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Updates to This Policy If H.Heaven Auto Repair decides to change or update this Privacy Policy, H.Heaven Auto Repair will post changes and updates on this Site so that you will always be aware of what information H.Heaven Auto Repair collects, uses and distributes. H.Heaven Auto Repair encourages you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about H.Heaven Auto Repair’s Privacy Policy, please use the “Contact Us” section of this Site.
 
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Your Consent**
-
-By using our site, you consent to our online privacy policy.
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below or [click here](https://web.archive.org/web/20140625115613id_/http%3A//www.hheaven.com/contact-us.asp) to contact us online.
-
-**H. Heaven Auto Repair & Service**  
-(714) 841-1949   
-18471 Repair Ln  
-Huntington Beach, CA 92648
+Published on 7/30/2014
