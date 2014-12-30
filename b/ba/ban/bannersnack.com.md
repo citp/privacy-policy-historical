@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bannersnack.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142055id_/http%3A//www.snacktools.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannersnack.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230184507id_/http%3A//www.snacktools.com/en/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # SnackTools | Creative web applications
 
 Last modified: March 19, 2013
 
-Thank you for visiting SnackTools network sites (Smartketer.com, SnackTools.com, SnackWebsites.com, BannerSnack.com, PhotoSnack.com, PodSnack.com, TubeSnack.com, PollSnack.com, FlipSnack.com, SlideSnack.com, FileSnack.com or "Sites") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Sites unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from SnackTools network sites ("Sites").
+Thank you for visiting SnackTools network sites (Smartketer.com, SnackTools.com, SnackWebsites.com, BannerSnack.com, PhotoSnack.com, PodSnack.com, TubeSnack.com, PollSnack.com, FlipSnack.com, SlideSnack.com or "Sites") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Sites unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from SnackTools network sites ("Sites").
 
 We do not collect nor distribute private data such as credit card numbers at all. Some personal information is recorded for SnackTools account purposes. All passwords are non-reversible encrypted (MD5) before being saved to the data base, to ensure that they (and your personal information) cannot be stolen from us, even in case of a hacking attack. We do not collect any passwords at all for users that are connecting using the Facebook Connect API as well as for those connecting with Twitter, Google and Yahoo APIs.
 
@@ -100,7 +100,7 @@ The materials found on the SnackTools network sites are protected by United Stat
 
 **_Trademarks_**
 
-SnackTools.com, BannerSnack.com, PhotoSnack.com, Podsnack.com, TubeSnack.com, PollSnack.com, FlipSnack.com, SlideSnack.com, FileSnack.com, SanckWebsites.com and Smartketer are trademarks and service marks of Smartketer LLC. For more information, please see the Terms of Service.
+SnackTools.com, BannerSnack.com, PhotoSnack.com, Podsnack.com, TubeSnack.com, PollSnack.com, FlipSnack.com, SlideSnack.com, SanckWebsites.com and Smartketer are trademarks and service marks of Smartketer LLC. For more information, please see the Terms of Service.
 
 ### What Happens When We Update Our Privacy Policy?
 
