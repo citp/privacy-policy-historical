@@ -1,33 +1,7 @@
-> *The following text is extracted and transformed from the hifisoundconnection.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523200700id_/http%3A//www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifisoundconnection.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230031956id_/http%3A//www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HiFiSoundConnection
 
-[](http://www.hifisoundconnection.com/HiFiSoundConnection-Gift-Certificates "gift certificates")
-
-  
-
-
-[](http://www.hifisoundconnection.com/Shop/Control/fp/cat/269876/SFV/30046/set_num/2 "Kicker Sale Banner")
-
-[](http://www.hifisoundconnection.com/Shop/Control/fp/cat/270010/SFV/30046/set_num/2 "ipod Sale banner")
-
-**Get Exclusive Deals**
-
-  * Deal Previews
-  * Exclusive Coupons
-  * Sweepstakes
-  * The Best Deals
-
-
-
-| 
-
-|  | 
-
-40,000 sq ft of Electronics Ready to Ship  
-  
----|---  
-  
 **Privacy Statement for hifisoundconnection.com**  
 HiFiSoundconnection.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: hifisoundconnection.com 
 
@@ -54,4 +28,8 @@ HiFiSoundconnection.com has created this privacy statement in order to demonstra
 
   
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [**sales@hifisoundconnection.com**](mailto:sales@hifisoundconnection.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [**sales@hifisoundconnection.com**](mailto:sales@hifisoundconnection.com)  
+  
+[ ](http://www.hifisoundconnection.com/Shop/Control/fp/cat/38259/SFV/30046/set_num/2.htm)
+
+2001- 2014 HiFi Sound Connection. All Rights Reserved 
