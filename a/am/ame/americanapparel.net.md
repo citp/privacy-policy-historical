@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanapparel.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625233421id_/http%3A//www.americanapparel.net/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanapparel.net privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230111539id_/http%3A//www.americanapparel.net/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # American Apparel | Fashionable Basics. Sweatshop Free. Made in USA.
 
@@ -224,4 +224,4 @@ Attention: Privacy Officer
 747 Warehouse St.  
 5th Floor - IT  
 Los Angeles, CA 90021  
-Privacy@AmericanApparel.net 
+Privacy@AmericanApparel.net
