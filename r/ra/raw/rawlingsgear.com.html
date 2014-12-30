@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the rawlingsgear.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625051024id_/http%3A//www.rawlingsgear.com/policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rawlingsgear.com privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230053755id_/http%3A//www.rawlingsgear.com/policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="description" content="Rawlings sizing charts for baseball and softball equipment in adult and youth sizes.">
 	<meta name="keywords" content="baseball protective, softball protective, sizing charts, size charts, rawlings, Rawlings">
 	<link rel="stylesheet" type="text/css" href="/includes/main.css" media="all">
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6D86Q"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/includes/javascripts.js"></script>
+	<script id="ltkSDK" src="https://cdn.listrakbi.com/scripts/script.js?m=DsrxfDDHnwQZ&amp;v=1"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P6D86Q"></script><script type="text/javascript" async="" src="https://secure-cdn.mplxtms.com/s/MasterTMS.min.js#1521"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="/includes/javascripts.js"></script>
 	<title>Customer Help, Ordering | RawlingsGear</title>
 	
 <script type="text/javascript" src="/includes/javascripts/seller_active_redirect.js"></script>
@@ -65,10 +65,14 @@ var google_remarketing_only = true;
   })();
 </script>
 <!-- END: Google Trusted Stores -->
-<script type="text/javascript" src="https://www.livehelpnow.net/lhn/scripts/livehelpnow.aspx?lhnid=15628&amp;iv=1&amp;d=0&amp;ver=5.3&amp;rnd=0.2312561578004535"></script><script type="text/javascript" src="https://www.livehelpnow.net/lhn/js/build/helppanel.ashx"></script><link rel="stylesheet" type="text/css" href="https://www.rawlingsgear.com/includes/RawlingsChat_popout.css"></head>
+<script type="text/javascript" src="https://www.livehelpnow.net/lhn/scripts/livehelpnow.aspx?lhnid=15628&amp;iv=1&amp;d=0&amp;ver=5.3&amp;rnd=0.4098435768235975"></script><script type="text/javascript" src="https://www.livehelpnow.net/lhn/js/build/helppanel.ashx"></script><link rel="stylesheet" type="text/css" href="https://www.rawlingsgear.com/includes/RawlingsChat_popout.css"></head>
 <body>
 	<!-- insert top nav-->
-	<!-- Google Tag Manager -->
+	<!-- CJ  Affiliate Javascript Code -->
+<script>/*DO NOT ALTER *** New Site*/(function(e){var t="1521",n=document,r,i,s={http:"http://cdn.mplxtms.com/s/MasterTMS.min.js",https:"https://secure-cdn.mplxtms.com/s/MasterTMS.min.js"},o=s[/\w+/.exec(window.location.protocol)[0]];i=n.createElement("script"),i.type="text/javascript",i.async=!0,i.src=o+"#"+t,r=n.getElementsByTagName("script")[0],r.parentNode.insertBefore(i,r),i.readyState?i.onreadystatechange=function(){if(i.readyState==="loaded"||i.readyState==="complete")i.onreadystatechange=null}:i.onload=function(){try{e()}catch(t){}}})(function(){});</script>
+<!-- End CJ Javascript Code -->
+
+<!-- Google Tag Manager -->
  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P6D86Q"
  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
@@ -102,9 +106,61 @@ jQuery(document).ready(function(){
 			
 			//$('#cart_drop').hover(function() { $('#cart_drop').show();  }, function(){ $('#cart_drop').hide();  });
 			//$('#new_shopcart, #cart_drop').hover(function() { $('#cart_drop').stop().slideDown();  }, function(){ $('#cart_drop').stop().slideUp(5);  });			
-			//$('#new_shopcart, #cart_drop').hover(function() { $('#cart_drop').stop().slideDown();  }, function(){ $('#cart_drop').stop().hide();  });			
+			//$('#new_shopcart, #cart_drop').hover(function() { $('#cart_drop').stop().slideDown();  }, function(){ $('#cart_drop').stop().hide();  });		
+			
+			//Loyalty History Table
+			var row = $('.itemHistoryTable tr');	
+			
+			$('.itemHistoryTable th').click(function(){
+                var table = $('.itemHistoryTable').eq(0);
+				row.removeClass();
+				var rows = table.find('tr:gt(0)').toArray().sort(comparer($(this).index()));
+				this.asc = !this.asc;
+				if (!this.asc){rows = rows.reverse()}
+				for (var i = 0; i < rows.length; i++){table.append(rows[i])}
+				$('.itemHistoryTable tr:even:not(:first)').addClass('grayBg');
+			});
+			function comparer(index) {
+				return function(a, b) {
+					var valA = getCellValue(a, index), valB = getCellValue(b, index);
+					return (!isNaN(parseFloat(valA)) && !isNaN(parseFloat(valB))) ? valA - valB : valA.localeCompare(valB);
+				}
+			}
+			function getCellValue(row, index){ return $(row).children('td').eq(index).html(); }		
+
+            $('.itemHistoryTable tr:even').addClass('grayBg');		
+			$('#Enrollment').hover(function(){
+				row.removeClass();
+				addClasses('Enrollment');
+			},function(){ colorGrid() });		
+			$('#Issuance').hover(function(){
+				row.removeClass();
+				addClasses('Issuance');
+			},function(){ colorGrid() });		
+			$('#Redemption').hover(function(){
+				row.removeClass();
+				addClasses('Redemption');
+			},function(){ colorGrid() });		
+			$('#Merchandise_Return').hover(function(){
+				row.removeClass();
+				addClasses('Merchandise_Return');
+			},function(){ colorGrid() });		
+			
+			function addClasses(inSpanId) {
+				var selectedRow = $('.itemHistoryTable tr:contains(' + inSpanId.replace("_", " ") + ')');
+				selectedRow.addClass('grayBg');
+			}
+			function colorGrid() {
+				var evenTr = $('.itemHistoryTable tr:even:not(:first)');
+				row.removeClass();
+				evenTr.addClass('grayBg');
+			}
+			if( $('.itemHistory').length < 4 ) {
+				$('#itemHistoryTotalsFooter').hide();
+			}
+			//End Loyalty Table
 		});
-		
+
 function buildCartDrop(){		
 			$('#cart_drop').show();
 			if ($('#cartDropUL li').length > 5) {
@@ -129,8 +185,6 @@ function cartCheck(){
 		$('#cart_drop').hide();
 	}
 }
-
-				
 </script> 
 
 
@@ -170,13 +224,15 @@ function cartCheck(){
 		<table cellspacing="0" cellpadding="0">
 			<tbody><tr>
 				<td><img src="/images/Header_Footer_new/ShipLinks_RedCap.png"></td>
-				<td class="ql_red">Get FREE Shipping on orders over $125.00*   &nbsp;&nbsp;<a href="http://www.rawlingsgear.com/shipping_delivery.asp">Details</a> </td>
+				<td class="ql_red">FREE Shipping $125.00*   &nbsp;&nbsp;<a href="http://www.rawlingsgear.com/shipping_delivery.asp">Details</a> </td>
 				<td><img src="/images/Header_Footer_new/ShipLinks_ColorDivider.png"></td>
 				<td class="ql_black">
+					
 					<a href="http://www.RawlingsGear.com/news/" title="rawlings gear news">news</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="http://www.RawlingsGear.com/customer/my_account.asp" title="access my account">my account</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="https://www.RawlingsGear.com/customer/my_account.asp" title="access my account">my account</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="http://www.RawlingsGear.com/customer-help/your_order.asp#tracking">order status</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="http://www.RawlingsGear.com/gift_cards.asp">gift card</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					<a href="http://www.RawlingsGear.com/loyalty/RawlingsRewards.asp">rewards</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="http://www.RawlingsGear.com/customer-help/customer-help.asp">help</a>
 				</td>
 				<td><img src="/images/Header_Footer_new/ShipLinks_BlackCap.png"></td>
@@ -218,7 +274,7 @@ function cartCheck(){
 				<td valign="top"><img src="/images/Header_Footer_new/MainNav_RedCap.png" alt="divider"></td>
 				<td>
 					<ul class="sf-menu">
-						<li class="redItem"><a href="/baseball">BASEBALL</a>	
+						<li class="redItem"><a href="http://www.RawlingsGear.com/baseball">BASEBALL</a>	
 							<ul style="width: 375px;">
 								<li class="navHighlights"><div class="hlHead">HIGHLIGHTS</div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=bb&amp;hl=sale">On Sale</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/dailydeal">Daily Deal</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=BB&amp;hl=clearance">Clearance</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/custom">Custom Gear</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=bb&amp;hl=exclusive">Exclusives</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/gift_cards.asp">Gift Cards</a></div></li>
 								<li style="color:black;font-size:14px;padding-top:15px;padding-right:150px;padding-bottom:8px;">CATEGORIES</li>
@@ -241,7 +297,7 @@ function cartCheck(){
 				<td valign="top"><img src="/images/Header_Footer_new/MainNav_Divider.png" alt="divider"></td>
 				<td>
 					<ul class="sf-menu">
-			 			<li class="redItem"><a href="/softball">SOFTBALL</a>
+			 			<li class="redItem"><a href="http://www.RawlingsGear.com/softball">SOFTBALL</a>
 							<ul style="width: 375px;">
 								<li class="navHighlights"><div class="hlHead">HIGHLIGHTS</div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=sb&amp;hl=sale">On Sale</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/dailydeal">Daily Deal</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=SB&amp;hl=clearance">Clearance</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/custom">Custom Gear</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=sb&amp;hl=exclusive">Exclusives</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/gift_cards.asp">Gift Cards</a></div></li>
 								<li style="color:black;font-size:14px;padding-top:15px;padding-right:150px;padding-bottom:8px;">CATEGORIES</li>
@@ -263,7 +319,7 @@ function cartCheck(){
 				<td valign="top"><img src="/images/Header_Footer_new/MainNav_Divider.png" alt="divider"></td>
 				<td>
 					<ul class="sf-menu">
-						<li class="redItem"><a class="main" href="/football">FOOTBALL</a>
+						<li class="redItem"><a class="main" href="http://www.RawlingsGear.com/football">FOOTBALL</a>
 							<ul style="width: 375px;">
 								<li class="navHighlights"><div class="hlHead">HIGHLIGHTS</div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=fb&amp;hl=sale">On Sale</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/dailydeal">Daily Deal</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=FB&amp;hl=clearance">Clearance</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/custom">Custom Gear</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/gift_cards.asp">Gift Cards</a></div></li>
 								<li style="color:black;font-size:14px;padding-top:15px;padding-right:150px;padding-bottom:8px;">CATEGORIES</li>
@@ -282,7 +338,7 @@ function cartCheck(){
 				<td valign="top"><img src="/images/Header_Footer_new/MainNav_Divider.png" alt="divider"></td>
 				<td>
 					<ul class="sf-menu">
-						<li class="redItem"><a class="main" href="/basketball">BASKETBALL</a>
+						<li class="redItem"><a class="main" href="http://www.RawlingsGear.com/basketball">BASKETBALL</a>
 							<ul style="width:260px;">
 								<li class="navHighlights"><div class="hlHead">HIGHLIGHTS</div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=bkb&amp;hl=sale">On Sale</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/dailydeal">Daily Deal</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=BKB&amp;hl=clearance">Clearance</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/custom">Custom Gear</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/gift_cards.asp">Gift Cards</a></div></li>
 								<li style="color:black;font-size:14px;padding-top:15px;padding-right:20px;padding-bottom:8px;">CATEGORIES</li>
@@ -296,7 +352,7 @@ function cartCheck(){
 				<td valign="top"><img src="/images/Header_Footer_new/MainNav_Divider.png" alt="divider"></td>
 				<td>
 					<ul class="sf-menu">
-						<li class="redItem" style="width:130px;"><a class="main" href="/specialty">SPECIALTY ITEMS</a>
+						<li class="redItem" style="width:130px;"><a class="main" href="http://www.RawlingsGear.com/specialty">SPECIALTY ITEMS</a>
 							<ul style="width: 260px;">
 								<li class="navHighlights"><div class="hlHead">HIGHLIGHTS</div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=sp&amp;hl=sale">On Sale</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/dailydeal">Daily Deal</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=SP&amp;hl=clearance">Clearance</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/custom">Custom Gear</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/main_category_products.asp?cat=sp&amp;hl=exclusive">Exclusives</a></div><div class="hlItem"><a href="http://www.rawlingsgear.com/gift_cards.asp">Gift Cards</a></div></li>
 								<li style="color:black;font-size:14px;padding-top:15px;padding-right:20px;padding-bottom:8px;">CATEGORIES</li>
@@ -309,11 +365,11 @@ function cartCheck(){
 				</td>
 				<td valign="top"><img src="/images/Header_Footer_new/MainNav_Divider.png" alt="divider"></td>
 				<td class="grayItem">
-					<a href="/custom"><span class="black">CUSTOM</span></a>
+					<a href="http://www.RawlingsGear.com/custom"><span class="black">CUSTOM</span></a>
 				</td>
 				<td valign="top"><img src="/images/Header_Footer_new/MainNav_Divider.png" alt="divider"></td>
 				<td class="grayItem" valign="middle">
-					<a href="/clearance"><span class="black">CLEARANCE</span></a>
+					<a href="http://www.RawlingsGear.com/clearance"><span class="black">CLEARANCE</span></a>
 				</td>
 				<td class="blackSpace">
 				</td>
@@ -467,6 +523,7 @@ function cartCheck(){
 		<td valign="top">
 				<ul>
 					<li><a href="http://www.RawlingsGear.com/gift_cards.asp">gift cards</a></li>
+					<li><a href="http://www.RawlingsGear.com/loyalty/RawlingsRewards.asp">rewards</a></li>
 					<li><a href="http://www.rawlings.com/dealerlocator.aspx" target="_blank">dealer locator</a></li>
 					<li><a href="http://www.RawlingsGear.com/customer-help/catalog_download.asp">download a catalog</a></li>
 					<li><a href="http://www.RawlingsGear.com/customer-help/ordering.asp#team_sales">team or group sales</a></li>
@@ -490,6 +547,8 @@ function cartCheck(){
 					<li><strong>Hours:</strong> Friday: 8 am - 8 pm ET</li>
 					<li><strong>Saturday:</strong> 10 am - 6 pm ET</li>
 					<li><strong>Sunday:</strong> Closed</li>
+					<!--<li><strong>Thanksgiving: Closed Thursday 11/27 - 11/30</strong></li>-->
+					<li><strong>For Holiday Hours <a href="http://www.rawlingsgear.com/customer-help/customer-help.asp">CLICK HERE</a></strong></li>
 					<li><br>We offer <span class="red">FREE</span> Returns!<br>See <a href="http://www.rawlingsgear.com/customer-help/returns.asp#return"><span style="color:#B50007">details for bats.</span></a></li>
 
 				</ul>
@@ -544,8 +603,9 @@ _gaq.push(['_trackPageLoadTime']);
 	s.parentNode.insertBefore(ga, s); })();
 </script>-->
 
-<iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=3671" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+<iframe src="//pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=3671" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 </div>
+
 
 
 
@@ -602,7 +662,31 @@ _gaq.push(['_trackPageLoadTime']);
 			loadLHNFiles();
 		});
 	}
+</script>
+
+<!-- Listrak Analytics - Submit Tracking Click -->
+<script type="text/javascript">	
+        (function(d) { if (document.addEventListener) document.addEventListener('ltkAsyncListener', d);
+        else {e = document.documentElement; e.ltkAsyncProperty = 0; e.attachEvent('onpropertychange', function (e) {
+        if (e.propertyName == 'ltkAsyncProperty'){d();}});}})(function() {
+            /********** Begin Custom Code **********/
+            _ltk.Click.Submit();
+            /********** End Custom Code **********/
+        });
+</script>
+<!-- Listrak Analytics - Script Source -->
+<script type="text/javascript">
+        var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+        (function (d, s, id, tid, vid) {
+            var js, ljs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+            js.src = biJsHost + "cdn.listrakbi.com/scripts/script.js?m=" + tid + "&v=" + vid;
+            ljs.parentNode.insertBefore(js, ljs);
+        })(document, 'script', 'ltkSDK', 'DsrxfDDHnwQZ', '1');
 </script><div id="lhnChatButton"></div>
+
+
+
 
 
 
