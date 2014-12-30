@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627194317id_/http%3A//www.petco.com/petco_Page_PC_helplist_ContentID_3040_TopicID_8.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230111908id_/http%3A//www.petco.com/petco_Page_PC_helplist_ContentID_3040_TopicID_8.aspx) for the most accurate reproduction.*
 
 # Help List
 
