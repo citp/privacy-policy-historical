@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061148id_/http%3A//asdk12.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230233514id_/http%3A//www.asdk12.org/privacy) for the most accurate reproduction.*
 
 # Privacy & Terms of Use - ASD Online - The website of the Anchorage School District
 
 ## Educating All Students for Success in Life
 
-[](https://web.archive.org/)
+[](http://www.asdk12.org/)
 
-  * [Home](https://web.archive.org/)
+  * [Home](http://www.asdk12.org/)
   
-  * [Site index](https://web.archive.org/siteindex/)
+  * [Site index](http://www.asdk12.org/siteindex/)
   
   * [myASD](http://www.asdk12.org/myasd/login.asp)
 
 
 
-  * [schools](https://web.archive.org/aboutschools/)
-  * [departments](https://web.archive.org/depts/)
-  * [school board](https://web.archive.org/school_board/)
-  * [zangle](https://web.archive.org/zangle/)
-  * [parents](https://web.archive.org/parents/)
-  * [students](https://web.archive.org/students/)
-  * [employees](https://web.archive.org/employees/)
+  * [schools](http://www.asdk12.org/aboutschools/)
+  * [departments](http://www.asdk12.org/depts/)
+  * [school board](http://www.asdk12.org/school_board/)
+  * [zangle](http://www.asdk12.org/zangle/)
+  * [parents](http://www.asdk12.org/parents/)
+  * [students](http://www.asdk12.org/students/)
+  * [employees](http://www.asdk12.org/employees/)
 
 
 
