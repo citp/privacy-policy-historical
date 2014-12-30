@@ -1,231 +1,1549 @@
-<!--The following is the downloaded HTML source of the griffintechnology.com privacy policy that was archived on 2006-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060623023728id_/http%3A//griffintechnology.com/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the griffintechnology.com privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230085358id_/http%3A//www.griffintechnology.com/company/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
-
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
-
-<link rel="stylesheet" type="text/css" href="../../assets/css/coreflex.css">
-
-<link rel="stylesheet" type="text/css" href="../../assets/css/misc.css">
-
-<script src="http://walrus.griffininternal.com/assets/javascript/prototype.js" type="text/javascript"></script>
-
-<script src="http://walrus.griffininternal.com/assets/javascript/rico.js" type="text/javascript"></script>
-
-<script src="http://walrus.griffininternal.com/assets/javascript/ajax.js" type="text/javascript"></script>
-
-</head><body><public:component>
-<public:attach event="onpropertychange" onevent="propertyChanged()">
-<script>
-
-var supported = /MSIE (5\.5)|[6789]/.test(navigator.userAgent) && navigator.platform == "Win32";
-var realSrc;
-var blankSrc = "assets/images/blank.gif";
-
-if (supported) fixImage();
-
-function propertyChanged() {
-   if (!supported) return;
-
-   var pName = event.propertyName;
-   if (pName != "src") return;
-   // if not set to blank
-   if ( ! new RegExp(blankSrc).test(src))
-      fixImage();
-};
-
-function fixImage() {
-   // get src
-   var src = element.src;
-
-   // check for real change
-   if (src == realSrc) {
-      element.src = blankSrc;
-      return;
-   }
-
-   if ( ! new RegExp(blankSrc).test(src)) {
-      // backup old src
-      realSrc = src;
-   }
-
-   // test for png
-   if ( /\.png$/.test( realSrc.toLowerCase() ) ) {
-      // set blank image
-      element.src = blankSrc;
-      // set filter
-      element.runtimeStyle.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" +
-                                     src + "',sizingMethod='scale')";
-   }
-   else {
-      // remove filter
-      element.runtimeStyle.filter = "";
-   }
-}
-
+<!DOCTYPE html><html lang="en"><head>
+	<title>Privacy Policy | Griffin Technology</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2">
+<meta name="description" content="Griffin Technology. Cases, chargers, cables, home &amp; car audio for iPhone, iPad, iPod, smartphones, tablet PCs, more. Get more from your tech - Connect to play.">
+<meta name="keywords" content="Griffin Technology, iPhone accessories, mobile accessories">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://store.griffintechnology.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://store.griffintechnology.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+    var BLANK_URL = 'http://store.griffintechnology.com/js/blank.html';
+    var BLANK_IMG = 'http://store.griffintechnology.com/js/spacer.gif';
 </script>
-</public:attach></public:component>
+<![endif]-->
+<!--[if lt IE 9]><style>@font-face{font-family:'Effra';src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_lt-webfont.eot');src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_lt-webfont.eot?#iefix') format('embedded-opentype');font-weight:200;font-style:normal;}@font-face{font-family:'Effra';src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_ltit-webfont.eot');src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_ltit-webfont.eot?#iefix') format('embedded-opentype');font-weight:200;font-style:italic;}@font-face{font-family:'Effra';src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_rg-webfont.eot');src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_rg-webfont.eot?#iefix') format('embedded-opentype');font-weight:400;font-style:normal;}@font-face{font-family:'Effra';src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_it-webfont.eot');src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_it-webfont.eot?#iefix') format('embedded-opentype');font-weight:400;font-style:italic;}@font-face{font-family:'Effra';src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_md-webfont.eot');src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_md-webfont.eot?#iefix') format('embedded-opentype');font-weight:600;font-style:normal;}@font-face{font-family:'Effra';src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_mdit-webfont.eot');src:url('http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/fonts/effra_std_mdit-webfont.eot?#iefix') format('embedded-opentype');font-weight:600;font-style:italic;}</style><script>var e=("abbr,article,aside,audio,canvas,datalist,details,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,time,video").split(',');for(var i=0;i<e.length;i++){document.createElement(e[i]);}</script><![endif]-->
+<!--[if gte IE 9]><link rel="stylesheet" type="text/css" href="http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/css/global-fonts.css" media="all" /><![endif]-->
+<!--[if !IE]><!--><link rel="stylesheet" type="text/css" href="http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/css/global-fonts.css" media="all"><!--<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://store.griffintechnology.com/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://store.griffintechnology.com/skin/frontend/griffin/default/casecreator/css/cart.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://store.griffintechnology.com/skin/frontend/griffin/default/css/magestore/ajaxcart/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://store.griffintechnology.com/skin/frontend/griffin/default/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/css/holiday-styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://store.griffintechnology.com/skin/frontend/griffin/default/css/legal.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://store.griffintechnology.com/skin/frontend/griffin/default/css/print.css" media="print">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W9P9"></script><script type="text/javascript" src="http://store.griffintechnology.com/js/modern/modernizr.custom.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/modern/respond.min.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/magestore/ajaxcart.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/varien/configurable.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/varien/product.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/calendar/calendar.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/calendar/calendar-setup.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/jquery/jquery-1.10.2.min.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/jquery/jquery-ui-1.10.4.min.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/skin/frontend/griffin/default/js/bundle.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/skin/frontend/griffin/default/js/scripts-ck.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/skin/frontend/griffin/default/js/functions-ck.js"></script>
+<link href="http://store.griffintechnology.com/rss/catalog/new/store_id/1/" title="New Products" rel="alternate" type="application/rss+xml">
+<link href="http://store.griffintechnology.com/rss/catalog/special/store_id/1/cid/0/" title="Special Products" rel="alternate" type="application/rss+xml">
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://store.griffintechnology.com/skin/frontend/griffin/default/css/ie8.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://store.griffintechnology.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://store.griffintechnology.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
 
 
-<!--[if lte IE 6]>
-    <style>
-    #header {
-        margin-bottom: -55px;
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.store.griffintechnology.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<meta property="og:site_name" content="Griffin Technology">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Privacy Policy | Griffin Technology">
+<meta property="og:description" content="Griffin Technology. Cases, chargers, cables, home &amp; car audio for iPhone, iPad, iPod, smartphones, tablet PCs, more. Get more from your tech - Connect to play.">
+<meta property="og:image" content="http://store.griffintechnology.com/skin/frontend/griffin/holiday-2014/images/big_gat.png">
+<meta property="og:url" content="http://store.griffintechnology.com/">
+
+
+
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>
+</head>
+<body class=" cms-page-view cms-company-privacy">
+
+<div class="ajaxcart">
+<div id="ajaxcart-load-ajax" style="display:none;">
+    <div class="ajaxcart-overlay">&nbsp;</div>
+    <div class="ajaxcart-loading">        
+		<img alt="Loading..." src="http://store.griffintechnology.com/media/ajaxcart/animation/default/loading3c.gif">
+        <span id="add_to_cart">Loading...</span>
+    </div>
+</div>
+<div class="ajaxcart-animation-mask" style="display: none;"></div>
+<div id="ajaxcart-animation" style="display: none;"></div>
+<div id="ajaxcart-pop-up" style="display: none;">
+    <div class="ajaxcart-popup-overlay" onclick="closeAjaxPopup();">&nbsp;</div>
+    <div>
+        <div id="ajaxcart-content" class="ajaxcart-content bbb">				
+		</div>
+    </div>
+</div>
+    <div id="ajaxcart-continue-shopping" style="display: none;">
+	<a href="#" title="Close" class="close-popup" alt="Close" onclick="closeAjaxPopup();return false;">x</a>
+        <div class="ajaxcart-continue">	
+            <ul class="messages ajaxcart-messages"></ul>
+            <div id="ajaxcart-related"></div>
+            <div class="ajaxcart-footer buttons-set">
+                <div class="ajaxcart-checkout">
+                    <button type="button" class="button" title="Cart" onclick="ajaxcartProcessCheckout();">Go To Cart</button>
+                </div>
+                <div class="ajaxcart-cancel">
+                    <button type="button" class="ajaxcart-btn-continue button nobg" title="Continue shopping" onclick="closeAjaxPopup();">
+						Continue shopping													 (<span id="ajaxcart-coundown">20</span>)
+											</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="ajaxcart-continue-shopping-wishlist" style="display: none;">
+	<a href="#" title="Close" class="close-popup" alt="Close" onclick="closeAjaxPopup();return false;"><em>Close</em></a>
+        <div class="ajaxcart-continue">
+            <ul class="messages-wishlist ajaxcart-messages"></ul>
+            <div id="ajaxcart-related-wishlist"></div>
+            <div class="ajaxcart-footer">
+                <div class="ajaxcart-checkout">
+                    <button type="button" class="button" title="Go to Wishlist" onclick="ajaxcartProcessWishlist();">
+                        <span>
+                            <span>Go to Wishlist</span>
+                        </span>
+                    </button>
+                </div>
+                <div class="ajaxcart-cancel">
+                    <button type="button" class="ajaxcart-btn-continue" title="Continue shopping" onclick="closeAjaxPopup();">
+                        <span class="span">
+                            <span>Continue shopping                                                            (<em id="ajaxcart-coundown">20</em>)
+                            							</span>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="ajaxcart-continue-shopping-compare" style="display: none;">
+	<a href="#" title="Close" class="close-popup" alt="Close" onclick="closeAjaxPopup();return false;"><em>Close</em></a>
+        <div class="ajaxcart-continue">
+            <ul class="messages-compare ajaxcart-messages"></ul>
+            <div id="ajaxcart-related-compare"></div>
+            <div class="ajaxcart-footer">
+                <div class="ajaxcart-checkout" id="compare_button">
+                    <button type="button" class="button" title="Compare" onclick="ajaxcartProcessCompare();">
+                        <span>
+                            <span>Compare</span>
+                        </span>
+                    </button>
+                </div>
+                <div class="ajaxcart-cancel">
+                    <button type="button" class="ajaxcart-btn-continue" title="Continue shopping" onclick="closeAjaxPopup();">
+                        <span class="span">
+                            <span>Continue shopping                                                            (<em id="ajaxcart-coundown">20</em>)
+                            							</span>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script type="text/javascript">
+    // Process Checkout by click to Button
+    function ajaxcartProcessCheckout() {
+        clearInterval(ajaxcartCountInterval);        window.location.href = 'http://store.griffintechnology.com/checkout/cart/';
+    }
+    // Process Compare by click to Buttion
+    function ajaxcartProcessCompare() {
+        clearInterval(ajaxcartCountInterval);        popWin('http://store.griffintechnology.com/catalog/product_compare/','compare','top:0,left:0,width=820,height=600,resizable=yes,scrollbars=yes');
+        closeAjaxPopup();
+    }
+    function ajaxcartProcessWishlist(){
+        clearInterval(ajaxcartCountInterval);        window.location.href = 'https://store.griffintechnology.com/wishlist/index/index/';
+    }
+
+    // Check timeout and close Ajax Popup
+    var ajaxcartTimes = 20;
+    var ajaxcartCount = 0;
+    var ajaxcartCountInterval = 0;
+    
+    function closeAjaxPopup() {
+            clearInterval(ajaxcartCountInterval);
+        $('ajaxcart-content').style.removeProperty ? $('ajaxcart-content').style.removeProperty('top') : $('ajaxcart-content').style.removeAttribute('top');
+            $('ajaxcart-pop-up').hide();
+        $('ajaxcart-content').innerHTML = '';
+        ajaxcart.cancelRequest();
+        if (typeof productAddToCartFormBak != "undefined") {
+            productAddToCartForm = productAddToCartFormBak;
         }
-    #rightcolumn {
-        margin-left: -40px;
+    }
+
+    // Hide ajax popup by Timeout
+    function ajaxCartHidebyTimout(response){
+        if (response && response.relatedhtml) {
+            $('ajaxcart-related').innerHTML = response.relatedhtml;        }
+            $('ajaxcart-content').innerHTML = $('ajaxcart-continue-shopping').innerHTML;
+        // $('ajaxcart-content').style.top = '45%';
+        // $('ajaxcart-content').style.position = 'fixed';
+        $('ajaxcart-pop-up').show();
+        ajaxcart.updatePopupBox($('ajaxcart-content'));
+        ajaxcartCount = ajaxcartTimes-1;
+        ajaxcartCountInterval = setInterval(function(){
+            if (ajaxcartCount) {
+                $('ajaxcart-coundown').innerHTML = ajaxcartCount;
+                ajaxcartCount--;
+            } else {
+                closeAjaxPopup();
+            }
+        },1000);
         }
-    #supportfooter {
-        margin-top: -10px;
-        margin-bottom: -10px;
+
+    function ajaxCartHideComparebyTimout(response){
+        if (response && response.relatedhtml) {
+           $('ajaxcart-related-compare').innerHTML = response.relatedhtml;        }
+            $('ajaxcart-content').innerHTML = $('ajaxcart-continue-shopping-compare').innerHTML;
+        // $('ajaxcart-content').style.top = '45%';
+        // $('ajaxcart-content').style.position = 'fixed';
+        $('ajaxcart-pop-up').show();
+        ajaxcart.updatePopupBox($('ajaxcart-content'));
+        ajaxcartCount = ajaxcartTimes-1;
+        ajaxcartCountInterval = setInterval(function(){
+            if (ajaxcartCount) {
+                $('ajaxcart-coundown').innerHTML = ajaxcartCount;
+                ajaxcartCount--;
+            } else {
+                closeAjaxPopup();
+            }
+        },1000);
         }
-    </style>
-    <![endif]-->
+    
+     function ajaxCartHideWishlistbyTimout(response){
+        if (response && response.relatedhtml) {
+            $('ajaxcart-related-wishlist').innerHTML = response.relatedhtml;        }
+            $('ajaxcart-content').innerHTML = $('ajaxcart-continue-shopping-wishlist').innerHTML;
+        // $('ajaxcart-content').style.top = '45%';
+        // $('ajaxcart-content').style.position = 'fixed';
+        $('ajaxcart-pop-up').show();
+        ajaxcart.updatePopupBox($('ajaxcart-content'));
+        ajaxcartCount = ajaxcartTimes-1;
+        ajaxcartCountInterval = setInterval(function(){
+            if (ajaxcartCount) {
+                $('ajaxcart-coundown').innerHTML = ajaxcartCount;
+                ajaxcartCount--;
+            } else {
+                closeAjaxPopup();
+            }
+        },1000);
+        }
 
+    // Update Action
+    Event.observe(window,'load',function(){
+        ajaxcart = new Ajaxcart('ajaxcart-load-ajax','ajaxcart-pop-up','ajaxcart-content','ul[class="messages ajaxcart-messages"]','[class="wrapper block block-cart"]',$('cart-helpers'), true);
+        
+        compare = new AjaxcartCompare ('ajaxcart-load-ajax','ajaxcart-pop-up','ajaxcart-content','ul[class="messages-compare ajaxcart-messages"]','[class="block block-list block-compare"]',$('cart-helpers'),'compare', true);
+        
+        wishlist = new AjaxcartCompare('ajaxcart-load-ajax','ajaxcart-pop-up','ajaxcart-content','ul[class="messages-wishlist ajaxcart-messages"]','div[class="block block-wishlist"]',$('cart-helpers'),'wishlist', true);
+        
+        $$('a.link-wishlist').each(function(el){el.observe('mousedown',function(event){ajaxcartEvent=event.element();})});
+        $$('a.link-compare').each(function(el){el.observe('mousedown', function(event){ajaxcartEvent=event.element();})});
+        $$('button').each(function(el){el.observe('mousedown', function(event){ajaxcartEvent=event.element();})});
+        var overlayHeight = $$('body').first().getHeight() + 'px';
+        $$('div.ajaxcart-overlay').first().style.height = overlayHeight;
+        $$('div.ajaxcart-popup-overlay').first().style.height = overlayHeight;
+            updateJscartEvent();
+        ajaxcart.updateMinicartEvent();
+        compare.updateMiniCompareEvent();
+        wishlist.updateMiniCompareEvent();
+    });
+    
+    function ajaxcartUpdateMini(event) {
+        var proElement = this.up('li');
+        $('ajaxcart-pop-up').show();
+        var content = $('ajaxcart-content');
+        var pContent = document.createElement('div');
+        pContent.className = 'ajaxcart-preload';
+        content.appendChild(pContent);
+        pContent = content.down('.ajaxcart-preload');
 
+        var productImage = proElement.down('.product-image');
+        if (productImage) {
+            pContent.appendChild(Element.clone(productImage, 1));
+            productImage = pContent.down('img');
+            productImage.width = 100;
+            productImage.height = 100;
+        }
+        var productInfo = document.createElement('div');
+        productInfo.className = 'item-product-info';
+        pContent.appendChild(productInfo);
+        var productName = proElement.down('.product-name');
+        if (productName) productInfo.appendChild(Element.clone(productName, 1));
+        var productPrice = proElement.down('.price');
+        if (productPrice) productInfo.appendChild(Element.clone(productPrice, 1));
+        pContent.appendChild(Element.clone($('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+        ajaxcart.updatePopupBox(content);
+        ajaxcart.addToCartHandle(this.href, '');
+        return false;
+    }
+    function ajaxcartDeleteMini(event) {
+        if (!confirm('Are you sure you would like to remove this item from the shopping cart?')) {
+            return false;
+        }
+        $('ajaxcart-pop-up').show();
+        var proElement = this.up('li');
+        var content = $('ajaxcart-content');
+        var pContent = document.createElement('div');
+        pContent.className = 'ajaxcart-preload';
+        content.appendChild(pContent);
+        pContent = content.down('.ajaxcart-preload');
+        pContent.appendChild(Element.clone($('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+        var productName = proElement.down('.product-name');
+        if (productName) {
+            var aName = productName.down('a');
+            if (aName) {
+                var spanEl = pContent.down('.ajaxcart-loading').down('span');
+                if (isIE) spanEl.innerText = 'Removing ' + aName.innerHTML + ' from cart...';
+                else spanEl.innerHTML = 'Removing ' + aName.innerHTML + ' from cart...';
+            }
+        }
+        ajaxcart.updatePopupBox(content);
+        ajaxcart.addToCartHandle(this.href, '');
+        return false;
+    }
 
-<title>Griffin Technology - Privacy</title>
+    // Create Ajax cart Object
+    var ajaxcart = null;
+    var compare = null;
 
+    var wishlist = null;
 
+        // Process function setLocation
+        var ajaxcartEvent = null;
+        function setLocation(url){
+            if (!ajaxcartEvent) {
+                window.location.href = url;
+                return false;
+            }
+                            clearInterval(ajaxcartCountInterval);
+                       if (url.search('options=cart') != -1) {
+                // Process load option
+                var proElement = $(ajaxcartEvent).up('li');
+                $('ajaxcart-pop-up').show();
+                var content = $('ajaxcart-content');
+                var pContent = document.createElement('div');
+                pContent.className = 'ajaxcart-preload';
 
+                var productImage = proElement.down('.product-image');
+                if (productImage) {
+                    pContent.appendChild(Element.clone(productImage, 1));
+                }
 
+                var productInfo = document.createElement('div');
+                productInfo.className = 'product-info';
+                pContent.appendChild(productInfo);
+                var productName = proElement.down('.product-name');
+                if (productName) productInfo.appendChild(Element.clone(productName, 1));
+                var productRate = proElement.down('.ratings');
+                if (productRate) productInfo.appendChild(Element.clone(productRate, 1));
+                var productPrice = proElement.down('.price-box');
+                if (productPrice) productInfo.appendChild(Element.clone(productPrice, 1));
 
-<div id="container">
-  <div id="header">
+                pContent.appendChild(Element.clone($('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+                content.innerHTML = '';
+                content.appendChild(pContent);
+                if (productImage) {
+                    pContent = content.down('.ajaxcart-preload');
+                    productImage = pContent.down('img');
+                    productImage.width = 128;
+                    productImage.height = 128;
+                }
+                ajaxcart.updatePopupBox(content);
+                ajaxcart.addToCartHandle(url,'');
+            } else if (url.search('/checkout/cart/add/') != -1) {
+                // Run animation
+                var proElement = $(ajaxcartEvent).up('li');
+                function showAjaxcartPopup() {
+                    var proElement = $(ajaxcartEvent).up('li');
+                    $('ajaxcart-pop-up').show();
+                    var content = $('ajaxcart-content');
+                    var pContent = document.createElement('div');
+                    pContent.className = 'ajaxcart-preload';
+                    pContent.appendChild(Element.clone($('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+                    var productName = proElement ? proElement.down('.product-name') : false;
+                    var aName = false;
+                    if (productName) {
+                        aName = productName.down('a');
+                    }
+                    content.innerHTML = '';
+                    content.appendChild(pContent);
+                    if (aName) {
+                        pContent = content.down('.ajaxcart-preload');
+                        var spanEl = pContent.down('.ajaxcart-loading').down('span');
+                        if (isIE) spanEl.innerText = 'Adding ' + aName.innerHTML + ' to cart...';
+                        else spanEl.innerHTML = 'Adding ' + aName.innerHTML + ' to cart...';
+                    }
+                    ajaxcart.updatePopupBox(content);
+                    ajaxcart.allowFinish = true;
+                    if (ajaxcart.responseCache) ajaxcart.addToCartFinish(ajaxcart.responseCache);
+                }
+                            ajaxcart.addToCartHandle(url,'');
+                showAjaxcartPopup();
+                            // Process add to cart
+                // ajaxcart.addToCartHandle(url,'');
+            } else {
+                window.location.href = url;
+            }
+        }
 
-   <div id="logo">
-     <a href="http://www.griffintechnology.com"><img src="../../assets/images/blank.gif" border="0" style="width: 200px; height: 53px; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='assets/images/logo.png', sizingMethod='scale')"></a>
-   </div>
+        // Process function setPLocation
+        function setPLocation(url, setFocus){
+            if (setFocus){
+                window.opener.focus();
+                window.close();
+            }
+            if (!ajaxcartEvent) {
+                window.opener.location.href = url;
+                return false;
+            }
+        
+            if (url.search('options=cart') != -1) {
+                // Process load option
+                var proElement = $(ajaxcartEvent).up('td');
+                window.opener.$('ajaxcart-pop-up').show();
+                var content = window.opener.$('ajaxcart-content');
+                var pContent = document.createElement('div');
+                pContent.className = 'ajaxcart-preload';
+                content.appendChild(pContent);
+                pContent = content.down('.ajaxcart-preload');
 
+                var productImage = proElement.down('.product-image');
+                if (productImage) {
+                    pContent.appendChild(Element.clone(productImage, 1));
+                    productImage = pContent.down('img');
+                    productImage.width = 128;
+                    productImage.height = 128;
+                }
 
-<div id="toptabs">
+                var productInfo = document.createElement('div');
+                productInfo.className = 'product-info';
+                pContent.appendChild(productInfo);
+                var productName = proElement.down('.product-name');
+                if (productName) productInfo.appendChild(Element.clone(productName, 1));
+                var productRate = proElement.down('.ratings');
+                if (productRate) productInfo.appendChild(Element.clone(productRate, 1));
+                var productPrice = proElement.down('.price-box');
+                if (productPrice) productInfo.appendChild(Element.clone(productPrice, 1));
 
-<div id="producttab"><a href="products/index.html"><img src="../../assets/images/tabproducts.jpg" border="0"></a><div id="producttabover"><a href="products/index.html"><img src="../../assets/images/tabproducts_over.jpg" border="0"></a></div></div>
-<div id="supporttab"><a href="support/index.html"><img src="../../assets/images/tabsupport.jpg" border="0"></a><div id="supporttabover"><a href="support/index.html"><img src="../../assets/images/tabsupport_over.jpg" border="0"></a></div></div>
-<div id="carttab"><a href="#"><img src="../../assets/images/tabcart.jpg" border="0" onclick="toggleEffect()"></a><div id="carttabover"><a href="#"><img src="../../assets/images/tabcart_over.jpg" border="0" onclick="toggleEffect()"></a></div></div>
-<div id="carttabopen"><a href="#"><img src="../../assets/images/store/carttab_open.jpg" border="0" onclick="toggleEffect()"></a></div>
-<div id="searchtab"></div>
+                pContent.appendChild(Element.clone(window.opener.$('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+                window.opener.ajaxcart.updatePopupBox(content);
+                window.opener.ajaxcart.addToCartHandle(url,'');
+            } else if (url.search('/checkout/cart/add/') != -1) {
+                window.opener.$('ajaxcart-pop-up').show();
+                var proElement = $(ajaxcartEvent).up('td');
+                var content = window.opener.$('ajaxcart-content');
+                var pContent = document.createElement('div');
+                pContent.className = 'ajaxcart-preload';
+                content.appendChild(pContent);
+                pContent = content.down('.ajaxcart-preload');
+                pContent.appendChild(Element.clone(window.opener.$('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+                var productName = proElement.down('.product-name');
+                if (productName) {
+                    var aName = productName.down('a');
+                    if (aName) {
+                        var spanEl = pContent.down('.ajaxcart-loading').down('span');
+                        if (isIE) spanEl.innerText = 'Adding ' + aName.innerHTML + ' to cart...';
+                        else spanEl.innerHTML = 'Adding ' + aName.innerHTML + ' to cart...';
+                    }
+                }
+                window.opener.ajaxcart.updatePopupBox(content);
+                // Process add to cart
+                window.opener.ajaxcart.addToCartHandle(url,'');
+            } else {
+                window.opener.location.href = url;
+            }
+        }
 
-</div> <!--- End of Top tabs-->
+        // Remove some no need element after update content
+        function ajaxMoreTemplateJs(){
+            if ($('ajaxcart-content').down('.ajaxcart-loading')) $('ajaxcart-content').down('.ajaxcart-loading').hide();
+            if ($('ajaxcart-content').down(".paypal-logo")) $('ajaxcart-pop-up').down(".paypal-logo").hide();
+            if ($('ajaxcart-content').down(".add-to-links")) $('ajaxcart-pop-up').down(".add-to-links").hide();
+            $$('#ajaxcart-content button').each(function(el){el.observe('mousedown', function(event){ajaxcartEvent=event.element();})});
+        }
+        ajaxcartTemplateJs = ajaxMoreTemplateJs;
 
+        // Event to change anchor element action (href)
+        function updateJscartEvent(){
+            $$('a[class="link-compare"]').each(function(el){
+                if (el.href.search('catalog/product_compare/add') != -1)
+                //el.href = "javascript:compare.addToCompareHandle('"+el.href+"','')";
+                    el.onclick = ajaxcartUpdateCompareMini;
+            });
+  
+            $$('a[class="link-wishlist"]').each(function(el){
+               if(el.href.search('wishlist/index/add') != -1)
+                    el.onclick = ajaxcartUpdateWishlistMini;
+            });
+        }
+        function ajaxcartUpdateCompareMini(event) {
+                $('ajaxcart-pop-up').show();
+                var content = $('ajaxcart-content');
+                var pContent = document.createElement('div');
+                pContent.className = 'ajaxcart-preload';
+                content.innerHTML = '';
+                content.appendChild(pContent);
+                pContent = content.down('.ajaxcart-preload');
+                try{
+                    var proElement = $(ajaxcartEvent).up('li').up('li');
+                    var productImage = proElement.down('.product-image');
+                    if (productImage) {
+                        pContent.appendChild(Element.clone(productImage, 1));
+                        productImage = pContent.down('img');
+                        productImage.width = 128;
+                        productImage.height = 128;
+                    }
+                }catch(err){
+                    try{
+                        var productImage = $('image');
+                        var imageSrcArray = $('image').src.split('/');
+                        for( i = 0; i < imageSrcArray.length; i++){
+                            if(imageSrcArray[i] == 'image'){
+                                imageSrcArray[i] = 'small_image/135x';
+                            }
+                        }
+                        var srcImage = imageSrcArray[0]; 
+                        for( i = 1; i < imageSrcArray.length; i++){
+                            srcImage = srcImage+'/'+ imageSrcArray[i];
+                        }
+                        var imageTag = document.createElement('img');
+                        imageTag.src = srcImage;
+                        if (productImage) {
+                            pContent.appendChild(Element.clone(imageTag, 1));
+                            productImage = pContent.down('img');
+                            productImage.width = 128;
+                            productImage.height = 128;
+                        }
+                    }catch(e){}
+                }
+
+                var productInfo = document.createElement('div');
+                productInfo.className = 'product-info';
+                pContent.appendChild(productInfo);
+                try{
+                    var productName = proElement.down('.product-name');
+                    if (productName) productInfo.appendChild(Element.clone(productName, 1));
+                    var productRate = proElement.down('.ratings');
+                    if (productRate) productInfo.appendChild(Element.clone(productRate, 1));
+                    var productPrice = proElement.down('.price-box');
+                    if (productPrice) productInfo.appendChild(Element.clone(productPrice, 1));
+                }catch(err){
+                   var proElement2 = $(ajaxcartEvent).up('li').up('ul').up('div').up('div');
+                   var productName = proElement2.down('.product-name');
+                    if (productName) productInfo.appendChild(Element.clone(productName, 1));
+                    var productRate = proElement2.down('.ratings');
+                    if (productRate) productInfo.appendChild(Element.clone(productRate, 1));
+                    var productPrice = proElement2.down('.price-box');
+                    if (productPrice) productInfo.appendChild(Element.clone(productPrice, 1));
+                }
+                pContent.appendChild(Element.clone($('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+                var spanEl = pContent.down('.ajaxcart-loading').down('span');
+                if (isIE) spanEl.innerText = 'Addding to compare...';
+                else spanEl.innerHTML = 'Adding to compare...';
+            compare.updatePopupBox(content);
+            compare.addToCompareHandle(this.href, '');
+            return false;
+        }
+    
+     function ajaxcartDeleteCompareMini(event) {
+        if (!confirm('Are you sure you would like to remove this item from the compare products?')) {
+            return false;
+        }
+        $('ajaxcart-pop-up').show();
+        var proElement = this.up('li');
+        var content = $('ajaxcart-content');
+        var pContent = document.createElement('div');
+        pContent.className = 'ajaxcart-preload';
+        content.appendChild(pContent);
+        pContent = content.down('.ajaxcart-preload');
+        pContent.appendChild(Element.clone($('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+        var productName = proElement.down('.product-name');
+        if (productName) {
+            var aName = productName.down('a');
+            if (aName) {
+                var spanEl = pContent.down('.ajaxcart-loading').down('span');
+                if (isIE) spanEl.innerText = 'Removing ' + aName.innerHTML + ' comparison list...';
+                else spanEl.innerHTML = 'Removing ' + aName.innerHTML + ' comparison list...';
+            }
+        }
+        compare.updatePopupBox(content);
+        compare.addToCompareHandle(this.href, '');
+        return false;
+    }
+    
+    function ajaxcartClearCompareMini(event) {
+        $('ajaxcart-pop-up').show();
+        var proElement = this.up('li');
+        var content = $('ajaxcart-content');
+        var pContent = document.createElement('div');
+        pContent.className = 'ajaxcart-preload';
+        content.appendChild(pContent);
+        pContent = content.down('.ajaxcart-preload');
+        pContent.appendChild(Element.clone($('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+        var spanEl = pContent.down('.ajaxcart-loading').down('span');
+        if (isIE) spanEl.innerText = 'Removing all products from comparison list...';
+        else spanEl.innerHTML = 'Removing all products from comparison list...';
+        compare.updatePopupBox(content);
+        compare.addToCompareHandle(this.href, '');
+        $('compare_button').hide();
+        return false;
+    }
+    
+    function ajaxcartUpdateWishlistMini(){
+                $('ajaxcart-pop-up').show();
+                var content = $('ajaxcart-content');
+                var pContent = document.createElement('div');
+                pContent.className = 'ajaxcart-preload';
+                content.innerHTML = '';
+                content.appendChild(pContent);
+                pContent = content.down('.ajaxcart-preload');
+                try{
+                    var proElement = $(ajaxcartEvent).up('li').up('li');
+                    var productImage = proElement.down('.product-image');
+                    if (productImage) {
+                        pContent.appendChild(Element.clone(productImage, 1));
+                        productImage = pContent.down('img');
+                        productImage.width = 128;
+                        productImage.height = 128;
+                    }
+                }catch(err){
+                    try{
+                        var productImage = $('image');
+                        var imageSrcArray = $('image').src.split('/');
+                        for( i = 0; i < imageSrcArray.length; i++){
+                            if(imageSrcArray[i] == 'image'){
+                                imageSrcArray[i] = 'small_image/135x';
+                            }
+                        }
+                        var srcImage = imageSrcArray[0]; 
+                        for( i = 1; i < imageSrcArray.length; i++){
+                            srcImage = srcImage+'/'+ imageSrcArray[i];
+                        }
+                        var imageTag = document.createElement('img');
+                        imageTag.src = srcImage;
+                        if (productImage) {
+                        pContent.appendChild(Element.clone(imageTag, 1));
+                        productImage = pContent.down('img');
+                        productImage.width = 128;
+                        productImage.height = 128;
+                        }
+                    }catch(e){}
+                }
+
+                var productInfo = document.createElement('div');
+                productInfo.className = 'product-info';
+                pContent.appendChild(productInfo);
+                try{
+                    var productName = proElement.down('.product-name');
+                    if (productName) productInfo.appendChild(Element.clone(productName, 1));
+                    var productRate = proElement.down('.ratings');
+                    if (productRate) productInfo.appendChild(Element.clone(productRate, 1));
+                    var productPrice = proElement.down('.price-box');
+                    if (productPrice) productInfo.appendChild(Element.clone(productPrice, 1));
+                }catch(err){
+                   var proElement2 = $(ajaxcartEvent).up('li').up('ul').up('div').up('div');
+                   var productName = proElement2.down('.product-name');
+                    if (productName) productInfo.appendChild(Element.clone(productName, 1));
+                    var productRate = proElement2.down('.ratings');
+                    if (productRate) productInfo.appendChild(Element.clone(productRate, 1));
+                    var productPrice = proElement2.down('.price-box');
+                    if (productPrice) productInfo.appendChild(Element.clone(productPrice, 1));
+                }
+                pContent.appendChild(Element.clone($('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+                var spanEl = pContent.down('.ajaxcart-loading').down('span');
+                if (isIE) spanEl.innerText = 'Addding to wishlist...';
+                else spanEl.innerHTML = 'Adding to wishlist...';
+                wishlist.updatePopupBox(content);
+                wishlist.addToCompareHandle(this.href, '');
+            return false;
+    }
+    
+    function ajaxcartDeleteWishlistMini(event) {
+        if (!confirm('Are you sure you would like to remove this item from the wistlist ?')) {
+            return false;
+        }
+        $('ajaxcart-pop-up').show();
+        var proElement = this.up('li');
+        var content = $('ajaxcart-content');
+        var pContent = document.createElement('div');
+        pContent.className = 'ajaxcart-preload';
+        content.appendChild(pContent);
+        pContent = content.down('.ajaxcart-preload');
+        pContent.appendChild(Element.clone($('ajaxcart-load-ajax').down('.ajaxcart-loading'), 1));
+        var productName = proElement.down('.product-name');
+        if (productName) {
+            var aName = productName.down('a');
+            if (aName) {
+                var spanEl = pContent.down('.ajaxcart-loading').down('span');
+                if (isIE) spanEl.innerText = 'Removing ' + aName.innerHTML + ' from from wishlist...';
+                else spanEl.innerHTML = 'Removing ' + aName.innerHTML + ' from from wishlist...';
+            }
+        }
+        wishlist.updatePopupBox(content);
+        wishlist.addToCompareHandle(this.href, '');
+        return false;
+    }
+    
+    
+</script>
 
 </div>
 
-<div id="alertbox">
-<h1>This Is The Header</h1>
-<p>This is the text where <a href="http://images.google.com/images?q=crying+baby&amp;hl=en&amp;lr=&amp;client=safari&amp;rls=en&amp;sa=N&amp;tab=ii&amp;oi=imagest">George whines</a> about whatever the user is doing wrong or stupid or when his stuff breaks.</p>
-<a href="#"><div id="okbutton">OK</div></a>
-</div>
 
-<div id="content">
+<script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No"}];</script>
 
 
-<!-- main feature -->
-<div id="productsupportfeature"><a href="#"><img src="../../assets/images/privacy/privacyhead.jpg" border="0" alt=""></a></div>
-<!-- end main feature -->
+<!-- Google Tag Manager -->
 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W9P9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W9P9');</script>
 
-<!-- main columns -->
-<div id="columns">
-
-
-<!-- left column -->
-<div id="leftcolumn">
-
-<!-- article -->
-<h2 id="topfive">Customer Information Protection Statement</h2>
-
-<p>This is the web site of <strong>Griffin Technology, Inc.</strong>.</p>
-
-<p>Our postal address is<br> 
-<strong>1930 Air Lane Drive<br> 
-Nashville, TN 37210</strong></p>
-
-<p>We can be reached via e-mail at <a href="mailto:info@griffintechnology.com">info@griffintechnology.com</a> or you can reach us by telephone at <strong>615-399-7000</strong></p>
-
-<p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address.</p>
-
-<p>We collect information volunteered by the consumer, such as survey information and ordering information.</p>
-
-<p>The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site and products, and is not shared with other organizations for commercial purposes.</p>
-
-<p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number.</p>
-
-<p>We do NOT share the e-mail addresses of our visitors or customers to any other organizations, nor do we harvest or sell our customers' or visitors' email addresses.</p>
-
-<p>If you supply us with your postal address on-line you will only receive the information for which you provided us your address, such as your placed order.</p>
-
-<p>Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.</p>
-
-<p>With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.</p>
-
-<p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
-
-<p>Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address.</p>
-
-<p>Consumers can access this information by e-mail us at the above address, write to us at the above address.</p>
-
-<p>Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number.</p>
-
-<p>With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server that transfers the information.</p>
-
-<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p>
-
-
-
-<!-- end article -->
-
-</div>
-<!-- end left column -->
-
-
-<!-- right column -->
-<div id="rightcolumn">
-
-<h2><!-- blank header --></h2>
-
-<h3 class="link"><a href="email.php">Email Griffin</a></h3>
-
-</div>
-<!-- end right column -->
-
-
-<div style="clear: both; height: 25px;"></div>
-
-</div>
-<!-- end columns -->
-
-
-
-<!-- begin shopping cart -->
-
-<div id="shoppingcart">
-<div id="cartcontents"></div>
-
-<!-- end shopping cart -->
-
-</div>
-
-<!-- footer -->
-
-<div id="space"></div>
-<div id="footer">
-<ul>
-<li><a href="http://www.griffintechnology.com">Home</a></li>
-<li><a href="http://www.griffintechnology.com/about">About Griffin</a></li>
-<li><a href="http://www.griffintechnology.com/press">Press Room</a></li>
-<li><a href="http://www.griffintechnology.com/about">Privacy</a></li>
-<li class="copyright">Copyright 2006 Griffin Technology</li>
+<!-- End Google Tag Manager -->
+<div class="content container">
+        <noscript>
+        <div class="noscript">
+            <div class="noscript-inner">
+                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
+                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <header class="page-header row">
+	<div class="container">
+				<a href="http://www.griffintechnology.com/" title="Griffin Technology - Your leader in essentials for iPod, iPhone, and iPad" class="cell logo logo-header">
+			<svg viewBox="0 0 189 48">
+				<path fill="#FFFFFF" d="M116.486 26.157h12.221l-0.002-4.672h-12.219v-5.343l13.708-0.002V11.37h-19.133v25.263h5.425V26.157z"></path>
+				<path fill="#FFFFFF" d="M139.071 26.159h12.222v-4.674h-12.222v-5.341h13.711v-4.776l-19.138 0.001v25.263h5.427V26.159z"></path>
+				<path fill="#FFFFFF" d="M183.979 27.886l-11.637-16.518h-5.036v25.265h5.036V20.114l11.637 16.519H189V11.368h-5.021V27.886z"></path>
+				<path fill="#FFFFFF" d="M105.776 11.368h-5.427v25.265h5.427V11.368z"></path>
+				<path fill="#FFFFFF" d="M162.014 11.368h-5.428v25.265h5.428V11.368z"></path>
+				<path fill="#FFFFFF" d="M64.813 31.924l-0.098 0.031c-0.843 0.26-2.278 0.41-3.407 0.414 -5.522-0.012-7.781-3.274-7.788-8.365 0.007-5.096 2.266-8.361 7.788-8.372 3.669 0 6.292 0.628 8.267 1.322v-4.768c-1.959-0.886-5.123-1.431-8.777-1.431 -9.363 0.018-12.73 5.364-12.753 13.248 0.023 7.877 3.391 13.223 12.753 13.24 3.155 0 7.019-0.6 9.337-1.637l-0.001-13.15h-9.806v4.672h4.486V31.924z"></path>
+				<path fill="#FFFFFF" d="M91.719 26.781c3.085-1.199 4.188-4.241 4.188-7.277 -0.018-4.604-2.106-8.115-8.722-8.134l-12.092-0.001v25.265h5.426v-8.905 -0.14h5.734l4.234 9.045h6.302l-5.218-9.796L91.719 26.781zM86.673 22.816h-6.154v-6.674h6.154c2.873 0.002 3.502 1.749 3.502 3.361C90.204 21.116 89.54 22.781 86.673 22.816z"></path>
+				<path fill="#e54800" d="M36.444 44.166c0-0.205 0.002-29.883 0-32.511 0-0.123-0.077-0.208-0.215-0.208 -1.52-0.004-10.649 0-12.29 0 -6.924 0-12.536 5.611-12.536 12.551 0 6.939 5.612 12.564 12.536 12.564 1.974 0 3.837-0.459 5.498-1.27v4.234c0 0 0.021 0.299-0.251 0.379 -1.652 0.549-3.408 0.859-5.246 0.859C14.7 40.75 7.229 33.258 7.21 23.999c0-9.254 7.479-16.771 16.71-16.781h0.019 12.286c0 0 0.221 0.017 0.221-0.221 0-0.234 0-5.643 0-6.786 0-0.206-0.202-0.209-0.202-0.209H23.646v0.004C10.56 0.163 0 10.844 0 23.999c0 13.253 10.714 23.998 23.939 23.998 2.021 0 3.973-0.279 5.843-0.75 2.339-0.59 4.462-1.492 6.468-2.713C36.25 44.533 36.444 44.445 36.444 44.166zM29.437 18.796c0 0.877 0 4.157 0 5.203 -0.004 3.037-2.468 5.494-5.498 5.501 -3.031-0.008-5.478-2.465-5.486-5.501 0.008-3.034 2.455-5.448 5.486-5.484 -0.006 0 5.209 0 5.223 0C29.316 18.516 29.437 18.603 29.437 18.796z"></path>
+			</svg>
+			<img src="http://store.griffintechnology.com/skin/frontend/griffin/default/images/logo-header.png" alt="Griffin Technology - Your leader in essentials for iPod, iPhone, and iPad">
+		</a>
+		<a class="menu-btn" href="#">
+			<svg viewBox="0 0 50 36">
+				<path d="M2 15h46c1.104 0 2 0.9 2 2v2c0 1.104-0.896 2-2 2H2 c-1.104 0-2-0.896-2-2v-2C0 15.9 0.9 15 2 15z"></path>
+				<path d="M2 0h46c1.104 0 2 0.9 2 2v2c0 1.104-0.896 2-2 2H2 C0.896 6 0 5.1 0 4V2C0 0.9 0.9 0 2 0z"></path>
+				<path d="M2 30h46c1.104 0 2 0.9 2 2v2c0 1.104-0.896 2-2 2H2 c-1.104 0-2-0.896-2-2v-2C0 30.9 0.9 30 2 30z"></path>
+			</svg>
+		</a>
+		<nav id="page-nav">
+			<ul class="main-links">
+				<li>
+					<a class="trigger shop" href="#" title="Shop for products">Shop</a>
+					<div class="wrapper shop">
+						<ul class="sub-links container">
+	<li class="level0 first level-top parent"><a href="http://store.griffintechnology.com/iphone" class="level-top">iPhone</a><ul class="level0"><li class="level1 first"><a href="http://store.griffintechnology.com/iphone-6" class="nav-link">iPhone 6/6+</a></li><li class="level1"><a href="http://store.griffintechnology.com/iphone-5" class="nav-link">iPhone 5/5s</a></li><li class="level1"><a href="http://store.griffintechnology.com/iphone-5c" class="nav-link">iPhone 5c</a></li><li class="level1 last"><a href="http://store.griffintechnology.com/iphone-4s" class="nav-link">iPhone 4s</a></li><li class="level1"><a class="all" href="http://store.griffintechnology.com/iphone">See all</a></li></ul></li><li class="level0 level-top parent"><a href="http://store.griffintechnology.com/ipad" class="level-top">iPad</a><ul class="level0"><li class="level1 first"><a href="http://store.griffintechnology.com/ipad-mini-3" class="nav-link">iPad mini 3</a></li><li class="level1"><a href="http://store.griffintechnology.com/ipad-mini-2" class="nav-link">iPad mini 2</a></li><li class="level1"><a href="http://store.griffintechnology.com/ipad-mini" class="nav-link">iPad mini</a></li><li class="level1"><a href="http://store.griffintechnology.com/ipad-air-2" class="nav-link">iPad Air 2</a></li><li class="level1"><a href="http://store.griffintechnology.com/ipad-air" class="nav-link">iPad Air</a></li><li class="level1 last"><a href="http://store.griffintechnology.com/ipad-4th-gen" class="nav-link">iPad (4th gen.)</a></li><li class="level1"><a class="all" href="http://store.griffintechnology.com/ipad">See all</a></li></ul></li><li class="level0 level-top parent"><a href="http://store.griffintechnology.com/ipod" class="level-top">iPod</a><ul class="level0"><li class="level1 first"><a href="http://store.griffintechnology.com/ipod-touch" class="nav-link">iPod touch</a></li><li class="level1"><a href="http://store.griffintechnology.com/ipod-nano" class="nav-link">iPod nano</a></li><li class="level1"><a href="http://store.griffintechnology.com/ipod-classic" class="nav-link">iPod classic</a></li><li class="level1 last"><a href="http://store.griffintechnology.com/ipod-shuffle" class="nav-link">iPod shuffle</a></li><li class="level1"><a class="all" href="http://store.griffintechnology.com/ipod">See all</a></li></ul></li><li class="level0 level-top parent"><a href="http://store.griffintechnology.com/laptops" class="level-top">Laptop</a><ul class="level0"><li class="level1 first"><a href="http://store.griffintechnology.com/macbook-air-11" class="nav-link">MacBook Air 11"</a></li><li class="level1"><a href="http://store.griffintechnology.com/macbook-air-13" class="nav-link">MacBook Air 13"</a></li><li class="level1"><a href="http://store.griffintechnology.com/macbook-pro-13" class="nav-link">MacBook Pro 13"</a></li><li class="level1 last"><a href="http://store.griffintechnology.com/macbook-pro-15" class="nav-link">MacBook Pro 15"</a></li><li class="level1"><a class="all" href="http://store.griffintechnology.com/laptops">See all</a></li></ul></li><li class="level0 level-top parent"><a href="http://store.griffintechnology.com/smartphone" class="level-top">Android Phone</a><ul class="level0"><li class="level1 first"><a href="http://store.griffintechnology.com/samsung" class="nav-link">Samsung Galaxy</a></li><li class="level1"><a href="http://store.griffintechnology.com/motorola" class="nav-link">Motorola</a></li><li class="level1"><a href="http://store.griffintechnology.com/htc" class="nav-link">HTC</a></li><li class="level1 last"><a href="http://store.griffintechnology.com/universal-android-accessories" class="nav-link">Universal Accessories</a></li><li class="level1"><a class="all" href="http://store.griffintechnology.com/smartphone">See all</a></li></ul></li><li class="level0 level-top parent"><a href="http://store.griffintechnology.com/kindle" class="level-top">Kindle</a><ul class="level0"><li class="level1 first"><a href="http://store.griffintechnology.com/kindle-fire-hdx-7-2013" class="nav-link">Kindle Fire HDX 7" (2013)</a></li><li class="level1"><a href="http://store.griffintechnology.com/kindle-fire-hdx-8-2013" class="nav-link">Kindle Fire HDX 8.9" (2013)</a></li><li class="level1 last"><a href="http://store.griffintechnology.com/kindle-fire" class="nav-link">Original Kindle Fire</a></li><li class="level1"><a class="all" href="http://store.griffintechnology.com/kindle">See all</a></li></ul></li><li class="level0 level-top parent"><a href="http://store.griffintechnology.com/tablet" class="level-top">Android Tablet</a><ul class="level0"><li class="level1 first"><a href="http://store.griffintechnology.com/samsung-galaxy-tab4-7-0" class="nav-link">Samsung Galaxy Tab4 7.0</a></li><li class="level1"><a href="http://store.griffintechnology.com/samsung-galaxy-tab4-8-0" class="nav-link">Samsung Galaxy Tab4 8.0</a></li><li class="level1"><a href="http://store.griffintechnology.com/samsung-galaxy-tab4-10-1" class="nav-link">Samsung Galaxy Tab4 10.1</a></li><li class="level1"><a href="http://store.griffintechnology.com/samsung-galaxy-tab-pro-8-4" class="nav-link">Samsung Galaxy Tab Pro 8.4</a></li><li class="level1 last"><a href="http://store.griffintechnology.com/universal-android-tablet-accessories" class="nav-link">Universal Accessories</a></li><li class="level1"><a class="all" href="http://store.griffintechnology.com/tablet">See all</a></li></ul></li><li class="level0 last level-top parent"><a href="http://store.griffintechnology.com/accessories-for-wearables" class="level-top">Wearables</a><ul class="level0"><li class="level1 first"><a href="http://store.griffintechnology.com/fitbit" class="nav-link">Fitbit</a></li><li class="level1"><a href="http://store.griffintechnology.com/jawbone" class="nav-link">Jawbone</a></li><li class="level1"><a href="http://store.griffintechnology.com/misfit-shine" class="nav-link">Misfit</a></li><li class="level1 last"><a href="http://store.griffintechnology.com/nike" class="nav-link">Nike+</a></li><li class="level1"><a class="all" href="http://store.griffintechnology.com/accessories-for-wearables">See all</a></li></ul></li>	<li class="level0 extra">
+	<a href="/case-creator">Case Creator</a>
+</li>
 </ul>
+					</div>
+				</li>
+				<li>
+					<a class="trigger explore" href="#" title="Explore what's new from Griffin">Explore</a>
+					<div class="wrapper explore">
+						<!-- NEW EXPLORE NAV -->
+<div class="sub-links">
+	<div class="container">
+		<div class="row featured">
+			<ul class="grid fourths">
+				<li class="cell"><a href="http://www.griffintechnology.com/survivor" style="background-color:#ff8300;">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-featured-survivor.png" alt="Survivor case for mobile devices">
+					<dl class="txt">
+						<dt class="title">Survivor</dt>
+						<dd class="desc">Cases that are <br>Ready for Anything™</dd>
+					</dl>
+				</a></li>
+				<li class="cell"><a href="/kids" style="background-color:#ffc021;">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-featured-kids.png" alt="Cases and accessories for kids">
+					<dl class="txt">
+						<dt class="title">Kids</dt>
+						<dd class="desc">Why should adults <br>have all the fun?</dd>
+					</dl>
+				</a></li>
+				<li class="cell"><a href="http://www.griffintechnology.com/music" style="background-color:#5fcf53;">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-featured-music.png" alt="Headphones and tools for musicians">
+						<dl class="txt">
+						<dt class="title">Music</dt>
+						<dd class="desc">Plug in. Play.</dd>
+					</dl>
+				</a></li>
+				<li class="cell"><a href="http://griffintechnology.com/powermate-bluetooth" style="background-color:#00c3d9;">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-featured-powermatebt.png" alt="PowerMate Bluetooth">
+					<dl class="txt">
+						<dt class="title">PowerMate Bluetooth</dt>
+						<dd class="desc">Wirelessly control <br>everything</dd>
+					</dl>
+				</a></li>
+			</ul>
+		</div>
+		<div class="row non-featured">
+			<ul class="grid fourths">
+				<li class="cell"><a href="/mossy-oak">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-mossyoak.png" alt="Camo products from Griffin + Mossy Oak">
+					<dl class="txt">
+						<dt class="title">Mossy Oak</dt>
+						<dd class="desc">It's not a passion. <br>It's an obsession.</dd>
+					</dl>
+				</a></li>
+				<li class="cell"><a href="/wearables">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-wearables.png" alt="Wearable sport band">
+					<dl class="txt">
+						<dt class="title">Wearables</dt>
+						<dd class="desc">Accessories for <br>Fitness Trackers</dd>
+					</dl>
+				</a></li>
+				<li class="cell"><a href="/identity">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-identity.png" alt="Identity fashion case">
+					<dl class="txt">
+						<dt class="title">Identity</dt>
+						<dd class="desc">Drop protection meets <br>self-expression</dd>
+					</dl>
+				</a></li>
+				<li class="cell"><a href="/case-creator">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-casecreator.png" alt="Custom case design with Case Creator">
+					<dl class="txt">
+						<dt class="title">Case Creator</dt>
+						<dd class="desc">The easiest and most powerful custom case designer</dd>
+					</dl>
+				</a></li>
+				<li class="cell"><a href="http://griffintechnology.com/papernomad">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-papernomad.png" alt="Papernomad artistic sleeve">
+					<dl class="txt">
+						<dt class="title">Papernomad</dt>
+						<dd class="desc">Cases for <br>Creative People</dd>
+					</dl>
+				</a></li>
+				<li class="cell"><a href="/kazoo">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-kazoo.png" alt="Elephant KaZoo case">
+					<dl class="txt">
+						<dt class="title">KaZoo</dt>
+						<dd class="desc">Everyone loves going <br>to the Zoo</dd>
+					</dl>
+				</a></li>
+				<li class="cell"><a href="http://griffintechnology.com/itrip">
+					<img src="http://store.griffintechnology.com/media/wysiwyg//main_nav/2014-itrip.png" alt="iTrip hardware">
+					<dl class="txt">
+						<dt class="title">iTrip</dt>
+						<dd class="desc">The original <br>FM transmitter</dd>
+					</dl>
+				</a></li>
+			</ul>
+		</div>
+	</div>
+</div>					</div>
+				</li>
+				<li>
+					<a class="trigger support hot" href="http://griffintechnology.com/support" title="Get support for your Griffin products">Support</a>
+				</li>
+			</ul>
+			<div class="customer-links">
+				<form id="search_mini_form" action="http://store.griffintechnology.com/catalogsearch/result/" method="get">
+    <a href="#" class="trigger search">
+    	<svg width="17" height="18" viewBox="0 0 17 18">
+		  <path d="M10.5 1c-3.31 0-6 2.69-6 6 0 1.15 0.32 2.21 0.88 3.12L0.5 15l2 2 4.88-4.88C8.29 12.68 9.36 13 10.5 13c3.31 0 6-2.69 6-6C16.5 3.69 13.81 1 10.5 1zM10.5 10.6c-0.47 0-0.93-0.09-1.34-0.26 -0.91-0.36-1.63-1.09-2-2C6.99 7.93 6.9 7.48 6.9 7c0-1.99 1.61-3.6 3.6-3.6S14.1 5.01 14.1 7C14.1 8.99 12.49 10.6 10.5 10.6z"></path>
+		</svg>
+    </a>
+	<div class="wrapper">
+		<div class="sub-links form-search">
+			<h3><label for="search">Search</label></h3>
+			<div class="input-box">
+				<input id="search" type="text" name="q" value="" class="input-text" maxlength="128" onblur="if (this.value == '') {this.value = 'What are you looking for?';}" onfocus="if (this.value == 'What are you looking for?') {this.value = '';}" placeholder="What are you looking for?">
+			</div>
+			
+			<div class="popular-tags">
+	<h4>Popular Searches</h4>
+	<div class="tags-list">
+		<a href="/catalogsearch/result/?q=iPhone">iPhone</a>
+		<a href="/catalogsearch/result/?q=Survivor">Survivor</a>
+		<a href="/accessories-for-wearables">Wearables</a>
+		<a href="/catalogsearch/result/?q=iPad+mini">iPad mini</a>
+	</div>
 </div>
 
+			
+			<div class="buttons-set">
+				<button type="submit" title="Search" class="button full">
+					<span class="title">Search</span>
+					<svg class="icon" width="17" height="18" viewBox="0 0 17 18">
+					  <path d="M10.5 1c-3.31 0-6 2.69-6 6 0 1.15 0.32 2.21 0.88 3.12L0.5 15l2 2 4.88-4.88C8.29 12.68 9.36 13 10.5 13c3.31 0 6-2.69 6-6C16.5 3.69 13.81 1 10.5 1zM10.5 10.6c-0.47 0-0.93-0.09-1.34-0.26 -0.91-0.36-1.63-1.09-2-2C6.99 7.93 6.9 7.48 6.9 7c0-1.99 1.61-3.6 3.6-3.6S14.1 5.01 14.1 7C14.1 8.99 12.49 10.6 10.5 10.6z"></path>
+					</svg>
+				</button>
+			</div>
+			<script type="text/javascript">
+			//<![CDATA[
+				var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+				// searchForm.initAutocomplete('http://store.griffintechnology.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+			//]]>
+			</script>
+		</div>
+	</div>
+</form>
+								<ul id="cart-helpers">
+					<li class="cart level-top parent first last">
+						<a href="http://store.griffintechnology.com/checkout/cart/" class="trigger hot account level-top">
+							<span class="title">Cart</span>
+							<svg width="20" height="18" viewBox="0 0 20 18">
+							  <path d="M6.59 13.76c-1.05 0-1.9 0.85-1.9 1.9 0 1.05 0.85 1.9 1.9 1.9 1.05 0 1.9-0.85 1.9-1.89C8.49 14.61 7.64 13.76 6.59 13.76zM15.28 13.76c-1.05 0-1.9 0.85-1.9 1.9 0 1.05 0.85 1.9 1.9 1.9 1.05 0 1.9-0.85 1.9-1.89C17.19 14.61 16.33 13.76 15.28 13.76zM3.02 3.2l2.42 9.23c0.08 0.32 0.37 0.54 0.7 0.54h9.6c0.4 0 0.73-0.32 0.73-0.72 0-0.4-0.32-0.72-0.72-0.72H6.69l-0.38-1.45h10.45c0.1 0 0.19-0.06 0.23-0.16l2.42-6.74c0.03-0.07 0.01-0.16-0.03-0.22 -0.04-0.06-0.12-0.1-0.2-0.1H4.43L3.94 0.99C3.85 0.67 3.57 0.45 3.24 0.45H1.31c-0.4 0-0.72 0.32-0.72 0.72 0 0.4 0.32 0.72 0.73 0.72h1.37L3.02 3.19c0 0 0 0 0 0L3.02 3.2z"></path>
+							</svg>
+							<span class="quantity">0</span>
+						</a>
+						<!--ewpagecache:checkout_cart_sidebar_begin:efc1d-->	<div class="wrapper block block-cart">
+		<div class="sub-links cart-helper level0">
+			<div class="block-title" id="cartHeader">
+				<h3><a href="http://store.griffintechnology.com/checkout/cart/">Your Cart</a></h3>
+			</div>
+			<div class="block-content" id="topCartContent">
+										        
+									<p class="empty">You have no items in your shopping cart.</p>
+								<script type="text/javascript">
+					$('cart-helpers').down('.quantity').update("0");
+				</script>
+			</div>
+		</div>
+	</div>
+<!--ewpagecache:checkout_cart_sidebar_end-->					</li>
+				</ul>
+				
+				
+				<div class="account">
+	<a class="trigger hot customer-link-account" title="Account" href="https://store.griffintechnology.com/customer/account/">
+		<span class="title">Account</span>
+		<svg width="21" height="18" viewBox="0 0 21 18">
+			<path fill="#72C164" d="M17.79 13.45c-1.53-0.77-0.94-0.18-2.83-0.96 -1.88-0.78-2.33-1.04-2.33-1.04l-0.02-1.8c0 0 0.71-0.54 0.93-2.24 0.44 0.13 0.59-0.52 0.61-0.93 0.03-0.4 0.26-1.64-0.28-1.53 0.11-0.83 0.2-1.58 0.16-1.98C13.9 1.56 12.94 0.11 10.51 0 8.45 0.11 7.11 1.57 6.98 2.96 6.94 3.36 7.02 4.11 7.13 4.94 6.59 4.83 6.82 6.08 6.85 6.48 6.87 6.89 7.02 7.54 7.46 7.41 7.68 9.11 8.39 9.65 8.39 9.65l-0.02 1.81c0 0-0.45 0.27-2.33 1.06 -1.88 0.79-1.29 0.16-2.83 0.93 -2.43 1.21-2.43 4.55-2.43 4.55h9.73 9.7C20.22 18 20.22 14.66 17.79 13.45z"></path>
+		</svg>
+	</a>
+	<div class="wrapper">
+		<div class="sub-links">
+										<h3>Login</h3>
+				<form action="https://store.griffintechnology.com/customer/account/loginPost/" method="post" id="header-login-form">
+					<ul class="form-list">
+						<li class="input-box">
+							<input type="text" name="login[username]" value="" id="email" class="input-text required-entry validate-email" title="Email Address" onblur="if (this.value == '') {this.value = 'Email address';}" onfocus="if (this.value == 'Email address') {this.value = '';}" placeholder="Email address">
+						</li>
+						<li class="input-box">
+							<input type="password" name="login[password]" value="Password" class="input-text required-entry validate-password" id="pass" title="Password" onblur="if (this.value == '') {this.value = 'Password';}" onfocus="if (this.value == 'Password') {this.value = '';}" placeholder="Password">
+						</li>
+					</ul>
+					<a class="forgot" href="https://store.griffintechnology.com/customer/account/forgotpassword/">Forgot Your Password?</a>
+					<div class="buttons-set">
+	                    <button type="submit" class="button half left" title="Login" name="send" id="send2">Login</button>
+						<a class="button half right register" href="https://store.griffintechnology.com/customer/account/create/">Register</a>
+	                </div>
+	            </form>
+				<script type="text/javascript">
+				//<![CDATA[
+					var headLogForm = new VarienForm('header-login-form', true);
+				//]]>
+				</script>
+					</div>
+	</div>
+</div>
+			</div>
+		</nav>
+	</div>
+</header>
+        <section class="page-main col1-layout">
+												<div class="main">
+								<div class="legal container">
+	<div class="row legal-header">
+		<header>
+			<div class="left">
+				<h1>Privacy Policy</h1>
+			</div>
+			<div class="right">
+				<aside>Last Modified: December 2013</aside>
+			</div>
+		</header>
+	</div>
+	<div class="row legal-content">
+		<div class="right legal-sidebar">
+			<h2>Jump to Section</h2>
+			<ul>
+				<li>
+					<a class="intrapage" href="#s1">
+						Introduction
+					</a>
+				</li>
+				<li>
+					<a class="intrapage" href="#s2">
+						Children Under the Age of 13
+					</a>
+				</li>
+				<li>
+					<a class="intrapage" href="#s3">
+						Information We Collect About You and How We Collect It
+					</a>
+				</li>
+				<li>
+					<a class="intrapage" href="#s4">
+						How We Use Your Information
+					</a>
+				</li>
+				<li>
+					<a class="intrapage" href="#s5">					
+						Disclosure of Your Information
+					</a>
+				</li>
+				<li>
+					<a class="intrapage" href="#s6">
+						Accessing and Correcting Your Information
+					</a>
+				</li>
+				<li>
+					<a class="intrapage" href="#s7">
+						Links to Other Websites
+					</a>
+				</li>
+				<li>
+					<a class="intrapage" href="#s8">
+						Data Security
+					</a>
+				</li>
+				<li>
+					<a class="intrapage" href="#s9">
+						Changes to Our Privacy Policy
+					</a>
+				</li>
+				<li>
+					<a class="intrapage" href="#s10">
+						Contact Information
+					</a>
+				</li>
+			</ul>
+		</div>
+		<script type="text/javascript">
+			$j(document).ready(function() {
+				$j(window).scroll(function() { $j('section, .legal-sidebar').trigger("scrollEvent"); });
+				$j(document).bind('touchmove', function() { $j('section, .legal-sidebar').trigger("touchTrigger"); });
+
+				$j('.legal').on({
+					scrollEvent: 	function(){fixedSidebarNav($j('.legal-sidebar'), $j('.legal-content'), $j('.legal-header'), $j('.bottom'));},
+					touchTrigger: 	function(){fixedSidebarNav($j('.legal-sidebar'), $j('.legal-content'), $j('.legal-header'), $j('.bottom'));}
+				}, '.legal-sidebar');
+			});
+		</script>
+		<div class="left">
+			<h2 id="s1">Introduction</h2>
+			<p>
+				Griffin Technology, Inc. (“<strong>Griffin</strong>” or “<strong>We</strong>”) respect your privacy and are committed to protecting it through our compliance with this policy.
+			</p>
+			<p>
+				This policy describes the types of information we may collect from you or that you may provide when you visit the website www.griffintechnology.com (our “<strong>Website</strong>”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+			</p>
+			<p>
+				This policy applies to information we collect:
+			</p>
+			<ul>
+				<li>
+					on this Website; and
+				</li>
+				<li>
+					in e-mail, text and other electronic messages between you and this Website.
+				</li>
+			</ul>
+			<p>
+				It does not apply to information collected by:
+			</p>
+			<ul>
+				<li>
+					us offline or through any other means, including on any other website operated by Griffin or any third party; or 
+				</li>
+				<li>
+					any third party, including through any application or content (including advertising) that may link to or be accessible from the Website.
+				</li>
+			</ul>
+			<p>
+				Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
+			</p>
+			<h2 id="s2">Children Under the Age of 13</h2>
+			<p>
+				Our Website is not intended for children under 13 years of age. No one under age 13 may provide any information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at privacy@griffintechnology.com. 
+			</p>
+			<h2 id="s3">Information We Collect About You and How We Collect It</h2>
+			<p>
+			 	We collect several types of information from and about users of our Website, including information:
+			</p>
+			<ul>
+			 	<li>
+			 		by which you may be personally identified, such as name, postal address, e-mail address or telephone number (“<strong>personal information</strong>”);
+			 	</li>
+			 	<li>
+					that is about you but individually does not identify you; and/or
+				</li>
+				<li>
+					about your internet connection, the equipment you use to access our Website and usage details.
+				</li>
+			</ul>
+			<p>
+			 	We collect this information:
+			</p>
+			<ul>
+			 	<li>
+			 		directly from you when you provide it to us; and/or
+			 	</li>
+			 	<li>
+					automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons and other tracking technologies.
+				</li>
+			</ul>
+			<h3>Information You Provide to Us.</h3>
+			<p>
+			 	The information we collect on or through our Website may include:
+			</p>
+			<ul>
+			 	<li>
+			 		information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website or completing a purchase on our Website. We may also ask you for information when you report a problem with our Website;
+			 	</li>
+			 	<li>
+					records and copies of your correspondence (including e-mail addresses), if you contact us;
+				</li>
+				<li>
+					details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website; and/or
+				</li>
+				<li>
+					your search queries on the Website.
+				</li>
+			</ul>
+			<h3>User Contributions; Third-Party Sites, Plug-ins and Applications.</h3>
+			<p>
+			 	You also may provide information to be published or displayed (hereinafter, “<strong>posted</strong>”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “<strong>User Contributions</strong>”), including through third-party social media sites, plug-ins and applications such as Disqus, Facebook, Twitter, etc. Your User Contributions are posted on and transmitted to others at your own risk. We cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. 
+			</p>
+			<p>
+			 	When you engage with our content on or through third-party social media sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed) from your interaction with our content. 
+			</p>
+			<p>
+			 	The information practices of third-party social media sites may be different than ours. Through some social media sites’ privacy settings, you can control what data you share. For more information about how social media sites handle your personal information, please refer to their privacy policies and terms of use as we have no control over information that is submitted to, or collected by, these third parties. 
+			</p>
+			<h3>Usage Details, IP Addresses Cookies and Other Technologies.</h3>
+			<p>
+			 	As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including:
+			</p>
+			<ul>
+			 	<li>
+			 		details of your visits to our Website, including traffic data, location data and other communication data and the resources that you access and use on the Website; and
+			 	</li>
+			 	<li>
+					information about your computer and internet connection, including your IP address, operating system and browser type.
+				</li>
+			</ul>
+			<p>
+			 	The information we collect automatically is statistical data. It helps us to improve our Website and to deliver a better and more personalized service by enabling us to:
+			</p>
+			<ul>
+			 	<li>
+			 		estimate our audience size and usage patterns;
+			 	</li>
+			 	<li>
+					store information about your preferences, allowing us to customize our Website according to your individual interests;
+				</li>
+				<li>
+					speed up your searches; and
+				</li>
+				<li>
+					recognize you when you return to our Website.
+			 	</li>
+			</ul>
+			<p>
+			 	The technologies we use for this automatic data collection may include:
+			</p>
+			<ul>
+			 	<li>
+			 		<strong>Cookies (or browser cookies).</strong> A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. 
+			 	</li>
+			 	<li>
+					<strong>Flash Cookies.</strong> Certain features of our Website may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from and on our Website. Flash cookies are not managed by the same browser settings as are used for browser cookies. For information about managing your privacy and security settings for Flash cookies, see Choices about How We Use and Disclose Your Information.
+				</li>
+				<li>
+					<strong>Web Beacons.</strong> Pages of our the Website may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit Griffin, for example, to count users who have visited those pages or and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
+				</li>
+			</ul>
+			<p>
+			 	We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us.
+			</p>
+			<h2 id="s4">How We Use Your Information</h2>
+			<p>
+			 	We use information that we collect about you or that you provide to us, including any personal information:
+			</p>
+			<ul>
+			 	<li>
+			 		to present our Website and its contents to you;
+			 	</li>
+			 	<li>
+					to provide you with information, products or services that you request from us;
+				</li>
+				<li>
+					to fulfill any other purpose for which you provide it;
+				</li>
+				<li>
+					to provide you with notices about your account;
+				</li>
+				<li>
+					to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
+				</li>
+				<li>
+					to notify you about changes to our Website or any products or services we offer or provide though it;
+				</li>
+				<li>
+					in any other way we may describe when you provide the information; and/or
+				</li>
+				<li>
+					for any other purpose with your consent.
+				</li>
+			</ul>
+			<p>
+				We may also use your information to contact you about goods and services that may be of interest to you. If you do not want us to use your information in this way, please contact us at OptOutMailings@griffintechnology.com to request that you not be sent any or all of such information. For more information, see Choices About How We Use and Disclose Your Information. 
+			</p>
+			<h3>Google Analytics and Adwords.</h3>
+			<p>
+				We use certain features of Google Analytics for Display Advertisers, including Google Display Network Impression Reporting and Remarketing, to track the results of certain of our online advertisements and to display content-specific advertisements to visitors that have previously visited our site. We and other third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to (i) report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to our Website, and (ii) inform, optimize, and serve ads based on visitors’ past visits to our Website. 
+			</p>
+			<p>
+				You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Google Ads Settings located at www.google.com/settings/ads. To prevent your data from being collected and used by Google Analytics, you can download and install the Google Analytics opt-out browser add-on at https://tools.google.com/dlpage/gaoptout/.
+			</p>
+			<h2 id="s5">Disclosure of Your Information</h2>
+			<p>
+				We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
+			</p>
+			<p>
+				We may disclose personal information that we collect or you provide as described in this privacy policy:
+			</p>
+			<ul>
+				<li>
+					to our subsidiaries and affiliates;
+				</li>
+				<li>
+					to contractors, service providers and other third parties we use to support our business;
+				</li>
+				<li>
+					to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Griffin’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Griffin about our Website users is among the assets transferred;
+				</li>
+				<li>
+					to vendors that Griffin deems provide goods or services that you may be interested in, if you have not opted out of these disclosures. You may opt out of receiving such vendor emails by contacting us at OptOutVendorEmail@griffintechnology.com (for more information, see Choices About How We Use and Disclose Your Information);
+				</li>
+				<li>
+					to fulfill the purpose for which you provide it;
+				</li>
+				<li>
+					for any other purpose disclosed by us when you provide the information; and/or
+				</li>
+				<li>
+					with your consent.
+				</li>
+			</ul>
+			<p>
+				We may also disclose your personal information:
+			</p>
+			<ul>
+				<li>
+					to comply with any court order, law or legal process, including to respond to any government or regulatory request;
+				</li>
+				<li>
+					to enforce or apply our Terms of Use, located at http://griffintechnology.com/company/terms-of-use, and other agreements, including for billing and collection purposes; and/or
+				</li>
+				<li>
+					if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Griffin, our customers or others. 
+				</li>
+			</ul>
+			<h3>Choices About How We Use and Disclose Your Information</h3>
+			<p>
+				We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
+			</p>
+			<ul>
+				<li>
+					<strong>Tracking Technologies and Advertising.</strong> You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+				</li>
+				<li>
+					<strong>Disclosure of Your Information for Third-Party Advertising.</strong> If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by contacting us at OptOutVendorEmail@griffintechnology.com. 
+				</li>
+				<li>
+					<strong>Promotional Offers from Griffin.</strong> If you do not wish to have your contact information used by Griffin to promote our own or third parties’ products or services, you can opt-out by contacting us at OptOutMailings@griffintechnology.com.
+				</li>
+			</ul>
+			<p>
+				We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“<strong>NAI</strong>”) on the NAI’s website.
+			</p>
+			<h2 id="s6">Accessing and Correcting Your Information</h2>
+			<p>
+				You can review and change your personal information by logging into the Website and visiting your account profile page or by contacting us at PrivacyInformationAccess@griffintechnology.com. If you believe that any of your information is incorrect or needs updating, please let us know by contacting us at the e-mail address listed above. Griffin will use reasonable efforts to correct your information and our records upon verification of the requested change. 
+			</p>
+			<h2 id="s7">Links to Other Websites</h2>
+			<p>
+				This Website may contain links to other websites. Griffin is not responsible for the content, privacy policies, products, services, reliability, viewpoint, or accuracy of information on any such websites. We do not control and shall not be responsible for the collection of personal information by third-party websites, including websites owned or controlled by our distributors, vendors and/or websites not controlled by Griffin. Third-party websites that are accessed through links on our Website have separate privacy policies. We have no responsibility or liability for the policies implemented by third parties on their websites. You should contact them directly to ask questions about their privacy policies.
+			</p>
+			<p>
+				If you enter or choose to leave our Website via links to other websites (including those of our distributors or vendors), your visits to those websites are not covered by this Privacy Policy.
+			</p>
+			<h2 id="s8">Data Security</h2>
+			<p>
+				We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. When the use of a Griffin web page involves the transmission of personal information or confidential information to Griffin, Griffin uses Secure Socket Layer (“<strong>SSL</strong>”) technology to establish a secure connection between your computer and Griffin. SSL allows the transmission of encrypted information from your computer to Griffin and back again, and is currently the industry standard for Internet platform security.
+			</p>
+			<p>
+				The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
+			</p>
+			<p>
+				Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
+			</p>
+			<h2 id="s9">Changes to Our Privacy Policy</h2>
+			<p>
+				It is our policy to post any changes we make to our privacy policy on this page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for periodically visiting our Website and this privacy policy to check for any changes.
+			</p>
+			<h2 id="s10">Contact Information</h2>
+			<p>
+				To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
+			</p>
+			<h3>Email</h3>
+			<ul>
+				<li>
+					<a href="mailto:info@griffintechnology.com">
+						info@griffintechnology.com
+					</a>
+				</li>
+			</ul>
+			<h3>U.S. Mail</h3>
+			<ul>
+				<li>
+					Griffin Technology, Inc.
+				</li>
+				<li>
+					Attn: General Information
+				</li>
+				<li>
+					2030 Lindell Avenue
+				</li>
+				<li>
+					Nashville, Tennessee 37203
+				</li>
+			</ul>
+			<h3>Telephone</h3>
+			<ul>
+				<li>615-399-7000</li>
+			</ul>
+			<h3>Facsimile</h3>
+			<ul>
+				<li>615-367-6468</li>
+			</ul>
+		</div>
+		<div class="row bottom"></div>
+	</div>
+</div>			</div>
+        </section>
+        <footer class="page-footer">
+	<div class="row main">
+		<div class="container">
+			<div class="grid thirds newsletter">
+				<div class="cell halves">
+								<h2 class="newsletter-offer-title">
+									Get the good stuff first
+								</h2>
+								<p class="newsletter-offer-description">
+									Get updates, exclusive discounts and 10% off your first order!
+								</p>
+							</div>
+				<div class="cell halves">
+					<form class="footer-newsletter-form" id="footer-newsletter" name="footersubscribeForm" method="post" onsubmit="return false">
+						<input type="email" name="Footer Email Address" onblur="if (this.value == '') {this.value = 'Enter Your Email.';}" onfocus="if (this.value == 'Enter Your Email.') {this.value = '';}" value="Enter Your Email." class="email newsletter-input" id="footer-et-newsletter-sub-email" placeholder="Enter Your Email." required="required">
+						<button type="submit" value="JOIN" id="footer-et-newsletter-sub-submit" class="hidden">
+							Sign Up
+						</button>
+						<div class="ctl button submit">
+							Sign Up
+						</div>
+						<div class="ctl success">
+							Success
+						</div>
+						<div class="alreadysub">
+							Looks like you're already subscribed to the newsletter.
+						</div>
+						<div class="error">
+							Oops! That address is incomplete or invalid. Please try again!
+						</div>
+					</form>
+				</div>
+			</div>
+			<div id="footer-nav">
+	        	<div class="row">
+<div class="social">
+									<ul class="cell">
+										<li class="social-facebook">
+											<a href="http://www.facebook.com/griffintech" title="Like Griffin on Facebook">
+												<svg xmlns="http://www.w3.org/2000/svg" width="12px" height="26px" viewBox="0 0 12 26">
+<path fill="#FFFFFF" d="M2.594,4.98c0,0.647,0,3.54,0,3.54H0v4.329h2.594v12.864h5.328V12.85l4.033,0.037
+	c0,0,0.019-3.128,0.039-4.383c-0.465,0-4.052,0-4.052,0s0-2.519,0-2.96c0-0.442,0.581-1.037,1.154-1.037s1.783,0,2.903,0
+	c0-0.59,0-2.626,0-4.507c-1.495,0-3.196,0-3.947,0C2.462,0,2.594,4.333,2.594,4.98z"></path>
+</svg>
+
+
+											</a>
+										</li>
+										<li class="social-twitter">
+											<a href="http://twitter.com/griffintech" title="Follow Griffin on Twitter">
+												<svg xmlns="http://www.w3.org/2000/svg" width="31.635px" height="25.71px" viewBox="0 0 31.635 25.71">
+<path fill="#FFFFFF" d="M31.635,3.044c-1.163,0.516-2.414,0.865-3.728,1.021c1.34-0.803,2.369-2.075,2.854-3.591
+	c-1.254,0.744-2.643,1.284-4.121,1.575C25.456,0.788,23.769,0,21.902,0c-3.585,0-6.49,2.906-6.49,6.49
+	c0,0.509,0.057,1.004,0.168,1.479C10.186,7.699,5.403,5.115,2.202,1.188C1.644,2.146,1.323,3.262,1.323,4.451
+	c0,2.252,1.146,4.238,2.888,5.402c-1.064-0.034-2.065-0.326-2.94-0.812c0,0.026,0,0.054,0,0.081c0,3.145,2.237,5.768,5.206,6.364
+	c-0.545,0.148-1.118,0.228-1.71,0.228c-0.418,0-0.824-0.04-1.221-0.116c0.826,2.578,3.223,4.455,6.062,4.507
+	c-2.221,1.741-5.02,2.779-8.061,2.779c-0.523,0-1.04-0.031-1.548-0.092c2.872,1.842,6.283,2.917,9.949,2.917
+	c11.938,0,18.466-9.891,18.466-18.467c0-0.281-0.006-0.562-0.019-0.84C29.665,5.488,30.765,4.345,31.635,3.044z"></path>
+</svg>
+
+											</a>
+										</li>
+										<li class="social-youtube">
+											<a href="http://www.youtube.com/user/therealgriffintech" title="Subscribe to Griffin on YouTube">
+												<svg xmlns="http://www.w3.org/2000/svg" width="25px" height="30.001px" viewBox="0 0 25 30.001">
+<path fill="#FFFFFF" d="M21.147,21.944H19.5l0.008-0.956c0-0.425,0.35-0.772,0.776-0.772h0.104c0.428,0,0.777,0.348,0.777,0.772
+	L21.147,21.944z M14.972,19.895c-0.418,0-0.76,0.281-0.76,0.625v4.651c0,0.343,0.342,0.623,0.76,0.623
+	c0.419,0,0.761-0.28,0.761-0.623V20.52C15.732,20.176,15.391,19.895,14.972,19.895z M25,17.293v8.849c0,2.122-1.84,3.859-4.09,3.859
+	H4.091C1.84,30.001,0,28.264,0,26.142v-8.849c0-2.122,1.84-3.859,4.091-3.859H20.91C23.16,13.434,25,15.171,25,17.293z
+	 M5.212,27.103l-0.001-9.321l2.085,0.001v-1.381l-5.558-0.009v1.358l1.735,0.005v9.347H5.212z M11.463,19.17H9.724v4.978
+	c0,0.72,0.044,1.08-0.002,1.207c-0.142,0.386-0.777,0.795-1.024,0.041c-0.042-0.132-0.005-0.53-0.006-1.214L8.685,19.17H6.956
+	l0.005,4.933c0.001,0.756-0.017,1.32,0.006,1.576c0.042,0.452,0.027,0.98,0.447,1.281c0.782,0.563,2.28-0.084,2.655-0.89
+	l-0.003,1.027l1.396,0.002V19.17z M17.023,24.87l-0.004-4.144c-0.001-1.578-1.182-2.524-2.785-1.247l0.007-3.079l-1.737,0.002
+	l-0.009,10.631l1.428-0.021l0.131-0.662C15.879,28.024,17.026,26.878,17.023,24.87z M22.464,24.32l-1.304,0.007
+	c0,0.052-0.002,0.111-0.003,0.177v0.728c0,0.389-0.321,0.706-0.712,0.706h-0.256c-0.391,0-0.712-0.317-0.712-0.706V25.15v-0.8
+	v-1.032h2.984v-1.124c0-0.821-0.021-1.642-0.089-2.11c-0.213-1.485-2.297-1.721-3.35-0.961c-0.331,0.237-0.583,0.555-0.73,0.982
+	c-0.148,0.427-0.221,1.011-0.221,1.751v2.47C18.072,28.433,23.059,27.853,22.464,24.32z M15.778,10.911
+	c0.089,0.218,0.229,0.395,0.418,0.528c0.187,0.131,0.426,0.197,0.711,0.197c0.251,0,0.473-0.068,0.666-0.208
+	c0.192-0.139,0.355-0.347,0.487-0.623l-0.032,0.682h1.938v-8.24H18.44V9.66c0,0.348-0.286,0.632-0.636,0.632
+	c-0.348,0-0.635-0.284-0.635-0.632V3.247h-1.592v5.558c0,0.708,0.012,1.18,0.033,1.42C15.635,10.462,15.688,10.689,15.778,10.911z
+	 M9.905,6.257c0-0.791,0.066-1.409,0.197-1.854c0.132-0.443,0.369-0.8,0.713-1.069c0.342-0.27,0.78-0.405,1.313-0.405
+	c0.448,0,0.832,0.088,1.153,0.261c0.322,0.173,0.57,0.398,0.743,0.676c0.176,0.278,0.295,0.565,0.359,0.858
+	c0.064,0.297,0.097,0.745,0.097,1.349v2.084c0,0.765-0.03,1.327-0.09,1.685c-0.059,0.357-0.186,0.689-0.382,1.001
+	c-0.193,0.308-0.443,0.538-0.746,0.686c-0.306,0.148-0.655,0.221-1.051,0.221c-0.441,0-0.814-0.061-1.121-0.188
+	c-0.308-0.127-0.545-0.317-0.714-0.571c-0.172-0.254-0.292-0.563-0.364-0.924C9.94,9.702,9.905,9.161,9.905,8.438V6.257z
+	 M11.423,9.53c0,0.467,0.349,0.848,0.771,0.848c0.424,0,0.77-0.381,0.77-0.848V5.144c0-0.467-0.346-0.848-0.77-0.848
+	c-0.422,0-0.771,0.381-0.771,0.848V9.53z M6.061,11.745h1.828l0.002-6.32l2.16-5.414H8.052L6.903,4.032L5.738,0H3.76l2.298,5.428
+	L6.061,11.745z"></path>
+</svg>
+											</a>
+										</li>
+										<li class="social-instagram">
+											<a href="http://instagram.com/griffintech" title="Follow us on Instagram">
+												<svg xmlns="http://www.w3.org/2000/svg" width="25.502px" height="25.502px" viewBox="0 0 25.502 25.502">
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M22.56,10.788h-2.22c0.161,0.628,0.257,1.284,0.257,1.963
+	c0,4.334-3.513,7.847-7.846,7.847c-4.334,0-7.847-3.513-7.847-7.847c0-0.679,0.096-1.335,0.258-1.963H2.941v10.79
+	c0,0.541,0.439,0.98,0.982,0.98h17.654c0.542,0,0.981-0.439,0.981-0.98V10.788z M22.56,3.923c0-0.542-0.439-0.98-0.981-0.98h-2.942
+	c-0.541,0-0.98,0.438-0.98,0.98v2.943c0,0.541,0.439,0.98,0.98,0.98h2.942c0.542,0,0.981-0.439,0.981-0.98V3.923z M12.751,7.847
+	c-2.709,0-4.904,2.195-4.904,4.904c0,2.708,2.195,4.904,4.904,4.904c2.708,0,4.904-2.196,4.904-4.904
+	C17.655,10.042,15.459,7.847,12.751,7.847 M22.56,25.502H2.941C1.317,25.502,0,24.185,0,22.559V2.942C0,1.317,1.317,0,2.941,0H22.56
+	c1.625,0,2.942,1.317,2.942,2.942v19.616C25.502,24.185,24.185,25.502,22.56,25.502"></path>
+</svg>
+											</a>
+										</li>
+										<li class="social-blog">
+											<a href="http://griffintechnology.com/blog/" title="Griffin Technology Blog">
+												<svg xmlns="http://www.w3.org/2000/svg" width="28.502px" height="28.502px" viewBox="0 0 28.502 28.502">
+<path fill="#FFFFFF" d="M14.251,0C6.394,0,0,6.393,0,14.251c0,7.857,6.394,14.251,14.251,14.251s14.251-6.394,14.251-14.251
+	C28.502,6.393,22.108,0,14.251,0z M1.438,14.251c0-1.858,0.398-3.621,1.109-5.215L8.66,25.781
+	C4.386,23.705,1.438,19.322,1.438,14.251z M14.251,27.063c-1.258,0-2.472-0.184-3.62-0.521l3.845-11.171l3.938,10.79
+	c0.025,0.063,0.058,0.121,0.092,0.177C17.174,26.807,15.743,27.063,14.251,27.063z M16.017,8.243
+	c0.771-0.04,1.467-0.121,1.467-0.121c0.689-0.082,0.608-1.097-0.082-1.057c0,0-2.075,0.163-3.415,0.163
+	c-1.259,0-3.374-0.163-3.374-0.163C9.921,7.025,9.84,8.081,10.53,8.122c0,0,0.654,0.081,1.344,0.121l1.996,5.47l-2.804,8.409
+	L6.4,8.243c0.772-0.04,1.467-0.121,1.467-0.121C8.557,8.04,8.476,7.025,7.785,7.065c0,0-2.075,0.163-3.415,0.163
+	c-0.24,0-0.523-0.006-0.824-0.016c2.291-3.478,6.229-5.774,10.705-5.774c3.335,0,6.373,1.275,8.652,3.363
+	c-0.056-0.003-0.109-0.01-0.166-0.01c-1.259,0-2.152,1.096-2.152,2.273c0,1.057,0.609,1.949,1.259,3.005
+	c0.487,0.854,1.057,1.95,1.057,3.534c0,1.097-0.422,2.369-0.976,4.142l-1.277,4.271L16.017,8.243z M25.494,8.104
+	c1,1.825,1.569,3.919,1.569,6.147c0,4.727-2.562,8.854-6.371,11.074l3.913-11.314c0.731-1.828,0.975-3.29,0.975-4.59
+	C25.58,8.95,25.549,8.512,25.494,8.104z"></path>
+</svg>
+
+											</a>
+										</li>
+									</ul>
+								</div>
+	<div class="company">
+		<div class="row">
+			<ul class="cell">
+				<li><a class="title" href="http://www.griffintechnology.com/support" title="Help &amp; Support">Support</a></li>
+				<li><a href="http://www.griffintechnology.com/support" title="Find your product by category or search">Find Your Product</a></li>
+				<li><a href="http://www.griffintechnology.com/support/contact" title="Contact Support">Contact Support</a></li>
+				<li><a href="http://www.griffintechnology.com/support/downloads" title="Download drivers and manuals">Downloads</a></li>
+				<li><a href="http://www.griffintechnology.com/support/shipping" title="Shipping information">Shipping Info</a></li>
+				<li><a href="http://www.griffintechnology.com/support/returns" title="Warranty information">Warranty Info</a></li>
+			</ul>
+			<ul class="cell">
+				<li><a class="title" href="http://www.griffintechnology.com/business" title="Business-to-business information including bulk orders, branding, and customization">Business</a></li>
+				<li><a href="http://www.griffintechnology.com/business/custom-cases" title="Custom branding solutions for cases">Custom Cases</a></li>
+				<li><a href="http://www.griffintechnology.com/business/education" title="Solutions for technology in the classroom">Education</a></li>
+			</ul>
+			<ul class="cell">
+				<li><a class="title" href="http://www.griffintechnology.com/company" title="Information about Griffin Technology">Company</a></li>
+				<li><a href="http://www.griffintechnology.com/company/contact" title="Contact information for Griffin Technology">Contact Info</a></li>
+				<li><a href="http://www.griffintechnology.com/company/careers" title="Employment opportunities at Griffin Technology">Careers</a></li>
+				<li><a href="http://www.griffintechnology.com/company/retailers" title="Find retailers in your region">Find Retailers</a></li>
+				<li><a href="http://www.griffintechnology.com/company/affiliates" title="Affiliate Program">Affiliate Program</a></li>
+				<li><a href="http://www.griffintechnology.com/company/privacy" title="Privacy Policy">Privacy Policy</a></li>
+                                <li><a href="http://store.griffintechnology.com/trademarks" title="Trademarks">Trademarks</a></li>
+                                <li><a href="http://store.griffintechnology.com/counterfeit" title="Counterfeit">Counterfeit</a></li>
+			</ul>
+			<ul class="cell">
+				<li><a class="title" href="http://www.griffintechnology.com/press" title="Press information">Press</a></li>
+				<li><a href="http://www.griffintechnology.com/press/releases" title="The latest announcements from Griffin Technology">Press Releases</a></li>
+				<li><a href="http://www.griffintechnology.com/press/images" title="High-Resolution Images of Griffin products">Press Images</a></li>
+				<li><a href="http://www.griffintechnology.com/press/coverage" title="Griffin Technology in the news">Media Coverage</a></li>
+			</ul>
+		</div>
+	</div>
+</div>			</div>			 
+	    </div>
+	</div>
+	
+	<div class="row sub">
+		<div class="container">
+			<a class="logo" href="http://www.griffintechnology.com" title="Griffin Technology">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 48">
+					<path d="M36.444 44.166c0-0.205 0.002-29.883 0-32.511 0-0.123-0.077-0.208-0.215-0.208 -1.52-0.004-10.649 0-12.29 0 -6.924 0-12.536 5.611-12.536 12.551 0 6.939 5.612 12.564 12.536 12.564 1.974 0 3.837-0.459 5.498-1.27v4.234c0 0 0.021 0.299-0.251 0.379 -1.652 0.549-3.408 0.859-5.246 0.859C14.7 40.75 7.229 33.258 7.21 23.999c0-9.254 7.479-16.771 16.71-16.781h0.019 12.286c0 0 0.221 0.017 0.221-0.221 0-0.234 0-5.643 0-6.786 0-0.206-0.202-0.209-0.202-0.209H23.646v0.004C10.56 0.163 0 10.844 0 23.999c0 13.253 10.714 23.998 23.939 23.998 2.021 0 3.973-0.279 5.843-0.75 2.339-0.59 4.462-1.492 6.468-2.713C36.25 44.533 36.444 44.445 36.444 44.166zM29.437 18.796c0 0.877 0 4.157 0 5.203 -0.004 3.037-2.468 5.494-5.498 5.501 -3.031-0.008-5.478-2.465-5.486-5.501 0.008-3.034 2.455-5.448 5.486-5.484 -0.006 0 5.209 0 5.223 0C29.316 18.516 29.437 18.603 29.437 18.796z"></path>
+				</svg>
+			</a>
+			<div class="info">
+				<address>2030 Lindell Ave, Nashville TN 37203 USA  &nbsp;+1 (877) 386-0373</address>
+				<span class="copyright">All Content © 2014 Griffin Technology. All Rights Reserved.</span>
+			</div>
+			<div id="verisign" title="This site uses VeriSign SSL for security">
+				<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=store.griffintechnology.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
+			</div>
+					</div>
+	</div>
+</footer>            </div>
 </div>
 
-
-
-
-
-
-
-</div></body></html>
+</body></html>
