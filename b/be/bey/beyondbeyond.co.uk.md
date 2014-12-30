@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondbeyond.co.uk privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417094937id_/http%3A//beyondbeyond.co.uk/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondbeyond.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230114032id_/http%3A//beyondbeyond.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Beyond Beyond ™ Wedding Blog - UK Wedding Blog & Wedding Magazine| International Wedding Blog | Free iPad Wedding Magazine | Photography, Style, Design & Inspiration
 
@@ -68,6 +68,6 @@ hello@beyondbeyond.co.uk
 
 This document was last updated on December 08, 2012
 
-[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fbeyondbeyond.co.uk%2Fblog%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
+[](https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fbeyondbeyond.co.uk%2Fprivacy-policy%2F&media=&description=Privacy%20Policy)
 
  
