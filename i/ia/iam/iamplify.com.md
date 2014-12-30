@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamplify.com privacy policy that was archived on 2014-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140204012919id_/http%3A//www.iamplify.com/store/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamplify.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230062916id_/http%3A//www.iamplify.com/store/privacy) for the most accurate reproduction.*
 
 # Download Mp3 & Mp4's, Videos, Audio Books: Fitness, Business, Self Help, DIY, More
 
