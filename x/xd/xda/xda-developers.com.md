@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630063641id_/http%3A//www.xda-developers.com/index.php/xda-developers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080740id_/http%3A//www.xda-developers.com/index.php/xda-developers-privacy-policy) for the most accurate reproduction.*
 
-# XDA-Developers Privacy Policy - xda-developers
+# XDA-Developers Privacy Policy - XDA Forums
 
 **What information do we collect?**
 
@@ -71,6 +71,9 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Use of VigLink**  
 Please note that xda-developers.com makes use of a system called VigLink in order to change links to certain online retailers being displayed on the site to include an affiliate marketing tag. This tag permits those online retailers to know that a user clicking those links has been referred by our site so that we may receive a commission on certain sales. VigLink and other online referral software programs are commonly used across the Internet, though if you have a problem with this practice, we urge you to [turn off VigLink](http://www.viglink.com/policies/ftc).
+
+**Use of Magnetic**  
+Company allows Magnetic to monitor Company affiliated sites for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities, and such Magnetic may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Company users. For further information about Magnetic’s search re-targeting product, Magnetic’s homepage on the Web is located at http://www.magnetic.com. The full text of Magnetic’s privacy policy is available on the Web at http://privacy.magnetic.com. Magnetic may allow third parties to monitor Magnetic associated sites for the purpose of reporting website traffic, statistics, advertisements, “click-throughs” and/or other activities, and such third parties may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about Magnetic users. Users may go to http://magnetic.com for information on what is being tracked. Users may go to http://privacy.magnetic.com/w3c/optout.html for information on how to opt-in or opt-out of use of their information by Magnetic and may go to http://www.networkadvertising.org/managing/opt_out.asp to opt-out of most third party tracking.
 
 **Terms and Conditions**
 
