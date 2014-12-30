@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dploy.io privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050221id_/http%3A//dploy.io/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dploy.io privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230075809id_/http%3A//dploy.io/privacy-policy.html) for the most accurate reproduction.*
 
 # dploy.io Privacy Policy
 
