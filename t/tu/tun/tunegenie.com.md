@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tunegenie.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141840id_/http%3A//www.tunegenie.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunegenie.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230201624id_/http%3A//www.tunegenie.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,6 +34,17 @@ Your Facebook profile picture and name may appear in various widgets displayed o
 
 We may collect anonymous demographic information that is not unique to you, such as your ZIP code, domicile, age, gender, preferences and interests. We may use this information in aggregate with affiliates, advertisers, business partners or unaffiliated third parties for the purpose of performing business services for us. We may transfer information we have about you in connection with the sale of all or part of our business. We reserve the right to disclose personal information to regulatory authorities, law enforcement agencies or as required by applicable law.
 
+## Digital Measurement
+
+  1. Our site’s media player includes proprietary measurement software which allows users to contribute to market research from Nielsen.
+
+  2. Here is a link to Nielsen’s Digital Measurement Privacy Policy where you can access more detailed information about the measurement software and learn about your choices with regard to Nielsens’s measurement. <http://www.nielsen.com/digitalprivacy>
+
+  3. On Nielsen’s Digital Measurement Privacy Policy page, <http://www.nielsen.com/digitalprivacy> in the “Choices” section of the Digital Measurement Privacy Policy Page;  if you do not want to participate you can Opt-Out, or Opt back in if you choose.
+
+
+
+
 ## Security
 
 Our Site is not designed to store sensitive personal information such as financial, health or educational records and you should not use our site for that purpose. TUNEGENIE uses measures that we believe are commercially reasonable to secure your personal information, but we cannot and do not assure that these measures will be sufficient to protect against all efforts to gain unauthorized access to the information.
@@ -54,7 +65,7 @@ If you use the Site outside of the United States, you fully understand and unamb
 
 By using our Site, you consent to the collection and use of your personal information by TUNEGENIE as described above. If we decide to update our Privacy Policy, we will post these changes next to the Privacy Policy link on the front page of our Site. If there are material changes to the Privacy Policy, we will prominently post such changes prior to implementing the change. Any information collected under our old Privacy Policy will be subject to the terms of our new Privacy Policy.
 
-Last Modified: October 20, 2010
+Last Modified: October 24, 2014
 
 TUNEGENIE C/O MusicToGo, LLC  
 Po Box 491 Riverside Ct 06878  
