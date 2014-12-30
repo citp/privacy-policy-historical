@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wonderingsound.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630102519id_/http%3A//wonderingsound.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderingsound.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230211456id_/http%3A//www.wonderingsound.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wondering Sound
 
-Last updated: 3/3/14
+Last updated: 9/30/14
 
 We take your privacy very seriously.  Your Information and Your Data are subject to our “Privacy Policy.”  By using the Website you agree to and consent to the collection and use of Your Information and Your Data by us as described herein.
 
@@ -17,6 +17,8 @@ We may collect non-personally identifiable information about you in a number of 
 When you use the Website, we might insert some instructions on your computer, tablet or mobile device.  These instructions will be in the form of a “cookie” or similar file.  Cookies are small pieces of instruction stored on your hard drive or device, not on our Website.  Cookies may help you navigate the Website as easily as possible.  We may use cookies to deliver content specific to your interests.  You can delete these cookies by changing your privacy preferences in your internet browser.
 
 We typically use Your Information and Your Data for the purpose of providing you the Website and Service to offer you additional products and services from us or from others that may be of interest to you, and to improve the design and performance of the Website.  We may share Your Information with third parties to deliver to you certain content, information, services and notices from third parties as well as communications regarding information, events, content, products and services of such third parties.  You may opt out of receiving email communications by clicking “unsubscribe” from an email sent to you by us or any third party.
+
+We may also require you to provide Your Information in order to enter a contest or sweepstakes. We may disclose Your Information to third parties in order to facilitate such contest or sweepstakes. 
 
 We may disclose Your Information, Content and Your Data if, among other things, we are required to do so by law or if acting with a good faith belief that such disclosure is reasonably necessary to: (1) comply with legal process; (2) enforce the TERMS; (3) respond to claims that any Content violates the rights of third parties; (4) respond to your requests for customer service; or (5) protect our rights, property or personal safety, or the rights, property or personal safety of our users or the public.
 
