@@ -1,6 +1,36 @@
-> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531170657id_/http%3A//www.jeevansathi.com/P/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeevansathi.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044716id_/http%3A//www.jeevansathi.com/P/privacy_policy.php) for the most accurate reproduction.*
 
 # Jeevansathi Matrimonials- Privacy Policy
+
+  
+  
+
+
+[](http://www.jeevansathi.com/register/page1?source=rightpanel)
+
+Success Stories
+
+navneet ka  
+weds   
+ZZWS9164
+
+Success Stories
+
+Manjusha S  
+weds   
+Vivek Potn
+
+Success Stories
+
+AKANKSHA   
+weds   
+AKASH GUPT
+
+Success Stories
+
+Aakanksha  
+weds   
+ZZUW9482
 
 Jeevansathi.com is a division of Info Edge (I) Ltd. It is an online matrimonial portal endeavoring constantly to provide you with premium matrimonial services. Since we are strongly committed to your right to privacy, we have drawn have a privacy statement in place with regard to the information we collect from you.
 
