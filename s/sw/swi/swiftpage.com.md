@@ -1,65 +1,100 @@
-> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2012-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120423164245id_/http%3A//www.swiftpage.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftpage.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230122038id_/http%3A//www.swiftpage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Swiftpage
+# Swiftpage | Privacy Policy
 
-##  Swiftpage Privacy Policy
+Swiftpage is dedicated to the privacy and rights of our customers. The privacy of our customers and affiliates is important to us. Therefore:
 
-Swiftpage is dedicated to the privacy and rights of our customers. We do not sell or distribute   
-any of the information collected from patrons of our service for profit or any other reason. For   
-a detailed description of our practices, read our privacy policy below.
+  * We do not sell or rent personally identifiable information
+  * We do not spam, and our policies forbid use of our Services for spam. You may also want to read our [No Spam Policy](http://swiftpage.com/anti-spam-policy).
 
-**Swiftpage Contact Information**   
-You can contact Swiftpage by calling 303.978.1000 or by emailing [CustomerCare@swiftpage.com](mailto:CustomerCare@swiftpage.com).    
-Additional Swiftpage contact information can be found at <http://www.swiftpage.com/contact.htm>.  
 
-Swiftpage Physical Address:  
-383 Inverness Pkwy.  
-Suite 340  
-Englewood, CO 80112
 
-**Customer Information**
+This policy describes the types of information we may collect from you or that you may provide when you visit any Swiftpage company websites (“Websites”), including but not limited to [www.swiftpage.com](http://www.swiftpage.com/), [act.com](http://act.com/), [saleslogix.com](http://saleslogix.com/), [swiftpageconnect.com](http://swiftpageconnect.com/), or use any Swiftpage products or applications, and our practices for collecting, using, maintaining, protecting and disclosing that information. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Websites. By accessing or using our products or company websites, you agree to this privacy policy. This policy may change from time to time. Your continued use of the Websites after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-Swiftpage collects and stores information about its customers including, but not limited to: email address, survey results, phone number, credit card number, and billing address. This information is for the sole use of Swiftpage and used for billing accounts, new product and svervice notification, and customer support. Swiftpage does not sell email lists, survey results, or any other customer information and is committed to keeping your information confidential.  If you receive email through the Swiftpage system and wish to opt-out, simply click the “Leave this list” link in the footer of the email.  To be completely removed from the list that you are a part of, please contact the sender of the email by replying to that email (Swiftpage is not the list origin).  If you receive an email directly from Swiftpage (i.e. you are a current or past customer) and wish to have your name removed from our list, please reply to us at [CustomerCare@swiftpage.com](mailto:CustomerCare@swiftpage.com) with your request and we will be happy to honor it.
+This policy applies to information we collect:
 
-Personally identifiable information can be disclosed to government agencies subject to warrants, subpoenas, and other governmental orders.  
-In addition, personally identifiable information submitted by you in public forums on this site and via email campaign (view as a web page link) will be visible and displayed publicly.
+  * On the Websites.
+  * In e-mail, text and other electronic messages between you and the Websites.
+  * Through mobile and desktop applications you download from the Websites.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this policy.
 
-Swiftpage does not intentionally collect information from anyone under the age of 13.
 
-In the case of a merger or bankruptcy, Swiftpage would not sell customer information to 3rd parties.  The data would either become a part of the merger (keeping privacy in tact) or would destroy the information.
 
-Swiftpage keeps customer information for at least the duration that the account is active (paying).  Currently, Swiftpage archives all data which is then stored in a secure location.
+It does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Websites.
+
+**Information You Provide to Us.**
+
+The information we collect on or through the Websites may include:
+
+  * Information that you provide by filling in forms on our Websites. This includes information provided at the time of subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Details of transactions you carry out through our Websites and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Websites.
+  * Information about your internet connection, the equipment you use to access our Websites and/or applications, and usage details.
+
+
+
+**How we use your information.**
+
+We use information that we collect about you or that you provide to us:
+
+  * To present our Websites and its contents to you.
+  * To provide you with information, products or services that you request from us.
+  * To fulfill any other purpose for which you provide it.
+  * To provide you with notices about your account, including expiration and renewal notices.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Websites or any products or services we offer or provide though it.
+  * For customer support purposes.
+  * In special cases, such as protecting the rights, property, or safety of Swiftpage, our customers, or others.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+**Disclosure to Third Parties.** We may also provide information to our vendors, suppliers, authorized resellers, and other business, development, and industry partners ("Partners") to enable them to provide you with Swiftpage products or services.
+
+**Aggregate Information.** We also may provide information about you that does not allow you to be identified to, or contacted by, third parties ("Aggregate Information"). For example, we might inform third parties regarding the number of users of the Sites and the activities they conduct while on the Sites. Depending on the circumstances, we may or may not charge for this Aggregate Information. We may also use this Aggregate Information as part of products or services that we provide to third parties and to improve our products, services, and the Sites.
+
+**Services and product data.** Information collected by us as set forth above does not include your company's data entered in the course of operating our products ("Product Data") or data provided by you while using our services ("Services Data"). We will not access your Product Data or Services Data except in the following limited circumstances: (1) to provide you with technical support, solely at your request and with your permission; (2) on a limited-access basis to install updates, produce regular backups, or restore data from backups at your request; (3) where the inherent purpose of the product or service requires us to provide the Product Data or Services Data to a third party on your behalf (for example where we makes tax filings on your behalf or initiate bank transfers on your behalf) and, (4) unless you opt-out, to utilize Aggregate Information derived from Product Data and Services Data to help us improve our products and services and in developing additional offerings. We will not provide your Product Data or Services Data to any third party or permit any third party to access your Product Data or Services Data, except by your permission or to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order. In addition, if at any time you decide to discontinue your use of the applicable service, your Services Data will be destroyed and removed from all servers according to terms set forth in your Service Agreement.
+
+**Business transfers.** In the event that all or a portion of Swiftpage (or the assets of one of those entities), is bought or sold, your information will likely be included among the transferred business assets, but such information remains subject to this Privacy Policy or a Privacy Policy substantially similar to this privacy Policy.
+
+**U.S. Servers.** All data collected outside of the United States may be transferred and processed on servers located in the United States. Your submission of information to us constitutes your consent to this transfer. Although we will collect and use your Information only as stated in this Privacy Policy, laws generally applicable to the protection of personal data in the United States may not be as stringent as those in some users' home jurisdictions.
+
+**Children Under 13.** Swiftpage does not intentionally collect information from anyone under the age of 13.
+
+**Public Areas.** You also may provide information to be published or displayed (hereinafter, "posted") on public areas of the Websites, or transmitted to other users of the Website or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages/you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+
+**Your privacy choices**
+
+**Email and Opt-Out.** Occasionally, Swiftpage may send you communications to provide you with information or promotions relating to products and services that may be of interest to you, including notification of important product issues and updates. You may opt out of receiving these communications as indicated below. Additionally, we may still send you relationship or transactional messages in order to notify you of important product issues and updates, such as for the renewal of existing subscription services, to resolve specific questions or requests made by you via phone, fax, email, or the Web and in response to any activity completed on any of the Sites, including but not limited to, registration, ordering, downloads, and requests for information. Each email we send will contain instructions on how to unsubscribe in the event that you do not wish to receive future promotional emails from Swiftpage. Please allow 10 business days to be removed from the promotional email list. If you receive email through the Act! emarketing system and wish to opt-out, simply click the “Leave this list” link in the footer of the email.
+
+**Third-party email promotions.** If you access and/or use any third party services from a link on the Sites, a Partner co-branded site or by any other means, any information you reveal in connection with such service is submitted to that third party and is not subject to this Privacy Policy. You should consult the privacy policy of the third-party site with respect to its treatment of any information that you may reveal in connection with such service.
 
 **Commitment to Safe Harbor**
 
-In accordance with our commitment to protect personal privacy, Swiftpage adheres to the U.S.-EU Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce in consultation with the European Commission, as well as the U.S.-Swiss Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce in consultation with the Federal Data Protection and Information Commissioner of Switzerland.  The U.S.-EU and U.S.-Swiss Safe Harbor Frameworks comprise seven privacy principles and fifteen Frequently Asked Questions (FAQs) that are referred to in this policy. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>.  To view Swiftpage’s certification, please visit <https://safeharbor.export.gov/list.aspx>. 
+In accordance with our commitment to protect personal privacy, Swiftpage adheres to the U.S.-EU Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce in consultation with the European Commission, as well as the U.S.-Swiss Safe Harbor Privacy Principles as developed by the U.S. Department of Commerce in consultation with the Federal Data Protection and Information Commissioner of Switzerland. The U.S.-EU and U.S.-Swiss Safe Harbor Frameworks comprise seven privacy principles and fifteen Frequently Asked Questions (FAQs) that are referred to in this policy. These principles and FAQs may be found at: <http://www.export.gov/safeharbor>. 
 
-**Software**
+**Website Traffic**
 
-Swiftpage does not install cookies, or any other software on your computer.  When an email is sent to a recipient through the Swiftpage service, open and click information is gathered and reported back to the Swiftpage account owner for the purposes of tracking delivery and interest level.  The Swiftpage website uses analytics software to monitor traffic, but not personally identifiable information.
+The Swiftpage website uses analytics software to monitor traffic, but not personally identifiable information.
 
-**Dispute Resolution**
+**Updating Your Information**
 
-If a situation arises where you have a privacy dispute, please contact Swiftpage directly and we will be happy to work with you in a fair and practical manner (see Swiftpage contact information at the top of this page).  If after speaking with Swiftpage, you feel that you have not come to a mutually agreeable resolution, we shall participate in the dispute resolution procedures of the panel established by the EU data protection authorities to resolve disputes pursuant to the Safe Harbor Privacy Principles, as well as to cooperate and comply with the Swiss Federal Data Protection and Information Commissioner.
+Business and/or user information can be updated at any time by emailing Swiftpage at CustomerCare@swiftpage.com.
 
-**Payment**
+**Changes to Policy**
 
-Swiftpage does not store credit card information submitted through our online payment system.  Swiftpage uses established payment gateways (Sage Payment Solutions and Chase Paymentech) to process credit cards to ensure PCI compliance and security.
+Changes to the Swiftpage privacy policy will always be available at <http://www.swiftpageconnect.com/privacypolicy.htm> and can be viewed at any time. Questions relating to this policy can be sent to [CustomerCare@swiftpage.com](mailto:CustomerCare@swiftpage.com) or you can call 303.978.1000.
 
-**User Profile**
+**Swiftpage Contact Information:**
 
-Swiftpage customers set up a user profile within their account for the purpose of identifying them as the sender of email within the footer of the email.  This is done to ensure compliance with the U.S. CAN-SPAM law.  User profiles can be updated at any time by logging in to your account and clicking the User Profile button on the My Swiftpage page.
+You can contact Swiftpage by calling 303.978.1000 or by emailing [CustomerCare@swiftpage.com](mailto:CustomerCare@swiftpage.com).
 
-**Security**
+Swiftpage Physical Address:  
+621 17th Street  
+Suite 500  
+Denver, CO 80293
 
-Swiftpage is dedicated to keeping your information secure. Each customer account is password-protected to ensure that only you have access to your information. Swiftpage will never contact you with unsolicited phone calls or emails asking for your password so do not divulge your contact information to anyone contacting you in this manner. While we do everything in our power to ensure your information is secure, no data transmission over the Internet can be guaranteed 100% safe from those wishing to unlawfully obtain it.
-
-You may also want to read our [No Spam Policy](http://www.swiftpage.com/SpamPolicy.htm).
-
-**Privacy Policy**
-
-Changes to the Swiftpage privacy policy will always be available at <http://www.swiftpage.com/privacypolicy.htm> and can be viewed at any time.  Questions relating to this policy can be sent to [CustomerCare@swiftpage.com](mailto:CustomerCare@swiftpage.com) or you can call 303.978.1000.
-
-**Privacy Policy Effective Date**
-
-The current privacy policy is effective 3/7/2012. 
+**Privacy Policy Effective Date:**  
+The current privacy policy is effective 04/2014.
