@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the atarata.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616034610id_/http%3A//www.atarata.com/en/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atarata.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230203641id_/http%3A//www.atarata.com/en/support/privacy_policy) for the most accurate reproduction.*
 
 # Atarata
 
 ## A. INTRODUCTION
 
-This privacy statement was last updated on 1st February 2013. Alawar Entertainment, Inc., a Virginia corporation, and its affiliates (collectively, "Alawar") has created this privacy statement in order to disclose our information gathering and dissemination practices for this internet Website, [www.atarata.com](http://www.atarata.com/) and [www.alawargroup.com](http://www.alawargroup.com/) (collectively, "Website"). While Alawar's Website's is deemed to be a U.S. website, Alawar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know:
+This privacy statement was last updated on 1st February 2013. Alawar Entertainment, Inc., a Virginia corporation, and its affiliates (collectively, "Alawar") has created this privacy statement in order to disclose our information gathering and dissemination practices for this internet Website, [www.atarata.com](http://www.atarata.com/) (collectively, "Website"). While Alawar's Website's is deemed to be a U.S. website, Alawar abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon reading this privacy statement, you will know:
 
   1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the Website. 
   2. The organization collecting the information.
