@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axandra.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204022343id_/http%3A//www.axandra.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axandra.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230092639id_/http%3A//www.axandra.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # privacy-policy | Axandra SEO software tools
 
@@ -32,7 +32,7 @@ On some pages, you can order products, make requests, and register to receive un
 
 
 
-We use the information you provide about yourself when placing an order only to complete that order, to send you our announement newsletter (we’ll inform you when updates are available) and to use it internally for statistical reasons. We do not share this information with outside parties except to the extent necessary to complete that order.
+We use the information you provide about yourself when placing an order only to complete that order, to send you our announcement newsletter (we’ll inform you when updates are available) and to use it internally for statistical reasons. We do not share this information with outside parties except to the extent necessary to complete that order.
 
 We use return email addresses to answer the emails we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
@@ -40,7 +40,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 We use Google Analytics on our web pages. You can opt-out of Google Analytics with a browser [plugin](http://tools.google.com/dlpage/gaoptout). IP addresses will be anonymized.
 
-### Credit dard processing and security
+### Credit card processing and security
 
 Shopping with Axandra GmbH is absolutely safe – you never have to worry about credit card safety when you shop at our site. We guarantee that each purchase you make is protected and safe. If fraudulent charges are ever made, you will not have to pay them.
 
@@ -72,7 +72,7 @@ We believe in what we do. We’ll gladly give you a complete refund of the purch
 
 Shopping with Axandra is 100% safe – you never have to worry about credit card safety when you shop at our site. We guarantee that each purchase you make is protected and safe. If fraudulent charges are ever made, you will not have to pay them.
 
-  * Safety in Numbers: Axandra products are sold by SWREG, Inc. USA. SWREG is one of the oldest and biggest online stores on the Internet. When you shop at SWREG, you’ll be one of thethousands of customers who have safely shopped with SWREG without credit card fraud.
+  * Safety in Numbers: Axandra products are sold by SWREG, Inc. USA. SWREG is one of the oldest and biggest online stores on the Internet. When you shop at SWREG, you’ll be one of the thousands of customers who have safely shopped with SWREG without credit card fraud.
   * Safe Technology: SWREG’s secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts your credit card number, so that it cannot be read while the information travels over the Internet. 
 
 
