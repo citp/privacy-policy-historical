@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muscleforlife.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616165218id_/http%3A//www.muscleforlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscleforlife.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230045053id_/http%3A//www.muscleforlife.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Muscle For Life
 
@@ -14,7 +14,7 @@ Throughout this document, we may use certain words or phrases, and it is importa
 
 “Service” refers to the services that we provide through our Site, including our blog, health and fitness-related books and other services, and the Site itself;
 
-“Site” refers to our website, [www.muscleforlife.com](http://www.muscleforlife.com/);
+“Site” refers to our website, [www.muscleforlife.com](https://www.muscleforlife.com/);
 
 “User” refers to anyone who accesses our Site or uses our Service, regardless of whether such access involves any remuneration to any party;
 
