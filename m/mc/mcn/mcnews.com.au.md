@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mcnews.com.au privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501025507id_/http%3A//www.mcnews.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcnews.com.au privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230082651id_/http%3A//www.mcnews.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Motorcycle News Racing Reviews Tests
+# Privacy Policy MCNews.com.au
 
 MCNews Privacy Policy
 
