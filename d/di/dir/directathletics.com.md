@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the directathletics.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602002938id_/http%3A//www.directathletics.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directathletics.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230214045id_/http%3A//directathletics.com/privacy.html) for the most accurate reproduction.*
 
-# DirectAthletics | Privacy Policy
+# DirectAthletics
 
 We are committed to safeguarding the online privacy of our users, and recognize the importance of protecting the privacy of personal information collected. This policy may change from time to time, so please check back periodically. 
 
+  
 COLLECTION OF INFORMATION
 
 Our site's registration form requests users to give us contact information (like your name, graduation year, etc.). Some of the requested information is required in order to receive the DirectAthletics.com service; other information is optional. The required information is clearly marked as such on the registration pages. DirectAthletics collects personal information on users primarily for the administrative uses of coaches and administrators. Only authorized administrators and a user's current coach may view personal information submitted by a user within the site. By collecting this information, administrators can better monitor their users, and keep better track of users with handicaps or special medical conditions. Coaches will be able to view their athletes' contact information on their online roster for convenience purposes only. 
@@ -16,6 +17,7 @@ DirectAthletics or its affiliates may be collecting or tracking personal informa
 
 Please be aware that advertisements displayed on the DirectAthletics site or third party web sites which are linked from the DirectAthletics site may also collect information about you. The information practices of those advertisers and web sites are outside of our control and are not covered by this privacy policy. 
 
+  
 SUBSCRIBER SERVICES AND REGISTRATION DATA
 
 In order to access certain Subscriber Services within the site, you may be asked to provide Registration Data through an online registration form. You will then be supplied with a "username" and "password." The information collected may include your legal name, address, telephone number, birthday, email address, subscriber name or areas of interest, and/or password used to access Subscriber Services. DirectAthletics reserves the right to request any additional information necessary to establish and maintain your account for use of the Subscriber Services. 
@@ -26,6 +28,7 @@ We do not endorse the practice of sending unsolicited commercial e-mail (spam). 
 
 Use of the DirectAthletics site is conditioned on your provision of requested information in an accurate and truthful fashion. If you choose not to provide such information, you may not be able to access some or all of the site. Although DirectAthletics will use all reasonable efforts to safeguard the confidentiality of the Registration Data, transmissions made by means of the Internet cannot be guaranteed to be secure. DirectAthletics has no liability for disclosure of Registration Data due to errors in transmission or unauthorized acts of third parties. 
 
+  
 ACCESS TO PERSONAL INFORMATION
 
 DirectAthletics displays limited information about athlete users within its site. This information includes team affiliation and graduation year, as well as any publicly-available athletic results. This information may be viewed by all users in the site. 
