@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the techspot.com privacy policy that was archived on 2013-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131009204108id_/http%3A//www.techspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techspot.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044755id_/http%3A//www.techspot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TechSpot
 
-####  [Home](https://web.archive.org/) › [About](https://web.archive.org/about.shtml)
+  
+
 
 ### Visitor Notice
 
@@ -13,31 +14,50 @@ We will ask you when we need information that personally identifies you (Persona
   * To help us create content most relevant to you.
   * To alert you about updated information and other new services on TechSpot.
 
+  
 
 
 ### Visitor Consent
 
 If you choose not to register or provide personal information, you can still use most of the features on TechSpot, but you will not be able to access areas that require registration. TechSpot sends regular newsletters, which are sent only to opt-in lists. They also include a very easy and simple way to be removed once you have joined.
 
+  
+
+
 ### Security
 
 TechSpot strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+
+  
+
 
 ### Distribution of personal information
 
 TechSpot does not distribute personal information to any third parties. Should this change, TechSpot will not distribute any information without your prior express consent. Please be aware that it may be possible, depending on your use of various features on TechSpot, that some of your personal information is available on publicly accessible web pages. One example would be using the TechSpot Forums. Consent to expose some of your personal information in these cases is implied by the use of these features.
 
+  
+
+
 ### Third Party Ad Servers
 
-We may use third-party advertising companies to serve ads when you visit TechSpot. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to our site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative's consumer web site](http://www.networkadvertising.org/managing/opt_out.asp).
+We may use third-party advertising companies to serve ads when you visit TechSpot. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to our site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative's consumer web site](http://www.networkadvertising.org/choices/).
+
+  
+
 
 ### Hosted Sites
 
 TechSpot gives children between the ages of 13 and 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum. In order to comply with the COPPA ruling, if you are younger than 13 years of age, you are forbidden from becoming a member of TechSpot or posting information on TechSpot message boards without direct parental consent.
 
+  
+
+
 ### Enforcement
 
-If for some reason you believe TechSpot has not adhered to these principles, please notify us by e-mail at julio@techspot.com, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe TechSpot has not adhered to these principles, please [notify us by e-mail](mailto:julio@tec%68%73%70o%74.c%6Fm), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+
+  
+
 
 ### Changes to this document
 
