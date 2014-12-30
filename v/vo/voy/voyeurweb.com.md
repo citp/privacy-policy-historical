@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voyeurweb.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013139id_/http%3A//www.voyeurweb.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voyeurweb.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230104612id_/http%3A//www.voyeurweb.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# VoyeurWeb - Privacy Policy
 
 This document details important information regarding the use and disclosure of User Data collected on Voyeurweb.com   
 The security of your Data is very important to Voyeurweb.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.   
