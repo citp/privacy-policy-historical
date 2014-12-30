@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madamenoire.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628021837id_/http%3A//madamenoire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madamenoire.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044401id_/http%3A//madamenoire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MadameNoire
 
