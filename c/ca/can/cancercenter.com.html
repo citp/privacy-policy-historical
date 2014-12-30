@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cancercenter.com privacy policy that was archived on 2014-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629185325id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cancercenter.com privacy policy that was archived on 2014-12-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20141230013833id_/http%3A//www.cancercenter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js "><head id="head"><meta charset="utf-8">
     <!-- inform browser of foreign domains -->
@@ -24,7 +24,7 @@
 
     
     <meta name="DATE" content="1/1/0001">
-    <meta name="AGE" content="735412.578764369">
+    <meta name="AGE" content="735595.818442703">
     <meta name="CHARSET" content="utf-8">
     <meta name="LANGUAGE" content="en">
     <meta name="THUBNAIL" content="">
@@ -75,10 +75,105 @@
     <!-- mbox js -->
     <script src="/cancercenter_web/js/vendor/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
     
-    <link href="https://plus.google.com/105798235039401879263/" rel="publisher"><title>
+<script type="text/javascript">
 
-</title></head>
-<body>
+var ctca = ctca || {};
+ctca.browser = (function() {
+function isMobile() { return false; }
+function isTablet() { return false; }
+return { isMobile: isMobile, isTablet: isTablet };
+})();
+
+</script>
+
+<script type="text/javascript">
+if (ctca.browser.isTablet()) {
+    // Tablet
+} else if (ctca.browser.isMobile()) {
+    // Mobile
+} else {
+    // Notebook or larger 
+    var omni = {
+        debug: false, //Set to false to disable messages
+        tagId: "mbox init:"
+    };
+
+    if (typeof mboxCreate === "function") {
+        try {
+            mboxCreate("target-global-mbox");
+
+            var href = window.location.href;
+            var slashCount = href.match(/\//g).length;
+
+            var pHome = /((cms.)*(beta)*cancercenter.com\/?)$/g;
+            var pCancer = /(\/(\w|-)*(cancer|melanoma|leukemia|lymphoma|mesothelioma)+\/(\w|-)*\/)/g;
+            var pSymptoms = /\/symptoms\//g;
+            var pLearning = /\/types\/|\/symptoms\/|\/risk-factors\/|\/stages\//g;
+            var pBlog = /discussions\/blog\//g;
+            var pRiskFactors = /\/risk-factors\//g;
+            var pCancerDrugs = /cancer-drugs/g;
+
+
+            //Home page. Will match prod and beta site         
+            if (href.match(pHome)) {
+                mboxCreate("home_page_banner_mBox");
+                if (omni.debug) {
+                    console.log(omni.tagId + "Added: home_page_banner_mBox");
+                }
+            }
+            //Cancer specific pages  
+            if (href.match(pCancer) && !href.match(pLearning) && (slashCount === 5)) {
+                mboxCreate("cancer_specific_pages_mBox");
+                if (omni.debug) {
+                    console.log(omni.tagId + "Added: cancer_specific_pages_mBox");
+                }
+            }
+            //Symptoms pages
+            if (href.match(pSymptoms) && (slashCount === 5)) {
+                mboxCreate("symptoms_content_mBox");
+                if (omni.debug) {
+                    console.log(omni.tagId + "Added: symptoms_content_mBox");
+                }
+            }
+            //Risk Factors pages
+            if (href.match(pRiskFactors) && (slashCount === 5)) {
+                mboxCreate("risk_factors_content_mBox");
+                if (omni.debug) {
+                    console.log(omni.tagId + "Added: risk_factors_content_mBox");
+                }
+            }
+            //Cancer Drugs pages
+            if (href.match(pCancerDrugs)) {
+                mboxCreate("cancer_drugs_content_mBox");
+                if (omni.debug) {
+                    console.log(omni.tagId + "Added: cancer_drugs_content_mBox");
+                }
+            }
+            //Blog pages
+            if (href.match(pBlog)) {
+                mboxCreate("blog_content_mBox");
+                if (omni.debug) {
+                    console.log(omni.tagId + "Added: blog_content_mBox");
+                }
+            }
+
+        } catch (err) {
+            if (omni.debug) {
+                console.log(omni.tagId, err);
+            }
+        }
+
+    } else {
+        if (omni.debug) {
+            console.log(omni.tagId + "typeof mboxCreate:", typeof mboxCreate);
+        }
+    } 
+}
+</script></head><body><div class="mboxDefault" style="visibility: visible; display: block;"></div><div id="mboxMarker-default-target-global-mbox-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://cancertreatmentcente.tt.omtrdc.net/m2/cancertreatmentcente/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580491665230-398386&amp;mboxPage=1580491671504-902974&amp;screenHeight=600&amp;screenWidth=800&amp;browserWidth=1366&amp;browserHeight=768&amp;browserTimeOffset=0&amp;colorDepth=24&amp;mboxCount=1&amp;mbox=target-global-mbox&amp;mboxId=0&amp;mboxTime=1580491671507&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141230013833id_%2Fhttp%3A%2F%2Fwww.cancercenter.com%2Fprivacy-policy%2F&amp;mboxReferrer=&amp;mboxVersion=43" language="JavaScript"></script>
+<link href="https://plus.google.com/105798235039401879263/" rel="publisher"><title>
+
+</title>
+
     
     <!-- tealium -->
     <script src="analyticsTagHandler.axd?siteURL=http://www.cancercenter.com/&amp;pageURL=/privacy-policy/&amp;useCustomVariableNames=true"></script>
@@ -240,8 +335,8 @@
     <input type="hidden" name="ctl00$content$hidPageID" id="hidPageID" value="{A50EA539-B822-4A71-815E-EE26CAF0E055}">
     <input type="hidden" name="ctl00$content$hidDatabase" id="hidDatabase" value="web">
     <input type="hidden" name="ctl00$content$hidVideoChatStatus" id="hidVideoChatStatus" value="false">
-    <input type="hidden" name="ctl00$content$hidRemoteClientIP" id="hidRemoteClientIP" value="207.241.237.209">
-    <input type="hidden" name="ctl00$content$hidServerName" id="hidServerName" value="MAVAPPENG001PZ">
+    <input type="hidden" name="ctl00$content$hidRemoteClientIP" id="hidRemoteClientIP" value="207.241.237.211">
+    <input type="hidden" name="ctl00$content$hidServerName" id="hidServerName" value="MAVAPPENG002PZ">
     <input type="hidden" name="ctl00$content$hidFirstTouchSource" id="hidFirstTouchSource" value="INTNET">
     <input type="hidden" name="ctl00$content$hid90DaySource" id="hid90DaySource" value="INTNET">
     <input type="hidden" name="ctl00$content$hidLastTouchSource" id="hidLastTouchSource" value="INTNET">
@@ -290,8 +385,9 @@
 <p>We welcome any questions or comments you have about the Cancercenter.com site. </p>
 <p><strong>Daily Operations:</strong><br>
 Cancercenter.com <br>
-1336 Basswood Rd<br>
-Schaumburg, IL 60173</p>
+6000 Broken Sound Parkway NW<br> 
+Suite 103<br>
+Boca Raton, FL 33487</p>
 <p><strong>Managed and Owned By:</strong><br>
 Rising Tide<br>
 Herrenacker 15<br>
@@ -364,6 +460,7 @@ Switzerland</p>
                     <div class="nest-1-4">
 	                    <ul class="list-indent">
                             <li>Employment</li>
+		                    <li><a href="http://physicianjobs.cancercenter.com/">Physician Careers</a></li>
 		                    <li><a href="http://jobs.cancercenter.com">Search for a Career</a></li>
 	                    </ul>
                     </div>
@@ -563,4 +660,4 @@ try{(new g(100,"r","QSI_S_SI_diN0RgvwTQgkvB3","//zn_1yjcr1wrojvgxad-reputationin
 
 
 
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div style="clear: left;"><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button id="cboxPrevious"></button><button id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button id="cboxClose"></button></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><script type="text/javascript" src="//zn_1yjcr1wrojvgxad-reputationinstitute.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_diN0RgvwTQgkvB3&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140629185325id_%2Fhttp%3A%2F%2Fwww.cancercenter.com%2Fprivacy-policy%2F&amp;t=1580491672601"></script><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div style="clear: left;"><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button id="cboxPrevious"></button><button id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><button id="cboxClose"></button></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><script type="text/javascript" src="//zn_1yjcr1wrojvgxad-reputationinstitute.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_diN0RgvwTQgkvB3&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20141230013833id_%2Fhttp%3A%2F%2Fwww.cancercenter.com%2Fprivacy-policy%2F&amp;t=1580491674315"></script><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
