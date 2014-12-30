@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617054752id_/http%3A//www.bostonmagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonmagazine.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230172218id_/http%3A//www.bostonmagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Boston Magazine
 
@@ -40,13 +40,13 @@ Should Boston request other personally identifiable information from you, you ar
 
 In the normal course of visiting the Site, viewing our pages and downloading any information from the Site, our servers also collects information such as:
 
-\- The domain name from which you access the Internet
+– The domain name from which you access the Internet
 
-\- Client host names
+– Client host names
 
-\- Your computer’s Internet Protocol (IP) address
+– Your computer’s Internet Protocol (IP) address
 
-\- The name and version of your computer’s operating system and browser
+– The name and version of your computer’s operating system and browser
 
 **Use of Collected Information**
 
