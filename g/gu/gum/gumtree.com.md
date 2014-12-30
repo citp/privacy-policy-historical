@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630184343id_/http%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230232458id_/http%3A//www.gumtree.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | Gumtree.com
 
@@ -17,7 +17,7 @@
 
 ## 1\. General
 
-This privacy policy describes the policy of www.gumtree.com regarding the collection, use, storage, sharing and protection of your personal information ("Privacy Policy"). This Privacy Policy applies to the Gumtree website ("Website") and all related websites, applications, services and tools where reference is made to this policy ("Services"), regardless of how you access the Services, including access through mobile devices. In formal terms, Gumtree.com Limited ("Gumtree", "we" or "us"), 107 Cheapside, London, United Kingdom, EC2V 6DN, registered in England and Wales with number 3934849 is the data controller of your personal information.
+This privacy policy describes the policy of www.gumtree.com regarding the collection, use, storage, sharing and protection of your personal information ("Privacy Policy"). This Privacy Policy applies to the Gumtree website ("Website") and all related websites, applications, services and tools where reference is made to this policy ("Services"), regardless of how you access the Services, including access through mobile devices. In formal terms, Gumtree.com Limited ("Gumtree", "we" or "us"), 5 New Street Square, London, United Kingdom, EC4A 3TW, registered in England and Wales with number 3934849 is the data controller of your personal information.
 
 **Scope and consent:** By using www.gumtree.com and related Services, you give explicit consent to Gumtree for the collection, use, disclosure and retention of your personal information by us, as described in this Privacy Policy and our Terms of Use.
 
@@ -102,9 +102,10 @@ We cannot modify your personal information or account information. You can modif
   * by writing to the Data Controller at:  
 Gumtree.com Limited  
 Attention: Privacy Policy Requests  
-107 Cheapside  
-London, United Kingdom  
-EC2V 6DN  
+5 New Street Square  
+London  
+United Kingdom  
+EC4A 3TW  
 
 
 
