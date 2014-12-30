@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humblebundle.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630005551id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humblebundle.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042947id_/https%3A//www.humblebundle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ By using this Service, you agree to this Privacy Policy. This is our entire and 
 
 **Contacting Humble Bundle.**
 
-If you have any questions about this Privacy Policy or the privacy practices of Humble Bundle, please [contact us](https://www.humblebundle.com/contact) by emailing [contact@humblebundle.com](mailto:contact@humblebundle.com). 
+If you have any questions about this Privacy Policy or the privacy practices of Humble Bundle, please [contact us](https://support.humblebundle.com/). 
 
 **Governing Law**
 
