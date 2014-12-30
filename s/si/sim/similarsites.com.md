@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the similarsites.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628030414id_/http%3A//www.similarsites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the similarsites.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230172409id_/http%3A//www.similarsites.com/privacy-policy) for the most accurate reproduction.*
 
 # Similar Sites - Privacy Policy
 
