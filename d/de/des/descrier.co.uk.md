@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the descrier.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114320id_/http%3A//descrier.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the descrier.co.uk privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080620id_/http%3A//descrier.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Descrier news and culture magazine
 
