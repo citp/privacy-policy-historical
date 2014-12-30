@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the barclaycardus.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630045402id_/http%3A//www.barclaycardus.com/servicing/footerLinks%3FhandlePrivacy%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaycardus.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042741id_/http%3A//www.barclaycardus.com/servicing/footerLinks%3FhandlePrivacy%3D) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Revised as of December 2013
 
 At Barclays Bank Delaware ("Barclaycard") we respect your right to personal privacy, online and off. Our Privacy Policy is designed to provide you with protection and value. And it's written in "plain English." Here are the highlights:
 
