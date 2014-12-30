@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membermouse.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060715id_/https%3A//membermouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membermouse.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230080535id_/http%3A//membermouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MemberMouse
 
@@ -14,7 +14,7 @@ We Promise:
 
 3\. **Easy “one-click” unsubscribe.** If you want to get off our list permanently, there’s an “unsubscribe” link in every one of our outgoing e-mails. Just click it and you’re instantly off the list — that means you’ll never receive another e-mail from us (unless you specifically ask to, of course).
 
-The remainder of this Privacy Policy will let you know what kind of information we collect on the website at easieronlinedating.com (the “Site”), how it is handled, with whom it may be shared, what choices you have regarding our use of your information and how you may access some of the data you provide to us.
+The remainder of this Privacy Policy will let you know what kind of information we collect on the website at membermouse.com (the “Site”), how it is handled, with whom it may be shared, what choices you have regarding our use of your information and how you may access some of the data you provide to us.
 
 **PERSONALLY IDENTIFIABLE INFORMATION**
 
