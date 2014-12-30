@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053957id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230042703id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxDollars
 
@@ -9,7 +9,7 @@ InboxDollars® reserves the right to modify this Privacy Policy at any time. The
 
 The column on the right provides a short explanation of the privacy policy and is not legally binding.
 
-Last Updated: _November 26, 2012 9:00 a.m. CST_
+Last Updated: _July 14, 2014 2:49 p.m. CST_
 
 ## I. INFORMATION COLLECTION
 
@@ -63,7 +63,7 @@ We will use your email address to send you PaidEmails®, your home address to ma
 
   1. #### Definition
 
-InboxDollars® signup pages may contain co-registration checkboxes, where Users can choose to “co-register” for other Web Sites during their registration with InboxDollars® by checking the checkbox next to the co-registration Offer. Users are not required to select any co-registration boxes to join InboxDollars®;; however, they may be required to do so in order to qualify for Signup Bonus(es) and/or other promotions. 
+InboxDollars® signup pages may contain co-registration checkboxes, where Users can choose to “co-register” for other Web Sites during their registration with InboxDollars® by checking the checkbox next to the co-registration Offer. Users are not required to select any co-registration boxes to join InboxDollars®; however, they may be required to do so in order to qualify for Signup Bonus(es) and/or other promotions. 
 
   2. #### Information Sharing
 
@@ -84,15 +84,15 @@ Our Advertisers each have their own Privacy Policies.
 
   1. #### About Cookies and Third Party Technology.
 
-A “cookie” is a small data file that may be saved to and stored on your computer when you visit a website or open an email. Cookies permit a website to “remember” whether your computer has visited the website before and helps the website create a more personalized experience for you and records activities taken by you, such as offers completed.
+A “cookie” is a small data file that may be saved to and stored on your computer when you visit a website or open an email. Cookies permit a website to “remember” whether your computer has visited the website before and helps the website create a more personalized experience for you and records activities taken by you, such as offers completed. 
 
-In addition to cookie technology, InboxDollars® and our Advertisers use additional third party technology and tracking tools to record offers and activities completed by you, friends referred by you, and to communicate information about you, such as demographic information (e.g., age, gender), in order to target offers and advertisements to specific groups as requested by Advertisers. Cookies and other tracking technology is collectively referred to as “Cookies and Recording Tools.”
+In addition to cookie technology, InboxDollars® and our Advertisers use additional third party technology and tracking tools to record offers and activities completed by you, friends referred by you, and to communicate information about you, such as demographic information (e.g., age, gender), in order to target offers and advertisements to specific groups as requested by Advertisers. Cookies and other tracking technology is collectively referred to as “Cookies and Recording Tools.” 
 
-Your computer permits you to change the settings on your web browser to not accept and/or disable Cookies and Recording Tools. However, if you do not accept Cookies and Recording Tools used by InboxDollars® and our Advertisers, you may not be able to use certain functions on certain websites. More importantly, if you do not accept Cookies and Recording Tools you will not receive credit for offers or other actions completed by you because we and our Advertisers are unable to track and record your activity. If you do not want to accept Cookies and Recording Tools, you must stop using this website.
+Your computer permits you to change the settings on your web browser to not accept and/or disable Cookies and Recording Tools. However, if you do not accept Cookies and Recording Tools used by InboxDollars® and our Advertisers, you may not be able to use certain functions on certain websites. More importantly, if you do not accept Cookies and Recording Tools you will not receive credit for offers or other actions completed by you because we and our Advertisers are unable to track and record your activity. If you do not want to accept Cookies and Recording Tools, you must stop using this website. 
 
   2. #### Third Party Cookies
 
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>.
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies, please go to [www.aboutads.info/choices](http://www.aboutads.info/choices). 
 
   3. #### Referral and Affiliate Tracking
 
@@ -102,17 +102,17 @@ InboxDollars® uses cookies in order to track new User registrations. This ensur
 
 If you install the InboxDollars® toolbar, you are also subject to the terms and conditions of the Toolbar End User License Agreement (EULA). [Click here to view the EULA.](https://web.archive.org/pages/toolbar_terms)
 
-By using and/ or installing the toolbar, and/or by clicking the "I Agree" button, you agree that InboxDollars® and FreeCause (a third party vendor) or in all cases any replacement vendor to FreeCause, may collect, use, and share certain information and data relating to your use.
+By using and/ or installing the toolbar, and/or by clicking the "I Agree" button, you agree that InboxDollars® and FreeCause (a third party vendor) or in all cases any replacement vendor to FreeCause, may collect, use, and share certain information and data relating to your use. 
 
-How InboxDollars® collects, uses, and shares this information is described below and elsewhere in this Privacy Policy. How FreeCause collects, uses, and shares information is described by FreeCause in FreeCause's toolbar privacy policy located at http://www.freecause.com/toolbarprivacy and FreeCause's general website privacy policy located at http://www.freecause.com/privacy. These FreeCause policies, as they may be amended from time to time, are integrated and incorporated by reference into this Privacy Policy and are part of the EULA.
+How InboxDollars® collects, uses, and shares this information is described below and elsewhere in this Privacy Policy. How FreeCause collects, uses, and shares information is described by FreeCause in FreeCause's toolbar privacy policy located at http://www.freecause.com/toolbarprivacy and FreeCause's general website privacy policy located at http://www.freecause.com/privacy. These FreeCause policies, as they may be amended from time to time, are integrated and incorporated by reference into this Privacy Policy and are part of the EULA. 
 
-You understand and agree that software will be installed on your computer that will enable the toolbar to function. As part of that functioning, the toolbar will, automatically, collect, track, and transmit to InboxDollars® and FreeCause information regarding your search history.
+You understand and agree that software will be installed on your computer that will enable the toolbar to function. As part of that functioning, the toolbar will, automatically, collect, track, and transmit to InboxDollars® and FreeCause information regarding your search history. 
 
-The toolbar may also collect and transmit some basic information to InboxDollars®, such as your IP address, a search request, and data generated through cookies.
+The toolbar may also collect and transmit some basic information to InboxDollars®, such as your IP address, a search request, and data generated through cookies. 
 
-Any information collected through the toolbar may be used and shared by InboxDollars® as described in Section II above, as well as to provide the intended functionalities of the toolbar, such as notifying you of opportunities with various Affiliate companies.
+Any information collected through the toolbar may be used and shared by InboxDollars® as described in Section II above, as well as to provide the intended functionalities of the toolbar, such as notifying you of opportunities with various Affiliate companies. 
 
-InboxDollars® may use non-personally identifiable information in way it deems appropriate. We may also combine non-personally identifiable information with identifiable data. We may share and use this information for all purposes as permitted and described in this Privacy Policy generally.
+InboxDollars® may use non-personally identifiable information in way it deems appropriate. We may also combine non-personally identifiable information with identifiable data. We may share and use this information for all purposes as permitted and described in this Privacy Policy generally. 
 
   5. #### User Recognition
 
