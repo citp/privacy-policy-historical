@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the gsniper2.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220044547id_/http%3A//gsniper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsniper2.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044851id_/http%3A//gsniper.com/privacy.html) for the most accurate reproduction.*
 
-# George Brown's Google Sniper 2.0
+# George Brown's Google Sniper
 
 [Click Here To Go Back To The Main Presentation](http://gsniper.com/)
 
 PRIVACY POLICY  
 
 
-Welcome to gsniper2.com (the "Site").
+Welcome to gsniper.com (the "Site").
 
 we are fully aware of our responsibilities as honorable Internet citizens, and we maintain a ZERO TOLERANCE Spam Policy accordingly. We are highly sensitive to the privacy of and are dedicated to protecting the rights of all Internet citizens. We vigorously oppose the sending of unsolicited e-messages (Spam) and will make every effort to enforce our strict Anti-Spam policies. We do NOT allow anyone to use our products or services for the purpose of sending Spam, nor do we allow our products or services to be referenced in Spam. If any third party sends Spam to anyone, his or her account will be terminated.We understand that privacy online is important to users of our Site, especially when conducting business.   
 This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
@@ -55,9 +55,3 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 Links:  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
-
-This site and the products and services offered on this site are not associated, affiliated, endorsed, or sponsored by Google, Clickbank, eBay, Amazon, Yahoo or Bing nor have they been reviewed tested or certified by Google, Clickbank, Yahoo, eBay, Amazon, or Bing.
-
-ClickBank is a registered trademark of Keynetics Inc., a Delaware corporation. Google Sniper 2 is not affiliated with Keynetics Inc. in any way, nor does Keynetics Inc. sponsor or approve any Google Sniper 2 products. Keynetics Inc. expresses no opinion as to the correctness of any of the statements made by Google Sniper 2 in the materials on this Web page.
-
-[Earnings Disclaimer](https://web.archive.org/web/20140220044547id_/http%3A//gsniper.com/disclaimer.html) | [Terms & Conditions](https://web.archive.org/web/20140220044547id_/http%3A//gsniper.com/termsofuse.html) | [Privacy Policy](https://web.archive.org/web/20140220044547id_/http%3A//gsniper.com/privacy.html) | [Affiliates ](https://web.archive.org/affiliates)
