@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adnetinteractive.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628022358id_/http%3A//www.matomy.com/assets/global-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adnetinteractive.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044937id_/http%3A//www.matomy.com/assets/global-privacy-policy) for the most accurate reproduction.*
 
 # Global Privacy Policy | Matomy Media Group: Global Performance MarketingMatomy Media Group: Global Performance Marketing
 
