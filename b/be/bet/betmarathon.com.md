@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betmarathon.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616050953id_/http%3A//marathonbethelp.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betmarathon.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230091751id_/http%3A//marathonbethelp.com/en/privacy_policy) for the most accurate reproduction.*
 
 # MARATHON. Help - Privacy Policy
 
@@ -59,4 +59,4 @@ United Kingdom
 
 +44 1273 964706
 
-_Last Modified Date: 04/09/2013_
+Last Modified Date: 30/06/14
