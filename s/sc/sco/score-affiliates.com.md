@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the score-affiliates.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628032013id_/http%3A//help.ladbrokes.com/display/4/kb/article.aspx%3Faid%3D1120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the score-affiliates.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230060745id_/http%3A//help.ladbrokes.com/display/4/kb/article.aspx%3Faid%3D1120) for the most accurate reproduction.*
 
 # LBR Customer KB
 
