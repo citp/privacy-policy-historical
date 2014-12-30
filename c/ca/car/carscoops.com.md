@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carscoops.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609174326id_/http%3A//carscoop.blogspot.com/p/carscoop-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carscoops.com privacy policy that was archived on 2014-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141230044357id_/http%3A//www.carscoops.com/p/carscoop-privacy-policy.html) for the most accurate reproduction.*
 
-# Carscoops: Carscoops Privacy Policy
+# Carscoops: Carscoops Privacy Policy : Carscoops
 
 [](http://1.bp.blogspot.com/-IKuyTGh68PY/TpmjaOkdKdI/AAAAAAAFPUE/LmB9e_7ll3I/s1600/P-pr.jpg)
 
@@ -34,6 +34,5 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 [](http://4.bp.blogspot.com/-AfN6yfALbNY/Tpmhwxl0DoI/AAAAAAAFPTo/mqRpmO1jRts/s1600/P-pr.jpg)
 
-  
   
 
